@@ -19,5 +19,12 @@ The folder for retropath changes based on OS:
 
 codes/ directory will contain all codes needed for the project.
 project_root/ is the github repo iGEM.
-To use retropath but not only
+To use retropath but not only.
+
+Create a .gitignore in the folder codes/ 
+(see https://www.w3schools.com/git/git_ignore.asp for more info):
+    - execute the command: touch .gitignore
+    - open it and write inside:
+# ignore results folder, as it changes each time scripts are executed
+results/
         
