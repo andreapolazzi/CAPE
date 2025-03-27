@@ -1,0 +1,23 @@
+expected folder organization:
+
+project_root/
+│
+├── codes/
+│   ├── prova1.py
+│   └── prova1_crossplat.py 
+|
+└── retropath_1.0.0-alpha_linux-x64/ (for Linux)
+    ├── RetroPath.Cli (or .exe or .dll depending on OS)
+    └── example_data/
+        ├── rules.csv
+        ├── source.csv
+        └── sink.csv
+
+The folder for retropath changes based on OS:
+    - retropath_1.0.0-alpha_windows-x64.zip/ (for Windows)
+    - retropath_1.0.0-alpha_osx-arm64.zip/ (for macOS)
+
+codes/ directory will contain all codes needed for the project.
+project_root/ is the github repo iGEM.
+To use retropath but not only
+        
