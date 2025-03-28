@@ -19,7 +19,7 @@ def launch_example():
         retropath_cli = os.path.join(retropath_folder, 'RetroPath.Cli.exe')
         command_prefix = []  # No prefix needed for Windows executable
     elif current_os == 'darwin':  # macOS
-        retropath_folder = os.path.join(project_root, 'retropath_1.0.0-alpha_osx-arm64')
+        retropath_folder = os.path.join(project_root, 'osx-arm64')
         retropath_cli = os.path.join(retropath_folder, 'RetroPath.Cli.dll')
         command_prefix = ['dotnet']  # Requires dotnet to run .dll
     elif current_os == 'linux':
