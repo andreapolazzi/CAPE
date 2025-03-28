@@ -8,8 +8,11 @@ def launch_example():
 
     # Define the base directories
     codes_dir = os.path.dirname(os.path.abspath(__file__))  # Directory of the current script
-    project_root = os.path.dirname(codes_dir)  # Parent directory of 'codes'
-    
+    iGEM_root = os.path.dirname(codes_dir)  # Parent directory of 'codes'
+    project_root = os.path.dirname(iGEM_root)  # Parent directory of 'iGEM' repo
+    output_dir = os.path.join(iGEM_root, 'results')
+    os.makedirs(output_dir, exist_ok=True)  # Create output directory if it doesn't exist
+
     # Determine the correct folder and executable based on the operating system
     if current_os == 'windows':
         retropath_folder = os.path.join(project_root, 'retropath_1.0.0-alpha_windows-x64')
@@ -40,7 +43,9 @@ def launch_example():
             rules_file, 
             source_file, 
             sink_file, 
-            pathway_length
+            pathway_length,
+            '--output-dir',
+            output_dir
         ]
 
         # Print paths and OS info for debugging

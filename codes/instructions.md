@@ -28,7 +28,7 @@ iGEM/ is the github repo iGEM. <br>
 
 Create a .gitignore in the codes/ folder
 (see https://www.w3schools.com/git/git_ignore.asp for more info): <br>
-1. execute the command: touch .gitignore  
+1. execute the command: touch ```.gitignore```
 2. open it and write inside:
 ```
 # ignore results folder, as it changes each time  scripts are executed
