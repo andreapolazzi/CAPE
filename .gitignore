@@ -1,2 +1,4 @@
 # ignore results folder, as it changes each time  scripts are executed
 results/
+data_files/noti/README.md
+data_files/noti/retrorules_rr02_rp2_flat_forward.csv
