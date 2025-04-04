@@ -100,10 +100,10 @@ def glu_g3p():
 
     # insert code here
 
-    launch_retropath(#rules_file="iGEM/data_files/noti/retrorules_rr02_rp2_flat_forward.csv",
-                     rules_file="iGEM/data_files/noti/rules2.csv",
-                     source_file="iGEM/data_files/noti/source2.csv",
-                     sink_file="iGEM/data_files/noti/sink2.csv")
+    launch_retropath(rules_file="../retrorules_rr02_rp2_flat_forward.csv",
+                     #rules_file="./data_files/noti/rules2.csv",
+                     source_file="./data_files/noti/source2.csv",
+                     sink_file="./data_files/noti/sink2.csv")
 
 
 # Example usage
