@@ -50,6 +50,19 @@ def launch_retropath(**kwargs):
         pathway_length = kwargs["pathway_length"]
     else:
         pathway_length = '4'
+    if "min_diameter" in kwargs:
+        min_diameter = kwargs["min_diameter"]
+    else:
+        min_diameter = '0'
+    if "max_diameter" in kwargs:
+        max_diameter = kwargs["max_diameter"]
+    else:
+        max_diameter = '1000'
+    if "max_structures" in kwargs:
+        max_structures = kwargs["max_structures"]
+    else:
+        max_structures = '100'
+        # --max-structures 
 
     try:
         # Construct the command
@@ -60,7 +73,13 @@ def launch_retropath(**kwargs):
             sink_file, 
             pathway_length,
             '--output-dir',
-            output_dir
+            output_dir,
+            '--min-diameter',
+            min_diameter,
+            '--max-diameter',
+            max_diameter,
+            '--max-structures',
+            max_structures
         ]
 
         # Print paths and OS info for debugging
@@ -70,7 +89,7 @@ def launch_retropath(**kwargs):
         print("Command to be executed:", ' '.join(command))
 
         # Run the command
-        print("Launching RetroPath with example data...")
+        print("Launching RetroPath...")
         result = subprocess.run(command, check=True, capture_output=True, text=True)
 
         # Print the output
@@ -82,9 +101,9 @@ def launch_retropath(**kwargs):
     except subprocess.CalledProcessError as e:
         print(f"An error occurred while running RetroPath:")
         print(f"Return Code: {e.returncode}")
-        print("Standard Output:")
+        print("Standard Output Process Error:")
         print(e.stdout)
-        print("Standard Error:")
+        print("Standard Error Process Error:")
         print(e.stderr)
     except FileNotFoundError:
         print("Error: RetroPath CLI executable not found. Please check the file path.")
