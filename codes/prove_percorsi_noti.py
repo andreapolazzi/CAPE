@@ -1,6 +1,21 @@
 from prova_launch import launch_retropath
 import requests
 from rdkit import Chem
+from datetime import datetime
+
+
+def execute_with_timing(func, *args, **kwargs):
+    start_time = datetime.now()
+    print(f"[{start_time.strftime('%H:%M:%S')}] Starting {func.__name__}")
+    
+    result = func(*args, **kwargs)
+    
+    end_time = datetime.now()
+    print(f"[{end_time.strftime('%H:%M:%S')}] Completed {func.__name__}")
+    print(f"Total execution time: {end_time - start_time}")
+    
+    return result
+
 
 def get_inchi_from_kegg(kegg_id):
     """
@@ -42,9 +57,10 @@ def glu_f6p():
     if inchis:
         print(f"{inchis}")
 
-    launch_retropath(rules_file="iGEM/data_files/noti/rules1.csv",
-                     source_file="iGEM/data_files/noti/source1.csv",
-                     sink_file="iGEM/data_files/noti/sink1.csv")
+    launch_retropath(#rules_file="../retrorules_rr02_rp2_flat_forward.csv",
+                     rules_file="./data_files/noti/rules1.csv",
+                     source_file="./data_files/noti/source1.csv",
+                     sink_file="./data_files/noti/sink1.csv")
 
 
 def get_retrorules_from_inchi(inchi, diameter=12):
@@ -103,11 +119,18 @@ def glu_g3p():
     launch_retropath(rules_file="../retrorules_rr02_rp2_flat_forward.csv",
                      #rules_file="./data_files/noti/rules2.csv",
                      source_file="./data_files/noti/source2.csv",
-                     sink_file="./data_files/noti/sink2.csv")
+                     sink_file="./data_files/noti/sink2.csv",
+                     pathway_length="4",
+                     min_diameter="6",
+                     max_diameter="8",
+                     max_structures="5",
+                     )
 
 
 # Example usage
 if __name__ == "__main__":
 
     #glu_f6p()
-    glu_g3p()
+    #glu_g3p()
+    #execute_with_timing(glu_f6p)
+    execute_with_timing(glu_g3p)
