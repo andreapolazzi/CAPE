@@ -116,8 +116,8 @@ def glu_g3p():
 
     # insert code here
 
-    launch_retropath(rules_file="../retrorules_rr02_rp2_flat_forward.csv",
-                     #rules_file="./data_files/noti/rules2.csv",
+    launch_retropath(#rules_file="./retrorules_rr02_rp2_flat_forward.csv",
+                     rules_file="./data_files/noti/rules2.csv",
                      source_file="./data_files/noti/source2.csv",
                      sink_file="./data_files/noti/sink2.csv",
                      pathway_length="4",
@@ -126,6 +126,30 @@ def glu_g3p():
                      max_structures="5",
                      )
 
+def g3p_pep():
+    """
+    Example function to demonstrate the use of RetroPath for G3P to PEP conversion
+    """
+    # Define the KEGG IDs for G3P and PEP
+    kegg_ids = [
+                "C00118",  # glyceraldehyde 3-phosphate (G3P)
+                "C00074",  # phosphoenolpyruvate (PEP) InChI=1S/C3H5O6P/c1-2(3(4)5)9-10(6,7)8/h1H2,(H,4,5)(H2,6,7,8)
+                ]
+    
+    inchis = {kegg_id:get_inchi_from_kegg(kegg_id) for kegg_id in kegg_ids}
+    
+    if inchis:
+        print(f"{inchis}")
+
+    launch_retropath(#rules_file="./retrorules_rr02_rp2_flat_forward.csv",
+                     rules_file="./data_files/noti/rules3.csv",
+                     source_file="./data_files/noti/source3.csv",
+                     sink_file="./data_files/noti/sink3.csv",
+                     pathway_length="4",
+                     min_diameter="6",
+                     max_diameter="8",
+                     max_structures="5",
+                     )
 
 # Example usage
 if __name__ == "__main__":
@@ -133,4 +157,5 @@ if __name__ == "__main__":
     #glu_f6p()
     #glu_g3p()
     #execute_with_timing(glu_f6p)
-    execute_with_timing(glu_g3p)
+    #execute_with_timing(glu_g3p)
+    print(get_retrorules_from_inchi(get_inchi_from_kegg('C00074')))
