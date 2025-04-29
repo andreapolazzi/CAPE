@@ -5,3 +5,4 @@ data_files/noti/retrorules_rr02_rp2_flat_forward.csv
 pycache/
 __pycache__/
 */__pycache__/
+*.DS_Store
