@@ -1,0 +1,5 @@
+include RELEASE.md
+graft extras
+graft examples
+graft rp2paths/mnx-data
+graft rp2paths/efmtool
