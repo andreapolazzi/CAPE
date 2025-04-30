@@ -1,0 +1,14 @@
+name: rp2paths
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python >= 3.6
+  - rdkit <2024.09
+  - openjdk
+  - pytest
+  - pandas
+  - pydotplus
+  - graphviz
+  - python-graphviz
+  - lxml
