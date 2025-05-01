@@ -85,8 +85,8 @@ def met_to_muconolactone():
                      pathway_length="5",
                      min_diameter="6",
                      max_diameter="16",
-                     max_structures="100",
-                     #max_structures="50",
+                     #max_structures="100",
+                     max_structures="30",
                      )
     
 
@@ -112,11 +112,11 @@ if __name__ == "__main__":
     print("Only checked presence of ec\n")
 
     #print(obtain_beta_muconate())
-    #met_to_beta_muconate()
+    met_to_beta_muconate()
     print("MET to beta-Carboxy-cis,cis-muconate correct")
     print("Only checked presence of ec\n")
 
     #print(obtain_muconolactone())
-    met_to_muconolactone()
+    #met_to_muconolactone()
     print("Couldn't complete 5th step w/ 100 structures, probably due to memory or time")
     print("W/ 50 an error occured")
