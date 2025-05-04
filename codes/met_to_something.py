@@ -26,5 +26,3 @@ if __name__ == "__main__":
 
     #n_step_met(4)
     print("One-step long pathway produced results. Strange output: very few results. Muconate not found")
-
-    print("General remarks: 3-4-DIHYDROXYBENZOATE is found in R. opacus for biocyc (check) based on results.csv")
