@@ -1,4 +1,5 @@
 from prova_launch import launch_retropath
+from results_parser import find_pathways, results_to_df
 
 def n_step_met(n: int):
     launch_retropath(rules_file="../retrorules_rr02_rp2_flat_forward.csv",
@@ -26,3 +27,13 @@ if __name__ == "__main__":
 
     #n_step_met(4)
     print("One-step long pathway produced results. Strange output: very few results. Muconate not found")
+
+    # df = results_to_df("results/results.csv")
+    # print(df)
+    # paths = find_pathways(df, '3-4-DIHYDROXYBENZOATE')
+    # print(paths)
+
+    #n_step_met(4)
+    print("Nothing interesting")
+
+    n_step_met(5)
