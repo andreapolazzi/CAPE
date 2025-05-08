@@ -1,5 +1,6 @@
 from prova_launch import launch_retropath
 from prove_percorsi_noti import get_inchi_from_kegg
+import sys
 
 # can't obtain pet as is polymer
 def obtain_pet():
@@ -90,7 +91,36 @@ def met_to_muconolactone():
                      )
     
 
+def general_launch(path_len: int):
+    sink_files = {
+        1: "./data_files/terephtalate.csv",
+        2: "./data_files/ter_dihydrodiol.csv",
+        3: "./data_files/dihydroxy_benzoate.csv",
+        4: "./data_files/beta_carboxy_muconate.csv",
+        5: "./data_files/muconolactone.csv"
+    }
+    products = {
+        1: "terephthalate",
+        2: "terephthalate-1,2-cis-dihydrodiol",
+        3: "3,4-dihydroxybenzoate",
+        4: "beta-carboxy-cis,cis-muconate",
+        5: "gamma-carboxymuconolactone"
+    }
 
+    print("="*80)
+    print(f"\nTrying to obtain {products[path_len]} from MET\n")
+
+    launch_retropath(std_out=False,
+                     std_err=True,
+                     debug=True,
+                     rules_file="../retrorules_rr02_rp2_flat_forward.csv",
+                     source_file="./data_files/met.csv",
+                     sink_file=sink_files[path_len],
+                     pathway_length=str(path_len),
+                     min_diameter="6",
+                     max_diameter="16",
+                     max_structures="100")
+    
 
 
 if __name__ == "__main__":
@@ -112,7 +142,7 @@ if __name__ == "__main__":
     print("Only checked presence of ec\n")
 
     #print(obtain_beta_muconate())
-    met_to_beta_muconate()
+    #met_to_beta_muconate()
     print("MET to beta-Carboxy-cis,cis-muconate correct")
     print("Only checked presence of ec\n")
 
@@ -120,3 +150,7 @@ if __name__ == "__main__":
     #met_to_muconolactone()
     print("Couldn't complete 5th step w/ 100 structures, probably due to memory or time")
     print("W/ 50 an error occured")
+
+    if len(sys.argv) == 2:
+        path_len = int(sys.argv[1])
+        general_launch(path_len)
