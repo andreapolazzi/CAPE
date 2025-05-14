@@ -4,7 +4,7 @@ from results_parser import find_pathways, results_to_df
 def n_step_met(n: int):
     launch_retropath(rules_file="../retrorules_rr02_rp2_flat_forward.csv",
                      source_file="./data_files/met.csv",
-                     sink_file="./data_files/biocyc_cmpd_rpcleaned.csv",
+                     sink_file="./data_files/gem_central_rp.csv",
                      pathway_length=f"{n}",
                      min_diameter="6",
                      max_diameter="16",
@@ -36,4 +36,4 @@ if __name__ == "__main__":
     #n_step_met(4)
     print("Nothing interesting")
 
-    n_step_met(5)
+    n_step_met(2)
