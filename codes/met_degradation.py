@@ -1,5 +1,8 @@
 from prova_launch import launch_retropath
 from prove_percorsi_noti import get_inchi_from_kegg
+#from results_parser import print_results_paths
+from res_parser3 import parse_reaction_pathways
+import pandas as pd
 import sys
 
 # can't obtain pet as is polymer
@@ -100,14 +103,14 @@ def general_launch(path_len: int):
         5: "./data_files/muconolactone.csv"
     }
     products = {
-        1: "terephthalate",
-        2: "terephthalate-1,2-cis-dihydrodiol",
-        3: "3,4-dihydroxybenzoate",
-        4: "beta-carboxy-cis,cis-muconate",
-        5: "gamma-carboxymuconolactone"
+        1: "Terephthalate",
+        2: "Terephthalate-1,2-cis-dihydrodiol",
+        3: "3,4-Dihydroxybenzoate",
+        4: "beta-Carboxy-cis,cis-muconate",
+        5: "gamma-Carboxymuconolactone"
     }
 
-    print("="*80)
+    #print("="*80)
     print(f"\nTrying to obtain {products[path_len]} from MET\n")
 
     launch_retropath(std_out=False,
@@ -126,31 +129,53 @@ def general_launch(path_len: int):
 if __name__ == "__main__":
     #print(obtain_met())
     #met_to_terephtalate()
-    print("MET to Terephtalate correct")
+    #print("MET to Terephtalate correct")
     #met_to_terephtalate_multiple()
-    print("MET to Terephtalate multiple identified rules for diameters 6, 14, 16 (check) all with EC:3.1.1.102")
-    print("The results (1 everytime) are not the same as running all diameters together\n")
+    #print("MET to Terephtalate multiple identified rules for diameters 6, 14, 16 (check) all with EC:3.1.1.102")
+    #print("The results (1 everytime) are not the same as running all diameters together\n")
     
     #print(obtain_ter_dihyrodiol())
     #met_to_terephtalate_dihydrodiol()
-    print("MET to Terephthalate-1,2-cis-dihydrodiol correct")
-    print("Produced 1 result\n")
+    #print("MET to Terephthalate-1,2-cis-dihydrodiol correct")
+    #print("Produced 1 result\n")
 
     #print(obtain_dihydroxy_benzoate())
     #met_to_dihydroxy_benzoate()
-    print("MET to 3,4-dihydroxybenzoate correct")
-    print("Only checked presence of ec\n")
+    #print("MET to 3,4-dihydroxybenzoate correct")
+    #print("Only checked presence of ec\n")
 
     #print(obtain_beta_muconate())
     #met_to_beta_muconate()
-    print("MET to beta-Carboxy-cis,cis-muconate correct")
-    print("Only checked presence of ec\n")
+    #print("MET to beta-Carboxy-cis,cis-muconate correct")
+    #print("Only checked presence of ec\n")
 
     #print(obtain_muconolactone())
     #met_to_muconolactone()
-    print("Couldn't complete 5th step w/ 100 structures, probably due to memory or time")
-    print("W/ 50 an error occured")
+    #print("Couldn't complete 5th step w/ 100 structures, probably due to memory or time")
+    #print("W/ 50 an error occured")
+
+    sink_names = {
+        1: "Terephthalate",
+        2: "Terephthalate-1,2-cis-dihydrodiol",
+        3: "3,4-Dihydroxybenzoate",
+        4: "beta-Carboxy-cis,cis-muconate",
+        5: "gamma-Carboxymuconolactone"
+    }
 
     if len(sys.argv) == 2:
         path_len = int(sys.argv[1])
         general_launch(path_len)
+        print("-"*80)
+        #print("\nPaths obtained: \n")
+        #print_results_paths(sink_names[path_len])
+        pathways_df = parse_reaction_pathways()
+        print(f"Successfully identified {pathways_df['Path_ID'].nunique()} distinct pathways")
+        #print("\nSummary of pathways dataframe:")
+        #print(f"Shape: {pathways_df.shape}")
+        print("\nFirst few rows with all columns:")
+        pd.set_option('display.max_columns', None)
+        print(pathways_df.head())
+        print("\nColumn names:")
+        print(pathways_df.columns)
+    else:
+        print("Usage (Linux): python3 met_degradation.py <pathway_length>")
