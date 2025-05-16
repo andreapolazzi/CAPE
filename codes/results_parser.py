@@ -30,10 +30,10 @@ def extract_row_data(df, queries):
     """
     target_rows = df
     for query in queries:
-        print(query)
+        #print(query)
         col_name, cond = query
         target_rows = target_rows[target_rows[col_name] == cond]
-        print(target_rows)
+        #print(target_rows)
     target_rows.drop_duplicates(inplace=True)
     if not target_rows.empty:
             results = []
@@ -76,6 +76,20 @@ if __name__ == "__main__":
 
     #data = extract_row_data(df, 'Sink name', '[beta-Carboxy-cis,cis-muconate]')
     #print(data)
+    """
     paths = find_pathways(df, 'beta-Carboxy-cis,cis-muconate')
     for path in paths:
         print(path[::-1], "\n")
+    """
+    sinks_df = df[ df["In Sink"] != 0 ]
+    sinks_df.drop_duplicates(subset=["Sink name"], inplace=True)
+    sinks = sinks_df["Sink name"].tolist()
+    for i in range(len(sinks)):
+        sinks[i] = sinks[i].replace("[", "").replace("]", "")
+
+    for sink in sinks:
+        print(f"Sink: {sink}")
+        paths = find_pathways(df, sink)
+        for path in paths:
+            print(path[::-1], "\n")
+        print("\n\n")
