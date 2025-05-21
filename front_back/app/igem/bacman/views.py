@@ -6,3 +6,6 @@ def homepage(request):
 
 def contact(request):
     return render(request, 'bacman/contactBacman.html')
+
+def help(request):
+    return render(request, 'bacman/helpBacman.html')

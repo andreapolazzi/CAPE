@@ -6,6 +6,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>BACMAN</title>
+    <link rel="website icon" type="png" href="{% static 'images/LOGO BACMAN TRASPARENTE.png' %}">
     <style>
         * {
             margin: 0;
@@ -97,7 +98,7 @@
         .banner-image {
             width: 100%;
             height: 350px;
-            background-image: url(PHOTO-2025-05-15-15-46-55.jpg);
+            background-image: url('static/images/PHOTO-2025-05-15-15-46-55.jpg');
             background-size: cover;
             background-position: center;
             position: relative;
@@ -254,8 +255,8 @@
         </div>
         <nav>
             <a href="#">Home</a>
-            <a href="#">Help</a>
-            <a href="#">Contact Us</a>
+            <a href="{% url 'help' %}">Help</a>
+            <a href="{% url 'contact' %}">Contact Us</a>
         </nav>
     </header>
 
@@ -285,14 +286,13 @@
         <div class="footer-content">
             <div class="footer-links">
                 <a href="#"><u><strong>Home</strong></u></a>
-                <a href="#">Help</a>
-                <a href="#">Contact Us</a>
+                <a href="{% url 'help' %}">Help</a>
+                <a href="{% url 'contact' %}">Contact Us</a>
             </div>
             <div class="social-icons">
-                <a href="#"><img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAzMjAgNTEyIj48cGF0aCBkPSJNMjc5LjE0IDI4OGwxNC4yMi05Mi42NmgtODguOTF2LTYwLjEzYzAtMjUuMzUgMTIuNDItNTAuMDYgNTIuMjQtNTAuMDZoNDAuNDJWNi4yNlMyNjAuNDMgMCAyMjUuMzYgMGMtNzMuMjIgMC0xMjEuMDggNDQuMzgtMTIxLjA4IDEyNC43djcwLjYySDE5LjI5VjI4OGg4NC45OXYyMjRoMTA0Ljg4VjI4OGg2OS45OHoiIGZpbGw9IiMyZDFkNGIiLz48L3N2Zz4=" alt="Facebook"></a>
-                <a href="#"><img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAzMjAgNTEyIj48cGF0aCBkPSJNMjc5LjE0IDI4OGwxNC4yMi05Mi42NmgtODguOTF2LTYwLjEzYzAtMjUuMzUgMTIuNDItNTAuMDYgNTIuMjQtNTAuMDZoNDAuNDJWNi4yNlMyNjAuNDMgMCAyMjUuMzYgMGMtNzMuMjIgMC0xMjEuMDggNDQuMzgtMTIxLjA4IDEyNC43djcwLjYySDE5LjI5VjI4OGg4NC45OXYyMjRoMTA0Ljg4VjI4OGg2OS45OHoiIGZpbGw9IiMyZDFkNGIiLz48L3N2Zz4=" alt="Facebook"></a>
-                <a href="#"><img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAzMjAgNTEyIj48cGF0aCBkPSJNMjc5LjE0IDI4OGwxNC4yMi05Mi42NmgtODguOTF2LTYwLjEzYzAtMjUuMzUgMTIuNDItNTAuMDYgNTIuMjQtNTAuMDZoNDAuNDJWNi4yNlMyNjAuNDMgMCAyMjUuMzYgMGMtNzMuMjIgMC0xMjEuMDggNDQuMzgtMTIxLjA4IDEyNC43djcwLjYySDE5LjI5VjI4OGg4NC45OXYyMjRoMTA0Ljg4VjI4OGg2OS45OHoiIGZpbGw9IiMyZDFkNGIiLz48L3N2Zz4=" alt="Facebook"></a>
-                <a href="#"><img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAzMjAgNTEyIj48cGF0aCBkPSJNMjc5LjE0IDI4OGwxNC4yMi05Mi42NmgtODguOTF2LTYwLjEzYzAtMjUuMzUgMTIuNDItNTAuMDYgNTIuMjQtNTAuMDZoNDAuNDJWNi4yNlMyNjAuNDMgMCAyMjUuMzYgMGMtNzMuMjIgMC0xMjEuMDggNDQuMzgtMTIxLjA4IDEyNC43djcwLjYySDE5LjI5VjI4OGg4NC45OXYyMjRoMTA0Ljg4VjI4OGg2OS45OHoiIGZpbGw9IiMyZDFkNGIiLz48L3N2Zz4=" alt="Facebook"></a>
+                <a href="#"><img src="{% static 'images/insta_logo.png' %}" alt="Instagram"></a>
+                <a href="#"><img src="{% static 'images/linkedin_logo.png' %}" alt="LinkedIn"></a>
+                <a href="#"><img src="{% static 'images/gmail_logo.png' %}" alt="Gmail"></a>
             </div>
             <button class="donate-btn">DONA ORA</button>
         </div>
