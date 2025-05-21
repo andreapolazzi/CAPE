@@ -1,9 +1,12 @@
+{% load static %}
+
 <!DOCTYPE html>
 <html lang="it">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>BACMAN Tool</title>
+    <title>HELP</title>
+    <link rel="website icon" type="png" href="{% static 'images/LOGO BACMAN TRASPARENTE.png' %}">
     <style>
         * {
             margin: 0;
@@ -190,14 +193,14 @@
 <body>
     <header>
         <div class="logo-container">
-            <img src="/api/placeholder/50/50" alt="BACMAN Logo">
+            <img src="{% static 'images/LOGO BACMAN TRASPARENTE.png' %}">
             <span class="logo-text">BACMAN</span>
         </div>
         <nav>
             <ul>
-                <li><a href="#">Home</a></li>
+                <li><a href="{% url 'homepage' %}">Home</a></li>
                 <li><a href="#">Help</a></li>
-                <li><a href="#">Contact Us</a></li>
+                <li><a href="{% url 'contact' %}">Contact Us</a></li>
             </ul>
         </nav>
         <a href="#" class="login-btn">Login</a>
@@ -234,16 +237,15 @@
     <footer>
         <div class="footer-content">
             <div class="footer-links">
-                <a href="#">Home</a>
+                <a href="{% url 'homepage' %}">Home</a>
                 <a href="#">Help</a>
-                <a href="#">Contact Us</a>
+                <a href="{% url 'contact' %}">Contact Us</a>
             </div>
             
             <div class="social-icons">
-                <a href="#" class="social-icon">f</a>
-                <a href="#" class="social-icon">f</a>
-                <a href="#" class="social-icon">f</a>
-                <a href="#" class="social-icon">f</a>
+                <a href="#"><img src="{% static 'images/insta_logo.png' %}" alt="Instagram"></a>
+                <a href="#"><img src="{% static 'images/linkedin_logo.png' %}" alt="LinkedIn"></a>
+                <a href="#"><img src="{% static 'images/gmail_logo.png' %}" alt="Gmail"></a>
             </div>
             
             <a href="#" class="donate-button">DONA ORA (forse non necessario)</a>
