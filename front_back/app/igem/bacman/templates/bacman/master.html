@@ -6,8 +6,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>{% block title %}{% endblock %}</title>
-    {% block head %}
-    <link rel="website icon" type="png" href="{% static 'images/LOGO BACMAN TRASPARENTE.png' %}">  {% endblock %}
+    <link rel="website icon" type="png" href="{% static 'images/LOGO BACMAN TRASPARENTE.png' %}">
     <style>
         * {
             margin: 0;
@@ -247,7 +246,6 @@
 </head>
 <body>
     <header>
-        {% block header %}
         <div class="header-content">
             <div class="logo">
                 <img src="{% static 'images/LOGO BACMAN TRASPARENTE.png' %}">
@@ -260,18 +258,15 @@
             <a href="{% url 'help' %}">Help</a>
             <a href="{% url 'contact' %}">Contact Us</a>
         </nav>
-        {% endblock %}
     </header>
     {% block banner %}
     <div class="banner-image">
         <!-- Background image of bacteria/molecules is applied via CSS -->
-    </div>
-    {% endblock %}
+    </div> {% endblock %}
 
-    <div class="container">{% block content %}{% endblock %}  </div> 
+    <div class="container">{% block content %}{% endblock %}  </div>
 
     <footer>
-        {% block footer %}
         <div class="footer-content">
             <div class="footer-links">
                 <a href="#">Home</a>
@@ -289,7 +284,7 @@
             <div></div>
             <div class="copyright">© copyrights ajsodwoefmomwhf</div>
         </div>
-        {% endblock %}
+
     </footer>
 </body>
 </html>
