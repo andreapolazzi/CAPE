@@ -1,0 +1,35 @@
+enzyme_name	EC	source_node_name	target_node_name
+6-phosphofructokinase 1	2.7.1.11	D-Fructose 6-phosphate	D-Fructose 1,6-bisphosphate
+6-phosphogluconate dehydrogenase [EC:1.1.1.44	1.343	6-Phospho-D-gluconate	D-Ribulose 5-phosphate
+6-phosphogluconolactonase	3.1.1.31	D-Glucono-1,5-lactone 6-phosphate	6-Phospho-D-gluconate
+deoxyribose-phosphate aldolase	4.1.2.4	2-Deoxy-D-ribose 5-phosphate	D-Glyceraldehyde 3-phosphate
+fructose-1,6-bisphosphatase I	3.1.3.11	D-Fructose 1,6-bisphosphate	D-Fructose 6-phosphate
+fructose-bisphosphate aldolase, class I	4.1.2.13	D-Fructose 1,6-bisphosphate	D-Glyceraldehyde 3-phosphate
+gluconokinase	2.7.1.12	D-Gluconic acid	6-Phospho-D-gluconate
+gluconolactonase	3.1.1.17	D-Glucono-1,5-lactone	D-Gluconic acid
+glucose-6-phosphate 1-dehydrogenase [EC:1.1.1.49	1.363	beta-D-Glucose 6-phosphate	D-Glucono-1,5-lactone 6-phosphate
+glucose-6-phosphate isomerase	5.3.1.9	alpha-D-Glucose 6-phosphate	D-Fructose 6-phosphate
+glucose-6-phosphate isomerase	5.3.1.9	alpha-D-Glucose 6-phosphate	beta-D-Glucose 6-phosphate
+glycerate 2-kinase	2.7.1.165	D-Glycerate	2-Phospho-D-glycerate
+hexose-6-phosphate dehydrogenase [EC:1.1.1.47	1.31	D-Glucono-1,5-lactone 6-phosphate	6-Phospho-D-gluconate
+hexose-6-phosphate dehydrogenase [EC:1.1.1.47	1.31	beta-D-Glucose 6-phosphate	D-Glucono-1,5-lactone 6-phosphate
+phosphoglucomutase	5.4.2.2	alpha-D-Ribose 1-phosphate	D-Ribose 5-phosphate
+phosphoglucomutase / phosphopentomutase [EC:5.4.2.2	2.7	2-Deoxy-D-ribose 1-phosphate	2-Deoxy-D-ribose 5-phosphate
+phosphoglucomutase / phosphopentomutase [EC:5.4.2.2	2.7	alpha-D-Ribose 1-phosphate	D-Ribose 5-phosphate
+ribokinase	2.7.1.15	D-Ribose	D-Ribose 5-phosphate
+ribokinase	2.7.1.15	Deoxyribose	2-Deoxy-D-ribose 5-phosphate
+ribose 5-phosphate isomerase A	5.3.1.6	D-Ribose 5-phosphate	D-Ribulose 5-phosphate
+ribose-phosphate pyrophosphokinase	2.7.6.1	D-Ribose 5-phosphate	5-Phospho-alpha-D-ribose 1-diphosphate
+ribulose-phosphate 3-epimerase	5.1.3.1	D-Ribulose 5-phosphate	D-Xylulose 5-phosphate
+sedoheptulokinase	2.7.1.14	Sedoheptulose	Sedoheptulose 7-phosphate
+transaldolase	2.2.1.2	D-Glyceraldehyde 3-phosphate	D-Erythrose 4-phosphate
+transaldolase	2.2.1.2	D-Glyceraldehyde 3-phosphate	D-Fructose 6-phosphate
+transaldolase	2.2.1.2	Sedoheptulose 7-phosphate	D-Erythrose 4-phosphate
+transaldolase	2.2.1.2	Sedoheptulose 7-phosphate	D-Fructose 6-phosphate
+transketolase	2.2.1.1	D-Fructose 6-phosphate	D-Erythrose 4-phosphate
+transketolase	2.2.1.1	D-Fructose 6-phosphate	D-Xylulose 5-phosphate
+transketolase	2.2.1.1	D-Glyceraldehyde 3-phosphate	D-Erythrose 4-phosphate
+transketolase	2.2.1.1	D-Glyceraldehyde 3-phosphate	D-Ribose 5-phosphate
+transketolase	2.2.1.1	D-Glyceraldehyde 3-phosphate	D-Xylulose 5-phosphate
+transketolase	2.2.1.1	Sedoheptulose 7-phosphate	D-Ribose 5-phosphate
+transketolase	2.2.1.1	Sedoheptulose 7-phosphate	D-Xylulose 5-phosphate

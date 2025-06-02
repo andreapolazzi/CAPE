@@ -1,0 +1,40 @@
+enzyme_name	EC	source_node_name	target_node_name
+2,3-bisphosphoglycerate-dependent phosphoglycerate mutase	5.4.2.11	2-Phospho-D-glycerate	3-Phospho-D-glycerate
+6-phosphofructokinase 1	2.7.1.11	D-Fructose 6-phosphate	D-Fructose 1,6-bisphosphate
+ADP-dependent glucokinase	2.7.1.147	alpha-D-Glucose	alpha-D-Glucose 6-phosphate
+ADP-dependent glucokinase	2.7.1.147	beta-D-Glucose	beta-D-Glucose 6-phosphate
+L-lactate dehydrogenase	1.1.1.27	(S)-Lactate	Pyruvate
+acetyl-CoA synthetase	6.2.1.1	Acetate	Acetyl-CoA
+alcohol dehydrogenase (NADP+)	1.1.1.2	Ethanol	Acetaldehyde
+alcohol dehydrogenase 1/7	1.1.1.1	Ethanol	Acetaldehyde
+aldehyde dehydrogenase (NAD(P)+)	1.2.1.5	Acetaldehyde	Acetate
+aldehyde dehydrogenase (NAD+)	1.2.1.3	Acetaldehyde	Acetate
+aldose 1-epimerase	5.1.3.3	alpha-D-Glucose	beta-D-Glucose
+bisphosphoglycerate/phosphoglycerate mutase [EC:5.4.2.4	2.11	2,3-Bisphospho-D-glycerate	3-Phospho-D-glycerate
+bisphosphoglycerate/phosphoglycerate mutase [EC:5.4.2.4	2.11	3-Phospho-D-glyceroyl phosphate	2,3-Bisphospho-D-glycerate
+dihydrolipoyl dehydrogenase	1.8.1.4	Enzyme N6-(dihydrolipoyl)lysine	Enzyme N6-(lipoyl)lysine
+enolase 1/2/3	4.2.1.11	2-Phospho-D-glycerate	Phosphoenolpyruvate
+fructose-1,6-bisphosphatase I	3.1.3.11	D-Fructose 1,6-bisphosphate	D-Fructose 6-phosphate
+fructose-bisphosphate aldolase, class I	4.1.2.13	D-Fructose 1,6-bisphosphate	D-Glyceraldehyde 3-phosphate
+fructose-bisphosphate aldolase, class I	4.1.2.13	D-Fructose 1,6-bisphosphate	Glycerone phosphate
+glucokinase	2.7.1.2	alpha-D-Glucose	alpha-D-Glucose 6-phosphate
+glucokinase	2.7.1.2	beta-D-Glucose	beta-D-Glucose 6-phosphate
+glucose-6-phosphatase	3.1.3.9	alpha-D-Glucose 6-phosphate	alpha-D-Glucose
+glucose-6-phosphate isomerase	5.3.1.9	alpha-D-Glucose 6-phosphate	D-Fructose 6-phosphate
+glucose-6-phosphate isomerase	5.3.1.9	alpha-D-Glucose 6-phosphate	beta-D-Glucose 6-phosphate
+glyceraldehyde 3-phosphate dehydrogenase (phosphorylating)	1.2.1.12	D-Glyceraldehyde 3-phosphate	3-Phospho-D-glyceroyl phosphate
+hexokinase	2.7.1.1	alpha-D-Glucose	alpha-D-Glucose 6-phosphate
+hexokinase	2.7.1.1	beta-D-Glucose	beta-D-Glucose 6-phosphate
+multiple inositol-polyphosphate phosphatase / 2,3-bisphosphoglycerate 3-phosphatase [EC:3.1.3.62	3.80	2,3-Bisphospho-D-glycerate	2-Phospho-D-glycerate
+phosphoglucomutase	5.4.2.2	D-Glucose 1-phosphate	alpha-D-Glucose 6-phosphate
+phosphoglycerate kinase	2.7.2.3	3-Phospho-D-glycerate	3-Phospho-D-glyceroyl phosphate
+pyruvate dehydrogenase E1 component subunit alpha	1.2.4.1	2-(alpha-Hydroxyethyl)thiamine diphosphate	S-acetyldihydrolipoyllysine
+pyruvate dehydrogenase E1 component subunit alpha	1.2.4.1	2-(alpha-Hydroxyethyl)thiamine diphosphate	Thiamin diphosphate
+pyruvate dehydrogenase E1 component subunit alpha	1.2.4.1	Enzyme N6-(lipoyl)lysine	S-acetyldihydrolipoyllysine
+pyruvate dehydrogenase E1 component subunit alpha	1.2.4.1	Enzyme N6-(lipoyl)lysine	Thiamin diphosphate
+pyruvate dehydrogenase E1 component subunit alpha	1.2.4.1	Pyruvate	2-(alpha-Hydroxyethyl)thiamine diphosphate
+pyruvate dehydrogenase E1 component subunit alpha	1.2.4.1	Thiamin diphosphate	2-(alpha-Hydroxyethyl)thiamine diphosphate
+pyruvate dehydrogenase E2 component (dihydrolipoyllysine-residue acetyltransferase)	2.3.1.12	Acetyl-CoA	S-acetyldihydrolipoyllysine
+pyruvate dehydrogenase E2 component (dihydrolipoyllysine-residue acetyltransferase)	2.3.1.12	Enzyme N6-(dihydrolipoyl)lysine	S-acetyldihydrolipoyllysine
+pyruvate kinase isozymes R/L	2.7.1.40	Phosphoenolpyruvate	Pyruvate
+triosephosphate isomerase (TIM)	5.3.1.1	D-Glyceraldehyde 3-phosphate	Glycerone phosphate
