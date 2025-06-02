@@ -1,0 +1,32 @@
+enzyme_name	EC	source_node_name	target_node_name
+2-oxoglutarate dehydrogenase E1 component	1.2.4.2	2-Oxoglutarate	3-Carboxy-1-hydroxypropyl-ThPP
+2-oxoglutarate dehydrogenase E1 component	1.2.4.2	3-Carboxy-1-hydroxypropyl-ThPP	S-succinyldihydrolipoyllysine
+2-oxoglutarate dehydrogenase E1 component	1.2.4.2	3-Carboxy-1-hydroxypropyl-ThPP	Thiamin diphosphate
+2-oxoglutarate dehydrogenase E1 component	1.2.4.2	Enzyme N6-(lipoyl)lysine	S-succinyldihydrolipoyllysine
+2-oxoglutarate dehydrogenase E1 component	1.2.4.2	Enzyme N6-(lipoyl)lysine	Thiamin diphosphate
+2-oxoglutarate dehydrogenase E1 component	1.2.4.2	Thiamin diphosphate	3-Carboxy-1-hydroxypropyl-ThPP
+2-oxoglutarate dehydrogenase E2 component (dihydrolipoamide succinyltransferase)	2.3.1.61	Enzyme N6-(dihydrolipoyl)lysine	S-succinyldihydrolipoyllysine
+2-oxoglutarate dehydrogenase E2 component (dihydrolipoamide succinyltransferase)	2.3.1.61	Succinyl-CoA	S-succinyldihydrolipoyllysine
+ATP citrate (pro-S)-lyase	2.3.3.8	Acetyl-CoA	Citrate
+ATP citrate (pro-S)-lyase	2.3.3.8	Oxaloacetate	Citrate
+aconitate hydratase	4.2.1.3	Citrate	cis-Aconitate
+aconitate hydratase	4.2.1.3	cis-Aconitate	Isocitrate
+citrate synthase	2.3.3.1	Acetyl-CoA	Citrate
+citrate synthase	2.3.3.1	Oxaloacetate	Citrate
+dihydrolipoyl dehydrogenase	1.8.1.4	Enzyme N6-(dihydrolipoyl)lysine	Enzyme N6-(lipoyl)lysine
+fumarate hydratase, class II	4.2.1.2	(S)-Malate	Fumarate
+isocitrate dehydrogenase	1.1.1.42	Isocitrate	Oxalosuccinate
+isocitrate dehydrogenase	1.1.1.42	Oxalosuccinate	2-Oxoglutarate
+isocitrate dehydrogenase (NAD+)	1.1.1.41	Isocitrate	2-Oxoglutarate
+malate dehydrogenase	1.1.1.37	(S)-Malate	Oxaloacetate
+pyruvate carboxylase	6.4.1.1	Pyruvate	Oxaloacetate
+pyruvate dehydrogenase E1 component subunit alpha	1.2.4.1	2-(alpha-Hydroxyethyl)thiamine diphosphate	S-acetyldihydrolipoyllysine
+pyruvate dehydrogenase E1 component subunit alpha	1.2.4.1	2-(alpha-Hydroxyethyl)thiamine diphosphate	Thiamin diphosphate
+pyruvate dehydrogenase E1 component subunit alpha	1.2.4.1	Enzyme N6-(lipoyl)lysine	S-acetyldihydrolipoyllysine
+pyruvate dehydrogenase E1 component subunit alpha	1.2.4.1	Enzyme N6-(lipoyl)lysine	Thiamin diphosphate
+pyruvate dehydrogenase E1 component subunit alpha	1.2.4.1	Pyruvate	2-(alpha-Hydroxyethyl)thiamine diphosphate
+pyruvate dehydrogenase E1 component subunit alpha	1.2.4.1	Thiamin diphosphate	2-(alpha-Hydroxyethyl)thiamine diphosphate
+pyruvate dehydrogenase E2 component (dihydrolipoyllysine-residue acetyltransferase)	2.3.1.12	Acetyl-CoA	S-acetyldihydrolipoyllysine
+pyruvate dehydrogenase E2 component (dihydrolipoyllysine-residue acetyltransferase)	2.3.1.12	Enzyme N6-(dihydrolipoyl)lysine	S-acetyldihydrolipoyllysine
+succinate dehydrogenase (ubiquinone) flavoprotein subunit	1.3.5.1	Succinate	Fumarate
+succinyl-CoA synthetase beta subunit [EC:6.2.1.4	1.5	Succinate	Succinyl-CoA
