@@ -19,14 +19,14 @@ S Scope,No,Yes,Yes,Yes,Yes
 Max Steps,1,2,3,4,5
 Structures,100,100,100,100,100
 L Time (m:s),1:36.71,2:17.43,2:31.72,2:59.50,crash
-S Time (m:s),
+S Time (m:s),1:18.65,1:32.96,1:50.92,2:17.41,5:37.85
 L CPU (%),237,260,260,250,crash
-S CPU (%),
+S CPU (%),291,286,285,275,227
 L RSS (GB),3.03,3.61,3.73,4.81,crash
-S RSS (GB),
+S RSS (GB),2.81,3.39,4.07,5.84,17.1
 L Lines,3,11,87,354,crash
-S Lines,
+S Lines,3,11,87,354,2721
 L Scope,No,No,No,Yes,crash
-S Scope,
+S Scope,No,No,No,Yes,Yes
 
 // L = laptop, S = server
