@@ -3,14 +3,14 @@
 Max Steps   1   2   3   4   5
 Structures  100 100 100 100 100
 L Time (m:s)    1:14.09   2:01.81   2:26.52 2:34.91 2:37.75
-S Time (m:s)
-L CPU (%)   273%    273%    264%    263%    250%
-S CPU (%)
+S Time (m:s)    1:20.38 1:37.13 1:53.50 2:06.60 2:07.61
+L CPU (%)   273    273    264    263    250
+S CPU (%)   325 320 306 298 298
 L RSS (GB)  3.02    3.73    4.33    4.36    4.89
-S RSS (GB)
+S RSS (GB)  2.88    3.55    4.25    4.82    4.75
 L Lines 3   11  21  27  27
-S Lines
+S Lines 3   11  21  27  27
 L Scope No  Yes Yes Yes Yes
-S Scope
+S Scope No  Yes Yes Yes Yes
 
 // L = laptop, S = server
