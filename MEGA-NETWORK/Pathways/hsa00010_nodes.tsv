@@ -12,8 +12,7 @@ D-Fructose 6-phosphate
 Phosphoenolpyruvate	InChI=1S/C3H5O6P/c1-2(3(4)5)9-10(6,7)8/h1H2,(H,4,5)(H2,6,7,8)
 3-Phospho-D-glycerate	InChI=1S/C3H7O7P/c4-2(3(5)6)1-10-11(7,8)9/h2,4H,1H2,(H,5,6)(H2,7,8,9)/t2-/m1/s1
 3-Phospho-D-glyceroyl phosphate	InChI=1S/C3H8O10P2/c4-2(1-12-14(6,7)8)3(5)13-15(9,10)11/h2,4H,1H2,(H2,6,7,8)(H2,9,10,11)/t2-/m1/s1
-(S)-Lactate	"InChI=1S/C3H6O3/c1-2(4)3(5)6/h2,4H,1H3,(H,5,6)/t2-/m0/s1
-InChI=1S/C3H6O3/c1-2(4)3(5)6/h2,4H,1H3,(H,5,6)/p-1/t2-/m0/s1"
+(S)-Lactate	InChI=1S/C3H6O3/c1-2(4)3(5)6/h2,4H,1H3,(H,5,6)/t2-/m0/s1
 Enzyme N6-(lipoyl)lysine	
 Ethanol	InChI=1S/C2H6O/c1-2-3/h3H,2H2,1H3
 Pyruvate	InChI=1S/C3H4O3/c1-2(4)3(5)6/h1H3,(H,5,6)/p-1
