@@ -4,12 +4,14 @@ import xml.etree.ElementTree as ET
 from sys import argv
 import os
 import requests
+from colorama import init, Fore, Back, Style
+init()
 
 PATHWAY_FOLDER = 'Pathways'
 os.makedirs(PATHWAY_FOLDER, exist_ok=True)
 
-print('\nHERO Bioinformatics Tool\nHigh Performance Rhodococcus Opacus\nby Team BACMAN\n')
-print('You can use this tool to find the pathway that connects your initial compound to your desired product.\n')
+print(Fore.GREEN + '\nHERO Bioinformatics Tool\nH' + Style.RESET_ALL + 'igh p' + Fore.GREEN + 'E' + Style.RESET_ALL + 'rformance ' + Fore.GREEN + 'R' + Style.RESET_ALL + 'hodococcus ' + Fore.GREEN + 'O' + Style.RESET_ALL + 'pacus\nby Team BACMAN\n')
+print('You can use this tool to find the pathway that connects your initial compound to your desired product\nand to build the plasmid that you can insert into your Rhodococcus (coming soon).\n')
 
 print("\nThe pathways currently available in this local directory are:")
 available_files = [f for f in os.listdir(PATHWAY_FOLDER) if f.endswith('.kgml')]
@@ -21,32 +23,41 @@ response = input("\nWould you like to download more? (y/n) ").lower()
 while response not in ['y','n']:
     response = input("Invalid response. Program only accepts Y or N.\nWould you like to download more? (y/n) ").lower()
 
-if response == 'y':
+if response.lower() == 'y':
     while True:
-        pway_request = input("Type the pathway code (e.g. hsa00010) or press enter to finish: ").strip()
-        if not pway_request:
+        line = input("Type one or more pathway codes (e.g. hsa00010 hsa00020), or press Enter to finish: ").strip()
+        if not line:
             break
-        if not (len(pway_request) == 8 and pway_request[0:3].islower() and pway_request[3:].isdigit()):
-            print("Invalid KEGG pathway code. Try again.")
-            continue
-        try:
-            print(f"Fetching {pway_request} from KEGG...")
-            url = f"https://rest.kegg.jp/get/{pway_request}/kgml"
-            r = requests.get(url, timeout=10)
-            r.raise_for_status()
+
+        # Split by whitespace; process each code in turn
+        codes = line.split()
+        for pway_request in codes:
+            # Validate format
+            if not (len(pway_request) == 8 and pway_request[:3].islower() and pway_request[3:].isdigit()):
+                print(f"Invalid KEGG pathway code '{pway_request}'. Skipping.")
+                continue
+
             try:
-                root = ET.fromstring(r.text)
-                pway_name = root.attrib.get("title", "unknown_pathway").replace(" ", "_") 
-            except :
-                pway_name = pway_request
-            local_kgml = os.path.join(PATHWAY_FOLDER, f"{pway_name}.kgml")
-            with open(local_kgml, 'w', encoding='utf-8') as f:
-                f.write(r.text)
-            print(f"Downloaded {pway_request} to {local_kgml}...\nParsing...")
-            parse_kgml_to_tsv(local_kgml)
-            print("Parsing completed.")
-        except Exception as e:
-            print(f"Failed to fetch or parse {pway_request}: {e}")
+                print(f"\nFetching {pway_request} from KEGG…")
+                url = f"https://rest.kegg.jp/get/{pway_request}/kgml"
+                r = requests.get(url, timeout=10)
+                r.raise_for_status()
+                try:
+                    root = ET.fromstring(r.text)
+                    raw_title = root.attrib.get("title", pway_request)
+                    safe_title = raw_title.replace("/", "and").replace(" ", "_")
+                except Exception:
+                    safe_title = pway_request
+
+                local_kgml = os.path.join(PATHWAY_FOLDER, f"{safe_title}.kgml")
+                with open(local_kgml, 'w', encoding='utf-8') as f:
+                    f.write(r.text)
+                print(f"Saved as {safe_title}.kgml.\nParsing…")
+                parse_kgml_to_tsv(local_kgml)
+                print("Parsing completed.")
+
+            except Exception as e:
+                print(f"Failed to fetch or parse '{pway_request}': {e}\n")
 
 
 # Build all Graphs
@@ -58,7 +69,7 @@ for file in edge_files:
 megagraph = MetabolicGraph.megaGraph()
 
 node_list = list(Node.nodes.keys())
-print('\n\nSELECTING THE STARTING AND FINAL COMPOUND')
+print(Fore.GREEN + '\n\nSELECTING THE STARTING AND FINAL COMPOUND' + Style.RESET_ALL)
 while True:
         start = input('\nChoose a starting compound: ').strip()
         if start.lower() in node_list:
@@ -87,7 +98,7 @@ while True:
 
 
 # Find shortest path
-print('\n\nPATHWAY FINDING\n')
+print(Fore.GREEN + '\n\nPATHWAY FINDING\n' + Style.RESET_ALL)
 print(f"Looking for the shortest path from '{start}' to '{end}'...")
 dist, path, ecs = megagraph.dijkstra(start, end)
 if path is None:
@@ -95,12 +106,14 @@ if path is None:
     print('\nRetroPath 2.0 will be used to predict the pathway.')
 else:
     print('\nPathway Steps:')
-    for i in range(0,dist):
-        print(f'{i+1}. {path[i].name} ---[{ecs[i]}]---> {path[i+1].name}')
+    for i in range(dist):
+        arrow_tip = Fore.GREEN + ']--->' + Style.RESET_ALL
+        arrow_end = Fore.GREEN + '---[' + Style.RESET_ALL
+        print(f"{i+1}. {path[i].name} {arrow_end}{ecs[i].replace(' ', ' or ')}{arrow_tip} {path[i+1].name}")
 
 # Check which enzymes you already have and which ones you need
 # Build plasmid
-print('\n\nPLASMID BUILDING\n')
+print(Fore.GREEN + '\n\nPLASMID BUILDING\n' + Style.RESET_ALL)
 print('Coming soon...')
 
-print('\nThank you for using HERO :)\n')
+print('\n\nThank you for using HERO :)\n')
