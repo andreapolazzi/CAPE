@@ -110,13 +110,70 @@ def test_one_to_all(server=False):
             log_file.write("-" * 80 + "\n")
 
 
+
+def test_one_to_central(server=False):
+
+    log_filename = "data_files/log_otc_server.txt" if server else "data_files/log_otc_laptop.txt"
+    with open(log_filename, "w") as log_file:
+        log_file.write(f"Log file to test performance on {'server' if server else 'laptop'} \n")
+        log_file.write(f"Test executed on: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}\n\n")
+
+    sink_file = "data_files/gem_central_rp.csv"
+    rules_file = "../retrorules_rr02_rp2_flat_forward.csv"
+    outdir = "results/"
+    source_file = "data_files/met.csv"
+    topx = "100"
+    dmin = "6"
+    dmax = "16"
+
+    for i in range(1, 6):
+        rp_command = [
+            "python", "-m", "retropath2_wrapper",
+            sink_file,
+            rules_file,
+            outdir,
+            "--source_file", source_file,
+            "--max_steps", str(i),
+            "--topx", topx,
+            "--dmin", dmin,
+            "--dmax", dmax,
+        ]
+
+        log_message = f"Testing one to central metabolites performance for max_steps={i}\n"
+        
+        with open(log_filename, "a") as log_file:
+            log_file.write(log_message)
+            return_code, stdout, stderr = test_performance(rp_command)
+            log_file.write("STDOUT:\n")
+            log_file.write(stdout + "\n")
+            log_file.write("STDERR:\n")
+            log_file.write(stderr + "\n")
+            if return_code:
+                log_file.write(f"Error executing command (exit code {return_code})\n")
+            else:
+                log_file.write("Command executed successfully.\n")
+                
+            try:
+                with open("results/results.csv", "r") as f:
+                    line_count = sum(1 for line in f)
+                log_file.write(f"Number of lines in results.csv: {line_count}\n")
+            except FileNotFoundError:
+                log_file.write("results.csv file not found\n")
+
+            log_file.write("\n")
+            log_file.write("-" * 80 + "\n")
+
+
+
+
 if __name__ == "__main__":
 
     parser = argparse.ArgumentParser(description='Run performance tests for RetroPath2')
     parser.add_argument('-s', '--server', action='store_true', help='Run tests in server mode')
     args = parser.parse_args()
     
-    test_one_to_all(server=args.server)
+    #test_one_to_all(server=args.server)
+    test_one_to_central(server=args.server)
     print("Performance tests completed.")
     print(f"Check data_files/log_ota_{'server' if args.server else 'laptop'}.txt for details.")
     print("Check results/ for output files.")
