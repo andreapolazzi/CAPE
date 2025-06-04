@@ -1,0 +1,275 @@
+Log file to test performance on laptop 
+Test executed on: 2025-06-04 13:00:34
+
+Testing one to all performance for max_steps=1
+STDOUT:
+Configuration 
+ + retropath2_wrapper
+     |--version: 3.3.0
+ + KNIME
+     |--path: /home/samuele/anaconda3/envs/retropath_env/lib/python3.9/site-packages/retropath2_wrapper/.knime/linux/knime_4.6.4/knime
+ + RetroPath2.0 workflow
+     |--path: /home/samuele/anaconda3/envs/retropath_env/lib/python3.9/site-packages/retropath2_wrapper/workflows/RetroPath2.0_r20220224.knwf
+
+
+STDERR:
+/home/samuele/anaconda3/envs/retropath_env/lib/python3.9/runpy.py:127: RuntimeWarning: 'retropath2_wrapper.__main__' found in sys.modules after import of package 'retropath2_wrapper', but prior to execution of 'retropath2_wrapper.__main__'; this may result in unpredictable behaviour
+  warn(RuntimeWarning(msg))
+[32mChecking input data[0m
+[32m   |- InChI[0m
+[32m   |- Source in Sink (simple)[0m
+[32m   |- Checking KNIME packages...[0m[32m OK[0m
+[32mInitializing[0m
+[32m   |- Formatting files for KNIME[0m
+[32mRunning KNIME...[0m[32m OK[0m
+[32m   |- Checking Source in Sink (advanced)[0m
+[32m[0m
+[32mResults[0m
+[32m   |- Checking... [0m
+[33m       Warning: No solution has been found[0m
+[32m   |--path: results/[0m
+Command exited with non-zero status 11
+	Command being timed: "python -m retropath2_wrapper data_files/biocyc_cmpd_rpcleaned.csv ../retrorules_rr02_rp2_flat_forward.csv results/ --source_file data_files/met.csv --max_steps 1 --topx 100 --dmin 6 --dmax 16"
+	User time (seconds): 192.38
+	System time (seconds): 10.07
+	Percent of CPU this job got: 273%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 1:14.09
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 3017984
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 846092
+	Voluntary context switches: 126238
+	Involuntary context switches: 4864
+	Swaps: 0
+	File system inputs: 32
+	File system outputs: 283544
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 11
+
+Error executing command (exit code 11)
+Number of lines in results.csv: 3
+
+--------------------------------------------------------------------------------
+Testing one to all performance for max_steps=2
+STDOUT:
+Configuration 
+ + retropath2_wrapper
+     |--version: 3.3.0
+ + KNIME
+     |--path: /home/samuele/anaconda3/envs/retropath_env/lib/python3.9/site-packages/retropath2_wrapper/.knime/linux/knime_4.6.4/knime
+ + RetroPath2.0 workflow
+     |--path: /home/samuele/anaconda3/envs/retropath_env/lib/python3.9/site-packages/retropath2_wrapper/workflows/RetroPath2.0_r20220224.knwf
+
+
+STDERR:
+/home/samuele/anaconda3/envs/retropath_env/lib/python3.9/runpy.py:127: RuntimeWarning: 'retropath2_wrapper.__main__' found in sys.modules after import of package 'retropath2_wrapper', but prior to execution of 'retropath2_wrapper.__main__'; this may result in unpredictable behaviour
+  warn(RuntimeWarning(msg))
+[32mChecking input data[0m
+[32m   |- InChI[0m
+[32m   |- Source in Sink (simple)[0m
+[32m   |- Checking KNIME packages...[0m[32m OK[0m
+[32mInitializing[0m
+[32m   |- Formatting files for KNIME[0m
+[32mRunning KNIME...[0m[32m OK[0m
+[32m   |- Checking Source in Sink (advanced)[0m
+[32m[0m
+[32mResults[0m
+[32m   |- Checking... [0m
+[32m   |--path: results/[0m
+	Command being timed: "python -m retropath2_wrapper data_files/biocyc_cmpd_rpcleaned.csv ../retrorules_rr02_rp2_flat_forward.csv results/ --source_file data_files/met.csv --max_steps 2 --topx 100 --dmin 6 --dmax 16"
+	User time (seconds): 316.71
+	System time (seconds): 16.34
+	Percent of CPU this job got: 273%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 2:01.81
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 3729708
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 3
+	Minor (reclaiming a frame) page faults: 1046483
+	Voluntary context switches: 135059
+	Involuntary context switches: 6395
+	Swaps: 0
+	File system inputs: 272
+	File system outputs: 432032
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+
+Command executed successfully.
+Number of lines in results.csv: 11
+
+--------------------------------------------------------------------------------
+Testing one to all performance for max_steps=3
+STDOUT:
+Configuration 
+ + retropath2_wrapper
+     |--version: 3.3.0
+ + KNIME
+     |--path: /home/samuele/anaconda3/envs/retropath_env/lib/python3.9/site-packages/retropath2_wrapper/.knime/linux/knime_4.6.4/knime
+ + RetroPath2.0 workflow
+     |--path: /home/samuele/anaconda3/envs/retropath_env/lib/python3.9/site-packages/retropath2_wrapper/workflows/RetroPath2.0_r20220224.knwf
+
+
+STDERR:
+/home/samuele/anaconda3/envs/retropath_env/lib/python3.9/runpy.py:127: RuntimeWarning: 'retropath2_wrapper.__main__' found in sys.modules after import of package 'retropath2_wrapper', but prior to execution of 'retropath2_wrapper.__main__'; this may result in unpredictable behaviour
+  warn(RuntimeWarning(msg))
+[32mChecking input data[0m
+[32m   |- InChI[0m
+[32m   |- Source in Sink (simple)[0m
+[32m   |- Checking KNIME packages...[0m[32m OK[0m
+[32mInitializing[0m
+[32m   |- Formatting files for KNIME[0m
+[32mRunning KNIME...[0m[32m OK[0m
+[32m   |- Checking Source in Sink (advanced)[0m
+[32m[0m
+[32mResults[0m
+[32m   |- Checking... [0m
+[32m   |--path: results/[0m
+	Command being timed: "python -m retropath2_wrapper data_files/biocyc_cmpd_rpcleaned.csv ../retrorules_rr02_rp2_flat_forward.csv results/ --source_file data_files/met.csv --max_steps 3 --topx 100 --dmin 6 --dmax 16"
+	User time (seconds): 368.86
+	System time (seconds): 18.05
+	Percent of CPU this job got: 264%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 2:26.52
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 4332428
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 1196562
+	Voluntary context switches: 137515
+	Involuntary context switches: 7187
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 565976
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+
+Command executed successfully.
+Number of lines in results.csv: 21
+
+--------------------------------------------------------------------------------
+Testing one to all performance for max_steps=4
+STDOUT:
+Configuration 
+ + retropath2_wrapper
+     |--version: 3.3.0
+ + KNIME
+     |--path: /home/samuele/anaconda3/envs/retropath_env/lib/python3.9/site-packages/retropath2_wrapper/.knime/linux/knime_4.6.4/knime
+ + RetroPath2.0 workflow
+     |--path: /home/samuele/anaconda3/envs/retropath_env/lib/python3.9/site-packages/retropath2_wrapper/workflows/RetroPath2.0_r20220224.knwf
+
+
+STDERR:
+/home/samuele/anaconda3/envs/retropath_env/lib/python3.9/runpy.py:127: RuntimeWarning: 'retropath2_wrapper.__main__' found in sys.modules after import of package 'retropath2_wrapper', but prior to execution of 'retropath2_wrapper.__main__'; this may result in unpredictable behaviour
+  warn(RuntimeWarning(msg))
+[32mChecking input data[0m
+[32m   |- InChI[0m
+[32m   |- Source in Sink (simple)[0m
+[32m   |- Checking KNIME packages...[0m[32m OK[0m
+[32mInitializing[0m
+[32m   |- Formatting files for KNIME[0m
+[32mRunning KNIME...[0m[32m OK[0m
+[32m   |- Checking Source in Sink (advanced)[0m
+[32m[0m
+[32mResults[0m
+[32m   |- Checking... [0m
+[32m   |--path: results/[0m
+	Command being timed: "python -m retropath2_wrapper data_files/biocyc_cmpd_rpcleaned.csv ../retrorules_rr02_rp2_flat_forward.csv results/ --source_file data_files/met.csv --max_steps 4 --topx 100 --dmin 6 --dmax 16"
+	User time (seconds): 389.47
+	System time (seconds): 18.06
+	Percent of CPU this job got: 263%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 2:34.91
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 4356312
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 1213246
+	Voluntary context switches: 150175
+	Involuntary context switches: 7204
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 709192
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+
+Command executed successfully.
+Number of lines in results.csv: 27
+
+--------------------------------------------------------------------------------
+Testing one to all performance for max_steps=5
+STDOUT:
+Configuration 
+ + retropath2_wrapper
+     |--version: 3.3.0
+ + KNIME
+     |--path: /home/samuele/anaconda3/envs/retropath_env/lib/python3.9/site-packages/retropath2_wrapper/.knime/linux/knime_4.6.4/knime
+ + RetroPath2.0 workflow
+     |--path: /home/samuele/anaconda3/envs/retropath_env/lib/python3.9/site-packages/retropath2_wrapper/workflows/RetroPath2.0_r20220224.knwf
+
+
+STDERR:
+/home/samuele/anaconda3/envs/retropath_env/lib/python3.9/runpy.py:127: RuntimeWarning: 'retropath2_wrapper.__main__' found in sys.modules after import of package 'retropath2_wrapper', but prior to execution of 'retropath2_wrapper.__main__'; this may result in unpredictable behaviour
+  warn(RuntimeWarning(msg))
+[32mChecking input data[0m
+[32m   |- InChI[0m
+[32m   |- Source in Sink (simple)[0m
+[32m   |- Checking KNIME packages...[0m[32m OK[0m
+[32mInitializing[0m
+[32m   |- Formatting files for KNIME[0m
+[32mRunning KNIME...[0m[32m OK[0m
+[32m   |- Checking Source in Sink (advanced)[0m
+[32m[0m
+[32mResults[0m
+[32m   |- Checking... [0m
+[32m   |--path: results/[0m
+	Command being timed: "python -m retropath2_wrapper data_files/biocyc_cmpd_rpcleaned.csv ../retrorules_rr02_rp2_flat_forward.csv results/ --source_file data_files/met.csv --max_steps 5 --topx 100 --dmin 6 --dmax 16"
+	User time (seconds): 375.31
+	System time (seconds): 20.05
+	Percent of CPU this job got: 250%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 2:37.75
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 4887032
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 4
+	Minor (reclaiming a frame) page faults: 1342977
+	Voluntary context switches: 150872
+	Involuntary context switches: 6772
+	Swaps: 0
+	File system inputs: 24
+	File system outputs: 709352
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+
+Command executed successfully.
+Number of lines in results.csv: 27
+
+--------------------------------------------------------------------------------
