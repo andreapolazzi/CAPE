@@ -13,4 +13,20 @@ S Lines,3,11,21,27,27
 L Scope,No,Yes,Yes,Yes,Yes
 S Scope,No,Yes,Yes,Yes,Yes
 
+
+// MET to central metabolites
+
+Max Steps,1,2,3,4,5
+Structures,100,100,100,100,100
+L Time (m:s),1:36.71,2:17.43,2:31.72,2:59.50,crash
+S Time (m:s),
+L CPU (%),237,260,260,250,crash
+S CPU (%),
+L RSS (GB),3.03,3.61,3.73,4.81,crash
+S RSS (GB),
+L Lines,3,11,87,354,crash
+S Lines,
+L Scope,No,No,No,Yes,crash
+S Scope,
+
 // L = laptop, S = server
