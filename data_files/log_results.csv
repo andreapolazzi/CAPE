@@ -1,32 +1,32 @@
 // MET to all metabolites
 
-Max Steps,1,2,3,4,5
-Structures,100,100,100,100,100
-L Time (m:s),1:14.09,2:01.81,2:26.52,2:34.91,2:37.75
-S Time (m:s),1:20.38,1:37.13,1:53.50,2:06.60,2:07.61
-L CPU (%),273,273,264,263,250
-S CPU (%),325,320,306,298,298
-L RSS (GB),3.02,3.73,4.33,4.36,4.89
-S RSS (GB),2.88,3.55,4.25,4.82,4.75
-L Lines,3,11,21,27,27
-S Lines,3,11,21,27,27
-L Scope,No,Yes,Yes,Yes,Yes
-S Scope,No,Yes,Yes,Yes,Yes
+Max Steps,1,2,3,4,5,6,7,8,9,10
+Structures,100,100,100,100,100,100,100,100,100,100
+L Time (m:s),1:14.09,2:01.81,2:26.52,2:34.91,2:37.75,notRun,notRun,notRun,notRun,notRun
+S Time (m:s),1:20.38,1:37.13,1:53.50,2:06.60,2:07.61,2:06.17,2:06.31,2:06.08,2:05.44,2:07.77
+L CPU (%),273,273,264,263,250,notRun,notRun,notRun,notRun,notRun
+S CPU (%),325,320,306,298,298,299,295,301,298,300
+L RSS (GB),3.02,3.73,4.33,4.36,4.89,notRun,notRun,notRun,notRun,notRun
+S RSS (GB),2.88,3.55,4.25,4.82,4.75,4.79,4.72,4.77,4.79,4.80
+L Lines,3,11,21,27,27,notRun,notRun,notRun,notRun,notRun
+S Lines,3,11,21,27,27,27,27,27,27,27
+L Scope,No,Yes,Yes,Yes,Yes,notRun,notRun,notRun,notRun,notRun
+S Scope,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
 
 
 // MET to central metabolites
 
-Max Steps,1,2,3,4,5
-Structures,100,100,100,100,100
-L Time (m:s),1:36.71,2:17.43,2:31.72,2:59.50,crash
-S Time (m:s),1:18.65,1:32.96,1:50.92,2:17.41,5:37.85
-L CPU (%),237,260,260,250,crash
-S CPU (%),291,286,285,275,227
-L RSS (GB),3.03,3.61,3.73,4.81,crash
-S RSS (GB),2.81,3.39,4.07,5.84,17.1
-L Lines,3,11,87,354,crash
-S Lines,3,11,87,354,2721
-L Scope,No,No,No,Yes,crash
-S Scope,No,No,No,Yes,Yes
+Max Steps,1,2,3,4,5,6,7,8,9,10
+Structures,100,100,100,100,100,100,100,100,100,100
+L Time (m:s),1:36.71,2:17.43,2:31.72,2:59.50,crash,notRun,notRun,notRun,notRun,notRun
+S Time (m:s),1:18.65,1:32.96,1:50.92,2:17.41,5:37.85,8:25.27,11:13.78,12:39.67,13:58.23,15:28.31
+L CPU (%),237,260,260,250,crash,notRun,notRun,notRun,notRun,notRun
+S CPU (%),291,286,285,275,227,220,212,211,209,208
+L RSS (GB),3.03,3.61,3.73,4.81,crash,notRun,notRun,notRun,notRun,notRun
+S RSS (GB),2.81,3.39,4.07,5.84,17.1,19.5,20.1,21.9,25.3,24.2
+L Lines,3,11,87,354,crash,notRun,notRun,notRun,notRun,notRun
+S Lines,3,11,87,354,2721,6012,8614,9419,10258,11026
+L Scope,No,No,No,Yes,crash,notRun,notRun,notRun,notRun,notRun
+S Scope,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes
 
 // L = laptop, S = server

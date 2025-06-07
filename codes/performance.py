@@ -57,7 +57,7 @@ def test_performance(rp_command, clean=True):
 
 
 
-def test_one_to_all(server=False):
+def test_one_to_all(min_step=1, max_step=5, server=False):
 
     log_filename = "data_files/log_ota_server.txt" if server else "data_files/log_ota_laptop.txt"
     with open(log_filename, "w") as log_file:
@@ -72,7 +72,7 @@ def test_one_to_all(server=False):
     dmin = "6"
     dmax = "16"
 
-    for i in range(1, 6):
+    for i in range(min_step, max_step + 1):
         rp_command = [
             "python", "-m", "retropath2_wrapper",
             sink_file,
@@ -111,7 +111,7 @@ def test_one_to_all(server=False):
 
 
 
-def test_one_to_central(server=False):
+def test_one_to_central(min_step=1, max_step=5, server=False):
 
     log_filename = "data_files/log_otc_server.txt" if server else "data_files/log_otc_laptop.txt"
     with open(log_filename, "w") as log_file:
@@ -125,8 +125,9 @@ def test_one_to_central(server=False):
     topx = "100"
     dmin = "6"
     dmax = "16"
+    tout = "30"
 
-    for i in range(1, 6):
+    for i in range(min_step, max_step + 1):
         rp_command = [
             "python", "-m", "retropath2_wrapper",
             sink_file,
@@ -137,6 +138,7 @@ def test_one_to_central(server=False):
             "--topx", topx,
             "--dmin", dmin,
             "--dmax", dmax,
+            "--msc_timeout", tout,
         ]
 
         log_message = f"Testing one to central metabolites performance for max_steps={i}\n"
@@ -170,10 +172,21 @@ if __name__ == "__main__":
 
     parser = argparse.ArgumentParser(description='Run performance tests for RetroPath2')
     parser.add_argument('-s', '--server', action='store_true', help='Run tests in server mode')
+    parser.add_argument('--min_steps', type=int, default=1, help='Minimum number of steps')
+    parser.add_argument('--max_steps', type=int, default=5, help='Maximum number of steps')
+    parser.add_argument('--ota', action='store_true', help='Run one-to-all test')
+    parser.add_argument('--otc', action='store_true', help='Run one-to-central test')
     args = parser.parse_args()
     
-    #test_one_to_all(server=args.server)
-    test_one_to_central(server=args.server)
+    if args.ota:
+        test_one_to_all(min_step=args.min_steps, max_step=args.max_steps, server=args.server)
+    if args.otc:
+        test_one_to_central(min_step=args.min_steps, max_step=args.max_steps, server=args.server)
+    if not (args.ota or args.otc):
+        print("Please specify either --ota or --otc")
+        parser.print_help()
+        exit(1)
+        
     print("Performance tests completed.")
-    print(f"Check data_files/log_ota_{'server' if args.server else 'laptop'}.txt for details.")
+    print(f"Check data_files/log_ot{'a' if args.ota else 'c'}_{('server' if args.server else 'laptop')}.txt for details.")
     print("Check results/ for output files.")
