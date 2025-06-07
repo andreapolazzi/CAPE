@@ -1,6 +1,7 @@
 import subprocess
 from datetime import datetime
 import argparse
+import pandas as pd
 
 def run_command(command):
     """
@@ -166,6 +167,64 @@ def test_one_to_central(min_step=1, max_step=5, server=False):
             log_file.write("-" * 80 + "\n")
 
 
+def test_one_to_one(source_name, source_file, sink_files, min_step=1, max_step=5, server=False):
+    
+    log_filename = f"data_files/log_oto_{source_name}_server.txt" if server else f"data_files/log_oto_{source_name}_laptop.txt"
+    with open(log_filename, "w") as log_file:
+        log_file.write(f"Log file to test performance on {'server' if server else 'laptop'} \n")
+        log_file.write(f"Test executed on: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}\n\n")
+    
+    for i in range(min_step, max_step + 1):
+
+        sink_file = sink_files[i-1]
+        rules_file = "../retrorules_rr02_rp2_flat_forward.csv"
+        outdir = "results/"
+        #topx = "100"
+        topx="200"
+        dmin = "6"
+        dmax = "16"
+
+        rp_command = [
+            "python", "-m", "retropath2_wrapper",
+            sink_file,
+            rules_file,
+            outdir,
+            "--source_file", source_file,
+            "--max_steps", str(i),
+            "--topx", topx,
+            "--dmin", dmin,
+            "--dmax", dmax,
+            "--msc_timeout", "60"
+        ]
+
+        log_message = f"Testing one to one performance for source {source_name} with max_steps={i}\n"
+        
+        with open(log_filename, "a") as log_file:
+            log_file.write(log_message)
+            return_code, stdout, stderr = test_performance(rp_command)
+            log_file.write("STDOUT:\n")
+            log_file.write(stdout + "\n")
+            log_file.write("STDERR:\n")
+            log_file.write(stderr + "\n")
+            if return_code:
+                log_file.write(f"Error executing command (exit code {return_code})\n")
+            else:
+                log_file.write("Command executed successfully.\n")
+                
+            try:
+                df = pd.read_csv("results/results.csv")
+                line_count = len(df)
+                in_sink_count = df['In Sink'].value_counts().get(1, 0)
+                sink_names = df[df['In Sink'] == 1]['Sink name'].unique()
+                
+                log_file.write(f"Number of lines in results.csv: {line_count}\n")
+                log_file.write(f"Number of compounds found in sink: {in_sink_count}\n")
+                log_file.write(f"Sink compounds found: {', '.join(sink_names)}\n")
+            except FileNotFoundError:
+                log_file.write("results.csv file not found\n")
+
+
+
 
 
 if __name__ == "__main__":
@@ -176,14 +235,38 @@ if __name__ == "__main__":
     parser.add_argument('--max_steps', type=int, default=5, help='Maximum number of steps')
     parser.add_argument('--ota', action='store_true', help='Run one-to-all test')
     parser.add_argument('--otc', action='store_true', help='Run one-to-central test')
+    parser.add_argument('--oto', action='store_true', help='Run one-to-one test')
+    parser.add_argument('--target_ids', type=str, nargs='+', help='Target IDs for one-to-one test')
     args = parser.parse_args()
     
     if args.ota:
         test_one_to_all(min_step=args.min_steps, max_step=args.max_steps, server=args.server)
+    
     if args.otc:
         test_one_to_central(min_step=args.min_steps, max_step=args.max_steps, server=args.server)
-    if not (args.ota or args.otc):
-        print("Please specify either --ota or --otc")
+    
+    if args.oto:
+        """ if not args.source_id or not args.target_ids:
+            print("For one-to-one test, please specify --source_id and --target_ids")
+            parser.print_help()
+            exit(1) """
+        source = "data_files/met.csv"
+        name = "MET"
+        sinks = [
+            "data_files/terephtalate.csv",
+            "data_files/ter_dihydrodiol.csv",
+            "data_files/dihydroxy_benzoate.csv",
+            "data_files/beta_carboxy_muconate.csv",
+            "data_files/muconolactone.csv",
+            "data_files/dihydrofuran.csv",
+            "data_files/oxoadipate.csv",
+            "data_files/oxoadipyl_coa.csv",
+            "data_files/succinyl_coa.csv"
+        ]
+        test_one_to_one(source_name=name, source_file=source, sink_files=sinks, min_step=args.min_steps, max_step=args.max_steps, server=args.server)
+    
+    if not (args.ota or args.otc or args.oto):
+        print("Please specify either --ota or --otc or --oto")
         parser.print_help()
         exit(1)
         
