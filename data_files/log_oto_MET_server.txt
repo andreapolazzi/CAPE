@@ -1,286 +1,6 @@
 Log file to test performance on server 
-Test executed on: 2025-06-07 20:36:07
+Test executed on: 2025-06-08 16:50:06
 
-Testing one to one performance for source MET with max_steps=1
-STDOUT:
-Configuration 
- + retropath2_wrapper
-     |--version: 3.3.0
- + KNIME
-     |--path: /work/igem/anaconda3/envs/retropath_env/lib/python3.9/site-packages/retropath2_wrapper/.knime/linux/knime_4.6.4/knime
- + RetroPath2.0 workflow
-     |--path: /work/igem/anaconda3/envs/retropath_env/lib/python3.9/site-packages/retropath2_wrapper/workflows/RetroPath2.0_r20220224.knwf
-
-
-STDERR:
-/work/igem/anaconda3/envs/retropath_env/lib/python3.9/runpy.py:127: RuntimeWarning: 'retropath2_wrapper.__main__' found in sys.modules after import of package 'retropath2_wrapper', but prior to execution of 'retropath2_wrapper.__main__'; this may result in unpredictable behaviour
-  warn(RuntimeWarning(msg))
-[32mChecking input data[0m
-[32m   |- InChI[0m
-[32m   |- Source in Sink (simple)[0m
-[32m   |- Checking KNIME packages...[0m[32m OK[0m
-[32mInitializing[0m
-[32m   |- Formatting files for KNIME[0m
-[32mRunning KNIME...[0m[32m OK[0m
-[32m   |- Checking Source in Sink (advanced)[0m
-[32m[0m
-[32mResults[0m
-[32m   |- Checking... [0m
-[33m       Warning: No solution has been found[0m
-[32m   |--path: results/[0m
-Command exited with non-zero status 11
-	Command being timed: "python -m retropath2_wrapper data_files/terephtalate.csv ../retrorules_rr02_rp2_flat_forward.csv results/ --source_file data_files/met.csv --max_steps 1 --topx 200 --dmin 6 --dmax 16 --msc_timeout 60"
-	User time (seconds): 207.64
-	System time (seconds): 11.68
-	Percent of CPU this job got: 279%
-	Elapsed (wall clock) time (h:mm:ss or m:ss): 1:18.42
-	Average shared text size (kbytes): 0
-	Average unshared data size (kbytes): 0
-	Average stack size (kbytes): 0
-	Average total size (kbytes): 0
-	Maximum resident set size (kbytes): 2595380
-	Average resident set size (kbytes): 0
-	Major (requiring I/O) page faults: 0
-	Minor (reclaiming a frame) page faults: 650765
-	Voluntary context switches: 311263
-	Involuntary context switches: 1698
-	Swaps: 0
-	File system inputs: 0
-	File system outputs: 336680
-	Socket messages sent: 0
-	Socket messages received: 0
-	Signals delivered: 0
-	Page size (bytes): 4096
-	Exit status: 11
-
-Error executing command (exit code 11)
-Number of lines in results.csv: 2
-Number of compounds found in sink: 1
-Sink compounds found: [Terephthalate]
-Testing one to one performance for source MET with max_steps=2
-STDOUT:
-Configuration 
- + retropath2_wrapper
-     |--version: 3.3.0
- + KNIME
-     |--path: /work/igem/anaconda3/envs/retropath_env/lib/python3.9/site-packages/retropath2_wrapper/.knime/linux/knime_4.6.4/knime
- + RetroPath2.0 workflow
-     |--path: /work/igem/anaconda3/envs/retropath_env/lib/python3.9/site-packages/retropath2_wrapper/workflows/RetroPath2.0_r20220224.knwf
-
-
-STDERR:
-/work/igem/anaconda3/envs/retropath_env/lib/python3.9/runpy.py:127: RuntimeWarning: 'retropath2_wrapper.__main__' found in sys.modules after import of package 'retropath2_wrapper', but prior to execution of 'retropath2_wrapper.__main__'; this may result in unpredictable behaviour
-  warn(RuntimeWarning(msg))
-[32mChecking input data[0m
-[32m   |- InChI[0m
-[32m   |- Source in Sink (simple)[0m
-[32m   |- Checking KNIME packages...[0m[32m OK[0m
-[32mInitializing[0m
-[32m   |- Formatting files for KNIME[0m
-[32mRunning KNIME...[0m[32m OK[0m
-[32m   |- Checking Source in Sink (advanced)[0m
-[32m[0m
-[32mResults[0m
-[32m   |- Checking... [0m
-[33m       Warning: No solution has been found[0m
-[32m   |--path: results/[0m
-Command exited with non-zero status 11
-	Command being timed: "python -m retropath2_wrapper data_files/ter_dihydrodiol.csv ../retrorules_rr02_rp2_flat_forward.csv results/ --source_file data_files/met.csv --max_steps 2 --topx 200 --dmin 6 --dmax 16 --msc_timeout 60"
-	User time (seconds): 251.69
-	System time (seconds): 14.41
-	Percent of CPU this job got: 287%
-	Elapsed (wall clock) time (h:mm:ss or m:ss): 1:32.61
-	Average shared text size (kbytes): 0
-	Average unshared data size (kbytes): 0
-	Average stack size (kbytes): 0
-	Average total size (kbytes): 0
-	Maximum resident set size (kbytes): 3257844
-	Average resident set size (kbytes): 0
-	Major (requiring I/O) page faults: 0
-	Minor (reclaiming a frame) page faults: 937089
-	Voluntary context switches: 344438
-	Involuntary context switches: 1931
-	Swaps: 0
-	File system inputs: 0
-	File system outputs: 446824
-	Socket messages sent: 0
-	Socket messages received: 0
-	Signals delivered: 0
-	Page size (bytes): 4096
-	Exit status: 11
-
-Error executing command (exit code 11)
-Number of lines in results.csv: 10
-Number of compounds found in sink: 1
-Sink compounds found: [terephtalate 1,2-cis-dihydrodiol]
-Testing one to one performance for source MET with max_steps=3
-STDOUT:
-Configuration 
- + retropath2_wrapper
-     |--version: 3.3.0
- + KNIME
-     |--path: /work/igem/anaconda3/envs/retropath_env/lib/python3.9/site-packages/retropath2_wrapper/.knime/linux/knime_4.6.4/knime
- + RetroPath2.0 workflow
-     |--path: /work/igem/anaconda3/envs/retropath_env/lib/python3.9/site-packages/retropath2_wrapper/workflows/RetroPath2.0_r20220224.knwf
-
-
-STDERR:
-/work/igem/anaconda3/envs/retropath_env/lib/python3.9/runpy.py:127: RuntimeWarning: 'retropath2_wrapper.__main__' found in sys.modules after import of package 'retropath2_wrapper', but prior to execution of 'retropath2_wrapper.__main__'; this may result in unpredictable behaviour
-  warn(RuntimeWarning(msg))
-[32mChecking input data[0m
-[32m   |- InChI[0m
-[32m   |- Source in Sink (simple)[0m
-[32m   |- Checking KNIME packages...[0m[32m OK[0m
-[32mInitializing[0m
-[32m   |- Formatting files for KNIME[0m
-[32mRunning KNIME...[0m[32m OK[0m
-[32m   |- Checking Source in Sink (advanced)[0m
-[32m[0m
-[32mResults[0m
-[32m   |- Checking... [0m
-[33m       Warning: No solution has been found[0m
-[32m   |--path: results/[0m
-Command exited with non-zero status 11
-	Command being timed: "python -m retropath2_wrapper data_files/dihydroxy_benzoate.csv ../retrorules_rr02_rp2_flat_forward.csv results/ --source_file data_files/met.csv --max_steps 3 --topx 200 --dmin 6 --dmax 16 --msc_timeout 60"
-	User time (seconds): 319.42
-	System time (seconds): 24.27
-	Percent of CPU this job got: 305%
-	Elapsed (wall clock) time (h:mm:ss or m:ss): 1:52.67
-	Average shared text size (kbytes): 0
-	Average unshared data size (kbytes): 0
-	Average stack size (kbytes): 0
-	Average total size (kbytes): 0
-	Maximum resident set size (kbytes): 4545356
-	Average resident set size (kbytes): 0
-	Major (requiring I/O) page faults: 0
-	Minor (reclaiming a frame) page faults: 1278145
-	Voluntary context switches: 440544
-	Involuntary context switches: 2356
-	Swaps: 0
-	File system inputs: 0
-	File system outputs: 654352
-	Socket messages sent: 0
-	Socket messages received: 0
-	Signals delivered: 0
-	Page size (bytes): 4096
-	Exit status: 11
-
-Error executing command (exit code 11)
-Number of lines in results.csv: 297
-Number of compounds found in sink: 2
-Sink compounds found: [3,4-Dihydroxybenzoate]
-Testing one to one performance for source MET with max_steps=4
-STDOUT:
-Configuration 
- + retropath2_wrapper
-     |--version: 3.3.0
- + KNIME
-     |--path: /work/igem/anaconda3/envs/retropath_env/lib/python3.9/site-packages/retropath2_wrapper/.knime/linux/knime_4.6.4/knime
- + RetroPath2.0 workflow
-     |--path: /work/igem/anaconda3/envs/retropath_env/lib/python3.9/site-packages/retropath2_wrapper/workflows/RetroPath2.0_r20220224.knwf
-
-
-STDERR:
-/work/igem/anaconda3/envs/retropath_env/lib/python3.9/runpy.py:127: RuntimeWarning: 'retropath2_wrapper.__main__' found in sys.modules after import of package 'retropath2_wrapper', but prior to execution of 'retropath2_wrapper.__main__'; this may result in unpredictable behaviour
-  warn(RuntimeWarning(msg))
-[32mChecking input data[0m
-[32m   |- InChI[0m
-[32m   |- Source in Sink (simple)[0m
-[32m   |- Checking KNIME packages...[0m[32m OK[0m
-[32mInitializing[0m
-[32m   |- Formatting files for KNIME[0m
-[32mRunning KNIME...[0m[32m OK[0m
-[32m   |- Checking Source in Sink (advanced)[0m
-[32m[0m
-[32mResults[0m
-[32m   |- Checking... [0m
-[33m       Warning: No solution has been found[0m
-[32m   |--path: results/[0m
-Command exited with non-zero status 11
-	Command being timed: "python -m retropath2_wrapper data_files/beta_carboxy_muconate.csv ../retrorules_rr02_rp2_flat_forward.csv results/ --source_file data_files/met.csv --max_steps 4 --topx 200 --dmin 6 --dmax 16 --msc_timeout 60"
-	User time (seconds): 746.24
-	System time (seconds): 32.46
-	Percent of CPU this job got: 215%
-	Elapsed (wall clock) time (h:mm:ss or m:ss): 6:00.67
-	Average shared text size (kbytes): 0
-	Average unshared data size (kbytes): 0
-	Average stack size (kbytes): 0
-	Average total size (kbytes): 0
-	Maximum resident set size (kbytes): 7673144
-	Average resident set size (kbytes): 0
-	Major (requiring I/O) page faults: 0
-	Minor (reclaiming a frame) page faults: 2554573
-	Voluntary context switches: 1034268
-	Involuntary context switches: 11682
-	Swaps: 0
-	File system inputs: 0
-	File system outputs: 812320
-	Socket messages sent: 0
-	Socket messages received: 0
-	Signals delivered: 0
-	Page size (bytes): 4096
-	Exit status: 11
-
-Error executing command (exit code 11)
-Number of lines in results.csv: 4326
-Number of compounds found in sink: 1
-Sink compounds found: [beta-Carboxy-cis,cis-muconate]
-Testing one to one performance for source MET with max_steps=5
-STDOUT:
-Configuration 
- + retropath2_wrapper
-     |--version: 3.3.0
- + KNIME
-     |--path: /work/igem/anaconda3/envs/retropath_env/lib/python3.9/site-packages/retropath2_wrapper/.knime/linux/knime_4.6.4/knime
- + RetroPath2.0 workflow
-     |--path: /work/igem/anaconda3/envs/retropath_env/lib/python3.9/site-packages/retropath2_wrapper/workflows/RetroPath2.0_r20220224.knwf
-
-
-STDERR:
-/work/igem/anaconda3/envs/retropath_env/lib/python3.9/runpy.py:127: RuntimeWarning: 'retropath2_wrapper.__main__' found in sys.modules after import of package 'retropath2_wrapper', but prior to execution of 'retropath2_wrapper.__main__'; this may result in unpredictable behaviour
-  warn(RuntimeWarning(msg))
-[32mChecking input data[0m
-[32m   |- InChI[0m
-[32m   |- Source in Sink (simple)[0m
-[32m   |- Checking KNIME packages...[0m[32m OK[0m
-[32mInitializing[0m
-[32m   |- Formatting files for KNIME[0m
-[32mRunning KNIME...[0m[32m OK[0m
-[32m   |- Checking Source in Sink (advanced)[0m
-[32m[0m
-[32mResults[0m
-[32m   |- Checking... [0m
-[33m       Warning: No solution has been found[0m
-[32m   |--path: results/[0m
-Command exited with non-zero status 11
-	Command being timed: "python -m retropath2_wrapper data_files/muconolactone.csv ../retrorules_rr02_rp2_flat_forward.csv results/ --source_file data_files/met.csv --max_steps 5 --topx 200 --dmin 6 --dmax 16 --msc_timeout 60"
-	User time (seconds): 1572.44
-	System time (seconds): 64.13
-	Percent of CPU this job got: 183%
-	Elapsed (wall clock) time (h:mm:ss or m:ss): 14:51.84
-	Average shared text size (kbytes): 0
-	Average unshared data size (kbytes): 0
-	Average stack size (kbytes): 0
-	Average total size (kbytes): 0
-	Maximum resident set size (kbytes): 11317604
-	Average resident set size (kbytes): 0
-	Major (requiring I/O) page faults: 0
-	Minor (reclaiming a frame) page faults: 3515070
-	Voluntary context switches: 2600403
-	Involuntary context switches: 24959
-	Swaps: 0
-	File system inputs: 0
-	File system outputs: 901408
-	Socket messages sent: 0
-	Socket messages received: 0
-	Signals delivered: 0
-	Page size (bytes): 4096
-	Exit status: 11
-
-Error executing command (exit code 11)
-Number of lines in results.csv: 9550
-Number of compounds found in sink: 0
-Sink compounds found: 
 Testing one to one performance for source MET with max_steps=6
 STDOUT:
 Configuration 
@@ -309,24 +29,24 @@ STDERR:
 [33m       Warning: No solution has been found[0m
 [32m   |--path: results/[0m
 Command exited with non-zero status 11
-	Command being timed: "python -m retropath2_wrapper data_files/dihydrofuran.csv ../retrorules_rr02_rp2_flat_forward.csv results/ --source_file data_files/met.csv --max_steps 6 --topx 200 --dmin 6 --dmax 16 --msc_timeout 60"
-	User time (seconds): 1866.25
-	System time (seconds): 78.95
-	Percent of CPU this job got: 180%
-	Elapsed (wall clock) time (h:mm:ss or m:ss): 17:58.32
+	Command being timed: "python -m retropath2_wrapper data_files/dihydrofuran.csv ../retrorules_rr02_rp2_flat_forward.csv results/ --source_file data_files/met.csv --max_steps 6 --topx 500 --dmin 6 --dmax 16 --msc_timeout 180"
+	User time (seconds): 7910.37
+	System time (seconds): 293.85
+	Percent of CPU this job got: 231%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 58:59.69
 	Average shared text size (kbytes): 0
 	Average unshared data size (kbytes): 0
 	Average stack size (kbytes): 0
 	Average total size (kbytes): 0
-	Maximum resident set size (kbytes): 14230456
+	Maximum resident set size (kbytes): 42607288
 	Average resident set size (kbytes): 0
 	Major (requiring I/O) page faults: 0
-	Minor (reclaiming a frame) page faults: 4660715
-	Voluntary context switches: 3051055
-	Involuntary context switches: 33491
+	Minor (reclaiming a frame) page faults: 23897113
+	Voluntary context switches: 12725143
+	Involuntary context switches: 128331
 	Swaps: 0
 	File system inputs: 0
-	File system outputs: 1074464
+	File system outputs: 1687848
 	Socket messages sent: 0
 	Socket messages received: 0
 	Signals delivered: 0
@@ -334,7 +54,7 @@ Command exited with non-zero status 11
 	Exit status: 11
 
 Error executing command (exit code 11)
-Number of lines in results.csv: 10922
+Number of lines in results.csv: 28230
 Number of compounds found in sink: 0
 Sink compounds found: 
 Testing one to one performance for source MET with max_steps=7
@@ -365,24 +85,24 @@ STDERR:
 [33m       Warning: No solution has been found[0m
 [32m   |--path: results/[0m
 Command exited with non-zero status 11
-	Command being timed: "python -m retropath2_wrapper data_files/oxoadipate.csv ../retrorules_rr02_rp2_flat_forward.csv results/ --source_file data_files/met.csv --max_steps 7 --topx 200 --dmin 6 --dmax 16 --msc_timeout 60"
-	User time (seconds): 2318.73
-	System time (seconds): 99.11
-	Percent of CPU this job got: 178%
-	Elapsed (wall clock) time (h:mm:ss or m:ss): 22:32.22
+	Command being timed: "python -m retropath2_wrapper data_files/oxoadipate.csv ../retrorules_rr02_rp2_flat_forward.csv results/ --source_file data_files/met.csv --max_steps 7 --topx 500 --dmin 6 --dmax 16 --msc_timeout 180"
+	User time (seconds): 12789.92
+	System time (seconds): 357.87
+	Percent of CPU this job got: 294%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 1:14:27
 	Average shared text size (kbytes): 0
 	Average unshared data size (kbytes): 0
 	Average stack size (kbytes): 0
 	Average total size (kbytes): 0
-	Maximum resident set size (kbytes): 17610820
+	Maximum resident set size (kbytes): 58277980
 	Average resident set size (kbytes): 0
 	Major (requiring I/O) page faults: 0
-	Minor (reclaiming a frame) page faults: 5780437
-	Voluntary context switches: 3812278
-	Involuntary context switches: 50532
+	Minor (reclaiming a frame) page faults: 28076219
+	Voluntary context switches: 15787595
+	Involuntary context switches: 173445
 	Swaps: 0
 	File system inputs: 0
-	File system outputs: 1190656
+	File system outputs: 1508000
 	Socket messages sent: 0
 	Socket messages received: 0
 	Signals delivered: 0
@@ -390,7 +110,7 @@ Command exited with non-zero status 11
 	Exit status: 11
 
 Error executing command (exit code 11)
-Number of lines in results.csv: 12514
+Number of lines in results.csv: 34571
 Number of compounds found in sink: 0
 Sink compounds found: 
 Testing one to one performance for source MET with max_steps=8
@@ -421,24 +141,24 @@ STDERR:
 [33m       Warning: No solution has been found[0m
 [32m   |--path: results/[0m
 Command exited with non-zero status 11
-	Command being timed: "python -m retropath2_wrapper data_files/oxoadipyl_coa.csv ../retrorules_rr02_rp2_flat_forward.csv results/ --source_file data_files/met.csv --max_steps 8 --topx 200 --dmin 6 --dmax 16 --msc_timeout 60"
-	User time (seconds): 3192.64
-	System time (seconds): 133.63
-	Percent of CPU this job got: 181%
-	Elapsed (wall clock) time (h:mm:ss or m:ss): 30:30.29
+	Command being timed: "python -m retropath2_wrapper data_files/oxoadipyl_coa.csv ../retrorules_rr02_rp2_flat_forward.csv results/ --source_file data_files/met.csv --max_steps 8 --topx 500 --dmin 6 --dmax 16 --msc_timeout 180"
+	User time (seconds): 18532.25
+	System time (seconds): 438.94
+	Percent of CPU this job got: 346%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 1:31:22
 	Average shared text size (kbytes): 0
 	Average unshared data size (kbytes): 0
 	Average stack size (kbytes): 0
 	Average total size (kbytes): 0
-	Maximum resident set size (kbytes): 23170220
+	Maximum resident set size (kbytes): 63958332
 	Average resident set size (kbytes): 0
 	Major (requiring I/O) page faults: 0
-	Minor (reclaiming a frame) page faults: 7600204
-	Voluntary context switches: 4668710
-	Involuntary context switches: 63113
+	Minor (reclaiming a frame) page faults: 34720298
+	Voluntary context switches: 18532193
+	Involuntary context switches: 204583
 	Swaps: 0
 	File system inputs: 0
-	File system outputs: 1307240
+	File system outputs: 2003120
 	Socket messages sent: 0
 	Socket messages received: 0
 	Signals delivered: 0
@@ -446,9 +166,9 @@ Command exited with non-zero status 11
 	Exit status: 11
 
 Error executing command (exit code 11)
-Number of lines in results.csv: 16157
-Number of compounds found in sink: 0
-Sink compounds found: 
+Number of lines in results.csv: 45835
+Number of compounds found in sink: 3
+Sink compounds found: [3-oxoadipyl-coa]
 Testing one to one performance for source MET with max_steps=9
 STDOUT:
 Configuration 
@@ -477,24 +197,24 @@ STDERR:
 [33m       Warning: No solution has been found[0m
 [32m   |--path: results/[0m
 Command exited with non-zero status 11
-	Command being timed: "python -m retropath2_wrapper data_files/succinyl_coa.csv ../retrorules_rr02_rp2_flat_forward.csv results/ --source_file data_files/met.csv --max_steps 9 --topx 200 --dmin 6 --dmax 16 --msc_timeout 60"
-	User time (seconds): 4100.12
-	System time (seconds): 165.27
-	Percent of CPU this job got: 180%
-	Elapsed (wall clock) time (h:mm:ss or m:ss): 39:23.12
+	Command being timed: "python -m retropath2_wrapper data_files/succinyl_coa.csv ../retrorules_rr02_rp2_flat_forward.csv results/ --source_file data_files/met.csv --max_steps 9 --topx 500 --dmin 6 --dmax 16 --msc_timeout 180"
+	User time (seconds): 35407.88
+	System time (seconds): 506.52
+	Percent of CPU this job got: 519%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 1:55:17
 	Average shared text size (kbytes): 0
 	Average unshared data size (kbytes): 0
 	Average stack size (kbytes): 0
 	Average total size (kbytes): 0
-	Maximum resident set size (kbytes): 24602944
+	Maximum resident set size (kbytes): 72336552
 	Average resident set size (kbytes): 0
 	Major (requiring I/O) page faults: 0
-	Minor (reclaiming a frame) page faults: 8976501
-	Voluntary context switches: 5992006
-	Involuntary context switches: 83777
+	Minor (reclaiming a frame) page faults: 38161597
+	Voluntary context switches: 20207125
+	Involuntary context switches: 288226
 	Swaps: 0
-	File system inputs: 0
-	File system outputs: 2035824
+	File system inputs: 5296
+	File system outputs: 7226944
 	Socket messages sent: 0
 	Socket messages received: 0
 	Signals delivered: 0
@@ -502,6 +222,6 @@ Command exited with non-zero status 11
 	Exit status: 11
 
 Error executing command (exit code 11)
-Number of lines in results.csv: 20031
-Number of compounds found in sink: 21
+Number of lines in results.csv: 61601
+Number of compounds found in sink: 27
 Sink compounds found: [succinyl-coa]
