@@ -180,7 +180,8 @@ def test_one_to_one(source_name, source_file, sink_files, min_step=1, max_step=5
         rules_file = "../retrorules_rr02_rp2_flat_forward.csv"
         outdir = "results/"
         #topx = "100"
-        topx="200"
+        #topx="200"
+        topx = "500"
         dmin = "6"
         dmax = "16"
 
@@ -194,7 +195,7 @@ def test_one_to_one(source_name, source_file, sink_files, min_step=1, max_step=5
             "--topx", topx,
             "--dmin", dmin,
             "--dmax", dmax,
-            "--msc_timeout", "60"
+            "--msc_timeout", "180"
         ]
 
         log_message = f"Testing one to one performance for source {source_name} with max_steps={i}\n"
