@@ -227,7 +227,10 @@ def test_one_to_one(source_name, source_file, sink_files, min_step=1, max_step=5
 
 def test_diameters(source_name, source_file, sink_files, min_d=6, max_d=16, min_step=1, max_step=5, server=False):
     
-    log_filename = f"data_files/log_diam_{source_name}_server.txt" if server else f"data_files/log_diam_{source_name}_laptop.txt"
+    if args.out_file:
+        log_filename = f"data_files/log_diam_{source_name}_server{str(args.out_file)}.txt" if server else f"data_files/log_diam_{source_name}_laptop{str(args.out_file)}.txt"
+    else:
+        log_filename = f"data_files/log_diam_{source_name}_server.txt" if server else f"data_files/log_diam_{source_name}_laptop.txt"
     with open(log_filename, "w") as log_file:
         log_file.write(f"Log file to test performance on {'server' if server else 'laptop'} \n")
         log_file.write(f"Test executed on: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}\n\n")
@@ -307,6 +310,7 @@ if __name__ == "__main__":
     parser.add_argument('--dia', action='store_true', help='Run incremental diameters on one-to-one test')
     parser.add_argument('--min_diam', type=int, default=6, help='Minimum diameter for one-to-one test')
     parser.add_argument('--max_diam', type=int, default=16, help='Maximum diameter for one-to-one test')
+    parser.add_argument('--out_file', type=int, help='Specify active outputs number')
     #parser.add_argument('--target_ids', type=str, nargs='+', help='Target IDs for one-to-one test')
     args = parser.parse_args()
     
