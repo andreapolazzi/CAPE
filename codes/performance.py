@@ -225,6 +225,73 @@ def test_one_to_one(source_name, source_file, sink_files, min_step=1, max_step=5
                 log_file.write("results.csv file not found\n")
 
 
+def test_diameters(source_name, source_file, sink_files, min_d=6, max_d=16, min_step=1, max_step=5, server=False):
+    
+    log_filename = f"data_files/log_diam_{source_name}_server.txt" if server else f"data_files/log_diam_{source_name}_laptop.txt"
+    with open(log_filename, "w") as log_file:
+        log_file.write(f"Log file to test performance on {'server' if server else 'laptop'} \n")
+        log_file.write(f"Test executed on: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}\n\n")
+    
+    for j in range(min_d, max_d + 1):
+
+        with open(log_filename, "a") as log_file:
+            log_file.write("\n" + "="*100 + "\n")
+            log_file.write(f"\nTesting diameter from {min_d} to {j}\n")
+
+        for i in range(min_step, max_step + 1):
+            with open(log_filename, "a") as log_file:
+                log_file.write("\n" + "-"*100 + "\n")
+                log_file.write(f"\nTesting max_steps={i}\n")
+
+            sink_file = sink_files[i-1]
+            rules_file = "../retrorules_rr02_rp2_flat_forward.csv"
+            outdir = "results/"
+            topx = "100"
+            #topx="200"
+            #topx = "500"
+            dmin = str(min_d)
+            dmax = str(j)
+
+            rp_command = [
+                "python", "-m", "retropath2_wrapper",
+                sink_file,
+                rules_file,
+                outdir,
+                "--source_file", source_file,
+                "--max_steps", str(i),
+                "--topx", topx,
+                "--dmin", dmin,
+                "--dmax", dmax,
+                "--msc_timeout", "180"
+            ]
+
+            with open(log_filename, "a") as log_file:
+                return_code, stdout, stderr = test_performance(rp_command)
+                log_file.write("STDOUT:\n")
+                log_file.write(stdout + "\n")
+                log_file.write("STDERR:\n")
+                log_file.write(stderr + "\n")
+                if return_code:
+                    log_file.write(f"Error executing command (exit code {return_code})\n")
+                else:
+                    log_file.write("Command executed successfully.\n")
+                    
+                try:
+                    df = pd.read_csv("results/results.csv")
+                    line_count = len(df)
+                    in_sink_count = df['In Sink'].value_counts().get(1, 0)
+                    sink_names = df[df['In Sink'] == 1]['Sink name'].unique()
+                    
+                    log_file.write(f"Number of lines in results.csv: {line_count}\n")
+                    log_file.write(f"Number of compounds found in sink: {in_sink_count}\n")
+                    log_file.write(f"Sink compounds found: {', '.join(sink_names)}\n")
+                except FileNotFoundError:
+                    log_file.write("results.csv file not found\n")
+       		 
+
+        
+        
+
 
 
 
@@ -237,7 +304,10 @@ if __name__ == "__main__":
     parser.add_argument('--ota', action='store_true', help='Run one-to-all test')
     parser.add_argument('--otc', action='store_true', help='Run one-to-central test')
     parser.add_argument('--oto', action='store_true', help='Run one-to-one test')
-    parser.add_argument('--target_ids', type=str, nargs='+', help='Target IDs for one-to-one test')
+    parser.add_argument('--dia', action='store_true', help='Run incremental diameters on one-to-one test')
+    parser.add_argument('--min_diam', type=int, default=6, help='Minimum diameter for one-to-one test')
+    parser.add_argument('--max_diam', type=int, default=16, help='Maximum diameter for one-to-one test')
+    #parser.add_argument('--target_ids', type=str, nargs='+', help='Target IDs for one-to-one test')
     args = parser.parse_args()
     
     if args.ota:
@@ -266,8 +336,27 @@ if __name__ == "__main__":
         ]
         test_one_to_one(source_name=name, source_file=source, sink_files=sinks, min_step=args.min_steps, max_step=args.max_steps, server=args.server)
     
-    if not (args.ota or args.otc or args.oto):
-        print("Please specify either --ota or --otc or --oto")
+    if args.dia:
+
+        source = "data_files/met.csv"
+        name = "MET"
+        sinks = [
+            "data_files/terephtalate.csv",
+            "data_files/ter_dihydrodiol.csv",
+            "data_files/dihydroxy_benzoate.csv",
+            "data_files/beta_carboxy_muconate.csv",
+            "data_files/muconolactone.csv",
+            "data_files/dihydrofuran.csv",
+            "data_files/oxoadipate.csv",
+            "data_files/oxoadipyl_coa.csv",
+            "data_files/succinyl_coa.csv"
+        ]
+
+        test_diameters(source_name=name, source_file=source, sink_files=sinks, min_d=args.min_diam, max_d=args.max_diam, min_step=args.min_steps, max_step=args.max_steps, server=args.server)
+
+
+    if not (args.ota or args.otc or args.oto or args.dia):
+        print("Please specify either --ota, --otc, --oto or --dia")
         parser.print_help()
         exit(1)
         
