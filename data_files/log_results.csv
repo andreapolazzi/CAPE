@@ -56,4 +56,20 @@ S RSS (GB),2.73,3.34,4.66,8.32,45.4,42.6,58.3,64.0,72.3
 S Lines,2,10,297,4326,23754,28230,34571,45835,61601
 S Sink #,1,1,2,1,1,0,0,3,27
 
+
+// Diameter tests - 100 structures
+
+# Diameter 1 - 1; 200 structures
+Max Steps,1,2,3,4,5,6,7,8,9
+S Time (m:s),0:58.19,0:52.02,0:52.74,0:52.42,0:53.53,0:54.03,0:53.01,0:52.50,0:53.24
+S CPU (%),227,253,261,267,264,261,263,255,265
+S RSS (GB),1.69,1.78,1.74,1.70,1.80,1.69,1.79,1.78,1.70
+S Lines,0,0,0,0,0,0,0,0,0
+S Sink #,0,0,0,0,0,0,0,0,0
+# Diameter 1 - 2; 100 structures
+4000 lines in results.csv
+40 in sink
+With path length 2 took already too much so i went to 
+100 structures and minimum diameter 4
+
 // L = laptop, S = server
