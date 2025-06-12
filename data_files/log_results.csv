@@ -66,10 +66,165 @@ S CPU (%),227,253,261,267,264,261,263,255,265
 S RSS (GB),1.69,1.78,1.74,1.70,1.80,1.69,1.79,1.78,1.70
 S Lines,0,0,0,0,0,0,0,0,0
 S Sink #,0,0,0,0,0,0,0,0,0
-# Diameter 1 - 2; 100 structures
-4000 lines in results.csv
-40 in sink
-With path length 2 took already too much so i went to 
-100 structures and minimum diameter 4
+
+# Diameter 2 - 2; 100 structures
+Max Steps,1,2,3,4,5,6,7,8,9
+S Time (m:s),1:37.93,26:35.51,18:34.07,26:00.81,25:49.26,26:16.09,killed(>3hr)
+S CPU (%),346,1215,513,1183,1523,1232,killed(>3hr)
+S RSS (GB),2.26,12.0,5.60,12.9,6.01,12.4,killed(>3hr)
+S Lines,3316,20090,20090,33235,20090,20090,killed(>3hr)
+S Sink #,40,0,0,0,0,0,killed(>3hr)
+
+# Diameter 4 - 4; 100 structures
+Max Steps,1,2,3,4,5,6,7,8,9
+S Time (m:s),1:11.48,18:39.14,
+S CPU (%),286,1276,
+S RSS (GB),2.66,17.1,
+S Lines,631,91318,
+S Sink #,1,1,
+
+
+# Diameter 6 - 6; 100 structures
+Max Steps,1,2,3,4,5,6,7,8,9
+S Time (m:s),1:05.23,3:15.89,11:21.37,
+S CPU (%),278,235,220,
+S RSS (GB),2.21,5.33,6.60,
+S Lines,64,3824,20090,
+S Sink #,1,1,5,
+
+# Diameter 6 - 7; 100 structures
+Max Steps,1,2,3,4,5,6,7,8,9
+S Time (m:s),
+S CPU (%),
+S RSS (GB),
+S Lines,
+S Sink #,
+
+# Diameter 6 - 8; 100 structures
+Max Steps,1,2,3,4,5,6,7,8,9
+S Time (m:s),
+S CPU (%),
+S RSS (GB),
+S Lines,
+S Sink #,
+
+# Diameter 6 - 9; 100 structures
+Max Steps,1,2,3,4,5,6,7,8,9
+S Time (m:s),
+S CPU (%),
+S RSS (GB),
+S Lines,
+S Sink #,
+
+# Diameter 6 - 10; 100 structures
+Max Steps,1,2,3,4,5,6,7,8,9
+S Time (m:s),
+S CPU (%),
+S RSS (GB),
+S Lines,
+S Sink #,
+
+# Diameter 6 - 11; 100 structures
+Max Steps,1,2,3,4,5,6,7,8,9
+S Time (m:s),
+S CPU (%),
+S RSS (GB),
+S Lines,
+S Sink #,
+
+# Diameter 6 - 12; 100 structures
+Max Steps,1,2,3,4,5,6,7,8,9
+S Time (m:s),
+S CPU (%),
+S RSS (GB),
+S Lines,
+S Sink #,
+
+# Diameter 6 - 13; 100 structures
+Max Steps,1,2,3,4,5,6,7,8,9
+S Time (m:s),
+S CPU (%),
+S RSS (GB),
+S Lines,
+S Sink #,
+
+# Diameter 6 - 14; 100 structures
+Max Steps,1,2,3,4,5,6,7,8,9
+S Time (m:s),
+S CPU (%),
+S RSS (GB),
+S Lines,
+S Sink #,
+
+# Diameter 6 - 15; 100 structures
+Max Steps,1,2,3,4,5,6,7,8,9
+S Time (m:s),
+S CPU (%),
+S RSS (GB),
+S Lines,
+S Sink #,
+
+# Diameter 6 - 16; 100 structures
+Max Steps,1,2,3,4,5,6,7,8,9
+S Time (m:s),
+S CPU (%),
+S RSS (GB),
+S Lines,
+S Sink #,
+
 
 // L = laptop, S = server
+
+
+// DATI VECCHI DA NON CONSIDERARE
+// LE DUE SESSIONI SI CANCELLAVANO I FILE A VICENDA
+
+
+# Diameter 4 - 4; 100 structures
+Max Steps,1,2,3,4,5,6,7,8,9
+S Time (m:s),1:11.93,15:20.34,33:10.70,15:58.37,16:37.45,
+S CPU (%),274,538,996,551,655,
+S RSS (GB),2.31,15.8,16.6,15.6,15.3,
+S Lines,631,6801,56718,noRes,10155,noRes,
+S Sink #,1,0,10,noRes,0,noRes,
+
+
+# Diameter 6 - 6; 100 structures
+Max Steps,1,2,3,4,5,6,7,8,9
+S Time (m:s),1:05.65,3:13.65,11:06.45,17:19.28,21:44.15,26:05.52,29:59.93,32:50.85,35:44.54
+S CPU (%),271,233,241,241,223,201,209,207,201
+S RSS (GB),2.03,5.55,6.80,7.72,7.41,8.88,8.97,9.40,9.84
+S Lines,64,7140,20090,16461,25270,19674,38783,44793,67282
+S Sink #,1,1,5,1,0,0,0,0,90
+
+# Diameter 6 - 7; 100 structures
+Max Steps,1,2,3,4,5,6,7,8,9
+S Time (m:s),1:03.64,3:07.91,10:57.97,16:37.65,21:36.63,26:12.17,28:46.33,21:49.58,35:37.13
+S CPU (%),252,214,230,253,211,224,221,215,201
+S RSS (GB),2.15,5.51,6.83,8.39,8.05,8.70,9.83,8.57,10.7
+S Lines,64,3824,20090,33235,42044,49593,55557,42044,67282
+S Sink #,1,1,5,1,0,0,0,0,90
+
+# Diameter 6 - 8; 100 structures
+Max Steps,1,2,3,4,5,6,7,8,9
+S Time (m:s),1:04.83,2:04.35,6:46.27,11:56.02,15:12.79,17:47.53,20:24.58,23:20.41,27:52.46
+S CPU (%),258,225,223,193,185,183,184,192,187
+S RSS (GB),2.36,4.52,5.65,6.68,7.22,8.08,8.26,9.36,10.0
+S Lines,32,1409,12218,17913,21592,25178,29151,33827,40964
+S Sink #,1,1,0,0,0,0,0,0,12
+
+# Diameter 6 - 9; 100 structures
+Max Steps,1,2,3,4,5,6,7,8,9
+S Time (m:s),1:06.11,2:05.32,6:54.24,11:56.88,15:27.03,18:03.60,20:39.62,23:48.69,27:52.83
+S CPU (%),256,220,216,196,184,181,183,186,190
+S RSS (GB),2.57,4.63,5.62,6.76,7.05,7.61,8.47,9.01,9.49
+S Lines,32,1409,12218,17913,21592,25178,29151,33827,40694
+S Sink #,1,1,0,0,0,0,0,0,12
+
+# Diameter 6 - 10; 100 structures
+Max Steps,1,2,3,4,5,6,7,8,9
+S Time (m:s),1:08.98,2:01.81,6:56.95,10:08.13,12:34.68,14:39.60,16:03.32,17:53.52,17:54.92
+S CPU (%),254,207,198,186,185,179,179,178,181
+S RSS (GB),2.58,4.97,15.7,15.8,16.9,16.9,17.3,18.9,18.6
+S Lines,14,564,6801,10291,12644,14790,16538,18729,18729
+S Sink #,1,1,0,0,0,0,0,0,2

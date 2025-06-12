@@ -29,7 +29,7 @@ def run_command(command):
         return 1, "", str(e)
     
 
-def test_performance(rp_command, clean=True):
+def test_performance(rp_command, clean=True,sub=""):
     """
     Test the performance of a RetroPath2 command using the time utility.
     Args:
@@ -39,7 +39,7 @@ def test_performance(rp_command, clean=True):
     """
     if clean:
         print("Cleaning up previous results...")
-        subprocess.run("rm -r results/*", shell=True)
+        subprocess.run(f"rm -r results{sub}/*", shell=True)
 
     command = [
         "/usr/bin/time",
@@ -248,7 +248,7 @@ def test_diameters(source_name, source_file, sink_files, min_d=6, max_d=16, min_
 
             sink_file = sink_files[i-1]
             rules_file = "../retrorules_rr02_rp2_flat_forward.csv"
-            outdir = "results/"
+            outdir = f"results/{str(args.out_file)}"
             topx = "100"
             #topx="200"
             #topx = "500"
@@ -269,7 +269,7 @@ def test_diameters(source_name, source_file, sink_files, min_d=6, max_d=16, min_
             ]
 
             with open(log_filename, "a") as log_file:
-                return_code, stdout, stderr = test_performance(rp_command)
+                return_code, stdout, stderr = test_performance(rp_command, clean=True, sub=str(args.out_file))
                 log_file.write("STDOUT:\n")
                 log_file.write(stdout + "\n")
                 log_file.write("STDERR:\n")
@@ -280,7 +280,7 @@ def test_diameters(source_name, source_file, sink_files, min_d=6, max_d=16, min_
                     log_file.write("Command executed successfully.\n")
                     
                 try:
-                    df = pd.read_csv("results/results.csv")
+                    df = pd.read_csv(f"results/{str(args.out_file)}/results.csv")
                     line_count = len(df)
                     in_sink_count = df['In Sink'].value_counts().get(1, 0)
                     sink_names = df[df['In Sink'] == 1]['Sink name'].unique()
