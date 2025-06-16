@@ -1,0 +1,84 @@
+enzyme_name	EC	source_node_name	target_node_name
+3-hydroxyacyl-CoA dehydrogenase / enoyl-CoA hydratase / 3-hydroxybutyryl-CoA epimerase	1.1.1.35 4.2.1.17 5.1.2.3	(S)-3-Hydroxybutanoyl-CoA	Acetoacetyl-CoA
+3-hydroxyacyl-CoA dehydrogenase / enoyl-CoA hydratase / 3-hydroxybutyryl-CoA epimerase	1.1.1.35 4.2.1.17 5.1.2.3	(S)-3-Hydroxydodecanoyl-CoA	3-Oxododecanoyl-CoA
+3-hydroxyacyl-CoA dehydrogenase / enoyl-CoA hydratase / 3-hydroxybutyryl-CoA epimerase	1.1.1.35 4.2.1.17 5.1.2.3	(S)-3-Hydroxyhexadecanoyl-CoA	3-Oxopalmitoyl-CoA
+3-hydroxyacyl-CoA dehydrogenase / enoyl-CoA hydratase / 3-hydroxybutyryl-CoA epimerase	1.1.1.35 4.2.1.17 5.1.2.3	(S)-3-Hydroxyoctanoyl-CoA	3-Oxooctanoyl-CoA
+3-hydroxyacyl-CoA dehydrogenase / enoyl-CoA hydratase / 3-hydroxybutyryl-CoA epimerase	1.1.1.35 4.2.1.17 5.1.2.3	(S)-3-Hydroxytetradecanoyl-CoA	3-Oxotetradecanoyl-CoA
+3-hydroxyacyl-CoA dehydrogenase / enoyl-CoA hydratase / 3-hydroxybutyryl-CoA epimerase	1.1.1.35 4.2.1.17 5.1.2.3	(S)-Hydroxydecanoyl-CoA	3-Oxodecanoyl-CoA
+3-hydroxyacyl-CoA dehydrogenase / enoyl-CoA hydratase / 3-hydroxybutyryl-CoA epimerase	1.1.1.35 4.2.1.17 5.1.2.3	(S)-Hydroxyhexanoyl-CoA	3-Oxohexanoyl-CoA
+3-hydroxyacyl-CoA dehydrogenase / enoyl-CoA hydratase / 3-hydroxybutyryl-CoA epimerase	1.1.1.35 4.2.1.17 5.1.2.3	3-Oxodecanoyl-CoA	(S)-Hydroxydecanoyl-CoA
+3-hydroxyacyl-CoA dehydrogenase / enoyl-CoA hydratase / 3-hydroxybutyryl-CoA epimerase	1.1.1.35 4.2.1.17 5.1.2.3	3-Oxododecanoyl-CoA	(S)-3-Hydroxydodecanoyl-CoA
+3-hydroxyacyl-CoA dehydrogenase / enoyl-CoA hydratase / 3-hydroxybutyryl-CoA epimerase	1.1.1.35 4.2.1.17 5.1.2.3	3-Oxohexanoyl-CoA	(S)-Hydroxyhexanoyl-CoA
+3-hydroxyacyl-CoA dehydrogenase / enoyl-CoA hydratase / 3-hydroxybutyryl-CoA epimerase	1.1.1.35 4.2.1.17 5.1.2.3	3-Oxooctanoyl-CoA	(S)-3-Hydroxyoctanoyl-CoA
+3-hydroxyacyl-CoA dehydrogenase / enoyl-CoA hydratase / 3-hydroxybutyryl-CoA epimerase	1.1.1.35 4.2.1.17 5.1.2.3	3-Oxopalmitoyl-CoA	(S)-3-Hydroxyhexadecanoyl-CoA
+3-hydroxyacyl-CoA dehydrogenase / enoyl-CoA hydratase / 3-hydroxybutyryl-CoA epimerase	1.1.1.35 4.2.1.17 5.1.2.3	3-Oxotetradecanoyl-CoA	(S)-3-Hydroxytetradecanoyl-CoA
+3-hydroxyacyl-CoA dehydrogenase / enoyl-CoA hydratase / 3-hydroxybutyryl-CoA epimerase	1.1.1.35 4.2.1.17 5.1.2.3	Acetoacetyl-CoA	(S)-3-Hydroxybutanoyl-CoA
+3-oxoacyl-[acyl-carrier protein] reductase	1.1.1.100	3-Oxodecanoyl-[acp]	(3R)-3-Hydroxydecanoyl-[acyl-carrier protein]
+3-oxoacyl-[acyl-carrier protein] reductase	1.1.1.100	3-Oxododecanoyl-[acp]	(3R)-3-Hydroxydodecanoyl-[acyl-carrier protein]
+3-oxoacyl-[acyl-carrier protein] reductase	1.1.1.100	3-Oxohexadecanoyl-[acp]	(3R)-3-Hydroxypalmitoyl-[acyl-carrier protein]
+3-oxoacyl-[acyl-carrier protein] reductase	1.1.1.100	3-Oxohexanoyl-[acp]	(3R)-3-Hydroxyhexanoyl-[acyl-carrier protein]
+3-oxoacyl-[acyl-carrier protein] reductase	1.1.1.100	3-Oxooctanoyl-[acp]	(3R)-3-Hydroxyoctanoyl-[acyl-carrier protein]
+3-oxoacyl-[acyl-carrier protein] reductase	1.1.1.100	3-Oxostearoyl-[acp]	(3R)-3-Hydroxyoctadecanoyl-[acyl-carrier protein]
+3-oxoacyl-[acyl-carrier protein] reductase	1.1.1.100	3-Oxotetradecanoyl-[acp]	(3R)-3-Hydroxytetradecanoyl-[acyl-carrier protein]
+3-oxoacyl-[acyl-carrier protein] reductase	1.1.1.100	Acetoacetyl-[acp]	(3R)-3-Hydroxybutanoyl-[acyl-carrier protein]
+3-oxoacyl-[acyl-carrier-protein] synthase III	2.3.1.180	Acetyl-CoA	Acetoacetyl-[acp]
+[acyl-carrier-protein] S-malonyltransferase	2.3.1.39	Acyl-carrier protein	Malonyl-[acyl-carrier protein]
+[acyl-carrier-protein] S-malonyltransferase	2.3.1.39	Malonyl-CoA	Malonyl-[acyl-carrier protein]
+acetyl-CoA C-acetyltransferase	2.3.1.9	3-Oxohexanoyl-CoA	Butanoyl-CoA
+acetyl-CoA C-acetyltransferase	2.3.1.9	Butanoyl-CoA	3-Oxohexanoyl-CoA
+acetyl-CoA acyltransferase	2.3.1.16	3-Oxodecanoyl-CoA	Octanoyl-CoA
+acetyl-CoA acyltransferase	2.3.1.16	3-Oxododecanoyl-CoA	Decanoyl-CoA
+acetyl-CoA acyltransferase	2.3.1.16	3-Oxooctanoyl-CoA	Hexanoyl-CoA
+acetyl-CoA acyltransferase	2.3.1.16	3-Oxopalmitoyl-CoA	Tetradecanoyl-CoA
+acetyl-CoA acyltransferase	2.3.1.16	3-Oxotetradecanoyl-CoA	Lauroyl-CoA
+acetyl-CoA acyltransferase	2.3.1.16	Acetoacetyl-CoA	Acetyl-CoA
+acetyl-CoA acyltransferase	2.3.1.16	Acetyl-CoA	Acetoacetyl-CoA
+acetyl-CoA acyltransferase	2.3.1.16	Decanoyl-CoA	3-Oxododecanoyl-CoA
+acetyl-CoA acyltransferase	2.3.1.16	Hexanoyl-CoA	3-Oxooctanoyl-CoA
+acetyl-CoA acyltransferase	2.3.1.16	Lauroyl-CoA	3-Oxotetradecanoyl-CoA
+acetyl-CoA acyltransferase	2.3.1.16	Octanoyl-CoA	3-Oxodecanoyl-CoA
+acetyl-CoA acyltransferase	2.3.1.16	Tetradecanoyl-CoA	3-Oxopalmitoyl-CoA
+acetyl-CoA/propionyl-CoA/long-chain acyl-CoA carboxylase, biotin carboxylase, biotin carboxyl carrier protein	6.4.1.2 6.4.1.3 6.4.1.- 6.3.4.14	Acetyl-CoA	Malonyl-CoA
+acyl-CoA dehydrogenase	1.3.8.7	Decanoyl-CoA	trans-Dec-2-enoyl-CoA
+acyl-CoA dehydrogenase	1.3.8.7	Hexanoyl-CoA	trans-Hex-2-enoyl-CoA
+acyl-CoA dehydrogenase	1.3.8.7	Lauroyl-CoA	2-trans-Dodecenoyl-CoA
+acyl-CoA dehydrogenase	1.3.8.7	Octanoyl-CoA	trans-Oct-2-enoyl-CoA
+acyl-CoA dehydrogenase	1.3.8.7	Palmitoyl-CoA	trans-Hexadec-2-enoyl-CoA
+acyl-CoA dehydrogenase	1.3.8.7	Tetradecanoyl-CoA	trans-Tetradec-2-enoyl-CoA
+acyl-CoA oxidase	1.3.3.6	(6Z,9Z,12Z,15Z,18Z)-Tetracosapentaenoyl-CoA	(2E,6Z,9Z,12Z,15Z,18Z)-Tetracosahexaenoyl-CoA
+acyl-CoA oxidase	1.3.3.6	(6Z,9Z,12Z,15Z,18Z,21Z)-Tetracosahexaenoyl-CoA	(2E,6Z,9Z,12Z,15Z,18Z,21Z)-Tetracosaheptaenoyl-CoA
+enoyl-CoA hydratase	4.2.1.17	(S)-3-Hydroxybutanoyl-CoA	Crotonoyl-CoA
+enoyl-CoA hydratase	4.2.1.17	(S)-3-Hydroxydodecanoyl-CoA	2-trans-Dodecenoyl-CoA
+enoyl-CoA hydratase	4.2.1.17	(S)-3-Hydroxyhexadecanoyl-CoA	trans-Hexadec-2-enoyl-CoA
+enoyl-CoA hydratase	4.2.1.17	(S)-3-Hydroxyoctanoyl-CoA	trans-Oct-2-enoyl-CoA
+enoyl-CoA hydratase	4.2.1.17	(S)-3-Hydroxytetradecanoyl-CoA	trans-Tetradec-2-enoyl-CoA
+enoyl-CoA hydratase	4.2.1.17	(S)-Hydroxydecanoyl-CoA	trans-Dec-2-enoyl-CoA
+enoyl-CoA hydratase	4.2.1.17	(S)-Hydroxyhexanoyl-CoA	trans-Hex-2-enoyl-CoA
+enoyl-CoA hydratase	4.2.1.17	2-trans-Dodecenoyl-CoA	(S)-3-Hydroxydodecanoyl-CoA
+enoyl-CoA hydratase	4.2.1.17	Crotonoyl-CoA	(S)-3-Hydroxybutanoyl-CoA
+enoyl-CoA hydratase	4.2.1.17	trans-Dec-2-enoyl-CoA	(S)-Hydroxydecanoyl-CoA
+enoyl-CoA hydratase	4.2.1.17	trans-Hex-2-enoyl-CoA	(S)-Hydroxyhexanoyl-CoA
+enoyl-CoA hydratase	4.2.1.17	trans-Hexadec-2-enoyl-CoA	(S)-3-Hydroxyhexadecanoyl-CoA
+enoyl-CoA hydratase	4.2.1.17	trans-Oct-2-enoyl-CoA	(S)-3-Hydroxyoctanoyl-CoA
+enoyl-CoA hydratase	4.2.1.17	trans-Tetradec-2-enoyl-CoA	(S)-3-Hydroxytetradecanoyl-CoA
+fatty acid synthase, bacteria type	2.3.1.-	(2E)-Octadecenoyl-[acp]	Stearoyl-CoA
+fatty acid synthase, bacteria type	2.3.1.-	(3R)-3-Hydroxybutanoyl-[acyl-carrier protein]	But-2-enoyl-[acyl-carrier protein]
+fatty acid synthase, bacteria type	2.3.1.-	(3R)-3-Hydroxydecanoyl-[acyl-carrier protein]	trans-Dec-2-enoyl-[acp]
+fatty acid synthase, bacteria type	2.3.1.-	(3R)-3-Hydroxydodecanoyl-[acyl-carrier protein]	trans-Dodec-2-enoyl-[acp]
+fatty acid synthase, bacteria type	2.3.1.-	(3R)-3-Hydroxyhexanoyl-[acyl-carrier protein]	trans-Hex-2-enoyl-[acp]
+fatty acid synthase, bacteria type	2.3.1.-	(3R)-3-Hydroxyoctadecanoyl-[acyl-carrier protein]	(2E)-Octadecenoyl-[acp]
+fatty acid synthase, bacteria type	2.3.1.-	(3R)-3-Hydroxyoctanoyl-[acyl-carrier protein]	trans-Oct-2-enoyl-[acp]
+fatty acid synthase, bacteria type	2.3.1.-	(3R)-3-Hydroxypalmitoyl-[acyl-carrier protein]	trans-Hexadec-2-enoyl-[acp]
+fatty acid synthase, bacteria type	2.3.1.-	(3R)-3-Hydroxytetradecanoyl-[acyl-carrier protein]	trans-Tetradec-2-enoyl-[acp]
+fatty acid synthase, bacteria type	2.3.1.-	Acetyl-CoA	Acetyl-[acyl-carrier protein]
+fatty acid synthase, bacteria type	2.3.1.-	Acetyl-[acyl-carrier protein]	Acetoacetyl-[acp]
+fatty acid synthase, bacteria type	2.3.1.-	Butyryl-[acp]	3-Oxohexanoyl-[acp]
+fatty acid synthase, bacteria type	2.3.1.-	Decanoyl-[acp]	3-Oxododecanoyl-[acp]
+fatty acid synthase, bacteria type	2.3.1.-	Dodecanoyl-[acyl-carrier protein]	3-Oxotetradecanoyl-[acp]
+fatty acid synthase, bacteria type	2.3.1.-	Hexadecanoyl-[acp]	3-Oxostearoyl-[acp]
+fatty acid synthase, bacteria type	2.3.1.-	Hexadecanoyl-[acp]	Palmitoyl-CoA
+fatty acid synthase, bacteria type	2.3.1.-	Hexanoyl-[acp]	3-Oxooctanoyl-[acp]
+fatty acid synthase, bacteria type	2.3.1.-	Malonyl-[acyl-carrier protein]	Acetoacetyl-[acp]
+fatty acid synthase, bacteria type	2.3.1.-	Octanoyl-[acp]	3-Oxodecanoyl-[acp]
+fatty acid synthase, bacteria type	2.3.1.-	Tetradecanoyl-[acp]	3-Oxohexadecanoyl-[acp]
+long-chain-fatty-acid---CoA ligase	6.2.1.3	Hexadecanoic acid	Palmitoyl-CoA

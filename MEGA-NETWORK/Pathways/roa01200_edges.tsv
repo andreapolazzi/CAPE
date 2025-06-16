@@ -1,0 +1,124 @@
+enzyme_name	EC	source_node_name	target_node_name
+2,3-bisphosphoglycerate-dependent phosphoglycerate mutase	5.4.2.11	2-Phospho-D-glycerate	3-Phospho-D-glycerate
+2,3-bisphosphoglycerate-dependent phosphoglycerate mutase	5.4.2.11	3-Phospho-D-glycerate	2-Phospho-D-glycerate
+2-dehydro-3-deoxygluconokinase	2.7.1.45	2-Dehydro-3-deoxy-D-gluconate	2-Dehydro-3-deoxy-6-phospho-D-gluconate
+2-dehydro-3-deoxyphosphogluconate aldolase / (4S)-4-hydroxy-2-oxoglutarate aldolase	4.1.2.14 4.1.3.42	2-Dehydro-3-deoxy-6-phospho-D-gluconate	D-Glyceraldehyde 3-phosphate
+2-dehydro-3-deoxyphosphogluconate aldolase / (4S)-4-hydroxy-2-oxoglutarate aldolase	4.1.2.14 4.1.3.42	2-Dehydro-3-deoxy-6-phospho-D-gluconate	Pyruvate
+2-dehydro-3-deoxyphosphogluconate aldolase / (4S)-4-hydroxy-2-oxoglutarate aldolase	4.1.2.14 4.1.3.42	D-Glyceraldehyde 3-phosphate	2-Dehydro-3-deoxy-6-phospho-D-gluconate
+2-dehydro-3-deoxyphosphogluconate aldolase / (4S)-4-hydroxy-2-oxoglutarate aldolase	4.1.2.14 4.1.3.42	Pyruvate	2-Dehydro-3-deoxy-6-phospho-D-gluconate
+2-methylcitrate synthase	2.3.3.5	2-Methylcitrate	Oxaloacetate
+2-methylcitrate synthase	2.3.3.5	Oxaloacetate	2-Methylcitrate
+2-methylfumaryl-CoA isomerase	5.4.1.3	2-Methylfumaryl-CoA	3-Methylfumaryl-CoA
+2-oxoglutarate/2-oxoacid ferredoxin oxidoreductase subunit beta	1.2.7.3 1.2.7.11	2-Oxoglutarate	CO2
+2-oxoglutarate/2-oxoacid ferredoxin oxidoreductase subunit beta	1.2.7.3 1.2.7.11	2-Oxoglutarate	Succinyl-CoA
+2-oxoglutarate/2-oxoacid ferredoxin oxidoreductase subunit beta	1.2.7.3 1.2.7.11	CO2	2-Oxoglutarate
+2-oxoglutarate/2-oxoacid ferredoxin oxidoreductase subunit beta	1.2.7.3 1.2.7.11	Succinyl-CoA	2-Oxoglutarate
+3-hexulose-6-phosphate synthase	4.1.2.43	D-Ribulose 5-phosphate	D-arabino-Hex-3-ulose 6-phosphate
+3-hexulose-6-phosphate synthase	4.1.2.43	D-arabino-Hex-3-ulose 6-phosphate	D-Ribulose 5-phosphate
+3-hydroxybutyryl-CoA dehydratase	4.2.1.55	(R)-3-Hydroxybutanoyl-CoA	Crotonoyl-CoA
+3-hydroxybutyryl-CoA dehydratase	4.2.1.55	Crotonoyl-CoA	(R)-3-Hydroxybutanoyl-CoA
+4-hydroxybutyryl-CoA dehydratase / vinylacetyl-CoA-Delta-isomerase	4.2.1.120 5.3.3.3	4-Hydroxybutyryl-CoA	Crotonoyl-CoA
+4-hydroxybutyryl-CoA dehydratase / vinylacetyl-CoA-Delta-isomerase	4.2.1.120 5.3.3.3	Crotonoyl-CoA	4-Hydroxybutyryl-CoA
+5,10-methylenetetrahydromethanopterin reductase	1.5.98.2	5,10-Methylenetetrahydromethanopterin	5-Methyl-5,6,7,8-tetrahydromethanopterin
+6-phospho-3-hexuloisomerase	5.3.1.27	D-Fructose 6-phosphate	D-arabino-Hex-3-ulose 6-phosphate
+6-phospho-3-hexuloisomerase	5.3.1.27	D-arabino-Hex-3-ulose 6-phosphate	D-Fructose 6-phosphate
+6-phosphogluconolactonase	3.1.1.31	D-Glucono-1,5-lactone 6-phosphate	6-Phospho-D-gluconate
+D-3-phosphoglycerate dehydrogenase / 2-oxoglutarate reductase	1.1.1.95 1.1.1.399	3-Phospho-D-glycerate	3-Phosphonooxypyruvate
+L-serine dehydratase	4.3.1.17	L-Serine	Ammonia
+L-serine dehydratase	4.3.1.17	L-Serine	Pyruvate
+acetate kinase	2.7.2.1	Acetate	Acetyl phosphate
+acetate kinase	2.7.2.1	Acetyl phosphate	Acetate
+acetyl-CoA C-acetyltransferase	2.3.1.9	Acetoacetyl-CoA	Acetyl-CoA
+acetyl-CoA C-acetyltransferase	2.3.1.9	Acetyl-CoA	Acetoacetyl-CoA
+acetyl-CoA synthetase	6.2.1.1	Acetate	Acetyl-CoA
+acetyl-CoA/propionyl-CoA/long-chain acyl-CoA carboxylase, biotin carboxylase, biotin carboxyl carrier protein	6.4.1.2 6.4.1.3 6.4.1.- 6.3.4.14	Propanoyl-CoA	(S)-Methylmalonyl-CoA
+aconitate hydratase A / 2-methylisocitrate dehydratase	4.2.1.3 4.2.1.99	(2S,3R)-3-Hydroxybutane-1,2,3-tricarboxylate	(Z)-But-2-ene-1,2,3-tricarboxylate
+aconitate hydratase A / 2-methylisocitrate dehydratase	4.2.1.3 4.2.1.99	(Z)-But-2-ene-1,2,3-tricarboxylate	(2S,3R)-3-Hydroxybutane-1,2,3-tricarboxylate
+aconitate hydratase A / 2-methylisocitrate dehydratase	4.2.1.3 4.2.1.99	Citrate	Isocitrate
+aconitate hydratase A / 2-methylisocitrate dehydratase	4.2.1.3 4.2.1.99	Isocitrate	Citrate
+cysteine synthase	2.5.1.47	Hydrogen sulfide	L-Cysteine
+cysteine synthase	2.5.1.47	O-Acetyl-L-serine	L-Cysteine
+dihydrolipoyl dehydrogenase	1.8.1.4	2-Oxoglutarate	Succinyl-CoA
+dihydrolipoyl dehydrogenase	1.8.1.4	Pyruvate	Acetyl-CoA
+dimethylamine/trimethylamine dehydrogenase	1.5.8.1 1.5.8.2	Dimethylamine	Methylamine
+dimethylamine/trimethylamine dehydrogenase	1.5.8.1 1.5.8.2	Trimethylamine	Dimethylamine
+enolase 1/2/3	4.2.1.11	2-Phospho-D-glycerate	Phosphoenolpyruvate
+enolase 1/2/3	4.2.1.11	Phosphoenolpyruvate	2-Phospho-D-glycerate
+enoyl-CoA hydratase	4.2.1.17	(S)-3-Hydroxybutanoyl-CoA	Crotonoyl-CoA
+enoyl-CoA hydratase	4.2.1.17	Crotonoyl-CoA	(S)-3-Hydroxybutanoyl-CoA
+formamidase	3.5.1.49	Formamide	Ammonia
+formamidase	3.5.1.49	Formamide	Formate
+fructose-1,6-bisphosphatase II	3.1.3.11	D-Fructose 1,6-bisphosphate	D-Fructose 6-phosphate
+fructose-bisphosphate aldolase, class II	4.1.2.13	D-Erythrose 4-phosphate	Sedoheptulose 1,7-bisphosphate
+fructose-bisphosphate aldolase, class II	4.1.2.13	D-Fructose 1,6-bisphosphate	D-Glyceraldehyde 3-phosphate
+fructose-bisphosphate aldolase, class II	4.1.2.13	D-Fructose 1,6-bisphosphate	Glycerone phosphate
+fructose-bisphosphate aldolase, class II	4.1.2.13	D-Glyceraldehyde 3-phosphate	D-Fructose 1,6-bisphosphate
+fructose-bisphosphate aldolase, class II	4.1.2.13	Glycerone phosphate	D-Fructose 1,6-bisphosphate
+fructose-bisphosphate aldolase, class II	4.1.2.13	Glycerone phosphate	Sedoheptulose 1,7-bisphosphate
+fumarate hydratase, class II	4.2.1.2	(S)-Malate	Fumarate
+fumarate hydratase, class II	4.2.1.2	Fumarate	(S)-Malate
+gluconokinase	2.7.1.12	D-Gluconic acid	6-Phospho-D-gluconate
+gluconolactonase	3.1.1.17	D-Glucono-1,5-lactone	D-Gluconic acid
+glucose-6-phosphate isomerase	5.3.1.9	D-Fructose 6-phosphate	alpha-D-Glucose 6-phosphate
+glucose-6-phosphate isomerase	5.3.1.9	alpha-D-Glucose 6-phosphate	D-Fructose 6-phosphate
+glutamate dehydrogenase (NAD(P)+)	1.4.1.3	2-Oxoglutarate	L-Glutamate
+glutamate dehydrogenase (NAD(P)+)	1.4.1.3	L-Glutamate	2-Oxoglutarate
+glycine hydroxymethyltransferase	2.1.2.1	5,10-Methylenetetrahydrofolate	L-Serine
+glycine hydroxymethyltransferase	2.1.2.1	5,10-Methylenetetrahydrofolate	Tetrahydrofolate
+glycine hydroxymethyltransferase	2.1.2.1	Glycine	L-Serine
+glycine hydroxymethyltransferase	2.1.2.1	Glycine	Tetrahydrofolate
+isocitrate/methylisocitrate lyase	4.1.3.1 4.1.3.30	Isocitrate	Glyoxylate
+isocitrate/methylisocitrate lyase	4.1.3.1 4.1.3.30	Isocitrate	Succinate
+malate dehydrogenase (quinone)	1.1.5.4	(S)-Malate	Oxaloacetate
+malate synthase	2.3.3.9	(S)-Malate	Acetyl-CoA
+malate synthase	2.3.3.9	(S)-Malate	Glyoxylate
+malate synthase	2.3.3.9	Acetyl-CoA	(S)-Malate
+malate synthase	2.3.3.9	Glyoxylate	(S)-Malate
+methylenetetrahydrofolate dehydrogenase (NADP+) / methenyltetrahydrofolate cyclohydrolase	1.5.1.5 3.5.4.9	10-Formyltetrahydrofolate	5,10-Methenyltetrahydrofolate
+methylenetetrahydrofolate dehydrogenase (NADP+) / methenyltetrahydrofolate cyclohydrolase	1.5.1.5 3.5.4.9	5,10-Methenyltetrahydrofolate	5,10-Methylenetetrahydrofolate
+methylenetetrahydrofolate reductase (NADH)	1.5.1.54	5,10-Methylenetetrahydrofolate	5-Methyltetrahydrofolate
+methylisocitrate lyase	4.1.3.30	(2S,3R)-3-Hydroxybutane-1,2,3-tricarboxylate	Succinate
+methylisocitrate lyase	4.1.3.30	Succinate	(2S,3R)-3-Hydroxybutane-1,2,3-tricarboxylate
+methylmalonyl-CoA mutase	5.4.99.2	(R)-Methylmalonyl-CoA	Succinyl-CoA
+methylmalonyl-CoA/ethylmalonyl-CoA epimerase	5.1.99.1	(2S)-Ethylmalonyl-CoA	(2R)-Ethylmalonyl-CoA
+methylmalonyl-CoA/ethylmalonyl-CoA epimerase	5.1.99.1	(S)-Methylmalonyl-CoA	(R)-Methylmalonyl-CoA
+phosphate acetyltransferase	2.3.1.8	Acetyl phosphate	Acetyl-CoA
+phosphate acetyltransferase	2.3.1.8	Acetyl-CoA	Acetyl phosphate
+phosphoenolpyruvate carboxylase	4.1.1.31	Phosphoenolpyruvate	Oxaloacetate
+phosphogluconate dehydratase	4.2.1.12	6-Phospho-D-gluconate	2-Dehydro-3-deoxy-6-phospho-D-gluconate
+phosphoglycerate kinase	2.7.2.3	3-Phospho-D-glycerate	3-Phospho-D-glyceroyl phosphate
+phosphoglycerate kinase	2.7.2.3	3-Phospho-D-glyceroyl phosphate	3-Phospho-D-glycerate
+phosphoserine aminotransferase	2.6.1.52	3-Phosphonooxypyruvate	O-Phospho-L-serine
+phosphoserine phosphatase	3.1.3.3	O-Phospho-L-serine	L-Serine
+pyruvate carboxylase	6.4.1.1	Pyruvate	Oxaloacetate
+pyruvate kinase	2.7.1.40	Phosphoenolpyruvate	Pyruvate
+ribose 5-phosphate isomerase A	5.3.1.6	D-Ribose 5-phosphate	D-Ribulose 5-phosphate
+ribose 5-phosphate isomerase A	5.3.1.6	D-Ribulose 5-phosphate	D-Ribose 5-phosphate
+ribose-phosphate pyrophosphokinase	2.7.6.1	5-Phospho-alpha-D-ribose 1-diphosphate	D-Ribose 5-phosphate
+ribose-phosphate pyrophosphokinase	2.7.6.1	D-Ribose 5-phosphate	5-Phospho-alpha-D-ribose 1-diphosphate
+ribulose-phosphate 3-epimerase	5.1.3.1	D-Ribulose 5-phosphate	D-Xylulose 5-phosphate
+ribulose-phosphate 3-epimerase	5.1.3.1	D-Xylulose 5-phosphate	D-Ribulose 5-phosphate
+transaldolase	2.2.1.2	D-Erythrose 4-phosphate	D-Glyceraldehyde 3-phosphate
+transaldolase	2.2.1.2	D-Erythrose 4-phosphate	Sedoheptulose 7-phosphate
+transaldolase	2.2.1.2	D-Fructose 6-phosphate	D-Glyceraldehyde 3-phosphate
+transaldolase	2.2.1.2	D-Fructose 6-phosphate	Sedoheptulose 7-phosphate
+transaldolase	2.2.1.2	D-Glyceraldehyde 3-phosphate	D-Erythrose 4-phosphate
+transaldolase	2.2.1.2	D-Glyceraldehyde 3-phosphate	D-Fructose 6-phosphate
+transaldolase	2.2.1.2	Sedoheptulose 7-phosphate	D-Erythrose 4-phosphate
+transaldolase	2.2.1.2	Sedoheptulose 7-phosphate	D-Fructose 6-phosphate
+transketolase	2.2.1.1	D-Erythrose 4-phosphate	D-Fructose 6-phosphate
+transketolase	2.2.1.1	D-Erythrose 4-phosphate	D-Glyceraldehyde 3-phosphate
+transketolase	2.2.1.1	D-Fructose 6-phosphate	D-Erythrose 4-phosphate
+transketolase	2.2.1.1	D-Fructose 6-phosphate	D-Xylulose 5-phosphate
+transketolase	2.2.1.1	D-Glyceraldehyde 3-phosphate	D-Erythrose 4-phosphate
+transketolase	2.2.1.1	D-Glyceraldehyde 3-phosphate	D-Ribose 5-phosphate
+transketolase	2.2.1.1	D-Glyceraldehyde 3-phosphate	D-Xylulose 5-phosphate
+transketolase	2.2.1.1	D-Ribose 5-phosphate	D-Glyceraldehyde 3-phosphate
+transketolase	2.2.1.1	D-Ribose 5-phosphate	Sedoheptulose 7-phosphate
+transketolase	2.2.1.1	D-Xylulose 5-phosphate	D-Fructose 6-phosphate
+transketolase	2.2.1.1	D-Xylulose 5-phosphate	D-Glyceraldehyde 3-phosphate
+transketolase	2.2.1.1	D-Xylulose 5-phosphate	Sedoheptulose 7-phosphate
+transketolase	2.2.1.1	Sedoheptulose 7-phosphate	D-Ribose 5-phosphate
+transketolase	2.2.1.1	Sedoheptulose 7-phosphate	D-Xylulose 5-phosphate
+triosephosphate isomerase (TIM)	5.3.1.1	D-Glyceraldehyde 3-phosphate	Glycerone phosphate
+triosephosphate isomerase (TIM)	5.3.1.1	Glycerone phosphate	D-Glyceraldehyde 3-phosphate

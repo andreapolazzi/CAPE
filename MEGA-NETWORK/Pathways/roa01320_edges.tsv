@@ -1,0 +1,5 @@
+enzyme_name	EC	source_node_name	target_node_name
+bifunctional enzyme CysN/CysC	2.7.7.4 2.7.1.25	Adenylyl sulfate	3'-Phosphoadenylyl sulfate
+cysteine synthase	2.5.1.47	Hydrogen sulfide	L-Cysteine
+phosphoadenosine phosphosulfate reductase	1.8.4.8 1.8.4.10	3'-Phosphoadenylyl sulfate	Sulfite
+sulfate adenylyltransferase subunit 2	2.7.7.4	Sulfate	Adenylyl sulfate

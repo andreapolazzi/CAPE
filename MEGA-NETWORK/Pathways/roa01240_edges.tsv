@@ -1,0 +1,164 @@
+enzyme_name	EC	source_node_name	target_node_name
+1,4-dihydroxy-2-naphthoate polyprenyltransferase	2.5.1.74	1,4-Dihydroxy-2-naphthoate	Demethylmenaquinol
+1,4-dihydroxy-2-naphthoate polyprenyltransferase	2.5.1.74	all-trans-Polyprenyl diphosphate	Demethylmenaquinol
+1,4-dihydroxy-2-naphthoyl-CoA hydrolase	3.1.2.28	1,4-Dihydroxy-2-naphthoyl-CoA	1,4-Dihydroxy-2-naphthoate
+2-dehydropantoate 2-reductase	1.1.1.169	2-Dehydropantoate	(R)-Pantoate
+2-phospho-L-lactate/phosphoenolpyruvate guanylyltransferase	2.7.7.68 2.7.7.105	(2S)-2-Phospholactate	(2S)-Lactyl-2-diphospho-5'-guanosine
+2-phosphosulfolactate phosphatase	3.1.3.71	(2R)-O-Phospho-3-sulfolactate	(2R)-3-Sulfolactate
+2-polyprenyl-6-hydroxyphenyl methylase / 3-demethylubiquinone-9 3-methyltransferase	2.1.1.222 2.1.1.64	2-Polyprenyl-6-hydroxyphenol	2-Polyprenyl-6-methoxyphenol
+2-polyprenyl-6-hydroxyphenyl methylase / 3-demethylubiquinone-9 3-methyltransferase	2.1.1.222 2.1.1.64	3-Demethylubiquinol	Ubiquinol
+2-succinyl-5-enolpyruvyl-6-hydroxy-3-cyclohexene-1-carboxylate synthase	2.2.1.9	Isochorismate	2-Succinyl-5-enolpyruvyl-6-hydroxy-3-cyclohexene-1-carboxylate
+3,4-dihydroxy 2-butanone 4-phosphate synthase / GTP cyclohydrolase II	4.1.99.12 3.5.4.25	D-Ribulose 5-phosphate	L-3,4-Dihydroxybutan-2-one 4-phosphate
+3,4-dihydroxy 2-butanone 4-phosphate synthase / GTP cyclohydrolase II	4.1.99.12 3.5.4.25	GTP	2,5-Diamino-6-(5-phospho-D-ribosylamino)pyrimidin-4(3H)-one
+3-methyl-2-oxobutanoate hydroxymethyltransferase	2.1.2.11	3-Methyl-2-oxobutanoic acid	2-Dehydropantoate
+3-oxoacyl-[acyl-carrier protein] reductase	1.1.1.100	3-Ketoglutaryl-[acp] methyl ester	3-Hydroxyglutaryl-[acp] methyl ester
+3-oxoacyl-[acyl-carrier protein] reductase	1.1.1.100	3-Ketopimeloyl-[acp] methyl ester	3-Hydroxypimeloyl-[acp] methyl ester
+4-amino-4-deoxychorismate lyase	4.1.3.38	4-Amino-4-deoxychorismate	4-Aminobenzoate
+4-hydroxyphenylpyruvate dioxygenase	1.13.11.27	3-(4-Hydroxyphenyl)pyruvate	Homogentisate
+5,6-dimethylbenzimidazole synthase	1.13.11.79	Reduced FMN	Dimethylbenzimidazole
+6,7-dimethyl-8-ribityllumazine synthase	2.5.1.78	5-Amino-6-(1-D-ribitylamino)uracil	6,7-Dimethyl-8-(D-ribityl)lumazine
+6,7-dimethyl-8-ribityllumazine synthase	2.5.1.78	L-3,4-Dihydroxybutan-2-one 4-phosphate	6,7-Dimethyl-8-(D-ribityl)lumazine
+7,8-dihydroneopterin aldolase/epimerase/oxygenase	4.1.2.25 5.1.99.8 1.13.11.81	7,8-Dihydroneopterin	6-(Hydroxymethyl)-7,8-dihydropterin
+8-amino-7-oxononanoate synthase	2.3.1.47	Pimeloyl-CoA	8-Amino-7-oxononanoate
+8-amino-7-oxononanoate synthase	2.3.1.47	Pimeloyl-[acyl-carrier protein]	8-Amino-7-oxononanoate
+GTP 3',8-cyclase	4.1.99.22	GTP	(8S)-3',8-Cyclo-7,8-dihydroguanosine 5'-triphosphate
+GTP cyclohydrolase IA	3.5.4.16	GTP	7,8-Dihydroneopterin 3'-triphosphate
+LPPG:FO 2-phospho-L-lactate transferase	2.7.8.28	(2S)-Lactyl-2-diphospho-5'-guanosine	Coenzyme F420-0
+LPPG:FO 2-phospho-L-lactate transferase	2.7.8.28	7,8-Didemethyl-8-hydroxy-5-deazariboflavin	Coenzyme F420-0
+NAD(P)H dehydrogenase (quinone)	1.6.5.2	Menaquinone	Menaquinol
+NAD(P)H dehydrogenase (quinone)	1.6.5.2	Phylloquinone	Phylloquinol
+NAD+ kinase	2.7.1.23	NAD+	NADP+
+S-adenosylmethionine synthetase	2.5.1.6	L-Methionine	S-Adenosyl-L-methionine
+UDPglucose 6-dehydrogenase	1.1.1.22	UDP-glucose	UDP-glucuronate
+UTP--glucose-1-phosphate uridylyltransferase	2.7.7.9	D-Glucose 1-phosphate	UDP-glucose
+adenosylcobinamide kinase / adenosylcobinamide-phosphate guanylyltransferase	2.7.1.156 2.7.7.62	Adenosyl cobinamide phosphate	Adenosine-GDP-cobinamide
+adenosylcobinamide-GDP ribazoletransferase	2.7.8.26	Adenosine-GDP-cobinamide	Cobamide coenzyme
+adenosylcobinamide-GDP ribazoletransferase	2.7.8.26	alpha-Ribazole	Cobamide coenzyme
+adenosylcobyric acid synthase	6.3.5.10	Adenosyl cobyrinate a,c diamide	Adenosyl cobyrinate hexaamide
+adenylosuccinate lyase	4.3.2.2	N6-(1,2-Dicarboxyethyl)-AMP	AMP
+adenylosuccinate synthase	6.3.4.4	IMP	N6-(1,2-Dicarboxyethyl)-AMP
+aldehyde dehydrogenase (NAD+)	1.2.1.3	3-Aminopropanal	beta-Alanine
+alkaline phosphatase D	3.1.3.1	7,8-Dihydroneopterin 3'-triphosphate	7,8-Dihydroneopterin
+aspartate 1-decarboxylase	4.1.1.11	L-Aspartate	beta-Alanine
+aspartate carbamoyltransferase catalytic subunit	2.1.3.2	Carbamoyl phosphate	N-Carbamoyl-L-aspartate
+biotin synthase	2.8.1.6	Dethiobiotin	Biotin
+branched-chain amino acid aminotransferase	2.6.1.42	3-Methyl-2-oxobutanoic acid	L-Valine
+branched-chain amino acid aminotransferase	2.6.1.42	L-Valine	3-Methyl-2-oxobutanoic acid
+carbamoyl-phosphate synthase small subunit	6.3.5.5	L-Glutamine	Carbamoyl phosphate
+cob(I)alamin adenosyltransferase	2.5.1.17	Cob(I)alamin	Cobamide coenzyme
+cob(I)alamin adenosyltransferase	2.5.1.17	Cob(II)yrinate a,c diamide	Adenosyl cobyrinate a,c diamide
+cobalt-precorrin 5A hydrolase	3.7.1.12	Cobalt-precorrin 5A	Cobalt-precorrin 5B
+cobaltochelatase CobN	6.6.1.2	Hydrogenobyrinate a,c diamide	Cob(II)yrinate a,c diamide
+cobyrinic acid a,c-diamide synthase	6.3.5.9 6.3.5.11	Cobyrinate	Cob(II)yrinate a,c diamide
+cobyrinic acid a,c-diamide synthase	6.3.5.9 6.3.5.11	Hydrogenobyrinate	Hydrogenobyrinate a,c diamide
+cyclic pyranopterin monophosphate synthase	4.6.1.17	(8S)-3',8-Cyclo-7,8-dihydroguanosine 5'-triphosphate	Precursor Z
+cysteine desulfurase	2.8.1.7	L-Cysteine	-S-sulfanylcysteine
+demethylmenaquinone methyltransferase / 2-methoxy-6-polyprenyl-1,4-benzoquinol methylase	2.1.1.163 2.1.1.201	2-Methoxy-6-all-trans-polyprenyl-1,4-benzoquinol	5-Methoxy-2-methyl-3-(all-trans-polyprenyl)benzene-1,4-diol
+demethylmenaquinone methyltransferase / 2-methoxy-6-polyprenyl-1,4-benzoquinol methylase	2.1.1.163 2.1.1.201	Demethylmenaquinol	Menaquinol
+dephospho-CoA kinase	2.7.1.24	Dephospho-CoA	CoA
+diaminohydroxyphosphoribosylaminopyrimidine deaminase / 5-amino-6-(5-phosphoribosylamino)uracil reductase	3.5.4.26 1.1.1.193	2,5-Diamino-6-(5-phospho-D-ribosylamino)pyrimidin-4(3H)-one	5-Amino-6-(5'-phosphoribosylamino)uracil
+diaminohydroxyphosphoribosylaminopyrimidine deaminase / 5-amino-6-(5-phosphoribosylamino)uracil reductase	3.5.4.26 1.1.1.193	5-Amino-6-(5'-phosphoribosylamino)uracil	5-Amino-6-(5'-phospho-D-ribitylamino)uracil
+dihydrofolate synthase / folylpolyglutamate synthase	6.3.2.12 6.3.2.17	Dihydropteroate	Dihydrofolate
+dihydrofolate synthase / folylpolyglutamate synthase	6.3.2.12 6.3.2.17	THF-L-glutamate	THF-polyglutamate
+dihydrofolate synthase / folylpolyglutamate synthase	6.3.2.12 6.3.2.17	THF-L-glutamate	Tetrahydrofolate
+dihydrofolate synthase / folylpolyglutamate synthase	6.3.2.12 6.3.2.17	THF-polyglutamate	THF-L-glutamate
+dihydrofolate synthase / folylpolyglutamate synthase	6.3.2.12 6.3.2.17	Tetrahydrofolate	THF-L-glutamate
+dihydrolipoyl dehydrogenase	1.8.1.4	Enzyme N6-(dihydrolipoyl)lysine	Enzyme N6-(lipoyl)lysine
+dihydrolipoyl dehydrogenase	1.8.1.4	Enzyme N6-(lipoyl)lysine	Enzyme N6-(dihydrolipoyl)lysine
+dihydroorotase	3.5.2.3	N-Carbamoyl-L-aspartate	(S)-Dihydroorotate
+dihydropteroate synthase	2.5.1.15	4-Aminobenzoate	Dihydropteroate
+dihydropteroate synthase	2.5.1.15	6-(Hydroxymethyl)-7,8-dihydropterin	Dihydropteroate
+dihydropteroate synthase	2.5.1.15	6-Hydroxymethyl-7,8-dihydropterin diphosphate	Dihydropteroate
+gluconolactonase	3.1.1.17	L-Gulonate	L-Gulono-1,4-lactone
+glutamate--cysteine ligase	6.3.2.2	L-Cysteine	gamma-L-Glutamyl-L-cysteine
+glutamate--cysteine ligase	6.3.2.2	L-Glutamate	gamma-L-Glutamyl-L-cysteine
+glutamate-1-semialdehyde 2,1-aminomutase	5.4.3.8	(S)-4-Amino-5-oxopentanoate	5-Aminolevulinate
+glutamyl-tRNA reductase	1.2.1.70	L-Glutamyl-tRNA(Glu)	(S)-4-Amino-5-oxopentanoate
+glutamyl-tRNA synthetase	6.1.1.17	L-Glutamate	L-Glutamyl-tRNA(Glu)
+glutathione synthase	6.3.2.3	gamma-L-Glutamyl-L-cysteine	Glutathione
+glycine hydroxymethyltransferase	2.1.2.1	Tetrahydrofolate	5,10-Methylenetetrahydrofolate
+glycine oxidase	1.4.3.19	Glycine	Iminoglycine
+heme a synthase	1.17.99.9	Heme O	Heme A
+heme o synthase	2.5.1.141	Heme	Heme O
+hydroxymethylbilane synthase	2.5.1.61	Porphobilinogen	Hydroxymethylbilane
+hydroxymethylpyrimidine/phosphomethylpyrimidine kinase	2.7.1.49 2.7.4.7	4-Amino-2-methyl-5-(phosphooxymethyl)pyrimidine	4-Amino-5-hydroxymethyl-2-methylpyrimidine diphosphate
+hydroxymethylpyrimidine/phosphomethylpyrimidine kinase	2.7.1.49 2.7.4.7	4-Amino-5-hydroxymethyl-2-methylpyrimidine	4-Amino-2-methyl-5-(phosphooxymethyl)pyrimidine
+kynureninase	3.7.1.3	3-Hydroxy-L-kynurenine	3-Hydroxyanthranilate
+lipoyl synthase	2.8.1.8	-N6-octanoyl-L-lysine	Dihydrolipoylprotein
+lipoyl synthase	2.8.1.8	-N6-octanoyl-L-lysine	Enzyme N6-(dihydrolipoyl)lysine
+lipoyl(octanoyl) transferase	2.3.1.181	Octanoyl-[acp]	-N6-octanoyl-L-lysine
+mannose-1-phosphate guanylyltransferase	2.7.7.13	D-Mannose 1-phosphate	GDP-mannose
+mannose-6-phosphate isomerase	5.3.1.8	D-Fructose 6-phosphate	D-Mannose 6-phosphate
+methylenetetrahydrofolate dehydrogenase (NADP+) / methenyltetrahydrofolate cyclohydrolase	1.5.1.5 3.5.4.9	10-Formyltetrahydrofolate	5,10-Methenyltetrahydrofolate
+methylenetetrahydrofolate dehydrogenase (NADP+) / methenyltetrahydrofolate cyclohydrolase	1.5.1.5 3.5.4.9	5,10-Methenyltetrahydrofolate	10-Formyltetrahydrofolate
+molybdopterin molybdotransferase	2.10.1.1	Adenylated molybdopterin	Molybdoenzyme molybdenum cofactor
+molybdopterin synthase catalytic subunit	2.8.1.12	Precursor Z	Molybdopterin
+naphthoate synthase	4.1.3.36	2-Succinylbenzoyl-CoA	1,4-Dihydroxy-2-naphthoyl-CoA
+nicotinamidase/pyrazinamidase	3.5.1.19 3.5.1.-	Nicotinamide	Nicotinate
+nicotinate phosphoribosyltransferase	6.3.4.21	Nicotinate	Nicotinate D-ribonucleotide
+nicotinate-nucleotide adenylyltransferase	2.7.7.18	Nicotinate D-ribonucleotide	Deamino-NAD+
+nicotinate-nucleotide pyrophosphorylase (carboxylating)	2.4.2.19	Quinolinate	Nicotinate D-ribonucleotide
+nicotinate-nucleotide--dimethylbenzimidazole phosphoribosyltransferase	2.4.2.21	Dimethylbenzimidazole	N1-(5-Phospho-alpha-D-ribosyl)-5,6-dimethylbenzimidazole
+nucleoside-diphosphate kinase	2.7.4.6	ADP	ATP
+nucleoside-diphosphate kinase	2.7.4.6	CDP	CTP
+nucleoside-diphosphate kinase	2.7.4.6	CTP	CDP
+nucleoside-diphosphate kinase	2.7.4.6	UDP	UTP
+nucleoside-diphosphate kinase	2.7.4.6	UTP	UDP
+o-succinylbenzoate synthase	4.2.1.113	(1R,6R)-6-Hydroxy-2-succinylcyclohexa-2,4-diene-1-carboxylate	2-Succinylbenzoate
+o-succinylbenzoate---CoA ligase	6.2.1.26	2-Succinylbenzoate	2-Succinylbenzoyl-CoA
+octanoyl-[GcvH]:protein N-octanoyltransferase	2.3.1.204	Dihydrolipoylprotein	Enzyme N6-(dihydrolipoyl)lysine
+orotate phosphoribosyltransferase	2.4.2.10	5-Phospho-alpha-D-ribose 1-diphosphate	Orotidine 5'-phosphate
+orotate phosphoribosyltransferase	2.4.2.10	Orotate	Orotidine 5'-phosphate
+orotidine-5'-phosphate decarboxylase	4.1.1.23	Orotidine 5'-phosphate	UMP
+pantetheine-phosphate adenylyltransferase	2.7.7.3	Pantetheine 4'-phosphate	Dephospho-CoA
+pantoate--beta-alanine ligase	6.3.2.1	(R)-Pantoate	Pantothenate
+pantoate--beta-alanine ligase	6.3.2.1	beta-Alanine	Pantothenate
+para-aminobenzoate synthetase component II	2.6.1.85	Chorismate	4-Amino-4-deoxychorismate
+phosphomethylpyrimidine synthase	4.1.99.17	Aminoimidazole ribotide	4-Amino-2-methyl-5-(phosphooxymethyl)pyrimidine
+phosphopantothenoylcysteine decarboxylase / phosphopantothenate---cysteine ligase	4.1.1.36 6.3.2.5	(R)-4'-Phosphopantothenoyl-L-cysteine	Pantetheine 4'-phosphate
+phosphoserine aminotransferase	2.6.1.52	2-Oxo-3-hydroxy-4-phosphobutanoate	O-Phospho-4-hydroxy-L-threonine
+phosphoserine aminotransferase	2.6.1.52	O-Phospho-4-hydroxy-L-threonine	2-Oxo-3-hydroxy-4-phosphobutanoate
+porphobilinogen synthase	4.2.1.24	5-Aminolevulinate	Porphobilinogen
+precorrin-2 C20-methyltransferase / precorrin-3B C17-methyltransferase	2.1.1.130 2.1.1.131	Precorrin 2	Precorrin 3A
+precorrin-2 C20-methyltransferase / precorrin-3B C17-methyltransferase	2.1.1.130 2.1.1.131	Precorrin 3B	Precorrin 4
+precorrin-3B synthase	1.14.13.83	Precorrin 3A	Precorrin 3B
+precorrin-4/cobalt-precorrin-4 C11-methyltransferase	2.1.1.133 2.1.1.271	Cobalt-precorrin 4	Cobalt-precorrin 5A
+precorrin-4/cobalt-precorrin-4 C11-methyltransferase	2.1.1.133 2.1.1.271	Precorrin 4	Precorrin 5
+precorrin-6A synthase	2.1.1.152	Precorrin 5	Precorrin 6X
+precorrin-6A/cobalt-precorrin-6A reductase	1.3.1.54 1.3.1.106	Cobalt-precorrin 6	Cobalt-dihydro-precorrin 6
+precorrin-6A/cobalt-precorrin-6A reductase	1.3.1.54 1.3.1.106	Precorrin 6X	Precorrin 6Y
+precorrin-6B C5,15-methyltransferase / cobalt-precorrin-6B C5,C15-methyltransferase	2.1.1.132 2.1.1.289 2.1.1.196	Cobalt-dihydro-precorrin 6	Cobalt-precorrin 7
+precorrin-6B C5,15-methyltransferase / cobalt-precorrin-6B C5,C15-methyltransferase	2.1.1.132 2.1.1.289 2.1.1.196	Cobalt-precorrin 7	Cobalt-precorrin 8
+precorrin-6B C5,15-methyltransferase / cobalt-precorrin-6B C5,C15-methyltransferase	2.1.1.132 2.1.1.289 2.1.1.196	Precorrin 6Y	Precorrin 8X
+precorrin-8X/cobalt-precorrin-8 methylmutase	5.4.99.61 5.4.99.60	Cobalt-precorrin 8	Cobyrinate
+precorrin-8X/cobalt-precorrin-8 methylmutase	5.4.99.61 5.4.99.60	Precorrin 8X	Hydrogenobyrinate
+protoporphyrin/coproporphyrin ferrochelatase	4.98.1.1 4.99.1.9	Coproporphyrin III	Fe-coproporphyrin III
+protoporphyrin/coproporphyrin ferrochelatase	4.98.1.1 4.99.1.9	Protoporphyrin	Heme
+protoporphyrinogen/coproporphyrinogen III oxidase	1.3.3.4 1.3.3.15	Coproporphyrinogen III	Coproporphyrin III
+pyridoxal 5'-phosphate synthase pdxS subunit	4.3.3.6	D-Glyceraldehyde 3-phosphate	Pyridoxal phosphate
+pyridoxal 5'-phosphate synthase pdxS subunit	4.3.3.6	D-Ribose 5-phosphate	Pyridoxal phosphate
+pyridoxal 5'-phosphate synthase pdxS subunit	4.3.3.6	L-Glutamine	Pyridoxal phosphate
+pyridoxamine 5'-phosphate oxidase	1.4.3.5	Pyridoxine phosphate	Pyridoxal phosphate
+quinolinate synthase	2.5.1.72	Iminoaspartate	Quinolinate
+riboflavin kinase / FMN adenylyltransferase	2.7.1.26 2.7.7.2	FMN	FAD
+riboflavin kinase / FMN adenylyltransferase	2.7.1.26 2.7.7.2	Riboflavin	FMN
+riboflavin synthase	2.5.1.9	6,7-Dimethyl-8-(D-ribityl)lumazine	Riboflavin
+ribonuclease H / adenosylcobalamin/alpha-ribazole phosphatase	3.1.26.4 3.1.3.73	N1-(5-Phospho-alpha-D-ribosyl)-5,6-dimethylbenzimidazole	alpha-Ribazole
+thiaminase (transcriptional activator TenA)	3.5.99.2	Thiamine	4-Amino-5-hydroxymethyl-2-methylpyrimidine
+thiaminase (transcriptional activator TenA)	3.5.99.2	Thiamine	5-(2-Hydroxyethyl)-4-methylthiazole
+thiamine-monophosphate kinase	2.7.4.16	Thiamin monophosphate	Thiamin diphosphate
+thiamine-phosphate pyrophosphorylase	2.5.1.3	2-(2-Carboxy-4-methylthiazol-5-yl)ethyl phosphate	Thiamin monophosphate
+thiamine-phosphate pyrophosphorylase	2.5.1.3	4-Amino-5-hydroxymethyl-2-methylpyrimidine diphosphate	Thiamin monophosphate
+thiamine-phosphate pyrophosphorylase	2.5.1.3	4-Methyl-5-(2-phosphooxyethyl)thiazole	Thiamin monophosphate
+thiazole synthase	2.8.1.10	1-Deoxy-D-xylulose 5-phosphate	2-[(2R,5Z)-2-Carboxy-4-methylthiazol-5(2H)-ylidene]ethyl phosphate
+thiazole synthase	2.8.1.10	Iminoglycine	2-[(2R,5Z)-2-Carboxy-4-methylthiazol-5(2H)-ylidene]ethyl phosphate
+thiazole synthase	2.8.1.10	Thiocarboxy-[sulfur-carrier protein]	2-[(2R,5Z)-2-Carboxy-4-methylthiazol-5(2H)-ylidene]ethyl phosphate
+tryptophan 2,3-dioxygenase	1.13.11.11	L-Tryptophan	L-Formylkynurenine
+type III pantothenate kinase	2.7.1.33	Pantothenate	D-4'-Phosphopantothenate
+uridylate kinase	2.7.4.22	UDP	UMP
+uridylate kinase	2.7.4.22	UMP	UDP
+uroporphyrin-III C-methyltransferase / precorrin-2 dehydrogenase / sirohydrochlorin ferrochelatase	2.1.1.107 1.3.1.76 4.99.1.4	Precorrin 2	Sirohydrochlorin
+uroporphyrin-III C-methyltransferase / precorrin-2 dehydrogenase / sirohydrochlorin ferrochelatase	2.1.1.107 1.3.1.76 4.99.1.4	Sirohydrochlorin	Siroheme
+uroporphyrin-III C-methyltransferase / precorrin-2 dehydrogenase / sirohydrochlorin ferrochelatase	2.1.1.107 1.3.1.76 4.99.1.4	Uroporphyrinogen III	Precorrin 2
+uroporphyrinogen decarboxylase	4.1.1.37	Uroporphyrinogen III	Coproporphyrinogen III
+uroporphyrinogen-III synthase	4.2.1.75	Hydroxymethylbilane	Uroporphyrinogen III
