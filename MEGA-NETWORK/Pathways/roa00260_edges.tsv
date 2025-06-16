@@ -1,0 +1,51 @@
+enzyme_name	EC	source_node_name	target_node_name
+2,3-bisphosphoglycerate-dependent phosphoglycerate mutase	5.4.2.11	2-Phospho-D-glycerate	3-Phospho-D-glycerate
+CDP-diacylglycerol---serine O-phosphatidyltransferase	2.7.8.8	L-Serine	Phosphatidylserine
+D-3-phosphoglycerate dehydrogenase / 2-oxoglutarate reductase	1.1.1.95 1.1.1.399	3-Phospho-D-glycerate	3-Phosphonooxypyruvate
+D-3-phosphoglycerate dehydrogenase / 2-oxoglutarate reductase	1.1.1.95 1.1.1.399	3-Phosphonooxypyruvate	3-Phospho-D-glycerate
+L-2,4-diaminobutyric acid acetyltransferase	2.3.1.178	L-2,4-Diaminobutanoate	N(gamma)-Acetyldiaminobutyrate
+L-ectoine synthase	4.2.1.108	N(gamma)-Acetyldiaminobutyrate	Ectoine
+L-serine dehydratase	4.3.1.17	L-Serine	Pyruvate
+aspartate kinase	2.7.2.4	L-Aspartate	4-Phospho-L-aspartate
+aspartate-semialdehyde dehydrogenase	1.2.1.11	4-Phospho-L-aspartate	L-Aspartate 4-semialdehyde
+choline oxidase	1.1.3.17	Betaine aldehyde	Betaine
+choline oxidase	1.1.3.17	Choline	Betaine aldehyde
+creatinase	3.5.3.3	Creatine	Sarcosine
+cystathionine beta-synthase	4.2.1.22	L-Serine	L-Cystathionine
+cystathionine beta-synthase	4.2.1.22	L-Serine	L-Cysteine
+cystathionine gamma-lyase	4.4.1.1	L-Cystathionine	L-Cysteine
+cystathionine gamma-lyase	4.4.1.1	L-Cysteine	L-Cystathionine
+diaminobutyrate-2-oxoglutarate transaminase	2.6.1.76	L-Aspartate 4-semialdehyde	L-2,4-Diaminobutanoate
+dihydrolipoyl dehydrogenase	1.8.1.4	Dihydrolipoylprotein	Lipoylprotein
+dimethylglycine oxidase	1.5.3.10	N,N-Dimethylglycine	Sarcosine
+ectoine hydroxylase	1.14.11.55	Ectoine	5-Hydroxyectoine
+glycerate 2-kinase	2.7.1.165	D-Glycerate	2-Phospho-D-glycerate
+glycine cleavage system P protein (glycine dehydrogenase)	1.4.4.2	Glycine	-S8-aminomethyldihydrolipoyllysine
+glycine cleavage system P protein (glycine dehydrogenase)	1.4.4.2	Glycine	CO2
+glycine cleavage system P protein (glycine dehydrogenase)	1.4.4.2	Lipoylprotein	-S8-aminomethyldihydrolipoyllysine
+glycine cleavage system P protein (glycine dehydrogenase)	1.4.4.2	Lipoylprotein	CO2
+glycine cleavage system T protein (aminomethyltransferase)	2.1.2.10	-S8-aminomethyldihydrolipoyllysine	5,10-Methylenetetrahydrofolate
+glycine cleavage system T protein (aminomethyltransferase)	2.1.2.10	-S8-aminomethyldihydrolipoyllysine	Ammonia
+glycine cleavage system T protein (aminomethyltransferase)	2.1.2.10	-S8-aminomethyldihydrolipoyllysine	Dihydrolipoylprotein
+glycine cleavage system T protein (aminomethyltransferase)	2.1.2.10	Tetrahydrofolate	5,10-Methylenetetrahydrofolate
+glycine cleavage system T protein (aminomethyltransferase)	2.1.2.10	Tetrahydrofolate	Ammonia
+glycine cleavage system T protein (aminomethyltransferase)	2.1.2.10	Tetrahydrofolate	Dihydrolipoylprotein
+glycine hydroxymethyltransferase	2.1.2.1	5,10-Methylenetetrahydrofolate	L-Serine
+glycine hydroxymethyltransferase	2.1.2.1	5,10-Methylenetetrahydrofolate	Tetrahydrofolate
+glycine hydroxymethyltransferase	2.1.2.1	Glycine	L-Serine
+glycine hydroxymethyltransferase	2.1.2.1	Glycine	Tetrahydrofolate
+glycine hydroxymethyltransferase	2.1.2.1	L-Serine	5,10-Methylenetetrahydrofolate
+glycine hydroxymethyltransferase	2.1.2.1	L-Serine	Glycine
+glycine hydroxymethyltransferase	2.1.2.1	Tetrahydrofolate	5,10-Methylenetetrahydrofolate
+glycine hydroxymethyltransferase	2.1.2.1	Tetrahydrofolate	Glycine
+homoserine kinase	2.7.1.39	L-Homoserine	O-Phospho-L-homoserine
+monoamine oxidase	1.4.3.4	Aminoacetone	Methylglyoxal
+phosphoserine aminotransferase	2.6.1.52	3-Phosphonooxypyruvate	O-Phospho-L-serine
+phosphoserine aminotransferase	2.6.1.52	O-Phospho-L-serine	3-Phosphonooxypyruvate
+phosphoserine phosphatase	3.1.3.3	O-Phospho-L-serine	L-Serine
+primary-amine oxidase	1.4.3.21	Aminoacetone	Methylglyoxal
+sarcosine oxidase, subunit beta	1.5.3.24 1.5.3.1	Sarcosine	Glycine
+threonine dehydratase	4.3.1.19	L-Serine	Pyruvate
+threonine dehydratase	4.3.1.19	L-Threonine	2-Oxobutanoate
+threonine synthase	4.2.3.1	O-Phospho-L-homoserine	L-Threonine
+tryptophan synthase beta chain	4.2.1.20	L-Serine	L-Tryptophan

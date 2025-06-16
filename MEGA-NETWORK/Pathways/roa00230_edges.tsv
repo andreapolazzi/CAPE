@@ -1,0 +1,119 @@
+enzyme_name	EC	source_node_name	target_node_name
+(S)-ureidoglycine aminohydrolase	3.5.3.26	(S)-Ureidoglycine	(S)-Ureidoglycolate
+2-oxo-4-hydroxy-4-carboxy-5-ureidoimidazoline decarboxylase	4.1.1.97	5-Hydroxy-2-oxo-4-ureido-2,5-dihydro-1H-imidazole-5-carboxylate	(S)-Allantoin
+5'-nucleotidase	3.1.3.5	AMP	Adenosine
+5'-nucleotidase	3.1.3.5	Deoxyadenosine	dAMP
+5'-nucleotidase	3.1.3.5	Deoxyguanosine	dGMP
+5'-nucleotidase	3.1.3.5	GMP	Guanosine
+5'-nucleotidase	3.1.3.5	IMP	Inosine
+5'-nucleotidase	3.1.3.5	Xanthosine 5'-phosphate	Xanthosine
+5'-nucleotidase	3.1.3.5	dAMP	Deoxyadenosine
+5'-nucleotidase	3.1.3.5	dGMP	Deoxyguanosine
+5-(carboxyamino)imidazole ribonucleotide mutase	5.4.99.18	1-(5-Phospho-D-ribosyl)-5-amino-4-imidazolecarboxylate	5-Carboxyamino-1-(5-phospho-D-ribosyl)imidazole
+5-(carboxyamino)imidazole ribonucleotide mutase	5.4.99.18	5-Carboxyamino-1-(5-phospho-D-ribosyl)imidazole	1-(5-Phospho-D-ribosyl)-5-amino-4-imidazolecarboxylate
+5-(carboxyamino)imidazole ribonucleotide synthase	6.3.4.18	Aminoimidazole ribotide	5-Carboxyamino-1-(5-phospho-D-ribosyl)imidazole
+5-hydroxyisourate hydrolase	3.5.2.17	5-Hydroxyisourate	5-Hydroxy-2-oxo-4-ureido-2,5-dihydro-1H-imidazole-5-carboxylate
+ATP adenylyltransferase	2.7.7.53	ADP	P1,P4-Bis(5'-adenosyl)tetraphosphate
+ATP adenylyltransferase	2.7.7.53	Adenylyl sulfate	P1,P4-Bis(5'-adenosyl)tetraphosphate
+GMP reductase	1.7.1.7	GMP	IMP
+GTP diphosphokinase / guanosine-3',5'-bis(diphosphate) 3'-diphosphatase	2.7.6.5 3.1.7.2	GDP	Guanosine 3',5'-bis(diphosphate)
+GTP diphosphokinase / guanosine-3',5'-bis(diphosphate) 3'-diphosphatase	2.7.6.5 3.1.7.2	GTP	Guanosine 3'-diphosphate 5'-triphosphate
+GTP diphosphokinase / guanosine-3',5'-bis(diphosphate) 3'-diphosphatase	2.7.6.5 3.1.7.2	Guanosine 3',5'-bis(diphosphate)	GDP
+IMP dehydrogenase	1.1.1.205	IMP	Xanthosine 5'-phosphate
+XTP/dITP diphosphohydrolase	3.6.1.66	ITP	IMP
+XTP/dITP diphosphohydrolase	3.6.1.66	XTP	Xanthosine 5'-phosphate
+XTP/dITP diphosphohydrolase	3.6.1.66	dITP	2'-Deoxyinosine 5'-phosphate
+adenine deaminase	3.5.4.2	Adenine	Hypoxanthine
+adenine phosphoribosyltransferase	2.4.2.7	1-(5'-Phosphoribosyl)-5-amino-4-imidazolecarboxamide	5-Amino-4-imidazolecarboxyamide
+adenine phosphoribosyltransferase	2.4.2.7	5-Amino-4-imidazolecarboxyamide	1-(5'-Phosphoribosyl)-5-amino-4-imidazolecarboxamide
+adenine phosphoribosyltransferase	2.4.2.7	AMP	Adenine
+adenine phosphoribosyltransferase	2.4.2.7	Adenine	AMP
+adenosine deaminase	3.5.4.4	Adenosine	Inosine
+adenosine deaminase	3.5.4.4	Deoxyadenosine	Deoxyinosine
+adenosine kinase	2.7.1.20	AMP	Adenosine
+adenosine kinase	2.7.1.20	Adenosine	AMP
+adenylate cyclase	4.6.1.1	GTP	3',5'-Cyclic GMP
+adenylate kinase	2.7.4.3	ADP	AMP
+adenylate kinase	2.7.4.3	AMP	ADP
+adenylate kinase	2.7.4.3	dADP	dAMP
+adenylate kinase	2.7.4.3	dAMP	dADP
+adenylosuccinate lyase	4.3.2.2	1-(5'-Phosphoribosyl)-5-amino-4-(N-succinocarboxamide)-imidazole	1-(5'-Phosphoribosyl)-5-amino-4-imidazolecarboxamide
+adenylosuccinate lyase	4.3.2.2	1-(5'-Phosphoribosyl)-5-amino-4-imidazolecarboxamide	1-(5'-Phosphoribosyl)-5-amino-4-(N-succinocarboxamide)-imidazole
+adenylosuccinate lyase	4.3.2.2	N6-(1,2-Dicarboxyethyl)-AMP	AMP
+adenylosuccinate lyase	4.3.2.2	N6-Succino-2-amino-2'-deoxyadenylate	dZMP
+adenylosuccinate synthase	6.3.4.4	IMP	N6-(1,2-Dicarboxyethyl)-AMP
+allantoicase	3.5.3.4	(S)-Ureidoglycolate	Allantoate
+allantoicase	3.5.3.4	Allantoate	(S)-Ureidoglycolate
+allantoicase	3.5.3.4	Allantoate	Urea
+allantoicase	3.5.3.4	Urea	Allantoate
+allantoin racemase	5.1.99.3	(R)(-)-Allantoin	(S)-Allantoin
+allantoin racemase	5.1.99.3	(S)-Allantoin	(R)(-)-Allantoin
+allantoinase	3.5.2.5	(S)-Allantoin	Allantoate
+allantoinase	3.5.2.5	Allantoate	(S)-Allantoin
+amidophosphoribosyltransferase	2.4.2.14	5-Phospho-alpha-D-ribose 1-diphosphate	5-Phosphoribosylamine
+amidophosphoribosyltransferase	2.4.2.14	L-Glutamine	5-Phosphoribosylamine
+bifunctional enzyme CysN/CysC	2.7.7.4 2.7.1.25	Adenylyl sulfate	3'-Phosphoadenylyl sulfate
+dGTPase	3.1.5.1	dGTP	Deoxyguanosine
+exopolyphosphatase / guanosine-5'-triphosphate,3'-diphosphate pyrophosphatase	3.6.1.11 3.6.1.40	Guanosine 3',5'-bis(diphosphate)	Guanosine 3'-diphosphate 5'-triphosphate
+exopolyphosphatase / guanosine-5'-triphosphate,3'-diphosphate pyrophosphatase	3.6.1.11 3.6.1.40	Guanosine 3'-diphosphate 5'-triphosphate	Guanosine 3',5'-bis(diphosphate)
+guanine deaminase	3.5.4.3	Guanine	Xanthine
+guanylate kinase	2.7.4.8	GDP	GMP
+guanylate kinase	2.7.4.8	GMP	GDP
+guanylate kinase	2.7.4.8	dGDP	dGMP
+guanylate kinase	2.7.4.8	dGMP	dGDP
+guanylate kinase	2.7.4.8	dZMP	dZDP
+hypoxanthine phosphoribosyltransferase	2.4.2.8	Guanine	GMP
+hypoxanthine phosphoribosyltransferase	2.4.2.8	Hypoxanthine	IMP
+hypoxanthine phosphoribosyltransferase	2.4.2.8	Xanthine	Xanthosine 5'-phosphate
+nucleoside triphosphate diphosphatase	3.6.1.9	ATP	AMP
+nucleoside triphosphate diphosphatase	3.6.1.9	GTP	GMP
+nucleoside-diphosphate kinase	2.7.4.6	ADP	ATP
+nucleoside-diphosphate kinase	2.7.4.6	ATP	ADP
+nucleoside-diphosphate kinase	2.7.4.6	GDP	GTP
+nucleoside-diphosphate kinase	2.7.4.6	GTP	GDP
+nucleoside-diphosphate kinase	2.7.4.6	IDP	ITP
+nucleoside-diphosphate kinase	2.7.4.6	ITP	IDP
+nucleoside-diphosphate kinase	2.7.4.6	dADP	dATP
+nucleoside-diphosphate kinase	2.7.4.6	dATP	dADP
+nucleoside-diphosphate kinase	2.7.4.6	dGDP	dGTP
+nucleoside-diphosphate kinase	2.7.4.6	dGTP	dGDP
+nucleoside-diphosphate kinase	2.7.4.6	dIDP	dITP
+nucleoside-diphosphate kinase	2.7.4.6	dITP	dIDP
+nucleoside-diphosphate kinase	2.7.4.6	dZDP	dZTP
+phosphoglucomutase	5.4.2.2	D-Ribose 5-phosphate	alpha-D-Ribose 1-phosphate
+phosphoglucomutase	5.4.2.2	alpha-D-Ribose 1-phosphate	D-Ribose 5-phosphate
+phosphoribosylamine---glycine ligase	6.3.4.13	5-Phosphoribosylamine	5'-Phosphoribosylglycinamide
+phosphoribosylaminoimidazole-succinocarboxamide synthase	6.3.2.6	1-(5'-Phosphoribosyl)-5-amino-4-(N-succinocarboxamide)-imidazole	1-(5-Phospho-D-ribosyl)-5-amino-4-imidazolecarboxylate
+phosphoribosylaminoimidazole-succinocarboxamide synthase	6.3.2.6	1-(5-Phospho-D-ribosyl)-5-amino-4-imidazolecarboxylate	1-(5'-Phosphoribosyl)-5-amino-4-(N-succinocarboxamide)-imidazole
+phosphoribosylaminoimidazolecarboxamide formyltransferase / IMP cyclohydrolase	2.1.2.3 3.5.4.10	1-(5'-Phosphoribosyl)-5-amino-4-imidazolecarboxamide	1-(5'-Phosphoribosyl)-5-formamido-4-imidazolecarboxamide
+phosphoribosylaminoimidazolecarboxamide formyltransferase / IMP cyclohydrolase	2.1.2.3 3.5.4.10	1-(5'-Phosphoribosyl)-5-formamido-4-imidazolecarboxamide	IMP
+phosphoribosylaminoimidazolecarboxamide formyltransferase / IMP cyclohydrolase	2.1.2.3 3.5.4.10	IMP	1-(5'-Phosphoribosyl)-5-formamido-4-imidazolecarboxamide
+phosphoribosylformylglycinamidine cyclo-ligase	6.3.3.1	2-(Formamido)-N1-(5'-phosphoribosyl)acetamidine	Aminoimidazole ribotide
+phosphoribosylformylglycinamidine synthase subunit PurS	6.3.5.3	5'-Phosphoribosyl-N-formylglycinamide	2-(Formamido)-N1-(5'-phosphoribosyl)acetamidine
+phosphoribosylglycinamide formyltransferase 1	2.1.2.2	5'-Phosphoribosylglycinamide	5'-Phosphoribosyl-N-formylglycinamide
+phosphoribosylglycinamide formyltransferase 2	6.3.1.21	5'-Phosphoribosylglycinamide	5'-Phosphoribosyl-N-formylglycinamide
+purine nucleosidase	3.2.2.1	Adenosine	Adenine
+purine nucleosidase	3.2.2.1	Guanosine	Guanine
+purine nucleosidase	3.2.2.1	Inosine	Hypoxanthine
+purine nucleosidase	3.2.2.1	Xanthosine	Xanthine
+purine-nucleoside phosphorylase	2.4.2.1	Adenine	Adenosine
+purine-nucleoside phosphorylase	2.4.2.1	Adenine	Deoxyadenosine
+purine-nucleoside phosphorylase	2.4.2.1	Adenosine	Adenine
+purine-nucleoside phosphorylase	2.4.2.1	Deoxyadenosine	Adenine
+purine-nucleoside phosphorylase	2.4.2.1	Deoxyguanosine	Guanine
+purine-nucleoside phosphorylase	2.4.2.1	Deoxyinosine	Hypoxanthine
+purine-nucleoside phosphorylase	2.4.2.1	Guanine	Deoxyguanosine
+purine-nucleoside phosphorylase	2.4.2.1	Guanine	Guanosine
+purine-nucleoside phosphorylase	2.4.2.1	Guanosine	Guanine
+purine-nucleoside phosphorylase	2.4.2.1	Hypoxanthine	Deoxyinosine
+purine-nucleoside phosphorylase	2.4.2.1	Hypoxanthine	Inosine
+purine-nucleoside phosphorylase	2.4.2.1	Inosine	Hypoxanthine
+purine-nucleoside phosphorylase	2.4.2.1	Xanthine	Xanthosine
+purine-nucleoside phosphorylase	2.4.2.1	Xanthosine	Xanthine
+ribonucleoside-diphosphate reductase beta chain	1.17.4.1	ADP	dADP
+ribonucleoside-diphosphate reductase beta chain	1.17.4.1	GDP	dGDP
+ribose-phosphate pyrophosphokinase	2.7.6.1	D-Ribose 5-phosphate	5-Phospho-alpha-D-ribose 1-diphosphate
+sulfate adenylyltransferase subunit 2	2.7.7.4	Sulfate	Adenylyl sulfate
+urate oxidase	1.7.3.3	Urate	5-Hydroxyisourate
+urease subunit gamma	3.5.1.5	Urea	Ammonia
+urease subunit gamma	3.5.1.5	Urea	HCO3-

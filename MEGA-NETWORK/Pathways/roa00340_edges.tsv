@@ -1,0 +1,24 @@
+enzyme_name	EC	source_node_name	target_node_name
+ATP phosphoribosyltransferase	2.4.2.17	1-(5-Phospho-D-ribosyl)-ATP	5-Phospho-alpha-D-ribose 1-diphosphate
+ATP phosphoribosyltransferase	2.4.2.17	5-Phospho-alpha-D-ribose 1-diphosphate	1-(5-Phospho-D-ribosyl)-ATP
+L-histidine Nalpha-methyltransferase	2.1.1.44	L-Histidine	Hercynine
+aldehyde dehydrogenase (NAD(P)+)	1.2.1.5	Methylimidazole acetaldehyde	Methylimidazoleacetic acid
+aldehyde dehydrogenase (NAD+)	1.2.1.3	Imidazole-4-acetaldehyde	Imidazole-4-acetate
+formiminoglutamase	3.5.3.8	N-Formimino-L-glutamate	L-Glutamate
+gamma-glutamyl hercynylcysteine S-oxide hydrolase	3.5.1.118	gamma-L-Glutamyl-S-(hercyn-2-yl)-L-cysteine S-oxide	S-(Hercyn-2-yl)-L-cysteine S-oxide
+gamma-glutamyl hercynylcysteine S-oxide synthase	1.14.99.50	Hercynine	gamma-L-Glutamyl-S-(hercyn-2-yl)-L-cysteine S-oxide
+histidine ammonia-lyase	4.3.1.3	L-Histidine	Urocanate
+histidinol dehydrogenase	1.1.1.23	L-Histidinal	L-Histidine
+histidinol dehydrogenase	1.1.1.23	L-Histidinol	L-Histidinal
+histidinol-phosphatase	3.1.3.15	L-Histidinol phosphate	L-Histidinol
+histidinol-phosphate aminotransferase	2.6.1.9	3-(Imidazol-4-yl)-2-oxopropyl phosphate	L-Histidinol phosphate
+histidinol-phosphate aminotransferase	2.6.1.9	L-Histidinol phosphate	3-(Imidazol-4-yl)-2-oxopropyl phosphate
+imidazole glycerol-phosphate synthase subunit HisF	4.3.2.10	N-(5'-Phospho-D-1'-ribulosylformimino)-5-amino-1-(5''-phospho-D-ribosyl)-4-imidazolecarboxamide	1-(5'-Phosphoribosyl)-5-amino-4-imidazolecarboxamide
+imidazole glycerol-phosphate synthase subunit HisF	4.3.2.10	N-(5'-Phospho-D-1'-ribulosylformimino)-5-amino-1-(5''-phospho-D-ribosyl)-4-imidazolecarboxamide	D-erythro-1-(Imidazol-4-yl)glycerol 3-phosphate
+imidazoleglycerol-phosphate dehydratase	4.2.1.19	D-erythro-1-(Imidazol-4-yl)glycerol 3-phosphate	3-(Imidazol-4-yl)-2-oxopropyl phosphate
+imidazolonepropionase	3.5.2.7	4-Imidazolone-5-propanoate	N-Formimino-L-glutamate
+monoamine oxidase	1.4.3.4	N-Methylhistamine	Methylimidazole acetaldehyde
+phosphoribosyl isomerase A	5.3.1.16 5.3.1.24	5-(5-Phospho-D-ribosylaminoformimino)-1-(5-phosphoribosyl)-imidazole-4-carboxamide	N-(5'-Phospho-D-1'-ribulosylformimino)-5-amino-1-(5''-phospho-D-ribosyl)-4-imidazolecarboxamide
+phosphoribosyl-AMP cyclohydrolase	3.5.4.19	Phosphoribosyl-AMP	5-(5-Phospho-D-ribosylaminoformimino)-1-(5-phosphoribosyl)-imidazole-4-carboxamide
+phosphoribosyl-ATP pyrophosphohydrolase	3.6.1.31	1-(5-Phospho-D-ribosyl)-ATP	Phosphoribosyl-AMP
+urocanate hydratase	4.2.1.49	Urocanate	4-Imidazolone-5-propanoate

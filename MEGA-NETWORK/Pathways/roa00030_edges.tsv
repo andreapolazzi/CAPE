@@ -1,0 +1,62 @@
+enzyme_name	EC	source_node_name	target_node_name
+2-dehydro-3-deoxygluconokinase	2.7.1.45	2-Dehydro-3-deoxy-D-gluconate	2-Dehydro-3-deoxy-6-phospho-D-gluconate
+2-dehydro-3-deoxyphosphogluconate aldolase / (4S)-4-hydroxy-2-oxoglutarate aldolase	4.1.2.14 4.1.3.42	2-Dehydro-3-deoxy-6-phospho-D-gluconate	D-Glyceraldehyde 3-phosphate
+2-dehydro-3-deoxyphosphogluconate aldolase / (4S)-4-hydroxy-2-oxoglutarate aldolase	4.1.2.14 4.1.3.42	2-Dehydro-3-deoxy-6-phospho-D-gluconate	Pyruvate
+2-dehydro-3-deoxyphosphogluconate aldolase / (4S)-4-hydroxy-2-oxoglutarate aldolase	4.1.2.14 4.1.3.42	D-Glyceraldehyde 3-phosphate	2-Dehydro-3-deoxy-6-phospho-D-gluconate
+2-dehydro-3-deoxyphosphogluconate aldolase / (4S)-4-hydroxy-2-oxoglutarate aldolase	4.1.2.14 4.1.3.42	Pyruvate	2-Dehydro-3-deoxy-6-phospho-D-gluconate
+3-hexulose-6-phosphate synthase	4.1.2.43	D-Ribulose 5-phosphate	D-arabino-Hex-3-ulose 6-phosphate
+3-hexulose-6-phosphate synthase	4.1.2.43	D-arabino-Hex-3-ulose 6-phosphate	D-Ribulose 5-phosphate
+6-phospho-3-hexuloisomerase	5.3.1.27	D-Fructose 6-phosphate	D-arabino-Hex-3-ulose 6-phosphate
+6-phospho-3-hexuloisomerase	5.3.1.27	D-arabino-Hex-3-ulose 6-phosphate	D-Fructose 6-phosphate
+6-phosphogluconate dehydrogenase	1.1.1.44 1.1.1.343	6-Phospho-D-gluconate	D-Ribulose 5-phosphate
+6-phosphogluconolactonase	3.1.1.31	D-Glucono-1,5-lactone 6-phosphate	6-Phospho-D-gluconate
+ATP-dependent phosphofructokinase / diphosphate-dependent phosphofructokinase	2.7.1.11 2.7.1.90	D-Fructose 1,6-bisphosphate	D-Fructose 6-phosphate
+ATP-dependent phosphofructokinase / diphosphate-dependent phosphofructokinase	2.7.1.11 2.7.1.90	D-Fructose 6-phosphate	D-Fructose 1,6-bisphosphate
+deoxyribose-phosphate aldolase	4.1.2.4	2-Deoxy-D-ribose 5-phosphate	D-Glyceraldehyde 3-phosphate
+deoxyribose-phosphate aldolase	4.1.2.4	D-Glyceraldehyde 3-phosphate	2-Deoxy-D-ribose 5-phosphate
+fructose-1,6-bisphosphatase II	3.1.3.11	D-Fructose 1,6-bisphosphate	D-Fructose 6-phosphate
+fructose-bisphosphate aldolase, class II	4.1.2.13	D-Fructose 1,6-bisphosphate	D-Glyceraldehyde 3-phosphate
+fructose-bisphosphate aldolase, class II	4.1.2.13	D-Glyceraldehyde 3-phosphate	D-Fructose 1,6-bisphosphate
+gluconokinase	2.7.1.12	D-Gluconic acid	6-Phospho-D-gluconate
+gluconolactonase	3.1.1.17	D-Glucono-1,5-lactone	D-Gluconic acid
+glucose-6-phosphate 1-dehydrogenase	1.1.1.49 1.1.1.363	beta-D-Glucose 6-phosphate	D-Glucono-1,5-lactone 6-phosphate
+glucose-6-phosphate isomerase	5.3.1.9	D-Fructose 6-phosphate	alpha-D-Glucose 6-phosphate
+glucose-6-phosphate isomerase	5.3.1.9	alpha-D-Glucose 6-phosphate	D-Fructose 6-phosphate
+glucose-6-phosphate isomerase	5.3.1.9	alpha-D-Glucose 6-phosphate	beta-D-Glucose 6-phosphate
+glucose-6-phosphate isomerase	5.3.1.9	beta-D-Glucose 6-phosphate	alpha-D-Glucose 6-phosphate
+phosphoglucomutase	5.4.2.2	D-Ribose 5-phosphate	alpha-D-Ribose 1-phosphate
+phosphoglucomutase	5.4.2.2	alpha-D-Ribose 1-phosphate	D-Ribose 5-phosphate
+phosphogluconate dehydratase	4.2.1.12	6-Phospho-D-gluconate	2-Dehydro-3-deoxy-6-phospho-D-gluconate
+ribokinase	2.7.1.15	2-Deoxy-D-ribose 5-phosphate	Deoxyribose
+ribokinase	2.7.1.15	D-Ribose	D-Ribose 5-phosphate
+ribokinase	2.7.1.15	D-Ribose 5-phosphate	D-Ribose
+ribokinase	2.7.1.15	Deoxyribose	2-Deoxy-D-ribose 5-phosphate
+ribose 5-phosphate isomerase A	5.3.1.6	D-Ribose 5-phosphate	D-Ribulose 5-phosphate
+ribose 5-phosphate isomerase A	5.3.1.6	D-Ribulose 5-phosphate	D-Ribose 5-phosphate
+ribose-phosphate pyrophosphokinase	2.7.6.1	5-Phospho-alpha-D-ribose 1-diphosphate	D-Ribose 5-phosphate
+ribose-phosphate pyrophosphokinase	2.7.6.1	D-Ribose 5-phosphate	5-Phospho-alpha-D-ribose 1-diphosphate
+ribulose-phosphate 3-epimerase	5.1.3.1	D-Ribulose 5-phosphate	D-Xylulose 5-phosphate
+ribulose-phosphate 3-epimerase	5.1.3.1	D-Xylulose 5-phosphate	D-Ribulose 5-phosphate
+transaldolase	2.2.1.2	D-Erythrose 4-phosphate	D-Glyceraldehyde 3-phosphate
+transaldolase	2.2.1.2	D-Erythrose 4-phosphate	Sedoheptulose 7-phosphate
+transaldolase	2.2.1.2	D-Fructose 6-phosphate	D-Glyceraldehyde 3-phosphate
+transaldolase	2.2.1.2	D-Fructose 6-phosphate	Sedoheptulose 7-phosphate
+transaldolase	2.2.1.2	D-Glyceraldehyde 3-phosphate	D-Erythrose 4-phosphate
+transaldolase	2.2.1.2	D-Glyceraldehyde 3-phosphate	D-Fructose 6-phosphate
+transaldolase	2.2.1.2	Sedoheptulose 7-phosphate	D-Erythrose 4-phosphate
+transaldolase	2.2.1.2	Sedoheptulose 7-phosphate	D-Fructose 6-phosphate
+transketolase	2.2.1.1	D-Erythrose 4-phosphate	D-Fructose 6-phosphate
+transketolase	2.2.1.1	D-Erythrose 4-phosphate	D-Glyceraldehyde 3-phosphate
+transketolase	2.2.1.1	D-Fructose 6-phosphate	D-Erythrose 4-phosphate
+transketolase	2.2.1.1	D-Fructose 6-phosphate	D-Xylulose 5-phosphate
+transketolase	2.2.1.1	D-Glyceraldehyde 3-phosphate	D-Erythrose 4-phosphate
+transketolase	2.2.1.1	D-Glyceraldehyde 3-phosphate	D-Ribose 5-phosphate
+transketolase	2.2.1.1	D-Glyceraldehyde 3-phosphate	D-Xylulose 5-phosphate
+transketolase	2.2.1.1	D-Ribose 5-phosphate	D-Glyceraldehyde 3-phosphate
+transketolase	2.2.1.1	D-Ribose 5-phosphate	Sedoheptulose 7-phosphate
+transketolase	2.2.1.1	D-Xylulose 5-phosphate	D-Fructose 6-phosphate
+transketolase	2.2.1.1	D-Xylulose 5-phosphate	D-Glyceraldehyde 3-phosphate
+transketolase	2.2.1.1	D-Xylulose 5-phosphate	Sedoheptulose 7-phosphate
+transketolase	2.2.1.1	Sedoheptulose 7-phosphate	D-Ribose 5-phosphate
+transketolase	2.2.1.1	Sedoheptulose 7-phosphate	D-Xylulose 5-phosphate
+xylulose-5-phosphate/fructose-6-phosphate phosphoketolase	4.1.2.9 4.1.2.22	D-Xylulose 5-phosphate	D-Glyceraldehyde 3-phosphate
