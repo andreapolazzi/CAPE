@@ -1,0 +1,5 @@
+enzyme_name	EC	source_node_name	target_node_name
+4-hydroxy-tetrahydrodipicolinate synthase	4.3.3.7	L-Aspartate 4-semialdehyde	(2S,4S)-4-Hydroxy-2,3,4,5-tetrahydrodipicolinate
+4-hydroxy-tetrahydrodipicolinate synthase	4.3.3.7	Pyruvate	(2S,4S)-4-Hydroxy-2,3,4,5-tetrahydrodipicolinate
+aspartate kinase	2.7.2.4	L-Aspartate	4-Phospho-L-aspartate
+sulfate adenylyltransferase subunit 2	2.7.7.4	Sulfate	Adenylyl sulfate

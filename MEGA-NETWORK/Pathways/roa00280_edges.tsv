@@ -1,0 +1,71 @@
+enzyme_name	EC	source_node_name	target_node_name
+2-oxoisovalerate dehydrogenase E1 component	1.2.4.4	(S)-3-Methyl-2-oxopentanoic acid	2-Methyl-1-hydroxybutyl-ThPP
+2-oxoisovalerate dehydrogenase E1 component	1.2.4.4	2-Methyl-1-hydroxybutyl-ThPP	S-(2-methylbutanoyl)dihydrolipoyllysine
+2-oxoisovalerate dehydrogenase E1 component	1.2.4.4	2-Methyl-1-hydroxybutyl-ThPP	Thiamin diphosphate
+2-oxoisovalerate dehydrogenase E1 component	1.2.4.4	2-Methyl-1-hydroxypropyl-ThPP	S-(2-methylpropanoyl)dihydrolipoyllysine
+2-oxoisovalerate dehydrogenase E1 component	1.2.4.4	2-Methyl-1-hydroxypropyl-ThPP	Thiamin diphosphate
+2-oxoisovalerate dehydrogenase E1 component	1.2.4.4	3-Methyl-1-hydroxybutyl-ThPP	S-(3-methylbutanoyl)dihydrolipoyllysine
+2-oxoisovalerate dehydrogenase E1 component	1.2.4.4	3-Methyl-1-hydroxybutyl-ThPP	Thiamin diphosphate
+2-oxoisovalerate dehydrogenase E1 component	1.2.4.4	3-Methyl-2-oxobutanoic acid	2-Methyl-1-hydroxypropyl-ThPP
+2-oxoisovalerate dehydrogenase E1 component	1.2.4.4	4-Methyl-2-oxopentanoate	3-Methyl-1-hydroxybutyl-ThPP
+2-oxoisovalerate dehydrogenase E1 component	1.2.4.4	Enzyme N6-(lipoyl)lysine	S-(2-methylbutanoyl)dihydrolipoyllysine
+2-oxoisovalerate dehydrogenase E1 component	1.2.4.4	Enzyme N6-(lipoyl)lysine	S-(2-methylpropanoyl)dihydrolipoyllysine
+2-oxoisovalerate dehydrogenase E1 component	1.2.4.4	Enzyme N6-(lipoyl)lysine	S-(3-methylbutanoyl)dihydrolipoyllysine
+2-oxoisovalerate dehydrogenase E1 component	1.2.4.4	Enzyme N6-(lipoyl)lysine	Thiamin diphosphate
+2-oxoisovalerate dehydrogenase E1 component	1.2.4.4	Thiamin diphosphate	2-Methyl-1-hydroxybutyl-ThPP
+2-oxoisovalerate dehydrogenase E1 component	1.2.4.4	Thiamin diphosphate	2-Methyl-1-hydroxypropyl-ThPP
+2-oxoisovalerate dehydrogenase E1 component	1.2.4.4	Thiamin diphosphate	3-Methyl-1-hydroxybutyl-ThPP
+2-oxoisovalerate dehydrogenase E2 component (dihydrolipoyl transacylase)	2.3.1.168	S-(2-methylbutanoyl)dihydrolipoyllysine	(S)-2-Methylbutanoyl-CoA
+2-oxoisovalerate dehydrogenase E2 component (dihydrolipoyl transacylase)	2.3.1.168	S-(2-methylbutanoyl)dihydrolipoyllysine	Enzyme N6-(dihydrolipoyl)lysine
+2-oxoisovalerate dehydrogenase E2 component (dihydrolipoyl transacylase)	2.3.1.168	S-(2-methylpropanoyl)dihydrolipoyllysine	2-Methylpropanoyl-CoA
+2-oxoisovalerate dehydrogenase E2 component (dihydrolipoyl transacylase)	2.3.1.168	S-(2-methylpropanoyl)dihydrolipoyllysine	Enzyme N6-(dihydrolipoyl)lysine
+2-oxoisovalerate dehydrogenase E2 component (dihydrolipoyl transacylase)	2.3.1.168	S-(3-methylbutanoyl)dihydrolipoyllysine	3-Methylbutanoyl-CoA
+2-oxoisovalerate dehydrogenase E2 component (dihydrolipoyl transacylase)	2.3.1.168	S-(3-methylbutanoyl)dihydrolipoyllysine	Enzyme N6-(dihydrolipoyl)lysine
+3-hydroxyacyl-CoA dehydrogenase / enoyl-CoA hydratase / 3-hydroxybutyryl-CoA epimerase	1.1.1.35 4.2.1.17 5.1.2.3	(2S,3S)-3-Hydroxy-2-methylbutanoyl-CoA	2-Methylacetoacetyl-CoA
+3-hydroxyacyl-CoA dehydrogenase / enoyl-CoA hydratase / 3-hydroxybutyryl-CoA epimerase	1.1.1.35 4.2.1.17 5.1.2.3	2-Methylacetoacetyl-CoA	(2S,3S)-3-Hydroxy-2-methylbutanoyl-CoA
+3-hydroxyisobutyrate dehydrogenase	1.1.1.31	(S)-3-Hydroxyisobutyrate	(S)-Methylmalonate semialdehyde
+3-hydroxyisobutyrate dehydrogenase	1.1.1.31	(S)-Methylmalonate semialdehyde	(S)-3-Hydroxyisobutyrate
+3-methylcrotonyl-CoA carboxylase beta subunit	6.4.1.4	3-Methylcrotonyl-CoA	3-Methylglutaconyl-CoA
+3-oxoacid CoA-transferase subunit B	2.8.3.5	Acetoacetate	Acetoacetyl-CoA
+3-oxoacid CoA-transferase subunit B	2.8.3.5	Acetoacetyl-CoA	Acetoacetate
+4-aminobutyrate aminotransferase / (S)-3-amino-2-methylpropionate transaminase / 5-aminovalerate transaminase	2.6.1.19 2.6.1.22 2.6.1.48	(S)-Methylmalonate semialdehyde	L-3-Aminoisobutanoate
+4-aminobutyrate aminotransferase / (S)-3-amino-2-methylpropionate transaminase / 5-aminovalerate transaminase	2.6.1.19 2.6.1.22 2.6.1.48	L-3-Aminoisobutanoate	(S)-Methylmalonate semialdehyde
+acetoacetyl-CoA synthetase	6.2.1.16	Acetoacetate	Acetoacetyl-CoA
+acetyl-CoA C-acetyltransferase	2.3.1.9	Acetoacetyl-CoA	Acetyl-CoA
+acetyl-CoA C-acetyltransferase	2.3.1.9	Acetyl-CoA	Acetoacetyl-CoA
+acetyl-CoA acyltransferase	2.3.1.16	2-Methylacetoacetyl-CoA	Acetyl-CoA
+acetyl-CoA acyltransferase	2.3.1.16	2-Methylacetoacetyl-CoA	Propanoyl-CoA
+acetyl-CoA/propionyl-CoA/long-chain acyl-CoA carboxylase, biotin carboxylase, biotin carboxyl carrier protein	6.4.1.2 6.4.1.3 6.4.1.- 6.3.4.14	Propanoyl-CoA	(S)-Methylmalonyl-CoA
+acyl-CoA dehydrogenase	1.3.8.7	(S)-2-Methylbutanoyl-CoA	2-Methylbut-2-enoyl-CoA
+acyl-CoA dehydrogenase	1.3.8.7	2-Methylbut-2-enoyl-CoA	(S)-2-Methylbutanoyl-CoA
+acyl-CoA dehydrogenase	1.3.8.7	2-Methylprop-2-enoyl-CoA	2-Methylpropanoyl-CoA
+acyl-CoA dehydrogenase	1.3.8.7	2-Methylpropanoyl-CoA	2-Methylprop-2-enoyl-CoA
+acyl-CoA dehydrogenase	1.3.8.7	3-Methylbutanoyl-CoA	3-Methylcrotonyl-CoA
+acyl-CoA dehydrogenase	1.3.8.7	3-Methylcrotonyl-CoA	3-Methylbutanoyl-CoA
+aldehyde dehydrogenase (NAD+)	1.2.1.3	(S)-Methylmalonate semialdehyde	Methylmalonate
+branched-chain amino acid aminotransferase	2.6.1.42	(S)-3-Methyl-2-oxopentanoic acid	L-Isoleucine
+branched-chain amino acid aminotransferase	2.6.1.42	3-Methyl-2-oxobutanoic acid	L-Valine
+branched-chain amino acid aminotransferase	2.6.1.42	4-Methyl-2-oxopentanoate	L-Leucine
+branched-chain amino acid aminotransferase	2.6.1.42	L-Isoleucine	(S)-3-Methyl-2-oxopentanoic acid
+branched-chain amino acid aminotransferase	2.6.1.42	L-Leucine	4-Methyl-2-oxopentanoate
+branched-chain amino acid aminotransferase	2.6.1.42	L-Valine	3-Methyl-2-oxobutanoic acid
+dihydrolipoyl dehydrogenase	1.8.1.4	Enzyme N6-(dihydrolipoyl)lysine	Enzyme N6-(lipoyl)lysine
+enoyl-CoA hydratase	4.2.1.17	2-Methylbut-2-enoyl-CoA	(2S,3S)-3-Hydroxy-2-methylbutanoyl-CoA
+enoyl-CoA hydratase	4.2.1.17	2-Methylprop-2-enoyl-CoA	(S)-3-Hydroxyisobutyryl-CoA
+enoyl-CoA hydratase	4.2.1.17	3-Hydroxyisovaleryl-CoA	3-Methylcrotonyl-CoA
+enoyl-CoA hydratase	4.2.1.17	3-Methylcrotonyl-CoA	3-Hydroxyisovaleryl-CoA
+hydroxymethylglutaryl-CoA lyase	4.1.3.4	(S)-3-Hydroxy-3-methylglutaryl-CoA	Acetoacetate
+hydroxymethylglutaryl-CoA lyase	4.1.3.4	(S)-3-Hydroxy-3-methylglutaryl-CoA	Acetyl-CoA
+hydroxymethylglutaryl-CoA synthase	2.3.3.10	Acetoacetyl-CoA	(S)-3-Hydroxy-3-methylglutaryl-CoA
+hydroxymethylglutaryl-CoA synthase	2.3.3.10	Acetyl-CoA	(S)-3-Hydroxy-3-methylglutaryl-CoA
+malonate-semialdehyde dehydrogenase (acetylating) / methylmalonate-semialdehyde dehydrogenase	1.2.1.18 1.2.1.27	(S)-Methylmalonate semialdehyde	Propanoyl-CoA
+methylmalonyl-CoA mutase	5.4.99.2	(R)-Methylmalonyl-CoA	Succinyl-CoA
+methylmalonyl-CoA mutase	5.4.99.2	Succinyl-CoA	(R)-Methylmalonyl-CoA
+methylmalonyl-CoA/ethylmalonyl-CoA epimerase	5.1.99.1	(R)-Methylmalonyl-CoA	(S)-Methylmalonyl-CoA
+methylmalonyl-CoA/ethylmalonyl-CoA epimerase	5.1.99.1	(S)-Methylmalonyl-CoA	(R)-Methylmalonyl-CoA
+short-chain 2-methylacyl-CoA dehydrogenase	1.3.8.5	(S)-2-Methylbutanoyl-CoA	2-Methylbut-2-enoyl-CoA
+short-chain 2-methylacyl-CoA dehydrogenase	1.3.8.5	2-Methylbut-2-enoyl-CoA	(S)-2-Methylbutanoyl-CoA
+short-chain 2-methylacyl-CoA dehydrogenase	1.3.8.5	2-Methylprop-2-enoyl-CoA	2-Methylpropanoyl-CoA
+short-chain 2-methylacyl-CoA dehydrogenase	1.3.8.5	2-Methylpropanoyl-CoA	2-Methylprop-2-enoyl-CoA
+valine dehydrogenase (NAD+)	1.4.1.23	3-Methyl-2-oxobutanoic acid	L-Valine
+valine dehydrogenase (NAD+)	1.4.1.23	L-Valine	3-Methyl-2-oxobutanoic acid

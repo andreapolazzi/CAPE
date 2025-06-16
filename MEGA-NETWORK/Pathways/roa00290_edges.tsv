@@ -1,0 +1,31 @@
+enzyme_name	EC	source_node_name	target_node_name
+2-isopropylmalate synthase	2.3.3.13	3-Methyl-2-oxobutanoic acid	alpha-Isopropylmalate
+3-isopropylmalate dehydrogenase	1.1.1.85	(2R,3S)-3-Isopropylmalate	(2S)-2-Isopropyl-3-oxosuccinate
+3-isopropylmalate dehydrogenase	1.1.1.85	(2S)-2-Isopropyl-3-oxosuccinate	(2R,3S)-3-Isopropylmalate
+3-isopropylmalate dehydrogenase	1.1.1.85	D-erythro-3-Methylmalate	2-Oxobutanoate
+3-isopropylmalate/(R)-2-methylmalate dehydratase large subunit	4.2.1.33 4.2.1.35	(2R,3S)-3-Isopropylmalate	2-Isopropylmaleate
+3-isopropylmalate/(R)-2-methylmalate dehydratase large subunit	4.2.1.33 4.2.1.35	(R)-2-Methylmalate	2-Methylmaleate
+3-isopropylmalate/(R)-2-methylmalate dehydratase large subunit	4.2.1.33 4.2.1.35	2-Isopropylmaleate	(2R,3S)-3-Isopropylmalate
+3-isopropylmalate/(R)-2-methylmalate dehydratase large subunit	4.2.1.33 4.2.1.35	2-Isopropylmaleate	alpha-Isopropylmalate
+3-isopropylmalate/(R)-2-methylmalate dehydratase large subunit	4.2.1.33 4.2.1.35	2-Methylmaleate	D-erythro-3-Methylmalate
+3-isopropylmalate/(R)-2-methylmalate dehydratase large subunit	4.2.1.33 4.2.1.35	alpha-Isopropylmalate	2-Isopropylmaleate
+acetolactate synthase I/II/III large subunit	2.2.1.6	2-Oxobutanoate	(S)-2-Aceto-2-hydroxybutanoate
+acetolactate synthase I/II/III large subunit	2.2.1.6	Pyruvate	(S)-2-Aceto-2-hydroxybutanoate
+acetolactate synthase I/II/III large subunit	2.2.1.6	Pyruvate	(S)-2-Acetolactate
+alanine-synthesizing transaminase	2.6.1.66 2.6.1.2	3-Methyl-2-oxobutanoic acid	L-Valine
+alanine-synthesizing transaminase	2.6.1.66 2.6.1.2	L-Valine	3-Methyl-2-oxobutanoic acid
+branched-chain amino acid aminotransferase	2.6.1.42	(S)-3-Methyl-2-oxopentanoic acid	L-Isoleucine
+branched-chain amino acid aminotransferase	2.6.1.42	3-Methyl-2-oxobutanoic acid	L-Valine
+branched-chain amino acid aminotransferase	2.6.1.42	4-Methyl-2-oxopentanoate	L-Leucine
+branched-chain amino acid aminotransferase	2.6.1.42	L-Leucine	4-Methyl-2-oxopentanoate
+dihydroxy-acid dehydratase	4.2.1.9	(R)-2,3-Dihydroxy-3-methylbutanoate	3-Methyl-2-oxobutanoic acid
+dihydroxy-acid dehydratase	4.2.1.9	(R)-2,3-Dihydroxy-3-methylpentanoate	(S)-3-Methyl-2-oxopentanoic acid
+ketol-acid reductoisomerase	1.1.1.86	(R)-2,3-Dihydroxy-3-methylbutanoate	3-Hydroxy-3-methyl-2-oxobutanoic acid
+ketol-acid reductoisomerase	1.1.1.86	(R)-2,3-Dihydroxy-3-methylpentanoate	(R)-3-Hydroxy-3-methyl-2-oxopentanoate
+ketol-acid reductoisomerase	1.1.1.86	(R)-3-Hydroxy-3-methyl-2-oxopentanoate	(R)-2,3-Dihydroxy-3-methylpentanoate
+ketol-acid reductoisomerase	1.1.1.86	(R)-3-Hydroxy-3-methyl-2-oxopentanoate	(S)-2-Aceto-2-hydroxybutanoate
+ketol-acid reductoisomerase	1.1.1.86	(S)-2-Aceto-2-hydroxybutanoate	(R)-3-Hydroxy-3-methyl-2-oxopentanoate
+ketol-acid reductoisomerase	1.1.1.86	(S)-2-Acetolactate	3-Hydroxy-3-methyl-2-oxobutanoic acid
+ketol-acid reductoisomerase	1.1.1.86	3-Hydroxy-3-methyl-2-oxobutanoic acid	(R)-2,3-Dihydroxy-3-methylbutanoate
+ketol-acid reductoisomerase	1.1.1.86	3-Hydroxy-3-methyl-2-oxobutanoic acid	(S)-2-Acetolactate
+threonine dehydratase	4.3.1.19	L-Threonine	2-Oxobutanoate

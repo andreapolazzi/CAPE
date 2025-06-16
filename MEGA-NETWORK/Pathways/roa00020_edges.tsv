@@ -1,0 +1,52 @@
+enzyme_name	EC	source_node_name	target_node_name
+2-methylcitrate synthase	2.3.3.5	Acetyl-CoA	Citrate
+2-methylcitrate synthase	2.3.3.5	Citrate	Acetyl-CoA
+2-methylcitrate synthase	2.3.3.5	Citrate	Oxaloacetate
+2-methylcitrate synthase	2.3.3.5	Oxaloacetate	Citrate
+2-oxoglutarate/2-oxoacid ferredoxin oxidoreductase subunit beta	1.2.7.3 1.2.7.11	2-Oxoglutarate	Succinyl-CoA
+2-oxoglutarate/2-oxoacid ferredoxin oxidoreductase subunit beta	1.2.7.3 1.2.7.11	Pyruvate	Acetyl-CoA
+2-oxoglutarate/2-oxoacid ferredoxin oxidoreductase subunit beta	1.2.7.3 1.2.7.11	Succinyl-CoA	2-Oxoglutarate
+aconitate hydratase A / 2-methylisocitrate dehydratase	4.2.1.3 4.2.1.99	Citrate	cis-Aconitate
+aconitate hydratase A / 2-methylisocitrate dehydratase	4.2.1.3 4.2.1.99	Isocitrate	cis-Aconitate
+aconitate hydratase A / 2-methylisocitrate dehydratase	4.2.1.3 4.2.1.99	cis-Aconitate	Citrate
+aconitate hydratase A / 2-methylisocitrate dehydratase	4.2.1.3 4.2.1.99	cis-Aconitate	Isocitrate
+citrate synthase	2.3.3.1	Acetyl-CoA	Citrate
+citrate synthase	2.3.3.1	Citrate	Acetyl-CoA
+citrate synthase	2.3.3.1	Citrate	Oxaloacetate
+citrate synthase	2.3.3.1	Oxaloacetate	Citrate
+dihydrolipoyl dehydrogenase	1.8.1.4	Enzyme N6-(dihydrolipoyl)lysine	Enzyme N6-(lipoyl)lysine
+dihydrolipoyl dehydrogenase	1.8.1.4	Enzyme N6-(lipoyl)lysine	Enzyme N6-(dihydrolipoyl)lysine
+fumarate hydratase, class II	4.2.1.2	(S)-Malate	Fumarate
+fumarate hydratase, class II	4.2.1.2	Fumarate	(S)-Malate
+isocitrate dehydrogenase	1.1.1.42	2-Oxoglutarate	Oxalosuccinate
+isocitrate dehydrogenase	1.1.1.42	Isocitrate	Oxalosuccinate
+isocitrate dehydrogenase	1.1.1.42	Oxalosuccinate	2-Oxoglutarate
+isocitrate dehydrogenase	1.1.1.42	Oxalosuccinate	Isocitrate
+malate dehydrogenase	1.1.1.37	(S)-Malate	Oxaloacetate
+malate dehydrogenase	1.1.1.37	Oxaloacetate	(S)-Malate
+malate dehydrogenase (quinone)	1.1.5.4	(S)-Malate	Oxaloacetate
+multifunctional 2-oxoglutarate metabolism enzyme	2.2.1.5 4.1.1.71 1.2.4.2 2.3.1.61	2-Oxoglutarate	3-Carboxy-1-hydroxypropyl-ThPP
+multifunctional 2-oxoglutarate metabolism enzyme	2.2.1.5 4.1.1.71 1.2.4.2 2.3.1.61	3-Carboxy-1-hydroxypropyl-ThPP	S-succinyldihydrolipoyllysine
+multifunctional 2-oxoglutarate metabolism enzyme	2.2.1.5 4.1.1.71 1.2.4.2 2.3.1.61	3-Carboxy-1-hydroxypropyl-ThPP	Thiamin diphosphate
+multifunctional 2-oxoglutarate metabolism enzyme	2.2.1.5 4.1.1.71 1.2.4.2 2.3.1.61	Enzyme N6-(dihydrolipoyl)lysine	S-succinyldihydrolipoyllysine
+multifunctional 2-oxoglutarate metabolism enzyme	2.2.1.5 4.1.1.71 1.2.4.2 2.3.1.61	Enzyme N6-(lipoyl)lysine	S-succinyldihydrolipoyllysine
+multifunctional 2-oxoglutarate metabolism enzyme	2.2.1.5 4.1.1.71 1.2.4.2 2.3.1.61	Enzyme N6-(lipoyl)lysine	Thiamin diphosphate
+multifunctional 2-oxoglutarate metabolism enzyme	2.2.1.5 4.1.1.71 1.2.4.2 2.3.1.61	S-succinyldihydrolipoyllysine	Enzyme N6-(dihydrolipoyl)lysine
+multifunctional 2-oxoglutarate metabolism enzyme	2.2.1.5 4.1.1.71 1.2.4.2 2.3.1.61	S-succinyldihydrolipoyllysine	Succinyl-CoA
+multifunctional 2-oxoglutarate metabolism enzyme	2.2.1.5 4.1.1.71 1.2.4.2 2.3.1.61	Succinyl-CoA	S-succinyldihydrolipoyllysine
+multifunctional 2-oxoglutarate metabolism enzyme	2.2.1.5 4.1.1.71 1.2.4.2 2.3.1.61	Thiamin diphosphate	3-Carboxy-1-hydroxypropyl-ThPP
+pyruvate carboxylase	6.4.1.1	Pyruvate	Oxaloacetate
+pyruvate dehydrogenase E1 component	1.2.4.1	2-(alpha-Hydroxyethyl)thiamine diphosphate	S-acetyldihydrolipoyllysine
+pyruvate dehydrogenase E1 component	1.2.4.1	2-(alpha-Hydroxyethyl)thiamine diphosphate	Thiamin diphosphate
+pyruvate dehydrogenase E1 component	1.2.4.1	Enzyme N6-(lipoyl)lysine	S-acetyldihydrolipoyllysine
+pyruvate dehydrogenase E1 component	1.2.4.1	Enzyme N6-(lipoyl)lysine	Thiamin diphosphate
+pyruvate dehydrogenase E1 component	1.2.4.1	Pyruvate	2-(alpha-Hydroxyethyl)thiamine diphosphate
+pyruvate dehydrogenase E1 component	1.2.4.1	Thiamin diphosphate	2-(alpha-Hydroxyethyl)thiamine diphosphate
+pyruvate dehydrogenase E2 component (dihydrolipoyllysine-residue acetyltransferase)	2.3.1.12	Acetyl-CoA	S-acetyldihydrolipoyllysine
+pyruvate dehydrogenase E2 component (dihydrolipoyllysine-residue acetyltransferase)	2.3.1.12	Enzyme N6-(dihydrolipoyl)lysine	S-acetyldihydrolipoyllysine
+pyruvate dehydrogenase E2 component (dihydrolipoyllysine-residue acetyltransferase)	2.3.1.12	S-acetyldihydrolipoyllysine	Acetyl-CoA
+pyruvate dehydrogenase E2 component (dihydrolipoyllysine-residue acetyltransferase)	2.3.1.12	S-acetyldihydrolipoyllysine	Enzyme N6-(dihydrolipoyl)lysine
+succinate dehydrogenase iron-sulfur subunit	1.3.5.1	Fumarate	Succinate
+succinate dehydrogenase iron-sulfur subunit	1.3.5.1	Succinate	Fumarate
+succinyl-CoA synthetase beta subunit	6.2.1.5	Succinate	Succinyl-CoA
+succinyl-CoA synthetase beta subunit	6.2.1.5	Succinyl-CoA	Succinate

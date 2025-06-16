@@ -1,0 +1,15 @@
+enzyme_name	EC	source_node_name	target_node_name
+2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-succinyltransferase	2.3.1.117	2,3,4,5-Tetrahydrodipicolinate	N-Succinyl-2-L-amino-6-oxoheptanedioate
+2-aminoadipate transaminase	2.6.1.-	2-Oxoadipate	L-2-Aminoadipate
+2-aminoadipate transaminase	2.6.1.-	L-2-Aminoadipate	2-Oxoadipate
+4-hydroxy-tetrahydrodipicolinate synthase	4.3.3.7	L-Aspartate 4-semialdehyde	(2S,4S)-4-Hydroxy-2,3,4,5-tetrahydrodipicolinate
+N-succinyldiaminopimelate aminotransferase	2.6.1.17	N-Succinyl-2-L-amino-6-oxoheptanedioate	N-Succinyl-LL-2,6-diaminoheptanedioate
+N-succinyldiaminopimelate aminotransferase	2.6.1.17	N-Succinyl-LL-2,6-diaminoheptanedioate	N-Succinyl-2-L-amino-6-oxoheptanedioate
+UDP-N-acetylmuramoyl-L-alanyl-D-glutamate--2,6-diaminopimelate ligase	6.3.2.13	meso-2,6-Diaminoheptanedioate	UDP-N-acetylmuramoyl-L-alanyl-gamma-D-glutamyl-meso-2,6-diaminopimelate
+UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase	6.3.2.10	UDP-N-acetylmuramoyl-L-alanyl-gamma-D-glutamyl-meso-2,6-diaminopimelate	UDP-N-acetylmuramoyl-L-alanyl-D-glutamyl-6-carboxy-L-lysyl-D-alanyl-D-alanine
+aspartate kinase	2.7.2.4	L-Aspartate	4-Phospho-L-aspartate
+aspartate-semialdehyde dehydrogenase	1.2.1.11	4-Phospho-L-aspartate	L-Aspartate 4-semialdehyde
+diaminopimelate decarboxylase	4.1.1.20	meso-2,6-Diaminoheptanedioate	L-Lysine
+diaminopimelate epimerase	5.1.1.7	LL-2,6-Diaminoheptanedioate	meso-2,6-Diaminoheptanedioate
+diaminopimelate epimerase	5.1.1.7	meso-2,6-Diaminoheptanedioate	LL-2,6-Diaminoheptanedioate
+succinyl-diaminopimelate desuccinylase	3.5.1.18	N-Succinyl-LL-2,6-diaminoheptanedioate	LL-2,6-Diaminoheptanedioate

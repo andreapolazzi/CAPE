@@ -1,0 +1,41 @@
+enzyme_name	EC	source_node_name	target_node_name
+2,3-dihydroxyphenylpropionate 1,2-dioxygenase	1.13.11.16	3-(2,3-Dihydroxyphenyl)propanoate	2-Hydroxy-6-oxonona-2,4-diene-1,9-dioate
+2,3-dihydroxyphenylpropionate 1,2-dioxygenase	1.13.11.16	trans-2,3-Dihydroxycinnamate	2-Hydroxy-6-ketononatrienedioate
+2-(1,2-epoxy-1,2-dihydrophenyl)acetyl-CoA isomerase	5.3.3.18	2-(1,2-Epoxy-1,2-dihydrophenyl)acetyl-CoA	2-Oxepin-2(3H)-ylideneacetyl-CoA
+2-(1,2-epoxy-1,2-dihydrophenyl)acetyl-CoA isomerase	5.3.3.18	3-Oxo-5,6-dehydrosuberyl-CoA	5-Carboxy-2-pentenoyl-CoA
+2-(1,2-epoxy-1,2-dihydrophenyl)acetyl-CoA isomerase	5.3.3.18	3-Oxo-5,6-dehydrosuberyl-CoA	Acetyl-CoA
+2-hydroxy-6-oxonona-2,4-dienedioate hydrolase	3.7.1.14	2-Hydroxy-6-ketononatrienedioate	2-Hydroxy-2,4-pentadienoate
+2-hydroxy-6-oxonona-2,4-dienedioate hydrolase	3.7.1.14	2-Hydroxy-6-ketononatrienedioate	Fumarate
+2-hydroxy-6-oxonona-2,4-dienedioate hydrolase	3.7.1.14	2-Hydroxy-6-oxonona-2,4-diene-1,9-dioate	2-Hydroxy-2,4-pentadienoate
+2-hydroxy-6-oxonona-2,4-dienedioate hydrolase	3.7.1.14	2-Hydroxy-6-oxonona-2,4-diene-1,9-dioate	Succinate
+2-keto-4-pentenoate hydratase	4.2.1.80	2-Hydroxy-2,4-pentadienoate	4-Hydroxy-2-oxopentanoate
+3-(3-hydroxy-phenyl)propionate hydroxylase	1.14.13.127	3-(3-Hydroxyphenyl)propanoic acid	3-(2,3-Dihydroxyphenyl)propanoate
+3-(3-hydroxy-phenyl)propionate hydroxylase	1.14.13.127	trans-3-Hydroxycinnamate	trans-2,3-Dihydroxycinnamate
+3-hydroxybutyryl-CoA dehydrogenase	1.1.1.157	(3S)-3-Hydroxyadipyl-CoA	3-Oxoadipyl-CoA
+3-phenylpropionate/trans-cinnamate dioxygenase ferredoxin reductase component	1.18.1.3	Phenylpropanoate	cis-3-(Carboxy-ethyl)-3,5-cyclo-hexadiene-1,2-diol
+3-phenylpropionate/trans-cinnamate dioxygenase ferredoxin reductase component	1.18.1.3	trans-Cinnamate	cis-3-(3-Carboxyethenyl)-3,5-cyclohexadiene-1,2-diol
+4-hydroxy 2-oxovalerate aldolase	4.1.3.39	Acetaldehyde	4-Hydroxy-2-oxopentanoate
+4-hydroxy 2-oxovalerate aldolase	4.1.3.39	Pyruvate	4-Hydroxy-2-oxopentanoate
+4-hydroxyphenylpyruvate dioxygenase	1.13.11.27	Phenylpyruvate	2-Hydroxyphenylacetate
+D-amino-acid dehydrogenase	1.4.5.1	D-Phenylalanine	Phenylpyruvate
+acetaldehyde dehydrogenase	1.2.1.10	Acetaldehyde	Acetyl-CoA
+acetaldehyde dehydrogenase	1.2.1.10	Acetyl-CoA	Acetaldehyde
+acyl-CoA thioesterase	3.1.2.-	Phenylacetyl-CoA	Phenylacetic acid
+aldehyde dehydrogenase (NAD(P)+)	1.2.1.5	Phenylacetaldehyde	Phenylacetic acid
+amidase	3.5.1.4	2-Phenylacetamide	Phenylacetic acid
+aryl-alcohol dehydrogenase	1.1.1.90	Phenylacetaldehyde	Phenylethyl alcohol
+aryl-alcohol dehydrogenase	1.1.1.90	Phenylethyl alcohol	Phenylacetaldehyde
+aspartate aminotransferase	2.6.1.1	L-Phenylalanine	Phenylpyruvate
+aspartate aminotransferase	2.6.1.1	Phenylpyruvate	L-Phenylalanine
+catalase-peroxidase	1.11.1.21	L-Phenylalanine	2-Phenylacetamide
+enoyl-CoA hydratase	4.2.1.17	5-Carboxy-2-pentenoyl-CoA	(3S)-3-Hydroxyadipyl-CoA
+histidinol-phosphate aminotransferase	2.6.1.9	L-Phenylalanine	Phenylpyruvate
+histidinol-phosphate aminotransferase	2.6.1.9	Phenylpyruvate	L-Phenylalanine
+monoamine oxidase	1.4.3.4	Phenethylamine	Phenylacetaldehyde
+monoamine oxidase	1.4.3.4	Phenylacetaldehyde	Phenethylamine
+oxepin-CoA hydrolase / 3-oxo-5,6-dehydrosuberyl-CoA semialdehyde dehydrogenase	3.3.2.12 1.2.1.91	2-Oxepin-2(3H)-ylideneacetyl-CoA	3-Oxo-5,6-dehydrosuberyl-CoA semialdehyde
+oxepin-CoA hydrolase / 3-oxo-5,6-dehydrosuberyl-CoA semialdehyde dehydrogenase	3.3.2.12 1.2.1.91	3-Oxo-5,6-dehydrosuberyl-CoA semialdehyde	3-Oxo-5,6-dehydrosuberyl-CoA
+phenylacetaldehyde dehydrogenase	1.2.1.39	Phenylacetaldehyde	Phenylacetic acid
+phenylacetate-CoA ligase	6.2.1.30	Phenylacetic acid	Phenylacetyl-CoA
+primary-amine oxidase	1.4.3.21	Phenethylamine	Phenylacetaldehyde
+primary-amine oxidase	1.4.3.21	Phenylacetaldehyde	Phenethylamine

@@ -1,0 +1,4 @@
+enzyme_name	EC	source_node_name	target_node_name
+alcohol-forming fatty acyl-CoA reductase	1.2.1.84	Long-chain acyl-CoA	Primary alcohol
+diacylglycerol O-acyltransferase / wax synthase	2.3.1.20 2.3.1.75	Long-chain acyl-CoA	Wax ester
+diacylglycerol O-acyltransferase / wax synthase	2.3.1.20 2.3.1.75	Primary alcohol	Wax ester
