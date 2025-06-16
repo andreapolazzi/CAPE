@@ -1,0 +1,54 @@
+enzyme_name	EC	source_node_name	target_node_name
+5-formyltetrahydrofolate cyclo-ligase	6.3.3.2	Folinic acid	5,10-Methenyltetrahydrofolate
+5-methyltetrahydrofolate--homocysteine methyltransferase	2.1.1.13	5-Methyltetrahydrofolate	L-Methionine
+5-methyltetrahydrofolate--homocysteine methyltransferase	2.1.1.13	5-Methyltetrahydrofolate	Tetrahydrofolate
+5-methyltetrahydrofolate--homocysteine methyltransferase	2.1.1.13	L-Homocysteine	L-Methionine
+5-methyltetrahydrofolate--homocysteine methyltransferase	2.1.1.13	L-Homocysteine	Tetrahydrofolate
+5-methyltetrahydrofolate--homocysteine methyltransferase	2.1.1.13	Tetrahydrofolate	5-Methyltetrahydrofolate
+S-adenosylmethionine synthetase	2.5.1.6	ATP	S-Adenosyl-L-methionine
+S-adenosylmethionine synthetase	2.5.1.6	L-Methionine	S-Adenosyl-L-methionine
+adenosylhomocysteinase	3.13.2.1	S-Adenosyl-L-homocysteine	Adenosine
+adenosylhomocysteinase	3.13.2.1	S-Adenosyl-L-homocysteine	L-Homocysteine
+choline oxidase	1.1.3.17	Betaine aldehyde	Betaine
+choline oxidase	1.1.3.17	Choline	Betaine aldehyde
+cystathionine beta-synthase	4.2.1.22	L-Homocysteine	L-Cystathionine
+cystathionine beta-synthase	4.2.1.22	L-Serine	L-Cystathionine
+cystathionine gamma-lyase	4.4.1.1	L-Cystathionine	L-Cysteine
+dihydrolipoyl dehydrogenase	1.8.1.4	Glycine	5,10-Methylenetetrahydrofolate
+dihydrolipoyl dehydrogenase	1.8.1.4	Tetrahydrofolate	5,10-Methylenetetrahydrofolate
+dimethylglycine oxidase	1.5.3.10	N,N-Dimethylglycine	5,10-Methylenetetrahydrofolate
+dimethylglycine oxidase	1.5.3.10	N,N-Dimethylglycine	Sarcosine
+dimethylglycine oxidase	1.5.3.10	Tetrahydrofolate	5,10-Methylenetetrahydrofolate
+dimethylglycine oxidase	1.5.3.10	Tetrahydrofolate	Sarcosine
+formyltetrahydrofolate deformylase	3.5.1.10	10-Formyltetrahydrofolate	Tetrahydrofolate
+glycine cleavage system T protein (aminomethyltransferase)	2.1.2.10	5,10-Methenyltetrahydrofolate	Folinic acid
+glycine cleavage system T protein (aminomethyltransferase)	2.1.2.10	5,10-Methylenetetrahydrofolate	Tetrahydrofolate
+glycine cleavage system T protein (aminomethyltransferase)	2.1.2.10	Tetrahydrofolate	5,10-Methylenetetrahydrofolate
+glycine hydroxymethyltransferase	2.1.2.1	5,10-Methylenetetrahydrofolate	L-Serine
+glycine hydroxymethyltransferase	2.1.2.1	5,10-Methylenetetrahydrofolate	Tetrahydrofolate
+glycine hydroxymethyltransferase	2.1.2.1	Glycine	L-Serine
+glycine hydroxymethyltransferase	2.1.2.1	Glycine	Tetrahydrofolate
+glycine hydroxymethyltransferase	2.1.2.1	L-Serine	5,10-Methylenetetrahydrofolate
+glycine hydroxymethyltransferase	2.1.2.1	L-Serine	Glycine
+glycine hydroxymethyltransferase	2.1.2.1	Tetrahydrofolate	5,10-Methylenetetrahydrofolate
+glycine hydroxymethyltransferase	2.1.2.1	Tetrahydrofolate	Glycine
+methylenetetrahydrofolate dehydrogenase (NADP+) / methenyltetrahydrofolate cyclohydrolase	1.5.1.5 3.5.4.9	10-Formyltetrahydrofolate	5,10-Methenyltetrahydrofolate
+methylenetetrahydrofolate dehydrogenase (NADP+) / methenyltetrahydrofolate cyclohydrolase	1.5.1.5 3.5.4.9	5,10-Methenyltetrahydrofolate	10-Formyltetrahydrofolate
+methylenetetrahydrofolate dehydrogenase (NADP+) / methenyltetrahydrofolate cyclohydrolase	1.5.1.5 3.5.4.9	5,10-Methenyltetrahydrofolate	5,10-Methylenetetrahydrofolate
+methylenetetrahydrofolate dehydrogenase (NADP+) / methenyltetrahydrofolate cyclohydrolase	1.5.1.5 3.5.4.9	5,10-Methylenetetrahydrofolate	5,10-Methenyltetrahydrofolate
+methylenetetrahydrofolate reductase (NADH)	1.5.1.54	5,10-Methylenetetrahydrofolate	5-Methyltetrahydrofolate
+phosphoribosylaminoimidazolecarboxamide formyltransferase / IMP cyclohydrolase	2.1.2.3 3.5.4.10	10-Formyltetrahydrofolate	Tetrahydrofolate
+phosphoribosylaminoimidazolecarboxamide formyltransferase / IMP cyclohydrolase	2.1.2.3 3.5.4.10	Tetrahydrofolate	10-Formyltetrahydrofolate
+phosphoribosylglycinamide formyltransferase 1	2.1.2.2	10-Formyltetrahydrofolate	Tetrahydrofolate
+phosphoribosylglycinamide formyltransferase 1	2.1.2.2	5,10-Methenyltetrahydrofolate	Tetrahydrofolate
+phosphoribosylglycinamide formyltransferase 1	2.1.2.2	Tetrahydrofolate	10-Formyltetrahydrofolate
+thymidylate synthase	2.1.1.45	5,10-Methylenetetrahydrofolate	Dihydrofolate
+thymidylate synthase	2.1.1.45	5,10-Methylenetetrahydrofolate	dTMP
+thymidylate synthase	2.1.1.45	Dihydrofolate	5,10-Methylenetetrahydrofolate
+thymidylate synthase	2.1.1.45	Dihydrofolate	dUMP
+thymidylate synthase	2.1.1.45	dTMP	5,10-Methylenetetrahydrofolate
+thymidylate synthase	2.1.1.45	dTMP	dUMP
+thymidylate synthase	2.1.1.45	dUMP	Dihydrofolate
+thymidylate synthase	2.1.1.45	dUMP	dTMP
+thymidylate synthase (FAD)	2.1.1.148	5,10-Methylenetetrahydrofolate	Tetrahydrofolate
+thymidylate synthase (FAD)	2.1.1.148	Tetrahydrofolate	5,10-Methylenetetrahydrofolate

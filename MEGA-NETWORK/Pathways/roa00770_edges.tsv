@@ -1,0 +1,29 @@
+enzyme_name	EC	source_node_name	target_node_name
+2-dehydropantoate 2-reductase	1.1.1.169	(R)-Pantoate	2-Dehydropantoate
+2-dehydropantoate 2-reductase	1.1.1.169	2-Dehydropantoate	(R)-Pantoate
+3-methyl-2-oxobutanoate hydroxymethyltransferase	2.1.2.11	3-Methyl-2-oxobutanoic acid	2-Dehydropantoate
+acetolactate synthase I/II/III large subunit	2.2.1.6	Pyruvate	(S)-2-Acetolactate
+aldehyde dehydrogenase (NAD+)	1.2.1.3	3-Aminopropanal	beta-Alanine
+aspartate 1-decarboxylase	4.1.1.11	L-Aspartate	beta-Alanine
+beta-ureidopropionase / N-carbamoyl-L-amino-acid hydrolase	3.5.1.6 3.5.1.87	3-Ureidopropionate	beta-Alanine
+branched-chain amino acid aminotransferase	2.6.1.42	3-Methyl-2-oxobutanoic acid	L-Valine
+branched-chain amino acid aminotransferase	2.6.1.42	L-Valine	3-Methyl-2-oxobutanoic acid
+dephospho-CoA kinase	2.7.1.24	Dephospho-CoA	CoA
+dihydroxy-acid dehydratase	4.2.1.9	(R)-2,3-Dihydroxy-3-methylbutanoate	3-Methyl-2-oxobutanoic acid
+holo-[acyl-carrier protein] synthase	2.7.8.7	Apo-[acyl-carrier protein]	Acyl-carrier protein
+holo-[acyl-carrier protein] synthase	2.7.8.7	Apo-[acyl-carrier protein]	Adenosine 3',5'-bisphosphate
+holo-[acyl-carrier protein] synthase	2.7.8.7	CoA	Acyl-carrier protein
+holo-[acyl-carrier protein] synthase	2.7.8.7	CoA	Adenosine 3',5'-bisphosphate
+ketol-acid reductoisomerase	1.1.1.86	(S)-2-Acetolactate	(R)-2,3-Dihydroxy-3-methylbutanoate
+nucleoside triphosphate diphosphatase	3.6.1.9	Dephospho-CoA	Pantetheine 4'-phosphate
+nucleoside triphosphate diphosphatase	3.6.1.9	Pantetheine 4'-phosphate	Dephospho-CoA
+pantetheine-phosphate adenylyltransferase	2.7.7.3	Dephospho-CoA	Pantetheine 4'-phosphate
+pantetheine-phosphate adenylyltransferase	2.7.7.3	Pantetheine 4'-phosphate	Dephospho-CoA
+pantoate--beta-alanine ligase	6.3.2.1	(R)-Pantoate	Pantothenate
+pantoate--beta-alanine ligase	6.3.2.1	beta-Alanine	Pantothenate
+phosphopantothenoylcysteine decarboxylase / phosphopantothenate---cysteine ligase	4.1.1.36 6.3.2.5	(R)-4'-Phosphopantothenoyl-L-cysteine	Pantetheine 4'-phosphate
+phosphopantothenoylcysteine decarboxylase / phosphopantothenate---cysteine ligase	4.1.1.36 6.3.2.5	D-4'-Phosphopantothenate	(R)-4'-Phosphopantothenoyl-L-cysteine
+phosphopantothenoylcysteine decarboxylase / phosphopantothenate---cysteine ligase	4.1.1.36 6.3.2.5	L-Cysteine	(R)-4'-Phosphopantothenoyl-L-cysteine
+type III pantothenate kinase	2.7.1.33	N-((R)-Pantothenoyl)-L-cysteine	(R)-4'-Phosphopantothenoyl-L-cysteine
+type III pantothenate kinase	2.7.1.33	Pantetheine	Pantetheine 4'-phosphate
+type III pantothenate kinase	2.7.1.33	Pantothenate	D-4'-Phosphopantothenate
