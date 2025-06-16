@@ -72,6 +72,7 @@ def get_ec_from_gene(gene_ref: str) -> tuple[str, str]:
         return gene_ref, ''
     # KO → enzyme name and EC
     name = ko_ref
+    ec = ''
     try:
         r2 = requests.get(f'https://rest.kegg.jp/get/{ko_ref}', timeout=10)
         r2.raise_for_status()
@@ -85,8 +86,6 @@ def get_ec_from_gene(gene_ref: str) -> tuple[str, str]:
     enzymes_cache[gene_ref] = (name, ec)
     return name, ec
 
-    enzymes_cache[gene_ref] = (name, ec)
-    return name, ec
 
 def parse_kgml_to_tsv(kgml_file: str) -> None:
     tree = ET.parse(kgml_file)
@@ -111,13 +110,21 @@ def parse_kgml_to_tsv(kgml_file: str) -> None:
     # Map reactions to enzymes via KO
     reaction2enz: dict[str, list[str]] = {}
     enzyme_info: dict[str, tuple[str, str]] = {}
-    for eid, info in entries.items():
-        if info['type'] == 'gene':
-            gene_ref = info['id2'].split()[0]
-            enz_name, ec = get_ec_from_gene(gene_ref)
-            enzyme_info[gene_ref] = (enz_name, ec)
-            for rid in info['reactions']:
-                reaction2enz.setdefault(rid, []).append(gene_ref)
+    missing_ec_file = "missing_ecs.txt"
+    with open(missing_ec_file, 'a') as missing_log:
+        for eid, info in entries.items():
+            if info['type'] == 'gene':
+                gene_ref = info['id2'].split()[0]
+                enz_name, ec = get_ec_from_gene(gene_ref)
+
+                if ec:  # EC number is present
+                    enzyme_info[gene_ref] = (enz_name, ec)
+                    for rid in info['reactions']:
+                        reaction2enz.setdefault(rid, []).append(gene_ref)
+                else:
+                    print(f"Skipping gene {gene_ref}: no EC number found")
+                    missing_log.write(f"{gene_ref}\tfrom pathway {path_code}\n")
+
 
     # Store compounds' names and InChI codes
     compound_entries: dict[str, tuple[str, str]] = {}
