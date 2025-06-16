@@ -1,0 +1,106 @@
+enzyme_name	EC	source_node_name	target_node_name
+5'-nucleotidase	3.1.3.5	2'-Deoxyinosine 5'-phosphate	Deoxyinosine
+5'-nucleotidase	3.1.3.5	AMP	Adenosine
+5'-nucleotidase	3.1.3.5	CMP	Cytidine
+5'-nucleotidase	3.1.3.5	GMP	Guanosine
+5'-nucleotidase	3.1.3.5	IMP	Inosine
+5'-nucleotidase	3.1.3.5	UMP	Uridine
+5'-nucleotidase	3.1.3.5	Xanthosine 5'-phosphate	Xanthosine
+5'-nucleotidase	3.1.3.5	dAMP	Deoxyadenosine
+5'-nucleotidase	3.1.3.5	dCMP	Deoxycytidine
+5'-nucleotidase	3.1.3.5	dGMP	Deoxyguanosine
+5'-nucleotidase	3.1.3.5	dTMP	Thymidine
+5'-nucleotidase	3.1.3.5	dUMP	Deoxyuridine
+CMP/dCMP kinase	2.7.4.25	CDP	CMP
+CMP/dCMP kinase	2.7.4.25	CMP	CDP
+CMP/dCMP kinase	2.7.4.25	dCDP	dCMP
+CMP/dCMP kinase	2.7.4.25	dCMP	dCDP
+GMP reductase	1.7.1.7	GMP	IMP
+IMP dehydrogenase	1.1.1.205	IMP	Xanthosine 5'-phosphate
+XTP/dITP diphosphohydrolase	3.6.1.66	ITP	IMP
+XTP/dITP diphosphohydrolase	3.6.1.66	XTP	Xanthosine 5'-phosphate
+XTP/dITP diphosphohydrolase	3.6.1.66	dITP	2'-Deoxyinosine 5'-phosphate
+adenine deaminase	3.5.4.2	Adenine	Hypoxanthine
+adenine phosphoribosyltransferase	2.4.2.7	AMP	Adenine
+adenine phosphoribosyltransferase	2.4.2.7	Adenine	AMP
+adenosine deaminase	3.5.4.4	Adenosine	Inosine
+adenosine deaminase	3.5.4.4	Deoxyadenosine	Deoxyinosine
+adenosine kinase	2.7.1.20	AMP	Adenosine
+adenosine kinase	2.7.1.20	Adenosine	AMP
+adenylate kinase	2.7.4.3	dADP	dAMP
+adenylate kinase	2.7.4.3	dAMP	dADP
+adenylosuccinate lyase	4.3.2.2	N6-(1,2-Dicarboxyethyl)-AMP	AMP
+adenylosuccinate synthase	6.3.4.4	IMP	N6-(1,2-Dicarboxyethyl)-AMP
+cytidine deaminase	3.5.4.5	Cytidine	Uridine
+cytidine deaminase	3.5.4.5	Deoxycytidine	Deoxyuridine
+cytosine/creatinine deaminase	3.5.4.1 3.5.4.21	Cytosine	Uracil
+dCTP deaminase	3.5.4.13	dCTP	dUTP
+dGTPase	3.1.5.1	dGTP	Deoxyguanosine
+dTMP kinase	2.7.4.9	dTMP	dTDP
+dTMP kinase	2.7.4.9	dUMP	dUDP
+dUTP diphosphatase	3.6.1.23	dUTP	dUMP
+guanine deaminase	3.5.4.3	Guanine	Xanthine
+guanylate kinase	2.7.4.8	GDP	GMP
+guanylate kinase	2.7.4.8	GMP	GDP
+guanylate kinase	2.7.4.8	dGDP	dGMP
+guanylate kinase	2.7.4.8	dGMP	dGDP
+hypoxanthine phosphoribosyltransferase	2.4.2.8	Guanine	GMP
+hypoxanthine phosphoribosyltransferase	2.4.2.8	Hypoxanthine	IMP
+hypoxanthine phosphoribosyltransferase	2.4.2.8	Xanthine	Xanthosine 5'-phosphate
+nucleoside triphosphate diphosphatase	3.6.1.9	ATP	AMP
+nucleoside triphosphate diphosphatase	3.6.1.9	CTP	CMP
+nucleoside triphosphate diphosphatase	3.6.1.9	GTP	GMP
+nucleoside triphosphate diphosphatase	3.6.1.9	UTP	UMP
+nucleoside triphosphate diphosphatase	3.6.1.9	dTTP	dTMP
+nucleoside-diphosphate kinase	2.7.4.6	ADP	ATP
+nucleoside-diphosphate kinase	2.7.4.6	ATP	ADP
+nucleoside-diphosphate kinase	2.7.4.6	CDP	CTP
+nucleoside-diphosphate kinase	2.7.4.6	CTP	CDP
+nucleoside-diphosphate kinase	2.7.4.6	GDP	GTP
+nucleoside-diphosphate kinase	2.7.4.6	GTP	GDP
+nucleoside-diphosphate kinase	2.7.4.6	IDP	ITP
+nucleoside-diphosphate kinase	2.7.4.6	ITP	IDP
+nucleoside-diphosphate kinase	2.7.4.6	UDP	UTP
+nucleoside-diphosphate kinase	2.7.4.6	UTP	UDP
+nucleoside-diphosphate kinase	2.7.4.6	dADP	dATP
+nucleoside-diphosphate kinase	2.7.4.6	dATP	dADP
+nucleoside-diphosphate kinase	2.7.4.6	dCDP	dCTP
+nucleoside-diphosphate kinase	2.7.4.6	dCTP	dCDP
+nucleoside-diphosphate kinase	2.7.4.6	dGDP	dGTP
+nucleoside-diphosphate kinase	2.7.4.6	dGTP	dGDP
+nucleoside-diphosphate kinase	2.7.4.6	dIDP	dITP
+nucleoside-diphosphate kinase	2.7.4.6	dITP	dIDP
+nucleoside-diphosphate kinase	2.7.4.6	dTDP	dTTP
+nucleoside-diphosphate kinase	2.7.4.6	dTTP	dTDP
+nucleoside-diphosphate kinase	2.7.4.6	dUDP	dUTP
+nucleoside-diphosphate kinase	2.7.4.6	dUTP	dUDP
+purine nucleosidase	3.2.2.1	Adenosine	Adenine
+purine nucleosidase	3.2.2.1	Guanosine	Guanine
+purine nucleosidase	3.2.2.1	Inosine	Hypoxanthine
+purine nucleosidase	3.2.2.1	Xanthosine	Xanthine
+purine-nucleoside phosphorylase	2.4.2.1	Adenine	Adenosine
+purine-nucleoside phosphorylase	2.4.2.1	Adenine	Deoxyadenosine
+purine-nucleoside phosphorylase	2.4.2.1	Adenosine	Adenine
+purine-nucleoside phosphorylase	2.4.2.1	Deoxyadenosine	Adenine
+purine-nucleoside phosphorylase	2.4.2.1	Deoxyguanosine	Guanine
+purine-nucleoside phosphorylase	2.4.2.1	Deoxyinosine	Hypoxanthine
+purine-nucleoside phosphorylase	2.4.2.1	Guanine	Deoxyguanosine
+purine-nucleoside phosphorylase	2.4.2.1	Guanine	Guanosine
+purine-nucleoside phosphorylase	2.4.2.1	Guanosine	Guanine
+purine-nucleoside phosphorylase	2.4.2.1	Hypoxanthine	Deoxyinosine
+purine-nucleoside phosphorylase	2.4.2.1	Hypoxanthine	Inosine
+purine-nucleoside phosphorylase	2.4.2.1	Inosine	Hypoxanthine
+purine-nucleoside phosphorylase	2.4.2.1	Xanthine	Xanthosine
+purine-nucleoside phosphorylase	2.4.2.1	Xanthosine	Xanthine
+ribonucleoside-diphosphate reductase beta chain	1.17.4.1	ADP	dADP
+ribonucleoside-diphosphate reductase beta chain	1.17.4.1	CDP	dCDP
+ribonucleoside-diphosphate reductase beta chain	1.17.4.1	GDP	dGDP
+ribonucleoside-diphosphate reductase beta chain	1.17.4.1	UDP	dUDP
+ribonucleoside-diphosphate reductase beta chain	1.17.4.1	dUDP	UDP
+thymidine phosphorylase	2.4.2.4	Deoxyuridine	Uracil
+thymidine phosphorylase	2.4.2.4	Thymidine	Thymine
+thymidine phosphorylase	2.4.2.4	Thymine	Thymidine
+thymidine phosphorylase	2.4.2.4	Uracil	Deoxyuridine
+uracil phosphoribosyltransferase	2.4.2.9	Uracil	UMP
+uridylate kinase	2.7.4.22	UDP	UMP
+uridylate kinase	2.7.4.22	UMP	UDP
