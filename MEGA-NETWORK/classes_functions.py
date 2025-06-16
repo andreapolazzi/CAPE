@@ -2,6 +2,7 @@ from __future__ import annotations
 from itertools import count
 import csv
 import heapq
+import dill
 
 class Node:
     nodes: dict[str, Node] = {}
@@ -10,7 +11,6 @@ class Node:
         self.inchi = inchi
         self.ingoing = ingoing
         self.outgoing = outgoing
-        self.g = g
         self.org = [g.org] if g.org else []
         self.pathway = [g.pathway] if g.pathway else []
         Node.nodes[name.lower()] = self
@@ -22,7 +22,6 @@ class Edge:
         self.ec = ec
         self.source = source
         self.target = target
-        self.g = g
         self.org = [g.org] if g.org else []
         self.pathway = [g.pathway] if g.pathway else []
         self.weight = weight
@@ -33,6 +32,7 @@ class Edge:
 
 class MetabolicGraph:
     graphs: list[MetabolicGraph] = []
+    mega: MetabolicGraph = None
     def __init__(self):
         self.nodes: dict[str, Node] = {}  # keyed by lowercase
         self.edges: dict[str, Edge] = {}
@@ -103,13 +103,27 @@ class MetabolicGraph:
                 mega.add_edge(enzyme=e.name, ec=e.ec, source_name=e.source.name,
                               target_name=e.target.name, source_inchi=e.source.inchi,
                               target_inchi=e.target.inchi, weight=e.weight)
+        cls.mega = mega
         return mega
 
+    def join2megaGraph(self) -> MetabolicGraph:
+        """Join a graph to the mega graph"""
+        if MetabolicGraph.mega is None:
+            MetabolicGraph.mega = MetabolicGraph()
+            MetabolicGraph.mega.org = 'MegaGraph'
+        mega = MetabolicGraph.mega
+        for n in self.nodes.values():
+            mega.add_node(n.name, n.inchi)
+        for e in self.edges.values():
+            mega.add_edge(enzyme=e.name, ec=e.ec,
+                source_name=e.source.name, target_name=e.target.name,
+                source_inchi=e.source.inchi, target_inchi=e.target.inchi,
+                weight=e.weight)
+        MetabolicGraph.mega = mega
+        return mega
 
     def dijkstra(self, start: str, goal: str) -> tuple[float, list[Node], list[str]]:
-        """
-        Returns (distance, path_nodes, path_ec_numbers) or (None, None, None) if unreachable.
-        """
+        """Returns (distance, path_nodes, path_ec_numbers) or (None, None, None) if unreachable."""
         try:
             start_node = self.nodes[start.lower()]
             goal_node  = self.nodes[goal.lower()]
@@ -164,14 +178,13 @@ class MetabolicGraph:
 
         return dist[goal_node], path_nodes, path_ecs
 
+    def save_graph_variable(self, filename='Pathways/graph_variable'):
+        with open(filename, 'wb') as f:
+            dill.dump(self, f, byref=True)
 
-
-'''# Example: load from TSV and run Dijkstra
-if __name__ == '__main__':
-    mg = MetabolicGraph.from_tsv('edges.tsv')
-    dist, path = mg.dijkstra('ethanol', 'acetyl-CoA')
-    if path is None:
-        print('No path exists')
-    else:
-        print(f'Distance: {dist}')
-        print('Path:', ' -> '.join(n.name for n in path))'''
+    @classmethod
+    def load_graph_variable(cls, filename='Pathways/graph_variable') -> MetabolicGraph:
+        with open(filename, 'rb') as f:
+            graph = dill.load(f)
+        cls.mega = graph
+        return graph
