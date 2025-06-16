@@ -1,0 +1,27 @@
+enzyme_name	EC	source_node_name	target_node_name
+5-oxoprolinase (ATP-hydrolysing) subunit A	3.5.2.9	5-Oxoproline	L-Glutamate
+6-phosphogluconate dehydrogenase	1.1.1.44 1.1.1.343	NADP+	NADPH
+aminopeptidase N	3.4.11.2	Cys-Gly	Glycine
+aminopeptidase N	3.4.11.2	Cys-Gly	L-Cysteine
+aminopeptidase N	3.4.11.2	R-S-Cysteinylglycine	Glycine
+aminopeptidase N	3.4.11.2	R-S-Cysteinylglycine	S-Substituted L-cysteine
+gamma-glutamyltranspeptidase / glutathione hydrolase	2.3.2.2 3.4.19.13	Glutathione	(5-L-Glutamyl)-L-amino acid
+gamma-glutamyltranspeptidase / glutathione hydrolase	2.3.2.2 3.4.19.13	Glutathione	Cys-Gly
+gamma-glutamyltranspeptidase / glutathione hydrolase	2.3.2.2 3.4.19.13	Glutathione	L-Glutamate
+gamma-glutamyltranspeptidase / glutathione hydrolase	2.3.2.2 3.4.19.13	L-Amino acid	(5-L-Glutamyl)-L-amino acid
+gamma-glutamyltranspeptidase / glutathione hydrolase	2.3.2.2 3.4.19.13	L-Amino acid	Cys-Gly
+gamma-glutamyltranspeptidase / glutathione hydrolase	2.3.2.2 3.4.19.13	R-S-Glutathione	L-Glutamate
+gamma-glutamyltranspeptidase / glutathione hydrolase	2.3.2.2 3.4.19.13	R-S-Glutathione	R-S-Cysteinylglycine
+glucose-6-phosphate 1-dehydrogenase	1.1.1.49 1.1.1.363	NADP+	NADPH
+glutamate---cysteine ligase / carboxylate-amine ligase	6.3.2.2 6.3.-.-	L-Cysteine	gamma-L-Glutamyl-L-cysteine
+glutamate---cysteine ligase / carboxylate-amine ligase	6.3.2.2 6.3.-.-	L-Glutamate	gamma-L-Glutamyl-L-cysteine
+glutathione peroxidase	1.11.1.9	Glutathione	Glutathione disulfide
+glutathione synthase	6.3.2.3	Glycine	Glutathione
+glutathione synthase	6.3.2.3	gamma-L-Glutamyl-L-cysteine	Glutathione
+isocitrate dehydrogenase	1.1.1.42	NADP+	NADPH
+leucyl aminopeptidase	3.4.11.1	Cys-Gly	Glycine
+leucyl aminopeptidase	3.4.11.1	Cys-Gly	L-Cysteine
+leucyl aminopeptidase	3.4.11.1	R-S-Cysteinylglycine	Glycine
+leucyl aminopeptidase	3.4.11.1	R-S-Cysteinylglycine	S-Substituted L-cysteine
+spermidine synthase	2.5.1.16	Cadaverine	Aminopropylcadaverine
+spermidine synthase	2.5.1.16	Putrescine	Spermidine

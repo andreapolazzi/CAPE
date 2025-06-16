@@ -1,0 +1,21 @@
+enzyme_name	EC	source_node_name	target_node_name
+1-acyl-sn-glycerol-3-phosphate acyltransferase	2.3.1.51	1-Acyl-sn-glycerol 3-phosphate	Phosphatidate
+CDP-diacylglycerol---glycerol-3-phosphate 3-phosphatidyltransferase	2.7.8.5	CDP-diacylglycerol	Phosphatidylglycerophosphate
+CDP-diacylglycerol---serine O-phosphatidyltransferase	2.7.8.8	CDP-diacylglycerol	Phosphatidylserine
+cardiolipin synthase (CMP-forming)	2.7.8.41	CDP-diacylglycerol	Cardiolipin
+cardiolipin synthase (CMP-forming)	2.7.8.41	Phosphatidylglycerol	Cardiolipin
+diacylglycerol kinase (ATP)	2.7.1.107	1,2-Diacyl-sn-glycerol	Phosphatidate
+ethanolamine ammonia-lyase large subunit	4.3.1.7	Acetaldehyde	Ethanolamine
+ethanolamine ammonia-lyase large subunit	4.3.1.7	Ethanolamine	Acetaldehyde
+glycerol-3-phosphate O-acyltransferase	2.3.1.15	sn-Glycerol 3-phosphate	1-Acyl-sn-glycerol 3-phosphate
+glycerol-3-phosphate dehydrogenase	1.1.5.3	Glycerone phosphate	sn-Glycerol 3-phosphate
+glycerol-3-phosphate dehydrogenase	1.1.5.3	sn-Glycerol 3-phosphate	Glycerone phosphate
+glycerophosphoryl diester phosphodiesterase	3.1.4.46	sn-Glycero-3-phosphocholine	Choline
+glycerophosphoryl diester phosphodiesterase	3.1.4.46	sn-Glycero-3-phosphocholine	sn-Glycerol 3-phosphate
+glycerophosphoryl diester phosphodiesterase	3.1.4.46	sn-Glycero-3-phosphoethanolamine	Ethanolamine
+glycerophosphoryl diester phosphodiesterase	3.1.4.46	sn-Glycero-3-phosphoethanolamine	sn-Glycerol 3-phosphate
+phosphatidate cytidylyltransferase	2.7.7.41	Phosphatidate	CDP-diacylglycerol
+phosphatidylserine decarboxylase	4.1.1.65	Phosphatidylserine	Phosphatidylethanolamine
+phospholipase C	3.1.4.3	Phosphatidylcholine	1,2-Diacyl-sn-glycerol
+phospholipase C	3.1.4.3	Phosphatidylethanolamine	1,2-Diacyl-sn-glycerol
+phospholipase C	3.1.4.3	Phosphatidylglycerol	1,2-Diacyl-sn-glycerol
