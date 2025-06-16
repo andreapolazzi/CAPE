@@ -1,0 +1,7 @@
+enzyme_name	EC	source_node_name	target_node_name
+alpha-galactosidase	3.2.1.22	Digalactosylceramide	Galactosylceramide
+alpha-galactosidase	3.2.1.22	alpha-D-Galactosyl-(1->4)-beta-D-galactosyl-(1->4)-beta-D-glucosyl-(1<->1)-ceramide	Lactosylceramide
+arylsulfatase	3.1.6.1	Sulfatide	Galactosylceramide
+neutral ceramidase	3.5.1.23	Dihydroceramide	Sphinganine
+neutral ceramidase	3.5.1.23	N-Acylsphingosine	Sphingosine
+neutral ceramidase	3.5.1.23	Phytoceramide	Phytosphingosine

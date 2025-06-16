@@ -1,0 +1,5 @@
+enzyme_name	EC	source_node_name	target_node_name
+2-(methylaminoethyl)phosphonate oxidase	1.5.3.27	2-Aminoethylphosphonate	Phosphonoacetaldehyde
+2-(methylaminoethyl)phosphonate oxidase	1.5.3.27	N-Monomethyl-2-aminoethylphosphonate	Phosphonoacetaldehyde
+alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase	3.6.1.63	alpha-D-Ribose 1-methylphosphonate 5-triphosphate	alpha-D-Ribose 1-methylphosphonate 5-phosphate
+alpha-D-ribose 1-methylphosphonate 5-triphosphate synthase subunit PhnL	2.7.8.37	Methylphosphonate	alpha-D-Ribose 1-methylphosphonate 5-triphosphate

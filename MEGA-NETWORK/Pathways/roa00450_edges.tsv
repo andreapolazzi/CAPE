@@ -1,0 +1,11 @@
+enzyme_name	EC	source_node_name	target_node_name
+5-methyltetrahydropteroyltriglutamate--homocysteine methyltransferase	2.1.1.14	Selenohomocysteine	L-Selenomethionine
+cystathionine gamma-lyase	4.4.1.1	L-Selenomethionine	Methaneselenol
+cystathionine gamma-lyase	4.4.1.1	Se-Methyl-L-selenocysteine	Methaneselenol
+cysteine desulfurase / selenocysteine lyase	2.8.1.7 4.4.1.16	L-Selenocysteine	Hydrogen selenide
+cysteine desulfurase / selenocysteine lyase	2.8.1.7 4.4.1.16	L-Selenocysteine	L-Alanine
+cysteine-S-conjugate beta-lyase	4.4.1.13	L-Selenocystathionine	Selenohomocysteine
+methionyl-tRNA synthetase	6.1.1.10	L-Selenomethionine	Selenomethionyl-tRNA(Met)
+sulfate adenylyltransferase subunit 2	2.7.7.4	Selenate	Adenylylselenate
+thioredoxin reductase (NADPH)	1.8.1.9	Methylselenic acid	Methaneselenol
+thioredoxin reductase (NADPH)	1.8.1.9	Selenite	Hydrogen selenide

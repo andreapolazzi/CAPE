@@ -1,0 +1,16 @@
+enzyme_name	EC	source_node_name	target_node_name
+4-cresol dehydrogenase (hydroxylating) flavoprotein subunit	1.17.9.1	2,4-Dimethylphenol	4-Hydroxy-3-methylbenzaldehyde
+4-cresol dehydrogenase (hydroxylating) flavoprotein subunit	1.17.9.1	4-Cresol	4-Hydroxybenzaldehyde
+aryl-alcohol dehydrogenase	1.1.1.90	Benzyl alcohol	Benzaldehyde
+benzaldehyde dehydrogenase (NAD)	1.2.1.28	3-Hydroxybenzaldehyde	3-Hydroxybenzoate
+benzaldehyde dehydrogenase (NAD)	1.2.1.28	Benzaldehyde	Benzoate
+carboxymethylenebutenolidase	3.1.1.45	2-Chloro-5-methyl-cis-dienelactone	2-Chloro-5-methylmaleylacetate
+carboxymethylenebutenolidase	3.1.1.45	3-Chloro-2-methyldienelactone	3-Chloro-2-methylmaleylacetate
+catechol 1,2-dioxygenase	1.13.11.1	4-Methylcatechol	3-Methyl-cis,cis-hexadienedioate
+maleylacetate reductase	1.3.1.32	2-Chloro-5-methylmaleylacetate	5-Methylmaleylacetate
+maleylacetate reductase	1.3.1.32	5-Methylmaleylacetate	2-Methyl-3-oxoadipate
+muconate cycloisomerase	5.5.1.1	3-Methyl-cis,cis-hexadienedioate	3-Methylmuconolactone
+muconate cycloisomerase	5.5.1.1	3-Methyl-cis,cis-hexadienedioate	4-Methylmuconolactone
+toluene monooxygenase electron transfer component	1.18.1.3	Toluene	3-Cresol
+toluene monooxygenase electron transfer component	1.18.1.3	Toluene	4-Cresol
+toluene monooxygenase electron transfer component	1.18.1.3	Toluene	Benzyl alcohol
