@@ -1,0 +1,26 @@
+enzyme_name	EC	source_node_name	target_node_name
+alanyl-tRNA synthetase	6.1.1.7	L-Alanine	L-Alanyl-tRNA
+arginyl-tRNA synthetase	6.1.1.19	L-Arginine	L-Arginyl-tRNA(Arg)
+aspartyl-tRNA synthetase	6.1.1.12	L-Aspartate	L-Aspartyl-tRNA(Asp)
+aspartyl-tRNA(Asn)/glutamyl-tRNA(Gln) amidotransferase subunit A	6.3.5.6 6.3.5.7	Glutaminyl-tRNA	L-Glutamyl-tRNA(Gln)
+aspartyl-tRNA(Asn)/glutamyl-tRNA(Gln) amidotransferase subunit A	6.3.5.6 6.3.5.7	L-Asparaginyl-tRNA(Asn)	L-Aspartyl-tRNA(Asn)
+cysteinyl-tRNA synthetase	6.1.1.16	L-Cysteine	L-Cysteinyl-tRNA(Cys)
+glutamyl-tRNA synthetase	6.1.1.17	L-Glutamate	L-Glutamyl-tRNA(Glu)
+glycyl-tRNA synthetase	6.1.1.14	Glycine	Glycyl-tRNA(Gly)
+histidyl-tRNA synthetase	6.1.1.21	L-Histidine	L-Histidyl-tRNA(His)
+isoleucyl-tRNA synthetase	6.1.1.5	L-Isoleucine	L-Isoleucyl-tRNA(Ile)
+leucyl-tRNA synthetase	6.1.1.4	L-Leucine	L-Leucyl-tRNA
+lysyl-tRNA synthetase, class II	6.1.1.6	L-Lysine	L-Lysyl-tRNA
+methionyl-tRNA formyltransferase	2.1.2.9	10-Formyltetrahydrofolate	N-Formylmethionyl-tRNA
+methionyl-tRNA formyltransferase	2.1.2.9	10-Formyltetrahydrofolate	Tetrahydrofolate
+methionyl-tRNA formyltransferase	2.1.2.9	L-Methionyl-tRNA	N-Formylmethionyl-tRNA
+methionyl-tRNA formyltransferase	2.1.2.9	L-Methionyl-tRNA	Tetrahydrofolate
+methionyl-tRNA synthetase	6.1.1.10	L-Methionine	L-Methionyl-tRNA
+phenylalanyl-tRNA synthetase beta chain	6.1.1.20	L-Phenylalanine	L-Phenylalanyl-tRNA(Phe)
+prolyl-tRNA synthetase	6.1.1.15	L-Proline	L-Prolyl-tRNA(Pro)
+seryl-tRNA synthetase	6.1.1.11	L-Serine	L-Seryl-tRNA(Sec)
+seryl-tRNA synthetase	6.1.1.11	L-Serine	L-Seryl-tRNA(Ser)
+threonyl-tRNA synthetase	6.1.1.3	L-Threonine	L-Threonyl-tRNA(Thr)
+tryptophanyl-tRNA synthetase	6.1.1.2	L-Tryptophan	L-Tryptophanyl-tRNA(Trp)
+tyrosyl-tRNA synthetase	6.1.1.1	L-Tyrosine	L-Tyrosyl-tRNA(Tyr)
+valyl-tRNA synthetase	6.1.1.9	L-Valine	L-Valyl-tRNA(Val)

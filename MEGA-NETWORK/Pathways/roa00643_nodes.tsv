@@ -1,0 +1,25 @@
+name	inchi
+3-Hydroxyphenylacetate	InChI=1S/C8H8O3/c9-7-3-1-2-6(4-7)5-8(10)11/h1-4,9H,5H2,(H,10,11)
+2-Phenylacetamide	InChI=1S/C8H9NO/c9-8(10)6-7-4-2-1-3-5-7/h1-5H,6H2,(H2,9,10)
+Phenylacetonitrile	InChI=1S/C8H7N/c9-7-6-8-4-2-1-3-5-8/h1-5H,6H2
+(Z)-Phenylacetaldehyde oxime	InChI=1S/C8H9NO/c10-9-7-6-8-4-2-1-3-5-8/h1-5,7,10H,6H2/b9-7-
+Propenoyl-CoA	InChI=1S/C24H38N7O17P3S/c1-4-15(33)52-8-7-26-14(32)5-6-27-22(36)19(35)24(2,3)10-45-51(42,43)48-50(40,41)44-9-13-18(47-49(37,38)39)17(34)23(46-13)31-12-30-16-20(25)28-11-29-21(16)31/h4,11-13,17-19,23,34-35H,1,5-10H2,2-3H3,(H,26,32)(H,27,36)(H,40,41)(H,42,43)(H2,25,28,29)(H2,37,38,39)/t13-,17-,18-,19+,23-/m1/s1
+(S)-Lactate	InChI=1S/C3H6O3/c1-2(4)3(5)6/h2,4H,1H3,(H,5,6)/t2-/m0/s1
+Lactoyl-CoA	InChI=1S/C24H40N7O18P3S/c1-12(32)23(37)53-7-6-26-14(33)4-5-27-21(36)18(35)24(2,3)9-46-52(43,44)49-51(41,42)45-8-13-17(48-50(38,39)40)16(34)22(47-13)31-11-30-15-19(25)28-10-29-20(15)31/h10-13,16-18,22,32,34-35H,4-9H2,1-3H3,(H,26,33)(H,27,36)(H,41,42)(H,43,44)(H2,25,28,29)(H2,38,39,40)/t12?,13-,16-,17-,18+,22-/m1/s1
+2-Hydroxy-6-oxoocta-2,4,7-trienoate	InChI=1S/C8H8O4/c1-2-6(9)4-3-5-7(10)8(11)12/h2-5,10H,1H2,(H,11,12)/b4-3+,7-5-
+Acrylonitrile	InChI=1S/C3H3N/c1-2-3-4/h2H,1H2
+Acrylamide	InChI=1S/C3H5NO/c1-2-3(4)5/h2H,1H2,(H2,4,5)
+2-Hydroxy-2,4-pentadienoate	InChI=1S/C5H6O3/c1-2-3-4(6)5(7)8/h2-3,6H,1H2,(H,7,8)/p-1/b4-3+
+Acrylic acid	InChI=1S/C3H4O2/c1-2-3(4)5/h2H,1H2,(H,4,5)
+Acetoacetate	InChI=1S/C4H6O3/c1-3(5)2-4(6)7/h2H2,1H3,(H,6,7)/p-1
+Fumarate	InChI=1S/C4H4O4/c5-3(6)1-2-4(7)8/h1-2H,(H,5,6)(H,7,8)/p-2/b2-1+
+4-Fumarylacetoacetate	InChI=1S/C8H8O6/c9-5(1-2-7(11)12)3-6(10)4-8(13)14/h1-2H,3-4H2,(H,11,12)(H,13,14)/b2-1+
+4-Maleylacetoacetate	InChI=1S/C8H8O6/c9-5(1-2-7(11)12)3-6(10)4-8(13)14/h1-2H,3-4H2,(H,11,12)(H,13,14)/p-2/b2-1-
+Homogentisate	InChI=1S/C8H8O4/c9-6-1-2-7(10)5(3-6)4-8(11)12/h1-3,9-10H,4H2,(H,11,12)
+Styrene-cis-2,3-dihydrodiol	InChI=1S/C8H10O2/c1-2-6-4-3-5-7(9)8(6)10/h2-5,7-10H,1H2
+Styrene	InChI=1S/C8H8/c1-2-8-6-4-3-5-7-8/h2-7H,1H2
+2-Hydroxyphenylacetate	InChI=1S/C8H8O3/c9-7-4-2-1-3-6(7)5-8(10)11/h1-4,9H,5H2,(H,10,11)/p-1
+Phenylacetaldehyde	InChI=1S/C8H8O/c9-7-6-8-4-2-1-3-5-8/h1-5,7H,6H2
+(S)-2-Phenyloxirane	InChI=1S/C8H8O/c1-2-4-7(5-3-1)8-6-9-8/h1-5,8H,6H2/t8-/m1/s1
+3-Vinylcatechol	InChI=1S/C8H8O2/c1-2-6-4-3-5-7(9)8(6)10/h2-5,9-10H,1H2
+Phenylacetic acid	InChI=1S/C8H8O2/c9-8(10)6-7-4-2-1-3-5-7/h1-5H,6H2,(H,9,10)

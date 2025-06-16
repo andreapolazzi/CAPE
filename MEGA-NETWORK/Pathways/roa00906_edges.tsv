@@ -1,0 +1,10 @@
+enzyme_name	EC	source_node_name	target_node_name
+15-cis-phytoene synthase	2.5.1.32	Geranylgeranyl diphosphate	Prephytoene diphosphate
+lycopene beta-cyclase	5.5.1.19	Lycopene	gamma-Carotene
+lycopene beta-cyclase	5.5.1.19	all-trans-Neurosporene	beta-Zeacarotene
+lycopene beta-cyclase	5.5.1.19	beta-Zeacarotene	7,8-Dihydro-beta-carotene
+lycopene beta-cyclase	5.5.1.19	delta-Carotene	alpha-Carotene
+lycopene beta-cyclase	5.5.1.19	gamma-Carotene	beta-Carotene
+phytoene desaturase	1.3.99.26 1.3.99.28 1.3.99.29 1.3.99.31	all-trans-Neurosporene	Lycopene
+phytoene desaturase	1.3.99.26 1.3.99.28 1.3.99.29 1.3.99.31	all-trans-Phytofluene	all-trans-zeta-Carotene
+phytoene desaturase	1.3.99.26 1.3.99.28 1.3.99.29 1.3.99.31	all-trans-zeta-Carotene	all-trans-Neurosporene

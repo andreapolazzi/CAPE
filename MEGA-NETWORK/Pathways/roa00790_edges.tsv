@@ -1,0 +1,28 @@
+enzyme_name	EC	source_node_name	target_node_name
+2-amino-4-hydroxy-6-hydroxymethyldihydropteridine diphosphokinase	2.7.6.3	6-(Hydroxymethyl)-7,8-dihydropterin	6-Hydroxymethyl-7,8-dihydropterin diphosphate
+3,4-dihydroxy 2-butanone 4-phosphate synthase / GTP cyclohydrolase II	4.1.99.12 3.5.4.25	GTP	2,5-Diamino-6-(5-phospho-D-ribosylamino)pyrimidin-4(3H)-one
+4-amino-4-deoxychorismate lyase	4.1.3.38	4-Amino-4-deoxychorismate	4-Aminobenzoate
+7,8-dihydroneopterin aldolase/epimerase/oxygenase	4.1.2.25 5.1.99.8 1.13.11.81	7,8-Dihydromonapterin	7,8-Dihydroneopterin
+7,8-dihydroneopterin aldolase/epimerase/oxygenase	4.1.2.25 5.1.99.8 1.13.11.81	7,8-Dihydroneopterin	6-(Hydroxymethyl)-7,8-dihydropterin
+7,8-dihydroneopterin aldolase/epimerase/oxygenase	4.1.2.25 5.1.99.8 1.13.11.81	7,8-Dihydroneopterin	7,8-Dihydromonapterin
+7,8-dihydroneopterin aldolase/epimerase/oxygenase	4.1.2.25 5.1.99.8 1.13.11.81	7,8-Dihydroneopterin	7,8-Dihydroxanthopterin
+7,8-dihydroneopterin aldolase/epimerase/oxygenase	4.1.2.25 5.1.99.8 1.13.11.81	7,8-Dihydroneopterin	Glycolaldehyde
+GTP 3',8-cyclase	4.1.99.22	GTP	(8S)-3',8-Cyclo-7,8-dihydroguanosine 5'-triphosphate
+GTP cyclohydrolase IA	3.5.4.16	2,5-Diamino-6-(5'-triphosphoryl-3',4'-trihydroxy-2'-oxopentyl)-amino-4-oxopyrimidine	7,8-Dihydroneopterin 3'-triphosphate
+GTP cyclohydrolase IA	3.5.4.16	2,5-Diaminopyrimidine nucleoside triphosphate	2,5-Diamino-6-(5'-triphosphoryl-3',4'-trihydroxy-2'-oxopentyl)-amino-4-oxopyrimidine
+GTP cyclohydrolase IA	3.5.4.16	Formamidopyrimidine nucleoside triphosphate	2,5-Diaminopyrimidine nucleoside triphosphate
+GTP cyclohydrolase IA	3.5.4.16	GTP	Formamidopyrimidine nucleoside triphosphate
+alkaline phosphatase D	3.1.3.1	7,8-Dihydroneopterin 3'-triphosphate	7,8-Dihydroneopterin
+cyclic pyranopterin monophosphate synthase	4.6.1.17	(8S)-3',8-Cyclo-7,8-dihydroguanosine 5'-triphosphate	Precursor Z
+dihydrofolate reductase	1.5.1.3	7,8-Dihydrobiopterin	Tetrahydrobiopterin
+dihydrofolate synthase / folylpolyglutamate synthase	6.3.2.12 6.3.2.17	Dihydropteroate	Dihydrofolate
+dihydrofolate synthase / folylpolyglutamate synthase	6.3.2.12 6.3.2.17	THF-L-glutamate	THF-polyglutamate
+dihydrofolate synthase / folylpolyglutamate synthase	6.3.2.12 6.3.2.17	THF-L-glutamate	Tetrahydrofolate
+dihydrofolate synthase / folylpolyglutamate synthase	6.3.2.12 6.3.2.17	THF-polyglutamate	THF-L-glutamate
+dihydrofolate synthase / folylpolyglutamate synthase	6.3.2.12 6.3.2.17	Tetrahydrofolate	THF-L-glutamate
+dihydropteroate synthase	2.5.1.15	4-Aminobenzoate	Dihydropteroate
+dihydropteroate synthase	2.5.1.15	6-(Hydroxymethyl)-7,8-dihydropterin	Dihydropteroate
+dihydropteroate synthase	2.5.1.15	6-Hydroxymethyl-7,8-dihydropterin diphosphate	Dihydropteroate
+molybdopterin molybdotransferase	2.10.1.1	Adenylated molybdopterin	Molybdoenzyme molybdenum cofactor
+molybdopterin synthase catalytic subunit	2.8.1.12	Precursor Z	Molybdopterin
+para-aminobenzoate synthetase component II	2.6.1.85	Chorismate	4-Amino-4-deoxychorismate

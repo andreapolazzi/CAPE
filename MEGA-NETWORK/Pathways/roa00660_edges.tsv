@@ -1,0 +1,17 @@
+enzyme_name	EC	source_node_name	target_node_name
+3-isopropylmalate dehydrogenase	1.1.1.85	2-Oxobutanoate	D-erythro-3-Methylmalate
+3-isopropylmalate dehydrogenase	1.1.1.85	D-erythro-3-Methylmalate	2-Oxobutanoate
+3-isopropylmalate/(R)-2-methylmalate dehydratase large subunit	4.2.1.33 4.2.1.35	(R)-2-Methylmalate	2-Methylmaleate
+3-isopropylmalate/(R)-2-methylmalate dehydratase large subunit	4.2.1.33 4.2.1.35	2-Methylmaleate	(R)-2-Methylmalate
+3-isopropylmalate/(R)-2-methylmalate dehydratase large subunit	4.2.1.33 4.2.1.35	2-Methylmaleate	D-erythro-3-Methylmalate
+3-isopropylmalate/(R)-2-methylmalate dehydratase large subunit	4.2.1.33 4.2.1.35	D-erythro-3-Methylmalate	2-Methylmaleate
+4-hydroxy-4-methyl-2-oxoglutarate aldolase	4.1.3.17	Pyruvate	Parapyruvate
+acetolactate synthase I/II/III large subunit	2.2.1.6	Pyruvate	(S)-2-Acetolactate
+itaconate CoA-transferase	2.8.3.- 2.8.3.22	(3S)-Citramalyl-CoA	(S)-2-Methylmalate
+itaconate CoA-transferase	2.8.3.- 2.8.3.22	(S)-2-Methylmalate	(3S)-Citramalyl-CoA
+itaconate CoA-transferase	2.8.3.- 2.8.3.22	Itaconate	Itaconyl-CoA
+itaconate CoA-transferase	2.8.3.- 2.8.3.22	Itaconyl-CoA	Itaconate
+itaconyl-CoA hydratase	4.2.1.56	(3S)-Citramalyl-CoA	Itaconyl-CoA
+itaconyl-CoA hydratase	4.2.1.56	Itaconyl-CoA	(3S)-Citramalyl-CoA
+succinyl-CoA synthetase beta subunit	6.2.1.5	Itaconate	Itaconyl-CoA
+succinyl-CoA synthetase beta subunit	6.2.1.5	Itaconyl-CoA	Itaconate

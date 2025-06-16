@@ -1,0 +1,27 @@
+enzyme_name	EC	source_node_name	target_node_name
+(E)-4-hydroxy-3-methylbut-2-enyl-diphosphate synthase	1.17.7.1 1.17.7.3	2-C-Methyl-D-erythritol 2,4-cyclodiphosphate	1-Hydroxy-2-methyl-2-butenyl 4-diphosphate
+1-deoxy-D-xylulose-5-phosphate reductoisomerase	1.1.1.267	1-Deoxy-D-xylulose 5-phosphate	2-C-Methyl-D-erythritol 4-phosphate
+1-deoxy-D-xylulose-5-phosphate synthase	2.2.1.7	1-Deoxy-D-xylulose 5-phosphate	D-Glyceraldehyde 3-phosphate
+1-deoxy-D-xylulose-5-phosphate synthase	2.2.1.7	1-Deoxy-D-xylulose 5-phosphate	Pyruvate
+1-deoxy-D-xylulose-5-phosphate synthase	2.2.1.7	D-Glyceraldehyde 3-phosphate	1-Deoxy-D-xylulose 5-phosphate
+1-deoxy-D-xylulose-5-phosphate synthase	2.2.1.7	Pyruvate	1-Deoxy-D-xylulose 5-phosphate
+2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase	4.6.1.12	2-Phospho-4-(cytidine 5'-diphospho)-2-C-methyl-D-erythritol	2-C-Methyl-D-erythritol 2,4-cyclodiphosphate
+2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase	2.7.7.60	2-C-Methyl-D-erythritol 4-phosphate	4-(Cytidine 5'-diphospho)-2-C-methyl-D-erythritol
+4-diphosphocytidyl-2-C-methyl-D-erythritol kinase	2.7.1.148	4-(Cytidine 5'-diphospho)-2-C-methyl-D-erythritol	2-Phospho-4-(cytidine 5'-diphospho)-2-C-methyl-D-erythritol
+4-hydroxy-3-methylbut-2-en-1-yl diphosphate reductase	1.17.7.4	1-Hydroxy-2-methyl-2-butenyl 4-diphosphate	Dimethylallyl diphosphate
+4-hydroxy-3-methylbut-2-en-1-yl diphosphate reductase	1.17.7.4	1-Hydroxy-2-methyl-2-butenyl 4-diphosphate	Isopentenyl diphosphate
+acetyl-CoA C-acetyltransferase	2.3.1.9	Acetoacetyl-CoA	Acetyl-CoA
+acetyl-CoA C-acetyltransferase	2.3.1.9	Acetyl-CoA	Acetoacetyl-CoA
+geranylgeranyl diphosphate synthase, type I	2.5.1.1 2.5.1.10 2.5.1.29	Dimethylallyl diphosphate	Geranyl diphosphate
+geranylgeranyl diphosphate synthase, type I	2.5.1.1 2.5.1.10 2.5.1.29	Geranyl diphosphate	trans,trans-Farnesyl diphosphate
+geranylgeranyl diphosphate synthase, type I	2.5.1.1 2.5.1.10 2.5.1.29	Isopentenyl diphosphate	Geranyl diphosphate
+geranylgeranyl diphosphate synthase, type I	2.5.1.1 2.5.1.10 2.5.1.29	Isopentenyl diphosphate	Geranylgeranyl diphosphate
+geranylgeranyl diphosphate synthase, type I	2.5.1.1 2.5.1.10 2.5.1.29	Isopentenyl diphosphate	trans,trans-Farnesyl diphosphate
+geranylgeranyl diphosphate synthase, type I	2.5.1.1 2.5.1.10 2.5.1.29	trans,trans-Farnesyl diphosphate	Geranylgeranyl diphosphate
+hydroxymethylglutaryl-CoA reductase	1.1.1.88	(R)-Mevalonate	(S)-3-Hydroxy-3-methylglutaryl-CoA
+hydroxymethylglutaryl-CoA reductase	1.1.1.88	(S)-3-Hydroxy-3-methylglutaryl-CoA	(R)-Mevalonate
+hydroxymethylglutaryl-CoA synthase	2.3.3.10	Acetoacetyl-CoA	(S)-3-Hydroxy-3-methylglutaryl-CoA
+hydroxymethylglutaryl-CoA synthase	2.3.3.10	Acetyl-CoA	(S)-3-Hydroxy-3-methylglutaryl-CoA
+short-chain Z-isoprenyl diphosphate synthase	2.5.1.68	Geranyl diphosphate	2-cis,6-trans-Farnesyl diphosphate
+short-chain Z-isoprenyl diphosphate synthase	2.5.1.68	Isopentenyl diphosphate	2-cis,6-trans-Farnesyl diphosphate
+undecaprenyl diphosphate synthase	2.5.1.31	trans,trans-Farnesyl diphosphate	di-trans,poly-cis-Undecaprenyl diphosphate
