@@ -3,6 +3,8 @@ import csv
 import re
 import requests
 import urllib.parse
+from rdkit import Chem, RDLogger
+RDLogger.DisableLog('rdApp.warning')
 
 enzymes_cache: dict[str, tuple[str, str]] = {}
 compounds_cache: dict[str, str] = {}
@@ -11,7 +13,7 @@ inchi_cache: dict[str, str] = {}
 def get_compound_name(c_id: str) -> str:
     if c_id in compounds_cache:
         return compounds_cache[c_id]
-    url = f'https://rest.kegg.jp/get/cpd:{c_id}'
+    url = f'http://rest.kegg.jp/get/cpd:{c_id}'
     name = c_id
     try:
         r = requests.get(url, timeout=10)
@@ -25,37 +27,74 @@ def get_compound_name(c_id: str) -> str:
     compounds_cache[c_id] = name
     return name
 
+def standardize(inchi: str) -> str:
+    if not inchi.startswith("InChI="): return ""
+    mol = Chem.MolFromInchi(inchi)
+    return Chem.MolToInchi(mol, options='-SUCHI') if mol else ""
+
+
 def get_compound_inchi(name: str) -> str:
-    encoded_name = urllib.parse.quote(name)
-    txt_url = (
-        f"https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/"
-        f"{encoded_name}/property/InChI/TXT"
-    )
+    """Resolve a compound name to its standard InChI via PubChem and OPSIN.
+    Logs any names for which an InChI could not be found."""
+    enc = urllib.parse.quote(name)
+    base = "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound"
+
+    # 1. Exact PubChem (StandardInChI TXT, then JSON fallback)
+    for endpoint in (
+        f"{base}/name/{enc}/property/StandardInChI/TXT",
+        f"{base}/name/{enc}/property/InChI,InChIKey/JSON",
+    ):
+        try:
+            r = requests.get(endpoint, timeout=8)
+            r.raise_for_status()
+            data = r.text if endpoint.endswith('.TXT') else r.json()
+            inchi = (data.strip() if isinstance(data, str)
+                     else data['PropertyTable']['Properties'][0]['InChI'])
+            std = standardize(inchi)
+            if std:
+                return std
+        except Exception:
+            continue
+
+    # 2. OPSIN systematic name parser
     try:
-        r = requests.get(txt_url, timeout=10)
-        r.raise_for_status()
-        inchi_txt = r.text.strip()
-        if inchi_txt.startswith("InChI="):
-            return inchi_txt
-    except requests.RequestException:
+        r = requests.get(f"https://opsin.ch.cam.ac.uk/opsin/{enc}.inchi", timeout=8)
+        if r.ok:
+            std = standardize(r.text.strip())
+            if std:
+                return std
+    except Exception:
         pass
 
-    json_url = (
-        f"https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/"
-        f"{encoded_name}/property/InChI,InChIKey/JSON"
-    )
+    # 3. PubChem fuzzy lookup (CID list then synonyms)
     try:
-        r2 = requests.get(json_url, timeout=10)
+        txt = requests.get(f"{base}/name/{enc}/cids/TXT", timeout=8).text
+        cids = [cid for cid in txt.split() if cid.isdigit()]
+        if cids:
+            cid = cids[0]
+        else:
+            info = requests.get(
+                f"{base}/name/{enc}/synonyms/JSON", timeout=8).json()
+            tgt = ''.join(ch for ch in name.lower() if ch.isalnum())
+            cid = None
+            for entry in info.get('InformationList', {}).get('Information', []):
+                if any(''.join(ch for ch in s.lower() if ch.isalnum()) == tgt
+                       for s in entry.get('Synonym', [])):
+                    cid = entry['CID']
+                    break
+            if cid is None:
+                raise ValueError("No CID match via synonyms")
+
+        r2 = requests.get(
+            f"{base}/cid/{cid}/property/StandardInChI/TXT", timeout=8)
         r2.raise_for_status()
-        data = r2.json()
-        props = data.get('PropertyTable', {}).get('Properties', [])
-        if props:
-            inchi = props[0].get('InChI')
-            if inchi:
-                return inchi
-    except (requests.RequestException, ValueError):
-        return ""
+        std = standardize(r2.text.strip())
+        if std:
+            return std
+    except Exception:
+        pass
     return ""
+
 
 def get_ec_from_gene(gene_ref: str) -> tuple[str, str]:
     """Retrieve enzyme name and EC from an enzyme coding gene's ID"""
@@ -63,7 +102,7 @@ def get_ec_from_gene(gene_ref: str) -> tuple[str, str]:
         return enzymes_cache[gene_ref]
     # Gene → KO
     try:
-        r1 = requests.get(f'https://rest.kegg.jp/link/ko/{gene_ref}', timeout=10)
+        r1 = requests.get(f'http://rest.kegg.jp/link/ko/{gene_ref}', timeout=10)
         r1.raise_for_status()
         ko_line = r1.text.strip().split('\n')[0]
         ko_ref = ko_line.split('\t')[1]  # e.g. 'ko:K01080'
@@ -74,7 +113,7 @@ def get_ec_from_gene(gene_ref: str) -> tuple[str, str]:
     name = ko_ref
     ec = ''
     try:
-        r2 = requests.get(f'https://rest.kegg.jp/get/{ko_ref}', timeout=10)
+        r2 = requests.get(f'http://rest.kegg.jp/get/{ko_ref}', timeout=10)
         r2.raise_for_status()
         for line in r2.text.splitlines():
             if line.startswith('NAME'):
@@ -137,6 +176,9 @@ def parse_kgml_to_tsv(kgml_file: str) -> None:
             clean = inchi.strip().strip('"').splitlines()
             primary_inchi = clean[0] if clean else ""
             compound_entries[eid] = (name, primary_inchi)
+            if not primary_inchi:
+                with open("missing_inchis.txt", 'a') as f:
+                    f.write(f"{name}\tfrom pathway {path_code}\n")
 
     # Write nodes.tsv
     with open(nodes_file, 'w+', newline='', encoding='utf-8') as f:

@@ -3,6 +3,7 @@ from kegg_parser import parse_kgml_to_tsv
 import xml.etree.ElementTree as ET
 import sys
 import os
+import glob
 import requests
 from colorama import init, Fore, Back, Style
 init()
@@ -59,8 +60,7 @@ if response.lower() == 'y':
 
             try:
                 kgml_filename = f"{pway_request}.kgml"
-                kgml_path = os.path.join(PATHWAY_FOLDER, kgml_filename)
-                if os.path.exists(kgml_path):
+                if glob.glob(f"Pathways/*{pway_request}*"):
                     print(f"\nPathway {pway_request} already downloaded. Skipping.")
                     continue
 
