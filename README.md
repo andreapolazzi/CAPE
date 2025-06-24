@@ -29,7 +29,8 @@ cartella_privata/
 ## performance.py usage
 ```
 Please specify either --ota, --otc, --oto or --dia
-usage: performance.py [-h] [-s] [--min_steps MIN_STEPS] [--max_steps MAX_STEPS] [--ota] [--otc] [--oto] [--dia] [--min_diam MIN_DIAM] [--max_diam MAX_DIAM] [--out_file OUT_FILE]
+usage: performance.py [-h] [-s] [--min_steps MIN_STEPS] [--max_steps MAX_STEPS]
+[--ota] [--otc] [--oto] [--dia] [--min_diam MIN_DIAM] [--max_diam MAX_DIAM] [--out_file OUT_FILE]
 
 Run performance tests for RetroPath2
 
