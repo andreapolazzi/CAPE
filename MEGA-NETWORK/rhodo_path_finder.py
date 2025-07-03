@@ -1,14 +1,11 @@
 from classes_functions import *
 from kegg_parser import parse_kgml_to_tsv
+from retropath_converter import build_retopath_network
 import xml.etree.ElementTree as ET
-import sys
-import os
-import glob
-import requests
-from colorama import init, Fore, Back, Style
+import sys,os,glob,requests,difflib,time
+from colorama import init, Fore, Style
 init()
 
-sys.setrecursionlimit(10_000)
 
 PATHWAY_FOLDER = 'Pathways'
 os.makedirs(PATHWAY_FOLDER, exist_ok=True)
@@ -18,13 +15,25 @@ graph_variable_present = os.path.exists(GRAPH_VAR_PATH)
 print(Fore.GREEN + '\nHERO Bioinformatics Tool\nH' + Style.RESET_ALL + 'igh p' + Fore.GREEN + 'E' + Style.RESET_ALL + 'rformance ' + Fore.GREEN + 'R' + Style.RESET_ALL + 'hodococcus ' + Fore.GREEN + 'O' + Style.RESET_ALL + 'pacus\nby Team BACMAN\n')
 print('You can use this tool to find the pathway that connects your initial compound to your desired product\nand to build the plasmid that you can insert into your Rhodococcus (coming soon).\n')
 
-if graph_variable_present:
-    MetabolicGraph.mega = MetabolicGraph.load_graph_variable()
-else:
-    edge_files = [f for f in os.listdir(PATHWAY_FOLDER) if f.endswith('_edges.tsv')]
-    for file in edge_files:
-        MetabolicGraph.from_tsv(file)
-    MetabolicGraph.megaGraph().save_graph_variable()
+print("\nBuilding mega network...")
+start = time.time()
+
+# Build Graphs
+edge_files = [
+    f for f in os.listdir(PATHWAY_FOLDER)
+    if f.endswith('_edges.tsv')
+]
+
+for file in edge_files:
+    MetabolicGraph.from_tsv(file)
+
+# Build mega graph
+MetabolicGraph.mega = MetabolicGraph.megaGraph()
+
+end = time.time()
+time_passed = end - start
+print(f"Megagraph built in {time_passed} seconds.\n")
+
 
 print("\nThe pathways currently available in the mega-network are:")
 available_files = [f for f in os.listdir(PATHWAY_FOLDER) if f.endswith('.kgml')]
@@ -38,11 +47,11 @@ while response not in ['y','n']:
 
 if response.lower() == 'y':
     while True:
-        line = input("Type one or multiple space-separated pathway codes (e.g. hsa00010 hsa00020),\nor type the organism code only (e.g. hsa) to download all its pathways,\nor press Enter to quit downloading: ").strip()
+        line = input("\nType one or multiple space-separated pathway codes (e.g. hsa00010 hsa00020),\nor type the organism code only (e.g. hsa) to download all its pathways,\nor press Enter to quit downloading: ").strip()
         if not line:
             break
         elif len(line) == 3:
-            response = requests.get(f"https://rest.kegg.jp/link/pathway/{line}")
+            response = requests.get(f"http://rest.kegg.jp/link/pathway/{line}")
             if response.status_code == 200:
                 pathway_ids = set() # set to avoid duplicates
                 for line in response.text.strip().split("\n"):
@@ -65,7 +74,7 @@ if response.lower() == 'y':
                     continue
 
                 print(f"\nFetching {pway_request} from KEGG…")
-                url = f"https://rest.kegg.jp/get/{pway_request}/kgml"
+                url = f"http://rest.kegg.jp/get/{pway_request}/kgml"
                 r = requests.get(url, timeout=10)
                 r.raise_for_status()
 
@@ -96,7 +105,6 @@ if response.lower() == 'y':
                     os.remove(f'{pway_request}_nodes.tsv')
                     os.remove(f'{pway_request}_edhges.tsv')
 
-    MetabolicGraph.mega.save_graph_variable() # save new mega graph after new pathways were added
 
 node_list = list(MetabolicGraph.mega.nodes.keys())
 print(Fore.GREEN + '\n\nSELECTING THE STARTING AND FINAL COMPOUND' + Style.RESET_ALL)
@@ -105,9 +113,11 @@ while True:
         if start.lower() in node_list:
              break
         matches = [n for n in node_list if start.lower() in n]
+        matches.extend(difflib.get_close_matches(start, node_list, n=10, cutoff=0.1))
+        matches = list(set(matches))
         if matches:
             print(f"\nNo exact match for '{start}'. Did you mean:")
-            for i, m in enumerate(matches[:5], 1):
+            for i, m in enumerate(matches, 1):
                 print(f"  {i}. {m}")
             print("Type one of those exactly, or press enter to input a different compound.")
         else:
@@ -118,6 +128,8 @@ while True:
         if end.lower() in node_list:
             break
         matches = [n for n in node_list if end.lower() in n]
+        matches.extend(difflib.get_close_matches(end, node_list, n=10, cutoff=0.1))
+        matches = list(set(matches))
         if matches:
             print(f"\nNo exact match for '{end}'. Did you mean:")
             for i, m in enumerate(matches[:5], 1):
@@ -134,12 +146,44 @@ dist, path, ecs = MetabolicGraph.mega.dijkstra(start, end)
 if path is None:
     print('No path exists among the current nodes.')
     print('\nRetroPath 2.0 will be used to predict the pathway.')
-else:
-    print('\nPathway Steps:')
-    for i in range(dist):
-        arrow_tip = Fore.GREEN + ']--->' + Style.RESET_ALL
-        arrow_end = Fore.GREEN + '---[' + Style.RESET_ALL
-        print(f"{i+1}. {path[i].name} {arrow_end}{ecs[i].replace(' ', ' or ')}{arrow_tip} {path[i+1].name}")
+    # 1) Run RetroPath 2.0 from code (assume CLI installed)
+    cmd = (f"retropath2 -s '{start}' -i '{end}' " f"--output_prefix retropath")
+    os.system(cmd)
+    # 2) Build edges & nodes TSV for RetroPath results
+    build_retopath_network('results.csv')
+    # 3) Join RetroPath graph into the megagraph
+    rp_graph = MetabolicGraph.from_tsv('retropath_edges.tsv', nodes_tsv='retropath_nodes.tsv', graph_name='retropath')
+    rp_graph.join2megaGraph()
+    # 4) Retry dijkstra with new RetroPath graph
+    dist, path, ecs = MetabolicGraph.mega.dijkstra(start, end)
+    if path is None:
+        print("RetroPath 2.0 couldn't find a path.")
+        quit()
+
+WEIGHT_COLOR = {1: Fore.GREEN, 10: Fore.YELLOW, 100: Fore.RED}
+
+print('\nPathway Steps:')
+for i in range(len(path) - 1):
+    u = path[i]
+    v = path[i+1]
+    ec_str = ecs[i].replace(' ', ' or ')
+    
+    edge = None
+    for e in u.outgoing:
+        if e.target is v and (e.ec == ecs[i] or e.name == ecs[i]):
+            edge = e
+            break
+    
+    w = edge.weight if edge else 1
+    col = WEIGHT_COLOR.get(w, Fore.WHITE)
+
+    print(f"{i+1}. {u.name} "
+          f"{Fore.WHITE}---[{Style.RESET_ALL}"
+          f"{col}{ec_str}{Style.RESET_ALL}"
+          f"{Fore.WHITE}]--->{Style.RESET_ALL} "
+          f"{v.name}")
+
+
 
 # Check which enzymes you already have and which ones you need
 # Build plasmid
