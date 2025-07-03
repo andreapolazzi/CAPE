@@ -1,11 +1,8 @@
 from __future__ import annotations
 from itertools import count
-import csv
-import heapq
-import dill
+import csv, heapq
 
 class Node:
-    nodes: dict[str, Node] = {}
     def __init__(self, name: str, inchi: str, ingoing: list[Edge], outgoing: list[Edge], g: MetabolicGraph):
         self.name = name
         self.inchi = inchi
@@ -13,10 +10,10 @@ class Node:
         self.outgoing = outgoing
         self.org = [g.org] if g.org else []
         self.pathway = [g.pathway] if g.pathway else []
-        Node.nodes[name.lower()] = self
+
+dont_traverse_list = ['h2o','h+','nad+','nadh','nadph','nadp+','co2','oxygen','adp','atp']
 
 class Edge:
-    edges: dict[str, Edge] = {}
     def __init__(self, name: str, ec: str, source: Node, target: Node, g: MetabolicGraph, weight: float = 1):
         self.name = name
         self.ec = ec
@@ -24,9 +21,11 @@ class Edge:
         self.target = target
         self.org = [g.org] if g.org else []
         self.pathway = [g.pathway] if g.pathway else []
-        self.weight = weight
+        if source.name.lower() in dont_traverse_list or target.name.lower() in dont_traverse_list:
+            self.weight = float('inf') # so that the path cannot traverse water but has to traverse a more important compound from the reaction step
+        else:
+            self.weight = weight
         key = f"{g.org}:{name}:{source.name}->{target.name}"
-        Edge.edges[key] = self
         source.outgoing.append(self)
         target.ingoing.append(self)
 
@@ -83,9 +82,16 @@ class MetabolicGraph:
             for row in reader:
                 enz = row['enzyme_name']
                 ec = row.get('EC', '')
-                src = row['source_node_name']
-                tgt = row['target_node_name']
-                graph.add_edge(enzyme=enz, ec=ec, source_name=src, target_name=tgt, weight=weight)
+                src = row['source']
+                tgt = row['target']
+                clr = row['color']
+                if clr == 'green':
+                    w = 1
+                elif clr == 'white':
+                    w = 10
+                else: # retropath
+                    w = 100
+                graph.add_edge(enzyme=enz, ec=ec, source_name=src, target_name=tgt, weight=w )
         return graph
 
     @classmethod
@@ -128,6 +134,7 @@ class MetabolicGraph:
             start_node = self.nodes[start.lower()]
             goal_node  = self.nodes[goal.lower()]
         except KeyError:
+            print('nodes not found')
             return None, None, None
 
         dist: dict[Node, float] = {n: float('inf') for n in self.nodes.values()}
@@ -159,6 +166,7 @@ class MetabolicGraph:
                     heapq.heappush(heap, (new_dist, next(counter), v))
 
         if dist[goal_node] == float('inf'):
+            print('infinite distance')
             return None, None, None
 
         # Reconstruct node‐path and collect EC numbers
@@ -177,14 +185,3 @@ class MetabolicGraph:
         path_ecs.reverse()
 
         return dist[goal_node], path_nodes, path_ecs
-
-    def save_graph_variable(self, filename='Pathways/graph_variable'):
-        with open(filename, 'wb') as f:
-            dill.dump(self, f, byref=True)
-
-    @classmethod
-    def load_graph_variable(cls, filename='Pathways/graph_variable') -> MetabolicGraph:
-        with open(filename, 'rb') as f:
-            graph = dill.load(f)
-        cls.mega = graph
-        return graph
