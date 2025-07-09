@@ -1,5 +1,5 @@
 import statistics
-from ortho_finder import fetch_protein_ids, fetch_sequences, parse_fasta
+from fetchers.ncbi_filtering import fetch_protein_ids, fetch_sequences, parse_fasta
 
 def infer_expected_length(sequences_dict):
     lengths = [len(seq) for seq in sequences_dict.values()]
