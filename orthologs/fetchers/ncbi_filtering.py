@@ -20,7 +20,10 @@ def fetch_protein_ids(ec_number, organism, batch_size=100, reviewed=False):
     r = requests.get('https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi', params=count_params)
     tree = ElementTree.fromstring(r.text)
     total_count = int(tree.findtext('.//Count'))
-    print(f"Total proteins found for {ec_number} in {organism} (reviewed={reviewed}): {total_count}")
+    if reviewed:
+        print(f"Total reviwed proteins found for {ec_number} in {organism}: {total_count}")
+    else:
+        print(f"Total non-reviwed proteins found for {ec_number} in {organism}: {total_count}")
 
     # Now fetch in batches
     while start < total_count:
@@ -74,17 +77,22 @@ def parse_fasta(fasta_text):
 if __name__ == '__main__':
     ec = '1.13.11.8'
     orgs = ['Rhodococcus', 'Nocardiaceae', 'Mycobacteriales', 'Actinomycetes']
-    org = orgs[0]  #using the first level in the taxonomy
 
-    protein_ids = fetch_protein_ids(ec, org, reviewed=True)    #try reviewed first
-    if not protein_ids:
-        print("Nessun ID reviewed trovato, riprovo senza filtro reviewed...")
-        protein_ids = fetch_protein_ids(ec, org, reviewed=False)
+    for i in range(len(orgs)):
+        org = orgs[i]
+        print(f"\nFetching protein IDs for EC {ec} in {org}...")
+        protein_ids = fetch_protein_ids(ec, orgs[i], reviewed=True)    #try reviewed first
         if not protein_ids:
-            print("Nessun ID proteina trovato nemmeno senza filtro reviewed.")
-            exit()
+            print("No reviewed protein IDs found, trying without reviewed filter...")
+            protein_ids = fetch_protein_ids(ec, org, reviewed=False)
+            if not protein_ids:
+                print("No protein IDs found, even without reviewed filter.")
+            else:
+                print("Found non-reviewed protein IDs")
+                break
         else:
-            print("Utilizzate sequenze non-reviewed.")
+            print(f"Found {len(protein_ids)} reviewed protein IDs.")
+            break
 
     fasta = fetch_sequences(protein_ids)    #entries as string in FASTA format
     parsed_sequences = parse_fasta(fasta)   #dictionary with headers as keys and sequences as values
