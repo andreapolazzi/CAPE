@@ -75,8 +75,8 @@ def parse_fasta(fasta_text):
     return sequences
 
 if __name__ == '__main__':
-    ec = '1.13.11.8'
-    orgs = ['Rhodococcus', 'Nocardiaceae', 'Mycobacteriales', 'Actinomycetes']
+    ec = '3.7.1.21'
+    orgs = ['Rhodococcus', 'Nocardiaceae', 'Mycobacteriales', 'Actinomycetes', 'Actinomycetota', 'Bacillati']
 
     for i in range(len(orgs)):
         org = orgs[i]
