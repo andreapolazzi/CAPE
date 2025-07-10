@@ -24,26 +24,44 @@ def is_suspect_header(header):
     return any(keyword in lower for keyword in ['hypothetical', 'fragment', 'partial'])   #can be extended
 
 def filter_by_length(sequences_dict):
+    if len(sequences_dict) < 3:
+        print("Too few sequences to apply length filter. Returning all non-suspect sequences.")
+        return {
+            header: sequence
+            for header, sequence in sequences_dict.items()
+            if not is_suspect_header(header)
+        }
+
     expected_len = infer_expected_length(sequences_dict)
     print(f"Inferred expected length: {expected_len}")
 
     filtered = {}
+    relaxed = len(sequences_dict) < 10
+    if relaxed:
+        print("Applying relaxed filtering due to small number of sequences.")
+
     for header, sequence in sequences_dict.items():
         if is_suspect_header(header):
             print(f"Removed suspect: {header}")
             continue
 
         seq_len = len(sequence)
-        if 0.6 * expected_len <= seq_len <= 1.5 * expected_len:
-            filtered[header] = sequence
+        if relaxed:
+            if 0.5 * expected_len <= seq_len <= 2.0 * expected_len:
+                filtered[header] = sequence
+            else:
+                print(f"Removed extreme outlier: {header[:50]}... | Length: {seq_len}")
         else:
-            print(f"Removed outlier: {header[:50]}... | Length: {seq_len}")
+            if 0.6 * expected_len <= seq_len <= 1.5 * expected_len:
+                filtered[header] = sequence
+            else:
+                print(f"Removed outlier: {header[:50]}... | Length: {seq_len}")
 
     return filtered
 
 if __name__ == '__main__':
-    ec = '2.8.3.6'
-    org = 'Rhodococcus'
+    ec = '1.13.11.8'
+    org = 'Nocardiaceae'
     protein_ids = fetch_protein_ids(ec, org)
     if not protein_ids:
         print("Nessun ID proteina trovato.")
