@@ -1,7 +1,0 @@
-enzyme_name	EC	source_node_name	target_node_name
-dTDP-4-dehydrorhamnose 3,5-epimerase	5.1.3.13	dTDP-4-oxo-6-deoxy-D-glucose	dTDP-4-dehydro-beta-L-rhamnose
-dTDP-4-dehydrorhamnose reductase	1.1.1.133	dTDP-4-dehydro-beta-L-rhamnose	dTDP-L-rhamnose
-dTDP-L-rhamnose 4-epimerase	5.1.3.25	dTDP-6-deoxy-beta-L-talose	dTDP-L-rhamnose
-dTDP-L-rhamnose 4-epimerase	5.1.3.25	dTDP-L-rhamnose	dTDP-6-deoxy-beta-L-talose
-dTDP-glucose 4,6-dehydratase	4.2.1.46	dTDP-glucose	dTDP-4-oxo-6-deoxy-D-glucose
-glucose-1-phosphate thymidylyltransferase	2.7.7.24	D-Glucose 1-phosphate	dTDP-glucose
