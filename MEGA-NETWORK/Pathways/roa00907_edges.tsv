@@ -1,8 +1,0 @@
-enzyme_name	EC	source_node_name	target_node_name
-3-hydroxyacyl-CoA dehydrogenase / enoyl-CoA hydratase / 3-hydroxybutyryl-CoA epimerase	1.1.1.35 4.2.1.17 5.1.2.3	3-Hydroxy-5-methylhex-4-enoyl-CoA	5-Methyl-3-oxo-4-hexenoyl-CoA
-acetyl-CoA acyltransferase	2.3.1.16	5-Methyl-3-oxo-4-hexenoyl-CoA	3-Methylcrotonyl-CoA
-acetyl-CoA acyltransferase	2.3.1.16	7-Methyl-3-oxo-6-octenoyl-CoA	5-Methylhex-4-enoyl-CoA
-enoyl-CoA hydratase	4.2.1.17	(2E)-5-Methylhexa-2,4-dienoyl-CoA	3-Hydroxy-5-methylhex-4-enoyl-CoA
-enoyl-CoA hydratase	4.2.1.17	cis-2-Methyl-5-isopropylhexa-2,5-dienoyl-CoA	3-Hydroxy-2,6-dimethyl-5-methylene-heptanoyl-CoA
-enoyl-CoA hydratase	4.2.1.17	trans-2-Methyl-5-isopropylhexa-2,5-dienoyl-CoA	3-Hydroxy-2,6-dimethyl-5-methylene-heptanoyl-CoA
-hydroxymethylglutaryl-CoA lyase	4.1.3.4	3-Hydroxy-3-(4-methylpent-3-en-1-yl)glutaryl-CoA	7-Methyl-3-oxo-6-octenoyl-CoA
