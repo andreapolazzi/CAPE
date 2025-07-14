@@ -8,7 +8,7 @@ def infer_expected_length(sequences_dict):
     except statistics.StatisticsError:
         expected = statistics.median(lengths)
     return expected
-
+'''
 def length_score(actual_len, expected_len):
     if actual_len < 0.6 * expected_len:
         return -10  # likely fragment
@@ -18,49 +18,61 @@ def length_score(actual_len, expected_len):
         return +5   # ideal
     else:
         return 0
+'''
     
 def is_suspect_header(header):
+    """Check if a header contains keywords indicating low confidence annotations."""
     lower = header.lower()
-    return any(keyword in lower for keyword in ['hypothetical', 'fragment', 'partial'])   #can be extended
+    return any(keyword in lower for keyword in ['hypothetical', 'fragment', 'partial', 'putative'])   #can be extended
+
+def iqr_bounds(lengths, k=1.5):
+    """Return (lower, upper) bounds for outlier detection using Tukey's IQR rule."""
+    q1, q3 = statistics.quantiles(lengths, n=4)[0], statistics.quantiles(lengths, n=4)[2]
+    iqr = q3 - q1
+    return q1 - k * iqr, q3 + k * iqr
 
 def filter_by_length(sequences_dict):
-    if len(sequences_dict) < 3:
+    """Remove obvious length outliers using a robust IQR rule.
+    * Records flagged as hypothetical/fragment/partial/putative are discarded first.
+    * If <3 sequences remain, no statistical filtering is possible - return them.
+    * If ≥5 sequences remain, use Tukey's rule (1.5 x IQR) to define bounds.
+    * If 3-4 sequences remain, fall back to a broad window [0.5x, 2x] around the expected length (mode or median).
+    """
+    # --- step 1: drop low‑confidence annotations -----------------------------
+    clean_dict = {
+        header: seq
+        for header, seq in sequences_dict.items()
+        if not is_suspect_header(header)
+    }
+
+    if len(clean_dict) < 3:
         print("Too few sequences to apply length filter. Returning all non-suspect sequences.")
-        return {
-            header: sequence
-            for header, sequence in sequences_dict.items()
-            if not is_suspect_header(header)
-        }
+        return clean_dict
 
-    expected_len = infer_expected_length(sequences_dict)
-    print(f"Inferred expected length: {expected_len}")
+    # --- step 2: determine statistical bounds --------------------------------
+    lengths = [len(seq) for seq in clean_dict.values()]
 
+    if len(lengths) >= 5:
+        lower, upper = iqr_bounds(lengths)
+        print(f"Applying IQR filter: {lower:.1f} ≤ len ≤ {upper:.1f}")
+    else:
+        expected_len = infer_expected_length(clean_dict)
+        lower, upper = 0.5 * expected_len, 2.0 * expected_len
+        print(f"Small-sample fallback window: {lower:.1f} ≤ len ≤ {upper:.1f}")
+
+    # --- step 3: filter -------------------------------------------------------
     filtered = {}
-    relaxed = len(sequences_dict) < 10
-    if relaxed:
-        print("Applying relaxed filtering due to small number of sequences.")
-
-    for header, sequence in sequences_dict.items():
-        if is_suspect_header(header):
-            print(f"Removed suspect: {header}")
-            continue
-
-        seq_len = len(sequence)
-        if relaxed:
-            if 0.5 * expected_len <= seq_len <= 2.0 * expected_len:
-                filtered[header] = sequence
-            else:
-                print(f"Removed extreme outlier: {header[:50]}... | Length: {seq_len}")
+    for header, seq in clean_dict.items():
+        l = len(seq)
+        if lower <= l <= upper:
+            filtered[header] = seq
         else:
-            if 0.6 * expected_len <= seq_len <= 1.5 * expected_len:
-                filtered[header] = sequence
-            else:
-                print(f"Removed outlier: {header[:50]}... | Length: {seq_len}")
+            print(f"Removed length outlier: {header[:50]}... | Length: {l}")
 
     return filtered
 
 if __name__ == '__main__':
-    ec = '1.13.11.8'
+    ec = '6.2.1.25'
     org = 'Nocardiaceae'
     protein_ids = fetch_protein_ids(ec, org)
     if not protein_ids:
