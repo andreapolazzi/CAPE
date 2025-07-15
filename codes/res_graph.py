@@ -39,9 +39,9 @@ def add_names(df):
 
 if __name__ == "__main__":
 
-    #file_path = "/work/igem/iGEM/graphs/res_cases/ota_MET_scope.csv"
-    #file_path = "/work/igem/iGEM/graphs/res_cases/ota_results.csv"
-    file_path = "/work/igem/iGEM/graphs/res_cases/otc_MET_scope.csv"
+    #file_path = "/work/igem/iGEM/graphs/data_files/res_cases/ota_MET_scope.csv"
+    #file_path = "/work/igem/iGEM/graphs/data_files/res_cases/ota_results.csv"
+    file_path = "/work/igem/iGEM/graphs/data_files/res_cases/otc_MET_scope.csv"
     df = load_res(file_path)
     print("Initial df\n", df)
     df = add_names(df)
