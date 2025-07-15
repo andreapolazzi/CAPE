@@ -2,7 +2,7 @@ import subprocess
 import os
 import platform
 
-def launch_retropath(**kwargs):
+def launch_retropath(std_out=False, std_err=False, debug=True, **kwargs):
     
     # Define the base directories
     codes_dir = os.path.dirname(os.path.abspath(__file__))  # Directory of the current script
@@ -93,22 +93,27 @@ def launch_retropath(**kwargs):
         result = subprocess.run(command, check=True, capture_output=True, text=True)
 
         # Print the output
-        print("Standard Output:")
-        print(result.stdout)
-        print("Standard Error:")
-        print(result.stderr)
+        if std_out:
+            print("Standard Output:")
+            print(result.stdout)
+        if std_err:
+            print("Standard Error:")
+            print(result.stderr)
 
     except subprocess.CalledProcessError as e:
-        print(f"An error occurred while running RetroPath:")
-        print(f"Return Code: {e.returncode}")
-        print("Standard Output Process Error:")
-        print(e.stdout)
-        print("Standard Error Process Error:")
-        print(e.stderr)
+        if debug:
+            print(f"An error occurred while running RetroPath:")
+            print(f"Return Code: {e.returncode}")
+            print("Standard Output Process Error:")
+            print(e.stdout)
+            print("Standard Error Process Error:")
+            print(e.stderr)
     except FileNotFoundError:
-        print("Error: RetroPath CLI executable not found. Please check the file path.")
+        if debug:
+            print("Error: RetroPath CLI executable not found. Please check the file path.")
     except Exception as e:
-        print(f"An unexpected error occurred: {e}")
+        if debug:
+            print(f"An unexpected error occurred: {e}")
 
 if __name__ == "__main__":
     launch_retropath(pathway_length='3')
