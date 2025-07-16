@@ -1,8 +1,6 @@
-import networkx as nx
-import matplotlib.pyplot as plt
 import pandas as pd
-from networkx.drawing.nx_agraph import graphviz_layout
 from pubchempy import get_compounds
+import requests
 
 def load_res(file_path):
     """
@@ -15,7 +13,7 @@ def get_name(inchi):
         Get the name of a compound from its InChI ID.
         """
         if inchi == 'InChI=1S':
-            return "H+"
+            return 'H+'
         compounds = get_compounds(inchi, 'inchi')
         if compounds:
             if compounds[0].synonyms:
@@ -23,8 +21,8 @@ def get_name(inchi):
             elif compounds[0].iupac_name:
                 return compounds[0].iupac_name
             else:
-                return "Unknown"
-        return "Unknown"
+                return 'Unknown'
+        return 'Unknown'
 
 def add_names(df):
     """
@@ -50,88 +48,57 @@ def nodes_to_tsv(df, outdir):
     all_compounds['name'] = all_compounds['inchi'].apply(get_name)
     all_compounds = all_compounds[['name', 'inchi']]
 
-    all_compounds.to_csv(outdir+"rp_nodes.tsv", sep='\t', index=False, header=True)
-
-    
-    
+    all_compounds.to_csv(outdir+'rp_nodes.tsv', sep='\t', index=False, header=True)
 
 
-def previous():
-    #print("Substrates\n", df['Substrate Name'].unique().tolist())
-    #print("Products\n", df["Product Name"].unique().tolist())
-
-    
-    G = nx.from_pandas_edgelist(
-                df=df, 
-                source='Substrate Name', 
-                target='Product Name', 
-                edge_attr=True, 
-                create_using=nx.DiGraph()
-            )
-    
-    # Use Graphviz 'dot' layout for hierarchical layering
-    pos = graphviz_layout(G, prog='dot')
-
-
-    # Draw the graph
-    #plt.figure(figsize=(16, 10))
-    plt.figure(figsize=(32, 20))
+def ec_to_name(ec: str):
     """
-    nx.draw(
-        G, 
-        pos,
-        with_labels=True, 
-        node_color='lightblue', node_size=500, font_size=10,
-        edge_color='gray', 
-        arrows=True, arrowsize=20
-        )
+    Convert EC number (format "x.x.x.x", not "EC:x.x.x.x") to a human-readable name.
     """
-    # Prepare edge colors and widths based on "In Sink" attribute
-    edge_colors = []
-    edge_widths = []
-    for u, v, d in G.edges(data=True):
-        if d.get("In Sink", 0) == 1:
-            edge_colors.append("green")
-            edge_widths.append(4)
-        else:
-            edge_colors.append("gray")
-            edge_widths.append(1)
+    try:
+        response = requests.get(f'https://rest.kegg.jp/get/ec:{ec}')
+        if response.status_code == 200:
+            lines = response.text.split('\n')
+            for line in lines:
+                if line.startswith('NAME'):
+                    return line.split('NAME')[1].strip().strip(';')
+        return 'Unknown'
+    except:
+        return 'Unknown'
 
-    nx.draw(
-        G, 
-        pos,
-        with_labels=True, 
-        node_color='lightblue', node_size=500, font_size=10,
-        edge_color=edge_colors,
-        width=edge_widths,
-        arrows=True, arrowsize=20
-    )
+
+def edges_to_tsv(df, outdir):
+    """
+    Save the edges (reactions) to a TSV file.
+    """
+    df['EC number'] = df['EC number'].apply(lambda x: x.strip('[]'))
+    #print(df['EC number'])
+    edges_df = df[['EC number', 'Substrate InChI', 'Product InChI']]
+    #print(edges_df)
+    edges_df['enzyme_name'] = edges_df['EC number'].apply(lambda x: x if x == 'NOEC' else ec_to_name(x))
+    edges_df['color'] = 'yellow'
+    edges_df = edges_df.rename(columns={'EC number': 'EC', 'Substrate InChI': 'source', 'Product InChI': 'target'})
+    edges_df = edges_df[['enzyme_name', 'EC', 'source', 'target', 'color']]
+    edges_df.to_csv(outdir+'rp_edges.tsv', sep='\t', index=False, header=True)
+    #print(edges_df)
     
-    # Draw EC number as edge labels
-    edge_labels = nx.get_edge_attributes(G, 'EC number')
-    nx.draw_networkx_edge_labels(G, pos, edge_labels=edge_labels, font_color='red', font_size=8)
-
-
-    plt.title("Directed Graph from Results")
-    #plt.show()
-    #plt.savefig("/work/igem/iGEM/results/ota_scope.png", dpi=400)
-    #plt.savefig("/work/igem/iGEM/results/ota_results.png", dpi=400)
-    plt.savefig("/work/igem/iGEM/results/otc_scope.png", dpi=400)
-
-
 
 
 if __name__ == "__main__":
-
+    
     #file_path = "/work/igem/iGEM/data_files/res_cases/ota_MET_scope.csv"
     file_path = "./data_files/res_cases/ota_MET_scope.csv"
+    outdir = "./results/"
     
     df = load_res(file_path)
     #print("Initial df\n", df)
-
-    outdir = "./results/"
+    
     nodes_to_tsv(df, outdir)
     print("Nodes saved to TSV file.")
+
+    #print(ec_to_name("1.18.1.3"))
+    edges_to_tsv(df, outdir)
+    print("Edges saved to TSV file.")
     
     
 
