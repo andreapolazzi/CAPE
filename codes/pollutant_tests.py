@@ -100,7 +100,9 @@ if __name__ == "__main__":
     source_name = df.iloc[int(session_num)-1]['Name']
     source_inchi = df.iloc[int(session_num)-1]['InChI']
 
-    returncode, stdout, stderr = rp_single_source(sink_file, rules_file, outdir, source_name, source_inchi, steps=5)
+    steps = int(input("Enter number of steps (default 3): ") or 3)
+
+    returncode, stdout, stderr = rp_single_source(sink_file, rules_file, outdir, source_name, source_inchi, steps=steps)
     
     print("Return code:", returncode)
     print("Standard Output:", stdout)
