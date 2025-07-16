@@ -102,7 +102,11 @@ if __name__ == "__main__":
 
     steps = int(input("Enter number of steps (default 3): ") or 3)
 
-    returncode, stdout, stderr = rp_single_source(sink_file, rules_file, outdir, source_name, source_inchi, steps=steps)
+    dmin = int(input("Enter minimum diameter (default 6): ") or 6)
+    dmax = int(input("Enter maximum diameter (default 16): ") or 16)
+
+    returncode, stdout, stderr = rp_single_source(sink_file, rules_file, outdir, source_name, source_inchi, 
+                                                  steps=steps, dmin=dmin, dmax=dmax)
     
     print("Return code:", returncode)
     print("Standard Output:", stdout)
