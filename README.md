@@ -67,6 +67,6 @@ Parametri generali:
 # Usare RetroPath
 Github repo del wrapper disponibile [qui](https://github.com/brsynth/RetroPath2-wrapper)
 
-E' necessario attivare l'ambiente virtuale di conda per poter usare retropath. Tutti i file dei composti in ```data_files/``` sono compatibili per essere usati come source/sink.
+E' necessario attivare l'ambiente virtuale di conda ```retropath_env``` per poter usare retropath. Tutti i file dei composti in ```data_files/``` sono compatibili per essere usati come source/sink.
 
 E' runnabile da command-line: ```python -m retropath2_wrapper <sink_file> <rules_file> <outdir> [-h] [--source_file SOURCE_FILE] [--max_steps MAX_STEPS] [--topx TOPX] [--dmin DMIN] [--dmax DMAX]```
