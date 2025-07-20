@@ -79,7 +79,7 @@ def parse_fasta(fasta_text):
 
 if __name__ == '__main__':
     from remove_outliers import filter_by_length
-    ec = '3.7.1.21'
+    ec = input('Enter the EC: ')
     orgs = ['Rhodococcus', 'Nocardiaceae', 'Mycobacteriales', 'Actinomycetes', 'Actinomycetota', 'Bacillati']
 
     for org in orgs:
@@ -92,7 +92,7 @@ if __name__ == '__main__':
         print("No reviewed protein IDs found, trying without reviewed filter...")
         protein_ids = fetch_protein_ids(ec, org, reviewed=False)
         if protein_ids:
-            print(f"Found {len(protein_ids)} non‑reviewed protein IDs.")
+            print(f"Found {len(protein_ids)} non-reviewed protein IDs.")
             break
 
         print("No protein IDs found for this taxon.")
