@@ -1,4 +1,5 @@
 import statistics
+import numpy as np
 
 def infer_expected_length(sequences_dict):
     """Infer the expected length of sequences based on the most common length.
@@ -18,7 +19,8 @@ def is_suspect_header(header):
 
 def iqr_bounds(lengths, k=1.5):
     """Return (lower, upper) bounds for outlier detection using Tukey's IQR rule."""
-    q1, q3 = statistics.quantiles(lengths, n=4)[0], statistics.quantiles(lengths, n=4)[2]
+    q1 = np.percentile(lengths, 25)
+    q3 = np.percentile(lengths, 75)
     iqr = q3 - q1
     return q1 - k * iqr, q3 + k * iqr
 
