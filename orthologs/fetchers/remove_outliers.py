@@ -18,11 +18,20 @@ def is_suspect_header(header):
     return any(keyword in lower for keyword in ['hypothetical', 'fragment', 'partial', 'putative'])   #can be extended
 
 def iqr_bounds(lengths, k=1.5):
-    """Return (lower, upper) bounds for outlier detection using Tukey's IQR rule."""
+    """Return (lower, upper) bounds for outlier detection using Tukey's IQR rule, with fallback if IQR is 0 or bounds are illogical."""
     q1 = np.percentile(lengths, 25)
     q3 = np.percentile(lengths, 75)
     iqr = q3 - q1
-    return q1 - k * iqr, q3 + k * iqr
+
+    lower, upper = q1 - k * iqr, q3 + k * iqr
+
+    # Fallback if IQR is 0, negative, or bounds are nonsensical
+    if iqr <= 0 or lower < 0 or upper < 1.1 * q3:
+        median = np.median(lengths)
+        print("IQR unreliable or bounds too tight — using fallback window around median.")
+        return 0.5 * median, 2.0 * median
+
+    return lower, upper
 
 def filter_by_length(sequences_dict):
     """Remove obvious length outliers using a robust IQR rule.
