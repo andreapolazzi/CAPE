@@ -74,6 +74,8 @@ def filter_by_length(sequences_dict):
 if __name__ == '__main__':
     ec = '1.14.12.3'
     org = 'Actinomycetes'
+    ec = '6.2.1.25'
+    org = 'Nocardiaceae'
     protein_ids = fetch_protein_ids(ec, org)
     if not protein_ids:
         print("Nessun ID proteina trovato.")
