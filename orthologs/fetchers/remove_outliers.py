@@ -1,24 +1,15 @@
 import statistics
-from fetchers.ncbi_filtering import fetch_protein_ids, fetch_sequences, parse_fasta
 
 def infer_expected_length(sequences_dict):
+    """Infer the expected length of sequences based on the most common length.
+    If there's no clear mode, use the median length instead.
+    """
     lengths = [len(seq) for seq in sequences_dict.values()]
     try:
         expected = statistics.mode(lengths)
     except statistics.StatisticsError:
         expected = statistics.median(lengths)
     return expected
-'''
-def length_score(actual_len, expected_len):
-    if actual_len < 0.6 * expected_len:
-        return -10  # likely fragment
-    elif actual_len > 1.5 * expected_len:
-        return -5   # likely fusion
-    elif abs(actual_len - expected_len) < 0.15 * expected_len:
-        return +5   # ideal
-    else:
-        return 0
-'''
     
 def is_suspect_header(header):
     """Check if a header contains keywords indicating low confidence annotations."""
@@ -72,18 +63,4 @@ def filter_by_length(sequences_dict):
     return filtered
 
 if __name__ == '__main__':
-    ec = '1.14.12.3'
-    org = 'Actinomycetes'
-    ec = '6.2.1.25'
-    org = 'Nocardiaceae'
-    protein_ids = fetch_protein_ids(ec, org)
-    if not protein_ids:
-        print("Nessun ID proteina trovato.")
-        exit()
-    fasta = fetch_sequences(protein_ids)
-    parsed_sequences = parse_fasta(fasta)
-
-    filtered_sequences = filter_by_length(parsed_sequences)
-    print(f"\nRemaining sequences after outlier removal: {len(filtered_sequences)}")
-    for header, seq in filtered_sequences.items():
-        print(f">{header}\n{seq}\n")
+    pass
