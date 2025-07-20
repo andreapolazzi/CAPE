@@ -1,0 +1,1402 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+ xml:base="http://http://BioCyc.org//META/pathway-biopax?type=2%38object=PWY-7794"
+ xmlns:owl="http://www.w3.org/2002/07/owl#"
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+ xmlns:xs="http://www.w3.org/2001/XMLSchema#"
+ xmlns:bp="http://www.biopax.org/release/biopax-level2.owl#"
+>
+ <owl:Ontology rdf:about="">
+    <owl:imports rdf:resource="http://www.biopax.org/release/biopax-level2.owl"/>
+ <rdfs:comment>This%32BioPAX%32Level%322%32output%32for%32organism%32MetaCyc%44%32pathway%32polyethylene%3732terephthalate%3732degradation%10was%32automatically%32generated%32from%32URL%32http%58%47%47http%58%47%47BioCyc%46org%47%47META%47pathway%45biopax%63type%612%3738object%61PWY%457794%32on%3207%45Feb%452025%32%3202%5832%5806%46%32%32Note%32that%32all%32IDs%32are%32auto%45generated%44%10and%32are%32valid%32in%32the%32scope%32of%32this%32file%32only%46%32%32If%32the%32data%32is%32regenerated%32at%32some%32later%10time%44%32or%32data%32for%32another%32pathway%32is%32generated%32from%32this%32same%32site%44%32there%32are%32no%32%10guarantees%32that%32the%32same%32IDs%32will%32refer%32to%32the%32same%32objects%46%32%32To%32retrieve%32a%32file%32%10containing%32a%32complete%32list%32of%32pathways%32for%32this%32organism%32in%32BioPAX%32format%44%32please%10visit%32http%58%47%47biocyc%46org%47download%45flatfiles%46shtml</rdfs:comment>
+ </owl:Ontology>
+  <bp:unificationXref rdf:ID="unificationXref2059">
+    <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">HMDB</bp:DB>
+    <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">HMDB02428</bp:ID>
+  </bp:unificationXref>
+  <bp:unificationXref rdf:ID="unificationXref1962">
+    <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CAS</bp:DB>
+    <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">7732-18-5</bp:ID>
+  </bp:unificationXref>
+  <bp:relationshipXref rdf:ID="relationshipXref1985">
+    <bp:RELATIONSHIP-TYPE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Structure</bp:RELATIONSHIP-TYPE>
+    <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PDB</bp:DB>
+    <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">8GU5</bp:ID>
+  </bp:relationshipXref>
+  <bp:smallMolecule rdf:ID="smallMolecule1954">
+    <bp:MOLECULAR-WEIGHT rdf:datatype="http://www.w3.org/2001/XMLSchema#float">18.015</bp:MOLECULAR-WEIGHT>
+    <bp:STRUCTURE>
+      <bp:chemicalStructure rdf:ID="chemicalStructure1964">
+        <bp:STRUCTURE-FORMAT rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CML</bp:STRUCTURE-FORMAT>
+        <bp:STRUCTURE-DATA rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> &lt;cml&gt;
+  &lt;molecule id=&quot;WATER&quot; title=&quot;H2O&quot; formalCharge=&quot;0&quot; dictRef=&quot;dictWATER&quot;&gt;
+   &lt;atomArray&gt;
+    &lt;atom id=&quot;WATER-atom1&quot; elementType=&quot;O&quot; x2=&quot;428.0&quot; y2=&quot;-999.0&quot;/&gt;
+    &lt;atom id=&quot;WATER-atom2&quot; elementType=&quot;H&quot; x2=&quot;429.0&quot; y2=&quot;-1000.0&quot;/&gt;
+    &lt;atom id=&quot;WATER-atom3&quot; elementType=&quot;H&quot; x2=&quot;427.0&quot; y2=&quot;-1000.0&quot;/&gt;
+   &lt;/atomArray&gt;
+   &lt;bondArray&gt;
+    &lt;bond id=&quot;WATER-bond1&quot; atomRefs=&quot;WATER-atom1 WATER-atom2&quot; order=&quot;1&quot;/&gt;
+    &lt;bond id=&quot;WATER-bond2&quot; atomRefs=&quot;WATER-atom1 WATER-atom3&quot; order=&quot;1&quot;/&gt;
+   &lt;/bondArray&gt;
+   &lt;formula concise=&quot;H 2 O 1&quot;/&gt;
+   &lt;float title=&quot;molecularWeight&quot; units=&quot;g/mol&quot;&gt;18.015&lt;/float&gt;
+   &lt;string title=&quot;smiles&quot;&gt;O&lt;/string&gt;
+  &lt;/molecule&gt;
+ &lt;/cml&gt;
+</bp:STRUCTURE-DATA>
+      </bp:chemicalStructure>
+    </bp:STRUCTURE>
+    <bp:XREF>
+      <bp:unificationXref rdf:ID="unificationXref1963">
+        <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">WATER</bp:ID>
+        <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">MetaCyc</bp:DB>
+      </bp:unificationXref>
+    </bp:XREF>
+    <bp:XREF rdf:resource="#unificationXref1962"/>
+    <bp:XREF>
+      <bp:unificationXref rdf:ID="unificationXref1961">
+        <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Kegg</bp:DB>
+        <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">C00001</bp:ID>
+      </bp:unificationXref>
+    </bp:XREF>
+    <bp:XREF>
+      <bp:unificationXref rdf:ID="unificationXref1960">
+        <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PubChem</bp:DB>
+        <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">962</bp:ID>
+      </bp:unificationXref>
+    </bp:XREF>
+    <bp:XREF>
+      <bp:unificationXref rdf:ID="unificationXref1959">
+        <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ChEBI</bp:DB>
+        <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">15377</bp:ID>
+      </bp:unificationXref>
+    </bp:XREF>
+    <bp:XREF>
+      <bp:unificationXref rdf:ID="unificationXref1958">
+        <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ChemSpider</bp:DB>
+        <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">937</bp:ID>
+      </bp:unificationXref>
+    </bp:XREF>
+    <bp:XREF>
+      <bp:unificationXref rdf:ID="unificationXref1957">
+        <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">HMDB</bp:DB>
+        <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">HMDB02111</bp:ID>
+      </bp:unificationXref>
+    </bp:XREF>
+    <bp:XREF>
+      <bp:unificationXref rdf:ID="unificationXref1956">
+        <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">MetaboLights</bp:DB>
+        <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">MTBLC15377</bp:ID>
+      </bp:unificationXref>
+    </bp:XREF>
+    <bp:XREF>
+      <bp:unificationXref rdf:ID="unificationXref1955">
+        <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">BIGG</bp:DB>
+        <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">h2o</bp:ID>
+      </bp:unificationXref>
+    </bp:XREF>
+    <bp:NAME rdf:datatype="http://www.w3.org/2001/XMLSchema#string">H2O</bp:NAME>
+    <bp:SYNONYMS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">H2O</bp:SYNONYMS>
+    <bp:SYNONYMS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">hydrogen oxide</bp:SYNONYMS>
+    <bp:SYNONYMS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">water</bp:SYNONYMS>
+  </bp:smallMolecule>
+  <bp:relationshipXref rdf:ID="relationshipXref1988">
+    <bp:RELATIONSHIP-TYPE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Structure</bp:RELATIONSHIP-TYPE>
+    <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PDB</bp:DB>
+    <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">7OSB</bp:ID>
+  </bp:relationshipXref>
+  <bp:relationshipXref rdf:ID="relationshipXref2006">
+    <bp:RELATIONSHIP-TYPE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Structure</bp:RELATIONSHIP-TYPE>
+    <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PDB</bp:DB>
+    <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">5XJH</bp:ID>
+  </bp:relationshipXref>
+  <bp:unificationXref rdf:ID="unificationXref1969">
+    <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">MetaNetX</bp:DB>
+    <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">MNXM162456</bp:ID>
+  </bp:unificationXref>
+  <bp:chemicalStructure rdf:ID="chemicalStructure1952">
+    <bp:STRUCTURE-FORMAT rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CML</bp:STRUCTURE-FORMAT>
+    <bp:STRUCTURE-DATA rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> &lt;cml&gt;
+  &lt;molecule id=&quot;CPD-19188&quot; title=&quot;polyethylene terephthalate&quot; formalCharge=&quot;0&quot; dictRef=&quot;dictCPD-19188&quot;&gt;
+   &lt;atomArray&gt;
+    &lt;atom id=&quot;CPD-19188-atom1&quot; elementType=&quot;C&quot; x2=&quot;12555.0&quot; y2=&quot;9009.0&quot;/&gt;
+    &lt;atom id=&quot;CPD-19188-atom2&quot; elementType=&quot;C&quot; x2=&quot;11126.0&quot; y2=&quot;9009.0&quot;/&gt;
+    &lt;atom id=&quot;CPD-19188-atom3&quot; elementType=&quot;C&quot; x2=&quot;12555.0&quot; y2=&quot;8184.0&quot;/&gt;
+    &lt;atom id=&quot;CPD-19188-atom4&quot; elementType=&quot;C&quot; x2=&quot;11126.0&quot; y2=&quot;8184.0&quot;/&gt;
+    &lt;atom id=&quot;CPD-19188-atom5&quot; elementType=&quot;C&quot; x2=&quot;8982.0&quot; y2=&quot;4472.0&quot;/&gt;
+    &lt;atom id=&quot;CPD-19188-atom6&quot; elementType=&quot;C&quot; x2=&quot;7554.0&quot; y2=&quot;4472.0&quot;/&gt;
+    &lt;atom id=&quot;CPD-19188-atom7&quot; elementType=&quot;C&quot; x2=&quot;8982.0&quot; y2=&quot;5297.0&quot;/&gt;
+    &lt;atom id=&quot;CPD-19188-atom8&quot; elementType=&quot;C&quot; x2=&quot;7554.0&quot; y2=&quot;5297.0&quot;/&gt;
+    &lt;atom id=&quot;CPD-19188-atom9&quot; elementType=&quot;C&quot; x2=&quot;6125.0&quot; y2=&quot;2822.0&quot;/&gt;
+    &lt;atom id=&quot;CPD-19188-atom10&quot; elementType=&quot;C&quot; x2=&quot;6839.0&quot; y2=&quot;3234.0&quot;/&gt;
+    &lt;atom id=&quot;CPD-19188-atom11&quot; elementType=&quot;C&quot; x2=&quot;10411.0&quot; y2=&quot;6947.0&quot;/&gt;
+    &lt;atom id=&quot;CPD-19188-atom12&quot; elementType=&quot;C&quot; x2=&quot;9697.0&quot; y2=&quot;6534.0&quot;/&gt;
+    &lt;atom id=&quot;CPD-19188-atom13&quot; elementType=&quot;C&quot; x2=&quot;11840.0&quot; y2=&quot;9422.0&quot;/&gt;
+    &lt;atom id=&quot;CPD-19188-atom14&quot; elementType=&quot;C&quot; x2=&quot;11840.0&quot; y2=&quot;7772.0&quot;/&gt;
+    &lt;atom id=&quot;CPD-19188-atom15&quot; elementType=&quot;C&quot; x2=&quot;8268.0&quot; y2=&quot;4059.0&quot;/&gt;
+    &lt;atom id=&quot;CPD-19188-atom16&quot; elementType=&quot;C&quot; x2=&quot;8268.0&quot; y2=&quot;5709.0&quot;/&gt;
+    &lt;atom id=&quot;CPD-19188-atom17&quot; elementType=&quot;C&quot; x2=&quot;11840.0&quot; y2=&quot;10247.0&quot;/&gt;
+    &lt;atom id=&quot;CPD-19188-atom18&quot; elementType=&quot;C&quot; x2=&quot;8268.0&quot; y2=&quot;3234.0&quot;/&gt;
+    &lt;atom id=&quot;CPD-19188-atom19&quot; elementType=&quot;C&quot; x2=&quot;11840.0&quot; y2=&quot;6947.0&quot;/&gt;
+    &lt;atom id=&quot;CPD-19188-atom20&quot; elementType=&quot;C&quot; x2=&quot;8268.0&quot; y2=&quot;6534.0&quot;/&gt;
+    &lt;atom id=&quot;CPD-19188-atom21&quot; elementType=&quot;O&quot; x2=&quot;5410.0&quot; y2=&quot;3234.0&quot;/&gt;
+    &lt;atom id=&quot;CPD-19188-atom22&quot; elementType=&quot;O&quot; x2=&quot;11126.0&quot; y2=&quot;10659.0&quot;/&gt;
+    &lt;atom id=&quot;CPD-19188-atom23&quot; elementType=&quot;O&quot; x2=&quot;12555.0&quot; y2=&quot;10659.0&quot;/&gt;
+    &lt;atom id=&quot;CPD-19188-atom24&quot; elementType=&quot;O&quot; x2=&quot;8982.0&quot; y2=&quot;2822.0&quot;/&gt;
+    &lt;atom id=&quot;CPD-19188-atom25&quot; elementType=&quot;O&quot; x2=&quot;12555.0&quot; y2=&quot;6534.0&quot;/&gt;
+    &lt;atom id=&quot;CPD-19188-atom26&quot; elementType=&quot;O&quot; x2=&quot;7554.0&quot; y2=&quot;6947.0&quot;/&gt;
+    &lt;atom id=&quot;CPD-19188-atom27&quot; elementType=&quot;O&quot; x2=&quot;7554.0&quot; y2=&quot;2822.0&quot;/&gt;
+    &lt;atom id=&quot;CPD-19188-atom28&quot; elementType=&quot;O&quot; x2=&quot;11126.0&quot; y2=&quot;6534.0&quot;/&gt;
+    &lt;atom id=&quot;CPD-19188-atom29&quot; elementType=&quot;O&quot; x2=&quot;8982.0&quot; y2=&quot;6947.0&quot;/&gt;
+    &lt;atom id=&quot;CPD-19188-atom30&quot; elementType=&quot;R1&quot; x2=&quot;4696.0&quot; y2=&quot;2822.0&quot;/&gt;
+    &lt;atom id=&quot;CPD-19188-atom31&quot; elementType=&quot;R2&quot; x2=&quot;13269.0&quot; y2=&quot;10247.0&quot;/&gt;
+   &lt;/atomArray&gt;
+   &lt;bondArray&gt;
+    &lt;bond id=&quot;CPD-19188-bond1&quot; atomRefs=&quot;CPD-19188-atom3 CPD-19188-atom1&quot; order=&quot;2&quot;/&gt;
+    &lt;bond id=&quot;CPD-19188-bond2&quot; atomRefs=&quot;CPD-19188-atom1 CPD-19188-atom13&quot; order=&quot;1&quot;/&gt;
+    &lt;bond id=&quot;CPD-19188-bond3&quot; atomRefs=&quot;CPD-19188-atom13 CPD-19188-atom2&quot; order=&quot;2&quot;/&gt;
+    &lt;bond id=&quot;CPD-19188-bond4&quot; atomRefs=&quot;CPD-19188-atom2 CPD-19188-atom4&quot; order=&quot;1&quot;/&gt;
+    &lt;bond id=&quot;CPD-19188-bond5&quot; atomRefs=&quot;CPD-19188-atom4 CPD-19188-atom14&quot; order=&quot;2&quot;/&gt;
+    &lt;bond id=&quot;CPD-19188-bond6&quot; atomRefs=&quot;CPD-19188-atom3 CPD-19188-atom14&quot; order=&quot;1&quot;/&gt;
+    &lt;bond id=&quot;CPD-19188-bond7&quot; atomRefs=&quot;CPD-19188-atom13 CPD-19188-atom17&quot; order=&quot;1&quot;/&gt;
+    &lt;bond id=&quot;CPD-19188-bond8&quot; atomRefs=&quot;CPD-19188-atom17 CPD-19188-atom22&quot; order=&quot;2&quot;/&gt;
+    &lt;bond id=&quot;CPD-19188-bond9&quot; atomRefs=&quot;CPD-19188-atom17 CPD-19188-atom23&quot; order=&quot;1&quot;/&gt;
+    &lt;bond id=&quot;CPD-19188-bond10&quot; atomRefs=&quot;CPD-19188-atom14 CPD-19188-atom19&quot; order=&quot;1&quot;/&gt;
+    &lt;bond id=&quot;CPD-19188-bond11&quot; atomRefs=&quot;CPD-19188-atom19 CPD-19188-atom25&quot; order=&quot;2&quot;/&gt;
+    &lt;bond id=&quot;CPD-19188-bond12&quot; atomRefs=&quot;CPD-19188-atom19 CPD-19188-atom28&quot; order=&quot;1&quot;/&gt;
+    &lt;bond id=&quot;CPD-19188-bond13&quot; atomRefs=&quot;CPD-19188-atom28 CPD-19188-atom11&quot; order=&quot;1&quot;/&gt;
+    &lt;bond id=&quot;CPD-19188-bond14&quot; atomRefs=&quot;CPD-19188-atom11 CPD-19188-atom12&quot; order=&quot;1&quot;/&gt;
+    &lt;bond id=&quot;CPD-19188-bond15&quot; atomRefs=&quot;CPD-19188-atom29 CPD-19188-atom20&quot; order=&quot;1&quot;/&gt;
+    &lt;bond id=&quot;CPD-19188-bond16&quot; atomRefs=&quot;CPD-19188-atom23 CPD-19188-atom31&quot; order=&quot;1&quot;/&gt;
+    &lt;bond id=&quot;CPD-19188-bond17&quot; atomRefs=&quot;CPD-19188-atom5 CPD-19188-atom7&quot; order=&quot;2&quot;/&gt;
+    &lt;bond id=&quot;CPD-19188-bond18&quot; atomRefs=&quot;CPD-19188-atom7 CPD-19188-atom16&quot; order=&quot;1&quot;/&gt;
+    &lt;bond id=&quot;CPD-19188-bond19&quot; atomRefs=&quot;CPD-19188-atom16 CPD-19188-atom8&quot; order=&quot;2&quot;/&gt;
+    &lt;bond id=&quot;CPD-19188-bond20&quot; atomRefs=&quot;CPD-19188-atom8 CPD-19188-atom6&quot; order=&quot;1&quot;/&gt;
+    &lt;bond id=&quot;CPD-19188-bond21&quot; atomRefs=&quot;CPD-19188-atom6 CPD-19188-atom15&quot; order=&quot;2&quot;/&gt;
+    &lt;bond id=&quot;CPD-19188-bond22&quot; atomRefs=&quot;CPD-19188-atom5 CPD-19188-atom15&quot; order=&quot;1&quot;/&gt;
+    &lt;bond id=&quot;CPD-19188-bond23&quot; atomRefs=&quot;CPD-19188-atom15 CPD-19188-atom18&quot; order=&quot;1&quot;/&gt;
+    &lt;bond id=&quot;CPD-19188-bond24&quot; atomRefs=&quot;CPD-19188-atom18 CPD-19188-atom24&quot; order=&quot;2&quot;/&gt;
+    &lt;bond id=&quot;CPD-19188-bond25&quot; atomRefs=&quot;CPD-19188-atom18 CPD-19188-atom27&quot; order=&quot;1&quot;/&gt;
+    &lt;bond id=&quot;CPD-19188-bond26&quot; atomRefs=&quot;CPD-19188-atom27 CPD-19188-atom10&quot; order=&quot;1&quot;/&gt;
+    &lt;bond id=&quot;CPD-19188-bond27&quot; atomRefs=&quot;CPD-19188-atom10 CPD-19188-atom9&quot; order=&quot;1&quot;/&gt;
+    &lt;bond id=&quot;CPD-19188-bond28&quot; atomRefs=&quot;CPD-19188-atom9 CPD-19188-atom21&quot; order=&quot;1&quot;/&gt;
+    &lt;bond id=&quot;CPD-19188-bond29&quot; atomRefs=&quot;CPD-19188-atom21 CPD-19188-atom30&quot; order=&quot;1&quot;/&gt;
+    &lt;bond id=&quot;CPD-19188-bond30&quot; atomRefs=&quot;CPD-19188-atom16 CPD-19188-atom20&quot; order=&quot;1&quot;/&gt;
+    &lt;bond id=&quot;CPD-19188-bond31&quot; atomRefs=&quot;CPD-19188-atom20 CPD-19188-atom26&quot; order=&quot;2&quot;/&gt;
+    &lt;bond id=&quot;CPD-19188-bond32&quot; atomRefs=&quot;CPD-19188-atom29 CPD-19188-atom12&quot; order=&quot;1&quot;/&gt;
+   &lt;/bondArray&gt;
+   &lt;formula concise=&quot;&quot;/&gt;
+   &lt;string title=&quot;smiles&quot;&gt;C(O[R1])COC(=O)C2(\C=C/C(/C(=O)OCCOC(=O)C1(\C=C/C(/C(O[R2])=O)=C\C=1))=C\C=2)&lt;/string&gt;
+  &lt;/molecule&gt;
+ &lt;/cml&gt;
+</bp:STRUCTURE-DATA>
+  </bp:chemicalStructure>
+  <bp:unificationXref rdf:ID="unificationXref1949">
+    <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ChEBI</bp:DB>
+    <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">53259</bp:ID>
+  </bp:unificationXref>
+  <bp:pathway rdf:ID="pathway1936">
+    <bp:PATHWAY-COMPONENTS>
+      <bp:pathwayStep rdf:ID="pathwayStep2046">
+        <bp:STEP-INTERACTIONS>
+          <bp:biochemicalReaction rdf:ID="biochemicalReaction2047">
+            <bp:LEFT>
+              <bp:physicalEntityParticipant rdf:ID="phys-ent-participant2052">
+                <bp:STOICHIOMETRIC-COEFFICIENT rdf:datatype="http://www.w3.org/2001/XMLSchema#int">1</bp:STOICHIOMETRIC-COEFFICIENT>
+                <bp:PHYSICAL-ENTITY>
+                  <bp:smallMolecule rdf:ID="smallMolecule1967">
+                    <bp:MOLECULAR-WEIGHT rdf:datatype="http://www.w3.org/2001/XMLSchema#float">209.178</bp:MOLECULAR-WEIGHT>
+                    <bp:STRUCTURE>
+                      <bp:chemicalStructure rdf:ID="chemicalStructure1973">
+                        <bp:STRUCTURE-FORMAT rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CML</bp:STRUCTURE-FORMAT>
+                        <bp:STRUCTURE-DATA rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> &lt;cml&gt;
+  &lt;molecule id=&quot;CPD-19187&quot; title=&quot;4-[(2-hydroxyethoxy)carbonyl]benzoate&quot; formalCharge=&quot;-1&quot; dictRef=&quot;dictCPD-19187&quot;&gt;
+   &lt;atomArray&gt;
+    &lt;atom id=&quot;CPD-19187-atom1&quot; elementType=&quot;C&quot; x2=&quot;143010.0&quot; y2=&quot;165020.0&quot;/&gt;
+    &lt;atom id=&quot;CPD-19187-atom2&quot; elementType=&quot;C&quot; x2=&quot;0.0&quot; y2=&quot;165020.0&quot;/&gt;
+    &lt;atom id=&quot;CPD-19187-atom3&quot; elementType=&quot;C&quot; x2=&quot;143010.0&quot; y2=&quot;247020.0&quot;/&gt;
+    &lt;atom id=&quot;CPD-19187-atom4&quot; elementType=&quot;C&quot; x2=&quot;0.0&quot; y2=&quot;247020.0&quot;/&gt;
+    &lt;atom id=&quot;CPD-19187-atom5&quot; elementType=&quot;C&quot; x2=&quot;287030.0&quot; y2=&quot;412040.0&quot;/&gt;
+    &lt;atom id=&quot;CPD-19187-atom6&quot; elementType=&quot;C&quot; x2=&quot;215020.0&quot; y2=&quot;371040.0&quot;/&gt;
+    &lt;atom id=&quot;CPD-19187-atom7&quot; elementType=&quot;C&quot; x2=&quot;72010.0&quot; y2=&quot;124010.0&quot;/&gt;
+    &lt;atom id=&quot;CPD-19187-atom8&quot; elementType=&quot;C&quot; x2=&quot;72010.0&quot; y2=&quot;289030.0&quot;/&gt;
+    &lt;atom id=&quot;CPD-19187-atom9&quot; elementType=&quot;C&quot; x2=&quot;72010.0&quot; y2=&quot;41010.0&quot;/&gt;
+    &lt;atom id=&quot;CPD-19187-atom10&quot; elementType=&quot;C&quot; x2=&quot;72010.0&quot; y2=&quot;371040.0&quot;/&gt;
+    &lt;atom id=&quot;CPD-19187-atom11&quot; elementType=&quot;O&quot; x2=&quot;358030.0&quot; y2=&quot;371040.0&quot;/&gt;
+    &lt;atom id=&quot;CPD-19187-atom12&quot; elementType=&quot;O&quot; x2=&quot;144010.0&quot; y2=&quot;0.0&quot;/&gt;
+    &lt;atom id=&quot;CPD-19187-atom13&quot; elementType=&quot;O&quot; x2=&quot;1000.0&quot; y2=&quot;0.0&quot; formalCharge=&quot;-1&quot;/&gt;
+    &lt;atom id=&quot;CPD-19187-atom14&quot; elementType=&quot;O&quot; x2=&quot;1000.0&quot; y2=&quot;412040.0&quot;/&gt;
+    &lt;atom id=&quot;CPD-19187-atom15&quot; elementType=&quot;O&quot; x2=&quot;144010.0&quot; y2=&quot;412040.0&quot;/&gt;
+   &lt;/atomArray&gt;
+   &lt;bondArray&gt;
+    &lt;bond id=&quot;CPD-19187-bond1&quot; atomRefs=&quot;CPD-19187-atom3 CPD-19187-atom1&quot; order=&quot;2&quot;/&gt;
+    &lt;bond id=&quot;CPD-19187-bond2&quot; atomRefs=&quot;CPD-19187-atom1 CPD-19187-atom7&quot; order=&quot;1&quot;/&gt;
+    &lt;bond id=&quot;CPD-19187-bond3&quot; atomRefs=&quot;CPD-19187-atom7 CPD-19187-atom2&quot; order=&quot;2&quot;/&gt;
+    &lt;bond id=&quot;CPD-19187-bond4&quot; atomRefs=&quot;CPD-19187-atom2 CPD-19187-atom4&quot; order=&quot;1&quot;/&gt;
+    &lt;bond id=&quot;CPD-19187-bond5&quot; atomRefs=&quot;CPD-19187-atom4 CPD-19187-atom8&quot; order=&quot;2&quot;/&gt;
+    &lt;bond id=&quot;CPD-19187-bond6&quot; atomRefs=&quot;CPD-19187-atom3 CPD-19187-atom8&quot; order=&quot;1&quot;/&gt;
+    &lt;bond id=&quot;CPD-19187-bond7&quot; atomRefs=&quot;CPD-19187-atom7 CPD-19187-atom9&quot; order=&quot;1&quot;/&gt;
+    &lt;bond id=&quot;CPD-19187-bond8&quot; atomRefs=&quot;CPD-19187-atom9 CPD-19187-atom12&quot; order=&quot;2&quot;/&gt;
+    &lt;bond id=&quot;CPD-19187-bond9&quot; atomRefs=&quot;CPD-19187-atom9 CPD-19187-atom13&quot; order=&quot;1&quot;/&gt;
+    &lt;bond id=&quot;CPD-19187-bond10&quot; atomRefs=&quot;CPD-19187-atom8 CPD-19187-atom10&quot; order=&quot;1&quot;/&gt;
+    &lt;bond id=&quot;CPD-19187-bond11&quot; atomRefs=&quot;CPD-19187-atom10 CPD-19187-atom14&quot; order=&quot;2&quot;/&gt;
+    &lt;bond id=&quot;CPD-19187-bond12&quot; atomRefs=&quot;CPD-19187-atom10 CPD-19187-atom15&quot; order=&quot;1&quot;/&gt;
+    &lt;bond id=&quot;CPD-19187-bond13&quot; atomRefs=&quot;CPD-19187-atom15 CPD-19187-atom6&quot; order=&quot;1&quot;/&gt;
+    &lt;bond id=&quot;CPD-19187-bond14&quot; atomRefs=&quot;CPD-19187-atom6 CPD-19187-atom5&quot; order=&quot;1&quot;/&gt;
+    &lt;bond id=&quot;CPD-19187-bond15&quot; atomRefs=&quot;CPD-19187-atom5 CPD-19187-atom11&quot; order=&quot;1&quot;/&gt;
+   &lt;/bondArray&gt;
+   &lt;formula concise=&quot;C 10 H 9 O 5&quot;/&gt;
+   &lt;float title=&quot;molecularWeight&quot; units=&quot;g/mol&quot;&gt;209.178&lt;/float&gt;
+   &lt;string title=&quot;smiles&quot;&gt;C(O)COC(=O)C1(\C=C/C(/C([O-])=O)=C\C=1)&lt;/string&gt;
+  &lt;/molecule&gt;
+ &lt;/cml&gt;
+</bp:STRUCTURE-DATA>
+                      </bp:chemicalStructure>
+                    </bp:STRUCTURE>
+                    <bp:XREF>
+                      <bp:unificationXref rdf:ID="unificationXref1972">
+                        <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CPD-19187</bp:ID>
+                        <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">MetaCyc</bp:DB>
+                      </bp:unificationXref>
+                    </bp:XREF>
+                    <bp:XREF>
+                      <bp:unificationXref rdf:ID="unificationXref1971">
+                        <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PubChem</bp:DB>
+                        <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">22062452</bp:ID>
+                      </bp:unificationXref>
+                    </bp:XREF>
+                    <bp:XREF>
+                      <bp:unificationXref rdf:ID="unificationXref1970">
+                        <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Kegg</bp:DB>
+                        <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">C21450</bp:ID>
+                      </bp:unificationXref>
+                    </bp:XREF>
+                    <bp:XREF rdf:resource="#unificationXref1969"/>
+                    <bp:XREF>
+                      <bp:publicationXref rdf:ID="publicationXref1968">
+                        <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">26965627</bp:ID>
+                        <bp:YEAR rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2016</bp:YEAR>
+                        <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PubMed</bp:DB>
+                        <bp:SOURCE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Science 351(6278);1196-9</bp:SOURCE>
+                        <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Yoshida S</bp:AUTHORS>
+                        <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Hiraga K</bp:AUTHORS>
+                        <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Takehana T</bp:AUTHORS>
+                        <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Taniguchi I</bp:AUTHORS>
+                        <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Yamaji H</bp:AUTHORS>
+                        <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Maeda Y</bp:AUTHORS>
+                        <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Toyohara K</bp:AUTHORS>
+                        <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Miyamoto K</bp:AUTHORS>
+                        <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Kimura Y</bp:AUTHORS>
+                        <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Oda K</bp:AUTHORS>
+                        <bp:TITLE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">A bacterium that degrades and assimilates poly(ethylene terephthalate).</bp:TITLE>
+                      </bp:publicationXref>
+                    </bp:XREF>
+                    <bp:NAME rdf:datatype="http://www.w3.org/2001/XMLSchema#string">4-[(2-hydroxyethoxy)carbonyl]benzoate</bp:NAME>
+                    <bp:SYNONYMS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">MHET</bp:SYNONYMS>
+                    <bp:SYNONYMS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">mono(ethylene terephthalate)</bp:SYNONYMS>
+                  </bp:smallMolecule>
+                </bp:PHYSICAL-ENTITY>
+                <bp:CELLULAR-LOCATION>
+                  <bp:openControlledVocabulary rdf:ID="openControlledVocabulary1944">
+                    <bp:TERM rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CCO-CYTOSOL</bp:TERM>
+                    <bp:XREF>
+                      <bp:unificationXref rdf:ID="unificationXref1945">
+                        <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">GO:0005829</bp:ID>
+                        <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">GO</bp:DB>
+                      </bp:unificationXref>
+                    </bp:XREF>
+                  </bp:openControlledVocabulary>
+                </bp:CELLULAR-LOCATION>
+              </bp:physicalEntityParticipant>
+            </bp:LEFT>
+            <bp:LEFT>
+              <bp:physicalEntityParticipant rdf:ID="phys-ent-participant2053">
+                <bp:STOICHIOMETRIC-COEFFICIENT rdf:datatype="http://www.w3.org/2001/XMLSchema#int">1</bp:STOICHIOMETRIC-COEFFICIENT>
+                <bp:PHYSICAL-ENTITY rdf:resource="#smallMolecule1954"/>
+                <bp:CELLULAR-LOCATION rdf:resource="#openControlledVocabulary1944"/>
+              </bp:physicalEntityParticipant>
+            </bp:LEFT>
+            <bp:RIGHT>
+              <bp:physicalEntityParticipant rdf:ID="phys-ent-participant2066">
+                <bp:STOICHIOMETRIC-COEFFICIENT rdf:datatype="http://www.w3.org/2001/XMLSchema#int">1</bp:STOICHIOMETRIC-COEFFICIENT>
+                <bp:PHYSICAL-ENTITY>
+                  <bp:smallMolecule rdf:ID="smallMolecule2054">
+                    <bp:STRUCTURE>
+                      <bp:chemicalStructure rdf:ID="chemicalStructure2065">
+                        <bp:STRUCTURE-FORMAT rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CML</bp:STRUCTURE-FORMAT>
+                        <bp:STRUCTURE-DATA rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> &lt;cml&gt;
+  &lt;molecule id=&quot;TEREPHTHALATE&quot; title=&quot;terephthalate&quot; formalCharge=&quot;-2&quot; dictRef=&quot;dictTEREPHTHALATE&quot;&gt;
+   &lt;atomArray&gt;
+    &lt;atom id=&quot;TEREPHTHALATE-atom1&quot; elementType=&quot;C&quot; x2=&quot;-610.0&quot; y2=&quot;408.0&quot;/&gt;
+    &lt;atom id=&quot;TEREPHTHALATE-atom2&quot; elementType=&quot;C&quot; x2=&quot;-610.0&quot; y2=&quot;-418.0&quot;/&gt;
+    &lt;atom id=&quot;TEREPHTHALATE-atom3&quot; elementType=&quot;C&quot; x2=&quot;-2032.0&quot; y2=&quot;408.0&quot;/&gt;
+    &lt;atom id=&quot;TEREPHTHALATE-atom4&quot; elementType=&quot;C&quot; x2=&quot;-2032.0&quot; y2=&quot;-418.0&quot;/&gt;
+    &lt;atom id=&quot;TEREPHTHALATE-atom5&quot; elementType=&quot;C&quot; x2=&quot;-1326.0&quot; y2=&quot;816.0&quot;/&gt;
+    &lt;atom id=&quot;TEREPHTHALATE-atom6&quot; elementType=&quot;C&quot; x2=&quot;-1326.0&quot; y2=&quot;-826.0&quot;/&gt;
+    &lt;atom id=&quot;TEREPHTHALATE-atom7&quot; elementType=&quot;C&quot; x2=&quot;-1326.0&quot; y2=&quot;1641.0&quot;/&gt;
+    &lt;atom id=&quot;TEREPHTHALATE-atom8&quot; elementType=&quot;C&quot; x2=&quot;-1326.0&quot; y2=&quot;-1651.0&quot;/&gt;
+    &lt;atom id=&quot;TEREPHTHALATE-atom9&quot; elementType=&quot;O&quot; x2=&quot;-2102.0&quot; y2=&quot;2049.0&quot;/&gt;
+    &lt;atom id=&quot;TEREPHTHALATE-atom10&quot; elementType=&quot;O&quot; x2=&quot;-610.0&quot; y2=&quot;2049.0&quot; formalCharge=&quot;-1&quot;/&gt;
+    &lt;atom id=&quot;TEREPHTHALATE-atom11&quot; elementType=&quot;O&quot; x2=&quot;-610.0&quot; y2=&quot;-2059.0&quot;/&gt;
+    &lt;atom id=&quot;TEREPHTHALATE-atom12&quot; elementType=&quot;O&quot; x2=&quot;-2102.0&quot; y2=&quot;-2059.0&quot; formalCharge=&quot;-1&quot;/&gt;
+   &lt;/atomArray&gt;
+   &lt;bondArray&gt;
+    &lt;bond id=&quot;TEREPHTHALATE-bond1&quot; atomRefs=&quot;TEREPHTHALATE-atom3 TEREPHTHALATE-atom4&quot; order=&quot;2&quot;/&gt;
+    &lt;bond id=&quot;TEREPHTHALATE-bond2&quot; atomRefs=&quot;TEREPHTHALATE-atom5 TEREPHTHALATE-atom1&quot; order=&quot;2&quot;/&gt;
+    &lt;bond id=&quot;TEREPHTHALATE-bond3&quot; atomRefs=&quot;TEREPHTHALATE-atom5 TEREPHTHALATE-atom3&quot; order=&quot;1&quot;/&gt;
+    &lt;bond id=&quot;TEREPHTHALATE-bond4&quot; atomRefs=&quot;TEREPHTHALATE-atom7 TEREPHTHALATE-atom9&quot; order=&quot;2&quot;/&gt;
+    &lt;bond id=&quot;TEREPHTHALATE-bond5&quot; atomRefs=&quot;TEREPHTHALATE-atom7 TEREPHTHALATE-atom10&quot; order=&quot;1&quot;/&gt;
+    &lt;bond id=&quot;TEREPHTHALATE-bond6&quot; atomRefs=&quot;TEREPHTHALATE-atom7 TEREPHTHALATE-atom5&quot; order=&quot;1&quot;/&gt;
+    &lt;bond id=&quot;TEREPHTHALATE-bond7&quot; atomRefs=&quot;TEREPHTHALATE-atom8 TEREPHTHALATE-atom11&quot; order=&quot;2&quot;/&gt;
+    &lt;bond id=&quot;TEREPHTHALATE-bond8&quot; atomRefs=&quot;TEREPHTHALATE-atom8 TEREPHTHALATE-atom12&quot; order=&quot;1&quot;/&gt;
+    &lt;bond id=&quot;TEREPHTHALATE-bond9&quot; atomRefs=&quot;TEREPHTHALATE-atom6 TEREPHTHALATE-atom8&quot; order=&quot;1&quot;/&gt;
+    &lt;bond id=&quot;TEREPHTHALATE-bond10&quot; atomRefs=&quot;TEREPHTHALATE-atom2 TEREPHTHALATE-atom6&quot; order=&quot;2&quot;/&gt;
+    &lt;bond id=&quot;TEREPHTHALATE-bond11&quot; atomRefs=&quot;TEREPHTHALATE-atom4 TEREPHTHALATE-atom6&quot; order=&quot;1&quot;/&gt;
+    &lt;bond id=&quot;TEREPHTHALATE-bond12&quot; atomRefs=&quot;TEREPHTHALATE-atom1 TEREPHTHALATE-atom2&quot; order=&quot;1&quot;/&gt;
+   &lt;/bondArray&gt;
+   &lt;formula concise=&quot;C 8 H 4 O 4&quot;/&gt;
+   &lt;float title=&quot;molecularWeight&quot; units=&quot;g/mol&quot;&gt;164.117&lt;/float&gt;
+   &lt;string title=&quot;smiles&quot;&gt;C(C1(\C=C/C(/C([O-])=O)=C\C=1))([O-])=O&lt;/string&gt;
+  &lt;/molecule&gt;
+ &lt;/cml&gt;
+</bp:STRUCTURE-DATA>
+                      </bp:chemicalStructure>
+                    </bp:STRUCTURE>
+                    <bp:XREF>
+                      <bp:unificationXref rdf:ID="unificationXref2064">
+                        <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">TEREPHTHALATE</bp:ID>
+                        <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">MetaCyc</bp:DB>
+                      </bp:unificationXref>
+                    </bp:XREF>
+                    <bp:XREF>
+                      <bp:unificationXref rdf:ID="unificationXref2063">
+                        <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Kegg</bp:DB>
+                        <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">C06337</bp:ID>
+                      </bp:unificationXref>
+                    </bp:XREF>
+                    <bp:XREF>
+                      <bp:unificationXref rdf:ID="unificationXref2062">
+                        <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PubChem</bp:DB>
+                        <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">154269</bp:ID>
+                      </bp:unificationXref>
+                    </bp:XREF>
+                    <bp:XREF>
+                      <bp:unificationXref rdf:ID="unificationXref2061">
+                        <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ChEBI</bp:DB>
+                        <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">30043</bp:ID>
+                      </bp:unificationXref>
+                    </bp:XREF>
+                    <bp:XREF>
+                      <bp:unificationXref rdf:ID="unificationXref2060">
+                        <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ChemSpider</bp:DB>
+                        <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">135932</bp:ID>
+                      </bp:unificationXref>
+                    </bp:XREF>
+                    <bp:XREF rdf:resource="#unificationXref2059"/>
+                    <bp:XREF>
+                      <bp:unificationXref rdf:ID="unificationXref2058">
+                        <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">RefMet</bp:DB>
+                        <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Terephthalic acid</bp:ID>
+                      </bp:unificationXref>
+                    </bp:XREF>
+                    <bp:XREF>
+                      <bp:unificationXref rdf:ID="unificationXref2057">
+                        <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">MetaNetX</bp:DB>
+                        <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">MNXM2734</bp:ID>
+                      </bp:unificationXref>
+                    </bp:XREF>
+                    <bp:XREF>
+                      <bp:unificationXref rdf:ID="unificationXref2056">
+                        <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Seed</bp:DB>
+                        <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">cpd03778</bp:ID>
+                      </bp:unificationXref>
+                    </bp:XREF>
+                    <bp:XREF>
+                      <bp:unificationXref rdf:ID="unificationXref2055">
+                        <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ZINC</bp:DB>
+                        <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ZINC000012358714</bp:ID>
+                      </bp:unificationXref>
+                    </bp:XREF>
+                    <bp:MOLECULAR-WEIGHT rdf:datatype="http://www.w3.org/2001/XMLSchema#float">164.117</bp:MOLECULAR-WEIGHT>
+                    <bp:COMMENT rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Terephthalate (TPA) is a commodity chemical, used principally as a precursor to the polyester |FRAME: CPD-19188| (PET), used to make clothing and plastic bottles. TPA is manufactured by oxidation of |FRAME: CPD-1422|.
+
+Terephthalate and its |FRAME: CPD-19189 &quot;dimethyl ester&quot;| have very low toxicity, with LD50s on the order of grams/kg |CITS: [Sheehan00]|.</bp:COMMENT>
+                    <bp:NAME rdf:datatype="http://www.w3.org/2001/XMLSchema#string">terephthalate</bp:NAME>
+                    <bp:SYNONYMS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1,4-bezenedicarboxylic acid</bp:SYNONYMS>
+                    <bp:SYNONYMS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">p-phthalic acid</bp:SYNONYMS>
+                    <bp:SYNONYMS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">terephthalic acid</bp:SYNONYMS>
+                    <bp:SYNONYMS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1,4-dicarboxybenzene</bp:SYNONYMS>
+                    <bp:SYNONYMS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">TPA</bp:SYNONYMS>
+                  </bp:smallMolecule>
+                </bp:PHYSICAL-ENTITY>
+                <bp:CELLULAR-LOCATION rdf:resource="#openControlledVocabulary1944"/>
+              </bp:physicalEntityParticipant>
+            </bp:RIGHT>
+            <bp:RIGHT>
+              <bp:physicalEntityParticipant rdf:ID="phys-ent-participant2081">
+                <bp:STOICHIOMETRIC-COEFFICIENT rdf:datatype="http://www.w3.org/2001/XMLSchema#int">1</bp:STOICHIOMETRIC-COEFFICIENT>
+                <bp:PHYSICAL-ENTITY>
+                  <bp:smallMolecule rdf:ID="smallMolecule2067">
+                    <bp:STRUCTURE>
+                      <bp:chemicalStructure rdf:ID="chemicalStructure2080">
+                        <bp:STRUCTURE-FORMAT rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CML</bp:STRUCTURE-FORMAT>
+                        <bp:STRUCTURE-DATA rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> &lt;cml&gt;
+  &lt;molecule id=&quot;GLYCOL&quot; title=&quot;ethylene glycol&quot; formalCharge=&quot;0&quot; dictRef=&quot;dictGLYCOL&quot;&gt;
+   &lt;atomArray&gt;
+    &lt;atom id=&quot;GLYCOL-atom1&quot; elementType=&quot;C&quot; x2=&quot;330.0&quot; y2=&quot;-601.0&quot;/&gt;
+    &lt;atom id=&quot;GLYCOL-atom2&quot; elementType=&quot;C&quot; x2=&quot;-330.0&quot; y2=&quot;-1097.0&quot;/&gt;
+    &lt;atom id=&quot;GLYCOL-atom3&quot; elementType=&quot;O&quot; x2=&quot;1094.0&quot; y2=&quot;-920.0&quot;/&gt;
+    &lt;atom id=&quot;GLYCOL-atom4&quot; elementType=&quot;O&quot; x2=&quot;-1097.0&quot; y2=&quot;-782.0&quot;/&gt;
+   &lt;/atomArray&gt;
+   &lt;bondArray&gt;
+    &lt;bond id=&quot;GLYCOL-bond1&quot; atomRefs=&quot;GLYCOL-atom2 GLYCOL-atom4&quot; order=&quot;1&quot;/&gt;
+    &lt;bond id=&quot;GLYCOL-bond2&quot; atomRefs=&quot;GLYCOL-atom3 GLYCOL-atom1&quot; order=&quot;1&quot;/&gt;
+    &lt;bond id=&quot;GLYCOL-bond3&quot; atomRefs=&quot;GLYCOL-atom1 GLYCOL-atom2&quot; order=&quot;1&quot;/&gt;
+   &lt;/bondArray&gt;
+   &lt;formula concise=&quot;C 2 H 6 O 2&quot;/&gt;
+   &lt;float title=&quot;molecularWeight&quot; units=&quot;g/mol&quot;&gt;62.068&lt;/float&gt;
+   &lt;string title=&quot;smiles&quot;&gt;C(CO)O&lt;/string&gt;
+  &lt;/molecule&gt;
+ &lt;/cml&gt;
+</bp:STRUCTURE-DATA>
+                      </bp:chemicalStructure>
+                    </bp:STRUCTURE>
+                    <bp:XREF>
+                      <bp:unificationXref rdf:ID="unificationXref2079">
+                        <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">GLYCOL</bp:ID>
+                        <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">MetaCyc</bp:DB>
+                      </bp:unificationXref>
+                    </bp:XREF>
+                    <bp:XREF>
+                      <bp:unificationXref rdf:ID="unificationXref2078">
+                        <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CAS</bp:DB>
+                        <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">107-21-1</bp:ID>
+                      </bp:unificationXref>
+                    </bp:XREF>
+                    <bp:XREF>
+                      <bp:unificationXref rdf:ID="unificationXref2077">
+                        <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ChEBI</bp:DB>
+                        <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">30742</bp:ID>
+                      </bp:unificationXref>
+                    </bp:XREF>
+                    <bp:XREF>
+                      <bp:unificationXref rdf:ID="unificationXref2076">
+                        <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Kegg</bp:DB>
+                        <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">C01380</bp:ID>
+                      </bp:unificationXref>
+                    </bp:XREF>
+                    <bp:XREF>
+                      <bp:unificationXref rdf:ID="unificationXref2075">
+                        <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PubChem</bp:DB>
+                        <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">174</bp:ID>
+                      </bp:unificationXref>
+                    </bp:XREF>
+                    <bp:XREF>
+                      <bp:unificationXref rdf:ID="unificationXref2074">
+                        <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ChemSpider</bp:DB>
+                        <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">13835235</bp:ID>
+                      </bp:unificationXref>
+                    </bp:XREF>
+                    <bp:XREF>
+                      <bp:unificationXref rdf:ID="unificationXref2073">
+                        <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">HMDB</bp:DB>
+                        <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">HMDB32262</bp:ID>
+                      </bp:unificationXref>
+                    </bp:XREF>
+                    <bp:XREF>
+                      <bp:unificationXref rdf:ID="unificationXref2072">
+                        <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">MetaboLights</bp:DB>
+                        <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">MTBLC30742</bp:ID>
+                      </bp:unificationXref>
+                    </bp:XREF>
+                    <bp:XREF>
+                      <bp:unificationXref rdf:ID="unificationXref2071">
+                        <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">DrugBank</bp:DB>
+                        <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">DB01867</bp:ID>
+                      </bp:unificationXref>
+                    </bp:XREF>
+                    <bp:XREF>
+                      <bp:unificationXref rdf:ID="unificationXref2070">
+                        <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">RefMet</bp:DB>
+                        <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ethylene glycol</bp:ID>
+                      </bp:unificationXref>
+                    </bp:XREF>
+                    <bp:XREF>
+                      <bp:unificationXref rdf:ID="unificationXref2069">
+                        <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">MetaNetX</bp:DB>
+                        <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">MNXM3270</bp:ID>
+                      </bp:unificationXref>
+                    </bp:XREF>
+                    <bp:XREF>
+                      <bp:unificationXref rdf:ID="unificationXref2068">
+                        <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ZINC</bp:DB>
+                        <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ZINC000005224354</bp:ID>
+                      </bp:unificationXref>
+                    </bp:XREF>
+                    <bp:MOLECULAR-WEIGHT rdf:datatype="http://www.w3.org/2001/XMLSchema#float">62.068</bp:MOLECULAR-WEIGHT>
+                    <bp:COMMENT rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ethylene glycol is commonly used as a coolant, as a deicing fluid, and to produce plastics such as polyethylene terephthalate. Eethylene glycol readily partitions into the aqueous phase, resulting in high mobility and rapid dispersion through the biosphere. Although the toxicity is low |CITS: [11302583]|, acute exposure can result in kidney and brain damage and possibly teratogenesis.</bp:COMMENT>
+                    <bp:NAME rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ethylene glycol</bp:NAME>
+                    <bp:SYNONYMS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">monoethylene glycol</bp:SYNONYMS>
+                    <bp:SYNONYMS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2-hydroxyethanol</bp:SYNONYMS>
+                    <bp:SYNONYMS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ethanediol</bp:SYNONYMS>
+                    <bp:SYNONYMS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1,2-ethanediol</bp:SYNONYMS>
+                    <bp:SYNONYMS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">glycol</bp:SYNONYMS>
+                  </bp:smallMolecule>
+                </bp:PHYSICAL-ENTITY>
+                <bp:CELLULAR-LOCATION rdf:resource="#openControlledVocabulary1944"/>
+              </bp:physicalEntityParticipant>
+            </bp:RIGHT>
+            <bp:RIGHT>
+              <bp:physicalEntityParticipant rdf:ID="phys-ent-participant2094">
+                <bp:STOICHIOMETRIC-COEFFICIENT rdf:datatype="http://www.w3.org/2001/XMLSchema#int">1</bp:STOICHIOMETRIC-COEFFICIENT>
+                <bp:PHYSICAL-ENTITY>
+                  <bp:smallMolecule rdf:ID="smallMolecule2082">
+                    <bp:MOLECULAR-WEIGHT rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.008</bp:MOLECULAR-WEIGHT>
+                    <bp:STRUCTURE>
+                      <bp:chemicalStructure rdf:ID="chemicalStructure2093">
+                        <bp:STRUCTURE-FORMAT rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CML</bp:STRUCTURE-FORMAT>
+                        <bp:STRUCTURE-DATA rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> &lt;cml&gt;
+  &lt;molecule id=&quot;PROTON&quot; title=&quot;H+&quot; formalCharge=&quot;1&quot; dictRef=&quot;dictPROTON&quot;&gt;
+   &lt;atomArray&gt;
+    &lt;atom id=&quot;PROTON-atom1&quot; elementType=&quot;H&quot; x2=&quot;-1768.0&quot; y2=&quot;-4714.0&quot; formalCharge=&quot;1&quot;/&gt;
+   &lt;/atomArray&gt;
+   &lt;bondArray&gt;
+   &lt;/bondArray&gt;
+   &lt;formula concise=&quot;H 1&quot;/&gt;
+   &lt;float title=&quot;molecularWeight&quot; units=&quot;g/mol&quot;&gt;1.008&lt;/float&gt;
+   &lt;string title=&quot;smiles&quot;&gt;[H+]&lt;/string&gt;
+  &lt;/molecule&gt;
+ &lt;/cml&gt;
+</bp:STRUCTURE-DATA>
+                      </bp:chemicalStructure>
+                    </bp:STRUCTURE>
+                    <bp:XREF>
+                      <bp:unificationXref rdf:ID="unificationXref2092">
+                        <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PROTON</bp:ID>
+                        <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">MetaCyc</bp:DB>
+                      </bp:unificationXref>
+                    </bp:XREF>
+                    <bp:XREF>
+                      <bp:unificationXref rdf:ID="unificationXref2091">
+                        <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Kegg</bp:DB>
+                        <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">C00080</bp:ID>
+                      </bp:unificationXref>
+                    </bp:XREF>
+                    <bp:XREF>
+                      <bp:unificationXref rdf:ID="unificationXref2090">
+                        <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CAS</bp:DB>
+                        <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">12408-02-5</bp:ID>
+                      </bp:unificationXref>
+                    </bp:XREF>
+                    <bp:XREF>
+                      <bp:unificationXref rdf:ID="unificationXref2089">
+                        <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ChEBI</bp:DB>
+                        <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">15378</bp:ID>
+                      </bp:unificationXref>
+                    </bp:XREF>
+                    <bp:XREF>
+                      <bp:unificationXref rdf:ID="unificationXref2088">
+                        <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PubChem</bp:DB>
+                        <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1038</bp:ID>
+                      </bp:unificationXref>
+                    </bp:XREF>
+                    <bp:XREF>
+                      <bp:unificationXref rdf:ID="unificationXref2087">
+                        <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ChemSpider</bp:DB>
+                        <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1010</bp:ID>
+                      </bp:unificationXref>
+                    </bp:XREF>
+                    <bp:XREF>
+                      <bp:unificationXref rdf:ID="unificationXref2086">
+                        <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">HMDB</bp:DB>
+                        <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">HMDB59597</bp:ID>
+                      </bp:unificationXref>
+                    </bp:XREF>
+                    <bp:XREF>
+                      <bp:unificationXref rdf:ID="unificationXref2085">
+                        <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">BIGG</bp:DB>
+                        <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">h</bp:ID>
+                      </bp:unificationXref>
+                    </bp:XREF>
+                    <bp:XREF>
+                      <bp:unificationXref rdf:ID="unificationXref2084">
+                        <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">MetaNetX</bp:DB>
+                        <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">MNXM1</bp:ID>
+                      </bp:unificationXref>
+                    </bp:XREF>
+                    <bp:XREF>
+                      <bp:unificationXref rdf:ID="unificationXref2083">
+                        <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Seed</bp:DB>
+                        <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">cpd00067</bp:ID>
+                      </bp:unificationXref>
+                    </bp:XREF>
+                    <bp:NAME rdf:datatype="http://www.w3.org/2001/XMLSchema#string">H+</bp:NAME>
+                    <bp:SYNONYMS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">hydrogen ion</bp:SYNONYMS>
+                    <bp:SYNONYMS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">proton</bp:SYNONYMS>
+                  </bp:smallMolecule>
+                </bp:PHYSICAL-ENTITY>
+                <bp:CELLULAR-LOCATION rdf:resource="#openControlledVocabulary1944"/>
+              </bp:physicalEntityParticipant>
+            </bp:RIGHT>
+            <bp:EC-NUMBER rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3.1.1.102</bp:EC-NUMBER>
+            <bp:NAME rdf:datatype="http://www.w3.org/2001/XMLSchema#string">RXN-17826</bp:NAME>
+            <bp:XREF>
+              <bp:unificationXref rdf:ID="unificationXref2051">
+                <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">RXN-17826</bp:ID>
+                <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">MetaCyc</bp:DB>
+              </bp:unificationXref>
+            </bp:XREF>
+            <bp:XREF>
+              <bp:unificationXref rdf:ID="unificationXref2050">
+                <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">RHEA</bp:DB>
+                <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">49533</bp:ID>
+              </bp:unificationXref>
+            </bp:XREF>
+            <bp:XREF>
+              <bp:unificationXref rdf:ID="unificationXref2049">
+                <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">METANETX</bp:DB>
+                <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">MNXR114834</bp:ID>
+              </bp:unificationXref>
+            </bp:XREF>
+            <bp:XREF>
+              <bp:unificationXref rdf:ID="unificationXref2048">
+                <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">KEGG reaction</bp:DB>
+                <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">R11541</bp:ID>
+              </bp:unificationXref>
+            </bp:XREF>
+          </bp:biochemicalReaction>
+        </bp:STEP-INTERACTIONS>
+        <bp:STEP-INTERACTIONS>
+          <bp:catalysis rdf:ID="catalysis2095">
+            <bp:DIRECTION rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PHYSIOL-LEFT-TO-RIGHT</bp:DIRECTION>
+            <bp:CONTROLLER>
+              <bp:physicalEntityParticipant rdf:ID="phys-ent-participant2114">
+                <bp:STOICHIOMETRIC-COEFFICIENT rdf:datatype="http://www.w3.org/2001/XMLSchema#int">1</bp:STOICHIOMETRIC-COEFFICIENT>
+                <bp:PHYSICAL-ENTITY>
+                  <bp:protein rdf:ID="protein2097">
+                    <bp:XREF>
+                      <bp:unificationXref rdf:ID="unificationXref2113">
+                        <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">MONOMER-19899</bp:ID>
+                        <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">MetaCyc</bp:DB>
+                      </bp:unificationXref>
+                    </bp:XREF>
+                    <bp:XREF>
+                      <bp:unificationXref rdf:ID="unificationXref2112">
+                        <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">UniProt</bp:DB>
+                        <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">A0A0K8P8E7</bp:ID>
+                      </bp:unificationXref>
+                    </bp:XREF>
+                    <bp:XREF>
+                      <bp:relationshipXref rdf:ID="relationshipXref2111">
+                        <bp:RELATIONSHIP-TYPE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">IN-FAMILY</bp:RELATIONSHIP-TYPE>
+                        <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Panther</bp:DB>
+                        <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PTHR33938</bp:ID>
+                      </bp:relationshipXref>
+                    </bp:XREF>
+                    <bp:XREF>
+                      <bp:relationshipXref rdf:ID="relationshipXref2110">
+                        <bp:RELATIONSHIP-TYPE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">IN-FAMILY</bp:RELATIONSHIP-TYPE>
+                        <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pfam</bp:DB>
+                        <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PF07519</bp:ID>
+                      </bp:relationshipXref>
+                    </bp:XREF>
+                    <bp:XREF>
+                      <bp:relationshipXref rdf:ID="relationshipXref2109">
+                        <bp:RELATIONSHIP-TYPE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">IN-FAMILY</bp:RELATIONSHIP-TYPE>
+                        <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">InterPro</bp:DB>
+                        <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">IPR011118</bp:ID>
+                      </bp:relationshipXref>
+                    </bp:XREF>
+                    <bp:XREF>
+                      <bp:relationshipXref rdf:ID="relationshipXref2108">
+                        <bp:RELATIONSHIP-TYPE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">IN-FAMILY</bp:RELATIONSHIP-TYPE>
+                        <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">InterPro</bp:DB>
+                        <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">IPR029058</bp:ID>
+                      </bp:relationshipXref>
+                    </bp:XREF>
+                    <bp:XREF>
+                      <bp:unificationXref rdf:ID="unificationXref2107">
+                        <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Swiss-Model</bp:DB>
+                        <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">A0A0K8P8E7</bp:ID>
+                      </bp:unificationXref>
+                    </bp:XREF>
+                    <bp:XREF>
+                      <bp:relationshipXref rdf:ID="relationshipXref2106">
+                        <bp:RELATIONSHIP-TYPE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Structure</bp:RELATIONSHIP-TYPE>
+                        <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PDB</bp:DB>
+                        <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">6QGB</bp:ID>
+                      </bp:relationshipXref>
+                    </bp:XREF>
+                    <bp:XREF>
+                      <bp:relationshipXref rdf:ID="relationshipXref2105">
+                        <bp:RELATIONSHIP-TYPE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Structure</bp:RELATIONSHIP-TYPE>
+                        <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PDB</bp:DB>
+                        <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">6QGA</bp:ID>
+                      </bp:relationshipXref>
+                    </bp:XREF>
+                    <bp:XREF>
+                      <bp:relationshipXref rdf:ID="relationshipXref2104">
+                        <bp:RELATIONSHIP-TYPE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Structure</bp:RELATIONSHIP-TYPE>
+                        <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PDB</bp:DB>
+                        <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">6QG9</bp:ID>
+                      </bp:relationshipXref>
+                    </bp:XREF>
+                    <bp:XREF>
+                      <bp:relationshipXref rdf:ID="relationshipXref2103">
+                        <bp:RELATIONSHIP-TYPE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Structure</bp:RELATIONSHIP-TYPE>
+                        <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PDB</bp:DB>
+                        <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">6JTU</bp:ID>
+                      </bp:relationshipXref>
+                    </bp:XREF>
+                    <bp:XREF>
+                      <bp:relationshipXref rdf:ID="relationshipXref2102">
+                        <bp:RELATIONSHIP-TYPE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Structure</bp:RELATIONSHIP-TYPE>
+                        <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PDB</bp:DB>
+                        <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">6JTT</bp:ID>
+                      </bp:relationshipXref>
+                    </bp:XREF>
+                    <bp:XREF>
+                      <bp:relationshipXref rdf:ID="relationshipXref2101">
+                        <bp:RELATIONSHIP-TYPE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Structure</bp:RELATIONSHIP-TYPE>
+                        <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PDB</bp:DB>
+                        <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">6QZ4</bp:ID>
+                      </bp:relationshipXref>
+                    </bp:XREF>
+                    <bp:XREF>
+                      <bp:relationshipXref rdf:ID="relationshipXref2100">
+                        <bp:RELATIONSHIP-TYPE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Structure</bp:RELATIONSHIP-TYPE>
+                        <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PDB</bp:DB>
+                        <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">6QZ3</bp:ID>
+                      </bp:relationshipXref>
+                    </bp:XREF>
+                    <bp:XREF>
+                      <bp:relationshipXref rdf:ID="relationshipXref2099">
+                        <bp:RELATIONSHIP-TYPE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Structure</bp:RELATIONSHIP-TYPE>
+                        <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PDB</bp:DB>
+                        <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">6QZ2</bp:ID>
+                      </bp:relationshipXref>
+                    </bp:XREF>
+                    <bp:XREF>
+                      <bp:relationshipXref rdf:ID="relationshipXref2098">
+                        <bp:RELATIONSHIP-TYPE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Structure</bp:RELATIONSHIP-TYPE>
+                        <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PDB</bp:DB>
+                        <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">6QZ1</bp:ID>
+                      </bp:relationshipXref>
+                    </bp:XREF>
+                    <bp:ORGANISM>
+                      <bp:bioSource rdf:ID="bioSource2020">
+                        <bp:NAME rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Piscinibacter sakaiensis</bp:NAME>
+                        <bp:TAXON-XREF>
+                          <bp:unificationXref rdf:ID="unificationXref2021">
+                            <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1547922</bp:ID>
+                            <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">NCBI Taxonomy</bp:DB>
+                          </bp:unificationXref>
+                        </bp:TAXON-XREF>
+                      </bp:bioSource>
+                    </bp:ORGANISM>
+                    <bp:COMMENT rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The bacterium |FRAME: TAX-1547922|, isolated from sediment at a |FRAME: CPD-19188| (PET) bottle recycling site, was shown to use PET as its major energy and carbon source |CITS: [26965627]|.
+
+Genome sequencing has identified a gene, |FRAME: G-44601|, that encodes a |FRAME: EC-3.1.1.101|, and enzyme that hydrolyzes PET to produce |FRAME: CPD-19187| (MHET). Expression analysis revealed another gene, |FRAME: G-44602|, with similar expression levels in four different media as the |FRAME: G-44601| gene. The sequence of |FRAME: G-44602| matches |FRAME: EC-3.1.1.20|, which is known to hydrolyze the ester linkage of aromatic compounds such as gallic acid esters.
+
+The gene was synthesized using codon optimization for expression in |FRAME: TAX-562| with an N-terminal His&lt;sub&gt;6&lt;/sub&gt; tag, and the recombinant protein was purified and shown to hydrolyze |FRAME: CPD-19187| to |FRAME: TEREPHTHALATE| and |FRAME: GLYCOL| |CITS: [26965627]|.
+
+The crystal structures of active ligand-free enzyme was reported at a resolution of 2.05 &amp;Aring;. The structures of the enzyme bound to a non-hydrolyzable MHET analogs (mono-(2-hydroxyethyl) terephthalamide and benzoate) were reported at a resolution of 2.1 and 2.2 &amp;Aring;, respectively. 
+
+The enzyme possesses a classic &amp;alpha;/&amp;beta;-hydrolase domain and a lid domain conferring substrate specificity, similar to the structures of that of feruloyl esterases. The presence of a structural calcium-binding site was confirmed by X-ray fluorescence spectroscopy. Mutation of the enzyme generated a version that is active with |FRAME: CPD-22500| (BHET) |CITS: [30979881]|.</bp:COMMENT>
+                    <bp:NAME rdf:datatype="http://www.w3.org/2001/XMLSchema#string">mono(ethylene terephthalate) hydrolase</bp:NAME>
+                    <bp:SYNONYMS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">MHET hydrolase</bp:SYNONYMS>
+                    <bp:SYNONYMS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">MHETase</bp:SYNONYMS>
+                  </bp:protein>
+                </bp:PHYSICAL-ENTITY>
+                <bp:CELLULAR-LOCATION>
+                  <bp:openControlledVocabulary rdf:ID="openControlledVocabulary2044">
+                  </bp:openControlledVocabulary>
+                </bp:CELLULAR-LOCATION>
+              </bp:physicalEntityParticipant>
+            </bp:CONTROLLER>
+            <bp:CONTROLLED rdf:resource="#biochemicalReaction2047"/>
+            <bp:NAME rdf:datatype="http://www.w3.org/2001/XMLSchema#string">mono(ethylene terephthalate) hydrolase</bp:NAME>
+            <bp:XREF>
+              <bp:unificationXref rdf:ID="unificationXref2096">
+                <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ENZRXN-24907</bp:ID>
+                <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">MetaCyc</bp:DB>
+              </bp:unificationXref>
+            </bp:XREF>
+          </bp:catalysis>
+        </bp:STEP-INTERACTIONS>
+      </bp:pathwayStep>
+    </bp:PATHWAY-COMPONENTS>
+    <bp:PATHWAY-COMPONENTS>
+      <bp:pathwayStep rdf:ID="pathwayStep1939">
+        <bp:STEP-INTERACTIONS>
+          <bp:biochemicalReaction rdf:ID="biochemicalReaction1940">
+            <bp:LEFT>
+              <bp:physicalEntityParticipant rdf:ID="phys-ent-participant1953">
+                <bp:STOICHIOMETRIC-COEFFICIENT rdf:datatype="http://www.w3.org/2001/XMLSchema#int">1</bp:STOICHIOMETRIC-COEFFICIENT>
+                <bp:PHYSICAL-ENTITY>
+                  <bp:smallMolecule rdf:ID="smallMolecule1946">
+                    <bp:XREF>
+                      <bp:unificationXref rdf:ID="unificationXref1951">
+                        <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CPD-19188</bp:ID>
+                        <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">MetaCyc</bp:DB>
+                      </bp:unificationXref>
+                    </bp:XREF>
+                    <bp:XREF>
+                      <bp:unificationXref rdf:ID="unificationXref1950">
+                        <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Wikipedia</bp:DB>
+                        <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Polyethylene_terephthalate</bp:ID>
+                      </bp:unificationXref>
+                    </bp:XREF>
+                    <bp:XREF rdf:resource="#unificationXref1949"/>
+                    <bp:XREF>
+                      <bp:unificationXref rdf:ID="unificationXref1948">
+                        <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Kegg</bp:DB>
+                        <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">C21451</bp:ID>
+                      </bp:unificationXref>
+                    </bp:XREF>
+                    <bp:XREF>
+                      <bp:unificationXref rdf:ID="unificationXref1947">
+                        <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">MetaNetX</bp:DB>
+                        <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">MNXM77354</bp:ID>
+                      </bp:unificationXref>
+                    </bp:XREF>
+                    <bp:STRUCTURE rdf:resource="#chemicalStructure1952"/>
+                    <bp:COMMENT rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Polyethylene terephthalate (PET) is the most common thermoplastic polymer resin of the polyester family and is used in fibers for clothing, containers for liquids and foods, thermoforming for manufacturing, and in combination with glass fiber for engineering resins. In the context of textile applications, PET is referred to by its common name, polyester.
+
+PET, which consists of polymerized units of the monomer |FRAME: CPD-19187|, is the fourth-most-produced polymer, surpassed only by polyethylene (PE), polypropylene (PP) and polyvinyl chloride (PVC). 
+
+
+</bp:COMMENT>
+                    <bp:NAME rdf:datatype="http://www.w3.org/2001/XMLSchema#string">polyethylene terephthalate</bp:NAME>
+                    <bp:SYNONYMS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PET</bp:SYNONYMS>
+                    <bp:SYNONYMS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">poly(ethylene terephthalate)</bp:SYNONYMS>
+                    <bp:SYNONYMS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PETE</bp:SYNONYMS>
+                    <bp:SYNONYMS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PETP</bp:SYNONYMS>
+                    <bp:SYNONYMS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PET-P</bp:SYNONYMS>
+                  </bp:smallMolecule>
+                </bp:PHYSICAL-ENTITY>
+                <bp:CELLULAR-LOCATION rdf:resource="#openControlledVocabulary1944"/>
+              </bp:physicalEntityParticipant>
+            </bp:LEFT>
+            <bp:LEFT>
+              <bp:physicalEntityParticipant rdf:ID="phys-ent-participant1965">
+                <bp:STOICHIOMETRIC-COEFFICIENT rdf:datatype="http://www.w3.org/2001/XMLSchema#int">1</bp:STOICHIOMETRIC-COEFFICIENT>
+                <bp:PHYSICAL-ENTITY rdf:resource="#smallMolecule1954"/>
+                <bp:CELLULAR-LOCATION rdf:resource="#openControlledVocabulary1944"/>
+              </bp:physicalEntityParticipant>
+            </bp:LEFT>
+            <bp:RIGHT>
+              <bp:physicalEntityParticipant rdf:ID="phys-ent-participant1966">
+                <bp:STOICHIOMETRIC-COEFFICIENT rdf:datatype="http://www.w3.org/2001/XMLSchema#int">1</bp:STOICHIOMETRIC-COEFFICIENT>
+                <bp:PHYSICAL-ENTITY rdf:resource="#smallMolecule1946"/>
+                <bp:CELLULAR-LOCATION rdf:resource="#openControlledVocabulary1944"/>
+              </bp:physicalEntityParticipant>
+            </bp:RIGHT>
+            <bp:RIGHT>
+              <bp:physicalEntityParticipant rdf:ID="phys-ent-participant1974">
+                <bp:STOICHIOMETRIC-COEFFICIENT rdf:datatype="http://www.w3.org/2001/XMLSchema#int">1</bp:STOICHIOMETRIC-COEFFICIENT>
+                <bp:PHYSICAL-ENTITY rdf:resource="#smallMolecule1967"/>
+                <bp:CELLULAR-LOCATION rdf:resource="#openControlledVocabulary1944"/>
+              </bp:physicalEntityParticipant>
+            </bp:RIGHT>
+            <bp:EC-NUMBER rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3.1.1.101</bp:EC-NUMBER>
+            <bp:NAME rdf:datatype="http://www.w3.org/2001/XMLSchema#string">RXN-17825</bp:NAME>
+            <bp:XREF>
+              <bp:unificationXref rdf:ID="unificationXref1943">
+                <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">RXN-17825</bp:ID>
+                <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">MetaCyc</bp:DB>
+              </bp:unificationXref>
+            </bp:XREF>
+            <bp:XREF>
+              <bp:unificationXref rdf:ID="unificationXref1942">
+                <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">RHEA</bp:DB>
+                <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">49529</bp:ID>
+              </bp:unificationXref>
+            </bp:XREF>
+            <bp:XREF>
+              <bp:unificationXref rdf:ID="unificationXref1941">
+                <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">METANETX</bp:DB>
+                <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">MNXR121186</bp:ID>
+              </bp:unificationXref>
+            </bp:XREF>
+          </bp:biochemicalReaction>
+        </bp:STEP-INTERACTIONS>
+        <bp:STEP-INTERACTIONS>
+          <bp:catalysis rdf:ID="catalysis1975">
+            <bp:DIRECTION rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PHYSIOL-LEFT-TO-RIGHT</bp:DIRECTION>
+            <bp:CONTROLLER>
+              <bp:physicalEntityParticipant rdf:ID="phys-ent-participant2024">
+                <bp:STOICHIOMETRIC-COEFFICIENT rdf:datatype="http://www.w3.org/2001/XMLSchema#int">1</bp:STOICHIOMETRIC-COEFFICIENT>
+                <bp:PHYSICAL-ENTITY>
+                  <bp:protein rdf:ID="protein1977">
+                    <bp:XREF>
+                      <bp:unificationXref rdf:ID="unificationXref2019">
+                        <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">MONOMER-19898</bp:ID>
+                        <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">MetaCyc</bp:DB>
+                      </bp:unificationXref>
+                    </bp:XREF>
+                    <bp:XREF>
+                      <bp:unificationXref rdf:ID="unificationXref2018">
+                        <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">UniProt</bp:DB>
+                        <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">A0A0K8P6T7</bp:ID>
+                      </bp:unificationXref>
+                    </bp:XREF>
+                    <bp:XREF>
+                      <bp:relationshipXref rdf:ID="relationshipXref2017">
+                        <bp:RELATIONSHIP-TYPE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">IN-FAMILY</bp:RELATIONSHIP-TYPE>
+                        <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pfam</bp:DB>
+                        <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PF01738</bp:ID>
+                      </bp:relationshipXref>
+                    </bp:XREF>
+                    <bp:XREF>
+                      <bp:relationshipXref rdf:ID="relationshipXref2016">
+                        <bp:RELATIONSHIP-TYPE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">IN-FAMILY</bp:RELATIONSHIP-TYPE>
+                        <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">InterPro</bp:DB>
+                        <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">IPR002925</bp:ID>
+                      </bp:relationshipXref>
+                    </bp:XREF>
+                    <bp:XREF>
+                      <bp:relationshipXref rdf:ID="relationshipXref2015">
+                        <bp:RELATIONSHIP-TYPE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">IN-FAMILY</bp:RELATIONSHIP-TYPE>
+                        <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">InterPro</bp:DB>
+                        <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">IPR029058</bp:ID>
+                      </bp:relationshipXref>
+                    </bp:XREF>
+                    <bp:XREF>
+                      <bp:unificationXref rdf:ID="unificationXref2014">
+                        <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Swiss-Model</bp:DB>
+                        <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">A0A0K8P6T7</bp:ID>
+                      </bp:unificationXref>
+                    </bp:XREF>
+                    <bp:XREF>
+                      <bp:relationshipXref rdf:ID="relationshipXref2013">
+                        <bp:RELATIONSHIP-TYPE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Structure</bp:RELATIONSHIP-TYPE>
+                        <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PDB</bp:DB>
+                        <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">6EQH</bp:ID>
+                      </bp:relationshipXref>
+                    </bp:XREF>
+                    <bp:XREF>
+                      <bp:relationshipXref rdf:ID="relationshipXref2012">
+                        <bp:RELATIONSHIP-TYPE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Structure</bp:RELATIONSHIP-TYPE>
+                        <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PDB</bp:DB>
+                        <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">6EQG</bp:ID>
+                      </bp:relationshipXref>
+                    </bp:XREF>
+                    <bp:XREF>
+                      <bp:relationshipXref rdf:ID="relationshipXref2011">
+                        <bp:RELATIONSHIP-TYPE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Structure</bp:RELATIONSHIP-TYPE>
+                        <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PDB</bp:DB>
+                        <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">6EQF</bp:ID>
+                      </bp:relationshipXref>
+                    </bp:XREF>
+                    <bp:XREF>
+                      <bp:relationshipXref rdf:ID="relationshipXref2010">
+                        <bp:RELATIONSHIP-TYPE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Structure</bp:RELATIONSHIP-TYPE>
+                        <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PDB</bp:DB>
+                        <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">6EQE</bp:ID>
+                      </bp:relationshipXref>
+                    </bp:XREF>
+                    <bp:XREF>
+                      <bp:relationshipXref rdf:ID="relationshipXref2009">
+                        <bp:RELATIONSHIP-TYPE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Structure</bp:RELATIONSHIP-TYPE>
+                        <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PDB</bp:DB>
+                        <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">6EQD</bp:ID>
+                      </bp:relationshipXref>
+                    </bp:XREF>
+                    <bp:XREF>
+                      <bp:relationshipXref rdf:ID="relationshipXref2008">
+                        <bp:RELATIONSHIP-TYPE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Structure</bp:RELATIONSHIP-TYPE>
+                        <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PDB</bp:DB>
+                        <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">6ANE</bp:ID>
+                      </bp:relationshipXref>
+                    </bp:XREF>
+                    <bp:XREF>
+                      <bp:relationshipXref rdf:ID="relationshipXref2007">
+                        <bp:RELATIONSHIP-TYPE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Structure</bp:RELATIONSHIP-TYPE>
+                        <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PDB</bp:DB>
+                        <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">5YNS</bp:ID>
+                      </bp:relationshipXref>
+                    </bp:XREF>
+                    <bp:XREF rdf:resource="#relationshipXref2006"/>
+                    <bp:XREF>
+                      <bp:relationshipXref rdf:ID="relationshipXref2005">
+                        <bp:RELATIONSHIP-TYPE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Structure</bp:RELATIONSHIP-TYPE>
+                        <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PDB</bp:DB>
+                        <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">5XH3</bp:ID>
+                      </bp:relationshipXref>
+                    </bp:XREF>
+                    <bp:XREF>
+                      <bp:relationshipXref rdf:ID="relationshipXref2004">
+                        <bp:RELATIONSHIP-TYPE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Structure</bp:RELATIONSHIP-TYPE>
+                        <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PDB</bp:DB>
+                        <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">5XH2</bp:ID>
+                      </bp:relationshipXref>
+                    </bp:XREF>
+                    <bp:XREF>
+                      <bp:relationshipXref rdf:ID="relationshipXref2003">
+                        <bp:RELATIONSHIP-TYPE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Structure</bp:RELATIONSHIP-TYPE>
+                        <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PDB</bp:DB>
+                        <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">5XG0</bp:ID>
+                      </bp:relationshipXref>
+                    </bp:XREF>
+                    <bp:XREF>
+                      <bp:relationshipXref rdf:ID="relationshipXref2002">
+                        <bp:RELATIONSHIP-TYPE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Structure</bp:RELATIONSHIP-TYPE>
+                        <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PDB</bp:DB>
+                        <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">5XFZ</bp:ID>
+                      </bp:relationshipXref>
+                    </bp:XREF>
+                    <bp:XREF>
+                      <bp:relationshipXref rdf:ID="relationshipXref2001">
+                        <bp:RELATIONSHIP-TYPE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Structure</bp:RELATIONSHIP-TYPE>
+                        <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PDB</bp:DB>
+                        <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">5XFY</bp:ID>
+                      </bp:relationshipXref>
+                    </bp:XREF>
+                    <bp:XREF>
+                      <bp:relationshipXref rdf:ID="relationshipXref2000">
+                        <bp:RELATIONSHIP-TYPE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Structure</bp:RELATIONSHIP-TYPE>
+                        <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PDB</bp:DB>
+                        <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">5YFE</bp:ID>
+                      </bp:relationshipXref>
+                    </bp:XREF>
+                    <bp:XREF>
+                      <bp:relationshipXref rdf:ID="relationshipXref1999">
+                        <bp:RELATIONSHIP-TYPE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Structure</bp:RELATIONSHIP-TYPE>
+                        <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PDB</bp:DB>
+                        <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">6QGC</bp:ID>
+                      </bp:relationshipXref>
+                    </bp:XREF>
+                    <bp:XREF>
+                      <bp:relationshipXref rdf:ID="relationshipXref1998">
+                        <bp:RELATIONSHIP-TYPE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Structure</bp:RELATIONSHIP-TYPE>
+                        <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PDB</bp:DB>
+                        <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">6ILX</bp:ID>
+                      </bp:relationshipXref>
+                    </bp:XREF>
+                    <bp:XREF>
+                      <bp:relationshipXref rdf:ID="relationshipXref1997">
+                        <bp:RELATIONSHIP-TYPE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Structure</bp:RELATIONSHIP-TYPE>
+                        <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PDB</bp:DB>
+                        <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">6ILW</bp:ID>
+                      </bp:relationshipXref>
+                    </bp:XREF>
+                    <bp:XREF>
+                      <bp:relationshipXref rdf:ID="relationshipXref1996">
+                        <bp:RELATIONSHIP-TYPE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Structure</bp:RELATIONSHIP-TYPE>
+                        <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PDB</bp:DB>
+                        <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">6IJ3</bp:ID>
+                      </bp:relationshipXref>
+                    </bp:XREF>
+                    <bp:XREF>
+                      <bp:relationshipXref rdf:ID="relationshipXref1995">
+                        <bp:RELATIONSHIP-TYPE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Structure</bp:RELATIONSHIP-TYPE>
+                        <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PDB</bp:DB>
+                        <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">6IJ6</bp:ID>
+                      </bp:relationshipXref>
+                    </bp:XREF>
+                    <bp:XREF>
+                      <bp:relationshipXref rdf:ID="relationshipXref1994">
+                        <bp:RELATIONSHIP-TYPE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Structure</bp:RELATIONSHIP-TYPE>
+                        <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PDB</bp:DB>
+                        <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">6IJ5</bp:ID>
+                      </bp:relationshipXref>
+                    </bp:XREF>
+                    <bp:XREF>
+                      <bp:relationshipXref rdf:ID="relationshipXref1993">
+                        <bp:RELATIONSHIP-TYPE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Structure</bp:RELATIONSHIP-TYPE>
+                        <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PDB</bp:DB>
+                        <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">6IJ4</bp:ID>
+                      </bp:relationshipXref>
+                    </bp:XREF>
+                    <bp:XREF>
+                      <bp:relationshipXref rdf:ID="relationshipXref1992">
+                        <bp:RELATIONSHIP-TYPE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Structure</bp:RELATIONSHIP-TYPE>
+                        <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PDB</bp:DB>
+                        <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">6KY5</bp:ID>
+                      </bp:relationshipXref>
+                    </bp:XREF>
+                    <bp:XREF>
+                      <bp:relationshipXref rdf:ID="relationshipXref1991">
+                        <bp:RELATIONSHIP-TYPE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Structure</bp:RELATIONSHIP-TYPE>
+                        <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PDB</bp:DB>
+                        <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">6KUS</bp:ID>
+                      </bp:relationshipXref>
+                    </bp:XREF>
+                    <bp:XREF>
+                      <bp:relationshipXref rdf:ID="relationshipXref1990">
+                        <bp:RELATIONSHIP-TYPE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Structure</bp:RELATIONSHIP-TYPE>
+                        <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PDB</bp:DB>
+                        <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">6KUQ</bp:ID>
+                      </bp:relationshipXref>
+                    </bp:XREF>
+                    <bp:XREF>
+                      <bp:relationshipXref rdf:ID="relationshipXref1989">
+                        <bp:RELATIONSHIP-TYPE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Structure</bp:RELATIONSHIP-TYPE>
+                        <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PDB</bp:DB>
+                        <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">6KUO</bp:ID>
+                      </bp:relationshipXref>
+                    </bp:XREF>
+                    <bp:XREF rdf:resource="#relationshipXref1988"/>
+                    <bp:XREF>
+                      <bp:relationshipXref rdf:ID="relationshipXref1987">
+                        <bp:RELATIONSHIP-TYPE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Structure</bp:RELATIONSHIP-TYPE>
+                        <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PDB</bp:DB>
+                        <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">7CY0</bp:ID>
+                      </bp:relationshipXref>
+                    </bp:XREF>
+                    <bp:XREF>
+                      <bp:relationshipXref rdf:ID="relationshipXref1986">
+                        <bp:RELATIONSHIP-TYPE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Structure</bp:RELATIONSHIP-TYPE>
+                        <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PDB</bp:DB>
+                        <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">7CQB</bp:ID>
+                      </bp:relationshipXref>
+                    </bp:XREF>
+                    <bp:XREF rdf:resource="#relationshipXref1985"/>
+                    <bp:XREF>
+                      <bp:relationshipXref rdf:ID="relationshipXref1984">
+                        <bp:RELATIONSHIP-TYPE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Structure</bp:RELATIONSHIP-TYPE>
+                        <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PDB</bp:DB>
+                        <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">8GU4</bp:ID>
+                      </bp:relationshipXref>
+                    </bp:XREF>
+                    <bp:XREF>
+                      <bp:relationshipXref rdf:ID="relationshipXref1983">
+                        <bp:RELATIONSHIP-TYPE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Structure</bp:RELATIONSHIP-TYPE>
+                        <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PDB</bp:DB>
+                        <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">8D1D</bp:ID>
+                      </bp:relationshipXref>
+                    </bp:XREF>
+                    <bp:XREF>
+                      <bp:relationshipXref rdf:ID="relationshipXref1982">
+                        <bp:RELATIONSHIP-TYPE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Structure</bp:RELATIONSHIP-TYPE>
+                        <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PDB</bp:DB>
+                        <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">8CRU</bp:ID>
+                      </bp:relationshipXref>
+                    </bp:XREF>
+                    <bp:XREF>
+                      <bp:relationshipXref rdf:ID="relationshipXref1981">
+                        <bp:RELATIONSHIP-TYPE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Structure</bp:RELATIONSHIP-TYPE>
+                        <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PDB</bp:DB>
+                        <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">7XTW</bp:ID>
+                      </bp:relationshipXref>
+                    </bp:XREF>
+                    <bp:XREF>
+                      <bp:relationshipXref rdf:ID="relationshipXref1980">
+                        <bp:RELATIONSHIP-TYPE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Structure</bp:RELATIONSHIP-TYPE>
+                        <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PDB</bp:DB>
+                        <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">7VWN</bp:ID>
+                      </bp:relationshipXref>
+                    </bp:XREF>
+                    <bp:XREF>
+                      <bp:relationshipXref rdf:ID="relationshipXref1979">
+                        <bp:RELATIONSHIP-TYPE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Structure</bp:RELATIONSHIP-TYPE>
+                        <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PDB</bp:DB>
+                        <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">7SH6</bp:ID>
+                      </bp:relationshipXref>
+                    </bp:XREF>
+                    <bp:XREF>
+                      <bp:relationshipXref rdf:ID="relationshipXref1978">
+                        <bp:RELATIONSHIP-TYPE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Structure</bp:RELATIONSHIP-TYPE>
+                        <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PDB</bp:DB>
+                        <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">7QVH</bp:ID>
+                      </bp:relationshipXref>
+                    </bp:XREF>
+                    <bp:ORGANISM rdf:resource="#bioSource2020"/>
+                    <bp:COMMENT rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The bacterium |FRAME: TAX-1547922|, isolated from sediment at a |FRAME: CPD-19188| (PET) bottle recycling site, was shown to use PET as its major energy and carbon source |CITS: [26965627]|.
+
+Genome sequencing has identified a gene, |FRAME: G-44601|, that encodes a putative lipase. The gene shares 51% amino acid sequence identity and catalytic residues with a hydrolase from |FRAME: TAX-2021| that exhibits PET-hydrolytic activity |CITS: [Ribitsch12]|. The gene was synthesized using codon optimization for expression in |FRAME: TAX-562| with a C-terminal His&lt;sub&gt;6&lt;/sub&gt; tag, and the recombinant protein was purified and shown to hydrolyze |FRAME: CPD-19188| &lt;i&gt;in vitro&lt;/i&gt; |CITS: [26965627]|.
+
+&lt;i&gt;In vivo&lt;/i&gt;, the organism, which adheres to PET, secretes the enzyme to afford the degradation of the substrate. The enzyme can bind to PET, even though it lacks any carbohydrate-binding modules |CITS: [26965627]|.
+
+The crystal structures of the protein were initially reported at a resolution of 1.58 and 1.5 &amp;Aring;, respectively, revealing two intra-molecular disulfide bridges and a Ser-His-Asp catalytic triad at its active site. The substrate binding site is optimized to accommodate four monohydroxyethyl terephthalate (MHET) moieties of PET |CITS: [29235460][29374183]|. A subsequent study reported the structure at a resolution of 0.92 &amp;Aring;. It was also reported in that study that the enzyme also degrades another semiaromatic polyester, |FRAME: CPD-22498| (PEF) |CITS: [29666242]|.
+
+Based on the structural information provided by the crystal structure, several mutants were constructed (S93M, W159F, and N241F ) that can hydrolyze naphthyl esters |CITS: [30502092]|.</bp:COMMENT>
+                    <bp:NAME rdf:datatype="http://www.w3.org/2001/XMLSchema#string">poly(ethylene terephthalate) hydrolase</bp:NAME>
+                    <bp:SYNONYMS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PETase</bp:SYNONYMS>
+                    <bp:SYNONYMS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PET hydrolase</bp:SYNONYMS>
+                  </bp:protein>
+                </bp:PHYSICAL-ENTITY>
+                <bp:CELLULAR-LOCATION>
+                  <bp:openControlledVocabulary rdf:ID="openControlledVocabulary2022">
+                    <bp:TERM rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CCO-EXTRACELLULAR</bp:TERM>
+                    <bp:XREF>
+                      <bp:unificationXref rdf:ID="unificationXref2023">
+                        <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">GO:0005576</bp:ID>
+                        <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">GO</bp:DB>
+                      </bp:unificationXref>
+                    </bp:XREF>
+                  </bp:openControlledVocabulary>
+                </bp:CELLULAR-LOCATION>
+              </bp:physicalEntityParticipant>
+            </bp:CONTROLLER>
+            <bp:CONTROLLED rdf:resource="#biochemicalReaction1940"/>
+            <bp:NAME rdf:datatype="http://www.w3.org/2001/XMLSchema#string">poly(ethylene terephthalate) hydrolase</bp:NAME>
+            <bp:XREF>
+              <bp:unificationXref rdf:ID="unificationXref1976">
+                <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ENZRXN-24906</bp:ID>
+                <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">MetaCyc</bp:DB>
+              </bp:unificationXref>
+            </bp:XREF>
+          </bp:catalysis>
+        </bp:STEP-INTERACTIONS>
+        <bp:NEXT-STEP rdf:resource="#pathwayStep2046"/>
+      </bp:pathwayStep>
+    </bp:PATHWAY-COMPONENTS>
+    <bp:XREF>
+      <bp:unificationXref rdf:ID="unificationXref1937">
+        <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PWY-7794</bp:ID>
+        <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">MetaCyc</bp:DB>
+      </bp:unificationXref>
+    </bp:XREF>
+    <bp:DATA-SOURCE>
+      <bp:dataSource rdf:ID="dataSource1938">
+        <bp:NAME rdf:datatype="http://www.w3.org/2001/XMLSchema#string">MetaCyc (http://metacyc.org)</bp:NAME>
+      </bp:dataSource>
+    </bp:DATA-SOURCE>
+    <bp:COMMENT rdf:datatype="http://www.w3.org/2001/XMLSchema#string">|FRAME: CPD-19188 &quot;Polyethylene terephthalate&quot;| (PET) is the most common thermoplastic polymer resin of the polyester family and is used in fibers for clothing, containers for liquids and foods, thermoforming for manufacturing, and in combination with glass fiber for engineering resins. In the context of textile applications, PET is referred to by its common name, polyester.
+
+PET, which consists of polymerized units of the monomer |FRAME: CPD-19187|, is the fourth-most-produced polymer, surpassed only by polyethylene (PE), polypropylene (PP) and polyvinyl chloride (PVC). About 56 million tons of PET
+were produced in 2013 alone. PET is chemically inert, making its accumulation in the environment a global concern.
+
+Degradation of PET is limited to a few fungal and bacterial species. A number of cutinases, lipases, and esterases active on PET have been identified and characterized from |FRAME: TAX-169388|, |FRAME: TAX-5541|, |FRAME: TAX-5062|, |FRAME: TAX-300|, and |FRAME: TAX-2021| |CITS: [21076908]|.
+
+The bacterium |FRAME: TAX-1547922|, isolated from sediment at a PET bottle recycling site, was shown to use PET as its major energy and carbon source. The key enzymes used by the organism are |FRAME: EC-3.1.1.101|, and |FRAME: EC-3.1.1.102|, which together convert the polymer into |FRAME: TEREPHTHALATE| and |FRAME: GLYCOL| monomers, which are environmentally benign |CITS: [26965627]|.
+
+|FRAME: TAX-1547922| harbors a gene cluster that is highly similar to the two |FRAME: TEREPHTHALATE| degradation gene clusters that have been previously identified in |FRAME: TAX-364029|, suggesting that |FRAME: TEREPHTHALATE| is degraded further as described in |FRAME: PWY-7795| |CITS: [16517628]|.</bp:COMMENT>
+    <bp:NAME rdf:datatype="http://www.w3.org/2001/XMLSchema#string">polyethylene terephthalate degradation</bp:NAME>
+    <bp:SYNONYMS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PET degradation</bp:SYNONYMS>
+  </bp:pathway>
+  <bp:relationshipXref rdf:ID="relationshipXref2038">
+    <bp:RELATIONSHIP-TYPE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Structure</bp:RELATIONSHIP-TYPE>
+    <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PDB</bp:DB>
+    <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">6THT</bp:ID>
+  </bp:relationshipXref>
+  <bp:relationshipXref rdf:ID="relationshipXref2036">
+    <bp:RELATIONSHIP-TYPE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Structure</bp:RELATIONSHIP-TYPE>
+    <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PDB</bp:DB>
+    <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">4EB0</bp:ID>
+  </bp:relationshipXref>
+  <bp:relationshipXref rdf:ID="relationshipXref2032">
+    <bp:RELATIONSHIP-TYPE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Structure</bp:RELATIONSHIP-TYPE>
+    <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PDB</bp:DB>
+    <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">7W45</bp:ID>
+  </bp:relationshipXref>
+  <bp:relationshipXref rdf:ID="relationshipXref2029">
+    <bp:RELATIONSHIP-TYPE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Structure</bp:RELATIONSHIP-TYPE>
+    <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PDB</bp:DB>
+    <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">7VVE</bp:ID>
+  </bp:relationshipXref>
+  <bp:unificationXref rdf:ID="unificationXref2041">
+    <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">MONOMER-21180</bp:ID>
+    <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">MetaCyc</bp:DB>
+  </bp:unificationXref>
+  <bp:relationshipXref rdf:ID="relationshipXref2028">
+    <bp:RELATIONSHIP-TYPE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Structure</bp:RELATIONSHIP-TYPE>
+    <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PDB</bp:DB>
+    <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">7VVC</bp:ID>
+  </bp:relationshipXref>
+  <bp:unificationXref rdf:ID="unificationXref2040">
+    <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">UniProt</bp:DB>
+    <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">G9BY57</bp:ID>
+  </bp:unificationXref>
+  <bp:protein rdf:ID="protein2027">
+    <bp:ORGANISM>
+      <bp:bioSource rdf:ID="bioSource2042">
+        <bp:NAME rdf:datatype="http://www.w3.org/2001/XMLSchema#string">uncultured bacterium</bp:NAME>
+        <bp:TAXON-XREF>
+          <bp:unificationXref rdf:ID="unificationXref2043">
+            <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">77133</bp:ID>
+            <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">NCBI Taxonomy</bp:DB>
+          </bp:unificationXref>
+        </bp:TAXON-XREF>
+      </bp:bioSource>
+    </bp:ORGANISM>
+    <bp:XREF rdf:resource="#unificationXref2041"/>
+    <bp:XREF rdf:resource="#unificationXref2040"/>
+    <bp:XREF>
+      <bp:unificationXref rdf:ID="unificationXref2039">
+        <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Swiss-Model</bp:DB>
+        <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">G9BY57</bp:ID>
+      </bp:unificationXref>
+    </bp:XREF>
+    <bp:XREF rdf:resource="#relationshipXref2038"/>
+    <bp:XREF>
+      <bp:relationshipXref rdf:ID="relationshipXref2037">
+        <bp:RELATIONSHIP-TYPE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Structure</bp:RELATIONSHIP-TYPE>
+        <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PDB</bp:DB>
+        <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">6THS</bp:ID>
+      </bp:relationshipXref>
+    </bp:XREF>
+    <bp:XREF rdf:resource="#relationshipXref2036"/>
+    <bp:XREF>
+      <bp:relationshipXref rdf:ID="relationshipXref2035">
+        <bp:RELATIONSHIP-TYPE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">IN-FAMILY</bp:RELATIONSHIP-TYPE>
+        <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pfam</bp:DB>
+        <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PF12695</bp:ID>
+      </bp:relationshipXref>
+    </bp:XREF>
+    <bp:XREF>
+      <bp:relationshipXref rdf:ID="relationshipXref2034">
+        <bp:RELATIONSHIP-TYPE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">IN-FAMILY</bp:RELATIONSHIP-TYPE>
+        <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">InterPro</bp:DB>
+        <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">IPR029059</bp:ID>
+      </bp:relationshipXref>
+    </bp:XREF>
+    <bp:XREF>
+      <bp:relationshipXref rdf:ID="relationshipXref2033">
+        <bp:RELATIONSHIP-TYPE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">IN-FAMILY</bp:RELATIONSHIP-TYPE>
+        <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">InterPro</bp:DB>
+        <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">IPR029058</bp:ID>
+      </bp:relationshipXref>
+    </bp:XREF>
+    <bp:XREF rdf:resource="#relationshipXref2032"/>
+    <bp:XREF>
+      <bp:relationshipXref rdf:ID="relationshipXref2031">
+        <bp:RELATIONSHIP-TYPE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Structure</bp:RELATIONSHIP-TYPE>
+        <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PDB</bp:DB>
+        <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">7W44</bp:ID>
+      </bp:relationshipXref>
+    </bp:XREF>
+    <bp:XREF>
+      <bp:relationshipXref rdf:ID="relationshipXref2030">
+        <bp:RELATIONSHIP-TYPE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Structure</bp:RELATIONSHIP-TYPE>
+        <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PDB</bp:DB>
+        <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">7W1N</bp:ID>
+      </bp:relationshipXref>
+    </bp:XREF>
+    <bp:XREF rdf:resource="#relationshipXref2029"/>
+    <bp:XREF rdf:resource="#relationshipXref2028"/>
+    <bp:NAME rdf:datatype="http://www.w3.org/2001/XMLSchema#string">leaf-branch compost cutinase</bp:NAME>
+    <bp:COMMENT rdf:datatype="http://www.w3.org/2001/XMLSchema#string">In 2012 a gene encoding a cutinase homolog was cloned from a fosmid library prepared from a metagenome DNA isolated from compost of a leaf-branch meterial. The enzyme was named LCC for Leaf-branch Compost Cutinase |CITS: [22194294]|.
+
+The gene was cloned with the pelB leader sequence and expressed in |FRAME: TAX-562|, resulting in excretion of more than 50% of the recombinant enzyme into the extracellular medium, from which it was purified. The enzyme hydrolyzed various fatty acid monoesters with acyl chain lengths of 2 to 18, with a preference for short-chain substrates, at an optimal temperature of 50 &amp;deg;C. In addition, the enzyme degraded poly(&amp;epsilon;-caprolactone) and polyethylene terephthalate (PET). Its PET degradation rate of 12 mg/h/mg of enzyme was better than other enzymes known at the time |CITS: [22194294]|.
+
+The crystal structure of the enzyme was reported at 1.5 &amp;Aring; resolution. The authors found that the enzyme is a kinetically robust protein, and that the active site is protected from a heat-induced local conformational change by binding of PET. The thermodynamic and kinetic stability of the enzyme was dependent on a single disulfide bond between Cys275 and Cys292 |CITS: [24593046]|.
+
+A comparison of several PET-hydrolyzing enzymes performed in 2020 found that LCC outperformed all other enzymes tested, reaching an initial depolymerization rate of 93.2 mg TAeq/h/mg of enzyme at 65 &amp;deg;C  (where TAeq stands for equivalents of |FRAME: TEREPHTHALATE|). When using bottle-grade PET, the initial depolymerization rate went down to 81.9 mgTAeq/h/mg of enzyme |CITS: [32269349]|.
+
+The researchers used targeted mutagenesis to improve avtivity and temperature resistance. While native LCC is thermally stabilized by the addition of calcium ions, the researchers replaced the metal-binding site with a new disulfide bridge, allowing thermal stabilization without dependence on calcium ions. Combined with additional mutations that were found to improve activity and thermal stability, an improved form of the protein was able to achieve 90% depolymerization over 10 hours, making it superior to other enzymes known at the time, such as the |FRAME: MONOMER-19898| from |FRAME: TAX-1547922| |CITS: [32269349]|.
+</bp:COMMENT>
+  </bp:protein>
+  <bp:unificationXref rdf:ID="unificationXref2026">
+    <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ENZRXN-29339</bp:ID>
+    <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">MetaCyc</bp:DB>
+  </bp:unificationXref>
+  <bp:catalysis rdf:ID="catalysis2025">
+    <bp:CONTROLLER>
+      <bp:physicalEntityParticipant rdf:ID="phys-ent-participant2045">
+        <bp:STOICHIOMETRIC-COEFFICIENT rdf:datatype="http://www.w3.org/2001/XMLSchema#int">1</bp:STOICHIOMETRIC-COEFFICIENT>
+        <bp:PHYSICAL-ENTITY rdf:resource="#protein2027"/>
+        <bp:CELLULAR-LOCATION rdf:resource="#openControlledVocabulary2044"/>
+      </bp:physicalEntityParticipant>
+    </bp:CONTROLLER>
+    <bp:CONTROLLED rdf:resource="#biochemicalReaction1940"/>
+    <bp:DIRECTION rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PHYSIOL-LEFT-TO-RIGHT</bp:DIRECTION>
+    <bp:XREF rdf:resource="#unificationXref2026"/>
+    <bp:NAME rdf:datatype="http://www.w3.org/2001/XMLSchema#string">poly(ethylene terephthalate) hydrolase</bp:NAME>
+    <bp:SYNONYMS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PET hydrolase</bp:SYNONYMS>
+  </bp:catalysis>
+</rdf:RDF>
