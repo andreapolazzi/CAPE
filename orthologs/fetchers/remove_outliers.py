@@ -30,14 +30,15 @@ def filter_by_length(sequences_dict):
     * If 3-4 sequences remain, fall back to a broad window [0.5x, 2x] around the expected length (mode or median).
     """
     # --- step 1: drop low‑confidence annotations -----------------------------
-    clean_dict = {
-        header: seq
-        for header, seq in sequences_dict.items()
-        if not is_suspect_header(header)
-    }
+    clean_dict = {}
+    for header, seq in sequences_dict.items():
+        if not is_suspect_header(header):
+            clean_dict[header] = seq
+        else:
+            print(f"Removed suspect header: {header}")
 
     if len(clean_dict) < 3:
-        print("Too few sequences to apply length filter. Returning all non-suspect sequences.")
+        print(f"Too few sequences ({len(clean_dict)}) to apply length filter. Returning all non-suspect sequences.")
         return clean_dict
 
     # --- step 2: determine statistical bounds --------------------------------
