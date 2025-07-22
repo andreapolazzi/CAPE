@@ -56,23 +56,8 @@
         }
 
         .logo img {
-            height: 90px;
+            height: 120px;
             margin-right: 15px;
-        }
-
-        .logo h1 {
-            font-size: 2.5rem;
-            letter-spacing: 2px;
-            color: white;
-        }
-
-        .login-btn {
-            background-color: #e9e3f5;
-            color: #2d1d4b;
-            padding: 8px 20px;
-            border-radius: 8px;
-            text-decoration: none;
-            font-weight: bold;
         }
 
         /* Navigation */
@@ -462,20 +447,17 @@
     <header>
         <div class="header-content">
             <div class="logo">
-                <img src="{% static 'images/bacman_logo.png' %}">
-                <h1>BACMAN</h1>
+                <img src="{% static 'images/cape_logo.png' %}">
             </div>
-            <a href="#" class="login-btn">Login</a>
+            <nav>
+                <a href="{% url 'homepage' %}">Home</a>
+                <a href="{% url 'help' %}">Help</a>
+            </nav>
         </div>
-        <nav>
-            <a href="{% url 'homepage' %}">Home</a>
-            <a href="{% url 'help' %}">Help</a>
-            <a href="{% url 'contact' %}">Contact Us</a>
-        </nav>
     </header>
     {% block banner %}
     <div class="banner-image">
-        <!-- Background image of bacteria/molecules is applied via CSS -->
+        <img src="{% static 'images/bioinfo_background.jpeg' %}">
     </div> {% endblock %}
 
     <div class="container">{% block content %}{% endblock %}  </div>
