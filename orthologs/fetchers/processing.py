@@ -22,11 +22,11 @@ def process_ec_number(ec_number):
             if protein_ids:
                 tax_level = f"{len(protein_ids)} non-reviewed sequences found at the taxonomy level {org}"
                 break
-            else:
-                return {
-                    'summary': f"No sequences found for EC {ec_number}",
-                    'data': pd.DataFrame(columns=['organism', 'header', 'sequence', 'length'])
-                }
+        else:
+            return {
+                'summary': f"No sequences found for EC {ec_number}",
+                'data': pd.DataFrame(columns=['organism', 'header', 'sequence', 'length'])
+            }
 
         fasta = fetch_sequences(protein_ids)
         parsed_sequences = parse_fasta(fasta)
@@ -36,7 +36,7 @@ def process_ec_number(ec_number):
         for header, sequence in filtered_sequences.items():
             records.append({
                 'organism': extract_organism(header),
-                'header': header,
+                'header': header[:header.find('[')] if '[' in header else header,
                 'sequence': sequence,
                 'length': len(sequence)
             })
@@ -57,9 +57,10 @@ def process_ec_list(ec_list):
     return results
 
 if __name__ == '__main__':
-    test_ecs = ["1.1.1.1", "3.5.4.4"]
+    test_ecs = ["4.1.1.77", "1.2.1.61"]
     results = process_ec_list(test_ecs)
 
+    print()
     for result in results:
         print(f"EC: {result['ec_number']}")
         print(f"Summary: {result['summary']}")
