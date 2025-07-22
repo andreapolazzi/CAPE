@@ -1,5 +1,12 @@
 from ncbi_filtering import fetch_protein_ids, fetch_sequences, parse_fasta
 import pandas as pd
+import regex as re
+
+def extract_organism(header):
+    match = re.search(r'\[(.*?)\]', header)
+    if match:
+        return match.group(1)
+    return None
 
 def process_ec_number(ec_number):
         '''Process an EC number by fetching sequences and returning a DataFrame and metadata summary'''
@@ -28,7 +35,7 @@ def process_ec_number(ec_number):
         records = []
         for header, sequence in filtered_sequences.items():
             records.append({
-                'organism': org,
+                'organism': extract_organism(header),
                 'header': header,
                 'sequence': sequence,
                 'length': len(sequence)
@@ -48,3 +55,14 @@ def process_ec_list(ec_list):
         result['ec_number'] = ec
         results.append(result)
     return results
+
+if __name__ == '__main__':
+    test_ecs = ["1.1.1.1", "3.5.4.4"]
+    results = process_ec_list(test_ecs)
+
+    for result in results:
+        print(f"EC: {result['ec_number']}")
+        print(f"Summary: {result['summary']}")
+        print("First 3 entries:")
+        print(result['data'].head(3))
+        print("-" * 40)
