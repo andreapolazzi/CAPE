@@ -1,6 +1,5 @@
 import requests
 from xml.etree import ElementTree
-import sys
 
 def fetch_protein_ids(ec_number, organism, batch_size=100, reviewed=False):
     '''Fetch all protein IDs from NCBI based on EC number and organism, optionally filtering for Swiss-Prot'''
@@ -44,7 +43,7 @@ def fetch_protein_ids(ec_number, organism, batch_size=100, reviewed=False):
 
     return all_ids
 
-def fetch_sequences(ids, chunk_size=200):
+def fetch_sequences(ids, chunk_size=150):
     '''Fetch protein sequences in FASTA format for a list of IDs, in chunks'''
     fasta_all = ''
     for i in range(0, len(ids), chunk_size):
@@ -78,34 +77,4 @@ def parse_fasta(fasta_text):
     return sequences
 
 if __name__ == '__main__':
-    from remove_outliers import filter_by_length
-    ec = input('Enter the EC: ')
-    orgs = ['Rhodococcus', 'Nocardiaceae', 'Mycobacteriales', 'Actinomycetes', 'Actinomycetota', 'Bacillati']
-
-    for org in orgs:
-        print(f"\nFetching protein IDs for EC {ec} in {org}...")
-        protein_ids = fetch_protein_ids(ec, org, reviewed=True)
-        if protein_ids:
-            print(f"Found {len(protein_ids)} reviewed protein IDs.")
-            break
-
-        print("No reviewed protein IDs found, trying without reviewed filter...")
-        protein_ids = fetch_protein_ids(ec, org, reviewed=False)
-        if protein_ids:
-            print(f"Found {len(protein_ids)} non-reviewed protein IDs.")
-            break
-
-        print("No protein IDs found for this taxon.")
-    else:
-        print("No protein IDs found in any taxonomic level.")
-        sys.exit(1)
-
-    fasta = fetch_sequences(protein_ids)    #entries as string in FASTA format
-    parsed_sequences = parse_fasta(fasta)   #dictionary with headers as keys and sequences as values
-
-    filtered_sequences = filter_by_length(parsed_sequences)
-    print(f"\nRemaining sequences after outlier removal: {len(filtered_sequences)}")
-    for header, sequence in filtered_sequences.items():
-        print(f">{header}\n{sequence}\n")
-
-    print(f"Total sequences fetched: {len(parsed_sequences)}; kept after filtering: {len(filtered_sequences)}")
+    pass
