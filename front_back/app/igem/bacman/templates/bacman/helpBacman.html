@@ -1,0 +1,28 @@
+{% extends 'master.html' %}
+
+{% load static %}
+
+{% block title %}BACMAN - Help{% endblock %}
+
+ {% block content %}
+    <div class="description">
+        <p>If you have doubts on how to use the tool and what it does, here is a <u>guide on how to use BacMan tool </u>. If you are encountering any type of problems that cannot be solved with the guide, please contact us compiling the form beneath, we will be pleased to help you.</p>
+    </div>
+
+    <h1 class="tool-title">Send Us An Email</h1>
+    
+    <div class="input-group">
+        <input type="text" class="input-field" placeholder="Name(required)">
+    </div>
+    
+    <div class="input-group">
+        <input type="text" class="input-field" placeholder="Email Address (required)">
+    </div>
+    
+    <div class="input-group">
+        <input type="text" class="input-field" placeholder="Your Message (be as specific as possible, it will help us in understanding your problem)">
+    </div>
+
+    <div class="button-container">
+        <button class="create-button">Submit</button>
+    </div>{% endblock %}
