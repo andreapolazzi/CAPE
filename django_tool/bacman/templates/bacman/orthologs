@@ -104,34 +104,47 @@
   {% endfor %}
 </main>
 
-<a href="/loading ">
-  <button class="save-button">Submit</button>
-</a>
+<form id="submit-form" method="POST" action="/loading">
+  <input type="hidden" name="selections" id="selections-input">
+  <button class="save-button" type="submit">Submit</button>
+</form>
 {% endblock %}      
 
 <script>
+    const allSelections = {}; // oggetto globale per tenere traccia di tutto
+
     function toggleAll(ecIndex) {
         const selectAllCheckbox = document.getElementById('selectAll_' + ecIndex);
         const rowCheckboxes = document.querySelectorAll(`input[data-ec="${ecIndex}"]`);
-        
+
         rowCheckboxes.forEach(checkbox => {
             checkbox.checked = selectAllCheckbox.checked;
         });
     }
-    
+
     function saveSelection(ecIndex) {
         const selectedCheckboxes = document.querySelectorAll(`input[data-ec="${ecIndex}"]:checked`);
         const selectedHeaders = [];
-        
+
         selectedCheckboxes.forEach(checkbox => {
             selectedHeaders.push(checkbox.getAttribute('data-header'));
         });
-        
+
+        // Salvataggio in oggetto globale
+        allSelections[ecIndex] = selectedHeaders;
+
         if (selectedHeaders.length > 0) {
-            alert('Selezione entries scelte: ' + selectedHeaders.join(', '));
+            alert('Selezione salvata per EC ' + ecIndex + ': ' + selectedHeaders.join(', '));
         } else {
-            alert('Nessuna entry selezionata');
+            alert('Nessuna entry selezionata per EC ' + ecIndex);
         }
     }
+
+    // Prima di inviare il form, serializza i dati
+    document.getElementById("submit-form").addEventListener("submit", function(e) {
+        const hiddenInput = document.getElementById("selections-input");
+        hiddenInput.value = JSON.stringify(allSelections);
+    });
 </script>
+
 
