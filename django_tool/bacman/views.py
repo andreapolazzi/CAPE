@@ -9,11 +9,10 @@ def homepage(request):
 
 def pathways(request):
     if request.method == "POST":
-        start = request.POST.get("start")
-        sink = request.POST.get("sink")
+        pollutant = request.POST.get("pollutant")
+        final = request.POST.get("final")
 
-    paths, ec = primo(start, sink)
-
+    paths, ec = primo(pollutant, final)
     request.session['ec_list'] = json.dumps(ec)
 
     return render(request, 'bacman/pathways.html', { 'first_path': paths[0], 'second_path': paths[1], 'third_path': paths[2]})
