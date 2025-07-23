@@ -1,0 +1,137 @@
+{% extends "master.html" %}
+
+<style>
+    .ec-box {
+        border: 1px solid #ccc;
+        padding: 15px;
+        margin: 20px 0;
+        width: 500px;
+        height: 450px;
+        overflow: hidden;
+    }
+    
+    .dataframe-container {
+        height: 200px;
+        overflow-y: auto;
+        border: 1px solid #ddd;
+        margin-top: 10px;
+    }
+    
+    .dataframe-container table {
+        width: 100%;
+        border-collapse: collapse;
+    }
+    
+    .dataframe-container th, 
+    .dataframe-container td {
+        border: 1px solid #ddd;
+        padding: 5px;
+        text-align: left;
+    }
+    
+    .dataframe-container th {
+        position: sticky;
+        top: 0;
+        background-color: #f0f0f0;
+    }
+    
+    .checkbox-column {
+        width: 30px;
+        text-align: center;
+    }
+    
+    .save-button {
+        margin-top: 10px;
+        padding: 8px 16px;
+        background-color: #007bff;
+        color: white;
+        border: none;
+        cursor: pointer;
+        border-radius: 4px;
+    }
+    
+    .save-button:hover {
+        background-color: #0056b3;
+    }
+</style>
+
+{% block title %}BACMAN-Orthologs {% endblock %}
+
+{% block content %}
+<main class="main-content">
+  <h1>Enzyme Code Research Database</h1>
+    
+  {% for ec in results %} <!-- data structure that contains info for each EC number -->
+  <div class="ec-box">
+      <h2>{{ ec.ec_number }}</h2> <!-- title with EC number -->
+      
+      <p> {{ ec.summary }} </p>
+
+      <div class="dataframe-container">
+          {% if ec.data and not ec.data.empty %} <!-- verifies that dataframe exists and is not empty -->
+              <table> <!-- non posso usare a causa della checkbox pd to html perché non si può modificare poi  -->
+                  <thead>
+                      <tr>
+                          <th class="checkbox-column">
+                              <input type="checkbox" id="selectAll_{{ loop.index }}" onchange="toggleAll({{ loop.index }})">
+                          </th>
+                          {% for col in ec.data.columns %}
+                          <th>{{ col }}</th>
+                          {% endfor %}
+                      </tr>
+                  </thead>
+                  <tbody>
+                      {% for index, row in ec.data.iterrows() %}
+                      <tr>
+                          <td class="checkbox-column">
+                              <input type="checkbox" class="row-checkbox" data-ec="{{ loop.outer.loop.index }}" data-row="{{ loop.index }}" data-header="{{ row[0] }}">
+                          </td>
+                          {% for value in row %}
+                          <td>{{ value }}</td>
+                          {% endfor %}
+                      </tr>
+                      {% endfor %}
+                  </tbody>
+              </table>
+          {% else %}
+              <p><em>Nessun dato disponibile per questo enzima</em></p>
+          {% endif %}
+      </div>
+
+      <hr>
+      <button class="save-button" onclick="saveSelection({{ loop.index }})">Confirm selection</button>
+  </div>
+  {% endfor %}
+</main>
+
+<a href="/loading ">
+  <button class="save-button">Submit</button>
+</a>
+{% endblock %}      
+
+<script>
+    function toggleAll(ecIndex) {
+        const selectAllCheckbox = document.getElementById('selectAll_' + ecIndex);
+        const rowCheckboxes = document.querySelectorAll(`input[data-ec="${ecIndex}"]`);
+        
+        rowCheckboxes.forEach(checkbox => {
+            checkbox.checked = selectAllCheckbox.checked;
+        });
+    }
+    
+    function saveSelection(ecIndex) {
+        const selectedCheckboxes = document.querySelectorAll(`input[data-ec="${ecIndex}"]:checked`);
+        const selectedHeaders = [];
+        
+        selectedCheckboxes.forEach(checkbox => {
+            selectedHeaders.push(checkbox.getAttribute('data-header'));
+        });
+        
+        if (selectedHeaders.length > 0) {
+            alert('Selezione entries scelte: ' + selectedHeaders.join(', '));
+        } else {
+            alert('Nessuna entry selezionata');
+        }
+    }
+</script>
+
