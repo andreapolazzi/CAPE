@@ -8,7 +8,8 @@
     <section class="tool-section">
         <h2>Tool</h2>
         <div class="tool-controls">
-            <form method="POST" action="/pathways">
+            <form method="POST" action="{% url 'pathways' %}">
+                {% csrf_token %}
                 <input type="text" name="pollutant" class="input-field" placeholder="Insert starting pollutant to be degraded" required>
                 <input type="text" name="final" class="input-field" placeholder="Insert final compound" required>
                 <button type="submit" class="create-btn">Submit</button>
