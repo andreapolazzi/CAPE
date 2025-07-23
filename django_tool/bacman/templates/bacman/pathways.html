@@ -60,61 +60,27 @@
     <h2>Pathways found</h2>
     <h3> Using annotated pathways and Retropath, our tool has been able to find the 3 best pathways that lead from the starting to the final compounds chosen as inputs </h3>
 
-    <div class="box">
-        <input type="checkbox" id="checkbox1">
-        <label for="checkbox1">
-            <p>{{ first_path }}</p>
-        </label>
-    </div>
-    <div class="box">
-        <input type="checkbox" id="checkbox2">
-        <label for="checkbox2">
-            <p>{{ second_path }}</p>
-        </label>
-    </div>
-    <div class="box">
-        <input type="checkbox" id="checkbox3">
-        <label for="checkbox3">
-            <p>{{ third_path }}</p>
-        </label>
-    </div>
+    <form method="POST" action="{% url 'aaa' %}">
+        {% csrf_token %}
 
-    <form method="POST" action="/orthologs" onsubmit="return prepareSubmission()">
-      <input type="hidden" name="selected_pathways" id="selected-pathways">
-      <button type="submit" id="confirmButton">Conferma Selezione</button>
+        <div class="selectable-cards">
+            <label class="box">
+                <input type="radio" name="selected_pathway" value="0" required>
+                <div class="content">{{ first_path }}</div>
+            </label>
+
+            <label class="box">
+                <input type="radio" name="selected_pathway" value="1">
+                <div class="content">{{ second_path }}</div>
+            </label>
+
+            <label class="box">
+                <input type="radio" name="selected_pathway" value="2">
+                <div class="content">{{ third_path }}</div>
+            </label>
+        </div>
+
+        <button type="submit">Confirm</button>
     </form>
     
 {% endblock %}
-
-<script>
-    // Evidenzia il box selezionato
-    document.querySelectorAll('.box input[type="checkbox"]').forEach(checkbox => {
-        checkbox.addEventListener('change', function() {
-            if (this.checked) {
-                this.closest('.box').classList.add('selected');
-            } else {
-                this.closest('.box').classList.remove('selected');
-            }
-        });
-    });
-
-    // Prima di inviare il form, raccoglie le selezioni
-    function prepareSubmission() {
-        const selected = [];
-        document.querySelectorAll('.box input[type="checkbox"]').forEach((checkbox, index) => {
-            if (checkbox.checked) {
-                selected.push("pathway_" + (index + 1));  // puoi personalizzare il nome
-            }
-        });
-
-        if (selected.length === 0) {
-            alert("Seleziona almeno un pathway.");
-            return false; // blocca il submit
-        }
-
-        document.getElementById("selected-pathways").value = JSON.stringify(selected);
-        return true; // consente il submit
-    }
-</script>
-
-

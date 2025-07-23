@@ -1,2 +1,2 @@
 def secondo(s):
-    return 'BRAVO!'
+    return s
