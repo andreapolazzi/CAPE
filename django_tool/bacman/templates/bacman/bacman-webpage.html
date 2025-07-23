@@ -8,11 +8,11 @@
     <section class="tool-section">
         <h2>Tool</h2>
         <div class="tool-controls">
-            <input type="text" class="input-field" placeholder="Insert starting pollutant to be degraded">
-            <input type="text" class="input-field" placeholder="Insert final compound">
-            <a href="/pathways">
-              <button class="create-btn">Submit</button>
-            </a>
+            <form method="POST" action="/pathways">
+                <input type="text" name="pollutant" class="input-field" placeholder="Insert starting pollutant to be degraded" required>
+                <input type="text" name="final" class="input-field" placeholder="Insert final compound" required>
+                <button type="submit" class="create-btn">Submit</button>
+            </form>
         </div>
     </section>
 
