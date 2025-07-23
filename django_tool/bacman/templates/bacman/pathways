@@ -78,7 +78,7 @@
         </label>
     </div>
 
-    <a href="/fasta">
+    <a href="/orthologs">
       <button type= "submit" id="confirmButton">Conferma Selezione</button>
     </a>
     
