@@ -69,7 +69,7 @@
 
       <div class="dataframe-container">
           {% if ec.data and not ec.data.empty %} <!-- verifies that dataframe exists and is not empty -->
-              <table> <!-- non posso usare a causa della checkbox pd to html perché non si può modificare poi  -->
+              <table> <!-- Non usiamo pd.to_html() per mantenere la possibilità di inserire checkbox -->
                   <thead>
                       <tr>
                           <th class="checkbox-column">
