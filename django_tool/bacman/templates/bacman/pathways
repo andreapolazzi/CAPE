@@ -78,10 +78,42 @@
         </label>
     </div>
 
-    <a href="/orthologs">
-      <button type= "submit" id="confirmButton">Conferma Selezione</button>
-    </a>
+    <form method="POST" action="/orthologs" onsubmit="return prepareSubmission()">
+      <input type="hidden" name="selected_pathways" id="selected-pathways">
+      <button type="submit" id="confirmButton">Conferma Selezione</button>
+    </form>
     
 {% endblock %}
+
+<script>
+    // Evidenzia il box selezionato
+    document.querySelectorAll('.box input[type="checkbox"]').forEach(checkbox => {
+        checkbox.addEventListener('change', function() {
+            if (this.checked) {
+                this.closest('.box').classList.add('selected');
+            } else {
+                this.closest('.box').classList.remove('selected');
+            }
+        });
+    });
+
+    // Prima di inviare il form, raccoglie le selezioni
+    function prepareSubmission() {
+        const selected = [];
+        document.querySelectorAll('.box input[type="checkbox"]').forEach((checkbox, index) => {
+            if (checkbox.checked) {
+                selected.push("pathway_" + (index + 1));  // puoi personalizzare il nome
+            }
+        });
+
+        if (selected.length === 0) {
+            alert("Seleziona almeno un pathway.");
+            return false; // blocca il submit
+        }
+
+        document.getElementById("selected-pathways").value = JSON.stringify(selected);
+        return true; // consente il submit
+    }
+</script>
 
 
