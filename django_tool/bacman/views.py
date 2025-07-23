@@ -7,6 +7,17 @@ from .algorithms.step_two import secondo
 def homepage(request):
     return render(request, 'bacman/bacman-webpage.html')
 
+def pathways(request):
+    if request.method == "POST":
+        start = request.POST.get("start")
+        sink = request.POST.get("sink")
+
+    paths, ec = primo(start, sink)
+
+    request.session['ec_list'] = json.dumps(ec)
+
+    return render(request, 'bacman/pathways.html', { 'first_path': paths[0], 'second_path': paths[1], 'third_path': paths[2]})
+
 
 
 
