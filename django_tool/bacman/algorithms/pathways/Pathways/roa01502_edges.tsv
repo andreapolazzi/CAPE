@@ -1,187 +1,155 @@
-enzyme_name	EC	source	target	color
-D-alanine---(R)-lactate ligase	6.1.2.1	(R)-Lactate	ADP	white
-D-alanine---(R)-lactate ligase	6.1.2.1	(R)-Lactate	D-Alanyl-(R)-lactate	white
-D-alanine---(R)-lactate ligase	6.1.2.1	(R)-Lactate	Orthophosphate	white
-D-alanine---(R)-lactate ligase	6.1.2.1	ADP	(R)-Lactate	white
-D-alanine---(R)-lactate ligase	6.1.2.1	ADP	ATP	white
-D-alanine---(R)-lactate ligase	6.1.2.1	ADP	D-Alanine	white
-D-alanine---(R)-lactate ligase	6.1.2.1	ATP	ADP	white
-D-alanine---(R)-lactate ligase	6.1.2.1	ATP	D-Alanyl-(R)-lactate	white
-D-alanine---(R)-lactate ligase	6.1.2.1	ATP	Orthophosphate	white
-D-alanine---(R)-lactate ligase	6.1.2.1	D-Alanine	ADP	white
-D-alanine---(R)-lactate ligase	6.1.2.1	D-Alanine	D-Alanyl-(R)-lactate	white
-D-alanine---(R)-lactate ligase	6.1.2.1	D-Alanine	Orthophosphate	white
-D-alanine---(R)-lactate ligase	6.1.2.1	D-Alanyl-(R)-lactate	(R)-Lactate	white
-D-alanine---(R)-lactate ligase	6.1.2.1	D-Alanyl-(R)-lactate	ATP	white
-D-alanine---(R)-lactate ligase	6.1.2.1	D-Alanyl-(R)-lactate	D-Alanine	white
-D-alanine---(R)-lactate ligase	6.1.2.1	Orthophosphate	(R)-Lactate	white
-D-alanine---(R)-lactate ligase	6.1.2.1	Orthophosphate	ATP	white
-D-alanine---(R)-lactate ligase	6.1.2.1	Orthophosphate	D-Alanine	white
-D-alanine---D-serine ligase	6.3.2.35	(R)-Lactate	ADP	white
-D-alanine---D-serine ligase	6.3.2.35	(R)-Lactate	D-Alanyl-(R)-lactate	white
-D-alanine---D-serine ligase	6.3.2.35	(R)-Lactate	Orthophosphate	white
-D-alanine---D-serine ligase	6.3.2.35	ADP	(R)-Lactate	white
-D-alanine---D-serine ligase	6.3.2.35	ADP	ATP	white
-D-alanine---D-serine ligase	6.3.2.35	ADP	D-Alanine	white
-D-alanine---D-serine ligase	6.3.2.35	ATP	ADP	white
-D-alanine---D-serine ligase	6.3.2.35	ATP	D-Alanyl-(R)-lactate	white
-D-alanine---D-serine ligase	6.3.2.35	ATP	Orthophosphate	white
-D-alanine---D-serine ligase	6.3.2.35	D-Alanine	ADP	white
-D-alanine---D-serine ligase	6.3.2.35	D-Alanine	D-Alanyl-(R)-lactate	white
-D-alanine---D-serine ligase	6.3.2.35	D-Alanine	Orthophosphate	white
-D-alanine---D-serine ligase	6.3.2.35	D-Alanyl-(R)-lactate	(R)-Lactate	white
-D-alanine---D-serine ligase	6.3.2.35	D-Alanyl-(R)-lactate	ATP	white
-D-alanine---D-serine ligase	6.3.2.35	D-Alanyl-(R)-lactate	D-Alanine	white
-D-alanine---D-serine ligase	6.3.2.35	Orthophosphate	(R)-Lactate	white
-D-alanine---D-serine ligase	6.3.2.35	Orthophosphate	ATP	white
-D-alanine---D-serine ligase	6.3.2.35	Orthophosphate	D-Alanine	white
-D-specific alpha-keto acid dehydrogenase	1.1.1.-	MurAc(oyl-L-Ala-D-gamma-Glu-L-Lys-D-Ala-D-Ala)-diphospho-undecaprenol	UDPMurNAc(oyl-L-Ala-D-gamma-Glu-L-Lys-D-Ala-D-Ala)	white
-D-specific alpha-keto acid dehydrogenase	1.1.1.-	MurAc(oyl-L-Ala-D-gamma-Glu-L-Lys-D-Ala-D-Ala)-diphospho-undecaprenol	di-trans,poly-cis-Undecaprenyl phosphate	white
-D-specific alpha-keto acid dehydrogenase	1.1.1.-	UDPMurNAc(oyl-L-Ala-D-gamma-Glu-L-Lys-D-Ala-D-Ala)	MurAc(oyl-L-Ala-D-gamma-Glu-L-Lys-D-Ala-D-Ala)-diphospho-undecaprenol	white
-D-specific alpha-keto acid dehydrogenase	1.1.1.-	UDPMurNAc(oyl-L-Ala-D-gamma-Glu-L-Lys-D-Ala-D-Ala)	UMP	white
-D-specific alpha-keto acid dehydrogenase	1.1.1.-	UMP	UDPMurNAc(oyl-L-Ala-D-gamma-Glu-L-Lys-D-Ala-D-Ala)	white
-D-specific alpha-keto acid dehydrogenase	1.1.1.-	UMP	di-trans,poly-cis-Undecaprenyl phosphate	white
-D-specific alpha-keto acid dehydrogenase	1.1.1.-	di-trans,poly-cis-Undecaprenyl phosphate	MurAc(oyl-L-Ala-D-gamma-Glu-L-Lys-D-Ala-D-Ala)-diphospho-undecaprenol	white
-D-specific alpha-keto acid dehydrogenase	1.1.1.-	di-trans,poly-cis-Undecaprenyl phosphate	UMP	white
-serine/alanine racemase	5.1.1.18	(R)-Lactate	ADP	white
-serine/alanine racemase	5.1.1.18	(R)-Lactate	D-Alanyl-(R)-lactate	white
-serine/alanine racemase	5.1.1.18	(R)-Lactate	Orthophosphate	white
-serine/alanine racemase	5.1.1.18	ADP	(R)-Lactate	white
-serine/alanine racemase	5.1.1.18	ADP	ATP	white
-serine/alanine racemase	5.1.1.18	ADP	D-Alanine	white
-serine/alanine racemase	5.1.1.18	ATP	ADP	white
-serine/alanine racemase	5.1.1.18	ATP	D-Alanyl-(R)-lactate	white
-serine/alanine racemase	5.1.1.18	ATP	Orthophosphate	white
-serine/alanine racemase	5.1.1.18	D-Alanine	ADP	white
-serine/alanine racemase	5.1.1.18	D-Alanine	D-Alanyl-(R)-lactate	white
-serine/alanine racemase	5.1.1.18	D-Alanine	Orthophosphate	white
-serine/alanine racemase	5.1.1.18	D-Alanyl-(R)-lactate	(R)-Lactate	white
-serine/alanine racemase	5.1.1.18	D-Alanyl-(R)-lactate	ATP	white
-serine/alanine racemase	5.1.1.18	D-Alanyl-(R)-lactate	D-Alanine	white
-serine/alanine racemase	5.1.1.18	Orthophosphate	(R)-Lactate	white
-serine/alanine racemase	5.1.1.18	Orthophosphate	ATP	white
-serine/alanine racemase	5.1.1.18	Orthophosphate	D-Alanine	white
-two-component system, OmpR family, response regulator VanR	2.7.13.3	MurAc(oyl-L-Ala-D-gamma-Glu-L-Lys-D-Ala-D-Ala)-diphospho-undecaprenol	UDPMurNAc(oyl-L-Ala-D-gamma-Glu-L-Lys-D-Ala-D-Ala)	white
-two-component system, OmpR family, response regulator VanR	2.7.13.3	MurAc(oyl-L-Ala-D-gamma-Glu-L-Lys-D-Ala-D-Ala)-diphospho-undecaprenol	di-trans,poly-cis-Undecaprenyl phosphate	white
-two-component system, OmpR family, response regulator VanR	2.7.13.3	UDPMurNAc(oyl-L-Ala-D-gamma-Glu-L-Lys-D-Ala-D-Ala)	MurAc(oyl-L-Ala-D-gamma-Glu-L-Lys-D-Ala-D-Ala)-diphospho-undecaprenol	white
-two-component system, OmpR family, response regulator VanR	2.7.13.3	UDPMurNAc(oyl-L-Ala-D-gamma-Glu-L-Lys-D-Ala-D-Ala)	UMP	white
-two-component system, OmpR family, response regulator VanR	2.7.13.3	UMP	UDPMurNAc(oyl-L-Ala-D-gamma-Glu-L-Lys-D-Ala-D-Ala)	white
-two-component system, OmpR family, response regulator VanR	2.7.13.3	UMP	di-trans,poly-cis-Undecaprenyl phosphate	white
-two-component system, OmpR family, response regulator VanR	2.7.13.3	di-trans,poly-cis-Undecaprenyl phosphate	MurAc(oyl-L-Ala-D-gamma-Glu-L-Lys-D-Ala-D-Ala)-diphospho-undecaprenol	white
-two-component system, OmpR family, response regulator VanR	2.7.13.3	di-trans,poly-cis-Undecaprenyl phosphate	UMP	white
-two-component system, OmpR family, sensor histidine kinase VanS	2.7.13.3	MurAc(oyl-L-Ala-D-gamma-Glu-L-Lys-D-Ala-D-Ala)-diphospho-undecaprenol	UDPMurNAc(oyl-L-Ala-D-gamma-Glu-L-Lys-D-Ala-D-Ala)	white
-two-component system, OmpR family, sensor histidine kinase VanS	2.7.13.3	MurAc(oyl-L-Ala-D-gamma-Glu-L-Lys-D-Ala-D-Ala)-diphospho-undecaprenol	di-trans,poly-cis-Undecaprenyl phosphate	white
-two-component system, OmpR family, sensor histidine kinase VanS	2.7.13.3	UDPMurNAc(oyl-L-Ala-D-gamma-Glu-L-Lys-D-Ala-D-Ala)	MurAc(oyl-L-Ala-D-gamma-Glu-L-Lys-D-Ala-D-Ala)-diphospho-undecaprenol	white
-two-component system, OmpR family, sensor histidine kinase VanS	2.7.13.3	UDPMurNAc(oyl-L-Ala-D-gamma-Glu-L-Lys-D-Ala-D-Ala)	UMP	white
-two-component system, OmpR family, sensor histidine kinase VanS	2.7.13.3	UMP	UDPMurNAc(oyl-L-Ala-D-gamma-Glu-L-Lys-D-Ala-D-Ala)	white
-two-component system, OmpR family, sensor histidine kinase VanS	2.7.13.3	UMP	di-trans,poly-cis-Undecaprenyl phosphate	white
-two-component system, OmpR family, sensor histidine kinase VanS	2.7.13.3	di-trans,poly-cis-Undecaprenyl phosphate	MurAc(oyl-L-Ala-D-gamma-Glu-L-Lys-D-Ala-D-Ala)-diphospho-undecaprenol	white
-two-component system, OmpR family, sensor histidine kinase VanS	2.7.13.3	di-trans,poly-cis-Undecaprenyl phosphate	UMP	white
-vancomycin resistance protein VanJ	3.4.17.14	(R)-Lactate	ADP	white
-vancomycin resistance protein VanJ	3.4.17.14	(R)-Lactate	D-Alanyl-(R)-lactate	white
-vancomycin resistance protein VanJ	3.4.17.14	(R)-Lactate	Orthophosphate	white
-vancomycin resistance protein VanJ	3.4.17.14	ADP	(R)-Lactate	white
-vancomycin resistance protein VanJ	3.4.17.14	ADP	ATP	white
-vancomycin resistance protein VanJ	3.4.17.14	ADP	D-Alanine	white
-vancomycin resistance protein VanJ	3.4.17.14	ATP	ADP	white
-vancomycin resistance protein VanJ	3.4.17.14	ATP	D-Alanyl-(R)-lactate	white
-vancomycin resistance protein VanJ	3.4.17.14	ATP	Orthophosphate	white
-vancomycin resistance protein VanJ	3.4.17.14	D-Alanine	ADP	white
-vancomycin resistance protein VanJ	3.4.17.14	D-Alanine	D-Alanyl-(R)-lactate	white
-vancomycin resistance protein VanJ	3.4.17.14	D-Alanine	Orthophosphate	white
-vancomycin resistance protein VanJ	3.4.17.14	D-Alanyl-(R)-lactate	(R)-Lactate	white
-vancomycin resistance protein VanJ	3.4.17.14	D-Alanyl-(R)-lactate	ATP	white
-vancomycin resistance protein VanJ	3.4.17.14	D-Alanyl-(R)-lactate	D-Alanine	white
-vancomycin resistance protein VanJ	3.4.17.14	Orthophosphate	(R)-Lactate	white
-vancomycin resistance protein VanJ	3.4.17.14	Orthophosphate	ATP	white
-vancomycin resistance protein VanJ	3.4.17.14	Orthophosphate	D-Alanine	white
-vancomycin resistance protein VanK	6.3.2.35	(R)-Lactate	ADP	white
-vancomycin resistance protein VanK	6.3.2.35	(R)-Lactate	D-Alanyl-(R)-lactate	white
-vancomycin resistance protein VanK	6.3.2.35	(R)-Lactate	Orthophosphate	white
-vancomycin resistance protein VanK	6.3.2.35	ADP	(R)-Lactate	white
-vancomycin resistance protein VanK	6.3.2.35	ADP	ATP	white
-vancomycin resistance protein VanK	6.3.2.35	ADP	D-Alanine	white
-vancomycin resistance protein VanK	6.3.2.35	ATP	ADP	white
-vancomycin resistance protein VanK	6.3.2.35	ATP	D-Alanyl-(R)-lactate	white
-vancomycin resistance protein VanK	6.3.2.35	ATP	Orthophosphate	white
-vancomycin resistance protein VanK	6.3.2.35	D-Alanine	ADP	white
-vancomycin resistance protein VanK	6.3.2.35	D-Alanine	D-Alanyl-(R)-lactate	white
-vancomycin resistance protein VanK	6.3.2.35	D-Alanine	Orthophosphate	white
-vancomycin resistance protein VanK	6.3.2.35	D-Alanyl-(R)-lactate	(R)-Lactate	white
-vancomycin resistance protein VanK	6.3.2.35	D-Alanyl-(R)-lactate	ATP	white
-vancomycin resistance protein VanK	6.3.2.35	D-Alanyl-(R)-lactate	D-Alanine	white
-vancomycin resistance protein VanK	6.3.2.35	Orthophosphate	(R)-Lactate	white
-vancomycin resistance protein VanK	6.3.2.35	Orthophosphate	ATP	white
-vancomycin resistance protein VanK	6.3.2.35	Orthophosphate	D-Alanine	white
-vancomycin resistance protein VanW	3.4.17.14	(R)-Lactate	ADP	white
-vancomycin resistance protein VanW	3.4.17.14	(R)-Lactate	D-Alanyl-(R)-lactate	white
-vancomycin resistance protein VanW	3.4.17.14	(R)-Lactate	Orthophosphate	white
-vancomycin resistance protein VanW	3.4.17.14	ADP	(R)-Lactate	white
-vancomycin resistance protein VanW	3.4.17.14	ADP	ATP	white
-vancomycin resistance protein VanW	3.4.17.14	ADP	D-Alanine	white
-vancomycin resistance protein VanW	3.4.17.14	ATP	ADP	white
-vancomycin resistance protein VanW	3.4.17.14	ATP	D-Alanyl-(R)-lactate	white
-vancomycin resistance protein VanW	3.4.17.14	ATP	Orthophosphate	white
-vancomycin resistance protein VanW	3.4.17.14	D-Alanine	ADP	white
-vancomycin resistance protein VanW	3.4.17.14	D-Alanine	D-Alanyl-(R)-lactate	white
-vancomycin resistance protein VanW	3.4.17.14	D-Alanine	Orthophosphate	white
-vancomycin resistance protein VanW	3.4.17.14	D-Alanyl-(R)-lactate	(R)-Lactate	white
-vancomycin resistance protein VanW	3.4.17.14	D-Alanyl-(R)-lactate	ATP	white
-vancomycin resistance protein VanW	3.4.17.14	D-Alanyl-(R)-lactate	D-Alanine	white
-vancomycin resistance protein VanW	3.4.17.14	Orthophosphate	(R)-Lactate	white
-vancomycin resistance protein VanW	3.4.17.14	Orthophosphate	ATP	white
-vancomycin resistance protein VanW	3.4.17.14	Orthophosphate	D-Alanine	white
-zinc D-Ala-D-Ala carboxypeptidase	3.4.17.14	(R)-Lactate	ADP	white
-zinc D-Ala-D-Ala carboxypeptidase	3.4.17.14	(R)-Lactate	D-Alanyl-(R)-lactate	white
-zinc D-Ala-D-Ala carboxypeptidase	3.4.17.14	(R)-Lactate	Orthophosphate	white
-zinc D-Ala-D-Ala carboxypeptidase	3.4.17.14	ADP	(R)-Lactate	white
-zinc D-Ala-D-Ala carboxypeptidase	3.4.17.14	ADP	ATP	white
-zinc D-Ala-D-Ala carboxypeptidase	3.4.17.14	ADP	D-Alanine	white
-zinc D-Ala-D-Ala carboxypeptidase	3.4.17.14	ATP	ADP	white
-zinc D-Ala-D-Ala carboxypeptidase	3.4.17.14	ATP	D-Alanyl-(R)-lactate	white
-zinc D-Ala-D-Ala carboxypeptidase	3.4.17.14	ATP	Orthophosphate	white
-zinc D-Ala-D-Ala carboxypeptidase	3.4.17.14	D-Alanine	ADP	white
-zinc D-Ala-D-Ala carboxypeptidase	3.4.17.14	D-Alanine	D-Alanyl-(R)-lactate	white
-zinc D-Ala-D-Ala carboxypeptidase	3.4.17.14	D-Alanine	Orthophosphate	white
-zinc D-Ala-D-Ala carboxypeptidase	3.4.17.14	D-Alanyl-(R)-lactate	(R)-Lactate	white
-zinc D-Ala-D-Ala carboxypeptidase	3.4.17.14	D-Alanyl-(R)-lactate	ATP	white
-zinc D-Ala-D-Ala carboxypeptidase	3.4.17.14	D-Alanyl-(R)-lactate	D-Alanine	white
-zinc D-Ala-D-Ala carboxypeptidase	3.4.17.14	Orthophosphate	(R)-Lactate	white
-zinc D-Ala-D-Ala carboxypeptidase	3.4.17.14	Orthophosphate	ATP	white
-zinc D-Ala-D-Ala carboxypeptidase	3.4.17.14	Orthophosphate	D-Alanine	white
-zinc D-Ala-D-Ala dipeptidase	3.4.13.22	(R)-Lactate	ADP	white
-zinc D-Ala-D-Ala dipeptidase	3.4.13.22	(R)-Lactate	D-Alanyl-(R)-lactate	white
-zinc D-Ala-D-Ala dipeptidase	3.4.13.22	(R)-Lactate	Orthophosphate	white
-zinc D-Ala-D-Ala dipeptidase	3.4.13.22	ADP	(R)-Lactate	white
-zinc D-Ala-D-Ala dipeptidase	3.4.13.22	ADP	ATP	white
-zinc D-Ala-D-Ala dipeptidase	3.4.13.22	ADP	D-Alanine	white
-zinc D-Ala-D-Ala dipeptidase	3.4.13.22	ATP	ADP	white
-zinc D-Ala-D-Ala dipeptidase	3.4.13.22	ATP	D-Alanyl-(R)-lactate	white
-zinc D-Ala-D-Ala dipeptidase	3.4.13.22	ATP	Orthophosphate	white
-zinc D-Ala-D-Ala dipeptidase	3.4.13.22	D-Alanine	ADP	white
-zinc D-Ala-D-Ala dipeptidase	3.4.13.22	D-Alanine	D-Alanyl-(R)-lactate	white
-zinc D-Ala-D-Ala dipeptidase	3.4.13.22	D-Alanine	Orthophosphate	white
-zinc D-Ala-D-Ala dipeptidase	3.4.13.22	D-Alanyl-(R)-lactate	(R)-Lactate	white
-zinc D-Ala-D-Ala dipeptidase	3.4.13.22	D-Alanyl-(R)-lactate	ATP	white
-zinc D-Ala-D-Ala dipeptidase	3.4.13.22	D-Alanyl-(R)-lactate	D-Alanine	white
-zinc D-Ala-D-Ala dipeptidase	3.4.13.22	Orthophosphate	(R)-Lactate	white
-zinc D-Ala-D-Ala dipeptidase	3.4.13.22	Orthophosphate	ATP	white
-zinc D-Ala-D-Ala dipeptidase	3.4.13.22	Orthophosphate	D-Alanine	white
-zinc D-Ala-D-Ala dipeptidase/carboxypeptidase	3.4.13.22	(R)-Lactate	ADP	white
-zinc D-Ala-D-Ala dipeptidase/carboxypeptidase	3.4.13.22	(R)-Lactate	D-Alanyl-(R)-lactate	white
-zinc D-Ala-D-Ala dipeptidase/carboxypeptidase	3.4.13.22	(R)-Lactate	Orthophosphate	white
-zinc D-Ala-D-Ala dipeptidase/carboxypeptidase	3.4.13.22	ADP	(R)-Lactate	white
-zinc D-Ala-D-Ala dipeptidase/carboxypeptidase	3.4.13.22	ADP	ATP	white
-zinc D-Ala-D-Ala dipeptidase/carboxypeptidase	3.4.13.22	ADP	D-Alanine	white
-zinc D-Ala-D-Ala dipeptidase/carboxypeptidase	3.4.13.22	ATP	ADP	white
-zinc D-Ala-D-Ala dipeptidase/carboxypeptidase	3.4.13.22	ATP	D-Alanyl-(R)-lactate	white
-zinc D-Ala-D-Ala dipeptidase/carboxypeptidase	3.4.13.22	ATP	Orthophosphate	white
-zinc D-Ala-D-Ala dipeptidase/carboxypeptidase	3.4.13.22	D-Alanine	ADP	white
-zinc D-Ala-D-Ala dipeptidase/carboxypeptidase	3.4.13.22	D-Alanine	D-Alanyl-(R)-lactate	white
-zinc D-Ala-D-Ala dipeptidase/carboxypeptidase	3.4.13.22	D-Alanine	Orthophosphate	white
-zinc D-Ala-D-Ala dipeptidase/carboxypeptidase	3.4.13.22	D-Alanyl-(R)-lactate	(R)-Lactate	white
-zinc D-Ala-D-Ala dipeptidase/carboxypeptidase	3.4.13.22	D-Alanyl-(R)-lactate	ATP	white
-zinc D-Ala-D-Ala dipeptidase/carboxypeptidase	3.4.13.22	D-Alanyl-(R)-lactate	D-Alanine	white
-zinc D-Ala-D-Ala dipeptidase/carboxypeptidase	3.4.13.22	Orthophosphate	(R)-Lactate	white
-zinc D-Ala-D-Ala dipeptidase/carboxypeptidase	3.4.13.22	Orthophosphate	ATP	white
-zinc D-Ala-D-Ala dipeptidase/carboxypeptidase	3.4.13.22	Orthophosphate	D-Alanine	white
+enzyme_name	EC	source	target	reaction	color
+D-alanine---(R)-lactate ligase	6.1.2.1	(R)-Lactate	ADP	R09588	white
+D-alanine---(R)-lactate ligase	6.1.2.1	(R)-Lactate	D-Alanyl-(R)-lactate	R09588	white
+D-alanine---(R)-lactate ligase	6.1.2.1	(R)-Lactate	Orthophosphate	R09588	white
+D-alanine---(R)-lactate ligase	6.1.2.1	ADP	(R)-Lactate	R09588	white
+D-alanine---(R)-lactate ligase	6.1.2.1	ADP	ATP	R09588	white
+D-alanine---(R)-lactate ligase	6.1.2.1	ADP	D-Alanine	R09588	white
+D-alanine---(R)-lactate ligase	6.1.2.1	ATP	ADP	R09588	white
+D-alanine---(R)-lactate ligase	6.1.2.1	ATP	D-Alanyl-(R)-lactate	R09588	white
+D-alanine---(R)-lactate ligase	6.1.2.1	ATP	Orthophosphate	R09588	white
+D-alanine---(R)-lactate ligase	6.1.2.1	D-Alanine	ADP	R09588	white
+D-alanine---(R)-lactate ligase	6.1.2.1	D-Alanine	D-Alanyl-(R)-lactate	R09588	white
+D-alanine---(R)-lactate ligase	6.1.2.1	D-Alanine	Orthophosphate	R09588	white
+D-alanine---(R)-lactate ligase	6.1.2.1	D-Alanyl-(R)-lactate	(R)-Lactate	R09588	white
+D-alanine---(R)-lactate ligase	6.1.2.1	D-Alanyl-(R)-lactate	ATP	R09588	white
+D-alanine---(R)-lactate ligase	6.1.2.1	D-Alanyl-(R)-lactate	D-Alanine	R09588	white
+D-alanine---(R)-lactate ligase	6.1.2.1	Orthophosphate	(R)-Lactate	R09588	white
+D-alanine---(R)-lactate ligase	6.1.2.1	Orthophosphate	ATP	R09588	white
+D-alanine---(R)-lactate ligase	6.1.2.1	Orthophosphate	D-Alanine	R09588	white
+D-alanine---D-serine ligase	6.3.2.35	(R)-Lactate	ADP	R09588	white
+D-alanine---D-serine ligase	6.3.2.35	(R)-Lactate	D-Alanyl-(R)-lactate	R09588	white
+D-alanine---D-serine ligase	6.3.2.35	(R)-Lactate	Orthophosphate	R09588	white
+D-alanine---D-serine ligase	6.3.2.35	ADP	(R)-Lactate	R09588	white
+D-alanine---D-serine ligase	6.3.2.35	ADP	ATP	R09588	white
+D-alanine---D-serine ligase	6.3.2.35	ADP	D-Alanine	R09588	white
+D-alanine---D-serine ligase	6.3.2.35	ATP	ADP	R09588	white
+D-alanine---D-serine ligase	6.3.2.35	ATP	D-Alanyl-(R)-lactate	R09588	white
+D-alanine---D-serine ligase	6.3.2.35	ATP	Orthophosphate	R09588	white
+D-alanine---D-serine ligase	6.3.2.35	D-Alanine	ADP	R09588	white
+D-alanine---D-serine ligase	6.3.2.35	D-Alanine	D-Alanyl-(R)-lactate	R09588	white
+D-alanine---D-serine ligase	6.3.2.35	D-Alanine	Orthophosphate	R09588	white
+D-alanine---D-serine ligase	6.3.2.35	D-Alanyl-(R)-lactate	(R)-Lactate	R09588	white
+D-alanine---D-serine ligase	6.3.2.35	D-Alanyl-(R)-lactate	ATP	R09588	white
+D-alanine---D-serine ligase	6.3.2.35	D-Alanyl-(R)-lactate	D-Alanine	R09588	white
+D-alanine---D-serine ligase	6.3.2.35	Orthophosphate	(R)-Lactate	R09588	white
+D-alanine---D-serine ligase	6.3.2.35	Orthophosphate	ATP	R09588	white
+D-alanine---D-serine ligase	6.3.2.35	Orthophosphate	D-Alanine	R09588	white
+D-specific alpha-keto acid dehydrogenase	1.1.1.-	H2O	Penicilloic acid	R06363	white
+D-specific alpha-keto acid dehydrogenase	1.1.1.-	Penicillin	Penicilloic acid	R06363	white
+D-specific alpha-keto acid dehydrogenase	1.1.1.-	Penicilloic acid	H2O	R06363	white
+D-specific alpha-keto acid dehydrogenase	1.1.1.-	Penicilloic acid	Penicillin	R06363	white
+serine/alanine racemase	5.1.1.18	(R)-Lactate	ADP	R09588	white
+serine/alanine racemase	5.1.1.18	(R)-Lactate	D-Alanyl-(R)-lactate	R09588	white
+serine/alanine racemase	5.1.1.18	(R)-Lactate	Orthophosphate	R09588	white
+serine/alanine racemase	5.1.1.18	ADP	(R)-Lactate	R09588	white
+serine/alanine racemase	5.1.1.18	ADP	ATP	R09588	white
+serine/alanine racemase	5.1.1.18	ADP	D-Alanine	R09588	white
+serine/alanine racemase	5.1.1.18	ATP	ADP	R09588	white
+serine/alanine racemase	5.1.1.18	ATP	D-Alanyl-(R)-lactate	R09588	white
+serine/alanine racemase	5.1.1.18	ATP	Orthophosphate	R09588	white
+serine/alanine racemase	5.1.1.18	D-Alanine	ADP	R09588	white
+serine/alanine racemase	5.1.1.18	D-Alanine	D-Alanyl-(R)-lactate	R09588	white
+serine/alanine racemase	5.1.1.18	D-Alanine	Orthophosphate	R09588	white
+serine/alanine racemase	5.1.1.18	D-Alanyl-(R)-lactate	(R)-Lactate	R09588	white
+serine/alanine racemase	5.1.1.18	D-Alanyl-(R)-lactate	ATP	R09588	white
+serine/alanine racemase	5.1.1.18	D-Alanyl-(R)-lactate	D-Alanine	R09588	white
+serine/alanine racemase	5.1.1.18	Orthophosphate	(R)-Lactate	R09588	white
+serine/alanine racemase	5.1.1.18	Orthophosphate	ATP	R09588	white
+serine/alanine racemase	5.1.1.18	Orthophosphate	D-Alanine	R09588	white
+two-component system, OmpR family, response regulator VanR	2.7.13.3	H2O	Penicilloic acid	R06363	white
+two-component system, OmpR family, response regulator VanR	2.7.13.3	Penicillin	Penicilloic acid	R06363	white
+two-component system, OmpR family, response regulator VanR	2.7.13.3	Penicilloic acid	H2O	R06363	white
+two-component system, OmpR family, response regulator VanR	2.7.13.3	Penicilloic acid	Penicillin	R06363	white
+two-component system, OmpR family, sensor histidine kinase VanS	2.7.13.3	H2O	Penicilloic acid	R06363	white
+two-component system, OmpR family, sensor histidine kinase VanS	2.7.13.3	Penicillin	Penicilloic acid	R06363	white
+two-component system, OmpR family, sensor histidine kinase VanS	2.7.13.3	Penicilloic acid	H2O	R06363	white
+two-component system, OmpR family, sensor histidine kinase VanS	2.7.13.3	Penicilloic acid	Penicillin	R06363	white
+vancomycin resistance protein VanJ	6.3.2.35	(R)-Lactate	ADP	R09588	white
+vancomycin resistance protein VanJ	6.3.2.35	(R)-Lactate	D-Alanyl-(R)-lactate	R09588	white
+vancomycin resistance protein VanJ	6.3.2.35	(R)-Lactate	Orthophosphate	R09588	white
+vancomycin resistance protein VanJ	6.3.2.35	ADP	(R)-Lactate	R09588	white
+vancomycin resistance protein VanJ	6.3.2.35	ADP	ATP	R09588	white
+vancomycin resistance protein VanJ	6.3.2.35	ADP	D-Alanine	R09588	white
+vancomycin resistance protein VanJ	6.3.2.35	ATP	ADP	R09588	white
+vancomycin resistance protein VanJ	6.3.2.35	ATP	D-Alanyl-(R)-lactate	R09588	white
+vancomycin resistance protein VanJ	6.3.2.35	ATP	Orthophosphate	R09588	white
+vancomycin resistance protein VanJ	6.3.2.35	D-Alanine	ADP	R09588	white
+vancomycin resistance protein VanJ	6.3.2.35	D-Alanine	D-Alanyl-(R)-lactate	R09588	white
+vancomycin resistance protein VanJ	6.3.2.35	D-Alanine	Orthophosphate	R09588	white
+vancomycin resistance protein VanJ	6.3.2.35	D-Alanyl-(R)-lactate	(R)-Lactate	R09588	white
+vancomycin resistance protein VanJ	6.3.2.35	D-Alanyl-(R)-lactate	ATP	R09588	white
+vancomycin resistance protein VanJ	6.3.2.35	D-Alanyl-(R)-lactate	D-Alanine	R09588	white
+vancomycin resistance protein VanJ	6.3.2.35	Orthophosphate	(R)-Lactate	R09588	white
+vancomycin resistance protein VanJ	6.3.2.35	Orthophosphate	ATP	R09588	white
+vancomycin resistance protein VanJ	6.3.2.35	Orthophosphate	D-Alanine	R09588	white
+vancomycin resistance protein VanK	6.3.2.35	(R)-Lactate	ADP	R09588	white
+vancomycin resistance protein VanK	6.3.2.35	(R)-Lactate	D-Alanyl-(R)-lactate	R09588	white
+vancomycin resistance protein VanK	6.3.2.35	(R)-Lactate	Orthophosphate	R09588	white
+vancomycin resistance protein VanK	6.3.2.35	ADP	(R)-Lactate	R09588	white
+vancomycin resistance protein VanK	6.3.2.35	ADP	ATP	R09588	white
+vancomycin resistance protein VanK	6.3.2.35	ADP	D-Alanine	R09588	white
+vancomycin resistance protein VanK	6.3.2.35	ATP	ADP	R09588	white
+vancomycin resistance protein VanK	6.3.2.35	ATP	D-Alanyl-(R)-lactate	R09588	white
+vancomycin resistance protein VanK	6.3.2.35	ATP	Orthophosphate	R09588	white
+vancomycin resistance protein VanK	6.3.2.35	D-Alanine	ADP	R09588	white
+vancomycin resistance protein VanK	6.3.2.35	D-Alanine	D-Alanyl-(R)-lactate	R09588	white
+vancomycin resistance protein VanK	6.3.2.35	D-Alanine	Orthophosphate	R09588	white
+vancomycin resistance protein VanK	6.3.2.35	D-Alanyl-(R)-lactate	(R)-Lactate	R09588	white
+vancomycin resistance protein VanK	6.3.2.35	D-Alanyl-(R)-lactate	ATP	R09588	white
+vancomycin resistance protein VanK	6.3.2.35	D-Alanyl-(R)-lactate	D-Alanine	R09588	white
+vancomycin resistance protein VanK	6.3.2.35	Orthophosphate	(R)-Lactate	R09588	white
+vancomycin resistance protein VanK	6.3.2.35	Orthophosphate	ATP	R09588	white
+vancomycin resistance protein VanK	6.3.2.35	Orthophosphate	D-Alanine	R09588	white
+vancomycin resistance protein VanW	6.3.2.35	(R)-Lactate	ADP	R09588	white
+vancomycin resistance protein VanW	6.3.2.35	(R)-Lactate	D-Alanyl-(R)-lactate	R09588	white
+vancomycin resistance protein VanW	6.3.2.35	(R)-Lactate	Orthophosphate	R09588	white
+vancomycin resistance protein VanW	6.3.2.35	ADP	(R)-Lactate	R09588	white
+vancomycin resistance protein VanW	6.3.2.35	ADP	ATP	R09588	white
+vancomycin resistance protein VanW	6.3.2.35	ADP	D-Alanine	R09588	white
+vancomycin resistance protein VanW	6.3.2.35	ATP	ADP	R09588	white
+vancomycin resistance protein VanW	6.3.2.35	ATP	D-Alanyl-(R)-lactate	R09588	white
+vancomycin resistance protein VanW	6.3.2.35	ATP	Orthophosphate	R09588	white
+vancomycin resistance protein VanW	6.3.2.35	D-Alanine	ADP	R09588	white
+vancomycin resistance protein VanW	6.3.2.35	D-Alanine	D-Alanyl-(R)-lactate	R09588	white
+vancomycin resistance protein VanW	6.3.2.35	D-Alanine	Orthophosphate	R09588	white
+vancomycin resistance protein VanW	6.3.2.35	D-Alanyl-(R)-lactate	(R)-Lactate	R09588	white
+vancomycin resistance protein VanW	6.3.2.35	D-Alanyl-(R)-lactate	ATP	R09588	white
+vancomycin resistance protein VanW	6.3.2.35	D-Alanyl-(R)-lactate	D-Alanine	R09588	white
+vancomycin resistance protein VanW	6.3.2.35	Orthophosphate	(R)-Lactate	R09588	white
+vancomycin resistance protein VanW	6.3.2.35	Orthophosphate	ATP	R09588	white
+vancomycin resistance protein VanW	6.3.2.35	Orthophosphate	D-Alanine	R09588	white
+zinc D-Ala-D-Ala carboxypeptidase	3.4.17.14	L-Alanyl-tRNA	Undecaprenyl-diphospho-N-acetylmuramoyl-(N-acetylglucosamine)-L-alanyl-gamma-D-glutamyl-L-lysyl-(L-alanyl)-D-alanyl-D-alanine	R08779	white
+zinc D-Ala-D-Ala carboxypeptidase	3.4.17.14	L-Alanyl-tRNA	tRNA(Ala)	R08779	white
+zinc D-Ala-D-Ala carboxypeptidase	3.4.17.14	Undecaprenyl-diphospho-N-acetylmuramoyl-(N-acetylglucosamine)-L-alanyl-gamma-D-glutamyl-L-lysyl-(L-alanyl)-D-alanyl-D-alanine	L-Alanyl-tRNA	R08779	white
+zinc D-Ala-D-Ala carboxypeptidase	3.4.17.14	Undecaprenyl-diphospho-N-acetylmuramoyl-(N-acetylglucosamine)-L-alanyl-gamma-D-glutamyl-L-lysyl-(L-alanyl)-D-alanyl-D-alanine	Undecaprenyl-diphospho-N-acetylmuramoyl-(N-acetylglucosamine)-L-alanyl-gamma-D-glutamyl-L-lysyl-D-alanyl-D-alanine	R08779	white
+zinc D-Ala-D-Ala carboxypeptidase	3.4.17.14	Undecaprenyl-diphospho-N-acetylmuramoyl-(N-acetylglucosamine)-L-alanyl-gamma-D-glutamyl-L-lysyl-D-alanyl-D-alanine	Undecaprenyl-diphospho-N-acetylmuramoyl-(N-acetylglucosamine)-L-alanyl-gamma-D-glutamyl-L-lysyl-(L-alanyl)-D-alanyl-D-alanine	R08779	white
+zinc D-Ala-D-Ala carboxypeptidase	3.4.17.14	Undecaprenyl-diphospho-N-acetylmuramoyl-(N-acetylglucosamine)-L-alanyl-gamma-D-glutamyl-L-lysyl-D-alanyl-D-alanine	tRNA(Ala)	R08779	white
+zinc D-Ala-D-Ala carboxypeptidase	3.4.17.14	tRNA(Ala)	L-Alanyl-tRNA	R08779	white
+zinc D-Ala-D-Ala carboxypeptidase	3.4.17.14	tRNA(Ala)	Undecaprenyl-diphospho-N-acetylmuramoyl-(N-acetylglucosamine)-L-alanyl-gamma-D-glutamyl-L-lysyl-D-alanyl-D-alanine	R08779	white
+zinc D-Ala-D-Ala dipeptidase	3.4.13.22	(R)-Lactate	ADP	R09588	white
+zinc D-Ala-D-Ala dipeptidase	3.4.13.22	(R)-Lactate	D-Alanyl-(R)-lactate	R09588	white
+zinc D-Ala-D-Ala dipeptidase	3.4.13.22	(R)-Lactate	Orthophosphate	R09588	white
+zinc D-Ala-D-Ala dipeptidase	3.4.13.22	ADP	(R)-Lactate	R09588	white
+zinc D-Ala-D-Ala dipeptidase	3.4.13.22	ADP	ATP	R09588	white
+zinc D-Ala-D-Ala dipeptidase	3.4.13.22	ADP	D-Alanine	R09588	white
+zinc D-Ala-D-Ala dipeptidase	3.4.13.22	ATP	ADP	R09588	white
+zinc D-Ala-D-Ala dipeptidase	3.4.13.22	ATP	D-Alanyl-(R)-lactate	R09588	white
+zinc D-Ala-D-Ala dipeptidase	3.4.13.22	ATP	Orthophosphate	R09588	white
+zinc D-Ala-D-Ala dipeptidase	3.4.13.22	D-Alanine	ADP	R09588	white
+zinc D-Ala-D-Ala dipeptidase	3.4.13.22	D-Alanine	D-Alanyl-(R)-lactate	R09588	white
+zinc D-Ala-D-Ala dipeptidase	3.4.13.22	D-Alanine	Orthophosphate	R09588	white
+zinc D-Ala-D-Ala dipeptidase	3.4.13.22	D-Alanyl-(R)-lactate	(R)-Lactate	R09588	white
+zinc D-Ala-D-Ala dipeptidase	3.4.13.22	D-Alanyl-(R)-lactate	ATP	R09588	white
+zinc D-Ala-D-Ala dipeptidase	3.4.13.22	D-Alanyl-(R)-lactate	D-Alanine	R09588	white
+zinc D-Ala-D-Ala dipeptidase	3.4.13.22	Orthophosphate	(R)-Lactate	R09588	white
+zinc D-Ala-D-Ala dipeptidase	3.4.13.22	Orthophosphate	ATP	R09588	white
+zinc D-Ala-D-Ala dipeptidase	3.4.13.22	Orthophosphate	D-Alanine	R09588	white
+zinc D-Ala-D-Ala dipeptidase/carboxypeptidase	3.4.13.22	L-Alanyl-tRNA	Undecaprenyl-diphospho-N-acetylmuramoyl-(N-acetylglucosamine)-L-alanyl-gamma-D-glutamyl-L-lysyl-(L-alanyl)-D-alanyl-D-alanine	R08779	white
+zinc D-Ala-D-Ala dipeptidase/carboxypeptidase	3.4.13.22	L-Alanyl-tRNA	tRNA(Ala)	R08779	white
+zinc D-Ala-D-Ala dipeptidase/carboxypeptidase	3.4.13.22	Undecaprenyl-diphospho-N-acetylmuramoyl-(N-acetylglucosamine)-L-alanyl-gamma-D-glutamyl-L-lysyl-(L-alanyl)-D-alanyl-D-alanine	L-Alanyl-tRNA	R08779	white
+zinc D-Ala-D-Ala dipeptidase/carboxypeptidase	3.4.13.22	Undecaprenyl-diphospho-N-acetylmuramoyl-(N-acetylglucosamine)-L-alanyl-gamma-D-glutamyl-L-lysyl-(L-alanyl)-D-alanyl-D-alanine	Undecaprenyl-diphospho-N-acetylmuramoyl-(N-acetylglucosamine)-L-alanyl-gamma-D-glutamyl-L-lysyl-D-alanyl-D-alanine	R08779	white
+zinc D-Ala-D-Ala dipeptidase/carboxypeptidase	3.4.13.22	Undecaprenyl-diphospho-N-acetylmuramoyl-(N-acetylglucosamine)-L-alanyl-gamma-D-glutamyl-L-lysyl-D-alanyl-D-alanine	Undecaprenyl-diphospho-N-acetylmuramoyl-(N-acetylglucosamine)-L-alanyl-gamma-D-glutamyl-L-lysyl-(L-alanyl)-D-alanyl-D-alanine	R08779	white
+zinc D-Ala-D-Ala dipeptidase/carboxypeptidase	3.4.13.22	Undecaprenyl-diphospho-N-acetylmuramoyl-(N-acetylglucosamine)-L-alanyl-gamma-D-glutamyl-L-lysyl-D-alanyl-D-alanine	tRNA(Ala)	R08779	white
+zinc D-Ala-D-Ala dipeptidase/carboxypeptidase	3.4.13.22	tRNA(Ala)	L-Alanyl-tRNA	R08779	white
+zinc D-Ala-D-Ala dipeptidase/carboxypeptidase	3.4.13.22	tRNA(Ala)	Undecaprenyl-diphospho-N-acetylmuramoyl-(N-acetylglucosamine)-L-alanyl-gamma-D-glutamyl-L-lysyl-D-alanyl-D-alanine	R08779	white

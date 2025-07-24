@@ -1,841 +1,841 @@
-enzyme_name	EC	source	target	color
-(R)-2-aza-beta-tyrosine adenylation enzyme	6.2.1.-	(R)-2-Aza-beta-tyrosine	(R)-2-Aza-beta-tyrosyl-[pcp]	white
-(R)-2-aza-beta-tyrosine adenylation enzyme	6.2.1.-	(R)-2-Aza-beta-tyrosine	AMP	white
-(R)-2-aza-beta-tyrosine adenylation enzyme	6.2.1.-	(R)-2-Aza-beta-tyrosine	Diphosphate	white
-(R)-2-aza-beta-tyrosine adenylation enzyme	6.2.1.-	(R)-2-Aza-beta-tyrosyl-[pcp]	(R)-2-Aza-beta-tyrosine	white
-(R)-2-aza-beta-tyrosine adenylation enzyme	6.2.1.-	(R)-2-Aza-beta-tyrosyl-[pcp]	ATP	white
-(R)-2-aza-beta-tyrosine adenylation enzyme	6.2.1.-	(R)-2-Aza-beta-tyrosyl-[pcp]	Peptidyl-carrier protein	white
-(R)-2-aza-beta-tyrosine adenylation enzyme	6.2.1.-	AMP	(R)-2-Aza-beta-tyrosine	white
-(R)-2-aza-beta-tyrosine adenylation enzyme	6.2.1.-	AMP	ATP	white
-(R)-2-aza-beta-tyrosine adenylation enzyme	6.2.1.-	AMP	Peptidyl-carrier protein	white
-(R)-2-aza-beta-tyrosine adenylation enzyme	6.2.1.-	ATP	(R)-2-Aza-beta-tyrosyl-[pcp]	white
-(R)-2-aza-beta-tyrosine adenylation enzyme	6.2.1.-	ATP	AMP	white
-(R)-2-aza-beta-tyrosine adenylation enzyme	6.2.1.-	ATP	Diphosphate	white
-(R)-2-aza-beta-tyrosine adenylation enzyme	6.2.1.-	Diphosphate	(R)-2-Aza-beta-tyrosine	white
-(R)-2-aza-beta-tyrosine adenylation enzyme	6.2.1.-	Diphosphate	ATP	white
-(R)-2-aza-beta-tyrosine adenylation enzyme	6.2.1.-	Diphosphate	Peptidyl-carrier protein	white
-(R)-2-aza-beta-tyrosine adenylation enzyme	6.2.1.-	Peptidyl-carrier protein	(R)-2-Aza-beta-tyrosyl-[pcp]	white
-(R)-2-aza-beta-tyrosine adenylation enzyme	6.2.1.-	Peptidyl-carrier protein	AMP	white
-(R)-2-aza-beta-tyrosine adenylation enzyme	6.2.1.-	Peptidyl-carrier protein	Diphosphate	white
-(S)-beta-tyrosine adenylation enzyme	6.2.1.-	(S)-beta-Tyrosine	(S)-beta-Tyrosyl-[pcp]	white
-(S)-beta-tyrosine adenylation enzyme	6.2.1.-	(S)-beta-Tyrosine	AMP	white
-(S)-beta-tyrosine adenylation enzyme	6.2.1.-	(S)-beta-Tyrosine	Diphosphate	white
-(S)-beta-tyrosine adenylation enzyme	6.2.1.-	(S)-beta-Tyrosyl-[pcp]	(S)-beta-Tyrosine	white
-(S)-beta-tyrosine adenylation enzyme	6.2.1.-	(S)-beta-Tyrosyl-[pcp]	ATP	white
-(S)-beta-tyrosine adenylation enzyme	6.2.1.-	(S)-beta-Tyrosyl-[pcp]	Peptidyl-carrier protein	white
-(S)-beta-tyrosine adenylation enzyme	6.2.1.-	AMP	(S)-beta-Tyrosine	white
-(S)-beta-tyrosine adenylation enzyme	6.2.1.-	AMP	ATP	white
-(S)-beta-tyrosine adenylation enzyme	6.2.1.-	AMP	Peptidyl-carrier protein	white
-(S)-beta-tyrosine adenylation enzyme	6.2.1.-	ATP	(S)-beta-Tyrosyl-[pcp]	white
-(S)-beta-tyrosine adenylation enzyme	6.2.1.-	ATP	AMP	white
-(S)-beta-tyrosine adenylation enzyme	6.2.1.-	ATP	Diphosphate	white
-(S)-beta-tyrosine adenylation enzyme	6.2.1.-	Diphosphate	(S)-beta-Tyrosine	white
-(S)-beta-tyrosine adenylation enzyme	6.2.1.-	Diphosphate	ATP	white
-(S)-beta-tyrosine adenylation enzyme	6.2.1.-	Diphosphate	Peptidyl-carrier protein	white
-(S)-beta-tyrosine adenylation enzyme	6.2.1.-	Peptidyl-carrier protein	(S)-beta-Tyrosyl-[pcp]	white
-(S)-beta-tyrosine adenylation enzyme	6.2.1.-	Peptidyl-carrier protein	AMP	white
-(S)-beta-tyrosine adenylation enzyme	6.2.1.-	Peptidyl-carrier protein	Diphosphate	white
-2,7-dihydroxy-5-methyl-1-naphthoate 7-O-methyltransferase	2.1.1.303	2,7-Dihydroxy-5-methyl-1-naphthoate	2-Hydroxy-7-methoxy-5-methyl-1-naphthoate	white
-2,7-dihydroxy-5-methyl-1-naphthoate 7-O-methyltransferase	2.1.1.303	2,7-Dihydroxy-5-methyl-1-naphthoate	S-Adenosyl-L-homocysteine	white
-2,7-dihydroxy-5-methyl-1-naphthoate 7-O-methyltransferase	2.1.1.303	2-Hydroxy-7-methoxy-5-methyl-1-naphthoate	2,7-Dihydroxy-5-methyl-1-naphthoate	white
-2,7-dihydroxy-5-methyl-1-naphthoate 7-O-methyltransferase	2.1.1.303	2-Hydroxy-7-methoxy-5-methyl-1-naphthoate	S-Adenosyl-L-methionine	white
-2,7-dihydroxy-5-methyl-1-naphthoate 7-O-methyltransferase	2.1.1.303	S-Adenosyl-L-homocysteine	2,7-Dihydroxy-5-methyl-1-naphthoate	white
-2,7-dihydroxy-5-methyl-1-naphthoate 7-O-methyltransferase	2.1.1.303	S-Adenosyl-L-homocysteine	S-Adenosyl-L-methionine	white
-2,7-dihydroxy-5-methyl-1-naphthoate 7-O-methyltransferase	2.1.1.303	S-Adenosyl-L-methionine	2-Hydroxy-7-methoxy-5-methyl-1-naphthoate	white
-2,7-dihydroxy-5-methyl-1-naphthoate 7-O-methyltransferase	2.1.1.303	S-Adenosyl-L-methionine	S-Adenosyl-L-homocysteine	white
-2-amino-4-deoxychorismate dehydrogenase	1.3.8.16	2-Amino-2-deoxyisochorismate	3-(1-Carboxyvinyloxy)anthranilate	white
-2-amino-4-deoxychorismate dehydrogenase	1.3.8.16	2-Amino-2-deoxyisochorismate	Reduced FMN	white
-2-amino-4-deoxychorismate dehydrogenase	1.3.8.16	3-(1-Carboxyvinyloxy)anthranilate	2-Amino-2-deoxyisochorismate	white
-2-amino-4-deoxychorismate dehydrogenase	1.3.8.16	3-(1-Carboxyvinyloxy)anthranilate	FMN	white
-2-amino-4-deoxychorismate dehydrogenase	1.3.8.16	FMN	3-(1-Carboxyvinyloxy)anthranilate	white
-2-amino-4-deoxychorismate dehydrogenase	1.3.8.16	FMN	Reduced FMN	white
-2-amino-4-deoxychorismate dehydrogenase	1.3.8.16	Reduced FMN	2-Amino-2-deoxyisochorismate	white
-2-amino-4-deoxychorismate dehydrogenase	1.3.8.16	Reduced FMN	FMN	white
-2-amino-4-deoxychorismate synthase	2.6.1.86	2-Amino-2-deoxyisochorismate	Chorismate	white
-2-amino-4-deoxychorismate synthase	2.6.1.86	2-Amino-2-deoxyisochorismate	L-Glutamine	white
-2-amino-4-deoxychorismate synthase	2.6.1.86	Chorismate	2-Amino-2-deoxyisochorismate	white
-2-amino-4-deoxychorismate synthase	2.6.1.86	Chorismate	L-Glutamate	white
-2-amino-4-deoxychorismate synthase	2.6.1.86	L-Glutamate	Chorismate	white
-2-amino-4-deoxychorismate synthase	2.6.1.86	L-Glutamate	L-Glutamine	white
-2-amino-4-deoxychorismate synthase	2.6.1.86	L-Glutamine	2-Amino-2-deoxyisochorismate	white
-2-amino-4-deoxychorismate synthase	2.6.1.86	L-Glutamine	L-Glutamate	white
-2-amino-4-deoxychorismate synthase, glutamine amidotransferase component	2.6.1.86	2-Amino-2-deoxyisochorismate	Chorismate	white
-2-amino-4-deoxychorismate synthase, glutamine amidotransferase component	2.6.1.86	2-Amino-2-deoxyisochorismate	L-Glutamine	white
-2-amino-4-deoxychorismate synthase, glutamine amidotransferase component	2.6.1.86	Chorismate	2-Amino-2-deoxyisochorismate	white
-2-amino-4-deoxychorismate synthase, glutamine amidotransferase component	2.6.1.86	Chorismate	L-Glutamate	white
-2-amino-4-deoxychorismate synthase, glutamine amidotransferase component	2.6.1.86	L-Glutamate	Chorismate	white
-2-amino-4-deoxychorismate synthase, glutamine amidotransferase component	2.6.1.86	L-Glutamate	L-Glutamine	white
-2-amino-4-deoxychorismate synthase, glutamine amidotransferase component	2.6.1.86	L-Glutamine	2-Amino-2-deoxyisochorismate	white
-2-amino-4-deoxychorismate synthase, glutamine amidotransferase component	2.6.1.86	L-Glutamine	L-Glutamate	white
-2-hydroxy-5-methyl-1-naphthoate 7-hydroxylase	1.14.15.31	2,7-Dihydroxy-5-methyl-1-naphthoate	2-Hydroxy-5-methyl-1-naphthoate	white
-2-hydroxy-5-methyl-1-naphthoate 7-hydroxylase	1.14.15.31	2,7-Dihydroxy-5-methyl-1-naphthoate	H+	white
-2-hydroxy-5-methyl-1-naphthoate 7-hydroxylase	1.14.15.31	2,7-Dihydroxy-5-methyl-1-naphthoate	Oxygen	white
-2-hydroxy-5-methyl-1-naphthoate 7-hydroxylase	1.14.15.31	2,7-Dihydroxy-5-methyl-1-naphthoate	Reduced ferredoxin	white
-2-hydroxy-5-methyl-1-naphthoate 7-hydroxylase	1.14.15.31	2-Hydroxy-5-methyl-1-naphthoate	2,7-Dihydroxy-5-methyl-1-naphthoate	white
-2-hydroxy-5-methyl-1-naphthoate 7-hydroxylase	1.14.15.31	2-Hydroxy-5-methyl-1-naphthoate	H2O	white
-2-hydroxy-5-methyl-1-naphthoate 7-hydroxylase	1.14.15.31	2-Hydroxy-5-methyl-1-naphthoate	Oxidized ferredoxin	white
-2-hydroxy-5-methyl-1-naphthoate 7-hydroxylase	1.14.15.31	H+	2,7-Dihydroxy-5-methyl-1-naphthoate	white
-2-hydroxy-5-methyl-1-naphthoate 7-hydroxylase	1.14.15.31	H+	H2O	white
-2-hydroxy-5-methyl-1-naphthoate 7-hydroxylase	1.14.15.31	H+	Oxidized ferredoxin	white
-2-hydroxy-5-methyl-1-naphthoate 7-hydroxylase	1.14.15.31	H2O	2-Hydroxy-5-methyl-1-naphthoate	white
-2-hydroxy-5-methyl-1-naphthoate 7-hydroxylase	1.14.15.31	H2O	H+	white
-2-hydroxy-5-methyl-1-naphthoate 7-hydroxylase	1.14.15.31	H2O	Oxygen	white
-2-hydroxy-5-methyl-1-naphthoate 7-hydroxylase	1.14.15.31	H2O	Reduced ferredoxin	white
-2-hydroxy-5-methyl-1-naphthoate 7-hydroxylase	1.14.15.31	Oxidized ferredoxin	2-Hydroxy-5-methyl-1-naphthoate	white
-2-hydroxy-5-methyl-1-naphthoate 7-hydroxylase	1.14.15.31	Oxidized ferredoxin	H+	white
-2-hydroxy-5-methyl-1-naphthoate 7-hydroxylase	1.14.15.31	Oxidized ferredoxin	Oxygen	white
-2-hydroxy-5-methyl-1-naphthoate 7-hydroxylase	1.14.15.31	Oxidized ferredoxin	Reduced ferredoxin	white
-2-hydroxy-5-methyl-1-naphthoate 7-hydroxylase	1.14.15.31	Oxygen	2,7-Dihydroxy-5-methyl-1-naphthoate	white
-2-hydroxy-5-methyl-1-naphthoate 7-hydroxylase	1.14.15.31	Oxygen	H2O	white
-2-hydroxy-5-methyl-1-naphthoate 7-hydroxylase	1.14.15.31	Oxygen	Oxidized ferredoxin	white
-2-hydroxy-5-methyl-1-naphthoate 7-hydroxylase	1.14.15.31	Reduced ferredoxin	2,7-Dihydroxy-5-methyl-1-naphthoate	white
-2-hydroxy-5-methyl-1-naphthoate 7-hydroxylase	1.14.15.31	Reduced ferredoxin	H2O	white
-2-hydroxy-5-methyl-1-naphthoate 7-hydroxylase	1.14.15.31	Reduced ferredoxin	Oxidized ferredoxin	white
-2-hydroxy-7-methoxy-5-methyl-1-naphthoate---CoA ligase	6.2.1.43	2-Hydroxy-7-methoxy-5-methyl-1-naphthoate	2-Hydroxy-7-methoxy-5-methyl-1-naphthoyl-CoA	white
-2-hydroxy-7-methoxy-5-methyl-1-naphthoate---CoA ligase	6.2.1.43	2-Hydroxy-7-methoxy-5-methyl-1-naphthoate	AMP	white
-2-hydroxy-7-methoxy-5-methyl-1-naphthoate---CoA ligase	6.2.1.43	2-Hydroxy-7-methoxy-5-methyl-1-naphthoate	Diphosphate	white
-2-hydroxy-7-methoxy-5-methyl-1-naphthoate---CoA ligase	6.2.1.43	2-Hydroxy-7-methoxy-5-methyl-1-naphthoyl-CoA	2-Hydroxy-7-methoxy-5-methyl-1-naphthoate	white
-2-hydroxy-7-methoxy-5-methyl-1-naphthoate---CoA ligase	6.2.1.43	2-Hydroxy-7-methoxy-5-methyl-1-naphthoyl-CoA	ATP	white
-2-hydroxy-7-methoxy-5-methyl-1-naphthoate---CoA ligase	6.2.1.43	2-Hydroxy-7-methoxy-5-methyl-1-naphthoyl-CoA	CoA	white
-2-hydroxy-7-methoxy-5-methyl-1-naphthoate---CoA ligase	6.2.1.43	AMP	2-Hydroxy-7-methoxy-5-methyl-1-naphthoate	white
-2-hydroxy-7-methoxy-5-methyl-1-naphthoate---CoA ligase	6.2.1.43	AMP	ATP	white
-2-hydroxy-7-methoxy-5-methyl-1-naphthoate---CoA ligase	6.2.1.43	AMP	CoA	white
-2-hydroxy-7-methoxy-5-methyl-1-naphthoate---CoA ligase	6.2.1.43	ATP	2-Hydroxy-7-methoxy-5-methyl-1-naphthoyl-CoA	white
-2-hydroxy-7-methoxy-5-methyl-1-naphthoate---CoA ligase	6.2.1.43	ATP	AMP	white
-2-hydroxy-7-methoxy-5-methyl-1-naphthoate---CoA ligase	6.2.1.43	ATP	Diphosphate	white
-2-hydroxy-7-methoxy-5-methyl-1-naphthoate---CoA ligase	6.2.1.43	CoA	2-Hydroxy-7-methoxy-5-methyl-1-naphthoyl-CoA	white
-2-hydroxy-7-methoxy-5-methyl-1-naphthoate---CoA ligase	6.2.1.43	CoA	AMP	white
-2-hydroxy-7-methoxy-5-methyl-1-naphthoate---CoA ligase	6.2.1.43	CoA	Diphosphate	white
-2-hydroxy-7-methoxy-5-methyl-1-naphthoate---CoA ligase	6.2.1.43	Diphosphate	2-Hydroxy-7-methoxy-5-methyl-1-naphthoate	white
-2-hydroxy-7-methoxy-5-methyl-1-naphthoate---CoA ligase	6.2.1.43	Diphosphate	ATP	white
-2-hydroxy-7-methoxy-5-methyl-1-naphthoate---CoA ligase	6.2.1.43	Diphosphate	CoA	white
-3-O-acyltransferase	2.4.1.-	(S)-3-Chloro-4,5-dihydroxy-beta-phenylalanyl-[pcp]	(S)-3-Chloro-beta-tyrosyl-[pcp]	white
-3-O-acyltransferase	2.4.1.-	(S)-3-Chloro-4,5-dihydroxy-beta-phenylalanyl-[pcp]	FADH2	white
-3-O-acyltransferase	2.4.1.-	(S)-3-Chloro-4,5-dihydroxy-beta-phenylalanyl-[pcp]	Oxygen	white
-3-O-acyltransferase	2.4.1.-	(S)-3-Chloro-beta-tyrosyl-[pcp]	(S)-3-Chloro-4,5-dihydroxy-beta-phenylalanyl-[pcp]	white
-3-O-acyltransferase	2.4.1.-	(S)-3-Chloro-beta-tyrosyl-[pcp]	FAD	white
-3-O-acyltransferase	2.4.1.-	(S)-3-Chloro-beta-tyrosyl-[pcp]	H2O	white
-3-O-acyltransferase	2.4.1.-	FAD	(S)-3-Chloro-beta-tyrosyl-[pcp]	white
-3-O-acyltransferase	2.4.1.-	FAD	FADH2	white
-3-O-acyltransferase	2.4.1.-	FAD	Oxygen	white
-3-O-acyltransferase	2.4.1.-	FADH2	(S)-3-Chloro-4,5-dihydroxy-beta-phenylalanyl-[pcp]	white
-3-O-acyltransferase	2.4.1.-	FADH2	FAD	white
-3-O-acyltransferase	2.4.1.-	FADH2	H2O	white
-3-O-acyltransferase	2.4.1.-	H2O	(S)-3-Chloro-beta-tyrosyl-[pcp]	white
-3-O-acyltransferase	2.4.1.-	H2O	FADH2	white
-3-O-acyltransferase	2.4.1.-	H2O	Oxygen	white
-3-O-acyltransferase	2.4.1.-	Oxygen	(S)-3-Chloro-4,5-dihydroxy-beta-phenylalanyl-[pcp]	white
-3-O-acyltransferase	2.4.1.-	Oxygen	FAD	white
-3-O-acyltransferase	2.4.1.-	Oxygen	H2O	white
-6-methylsalicylic acid synthase	2.3.1.165	6-Methylsalicylate	Acetyl-CoA	white
-6-methylsalicylic acid synthase	2.3.1.165	6-Methylsalicylate	H+	white
-6-methylsalicylic acid synthase	2.3.1.165	6-Methylsalicylate	Malonyl-CoA	white
-6-methylsalicylic acid synthase	2.3.1.165	6-Methylsalicylate	NADPH	white
-6-methylsalicylic acid synthase	2.3.1.165	Acetyl-CoA	6-Methylsalicylate	white
-6-methylsalicylic acid synthase	2.3.1.165	Acetyl-CoA	CO2	white
-6-methylsalicylic acid synthase	2.3.1.165	Acetyl-CoA	CoA	white
-6-methylsalicylic acid synthase	2.3.1.165	Acetyl-CoA	H2O	white
-6-methylsalicylic acid synthase	2.3.1.165	Acetyl-CoA	NADP+	white
-6-methylsalicylic acid synthase	2.3.1.165	CO2	Acetyl-CoA	white
-6-methylsalicylic acid synthase	2.3.1.165	CO2	H+	white
-6-methylsalicylic acid synthase	2.3.1.165	CO2	Malonyl-CoA	white
-6-methylsalicylic acid synthase	2.3.1.165	CO2	NADPH	white
-6-methylsalicylic acid synthase	2.3.1.165	CoA	Acetyl-CoA	white
-6-methylsalicylic acid synthase	2.3.1.165	CoA	H+	white
-6-methylsalicylic acid synthase	2.3.1.165	CoA	Malonyl-CoA	white
-6-methylsalicylic acid synthase	2.3.1.165	CoA	NADPH	white
-6-methylsalicylic acid synthase	2.3.1.165	H+	6-Methylsalicylate	white
-6-methylsalicylic acid synthase	2.3.1.165	H+	CO2	white
-6-methylsalicylic acid synthase	2.3.1.165	H+	CoA	white
-6-methylsalicylic acid synthase	2.3.1.165	H+	H2O	white
-6-methylsalicylic acid synthase	2.3.1.165	H+	NADP+	white
-6-methylsalicylic acid synthase	2.3.1.165	H2O	Acetyl-CoA	white
-6-methylsalicylic acid synthase	2.3.1.165	H2O	H+	white
-6-methylsalicylic acid synthase	2.3.1.165	H2O	Malonyl-CoA	white
-6-methylsalicylic acid synthase	2.3.1.165	H2O	NADPH	white
-6-methylsalicylic acid synthase	2.3.1.165	Malonyl-CoA	6-Methylsalicylate	white
-6-methylsalicylic acid synthase	2.3.1.165	Malonyl-CoA	CO2	white
-6-methylsalicylic acid synthase	2.3.1.165	Malonyl-CoA	CoA	white
-6-methylsalicylic acid synthase	2.3.1.165	Malonyl-CoA	H2O	white
-6-methylsalicylic acid synthase	2.3.1.165	Malonyl-CoA	NADP+	white
-6-methylsalicylic acid synthase	2.3.1.165	NADP+	Acetyl-CoA	white
-6-methylsalicylic acid synthase	2.3.1.165	NADP+	H+	white
-6-methylsalicylic acid synthase	2.3.1.165	NADP+	Malonyl-CoA	white
-6-methylsalicylic acid synthase	2.3.1.165	NADP+	NADPH	white
-6-methylsalicylic acid synthase	2.3.1.165	NADPH	6-Methylsalicylate	white
-6-methylsalicylic acid synthase	2.3.1.165	NADPH	CO2	white
-6-methylsalicylic acid synthase	2.3.1.165	NADPH	CoA	white
-6-methylsalicylic acid synthase	2.3.1.165	NADPH	H2O	white
-6-methylsalicylic acid synthase	2.3.1.165	NADPH	NADP+	white
-CoA ligase	6.2.1.-	6-Methylsalicylate	6-Methylsalicylyl-CoA	white
-CoA ligase	6.2.1.-	6-Methylsalicylate	AMP	white
-CoA ligase	6.2.1.-	6-Methylsalicylate	Diphosphate	white
-CoA ligase	6.2.1.-	6-Methylsalicylyl-CoA	6-Methylsalicylate	white
-CoA ligase	6.2.1.-	6-Methylsalicylyl-CoA	ATP	white
-CoA ligase	6.2.1.-	6-Methylsalicylyl-CoA	CoA	white
-CoA ligase	6.2.1.-	AMP	6-Methylsalicylate	white
-CoA ligase	6.2.1.-	AMP	ATP	white
-CoA ligase	6.2.1.-	AMP	CoA	white
-CoA ligase	6.2.1.-	ATP	6-Methylsalicylyl-CoA	white
-CoA ligase	6.2.1.-	ATP	AMP	white
-CoA ligase	6.2.1.-	ATP	Diphosphate	white
-CoA ligase	6.2.1.-	CoA	6-Methylsalicylyl-CoA	white
-CoA ligase	6.2.1.-	CoA	AMP	white
-CoA ligase	6.2.1.-	CoA	Diphosphate	white
-CoA ligase	6.2.1.-	Diphosphate	6-Methylsalicylate	white
-CoA ligase	6.2.1.-	Diphosphate	ATP	white
-CoA ligase	6.2.1.-	Diphosphate	CoA	white
-CoA-ligase	2.1.1.-	3,4-Dihydro-7-methoxy-2-methylene-3-oxo-2H-1,4-benzoxazine-5-carbonyl-CoA	3,4-Dihydro-7-methoxy-2-methylene-3-oxo-2H-1,4-benzoxazine-5-carboxylic acid	white
-CoA-ligase	2.1.1.-	3,4-Dihydro-7-methoxy-2-methylene-3-oxo-2H-1,4-benzoxazine-5-carboxylic acid	3,4-Dihydro-7-methoxy-2-methylene-3-oxo-2H-1,4-benzoxazine-5-carbonyl-CoA	white
-FAD-dependent halogenase	1.14.19.-	(S)-3-Chloro-beta-tyrosyl-[pcp]	(S)-beta-Tyrosyl-[pcp]	white
-FAD-dependent halogenase	1.14.19.-	(S)-3-Chloro-beta-tyrosyl-[pcp]	Cl-	white
-FAD-dependent halogenase	1.14.19.-	(S)-3-Chloro-beta-tyrosyl-[pcp]	FADH2	white
-FAD-dependent halogenase	1.14.19.-	(S)-3-Chloro-beta-tyrosyl-[pcp]	H+	white
-FAD-dependent halogenase	1.14.19.-	(S)-3-Chloro-beta-tyrosyl-[pcp]	Oxygen	white
-FAD-dependent halogenase	1.14.19.-	(S)-beta-Tyrosyl-[pcp]	(S)-3-Chloro-beta-tyrosyl-[pcp]	white
-FAD-dependent halogenase	1.14.19.-	(S)-beta-Tyrosyl-[pcp]	FAD	white
-FAD-dependent halogenase	1.14.19.-	(S)-beta-Tyrosyl-[pcp]	H2O	white
-FAD-dependent halogenase	1.14.19.-	Cl-	(S)-3-Chloro-beta-tyrosyl-[pcp]	white
-FAD-dependent halogenase	1.14.19.-	Cl-	FAD	white
-FAD-dependent halogenase	1.14.19.-	Cl-	H2O	white
-FAD-dependent halogenase	1.14.19.-	FAD	(S)-beta-Tyrosyl-[pcp]	white
-FAD-dependent halogenase	1.14.19.-	FAD	Cl-	white
-FAD-dependent halogenase	1.14.19.-	FAD	FADH2	white
-FAD-dependent halogenase	1.14.19.-	FAD	H+	white
-FAD-dependent halogenase	1.14.19.-	FAD	Oxygen	white
-FAD-dependent halogenase	1.14.19.-	FADH2	(S)-3-Chloro-beta-tyrosyl-[pcp]	white
-FAD-dependent halogenase	1.14.19.-	FADH2	FAD	white
-FAD-dependent halogenase	1.14.19.-	FADH2	H2O	white
-FAD-dependent halogenase	1.14.19.-	H+	(S)-3-Chloro-beta-tyrosyl-[pcp]	white
-FAD-dependent halogenase	1.14.19.-	H+	FAD	white
-FAD-dependent halogenase	1.14.19.-	H+	H2O	white
-FAD-dependent halogenase	1.14.19.-	H2O	(S)-beta-Tyrosyl-[pcp]	white
-FAD-dependent halogenase	1.14.19.-	H2O	Cl-	white
-FAD-dependent halogenase	1.14.19.-	H2O	FADH2	white
-FAD-dependent halogenase	1.14.19.-	H2O	H+	white
-FAD-dependent halogenase	1.14.19.-	H2O	Oxygen	white
-FAD-dependent halogenase	1.14.19.-	Oxygen	(S)-3-Chloro-beta-tyrosyl-[pcp]	white
-FAD-dependent halogenase	1.14.19.-	Oxygen	FAD	white
-FAD-dependent halogenase	1.14.19.-	Oxygen	H2O	white
-MIO-dependent 2-aza-L-tyrosine aminomutase	5.4.3.-	(R)-2-Aza-beta-tyrosine	Azatyrosine	white
-MIO-dependent 2-aza-L-tyrosine aminomutase	5.4.3.-	Azatyrosine	(R)-2-Aza-beta-tyrosine	white
-MIO-dependent L-tyrosine 2,3-aminomutase	5.4.3.6	(S)-beta-Tyrosine	L-Tyrosine	white
-MIO-dependent L-tyrosine 2,3-aminomutase	5.4.3.6	L-Tyrosine	(S)-beta-Tyrosine	white
-N-methyltransferase	2.1.1.-	dTDP-4-amino-4,6-dideoxy-5-C-methyl-D-allose	dTDP-4-dimethylamino-4,6-dideoxy-5-C-methyl-D-allose	white
-N-methyltransferase	2.1.1.-	dTDP-4-dimethylamino-4,6-dideoxy-5-C-methyl-D-allose	dTDP-4-amino-4,6-dideoxy-5-C-methyl-D-allose	white
-NDP-hexose 2,3-dehydratase	6.2.1.43	NDP-2,6-dideoxy-D-glycero-hex-2-enos-4-ulose	NDP-4-oxo-6-deoxy-D-mannose	white
-NDP-hexose 2,3-dehydratase	6.2.1.43	NDP-4-oxo-6-deoxy-D-mannose	NDP-2,6-dideoxy-D-glycero-hex-2-enos-4-ulose	white
-NDP-hexose 4,6-dehydratase	6.2.1.43	NDP-4-oxo-6-deoxy-D-mannose	NDP-D-mannose	white
-NDP-hexose 4,6-dehydratase	6.2.1.43	NDP-D-mannose	NDP-4-oxo-6-deoxy-D-mannose	white
-NDP-hexose 4-ketoreductase	6.2.1.43	NDP-2-amino-2,6-dideoxy-D-galactose	NDP-2-amino-4-oxo-2,6-dideoxy-D-galactose	white
-NDP-hexose 4-ketoreductase	6.2.1.43	NDP-2-amino-4-oxo-2,6-dideoxy-D-galactose	NDP-2-amino-2,6-dideoxy-D-galactose	white
-NDP-mannose synthase	6.2.1.43	D-Mannose 1-phosphate	NDP-D-mannose	white
-NDP-mannose synthase	6.2.1.43	NDP-D-mannose	D-Mannose 1-phosphate	white
-O-methyltransferase	2.1.1.-	3,4-Dihydro-7-hydroxy-2-methylene-3-oxo-2H-1,4-benzoxazine-5-carboxylate	3,4-Dihydro-7-methoxy-2-methylene-3-oxo-2H-1,4-benzoxazine-5-carboxylic acid	white
-O-methyltransferase	2.1.1.-	3,4-Dihydro-7-methoxy-2-methylene-3-oxo-2H-1,4-benzoxazine-5-carboxylic acid	3,4-Dihydro-7-hydroxy-2-methylene-3-oxo-2H-1,4-benzoxazine-5-carboxylate	white
-PLP-dependent transaminase	2.4.1.-	(S)-beta-Tyrosyl-[pcp]	3-(4-Hydroxyphenyl)-3-oxopropanoyl-[pcp]	white
-PLP-dependent transaminase	2.4.1.-	3-(4-Hydroxyphenyl)-3-oxopropanoyl-[pcp]	(S)-beta-Tyrosyl-[pcp]	white
-acetyltransferase/esterase	6.2.1.-	(S)-beta-Tyrosine	(S)-beta-Tyrosyl-[pcp]	white
-acetyltransferase/esterase	6.2.1.-	(S)-beta-Tyrosine	AMP	white
-acetyltransferase/esterase	6.2.1.-	(S)-beta-Tyrosine	Diphosphate	white
-acetyltransferase/esterase	6.2.1.-	(S)-beta-Tyrosyl-[pcp]	(S)-beta-Tyrosine	white
-acetyltransferase/esterase	6.2.1.-	(S)-beta-Tyrosyl-[pcp]	ATP	white
-acetyltransferase/esterase	6.2.1.-	(S)-beta-Tyrosyl-[pcp]	Peptidyl-carrier protein	white
-acetyltransferase/esterase	6.2.1.-	AMP	(S)-beta-Tyrosine	white
-acetyltransferase/esterase	6.2.1.-	AMP	ATP	white
-acetyltransferase/esterase	6.2.1.-	AMP	Peptidyl-carrier protein	white
-acetyltransferase/esterase	6.2.1.-	ATP	(S)-beta-Tyrosyl-[pcp]	white
-acetyltransferase/esterase	6.2.1.-	ATP	AMP	white
-acetyltransferase/esterase	6.2.1.-	ATP	Diphosphate	white
-acetyltransferase/esterase	6.2.1.-	Diphosphate	(S)-beta-Tyrosine	white
-acetyltransferase/esterase	6.2.1.-	Diphosphate	ATP	white
-acetyltransferase/esterase	6.2.1.-	Diphosphate	Peptidyl-carrier protein	white
-acetyltransferase/esterase	6.2.1.-	Peptidyl-carrier protein	(S)-beta-Tyrosyl-[pcp]	white
-acetyltransferase/esterase	6.2.1.-	Peptidyl-carrier protein	AMP	white
-acetyltransferase/esterase	6.2.1.-	Peptidyl-carrier protein	Diphosphate	white
-acyl-CoA N-acyltransferase	2.4.1.-	4-Deoxy-4-thio-alpha-D-digitoxosyl-calicheamicin T0	Calicheamicin T0	white
-acyl-CoA N-acyltransferase	2.4.1.-	4-Deoxy-4-thio-alpha-D-digitoxosyl-calicheamicin T0	dTDP-4-deoxy-4-thio-alpha-D-digitoxose	white
-acyl-CoA N-acyltransferase	2.4.1.-	Calicheamicin T0	4-Deoxy-4-thio-alpha-D-digitoxosyl-calicheamicin T0	white
-acyl-CoA N-acyltransferase	2.4.1.-	Calicheamicin T0	dTDP	white
-acyl-CoA N-acyltransferase	2.4.1.-	dTDP	Calicheamicin T0	white
-acyl-CoA N-acyltransferase	2.4.1.-	dTDP	dTDP-4-deoxy-4-thio-alpha-D-digitoxose	white
-acyl-CoA N-acyltransferase	2.4.1.-	dTDP-4-deoxy-4-thio-alpha-D-digitoxose	4-Deoxy-4-thio-alpha-D-digitoxosyl-calicheamicin T0	white
-acyl-CoA N-acyltransferase	2.4.1.-	dTDP-4-deoxy-4-thio-alpha-D-digitoxose	dTDP	white
-acyl-CoA synthetase	1.14.-.-	3-Hydroxy-7,8-dimethoxy-6-isopropoxy-2-naphthoate	3-Hydroxy-7,8-dimethoxy-6-isopropoxy-2-naphthoyl-CoA	white
-acyl-CoA synthetase	1.14.-.-	3-Hydroxy-7,8-dimethoxy-6-isopropoxy-2-naphthoyl-CoA	3-Hydroxy-7,8-dimethoxy-6-isopropoxy-2-naphthoate	white
-acyl-CoA synthetase	1.14.-.-	3-Hydroxy-7,8-dimethoxy-6-isopropoxy-2-naphthoyl-CoA	CoA	white
-acyl-CoA synthetase	1.14.-.-	CoA	3-Hydroxy-7,8-dimethoxy-6-isopropoxy-2-naphthoyl-CoA	white
-acyltransferase	2.3.1.-	D-GlcA-beta-(1->2)-D-Man-alpha-(1->3)-D-Glc-beta-(1->4)-D-Glc-alpha-1-diphospho-ditrans,octacis-undecaprenol	D-Man-beta-(1->4)-GlcA-beta-(1->2)-D-Man-alpha-(1->3)-D-Glc-beta-(1->4)-D-Glc-alpha-1-diphospho-ditrans,octacis-undecaprenol	white
-acyltransferase	2.3.1.-	D-GlcA-beta-(1->2)-D-Man-alpha-(1->3)-D-Glc-beta-(1->4)-D-Glc-alpha-1-diphospho-ditrans,octacis-undecaprenol	GDP	white
-acyltransferase	2.3.1.-	D-Man-beta-(1->4)-GlcA-beta-(1->2)-D-Man-alpha-(1->3)-D-Glc-beta-(1->4)-D-Glc-alpha-1-diphospho-ditrans,octacis-undecaprenol	D-GlcA-beta-(1->2)-D-Man-alpha-(1->3)-D-Glc-beta-(1->4)-D-Glc-alpha-1-diphospho-ditrans,octacis-undecaprenol	white
-acyltransferase	2.3.1.-	D-Man-beta-(1->4)-GlcA-beta-(1->2)-D-Man-alpha-(1->3)-D-Glc-beta-(1->4)-D-Glc-alpha-1-diphospho-ditrans,octacis-undecaprenol	GDP-mannose	white
-acyltransferase	2.3.1.-	GDP	D-GlcA-beta-(1->2)-D-Man-alpha-(1->3)-D-Glc-beta-(1->4)-D-Glc-alpha-1-diphospho-ditrans,octacis-undecaprenol	white
-acyltransferase	2.3.1.-	GDP	GDP-mannose	white
-acyltransferase	2.3.1.-	GDP-mannose	D-Man-beta-(1->4)-GlcA-beta-(1->2)-D-Man-alpha-(1->3)-D-Glc-beta-(1->4)-D-Glc-alpha-1-diphospho-ditrans,octacis-undecaprenol	white
-acyltransferase	2.3.1.-	GDP-mannose	GDP	white
-aminotransferase	2.6.1.-	2-Oxoglutarate	L-Glutamate	white
-aminotransferase	2.6.1.-	2-Oxoglutarate	N-Acetyl-L-2-amino-6-oxopimelate	white
-aminotransferase	2.6.1.-	L-Glutamate	2-Oxoglutarate	white
-aminotransferase	2.6.1.-	L-Glutamate	N6-Acetyl-LL-2,6-diaminoheptanedioate	white
-aminotransferase	2.6.1.-	N-Acetyl-L-2-amino-6-oxopimelate	2-Oxoglutarate	white
-aminotransferase	2.6.1.-	N-Acetyl-L-2-amino-6-oxopimelate	N6-Acetyl-LL-2,6-diaminoheptanedioate	white
-aminotransferase	2.6.1.-	N6-Acetyl-LL-2,6-diaminoheptanedioate	L-Glutamate	white
-aminotransferase	2.6.1.-	N6-Acetyl-LL-2,6-diaminoheptanedioate	N-Acetyl-L-2-amino-6-oxopimelate	white
-benzoxazolinate moiety biosynthesis protein SgcD5	1.3.8.16	3,4-Dihydro-2-methylene-3-oxo-2H-1,4-benzoxazine-5-carboxylate	3-(1-Carboxyvinyloxy)anthranilate	white
-benzoxazolinate moiety biosynthesis protein SgcD5	1.3.8.16	3-(1-Carboxyvinyloxy)anthranilate	3,4-Dihydro-2-methylene-3-oxo-2H-1,4-benzoxazine-5-carboxylate	white
-calicheamicin 3'-O-methyl-rhamnosyltransferase	2.4.1.-	Calicheamicin alpha1(I)	Calicheamicin gamma(1)I	white
-calicheamicin 3'-O-methyl-rhamnosyltransferase	2.4.1.-	Calicheamicin alpha1(I)	dTDP	white
-calicheamicin 3'-O-methyl-rhamnosyltransferase	2.4.1.-	Calicheamicin gamma(1)I	Calicheamicin alpha1(I)	white
-calicheamicin 3'-O-methyl-rhamnosyltransferase	2.4.1.-	Calicheamicin gamma(1)I	dTDP-3-O-methyl-beta-L-rhamnose	white
-calicheamicin 3'-O-methyl-rhamnosyltransferase	2.4.1.-	dTDP	Calicheamicin alpha1(I)	white
-calicheamicin 3'-O-methyl-rhamnosyltransferase	2.4.1.-	dTDP	dTDP-3-O-methyl-beta-L-rhamnose	white
-calicheamicin 3'-O-methyl-rhamnosyltransferase	2.4.1.-	dTDP-3-O-methyl-beta-L-rhamnose	Calicheamicin gamma(1)I	white
-calicheamicin 3'-O-methyl-rhamnosyltransferase	2.4.1.-	dTDP-3-O-methyl-beta-L-rhamnose	dTDP	white
-calicheamicin 4-deoxy-4-thio-alpha-D-digitoxosyltransferase	2.4.1.-	4-Deoxy-4-thio-alpha-D-digitoxosyl-calicheamicin T0	Calicheamicin T0	white
-calicheamicin 4-deoxy-4-thio-alpha-D-digitoxosyltransferase	2.4.1.-	4-Deoxy-4-thio-alpha-D-digitoxosyl-calicheamicin T0	dTDP-4-deoxy-4-thio-alpha-D-digitoxose	white
-calicheamicin 4-deoxy-4-thio-alpha-D-digitoxosyltransferase	2.4.1.-	Calicheamicin T0	4-Deoxy-4-thio-alpha-D-digitoxosyl-calicheamicin T0	white
-calicheamicin 4-deoxy-4-thio-alpha-D-digitoxosyltransferase	2.4.1.-	Calicheamicin T0	dTDP	white
-calicheamicin 4-deoxy-4-thio-alpha-D-digitoxosyltransferase	2.4.1.-	dTDP	Calicheamicin T0	white
-calicheamicin 4-deoxy-4-thio-alpha-D-digitoxosyltransferase	2.4.1.-	dTDP	dTDP-4-deoxy-4-thio-alpha-D-digitoxose	white
-calicheamicin 4-deoxy-4-thio-alpha-D-digitoxosyltransferase	2.4.1.-	dTDP-4-deoxy-4-thio-alpha-D-digitoxose	4-Deoxy-4-thio-alpha-D-digitoxosyl-calicheamicin T0	white
-calicheamicin 4-deoxy-4-thio-alpha-D-digitoxosyltransferase	2.4.1.-	dTDP-4-deoxy-4-thio-alpha-D-digitoxose	dTDP	white
-calicheamicin aminopentosyltransferase	2.4.2.-	Calicheamicin PsAg	Calicheamicin alpha1(I)	white
-calicheamicin aminopentosyltransferase	2.4.2.-	Calicheamicin PsAg	dTDP	white
-calicheamicin aminopentosyltransferase	2.4.2.-	Calicheamicin alpha1(I)	Calicheamicin PsAg	white
-calicheamicin aminopentosyltransferase	2.4.2.-	Calicheamicin alpha1(I)	dTDP-4-ethylamino-3-O-methyl-2,4-dideoxy-L-threo-pentopyranose	white
-calicheamicin aminopentosyltransferase	2.4.2.-	dTDP	Calicheamicin PsAg	white
-calicheamicin aminopentosyltransferase	2.4.2.-	dTDP	dTDP-4-ethylamino-3-O-methyl-2,4-dideoxy-L-threo-pentopyranose	white
-calicheamicin aminopentosyltransferase	2.4.2.-	dTDP-4-ethylamino-3-O-methyl-2,4-dideoxy-L-threo-pentopyranose	Calicheamicin alpha1(I)	white
-calicheamicin aminopentosyltransferase	2.4.2.-	dTDP-4-ethylamino-3-O-methyl-2,4-dideoxy-L-threo-pentopyranose	dTDP	white
-calicheamicinone 4-hydroxyamino-4,6-dideoxy-alpha-D-glucosyltransferase	2.4.1.-	Calicheamicin T0	Calicheamicinone	white
-calicheamicinone 4-hydroxyamino-4,6-dideoxy-alpha-D-glucosyltransferase	2.4.1.-	Calicheamicin T0	dTDP-4-hydroxyamino-4,6-dideoxy-alpha-D-glucose	white
-calicheamicinone 4-hydroxyamino-4,6-dideoxy-alpha-D-glucosyltransferase	2.4.1.-	Calicheamicinone	Calicheamicin T0	white
-calicheamicinone 4-hydroxyamino-4,6-dideoxy-alpha-D-glucosyltransferase	2.4.1.-	Calicheamicinone	dTDP	white
-calicheamicinone 4-hydroxyamino-4,6-dideoxy-alpha-D-glucosyltransferase	2.4.1.-	dTDP	Calicheamicinone	white
-calicheamicinone 4-hydroxyamino-4,6-dideoxy-alpha-D-glucosyltransferase	2.4.1.-	dTDP	dTDP-4-hydroxyamino-4,6-dideoxy-alpha-D-glucose	white
-calicheamicinone 4-hydroxyamino-4,6-dideoxy-alpha-D-glucosyltransferase	2.4.1.-	dTDP-4-hydroxyamino-4,6-dideoxy-alpha-D-glucose	Calicheamicin T0	white
-calicheamicinone 4-hydroxyamino-4,6-dideoxy-alpha-D-glucosyltransferase	2.4.1.-	dTDP-4-hydroxyamino-4,6-dideoxy-alpha-D-glucose	dTDP	white
-condensation enzyme	2.4.1.-	(S)-3-Chloro-4,5-dihydroxy-beta-phenylalanyl-[pcp]	(S)-3-Chloro-beta-tyrosyl-[pcp]	white
-condensation enzyme	2.4.1.-	(S)-3-Chloro-4,5-dihydroxy-beta-phenylalanyl-[pcp]	FADH2	white
-condensation enzyme	2.4.1.-	(S)-3-Chloro-4,5-dihydroxy-beta-phenylalanyl-[pcp]	Oxygen	white
-condensation enzyme	2.4.1.-	(S)-3-Chloro-beta-tyrosyl-[pcp]	(S)-3-Chloro-4,5-dihydroxy-beta-phenylalanyl-[pcp]	white
-condensation enzyme	2.4.1.-	(S)-3-Chloro-beta-tyrosyl-[pcp]	FAD	white
-condensation enzyme	2.4.1.-	(S)-3-Chloro-beta-tyrosyl-[pcp]	H2O	white
-condensation enzyme	2.4.1.-	FAD	(S)-3-Chloro-beta-tyrosyl-[pcp]	white
-condensation enzyme	2.4.1.-	FAD	FADH2	white
-condensation enzyme	2.4.1.-	FAD	Oxygen	white
-condensation enzyme	2.4.1.-	FADH2	(S)-3-Chloro-4,5-dihydroxy-beta-phenylalanyl-[pcp]	white
-condensation enzyme	2.4.1.-	FADH2	FAD	white
-condensation enzyme	2.4.1.-	FADH2	H2O	white
-condensation enzyme	2.4.1.-	H2O	(S)-3-Chloro-beta-tyrosyl-[pcp]	white
-condensation enzyme	2.4.1.-	H2O	FADH2	white
-condensation enzyme	2.4.1.-	H2O	Oxygen	white
-condensation enzyme	2.4.1.-	Oxygen	(S)-3-Chloro-4,5-dihydroxy-beta-phenylalanyl-[pcp]	white
-condensation enzyme	2.4.1.-	Oxygen	FAD	white
-condensation enzyme	2.4.1.-	Oxygen	H2O	white
-cytochrome P450 hydroxylase	1.14.-.-	3,4-Dihydro-2-methylene-3-oxo-2H-1,4-benzoxazine-5-carboxylate	3,4-Dihydro-7-hydroxy-2-methylene-3-oxo-2H-1,4-benzoxazine-5-carboxylate	white
-cytochrome P450 hydroxylase	1.14.-.-	3,4-Dihydro-7-hydroxy-2-methylene-3-oxo-2H-1,4-benzoxazine-5-carboxylate	3,4-Dihydro-2-methylene-3-oxo-2H-1,4-benzoxazine-5-carboxylate	white
-cytochrome P450 monooxygenase	1.14.-.-	3,6,7,8-Tetrahydroxy-2-naphthoate	3,6,8-Trihydroxy-2-naphthoate	white
-cytochrome P450 monooxygenase	1.14.-.-	3,6,7,8-Tetrahydroxy-2-naphthoate	Oxygen	white
-cytochrome P450 monooxygenase	1.14.-.-	3,6,7,8-Tetrahydroxy-2-naphthoate	Reduced acceptor	white
-cytochrome P450 monooxygenase	1.14.-.-	3,6,8-Trihydroxy-2-naphthoate	3,6,7,8-Tetrahydroxy-2-naphthoate	white
-cytochrome P450 monooxygenase	1.14.-.-	3,6,8-Trihydroxy-2-naphthoate	Acceptor	white
-cytochrome P450 monooxygenase	1.14.-.-	3,6,8-Trihydroxy-2-naphthoate	H2O	white
-cytochrome P450 monooxygenase	1.14.-.-	Acceptor	3,6,8-Trihydroxy-2-naphthoate	white
-cytochrome P450 monooxygenase	1.14.-.-	Acceptor	Oxygen	white
-cytochrome P450 monooxygenase	1.14.-.-	Acceptor	Reduced acceptor	white
-cytochrome P450 monooxygenase	1.14.-.-	H2O	3,6,8-Trihydroxy-2-naphthoate	white
-cytochrome P450 monooxygenase	1.14.-.-	H2O	Oxygen	white
-cytochrome P450 monooxygenase	1.14.-.-	H2O	Reduced acceptor	white
-cytochrome P450 monooxygenase	1.14.-.-	Oxygen	3,6,7,8-Tetrahydroxy-2-naphthoate	white
-cytochrome P450 monooxygenase	1.14.-.-	Oxygen	Acceptor	white
-cytochrome P450 monooxygenase	1.14.-.-	Oxygen	H2O	white
-cytochrome P450 monooxygenase	1.14.-.-	Reduced acceptor	3,6,7,8-Tetrahydroxy-2-naphthoate	white
-cytochrome P450 monooxygenase	1.14.-.-	Reduced acceptor	Acceptor	white
-cytochrome P450 monooxygenase	1.14.-.-	Reduced acceptor	H2O	white
-dehydrogenase	1.14.14.15	(S)-3-Chloro-4,5-dihydroxy-beta-phenylalanyl-[pcp]	(S)-3-Chloro-beta-tyrosyl-[pcp]	white
-dehydrogenase	1.14.14.15	(S)-3-Chloro-4,5-dihydroxy-beta-phenylalanyl-[pcp]	FADH2	white
-dehydrogenase	1.14.14.15	(S)-3-Chloro-4,5-dihydroxy-beta-phenylalanyl-[pcp]	Oxygen	white
-dehydrogenase	1.14.14.15	(S)-3-Chloro-beta-tyrosyl-[pcp]	(S)-3-Chloro-4,5-dihydroxy-beta-phenylalanyl-[pcp]	white
-dehydrogenase	1.14.14.15	(S)-3-Chloro-beta-tyrosyl-[pcp]	FAD	white
-dehydrogenase	1.14.14.15	(S)-3-Chloro-beta-tyrosyl-[pcp]	H2O	white
-dehydrogenase	1.14.14.15	FAD	(S)-3-Chloro-beta-tyrosyl-[pcp]	white
-dehydrogenase	1.14.14.15	FAD	FADH2	white
-dehydrogenase	1.14.14.15	FAD	Oxygen	white
-dehydrogenase	1.14.14.15	FADH2	(S)-3-Chloro-4,5-dihydroxy-beta-phenylalanyl-[pcp]	white
-dehydrogenase	1.14.14.15	FADH2	FAD	white
-dehydrogenase	1.14.14.15	FADH2	H2O	white
-dehydrogenase	1.14.14.15	H2O	(S)-3-Chloro-beta-tyrosyl-[pcp]	white
-dehydrogenase	1.14.14.15	H2O	FADH2	white
-dehydrogenase	1.14.14.15	H2O	Oxygen	white
-dehydrogenase	1.14.14.15	Oxygen	(S)-3-Chloro-4,5-dihydroxy-beta-phenylalanyl-[pcp]	white
-dehydrogenase	1.14.14.15	Oxygen	FAD	white
-dehydrogenase	1.14.14.15	Oxygen	H2O	white
-enediyne biosynthesis protein CalE1	2.4.1.-	(S)-3-Chloro-4,5-dihydroxy-beta-phenylalanyl-[pcp]	(S)-3-Chloro-beta-tyrosyl-[pcp]	white
-enediyne biosynthesis protein CalE1	2.4.1.-	(S)-3-Chloro-4,5-dihydroxy-beta-phenylalanyl-[pcp]	FADH2	white
-enediyne biosynthesis protein CalE1	2.4.1.-	(S)-3-Chloro-4,5-dihydroxy-beta-phenylalanyl-[pcp]	Oxygen	white
-enediyne biosynthesis protein CalE1	2.4.1.-	(S)-3-Chloro-beta-tyrosyl-[pcp]	(S)-3-Chloro-4,5-dihydroxy-beta-phenylalanyl-[pcp]	white
-enediyne biosynthesis protein CalE1	2.4.1.-	(S)-3-Chloro-beta-tyrosyl-[pcp]	FAD	white
-enediyne biosynthesis protein CalE1	2.4.1.-	(S)-3-Chloro-beta-tyrosyl-[pcp]	H2O	white
-enediyne biosynthesis protein CalE1	2.4.1.-	FAD	(S)-3-Chloro-beta-tyrosyl-[pcp]	white
-enediyne biosynthesis protein CalE1	2.4.1.-	FAD	FADH2	white
-enediyne biosynthesis protein CalE1	2.4.1.-	FAD	Oxygen	white
-enediyne biosynthesis protein CalE1	2.4.1.-	FADH2	(S)-3-Chloro-4,5-dihydroxy-beta-phenylalanyl-[pcp]	white
-enediyne biosynthesis protein CalE1	2.4.1.-	FADH2	FAD	white
-enediyne biosynthesis protein CalE1	2.4.1.-	FADH2	H2O	white
-enediyne biosynthesis protein CalE1	2.4.1.-	H2O	(S)-3-Chloro-beta-tyrosyl-[pcp]	white
-enediyne biosynthesis protein CalE1	2.4.1.-	H2O	FADH2	white
-enediyne biosynthesis protein CalE1	2.4.1.-	H2O	Oxygen	white
-enediyne biosynthesis protein CalE1	2.4.1.-	Oxygen	(S)-3-Chloro-4,5-dihydroxy-beta-phenylalanyl-[pcp]	white
-enediyne biosynthesis protein CalE1	2.4.1.-	Oxygen	FAD	white
-enediyne biosynthesis protein CalE1	2.4.1.-	Oxygen	H2O	white
-enediyne biosynthesis protein CalE2	2.4.1.-	(S)-3-Chloro-4,5-dihydroxy-beta-phenylalanyl-[pcp]	(S)-3-Chloro-beta-tyrosyl-[pcp]	white
-enediyne biosynthesis protein CalE2	2.4.1.-	(S)-3-Chloro-4,5-dihydroxy-beta-phenylalanyl-[pcp]	FADH2	white
-enediyne biosynthesis protein CalE2	2.4.1.-	(S)-3-Chloro-4,5-dihydroxy-beta-phenylalanyl-[pcp]	Oxygen	white
-enediyne biosynthesis protein CalE2	2.4.1.-	(S)-3-Chloro-beta-tyrosyl-[pcp]	(S)-3-Chloro-4,5-dihydroxy-beta-phenylalanyl-[pcp]	white
-enediyne biosynthesis protein CalE2	2.4.1.-	(S)-3-Chloro-beta-tyrosyl-[pcp]	FAD	white
-enediyne biosynthesis protein CalE2	2.4.1.-	(S)-3-Chloro-beta-tyrosyl-[pcp]	H2O	white
-enediyne biosynthesis protein CalE2	2.4.1.-	FAD	(S)-3-Chloro-beta-tyrosyl-[pcp]	white
-enediyne biosynthesis protein CalE2	2.4.1.-	FAD	FADH2	white
-enediyne biosynthesis protein CalE2	2.4.1.-	FAD	Oxygen	white
-enediyne biosynthesis protein CalE2	2.4.1.-	FADH2	(S)-3-Chloro-4,5-dihydroxy-beta-phenylalanyl-[pcp]	white
-enediyne biosynthesis protein CalE2	2.4.1.-	FADH2	FAD	white
-enediyne biosynthesis protein CalE2	2.4.1.-	FADH2	H2O	white
-enediyne biosynthesis protein CalE2	2.4.1.-	H2O	(S)-3-Chloro-beta-tyrosyl-[pcp]	white
-enediyne biosynthesis protein CalE2	2.4.1.-	H2O	FADH2	white
-enediyne biosynthesis protein CalE2	2.4.1.-	H2O	Oxygen	white
-enediyne biosynthesis protein CalE2	2.4.1.-	Oxygen	(S)-3-Chloro-4,5-dihydroxy-beta-phenylalanyl-[pcp]	white
-enediyne biosynthesis protein CalE2	2.4.1.-	Oxygen	FAD	white
-enediyne biosynthesis protein CalE2	2.4.1.-	Oxygen	H2O	white
-enediyne biosynthesis protein CalE3	2.4.1.-	(S)-3-Chloro-4,5-dihydroxy-beta-phenylalanyl-[pcp]	(S)-3-Chloro-beta-tyrosyl-[pcp]	white
-enediyne biosynthesis protein CalE3	2.4.1.-	(S)-3-Chloro-4,5-dihydroxy-beta-phenylalanyl-[pcp]	FADH2	white
-enediyne biosynthesis protein CalE3	2.4.1.-	(S)-3-Chloro-4,5-dihydroxy-beta-phenylalanyl-[pcp]	Oxygen	white
-enediyne biosynthesis protein CalE3	2.4.1.-	(S)-3-Chloro-beta-tyrosyl-[pcp]	(S)-3-Chloro-4,5-dihydroxy-beta-phenylalanyl-[pcp]	white
-enediyne biosynthesis protein CalE3	2.4.1.-	(S)-3-Chloro-beta-tyrosyl-[pcp]	FAD	white
-enediyne biosynthesis protein CalE3	2.4.1.-	(S)-3-Chloro-beta-tyrosyl-[pcp]	H2O	white
-enediyne biosynthesis protein CalE3	2.4.1.-	FAD	(S)-3-Chloro-beta-tyrosyl-[pcp]	white
-enediyne biosynthesis protein CalE3	2.4.1.-	FAD	FADH2	white
-enediyne biosynthesis protein CalE3	2.4.1.-	FAD	Oxygen	white
-enediyne biosynthesis protein CalE3	2.4.1.-	FADH2	(S)-3-Chloro-4,5-dihydroxy-beta-phenylalanyl-[pcp]	white
-enediyne biosynthesis protein CalE3	2.4.1.-	FADH2	FAD	white
-enediyne biosynthesis protein CalE3	2.4.1.-	FADH2	H2O	white
-enediyne biosynthesis protein CalE3	2.4.1.-	H2O	(S)-3-Chloro-beta-tyrosyl-[pcp]	white
-enediyne biosynthesis protein CalE3	2.4.1.-	H2O	FADH2	white
-enediyne biosynthesis protein CalE3	2.4.1.-	H2O	Oxygen	white
-enediyne biosynthesis protein CalE3	2.4.1.-	Oxygen	(S)-3-Chloro-4,5-dihydroxy-beta-phenylalanyl-[pcp]	white
-enediyne biosynthesis protein CalE3	2.4.1.-	Oxygen	FAD	white
-enediyne biosynthesis protein CalE3	2.4.1.-	Oxygen	H2O	white
-enediyne biosynthesis protein CalE4	2.4.1.-	(S)-3-Chloro-4,5-dihydroxy-beta-phenylalanyl-[pcp]	(S)-3-Chloro-beta-tyrosyl-[pcp]	white
-enediyne biosynthesis protein CalE4	2.4.1.-	(S)-3-Chloro-4,5-dihydroxy-beta-phenylalanyl-[pcp]	FADH2	white
-enediyne biosynthesis protein CalE4	2.4.1.-	(S)-3-Chloro-4,5-dihydroxy-beta-phenylalanyl-[pcp]	Oxygen	white
-enediyne biosynthesis protein CalE4	2.4.1.-	(S)-3-Chloro-beta-tyrosyl-[pcp]	(S)-3-Chloro-4,5-dihydroxy-beta-phenylalanyl-[pcp]	white
-enediyne biosynthesis protein CalE4	2.4.1.-	(S)-3-Chloro-beta-tyrosyl-[pcp]	FAD	white
-enediyne biosynthesis protein CalE4	2.4.1.-	(S)-3-Chloro-beta-tyrosyl-[pcp]	H2O	white
-enediyne biosynthesis protein CalE4	2.4.1.-	FAD	(S)-3-Chloro-beta-tyrosyl-[pcp]	white
-enediyne biosynthesis protein CalE4	2.4.1.-	FAD	FADH2	white
-enediyne biosynthesis protein CalE4	2.4.1.-	FAD	Oxygen	white
-enediyne biosynthesis protein CalE4	2.4.1.-	FADH2	(S)-3-Chloro-4,5-dihydroxy-beta-phenylalanyl-[pcp]	white
-enediyne biosynthesis protein CalE4	2.4.1.-	FADH2	FAD	white
-enediyne biosynthesis protein CalE4	2.4.1.-	FADH2	H2O	white
-enediyne biosynthesis protein CalE4	2.4.1.-	H2O	(S)-3-Chloro-beta-tyrosyl-[pcp]	white
-enediyne biosynthesis protein CalE4	2.4.1.-	H2O	FADH2	white
-enediyne biosynthesis protein CalE4	2.4.1.-	H2O	Oxygen	white
-enediyne biosynthesis protein CalE4	2.4.1.-	Oxygen	(S)-3-Chloro-4,5-dihydroxy-beta-phenylalanyl-[pcp]	white
-enediyne biosynthesis protein CalE4	2.4.1.-	Oxygen	FAD	white
-enediyne biosynthesis protein CalE4	2.4.1.-	Oxygen	H2O	white
-enediyne biosynthesis protein CalE5	2.4.1.-	(S)-3-Chloro-4,5-dihydroxy-beta-phenylalanyl-[pcp]	(S)-3-Chloro-beta-tyrosyl-[pcp]	white
-enediyne biosynthesis protein CalE5	2.4.1.-	(S)-3-Chloro-4,5-dihydroxy-beta-phenylalanyl-[pcp]	FADH2	white
-enediyne biosynthesis protein CalE5	2.4.1.-	(S)-3-Chloro-4,5-dihydroxy-beta-phenylalanyl-[pcp]	Oxygen	white
-enediyne biosynthesis protein CalE5	2.4.1.-	(S)-3-Chloro-beta-tyrosyl-[pcp]	(S)-3-Chloro-4,5-dihydroxy-beta-phenylalanyl-[pcp]	white
-enediyne biosynthesis protein CalE5	2.4.1.-	(S)-3-Chloro-beta-tyrosyl-[pcp]	FAD	white
-enediyne biosynthesis protein CalE5	2.4.1.-	(S)-3-Chloro-beta-tyrosyl-[pcp]	H2O	white
-enediyne biosynthesis protein CalE5	2.4.1.-	FAD	(S)-3-Chloro-beta-tyrosyl-[pcp]	white
-enediyne biosynthesis protein CalE5	2.4.1.-	FAD	FADH2	white
-enediyne biosynthesis protein CalE5	2.4.1.-	FAD	Oxygen	white
-enediyne biosynthesis protein CalE5	2.4.1.-	FADH2	(S)-3-Chloro-4,5-dihydroxy-beta-phenylalanyl-[pcp]	white
-enediyne biosynthesis protein CalE5	2.4.1.-	FADH2	FAD	white
-enediyne biosynthesis protein CalE5	2.4.1.-	FADH2	H2O	white
-enediyne biosynthesis protein CalE5	2.4.1.-	H2O	(S)-3-Chloro-beta-tyrosyl-[pcp]	white
-enediyne biosynthesis protein CalE5	2.4.1.-	H2O	FADH2	white
-enediyne biosynthesis protein CalE5	2.4.1.-	H2O	Oxygen	white
-enediyne biosynthesis protein CalE5	2.4.1.-	Oxygen	(S)-3-Chloro-4,5-dihydroxy-beta-phenylalanyl-[pcp]	white
-enediyne biosynthesis protein CalE5	2.4.1.-	Oxygen	FAD	white
-enediyne biosynthesis protein CalE5	2.4.1.-	Oxygen	H2O	white
-enediyne biosynthesis protein CalE9	2.4.1.-	(S)-3-Chloro-4,5-dihydroxy-beta-phenylalanyl-[pcp]	(S)-3-Chloro-beta-tyrosyl-[pcp]	white
-enediyne biosynthesis protein CalE9	2.4.1.-	(S)-3-Chloro-4,5-dihydroxy-beta-phenylalanyl-[pcp]	FADH2	white
-enediyne biosynthesis protein CalE9	2.4.1.-	(S)-3-Chloro-4,5-dihydroxy-beta-phenylalanyl-[pcp]	Oxygen	white
-enediyne biosynthesis protein CalE9	2.4.1.-	(S)-3-Chloro-beta-tyrosyl-[pcp]	(S)-3-Chloro-4,5-dihydroxy-beta-phenylalanyl-[pcp]	white
-enediyne biosynthesis protein CalE9	2.4.1.-	(S)-3-Chloro-beta-tyrosyl-[pcp]	FAD	white
-enediyne biosynthesis protein CalE9	2.4.1.-	(S)-3-Chloro-beta-tyrosyl-[pcp]	H2O	white
-enediyne biosynthesis protein CalE9	2.4.1.-	FAD	(S)-3-Chloro-beta-tyrosyl-[pcp]	white
-enediyne biosynthesis protein CalE9	2.4.1.-	FAD	FADH2	white
-enediyne biosynthesis protein CalE9	2.4.1.-	FAD	Oxygen	white
-enediyne biosynthesis protein CalE9	2.4.1.-	FADH2	(S)-3-Chloro-4,5-dihydroxy-beta-phenylalanyl-[pcp]	white
-enediyne biosynthesis protein CalE9	2.4.1.-	FADH2	FAD	white
-enediyne biosynthesis protein CalE9	2.4.1.-	FADH2	H2O	white
-enediyne biosynthesis protein CalE9	2.4.1.-	H2O	(S)-3-Chloro-beta-tyrosyl-[pcp]	white
-enediyne biosynthesis protein CalE9	2.4.1.-	H2O	FADH2	white
-enediyne biosynthesis protein CalE9	2.4.1.-	H2O	Oxygen	white
-enediyne biosynthesis protein CalE9	2.4.1.-	Oxygen	(S)-3-Chloro-4,5-dihydroxy-beta-phenylalanyl-[pcp]	white
-enediyne biosynthesis protein CalE9	2.4.1.-	Oxygen	FAD	white
-enediyne biosynthesis protein CalE9	2.4.1.-	Oxygen	H2O	white
-enediyne biosynthesis protein E11	6.2.1.-	6-Methylsalicylate	6-Methylsalicylyl-CoA	white
-enediyne biosynthesis protein E11	6.2.1.-	6-Methylsalicylate	AMP	white
-enediyne biosynthesis protein E11	6.2.1.-	6-Methylsalicylate	Diphosphate	white
-enediyne biosynthesis protein E11	6.2.1.-	6-Methylsalicylyl-CoA	6-Methylsalicylate	white
-enediyne biosynthesis protein E11	6.2.1.-	6-Methylsalicylyl-CoA	ATP	white
-enediyne biosynthesis protein E11	6.2.1.-	6-Methylsalicylyl-CoA	CoA	white
-enediyne biosynthesis protein E11	6.2.1.-	AMP	6-Methylsalicylate	white
-enediyne biosynthesis protein E11	6.2.1.-	AMP	ATP	white
-enediyne biosynthesis protein E11	6.2.1.-	AMP	CoA	white
-enediyne biosynthesis protein E11	6.2.1.-	ATP	6-Methylsalicylyl-CoA	white
-enediyne biosynthesis protein E11	6.2.1.-	ATP	AMP	white
-enediyne biosynthesis protein E11	6.2.1.-	ATP	Diphosphate	white
-enediyne biosynthesis protein E11	6.2.1.-	CoA	6-Methylsalicylyl-CoA	white
-enediyne biosynthesis protein E11	6.2.1.-	CoA	AMP	white
-enediyne biosynthesis protein E11	6.2.1.-	CoA	Diphosphate	white
-enediyne biosynthesis protein E11	6.2.1.-	Diphosphate	6-Methylsalicylate	white
-enediyne biosynthesis protein E11	6.2.1.-	Diphosphate	ATP	white
-enediyne biosynthesis protein E11	6.2.1.-	Diphosphate	CoA	white
-enediyne biosynthesis protein E2	6.2.1.-	6-Methylsalicylate	6-Methylsalicylyl-CoA	white
-enediyne biosynthesis protein E2	6.2.1.-	6-Methylsalicylate	AMP	white
-enediyne biosynthesis protein E2	6.2.1.-	6-Methylsalicylate	Diphosphate	white
-enediyne biosynthesis protein E2	6.2.1.-	6-Methylsalicylyl-CoA	6-Methylsalicylate	white
-enediyne biosynthesis protein E2	6.2.1.-	6-Methylsalicylyl-CoA	ATP	white
-enediyne biosynthesis protein E2	6.2.1.-	6-Methylsalicylyl-CoA	CoA	white
-enediyne biosynthesis protein E2	6.2.1.-	AMP	6-Methylsalicylate	white
-enediyne biosynthesis protein E2	6.2.1.-	AMP	ATP	white
-enediyne biosynthesis protein E2	6.2.1.-	AMP	CoA	white
-enediyne biosynthesis protein E2	6.2.1.-	ATP	6-Methylsalicylyl-CoA	white
-enediyne biosynthesis protein E2	6.2.1.-	ATP	AMP	white
-enediyne biosynthesis protein E2	6.2.1.-	ATP	Diphosphate	white
-enediyne biosynthesis protein E2	6.2.1.-	CoA	6-Methylsalicylyl-CoA	white
-enediyne biosynthesis protein E2	6.2.1.-	CoA	AMP	white
-enediyne biosynthesis protein E2	6.2.1.-	CoA	Diphosphate	white
-enediyne biosynthesis protein E2	6.2.1.-	Diphosphate	6-Methylsalicylate	white
-enediyne biosynthesis protein E2	6.2.1.-	Diphosphate	ATP	white
-enediyne biosynthesis protein E2	6.2.1.-	Diphosphate	CoA	white
-enediyne biosynthesis protein E3	6.2.1.-	6-Methylsalicylate	6-Methylsalicylyl-CoA	white
-enediyne biosynthesis protein E3	6.2.1.-	6-Methylsalicylate	AMP	white
-enediyne biosynthesis protein E3	6.2.1.-	6-Methylsalicylate	Diphosphate	white
-enediyne biosynthesis protein E3	6.2.1.-	6-Methylsalicylyl-CoA	6-Methylsalicylate	white
-enediyne biosynthesis protein E3	6.2.1.-	6-Methylsalicylyl-CoA	ATP	white
-enediyne biosynthesis protein E3	6.2.1.-	6-Methylsalicylyl-CoA	CoA	white
-enediyne biosynthesis protein E3	6.2.1.-	AMP	6-Methylsalicylate	white
-enediyne biosynthesis protein E3	6.2.1.-	AMP	ATP	white
-enediyne biosynthesis protein E3	6.2.1.-	AMP	CoA	white
-enediyne biosynthesis protein E3	6.2.1.-	ATP	6-Methylsalicylyl-CoA	white
-enediyne biosynthesis protein E3	6.2.1.-	ATP	AMP	white
-enediyne biosynthesis protein E3	6.2.1.-	ATP	Diphosphate	white
-enediyne biosynthesis protein E3	6.2.1.-	CoA	6-Methylsalicylyl-CoA	white
-enediyne biosynthesis protein E3	6.2.1.-	CoA	AMP	white
-enediyne biosynthesis protein E3	6.2.1.-	CoA	Diphosphate	white
-enediyne biosynthesis protein E3	6.2.1.-	Diphosphate	6-Methylsalicylate	white
-enediyne biosynthesis protein E3	6.2.1.-	Diphosphate	ATP	white
-enediyne biosynthesis protein E3	6.2.1.-	Diphosphate	CoA	white
-enediyne biosynthesis protein E4	6.2.1.-	6-Methylsalicylate	6-Methylsalicylyl-CoA	white
-enediyne biosynthesis protein E4	6.2.1.-	6-Methylsalicylate	AMP	white
-enediyne biosynthesis protein E4	6.2.1.-	6-Methylsalicylate	Diphosphate	white
-enediyne biosynthesis protein E4	6.2.1.-	6-Methylsalicylyl-CoA	6-Methylsalicylate	white
-enediyne biosynthesis protein E4	6.2.1.-	6-Methylsalicylyl-CoA	ATP	white
-enediyne biosynthesis protein E4	6.2.1.-	6-Methylsalicylyl-CoA	CoA	white
-enediyne biosynthesis protein E4	6.2.1.-	AMP	6-Methylsalicylate	white
-enediyne biosynthesis protein E4	6.2.1.-	AMP	ATP	white
-enediyne biosynthesis protein E4	6.2.1.-	AMP	CoA	white
-enediyne biosynthesis protein E4	6.2.1.-	ATP	6-Methylsalicylyl-CoA	white
-enediyne biosynthesis protein E4	6.2.1.-	ATP	AMP	white
-enediyne biosynthesis protein E4	6.2.1.-	ATP	Diphosphate	white
-enediyne biosynthesis protein E4	6.2.1.-	CoA	6-Methylsalicylyl-CoA	white
-enediyne biosynthesis protein E4	6.2.1.-	CoA	AMP	white
-enediyne biosynthesis protein E4	6.2.1.-	CoA	Diphosphate	white
-enediyne biosynthesis protein E4	6.2.1.-	Diphosphate	6-Methylsalicylate	white
-enediyne biosynthesis protein E4	6.2.1.-	Diphosphate	ATP	white
-enediyne biosynthesis protein E4	6.2.1.-	Diphosphate	CoA	white
-enediyne biosynthesis protein E5	6.2.1.-	6-Methylsalicylate	6-Methylsalicylyl-CoA	white
-enediyne biosynthesis protein E5	6.2.1.-	6-Methylsalicylate	AMP	white
-enediyne biosynthesis protein E5	6.2.1.-	6-Methylsalicylate	Diphosphate	white
-enediyne biosynthesis protein E5	6.2.1.-	6-Methylsalicylyl-CoA	6-Methylsalicylate	white
-enediyne biosynthesis protein E5	6.2.1.-	6-Methylsalicylyl-CoA	ATP	white
-enediyne biosynthesis protein E5	6.2.1.-	6-Methylsalicylyl-CoA	CoA	white
-enediyne biosynthesis protein E5	6.2.1.-	AMP	6-Methylsalicylate	white
-enediyne biosynthesis protein E5	6.2.1.-	AMP	ATP	white
-enediyne biosynthesis protein E5	6.2.1.-	AMP	CoA	white
-enediyne biosynthesis protein E5	6.2.1.-	ATP	6-Methylsalicylyl-CoA	white
-enediyne biosynthesis protein E5	6.2.1.-	ATP	AMP	white
-enediyne biosynthesis protein E5	6.2.1.-	ATP	Diphosphate	white
-enediyne biosynthesis protein E5	6.2.1.-	CoA	6-Methylsalicylyl-CoA	white
-enediyne biosynthesis protein E5	6.2.1.-	CoA	AMP	white
-enediyne biosynthesis protein E5	6.2.1.-	CoA	Diphosphate	white
-enediyne biosynthesis protein E5	6.2.1.-	Diphosphate	6-Methylsalicylate	white
-enediyne biosynthesis protein E5	6.2.1.-	Diphosphate	ATP	white
-enediyne biosynthesis protein E5	6.2.1.-	Diphosphate	CoA	white
-enediyne biosynthesis protein E7	6.2.1.-	6-Methylsalicylate	6-Methylsalicylyl-CoA	white
-enediyne biosynthesis protein E7	6.2.1.-	6-Methylsalicylate	AMP	white
-enediyne biosynthesis protein E7	6.2.1.-	6-Methylsalicylate	Diphosphate	white
-enediyne biosynthesis protein E7	6.2.1.-	6-Methylsalicylyl-CoA	6-Methylsalicylate	white
-enediyne biosynthesis protein E7	6.2.1.-	6-Methylsalicylyl-CoA	ATP	white
-enediyne biosynthesis protein E7	6.2.1.-	6-Methylsalicylyl-CoA	CoA	white
-enediyne biosynthesis protein E7	6.2.1.-	AMP	6-Methylsalicylate	white
-enediyne biosynthesis protein E7	6.2.1.-	AMP	ATP	white
-enediyne biosynthesis protein E7	6.2.1.-	AMP	CoA	white
-enediyne biosynthesis protein E7	6.2.1.-	ATP	6-Methylsalicylyl-CoA	white
-enediyne biosynthesis protein E7	6.2.1.-	ATP	AMP	white
-enediyne biosynthesis protein E7	6.2.1.-	ATP	Diphosphate	white
-enediyne biosynthesis protein E7	6.2.1.-	CoA	6-Methylsalicylyl-CoA	white
-enediyne biosynthesis protein E7	6.2.1.-	CoA	AMP	white
-enediyne biosynthesis protein E7	6.2.1.-	CoA	Diphosphate	white
-enediyne biosynthesis protein E7	6.2.1.-	Diphosphate	6-Methylsalicylate	white
-enediyne biosynthesis protein E7	6.2.1.-	Diphosphate	ATP	white
-enediyne biosynthesis protein E7	6.2.1.-	Diphosphate	CoA	white
-enediyne biosynthesis protein E8	6.2.1.-	6-Methylsalicylate	6-Methylsalicylyl-CoA	white
-enediyne biosynthesis protein E8	6.2.1.-	6-Methylsalicylate	AMP	white
-enediyne biosynthesis protein E8	6.2.1.-	6-Methylsalicylate	Diphosphate	white
-enediyne biosynthesis protein E8	6.2.1.-	6-Methylsalicylyl-CoA	6-Methylsalicylate	white
-enediyne biosynthesis protein E8	6.2.1.-	6-Methylsalicylyl-CoA	ATP	white
-enediyne biosynthesis protein E8	6.2.1.-	6-Methylsalicylyl-CoA	CoA	white
-enediyne biosynthesis protein E8	6.2.1.-	AMP	6-Methylsalicylate	white
-enediyne biosynthesis protein E8	6.2.1.-	AMP	ATP	white
-enediyne biosynthesis protein E8	6.2.1.-	AMP	CoA	white
-enediyne biosynthesis protein E8	6.2.1.-	ATP	6-Methylsalicylyl-CoA	white
-enediyne biosynthesis protein E8	6.2.1.-	ATP	AMP	white
-enediyne biosynthesis protein E8	6.2.1.-	ATP	Diphosphate	white
-enediyne biosynthesis protein E8	6.2.1.-	CoA	6-Methylsalicylyl-CoA	white
-enediyne biosynthesis protein E8	6.2.1.-	CoA	AMP	white
-enediyne biosynthesis protein E8	6.2.1.-	CoA	Diphosphate	white
-enediyne biosynthesis protein E8	6.2.1.-	Diphosphate	6-Methylsalicylate	white
-enediyne biosynthesis protein E8	6.2.1.-	Diphosphate	ATP	white
-enediyne biosynthesis protein E8	6.2.1.-	Diphosphate	CoA	white
-enediyne biosynthesis protein E9	6.2.1.-	6-Methylsalicylate	6-Methylsalicylyl-CoA	white
-enediyne biosynthesis protein E9	6.2.1.-	6-Methylsalicylate	AMP	white
-enediyne biosynthesis protein E9	6.2.1.-	6-Methylsalicylate	Diphosphate	white
-enediyne biosynthesis protein E9	6.2.1.-	6-Methylsalicylyl-CoA	6-Methylsalicylate	white
-enediyne biosynthesis protein E9	6.2.1.-	6-Methylsalicylyl-CoA	ATP	white
-enediyne biosynthesis protein E9	6.2.1.-	6-Methylsalicylyl-CoA	CoA	white
-enediyne biosynthesis protein E9	6.2.1.-	AMP	6-Methylsalicylate	white
-enediyne biosynthesis protein E9	6.2.1.-	AMP	ATP	white
-enediyne biosynthesis protein E9	6.2.1.-	AMP	CoA	white
-enediyne biosynthesis protein E9	6.2.1.-	ATP	6-Methylsalicylyl-CoA	white
-enediyne biosynthesis protein E9	6.2.1.-	ATP	AMP	white
-enediyne biosynthesis protein E9	6.2.1.-	ATP	Diphosphate	white
-enediyne biosynthesis protein E9	6.2.1.-	CoA	6-Methylsalicylyl-CoA	white
-enediyne biosynthesis protein E9	6.2.1.-	CoA	AMP	white
-enediyne biosynthesis protein E9	6.2.1.-	CoA	Diphosphate	white
-enediyne biosynthesis protein E9	6.2.1.-	Diphosphate	6-Methylsalicylate	white
-enediyne biosynthesis protein E9	6.2.1.-	Diphosphate	ATP	white
-enediyne biosynthesis protein E9	6.2.1.-	Diphosphate	CoA	white
-enediyne core biosynthesis thioesterase	2.4.1.-	1,3,5,7,9,11,13-Pentadecaheptaene	3-Hydroxyhexadeca-4,6,8,10,12,14-hexaenoyl-[acp]	white
-enediyne core biosynthesis thioesterase	2.4.1.-	3-Hydroxyhexadeca-4,6,8,10,12,14-hexaenoyl-[acp]	1,3,5,7,9,11,13-Pentadecaheptaene	white
-enediyne core biosynthesis thioesterase	2.4.1.-	3-Hydroxyhexadeca-4,6,8,10,12,14-hexaenoyl-[acp]	Acyl-carrier protein	white
-enediyne core biosynthesis thioesterase	2.4.1.-	3-Hydroxyhexadeca-4,6,8,10,12,14-hexaenoyl-[acp]	CO2	white
-enediyne core biosynthesis thioesterase	2.4.1.-	Acyl-carrier protein	3-Hydroxyhexadeca-4,6,8,10,12,14-hexaenoyl-[acp]	white
-enediyne core biosynthesis thioesterase	2.4.1.-	CO2	3-Hydroxyhexadeca-4,6,8,10,12,14-hexaenoyl-[acp]	white
-enediyne polyketide synthase	2.1.1.-	3-Hydroxyhexadeca-4,6,8,10,12,14-hexaenoyl-[acp]	Acyl-carrier protein	white
-enediyne polyketide synthase	2.1.1.-	3-Hydroxyhexadeca-4,6,8,10,12,14-hexaenoyl-[acp]	H+	white
-enediyne polyketide synthase	2.1.1.-	3-Hydroxyhexadeca-4,6,8,10,12,14-hexaenoyl-[acp]	Malonyl-CoA	white
-enediyne polyketide synthase	2.1.1.-	3-Hydroxyhexadeca-4,6,8,10,12,14-hexaenoyl-[acp]	NADPH	white
-enediyne polyketide synthase	2.1.1.-	Acyl-carrier protein	3-Hydroxyhexadeca-4,6,8,10,12,14-hexaenoyl-[acp]	white
-enediyne polyketide synthase	2.1.1.-	Acyl-carrier protein	CO2	white
-enediyne polyketide synthase	2.1.1.-	Acyl-carrier protein	CoA	white
-enediyne polyketide synthase	2.1.1.-	Acyl-carrier protein	H2O	white
-enediyne polyketide synthase	2.1.1.-	Acyl-carrier protein	NADP+	white
-enediyne polyketide synthase	2.1.1.-	CO2	Acyl-carrier protein	white
-enediyne polyketide synthase	2.1.1.-	CO2	H+	white
-enediyne polyketide synthase	2.1.1.-	CO2	Malonyl-CoA	white
-enediyne polyketide synthase	2.1.1.-	CO2	NADPH	white
-enediyne polyketide synthase	2.1.1.-	CoA	Acyl-carrier protein	white
-enediyne polyketide synthase	2.1.1.-	CoA	H+	white
-enediyne polyketide synthase	2.1.1.-	CoA	Malonyl-CoA	white
-enediyne polyketide synthase	2.1.1.-	CoA	NADPH	white
-enediyne polyketide synthase	2.1.1.-	H+	3-Hydroxyhexadeca-4,6,8,10,12,14-hexaenoyl-[acp]	white
-enediyne polyketide synthase	2.1.1.-	H+	CO2	white
-enediyne polyketide synthase	2.1.1.-	H+	CoA	white
-enediyne polyketide synthase	2.1.1.-	H+	H2O	white
-enediyne polyketide synthase	2.1.1.-	H+	NADP+	white
-enediyne polyketide synthase	2.1.1.-	H2O	Acyl-carrier protein	white
-enediyne polyketide synthase	2.1.1.-	H2O	H+	white
-enediyne polyketide synthase	2.1.1.-	H2O	Malonyl-CoA	white
-enediyne polyketide synthase	2.1.1.-	H2O	NADPH	white
-enediyne polyketide synthase	2.1.1.-	Malonyl-CoA	3-Hydroxyhexadeca-4,6,8,10,12,14-hexaenoyl-[acp]	white
-enediyne polyketide synthase	2.1.1.-	Malonyl-CoA	CO2	white
-enediyne polyketide synthase	2.1.1.-	Malonyl-CoA	CoA	white
-enediyne polyketide synthase	2.1.1.-	Malonyl-CoA	H2O	white
-enediyne polyketide synthase	2.1.1.-	Malonyl-CoA	NADP+	white
-enediyne polyketide synthase	2.1.1.-	NADP+	Acyl-carrier protein	white
-enediyne polyketide synthase	2.1.1.-	NADP+	H+	white
-enediyne polyketide synthase	2.1.1.-	NADP+	Malonyl-CoA	white
-enediyne polyketide synthase	2.1.1.-	NADP+	NADPH	white
-enediyne polyketide synthase	2.1.1.-	NADPH	3-Hydroxyhexadeca-4,6,8,10,12,14-hexaenoyl-[acp]	white
-enediyne polyketide synthase	2.1.1.-	NADPH	CO2	white
-enediyne polyketide synthase	2.1.1.-	NADPH	CoA	white
-enediyne polyketide synthase	2.1.1.-	NADPH	H2O	white
-enediyne polyketide synthase	2.1.1.-	NADPH	NADP+	white
-flavin reductase	1.5.1.-	(Z)-3-Ureidoacrylate peracid	Oxygen	white
-flavin reductase	1.5.1.-	(Z)-3-Ureidoacrylate peracid	Reduced FMN	white
-flavin reductase	1.5.1.-	(Z)-3-Ureidoacrylate peracid	Uracil	white
-flavin reductase	1.5.1.-	FMN	Oxygen	white
-flavin reductase	1.5.1.-	FMN	Reduced FMN	white
-flavin reductase	1.5.1.-	FMN	Uracil	white
-flavin reductase	1.5.1.-	Oxygen	(Z)-3-Ureidoacrylate peracid	white
-flavin reductase	1.5.1.-	Oxygen	FMN	white
-flavin reductase	1.5.1.-	Reduced FMN	(Z)-3-Ureidoacrylate peracid	white
-flavin reductase	1.5.1.-	Reduced FMN	FMN	white
-flavin reductase	1.5.1.-	Uracil	(Z)-3-Ureidoacrylate peracid	white
-flavin reductase	1.5.1.-	Uracil	FMN	white
-flavin-dependent halogenase	2.1.1.-	2-Methoxyorsellinate-[acp]	5-Iodo-2-methoxyorsellinate-[acp]	white
-flavin-dependent halogenase	2.1.1.-	5-Iodo-2-methoxyorsellinate-[acp]	2-Methoxyorsellinate-[acp]	white
-flavin-dependent halogenase	2.1.1.-	5-Iodo-2-methoxyorsellinate-[acp]	Iodide	white
-flavin-dependent halogenase	2.1.1.-	Iodide	5-Iodo-2-methoxyorsellinate-[acp]	white
-glycosyltransferase	2.4.1.-	(S)-3-Chloro-4,5-dihydroxy-beta-phenylalanyl-[pcp]	(S)-3-Chloro-beta-tyrosyl-[pcp]	white
-glycosyltransferase	2.4.1.-	(S)-3-Chloro-4,5-dihydroxy-beta-phenylalanyl-[pcp]	FADH2	white
-glycosyltransferase	2.4.1.-	(S)-3-Chloro-4,5-dihydroxy-beta-phenylalanyl-[pcp]	Oxygen	white
-glycosyltransferase	2.4.1.-	(S)-3-Chloro-beta-tyrosyl-[pcp]	(S)-3-Chloro-4,5-dihydroxy-beta-phenylalanyl-[pcp]	white
-glycosyltransferase	2.4.1.-	(S)-3-Chloro-beta-tyrosyl-[pcp]	FAD	white
-glycosyltransferase	2.4.1.-	(S)-3-Chloro-beta-tyrosyl-[pcp]	H2O	white
-glycosyltransferase	2.4.1.-	FAD	(S)-3-Chloro-beta-tyrosyl-[pcp]	white
-glycosyltransferase	2.4.1.-	FAD	FADH2	white
-glycosyltransferase	2.4.1.-	FAD	Oxygen	white
-glycosyltransferase	2.4.1.-	FADH2	(S)-3-Chloro-4,5-dihydroxy-beta-phenylalanyl-[pcp]	white
-glycosyltransferase	2.4.1.-	FADH2	FAD	white
-glycosyltransferase	2.4.1.-	FADH2	H2O	white
-glycosyltransferase	2.4.1.-	H2O	(S)-3-Chloro-beta-tyrosyl-[pcp]	white
-glycosyltransferase	2.4.1.-	H2O	FADH2	white
-glycosyltransferase	2.4.1.-	H2O	Oxygen	white
-glycosyltransferase	2.4.1.-	Oxygen	(S)-3-Chloro-4,5-dihydroxy-beta-phenylalanyl-[pcp]	white
-glycosyltransferase	2.4.1.-	Oxygen	FAD	white
-glycosyltransferase	2.4.1.-	Oxygen	H2O	white
-iterative type I polyketide synthase KedU38	2.4.1.-	4-Deoxy-4-thio-alpha-D-digitoxosyl-calicheamicin T0	Calicheamicin T0	white
-iterative type I polyketide synthase KedU38	2.4.1.-	4-Deoxy-4-thio-alpha-D-digitoxosyl-calicheamicin T0	dTDP-4-deoxy-4-thio-alpha-D-digitoxose	white
-iterative type I polyketide synthase KedU38	2.4.1.-	Calicheamicin T0	4-Deoxy-4-thio-alpha-D-digitoxosyl-calicheamicin T0	white
-iterative type I polyketide synthase KedU38	2.4.1.-	Calicheamicin T0	dTDP	white
-iterative type I polyketide synthase KedU38	2.4.1.-	dTDP	Calicheamicin T0	white
-iterative type I polyketide synthase KedU38	2.4.1.-	dTDP	dTDP-4-deoxy-4-thio-alpha-D-digitoxose	white
-iterative type I polyketide synthase KedU38	2.4.1.-	dTDP-4-deoxy-4-thio-alpha-D-digitoxose	4-Deoxy-4-thio-alpha-D-digitoxosyl-calicheamicin T0	white
-iterative type I polyketide synthase KedU38	2.4.1.-	dTDP-4-deoxy-4-thio-alpha-D-digitoxose	dTDP	white
-methionine gamma-lyase	2.4.1.-	(S)-3-Chloro-4,5-dihydroxy-beta-phenylalanyl-[pcp]	(S)-3-Chloro-beta-tyrosyl-[pcp]	white
-methionine gamma-lyase	2.4.1.-	(S)-3-Chloro-4,5-dihydroxy-beta-phenylalanyl-[pcp]	FADH2	white
-methionine gamma-lyase	2.4.1.-	(S)-3-Chloro-4,5-dihydroxy-beta-phenylalanyl-[pcp]	Oxygen	white
-methionine gamma-lyase	2.4.1.-	(S)-3-Chloro-beta-tyrosyl-[pcp]	(S)-3-Chloro-4,5-dihydroxy-beta-phenylalanyl-[pcp]	white
-methionine gamma-lyase	2.4.1.-	(S)-3-Chloro-beta-tyrosyl-[pcp]	FAD	white
-methionine gamma-lyase	2.4.1.-	(S)-3-Chloro-beta-tyrosyl-[pcp]	H2O	white
-methionine gamma-lyase	2.4.1.-	FAD	(S)-3-Chloro-beta-tyrosyl-[pcp]	white
-methionine gamma-lyase	2.4.1.-	FAD	FADH2	white
-methionine gamma-lyase	2.4.1.-	FAD	Oxygen	white
-methionine gamma-lyase	2.4.1.-	FADH2	(S)-3-Chloro-4,5-dihydroxy-beta-phenylalanyl-[pcp]	white
-methionine gamma-lyase	2.4.1.-	FADH2	FAD	white
-methionine gamma-lyase	2.4.1.-	FADH2	H2O	white
-methionine gamma-lyase	2.4.1.-	H2O	(S)-3-Chloro-beta-tyrosyl-[pcp]	white
-methionine gamma-lyase	2.4.1.-	H2O	FADH2	white
-methionine gamma-lyase	2.4.1.-	H2O	Oxygen	white
-methionine gamma-lyase	2.4.1.-	Oxygen	(S)-3-Chloro-4,5-dihydroxy-beta-phenylalanyl-[pcp]	white
-methionine gamma-lyase	2.4.1.-	Oxygen	FAD	white
-methionine gamma-lyase	2.4.1.-	Oxygen	H2O	white
-methyltransferase	2.1.1.49	N-Methyltryptamine	S-Adenosyl-L-methionine	white
-methyltransferase	2.1.1.49	N-Methyltryptamine	Tryptamine	white
-methyltransferase	2.1.1.49	S-Adenosyl-L-homocysteine	S-Adenosyl-L-methionine	white
-methyltransferase	2.1.1.49	S-Adenosyl-L-homocysteine	Tryptamine	white
-methyltransferase	2.1.1.49	S-Adenosyl-L-methionine	N-Methyltryptamine	white
-methyltransferase	2.1.1.49	S-Adenosyl-L-methionine	S-Adenosyl-L-homocysteine	white
-methyltransferase	2.1.1.49	Tryptamine	N-Methyltryptamine	white
-methyltransferase	2.1.1.49	Tryptamine	S-Adenosyl-L-homocysteine	white
-neocarzinostatin naphthoate synthase	2.3.1.237	2-Hydroxy-5-methyl-1-naphthoate	Acetyl-CoA	white
-neocarzinostatin naphthoate synthase	2.3.1.237	2-Hydroxy-5-methyl-1-naphthoate	H+	white
-neocarzinostatin naphthoate synthase	2.3.1.237	2-Hydroxy-5-methyl-1-naphthoate	Malonyl-CoA	white
-neocarzinostatin naphthoate synthase	2.3.1.237	2-Hydroxy-5-methyl-1-naphthoate	NADPH	white
-neocarzinostatin naphthoate synthase	2.3.1.237	Acetyl-CoA	2-Hydroxy-5-methyl-1-naphthoate	white
-neocarzinostatin naphthoate synthase	2.3.1.237	Acetyl-CoA	CO2	white
-neocarzinostatin naphthoate synthase	2.3.1.237	Acetyl-CoA	CoA	white
-neocarzinostatin naphthoate synthase	2.3.1.237	Acetyl-CoA	H2O	white
-neocarzinostatin naphthoate synthase	2.3.1.237	Acetyl-CoA	NADP+	white
-neocarzinostatin naphthoate synthase	2.3.1.237	CO2	Acetyl-CoA	white
-neocarzinostatin naphthoate synthase	2.3.1.237	CO2	H+	white
-neocarzinostatin naphthoate synthase	2.3.1.237	CO2	Malonyl-CoA	white
-neocarzinostatin naphthoate synthase	2.3.1.237	CO2	NADPH	white
-neocarzinostatin naphthoate synthase	2.3.1.237	CoA	Acetyl-CoA	white
-neocarzinostatin naphthoate synthase	2.3.1.237	CoA	H+	white
-neocarzinostatin naphthoate synthase	2.3.1.237	CoA	Malonyl-CoA	white
-neocarzinostatin naphthoate synthase	2.3.1.237	CoA	NADPH	white
-neocarzinostatin naphthoate synthase	2.3.1.237	H+	2-Hydroxy-5-methyl-1-naphthoate	white
-neocarzinostatin naphthoate synthase	2.3.1.237	H+	CO2	white
-neocarzinostatin naphthoate synthase	2.3.1.237	H+	CoA	white
-neocarzinostatin naphthoate synthase	2.3.1.237	H+	H2O	white
-neocarzinostatin naphthoate synthase	2.3.1.237	H+	NADP+	white
-neocarzinostatin naphthoate synthase	2.3.1.237	H2O	Acetyl-CoA	white
-neocarzinostatin naphthoate synthase	2.3.1.237	H2O	H+	white
-neocarzinostatin naphthoate synthase	2.3.1.237	H2O	Malonyl-CoA	white
-neocarzinostatin naphthoate synthase	2.3.1.237	H2O	NADPH	white
-neocarzinostatin naphthoate synthase	2.3.1.237	Malonyl-CoA	2-Hydroxy-5-methyl-1-naphthoate	white
-neocarzinostatin naphthoate synthase	2.3.1.237	Malonyl-CoA	CO2	white
-neocarzinostatin naphthoate synthase	2.3.1.237	Malonyl-CoA	CoA	white
-neocarzinostatin naphthoate synthase	2.3.1.237	Malonyl-CoA	H2O	white
-neocarzinostatin naphthoate synthase	2.3.1.237	Malonyl-CoA	NADP+	white
-neocarzinostatin naphthoate synthase	2.3.1.237	NADP+	Acetyl-CoA	white
-neocarzinostatin naphthoate synthase	2.3.1.237	NADP+	H+	white
-neocarzinostatin naphthoate synthase	2.3.1.237	NADP+	Malonyl-CoA	white
-neocarzinostatin naphthoate synthase	2.3.1.237	NADP+	NADPH	white
-neocarzinostatin naphthoate synthase	2.3.1.237	NADPH	2-Hydroxy-5-methyl-1-naphthoate	white
-neocarzinostatin naphthoate synthase	2.3.1.237	NADPH	CO2	white
-neocarzinostatin naphthoate synthase	2.3.1.237	NADPH	CoA	white
-neocarzinostatin naphthoate synthase	2.3.1.237	NADPH	H2O	white
-neocarzinostatin naphthoate synthase	2.3.1.237	NADPH	NADP+	white
-orsellenic acid P450 oxidase	1.14.-.-	3-Hydroxy-5-iodo-2-methoxyorsellinate-[acp]	5-Iodo-2-methoxyorsellinate-[acp]	white
-orsellenic acid P450 oxidase	1.14.-.-	5-Iodo-2-methoxyorsellinate-[acp]	3-Hydroxy-5-iodo-2-methoxyorsellinate-[acp]	white
-orsellinic acid C2-O-methyltransferase	2.1.1.-	2-Methoxyorsellinate-[acp]	Orsellinate-[acp]	white
-orsellinic acid C2-O-methyltransferase	2.1.1.-	2-Methoxyorsellinate-[acp]	S-Adenosyl-L-methionine	white
-orsellinic acid C2-O-methyltransferase	2.1.1.-	Orsellinate-[acp]	2-Methoxyorsellinate-[acp]	white
-orsellinic acid C2-O-methyltransferase	2.1.1.-	Orsellinate-[acp]	S-Adenosyl-L-homocysteine	white
-orsellinic acid C2-O-methyltransferase	2.1.1.-	S-Adenosyl-L-homocysteine	Orsellinate-[acp]	white
-orsellinic acid C2-O-methyltransferase	2.1.1.-	S-Adenosyl-L-homocysteine	S-Adenosyl-L-methionine	white
-orsellinic acid C2-O-methyltransferase	2.1.1.-	S-Adenosyl-L-methionine	2-Methoxyorsellinate-[acp]	white
-orsellinic acid C2-O-methyltransferase	2.1.1.-	S-Adenosyl-L-methionine	S-Adenosyl-L-homocysteine	white
-orsellinic acid C3-O-methyltransferase	2.1.1.-	3-Hydroxy-5-iodo-2-methoxyorsellinate-[acp]	5-Iodo-2,3-dimethoxyorsellinate-[acp]	white
-orsellinic acid C3-O-methyltransferase	2.1.1.-	3-Hydroxy-5-iodo-2-methoxyorsellinate-[acp]	S-Adenosyl-L-homocysteine	white
-orsellinic acid C3-O-methyltransferase	2.1.1.-	5-Iodo-2,3-dimethoxyorsellinate-[acp]	3-Hydroxy-5-iodo-2-methoxyorsellinate-[acp]	white
-orsellinic acid C3-O-methyltransferase	2.1.1.-	5-Iodo-2,3-dimethoxyorsellinate-[acp]	S-Adenosyl-L-methionine	white
-orsellinic acid C3-O-methyltransferase	2.1.1.-	S-Adenosyl-L-homocysteine	3-Hydroxy-5-iodo-2-methoxyorsellinate-[acp]	white
-orsellinic acid C3-O-methyltransferase	2.1.1.-	S-Adenosyl-L-homocysteine	S-Adenosyl-L-methionine	white
-orsellinic acid C3-O-methyltransferase	2.1.1.-	S-Adenosyl-L-methionine	5-Iodo-2,3-dimethoxyorsellinate-[acp]	white
-orsellinic acid C3-O-methyltransferase	2.1.1.-	S-Adenosyl-L-methionine	S-Adenosyl-L-homocysteine	white
-orsellinic acid synthase	2.3.1.-	Acetyl-CoA	CO2	white
-orsellinic acid synthase	2.3.1.-	Acetyl-CoA	CoA	white
-orsellinic acid synthase	2.3.1.-	Acetyl-CoA	H2O	white
-orsellinic acid synthase	2.3.1.-	Acetyl-CoA	Orsellinate-[acp]	white
-orsellinic acid synthase	2.3.1.-	Acyl-carrier protein	CO2	white
-orsellinic acid synthase	2.3.1.-	Acyl-carrier protein	CoA	white
-orsellinic acid synthase	2.3.1.-	Acyl-carrier protein	H2O	white
-orsellinic acid synthase	2.3.1.-	Acyl-carrier protein	Orsellinate-[acp]	white
-orsellinic acid synthase	2.3.1.-	CO2	Acetyl-CoA	white
-orsellinic acid synthase	2.3.1.-	CO2	Acyl-carrier protein	white
-orsellinic acid synthase	2.3.1.-	CO2	Malonyl-CoA	white
-orsellinic acid synthase	2.3.1.-	CoA	Acetyl-CoA	white
-orsellinic acid synthase	2.3.1.-	CoA	Acyl-carrier protein	white
-orsellinic acid synthase	2.3.1.-	CoA	Malonyl-CoA	white
-orsellinic acid synthase	2.3.1.-	H2O	Acetyl-CoA	white
-orsellinic acid synthase	2.3.1.-	H2O	Acyl-carrier protein	white
-orsellinic acid synthase	2.3.1.-	H2O	Malonyl-CoA	white
-orsellinic acid synthase	2.3.1.-	Malonyl-CoA	CO2	white
-orsellinic acid synthase	2.3.1.-	Malonyl-CoA	CoA	white
-orsellinic acid synthase	2.3.1.-	Malonyl-CoA	H2O	white
-orsellinic acid synthase	2.3.1.-	Malonyl-CoA	Orsellinate-[acp]	white
-orsellinic acid synthase	2.3.1.-	Orsellinate-[acp]	Acetyl-CoA	white
-orsellinic acid synthase	2.3.1.-	Orsellinate-[acp]	Acyl-carrier protein	white
-orsellinic acid synthase	2.3.1.-	Orsellinate-[acp]	Malonyl-CoA	white
-radical SAM C-methyltransferase	1.14.-.-	3-Hydroxy-6,7,8-trimethoxy-2-naphthoate	3-Hydroxy-7,8-dimethoxy-6-isopropoxy-2-naphthoate	white
-radical SAM C-methyltransferase	1.14.-.-	3-Hydroxy-7,8-dimethoxy-6-isopropoxy-2-naphthoate	3-Hydroxy-6,7,8-trimethoxy-2-naphthoate	white
-two-component FAD-dependent monooxygenase	1.14.14.15	(S)-3-Chloro-4,5-dihydroxy-beta-phenylalanyl-[pcp]	(S)-3-Chloro-beta-tyrosyl-[pcp]	white
-two-component FAD-dependent monooxygenase	1.14.14.15	(S)-3-Chloro-4,5-dihydroxy-beta-phenylalanyl-[pcp]	FADH2	white
-two-component FAD-dependent monooxygenase	1.14.14.15	(S)-3-Chloro-4,5-dihydroxy-beta-phenylalanyl-[pcp]	Oxygen	white
-two-component FAD-dependent monooxygenase	1.14.14.15	(S)-3-Chloro-beta-tyrosyl-[pcp]	(S)-3-Chloro-4,5-dihydroxy-beta-phenylalanyl-[pcp]	white
-two-component FAD-dependent monooxygenase	1.14.14.15	(S)-3-Chloro-beta-tyrosyl-[pcp]	FAD	white
-two-component FAD-dependent monooxygenase	1.14.14.15	(S)-3-Chloro-beta-tyrosyl-[pcp]	H2O	white
-two-component FAD-dependent monooxygenase	1.14.14.15	FAD	(S)-3-Chloro-beta-tyrosyl-[pcp]	white
-two-component FAD-dependent monooxygenase	1.14.14.15	FAD	FADH2	white
-two-component FAD-dependent monooxygenase	1.14.14.15	FAD	Oxygen	white
-two-component FAD-dependent monooxygenase	1.14.14.15	FADH2	(S)-3-Chloro-4,5-dihydroxy-beta-phenylalanyl-[pcp]	white
-two-component FAD-dependent monooxygenase	1.14.14.15	FADH2	FAD	white
-two-component FAD-dependent monooxygenase	1.14.14.15	FADH2	H2O	white
-two-component FAD-dependent monooxygenase	1.14.14.15	H2O	(S)-3-Chloro-beta-tyrosyl-[pcp]	white
-two-component FAD-dependent monooxygenase	1.14.14.15	H2O	FADH2	white
-two-component FAD-dependent monooxygenase	1.14.14.15	H2O	Oxygen	white
-two-component FAD-dependent monooxygenase	1.14.14.15	Oxygen	(S)-3-Chloro-4,5-dihydroxy-beta-phenylalanyl-[pcp]	white
-two-component FAD-dependent monooxygenase	1.14.14.15	Oxygen	FAD	white
-two-component FAD-dependent monooxygenase	1.14.14.15	Oxygen	H2O	white
+enzyme_name	EC	source	target	reaction	color
+(R)-2-aza-beta-tyrosine adenylation enzyme	6.2.1.-	(R)-2-Aza-beta-tyrosine	(R)-2-Aza-beta-tyrosyl-[pcp]	R11392	white
+(R)-2-aza-beta-tyrosine adenylation enzyme	6.2.1.-	(R)-2-Aza-beta-tyrosine	AMP	R11392	white
+(R)-2-aza-beta-tyrosine adenylation enzyme	6.2.1.-	(R)-2-Aza-beta-tyrosine	Diphosphate	R11392	white
+(R)-2-aza-beta-tyrosine adenylation enzyme	6.2.1.-	(R)-2-Aza-beta-tyrosyl-[pcp]	(R)-2-Aza-beta-tyrosine	R11392	white
+(R)-2-aza-beta-tyrosine adenylation enzyme	6.2.1.-	(R)-2-Aza-beta-tyrosyl-[pcp]	ATP	R11392	white
+(R)-2-aza-beta-tyrosine adenylation enzyme	6.2.1.-	(R)-2-Aza-beta-tyrosyl-[pcp]	Peptidyl-carrier protein	R11392	white
+(R)-2-aza-beta-tyrosine adenylation enzyme	6.2.1.-	AMP	(R)-2-Aza-beta-tyrosine	R11392	white
+(R)-2-aza-beta-tyrosine adenylation enzyme	6.2.1.-	AMP	ATP	R11392	white
+(R)-2-aza-beta-tyrosine adenylation enzyme	6.2.1.-	AMP	Peptidyl-carrier protein	R11392	white
+(R)-2-aza-beta-tyrosine adenylation enzyme	6.2.1.-	ATP	(R)-2-Aza-beta-tyrosyl-[pcp]	R11392	white
+(R)-2-aza-beta-tyrosine adenylation enzyme	6.2.1.-	ATP	AMP	R11392	white
+(R)-2-aza-beta-tyrosine adenylation enzyme	6.2.1.-	ATP	Diphosphate	R11392	white
+(R)-2-aza-beta-tyrosine adenylation enzyme	6.2.1.-	Diphosphate	(R)-2-Aza-beta-tyrosine	R11392	white
+(R)-2-aza-beta-tyrosine adenylation enzyme	6.2.1.-	Diphosphate	ATP	R11392	white
+(R)-2-aza-beta-tyrosine adenylation enzyme	6.2.1.-	Diphosphate	Peptidyl-carrier protein	R11392	white
+(R)-2-aza-beta-tyrosine adenylation enzyme	6.2.1.-	Peptidyl-carrier protein	(R)-2-Aza-beta-tyrosyl-[pcp]	R11392	white
+(R)-2-aza-beta-tyrosine adenylation enzyme	6.2.1.-	Peptidyl-carrier protein	AMP	R11392	white
+(R)-2-aza-beta-tyrosine adenylation enzyme	6.2.1.-	Peptidyl-carrier protein	Diphosphate	R11392	white
+(S)-beta-tyrosine adenylation enzyme	6.2.1.-	(S)-beta-Tyrosine	(S)-beta-Tyrosyl-[pcp]	R11367	white
+(S)-beta-tyrosine adenylation enzyme	6.2.1.-	(S)-beta-Tyrosine	AMP	R11367	white
+(S)-beta-tyrosine adenylation enzyme	6.2.1.-	(S)-beta-Tyrosine	Diphosphate	R11367	white
+(S)-beta-tyrosine adenylation enzyme	6.2.1.-	(S)-beta-Tyrosyl-[pcp]	(S)-beta-Tyrosine	R11367	white
+(S)-beta-tyrosine adenylation enzyme	6.2.1.-	(S)-beta-Tyrosyl-[pcp]	ATP	R11367	white
+(S)-beta-tyrosine adenylation enzyme	6.2.1.-	(S)-beta-Tyrosyl-[pcp]	Peptidyl-carrier protein	R11367	white
+(S)-beta-tyrosine adenylation enzyme	6.2.1.-	AMP	(S)-beta-Tyrosine	R11367	white
+(S)-beta-tyrosine adenylation enzyme	6.2.1.-	AMP	ATP	R11367	white
+(S)-beta-tyrosine adenylation enzyme	6.2.1.-	AMP	Peptidyl-carrier protein	R11367	white
+(S)-beta-tyrosine adenylation enzyme	6.2.1.-	ATP	(S)-beta-Tyrosyl-[pcp]	R11367	white
+(S)-beta-tyrosine adenylation enzyme	6.2.1.-	ATP	AMP	R11367	white
+(S)-beta-tyrosine adenylation enzyme	6.2.1.-	ATP	Diphosphate	R11367	white
+(S)-beta-tyrosine adenylation enzyme	6.2.1.-	Diphosphate	(S)-beta-Tyrosine	R11367	white
+(S)-beta-tyrosine adenylation enzyme	6.2.1.-	Diphosphate	ATP	R11367	white
+(S)-beta-tyrosine adenylation enzyme	6.2.1.-	Diphosphate	Peptidyl-carrier protein	R11367	white
+(S)-beta-tyrosine adenylation enzyme	6.2.1.-	Peptidyl-carrier protein	(S)-beta-Tyrosyl-[pcp]	R11367	white
+(S)-beta-tyrosine adenylation enzyme	6.2.1.-	Peptidyl-carrier protein	AMP	R11367	white
+(S)-beta-tyrosine adenylation enzyme	6.2.1.-	Peptidyl-carrier protein	Diphosphate	R11367	white
+2,7-dihydroxy-5-methyl-1-naphthoate 7-O-methyltransferase	2.1.1.303	2,7-Dihydroxy-5-methyl-1-naphthoate	2-Hydroxy-7-methoxy-5-methyl-1-naphthoate	R10963	white
+2,7-dihydroxy-5-methyl-1-naphthoate 7-O-methyltransferase	2.1.1.303	2,7-Dihydroxy-5-methyl-1-naphthoate	S-Adenosyl-L-homocysteine	R10963	white
+2,7-dihydroxy-5-methyl-1-naphthoate 7-O-methyltransferase	2.1.1.303	2-Hydroxy-7-methoxy-5-methyl-1-naphthoate	2,7-Dihydroxy-5-methyl-1-naphthoate	R10963	white
+2,7-dihydroxy-5-methyl-1-naphthoate 7-O-methyltransferase	2.1.1.303	2-Hydroxy-7-methoxy-5-methyl-1-naphthoate	S-Adenosyl-L-methionine	R10963	white
+2,7-dihydroxy-5-methyl-1-naphthoate 7-O-methyltransferase	2.1.1.303	S-Adenosyl-L-homocysteine	2,7-Dihydroxy-5-methyl-1-naphthoate	R10963	white
+2,7-dihydroxy-5-methyl-1-naphthoate 7-O-methyltransferase	2.1.1.303	S-Adenosyl-L-homocysteine	S-Adenosyl-L-methionine	R10963	white
+2,7-dihydroxy-5-methyl-1-naphthoate 7-O-methyltransferase	2.1.1.303	S-Adenosyl-L-methionine	2-Hydroxy-7-methoxy-5-methyl-1-naphthoate	R10963	white
+2,7-dihydroxy-5-methyl-1-naphthoate 7-O-methyltransferase	2.1.1.303	S-Adenosyl-L-methionine	S-Adenosyl-L-homocysteine	R10963	white
+2-amino-4-deoxychorismate dehydrogenase	1.3.8.16	2-Amino-2-deoxyisochorismate	3-(1-Carboxyvinyloxy)anthranilate	R09559	white
+2-amino-4-deoxychorismate dehydrogenase	1.3.8.16	2-Amino-2-deoxyisochorismate	Reduced FMN	R09559	white
+2-amino-4-deoxychorismate dehydrogenase	1.3.8.16	3-(1-Carboxyvinyloxy)anthranilate	2-Amino-2-deoxyisochorismate	R09559	white
+2-amino-4-deoxychorismate dehydrogenase	1.3.8.16	3-(1-Carboxyvinyloxy)anthranilate	FMN	R09559	white
+2-amino-4-deoxychorismate dehydrogenase	1.3.8.16	FMN	3-(1-Carboxyvinyloxy)anthranilate	R09559	white
+2-amino-4-deoxychorismate dehydrogenase	1.3.8.16	FMN	Reduced FMN	R09559	white
+2-amino-4-deoxychorismate dehydrogenase	1.3.8.16	Reduced FMN	2-Amino-2-deoxyisochorismate	R09559	white
+2-amino-4-deoxychorismate dehydrogenase	1.3.8.16	Reduced FMN	FMN	R09559	white
+2-amino-4-deoxychorismate synthase	2.6.1.86	2-Amino-2-deoxyisochorismate	Chorismate	R08956	white
+2-amino-4-deoxychorismate synthase	2.6.1.86	2-Amino-2-deoxyisochorismate	L-Glutamine	R08956	white
+2-amino-4-deoxychorismate synthase	2.6.1.86	Chorismate	2-Amino-2-deoxyisochorismate	R08956	white
+2-amino-4-deoxychorismate synthase	2.6.1.86	Chorismate	L-Glutamate	R08956	white
+2-amino-4-deoxychorismate synthase	2.6.1.86	L-Glutamate	Chorismate	R08956	white
+2-amino-4-deoxychorismate synthase	2.6.1.86	L-Glutamate	L-Glutamine	R08956	white
+2-amino-4-deoxychorismate synthase	2.6.1.86	L-Glutamine	2-Amino-2-deoxyisochorismate	R08956	white
+2-amino-4-deoxychorismate synthase	2.6.1.86	L-Glutamine	L-Glutamate	R08956	white
+2-amino-4-deoxychorismate synthase, glutamine amidotransferase component	2.6.1.86	2-Amino-2-deoxyisochorismate	Chorismate	R08956	white
+2-amino-4-deoxychorismate synthase, glutamine amidotransferase component	2.6.1.86	2-Amino-2-deoxyisochorismate	L-Glutamine	R08956	white
+2-amino-4-deoxychorismate synthase, glutamine amidotransferase component	2.6.1.86	Chorismate	2-Amino-2-deoxyisochorismate	R08956	white
+2-amino-4-deoxychorismate synthase, glutamine amidotransferase component	2.6.1.86	Chorismate	L-Glutamate	R08956	white
+2-amino-4-deoxychorismate synthase, glutamine amidotransferase component	2.6.1.86	L-Glutamate	Chorismate	R08956	white
+2-amino-4-deoxychorismate synthase, glutamine amidotransferase component	2.6.1.86	L-Glutamate	L-Glutamine	R08956	white
+2-amino-4-deoxychorismate synthase, glutamine amidotransferase component	2.6.1.86	L-Glutamine	2-Amino-2-deoxyisochorismate	R08956	white
+2-amino-4-deoxychorismate synthase, glutamine amidotransferase component	2.6.1.86	L-Glutamine	L-Glutamate	R08956	white
+2-hydroxy-5-methyl-1-naphthoate 7-hydroxylase	1.14.15.31	2,7-Dihydroxy-5-methyl-1-naphthoate	2-Hydroxy-5-methyl-1-naphthoate	R10796	white
+2-hydroxy-5-methyl-1-naphthoate 7-hydroxylase	1.14.15.31	2,7-Dihydroxy-5-methyl-1-naphthoate	H+	R10796	white
+2-hydroxy-5-methyl-1-naphthoate 7-hydroxylase	1.14.15.31	2,7-Dihydroxy-5-methyl-1-naphthoate	Oxygen	R10796	white
+2-hydroxy-5-methyl-1-naphthoate 7-hydroxylase	1.14.15.31	2,7-Dihydroxy-5-methyl-1-naphthoate	Reduced ferredoxin	R10796	white
+2-hydroxy-5-methyl-1-naphthoate 7-hydroxylase	1.14.15.31	2-Hydroxy-5-methyl-1-naphthoate	2,7-Dihydroxy-5-methyl-1-naphthoate	R10796	white
+2-hydroxy-5-methyl-1-naphthoate 7-hydroxylase	1.14.15.31	2-Hydroxy-5-methyl-1-naphthoate	H2O	R10796	white
+2-hydroxy-5-methyl-1-naphthoate 7-hydroxylase	1.14.15.31	2-Hydroxy-5-methyl-1-naphthoate	Oxidized ferredoxin	R10796	white
+2-hydroxy-5-methyl-1-naphthoate 7-hydroxylase	1.14.15.31	H+	2,7-Dihydroxy-5-methyl-1-naphthoate	R10796	white
+2-hydroxy-5-methyl-1-naphthoate 7-hydroxylase	1.14.15.31	H+	H2O	R10796	white
+2-hydroxy-5-methyl-1-naphthoate 7-hydroxylase	1.14.15.31	H+	Oxidized ferredoxin	R10796	white
+2-hydroxy-5-methyl-1-naphthoate 7-hydroxylase	1.14.15.31	H2O	2-Hydroxy-5-methyl-1-naphthoate	R10796	white
+2-hydroxy-5-methyl-1-naphthoate 7-hydroxylase	1.14.15.31	H2O	H+	R10796	white
+2-hydroxy-5-methyl-1-naphthoate 7-hydroxylase	1.14.15.31	H2O	Oxygen	R10796	white
+2-hydroxy-5-methyl-1-naphthoate 7-hydroxylase	1.14.15.31	H2O	Reduced ferredoxin	R10796	white
+2-hydroxy-5-methyl-1-naphthoate 7-hydroxylase	1.14.15.31	Oxidized ferredoxin	2-Hydroxy-5-methyl-1-naphthoate	R10796	white
+2-hydroxy-5-methyl-1-naphthoate 7-hydroxylase	1.14.15.31	Oxidized ferredoxin	H+	R10796	white
+2-hydroxy-5-methyl-1-naphthoate 7-hydroxylase	1.14.15.31	Oxidized ferredoxin	Oxygen	R10796	white
+2-hydroxy-5-methyl-1-naphthoate 7-hydroxylase	1.14.15.31	Oxidized ferredoxin	Reduced ferredoxin	R10796	white
+2-hydroxy-5-methyl-1-naphthoate 7-hydroxylase	1.14.15.31	Oxygen	2,7-Dihydroxy-5-methyl-1-naphthoate	R10796	white
+2-hydroxy-5-methyl-1-naphthoate 7-hydroxylase	1.14.15.31	Oxygen	H2O	R10796	white
+2-hydroxy-5-methyl-1-naphthoate 7-hydroxylase	1.14.15.31	Oxygen	Oxidized ferredoxin	R10796	white
+2-hydroxy-5-methyl-1-naphthoate 7-hydroxylase	1.14.15.31	Reduced ferredoxin	2,7-Dihydroxy-5-methyl-1-naphthoate	R10796	white
+2-hydroxy-5-methyl-1-naphthoate 7-hydroxylase	1.14.15.31	Reduced ferredoxin	H2O	R10796	white
+2-hydroxy-5-methyl-1-naphthoate 7-hydroxylase	1.14.15.31	Reduced ferredoxin	Oxidized ferredoxin	R10796	white
+2-hydroxy-7-methoxy-5-methyl-1-naphthoate---CoA ligase	6.2.1.43	2-Hydroxy-7-methoxy-5-methyl-1-naphthoate	2-Hydroxy-7-methoxy-5-methyl-1-naphthoyl-CoA	R10771	white
+2-hydroxy-7-methoxy-5-methyl-1-naphthoate---CoA ligase	6.2.1.43	2-Hydroxy-7-methoxy-5-methyl-1-naphthoate	AMP	R10771	white
+2-hydroxy-7-methoxy-5-methyl-1-naphthoate---CoA ligase	6.2.1.43	2-Hydroxy-7-methoxy-5-methyl-1-naphthoate	Diphosphate	R10771	white
+2-hydroxy-7-methoxy-5-methyl-1-naphthoate---CoA ligase	6.2.1.43	2-Hydroxy-7-methoxy-5-methyl-1-naphthoyl-CoA	2-Hydroxy-7-methoxy-5-methyl-1-naphthoate	R10771	white
+2-hydroxy-7-methoxy-5-methyl-1-naphthoate---CoA ligase	6.2.1.43	2-Hydroxy-7-methoxy-5-methyl-1-naphthoyl-CoA	ATP	R10771	white
+2-hydroxy-7-methoxy-5-methyl-1-naphthoate---CoA ligase	6.2.1.43	2-Hydroxy-7-methoxy-5-methyl-1-naphthoyl-CoA	CoA	R10771	white
+2-hydroxy-7-methoxy-5-methyl-1-naphthoate---CoA ligase	6.2.1.43	AMP	2-Hydroxy-7-methoxy-5-methyl-1-naphthoate	R10771	white
+2-hydroxy-7-methoxy-5-methyl-1-naphthoate---CoA ligase	6.2.1.43	AMP	ATP	R10771	white
+2-hydroxy-7-methoxy-5-methyl-1-naphthoate---CoA ligase	6.2.1.43	AMP	CoA	R10771	white
+2-hydroxy-7-methoxy-5-methyl-1-naphthoate---CoA ligase	6.2.1.43	ATP	2-Hydroxy-7-methoxy-5-methyl-1-naphthoyl-CoA	R10771	white
+2-hydroxy-7-methoxy-5-methyl-1-naphthoate---CoA ligase	6.2.1.43	ATP	AMP	R10771	white
+2-hydroxy-7-methoxy-5-methyl-1-naphthoate---CoA ligase	6.2.1.43	ATP	Diphosphate	R10771	white
+2-hydroxy-7-methoxy-5-methyl-1-naphthoate---CoA ligase	6.2.1.43	CoA	2-Hydroxy-7-methoxy-5-methyl-1-naphthoyl-CoA	R10771	white
+2-hydroxy-7-methoxy-5-methyl-1-naphthoate---CoA ligase	6.2.1.43	CoA	AMP	R10771	white
+2-hydroxy-7-methoxy-5-methyl-1-naphthoate---CoA ligase	6.2.1.43	CoA	Diphosphate	R10771	white
+2-hydroxy-7-methoxy-5-methyl-1-naphthoate---CoA ligase	6.2.1.43	Diphosphate	2-Hydroxy-7-methoxy-5-methyl-1-naphthoate	R10771	white
+2-hydroxy-7-methoxy-5-methyl-1-naphthoate---CoA ligase	6.2.1.43	Diphosphate	ATP	R10771	white
+2-hydroxy-7-methoxy-5-methyl-1-naphthoate---CoA ligase	6.2.1.43	Diphosphate	CoA	R10771	white
+3-O-acyltransferase	2.4.1.-	(S)-3-Chloro-4,5-dihydroxy-beta-phenylalanyl-[pcp]	(S)-3-Chloro-beta-tyrosyl-[pcp]	R10731	white
+3-O-acyltransferase	2.4.1.-	(S)-3-Chloro-4,5-dihydroxy-beta-phenylalanyl-[pcp]	FADH2	R10731	white
+3-O-acyltransferase	2.4.1.-	(S)-3-Chloro-4,5-dihydroxy-beta-phenylalanyl-[pcp]	Oxygen	R10731	white
+3-O-acyltransferase	2.4.1.-	(S)-3-Chloro-beta-tyrosyl-[pcp]	(S)-3-Chloro-4,5-dihydroxy-beta-phenylalanyl-[pcp]	R10731	white
+3-O-acyltransferase	2.4.1.-	(S)-3-Chloro-beta-tyrosyl-[pcp]	FAD	R10731	white
+3-O-acyltransferase	2.4.1.-	(S)-3-Chloro-beta-tyrosyl-[pcp]	H2O	R10731	white
+3-O-acyltransferase	2.4.1.-	FAD	(S)-3-Chloro-beta-tyrosyl-[pcp]	R10731	white
+3-O-acyltransferase	2.4.1.-	FAD	FADH2	R10731	white
+3-O-acyltransferase	2.4.1.-	FAD	Oxygen	R10731	white
+3-O-acyltransferase	2.4.1.-	FADH2	(S)-3-Chloro-4,5-dihydroxy-beta-phenylalanyl-[pcp]	R10731	white
+3-O-acyltransferase	2.4.1.-	FADH2	FAD	R10731	white
+3-O-acyltransferase	2.4.1.-	FADH2	H2O	R10731	white
+3-O-acyltransferase	2.4.1.-	H2O	(S)-3-Chloro-beta-tyrosyl-[pcp]	R10731	white
+3-O-acyltransferase	2.4.1.-	H2O	FADH2	R10731	white
+3-O-acyltransferase	2.4.1.-	H2O	Oxygen	R10731	white
+3-O-acyltransferase	2.4.1.-	Oxygen	(S)-3-Chloro-4,5-dihydroxy-beta-phenylalanyl-[pcp]	R10731	white
+3-O-acyltransferase	2.4.1.-	Oxygen	FAD	R10731	white
+3-O-acyltransferase	2.4.1.-	Oxygen	H2O	R10731	white
+6-methylsalicylic acid synthase	2.3.1.165	6-Methylsalicylate	Acetyl-CoA	R07253	white
+6-methylsalicylic acid synthase	2.3.1.165	6-Methylsalicylate	H+	R07253	white
+6-methylsalicylic acid synthase	2.3.1.165	6-Methylsalicylate	Malonyl-CoA	R07253	white
+6-methylsalicylic acid synthase	2.3.1.165	6-Methylsalicylate	NADPH	R07253	white
+6-methylsalicylic acid synthase	2.3.1.165	Acetyl-CoA	6-Methylsalicylate	R07253	white
+6-methylsalicylic acid synthase	2.3.1.165	Acetyl-CoA	CO2	R07253	white
+6-methylsalicylic acid synthase	2.3.1.165	Acetyl-CoA	CoA	R07253	white
+6-methylsalicylic acid synthase	2.3.1.165	Acetyl-CoA	H2O	R07253	white
+6-methylsalicylic acid synthase	2.3.1.165	Acetyl-CoA	NADP+	R07253	white
+6-methylsalicylic acid synthase	2.3.1.165	CO2	Acetyl-CoA	R07253	white
+6-methylsalicylic acid synthase	2.3.1.165	CO2	H+	R07253	white
+6-methylsalicylic acid synthase	2.3.1.165	CO2	Malonyl-CoA	R07253	white
+6-methylsalicylic acid synthase	2.3.1.165	CO2	NADPH	R07253	white
+6-methylsalicylic acid synthase	2.3.1.165	CoA	Acetyl-CoA	R07253	white
+6-methylsalicylic acid synthase	2.3.1.165	CoA	H+	R07253	white
+6-methylsalicylic acid synthase	2.3.1.165	CoA	Malonyl-CoA	R07253	white
+6-methylsalicylic acid synthase	2.3.1.165	CoA	NADPH	R07253	white
+6-methylsalicylic acid synthase	2.3.1.165	H+	6-Methylsalicylate	R07253	white
+6-methylsalicylic acid synthase	2.3.1.165	H+	CO2	R07253	white
+6-methylsalicylic acid synthase	2.3.1.165	H+	CoA	R07253	white
+6-methylsalicylic acid synthase	2.3.1.165	H+	H2O	R07253	white
+6-methylsalicylic acid synthase	2.3.1.165	H+	NADP+	R07253	white
+6-methylsalicylic acid synthase	2.3.1.165	H2O	Acetyl-CoA	R07253	white
+6-methylsalicylic acid synthase	2.3.1.165	H2O	H+	R07253	white
+6-methylsalicylic acid synthase	2.3.1.165	H2O	Malonyl-CoA	R07253	white
+6-methylsalicylic acid synthase	2.3.1.165	H2O	NADPH	R07253	white
+6-methylsalicylic acid synthase	2.3.1.165	Malonyl-CoA	6-Methylsalicylate	R07253	white
+6-methylsalicylic acid synthase	2.3.1.165	Malonyl-CoA	CO2	R07253	white
+6-methylsalicylic acid synthase	2.3.1.165	Malonyl-CoA	CoA	R07253	white
+6-methylsalicylic acid synthase	2.3.1.165	Malonyl-CoA	H2O	R07253	white
+6-methylsalicylic acid synthase	2.3.1.165	Malonyl-CoA	NADP+	R07253	white
+6-methylsalicylic acid synthase	2.3.1.165	NADP+	Acetyl-CoA	R07253	white
+6-methylsalicylic acid synthase	2.3.1.165	NADP+	H+	R07253	white
+6-methylsalicylic acid synthase	2.3.1.165	NADP+	Malonyl-CoA	R07253	white
+6-methylsalicylic acid synthase	2.3.1.165	NADP+	NADPH	R07253	white
+6-methylsalicylic acid synthase	2.3.1.165	NADPH	6-Methylsalicylate	R07253	white
+6-methylsalicylic acid synthase	2.3.1.165	NADPH	CO2	R07253	white
+6-methylsalicylic acid synthase	2.3.1.165	NADPH	CoA	R07253	white
+6-methylsalicylic acid synthase	2.3.1.165	NADPH	H2O	R07253	white
+6-methylsalicylic acid synthase	2.3.1.165	NADPH	NADP+	R07253	white
+CoA ligase	6.2.1.-	6-Methylsalicylate	6-Methylsalicylyl-CoA	R11370	white
+CoA ligase	6.2.1.-	6-Methylsalicylate	AMP	R11370	white
+CoA ligase	6.2.1.-	6-Methylsalicylate	Diphosphate	R11370	white
+CoA ligase	6.2.1.-	6-Methylsalicylyl-CoA	6-Methylsalicylate	R11370	white
+CoA ligase	6.2.1.-	6-Methylsalicylyl-CoA	ATP	R11370	white
+CoA ligase	6.2.1.-	6-Methylsalicylyl-CoA	CoA	R11370	white
+CoA ligase	6.2.1.-	AMP	6-Methylsalicylate	R11370	white
+CoA ligase	6.2.1.-	AMP	ATP	R11370	white
+CoA ligase	6.2.1.-	AMP	CoA	R11370	white
+CoA ligase	6.2.1.-	ATP	6-Methylsalicylyl-CoA	R11370	white
+CoA ligase	6.2.1.-	ATP	AMP	R11370	white
+CoA ligase	6.2.1.-	ATP	Diphosphate	R11370	white
+CoA ligase	6.2.1.-	CoA	6-Methylsalicylyl-CoA	R11370	white
+CoA ligase	6.2.1.-	CoA	AMP	R11370	white
+CoA ligase	6.2.1.-	CoA	Diphosphate	R11370	white
+CoA ligase	6.2.1.-	Diphosphate	6-Methylsalicylate	R11370	white
+CoA ligase	6.2.1.-	Diphosphate	ATP	R11370	white
+CoA ligase	6.2.1.-	Diphosphate	CoA	R11370	white
+CoA-ligase	2.1.1.-	3,4-Dihydro-7-methoxy-2-methylene-3-oxo-2H-1,4-benzoxazine-5-carbonyl-CoA	3,4-Dihydro-7-methoxy-2-methylene-3-oxo-2H-1,4-benzoxazine-5-carboxylic acid	R11365	white
+CoA-ligase	2.1.1.-	3,4-Dihydro-7-methoxy-2-methylene-3-oxo-2H-1,4-benzoxazine-5-carboxylic acid	3,4-Dihydro-7-methoxy-2-methylene-3-oxo-2H-1,4-benzoxazine-5-carbonyl-CoA	R11365	white
+FAD-dependent halogenase	1.14.19.-	(S)-3-Chloro-beta-tyrosyl-[pcp]	(S)-beta-Tyrosyl-[pcp]	R11368	white
+FAD-dependent halogenase	1.14.19.-	(S)-3-Chloro-beta-tyrosyl-[pcp]	Cl-	R11368	white
+FAD-dependent halogenase	1.14.19.-	(S)-3-Chloro-beta-tyrosyl-[pcp]	FADH2	R11368	white
+FAD-dependent halogenase	1.14.19.-	(S)-3-Chloro-beta-tyrosyl-[pcp]	H+	R11368	white
+FAD-dependent halogenase	1.14.19.-	(S)-3-Chloro-beta-tyrosyl-[pcp]	Oxygen	R11368	white
+FAD-dependent halogenase	1.14.19.-	(S)-beta-Tyrosyl-[pcp]	(S)-3-Chloro-beta-tyrosyl-[pcp]	R11368	white
+FAD-dependent halogenase	1.14.19.-	(S)-beta-Tyrosyl-[pcp]	FAD	R11368	white
+FAD-dependent halogenase	1.14.19.-	(S)-beta-Tyrosyl-[pcp]	H2O	R11368	white
+FAD-dependent halogenase	1.14.19.-	Cl-	(S)-3-Chloro-beta-tyrosyl-[pcp]	R11368	white
+FAD-dependent halogenase	1.14.19.-	Cl-	FAD	R11368	white
+FAD-dependent halogenase	1.14.19.-	Cl-	H2O	R11368	white
+FAD-dependent halogenase	1.14.19.-	FAD	(S)-beta-Tyrosyl-[pcp]	R11368	white
+FAD-dependent halogenase	1.14.19.-	FAD	Cl-	R11368	white
+FAD-dependent halogenase	1.14.19.-	FAD	FADH2	R11368	white
+FAD-dependent halogenase	1.14.19.-	FAD	H+	R11368	white
+FAD-dependent halogenase	1.14.19.-	FAD	Oxygen	R11368	white
+FAD-dependent halogenase	1.14.19.-	FADH2	(S)-3-Chloro-beta-tyrosyl-[pcp]	R11368	white
+FAD-dependent halogenase	1.14.19.-	FADH2	FAD	R11368	white
+FAD-dependent halogenase	1.14.19.-	FADH2	H2O	R11368	white
+FAD-dependent halogenase	1.14.19.-	H+	(S)-3-Chloro-beta-tyrosyl-[pcp]	R11368	white
+FAD-dependent halogenase	1.14.19.-	H+	FAD	R11368	white
+FAD-dependent halogenase	1.14.19.-	H+	H2O	R11368	white
+FAD-dependent halogenase	1.14.19.-	H2O	(S)-beta-Tyrosyl-[pcp]	R11368	white
+FAD-dependent halogenase	1.14.19.-	H2O	Cl-	R11368	white
+FAD-dependent halogenase	1.14.19.-	H2O	FADH2	R11368	white
+FAD-dependent halogenase	1.14.19.-	H2O	H+	R11368	white
+FAD-dependent halogenase	1.14.19.-	H2O	Oxygen	R11368	white
+FAD-dependent halogenase	1.14.19.-	Oxygen	(S)-3-Chloro-beta-tyrosyl-[pcp]	R11368	white
+FAD-dependent halogenase	1.14.19.-	Oxygen	FAD	R11368	white
+FAD-dependent halogenase	1.14.19.-	Oxygen	H2O	R11368	white
+MIO-dependent 2-aza-L-tyrosine aminomutase	5.4.3.-	(R)-2-Aza-beta-tyrosine	Azatyrosine	R11391	white
+MIO-dependent 2-aza-L-tyrosine aminomutase	5.4.3.-	Azatyrosine	(R)-2-Aza-beta-tyrosine	R11391	white
+MIO-dependent L-tyrosine 2,3-aminomutase	5.4.3.6	(S)-beta-Tyrosine	L-Tyrosine	R11366	white
+MIO-dependent L-tyrosine 2,3-aminomutase	5.4.3.6	L-Tyrosine	(S)-beta-Tyrosine	R11366	white
+N-methyltransferase	2.1.1.-	dTDP-4-amino-4,6-dideoxy-5-C-methyl-D-allose	dTDP-4-dimethylamino-4,6-dideoxy-5-C-methyl-D-allose	R11465	white
+N-methyltransferase	2.1.1.-	dTDP-4-dimethylamino-4,6-dideoxy-5-C-methyl-D-allose	dTDP-4-amino-4,6-dideoxy-5-C-methyl-D-allose	R11465	white
+NDP-hexose 2,3-dehydratase	6.2.1.43	NDP-2,6-dideoxy-D-glycero-hex-2-enos-4-ulose	NDP-4-oxo-6-deoxy-D-mannose	R11431	white
+NDP-hexose 2,3-dehydratase	6.2.1.43	NDP-4-oxo-6-deoxy-D-mannose	NDP-2,6-dideoxy-D-glycero-hex-2-enos-4-ulose	R11431	white
+NDP-hexose 4,6-dehydratase	6.2.1.43	NDP-4-oxo-6-deoxy-D-mannose	NDP-D-mannose	R11430	white
+NDP-hexose 4,6-dehydratase	6.2.1.43	NDP-D-mannose	NDP-4-oxo-6-deoxy-D-mannose	R11430	white
+NDP-hexose 4-ketoreductase	6.2.1.43	NDP-2-amino-2,6-dideoxy-D-galactose	NDP-2-amino-4-oxo-2,6-dideoxy-D-galactose	R11433	white
+NDP-hexose 4-ketoreductase	6.2.1.43	NDP-2-amino-4-oxo-2,6-dideoxy-D-galactose	NDP-2-amino-2,6-dideoxy-D-galactose	R11433	white
+NDP-mannose synthase	6.2.1.43	D-Mannose 1-phosphate	NDP-D-mannose	R11429	white
+NDP-mannose synthase	6.2.1.43	NDP-D-mannose	D-Mannose 1-phosphate	R11429	white
+O-methyltransferase	2.1.1.-	3,4-Dihydro-7-hydroxy-2-methylene-3-oxo-2H-1,4-benzoxazine-5-carboxylate	3,4-Dihydro-7-methoxy-2-methylene-3-oxo-2H-1,4-benzoxazine-5-carboxylic acid	R11364	white
+O-methyltransferase	2.1.1.-	3,4-Dihydro-7-methoxy-2-methylene-3-oxo-2H-1,4-benzoxazine-5-carboxylic acid	3,4-Dihydro-7-hydroxy-2-methylene-3-oxo-2H-1,4-benzoxazine-5-carboxylate	R11364	white
+PLP-dependent transaminase	2.4.1.-	(S)-beta-Tyrosyl-[pcp]	3-(4-Hydroxyphenyl)-3-oxopropanoyl-[pcp]	R11369	white
+PLP-dependent transaminase	2.4.1.-	3-(4-Hydroxyphenyl)-3-oxopropanoyl-[pcp]	(S)-beta-Tyrosyl-[pcp]	R11369	white
+acetyltransferase/esterase	6.2.1.-	(S)-beta-Tyrosine	(S)-beta-Tyrosyl-[pcp]	R11367	white
+acetyltransferase/esterase	6.2.1.-	(S)-beta-Tyrosine	AMP	R11367	white
+acetyltransferase/esterase	6.2.1.-	(S)-beta-Tyrosine	Diphosphate	R11367	white
+acetyltransferase/esterase	6.2.1.-	(S)-beta-Tyrosyl-[pcp]	(S)-beta-Tyrosine	R11367	white
+acetyltransferase/esterase	6.2.1.-	(S)-beta-Tyrosyl-[pcp]	ATP	R11367	white
+acetyltransferase/esterase	6.2.1.-	(S)-beta-Tyrosyl-[pcp]	Peptidyl-carrier protein	R11367	white
+acetyltransferase/esterase	6.2.1.-	AMP	(S)-beta-Tyrosine	R11367	white
+acetyltransferase/esterase	6.2.1.-	AMP	ATP	R11367	white
+acetyltransferase/esterase	6.2.1.-	AMP	Peptidyl-carrier protein	R11367	white
+acetyltransferase/esterase	6.2.1.-	ATP	(S)-beta-Tyrosyl-[pcp]	R11367	white
+acetyltransferase/esterase	6.2.1.-	ATP	AMP	R11367	white
+acetyltransferase/esterase	6.2.1.-	ATP	Diphosphate	R11367	white
+acetyltransferase/esterase	6.2.1.-	Diphosphate	(S)-beta-Tyrosine	R11367	white
+acetyltransferase/esterase	6.2.1.-	Diphosphate	ATP	R11367	white
+acetyltransferase/esterase	6.2.1.-	Diphosphate	Peptidyl-carrier protein	R11367	white
+acetyltransferase/esterase	6.2.1.-	Peptidyl-carrier protein	(S)-beta-Tyrosyl-[pcp]	R11367	white
+acetyltransferase/esterase	6.2.1.-	Peptidyl-carrier protein	AMP	R11367	white
+acetyltransferase/esterase	6.2.1.-	Peptidyl-carrier protein	Diphosphate	R11367	white
+acyl-CoA N-acyltransferase	2.4.1.-	4-Deoxy-4-thio-alpha-D-digitoxosyl-calicheamicin T0	Calicheamicin T0	R11418	white
+acyl-CoA N-acyltransferase	2.4.1.-	4-Deoxy-4-thio-alpha-D-digitoxosyl-calicheamicin T0	dTDP-4-deoxy-4-thio-alpha-D-digitoxose	R11418	white
+acyl-CoA N-acyltransferase	2.4.1.-	Calicheamicin T0	4-Deoxy-4-thio-alpha-D-digitoxosyl-calicheamicin T0	R11418	white
+acyl-CoA N-acyltransferase	2.4.1.-	Calicheamicin T0	dTDP	R11418	white
+acyl-CoA N-acyltransferase	2.4.1.-	dTDP	Calicheamicin T0	R11418	white
+acyl-CoA N-acyltransferase	2.4.1.-	dTDP	dTDP-4-deoxy-4-thio-alpha-D-digitoxose	R11418	white
+acyl-CoA N-acyltransferase	2.4.1.-	dTDP-4-deoxy-4-thio-alpha-D-digitoxose	4-Deoxy-4-thio-alpha-D-digitoxosyl-calicheamicin T0	R11418	white
+acyl-CoA N-acyltransferase	2.4.1.-	dTDP-4-deoxy-4-thio-alpha-D-digitoxose	dTDP	R11418	white
+acyl-CoA synthetase	1.14.-.-	3-Hydroxy-7,8-dimethoxy-6-isopropoxy-2-naphthoate	3-Hydroxy-7,8-dimethoxy-6-isopropoxy-2-naphthoyl-CoA	R11390	white
+acyl-CoA synthetase	1.14.-.-	3-Hydroxy-7,8-dimethoxy-6-isopropoxy-2-naphthoyl-CoA	3-Hydroxy-7,8-dimethoxy-6-isopropoxy-2-naphthoate	R11390	white
+acyl-CoA synthetase	1.14.-.-	3-Hydroxy-7,8-dimethoxy-6-isopropoxy-2-naphthoyl-CoA	CoA	R11390	white
+acyl-CoA synthetase	1.14.-.-	CoA	3-Hydroxy-7,8-dimethoxy-6-isopropoxy-2-naphthoyl-CoA	R11390	white
+acyltransferase	2.3.1.-	D-GlcA-beta-(1->2)-D-Man-alpha-(1->3)-D-Glc-beta-(1->4)-D-Glc-alpha-1-diphospho-ditrans,octacis-undecaprenol	D-Man-beta-(1->4)-GlcA-beta-(1->2)-D-Man-alpha-(1->3)-D-Glc-beta-(1->4)-D-Glc-alpha-1-diphospho-ditrans,octacis-undecaprenol	R09734	white
+acyltransferase	2.3.1.-	D-GlcA-beta-(1->2)-D-Man-alpha-(1->3)-D-Glc-beta-(1->4)-D-Glc-alpha-1-diphospho-ditrans,octacis-undecaprenol	GDP	R09734	white
+acyltransferase	2.3.1.-	D-Man-beta-(1->4)-GlcA-beta-(1->2)-D-Man-alpha-(1->3)-D-Glc-beta-(1->4)-D-Glc-alpha-1-diphospho-ditrans,octacis-undecaprenol	D-GlcA-beta-(1->2)-D-Man-alpha-(1->3)-D-Glc-beta-(1->4)-D-Glc-alpha-1-diphospho-ditrans,octacis-undecaprenol	R09734	white
+acyltransferase	2.3.1.-	D-Man-beta-(1->4)-GlcA-beta-(1->2)-D-Man-alpha-(1->3)-D-Glc-beta-(1->4)-D-Glc-alpha-1-diphospho-ditrans,octacis-undecaprenol	GDP-mannose	R09734	white
+acyltransferase	2.3.1.-	GDP	D-GlcA-beta-(1->2)-D-Man-alpha-(1->3)-D-Glc-beta-(1->4)-D-Glc-alpha-1-diphospho-ditrans,octacis-undecaprenol	R09734	white
+acyltransferase	2.3.1.-	GDP	GDP-mannose	R09734	white
+acyltransferase	2.3.1.-	GDP-mannose	D-Man-beta-(1->4)-GlcA-beta-(1->2)-D-Man-alpha-(1->3)-D-Glc-beta-(1->4)-D-Glc-alpha-1-diphospho-ditrans,octacis-undecaprenol	R09734	white
+acyltransferase	2.3.1.-	GDP-mannose	GDP	R09734	white
+aminotransferase	2.6.1.-	2-Oxoglutarate	L-Glutamate	R04467	white
+aminotransferase	2.6.1.-	2-Oxoglutarate	N-Acetyl-L-2-amino-6-oxopimelate	R04467	white
+aminotransferase	2.6.1.-	L-Glutamate	2-Oxoglutarate	R04467	white
+aminotransferase	2.6.1.-	L-Glutamate	N6-Acetyl-LL-2,6-diaminoheptanedioate	R04467	white
+aminotransferase	2.6.1.-	N-Acetyl-L-2-amino-6-oxopimelate	2-Oxoglutarate	R04467	white
+aminotransferase	2.6.1.-	N-Acetyl-L-2-amino-6-oxopimelate	N6-Acetyl-LL-2,6-diaminoheptanedioate	R04467	white
+aminotransferase	2.6.1.-	N6-Acetyl-LL-2,6-diaminoheptanedioate	L-Glutamate	R04467	white
+aminotransferase	2.6.1.-	N6-Acetyl-LL-2,6-diaminoheptanedioate	N-Acetyl-L-2-amino-6-oxopimelate	R04467	white
+benzoxazolinate moiety biosynthesis protein SgcD5	1.3.8.16	3,4-Dihydro-2-methylene-3-oxo-2H-1,4-benzoxazine-5-carboxylate	3-(1-Carboxyvinyloxy)anthranilate	R11362	white
+benzoxazolinate moiety biosynthesis protein SgcD5	1.3.8.16	3-(1-Carboxyvinyloxy)anthranilate	3,4-Dihydro-2-methylene-3-oxo-2H-1,4-benzoxazine-5-carboxylate	R11362	white
+calicheamicin 3'-O-methyl-rhamnosyltransferase	2.4.1.-	Calicheamicin alpha1(I)	Calicheamicin gamma(1)I	R11422	white
+calicheamicin 3'-O-methyl-rhamnosyltransferase	2.4.1.-	Calicheamicin alpha1(I)	dTDP	R11422	white
+calicheamicin 3'-O-methyl-rhamnosyltransferase	2.4.1.-	Calicheamicin gamma(1)I	Calicheamicin alpha1(I)	R11422	white
+calicheamicin 3'-O-methyl-rhamnosyltransferase	2.4.1.-	Calicheamicin gamma(1)I	dTDP-3-O-methyl-beta-L-rhamnose	R11422	white
+calicheamicin 3'-O-methyl-rhamnosyltransferase	2.4.1.-	dTDP	Calicheamicin alpha1(I)	R11422	white
+calicheamicin 3'-O-methyl-rhamnosyltransferase	2.4.1.-	dTDP	dTDP-3-O-methyl-beta-L-rhamnose	R11422	white
+calicheamicin 3'-O-methyl-rhamnosyltransferase	2.4.1.-	dTDP-3-O-methyl-beta-L-rhamnose	Calicheamicin gamma(1)I	R11422	white
+calicheamicin 3'-O-methyl-rhamnosyltransferase	2.4.1.-	dTDP-3-O-methyl-beta-L-rhamnose	dTDP	R11422	white
+calicheamicin 4-deoxy-4-thio-alpha-D-digitoxosyltransferase	2.4.1.-	4-Deoxy-4-thio-alpha-D-digitoxosyl-calicheamicin T0	Calicheamicin T0	R11418	white
+calicheamicin 4-deoxy-4-thio-alpha-D-digitoxosyltransferase	2.4.1.-	4-Deoxy-4-thio-alpha-D-digitoxosyl-calicheamicin T0	dTDP-4-deoxy-4-thio-alpha-D-digitoxose	R11418	white
+calicheamicin 4-deoxy-4-thio-alpha-D-digitoxosyltransferase	2.4.1.-	Calicheamicin T0	4-Deoxy-4-thio-alpha-D-digitoxosyl-calicheamicin T0	R11418	white
+calicheamicin 4-deoxy-4-thio-alpha-D-digitoxosyltransferase	2.4.1.-	Calicheamicin T0	dTDP	R11418	white
+calicheamicin 4-deoxy-4-thio-alpha-D-digitoxosyltransferase	2.4.1.-	dTDP	Calicheamicin T0	R11418	white
+calicheamicin 4-deoxy-4-thio-alpha-D-digitoxosyltransferase	2.4.1.-	dTDP	dTDP-4-deoxy-4-thio-alpha-D-digitoxose	R11418	white
+calicheamicin 4-deoxy-4-thio-alpha-D-digitoxosyltransferase	2.4.1.-	dTDP-4-deoxy-4-thio-alpha-D-digitoxose	4-Deoxy-4-thio-alpha-D-digitoxosyl-calicheamicin T0	R11418	white
+calicheamicin 4-deoxy-4-thio-alpha-D-digitoxosyltransferase	2.4.1.-	dTDP-4-deoxy-4-thio-alpha-D-digitoxose	dTDP	R11418	white
+calicheamicin aminopentosyltransferase	2.4.2.-	Calicheamicin PsAg	Calicheamicin alpha1(I)	R11420	white
+calicheamicin aminopentosyltransferase	2.4.2.-	Calicheamicin PsAg	dTDP	R11420	white
+calicheamicin aminopentosyltransferase	2.4.2.-	Calicheamicin alpha1(I)	Calicheamicin PsAg	R11420	white
+calicheamicin aminopentosyltransferase	2.4.2.-	Calicheamicin alpha1(I)	dTDP-4-ethylamino-3-O-methyl-2,4-dideoxy-L-threo-pentopyranose	R11420	white
+calicheamicin aminopentosyltransferase	2.4.2.-	dTDP	Calicheamicin PsAg	R11420	white
+calicheamicin aminopentosyltransferase	2.4.2.-	dTDP	dTDP-4-ethylamino-3-O-methyl-2,4-dideoxy-L-threo-pentopyranose	R11420	white
+calicheamicin aminopentosyltransferase	2.4.2.-	dTDP-4-ethylamino-3-O-methyl-2,4-dideoxy-L-threo-pentopyranose	Calicheamicin alpha1(I)	R11420	white
+calicheamicin aminopentosyltransferase	2.4.2.-	dTDP-4-ethylamino-3-O-methyl-2,4-dideoxy-L-threo-pentopyranose	dTDP	R11420	white
+calicheamicinone 4-hydroxyamino-4,6-dideoxy-alpha-D-glucosyltransferase	2.4.1.-	Calicheamicin T0	Calicheamicinone	R11417	white
+calicheamicinone 4-hydroxyamino-4,6-dideoxy-alpha-D-glucosyltransferase	2.4.1.-	Calicheamicin T0	dTDP-4-hydroxyamino-4,6-dideoxy-alpha-D-glucose	R11417	white
+calicheamicinone 4-hydroxyamino-4,6-dideoxy-alpha-D-glucosyltransferase	2.4.1.-	Calicheamicinone	Calicheamicin T0	R11417	white
+calicheamicinone 4-hydroxyamino-4,6-dideoxy-alpha-D-glucosyltransferase	2.4.1.-	Calicheamicinone	dTDP	R11417	white
+calicheamicinone 4-hydroxyamino-4,6-dideoxy-alpha-D-glucosyltransferase	2.4.1.-	dTDP	Calicheamicinone	R11417	white
+calicheamicinone 4-hydroxyamino-4,6-dideoxy-alpha-D-glucosyltransferase	2.4.1.-	dTDP	dTDP-4-hydroxyamino-4,6-dideoxy-alpha-D-glucose	R11417	white
+calicheamicinone 4-hydroxyamino-4,6-dideoxy-alpha-D-glucosyltransferase	2.4.1.-	dTDP-4-hydroxyamino-4,6-dideoxy-alpha-D-glucose	Calicheamicin T0	R11417	white
+calicheamicinone 4-hydroxyamino-4,6-dideoxy-alpha-D-glucosyltransferase	2.4.1.-	dTDP-4-hydroxyamino-4,6-dideoxy-alpha-D-glucose	dTDP	R11417	white
+condensation enzyme	2.4.1.-	(S)-3-Chloro-4,5-dihydroxy-beta-phenylalanyl-[pcp]	(S)-3-Chloro-beta-tyrosyl-[pcp]	R10731	white
+condensation enzyme	2.4.1.-	(S)-3-Chloro-4,5-dihydroxy-beta-phenylalanyl-[pcp]	FADH2	R10731	white
+condensation enzyme	2.4.1.-	(S)-3-Chloro-4,5-dihydroxy-beta-phenylalanyl-[pcp]	Oxygen	R10731	white
+condensation enzyme	2.4.1.-	(S)-3-Chloro-beta-tyrosyl-[pcp]	(S)-3-Chloro-4,5-dihydroxy-beta-phenylalanyl-[pcp]	R10731	white
+condensation enzyme	2.4.1.-	(S)-3-Chloro-beta-tyrosyl-[pcp]	FAD	R10731	white
+condensation enzyme	2.4.1.-	(S)-3-Chloro-beta-tyrosyl-[pcp]	H2O	R10731	white
+condensation enzyme	2.4.1.-	FAD	(S)-3-Chloro-beta-tyrosyl-[pcp]	R10731	white
+condensation enzyme	2.4.1.-	FAD	FADH2	R10731	white
+condensation enzyme	2.4.1.-	FAD	Oxygen	R10731	white
+condensation enzyme	2.4.1.-	FADH2	(S)-3-Chloro-4,5-dihydroxy-beta-phenylalanyl-[pcp]	R10731	white
+condensation enzyme	2.4.1.-	FADH2	FAD	R10731	white
+condensation enzyme	2.4.1.-	FADH2	H2O	R10731	white
+condensation enzyme	2.4.1.-	H2O	(S)-3-Chloro-beta-tyrosyl-[pcp]	R10731	white
+condensation enzyme	2.4.1.-	H2O	FADH2	R10731	white
+condensation enzyme	2.4.1.-	H2O	Oxygen	R10731	white
+condensation enzyme	2.4.1.-	Oxygen	(S)-3-Chloro-4,5-dihydroxy-beta-phenylalanyl-[pcp]	R10731	white
+condensation enzyme	2.4.1.-	Oxygen	FAD	R10731	white
+condensation enzyme	2.4.1.-	Oxygen	H2O	R10731	white
+cytochrome P450 hydroxylase	1.14.-.-	3,4-Dihydro-2-methylene-3-oxo-2H-1,4-benzoxazine-5-carboxylate	3,4-Dihydro-7-hydroxy-2-methylene-3-oxo-2H-1,4-benzoxazine-5-carboxylate	R11363	white
+cytochrome P450 hydroxylase	1.14.-.-	3,4-Dihydro-7-hydroxy-2-methylene-3-oxo-2H-1,4-benzoxazine-5-carboxylate	3,4-Dihydro-2-methylene-3-oxo-2H-1,4-benzoxazine-5-carboxylate	R11363	white
+cytochrome P450 monooxygenase	1.14.-.-	3,6,7,8-Tetrahydroxy-2-naphthoate	3,6,8-Trihydroxy-2-naphthoate	R11387	white
+cytochrome P450 monooxygenase	1.14.-.-	3,6,7,8-Tetrahydroxy-2-naphthoate	Oxygen	R11387	white
+cytochrome P450 monooxygenase	1.14.-.-	3,6,7,8-Tetrahydroxy-2-naphthoate	Reduced acceptor	R11387	white
+cytochrome P450 monooxygenase	1.14.-.-	3,6,8-Trihydroxy-2-naphthoate	3,6,7,8-Tetrahydroxy-2-naphthoate	R11387	white
+cytochrome P450 monooxygenase	1.14.-.-	3,6,8-Trihydroxy-2-naphthoate	Acceptor	R11387	white
+cytochrome P450 monooxygenase	1.14.-.-	3,6,8-Trihydroxy-2-naphthoate	H2O	R11387	white
+cytochrome P450 monooxygenase	1.14.-.-	Acceptor	3,6,8-Trihydroxy-2-naphthoate	R11387	white
+cytochrome P450 monooxygenase	1.14.-.-	Acceptor	Oxygen	R11387	white
+cytochrome P450 monooxygenase	1.14.-.-	Acceptor	Reduced acceptor	R11387	white
+cytochrome P450 monooxygenase	1.14.-.-	H2O	3,6,8-Trihydroxy-2-naphthoate	R11387	white
+cytochrome P450 monooxygenase	1.14.-.-	H2O	Oxygen	R11387	white
+cytochrome P450 monooxygenase	1.14.-.-	H2O	Reduced acceptor	R11387	white
+cytochrome P450 monooxygenase	1.14.-.-	Oxygen	3,6,7,8-Tetrahydroxy-2-naphthoate	R11387	white
+cytochrome P450 monooxygenase	1.14.-.-	Oxygen	Acceptor	R11387	white
+cytochrome P450 monooxygenase	1.14.-.-	Oxygen	H2O	R11387	white
+cytochrome P450 monooxygenase	1.14.-.-	Reduced acceptor	3,6,7,8-Tetrahydroxy-2-naphthoate	R11387	white
+cytochrome P450 monooxygenase	1.14.-.-	Reduced acceptor	Acceptor	R11387	white
+cytochrome P450 monooxygenase	1.14.-.-	Reduced acceptor	H2O	R11387	white
+dehydrogenase	1.14.14.15	(S)-3-Chloro-4,5-dihydroxy-beta-phenylalanyl-[pcp]	(S)-3-Chloro-beta-tyrosyl-[pcp]	R10731	white
+dehydrogenase	1.14.14.15	(S)-3-Chloro-4,5-dihydroxy-beta-phenylalanyl-[pcp]	FADH2	R10731	white
+dehydrogenase	1.14.14.15	(S)-3-Chloro-4,5-dihydroxy-beta-phenylalanyl-[pcp]	Oxygen	R10731	white
+dehydrogenase	1.14.14.15	(S)-3-Chloro-beta-tyrosyl-[pcp]	(S)-3-Chloro-4,5-dihydroxy-beta-phenylalanyl-[pcp]	R10731	white
+dehydrogenase	1.14.14.15	(S)-3-Chloro-beta-tyrosyl-[pcp]	FAD	R10731	white
+dehydrogenase	1.14.14.15	(S)-3-Chloro-beta-tyrosyl-[pcp]	H2O	R10731	white
+dehydrogenase	1.14.14.15	FAD	(S)-3-Chloro-beta-tyrosyl-[pcp]	R10731	white
+dehydrogenase	1.14.14.15	FAD	FADH2	R10731	white
+dehydrogenase	1.14.14.15	FAD	Oxygen	R10731	white
+dehydrogenase	1.14.14.15	FADH2	(S)-3-Chloro-4,5-dihydroxy-beta-phenylalanyl-[pcp]	R10731	white
+dehydrogenase	1.14.14.15	FADH2	FAD	R10731	white
+dehydrogenase	1.14.14.15	FADH2	H2O	R10731	white
+dehydrogenase	1.14.14.15	H2O	(S)-3-Chloro-beta-tyrosyl-[pcp]	R10731	white
+dehydrogenase	1.14.14.15	H2O	FADH2	R10731	white
+dehydrogenase	1.14.14.15	H2O	Oxygen	R10731	white
+dehydrogenase	1.14.14.15	Oxygen	(S)-3-Chloro-4,5-dihydroxy-beta-phenylalanyl-[pcp]	R10731	white
+dehydrogenase	1.14.14.15	Oxygen	FAD	R10731	white
+dehydrogenase	1.14.14.15	Oxygen	H2O	R10731	white
+enediyne biosynthesis protein CalE1	2.4.1.-	(S)-3-Chloro-4,5-dihydroxy-beta-phenylalanyl-[pcp]	(S)-3-Chloro-beta-tyrosyl-[pcp]	R10731	white
+enediyne biosynthesis protein CalE1	2.4.1.-	(S)-3-Chloro-4,5-dihydroxy-beta-phenylalanyl-[pcp]	FADH2	R10731	white
+enediyne biosynthesis protein CalE1	2.4.1.-	(S)-3-Chloro-4,5-dihydroxy-beta-phenylalanyl-[pcp]	Oxygen	R10731	white
+enediyne biosynthesis protein CalE1	2.4.1.-	(S)-3-Chloro-beta-tyrosyl-[pcp]	(S)-3-Chloro-4,5-dihydroxy-beta-phenylalanyl-[pcp]	R10731	white
+enediyne biosynthesis protein CalE1	2.4.1.-	(S)-3-Chloro-beta-tyrosyl-[pcp]	FAD	R10731	white
+enediyne biosynthesis protein CalE1	2.4.1.-	(S)-3-Chloro-beta-tyrosyl-[pcp]	H2O	R10731	white
+enediyne biosynthesis protein CalE1	2.4.1.-	FAD	(S)-3-Chloro-beta-tyrosyl-[pcp]	R10731	white
+enediyne biosynthesis protein CalE1	2.4.1.-	FAD	FADH2	R10731	white
+enediyne biosynthesis protein CalE1	2.4.1.-	FAD	Oxygen	R10731	white
+enediyne biosynthesis protein CalE1	2.4.1.-	FADH2	(S)-3-Chloro-4,5-dihydroxy-beta-phenylalanyl-[pcp]	R10731	white
+enediyne biosynthesis protein CalE1	2.4.1.-	FADH2	FAD	R10731	white
+enediyne biosynthesis protein CalE1	2.4.1.-	FADH2	H2O	R10731	white
+enediyne biosynthesis protein CalE1	2.4.1.-	H2O	(S)-3-Chloro-beta-tyrosyl-[pcp]	R10731	white
+enediyne biosynthesis protein CalE1	2.4.1.-	H2O	FADH2	R10731	white
+enediyne biosynthesis protein CalE1	2.4.1.-	H2O	Oxygen	R10731	white
+enediyne biosynthesis protein CalE1	2.4.1.-	Oxygen	(S)-3-Chloro-4,5-dihydroxy-beta-phenylalanyl-[pcp]	R10731	white
+enediyne biosynthesis protein CalE1	2.4.1.-	Oxygen	FAD	R10731	white
+enediyne biosynthesis protein CalE1	2.4.1.-	Oxygen	H2O	R10731	white
+enediyne biosynthesis protein CalE2	2.4.1.-	(S)-3-Chloro-4,5-dihydroxy-beta-phenylalanyl-[pcp]	(S)-3-Chloro-beta-tyrosyl-[pcp]	R10731	white
+enediyne biosynthesis protein CalE2	2.4.1.-	(S)-3-Chloro-4,5-dihydroxy-beta-phenylalanyl-[pcp]	FADH2	R10731	white
+enediyne biosynthesis protein CalE2	2.4.1.-	(S)-3-Chloro-4,5-dihydroxy-beta-phenylalanyl-[pcp]	Oxygen	R10731	white
+enediyne biosynthesis protein CalE2	2.4.1.-	(S)-3-Chloro-beta-tyrosyl-[pcp]	(S)-3-Chloro-4,5-dihydroxy-beta-phenylalanyl-[pcp]	R10731	white
+enediyne biosynthesis protein CalE2	2.4.1.-	(S)-3-Chloro-beta-tyrosyl-[pcp]	FAD	R10731	white
+enediyne biosynthesis protein CalE2	2.4.1.-	(S)-3-Chloro-beta-tyrosyl-[pcp]	H2O	R10731	white
+enediyne biosynthesis protein CalE2	2.4.1.-	FAD	(S)-3-Chloro-beta-tyrosyl-[pcp]	R10731	white
+enediyne biosynthesis protein CalE2	2.4.1.-	FAD	FADH2	R10731	white
+enediyne biosynthesis protein CalE2	2.4.1.-	FAD	Oxygen	R10731	white
+enediyne biosynthesis protein CalE2	2.4.1.-	FADH2	(S)-3-Chloro-4,5-dihydroxy-beta-phenylalanyl-[pcp]	R10731	white
+enediyne biosynthesis protein CalE2	2.4.1.-	FADH2	FAD	R10731	white
+enediyne biosynthesis protein CalE2	2.4.1.-	FADH2	H2O	R10731	white
+enediyne biosynthesis protein CalE2	2.4.1.-	H2O	(S)-3-Chloro-beta-tyrosyl-[pcp]	R10731	white
+enediyne biosynthesis protein CalE2	2.4.1.-	H2O	FADH2	R10731	white
+enediyne biosynthesis protein CalE2	2.4.1.-	H2O	Oxygen	R10731	white
+enediyne biosynthesis protein CalE2	2.4.1.-	Oxygen	(S)-3-Chloro-4,5-dihydroxy-beta-phenylalanyl-[pcp]	R10731	white
+enediyne biosynthesis protein CalE2	2.4.1.-	Oxygen	FAD	R10731	white
+enediyne biosynthesis protein CalE2	2.4.1.-	Oxygen	H2O	R10731	white
+enediyne biosynthesis protein CalE3	2.4.1.-	(S)-3-Chloro-4,5-dihydroxy-beta-phenylalanyl-[pcp]	(S)-3-Chloro-beta-tyrosyl-[pcp]	R10731	white
+enediyne biosynthesis protein CalE3	2.4.1.-	(S)-3-Chloro-4,5-dihydroxy-beta-phenylalanyl-[pcp]	FADH2	R10731	white
+enediyne biosynthesis protein CalE3	2.4.1.-	(S)-3-Chloro-4,5-dihydroxy-beta-phenylalanyl-[pcp]	Oxygen	R10731	white
+enediyne biosynthesis protein CalE3	2.4.1.-	(S)-3-Chloro-beta-tyrosyl-[pcp]	(S)-3-Chloro-4,5-dihydroxy-beta-phenylalanyl-[pcp]	R10731	white
+enediyne biosynthesis protein CalE3	2.4.1.-	(S)-3-Chloro-beta-tyrosyl-[pcp]	FAD	R10731	white
+enediyne biosynthesis protein CalE3	2.4.1.-	(S)-3-Chloro-beta-tyrosyl-[pcp]	H2O	R10731	white
+enediyne biosynthesis protein CalE3	2.4.1.-	FAD	(S)-3-Chloro-beta-tyrosyl-[pcp]	R10731	white
+enediyne biosynthesis protein CalE3	2.4.1.-	FAD	FADH2	R10731	white
+enediyne biosynthesis protein CalE3	2.4.1.-	FAD	Oxygen	R10731	white
+enediyne biosynthesis protein CalE3	2.4.1.-	FADH2	(S)-3-Chloro-4,5-dihydroxy-beta-phenylalanyl-[pcp]	R10731	white
+enediyne biosynthesis protein CalE3	2.4.1.-	FADH2	FAD	R10731	white
+enediyne biosynthesis protein CalE3	2.4.1.-	FADH2	H2O	R10731	white
+enediyne biosynthesis protein CalE3	2.4.1.-	H2O	(S)-3-Chloro-beta-tyrosyl-[pcp]	R10731	white
+enediyne biosynthesis protein CalE3	2.4.1.-	H2O	FADH2	R10731	white
+enediyne biosynthesis protein CalE3	2.4.1.-	H2O	Oxygen	R10731	white
+enediyne biosynthesis protein CalE3	2.4.1.-	Oxygen	(S)-3-Chloro-4,5-dihydroxy-beta-phenylalanyl-[pcp]	R10731	white
+enediyne biosynthesis protein CalE3	2.4.1.-	Oxygen	FAD	R10731	white
+enediyne biosynthesis protein CalE3	2.4.1.-	Oxygen	H2O	R10731	white
+enediyne biosynthesis protein CalE4	2.4.1.-	(S)-3-Chloro-4,5-dihydroxy-beta-phenylalanyl-[pcp]	(S)-3-Chloro-beta-tyrosyl-[pcp]	R10731	white
+enediyne biosynthesis protein CalE4	2.4.1.-	(S)-3-Chloro-4,5-dihydroxy-beta-phenylalanyl-[pcp]	FADH2	R10731	white
+enediyne biosynthesis protein CalE4	2.4.1.-	(S)-3-Chloro-4,5-dihydroxy-beta-phenylalanyl-[pcp]	Oxygen	R10731	white
+enediyne biosynthesis protein CalE4	2.4.1.-	(S)-3-Chloro-beta-tyrosyl-[pcp]	(S)-3-Chloro-4,5-dihydroxy-beta-phenylalanyl-[pcp]	R10731	white
+enediyne biosynthesis protein CalE4	2.4.1.-	(S)-3-Chloro-beta-tyrosyl-[pcp]	FAD	R10731	white
+enediyne biosynthesis protein CalE4	2.4.1.-	(S)-3-Chloro-beta-tyrosyl-[pcp]	H2O	R10731	white
+enediyne biosynthesis protein CalE4	2.4.1.-	FAD	(S)-3-Chloro-beta-tyrosyl-[pcp]	R10731	white
+enediyne biosynthesis protein CalE4	2.4.1.-	FAD	FADH2	R10731	white
+enediyne biosynthesis protein CalE4	2.4.1.-	FAD	Oxygen	R10731	white
+enediyne biosynthesis protein CalE4	2.4.1.-	FADH2	(S)-3-Chloro-4,5-dihydroxy-beta-phenylalanyl-[pcp]	R10731	white
+enediyne biosynthesis protein CalE4	2.4.1.-	FADH2	FAD	R10731	white
+enediyne biosynthesis protein CalE4	2.4.1.-	FADH2	H2O	R10731	white
+enediyne biosynthesis protein CalE4	2.4.1.-	H2O	(S)-3-Chloro-beta-tyrosyl-[pcp]	R10731	white
+enediyne biosynthesis protein CalE4	2.4.1.-	H2O	FADH2	R10731	white
+enediyne biosynthesis protein CalE4	2.4.1.-	H2O	Oxygen	R10731	white
+enediyne biosynthesis protein CalE4	2.4.1.-	Oxygen	(S)-3-Chloro-4,5-dihydroxy-beta-phenylalanyl-[pcp]	R10731	white
+enediyne biosynthesis protein CalE4	2.4.1.-	Oxygen	FAD	R10731	white
+enediyne biosynthesis protein CalE4	2.4.1.-	Oxygen	H2O	R10731	white
+enediyne biosynthesis protein CalE5	2.4.1.-	(S)-3-Chloro-4,5-dihydroxy-beta-phenylalanyl-[pcp]	(S)-3-Chloro-beta-tyrosyl-[pcp]	R10731	white
+enediyne biosynthesis protein CalE5	2.4.1.-	(S)-3-Chloro-4,5-dihydroxy-beta-phenylalanyl-[pcp]	FADH2	R10731	white
+enediyne biosynthesis protein CalE5	2.4.1.-	(S)-3-Chloro-4,5-dihydroxy-beta-phenylalanyl-[pcp]	Oxygen	R10731	white
+enediyne biosynthesis protein CalE5	2.4.1.-	(S)-3-Chloro-beta-tyrosyl-[pcp]	(S)-3-Chloro-4,5-dihydroxy-beta-phenylalanyl-[pcp]	R10731	white
+enediyne biosynthesis protein CalE5	2.4.1.-	(S)-3-Chloro-beta-tyrosyl-[pcp]	FAD	R10731	white
+enediyne biosynthesis protein CalE5	2.4.1.-	(S)-3-Chloro-beta-tyrosyl-[pcp]	H2O	R10731	white
+enediyne biosynthesis protein CalE5	2.4.1.-	FAD	(S)-3-Chloro-beta-tyrosyl-[pcp]	R10731	white
+enediyne biosynthesis protein CalE5	2.4.1.-	FAD	FADH2	R10731	white
+enediyne biosynthesis protein CalE5	2.4.1.-	FAD	Oxygen	R10731	white
+enediyne biosynthesis protein CalE5	2.4.1.-	FADH2	(S)-3-Chloro-4,5-dihydroxy-beta-phenylalanyl-[pcp]	R10731	white
+enediyne biosynthesis protein CalE5	2.4.1.-	FADH2	FAD	R10731	white
+enediyne biosynthesis protein CalE5	2.4.1.-	FADH2	H2O	R10731	white
+enediyne biosynthesis protein CalE5	2.4.1.-	H2O	(S)-3-Chloro-beta-tyrosyl-[pcp]	R10731	white
+enediyne biosynthesis protein CalE5	2.4.1.-	H2O	FADH2	R10731	white
+enediyne biosynthesis protein CalE5	2.4.1.-	H2O	Oxygen	R10731	white
+enediyne biosynthesis protein CalE5	2.4.1.-	Oxygen	(S)-3-Chloro-4,5-dihydroxy-beta-phenylalanyl-[pcp]	R10731	white
+enediyne biosynthesis protein CalE5	2.4.1.-	Oxygen	FAD	R10731	white
+enediyne biosynthesis protein CalE5	2.4.1.-	Oxygen	H2O	R10731	white
+enediyne biosynthesis protein CalE9	2.4.1.-	(S)-3-Chloro-4,5-dihydroxy-beta-phenylalanyl-[pcp]	(S)-3-Chloro-beta-tyrosyl-[pcp]	R10731	white
+enediyne biosynthesis protein CalE9	2.4.1.-	(S)-3-Chloro-4,5-dihydroxy-beta-phenylalanyl-[pcp]	FADH2	R10731	white
+enediyne biosynthesis protein CalE9	2.4.1.-	(S)-3-Chloro-4,5-dihydroxy-beta-phenylalanyl-[pcp]	Oxygen	R10731	white
+enediyne biosynthesis protein CalE9	2.4.1.-	(S)-3-Chloro-beta-tyrosyl-[pcp]	(S)-3-Chloro-4,5-dihydroxy-beta-phenylalanyl-[pcp]	R10731	white
+enediyne biosynthesis protein CalE9	2.4.1.-	(S)-3-Chloro-beta-tyrosyl-[pcp]	FAD	R10731	white
+enediyne biosynthesis protein CalE9	2.4.1.-	(S)-3-Chloro-beta-tyrosyl-[pcp]	H2O	R10731	white
+enediyne biosynthesis protein CalE9	2.4.1.-	FAD	(S)-3-Chloro-beta-tyrosyl-[pcp]	R10731	white
+enediyne biosynthesis protein CalE9	2.4.1.-	FAD	FADH2	R10731	white
+enediyne biosynthesis protein CalE9	2.4.1.-	FAD	Oxygen	R10731	white
+enediyne biosynthesis protein CalE9	2.4.1.-	FADH2	(S)-3-Chloro-4,5-dihydroxy-beta-phenylalanyl-[pcp]	R10731	white
+enediyne biosynthesis protein CalE9	2.4.1.-	FADH2	FAD	R10731	white
+enediyne biosynthesis protein CalE9	2.4.1.-	FADH2	H2O	R10731	white
+enediyne biosynthesis protein CalE9	2.4.1.-	H2O	(S)-3-Chloro-beta-tyrosyl-[pcp]	R10731	white
+enediyne biosynthesis protein CalE9	2.4.1.-	H2O	FADH2	R10731	white
+enediyne biosynthesis protein CalE9	2.4.1.-	H2O	Oxygen	R10731	white
+enediyne biosynthesis protein CalE9	2.4.1.-	Oxygen	(S)-3-Chloro-4,5-dihydroxy-beta-phenylalanyl-[pcp]	R10731	white
+enediyne biosynthesis protein CalE9	2.4.1.-	Oxygen	FAD	R10731	white
+enediyne biosynthesis protein CalE9	2.4.1.-	Oxygen	H2O	R10731	white
+enediyne biosynthesis protein E11	6.2.1.-	6-Methylsalicylate	6-Methylsalicylyl-CoA	R11370	white
+enediyne biosynthesis protein E11	6.2.1.-	6-Methylsalicylate	AMP	R11370	white
+enediyne biosynthesis protein E11	6.2.1.-	6-Methylsalicylate	Diphosphate	R11370	white
+enediyne biosynthesis protein E11	6.2.1.-	6-Methylsalicylyl-CoA	6-Methylsalicylate	R11370	white
+enediyne biosynthesis protein E11	6.2.1.-	6-Methylsalicylyl-CoA	ATP	R11370	white
+enediyne biosynthesis protein E11	6.2.1.-	6-Methylsalicylyl-CoA	CoA	R11370	white
+enediyne biosynthesis protein E11	6.2.1.-	AMP	6-Methylsalicylate	R11370	white
+enediyne biosynthesis protein E11	6.2.1.-	AMP	ATP	R11370	white
+enediyne biosynthesis protein E11	6.2.1.-	AMP	CoA	R11370	white
+enediyne biosynthesis protein E11	6.2.1.-	ATP	6-Methylsalicylyl-CoA	R11370	white
+enediyne biosynthesis protein E11	6.2.1.-	ATP	AMP	R11370	white
+enediyne biosynthesis protein E11	6.2.1.-	ATP	Diphosphate	R11370	white
+enediyne biosynthesis protein E11	6.2.1.-	CoA	6-Methylsalicylyl-CoA	R11370	white
+enediyne biosynthesis protein E11	6.2.1.-	CoA	AMP	R11370	white
+enediyne biosynthesis protein E11	6.2.1.-	CoA	Diphosphate	R11370	white
+enediyne biosynthesis protein E11	6.2.1.-	Diphosphate	6-Methylsalicylate	R11370	white
+enediyne biosynthesis protein E11	6.2.1.-	Diphosphate	ATP	R11370	white
+enediyne biosynthesis protein E11	6.2.1.-	Diphosphate	CoA	R11370	white
+enediyne biosynthesis protein E2	6.2.1.-	6-Methylsalicylate	6-Methylsalicylyl-CoA	R11370	white
+enediyne biosynthesis protein E2	6.2.1.-	6-Methylsalicylate	AMP	R11370	white
+enediyne biosynthesis protein E2	6.2.1.-	6-Methylsalicylate	Diphosphate	R11370	white
+enediyne biosynthesis protein E2	6.2.1.-	6-Methylsalicylyl-CoA	6-Methylsalicylate	R11370	white
+enediyne biosynthesis protein E2	6.2.1.-	6-Methylsalicylyl-CoA	ATP	R11370	white
+enediyne biosynthesis protein E2	6.2.1.-	6-Methylsalicylyl-CoA	CoA	R11370	white
+enediyne biosynthesis protein E2	6.2.1.-	AMP	6-Methylsalicylate	R11370	white
+enediyne biosynthesis protein E2	6.2.1.-	AMP	ATP	R11370	white
+enediyne biosynthesis protein E2	6.2.1.-	AMP	CoA	R11370	white
+enediyne biosynthesis protein E2	6.2.1.-	ATP	6-Methylsalicylyl-CoA	R11370	white
+enediyne biosynthesis protein E2	6.2.1.-	ATP	AMP	R11370	white
+enediyne biosynthesis protein E2	6.2.1.-	ATP	Diphosphate	R11370	white
+enediyne biosynthesis protein E2	6.2.1.-	CoA	6-Methylsalicylyl-CoA	R11370	white
+enediyne biosynthesis protein E2	6.2.1.-	CoA	AMP	R11370	white
+enediyne biosynthesis protein E2	6.2.1.-	CoA	Diphosphate	R11370	white
+enediyne biosynthesis protein E2	6.2.1.-	Diphosphate	6-Methylsalicylate	R11370	white
+enediyne biosynthesis protein E2	6.2.1.-	Diphosphate	ATP	R11370	white
+enediyne biosynthesis protein E2	6.2.1.-	Diphosphate	CoA	R11370	white
+enediyne biosynthesis protein E3	6.2.1.-	6-Methylsalicylate	6-Methylsalicylyl-CoA	R11370	white
+enediyne biosynthesis protein E3	6.2.1.-	6-Methylsalicylate	AMP	R11370	white
+enediyne biosynthesis protein E3	6.2.1.-	6-Methylsalicylate	Diphosphate	R11370	white
+enediyne biosynthesis protein E3	6.2.1.-	6-Methylsalicylyl-CoA	6-Methylsalicylate	R11370	white
+enediyne biosynthesis protein E3	6.2.1.-	6-Methylsalicylyl-CoA	ATP	R11370	white
+enediyne biosynthesis protein E3	6.2.1.-	6-Methylsalicylyl-CoA	CoA	R11370	white
+enediyne biosynthesis protein E3	6.2.1.-	AMP	6-Methylsalicylate	R11370	white
+enediyne biosynthesis protein E3	6.2.1.-	AMP	ATP	R11370	white
+enediyne biosynthesis protein E3	6.2.1.-	AMP	CoA	R11370	white
+enediyne biosynthesis protein E3	6.2.1.-	ATP	6-Methylsalicylyl-CoA	R11370	white
+enediyne biosynthesis protein E3	6.2.1.-	ATP	AMP	R11370	white
+enediyne biosynthesis protein E3	6.2.1.-	ATP	Diphosphate	R11370	white
+enediyne biosynthesis protein E3	6.2.1.-	CoA	6-Methylsalicylyl-CoA	R11370	white
+enediyne biosynthesis protein E3	6.2.1.-	CoA	AMP	R11370	white
+enediyne biosynthesis protein E3	6.2.1.-	CoA	Diphosphate	R11370	white
+enediyne biosynthesis protein E3	6.2.1.-	Diphosphate	6-Methylsalicylate	R11370	white
+enediyne biosynthesis protein E3	6.2.1.-	Diphosphate	ATP	R11370	white
+enediyne biosynthesis protein E3	6.2.1.-	Diphosphate	CoA	R11370	white
+enediyne biosynthesis protein E4	6.2.1.-	6-Methylsalicylate	6-Methylsalicylyl-CoA	R11370	white
+enediyne biosynthesis protein E4	6.2.1.-	6-Methylsalicylate	AMP	R11370	white
+enediyne biosynthesis protein E4	6.2.1.-	6-Methylsalicylate	Diphosphate	R11370	white
+enediyne biosynthesis protein E4	6.2.1.-	6-Methylsalicylyl-CoA	6-Methylsalicylate	R11370	white
+enediyne biosynthesis protein E4	6.2.1.-	6-Methylsalicylyl-CoA	ATP	R11370	white
+enediyne biosynthesis protein E4	6.2.1.-	6-Methylsalicylyl-CoA	CoA	R11370	white
+enediyne biosynthesis protein E4	6.2.1.-	AMP	6-Methylsalicylate	R11370	white
+enediyne biosynthesis protein E4	6.2.1.-	AMP	ATP	R11370	white
+enediyne biosynthesis protein E4	6.2.1.-	AMP	CoA	R11370	white
+enediyne biosynthesis protein E4	6.2.1.-	ATP	6-Methylsalicylyl-CoA	R11370	white
+enediyne biosynthesis protein E4	6.2.1.-	ATP	AMP	R11370	white
+enediyne biosynthesis protein E4	6.2.1.-	ATP	Diphosphate	R11370	white
+enediyne biosynthesis protein E4	6.2.1.-	CoA	6-Methylsalicylyl-CoA	R11370	white
+enediyne biosynthesis protein E4	6.2.1.-	CoA	AMP	R11370	white
+enediyne biosynthesis protein E4	6.2.1.-	CoA	Diphosphate	R11370	white
+enediyne biosynthesis protein E4	6.2.1.-	Diphosphate	6-Methylsalicylate	R11370	white
+enediyne biosynthesis protein E4	6.2.1.-	Diphosphate	ATP	R11370	white
+enediyne biosynthesis protein E4	6.2.1.-	Diphosphate	CoA	R11370	white
+enediyne biosynthesis protein E5	6.2.1.-	6-Methylsalicylate	6-Methylsalicylyl-CoA	R11370	white
+enediyne biosynthesis protein E5	6.2.1.-	6-Methylsalicylate	AMP	R11370	white
+enediyne biosynthesis protein E5	6.2.1.-	6-Methylsalicylate	Diphosphate	R11370	white
+enediyne biosynthesis protein E5	6.2.1.-	6-Methylsalicylyl-CoA	6-Methylsalicylate	R11370	white
+enediyne biosynthesis protein E5	6.2.1.-	6-Methylsalicylyl-CoA	ATP	R11370	white
+enediyne biosynthesis protein E5	6.2.1.-	6-Methylsalicylyl-CoA	CoA	R11370	white
+enediyne biosynthesis protein E5	6.2.1.-	AMP	6-Methylsalicylate	R11370	white
+enediyne biosynthesis protein E5	6.2.1.-	AMP	ATP	R11370	white
+enediyne biosynthesis protein E5	6.2.1.-	AMP	CoA	R11370	white
+enediyne biosynthesis protein E5	6.2.1.-	ATP	6-Methylsalicylyl-CoA	R11370	white
+enediyne biosynthesis protein E5	6.2.1.-	ATP	AMP	R11370	white
+enediyne biosynthesis protein E5	6.2.1.-	ATP	Diphosphate	R11370	white
+enediyne biosynthesis protein E5	6.2.1.-	CoA	6-Methylsalicylyl-CoA	R11370	white
+enediyne biosynthesis protein E5	6.2.1.-	CoA	AMP	R11370	white
+enediyne biosynthesis protein E5	6.2.1.-	CoA	Diphosphate	R11370	white
+enediyne biosynthesis protein E5	6.2.1.-	Diphosphate	6-Methylsalicylate	R11370	white
+enediyne biosynthesis protein E5	6.2.1.-	Diphosphate	ATP	R11370	white
+enediyne biosynthesis protein E5	6.2.1.-	Diphosphate	CoA	R11370	white
+enediyne biosynthesis protein E7	6.2.1.-	6-Methylsalicylate	6-Methylsalicylyl-CoA	R11370	white
+enediyne biosynthesis protein E7	6.2.1.-	6-Methylsalicylate	AMP	R11370	white
+enediyne biosynthesis protein E7	6.2.1.-	6-Methylsalicylate	Diphosphate	R11370	white
+enediyne biosynthesis protein E7	6.2.1.-	6-Methylsalicylyl-CoA	6-Methylsalicylate	R11370	white
+enediyne biosynthesis protein E7	6.2.1.-	6-Methylsalicylyl-CoA	ATP	R11370	white
+enediyne biosynthesis protein E7	6.2.1.-	6-Methylsalicylyl-CoA	CoA	R11370	white
+enediyne biosynthesis protein E7	6.2.1.-	AMP	6-Methylsalicylate	R11370	white
+enediyne biosynthesis protein E7	6.2.1.-	AMP	ATP	R11370	white
+enediyne biosynthesis protein E7	6.2.1.-	AMP	CoA	R11370	white
+enediyne biosynthesis protein E7	6.2.1.-	ATP	6-Methylsalicylyl-CoA	R11370	white
+enediyne biosynthesis protein E7	6.2.1.-	ATP	AMP	R11370	white
+enediyne biosynthesis protein E7	6.2.1.-	ATP	Diphosphate	R11370	white
+enediyne biosynthesis protein E7	6.2.1.-	CoA	6-Methylsalicylyl-CoA	R11370	white
+enediyne biosynthesis protein E7	6.2.1.-	CoA	AMP	R11370	white
+enediyne biosynthesis protein E7	6.2.1.-	CoA	Diphosphate	R11370	white
+enediyne biosynthesis protein E7	6.2.1.-	Diphosphate	6-Methylsalicylate	R11370	white
+enediyne biosynthesis protein E7	6.2.1.-	Diphosphate	ATP	R11370	white
+enediyne biosynthesis protein E7	6.2.1.-	Diphosphate	CoA	R11370	white
+enediyne biosynthesis protein E8	6.2.1.-	6-Methylsalicylate	6-Methylsalicylyl-CoA	R11370	white
+enediyne biosynthesis protein E8	6.2.1.-	6-Methylsalicylate	AMP	R11370	white
+enediyne biosynthesis protein E8	6.2.1.-	6-Methylsalicylate	Diphosphate	R11370	white
+enediyne biosynthesis protein E8	6.2.1.-	6-Methylsalicylyl-CoA	6-Methylsalicylate	R11370	white
+enediyne biosynthesis protein E8	6.2.1.-	6-Methylsalicylyl-CoA	ATP	R11370	white
+enediyne biosynthesis protein E8	6.2.1.-	6-Methylsalicylyl-CoA	CoA	R11370	white
+enediyne biosynthesis protein E8	6.2.1.-	AMP	6-Methylsalicylate	R11370	white
+enediyne biosynthesis protein E8	6.2.1.-	AMP	ATP	R11370	white
+enediyne biosynthesis protein E8	6.2.1.-	AMP	CoA	R11370	white
+enediyne biosynthesis protein E8	6.2.1.-	ATP	6-Methylsalicylyl-CoA	R11370	white
+enediyne biosynthesis protein E8	6.2.1.-	ATP	AMP	R11370	white
+enediyne biosynthesis protein E8	6.2.1.-	ATP	Diphosphate	R11370	white
+enediyne biosynthesis protein E8	6.2.1.-	CoA	6-Methylsalicylyl-CoA	R11370	white
+enediyne biosynthesis protein E8	6.2.1.-	CoA	AMP	R11370	white
+enediyne biosynthesis protein E8	6.2.1.-	CoA	Diphosphate	R11370	white
+enediyne biosynthesis protein E8	6.2.1.-	Diphosphate	6-Methylsalicylate	R11370	white
+enediyne biosynthesis protein E8	6.2.1.-	Diphosphate	ATP	R11370	white
+enediyne biosynthesis protein E8	6.2.1.-	Diphosphate	CoA	R11370	white
+enediyne biosynthesis protein E9	6.2.1.-	6-Methylsalicylate	6-Methylsalicylyl-CoA	R11370	white
+enediyne biosynthesis protein E9	6.2.1.-	6-Methylsalicylate	AMP	R11370	white
+enediyne biosynthesis protein E9	6.2.1.-	6-Methylsalicylate	Diphosphate	R11370	white
+enediyne biosynthesis protein E9	6.2.1.-	6-Methylsalicylyl-CoA	6-Methylsalicylate	R11370	white
+enediyne biosynthesis protein E9	6.2.1.-	6-Methylsalicylyl-CoA	ATP	R11370	white
+enediyne biosynthesis protein E9	6.2.1.-	6-Methylsalicylyl-CoA	CoA	R11370	white
+enediyne biosynthesis protein E9	6.2.1.-	AMP	6-Methylsalicylate	R11370	white
+enediyne biosynthesis protein E9	6.2.1.-	AMP	ATP	R11370	white
+enediyne biosynthesis protein E9	6.2.1.-	AMP	CoA	R11370	white
+enediyne biosynthesis protein E9	6.2.1.-	ATP	6-Methylsalicylyl-CoA	R11370	white
+enediyne biosynthesis protein E9	6.2.1.-	ATP	AMP	R11370	white
+enediyne biosynthesis protein E9	6.2.1.-	ATP	Diphosphate	R11370	white
+enediyne biosynthesis protein E9	6.2.1.-	CoA	6-Methylsalicylyl-CoA	R11370	white
+enediyne biosynthesis protein E9	6.2.1.-	CoA	AMP	R11370	white
+enediyne biosynthesis protein E9	6.2.1.-	CoA	Diphosphate	R11370	white
+enediyne biosynthesis protein E9	6.2.1.-	Diphosphate	6-Methylsalicylate	R11370	white
+enediyne biosynthesis protein E9	6.2.1.-	Diphosphate	ATP	R11370	white
+enediyne biosynthesis protein E9	6.2.1.-	Diphosphate	CoA	R11370	white
+enediyne core biosynthesis thioesterase	2.4.1.-	1,3,5,7,9,11,13-Pentadecaheptaene	3-Hydroxyhexadeca-4,6,8,10,12,14-hexaenoyl-[acp]	R11436	white
+enediyne core biosynthesis thioesterase	2.4.1.-	3-Hydroxyhexadeca-4,6,8,10,12,14-hexaenoyl-[acp]	1,3,5,7,9,11,13-Pentadecaheptaene	R11436	white
+enediyne core biosynthesis thioesterase	2.4.1.-	3-Hydroxyhexadeca-4,6,8,10,12,14-hexaenoyl-[acp]	Acyl-carrier protein	R11436	white
+enediyne core biosynthesis thioesterase	2.4.1.-	3-Hydroxyhexadeca-4,6,8,10,12,14-hexaenoyl-[acp]	CO2	R11436	white
+enediyne core biosynthesis thioesterase	2.4.1.-	Acyl-carrier protein	3-Hydroxyhexadeca-4,6,8,10,12,14-hexaenoyl-[acp]	R11436	white
+enediyne core biosynthesis thioesterase	2.4.1.-	CO2	3-Hydroxyhexadeca-4,6,8,10,12,14-hexaenoyl-[acp]	R11436	white
+enediyne polyketide synthase	2.1.1.-	3-Hydroxyhexadeca-4,6,8,10,12,14-hexaenoyl-[acp]	Acyl-carrier protein	R11435	white
+enediyne polyketide synthase	2.1.1.-	3-Hydroxyhexadeca-4,6,8,10,12,14-hexaenoyl-[acp]	H+	R11435	white
+enediyne polyketide synthase	2.1.1.-	3-Hydroxyhexadeca-4,6,8,10,12,14-hexaenoyl-[acp]	Malonyl-CoA	R11435	white
+enediyne polyketide synthase	2.1.1.-	3-Hydroxyhexadeca-4,6,8,10,12,14-hexaenoyl-[acp]	NADPH	R11435	white
+enediyne polyketide synthase	2.1.1.-	Acyl-carrier protein	3-Hydroxyhexadeca-4,6,8,10,12,14-hexaenoyl-[acp]	R11435	white
+enediyne polyketide synthase	2.1.1.-	Acyl-carrier protein	CO2	R11435	white
+enediyne polyketide synthase	2.1.1.-	Acyl-carrier protein	CoA	R11435	white
+enediyne polyketide synthase	2.1.1.-	Acyl-carrier protein	H2O	R11435	white
+enediyne polyketide synthase	2.1.1.-	Acyl-carrier protein	NADP+	R11435	white
+enediyne polyketide synthase	2.1.1.-	CO2	Acyl-carrier protein	R11435	white
+enediyne polyketide synthase	2.1.1.-	CO2	H+	R11435	white
+enediyne polyketide synthase	2.1.1.-	CO2	Malonyl-CoA	R11435	white
+enediyne polyketide synthase	2.1.1.-	CO2	NADPH	R11435	white
+enediyne polyketide synthase	2.1.1.-	CoA	Acyl-carrier protein	R11435	white
+enediyne polyketide synthase	2.1.1.-	CoA	H+	R11435	white
+enediyne polyketide synthase	2.1.1.-	CoA	Malonyl-CoA	R11435	white
+enediyne polyketide synthase	2.1.1.-	CoA	NADPH	R11435	white
+enediyne polyketide synthase	2.1.1.-	H+	3-Hydroxyhexadeca-4,6,8,10,12,14-hexaenoyl-[acp]	R11435	white
+enediyne polyketide synthase	2.1.1.-	H+	CO2	R11435	white
+enediyne polyketide synthase	2.1.1.-	H+	CoA	R11435	white
+enediyne polyketide synthase	2.1.1.-	H+	H2O	R11435	white
+enediyne polyketide synthase	2.1.1.-	H+	NADP+	R11435	white
+enediyne polyketide synthase	2.1.1.-	H2O	Acyl-carrier protein	R11435	white
+enediyne polyketide synthase	2.1.1.-	H2O	H+	R11435	white
+enediyne polyketide synthase	2.1.1.-	H2O	Malonyl-CoA	R11435	white
+enediyne polyketide synthase	2.1.1.-	H2O	NADPH	R11435	white
+enediyne polyketide synthase	2.1.1.-	Malonyl-CoA	3-Hydroxyhexadeca-4,6,8,10,12,14-hexaenoyl-[acp]	R11435	white
+enediyne polyketide synthase	2.1.1.-	Malonyl-CoA	CO2	R11435	white
+enediyne polyketide synthase	2.1.1.-	Malonyl-CoA	CoA	R11435	white
+enediyne polyketide synthase	2.1.1.-	Malonyl-CoA	H2O	R11435	white
+enediyne polyketide synthase	2.1.1.-	Malonyl-CoA	NADP+	R11435	white
+enediyne polyketide synthase	2.1.1.-	NADP+	Acyl-carrier protein	R11435	white
+enediyne polyketide synthase	2.1.1.-	NADP+	H+	R11435	white
+enediyne polyketide synthase	2.1.1.-	NADP+	Malonyl-CoA	R11435	white
+enediyne polyketide synthase	2.1.1.-	NADP+	NADPH	R11435	white
+enediyne polyketide synthase	2.1.1.-	NADPH	3-Hydroxyhexadeca-4,6,8,10,12,14-hexaenoyl-[acp]	R11435	white
+enediyne polyketide synthase	2.1.1.-	NADPH	CO2	R11435	white
+enediyne polyketide synthase	2.1.1.-	NADPH	CoA	R11435	white
+enediyne polyketide synthase	2.1.1.-	NADPH	H2O	R11435	white
+enediyne polyketide synthase	2.1.1.-	NADPH	NADP+	R11435	white
+flavin reductase	1.5.1.-	(Z)-3-Ureidoacrylate peracid	Oxygen	R09936	white
+flavin reductase	1.5.1.-	(Z)-3-Ureidoacrylate peracid	Reduced FMN	R09936	white
+flavin reductase	1.5.1.-	(Z)-3-Ureidoacrylate peracid	Uracil	R09936	white
+flavin reductase	1.5.1.-	FMN	Oxygen	R09936	white
+flavin reductase	1.5.1.-	FMN	Reduced FMN	R09936	white
+flavin reductase	1.5.1.-	FMN	Uracil	R09936	white
+flavin reductase	1.5.1.-	Oxygen	(Z)-3-Ureidoacrylate peracid	R09936	white
+flavin reductase	1.5.1.-	Oxygen	FMN	R09936	white
+flavin reductase	1.5.1.-	Reduced FMN	(Z)-3-Ureidoacrylate peracid	R09936	white
+flavin reductase	1.5.1.-	Reduced FMN	FMN	R09936	white
+flavin reductase	1.5.1.-	Uracil	(Z)-3-Ureidoacrylate peracid	R09936	white
+flavin reductase	1.5.1.-	Uracil	FMN	R09936	white
+flavin-dependent halogenase	2.1.1.-	2-Methoxyorsellinate-[acp]	5-Iodo-2-methoxyorsellinate-[acp]	R11414	white
+flavin-dependent halogenase	2.1.1.-	5-Iodo-2-methoxyorsellinate-[acp]	2-Methoxyorsellinate-[acp]	R11414	white
+flavin-dependent halogenase	2.1.1.-	5-Iodo-2-methoxyorsellinate-[acp]	Iodide	R11414	white
+flavin-dependent halogenase	2.1.1.-	Iodide	5-Iodo-2-methoxyorsellinate-[acp]	R11414	white
+glycosyltransferase	2.4.1.-	(S)-3-Chloro-4,5-dihydroxy-beta-phenylalanyl-[pcp]	(S)-3-Chloro-beta-tyrosyl-[pcp]	R10731	white
+glycosyltransferase	2.4.1.-	(S)-3-Chloro-4,5-dihydroxy-beta-phenylalanyl-[pcp]	FADH2	R10731	white
+glycosyltransferase	2.4.1.-	(S)-3-Chloro-4,5-dihydroxy-beta-phenylalanyl-[pcp]	Oxygen	R10731	white
+glycosyltransferase	2.4.1.-	(S)-3-Chloro-beta-tyrosyl-[pcp]	(S)-3-Chloro-4,5-dihydroxy-beta-phenylalanyl-[pcp]	R10731	white
+glycosyltransferase	2.4.1.-	(S)-3-Chloro-beta-tyrosyl-[pcp]	FAD	R10731	white
+glycosyltransferase	2.4.1.-	(S)-3-Chloro-beta-tyrosyl-[pcp]	H2O	R10731	white
+glycosyltransferase	2.4.1.-	FAD	(S)-3-Chloro-beta-tyrosyl-[pcp]	R10731	white
+glycosyltransferase	2.4.1.-	FAD	FADH2	R10731	white
+glycosyltransferase	2.4.1.-	FAD	Oxygen	R10731	white
+glycosyltransferase	2.4.1.-	FADH2	(S)-3-Chloro-4,5-dihydroxy-beta-phenylalanyl-[pcp]	R10731	white
+glycosyltransferase	2.4.1.-	FADH2	FAD	R10731	white
+glycosyltransferase	2.4.1.-	FADH2	H2O	R10731	white
+glycosyltransferase	2.4.1.-	H2O	(S)-3-Chloro-beta-tyrosyl-[pcp]	R10731	white
+glycosyltransferase	2.4.1.-	H2O	FADH2	R10731	white
+glycosyltransferase	2.4.1.-	H2O	Oxygen	R10731	white
+glycosyltransferase	2.4.1.-	Oxygen	(S)-3-Chloro-4,5-dihydroxy-beta-phenylalanyl-[pcp]	R10731	white
+glycosyltransferase	2.4.1.-	Oxygen	FAD	R10731	white
+glycosyltransferase	2.4.1.-	Oxygen	H2O	R10731	white
+iterative type I polyketide synthase KedU38	2.4.1.-	4-Deoxy-4-thio-alpha-D-digitoxosyl-calicheamicin T0	Calicheamicin T0	R11418	white
+iterative type I polyketide synthase KedU38	2.4.1.-	4-Deoxy-4-thio-alpha-D-digitoxosyl-calicheamicin T0	dTDP-4-deoxy-4-thio-alpha-D-digitoxose	R11418	white
+iterative type I polyketide synthase KedU38	2.4.1.-	Calicheamicin T0	4-Deoxy-4-thio-alpha-D-digitoxosyl-calicheamicin T0	R11418	white
+iterative type I polyketide synthase KedU38	2.4.1.-	Calicheamicin T0	dTDP	R11418	white
+iterative type I polyketide synthase KedU38	2.4.1.-	dTDP	Calicheamicin T0	R11418	white
+iterative type I polyketide synthase KedU38	2.4.1.-	dTDP	dTDP-4-deoxy-4-thio-alpha-D-digitoxose	R11418	white
+iterative type I polyketide synthase KedU38	2.4.1.-	dTDP-4-deoxy-4-thio-alpha-D-digitoxose	4-Deoxy-4-thio-alpha-D-digitoxosyl-calicheamicin T0	R11418	white
+iterative type I polyketide synthase KedU38	2.4.1.-	dTDP-4-deoxy-4-thio-alpha-D-digitoxose	dTDP	R11418	white
+methionine gamma-lyase	2.4.1.-	(S)-3-Chloro-4,5-dihydroxy-beta-phenylalanyl-[pcp]	(S)-3-Chloro-beta-tyrosyl-[pcp]	R10731	white
+methionine gamma-lyase	2.4.1.-	(S)-3-Chloro-4,5-dihydroxy-beta-phenylalanyl-[pcp]	FADH2	R10731	white
+methionine gamma-lyase	2.4.1.-	(S)-3-Chloro-4,5-dihydroxy-beta-phenylalanyl-[pcp]	Oxygen	R10731	white
+methionine gamma-lyase	2.4.1.-	(S)-3-Chloro-beta-tyrosyl-[pcp]	(S)-3-Chloro-4,5-dihydroxy-beta-phenylalanyl-[pcp]	R10731	white
+methionine gamma-lyase	2.4.1.-	(S)-3-Chloro-beta-tyrosyl-[pcp]	FAD	R10731	white
+methionine gamma-lyase	2.4.1.-	(S)-3-Chloro-beta-tyrosyl-[pcp]	H2O	R10731	white
+methionine gamma-lyase	2.4.1.-	FAD	(S)-3-Chloro-beta-tyrosyl-[pcp]	R10731	white
+methionine gamma-lyase	2.4.1.-	FAD	FADH2	R10731	white
+methionine gamma-lyase	2.4.1.-	FAD	Oxygen	R10731	white
+methionine gamma-lyase	2.4.1.-	FADH2	(S)-3-Chloro-4,5-dihydroxy-beta-phenylalanyl-[pcp]	R10731	white
+methionine gamma-lyase	2.4.1.-	FADH2	FAD	R10731	white
+methionine gamma-lyase	2.4.1.-	FADH2	H2O	R10731	white
+methionine gamma-lyase	2.4.1.-	H2O	(S)-3-Chloro-beta-tyrosyl-[pcp]	R10731	white
+methionine gamma-lyase	2.4.1.-	H2O	FADH2	R10731	white
+methionine gamma-lyase	2.4.1.-	H2O	Oxygen	R10731	white
+methionine gamma-lyase	2.4.1.-	Oxygen	(S)-3-Chloro-4,5-dihydroxy-beta-phenylalanyl-[pcp]	R10731	white
+methionine gamma-lyase	2.4.1.-	Oxygen	FAD	R10731	white
+methionine gamma-lyase	2.4.1.-	Oxygen	H2O	R10731	white
+methyltransferase	2.1.1.49	N-Methyltryptamine	S-Adenosyl-L-methionine	R02174	white
+methyltransferase	2.1.1.49	N-Methyltryptamine	Tryptamine	R02174	white
+methyltransferase	2.1.1.49	S-Adenosyl-L-homocysteine	S-Adenosyl-L-methionine	R02174	white
+methyltransferase	2.1.1.49	S-Adenosyl-L-homocysteine	Tryptamine	R02174	white
+methyltransferase	2.1.1.49	S-Adenosyl-L-methionine	N-Methyltryptamine	R02174	white
+methyltransferase	2.1.1.49	S-Adenosyl-L-methionine	S-Adenosyl-L-homocysteine	R02174	white
+methyltransferase	2.1.1.49	Tryptamine	N-Methyltryptamine	R02174	white
+methyltransferase	2.1.1.49	Tryptamine	S-Adenosyl-L-homocysteine	R02174	white
+neocarzinostatin naphthoate synthase	2.3.1.237	2-Hydroxy-5-methyl-1-naphthoate	Acetyl-CoA	R11125	white
+neocarzinostatin naphthoate synthase	2.3.1.237	2-Hydroxy-5-methyl-1-naphthoate	H+	R11125	white
+neocarzinostatin naphthoate synthase	2.3.1.237	2-Hydroxy-5-methyl-1-naphthoate	Malonyl-CoA	R11125	white
+neocarzinostatin naphthoate synthase	2.3.1.237	2-Hydroxy-5-methyl-1-naphthoate	NADPH	R11125	white
+neocarzinostatin naphthoate synthase	2.3.1.237	Acetyl-CoA	2-Hydroxy-5-methyl-1-naphthoate	R11125	white
+neocarzinostatin naphthoate synthase	2.3.1.237	Acetyl-CoA	CO2	R11125	white
+neocarzinostatin naphthoate synthase	2.3.1.237	Acetyl-CoA	CoA	R11125	white
+neocarzinostatin naphthoate synthase	2.3.1.237	Acetyl-CoA	H2O	R11125	white
+neocarzinostatin naphthoate synthase	2.3.1.237	Acetyl-CoA	NADP+	R11125	white
+neocarzinostatin naphthoate synthase	2.3.1.237	CO2	Acetyl-CoA	R11125	white
+neocarzinostatin naphthoate synthase	2.3.1.237	CO2	H+	R11125	white
+neocarzinostatin naphthoate synthase	2.3.1.237	CO2	Malonyl-CoA	R11125	white
+neocarzinostatin naphthoate synthase	2.3.1.237	CO2	NADPH	R11125	white
+neocarzinostatin naphthoate synthase	2.3.1.237	CoA	Acetyl-CoA	R11125	white
+neocarzinostatin naphthoate synthase	2.3.1.237	CoA	H+	R11125	white
+neocarzinostatin naphthoate synthase	2.3.1.237	CoA	Malonyl-CoA	R11125	white
+neocarzinostatin naphthoate synthase	2.3.1.237	CoA	NADPH	R11125	white
+neocarzinostatin naphthoate synthase	2.3.1.237	H+	2-Hydroxy-5-methyl-1-naphthoate	R11125	white
+neocarzinostatin naphthoate synthase	2.3.1.237	H+	CO2	R11125	white
+neocarzinostatin naphthoate synthase	2.3.1.237	H+	CoA	R11125	white
+neocarzinostatin naphthoate synthase	2.3.1.237	H+	H2O	R11125	white
+neocarzinostatin naphthoate synthase	2.3.1.237	H+	NADP+	R11125	white
+neocarzinostatin naphthoate synthase	2.3.1.237	H2O	Acetyl-CoA	R11125	white
+neocarzinostatin naphthoate synthase	2.3.1.237	H2O	H+	R11125	white
+neocarzinostatin naphthoate synthase	2.3.1.237	H2O	Malonyl-CoA	R11125	white
+neocarzinostatin naphthoate synthase	2.3.1.237	H2O	NADPH	R11125	white
+neocarzinostatin naphthoate synthase	2.3.1.237	Malonyl-CoA	2-Hydroxy-5-methyl-1-naphthoate	R11125	white
+neocarzinostatin naphthoate synthase	2.3.1.237	Malonyl-CoA	CO2	R11125	white
+neocarzinostatin naphthoate synthase	2.3.1.237	Malonyl-CoA	CoA	R11125	white
+neocarzinostatin naphthoate synthase	2.3.1.237	Malonyl-CoA	H2O	R11125	white
+neocarzinostatin naphthoate synthase	2.3.1.237	Malonyl-CoA	NADP+	R11125	white
+neocarzinostatin naphthoate synthase	2.3.1.237	NADP+	Acetyl-CoA	R11125	white
+neocarzinostatin naphthoate synthase	2.3.1.237	NADP+	H+	R11125	white
+neocarzinostatin naphthoate synthase	2.3.1.237	NADP+	Malonyl-CoA	R11125	white
+neocarzinostatin naphthoate synthase	2.3.1.237	NADP+	NADPH	R11125	white
+neocarzinostatin naphthoate synthase	2.3.1.237	NADPH	2-Hydroxy-5-methyl-1-naphthoate	R11125	white
+neocarzinostatin naphthoate synthase	2.3.1.237	NADPH	CO2	R11125	white
+neocarzinostatin naphthoate synthase	2.3.1.237	NADPH	CoA	R11125	white
+neocarzinostatin naphthoate synthase	2.3.1.237	NADPH	H2O	R11125	white
+neocarzinostatin naphthoate synthase	2.3.1.237	NADPH	NADP+	R11125	white
+orsellenic acid P450 oxidase	1.14.-.-	3-Hydroxy-5-iodo-2-methoxyorsellinate-[acp]	5-Iodo-2-methoxyorsellinate-[acp]	R11415	white
+orsellenic acid P450 oxidase	1.14.-.-	5-Iodo-2-methoxyorsellinate-[acp]	3-Hydroxy-5-iodo-2-methoxyorsellinate-[acp]	R11415	white
+orsellinic acid C2-O-methyltransferase	2.1.1.-	2-Methoxyorsellinate-[acp]	Orsellinate-[acp]	R11413	white
+orsellinic acid C2-O-methyltransferase	2.1.1.-	2-Methoxyorsellinate-[acp]	S-Adenosyl-L-methionine	R11413	white
+orsellinic acid C2-O-methyltransferase	2.1.1.-	Orsellinate-[acp]	2-Methoxyorsellinate-[acp]	R11413	white
+orsellinic acid C2-O-methyltransferase	2.1.1.-	Orsellinate-[acp]	S-Adenosyl-L-homocysteine	R11413	white
+orsellinic acid C2-O-methyltransferase	2.1.1.-	S-Adenosyl-L-homocysteine	Orsellinate-[acp]	R11413	white
+orsellinic acid C2-O-methyltransferase	2.1.1.-	S-Adenosyl-L-homocysteine	S-Adenosyl-L-methionine	R11413	white
+orsellinic acid C2-O-methyltransferase	2.1.1.-	S-Adenosyl-L-methionine	2-Methoxyorsellinate-[acp]	R11413	white
+orsellinic acid C2-O-methyltransferase	2.1.1.-	S-Adenosyl-L-methionine	S-Adenosyl-L-homocysteine	R11413	white
+orsellinic acid C3-O-methyltransferase	2.1.1.-	3-Hydroxy-5-iodo-2-methoxyorsellinate-[acp]	5-Iodo-2,3-dimethoxyorsellinate-[acp]	R11416	white
+orsellinic acid C3-O-methyltransferase	2.1.1.-	3-Hydroxy-5-iodo-2-methoxyorsellinate-[acp]	S-Adenosyl-L-homocysteine	R11416	white
+orsellinic acid C3-O-methyltransferase	2.1.1.-	5-Iodo-2,3-dimethoxyorsellinate-[acp]	3-Hydroxy-5-iodo-2-methoxyorsellinate-[acp]	R11416	white
+orsellinic acid C3-O-methyltransferase	2.1.1.-	5-Iodo-2,3-dimethoxyorsellinate-[acp]	S-Adenosyl-L-methionine	R11416	white
+orsellinic acid C3-O-methyltransferase	2.1.1.-	S-Adenosyl-L-homocysteine	3-Hydroxy-5-iodo-2-methoxyorsellinate-[acp]	R11416	white
+orsellinic acid C3-O-methyltransferase	2.1.1.-	S-Adenosyl-L-homocysteine	S-Adenosyl-L-methionine	R11416	white
+orsellinic acid C3-O-methyltransferase	2.1.1.-	S-Adenosyl-L-methionine	5-Iodo-2,3-dimethoxyorsellinate-[acp]	R11416	white
+orsellinic acid C3-O-methyltransferase	2.1.1.-	S-Adenosyl-L-methionine	S-Adenosyl-L-homocysteine	R11416	white
+orsellinic acid synthase	2.3.1.-	Acetyl-CoA	CO2	R11412	white
+orsellinic acid synthase	2.3.1.-	Acetyl-CoA	CoA	R11412	white
+orsellinic acid synthase	2.3.1.-	Acetyl-CoA	H2O	R11412	white
+orsellinic acid synthase	2.3.1.-	Acetyl-CoA	Orsellinate-[acp]	R11412	white
+orsellinic acid synthase	2.3.1.-	Acyl-carrier protein	CO2	R11412	white
+orsellinic acid synthase	2.3.1.-	Acyl-carrier protein	CoA	R11412	white
+orsellinic acid synthase	2.3.1.-	Acyl-carrier protein	H2O	R11412	white
+orsellinic acid synthase	2.3.1.-	Acyl-carrier protein	Orsellinate-[acp]	R11412	white
+orsellinic acid synthase	2.3.1.-	CO2	Acetyl-CoA	R11412	white
+orsellinic acid synthase	2.3.1.-	CO2	Acyl-carrier protein	R11412	white
+orsellinic acid synthase	2.3.1.-	CO2	Malonyl-CoA	R11412	white
+orsellinic acid synthase	2.3.1.-	CoA	Acetyl-CoA	R11412	white
+orsellinic acid synthase	2.3.1.-	CoA	Acyl-carrier protein	R11412	white
+orsellinic acid synthase	2.3.1.-	CoA	Malonyl-CoA	R11412	white
+orsellinic acid synthase	2.3.1.-	H2O	Acetyl-CoA	R11412	white
+orsellinic acid synthase	2.3.1.-	H2O	Acyl-carrier protein	R11412	white
+orsellinic acid synthase	2.3.1.-	H2O	Malonyl-CoA	R11412	white
+orsellinic acid synthase	2.3.1.-	Malonyl-CoA	CO2	R11412	white
+orsellinic acid synthase	2.3.1.-	Malonyl-CoA	CoA	R11412	white
+orsellinic acid synthase	2.3.1.-	Malonyl-CoA	H2O	R11412	white
+orsellinic acid synthase	2.3.1.-	Malonyl-CoA	Orsellinate-[acp]	R11412	white
+orsellinic acid synthase	2.3.1.-	Orsellinate-[acp]	Acetyl-CoA	R11412	white
+orsellinic acid synthase	2.3.1.-	Orsellinate-[acp]	Acyl-carrier protein	R11412	white
+orsellinic acid synthase	2.3.1.-	Orsellinate-[acp]	Malonyl-CoA	R11412	white
+radical SAM C-methyltransferase	1.14.-.-	3-Hydroxy-6,7,8-trimethoxy-2-naphthoate	3-Hydroxy-7,8-dimethoxy-6-isopropoxy-2-naphthoate	R11389	white
+radical SAM C-methyltransferase	1.14.-.-	3-Hydroxy-7,8-dimethoxy-6-isopropoxy-2-naphthoate	3-Hydroxy-6,7,8-trimethoxy-2-naphthoate	R11389	white
+two-component FAD-dependent monooxygenase	1.14.14.15	(S)-3-Chloro-4,5-dihydroxy-beta-phenylalanyl-[pcp]	(S)-3-Chloro-beta-tyrosyl-[pcp]	R10731	white
+two-component FAD-dependent monooxygenase	1.14.14.15	(S)-3-Chloro-4,5-dihydroxy-beta-phenylalanyl-[pcp]	FADH2	R10731	white
+two-component FAD-dependent monooxygenase	1.14.14.15	(S)-3-Chloro-4,5-dihydroxy-beta-phenylalanyl-[pcp]	Oxygen	R10731	white
+two-component FAD-dependent monooxygenase	1.14.14.15	(S)-3-Chloro-beta-tyrosyl-[pcp]	(S)-3-Chloro-4,5-dihydroxy-beta-phenylalanyl-[pcp]	R10731	white
+two-component FAD-dependent monooxygenase	1.14.14.15	(S)-3-Chloro-beta-tyrosyl-[pcp]	FAD	R10731	white
+two-component FAD-dependent monooxygenase	1.14.14.15	(S)-3-Chloro-beta-tyrosyl-[pcp]	H2O	R10731	white
+two-component FAD-dependent monooxygenase	1.14.14.15	FAD	(S)-3-Chloro-beta-tyrosyl-[pcp]	R10731	white
+two-component FAD-dependent monooxygenase	1.14.14.15	FAD	FADH2	R10731	white
+two-component FAD-dependent monooxygenase	1.14.14.15	FAD	Oxygen	R10731	white
+two-component FAD-dependent monooxygenase	1.14.14.15	FADH2	(S)-3-Chloro-4,5-dihydroxy-beta-phenylalanyl-[pcp]	R10731	white
+two-component FAD-dependent monooxygenase	1.14.14.15	FADH2	FAD	R10731	white
+two-component FAD-dependent monooxygenase	1.14.14.15	FADH2	H2O	R10731	white
+two-component FAD-dependent monooxygenase	1.14.14.15	H2O	(S)-3-Chloro-beta-tyrosyl-[pcp]	R10731	white
+two-component FAD-dependent monooxygenase	1.14.14.15	H2O	FADH2	R10731	white
+two-component FAD-dependent monooxygenase	1.14.14.15	H2O	Oxygen	R10731	white
+two-component FAD-dependent monooxygenase	1.14.14.15	Oxygen	(S)-3-Chloro-4,5-dihydroxy-beta-phenylalanyl-[pcp]	R10731	white
+two-component FAD-dependent monooxygenase	1.14.14.15	Oxygen	FAD	R10731	white
+two-component FAD-dependent monooxygenase	1.14.14.15	Oxygen	H2O	R10731	white
