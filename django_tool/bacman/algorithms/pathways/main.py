@@ -99,4 +99,5 @@ def main(start:str, end:str, inchi):
 
 
 if __name__ == '__main__':
-    main(start="citrate", end="isocitrate", inchi="InChI=1S/C5H12O/c1-5(2,3)6-4/h1-4H3")
+    txt, non_green_ecs = main(start="citrate", end="isocitrate", inchi="InChI=1S/C5H12O/c1-5(2,3)6-4/h1-4H3")
+    print(txt)
