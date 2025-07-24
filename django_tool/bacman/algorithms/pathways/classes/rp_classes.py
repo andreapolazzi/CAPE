@@ -216,12 +216,12 @@ class RpGraph():
         """ Save the edges (reactions) to a TSV file. """
         df['EC number'] = df['EC number'].apply(lambda x: x.strip('[]'))
         #print(df['EC number'])
-        edges_df = df[['EC number', 'Substrate InChI', 'Product InChI']]
+        edges_df = df[['EC number', 'Substrate InChI', 'Product InChI', 'Transformation ID']]
         #print(edges_df)
         edges_df['enzyme_name'] = edges_df['EC number'].apply(lambda x: x if x == 'NOEC' else RpGraph.ec_to_name(x))
         edges_df['color'] = 'yellow'
-        edges_df = edges_df.rename(columns={'EC number': 'EC', 'Substrate InChI': 'source', 'Product InChI': 'target'})
-        edges_df = edges_df[['enzyme_name', 'EC', 'source', 'target', 'color']]
+        edges_df = edges_df.rename(columns={'EC number': 'EC', 'Substrate InChI': 'source', 'Product InChI': 'target', 'Transformation ID': 'reaction'})
+        edges_df = edges_df[['enzyme_name', 'EC', 'source', 'target', 'color', 'reaction']]
         edges_df.to_csv(outdir+'rp_edges.tsv', sep='\t', index=False, header=True)
         #print(edges_df)
 
