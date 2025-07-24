@@ -28,9 +28,9 @@ def main(start:str, end:str, inchi):
                             inchi=inchi,
                             steps=5,)
         print("RetroPath prediction completed")
-        """
         RpGraph.tsv_generator(file_path=f'/work/igem/iGEM/django_tool/bacman/algorithms/pathways/rp_results/Methyl_tert-butyl_ether_scope.csv',
                               outdir='/work/igem/iGEM/django_tool/bacman/algorithms/pathways/Pathways/')
+        """
         print("Generating a graph from RetroPath output")
         start_pway_graph = MetabolicGraph.from_tsv('rp_edges.tsv')
         start_pway_graph.join2megaGraph()
@@ -98,4 +98,4 @@ def main(start:str, end:str, inchi):
 
 
 if __name__ == '__main__':
-    main("Methyl tert-butyl ether", "glucose", "InChI=1S/C5H12O/c1-5(2,3)6-4/h1-4H3")
+    main(start="Methyl tert-butyl ether", end="d-glucose", inchi="InChI=1S/C5H12O/c1-5(2,3)6-4/h1-4H3")
