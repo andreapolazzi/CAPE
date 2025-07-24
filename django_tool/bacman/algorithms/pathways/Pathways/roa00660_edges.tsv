@@ -1,0 +1,144 @@
+enzyme_name	EC	source	target	color
+(R)-citramalate synthase	2.3.3.21	(R)-2-Methylmalate	Acetyl-CoA	white
+(R)-citramalate synthase	2.3.3.21	(R)-2-Methylmalate	H2O	white
+(R)-citramalate synthase	2.3.3.21	(R)-2-Methylmalate	Pyruvate	white
+(R)-citramalate synthase	2.3.3.21	Acetyl-CoA	(R)-2-Methylmalate	white
+(R)-citramalate synthase	2.3.3.21	Acetyl-CoA	CoA	white
+(R)-citramalate synthase	2.3.3.21	CoA	Acetyl-CoA	white
+(R)-citramalate synthase	2.3.3.21	CoA	H2O	white
+(R)-citramalate synthase	2.3.3.21	CoA	Pyruvate	white
+(R)-citramalate synthase	2.3.3.21	H2O	(R)-2-Methylmalate	white
+(R)-citramalate synthase	2.3.3.21	H2O	CoA	white
+(R)-citramalate synthase	2.3.3.21	Pyruvate	(R)-2-Methylmalate	white
+(R)-citramalate synthase	2.3.3.21	Pyruvate	CoA	white
+(S)-citramalyl-CoA lyase	4.1.3.25	(3S)-Citramalyl-CoA	Acetyl-CoA	white
+(S)-citramalyl-CoA lyase	4.1.3.25	(3S)-Citramalyl-CoA	Pyruvate	white
+(S)-citramalyl-CoA lyase	4.1.3.25	Acetyl-CoA	(3S)-Citramalyl-CoA	white
+(S)-citramalyl-CoA lyase	4.1.3.25	Pyruvate	(3S)-Citramalyl-CoA	white
+2-methylfumaryl-CoA hydratase	4.2.1.148	2-Methylfumaryl-CoA	L-erythro-3-Methylmalyl-CoA	white
+2-methylfumaryl-CoA hydratase	4.2.1.148	H2O	L-erythro-3-Methylmalyl-CoA	white
+2-methylfumaryl-CoA hydratase	4.2.1.148	L-erythro-3-Methylmalyl-CoA	2-Methylfumaryl-CoA	white
+2-methylfumaryl-CoA hydratase	4.2.1.148	L-erythro-3-Methylmalyl-CoA	H2O	white
+3-isopropylmalate dehydrogenase	1.1.1.85	2-Oxobutanoate	D-erythro-3-Methylmalate	green
+3-isopropylmalate dehydrogenase	1.1.1.85	2-Oxobutanoate	NAD+	green
+3-isopropylmalate dehydrogenase	1.1.1.85	CO2	D-erythro-3-Methylmalate	green
+3-isopropylmalate dehydrogenase	1.1.1.85	CO2	NAD+	green
+3-isopropylmalate dehydrogenase	1.1.1.85	D-erythro-3-Methylmalate	2-Oxobutanoate	green
+3-isopropylmalate dehydrogenase	1.1.1.85	D-erythro-3-Methylmalate	CO2	green
+3-isopropylmalate dehydrogenase	1.1.1.85	D-erythro-3-Methylmalate	H+	green
+3-isopropylmalate dehydrogenase	1.1.1.85	D-erythro-3-Methylmalate	NADH	green
+3-isopropylmalate dehydrogenase	1.1.1.85	H+	D-erythro-3-Methylmalate	green
+3-isopropylmalate dehydrogenase	1.1.1.85	H+	NAD+	green
+3-isopropylmalate dehydrogenase	1.1.1.85	NAD+	2-Oxobutanoate	green
+3-isopropylmalate dehydrogenase	1.1.1.85	NAD+	CO2	green
+3-isopropylmalate dehydrogenase	1.1.1.85	NAD+	H+	green
+3-isopropylmalate dehydrogenase	1.1.1.85	NAD+	NADH	green
+3-isopropylmalate dehydrogenase	1.1.1.85	NADH	D-erythro-3-Methylmalate	green
+3-isopropylmalate dehydrogenase	1.1.1.85	NADH	NAD+	green
+3-isopropylmalate/(R)-2-methylmalate dehydratase large subunit	4.2.1.33	(R)-2-Methylmalate	2-Methylmaleate	green
+3-isopropylmalate/(R)-2-methylmalate dehydratase large subunit	4.2.1.33	(R)-2-Methylmalate	H2O	green
+3-isopropylmalate/(R)-2-methylmalate dehydratase large subunit	4.2.1.33	2-Methylmaleate	(R)-2-Methylmalate	green
+3-isopropylmalate/(R)-2-methylmalate dehydratase large subunit	4.2.1.33	2-Methylmaleate	D-erythro-3-Methylmalate	green
+3-isopropylmalate/(R)-2-methylmalate dehydratase large subunit	4.2.1.33	D-erythro-3-Methylmalate	2-Methylmaleate	green
+3-isopropylmalate/(R)-2-methylmalate dehydratase large subunit	4.2.1.33	D-erythro-3-Methylmalate	H2O	green
+3-isopropylmalate/(R)-2-methylmalate dehydratase large subunit	4.2.1.33	H2O	(R)-2-Methylmalate	green
+3-isopropylmalate/(R)-2-methylmalate dehydratase large subunit	4.2.1.33	H2O	D-erythro-3-Methylmalate	green
+3-isopropylmalate/(R)-2-methylmalate dehydratase small subunit	4.2.1.33	(R)-2-Methylmalate	2-Methylmaleate	green
+3-isopropylmalate/(R)-2-methylmalate dehydratase small subunit	4.2.1.33	(R)-2-Methylmalate	H2O	green
+3-isopropylmalate/(R)-2-methylmalate dehydratase small subunit	4.2.1.33	2-Methylmaleate	(R)-2-Methylmalate	green
+3-isopropylmalate/(R)-2-methylmalate dehydratase small subunit	4.2.1.33	2-Methylmaleate	D-erythro-3-Methylmalate	green
+3-isopropylmalate/(R)-2-methylmalate dehydratase small subunit	4.2.1.33	D-erythro-3-Methylmalate	2-Methylmaleate	green
+3-isopropylmalate/(R)-2-methylmalate dehydratase small subunit	4.2.1.33	D-erythro-3-Methylmalate	H2O	green
+3-isopropylmalate/(R)-2-methylmalate dehydratase small subunit	4.2.1.33	H2O	(R)-2-Methylmalate	green
+3-isopropylmalate/(R)-2-methylmalate dehydratase small subunit	4.2.1.33	H2O	D-erythro-3-Methylmalate	green
+4-hydroxy-4-methyl-2-oxoglutarate aldolase	4.1.3.17	Parapyruvate	Pyruvate	green
+acetolactate decarboxylase	4.1.1.5	(R)-Acetoin	(S)-2-Acetolactate	white
+acetolactate decarboxylase	4.1.1.5	(S)-2-Acetolactate	(R)-Acetoin	white
+acetolactate decarboxylase	4.1.1.5	(S)-2-Acetolactate	CO2	white
+acetolactate decarboxylase	4.1.1.5	CO2	(S)-2-Acetolactate	white
+acetolactate synthase I/II/III large subunit	2.2.1.6	(S)-2-Acetolactate	Pyruvate	green
+acetolactate synthase I/II/III large subunit	2.2.1.6	CO2	Pyruvate	green
+acetolactate synthase I/III small subunit	2.2.1.6	(S)-2-Acetolactate	Pyruvate	green
+acetolactate synthase I/III small subunit	2.2.1.6	CO2	Pyruvate	green
+aconitate Delta-isomerase	5.3.3.7	cis-Aconitate	trans-Aconitate	white
+aconitate Delta-isomerase	5.3.3.7	trans-Aconitate	cis-Aconitate	white
+aconitate decarboxylase	4.1.1.6	CO2	cis-Aconitate	white
+aconitate decarboxylase	4.1.1.6	Itaconate	cis-Aconitate	white
+aconitate decarboxylase	4.1.1.6	cis-Aconitate	CO2	white
+aconitate decarboxylase	4.1.1.6	cis-Aconitate	Itaconate	white
+beta-methylmalyl-CoA/(S)-malyl-CoA lyase	4.1.3.24	Glyoxylate	L-erythro-3-Methylmalyl-CoA	white
+beta-methylmalyl-CoA/(S)-malyl-CoA lyase	4.1.3.24	L-erythro-3-Methylmalyl-CoA	Glyoxylate	white
+beta-methylmalyl-CoA/(S)-malyl-CoA lyase	4.1.3.24	L-erythro-3-Methylmalyl-CoA	Propanoyl-CoA	white
+beta-methylmalyl-CoA/(S)-malyl-CoA lyase	4.1.3.24	Propanoyl-CoA	L-erythro-3-Methylmalyl-CoA	white
+itaconate CoA-transferase	2.8.3.-	(3S)-Citramalyl-CoA	(S)-2-Methylmalate	green
+itaconate CoA-transferase	2.8.3.-	(3S)-Citramalyl-CoA	Succinyl-CoA	green
+itaconate CoA-transferase	2.8.3.-	(S)-2-Methylmalate	(3S)-Citramalyl-CoA	green
+itaconate CoA-transferase	2.8.3.-	(S)-2-Methylmalate	Succinate	green
+itaconate CoA-transferase	2.8.3.-	Itaconate	Itaconyl-CoA	green
+itaconate CoA-transferase	2.8.3.-	Itaconate	Succinate	green
+itaconate CoA-transferase	2.8.3.-	Itaconyl-CoA	Itaconate	green
+itaconate CoA-transferase	2.8.3.-	Itaconyl-CoA	Succinyl-CoA	green
+itaconate CoA-transferase	2.8.3.-	Succinate	(S)-2-Methylmalate	green
+itaconate CoA-transferase	2.8.3.-	Succinate	Itaconate	green
+itaconate CoA-transferase	2.8.3.-	Succinate	Succinyl-CoA	green
+itaconate CoA-transferase	2.8.3.-	Succinyl-CoA	(3S)-Citramalyl-CoA	green
+itaconate CoA-transferase	2.8.3.-	Succinyl-CoA	Itaconyl-CoA	green
+itaconate CoA-transferase	2.8.3.-	Succinyl-CoA	Succinate	green
+itaconate hydroxylase	4.1.1.113	2-Hydroxyparaconate	Itaconate	white
+itaconate hydroxylase	4.1.1.113	Itaconate	2-Hydroxyparaconate	white
+itaconyl-CoA hydratase	4.2.1.56	(3S)-Citramalyl-CoA	H2O	green
+itaconyl-CoA hydratase	4.2.1.56	(3S)-Citramalyl-CoA	Itaconyl-CoA	green
+itaconyl-CoA hydratase	4.2.1.56	H2O	(3S)-Citramalyl-CoA	green
+itaconyl-CoA hydratase	4.2.1.56	Itaconyl-CoA	(3S)-Citramalyl-CoA	green
+malyl-CoA/(S)-citramalyl-CoA lyase	4.1.3.24	(3S)-Citramalyl-CoA	Acetyl-CoA	white
+malyl-CoA/(S)-citramalyl-CoA lyase	4.1.3.24	(3S)-Citramalyl-CoA	Pyruvate	white
+malyl-CoA/(S)-citramalyl-CoA lyase	4.1.3.24	Acetyl-CoA	(3S)-Citramalyl-CoA	white
+malyl-CoA/(S)-citramalyl-CoA lyase	4.1.3.24	Pyruvate	(3S)-Citramalyl-CoA	white
+methylaspartate ammonia-lyase	4.3.1.2	Ammonia	L-threo-3-Methylaspartate	white
+methylaspartate ammonia-lyase	4.3.1.2	L-threo-3-Methylaspartate	Ammonia	white
+methylaspartate ammonia-lyase	4.3.1.2	L-threo-3-Methylaspartate	Mesaconate	white
+methylaspartate ammonia-lyase	4.3.1.2	Mesaconate	L-threo-3-Methylaspartate	white
+methylaspartate mutase epsilon subunit	5.4.99.1	L-Glutamate	L-threo-3-Methylaspartate	white
+methylaspartate mutase epsilon subunit	5.4.99.1	L-threo-3-Methylaspartate	L-Glutamate	white
+methylaspartate mutase sigma subunit	5.4.99.1	L-Glutamate	L-threo-3-Methylaspartate	white
+methylaspartate mutase sigma subunit	5.4.99.1	L-threo-3-Methylaspartate	L-Glutamate	white
+succinyl-CoA synthetase alpha subunit	6.2.1.5	ADP	ATP	green
+succinyl-CoA synthetase alpha subunit	6.2.1.5	ADP	CoA	green
+succinyl-CoA synthetase alpha subunit	6.2.1.5	ADP	Itaconate	green
+succinyl-CoA synthetase alpha subunit	6.2.1.5	ATP	ADP	green
+succinyl-CoA synthetase alpha subunit	6.2.1.5	ATP	Itaconyl-CoA	green
+succinyl-CoA synthetase alpha subunit	6.2.1.5	ATP	Orthophosphate	green
+succinyl-CoA synthetase alpha subunit	6.2.1.5	CoA	ADP	green
+succinyl-CoA synthetase alpha subunit	6.2.1.5	CoA	Itaconyl-CoA	green
+succinyl-CoA synthetase alpha subunit	6.2.1.5	CoA	Orthophosphate	green
+succinyl-CoA synthetase alpha subunit	6.2.1.5	Itaconate	ADP	green
+succinyl-CoA synthetase alpha subunit	6.2.1.5	Itaconate	Itaconyl-CoA	green
+succinyl-CoA synthetase alpha subunit	6.2.1.5	Itaconate	Orthophosphate	green
+succinyl-CoA synthetase alpha subunit	6.2.1.5	Itaconyl-CoA	ATP	green
+succinyl-CoA synthetase alpha subunit	6.2.1.5	Itaconyl-CoA	CoA	green
+succinyl-CoA synthetase alpha subunit	6.2.1.5	Itaconyl-CoA	Itaconate	green
+succinyl-CoA synthetase alpha subunit	6.2.1.5	Orthophosphate	ATP	green
+succinyl-CoA synthetase alpha subunit	6.2.1.5	Orthophosphate	CoA	green
+succinyl-CoA synthetase alpha subunit	6.2.1.5	Orthophosphate	Itaconate	green
+succinyl-CoA synthetase beta subunit	6.2.1.5	ADP	ATP	green
+succinyl-CoA synthetase beta subunit	6.2.1.5	ADP	CoA	green
+succinyl-CoA synthetase beta subunit	6.2.1.5	ADP	Itaconate	green
+succinyl-CoA synthetase beta subunit	6.2.1.5	ATP	ADP	green
+succinyl-CoA synthetase beta subunit	6.2.1.5	ATP	Itaconyl-CoA	green
+succinyl-CoA synthetase beta subunit	6.2.1.5	ATP	Orthophosphate	green
+succinyl-CoA synthetase beta subunit	6.2.1.5	CoA	ADP	green
+succinyl-CoA synthetase beta subunit	6.2.1.5	CoA	Itaconyl-CoA	green
+succinyl-CoA synthetase beta subunit	6.2.1.5	CoA	Orthophosphate	green
+succinyl-CoA synthetase beta subunit	6.2.1.5	Itaconate	ADP	green
+succinyl-CoA synthetase beta subunit	6.2.1.5	Itaconate	Itaconyl-CoA	green
+succinyl-CoA synthetase beta subunit	6.2.1.5	Itaconate	Orthophosphate	green
+succinyl-CoA synthetase beta subunit	6.2.1.5	Itaconyl-CoA	ATP	green
+succinyl-CoA synthetase beta subunit	6.2.1.5	Itaconyl-CoA	CoA	green
+succinyl-CoA synthetase beta subunit	6.2.1.5	Itaconyl-CoA	Itaconate	green
+succinyl-CoA synthetase beta subunit	6.2.1.5	Orthophosphate	ATP	green
+succinyl-CoA synthetase beta subunit	6.2.1.5	Orthophosphate	CoA	green
+succinyl-CoA synthetase beta subunit	6.2.1.5	Orthophosphate	Itaconate	green
+trans-aconitate decarboxylase	4.1.1.113	CO2	trans-Aconitate	white
+trans-aconitate decarboxylase	4.1.1.113	Itaconate	trans-Aconitate	white
+trans-aconitate decarboxylase	4.1.1.113	trans-Aconitate	CO2	white
+trans-aconitate decarboxylase	4.1.1.113	trans-Aconitate	Itaconate	white

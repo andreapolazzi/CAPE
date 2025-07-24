@@ -1,0 +1,532 @@
+enzyme_name	EC	source	target	color
+5-formyltetrahydrofolate cyclo-ligase	6.3.3.2	ATP	5,10-Methenyltetrahydrofolate	green
+5-formyltetrahydrofolate cyclo-ligase	6.3.3.2	ATP	ADP	green
+5-formyltetrahydrofolate cyclo-ligase	6.3.3.2	ATP	Orthophosphate	green
+5-formyltetrahydrofolate cyclo-ligase	6.3.3.2	Folinic acid	5,10-Methenyltetrahydrofolate	green
+5-formyltetrahydrofolate cyclo-ligase	6.3.3.2	Folinic acid	ADP	green
+5-formyltetrahydrofolate cyclo-ligase	6.3.3.2	Folinic acid	Orthophosphate	green
+5-formyltetrahydrofolate cyclo-ligase	6.3.3.2	H+	5,10-Methenyltetrahydrofolate	green
+5-formyltetrahydrofolate cyclo-ligase	6.3.3.2	H+	ADP	green
+5-formyltetrahydrofolate cyclo-ligase	6.3.3.2	H+	Orthophosphate	green
+5-methyltetrahydrofolate--homocysteine methyltransferase	2.1.1.13	5-Methyltetrahydrofolate	L-Methionine	green
+5-methyltetrahydrofolate--homocysteine methyltransferase	2.1.1.13	5-Methyltetrahydrofolate	Tetrahydrofolate	green
+5-methyltetrahydrofolate--homocysteine methyltransferase	2.1.1.13	L-Homocysteine	L-Methionine	green
+5-methyltetrahydrofolate--homocysteine methyltransferase	2.1.1.13	L-Homocysteine	Tetrahydrofolate	green
+S-adenosylmethionine synthetase	2.5.1.6	Diphosphate	ATP	green
+S-adenosylmethionine synthetase	2.5.1.6	Diphosphate	H2O	green
+S-adenosylmethionine synthetase	2.5.1.6	Diphosphate	L-Methionine	green
+S-adenosylmethionine synthetase	2.5.1.6	Orthophosphate	ATP	green
+S-adenosylmethionine synthetase	2.5.1.6	Orthophosphate	H2O	green
+S-adenosylmethionine synthetase	2.5.1.6	Orthophosphate	L-Methionine	green
+S-adenosylmethionine synthetase	2.5.1.6	S-Adenosyl-L-methionine	ATP	green
+S-adenosylmethionine synthetase	2.5.1.6	S-Adenosyl-L-methionine	H2O	green
+S-adenosylmethionine synthetase	2.5.1.6	S-Adenosyl-L-methionine	L-Methionine	green
+[methyl-Co(III) glycine betaine-specific corrinoid protein]---tetrahydrofolate methyltransferase	2.1.1.378	5-Methyltetrahydrofolate	Methyl-Co(III) corrinoid protein	white
+[methyl-Co(III) glycine betaine-specific corrinoid protein]---tetrahydrofolate methyltransferase	2.1.1.378	5-Methyltetrahydrofolate	Tetrahydrofolate	white
+[methyl-Co(III) glycine betaine-specific corrinoid protein]---tetrahydrofolate methyltransferase	2.1.1.378	Co(I) corrinoid protein	Methyl-Co(III) corrinoid protein	white
+[methyl-Co(III) glycine betaine-specific corrinoid protein]---tetrahydrofolate methyltransferase	2.1.1.378	Co(I) corrinoid protein	Tetrahydrofolate	white
+[methyl-Co(III) glycine betaine-specific corrinoid protein]---tetrahydrofolate methyltransferase	2.1.1.378	H+	Methyl-Co(III) corrinoid protein	white
+[methyl-Co(III) glycine betaine-specific corrinoid protein]---tetrahydrofolate methyltransferase	2.1.1.378	H+	Tetrahydrofolate	white
+[methyl-Co(III) glycine betaine-specific corrinoid protein]---tetrahydrofolate methyltransferase	2.1.1.378	Methyl-Co(III) corrinoid protein	5-Methyltetrahydrofolate	white
+[methyl-Co(III) glycine betaine-specific corrinoid protein]---tetrahydrofolate methyltransferase	2.1.1.378	Methyl-Co(III) corrinoid protein	Co(I) corrinoid protein	white
+[methyl-Co(III) glycine betaine-specific corrinoid protein]---tetrahydrofolate methyltransferase	2.1.1.378	Methyl-Co(III) corrinoid protein	H+	white
+[methyl-Co(III) glycine betaine-specific corrinoid protein]---tetrahydrofolate methyltransferase	2.1.1.378	Tetrahydrofolate	5-Methyltetrahydrofolate	white
+[methyl-Co(III) glycine betaine-specific corrinoid protein]---tetrahydrofolate methyltransferase	2.1.1.378	Tetrahydrofolate	Co(I) corrinoid protein	white
+[methyl-Co(III) glycine betaine-specific corrinoid protein]---tetrahydrofolate methyltransferase	2.1.1.378	Tetrahydrofolate	H+	white
+[methyl-Co(III) methoxylated-aromatic-compound-specific corrinoid protein]---tetrahydrofolate methyltransferase	2.1.1.385	5-Methyltetrahydrofolate	Methyl-Co(III) corrinoid protein	white
+[methyl-Co(III) methoxylated-aromatic-compound-specific corrinoid protein]---tetrahydrofolate methyltransferase	2.1.1.385	5-Methyltetrahydrofolate	Tetrahydrofolate	white
+[methyl-Co(III) methoxylated-aromatic-compound-specific corrinoid protein]---tetrahydrofolate methyltransferase	2.1.1.385	Co(I) corrinoid protein	Methyl-Co(III) corrinoid protein	white
+[methyl-Co(III) methoxylated-aromatic-compound-specific corrinoid protein]---tetrahydrofolate methyltransferase	2.1.1.385	Co(I) corrinoid protein	Tetrahydrofolate	white
+[methyl-Co(III) methoxylated-aromatic-compound-specific corrinoid protein]---tetrahydrofolate methyltransferase	2.1.1.385	H+	Methyl-Co(III) corrinoid protein	white
+[methyl-Co(III) methoxylated-aromatic-compound-specific corrinoid protein]---tetrahydrofolate methyltransferase	2.1.1.385	H+	Tetrahydrofolate	white
+[methyl-Co(III) methoxylated-aromatic-compound-specific corrinoid protein]---tetrahydrofolate methyltransferase	2.1.1.385	Methyl-Co(III) corrinoid protein	5-Methyltetrahydrofolate	white
+[methyl-Co(III) methoxylated-aromatic-compound-specific corrinoid protein]---tetrahydrofolate methyltransferase	2.1.1.385	Methyl-Co(III) corrinoid protein	Co(I) corrinoid protein	white
+[methyl-Co(III) methoxylated-aromatic-compound-specific corrinoid protein]---tetrahydrofolate methyltransferase	2.1.1.385	Methyl-Co(III) corrinoid protein	H+	white
+[methyl-Co(III) methoxylated-aromatic-compound-specific corrinoid protein]---tetrahydrofolate methyltransferase	2.1.1.385	Tetrahydrofolate	5-Methyltetrahydrofolate	white
+[methyl-Co(III) methoxylated-aromatic-compound-specific corrinoid protein]---tetrahydrofolate methyltransferase	2.1.1.385	Tetrahydrofolate	Co(I) corrinoid protein	white
+[methyl-Co(III) methoxylated-aromatic-compound-specific corrinoid protein]---tetrahydrofolate methyltransferase	2.1.1.385	Tetrahydrofolate	H+	white
+[methyl-Co(III) quaternary-amine-specific corrinoid protein]---tetrahydrofolate methyltransferase	2.1.1.389	5-Methyltetrahydrofolate	Methyl-Co(III) corrinoid protein	white
+[methyl-Co(III) quaternary-amine-specific corrinoid protein]---tetrahydrofolate methyltransferase	2.1.1.389	5-Methyltetrahydrofolate	Tetrahydrofolate	white
+[methyl-Co(III) quaternary-amine-specific corrinoid protein]---tetrahydrofolate methyltransferase	2.1.1.389	Co(I) corrinoid protein	Methyl-Co(III) corrinoid protein	white
+[methyl-Co(III) quaternary-amine-specific corrinoid protein]---tetrahydrofolate methyltransferase	2.1.1.389	Co(I) corrinoid protein	Tetrahydrofolate	white
+[methyl-Co(III) quaternary-amine-specific corrinoid protein]---tetrahydrofolate methyltransferase	2.1.1.389	H+	Methyl-Co(III) corrinoid protein	white
+[methyl-Co(III) quaternary-amine-specific corrinoid protein]---tetrahydrofolate methyltransferase	2.1.1.389	H+	Tetrahydrofolate	white
+[methyl-Co(III) quaternary-amine-specific corrinoid protein]---tetrahydrofolate methyltransferase	2.1.1.389	Methyl-Co(III) corrinoid protein	5-Methyltetrahydrofolate	white
+[methyl-Co(III) quaternary-amine-specific corrinoid protein]---tetrahydrofolate methyltransferase	2.1.1.389	Methyl-Co(III) corrinoid protein	Co(I) corrinoid protein	white
+[methyl-Co(III) quaternary-amine-specific corrinoid protein]---tetrahydrofolate methyltransferase	2.1.1.389	Methyl-Co(III) corrinoid protein	H+	white
+[methyl-Co(III) quaternary-amine-specific corrinoid protein]---tetrahydrofolate methyltransferase	2.1.1.389	Tetrahydrofolate	5-Methyltetrahydrofolate	white
+[methyl-Co(III) quaternary-amine-specific corrinoid protein]---tetrahydrofolate methyltransferase	2.1.1.389	Tetrahydrofolate	Co(I) corrinoid protein	white
+[methyl-Co(III) quaternary-amine-specific corrinoid protein]---tetrahydrofolate methyltransferase	2.1.1.389	Tetrahydrofolate	H+	white
+adenosylhomocysteinase	3.13.2.1	H2O	Adenosine	green
+adenosylhomocysteinase	3.13.2.1	H2O	L-Homocysteine	green
+adenosylhomocysteinase	3.13.2.1	S-Adenosyl-L-homocysteine	Adenosine	green
+adenosylhomocysteinase	3.13.2.1	S-Adenosyl-L-homocysteine	L-Homocysteine	green
+betaine-aldehyde dehydrogenase	1.2.1.8	Betaine aldehyde	Betaine	green
+betaine-aldehyde dehydrogenase	1.2.1.8	Betaine aldehyde	H+	green
+betaine-aldehyde dehydrogenase	1.2.1.8	Betaine aldehyde	NADH	green
+betaine-aldehyde dehydrogenase	1.2.1.8	Betaine aldehyde	NADPH	green
+betaine-aldehyde dehydrogenase	1.2.1.8	H2O	Betaine	green
+betaine-aldehyde dehydrogenase	1.2.1.8	H2O	H+	green
+betaine-aldehyde dehydrogenase	1.2.1.8	H2O	NADH	green
+betaine-aldehyde dehydrogenase	1.2.1.8	H2O	NADPH	green
+betaine-aldehyde dehydrogenase	1.2.1.8	NAD+	Betaine	green
+betaine-aldehyde dehydrogenase	1.2.1.8	NAD+	H+	green
+betaine-aldehyde dehydrogenase	1.2.1.8	NAD+	NADH	green
+betaine-aldehyde dehydrogenase	1.2.1.8	NADP+	Betaine	green
+betaine-aldehyde dehydrogenase	1.2.1.8	NADP+	H+	green
+betaine-aldehyde dehydrogenase	1.2.1.8	NADP+	NADPH	green
+betaine-homocysteine S-methyltransferase	2.1.1.5	Betaine	L-Methionine	white
+betaine-homocysteine S-methyltransferase	2.1.1.5	Betaine	N,N-Dimethylglycine	white
+betaine-homocysteine S-methyltransferase	2.1.1.5	L-Homocysteine	L-Methionine	white
+betaine-homocysteine S-methyltransferase	2.1.1.5	L-Homocysteine	N,N-Dimethylglycine	white
+betaine-homocysteine S-methyltransferase	2.1.1.5	L-Methionine	Betaine	white
+betaine-homocysteine S-methyltransferase	2.1.1.5	L-Methionine	L-Homocysteine	white
+betaine-homocysteine S-methyltransferase	2.1.1.5	N,N-Dimethylglycine	Betaine	white
+betaine-homocysteine S-methyltransferase	2.1.1.5	N,N-Dimethylglycine	L-Homocysteine	white
+choline dehydrogenase	1.1.99.1	Acceptor	Betaine aldehyde	white
+choline dehydrogenase	1.1.99.1	Acceptor	Reduced acceptor	white
+choline dehydrogenase	1.1.99.1	Betaine aldehyde	Acceptor	white
+choline dehydrogenase	1.1.99.1	Betaine aldehyde	Choline	white
+choline dehydrogenase	1.1.99.1	Choline	Betaine aldehyde	white
+choline dehydrogenase	1.1.99.1	Choline	Reduced acceptor	white
+choline dehydrogenase	1.1.99.1	Reduced acceptor	Acceptor	white
+choline dehydrogenase	1.1.99.1	Reduced acceptor	Choline	white
+choline monooxygenase	1.14.15.7	Betaine aldehyde	Choline	white
+choline monooxygenase	1.14.15.7	Betaine aldehyde	H+	white
+choline monooxygenase	1.14.15.7	Betaine aldehyde	Oxygen	white
+choline monooxygenase	1.14.15.7	Betaine aldehyde	Reduced ferredoxin	white
+choline monooxygenase	1.14.15.7	Choline	Betaine aldehyde	white
+choline monooxygenase	1.14.15.7	Choline	H2O	white
+choline monooxygenase	1.14.15.7	Choline	Oxidized ferredoxin	white
+choline monooxygenase	1.14.15.7	H+	Betaine aldehyde	white
+choline monooxygenase	1.14.15.7	H+	H2O	white
+choline monooxygenase	1.14.15.7	H+	Oxidized ferredoxin	white
+choline monooxygenase	1.14.15.7	H2O	Choline	white
+choline monooxygenase	1.14.15.7	H2O	H+	white
+choline monooxygenase	1.14.15.7	H2O	Oxygen	white
+choline monooxygenase	1.14.15.7	H2O	Reduced ferredoxin	white
+choline monooxygenase	1.14.15.7	Oxidized ferredoxin	Choline	white
+choline monooxygenase	1.14.15.7	Oxidized ferredoxin	H+	white
+choline monooxygenase	1.14.15.7	Oxidized ferredoxin	Oxygen	white
+choline monooxygenase	1.14.15.7	Oxidized ferredoxin	Reduced ferredoxin	white
+choline monooxygenase	1.14.15.7	Oxygen	Betaine aldehyde	white
+choline monooxygenase	1.14.15.7	Oxygen	H2O	white
+choline monooxygenase	1.14.15.7	Oxygen	Oxidized ferredoxin	white
+choline monooxygenase	1.14.15.7	Reduced ferredoxin	Betaine aldehyde	white
+choline monooxygenase	1.14.15.7	Reduced ferredoxin	H2O	white
+choline monooxygenase	1.14.15.7	Reduced ferredoxin	Oxidized ferredoxin	white
+choline oxidase	1.1.3.17	Betaine aldehyde	Betaine	green
+choline oxidase	1.1.3.17	Betaine aldehyde	Hydrogen peroxide	green
+choline oxidase	1.1.3.17	Choline	Betaine aldehyde	green
+choline oxidase	1.1.3.17	Choline	Hydrogen peroxide	green
+choline oxidase	1.1.3.17	H2O	Betaine	green
+choline oxidase	1.1.3.17	H2O	Hydrogen peroxide	green
+choline oxidase	1.1.3.17	Oxygen	Betaine	green
+choline oxidase	1.1.3.17	Oxygen	Betaine aldehyde	green
+choline oxidase	1.1.3.17	Oxygen	Hydrogen peroxide	green
+cystathionine beta-synthase	4.2.1.22	L-Homocysteine	H2O	green
+cystathionine beta-synthase	4.2.1.22	L-Homocysteine	L-Cystathionine	green
+cystathionine beta-synthase	4.2.1.22	L-Serine	H2O	green
+cystathionine beta-synthase	4.2.1.22	L-Serine	L-Cystathionine	green
+cystathionine gamma-lyase	4.4.1.1	H2O	2-Oxobutanoate	green
+cystathionine gamma-lyase	4.4.1.1	H2O	Ammonia	green
+cystathionine gamma-lyase	4.4.1.1	H2O	L-Cysteine	green
+cystathionine gamma-lyase	4.4.1.1	L-Cystathionine	2-Oxobutanoate	green
+cystathionine gamma-lyase	4.4.1.1	L-Cystathionine	Ammonia	green
+cystathionine gamma-lyase	4.4.1.1	L-Cystathionine	L-Cysteine	green
+dihydrofolate reductase	1.5.1.3	Dihydrofolate	Folate	green
+dihydrofolate reductase	1.5.1.3	Dihydrofolate	H+	green
+dihydrofolate reductase	1.5.1.3	Dihydrofolate	NADH	green
+dihydrofolate reductase	1.5.1.3	Dihydrofolate	NADPH	green
+dihydrofolate reductase	1.5.1.3	NAD+	Dihydrofolate	green
+dihydrofolate reductase	1.5.1.3	NAD+	Folate	green
+dihydrofolate reductase	1.5.1.3	NAD+	H+	green
+dihydrofolate reductase	1.5.1.3	NAD+	NADH	green
+dihydrofolate reductase	1.5.1.3	NADP+	Dihydrofolate	green
+dihydrofolate reductase	1.5.1.3	NADP+	Folate	green
+dihydrofolate reductase	1.5.1.3	NADP+	H+	green
+dihydrofolate reductase	1.5.1.3	NADP+	NADPH	green
+dihydrofolate reductase	1.5.1.3	Tetrahydrofolate	Dihydrofolate	green
+dihydrofolate reductase	1.5.1.3	Tetrahydrofolate	Folate	green
+dihydrofolate reductase	1.5.1.3	Tetrahydrofolate	H+	green
+dihydrofolate reductase	1.5.1.3	Tetrahydrofolate	NADH	green
+dihydrofolate reductase	1.5.1.3	Tetrahydrofolate	NADPH	green
+dihydrolipoyl dehydrogenase	1.8.1.4	Glycine	5,10-Methylenetetrahydrofolate	green
+dihydrolipoyl dehydrogenase	1.8.1.4	Glycine	Ammonia	green
+dihydrolipoyl dehydrogenase	1.8.1.4	Glycine	CO2	green
+dihydrolipoyl dehydrogenase	1.8.1.4	Glycine	H+	green
+dihydrolipoyl dehydrogenase	1.8.1.4	Glycine	NADH	green
+dihydrolipoyl dehydrogenase	1.8.1.4	NAD+	5,10-Methylenetetrahydrofolate	green
+dihydrolipoyl dehydrogenase	1.8.1.4	NAD+	Ammonia	green
+dihydrolipoyl dehydrogenase	1.8.1.4	NAD+	CO2	green
+dihydrolipoyl dehydrogenase	1.8.1.4	NAD+	H+	green
+dihydrolipoyl dehydrogenase	1.8.1.4	NAD+	NADH	green
+dihydrolipoyl dehydrogenase	1.8.1.4	Tetrahydrofolate	5,10-Methylenetetrahydrofolate	green
+dihydrolipoyl dehydrogenase	1.8.1.4	Tetrahydrofolate	Ammonia	green
+dihydrolipoyl dehydrogenase	1.8.1.4	Tetrahydrofolate	CO2	green
+dihydrolipoyl dehydrogenase	1.8.1.4	Tetrahydrofolate	H+	green
+dihydrolipoyl dehydrogenase	1.8.1.4	Tetrahydrofolate	NADH	green
+dimethylglycine dehydrogenase	1.5.8.4	5,10-Methylenetetrahydrofolate	Electron-transferring flavoprotein	white
+dimethylglycine dehydrogenase	1.5.8.4	5,10-Methylenetetrahydrofolate	N,N-Dimethylglycine	white
+dimethylglycine dehydrogenase	1.5.8.4	5,10-Methylenetetrahydrofolate	Tetrahydrofolate	white
+dimethylglycine dehydrogenase	1.5.8.4	Electron-transferring flavoprotein	5,10-Methylenetetrahydrofolate	white
+dimethylglycine dehydrogenase	1.5.8.4	Electron-transferring flavoprotein	Reduced electron-transferring flavoprotein	white
+dimethylglycine dehydrogenase	1.5.8.4	Electron-transferring flavoprotein	Sarcosine	white
+dimethylglycine dehydrogenase	1.5.8.4	N,N-Dimethylglycine	5,10-Methylenetetrahydrofolate	white
+dimethylglycine dehydrogenase	1.5.8.4	N,N-Dimethylglycine	Reduced electron-transferring flavoprotein	white
+dimethylglycine dehydrogenase	1.5.8.4	N,N-Dimethylglycine	Sarcosine	white
+dimethylglycine dehydrogenase	1.5.8.4	Reduced electron-transferring flavoprotein	Electron-transferring flavoprotein	white
+dimethylglycine dehydrogenase	1.5.8.4	Reduced electron-transferring flavoprotein	N,N-Dimethylglycine	white
+dimethylglycine dehydrogenase	1.5.8.4	Reduced electron-transferring flavoprotein	Tetrahydrofolate	white
+dimethylglycine dehydrogenase	1.5.8.4	Sarcosine	Electron-transferring flavoprotein	white
+dimethylglycine dehydrogenase	1.5.8.4	Sarcosine	N,N-Dimethylglycine	white
+dimethylglycine dehydrogenase	1.5.8.4	Sarcosine	Tetrahydrofolate	white
+dimethylglycine dehydrogenase	1.5.8.4	Tetrahydrofolate	5,10-Methylenetetrahydrofolate	white
+dimethylglycine dehydrogenase	1.5.8.4	Tetrahydrofolate	Reduced electron-transferring flavoprotein	white
+dimethylglycine dehydrogenase	1.5.8.4	Tetrahydrofolate	Sarcosine	white
+dimethylglycine oxidase	1.5.3.10	N,N-Dimethylglycine	5,10-Methylenetetrahydrofolate	green
+dimethylglycine oxidase	1.5.3.10	N,N-Dimethylglycine	Hydrogen peroxide	green
+dimethylglycine oxidase	1.5.3.10	N,N-Dimethylglycine	Sarcosine	green
+dimethylglycine oxidase	1.5.3.10	Oxygen	5,10-Methylenetetrahydrofolate	green
+dimethylglycine oxidase	1.5.3.10	Oxygen	Hydrogen peroxide	green
+dimethylglycine oxidase	1.5.3.10	Oxygen	Sarcosine	green
+dimethylglycine oxidase	1.5.3.10	Tetrahydrofolate	5,10-Methylenetetrahydrofolate	green
+dimethylglycine oxidase	1.5.3.10	Tetrahydrofolate	Hydrogen peroxide	green
+dimethylglycine oxidase	1.5.3.10	Tetrahydrofolate	Sarcosine	green
+formate--tetrahydrofolate ligase	6.3.4.3	10-Formyltetrahydrofolate	ATP	white
+formate--tetrahydrofolate ligase	6.3.4.3	10-Formyltetrahydrofolate	Formate	white
+formate--tetrahydrofolate ligase	6.3.4.3	10-Formyltetrahydrofolate	Tetrahydrofolate	white
+formate--tetrahydrofolate ligase	6.3.4.3	ADP	ATP	white
+formate--tetrahydrofolate ligase	6.3.4.3	ADP	Formate	white
+formate--tetrahydrofolate ligase	6.3.4.3	ADP	Tetrahydrofolate	white
+formate--tetrahydrofolate ligase	6.3.4.3	ATP	10-Formyltetrahydrofolate	white
+formate--tetrahydrofolate ligase	6.3.4.3	ATP	ADP	white
+formate--tetrahydrofolate ligase	6.3.4.3	ATP	Orthophosphate	white
+formate--tetrahydrofolate ligase	6.3.4.3	Formate	10-Formyltetrahydrofolate	white
+formate--tetrahydrofolate ligase	6.3.4.3	Formate	ADP	white
+formate--tetrahydrofolate ligase	6.3.4.3	Formate	Orthophosphate	white
+formate--tetrahydrofolate ligase	6.3.4.3	Orthophosphate	ATP	white
+formate--tetrahydrofolate ligase	6.3.4.3	Orthophosphate	Formate	white
+formate--tetrahydrofolate ligase	6.3.4.3	Orthophosphate	Tetrahydrofolate	white
+formate--tetrahydrofolate ligase	6.3.4.3	Tetrahydrofolate	10-Formyltetrahydrofolate	white
+formate--tetrahydrofolate ligase	6.3.4.3	Tetrahydrofolate	ADP	white
+formate--tetrahydrofolate ligase	6.3.4.3	Tetrahydrofolate	Orthophosphate	white
+formiminotetrahydrofolate cyclodeaminase	4.3.1.4	5,10-Methenyltetrahydrofolate	5-Formiminotetrahydrofolate	white
+formiminotetrahydrofolate cyclodeaminase	4.3.1.4	5,10-Methenyltetrahydrofolate	H+	white
+formiminotetrahydrofolate cyclodeaminase	4.3.1.4	5-Formiminotetrahydrofolate	5,10-Methenyltetrahydrofolate	white
+formiminotetrahydrofolate cyclodeaminase	4.3.1.4	5-Formiminotetrahydrofolate	Ammonia	white
+formiminotetrahydrofolate cyclodeaminase	4.3.1.4	Ammonia	5-Formiminotetrahydrofolate	white
+formiminotetrahydrofolate cyclodeaminase	4.3.1.4	Ammonia	H+	white
+formiminotetrahydrofolate cyclodeaminase	4.3.1.4	H+	5,10-Methenyltetrahydrofolate	white
+formiminotetrahydrofolate cyclodeaminase	4.3.1.4	H+	Ammonia	white
+formyltetrahydrofolate deformylase	3.5.1.10	10-Formyltetrahydrofolate	Formate	green
+formyltetrahydrofolate deformylase	3.5.1.10	10-Formyltetrahydrofolate	Tetrahydrofolate	green
+formyltetrahydrofolate deformylase	3.5.1.10	H2O	Formate	green
+formyltetrahydrofolate deformylase	3.5.1.10	H2O	Tetrahydrofolate	green
+formyltetrahydrofolate dehydrogenase	1.5.1.6	10-Formyltetrahydrofolate	CO2	white
+formyltetrahydrofolate dehydrogenase	1.5.1.6	10-Formyltetrahydrofolate	H+	white
+formyltetrahydrofolate dehydrogenase	1.5.1.6	10-Formyltetrahydrofolate	NADPH	white
+formyltetrahydrofolate dehydrogenase	1.5.1.6	10-Formyltetrahydrofolate	Tetrahydrofolate	white
+formyltetrahydrofolate dehydrogenase	1.5.1.6	CO2	10-Formyltetrahydrofolate	white
+formyltetrahydrofolate dehydrogenase	1.5.1.6	CO2	H2O	white
+formyltetrahydrofolate dehydrogenase	1.5.1.6	CO2	NADP+	white
+formyltetrahydrofolate dehydrogenase	1.5.1.6	H+	10-Formyltetrahydrofolate	white
+formyltetrahydrofolate dehydrogenase	1.5.1.6	H+	H2O	white
+formyltetrahydrofolate dehydrogenase	1.5.1.6	H+	NADP+	white
+formyltetrahydrofolate dehydrogenase	1.5.1.6	H2O	CO2	white
+formyltetrahydrofolate dehydrogenase	1.5.1.6	H2O	H+	white
+formyltetrahydrofolate dehydrogenase	1.5.1.6	H2O	NADPH	white
+formyltetrahydrofolate dehydrogenase	1.5.1.6	H2O	Tetrahydrofolate	white
+formyltetrahydrofolate dehydrogenase	1.5.1.6	NADP+	CO2	white
+formyltetrahydrofolate dehydrogenase	1.5.1.6	NADP+	H+	white
+formyltetrahydrofolate dehydrogenase	1.5.1.6	NADP+	NADPH	white
+formyltetrahydrofolate dehydrogenase	1.5.1.6	NADP+	Tetrahydrofolate	white
+formyltetrahydrofolate dehydrogenase	1.5.1.6	NADPH	10-Formyltetrahydrofolate	white
+formyltetrahydrofolate dehydrogenase	1.5.1.6	NADPH	H2O	white
+formyltetrahydrofolate dehydrogenase	1.5.1.6	NADPH	NADP+	white
+formyltetrahydrofolate dehydrogenase	1.5.1.6	Tetrahydrofolate	10-Formyltetrahydrofolate	white
+formyltetrahydrofolate dehydrogenase	1.5.1.6	Tetrahydrofolate	H2O	white
+formyltetrahydrofolate dehydrogenase	1.5.1.6	Tetrahydrofolate	NADP+	white
+glutamate formiminotransferase / 5-formyltetrahydrofolate cyclo-ligase	2.1.2.5	5-Formiminotetrahydrofolate	N-Formimino-L-glutamate	white
+glutamate formiminotransferase / 5-formyltetrahydrofolate cyclo-ligase	2.1.2.5	5-Formiminotetrahydrofolate	Tetrahydrofolate	white
+glutamate formiminotransferase / 5-formyltetrahydrofolate cyclo-ligase	2.1.2.5	L-Glutamate	N-Formimino-L-glutamate	white
+glutamate formiminotransferase / 5-formyltetrahydrofolate cyclo-ligase	2.1.2.5	L-Glutamate	Tetrahydrofolate	white
+glutamate formiminotransferase / 5-formyltetrahydrofolate cyclo-ligase	2.1.2.5	N-Formimino-L-glutamate	5-Formiminotetrahydrofolate	white
+glutamate formiminotransferase / 5-formyltetrahydrofolate cyclo-ligase	2.1.2.5	N-Formimino-L-glutamate	L-Glutamate	white
+glutamate formiminotransferase / 5-formyltetrahydrofolate cyclo-ligase	2.1.2.5	Tetrahydrofolate	5-Formiminotetrahydrofolate	white
+glutamate formiminotransferase / 5-formyltetrahydrofolate cyclo-ligase	2.1.2.5	Tetrahydrofolate	L-Glutamate	white
+glutamate formiminotransferase / formiminotetrahydrofolate cyclodeaminase	2.1.2.5	5-Formiminotetrahydrofolate	N-Formimino-L-glutamate	white
+glutamate formiminotransferase / formiminotetrahydrofolate cyclodeaminase	2.1.2.5	5-Formiminotetrahydrofolate	Tetrahydrofolate	white
+glutamate formiminotransferase / formiminotetrahydrofolate cyclodeaminase	2.1.2.5	L-Glutamate	N-Formimino-L-glutamate	white
+glutamate formiminotransferase / formiminotetrahydrofolate cyclodeaminase	2.1.2.5	L-Glutamate	Tetrahydrofolate	white
+glutamate formiminotransferase / formiminotetrahydrofolate cyclodeaminase	2.1.2.5	N-Formimino-L-glutamate	5-Formiminotetrahydrofolate	white
+glutamate formiminotransferase / formiminotetrahydrofolate cyclodeaminase	2.1.2.5	N-Formimino-L-glutamate	L-Glutamate	white
+glutamate formiminotransferase / formiminotetrahydrofolate cyclodeaminase	2.1.2.5	Tetrahydrofolate	5-Formiminotetrahydrofolate	white
+glutamate formiminotransferase / formiminotetrahydrofolate cyclodeaminase	2.1.2.5	Tetrahydrofolate	L-Glutamate	white
+glycine N-methyltransferase	2.1.1.20	Glycine	S-Adenosyl-L-homocysteine	white
+glycine N-methyltransferase	2.1.1.20	Glycine	Sarcosine	white
+glycine N-methyltransferase	2.1.1.20	S-Adenosyl-L-homocysteine	Glycine	white
+glycine N-methyltransferase	2.1.1.20	S-Adenosyl-L-homocysteine	S-Adenosyl-L-methionine	white
+glycine N-methyltransferase	2.1.1.20	S-Adenosyl-L-methionine	S-Adenosyl-L-homocysteine	white
+glycine N-methyltransferase	2.1.1.20	S-Adenosyl-L-methionine	Sarcosine	white
+glycine N-methyltransferase	2.1.1.20	Sarcosine	Glycine	white
+glycine N-methyltransferase	2.1.1.20	Sarcosine	S-Adenosyl-L-methionine	white
+glycine cleavage system H protein	5.4.2.11	Glycine	5,10-Methylenetetrahydrofolate	green
+glycine cleavage system H protein	5.4.2.11	Glycine	Ammonia	green
+glycine cleavage system H protein	5.4.2.11	Glycine	CO2	green
+glycine cleavage system H protein	5.4.2.11	Glycine	H+	green
+glycine cleavage system H protein	5.4.2.11	Glycine	NADH	green
+glycine cleavage system H protein	5.4.2.11	NAD+	5,10-Methylenetetrahydrofolate	green
+glycine cleavage system H protein	5.4.2.11	NAD+	Ammonia	green
+glycine cleavage system H protein	5.4.2.11	NAD+	CO2	green
+glycine cleavage system H protein	5.4.2.11	NAD+	H+	green
+glycine cleavage system H protein	5.4.2.11	NAD+	NADH	green
+glycine cleavage system H protein	5.4.2.11	Tetrahydrofolate	5,10-Methylenetetrahydrofolate	green
+glycine cleavage system H protein	5.4.2.11	Tetrahydrofolate	Ammonia	green
+glycine cleavage system H protein	5.4.2.11	Tetrahydrofolate	CO2	green
+glycine cleavage system H protein	5.4.2.11	Tetrahydrofolate	H+	green
+glycine cleavage system H protein	5.4.2.11	Tetrahydrofolate	NADH	green
+glycine cleavage system P protein (glycine dehydrogenase)	1.4.4.2	Glycine	5,10-Methylenetetrahydrofolate	green
+glycine cleavage system P protein (glycine dehydrogenase)	1.4.4.2	Glycine	Ammonia	green
+glycine cleavage system P protein (glycine dehydrogenase)	1.4.4.2	Glycine	CO2	green
+glycine cleavage system P protein (glycine dehydrogenase)	1.4.4.2	Glycine	H+	green
+glycine cleavage system P protein (glycine dehydrogenase)	1.4.4.2	Glycine	NADH	green
+glycine cleavage system P protein (glycine dehydrogenase)	1.4.4.2	NAD+	5,10-Methylenetetrahydrofolate	green
+glycine cleavage system P protein (glycine dehydrogenase)	1.4.4.2	NAD+	Ammonia	green
+glycine cleavage system P protein (glycine dehydrogenase)	1.4.4.2	NAD+	CO2	green
+glycine cleavage system P protein (glycine dehydrogenase)	1.4.4.2	NAD+	H+	green
+glycine cleavage system P protein (glycine dehydrogenase)	1.4.4.2	NAD+	NADH	green
+glycine cleavage system P protein (glycine dehydrogenase)	1.4.4.2	Tetrahydrofolate	5,10-Methylenetetrahydrofolate	green
+glycine cleavage system P protein (glycine dehydrogenase)	1.4.4.2	Tetrahydrofolate	Ammonia	green
+glycine cleavage system P protein (glycine dehydrogenase)	1.4.4.2	Tetrahydrofolate	CO2	green
+glycine cleavage system P protein (glycine dehydrogenase)	1.4.4.2	Tetrahydrofolate	H+	green
+glycine cleavage system P protein (glycine dehydrogenase)	1.4.4.2	Tetrahydrofolate	NADH	green
+glycine cleavage system T protein (aminomethyltransferase)	2.1.2.10	5,10-Methylenetetrahydrofolate	Tetrahydrofolate	green
+glycine cleavage system T protein (aminomethyltransferase)	2.1.2.10	5,10-Methylenetetrahydrofolate	[Protein]-S8-aminomethyldihydrolipoyllysine	green
+glycine cleavage system T protein (aminomethyltransferase)	2.1.2.10	Ammonia	Tetrahydrofolate	green
+glycine cleavage system T protein (aminomethyltransferase)	2.1.2.10	Ammonia	[Protein]-S8-aminomethyldihydrolipoyllysine	green
+glycine cleavage system T protein (aminomethyltransferase)	2.1.2.10	Dihydrolipoylprotein	Tetrahydrofolate	green
+glycine cleavage system T protein (aminomethyltransferase)	2.1.2.10	Dihydrolipoylprotein	[Protein]-S8-aminomethyldihydrolipoyllysine	green
+glycine cleavage system T protein (aminomethyltransferase)	2.1.2.10	Folinic acid	5,10-Methenyltetrahydrofolate	green
+glycine cleavage system T protein (aminomethyltransferase)	2.1.2.10	Folinic acid	H2O	green
+glycine cleavage system T protein (aminomethyltransferase)	2.1.2.10	Glycine	5,10-Methylenetetrahydrofolate	green
+glycine cleavage system T protein (aminomethyltransferase)	2.1.2.10	Glycine	Ammonia	green
+glycine cleavage system T protein (aminomethyltransferase)	2.1.2.10	Glycine	CO2	green
+glycine cleavage system T protein (aminomethyltransferase)	2.1.2.10	Glycine	H+	green
+glycine cleavage system T protein (aminomethyltransferase)	2.1.2.10	Glycine	NADH	green
+glycine cleavage system T protein (aminomethyltransferase)	2.1.2.10	NAD+	5,10-Methylenetetrahydrofolate	green
+glycine cleavage system T protein (aminomethyltransferase)	2.1.2.10	NAD+	Ammonia	green
+glycine cleavage system T protein (aminomethyltransferase)	2.1.2.10	NAD+	CO2	green
+glycine cleavage system T protein (aminomethyltransferase)	2.1.2.10	NAD+	H+	green
+glycine cleavage system T protein (aminomethyltransferase)	2.1.2.10	NAD+	NADH	green
+glycine cleavage system T protein (aminomethyltransferase)	2.1.2.10	Tetrahydrofolate	5,10-Methylenetetrahydrofolate	green
+glycine cleavage system T protein (aminomethyltransferase)	2.1.2.10	Tetrahydrofolate	Ammonia	green
+glycine cleavage system T protein (aminomethyltransferase)	2.1.2.10	Tetrahydrofolate	CO2	green
+glycine cleavage system T protein (aminomethyltransferase)	2.1.2.10	Tetrahydrofolate	Dihydrolipoylprotein	green
+glycine cleavage system T protein (aminomethyltransferase)	2.1.2.10	Tetrahydrofolate	H+	green
+glycine cleavage system T protein (aminomethyltransferase)	2.1.2.10	Tetrahydrofolate	NADH	green
+glycine cleavage system T protein (aminomethyltransferase)	2.1.2.10	[Protein]-S8-aminomethyldihydrolipoyllysine	5,10-Methylenetetrahydrofolate	green
+glycine cleavage system T protein (aminomethyltransferase)	2.1.2.10	[Protein]-S8-aminomethyldihydrolipoyllysine	Ammonia	green
+glycine cleavage system T protein (aminomethyltransferase)	2.1.2.10	[Protein]-S8-aminomethyldihydrolipoyllysine	Dihydrolipoylprotein	green
+glycine hydroxymethyltransferase	2.1.2.1	5,10-Methylenetetrahydrofolate	L-Serine	green
+glycine hydroxymethyltransferase	2.1.2.1	5,10-Methylenetetrahydrofolate	Tetrahydrofolate	green
+glycine hydroxymethyltransferase	2.1.2.1	Glycine	L-Serine	green
+glycine hydroxymethyltransferase	2.1.2.1	Glycine	Tetrahydrofolate	green
+glycine hydroxymethyltransferase	2.1.2.1	H2O	L-Serine	green
+glycine hydroxymethyltransferase	2.1.2.1	H2O	Tetrahydrofolate	green
+glycine hydroxymethyltransferase	2.1.2.1	L-Serine	5,10-Methylenetetrahydrofolate	green
+glycine hydroxymethyltransferase	2.1.2.1	L-Serine	Glycine	green
+glycine hydroxymethyltransferase	2.1.2.1	L-Serine	H2O	green
+glycine hydroxymethyltransferase	2.1.2.1	Tetrahydrofolate	5,10-Methylenetetrahydrofolate	green
+glycine hydroxymethyltransferase	2.1.2.1	Tetrahydrofolate	Glycine	green
+glycine hydroxymethyltransferase	2.1.2.1	Tetrahydrofolate	H2O	green
+homocysteine S-methyltransferase	2.1.1.10	L-Homocysteine	L-Methionine	white
+homocysteine S-methyltransferase	2.1.1.10	L-Homocysteine	S-Adenosyl-L-homocysteine	white
+homocysteine S-methyltransferase	2.1.1.10	L-Methionine	L-Homocysteine	white
+homocysteine S-methyltransferase	2.1.1.10	L-Methionine	S-Adenosyl-L-methionine	white
+homocysteine S-methyltransferase	2.1.1.10	S-Adenosyl-L-homocysteine	L-Homocysteine	white
+homocysteine S-methyltransferase	2.1.1.10	S-Adenosyl-L-homocysteine	S-Adenosyl-L-methionine	white
+homocysteine S-methyltransferase	2.1.1.10	S-Adenosyl-L-methionine	L-Methionine	white
+homocysteine S-methyltransferase	2.1.1.10	S-Adenosyl-L-methionine	S-Adenosyl-L-homocysteine	white
+methylenetetrahydrofolate dehydrogenase (NAD+)	1.5.1.15	5,10-Methenyltetrahydrofolate	5,10-Methylenetetrahydrofolate	white
+methylenetetrahydrofolate dehydrogenase (NAD+)	1.5.1.15	5,10-Methenyltetrahydrofolate	NAD+	white
+methylenetetrahydrofolate dehydrogenase (NAD+)	1.5.1.15	5,10-Methylenetetrahydrofolate	5,10-Methenyltetrahydrofolate	white
+methylenetetrahydrofolate dehydrogenase (NAD+)	1.5.1.15	5,10-Methylenetetrahydrofolate	NADH	white
+methylenetetrahydrofolate dehydrogenase (NAD+)	1.5.1.15	NAD+	5,10-Methenyltetrahydrofolate	white
+methylenetetrahydrofolate dehydrogenase (NAD+)	1.5.1.15	NAD+	NADH	white
+methylenetetrahydrofolate dehydrogenase (NAD+)	1.5.1.15	NADH	5,10-Methylenetetrahydrofolate	white
+methylenetetrahydrofolate dehydrogenase (NAD+)	1.5.1.15	NADH	NAD+	white
+methylenetetrahydrofolate dehydrogenase (NADP+) / methenyltetrahydrofolate cyclohydrolase	1.5.1.5	10-Formyltetrahydrofolate	5,10-Methenyltetrahydrofolate	green
+methylenetetrahydrofolate dehydrogenase (NADP+) / methenyltetrahydrofolate cyclohydrolase	1.5.1.5	10-Formyltetrahydrofolate	H2O	green
+methylenetetrahydrofolate dehydrogenase (NADP+) / methenyltetrahydrofolate cyclohydrolase	1.5.1.5	5,10-Methenyltetrahydrofolate	10-Formyltetrahydrofolate	green
+methylenetetrahydrofolate dehydrogenase (NADP+) / methenyltetrahydrofolate cyclohydrolase	1.5.1.5	5,10-Methenyltetrahydrofolate	5,10-Methylenetetrahydrofolate	green
+methylenetetrahydrofolate dehydrogenase (NADP+) / methenyltetrahydrofolate cyclohydrolase	1.5.1.5	5,10-Methenyltetrahydrofolate	H+	green
+methylenetetrahydrofolate dehydrogenase (NADP+) / methenyltetrahydrofolate cyclohydrolase	1.5.1.5	5,10-Methenyltetrahydrofolate	NADP+	green
+methylenetetrahydrofolate dehydrogenase (NADP+) / methenyltetrahydrofolate cyclohydrolase	1.5.1.5	5,10-Methylenetetrahydrofolate	5,10-Methenyltetrahydrofolate	green
+methylenetetrahydrofolate dehydrogenase (NADP+) / methenyltetrahydrofolate cyclohydrolase	1.5.1.5	5,10-Methylenetetrahydrofolate	NADPH	green
+methylenetetrahydrofolate dehydrogenase (NADP+) / methenyltetrahydrofolate cyclohydrolase	1.5.1.5	H+	5,10-Methenyltetrahydrofolate	green
+methylenetetrahydrofolate dehydrogenase (NADP+) / methenyltetrahydrofolate cyclohydrolase	1.5.1.5	H+	H2O	green
+methylenetetrahydrofolate dehydrogenase (NADP+) / methenyltetrahydrofolate cyclohydrolase	1.5.1.5	H2O	10-Formyltetrahydrofolate	green
+methylenetetrahydrofolate dehydrogenase (NADP+) / methenyltetrahydrofolate cyclohydrolase	1.5.1.5	H2O	H+	green
+methylenetetrahydrofolate dehydrogenase (NADP+) / methenyltetrahydrofolate cyclohydrolase	1.5.1.5	NADP+	5,10-Methenyltetrahydrofolate	green
+methylenetetrahydrofolate dehydrogenase (NADP+) / methenyltetrahydrofolate cyclohydrolase	1.5.1.5	NADP+	NADPH	green
+methylenetetrahydrofolate dehydrogenase (NADP+) / methenyltetrahydrofolate cyclohydrolase	1.5.1.5	NADPH	5,10-Methylenetetrahydrofolate	green
+methylenetetrahydrofolate dehydrogenase (NADP+) / methenyltetrahydrofolate cyclohydrolase	1.5.1.5	NADPH	NADP+	green
+methylenetetrahydrofolate dehydrogenase (NADP+) / methenyltetrahydrofolate cyclohydrolase / formyltetrahydrofolate synthetase	1.5.1.5	10-Formyltetrahydrofolate	ATP	white
+methylenetetrahydrofolate dehydrogenase (NADP+) / methenyltetrahydrofolate cyclohydrolase / formyltetrahydrofolate synthetase	1.5.1.5	10-Formyltetrahydrofolate	Formate	white
+methylenetetrahydrofolate dehydrogenase (NADP+) / methenyltetrahydrofolate cyclohydrolase / formyltetrahydrofolate synthetase	1.5.1.5	10-Formyltetrahydrofolate	Tetrahydrofolate	white
+methylenetetrahydrofolate dehydrogenase (NADP+) / methenyltetrahydrofolate cyclohydrolase / formyltetrahydrofolate synthetase	1.5.1.5	ADP	ATP	white
+methylenetetrahydrofolate dehydrogenase (NADP+) / methenyltetrahydrofolate cyclohydrolase / formyltetrahydrofolate synthetase	1.5.1.5	ADP	Formate	white
+methylenetetrahydrofolate dehydrogenase (NADP+) / methenyltetrahydrofolate cyclohydrolase / formyltetrahydrofolate synthetase	1.5.1.5	ADP	Tetrahydrofolate	white
+methylenetetrahydrofolate dehydrogenase (NADP+) / methenyltetrahydrofolate cyclohydrolase / formyltetrahydrofolate synthetase	1.5.1.5	ATP	10-Formyltetrahydrofolate	white
+methylenetetrahydrofolate dehydrogenase (NADP+) / methenyltetrahydrofolate cyclohydrolase / formyltetrahydrofolate synthetase	1.5.1.5	ATP	ADP	white
+methylenetetrahydrofolate dehydrogenase (NADP+) / methenyltetrahydrofolate cyclohydrolase / formyltetrahydrofolate synthetase	1.5.1.5	ATP	Orthophosphate	white
+methylenetetrahydrofolate dehydrogenase (NADP+) / methenyltetrahydrofolate cyclohydrolase / formyltetrahydrofolate synthetase	1.5.1.5	Formate	10-Formyltetrahydrofolate	white
+methylenetetrahydrofolate dehydrogenase (NADP+) / methenyltetrahydrofolate cyclohydrolase / formyltetrahydrofolate synthetase	1.5.1.5	Formate	ADP	white
+methylenetetrahydrofolate dehydrogenase (NADP+) / methenyltetrahydrofolate cyclohydrolase / formyltetrahydrofolate synthetase	1.5.1.5	Formate	Orthophosphate	white
+methylenetetrahydrofolate dehydrogenase (NADP+) / methenyltetrahydrofolate cyclohydrolase / formyltetrahydrofolate synthetase	1.5.1.5	Orthophosphate	ATP	white
+methylenetetrahydrofolate dehydrogenase (NADP+) / methenyltetrahydrofolate cyclohydrolase / formyltetrahydrofolate synthetase	1.5.1.5	Orthophosphate	Formate	white
+methylenetetrahydrofolate dehydrogenase (NADP+) / methenyltetrahydrofolate cyclohydrolase / formyltetrahydrofolate synthetase	1.5.1.5	Orthophosphate	Tetrahydrofolate	white
+methylenetetrahydrofolate dehydrogenase (NADP+) / methenyltetrahydrofolate cyclohydrolase / formyltetrahydrofolate synthetase	1.5.1.5	Tetrahydrofolate	10-Formyltetrahydrofolate	white
+methylenetetrahydrofolate dehydrogenase (NADP+) / methenyltetrahydrofolate cyclohydrolase / formyltetrahydrofolate synthetase	1.5.1.5	Tetrahydrofolate	ADP	white
+methylenetetrahydrofolate dehydrogenase (NADP+) / methenyltetrahydrofolate cyclohydrolase / formyltetrahydrofolate synthetase	1.5.1.5	Tetrahydrofolate	Orthophosphate	white
+methylenetetrahydrofolate dehydrogenase(NAD+) / 5,10-methenyltetrahydrofolate cyclohydrolase	1.5.1.15	5,10-Methenyltetrahydrofolate	5,10-Methylenetetrahydrofolate	white
+methylenetetrahydrofolate dehydrogenase(NAD+) / 5,10-methenyltetrahydrofolate cyclohydrolase	1.5.1.15	5,10-Methenyltetrahydrofolate	NAD+	white
+methylenetetrahydrofolate dehydrogenase(NAD+) / 5,10-methenyltetrahydrofolate cyclohydrolase	1.5.1.15	5,10-Methylenetetrahydrofolate	5,10-Methenyltetrahydrofolate	white
+methylenetetrahydrofolate dehydrogenase(NAD+) / 5,10-methenyltetrahydrofolate cyclohydrolase	1.5.1.15	5,10-Methylenetetrahydrofolate	NADH	white
+methylenetetrahydrofolate dehydrogenase(NAD+) / 5,10-methenyltetrahydrofolate cyclohydrolase	1.5.1.15	NAD+	5,10-Methenyltetrahydrofolate	white
+methylenetetrahydrofolate dehydrogenase(NAD+) / 5,10-methenyltetrahydrofolate cyclohydrolase	1.5.1.15	NAD+	NADH	white
+methylenetetrahydrofolate dehydrogenase(NAD+) / 5,10-methenyltetrahydrofolate cyclohydrolase	1.5.1.15	NADH	5,10-Methylenetetrahydrofolate	white
+methylenetetrahydrofolate dehydrogenase(NAD+) / 5,10-methenyltetrahydrofolate cyclohydrolase	1.5.1.15	NADH	NAD+	white
+methylenetetrahydrofolate reductase (NADH)	1.5.1.54	5-Methyltetrahydrofolate	5,10-Methylenetetrahydrofolate	green
+methylenetetrahydrofolate reductase (NADH)	1.5.1.54	5-Methyltetrahydrofolate	H+	green
+methylenetetrahydrofolate reductase (NADH)	1.5.1.54	5-Methyltetrahydrofolate	NADH	green
+methylenetetrahydrofolate reductase (NADH)	1.5.1.54	NAD+	5,10-Methylenetetrahydrofolate	green
+methylenetetrahydrofolate reductase (NADH)	1.5.1.54	NAD+	H+	green
+methylenetetrahydrofolate reductase (NADH)	1.5.1.54	NAD+	NADH	green
+methylenetetrahydrofolate reductase (NADPH)	1.5.1.53	5,10-Methylenetetrahydrofolate	5-Methyltetrahydrofolate	white
+methylenetetrahydrofolate reductase (NADPH)	1.5.1.53	5,10-Methylenetetrahydrofolate	NADP+	white
+methylenetetrahydrofolate reductase (NADPH)	1.5.1.53	5-Methyltetrahydrofolate	5,10-Methylenetetrahydrofolate	white
+methylenetetrahydrofolate reductase (NADPH)	1.5.1.53	5-Methyltetrahydrofolate	H+	white
+methylenetetrahydrofolate reductase (NADPH)	1.5.1.53	5-Methyltetrahydrofolate	NADPH	white
+methylenetetrahydrofolate reductase (NADPH)	1.5.1.53	H+	5-Methyltetrahydrofolate	white
+methylenetetrahydrofolate reductase (NADPH)	1.5.1.53	H+	NADP+	white
+methylenetetrahydrofolate reductase (NADPH)	1.5.1.53	NADP+	5,10-Methylenetetrahydrofolate	white
+methylenetetrahydrofolate reductase (NADPH)	1.5.1.53	NADP+	H+	white
+methylenetetrahydrofolate reductase (NADPH)	1.5.1.53	NADP+	NADPH	white
+methylenetetrahydrofolate reductase (NADPH)	1.5.1.53	NADPH	5-Methyltetrahydrofolate	white
+methylenetetrahydrofolate reductase (NADPH)	1.5.1.53	NADPH	NADP+	white
+methylenetetrahydrofolate reductase [NAD(P)H]	1.5.1.20	5,10-Methylenetetrahydrofolate	5-Methyltetrahydrofolate	white
+methylenetetrahydrofolate reductase [NAD(P)H]	1.5.1.20	5,10-Methylenetetrahydrofolate	NADP+	white
+methylenetetrahydrofolate reductase [NAD(P)H]	1.5.1.20	5-Methyltetrahydrofolate	5,10-Methylenetetrahydrofolate	white
+methylenetetrahydrofolate reductase [NAD(P)H]	1.5.1.20	5-Methyltetrahydrofolate	H+	white
+methylenetetrahydrofolate reductase [NAD(P)H]	1.5.1.20	5-Methyltetrahydrofolate	NADPH	white
+methylenetetrahydrofolate reductase [NAD(P)H]	1.5.1.20	H+	5-Methyltetrahydrofolate	white
+methylenetetrahydrofolate reductase [NAD(P)H]	1.5.1.20	H+	NADP+	white
+methylenetetrahydrofolate reductase [NAD(P)H]	1.5.1.20	NADP+	5,10-Methylenetetrahydrofolate	white
+methylenetetrahydrofolate reductase [NAD(P)H]	1.5.1.20	NADP+	H+	white
+methylenetetrahydrofolate reductase [NAD(P)H]	1.5.1.20	NADP+	NADPH	white
+methylenetetrahydrofolate reductase [NAD(P)H]	1.5.1.20	NADPH	5-Methyltetrahydrofolate	white
+methylenetetrahydrofolate reductase [NAD(P)H]	1.5.1.20	NADPH	NADP+	white
+monofunctional C1-tetrahydrofolate synthase, mitochondrial	6.3.4.3	10-Formyltetrahydrofolate	ATP	white
+monofunctional C1-tetrahydrofolate synthase, mitochondrial	6.3.4.3	10-Formyltetrahydrofolate	Formate	white
+monofunctional C1-tetrahydrofolate synthase, mitochondrial	6.3.4.3	10-Formyltetrahydrofolate	Tetrahydrofolate	white
+monofunctional C1-tetrahydrofolate synthase, mitochondrial	6.3.4.3	ADP	ATP	white
+monofunctional C1-tetrahydrofolate synthase, mitochondrial	6.3.4.3	ADP	Formate	white
+monofunctional C1-tetrahydrofolate synthase, mitochondrial	6.3.4.3	ADP	Tetrahydrofolate	white
+monofunctional C1-tetrahydrofolate synthase, mitochondrial	6.3.4.3	ATP	10-Formyltetrahydrofolate	white
+monofunctional C1-tetrahydrofolate synthase, mitochondrial	6.3.4.3	ATP	ADP	white
+monofunctional C1-tetrahydrofolate synthase, mitochondrial	6.3.4.3	ATP	Orthophosphate	white
+monofunctional C1-tetrahydrofolate synthase, mitochondrial	6.3.4.3	Formate	10-Formyltetrahydrofolate	white
+monofunctional C1-tetrahydrofolate synthase, mitochondrial	6.3.4.3	Formate	ADP	white
+monofunctional C1-tetrahydrofolate synthase, mitochondrial	6.3.4.3	Formate	Orthophosphate	white
+monofunctional C1-tetrahydrofolate synthase, mitochondrial	6.3.4.3	Orthophosphate	ATP	white
+monofunctional C1-tetrahydrofolate synthase, mitochondrial	6.3.4.3	Orthophosphate	Formate	white
+monofunctional C1-tetrahydrofolate synthase, mitochondrial	6.3.4.3	Orthophosphate	Tetrahydrofolate	white
+monofunctional C1-tetrahydrofolate synthase, mitochondrial	6.3.4.3	Tetrahydrofolate	10-Formyltetrahydrofolate	white
+monofunctional C1-tetrahydrofolate synthase, mitochondrial	6.3.4.3	Tetrahydrofolate	ADP	white
+monofunctional C1-tetrahydrofolate synthase, mitochondrial	6.3.4.3	Tetrahydrofolate	Orthophosphate	white
+phosphoribosylaminoimidazolecarboxamide formyltransferase / IMP cyclohydrolase	2.1.2.3	1-(5'-Phosphoribosyl)-5-amino-4-imidazolecarboxamide	1-(5'-Phosphoribosyl)-5-formamido-4-imidazolecarboxamide	green
+phosphoribosylaminoimidazolecarboxamide formyltransferase / IMP cyclohydrolase	2.1.2.3	1-(5'-Phosphoribosyl)-5-amino-4-imidazolecarboxamide	Tetrahydrofolate	green
+phosphoribosylaminoimidazolecarboxamide formyltransferase / IMP cyclohydrolase	2.1.2.3	1-(5'-Phosphoribosyl)-5-formamido-4-imidazolecarboxamide	1-(5'-Phosphoribosyl)-5-amino-4-imidazolecarboxamide	green
+phosphoribosylaminoimidazolecarboxamide formyltransferase / IMP cyclohydrolase	2.1.2.3	1-(5'-Phosphoribosyl)-5-formamido-4-imidazolecarboxamide	10-Formyltetrahydrofolate	green
+phosphoribosylaminoimidazolecarboxamide formyltransferase / IMP cyclohydrolase	2.1.2.3	10-Formyltetrahydrofolate	1-(5'-Phosphoribosyl)-5-formamido-4-imidazolecarboxamide	green
+phosphoribosylaminoimidazolecarboxamide formyltransferase / IMP cyclohydrolase	2.1.2.3	10-Formyltetrahydrofolate	Tetrahydrofolate	green
+phosphoribosylaminoimidazolecarboxamide formyltransferase / IMP cyclohydrolase	2.1.2.3	Tetrahydrofolate	1-(5'-Phosphoribosyl)-5-amino-4-imidazolecarboxamide	green
+phosphoribosylaminoimidazolecarboxamide formyltransferase / IMP cyclohydrolase	2.1.2.3	Tetrahydrofolate	10-Formyltetrahydrofolate	green
+phosphoribosylglycinamide formyltransferase 1	2.1.2.2	10-Formyltetrahydrofolate	5'-Phosphoribosyl-N-formylglycinamide	green
+phosphoribosylglycinamide formyltransferase 1	2.1.2.2	10-Formyltetrahydrofolate	Tetrahydrofolate	green
+phosphoribosylglycinamide formyltransferase 1	2.1.2.2	5'-Phosphoribosyl-N-formylglycinamide	10-Formyltetrahydrofolate	green
+phosphoribosylglycinamide formyltransferase 1	2.1.2.2	5'-Phosphoribosyl-N-formylglycinamide	5'-Phosphoribosylglycinamide	green
+phosphoribosylglycinamide formyltransferase 1	2.1.2.2	5'-Phosphoribosylglycinamide	5'-Phosphoribosyl-N-formylglycinamide	green
+phosphoribosylglycinamide formyltransferase 1	2.1.2.2	5'-Phosphoribosylglycinamide	Tetrahydrofolate	green
+phosphoribosylglycinamide formyltransferase 1	2.1.2.2	5,10-Methenyltetrahydrofolate	5'-Phosphoribosyl-N-formylglycinamide	green
+phosphoribosylglycinamide formyltransferase 1	2.1.2.2	5,10-Methenyltetrahydrofolate	Tetrahydrofolate	green
+phosphoribosylglycinamide formyltransferase 1	2.1.2.2	H2O	5'-Phosphoribosyl-N-formylglycinamide	green
+phosphoribosylglycinamide formyltransferase 1	2.1.2.2	H2O	Tetrahydrofolate	green
+phosphoribosylglycinamide formyltransferase 1	2.1.2.2	Tetrahydrofolate	10-Formyltetrahydrofolate	green
+phosphoribosylglycinamide formyltransferase 1	2.1.2.2	Tetrahydrofolate	5'-Phosphoribosylglycinamide	green
+roa:Pd630_LPD02197		Betaine aldehyde	Betaine	green
+roa:Pd630_LPD02197		Betaine aldehyde	H+	green
+roa:Pd630_LPD02197		Betaine aldehyde	NADH	green
+roa:Pd630_LPD02197		Betaine aldehyde	NADPH	green
+roa:Pd630_LPD02197		H2O	Betaine	green
+roa:Pd630_LPD02197		H2O	H+	green
+roa:Pd630_LPD02197		H2O	NADH	green
+roa:Pd630_LPD02197		H2O	NADPH	green
+roa:Pd630_LPD02197		NAD+	Betaine	green
+roa:Pd630_LPD02197		NAD+	H+	green
+roa:Pd630_LPD02197		NAD+	NADH	green
+roa:Pd630_LPD02197		NADP+	Betaine	green
+roa:Pd630_LPD02197		NADP+	H+	green
+roa:Pd630_LPD02197		NADP+	NADPH	green
+sarcosine dehydrogenase	1.5.8.3	5,10-Methylenetetrahydrofolate	Electron-transferring flavoprotein	white
+sarcosine dehydrogenase	1.5.8.3	5,10-Methylenetetrahydrofolate	Sarcosine	white
+sarcosine dehydrogenase	1.5.8.3	5,10-Methylenetetrahydrofolate	Tetrahydrofolate	white
+sarcosine dehydrogenase	1.5.8.3	Electron-transferring flavoprotein	5,10-Methylenetetrahydrofolate	white
+sarcosine dehydrogenase	1.5.8.3	Electron-transferring flavoprotein	Glycine	white
+sarcosine dehydrogenase	1.5.8.3	Electron-transferring flavoprotein	Reduced electron-transferring flavoprotein	white
+sarcosine dehydrogenase	1.5.8.3	Glycine	Electron-transferring flavoprotein	white
+sarcosine dehydrogenase	1.5.8.3	Glycine	Sarcosine	white
+sarcosine dehydrogenase	1.5.8.3	Glycine	Tetrahydrofolate	white
+sarcosine dehydrogenase	1.5.8.3	Reduced electron-transferring flavoprotein	Electron-transferring flavoprotein	white
+sarcosine dehydrogenase	1.5.8.3	Reduced electron-transferring flavoprotein	Sarcosine	white
+sarcosine dehydrogenase	1.5.8.3	Reduced electron-transferring flavoprotein	Tetrahydrofolate	white
+sarcosine dehydrogenase	1.5.8.3	Sarcosine	5,10-Methylenetetrahydrofolate	white
+sarcosine dehydrogenase	1.5.8.3	Sarcosine	Glycine	white
+sarcosine dehydrogenase	1.5.8.3	Sarcosine	Reduced electron-transferring flavoprotein	white
+sarcosine dehydrogenase	1.5.8.3	Tetrahydrofolate	5,10-Methylenetetrahydrofolate	white
+sarcosine dehydrogenase	1.5.8.3	Tetrahydrofolate	Glycine	white
+sarcosine dehydrogenase	1.5.8.3	Tetrahydrofolate	Reduced electron-transferring flavoprotein	white
+thymidylate synthase	2.1.1.45	5,10-Methylenetetrahydrofolate	Dihydrofolate	green
+thymidylate synthase	2.1.1.45	5,10-Methylenetetrahydrofolate	dTMP	green
+thymidylate synthase	2.1.1.45	Dihydrofolate	5,10-Methylenetetrahydrofolate	green
+thymidylate synthase	2.1.1.45	Dihydrofolate	dUMP	green
+thymidylate synthase	2.1.1.45	dTMP	5,10-Methylenetetrahydrofolate	green
+thymidylate synthase	2.1.1.45	dTMP	dUMP	green
+thymidylate synthase	2.1.1.45	dUMP	Dihydrofolate	green
+thymidylate synthase	2.1.1.45	dUMP	dTMP	green
+thymidylate synthase (FAD)	2.1.1.148	5,10-Methylenetetrahydrofolate	NADP+	green
+thymidylate synthase (FAD)	2.1.1.148	5,10-Methylenetetrahydrofolate	Tetrahydrofolate	green
+thymidylate synthase (FAD)	2.1.1.148	5,10-Methylenetetrahydrofolate	dTMP	green
+thymidylate synthase (FAD)	2.1.1.148	H+	NADP+	green
+thymidylate synthase (FAD)	2.1.1.148	H+	Tetrahydrofolate	green
+thymidylate synthase (FAD)	2.1.1.148	H+	dTMP	green
+thymidylate synthase (FAD)	2.1.1.148	NADP+	5,10-Methylenetetrahydrofolate	green
+thymidylate synthase (FAD)	2.1.1.148	NADP+	H+	green
+thymidylate synthase (FAD)	2.1.1.148	NADP+	NADPH	green
+thymidylate synthase (FAD)	2.1.1.148	NADP+	dUMP	green
+thymidylate synthase (FAD)	2.1.1.148	NADPH	NADP+	green
+thymidylate synthase (FAD)	2.1.1.148	NADPH	Tetrahydrofolate	green
+thymidylate synthase (FAD)	2.1.1.148	NADPH	dTMP	green
+thymidylate synthase (FAD)	2.1.1.148	Tetrahydrofolate	5,10-Methylenetetrahydrofolate	green
+thymidylate synthase (FAD)	2.1.1.148	Tetrahydrofolate	H+	green
+thymidylate synthase (FAD)	2.1.1.148	Tetrahydrofolate	NADPH	green
+thymidylate synthase (FAD)	2.1.1.148	Tetrahydrofolate	dUMP	green
+thymidylate synthase (FAD)	2.1.1.148	dTMP	5,10-Methylenetetrahydrofolate	green
+thymidylate synthase (FAD)	2.1.1.148	dTMP	H+	green
+thymidylate synthase (FAD)	2.1.1.148	dTMP	NADPH	green
+thymidylate synthase (FAD)	2.1.1.148	dTMP	dUMP	green
+thymidylate synthase (FAD)	2.1.1.148	dUMP	NADP+	green
+thymidylate synthase (FAD)	2.1.1.148	dUMP	Tetrahydrofolate	green
+thymidylate synthase (FAD)	2.1.1.148	dUMP	dTMP	green

@@ -1,0 +1,262 @@
+enzyme_name	EC	source	target	color
+2-(acetamidomethylene)succinate hydrolase	3.5.1.29	2-(Acetamidomethylene)succinate	Acetate	white
+2-(acetamidomethylene)succinate hydrolase	3.5.1.29	2-(Acetamidomethylene)succinate	Ammonia	white
+2-(acetamidomethylene)succinate hydrolase	3.5.1.29	2-(Acetamidomethylene)succinate	CO2	white
+2-(acetamidomethylene)succinate hydrolase	3.5.1.29	2-(Acetamidomethylene)succinate	Succinate semialdehyde	white
+2-(acetamidomethylene)succinate hydrolase	3.5.1.29	Acetate	2-(Acetamidomethylene)succinate	white
+2-(acetamidomethylene)succinate hydrolase	3.5.1.29	Acetate	H2O	white
+2-(acetamidomethylene)succinate hydrolase	3.5.1.29	Ammonia	2-(Acetamidomethylene)succinate	white
+2-(acetamidomethylene)succinate hydrolase	3.5.1.29	Ammonia	H2O	white
+2-(acetamidomethylene)succinate hydrolase	3.5.1.29	CO2	2-(Acetamidomethylene)succinate	white
+2-(acetamidomethylene)succinate hydrolase	3.5.1.29	CO2	H2O	white
+2-(acetamidomethylene)succinate hydrolase	3.5.1.29	H2O	Acetate	white
+2-(acetamidomethylene)succinate hydrolase	3.5.1.29	H2O	Ammonia	white
+2-(acetamidomethylene)succinate hydrolase	3.5.1.29	H2O	CO2	white
+2-(acetamidomethylene)succinate hydrolase	3.5.1.29	H2O	Succinate semialdehyde	white
+2-(acetamidomethylene)succinate hydrolase	3.5.1.29	Succinate semialdehyde	2-(Acetamidomethylene)succinate	white
+2-(acetamidomethylene)succinate hydrolase	3.5.1.29	Succinate semialdehyde	H2O	white
+2-methyl-3-hydroxypyridine 5-carboxylic acid dioxygenase	1.14.13.242	2-(Acetamidomethylene)succinate	3-Hydroxy-2-methylpyridine-5-carboxylate	white
+2-methyl-3-hydroxypyridine 5-carboxylic acid dioxygenase	1.14.13.242	2-(Acetamidomethylene)succinate	H+	white
+2-methyl-3-hydroxypyridine 5-carboxylic acid dioxygenase	1.14.13.242	2-(Acetamidomethylene)succinate	NADH	white
+2-methyl-3-hydroxypyridine 5-carboxylic acid dioxygenase	1.14.13.242	2-(Acetamidomethylene)succinate	Oxygen	white
+2-methyl-3-hydroxypyridine 5-carboxylic acid dioxygenase	1.14.13.242	3-Hydroxy-2-methylpyridine-5-carboxylate	2-(Acetamidomethylene)succinate	white
+2-methyl-3-hydroxypyridine 5-carboxylic acid dioxygenase	1.14.13.242	3-Hydroxy-2-methylpyridine-5-carboxylate	NAD+	white
+2-methyl-3-hydroxypyridine 5-carboxylic acid dioxygenase	1.14.13.242	H+	2-(Acetamidomethylene)succinate	white
+2-methyl-3-hydroxypyridine 5-carboxylic acid dioxygenase	1.14.13.242	H+	NAD+	white
+2-methyl-3-hydroxypyridine 5-carboxylic acid dioxygenase	1.14.13.242	NAD+	3-Hydroxy-2-methylpyridine-5-carboxylate	white
+2-methyl-3-hydroxypyridine 5-carboxylic acid dioxygenase	1.14.13.242	NAD+	H+	white
+2-methyl-3-hydroxypyridine 5-carboxylic acid dioxygenase	1.14.13.242	NAD+	NADH	white
+2-methyl-3-hydroxypyridine 5-carboxylic acid dioxygenase	1.14.13.242	NAD+	Oxygen	white
+2-methyl-3-hydroxypyridine 5-carboxylic acid dioxygenase	1.14.13.242	NADH	2-(Acetamidomethylene)succinate	white
+2-methyl-3-hydroxypyridine 5-carboxylic acid dioxygenase	1.14.13.242	NADH	NAD+	white
+2-methyl-3-hydroxypyridine 5-carboxylic acid dioxygenase	1.14.13.242	Oxygen	2-(Acetamidomethylene)succinate	white
+2-methyl-3-hydroxypyridine 5-carboxylic acid dioxygenase	1.14.13.242	Oxygen	NAD+	white
+3-hydroxy-2-methylpyridine-4,5-dicarboxylate 4-decarboxylase	4.1.1.51	3-Hydroxy-2-methylpyridine-4,5-dicarboxylate	3-Hydroxy-2-methylpyridine-5-carboxylate	white
+3-hydroxy-2-methylpyridine-4,5-dicarboxylate 4-decarboxylase	4.1.1.51	3-Hydroxy-2-methylpyridine-4,5-dicarboxylate	CO2	white
+3-hydroxy-2-methylpyridine-4,5-dicarboxylate 4-decarboxylase	4.1.1.51	3-Hydroxy-2-methylpyridine-5-carboxylate	3-Hydroxy-2-methylpyridine-4,5-dicarboxylate	white
+3-hydroxy-2-methylpyridine-4,5-dicarboxylate 4-decarboxylase	4.1.1.51	CO2	3-Hydroxy-2-methylpyridine-4,5-dicarboxylate	white
+4-hydroxythreonine-4-phosphate dehydrogenase	1.1.1.262	2-Amino-3-oxo-4-phosphonooxybutyrate	NAD+	white
+4-hydroxythreonine-4-phosphate dehydrogenase	1.1.1.262	2-Amino-3-oxo-4-phosphonooxybutyrate	O-Phospho-4-hydroxy-L-threonine	white
+4-hydroxythreonine-4-phosphate dehydrogenase	1.1.1.262	H+	NAD+	white
+4-hydroxythreonine-4-phosphate dehydrogenase	1.1.1.262	H+	O-Phospho-4-hydroxy-L-threonine	white
+4-hydroxythreonine-4-phosphate dehydrogenase	1.1.1.262	NAD+	2-Amino-3-oxo-4-phosphonooxybutyrate	white
+4-hydroxythreonine-4-phosphate dehydrogenase	1.1.1.262	NAD+	H+	white
+4-hydroxythreonine-4-phosphate dehydrogenase	1.1.1.262	NAD+	NADH	white
+4-hydroxythreonine-4-phosphate dehydrogenase	1.1.1.262	NADH	NAD+	white
+4-hydroxythreonine-4-phosphate dehydrogenase	1.1.1.262	NADH	O-Phospho-4-hydroxy-L-threonine	white
+4-hydroxythreonine-4-phosphate dehydrogenase	1.1.1.262	O-Phospho-4-hydroxy-L-threonine	2-Amino-3-oxo-4-phosphonooxybutyrate	white
+4-hydroxythreonine-4-phosphate dehydrogenase	1.1.1.262	O-Phospho-4-hydroxy-L-threonine	H+	white
+4-hydroxythreonine-4-phosphate dehydrogenase	1.1.1.262	O-Phospho-4-hydroxy-L-threonine	NADH	white
+4-pyridoxate dehydrogenase	1.1.99.42	2-Methyl-3-hydroxy-5-formylpyridine-4-carboxylate	4-Pyridoxate	white
+4-pyridoxate dehydrogenase	1.1.99.42	2-Methyl-3-hydroxy-5-formylpyridine-4-carboxylate	Acceptor	white
+4-pyridoxate dehydrogenase	1.1.99.42	4-Pyridoxate	2-Methyl-3-hydroxy-5-formylpyridine-4-carboxylate	white
+4-pyridoxate dehydrogenase	1.1.99.42	4-Pyridoxate	Reduced acceptor	white
+4-pyridoxate dehydrogenase	1.1.99.42	Acceptor	2-Methyl-3-hydroxy-5-formylpyridine-4-carboxylate	white
+4-pyridoxate dehydrogenase	1.1.99.42	Acceptor	Reduced acceptor	white
+4-pyridoxate dehydrogenase	1.1.99.42	Reduced acceptor	4-Pyridoxate	white
+4-pyridoxate dehydrogenase	1.1.99.42	Reduced acceptor	Acceptor	white
+4-pyridoxolactonase	3.1.1.27	4-Pyridoxate	4-Pyridoxolactone	white
+4-pyridoxolactonase	3.1.1.27	4-Pyridoxate	H2O	white
+4-pyridoxolactonase	3.1.1.27	4-Pyridoxolactone	4-Pyridoxate	white
+4-pyridoxolactonase	3.1.1.27	H2O	4-Pyridoxate	white
+5-formyl-3-hydroxy-2-methylpyridine 4-carboxylic acid 5-dehydrogenase	1.2.1.100	2-Methyl-3-hydroxy-5-formylpyridine-4-carboxylate	3-Hydroxy-2-methylpyridine-4,5-dicarboxylate	white
+5-formyl-3-hydroxy-2-methylpyridine 4-carboxylic acid 5-dehydrogenase	1.2.1.100	2-Methyl-3-hydroxy-5-formylpyridine-4-carboxylate	H+	white
+5-formyl-3-hydroxy-2-methylpyridine 4-carboxylic acid 5-dehydrogenase	1.2.1.100	2-Methyl-3-hydroxy-5-formylpyridine-4-carboxylate	NADH	white
+5-formyl-3-hydroxy-2-methylpyridine 4-carboxylic acid 5-dehydrogenase	1.2.1.100	3-Hydroxy-2-methylpyridine-4,5-dicarboxylate	2-Methyl-3-hydroxy-5-formylpyridine-4-carboxylate	white
+5-formyl-3-hydroxy-2-methylpyridine 4-carboxylic acid 5-dehydrogenase	1.2.1.100	3-Hydroxy-2-methylpyridine-4,5-dicarboxylate	H2O	white
+5-formyl-3-hydroxy-2-methylpyridine 4-carboxylic acid 5-dehydrogenase	1.2.1.100	3-Hydroxy-2-methylpyridine-4,5-dicarboxylate	NAD+	white
+5-formyl-3-hydroxy-2-methylpyridine 4-carboxylic acid 5-dehydrogenase	1.2.1.100	H+	2-Methyl-3-hydroxy-5-formylpyridine-4-carboxylate	white
+5-formyl-3-hydroxy-2-methylpyridine 4-carboxylic acid 5-dehydrogenase	1.2.1.100	H+	H2O	white
+5-formyl-3-hydroxy-2-methylpyridine 4-carboxylic acid 5-dehydrogenase	1.2.1.100	H+	NAD+	white
+5-formyl-3-hydroxy-2-methylpyridine 4-carboxylic acid 5-dehydrogenase	1.2.1.100	H2O	3-Hydroxy-2-methylpyridine-4,5-dicarboxylate	white
+5-formyl-3-hydroxy-2-methylpyridine 4-carboxylic acid 5-dehydrogenase	1.2.1.100	H2O	H+	white
+5-formyl-3-hydroxy-2-methylpyridine 4-carboxylic acid 5-dehydrogenase	1.2.1.100	H2O	NADH	white
+5-formyl-3-hydroxy-2-methylpyridine 4-carboxylic acid 5-dehydrogenase	1.2.1.100	NAD+	3-Hydroxy-2-methylpyridine-4,5-dicarboxylate	white
+5-formyl-3-hydroxy-2-methylpyridine 4-carboxylic acid 5-dehydrogenase	1.2.1.100	NAD+	H+	white
+5-formyl-3-hydroxy-2-methylpyridine 4-carboxylic acid 5-dehydrogenase	1.2.1.100	NAD+	NADH	white
+5-formyl-3-hydroxy-2-methylpyridine 4-carboxylic acid 5-dehydrogenase	1.2.1.100	NADH	2-Methyl-3-hydroxy-5-formylpyridine-4-carboxylate	white
+5-formyl-3-hydroxy-2-methylpyridine 4-carboxylic acid 5-dehydrogenase	1.2.1.100	NADH	H2O	white
+5-formyl-3-hydroxy-2-methylpyridine 4-carboxylic acid 5-dehydrogenase	1.2.1.100	NADH	NAD+	white
+D-erythrose 4-phosphate dehydrogenase	1.2.1.72	4-Phospho-D-erythronate	D-Erythrose 4-phosphate	white
+D-erythrose 4-phosphate dehydrogenase	1.2.1.72	4-Phospho-D-erythronate	H2O	white
+D-erythrose 4-phosphate dehydrogenase	1.2.1.72	4-Phospho-D-erythronate	NAD+	white
+D-erythrose 4-phosphate dehydrogenase	1.2.1.72	D-Erythrose 4-phosphate	4-Phospho-D-erythronate	white
+D-erythrose 4-phosphate dehydrogenase	1.2.1.72	D-Erythrose 4-phosphate	H+	white
+D-erythrose 4-phosphate dehydrogenase	1.2.1.72	D-Erythrose 4-phosphate	NADH	white
+D-erythrose 4-phosphate dehydrogenase	1.2.1.72	H+	D-Erythrose 4-phosphate	white
+D-erythrose 4-phosphate dehydrogenase	1.2.1.72	H+	H2O	white
+D-erythrose 4-phosphate dehydrogenase	1.2.1.72	H+	NAD+	white
+D-erythrose 4-phosphate dehydrogenase	1.2.1.72	H2O	4-Phospho-D-erythronate	white
+D-erythrose 4-phosphate dehydrogenase	1.2.1.72	H2O	H+	white
+D-erythrose 4-phosphate dehydrogenase	1.2.1.72	H2O	NADH	white
+D-erythrose 4-phosphate dehydrogenase	1.2.1.72	NAD+	4-Phospho-D-erythronate	white
+D-erythrose 4-phosphate dehydrogenase	1.2.1.72	NAD+	H+	white
+D-erythrose 4-phosphate dehydrogenase	1.2.1.72	NAD+	NADH	white
+D-erythrose 4-phosphate dehydrogenase	1.2.1.72	NADH	D-Erythrose 4-phosphate	white
+D-erythrose 4-phosphate dehydrogenase	1.2.1.72	NADH	H2O	white
+D-erythrose 4-phosphate dehydrogenase	1.2.1.72	NADH	NAD+	white
+aldehyde oxidase	1.2.3.1	4-Pyridoxate	H2O	white
+aldehyde oxidase	1.2.3.1	4-Pyridoxate	Oxygen	white
+aldehyde oxidase	1.2.3.1	4-Pyridoxate	Pyridoxal	white
+aldehyde oxidase	1.2.3.1	H2O	4-Pyridoxate	white
+aldehyde oxidase	1.2.3.1	H2O	Hydrogen peroxide	white
+aldehyde oxidase	1.2.3.1	Hydrogen peroxide	H2O	white
+aldehyde oxidase	1.2.3.1	Hydrogen peroxide	Oxygen	white
+aldehyde oxidase	1.2.3.1	Hydrogen peroxide	Pyridoxal	white
+aldehyde oxidase	1.2.3.1	Oxygen	4-Pyridoxate	white
+aldehyde oxidase	1.2.3.1	Oxygen	Hydrogen peroxide	white
+aldehyde oxidase	1.2.3.1	Pyridoxal	4-Pyridoxate	white
+aldehyde oxidase	1.2.3.1	Pyridoxal	Hydrogen peroxide	white
+erythronate-4-phosphate dehydrogenase	1.1.1.290	2-Oxo-3-hydroxy-4-phosphobutanoate	4-Phospho-D-erythronate	white
+erythronate-4-phosphate dehydrogenase	1.1.1.290	2-Oxo-3-hydroxy-4-phosphobutanoate	NAD+	white
+erythronate-4-phosphate dehydrogenase	1.1.1.290	4-Phospho-D-erythronate	2-Oxo-3-hydroxy-4-phosphobutanoate	white
+erythronate-4-phosphate dehydrogenase	1.1.1.290	4-Phospho-D-erythronate	H+	white
+erythronate-4-phosphate dehydrogenase	1.1.1.290	4-Phospho-D-erythronate	NADH	white
+erythronate-4-phosphate dehydrogenase	1.1.1.290	H+	4-Phospho-D-erythronate	white
+erythronate-4-phosphate dehydrogenase	1.1.1.290	H+	NAD+	white
+erythronate-4-phosphate dehydrogenase	1.1.1.290	NAD+	2-Oxo-3-hydroxy-4-phosphobutanoate	white
+erythronate-4-phosphate dehydrogenase	1.1.1.290	NAD+	H+	white
+erythronate-4-phosphate dehydrogenase	1.1.1.290	NAD+	NADH	white
+erythronate-4-phosphate dehydrogenase	1.1.1.290	NADH	4-Phospho-D-erythronate	white
+erythronate-4-phosphate dehydrogenase	1.1.1.290	NADH	NAD+	white
+phosphoserine aminotransferase	2.6.1.52	2-Oxo-3-hydroxy-4-phosphobutanoate	2-Oxoglutarate	green
+phosphoserine aminotransferase	2.6.1.52	2-Oxo-3-hydroxy-4-phosphobutanoate	O-Phospho-4-hydroxy-L-threonine	green
+phosphoserine aminotransferase	2.6.1.52	2-Oxoglutarate	2-Oxo-3-hydroxy-4-phosphobutanoate	green
+phosphoserine aminotransferase	2.6.1.52	2-Oxoglutarate	L-Glutamate	green
+phosphoserine aminotransferase	2.6.1.52	L-Glutamate	2-Oxoglutarate	green
+phosphoserine aminotransferase	2.6.1.52	L-Glutamate	O-Phospho-4-hydroxy-L-threonine	green
+phosphoserine aminotransferase	2.6.1.52	O-Phospho-4-hydroxy-L-threonine	2-Oxo-3-hydroxy-4-phosphobutanoate	green
+phosphoserine aminotransferase	2.6.1.52	O-Phospho-4-hydroxy-L-threonine	L-Glutamate	green
+pyridoxal 4-dehydrogenase	1.1.1.107	4-Pyridoxolactone	NAD+	white
+pyridoxal 4-dehydrogenase	1.1.1.107	4-Pyridoxolactone	Pyridoxal	white
+pyridoxal 4-dehydrogenase	1.1.1.107	H+	NAD+	white
+pyridoxal 4-dehydrogenase	1.1.1.107	H+	Pyridoxal	white
+pyridoxal 4-dehydrogenase	1.1.1.107	NAD+	4-Pyridoxolactone	white
+pyridoxal 4-dehydrogenase	1.1.1.107	NAD+	H+	white
+pyridoxal 4-dehydrogenase	1.1.1.107	NAD+	NADH	white
+pyridoxal 4-dehydrogenase	1.1.1.107	NADH	NAD+	white
+pyridoxal 4-dehydrogenase	1.1.1.107	NADH	Pyridoxal	white
+pyridoxal 4-dehydrogenase	1.1.1.107	Pyridoxal	4-Pyridoxolactone	white
+pyridoxal 4-dehydrogenase	1.1.1.107	Pyridoxal	H+	white
+pyridoxal 4-dehydrogenase	1.1.1.107	Pyridoxal	NADH	white
+pyridoxal 5'-phosphate synthase pdxS subunit	4.3.3.6	D-Glyceraldehyde 3-phosphate	H2O	green
+pyridoxal 5'-phosphate synthase pdxS subunit	4.3.3.6	D-Glyceraldehyde 3-phosphate	L-Glutamate	green
+pyridoxal 5'-phosphate synthase pdxS subunit	4.3.3.6	D-Glyceraldehyde 3-phosphate	Orthophosphate	green
+pyridoxal 5'-phosphate synthase pdxS subunit	4.3.3.6	D-Glyceraldehyde 3-phosphate	Pyridoxal phosphate	green
+pyridoxal 5'-phosphate synthase pdxS subunit	4.3.3.6	D-Ribose 5-phosphate	H2O	green
+pyridoxal 5'-phosphate synthase pdxS subunit	4.3.3.6	D-Ribose 5-phosphate	L-Glutamate	green
+pyridoxal 5'-phosphate synthase pdxS subunit	4.3.3.6	D-Ribose 5-phosphate	Orthophosphate	green
+pyridoxal 5'-phosphate synthase pdxS subunit	4.3.3.6	D-Ribose 5-phosphate	Pyridoxal phosphate	green
+pyridoxal 5'-phosphate synthase pdxS subunit	4.3.3.6	L-Glutamine	H2O	green
+pyridoxal 5'-phosphate synthase pdxS subunit	4.3.3.6	L-Glutamine	L-Glutamate	green
+pyridoxal 5'-phosphate synthase pdxS subunit	4.3.3.6	L-Glutamine	Orthophosphate	green
+pyridoxal 5'-phosphate synthase pdxS subunit	4.3.3.6	L-Glutamine	Pyridoxal phosphate	green
+pyridoxal 5'-phosphate synthase pdxT subunit	4.3.3.6	D-Glyceraldehyde 3-phosphate	H2O	green
+pyridoxal 5'-phosphate synthase pdxT subunit	4.3.3.6	D-Glyceraldehyde 3-phosphate	L-Glutamate	green
+pyridoxal 5'-phosphate synthase pdxT subunit	4.3.3.6	D-Glyceraldehyde 3-phosphate	Orthophosphate	green
+pyridoxal 5'-phosphate synthase pdxT subunit	4.3.3.6	D-Glyceraldehyde 3-phosphate	Pyridoxal phosphate	green
+pyridoxal 5'-phosphate synthase pdxT subunit	4.3.3.6	D-Ribose 5-phosphate	H2O	green
+pyridoxal 5'-phosphate synthase pdxT subunit	4.3.3.6	D-Ribose 5-phosphate	L-Glutamate	green
+pyridoxal 5'-phosphate synthase pdxT subunit	4.3.3.6	D-Ribose 5-phosphate	Orthophosphate	green
+pyridoxal 5'-phosphate synthase pdxT subunit	4.3.3.6	D-Ribose 5-phosphate	Pyridoxal phosphate	green
+pyridoxal 5'-phosphate synthase pdxT subunit	4.3.3.6	L-Glutamine	H2O	green
+pyridoxal 5'-phosphate synthase pdxT subunit	4.3.3.6	L-Glutamine	L-Glutamate	green
+pyridoxal 5'-phosphate synthase pdxT subunit	4.3.3.6	L-Glutamine	Orthophosphate	green
+pyridoxal 5'-phosphate synthase pdxT subunit	4.3.3.6	L-Glutamine	Pyridoxal phosphate	green
+pyridoxal phosphatase	3.1.3.74	H2O	Orthophosphate	white
+pyridoxal phosphatase	3.1.3.74	H2O	Pyridoxal	white
+pyridoxal phosphatase	3.1.3.74	Orthophosphate	H2O	white
+pyridoxal phosphatase	3.1.3.74	Orthophosphate	Pyridoxal phosphate	white
+pyridoxal phosphatase	3.1.3.74	Pyridoxal	H2O	white
+pyridoxal phosphatase	3.1.3.74	Pyridoxal	Pyridoxal phosphate	white
+pyridoxal phosphatase	3.1.3.74	Pyridoxal phosphate	Orthophosphate	white
+pyridoxal phosphatase	3.1.3.74	Pyridoxal phosphate	Pyridoxal	white
+pyridoxal phosphate phosphatase PHOSPHO2	3.1.3.74	H2O	Orthophosphate	white
+pyridoxal phosphate phosphatase PHOSPHO2	3.1.3.74	H2O	Pyridoxal	white
+pyridoxal phosphate phosphatase PHOSPHO2	3.1.3.74	Orthophosphate	H2O	white
+pyridoxal phosphate phosphatase PHOSPHO2	3.1.3.74	Orthophosphate	Pyridoxal phosphate	white
+pyridoxal phosphate phosphatase PHOSPHO2	3.1.3.74	Pyridoxal	H2O	white
+pyridoxal phosphate phosphatase PHOSPHO2	3.1.3.74	Pyridoxal	Pyridoxal phosphate	white
+pyridoxal phosphate phosphatase PHOSPHO2	3.1.3.74	Pyridoxal phosphate	Orthophosphate	white
+pyridoxal phosphate phosphatase PHOSPHO2	3.1.3.74	Pyridoxal phosphate	Pyridoxal	white
+pyridoxamine 5'-phosphate oxidase	1.4.3.5	Ammonia	H2O	green
+pyridoxamine 5'-phosphate oxidase	1.4.3.5	Ammonia	Oxygen	green
+pyridoxamine 5'-phosphate oxidase	1.4.3.5	Ammonia	Pyridoxamine	green
+pyridoxamine 5'-phosphate oxidase	1.4.3.5	H2O	Ammonia	green
+pyridoxamine 5'-phosphate oxidase	1.4.3.5	H2O	Hydrogen peroxide	green
+pyridoxamine 5'-phosphate oxidase	1.4.3.5	H2O	Pyridoxal	green
+pyridoxamine 5'-phosphate oxidase	1.4.3.5	H2O	Pyridoxal phosphate	green
+pyridoxamine 5'-phosphate oxidase	1.4.3.5	Hydrogen peroxide	H2O	green
+pyridoxamine 5'-phosphate oxidase	1.4.3.5	Hydrogen peroxide	Oxygen	green
+pyridoxamine 5'-phosphate oxidase	1.4.3.5	Hydrogen peroxide	Pyridoxamine	green
+pyridoxamine 5'-phosphate oxidase	1.4.3.5	Hydrogen peroxide	Pyridoxine	green
+pyridoxamine 5'-phosphate oxidase	1.4.3.5	Oxygen	Ammonia	green
+pyridoxamine 5'-phosphate oxidase	1.4.3.5	Oxygen	Hydrogen peroxide	green
+pyridoxamine 5'-phosphate oxidase	1.4.3.5	Oxygen	Pyridoxal	green
+pyridoxamine 5'-phosphate oxidase	1.4.3.5	Oxygen	Pyridoxal phosphate	green
+pyridoxamine 5'-phosphate oxidase	1.4.3.5	Pyridoxal	H2O	green
+pyridoxamine 5'-phosphate oxidase	1.4.3.5	Pyridoxal	Oxygen	green
+pyridoxamine 5'-phosphate oxidase	1.4.3.5	Pyridoxal	Pyridoxamine	green
+pyridoxamine 5'-phosphate oxidase	1.4.3.5	Pyridoxal	Pyridoxine	green
+pyridoxamine 5'-phosphate oxidase	1.4.3.5	Pyridoxamine	Ammonia	green
+pyridoxamine 5'-phosphate oxidase	1.4.3.5	Pyridoxamine	Hydrogen peroxide	green
+pyridoxamine 5'-phosphate oxidase	1.4.3.5	Pyridoxamine	Pyridoxal	green
+pyridoxamine 5'-phosphate oxidase	1.4.3.5	Pyridoxamine phosphate	Ammonia	green
+pyridoxamine 5'-phosphate oxidase	1.4.3.5	Pyridoxamine phosphate	Hydrogen peroxide	green
+pyridoxamine 5'-phosphate oxidase	1.4.3.5	Pyridoxamine phosphate	Pyridoxal phosphate	green
+pyridoxamine 5'-phosphate oxidase	1.4.3.5	Pyridoxine	Hydrogen peroxide	green
+pyridoxamine 5'-phosphate oxidase	1.4.3.5	Pyridoxine	Pyridoxal	green
+pyridoxamine 5'-phosphate oxidase	1.4.3.5	Pyridoxine phosphate	Hydrogen peroxide	green
+pyridoxamine 5'-phosphate oxidase	1.4.3.5	Pyridoxine phosphate	Pyridoxal phosphate	green
+pyridoxamine---pyruvate transaminase	2.6.1.30	L-Alanine	Pyridoxamine	white
+pyridoxamine---pyruvate transaminase	2.6.1.30	L-Alanine	Pyruvate	white
+pyridoxamine---pyruvate transaminase	2.6.1.30	Pyridoxal	Pyridoxamine	white
+pyridoxamine---pyruvate transaminase	2.6.1.30	Pyridoxal	Pyruvate	white
+pyridoxamine---pyruvate transaminase	2.6.1.30	Pyridoxamine	L-Alanine	white
+pyridoxamine---pyruvate transaminase	2.6.1.30	Pyridoxamine	Pyridoxal	white
+pyridoxamine---pyruvate transaminase	2.6.1.30	Pyruvate	L-Alanine	white
+pyridoxamine---pyruvate transaminase	2.6.1.30	Pyruvate	Pyridoxal	white
+pyridoxine 4-dehydrogenase	1.1.1.65	H+	NADP+	white
+pyridoxine 4-dehydrogenase	1.1.1.65	H+	Pyridoxine	white
+pyridoxine 4-dehydrogenase	1.1.1.65	NADP+	H+	white
+pyridoxine 4-dehydrogenase	1.1.1.65	NADP+	NADPH	white
+pyridoxine 4-dehydrogenase	1.1.1.65	NADP+	Pyridoxal	white
+pyridoxine 4-dehydrogenase	1.1.1.65	NADPH	NADP+	white
+pyridoxine 4-dehydrogenase	1.1.1.65	NADPH	Pyridoxine	white
+pyridoxine 4-dehydrogenase	1.1.1.65	Pyridoxal	NADP+	white
+pyridoxine 4-dehydrogenase	1.1.1.65	Pyridoxal	Pyridoxine	white
+pyridoxine 4-dehydrogenase	1.1.1.65	Pyridoxine	H+	white
+pyridoxine 4-dehydrogenase	1.1.1.65	Pyridoxine	NADPH	white
+pyridoxine 4-dehydrogenase	1.1.1.65	Pyridoxine	Pyridoxal	white
+pyridoxine 4-oxidase	1.1.3.12	Hydrogen peroxide	Oxygen	white
+pyridoxine 4-oxidase	1.1.3.12	Hydrogen peroxide	Pyridoxine	white
+pyridoxine 4-oxidase	1.1.3.12	Oxygen	Hydrogen peroxide	white
+pyridoxine 4-oxidase	1.1.3.12	Oxygen	Pyridoxal	white
+pyridoxine 4-oxidase	1.1.3.12	Pyridoxal	Oxygen	white
+pyridoxine 4-oxidase	1.1.3.12	Pyridoxal	Pyridoxine	white
+pyridoxine 4-oxidase	1.1.3.12	Pyridoxine	Hydrogen peroxide	white
+pyridoxine 4-oxidase	1.1.3.12	Pyridoxine	Pyridoxal	white
+pyridoxine 5-phosphate synthase	2.6.99.2	1-Deoxy-D-xylulose 5-phosphate	H2O	white
+pyridoxine 5-phosphate synthase	2.6.99.2	1-Deoxy-D-xylulose 5-phosphate	Orthophosphate	white
+pyridoxine 5-phosphate synthase	2.6.99.2	1-Deoxy-D-xylulose 5-phosphate	Pyridoxine phosphate	white
+pyridoxine 5-phosphate synthase	2.6.99.2	3-Amino-2-oxopropyl phosphate	H2O	white
+pyridoxine 5-phosphate synthase	2.6.99.2	3-Amino-2-oxopropyl phosphate	Orthophosphate	white
+pyridoxine 5-phosphate synthase	2.6.99.2	3-Amino-2-oxopropyl phosphate	Pyridoxine phosphate	white
+pyridoxine 5-phosphate synthase	2.6.99.2	H2O	1-Deoxy-D-xylulose 5-phosphate	white
+pyridoxine 5-phosphate synthase	2.6.99.2	H2O	3-Amino-2-oxopropyl phosphate	white
+pyridoxine 5-phosphate synthase	2.6.99.2	Orthophosphate	1-Deoxy-D-xylulose 5-phosphate	white
+pyridoxine 5-phosphate synthase	2.6.99.2	Orthophosphate	3-Amino-2-oxopropyl phosphate	white
+pyridoxine 5-phosphate synthase	2.6.99.2	Pyridoxine phosphate	1-Deoxy-D-xylulose 5-phosphate	white
+pyridoxine 5-phosphate synthase	2.6.99.2	Pyridoxine phosphate	3-Amino-2-oxopropyl phosphate	white
+pyridoxine kinase	2.7.1.35	ADP	ATP	white
+pyridoxine kinase	2.7.1.35	ADP	Pyridoxal	white
+pyridoxine kinase	2.7.1.35	ATP	ADP	white
+pyridoxine kinase	2.7.1.35	ATP	Pyridoxal phosphate	white
+pyridoxine kinase	2.7.1.35	Pyridoxal	ADP	white
+pyridoxine kinase	2.7.1.35	Pyridoxal	Pyridoxal phosphate	white
+pyridoxine kinase	2.7.1.35	Pyridoxal phosphate	ATP	white
+pyridoxine kinase	2.7.1.35	Pyridoxal phosphate	Pyridoxal	white
+threonine synthase	4.2.3.1	H2O	4-Hydroxy-L-threonine	green
+threonine synthase	4.2.3.1	H2O	Orthophosphate	green
+threonine synthase	4.2.3.1	O-Phospho-4-hydroxy-L-threonine	4-Hydroxy-L-threonine	green
+threonine synthase	4.2.3.1	O-Phospho-4-hydroxy-L-threonine	Orthophosphate	green

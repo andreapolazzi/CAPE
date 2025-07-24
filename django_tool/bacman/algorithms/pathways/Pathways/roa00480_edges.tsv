@@ -1,0 +1,433 @@
+enzyme_name	EC	source	target	color
+5-oxoprolinase (ATP-hydrolysing) subunit A	3.5.2.9	5-Oxoproline	ADP	green
+5-oxoprolinase (ATP-hydrolysing) subunit A	3.5.2.9	5-Oxoproline	L-Glutamate	green
+5-oxoprolinase (ATP-hydrolysing) subunit A	3.5.2.9	5-Oxoproline	Orthophosphate	green
+5-oxoprolinase (ATP-hydrolysing) subunit A	3.5.2.9	ATP	ADP	green
+5-oxoprolinase (ATP-hydrolysing) subunit A	3.5.2.9	ATP	L-Glutamate	green
+5-oxoprolinase (ATP-hydrolysing) subunit A	3.5.2.9	ATP	Orthophosphate	green
+5-oxoprolinase (ATP-hydrolysing) subunit A	3.5.2.9	H2O	ADP	green
+5-oxoprolinase (ATP-hydrolysing) subunit A	3.5.2.9	H2O	L-Glutamate	green
+5-oxoprolinase (ATP-hydrolysing) subunit A	3.5.2.9	H2O	Orthophosphate	green
+6-phosphogluconate dehydrogenase	1.1.1.44	6-Phospho-D-gluconate	CO2	green
+6-phosphogluconate dehydrogenase	1.1.1.44	6-Phospho-D-gluconate	D-Ribulose 5-phosphate	green
+6-phosphogluconate dehydrogenase	1.1.1.44	6-Phospho-D-gluconate	H+	green
+6-phosphogluconate dehydrogenase	1.1.1.44	6-Phospho-D-gluconate	NADPH	green
+6-phosphogluconate dehydrogenase	1.1.1.44	NADP+	CO2	green
+6-phosphogluconate dehydrogenase	1.1.1.44	NADP+	D-Ribulose 5-phosphate	green
+6-phosphogluconate dehydrogenase	1.1.1.44	NADP+	H+	green
+6-phosphogluconate dehydrogenase	1.1.1.44	NADP+	NADPH	green
+Cys-Gly metallodipeptidase DUG1	3.4.13.-	Cys-Gly	Glycine	white
+Cys-Gly metallodipeptidase DUG1	3.4.13.-	Cys-Gly	L-Cysteine	white
+Cys-Gly metallodipeptidase DUG1	3.4.13.-	Glycine	Cys-Gly	white
+Cys-Gly metallodipeptidase DUG1	3.4.13.-	Glycine	H2O	white
+Cys-Gly metallodipeptidase DUG1	3.4.13.-	H2O	Glycine	white
+Cys-Gly metallodipeptidase DUG1	3.4.13.-	H2O	L-Cysteine	white
+Cys-Gly metallodipeptidase DUG1	3.4.13.-	L-Cysteine	Cys-Gly	white
+Cys-Gly metallodipeptidase DUG1	3.4.13.-	L-Cysteine	H2O	white
+L-ascorbate peroxidase	1.11.1.11	Ascorbate	Dehydroascorbate	white
+L-ascorbate peroxidase	1.11.1.11	Ascorbate	H2O	white
+L-ascorbate peroxidase	1.11.1.11	Dehydroascorbate	Ascorbate	white
+L-ascorbate peroxidase	1.11.1.11	Dehydroascorbate	Hydrogen peroxide	white
+L-ascorbate peroxidase	1.11.1.11	H2O	Ascorbate	white
+L-ascorbate peroxidase	1.11.1.11	H2O	Hydrogen peroxide	white
+L-ascorbate peroxidase	1.11.1.11	Hydrogen peroxide	Dehydroascorbate	white
+L-ascorbate peroxidase	1.11.1.11	Hydrogen peroxide	H2O	white
+N-acetyltransferase 8	2.3.1.80	Acetyl-CoA	CoA	white
+N-acetyltransferase 8	2.3.1.80	Acetyl-CoA	S-Substituted N-acetyl-L-cysteine	white
+N-acetyltransferase 8	2.3.1.80	CoA	Acetyl-CoA	white
+N-acetyltransferase 8	2.3.1.80	CoA	S-Substituted L-cysteine	white
+N-acetyltransferase 8	2.3.1.80	S-Substituted L-cysteine	CoA	white
+N-acetyltransferase 8	2.3.1.80	S-Substituted L-cysteine	S-Substituted N-acetyl-L-cysteine	white
+N-acetyltransferase 8	2.3.1.80	S-Substituted N-acetyl-L-cysteine	Acetyl-CoA	white
+N-acetyltransferase 8	2.3.1.80	S-Substituted N-acetyl-L-cysteine	S-Substituted L-cysteine	white
+PepB aminopeptidase	3.4.11.23	Cys-Gly	Glycine	white
+PepB aminopeptidase	3.4.11.23	Cys-Gly	L-Cysteine	white
+PepB aminopeptidase	3.4.11.23	Glycine	Cys-Gly	white
+PepB aminopeptidase	3.4.11.23	Glycine	H2O	white
+PepB aminopeptidase	3.4.11.23	H2O	Glycine	white
+PepB aminopeptidase	3.4.11.23	H2O	L-Cysteine	white
+PepB aminopeptidase	3.4.11.23	L-Cysteine	Cys-Gly	white
+PepB aminopeptidase	3.4.11.23	L-Cysteine	H2O	white
+aminopeptidase N	3.4.11.2	Cys-Gly	Glycine	green
+aminopeptidase N	3.4.11.2	Cys-Gly	L-Cysteine	green
+aminopeptidase N	3.4.11.2	H2O	Glycine	green
+aminopeptidase N	3.4.11.2	H2O	L-Cysteine	green
+aminopeptidase N	3.4.11.2	H2O	S-Substituted L-cysteine	green
+aminopeptidase N	3.4.11.2	R-S-Cysteinylglycine	Glycine	green
+aminopeptidase N	3.4.11.2	R-S-Cysteinylglycine	S-Substituted L-cysteine	green
+bis-gamma-glutamylcystine reductase	1.8.1.13	Bis-gamma-glutamylcystine	NADP+	white
+bis-gamma-glutamylcystine reductase	1.8.1.13	Bis-gamma-glutamylcystine	gamma-L-Glutamyl-L-cysteine	white
+bis-gamma-glutamylcystine reductase	1.8.1.13	H+	NADP+	white
+bis-gamma-glutamylcystine reductase	1.8.1.13	H+	gamma-L-Glutamyl-L-cysteine	white
+bis-gamma-glutamylcystine reductase	1.8.1.13	NADP+	Bis-gamma-glutamylcystine	white
+bis-gamma-glutamylcystine reductase	1.8.1.13	NADP+	H+	white
+bis-gamma-glutamylcystine reductase	1.8.1.13	NADP+	NADPH	white
+bis-gamma-glutamylcystine reductase	1.8.1.13	NADPH	NADP+	white
+bis-gamma-glutamylcystine reductase	1.8.1.13	NADPH	gamma-L-Glutamyl-L-cysteine	white
+bis-gamma-glutamylcystine reductase	1.8.1.13	gamma-L-Glutamyl-L-cysteine	Bis-gamma-glutamylcystine	white
+bis-gamma-glutamylcystine reductase	1.8.1.13	gamma-L-Glutamyl-L-cysteine	H+	white
+bis-gamma-glutamylcystine reductase	1.8.1.13	gamma-L-Glutamyl-L-cysteine	NADPH	white
+cytosol aminopeptidase	3.4.11.1	H2O	L-Proline	white
+cytosol aminopeptidase	3.4.11.1	H2O	Peptide	white
+cytosol aminopeptidase	3.4.11.1	L-Proline	H2O	white
+cytosol aminopeptidase	3.4.11.1	L-Proline	Peptide	white
+cytosol aminopeptidase	3.4.11.1	Peptide	H2O	white
+cytosol aminopeptidase	3.4.11.1	Peptide	L-Proline	white
+cytosol aminopeptidase	3.4.11.1	Peptide	Peptide	white
+cytosolic tryparedoxin peroxidase, trypanosomatid typical 2-Cys peroxiredoxin	1.11.1.-	H2O	ROOH	white
+cytosolic tryparedoxin peroxidase, trypanosomatid typical 2-Cys peroxiredoxin	1.11.1.-	H2O	Tryparedoxin	white
+cytosolic tryparedoxin peroxidase, trypanosomatid typical 2-Cys peroxiredoxin	1.11.1.-	ROH	ROOH	white
+cytosolic tryparedoxin peroxidase, trypanosomatid typical 2-Cys peroxiredoxin	1.11.1.-	ROH	Tryparedoxin	white
+cytosolic tryparedoxin peroxidase, trypanosomatid typical 2-Cys peroxiredoxin	1.11.1.-	ROOH	H2O	white
+cytosolic tryparedoxin peroxidase, trypanosomatid typical 2-Cys peroxiredoxin	1.11.1.-	ROOH	ROH	white
+cytosolic tryparedoxin peroxidase, trypanosomatid typical 2-Cys peroxiredoxin	1.11.1.-	ROOH	Tryparedoxin disulfide	white
+cytosolic tryparedoxin peroxidase, trypanosomatid typical 2-Cys peroxiredoxin	1.11.1.-	Tryparedoxin	H2O	white
+cytosolic tryparedoxin peroxidase, trypanosomatid typical 2-Cys peroxiredoxin	1.11.1.-	Tryparedoxin	ROH	white
+cytosolic tryparedoxin peroxidase, trypanosomatid typical 2-Cys peroxiredoxin	1.11.1.-	Tryparedoxin	Tryparedoxin disulfide	white
+cytosolic tryparedoxin peroxidase, trypanosomatid typical 2-Cys peroxiredoxin	1.11.1.-	Tryparedoxin disulfide	ROOH	white
+cytosolic tryparedoxin peroxidase, trypanosomatid typical 2-Cys peroxiredoxin	1.11.1.-	Tryparedoxin disulfide	Tryparedoxin	white
+dipeptidase D	3.4.13.-	Cys-Gly	Glycine	white
+dipeptidase D	3.4.13.-	Cys-Gly	L-Cysteine	white
+dipeptidase D	3.4.13.-	Glycine	Cys-Gly	white
+dipeptidase D	3.4.13.-	Glycine	H2O	white
+dipeptidase D	3.4.13.-	H2O	Glycine	white
+dipeptidase D	3.4.13.-	H2O	L-Cysteine	white
+dipeptidase D	3.4.13.-	L-Cysteine	Cys-Gly	white
+dipeptidase D	3.4.13.-	L-Cysteine	H2O	white
+gamma-glutamylcyclotransferase	4.3.2.9	5-Oxoproline	gamma-L-Glutamyl-L-cysteine	white
+gamma-glutamylcyclotransferase	4.3.2.9	L-Cysteine	gamma-L-Glutamyl-L-cysteine	white
+gamma-glutamylcyclotransferase	4.3.2.9	gamma-L-Glutamyl-L-cysteine	5-Oxoproline	white
+gamma-glutamylcyclotransferase	4.3.2.9	gamma-L-Glutamyl-L-cysteine	L-Cysteine	white
+gamma-glutamylcyclotransferase, plant	4.3.2.9	5-Oxoproline	gamma-L-Glutamyl-L-cysteine	white
+gamma-glutamylcyclotransferase, plant	4.3.2.9	L-Cysteine	gamma-L-Glutamyl-L-cysteine	white
+gamma-glutamylcyclotransferase, plant	4.3.2.9	gamma-L-Glutamyl-L-cysteine	5-Oxoproline	white
+gamma-glutamylcyclotransferase, plant	4.3.2.9	gamma-L-Glutamyl-L-cysteine	L-Cysteine	white
+gamma-glutamyltranspeptidase / glutathione hydrolase	2.3.2.2	Glutathione	(5-L-Glutamyl)-L-amino acid	green
+gamma-glutamyltranspeptidase / glutathione hydrolase	2.3.2.2	Glutathione	Cys-Gly	green
+gamma-glutamyltranspeptidase / glutathione hydrolase	2.3.2.2	Glutathione	L-Glutamate	green
+gamma-glutamyltranspeptidase / glutathione hydrolase	2.3.2.2	H2O	Cys-Gly	green
+gamma-glutamyltranspeptidase / glutathione hydrolase	2.3.2.2	H2O	L-Glutamate	green
+gamma-glutamyltranspeptidase / glutathione hydrolase	2.3.2.2	H2O	R-S-Cysteinylglycine	green
+gamma-glutamyltranspeptidase / glutathione hydrolase	2.3.2.2	L-Amino acid	(5-L-Glutamyl)-L-amino acid	green
+gamma-glutamyltranspeptidase / glutathione hydrolase	2.3.2.2	L-Amino acid	Cys-Gly	green
+gamma-glutamyltranspeptidase / glutathione hydrolase	2.3.2.2	R-S-Glutathione	L-Glutamate	green
+gamma-glutamyltranspeptidase / glutathione hydrolase	2.3.2.2	R-S-Glutathione	R-S-Cysteinylglycine	green
+glucose-6-phosphate 1-dehydrogenase	1.1.1.49	NADP+	D-Glucono-1,5-lactone 6-phosphate	green
+glucose-6-phosphate 1-dehydrogenase	1.1.1.49	NADP+	H+	green
+glucose-6-phosphate 1-dehydrogenase	1.1.1.49	NADP+	NADPH	green
+glucose-6-phosphate 1-dehydrogenase	1.1.1.49	beta-D-Glucose 6-phosphate	D-Glucono-1,5-lactone 6-phosphate	green
+glucose-6-phosphate 1-dehydrogenase	1.1.1.49	beta-D-Glucose 6-phosphate	H+	green
+glucose-6-phosphate 1-dehydrogenase	1.1.1.49	beta-D-Glucose 6-phosphate	NADPH	green
+glutamate---cysteine ligase / carboxylate-amine ligase	6.3.2.2	ATP	ADP	green
+glutamate---cysteine ligase / carboxylate-amine ligase	6.3.2.2	ATP	Orthophosphate	green
+glutamate---cysteine ligase / carboxylate-amine ligase	6.3.2.2	ATP	gamma-L-Glutamyl-L-cysteine	green
+glutamate---cysteine ligase / carboxylate-amine ligase	6.3.2.2	L-Cysteine	ADP	green
+glutamate---cysteine ligase / carboxylate-amine ligase	6.3.2.2	L-Cysteine	Orthophosphate	green
+glutamate---cysteine ligase / carboxylate-amine ligase	6.3.2.2	L-Cysteine	gamma-L-Glutamyl-L-cysteine	green
+glutamate---cysteine ligase / carboxylate-amine ligase	6.3.2.2	L-Glutamate	ADP	green
+glutamate---cysteine ligase / carboxylate-amine ligase	6.3.2.2	L-Glutamate	Orthophosphate	green
+glutamate---cysteine ligase / carboxylate-amine ligase	6.3.2.2	L-Glutamate	gamma-L-Glutamyl-L-cysteine	green
+glutamate--cysteine ligase	6.3.2.2	ATP	ADP	green
+glutamate--cysteine ligase	6.3.2.2	ATP	Orthophosphate	green
+glutamate--cysteine ligase	6.3.2.2	ATP	gamma-L-Glutamyl-L-cysteine	green
+glutamate--cysteine ligase	6.3.2.2	L-Cysteine	ADP	green
+glutamate--cysteine ligase	6.3.2.2	L-Cysteine	Orthophosphate	green
+glutamate--cysteine ligase	6.3.2.2	L-Cysteine	gamma-L-Glutamyl-L-cysteine	green
+glutamate--cysteine ligase	6.3.2.2	L-Glutamate	ADP	green
+glutamate--cysteine ligase	6.3.2.2	L-Glutamate	Orthophosphate	green
+glutamate--cysteine ligase	6.3.2.2	L-Glutamate	gamma-L-Glutamyl-L-cysteine	green
+glutaredoxin/glutathione-dependent peroxiredoxin	1.11.1.25	Glutathione	Glutathione disulfide	white
+glutaredoxin/glutathione-dependent peroxiredoxin	1.11.1.25	Glutathione	H2O	white
+glutaredoxin/glutathione-dependent peroxiredoxin	1.11.1.25	Glutathione	ROH	white
+glutaredoxin/glutathione-dependent peroxiredoxin	1.11.1.25	Glutathione disulfide	Glutathione	white
+glutaredoxin/glutathione-dependent peroxiredoxin	1.11.1.25	Glutathione disulfide	ROOH	white
+glutaredoxin/glutathione-dependent peroxiredoxin	1.11.1.25	H2O	Glutathione	white
+glutaredoxin/glutathione-dependent peroxiredoxin	1.11.1.25	H2O	ROOH	white
+glutaredoxin/glutathione-dependent peroxiredoxin	1.11.1.25	ROH	Glutathione	white
+glutaredoxin/glutathione-dependent peroxiredoxin	1.11.1.25	ROH	ROOH	white
+glutaredoxin/glutathione-dependent peroxiredoxin	1.11.1.25	ROOH	Glutathione disulfide	white
+glutaredoxin/glutathione-dependent peroxiredoxin	1.11.1.25	ROOH	H2O	white
+glutaredoxin/glutathione-dependent peroxiredoxin	1.11.1.25	ROOH	ROH	white
+glutathione S-transferase	2.5.1.18	Glutathione	Halide	white
+glutathione S-transferase	2.5.1.18	Glutathione	R-S-Glutathione	white
+glutathione S-transferase	2.5.1.18	Halide	Glutathione	white
+glutathione S-transferase	2.5.1.18	Halide	RX	white
+glutathione S-transferase	2.5.1.18	R-S-Glutathione	Glutathione	white
+glutathione S-transferase	2.5.1.18	R-S-Glutathione	RX	white
+glutathione S-transferase	2.5.1.18	RX	Halide	white
+glutathione S-transferase	2.5.1.18	RX	R-S-Glutathione	white
+glutathione S-transferase P	2.5.1.18	Glutathione	Halide	white
+glutathione S-transferase P	2.5.1.18	Glutathione	R-S-Glutathione	white
+glutathione S-transferase P	2.5.1.18	Halide	Glutathione	white
+glutathione S-transferase P	2.5.1.18	Halide	RX	white
+glutathione S-transferase P	2.5.1.18	R-S-Glutathione	Glutathione	white
+glutathione S-transferase P	2.5.1.18	R-S-Glutathione	RX	white
+glutathione S-transferase P	2.5.1.18	RX	Halide	white
+glutathione S-transferase P	2.5.1.18	RX	R-S-Glutathione	white
+glutathione S-transferase kappa 1	2.5.1.18	Glutathione	Halide	white
+glutathione S-transferase kappa 1	2.5.1.18	Glutathione	R-S-Glutathione	white
+glutathione S-transferase kappa 1	2.5.1.18	Halide	Glutathione	white
+glutathione S-transferase kappa 1	2.5.1.18	Halide	RX	white
+glutathione S-transferase kappa 1	2.5.1.18	R-S-Glutathione	Glutathione	white
+glutathione S-transferase kappa 1	2.5.1.18	R-S-Glutathione	RX	white
+glutathione S-transferase kappa 1	2.5.1.18	RX	Halide	white
+glutathione S-transferase kappa 1	2.5.1.18	RX	R-S-Glutathione	white
+glutathione dehydrogenase/transferase	1.8.5.1	Ascorbate	Dehydroascorbate	white
+glutathione dehydrogenase/transferase	1.8.5.1	Ascorbate	Glutathione	white
+glutathione dehydrogenase/transferase	1.8.5.1	Dehydroascorbate	Ascorbate	white
+glutathione dehydrogenase/transferase	1.8.5.1	Dehydroascorbate	Glutathione disulfide	white
+glutathione dehydrogenase/transferase	1.8.5.1	Glutathione	Ascorbate	white
+glutathione dehydrogenase/transferase	1.8.5.1	Glutathione	Glutathione disulfide	white
+glutathione dehydrogenase/transferase	1.8.5.1	Glutathione disulfide	Dehydroascorbate	white
+glutathione dehydrogenase/transferase	1.8.5.1	Glutathione disulfide	Glutathione	white
+glutathione peroxidase	1.11.1.9	Glutathione	Glutathione disulfide	green
+glutathione peroxidase	1.11.1.9	Glutathione	H2O	green
+glutathione peroxidase	1.11.1.9	Hydrogen peroxide	Glutathione disulfide	green
+glutathione peroxidase	1.11.1.9	Hydrogen peroxide	H2O	green
+glutathione peroxidase-type tryparedoxin peroxidase	1.11.1.-	H2O	ROOH	white
+glutathione peroxidase-type tryparedoxin peroxidase	1.11.1.-	H2O	Tryparedoxin	white
+glutathione peroxidase-type tryparedoxin peroxidase	1.11.1.-	ROH	ROOH	white
+glutathione peroxidase-type tryparedoxin peroxidase	1.11.1.-	ROH	Tryparedoxin	white
+glutathione peroxidase-type tryparedoxin peroxidase	1.11.1.-	ROOH	H2O	white
+glutathione peroxidase-type tryparedoxin peroxidase	1.11.1.-	ROOH	ROH	white
+glutathione peroxidase-type tryparedoxin peroxidase	1.11.1.-	ROOH	Tryparedoxin disulfide	white
+glutathione peroxidase-type tryparedoxin peroxidase	1.11.1.-	Tryparedoxin	H2O	white
+glutathione peroxidase-type tryparedoxin peroxidase	1.11.1.-	Tryparedoxin	ROH	white
+glutathione peroxidase-type tryparedoxin peroxidase	1.11.1.-	Tryparedoxin	Tryparedoxin disulfide	white
+glutathione peroxidase-type tryparedoxin peroxidase	1.11.1.-	Tryparedoxin disulfide	ROOH	white
+glutathione peroxidase-type tryparedoxin peroxidase	1.11.1.-	Tryparedoxin disulfide	Tryparedoxin	white
+glutathione reductase (NADPH)	1.8.1.7	Glutathione	Glutathione disulfide	white
+glutathione reductase (NADPH)	1.8.1.7	Glutathione	H+	white
+glutathione reductase (NADPH)	1.8.1.7	Glutathione	NADH	white
+glutathione reductase (NADPH)	1.8.1.7	Glutathione disulfide	Glutathione	white
+glutathione reductase (NADPH)	1.8.1.7	Glutathione disulfide	NAD+	white
+glutathione reductase (NADPH)	1.8.1.7	H+	Glutathione	white
+glutathione reductase (NADPH)	1.8.1.7	H+	NAD+	white
+glutathione reductase (NADPH)	1.8.1.7	NAD+	Glutathione disulfide	white
+glutathione reductase (NADPH)	1.8.1.7	NAD+	H+	white
+glutathione reductase (NADPH)	1.8.1.7	NAD+	NADH	white
+glutathione reductase (NADPH)	1.8.1.7	NADH	Glutathione	white
+glutathione reductase (NADPH)	1.8.1.7	NADH	NAD+	white
+glutathione synthase	6.3.2.3	ATP	ADP	green
+glutathione synthase	6.3.2.3	ATP	Glutathione	green
+glutathione synthase	6.3.2.3	ATP	Orthophosphate	green
+glutathione synthase	6.3.2.3	Glycine	ADP	green
+glutathione synthase	6.3.2.3	Glycine	Glutathione	green
+glutathione synthase	6.3.2.3	Glycine	Orthophosphate	green
+glutathione synthase	6.3.2.3	gamma-L-Glutamyl-L-cysteine	ADP	green
+glutathione synthase	6.3.2.3	gamma-L-Glutamyl-L-cysteine	Glutathione	green
+glutathione synthase	6.3.2.3	gamma-L-Glutamyl-L-cysteine	Orthophosphate	green
+glutathione transferase	2.5.1.18	Glutathione	Halide	white
+glutathione transferase	2.5.1.18	Glutathione	R-S-Glutathione	white
+glutathione transferase	2.5.1.18	Halide	Glutathione	white
+glutathione transferase	2.5.1.18	Halide	RX	white
+glutathione transferase	2.5.1.18	R-S-Glutathione	Glutathione	white
+glutathione transferase	2.5.1.18	R-S-Glutathione	RX	white
+glutathione transferase	2.5.1.18	RX	Halide	white
+glutathione transferase	2.5.1.18	RX	R-S-Glutathione	white
+glutathione-dependent peroxiredoxin	1.11.1.27	Glutathione	Glutathione disulfide	white
+glutathione-dependent peroxiredoxin	1.11.1.27	Glutathione	H2O	white
+glutathione-dependent peroxiredoxin	1.11.1.27	Glutathione	ROH	white
+glutathione-dependent peroxiredoxin	1.11.1.27	Glutathione disulfide	Glutathione	white
+glutathione-dependent peroxiredoxin	1.11.1.27	Glutathione disulfide	ROOH	white
+glutathione-dependent peroxiredoxin	1.11.1.27	H2O	Glutathione	white
+glutathione-dependent peroxiredoxin	1.11.1.27	H2O	ROOH	white
+glutathione-dependent peroxiredoxin	1.11.1.27	ROH	Glutathione	white
+glutathione-dependent peroxiredoxin	1.11.1.27	ROH	ROOH	white
+glutathione-dependent peroxiredoxin	1.11.1.27	ROOH	Glutathione disulfide	white
+glutathione-dependent peroxiredoxin	1.11.1.27	ROOH	H2O	white
+glutathione-dependent peroxiredoxin	1.11.1.27	ROOH	ROH	white
+glutathione-specific gamma-glutamylcyclotransferase	4.3.2.7	5-Oxoproline	Glutathione	white
+glutathione-specific gamma-glutamylcyclotransferase	4.3.2.7	Cys-Gly	Glutathione	white
+glutathione-specific gamma-glutamylcyclotransferase	4.3.2.7	Glutathione	5-Oxoproline	white
+glutathione-specific gamma-glutamylcyclotransferase	4.3.2.7	Glutathione	Cys-Gly	white
+glutathionylspermidine amidase/synthetase	3.5.1.78	ADP	ATP	white
+glutathionylspermidine amidase/synthetase	3.5.1.78	ADP	Glutathione	white
+glutathionylspermidine amidase/synthetase	3.5.1.78	ADP	Spermidine	white
+glutathionylspermidine amidase/synthetase	3.5.1.78	ATP	ADP	white
+glutathionylspermidine amidase/synthetase	3.5.1.78	ATP	Glutathionylspermidine	white
+glutathionylspermidine amidase/synthetase	3.5.1.78	ATP	Orthophosphate	white
+glutathionylspermidine amidase/synthetase	3.5.1.78	Glutathione	ADP	white
+glutathionylspermidine amidase/synthetase	3.5.1.78	Glutathione	Glutathionylspermidine	white
+glutathionylspermidine amidase/synthetase	3.5.1.78	Glutathione	Orthophosphate	white
+glutathionylspermidine amidase/synthetase	3.5.1.78	Glutathionylspermidine	ATP	white
+glutathionylspermidine amidase/synthetase	3.5.1.78	Glutathionylspermidine	Glutathione	white
+glutathionylspermidine amidase/synthetase	3.5.1.78	Glutathionylspermidine	Spermidine	white
+glutathionylspermidine amidase/synthetase	3.5.1.78	Orthophosphate	ATP	white
+glutathionylspermidine amidase/synthetase	3.5.1.78	Orthophosphate	Glutathione	white
+glutathionylspermidine amidase/synthetase	3.5.1.78	Orthophosphate	Spermidine	white
+glutathionylspermidine amidase/synthetase	3.5.1.78	Spermidine	ADP	white
+glutathionylspermidine amidase/synthetase	3.5.1.78	Spermidine	Glutathionylspermidine	white
+glutathionylspermidine amidase/synthetase	3.5.1.78	Spermidine	Orthophosphate	white
+glutathionylspermidine synthase	6.3.1.8	ADP	ATP	white
+glutathionylspermidine synthase	6.3.1.8	ADP	Glutathione	white
+glutathionylspermidine synthase	6.3.1.8	ADP	Spermidine	white
+glutathionylspermidine synthase	6.3.1.8	ATP	ADP	white
+glutathionylspermidine synthase	6.3.1.8	ATP	Glutathionylspermidine	white
+glutathionylspermidine synthase	6.3.1.8	ATP	Orthophosphate	white
+glutathionylspermidine synthase	6.3.1.8	Glutathione	ADP	white
+glutathionylspermidine synthase	6.3.1.8	Glutathione	Glutathionylspermidine	white
+glutathionylspermidine synthase	6.3.1.8	Glutathione	Orthophosphate	white
+glutathionylspermidine synthase	6.3.1.8	Glutathionylspermidine	ATP	white
+glutathionylspermidine synthase	6.3.1.8	Glutathionylspermidine	Glutathione	white
+glutathionylspermidine synthase	6.3.1.8	Glutathionylspermidine	Spermidine	white
+glutathionylspermidine synthase	6.3.1.8	Orthophosphate	ATP	white
+glutathionylspermidine synthase	6.3.1.8	Orthophosphate	Glutathione	white
+glutathionylspermidine synthase	6.3.1.8	Orthophosphate	Spermidine	white
+glutathionylspermidine synthase	6.3.1.8	Spermidine	ADP	white
+glutathionylspermidine synthase	6.3.1.8	Spermidine	Glutathionylspermidine	white
+glutathionylspermidine synthase	6.3.1.8	Spermidine	Orthophosphate	white
+isocitrate dehydrogenase	1.1.1.42	Isocitrate	2-Oxoglutarate	green
+isocitrate dehydrogenase	1.1.1.42	Isocitrate	CO2	green
+isocitrate dehydrogenase	1.1.1.42	Isocitrate	H+	green
+isocitrate dehydrogenase	1.1.1.42	Isocitrate	NADPH	green
+isocitrate dehydrogenase	1.1.1.42	NADP+	2-Oxoglutarate	green
+isocitrate dehydrogenase	1.1.1.42	NADP+	CO2	green
+isocitrate dehydrogenase	1.1.1.42	NADP+	H+	green
+isocitrate dehydrogenase	1.1.1.42	NADP+	NADPH	green
+leucyl aminopeptidase	3.4.11.1	Cys-Gly	Glycine	green
+leucyl aminopeptidase	3.4.11.1	Cys-Gly	L-Cysteine	green
+leucyl aminopeptidase	3.4.11.1	H2O	Glycine	green
+leucyl aminopeptidase	3.4.11.1	H2O	L-Cysteine	green
+leucyl aminopeptidase	3.4.11.1	H2O	S-Substituted L-cysteine	green
+leucyl aminopeptidase	3.4.11.1	R-S-Cysteinylglycine	Glycine	green
+leucyl aminopeptidase	3.4.11.1	R-S-Cysteinylglycine	S-Substituted L-cysteine	green
+mitochondrial tryparedoxin peroxidase, trypanosomatid typical 2-Cys peroxiredoxin	1.11.1.-	H2O	ROOH	white
+mitochondrial tryparedoxin peroxidase, trypanosomatid typical 2-Cys peroxiredoxin	1.11.1.-	H2O	Tryparedoxin	white
+mitochondrial tryparedoxin peroxidase, trypanosomatid typical 2-Cys peroxiredoxin	1.11.1.-	ROH	ROOH	white
+mitochondrial tryparedoxin peroxidase, trypanosomatid typical 2-Cys peroxiredoxin	1.11.1.-	ROH	Tryparedoxin	white
+mitochondrial tryparedoxin peroxidase, trypanosomatid typical 2-Cys peroxiredoxin	1.11.1.-	ROOH	H2O	white
+mitochondrial tryparedoxin peroxidase, trypanosomatid typical 2-Cys peroxiredoxin	1.11.1.-	ROOH	ROH	white
+mitochondrial tryparedoxin peroxidase, trypanosomatid typical 2-Cys peroxiredoxin	1.11.1.-	ROOH	Tryparedoxin disulfide	white
+mitochondrial tryparedoxin peroxidase, trypanosomatid typical 2-Cys peroxiredoxin	1.11.1.-	Tryparedoxin	H2O	white
+mitochondrial tryparedoxin peroxidase, trypanosomatid typical 2-Cys peroxiredoxin	1.11.1.-	Tryparedoxin	ROH	white
+mitochondrial tryparedoxin peroxidase, trypanosomatid typical 2-Cys peroxiredoxin	1.11.1.-	Tryparedoxin	Tryparedoxin disulfide	white
+mitochondrial tryparedoxin peroxidase, trypanosomatid typical 2-Cys peroxiredoxin	1.11.1.-	Tryparedoxin disulfide	ROOH	white
+mitochondrial tryparedoxin peroxidase, trypanosomatid typical 2-Cys peroxiredoxin	1.11.1.-	Tryparedoxin disulfide	Tryparedoxin	white
+ornithine decarboxylase	4.1.1.17	CO2	L-Ornithine	white
+ornithine decarboxylase	4.1.1.17	L-Ornithine	CO2	white
+ornithine decarboxylase	4.1.1.17	L-Ornithine	Putrescine	white
+ornithine decarboxylase	4.1.1.17	Putrescine	L-Ornithine	white
+peroxiredoxin 6	1.11.1.7	Formaldehyde	Hydrogen peroxide	white
+peroxiredoxin 6	1.11.1.7	Formaldehyde	Methanol	white
+peroxiredoxin 6	1.11.1.7	H2O	Hydrogen peroxide	white
+peroxiredoxin 6	1.11.1.7	H2O	Methanol	white
+peroxiredoxin 6	1.11.1.7	Hydrogen peroxide	Formaldehyde	white
+peroxiredoxin 6	1.11.1.7	Hydrogen peroxide	H2O	white
+peroxiredoxin 6	1.11.1.7	Methanol	Formaldehyde	white
+peroxiredoxin 6	1.11.1.7	Methanol	H2O	white
+phosphogluconate 2-dehydrogenase	1.1.1.43	6-Phospho-2-dehydro-D-gluconate	6-Phospho-D-gluconate	white
+phosphogluconate 2-dehydrogenase	1.1.1.43	6-Phospho-2-dehydro-D-gluconate	NAD+	white
+phosphogluconate 2-dehydrogenase	1.1.1.43	6-Phospho-D-gluconate	6-Phospho-2-dehydro-D-gluconate	white
+phosphogluconate 2-dehydrogenase	1.1.1.43	6-Phospho-D-gluconate	H+	white
+phosphogluconate 2-dehydrogenase	1.1.1.43	6-Phospho-D-gluconate	NADH	white
+phosphogluconate 2-dehydrogenase	1.1.1.43	H+	6-Phospho-D-gluconate	white
+phosphogluconate 2-dehydrogenase	1.1.1.43	H+	NAD+	white
+phosphogluconate 2-dehydrogenase	1.1.1.43	NAD+	6-Phospho-2-dehydro-D-gluconate	white
+phosphogluconate 2-dehydrogenase	1.1.1.43	NAD+	H+	white
+phosphogluconate 2-dehydrogenase	1.1.1.43	NAD+	NADH	white
+phosphogluconate 2-dehydrogenase	1.1.1.43	NADH	6-Phospho-D-gluconate	white
+phosphogluconate 2-dehydrogenase	1.1.1.43	NADH	NAD+	white
+phospholipid-hydroperoxide glutathione peroxidase	1.11.1.12	Glutathione	Glutathione disulfide	white
+phospholipid-hydroperoxide glutathione peroxidase	1.11.1.12	Glutathione	H2O	white
+phospholipid-hydroperoxide glutathione peroxidase	1.11.1.12	Glutathione	Lipid	white
+phospholipid-hydroperoxide glutathione peroxidase	1.11.1.12	Glutathione disulfide	Glutathione	white
+phospholipid-hydroperoxide glutathione peroxidase	1.11.1.12	Glutathione disulfide	Lipid hydroperoxide	white
+phospholipid-hydroperoxide glutathione peroxidase	1.11.1.12	H2O	Glutathione	white
+phospholipid-hydroperoxide glutathione peroxidase	1.11.1.12	H2O	Lipid hydroperoxide	white
+phospholipid-hydroperoxide glutathione peroxidase	1.11.1.12	Lipid	Glutathione	white
+phospholipid-hydroperoxide glutathione peroxidase	1.11.1.12	Lipid	Lipid hydroperoxide	white
+phospholipid-hydroperoxide glutathione peroxidase	1.11.1.12	Lipid hydroperoxide	Glutathione disulfide	white
+phospholipid-hydroperoxide glutathione peroxidase	1.11.1.12	Lipid hydroperoxide	H2O	white
+phospholipid-hydroperoxide glutathione peroxidase	1.11.1.12	Lipid hydroperoxide	Lipid	white
+prostaglandin-H2 D-isomerase / glutathione transferase	5.3.99.2	Prostaglandin D2	Prostaglandin H2	white
+prostaglandin-H2 D-isomerase / glutathione transferase	5.3.99.2	Prostaglandin H2	Prostaglandin D2	white
+protein-disulfide reductase (glutathione)	1.8.4.2	Glutathione	Glutathione disulfide	white
+protein-disulfide reductase (glutathione)	1.8.4.2	Glutathione	Reduced insulin	white
+protein-disulfide reductase (glutathione)	1.8.4.2	Glutathione disulfide	Glutathione	white
+protein-disulfide reductase (glutathione)	1.8.4.2	Glutathione disulfide	Insulin	white
+protein-disulfide reductase (glutathione)	1.8.4.2	Insulin	Glutathione disulfide	white
+protein-disulfide reductase (glutathione)	1.8.4.2	Insulin	Reduced insulin	white
+protein-disulfide reductase (glutathione)	1.8.4.2	Reduced insulin	Glutathione	white
+protein-disulfide reductase (glutathione)	1.8.4.2	Reduced insulin	Insulin	white
+pyrimidodiazepine synthase	1.5.4.1	6-Pyruvoyltetrahydropterin	Glutathione disulfide	white
+pyrimidodiazepine synthase	1.5.4.1	6-Pyruvoyltetrahydropterin	H2O	white
+pyrimidodiazepine synthase	1.5.4.1	6-Pyruvoyltetrahydropterin	Pyrimidodiazepine	white
+pyrimidodiazepine synthase	1.5.4.1	Glutathione	Glutathione disulfide	white
+pyrimidodiazepine synthase	1.5.4.1	Glutathione	H2O	white
+pyrimidodiazepine synthase	1.5.4.1	Glutathione	Pyrimidodiazepine	white
+pyrimidodiazepine synthase	1.5.4.1	Glutathione disulfide	6-Pyruvoyltetrahydropterin	white
+pyrimidodiazepine synthase	1.5.4.1	Glutathione disulfide	Glutathione	white
+pyrimidodiazepine synthase	1.5.4.1	H2O	6-Pyruvoyltetrahydropterin	white
+pyrimidodiazepine synthase	1.5.4.1	H2O	Glutathione	white
+pyrimidodiazepine synthase	1.5.4.1	Pyrimidodiazepine	6-Pyruvoyltetrahydropterin	white
+pyrimidodiazepine synthase	1.5.4.1	Pyrimidodiazepine	Glutathione	white
+ribonucleoside-diphosphate reductase subunit M1	1.17.4.1	ADP	H2O	white
+ribonucleoside-diphosphate reductase subunit M1	1.17.4.1	ADP	Thioredoxin disulfide	white
+ribonucleoside-diphosphate reductase subunit M1	1.17.4.1	ADP	dADP	white
+ribonucleoside-diphosphate reductase subunit M1	1.17.4.1	H2O	ADP	white
+ribonucleoside-diphosphate reductase subunit M1	1.17.4.1	H2O	Thioredoxin	white
+ribonucleoside-diphosphate reductase subunit M1	1.17.4.1	Thioredoxin	H2O	white
+ribonucleoside-diphosphate reductase subunit M1	1.17.4.1	Thioredoxin	Thioredoxin disulfide	white
+ribonucleoside-diphosphate reductase subunit M1	1.17.4.1	Thioredoxin	dADP	white
+ribonucleoside-diphosphate reductase subunit M1	1.17.4.1	Thioredoxin disulfide	ADP	white
+ribonucleoside-diphosphate reductase subunit M1	1.17.4.1	Thioredoxin disulfide	Thioredoxin	white
+ribonucleoside-diphosphate reductase subunit M1	1.17.4.1	dADP	ADP	white
+ribonucleoside-diphosphate reductase subunit M1	1.17.4.1	dADP	Thioredoxin	white
+ribonucleoside-diphosphate reductase subunit M2	1.17.4.1	ADP	H2O	white
+ribonucleoside-diphosphate reductase subunit M2	1.17.4.1	ADP	Thioredoxin disulfide	white
+ribonucleoside-diphosphate reductase subunit M2	1.17.4.1	ADP	dADP	white
+ribonucleoside-diphosphate reductase subunit M2	1.17.4.1	H2O	ADP	white
+ribonucleoside-diphosphate reductase subunit M2	1.17.4.1	H2O	Thioredoxin	white
+ribonucleoside-diphosphate reductase subunit M2	1.17.4.1	Thioredoxin	H2O	white
+ribonucleoside-diphosphate reductase subunit M2	1.17.4.1	Thioredoxin	Thioredoxin disulfide	white
+ribonucleoside-diphosphate reductase subunit M2	1.17.4.1	Thioredoxin	dADP	white
+ribonucleoside-diphosphate reductase subunit M2	1.17.4.1	Thioredoxin disulfide	ADP	white
+ribonucleoside-diphosphate reductase subunit M2	1.17.4.1	Thioredoxin disulfide	Thioredoxin	white
+ribonucleoside-diphosphate reductase subunit M2	1.17.4.1	dADP	ADP	white
+ribonucleoside-diphosphate reductase subunit M2	1.17.4.1	dADP	Thioredoxin	white
+spermidine synthase	2.5.1.16	Cadaverine	5'-Methylthioadenosine	green
+spermidine synthase	2.5.1.16	Cadaverine	Aminopropylcadaverine	green
+spermidine synthase	2.5.1.16	Putrescine	5'-Methylthioadenosine	green
+spermidine synthase	2.5.1.16	Putrescine	Spermidine	green
+spermidine synthase	2.5.1.16	S-Adenosylmethioninamine	5'-Methylthioadenosine	green
+spermidine synthase	2.5.1.16	S-Adenosylmethioninamine	Aminopropylcadaverine	green
+spermidine synthase	2.5.1.16	S-Adenosylmethioninamine	Spermidine	green
+spermine synthase	2.5.1.22	5'-Methylthioadenosine	S-Adenosylmethioninamine	white
+spermine synthase	2.5.1.22	5'-Methylthioadenosine	Spermidine	white
+spermine synthase	2.5.1.22	S-Adenosylmethioninamine	5'-Methylthioadenosine	white
+spermine synthase	2.5.1.22	S-Adenosylmethioninamine	Spermine	white
+spermine synthase	2.5.1.22	Spermidine	5'-Methylthioadenosine	white
+spermine synthase	2.5.1.22	Spermidine	Spermine	white
+spermine synthase	2.5.1.22	Spermine	S-Adenosylmethioninamine	white
+spermine synthase	2.5.1.22	Spermine	Spermidine	white
+trypanothione synthetase/amidase	6.3.1.9	ADP	ATP	white
+trypanothione synthetase/amidase	6.3.1.9	ADP	Glutathione	white
+trypanothione synthetase/amidase	6.3.1.9	ADP	Spermidine	white
+trypanothione synthetase/amidase	6.3.1.9	ATP	ADP	white
+trypanothione synthetase/amidase	6.3.1.9	ATP	Glutathionylspermidine	white
+trypanothione synthetase/amidase	6.3.1.9	ATP	Orthophosphate	white
+trypanothione synthetase/amidase	6.3.1.9	Glutathione	ADP	white
+trypanothione synthetase/amidase	6.3.1.9	Glutathione	Glutathionylspermidine	white
+trypanothione synthetase/amidase	6.3.1.9	Glutathione	Orthophosphate	white
+trypanothione synthetase/amidase	6.3.1.9	Glutathionylspermidine	ATP	white
+trypanothione synthetase/amidase	6.3.1.9	Glutathionylspermidine	Glutathione	white
+trypanothione synthetase/amidase	6.3.1.9	Glutathionylspermidine	Spermidine	white
+trypanothione synthetase/amidase	6.3.1.9	Orthophosphate	ATP	white
+trypanothione synthetase/amidase	6.3.1.9	Orthophosphate	Glutathione	white
+trypanothione synthetase/amidase	6.3.1.9	Orthophosphate	Spermidine	white
+trypanothione synthetase/amidase	6.3.1.9	Spermidine	ADP	white
+trypanothione synthetase/amidase	6.3.1.9	Spermidine	Glutathionylspermidine	white
+trypanothione synthetase/amidase	6.3.1.9	Spermidine	Orthophosphate	white
+trypanothione-disulfide reductase	1.8.1.12	H+	NADP+	white
+trypanothione-disulfide reductase	1.8.1.12	H+	Trypanothione	white
+trypanothione-disulfide reductase	1.8.1.12	NADP+	H+	white
+trypanothione-disulfide reductase	1.8.1.12	NADP+	NADPH	white
+trypanothione-disulfide reductase	1.8.1.12	NADP+	Trypanothione disulfide	white
+trypanothione-disulfide reductase	1.8.1.12	NADPH	NADP+	white
+trypanothione-disulfide reductase	1.8.1.12	NADPH	Trypanothione	white
+trypanothione-disulfide reductase	1.8.1.12	Trypanothione	H+	white
+trypanothione-disulfide reductase	1.8.1.12	Trypanothione	NADPH	white
+trypanothione-disulfide reductase	1.8.1.12	Trypanothione	Trypanothione disulfide	white
+trypanothione-disulfide reductase	1.8.1.12	Trypanothione disulfide	NADP+	white
+trypanothione-disulfide reductase	1.8.1.12	Trypanothione disulfide	Trypanothione	white

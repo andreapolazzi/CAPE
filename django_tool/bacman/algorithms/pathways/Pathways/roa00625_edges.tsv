@@ -1,0 +1,644 @@
+enzyme_name	EC	source	target	color
+2-haloacid dehalogenase	3.8.1.2	Chloroacetic acid	Glycolate	green
+2-haloacid dehalogenase	3.8.1.2	Chloroacetic acid	Hydrochloric acid	green
+2-haloacid dehalogenase	3.8.1.2	H2O	Glycolate	green
+2-haloacid dehalogenase	3.8.1.2	H2O	Hydrochloric acid	green
+2-hydroxypropyl-CoM lyase	4.4.1.23	2-Hydroxyethyl-CoM	Coenzyme M	white
+2-hydroxypropyl-CoM lyase	4.4.1.23	2-Hydroxyethyl-CoM	Ethylene oxide	white
+2-hydroxypropyl-CoM lyase	4.4.1.23	Coenzyme M	2-Hydroxyethyl-CoM	white
+2-hydroxypropyl-CoM lyase	4.4.1.23	Ethylene oxide	2-Hydroxyethyl-CoM	white
+S-(hydroxymethyl)glutathione dehydrogenase / alcohol dehydrogenase	1.1.1.284	NAD+	H+	green
+S-(hydroxymethyl)glutathione dehydrogenase / alcohol dehydrogenase	1.1.1.284	NAD+	NADH	green
+S-(hydroxymethyl)glutathione dehydrogenase / alcohol dehydrogenase	1.1.1.284	NAD+	cis-3-Chloroallyl aldehyde	green
+S-(hydroxymethyl)glutathione dehydrogenase / alcohol dehydrogenase	1.1.1.284	NAD+	trans-3-Chloroallyl aldehyde	green
+S-(hydroxymethyl)glutathione dehydrogenase / alcohol dehydrogenase	1.1.1.284	cis-3-Chloro-2-propene-1-ol	H+	green
+S-(hydroxymethyl)glutathione dehydrogenase / alcohol dehydrogenase	1.1.1.284	cis-3-Chloro-2-propene-1-ol	NADH	green
+S-(hydroxymethyl)glutathione dehydrogenase / alcohol dehydrogenase	1.1.1.284	cis-3-Chloro-2-propene-1-ol	cis-3-Chloroallyl aldehyde	green
+S-(hydroxymethyl)glutathione dehydrogenase / alcohol dehydrogenase	1.1.1.284	trans-3-Chloro-2-propene-1-ol	H+	green
+S-(hydroxymethyl)glutathione dehydrogenase / alcohol dehydrogenase	1.1.1.284	trans-3-Chloro-2-propene-1-ol	NADH	green
+S-(hydroxymethyl)glutathione dehydrogenase / alcohol dehydrogenase	1.1.1.284	trans-3-Chloro-2-propene-1-ol	trans-3-Chloroallyl aldehyde	green
+acetylene hydratase	4.2.1.112	Acetaldehyde	Acetylene	white
+acetylene hydratase	4.2.1.112	Acetaldehyde	H2O	white
+acetylene hydratase	4.2.1.112	Acetylene	Acetaldehyde	white
+acetylene hydratase	4.2.1.112	H2O	Acetaldehyde	white
+alcohol dehydrogenase	1.1.1.1	NAD+	H+	green
+alcohol dehydrogenase	1.1.1.1	NAD+	NADH	green
+alcohol dehydrogenase	1.1.1.1	NAD+	cis-3-Chloroallyl aldehyde	green
+alcohol dehydrogenase	1.1.1.1	NAD+	trans-3-Chloroallyl aldehyde	green
+alcohol dehydrogenase	1.1.1.1	cis-3-Chloro-2-propene-1-ol	H+	green
+alcohol dehydrogenase	1.1.1.1	cis-3-Chloro-2-propene-1-ol	NADH	green
+alcohol dehydrogenase	1.1.1.1	cis-3-Chloro-2-propene-1-ol	cis-3-Chloroallyl aldehyde	green
+alcohol dehydrogenase	1.1.1.1	trans-3-Chloro-2-propene-1-ol	H+	green
+alcohol dehydrogenase	1.1.1.1	trans-3-Chloro-2-propene-1-ol	NADH	green
+alcohol dehydrogenase	1.1.1.1	trans-3-Chloro-2-propene-1-ol	trans-3-Chloroallyl aldehyde	green
+alcohol dehydrogenase (cytochrome c)	1.1.2.8	2-Propyn-1-ol	2-Propynal	white
+alcohol dehydrogenase (cytochrome c)	1.1.2.8	2-Propyn-1-ol	Ferrocytochrome c	white
+alcohol dehydrogenase (cytochrome c)	1.1.2.8	2-Propyn-1-ol	H+	white
+alcohol dehydrogenase (cytochrome c)	1.1.2.8	2-Propynal	2-Propyn-1-ol	white
+alcohol dehydrogenase (cytochrome c)	1.1.2.8	2-Propynal	Ferricytochrome c	white
+alcohol dehydrogenase (cytochrome c)	1.1.2.8	Ferricytochrome c	2-Propynal	white
+alcohol dehydrogenase (cytochrome c)	1.1.2.8	Ferricytochrome c	Ferrocytochrome c	white
+alcohol dehydrogenase (cytochrome c)	1.1.2.8	Ferricytochrome c	H+	white
+alcohol dehydrogenase (cytochrome c)	1.1.2.8	Ferrocytochrome c	2-Propyn-1-ol	white
+alcohol dehydrogenase (cytochrome c)	1.1.2.8	Ferrocytochrome c	Ferricytochrome c	white
+alcohol dehydrogenase (cytochrome c)	1.1.2.8	H+	2-Propyn-1-ol	white
+alcohol dehydrogenase (cytochrome c)	1.1.2.8	H+	Ferricytochrome c	white
+alcohol dehydrogenase, propanol-preferring	1.1.1.1	NAD+	H+	green
+alcohol dehydrogenase, propanol-preferring	1.1.1.1	NAD+	NADH	green
+alcohol dehydrogenase, propanol-preferring	1.1.1.1	NAD+	cis-3-Chloroallyl aldehyde	green
+alcohol dehydrogenase, propanol-preferring	1.1.1.1	NAD+	trans-3-Chloroallyl aldehyde	green
+alcohol dehydrogenase, propanol-preferring	1.1.1.1	cis-3-Chloro-2-propene-1-ol	H+	green
+alcohol dehydrogenase, propanol-preferring	1.1.1.1	cis-3-Chloro-2-propene-1-ol	NADH	green
+alcohol dehydrogenase, propanol-preferring	1.1.1.1	cis-3-Chloro-2-propene-1-ol	cis-3-Chloroallyl aldehyde	green
+alcohol dehydrogenase, propanol-preferring	1.1.1.1	trans-3-Chloro-2-propene-1-ol	H+	green
+alcohol dehydrogenase, propanol-preferring	1.1.1.1	trans-3-Chloro-2-propene-1-ol	NADH	green
+alcohol dehydrogenase, propanol-preferring	1.1.1.1	trans-3-Chloro-2-propene-1-ol	trans-3-Chloroallyl aldehyde	green
+aldehyde dehydrogenase (NAD+)	1.2.1.3	Chloroacetaldehyde	Chloroacetic acid	green
+aldehyde dehydrogenase (NAD+)	1.2.1.3	Chloroacetaldehyde	H+	green
+aldehyde dehydrogenase (NAD+)	1.2.1.3	Chloroacetaldehyde	NADH	green
+aldehyde dehydrogenase (NAD+)	1.2.1.3	H2O	Chloroacetic acid	green
+aldehyde dehydrogenase (NAD+)	1.2.1.3	H2O	H+	green
+aldehyde dehydrogenase (NAD+)	1.2.1.3	H2O	NADH	green
+aldehyde dehydrogenase (NAD+)	1.2.1.3	H2O	cis-3-Chloroacrylic acid	green
+aldehyde dehydrogenase (NAD+)	1.2.1.3	H2O	trans-3-Chloroacrylic acid	green
+aldehyde dehydrogenase (NAD+)	1.2.1.3	NAD+	Chloroacetic acid	green
+aldehyde dehydrogenase (NAD+)	1.2.1.3	NAD+	H+	green
+aldehyde dehydrogenase (NAD+)	1.2.1.3	NAD+	NADH	green
+aldehyde dehydrogenase (NAD+)	1.2.1.3	cis-3-Chloroallyl aldehyde	H+	green
+aldehyde dehydrogenase (NAD+)	1.2.1.3	cis-3-Chloroallyl aldehyde	cis-3-Chloroacrylic acid	green
+aldehyde dehydrogenase (NAD+)	1.2.1.3	trans-3-Chloroallyl aldehyde	H+	green
+aldehyde dehydrogenase (NAD+)	1.2.1.3	trans-3-Chloroallyl aldehyde	trans-3-Chloroacrylic acid	green
+alkene monooxygenase alpha subunit	1.14.13.69	Ethylene	Ethylene oxide	white
+alkene monooxygenase alpha subunit	1.14.13.69	Ethylene	H2O	white
+alkene monooxygenase alpha subunit	1.14.13.69	Ethylene	NAD+	white
+alkene monooxygenase alpha subunit	1.14.13.69	Ethylene oxide	Ethylene	white
+alkene monooxygenase alpha subunit	1.14.13.69	Ethylene oxide	H+	white
+alkene monooxygenase alpha subunit	1.14.13.69	Ethylene oxide	NADH	white
+alkene monooxygenase alpha subunit	1.14.13.69	Ethylene oxide	Oxygen	white
+alkene monooxygenase alpha subunit	1.14.13.69	H+	Ethylene oxide	white
+alkene monooxygenase alpha subunit	1.14.13.69	H+	H2O	white
+alkene monooxygenase alpha subunit	1.14.13.69	H+	NAD+	white
+alkene monooxygenase alpha subunit	1.14.13.69	H2O	Ethylene	white
+alkene monooxygenase alpha subunit	1.14.13.69	H2O	H+	white
+alkene monooxygenase alpha subunit	1.14.13.69	H2O	NADH	white
+alkene monooxygenase alpha subunit	1.14.13.69	H2O	Oxygen	white
+alkene monooxygenase alpha subunit	1.14.13.69	NAD+	Ethylene	white
+alkene monooxygenase alpha subunit	1.14.13.69	NAD+	H+	white
+alkene monooxygenase alpha subunit	1.14.13.69	NAD+	NADH	white
+alkene monooxygenase alpha subunit	1.14.13.69	NAD+	Oxygen	white
+alkene monooxygenase alpha subunit	1.14.13.69	NADH	Ethylene oxide	white
+alkene monooxygenase alpha subunit	1.14.13.69	NADH	H2O	white
+alkene monooxygenase alpha subunit	1.14.13.69	NADH	NAD+	white
+alkene monooxygenase alpha subunit	1.14.13.69	Oxygen	Ethylene oxide	white
+alkene monooxygenase alpha subunit	1.14.13.69	Oxygen	H2O	white
+alkene monooxygenase alpha subunit	1.14.13.69	Oxygen	NAD+	white
+alkene monooxygenase beta subunit	1.14.13.69	Ethylene	Ethylene oxide	white
+alkene monooxygenase beta subunit	1.14.13.69	Ethylene	H2O	white
+alkene monooxygenase beta subunit	1.14.13.69	Ethylene	NAD+	white
+alkene monooxygenase beta subunit	1.14.13.69	Ethylene oxide	Ethylene	white
+alkene monooxygenase beta subunit	1.14.13.69	Ethylene oxide	H+	white
+alkene monooxygenase beta subunit	1.14.13.69	Ethylene oxide	NADH	white
+alkene monooxygenase beta subunit	1.14.13.69	Ethylene oxide	Oxygen	white
+alkene monooxygenase beta subunit	1.14.13.69	H+	Ethylene oxide	white
+alkene monooxygenase beta subunit	1.14.13.69	H+	H2O	white
+alkene monooxygenase beta subunit	1.14.13.69	H+	NAD+	white
+alkene monooxygenase beta subunit	1.14.13.69	H2O	Ethylene	white
+alkene monooxygenase beta subunit	1.14.13.69	H2O	H+	white
+alkene monooxygenase beta subunit	1.14.13.69	H2O	NADH	white
+alkene monooxygenase beta subunit	1.14.13.69	H2O	Oxygen	white
+alkene monooxygenase beta subunit	1.14.13.69	NAD+	Ethylene	white
+alkene monooxygenase beta subunit	1.14.13.69	NAD+	H+	white
+alkene monooxygenase beta subunit	1.14.13.69	NAD+	NADH	white
+alkene monooxygenase beta subunit	1.14.13.69	NAD+	Oxygen	white
+alkene monooxygenase beta subunit	1.14.13.69	NADH	Ethylene oxide	white
+alkene monooxygenase beta subunit	1.14.13.69	NADH	H2O	white
+alkene monooxygenase beta subunit	1.14.13.69	NADH	NAD+	white
+alkene monooxygenase beta subunit	1.14.13.69	Oxygen	Ethylene oxide	white
+alkene monooxygenase beta subunit	1.14.13.69	Oxygen	H2O	white
+alkene monooxygenase beta subunit	1.14.13.69	Oxygen	NAD+	white
+alkene monooxygenase coupling protein	1.14.13.69	Ethylene	Ethylene oxide	white
+alkene monooxygenase coupling protein	1.14.13.69	Ethylene	H2O	white
+alkene monooxygenase coupling protein	1.14.13.69	Ethylene	NAD+	white
+alkene monooxygenase coupling protein	1.14.13.69	Ethylene oxide	Ethylene	white
+alkene monooxygenase coupling protein	1.14.13.69	Ethylene oxide	H+	white
+alkene monooxygenase coupling protein	1.14.13.69	Ethylene oxide	NADH	white
+alkene monooxygenase coupling protein	1.14.13.69	Ethylene oxide	Oxygen	white
+alkene monooxygenase coupling protein	1.14.13.69	H+	Ethylene oxide	white
+alkene monooxygenase coupling protein	1.14.13.69	H+	H2O	white
+alkene monooxygenase coupling protein	1.14.13.69	H+	NAD+	white
+alkene monooxygenase coupling protein	1.14.13.69	H2O	Ethylene	white
+alkene monooxygenase coupling protein	1.14.13.69	H2O	H+	white
+alkene monooxygenase coupling protein	1.14.13.69	H2O	NADH	white
+alkene monooxygenase coupling protein	1.14.13.69	H2O	Oxygen	white
+alkene monooxygenase coupling protein	1.14.13.69	NAD+	Ethylene	white
+alkene monooxygenase coupling protein	1.14.13.69	NAD+	H+	white
+alkene monooxygenase coupling protein	1.14.13.69	NAD+	NADH	white
+alkene monooxygenase coupling protein	1.14.13.69	NAD+	Oxygen	white
+alkene monooxygenase coupling protein	1.14.13.69	NADH	Ethylene oxide	white
+alkene monooxygenase coupling protein	1.14.13.69	NADH	H2O	white
+alkene monooxygenase coupling protein	1.14.13.69	NADH	NAD+	white
+alkene monooxygenase coupling protein	1.14.13.69	Oxygen	Ethylene oxide	white
+alkene monooxygenase coupling protein	1.14.13.69	Oxygen	H2O	white
+alkene monooxygenase coupling protein	1.14.13.69	Oxygen	NAD+	white
+alkene monooxygenase effector subunit	1.14.13.69	Ethylene	Ethylene oxide	white
+alkene monooxygenase effector subunit	1.14.13.69	Ethylene	H2O	white
+alkene monooxygenase effector subunit	1.14.13.69	Ethylene	NAD+	white
+alkene monooxygenase effector subunit	1.14.13.69	Ethylene oxide	Ethylene	white
+alkene monooxygenase effector subunit	1.14.13.69	Ethylene oxide	H+	white
+alkene monooxygenase effector subunit	1.14.13.69	Ethylene oxide	NADH	white
+alkene monooxygenase effector subunit	1.14.13.69	Ethylene oxide	Oxygen	white
+alkene monooxygenase effector subunit	1.14.13.69	H+	Ethylene oxide	white
+alkene monooxygenase effector subunit	1.14.13.69	H+	H2O	white
+alkene monooxygenase effector subunit	1.14.13.69	H+	NAD+	white
+alkene monooxygenase effector subunit	1.14.13.69	H2O	Ethylene	white
+alkene monooxygenase effector subunit	1.14.13.69	H2O	H+	white
+alkene monooxygenase effector subunit	1.14.13.69	H2O	NADH	white
+alkene monooxygenase effector subunit	1.14.13.69	H2O	Oxygen	white
+alkene monooxygenase effector subunit	1.14.13.69	NAD+	Ethylene	white
+alkene monooxygenase effector subunit	1.14.13.69	NAD+	H+	white
+alkene monooxygenase effector subunit	1.14.13.69	NAD+	NADH	white
+alkene monooxygenase effector subunit	1.14.13.69	NAD+	Oxygen	white
+alkene monooxygenase effector subunit	1.14.13.69	NADH	Ethylene oxide	white
+alkene monooxygenase effector subunit	1.14.13.69	NADH	H2O	white
+alkene monooxygenase effector subunit	1.14.13.69	NADH	NAD+	white
+alkene monooxygenase effector subunit	1.14.13.69	Oxygen	Ethylene oxide	white
+alkene monooxygenase effector subunit	1.14.13.69	Oxygen	H2O	white
+alkene monooxygenase effector subunit	1.14.13.69	Oxygen	NAD+	white
+alkene monooxygenase ferredoxin reductase component	1.18.1.3	Ethylene	Ethylene oxide	white
+alkene monooxygenase ferredoxin reductase component	1.18.1.3	Ethylene	H2O	white
+alkene monooxygenase ferredoxin reductase component	1.18.1.3	Ethylene	NAD+	white
+alkene monooxygenase ferredoxin reductase component	1.18.1.3	Ethylene oxide	Ethylene	white
+alkene monooxygenase ferredoxin reductase component	1.18.1.3	Ethylene oxide	H+	white
+alkene monooxygenase ferredoxin reductase component	1.18.1.3	Ethylene oxide	NADH	white
+alkene monooxygenase ferredoxin reductase component	1.18.1.3	Ethylene oxide	Oxygen	white
+alkene monooxygenase ferredoxin reductase component	1.18.1.3	H+	Ethylene oxide	white
+alkene monooxygenase ferredoxin reductase component	1.18.1.3	H+	H2O	white
+alkene monooxygenase ferredoxin reductase component	1.18.1.3	H+	NAD+	white
+alkene monooxygenase ferredoxin reductase component	1.18.1.3	H2O	Ethylene	white
+alkene monooxygenase ferredoxin reductase component	1.18.1.3	H2O	H+	white
+alkene monooxygenase ferredoxin reductase component	1.18.1.3	H2O	NADH	white
+alkene monooxygenase ferredoxin reductase component	1.18.1.3	H2O	Oxygen	white
+alkene monooxygenase ferredoxin reductase component	1.18.1.3	NAD+	Ethylene	white
+alkene monooxygenase ferredoxin reductase component	1.18.1.3	NAD+	H+	white
+alkene monooxygenase ferredoxin reductase component	1.18.1.3	NAD+	NADH	white
+alkene monooxygenase ferredoxin reductase component	1.18.1.3	NAD+	Oxygen	white
+alkene monooxygenase ferredoxin reductase component	1.18.1.3	NADH	Ethylene oxide	white
+alkene monooxygenase ferredoxin reductase component	1.18.1.3	NADH	H2O	white
+alkene monooxygenase ferredoxin reductase component	1.18.1.3	NADH	NAD+	white
+alkene monooxygenase ferredoxin reductase component	1.18.1.3	Oxygen	Ethylene oxide	white
+alkene monooxygenase ferredoxin reductase component	1.18.1.3	Oxygen	H2O	white
+alkene monooxygenase ferredoxin reductase component	1.18.1.3	Oxygen	NAD+	white
+alkene monooxygenase ferredoxin subunit	1.14.13.69	Ethylene	Ethylene oxide	white
+alkene monooxygenase ferredoxin subunit	1.14.13.69	Ethylene	H2O	white
+alkene monooxygenase ferredoxin subunit	1.14.13.69	Ethylene	NAD+	white
+alkene monooxygenase ferredoxin subunit	1.14.13.69	Ethylene oxide	Ethylene	white
+alkene monooxygenase ferredoxin subunit	1.14.13.69	Ethylene oxide	H+	white
+alkene monooxygenase ferredoxin subunit	1.14.13.69	Ethylene oxide	NADH	white
+alkene monooxygenase ferredoxin subunit	1.14.13.69	Ethylene oxide	Oxygen	white
+alkene monooxygenase ferredoxin subunit	1.14.13.69	H+	Ethylene oxide	white
+alkene monooxygenase ferredoxin subunit	1.14.13.69	H+	H2O	white
+alkene monooxygenase ferredoxin subunit	1.14.13.69	H+	NAD+	white
+alkene monooxygenase ferredoxin subunit	1.14.13.69	H2O	Ethylene	white
+alkene monooxygenase ferredoxin subunit	1.14.13.69	H2O	H+	white
+alkene monooxygenase ferredoxin subunit	1.14.13.69	H2O	NADH	white
+alkene monooxygenase ferredoxin subunit	1.14.13.69	H2O	Oxygen	white
+alkene monooxygenase ferredoxin subunit	1.14.13.69	NAD+	Ethylene	white
+alkene monooxygenase ferredoxin subunit	1.14.13.69	NAD+	H+	white
+alkene monooxygenase ferredoxin subunit	1.14.13.69	NAD+	NADH	white
+alkene monooxygenase ferredoxin subunit	1.14.13.69	NAD+	Oxygen	white
+alkene monooxygenase ferredoxin subunit	1.14.13.69	NADH	Ethylene oxide	white
+alkene monooxygenase ferredoxin subunit	1.14.13.69	NADH	H2O	white
+alkene monooxygenase ferredoxin subunit	1.14.13.69	NADH	NAD+	white
+alkene monooxygenase ferredoxin subunit	1.14.13.69	Oxygen	Ethylene oxide	white
+alkene monooxygenase ferredoxin subunit	1.14.13.69	Oxygen	H2O	white
+alkene monooxygenase ferredoxin subunit	1.14.13.69	Oxygen	NAD+	white
+alkene monooxygenase gamma subunit	1.14.13.69	Ethylene	Ethylene oxide	white
+alkene monooxygenase gamma subunit	1.14.13.69	Ethylene	H2O	white
+alkene monooxygenase gamma subunit	1.14.13.69	Ethylene	NAD+	white
+alkene monooxygenase gamma subunit	1.14.13.69	Ethylene oxide	Ethylene	white
+alkene monooxygenase gamma subunit	1.14.13.69	Ethylene oxide	H+	white
+alkene monooxygenase gamma subunit	1.14.13.69	Ethylene oxide	NADH	white
+alkene monooxygenase gamma subunit	1.14.13.69	Ethylene oxide	Oxygen	white
+alkene monooxygenase gamma subunit	1.14.13.69	H+	Ethylene oxide	white
+alkene monooxygenase gamma subunit	1.14.13.69	H+	H2O	white
+alkene monooxygenase gamma subunit	1.14.13.69	H+	NAD+	white
+alkene monooxygenase gamma subunit	1.14.13.69	H2O	Ethylene	white
+alkene monooxygenase gamma subunit	1.14.13.69	H2O	H+	white
+alkene monooxygenase gamma subunit	1.14.13.69	H2O	NADH	white
+alkene monooxygenase gamma subunit	1.14.13.69	H2O	Oxygen	white
+alkene monooxygenase gamma subunit	1.14.13.69	NAD+	Ethylene	white
+alkene monooxygenase gamma subunit	1.14.13.69	NAD+	H+	white
+alkene monooxygenase gamma subunit	1.14.13.69	NAD+	NADH	white
+alkene monooxygenase gamma subunit	1.14.13.69	NAD+	Oxygen	white
+alkene monooxygenase gamma subunit	1.14.13.69	NADH	Ethylene oxide	white
+alkene monooxygenase gamma subunit	1.14.13.69	NADH	H2O	white
+alkene monooxygenase gamma subunit	1.14.13.69	NADH	NAD+	white
+alkene monooxygenase gamma subunit	1.14.13.69	Oxygen	Ethylene oxide	white
+alkene monooxygenase gamma subunit	1.14.13.69	Oxygen	H2O	white
+alkene monooxygenase gamma subunit	1.14.13.69	Oxygen	NAD+	white
+alkene monooxygenase reductase	1.14.13.69	Ethylene	Ethylene oxide	white
+alkene monooxygenase reductase	1.14.13.69	Ethylene	H2O	white
+alkene monooxygenase reductase	1.14.13.69	Ethylene	NAD+	white
+alkene monooxygenase reductase	1.14.13.69	Ethylene oxide	Ethylene	white
+alkene monooxygenase reductase	1.14.13.69	Ethylene oxide	H+	white
+alkene monooxygenase reductase	1.14.13.69	Ethylene oxide	NADH	white
+alkene monooxygenase reductase	1.14.13.69	Ethylene oxide	Oxygen	white
+alkene monooxygenase reductase	1.14.13.69	H+	Ethylene oxide	white
+alkene monooxygenase reductase	1.14.13.69	H+	H2O	white
+alkene monooxygenase reductase	1.14.13.69	H+	NAD+	white
+alkene monooxygenase reductase	1.14.13.69	H2O	Ethylene	white
+alkene monooxygenase reductase	1.14.13.69	H2O	H+	white
+alkene monooxygenase reductase	1.14.13.69	H2O	NADH	white
+alkene monooxygenase reductase	1.14.13.69	H2O	Oxygen	white
+alkene monooxygenase reductase	1.14.13.69	NAD+	Ethylene	white
+alkene monooxygenase reductase	1.14.13.69	NAD+	H+	white
+alkene monooxygenase reductase	1.14.13.69	NAD+	NADH	white
+alkene monooxygenase reductase	1.14.13.69	NAD+	Oxygen	white
+alkene monooxygenase reductase	1.14.13.69	NADH	Ethylene oxide	white
+alkene monooxygenase reductase	1.14.13.69	NADH	H2O	white
+alkene monooxygenase reductase	1.14.13.69	NADH	NAD+	white
+alkene monooxygenase reductase	1.14.13.69	Oxygen	Ethylene oxide	white
+alkene monooxygenase reductase	1.14.13.69	Oxygen	H2O	white
+alkene monooxygenase reductase	1.14.13.69	Oxygen	NAD+	white
+alpha-subunit of trans-3-chloroacrylic acid dehalogenase	3.8.1.-	3-Oxopropanoate	H2O	white
+alpha-subunit of trans-3-chloroacrylic acid dehalogenase	3.8.1.-	3-Oxopropanoate	trans-3-Chloroacrylic acid	white
+alpha-subunit of trans-3-chloroacrylic acid dehalogenase	3.8.1.-	H2O	3-Oxopropanoate	white
+alpha-subunit of trans-3-chloroacrylic acid dehalogenase	3.8.1.-	H2O	Hydrochloric acid	white
+alpha-subunit of trans-3-chloroacrylic acid dehalogenase	3.8.1.-	Hydrochloric acid	H2O	white
+alpha-subunit of trans-3-chloroacrylic acid dehalogenase	3.8.1.-	Hydrochloric acid	trans-3-Chloroacrylic acid	white
+alpha-subunit of trans-3-chloroacrylic acid dehalogenase	3.8.1.-	trans-3-Chloroacrylic acid	3-Oxopropanoate	white
+alpha-subunit of trans-3-chloroacrylic acid dehalogenase	3.8.1.-	trans-3-Chloroacrylic acid	Hydrochloric acid	white
+benzene/toluene/chlorobenzene dioxygenase ferredoxin component	1.14.12.3	Benzene	NAD+	white
+benzene/toluene/chlorobenzene dioxygenase ferredoxin component	1.14.12.3	Benzene	cis-1,2-Dihydrobenzene-1,2-diol	white
+benzene/toluene/chlorobenzene dioxygenase ferredoxin component	1.14.12.3	H+	NAD+	white
+benzene/toluene/chlorobenzene dioxygenase ferredoxin component	1.14.12.3	H+	cis-1,2-Dihydrobenzene-1,2-diol	white
+benzene/toluene/chlorobenzene dioxygenase ferredoxin component	1.14.12.3	NAD+	Benzene	white
+benzene/toluene/chlorobenzene dioxygenase ferredoxin component	1.14.12.3	NAD+	H+	white
+benzene/toluene/chlorobenzene dioxygenase ferredoxin component	1.14.12.3	NAD+	NADH	white
+benzene/toluene/chlorobenzene dioxygenase ferredoxin component	1.14.12.3	NAD+	Oxygen	white
+benzene/toluene/chlorobenzene dioxygenase ferredoxin component	1.14.12.3	NADH	NAD+	white
+benzene/toluene/chlorobenzene dioxygenase ferredoxin component	1.14.12.3	NADH	cis-1,2-Dihydrobenzene-1,2-diol	white
+benzene/toluene/chlorobenzene dioxygenase ferredoxin component	1.14.12.3	Oxygen	NAD+	white
+benzene/toluene/chlorobenzene dioxygenase ferredoxin component	1.14.12.3	Oxygen	cis-1,2-Dihydrobenzene-1,2-diol	white
+benzene/toluene/chlorobenzene dioxygenase ferredoxin component	1.14.12.3	cis-1,2-Dihydrobenzene-1,2-diol	Benzene	white
+benzene/toluene/chlorobenzene dioxygenase ferredoxin component	1.14.12.3	cis-1,2-Dihydrobenzene-1,2-diol	H+	white
+benzene/toluene/chlorobenzene dioxygenase ferredoxin component	1.14.12.3	cis-1,2-Dihydrobenzene-1,2-diol	NADH	white
+benzene/toluene/chlorobenzene dioxygenase ferredoxin component	1.14.12.3	cis-1,2-Dihydrobenzene-1,2-diol	Oxygen	white
+benzene/toluene/chlorobenzene dioxygenase ferredoxin reductase component	1.18.1.3	Benzene	NAD+	white
+benzene/toluene/chlorobenzene dioxygenase ferredoxin reductase component	1.18.1.3	Benzene	cis-1,2-Dihydrobenzene-1,2-diol	white
+benzene/toluene/chlorobenzene dioxygenase ferredoxin reductase component	1.18.1.3	H+	NAD+	white
+benzene/toluene/chlorobenzene dioxygenase ferredoxin reductase component	1.18.1.3	H+	cis-1,2-Dihydrobenzene-1,2-diol	white
+benzene/toluene/chlorobenzene dioxygenase ferredoxin reductase component	1.18.1.3	NAD+	Benzene	white
+benzene/toluene/chlorobenzene dioxygenase ferredoxin reductase component	1.18.1.3	NAD+	H+	white
+benzene/toluene/chlorobenzene dioxygenase ferredoxin reductase component	1.18.1.3	NAD+	NADH	white
+benzene/toluene/chlorobenzene dioxygenase ferredoxin reductase component	1.18.1.3	NAD+	Oxygen	white
+benzene/toluene/chlorobenzene dioxygenase ferredoxin reductase component	1.18.1.3	NADH	NAD+	white
+benzene/toluene/chlorobenzene dioxygenase ferredoxin reductase component	1.18.1.3	NADH	cis-1,2-Dihydrobenzene-1,2-diol	white
+benzene/toluene/chlorobenzene dioxygenase ferredoxin reductase component	1.18.1.3	Oxygen	NAD+	white
+benzene/toluene/chlorobenzene dioxygenase ferredoxin reductase component	1.18.1.3	Oxygen	cis-1,2-Dihydrobenzene-1,2-diol	white
+benzene/toluene/chlorobenzene dioxygenase ferredoxin reductase component	1.18.1.3	cis-1,2-Dihydrobenzene-1,2-diol	Benzene	white
+benzene/toluene/chlorobenzene dioxygenase ferredoxin reductase component	1.18.1.3	cis-1,2-Dihydrobenzene-1,2-diol	H+	white
+benzene/toluene/chlorobenzene dioxygenase ferredoxin reductase component	1.18.1.3	cis-1,2-Dihydrobenzene-1,2-diol	NADH	white
+benzene/toluene/chlorobenzene dioxygenase ferredoxin reductase component	1.18.1.3	cis-1,2-Dihydrobenzene-1,2-diol	Oxygen	white
+benzene/toluene/chlorobenzene dioxygenase subunit alpha	1.14.12.3	Benzene	NAD+	white
+benzene/toluene/chlorobenzene dioxygenase subunit alpha	1.14.12.3	Benzene	cis-1,2-Dihydrobenzene-1,2-diol	white
+benzene/toluene/chlorobenzene dioxygenase subunit alpha	1.14.12.3	H+	NAD+	white
+benzene/toluene/chlorobenzene dioxygenase subunit alpha	1.14.12.3	H+	cis-1,2-Dihydrobenzene-1,2-diol	white
+benzene/toluene/chlorobenzene dioxygenase subunit alpha	1.14.12.3	NAD+	Benzene	white
+benzene/toluene/chlorobenzene dioxygenase subunit alpha	1.14.12.3	NAD+	H+	white
+benzene/toluene/chlorobenzene dioxygenase subunit alpha	1.14.12.3	NAD+	NADH	white
+benzene/toluene/chlorobenzene dioxygenase subunit alpha	1.14.12.3	NAD+	Oxygen	white
+benzene/toluene/chlorobenzene dioxygenase subunit alpha	1.14.12.3	NADH	NAD+	white
+benzene/toluene/chlorobenzene dioxygenase subunit alpha	1.14.12.3	NADH	cis-1,2-Dihydrobenzene-1,2-diol	white
+benzene/toluene/chlorobenzene dioxygenase subunit alpha	1.14.12.3	Oxygen	NAD+	white
+benzene/toluene/chlorobenzene dioxygenase subunit alpha	1.14.12.3	Oxygen	cis-1,2-Dihydrobenzene-1,2-diol	white
+benzene/toluene/chlorobenzene dioxygenase subunit alpha	1.14.12.3	cis-1,2-Dihydrobenzene-1,2-diol	Benzene	white
+benzene/toluene/chlorobenzene dioxygenase subunit alpha	1.14.12.3	cis-1,2-Dihydrobenzene-1,2-diol	H+	white
+benzene/toluene/chlorobenzene dioxygenase subunit alpha	1.14.12.3	cis-1,2-Dihydrobenzene-1,2-diol	NADH	white
+benzene/toluene/chlorobenzene dioxygenase subunit alpha	1.14.12.3	cis-1,2-Dihydrobenzene-1,2-diol	Oxygen	white
+benzene/toluene/chlorobenzene dioxygenase subunit beta	1.14.12.3	Benzene	NAD+	white
+benzene/toluene/chlorobenzene dioxygenase subunit beta	1.14.12.3	Benzene	cis-1,2-Dihydrobenzene-1,2-diol	white
+benzene/toluene/chlorobenzene dioxygenase subunit beta	1.14.12.3	H+	NAD+	white
+benzene/toluene/chlorobenzene dioxygenase subunit beta	1.14.12.3	H+	cis-1,2-Dihydrobenzene-1,2-diol	white
+benzene/toluene/chlorobenzene dioxygenase subunit beta	1.14.12.3	NAD+	Benzene	white
+benzene/toluene/chlorobenzene dioxygenase subunit beta	1.14.12.3	NAD+	H+	white
+benzene/toluene/chlorobenzene dioxygenase subunit beta	1.14.12.3	NAD+	NADH	white
+benzene/toluene/chlorobenzene dioxygenase subunit beta	1.14.12.3	NAD+	Oxygen	white
+benzene/toluene/chlorobenzene dioxygenase subunit beta	1.14.12.3	NADH	NAD+	white
+benzene/toluene/chlorobenzene dioxygenase subunit beta	1.14.12.3	NADH	cis-1,2-Dihydrobenzene-1,2-diol	white
+benzene/toluene/chlorobenzene dioxygenase subunit beta	1.14.12.3	Oxygen	NAD+	white
+benzene/toluene/chlorobenzene dioxygenase subunit beta	1.14.12.3	Oxygen	cis-1,2-Dihydrobenzene-1,2-diol	white
+benzene/toluene/chlorobenzene dioxygenase subunit beta	1.14.12.3	cis-1,2-Dihydrobenzene-1,2-diol	Benzene	white
+benzene/toluene/chlorobenzene dioxygenase subunit beta	1.14.12.3	cis-1,2-Dihydrobenzene-1,2-diol	H+	white
+benzene/toluene/chlorobenzene dioxygenase subunit beta	1.14.12.3	cis-1,2-Dihydrobenzene-1,2-diol	NADH	white
+benzene/toluene/chlorobenzene dioxygenase subunit beta	1.14.12.3	cis-1,2-Dihydrobenzene-1,2-diol	Oxygen	white
+beta-subunit of trans-3-chloroacrylic acid dehalogenase	3.8.1.-	3-Oxopropanoate	H2O	white
+beta-subunit of trans-3-chloroacrylic acid dehalogenase	3.8.1.-	3-Oxopropanoate	trans-3-Chloroacrylic acid	white
+beta-subunit of trans-3-chloroacrylic acid dehalogenase	3.8.1.-	H2O	3-Oxopropanoate	white
+beta-subunit of trans-3-chloroacrylic acid dehalogenase	3.8.1.-	H2O	Hydrochloric acid	white
+beta-subunit of trans-3-chloroacrylic acid dehalogenase	3.8.1.-	Hydrochloric acid	H2O	white
+beta-subunit of trans-3-chloroacrylic acid dehalogenase	3.8.1.-	Hydrochloric acid	trans-3-Chloroacrylic acid	white
+beta-subunit of trans-3-chloroacrylic acid dehalogenase	3.8.1.-	trans-3-Chloroacrylic acid	3-Oxopropanoate	white
+beta-subunit of trans-3-chloroacrylic acid dehalogenase	3.8.1.-	trans-3-Chloroacrylic acid	Hydrochloric acid	white
+cis-3-chloroacrylic acid dehalogenase	3.8.1.-	3-Oxopropanoate	H2O	white
+cis-3-chloroacrylic acid dehalogenase	3.8.1.-	3-Oxopropanoate	cis-3-Chloroacrylic acid	white
+cis-3-chloroacrylic acid dehalogenase	3.8.1.-	H2O	3-Oxopropanoate	white
+cis-3-chloroacrylic acid dehalogenase	3.8.1.-	H2O	Hydrochloric acid	white
+cis-3-chloroacrylic acid dehalogenase	3.8.1.-	Hydrochloric acid	H2O	white
+cis-3-chloroacrylic acid dehalogenase	3.8.1.-	Hydrochloric acid	cis-3-Chloroacrylic acid	white
+cis-3-chloroacrylic acid dehalogenase	3.8.1.-	cis-3-Chloroacrylic acid	3-Oxopropanoate	white
+cis-3-chloroacrylic acid dehalogenase	3.8.1.-	cis-3-Chloroacrylic acid	Hydrochloric acid	white
+dichloromethane dehalogenase	4.5.1.3	Dichloromethane	Formaldehyde	white
+dichloromethane dehalogenase	4.5.1.3	Dichloromethane	Hydrochloric acid	white
+dichloromethane dehalogenase	4.5.1.3	Formaldehyde	Dichloromethane	white
+dichloromethane dehalogenase	4.5.1.3	Formaldehyde	H2O	white
+dichloromethane dehalogenase	4.5.1.3	H2O	Formaldehyde	white
+dichloromethane dehalogenase	4.5.1.3	H2O	Hydrochloric acid	white
+dichloromethane dehalogenase	4.5.1.3	Hydrochloric acid	Dichloromethane	white
+dichloromethane dehalogenase	4.5.1.3	Hydrochloric acid	H2O	white
+formaldehyde dismutase / methanol dehydrogenase	1.2.98.1	Formaldehyde	Formate	green
+formaldehyde dismutase / methanol dehydrogenase	1.2.98.1	Formaldehyde	Methanol	green
+formaldehyde dismutase / methanol dehydrogenase	1.2.98.1	H2O	Formate	green
+formaldehyde dismutase / methanol dehydrogenase	1.2.98.1	H2O	Methanol	green
+glutathione-independent formaldehyde dehydrogenase	1.2.1.46	Formaldehyde	Formate	white
+glutathione-independent formaldehyde dehydrogenase	1.2.1.46	Formaldehyde	H+	white
+glutathione-independent formaldehyde dehydrogenase	1.2.1.46	Formaldehyde	NADH	white
+glutathione-independent formaldehyde dehydrogenase	1.2.1.46	Formate	Formaldehyde	white
+glutathione-independent formaldehyde dehydrogenase	1.2.1.46	Formate	H2O	white
+glutathione-independent formaldehyde dehydrogenase	1.2.1.46	Formate	NAD+	white
+glutathione-independent formaldehyde dehydrogenase	1.2.1.46	H+	Formaldehyde	white
+glutathione-independent formaldehyde dehydrogenase	1.2.1.46	H+	H2O	white
+glutathione-independent formaldehyde dehydrogenase	1.2.1.46	H+	NAD+	white
+glutathione-independent formaldehyde dehydrogenase	1.2.1.46	H2O	Formate	white
+glutathione-independent formaldehyde dehydrogenase	1.2.1.46	H2O	H+	white
+glutathione-independent formaldehyde dehydrogenase	1.2.1.46	H2O	NADH	white
+glutathione-independent formaldehyde dehydrogenase	1.2.1.46	NAD+	Formate	white
+glutathione-independent formaldehyde dehydrogenase	1.2.1.46	NAD+	H+	white
+glutathione-independent formaldehyde dehydrogenase	1.2.1.46	NAD+	NADH	white
+glutathione-independent formaldehyde dehydrogenase	1.2.1.46	NADH	Formaldehyde	white
+glutathione-independent formaldehyde dehydrogenase	1.2.1.46	NADH	H2O	white
+glutathione-independent formaldehyde dehydrogenase	1.2.1.46	NADH	NAD+	white
+haloacetate dehalogenase	3.8.1.3	Chloroacetic acid	Glycolate	white
+haloacetate dehalogenase	3.8.1.3	Chloroacetic acid	Hydrochloric acid	white
+haloacetate dehalogenase	3.8.1.3	Glycolate	Chloroacetic acid	white
+haloacetate dehalogenase	3.8.1.3	Glycolate	H2O	white
+haloacetate dehalogenase	3.8.1.3	H2O	Glycolate	white
+haloacetate dehalogenase	3.8.1.3	H2O	Hydrochloric acid	white
+haloacetate dehalogenase	3.8.1.3	Hydrochloric acid	Chloroacetic acid	white
+haloacetate dehalogenase	3.8.1.3	Hydrochloric acid	H2O	white
+haloalkane dehalogenase	3.8.1.5	1,2-Dichloroethane	2-Chloroethanol	white
+haloalkane dehalogenase	3.8.1.5	1,2-Dichloroethane	Hydrochloric acid	white
+haloalkane dehalogenase	3.8.1.5	2-Chloroethanol	1,2-Dichloroethane	white
+haloalkane dehalogenase	3.8.1.5	2-Chloroethanol	H2O	white
+haloalkane dehalogenase	3.8.1.5	H2O	2-Chloroethanol	white
+haloalkane dehalogenase	3.8.1.5	H2O	Hydrochloric acid	white
+haloalkane dehalogenase	3.8.1.5	Hydrochloric acid	1,2-Dichloroethane	white
+haloalkane dehalogenase	3.8.1.5	Hydrochloric acid	H2O	white
+malonate semialdehyde decarboxylase	4.1.1.-	3-Oxopropanoate	Acetaldehyde	white
+malonate semialdehyde decarboxylase	4.1.1.-	3-Oxopropanoate	CO2	white
+malonate semialdehyde decarboxylase	4.1.1.-	Acetaldehyde	3-Oxopropanoate	white
+malonate semialdehyde decarboxylase	4.1.1.-	CO2	3-Oxopropanoate	white
+methanol dehydrogenase (cytochrome c) subunit 1	1.1.2.7	Ferricytochrome cL	Ferrocytochrome cL	white
+methanol dehydrogenase (cytochrome c) subunit 1	1.1.2.7	Ferricytochrome cL	Formaldehyde	white
+methanol dehydrogenase (cytochrome c) subunit 1	1.1.2.7	Ferricytochrome cL	H+	white
+methanol dehydrogenase (cytochrome c) subunit 1	1.1.2.7	Ferrocytochrome cL	Ferricytochrome cL	white
+methanol dehydrogenase (cytochrome c) subunit 1	1.1.2.7	Ferrocytochrome cL	Methanol	white
+methanol dehydrogenase (cytochrome c) subunit 1	1.1.2.7	Formaldehyde	Ferricytochrome cL	white
+methanol dehydrogenase (cytochrome c) subunit 1	1.1.2.7	Formaldehyde	Methanol	white
+methanol dehydrogenase (cytochrome c) subunit 1	1.1.2.7	H+	Ferricytochrome cL	white
+methanol dehydrogenase (cytochrome c) subunit 1	1.1.2.7	H+	Methanol	white
+methanol dehydrogenase (cytochrome c) subunit 1	1.1.2.7	Methanol	Ferrocytochrome cL	white
+methanol dehydrogenase (cytochrome c) subunit 1	1.1.2.7	Methanol	Formaldehyde	white
+methanol dehydrogenase (cytochrome c) subunit 1	1.1.2.7	Methanol	H+	white
+methanol dehydrogenase (cytochrome c) subunit 2	1.1.2.7	Ferricytochrome cL	Ferrocytochrome cL	white
+methanol dehydrogenase (cytochrome c) subunit 2	1.1.2.7	Ferricytochrome cL	Formaldehyde	white
+methanol dehydrogenase (cytochrome c) subunit 2	1.1.2.7	Ferricytochrome cL	H+	white
+methanol dehydrogenase (cytochrome c) subunit 2	1.1.2.7	Ferrocytochrome cL	Ferricytochrome cL	white
+methanol dehydrogenase (cytochrome c) subunit 2	1.1.2.7	Ferrocytochrome cL	Methanol	white
+methanol dehydrogenase (cytochrome c) subunit 2	1.1.2.7	Formaldehyde	Ferricytochrome cL	white
+methanol dehydrogenase (cytochrome c) subunit 2	1.1.2.7	Formaldehyde	Methanol	white
+methanol dehydrogenase (cytochrome c) subunit 2	1.1.2.7	H+	Ferricytochrome cL	white
+methanol dehydrogenase (cytochrome c) subunit 2	1.1.2.7	H+	Methanol	white
+methanol dehydrogenase (cytochrome c) subunit 2	1.1.2.7	Methanol	Ferrocytochrome cL	white
+methanol dehydrogenase (cytochrome c) subunit 2	1.1.2.7	Methanol	Formaldehyde	white
+methanol dehydrogenase (cytochrome c) subunit 2	1.1.2.7	Methanol	H+	white
+nitrogenase delta subunit	1.18.6.1	ADP	ATP	white
+nitrogenase delta subunit	1.18.6.1	ADP	H+	white
+nitrogenase delta subunit	1.18.6.1	ADP	H2O	white
+nitrogenase delta subunit	1.18.6.1	ADP	Nitrogen	white
+nitrogenase delta subunit	1.18.6.1	ADP	Reduced ferredoxin	white
+nitrogenase delta subunit	1.18.6.1	ATP	ADP	white
+nitrogenase delta subunit	1.18.6.1	ATP	Ammonia	white
+nitrogenase delta subunit	1.18.6.1	ATP	Hydrogen	white
+nitrogenase delta subunit	1.18.6.1	ATP	Orthophosphate	white
+nitrogenase delta subunit	1.18.6.1	ATP	Oxidized ferredoxin	white
+nitrogenase delta subunit	1.18.6.1	Ammonia	ATP	white
+nitrogenase delta subunit	1.18.6.1	Ammonia	H+	white
+nitrogenase delta subunit	1.18.6.1	Ammonia	H2O	white
+nitrogenase delta subunit	1.18.6.1	Ammonia	Nitrogen	white
+nitrogenase delta subunit	1.18.6.1	Ammonia	Reduced ferredoxin	white
+nitrogenase delta subunit	1.18.6.1	H+	ADP	white
+nitrogenase delta subunit	1.18.6.1	H+	Ammonia	white
+nitrogenase delta subunit	1.18.6.1	H+	Hydrogen	white
+nitrogenase delta subunit	1.18.6.1	H+	Orthophosphate	white
+nitrogenase delta subunit	1.18.6.1	H+	Oxidized ferredoxin	white
+nitrogenase delta subunit	1.18.6.1	H2O	ADP	white
+nitrogenase delta subunit	1.18.6.1	H2O	Ammonia	white
+nitrogenase delta subunit	1.18.6.1	H2O	Hydrogen	white
+nitrogenase delta subunit	1.18.6.1	H2O	Orthophosphate	white
+nitrogenase delta subunit	1.18.6.1	H2O	Oxidized ferredoxin	white
+nitrogenase delta subunit	1.18.6.1	Hydrogen	ATP	white
+nitrogenase delta subunit	1.18.6.1	Hydrogen	H+	white
+nitrogenase delta subunit	1.18.6.1	Hydrogen	H2O	white
+nitrogenase delta subunit	1.18.6.1	Hydrogen	Nitrogen	white
+nitrogenase delta subunit	1.18.6.1	Hydrogen	Reduced ferredoxin	white
+nitrogenase delta subunit	1.18.6.1	Nitrogen	ADP	white
+nitrogenase delta subunit	1.18.6.1	Nitrogen	Ammonia	white
+nitrogenase delta subunit	1.18.6.1	Nitrogen	Hydrogen	white
+nitrogenase delta subunit	1.18.6.1	Nitrogen	Orthophosphate	white
+nitrogenase delta subunit	1.18.6.1	Nitrogen	Oxidized ferredoxin	white
+nitrogenase delta subunit	1.18.6.1	Orthophosphate	ATP	white
+nitrogenase delta subunit	1.18.6.1	Orthophosphate	H+	white
+nitrogenase delta subunit	1.18.6.1	Orthophosphate	H2O	white
+nitrogenase delta subunit	1.18.6.1	Orthophosphate	Nitrogen	white
+nitrogenase delta subunit	1.18.6.1	Orthophosphate	Reduced ferredoxin	white
+nitrogenase delta subunit	1.18.6.1	Oxidized ferredoxin	ATP	white
+nitrogenase delta subunit	1.18.6.1	Oxidized ferredoxin	H+	white
+nitrogenase delta subunit	1.18.6.1	Oxidized ferredoxin	H2O	white
+nitrogenase delta subunit	1.18.6.1	Oxidized ferredoxin	Nitrogen	white
+nitrogenase delta subunit	1.18.6.1	Oxidized ferredoxin	Reduced ferredoxin	white
+nitrogenase delta subunit	1.18.6.1	Reduced ferredoxin	ADP	white
+nitrogenase delta subunit	1.18.6.1	Reduced ferredoxin	Ammonia	white
+nitrogenase delta subunit	1.18.6.1	Reduced ferredoxin	Hydrogen	white
+nitrogenase delta subunit	1.18.6.1	Reduced ferredoxin	Orthophosphate	white
+nitrogenase delta subunit	1.18.6.1	Reduced ferredoxin	Oxidized ferredoxin	white
+nitrogenase iron protein NifH	1.18.6.1	ADP	ATP	white
+nitrogenase iron protein NifH	1.18.6.1	ADP	H+	white
+nitrogenase iron protein NifH	1.18.6.1	ADP	H2O	white
+nitrogenase iron protein NifH	1.18.6.1	ADP	Nitrogen	white
+nitrogenase iron protein NifH	1.18.6.1	ADP	Reduced ferredoxin	white
+nitrogenase iron protein NifH	1.18.6.1	ATP	ADP	white
+nitrogenase iron protein NifH	1.18.6.1	ATP	Ammonia	white
+nitrogenase iron protein NifH	1.18.6.1	ATP	Hydrogen	white
+nitrogenase iron protein NifH	1.18.6.1	ATP	Orthophosphate	white
+nitrogenase iron protein NifH	1.18.6.1	ATP	Oxidized ferredoxin	white
+nitrogenase iron protein NifH	1.18.6.1	Ammonia	ATP	white
+nitrogenase iron protein NifH	1.18.6.1	Ammonia	H+	white
+nitrogenase iron protein NifH	1.18.6.1	Ammonia	H2O	white
+nitrogenase iron protein NifH	1.18.6.1	Ammonia	Nitrogen	white
+nitrogenase iron protein NifH	1.18.6.1	Ammonia	Reduced ferredoxin	white
+nitrogenase iron protein NifH	1.18.6.1	H+	ADP	white
+nitrogenase iron protein NifH	1.18.6.1	H+	Ammonia	white
+nitrogenase iron protein NifH	1.18.6.1	H+	Hydrogen	white
+nitrogenase iron protein NifH	1.18.6.1	H+	Orthophosphate	white
+nitrogenase iron protein NifH	1.18.6.1	H+	Oxidized ferredoxin	white
+nitrogenase iron protein NifH	1.18.6.1	H2O	ADP	white
+nitrogenase iron protein NifH	1.18.6.1	H2O	Ammonia	white
+nitrogenase iron protein NifH	1.18.6.1	H2O	Hydrogen	white
+nitrogenase iron protein NifH	1.18.6.1	H2O	Orthophosphate	white
+nitrogenase iron protein NifH	1.18.6.1	H2O	Oxidized ferredoxin	white
+nitrogenase iron protein NifH	1.18.6.1	Hydrogen	ATP	white
+nitrogenase iron protein NifH	1.18.6.1	Hydrogen	H+	white
+nitrogenase iron protein NifH	1.18.6.1	Hydrogen	H2O	white
+nitrogenase iron protein NifH	1.18.6.1	Hydrogen	Nitrogen	white
+nitrogenase iron protein NifH	1.18.6.1	Hydrogen	Reduced ferredoxin	white
+nitrogenase iron protein NifH	1.18.6.1	Nitrogen	ADP	white
+nitrogenase iron protein NifH	1.18.6.1	Nitrogen	Ammonia	white
+nitrogenase iron protein NifH	1.18.6.1	Nitrogen	Hydrogen	white
+nitrogenase iron protein NifH	1.18.6.1	Nitrogen	Orthophosphate	white
+nitrogenase iron protein NifH	1.18.6.1	Nitrogen	Oxidized ferredoxin	white
+nitrogenase iron protein NifH	1.18.6.1	Orthophosphate	ATP	white
+nitrogenase iron protein NifH	1.18.6.1	Orthophosphate	H+	white
+nitrogenase iron protein NifH	1.18.6.1	Orthophosphate	H2O	white
+nitrogenase iron protein NifH	1.18.6.1	Orthophosphate	Nitrogen	white
+nitrogenase iron protein NifH	1.18.6.1	Orthophosphate	Reduced ferredoxin	white
+nitrogenase iron protein NifH	1.18.6.1	Oxidized ferredoxin	ATP	white
+nitrogenase iron protein NifH	1.18.6.1	Oxidized ferredoxin	H+	white
+nitrogenase iron protein NifH	1.18.6.1	Oxidized ferredoxin	H2O	white
+nitrogenase iron protein NifH	1.18.6.1	Oxidized ferredoxin	Nitrogen	white
+nitrogenase iron protein NifH	1.18.6.1	Oxidized ferredoxin	Reduced ferredoxin	white
+nitrogenase iron protein NifH	1.18.6.1	Reduced ferredoxin	ADP	white
+nitrogenase iron protein NifH	1.18.6.1	Reduced ferredoxin	Ammonia	white
+nitrogenase iron protein NifH	1.18.6.1	Reduced ferredoxin	Hydrogen	white
+nitrogenase iron protein NifH	1.18.6.1	Reduced ferredoxin	Orthophosphate	white
+nitrogenase iron protein NifH	1.18.6.1	Reduced ferredoxin	Oxidized ferredoxin	white
+nitrogenase molybdenum-iron protein alpha chain	1.18.6.1	ADP	ATP	white
+nitrogenase molybdenum-iron protein alpha chain	1.18.6.1	ADP	H+	white
+nitrogenase molybdenum-iron protein alpha chain	1.18.6.1	ADP	H2O	white
+nitrogenase molybdenum-iron protein alpha chain	1.18.6.1	ADP	Nitrogen	white
+nitrogenase molybdenum-iron protein alpha chain	1.18.6.1	ADP	Reduced ferredoxin	white
+nitrogenase molybdenum-iron protein alpha chain	1.18.6.1	ATP	ADP	white
+nitrogenase molybdenum-iron protein alpha chain	1.18.6.1	ATP	Ammonia	white
+nitrogenase molybdenum-iron protein alpha chain	1.18.6.1	ATP	Hydrogen	white
+nitrogenase molybdenum-iron protein alpha chain	1.18.6.1	ATP	Orthophosphate	white
+nitrogenase molybdenum-iron protein alpha chain	1.18.6.1	ATP	Oxidized ferredoxin	white
+nitrogenase molybdenum-iron protein alpha chain	1.18.6.1	Ammonia	ATP	white
+nitrogenase molybdenum-iron protein alpha chain	1.18.6.1	Ammonia	H+	white
+nitrogenase molybdenum-iron protein alpha chain	1.18.6.1	Ammonia	H2O	white
+nitrogenase molybdenum-iron protein alpha chain	1.18.6.1	Ammonia	Nitrogen	white
+nitrogenase molybdenum-iron protein alpha chain	1.18.6.1	Ammonia	Reduced ferredoxin	white
+nitrogenase molybdenum-iron protein alpha chain	1.18.6.1	H+	ADP	white
+nitrogenase molybdenum-iron protein alpha chain	1.18.6.1	H+	Ammonia	white
+nitrogenase molybdenum-iron protein alpha chain	1.18.6.1	H+	Hydrogen	white
+nitrogenase molybdenum-iron protein alpha chain	1.18.6.1	H+	Orthophosphate	white
+nitrogenase molybdenum-iron protein alpha chain	1.18.6.1	H+	Oxidized ferredoxin	white
+nitrogenase molybdenum-iron protein alpha chain	1.18.6.1	H2O	ADP	white
+nitrogenase molybdenum-iron protein alpha chain	1.18.6.1	H2O	Ammonia	white
+nitrogenase molybdenum-iron protein alpha chain	1.18.6.1	H2O	Hydrogen	white
+nitrogenase molybdenum-iron protein alpha chain	1.18.6.1	H2O	Orthophosphate	white
+nitrogenase molybdenum-iron protein alpha chain	1.18.6.1	H2O	Oxidized ferredoxin	white
+nitrogenase molybdenum-iron protein alpha chain	1.18.6.1	Hydrogen	ATP	white
+nitrogenase molybdenum-iron protein alpha chain	1.18.6.1	Hydrogen	H+	white
+nitrogenase molybdenum-iron protein alpha chain	1.18.6.1	Hydrogen	H2O	white
+nitrogenase molybdenum-iron protein alpha chain	1.18.6.1	Hydrogen	Nitrogen	white
+nitrogenase molybdenum-iron protein alpha chain	1.18.6.1	Hydrogen	Reduced ferredoxin	white
+nitrogenase molybdenum-iron protein alpha chain	1.18.6.1	Nitrogen	ADP	white
+nitrogenase molybdenum-iron protein alpha chain	1.18.6.1	Nitrogen	Ammonia	white
+nitrogenase molybdenum-iron protein alpha chain	1.18.6.1	Nitrogen	Hydrogen	white
+nitrogenase molybdenum-iron protein alpha chain	1.18.6.1	Nitrogen	Orthophosphate	white
+nitrogenase molybdenum-iron protein alpha chain	1.18.6.1	Nitrogen	Oxidized ferredoxin	white
+nitrogenase molybdenum-iron protein alpha chain	1.18.6.1	Orthophosphate	ATP	white
+nitrogenase molybdenum-iron protein alpha chain	1.18.6.1	Orthophosphate	H+	white
+nitrogenase molybdenum-iron protein alpha chain	1.18.6.1	Orthophosphate	H2O	white
+nitrogenase molybdenum-iron protein alpha chain	1.18.6.1	Orthophosphate	Nitrogen	white
+nitrogenase molybdenum-iron protein alpha chain	1.18.6.1	Orthophosphate	Reduced ferredoxin	white
+nitrogenase molybdenum-iron protein alpha chain	1.18.6.1	Oxidized ferredoxin	ATP	white
+nitrogenase molybdenum-iron protein alpha chain	1.18.6.1	Oxidized ferredoxin	H+	white
+nitrogenase molybdenum-iron protein alpha chain	1.18.6.1	Oxidized ferredoxin	H2O	white
+nitrogenase molybdenum-iron protein alpha chain	1.18.6.1	Oxidized ferredoxin	Nitrogen	white
+nitrogenase molybdenum-iron protein alpha chain	1.18.6.1	Oxidized ferredoxin	Reduced ferredoxin	white
+nitrogenase molybdenum-iron protein alpha chain	1.18.6.1	Reduced ferredoxin	ADP	white
+nitrogenase molybdenum-iron protein alpha chain	1.18.6.1	Reduced ferredoxin	Ammonia	white
+nitrogenase molybdenum-iron protein alpha chain	1.18.6.1	Reduced ferredoxin	Hydrogen	white
+nitrogenase molybdenum-iron protein alpha chain	1.18.6.1	Reduced ferredoxin	Orthophosphate	white
+nitrogenase molybdenum-iron protein alpha chain	1.18.6.1	Reduced ferredoxin	Oxidized ferredoxin	white
+nitrogenase molybdenum-iron protein beta chain	1.18.6.1	ADP	ATP	white
+nitrogenase molybdenum-iron protein beta chain	1.18.6.1	ADP	H+	white
+nitrogenase molybdenum-iron protein beta chain	1.18.6.1	ADP	H2O	white
+nitrogenase molybdenum-iron protein beta chain	1.18.6.1	ADP	Nitrogen	white
+nitrogenase molybdenum-iron protein beta chain	1.18.6.1	ADP	Reduced ferredoxin	white
+nitrogenase molybdenum-iron protein beta chain	1.18.6.1	ATP	ADP	white
+nitrogenase molybdenum-iron protein beta chain	1.18.6.1	ATP	Ammonia	white
+nitrogenase molybdenum-iron protein beta chain	1.18.6.1	ATP	Hydrogen	white
+nitrogenase molybdenum-iron protein beta chain	1.18.6.1	ATP	Orthophosphate	white
+nitrogenase molybdenum-iron protein beta chain	1.18.6.1	ATP	Oxidized ferredoxin	white
+nitrogenase molybdenum-iron protein beta chain	1.18.6.1	Ammonia	ATP	white
+nitrogenase molybdenum-iron protein beta chain	1.18.6.1	Ammonia	H+	white
+nitrogenase molybdenum-iron protein beta chain	1.18.6.1	Ammonia	H2O	white
+nitrogenase molybdenum-iron protein beta chain	1.18.6.1	Ammonia	Nitrogen	white
+nitrogenase molybdenum-iron protein beta chain	1.18.6.1	Ammonia	Reduced ferredoxin	white
+nitrogenase molybdenum-iron protein beta chain	1.18.6.1	H+	ADP	white
+nitrogenase molybdenum-iron protein beta chain	1.18.6.1	H+	Ammonia	white
+nitrogenase molybdenum-iron protein beta chain	1.18.6.1	H+	Hydrogen	white
+nitrogenase molybdenum-iron protein beta chain	1.18.6.1	H+	Orthophosphate	white
+nitrogenase molybdenum-iron protein beta chain	1.18.6.1	H+	Oxidized ferredoxin	white
+nitrogenase molybdenum-iron protein beta chain	1.18.6.1	H2O	ADP	white
+nitrogenase molybdenum-iron protein beta chain	1.18.6.1	H2O	Ammonia	white
+nitrogenase molybdenum-iron protein beta chain	1.18.6.1	H2O	Hydrogen	white
+nitrogenase molybdenum-iron protein beta chain	1.18.6.1	H2O	Orthophosphate	white
+nitrogenase molybdenum-iron protein beta chain	1.18.6.1	H2O	Oxidized ferredoxin	white
+nitrogenase molybdenum-iron protein beta chain	1.18.6.1	Hydrogen	ATP	white
+nitrogenase molybdenum-iron protein beta chain	1.18.6.1	Hydrogen	H+	white
+nitrogenase molybdenum-iron protein beta chain	1.18.6.1	Hydrogen	H2O	white
+nitrogenase molybdenum-iron protein beta chain	1.18.6.1	Hydrogen	Nitrogen	white
+nitrogenase molybdenum-iron protein beta chain	1.18.6.1	Hydrogen	Reduced ferredoxin	white
+nitrogenase molybdenum-iron protein beta chain	1.18.6.1	Nitrogen	ADP	white
+nitrogenase molybdenum-iron protein beta chain	1.18.6.1	Nitrogen	Ammonia	white
+nitrogenase molybdenum-iron protein beta chain	1.18.6.1	Nitrogen	Hydrogen	white
+nitrogenase molybdenum-iron protein beta chain	1.18.6.1	Nitrogen	Orthophosphate	white
+nitrogenase molybdenum-iron protein beta chain	1.18.6.1	Nitrogen	Oxidized ferredoxin	white
+nitrogenase molybdenum-iron protein beta chain	1.18.6.1	Orthophosphate	ATP	white
+nitrogenase molybdenum-iron protein beta chain	1.18.6.1	Orthophosphate	H+	white
+nitrogenase molybdenum-iron protein beta chain	1.18.6.1	Orthophosphate	H2O	white
+nitrogenase molybdenum-iron protein beta chain	1.18.6.1	Orthophosphate	Nitrogen	white
+nitrogenase molybdenum-iron protein beta chain	1.18.6.1	Orthophosphate	Reduced ferredoxin	white
+nitrogenase molybdenum-iron protein beta chain	1.18.6.1	Oxidized ferredoxin	ATP	white
+nitrogenase molybdenum-iron protein beta chain	1.18.6.1	Oxidized ferredoxin	H+	white
+nitrogenase molybdenum-iron protein beta chain	1.18.6.1	Oxidized ferredoxin	H2O	white
+nitrogenase molybdenum-iron protein beta chain	1.18.6.1	Oxidized ferredoxin	Nitrogen	white
+nitrogenase molybdenum-iron protein beta chain	1.18.6.1	Oxidized ferredoxin	Reduced ferredoxin	white
+nitrogenase molybdenum-iron protein beta chain	1.18.6.1	Reduced ferredoxin	ADP	white
+nitrogenase molybdenum-iron protein beta chain	1.18.6.1	Reduced ferredoxin	Ammonia	white
+nitrogenase molybdenum-iron protein beta chain	1.18.6.1	Reduced ferredoxin	Hydrogen	white
+nitrogenase molybdenum-iron protein beta chain	1.18.6.1	Reduced ferredoxin	Orthophosphate	white
+nitrogenase molybdenum-iron protein beta chain	1.18.6.1	Reduced ferredoxin	Oxidized ferredoxin	white
+soluble epoxide hydrolase / lipid-phosphate phosphatase	3.3.2.10	Ethylene glycol	Ethylene oxide	white
+soluble epoxide hydrolase / lipid-phosphate phosphatase	3.3.2.10	Ethylene glycol	H2O	white
+soluble epoxide hydrolase / lipid-phosphate phosphatase	3.3.2.10	Ethylene oxide	Ethylene glycol	white
+soluble epoxide hydrolase / lipid-phosphate phosphatase	3.3.2.10	H2O	Ethylene glycol	white
+tetrachloroethene reductive dehalogenase	1.21.99.5	H+	Hydrochloric acid	white
+tetrachloroethene reductive dehalogenase	1.21.99.5	H+	Trichloroethene	white
+tetrachloroethene reductive dehalogenase	1.21.99.5	Hydrochloric acid	H+	white
+tetrachloroethene reductive dehalogenase	1.21.99.5	Hydrochloric acid	Tetrachloroethene	white
+tetrachloroethene reductive dehalogenase	1.21.99.5	Tetrachloroethene	Hydrochloric acid	white
+tetrachloroethene reductive dehalogenase	1.21.99.5	Tetrachloroethene	Trichloroethene	white
+tetrachloroethene reductive dehalogenase	1.21.99.5	Trichloroethene	H+	white
+tetrachloroethene reductive dehalogenase	1.21.99.5	Trichloroethene	Tetrachloroethene	white
+tetrachloroethene reductive dehalogenase membrane anchor	1.21.99.5	H+	Hydrochloric acid	white
+tetrachloroethene reductive dehalogenase membrane anchor	1.21.99.5	H+	Trichloroethene	white
+tetrachloroethene reductive dehalogenase membrane anchor	1.21.99.5	Hydrochloric acid	H+	white
+tetrachloroethene reductive dehalogenase membrane anchor	1.21.99.5	Hydrochloric acid	Tetrachloroethene	white
+tetrachloroethene reductive dehalogenase membrane anchor	1.21.99.5	Tetrachloroethene	Hydrochloric acid	white
+tetrachloroethene reductive dehalogenase membrane anchor	1.21.99.5	Tetrachloroethene	Trichloroethene	white
+tetrachloroethene reductive dehalogenase membrane anchor	1.21.99.5	Trichloroethene	H+	white
+tetrachloroethene reductive dehalogenase membrane anchor	1.21.99.5	Trichloroethene	Tetrachloroethene	white

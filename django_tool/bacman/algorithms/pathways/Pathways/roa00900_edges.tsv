@@ -1,0 +1,465 @@
+enzyme_name	EC	source	target	color
+(2Z,6Z)-farnesyl diphosphate synthase	2.5.1.92	2-cis,6-cis-Farnesyl diphosphate	Dimethylallyl diphosphate	white
+(2Z,6Z)-farnesyl diphosphate synthase	2.5.1.92	2-cis,6-cis-Farnesyl diphosphate	Isopentenyl diphosphate	white
+(2Z,6Z)-farnesyl diphosphate synthase	2.5.1.92	Dimethylallyl diphosphate	2-cis,6-cis-Farnesyl diphosphate	white
+(2Z,6Z)-farnesyl diphosphate synthase	2.5.1.92	Dimethylallyl diphosphate	Diphosphate	white
+(2Z,6Z)-farnesyl diphosphate synthase	2.5.1.92	Diphosphate	Dimethylallyl diphosphate	white
+(2Z,6Z)-farnesyl diphosphate synthase	2.5.1.92	Diphosphate	Isopentenyl diphosphate	white
+(2Z,6Z)-farnesyl diphosphate synthase	2.5.1.92	Isopentenyl diphosphate	2-cis,6-cis-Farnesyl diphosphate	white
+(2Z,6Z)-farnesyl diphosphate synthase	2.5.1.92	Isopentenyl diphosphate	Diphosphate	white
+(E)-4-hydroxy-3-methylbut-2-enyl-diphosphate synthase	1.17.7.1	1-Hydroxy-2-methyl-2-butenyl 4-diphosphate	2-C-Methyl-D-erythritol 2,4-cyclodiphosphate	green
+(E)-4-hydroxy-3-methylbut-2-enyl-diphosphate synthase	1.17.7.1	1-Hydroxy-2-methyl-2-butenyl 4-diphosphate	Reduced flavodoxin	green
+(E)-4-hydroxy-3-methylbut-2-enyl-diphosphate synthase	1.17.7.1	2-C-Methyl-D-erythritol 2,4-cyclodiphosphate	1-Hydroxy-2-methyl-2-butenyl 4-diphosphate	green
+(E)-4-hydroxy-3-methylbut-2-enyl-diphosphate synthase	1.17.7.1	2-C-Methyl-D-erythritol 2,4-cyclodiphosphate	H2O	green
+(E)-4-hydroxy-3-methylbut-2-enyl-diphosphate synthase	1.17.7.1	2-C-Methyl-D-erythritol 2,4-cyclodiphosphate	Oxidized ferredoxin	green
+(E)-4-hydroxy-3-methylbut-2-enyl-diphosphate synthase	1.17.7.1	H2O	2-C-Methyl-D-erythritol 2,4-cyclodiphosphate	green
+(E)-4-hydroxy-3-methylbut-2-enyl-diphosphate synthase	1.17.7.1	H2O	Reduced flavodoxin	green
+(E)-4-hydroxy-3-methylbut-2-enyl-diphosphate synthase	1.17.7.1	Oxidized flavodoxin	2-C-Methyl-D-erythritol 2,4-cyclodiphosphate	green
+(E)-4-hydroxy-3-methylbut-2-enyl-diphosphate synthase	1.17.7.1	Oxidized flavodoxin	Reduced flavodoxin	green
+(E)-4-hydroxy-3-methylbut-2-enyl-diphosphate synthase	1.17.7.1	Reduced ferredoxin	1-Hydroxy-2-methyl-2-butenyl 4-diphosphate	green
+(E)-4-hydroxy-3-methylbut-2-enyl-diphosphate synthase	1.17.7.1	Reduced ferredoxin	H2O	green
+(E)-4-hydroxy-3-methylbut-2-enyl-diphosphate synthase	1.17.7.1	Reduced ferredoxin	Oxidized ferredoxin	green
+1-deoxy-D-xylulose-5-phosphate reductoisomerase	1.1.1.267	2-C-Methyl-D-erythritol 4-phosphate	1-Deoxy-D-xylulose 5-phosphate	green
+1-deoxy-D-xylulose-5-phosphate reductoisomerase	1.1.1.267	2-C-Methyl-D-erythritol 4-phosphate	H+	green
+1-deoxy-D-xylulose-5-phosphate reductoisomerase	1.1.1.267	2-C-Methyl-D-erythritol 4-phosphate	NADPH	green
+1-deoxy-D-xylulose-5-phosphate reductoisomerase	1.1.1.267	NADP+	1-Deoxy-D-xylulose 5-phosphate	green
+1-deoxy-D-xylulose-5-phosphate reductoisomerase	1.1.1.267	NADP+	H+	green
+1-deoxy-D-xylulose-5-phosphate reductoisomerase	1.1.1.267	NADP+	NADPH	green
+1-deoxy-D-xylulose-5-phosphate synthase	2.2.1.7	1-Deoxy-D-xylulose 5-phosphate	D-Glyceraldehyde 3-phosphate	green
+1-deoxy-D-xylulose-5-phosphate synthase	2.2.1.7	1-Deoxy-D-xylulose 5-phosphate	Pyruvate	green
+1-deoxy-D-xylulose-5-phosphate synthase	2.2.1.7	CO2	D-Glyceraldehyde 3-phosphate	green
+1-deoxy-D-xylulose-5-phosphate synthase	2.2.1.7	CO2	Pyruvate	green
+1-deoxy-D-xylulose-5-phosphate synthase	2.2.1.7	D-Glyceraldehyde 3-phosphate	1-Deoxy-D-xylulose 5-phosphate	green
+1-deoxy-D-xylulose-5-phosphate synthase	2.2.1.7	D-Glyceraldehyde 3-phosphate	CO2	green
+1-deoxy-D-xylulose-5-phosphate synthase	2.2.1.7	Pyruvate	1-Deoxy-D-xylulose 5-phosphate	green
+1-deoxy-D-xylulose-5-phosphate synthase	2.2.1.7	Pyruvate	CO2	green
+2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase	4.6.1.12	2-Phospho-4-(cytidine 5'-diphospho)-2-C-methyl-D-erythritol	2-C-Methyl-D-erythritol 2,4-cyclodiphosphate	green
+2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase	4.6.1.12	2-Phospho-4-(cytidine 5'-diphospho)-2-C-methyl-D-erythritol	CMP	green
+2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase	2.7.7.60	2-C-Methyl-D-erythritol 4-phosphate	4-(Cytidine 5'-diphospho)-2-C-methyl-D-erythritol	green
+2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase	2.7.7.60	2-C-Methyl-D-erythritol 4-phosphate	Diphosphate	green
+2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase	2.7.7.60	CTP	4-(Cytidine 5'-diphospho)-2-C-methyl-D-erythritol	green
+2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase	2.7.7.60	CTP	Diphosphate	green
+4-diphosphocytidyl-2-C-methyl-D-erythritol kinase	2.7.1.148	4-(Cytidine 5'-diphospho)-2-C-methyl-D-erythritol	2-Phospho-4-(cytidine 5'-diphospho)-2-C-methyl-D-erythritol	green
+4-diphosphocytidyl-2-C-methyl-D-erythritol kinase	2.7.1.148	4-(Cytidine 5'-diphospho)-2-C-methyl-D-erythritol	ADP	green
+4-diphosphocytidyl-2-C-methyl-D-erythritol kinase	2.7.1.148	ATP	2-Phospho-4-(cytidine 5'-diphospho)-2-C-methyl-D-erythritol	green
+4-diphosphocytidyl-2-C-methyl-D-erythritol kinase	2.7.1.148	ATP	ADP	green
+4-hydroxy-3-methylbut-2-en-1-yl diphosphate reductase	1.17.7.4	1-Hydroxy-2-methyl-2-butenyl 4-diphosphate	H2O	green
+4-hydroxy-3-methylbut-2-en-1-yl diphosphate reductase	1.17.7.4	1-Hydroxy-2-methyl-2-butenyl 4-diphosphate	Isopentenyl diphosphate	green
+4-hydroxy-3-methylbut-2-en-1-yl diphosphate reductase	1.17.7.4	1-Hydroxy-2-methyl-2-butenyl 4-diphosphate	Oxidized ferredoxin	green
+4-hydroxy-3-methylbut-2-en-1-yl diphosphate reductase	1.17.7.4	Dimethylallyl diphosphate	1-Hydroxy-2-methyl-2-butenyl 4-diphosphate	green
+4-hydroxy-3-methylbut-2-en-1-yl diphosphate reductase	1.17.7.4	Dimethylallyl diphosphate	H+	green
+4-hydroxy-3-methylbut-2-en-1-yl diphosphate reductase	1.17.7.4	Dimethylallyl diphosphate	Reduced ferredoxin	green
+4-hydroxy-3-methylbut-2-en-1-yl diphosphate reductase	1.17.7.4	H+	H2O	green
+4-hydroxy-3-methylbut-2-en-1-yl diphosphate reductase	1.17.7.4	H+	Isopentenyl diphosphate	green
+4-hydroxy-3-methylbut-2-en-1-yl diphosphate reductase	1.17.7.4	H+	Oxidized ferredoxin	green
+4-hydroxy-3-methylbut-2-en-1-yl diphosphate reductase	1.17.7.4	H2O	1-Hydroxy-2-methyl-2-butenyl 4-diphosphate	green
+4-hydroxy-3-methylbut-2-en-1-yl diphosphate reductase	1.17.7.4	H2O	H+	green
+4-hydroxy-3-methylbut-2-en-1-yl diphosphate reductase	1.17.7.4	H2O	Reduced ferredoxin	green
+4-hydroxy-3-methylbut-2-en-1-yl diphosphate reductase	1.17.7.4	Oxidized ferredoxin	1-Hydroxy-2-methyl-2-butenyl 4-diphosphate	green
+4-hydroxy-3-methylbut-2-en-1-yl diphosphate reductase	1.17.7.4	Oxidized ferredoxin	H+	green
+4-hydroxy-3-methylbut-2-en-1-yl diphosphate reductase	1.17.7.4	Oxidized ferredoxin	Reduced ferredoxin	green
+4-hydroxy-3-methylbut-2-en-1-yl diphosphate reductase	1.17.7.4	Reduced ferredoxin	H2O	green
+4-hydroxy-3-methylbut-2-en-1-yl diphosphate reductase	1.17.7.4	Reduced ferredoxin	Isopentenyl diphosphate	green
+4-hydroxy-3-methylbut-2-en-1-yl diphosphate reductase	1.17.7.4	Reduced ferredoxin	Oxidized ferredoxin	green
+NAD+-dependent farnesol dehydrogenase	1.1.1.354	(2E,6E)-Farnesol	2-trans,6-trans-Farnesal	white
+NAD+-dependent farnesol dehydrogenase	1.1.1.354	(2E,6E)-Farnesol	H+	white
+NAD+-dependent farnesol dehydrogenase	1.1.1.354	(2E,6E)-Farnesol	NADH	white
+NAD+-dependent farnesol dehydrogenase	1.1.1.354	2-trans,6-trans-Farnesal	(2E,6E)-Farnesol	white
+NAD+-dependent farnesol dehydrogenase	1.1.1.354	2-trans,6-trans-Farnesal	NAD+	white
+NAD+-dependent farnesol dehydrogenase	1.1.1.354	H+	(2E,6E)-Farnesol	white
+NAD+-dependent farnesol dehydrogenase	1.1.1.354	H+	NAD+	white
+NAD+-dependent farnesol dehydrogenase	1.1.1.354	NAD+	2-trans,6-trans-Farnesal	white
+NAD+-dependent farnesol dehydrogenase	1.1.1.354	NAD+	H+	white
+NAD+-dependent farnesol dehydrogenase	1.1.1.354	NAD+	NADH	white
+NAD+-dependent farnesol dehydrogenase	1.1.1.354	NADH	(2E,6E)-Farnesol	white
+NAD+-dependent farnesol dehydrogenase	1.1.1.354	NADH	NAD+	white
+NADP+-dependent farnesol dehydrogenase	1.1.1.216	(2E,6E)-Farnesol	2-trans,6-trans-Farnesal	white
+NADP+-dependent farnesol dehydrogenase	1.1.1.216	(2E,6E)-Farnesol	H+	white
+NADP+-dependent farnesol dehydrogenase	1.1.1.216	(2E,6E)-Farnesol	NADPH	white
+NADP+-dependent farnesol dehydrogenase	1.1.1.216	2-trans,6-trans-Farnesal	(2E,6E)-Farnesol	white
+NADP+-dependent farnesol dehydrogenase	1.1.1.216	2-trans,6-trans-Farnesal	NADP+	white
+NADP+-dependent farnesol dehydrogenase	1.1.1.216	H+	(2E,6E)-Farnesol	white
+NADP+-dependent farnesol dehydrogenase	1.1.1.216	H+	NADP+	white
+NADP+-dependent farnesol dehydrogenase	1.1.1.216	NADP+	2-trans,6-trans-Farnesal	white
+NADP+-dependent farnesol dehydrogenase	1.1.1.216	NADP+	H+	white
+NADP+-dependent farnesol dehydrogenase	1.1.1.216	NADP+	NADPH	white
+NADP+-dependent farnesol dehydrogenase	1.1.1.216	NADPH	(2E,6E)-Farnesol	white
+NADP+-dependent farnesol dehydrogenase	1.1.1.216	NADPH	NADP+	white
+STE24 endopeptidase	3.4.24.84	H2O	Peptide	white
+STE24 endopeptidase	3.4.24.84	H2O	Protein C-terminal S-farnesyl-L-cysteine	white
+STE24 endopeptidase	3.4.24.84	Peptide	H2O	white
+STE24 endopeptidase	3.4.24.84	Peptide	S-Farnesyl protein	white
+STE24 endopeptidase	3.4.24.84	Protein C-terminal S-farnesyl-L-cysteine	H2O	white
+STE24 endopeptidase	3.4.24.84	Protein C-terminal S-farnesyl-L-cysteine	S-Farnesyl protein	white
+STE24 endopeptidase	3.4.24.84	S-Farnesyl protein	Peptide	white
+STE24 endopeptidase	3.4.24.84	S-Farnesyl protein	Protein C-terminal S-farnesyl-L-cysteine	white
+acetyl-CoA C-acetyltransferase	2.3.1.9	Acetoacetyl-CoA	Acetyl-CoA	green
+acetyl-CoA C-acetyltransferase	2.3.1.9	Acetyl-CoA	Acetoacetyl-CoA	green
+acetyl-CoA C-acetyltransferase	2.3.1.9	Acetyl-CoA	CoA	green
+acetyl-CoA C-acetyltransferase	2.3.1.9	CoA	Acetyl-CoA	green
+acetyl-CoA acyltransferase	2.3.1.16	Acetoacetyl-CoA	Acetyl-CoA	green
+acetyl-CoA acyltransferase	2.3.1.16	Acetyl-CoA	Acetoacetyl-CoA	green
+acetyl-CoA acyltransferase	2.3.1.16	Acetyl-CoA	CoA	green
+acetyl-CoA acyltransferase	2.3.1.16	CoA	Acetyl-CoA	green
+acyclic sesquiterpene synthase	4.2.3.49	Diphosphate	trans,trans-Farnesyl diphosphate	white
+acyclic sesquiterpene synthase	4.2.3.49	beta-Farnesene	trans,trans-Farnesyl diphosphate	white
+acyclic sesquiterpene synthase	4.2.3.49	trans,trans-Farnesyl diphosphate	Diphosphate	white
+acyclic sesquiterpene synthase	4.2.3.49	trans,trans-Farnesyl diphosphate	beta-Farnesene	white
+all-trans-nonaprenyl-diphosphate synthase	2.5.1.84	Diphosphate	Geranyl diphosphate	white
+all-trans-nonaprenyl-diphosphate synthase	2.5.1.84	Diphosphate	Isopentenyl diphosphate	white
+all-trans-nonaprenyl-diphosphate synthase	2.5.1.84	Geranyl diphosphate	Diphosphate	white
+all-trans-nonaprenyl-diphosphate synthase	2.5.1.84	Geranyl diphosphate	all-trans-Nonaprenyl diphosphate	white
+all-trans-nonaprenyl-diphosphate synthase	2.5.1.84	Isopentenyl diphosphate	Diphosphate	white
+all-trans-nonaprenyl-diphosphate synthase	2.5.1.84	Isopentenyl diphosphate	all-trans-Nonaprenyl diphosphate	white
+all-trans-nonaprenyl-diphosphate synthase	2.5.1.84	all-trans-Nonaprenyl diphosphate	Geranyl diphosphate	white
+all-trans-nonaprenyl-diphosphate synthase	2.5.1.84	all-trans-Nonaprenyl diphosphate	Isopentenyl diphosphate	white
+anhydromevalonate phosphate decarboxylase	4.1.1.126	CO2	trans-Anhydromevalonate 5-phosphate	white
+anhydromevalonate phosphate decarboxylase	4.1.1.126	Isopentenyl phosphate	trans-Anhydromevalonate 5-phosphate	white
+anhydromevalonate phosphate decarboxylase	4.1.1.126	trans-Anhydromevalonate 5-phosphate	CO2	white
+anhydromevalonate phosphate decarboxylase	4.1.1.126	trans-Anhydromevalonate 5-phosphate	Isopentenyl phosphate	white
+bisphosphomevalonate decarboxylase	4.1.1.110	(R)-Mevalonate 3,5-bisphosphate	CO2	white
+bisphosphomevalonate decarboxylase	4.1.1.110	(R)-Mevalonate 3,5-bisphosphate	Isopentenyl phosphate	white
+bisphosphomevalonate decarboxylase	4.1.1.110	(R)-Mevalonate 3,5-bisphosphate	Orthophosphate	white
+bisphosphomevalonate decarboxylase	4.1.1.110	CO2	(R)-Mevalonate 3,5-bisphosphate	white
+bisphosphomevalonate decarboxylase	4.1.1.110	Isopentenyl phosphate	(R)-Mevalonate 3,5-bisphosphate	white
+bisphosphomevalonate decarboxylase	4.1.1.110	Orthophosphate	(R)-Mevalonate 3,5-bisphosphate	white
+decaprenyl-diphosphate synthase subunit 1	2.5.1.91	Diphosphate	Isopentenyl diphosphate	white
+decaprenyl-diphosphate synthase subunit 1	2.5.1.91	Diphosphate	trans,trans-Farnesyl diphosphate	white
+decaprenyl-diphosphate synthase subunit 1	2.5.1.91	Isopentenyl diphosphate	Diphosphate	white
+decaprenyl-diphosphate synthase subunit 1	2.5.1.91	Isopentenyl diphosphate	all-trans-Decaprenyl diphosphate	white
+decaprenyl-diphosphate synthase subunit 1	2.5.1.91	all-trans-Decaprenyl diphosphate	Isopentenyl diphosphate	white
+decaprenyl-diphosphate synthase subunit 1	2.5.1.91	all-trans-Decaprenyl diphosphate	trans,trans-Farnesyl diphosphate	white
+decaprenyl-diphosphate synthase subunit 1	2.5.1.91	trans,trans-Farnesyl diphosphate	Diphosphate	white
+decaprenyl-diphosphate synthase subunit 1	2.5.1.91	trans,trans-Farnesyl diphosphate	all-trans-Decaprenyl diphosphate	white
+decaprenyl-diphosphate synthase subunit 2	2.5.1.91	Diphosphate	Isopentenyl diphosphate	white
+decaprenyl-diphosphate synthase subunit 2	2.5.1.91	Diphosphate	trans,trans-Farnesyl diphosphate	white
+decaprenyl-diphosphate synthase subunit 2	2.5.1.91	Isopentenyl diphosphate	Diphosphate	white
+decaprenyl-diphosphate synthase subunit 2	2.5.1.91	Isopentenyl diphosphate	all-trans-Decaprenyl diphosphate	white
+decaprenyl-diphosphate synthase subunit 2	2.5.1.91	all-trans-Decaprenyl diphosphate	Isopentenyl diphosphate	white
+decaprenyl-diphosphate synthase subunit 2	2.5.1.91	all-trans-Decaprenyl diphosphate	trans,trans-Farnesyl diphosphate	white
+decaprenyl-diphosphate synthase subunit 2	2.5.1.91	trans,trans-Farnesyl diphosphate	Diphosphate	white
+decaprenyl-diphosphate synthase subunit 2	2.5.1.91	trans,trans-Farnesyl diphosphate	all-trans-Decaprenyl diphosphate	white
+dehydrodolichyl diphosphate syntase complex subunit NUS1	2.5.1.87	Diphosphate	Isopentenyl diphosphate	white
+dehydrodolichyl diphosphate syntase complex subunit NUS1	2.5.1.87	Diphosphate	trans,trans-Farnesyl diphosphate	white
+dehydrodolichyl diphosphate syntase complex subunit NUS1	2.5.1.87	Isopentenyl diphosphate	Diphosphate	white
+dehydrodolichyl diphosphate syntase complex subunit NUS1	2.5.1.87	Isopentenyl diphosphate	ditrans,polycis-Polyprenyl diphosphate	white
+dehydrodolichyl diphosphate syntase complex subunit NUS1	2.5.1.87	ditrans,polycis-Polyprenyl diphosphate	Isopentenyl diphosphate	white
+dehydrodolichyl diphosphate syntase complex subunit NUS1	2.5.1.87	ditrans,polycis-Polyprenyl diphosphate	trans,trans-Farnesyl diphosphate	white
+dehydrodolichyl diphosphate syntase complex subunit NUS1	2.5.1.87	trans,trans-Farnesyl diphosphate	Diphosphate	white
+dehydrodolichyl diphosphate syntase complex subunit NUS1	2.5.1.87	trans,trans-Farnesyl diphosphate	ditrans,polycis-Polyprenyl diphosphate	white
+diphosphomevalonate decarboxylase	4.1.1.33	(R)-5-Diphosphomevalonate	ADP	white
+diphosphomevalonate decarboxylase	4.1.1.33	(R)-5-Diphosphomevalonate	CO2	white
+diphosphomevalonate decarboxylase	4.1.1.33	(R)-5-Diphosphomevalonate	Isopentenyl diphosphate	white
+diphosphomevalonate decarboxylase	4.1.1.33	(R)-5-Diphosphomevalonate	Orthophosphate	white
+diphosphomevalonate decarboxylase	4.1.1.33	ADP	(R)-5-Diphosphomevalonate	white
+diphosphomevalonate decarboxylase	4.1.1.33	ADP	ATP	white
+diphosphomevalonate decarboxylase	4.1.1.33	ATP	ADP	white
+diphosphomevalonate decarboxylase	4.1.1.33	ATP	CO2	white
+diphosphomevalonate decarboxylase	4.1.1.33	ATP	Isopentenyl diphosphate	white
+diphosphomevalonate decarboxylase	4.1.1.33	ATP	Orthophosphate	white
+diphosphomevalonate decarboxylase	4.1.1.33	CO2	(R)-5-Diphosphomevalonate	white
+diphosphomevalonate decarboxylase	4.1.1.33	CO2	ATP	white
+diphosphomevalonate decarboxylase	4.1.1.33	Isopentenyl diphosphate	(R)-5-Diphosphomevalonate	white
+diphosphomevalonate decarboxylase	4.1.1.33	Isopentenyl diphosphate	ATP	white
+diphosphomevalonate decarboxylase	4.1.1.33	Orthophosphate	(R)-5-Diphosphomevalonate	white
+diphosphomevalonate decarboxylase	4.1.1.33	Orthophosphate	ATP	white
+ditrans,polycis-polyprenyl diphosphate synthase	2.5.1.87	Diphosphate	Isopentenyl diphosphate	white
+ditrans,polycis-polyprenyl diphosphate synthase	2.5.1.87	Diphosphate	trans,trans-Farnesyl diphosphate	white
+ditrans,polycis-polyprenyl diphosphate synthase	2.5.1.87	Isopentenyl diphosphate	Diphosphate	white
+ditrans,polycis-polyprenyl diphosphate synthase	2.5.1.87	Isopentenyl diphosphate	ditrans,polycis-Polyprenyl diphosphate	white
+ditrans,polycis-polyprenyl diphosphate synthase	2.5.1.87	ditrans,polycis-Polyprenyl diphosphate	Isopentenyl diphosphate	white
+ditrans,polycis-polyprenyl diphosphate synthase	2.5.1.87	ditrans,polycis-Polyprenyl diphosphate	trans,trans-Farnesyl diphosphate	white
+ditrans,polycis-polyprenyl diphosphate synthase	2.5.1.87	trans,trans-Farnesyl diphosphate	Diphosphate	white
+ditrans,polycis-polyprenyl diphosphate synthase	2.5.1.87	trans,trans-Farnesyl diphosphate	ditrans,polycis-Polyprenyl diphosphate	white
+farnesol kinase	2.7.1.216	(2E,6E)-Farnesol	CDP	white
+farnesol kinase	2.7.1.216	(2E,6E)-Farnesol	trans,trans-Farnesyl phosphate	white
+farnesol kinase	2.7.1.216	CDP	(2E,6E)-Farnesol	white
+farnesol kinase	2.7.1.216	CDP	CTP	white
+farnesol kinase	2.7.1.216	CTP	CDP	white
+farnesol kinase	2.7.1.216	CTP	trans,trans-Farnesyl phosphate	white
+farnesol kinase	2.7.1.216	trans,trans-Farnesyl phosphate	(2E,6E)-Farnesol	white
+farnesol kinase	2.7.1.216	trans,trans-Farnesyl phosphate	CTP	white
+flavin prenyltransferase	2.5.1.129	4-Hydroxybenzoate	CO2	white
+flavin prenyltransferase	2.5.1.129	4-Hydroxybenzoate	Phenol	white
+flavin prenyltransferase	2.5.1.129	CO2	4-Hydroxybenzoate	white
+flavin prenyltransferase	2.5.1.129	Phenol	4-Hydroxybenzoate	white
+geranylfarnesyl diphosphate synthase	2.5.1.81	Diphosphate	Geranylgeranyl diphosphate	white
+geranylfarnesyl diphosphate synthase	2.5.1.81	Diphosphate	Isopentenyl diphosphate	white
+geranylfarnesyl diphosphate synthase	2.5.1.81	Geranylgeranyl diphosphate	Diphosphate	white
+geranylfarnesyl diphosphate synthase	2.5.1.81	Geranylgeranyl diphosphate	all-trans-Pentaprenyl diphosphate	white
+geranylfarnesyl diphosphate synthase	2.5.1.81	Isopentenyl diphosphate	Diphosphate	white
+geranylfarnesyl diphosphate synthase	2.5.1.81	Isopentenyl diphosphate	all-trans-Pentaprenyl diphosphate	white
+geranylfarnesyl diphosphate synthase	2.5.1.81	all-trans-Pentaprenyl diphosphate	Geranylgeranyl diphosphate	white
+geranylfarnesyl diphosphate synthase	2.5.1.81	all-trans-Pentaprenyl diphosphate	Isopentenyl diphosphate	white
+geranylgeranyl diphosphate synthase, type I	2.5.1.1	Dimethylallyl diphosphate	Diphosphate	green
+geranylgeranyl diphosphate synthase, type I	2.5.1.1	Dimethylallyl diphosphate	Geranyl diphosphate	green
+geranylgeranyl diphosphate synthase, type I	2.5.1.1	Geranyl diphosphate	Diphosphate	green
+geranylgeranyl diphosphate synthase, type I	2.5.1.1	Geranyl diphosphate	trans,trans-Farnesyl diphosphate	green
+geranylgeranyl diphosphate synthase, type I	2.5.1.1	Isopentenyl diphosphate	Diphosphate	green
+geranylgeranyl diphosphate synthase, type I	2.5.1.1	Isopentenyl diphosphate	Geranyl diphosphate	green
+geranylgeranyl diphosphate synthase, type I	2.5.1.1	Isopentenyl diphosphate	Geranylgeranyl diphosphate	green
+geranylgeranyl diphosphate synthase, type I	2.5.1.1	Isopentenyl diphosphate	trans,trans-Farnesyl diphosphate	green
+geranylgeranyl diphosphate synthase, type I	2.5.1.1	trans,trans-Farnesyl diphosphate	Diphosphate	green
+geranylgeranyl diphosphate synthase, type I	2.5.1.1	trans,trans-Farnesyl diphosphate	Geranylgeranyl diphosphate	green
+geranylgeranyl diphosphate/geranylgeranyl-bacteriochlorophyllide a reductase	1.3.1.83	Geranylgeranyl diphosphate	NADP+	white
+geranylgeranyl diphosphate/geranylgeranyl-bacteriochlorophyllide a reductase	1.3.1.83	Geranylgeranyl diphosphate	Phytyl diphosphate	white
+geranylgeranyl diphosphate/geranylgeranyl-bacteriochlorophyllide a reductase	1.3.1.83	H+	NADP+	white
+geranylgeranyl diphosphate/geranylgeranyl-bacteriochlorophyllide a reductase	1.3.1.83	H+	Phytyl diphosphate	white
+geranylgeranyl diphosphate/geranylgeranyl-bacteriochlorophyllide a reductase	1.3.1.83	NADP+	Geranylgeranyl diphosphate	white
+geranylgeranyl diphosphate/geranylgeranyl-bacteriochlorophyllide a reductase	1.3.1.83	NADP+	H+	white
+geranylgeranyl diphosphate/geranylgeranyl-bacteriochlorophyllide a reductase	1.3.1.83	NADP+	NADPH	white
+geranylgeranyl diphosphate/geranylgeranyl-bacteriochlorophyllide a reductase	1.3.1.83	NADPH	NADP+	white
+geranylgeranyl diphosphate/geranylgeranyl-bacteriochlorophyllide a reductase	1.3.1.83	NADPH	Phytyl diphosphate	white
+geranylgeranyl diphosphate/geranylgeranyl-bacteriochlorophyllide a reductase	1.3.1.83	Phytyl diphosphate	Geranylgeranyl diphosphate	white
+geranylgeranyl diphosphate/geranylgeranyl-bacteriochlorophyllide a reductase	1.3.1.83	Phytyl diphosphate	H+	white
+geranylgeranyl diphosphate/geranylgeranyl-bacteriochlorophyllide a reductase	1.3.1.83	Phytyl diphosphate	NADPH	white
+heptaprenyl diphosphate synthase component 1	2.5.1.30	Diphosphate	Isopentenyl diphosphate	white
+heptaprenyl diphosphate synthase component 1	2.5.1.30	Diphosphate	trans,trans-Farnesyl diphosphate	white
+heptaprenyl diphosphate synthase component 1	2.5.1.30	Isopentenyl diphosphate	Diphosphate	white
+heptaprenyl diphosphate synthase component 1	2.5.1.30	Isopentenyl diphosphate	all-trans-Heptaprenyl diphosphate	white
+heptaprenyl diphosphate synthase component 1	2.5.1.30	all-trans-Heptaprenyl diphosphate	Isopentenyl diphosphate	white
+heptaprenyl diphosphate synthase component 1	2.5.1.30	all-trans-Heptaprenyl diphosphate	trans,trans-Farnesyl diphosphate	white
+heptaprenyl diphosphate synthase component 1	2.5.1.30	trans,trans-Farnesyl diphosphate	Diphosphate	white
+heptaprenyl diphosphate synthase component 1	2.5.1.30	trans,trans-Farnesyl diphosphate	all-trans-Heptaprenyl diphosphate	white
+heptaprenyl diphosphate synthase component 2	2.5.1.30	Diphosphate	Isopentenyl diphosphate	white
+heptaprenyl diphosphate synthase component 2	2.5.1.30	Diphosphate	trans,trans-Farnesyl diphosphate	white
+heptaprenyl diphosphate synthase component 2	2.5.1.30	Isopentenyl diphosphate	Diphosphate	white
+heptaprenyl diphosphate synthase component 2	2.5.1.30	Isopentenyl diphosphate	all-trans-Heptaprenyl diphosphate	white
+heptaprenyl diphosphate synthase component 2	2.5.1.30	all-trans-Heptaprenyl diphosphate	Isopentenyl diphosphate	white
+heptaprenyl diphosphate synthase component 2	2.5.1.30	all-trans-Heptaprenyl diphosphate	trans,trans-Farnesyl diphosphate	white
+heptaprenyl diphosphate synthase component 2	2.5.1.30	trans,trans-Farnesyl diphosphate	Diphosphate	white
+heptaprenyl diphosphate synthase component 2	2.5.1.30	trans,trans-Farnesyl diphosphate	all-trans-Heptaprenyl diphosphate	white
+hexaprenyl diphosphate synthase	2.5.1.82	Diphosphate	Isopentenyl diphosphate	white
+hexaprenyl diphosphate synthase	2.5.1.82	Diphosphate	trans,trans-Farnesyl diphosphate	white
+hexaprenyl diphosphate synthase	2.5.1.82	Isopentenyl diphosphate	Diphosphate	white
+hexaprenyl diphosphate synthase	2.5.1.82	Isopentenyl diphosphate	all-trans-Hexaprenyl diphosphate	white
+hexaprenyl diphosphate synthase	2.5.1.82	all-trans-Hexaprenyl diphosphate	Isopentenyl diphosphate	white
+hexaprenyl diphosphate synthase	2.5.1.82	all-trans-Hexaprenyl diphosphate	trans,trans-Farnesyl diphosphate	white
+hexaprenyl diphosphate synthase	2.5.1.82	trans,trans-Farnesyl diphosphate	Diphosphate	white
+hexaprenyl diphosphate synthase	2.5.1.82	trans,trans-Farnesyl diphosphate	all-trans-Hexaprenyl diphosphate	white
+hexaprenyl diphosphate synthase large subunit	2.5.1.83	Diphosphate	Isopentenyl diphosphate	white
+hexaprenyl diphosphate synthase large subunit	2.5.1.83	Diphosphate	trans,trans-Farnesyl diphosphate	white
+hexaprenyl diphosphate synthase large subunit	2.5.1.83	Isopentenyl diphosphate	Diphosphate	white
+hexaprenyl diphosphate synthase large subunit	2.5.1.83	Isopentenyl diphosphate	all-trans-Hexaprenyl diphosphate	white
+hexaprenyl diphosphate synthase large subunit	2.5.1.83	all-trans-Hexaprenyl diphosphate	Isopentenyl diphosphate	white
+hexaprenyl diphosphate synthase large subunit	2.5.1.83	all-trans-Hexaprenyl diphosphate	trans,trans-Farnesyl diphosphate	white
+hexaprenyl diphosphate synthase large subunit	2.5.1.83	trans,trans-Farnesyl diphosphate	Diphosphate	white
+hexaprenyl diphosphate synthase large subunit	2.5.1.83	trans,trans-Farnesyl diphosphate	all-trans-Hexaprenyl diphosphate	white
+hexaprenyl diphosphate synthase small subunit	2.5.1.83	Diphosphate	Isopentenyl diphosphate	white
+hexaprenyl diphosphate synthase small subunit	2.5.1.83	Diphosphate	trans,trans-Farnesyl diphosphate	white
+hexaprenyl diphosphate synthase small subunit	2.5.1.83	Isopentenyl diphosphate	Diphosphate	white
+hexaprenyl diphosphate synthase small subunit	2.5.1.83	Isopentenyl diphosphate	all-trans-Hexaprenyl diphosphate	white
+hexaprenyl diphosphate synthase small subunit	2.5.1.83	all-trans-Hexaprenyl diphosphate	Isopentenyl diphosphate	white
+hexaprenyl diphosphate synthase small subunit	2.5.1.83	all-trans-Hexaprenyl diphosphate	trans,trans-Farnesyl diphosphate	white
+hexaprenyl diphosphate synthase small subunit	2.5.1.83	trans,trans-Farnesyl diphosphate	Diphosphate	white
+hexaprenyl diphosphate synthase small subunit	2.5.1.83	trans,trans-Farnesyl diphosphate	all-trans-Hexaprenyl diphosphate	white
+hydroxymethylglutaryl-CoA reductase	1.1.1.88	(R)-Mevalonate	(S)-3-Hydroxy-3-methylglutaryl-CoA	green
+hydroxymethylglutaryl-CoA reductase	1.1.1.88	(R)-Mevalonate	H+	green
+hydroxymethylglutaryl-CoA reductase	1.1.1.88	(R)-Mevalonate	NADH	green
+hydroxymethylglutaryl-CoA reductase	1.1.1.88	(S)-3-Hydroxy-3-methylglutaryl-CoA	(R)-Mevalonate	green
+hydroxymethylglutaryl-CoA reductase	1.1.1.88	(S)-3-Hydroxy-3-methylglutaryl-CoA	CoA	green
+hydroxymethylglutaryl-CoA reductase	1.1.1.88	(S)-3-Hydroxy-3-methylglutaryl-CoA	NAD+	green
+hydroxymethylglutaryl-CoA reductase	1.1.1.88	CoA	(S)-3-Hydroxy-3-methylglutaryl-CoA	green
+hydroxymethylglutaryl-CoA reductase	1.1.1.88	CoA	H+	green
+hydroxymethylglutaryl-CoA reductase	1.1.1.88	CoA	NADH	green
+hydroxymethylglutaryl-CoA reductase	1.1.1.88	H+	(R)-Mevalonate	green
+hydroxymethylglutaryl-CoA reductase	1.1.1.88	H+	CoA	green
+hydroxymethylglutaryl-CoA reductase	1.1.1.88	H+	NAD+	green
+hydroxymethylglutaryl-CoA reductase	1.1.1.88	NAD+	(S)-3-Hydroxy-3-methylglutaryl-CoA	green
+hydroxymethylglutaryl-CoA reductase	1.1.1.88	NAD+	H+	green
+hydroxymethylglutaryl-CoA reductase	1.1.1.88	NAD+	NADH	green
+hydroxymethylglutaryl-CoA reductase	1.1.1.88	NADH	(R)-Mevalonate	green
+hydroxymethylglutaryl-CoA reductase	1.1.1.88	NADH	CoA	green
+hydroxymethylglutaryl-CoA reductase	1.1.1.88	NADH	NAD+	green
+hydroxymethylglutaryl-CoA reductase (NADPH)	1.1.1.34	(R)-Mevalonate	(S)-3-Hydroxy-3-methylglutaryl-CoA	white
+hydroxymethylglutaryl-CoA reductase (NADPH)	1.1.1.34	(R)-Mevalonate	H+	white
+hydroxymethylglutaryl-CoA reductase (NADPH)	1.1.1.34	(R)-Mevalonate	NADPH	white
+hydroxymethylglutaryl-CoA reductase (NADPH)	1.1.1.34	(S)-3-Hydroxy-3-methylglutaryl-CoA	(R)-Mevalonate	white
+hydroxymethylglutaryl-CoA reductase (NADPH)	1.1.1.34	(S)-3-Hydroxy-3-methylglutaryl-CoA	CoA	white
+hydroxymethylglutaryl-CoA reductase (NADPH)	1.1.1.34	(S)-3-Hydroxy-3-methylglutaryl-CoA	NADP+	white
+hydroxymethylglutaryl-CoA reductase (NADPH)	1.1.1.34	CoA	(S)-3-Hydroxy-3-methylglutaryl-CoA	white
+hydroxymethylglutaryl-CoA reductase (NADPH)	1.1.1.34	CoA	H+	white
+hydroxymethylglutaryl-CoA reductase (NADPH)	1.1.1.34	CoA	NADPH	white
+hydroxymethylglutaryl-CoA reductase (NADPH)	1.1.1.34	H+	(R)-Mevalonate	white
+hydroxymethylglutaryl-CoA reductase (NADPH)	1.1.1.34	H+	CoA	white
+hydroxymethylglutaryl-CoA reductase (NADPH)	1.1.1.34	H+	NADP+	white
+hydroxymethylglutaryl-CoA reductase (NADPH)	1.1.1.34	NADP+	(S)-3-Hydroxy-3-methylglutaryl-CoA	white
+hydroxymethylglutaryl-CoA reductase (NADPH)	1.1.1.34	NADP+	H+	white
+hydroxymethylglutaryl-CoA reductase (NADPH)	1.1.1.34	NADP+	NADPH	white
+hydroxymethylglutaryl-CoA reductase (NADPH)	1.1.1.34	NADPH	(R)-Mevalonate	white
+hydroxymethylglutaryl-CoA reductase (NADPH)	1.1.1.34	NADPH	CoA	white
+hydroxymethylglutaryl-CoA reductase (NADPH)	1.1.1.34	NADPH	NADP+	white
+hydroxymethylglutaryl-CoA synthase	2.3.3.10	(S)-3-Hydroxy-3-methylglutaryl-CoA	Acetoacetyl-CoA	green
+hydroxymethylglutaryl-CoA synthase	2.3.3.10	(S)-3-Hydroxy-3-methylglutaryl-CoA	Acetyl-CoA	green
+hydroxymethylglutaryl-CoA synthase	2.3.3.10	(S)-3-Hydroxy-3-methylglutaryl-CoA	H2O	green
+hydroxymethylglutaryl-CoA synthase	2.3.3.10	CoA	Acetoacetyl-CoA	green
+hydroxymethylglutaryl-CoA synthase	2.3.3.10	CoA	Acetyl-CoA	green
+hydroxymethylglutaryl-CoA synthase	2.3.3.10	CoA	H2O	green
+intramembrane prenyl-peptidase	3.4.26.1	H2O	Peptide	white
+intramembrane prenyl-peptidase	3.4.26.1	H2O	Protein C-terminal S-farnesyl-L-cysteine	white
+intramembrane prenyl-peptidase	3.4.26.1	Peptide	H2O	white
+intramembrane prenyl-peptidase	3.4.26.1	Peptide	S-Farnesyl protein	white
+intramembrane prenyl-peptidase	3.4.26.1	Protein C-terminal S-farnesyl-L-cysteine	H2O	white
+intramembrane prenyl-peptidase	3.4.26.1	Protein C-terminal S-farnesyl-L-cysteine	S-Farnesyl protein	white
+intramembrane prenyl-peptidase	3.4.26.1	S-Farnesyl protein	Peptide	white
+intramembrane prenyl-peptidase	3.4.26.1	S-Farnesyl protein	Protein C-terminal S-farnesyl-L-cysteine	white
+isopentenyl phosphate kinase	2.7.4.26	ADP	ATP	white
+isopentenyl phosphate kinase	2.7.4.26	ADP	Isopentenyl phosphate	white
+isopentenyl phosphate kinase	2.7.4.26	ATP	ADP	white
+isopentenyl phosphate kinase	2.7.4.26	ATP	Isopentenyl diphosphate	white
+isopentenyl phosphate kinase	2.7.4.26	Isopentenyl diphosphate	ATP	white
+isopentenyl phosphate kinase	2.7.4.26	Isopentenyl diphosphate	Isopentenyl phosphate	white
+isopentenyl phosphate kinase	2.7.4.26	Isopentenyl phosphate	ADP	white
+isopentenyl phosphate kinase	2.7.4.26	Isopentenyl phosphate	Isopentenyl diphosphate	white
+isopentenyl-diphosphate Delta-isomerase	5.3.3.2	Dimethylallyl diphosphate	Isopentenyl diphosphate	white
+isopentenyl-diphosphate Delta-isomerase	5.3.3.2	Isopentenyl diphosphate	Dimethylallyl diphosphate	white
+isoprene synthase	4.2.3.27	Dimethylallyl diphosphate	Diphosphate	white
+isoprene synthase	4.2.3.27	Dimethylallyl diphosphate	Isoprene	white
+isoprene synthase	4.2.3.27	Diphosphate	Dimethylallyl diphosphate	white
+isoprene synthase	4.2.3.27	Isoprene	Dimethylallyl diphosphate	white
+mevalonate kinase	2.7.1.36	(R)-5-Phosphomevalonate	(R)-Mevalonate	white
+mevalonate kinase	2.7.1.36	(R)-5-Phosphomevalonate	ATP	white
+mevalonate kinase	2.7.1.36	(R)-Mevalonate	(R)-5-Phosphomevalonate	white
+mevalonate kinase	2.7.1.36	(R)-Mevalonate	ADP	white
+mevalonate kinase	2.7.1.36	ADP	(R)-Mevalonate	white
+mevalonate kinase	2.7.1.36	ADP	ATP	white
+mevalonate kinase	2.7.1.36	ATP	(R)-5-Phosphomevalonate	white
+mevalonate kinase	2.7.1.36	ATP	ADP	white
+mevalonate-3-kinase	2.7.1.185	(R)-Mevalonate	(R)-Mevalonate 3-phosphate	white
+mevalonate-3-kinase	2.7.1.185	(R)-Mevalonate	ADP	white
+mevalonate-3-kinase	2.7.1.185	(R)-Mevalonate 3-phosphate	(R)-Mevalonate	white
+mevalonate-3-kinase	2.7.1.185	(R)-Mevalonate 3-phosphate	ATP	white
+mevalonate-3-kinase	2.7.1.185	ADP	(R)-Mevalonate	white
+mevalonate-3-kinase	2.7.1.185	ADP	ATP	white
+mevalonate-3-kinase	2.7.1.185	ATP	(R)-Mevalonate 3-phosphate	white
+mevalonate-3-kinase	2.7.1.185	ATP	ADP	white
+mevalonate-3-phosphate-5-kinase	2.7.1.186	(R)-Mevalonate 3,5-bisphosphate	(R)-Mevalonate 3-phosphate	white
+mevalonate-3-phosphate-5-kinase	2.7.1.186	(R)-Mevalonate 3,5-bisphosphate	ATP	white
+mevalonate-3-phosphate-5-kinase	2.7.1.186	(R)-Mevalonate 3-phosphate	(R)-Mevalonate 3,5-bisphosphate	white
+mevalonate-3-phosphate-5-kinase	2.7.1.186	(R)-Mevalonate 3-phosphate	ADP	white
+mevalonate-3-phosphate-5-kinase	2.7.1.186	ADP	(R)-Mevalonate 3-phosphate	white
+mevalonate-3-phosphate-5-kinase	2.7.1.186	ADP	ATP	white
+mevalonate-3-phosphate-5-kinase	2.7.1.186	ATP	(R)-Mevalonate 3,5-bisphosphate	white
+mevalonate-3-phosphate-5-kinase	2.7.1.186	ATP	ADP	white
+octaprenyl-diphosphate synthase	2.5.1.90	Diphosphate	Isopentenyl diphosphate	white
+octaprenyl-diphosphate synthase	2.5.1.90	Diphosphate	trans,trans-Farnesyl diphosphate	white
+octaprenyl-diphosphate synthase	2.5.1.90	Isopentenyl diphosphate	Diphosphate	white
+octaprenyl-diphosphate synthase	2.5.1.90	Isopentenyl diphosphate	all-trans-Octaprenyl diphosphate	white
+octaprenyl-diphosphate synthase	2.5.1.90	all-trans-Octaprenyl diphosphate	Isopentenyl diphosphate	white
+octaprenyl-diphosphate synthase	2.5.1.90	all-trans-Octaprenyl diphosphate	trans,trans-Farnesyl diphosphate	white
+octaprenyl-diphosphate synthase	2.5.1.90	trans,trans-Farnesyl diphosphate	Diphosphate	white
+octaprenyl-diphosphate synthase	2.5.1.90	trans,trans-Farnesyl diphosphate	all-trans-Octaprenyl diphosphate	white
+phosphomecalonate degydratase large subunit	4.2.1.182	(R)-5-Phosphomevalonate	H2O	white
+phosphomecalonate degydratase large subunit	4.2.1.182	(R)-5-Phosphomevalonate	trans-Anhydromevalonate 5-phosphate	white
+phosphomecalonate degydratase large subunit	4.2.1.182	H2O	(R)-5-Phosphomevalonate	white
+phosphomecalonate degydratase large subunit	4.2.1.182	trans-Anhydromevalonate 5-phosphate	(R)-5-Phosphomevalonate	white
+phosphomecalonate degydratase small subunit	4.2.1.182	(R)-5-Phosphomevalonate	H2O	white
+phosphomecalonate degydratase small subunit	4.2.1.182	(R)-5-Phosphomevalonate	trans-Anhydromevalonate 5-phosphate	white
+phosphomecalonate degydratase small subunit	4.2.1.182	H2O	(R)-5-Phosphomevalonate	white
+phosphomecalonate degydratase small subunit	4.2.1.182	trans-Anhydromevalonate 5-phosphate	(R)-5-Phosphomevalonate	white
+phosphomevalonate decarboxylase	4.1.1.99	(R)-5-Phosphomevalonate	ADP	white
+phosphomevalonate decarboxylase	4.1.1.99	(R)-5-Phosphomevalonate	CO2	white
+phosphomevalonate decarboxylase	4.1.1.99	(R)-5-Phosphomevalonate	Isopentenyl phosphate	white
+phosphomevalonate decarboxylase	4.1.1.99	(R)-5-Phosphomevalonate	Orthophosphate	white
+phosphomevalonate decarboxylase	4.1.1.99	ADP	(R)-5-Phosphomevalonate	white
+phosphomevalonate decarboxylase	4.1.1.99	ADP	ATP	white
+phosphomevalonate decarboxylase	4.1.1.99	ATP	ADP	white
+phosphomevalonate decarboxylase	4.1.1.99	ATP	CO2	white
+phosphomevalonate decarboxylase	4.1.1.99	ATP	Isopentenyl phosphate	white
+phosphomevalonate decarboxylase	4.1.1.99	ATP	Orthophosphate	white
+phosphomevalonate decarboxylase	4.1.1.99	CO2	(R)-5-Phosphomevalonate	white
+phosphomevalonate decarboxylase	4.1.1.99	CO2	ATP	white
+phosphomevalonate decarboxylase	4.1.1.99	Isopentenyl phosphate	(R)-5-Phosphomevalonate	white
+phosphomevalonate decarboxylase	4.1.1.99	Isopentenyl phosphate	ATP	white
+phosphomevalonate decarboxylase	4.1.1.99	Orthophosphate	(R)-5-Phosphomevalonate	white
+phosphomevalonate decarboxylase	4.1.1.99	Orthophosphate	ATP	white
+phosphomevalonate kinase	2.7.4.2	(R)-5-Diphosphomevalonate	(R)-5-Phosphomevalonate	white
+phosphomevalonate kinase	2.7.4.2	(R)-5-Diphosphomevalonate	ATP	white
+phosphomevalonate kinase	2.7.4.2	(R)-5-Phosphomevalonate	(R)-5-Diphosphomevalonate	white
+phosphomevalonate kinase	2.7.4.2	(R)-5-Phosphomevalonate	ADP	white
+phosphomevalonate kinase	2.7.4.2	ADP	(R)-5-Phosphomevalonate	white
+phosphomevalonate kinase	2.7.4.2	ADP	ATP	white
+phosphomevalonate kinase	2.7.4.2	ATP	(R)-5-Diphosphomevalonate	white
+phosphomevalonate kinase	2.7.4.2	ATP	ADP	white
+prenylcysteine alpha-carboxyl methylesterase	3.1.1.-	H2O	Methanol	white
+prenylcysteine alpha-carboxyl methylesterase	3.1.1.-	H2O	Protein C-terminal S-farnesyl-L-cysteine	white
+prenylcysteine alpha-carboxyl methylesterase	3.1.1.-	Methanol	H2O	white
+prenylcysteine alpha-carboxyl methylesterase	3.1.1.-	Methanol	Protein C-terminal S-farnesyl-L-cysteine methyl ester	white
+prenylcysteine alpha-carboxyl methylesterase	3.1.1.-	Protein C-terminal S-farnesyl-L-cysteine	H2O	white
+prenylcysteine alpha-carboxyl methylesterase	3.1.1.-	Protein C-terminal S-farnesyl-L-cysteine	Protein C-terminal S-farnesyl-L-cysteine methyl ester	white
+prenylcysteine alpha-carboxyl methylesterase	3.1.1.-	Protein C-terminal S-farnesyl-L-cysteine methyl ester	Methanol	white
+prenylcysteine alpha-carboxyl methylesterase	3.1.1.-	Protein C-terminal S-farnesyl-L-cysteine methyl ester	Protein C-terminal S-farnesyl-L-cysteine	white
+prenylcysteine oxidase / farnesylcysteine lyase	1.8.3.5	2-trans,6-trans-Farnesal	Farnesylcysteine	white
+prenylcysteine oxidase / farnesylcysteine lyase	1.8.3.5	2-trans,6-trans-Farnesal	H2O	white
+prenylcysteine oxidase / farnesylcysteine lyase	1.8.3.5	2-trans,6-trans-Farnesal	Oxygen	white
+prenylcysteine oxidase / farnesylcysteine lyase	1.8.3.5	Farnesylcysteine	2-trans,6-trans-Farnesal	white
+prenylcysteine oxidase / farnesylcysteine lyase	1.8.3.5	Farnesylcysteine	Hydrogen peroxide	white
+prenylcysteine oxidase / farnesylcysteine lyase	1.8.3.5	Farnesylcysteine	L-Cysteine	white
+prenylcysteine oxidase / farnesylcysteine lyase	1.8.3.5	H2O	2-trans,6-trans-Farnesal	white
+prenylcysteine oxidase / farnesylcysteine lyase	1.8.3.5	H2O	Hydrogen peroxide	white
+prenylcysteine oxidase / farnesylcysteine lyase	1.8.3.5	H2O	L-Cysteine	white
+prenylcysteine oxidase / farnesylcysteine lyase	1.8.3.5	Hydrogen peroxide	Farnesylcysteine	white
+prenylcysteine oxidase / farnesylcysteine lyase	1.8.3.5	Hydrogen peroxide	H2O	white
+prenylcysteine oxidase / farnesylcysteine lyase	1.8.3.5	Hydrogen peroxide	Oxygen	white
+prenylcysteine oxidase / farnesylcysteine lyase	1.8.3.5	L-Cysteine	Farnesylcysteine	white
+prenylcysteine oxidase / farnesylcysteine lyase	1.8.3.5	L-Cysteine	H2O	white
+prenylcysteine oxidase / farnesylcysteine lyase	1.8.3.5	L-Cysteine	Oxygen	white
+prenylcysteine oxidase / farnesylcysteine lyase	1.8.3.5	Oxygen	2-trans,6-trans-Farnesal	white
+prenylcysteine oxidase / farnesylcysteine lyase	1.8.3.5	Oxygen	Hydrogen peroxide	white
+prenylcysteine oxidase / farnesylcysteine lyase	1.8.3.5	Oxygen	L-Cysteine	white
+protein farnesyltransferase subunit beta	2.5.1.58	Diphosphate	Protein-cysteine	white
+protein farnesyltransferase subunit beta	2.5.1.58	Diphosphate	trans,trans-Farnesyl diphosphate	white
+protein farnesyltransferase subunit beta	2.5.1.58	Protein-cysteine	Diphosphate	white
+protein farnesyltransferase subunit beta	2.5.1.58	Protein-cysteine	S-Farnesyl protein	white
+protein farnesyltransferase subunit beta	2.5.1.58	S-Farnesyl protein	Protein-cysteine	white
+protein farnesyltransferase subunit beta	2.5.1.58	S-Farnesyl protein	trans,trans-Farnesyl diphosphate	white
+protein farnesyltransferase subunit beta	2.5.1.58	trans,trans-Farnesyl diphosphate	Diphosphate	white
+protein farnesyltransferase subunit beta	2.5.1.58	trans,trans-Farnesyl diphosphate	S-Farnesyl protein	white
+protein farnesyltransferase/geranylgeranyltransferase type-1 subunit alpha	2.5.1.58	Diphosphate	Protein-cysteine	white
+protein farnesyltransferase/geranylgeranyltransferase type-1 subunit alpha	2.5.1.58	Diphosphate	trans,trans-Farnesyl diphosphate	white
+protein farnesyltransferase/geranylgeranyltransferase type-1 subunit alpha	2.5.1.58	Protein-cysteine	Diphosphate	white
+protein farnesyltransferase/geranylgeranyltransferase type-1 subunit alpha	2.5.1.58	Protein-cysteine	S-Farnesyl protein	white
+protein farnesyltransferase/geranylgeranyltransferase type-1 subunit alpha	2.5.1.58	S-Farnesyl protein	Protein-cysteine	white
+protein farnesyltransferase/geranylgeranyltransferase type-1 subunit alpha	2.5.1.58	S-Farnesyl protein	trans,trans-Farnesyl diphosphate	white
+protein farnesyltransferase/geranylgeranyltransferase type-1 subunit alpha	2.5.1.58	trans,trans-Farnesyl diphosphate	Diphosphate	white
+protein farnesyltransferase/geranylgeranyltransferase type-1 subunit alpha	2.5.1.58	trans,trans-Farnesyl diphosphate	S-Farnesyl protein	white
+protein-S-isoprenylcysteine O-methyltransferase	2.1.1.100	Protein C-terminal S-farnesyl-L-cysteine	Protein C-terminal S-farnesyl-L-cysteine methyl ester	white
+protein-S-isoprenylcysteine O-methyltransferase	2.1.1.100	Protein C-terminal S-farnesyl-L-cysteine	S-Adenosyl-L-homocysteine	white
+protein-S-isoprenylcysteine O-methyltransferase	2.1.1.100	Protein C-terminal S-farnesyl-L-cysteine methyl ester	Protein C-terminal S-farnesyl-L-cysteine	white
+protein-S-isoprenylcysteine O-methyltransferase	2.1.1.100	Protein C-terminal S-farnesyl-L-cysteine methyl ester	S-Adenosyl-L-methionine	white
+protein-S-isoprenylcysteine O-methyltransferase	2.1.1.100	S-Adenosyl-L-homocysteine	Protein C-terminal S-farnesyl-L-cysteine	white
+protein-S-isoprenylcysteine O-methyltransferase	2.1.1.100	S-Adenosyl-L-homocysteine	S-Adenosyl-L-methionine	white
+protein-S-isoprenylcysteine O-methyltransferase	2.1.1.100	S-Adenosyl-L-methionine	Protein C-terminal S-farnesyl-L-cysteine methyl ester	white
+protein-S-isoprenylcysteine O-methyltransferase	2.1.1.100	S-Adenosyl-L-methionine	S-Adenosyl-L-homocysteine	white
+short-chain Z-isoprenyl diphosphate synthase	2.5.1.68	Geranyl diphosphate	2-cis,6-trans-Farnesyl diphosphate	green
+short-chain Z-isoprenyl diphosphate synthase	2.5.1.68	Geranyl diphosphate	Diphosphate	green
+short-chain Z-isoprenyl diphosphate synthase	2.5.1.68	Isopentenyl diphosphate	2-cis,6-trans-Farnesyl diphosphate	green
+short-chain Z-isoprenyl diphosphate synthase	2.5.1.68	Isopentenyl diphosphate	Diphosphate	green
+trans,polycis-decaprenyl diphosphate synthase	2.5.1.86	2-cis,6-trans-Farnesyl diphosphate	Diphosphate	white
+trans,polycis-decaprenyl diphosphate synthase	2.5.1.86	2-cis,6-trans-Farnesyl diphosphate	trans,octacis-Decaprenyl diphosphate	white
+trans,polycis-decaprenyl diphosphate synthase	2.5.1.86	Diphosphate	2-cis,6-trans-Farnesyl diphosphate	white
+trans,polycis-decaprenyl diphosphate synthase	2.5.1.86	Diphosphate	Isopentenyl diphosphate	white
+trans,polycis-decaprenyl diphosphate synthase	2.5.1.86	Isopentenyl diphosphate	Diphosphate	white
+trans,polycis-decaprenyl diphosphate synthase	2.5.1.86	Isopentenyl diphosphate	trans,octacis-Decaprenyl diphosphate	white
+trans,polycis-decaprenyl diphosphate synthase	2.5.1.86	trans,octacis-Decaprenyl diphosphate	2-cis,6-trans-Farnesyl diphosphate	white
+trans,polycis-decaprenyl diphosphate synthase	2.5.1.86	trans,octacis-Decaprenyl diphosphate	Isopentenyl diphosphate	white
+trans,polycis-polyprenyl diphosphate synthase	2.5.1.88	2-cis,6-trans-Farnesyl diphosphate	Diphosphate	white
+trans,polycis-polyprenyl diphosphate synthase	2.5.1.88	2-cis,6-trans-Farnesyl diphosphate	trans,polycis-Polyprenyl diphosphate	white
+trans,polycis-polyprenyl diphosphate synthase	2.5.1.88	Diphosphate	2-cis,6-trans-Farnesyl diphosphate	white
+trans,polycis-polyprenyl diphosphate synthase	2.5.1.88	Diphosphate	Isopentenyl diphosphate	white
+trans,polycis-polyprenyl diphosphate synthase	2.5.1.88	Isopentenyl diphosphate	Diphosphate	white
+trans,polycis-polyprenyl diphosphate synthase	2.5.1.88	Isopentenyl diphosphate	trans,polycis-Polyprenyl diphosphate	white
+trans,polycis-polyprenyl diphosphate synthase	2.5.1.88	trans,polycis-Polyprenyl diphosphate	2-cis,6-trans-Farnesyl diphosphate	white
+trans,polycis-polyprenyl diphosphate synthase	2.5.1.88	trans,polycis-Polyprenyl diphosphate	Isopentenyl diphosphate	white
+tritrans,polycis-undecaprenyl-diphosphate synthase [geranylgeranyl-diphosphate specific]	2.5.1.89	Diphosphate	Geranylgeranyl diphosphate	white
+tritrans,polycis-undecaprenyl-diphosphate synthase [geranylgeranyl-diphosphate specific]	2.5.1.89	Diphosphate	Isopentenyl diphosphate	white
+tritrans,polycis-undecaprenyl-diphosphate synthase [geranylgeranyl-diphosphate specific]	2.5.1.89	Geranylgeranyl diphosphate	Diphosphate	white
+tritrans,polycis-undecaprenyl-diphosphate synthase [geranylgeranyl-diphosphate specific]	2.5.1.89	Geranylgeranyl diphosphate	tritrans,heptacis-Undecaprenyl diphosphate	white
+tritrans,polycis-undecaprenyl-diphosphate synthase [geranylgeranyl-diphosphate specific]	2.5.1.89	Isopentenyl diphosphate	Diphosphate	white
+tritrans,polycis-undecaprenyl-diphosphate synthase [geranylgeranyl-diphosphate specific]	2.5.1.89	Isopentenyl diphosphate	tritrans,heptacis-Undecaprenyl diphosphate	white
+tritrans,polycis-undecaprenyl-diphosphate synthase [geranylgeranyl-diphosphate specific]	2.5.1.89	tritrans,heptacis-Undecaprenyl diphosphate	Geranylgeranyl diphosphate	white
+tritrans,polycis-undecaprenyl-diphosphate synthase [geranylgeranyl-diphosphate specific]	2.5.1.89	tritrans,heptacis-Undecaprenyl diphosphate	Isopentenyl diphosphate	white
+undecaprenyl diphosphate synthase	2.5.1.31	Isopentenyl diphosphate	Diphosphate	green
+undecaprenyl diphosphate synthase	2.5.1.31	Isopentenyl diphosphate	di-trans,poly-cis-Undecaprenyl diphosphate	green
+undecaprenyl diphosphate synthase	2.5.1.31	trans,trans-Farnesyl diphosphate	Diphosphate	green
+undecaprenyl diphosphate synthase	2.5.1.31	trans,trans-Farnesyl diphosphate	di-trans,poly-cis-Undecaprenyl diphosphate	green

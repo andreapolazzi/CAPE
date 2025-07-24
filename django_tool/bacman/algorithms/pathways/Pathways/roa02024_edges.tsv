@@ -1,0 +1,1748 @@
+enzyme_name	EC	source	target	color
+(4S)-4-hydroxy-5-phosphonooxypentane-2,3-dione isomerase	5.3.1.32	(4S)-4-Hydroxy-5-phosphooxypentane-2,3-dione	3-Hydroxy-5-phosphooxypentane-2,4-dione	white
+(4S)-4-hydroxy-5-phosphonooxypentane-2,3-dione isomerase	5.3.1.32	3-Hydroxy-5-phosphooxypentane-2,4-dione	(4S)-4-Hydroxy-5-phosphooxypentane-2,3-dione	white
+(5R)-carbapenem-3-carboxylate synthase	1.14.20.3	(3S,5S)-Carbapenam-3-carboxylic acid	(5R)-Carbapen-2-em-3-carboxylate	white
+(5R)-carbapenem-3-carboxylate synthase	1.14.20.3	(3S,5S)-Carbapenam-3-carboxylic acid	CO2	white
+(5R)-carbapenem-3-carboxylate synthase	1.14.20.3	(3S,5S)-Carbapenam-3-carboxylic acid	H2O	white
+(5R)-carbapenem-3-carboxylate synthase	1.14.20.3	(3S,5S)-Carbapenam-3-carboxylic acid	Succinate	white
+(5R)-carbapenem-3-carboxylate synthase	1.14.20.3	(5R)-Carbapen-2-em-3-carboxylate	(3S,5S)-Carbapenam-3-carboxylic acid	white
+(5R)-carbapenem-3-carboxylate synthase	1.14.20.3	(5R)-Carbapen-2-em-3-carboxylate	2-Oxoglutarate	white
+(5R)-carbapenem-3-carboxylate synthase	1.14.20.3	(5R)-Carbapen-2-em-3-carboxylate	Oxygen	white
+(5R)-carbapenem-3-carboxylate synthase	1.14.20.3	2-Oxoglutarate	(5R)-Carbapen-2-em-3-carboxylate	white
+(5R)-carbapenem-3-carboxylate synthase	1.14.20.3	2-Oxoglutarate	CO2	white
+(5R)-carbapenem-3-carboxylate synthase	1.14.20.3	2-Oxoglutarate	H2O	white
+(5R)-carbapenem-3-carboxylate synthase	1.14.20.3	2-Oxoglutarate	Succinate	white
+(5R)-carbapenem-3-carboxylate synthase	1.14.20.3	CO2	(3S,5S)-Carbapenam-3-carboxylic acid	white
+(5R)-carbapenem-3-carboxylate synthase	1.14.20.3	CO2	2-Oxoglutarate	white
+(5R)-carbapenem-3-carboxylate synthase	1.14.20.3	CO2	Oxygen	white
+(5R)-carbapenem-3-carboxylate synthase	1.14.20.3	H2O	(3S,5S)-Carbapenam-3-carboxylic acid	white
+(5R)-carbapenem-3-carboxylate synthase	1.14.20.3	H2O	2-Oxoglutarate	white
+(5R)-carbapenem-3-carboxylate synthase	1.14.20.3	H2O	Oxygen	white
+(5R)-carbapenem-3-carboxylate synthase	1.14.20.3	Oxygen	(5R)-Carbapen-2-em-3-carboxylate	white
+(5R)-carbapenem-3-carboxylate synthase	1.14.20.3	Oxygen	CO2	white
+(5R)-carbapenem-3-carboxylate synthase	1.14.20.3	Oxygen	H2O	white
+(5R)-carbapenem-3-carboxylate synthase	1.14.20.3	Oxygen	Succinate	white
+(5R)-carbapenem-3-carboxylate synthase	1.14.20.3	Succinate	(3S,5S)-Carbapenam-3-carboxylic acid	white
+(5R)-carbapenem-3-carboxylate synthase	1.14.20.3	Succinate	2-Oxoglutarate	white
+(5R)-carbapenem-3-carboxylate synthase	1.14.20.3	Succinate	Oxygen	white
+2-amino-4-deoxychorismate synthase	2.6.1.86	2-Amino-2-deoxyisochorismate	Chorismate	white
+2-amino-4-deoxychorismate synthase	2.6.1.86	2-Amino-2-deoxyisochorismate	L-Glutamine	white
+2-amino-4-deoxychorismate synthase	2.6.1.86	Chorismate	2-Amino-2-deoxyisochorismate	white
+2-amino-4-deoxychorismate synthase	2.6.1.86	Chorismate	L-Glutamate	white
+2-amino-4-deoxychorismate synthase	2.6.1.86	L-Glutamate	Chorismate	white
+2-amino-4-deoxychorismate synthase	2.6.1.86	L-Glutamate	L-Glutamine	white
+2-amino-4-deoxychorismate synthase	2.6.1.86	L-Glutamine	2-Amino-2-deoxyisochorismate	white
+2-amino-4-deoxychorismate synthase	2.6.1.86	L-Glutamine	L-Glutamate	white
+2-aminobenzoylacetyl-CoA thioesterase	3.1.2.32	(2-Aminobenzoyl)acetate	(2-Aminobenzoyl)acetyl-CoA	white
+2-aminobenzoylacetyl-CoA thioesterase	3.1.2.32	(2-Aminobenzoyl)acetate	H2O	white
+2-aminobenzoylacetyl-CoA thioesterase	3.1.2.32	(2-Aminobenzoyl)acetyl-CoA	(2-Aminobenzoyl)acetate	white
+2-aminobenzoylacetyl-CoA thioesterase	3.1.2.32	(2-Aminobenzoyl)acetyl-CoA	CoA	white
+2-aminobenzoylacetyl-CoA thioesterase	3.1.2.32	CoA	(2-Aminobenzoyl)acetyl-CoA	white
+2-aminobenzoylacetyl-CoA thioesterase	3.1.2.32	CoA	H2O	white
+2-aminobenzoylacetyl-CoA thioesterase	3.1.2.32	H2O	(2-Aminobenzoyl)acetate	white
+2-aminobenzoylacetyl-CoA thioesterase	3.1.2.32	H2O	CoA	white
+2-heptyl-3-hydroxy-4(1H)-quinolone synthase	1.14.13.182	2-Heptyl-3-hydroxy-quinolone	2-Heptyl-4(1H)-quinolone	white
+2-heptyl-3-hydroxy-4(1H)-quinolone synthase	1.14.13.182	2-Heptyl-3-hydroxy-quinolone	H+	white
+2-heptyl-3-hydroxy-4(1H)-quinolone synthase	1.14.13.182	2-Heptyl-3-hydroxy-quinolone	NADH	white
+2-heptyl-3-hydroxy-4(1H)-quinolone synthase	1.14.13.182	2-Heptyl-3-hydroxy-quinolone	Oxygen	white
+2-heptyl-3-hydroxy-4(1H)-quinolone synthase	1.14.13.182	2-Heptyl-4(1H)-quinolone	2-Heptyl-3-hydroxy-quinolone	white
+2-heptyl-3-hydroxy-4(1H)-quinolone synthase	1.14.13.182	2-Heptyl-4(1H)-quinolone	H2O	white
+2-heptyl-3-hydroxy-4(1H)-quinolone synthase	1.14.13.182	2-Heptyl-4(1H)-quinolone	NAD+	white
+2-heptyl-3-hydroxy-4(1H)-quinolone synthase	1.14.13.182	H+	2-Heptyl-3-hydroxy-quinolone	white
+2-heptyl-3-hydroxy-4(1H)-quinolone synthase	1.14.13.182	H+	H2O	white
+2-heptyl-3-hydroxy-4(1H)-quinolone synthase	1.14.13.182	H+	NAD+	white
+2-heptyl-3-hydroxy-4(1H)-quinolone synthase	1.14.13.182	H2O	2-Heptyl-4(1H)-quinolone	white
+2-heptyl-3-hydroxy-4(1H)-quinolone synthase	1.14.13.182	H2O	H+	white
+2-heptyl-3-hydroxy-4(1H)-quinolone synthase	1.14.13.182	H2O	NADH	white
+2-heptyl-3-hydroxy-4(1H)-quinolone synthase	1.14.13.182	H2O	Oxygen	white
+2-heptyl-3-hydroxy-4(1H)-quinolone synthase	1.14.13.182	NAD+	2-Heptyl-4(1H)-quinolone	white
+2-heptyl-3-hydroxy-4(1H)-quinolone synthase	1.14.13.182	NAD+	H+	white
+2-heptyl-3-hydroxy-4(1H)-quinolone synthase	1.14.13.182	NAD+	NADH	white
+2-heptyl-3-hydroxy-4(1H)-quinolone synthase	1.14.13.182	NAD+	Oxygen	white
+2-heptyl-3-hydroxy-4(1H)-quinolone synthase	1.14.13.182	NADH	2-Heptyl-3-hydroxy-quinolone	white
+2-heptyl-3-hydroxy-4(1H)-quinolone synthase	1.14.13.182	NADH	H2O	white
+2-heptyl-3-hydroxy-4(1H)-quinolone synthase	1.14.13.182	NADH	NAD+	white
+2-heptyl-3-hydroxy-4(1H)-quinolone synthase	1.14.13.182	Oxygen	2-Heptyl-3-hydroxy-quinolone	white
+2-heptyl-3-hydroxy-4(1H)-quinolone synthase	1.14.13.182	Oxygen	H2O	white
+2-heptyl-3-hydroxy-4(1H)-quinolone synthase	1.14.13.182	Oxygen	NAD+	white
+2-heptyl-4(1H)-quinolone synthase subunit PqsB	2.3.1.230	2-Heptyl-4(1H)-quinolone	3-Oxodecanoate	white
+2-heptyl-4(1H)-quinolone synthase subunit PqsB	2.3.1.230	2-Heptyl-4(1H)-quinolone	Anthraniloyl-CoA	white
+2-heptyl-4(1H)-quinolone synthase subunit PqsB	2.3.1.230	3-Oxodecanoate	2-Heptyl-4(1H)-quinolone	white
+2-heptyl-4(1H)-quinolone synthase subunit PqsB	2.3.1.230	3-Oxodecanoate	CO2	white
+2-heptyl-4(1H)-quinolone synthase subunit PqsB	2.3.1.230	3-Oxodecanoate	CoA	white
+2-heptyl-4(1H)-quinolone synthase subunit PqsB	2.3.1.230	3-Oxodecanoate	H2O	white
+2-heptyl-4(1H)-quinolone synthase subunit PqsB	2.3.1.230	Anthraniloyl-CoA	2-Heptyl-4(1H)-quinolone	white
+2-heptyl-4(1H)-quinolone synthase subunit PqsB	2.3.1.230	Anthraniloyl-CoA	CO2	white
+2-heptyl-4(1H)-quinolone synthase subunit PqsB	2.3.1.230	Anthraniloyl-CoA	CoA	white
+2-heptyl-4(1H)-quinolone synthase subunit PqsB	2.3.1.230	Anthraniloyl-CoA	H2O	white
+2-heptyl-4(1H)-quinolone synthase subunit PqsB	2.3.1.230	CO2	3-Oxodecanoate	white
+2-heptyl-4(1H)-quinolone synthase subunit PqsB	2.3.1.230	CO2	Anthraniloyl-CoA	white
+2-heptyl-4(1H)-quinolone synthase subunit PqsB	2.3.1.230	CoA	3-Oxodecanoate	white
+2-heptyl-4(1H)-quinolone synthase subunit PqsB	2.3.1.230	CoA	Anthraniloyl-CoA	white
+2-heptyl-4(1H)-quinolone synthase subunit PqsB	2.3.1.230	H2O	3-Oxodecanoate	white
+2-heptyl-4(1H)-quinolone synthase subunit PqsB	2.3.1.230	H2O	Anthraniloyl-CoA	white
+2-heptyl-4(1H)-quinolone synthase subunit PqsC	2.3.1.230	2-Heptyl-4(1H)-quinolone	3-Oxodecanoate	white
+2-heptyl-4(1H)-quinolone synthase subunit PqsC	2.3.1.230	2-Heptyl-4(1H)-quinolone	Anthraniloyl-CoA	white
+2-heptyl-4(1H)-quinolone synthase subunit PqsC	2.3.1.230	3-Oxodecanoate	2-Heptyl-4(1H)-quinolone	white
+2-heptyl-4(1H)-quinolone synthase subunit PqsC	2.3.1.230	3-Oxodecanoate	CO2	white
+2-heptyl-4(1H)-quinolone synthase subunit PqsC	2.3.1.230	3-Oxodecanoate	CoA	white
+2-heptyl-4(1H)-quinolone synthase subunit PqsC	2.3.1.230	3-Oxodecanoate	H2O	white
+2-heptyl-4(1H)-quinolone synthase subunit PqsC	2.3.1.230	Anthraniloyl-CoA	2-Heptyl-4(1H)-quinolone	white
+2-heptyl-4(1H)-quinolone synthase subunit PqsC	2.3.1.230	Anthraniloyl-CoA	CO2	white
+2-heptyl-4(1H)-quinolone synthase subunit PqsC	2.3.1.230	Anthraniloyl-CoA	CoA	white
+2-heptyl-4(1H)-quinolone synthase subunit PqsC	2.3.1.230	Anthraniloyl-CoA	H2O	white
+2-heptyl-4(1H)-quinolone synthase subunit PqsC	2.3.1.230	CO2	3-Oxodecanoate	white
+2-heptyl-4(1H)-quinolone synthase subunit PqsC	2.3.1.230	CO2	Anthraniloyl-CoA	white
+2-heptyl-4(1H)-quinolone synthase subunit PqsC	2.3.1.230	CoA	3-Oxodecanoate	white
+2-heptyl-4(1H)-quinolone synthase subunit PqsC	2.3.1.230	CoA	Anthraniloyl-CoA	white
+2-heptyl-4(1H)-quinolone synthase subunit PqsC	2.3.1.230	H2O	3-Oxodecanoate	white
+2-heptyl-4(1H)-quinolone synthase subunit PqsC	2.3.1.230	H2O	Anthraniloyl-CoA	white
+3-hydroxy-5-phosphonooxypentane-2,4-dione thiolase	2.3.1.245	(4S)-4-Hydroxy-5-phosphooxypentane-2,3-dione	(S)-4,5-Dihydroxypentane-2,3-dione	white
+3-hydroxy-5-phosphonooxypentane-2,4-dione thiolase	2.3.1.245	(4S)-4-Hydroxy-5-phosphooxypentane-2,3-dione	ATP	white
+3-hydroxy-5-phosphonooxypentane-2,4-dione thiolase	2.3.1.245	(S)-4,5-Dihydroxypentane-2,3-dione	(4S)-4-Hydroxy-5-phosphooxypentane-2,3-dione	white
+3-hydroxy-5-phosphonooxypentane-2,4-dione thiolase	2.3.1.245	(S)-4,5-Dihydroxypentane-2,3-dione	ADP	white
+3-hydroxy-5-phosphonooxypentane-2,4-dione thiolase	2.3.1.245	ADP	(S)-4,5-Dihydroxypentane-2,3-dione	white
+3-hydroxy-5-phosphonooxypentane-2,4-dione thiolase	2.3.1.245	ADP	ATP	white
+3-hydroxy-5-phosphonooxypentane-2,4-dione thiolase	2.3.1.245	ATP	(4S)-4-Hydroxy-5-phosphooxypentane-2,3-dione	white
+3-hydroxy-5-phosphonooxypentane-2,4-dione thiolase	2.3.1.245	ATP	ADP	white
+AI-2 transport system ATP-binding protein	7.5.2.-	beta-D-Ribofuranose	beta-D-Ribopyranose	white
+AI-2 transport system ATP-binding protein	7.5.2.-	beta-D-Ribopyranose	beta-D-Ribofuranose	white
+AI-2 transport system permease protein	7.5.2.-	beta-D-Ribofuranose	beta-D-Ribopyranose	white
+AI-2 transport system permease protein	7.5.2.-	beta-D-Ribopyranose	beta-D-Ribofuranose	white
+AI-2 transport system substrate-binding protein	7.5.2.-	beta-D-Ribofuranose	beta-D-Ribopyranose	white
+AI-2 transport system substrate-binding protein	7.5.2.-	beta-D-Ribopyranose	beta-D-Ribofuranose	white
+ATP-binding cassette, subfamily B, bacterial CylB	3.4.22.-	ADP	ATP	white
+ATP-binding cassette, subfamily B, bacterial CylB	3.4.22.-	ADP	H2O	white
+ATP-binding cassette, subfamily B, bacterial CylB	3.4.22.-	ADP	Tungstate	white
+ATP-binding cassette, subfamily B, bacterial CylB	3.4.22.-	ATP	ADP	white
+ATP-binding cassette, subfamily B, bacterial CylB	3.4.22.-	ATP	Orthophosphate	white
+ATP-binding cassette, subfamily B, bacterial CylB	3.4.22.-	ATP	Tungstate	white
+ATP-binding cassette, subfamily B, bacterial CylB	3.4.22.-	H2O	ADP	white
+ATP-binding cassette, subfamily B, bacterial CylB	3.4.22.-	H2O	Orthophosphate	white
+ATP-binding cassette, subfamily B, bacterial CylB	3.4.22.-	H2O	Tungstate	white
+ATP-binding cassette, subfamily B, bacterial CylB	3.4.22.-	Orthophosphate	ATP	white
+ATP-binding cassette, subfamily B, bacterial CylB	3.4.22.-	Orthophosphate	H2O	white
+ATP-binding cassette, subfamily B, bacterial CylB	3.4.22.-	Orthophosphate	Tungstate	white
+ATP-binding cassette, subfamily B, bacterial CylB	3.4.22.-	Tungstate	ADP	white
+ATP-binding cassette, subfamily B, bacterial CylB	3.4.22.-	Tungstate	ATP	white
+ATP-binding cassette, subfamily B, bacterial CylB	3.4.22.-	Tungstate	H2O	white
+ATP-binding cassette, subfamily B, bacterial CylB	3.4.22.-	Tungstate	Orthophosphate	white
+ATP-binding cassette, subfamily B, bacterial CylB	3.4.22.-	Tungstate	Tungstate	white
+ATP-binding cassette, subfamily B, bacterial NisT/SpaT	3.4.21.-	2,4-Diamino-6-hydroxylaminotoluene	2,4-Diamino-6-nitrotoluene	white
+ATP-binding cassette, subfamily B, bacterial NisT/SpaT	3.4.21.-	2,4-Diamino-6-nitrotoluene	2,4-Diamino-6-hydroxylaminotoluene	white
+ATP-binding cassette, subfamily C, bacterial, competence factor transporting protein	3.4.22.-	ADP	ATP	white
+ATP-binding cassette, subfamily C, bacterial, competence factor transporting protein	3.4.22.-	ADP	H2O	white
+ATP-binding cassette, subfamily C, bacterial, competence factor transporting protein	3.4.22.-	ADP	Tungstate	white
+ATP-binding cassette, subfamily C, bacterial, competence factor transporting protein	3.4.22.-	ATP	ADP	white
+ATP-binding cassette, subfamily C, bacterial, competence factor transporting protein	3.4.22.-	ATP	Orthophosphate	white
+ATP-binding cassette, subfamily C, bacterial, competence factor transporting protein	3.4.22.-	ATP	Tungstate	white
+ATP-binding cassette, subfamily C, bacterial, competence factor transporting protein	3.4.22.-	H2O	ADP	white
+ATP-binding cassette, subfamily C, bacterial, competence factor transporting protein	3.4.22.-	H2O	Orthophosphate	white
+ATP-binding cassette, subfamily C, bacterial, competence factor transporting protein	3.4.22.-	H2O	Tungstate	white
+ATP-binding cassette, subfamily C, bacterial, competence factor transporting protein	3.4.22.-	Orthophosphate	ATP	white
+ATP-binding cassette, subfamily C, bacterial, competence factor transporting protein	3.4.22.-	Orthophosphate	H2O	white
+ATP-binding cassette, subfamily C, bacterial, competence factor transporting protein	3.4.22.-	Orthophosphate	Tungstate	white
+ATP-binding cassette, subfamily C, bacterial, competence factor transporting protein	3.4.22.-	Tungstate	ADP	white
+ATP-binding cassette, subfamily C, bacterial, competence factor transporting protein	3.4.22.-	Tungstate	ATP	white
+ATP-binding cassette, subfamily C, bacterial, competence factor transporting protein	3.4.22.-	Tungstate	H2O	white
+ATP-binding cassette, subfamily C, bacterial, competence factor transporting protein	3.4.22.-	Tungstate	Orthophosphate	white
+ATP-binding cassette, subfamily C, bacterial, competence factor transporting protein	3.4.22.-	Tungstate	Tungstate	white
+ATP-binding cassette, subfamily C, bacteriocin exporter	7.2.2.5	ADP	ATP	white
+ATP-binding cassette, subfamily C, bacteriocin exporter	7.2.2.5	ADP	H2O	white
+ATP-binding cassette, subfamily C, bacteriocin exporter	7.2.2.5	ADP	Tungstate	white
+ATP-binding cassette, subfamily C, bacteriocin exporter	7.2.2.5	ATP	ADP	white
+ATP-binding cassette, subfamily C, bacteriocin exporter	7.2.2.5	ATP	Orthophosphate	white
+ATP-binding cassette, subfamily C, bacteriocin exporter	7.2.2.5	ATP	Tungstate	white
+ATP-binding cassette, subfamily C, bacteriocin exporter	7.2.2.5	H2O	ADP	white
+ATP-binding cassette, subfamily C, bacteriocin exporter	7.2.2.5	H2O	Orthophosphate	white
+ATP-binding cassette, subfamily C, bacteriocin exporter	7.2.2.5	H2O	Tungstate	white
+ATP-binding cassette, subfamily C, bacteriocin exporter	7.2.2.5	Orthophosphate	ATP	white
+ATP-binding cassette, subfamily C, bacteriocin exporter	7.2.2.5	Orthophosphate	H2O	white
+ATP-binding cassette, subfamily C, bacteriocin exporter	7.2.2.5	Orthophosphate	Tungstate	white
+ATP-binding cassette, subfamily C, bacteriocin exporter	7.2.2.5	Tungstate	ADP	white
+ATP-binding cassette, subfamily C, bacteriocin exporter	7.2.2.5	Tungstate	ATP	white
+ATP-binding cassette, subfamily C, bacteriocin exporter	7.2.2.5	Tungstate	H2O	white
+ATP-binding cassette, subfamily C, bacteriocin exporter	7.2.2.5	Tungstate	Orthophosphate	white
+ATP-binding cassette, subfamily C, bacteriocin exporter	7.2.2.5	Tungstate	Tungstate	white
+AgrD protein	2.7.7.61	2'-(5-Triphosphoribosyl)-3'-dephospho-CoA	ATP	white
+AgrD protein	2.7.7.61	2'-(5-Triphosphoribosyl)-3'-dephospho-CoA	Dephospho-CoA	white
+AgrD protein	2.7.7.61	ATP	2'-(5-Triphosphoribosyl)-3'-dephospho-CoA	white
+AgrD protein	2.7.7.61	ATP	Adenine	white
+AgrD protein	2.7.7.61	Adenine	ATP	white
+AgrD protein	2.7.7.61	Adenine	Dephospho-CoA	white
+AgrD protein	2.7.7.61	Dephospho-CoA	2'-(5-Triphosphoribosyl)-3'-dephospho-CoA	white
+AgrD protein	2.7.7.61	Dephospho-CoA	Adenine	white
+CAI-1 autoinducer synthase	2.3.-.-	H2O	N-Acyl-L-homoserine	white
+CAI-1 autoinducer synthase	2.3.-.-	N-Acyl-L-homoserine	H2O	white
+CAI-1 autoinducer synthase	2.3.-.-	N-Acyl-L-homoserine	N-Acyl-L-homoserine lactone	white
+CAI-1 autoinducer synthase	2.3.-.-	N-Acyl-L-homoserine lactone	N-Acyl-L-homoserine	white
+CylL-L protein	4.1.2.40	D-Glyceraldehyde 3-phosphate	D-Tagatose 1,6-bisphosphate	white
+CylL-L protein	4.1.2.40	D-Tagatose 1,6-bisphosphate	D-Glyceraldehyde 3-phosphate	white
+CylL-L protein	4.1.2.40	D-Tagatose 1,6-bisphosphate	Glycerone phosphate	white
+CylL-L protein	4.1.2.40	Glycerone phosphate	D-Tagatose 1,6-bisphosphate	white
+CylL-S protein	4.1.2.40	D-Glyceraldehyde 3-phosphate	D-Tagatose 1,6-bisphosphate	white
+CylL-S protein	4.1.2.40	D-Tagatose 1,6-bisphosphate	D-Glyceraldehyde 3-phosphate	white
+CylL-S protein	4.1.2.40	D-Tagatose 1,6-bisphosphate	Glycerone phosphate	white
+CylL-S protein	4.1.2.40	Glycerone phosphate	D-Tagatose 1,6-bisphosphate	white
+CylM protein	4.1.2.40	D-Glyceraldehyde 3-phosphate	D-Tagatose 1,6-bisphosphate	white
+CylM protein	4.1.2.40	D-Tagatose 1,6-bisphosphate	D-Glyceraldehyde 3-phosphate	white
+CylM protein	4.1.2.40	D-Tagatose 1,6-bisphosphate	Glycerone phosphate	white
+CylM protein	4.1.2.40	Glycerone phosphate	D-Tagatose 1,6-bisphosphate	white
+DSF synthase	2.7.13.3	3',5'-Cyclic diGMP	GTP	white
+DSF synthase	2.7.13.3	Diphosphate	GTP	white
+DSF synthase	2.7.13.3	GTP	3',5'-Cyclic diGMP	white
+DSF synthase	2.7.13.3	GTP	Diphosphate	white
+DeoR family transcriptional regulator, repressor of opine catabolism and conjugal transfer	3.1.4.52	4-(4-Deoxy-alpha-D-gluc-4-enuronosyl)-D-galacturonate	Pectate	white
+DeoR family transcriptional regulator, repressor of opine catabolism and conjugal transfer	3.1.4.52	Pectate	4-(4-Deoxy-alpha-D-gluc-4-enuronosyl)-D-galacturonate	white
+DeoR family transcriptional regulator, repressor of opine catabolism and conjugal transfer	3.1.4.52	Pectate	Pectate	white
+Fur family transcriptional regulator, zinc uptake regulator	3.4.24.-	D-Glyceraldehyde 3-phosphate	D-Tagatose 1,6-bisphosphate	white
+Fur family transcriptional regulator, zinc uptake regulator	3.4.24.-	D-Tagatose 1,6-bisphosphate	D-Glyceraldehyde 3-phosphate	white
+Fur family transcriptional regulator, zinc uptake regulator	3.4.24.-	D-Tagatose 1,6-bisphosphate	Glycerone phosphate	white
+Fur family transcriptional regulator, zinc uptake regulator	3.4.24.-	Glycerone phosphate	D-Tagatose 1,6-bisphosphate	white
+GTP cyclohydrolase II	3.5.4.25	2,5-Diamino-6-(5-phospho-D-ribosylamino)pyrimidin-4(3H)-one	GTP	white
+GTP cyclohydrolase II	3.5.4.25	2,5-Diamino-6-(5-phospho-D-ribosylamino)pyrimidin-4(3H)-one	H2O	white
+GTP cyclohydrolase II	3.5.4.25	Formate	GTP	white
+GTP cyclohydrolase II	3.5.4.25	Formate	H2O	white
+GTP cyclohydrolase II	3.5.4.25	GTP	2,5-Diamino-6-(5-phospho-D-ribosylamino)pyrimidin-4(3H)-one	white
+GTP cyclohydrolase II	3.5.4.25	GTP	Formate	white
+GTP cyclohydrolase II	3.5.4.25	GTP	Orthophosphate	white
+GTP cyclohydrolase II	3.5.4.25	H2O	2,5-Diamino-6-(5-phospho-D-ribosylamino)pyrimidin-4(3H)-one	white
+GTP cyclohydrolase II	3.5.4.25	H2O	Formate	white
+GTP cyclohydrolase II	3.5.4.25	H2O	Orthophosphate	white
+GTP cyclohydrolase II	3.5.4.25	Orthophosphate	GTP	white
+GTP cyclohydrolase II	3.5.4.25	Orthophosphate	H2O	white
+HTH-type transcriptional regulator, SHP2-responsive activator	3.5.4.25	2,5-Diamino-6-(5-phospho-D-ribosylamino)pyrimidin-4(3H)-one	GTP	white
+HTH-type transcriptional regulator, SHP2-responsive activator	3.5.4.25	2,5-Diamino-6-(5-phospho-D-ribosylamino)pyrimidin-4(3H)-one	H2O	white
+HTH-type transcriptional regulator, SHP2-responsive activator	3.5.4.25	Formate	GTP	white
+HTH-type transcriptional regulator, SHP2-responsive activator	3.5.4.25	Formate	H2O	white
+HTH-type transcriptional regulator, SHP2-responsive activator	3.5.4.25	GTP	2,5-Diamino-6-(5-phospho-D-ribosylamino)pyrimidin-4(3H)-one	white
+HTH-type transcriptional regulator, SHP2-responsive activator	3.5.4.25	GTP	Formate	white
+HTH-type transcriptional regulator, SHP2-responsive activator	3.5.4.25	GTP	Orthophosphate	white
+HTH-type transcriptional regulator, SHP2-responsive activator	3.5.4.25	H2O	2,5-Diamino-6-(5-phospho-D-ribosylamino)pyrimidin-4(3H)-one	white
+HTH-type transcriptional regulator, SHP2-responsive activator	3.5.4.25	H2O	Formate	white
+HTH-type transcriptional regulator, SHP2-responsive activator	3.5.4.25	H2O	Orthophosphate	white
+HTH-type transcriptional regulator, SHP2-responsive activator	3.5.4.25	Orthophosphate	GTP	white
+HTH-type transcriptional regulator, SHP2-responsive activator	3.5.4.25	Orthophosphate	H2O	white
+HTH-type transcriptional regulator, SHP3-responsive repressor	3.5.4.25	2,5-Diamino-6-(5-phospho-D-ribosylamino)pyrimidin-4(3H)-one	GTP	white
+HTH-type transcriptional regulator, SHP3-responsive repressor	3.5.4.25	2,5-Diamino-6-(5-phospho-D-ribosylamino)pyrimidin-4(3H)-one	H2O	white
+HTH-type transcriptional regulator, SHP3-responsive repressor	3.5.4.25	Formate	GTP	white
+HTH-type transcriptional regulator, SHP3-responsive repressor	3.5.4.25	Formate	H2O	white
+HTH-type transcriptional regulator, SHP3-responsive repressor	3.5.4.25	GTP	2,5-Diamino-6-(5-phospho-D-ribosylamino)pyrimidin-4(3H)-one	white
+HTH-type transcriptional regulator, SHP3-responsive repressor	3.5.4.25	GTP	Formate	white
+HTH-type transcriptional regulator, SHP3-responsive repressor	3.5.4.25	GTP	Orthophosphate	white
+HTH-type transcriptional regulator, SHP3-responsive repressor	3.5.4.25	H2O	2,5-Diamino-6-(5-phospho-D-ribosylamino)pyrimidin-4(3H)-one	white
+HTH-type transcriptional regulator, SHP3-responsive repressor	3.5.4.25	H2O	Formate	white
+HTH-type transcriptional regulator, SHP3-responsive repressor	3.5.4.25	H2O	Orthophosphate	white
+HTH-type transcriptional regulator, SHP3-responsive repressor	3.5.4.25	Orthophosphate	GTP	white
+HTH-type transcriptional regulator, SHP3-responsive repressor	3.5.4.25	Orthophosphate	H2O	white
+HTH-type transcriptional regulator, cytolysin regulator	4.1.2.40	D-Glyceraldehyde 3-phosphate	D-Tagatose 1,6-bisphosphate	white
+HTH-type transcriptional regulator, cytolysin regulator	4.1.2.40	D-Tagatose 1,6-bisphosphate	D-Glyceraldehyde 3-phosphate	white
+HTH-type transcriptional regulator, cytolysin regulator	4.1.2.40	D-Tagatose 1,6-bisphosphate	Glycerone phosphate	white
+HTH-type transcriptional regulator, cytolysin regulator	4.1.2.40	Glycerone phosphate	D-Tagatose 1,6-bisphosphate	white
+HTH-type transcriptional regulator, major conjugation operon repressor	4.1.2.40	D-Glyceraldehyde 3-phosphate	D-Tagatose 1,6-bisphosphate	white
+HTH-type transcriptional regulator, major conjugation operon repressor	4.1.2.40	D-Tagatose 1,6-bisphosphate	D-Glyceraldehyde 3-phosphate	white
+HTH-type transcriptional regulator, major conjugation operon repressor	4.1.2.40	D-Tagatose 1,6-bisphosphate	Glycerone phosphate	white
+HTH-type transcriptional regulator, major conjugation operon repressor	4.1.2.40	Glycerone phosphate	D-Tagatose 1,6-bisphosphate	white
+HTH-type transcriptional regulator, pheromone-responsive regulator	3.5.4.25	2,5-Diamino-6-(5-phospho-D-ribosylamino)pyrimidin-4(3H)-one	GTP	white
+HTH-type transcriptional regulator, pheromone-responsive regulator	3.5.4.25	2,5-Diamino-6-(5-phospho-D-ribosylamino)pyrimidin-4(3H)-one	H2O	white
+HTH-type transcriptional regulator, pheromone-responsive regulator	3.5.4.25	Formate	GTP	white
+HTH-type transcriptional regulator, pheromone-responsive regulator	3.5.4.25	Formate	H2O	white
+HTH-type transcriptional regulator, pheromone-responsive regulator	3.5.4.25	GTP	2,5-Diamino-6-(5-phospho-D-ribosylamino)pyrimidin-4(3H)-one	white
+HTH-type transcriptional regulator, pheromone-responsive regulator	3.5.4.25	GTP	Formate	white
+HTH-type transcriptional regulator, pheromone-responsive regulator	3.5.4.25	GTP	Orthophosphate	white
+HTH-type transcriptional regulator, pheromone-responsive regulator	3.5.4.25	H2O	2,5-Diamino-6-(5-phospho-D-ribosylamino)pyrimidin-4(3H)-one	white
+HTH-type transcriptional regulator, pheromone-responsive regulator	3.5.4.25	H2O	Formate	white
+HTH-type transcriptional regulator, pheromone-responsive regulator	3.5.4.25	H2O	Orthophosphate	white
+HTH-type transcriptional regulator, pheromone-responsive regulator	3.5.4.25	Orthophosphate	GTP	white
+HTH-type transcriptional regulator, pheromone-responsive regulator	3.5.4.25	Orthophosphate	H2O	white
+HTH-type transcriptional regulator, pheromone-responsive repressor	3.4.21.19	H2O	N-Acyl-L-homoserine	white
+HTH-type transcriptional regulator, pheromone-responsive repressor	3.4.21.19	N-Acyl-L-homoserine	H2O	white
+HTH-type transcriptional regulator, pheromone-responsive repressor	3.4.21.19	N-Acyl-L-homoserine	N-Acyl-L-homoserine lactone	white
+HTH-type transcriptional regulator, pheromone-responsive repressor	3.4.21.19	N-Acyl-L-homoserine lactone	N-Acyl-L-homoserine	white
+HTH-type transcriptional regulator, pleiotropic regulator of extracellular virulence genes	3.4.21.-	D-Glyceraldehyde 3-phosphate	D-Tagatose 1,6-bisphosphate	white
+HTH-type transcriptional regulator, pleiotropic regulator of extracellular virulence genes	3.4.21.-	D-Tagatose 1,6-bisphosphate	D-Glyceraldehyde 3-phosphate	white
+HTH-type transcriptional regulator, pleiotropic regulator of extracellular virulence genes	3.4.21.-	D-Tagatose 1,6-bisphosphate	Glycerone phosphate	white
+HTH-type transcriptional regulator, pleiotropic regulator of extracellular virulence genes	3.4.21.-	Glycerone phosphate	D-Tagatose 1,6-bisphosphate	white
+HTH-type transcriptional regulator, quorum sensing regulator NprR	3.4.21.-	D-Glyceraldehyde 3-phosphate	D-Tagatose 1,6-bisphosphate	white
+HTH-type transcriptional regulator, quorum sensing regulator NprR	3.4.21.-	D-Tagatose 1,6-bisphosphate	D-Glyceraldehyde 3-phosphate	white
+HTH-type transcriptional regulator, quorum sensing regulator NprR	3.4.21.-	D-Tagatose 1,6-bisphosphate	Glycerone phosphate	white
+HTH-type transcriptional regulator, quorum sensing regulator NprR	3.4.21.-	Glycerone phosphate	D-Tagatose 1,6-bisphosphate	white
+HTH-type transcriptional regulator, regulator for ComX	3.5.4.25	2,5-Diamino-6-(5-phospho-D-ribosylamino)pyrimidin-4(3H)-one	GTP	white
+HTH-type transcriptional regulator, regulator for ComX	3.5.4.25	2,5-Diamino-6-(5-phospho-D-ribosylamino)pyrimidin-4(3H)-one	H2O	white
+HTH-type transcriptional regulator, regulator for ComX	3.5.4.25	Formate	GTP	white
+HTH-type transcriptional regulator, regulator for ComX	3.5.4.25	Formate	H2O	white
+HTH-type transcriptional regulator, regulator for ComX	3.5.4.25	GTP	2,5-Diamino-6-(5-phospho-D-ribosylamino)pyrimidin-4(3H)-one	white
+HTH-type transcriptional regulator, regulator for ComX	3.5.4.25	GTP	Formate	white
+HTH-type transcriptional regulator, regulator for ComX	3.5.4.25	GTP	Orthophosphate	white
+HTH-type transcriptional regulator, regulator for ComX	3.5.4.25	H2O	2,5-Diamino-6-(5-phospho-D-ribosylamino)pyrimidin-4(3H)-one	white
+HTH-type transcriptional regulator, regulator for ComX	3.5.4.25	H2O	Formate	white
+HTH-type transcriptional regulator, regulator for ComX	3.5.4.25	H2O	Orthophosphate	white
+HTH-type transcriptional regulator, regulator for ComX	3.5.4.25	Orthophosphate	GTP	white
+HTH-type transcriptional regulator, regulator for ComX	3.5.4.25	Orthophosphate	H2O	white
+IclR family transcriptional regulator, positive regulator for flagellar biogenesis	3.1.4.52	4-(4-Deoxy-alpha-D-gluc-4-enuronosyl)-D-galacturonate	Pectate	white
+IclR family transcriptional regulator, positive regulator for flagellar biogenesis	3.1.4.52	Pectate	4-(4-Deoxy-alpha-D-gluc-4-enuronosyl)-D-galacturonate	white
+IclR family transcriptional regulator, positive regulator for flagellar biogenesis	3.1.4.52	Pectate	Pectate	white
+LasA protease	3.4.24.-	AMP	ATP	white
+LasA protease	3.4.24.-	AMP	Anthranilate	white
+LasA protease	3.4.24.-	AMP	CoA	white
+LasA protease	3.4.24.-	ATP	AMP	white
+LasA protease	3.4.24.-	ATP	Anthraniloyl-CoA	white
+LasA protease	3.4.24.-	ATP	Diphosphate	white
+LasA protease	3.4.24.-	Anthranilate	AMP	white
+LasA protease	3.4.24.-	Anthranilate	Anthraniloyl-CoA	white
+LasA protease	3.4.24.-	Anthranilate	Diphosphate	white
+LasA protease	3.4.24.-	Anthraniloyl-CoA	ATP	white
+LasA protease	3.4.24.-	Anthraniloyl-CoA	Anthranilate	white
+LasA protease	3.4.24.-	Anthraniloyl-CoA	CoA	white
+LasA protease	3.4.24.-	CoA	AMP	white
+LasA protease	3.4.24.-	CoA	Anthraniloyl-CoA	white
+LasA protease	3.4.24.-	CoA	Diphosphate	white
+LasA protease	3.4.24.-	Diphosphate	ATP	white
+LasA protease	3.4.24.-	Diphosphate	Anthranilate	white
+LasA protease	3.4.24.-	Diphosphate	CoA	white
+LuxR family transcriptional regulator, activator of conjugal transfer of Ti plasmids	3.1.-.-	H2O	N-Acyl-L-homoserine	white
+LuxR family transcriptional regulator, activator of conjugal transfer of Ti plasmids	3.1.-.-	N-Acyl-L-homoserine	H2O	white
+LuxR family transcriptional regulator, activator of conjugal transfer of Ti plasmids	3.1.-.-	N-Acyl-L-homoserine	N-Acyl-L-homoserine lactone	white
+LuxR family transcriptional regulator, activator of conjugal transfer of Ti plasmids	3.1.-.-	N-Acyl-L-homoserine lactone	N-Acyl-L-homoserine	white
+LuxR family transcriptional regulator, activator of tox operons	3.1.4.52	4-(4-Deoxy-alpha-D-gluc-4-enuronosyl)-D-galacturonate	Pectate	white
+LuxR family transcriptional regulator, activator of tox operons	3.1.4.52	Pectate	4-(4-Deoxy-alpha-D-gluc-4-enuronosyl)-D-galacturonate	white
+LuxR family transcriptional regulator, activator of tox operons	3.1.4.52	Pectate	Pectate	white
+LuxR family transcriptional regulator, capsular biosynthesis positive transcription factor	3.1.3.2	FMN	Orthophosphate	white
+LuxR family transcriptional regulator, capsular biosynthesis positive transcription factor	3.1.3.2	FMN	Riboflavin	white
+LuxR family transcriptional regulator, capsular biosynthesis positive transcription factor	3.1.3.2	H2O	Orthophosphate	white
+LuxR family transcriptional regulator, capsular biosynthesis positive transcription factor	3.1.3.2	H2O	Riboflavin	white
+LuxR family transcriptional regulator, capsular biosynthesis positive transcription factor	3.1.3.2	Orthophosphate	FMN	white
+LuxR family transcriptional regulator, capsular biosynthesis positive transcription factor	3.1.3.2	Orthophosphate	H2O	white
+LuxR family transcriptional regulator, capsular biosynthesis positive transcription factor	3.1.3.2	Riboflavin	FMN	white
+LuxR family transcriptional regulator, capsular biosynthesis positive transcription factor	3.1.3.2	Riboflavin	H2O	white
+LuxR family transcriptional regulator, quorum-sensing system regulator BisR	7.4.2.8	H2O	N-Acyl-L-homoserine	white
+LuxR family transcriptional regulator, quorum-sensing system regulator BisR	7.4.2.8	N-Acyl-L-homoserine	H2O	white
+LuxR family transcriptional regulator, quorum-sensing system regulator BisR	7.4.2.8	N-Acyl-L-homoserine	N-Acyl-L-homoserine lactone	white
+LuxR family transcriptional regulator, quorum-sensing system regulator BisR	7.4.2.8	N-Acyl-L-homoserine lactone	N-Acyl-L-homoserine	white
+LuxR family transcriptional regulator, quorum-sensing system regulator BjaR1	2.3.1.228	H2O	N-Acyl-L-homoserine	white
+LuxR family transcriptional regulator, quorum-sensing system regulator BjaR1	2.3.1.228	N-Acyl-L-homoserine	H2O	white
+LuxR family transcriptional regulator, quorum-sensing system regulator BjaR1	2.3.1.228	N-Acyl-L-homoserine	N-Acyl-L-homoserine lactone	white
+LuxR family transcriptional regulator, quorum-sensing system regulator BjaR1	2.3.1.228	N-Acyl-L-homoserine lactone	N-Acyl-L-homoserine	white
+LuxR family transcriptional regulator, quorum-sensing system regulator CciR	3.1.-.-	H2O	N-Acyl-L-homoserine	white
+LuxR family transcriptional regulator, quorum-sensing system regulator CciR	3.1.-.-	N-Acyl-L-homoserine	H2O	white
+LuxR family transcriptional regulator, quorum-sensing system regulator CciR	3.1.-.-	N-Acyl-L-homoserine	N-Acyl-L-homoserine lactone	white
+LuxR family transcriptional regulator, quorum-sensing system regulator CciR	3.1.-.-	N-Acyl-L-homoserine lactone	N-Acyl-L-homoserine	white
+LuxR family transcriptional regulator, quorum-sensing system regulator CepR2	3.1.4.52	4-(4-Deoxy-alpha-D-gluc-4-enuronosyl)-D-galacturonate	Pectate	white
+LuxR family transcriptional regulator, quorum-sensing system regulator CepR2	3.1.4.52	Pectate	4-(4-Deoxy-alpha-D-gluc-4-enuronosyl)-D-galacturonate	white
+LuxR family transcriptional regulator, quorum-sensing system regulator CepR2	3.1.4.52	Pectate	Pectate	white
+LuxR family transcriptional regulator, quorum-sensing system regulator CinR	3.1.-.-	H2O	N-Acyl-L-homoserine	white
+LuxR family transcriptional regulator, quorum-sensing system regulator CinR	3.1.-.-	N-Acyl-L-homoserine	H2O	white
+LuxR family transcriptional regulator, quorum-sensing system regulator CinR	3.1.-.-	N-Acyl-L-homoserine	N-Acyl-L-homoserine lactone	white
+LuxR family transcriptional regulator, quorum-sensing system regulator CinR	3.1.-.-	N-Acyl-L-homoserine lactone	N-Acyl-L-homoserine	white
+LuxR family transcriptional regulator, quorum-sensing system regulator CviR	3.5.4.25	2,5-Diamino-6-(5-phospho-D-ribosylamino)pyrimidin-4(3H)-one	GTP	white
+LuxR family transcriptional regulator, quorum-sensing system regulator CviR	3.5.4.25	2,5-Diamino-6-(5-phospho-D-ribosylamino)pyrimidin-4(3H)-one	H2O	white
+LuxR family transcriptional regulator, quorum-sensing system regulator CviR	3.5.4.25	Formate	GTP	white
+LuxR family transcriptional regulator, quorum-sensing system regulator CviR	3.5.4.25	Formate	H2O	white
+LuxR family transcriptional regulator, quorum-sensing system regulator CviR	3.5.4.25	GTP	2,5-Diamino-6-(5-phospho-D-ribosylamino)pyrimidin-4(3H)-one	white
+LuxR family transcriptional regulator, quorum-sensing system regulator CviR	3.5.4.25	GTP	Formate	white
+LuxR family transcriptional regulator, quorum-sensing system regulator CviR	3.5.4.25	GTP	Orthophosphate	white
+LuxR family transcriptional regulator, quorum-sensing system regulator CviR	3.5.4.25	H2O	2,5-Diamino-6-(5-phospho-D-ribosylamino)pyrimidin-4(3H)-one	white
+LuxR family transcriptional regulator, quorum-sensing system regulator CviR	3.5.4.25	H2O	Formate	white
+LuxR family transcriptional regulator, quorum-sensing system regulator CviR	3.5.4.25	H2O	Orthophosphate	white
+LuxR family transcriptional regulator, quorum-sensing system regulator CviR	3.5.4.25	Orthophosphate	GTP	white
+LuxR family transcriptional regulator, quorum-sensing system regulator CviR	3.5.4.25	Orthophosphate	H2O	white
+LuxR family transcriptional regulator, quorum-sensing system regulator ExpR	3.1.-.-	H2O	N-Acyl-L-homoserine	white
+LuxR family transcriptional regulator, quorum-sensing system regulator ExpR	3.1.-.-	N-Acyl-L-homoserine	H2O	white
+LuxR family transcriptional regulator, quorum-sensing system regulator ExpR	3.1.-.-	N-Acyl-L-homoserine	N-Acyl-L-homoserine lactone	white
+LuxR family transcriptional regulator, quorum-sensing system regulator ExpR	3.1.-.-	N-Acyl-L-homoserine lactone	N-Acyl-L-homoserine	white
+LuxR family transcriptional regulator, quorum-sensing system regulator LasR	3.2.1.78	1,4-beta-D-Mannan	D-Mannose	white
+LuxR family transcriptional regulator, quorum-sensing system regulator LasR	3.2.1.78	D-Mannose	1,4-beta-D-Mannan	white
+LuxR family transcriptional regulator, quorum-sensing system regulator LasR	3.2.1.78	D-Mannose	H2O	white
+LuxR family transcriptional regulator, quorum-sensing system regulator LasR	3.2.1.78	H2O	D-Mannose	white
+LuxR family transcriptional regulator, quorum-sensing system regulator RaiR	3.1.-.-	H2O	N-Acyl-L-homoserine	white
+LuxR family transcriptional regulator, quorum-sensing system regulator RaiR	3.1.-.-	N-Acyl-L-homoserine	H2O	white
+LuxR family transcriptional regulator, quorum-sensing system regulator RaiR	3.1.-.-	N-Acyl-L-homoserine	N-Acyl-L-homoserine lactone	white
+LuxR family transcriptional regulator, quorum-sensing system regulator RaiR	3.1.-.-	N-Acyl-L-homoserine lactone	N-Acyl-L-homoserine	white
+LuxR family transcriptional regulator, quorum-sensing system regulator RhlR	3.5.4.25	2,5-Diamino-6-(5-phospho-D-ribosylamino)pyrimidin-4(3H)-one	GTP	white
+LuxR family transcriptional regulator, quorum-sensing system regulator RhlR	3.5.4.25	2,5-Diamino-6-(5-phospho-D-ribosylamino)pyrimidin-4(3H)-one	H2O	white
+LuxR family transcriptional regulator, quorum-sensing system regulator RhlR	3.5.4.25	Formate	GTP	white
+LuxR family transcriptional regulator, quorum-sensing system regulator RhlR	3.5.4.25	Formate	H2O	white
+LuxR family transcriptional regulator, quorum-sensing system regulator RhlR	3.5.4.25	GTP	2,5-Diamino-6-(5-phospho-D-ribosylamino)pyrimidin-4(3H)-one	white
+LuxR family transcriptional regulator, quorum-sensing system regulator RhlR	3.5.4.25	GTP	Formate	white
+LuxR family transcriptional regulator, quorum-sensing system regulator RhlR	3.5.4.25	GTP	Orthophosphate	white
+LuxR family transcriptional regulator, quorum-sensing system regulator RhlR	3.5.4.25	H2O	2,5-Diamino-6-(5-phospho-D-ribosylamino)pyrimidin-4(3H)-one	white
+LuxR family transcriptional regulator, quorum-sensing system regulator RhlR	3.5.4.25	H2O	Formate	white
+LuxR family transcriptional regulator, quorum-sensing system regulator RhlR	3.5.4.25	H2O	Orthophosphate	white
+LuxR family transcriptional regulator, quorum-sensing system regulator RhlR	3.5.4.25	Orthophosphate	GTP	white
+LuxR family transcriptional regulator, quorum-sensing system regulator RhlR	3.5.4.25	Orthophosphate	H2O	white
+LuxR family transcriptional regulator, quorum-sensing system regulator SdiA	2.7.13.3	H+	H+	white
+LuxR family transcriptional regulator, quorum-sensing system regulator SdiA	2.7.13.3	H+	H2O	white
+LuxR family transcriptional regulator, quorum-sensing system regulator SdiA	2.7.13.3	H+	Oxygen	white
+LuxR family transcriptional regulator, quorum-sensing system regulator SdiA	2.7.13.3	H+	Ubiquinol	white
+LuxR family transcriptional regulator, quorum-sensing system regulator SdiA	2.7.13.3	H+	Ubiquinone	white
+LuxR family transcriptional regulator, quorum-sensing system regulator SdiA	2.7.13.3	H2O	H+	white
+LuxR family transcriptional regulator, quorum-sensing system regulator SdiA	2.7.13.3	H2O	Oxygen	white
+LuxR family transcriptional regulator, quorum-sensing system regulator SdiA	2.7.13.3	H2O	Ubiquinol	white
+LuxR family transcriptional regulator, quorum-sensing system regulator SdiA	2.7.13.3	Oxygen	H+	white
+LuxR family transcriptional regulator, quorum-sensing system regulator SdiA	2.7.13.3	Oxygen	H2O	white
+LuxR family transcriptional regulator, quorum-sensing system regulator SdiA	2.7.13.3	Oxygen	Ubiquinone	white
+LuxR family transcriptional regulator, quorum-sensing system regulator SdiA	2.7.13.3	Ubiquinol	H+	white
+LuxR family transcriptional regulator, quorum-sensing system regulator SdiA	2.7.13.3	Ubiquinol	H2O	white
+LuxR family transcriptional regulator, quorum-sensing system regulator SdiA	2.7.13.3	Ubiquinol	Ubiquinone	white
+LuxR family transcriptional regulator, quorum-sensing system regulator SdiA	2.7.13.3	Ubiquinone	H+	white
+LuxR family transcriptional regulator, quorum-sensing system regulator SdiA	2.7.13.3	Ubiquinone	Oxygen	white
+LuxR family transcriptional regulator, quorum-sensing system regulator SdiA	2.7.13.3	Ubiquinone	Ubiquinol	white
+LuxR family transcriptional regulator, quorum-sensing system regulator SinR	3.1.-.-	H2O	N-Acyl-L-homoserine	white
+LuxR family transcriptional regulator, quorum-sensing system regulator SinR	3.1.-.-	N-Acyl-L-homoserine	H2O	white
+LuxR family transcriptional regulator, quorum-sensing system regulator SinR	3.1.-.-	N-Acyl-L-homoserine	N-Acyl-L-homoserine lactone	white
+LuxR family transcriptional regulator, quorum-sensing system regulator SinR	3.1.-.-	N-Acyl-L-homoserine lactone	N-Acyl-L-homoserine	white
+LuxR family transcriptional regulator, quorum-sensing system regulator SolR	2.3.1.184	5'-Methylthioadenosine	Butyryl-[acp]	white
+LuxR family transcriptional regulator, quorum-sensing system regulator SolR	2.3.1.184	5'-Methylthioadenosine	S-Adenosyl-L-methionine	white
+LuxR family transcriptional regulator, quorum-sensing system regulator SolR	2.3.1.184	Acyl-carrier protein	Butyryl-[acp]	white
+LuxR family transcriptional regulator, quorum-sensing system regulator SolR	2.3.1.184	Acyl-carrier protein	S-Adenosyl-L-methionine	white
+LuxR family transcriptional regulator, quorum-sensing system regulator SolR	2.3.1.184	Butyryl-[acp]	5'-Methylthioadenosine	white
+LuxR family transcriptional regulator, quorum-sensing system regulator SolR	2.3.1.184	Butyryl-[acp]	Acyl-carrier protein	white
+LuxR family transcriptional regulator, quorum-sensing system regulator SolR	2.3.1.184	Butyryl-[acp]	N-Butyryl-L-homoserine lactone	white
+LuxR family transcriptional regulator, quorum-sensing system regulator SolR	2.3.1.184	N-Butyryl-L-homoserine lactone	Butyryl-[acp]	white
+LuxR family transcriptional regulator, quorum-sensing system regulator SolR	2.3.1.184	N-Butyryl-L-homoserine lactone	S-Adenosyl-L-methionine	white
+LuxR family transcriptional regulator, quorum-sensing system regulator SolR	2.3.1.184	S-Adenosyl-L-methionine	5'-Methylthioadenosine	white
+LuxR family transcriptional regulator, quorum-sensing system regulator SolR	2.3.1.184	S-Adenosyl-L-methionine	Acyl-carrier protein	white
+LuxR family transcriptional regulator, quorum-sensing system regulator SolR	2.3.1.184	S-Adenosyl-L-methionine	N-Butyryl-L-homoserine lactone	white
+LuxR family transcriptional regulator, transcriptional activator of the bioluminescence operon	2.3.-.-	H2O	N-Acyl-L-homoserine	white
+LuxR family transcriptional regulator, transcriptional activator of the bioluminescence operon	2.3.-.-	N-Acyl-L-homoserine	H2O	white
+LuxR family transcriptional regulator, transcriptional activator of the bioluminescence operon	2.3.-.-	N-Acyl-L-homoserine	N-Acyl-L-homoserine lactone	white
+LuxR family transcriptional regulator, transcriptional activator of the bioluminescence operon	2.3.-.-	N-Acyl-L-homoserine lactone	N-Acyl-L-homoserine	white
+LysR family transcriptional regulator, quorum-sensing system regulator MvfR	3.4.24.-	AMP	ATP	white
+LysR family transcriptional regulator, quorum-sensing system regulator MvfR	3.4.24.-	AMP	Anthranilate	white
+LysR family transcriptional regulator, quorum-sensing system regulator MvfR	3.4.24.-	AMP	CoA	white
+LysR family transcriptional regulator, quorum-sensing system regulator MvfR	3.4.24.-	ATP	AMP	white
+LysR family transcriptional regulator, quorum-sensing system regulator MvfR	3.4.24.-	ATP	Anthraniloyl-CoA	white
+LysR family transcriptional regulator, quorum-sensing system regulator MvfR	3.4.24.-	ATP	Diphosphate	white
+LysR family transcriptional regulator, quorum-sensing system regulator MvfR	3.4.24.-	Anthranilate	AMP	white
+LysR family transcriptional regulator, quorum-sensing system regulator MvfR	3.4.24.-	Anthranilate	Anthraniloyl-CoA	white
+LysR family transcriptional regulator, quorum-sensing system regulator MvfR	3.4.24.-	Anthranilate	Diphosphate	white
+LysR family transcriptional regulator, quorum-sensing system regulator MvfR	3.4.24.-	Anthraniloyl-CoA	ATP	white
+LysR family transcriptional regulator, quorum-sensing system regulator MvfR	3.4.24.-	Anthraniloyl-CoA	Anthranilate	white
+LysR family transcriptional regulator, quorum-sensing system regulator MvfR	3.4.24.-	Anthraniloyl-CoA	CoA	white
+LysR family transcriptional regulator, quorum-sensing system regulator MvfR	3.4.24.-	CoA	AMP	white
+LysR family transcriptional regulator, quorum-sensing system regulator MvfR	3.4.24.-	CoA	Anthraniloyl-CoA	white
+LysR family transcriptional regulator, quorum-sensing system regulator MvfR	3.4.24.-	CoA	Diphosphate	white
+LysR family transcriptional regulator, quorum-sensing system regulator MvfR	3.4.24.-	Diphosphate	ATP	white
+LysR family transcriptional regulator, quorum-sensing system regulator MvfR	3.4.24.-	Diphosphate	Anthranilate	white
+LysR family transcriptional regulator, quorum-sensing system regulator MvfR	3.4.24.-	Diphosphate	CoA	white
+MarR family transcriptional regulator, global regulator for virulence	3.5.4.25	2,5-Diamino-6-(5-phospho-D-ribosylamino)pyrimidin-4(3H)-one	GTP	white
+MarR family transcriptional regulator, global regulator for virulence	3.5.4.25	2,5-Diamino-6-(5-phospho-D-ribosylamino)pyrimidin-4(3H)-one	H2O	white
+MarR family transcriptional regulator, global regulator for virulence	3.5.4.25	Formate	GTP	white
+MarR family transcriptional regulator, global regulator for virulence	3.5.4.25	Formate	H2O	white
+MarR family transcriptional regulator, global regulator for virulence	3.5.4.25	GTP	2,5-Diamino-6-(5-phospho-D-ribosylamino)pyrimidin-4(3H)-one	white
+MarR family transcriptional regulator, global regulator for virulence	3.5.4.25	GTP	Formate	white
+MarR family transcriptional regulator, global regulator for virulence	3.5.4.25	GTP	Orthophosphate	white
+MarR family transcriptional regulator, global regulator for virulence	3.5.4.25	H2O	2,5-Diamino-6-(5-phospho-D-ribosylamino)pyrimidin-4(3H)-one	white
+MarR family transcriptional regulator, global regulator for virulence	3.5.4.25	H2O	Formate	white
+MarR family transcriptional regulator, global regulator for virulence	3.5.4.25	H2O	Orthophosphate	white
+MarR family transcriptional regulator, global regulator for virulence	3.5.4.25	Orthophosphate	GTP	white
+MarR family transcriptional regulator, global regulator for virulence	3.5.4.25	Orthophosphate	H2O	white
+PA-I galactophilic lectin	4.1.3.27	Ammonia	Anthranilate	white
+PA-I galactophilic lectin	4.1.3.27	Ammonia	H2O	white
+PA-I galactophilic lectin	4.1.3.27	Ammonia	Pyruvate	white
+PA-I galactophilic lectin	4.1.3.27	Anthranilate	Ammonia	white
+PA-I galactophilic lectin	4.1.3.27	Anthranilate	Chorismate	white
+PA-I galactophilic lectin	4.1.3.27	Chorismate	Anthranilate	white
+PA-I galactophilic lectin	4.1.3.27	Chorismate	H2O	white
+PA-I galactophilic lectin	4.1.3.27	Chorismate	Pyruvate	white
+PA-I galactophilic lectin	4.1.3.27	H2O	Ammonia	white
+PA-I galactophilic lectin	4.1.3.27	H2O	Chorismate	white
+PA-I galactophilic lectin	4.1.3.27	Pyruvate	Ammonia	white
+PA-I galactophilic lectin	4.1.3.27	Pyruvate	Chorismate	white
+PA-IIL fucose-binding lectin	4.1.3.27	Ammonia	Anthranilate	white
+PA-IIL fucose-binding lectin	4.1.3.27	Ammonia	H2O	white
+PA-IIL fucose-binding lectin	4.1.3.27	Ammonia	Pyruvate	white
+PA-IIL fucose-binding lectin	4.1.3.27	Anthranilate	Ammonia	white
+PA-IIL fucose-binding lectin	4.1.3.27	Anthranilate	Chorismate	white
+PA-IIL fucose-binding lectin	4.1.3.27	Chorismate	Anthranilate	white
+PA-IIL fucose-binding lectin	4.1.3.27	Chorismate	H2O	white
+PA-IIL fucose-binding lectin	4.1.3.27	Chorismate	Pyruvate	white
+PA-IIL fucose-binding lectin	4.1.3.27	H2O	Ammonia	white
+PA-IIL fucose-binding lectin	4.1.3.27	H2O	Chorismate	white
+PA-IIL fucose-binding lectin	4.1.3.27	Pyruvate	Ammonia	white
+PA-IIL fucose-binding lectin	4.1.3.27	Pyruvate	Chorismate	white
+PadR family transcriptional regulator, regulatory protein AphA	3.1.-.-	H2O	N-Acyl-L-homoserine	white
+PadR family transcriptional regulator, regulatory protein AphA	3.1.-.-	N-Acyl-L-homoserine	H2O	white
+PadR family transcriptional regulator, regulatory protein AphA	3.1.-.-	N-Acyl-L-homoserine	N-Acyl-L-homoserine lactone	white
+PadR family transcriptional regulator, regulatory protein AphA	3.1.-.-	N-Acyl-L-homoserine lactone	N-Acyl-L-homoserine	white
+S-ribosylhomocysteine lyase	4.4.1.21	(S)-4,5-Dihydroxypentane-2,3-dione	S-Ribosyl-L-homocysteine	white
+S-ribosylhomocysteine lyase	4.4.1.21	L-Homocysteine	S-Ribosyl-L-homocysteine	white
+S-ribosylhomocysteine lyase	4.4.1.21	S-Ribosyl-L-homocysteine	(S)-4,5-Dihydroxypentane-2,3-dione	white
+S-ribosylhomocysteine lyase	4.4.1.21	S-Ribosyl-L-homocysteine	L-Homocysteine	white
+TetR/AcrR family transcriptional regulator, Clp-modulated transcription factor	3.4.24.-	D-Glyceraldehyde 3-phosphate	D-Tagatose 1,6-bisphosphate	white
+TetR/AcrR family transcriptional regulator, Clp-modulated transcription factor	3.4.24.-	D-Tagatose 1,6-bisphosphate	D-Glyceraldehyde 3-phosphate	white
+TetR/AcrR family transcriptional regulator, Clp-modulated transcription factor	3.4.24.-	D-Tagatose 1,6-bisphosphate	Glycerone phosphate	white
+TetR/AcrR family transcriptional regulator, Clp-modulated transcription factor	3.4.24.-	Glycerone phosphate	D-Tagatose 1,6-bisphosphate	white
+TetR/AcrR family transcriptional regulator, hemagglutinin/protease regulatory protein	2.7.13.3	FMN	Long-chain aldehyde	white
+TetR/AcrR family transcriptional regulator, hemagglutinin/protease regulatory protein	2.7.13.3	FMN	Oxygen	white
+TetR/AcrR family transcriptional regulator, hemagglutinin/protease regulatory protein	2.7.13.3	FMN	Reduced FMN	white
+TetR/AcrR family transcriptional regulator, hemagglutinin/protease regulatory protein	2.7.13.3	H2O	Long-chain aldehyde	white
+TetR/AcrR family transcriptional regulator, hemagglutinin/protease regulatory protein	2.7.13.3	H2O	Oxygen	white
+TetR/AcrR family transcriptional regulator, hemagglutinin/protease regulatory protein	2.7.13.3	H2O	Reduced FMN	white
+TetR/AcrR family transcriptional regulator, hemagglutinin/protease regulatory protein	2.7.13.3	Long-chain aldehyde	FMN	white
+TetR/AcrR family transcriptional regulator, hemagglutinin/protease regulatory protein	2.7.13.3	Long-chain aldehyde	H2O	white
+TetR/AcrR family transcriptional regulator, hemagglutinin/protease regulatory protein	2.7.13.3	Long-chain aldehyde	Long-chain fatty acid	white
+TetR/AcrR family transcriptional regulator, hemagglutinin/protease regulatory protein	2.7.13.3	Long-chain aldehyde	hn	white
+TetR/AcrR family transcriptional regulator, hemagglutinin/protease regulatory protein	2.7.13.3	Long-chain fatty acid	Long-chain aldehyde	white
+TetR/AcrR family transcriptional regulator, hemagglutinin/protease regulatory protein	2.7.13.3	Long-chain fatty acid	Oxygen	white
+TetR/AcrR family transcriptional regulator, hemagglutinin/protease regulatory protein	2.7.13.3	Long-chain fatty acid	Reduced FMN	white
+TetR/AcrR family transcriptional regulator, hemagglutinin/protease regulatory protein	2.7.13.3	Oxygen	FMN	white
+TetR/AcrR family transcriptional regulator, hemagglutinin/protease regulatory protein	2.7.13.3	Oxygen	H2O	white
+TetR/AcrR family transcriptional regulator, hemagglutinin/protease regulatory protein	2.7.13.3	Oxygen	Long-chain fatty acid	white
+TetR/AcrR family transcriptional regulator, hemagglutinin/protease regulatory protein	2.7.13.3	Oxygen	hn	white
+TetR/AcrR family transcriptional regulator, hemagglutinin/protease regulatory protein	2.7.13.3	Reduced FMN	FMN	white
+TetR/AcrR family transcriptional regulator, hemagglutinin/protease regulatory protein	2.7.13.3	Reduced FMN	H2O	white
+TetR/AcrR family transcriptional regulator, hemagglutinin/protease regulatory protein	2.7.13.3	Reduced FMN	Long-chain fatty acid	white
+TetR/AcrR family transcriptional regulator, hemagglutinin/protease regulatory protein	2.7.13.3	Reduced FMN	hn	white
+TetR/AcrR family transcriptional regulator, hemagglutinin/protease regulatory protein	2.7.13.3	hn	Long-chain aldehyde	white
+TetR/AcrR family transcriptional regulator, hemagglutinin/protease regulatory protein	2.7.13.3	hn	Oxygen	white
+TetR/AcrR family transcriptional regulator, hemagglutinin/protease regulatory protein	2.7.13.3	hn	Reduced FMN	white
+Tir-cytoskeleton coupling protein	4.1.3.27	Ammonia	Anthranilate	white
+Tir-cytoskeleton coupling protein	4.1.3.27	Ammonia	H2O	white
+Tir-cytoskeleton coupling protein	4.1.3.27	Ammonia	Pyruvate	white
+Tir-cytoskeleton coupling protein	4.1.3.27	Anthranilate	Ammonia	white
+Tir-cytoskeleton coupling protein	4.1.3.27	Anthranilate	Chorismate	white
+Tir-cytoskeleton coupling protein	4.1.3.27	Chorismate	Anthranilate	white
+Tir-cytoskeleton coupling protein	4.1.3.27	Chorismate	H2O	white
+Tir-cytoskeleton coupling protein	4.1.3.27	Chorismate	Pyruvate	white
+Tir-cytoskeleton coupling protein	4.1.3.27	H2O	Ammonia	white
+Tir-cytoskeleton coupling protein	4.1.3.27	H2O	Chorismate	white
+Tir-cytoskeleton coupling protein	4.1.3.27	Pyruvate	Ammonia	white
+Tir-cytoskeleton coupling protein	4.1.3.27	Pyruvate	Chorismate	white
+TraR antiactivator	3.1.4.52	4-(4-Deoxy-alpha-D-gluc-4-enuronosyl)-D-galacturonate	Pectate	white
+TraR antiactivator	3.1.4.52	Pectate	4-(4-Deoxy-alpha-D-gluc-4-enuronosyl)-D-galacturonate	white
+TraR antiactivator	3.1.4.52	Pectate	Pectate	white
+accessory gene regulator B	2.7.7.61	2'-(5-Triphosphoribosyl)-3'-dephospho-CoA	ATP	white
+accessory gene regulator B	2.7.7.61	2'-(5-Triphosphoribosyl)-3'-dephospho-CoA	Dephospho-CoA	white
+accessory gene regulator B	2.7.7.61	ATP	2'-(5-Triphosphoribosyl)-3'-dephospho-CoA	white
+accessory gene regulator B	2.7.7.61	ATP	Adenine	white
+accessory gene regulator B	2.7.7.61	Adenine	ATP	white
+accessory gene regulator B	2.7.7.61	Adenine	Dephospho-CoA	white
+accessory gene regulator B	2.7.7.61	Dephospho-CoA	2'-(5-Triphosphoribosyl)-3'-dephospho-CoA	white
+accessory gene regulator B	2.7.7.61	Dephospho-CoA	Adenine	white
+acyl homoserine lactone synthase	2.3.1.184	5'-Methylthioadenosine	Butyryl-[acp]	white
+acyl homoserine lactone synthase	2.3.1.184	5'-Methylthioadenosine	S-Adenosyl-L-methionine	white
+acyl homoserine lactone synthase	2.3.1.184	Acyl-carrier protein	Butyryl-[acp]	white
+acyl homoserine lactone synthase	2.3.1.184	Acyl-carrier protein	S-Adenosyl-L-methionine	white
+acyl homoserine lactone synthase	2.3.1.184	Butyryl-[acp]	5'-Methylthioadenosine	white
+acyl homoserine lactone synthase	2.3.1.184	Butyryl-[acp]	Acyl-carrier protein	white
+acyl homoserine lactone synthase	2.3.1.184	Butyryl-[acp]	N-Butyryl-L-homoserine lactone	white
+acyl homoserine lactone synthase	2.3.1.184	N-Butyryl-L-homoserine lactone	Butyryl-[acp]	white
+acyl homoserine lactone synthase	2.3.1.184	N-Butyryl-L-homoserine lactone	S-Adenosyl-L-methionine	white
+acyl homoserine lactone synthase	2.3.1.184	S-Adenosyl-L-methionine	5'-Methylthioadenosine	white
+acyl homoserine lactone synthase	2.3.1.184	S-Adenosyl-L-methionine	Acyl-carrier protein	white
+acyl homoserine lactone synthase	2.3.1.184	S-Adenosyl-L-methionine	N-Butyryl-L-homoserine lactone	white
+acyl transferase	2.3.1.-	3',5'-Cyclic diGMP	GTP	white
+acyl transferase	2.3.1.-	Diphosphate	GTP	white
+acyl transferase	2.3.1.-	GTP	3',5'-Cyclic diGMP	white
+acyl transferase	2.3.1.-	GTP	Diphosphate	white
+acyl-homoserine lactone synthase	2.3.1.228	H2O	N-Acyl-L-homoserine	white
+acyl-homoserine lactone synthase	2.3.1.228	N-Acyl-L-homoserine	H2O	white
+acyl-homoserine lactone synthase	2.3.1.228	N-Acyl-L-homoserine	N-Acyl-L-homoserine lactone	white
+acyl-homoserine lactone synthase	2.3.1.228	N-Acyl-L-homoserine lactone	N-Acyl-L-homoserine	white
+aggregation substance	3.4.21.19	H2O	N-Acyl-L-homoserine	white
+aggregation substance	3.4.21.19	N-Acyl-L-homoserine	H2O	white
+aggregation substance	3.4.21.19	N-Acyl-L-homoserine	N-Acyl-L-homoserine lactone	white
+aggregation substance	3.4.21.19	N-Acyl-L-homoserine lactone	N-Acyl-L-homoserine	white
+alkanal monooxygenase alpha chain	1.14.14.3	FMN	Long-chain aldehyde	white
+alkanal monooxygenase alpha chain	1.14.14.3	FMN	Oxygen	white
+alkanal monooxygenase alpha chain	1.14.14.3	FMN	Reduced FMN	white
+alkanal monooxygenase alpha chain	1.14.14.3	H2O	Long-chain aldehyde	white
+alkanal monooxygenase alpha chain	1.14.14.3	H2O	Oxygen	white
+alkanal monooxygenase alpha chain	1.14.14.3	H2O	Reduced FMN	white
+alkanal monooxygenase alpha chain	1.14.14.3	Long-chain aldehyde	FMN	white
+alkanal monooxygenase alpha chain	1.14.14.3	Long-chain aldehyde	H2O	white
+alkanal monooxygenase alpha chain	1.14.14.3	Long-chain aldehyde	Long-chain fatty acid	white
+alkanal monooxygenase alpha chain	1.14.14.3	Long-chain aldehyde	hn	white
+alkanal monooxygenase alpha chain	1.14.14.3	Long-chain fatty acid	Long-chain aldehyde	white
+alkanal monooxygenase alpha chain	1.14.14.3	Long-chain fatty acid	Oxygen	white
+alkanal monooxygenase alpha chain	1.14.14.3	Long-chain fatty acid	Reduced FMN	white
+alkanal monooxygenase alpha chain	1.14.14.3	Oxygen	FMN	white
+alkanal monooxygenase alpha chain	1.14.14.3	Oxygen	H2O	white
+alkanal monooxygenase alpha chain	1.14.14.3	Oxygen	Long-chain fatty acid	white
+alkanal monooxygenase alpha chain	1.14.14.3	Oxygen	hn	white
+alkanal monooxygenase alpha chain	1.14.14.3	Reduced FMN	FMN	white
+alkanal monooxygenase alpha chain	1.14.14.3	Reduced FMN	H2O	white
+alkanal monooxygenase alpha chain	1.14.14.3	Reduced FMN	Long-chain fatty acid	white
+alkanal monooxygenase alpha chain	1.14.14.3	Reduced FMN	hn	white
+alkanal monooxygenase alpha chain	1.14.14.3	hn	Long-chain aldehyde	white
+alkanal monooxygenase alpha chain	1.14.14.3	hn	Oxygen	white
+alkanal monooxygenase alpha chain	1.14.14.3	hn	Reduced FMN	white
+alkanal monooxygenase beta chain	1.14.14.3	FMN	Long-chain aldehyde	white
+alkanal monooxygenase beta chain	1.14.14.3	FMN	Oxygen	white
+alkanal monooxygenase beta chain	1.14.14.3	FMN	Reduced FMN	white
+alkanal monooxygenase beta chain	1.14.14.3	H2O	Long-chain aldehyde	white
+alkanal monooxygenase beta chain	1.14.14.3	H2O	Oxygen	white
+alkanal monooxygenase beta chain	1.14.14.3	H2O	Reduced FMN	white
+alkanal monooxygenase beta chain	1.14.14.3	Long-chain aldehyde	FMN	white
+alkanal monooxygenase beta chain	1.14.14.3	Long-chain aldehyde	H2O	white
+alkanal monooxygenase beta chain	1.14.14.3	Long-chain aldehyde	Long-chain fatty acid	white
+alkanal monooxygenase beta chain	1.14.14.3	Long-chain aldehyde	hn	white
+alkanal monooxygenase beta chain	1.14.14.3	Long-chain fatty acid	Long-chain aldehyde	white
+alkanal monooxygenase beta chain	1.14.14.3	Long-chain fatty acid	Oxygen	white
+alkanal monooxygenase beta chain	1.14.14.3	Long-chain fatty acid	Reduced FMN	white
+alkanal monooxygenase beta chain	1.14.14.3	Oxygen	FMN	white
+alkanal monooxygenase beta chain	1.14.14.3	Oxygen	H2O	white
+alkanal monooxygenase beta chain	1.14.14.3	Oxygen	Long-chain fatty acid	white
+alkanal monooxygenase beta chain	1.14.14.3	Oxygen	hn	white
+alkanal monooxygenase beta chain	1.14.14.3	Reduced FMN	FMN	white
+alkanal monooxygenase beta chain	1.14.14.3	Reduced FMN	H2O	white
+alkanal monooxygenase beta chain	1.14.14.3	Reduced FMN	Long-chain fatty acid	white
+alkanal monooxygenase beta chain	1.14.14.3	Reduced FMN	hn	white
+alkanal monooxygenase beta chain	1.14.14.3	hn	Long-chain aldehyde	white
+alkanal monooxygenase beta chain	1.14.14.3	hn	Oxygen	white
+alkanal monooxygenase beta chain	1.14.14.3	hn	Reduced FMN	white
+anthranilate synthase component II	4.1.3.27	Ammonia	Anthranilate	white
+anthranilate synthase component II	4.1.3.27	Ammonia	H2O	white
+anthranilate synthase component II	4.1.3.27	Ammonia	Pyruvate	white
+anthranilate synthase component II	4.1.3.27	Anthranilate	Ammonia	white
+anthranilate synthase component II	4.1.3.27	Anthranilate	Chorismate	white
+anthranilate synthase component II	4.1.3.27	Chorismate	Anthranilate	white
+anthranilate synthase component II	4.1.3.27	Chorismate	H2O	white
+anthranilate synthase component II	4.1.3.27	Chorismate	Pyruvate	white
+anthranilate synthase component II	4.1.3.27	H2O	Ammonia	white
+anthranilate synthase component II	4.1.3.27	H2O	Chorismate	white
+anthranilate synthase component II	4.1.3.27	Pyruvate	Ammonia	white
+anthranilate synthase component II	4.1.3.27	Pyruvate	Chorismate	white
+anthranilate-CoA ligase	6.2.1.32	AMP	ATP	white
+anthranilate-CoA ligase	6.2.1.32	AMP	Anthranilate	white
+anthranilate-CoA ligase	6.2.1.32	AMP	CoA	white
+anthranilate-CoA ligase	6.2.1.32	ATP	AMP	white
+anthranilate-CoA ligase	6.2.1.32	ATP	Anthraniloyl-CoA	white
+anthranilate-CoA ligase	6.2.1.32	ATP	Diphosphate	white
+anthranilate-CoA ligase	6.2.1.32	Anthranilate	AMP	white
+anthranilate-CoA ligase	6.2.1.32	Anthranilate	Anthraniloyl-CoA	white
+anthranilate-CoA ligase	6.2.1.32	Anthranilate	Diphosphate	white
+anthranilate-CoA ligase	6.2.1.32	Anthraniloyl-CoA	ATP	white
+anthranilate-CoA ligase	6.2.1.32	Anthraniloyl-CoA	Anthranilate	white
+anthranilate-CoA ligase	6.2.1.32	Anthraniloyl-CoA	CoA	white
+anthranilate-CoA ligase	6.2.1.32	CoA	AMP	white
+anthranilate-CoA ligase	6.2.1.32	CoA	Anthraniloyl-CoA	white
+anthranilate-CoA ligase	6.2.1.32	CoA	Diphosphate	white
+anthranilate-CoA ligase	6.2.1.32	Diphosphate	ATP	white
+anthranilate-CoA ligase	6.2.1.32	Diphosphate	Anthranilate	white
+anthranilate-CoA ligase	6.2.1.32	Diphosphate	CoA	white
+anthraniloyl-CoA anthraniloyltransferase	2.3.1.262	Anthraniloyl-CoA	CoA	white
+anthraniloyl-CoA anthraniloyltransferase	2.3.1.262	Anthraniloyl-CoA	S-Anthraniloyl-L-cysteinyl-protein	white
+anthraniloyl-CoA anthraniloyltransferase	2.3.1.262	CoA	Anthraniloyl-CoA	white
+anthraniloyl-CoA anthraniloyltransferase	2.3.1.262	CoA	L-Cysteinyl-protein	white
+anthraniloyl-CoA anthraniloyltransferase	2.3.1.262	L-Cysteinyl-protein	CoA	white
+anthraniloyl-CoA anthraniloyltransferase	2.3.1.262	L-Cysteinyl-protein	S-Anthraniloyl-L-cysteinyl-protein	white
+anthraniloyl-CoA anthraniloyltransferase	2.3.1.262	S-Anthraniloyl-L-cysteinyl-protein	Anthraniloyl-CoA	white
+anthraniloyl-CoA anthraniloyltransferase	2.3.1.262	S-Anthraniloyl-L-cysteinyl-protein	L-Cysteinyl-protein	white
+autoinducer 2-binding periplasmic protein LuxP	1.2.1.50	H+	Long-chain aldehyde	white
+autoinducer 2-binding periplasmic protein LuxP	1.2.1.50	H+	NADP+	white
+autoinducer 2-binding periplasmic protein LuxP	1.2.1.50	H+	[Protein]-L-cysteine	white
+autoinducer 2-binding periplasmic protein LuxP	1.2.1.50	Long-chain aldehyde	H+	white
+autoinducer 2-binding periplasmic protein LuxP	1.2.1.50	Long-chain aldehyde	NADPH	white
+autoinducer 2-binding periplasmic protein LuxP	1.2.1.50	Long-chain aldehyde	[Protein]-S-(long-chain-acyl)-L-cysteine	white
+autoinducer 2-binding periplasmic protein LuxP	1.2.1.50	NADP+	H+	white
+autoinducer 2-binding periplasmic protein LuxP	1.2.1.50	NADP+	NADPH	white
+autoinducer 2-binding periplasmic protein LuxP	1.2.1.50	NADP+	[Protein]-S-(long-chain-acyl)-L-cysteine	white
+autoinducer 2-binding periplasmic protein LuxP	1.2.1.50	NADPH	Long-chain aldehyde	white
+autoinducer 2-binding periplasmic protein LuxP	1.2.1.50	NADPH	NADP+	white
+autoinducer 2-binding periplasmic protein LuxP	1.2.1.50	NADPH	[Protein]-L-cysteine	white
+autoinducer 2-binding periplasmic protein LuxP	1.2.1.50	[Protein]-L-cysteine	H+	white
+autoinducer 2-binding periplasmic protein LuxP	1.2.1.50	[Protein]-L-cysteine	NADPH	white
+autoinducer 2-binding periplasmic protein LuxP	1.2.1.50	[Protein]-L-cysteine	[Protein]-S-(long-chain-acyl)-L-cysteine	white
+autoinducer 2-binding periplasmic protein LuxP	1.2.1.50	[Protein]-S-(long-chain-acyl)-L-cysteine	Long-chain aldehyde	white
+autoinducer 2-binding periplasmic protein LuxP	1.2.1.50	[Protein]-S-(long-chain-acyl)-L-cysteine	NADP+	white
+autoinducer 2-binding periplasmic protein LuxP	1.2.1.50	[Protein]-S-(long-chain-acyl)-L-cysteine	[Protein]-L-cysteine	white
+autoinducer-2 kinase	2.7.1.189	(4S)-4-Hydroxy-5-phosphooxypentane-2,3-dione	(S)-4,5-Dihydroxypentane-2,3-dione	white
+autoinducer-2 kinase	2.7.1.189	(4S)-4-Hydroxy-5-phosphooxypentane-2,3-dione	ATP	white
+autoinducer-2 kinase	2.7.1.189	(S)-4,5-Dihydroxypentane-2,3-dione	(4S)-4-Hydroxy-5-phosphooxypentane-2,3-dione	white
+autoinducer-2 kinase	2.7.1.189	(S)-4,5-Dihydroxypentane-2,3-dione	ADP	white
+autoinducer-2 kinase	2.7.1.189	ADP	(S)-4,5-Dihydroxypentane-2,3-dione	white
+autoinducer-2 kinase	2.7.1.189	ADP	ATP	white
+autoinducer-2 kinase	2.7.1.189	ATP	(4S)-4-Hydroxy-5-phosphooxypentane-2,3-dione	white
+autoinducer-2 kinase	2.7.1.189	ATP	ADP	white
+bacterial/archaeal transporter family-2 protein	3.5.4.25	2,5-Diamino-6-(5-phospho-D-ribosylamino)pyrimidin-4(3H)-one	GTP	white
+bacterial/archaeal transporter family-2 protein	3.5.4.25	2,5-Diamino-6-(5-phospho-D-ribosylamino)pyrimidin-4(3H)-one	H2O	white
+bacterial/archaeal transporter family-2 protein	3.5.4.25	Formate	GTP	white
+bacterial/archaeal transporter family-2 protein	3.5.4.25	Formate	H2O	white
+bacterial/archaeal transporter family-2 protein	3.5.4.25	GTP	2,5-Diamino-6-(5-phospho-D-ribosylamino)pyrimidin-4(3H)-one	white
+bacterial/archaeal transporter family-2 protein	3.5.4.25	GTP	Formate	white
+bacterial/archaeal transporter family-2 protein	3.5.4.25	GTP	Orthophosphate	white
+bacterial/archaeal transporter family-2 protein	3.5.4.25	H2O	2,5-Diamino-6-(5-phospho-D-ribosylamino)pyrimidin-4(3H)-one	white
+bacterial/archaeal transporter family-2 protein	3.5.4.25	H2O	Formate	white
+bacterial/archaeal transporter family-2 protein	3.5.4.25	H2O	Orthophosphate	white
+bacterial/archaeal transporter family-2 protein	3.5.4.25	Orthophosphate	GTP	white
+bacterial/archaeal transporter family-2 protein	3.5.4.25	Orthophosphate	H2O	white
+c-di-GMP phosphodiesterase Gmr	3.1.4.52	4-(4-Deoxy-alpha-D-gluc-4-enuronosyl)-D-galacturonate	Pectate	white
+c-di-GMP phosphodiesterase Gmr	3.1.4.52	Pectate	4-(4-Deoxy-alpha-D-gluc-4-enuronosyl)-D-galacturonate	white
+c-di-GMP phosphodiesterase Gmr	3.1.4.52	Pectate	Pectate	white
+carbapenam-3-carboxylate synthase	6.3.3.6	(2S,5S)-trans-Carboxymethylproline	(3S,5S)-Carbapenam-3-carboxylic acid	white
+carbapenam-3-carboxylate synthase	6.3.3.6	(2S,5S)-trans-Carboxymethylproline	AMP	white
+carbapenam-3-carboxylate synthase	6.3.3.6	(2S,5S)-trans-Carboxymethylproline	Diphosphate	white
+carbapenam-3-carboxylate synthase	6.3.3.6	(3S,5S)-Carbapenam-3-carboxylic acid	(2S,5S)-trans-Carboxymethylproline	white
+carbapenam-3-carboxylate synthase	6.3.3.6	(3S,5S)-Carbapenam-3-carboxylic acid	ATP	white
+carbapenam-3-carboxylate synthase	6.3.3.6	AMP	(2S,5S)-trans-Carboxymethylproline	white
+carbapenam-3-carboxylate synthase	6.3.3.6	AMP	ATP	white
+carbapenam-3-carboxylate synthase	6.3.3.6	ATP	(3S,5S)-Carbapenam-3-carboxylic acid	white
+carbapenam-3-carboxylate synthase	6.3.3.6	ATP	AMP	white
+carbapenam-3-carboxylate synthase	6.3.3.6	ATP	Diphosphate	white
+carbapenam-3-carboxylate synthase	6.3.3.6	Diphosphate	(2S,5S)-trans-Carboxymethylproline	white
+carbapenam-3-carboxylate synthase	6.3.3.6	Diphosphate	ATP	white
+carbapenem biosynthesis protein CpmE	1.5.-.-	(S)-1-Pyrroline-5-carboxylate	FAD	white
+carbapenem biosynthesis protein CpmE	1.5.-.-	(S)-1-Pyrroline-5-carboxylate	L-Proline	white
+carbapenem biosynthesis protein CpmE	1.5.-.-	FAD	(S)-1-Pyrroline-5-carboxylate	white
+carbapenem biosynthesis protein CpmE	1.5.-.-	FAD	FADH2	white
+carbapenem biosynthesis protein CpmE	1.5.-.-	FADH2	FAD	white
+carbapenem biosynthesis protein CpmE	1.5.-.-	FADH2	L-Proline	white
+carbapenem biosynthesis protein CpmE	1.5.-.-	L-Proline	(S)-1-Pyrroline-5-carboxylate	white
+carbapenem biosynthesis protein CpmE	1.5.-.-	L-Proline	FADH2	white
+carbapenem biosynthesis protein, putative proline dehydrogenase	1.5.-.-	(S)-1-Pyrroline-5-carboxylate	FAD	white
+carbapenem biosynthesis protein, putative proline dehydrogenase	1.5.-.-	(S)-1-Pyrroline-5-carboxylate	L-Proline	white
+carbapenem biosynthesis protein, putative proline dehydrogenase	1.5.-.-	FAD	(S)-1-Pyrroline-5-carboxylate	white
+carbapenem biosynthesis protein, putative proline dehydrogenase	1.5.-.-	FAD	FADH2	white
+carbapenem biosynthesis protein, putative proline dehydrogenase	1.5.-.-	FADH2	FAD	white
+carbapenem biosynthesis protein, putative proline dehydrogenase	1.5.-.-	FADH2	L-Proline	white
+carbapenem biosynthesis protein, putative proline dehydrogenase	1.5.-.-	L-Proline	(S)-1-Pyrroline-5-carboxylate	white
+carbapenem biosynthesis protein, putative proline dehydrogenase	1.5.-.-	L-Proline	FADH2	white
+carboxymethylproline synthase	2.3.1.226	(2S,5S)-trans-Carboxymethylproline	(S)-1-Pyrroline-5-carboxylate	white
+carboxymethylproline synthase	2.3.1.226	(2S,5S)-trans-Carboxymethylproline	H2O	white
+carboxymethylproline synthase	2.3.1.226	(2S,5S)-trans-Carboxymethylproline	Malonyl-CoA	white
+carboxymethylproline synthase	2.3.1.226	(S)-1-Pyrroline-5-carboxylate	(2S,5S)-trans-Carboxymethylproline	white
+carboxymethylproline synthase	2.3.1.226	(S)-1-Pyrroline-5-carboxylate	CO2	white
+carboxymethylproline synthase	2.3.1.226	(S)-1-Pyrroline-5-carboxylate	CoA	white
+carboxymethylproline synthase	2.3.1.226	CO2	(S)-1-Pyrroline-5-carboxylate	white
+carboxymethylproline synthase	2.3.1.226	CO2	H2O	white
+carboxymethylproline synthase	2.3.1.226	CO2	Malonyl-CoA	white
+carboxymethylproline synthase	2.3.1.226	CoA	(S)-1-Pyrroline-5-carboxylate	white
+carboxymethylproline synthase	2.3.1.226	CoA	H2O	white
+carboxymethylproline synthase	2.3.1.226	CoA	Malonyl-CoA	white
+carboxymethylproline synthase	2.3.1.226	H2O	(2S,5S)-trans-Carboxymethylproline	white
+carboxymethylproline synthase	2.3.1.226	H2O	CO2	white
+carboxymethylproline synthase	2.3.1.226	H2O	CoA	white
+carboxymethylproline synthase	2.3.1.226	Malonyl-CoA	(2S,5S)-trans-Carboxymethylproline	white
+carboxymethylproline synthase	2.3.1.226	Malonyl-CoA	CO2	white
+carboxymethylproline synthase	2.3.1.226	Malonyl-CoA	CoA	white
+class I lanthipeptide synthase	3.13.2.4	2,4-Diamino-6-hydroxylaminotoluene	2,4-Diamino-6-nitrotoluene	white
+class I lanthipeptide synthase	3.13.2.4	2,4-Diamino-6-nitrotoluene	2,4-Diamino-6-hydroxylaminotoluene	white
+coccolysin	3.4.24.30	H2O	N-Acyl-L-homoserine	white
+coccolysin	3.4.24.30	N-Acyl-L-homoserine	H2O	white
+coccolysin	3.4.24.30	N-Acyl-L-homoserine	N-Acyl-L-homoserine lactone	white
+coccolysin	3.4.24.30	N-Acyl-L-homoserine lactone	N-Acyl-L-homoserine	white
+competence factor transport accessory protein ComB	2.7.13.3	3',5'-Cyclic diGMP	GTP	white
+competence factor transport accessory protein ComB	2.7.13.3	Diphosphate	GTP	white
+competence factor transport accessory protein ComB	2.7.13.3	GTP	3',5'-Cyclic diGMP	white
+competence factor transport accessory protein ComB	2.7.13.3	GTP	Diphosphate	white
+competence protein ComK	3.4.21.19	H2O	N-Acyl-L-homoserine	white
+competence protein ComK	3.4.21.19	N-Acyl-L-homoserine	H2O	white
+competence protein ComK	3.4.21.19	N-Acyl-L-homoserine	N-Acyl-L-homoserine lactone	white
+competence protein ComK	3.4.21.19	N-Acyl-L-homoserine lactone	N-Acyl-L-homoserine	white
+competence protein ComQ	3.4.21.19	H2O	N-Acyl-L-homoserine	white
+competence protein ComQ	3.4.21.19	N-Acyl-L-homoserine	H2O	white
+competence protein ComQ	3.4.21.19	N-Acyl-L-homoserine	N-Acyl-L-homoserine lactone	white
+competence protein ComQ	3.4.21.19	N-Acyl-L-homoserine lactone	N-Acyl-L-homoserine	white
+competence protein ComS	2.4.1.5	D-Fructose	Dextran	white
+competence protein ComS	2.4.1.5	D-Fructose	Sucrose	white
+competence protein ComS	2.4.1.5	Dextran	D-Fructose	white
+competence protein ComS	2.4.1.5	Dextran	Dextran	white
+competence protein ComS	2.4.1.5	Dextran	Sucrose	white
+competence protein ComS	2.4.1.5	Sucrose	D-Fructose	white
+competence protein ComS	2.4.1.5	Sucrose	Dextran	white
+competence protein ComX	2.7.13.3	FMN	Orthophosphate	white
+competence protein ComX	2.7.13.3	FMN	Riboflavin	white
+competence protein ComX	2.7.13.3	H2O	Orthophosphate	white
+competence protein ComX	2.7.13.3	H2O	Riboflavin	white
+competence protein ComX	2.7.13.3	Orthophosphate	FMN	white
+competence protein ComX	2.7.13.3	Orthophosphate	H2O	white
+competence protein ComX	2.7.13.3	Riboflavin	FMN	white
+competence protein ComX	2.7.13.3	Riboflavin	H2O	white
+competence-stimulating peptide	2.7.13.3	3',5'-Cyclic diGMP	GTP	white
+competence-stimulating peptide	2.7.13.3	Diphosphate	GTP	white
+competence-stimulating peptide	2.7.13.3	GTP	3',5'-Cyclic diGMP	white
+competence-stimulating peptide	2.7.13.3	GTP	Diphosphate	white
+delta-hemolysin	2.3.-.-	H2O	N-Acyl-L-homoserine	white
+delta-hemolysin	2.3.-.-	N-Acyl-L-homoserine	H2O	white
+delta-hemolysin	2.3.-.-	N-Acyl-L-homoserine	N-Acyl-L-homoserine lactone	white
+delta-hemolysin	2.3.-.-	N-Acyl-L-homoserine lactone	N-Acyl-L-homoserine	white
+dihydrophenazinedicarboxylate synthase	1.10.3.16	(1R,10aS)-1,4,10,10a-Tetrahydrophenazine-1,6-dicarboxylate	(1R,6R)-1,4,5,5a,6,9-Hexahydrophenazine-1,6-dicarboxylate	white
+dihydrophenazinedicarboxylate synthase	1.10.3.16	(1R,10aS)-1,4,10,10a-Tetrahydrophenazine-1,6-dicarboxylate	Oxygen	white
+dihydrophenazinedicarboxylate synthase	1.10.3.16	(1R,6R)-1,4,5,5a,6,9-Hexahydrophenazine-1,6-dicarboxylate	(1R,10aS)-1,4,10,10a-Tetrahydrophenazine-1,6-dicarboxylate	white
+dihydrophenazinedicarboxylate synthase	1.10.3.16	(1R,6R)-1,4,5,5a,6,9-Hexahydrophenazine-1,6-dicarboxylate	Hydrogen peroxide	white
+dihydrophenazinedicarboxylate synthase	1.10.3.16	Hydrogen peroxide	(1R,6R)-1,4,5,5a,6,9-Hexahydrophenazine-1,6-dicarboxylate	white
+dihydrophenazinedicarboxylate synthase	1.10.3.16	Hydrogen peroxide	Oxygen	white
+dihydrophenazinedicarboxylate synthase	1.10.3.16	Oxygen	(1R,10aS)-1,4,10,10a-Tetrahydrophenazine-1,6-dicarboxylate	white
+dihydrophenazinedicarboxylate synthase	1.10.3.16	Oxygen	Hydrogen peroxide	white
+external thioesterase TEII	3.4.21.-	D-Glyceraldehyde 3-phosphate	D-Tagatose 1,6-bisphosphate	white
+external thioesterase TEII	3.4.21.-	D-Tagatose 1,6-bisphosphate	D-Glyceraldehyde 3-phosphate	white
+external thioesterase TEII	3.4.21.-	D-Tagatose 1,6-bisphosphate	Glycerone phosphate	white
+external thioesterase TEII	3.4.21.-	Glycerone phosphate	D-Tagatose 1,6-bisphosphate	white
+flagellar transcriptional activator FlhC	1.17.5.3	Fumarate	Quinone	white
+flagellar transcriptional activator FlhC	1.17.5.3	Fumarate	Succinate	white
+flagellar transcriptional activator FlhC	1.17.5.3	Hydroquinone	Quinone	white
+flagellar transcriptional activator FlhC	1.17.5.3	Hydroquinone	Succinate	white
+flagellar transcriptional activator FlhC	1.17.5.3	Quinone	Fumarate	white
+flagellar transcriptional activator FlhC	1.17.5.3	Quinone	Hydroquinone	white
+flagellar transcriptional activator FlhC	1.17.5.3	Succinate	Fumarate	white
+flagellar transcriptional activator FlhC	1.17.5.3	Succinate	Hydroquinone	white
+flagellar transcriptional activator FlhD	1.17.5.3	Fumarate	Quinone	white
+flagellar transcriptional activator FlhD	1.17.5.3	Fumarate	Succinate	white
+flagellar transcriptional activator FlhD	1.17.5.3	Hydroquinone	Quinone	white
+flagellar transcriptional activator FlhD	1.17.5.3	Hydroquinone	Succinate	white
+flagellar transcriptional activator FlhD	1.17.5.3	Quinone	Fumarate	white
+flagellar transcriptional activator FlhD	1.17.5.3	Quinone	Hydroquinone	white
+flagellar transcriptional activator FlhD	1.17.5.3	Succinate	Fumarate	white
+flagellar transcriptional activator FlhD	1.17.5.3	Succinate	Hydroquinone	white
+flavin reductase	1.14.14.15	(S)-3-Chloro-beta-tyrosyl-[pcp]	(S)-beta-Tyrosyl-[pcp]	white
+flavin reductase	1.14.14.15	(S)-3-Chloro-beta-tyrosyl-[pcp]	Cl-	white
+flavin reductase	1.14.14.15	(S)-3-Chloro-beta-tyrosyl-[pcp]	FADH2	white
+flavin reductase	1.14.14.15	(S)-3-Chloro-beta-tyrosyl-[pcp]	H+	white
+flavin reductase	1.14.14.15	(S)-3-Chloro-beta-tyrosyl-[pcp]	Oxygen	white
+flavin reductase	1.14.14.15	(S)-beta-Tyrosyl-[pcp]	(S)-3-Chloro-beta-tyrosyl-[pcp]	white
+flavin reductase	1.14.14.15	(S)-beta-Tyrosyl-[pcp]	FAD	white
+flavin reductase	1.14.14.15	(S)-beta-Tyrosyl-[pcp]	H2O	white
+flavin reductase	1.14.14.15	Cl-	(S)-3-Chloro-beta-tyrosyl-[pcp]	white
+flavin reductase	1.14.14.15	Cl-	FAD	white
+flavin reductase	1.14.14.15	Cl-	H2O	white
+flavin reductase	1.14.14.15	FAD	(S)-beta-Tyrosyl-[pcp]	white
+flavin reductase	1.14.14.15	FAD	Cl-	white
+flavin reductase	1.14.14.15	FAD	FADH2	white
+flavin reductase	1.14.14.15	FAD	H+	white
+flavin reductase	1.14.14.15	FAD	Oxygen	white
+flavin reductase	1.14.14.15	FADH2	(S)-3-Chloro-beta-tyrosyl-[pcp]	white
+flavin reductase	1.14.14.15	FADH2	FAD	white
+flavin reductase	1.14.14.15	FADH2	H2O	white
+flavin reductase	1.14.14.15	H+	(S)-3-Chloro-beta-tyrosyl-[pcp]	white
+flavin reductase	1.14.14.15	H+	FAD	white
+flavin reductase	1.14.14.15	H+	H2O	white
+flavin reductase	1.14.14.15	H2O	(S)-beta-Tyrosyl-[pcp]	white
+flavin reductase	1.14.14.15	H2O	Cl-	white
+flavin reductase	1.14.14.15	H2O	FADH2	white
+flavin reductase	1.14.14.15	H2O	H+	white
+flavin reductase	1.14.14.15	H2O	Oxygen	white
+flavin reductase	1.14.14.15	Oxygen	(S)-3-Chloro-beta-tyrosyl-[pcp]	white
+flavin reductase	1.14.14.15	Oxygen	FAD	white
+flavin reductase	1.14.14.15	Oxygen	H2O	white
+glutamyl endopeptidase	3.4.21.19	H2O	N-Acyl-L-homoserine	white
+glutamyl endopeptidase	3.4.21.19	N-Acyl-L-homoserine	H2O	white
+glutamyl endopeptidase	3.4.21.19	N-Acyl-L-homoserine	N-Acyl-L-homoserine lactone	white
+glutamyl endopeptidase	3.4.21.19	N-Acyl-L-homoserine lactone	N-Acyl-L-homoserine	white
+glycosyltransferase XagB	3.2.1.78	1,4-beta-D-Mannan	D-Mannose	white
+glycosyltransferase XagB	3.2.1.78	D-Mannose	1,4-beta-D-Mannan	white
+glycosyltransferase XagB	3.2.1.78	D-Mannose	H2O	white
+glycosyltransferase XagB	3.2.1.78	H2O	D-Mannose	white
+hemolysin BL binding component	3.4.24.-	D-Glyceraldehyde 3-phosphate	D-Tagatose 1,6-bisphosphate	white
+hemolysin BL binding component	3.4.24.-	D-Tagatose 1,6-bisphosphate	D-Glyceraldehyde 3-phosphate	white
+hemolysin BL binding component	3.4.24.-	D-Tagatose 1,6-bisphosphate	Glycerone phosphate	white
+hemolysin BL binding component	3.4.24.-	Glycerone phosphate	D-Tagatose 1,6-bisphosphate	white
+hemolysin BL lytic component L1	3.4.24.-	D-Glyceraldehyde 3-phosphate	D-Tagatose 1,6-bisphosphate	white
+hemolysin BL lytic component L1	3.4.24.-	D-Tagatose 1,6-bisphosphate	D-Glyceraldehyde 3-phosphate	white
+hemolysin BL lytic component L1	3.4.24.-	D-Tagatose 1,6-bisphosphate	Glycerone phosphate	white
+hemolysin BL lytic component L1	3.4.24.-	Glycerone phosphate	D-Tagatose 1,6-bisphosphate	white
+hemolysin BL lytic component L2	3.4.24.-	D-Glyceraldehyde 3-phosphate	D-Tagatose 1,6-bisphosphate	white
+hemolysin BL lytic component L2	3.4.24.-	D-Tagatose 1,6-bisphosphate	D-Glyceraldehyde 3-phosphate	white
+hemolysin BL lytic component L2	3.4.24.-	D-Tagatose 1,6-bisphosphate	Glycerone phosphate	white
+hemolysin BL lytic component L2	3.4.24.-	Glycerone phosphate	D-Tagatose 1,6-bisphosphate	white
+host factor-I protein	3.1.-.-	H2O	N-Acyl-L-homoserine	white
+host factor-I protein	3.1.-.-	N-Acyl-L-homoserine	H2O	white
+host factor-I protein	3.1.-.-	N-Acyl-L-homoserine	N-Acyl-L-homoserine lactone	white
+host factor-I protein	3.1.-.-	N-Acyl-L-homoserine lactone	N-Acyl-L-homoserine	white
+immunity protein	3.5.4.25	2,5-Diamino-6-(5-phospho-D-ribosylamino)pyrimidin-4(3H)-one	GTP	white
+immunity protein	3.5.4.25	2,5-Diamino-6-(5-phospho-D-ribosylamino)pyrimidin-4(3H)-one	H2O	white
+immunity protein	3.5.4.25	Formate	GTP	white
+immunity protein	3.5.4.25	Formate	H2O	white
+immunity protein	3.5.4.25	GTP	2,5-Diamino-6-(5-phospho-D-ribosylamino)pyrimidin-4(3H)-one	white
+immunity protein	3.5.4.25	GTP	Formate	white
+immunity protein	3.5.4.25	GTP	Orthophosphate	white
+immunity protein	3.5.4.25	H2O	2,5-Diamino-6-(5-phospho-D-ribosylamino)pyrimidin-4(3H)-one	white
+immunity protein	3.5.4.25	H2O	Formate	white
+immunity protein	3.5.4.25	H2O	Orthophosphate	white
+immunity protein	3.5.4.25	Orthophosphate	GTP	white
+immunity protein	3.5.4.25	Orthophosphate	H2O	white
+lantibiotic bacteriocin	2.7.13.3	2,4-Diamino-6-hydroxylaminotoluene	2,4-Diamino-6-nitrotoluene	white
+lantibiotic bacteriocin	2.7.13.3	2,4-Diamino-6-nitrotoluene	2,4-Diamino-6-hydroxylaminotoluene	white
+lantibiotic immunity protein	3.4.21.-	2,4-Diamino-6-hydroxylaminotoluene	2,4-Diamino-6-nitrotoluene	white
+lantibiotic immunity protein	3.4.21.-	2,4-Diamino-6-nitrotoluene	2,4-Diamino-6-hydroxylaminotoluene	white
+lantibiotic leader peptide-processing serine protease	3.4.21.-	2,4-Diamino-6-hydroxylaminotoluene	2,4-Diamino-6-nitrotoluene	white
+lantibiotic leader peptide-processing serine protease	3.4.21.-	2,4-Diamino-6-nitrotoluene	2,4-Diamino-6-hydroxylaminotoluene	white
+lantibiotic transport system ATP-binding protein	3.4.22.-	ADP	ATP	white
+lantibiotic transport system ATP-binding protein	3.4.22.-	ADP	H2O	white
+lantibiotic transport system ATP-binding protein	3.4.22.-	ADP	Tungstate	white
+lantibiotic transport system ATP-binding protein	3.4.22.-	ATP	ADP	white
+lantibiotic transport system ATP-binding protein	3.4.22.-	ATP	Orthophosphate	white
+lantibiotic transport system ATP-binding protein	3.4.22.-	ATP	Tungstate	white
+lantibiotic transport system ATP-binding protein	3.4.22.-	H2O	ADP	white
+lantibiotic transport system ATP-binding protein	3.4.22.-	H2O	Orthophosphate	white
+lantibiotic transport system ATP-binding protein	3.4.22.-	H2O	Tungstate	white
+lantibiotic transport system ATP-binding protein	3.4.22.-	Orthophosphate	ATP	white
+lantibiotic transport system ATP-binding protein	3.4.22.-	Orthophosphate	H2O	white
+lantibiotic transport system ATP-binding protein	3.4.22.-	Orthophosphate	Tungstate	white
+lantibiotic transport system ATP-binding protein	3.4.22.-	Tungstate	ADP	white
+lantibiotic transport system ATP-binding protein	3.4.22.-	Tungstate	ATP	white
+lantibiotic transport system ATP-binding protein	3.4.22.-	Tungstate	H2O	white
+lantibiotic transport system ATP-binding protein	3.4.22.-	Tungstate	Orthophosphate	white
+lantibiotic transport system ATP-binding protein	3.4.22.-	Tungstate	Tungstate	white
+lantibiotic transport system permease protein	3.4.22.-	ADP	ATP	white
+lantibiotic transport system permease protein	3.4.22.-	ADP	H2O	white
+lantibiotic transport system permease protein	3.4.22.-	ADP	Tungstate	white
+lantibiotic transport system permease protein	3.4.22.-	ATP	ADP	white
+lantibiotic transport system permease protein	3.4.22.-	ATP	Orthophosphate	white
+lantibiotic transport system permease protein	3.4.22.-	ATP	Tungstate	white
+lantibiotic transport system permease protein	3.4.22.-	H2O	ADP	white
+lantibiotic transport system permease protein	3.4.22.-	H2O	Orthophosphate	white
+lantibiotic transport system permease protein	3.4.22.-	H2O	Tungstate	white
+lantibiotic transport system permease protein	3.4.22.-	Orthophosphate	ATP	white
+lantibiotic transport system permease protein	3.4.22.-	Orthophosphate	H2O	white
+lantibiotic transport system permease protein	3.4.22.-	Orthophosphate	Tungstate	white
+lantibiotic transport system permease protein	3.4.22.-	Tungstate	ADP	white
+lantibiotic transport system permease protein	3.4.22.-	Tungstate	ATP	white
+lantibiotic transport system permease protein	3.4.22.-	Tungstate	H2O	white
+lantibiotic transport system permease protein	3.4.22.-	Tungstate	Orthophosphate	white
+lantibiotic transport system permease protein	3.4.22.-	Tungstate	Tungstate	white
+large repetitive protein	4.1.3.27	Ammonia	Anthranilate	white
+large repetitive protein	4.1.3.27	Ammonia	H2O	white
+large repetitive protein	4.1.3.27	Ammonia	Pyruvate	white
+large repetitive protein	4.1.3.27	Anthranilate	Ammonia	white
+large repetitive protein	4.1.3.27	Anthranilate	Chorismate	white
+large repetitive protein	4.1.3.27	Chorismate	Anthranilate	white
+large repetitive protein	4.1.3.27	Chorismate	H2O	white
+large repetitive protein	4.1.3.27	Chorismate	Pyruvate	white
+large repetitive protein	4.1.3.27	H2O	Ammonia	white
+large repetitive protein	4.1.3.27	H2O	Chorismate	white
+large repetitive protein	4.1.3.27	Pyruvate	Ammonia	white
+large repetitive protein	4.1.3.27	Pyruvate	Chorismate	white
+long-chain-fatty-acid---luciferin-component ligase	6.2.1.19	FMN	Long-chain aldehyde	white
+long-chain-fatty-acid---luciferin-component ligase	6.2.1.19	FMN	Oxygen	white
+long-chain-fatty-acid---luciferin-component ligase	6.2.1.19	FMN	Reduced FMN	white
+long-chain-fatty-acid---luciferin-component ligase	6.2.1.19	H2O	Long-chain aldehyde	white
+long-chain-fatty-acid---luciferin-component ligase	6.2.1.19	H2O	Oxygen	white
+long-chain-fatty-acid---luciferin-component ligase	6.2.1.19	H2O	Reduced FMN	white
+long-chain-fatty-acid---luciferin-component ligase	6.2.1.19	Long-chain aldehyde	FMN	white
+long-chain-fatty-acid---luciferin-component ligase	6.2.1.19	Long-chain aldehyde	H2O	white
+long-chain-fatty-acid---luciferin-component ligase	6.2.1.19	Long-chain aldehyde	Long-chain fatty acid	white
+long-chain-fatty-acid---luciferin-component ligase	6.2.1.19	Long-chain aldehyde	hn	white
+long-chain-fatty-acid---luciferin-component ligase	6.2.1.19	Long-chain fatty acid	Long-chain aldehyde	white
+long-chain-fatty-acid---luciferin-component ligase	6.2.1.19	Long-chain fatty acid	Oxygen	white
+long-chain-fatty-acid---luciferin-component ligase	6.2.1.19	Long-chain fatty acid	Reduced FMN	white
+long-chain-fatty-acid---luciferin-component ligase	6.2.1.19	Oxygen	FMN	white
+long-chain-fatty-acid---luciferin-component ligase	6.2.1.19	Oxygen	H2O	white
+long-chain-fatty-acid---luciferin-component ligase	6.2.1.19	Oxygen	Long-chain fatty acid	white
+long-chain-fatty-acid---luciferin-component ligase	6.2.1.19	Oxygen	hn	white
+long-chain-fatty-acid---luciferin-component ligase	6.2.1.19	Reduced FMN	FMN	white
+long-chain-fatty-acid---luciferin-component ligase	6.2.1.19	Reduced FMN	H2O	white
+long-chain-fatty-acid---luciferin-component ligase	6.2.1.19	Reduced FMN	Long-chain fatty acid	white
+long-chain-fatty-acid---luciferin-component ligase	6.2.1.19	Reduced FMN	hn	white
+long-chain-fatty-acid---luciferin-component ligase	6.2.1.19	hn	Long-chain aldehyde	white
+long-chain-fatty-acid---luciferin-component ligase	6.2.1.19	hn	Oxygen	white
+long-chain-fatty-acid---luciferin-component ligase	6.2.1.19	hn	Reduced FMN	white
+long-chain-fatty-acyl-CoA reductase	1.2.1.50	H+	Long-chain aldehyde	white
+long-chain-fatty-acyl-CoA reductase	1.2.1.50	H+	NADP+	white
+long-chain-fatty-acyl-CoA reductase	1.2.1.50	H+	[Protein]-L-cysteine	white
+long-chain-fatty-acyl-CoA reductase	1.2.1.50	Long-chain aldehyde	H+	white
+long-chain-fatty-acyl-CoA reductase	1.2.1.50	Long-chain aldehyde	NADPH	white
+long-chain-fatty-acyl-CoA reductase	1.2.1.50	Long-chain aldehyde	[Protein]-S-(long-chain-acyl)-L-cysteine	white
+long-chain-fatty-acyl-CoA reductase	1.2.1.50	NADP+	H+	white
+long-chain-fatty-acyl-CoA reductase	1.2.1.50	NADP+	NADPH	white
+long-chain-fatty-acyl-CoA reductase	1.2.1.50	NADP+	[Protein]-S-(long-chain-acyl)-L-cysteine	white
+long-chain-fatty-acyl-CoA reductase	1.2.1.50	NADPH	Long-chain aldehyde	white
+long-chain-fatty-acyl-CoA reductase	1.2.1.50	NADPH	NADP+	white
+long-chain-fatty-acyl-CoA reductase	1.2.1.50	NADPH	[Protein]-L-cysteine	white
+long-chain-fatty-acyl-CoA reductase	1.2.1.50	[Protein]-L-cysteine	H+	white
+long-chain-fatty-acyl-CoA reductase	1.2.1.50	[Protein]-L-cysteine	NADPH	white
+long-chain-fatty-acyl-CoA reductase	1.2.1.50	[Protein]-L-cysteine	[Protein]-S-(long-chain-acyl)-L-cysteine	white
+long-chain-fatty-acyl-CoA reductase	1.2.1.50	[Protein]-S-(long-chain-acyl)-L-cysteine	Long-chain aldehyde	white
+long-chain-fatty-acyl-CoA reductase	1.2.1.50	[Protein]-S-(long-chain-acyl)-L-cysteine	NADP+	white
+long-chain-fatty-acyl-CoA reductase	1.2.1.50	[Protein]-S-(long-chain-acyl)-L-cysteine	[Protein]-L-cysteine	white
+lsr operon transcriptional repressor	2.7.1.189	(4S)-4-Hydroxy-5-phosphooxypentane-2,3-dione	(S)-4,5-Dihydroxypentane-2,3-dione	white
+lsr operon transcriptional repressor	2.7.1.189	(4S)-4-Hydroxy-5-phosphooxypentane-2,3-dione	ATP	white
+lsr operon transcriptional repressor	2.7.1.189	(S)-4,5-Dihydroxypentane-2,3-dione	(4S)-4-Hydroxy-5-phosphooxypentane-2,3-dione	white
+lsr operon transcriptional repressor	2.7.1.189	(S)-4,5-Dihydroxypentane-2,3-dione	ADP	white
+lsr operon transcriptional repressor	2.7.1.189	ADP	(S)-4,5-Dihydroxypentane-2,3-dione	white
+lsr operon transcriptional repressor	2.7.1.189	ADP	ATP	white
+lsr operon transcriptional repressor	2.7.1.189	ATP	(4S)-4-Hydroxy-5-phosphooxypentane-2,3-dione	white
+lsr operon transcriptional repressor	2.7.1.189	ATP	ADP	white
+mannan endo-1,4-beta-mannosidase	3.2.1.78	1,4-beta-D-Mannan	D-Mannose	white
+mannan endo-1,4-beta-mannosidase	3.2.1.78	D-Mannose	1,4-beta-D-Mannan	white
+mannan endo-1,4-beta-mannosidase	3.2.1.78	D-Mannose	H2O	white
+mannan endo-1,4-beta-mannosidase	3.2.1.78	H2O	D-Mannose	white
+mannose-binding lectin	4.1.3.27	Ammonia	Anthranilate	white
+mannose-binding lectin	4.1.3.27	Ammonia	H2O	white
+mannose-binding lectin	4.1.3.27	Ammonia	Pyruvate	white
+mannose-binding lectin	4.1.3.27	Anthranilate	Ammonia	white
+mannose-binding lectin	4.1.3.27	Anthranilate	Chorismate	white
+mannose-binding lectin	4.1.3.27	Chorismate	Anthranilate	white
+mannose-binding lectin	4.1.3.27	Chorismate	H2O	white
+mannose-binding lectin	4.1.3.27	Chorismate	Pyruvate	white
+mannose-binding lectin	4.1.3.27	H2O	Ammonia	white
+mannose-binding lectin	4.1.3.27	H2O	Chorismate	white
+mannose-binding lectin	4.1.3.27	Pyruvate	Ammonia	white
+mannose-binding lectin	4.1.3.27	Pyruvate	Chorismate	white
+membrane fusion protein, multidrug efflux system	3.5.2.6	H2O	Penicilloic acid	white
+membrane fusion protein, multidrug efflux system	3.5.2.6	Penicillin	Penicilloic acid	white
+membrane fusion protein, multidrug efflux system	3.5.2.6	Penicilloic acid	H2O	white
+membrane fusion protein, multidrug efflux system	3.5.2.6	Penicilloic acid	Penicillin	white
+membrane fusion protein, peptide pheromone/bacteriocin exporter	3.1.-.-	H2O	N-Acyl-L-homoserine	white
+membrane fusion protein, peptide pheromone/bacteriocin exporter	3.1.-.-	N-Acyl-L-homoserine	H2O	white
+membrane fusion protein, peptide pheromone/bacteriocin exporter	3.1.-.-	N-Acyl-L-homoserine	N-Acyl-L-homoserine lactone	white
+membrane fusion protein, peptide pheromone/bacteriocin exporter	3.1.-.-	N-Acyl-L-homoserine lactone	N-Acyl-L-homoserine	white
+membrane protein XagC	3.2.1.78	1,4-beta-D-Mannan	D-Mannose	white
+membrane protein XagC	3.2.1.78	D-Mannose	1,4-beta-D-Mannan	white
+membrane protein XagC	3.2.1.78	D-Mannose	H2O	white
+membrane protein XagC	3.2.1.78	H2O	D-Mannose	white
+multidrug efflux pump	3.5.2.6	H2O	Penicilloic acid	white
+multidrug efflux pump	3.5.2.6	Penicillin	Penicilloic acid	white
+multidrug efflux pump	3.5.2.6	Penicilloic acid	H2O	white
+multidrug efflux pump	3.5.2.6	Penicilloic acid	Penicillin	white
+mutacin IV	3.5.4.25	2,5-Diamino-6-(5-phospho-D-ribosylamino)pyrimidin-4(3H)-one	GTP	white
+mutacin IV	3.5.4.25	2,5-Diamino-6-(5-phospho-D-ribosylamino)pyrimidin-4(3H)-one	H2O	white
+mutacin IV	3.5.4.25	Formate	GTP	white
+mutacin IV	3.5.4.25	Formate	H2O	white
+mutacin IV	3.5.4.25	GTP	2,5-Diamino-6-(5-phospho-D-ribosylamino)pyrimidin-4(3H)-one	white
+mutacin IV	3.5.4.25	GTP	Formate	white
+mutacin IV	3.5.4.25	GTP	Orthophosphate	white
+mutacin IV	3.5.4.25	H2O	2,5-Diamino-6-(5-phospho-D-ribosylamino)pyrimidin-4(3H)-one	white
+mutacin IV	3.5.4.25	H2O	Formate	white
+mutacin IV	3.5.4.25	H2O	Orthophosphate	white
+mutacin IV	3.5.4.25	Orthophosphate	GTP	white
+mutacin IV	3.5.4.25	Orthophosphate	H2O	white
+mutacin V	3.1.-.-	1,2-Diacyl-sn-glycerol	H2O	white
+mutacin V	3.1.-.-	1,2-Diacyl-sn-glycerol	Phosphatidylcholine	white
+mutacin V	3.1.-.-	Choline phosphate	H2O	white
+mutacin V	3.1.-.-	Choline phosphate	Phosphatidylcholine	white
+mutacin V	3.1.-.-	H2O	1,2-Diacyl-sn-glycerol	white
+mutacin V	3.1.-.-	H2O	Choline phosphate	white
+mutacin V	3.1.-.-	Phosphatidylcholine	1,2-Diacyl-sn-glycerol	white
+mutacin V	3.1.-.-	Phosphatidylcholine	Choline phosphate	white
+mutacin VI	3.1.-.-	1,2-Diacyl-sn-glycerol	H2O	white
+mutacin VI	3.1.-.-	1,2-Diacyl-sn-glycerol	Phosphatidylcholine	white
+mutacin VI	3.1.-.-	Choline phosphate	H2O	white
+mutacin VI	3.1.-.-	Choline phosphate	Phosphatidylcholine	white
+mutacin VI	3.1.-.-	H2O	1,2-Diacyl-sn-glycerol	white
+mutacin VI	3.1.-.-	H2O	Choline phosphate	white
+mutacin VI	3.1.-.-	Phosphatidylcholine	1,2-Diacyl-sn-glycerol	white
+mutacin VI	3.1.-.-	Phosphatidylcholine	Choline phosphate	white
+nematocidal protein AidA	4.1.3.27	Ammonia	Anthranilate	white
+nematocidal protein AidA	4.1.3.27	Ammonia	H2O	white
+nematocidal protein AidA	4.1.3.27	Ammonia	Pyruvate	white
+nematocidal protein AidA	4.1.3.27	Anthranilate	Ammonia	white
+nematocidal protein AidA	4.1.3.27	Anthranilate	Chorismate	white
+nematocidal protein AidA	4.1.3.27	Chorismate	Anthranilate	white
+nematocidal protein AidA	4.1.3.27	Chorismate	H2O	white
+nematocidal protein AidA	4.1.3.27	Chorismate	Pyruvate	white
+nematocidal protein AidA	4.1.3.27	H2O	Ammonia	white
+nematocidal protein AidA	4.1.3.27	H2O	Chorismate	white
+nematocidal protein AidA	4.1.3.27	Pyruvate	Ammonia	white
+nematocidal protein AidA	4.1.3.27	Pyruvate	Chorismate	white
+neutral peptidase B	3.4.24.-	D-Glyceraldehyde 3-phosphate	D-Tagatose 1,6-bisphosphate	white
+neutral peptidase B	3.4.24.-	D-Tagatose 1,6-bisphosphate	D-Glyceraldehyde 3-phosphate	white
+neutral peptidase B	3.4.24.-	D-Tagatose 1,6-bisphosphate	Glycerone phosphate	white
+neutral peptidase B	3.4.24.-	Glycerone phosphate	D-Tagatose 1,6-bisphosphate	white
+non-hemolytic enterotoxin A	3.4.24.-	D-Glyceraldehyde 3-phosphate	D-Tagatose 1,6-bisphosphate	white
+non-hemolytic enterotoxin A	3.4.24.-	D-Tagatose 1,6-bisphosphate	D-Glyceraldehyde 3-phosphate	white
+non-hemolytic enterotoxin A	3.4.24.-	D-Tagatose 1,6-bisphosphate	Glycerone phosphate	white
+non-hemolytic enterotoxin A	3.4.24.-	Glycerone phosphate	D-Tagatose 1,6-bisphosphate	white
+non-hemolytic enterotoxin B/C	3.4.24.-	D-Glyceraldehyde 3-phosphate	D-Tagatose 1,6-bisphosphate	white
+non-hemolytic enterotoxin B/C	3.4.24.-	D-Tagatose 1,6-bisphosphate	D-Glyceraldehyde 3-phosphate	white
+non-hemolytic enterotoxin B/C	3.4.24.-	D-Tagatose 1,6-bisphosphate	Glycerone phosphate	white
+non-hemolytic enterotoxin B/C	3.4.24.-	Glycerone phosphate	D-Tagatose 1,6-bisphosphate	white
+outer membrane protein, multidrug efflux system	7.6.2.2	H2O	Penicilloic acid	white
+outer membrane protein, multidrug efflux system	7.6.2.2	Penicillin	Penicilloic acid	white
+outer membrane protein, multidrug efflux system	7.6.2.2	Penicilloic acid	H2O	white
+outer membrane protein, multidrug efflux system	7.6.2.2	Penicilloic acid	Penicillin	white
+pectate lyase	4.2.2.2	4-(4-Deoxy-alpha-D-gluc-4-enuronosyl)-D-galacturonate	Pectate	white
+pectate lyase	4.2.2.2	Pectate	4-(4-Deoxy-alpha-D-gluc-4-enuronosyl)-D-galacturonate	white
+pectate lyase	4.2.2.2	Pectate	Pectate	white
+peptide inhibitor iCF10	4.1.2.40	D-Glyceraldehyde 3-phosphate	D-Tagatose 1,6-bisphosphate	white
+peptide inhibitor iCF10	4.1.2.40	D-Tagatose 1,6-bisphosphate	D-Glyceraldehyde 3-phosphate	white
+peptide inhibitor iCF10	4.1.2.40	D-Tagatose 1,6-bisphosphate	Glycerone phosphate	white
+peptide inhibitor iCF10	4.1.2.40	Glycerone phosphate	D-Tagatose 1,6-bisphosphate	white
+peptide pheromone BlpC	3.1.-.-	H2O	N-Acyl-L-homoserine	white
+peptide pheromone BlpC	3.1.-.-	N-Acyl-L-homoserine	H2O	white
+peptide pheromone BlpC	3.1.-.-	N-Acyl-L-homoserine	N-Acyl-L-homoserine lactone	white
+peptide pheromone BlpC	3.1.-.-	N-Acyl-L-homoserine lactone	N-Acyl-L-homoserine	white
+phenazine biosynthesis protein	1.10.3.16	(1R,6R)-1,4,5,5a,6,9-Hexahydrophenazine-1,6-dicarboxylate	(1R,6S)-6-Amino-5-oxocyclohex-2-ene-1-carboxylate	white
+phenazine biosynthesis protein	1.10.3.16	(1R,6S)-6-Amino-5-oxocyclohex-2-ene-1-carboxylate	(1R,6R)-1,4,5,5a,6,9-Hexahydrophenazine-1,6-dicarboxylate	white
+phenazine biosynthesis protein	1.10.3.16	(1R,6S)-6-Amino-5-oxocyclohex-2-ene-1-carboxylate	H2O	white
+phenazine biosynthesis protein	1.10.3.16	H2O	(1R,6S)-6-Amino-5-oxocyclohex-2-ene-1-carboxylate	white
+phenol-soluble modulin alpha 1/2	3.5.4.25	2,5-Diamino-6-(5-phospho-D-ribosylamino)pyrimidin-4(3H)-one	GTP	white
+phenol-soluble modulin alpha 1/2	3.5.4.25	2,5-Diamino-6-(5-phospho-D-ribosylamino)pyrimidin-4(3H)-one	H2O	white
+phenol-soluble modulin alpha 1/2	3.5.4.25	Formate	GTP	white
+phenol-soluble modulin alpha 1/2	3.5.4.25	Formate	H2O	white
+phenol-soluble modulin alpha 1/2	3.5.4.25	GTP	2,5-Diamino-6-(5-phospho-D-ribosylamino)pyrimidin-4(3H)-one	white
+phenol-soluble modulin alpha 1/2	3.5.4.25	GTP	Formate	white
+phenol-soluble modulin alpha 1/2	3.5.4.25	GTP	Orthophosphate	white
+phenol-soluble modulin alpha 1/2	3.5.4.25	H2O	2,5-Diamino-6-(5-phospho-D-ribosylamino)pyrimidin-4(3H)-one	white
+phenol-soluble modulin alpha 1/2	3.5.4.25	H2O	Formate	white
+phenol-soluble modulin alpha 1/2	3.5.4.25	H2O	Orthophosphate	white
+phenol-soluble modulin alpha 1/2	3.5.4.25	Orthophosphate	GTP	white
+phenol-soluble modulin alpha 1/2	3.5.4.25	Orthophosphate	H2O	white
+phenol-soluble modulin alpha 3	3.5.4.25	2,5-Diamino-6-(5-phospho-D-ribosylamino)pyrimidin-4(3H)-one	GTP	white
+phenol-soluble modulin alpha 3	3.5.4.25	2,5-Diamino-6-(5-phospho-D-ribosylamino)pyrimidin-4(3H)-one	H2O	white
+phenol-soluble modulin alpha 3	3.5.4.25	Formate	GTP	white
+phenol-soluble modulin alpha 3	3.5.4.25	Formate	H2O	white
+phenol-soluble modulin alpha 3	3.5.4.25	GTP	2,5-Diamino-6-(5-phospho-D-ribosylamino)pyrimidin-4(3H)-one	white
+phenol-soluble modulin alpha 3	3.5.4.25	GTP	Formate	white
+phenol-soluble modulin alpha 3	3.5.4.25	GTP	Orthophosphate	white
+phenol-soluble modulin alpha 3	3.5.4.25	H2O	2,5-Diamino-6-(5-phospho-D-ribosylamino)pyrimidin-4(3H)-one	white
+phenol-soluble modulin alpha 3	3.5.4.25	H2O	Formate	white
+phenol-soluble modulin alpha 3	3.5.4.25	H2O	Orthophosphate	white
+phenol-soluble modulin alpha 3	3.5.4.25	Orthophosphate	GTP	white
+phenol-soluble modulin alpha 3	3.5.4.25	Orthophosphate	H2O	white
+phenol-soluble modulin beta	3.5.4.25	2,5-Diamino-6-(5-phospho-D-ribosylamino)pyrimidin-4(3H)-one	GTP	white
+phenol-soluble modulin beta	3.5.4.25	2,5-Diamino-6-(5-phospho-D-ribosylamino)pyrimidin-4(3H)-one	H2O	white
+phenol-soluble modulin beta	3.5.4.25	Formate	GTP	white
+phenol-soluble modulin beta	3.5.4.25	Formate	H2O	white
+phenol-soluble modulin beta	3.5.4.25	GTP	2,5-Diamino-6-(5-phospho-D-ribosylamino)pyrimidin-4(3H)-one	white
+phenol-soluble modulin beta	3.5.4.25	GTP	Formate	white
+phenol-soluble modulin beta	3.5.4.25	GTP	Orthophosphate	white
+phenol-soluble modulin beta	3.5.4.25	H2O	2,5-Diamino-6-(5-phospho-D-ribosylamino)pyrimidin-4(3H)-one	white
+phenol-soluble modulin beta	3.5.4.25	H2O	Formate	white
+phenol-soluble modulin beta	3.5.4.25	H2O	Orthophosphate	white
+phenol-soluble modulin beta	3.5.4.25	Orthophosphate	GTP	white
+phenol-soluble modulin beta	3.5.4.25	Orthophosphate	H2O	white
+phosphatase RapA inhibitor	3.4.21.-	D-Glyceraldehyde 3-phosphate	D-Tagatose 1,6-bisphosphate	white
+phosphatase RapA inhibitor	3.4.21.-	D-Tagatose 1,6-bisphosphate	D-Glyceraldehyde 3-phosphate	white
+phosphatase RapA inhibitor	3.4.21.-	D-Tagatose 1,6-bisphosphate	Glycerone phosphate	white
+phosphatase RapA inhibitor	3.4.21.-	Glycerone phosphate	D-Tagatose 1,6-bisphosphate	white
+phosphatase RapC regulator	3.4.21.-	D-Glyceraldehyde 3-phosphate	D-Tagatose 1,6-bisphosphate	white
+phosphatase RapC regulator	3.4.21.-	D-Tagatose 1,6-bisphosphate	D-Glyceraldehyde 3-phosphate	white
+phosphatase RapC regulator	3.4.21.-	D-Tagatose 1,6-bisphosphate	Glycerone phosphate	white
+phosphatase RapC regulator	3.4.21.-	Glycerone phosphate	D-Tagatose 1,6-bisphosphate	white
+phosphatase RapE regulator	3.4.21.-	D-Glyceraldehyde 3-phosphate	D-Tagatose 1,6-bisphosphate	white
+phosphatase RapE regulator	3.4.21.-	D-Tagatose 1,6-bisphosphate	D-Glyceraldehyde 3-phosphate	white
+phosphatase RapE regulator	3.4.21.-	D-Tagatose 1,6-bisphosphate	Glycerone phosphate	white
+phosphatase RapE regulator	3.4.21.-	Glycerone phosphate	D-Tagatose 1,6-bisphosphate	white
+phosphatase RapF regulator	3.4.21.-	D-Glyceraldehyde 3-phosphate	D-Tagatose 1,6-bisphosphate	white
+phosphatase RapF regulator	3.4.21.-	D-Tagatose 1,6-bisphosphate	D-Glyceraldehyde 3-phosphate	white
+phosphatase RapF regulator	3.4.21.-	D-Tagatose 1,6-bisphosphate	Glycerone phosphate	white
+phosphatase RapF regulator	3.4.21.-	Glycerone phosphate	D-Tagatose 1,6-bisphosphate	white
+phosphatase RapG regulator	3.4.21.-	D-Glyceraldehyde 3-phosphate	D-Tagatose 1,6-bisphosphate	white
+phosphatase RapG regulator	3.4.21.-	D-Tagatose 1,6-bisphosphate	D-Glyceraldehyde 3-phosphate	white
+phosphatase RapG regulator	3.4.21.-	D-Tagatose 1,6-bisphosphate	Glycerone phosphate	white
+phosphatase RapG regulator	3.4.21.-	Glycerone phosphate	D-Tagatose 1,6-bisphosphate	white
+phosphatase RapH regulator	3.4.21.-	D-Glyceraldehyde 3-phosphate	D-Tagatose 1,6-bisphosphate	white
+phosphatase RapH regulator	3.4.21.-	D-Tagatose 1,6-bisphosphate	D-Glyceraldehyde 3-phosphate	white
+phosphatase RapH regulator	3.4.21.-	D-Tagatose 1,6-bisphosphate	Glycerone phosphate	white
+phosphatase RapH regulator	3.4.21.-	Glycerone phosphate	D-Tagatose 1,6-bisphosphate	white
+phosphatase RapK regulator	3.4.21.-	D-Glyceraldehyde 3-phosphate	D-Tagatose 1,6-bisphosphate	white
+phosphatase RapK regulator	3.4.21.-	D-Tagatose 1,6-bisphosphate	D-Glyceraldehyde 3-phosphate	white
+phosphatase RapK regulator	3.4.21.-	D-Tagatose 1,6-bisphosphate	Glycerone phosphate	white
+phosphatase RapK regulator	3.4.21.-	Glycerone phosphate	D-Tagatose 1,6-bisphosphate	white
+phospholipase C / alpha-toxin	3.1.4.3	1,2-Diacyl-sn-glycerol	H2O	white
+phospholipase C / alpha-toxin	3.1.4.3	1,2-Diacyl-sn-glycerol	Phosphatidylcholine	white
+phospholipase C / alpha-toxin	3.1.4.3	Choline phosphate	H2O	white
+phospholipase C / alpha-toxin	3.1.4.3	Choline phosphate	Phosphatidylcholine	white
+phospholipase C / alpha-toxin	3.1.4.3	H2O	1,2-Diacyl-sn-glycerol	white
+phospholipase C / alpha-toxin	3.1.4.3	H2O	Choline phosphate	white
+phospholipase C / alpha-toxin	3.1.4.3	Phosphatidylcholine	1,2-Diacyl-sn-glycerol	white
+phospholipase C / alpha-toxin	3.1.4.3	Phosphatidylcholine	Choline phosphate	white
+protein XagA	3.4.24.-	D-Glyceraldehyde 3-phosphate	D-Tagatose 1,6-bisphosphate	white
+protein XagA	3.4.24.-	D-Tagatose 1,6-bisphosphate	D-Glyceraldehyde 3-phosphate	white
+protein XagA	3.4.24.-	D-Tagatose 1,6-bisphosphate	Glycerone phosphate	white
+protein XagA	3.4.24.-	Glycerone phosphate	D-Tagatose 1,6-bisphosphate	white
+protodeoxyviolaceinate monooxygenase	1.14.13.217	H+	H2O	white
+protodeoxyviolaceinate monooxygenase	1.14.13.217	H+	NADP+	white
+protodeoxyviolaceinate monooxygenase	1.14.13.217	H+	Protoviolaceinic acid	white
+protodeoxyviolaceinate monooxygenase	1.14.13.217	H2O	H+	white
+protodeoxyviolaceinate monooxygenase	1.14.13.217	H2O	NADPH	white
+protodeoxyviolaceinate monooxygenase	1.14.13.217	H2O	Oxygen	white
+protodeoxyviolaceinate monooxygenase	1.14.13.217	H2O	Protodeoxyviolaceinic acid	white
+protodeoxyviolaceinate monooxygenase	1.14.13.217	NADP+	H+	white
+protodeoxyviolaceinate monooxygenase	1.14.13.217	NADP+	NADPH	white
+protodeoxyviolaceinate monooxygenase	1.14.13.217	NADP+	Oxygen	white
+protodeoxyviolaceinate monooxygenase	1.14.13.217	NADP+	Protodeoxyviolaceinic acid	white
+protodeoxyviolaceinate monooxygenase	1.14.13.217	NADPH	H2O	white
+protodeoxyviolaceinate monooxygenase	1.14.13.217	NADPH	NADP+	white
+protodeoxyviolaceinate monooxygenase	1.14.13.217	NADPH	Protoviolaceinic acid	white
+protodeoxyviolaceinate monooxygenase	1.14.13.217	Oxygen	H2O	white
+protodeoxyviolaceinate monooxygenase	1.14.13.217	Oxygen	NADP+	white
+protodeoxyviolaceinate monooxygenase	1.14.13.217	Oxygen	Protoviolaceinic acid	white
+protodeoxyviolaceinate monooxygenase	1.14.13.217	Protodeoxyviolaceinic acid	H2O	white
+protodeoxyviolaceinate monooxygenase	1.14.13.217	Protodeoxyviolaceinic acid	NADP+	white
+protodeoxyviolaceinate monooxygenase	1.14.13.217	Protodeoxyviolaceinic acid	Protoviolaceinic acid	white
+protodeoxyviolaceinate monooxygenase	1.14.13.217	Protoviolaceinic acid	H+	white
+protodeoxyviolaceinate monooxygenase	1.14.13.217	Protoviolaceinic acid	NADPH	white
+protodeoxyviolaceinate monooxygenase	1.14.13.217	Protoviolaceinic acid	Oxygen	white
+protodeoxyviolaceinate monooxygenase	1.14.13.217	Protoviolaceinic acid	Protodeoxyviolaceinic acid	white
+pseudolysin	3.4.24.26	AMP	ATP	white
+pseudolysin	3.4.24.26	AMP	D-Alanine	white
+pseudolysin	3.4.24.26	AMP	G13185	white
+pseudolysin	3.4.24.26	ATP	AMP	white
+pseudolysin	3.4.24.26	ATP	Diphosphate	white
+pseudolysin	3.4.24.26	ATP	G13186	white
+pseudolysin	3.4.24.26	D-Alanine	AMP	white
+pseudolysin	3.4.24.26	D-Alanine	Diphosphate	white
+pseudolysin	3.4.24.26	D-Alanine	G13186	white
+pseudolysin	3.4.24.26	Diphosphate	ATP	white
+pseudolysin	3.4.24.26	Diphosphate	D-Alanine	white
+pseudolysin	3.4.24.26	Diphosphate	G13185	white
+pseudolysin	3.4.24.26	G13185	AMP	white
+pseudolysin	3.4.24.26	G13185	Diphosphate	white
+pseudolysin	3.4.24.26	G13185	G13186	white
+pseudolysin	3.4.24.26	G13186	ATP	white
+pseudolysin	3.4.24.26	G13186	D-Alanine	white
+pseudolysin	3.4.24.26	G13186	G13185	white
+putative spermidine/putrescine transport system ATP-binding protein	3.1.-.-	1,2-Diacyl-sn-glycerol	H2O	white
+putative spermidine/putrescine transport system ATP-binding protein	3.1.-.-	1,2-Diacyl-sn-glycerol	Phosphatidylcholine	white
+putative spermidine/putrescine transport system ATP-binding protein	3.1.-.-	Choline phosphate	H2O	white
+putative spermidine/putrescine transport system ATP-binding protein	3.1.-.-	Choline phosphate	Phosphatidylcholine	white
+putative spermidine/putrescine transport system ATP-binding protein	3.1.-.-	H2O	1,2-Diacyl-sn-glycerol	white
+putative spermidine/putrescine transport system ATP-binding protein	3.1.-.-	H2O	Choline phosphate	white
+putative spermidine/putrescine transport system ATP-binding protein	3.1.-.-	Phosphatidylcholine	1,2-Diacyl-sn-glycerol	white
+putative spermidine/putrescine transport system ATP-binding protein	3.1.-.-	Phosphatidylcholine	Choline phosphate	white
+putative spermidine/putrescine transport system permease protein	3.1.-.-	1,2-Diacyl-sn-glycerol	H2O	white
+putative spermidine/putrescine transport system permease protein	3.1.-.-	1,2-Diacyl-sn-glycerol	Phosphatidylcholine	white
+putative spermidine/putrescine transport system permease protein	3.1.-.-	Choline phosphate	H2O	white
+putative spermidine/putrescine transport system permease protein	3.1.-.-	Choline phosphate	Phosphatidylcholine	white
+putative spermidine/putrescine transport system permease protein	3.1.-.-	H2O	1,2-Diacyl-sn-glycerol	white
+putative spermidine/putrescine transport system permease protein	3.1.-.-	H2O	Choline phosphate	white
+putative spermidine/putrescine transport system permease protein	3.1.-.-	Phosphatidylcholine	1,2-Diacyl-sn-glycerol	white
+putative spermidine/putrescine transport system permease protein	3.1.-.-	Phosphatidylcholine	Choline phosphate	white
+putative spermidine/putrescine transport system substrate-binding protein	3.1.-.-	1,2-Diacyl-sn-glycerol	H2O	white
+putative spermidine/putrescine transport system substrate-binding protein	3.1.-.-	1,2-Diacyl-sn-glycerol	Phosphatidylcholine	white
+putative spermidine/putrescine transport system substrate-binding protein	3.1.-.-	Choline phosphate	H2O	white
+putative spermidine/putrescine transport system substrate-binding protein	3.1.-.-	Choline phosphate	Phosphatidylcholine	white
+putative spermidine/putrescine transport system substrate-binding protein	3.1.-.-	H2O	1,2-Diacyl-sn-glycerol	white
+putative spermidine/putrescine transport system substrate-binding protein	3.1.-.-	H2O	Choline phosphate	white
+putative spermidine/putrescine transport system substrate-binding protein	3.1.-.-	Phosphatidylcholine	1,2-Diacyl-sn-glycerol	white
+putative spermidine/putrescine transport system substrate-binding protein	3.1.-.-	Phosphatidylcholine	Choline phosphate	white
+quorum regulatory RNA Qrr	2.7.11.25	3',5'-Cyclic diGMP	GTP	white
+quorum regulatory RNA Qrr	2.7.11.25	Diphosphate	GTP	white
+quorum regulatory RNA Qrr	2.7.11.25	GTP	3',5'-Cyclic diGMP	white
+quorum regulatory RNA Qrr	2.7.11.25	GTP	Diphosphate	white
+regulatory peptide NprX	3.4.24.-	D-Glyceraldehyde 3-phosphate	D-Tagatose 1,6-bisphosphate	white
+regulatory peptide NprX	3.4.24.-	D-Tagatose 1,6-bisphosphate	D-Glyceraldehyde 3-phosphate	white
+regulatory peptide NprX	3.4.24.-	D-Tagatose 1,6-bisphosphate	Glycerone phosphate	white
+regulatory peptide NprX	3.4.24.-	Glycerone phosphate	D-Tagatose 1,6-bisphosphate	white
+regulatory peptide PapR	3.4.21.-	D-Glyceraldehyde 3-phosphate	D-Tagatose 1,6-bisphosphate	white
+regulatory peptide PapR	3.4.21.-	D-Tagatose 1,6-bisphosphate	D-Glyceraldehyde 3-phosphate	white
+regulatory peptide PapR	3.4.21.-	D-Tagatose 1,6-bisphosphate	Glycerone phosphate	white
+regulatory peptide PapR	3.4.21.-	Glycerone phosphate	D-Tagatose 1,6-bisphosphate	white
+regulatory protein	3.4.21.19	H2O	N-Acyl-L-homoserine	white
+regulatory protein	3.4.21.19	N-Acyl-L-homoserine	H2O	white
+regulatory protein	3.4.21.19	N-Acyl-L-homoserine	N-Acyl-L-homoserine lactone	white
+regulatory protein	3.4.21.19	N-Acyl-L-homoserine lactone	N-Acyl-L-homoserine	white
+regulatory protein CylR1	4.1.2.40	D-Glyceraldehyde 3-phosphate	D-Tagatose 1,6-bisphosphate	white
+regulatory protein CylR1	4.1.2.40	D-Tagatose 1,6-bisphosphate	D-Glyceraldehyde 3-phosphate	white
+regulatory protein CylR1	4.1.2.40	D-Tagatose 1,6-bisphosphate	Glycerone phosphate	white
+regulatory protein CylR1	4.1.2.40	Glycerone phosphate	D-Tagatose 1,6-bisphosphate	white
+response regulator aspartate phosphatase A (stage 0 sporulation protein L)	3.1.-.-	H2O	N-Acyl-L-homoserine	white
+response regulator aspartate phosphatase A (stage 0 sporulation protein L)	3.1.-.-	N-Acyl-L-homoserine	H2O	white
+response regulator aspartate phosphatase A (stage 0 sporulation protein L)	3.1.-.-	N-Acyl-L-homoserine	N-Acyl-L-homoserine lactone	white
+response regulator aspartate phosphatase A (stage 0 sporulation protein L)	3.1.-.-	N-Acyl-L-homoserine lactone	N-Acyl-L-homoserine	white
+response regulator aspartate phosphatase B	3.1.-.-	1,2-Diacyl-sn-glycerol	H2O	white
+response regulator aspartate phosphatase B	3.1.-.-	1,2-Diacyl-sn-glycerol	Phosphatidylcholine	white
+response regulator aspartate phosphatase B	3.1.-.-	Choline phosphate	H2O	white
+response regulator aspartate phosphatase B	3.1.-.-	Choline phosphate	Phosphatidylcholine	white
+response regulator aspartate phosphatase B	3.1.-.-	H2O	1,2-Diacyl-sn-glycerol	white
+response regulator aspartate phosphatase B	3.1.-.-	H2O	Choline phosphate	white
+response regulator aspartate phosphatase B	3.1.-.-	Phosphatidylcholine	1,2-Diacyl-sn-glycerol	white
+response regulator aspartate phosphatase B	3.1.-.-	Phosphatidylcholine	Choline phosphate	white
+response regulator aspartate phosphatase C	3.1.-.-	H2O	N-Acyl-L-homoserine	white
+response regulator aspartate phosphatase C	3.1.-.-	N-Acyl-L-homoserine	H2O	white
+response regulator aspartate phosphatase C	3.1.-.-	N-Acyl-L-homoserine	N-Acyl-L-homoserine lactone	white
+response regulator aspartate phosphatase C	3.1.-.-	N-Acyl-L-homoserine lactone	N-Acyl-L-homoserine	white
+response regulator aspartate phosphatase E	3.1.-.-	H2O	N-Acyl-L-homoserine	white
+response regulator aspartate phosphatase E	3.1.-.-	N-Acyl-L-homoserine	H2O	white
+response regulator aspartate phosphatase E	3.1.-.-	N-Acyl-L-homoserine	N-Acyl-L-homoserine lactone	white
+response regulator aspartate phosphatase E	3.1.-.-	N-Acyl-L-homoserine lactone	N-Acyl-L-homoserine	white
+response regulator aspartate phosphatase F	3.1.-.-	H2O	N-Acyl-L-homoserine	white
+response regulator aspartate phosphatase F	3.1.-.-	N-Acyl-L-homoserine	H2O	white
+response regulator aspartate phosphatase F	3.1.-.-	N-Acyl-L-homoserine	N-Acyl-L-homoserine lactone	white
+response regulator aspartate phosphatase F	3.1.-.-	N-Acyl-L-homoserine lactone	N-Acyl-L-homoserine	white
+response regulator aspartate phosphatase G	3.1.-.-	H2O	N-Acyl-L-homoserine	white
+response regulator aspartate phosphatase G	3.1.-.-	N-Acyl-L-homoserine	H2O	white
+response regulator aspartate phosphatase G	3.1.-.-	N-Acyl-L-homoserine	N-Acyl-L-homoserine lactone	white
+response regulator aspartate phosphatase G	3.1.-.-	N-Acyl-L-homoserine lactone	N-Acyl-L-homoserine	white
+response regulator aspartate phosphatase H	3.1.-.-	H2O	N-Acyl-L-homoserine	white
+response regulator aspartate phosphatase H	3.1.-.-	N-Acyl-L-homoserine	H2O	white
+response regulator aspartate phosphatase H	3.1.-.-	N-Acyl-L-homoserine	N-Acyl-L-homoserine lactone	white
+response regulator aspartate phosphatase H	3.1.-.-	N-Acyl-L-homoserine lactone	N-Acyl-L-homoserine	white
+response regulator aspartate phosphatase K	3.1.-.-	H2O	N-Acyl-L-homoserine	white
+response regulator aspartate phosphatase K	3.1.-.-	N-Acyl-L-homoserine	H2O	white
+response regulator aspartate phosphatase K	3.1.-.-	N-Acyl-L-homoserine	N-Acyl-L-homoserine lactone	white
+response regulator aspartate phosphatase K	3.1.-.-	N-Acyl-L-homoserine lactone	N-Acyl-L-homoserine	white
+rhamnosyltransferase	2.4.1.-	1,2-Diacyl-sn-glycerol	H2O	white
+rhamnosyltransferase	2.4.1.-	1,2-Diacyl-sn-glycerol	Phosphatidylcholine	white
+rhamnosyltransferase	2.4.1.-	Choline phosphate	H2O	white
+rhamnosyltransferase	2.4.1.-	Choline phosphate	Phosphatidylcholine	white
+rhamnosyltransferase	2.4.1.-	H2O	1,2-Diacyl-sn-glycerol	white
+rhamnosyltransferase	2.4.1.-	H2O	Choline phosphate	white
+rhamnosyltransferase	2.4.1.-	Phosphatidylcholine	1,2-Diacyl-sn-glycerol	white
+rhamnosyltransferase	2.4.1.-	Phosphatidylcholine	Choline phosphate	white
+rhamnosyltransferase subunit A	2.4.1.-	AMP	ATP	white
+rhamnosyltransferase subunit A	2.4.1.-	AMP	Anthranilate	white
+rhamnosyltransferase subunit A	2.4.1.-	AMP	CoA	white
+rhamnosyltransferase subunit A	2.4.1.-	ATP	AMP	white
+rhamnosyltransferase subunit A	2.4.1.-	ATP	Anthraniloyl-CoA	white
+rhamnosyltransferase subunit A	2.4.1.-	ATP	Diphosphate	white
+rhamnosyltransferase subunit A	2.4.1.-	Anthranilate	AMP	white
+rhamnosyltransferase subunit A	2.4.1.-	Anthranilate	Anthraniloyl-CoA	white
+rhamnosyltransferase subunit A	2.4.1.-	Anthranilate	Diphosphate	white
+rhamnosyltransferase subunit A	2.4.1.-	Anthraniloyl-CoA	ATP	white
+rhamnosyltransferase subunit A	2.4.1.-	Anthraniloyl-CoA	Anthranilate	white
+rhamnosyltransferase subunit A	2.4.1.-	Anthraniloyl-CoA	CoA	white
+rhamnosyltransferase subunit A	2.4.1.-	CoA	AMP	white
+rhamnosyltransferase subunit A	2.4.1.-	CoA	Anthraniloyl-CoA	white
+rhamnosyltransferase subunit A	2.4.1.-	CoA	Diphosphate	white
+rhamnosyltransferase subunit A	2.4.1.-	Diphosphate	ATP	white
+rhamnosyltransferase subunit A	2.4.1.-	Diphosphate	Anthranilate	white
+rhamnosyltransferase subunit A	2.4.1.-	Diphosphate	CoA	white
+rhamnosyltransferase subunit B	2.4.1.-	AMP	ATP	white
+rhamnosyltransferase subunit B	2.4.1.-	AMP	Anthranilate	white
+rhamnosyltransferase subunit B	2.4.1.-	AMP	CoA	white
+rhamnosyltransferase subunit B	2.4.1.-	ATP	AMP	white
+rhamnosyltransferase subunit B	2.4.1.-	ATP	Anthraniloyl-CoA	white
+rhamnosyltransferase subunit B	2.4.1.-	ATP	Diphosphate	white
+rhamnosyltransferase subunit B	2.4.1.-	Anthranilate	AMP	white
+rhamnosyltransferase subunit B	2.4.1.-	Anthranilate	Anthraniloyl-CoA	white
+rhamnosyltransferase subunit B	2.4.1.-	Anthranilate	Diphosphate	white
+rhamnosyltransferase subunit B	2.4.1.-	Anthraniloyl-CoA	ATP	white
+rhamnosyltransferase subunit B	2.4.1.-	Anthraniloyl-CoA	Anthranilate	white
+rhamnosyltransferase subunit B	2.4.1.-	Anthraniloyl-CoA	CoA	white
+rhamnosyltransferase subunit B	2.4.1.-	CoA	AMP	white
+rhamnosyltransferase subunit B	2.4.1.-	CoA	Anthraniloyl-CoA	white
+rhamnosyltransferase subunit B	2.4.1.-	CoA	Diphosphate	white
+rhamnosyltransferase subunit B	2.4.1.-	Diphosphate	ATP	white
+rhamnosyltransferase subunit B	2.4.1.-	Diphosphate	Anthranilate	white
+rhamnosyltransferase subunit B	2.4.1.-	Diphosphate	CoA	white
+rhizosphere induced protein	7.4.2.8	H2O	N-Acyl-L-homoserine	white
+rhizosphere induced protein	7.4.2.8	N-Acyl-L-homoserine	H2O	white
+rhizosphere induced protein	7.4.2.8	N-Acyl-L-homoserine	N-Acyl-L-homoserine lactone	white
+rhizosphere induced protein	7.4.2.8	N-Acyl-L-homoserine lactone	N-Acyl-L-homoserine	white
+serine protease	3.4.21.-	D-Glyceraldehyde 3-phosphate	D-Tagatose 1,6-bisphosphate	white
+serine protease	3.4.21.-	D-Tagatose 1,6-bisphosphate	D-Glyceraldehyde 3-phosphate	white
+serine protease	3.4.21.-	D-Tagatose 1,6-bisphosphate	Glycerone phosphate	white
+serine protease	3.4.21.-	Glycerone phosphate	D-Tagatose 1,6-bisphosphate	white
+sex pheromone cAD1	4.1.2.40	D-Glyceraldehyde 3-phosphate	D-Tagatose 1,6-bisphosphate	white
+sex pheromone cAD1	4.1.2.40	D-Tagatose 1,6-bisphosphate	D-Glyceraldehyde 3-phosphate	white
+sex pheromone cAD1	4.1.2.40	D-Tagatose 1,6-bisphosphate	Glycerone phosphate	white
+sex pheromone cAD1	4.1.2.40	Glycerone phosphate	D-Tagatose 1,6-bisphosphate	white
+sex pheromone inhibitor iAD1	3.4.21.19	H2O	N-Acyl-L-homoserine	white
+sex pheromone inhibitor iAD1	3.4.21.19	N-Acyl-L-homoserine	H2O	white
+sex pheromone inhibitor iAD1	3.4.21.19	N-Acyl-L-homoserine	N-Acyl-L-homoserine lactone	white
+sex pheromone inhibitor iAD1	3.4.21.19	N-Acyl-L-homoserine lactone	N-Acyl-L-homoserine	white
+shiga toxin subunit A	3.1.-.-	H2O	N-Acyl-L-homoserine	white
+shiga toxin subunit A	3.1.-.-	N-Acyl-L-homoserine	H2O	white
+shiga toxin subunit A	3.1.-.-	N-Acyl-L-homoserine	N-Acyl-L-homoserine lactone	white
+shiga toxin subunit A	3.1.-.-	N-Acyl-L-homoserine lactone	N-Acyl-L-homoserine	white
+shiga toxin subunit B	3.1.-.-	H2O	N-Acyl-L-homoserine	white
+shiga toxin subunit B	3.1.-.-	N-Acyl-L-homoserine	H2O	white
+shiga toxin subunit B	3.1.-.-	N-Acyl-L-homoserine	N-Acyl-L-homoserine lactone	white
+shiga toxin subunit B	3.1.-.-	N-Acyl-L-homoserine lactone	N-Acyl-L-homoserine	white
+small regulatory RNA RNAIII	3.5.4.25	2,5-Diamino-6-(5-phospho-D-ribosylamino)pyrimidin-4(3H)-one	GTP	white
+small regulatory RNA RNAIII	3.5.4.25	2,5-Diamino-6-(5-phospho-D-ribosylamino)pyrimidin-4(3H)-one	H2O	white
+small regulatory RNA RNAIII	3.5.4.25	Formate	GTP	white
+small regulatory RNA RNAIII	3.5.4.25	Formate	H2O	white
+small regulatory RNA RNAIII	3.5.4.25	GTP	2,5-Diamino-6-(5-phospho-D-ribosylamino)pyrimidin-4(3H)-one	white
+small regulatory RNA RNAIII	3.5.4.25	GTP	Formate	white
+small regulatory RNA RNAIII	3.5.4.25	GTP	Orthophosphate	white
+small regulatory RNA RNAIII	3.5.4.25	H2O	2,5-Diamino-6-(5-phospho-D-ribosylamino)pyrimidin-4(3H)-one	white
+small regulatory RNA RNAIII	3.5.4.25	H2O	Formate	white
+small regulatory RNA RNAIII	3.5.4.25	H2O	Orthophosphate	white
+small regulatory RNA RNAIII	3.5.4.25	Orthophosphate	GTP	white
+small regulatory RNA RNAIII	3.5.4.25	Orthophosphate	H2O	white
+stage 0 sporulation protein B (sporulation initiation phosphotransferase)	2.7.-.-	3',5'-Cyclic diGMP	GTP	white
+stage 0 sporulation protein B (sporulation initiation phosphotransferase)	2.7.-.-	Diphosphate	GTP	white
+stage 0 sporulation protein B (sporulation initiation phosphotransferase)	2.7.-.-	GTP	3',5'-Cyclic diGMP	white
+stage 0 sporulation protein B (sporulation initiation phosphotransferase)	2.7.-.-	GTP	Diphosphate	white
+streptopain	3.4.22.10	AMP	ATP	white
+streptopain	3.4.22.10	AMP	D-Alanine	white
+streptopain	3.4.22.10	AMP	G13185	white
+streptopain	3.4.22.10	ATP	AMP	white
+streptopain	3.4.22.10	ATP	Diphosphate	white
+streptopain	3.4.22.10	ATP	G13186	white
+streptopain	3.4.22.10	D-Alanine	AMP	white
+streptopain	3.4.22.10	D-Alanine	Diphosphate	white
+streptopain	3.4.22.10	D-Alanine	G13186	white
+streptopain	3.4.22.10	Diphosphate	ATP	white
+streptopain	3.4.22.10	Diphosphate	D-Alanine	white
+streptopain	3.4.22.10	Diphosphate	G13185	white
+streptopain	3.4.22.10	G13185	AMP	white
+streptopain	3.4.22.10	G13185	Diphosphate	white
+streptopain	3.4.22.10	G13185	G13186	white
+streptopain	3.4.22.10	G13186	ATP	white
+streptopain	3.4.22.10	G13186	D-Alanine	white
+streptopain	3.4.22.10	G13186	G13185	white
+surfactin/lichenysin synthetase A	3.4.21.-	D-Glyceraldehyde 3-phosphate	D-Tagatose 1,6-bisphosphate	white
+surfactin/lichenysin synthetase A	3.4.21.-	D-Tagatose 1,6-bisphosphate	D-Glyceraldehyde 3-phosphate	white
+surfactin/lichenysin synthetase A	3.4.21.-	D-Tagatose 1,6-bisphosphate	Glycerone phosphate	white
+surfactin/lichenysin synthetase A	3.4.21.-	Glycerone phosphate	D-Tagatose 1,6-bisphosphate	white
+surfactin/lichenysin synthetase B	3.4.21.-	D-Glyceraldehyde 3-phosphate	D-Tagatose 1,6-bisphosphate	white
+surfactin/lichenysin synthetase B	3.4.21.-	D-Tagatose 1,6-bisphosphate	D-Glyceraldehyde 3-phosphate	white
+surfactin/lichenysin synthetase B	3.4.21.-	D-Tagatose 1,6-bisphosphate	Glycerone phosphate	white
+surfactin/lichenysin synthetase B	3.4.21.-	Glycerone phosphate	D-Tagatose 1,6-bisphosphate	white
+surfactin/lichenysin synthetase C	3.4.21.-	D-Glyceraldehyde 3-phosphate	D-Tagatose 1,6-bisphosphate	white
+surfactin/lichenysin synthetase C	3.4.21.-	D-Tagatose 1,6-bisphosphate	D-Glyceraldehyde 3-phosphate	white
+surfactin/lichenysin synthetase C	3.4.21.-	D-Tagatose 1,6-bisphosphate	Glycerone phosphate	white
+surfactin/lichenysin synthetase C	3.4.21.-	Glycerone phosphate	D-Tagatose 1,6-bisphosphate	white
+tagatose 1,6-diphosphate aldolase	4.1.2.40	D-Glyceraldehyde 3-phosphate	D-Tagatose 1,6-bisphosphate	white
+tagatose 1,6-diphosphate aldolase	4.1.2.40	D-Tagatose 1,6-bisphosphate	D-Glyceraldehyde 3-phosphate	white
+tagatose 1,6-diphosphate aldolase	4.1.2.40	D-Tagatose 1,6-bisphosphate	Glycerone phosphate	white
+tagatose 1,6-diphosphate aldolase	4.1.2.40	Glycerone phosphate	D-Tagatose 1,6-bisphosphate	white
+thiol-activated cytolysin	3.1.4.3	1,2-Diacyl-sn-glycerol	H2O	white
+thiol-activated cytolysin	3.1.4.3	1,2-Diacyl-sn-glycerol	Phosphatidylcholine	white
+thiol-activated cytolysin	3.1.4.3	Choline phosphate	H2O	white
+thiol-activated cytolysin	3.1.4.3	Choline phosphate	Phosphatidylcholine	white
+thiol-activated cytolysin	3.1.4.3	H2O	1,2-Diacyl-sn-glycerol	white
+thiol-activated cytolysin	3.1.4.3	H2O	Choline phosphate	white
+thiol-activated cytolysin	3.1.4.3	Phosphatidylcholine	1,2-Diacyl-sn-glycerol	white
+thiol-activated cytolysin	3.1.4.3	Phosphatidylcholine	Choline phosphate	white
+toxin A/B	3.5.4.25	2,5-Diamino-6-(5-phospho-D-ribosylamino)pyrimidin-4(3H)-one	GTP	white
+toxin A/B	3.5.4.25	2,5-Diamino-6-(5-phospho-D-ribosylamino)pyrimidin-4(3H)-one	H2O	white
+toxin A/B	3.5.4.25	Formate	GTP	white
+toxin A/B	3.5.4.25	Formate	H2O	white
+toxin A/B	3.5.4.25	GTP	2,5-Diamino-6-(5-phospho-D-ribosylamino)pyrimidin-4(3H)-one	white
+toxin A/B	3.5.4.25	GTP	Formate	white
+toxin A/B	3.5.4.25	GTP	Orthophosphate	white
+toxin A/B	3.5.4.25	H2O	2,5-Diamino-6-(5-phospho-D-ribosylamino)pyrimidin-4(3H)-one	white
+toxin A/B	3.5.4.25	H2O	Formate	white
+toxin A/B	3.5.4.25	H2O	Orthophosphate	white
+toxin A/B	3.5.4.25	Orthophosphate	GTP	white
+toxin A/B	3.5.4.25	Orthophosphate	H2O	white
+toxoflavin biosynthesis protein ToxC	3.1.4.52	4-(4-Deoxy-alpha-D-gluc-4-enuronosyl)-D-galacturonate	Pectate	white
+toxoflavin biosynthesis protein ToxC	3.1.4.52	Pectate	4-(4-Deoxy-alpha-D-gluc-4-enuronosyl)-D-galacturonate	white
+toxoflavin biosynthesis protein ToxC	3.1.4.52	Pectate	Pectate	white
+toxoflavin biosynthesis protein ToxD	3.5.4.25	2,5-Diamino-6-(5-phospho-D-ribosylamino)pyrimidin-4(3H)-one	GTP	white
+toxoflavin biosynthesis protein ToxD	3.5.4.25	2,5-Diamino-6-(5-phospho-D-ribosylamino)pyrimidin-4(3H)-one	H2O	white
+toxoflavin biosynthesis protein ToxD	3.5.4.25	Formate	GTP	white
+toxoflavin biosynthesis protein ToxD	3.5.4.25	Formate	H2O	white
+toxoflavin biosynthesis protein ToxD	3.5.4.25	GTP	2,5-Diamino-6-(5-phospho-D-ribosylamino)pyrimidin-4(3H)-one	white
+toxoflavin biosynthesis protein ToxD	3.5.4.25	GTP	Formate	white
+toxoflavin biosynthesis protein ToxD	3.5.4.25	GTP	Orthophosphate	white
+toxoflavin biosynthesis protein ToxD	3.5.4.25	H2O	2,5-Diamino-6-(5-phospho-D-ribosylamino)pyrimidin-4(3H)-one	white
+toxoflavin biosynthesis protein ToxD	3.5.4.25	H2O	Formate	white
+toxoflavin biosynthesis protein ToxD	3.5.4.25	H2O	Orthophosphate	white
+toxoflavin biosynthesis protein ToxD	3.5.4.25	Orthophosphate	GTP	white
+toxoflavin biosynthesis protein ToxD	3.5.4.25	Orthophosphate	H2O	white
+toxoflavin synthase	2.1.1.349	1,6-Didemethyltoxoflavin	Reumycin	white
+toxoflavin synthase	2.1.1.349	1,6-Didemethyltoxoflavin	S-Adenosyl-L-homocysteine	white
+toxoflavin synthase	2.1.1.349	Reumycin	1,6-Didemethyltoxoflavin	white
+toxoflavin synthase	2.1.1.349	Reumycin	S-Adenosyl-L-methionine	white
+toxoflavin synthase	2.1.1.349	S-Adenosyl-L-homocysteine	1,6-Didemethyltoxoflavin	white
+toxoflavin synthase	2.1.1.349	S-Adenosyl-L-homocysteine	S-Adenosyl-L-methionine	white
+toxoflavin synthase	2.1.1.349	S-Adenosyl-L-methionine	Reumycin	white
+toxoflavin synthase	2.1.1.349	S-Adenosyl-L-methionine	S-Adenosyl-L-homocysteine	white
+trans-2,3-dihydro-3-hydroxyanthranilate isomerase	5.3.3.17	(1R,6S)-6-Amino-5-oxocyclohex-2-ene-1-carboxylate	(5S,6S)-6-Amino-5-hydroxycyclohexa-1,3-diene-1-carboxylate	white
+trans-2,3-dihydro-3-hydroxyanthranilate isomerase	5.3.3.17	(5S,6S)-6-Amino-5-hydroxycyclohexa-1,3-diene-1-carboxylate	(1R,6S)-6-Amino-5-oxocyclohex-2-ene-1-carboxylate	white
+trans-2,3-dihydro-3-hydroxyanthranilic acid synthase	3.3.2.15	(5S,6S)-6-Amino-5-hydroxycyclohexa-1,3-diene-1-carboxylate	2-Amino-2-deoxyisochorismate	white
+trans-2,3-dihydro-3-hydroxyanthranilic acid synthase	3.3.2.15	(5S,6S)-6-Amino-5-hydroxycyclohexa-1,3-diene-1-carboxylate	H2O	white
+trans-2,3-dihydro-3-hydroxyanthranilic acid synthase	3.3.2.15	2-Amino-2-deoxyisochorismate	(5S,6S)-6-Amino-5-hydroxycyclohexa-1,3-diene-1-carboxylate	white
+trans-2,3-dihydro-3-hydroxyanthranilic acid synthase	3.3.2.15	2-Amino-2-deoxyisochorismate	Pyruvate	white
+trans-2,3-dihydro-3-hydroxyanthranilic acid synthase	3.3.2.15	H2O	(5S,6S)-6-Amino-5-hydroxycyclohexa-1,3-diene-1-carboxylate	white
+trans-2,3-dihydro-3-hydroxyanthranilic acid synthase	3.3.2.15	H2O	Pyruvate	white
+trans-2,3-dihydro-3-hydroxyanthranilic acid synthase	3.3.2.15	Pyruvate	2-Amino-2-deoxyisochorismate	white
+trans-2,3-dihydro-3-hydroxyanthranilic acid synthase	3.3.2.15	Pyruvate	H2O	white
+transcriptional regulator of LEE operons	2.7.13.3	2,4-Diamino-6-hydroxylaminotoluene	2,4-Diamino-6-nitrotoluene	white
+transcriptional regulator of LEE operons	2.7.13.3	2,4-Diamino-6-nitrotoluene	2,4-Diamino-6-hydroxylaminotoluene	white
+tryptophan oxidase VioA	1.4.3.-	Hydrogen peroxide	L-Tryptophan	white
+tryptophan oxidase VioA	1.4.3.-	Hydrogen peroxide	Oxygen	white
+tryptophan oxidase VioA	1.4.3.-	IPA imine	L-Tryptophan	white
+tryptophan oxidase VioA	1.4.3.-	IPA imine	Oxygen	white
+tryptophan oxidase VioA	1.4.3.-	L-Tryptophan	Hydrogen peroxide	white
+tryptophan oxidase VioA	1.4.3.-	L-Tryptophan	IPA imine	white
+tryptophan oxidase VioA	1.4.3.-	Oxygen	Hydrogen peroxide	white
+tryptophan oxidase VioA	1.4.3.-	Oxygen	IPA imine	white
+two-component system, CAI-1 autoinducer sensor kinase/phosphatase CqsS	2.7.13.3	FMN	Long-chain aldehyde	white
+two-component system, CAI-1 autoinducer sensor kinase/phosphatase CqsS	2.7.13.3	FMN	Oxygen	white
+two-component system, CAI-1 autoinducer sensor kinase/phosphatase CqsS	2.7.13.3	FMN	Reduced FMN	white
+two-component system, CAI-1 autoinducer sensor kinase/phosphatase CqsS	2.7.13.3	H2O	Long-chain aldehyde	white
+two-component system, CAI-1 autoinducer sensor kinase/phosphatase CqsS	2.7.13.3	H2O	Oxygen	white
+two-component system, CAI-1 autoinducer sensor kinase/phosphatase CqsS	2.7.13.3	H2O	Reduced FMN	white
+two-component system, CAI-1 autoinducer sensor kinase/phosphatase CqsS	2.7.13.3	Long-chain aldehyde	FMN	white
+two-component system, CAI-1 autoinducer sensor kinase/phosphatase CqsS	2.7.13.3	Long-chain aldehyde	H2O	white
+two-component system, CAI-1 autoinducer sensor kinase/phosphatase CqsS	2.7.13.3	Long-chain aldehyde	Long-chain fatty acid	white
+two-component system, CAI-1 autoinducer sensor kinase/phosphatase CqsS	2.7.13.3	Long-chain aldehyde	hn	white
+two-component system, CAI-1 autoinducer sensor kinase/phosphatase CqsS	2.7.13.3	Long-chain fatty acid	Long-chain aldehyde	white
+two-component system, CAI-1 autoinducer sensor kinase/phosphatase CqsS	2.7.13.3	Long-chain fatty acid	Oxygen	white
+two-component system, CAI-1 autoinducer sensor kinase/phosphatase CqsS	2.7.13.3	Long-chain fatty acid	Reduced FMN	white
+two-component system, CAI-1 autoinducer sensor kinase/phosphatase CqsS	2.7.13.3	Oxygen	FMN	white
+two-component system, CAI-1 autoinducer sensor kinase/phosphatase CqsS	2.7.13.3	Oxygen	H2O	white
+two-component system, CAI-1 autoinducer sensor kinase/phosphatase CqsS	2.7.13.3	Oxygen	Long-chain fatty acid	white
+two-component system, CAI-1 autoinducer sensor kinase/phosphatase CqsS	2.7.13.3	Oxygen	hn	white
+two-component system, CAI-1 autoinducer sensor kinase/phosphatase CqsS	2.7.13.3	Reduced FMN	FMN	white
+two-component system, CAI-1 autoinducer sensor kinase/phosphatase CqsS	2.7.13.3	Reduced FMN	H2O	white
+two-component system, CAI-1 autoinducer sensor kinase/phosphatase CqsS	2.7.13.3	Reduced FMN	Long-chain fatty acid	white
+two-component system, CAI-1 autoinducer sensor kinase/phosphatase CqsS	2.7.13.3	Reduced FMN	hn	white
+two-component system, CAI-1 autoinducer sensor kinase/phosphatase CqsS	2.7.13.3	hn	Long-chain aldehyde	white
+two-component system, CAI-1 autoinducer sensor kinase/phosphatase CqsS	2.7.13.3	hn	Oxygen	white
+two-component system, CAI-1 autoinducer sensor kinase/phosphatase CqsS	2.7.13.3	hn	Reduced FMN	white
+two-component system, LytTR family, response regulator AgrA	2.7.13.3	3',5'-Cyclic diGMP	GTP	white
+two-component system, LytTR family, response regulator AgrA	2.7.13.3	Diphosphate	GTP	white
+two-component system, LytTR family, response regulator AgrA	2.7.13.3	GTP	3',5'-Cyclic diGMP	white
+two-component system, LytTR family, response regulator AgrA	2.7.13.3	GTP	Diphosphate	white
+two-component system, LytTR family, response regulator AgrA2	3.4.21.-	2,4-Diamino-6-hydroxylaminotoluene	2,4-Diamino-6-nitrotoluene	white
+two-component system, LytTR family, response regulator AgrA2	3.4.21.-	2,4-Diamino-6-nitrotoluene	2,4-Diamino-6-hydroxylaminotoluene	white
+two-component system, LytTR family, response regulator ComE	2.7.13.3	3',5'-Cyclic diGMP	GTP	white
+two-component system, LytTR family, response regulator ComE	2.7.13.3	Diphosphate	GTP	white
+two-component system, LytTR family, response regulator ComE	2.7.13.3	GTP	3',5'-Cyclic diGMP	white
+two-component system, LytTR family, response regulator ComE	2.7.13.3	GTP	Diphosphate	white
+two-component system, LytTR family, sensor histidine kinase AgrC	2.7.13.3	3',5'-Cyclic diGMP	GTP	white
+two-component system, LytTR family, sensor histidine kinase AgrC	2.7.13.3	Diphosphate	GTP	white
+two-component system, LytTR family, sensor histidine kinase AgrC	2.7.13.3	GTP	3',5'-Cyclic diGMP	white
+two-component system, LytTR family, sensor histidine kinase AgrC	2.7.13.3	GTP	Diphosphate	white
+two-component system, LytTR family, sensor histidine kinase AgrC2	2.7.13.3	2,4-Diamino-6-hydroxylaminotoluene	2,4-Diamino-6-nitrotoluene	white
+two-component system, LytTR family, sensor histidine kinase AgrC2	2.7.13.3	2,4-Diamino-6-nitrotoluene	2,4-Diamino-6-hydroxylaminotoluene	white
+two-component system, LytTR family, sensor histidine kinase ComD	2.7.13.3	3',5'-Cyclic diGMP	GTP	white
+two-component system, LytTR family, sensor histidine kinase ComD	2.7.13.3	Diphosphate	GTP	white
+two-component system, LytTR family, sensor histidine kinase ComD	2.7.13.3	GTP	3',5'-Cyclic diGMP	white
+two-component system, LytTR family, sensor histidine kinase ComD	2.7.13.3	GTP	Diphosphate	white
+two-component system, NarL family, competent response regulator ComA	2.7.13.3	3',5'-Cyclic diGMP	GTP	white
+two-component system, NarL family, competent response regulator ComA	2.7.13.3	Diphosphate	GTP	white
+two-component system, NarL family, competent response regulator ComA	2.7.13.3	GTP	3',5'-Cyclic diGMP	white
+two-component system, NarL family, competent response regulator ComA	2.7.13.3	GTP	Diphosphate	white
+two-component system, NarL family, response regulator DegU	2.7.13.3	3',5'-Cyclic diGMP	GTP	white
+two-component system, NarL family, response regulator DegU	2.7.13.3	Diphosphate	GTP	white
+two-component system, NarL family, response regulator DegU	2.7.13.3	GTP	3',5'-Cyclic diGMP	white
+two-component system, NarL family, response regulator DegU	2.7.13.3	GTP	Diphosphate	white
+two-component system, NarL family, response regulator FusR	2.7.13.3	2,4-Diamino-6-hydroxylaminotoluene	2,4-Diamino-6-nitrotoluene	white
+two-component system, NarL family, response regulator FusR	2.7.13.3	2,4-Diamino-6-nitrotoluene	2,4-Diamino-6-hydroxylaminotoluene	white
+two-component system, NarL family, sensor histidine kinase ComP	2.7.13.3	3',5'-Cyclic diGMP	GTP	white
+two-component system, NarL family, sensor histidine kinase ComP	2.7.13.3	Diphosphate	GTP	white
+two-component system, NarL family, sensor histidine kinase ComP	2.7.13.3	GTP	3',5'-Cyclic diGMP	white
+two-component system, NarL family, sensor histidine kinase ComP	2.7.13.3	GTP	Diphosphate	white
+two-component system, NarL family, sensor histidine kinase FusK	2.7.13.3	2,4-Diamino-6-hydroxylaminotoluene	2,4-Diamino-6-nitrotoluene	white
+two-component system, NarL family, sensor histidine kinase FusK	2.7.13.3	2,4-Diamino-6-nitrotoluene	2,4-Diamino-6-hydroxylaminotoluene	white
+two-component system, NtrC family, response regulator GlrR	2.7.13.3	3',5'-Cyclic diGMP	GTP	white
+two-component system, NtrC family, response regulator GlrR	2.7.13.3	Diphosphate	GTP	white
+two-component system, NtrC family, response regulator GlrR	2.7.13.3	GTP	3',5'-Cyclic diGMP	white
+two-component system, NtrC family, response regulator GlrR	2.7.13.3	GTP	Diphosphate	white
+two-component system, NtrC family, sensor histidine kinase GlrK	2.7.13.3	3',5'-Cyclic diGMP	GTP	white
+two-component system, NtrC family, sensor histidine kinase GlrK	2.7.13.3	Diphosphate	GTP	white
+two-component system, NtrC family, sensor histidine kinase GlrK	2.7.13.3	GTP	3',5'-Cyclic diGMP	white
+two-component system, NtrC family, sensor histidine kinase GlrK	2.7.13.3	GTP	Diphosphate	white
+two-component system, OmpR family, lantibiotic biosynthesis response regulator NisR/SpaR	2.7.13.3	2,4-Diamino-6-hydroxylaminotoluene	2,4-Diamino-6-nitrotoluene	white
+two-component system, OmpR family, lantibiotic biosynthesis response regulator NisR/SpaR	2.7.13.3	2,4-Diamino-6-nitrotoluene	2,4-Diamino-6-hydroxylaminotoluene	white
+two-component system, OmpR family, lantibiotic biosynthesis sensor histidine kinase NisK/SpaK	2.7.13.3	2,4-Diamino-6-hydroxylaminotoluene	2,4-Diamino-6-nitrotoluene	white
+two-component system, OmpR family, lantibiotic biosynthesis sensor histidine kinase NisK/SpaK	2.7.13.3	2,4-Diamino-6-nitrotoluene	2,4-Diamino-6-hydroxylaminotoluene	white
+two-component system, OmpR family, response regulator CiaR	2.7.13.3	FMN	Long-chain aldehyde	white
+two-component system, OmpR family, response regulator CiaR	2.7.13.3	FMN	Oxygen	white
+two-component system, OmpR family, response regulator CiaR	2.7.13.3	FMN	Reduced FMN	white
+two-component system, OmpR family, response regulator CiaR	2.7.13.3	H2O	Long-chain aldehyde	white
+two-component system, OmpR family, response regulator CiaR	2.7.13.3	H2O	Oxygen	white
+two-component system, OmpR family, response regulator CiaR	2.7.13.3	H2O	Reduced FMN	white
+two-component system, OmpR family, response regulator CiaR	2.7.13.3	Long-chain aldehyde	FMN	white
+two-component system, OmpR family, response regulator CiaR	2.7.13.3	Long-chain aldehyde	H2O	white
+two-component system, OmpR family, response regulator CiaR	2.7.13.3	Long-chain aldehyde	Long-chain fatty acid	white
+two-component system, OmpR family, response regulator CiaR	2.7.13.3	Long-chain aldehyde	hn	white
+two-component system, OmpR family, response regulator CiaR	2.7.13.3	Long-chain fatty acid	Long-chain aldehyde	white
+two-component system, OmpR family, response regulator CiaR	2.7.13.3	Long-chain fatty acid	Oxygen	white
+two-component system, OmpR family, response regulator CiaR	2.7.13.3	Long-chain fatty acid	Reduced FMN	white
+two-component system, OmpR family, response regulator CiaR	2.7.13.3	Oxygen	FMN	white
+two-component system, OmpR family, response regulator CiaR	2.7.13.3	Oxygen	H2O	white
+two-component system, OmpR family, response regulator CiaR	2.7.13.3	Oxygen	Long-chain fatty acid	white
+two-component system, OmpR family, response regulator CiaR	2.7.13.3	Oxygen	hn	white
+two-component system, OmpR family, response regulator CiaR	2.7.13.3	Reduced FMN	FMN	white
+two-component system, OmpR family, response regulator CiaR	2.7.13.3	Reduced FMN	H2O	white
+two-component system, OmpR family, response regulator CiaR	2.7.13.3	Reduced FMN	Long-chain fatty acid	white
+two-component system, OmpR family, response regulator CiaR	2.7.13.3	Reduced FMN	hn	white
+two-component system, OmpR family, response regulator CiaR	2.7.13.3	hn	Long-chain aldehyde	white
+two-component system, OmpR family, response regulator CiaR	2.7.13.3	hn	Oxygen	white
+two-component system, OmpR family, response regulator CiaR	2.7.13.3	hn	Reduced FMN	white
+two-component system, OmpR family, response regulator QseB	2.7.13.3	3',5'-Cyclic diGMP	GTP	white
+two-component system, OmpR family, response regulator QseB	2.7.13.3	Diphosphate	GTP	white
+two-component system, OmpR family, response regulator QseB	2.7.13.3	GTP	3',5'-Cyclic diGMP	white
+two-component system, OmpR family, response regulator QseB	2.7.13.3	GTP	Diphosphate	white
+two-component system, OmpR family, sensor histidine kinase CiaH	2.7.13.3	FMN	Long-chain aldehyde	white
+two-component system, OmpR family, sensor histidine kinase CiaH	2.7.13.3	FMN	Oxygen	white
+two-component system, OmpR family, sensor histidine kinase CiaH	2.7.13.3	FMN	Reduced FMN	white
+two-component system, OmpR family, sensor histidine kinase CiaH	2.7.13.3	H2O	Long-chain aldehyde	white
+two-component system, OmpR family, sensor histidine kinase CiaH	2.7.13.3	H2O	Oxygen	white
+two-component system, OmpR family, sensor histidine kinase CiaH	2.7.13.3	H2O	Reduced FMN	white
+two-component system, OmpR family, sensor histidine kinase CiaH	2.7.13.3	Long-chain aldehyde	FMN	white
+two-component system, OmpR family, sensor histidine kinase CiaH	2.7.13.3	Long-chain aldehyde	H2O	white
+two-component system, OmpR family, sensor histidine kinase CiaH	2.7.13.3	Long-chain aldehyde	Long-chain fatty acid	white
+two-component system, OmpR family, sensor histidine kinase CiaH	2.7.13.3	Long-chain aldehyde	hn	white
+two-component system, OmpR family, sensor histidine kinase CiaH	2.7.13.3	Long-chain fatty acid	Long-chain aldehyde	white
+two-component system, OmpR family, sensor histidine kinase CiaH	2.7.13.3	Long-chain fatty acid	Oxygen	white
+two-component system, OmpR family, sensor histidine kinase CiaH	2.7.13.3	Long-chain fatty acid	Reduced FMN	white
+two-component system, OmpR family, sensor histidine kinase CiaH	2.7.13.3	Oxygen	FMN	white
+two-component system, OmpR family, sensor histidine kinase CiaH	2.7.13.3	Oxygen	H2O	white
+two-component system, OmpR family, sensor histidine kinase CiaH	2.7.13.3	Oxygen	Long-chain fatty acid	white
+two-component system, OmpR family, sensor histidine kinase CiaH	2.7.13.3	Oxygen	hn	white
+two-component system, OmpR family, sensor histidine kinase CiaH	2.7.13.3	Reduced FMN	FMN	white
+two-component system, OmpR family, sensor histidine kinase CiaH	2.7.13.3	Reduced FMN	H2O	white
+two-component system, OmpR family, sensor histidine kinase CiaH	2.7.13.3	Reduced FMN	Long-chain fatty acid	white
+two-component system, OmpR family, sensor histidine kinase CiaH	2.7.13.3	Reduced FMN	hn	white
+two-component system, OmpR family, sensor histidine kinase CiaH	2.7.13.3	hn	Long-chain aldehyde	white
+two-component system, OmpR family, sensor histidine kinase CiaH	2.7.13.3	hn	Oxygen	white
+two-component system, OmpR family, sensor histidine kinase CiaH	2.7.13.3	hn	Reduced FMN	white
+two-component system, OmpR family, sensor histidine kinase QseC	2.7.13.3	3',5'-Cyclic diGMP	GTP	white
+two-component system, OmpR family, sensor histidine kinase QseC	2.7.13.3	Diphosphate	GTP	white
+two-component system, OmpR family, sensor histidine kinase QseC	2.7.13.3	GTP	3',5'-Cyclic diGMP	white
+two-component system, OmpR family, sensor histidine kinase QseC	2.7.13.3	GTP	Diphosphate	white
+two-component system, autoinducer 1 sensor kinase/phosphatase LuxN	2.7.13.3	H+	Long-chain aldehyde	white
+two-component system, autoinducer 1 sensor kinase/phosphatase LuxN	2.7.13.3	H+	NADP+	white
+two-component system, autoinducer 1 sensor kinase/phosphatase LuxN	2.7.13.3	H+	[Protein]-L-cysteine	white
+two-component system, autoinducer 1 sensor kinase/phosphatase LuxN	2.7.13.3	Long-chain aldehyde	H+	white
+two-component system, autoinducer 1 sensor kinase/phosphatase LuxN	2.7.13.3	Long-chain aldehyde	NADPH	white
+two-component system, autoinducer 1 sensor kinase/phosphatase LuxN	2.7.13.3	Long-chain aldehyde	[Protein]-S-(long-chain-acyl)-L-cysteine	white
+two-component system, autoinducer 1 sensor kinase/phosphatase LuxN	2.7.13.3	NADP+	H+	white
+two-component system, autoinducer 1 sensor kinase/phosphatase LuxN	2.7.13.3	NADP+	NADPH	white
+two-component system, autoinducer 1 sensor kinase/phosphatase LuxN	2.7.13.3	NADP+	[Protein]-S-(long-chain-acyl)-L-cysteine	white
+two-component system, autoinducer 1 sensor kinase/phosphatase LuxN	2.7.13.3	NADPH	Long-chain aldehyde	white
+two-component system, autoinducer 1 sensor kinase/phosphatase LuxN	2.7.13.3	NADPH	NADP+	white
+two-component system, autoinducer 1 sensor kinase/phosphatase LuxN	2.7.13.3	NADPH	[Protein]-L-cysteine	white
+two-component system, autoinducer 1 sensor kinase/phosphatase LuxN	2.7.13.3	[Protein]-L-cysteine	H+	white
+two-component system, autoinducer 1 sensor kinase/phosphatase LuxN	2.7.13.3	[Protein]-L-cysteine	NADPH	white
+two-component system, autoinducer 1 sensor kinase/phosphatase LuxN	2.7.13.3	[Protein]-L-cysteine	[Protein]-S-(long-chain-acyl)-L-cysteine	white
+two-component system, autoinducer 1 sensor kinase/phosphatase LuxN	2.7.13.3	[Protein]-S-(long-chain-acyl)-L-cysteine	Long-chain aldehyde	white
+two-component system, autoinducer 1 sensor kinase/phosphatase LuxN	2.7.13.3	[Protein]-S-(long-chain-acyl)-L-cysteine	NADP+	white
+two-component system, autoinducer 1 sensor kinase/phosphatase LuxN	2.7.13.3	[Protein]-S-(long-chain-acyl)-L-cysteine	[Protein]-L-cysteine	white
+two-component system, autoinducer 2 sensor kinase/phosphatase LuxQ	2.7.13.3	3',5'-Cyclic diGMP	GTP	white
+two-component system, autoinducer 2 sensor kinase/phosphatase LuxQ	2.7.13.3	Diphosphate	GTP	white
+two-component system, autoinducer 2 sensor kinase/phosphatase LuxQ	2.7.13.3	GTP	3',5'-Cyclic diGMP	white
+two-component system, autoinducer 2 sensor kinase/phosphatase LuxQ	2.7.13.3	GTP	Diphosphate	white
+two-component system, phosphorelay protein LuxU	1.14.14.3	FMN	Long-chain aldehyde	white
+two-component system, phosphorelay protein LuxU	1.14.14.3	FMN	Oxygen	white
+two-component system, phosphorelay protein LuxU	1.14.14.3	FMN	Reduced FMN	white
+two-component system, phosphorelay protein LuxU	1.14.14.3	H2O	Long-chain aldehyde	white
+two-component system, phosphorelay protein LuxU	1.14.14.3	H2O	Oxygen	white
+two-component system, phosphorelay protein LuxU	1.14.14.3	H2O	Reduced FMN	white
+two-component system, phosphorelay protein LuxU	1.14.14.3	Long-chain aldehyde	FMN	white
+two-component system, phosphorelay protein LuxU	1.14.14.3	Long-chain aldehyde	H2O	white
+two-component system, phosphorelay protein LuxU	1.14.14.3	Long-chain aldehyde	Long-chain fatty acid	white
+two-component system, phosphorelay protein LuxU	1.14.14.3	Long-chain aldehyde	hn	white
+two-component system, phosphorelay protein LuxU	1.14.14.3	Long-chain fatty acid	Long-chain aldehyde	white
+two-component system, phosphorelay protein LuxU	1.14.14.3	Long-chain fatty acid	Oxygen	white
+two-component system, phosphorelay protein LuxU	1.14.14.3	Long-chain fatty acid	Reduced FMN	white
+two-component system, phosphorelay protein LuxU	1.14.14.3	Oxygen	FMN	white
+two-component system, phosphorelay protein LuxU	1.14.14.3	Oxygen	H2O	white
+two-component system, phosphorelay protein LuxU	1.14.14.3	Oxygen	Long-chain fatty acid	white
+two-component system, phosphorelay protein LuxU	1.14.14.3	Oxygen	hn	white
+two-component system, phosphorelay protein LuxU	1.14.14.3	Reduced FMN	FMN	white
+two-component system, phosphorelay protein LuxU	1.14.14.3	Reduced FMN	H2O	white
+two-component system, phosphorelay protein LuxU	1.14.14.3	Reduced FMN	Long-chain fatty acid	white
+two-component system, phosphorelay protein LuxU	1.14.14.3	Reduced FMN	hn	white
+two-component system, phosphorelay protein LuxU	1.14.14.3	hn	Long-chain aldehyde	white
+two-component system, phosphorelay protein LuxU	1.14.14.3	hn	Oxygen	white
+two-component system, phosphorelay protein LuxU	1.14.14.3	hn	Reduced FMN	white
+two-component system, repressor protein LuxO	1.14.14.3	FMN	Long-chain aldehyde	white
+two-component system, repressor protein LuxO	1.14.14.3	FMN	Oxygen	white
+two-component system, repressor protein LuxO	1.14.14.3	FMN	Reduced FMN	white
+two-component system, repressor protein LuxO	1.14.14.3	H2O	Long-chain aldehyde	white
+two-component system, repressor protein LuxO	1.14.14.3	H2O	Oxygen	white
+two-component system, repressor protein LuxO	1.14.14.3	H2O	Reduced FMN	white
+two-component system, repressor protein LuxO	1.14.14.3	Long-chain aldehyde	FMN	white
+two-component system, repressor protein LuxO	1.14.14.3	Long-chain aldehyde	H2O	white
+two-component system, repressor protein LuxO	1.14.14.3	Long-chain aldehyde	Long-chain fatty acid	white
+two-component system, repressor protein LuxO	1.14.14.3	Long-chain aldehyde	hn	white
+two-component system, repressor protein LuxO	1.14.14.3	Long-chain fatty acid	Long-chain aldehyde	white
+two-component system, repressor protein LuxO	1.14.14.3	Long-chain fatty acid	Oxygen	white
+two-component system, repressor protein LuxO	1.14.14.3	Long-chain fatty acid	Reduced FMN	white
+two-component system, repressor protein LuxO	1.14.14.3	Oxygen	FMN	white
+two-component system, repressor protein LuxO	1.14.14.3	Oxygen	H2O	white
+two-component system, repressor protein LuxO	1.14.14.3	Oxygen	Long-chain fatty acid	white
+two-component system, repressor protein LuxO	1.14.14.3	Oxygen	hn	white
+two-component system, repressor protein LuxO	1.14.14.3	Reduced FMN	FMN	white
+two-component system, repressor protein LuxO	1.14.14.3	Reduced FMN	H2O	white
+two-component system, repressor protein LuxO	1.14.14.3	Reduced FMN	Long-chain fatty acid	white
+two-component system, repressor protein LuxO	1.14.14.3	Reduced FMN	hn	white
+two-component system, repressor protein LuxO	1.14.14.3	hn	Long-chain aldehyde	white
+two-component system, repressor protein LuxO	1.14.14.3	hn	Oxygen	white
+two-component system, repressor protein LuxO	1.14.14.3	hn	Reduced FMN	white
+two-component system, response regulator RpfG	2.7.13.3	3',5'-Cyclic diGMP	GTP	white
+two-component system, response regulator RpfG	2.7.13.3	Diphosphate	GTP	white
+two-component system, response regulator RpfG	2.7.13.3	GTP	3',5'-Cyclic diGMP	white
+two-component system, response regulator RpfG	2.7.13.3	GTP	Diphosphate	white
+two-component system, response regulator, stage 0 sporulation protein A	2.7.13.3	3',5'-Cyclic diGMP	GTP	white
+two-component system, response regulator, stage 0 sporulation protein A	2.7.13.3	Diphosphate	GTP	white
+two-component system, response regulator, stage 0 sporulation protein A	2.7.13.3	GTP	3',5'-Cyclic diGMP	white
+two-component system, response regulator, stage 0 sporulation protein A	2.7.13.3	GTP	Diphosphate	white
+two-component system, response regulator, stage 0 sporulation protein F	2.7.-.-	3',5'-Cyclic diGMP	GTP	white
+two-component system, response regulator, stage 0 sporulation protein F	2.7.-.-	Diphosphate	GTP	white
+two-component system, response regulator, stage 0 sporulation protein F	2.7.-.-	GTP	3',5'-Cyclic diGMP	white
+two-component system, response regulator, stage 0 sporulation protein F	2.7.-.-	GTP	Diphosphate	white
+two-component system, sensor histidine kinase RpfC	2.7.13.3	3',5'-Cyclic diGMP	GTP	white
+two-component system, sensor histidine kinase RpfC	2.7.13.3	Diphosphate	GTP	white
+two-component system, sensor histidine kinase RpfC	2.7.13.3	GTP	3',5'-Cyclic diGMP	white
+two-component system, sensor histidine kinase RpfC	2.7.13.3	GTP	Diphosphate	white
+type IV secretion system protein TrbB	7.4.2.8	H2O	N-Acyl-L-homoserine	white
+type IV secretion system protein TrbB	7.4.2.8	N-Acyl-L-homoserine	H2O	white
+type IV secretion system protein TrbB	7.4.2.8	N-Acyl-L-homoserine	N-Acyl-L-homoserine lactone	white
+type IV secretion system protein TrbB	7.4.2.8	N-Acyl-L-homoserine lactone	N-Acyl-L-homoserine	white
+type IV secretion system protein TrbC	7.4.2.8	H2O	N-Acyl-L-homoserine	white
+type IV secretion system protein TrbC	7.4.2.8	N-Acyl-L-homoserine	H2O	white
+type IV secretion system protein TrbC	7.4.2.8	N-Acyl-L-homoserine	N-Acyl-L-homoserine lactone	white
+type IV secretion system protein TrbC	7.4.2.8	N-Acyl-L-homoserine lactone	N-Acyl-L-homoserine	white
+type IV secretion system protein TrbD	7.4.2.8	H2O	N-Acyl-L-homoserine	white
+type IV secretion system protein TrbD	7.4.2.8	N-Acyl-L-homoserine	H2O	white
+type IV secretion system protein TrbD	7.4.2.8	N-Acyl-L-homoserine	N-Acyl-L-homoserine lactone	white
+type IV secretion system protein TrbD	7.4.2.8	N-Acyl-L-homoserine lactone	N-Acyl-L-homoserine	white
+type IV secretion system protein TrbE	7.4.2.8	H2O	N-Acyl-L-homoserine	white
+type IV secretion system protein TrbE	7.4.2.8	N-Acyl-L-homoserine	H2O	white
+type IV secretion system protein TrbE	7.4.2.8	N-Acyl-L-homoserine	N-Acyl-L-homoserine lactone	white
+type IV secretion system protein TrbE	7.4.2.8	N-Acyl-L-homoserine lactone	N-Acyl-L-homoserine	white
+type IV secretion system protein TrbF	7.4.2.8	H2O	N-Acyl-L-homoserine	white
+type IV secretion system protein TrbF	7.4.2.8	N-Acyl-L-homoserine	H2O	white
+type IV secretion system protein TrbF	7.4.2.8	N-Acyl-L-homoserine	N-Acyl-L-homoserine lactone	white
+type IV secretion system protein TrbF	7.4.2.8	N-Acyl-L-homoserine lactone	N-Acyl-L-homoserine	white
+type IV secretion system protein TrbG	7.4.2.8	H2O	N-Acyl-L-homoserine	white
+type IV secretion system protein TrbG	7.4.2.8	N-Acyl-L-homoserine	H2O	white
+type IV secretion system protein TrbG	7.4.2.8	N-Acyl-L-homoserine	N-Acyl-L-homoserine lactone	white
+type IV secretion system protein TrbG	7.4.2.8	N-Acyl-L-homoserine lactone	N-Acyl-L-homoserine	white
+type IV secretion system protein TrbH	7.4.2.8	H2O	N-Acyl-L-homoserine	white
+type IV secretion system protein TrbH	7.4.2.8	N-Acyl-L-homoserine	H2O	white
+type IV secretion system protein TrbH	7.4.2.8	N-Acyl-L-homoserine	N-Acyl-L-homoserine lactone	white
+type IV secretion system protein TrbH	7.4.2.8	N-Acyl-L-homoserine lactone	N-Acyl-L-homoserine	white
+type IV secretion system protein TrbI	7.4.2.8	H2O	N-Acyl-L-homoserine	white
+type IV secretion system protein TrbI	7.4.2.8	N-Acyl-L-homoserine	H2O	white
+type IV secretion system protein TrbI	7.4.2.8	N-Acyl-L-homoserine	N-Acyl-L-homoserine lactone	white
+type IV secretion system protein TrbI	7.4.2.8	N-Acyl-L-homoserine lactone	N-Acyl-L-homoserine	white
+type IV secretion system protein TrbJ	7.4.2.8	H2O	N-Acyl-L-homoserine	white
+type IV secretion system protein TrbJ	7.4.2.8	N-Acyl-L-homoserine	H2O	white
+type IV secretion system protein TrbJ	7.4.2.8	N-Acyl-L-homoserine	N-Acyl-L-homoserine lactone	white
+type IV secretion system protein TrbJ	7.4.2.8	N-Acyl-L-homoserine lactone	N-Acyl-L-homoserine	white
+type IV secretion system protein TrbK	7.4.2.8	H2O	N-Acyl-L-homoserine	white
+type IV secretion system protein TrbK	7.4.2.8	N-Acyl-L-homoserine	H2O	white
+type IV secretion system protein TrbK	7.4.2.8	N-Acyl-L-homoserine	N-Acyl-L-homoserine lactone	white
+type IV secretion system protein TrbK	7.4.2.8	N-Acyl-L-homoserine lactone	N-Acyl-L-homoserine	white
+type IV secretion system protein TrbL	7.4.2.8	H2O	N-Acyl-L-homoserine	white
+type IV secretion system protein TrbL	7.4.2.8	N-Acyl-L-homoserine	H2O	white
+type IV secretion system protein TrbL	7.4.2.8	N-Acyl-L-homoserine	N-Acyl-L-homoserine lactone	white
+type IV secretion system protein TrbL	7.4.2.8	N-Acyl-L-homoserine lactone	N-Acyl-L-homoserine	white
+violacein biosynthesis protein VioB	1.14.13.217	IPA imine	Protodeoxyviolaceinic acid	white
+violacein biosynthesis protein VioB	1.14.13.217	Protodeoxyviolaceinic acid	IPA imine	white
+violacein biosynthesis protein VioE	1.14.13.217	IPA imine	Protodeoxyviolaceinic acid	white
+violacein biosynthesis protein VioE	1.14.13.217	Protodeoxyviolaceinic acid	IPA imine	white
+violacein synthase	1.14.13.224	Deoxyviolaceinic acid	H+	white
+violacein synthase	1.14.13.224	Deoxyviolaceinic acid	NADPH	white
+violacein synthase	1.14.13.224	Deoxyviolaceinic acid	Oxygen	white
+violacein synthase	1.14.13.224	Deoxyviolaceinic acid	Protodeoxyviolaceinic acid	white
+violacein synthase	1.14.13.224	H+	Deoxyviolaceinic acid	white
+violacein synthase	1.14.13.224	H+	H2O	white
+violacein synthase	1.14.13.224	H+	NADP+	white
+violacein synthase	1.14.13.224	H2O	H+	white
+violacein synthase	1.14.13.224	H2O	NADPH	white
+violacein synthase	1.14.13.224	H2O	Oxygen	white
+violacein synthase	1.14.13.224	H2O	Protodeoxyviolaceinic acid	white
+violacein synthase	1.14.13.224	NADP+	H+	white
+violacein synthase	1.14.13.224	NADP+	NADPH	white
+violacein synthase	1.14.13.224	NADP+	Oxygen	white
+violacein synthase	1.14.13.224	NADP+	Protodeoxyviolaceinic acid	white
+violacein synthase	1.14.13.224	NADPH	Deoxyviolaceinic acid	white
+violacein synthase	1.14.13.224	NADPH	H2O	white
+violacein synthase	1.14.13.224	NADPH	NADP+	white
+violacein synthase	1.14.13.224	Oxygen	Deoxyviolaceinic acid	white
+violacein synthase	1.14.13.224	Oxygen	H2O	white
+violacein synthase	1.14.13.224	Oxygen	NADP+	white
+violacein synthase	1.14.13.224	Protodeoxyviolaceinic acid	Deoxyviolaceinic acid	white
+violacein synthase	1.14.13.224	Protodeoxyviolaceinic acid	H2O	white
+violacein synthase	1.14.13.224	Protodeoxyviolaceinic acid	NADP+	white
+zinc metalloprotease ZmpA	4.1.3.27	Ammonia	Anthranilate	white
+zinc metalloprotease ZmpA	4.1.3.27	Ammonia	H2O	white
+zinc metalloprotease ZmpA	4.1.3.27	Ammonia	Pyruvate	white
+zinc metalloprotease ZmpA	4.1.3.27	Anthranilate	Ammonia	white
+zinc metalloprotease ZmpA	4.1.3.27	Anthranilate	Chorismate	white
+zinc metalloprotease ZmpA	4.1.3.27	Chorismate	Anthranilate	white
+zinc metalloprotease ZmpA	4.1.3.27	Chorismate	H2O	white
+zinc metalloprotease ZmpA	4.1.3.27	Chorismate	Pyruvate	white
+zinc metalloprotease ZmpA	4.1.3.27	H2O	Ammonia	white
+zinc metalloprotease ZmpA	4.1.3.27	H2O	Chorismate	white
+zinc metalloprotease ZmpA	4.1.3.27	Pyruvate	Ammonia	white
+zinc metalloprotease ZmpA	4.1.3.27	Pyruvate	Chorismate	white
+zinc metalloprotease ZmpB	4.1.3.27	Ammonia	Anthranilate	white
+zinc metalloprotease ZmpB	4.1.3.27	Ammonia	H2O	white
+zinc metalloprotease ZmpB	4.1.3.27	Ammonia	Pyruvate	white
+zinc metalloprotease ZmpB	4.1.3.27	Anthranilate	Ammonia	white
+zinc metalloprotease ZmpB	4.1.3.27	Anthranilate	Chorismate	white
+zinc metalloprotease ZmpB	4.1.3.27	Chorismate	Anthranilate	white
+zinc metalloprotease ZmpB	4.1.3.27	Chorismate	H2O	white
+zinc metalloprotease ZmpB	4.1.3.27	Chorismate	Pyruvate	white
+zinc metalloprotease ZmpB	4.1.3.27	H2O	Ammonia	white
+zinc metalloprotease ZmpB	4.1.3.27	H2O	Chorismate	white
+zinc metalloprotease ZmpB	4.1.3.27	Pyruvate	Ammonia	white
+zinc metalloprotease ZmpB	4.1.3.27	Pyruvate	Chorismate	white

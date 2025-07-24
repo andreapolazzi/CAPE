@@ -1,0 +1,570 @@
+enzyme_name	EC	source	target	color
+1-pyrroline-5-carboxylate dehydrogenase	1.2.1.88	(S)-1-Pyrroline-5-carboxylate	H+	green
+1-pyrroline-5-carboxylate dehydrogenase	1.2.1.88	(S)-1-Pyrroline-5-carboxylate	L-Glutamate	green
+1-pyrroline-5-carboxylate dehydrogenase	1.2.1.88	(S)-1-Pyrroline-5-carboxylate	NADH	green
+1-pyrroline-5-carboxylate dehydrogenase	1.2.1.88	(S)-1-Pyrroline-5-carboxylate	NADPH	green
+1-pyrroline-5-carboxylate dehydrogenase	1.2.1.88	H2O	H+	green
+1-pyrroline-5-carboxylate dehydrogenase	1.2.1.88	H2O	L-Glutamate	green
+1-pyrroline-5-carboxylate dehydrogenase	1.2.1.88	H2O	NADH	green
+1-pyrroline-5-carboxylate dehydrogenase	1.2.1.88	H2O	NADPH	green
+1-pyrroline-5-carboxylate dehydrogenase	1.2.1.88	NAD+	H+	green
+1-pyrroline-5-carboxylate dehydrogenase	1.2.1.88	NAD+	L-Glutamate	green
+1-pyrroline-5-carboxylate dehydrogenase	1.2.1.88	NAD+	NADH	green
+1-pyrroline-5-carboxylate dehydrogenase	1.2.1.88	NADP+	H+	green
+1-pyrroline-5-carboxylate dehydrogenase	1.2.1.88	NADP+	L-Glutamate	green
+1-pyrroline-5-carboxylate dehydrogenase	1.2.1.88	NADP+	NADPH	green
+2-oxoglutaramate amidase	3.5.1.111	2-Oxoglutaramate	2-Oxoglutarate	white
+2-oxoglutaramate amidase	3.5.1.111	2-Oxoglutaramate	Ammonia	white
+2-oxoglutaramate amidase	3.5.1.111	2-Oxoglutarate	2-Oxoglutaramate	white
+2-oxoglutaramate amidase	3.5.1.111	2-Oxoglutarate	H2O	white
+2-oxoglutaramate amidase	3.5.1.111	Ammonia	2-Oxoglutaramate	white
+2-oxoglutaramate amidase	3.5.1.111	Ammonia	H2O	white
+2-oxoglutaramate amidase	3.5.1.111	H2O	2-Oxoglutarate	white
+2-oxoglutaramate amidase	3.5.1.111	H2O	Ammonia	white
+4-aminobutyrate aminotransferase	2.6.1.19	2-Oxoglutarate	L-Glutamate	green
+4-aminobutyrate aminotransferase	2.6.1.19	2-Oxoglutarate	Succinate semialdehyde	green
+4-aminobutyrate aminotransferase	2.6.1.19	4-Aminobutanoate	L-Glutamate	green
+4-aminobutyrate aminotransferase	2.6.1.19	4-Aminobutanoate	Succinate semialdehyde	green
+4-aminobutyrate aminotransferase	2.6.1.19	L-Glutamate	2-Oxoglutarate	green
+4-aminobutyrate aminotransferase	2.6.1.19	L-Glutamate	4-Aminobutanoate	green
+4-aminobutyrate aminotransferase	2.6.1.19	Succinate semialdehyde	2-Oxoglutarate	green
+4-aminobutyrate aminotransferase	2.6.1.19	Succinate semialdehyde	4-Aminobutanoate	green
+4-aminobutyrate aminotransferase / (S)-3-amino-2-methylpropionate transaminase / 5-aminovalerate transaminase	2.6.1.19	2-Oxoglutarate	L-Glutamate	green
+4-aminobutyrate aminotransferase / (S)-3-amino-2-methylpropionate transaminase / 5-aminovalerate transaminase	2.6.1.19	2-Oxoglutarate	Succinate semialdehyde	green
+4-aminobutyrate aminotransferase / (S)-3-amino-2-methylpropionate transaminase / 5-aminovalerate transaminase	2.6.1.19	4-Aminobutanoate	L-Glutamate	green
+4-aminobutyrate aminotransferase / (S)-3-amino-2-methylpropionate transaminase / 5-aminovalerate transaminase	2.6.1.19	4-Aminobutanoate	Succinate semialdehyde	green
+4-aminobutyrate aminotransferase / (S)-3-amino-2-methylpropionate transaminase / 5-aminovalerate transaminase	2.6.1.19	L-Glutamate	2-Oxoglutarate	green
+4-aminobutyrate aminotransferase / (S)-3-amino-2-methylpropionate transaminase / 5-aminovalerate transaminase	2.6.1.19	L-Glutamate	4-Aminobutanoate	green
+4-aminobutyrate aminotransferase / (S)-3-amino-2-methylpropionate transaminase / 5-aminovalerate transaminase	2.6.1.19	Succinate semialdehyde	2-Oxoglutarate	green
+4-aminobutyrate aminotransferase / (S)-3-amino-2-methylpropionate transaminase / 5-aminovalerate transaminase	2.6.1.19	Succinate semialdehyde	4-Aminobutanoate	green
+4-aminobutyrate---pyruvate transaminase	2.6.1.96	4-Aminobutanoate	L-Alanine	white
+4-aminobutyrate---pyruvate transaminase	2.6.1.96	4-Aminobutanoate	Succinate semialdehyde	white
+4-aminobutyrate---pyruvate transaminase	2.6.1.96	L-Alanine	4-Aminobutanoate	white
+4-aminobutyrate---pyruvate transaminase	2.6.1.96	L-Alanine	Pyruvate	white
+4-aminobutyrate---pyruvate transaminase	2.6.1.96	Pyruvate	L-Alanine	white
+4-aminobutyrate---pyruvate transaminase	2.6.1.96	Pyruvate	Succinate semialdehyde	white
+4-aminobutyrate---pyruvate transaminase	2.6.1.96	Succinate semialdehyde	4-Aminobutanoate	white
+4-aminobutyrate---pyruvate transaminase	2.6.1.96	Succinate semialdehyde	Pyruvate	white
+D-aspartate oxidase	1.4.3.1	Ammonia	D-Aspartate	white
+D-aspartate oxidase	1.4.3.1	Ammonia	H2O	white
+D-aspartate oxidase	1.4.3.1	Ammonia	Oxygen	white
+D-aspartate oxidase	1.4.3.1	D-Aspartate	Ammonia	white
+D-aspartate oxidase	1.4.3.1	D-Aspartate	Hydrogen peroxide	white
+D-aspartate oxidase	1.4.3.1	D-Aspartate	Oxaloacetate	white
+D-aspartate oxidase	1.4.3.1	H2O	Ammonia	white
+D-aspartate oxidase	1.4.3.1	H2O	Hydrogen peroxide	white
+D-aspartate oxidase	1.4.3.1	H2O	Oxaloacetate	white
+D-aspartate oxidase	1.4.3.1	Hydrogen peroxide	D-Aspartate	white
+D-aspartate oxidase	1.4.3.1	Hydrogen peroxide	H2O	white
+D-aspartate oxidase	1.4.3.1	Hydrogen peroxide	Oxygen	white
+D-aspartate oxidase	1.4.3.1	Oxaloacetate	D-Aspartate	white
+D-aspartate oxidase	1.4.3.1	Oxaloacetate	H2O	white
+D-aspartate oxidase	1.4.3.1	Oxaloacetate	Oxygen	white
+D-aspartate oxidase	1.4.3.1	Oxygen	Ammonia	white
+D-aspartate oxidase	1.4.3.1	Oxygen	Hydrogen peroxide	white
+D-aspartate oxidase	1.4.3.1	Oxygen	Oxaloacetate	white
+L-amino-acid oxidase	1.4.3.2	Ammonia	H2O	white
+L-amino-acid oxidase	1.4.3.2	Ammonia	L-Aspartate	white
+L-amino-acid oxidase	1.4.3.2	Ammonia	Oxygen	white
+L-amino-acid oxidase	1.4.3.2	H2O	Ammonia	white
+L-amino-acid oxidase	1.4.3.2	H2O	Hydrogen peroxide	white
+L-amino-acid oxidase	1.4.3.2	H2O	Oxaloacetate	white
+L-amino-acid oxidase	1.4.3.2	Hydrogen peroxide	H2O	white
+L-amino-acid oxidase	1.4.3.2	Hydrogen peroxide	L-Aspartate	white
+L-amino-acid oxidase	1.4.3.2	Hydrogen peroxide	Oxygen	white
+L-amino-acid oxidase	1.4.3.2	L-Aspartate	Ammonia	white
+L-amino-acid oxidase	1.4.3.2	L-Aspartate	Hydrogen peroxide	white
+L-amino-acid oxidase	1.4.3.2	L-Aspartate	Oxaloacetate	white
+L-amino-acid oxidase	1.4.3.2	Oxaloacetate	H2O	white
+L-amino-acid oxidase	1.4.3.2	Oxaloacetate	L-Aspartate	white
+L-amino-acid oxidase	1.4.3.2	Oxaloacetate	Oxygen	white
+L-amino-acid oxidase	1.4.3.2	Oxygen	Ammonia	white
+L-amino-acid oxidase	1.4.3.2	Oxygen	Hydrogen peroxide	white
+L-amino-acid oxidase	1.4.3.2	Oxygen	Oxaloacetate	white
+L-asparaginase	3.5.1.1	H2O	Ammonia	green
+L-asparaginase	3.5.1.1	H2O	L-Aspartate	green
+L-asparaginase	3.5.1.1	L-Asparagine	Ammonia	green
+L-asparaginase	3.5.1.1	L-Asparagine	L-Aspartate	green
+L-aspartate oxidase	1.4.3.16	H2O	Ammonia	green
+L-aspartate oxidase	1.4.3.16	H2O	Hydrogen peroxide	green
+L-aspartate oxidase	1.4.3.16	H2O	Oxaloacetate	green
+L-aspartate oxidase	1.4.3.16	L-Aspartate	Ammonia	green
+L-aspartate oxidase	1.4.3.16	L-Aspartate	Hydrogen peroxide	green
+L-aspartate oxidase	1.4.3.16	L-Aspartate	Oxaloacetate	green
+L-aspartate oxidase	1.4.3.16	Oxygen	Ammonia	green
+L-aspartate oxidase	1.4.3.16	Oxygen	Hydrogen peroxide	green
+L-aspartate oxidase	1.4.3.16	Oxygen	Oxaloacetate	green
+N-acetylaspartylglutamate/N-acetylaspartylglutamylglutamate synthase	6.3.2.41	ADP	ATP	white
+N-acetylaspartylglutamate/N-acetylaspartylglutamylglutamate synthase	6.3.2.41	ADP	L-Glutamate	white
+N-acetylaspartylglutamate/N-acetylaspartylglutamylglutamate synthase	6.3.2.41	ADP	N-Acetyl-L-aspartate	white
+N-acetylaspartylglutamate/N-acetylaspartylglutamylglutamate synthase	6.3.2.41	ATP	ADP	white
+N-acetylaspartylglutamate/N-acetylaspartylglutamylglutamate synthase	6.3.2.41	ATP	N-Acetylaspartylglutamate	white
+N-acetylaspartylglutamate/N-acetylaspartylglutamylglutamate synthase	6.3.2.41	ATP	Orthophosphate	white
+N-acetylaspartylglutamate/N-acetylaspartylglutamylglutamate synthase	6.3.2.41	L-Glutamate	ADP	white
+N-acetylaspartylglutamate/N-acetylaspartylglutamylglutamate synthase	6.3.2.41	L-Glutamate	N-Acetylaspartylglutamate	white
+N-acetylaspartylglutamate/N-acetylaspartylglutamylglutamate synthase	6.3.2.41	L-Glutamate	Orthophosphate	white
+N-acetylaspartylglutamate/N-acetylaspartylglutamylglutamate synthase	6.3.2.41	N-Acetyl-L-aspartate	ADP	white
+N-acetylaspartylglutamate/N-acetylaspartylglutamylglutamate synthase	6.3.2.41	N-Acetyl-L-aspartate	N-Acetylaspartylglutamate	white
+N-acetylaspartylglutamate/N-acetylaspartylglutamylglutamate synthase	6.3.2.41	N-Acetyl-L-aspartate	Orthophosphate	white
+N-acetylaspartylglutamate/N-acetylaspartylglutamylglutamate synthase	6.3.2.41	N-Acetylaspartylglutamate	ATP	white
+N-acetylaspartylglutamate/N-acetylaspartylglutamylglutamate synthase	6.3.2.41	N-Acetylaspartylglutamate	L-Glutamate	white
+N-acetylaspartylglutamate/N-acetylaspartylglutamylglutamate synthase	6.3.2.41	N-Acetylaspartylglutamate	N-Acetyl-L-aspartate	white
+N-acetylaspartylglutamate/N-acetylaspartylglutamylglutamate synthase	6.3.2.41	Orthophosphate	ATP	white
+N-acetylaspartylglutamate/N-acetylaspartylglutamylglutamate synthase	6.3.2.41	Orthophosphate	L-Glutamate	white
+N-acetylaspartylglutamate/N-acetylaspartylglutamylglutamate synthase	6.3.2.41	Orthophosphate	N-Acetyl-L-aspartate	white
+adenylosuccinate lyase	4.3.2.2	N6-(1,2-Dicarboxyethyl)-AMP	AMP	green
+adenylosuccinate lyase	4.3.2.2	N6-(1,2-Dicarboxyethyl)-AMP	Fumarate	green
+adenylosuccinate synthase	6.3.4.4	GTP	GDP	green
+adenylosuccinate synthase	6.3.4.4	GTP	N6-(1,2-Dicarboxyethyl)-AMP	green
+adenylosuccinate synthase	6.3.4.4	GTP	Orthophosphate	green
+adenylosuccinate synthase	6.3.4.4	IMP	GDP	green
+adenylosuccinate synthase	6.3.4.4	IMP	N6-(1,2-Dicarboxyethyl)-AMP	green
+adenylosuccinate synthase	6.3.4.4	IMP	Orthophosphate	green
+adenylosuccinate synthase	6.3.4.4	L-Aspartate	GDP	green
+adenylosuccinate synthase	6.3.4.4	L-Aspartate	N6-(1,2-Dicarboxyethyl)-AMP	green
+adenylosuccinate synthase	6.3.4.4	L-Aspartate	Orthophosphate	green
+alanine dehydrogenase	1.4.1.1	H2O	Ammonia	green
+alanine dehydrogenase	1.4.1.1	H2O	H+	green
+alanine dehydrogenase	1.4.1.1	H2O	NADH	green
+alanine dehydrogenase	1.4.1.1	H2O	Pyruvate	green
+alanine dehydrogenase	1.4.1.1	L-Alanine	Ammonia	green
+alanine dehydrogenase	1.4.1.1	L-Alanine	H+	green
+alanine dehydrogenase	1.4.1.1	L-Alanine	NADH	green
+alanine dehydrogenase	1.4.1.1	L-Alanine	Pyruvate	green
+alanine dehydrogenase	1.4.1.1	NAD+	Ammonia	green
+alanine dehydrogenase	1.4.1.1	NAD+	H+	green
+alanine dehydrogenase	1.4.1.1	NAD+	NADH	green
+alanine dehydrogenase	1.4.1.1	NAD+	Pyruvate	green
+alanine-glyoxylate transaminase / (R)-3-amino-2-methylpropionate-pyruvate transaminase	2.6.1.44	Glycine	Glyoxylate	white
+alanine-glyoxylate transaminase / (R)-3-amino-2-methylpropionate-pyruvate transaminase	2.6.1.44	Glycine	L-Alanine	white
+alanine-glyoxylate transaminase / (R)-3-amino-2-methylpropionate-pyruvate transaminase	2.6.1.44	Glyoxylate	Glycine	white
+alanine-glyoxylate transaminase / (R)-3-amino-2-methylpropionate-pyruvate transaminase	2.6.1.44	Glyoxylate	Pyruvate	white
+alanine-glyoxylate transaminase / (R)-3-amino-2-methylpropionate-pyruvate transaminase	2.6.1.44	L-Alanine	Glycine	white
+alanine-glyoxylate transaminase / (R)-3-amino-2-methylpropionate-pyruvate transaminase	2.6.1.44	L-Alanine	Pyruvate	white
+alanine-glyoxylate transaminase / (R)-3-amino-2-methylpropionate-pyruvate transaminase	2.6.1.44	Pyruvate	Glyoxylate	white
+alanine-glyoxylate transaminase / (R)-3-amino-2-methylpropionate-pyruvate transaminase	2.6.1.44	Pyruvate	L-Alanine	white
+alanine-glyoxylate transaminase / serine-glyoxylate transaminase / serine-pyruvate transaminase	2.6.1.44	Glycine	Glyoxylate	white
+alanine-glyoxylate transaminase / serine-glyoxylate transaminase / serine-pyruvate transaminase	2.6.1.44	Glycine	L-Alanine	white
+alanine-glyoxylate transaminase / serine-glyoxylate transaminase / serine-pyruvate transaminase	2.6.1.44	Glyoxylate	Glycine	white
+alanine-glyoxylate transaminase / serine-glyoxylate transaminase / serine-pyruvate transaminase	2.6.1.44	Glyoxylate	Pyruvate	white
+alanine-glyoxylate transaminase / serine-glyoxylate transaminase / serine-pyruvate transaminase	2.6.1.44	L-Alanine	Glycine	white
+alanine-glyoxylate transaminase / serine-glyoxylate transaminase / serine-pyruvate transaminase	2.6.1.44	L-Alanine	Pyruvate	white
+alanine-glyoxylate transaminase / serine-glyoxylate transaminase / serine-pyruvate transaminase	2.6.1.44	Pyruvate	Glyoxylate	white
+alanine-glyoxylate transaminase / serine-glyoxylate transaminase / serine-pyruvate transaminase	2.6.1.44	Pyruvate	L-Alanine	white
+alanine-synthesizing transaminase	2.6.1.66	2-Oxoglutarate	L-Glutamate	green
+alanine-synthesizing transaminase	2.6.1.66	2-Oxoglutarate	Pyruvate	green
+alanine-synthesizing transaminase	2.6.1.66	L-Alanine	L-Glutamate	green
+alanine-synthesizing transaminase	2.6.1.66	L-Alanine	Pyruvate	green
+alanine-synthesizing transaminase	2.6.1.66	L-Glutamate	2-Oxoglutarate	green
+alanine-synthesizing transaminase	2.6.1.66	L-Glutamate	L-Alanine	green
+alanine-synthesizing transaminase	2.6.1.66	Pyruvate	2-Oxoglutarate	green
+alanine-synthesizing transaminase	2.6.1.66	Pyruvate	L-Alanine	green
+amidophosphoribosyltransferase	2.4.2.14	5-Phosphoribosylamine	5-Phospho-alpha-D-ribose 1-diphosphate	green
+amidophosphoribosyltransferase	2.4.2.14	5-Phosphoribosylamine	H2O	green
+amidophosphoribosyltransferase	2.4.2.14	5-Phosphoribosylamine	L-Glutamine	green
+amidophosphoribosyltransferase	2.4.2.14	Diphosphate	5-Phospho-alpha-D-ribose 1-diphosphate	green
+amidophosphoribosyltransferase	2.4.2.14	Diphosphate	H2O	green
+amidophosphoribosyltransferase	2.4.2.14	Diphosphate	L-Glutamine	green
+amidophosphoribosyltransferase	2.4.2.14	L-Glutamate	5-Phospho-alpha-D-ribose 1-diphosphate	green
+amidophosphoribosyltransferase	2.4.2.14	L-Glutamate	H2O	green
+amidophosphoribosyltransferase	2.4.2.14	L-Glutamate	L-Glutamine	green
+argininosuccinate lyase	4.3.2.1	N-(L-Arginino)succinate	Fumarate	green
+argininosuccinate lyase	4.3.2.1	N-(L-Arginino)succinate	L-Arginine	green
+argininosuccinate synthase	6.3.4.5	ATP	AMP	green
+argininosuccinate synthase	6.3.4.5	ATP	Diphosphate	green
+argininosuccinate synthase	6.3.4.5	ATP	N-(L-Arginino)succinate	green
+argininosuccinate synthase	6.3.4.5	L-Aspartate	AMP	green
+argininosuccinate synthase	6.3.4.5	L-Aspartate	Diphosphate	green
+argininosuccinate synthase	6.3.4.5	L-Aspartate	N-(L-Arginino)succinate	green
+argininosuccinate synthase	6.3.4.5	L-Citrulline	AMP	green
+argininosuccinate synthase	6.3.4.5	L-Citrulline	Diphosphate	green
+argininosuccinate synthase	6.3.4.5	L-Citrulline	N-(L-Arginino)succinate	green
+asparagine synthase (glutamine-hydrolysing)	6.3.5.4	AMP	ATP	green
+asparagine synthase (glutamine-hydrolysing)	6.3.5.4	AMP	H2O	green
+asparagine synthase (glutamine-hydrolysing)	6.3.5.4	AMP	L-Aspartate	green
+asparagine synthase (glutamine-hydrolysing)	6.3.5.4	AMP	L-Glutamine	green
+asparagine synthase (glutamine-hydrolysing)	6.3.5.4	ATP	AMP	green
+asparagine synthase (glutamine-hydrolysing)	6.3.5.4	ATP	Diphosphate	green
+asparagine synthase (glutamine-hydrolysing)	6.3.5.4	ATP	L-Asparagine	green
+asparagine synthase (glutamine-hydrolysing)	6.3.5.4	ATP	L-Glutamate	green
+asparagine synthase (glutamine-hydrolysing)	6.3.5.4	Diphosphate	ATP	green
+asparagine synthase (glutamine-hydrolysing)	6.3.5.4	Diphosphate	H2O	green
+asparagine synthase (glutamine-hydrolysing)	6.3.5.4	Diphosphate	L-Aspartate	green
+asparagine synthase (glutamine-hydrolysing)	6.3.5.4	Diphosphate	L-Glutamine	green
+asparagine synthase (glutamine-hydrolysing)	6.3.5.4	H2O	AMP	green
+asparagine synthase (glutamine-hydrolysing)	6.3.5.4	H2O	Diphosphate	green
+asparagine synthase (glutamine-hydrolysing)	6.3.5.4	H2O	L-Asparagine	green
+asparagine synthase (glutamine-hydrolysing)	6.3.5.4	H2O	L-Glutamate	green
+asparagine synthase (glutamine-hydrolysing)	6.3.5.4	L-Asparagine	ATP	green
+asparagine synthase (glutamine-hydrolysing)	6.3.5.4	L-Asparagine	H2O	green
+asparagine synthase (glutamine-hydrolysing)	6.3.5.4	L-Asparagine	L-Aspartate	green
+asparagine synthase (glutamine-hydrolysing)	6.3.5.4	L-Asparagine	L-Glutamine	green
+asparagine synthase (glutamine-hydrolysing)	6.3.5.4	L-Aspartate	AMP	green
+asparagine synthase (glutamine-hydrolysing)	6.3.5.4	L-Aspartate	Diphosphate	green
+asparagine synthase (glutamine-hydrolysing)	6.3.5.4	L-Aspartate	L-Asparagine	green
+asparagine synthase (glutamine-hydrolysing)	6.3.5.4	L-Aspartate	L-Glutamate	green
+asparagine synthase (glutamine-hydrolysing)	6.3.5.4	L-Glutamate	ATP	green
+asparagine synthase (glutamine-hydrolysing)	6.3.5.4	L-Glutamate	H2O	green
+asparagine synthase (glutamine-hydrolysing)	6.3.5.4	L-Glutamate	L-Aspartate	green
+asparagine synthase (glutamine-hydrolysing)	6.3.5.4	L-Glutamate	L-Glutamine	green
+asparagine synthase (glutamine-hydrolysing)	6.3.5.4	L-Glutamine	AMP	green
+asparagine synthase (glutamine-hydrolysing)	6.3.5.4	L-Glutamine	Diphosphate	green
+asparagine synthase (glutamine-hydrolysing)	6.3.5.4	L-Glutamine	L-Asparagine	green
+asparagine synthase (glutamine-hydrolysing)	6.3.5.4	L-Glutamine	L-Glutamate	green
+asparagine---oxo-acid transaminase	2.6.1.14	2-Oxo acid	2-Oxosuccinamate	white
+asparagine---oxo-acid transaminase	2.6.1.14	2-Oxo acid	L-Amino acid	white
+asparagine---oxo-acid transaminase	2.6.1.14	2-Oxosuccinamate	2-Oxo acid	white
+asparagine---oxo-acid transaminase	2.6.1.14	2-Oxosuccinamate	L-Asparagine	white
+asparagine---oxo-acid transaminase	2.6.1.14	L-Amino acid	2-Oxo acid	white
+asparagine---oxo-acid transaminase	2.6.1.14	L-Amino acid	L-Asparagine	white
+asparagine---oxo-acid transaminase	2.6.1.14	L-Asparagine	2-Oxosuccinamate	white
+asparagine---oxo-acid transaminase	2.6.1.14	L-Asparagine	L-Amino acid	white
+aspartate 4-decarboxylase	4.1.1.12	CO2	L-Aspartate	white
+aspartate 4-decarboxylase	4.1.1.12	L-Alanine	L-Aspartate	white
+aspartate 4-decarboxylase	4.1.1.12	L-Aspartate	CO2	white
+aspartate 4-decarboxylase	4.1.1.12	L-Aspartate	L-Alanine	white
+aspartate N-acetyltransferase	2.3.1.17	Acetyl-CoA	CoA	white
+aspartate N-acetyltransferase	2.3.1.17	Acetyl-CoA	N-Acetyl-L-aspartate	white
+aspartate N-acetyltransferase	2.3.1.17	CoA	Acetyl-CoA	white
+aspartate N-acetyltransferase	2.3.1.17	CoA	L-Aspartate	white
+aspartate N-acetyltransferase	2.3.1.17	L-Aspartate	CoA	white
+aspartate N-acetyltransferase	2.3.1.17	L-Aspartate	N-Acetyl-L-aspartate	white
+aspartate N-acetyltransferase	2.3.1.17	N-Acetyl-L-aspartate	Acetyl-CoA	white
+aspartate N-acetyltransferase	2.3.1.17	N-Acetyl-L-aspartate	L-Aspartate	white
+aspartate aminotransferase	2.6.1.1	2-Oxoglutarate	L-Glutamate	green
+aspartate aminotransferase	2.6.1.1	2-Oxoglutarate	Oxaloacetate	green
+aspartate aminotransferase	2.6.1.1	L-Aspartate	L-Glutamate	green
+aspartate aminotransferase	2.6.1.1	L-Aspartate	Oxaloacetate	green
+aspartate aminotransferase	2.6.1.1	L-Glutamate	2-Oxoglutarate	green
+aspartate aminotransferase	2.6.1.1	L-Glutamate	L-Aspartate	green
+aspartate aminotransferase	2.6.1.1	Oxaloacetate	2-Oxoglutarate	green
+aspartate aminotransferase	2.6.1.1	Oxaloacetate	L-Aspartate	green
+aspartate ammonia-lyase	4.3.1.1	L-Aspartate	Ammonia	green
+aspartate ammonia-lyase	4.3.1.1	L-Aspartate	Fumarate	green
+aspartate carbamoyltransferase catalytic subunit	2.1.3.2	Carbamoyl phosphate	N-Carbamoyl-L-aspartate	green
+aspartate carbamoyltransferase catalytic subunit	2.1.3.2	Carbamoyl phosphate	Orthophosphate	green
+aspartate carbamoyltransferase catalytic subunit	2.1.3.2	L-Aspartate	N-Carbamoyl-L-aspartate	green
+aspartate carbamoyltransferase catalytic subunit	2.1.3.2	L-Aspartate	Orthophosphate	green
+aspartate racemase	5.1.1.13	D-Aspartate	L-Aspartate	white
+aspartate racemase	5.1.1.13	L-Aspartate	D-Aspartate	white
+aspartate--ammonia ligase	6.3.1.1	AMP	ATP	white
+aspartate--ammonia ligase	6.3.1.1	AMP	Ammonia	white
+aspartate--ammonia ligase	6.3.1.1	AMP	L-Aspartate	white
+aspartate--ammonia ligase	6.3.1.1	ATP	AMP	white
+aspartate--ammonia ligase	6.3.1.1	ATP	Diphosphate	white
+aspartate--ammonia ligase	6.3.1.1	ATP	L-Asparagine	white
+aspartate--ammonia ligase	6.3.1.1	Ammonia	AMP	white
+aspartate--ammonia ligase	6.3.1.1	Ammonia	Diphosphate	white
+aspartate--ammonia ligase	6.3.1.1	Ammonia	L-Asparagine	white
+aspartate--ammonia ligase	6.3.1.1	Diphosphate	ATP	white
+aspartate--ammonia ligase	6.3.1.1	Diphosphate	Ammonia	white
+aspartate--ammonia ligase	6.3.1.1	Diphosphate	L-Aspartate	white
+aspartate--ammonia ligase	6.3.1.1	L-Asparagine	ATP	white
+aspartate--ammonia ligase	6.3.1.1	L-Asparagine	Ammonia	white
+aspartate--ammonia ligase	6.3.1.1	L-Asparagine	L-Aspartate	white
+aspartate--ammonia ligase	6.3.1.1	L-Aspartate	AMP	white
+aspartate--ammonia ligase	6.3.1.1	L-Aspartate	Diphosphate	white
+aspartate--ammonia ligase	6.3.1.1	L-Aspartate	L-Asparagine	white
+aspartoacylase	3.5.1.15	Acetate	H2O	white
+aspartoacylase	3.5.1.15	Acetate	N-Acetyl-L-aspartate	white
+aspartoacylase	3.5.1.15	H2O	Acetate	white
+aspartoacylase	3.5.1.15	H2O	L-Aspartate	white
+aspartoacylase	3.5.1.15	L-Aspartate	H2O	white
+aspartoacylase	3.5.1.15	L-Aspartate	N-Acetyl-L-aspartate	white
+aspartoacylase	3.5.1.15	N-Acetyl-L-aspartate	Acetate	white
+aspartoacylase	3.5.1.15	N-Acetyl-L-aspartate	L-Aspartate	white
+beta-citrylglutamate/N-acetylaspartylglutamate synthase	6.3.1.17	ADP	ATP	white
+beta-citrylglutamate/N-acetylaspartylglutamate synthase	6.3.1.17	ADP	Citrate	white
+beta-citrylglutamate/N-acetylaspartylglutamate synthase	6.3.1.17	ADP	L-Glutamate	white
+beta-citrylglutamate/N-acetylaspartylglutamate synthase	6.3.1.17	ATP	ADP	white
+beta-citrylglutamate/N-acetylaspartylglutamate synthase	6.3.1.17	ATP	Orthophosphate	white
+beta-citrylglutamate/N-acetylaspartylglutamate synthase	6.3.1.17	ATP	beta-Citryl-L-glutamate	white
+beta-citrylglutamate/N-acetylaspartylglutamate synthase	6.3.1.17	Citrate	ADP	white
+beta-citrylglutamate/N-acetylaspartylglutamate synthase	6.3.1.17	Citrate	Orthophosphate	white
+beta-citrylglutamate/N-acetylaspartylglutamate synthase	6.3.1.17	Citrate	beta-Citryl-L-glutamate	white
+beta-citrylglutamate/N-acetylaspartylglutamate synthase	6.3.1.17	L-Glutamate	ADP	white
+beta-citrylglutamate/N-acetylaspartylglutamate synthase	6.3.1.17	L-Glutamate	Orthophosphate	white
+beta-citrylglutamate/N-acetylaspartylglutamate synthase	6.3.1.17	L-Glutamate	beta-Citryl-L-glutamate	white
+beta-citrylglutamate/N-acetylaspartylglutamate synthase	6.3.1.17	Orthophosphate	ATP	white
+beta-citrylglutamate/N-acetylaspartylglutamate synthase	6.3.1.17	Orthophosphate	Citrate	white
+beta-citrylglutamate/N-acetylaspartylglutamate synthase	6.3.1.17	Orthophosphate	L-Glutamate	white
+beta-citrylglutamate/N-acetylaspartylglutamate synthase	6.3.1.17	beta-Citryl-L-glutamate	ATP	white
+beta-citrylglutamate/N-acetylaspartylglutamate synthase	6.3.1.17	beta-Citryl-L-glutamate	Citrate	white
+beta-citrylglutamate/N-acetylaspartylglutamate synthase	6.3.1.17	beta-Citryl-L-glutamate	L-Glutamate	white
+carbamoyl-phosphate synthase (ammonia)	6.3.4.16	ADP	ATP	white
+carbamoyl-phosphate synthase (ammonia)	6.3.4.16	ADP	Ammonia	white
+carbamoyl-phosphate synthase (ammonia)	6.3.4.16	ADP	CO2	white
+carbamoyl-phosphate synthase (ammonia)	6.3.4.16	ADP	H2O	white
+carbamoyl-phosphate synthase (ammonia)	6.3.4.16	ATP	ADP	white
+carbamoyl-phosphate synthase (ammonia)	6.3.4.16	ATP	Carbamoyl phosphate	white
+carbamoyl-phosphate synthase (ammonia)	6.3.4.16	ATP	Orthophosphate	white
+carbamoyl-phosphate synthase (ammonia)	6.3.4.16	Ammonia	ADP	white
+carbamoyl-phosphate synthase (ammonia)	6.3.4.16	Ammonia	Carbamoyl phosphate	white
+carbamoyl-phosphate synthase (ammonia)	6.3.4.16	Ammonia	Orthophosphate	white
+carbamoyl-phosphate synthase (ammonia)	6.3.4.16	CO2	ADP	white
+carbamoyl-phosphate synthase (ammonia)	6.3.4.16	CO2	Carbamoyl phosphate	white
+carbamoyl-phosphate synthase (ammonia)	6.3.4.16	CO2	Orthophosphate	white
+carbamoyl-phosphate synthase (ammonia)	6.3.4.16	Carbamoyl phosphate	ATP	white
+carbamoyl-phosphate synthase (ammonia)	6.3.4.16	Carbamoyl phosphate	Ammonia	white
+carbamoyl-phosphate synthase (ammonia)	6.3.4.16	Carbamoyl phosphate	CO2	white
+carbamoyl-phosphate synthase (ammonia)	6.3.4.16	Carbamoyl phosphate	H2O	white
+carbamoyl-phosphate synthase (ammonia)	6.3.4.16	H2O	ADP	white
+carbamoyl-phosphate synthase (ammonia)	6.3.4.16	H2O	Carbamoyl phosphate	white
+carbamoyl-phosphate synthase (ammonia)	6.3.4.16	H2O	Orthophosphate	white
+carbamoyl-phosphate synthase (ammonia)	6.3.4.16	Orthophosphate	ATP	white
+carbamoyl-phosphate synthase (ammonia)	6.3.4.16	Orthophosphate	Ammonia	white
+carbamoyl-phosphate synthase (ammonia)	6.3.4.16	Orthophosphate	CO2	white
+carbamoyl-phosphate synthase (ammonia)	6.3.4.16	Orthophosphate	H2O	white
+carbamoyl-phosphate synthase large subunit	6.3.5.5	ATP	ADP	green
+carbamoyl-phosphate synthase large subunit	6.3.5.5	ATP	Carbamoyl phosphate	green
+carbamoyl-phosphate synthase large subunit	6.3.5.5	ATP	L-Glutamate	green
+carbamoyl-phosphate synthase large subunit	6.3.5.5	ATP	Orthophosphate	green
+carbamoyl-phosphate synthase large subunit	6.3.5.5	H2O	ADP	green
+carbamoyl-phosphate synthase large subunit	6.3.5.5	H2O	Carbamoyl phosphate	green
+carbamoyl-phosphate synthase large subunit	6.3.5.5	H2O	L-Glutamate	green
+carbamoyl-phosphate synthase large subunit	6.3.5.5	H2O	Orthophosphate	green
+carbamoyl-phosphate synthase large subunit	6.3.5.5	HCO3-	ADP	green
+carbamoyl-phosphate synthase large subunit	6.3.5.5	HCO3-	Carbamoyl phosphate	green
+carbamoyl-phosphate synthase large subunit	6.3.5.5	HCO3-	L-Glutamate	green
+carbamoyl-phosphate synthase large subunit	6.3.5.5	HCO3-	Orthophosphate	green
+carbamoyl-phosphate synthase large subunit	6.3.5.5	L-Glutamine	ADP	green
+carbamoyl-phosphate synthase large subunit	6.3.5.5	L-Glutamine	Carbamoyl phosphate	green
+carbamoyl-phosphate synthase large subunit	6.3.5.5	L-Glutamine	L-Glutamate	green
+carbamoyl-phosphate synthase large subunit	6.3.5.5	L-Glutamine	Orthophosphate	green
+carbamoyl-phosphate synthase small subunit	6.3.5.5	ATP	ADP	green
+carbamoyl-phosphate synthase small subunit	6.3.5.5	ATP	Carbamoyl phosphate	green
+carbamoyl-phosphate synthase small subunit	6.3.5.5	ATP	L-Glutamate	green
+carbamoyl-phosphate synthase small subunit	6.3.5.5	ATP	Orthophosphate	green
+carbamoyl-phosphate synthase small subunit	6.3.5.5	H2O	ADP	green
+carbamoyl-phosphate synthase small subunit	6.3.5.5	H2O	Carbamoyl phosphate	green
+carbamoyl-phosphate synthase small subunit	6.3.5.5	H2O	L-Glutamate	green
+carbamoyl-phosphate synthase small subunit	6.3.5.5	H2O	Orthophosphate	green
+carbamoyl-phosphate synthase small subunit	6.3.5.5	HCO3-	ADP	green
+carbamoyl-phosphate synthase small subunit	6.3.5.5	HCO3-	Carbamoyl phosphate	green
+carbamoyl-phosphate synthase small subunit	6.3.5.5	HCO3-	L-Glutamate	green
+carbamoyl-phosphate synthase small subunit	6.3.5.5	HCO3-	Orthophosphate	green
+carbamoyl-phosphate synthase small subunit	6.3.5.5	L-Glutamine	ADP	green
+carbamoyl-phosphate synthase small subunit	6.3.5.5	L-Glutamine	Carbamoyl phosphate	green
+carbamoyl-phosphate synthase small subunit	6.3.5.5	L-Glutamine	L-Glutamate	green
+carbamoyl-phosphate synthase small subunit	6.3.5.5	L-Glutamine	Orthophosphate	green
+glutamate carboxypeptidase II (folate hydrolase 1)	3.4.17.21	H2O	L-Glutamate	white
+glutamate carboxypeptidase II (folate hydrolase 1)	3.4.17.21	H2O	N-Acetyl-L-aspartate	white
+glutamate carboxypeptidase II (folate hydrolase 1)	3.4.17.21	L-Glutamate	H2O	white
+glutamate carboxypeptidase II (folate hydrolase 1)	3.4.17.21	L-Glutamate	N-Acetylaspartylglutamate	white
+glutamate carboxypeptidase II (folate hydrolase 1)	3.4.17.21	N-Acetyl-L-aspartate	H2O	white
+glutamate carboxypeptidase II (folate hydrolase 1)	3.4.17.21	N-Acetyl-L-aspartate	N-Acetylaspartylglutamate	white
+glutamate carboxypeptidase II (folate hydrolase 1)	3.4.17.21	N-Acetylaspartylglutamate	L-Glutamate	white
+glutamate carboxypeptidase II (folate hydrolase 1)	3.4.17.21	N-Acetylaspartylglutamate	N-Acetyl-L-aspartate	white
+glutamate decarboxylase	4.1.1.15	L-Glutamate	4-Aminobutanoate	green
+glutamate decarboxylase	4.1.1.15	L-Glutamate	CO2	green
+glutamate dehydrogenase	1.4.1.2	2-Oxoglutarate	H2O	green
+glutamate dehydrogenase	1.4.1.2	2-Oxoglutarate	L-Glutamate	green
+glutamate dehydrogenase	1.4.1.2	2-Oxoglutarate	NAD+	green
+glutamate dehydrogenase	1.4.1.2	Ammonia	H2O	green
+glutamate dehydrogenase	1.4.1.2	Ammonia	L-Glutamate	green
+glutamate dehydrogenase	1.4.1.2	Ammonia	NAD+	green
+glutamate dehydrogenase	1.4.1.2	H+	H2O	green
+glutamate dehydrogenase	1.4.1.2	H+	L-Glutamate	green
+glutamate dehydrogenase	1.4.1.2	H+	NAD+	green
+glutamate dehydrogenase	1.4.1.2	H2O	2-Oxoglutarate	green
+glutamate dehydrogenase	1.4.1.2	H2O	Ammonia	green
+glutamate dehydrogenase	1.4.1.2	H2O	H+	green
+glutamate dehydrogenase	1.4.1.2	H2O	NADH	green
+glutamate dehydrogenase	1.4.1.2	L-Glutamate	2-Oxoglutarate	green
+glutamate dehydrogenase	1.4.1.2	L-Glutamate	Ammonia	green
+glutamate dehydrogenase	1.4.1.2	L-Glutamate	H+	green
+glutamate dehydrogenase	1.4.1.2	L-Glutamate	NADH	green
+glutamate dehydrogenase	1.4.1.2	NAD+	2-Oxoglutarate	green
+glutamate dehydrogenase	1.4.1.2	NAD+	Ammonia	green
+glutamate dehydrogenase	1.4.1.2	NAD+	H+	green
+glutamate dehydrogenase	1.4.1.2	NAD+	NADH	green
+glutamate dehydrogenase	1.4.1.2	NADH	H2O	green
+glutamate dehydrogenase	1.4.1.2	NADH	L-Glutamate	green
+glutamate dehydrogenase	1.4.1.2	NADH	NAD+	green
+glutamate dehydrogenase (NAD(P)+)	1.4.1.3	2-Oxoglutarate	H2O	green
+glutamate dehydrogenase (NAD(P)+)	1.4.1.3	2-Oxoglutarate	L-Glutamate	green
+glutamate dehydrogenase (NAD(P)+)	1.4.1.3	2-Oxoglutarate	NAD+	green
+glutamate dehydrogenase (NAD(P)+)	1.4.1.3	2-Oxoglutarate	NADP+	green
+glutamate dehydrogenase (NAD(P)+)	1.4.1.3	Ammonia	H2O	green
+glutamate dehydrogenase (NAD(P)+)	1.4.1.3	Ammonia	L-Glutamate	green
+glutamate dehydrogenase (NAD(P)+)	1.4.1.3	Ammonia	NAD+	green
+glutamate dehydrogenase (NAD(P)+)	1.4.1.3	Ammonia	NADP+	green
+glutamate dehydrogenase (NAD(P)+)	1.4.1.3	H+	H2O	green
+glutamate dehydrogenase (NAD(P)+)	1.4.1.3	H+	L-Glutamate	green
+glutamate dehydrogenase (NAD(P)+)	1.4.1.3	H+	NAD+	green
+glutamate dehydrogenase (NAD(P)+)	1.4.1.3	H+	NADP+	green
+glutamate dehydrogenase (NAD(P)+)	1.4.1.3	H2O	2-Oxoglutarate	green
+glutamate dehydrogenase (NAD(P)+)	1.4.1.3	H2O	Ammonia	green
+glutamate dehydrogenase (NAD(P)+)	1.4.1.3	H2O	H+	green
+glutamate dehydrogenase (NAD(P)+)	1.4.1.3	H2O	NADH	green
+glutamate dehydrogenase (NAD(P)+)	1.4.1.3	H2O	NADPH	green
+glutamate dehydrogenase (NAD(P)+)	1.4.1.3	L-Glutamate	2-Oxoglutarate	green
+glutamate dehydrogenase (NAD(P)+)	1.4.1.3	L-Glutamate	Ammonia	green
+glutamate dehydrogenase (NAD(P)+)	1.4.1.3	L-Glutamate	H+	green
+glutamate dehydrogenase (NAD(P)+)	1.4.1.3	L-Glutamate	NADH	green
+glutamate dehydrogenase (NAD(P)+)	1.4.1.3	L-Glutamate	NADPH	green
+glutamate dehydrogenase (NAD(P)+)	1.4.1.3	NAD+	2-Oxoglutarate	green
+glutamate dehydrogenase (NAD(P)+)	1.4.1.3	NAD+	Ammonia	green
+glutamate dehydrogenase (NAD(P)+)	1.4.1.3	NAD+	H+	green
+glutamate dehydrogenase (NAD(P)+)	1.4.1.3	NAD+	NADH	green
+glutamate dehydrogenase (NAD(P)+)	1.4.1.3	NADH	H2O	green
+glutamate dehydrogenase (NAD(P)+)	1.4.1.3	NADH	L-Glutamate	green
+glutamate dehydrogenase (NAD(P)+)	1.4.1.3	NADH	NAD+	green
+glutamate dehydrogenase (NAD(P)+)	1.4.1.3	NADP+	2-Oxoglutarate	green
+glutamate dehydrogenase (NAD(P)+)	1.4.1.3	NADP+	Ammonia	green
+glutamate dehydrogenase (NAD(P)+)	1.4.1.3	NADP+	H+	green
+glutamate dehydrogenase (NAD(P)+)	1.4.1.3	NADP+	NADPH	green
+glutamate dehydrogenase (NAD(P)+)	1.4.1.3	NADPH	H2O	green
+glutamate dehydrogenase (NAD(P)+)	1.4.1.3	NADPH	L-Glutamate	green
+glutamate dehydrogenase (NAD(P)+)	1.4.1.3	NADPH	NADP+	green
+glutamate dehydrogenase (NADP+)	1.4.1.4	2-Oxoglutarate	H2O	green
+glutamate dehydrogenase (NADP+)	1.4.1.4	2-Oxoglutarate	L-Glutamate	green
+glutamate dehydrogenase (NADP+)	1.4.1.4	2-Oxoglutarate	NADP+	green
+glutamate dehydrogenase (NADP+)	1.4.1.4	Ammonia	H2O	green
+glutamate dehydrogenase (NADP+)	1.4.1.4	Ammonia	L-Glutamate	green
+glutamate dehydrogenase (NADP+)	1.4.1.4	Ammonia	NADP+	green
+glutamate dehydrogenase (NADP+)	1.4.1.4	H+	H2O	green
+glutamate dehydrogenase (NADP+)	1.4.1.4	H+	L-Glutamate	green
+glutamate dehydrogenase (NADP+)	1.4.1.4	H+	NADP+	green
+glutamate dehydrogenase (NADP+)	1.4.1.4	H2O	2-Oxoglutarate	green
+glutamate dehydrogenase (NADP+)	1.4.1.4	H2O	Ammonia	green
+glutamate dehydrogenase (NADP+)	1.4.1.4	H2O	H+	green
+glutamate dehydrogenase (NADP+)	1.4.1.4	H2O	NADPH	green
+glutamate dehydrogenase (NADP+)	1.4.1.4	L-Glutamate	2-Oxoglutarate	green
+glutamate dehydrogenase (NADP+)	1.4.1.4	L-Glutamate	Ammonia	green
+glutamate dehydrogenase (NADP+)	1.4.1.4	L-Glutamate	H+	green
+glutamate dehydrogenase (NADP+)	1.4.1.4	L-Glutamate	NADPH	green
+glutamate dehydrogenase (NADP+)	1.4.1.4	NADP+	2-Oxoglutarate	green
+glutamate dehydrogenase (NADP+)	1.4.1.4	NADP+	Ammonia	green
+glutamate dehydrogenase (NADP+)	1.4.1.4	NADP+	H+	green
+glutamate dehydrogenase (NADP+)	1.4.1.4	NADP+	NADPH	green
+glutamate dehydrogenase (NADP+)	1.4.1.4	NADPH	H2O	green
+glutamate dehydrogenase (NADP+)	1.4.1.4	NADPH	L-Glutamate	green
+glutamate dehydrogenase (NADP+)	1.4.1.4	NADPH	NADP+	green
+glutamate synthase (NADH)	1.4.1.14	2-Oxoglutarate	L-Glutamate	white
+glutamate synthase (NADH)	1.4.1.14	2-Oxoglutarate	NAD+	white
+glutamate synthase (NADH)	1.4.1.14	H+	L-Glutamate	white
+glutamate synthase (NADH)	1.4.1.14	H+	NAD+	white
+glutamate synthase (NADH)	1.4.1.14	L-Glutamate	2-Oxoglutarate	white
+glutamate synthase (NADH)	1.4.1.14	L-Glutamate	H+	white
+glutamate synthase (NADH)	1.4.1.14	L-Glutamate	L-Glutamine	white
+glutamate synthase (NADH)	1.4.1.14	L-Glutamate	NADH	white
+glutamate synthase (NADH)	1.4.1.14	L-Glutamine	L-Glutamate	white
+glutamate synthase (NADH)	1.4.1.14	L-Glutamine	NAD+	white
+glutamate synthase (NADH)	1.4.1.14	NAD+	2-Oxoglutarate	white
+glutamate synthase (NADH)	1.4.1.14	NAD+	H+	white
+glutamate synthase (NADH)	1.4.1.14	NAD+	L-Glutamine	white
+glutamate synthase (NADH)	1.4.1.14	NAD+	NADH	white
+glutamate synthase (NADH)	1.4.1.14	NADH	L-Glutamate	white
+glutamate synthase (NADH)	1.4.1.14	NADH	NAD+	white
+glutamate synthase (NADPH) large chain	1.4.1.13	L-Glutamate	2-Oxoglutarate	green
+glutamate synthase (NADPH) large chain	1.4.1.13	L-Glutamate	H+	green
+glutamate synthase (NADPH) large chain	1.4.1.13	L-Glutamate	L-Glutamine	green
+glutamate synthase (NADPH) large chain	1.4.1.13	L-Glutamate	NADPH	green
+glutamate synthase (NADPH) large chain	1.4.1.13	NADP+	2-Oxoglutarate	green
+glutamate synthase (NADPH) large chain	1.4.1.13	NADP+	H+	green
+glutamate synthase (NADPH) large chain	1.4.1.13	NADP+	L-Glutamine	green
+glutamate synthase (NADPH) large chain	1.4.1.13	NADP+	NADPH	green
+glutamate synthase (NADPH) small chain	1.4.1.13	L-Glutamate	2-Oxoglutarate	green
+glutamate synthase (NADPH) small chain	1.4.1.13	L-Glutamate	H+	green
+glutamate synthase (NADPH) small chain	1.4.1.13	L-Glutamate	L-Glutamine	green
+glutamate synthase (NADPH) small chain	1.4.1.13	L-Glutamate	NADPH	green
+glutamate synthase (NADPH) small chain	1.4.1.13	NADP+	2-Oxoglutarate	green
+glutamate synthase (NADPH) small chain	1.4.1.13	NADP+	H+	green
+glutamate synthase (NADPH) small chain	1.4.1.13	NADP+	L-Glutamine	green
+glutamate synthase (NADPH) small chain	1.4.1.13	NADP+	NADPH	green
+glutamate--glyoxylate aminotransferase	2.6.1.4	2-Oxoglutarate	L-Glutamate	white
+glutamate--glyoxylate aminotransferase	2.6.1.4	2-Oxoglutarate	Pyruvate	white
+glutamate--glyoxylate aminotransferase	2.6.1.4	L-Alanine	L-Glutamate	white
+glutamate--glyoxylate aminotransferase	2.6.1.4	L-Alanine	Pyruvate	white
+glutamate--glyoxylate aminotransferase	2.6.1.4	L-Glutamate	2-Oxoglutarate	white
+glutamate--glyoxylate aminotransferase	2.6.1.4	L-Glutamate	L-Alanine	white
+glutamate--glyoxylate aminotransferase	2.6.1.4	Pyruvate	2-Oxoglutarate	white
+glutamate--glyoxylate aminotransferase	2.6.1.4	Pyruvate	L-Alanine	white
+glutamin-(asparagin-)ase	3.5.1.38	Ammonia	H2O	white
+glutamin-(asparagin-)ase	3.5.1.38	Ammonia	L-Glutamine	white
+glutamin-(asparagin-)ase	3.5.1.38	H2O	Ammonia	white
+glutamin-(asparagin-)ase	3.5.1.38	H2O	L-Glutamate	white
+glutamin-(asparagin-)ase	3.5.1.38	L-Glutamate	H2O	white
+glutamin-(asparagin-)ase	3.5.1.38	L-Glutamate	L-Glutamine	white
+glutamin-(asparagin-)ase	3.5.1.38	L-Glutamine	Ammonia	white
+glutamin-(asparagin-)ase	3.5.1.38	L-Glutamine	L-Glutamate	white
+glutaminase	3.5.1.2	H2O	Ammonia	green
+glutaminase	3.5.1.2	H2O	L-Glutamate	green
+glutaminase	3.5.1.2	L-Glutamine	Ammonia	green
+glutaminase	3.5.1.2	L-Glutamine	L-Glutamate	green
+glutamine synthetase	6.3.1.2	ATP	ADP	green
+glutamine synthetase	6.3.1.2	ATP	L-Glutamine	green
+glutamine synthetase	6.3.1.2	ATP	Orthophosphate	green
+glutamine synthetase	6.3.1.2	Ammonia	ADP	green
+glutamine synthetase	6.3.1.2	Ammonia	L-Glutamine	green
+glutamine synthetase	6.3.1.2	Ammonia	Orthophosphate	green
+glutamine synthetase	6.3.1.2	L-Glutamate	ADP	green
+glutamine synthetase	6.3.1.2	L-Glutamate	L-Glutamine	green
+glutamine synthetase	6.3.1.2	L-Glutamate	Orthophosphate	green
+glutamine---fructose-6-phosphate transaminase (isomerizing)	2.6.1.16	D-Fructose 6-phosphate	D-Glucosamine 6-phosphate	green
+glutamine---fructose-6-phosphate transaminase (isomerizing)	2.6.1.16	D-Fructose 6-phosphate	L-Glutamate	green
+glutamine---fructose-6-phosphate transaminase (isomerizing)	2.6.1.16	L-Glutamine	D-Glucosamine 6-phosphate	green
+glutamine---fructose-6-phosphate transaminase (isomerizing)	2.6.1.16	L-Glutamine	L-Glutamate	green
+omega-amidase	3.5.1.3	2-Oxoglutaramate	2-Oxoglutarate	white
+omega-amidase	3.5.1.3	2-Oxoglutaramate	Ammonia	white
+omega-amidase	3.5.1.3	2-Oxoglutarate	2-Oxoglutaramate	white
+omega-amidase	3.5.1.3	2-Oxoglutarate	H2O	white
+omega-amidase	3.5.1.3	Ammonia	2-Oxoglutaramate	white
+omega-amidase	3.5.1.3	Ammonia	H2O	white
+omega-amidase	3.5.1.3	H2O	2-Oxoglutarate	white
+omega-amidase	3.5.1.3	H2O	Ammonia	white
+phosphoribosylformylglycinamidine synthase subunit PurQ / glutaminase	6.3.5.3	H2O	Ammonia	green
+phosphoribosylformylglycinamidine synthase subunit PurQ / glutaminase	6.3.5.3	H2O	L-Glutamate	green
+phosphoribosylformylglycinamidine synthase subunit PurQ / glutaminase	6.3.5.3	L-Glutamine	Ammonia	green
+phosphoribosylformylglycinamidine synthase subunit PurQ / glutaminase	6.3.5.3	L-Glutamine	L-Glutamate	green
+succinate-semialdehyde dehydrogenase	1.2.1.24	H+	H2O	white
+succinate-semialdehyde dehydrogenase	1.2.1.24	H+	NAD+	white
+succinate-semialdehyde dehydrogenase	1.2.1.24	H+	Succinate semialdehyde	white
+succinate-semialdehyde dehydrogenase	1.2.1.24	H2O	H+	white
+succinate-semialdehyde dehydrogenase	1.2.1.24	H2O	NADH	white
+succinate-semialdehyde dehydrogenase	1.2.1.24	H2O	Succinate	white
+succinate-semialdehyde dehydrogenase	1.2.1.24	NAD+	H+	white
+succinate-semialdehyde dehydrogenase	1.2.1.24	NAD+	NADH	white
+succinate-semialdehyde dehydrogenase	1.2.1.24	NAD+	Succinate	white
+succinate-semialdehyde dehydrogenase	1.2.1.24	NADH	H2O	white
+succinate-semialdehyde dehydrogenase	1.2.1.24	NADH	NAD+	white
+succinate-semialdehyde dehydrogenase	1.2.1.24	NADH	Succinate semialdehyde	white
+succinate-semialdehyde dehydrogenase	1.2.1.24	Succinate	H2O	white
+succinate-semialdehyde dehydrogenase	1.2.1.24	Succinate	NAD+	white
+succinate-semialdehyde dehydrogenase	1.2.1.24	Succinate	Succinate semialdehyde	white
+succinate-semialdehyde dehydrogenase	1.2.1.24	Succinate semialdehyde	H+	white
+succinate-semialdehyde dehydrogenase	1.2.1.24	Succinate semialdehyde	NADH	white
+succinate-semialdehyde dehydrogenase	1.2.1.24	Succinate semialdehyde	Succinate	white
+succinate-semialdehyde dehydrogenase / glutarate-semialdehyde dehydrogenase	1.2.1.16	H2O	H+	green
+succinate-semialdehyde dehydrogenase / glutarate-semialdehyde dehydrogenase	1.2.1.16	H2O	NADH	green
+succinate-semialdehyde dehydrogenase / glutarate-semialdehyde dehydrogenase	1.2.1.16	H2O	NADPH	green
+succinate-semialdehyde dehydrogenase / glutarate-semialdehyde dehydrogenase	1.2.1.16	H2O	Succinate	green
+succinate-semialdehyde dehydrogenase / glutarate-semialdehyde dehydrogenase	1.2.1.16	NAD+	H+	green
+succinate-semialdehyde dehydrogenase / glutarate-semialdehyde dehydrogenase	1.2.1.16	NAD+	NADH	green
+succinate-semialdehyde dehydrogenase / glutarate-semialdehyde dehydrogenase	1.2.1.16	NAD+	Succinate	green
+succinate-semialdehyde dehydrogenase / glutarate-semialdehyde dehydrogenase	1.2.1.16	NADP+	H+	green
+succinate-semialdehyde dehydrogenase / glutarate-semialdehyde dehydrogenase	1.2.1.16	NADP+	NADPH	green
+succinate-semialdehyde dehydrogenase / glutarate-semialdehyde dehydrogenase	1.2.1.16	NADP+	Succinate	green
+succinate-semialdehyde dehydrogenase / glutarate-semialdehyde dehydrogenase	1.2.1.16	Succinate semialdehyde	H+	green
+succinate-semialdehyde dehydrogenase / glutarate-semialdehyde dehydrogenase	1.2.1.16	Succinate semialdehyde	NADH	green
+succinate-semialdehyde dehydrogenase / glutarate-semialdehyde dehydrogenase	1.2.1.16	Succinate semialdehyde	NADPH	green
+succinate-semialdehyde dehydrogenase / glutarate-semialdehyde dehydrogenase	1.2.1.16	Succinate semialdehyde	Succinate	green
+succinate-semialdehyde dehydrogenase, mitochondrial	1.2.1.24	H+	H2O	white
+succinate-semialdehyde dehydrogenase, mitochondrial	1.2.1.24	H+	NAD+	white
+succinate-semialdehyde dehydrogenase, mitochondrial	1.2.1.24	H+	Succinate semialdehyde	white
+succinate-semialdehyde dehydrogenase, mitochondrial	1.2.1.24	H2O	H+	white
+succinate-semialdehyde dehydrogenase, mitochondrial	1.2.1.24	H2O	NADH	white
+succinate-semialdehyde dehydrogenase, mitochondrial	1.2.1.24	H2O	Succinate	white
+succinate-semialdehyde dehydrogenase, mitochondrial	1.2.1.24	NAD+	H+	white
+succinate-semialdehyde dehydrogenase, mitochondrial	1.2.1.24	NAD+	NADH	white
+succinate-semialdehyde dehydrogenase, mitochondrial	1.2.1.24	NAD+	Succinate	white
+succinate-semialdehyde dehydrogenase, mitochondrial	1.2.1.24	NADH	H2O	white
+succinate-semialdehyde dehydrogenase, mitochondrial	1.2.1.24	NADH	NAD+	white
+succinate-semialdehyde dehydrogenase, mitochondrial	1.2.1.24	NADH	Succinate semialdehyde	white
+succinate-semialdehyde dehydrogenase, mitochondrial	1.2.1.24	Succinate	H2O	white
+succinate-semialdehyde dehydrogenase, mitochondrial	1.2.1.24	Succinate	NAD+	white
+succinate-semialdehyde dehydrogenase, mitochondrial	1.2.1.24	Succinate	Succinate semialdehyde	white
+succinate-semialdehyde dehydrogenase, mitochondrial	1.2.1.24	Succinate semialdehyde	H+	white
+succinate-semialdehyde dehydrogenase, mitochondrial	1.2.1.24	Succinate semialdehyde	NADH	white
+succinate-semialdehyde dehydrogenase, mitochondrial	1.2.1.24	Succinate semialdehyde	Succinate	white

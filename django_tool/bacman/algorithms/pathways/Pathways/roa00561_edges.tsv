@@ -1,0 +1,372 @@
+enzyme_name	EC	source	target	color
+1,2-diacylglycerol 3-alpha-glucosyltransferase	2.4.1.337	1,2-Diacyl-3-alpha-D-glucosyl-sn-glycerol	1,2-Diacyl-sn-glycerol	white
+1,2-diacylglycerol 3-alpha-glucosyltransferase	2.4.1.337	1,2-Diacyl-3-alpha-D-glucosyl-sn-glycerol	UDP-glucose	white
+1,2-diacylglycerol 3-alpha-glucosyltransferase	2.4.1.337	1,2-Diacyl-sn-glycerol	1,2-Diacyl-3-alpha-D-glucosyl-sn-glycerol	white
+1,2-diacylglycerol 3-alpha-glucosyltransferase	2.4.1.337	1,2-Diacyl-sn-glycerol	UDP	white
+1,2-diacylglycerol 3-alpha-glucosyltransferase	2.4.1.337	UDP	1,2-Diacyl-sn-glycerol	white
+1,2-diacylglycerol 3-alpha-glucosyltransferase	2.4.1.337	UDP	UDP-glucose	white
+1,2-diacylglycerol 3-alpha-glucosyltransferase	2.4.1.337	UDP-glucose	1,2-Diacyl-3-alpha-D-glucosyl-sn-glycerol	white
+1,2-diacylglycerol 3-alpha-glucosyltransferase	2.4.1.337	UDP-glucose	UDP	white
+1,2-diacylglycerol 3-alpha-glucosyltransferase/glucuronosyltransferase	2.4.1.337	1,2-Diacyl-3-alpha-D-glucosyl-sn-glycerol	1,2-Diacyl-sn-glycerol	white
+1,2-diacylglycerol 3-alpha-glucosyltransferase/glucuronosyltransferase	2.4.1.337	1,2-Diacyl-3-alpha-D-glucosyl-sn-glycerol	UDP-glucose	white
+1,2-diacylglycerol 3-alpha-glucosyltransferase/glucuronosyltransferase	2.4.1.337	1,2-Diacyl-sn-glycerol	1,2-Diacyl-3-alpha-D-glucosyl-sn-glycerol	white
+1,2-diacylglycerol 3-alpha-glucosyltransferase/glucuronosyltransferase	2.4.1.337	1,2-Diacyl-sn-glycerol	UDP	white
+1,2-diacylglycerol 3-alpha-glucosyltransferase/glucuronosyltransferase	2.4.1.337	UDP	1,2-Diacyl-sn-glycerol	white
+1,2-diacylglycerol 3-alpha-glucosyltransferase/glucuronosyltransferase	2.4.1.337	UDP	UDP-glucose	white
+1,2-diacylglycerol 3-alpha-glucosyltransferase/glucuronosyltransferase	2.4.1.337	UDP-glucose	1,2-Diacyl-3-alpha-D-glucosyl-sn-glycerol	white
+1,2-diacylglycerol 3-alpha-glucosyltransferase/glucuronosyltransferase	2.4.1.337	UDP-glucose	UDP	white
+1,2-diacylglycerol 3-beta-galactosyltransferase	2.4.1.46	1,2-Diacyl-3-beta-D-galactosyl-sn-glycerol	1,2-Diacyl-sn-glycerol	white
+1,2-diacylglycerol 3-beta-galactosyltransferase	2.4.1.46	1,2-Diacyl-3-beta-D-galactosyl-sn-glycerol	UDP-alpha-D-galactose	white
+1,2-diacylglycerol 3-beta-galactosyltransferase	2.4.1.46	1,2-Diacyl-sn-glycerol	1,2-Diacyl-3-beta-D-galactosyl-sn-glycerol	white
+1,2-diacylglycerol 3-beta-galactosyltransferase	2.4.1.46	1,2-Diacyl-sn-glycerol	UDP	white
+1,2-diacylglycerol 3-beta-galactosyltransferase	2.4.1.46	UDP	1,2-Diacyl-sn-glycerol	white
+1,2-diacylglycerol 3-beta-galactosyltransferase	2.4.1.46	UDP	UDP-alpha-D-galactose	white
+1,2-diacylglycerol 3-beta-galactosyltransferase	2.4.1.46	UDP-alpha-D-galactose	1,2-Diacyl-3-beta-D-galactosyl-sn-glycerol	white
+1,2-diacylglycerol 3-beta-galactosyltransferase	2.4.1.46	UDP-alpha-D-galactose	UDP	white
+1,2-diacylglycerol 3-beta-glucosyltransferase	2.4.1.336	1,2-Diacyl-sn-glycerol	3-D-Glucosyl-1,2-diacylglycerol	white
+1,2-diacylglycerol 3-beta-glucosyltransferase	2.4.1.336	1,2-Diacyl-sn-glycerol	UDP	white
+1,2-diacylglycerol 3-beta-glucosyltransferase	2.4.1.336	3-D-Glucosyl-1,2-diacylglycerol	1,2-Diacyl-sn-glycerol	white
+1,2-diacylglycerol 3-beta-glucosyltransferase	2.4.1.336	3-D-Glucosyl-1,2-diacylglycerol	UDP-glucose	white
+1,2-diacylglycerol 3-beta-glucosyltransferase	2.4.1.336	UDP	1,2-Diacyl-sn-glycerol	white
+1,2-diacylglycerol 3-beta-glucosyltransferase	2.4.1.336	UDP	UDP-glucose	white
+1,2-diacylglycerol 3-beta-glucosyltransferase	2.4.1.336	UDP-glucose	3-D-Glucosyl-1,2-diacylglycerol	white
+1,2-diacylglycerol 3-beta-glucosyltransferase	2.4.1.336	UDP-glucose	UDP	white
+1,2-diacylglycerol-3-alpha-glucose alpha-1,2-glucosyltransferase	2.4.1.208	1,2-Diacyl-3-alpha-D-glucosyl-sn-glycerol	UDP	white
+1,2-diacylglycerol-3-alpha-glucose alpha-1,2-glucosyltransferase	2.4.1.208	1,2-Diacyl-3-alpha-D-glucosyl-sn-glycerol	alpha-Kojibiosyldiacylglycerol	white
+1,2-diacylglycerol-3-alpha-glucose alpha-1,2-glucosyltransferase	2.4.1.208	UDP	1,2-Diacyl-3-alpha-D-glucosyl-sn-glycerol	white
+1,2-diacylglycerol-3-alpha-glucose alpha-1,2-glucosyltransferase	2.4.1.208	UDP	UDP-glucose	white
+1,2-diacylglycerol-3-alpha-glucose alpha-1,2-glucosyltransferase	2.4.1.208	UDP-glucose	UDP	white
+1,2-diacylglycerol-3-alpha-glucose alpha-1,2-glucosyltransferase	2.4.1.208	UDP-glucose	alpha-Kojibiosyldiacylglycerol	white
+1,2-diacylglycerol-3-alpha-glucose alpha-1,2-glucosyltransferase	2.4.1.208	alpha-Kojibiosyldiacylglycerol	1,2-Diacyl-3-alpha-D-glucosyl-sn-glycerol	white
+1,2-diacylglycerol-3-alpha-glucose alpha-1,2-glucosyltransferase	2.4.1.208	alpha-Kojibiosyldiacylglycerol	UDP-glucose	white
+1,3-propanediol dehydrogenase	1.1.1.202	H+	NAD+	white
+1,3-propanediol dehydrogenase	1.1.1.202	H+	Propane-1-ol	white
+1,3-propanediol dehydrogenase	1.1.1.202	NAD+	H+	white
+1,3-propanediol dehydrogenase	1.1.1.202	NAD+	NADH	white
+1,3-propanediol dehydrogenase	1.1.1.202	NAD+	Propanal	white
+1,3-propanediol dehydrogenase	1.1.1.202	NADH	NAD+	white
+1,3-propanediol dehydrogenase	1.1.1.202	NADH	Propane-1-ol	white
+1,3-propanediol dehydrogenase	1.1.1.202	Propanal	NAD+	white
+1,3-propanediol dehydrogenase	1.1.1.202	Propanal	Propane-1-ol	white
+1,3-propanediol dehydrogenase	1.1.1.202	Propane-1-ol	H+	white
+1,3-propanediol dehydrogenase	1.1.1.202	Propane-1-ol	NADH	white
+1,3-propanediol dehydrogenase	1.1.1.202	Propane-1-ol	Propanal	white
+1-acyl-sn-glycerol-3-phosphate acyltransferase	2.3.1.51	CoA	1-Acyl-sn-glycerol 3-phosphate	green
+1-acyl-sn-glycerol-3-phosphate acyltransferase	2.3.1.51	CoA	Acyl-CoA	green
+1-acyl-sn-glycerol-3-phosphate acyltransferase	2.3.1.51	Phosphatidate	1-Acyl-sn-glycerol 3-phosphate	green
+1-acyl-sn-glycerol-3-phosphate acyltransferase	2.3.1.51	Phosphatidate	Acyl-CoA	green
+2-acylglycerol O-acyltransferase 1	2.3.1.22	1,2-Diacyl-sn-glycerol	1-Acylglycerol	white
+2-acylglycerol O-acyltransferase 1	2.3.1.22	1,2-Diacyl-sn-glycerol	Acyl-CoA	white
+2-acylglycerol O-acyltransferase 1	2.3.1.22	1-Acylglycerol	1,2-Diacyl-sn-glycerol	white
+2-acylglycerol O-acyltransferase 1	2.3.1.22	1-Acylglycerol	CoA	white
+2-acylglycerol O-acyltransferase 1	2.3.1.22	Acyl-CoA	1,2-Diacyl-sn-glycerol	white
+2-acylglycerol O-acyltransferase 1	2.3.1.22	Acyl-CoA	CoA	white
+2-acylglycerol O-acyltransferase 1	2.3.1.22	CoA	1-Acylglycerol	white
+2-acylglycerol O-acyltransferase 1	2.3.1.22	CoA	Acyl-CoA	white
+2-acylglycerol O-acyltransferase 2	2.3.1.22	1,2-Diacyl-sn-glycerol	1-Acylglycerol	white
+2-acylglycerol O-acyltransferase 2	2.3.1.22	1,2-Diacyl-sn-glycerol	Acyl-CoA	white
+2-acylglycerol O-acyltransferase 2	2.3.1.22	1-Acylglycerol	1,2-Diacyl-sn-glycerol	white
+2-acylglycerol O-acyltransferase 2	2.3.1.22	1-Acylglycerol	CoA	white
+2-acylglycerol O-acyltransferase 2	2.3.1.22	Acyl-CoA	1,2-Diacyl-sn-glycerol	white
+2-acylglycerol O-acyltransferase 2	2.3.1.22	Acyl-CoA	CoA	white
+2-acylglycerol O-acyltransferase 2	2.3.1.22	CoA	1-Acylglycerol	white
+2-acylglycerol O-acyltransferase 2	2.3.1.22	CoA	Acyl-CoA	white
+2-acylglycerol O-acyltransferase 3	2.3.1.20	1,2-Diacyl-sn-glycerol	CoA	white
+2-acylglycerol O-acyltransferase 3	2.3.1.20	1,2-Diacyl-sn-glycerol	Triacylglycerol	white
+2-acylglycerol O-acyltransferase 3	2.3.1.20	Acyl-CoA	CoA	white
+2-acylglycerol O-acyltransferase 3	2.3.1.20	Acyl-CoA	Triacylglycerol	white
+2-acylglycerol O-acyltransferase 3	2.3.1.20	CoA	1,2-Diacyl-sn-glycerol	white
+2-acylglycerol O-acyltransferase 3	2.3.1.20	CoA	Acyl-CoA	white
+2-acylglycerol O-acyltransferase 3	2.3.1.20	Triacylglycerol	1,2-Diacyl-sn-glycerol	white
+2-acylglycerol O-acyltransferase 3	2.3.1.20	Triacylglycerol	Acyl-CoA	white
+2-lysophosphatidate phosphatase	3.1.3.106	1-Acyl-sn-glycerol 3-phosphate	1-Acylglycerol	white
+2-lysophosphatidate phosphatase	3.1.3.106	1-Acyl-sn-glycerol 3-phosphate	Orthophosphate	white
+2-lysophosphatidate phosphatase	3.1.3.106	1-Acylglycerol	1-Acyl-sn-glycerol 3-phosphate	white
+2-lysophosphatidate phosphatase	3.1.3.106	1-Acylglycerol	H2O	white
+2-lysophosphatidate phosphatase	3.1.3.106	H2O	1-Acylglycerol	white
+2-lysophosphatidate phosphatase	3.1.3.106	H2O	Orthophosphate	white
+2-lysophosphatidate phosphatase	3.1.3.106	Orthophosphate	1-Acyl-sn-glycerol 3-phosphate	white
+2-lysophosphatidate phosphatase	3.1.3.106	Orthophosphate	H2O	white
+D-glycerate 3-kinase	2.7.1.31	3-Phospho-D-glycerate	ATP	white
+D-glycerate 3-kinase	2.7.1.31	3-Phospho-D-glycerate	D-Glycerate	white
+D-glycerate 3-kinase	2.7.1.31	ADP	ATP	white
+D-glycerate 3-kinase	2.7.1.31	ADP	D-Glycerate	white
+D-glycerate 3-kinase	2.7.1.31	ATP	3-Phospho-D-glycerate	white
+D-glycerate 3-kinase	2.7.1.31	ATP	ADP	white
+D-glycerate 3-kinase	2.7.1.31	D-Glycerate	3-Phospho-D-glycerate	white
+D-glycerate 3-kinase	2.7.1.31	D-Glycerate	ADP	white
+UDP-sulfoquinovose synthase	3.13.1.1	Sulfite	H2O	green
+UDP-sulfoquinovose synthase	3.13.1.1	Sulfite	UDP-6-sulfoquinovose	green
+UDP-sulfoquinovose synthase	3.13.1.1	UDP-glucose	H2O	green
+UDP-sulfoquinovose synthase	3.13.1.1	UDP-glucose	UDP-6-sulfoquinovose	green
+UTP---glucose-1-phosphate uridylyltransferase	2.7.7.9	D-Glucose 1-phosphate	Diphosphate	white
+UTP---glucose-1-phosphate uridylyltransferase	2.7.7.9	D-Glucose 1-phosphate	UDP-glucose	white
+UTP---glucose-1-phosphate uridylyltransferase	2.7.7.9	Diphosphate	D-Glucose 1-phosphate	white
+UTP---glucose-1-phosphate uridylyltransferase	2.7.7.9	Diphosphate	UTP	white
+UTP---glucose-1-phosphate uridylyltransferase	2.7.7.9	UDP-glucose	D-Glucose 1-phosphate	white
+UTP---glucose-1-phosphate uridylyltransferase	2.7.7.9	UDP-glucose	UTP	white
+UTP---glucose-1-phosphate uridylyltransferase	2.7.7.9	UTP	Diphosphate	white
+UTP---glucose-1-phosphate uridylyltransferase	2.7.7.9	UTP	UDP-glucose	white
+acyl phosphate:glycerol-3-phosphate acyltransferase	2.3.1.275	1-Acyl-sn-glycerol 3-phosphate	Acyl phosphate	white
+acyl phosphate:glycerol-3-phosphate acyltransferase	2.3.1.275	1-Acyl-sn-glycerol 3-phosphate	sn-Glycerol 3-phosphate	white
+acyl phosphate:glycerol-3-phosphate acyltransferase	2.3.1.275	Acyl phosphate	1-Acyl-sn-glycerol 3-phosphate	white
+acyl phosphate:glycerol-3-phosphate acyltransferase	2.3.1.275	Acyl phosphate	Orthophosphate	white
+acyl phosphate:glycerol-3-phosphate acyltransferase	2.3.1.275	Orthophosphate	Acyl phosphate	white
+acyl phosphate:glycerol-3-phosphate acyltransferase	2.3.1.275	Orthophosphate	sn-Glycerol 3-phosphate	white
+acyl phosphate:glycerol-3-phosphate acyltransferase	2.3.1.275	sn-Glycerol 3-phosphate	1-Acyl-sn-glycerol 3-phosphate	white
+acyl phosphate:glycerol-3-phosphate acyltransferase	2.3.1.275	sn-Glycerol 3-phosphate	Orthophosphate	white
+acylglycerol kinase	2.7.1.94	1-Acyl-sn-glycerol 3-phosphate	1-Acylglycerol	white
+acylglycerol kinase	2.7.1.94	1-Acyl-sn-glycerol 3-phosphate	ATP	white
+acylglycerol kinase	2.7.1.94	1-Acylglycerol	1-Acyl-sn-glycerol 3-phosphate	white
+acylglycerol kinase	2.7.1.94	1-Acylglycerol	ADP	white
+acylglycerol kinase	2.7.1.94	ADP	1-Acylglycerol	white
+acylglycerol kinase	2.7.1.94	ADP	ATP	white
+acylglycerol kinase	2.7.1.94	ATP	1-Acyl-sn-glycerol 3-phosphate	white
+acylglycerol kinase	2.7.1.94	ATP	ADP	white
+acylglycerol lipase	3.1.1.23	1-Acylglycerol	Fatty acid	green
+acylglycerol lipase	3.1.1.23	1-Acylglycerol	Glycerol	green
+acylglycerol lipase	3.1.1.23	H2O	Fatty acid	green
+acylglycerol lipase	3.1.1.23	H2O	Glycerol	green
+alcohol dehydrogenase (NADP+)	1.1.1.2	D-Glyceraldehyde	Glycerol	green
+alcohol dehydrogenase (NADP+)	1.1.1.2	D-Glyceraldehyde	NADP+	green
+alcohol dehydrogenase (NADP+)	1.1.1.2	Glycerol	D-Glyceraldehyde	green
+alcohol dehydrogenase (NADP+)	1.1.1.2	Glycerol	H+	green
+alcohol dehydrogenase (NADP+)	1.1.1.2	Glycerol	NADPH	green
+alcohol dehydrogenase (NADP+)	1.1.1.2	H+	Glycerol	green
+alcohol dehydrogenase (NADP+)	1.1.1.2	H+	NADP+	green
+alcohol dehydrogenase (NADP+)	1.1.1.2	NADP+	D-Glyceraldehyde	green
+alcohol dehydrogenase (NADP+)	1.1.1.2	NADP+	H+	green
+alcohol dehydrogenase (NADP+)	1.1.1.2	NADP+	NADPH	green
+alcohol dehydrogenase (NADP+)	1.1.1.2	NADPH	Glycerol	green
+alcohol dehydrogenase (NADP+)	1.1.1.2	NADPH	NADP+	green
+aldehyde dehydrogenase (NAD+)	1.2.1.3	D-Glyceraldehyde	D-Glycerate	green
+aldehyde dehydrogenase (NAD+)	1.2.1.3	D-Glyceraldehyde	H+	green
+aldehyde dehydrogenase (NAD+)	1.2.1.3	D-Glyceraldehyde	NADH	green
+aldehyde dehydrogenase (NAD+)	1.2.1.3	D-Glycerate	D-Glyceraldehyde	green
+aldehyde dehydrogenase (NAD+)	1.2.1.3	D-Glycerate	H2O	green
+aldehyde dehydrogenase (NAD+)	1.2.1.3	D-Glycerate	NAD+	green
+aldehyde dehydrogenase (NAD+)	1.2.1.3	H+	D-Glyceraldehyde	green
+aldehyde dehydrogenase (NAD+)	1.2.1.3	H+	H2O	green
+aldehyde dehydrogenase (NAD+)	1.2.1.3	H+	NAD+	green
+aldehyde dehydrogenase (NAD+)	1.2.1.3	H2O	D-Glycerate	green
+aldehyde dehydrogenase (NAD+)	1.2.1.3	H2O	H+	green
+aldehyde dehydrogenase (NAD+)	1.2.1.3	H2O	NADH	green
+aldehyde dehydrogenase (NAD+)	1.2.1.3	NAD+	D-Glycerate	green
+aldehyde dehydrogenase (NAD+)	1.2.1.3	NAD+	H+	green
+aldehyde dehydrogenase (NAD+)	1.2.1.3	NAD+	NADH	green
+aldehyde dehydrogenase (NAD+)	1.2.1.3	NADH	D-Glyceraldehyde	green
+aldehyde dehydrogenase (NAD+)	1.2.1.3	NADH	H2O	green
+aldehyde dehydrogenase (NAD+)	1.2.1.3	NADH	NAD+	green
+aldehyde reductase	1.1.1.21	D-Glyceraldehyde	Glycerol	white
+aldehyde reductase	1.1.1.21	D-Glyceraldehyde	NAD+	white
+aldehyde reductase	1.1.1.21	Glycerol	D-Glyceraldehyde	white
+aldehyde reductase	1.1.1.21	Glycerol	H+	white
+aldehyde reductase	1.1.1.21	Glycerol	NADH	white
+aldehyde reductase	1.1.1.21	H+	Glycerol	white
+aldehyde reductase	1.1.1.21	H+	NAD+	white
+aldehyde reductase	1.1.1.21	NAD+	D-Glyceraldehyde	white
+aldehyde reductase	1.1.1.21	NAD+	H+	white
+aldehyde reductase	1.1.1.21	NAD+	NADH	white
+aldehyde reductase	1.1.1.21	NADH	Glycerol	white
+aldehyde reductase	1.1.1.21	NADH	NAD+	white
+alpha-galactosidase	3.2.1.22	Digalactosyl-diacylglycerol	1,2-Diacyl-3-beta-D-galactosyl-sn-glycerol	green
+alpha-galactosidase	3.2.1.22	Digalactosyl-diacylglycerol	D-Galactose	green
+alpha-galactosidase	3.2.1.22	H2O	1,2-Diacyl-3-beta-D-galactosyl-sn-glycerol	green
+alpha-galactosidase	3.2.1.22	H2O	D-Galactose	green
+diacylglycerol O-acyltransferase / trehalose O-mycolyltransferase / mycolyltransferase Ag85	2.3.1.20	CoA	1,2-Diacyl-sn-glycerol	green
+diacylglycerol O-acyltransferase / trehalose O-mycolyltransferase / mycolyltransferase Ag85	2.3.1.20	CoA	Acyl-CoA	green
+diacylglycerol O-acyltransferase / trehalose O-mycolyltransferase / mycolyltransferase Ag85	2.3.1.20	Triacylglycerol	1,2-Diacyl-sn-glycerol	green
+diacylglycerol O-acyltransferase / trehalose O-mycolyltransferase / mycolyltransferase Ag85	2.3.1.20	Triacylglycerol	Acyl-CoA	green
+diacylglycerol O-acyltransferase / wax synthase	2.3.1.20	CoA	1,2-Diacyl-sn-glycerol	green
+diacylglycerol O-acyltransferase / wax synthase	2.3.1.20	CoA	Acyl-CoA	green
+diacylglycerol O-acyltransferase / wax synthase	2.3.1.20	Triacylglycerol	1,2-Diacyl-sn-glycerol	green
+diacylglycerol O-acyltransferase / wax synthase	2.3.1.20	Triacylglycerol	Acyl-CoA	green
+diacylglycerol diphosphate phosphatase / phosphatidate phosphatase	3.6.1.75	1,2-Diacyl-sn-glycerol	H2O	white
+diacylglycerol diphosphate phosphatase / phosphatidate phosphatase	3.6.1.75	1,2-Diacyl-sn-glycerol	Phosphatidate	white
+diacylglycerol diphosphate phosphatase / phosphatidate phosphatase	3.6.1.75	H2O	1,2-Diacyl-sn-glycerol	white
+diacylglycerol diphosphate phosphatase / phosphatidate phosphatase	3.6.1.75	H2O	Orthophosphate	white
+diacylglycerol diphosphate phosphatase / phosphatidate phosphatase	3.6.1.75	Orthophosphate	H2O	white
+diacylglycerol diphosphate phosphatase / phosphatidate phosphatase	3.6.1.75	Orthophosphate	Phosphatidate	white
+diacylglycerol diphosphate phosphatase / phosphatidate phosphatase	3.6.1.75	Phosphatidate	1,2-Diacyl-sn-glycerol	white
+diacylglycerol diphosphate phosphatase / phosphatidate phosphatase	3.6.1.75	Phosphatidate	Orthophosphate	white
+diacylglycerol kinase (ATP)	2.7.1.107	1,2-Diacyl-sn-glycerol	ADP	green
+diacylglycerol kinase (ATP)	2.7.1.107	1,2-Diacyl-sn-glycerol	Phosphatidate	green
+diacylglycerol kinase (ATP)	2.7.1.107	ATP	ADP	green
+diacylglycerol kinase (ATP)	2.7.1.107	ATP	Phosphatidate	green
+digalactosyldiacylglycerol synthase	2.4.1.241	1,2-Diacyl-3-beta-D-galactosyl-sn-glycerol	Digalactosyl-diacylglycerol	white
+digalactosyldiacylglycerol synthase	2.4.1.241	1,2-Diacyl-3-beta-D-galactosyl-sn-glycerol	UDP	white
+digalactosyldiacylglycerol synthase	2.4.1.241	Digalactosyl-diacylglycerol	1,2-Diacyl-3-beta-D-galactosyl-sn-glycerol	white
+digalactosyldiacylglycerol synthase	2.4.1.241	Digalactosyl-diacylglycerol	UDP-alpha-D-galactose	white
+digalactosyldiacylglycerol synthase	2.4.1.241	UDP	1,2-Diacyl-3-beta-D-galactosyl-sn-glycerol	white
+digalactosyldiacylglycerol synthase	2.4.1.241	UDP	UDP-alpha-D-galactose	white
+digalactosyldiacylglycerol synthase	2.4.1.241	UDP-alpha-D-galactose	Digalactosyl-diacylglycerol	white
+digalactosyldiacylglycerol synthase	2.4.1.241	UDP-alpha-D-galactose	UDP	white
+galactolipid galactosyltransferase	2.4.1.184	1,2-Diacyl-3-O-[beta-D-galactosyl-(1->6)-beta-D-galactosyl]-sn-glycerol	1,2-Diacyl-3-beta-D-galactosyl-sn-glycerol	white
+galactolipid galactosyltransferase	2.4.1.184	1,2-Diacyl-3-beta-D-galactosyl-sn-glycerol	1,2-Diacyl-3-O-[beta-D-galactosyl-(1->6)-beta-D-galactosyl]-sn-glycerol	white
+galactolipid galactosyltransferase	2.4.1.184	1,2-Diacyl-3-beta-D-galactosyl-sn-glycerol	1,2-Diacyl-sn-glycerol	white
+galactolipid galactosyltransferase	2.4.1.184	1,2-Diacyl-sn-glycerol	1,2-Diacyl-3-beta-D-galactosyl-sn-glycerol	white
+glycerate 2-kinase	2.7.1.165	ATP	2-Phospho-D-glycerate	green
+glycerate 2-kinase	2.7.1.165	ATP	ADP	green
+glycerate 2-kinase	2.7.1.165	D-Glycerate	2-Phospho-D-glycerate	green
+glycerate 2-kinase	2.7.1.165	D-Glycerate	ADP	green
+glycerol 2-dehydrogenase (NADP+)	1.1.1.156	Glycerol	Glycerone	white
+glycerol 2-dehydrogenase (NADP+)	1.1.1.156	Glycerol	H+	white
+glycerol 2-dehydrogenase (NADP+)	1.1.1.156	Glycerol	NADPH	white
+glycerol 2-dehydrogenase (NADP+)	1.1.1.156	Glycerone	Glycerol	white
+glycerol 2-dehydrogenase (NADP+)	1.1.1.156	Glycerone	NADP+	white
+glycerol 2-dehydrogenase (NADP+)	1.1.1.156	H+	Glycerol	white
+glycerol 2-dehydrogenase (NADP+)	1.1.1.156	H+	NADP+	white
+glycerol 2-dehydrogenase (NADP+)	1.1.1.156	NADP+	Glycerone	white
+glycerol 2-dehydrogenase (NADP+)	1.1.1.156	NADP+	H+	white
+glycerol 2-dehydrogenase (NADP+)	1.1.1.156	NADP+	NADPH	white
+glycerol 2-dehydrogenase (NADP+)	1.1.1.156	NADPH	Glycerol	white
+glycerol 2-dehydrogenase (NADP+)	1.1.1.156	NADPH	NADP+	white
+glycerol dehydratase large subunit	4.2.1.30	3-Hydroxypropanal	Glycerol	white
+glycerol dehydratase large subunit	4.2.1.30	Glycerol	3-Hydroxypropanal	white
+glycerol dehydratase large subunit	4.2.1.30	Glycerol	H2O	white
+glycerol dehydratase large subunit	4.2.1.30	H2O	Glycerol	white
+glycerol dehydratase medium subunit	4.2.1.30	3-Hydroxypropanal	Glycerol	white
+glycerol dehydratase medium subunit	4.2.1.30	Glycerol	3-Hydroxypropanal	white
+glycerol dehydratase medium subunit	4.2.1.30	Glycerol	H2O	white
+glycerol dehydratase medium subunit	4.2.1.30	H2O	Glycerol	white
+glycerol dehydratase small subunit	4.2.1.30	3-Hydroxypropanal	Glycerol	white
+glycerol dehydratase small subunit	4.2.1.30	Glycerol	3-Hydroxypropanal	white
+glycerol dehydratase small subunit	4.2.1.30	Glycerol	H2O	white
+glycerol dehydratase small subunit	4.2.1.30	H2O	Glycerol	white
+glycerol dehydrogenase	1.1.1.6	Glycerol	Glycerone	white
+glycerol dehydrogenase	1.1.1.6	Glycerol	H+	white
+glycerol dehydrogenase	1.1.1.6	Glycerol	NADH	white
+glycerol dehydrogenase	1.1.1.6	Glycerone	Glycerol	white
+glycerol dehydrogenase	1.1.1.6	Glycerone	NAD+	white
+glycerol dehydrogenase	1.1.1.6	H+	Glycerol	white
+glycerol dehydrogenase	1.1.1.6	H+	NAD+	white
+glycerol dehydrogenase	1.1.1.6	NAD+	Glycerone	white
+glycerol dehydrogenase	1.1.1.6	NAD+	H+	white
+glycerol dehydrogenase	1.1.1.6	NAD+	NADH	white
+glycerol dehydrogenase	1.1.1.6	NADH	Glycerol	white
+glycerol dehydrogenase	1.1.1.6	NADH	NAD+	white
+glycerol kinase	2.7.1.30	ATP	ADP	green
+glycerol kinase	2.7.1.30	ATP	sn-Glycerol 3-phosphate	green
+glycerol kinase	2.7.1.30	Glycerol	ADP	green
+glycerol kinase	2.7.1.30	Glycerol	sn-Glycerol 3-phosphate	green
+glycerol-1-phosphatase	3.1.3.21	H2O	Glycerol	green
+glycerol-1-phosphatase	3.1.3.21	H2O	Orthophosphate	green
+glycerol-1-phosphatase	3.1.3.21	sn-Glycerol 3-phosphate	Glycerol	green
+glycerol-1-phosphatase	3.1.3.21	sn-Glycerol 3-phosphate	Orthophosphate	green
+glycerol-3-phosphate O-acyltransferase	2.3.1.15	Acyl-CoA	1-Acyl-sn-glycerol 3-phosphate	green
+glycerol-3-phosphate O-acyltransferase	2.3.1.15	Acyl-CoA	CoA	green
+glycerol-3-phosphate O-acyltransferase	2.3.1.15	sn-Glycerol 3-phosphate	1-Acyl-sn-glycerol 3-phosphate	green
+glycerol-3-phosphate O-acyltransferase	2.3.1.15	sn-Glycerol 3-phosphate	CoA	green
+lipoprotein lipase	3.1.1.34	Fatty acid	Triacylglycerol	white
+lipoprotein lipase	3.1.1.34	Glycerol	Triacylglycerol	white
+lipoprotein lipase	3.1.1.34	Triacylglycerol	Fatty acid	white
+lipoprotein lipase	3.1.1.34	Triacylglycerol	Glycerol	white
+lipoteichoic acid synthase	2.7.8.20	1,2-Diacyl-sn-glycerol	Diglucosyldiacylglycerol	white
+lipoteichoic acid synthase	2.7.8.20	1,2-Diacyl-sn-glycerol	Phosphatidylglycerol	white
+lipoteichoic acid synthase	2.7.8.20	Diglucosyldiacylglycerol	1,2-Diacyl-sn-glycerol	white
+lipoteichoic acid synthase	2.7.8.20	Diglucosyldiacylglycerol	Glycerophosphoglycoglycerolipid	white
+lipoteichoic acid synthase	2.7.8.20	Glycerophosphoglycoglycerolipid	Diglucosyldiacylglycerol	white
+lipoteichoic acid synthase	2.7.8.20	Glycerophosphoglycoglycerolipid	Phosphatidylglycerol	white
+lipoteichoic acid synthase	2.7.8.20	Phosphatidylglycerol	1,2-Diacyl-sn-glycerol	white
+lipoteichoic acid synthase	2.7.8.20	Phosphatidylglycerol	Glycerophosphoglycoglycerolipid	white
+monoglucosyldiacylglycerol epimerase	5.1.3.34	1,2-Diacyl-3-beta-D-galactosyl-sn-glycerol	3-D-Glucosyl-1,2-diacylglycerol	white
+monoglucosyldiacylglycerol epimerase	5.1.3.34	3-D-Glucosyl-1,2-diacylglycerol	1,2-Diacyl-3-beta-D-galactosyl-sn-glycerol	white
+phosphate acyltransferase	2.3.1.274	Acyl phosphate	Acyl-[acyl-carrier protein]	white
+phosphate acyltransferase	2.3.1.274	Acyl phosphate	Orthophosphate	white
+phosphate acyltransferase	2.3.1.274	Acyl-[acyl-carrier protein]	Acyl phosphate	white
+phosphate acyltransferase	2.3.1.274	Acyl-[acyl-carrier protein]	Acyl-carrier protein	white
+phosphate acyltransferase	2.3.1.274	Acyl-carrier protein	Acyl-[acyl-carrier protein]	white
+phosphate acyltransferase	2.3.1.274	Acyl-carrier protein	Orthophosphate	white
+phosphate acyltransferase	2.3.1.274	Orthophosphate	Acyl phosphate	white
+phosphate acyltransferase	2.3.1.274	Orthophosphate	Acyl-carrier protein	white
+phosphatidate phosphatase	3.1.3.4	1,2-Diacyl-sn-glycerol	H2O	white
+phosphatidate phosphatase	3.1.3.4	1,2-Diacyl-sn-glycerol	Phosphatidate	white
+phosphatidate phosphatase	3.1.3.4	H2O	1,2-Diacyl-sn-glycerol	white
+phosphatidate phosphatase	3.1.3.4	H2O	Orthophosphate	white
+phosphatidate phosphatase	3.1.3.4	Orthophosphate	H2O	white
+phosphatidate phosphatase	3.1.3.4	Orthophosphate	Phosphatidate	white
+phosphatidate phosphatase	3.1.3.4	Phosphatidate	1,2-Diacyl-sn-glycerol	white
+phosphatidate phosphatase	3.1.3.4	Phosphatidate	Orthophosphate	white
+phosphatidate phosphatase LPIN	3.1.3.4	1,2-Diacyl-sn-glycerol	H2O	white
+phosphatidate phosphatase LPIN	3.1.3.4	1,2-Diacyl-sn-glycerol	Phosphatidate	white
+phosphatidate phosphatase LPIN	3.1.3.4	H2O	1,2-Diacyl-sn-glycerol	white
+phosphatidate phosphatase LPIN	3.1.3.4	H2O	Orthophosphate	white
+phosphatidate phosphatase LPIN	3.1.3.4	Orthophosphate	H2O	white
+phosphatidate phosphatase LPIN	3.1.3.4	Orthophosphate	Phosphatidate	white
+phosphatidate phosphatase LPIN	3.1.3.4	Phosphatidate	1,2-Diacyl-sn-glycerol	white
+phosphatidate phosphatase LPIN	3.1.3.4	Phosphatidate	Orthophosphate	white
+phosphoenolpyruvate---glycerone phosphotransferase subunit DhaK	2.7.1.121	Glycerone	Glycerone phosphate	white
+phosphoenolpyruvate---glycerone phosphotransferase subunit DhaK	2.7.1.121	Glycerone	Pyruvate	white
+phosphoenolpyruvate---glycerone phosphotransferase subunit DhaK	2.7.1.121	Glycerone phosphate	Glycerone	white
+phosphoenolpyruvate---glycerone phosphotransferase subunit DhaK	2.7.1.121	Glycerone phosphate	Phosphoenolpyruvate	white
+phosphoenolpyruvate---glycerone phosphotransferase subunit DhaK	2.7.1.121	Phosphoenolpyruvate	Glycerone phosphate	white
+phosphoenolpyruvate---glycerone phosphotransferase subunit DhaK	2.7.1.121	Phosphoenolpyruvate	Pyruvate	white
+phosphoenolpyruvate---glycerone phosphotransferase subunit DhaK	2.7.1.121	Pyruvate	Glycerone	white
+phosphoenolpyruvate---glycerone phosphotransferase subunit DhaK	2.7.1.121	Pyruvate	Phosphoenolpyruvate	white
+phosphoenolpyruvate---glycerone phosphotransferase subunit DhaL	2.7.1.121	Glycerone	Glycerone phosphate	white
+phosphoenolpyruvate---glycerone phosphotransferase subunit DhaL	2.7.1.121	Glycerone	Pyruvate	white
+phosphoenolpyruvate---glycerone phosphotransferase subunit DhaL	2.7.1.121	Glycerone phosphate	Glycerone	white
+phosphoenolpyruvate---glycerone phosphotransferase subunit DhaL	2.7.1.121	Glycerone phosphate	Phosphoenolpyruvate	white
+phosphoenolpyruvate---glycerone phosphotransferase subunit DhaL	2.7.1.121	Phosphoenolpyruvate	Glycerone phosphate	white
+phosphoenolpyruvate---glycerone phosphotransferase subunit DhaL	2.7.1.121	Phosphoenolpyruvate	Pyruvate	white
+phosphoenolpyruvate---glycerone phosphotransferase subunit DhaL	2.7.1.121	Pyruvate	Glycerone	white
+phosphoenolpyruvate---glycerone phosphotransferase subunit DhaL	2.7.1.121	Pyruvate	Phosphoenolpyruvate	white
+phosphoenolpyruvate---glycerone phosphotransferase subunit DhaM	2.7.1.121	Glycerone	Glycerone phosphate	white
+phosphoenolpyruvate---glycerone phosphotransferase subunit DhaM	2.7.1.121	Glycerone	Pyruvate	white
+phosphoenolpyruvate---glycerone phosphotransferase subunit DhaM	2.7.1.121	Glycerone phosphate	Glycerone	white
+phosphoenolpyruvate---glycerone phosphotransferase subunit DhaM	2.7.1.121	Glycerone phosphate	Phosphoenolpyruvate	white
+phosphoenolpyruvate---glycerone phosphotransferase subunit DhaM	2.7.1.121	Phosphoenolpyruvate	Glycerone phosphate	white
+phosphoenolpyruvate---glycerone phosphotransferase subunit DhaM	2.7.1.121	Phosphoenolpyruvate	Pyruvate	white
+phosphoenolpyruvate---glycerone phosphotransferase subunit DhaM	2.7.1.121	Pyruvate	Glycerone	white
+phosphoenolpyruvate---glycerone phosphotransferase subunit DhaM	2.7.1.121	Pyruvate	Phosphoenolpyruvate	white
+phospholipid:diacylglycerol acyltransferase	2.3.1.158	1,2-Diacyl-sn-glycerol	Lysophospholipid	white
+phospholipid:diacylglycerol acyltransferase	2.3.1.158	1,2-Diacyl-sn-glycerol	Triacylglycerol	white
+phospholipid:diacylglycerol acyltransferase	2.3.1.158	Lysophospholipid	1,2-Diacyl-sn-glycerol	white
+phospholipid:diacylglycerol acyltransferase	2.3.1.158	Lysophospholipid	Phospholipid	white
+phospholipid:diacylglycerol acyltransferase	2.3.1.158	Phospholipid	Lysophospholipid	white
+phospholipid:diacylglycerol acyltransferase	2.3.1.158	Phospholipid	Triacylglycerol	white
+phospholipid:diacylglycerol acyltransferase	2.3.1.158	Triacylglycerol	1,2-Diacyl-sn-glycerol	white
+phospholipid:diacylglycerol acyltransferase	2.3.1.158	Triacylglycerol	Phospholipid	white
+processive 1,2-diacylglycerol beta-glucosyltransferase	2.4.1.315	1,2-Diacyl-sn-glycerol	3-D-Glucosyl-1,2-diacylglycerol	white
+processive 1,2-diacylglycerol beta-glucosyltransferase	2.4.1.315	1,2-Diacyl-sn-glycerol	UDP	white
+processive 1,2-diacylglycerol beta-glucosyltransferase	2.4.1.315	3-D-Glucosyl-1,2-diacylglycerol	1,2-Diacyl-sn-glycerol	white
+processive 1,2-diacylglycerol beta-glucosyltransferase	2.4.1.315	3-D-Glucosyl-1,2-diacylglycerol	UDP-glucose	white
+processive 1,2-diacylglycerol beta-glucosyltransferase	2.4.1.315	UDP	1,2-Diacyl-sn-glycerol	white
+processive 1,2-diacylglycerol beta-glucosyltransferase	2.4.1.315	UDP	UDP-glucose	white
+processive 1,2-diacylglycerol beta-glucosyltransferase	2.4.1.315	UDP-glucose	3-D-Glucosyl-1,2-diacylglycerol	white
+processive 1,2-diacylglycerol beta-glucosyltransferase	2.4.1.315	UDP-glucose	UDP	white
+processive 1,2-diacylglycerol beta-glycosyltransferase	2.4.1.315	1,2-Diacyl-sn-glycerol	3-D-Glucosyl-1,2-diacylglycerol	white
+processive 1,2-diacylglycerol beta-glycosyltransferase	2.4.1.315	1,2-Diacyl-sn-glycerol	UDP	white
+processive 1,2-diacylglycerol beta-glycosyltransferase	2.4.1.315	3-D-Glucosyl-1,2-diacylglycerol	1,2-Diacyl-sn-glycerol	white
+processive 1,2-diacylglycerol beta-glycosyltransferase	2.4.1.315	3-D-Glucosyl-1,2-diacylglycerol	UDP-glucose	white
+processive 1,2-diacylglycerol beta-glycosyltransferase	2.4.1.315	UDP	1,2-Diacyl-sn-glycerol	white
+processive 1,2-diacylglycerol beta-glycosyltransferase	2.4.1.315	UDP	UDP-glucose	white
+processive 1,2-diacylglycerol beta-glycosyltransferase	2.4.1.315	UDP-glucose	3-D-Glucosyl-1,2-diacylglycerol	white
+processive 1,2-diacylglycerol beta-glycosyltransferase	2.4.1.315	UDP-glucose	UDP	white
+roa:Pd630_LPD01024		ATP	ADP	green
+roa:Pd630_LPD01024		ATP	sn-Glycerol 3-phosphate	green
+roa:Pd630_LPD01024		Glycerol	ADP	green
+roa:Pd630_LPD01024		Glycerol	sn-Glycerol 3-phosphate	green
+sulfoquinovosyltransferase	2.4.1.-	1,2-Diacyl-sn-glycerol	Sulfoquinovosyldiacylglycerol	white
+sulfoquinovosyltransferase	2.4.1.-	1,2-Diacyl-sn-glycerol	UDP	white
+sulfoquinovosyltransferase	2.4.1.-	Sulfoquinovosyldiacylglycerol	1,2-Diacyl-sn-glycerol	white
+sulfoquinovosyltransferase	2.4.1.-	Sulfoquinovosyldiacylglycerol	UDP-6-sulfoquinovose	white
+sulfoquinovosyltransferase	2.4.1.-	UDP	1,2-Diacyl-sn-glycerol	white
+sulfoquinovosyltransferase	2.4.1.-	UDP	UDP-6-sulfoquinovose	white
+sulfoquinovosyltransferase	2.4.1.-	UDP-6-sulfoquinovose	Sulfoquinovosyldiacylglycerol	white
+sulfoquinovosyltransferase	2.4.1.-	UDP-6-sulfoquinovose	UDP	white
+triacylglycerol lipase	3.1.1.3	1,2-Diacyl-sn-glycerol	1-Acylglycerol	green
+triacylglycerol lipase	3.1.1.3	1,2-Diacyl-sn-glycerol	Fatty acid	green
+triacylglycerol lipase	3.1.1.3	H2O	1,2-Diacyl-sn-glycerol	green
+triacylglycerol lipase	3.1.1.3	H2O	1-Acylglycerol	green
+triacylglycerol lipase	3.1.1.3	H2O	Fatty acid	green
+triacylglycerol lipase	3.1.1.3	Triacylglycerol	1,2-Diacyl-sn-glycerol	green
+triacylglycerol lipase	3.1.1.3	Triacylglycerol	Fatty acid	green
+triose/dihydroxyacetone kinase / FAD-AMP lyase (cyclizing)	2.7.1.28	ADP	ATP	white
+triose/dihydroxyacetone kinase / FAD-AMP lyase (cyclizing)	2.7.1.28	ADP	Glycerone	white
+triose/dihydroxyacetone kinase / FAD-AMP lyase (cyclizing)	2.7.1.28	ATP	ADP	white
+triose/dihydroxyacetone kinase / FAD-AMP lyase (cyclizing)	2.7.1.28	ATP	Glycerone phosphate	white
+triose/dihydroxyacetone kinase / FAD-AMP lyase (cyclizing)	2.7.1.28	Glycerone	ADP	white
+triose/dihydroxyacetone kinase / FAD-AMP lyase (cyclizing)	2.7.1.28	Glycerone	Glycerone phosphate	white
+triose/dihydroxyacetone kinase / FAD-AMP lyase (cyclizing)	2.7.1.28	Glycerone phosphate	ATP	white
+triose/dihydroxyacetone kinase / FAD-AMP lyase (cyclizing)	2.7.1.28	Glycerone phosphate	Glycerone	white

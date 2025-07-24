@@ -1,0 +1,79 @@
+enzyme_name	EC	source	target	color
+ATP-binding cassette, subfamily B, bacterial HlyB/CyaB	7.6.2.11	beta-D-Ribofuranose	beta-D-Ribopyranose	white
+ATP-binding cassette, subfamily B, bacterial HlyB/CyaB	7.6.2.11	beta-D-Ribopyranose	beta-D-Ribofuranose	white
+outer membrane protein	3.4.16.4	H2O	Penicilloic acid	white
+outer membrane protein	3.4.16.4	Penicillin	Penicilloic acid	white
+outer membrane protein	3.4.16.4	Penicilloic acid	H2O	white
+outer membrane protein	3.4.16.4	Penicilloic acid	Penicillin	white
+preprotein translocase subunit SecB	7.3.2.7	AMP	ATP	white
+preprotein translocase subunit SecB	7.3.2.7	AMP	C00039(n)	white
+preprotein translocase subunit SecB	7.3.2.7	AMP	C02128(m)	white
+preprotein translocase subunit SecB	7.3.2.7	ATP	AMP	white
+preprotein translocase subunit SecB	7.3.2.7	ATP	C00039(n	white
+preprotein translocase subunit SecB	7.3.2.7	ATP	Diphosphate	white
+preprotein translocase subunit SecB	7.3.2.7	ATP	m)	white
+preprotein translocase subunit SecB	7.3.2.7	C00039(n	ATP	white
+preprotein translocase subunit SecB	7.3.2.7	C00039(n	C00039(n)	white
+preprotein translocase subunit SecB	7.3.2.7	C00039(n	C02128(m)	white
+preprotein translocase subunit SecB	7.3.2.7	C00039(n)	AMP	white
+preprotein translocase subunit SecB	7.3.2.7	C00039(n)	C00039(n	white
+preprotein translocase subunit SecB	7.3.2.7	C00039(n)	Diphosphate	white
+preprotein translocase subunit SecB	7.3.2.7	C00039(n)	m)	white
+preprotein translocase subunit SecB	7.3.2.7	C02128(m)	AMP	white
+preprotein translocase subunit SecB	7.3.2.7	C02128(m)	C00039(n	white
+preprotein translocase subunit SecB	7.3.2.7	C02128(m)	Diphosphate	white
+preprotein translocase subunit SecB	7.3.2.7	C02128(m)	m)	white
+preprotein translocase subunit SecB	7.3.2.7	Diphosphate	ATP	white
+preprotein translocase subunit SecB	7.3.2.7	Diphosphate	C00039(n)	white
+preprotein translocase subunit SecB	7.3.2.7	Diphosphate	C02128(m)	white
+preprotein translocase subunit SecB	7.3.2.7	m)	ATP	white
+preprotein translocase subunit SecB	7.3.2.7	m)	C00039(n)	white
+preprotein translocase subunit SecB	7.3.2.7	m)	C02128(m)	white
+sec-independent protein translocase protein TatE	7.3.2.7	AMP	ATP	white
+sec-independent protein translocase protein TatE	7.3.2.7	AMP	C00039(n)	white
+sec-independent protein translocase protein TatE	7.3.2.7	AMP	C02128(m)	white
+sec-independent protein translocase protein TatE	7.3.2.7	ATP	AMP	white
+sec-independent protein translocase protein TatE	7.3.2.7	ATP	C00039(n	white
+sec-independent protein translocase protein TatE	7.3.2.7	ATP	Diphosphate	white
+sec-independent protein translocase protein TatE	7.3.2.7	ATP	m)	white
+sec-independent protein translocase protein TatE	7.3.2.7	C00039(n	ATP	white
+sec-independent protein translocase protein TatE	7.3.2.7	C00039(n	C00039(n)	white
+sec-independent protein translocase protein TatE	7.3.2.7	C00039(n	C02128(m)	white
+sec-independent protein translocase protein TatE	7.3.2.7	C00039(n)	AMP	white
+sec-independent protein translocase protein TatE	7.3.2.7	C00039(n)	C00039(n	white
+sec-independent protein translocase protein TatE	7.3.2.7	C00039(n)	Diphosphate	white
+sec-independent protein translocase protein TatE	7.3.2.7	C00039(n)	m)	white
+sec-independent protein translocase protein TatE	7.3.2.7	C02128(m)	AMP	white
+sec-independent protein translocase protein TatE	7.3.2.7	C02128(m)	C00039(n	white
+sec-independent protein translocase protein TatE	7.3.2.7	C02128(m)	Diphosphate	white
+sec-independent protein translocase protein TatE	7.3.2.7	C02128(m)	m)	white
+sec-independent protein translocase protein TatE	7.3.2.7	Diphosphate	ATP	white
+sec-independent protein translocase protein TatE	7.3.2.7	Diphosphate	C00039(n)	white
+sec-independent protein translocase protein TatE	7.3.2.7	Diphosphate	C02128(m)	white
+sec-independent protein translocase protein TatE	7.3.2.7	m)	ATP	white
+sec-independent protein translocase protein TatE	7.3.2.7	m)	C00039(n)	white
+sec-independent protein translocase protein TatE	7.3.2.7	m)	C02128(m)	white
+secretion monitor	3.6.4.10	AMP	ATP	white
+secretion monitor	3.6.4.10	AMP	C00039(n)	white
+secretion monitor	3.6.4.10	AMP	C02128(m)	white
+secretion monitor	3.6.4.10	ATP	AMP	white
+secretion monitor	3.6.4.10	ATP	C00039(n	white
+secretion monitor	3.6.4.10	ATP	Diphosphate	white
+secretion monitor	3.6.4.10	ATP	m)	white
+secretion monitor	3.6.4.10	C00039(n	ATP	white
+secretion monitor	3.6.4.10	C00039(n	C00039(n)	white
+secretion monitor	3.6.4.10	C00039(n	C02128(m)	white
+secretion monitor	3.6.4.10	C00039(n)	AMP	white
+secretion monitor	3.6.4.10	C00039(n)	C00039(n	white
+secretion monitor	3.6.4.10	C00039(n)	Diphosphate	white
+secretion monitor	3.6.4.10	C00039(n)	m)	white
+secretion monitor	3.6.4.10	C02128(m)	AMP	white
+secretion monitor	3.6.4.10	C02128(m)	C00039(n	white
+secretion monitor	3.6.4.10	C02128(m)	Diphosphate	white
+secretion monitor	3.6.4.10	C02128(m)	m)	white
+secretion monitor	3.6.4.10	Diphosphate	ATP	white
+secretion monitor	3.6.4.10	Diphosphate	C00039(n)	white
+secretion monitor	3.6.4.10	Diphosphate	C02128(m)	white
+secretion monitor	3.6.4.10	m)	ATP	white
+secretion monitor	3.6.4.10	m)	C00039(n)	white
+secretion monitor	3.6.4.10	m)	C02128(m)	white

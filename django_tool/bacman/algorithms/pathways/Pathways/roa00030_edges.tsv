@@ -1,0 +1,499 @@
+enzyme_name	EC	source	target	color
+2-dehydro-3-deoxy-D-gluconate aldolase	4.1.2.51	2-Dehydro-3-deoxy-D-gluconate	D-Glyceraldehyde	white
+2-dehydro-3-deoxy-D-gluconate aldolase	4.1.2.51	2-Dehydro-3-deoxy-D-gluconate	Pyruvate	white
+2-dehydro-3-deoxy-D-gluconate aldolase	4.1.2.51	D-Glyceraldehyde	2-Dehydro-3-deoxy-D-gluconate	white
+2-dehydro-3-deoxy-D-gluconate aldolase	4.1.2.51	Pyruvate	2-Dehydro-3-deoxy-D-gluconate	white
+2-dehydro-3-deoxy-phosphogluconate/2-dehydro-3-deoxy-6-phosphogalactonate aldolase	4.1.2.55	2-Dehydro-3-deoxy-6-phospho-D-galactonate	D-Glyceraldehyde 3-phosphate	white
+2-dehydro-3-deoxy-phosphogluconate/2-dehydro-3-deoxy-6-phosphogalactonate aldolase	4.1.2.55	2-Dehydro-3-deoxy-6-phospho-D-galactonate	Pyruvate	white
+2-dehydro-3-deoxy-phosphogluconate/2-dehydro-3-deoxy-6-phosphogalactonate aldolase	4.1.2.55	D-Glyceraldehyde 3-phosphate	2-Dehydro-3-deoxy-6-phospho-D-galactonate	white
+2-dehydro-3-deoxy-phosphogluconate/2-dehydro-3-deoxy-6-phosphogalactonate aldolase	4.1.2.55	Pyruvate	2-Dehydro-3-deoxy-6-phospho-D-galactonate	white
+2-dehydro-3-deoxygluconokinase	2.7.1.45	2-Dehydro-3-deoxy-D-gluconate	2-Dehydro-3-deoxy-6-phospho-D-gluconate	green
+2-dehydro-3-deoxygluconokinase	2.7.1.45	2-Dehydro-3-deoxy-D-gluconate	ADP	green
+2-dehydro-3-deoxygluconokinase	2.7.1.45	ATP	2-Dehydro-3-deoxy-6-phospho-D-gluconate	green
+2-dehydro-3-deoxygluconokinase	2.7.1.45	ATP	ADP	green
+2-dehydro-3-deoxygluconokinase / 2-dehydro-3-deoxygalactonokinase	2.7.1.178	2-Dehydro-3-deoxy-6-phospho-D-gluconate	2-Dehydro-3-deoxy-D-gluconate	white
+2-dehydro-3-deoxygluconokinase / 2-dehydro-3-deoxygalactonokinase	2.7.1.178	2-Dehydro-3-deoxy-6-phospho-D-gluconate	ATP	white
+2-dehydro-3-deoxygluconokinase / 2-dehydro-3-deoxygalactonokinase	2.7.1.178	2-Dehydro-3-deoxy-D-gluconate	2-Dehydro-3-deoxy-6-phospho-D-gluconate	white
+2-dehydro-3-deoxygluconokinase / 2-dehydro-3-deoxygalactonokinase	2.7.1.178	2-Dehydro-3-deoxy-D-gluconate	ADP	white
+2-dehydro-3-deoxygluconokinase / 2-dehydro-3-deoxygalactonokinase	2.7.1.178	ADP	2-Dehydro-3-deoxy-D-gluconate	white
+2-dehydro-3-deoxygluconokinase / 2-dehydro-3-deoxygalactonokinase	2.7.1.178	ADP	ATP	white
+2-dehydro-3-deoxygluconokinase / 2-dehydro-3-deoxygalactonokinase	2.7.1.178	ATP	2-Dehydro-3-deoxy-6-phospho-D-gluconate	white
+2-dehydro-3-deoxygluconokinase / 2-dehydro-3-deoxygalactonokinase	2.7.1.178	ATP	ADP	white
+2-dehydro-3-deoxyphosphogluconate aldolase / (4S)-4-hydroxy-2-oxoglutarate aldolase	4.1.2.14	2-Dehydro-3-deoxy-6-phospho-D-gluconate	D-Glyceraldehyde 3-phosphate	green
+2-dehydro-3-deoxyphosphogluconate aldolase / (4S)-4-hydroxy-2-oxoglutarate aldolase	4.1.2.14	2-Dehydro-3-deoxy-6-phospho-D-gluconate	Pyruvate	green
+2-dehydro-3-deoxyphosphogluconate aldolase / (4S)-4-hydroxy-2-oxoglutarate aldolase	4.1.2.14	D-Glyceraldehyde 3-phosphate	2-Dehydro-3-deoxy-6-phospho-D-gluconate	green
+2-dehydro-3-deoxyphosphogluconate aldolase / (4S)-4-hydroxy-2-oxoglutarate aldolase	4.1.2.14	Pyruvate	2-Dehydro-3-deoxy-6-phospho-D-gluconate	green
+2-ketogluconate reductase	1.1.1.215	2-Keto-D-gluconic acid	D-Gluconic acid	white
+2-ketogluconate reductase	1.1.1.215	2-Keto-D-gluconic acid	NADP+	white
+2-ketogluconate reductase	1.1.1.215	D-Gluconic acid	2-Keto-D-gluconic acid	white
+2-ketogluconate reductase	1.1.1.215	D-Gluconic acid	H+	white
+2-ketogluconate reductase	1.1.1.215	D-Gluconic acid	NADPH	white
+2-ketogluconate reductase	1.1.1.215	H+	D-Gluconic acid	white
+2-ketogluconate reductase	1.1.1.215	H+	NADP+	white
+2-ketogluconate reductase	1.1.1.215	NADP+	2-Keto-D-gluconic acid	white
+2-ketogluconate reductase	1.1.1.215	NADP+	H+	white
+2-ketogluconate reductase	1.1.1.215	NADP+	NADPH	white
+2-ketogluconate reductase	1.1.1.215	NADPH	D-Gluconic acid	white
+2-ketogluconate reductase	1.1.1.215	NADPH	NADP+	white
+3-hexulose-6-phosphate synthase	4.1.2.43	D-Ribulose 5-phosphate	D-arabino-Hex-3-ulose 6-phosphate	green
+3-hexulose-6-phosphate synthase	4.1.2.43	D-arabino-Hex-3-ulose 6-phosphate	D-Ribulose 5-phosphate	green
+3-hexulose-6-phosphate synthase	4.1.2.43	D-arabino-Hex-3-ulose 6-phosphate	Formaldehyde	green
+3-hexulose-6-phosphate synthase	4.1.2.43	Formaldehyde	D-arabino-Hex-3-ulose 6-phosphate	green
+6-phospho-3-hexuloisomerase	5.3.1.27	D-Fructose 6-phosphate	D-arabino-Hex-3-ulose 6-phosphate	green
+6-phospho-3-hexuloisomerase	5.3.1.27	D-arabino-Hex-3-ulose 6-phosphate	D-Fructose 6-phosphate	green
+6-phosphogluconate dehydrogenase	1.1.1.44	6-Phospho-D-gluconate	CO2	green
+6-phosphogluconate dehydrogenase	1.1.1.44	6-Phospho-D-gluconate	D-Ribulose 5-phosphate	green
+6-phosphogluconate dehydrogenase	1.1.1.44	6-Phospho-D-gluconate	H+	green
+6-phosphogluconate dehydrogenase	1.1.1.44	6-Phospho-D-gluconate	NADH	green
+6-phosphogluconate dehydrogenase	1.1.1.44	6-Phospho-D-gluconate	NADPH	green
+6-phosphogluconate dehydrogenase	1.1.1.44	NAD+	CO2	green
+6-phosphogluconate dehydrogenase	1.1.1.44	NAD+	D-Ribulose 5-phosphate	green
+6-phosphogluconate dehydrogenase	1.1.1.44	NAD+	H+	green
+6-phosphogluconate dehydrogenase	1.1.1.44	NAD+	NADH	green
+6-phosphogluconate dehydrogenase	1.1.1.44	NADP+	CO2	green
+6-phosphogluconate dehydrogenase	1.1.1.44	NADP+	D-Ribulose 5-phosphate	green
+6-phosphogluconate dehydrogenase	1.1.1.44	NADP+	H+	green
+6-phosphogluconate dehydrogenase	1.1.1.44	NADP+	NADPH	green
+6-phosphogluconolactonase	3.1.1.31	D-Glucono-1,5-lactone 6-phosphate	6-Phospho-D-gluconate	green
+6-phosphogluconolactonase	3.1.1.31	H2O	6-Phospho-D-gluconate	green
+ADP-dependent phosphofructokinase/glucokinase	2.7.1.146	ADP	AMP	white
+ADP-dependent phosphofructokinase/glucokinase	2.7.1.146	ADP	D-Fructose 1,6-bisphosphate	white
+ADP-dependent phosphofructokinase/glucokinase	2.7.1.146	AMP	ADP	white
+ADP-dependent phosphofructokinase/glucokinase	2.7.1.146	AMP	D-Fructose 6-phosphate	white
+ADP-dependent phosphofructokinase/glucokinase	2.7.1.146	D-Fructose 1,6-bisphosphate	ADP	white
+ADP-dependent phosphofructokinase/glucokinase	2.7.1.146	D-Fructose 1,6-bisphosphate	D-Fructose 6-phosphate	white
+ADP-dependent phosphofructokinase/glucokinase	2.7.1.146	D-Fructose 6-phosphate	AMP	white
+ADP-dependent phosphofructokinase/glucokinase	2.7.1.146	D-Fructose 6-phosphate	D-Fructose 1,6-bisphosphate	white
+ATP-dependent phosphofructokinase / diphosphate-dependent phosphofructokinase	2.7.1.11	ATP	ADP	green
+ATP-dependent phosphofructokinase / diphosphate-dependent phosphofructokinase	2.7.1.11	ATP	D-Fructose 1,6-bisphosphate	green
+ATP-dependent phosphofructokinase / diphosphate-dependent phosphofructokinase	2.7.1.11	D-Fructose 1,6-bisphosphate	D-Fructose 6-phosphate	green
+ATP-dependent phosphofructokinase / diphosphate-dependent phosphofructokinase	2.7.1.11	D-Fructose 1,6-bisphosphate	Diphosphate	green
+ATP-dependent phosphofructokinase / diphosphate-dependent phosphofructokinase	2.7.1.11	D-Fructose 6-phosphate	ADP	green
+ATP-dependent phosphofructokinase / diphosphate-dependent phosphofructokinase	2.7.1.11	D-Fructose 6-phosphate	D-Fructose 1,6-bisphosphate	green
+ATP-dependent phosphofructokinase / diphosphate-dependent phosphofructokinase	2.7.1.11	D-Fructose 6-phosphate	Orthophosphate	green
+ATP-dependent phosphofructokinase / diphosphate-dependent phosphofructokinase	2.7.1.11	Diphosphate	D-Fructose 1,6-bisphosphate	green
+ATP-dependent phosphofructokinase / diphosphate-dependent phosphofructokinase	2.7.1.11	Diphosphate	Orthophosphate	green
+ATP-dependent phosphofructokinase / diphosphate-dependent phosphofructokinase	2.7.1.11	Orthophosphate	D-Fructose 6-phosphate	green
+ATP-dependent phosphofructokinase / diphosphate-dependent phosphofructokinase	2.7.1.11	Orthophosphate	Diphosphate	green
+D-glucosaminate PTS system EIIA component	2.7.1.203	2-Amino-2-deoxy-D-gluconate	D-Glucosaminate-6-phosphate	white
+D-glucosaminate PTS system EIIA component	2.7.1.203	2-Amino-2-deoxy-D-gluconate	Protein histidine	white
+D-glucosaminate PTS system EIIA component	2.7.1.203	D-Glucosaminate-6-phosphate	2-Amino-2-deoxy-D-gluconate	white
+D-glucosaminate PTS system EIIA component	2.7.1.203	D-Glucosaminate-6-phosphate	Protein N(pi)-phospho-L-histidine	white
+D-glucosaminate PTS system EIIA component	2.7.1.203	Protein N(pi)-phospho-L-histidine	D-Glucosaminate-6-phosphate	white
+D-glucosaminate PTS system EIIA component	2.7.1.203	Protein N(pi)-phospho-L-histidine	Protein histidine	white
+D-glucosaminate PTS system EIIA component	2.7.1.203	Protein histidine	2-Amino-2-deoxy-D-gluconate	white
+D-glucosaminate PTS system EIIA component	2.7.1.203	Protein histidine	Protein N(pi)-phospho-L-histidine	white
+D-glucosaminate PTS system EIIB component	2.7.1.203	2-Amino-2-deoxy-D-gluconate	D-Glucosaminate-6-phosphate	white
+D-glucosaminate PTS system EIIB component	2.7.1.203	2-Amino-2-deoxy-D-gluconate	Protein histidine	white
+D-glucosaminate PTS system EIIB component	2.7.1.203	D-Glucosaminate-6-phosphate	2-Amino-2-deoxy-D-gluconate	white
+D-glucosaminate PTS system EIIB component	2.7.1.203	D-Glucosaminate-6-phosphate	Protein N(pi)-phospho-L-histidine	white
+D-glucosaminate PTS system EIIB component	2.7.1.203	Protein N(pi)-phospho-L-histidine	D-Glucosaminate-6-phosphate	white
+D-glucosaminate PTS system EIIB component	2.7.1.203	Protein N(pi)-phospho-L-histidine	Protein histidine	white
+D-glucosaminate PTS system EIIB component	2.7.1.203	Protein histidine	2-Amino-2-deoxy-D-gluconate	white
+D-glucosaminate PTS system EIIB component	2.7.1.203	Protein histidine	Protein N(pi)-phospho-L-histidine	white
+D-glucosaminate PTS system EIIC component	2.7.1.203	2-Amino-2-deoxy-D-gluconate	D-Glucosaminate-6-phosphate	white
+D-glucosaminate PTS system EIIC component	2.7.1.203	2-Amino-2-deoxy-D-gluconate	Protein histidine	white
+D-glucosaminate PTS system EIIC component	2.7.1.203	D-Glucosaminate-6-phosphate	2-Amino-2-deoxy-D-gluconate	white
+D-glucosaminate PTS system EIIC component	2.7.1.203	D-Glucosaminate-6-phosphate	Protein N(pi)-phospho-L-histidine	white
+D-glucosaminate PTS system EIIC component	2.7.1.203	Protein N(pi)-phospho-L-histidine	D-Glucosaminate-6-phosphate	white
+D-glucosaminate PTS system EIIC component	2.7.1.203	Protein N(pi)-phospho-L-histidine	Protein histidine	white
+D-glucosaminate PTS system EIIC component	2.7.1.203	Protein histidine	2-Amino-2-deoxy-D-gluconate	white
+D-glucosaminate PTS system EIIC component	2.7.1.203	Protein histidine	Protein N(pi)-phospho-L-histidine	white
+D-glucosaminate PTS system EIID component	2.7.1.203	2-Amino-2-deoxy-D-gluconate	D-Glucosaminate-6-phosphate	white
+D-glucosaminate PTS system EIID component	2.7.1.203	2-Amino-2-deoxy-D-gluconate	Protein histidine	white
+D-glucosaminate PTS system EIID component	2.7.1.203	D-Glucosaminate-6-phosphate	2-Amino-2-deoxy-D-gluconate	white
+D-glucosaminate PTS system EIID component	2.7.1.203	D-Glucosaminate-6-phosphate	Protein N(pi)-phospho-L-histidine	white
+D-glucosaminate PTS system EIID component	2.7.1.203	Protein N(pi)-phospho-L-histidine	D-Glucosaminate-6-phosphate	white
+D-glucosaminate PTS system EIID component	2.7.1.203	Protein N(pi)-phospho-L-histidine	Protein histidine	white
+D-glucosaminate PTS system EIID component	2.7.1.203	Protein histidine	2-Amino-2-deoxy-D-gluconate	white
+D-glucosaminate PTS system EIID component	2.7.1.203	Protein histidine	Protein N(pi)-phospho-L-histidine	white
+D-glucosaminate-6-phosphate ammonia-lyase	4.3.1.29	2-Dehydro-3-deoxy-6-phospho-D-gluconate	D-Glucosaminate-6-phosphate	white
+D-glucosaminate-6-phosphate ammonia-lyase	4.3.1.29	Ammonia	D-Glucosaminate-6-phosphate	white
+D-glucosaminate-6-phosphate ammonia-lyase	4.3.1.29	D-Glucosaminate-6-phosphate	2-Dehydro-3-deoxy-6-phospho-D-gluconate	white
+D-glucosaminate-6-phosphate ammonia-lyase	4.3.1.29	D-Glucosaminate-6-phosphate	Ammonia	white
+D-glyceraldehyde dehydrogenase (NADP+)	1.2.1.89	D-Glyceraldehyde	D-Glycerate	white
+D-glyceraldehyde dehydrogenase (NADP+)	1.2.1.89	D-Glyceraldehyde	H+	white
+D-glyceraldehyde dehydrogenase (NADP+)	1.2.1.89	D-Glyceraldehyde	NADPH	white
+D-glyceraldehyde dehydrogenase (NADP+)	1.2.1.89	D-Glycerate	D-Glyceraldehyde	white
+D-glyceraldehyde dehydrogenase (NADP+)	1.2.1.89	D-Glycerate	H2O	white
+D-glyceraldehyde dehydrogenase (NADP+)	1.2.1.89	D-Glycerate	NADP+	white
+D-glyceraldehyde dehydrogenase (NADP+)	1.2.1.89	H+	D-Glyceraldehyde	white
+D-glyceraldehyde dehydrogenase (NADP+)	1.2.1.89	H+	H2O	white
+D-glyceraldehyde dehydrogenase (NADP+)	1.2.1.89	H+	NADP+	white
+D-glyceraldehyde dehydrogenase (NADP+)	1.2.1.89	H2O	D-Glycerate	white
+D-glyceraldehyde dehydrogenase (NADP+)	1.2.1.89	H2O	H+	white
+D-glyceraldehyde dehydrogenase (NADP+)	1.2.1.89	H2O	NADPH	white
+D-glyceraldehyde dehydrogenase (NADP+)	1.2.1.89	NADP+	D-Glycerate	white
+D-glyceraldehyde dehydrogenase (NADP+)	1.2.1.89	NADP+	H+	white
+D-glyceraldehyde dehydrogenase (NADP+)	1.2.1.89	NADP+	NADPH	white
+D-glyceraldehyde dehydrogenase (NADP+)	1.2.1.89	NADPH	D-Glyceraldehyde	white
+D-glyceraldehyde dehydrogenase (NADP+)	1.2.1.89	NADPH	H2O	white
+D-glyceraldehyde dehydrogenase (NADP+)	1.2.1.89	NADPH	NADP+	white
+NAD+ dependent glucose-6-phosphate dehydrogenase	1.1.1.388	D-Glucono-1,5-lactone 6-phosphate	D-Glucose 6-phosphate	white
+NAD+ dependent glucose-6-phosphate dehydrogenase	1.1.1.388	D-Glucono-1,5-lactone 6-phosphate	NAD+	white
+NAD+ dependent glucose-6-phosphate dehydrogenase	1.1.1.388	D-Glucose 6-phosphate	D-Glucono-1,5-lactone 6-phosphate	white
+NAD+ dependent glucose-6-phosphate dehydrogenase	1.1.1.388	D-Glucose 6-phosphate	H+	white
+NAD+ dependent glucose-6-phosphate dehydrogenase	1.1.1.388	D-Glucose 6-phosphate	NADH	white
+NAD+ dependent glucose-6-phosphate dehydrogenase	1.1.1.388	H+	D-Glucose 6-phosphate	white
+NAD+ dependent glucose-6-phosphate dehydrogenase	1.1.1.388	H+	NAD+	white
+NAD+ dependent glucose-6-phosphate dehydrogenase	1.1.1.388	NAD+	D-Glucono-1,5-lactone 6-phosphate	white
+NAD+ dependent glucose-6-phosphate dehydrogenase	1.1.1.388	NAD+	H+	white
+NAD+ dependent glucose-6-phosphate dehydrogenase	1.1.1.388	NAD+	NADH	white
+NAD+ dependent glucose-6-phosphate dehydrogenase	1.1.1.388	NADH	D-Glucose 6-phosphate	white
+NAD+ dependent glucose-6-phosphate dehydrogenase	1.1.1.388	NADH	NAD+	white
+aldehyde:ferredoxin oxidoreductase	1.2.7.5	D-Glyceraldehyde	D-Glycerate	white
+aldehyde:ferredoxin oxidoreductase	1.2.7.5	D-Glyceraldehyde	H+	white
+aldehyde:ferredoxin oxidoreductase	1.2.7.5	D-Glyceraldehyde	Reduced ferredoxin	white
+aldehyde:ferredoxin oxidoreductase	1.2.7.5	D-Glycerate	D-Glyceraldehyde	white
+aldehyde:ferredoxin oxidoreductase	1.2.7.5	D-Glycerate	H2O	white
+aldehyde:ferredoxin oxidoreductase	1.2.7.5	D-Glycerate	Oxidized ferredoxin	white
+aldehyde:ferredoxin oxidoreductase	1.2.7.5	H+	D-Glyceraldehyde	white
+aldehyde:ferredoxin oxidoreductase	1.2.7.5	H+	H2O	white
+aldehyde:ferredoxin oxidoreductase	1.2.7.5	H+	Oxidized ferredoxin	white
+aldehyde:ferredoxin oxidoreductase	1.2.7.5	H2O	D-Glycerate	white
+aldehyde:ferredoxin oxidoreductase	1.2.7.5	H2O	H+	white
+aldehyde:ferredoxin oxidoreductase	1.2.7.5	H2O	Reduced ferredoxin	white
+aldehyde:ferredoxin oxidoreductase	1.2.7.5	Oxidized ferredoxin	D-Glycerate	white
+aldehyde:ferredoxin oxidoreductase	1.2.7.5	Oxidized ferredoxin	H+	white
+aldehyde:ferredoxin oxidoreductase	1.2.7.5	Oxidized ferredoxin	Reduced ferredoxin	white
+aldehyde:ferredoxin oxidoreductase	1.2.7.5	Reduced ferredoxin	D-Glyceraldehyde	white
+aldehyde:ferredoxin oxidoreductase	1.2.7.5	Reduced ferredoxin	H2O	white
+aldehyde:ferredoxin oxidoreductase	1.2.7.5	Reduced ferredoxin	Oxidized ferredoxin	white
+aldose 1-dehydrogenase [NAD(P)+]	1.1.1.359	D-Galactono-1,5-lactone	D-Galactose	white
+aldose 1-dehydrogenase [NAD(P)+]	1.1.1.359	D-Galactono-1,5-lactone	NADP+	white
+aldose 1-dehydrogenase [NAD(P)+]	1.1.1.359	D-Galactose	D-Galactono-1,5-lactone	white
+aldose 1-dehydrogenase [NAD(P)+]	1.1.1.359	D-Galactose	H+	white
+aldose 1-dehydrogenase [NAD(P)+]	1.1.1.359	D-Galactose	NADPH	white
+aldose 1-dehydrogenase [NAD(P)+]	1.1.1.359	H+	D-Galactose	white
+aldose 1-dehydrogenase [NAD(P)+]	1.1.1.359	H+	NADP+	white
+aldose 1-dehydrogenase [NAD(P)+]	1.1.1.359	NADP+	D-Galactono-1,5-lactone	white
+aldose 1-dehydrogenase [NAD(P)+]	1.1.1.359	NADP+	H+	white
+aldose 1-dehydrogenase [NAD(P)+]	1.1.1.359	NADP+	NADPH	white
+aldose 1-dehydrogenase [NAD(P)+]	1.1.1.359	NADPH	D-Galactose	white
+aldose 1-dehydrogenase [NAD(P)+]	1.1.1.359	NADPH	NADP+	white
+alpha-D-ribose-1-phosphate 5-kinase (ADP)	2.7.1.212	ADP	AMP	white
+alpha-D-ribose-1-phosphate 5-kinase (ADP)	2.7.1.212	ADP	D-Ribose 1,5-bisphosphate	white
+alpha-D-ribose-1-phosphate 5-kinase (ADP)	2.7.1.212	AMP	ADP	white
+alpha-D-ribose-1-phosphate 5-kinase (ADP)	2.7.1.212	AMP	alpha-D-Ribose 1-phosphate	white
+alpha-D-ribose-1-phosphate 5-kinase (ADP)	2.7.1.212	D-Ribose 1,5-bisphosphate	ADP	white
+alpha-D-ribose-1-phosphate 5-kinase (ADP)	2.7.1.212	D-Ribose 1,5-bisphosphate	alpha-D-Ribose 1-phosphate	white
+alpha-D-ribose-1-phosphate 5-kinase (ADP)	2.7.1.212	alpha-D-Ribose 1-phosphate	AMP	white
+alpha-D-ribose-1-phosphate 5-kinase (ADP)	2.7.1.212	alpha-D-Ribose 1-phosphate	D-Ribose 1,5-bisphosphate	white
+alpha-D-ribose-1-phosphate 5-kinase (ATP)	2.7.1.239	ADP	ATP	white
+alpha-D-ribose-1-phosphate 5-kinase (ATP)	2.7.1.239	ADP	alpha-D-Ribose 1-phosphate	white
+alpha-D-ribose-1-phosphate 5-kinase (ATP)	2.7.1.239	ATP	ADP	white
+alpha-D-ribose-1-phosphate 5-kinase (ATP)	2.7.1.239	ATP	D-Ribose 1,5-bisphosphate	white
+alpha-D-ribose-1-phosphate 5-kinase (ATP)	2.7.1.239	D-Ribose 1,5-bisphosphate	ATP	white
+alpha-D-ribose-1-phosphate 5-kinase (ATP)	2.7.1.239	D-Ribose 1,5-bisphosphate	alpha-D-Ribose 1-phosphate	white
+alpha-D-ribose-1-phosphate 5-kinase (ATP)	2.7.1.239	alpha-D-Ribose 1-phosphate	ADP	white
+alpha-D-ribose-1-phosphate 5-kinase (ATP)	2.7.1.239	alpha-D-Ribose 1-phosphate	D-Ribose 1,5-bisphosphate	white
+dehydrogluconokinase	2.7.1.13	2-Keto-D-gluconic acid	6-Phospho-2-dehydro-D-gluconate	white
+dehydrogluconokinase	2.7.1.13	2-Keto-D-gluconic acid	ADP	white
+dehydrogluconokinase	2.7.1.13	6-Phospho-2-dehydro-D-gluconate	2-Keto-D-gluconic acid	white
+dehydrogluconokinase	2.7.1.13	6-Phospho-2-dehydro-D-gluconate	ATP	white
+dehydrogluconokinase	2.7.1.13	ADP	2-Keto-D-gluconic acid	white
+dehydrogluconokinase	2.7.1.13	ADP	ATP	white
+dehydrogluconokinase	2.7.1.13	ATP	6-Phospho-2-dehydro-D-gluconate	white
+dehydrogluconokinase	2.7.1.13	ATP	ADP	white
+deoxyribose-phosphate aldolase	4.1.2.4	2-Deoxy-D-ribose 5-phosphate	Acetaldehyde	green
+deoxyribose-phosphate aldolase	4.1.2.4	2-Deoxy-D-ribose 5-phosphate	D-Glyceraldehyde 3-phosphate	green
+deoxyribose-phosphate aldolase	4.1.2.4	Acetaldehyde	2-Deoxy-D-ribose 5-phosphate	green
+deoxyribose-phosphate aldolase	4.1.2.4	D-Glyceraldehyde 3-phosphate	2-Deoxy-D-ribose 5-phosphate	green
+fructose-1,6-bisphosphatase II	3.1.3.11	D-Fructose 1,6-bisphosphate	D-Fructose 6-phosphate	green
+fructose-1,6-bisphosphatase II	3.1.3.11	D-Fructose 1,6-bisphosphate	Orthophosphate	green
+fructose-1,6-bisphosphatase II	3.1.3.11	H2O	D-Fructose 6-phosphate	green
+fructose-1,6-bisphosphatase II	3.1.3.11	H2O	Orthophosphate	green
+fructose-bisphosphate aldolase, class II	4.1.2.13	D-Fructose 1,6-bisphosphate	D-Glyceraldehyde 3-phosphate	green
+fructose-bisphosphate aldolase, class II	4.1.2.13	D-Fructose 1,6-bisphosphate	Glycerone phosphate	green
+fructose-bisphosphate aldolase, class II	4.1.2.13	D-Glyceraldehyde 3-phosphate	D-Fructose 1,6-bisphosphate	green
+fructose-bisphosphate aldolase, class II	4.1.2.13	Glycerone phosphate	D-Fructose 1,6-bisphosphate	green
+gluconate 2-dehydrogenase alpha chain	1.1.99.3	2-Keto-D-gluconic acid	D-Gluconic acid	white
+gluconate 2-dehydrogenase alpha chain	1.1.99.3	2-Keto-D-gluconic acid	FAD	white
+gluconate 2-dehydrogenase alpha chain	1.1.99.3	D-Gluconic acid	2-Keto-D-gluconic acid	white
+gluconate 2-dehydrogenase alpha chain	1.1.99.3	D-Gluconic acid	FADH2	white
+gluconate 2-dehydrogenase alpha chain	1.1.99.3	FAD	2-Keto-D-gluconic acid	white
+gluconate 2-dehydrogenase alpha chain	1.1.99.3	FAD	FADH2	white
+gluconate 2-dehydrogenase alpha chain	1.1.99.3	FADH2	D-Gluconic acid	white
+gluconate 2-dehydrogenase alpha chain	1.1.99.3	FADH2	FAD	white
+gluconate 2-dehydrogenase gamma chain	1.1.99.3	2-Keto-D-gluconic acid	D-Gluconic acid	white
+gluconate 2-dehydrogenase gamma chain	1.1.99.3	2-Keto-D-gluconic acid	FAD	white
+gluconate 2-dehydrogenase gamma chain	1.1.99.3	D-Gluconic acid	2-Keto-D-gluconic acid	white
+gluconate 2-dehydrogenase gamma chain	1.1.99.3	D-Gluconic acid	FADH2	white
+gluconate 2-dehydrogenase gamma chain	1.1.99.3	FAD	2-Keto-D-gluconic acid	white
+gluconate 2-dehydrogenase gamma chain	1.1.99.3	FAD	FADH2	white
+gluconate 2-dehydrogenase gamma chain	1.1.99.3	FADH2	D-Gluconic acid	white
+gluconate 2-dehydrogenase gamma chain	1.1.99.3	FADH2	FAD	white
+gluconate/galactonate dehydratase	4.2.1.140	2-Dehydro-3-deoxy-D-gluconate	D-Gluconic acid	white
+gluconate/galactonate dehydratase	4.2.1.140	D-Gluconic acid	2-Dehydro-3-deoxy-D-gluconate	white
+gluconate/galactonate dehydratase	4.2.1.140	D-Gluconic acid	H2O	white
+gluconate/galactonate dehydratase	4.2.1.140	H2O	D-Gluconic acid	white
+gluconokinase	2.7.1.12	ATP	6-Phospho-D-gluconate	green
+gluconokinase	2.7.1.12	ATP	ADP	green
+gluconokinase	2.7.1.12	D-Gluconic acid	6-Phospho-D-gluconate	green
+gluconokinase	2.7.1.12	D-Gluconic acid	ADP	green
+gluconolactonase	3.1.1.17	D-Glucono-1,5-lactone	D-Gluconic acid	green
+gluconolactonase	3.1.1.17	H2O	D-Gluconic acid	green
+glucosaminate ammonia-lyase	4.3.1.9	2-Amino-2-deoxy-D-gluconate	2-Dehydro-3-deoxy-D-gluconate	white
+glucosaminate ammonia-lyase	4.3.1.9	2-Amino-2-deoxy-D-gluconate	Ammonia	white
+glucosaminate ammonia-lyase	4.3.1.9	2-Dehydro-3-deoxy-D-gluconate	2-Amino-2-deoxy-D-gluconate	white
+glucosaminate ammonia-lyase	4.3.1.9	Ammonia	2-Amino-2-deoxy-D-gluconate	white
+glucose 1-dehydrogenase	1.1.1.47	D-Glucono-1,5-lactone	NAD+	white
+glucose 1-dehydrogenase	1.1.1.47	D-Glucono-1,5-lactone	beta-D-Glucose	white
+glucose 1-dehydrogenase	1.1.1.47	H+	NAD+	white
+glucose 1-dehydrogenase	1.1.1.47	H+	beta-D-Glucose	white
+glucose 1-dehydrogenase	1.1.1.47	NAD+	D-Glucono-1,5-lactone	white
+glucose 1-dehydrogenase	1.1.1.47	NAD+	H+	white
+glucose 1-dehydrogenase	1.1.1.47	NAD+	NADH	white
+glucose 1-dehydrogenase	1.1.1.47	NADH	NAD+	white
+glucose 1-dehydrogenase	1.1.1.47	NADH	beta-D-Glucose	white
+glucose 1-dehydrogenase	1.1.1.47	beta-D-Glucose	D-Glucono-1,5-lactone	white
+glucose 1-dehydrogenase	1.1.1.47	beta-D-Glucose	H+	white
+glucose 1-dehydrogenase	1.1.1.47	beta-D-Glucose	NADH	white
+glucose 1-dehydrogenase (FAD, quinone)	1.1.5.9	D-Glucono-1,5-lactone	D-Glucose	white
+glucose 1-dehydrogenase (FAD, quinone)	1.1.5.9	D-Glucono-1,5-lactone	Quinone	white
+glucose 1-dehydrogenase (FAD, quinone)	1.1.5.9	D-Glucose	D-Glucono-1,5-lactone	white
+glucose 1-dehydrogenase (FAD, quinone)	1.1.5.9	D-Glucose	Hydroquinone	white
+glucose 1-dehydrogenase (FAD, quinone)	1.1.5.9	Hydroquinone	D-Glucose	white
+glucose 1-dehydrogenase (FAD, quinone)	1.1.5.9	Hydroquinone	Quinone	white
+glucose 1-dehydrogenase (FAD, quinone)	1.1.5.9	Quinone	D-Glucono-1,5-lactone	white
+glucose 1-dehydrogenase (FAD, quinone)	1.1.5.9	Quinone	Hydroquinone	white
+glucose dehydrogenase	1.1.5.9	D-Glucono-1,5-lactone	D-Glucose	white
+glucose dehydrogenase	1.1.5.9	D-Glucono-1,5-lactone	Quinone	white
+glucose dehydrogenase	1.1.5.9	D-Glucose	D-Glucono-1,5-lactone	white
+glucose dehydrogenase	1.1.5.9	D-Glucose	Hydroquinone	white
+glucose dehydrogenase	1.1.5.9	Hydroquinone	D-Glucose	white
+glucose dehydrogenase	1.1.5.9	Hydroquinone	Quinone	white
+glucose dehydrogenase	1.1.5.9	Quinone	D-Glucono-1,5-lactone	white
+glucose dehydrogenase	1.1.5.9	Quinone	Hydroquinone	white
+glucose-6-phosphate 1-dehydrogenase	1.1.1.49	NAD+	D-Glucono-1,5-lactone 6-phosphate	green
+glucose-6-phosphate 1-dehydrogenase	1.1.1.49	NAD+	H+	green
+glucose-6-phosphate 1-dehydrogenase	1.1.1.49	NAD+	NADH	green
+glucose-6-phosphate 1-dehydrogenase	1.1.1.49	NADP+	D-Glucono-1,5-lactone 6-phosphate	green
+glucose-6-phosphate 1-dehydrogenase	1.1.1.49	NADP+	H+	green
+glucose-6-phosphate 1-dehydrogenase	1.1.1.49	NADP+	NADPH	green
+glucose-6-phosphate 1-dehydrogenase	1.1.1.49	beta-D-Glucose 6-phosphate	D-Glucono-1,5-lactone 6-phosphate	green
+glucose-6-phosphate 1-dehydrogenase	1.1.1.49	beta-D-Glucose 6-phosphate	H+	green
+glucose-6-phosphate 1-dehydrogenase	1.1.1.49	beta-D-Glucose 6-phosphate	NADH	green
+glucose-6-phosphate 1-dehydrogenase	1.1.1.49	beta-D-Glucose 6-phosphate	NADPH	green
+glucose-6-phosphate isomerase	5.3.1.9	D-Fructose 6-phosphate	alpha-D-Glucose 6-phosphate	green
+glucose-6-phosphate isomerase	5.3.1.9	alpha-D-Glucose 6-phosphate	D-Fructose 6-phosphate	green
+glucose-6-phosphate isomerase	5.3.1.9	alpha-D-Glucose 6-phosphate	beta-D-Glucose 6-phosphate	green
+glucose-6-phosphate isomerase	5.3.1.9	beta-D-Glucose 6-phosphate	alpha-D-Glucose 6-phosphate	green
+glucose/galactose 1-dehydrogenase (NADP+)	1.1.1.360	D-Galactono-1,5-lactone	D-Galactose	white
+glucose/galactose 1-dehydrogenase (NADP+)	1.1.1.360	D-Galactono-1,5-lactone	NADP+	white
+glucose/galactose 1-dehydrogenase (NADP+)	1.1.1.360	D-Galactose	D-Galactono-1,5-lactone	white
+glucose/galactose 1-dehydrogenase (NADP+)	1.1.1.360	D-Galactose	H+	white
+glucose/galactose 1-dehydrogenase (NADP+)	1.1.1.360	D-Galactose	NADPH	white
+glucose/galactose 1-dehydrogenase (NADP+)	1.1.1.360	H+	D-Galactose	white
+glucose/galactose 1-dehydrogenase (NADP+)	1.1.1.360	H+	NADP+	white
+glucose/galactose 1-dehydrogenase (NADP+)	1.1.1.360	NADP+	D-Galactono-1,5-lactone	white
+glucose/galactose 1-dehydrogenase (NADP+)	1.1.1.360	NADP+	H+	white
+glucose/galactose 1-dehydrogenase (NADP+)	1.1.1.360	NADP+	NADPH	white
+glucose/galactose 1-dehydrogenase (NADP+)	1.1.1.360	NADPH	D-Galactose	white
+glucose/galactose 1-dehydrogenase (NADP+)	1.1.1.360	NADPH	NADP+	white
+glyceraldehyde dehydrogenase large subunit	1.2.99.8	Acceptor	D-Glycerate	white
+glyceraldehyde dehydrogenase large subunit	1.2.99.8	Acceptor	Reduced acceptor	white
+glyceraldehyde dehydrogenase large subunit	1.2.99.8	D-Glyceraldehyde	D-Glycerate	white
+glyceraldehyde dehydrogenase large subunit	1.2.99.8	D-Glyceraldehyde	Reduced acceptor	white
+glyceraldehyde dehydrogenase large subunit	1.2.99.8	D-Glycerate	Acceptor	white
+glyceraldehyde dehydrogenase large subunit	1.2.99.8	D-Glycerate	D-Glyceraldehyde	white
+glyceraldehyde dehydrogenase large subunit	1.2.99.8	D-Glycerate	H2O	white
+glyceraldehyde dehydrogenase large subunit	1.2.99.8	H2O	D-Glycerate	white
+glyceraldehyde dehydrogenase large subunit	1.2.99.8	H2O	Reduced acceptor	white
+glyceraldehyde dehydrogenase large subunit	1.2.99.8	Reduced acceptor	Acceptor	white
+glyceraldehyde dehydrogenase large subunit	1.2.99.8	Reduced acceptor	D-Glyceraldehyde	white
+glyceraldehyde dehydrogenase large subunit	1.2.99.8	Reduced acceptor	H2O	white
+glyceraldehyde dehydrogenase medium subunit	1.2.99.8	Acceptor	D-Glycerate	white
+glyceraldehyde dehydrogenase medium subunit	1.2.99.8	Acceptor	Reduced acceptor	white
+glyceraldehyde dehydrogenase medium subunit	1.2.99.8	D-Glyceraldehyde	D-Glycerate	white
+glyceraldehyde dehydrogenase medium subunit	1.2.99.8	D-Glyceraldehyde	Reduced acceptor	white
+glyceraldehyde dehydrogenase medium subunit	1.2.99.8	D-Glycerate	Acceptor	white
+glyceraldehyde dehydrogenase medium subunit	1.2.99.8	D-Glycerate	D-Glyceraldehyde	white
+glyceraldehyde dehydrogenase medium subunit	1.2.99.8	D-Glycerate	H2O	white
+glyceraldehyde dehydrogenase medium subunit	1.2.99.8	H2O	D-Glycerate	white
+glyceraldehyde dehydrogenase medium subunit	1.2.99.8	H2O	Reduced acceptor	white
+glyceraldehyde dehydrogenase medium subunit	1.2.99.8	Reduced acceptor	Acceptor	white
+glyceraldehyde dehydrogenase medium subunit	1.2.99.8	Reduced acceptor	D-Glyceraldehyde	white
+glyceraldehyde dehydrogenase medium subunit	1.2.99.8	Reduced acceptor	H2O	white
+glyceraldehyde dehydrogenase small subunit	1.2.99.8	Acceptor	D-Glycerate	white
+glyceraldehyde dehydrogenase small subunit	1.2.99.8	Acceptor	Reduced acceptor	white
+glyceraldehyde dehydrogenase small subunit	1.2.99.8	D-Glyceraldehyde	D-Glycerate	white
+glyceraldehyde dehydrogenase small subunit	1.2.99.8	D-Glyceraldehyde	Reduced acceptor	white
+glyceraldehyde dehydrogenase small subunit	1.2.99.8	D-Glycerate	Acceptor	white
+glyceraldehyde dehydrogenase small subunit	1.2.99.8	D-Glycerate	D-Glyceraldehyde	white
+glyceraldehyde dehydrogenase small subunit	1.2.99.8	D-Glycerate	H2O	white
+glyceraldehyde dehydrogenase small subunit	1.2.99.8	H2O	D-Glycerate	white
+glyceraldehyde dehydrogenase small subunit	1.2.99.8	H2O	Reduced acceptor	white
+glyceraldehyde dehydrogenase small subunit	1.2.99.8	Reduced acceptor	Acceptor	white
+glyceraldehyde dehydrogenase small subunit	1.2.99.8	Reduced acceptor	D-Glyceraldehyde	white
+glyceraldehyde dehydrogenase small subunit	1.2.99.8	Reduced acceptor	H2O	white
+glyceraldehyde-3-phosphate dehydrogenase (NADP+)	1.2.1.9	3-Phospho-D-glycerate	D-Glyceraldehyde 3-phosphate	white
+glyceraldehyde-3-phosphate dehydrogenase (NADP+)	1.2.1.9	3-Phospho-D-glycerate	H2O	white
+glyceraldehyde-3-phosphate dehydrogenase (NADP+)	1.2.1.9	3-Phospho-D-glycerate	NADP+	white
+glyceraldehyde-3-phosphate dehydrogenase (NADP+)	1.2.1.9	D-Glyceraldehyde 3-phosphate	3-Phospho-D-glycerate	white
+glyceraldehyde-3-phosphate dehydrogenase (NADP+)	1.2.1.9	D-Glyceraldehyde 3-phosphate	H+	white
+glyceraldehyde-3-phosphate dehydrogenase (NADP+)	1.2.1.9	D-Glyceraldehyde 3-phosphate	NADPH	white
+glyceraldehyde-3-phosphate dehydrogenase (NADP+)	1.2.1.9	H+	D-Glyceraldehyde 3-phosphate	white
+glyceraldehyde-3-phosphate dehydrogenase (NADP+)	1.2.1.9	H+	H2O	white
+glyceraldehyde-3-phosphate dehydrogenase (NADP+)	1.2.1.9	H+	NADP+	white
+glyceraldehyde-3-phosphate dehydrogenase (NADP+)	1.2.1.9	H2O	3-Phospho-D-glycerate	white
+glyceraldehyde-3-phosphate dehydrogenase (NADP+)	1.2.1.9	H2O	H+	white
+glyceraldehyde-3-phosphate dehydrogenase (NADP+)	1.2.1.9	H2O	NADPH	white
+glyceraldehyde-3-phosphate dehydrogenase (NADP+)	1.2.1.9	NADP+	3-Phospho-D-glycerate	white
+glyceraldehyde-3-phosphate dehydrogenase (NADP+)	1.2.1.9	NADP+	H+	white
+glyceraldehyde-3-phosphate dehydrogenase (NADP+)	1.2.1.9	NADP+	NADPH	white
+glyceraldehyde-3-phosphate dehydrogenase (NADP+)	1.2.1.9	NADPH	D-Glyceraldehyde 3-phosphate	white
+glyceraldehyde-3-phosphate dehydrogenase (NADP+)	1.2.1.9	NADPH	H2O	white
+glyceraldehyde-3-phosphate dehydrogenase (NADP+)	1.2.1.9	NADPH	NADP+	white
+glyceraldehyde-3-phosphate dehydrogenase [NAD(P)+]	1.2.1.90	3-Phospho-D-glycerate	D-Glyceraldehyde 3-phosphate	white
+glyceraldehyde-3-phosphate dehydrogenase [NAD(P)+]	1.2.1.90	3-Phospho-D-glycerate	H2O	white
+glyceraldehyde-3-phosphate dehydrogenase [NAD(P)+]	1.2.1.90	3-Phospho-D-glycerate	NADP+	white
+glyceraldehyde-3-phosphate dehydrogenase [NAD(P)+]	1.2.1.90	D-Glyceraldehyde 3-phosphate	3-Phospho-D-glycerate	white
+glyceraldehyde-3-phosphate dehydrogenase [NAD(P)+]	1.2.1.90	D-Glyceraldehyde 3-phosphate	H+	white
+glyceraldehyde-3-phosphate dehydrogenase [NAD(P)+]	1.2.1.90	D-Glyceraldehyde 3-phosphate	NADPH	white
+glyceraldehyde-3-phosphate dehydrogenase [NAD(P)+]	1.2.1.90	H+	D-Glyceraldehyde 3-phosphate	white
+glyceraldehyde-3-phosphate dehydrogenase [NAD(P)+]	1.2.1.90	H+	H2O	white
+glyceraldehyde-3-phosphate dehydrogenase [NAD(P)+]	1.2.1.90	H+	NADP+	white
+glyceraldehyde-3-phosphate dehydrogenase [NAD(P)+]	1.2.1.90	H2O	3-Phospho-D-glycerate	white
+glyceraldehyde-3-phosphate dehydrogenase [NAD(P)+]	1.2.1.90	H2O	H+	white
+glyceraldehyde-3-phosphate dehydrogenase [NAD(P)+]	1.2.1.90	H2O	NADPH	white
+glyceraldehyde-3-phosphate dehydrogenase [NAD(P)+]	1.2.1.90	NADP+	3-Phospho-D-glycerate	white
+glyceraldehyde-3-phosphate dehydrogenase [NAD(P)+]	1.2.1.90	NADP+	H+	white
+glyceraldehyde-3-phosphate dehydrogenase [NAD(P)+]	1.2.1.90	NADP+	NADPH	white
+glyceraldehyde-3-phosphate dehydrogenase [NAD(P)+]	1.2.1.90	NADPH	D-Glyceraldehyde 3-phosphate	white
+glyceraldehyde-3-phosphate dehydrogenase [NAD(P)+]	1.2.1.90	NADPH	H2O	white
+glyceraldehyde-3-phosphate dehydrogenase [NAD(P)+]	1.2.1.90	NADPH	NADP+	white
+glycerate 2-kinase	2.7.1.165	2-Phospho-D-glycerate	ATP	white
+glycerate 2-kinase	2.7.1.165	2-Phospho-D-glycerate	D-Glycerate	white
+glycerate 2-kinase	2.7.1.165	ADP	ATP	white
+glycerate 2-kinase	2.7.1.165	ADP	D-Glycerate	white
+glycerate 2-kinase	2.7.1.165	ATP	2-Phospho-D-glycerate	white
+glycerate 2-kinase	2.7.1.165	ATP	ADP	white
+glycerate 2-kinase	2.7.1.165	D-Glycerate	2-Phospho-D-glycerate	white
+glycerate 2-kinase	2.7.1.165	D-Glycerate	ADP	white
+glyoxylate/hydroxypyruvate/2-ketogluconate reductase	1.1.1.79	Glycolate	Glyoxylate	white
+glyoxylate/hydroxypyruvate/2-ketogluconate reductase	1.1.1.79	Glycolate	H+	white
+glyoxylate/hydroxypyruvate/2-ketogluconate reductase	1.1.1.79	Glycolate	NADPH	white
+glyoxylate/hydroxypyruvate/2-ketogluconate reductase	1.1.1.79	Glyoxylate	Glycolate	white
+glyoxylate/hydroxypyruvate/2-ketogluconate reductase	1.1.1.79	Glyoxylate	NADP+	white
+glyoxylate/hydroxypyruvate/2-ketogluconate reductase	1.1.1.79	H+	Glycolate	white
+glyoxylate/hydroxypyruvate/2-ketogluconate reductase	1.1.1.79	H+	NADP+	white
+glyoxylate/hydroxypyruvate/2-ketogluconate reductase	1.1.1.79	NADP+	Glyoxylate	white
+glyoxylate/hydroxypyruvate/2-ketogluconate reductase	1.1.1.79	NADP+	H+	white
+glyoxylate/hydroxypyruvate/2-ketogluconate reductase	1.1.1.79	NADP+	NADPH	white
+glyoxylate/hydroxypyruvate/2-ketogluconate reductase	1.1.1.79	NADPH	Glycolate	white
+glyoxylate/hydroxypyruvate/2-ketogluconate reductase	1.1.1.79	NADPH	NADP+	white
+hexose oxidase	1.1.3.5	D-Glucono-1,5-lactone	Oxygen	white
+hexose oxidase	1.1.3.5	D-Glucono-1,5-lactone	beta-D-Glucose	white
+hexose oxidase	1.1.3.5	Hydrogen peroxide	Oxygen	white
+hexose oxidase	1.1.3.5	Hydrogen peroxide	beta-D-Glucose	white
+hexose oxidase	1.1.3.5	Oxygen	D-Glucono-1,5-lactone	white
+hexose oxidase	1.1.3.5	Oxygen	Hydrogen peroxide	white
+hexose oxidase	1.1.3.5	beta-D-Glucose	D-Glucono-1,5-lactone	white
+hexose oxidase	1.1.3.5	beta-D-Glucose	Hydrogen peroxide	white
+hexose-6-phosphate dehydrogenase	1.1.1.47	6-Phospho-D-gluconate	D-Glucono-1,5-lactone 6-phosphate	white
+hexose-6-phosphate dehydrogenase	1.1.1.47	6-Phospho-D-gluconate	H2O	white
+hexose-6-phosphate dehydrogenase	1.1.1.47	D-Glucono-1,5-lactone 6-phosphate	6-Phospho-D-gluconate	white
+hexose-6-phosphate dehydrogenase	1.1.1.47	H2O	6-Phospho-D-gluconate	white
+phosphoglucomutase	5.4.2.2	D-Ribose 5-phosphate	alpha-D-Ribose 1-phosphate	green
+phosphoglucomutase	5.4.2.2	alpha-D-Ribose 1-phosphate	D-Ribose 5-phosphate	green
+phosphoglucomutase / phosphopentomutase	5.4.2.2	D-Glucose 1-phosphate	alpha-D-Glucose 6-phosphate	white
+phosphoglucomutase / phosphopentomutase	5.4.2.2	alpha-D-Glucose 6-phosphate	D-Glucose 1-phosphate	white
+phosphogluconate 2-dehydrogenase	1.1.1.43	6-Phospho-2-dehydro-D-gluconate	6-Phospho-D-gluconate	white
+phosphogluconate 2-dehydrogenase	1.1.1.43	6-Phospho-2-dehydro-D-gluconate	NAD+	white
+phosphogluconate 2-dehydrogenase	1.1.1.43	6-Phospho-D-gluconate	6-Phospho-2-dehydro-D-gluconate	white
+phosphogluconate 2-dehydrogenase	1.1.1.43	6-Phospho-D-gluconate	H+	white
+phosphogluconate 2-dehydrogenase	1.1.1.43	6-Phospho-D-gluconate	NADH	white
+phosphogluconate 2-dehydrogenase	1.1.1.43	H+	6-Phospho-D-gluconate	white
+phosphogluconate 2-dehydrogenase	1.1.1.43	H+	NAD+	white
+phosphogluconate 2-dehydrogenase	1.1.1.43	NAD+	6-Phospho-2-dehydro-D-gluconate	white
+phosphogluconate 2-dehydrogenase	1.1.1.43	NAD+	H+	white
+phosphogluconate 2-dehydrogenase	1.1.1.43	NAD+	NADH	white
+phosphogluconate 2-dehydrogenase	1.1.1.43	NADH	6-Phospho-D-gluconate	white
+phosphogluconate 2-dehydrogenase	1.1.1.43	NADH	NAD+	white
+phosphogluconate dehydratase	4.2.1.12	6-Phospho-D-gluconate	2-Dehydro-3-deoxy-6-phospho-D-gluconate	green
+phosphogluconate dehydratase	4.2.1.12	6-Phospho-D-gluconate	H2O	green
+phosphopentomutase	5.4.2.7	D-Ribose 5-phosphate	alpha-D-Ribose 1-phosphate	white
+phosphopentomutase	5.4.2.7	alpha-D-Ribose 1-phosphate	D-Ribose 5-phosphate	white
+quinoprotein glucose dehydrogenase	1.1.5.2	D-Glucono-1,5-lactone	D-Glucose	white
+quinoprotein glucose dehydrogenase	1.1.5.2	D-Glucono-1,5-lactone	Ubiquinone	white
+quinoprotein glucose dehydrogenase	1.1.5.2	D-Glucose	D-Glucono-1,5-lactone	white
+quinoprotein glucose dehydrogenase	1.1.5.2	D-Glucose	Ubiquinol	white
+quinoprotein glucose dehydrogenase	1.1.5.2	Ubiquinol	D-Glucose	white
+quinoprotein glucose dehydrogenase	1.1.5.2	Ubiquinol	Ubiquinone	white
+quinoprotein glucose dehydrogenase	1.1.5.2	Ubiquinone	D-Glucono-1,5-lactone	white
+quinoprotein glucose dehydrogenase	1.1.5.2	Ubiquinone	Ubiquinol	white
+ribokinase	2.7.1.15	2-Deoxy-D-ribose 5-phosphate	ATP	green
+ribokinase	2.7.1.15	2-Deoxy-D-ribose 5-phosphate	Deoxyribose	green
+ribokinase	2.7.1.15	ADP	ATP	green
+ribokinase	2.7.1.15	ADP	D-Ribose	green
+ribokinase	2.7.1.15	ADP	Deoxyribose	green
+ribokinase	2.7.1.15	ATP	2-Deoxy-D-ribose 5-phosphate	green
+ribokinase	2.7.1.15	ATP	ADP	green
+ribokinase	2.7.1.15	ATP	D-Ribose 5-phosphate	green
+ribokinase	2.7.1.15	D-Ribose	ADP	green
+ribokinase	2.7.1.15	D-Ribose	D-Ribose 5-phosphate	green
+ribokinase	2.7.1.15	D-Ribose 5-phosphate	ATP	green
+ribokinase	2.7.1.15	D-Ribose 5-phosphate	D-Ribose	green
+ribokinase	2.7.1.15	Deoxyribose	2-Deoxy-D-ribose 5-phosphate	green
+ribokinase	2.7.1.15	Deoxyribose	ADP	green
+ribose 1,5-bisphosphate isomerase	5.3.1.29	D-Ribose 1,5-bisphosphate	D-Ribulose 1,5-bisphosphate	white
+ribose 1,5-bisphosphate isomerase	5.3.1.29	D-Ribulose 1,5-bisphosphate	D-Ribose 1,5-bisphosphate	white
+ribose 1,5-bisphosphokinase	2.7.4.23	5-Phospho-alpha-D-ribose 1-diphosphate	ATP	white
+ribose 1,5-bisphosphokinase	2.7.4.23	5-Phospho-alpha-D-ribose 1-diphosphate	D-Ribose 1,5-bisphosphate	white
+ribose 1,5-bisphosphokinase	2.7.4.23	ADP	ATP	white
+ribose 1,5-bisphosphokinase	2.7.4.23	ADP	D-Ribose 1,5-bisphosphate	white
+ribose 1,5-bisphosphokinase	2.7.4.23	ATP	5-Phospho-alpha-D-ribose 1-diphosphate	white
+ribose 1,5-bisphosphokinase	2.7.4.23	ATP	ADP	white
+ribose 1,5-bisphosphokinase	2.7.4.23	D-Ribose 1,5-bisphosphate	5-Phospho-alpha-D-ribose 1-diphosphate	white
+ribose 1,5-bisphosphokinase	2.7.4.23	D-Ribose 1,5-bisphosphate	ADP	white
+ribose 5-phosphate isomerase A	5.3.1.6	D-Ribose 5-phosphate	D-Ribulose 5-phosphate	green
+ribose 5-phosphate isomerase A	5.3.1.6	D-Ribulose 5-phosphate	D-Ribose 5-phosphate	green
+ribose 5-phosphate isomerase B	5.3.1.6	D-Ribose 5-phosphate	D-Ribulose 5-phosphate	green
+ribose 5-phosphate isomerase B	5.3.1.6	D-Ribulose 5-phosphate	D-Ribose 5-phosphate	green
+ribose-phosphate pyrophosphokinase	2.7.6.1	5-Phospho-alpha-D-ribose 1-diphosphate	ATP	green
+ribose-phosphate pyrophosphokinase	2.7.6.1	5-Phospho-alpha-D-ribose 1-diphosphate	D-Ribose 5-phosphate	green
+ribose-phosphate pyrophosphokinase	2.7.6.1	AMP	ATP	green
+ribose-phosphate pyrophosphokinase	2.7.6.1	AMP	D-Ribose 5-phosphate	green
+ribose-phosphate pyrophosphokinase	2.7.6.1	ATP	5-Phospho-alpha-D-ribose 1-diphosphate	green
+ribose-phosphate pyrophosphokinase	2.7.6.1	ATP	AMP	green
+ribose-phosphate pyrophosphokinase	2.7.6.1	D-Ribose 5-phosphate	5-Phospho-alpha-D-ribose 1-diphosphate	green
+ribose-phosphate pyrophosphokinase	2.7.6.1	D-Ribose 5-phosphate	AMP	green
+ribulose-phosphate 3-epimerase	5.1.3.1	D-Ribulose 5-phosphate	D-Xylulose 5-phosphate	green
+ribulose-phosphate 3-epimerase	5.1.3.1	D-Xylulose 5-phosphate	D-Ribulose 5-phosphate	green
+sedoheptulokinase	2.7.1.14	ADP	ATP	white
+sedoheptulokinase	2.7.1.14	ADP	Sedoheptulose	white
+sedoheptulokinase	2.7.1.14	ATP	ADP	white
+sedoheptulokinase	2.7.1.14	ATP	Sedoheptulose 7-phosphate	white
+sedoheptulokinase	2.7.1.14	Sedoheptulose	ADP	white
+sedoheptulokinase	2.7.1.14	Sedoheptulose	Sedoheptulose 7-phosphate	white
+sedoheptulokinase	2.7.1.14	Sedoheptulose 7-phosphate	ATP	white
+sedoheptulokinase	2.7.1.14	Sedoheptulose 7-phosphate	Sedoheptulose	white
+transaldolase	2.2.1.2	D-Erythrose 4-phosphate	D-Glyceraldehyde 3-phosphate	green
+transaldolase	2.2.1.2	D-Erythrose 4-phosphate	Sedoheptulose 7-phosphate	green
+transaldolase	2.2.1.2	D-Fructose 6-phosphate	D-Glyceraldehyde 3-phosphate	green
+transaldolase	2.2.1.2	D-Fructose 6-phosphate	Sedoheptulose 7-phosphate	green
+transaldolase	2.2.1.2	D-Glyceraldehyde 3-phosphate	D-Erythrose 4-phosphate	green
+transaldolase	2.2.1.2	D-Glyceraldehyde 3-phosphate	D-Fructose 6-phosphate	green
+transaldolase	2.2.1.2	Sedoheptulose 7-phosphate	D-Erythrose 4-phosphate	green
+transaldolase	2.2.1.2	Sedoheptulose 7-phosphate	D-Fructose 6-phosphate	green
+transketolase	2.2.1.1	D-Erythrose 4-phosphate	D-Fructose 6-phosphate	green
+transketolase	2.2.1.1	D-Erythrose 4-phosphate	D-Glyceraldehyde 3-phosphate	green
+transketolase	2.2.1.1	D-Fructose 6-phosphate	D-Erythrose 4-phosphate	green
+transketolase	2.2.1.1	D-Fructose 6-phosphate	D-Xylulose 5-phosphate	green
+transketolase	2.2.1.1	D-Glyceraldehyde 3-phosphate	D-Erythrose 4-phosphate	green
+transketolase	2.2.1.1	D-Glyceraldehyde 3-phosphate	D-Ribose 5-phosphate	green
+transketolase	2.2.1.1	D-Glyceraldehyde 3-phosphate	D-Xylulose 5-phosphate	green
+transketolase	2.2.1.1	D-Ribose 5-phosphate	D-Glyceraldehyde 3-phosphate	green
+transketolase	2.2.1.1	D-Ribose 5-phosphate	Sedoheptulose 7-phosphate	green
+transketolase	2.2.1.1	D-Xylulose 5-phosphate	D-Fructose 6-phosphate	green
+transketolase	2.2.1.1	D-Xylulose 5-phosphate	D-Glyceraldehyde 3-phosphate	green
+transketolase	2.2.1.1	D-Xylulose 5-phosphate	Sedoheptulose 7-phosphate	green
+transketolase	2.2.1.1	Sedoheptulose 7-phosphate	D-Ribose 5-phosphate	green
+transketolase	2.2.1.1	Sedoheptulose 7-phosphate	D-Xylulose 5-phosphate	green
+xylulose-5-phosphate/fructose-6-phosphate phosphoketolase	4.1.2.9	D-Xylulose 5-phosphate	Acetyl phosphate	green
+xylulose-5-phosphate/fructose-6-phosphate phosphoketolase	4.1.2.9	D-Xylulose 5-phosphate	D-Glyceraldehyde 3-phosphate	green
+xylulose-5-phosphate/fructose-6-phosphate phosphoketolase	4.1.2.9	D-Xylulose 5-phosphate	H2O	green
+xylulose-5-phosphate/fructose-6-phosphate phosphoketolase	4.1.2.9	Orthophosphate	Acetyl phosphate	green
+xylulose-5-phosphate/fructose-6-phosphate phosphoketolase	4.1.2.9	Orthophosphate	D-Glyceraldehyde 3-phosphate	green
+xylulose-5-phosphate/fructose-6-phosphate phosphoketolase	4.1.2.9	Orthophosphate	H2O	green

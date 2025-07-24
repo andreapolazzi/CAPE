@@ -1,0 +1,1060 @@
+enzyme_name	EC	source	target	color
+(R)-6-hydroxynicotine oxidase	1.5.3.6	(R)-6-Hydroxynicotine	6-Hydroxypseudooxynicotine	white
+(R)-6-hydroxynicotine oxidase	1.5.3.6	(R)-6-Hydroxynicotine	Hydrogen peroxide	white
+(R)-6-hydroxynicotine oxidase	1.5.3.6	6-Hydroxypseudooxynicotine	(R)-6-Hydroxynicotine	white
+(R)-6-hydroxynicotine oxidase	1.5.3.6	6-Hydroxypseudooxynicotine	H2O	white
+(R)-6-hydroxynicotine oxidase	1.5.3.6	6-Hydroxypseudooxynicotine	Oxygen	white
+(R)-6-hydroxynicotine oxidase	1.5.3.6	H2O	6-Hydroxypseudooxynicotine	white
+(R)-6-hydroxynicotine oxidase	1.5.3.6	H2O	Hydrogen peroxide	white
+(R)-6-hydroxynicotine oxidase	1.5.3.6	Hydrogen peroxide	(R)-6-Hydroxynicotine	white
+(R)-6-hydroxynicotine oxidase	1.5.3.6	Hydrogen peroxide	H2O	white
+(R)-6-hydroxynicotine oxidase	1.5.3.6	Hydrogen peroxide	Oxygen	white
+(R)-6-hydroxynicotine oxidase	1.5.3.6	Oxygen	6-Hydroxypseudooxynicotine	white
+(R)-6-hydroxynicotine oxidase	1.5.3.6	Oxygen	Hydrogen peroxide	white
+(S)-6-hydroxynicotine oxidase	1.5.3.5	(S)-6-Hydroxynicotine	5-(N-Methyl-4,5-dihydro-1H-pyrrol-2-yl)pyridin-2-ol	green
+(S)-6-hydroxynicotine oxidase	1.5.3.5	(S)-6-Hydroxynicotine	Hydrogen peroxide	green
+(S)-6-hydroxynicotine oxidase	1.5.3.5	Oxygen	5-(N-Methyl-4,5-dihydro-1H-pyrrol-2-yl)pyridin-2-ol	green
+(S)-6-hydroxynicotine oxidase	1.5.3.5	Oxygen	Hydrogen peroxide	green
+2,3-dimethylmalate lyase	4.1.3.32	(2R,3S)-2,3-Dimethylmalate	Propanoate	white
+2,3-dimethylmalate lyase	4.1.3.32	(2R,3S)-2,3-Dimethylmalate	Pyruvate	white
+2,3-dimethylmalate lyase	4.1.3.32	Propanoate	(2R,3S)-2,3-Dimethylmalate	white
+2,3-dimethylmalate lyase	4.1.3.32	Pyruvate	(2R,3S)-2,3-Dimethylmalate	white
+2,5-dihydroxypyridine 5,6-dioxygenase	1.13.11.9	2,5-Dihydroxypyridine	N-Formylmaleamic acid	green
+2,5-dihydroxypyridine 5,6-dioxygenase	1.13.11.9	Oxygen	N-Formylmaleamic acid	green
+2,6-dihydroxypseudooxynicotine hydrolase	3.7.1.19	2,6-Dihydroxypseudooxynicotine	2,6-Dihydroxypyridine	green
+2,6-dihydroxypseudooxynicotine hydrolase	3.7.1.19	2,6-Dihydroxypseudooxynicotine	4-Methylaminobutyrate	green
+2,6-dihydroxypseudooxynicotine hydrolase	3.7.1.19	H2O	2,6-Dihydroxypyridine	green
+2,6-dihydroxypseudooxynicotine hydrolase	3.7.1.19	H2O	4-Methylaminobutyrate	green
+2,6-dihydroxypyridine 3-monooxygenase	1.14.13.10	2,6-Dihydroxypyridine	2,3,6-Trihydroxypyridine	green
+2,6-dihydroxypyridine 3-monooxygenase	1.14.13.10	2,6-Dihydroxypyridine	H2O	green
+2,6-dihydroxypyridine 3-monooxygenase	1.14.13.10	2,6-Dihydroxypyridine	NAD+	green
+2,6-dihydroxypyridine 3-monooxygenase	1.14.13.10	H+	2,3,6-Trihydroxypyridine	green
+2,6-dihydroxypyridine 3-monooxygenase	1.14.13.10	H+	H2O	green
+2,6-dihydroxypyridine 3-monooxygenase	1.14.13.10	H+	NAD+	green
+2,6-dihydroxypyridine 3-monooxygenase	1.14.13.10	NADH	2,3,6-Trihydroxypyridine	green
+2,6-dihydroxypyridine 3-monooxygenase	1.14.13.10	NADH	H2O	green
+2,6-dihydroxypyridine 3-monooxygenase	1.14.13.10	NADH	NAD+	green
+2,6-dihydroxypyridine 3-monooxygenase	1.14.13.10	Oxygen	2,3,6-Trihydroxypyridine	green
+2,6-dihydroxypyridine 3-monooxygenase	1.14.13.10	Oxygen	H2O	green
+2,6-dihydroxypyridine 3-monooxygenase	1.14.13.10	Oxygen	NAD+	green
+2-hydroxymethylglutarate dehydrogenase	1.1.1.291	(S)-2-(Hydroxymethyl)glutarate	2-Formylglutarate	white
+2-hydroxymethylglutarate dehydrogenase	1.1.1.291	(S)-2-(Hydroxymethyl)glutarate	H+	white
+2-hydroxymethylglutarate dehydrogenase	1.1.1.291	(S)-2-(Hydroxymethyl)glutarate	NADH	white
+2-hydroxymethylglutarate dehydrogenase	1.1.1.291	2-Formylglutarate	(S)-2-(Hydroxymethyl)glutarate	white
+2-hydroxymethylglutarate dehydrogenase	1.1.1.291	2-Formylglutarate	NAD+	white
+2-hydroxymethylglutarate dehydrogenase	1.1.1.291	H+	(S)-2-(Hydroxymethyl)glutarate	white
+2-hydroxymethylglutarate dehydrogenase	1.1.1.291	H+	NAD+	white
+2-hydroxymethylglutarate dehydrogenase	1.1.1.291	NAD+	2-Formylglutarate	white
+2-hydroxymethylglutarate dehydrogenase	1.1.1.291	NAD+	H+	white
+2-hydroxymethylglutarate dehydrogenase	1.1.1.291	NAD+	NADH	white
+2-hydroxymethylglutarate dehydrogenase	1.1.1.291	NADH	(S)-2-(Hydroxymethyl)glutarate	white
+2-hydroxymethylglutarate dehydrogenase	1.1.1.291	NADH	NAD+	white
+2-methyleneglutarate mutase	5.4.99.4	2-Methyleneglutarate	Methylitaconate	white
+2-methyleneglutarate mutase	5.4.99.4	Methylitaconate	2-Methyleneglutarate	white
+3-succinoylpyridine monooxygenase subunit A	1.4.2.2	3-Succinoylpyridine	6-Hydroxy-3-succinoylpyridine	white
+3-succinoylpyridine monooxygenase subunit A	1.4.2.2	3-Succinoylpyridine	Reduced acceptor	white
+3-succinoylpyridine monooxygenase subunit A	1.4.2.2	6-Hydroxy-3-succinoylpyridine	3-Succinoylpyridine	white
+3-succinoylpyridine monooxygenase subunit A	1.4.2.2	6-Hydroxy-3-succinoylpyridine	Acceptor	white
+3-succinoylpyridine monooxygenase subunit A	1.4.2.2	6-Hydroxy-3-succinoylpyridine	H2O	white
+3-succinoylpyridine monooxygenase subunit A	1.4.2.2	Acceptor	6-Hydroxy-3-succinoylpyridine	white
+3-succinoylpyridine monooxygenase subunit A	1.4.2.2	Acceptor	Reduced acceptor	white
+3-succinoylpyridine monooxygenase subunit A	1.4.2.2	H2O	6-Hydroxy-3-succinoylpyridine	white
+3-succinoylpyridine monooxygenase subunit A	1.4.2.2	H2O	Reduced acceptor	white
+3-succinoylpyridine monooxygenase subunit A	1.4.2.2	Reduced acceptor	3-Succinoylpyridine	white
+3-succinoylpyridine monooxygenase subunit A	1.4.2.2	Reduced acceptor	Acceptor	white
+3-succinoylpyridine monooxygenase subunit A	1.4.2.2	Reduced acceptor	H2O	white
+3-succinoylpyridine monooxygenase subunit C	1.4.2.2	3-Succinoylpyridine	6-Hydroxy-3-succinoylpyridine	white
+3-succinoylpyridine monooxygenase subunit C	1.4.2.2	3-Succinoylpyridine	Reduced acceptor	white
+3-succinoylpyridine monooxygenase subunit C	1.4.2.2	6-Hydroxy-3-succinoylpyridine	3-Succinoylpyridine	white
+3-succinoylpyridine monooxygenase subunit C	1.4.2.2	6-Hydroxy-3-succinoylpyridine	Acceptor	white
+3-succinoylpyridine monooxygenase subunit C	1.4.2.2	6-Hydroxy-3-succinoylpyridine	H2O	white
+3-succinoylpyridine monooxygenase subunit C	1.4.2.2	Acceptor	6-Hydroxy-3-succinoylpyridine	white
+3-succinoylpyridine monooxygenase subunit C	1.4.2.2	Acceptor	Reduced acceptor	white
+3-succinoylpyridine monooxygenase subunit C	1.4.2.2	H2O	6-Hydroxy-3-succinoylpyridine	white
+3-succinoylpyridine monooxygenase subunit C	1.4.2.2	H2O	Reduced acceptor	white
+3-succinoylpyridine monooxygenase subunit C	1.4.2.2	Reduced acceptor	3-Succinoylpyridine	white
+3-succinoylpyridine monooxygenase subunit C	1.4.2.2	Reduced acceptor	Acceptor	white
+3-succinoylpyridine monooxygenase subunit C	1.4.2.2	Reduced acceptor	H2O	white
+3-succinoylsemialdehyde-pyridine dehydrogenase	1.2.1.83	3-Succinoylpyridine	4-Oxo-1-(3-pyridyl)-1-butanone	white
+3-succinoylsemialdehyde-pyridine dehydrogenase	1.2.1.83	3-Succinoylpyridine	H2O	white
+3-succinoylsemialdehyde-pyridine dehydrogenase	1.2.1.83	3-Succinoylpyridine	NADP+	white
+3-succinoylsemialdehyde-pyridine dehydrogenase	1.2.1.83	4-Oxo-1-(3-pyridyl)-1-butanone	3-Succinoylpyridine	white
+3-succinoylsemialdehyde-pyridine dehydrogenase	1.2.1.83	4-Oxo-1-(3-pyridyl)-1-butanone	H+	white
+3-succinoylsemialdehyde-pyridine dehydrogenase	1.2.1.83	4-Oxo-1-(3-pyridyl)-1-butanone	NADPH	white
+3-succinoylsemialdehyde-pyridine dehydrogenase	1.2.1.83	H+	4-Oxo-1-(3-pyridyl)-1-butanone	white
+3-succinoylsemialdehyde-pyridine dehydrogenase	1.2.1.83	H+	H2O	white
+3-succinoylsemialdehyde-pyridine dehydrogenase	1.2.1.83	H+	NADP+	white
+3-succinoylsemialdehyde-pyridine dehydrogenase	1.2.1.83	H2O	3-Succinoylpyridine	white
+3-succinoylsemialdehyde-pyridine dehydrogenase	1.2.1.83	H2O	H+	white
+3-succinoylsemialdehyde-pyridine dehydrogenase	1.2.1.83	H2O	NADPH	white
+3-succinoylsemialdehyde-pyridine dehydrogenase	1.2.1.83	NADP+	3-Succinoylpyridine	white
+3-succinoylsemialdehyde-pyridine dehydrogenase	1.2.1.83	NADP+	H+	white
+3-succinoylsemialdehyde-pyridine dehydrogenase	1.2.1.83	NADP+	NADPH	white
+3-succinoylsemialdehyde-pyridine dehydrogenase	1.2.1.83	NADPH	4-Oxo-1-(3-pyridyl)-1-butanone	white
+3-succinoylsemialdehyde-pyridine dehydrogenase	1.2.1.83	NADPH	H2O	white
+3-succinoylsemialdehyde-pyridine dehydrogenase	1.2.1.83	NADPH	NADP+	white
+4-methylaminobutanoate oxidase (formaldehyde-forming)	1.5.3.19	4-Aminobutanoate	4-Methylaminobutyrate	white
+4-methylaminobutanoate oxidase (formaldehyde-forming)	1.5.3.19	4-Aminobutanoate	H2O	white
+4-methylaminobutanoate oxidase (formaldehyde-forming)	1.5.3.19	4-Aminobutanoate	Oxygen	white
+4-methylaminobutanoate oxidase (formaldehyde-forming)	1.5.3.19	4-Methylaminobutyrate	4-Aminobutanoate	white
+4-methylaminobutanoate oxidase (formaldehyde-forming)	1.5.3.19	4-Methylaminobutyrate	Formaldehyde	white
+4-methylaminobutanoate oxidase (formaldehyde-forming)	1.5.3.19	4-Methylaminobutyrate	Hydrogen peroxide	white
+4-methylaminobutanoate oxidase (formaldehyde-forming)	1.5.3.19	Formaldehyde	4-Methylaminobutyrate	white
+4-methylaminobutanoate oxidase (formaldehyde-forming)	1.5.3.19	Formaldehyde	H2O	white
+4-methylaminobutanoate oxidase (formaldehyde-forming)	1.5.3.19	Formaldehyde	Oxygen	white
+4-methylaminobutanoate oxidase (formaldehyde-forming)	1.5.3.19	H2O	4-Aminobutanoate	white
+4-methylaminobutanoate oxidase (formaldehyde-forming)	1.5.3.19	H2O	Formaldehyde	white
+4-methylaminobutanoate oxidase (formaldehyde-forming)	1.5.3.19	H2O	Hydrogen peroxide	white
+4-methylaminobutanoate oxidase (formaldehyde-forming)	1.5.3.19	Hydrogen peroxide	4-Methylaminobutyrate	white
+4-methylaminobutanoate oxidase (formaldehyde-forming)	1.5.3.19	Hydrogen peroxide	H2O	white
+4-methylaminobutanoate oxidase (formaldehyde-forming)	1.5.3.19	Hydrogen peroxide	Oxygen	white
+4-methylaminobutanoate oxidase (formaldehyde-forming)	1.5.3.19	Oxygen	4-Aminobutanoate	white
+4-methylaminobutanoate oxidase (formaldehyde-forming)	1.5.3.19	Oxygen	Formaldehyde	white
+4-methylaminobutanoate oxidase (formaldehyde-forming)	1.5.3.19	Oxygen	Hydrogen peroxide	white
+4-methylaminobutanoate oxidase (methylamine-forming)	1.5.3.21	4-Methylaminobutyrate	Hydrogen peroxide	white
+4-methylaminobutanoate oxidase (methylamine-forming)	1.5.3.21	4-Methylaminobutyrate	Methylamine	white
+4-methylaminobutanoate oxidase (methylamine-forming)	1.5.3.21	4-Methylaminobutyrate	Succinate semialdehyde	white
+4-methylaminobutanoate oxidase (methylamine-forming)	1.5.3.21	H2O	Hydrogen peroxide	white
+4-methylaminobutanoate oxidase (methylamine-forming)	1.5.3.21	H2O	Methylamine	white
+4-methylaminobutanoate oxidase (methylamine-forming)	1.5.3.21	H2O	Succinate semialdehyde	white
+4-methylaminobutanoate oxidase (methylamine-forming)	1.5.3.21	Hydrogen peroxide	4-Methylaminobutyrate	white
+4-methylaminobutanoate oxidase (methylamine-forming)	1.5.3.21	Hydrogen peroxide	H2O	white
+4-methylaminobutanoate oxidase (methylamine-forming)	1.5.3.21	Hydrogen peroxide	Oxygen	white
+4-methylaminobutanoate oxidase (methylamine-forming)	1.5.3.21	Methylamine	4-Methylaminobutyrate	white
+4-methylaminobutanoate oxidase (methylamine-forming)	1.5.3.21	Methylamine	H2O	white
+4-methylaminobutanoate oxidase (methylamine-forming)	1.5.3.21	Methylamine	Oxygen	white
+4-methylaminobutanoate oxidase (methylamine-forming)	1.5.3.21	Oxygen	Hydrogen peroxide	white
+4-methylaminobutanoate oxidase (methylamine-forming)	1.5.3.21	Oxygen	Methylamine	white
+4-methylaminobutanoate oxidase (methylamine-forming)	1.5.3.21	Oxygen	Succinate semialdehyde	white
+4-methylaminobutanoate oxidase (methylamine-forming)	1.5.3.21	Succinate semialdehyde	4-Methylaminobutyrate	white
+4-methylaminobutanoate oxidase (methylamine-forming)	1.5.3.21	Succinate semialdehyde	H2O	white
+4-methylaminobutanoate oxidase (methylamine-forming)	1.5.3.21	Succinate semialdehyde	Oxygen	white
+5'-nucleotidase	3.1.3.5	H2O	Nicotinamide-beta-riboside	green
+5'-nucleotidase	3.1.3.5	H2O	Nicotinate D-ribonucleoside	green
+5'-nucleotidase	3.1.3.5	H2O	Orthophosphate	green
+5'-nucleotidase	3.1.3.5	Nicotinamide D-ribonucleotide	Nicotinamide-beta-riboside	green
+5'-nucleotidase	3.1.3.5	Nicotinamide D-ribonucleotide	Orthophosphate	green
+5'-nucleotidase	3.1.3.5	Nicotinate D-ribonucleotide	Nicotinate D-ribonucleoside	green
+5'-nucleotidase	3.1.3.5	Nicotinate D-ribonucleotide	Orthophosphate	green
+6-hydroxy-3-succinoylpyridine 3-monooxygenase	1.14.13.163	2,5-Dihydroxypyridine	6-Hydroxy-3-succinoylpyridine	white
+6-hydroxy-3-succinoylpyridine 3-monooxygenase	1.14.13.163	2,5-Dihydroxypyridine	H+	white
+6-hydroxy-3-succinoylpyridine 3-monooxygenase	1.14.13.163	2,5-Dihydroxypyridine	NADH	white
+6-hydroxy-3-succinoylpyridine 3-monooxygenase	1.14.13.163	2,5-Dihydroxypyridine	Oxygen	white
+6-hydroxy-3-succinoylpyridine 3-monooxygenase	1.14.13.163	6-Hydroxy-3-succinoylpyridine	2,5-Dihydroxypyridine	white
+6-hydroxy-3-succinoylpyridine 3-monooxygenase	1.14.13.163	6-Hydroxy-3-succinoylpyridine	H2O	white
+6-hydroxy-3-succinoylpyridine 3-monooxygenase	1.14.13.163	6-Hydroxy-3-succinoylpyridine	NAD+	white
+6-hydroxy-3-succinoylpyridine 3-monooxygenase	1.14.13.163	6-Hydroxy-3-succinoylpyridine	Succinate semialdehyde	white
+6-hydroxy-3-succinoylpyridine 3-monooxygenase	1.14.13.163	H+	2,5-Dihydroxypyridine	white
+6-hydroxy-3-succinoylpyridine 3-monooxygenase	1.14.13.163	H+	H2O	white
+6-hydroxy-3-succinoylpyridine 3-monooxygenase	1.14.13.163	H+	NAD+	white
+6-hydroxy-3-succinoylpyridine 3-monooxygenase	1.14.13.163	H+	Succinate semialdehyde	white
+6-hydroxy-3-succinoylpyridine 3-monooxygenase	1.14.13.163	H2O	6-Hydroxy-3-succinoylpyridine	white
+6-hydroxy-3-succinoylpyridine 3-monooxygenase	1.14.13.163	H2O	H+	white
+6-hydroxy-3-succinoylpyridine 3-monooxygenase	1.14.13.163	H2O	NADH	white
+6-hydroxy-3-succinoylpyridine 3-monooxygenase	1.14.13.163	H2O	Oxygen	white
+6-hydroxy-3-succinoylpyridine 3-monooxygenase	1.14.13.163	NAD+	6-Hydroxy-3-succinoylpyridine	white
+6-hydroxy-3-succinoylpyridine 3-monooxygenase	1.14.13.163	NAD+	H+	white
+6-hydroxy-3-succinoylpyridine 3-monooxygenase	1.14.13.163	NAD+	NADH	white
+6-hydroxy-3-succinoylpyridine 3-monooxygenase	1.14.13.163	NAD+	Oxygen	white
+6-hydroxy-3-succinoylpyridine 3-monooxygenase	1.14.13.163	NADH	2,5-Dihydroxypyridine	white
+6-hydroxy-3-succinoylpyridine 3-monooxygenase	1.14.13.163	NADH	H2O	white
+6-hydroxy-3-succinoylpyridine 3-monooxygenase	1.14.13.163	NADH	NAD+	white
+6-hydroxy-3-succinoylpyridine 3-monooxygenase	1.14.13.163	NADH	Succinate semialdehyde	white
+6-hydroxy-3-succinoylpyridine 3-monooxygenase	1.14.13.163	Oxygen	2,5-Dihydroxypyridine	white
+6-hydroxy-3-succinoylpyridine 3-monooxygenase	1.14.13.163	Oxygen	H2O	white
+6-hydroxy-3-succinoylpyridine 3-monooxygenase	1.14.13.163	Oxygen	NAD+	white
+6-hydroxy-3-succinoylpyridine 3-monooxygenase	1.14.13.163	Oxygen	Succinate semialdehyde	white
+6-hydroxy-3-succinoylpyridine 3-monooxygenase	1.14.13.163	Succinate semialdehyde	6-Hydroxy-3-succinoylpyridine	white
+6-hydroxy-3-succinoylpyridine 3-monooxygenase	1.14.13.163	Succinate semialdehyde	H+	white
+6-hydroxy-3-succinoylpyridine 3-monooxygenase	1.14.13.163	Succinate semialdehyde	NADH	white
+6-hydroxy-3-succinoylpyridine 3-monooxygenase	1.14.13.163	Succinate semialdehyde	Oxygen	white
+6-hydroxynicotinate 3-monooxygenase	1.14.13.114	2,5-Dihydroxypyridine	6-Hydroxynicotinate	white
+6-hydroxynicotinate 3-monooxygenase	1.14.13.114	2,5-Dihydroxypyridine	H+	white
+6-hydroxynicotinate 3-monooxygenase	1.14.13.114	2,5-Dihydroxypyridine	NADH	white
+6-hydroxynicotinate 3-monooxygenase	1.14.13.114	2,5-Dihydroxypyridine	Oxygen	white
+6-hydroxynicotinate 3-monooxygenase	1.14.13.114	6-Hydroxynicotinate	2,5-Dihydroxypyridine	white
+6-hydroxynicotinate 3-monooxygenase	1.14.13.114	6-Hydroxynicotinate	CO2	white
+6-hydroxynicotinate 3-monooxygenase	1.14.13.114	6-Hydroxynicotinate	H2O	white
+6-hydroxynicotinate 3-monooxygenase	1.14.13.114	6-Hydroxynicotinate	NAD+	white
+6-hydroxynicotinate 3-monooxygenase	1.14.13.114	CO2	6-Hydroxynicotinate	white
+6-hydroxynicotinate 3-monooxygenase	1.14.13.114	CO2	H+	white
+6-hydroxynicotinate 3-monooxygenase	1.14.13.114	CO2	NADH	white
+6-hydroxynicotinate 3-monooxygenase	1.14.13.114	CO2	Oxygen	white
+6-hydroxynicotinate 3-monooxygenase	1.14.13.114	H+	2,5-Dihydroxypyridine	white
+6-hydroxynicotinate 3-monooxygenase	1.14.13.114	H+	CO2	white
+6-hydroxynicotinate 3-monooxygenase	1.14.13.114	H+	H2O	white
+6-hydroxynicotinate 3-monooxygenase	1.14.13.114	H+	NAD+	white
+6-hydroxynicotinate 3-monooxygenase	1.14.13.114	H2O	6-Hydroxynicotinate	white
+6-hydroxynicotinate 3-monooxygenase	1.14.13.114	H2O	H+	white
+6-hydroxynicotinate 3-monooxygenase	1.14.13.114	H2O	NADH	white
+6-hydroxynicotinate 3-monooxygenase	1.14.13.114	H2O	Oxygen	white
+6-hydroxynicotinate 3-monooxygenase	1.14.13.114	NAD+	6-Hydroxynicotinate	white
+6-hydroxynicotinate 3-monooxygenase	1.14.13.114	NAD+	H+	white
+6-hydroxynicotinate 3-monooxygenase	1.14.13.114	NAD+	NADH	white
+6-hydroxynicotinate 3-monooxygenase	1.14.13.114	NAD+	Oxygen	white
+6-hydroxynicotinate 3-monooxygenase	1.14.13.114	NADH	2,5-Dihydroxypyridine	white
+6-hydroxynicotinate 3-monooxygenase	1.14.13.114	NADH	CO2	white
+6-hydroxynicotinate 3-monooxygenase	1.14.13.114	NADH	H2O	white
+6-hydroxynicotinate 3-monooxygenase	1.14.13.114	NADH	NAD+	white
+6-hydroxynicotinate 3-monooxygenase	1.14.13.114	Oxygen	2,5-Dihydroxypyridine	white
+6-hydroxynicotinate 3-monooxygenase	1.14.13.114	Oxygen	CO2	white
+6-hydroxynicotinate 3-monooxygenase	1.14.13.114	Oxygen	H2O	white
+6-hydroxynicotinate 3-monooxygenase	1.14.13.114	Oxygen	NAD+	white
+6-hydroxynicotinate reductase	1.3.7.1	6-Hydroxynicotinate	6-Oxo-1,4,5,6-tetrahydronicotinate	white
+6-hydroxynicotinate reductase	1.3.7.1	6-Hydroxynicotinate	Oxidized ferredoxin	white
+6-hydroxynicotinate reductase	1.3.7.1	6-Oxo-1,4,5,6-tetrahydronicotinate	6-Hydroxynicotinate	white
+6-hydroxynicotinate reductase	1.3.7.1	6-Oxo-1,4,5,6-tetrahydronicotinate	Reduced ferredoxin	white
+6-hydroxynicotinate reductase	1.3.7.1	Oxidized ferredoxin	6-Hydroxynicotinate	white
+6-hydroxynicotinate reductase	1.3.7.1	Oxidized ferredoxin	Reduced ferredoxin	white
+6-hydroxynicotinate reductase	1.3.7.1	Reduced ferredoxin	6-Oxo-1,4,5,6-tetrahydronicotinate	white
+6-hydroxynicotinate reductase	1.3.7.1	Reduced ferredoxin	Oxidized ferredoxin	white
+6-hydroxypseudooxynicotine dehydrogenase subunit alpha	1.5.99.14	6-Hydroxypseudooxynicotine	2,6-Dihydroxypseudooxynicotine	green
+6-hydroxypseudooxynicotine dehydrogenase subunit alpha	1.5.99.14	6-Hydroxypseudooxynicotine	Reduced acceptor	green
+6-hydroxypseudooxynicotine dehydrogenase subunit alpha	1.5.99.14	Acceptor	2,6-Dihydroxypseudooxynicotine	green
+6-hydroxypseudooxynicotine dehydrogenase subunit alpha	1.5.99.14	Acceptor	Reduced acceptor	green
+6-hydroxypseudooxynicotine dehydrogenase subunit alpha	1.5.99.14	H2O	2,6-Dihydroxypseudooxynicotine	green
+6-hydroxypseudooxynicotine dehydrogenase subunit alpha	1.5.99.14	H2O	Reduced acceptor	green
+6-hydroxypseudooxynicotine dehydrogenase subunit beta	1.5.99.14	6-Hydroxypseudooxynicotine	2,6-Dihydroxypseudooxynicotine	green
+6-hydroxypseudooxynicotine dehydrogenase subunit beta	1.5.99.14	6-Hydroxypseudooxynicotine	Reduced acceptor	green
+6-hydroxypseudooxynicotine dehydrogenase subunit beta	1.5.99.14	Acceptor	2,6-Dihydroxypseudooxynicotine	green
+6-hydroxypseudooxynicotine dehydrogenase subunit beta	1.5.99.14	Acceptor	Reduced acceptor	green
+6-hydroxypseudooxynicotine dehydrogenase subunit beta	1.5.99.14	H2O	2,6-Dihydroxypseudooxynicotine	green
+6-hydroxypseudooxynicotine dehydrogenase subunit beta	1.5.99.14	H2O	Reduced acceptor	green
+6-hydroxypseudooxynicotine dehydrogenase subunit gamma	1.5.99.14	6-Hydroxypseudooxynicotine	2,6-Dihydroxypseudooxynicotine	green
+6-hydroxypseudooxynicotine dehydrogenase subunit gamma	1.5.99.14	6-Hydroxypseudooxynicotine	Reduced acceptor	green
+6-hydroxypseudooxynicotine dehydrogenase subunit gamma	1.5.99.14	Acceptor	2,6-Dihydroxypseudooxynicotine	green
+6-hydroxypseudooxynicotine dehydrogenase subunit gamma	1.5.99.14	Acceptor	Reduced acceptor	green
+6-hydroxypseudooxynicotine dehydrogenase subunit gamma	1.5.99.14	H2O	2,6-Dihydroxypseudooxynicotine	green
+6-hydroxypseudooxynicotine dehydrogenase subunit gamma	1.5.99.14	H2O	Reduced acceptor	green
+ADP-ribosyl cyclase 1	3.2.2.6	ADP-ribose	H2O	white
+ADP-ribosyl cyclase 1	3.2.2.6	ADP-ribose	NAD+	white
+ADP-ribosyl cyclase 1	3.2.2.6	H2O	ADP-ribose	white
+ADP-ribosyl cyclase 1	3.2.2.6	H2O	Nicotinamide	white
+ADP-ribosyl cyclase 1	3.2.2.6	NAD+	ADP-ribose	white
+ADP-ribosyl cyclase 1	3.2.2.6	NAD+	Nicotinamide	white
+ADP-ribosyl cyclase 1	3.2.2.6	Nicotinamide	H2O	white
+ADP-ribosyl cyclase 1	3.2.2.6	Nicotinamide	NAD+	white
+ADP-ribosyl cyclase 2	3.2.2.6	ADP-ribose	H2O	white
+ADP-ribosyl cyclase 2	3.2.2.6	ADP-ribose	NAD+	white
+ADP-ribosyl cyclase 2	3.2.2.6	H2O	ADP-ribose	white
+ADP-ribosyl cyclase 2	3.2.2.6	H2O	Nicotinamide	white
+ADP-ribosyl cyclase 2	3.2.2.6	NAD+	ADP-ribose	white
+ADP-ribosyl cyclase 2	3.2.2.6	NAD+	Nicotinamide	white
+ADP-ribosyl cyclase 2	3.2.2.6	Nicotinamide	H2O	white
+ADP-ribosyl cyclase 2	3.2.2.6	Nicotinamide	NAD+	white
+ADP-ribosyltransferase 2 / NAD+ glycohydrolase	2.4.2.31	ADP-ribose	H2O	white
+ADP-ribosyltransferase 2 / NAD+ glycohydrolase	2.4.2.31	ADP-ribose	NAD+	white
+ADP-ribosyltransferase 2 / NAD+ glycohydrolase	2.4.2.31	H2O	ADP-ribose	white
+ADP-ribosyltransferase 2 / NAD+ glycohydrolase	2.4.2.31	H2O	Nicotinamide	white
+ADP-ribosyltransferase 2 / NAD+ glycohydrolase	2.4.2.31	NAD+	ADP-ribose	white
+ADP-ribosyltransferase 2 / NAD+ glycohydrolase	2.4.2.31	NAD+	Nicotinamide	white
+ADP-ribosyltransferase 2 / NAD+ glycohydrolase	2.4.2.31	Nicotinamide	H2O	white
+ADP-ribosyltransferase 2 / NAD+ glycohydrolase	2.4.2.31	Nicotinamide	NAD+	white
+HTH-type transcriptional regulator, transcriptional repressor of NAD biosynthesis genes	2.7.7.1	ATP	Diphosphate	white
+HTH-type transcriptional regulator, transcriptional repressor of NAD biosynthesis genes	2.7.7.1	ATP	NAD+	white
+HTH-type transcriptional regulator, transcriptional repressor of NAD biosynthesis genes	2.7.7.1	Diphosphate	ATP	white
+HTH-type transcriptional regulator, transcriptional repressor of NAD biosynthesis genes	2.7.7.1	Diphosphate	Nicotinamide D-ribonucleotide	white
+HTH-type transcriptional regulator, transcriptional repressor of NAD biosynthesis genes	2.7.7.1	NAD+	ATP	white
+HTH-type transcriptional regulator, transcriptional repressor of NAD biosynthesis genes	2.7.7.1	NAD+	Nicotinamide D-ribonucleotide	white
+HTH-type transcriptional regulator, transcriptional repressor of NAD biosynthesis genes	2.7.7.1	Nicotinamide D-ribonucleotide	Diphosphate	white
+HTH-type transcriptional regulator, transcriptional repressor of NAD biosynthesis genes	2.7.7.1	Nicotinamide D-ribonucleotide	NAD+	white
+IMP and pyridine-specific 5'-nucleotidase	3.1.3.99	H2O	Inosine	white
+IMP and pyridine-specific 5'-nucleotidase	3.1.3.99	H2O	Orthophosphate	white
+IMP and pyridine-specific 5'-nucleotidase	3.1.3.99	IMP	Inosine	white
+IMP and pyridine-specific 5'-nucleotidase	3.1.3.99	IMP	Orthophosphate	white
+IMP and pyridine-specific 5'-nucleotidase	3.1.3.99	Inosine	H2O	white
+IMP and pyridine-specific 5'-nucleotidase	3.1.3.99	Inosine	IMP	white
+IMP and pyridine-specific 5'-nucleotidase	3.1.3.99	Orthophosphate	H2O	white
+IMP and pyridine-specific 5'-nucleotidase	3.1.3.99	Orthophosphate	IMP	white
+L-aspartate oxidase	1.4.3.16	L-Aspartate	Hydrogen peroxide	green
+L-aspartate oxidase	1.4.3.16	L-Aspartate	Iminoaspartate	green
+L-aspartate oxidase	1.4.3.16	Oxygen	Hydrogen peroxide	green
+L-aspartate oxidase	1.4.3.16	Oxygen	Iminoaspartate	green
+N-formylmaleamate deformylase	3.5.1.106	H2O	Formate	green
+N-formylmaleamate deformylase	3.5.1.106	H2O	Maleamate	green
+N-formylmaleamate deformylase	3.5.1.106	N-Formylmaleamic acid	Formate	green
+N-formylmaleamate deformylase	3.5.1.106	N-Formylmaleamic acid	Maleamate	green
+NAD(+) hydrolase SARM1	3.2.2.6	ADP-ribose	H2O	white
+NAD(+) hydrolase SARM1	3.2.2.6	ADP-ribose	NAD+	white
+NAD(+) hydrolase SARM1	3.2.2.6	H2O	ADP-ribose	white
+NAD(+) hydrolase SARM1	3.2.2.6	H2O	Nicotinamide	white
+NAD(+) hydrolase SARM1	3.2.2.6	NAD+	ADP-ribose	white
+NAD(+) hydrolase SARM1	3.2.2.6	NAD+	Nicotinamide	white
+NAD(+) hydrolase SARM1	3.2.2.6	Nicotinamide	H2O	white
+NAD(+) hydrolase SARM1	3.2.2.6	Nicotinamide	NAD+	white
+NAD(P) transhydrogenase	1.6.1.1	NAD+	NADH	white
+NAD(P) transhydrogenase	1.6.1.1	NAD+	NADP+	white
+NAD(P) transhydrogenase	1.6.1.1	NADH	NAD+	white
+NAD(P) transhydrogenase	1.6.1.1	NADH	NADPH	white
+NAD(P) transhydrogenase	1.6.1.1	NADP+	NAD+	white
+NAD(P) transhydrogenase	1.6.1.1	NADP+	NADPH	white
+NAD(P) transhydrogenase	1.6.1.1	NADPH	NADH	white
+NAD(P) transhydrogenase	1.6.1.1	NADPH	NADP+	white
+NAD(P)(+) glycohydrolase toxin Tse6	3.2.2.5	ADP-ribose	H2O	white
+NAD(P)(+) glycohydrolase toxin Tse6	3.2.2.5	ADP-ribose	NAD+	white
+NAD(P)(+) glycohydrolase toxin Tse6	3.2.2.5	H2O	ADP-ribose	white
+NAD(P)(+) glycohydrolase toxin Tse6	3.2.2.5	H2O	Nicotinamide	white
+NAD(P)(+) glycohydrolase toxin Tse6	3.2.2.5	NAD+	ADP-ribose	white
+NAD(P)(+) glycohydrolase toxin Tse6	3.2.2.5	NAD+	Nicotinamide	white
+NAD(P)(+) glycohydrolase toxin Tse6	3.2.2.5	Nicotinamide	H2O	white
+NAD(P)(+) glycohydrolase toxin Tse6	3.2.2.5	Nicotinamide	NAD+	white
+NAD+ diphosphatase	3.6.1.22	Deamino-NAD+	AMP	green
+NAD+ diphosphatase	3.6.1.22	Deamino-NAD+	Nicotinate D-ribonucleotide	green
+NAD+ diphosphatase	3.6.1.22	H2O	AMP	green
+NAD+ diphosphatase	3.6.1.22	H2O	Nicotinamide D-ribonucleotide	green
+NAD+ diphosphatase	3.6.1.22	H2O	Nicotinate D-ribonucleotide	green
+NAD+ diphosphatase	3.6.1.22	NAD+	AMP	green
+NAD+ diphosphatase	3.6.1.22	NAD+	Nicotinamide D-ribonucleotide	green
+NAD+ glycohydrolase	3.2.2.5	ADP-ribose	H2O	white
+NAD+ glycohydrolase	3.2.2.5	ADP-ribose	NAD+	white
+NAD+ glycohydrolase	3.2.2.5	H2O	ADP-ribose	white
+NAD+ glycohydrolase	3.2.2.5	H2O	Nicotinamide	white
+NAD+ glycohydrolase	3.2.2.5	NAD+	ADP-ribose	white
+NAD+ glycohydrolase	3.2.2.5	NAD+	Nicotinamide	white
+NAD+ glycohydrolase	3.2.2.5	Nicotinamide	H2O	white
+NAD+ glycohydrolase	3.2.2.5	Nicotinamide	NAD+	white
+NAD+ kinase	2.7.1.23	ATP	ADP	green
+NAD+ kinase	2.7.1.23	ATP	NADP+	green
+NAD+ kinase	2.7.1.23	NAD+	ADP	green
+NAD+ kinase	2.7.1.23	NAD+	NADP+	green
+NAD+ synthase	6.3.1.5	ATP	AMP	green
+NAD+ synthase	6.3.1.5	ATP	Diphosphate	green
+NAD+ synthase	6.3.1.5	ATP	NAD+	green
+NAD+ synthase	6.3.1.5	Ammonia	AMP	green
+NAD+ synthase	6.3.1.5	Ammonia	Diphosphate	green
+NAD+ synthase	6.3.1.5	Ammonia	NAD+	green
+NAD+ synthase	6.3.1.5	Deamino-NAD+	AMP	green
+NAD+ synthase	6.3.1.5	Deamino-NAD+	Diphosphate	green
+NAD+ synthase	6.3.1.5	Deamino-NAD+	NAD+	green
+NAD+ synthase (glutamine-hydrolysing)	6.3.5.1	AMP	ATP	white
+NAD+ synthase (glutamine-hydrolysing)	6.3.5.1	AMP	Deamino-NAD+	white
+NAD+ synthase (glutamine-hydrolysing)	6.3.5.1	AMP	H2O	white
+NAD+ synthase (glutamine-hydrolysing)	6.3.5.1	AMP	L-Glutamine	white
+NAD+ synthase (glutamine-hydrolysing)	6.3.5.1	ATP	AMP	white
+NAD+ synthase (glutamine-hydrolysing)	6.3.5.1	ATP	Diphosphate	white
+NAD+ synthase (glutamine-hydrolysing)	6.3.5.1	ATP	L-Glutamate	white
+NAD+ synthase (glutamine-hydrolysing)	6.3.5.1	ATP	NAD+	white
+NAD+ synthase (glutamine-hydrolysing)	6.3.5.1	Deamino-NAD+	AMP	white
+NAD+ synthase (glutamine-hydrolysing)	6.3.5.1	Deamino-NAD+	Diphosphate	white
+NAD+ synthase (glutamine-hydrolysing)	6.3.5.1	Deamino-NAD+	L-Glutamate	white
+NAD+ synthase (glutamine-hydrolysing)	6.3.5.1	Deamino-NAD+	NAD+	white
+NAD+ synthase (glutamine-hydrolysing)	6.3.5.1	Diphosphate	ATP	white
+NAD+ synthase (glutamine-hydrolysing)	6.3.5.1	Diphosphate	Deamino-NAD+	white
+NAD+ synthase (glutamine-hydrolysing)	6.3.5.1	Diphosphate	H2O	white
+NAD+ synthase (glutamine-hydrolysing)	6.3.5.1	Diphosphate	L-Glutamine	white
+NAD+ synthase (glutamine-hydrolysing)	6.3.5.1	H2O	AMP	white
+NAD+ synthase (glutamine-hydrolysing)	6.3.5.1	H2O	Diphosphate	white
+NAD+ synthase (glutamine-hydrolysing)	6.3.5.1	H2O	L-Glutamate	white
+NAD+ synthase (glutamine-hydrolysing)	6.3.5.1	H2O	NAD+	white
+NAD+ synthase (glutamine-hydrolysing)	6.3.5.1	L-Glutamate	ATP	white
+NAD+ synthase (glutamine-hydrolysing)	6.3.5.1	L-Glutamate	Deamino-NAD+	white
+NAD+ synthase (glutamine-hydrolysing)	6.3.5.1	L-Glutamate	H2O	white
+NAD+ synthase (glutamine-hydrolysing)	6.3.5.1	L-Glutamate	L-Glutamine	white
+NAD+ synthase (glutamine-hydrolysing)	6.3.5.1	L-Glutamine	AMP	white
+NAD+ synthase (glutamine-hydrolysing)	6.3.5.1	L-Glutamine	Diphosphate	white
+NAD+ synthase (glutamine-hydrolysing)	6.3.5.1	L-Glutamine	L-Glutamate	white
+NAD+ synthase (glutamine-hydrolysing)	6.3.5.1	L-Glutamine	NAD+	white
+NAD+ synthase (glutamine-hydrolysing)	6.3.5.1	NAD+	ATP	white
+NAD+ synthase (glutamine-hydrolysing)	6.3.5.1	NAD+	Deamino-NAD+	white
+NAD+ synthase (glutamine-hydrolysing)	6.3.5.1	NAD+	H2O	white
+NAD+ synthase (glutamine-hydrolysing)	6.3.5.1	NAD+	L-Glutamine	white
+NAD-dependent protein deacetylase SIR2	2.3.1.286	H+	H2O	white
+NAD-dependent protein deacetylase SIR2	2.3.1.286	H+	Histone N6-acetyl-L-lysine	white
+NAD-dependent protein deacetylase SIR2	2.3.1.286	H+	NAD+	white
+NAD-dependent protein deacetylase SIR2	2.3.1.286	H2O	H+	white
+NAD-dependent protein deacetylase SIR2	2.3.1.286	H2O	Histone-L-lysine	white
+NAD-dependent protein deacetylase SIR2	2.3.1.286	H2O	Nicotinamide	white
+NAD-dependent protein deacetylase SIR2	2.3.1.286	H2O	O-Acetyl-ADP-ribose	white
+NAD-dependent protein deacetylase SIR2	2.3.1.286	Histone N6-acetyl-L-lysine	H+	white
+NAD-dependent protein deacetylase SIR2	2.3.1.286	Histone N6-acetyl-L-lysine	Histone-L-lysine	white
+NAD-dependent protein deacetylase SIR2	2.3.1.286	Histone N6-acetyl-L-lysine	Nicotinamide	white
+NAD-dependent protein deacetylase SIR2	2.3.1.286	Histone N6-acetyl-L-lysine	O-Acetyl-ADP-ribose	white
+NAD-dependent protein deacetylase SIR2	2.3.1.286	Histone-L-lysine	H2O	white
+NAD-dependent protein deacetylase SIR2	2.3.1.286	Histone-L-lysine	Histone N6-acetyl-L-lysine	white
+NAD-dependent protein deacetylase SIR2	2.3.1.286	Histone-L-lysine	NAD+	white
+NAD-dependent protein deacetylase SIR2	2.3.1.286	NAD+	H+	white
+NAD-dependent protein deacetylase SIR2	2.3.1.286	NAD+	Histone-L-lysine	white
+NAD-dependent protein deacetylase SIR2	2.3.1.286	NAD+	Nicotinamide	white
+NAD-dependent protein deacetylase SIR2	2.3.1.286	NAD+	O-Acetyl-ADP-ribose	white
+NAD-dependent protein deacetylase SIR2	2.3.1.286	Nicotinamide	H2O	white
+NAD-dependent protein deacetylase SIR2	2.3.1.286	Nicotinamide	Histone N6-acetyl-L-lysine	white
+NAD-dependent protein deacetylase SIR2	2.3.1.286	Nicotinamide	NAD+	white
+NAD-dependent protein deacetylase SIR2	2.3.1.286	O-Acetyl-ADP-ribose	H2O	white
+NAD-dependent protein deacetylase SIR2	2.3.1.286	O-Acetyl-ADP-ribose	Histone N6-acetyl-L-lysine	white
+NAD-dependent protein deacetylase SIR2	2.3.1.286	O-Acetyl-ADP-ribose	NAD+	white
+NAD-dependent protein deacetylase sirtuin 1	2.3.1.286	H+	H2O	white
+NAD-dependent protein deacetylase sirtuin 1	2.3.1.286	H+	Histone N6-acetyl-L-lysine	white
+NAD-dependent protein deacetylase sirtuin 1	2.3.1.286	H+	NAD+	white
+NAD-dependent protein deacetylase sirtuin 1	2.3.1.286	H2O	H+	white
+NAD-dependent protein deacetylase sirtuin 1	2.3.1.286	H2O	Histone-L-lysine	white
+NAD-dependent protein deacetylase sirtuin 1	2.3.1.286	H2O	Nicotinamide	white
+NAD-dependent protein deacetylase sirtuin 1	2.3.1.286	H2O	O-Acetyl-ADP-ribose	white
+NAD-dependent protein deacetylase sirtuin 1	2.3.1.286	Histone N6-acetyl-L-lysine	H+	white
+NAD-dependent protein deacetylase sirtuin 1	2.3.1.286	Histone N6-acetyl-L-lysine	Histone-L-lysine	white
+NAD-dependent protein deacetylase sirtuin 1	2.3.1.286	Histone N6-acetyl-L-lysine	Nicotinamide	white
+NAD-dependent protein deacetylase sirtuin 1	2.3.1.286	Histone N6-acetyl-L-lysine	O-Acetyl-ADP-ribose	white
+NAD-dependent protein deacetylase sirtuin 1	2.3.1.286	Histone-L-lysine	H2O	white
+NAD-dependent protein deacetylase sirtuin 1	2.3.1.286	Histone-L-lysine	Histone N6-acetyl-L-lysine	white
+NAD-dependent protein deacetylase sirtuin 1	2.3.1.286	Histone-L-lysine	NAD+	white
+NAD-dependent protein deacetylase sirtuin 1	2.3.1.286	NAD+	H+	white
+NAD-dependent protein deacetylase sirtuin 1	2.3.1.286	NAD+	Histone-L-lysine	white
+NAD-dependent protein deacetylase sirtuin 1	2.3.1.286	NAD+	Nicotinamide	white
+NAD-dependent protein deacetylase sirtuin 1	2.3.1.286	NAD+	O-Acetyl-ADP-ribose	white
+NAD-dependent protein deacetylase sirtuin 1	2.3.1.286	Nicotinamide	H2O	white
+NAD-dependent protein deacetylase sirtuin 1	2.3.1.286	Nicotinamide	Histone N6-acetyl-L-lysine	white
+NAD-dependent protein deacetylase sirtuin 1	2.3.1.286	Nicotinamide	NAD+	white
+NAD-dependent protein deacetylase sirtuin 1	2.3.1.286	O-Acetyl-ADP-ribose	H2O	white
+NAD-dependent protein deacetylase sirtuin 1	2.3.1.286	O-Acetyl-ADP-ribose	Histone N6-acetyl-L-lysine	white
+NAD-dependent protein deacetylase sirtuin 1	2.3.1.286	O-Acetyl-ADP-ribose	NAD+	white
+NAD-dependent protein deacetylase sirtuin 2	2.3.1.286	H+	H2O	white
+NAD-dependent protein deacetylase sirtuin 2	2.3.1.286	H+	Histone N6-acetyl-L-lysine	white
+NAD-dependent protein deacetylase sirtuin 2	2.3.1.286	H+	NAD+	white
+NAD-dependent protein deacetylase sirtuin 2	2.3.1.286	H2O	H+	white
+NAD-dependent protein deacetylase sirtuin 2	2.3.1.286	H2O	Histone-L-lysine	white
+NAD-dependent protein deacetylase sirtuin 2	2.3.1.286	H2O	Nicotinamide	white
+NAD-dependent protein deacetylase sirtuin 2	2.3.1.286	H2O	O-Acetyl-ADP-ribose	white
+NAD-dependent protein deacetylase sirtuin 2	2.3.1.286	Histone N6-acetyl-L-lysine	H+	white
+NAD-dependent protein deacetylase sirtuin 2	2.3.1.286	Histone N6-acetyl-L-lysine	Histone-L-lysine	white
+NAD-dependent protein deacetylase sirtuin 2	2.3.1.286	Histone N6-acetyl-L-lysine	Nicotinamide	white
+NAD-dependent protein deacetylase sirtuin 2	2.3.1.286	Histone N6-acetyl-L-lysine	O-Acetyl-ADP-ribose	white
+NAD-dependent protein deacetylase sirtuin 2	2.3.1.286	Histone-L-lysine	H2O	white
+NAD-dependent protein deacetylase sirtuin 2	2.3.1.286	Histone-L-lysine	Histone N6-acetyl-L-lysine	white
+NAD-dependent protein deacetylase sirtuin 2	2.3.1.286	Histone-L-lysine	NAD+	white
+NAD-dependent protein deacetylase sirtuin 2	2.3.1.286	NAD+	H+	white
+NAD-dependent protein deacetylase sirtuin 2	2.3.1.286	NAD+	Histone-L-lysine	white
+NAD-dependent protein deacetylase sirtuin 2	2.3.1.286	NAD+	Nicotinamide	white
+NAD-dependent protein deacetylase sirtuin 2	2.3.1.286	NAD+	O-Acetyl-ADP-ribose	white
+NAD-dependent protein deacetylase sirtuin 2	2.3.1.286	Nicotinamide	H2O	white
+NAD-dependent protein deacetylase sirtuin 2	2.3.1.286	Nicotinamide	Histone N6-acetyl-L-lysine	white
+NAD-dependent protein deacetylase sirtuin 2	2.3.1.286	Nicotinamide	NAD+	white
+NAD-dependent protein deacetylase sirtuin 2	2.3.1.286	O-Acetyl-ADP-ribose	H2O	white
+NAD-dependent protein deacetylase sirtuin 2	2.3.1.286	O-Acetyl-ADP-ribose	Histone N6-acetyl-L-lysine	white
+NAD-dependent protein deacetylase sirtuin 2	2.3.1.286	O-Acetyl-ADP-ribose	NAD+	white
+NAD-dependent protein deacetylase sirtuin 3	2.3.1.286	H+	H2O	white
+NAD-dependent protein deacetylase sirtuin 3	2.3.1.286	H+	Histone N6-acetyl-L-lysine	white
+NAD-dependent protein deacetylase sirtuin 3	2.3.1.286	H+	NAD+	white
+NAD-dependent protein deacetylase sirtuin 3	2.3.1.286	H2O	H+	white
+NAD-dependent protein deacetylase sirtuin 3	2.3.1.286	H2O	Histone-L-lysine	white
+NAD-dependent protein deacetylase sirtuin 3	2.3.1.286	H2O	Nicotinamide	white
+NAD-dependent protein deacetylase sirtuin 3	2.3.1.286	H2O	O-Acetyl-ADP-ribose	white
+NAD-dependent protein deacetylase sirtuin 3	2.3.1.286	Histone N6-acetyl-L-lysine	H+	white
+NAD-dependent protein deacetylase sirtuin 3	2.3.1.286	Histone N6-acetyl-L-lysine	Histone-L-lysine	white
+NAD-dependent protein deacetylase sirtuin 3	2.3.1.286	Histone N6-acetyl-L-lysine	Nicotinamide	white
+NAD-dependent protein deacetylase sirtuin 3	2.3.1.286	Histone N6-acetyl-L-lysine	O-Acetyl-ADP-ribose	white
+NAD-dependent protein deacetylase sirtuin 3	2.3.1.286	Histone-L-lysine	H2O	white
+NAD-dependent protein deacetylase sirtuin 3	2.3.1.286	Histone-L-lysine	Histone N6-acetyl-L-lysine	white
+NAD-dependent protein deacetylase sirtuin 3	2.3.1.286	Histone-L-lysine	NAD+	white
+NAD-dependent protein deacetylase sirtuin 3	2.3.1.286	NAD+	H+	white
+NAD-dependent protein deacetylase sirtuin 3	2.3.1.286	NAD+	Histone-L-lysine	white
+NAD-dependent protein deacetylase sirtuin 3	2.3.1.286	NAD+	Nicotinamide	white
+NAD-dependent protein deacetylase sirtuin 3	2.3.1.286	NAD+	O-Acetyl-ADP-ribose	white
+NAD-dependent protein deacetylase sirtuin 3	2.3.1.286	Nicotinamide	H2O	white
+NAD-dependent protein deacetylase sirtuin 3	2.3.1.286	Nicotinamide	Histone N6-acetyl-L-lysine	white
+NAD-dependent protein deacetylase sirtuin 3	2.3.1.286	Nicotinamide	NAD+	white
+NAD-dependent protein deacetylase sirtuin 3	2.3.1.286	O-Acetyl-ADP-ribose	H2O	white
+NAD-dependent protein deacetylase sirtuin 3	2.3.1.286	O-Acetyl-ADP-ribose	Histone N6-acetyl-L-lysine	white
+NAD-dependent protein deacetylase sirtuin 3	2.3.1.286	O-Acetyl-ADP-ribose	NAD+	white
+NAD-dependent protein deacetylase sirtuin 5	2.3.1.286	H+	H2O	white
+NAD-dependent protein deacetylase sirtuin 5	2.3.1.286	H+	Histone N6-acetyl-L-lysine	white
+NAD-dependent protein deacetylase sirtuin 5	2.3.1.286	H+	NAD+	white
+NAD-dependent protein deacetylase sirtuin 5	2.3.1.286	H2O	H+	white
+NAD-dependent protein deacetylase sirtuin 5	2.3.1.286	H2O	Histone-L-lysine	white
+NAD-dependent protein deacetylase sirtuin 5	2.3.1.286	H2O	Nicotinamide	white
+NAD-dependent protein deacetylase sirtuin 5	2.3.1.286	H2O	O-Acetyl-ADP-ribose	white
+NAD-dependent protein deacetylase sirtuin 5	2.3.1.286	Histone N6-acetyl-L-lysine	H+	white
+NAD-dependent protein deacetylase sirtuin 5	2.3.1.286	Histone N6-acetyl-L-lysine	Histone-L-lysine	white
+NAD-dependent protein deacetylase sirtuin 5	2.3.1.286	Histone N6-acetyl-L-lysine	Nicotinamide	white
+NAD-dependent protein deacetylase sirtuin 5	2.3.1.286	Histone N6-acetyl-L-lysine	O-Acetyl-ADP-ribose	white
+NAD-dependent protein deacetylase sirtuin 5	2.3.1.286	Histone-L-lysine	H2O	white
+NAD-dependent protein deacetylase sirtuin 5	2.3.1.286	Histone-L-lysine	Histone N6-acetyl-L-lysine	white
+NAD-dependent protein deacetylase sirtuin 5	2.3.1.286	Histone-L-lysine	NAD+	white
+NAD-dependent protein deacetylase sirtuin 5	2.3.1.286	NAD+	H+	white
+NAD-dependent protein deacetylase sirtuin 5	2.3.1.286	NAD+	Histone-L-lysine	white
+NAD-dependent protein deacetylase sirtuin 5	2.3.1.286	NAD+	Nicotinamide	white
+NAD-dependent protein deacetylase sirtuin 5	2.3.1.286	NAD+	O-Acetyl-ADP-ribose	white
+NAD-dependent protein deacetylase sirtuin 5	2.3.1.286	Nicotinamide	H2O	white
+NAD-dependent protein deacetylase sirtuin 5	2.3.1.286	Nicotinamide	Histone N6-acetyl-L-lysine	white
+NAD-dependent protein deacetylase sirtuin 5	2.3.1.286	Nicotinamide	NAD+	white
+NAD-dependent protein deacetylase sirtuin 5	2.3.1.286	O-Acetyl-ADP-ribose	H2O	white
+NAD-dependent protein deacetylase sirtuin 5	2.3.1.286	O-Acetyl-ADP-ribose	Histone N6-acetyl-L-lysine	white
+NAD-dependent protein deacetylase sirtuin 5	2.3.1.286	O-Acetyl-ADP-ribose	NAD+	white
+NAD-dependent protein deacetylase sirtuin 6	2.3.1.286	H+	H2O	white
+NAD-dependent protein deacetylase sirtuin 6	2.3.1.286	H+	Histone N6-acetyl-L-lysine	white
+NAD-dependent protein deacetylase sirtuin 6	2.3.1.286	H+	NAD+	white
+NAD-dependent protein deacetylase sirtuin 6	2.3.1.286	H2O	H+	white
+NAD-dependent protein deacetylase sirtuin 6	2.3.1.286	H2O	Histone-L-lysine	white
+NAD-dependent protein deacetylase sirtuin 6	2.3.1.286	H2O	Nicotinamide	white
+NAD-dependent protein deacetylase sirtuin 6	2.3.1.286	H2O	O-Acetyl-ADP-ribose	white
+NAD-dependent protein deacetylase sirtuin 6	2.3.1.286	Histone N6-acetyl-L-lysine	H+	white
+NAD-dependent protein deacetylase sirtuin 6	2.3.1.286	Histone N6-acetyl-L-lysine	Histone-L-lysine	white
+NAD-dependent protein deacetylase sirtuin 6	2.3.1.286	Histone N6-acetyl-L-lysine	Nicotinamide	white
+NAD-dependent protein deacetylase sirtuin 6	2.3.1.286	Histone N6-acetyl-L-lysine	O-Acetyl-ADP-ribose	white
+NAD-dependent protein deacetylase sirtuin 6	2.3.1.286	Histone-L-lysine	H2O	white
+NAD-dependent protein deacetylase sirtuin 6	2.3.1.286	Histone-L-lysine	Histone N6-acetyl-L-lysine	white
+NAD-dependent protein deacetylase sirtuin 6	2.3.1.286	Histone-L-lysine	NAD+	white
+NAD-dependent protein deacetylase sirtuin 6	2.3.1.286	NAD+	H+	white
+NAD-dependent protein deacetylase sirtuin 6	2.3.1.286	NAD+	Histone-L-lysine	white
+NAD-dependent protein deacetylase sirtuin 6	2.3.1.286	NAD+	Nicotinamide	white
+NAD-dependent protein deacetylase sirtuin 6	2.3.1.286	NAD+	O-Acetyl-ADP-ribose	white
+NAD-dependent protein deacetylase sirtuin 6	2.3.1.286	Nicotinamide	H2O	white
+NAD-dependent protein deacetylase sirtuin 6	2.3.1.286	Nicotinamide	Histone N6-acetyl-L-lysine	white
+NAD-dependent protein deacetylase sirtuin 6	2.3.1.286	Nicotinamide	NAD+	white
+NAD-dependent protein deacetylase sirtuin 6	2.3.1.286	O-Acetyl-ADP-ribose	H2O	white
+NAD-dependent protein deacetylase sirtuin 6	2.3.1.286	O-Acetyl-ADP-ribose	Histone N6-acetyl-L-lysine	white
+NAD-dependent protein deacetylase sirtuin 6	2.3.1.286	O-Acetyl-ADP-ribose	NAD+	white
+NAD-dependent protein deacetylase sirtuin 7	2.3.1.286	H+	H2O	white
+NAD-dependent protein deacetylase sirtuin 7	2.3.1.286	H+	Histone N6-acetyl-L-lysine	white
+NAD-dependent protein deacetylase sirtuin 7	2.3.1.286	H+	NAD+	white
+NAD-dependent protein deacetylase sirtuin 7	2.3.1.286	H2O	H+	white
+NAD-dependent protein deacetylase sirtuin 7	2.3.1.286	H2O	Histone-L-lysine	white
+NAD-dependent protein deacetylase sirtuin 7	2.3.1.286	H2O	Nicotinamide	white
+NAD-dependent protein deacetylase sirtuin 7	2.3.1.286	H2O	O-Acetyl-ADP-ribose	white
+NAD-dependent protein deacetylase sirtuin 7	2.3.1.286	Histone N6-acetyl-L-lysine	H+	white
+NAD-dependent protein deacetylase sirtuin 7	2.3.1.286	Histone N6-acetyl-L-lysine	Histone-L-lysine	white
+NAD-dependent protein deacetylase sirtuin 7	2.3.1.286	Histone N6-acetyl-L-lysine	Nicotinamide	white
+NAD-dependent protein deacetylase sirtuin 7	2.3.1.286	Histone N6-acetyl-L-lysine	O-Acetyl-ADP-ribose	white
+NAD-dependent protein deacetylase sirtuin 7	2.3.1.286	Histone-L-lysine	H2O	white
+NAD-dependent protein deacetylase sirtuin 7	2.3.1.286	Histone-L-lysine	Histone N6-acetyl-L-lysine	white
+NAD-dependent protein deacetylase sirtuin 7	2.3.1.286	Histone-L-lysine	NAD+	white
+NAD-dependent protein deacetylase sirtuin 7	2.3.1.286	NAD+	H+	white
+NAD-dependent protein deacetylase sirtuin 7	2.3.1.286	NAD+	Histone-L-lysine	white
+NAD-dependent protein deacetylase sirtuin 7	2.3.1.286	NAD+	Nicotinamide	white
+NAD-dependent protein deacetylase sirtuin 7	2.3.1.286	NAD+	O-Acetyl-ADP-ribose	white
+NAD-dependent protein deacetylase sirtuin 7	2.3.1.286	Nicotinamide	H2O	white
+NAD-dependent protein deacetylase sirtuin 7	2.3.1.286	Nicotinamide	Histone N6-acetyl-L-lysine	white
+NAD-dependent protein deacetylase sirtuin 7	2.3.1.286	Nicotinamide	NAD+	white
+NAD-dependent protein deacetylase sirtuin 7	2.3.1.286	O-Acetyl-ADP-ribose	H2O	white
+NAD-dependent protein deacetylase sirtuin 7	2.3.1.286	O-Acetyl-ADP-ribose	Histone N6-acetyl-L-lysine	white
+NAD-dependent protein deacetylase sirtuin 7	2.3.1.286	O-Acetyl-ADP-ribose	NAD+	white
+NAD-dependent protein deacetylase/lipoamidase	2.3.1.286	H+	H2O	white
+NAD-dependent protein deacetylase/lipoamidase	2.3.1.286	H+	Histone N6-acetyl-L-lysine	white
+NAD-dependent protein deacetylase/lipoamidase	2.3.1.286	H+	NAD+	white
+NAD-dependent protein deacetylase/lipoamidase	2.3.1.286	H2O	H+	white
+NAD-dependent protein deacetylase/lipoamidase	2.3.1.286	H2O	Histone-L-lysine	white
+NAD-dependent protein deacetylase/lipoamidase	2.3.1.286	H2O	Nicotinamide	white
+NAD-dependent protein deacetylase/lipoamidase	2.3.1.286	H2O	O-Acetyl-ADP-ribose	white
+NAD-dependent protein deacetylase/lipoamidase	2.3.1.286	Histone N6-acetyl-L-lysine	H+	white
+NAD-dependent protein deacetylase/lipoamidase	2.3.1.286	Histone N6-acetyl-L-lysine	Histone-L-lysine	white
+NAD-dependent protein deacetylase/lipoamidase	2.3.1.286	Histone N6-acetyl-L-lysine	Nicotinamide	white
+NAD-dependent protein deacetylase/lipoamidase	2.3.1.286	Histone N6-acetyl-L-lysine	O-Acetyl-ADP-ribose	white
+NAD-dependent protein deacetylase/lipoamidase	2.3.1.286	Histone-L-lysine	H2O	white
+NAD-dependent protein deacetylase/lipoamidase	2.3.1.286	Histone-L-lysine	Histone N6-acetyl-L-lysine	white
+NAD-dependent protein deacetylase/lipoamidase	2.3.1.286	Histone-L-lysine	NAD+	white
+NAD-dependent protein deacetylase/lipoamidase	2.3.1.286	NAD+	H+	white
+NAD-dependent protein deacetylase/lipoamidase	2.3.1.286	NAD+	Histone-L-lysine	white
+NAD-dependent protein deacetylase/lipoamidase	2.3.1.286	NAD+	Nicotinamide	white
+NAD-dependent protein deacetylase/lipoamidase	2.3.1.286	NAD+	O-Acetyl-ADP-ribose	white
+NAD-dependent protein deacetylase/lipoamidase	2.3.1.286	Nicotinamide	H2O	white
+NAD-dependent protein deacetylase/lipoamidase	2.3.1.286	Nicotinamide	Histone N6-acetyl-L-lysine	white
+NAD-dependent protein deacetylase/lipoamidase	2.3.1.286	Nicotinamide	NAD+	white
+NAD-dependent protein deacetylase/lipoamidase	2.3.1.286	O-Acetyl-ADP-ribose	H2O	white
+NAD-dependent protein deacetylase/lipoamidase	2.3.1.286	O-Acetyl-ADP-ribose	Histone N6-acetyl-L-lysine	white
+NAD-dependent protein deacetylase/lipoamidase	2.3.1.286	O-Acetyl-ADP-ribose	NAD+	white
+NAD-dependent protein deacetylase/lipoamidase sirtuin 4	2.3.1.286	H+	H2O	white
+NAD-dependent protein deacetylase/lipoamidase sirtuin 4	2.3.1.286	H+	Histone N6-acetyl-L-lysine	white
+NAD-dependent protein deacetylase/lipoamidase sirtuin 4	2.3.1.286	H+	NAD+	white
+NAD-dependent protein deacetylase/lipoamidase sirtuin 4	2.3.1.286	H2O	H+	white
+NAD-dependent protein deacetylase/lipoamidase sirtuin 4	2.3.1.286	H2O	Histone-L-lysine	white
+NAD-dependent protein deacetylase/lipoamidase sirtuin 4	2.3.1.286	H2O	Nicotinamide	white
+NAD-dependent protein deacetylase/lipoamidase sirtuin 4	2.3.1.286	H2O	O-Acetyl-ADP-ribose	white
+NAD-dependent protein deacetylase/lipoamidase sirtuin 4	2.3.1.286	Histone N6-acetyl-L-lysine	H+	white
+NAD-dependent protein deacetylase/lipoamidase sirtuin 4	2.3.1.286	Histone N6-acetyl-L-lysine	Histone-L-lysine	white
+NAD-dependent protein deacetylase/lipoamidase sirtuin 4	2.3.1.286	Histone N6-acetyl-L-lysine	Nicotinamide	white
+NAD-dependent protein deacetylase/lipoamidase sirtuin 4	2.3.1.286	Histone N6-acetyl-L-lysine	O-Acetyl-ADP-ribose	white
+NAD-dependent protein deacetylase/lipoamidase sirtuin 4	2.3.1.286	Histone-L-lysine	H2O	white
+NAD-dependent protein deacetylase/lipoamidase sirtuin 4	2.3.1.286	Histone-L-lysine	Histone N6-acetyl-L-lysine	white
+NAD-dependent protein deacetylase/lipoamidase sirtuin 4	2.3.1.286	Histone-L-lysine	NAD+	white
+NAD-dependent protein deacetylase/lipoamidase sirtuin 4	2.3.1.286	NAD+	H+	white
+NAD-dependent protein deacetylase/lipoamidase sirtuin 4	2.3.1.286	NAD+	Histone-L-lysine	white
+NAD-dependent protein deacetylase/lipoamidase sirtuin 4	2.3.1.286	NAD+	Nicotinamide	white
+NAD-dependent protein deacetylase/lipoamidase sirtuin 4	2.3.1.286	NAD+	O-Acetyl-ADP-ribose	white
+NAD-dependent protein deacetylase/lipoamidase sirtuin 4	2.3.1.286	Nicotinamide	H2O	white
+NAD-dependent protein deacetylase/lipoamidase sirtuin 4	2.3.1.286	Nicotinamide	Histone N6-acetyl-L-lysine	white
+NAD-dependent protein deacetylase/lipoamidase sirtuin 4	2.3.1.286	Nicotinamide	NAD+	white
+NAD-dependent protein deacetylase/lipoamidase sirtuin 4	2.3.1.286	O-Acetyl-ADP-ribose	H2O	white
+NAD-dependent protein deacetylase/lipoamidase sirtuin 4	2.3.1.286	O-Acetyl-ADP-ribose	Histone N6-acetyl-L-lysine	white
+NAD-dependent protein deacetylase/lipoamidase sirtuin 4	2.3.1.286	O-Acetyl-ADP-ribose	NAD+	white
+aldehyde oxidase	1.2.3.1	4-Pyridoxate	H2O	white
+aldehyde oxidase	1.2.3.1	4-Pyridoxate	Oxygen	white
+aldehyde oxidase	1.2.3.1	4-Pyridoxate	Pyridoxal	white
+aldehyde oxidase	1.2.3.1	H2O	4-Pyridoxate	white
+aldehyde oxidase	1.2.3.1	H2O	Hydrogen peroxide	white
+aldehyde oxidase	1.2.3.1	Hydrogen peroxide	H2O	white
+aldehyde oxidase	1.2.3.1	Hydrogen peroxide	Oxygen	white
+aldehyde oxidase	1.2.3.1	Hydrogen peroxide	Pyridoxal	white
+aldehyde oxidase	1.2.3.1	Oxygen	4-Pyridoxate	white
+aldehyde oxidase	1.2.3.1	Oxygen	Hydrogen peroxide	white
+aldehyde oxidase	1.2.3.1	Pyridoxal	4-Pyridoxate	white
+aldehyde oxidase	1.2.3.1	Pyridoxal	Hydrogen peroxide	white
+aspartate dehydrogenase	1.4.1.21	H+	L-Aspartate	white
+aspartate dehydrogenase	1.4.1.21	H+	NADP+	white
+aspartate dehydrogenase	1.4.1.21	Iminoaspartate	L-Aspartate	white
+aspartate dehydrogenase	1.4.1.21	Iminoaspartate	NADP+	white
+aspartate dehydrogenase	1.4.1.21	L-Aspartate	H+	white
+aspartate dehydrogenase	1.4.1.21	L-Aspartate	Iminoaspartate	white
+aspartate dehydrogenase	1.4.1.21	L-Aspartate	NADPH	white
+aspartate dehydrogenase	1.4.1.21	NADP+	H+	white
+aspartate dehydrogenase	1.4.1.21	NADP+	Iminoaspartate	white
+aspartate dehydrogenase	1.4.1.21	NADP+	NADPH	white
+aspartate dehydrogenase	1.4.1.21	NADPH	L-Aspartate	white
+aspartate dehydrogenase	1.4.1.21	NADPH	NADP+	white
+bifunctional NMN adenylyltransferase/nudix hydrolase	2.7.7.1	ATP	Diphosphate	white
+bifunctional NMN adenylyltransferase/nudix hydrolase	2.7.7.1	ATP	NAD+	white
+bifunctional NMN adenylyltransferase/nudix hydrolase	2.7.7.1	Diphosphate	ATP	white
+bifunctional NMN adenylyltransferase/nudix hydrolase	2.7.7.1	Diphosphate	Nicotinamide D-ribonucleotide	white
+bifunctional NMN adenylyltransferase/nudix hydrolase	2.7.7.1	NAD+	ATP	white
+bifunctional NMN adenylyltransferase/nudix hydrolase	2.7.7.1	NAD+	Nicotinamide D-ribonucleotide	white
+bifunctional NMN adenylyltransferase/nudix hydrolase	2.7.7.1	Nicotinamide D-ribonucleotide	Diphosphate	white
+bifunctional NMN adenylyltransferase/nudix hydrolase	2.7.7.1	Nicotinamide D-ribonucleotide	NAD+	white
+dimethylmaleate hydratase large subunit	4.2.1.85	(2R,3S)-2,3-Dimethylmalate	2,3-Dimethylmaleate	white
+dimethylmaleate hydratase large subunit	4.2.1.85	(2R,3S)-2,3-Dimethylmalate	H2O	white
+dimethylmaleate hydratase large subunit	4.2.1.85	2,3-Dimethylmaleate	(2R,3S)-2,3-Dimethylmalate	white
+dimethylmaleate hydratase large subunit	4.2.1.85	H2O	(2R,3S)-2,3-Dimethylmalate	white
+dimethylmaleate hydratase small subunit	4.2.1.85	(2R,3S)-2,3-Dimethylmalate	2,3-Dimethylmaleate	white
+dimethylmaleate hydratase small subunit	4.2.1.85	(2R,3S)-2,3-Dimethylmalate	H2O	white
+dimethylmaleate hydratase small subunit	4.2.1.85	2,3-Dimethylmaleate	(2R,3S)-2,3-Dimethylmalate	white
+dimethylmaleate hydratase small subunit	4.2.1.85	H2O	(2R,3S)-2,3-Dimethylmalate	white
+enamidase	3.5.2.18	2-Formylglutarate	6-Oxo-1,4,5,6-tetrahydronicotinate	white
+enamidase	3.5.2.18	2-Formylglutarate	H2O	white
+enamidase	3.5.2.18	6-Oxo-1,4,5,6-tetrahydronicotinate	2-Formylglutarate	white
+enamidase	3.5.2.18	6-Oxo-1,4,5,6-tetrahydronicotinate	Ammonia	white
+enamidase	3.5.2.18	Ammonia	6-Oxo-1,4,5,6-tetrahydronicotinate	white
+enamidase	3.5.2.18	Ammonia	H2O	white
+enamidase	3.5.2.18	H2O	2-Formylglutarate	white
+enamidase	3.5.2.18	H2O	Ammonia	white
+maleamate amidohydrolase	3.5.1.107	Ammonia	H2O	green
+maleamate amidohydrolase	3.5.1.107	Ammonia	Maleamate	green
+maleamate amidohydrolase	3.5.1.107	Maleic acid	H2O	green
+maleamate amidohydrolase	3.5.1.107	Maleic acid	Maleamate	green
+maleate isomerase	5.2.1.1	Maleic acid	Fumarate	green
+methylitaconate Delta-isomerase	5.3.3.6	2,3-Dimethylmaleate	Methylitaconate	white
+methylitaconate Delta-isomerase	5.3.3.6	Methylitaconate	2,3-Dimethylmaleate	white
+nicotinamidase/pyrazinamidase	3.5.1.19	H2O	Ammonia	green
+nicotinamidase/pyrazinamidase	3.5.1.19	H2O	Nicotinate	green
+nicotinamidase/pyrazinamidase	3.5.1.19	Nicotinamide	Ammonia	green
+nicotinamidase/pyrazinamidase	3.5.1.19	Nicotinamide	Nicotinate	green
+nicotinamide N-methyltransferase	2.1.1.1	1-Methylnicotinamide	H+	white
+nicotinamide N-methyltransferase	2.1.1.1	1-Methylnicotinamide	Nicotinamide	white
+nicotinamide N-methyltransferase	2.1.1.1	1-Methylnicotinamide	S-Adenosyl-L-methionine	white
+nicotinamide N-methyltransferase	2.1.1.1	H+	1-Methylnicotinamide	white
+nicotinamide N-methyltransferase	2.1.1.1	H+	S-Adenosyl-L-homocysteine	white
+nicotinamide N-methyltransferase	2.1.1.1	Nicotinamide	1-Methylnicotinamide	white
+nicotinamide N-methyltransferase	2.1.1.1	Nicotinamide	S-Adenosyl-L-homocysteine	white
+nicotinamide N-methyltransferase	2.1.1.1	S-Adenosyl-L-homocysteine	H+	white
+nicotinamide N-methyltransferase	2.1.1.1	S-Adenosyl-L-homocysteine	Nicotinamide	white
+nicotinamide N-methyltransferase	2.1.1.1	S-Adenosyl-L-homocysteine	S-Adenosyl-L-methionine	white
+nicotinamide N-methyltransferase	2.1.1.1	S-Adenosyl-L-methionine	1-Methylnicotinamide	white
+nicotinamide N-methyltransferase	2.1.1.1	S-Adenosyl-L-methionine	S-Adenosyl-L-homocysteine	white
+nicotinamide mononucleotide adenylyltransferase	2.7.7.1	ATP	Diphosphate	white
+nicotinamide mononucleotide adenylyltransferase	2.7.7.1	ATP	NAD+	white
+nicotinamide mononucleotide adenylyltransferase	2.7.7.1	Diphosphate	ATP	white
+nicotinamide mononucleotide adenylyltransferase	2.7.7.1	Diphosphate	Nicotinamide D-ribonucleotide	white
+nicotinamide mononucleotide adenylyltransferase	2.7.7.1	NAD+	ATP	white
+nicotinamide mononucleotide adenylyltransferase	2.7.7.1	NAD+	Nicotinamide D-ribonucleotide	white
+nicotinamide mononucleotide adenylyltransferase	2.7.7.1	Nicotinamide D-ribonucleotide	Diphosphate	white
+nicotinamide mononucleotide adenylyltransferase	2.7.7.1	Nicotinamide D-ribonucleotide	NAD+	white
+nicotinamide phosphoribosyltransferase	2.4.2.12	5-Phospho-alpha-D-ribose 1-diphosphate	Diphosphate	white
+nicotinamide phosphoribosyltransferase	2.4.2.12	5-Phospho-alpha-D-ribose 1-diphosphate	Nicotinamide D-ribonucleotide	white
+nicotinamide phosphoribosyltransferase	2.4.2.12	Diphosphate	5-Phospho-alpha-D-ribose 1-diphosphate	white
+nicotinamide phosphoribosyltransferase	2.4.2.12	Diphosphate	Nicotinamide	white
+nicotinamide phosphoribosyltransferase	2.4.2.12	Nicotinamide	Diphosphate	white
+nicotinamide phosphoribosyltransferase	2.4.2.12	Nicotinamide	Nicotinamide D-ribonucleotide	white
+nicotinamide phosphoribosyltransferase	2.4.2.12	Nicotinamide D-ribonucleotide	5-Phospho-alpha-D-ribose 1-diphosphate	white
+nicotinamide phosphoribosyltransferase	2.4.2.12	Nicotinamide D-ribonucleotide	Nicotinamide	white
+nicotinamide-nucleotide adenylyltransferase	2.7.7.1	ATP	Diphosphate	white
+nicotinamide-nucleotide adenylyltransferase	2.7.7.1	ATP	NAD+	white
+nicotinamide-nucleotide adenylyltransferase	2.7.7.1	Diphosphate	ATP	white
+nicotinamide-nucleotide adenylyltransferase	2.7.7.1	Diphosphate	Nicotinamide D-ribonucleotide	white
+nicotinamide-nucleotide adenylyltransferase	2.7.7.1	NAD+	ATP	white
+nicotinamide-nucleotide adenylyltransferase	2.7.7.1	NAD+	Nicotinamide D-ribonucleotide	white
+nicotinamide-nucleotide adenylyltransferase	2.7.7.1	Nicotinamide D-ribonucleotide	Diphosphate	white
+nicotinamide-nucleotide adenylyltransferase	2.7.7.1	Nicotinamide D-ribonucleotide	NAD+	white
+nicotinamide-nucleotide amidase	3.5.1.42	H2O	Ammonia	green
+nicotinamide-nucleotide amidase	3.5.1.42	H2O	Nicotinate D-ribonucleotide	green
+nicotinamide-nucleotide amidase	3.5.1.42	Nicotinamide D-ribonucleotide	Ammonia	green
+nicotinamide-nucleotide amidase	3.5.1.42	Nicotinamide D-ribonucleotide	Nicotinate D-ribonucleotide	green
+nicotinamide/nicotinate riboside kinase	2.7.1.22	ADP	ATP	white
+nicotinamide/nicotinate riboside kinase	2.7.1.22	ADP	Nicotinamide-beta-riboside	white
+nicotinamide/nicotinate riboside kinase	2.7.1.22	ATP	ADP	white
+nicotinamide/nicotinate riboside kinase	2.7.1.22	ATP	Nicotinamide D-ribonucleotide	white
+nicotinamide/nicotinate riboside kinase	2.7.1.22	Nicotinamide D-ribonucleotide	ATP	white
+nicotinamide/nicotinate riboside kinase	2.7.1.22	Nicotinamide D-ribonucleotide	Nicotinamide-beta-riboside	white
+nicotinamide/nicotinate riboside kinase	2.7.1.22	Nicotinamide-beta-riboside	ADP	white
+nicotinamide/nicotinate riboside kinase	2.7.1.22	Nicotinamide-beta-riboside	Nicotinamide D-ribonucleotide	white
+nicotinate dehydrogenase FAD-subunit	1.17.1.5	6-Hydroxynicotinate	H2O	white
+nicotinate dehydrogenase FAD-subunit	1.17.1.5	6-Hydroxynicotinate	NADP+	white
+nicotinate dehydrogenase FAD-subunit	1.17.1.5	6-Hydroxynicotinate	Nicotinate	white
+nicotinate dehydrogenase FAD-subunit	1.17.1.5	H+	H2O	white
+nicotinate dehydrogenase FAD-subunit	1.17.1.5	H+	NADP+	white
+nicotinate dehydrogenase FAD-subunit	1.17.1.5	H+	Nicotinate	white
+nicotinate dehydrogenase FAD-subunit	1.17.1.5	H2O	6-Hydroxynicotinate	white
+nicotinate dehydrogenase FAD-subunit	1.17.1.5	H2O	H+	white
+nicotinate dehydrogenase FAD-subunit	1.17.1.5	H2O	NADPH	white
+nicotinate dehydrogenase FAD-subunit	1.17.1.5	NADP+	6-Hydroxynicotinate	white
+nicotinate dehydrogenase FAD-subunit	1.17.1.5	NADP+	H+	white
+nicotinate dehydrogenase FAD-subunit	1.17.1.5	NADP+	NADPH	white
+nicotinate dehydrogenase FAD-subunit	1.17.1.5	NADPH	H2O	white
+nicotinate dehydrogenase FAD-subunit	1.17.1.5	NADPH	NADP+	white
+nicotinate dehydrogenase FAD-subunit	1.17.1.5	NADPH	Nicotinate	white
+nicotinate dehydrogenase FAD-subunit	1.17.1.5	Nicotinate	6-Hydroxynicotinate	white
+nicotinate dehydrogenase FAD-subunit	1.17.1.5	Nicotinate	H+	white
+nicotinate dehydrogenase FAD-subunit	1.17.1.5	Nicotinate	NADPH	white
+nicotinate dehydrogenase large molybdopterin subunit	1.17.1.5	6-Hydroxynicotinate	H2O	white
+nicotinate dehydrogenase large molybdopterin subunit	1.17.1.5	6-Hydroxynicotinate	NADP+	white
+nicotinate dehydrogenase large molybdopterin subunit	1.17.1.5	6-Hydroxynicotinate	Nicotinate	white
+nicotinate dehydrogenase large molybdopterin subunit	1.17.1.5	H+	H2O	white
+nicotinate dehydrogenase large molybdopterin subunit	1.17.1.5	H+	NADP+	white
+nicotinate dehydrogenase large molybdopterin subunit	1.17.1.5	H+	Nicotinate	white
+nicotinate dehydrogenase large molybdopterin subunit	1.17.1.5	H2O	6-Hydroxynicotinate	white
+nicotinate dehydrogenase large molybdopterin subunit	1.17.1.5	H2O	H+	white
+nicotinate dehydrogenase large molybdopterin subunit	1.17.1.5	H2O	NADPH	white
+nicotinate dehydrogenase large molybdopterin subunit	1.17.1.5	NADP+	6-Hydroxynicotinate	white
+nicotinate dehydrogenase large molybdopterin subunit	1.17.1.5	NADP+	H+	white
+nicotinate dehydrogenase large molybdopterin subunit	1.17.1.5	NADP+	NADPH	white
+nicotinate dehydrogenase large molybdopterin subunit	1.17.1.5	NADPH	H2O	white
+nicotinate dehydrogenase large molybdopterin subunit	1.17.1.5	NADPH	NADP+	white
+nicotinate dehydrogenase large molybdopterin subunit	1.17.1.5	NADPH	Nicotinate	white
+nicotinate dehydrogenase large molybdopterin subunit	1.17.1.5	Nicotinate	6-Hydroxynicotinate	white
+nicotinate dehydrogenase large molybdopterin subunit	1.17.1.5	Nicotinate	H+	white
+nicotinate dehydrogenase large molybdopterin subunit	1.17.1.5	Nicotinate	NADPH	white
+nicotinate dehydrogenase medium molybdopterin subunit	1.17.1.5	6-Hydroxynicotinate	H2O	white
+nicotinate dehydrogenase medium molybdopterin subunit	1.17.1.5	6-Hydroxynicotinate	NADP+	white
+nicotinate dehydrogenase medium molybdopterin subunit	1.17.1.5	6-Hydroxynicotinate	Nicotinate	white
+nicotinate dehydrogenase medium molybdopterin subunit	1.17.1.5	H+	H2O	white
+nicotinate dehydrogenase medium molybdopterin subunit	1.17.1.5	H+	NADP+	white
+nicotinate dehydrogenase medium molybdopterin subunit	1.17.1.5	H+	Nicotinate	white
+nicotinate dehydrogenase medium molybdopterin subunit	1.17.1.5	H2O	6-Hydroxynicotinate	white
+nicotinate dehydrogenase medium molybdopterin subunit	1.17.1.5	H2O	H+	white
+nicotinate dehydrogenase medium molybdopterin subunit	1.17.1.5	H2O	NADPH	white
+nicotinate dehydrogenase medium molybdopterin subunit	1.17.1.5	NADP+	6-Hydroxynicotinate	white
+nicotinate dehydrogenase medium molybdopterin subunit	1.17.1.5	NADP+	H+	white
+nicotinate dehydrogenase medium molybdopterin subunit	1.17.1.5	NADP+	NADPH	white
+nicotinate dehydrogenase medium molybdopterin subunit	1.17.1.5	NADPH	H2O	white
+nicotinate dehydrogenase medium molybdopterin subunit	1.17.1.5	NADPH	NADP+	white
+nicotinate dehydrogenase medium molybdopterin subunit	1.17.1.5	NADPH	Nicotinate	white
+nicotinate dehydrogenase medium molybdopterin subunit	1.17.1.5	Nicotinate	6-Hydroxynicotinate	white
+nicotinate dehydrogenase medium molybdopterin subunit	1.17.1.5	Nicotinate	H+	white
+nicotinate dehydrogenase medium molybdopterin subunit	1.17.1.5	Nicotinate	NADPH	white
+nicotinate dehydrogenase small FeS subunit	1.17.1.5	6-Hydroxynicotinate	H2O	white
+nicotinate dehydrogenase small FeS subunit	1.17.1.5	6-Hydroxynicotinate	NADP+	white
+nicotinate dehydrogenase small FeS subunit	1.17.1.5	6-Hydroxynicotinate	Nicotinate	white
+nicotinate dehydrogenase small FeS subunit	1.17.1.5	H+	H2O	white
+nicotinate dehydrogenase small FeS subunit	1.17.1.5	H+	NADP+	white
+nicotinate dehydrogenase small FeS subunit	1.17.1.5	H+	Nicotinate	white
+nicotinate dehydrogenase small FeS subunit	1.17.1.5	H2O	6-Hydroxynicotinate	white
+nicotinate dehydrogenase small FeS subunit	1.17.1.5	H2O	H+	white
+nicotinate dehydrogenase small FeS subunit	1.17.1.5	H2O	NADPH	white
+nicotinate dehydrogenase small FeS subunit	1.17.1.5	NADP+	6-Hydroxynicotinate	white
+nicotinate dehydrogenase small FeS subunit	1.17.1.5	NADP+	H+	white
+nicotinate dehydrogenase small FeS subunit	1.17.1.5	NADP+	NADPH	white
+nicotinate dehydrogenase small FeS subunit	1.17.1.5	NADPH	H2O	white
+nicotinate dehydrogenase small FeS subunit	1.17.1.5	NADPH	NADP+	white
+nicotinate dehydrogenase small FeS subunit	1.17.1.5	NADPH	Nicotinate	white
+nicotinate dehydrogenase small FeS subunit	1.17.1.5	Nicotinate	6-Hydroxynicotinate	white
+nicotinate dehydrogenase small FeS subunit	1.17.1.5	Nicotinate	H+	white
+nicotinate dehydrogenase small FeS subunit	1.17.1.5	Nicotinate	NADPH	white
+nicotinate dehydrogenase subunit A	1.17.2.1	6-Hydroxynicotinate	Ferricytochrome	white
+nicotinate dehydrogenase subunit A	1.17.2.1	6-Hydroxynicotinate	H2O	white
+nicotinate dehydrogenase subunit A	1.17.2.1	6-Hydroxynicotinate	Nicotinate	white
+nicotinate dehydrogenase subunit A	1.17.2.1	Ferricytochrome	6-Hydroxynicotinate	white
+nicotinate dehydrogenase subunit A	1.17.2.1	Ferricytochrome	Ferrocytochrome	white
+nicotinate dehydrogenase subunit A	1.17.2.1	Ferricytochrome	H+	white
+nicotinate dehydrogenase subunit A	1.17.2.1	Ferrocytochrome	Ferricytochrome	white
+nicotinate dehydrogenase subunit A	1.17.2.1	Ferrocytochrome	H2O	white
+nicotinate dehydrogenase subunit A	1.17.2.1	Ferrocytochrome	Nicotinate	white
+nicotinate dehydrogenase subunit A	1.17.2.1	H+	Ferricytochrome	white
+nicotinate dehydrogenase subunit A	1.17.2.1	H+	H2O	white
+nicotinate dehydrogenase subunit A	1.17.2.1	H+	Nicotinate	white
+nicotinate dehydrogenase subunit A	1.17.2.1	H2O	6-Hydroxynicotinate	white
+nicotinate dehydrogenase subunit A	1.17.2.1	H2O	Ferrocytochrome	white
+nicotinate dehydrogenase subunit A	1.17.2.1	H2O	H+	white
+nicotinate dehydrogenase subunit A	1.17.2.1	Nicotinate	6-Hydroxynicotinate	white
+nicotinate dehydrogenase subunit A	1.17.2.1	Nicotinate	Ferrocytochrome	white
+nicotinate dehydrogenase subunit A	1.17.2.1	Nicotinate	H+	white
+nicotinate dehydrogenase subunit B	1.17.2.1	6-Hydroxynicotinate	Ferricytochrome	white
+nicotinate dehydrogenase subunit B	1.17.2.1	6-Hydroxynicotinate	H2O	white
+nicotinate dehydrogenase subunit B	1.17.2.1	6-Hydroxynicotinate	Nicotinate	white
+nicotinate dehydrogenase subunit B	1.17.2.1	Ferricytochrome	6-Hydroxynicotinate	white
+nicotinate dehydrogenase subunit B	1.17.2.1	Ferricytochrome	Ferrocytochrome	white
+nicotinate dehydrogenase subunit B	1.17.2.1	Ferricytochrome	H+	white
+nicotinate dehydrogenase subunit B	1.17.2.1	Ferrocytochrome	Ferricytochrome	white
+nicotinate dehydrogenase subunit B	1.17.2.1	Ferrocytochrome	H2O	white
+nicotinate dehydrogenase subunit B	1.17.2.1	Ferrocytochrome	Nicotinate	white
+nicotinate dehydrogenase subunit B	1.17.2.1	H+	Ferricytochrome	white
+nicotinate dehydrogenase subunit B	1.17.2.1	H+	H2O	white
+nicotinate dehydrogenase subunit B	1.17.2.1	H+	Nicotinate	white
+nicotinate dehydrogenase subunit B	1.17.2.1	H2O	6-Hydroxynicotinate	white
+nicotinate dehydrogenase subunit B	1.17.2.1	H2O	Ferrocytochrome	white
+nicotinate dehydrogenase subunit B	1.17.2.1	H2O	H+	white
+nicotinate dehydrogenase subunit B	1.17.2.1	Nicotinate	6-Hydroxynicotinate	white
+nicotinate dehydrogenase subunit B	1.17.2.1	Nicotinate	Ferrocytochrome	white
+nicotinate dehydrogenase subunit B	1.17.2.1	Nicotinate	H+	white
+nicotinate phosphoribosyltransferase	6.3.4.21	5-Phospho-alpha-D-ribose 1-diphosphate	ADP	green
+nicotinate phosphoribosyltransferase	6.3.4.21	5-Phospho-alpha-D-ribose 1-diphosphate	Diphosphate	green
+nicotinate phosphoribosyltransferase	6.3.4.21	5-Phospho-alpha-D-ribose 1-diphosphate	Nicotinate D-ribonucleotide	green
+nicotinate phosphoribosyltransferase	6.3.4.21	5-Phospho-alpha-D-ribose 1-diphosphate	Orthophosphate	green
+nicotinate phosphoribosyltransferase	6.3.4.21	ADP	5-Phospho-alpha-D-ribose 1-diphosphate	green
+nicotinate phosphoribosyltransferase	6.3.4.21	ADP	ATP	green
+nicotinate phosphoribosyltransferase	6.3.4.21	ADP	H+	green
+nicotinate phosphoribosyltransferase	6.3.4.21	ADP	H2O	green
+nicotinate phosphoribosyltransferase	6.3.4.21	ADP	Nicotinate	green
+nicotinate phosphoribosyltransferase	6.3.4.21	ATP	ADP	green
+nicotinate phosphoribosyltransferase	6.3.4.21	ATP	Diphosphate	green
+nicotinate phosphoribosyltransferase	6.3.4.21	ATP	Nicotinate D-ribonucleotide	green
+nicotinate phosphoribosyltransferase	6.3.4.21	ATP	Orthophosphate	green
+nicotinate phosphoribosyltransferase	6.3.4.21	Diphosphate	5-Phospho-alpha-D-ribose 1-diphosphate	green
+nicotinate phosphoribosyltransferase	6.3.4.21	Diphosphate	ATP	green
+nicotinate phosphoribosyltransferase	6.3.4.21	Diphosphate	H+	green
+nicotinate phosphoribosyltransferase	6.3.4.21	Diphosphate	H2O	green
+nicotinate phosphoribosyltransferase	6.3.4.21	Diphosphate	Nicotinate	green
+nicotinate phosphoribosyltransferase	6.3.4.21	H+	ADP	green
+nicotinate phosphoribosyltransferase	6.3.4.21	H+	Diphosphate	green
+nicotinate phosphoribosyltransferase	6.3.4.21	H+	Nicotinate D-ribonucleotide	green
+nicotinate phosphoribosyltransferase	6.3.4.21	H+	Orthophosphate	green
+nicotinate phosphoribosyltransferase	6.3.4.21	H2O	ADP	green
+nicotinate phosphoribosyltransferase	6.3.4.21	H2O	Diphosphate	green
+nicotinate phosphoribosyltransferase	6.3.4.21	H2O	Nicotinate D-ribonucleotide	green
+nicotinate phosphoribosyltransferase	6.3.4.21	H2O	Orthophosphate	green
+nicotinate phosphoribosyltransferase	6.3.4.21	Nicotinate	ADP	green
+nicotinate phosphoribosyltransferase	6.3.4.21	Nicotinate	Diphosphate	green
+nicotinate phosphoribosyltransferase	6.3.4.21	Nicotinate	Nicotinate D-ribonucleotide	green
+nicotinate phosphoribosyltransferase	6.3.4.21	Nicotinate	Orthophosphate	green
+nicotinate phosphoribosyltransferase	6.3.4.21	Nicotinate D-ribonucleotide	5-Phospho-alpha-D-ribose 1-diphosphate	green
+nicotinate phosphoribosyltransferase	6.3.4.21	Nicotinate D-ribonucleotide	ATP	green
+nicotinate phosphoribosyltransferase	6.3.4.21	Nicotinate D-ribonucleotide	H+	green
+nicotinate phosphoribosyltransferase	6.3.4.21	Nicotinate D-ribonucleotide	H2O	green
+nicotinate phosphoribosyltransferase	6.3.4.21	Nicotinate D-ribonucleotide	Nicotinate	green
+nicotinate phosphoribosyltransferase	6.3.4.21	Orthophosphate	5-Phospho-alpha-D-ribose 1-diphosphate	green
+nicotinate phosphoribosyltransferase	6.3.4.21	Orthophosphate	ATP	green
+nicotinate phosphoribosyltransferase	6.3.4.21	Orthophosphate	H+	green
+nicotinate phosphoribosyltransferase	6.3.4.21	Orthophosphate	H2O	green
+nicotinate phosphoribosyltransferase	6.3.4.21	Orthophosphate	Nicotinate	green
+nicotinate-nucleotide adenylyltransferase	2.7.7.18	ATP	Deamino-NAD+	green
+nicotinate-nucleotide adenylyltransferase	2.7.7.18	ATP	Diphosphate	green
+nicotinate-nucleotide adenylyltransferase	2.7.7.18	ATP	NAD+	green
+nicotinate-nucleotide adenylyltransferase	2.7.7.18	Deamino-NAD+	ATP	green
+nicotinate-nucleotide adenylyltransferase	2.7.7.18	Deamino-NAD+	Nicotinate D-ribonucleotide	green
+nicotinate-nucleotide adenylyltransferase	2.7.7.18	Diphosphate	ATP	green
+nicotinate-nucleotide adenylyltransferase	2.7.7.18	Diphosphate	Nicotinamide D-ribonucleotide	green
+nicotinate-nucleotide adenylyltransferase	2.7.7.18	Diphosphate	Nicotinate D-ribonucleotide	green
+nicotinate-nucleotide adenylyltransferase	2.7.7.18	NAD+	ATP	green
+nicotinate-nucleotide adenylyltransferase	2.7.7.18	NAD+	Nicotinamide D-ribonucleotide	green
+nicotinate-nucleotide adenylyltransferase	2.7.7.18	Nicotinamide D-ribonucleotide	Diphosphate	green
+nicotinate-nucleotide adenylyltransferase	2.7.7.18	Nicotinamide D-ribonucleotide	NAD+	green
+nicotinate-nucleotide adenylyltransferase	2.7.7.18	Nicotinate D-ribonucleotide	Deamino-NAD+	green
+nicotinate-nucleotide adenylyltransferase	2.7.7.18	Nicotinate D-ribonucleotide	Diphosphate	green
+nicotinate-nucleotide pyrophosphorylase (carboxylating)	2.4.2.19	CO2	5-Phospho-alpha-D-ribose 1-diphosphate	green
+nicotinate-nucleotide pyrophosphorylase (carboxylating)	2.4.2.19	CO2	Quinolinate	green
+nicotinate-nucleotide pyrophosphorylase (carboxylating)	2.4.2.19	Diphosphate	5-Phospho-alpha-D-ribose 1-diphosphate	green
+nicotinate-nucleotide pyrophosphorylase (carboxylating)	2.4.2.19	Diphosphate	Quinolinate	green
+nicotinate-nucleotide pyrophosphorylase (carboxylating)	2.4.2.19	Nicotinate D-ribonucleotide	5-Phospho-alpha-D-ribose 1-diphosphate	green
+nicotinate-nucleotide pyrophosphorylase (carboxylating)	2.4.2.19	Nicotinate D-ribonucleotide	Quinolinate	green
+nicotine blue oxidoreductase	1.1.1.328	3,3'-Bipyridine-2,2',5,5',6,6'-hexol	Blue pigment	white
+nicotine blue oxidoreductase	1.1.1.328	3,3'-Bipyridine-2,2',5,5',6,6'-hexol	H+	white
+nicotine blue oxidoreductase	1.1.1.328	3,3'-Bipyridine-2,2',5,5',6,6'-hexol	NADH	white
+nicotine blue oxidoreductase	1.1.1.328	Blue pigment	3,3'-Bipyridine-2,2',5,5',6,6'-hexol	white
+nicotine blue oxidoreductase	1.1.1.328	Blue pigment	NAD+	white
+nicotine blue oxidoreductase	1.1.1.328	H+	3,3'-Bipyridine-2,2',5,5',6,6'-hexol	white
+nicotine blue oxidoreductase	1.1.1.328	H+	NAD+	white
+nicotine blue oxidoreductase	1.1.1.328	NAD+	Blue pigment	white
+nicotine blue oxidoreductase	1.1.1.328	NAD+	H+	white
+nicotine blue oxidoreductase	1.1.1.328	NAD+	NADH	white
+nicotine blue oxidoreductase	1.1.1.328	NADH	3,3'-Bipyridine-2,2',5,5',6,6'-hexol	white
+nicotine blue oxidoreductase	1.1.1.328	NADH	NAD+	white
+nicotine dehydrogenase	1.4.2.2	Ferricytochrome c	Ferrocytochrome c	white
+nicotine dehydrogenase	1.4.2.2	Ferricytochrome c	H+	white
+nicotine dehydrogenase	1.4.2.2	Ferricytochrome c	N-Methylmyosmine	white
+nicotine dehydrogenase	1.4.2.2	Ferrocytochrome c	Ferricytochrome c	white
+nicotine dehydrogenase	1.4.2.2	Ferrocytochrome c	Nicotine	white
+nicotine dehydrogenase	1.4.2.2	H+	Ferricytochrome c	white
+nicotine dehydrogenase	1.4.2.2	H+	Nicotine	white
+nicotine dehydrogenase	1.4.2.2	N-Methylmyosmine	Ferricytochrome c	white
+nicotine dehydrogenase	1.4.2.2	N-Methylmyosmine	Nicotine	white
+nicotine dehydrogenase	1.4.2.2	Nicotine	Ferrocytochrome c	white
+nicotine dehydrogenase	1.4.2.2	Nicotine	H+	white
+nicotine dehydrogenase	1.4.2.2	Nicotine	N-Methylmyosmine	white
+nicotine dehydrogenase subunit A	1.5.99.4	(R)-Nicotine	(R)-6-Hydroxynicotine	green
+nicotine dehydrogenase subunit A	1.5.99.4	(R)-Nicotine	Reduced acceptor	green
+nicotine dehydrogenase subunit A	1.5.99.4	Acceptor	(R)-6-Hydroxynicotine	green
+nicotine dehydrogenase subunit A	1.5.99.4	Acceptor	(S)-6-Hydroxynicotine	green
+nicotine dehydrogenase subunit A	1.5.99.4	Acceptor	Reduced acceptor	green
+nicotine dehydrogenase subunit A	1.5.99.4	H2O	(R)-6-Hydroxynicotine	green
+nicotine dehydrogenase subunit A	1.5.99.4	H2O	(S)-6-Hydroxynicotine	green
+nicotine dehydrogenase subunit A	1.5.99.4	H2O	Reduced acceptor	green
+nicotine dehydrogenase subunit A	1.5.99.4	Nicotine	(S)-6-Hydroxynicotine	green
+nicotine dehydrogenase subunit A	1.5.99.4	Nicotine	Reduced acceptor	green
+nicotine dehydrogenase subunit B	1.5.99.4	(R)-Nicotine	(R)-6-Hydroxynicotine	green
+nicotine dehydrogenase subunit B	1.5.99.4	(R)-Nicotine	Reduced acceptor	green
+nicotine dehydrogenase subunit B	1.5.99.4	Acceptor	(R)-6-Hydroxynicotine	green
+nicotine dehydrogenase subunit B	1.5.99.4	Acceptor	(S)-6-Hydroxynicotine	green
+nicotine dehydrogenase subunit B	1.5.99.4	Acceptor	Reduced acceptor	green
+nicotine dehydrogenase subunit B	1.5.99.4	H2O	(R)-6-Hydroxynicotine	green
+nicotine dehydrogenase subunit B	1.5.99.4	H2O	(S)-6-Hydroxynicotine	green
+nicotine dehydrogenase subunit B	1.5.99.4	H2O	Reduced acceptor	green
+nicotine dehydrogenase subunit B	1.5.99.4	Nicotine	(S)-6-Hydroxynicotine	green
+nicotine dehydrogenase subunit B	1.5.99.4	Nicotine	Reduced acceptor	green
+nicotine dehydrogenase subunit C	1.5.99.4	(R)-Nicotine	(R)-6-Hydroxynicotine	green
+nicotine dehydrogenase subunit C	1.5.99.4	(R)-Nicotine	Reduced acceptor	green
+nicotine dehydrogenase subunit C	1.5.99.4	Acceptor	(R)-6-Hydroxynicotine	green
+nicotine dehydrogenase subunit C	1.5.99.4	Acceptor	(S)-6-Hydroxynicotine	green
+nicotine dehydrogenase subunit C	1.5.99.4	Acceptor	Reduced acceptor	green
+nicotine dehydrogenase subunit C	1.5.99.4	H2O	(R)-6-Hydroxynicotine	green
+nicotine dehydrogenase subunit C	1.5.99.4	H2O	(S)-6-Hydroxynicotine	green
+nicotine dehydrogenase subunit C	1.5.99.4	H2O	Reduced acceptor	green
+nicotine dehydrogenase subunit C	1.5.99.4	Nicotine	(S)-6-Hydroxynicotine	green
+nicotine dehydrogenase subunit C	1.5.99.4	Nicotine	Reduced acceptor	green
+nicotine oxidoreductase	1.4.2.2	Ferricytochrome c	Ferrocytochrome c	white
+nicotine oxidoreductase	1.4.2.2	Ferricytochrome c	H+	white
+nicotine oxidoreductase	1.4.2.2	Ferricytochrome c	Pseudooxynicotine	white
+nicotine oxidoreductase	1.4.2.2	Ferrocytochrome c	Ferricytochrome c	white
+nicotine oxidoreductase	1.4.2.2	Ferrocytochrome c	H2O	white
+nicotine oxidoreductase	1.4.2.2	Ferrocytochrome c	Nicotine	white
+nicotine oxidoreductase	1.4.2.2	H+	Ferricytochrome c	white
+nicotine oxidoreductase	1.4.2.2	H+	H2O	white
+nicotine oxidoreductase	1.4.2.2	H+	Nicotine	white
+nicotine oxidoreductase	1.4.2.2	H2O	Ferrocytochrome c	white
+nicotine oxidoreductase	1.4.2.2	H2O	H+	white
+nicotine oxidoreductase	1.4.2.2	H2O	Pseudooxynicotine	white
+nicotine oxidoreductase	1.4.2.2	Nicotine	Ferrocytochrome c	white
+nicotine oxidoreductase	1.4.2.2	Nicotine	H+	white
+nicotine oxidoreductase	1.4.2.2	Nicotine	Pseudooxynicotine	white
+nicotine oxidoreductase	1.4.2.2	Pseudooxynicotine	Ferricytochrome c	white
+nicotine oxidoreductase	1.4.2.2	Pseudooxynicotine	H2O	white
+nicotine oxidoreductase	1.4.2.2	Pseudooxynicotine	Nicotine	white
+nucleoside triphosphate diphosphatase	3.6.1.9	Deamino-NAD+	AMP	green
+nucleoside triphosphate diphosphatase	3.6.1.9	Deamino-NAD+	Nicotinate D-ribonucleotide	green
+nucleoside triphosphate diphosphatase	3.6.1.9	H2O	AMP	green
+nucleoside triphosphate diphosphatase	3.6.1.9	H2O	Nicotinamide D-ribonucleotide	green
+nucleoside triphosphate diphosphatase	3.6.1.9	H2O	Nicotinate D-ribonucleotide	green
+nucleoside triphosphate diphosphatase	3.6.1.9	NAD+	AMP	green
+nucleoside triphosphate diphosphatase	3.6.1.9	NAD+	Nicotinamide D-ribonucleotide	green
+proton-translocating NAD(P)+ transhydrogenase subunit alpha	7.1.1.1	H+	H+	green
+proton-translocating NAD(P)+ transhydrogenase subunit alpha	7.1.1.1	H+	NAD+	green
+proton-translocating NAD(P)+ transhydrogenase subunit alpha	7.1.1.1	H+	NADH	green
+proton-translocating NAD(P)+ transhydrogenase subunit alpha	7.1.1.1	H+	NADP+	green
+proton-translocating NAD(P)+ transhydrogenase subunit alpha	7.1.1.1	H+	NADPH	green
+proton-translocating NAD(P)+ transhydrogenase subunit alpha	7.1.1.1	NAD+	H+	green
+proton-translocating NAD(P)+ transhydrogenase subunit alpha	7.1.1.1	NAD+	NADH	green
+proton-translocating NAD(P)+ transhydrogenase subunit alpha	7.1.1.1	NAD+	NADP+	green
+proton-translocating NAD(P)+ transhydrogenase subunit alpha	7.1.1.1	NADH	H+	green
+proton-translocating NAD(P)+ transhydrogenase subunit alpha	7.1.1.1	NADH	NAD+	green
+proton-translocating NAD(P)+ transhydrogenase subunit alpha	7.1.1.1	NADH	NADPH	green
+proton-translocating NAD(P)+ transhydrogenase subunit alpha	7.1.1.1	NADP+	H+	green
+proton-translocating NAD(P)+ transhydrogenase subunit alpha	7.1.1.1	NADP+	NAD+	green
+proton-translocating NAD(P)+ transhydrogenase subunit alpha	7.1.1.1	NADP+	NADPH	green
+proton-translocating NAD(P)+ transhydrogenase subunit alpha	7.1.1.1	NADPH	H+	green
+proton-translocating NAD(P)+ transhydrogenase subunit alpha	7.1.1.1	NADPH	NADH	green
+proton-translocating NAD(P)+ transhydrogenase subunit alpha	7.1.1.1	NADPH	NADP+	green
+proton-translocating NAD(P)+ transhydrogenase subunit beta	7.1.1.1	H+	H+	green
+proton-translocating NAD(P)+ transhydrogenase subunit beta	7.1.1.1	H+	NAD+	green
+proton-translocating NAD(P)+ transhydrogenase subunit beta	7.1.1.1	H+	NADH	green
+proton-translocating NAD(P)+ transhydrogenase subunit beta	7.1.1.1	H+	NADP+	green
+proton-translocating NAD(P)+ transhydrogenase subunit beta	7.1.1.1	H+	NADPH	green
+proton-translocating NAD(P)+ transhydrogenase subunit beta	7.1.1.1	NAD+	H+	green
+proton-translocating NAD(P)+ transhydrogenase subunit beta	7.1.1.1	NAD+	NADH	green
+proton-translocating NAD(P)+ transhydrogenase subunit beta	7.1.1.1	NAD+	NADP+	green
+proton-translocating NAD(P)+ transhydrogenase subunit beta	7.1.1.1	NADH	H+	green
+proton-translocating NAD(P)+ transhydrogenase subunit beta	7.1.1.1	NADH	NAD+	green
+proton-translocating NAD(P)+ transhydrogenase subunit beta	7.1.1.1	NADH	NADPH	green
+proton-translocating NAD(P)+ transhydrogenase subunit beta	7.1.1.1	NADP+	H+	green
+proton-translocating NAD(P)+ transhydrogenase subunit beta	7.1.1.1	NADP+	NAD+	green
+proton-translocating NAD(P)+ transhydrogenase subunit beta	7.1.1.1	NADP+	NADPH	green
+proton-translocating NAD(P)+ transhydrogenase subunit beta	7.1.1.1	NADPH	H+	green
+proton-translocating NAD(P)+ transhydrogenase subunit beta	7.1.1.1	NADPH	NADH	green
+proton-translocating NAD(P)+ transhydrogenase subunit beta	7.1.1.1	NADPH	NADP+	green
+pseudooxynicotine dehydrogenase	1.4.2.3	4-Oxo-1-(3-pyridyl)-1-butanone	Ferricytochrome c	white
+pseudooxynicotine dehydrogenase	1.4.2.3	4-Oxo-1-(3-pyridyl)-1-butanone	H2O	white
+pseudooxynicotine dehydrogenase	1.4.2.3	4-Oxo-1-(3-pyridyl)-1-butanone	Pseudooxynicotine	white
+pseudooxynicotine dehydrogenase	1.4.2.3	Ferricytochrome c	4-Oxo-1-(3-pyridyl)-1-butanone	white
+pseudooxynicotine dehydrogenase	1.4.2.3	Ferricytochrome c	Ferrocytochrome c	white
+pseudooxynicotine dehydrogenase	1.4.2.3	Ferricytochrome c	H+	white
+pseudooxynicotine dehydrogenase	1.4.2.3	Ferricytochrome c	Methylamine	white
+pseudooxynicotine dehydrogenase	1.4.2.3	Ferrocytochrome c	Ferricytochrome c	white
+pseudooxynicotine dehydrogenase	1.4.2.3	Ferrocytochrome c	H2O	white
+pseudooxynicotine dehydrogenase	1.4.2.3	Ferrocytochrome c	Pseudooxynicotine	white
+pseudooxynicotine dehydrogenase	1.4.2.3	H+	Ferricytochrome c	white
+pseudooxynicotine dehydrogenase	1.4.2.3	H+	H2O	white
+pseudooxynicotine dehydrogenase	1.4.2.3	H+	Pseudooxynicotine	white
+pseudooxynicotine dehydrogenase	1.4.2.3	H2O	4-Oxo-1-(3-pyridyl)-1-butanone	white
+pseudooxynicotine dehydrogenase	1.4.2.3	H2O	Ferrocytochrome c	white
+pseudooxynicotine dehydrogenase	1.4.2.3	H2O	H+	white
+pseudooxynicotine dehydrogenase	1.4.2.3	H2O	Methylamine	white
+pseudooxynicotine dehydrogenase	1.4.2.3	Methylamine	Ferricytochrome c	white
+pseudooxynicotine dehydrogenase	1.4.2.3	Methylamine	H2O	white
+pseudooxynicotine dehydrogenase	1.4.2.3	Methylamine	Pseudooxynicotine	white
+pseudooxynicotine dehydrogenase	1.4.2.3	Pseudooxynicotine	4-Oxo-1-(3-pyridyl)-1-butanone	white
+pseudooxynicotine dehydrogenase	1.4.2.3	Pseudooxynicotine	Ferrocytochrome c	white
+pseudooxynicotine dehydrogenase	1.4.2.3	Pseudooxynicotine	H+	white
+pseudooxynicotine dehydrogenase	1.4.2.3	Pseudooxynicotine	Methylamine	white
+purine-nucleoside phosphorylase	2.4.2.1	H+	Nicotinate D-ribonucleoside	green
+purine-nucleoside phosphorylase	2.4.2.1	H+	Orthophosphate	green
+purine-nucleoside phosphorylase	2.4.2.1	Nicotinamide	Nicotinamide-beta-riboside	green
+purine-nucleoside phosphorylase	2.4.2.1	Nicotinamide	Orthophosphate	green
+purine-nucleoside phosphorylase	2.4.2.1	Nicotinamide-beta-riboside	Nicotinamide	green
+purine-nucleoside phosphorylase	2.4.2.1	Nicotinamide-beta-riboside	alpha-D-Ribose 1-phosphate	green
+purine-nucleoside phosphorylase	2.4.2.1	Nicotinate	Nicotinate D-ribonucleoside	green
+purine-nucleoside phosphorylase	2.4.2.1	Nicotinate	Orthophosphate	green
+purine-nucleoside phosphorylase	2.4.2.1	Nicotinate D-ribonucleoside	H+	green
+purine-nucleoside phosphorylase	2.4.2.1	Nicotinate D-ribonucleoside	Nicotinate	green
+purine-nucleoside phosphorylase	2.4.2.1	Nicotinate D-ribonucleoside	alpha-D-Ribose 1-phosphate	green
+purine-nucleoside phosphorylase	2.4.2.1	Orthophosphate	H+	green
+purine-nucleoside phosphorylase	2.4.2.1	Orthophosphate	Nicotinamide	green
+purine-nucleoside phosphorylase	2.4.2.1	Orthophosphate	Nicotinate	green
+purine-nucleoside phosphorylase	2.4.2.1	Orthophosphate	alpha-D-Ribose 1-phosphate	green
+purine-nucleoside phosphorylase	2.4.2.1	alpha-D-Ribose 1-phosphate	Nicotinamide-beta-riboside	green
+purine-nucleoside phosphorylase	2.4.2.1	alpha-D-Ribose 1-phosphate	Nicotinate D-ribonucleoside	green
+purine-nucleoside phosphorylase	2.4.2.1	alpha-D-Ribose 1-phosphate	Orthophosphate	green
+pyrimidine and pyridine-specific 5'-nucleotidase	3.1.3.-	H2O	Nicotinamide-beta-riboside	white
+pyrimidine and pyridine-specific 5'-nucleotidase	3.1.3.-	H2O	Orthophosphate	white
+pyrimidine and pyridine-specific 5'-nucleotidase	3.1.3.-	Nicotinamide D-ribonucleotide	Nicotinamide-beta-riboside	white
+pyrimidine and pyridine-specific 5'-nucleotidase	3.1.3.-	Nicotinamide D-ribonucleotide	Orthophosphate	white
+pyrimidine and pyridine-specific 5'-nucleotidase	3.1.3.-	Nicotinamide-beta-riboside	H2O	white
+pyrimidine and pyridine-specific 5'-nucleotidase	3.1.3.-	Nicotinamide-beta-riboside	Nicotinamide D-ribonucleotide	white
+pyrimidine and pyridine-specific 5'-nucleotidase	3.1.3.-	Orthophosphate	H2O	white
+pyrimidine and pyridine-specific 5'-nucleotidase	3.1.3.-	Orthophosphate	Nicotinamide D-ribonucleotide	white
+quinolinate synthase	2.5.1.72	H2O	Glycerone phosphate	green
+quinolinate synthase	2.5.1.72	H2O	Iminoaspartate	green
+quinolinate synthase	2.5.1.72	Orthophosphate	Glycerone phosphate	green
+quinolinate synthase	2.5.1.72	Orthophosphate	Iminoaspartate	green
+quinolinate synthase	2.5.1.72	Quinolinate	Glycerone phosphate	green
+quinolinate synthase	2.5.1.72	Quinolinate	Iminoaspartate	green
+succinate-semialdehyde dehydrogenase	1.2.1.24	H+	H2O	white
+succinate-semialdehyde dehydrogenase	1.2.1.24	H+	NAD+	white
+succinate-semialdehyde dehydrogenase	1.2.1.24	H+	Succinate semialdehyde	white
+succinate-semialdehyde dehydrogenase	1.2.1.24	H2O	H+	white
+succinate-semialdehyde dehydrogenase	1.2.1.24	H2O	NADH	white
+succinate-semialdehyde dehydrogenase	1.2.1.24	H2O	Succinate	white
+succinate-semialdehyde dehydrogenase	1.2.1.24	NAD+	H+	white
+succinate-semialdehyde dehydrogenase	1.2.1.24	NAD+	NADH	white
+succinate-semialdehyde dehydrogenase	1.2.1.24	NAD+	Succinate	white
+succinate-semialdehyde dehydrogenase	1.2.1.24	NADH	H2O	white
+succinate-semialdehyde dehydrogenase	1.2.1.24	NADH	NAD+	white
+succinate-semialdehyde dehydrogenase	1.2.1.24	NADH	Succinate semialdehyde	white
+succinate-semialdehyde dehydrogenase	1.2.1.24	Succinate	H2O	white
+succinate-semialdehyde dehydrogenase	1.2.1.24	Succinate	NAD+	white
+succinate-semialdehyde dehydrogenase	1.2.1.24	Succinate	Succinate semialdehyde	white
+succinate-semialdehyde dehydrogenase	1.2.1.24	Succinate semialdehyde	H+	white
+succinate-semialdehyde dehydrogenase	1.2.1.24	Succinate semialdehyde	NADH	white
+succinate-semialdehyde dehydrogenase	1.2.1.24	Succinate semialdehyde	Succinate	white
+succinate-semialdehyde dehydrogenase / glutarate-semialdehyde dehydrogenase	1.2.1.16	H2O	H+	green
+succinate-semialdehyde dehydrogenase / glutarate-semialdehyde dehydrogenase	1.2.1.16	H2O	NADH	green
+succinate-semialdehyde dehydrogenase / glutarate-semialdehyde dehydrogenase	1.2.1.16	H2O	NADPH	green
+succinate-semialdehyde dehydrogenase / glutarate-semialdehyde dehydrogenase	1.2.1.16	H2O	Succinate	green
+succinate-semialdehyde dehydrogenase / glutarate-semialdehyde dehydrogenase	1.2.1.16	NAD+	H+	green
+succinate-semialdehyde dehydrogenase / glutarate-semialdehyde dehydrogenase	1.2.1.16	NAD+	NADH	green
+succinate-semialdehyde dehydrogenase / glutarate-semialdehyde dehydrogenase	1.2.1.16	NAD+	Succinate	green
+succinate-semialdehyde dehydrogenase / glutarate-semialdehyde dehydrogenase	1.2.1.16	NADP+	H+	green
+succinate-semialdehyde dehydrogenase / glutarate-semialdehyde dehydrogenase	1.2.1.16	NADP+	NADPH	green
+succinate-semialdehyde dehydrogenase / glutarate-semialdehyde dehydrogenase	1.2.1.16	NADP+	Succinate	green
+succinate-semialdehyde dehydrogenase / glutarate-semialdehyde dehydrogenase	1.2.1.16	Succinate semialdehyde	H+	green
+succinate-semialdehyde dehydrogenase / glutarate-semialdehyde dehydrogenase	1.2.1.16	Succinate semialdehyde	NADH	green
+succinate-semialdehyde dehydrogenase / glutarate-semialdehyde dehydrogenase	1.2.1.16	Succinate semialdehyde	NADPH	green
+succinate-semialdehyde dehydrogenase / glutarate-semialdehyde dehydrogenase	1.2.1.16	Succinate semialdehyde	Succinate	green
+uridine nucleosidase	3.2.2.3	D-Ribose	H2O	white
+uridine nucleosidase	3.2.2.3	D-Ribose	Uridine	white
+uridine nucleosidase	3.2.2.3	H2O	D-Ribose	white
+uridine nucleosidase	3.2.2.3	H2O	Uracil	white
+uridine nucleosidase	3.2.2.3	Uracil	H2O	white
+uridine nucleosidase	3.2.2.3	Uracil	Uridine	white
+uridine nucleosidase	3.2.2.3	Uridine	D-Ribose	white
+uridine nucleosidase	3.2.2.3	Uridine	Uracil	white

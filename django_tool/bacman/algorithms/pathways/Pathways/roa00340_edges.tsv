@@ -1,0 +1,265 @@
+enzyme_name	EC	source	target	color
+ATP phosphoribosyltransferase	2.4.2.17	1-(5-Phospho-D-ribosyl)-ATP	5-Phospho-alpha-D-ribose 1-diphosphate	green
+ATP phosphoribosyltransferase	2.4.2.17	1-(5-Phospho-D-ribosyl)-ATP	ATP	green
+ATP phosphoribosyltransferase	2.4.2.17	5-Phospho-alpha-D-ribose 1-diphosphate	1-(5-Phospho-D-ribosyl)-ATP	green
+ATP phosphoribosyltransferase	2.4.2.17	5-Phospho-alpha-D-ribose 1-diphosphate	Diphosphate	green
+ATP phosphoribosyltransferase	2.4.2.17	ATP	1-(5-Phospho-D-ribosyl)-ATP	green
+ATP phosphoribosyltransferase	2.4.2.17	ATP	Diphosphate	green
+ATP phosphoribosyltransferase	2.4.2.17	Diphosphate	5-Phospho-alpha-D-ribose 1-diphosphate	green
+ATP phosphoribosyltransferase	2.4.2.17	Diphosphate	ATP	green
+L-histidine Nalpha-methyltransferase	2.1.1.44	H+	Hercynine	green
+L-histidine Nalpha-methyltransferase	2.1.1.44	H+	S-Adenosyl-L-homocysteine	green
+L-histidine Nalpha-methyltransferase	2.1.1.44	L-Histidine	Hercynine	green
+L-histidine Nalpha-methyltransferase	2.1.1.44	L-Histidine	S-Adenosyl-L-homocysteine	green
+L-histidine Nalpha-methyltransferase	2.1.1.44	S-Adenosyl-L-methionine	Hercynine	green
+L-histidine Nalpha-methyltransferase	2.1.1.44	S-Adenosyl-L-methionine	S-Adenosyl-L-homocysteine	green
+L-histidine Nalpha-methyltransferase / hercynylcysteine S-oxide synthase	2.1.1.44	H+	Hercynine	white
+L-histidine Nalpha-methyltransferase / hercynylcysteine S-oxide synthase	2.1.1.44	H+	S-Adenosyl-L-homocysteine	white
+L-histidine Nalpha-methyltransferase / hercynylcysteine S-oxide synthase	2.1.1.44	Hercynine	H+	white
+L-histidine Nalpha-methyltransferase / hercynylcysteine S-oxide synthase	2.1.1.44	Hercynine	L-Histidine	white
+L-histidine Nalpha-methyltransferase / hercynylcysteine S-oxide synthase	2.1.1.44	Hercynine	S-Adenosyl-L-methionine	white
+L-histidine Nalpha-methyltransferase / hercynylcysteine S-oxide synthase	2.1.1.44	L-Histidine	Hercynine	white
+L-histidine Nalpha-methyltransferase / hercynylcysteine S-oxide synthase	2.1.1.44	L-Histidine	S-Adenosyl-L-homocysteine	white
+L-histidine Nalpha-methyltransferase / hercynylcysteine S-oxide synthase	2.1.1.44	S-Adenosyl-L-homocysteine	H+	white
+L-histidine Nalpha-methyltransferase / hercynylcysteine S-oxide synthase	2.1.1.44	S-Adenosyl-L-homocysteine	L-Histidine	white
+L-histidine Nalpha-methyltransferase / hercynylcysteine S-oxide synthase	2.1.1.44	S-Adenosyl-L-homocysteine	S-Adenosyl-L-methionine	white
+L-histidine Nalpha-methyltransferase / hercynylcysteine S-oxide synthase	2.1.1.44	S-Adenosyl-L-methionine	Hercynine	white
+L-histidine Nalpha-methyltransferase / hercynylcysteine S-oxide synthase	2.1.1.44	S-Adenosyl-L-methionine	S-Adenosyl-L-homocysteine	white
+N-formylglutamate deformylase	3.5.1.68	Formate	H2O	white
+N-formylglutamate deformylase	3.5.1.68	Formate	N-Formyl-L-glutamate	white
+N-formylglutamate deformylase	3.5.1.68	H2O	Formate	white
+N-formylglutamate deformylase	3.5.1.68	H2O	L-Glutamate	white
+N-formylglutamate deformylase	3.5.1.68	L-Glutamate	H2O	white
+N-formylglutamate deformylase	3.5.1.68	L-Glutamate	N-Formyl-L-glutamate	white
+N-formylglutamate deformylase	3.5.1.68	N-Formyl-L-glutamate	Formate	white
+N-formylglutamate deformylase	3.5.1.68	N-Formyl-L-glutamate	L-Glutamate	white
+aldehyde dehydrogenase (NAD(P)+)	1.2.1.5	H2O	H+	green
+aldehyde dehydrogenase (NAD(P)+)	1.2.1.5	H2O	Methylimidazoleacetic acid	green
+aldehyde dehydrogenase (NAD(P)+)	1.2.1.5	H2O	NADH	green
+aldehyde dehydrogenase (NAD(P)+)	1.2.1.5	Methylimidazole acetaldehyde	H+	green
+aldehyde dehydrogenase (NAD(P)+)	1.2.1.5	Methylimidazole acetaldehyde	Methylimidazoleacetic acid	green
+aldehyde dehydrogenase (NAD(P)+)	1.2.1.5	Methylimidazole acetaldehyde	NADH	green
+aldehyde dehydrogenase (NAD(P)+)	1.2.1.5	NAD+	H+	green
+aldehyde dehydrogenase (NAD(P)+)	1.2.1.5	NAD+	Methylimidazoleacetic acid	green
+aldehyde dehydrogenase (NAD(P)+)	1.2.1.5	NAD+	NADH	green
+aldehyde dehydrogenase (NAD+)	1.2.1.3	H2O	H+	green
+aldehyde dehydrogenase (NAD+)	1.2.1.3	H2O	Imidazole-4-acetate	green
+aldehyde dehydrogenase (NAD+)	1.2.1.3	H2O	NADH	green
+aldehyde dehydrogenase (NAD+)	1.2.1.3	Imidazole-4-acetaldehyde	H+	green
+aldehyde dehydrogenase (NAD+)	1.2.1.3	Imidazole-4-acetaldehyde	Imidazole-4-acetate	green
+aldehyde dehydrogenase (NAD+)	1.2.1.3	Imidazole-4-acetaldehyde	NADH	green
+aldehyde dehydrogenase (NAD+)	1.2.1.3	NAD+	H+	green
+aldehyde dehydrogenase (NAD+)	1.2.1.3	NAD+	Imidazole-4-acetate	green
+aldehyde dehydrogenase (NAD+)	1.2.1.3	NAD+	NADH	green
+aspartoacylase	3.5.1.15	Acetate	H2O	white
+aspartoacylase	3.5.1.15	Acetate	N-Acetyl-L-aspartate	white
+aspartoacylase	3.5.1.15	H2O	Acetate	white
+aspartoacylase	3.5.1.15	H2O	L-Aspartate	white
+aspartoacylase	3.5.1.15	L-Aspartate	H2O	white
+aspartoacylase	3.5.1.15	L-Aspartate	N-Acetyl-L-aspartate	white
+aspartoacylase	3.5.1.15	N-Acetyl-L-aspartate	Acetate	white
+aspartoacylase	3.5.1.15	N-Acetyl-L-aspartate	L-Aspartate	white
+beta-Ala-His dipeptidase	3.4.13.20	Carnosine	L-Histidine	white
+beta-Ala-His dipeptidase	3.4.13.20	Carnosine	beta-Alanine	white
+beta-Ala-His dipeptidase	3.4.13.20	H2O	L-Histidine	white
+beta-Ala-His dipeptidase	3.4.13.20	H2O	beta-Alanine	white
+beta-Ala-His dipeptidase	3.4.13.20	L-Histidine	Carnosine	white
+beta-Ala-His dipeptidase	3.4.13.20	L-Histidine	H2O	white
+beta-Ala-His dipeptidase	3.4.13.20	beta-Alanine	Carnosine	white
+beta-Ala-His dipeptidase	3.4.13.20	beta-Alanine	H2O	white
+carnosine N-methyltransferase	2.1.1.22	Carnosine	S-Adenosyl-L-homocysteine	white
+carnosine N-methyltransferase	2.1.1.22	Carnosine	beta-Alanyl-N(pi)-methyl-L-histidine	white
+carnosine N-methyltransferase	2.1.1.22	S-Adenosyl-L-homocysteine	Carnosine	white
+carnosine N-methyltransferase	2.1.1.22	S-Adenosyl-L-homocysteine	S-Adenosyl-L-methionine	white
+carnosine N-methyltransferase	2.1.1.22	S-Adenosyl-L-methionine	S-Adenosyl-L-homocysteine	white
+carnosine N-methyltransferase	2.1.1.22	S-Adenosyl-L-methionine	beta-Alanyl-N(pi)-methyl-L-histidine	white
+carnosine N-methyltransferase	2.1.1.22	beta-Alanyl-N(pi)-methyl-L-histidine	Carnosine	white
+carnosine N-methyltransferase	2.1.1.22	beta-Alanyl-N(pi)-methyl-L-histidine	S-Adenosyl-L-methionine	white
+carnosine synthase	6.3.2.11	ADP	ATP	white
+carnosine synthase	6.3.2.11	ADP	L-Lysine	white
+carnosine synthase	6.3.2.11	ADP	beta-Alanine	white
+carnosine synthase	6.3.2.11	ATP	ADP	white
+carnosine synthase	6.3.2.11	ATP	Orthophosphate	white
+carnosine synthase	6.3.2.11	ATP	beta-Alanyl-L-lysine	white
+carnosine synthase	6.3.2.11	L-Lysine	ADP	white
+carnosine synthase	6.3.2.11	L-Lysine	Orthophosphate	white
+carnosine synthase	6.3.2.11	L-Lysine	beta-Alanyl-L-lysine	white
+carnosine synthase	6.3.2.11	Orthophosphate	ATP	white
+carnosine synthase	6.3.2.11	Orthophosphate	L-Lysine	white
+carnosine synthase	6.3.2.11	Orthophosphate	beta-Alanine	white
+carnosine synthase	6.3.2.11	beta-Alanine	ADP	white
+carnosine synthase	6.3.2.11	beta-Alanine	Orthophosphate	white
+carnosine synthase	6.3.2.11	beta-Alanine	beta-Alanyl-L-lysine	white
+carnosine synthase	6.3.2.11	beta-Alanyl-L-lysine	ATP	white
+carnosine synthase	6.3.2.11	beta-Alanyl-L-lysine	L-Lysine	white
+carnosine synthase	6.3.2.11	beta-Alanyl-L-lysine	beta-Alanine	white
+cytosolic nonspecific dipeptidase	3.4.13.18	Carnosine	L-Histidine	white
+cytosolic nonspecific dipeptidase	3.4.13.18	Carnosine	beta-Alanine	white
+cytosolic nonspecific dipeptidase	3.4.13.18	H2O	L-Histidine	white
+cytosolic nonspecific dipeptidase	3.4.13.18	H2O	beta-Alanine	white
+cytosolic nonspecific dipeptidase	3.4.13.18	L-Histidine	Carnosine	white
+cytosolic nonspecific dipeptidase	3.4.13.18	L-Histidine	H2O	white
+cytosolic nonspecific dipeptidase	3.4.13.18	beta-Alanine	Carnosine	white
+cytosolic nonspecific dipeptidase	3.4.13.18	beta-Alanine	H2O	white
+diamine oxidase	1.4.3.22	4-Aminobutyraldehyde	H2O	white
+diamine oxidase	1.4.3.22	4-Aminobutyraldehyde	Oxygen	white
+diamine oxidase	1.4.3.22	4-Aminobutyraldehyde	Putrescine	white
+diamine oxidase	1.4.3.22	Ammonia	H2O	white
+diamine oxidase	1.4.3.22	Ammonia	Oxygen	white
+diamine oxidase	1.4.3.22	Ammonia	Putrescine	white
+diamine oxidase	1.4.3.22	H2O	4-Aminobutyraldehyde	white
+diamine oxidase	1.4.3.22	H2O	Ammonia	white
+diamine oxidase	1.4.3.22	H2O	Hydrogen peroxide	white
+diamine oxidase	1.4.3.22	Hydrogen peroxide	H2O	white
+diamine oxidase	1.4.3.22	Hydrogen peroxide	Oxygen	white
+diamine oxidase	1.4.3.22	Hydrogen peroxide	Putrescine	white
+diamine oxidase	1.4.3.22	Oxygen	4-Aminobutyraldehyde	white
+diamine oxidase	1.4.3.22	Oxygen	Ammonia	white
+diamine oxidase	1.4.3.22	Oxygen	Hydrogen peroxide	white
+diamine oxidase	1.4.3.22	Putrescine	4-Aminobutyraldehyde	white
+diamine oxidase	1.4.3.22	Putrescine	Ammonia	white
+diamine oxidase	1.4.3.22	Putrescine	Hydrogen peroxide	white
+formimidoylglutamate deiminase	3.5.3.13	Ammonia	H2O	white
+formimidoylglutamate deiminase	3.5.3.13	Ammonia	N-Formimino-L-glutamate	white
+formimidoylglutamate deiminase	3.5.3.13	H2O	Ammonia	white
+formimidoylglutamate deiminase	3.5.3.13	H2O	N-Formyl-L-glutamate	white
+formimidoylglutamate deiminase	3.5.3.13	N-Formimino-L-glutamate	Ammonia	white
+formimidoylglutamate deiminase	3.5.3.13	N-Formimino-L-glutamate	N-Formyl-L-glutamate	white
+formimidoylglutamate deiminase	3.5.3.13	N-Formyl-L-glutamate	H2O	white
+formimidoylglutamate deiminase	3.5.3.13	N-Formyl-L-glutamate	N-Formimino-L-glutamate	white
+formiminoglutamase	3.5.3.8	H2O	Formamide	green
+formiminoglutamase	3.5.3.8	H2O	L-Glutamate	green
+formiminoglutamase	3.5.3.8	N-Formimino-L-glutamate	Formamide	green
+formiminoglutamase	3.5.3.8	N-Formimino-L-glutamate	L-Glutamate	green
+gamma-glutamyl hercynylcysteine S-oxide hydrolase	3.5.1.118	H2O	L-Glutamate	green
+gamma-glutamyl hercynylcysteine S-oxide hydrolase	3.5.1.118	H2O	S-(Hercyn-2-yl)-L-cysteine S-oxide	green
+gamma-glutamyl hercynylcysteine S-oxide hydrolase	3.5.1.118	gamma-L-Glutamyl-S-(hercyn-2-yl)-L-cysteine S-oxide	L-Glutamate	green
+gamma-glutamyl hercynylcysteine S-oxide hydrolase	3.5.1.118	gamma-L-Glutamyl-S-(hercyn-2-yl)-L-cysteine S-oxide	S-(Hercyn-2-yl)-L-cysteine S-oxide	green
+gamma-glutamyl hercynylcysteine S-oxide synthase	1.14.99.50	Hercynine	H2O	green
+gamma-glutamyl hercynylcysteine S-oxide synthase	1.14.99.50	Hercynine	gamma-L-Glutamyl-S-(hercyn-2-yl)-L-cysteine S-oxide	green
+gamma-glutamyl hercynylcysteine S-oxide synthase	1.14.99.50	Oxygen	H2O	green
+gamma-glutamyl hercynylcysteine S-oxide synthase	1.14.99.50	Oxygen	gamma-L-Glutamyl-S-(hercyn-2-yl)-L-cysteine S-oxide	green
+gamma-glutamyl hercynylcysteine S-oxide synthase	1.14.99.50	gamma-L-Glutamyl-L-cysteine	H2O	green
+gamma-glutamyl hercynylcysteine S-oxide synthase	1.14.99.50	gamma-L-Glutamyl-L-cysteine	gamma-L-Glutamyl-S-(hercyn-2-yl)-L-cysteine S-oxide	green
+glutamate formiminotransferase / 5-formyltetrahydrofolate cyclo-ligase	2.1.2.5	5-Formiminotetrahydrofolate	N-Formimino-L-glutamate	white
+glutamate formiminotransferase / 5-formyltetrahydrofolate cyclo-ligase	2.1.2.5	5-Formiminotetrahydrofolate	Tetrahydrofolate	white
+glutamate formiminotransferase / 5-formyltetrahydrofolate cyclo-ligase	2.1.2.5	L-Glutamate	N-Formimino-L-glutamate	white
+glutamate formiminotransferase / 5-formyltetrahydrofolate cyclo-ligase	2.1.2.5	L-Glutamate	Tetrahydrofolate	white
+glutamate formiminotransferase / 5-formyltetrahydrofolate cyclo-ligase	2.1.2.5	N-Formimino-L-glutamate	5-Formiminotetrahydrofolate	white
+glutamate formiminotransferase / 5-formyltetrahydrofolate cyclo-ligase	2.1.2.5	N-Formimino-L-glutamate	L-Glutamate	white
+glutamate formiminotransferase / 5-formyltetrahydrofolate cyclo-ligase	2.1.2.5	Tetrahydrofolate	5-Formiminotetrahydrofolate	white
+glutamate formiminotransferase / 5-formyltetrahydrofolate cyclo-ligase	2.1.2.5	Tetrahydrofolate	L-Glutamate	white
+glutamate formiminotransferase / formiminotetrahydrofolate cyclodeaminase	2.1.2.5	5-Formiminotetrahydrofolate	N-Formimino-L-glutamate	white
+glutamate formiminotransferase / formiminotetrahydrofolate cyclodeaminase	2.1.2.5	5-Formiminotetrahydrofolate	Tetrahydrofolate	white
+glutamate formiminotransferase / formiminotetrahydrofolate cyclodeaminase	2.1.2.5	L-Glutamate	N-Formimino-L-glutamate	white
+glutamate formiminotransferase / formiminotetrahydrofolate cyclodeaminase	2.1.2.5	L-Glutamate	Tetrahydrofolate	white
+glutamate formiminotransferase / formiminotetrahydrofolate cyclodeaminase	2.1.2.5	N-Formimino-L-glutamate	5-Formiminotetrahydrofolate	white
+glutamate formiminotransferase / formiminotetrahydrofolate cyclodeaminase	2.1.2.5	N-Formimino-L-glutamate	L-Glutamate	white
+glutamate formiminotransferase / formiminotetrahydrofolate cyclodeaminase	2.1.2.5	Tetrahydrofolate	5-Formiminotetrahydrofolate	white
+glutamate formiminotransferase / formiminotetrahydrofolate cyclodeaminase	2.1.2.5	Tetrahydrofolate	L-Glutamate	white
+hercynylcysteine S-oxide lyase	4.4.1.36	Acceptor	Reduced acceptor	white
+hercynylcysteine S-oxide lyase	4.4.1.36	Acceptor	S-(Hercyn-2-yl)-L-cysteine S-oxide	white
+hercynylcysteine S-oxide lyase	4.4.1.36	Ammonia	Reduced acceptor	white
+hercynylcysteine S-oxide lyase	4.4.1.36	Ammonia	S-(Hercyn-2-yl)-L-cysteine S-oxide	white
+hercynylcysteine S-oxide lyase	4.4.1.36	Ergothioneine	Reduced acceptor	white
+hercynylcysteine S-oxide lyase	4.4.1.36	Ergothioneine	S-(Hercyn-2-yl)-L-cysteine S-oxide	white
+hercynylcysteine S-oxide lyase	4.4.1.36	Pyruvate	Reduced acceptor	white
+hercynylcysteine S-oxide lyase	4.4.1.36	Pyruvate	S-(Hercyn-2-yl)-L-cysteine S-oxide	white
+hercynylcysteine S-oxide lyase	4.4.1.36	Reduced acceptor	Acceptor	white
+hercynylcysteine S-oxide lyase	4.4.1.36	Reduced acceptor	Ammonia	white
+hercynylcysteine S-oxide lyase	4.4.1.36	Reduced acceptor	Ergothioneine	white
+hercynylcysteine S-oxide lyase	4.4.1.36	Reduced acceptor	Pyruvate	white
+hercynylcysteine S-oxide lyase	4.4.1.36	S-(Hercyn-2-yl)-L-cysteine S-oxide	Acceptor	white
+hercynylcysteine S-oxide lyase	4.4.1.36	S-(Hercyn-2-yl)-L-cysteine S-oxide	Ammonia	white
+hercynylcysteine S-oxide lyase	4.4.1.36	S-(Hercyn-2-yl)-L-cysteine S-oxide	Ergothioneine	white
+hercynylcysteine S-oxide lyase	4.4.1.36	S-(Hercyn-2-yl)-L-cysteine S-oxide	Pyruvate	white
+histamine N-methyltransferase	2.1.1.8	Histamine	N-Methylhistamine	white
+histamine N-methyltransferase	2.1.1.8	Histamine	S-Adenosyl-L-homocysteine	white
+histamine N-methyltransferase	2.1.1.8	N-Methylhistamine	Histamine	white
+histamine N-methyltransferase	2.1.1.8	N-Methylhistamine	S-Adenosyl-L-methionine	white
+histamine N-methyltransferase	2.1.1.8	S-Adenosyl-L-homocysteine	Histamine	white
+histamine N-methyltransferase	2.1.1.8	S-Adenosyl-L-homocysteine	S-Adenosyl-L-methionine	white
+histamine N-methyltransferase	2.1.1.8	S-Adenosyl-L-methionine	N-Methylhistamine	white
+histamine N-methyltransferase	2.1.1.8	S-Adenosyl-L-methionine	S-Adenosyl-L-homocysteine	white
+histidine ammonia-lyase	4.3.1.3	L-Histidine	Ammonia	green
+histidine ammonia-lyase	4.3.1.3	L-Histidine	Urocanate	green
+histidine decarboxylase	4.1.1.22	CO2	L-Histidine	white
+histidine decarboxylase	4.1.1.22	Histamine	L-Histidine	white
+histidine decarboxylase	4.1.1.22	L-Histidine	CO2	white
+histidine decarboxylase	4.1.1.22	L-Histidine	Histamine	white
+histidinol dehydrogenase	1.1.1.23	H2O	H+	green
+histidinol dehydrogenase	1.1.1.23	H2O	L-Histidine	green
+histidinol dehydrogenase	1.1.1.23	H2O	NADH	green
+histidinol dehydrogenase	1.1.1.23	L-Histidinal	H+	green
+histidinol dehydrogenase	1.1.1.23	L-Histidinal	L-Histidine	green
+histidinol dehydrogenase	1.1.1.23	L-Histidinal	NADH	green
+histidinol dehydrogenase	1.1.1.23	L-Histidinol	H+	green
+histidinol dehydrogenase	1.1.1.23	L-Histidinol	L-Histidinal	green
+histidinol dehydrogenase	1.1.1.23	L-Histidinol	NADH	green
+histidinol dehydrogenase	1.1.1.23	NAD+	H+	green
+histidinol dehydrogenase	1.1.1.23	NAD+	L-Histidinal	green
+histidinol dehydrogenase	1.1.1.23	NAD+	L-Histidine	green
+histidinol dehydrogenase	1.1.1.23	NAD+	NADH	green
+histidinol-phosphatase	3.1.3.15	H2O	L-Histidinol	green
+histidinol-phosphatase	3.1.3.15	H2O	Orthophosphate	green
+histidinol-phosphatase	3.1.3.15	L-Histidinol phosphate	L-Histidinol	green
+histidinol-phosphatase	3.1.3.15	L-Histidinol phosphate	Orthophosphate	green
+histidinol-phosphate aminotransferase	2.6.1.9	2-Oxoglutarate	3-(Imidazol-4-yl)-2-oxopropyl phosphate	green
+histidinol-phosphate aminotransferase	2.6.1.9	2-Oxoglutarate	L-Glutamate	green
+histidinol-phosphate aminotransferase	2.6.1.9	3-(Imidazol-4-yl)-2-oxopropyl phosphate	2-Oxoglutarate	green
+histidinol-phosphate aminotransferase	2.6.1.9	3-(Imidazol-4-yl)-2-oxopropyl phosphate	L-Histidinol phosphate	green
+histidinol-phosphate aminotransferase	2.6.1.9	L-Glutamate	2-Oxoglutarate	green
+histidinol-phosphate aminotransferase	2.6.1.9	L-Glutamate	L-Histidinol phosphate	green
+histidinol-phosphate aminotransferase	2.6.1.9	L-Histidinol phosphate	3-(Imidazol-4-yl)-2-oxopropyl phosphate	green
+histidinol-phosphate aminotransferase	2.6.1.9	L-Histidinol phosphate	L-Glutamate	green
+imidazole glycerol-phosphate synthase subunit HisF	4.3.2.10	L-Glutamine	1-(5'-Phosphoribosyl)-5-amino-4-imidazolecarboxamide	green
+imidazole glycerol-phosphate synthase subunit HisF	4.3.2.10	L-Glutamine	D-erythro-1-(Imidazol-4-yl)glycerol 3-phosphate	green
+imidazole glycerol-phosphate synthase subunit HisF	4.3.2.10	L-Glutamine	L-Glutamate	green
+imidazole glycerol-phosphate synthase subunit HisF	4.3.2.10	N-(5'-Phospho-D-1'-ribulosylformimino)-5-amino-1-(5''-phospho-D-ribosyl)-4-imidazolecarboxamide	1-(5'-Phosphoribosyl)-5-amino-4-imidazolecarboxamide	green
+imidazole glycerol-phosphate synthase subunit HisF	4.3.2.10	N-(5'-Phospho-D-1'-ribulosylformimino)-5-amino-1-(5''-phospho-D-ribosyl)-4-imidazolecarboxamide	D-erythro-1-(Imidazol-4-yl)glycerol 3-phosphate	green
+imidazole glycerol-phosphate synthase subunit HisF	4.3.2.10	N-(5'-Phospho-D-1'-ribulosylformimino)-5-amino-1-(5''-phospho-D-ribosyl)-4-imidazolecarboxamide	L-Glutamate	green
+imidazole glycerol-phosphate synthase subunit HisH	4.3.2.10	L-Glutamine	1-(5'-Phosphoribosyl)-5-amino-4-imidazolecarboxamide	green
+imidazole glycerol-phosphate synthase subunit HisH	4.3.2.10	L-Glutamine	D-erythro-1-(Imidazol-4-yl)glycerol 3-phosphate	green
+imidazole glycerol-phosphate synthase subunit HisH	4.3.2.10	L-Glutamine	L-Glutamate	green
+imidazole glycerol-phosphate synthase subunit HisH	4.3.2.10	N-(5'-Phospho-D-1'-ribulosylformimino)-5-amino-1-(5''-phospho-D-ribosyl)-4-imidazolecarboxamide	1-(5'-Phosphoribosyl)-5-amino-4-imidazolecarboxamide	green
+imidazole glycerol-phosphate synthase subunit HisH	4.3.2.10	N-(5'-Phospho-D-1'-ribulosylformimino)-5-amino-1-(5''-phospho-D-ribosyl)-4-imidazolecarboxamide	D-erythro-1-(Imidazol-4-yl)glycerol 3-phosphate	green
+imidazole glycerol-phosphate synthase subunit HisH	4.3.2.10	N-(5'-Phospho-D-1'-ribulosylformimino)-5-amino-1-(5''-phospho-D-ribosyl)-4-imidazolecarboxamide	L-Glutamate	green
+imidazoleglycerol-phosphate dehydratase	4.2.1.19	D-erythro-1-(Imidazol-4-yl)glycerol 3-phosphate	3-(Imidazol-4-yl)-2-oxopropyl phosphate	green
+imidazoleglycerol-phosphate dehydratase	4.2.1.19	D-erythro-1-(Imidazol-4-yl)glycerol 3-phosphate	H2O	green
+imidazolonepropionase	3.5.2.7	4-Imidazolone-5-propanoate	N-Formimino-L-glutamate	green
+imidazolonepropionase	3.5.2.7	H2O	N-Formimino-L-glutamate	green
+monoamine oxidase	1.4.3.4	H2O	Ammonia	green
+monoamine oxidase	1.4.3.4	H2O	Hydrogen peroxide	green
+monoamine oxidase	1.4.3.4	H2O	Methylimidazole acetaldehyde	green
+monoamine oxidase	1.4.3.4	N-Methylhistamine	Ammonia	green
+monoamine oxidase	1.4.3.4	N-Methylhistamine	Hydrogen peroxide	green
+monoamine oxidase	1.4.3.4	N-Methylhistamine	Methylimidazole acetaldehyde	green
+monoamine oxidase	1.4.3.4	Oxygen	Ammonia	green
+monoamine oxidase	1.4.3.4	Oxygen	Hydrogen peroxide	green
+monoamine oxidase	1.4.3.4	Oxygen	Methylimidazole acetaldehyde	green
+phosphoribosyl isomerase A	5.3.1.16	5-(5-Phospho-D-ribosylaminoformimino)-1-(5-phosphoribosyl)-imidazole-4-carboxamide	N-(5'-Phospho-D-1'-ribulosylformimino)-5-amino-1-(5''-phospho-D-ribosyl)-4-imidazolecarboxamide	green
+phosphoribosyl-AMP cyclohydrolase	3.5.4.19	H2O	5-(5-Phospho-D-ribosylaminoformimino)-1-(5-phosphoribosyl)-imidazole-4-carboxamide	green
+phosphoribosyl-AMP cyclohydrolase	3.5.4.19	Phosphoribosyl-AMP	5-(5-Phospho-D-ribosylaminoformimino)-1-(5-phosphoribosyl)-imidazole-4-carboxamide	green
+phosphoribosyl-ATP pyrophosphohydrolase	3.6.1.31	1-(5-Phospho-D-ribosyl)-ATP	Diphosphate	green
+phosphoribosyl-ATP pyrophosphohydrolase	3.6.1.31	1-(5-Phospho-D-ribosyl)-ATP	Phosphoribosyl-AMP	green
+phosphoribosyl-ATP pyrophosphohydrolase	3.6.1.31	H2O	Diphosphate	green
+phosphoribosyl-ATP pyrophosphohydrolase	3.6.1.31	H2O	Phosphoribosyl-AMP	green
+roa:Pd630_LPD06190		H2O	Ammonia	green
+roa:Pd630_LPD06190		H2O	Hydrogen peroxide	green
+roa:Pd630_LPD06190		H2O	Methylimidazole acetaldehyde	green
+roa:Pd630_LPD06190		N-Methylhistamine	Ammonia	green
+roa:Pd630_LPD06190		N-Methylhistamine	Hydrogen peroxide	green
+roa:Pd630_LPD06190		N-Methylhistamine	Methylimidazole acetaldehyde	green
+roa:Pd630_LPD06190		Oxygen	Ammonia	green
+roa:Pd630_LPD06190		Oxygen	Hydrogen peroxide	green
+roa:Pd630_LPD06190		Oxygen	Methylimidazole acetaldehyde	green
+urocanate hydratase	4.2.1.49	4-Imidazolone-5-propanoate	H2O	green
+urocanate hydratase	4.2.1.49	4-Imidazolone-5-propanoate	Urocanate	green
+urocanate reductase	1.3.99.33	Acceptor	Reduced acceptor	white
+urocanate reductase	1.3.99.33	Acceptor	Urocanate	white
+urocanate reductase	1.3.99.33	Dihydrourocanate	Reduced acceptor	white
+urocanate reductase	1.3.99.33	Dihydrourocanate	Urocanate	white
+urocanate reductase	1.3.99.33	Reduced acceptor	Acceptor	white
+urocanate reductase	1.3.99.33	Reduced acceptor	Dihydrourocanate	white
+urocanate reductase	1.3.99.33	Urocanate	Acceptor	white
+urocanate reductase	1.3.99.33	Urocanate	Dihydrourocanate	white

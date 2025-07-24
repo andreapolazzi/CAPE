@@ -1,0 +1,141 @@
+enzyme_name	EC	source	target	color
+1-epi-valienol-7-phosphate kinase	2.7.-.-	1,7-Diphospho-1-epi-valienol	1-epi-Valienol 7-phosphate	white
+1-epi-valienol-7-phosphate kinase	2.7.-.-	1-epi-Valienol 7-phosphate	1,7-Diphospho-1-epi-valienol	white
+2-epi-5-epi-valiolone 7-kinase	2.7.1.188	2-epi-5-epi-Valiolone	2-epi-5-epi-Valiolone 7-phosphate	white
+2-epi-5-epi-valiolone 7-kinase	2.7.1.188	2-epi-5-epi-Valiolone	ADP	white
+2-epi-5-epi-valiolone 7-kinase	2.7.1.188	2-epi-5-epi-Valiolone 7-phosphate	2-epi-5-epi-Valiolone	white
+2-epi-5-epi-valiolone 7-kinase	2.7.1.188	2-epi-5-epi-Valiolone 7-phosphate	ATP	white
+2-epi-5-epi-valiolone 7-kinase	2.7.1.188	ADP	2-epi-5-epi-Valiolone	white
+2-epi-5-epi-valiolone 7-kinase	2.7.1.188	ADP	ATP	white
+2-epi-5-epi-valiolone 7-kinase	2.7.1.188	ATP	2-epi-5-epi-Valiolone 7-phosphate	white
+2-epi-5-epi-valiolone 7-kinase	2.7.1.188	ATP	ADP	white
+2-epi-5-epi-valiolone 7-phosphate 2-epimerase	5.1.3.35	2-epi-5-epi-Valiolone 7-phosphate	5-epi-Valiolone 7-phosphate	white
+2-epi-5-epi-valiolone 7-phosphate 2-epimerase	5.1.3.35	5-epi-Valiolone 7-phosphate	2-epi-5-epi-Valiolone 7-phosphate	white
+2-epi-5-epi-valiolone epimerase	5.1.3.33	2-epi-5-epi-Valiolone	5-epi-Valiolone	white
+2-epi-5-epi-valiolone epimerase	5.1.3.33	5-epi-Valiolone	2-epi-5-epi-Valiolone	white
+2-epi-5-epi-valiolone synthase	4.2.3.152	2-epi-5-epi-Valiolone	alpha-D-Sedoheptulopyranose 7-phosphate	white
+2-epi-5-epi-valiolone synthase	4.2.3.152	Orthophosphate	alpha-D-Sedoheptulopyranose 7-phosphate	white
+2-epi-5-epi-valiolone synthase	4.2.3.152	alpha-D-Sedoheptulopyranose 7-phosphate	2-epi-5-epi-Valiolone	white
+2-epi-5-epi-valiolone synthase	4.2.3.152	alpha-D-Sedoheptulopyranose 7-phosphate	Orthophosphate	white
+2-epi-valiolone-7-phosphate 1-reductase	1.1.1.-	5-epi-Valiolol 7-phosphate	5-epi-Valiolone 7-phosphate	white
+2-epi-valiolone-7-phosphate 1-reductase	1.1.1.-	5-epi-Valiolol 7-phosphate	H+	white
+2-epi-valiolone-7-phosphate 1-reductase	1.1.1.-	5-epi-Valiolol 7-phosphate	NADH	white
+2-epi-valiolone-7-phosphate 1-reductase	1.1.1.-	5-epi-Valiolone 7-phosphate	5-epi-Valiolol 7-phosphate	white
+2-epi-valiolone-7-phosphate 1-reductase	1.1.1.-	5-epi-Valiolone 7-phosphate	NAD+	white
+2-epi-valiolone-7-phosphate 1-reductase	1.1.1.-	H+	5-epi-Valiolol 7-phosphate	white
+2-epi-valiolone-7-phosphate 1-reductase	1.1.1.-	H+	NAD+	white
+2-epi-valiolone-7-phosphate 1-reductase	1.1.1.-	NAD+	5-epi-Valiolone 7-phosphate	white
+2-epi-valiolone-7-phosphate 1-reductase	1.1.1.-	NAD+	H+	white
+2-epi-valiolone-7-phosphate 1-reductase	1.1.1.-	NAD+	NADH	white
+2-epi-valiolone-7-phosphate 1-reductase	1.1.1.-	NADH	5-epi-Valiolol 7-phosphate	white
+2-epi-valiolone-7-phosphate 1-reductase	1.1.1.-	NADH	NAD+	white
+2-keto-5-epi-valolone aminotransferase	2.6.1.-	2-Amino-5-epi-valiolone	2-Keto-5-epi-valiolone	white
+2-keto-5-epi-valolone aminotransferase	2.6.1.-	2-Keto-5-epi-valiolone	2-Amino-5-epi-valiolone	white
+5-epi-valiolone dehydratase	4.2.1.-	5-epi-Valiolone	H2O	white
+5-epi-valiolone dehydratase	4.2.1.-	5-epi-Valiolone	Valienone	white
+5-epi-valiolone dehydratase	4.2.1.-	H2O	5-epi-Valiolone	white
+5-epi-valiolone dehydratase	4.2.1.-	Valienone	5-epi-Valiolone	white
+5-epi-valiolone oxidase	1.1.3.-	2-Keto-5-epi-valiolone	5-epi-Valiolone	white
+5-epi-valiolone oxidase	1.1.3.-	5-epi-Valiolone	2-Keto-5-epi-valiolone	white
+C7-cyclitol 7-kinase	2.7.1.214	ADP	ATP	white
+C7-cyclitol 7-kinase	2.7.1.214	ADP	Valienone	white
+C7-cyclitol 7-kinase	2.7.1.214	ATP	ADP	white
+C7-cyclitol 7-kinase	2.7.1.214	ATP	Valienone 7-phosphate	white
+C7-cyclitol 7-kinase	2.7.1.214	Valienone	ADP	white
+C7-cyclitol 7-kinase	2.7.1.214	Valienone	Valienone 7-phosphate	white
+C7-cyclitol 7-kinase	2.7.1.214	Valienone 7-phosphate	ATP	white
+C7-cyclitol 7-kinase	2.7.1.214	Valienone 7-phosphate	Valienone	white
+acarbose 7IV-phosphotransferase	2.7.1.187	ADP	ATP	white
+acarbose 7IV-phosphotransferase	2.7.1.187	ADP	Acarbose	white
+acarbose 7IV-phosphotransferase	2.7.1.187	ATP	ADP	white
+acarbose 7IV-phosphotransferase	2.7.1.187	ATP	Acarbose 7IV-phosphate	white
+acarbose 7IV-phosphotransferase	2.7.1.187	Acarbose	ADP	white
+acarbose 7IV-phosphotransferase	2.7.1.187	Acarbose	Acarbose 7IV-phosphate	white
+acarbose 7IV-phosphotransferase	2.7.1.187	Acarbose 7IV-phosphate	ATP	white
+acarbose 7IV-phosphotransferase	2.7.1.187	Acarbose 7IV-phosphate	Acarbose	white
+cetoniacytone B acyltransferase	2.3.1.-	Cetoniacytone A	Cetoniacytone B	white
+cetoniacytone B acyltransferase	2.3.1.-	Cetoniacytone B	Cetoniacytone A	white
+cyclitol oxidoreductase	1.1.1.-	1-epi-Valienol 7-phosphate	5-epi-Valiolol 7-phosphate	white
+cyclitol oxidoreductase	1.1.1.-	5-epi-Valiolol 7-phosphate	1-epi-Valienol 7-phosphate	white
+cyclitol reductase	2.7.1.214	Validone 7-phosphate	Valienone 7-phosphate	white
+cyclitol reductase	2.7.1.214	Valienone 7-phosphate	Validone 7-phosphate	white
+dTDP-4-amino-4,6-dideoxy-D-glucose transaminase	2.6.1.33	2-Oxoglutarate	L-Glutamate	white
+dTDP-4-amino-4,6-dideoxy-D-glucose transaminase	2.6.1.33	2-Oxoglutarate	dTDP-4-oxo-6-deoxy-D-glucose	white
+dTDP-4-amino-4,6-dideoxy-D-glucose transaminase	2.6.1.33	L-Glutamate	2-Oxoglutarate	white
+dTDP-4-amino-4,6-dideoxy-D-glucose transaminase	2.6.1.33	L-Glutamate	dTDP-4-amino-4,6-dideoxy-D-glucose	white
+dTDP-4-amino-4,6-dideoxy-D-glucose transaminase	2.6.1.33	dTDP-4-amino-4,6-dideoxy-D-glucose	L-Glutamate	white
+dTDP-4-amino-4,6-dideoxy-D-glucose transaminase	2.6.1.33	dTDP-4-amino-4,6-dideoxy-D-glucose	dTDP-4-oxo-6-deoxy-D-glucose	white
+dTDP-4-amino-4,6-dideoxy-D-glucose transaminase	2.6.1.33	dTDP-4-oxo-6-deoxy-D-glucose	2-Oxoglutarate	white
+dTDP-4-amino-4,6-dideoxy-D-glucose transaminase	2.6.1.33	dTDP-4-oxo-6-deoxy-D-glucose	dTDP-4-amino-4,6-dideoxy-D-glucose	white
+dTDP-glucose 4,6-dehydratase	4.2.1.46	dTDP-glucose	H2O	green
+dTDP-glucose 4,6-dehydratase	4.2.1.46	dTDP-glucose	dTDP-4-oxo-6-deoxy-D-glucose	green
+glucose-1-phosphate thymidylyltransferase	2.7.7.24	D-Glucose 1-phosphate	Diphosphate	green
+glucose-1-phosphate thymidylyltransferase	2.7.7.24	D-Glucose 1-phosphate	dTDP-glucose	green
+glucose-1-phosphate thymidylyltransferase	2.7.7.24	dTTP	Diphosphate	green
+glucose-1-phosphate thymidylyltransferase	2.7.7.24	dTTP	dTDP-glucose	green
+glycosyltransferase AcbS	2.4.-.-	NDP-1-epi-valienol 7-phosphate	dTDP-acarviose-7-phosphate	white
+glycosyltransferase AcbS	2.4.-.-	dTDP-4-amino-4,6-dideoxy-D-glucose	dTDP-acarviose-7-phosphate	white
+glycosyltransferase AcbS	2.4.-.-	dTDP-acarviose-7-phosphate	NDP-1-epi-valienol 7-phosphate	white
+glycosyltransferase AcbS	2.4.-.-	dTDP-acarviose-7-phosphate	dTDP-4-amino-4,6-dideoxy-D-glucose	white
+putative phosphohexomutase / phosphatase	1.1.1.-	1-epi-Valienol 1-phosphate	1-epi-Valienol 7-phosphate	white
+putative phosphohexomutase / phosphatase	1.1.1.-	1-epi-Valienol 7-phosphate	1-epi-Valienol 1-phosphate	white
+salbostatin 6'-phosphate phosphatase	3.1.3.-	H2O	Orthophosphate	white
+salbostatin 6'-phosphate phosphatase	3.1.3.-	H2O	Salbostatin	white
+salbostatin 6'-phosphate phosphatase	3.1.3.-	Orthophosphate	H2O	white
+salbostatin 6'-phosphate phosphatase	3.1.3.-	Orthophosphate	Salbostatin 6'-phosphate	white
+salbostatin 6'-phosphate phosphatase	3.1.3.-	Salbostatin	H2O	white
+salbostatin 6'-phosphate phosphatase	3.1.3.-	Salbostatin	Salbostatin 6'-phosphate	white
+salbostatin 6'-phosphate phosphatase	3.1.3.-	Salbostatin 6'-phosphate	Orthophosphate	white
+salbostatin 6'-phosphate phosphatase	3.1.3.-	Salbostatin 6'-phosphate	Salbostatin	white
+validamine 7-phosphate valienyltransferase	2.5.1.135	NDP	NDP-1-epi-valienol	white
+validamine 7-phosphate valienyltransferase	2.5.1.135	NDP	Validamine 7-phosphate	white
+validamine 7-phosphate valienyltransferase	2.5.1.135	NDP-1-epi-valienol	NDP	white
+validamine 7-phosphate valienyltransferase	2.5.1.135	NDP-1-epi-valienol	Validoxylamine A 7'-phosphate	white
+validamine 7-phosphate valienyltransferase	2.5.1.135	Validamine 7-phosphate	NDP	white
+validamine 7-phosphate valienyltransferase	2.5.1.135	Validamine 7-phosphate	Validoxylamine A 7'-phosphate	white
+validamine 7-phosphate valienyltransferase	2.5.1.135	Validoxylamine A 7'-phosphate	NDP-1-epi-valienol	white
+validamine 7-phosphate valienyltransferase	2.5.1.135	Validoxylamine A 7'-phosphate	Validamine 7-phosphate	white
+validamycin A dioxygenase	1.14.11.52	2-Oxoglutarate	CO2	white
+validamycin A dioxygenase	1.14.11.52	2-Oxoglutarate	Succinate	white
+validamycin A dioxygenase	1.14.11.52	2-Oxoglutarate	Validamycin B	white
+validamycin A dioxygenase	1.14.11.52	CO2	2-Oxoglutarate	white
+validamycin A dioxygenase	1.14.11.52	CO2	Oxygen	white
+validamycin A dioxygenase	1.14.11.52	CO2	Validamycin A	white
+validamycin A dioxygenase	1.14.11.52	Oxygen	CO2	white
+validamycin A dioxygenase	1.14.11.52	Oxygen	Succinate	white
+validamycin A dioxygenase	1.14.11.52	Oxygen	Validamycin B	white
+validamycin A dioxygenase	1.14.11.52	Succinate	2-Oxoglutarate	white
+validamycin A dioxygenase	1.14.11.52	Succinate	Oxygen	white
+validamycin A dioxygenase	1.14.11.52	Succinate	Validamycin A	white
+validamycin A dioxygenase	1.14.11.52	Validamycin A	CO2	white
+validamycin A dioxygenase	1.14.11.52	Validamycin A	Succinate	white
+validamycin A dioxygenase	1.14.11.52	Validamycin A	Validamycin B	white
+validamycin A dioxygenase	1.14.11.52	Validamycin B	2-Oxoglutarate	white
+validamycin A dioxygenase	1.14.11.52	Validamycin B	Oxygen	white
+validamycin A dioxygenase	1.14.11.52	Validamycin B	Validamycin A	white
+validone 7-phosphate aminotransferase	2.6.1.-	Validamine 7-phosphate	Validone 7-phosphate	white
+validone 7-phosphate aminotransferase	2.6.1.-	Validone 7-phosphate	Validamine 7-phosphate	white
+validoxylamine A 7'-phosphate phosphatase	3.1.3.101	H2O	Orthophosphate	white
+validoxylamine A 7'-phosphate phosphatase	3.1.3.101	H2O	Validoxylamine A	white
+validoxylamine A 7'-phosphate phosphatase	3.1.3.101	Orthophosphate	H2O	white
+validoxylamine A 7'-phosphate phosphatase	3.1.3.101	Orthophosphate	Validoxylamine A 7'-phosphate	white
+validoxylamine A 7'-phosphate phosphatase	3.1.3.101	Validoxylamine A	H2O	white
+validoxylamine A 7'-phosphate phosphatase	3.1.3.101	Validoxylamine A	Validoxylamine A 7'-phosphate	white
+validoxylamine A 7'-phosphate phosphatase	3.1.3.101	Validoxylamine A 7'-phosphate	Orthophosphate	white
+validoxylamine A 7'-phosphate phosphatase	3.1.3.101	Validoxylamine A 7'-phosphate	Validoxylamine A	white
+validoxylamine A glucosyltransferase	2.4.1.338	UDP	UDP-glucose	white
+validoxylamine A glucosyltransferase	2.4.1.338	UDP	Validoxylamine A	white
+validoxylamine A glucosyltransferase	2.4.1.338	UDP-glucose	UDP	white
+validoxylamine A glucosyltransferase	2.4.1.338	UDP-glucose	Validamycin A	white
+validoxylamine A glucosyltransferase	2.4.1.338	Validamycin A	UDP-glucose	white
+validoxylamine A glucosyltransferase	2.4.1.338	Validamycin A	Validoxylamine A	white
+validoxylamine A glucosyltransferase	2.4.1.338	Validoxylamine A	UDP	white
+validoxylamine A glucosyltransferase	2.4.1.338	Validoxylamine A	Validamycin A	white
+valienol-1-phosphate guanylyltransferase	2.7.7.91	1-epi-Valienol 1-phosphate	Diphosphate	white
+valienol-1-phosphate guanylyltransferase	2.7.7.91	1-epi-Valienol 1-phosphate	NDP-1-epi-valienol	white
+valienol-1-phosphate guanylyltransferase	2.7.7.91	Diphosphate	1-epi-Valienol 1-phosphate	white
+valienol-1-phosphate guanylyltransferase	2.7.7.91	Diphosphate	Nucleoside triphosphate	white
+valienol-1-phosphate guanylyltransferase	2.7.7.91	NDP-1-epi-valienol	1-epi-Valienol 1-phosphate	white
+valienol-1-phosphate guanylyltransferase	2.7.7.91	NDP-1-epi-valienol	Nucleoside triphosphate	white
+valienol-1-phosphate guanylyltransferase	2.7.7.91	Nucleoside triphosphate	Diphosphate	white
+valienol-1-phosphate guanylyltransferase	2.7.7.91	Nucleoside triphosphate	NDP-1-epi-valienol	white

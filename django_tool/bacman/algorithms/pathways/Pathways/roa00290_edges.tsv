@@ -1,0 +1,149 @@
+enzyme_name	EC	source	target	color
+(R)-citramalate synthase	2.3.3.21	(R)-2-Methylmalate	Acetyl-CoA	white
+(R)-citramalate synthase	2.3.3.21	(R)-2-Methylmalate	H2O	white
+(R)-citramalate synthase	2.3.3.21	(R)-2-Methylmalate	Pyruvate	white
+(R)-citramalate synthase	2.3.3.21	Acetyl-CoA	(R)-2-Methylmalate	white
+(R)-citramalate synthase	2.3.3.21	Acetyl-CoA	CoA	white
+(R)-citramalate synthase	2.3.3.21	CoA	Acetyl-CoA	white
+(R)-citramalate synthase	2.3.3.21	CoA	H2O	white
+(R)-citramalate synthase	2.3.3.21	CoA	Pyruvate	white
+(R)-citramalate synthase	2.3.3.21	H2O	(R)-2-Methylmalate	white
+(R)-citramalate synthase	2.3.3.21	H2O	CoA	white
+(R)-citramalate synthase	2.3.3.21	Pyruvate	(R)-2-Methylmalate	white
+(R)-citramalate synthase	2.3.3.21	Pyruvate	CoA	white
+2-isopropylmalate synthase	2.3.3.13	CoA	3-Methyl-2-oxobutanoic acid	green
+2-isopropylmalate synthase	2.3.3.13	CoA	Acetyl-CoA	green
+2-isopropylmalate synthase	2.3.3.13	CoA	H2O	green
+2-isopropylmalate synthase	2.3.3.13	alpha-Isopropylmalate	3-Methyl-2-oxobutanoic acid	green
+2-isopropylmalate synthase	2.3.3.13	alpha-Isopropylmalate	Acetyl-CoA	green
+2-isopropylmalate synthase	2.3.3.13	alpha-Isopropylmalate	H2O	green
+3-isopropylmalate dehydrogenase	1.1.1.85	(2R,3S)-3-Isopropylmalate	(2S)-2-Isopropyl-3-oxosuccinate	green
+3-isopropylmalate dehydrogenase	1.1.1.85	(2R,3S)-3-Isopropylmalate	H+	green
+3-isopropylmalate dehydrogenase	1.1.1.85	(2R,3S)-3-Isopropylmalate	NADH	green
+3-isopropylmalate dehydrogenase	1.1.1.85	(2S)-2-Isopropyl-3-oxosuccinate	(2R,3S)-3-Isopropylmalate	green
+3-isopropylmalate dehydrogenase	1.1.1.85	(2S)-2-Isopropyl-3-oxosuccinate	NAD+	green
+3-isopropylmalate dehydrogenase	1.1.1.85	2-Oxobutanoate	D-erythro-3-Methylmalate	green
+3-isopropylmalate dehydrogenase	1.1.1.85	2-Oxobutanoate	NAD+	green
+3-isopropylmalate dehydrogenase	1.1.1.85	CO2	D-erythro-3-Methylmalate	green
+3-isopropylmalate dehydrogenase	1.1.1.85	CO2	NAD+	green
+3-isopropylmalate dehydrogenase	1.1.1.85	H+	(2R,3S)-3-Isopropylmalate	green
+3-isopropylmalate dehydrogenase	1.1.1.85	H+	D-erythro-3-Methylmalate	green
+3-isopropylmalate dehydrogenase	1.1.1.85	H+	NAD+	green
+3-isopropylmalate dehydrogenase	1.1.1.85	NAD+	(2S)-2-Isopropyl-3-oxosuccinate	green
+3-isopropylmalate dehydrogenase	1.1.1.85	NAD+	H+	green
+3-isopropylmalate dehydrogenase	1.1.1.85	NAD+	NADH	green
+3-isopropylmalate dehydrogenase	1.1.1.85	NADH	(2R,3S)-3-Isopropylmalate	green
+3-isopropylmalate dehydrogenase	1.1.1.85	NADH	D-erythro-3-Methylmalate	green
+3-isopropylmalate dehydrogenase	1.1.1.85	NADH	NAD+	green
+3-isopropylmalate/(R)-2-methylmalate dehydratase large subunit	4.2.1.33	(2R,3S)-3-Isopropylmalate	2-Isopropylmaleate	green
+3-isopropylmalate/(R)-2-methylmalate dehydratase large subunit	4.2.1.33	(2R,3S)-3-Isopropylmalate	H2O	green
+3-isopropylmalate/(R)-2-methylmalate dehydratase large subunit	4.2.1.33	(R)-2-Methylmalate	2-Methylmaleate	green
+3-isopropylmalate/(R)-2-methylmalate dehydratase large subunit	4.2.1.33	(R)-2-Methylmalate	H2O	green
+3-isopropylmalate/(R)-2-methylmalate dehydratase large subunit	4.2.1.33	2-Isopropylmaleate	(2R,3S)-3-Isopropylmalate	green
+3-isopropylmalate/(R)-2-methylmalate dehydratase large subunit	4.2.1.33	2-Isopropylmaleate	alpha-Isopropylmalate	green
+3-isopropylmalate/(R)-2-methylmalate dehydratase large subunit	4.2.1.33	2-Methylmaleate	D-erythro-3-Methylmalate	green
+3-isopropylmalate/(R)-2-methylmalate dehydratase large subunit	4.2.1.33	H2O	(2R,3S)-3-Isopropylmalate	green
+3-isopropylmalate/(R)-2-methylmalate dehydratase large subunit	4.2.1.33	H2O	D-erythro-3-Methylmalate	green
+3-isopropylmalate/(R)-2-methylmalate dehydratase large subunit	4.2.1.33	H2O	alpha-Isopropylmalate	green
+3-isopropylmalate/(R)-2-methylmalate dehydratase large subunit	4.2.1.33	alpha-Isopropylmalate	2-Isopropylmaleate	green
+3-isopropylmalate/(R)-2-methylmalate dehydratase large subunit	4.2.1.33	alpha-Isopropylmalate	H2O	green
+3-isopropylmalate/(R)-2-methylmalate dehydratase small subunit	4.2.1.33	(2R,3S)-3-Isopropylmalate	2-Isopropylmaleate	green
+3-isopropylmalate/(R)-2-methylmalate dehydratase small subunit	4.2.1.33	(2R,3S)-3-Isopropylmalate	H2O	green
+3-isopropylmalate/(R)-2-methylmalate dehydratase small subunit	4.2.1.33	(R)-2-Methylmalate	2-Methylmaleate	green
+3-isopropylmalate/(R)-2-methylmalate dehydratase small subunit	4.2.1.33	(R)-2-Methylmalate	H2O	green
+3-isopropylmalate/(R)-2-methylmalate dehydratase small subunit	4.2.1.33	2-Isopropylmaleate	(2R,3S)-3-Isopropylmalate	green
+3-isopropylmalate/(R)-2-methylmalate dehydratase small subunit	4.2.1.33	2-Isopropylmaleate	alpha-Isopropylmalate	green
+3-isopropylmalate/(R)-2-methylmalate dehydratase small subunit	4.2.1.33	2-Methylmaleate	D-erythro-3-Methylmalate	green
+3-isopropylmalate/(R)-2-methylmalate dehydratase small subunit	4.2.1.33	H2O	(2R,3S)-3-Isopropylmalate	green
+3-isopropylmalate/(R)-2-methylmalate dehydratase small subunit	4.2.1.33	H2O	D-erythro-3-Methylmalate	green
+3-isopropylmalate/(R)-2-methylmalate dehydratase small subunit	4.2.1.33	H2O	alpha-Isopropylmalate	green
+3-isopropylmalate/(R)-2-methylmalate dehydratase small subunit	4.2.1.33	alpha-Isopropylmalate	2-Isopropylmaleate	green
+3-isopropylmalate/(R)-2-methylmalate dehydratase small subunit	4.2.1.33	alpha-Isopropylmalate	H2O	green
+acetolactate synthase I/II/III large subunit	2.2.1.6	(S)-2-Acetolactate	Pyruvate	green
+acetolactate synthase I/II/III large subunit	2.2.1.6	2-Oxobutanoate	(S)-2-Aceto-2-hydroxybutanoate	green
+acetolactate synthase I/II/III large subunit	2.2.1.6	2-Oxobutanoate	CO2	green
+acetolactate synthase I/II/III large subunit	2.2.1.6	CO2	Pyruvate	green
+acetolactate synthase I/II/III large subunit	2.2.1.6	Pyruvate	(S)-2-Aceto-2-hydroxybutanoate	green
+acetolactate synthase I/II/III large subunit	2.2.1.6	Pyruvate	CO2	green
+acetolactate synthase I/III small subunit	2.2.1.6	(S)-2-Acetolactate	Pyruvate	green
+acetolactate synthase I/III small subunit	2.2.1.6	2-Oxobutanoate	(S)-2-Aceto-2-hydroxybutanoate	green
+acetolactate synthase I/III small subunit	2.2.1.6	2-Oxobutanoate	CO2	green
+acetolactate synthase I/III small subunit	2.2.1.6	CO2	Pyruvate	green
+acetolactate synthase I/III small subunit	2.2.1.6	Pyruvate	(S)-2-Aceto-2-hydroxybutanoate	green
+acetolactate synthase I/III small subunit	2.2.1.6	Pyruvate	CO2	green
+alanine-synthesizing transaminase	2.6.1.66	3-Methyl-2-oxobutanoic acid	L-Valine	green
+alanine-synthesizing transaminase	2.6.1.66	3-Methyl-2-oxobutanoic acid	Pyruvate	green
+alanine-synthesizing transaminase	2.6.1.66	L-Alanine	L-Valine	green
+alanine-synthesizing transaminase	2.6.1.66	L-Alanine	Pyruvate	green
+alanine-synthesizing transaminase	2.6.1.66	L-Valine	3-Methyl-2-oxobutanoic acid	green
+alanine-synthesizing transaminase	2.6.1.66	L-Valine	L-Alanine	green
+alanine-synthesizing transaminase	2.6.1.66	Pyruvate	3-Methyl-2-oxobutanoic acid	green
+alanine-synthesizing transaminase	2.6.1.66	Pyruvate	L-Alanine	green
+branched-chain amino acid aminotransferase	2.6.1.42	2-Oxoglutarate	(S)-3-Methyl-2-oxopentanoic acid	green
+branched-chain amino acid aminotransferase	2.6.1.42	2-Oxoglutarate	3-Methyl-2-oxobutanoic acid	green
+branched-chain amino acid aminotransferase	2.6.1.42	2-Oxoglutarate	4-Methyl-2-oxopentanoate	green
+branched-chain amino acid aminotransferase	2.6.1.42	2-Oxoglutarate	L-Glutamate	green
+branched-chain amino acid aminotransferase	2.6.1.42	4-Methyl-2-oxopentanoate	2-Oxoglutarate	green
+branched-chain amino acid aminotransferase	2.6.1.42	4-Methyl-2-oxopentanoate	L-Leucine	green
+branched-chain amino acid aminotransferase	2.6.1.42	L-Glutamate	2-Oxoglutarate	green
+branched-chain amino acid aminotransferase	2.6.1.42	L-Glutamate	L-Leucine	green
+branched-chain amino acid aminotransferase	2.6.1.42	L-Isoleucine	(S)-3-Methyl-2-oxopentanoic acid	green
+branched-chain amino acid aminotransferase	2.6.1.42	L-Isoleucine	L-Glutamate	green
+branched-chain amino acid aminotransferase	2.6.1.42	L-Leucine	4-Methyl-2-oxopentanoate	green
+branched-chain amino acid aminotransferase	2.6.1.42	L-Leucine	L-Glutamate	green
+branched-chain amino acid aminotransferase	2.6.1.42	L-Valine	3-Methyl-2-oxobutanoic acid	green
+branched-chain amino acid aminotransferase	2.6.1.42	L-Valine	L-Glutamate	green
+dihydroxy-acid dehydratase	4.2.1.9	(R)-2,3-Dihydroxy-3-methylbutanoate	3-Methyl-2-oxobutanoic acid	green
+dihydroxy-acid dehydratase	4.2.1.9	(R)-2,3-Dihydroxy-3-methylbutanoate	H2O	green
+dihydroxy-acid dehydratase	4.2.1.9	(R)-2,3-Dihydroxy-3-methylpentanoate	(S)-3-Methyl-2-oxopentanoic acid	green
+dihydroxy-acid dehydratase	4.2.1.9	(R)-2,3-Dihydroxy-3-methylpentanoate	H2O	green
+ketol-acid reductoisomerase	1.1.1.86	(R)-2,3-Dihydroxy-3-methylbutanoate	3-Hydroxy-3-methyl-2-oxobutanoic acid	green
+ketol-acid reductoisomerase	1.1.1.86	(R)-2,3-Dihydroxy-3-methylbutanoate	H+	green
+ketol-acid reductoisomerase	1.1.1.86	(R)-2,3-Dihydroxy-3-methylbutanoate	NADPH	green
+ketol-acid reductoisomerase	1.1.1.86	(R)-2,3-Dihydroxy-3-methylpentanoate	(R)-3-Hydroxy-3-methyl-2-oxopentanoate	green
+ketol-acid reductoisomerase	1.1.1.86	(R)-2,3-Dihydroxy-3-methylpentanoate	H+	green
+ketol-acid reductoisomerase	1.1.1.86	(R)-2,3-Dihydroxy-3-methylpentanoate	NADPH	green
+ketol-acid reductoisomerase	1.1.1.86	(R)-3-Hydroxy-3-methyl-2-oxopentanoate	(R)-2,3-Dihydroxy-3-methylpentanoate	green
+ketol-acid reductoisomerase	1.1.1.86	(R)-3-Hydroxy-3-methyl-2-oxopentanoate	(S)-2-Aceto-2-hydroxybutanoate	green
+ketol-acid reductoisomerase	1.1.1.86	(R)-3-Hydroxy-3-methyl-2-oxopentanoate	NADP+	green
+ketol-acid reductoisomerase	1.1.1.86	(S)-2-Aceto-2-hydroxybutanoate	(R)-3-Hydroxy-3-methyl-2-oxopentanoate	green
+ketol-acid reductoisomerase	1.1.1.86	(S)-2-Acetolactate	3-Hydroxy-3-methyl-2-oxobutanoic acid	green
+ketol-acid reductoisomerase	1.1.1.86	3-Hydroxy-3-methyl-2-oxobutanoic acid	(R)-2,3-Dihydroxy-3-methylbutanoate	green
+ketol-acid reductoisomerase	1.1.1.86	3-Hydroxy-3-methyl-2-oxobutanoic acid	(S)-2-Acetolactate	green
+ketol-acid reductoisomerase	1.1.1.86	3-Hydroxy-3-methyl-2-oxobutanoic acid	NADP+	green
+ketol-acid reductoisomerase	1.1.1.86	H+	(R)-2,3-Dihydroxy-3-methylbutanoate	green
+ketol-acid reductoisomerase	1.1.1.86	H+	(R)-2,3-Dihydroxy-3-methylpentanoate	green
+ketol-acid reductoisomerase	1.1.1.86	H+	NADP+	green
+ketol-acid reductoisomerase	1.1.1.86	NADP+	(R)-3-Hydroxy-3-methyl-2-oxopentanoate	green
+ketol-acid reductoisomerase	1.1.1.86	NADP+	3-Hydroxy-3-methyl-2-oxobutanoic acid	green
+ketol-acid reductoisomerase	1.1.1.86	NADP+	H+	green
+ketol-acid reductoisomerase	1.1.1.86	NADP+	NADPH	green
+ketol-acid reductoisomerase	1.1.1.86	NADPH	(R)-2,3-Dihydroxy-3-methylbutanoate	green
+ketol-acid reductoisomerase	1.1.1.86	NADPH	(R)-2,3-Dihydroxy-3-methylpentanoate	green
+ketol-acid reductoisomerase	1.1.1.86	NADPH	NADP+	green
+leucine dehydrogenase	1.4.1.9	4-Methyl-2-oxopentanoate	H2O	white
+leucine dehydrogenase	1.4.1.9	4-Methyl-2-oxopentanoate	L-Leucine	white
+leucine dehydrogenase	1.4.1.9	4-Methyl-2-oxopentanoate	NAD+	white
+leucine dehydrogenase	1.4.1.9	Ammonia	H2O	white
+leucine dehydrogenase	1.4.1.9	Ammonia	L-Leucine	white
+leucine dehydrogenase	1.4.1.9	Ammonia	NAD+	white
+leucine dehydrogenase	1.4.1.9	H+	H2O	white
+leucine dehydrogenase	1.4.1.9	H+	L-Leucine	white
+leucine dehydrogenase	1.4.1.9	H+	NAD+	white
+leucine dehydrogenase	1.4.1.9	H2O	4-Methyl-2-oxopentanoate	white
+leucine dehydrogenase	1.4.1.9	H2O	Ammonia	white
+leucine dehydrogenase	1.4.1.9	H2O	H+	white
+leucine dehydrogenase	1.4.1.9	H2O	NADH	white
+leucine dehydrogenase	1.4.1.9	L-Leucine	4-Methyl-2-oxopentanoate	white
+leucine dehydrogenase	1.4.1.9	L-Leucine	Ammonia	white
+leucine dehydrogenase	1.4.1.9	L-Leucine	H+	white
+leucine dehydrogenase	1.4.1.9	L-Leucine	NADH	white
+leucine dehydrogenase	1.4.1.9	NAD+	4-Methyl-2-oxopentanoate	white
+leucine dehydrogenase	1.4.1.9	NAD+	Ammonia	white
+leucine dehydrogenase	1.4.1.9	NAD+	H+	white
+leucine dehydrogenase	1.4.1.9	NAD+	NADH	white
+leucine dehydrogenase	1.4.1.9	NADH	H2O	white
+leucine dehydrogenase	1.4.1.9	NADH	L-Leucine	white
+leucine dehydrogenase	1.4.1.9	NADH	NAD+	white
+threonine dehydratase	4.3.1.19	L-Threonine	2-Oxobutanoate	green
+threonine dehydratase	4.3.1.19	L-Threonine	Ammonia	green

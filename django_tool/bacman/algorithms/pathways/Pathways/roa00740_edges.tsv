@@ -1,0 +1,325 @@
+enzyme_name	EC	source	target	color
+2,5-diamino-6-(ribosylamino)-4(3H)-pyrimidinone 5'-phosphate reductase	1.1.1.302	2,5-Diamino-6-(5-phospho-D-ribosylamino)pyrimidin-4(3H)-one	2,5-Diamino-6-(5-phospho-D-ribitylamino)pyrimidin-4(3H)-one	green
+2,5-diamino-6-(ribosylamino)-4(3H)-pyrimidinone 5'-phosphate reductase	1.1.1.302	2,5-Diamino-6-(5-phospho-D-ribosylamino)pyrimidin-4(3H)-one	NAD+	green
+2,5-diamino-6-(ribosylamino)-4(3H)-pyrimidinone 5'-phosphate reductase	1.1.1.302	2,5-Diamino-6-(5-phospho-D-ribosylamino)pyrimidin-4(3H)-one	NADP+	green
+2,5-diamino-6-(ribosylamino)-4(3H)-pyrimidinone 5'-phosphate reductase	1.1.1.302	H+	2,5-Diamino-6-(5-phospho-D-ribitylamino)pyrimidin-4(3H)-one	green
+2,5-diamino-6-(ribosylamino)-4(3H)-pyrimidinone 5'-phosphate reductase	1.1.1.302	H+	NAD+	green
+2,5-diamino-6-(ribosylamino)-4(3H)-pyrimidinone 5'-phosphate reductase	1.1.1.302	H+	NADP+	green
+2,5-diamino-6-(ribosylamino)-4(3H)-pyrimidinone 5'-phosphate reductase	1.1.1.302	NADH	2,5-Diamino-6-(5-phospho-D-ribitylamino)pyrimidin-4(3H)-one	green
+2,5-diamino-6-(ribosylamino)-4(3H)-pyrimidinone 5'-phosphate reductase	1.1.1.302	NADH	NAD+	green
+2,5-diamino-6-(ribosylamino)-4(3H)-pyrimidinone 5'-phosphate reductase	1.1.1.302	NADPH	2,5-Diamino-6-(5-phospho-D-ribitylamino)pyrimidin-4(3H)-one	green
+2,5-diamino-6-(ribosylamino)-4(3H)-pyrimidinone 5'-phosphate reductase	1.1.1.302	NADPH	NADP+	green
+2-amino-5-formylamino-6-ribosylaminopyrimidin-4(3H)-one 5'-monophosphate deformylase	3.5.1.102	2,5-Diamino-6-(5-phospho-D-ribosylamino)pyrimidin-4(3H)-one	2-Amino-5-formylamino-6-(5-phospho-D-ribosylamino)pyrimidin-4(3H)-one	white
+2-amino-5-formylamino-6-ribosylaminopyrimidin-4(3H)-one 5'-monophosphate deformylase	3.5.1.102	2,5-Diamino-6-(5-phospho-D-ribosylamino)pyrimidin-4(3H)-one	H2O	white
+2-amino-5-formylamino-6-ribosylaminopyrimidin-4(3H)-one 5'-monophosphate deformylase	3.5.1.102	2-Amino-5-formylamino-6-(5-phospho-D-ribosylamino)pyrimidin-4(3H)-one	2,5-Diamino-6-(5-phospho-D-ribosylamino)pyrimidin-4(3H)-one	white
+2-amino-5-formylamino-6-ribosylaminopyrimidin-4(3H)-one 5'-monophosphate deformylase	3.5.1.102	2-Amino-5-formylamino-6-(5-phospho-D-ribosylamino)pyrimidin-4(3H)-one	Formate	white
+2-amino-5-formylamino-6-ribosylaminopyrimidin-4(3H)-one 5'-monophosphate deformylase	3.5.1.102	Formate	2-Amino-5-formylamino-6-(5-phospho-D-ribosylamino)pyrimidin-4(3H)-one	white
+2-amino-5-formylamino-6-ribosylaminopyrimidin-4(3H)-one 5'-monophosphate deformylase	3.5.1.102	Formate	H2O	white
+2-amino-5-formylamino-6-ribosylaminopyrimidin-4(3H)-one 5'-monophosphate deformylase	3.5.1.102	H2O	2,5-Diamino-6-(5-phospho-D-ribosylamino)pyrimidin-4(3H)-one	white
+2-amino-5-formylamino-6-ribosylaminopyrimidin-4(3H)-one 5'-monophosphate deformylase	3.5.1.102	H2O	Formate	white
+3,4-dihydroxy 2-butanone 4-phosphate synthase	4.1.99.12	D-Ribulose 5-phosphate	Formate	green
+3,4-dihydroxy 2-butanone 4-phosphate synthase	4.1.99.12	D-Ribulose 5-phosphate	L-3,4-Dihydroxybutan-2-one 4-phosphate	green
+3,4-dihydroxy 2-butanone 4-phosphate synthase / GTP cyclohydrolase II	4.1.99.12	D-Ribulose 5-phosphate	Formate	green
+3,4-dihydroxy 2-butanone 4-phosphate synthase / GTP cyclohydrolase II	4.1.99.12	D-Ribulose 5-phosphate	L-3,4-Dihydroxybutan-2-one 4-phosphate	green
+3,4-dihydroxy 2-butanone 4-phosphate synthase / GTP cyclohydrolase II	4.1.99.12	GTP	2,5-Diamino-6-(5-phospho-D-ribosylamino)pyrimidin-4(3H)-one	green
+3,4-dihydroxy 2-butanone 4-phosphate synthase / GTP cyclohydrolase II	4.1.99.12	GTP	Formate	green
+3,4-dihydroxy 2-butanone 4-phosphate synthase / GTP cyclohydrolase II	4.1.99.12	GTP	Orthophosphate	green
+3,4-dihydroxy 2-butanone 4-phosphate synthase / GTP cyclohydrolase II	4.1.99.12	H2O	2,5-Diamino-6-(5-phospho-D-ribosylamino)pyrimidin-4(3H)-one	green
+3,4-dihydroxy 2-butanone 4-phosphate synthase / GTP cyclohydrolase II	4.1.99.12	H2O	Formate	green
+3,4-dihydroxy 2-butanone 4-phosphate synthase / GTP cyclohydrolase II	4.1.99.12	H2O	Orthophosphate	green
+4-phytase / acid phosphatase	3.1.3.26	FMN	Orthophosphate	white
+4-phytase / acid phosphatase	3.1.3.26	FMN	Riboflavin	white
+4-phytase / acid phosphatase	3.1.3.26	H2O	Orthophosphate	white
+4-phytase / acid phosphatase	3.1.3.26	H2O	Riboflavin	white
+4-phytase / acid phosphatase	3.1.3.26	Orthophosphate	FMN	white
+4-phytase / acid phosphatase	3.1.3.26	Orthophosphate	H2O	white
+4-phytase / acid phosphatase	3.1.3.26	Riboflavin	FMN	white
+4-phytase / acid phosphatase	3.1.3.26	Riboflavin	H2O	white
+5,6-dimethylbenzimidazole synthase	1.13.11.79	Oxygen	D-Erythrose 4-phosphate	green
+5,6-dimethylbenzimidazole synthase	1.13.11.79	Oxygen	Dimethylbenzimidazole	green
+5,6-dimethylbenzimidazole synthase	1.13.11.79	Oxygen	H2O	green
+5,6-dimethylbenzimidazole synthase	1.13.11.79	Reduced FMN	D-Erythrose 4-phosphate	green
+5,6-dimethylbenzimidazole synthase	1.13.11.79	Reduced FMN	Dimethylbenzimidazole	green
+5,6-dimethylbenzimidazole synthase	1.13.11.79	Reduced FMN	H2O	green
+5-amino-6-(5-phospho-D-ribitylamino)uracil phosphatase	3.1.3.104	5-Amino-6-(1-D-ribitylamino)uracil	5-Amino-6-(5'-phospho-D-ribitylamino)uracil	white
+5-amino-6-(5-phospho-D-ribitylamino)uracil phosphatase	3.1.3.104	5-Amino-6-(1-D-ribitylamino)uracil	H2O	white
+5-amino-6-(5-phospho-D-ribitylamino)uracil phosphatase	3.1.3.104	5-Amino-6-(5'-phospho-D-ribitylamino)uracil	5-Amino-6-(1-D-ribitylamino)uracil	white
+5-amino-6-(5-phospho-D-ribitylamino)uracil phosphatase	3.1.3.104	5-Amino-6-(5'-phospho-D-ribitylamino)uracil	Orthophosphate	white
+5-amino-6-(5-phospho-D-ribitylamino)uracil phosphatase	3.1.3.104	H2O	5-Amino-6-(1-D-ribitylamino)uracil	white
+5-amino-6-(5-phospho-D-ribitylamino)uracil phosphatase	3.1.3.104	H2O	Orthophosphate	white
+5-amino-6-(5-phospho-D-ribitylamino)uracil phosphatase	3.1.3.104	Orthophosphate	5-Amino-6-(5'-phospho-D-ribitylamino)uracil	white
+5-amino-6-(5-phospho-D-ribitylamino)uracil phosphatase	3.1.3.104	Orthophosphate	H2O	white
+6,7-dimethyl-8-ribityllumazine synthase	2.5.1.78	5-Amino-6-(1-D-ribitylamino)uracil	6,7-Dimethyl-8-(D-ribityl)lumazine	green
+6,7-dimethyl-8-ribityllumazine synthase	2.5.1.78	5-Amino-6-(1-D-ribitylamino)uracil	H2O	green
+6,7-dimethyl-8-ribityllumazine synthase	2.5.1.78	5-Amino-6-(1-D-ribitylamino)uracil	Orthophosphate	green
+6,7-dimethyl-8-ribityllumazine synthase	2.5.1.78	L-3,4-Dihydroxybutan-2-one 4-phosphate	6,7-Dimethyl-8-(D-ribityl)lumazine	green
+6,7-dimethyl-8-ribityllumazine synthase	2.5.1.78	L-3,4-Dihydroxybutan-2-one 4-phosphate	H2O	green
+6,7-dimethyl-8-ribityllumazine synthase	2.5.1.78	L-3,4-Dihydroxybutan-2-one 4-phosphate	Orthophosphate	green
+ADP-ribose diphosphatase	3.6.1.13	ADP-ribose	AMP	white
+ADP-ribose diphosphatase	3.6.1.13	ADP-ribose	D-Ribose 5-phosphate	white
+ADP-ribose diphosphatase	3.6.1.13	AMP	ADP-ribose	white
+ADP-ribose diphosphatase	3.6.1.13	AMP	H2O	white
+ADP-ribose diphosphatase	3.6.1.13	D-Ribose 5-phosphate	ADP-ribose	white
+ADP-ribose diphosphatase	3.6.1.13	D-Ribose 5-phosphate	H2O	white
+ADP-ribose diphosphatase	3.6.1.13	H2O	AMP	white
+ADP-ribose diphosphatase	3.6.1.13	H2O	D-Ribose 5-phosphate	white
+ADP-ribose/FAD diphosphatase	3.6.1.13	AMP	FAD	white
+ADP-ribose/FAD diphosphatase	3.6.1.13	AMP	H2O	white
+ADP-ribose/FAD diphosphatase	3.6.1.13	FAD	AMP	white
+ADP-ribose/FAD diphosphatase	3.6.1.13	FAD	FMN	white
+ADP-ribose/FAD diphosphatase	3.6.1.13	FMN	FAD	white
+ADP-ribose/FAD diphosphatase	3.6.1.13	FMN	H2O	white
+ADP-ribose/FAD diphosphatase	3.6.1.13	H2O	AMP	white
+ADP-ribose/FAD diphosphatase	3.6.1.13	H2O	FMN	white
+FAD reductase [NAD(P)H]	1.5.1.45	3,4-Dihydroxyphenylacetate	4-Hydroxyphenylacetate	white
+FAD reductase [NAD(P)H]	1.5.1.45	3,4-Dihydroxyphenylacetate	H+	white
+FAD reductase [NAD(P)H]	1.5.1.45	3,4-Dihydroxyphenylacetate	NADH	white
+FAD reductase [NAD(P)H]	1.5.1.45	3,4-Dihydroxyphenylacetate	Oxygen	white
+FAD reductase [NAD(P)H]	1.5.1.45	4-Hydroxyphenylacetate	3,4-Dihydroxyphenylacetate	white
+FAD reductase [NAD(P)H]	1.5.1.45	4-Hydroxyphenylacetate	H2O	white
+FAD reductase [NAD(P)H]	1.5.1.45	4-Hydroxyphenylacetate	NAD+	white
+FAD reductase [NAD(P)H]	1.5.1.45	H+	3,4-Dihydroxyphenylacetate	white
+FAD reductase [NAD(P)H]	1.5.1.45	H+	H2O	white
+FAD reductase [NAD(P)H]	1.5.1.45	H+	NAD+	white
+FAD reductase [NAD(P)H]	1.5.1.45	H2O	4-Hydroxyphenylacetate	white
+FAD reductase [NAD(P)H]	1.5.1.45	H2O	H+	white
+FAD reductase [NAD(P)H]	1.5.1.45	H2O	NADH	white
+FAD reductase [NAD(P)H]	1.5.1.45	H2O	Oxygen	white
+FAD reductase [NAD(P)H]	1.5.1.45	NAD+	4-Hydroxyphenylacetate	white
+FAD reductase [NAD(P)H]	1.5.1.45	NAD+	H+	white
+FAD reductase [NAD(P)H]	1.5.1.45	NAD+	NADH	white
+FAD reductase [NAD(P)H]	1.5.1.45	NAD+	Oxygen	white
+FAD reductase [NAD(P)H]	1.5.1.45	NADH	3,4-Dihydroxyphenylacetate	white
+FAD reductase [NAD(P)H]	1.5.1.45	NADH	H2O	white
+FAD reductase [NAD(P)H]	1.5.1.45	NADH	NAD+	white
+FAD reductase [NAD(P)H]	1.5.1.45	Oxygen	3,4-Dihydroxyphenylacetate	white
+FAD reductase [NAD(P)H]	1.5.1.45	Oxygen	H2O	white
+FAD reductase [NAD(P)H]	1.5.1.45	Oxygen	NAD+	white
+FMN hydrolase / 5-amino-6-(5-phospho-D-ribitylamino)uracil phosphatase	3.1.3.102	FMN	Orthophosphate	white
+FMN hydrolase / 5-amino-6-(5-phospho-D-ribitylamino)uracil phosphatase	3.1.3.102	FMN	Riboflavin	white
+FMN hydrolase / 5-amino-6-(5-phospho-D-ribitylamino)uracil phosphatase	3.1.3.102	H2O	Orthophosphate	white
+FMN hydrolase / 5-amino-6-(5-phospho-D-ribitylamino)uracil phosphatase	3.1.3.102	H2O	Riboflavin	white
+FMN hydrolase / 5-amino-6-(5-phospho-D-ribitylamino)uracil phosphatase	3.1.3.102	Orthophosphate	FMN	white
+FMN hydrolase / 5-amino-6-(5-phospho-D-ribitylamino)uracil phosphatase	3.1.3.102	Orthophosphate	H2O	white
+FMN hydrolase / 5-amino-6-(5-phospho-D-ribitylamino)uracil phosphatase	3.1.3.102	Riboflavin	FMN	white
+FMN hydrolase / 5-amino-6-(5-phospho-D-ribitylamino)uracil phosphatase	3.1.3.102	Riboflavin	H2O	white
+FMN reductase	1.5.1.38	NADP+	FMN	green
+FMN reductase	1.5.1.38	NADP+	H+	green
+FMN reductase	1.5.1.38	NADP+	NADPH	green
+FMN reductase	1.5.1.38	Reduced FMN	FMN	green
+FMN reductase	1.5.1.38	Reduced FMN	H+	green
+FMN reductase	1.5.1.38	Reduced FMN	NADPH	green
+FMN reductase [NAD(P)H]	1.5.1.39	FMN	NAD+	white
+FMN reductase [NAD(P)H]	1.5.1.39	FMN	Reduced FMN	white
+FMN reductase [NAD(P)H]	1.5.1.39	H+	NAD+	white
+FMN reductase [NAD(P)H]	1.5.1.39	H+	Reduced FMN	white
+FMN reductase [NAD(P)H]	1.5.1.39	NAD+	FMN	white
+FMN reductase [NAD(P)H]	1.5.1.39	NAD+	H+	white
+FMN reductase [NAD(P)H]	1.5.1.39	NAD+	NADH	white
+FMN reductase [NAD(P)H]	1.5.1.39	NADH	NAD+	white
+FMN reductase [NAD(P)H]	1.5.1.39	NADH	Reduced FMN	white
+FMN reductase [NAD(P)H]	1.5.1.39	Reduced FMN	FMN	white
+FMN reductase [NAD(P)H]	1.5.1.39	Reduced FMN	H+	white
+FMN reductase [NAD(P)H]	1.5.1.39	Reduced FMN	NADH	white
+GTP cyclohydrolase IIa	3.5.4.29	2-Amino-5-formylamino-6-(5-phospho-D-ribosylamino)pyrimidin-4(3H)-one	GTP	white
+GTP cyclohydrolase IIa	3.5.4.29	2-Amino-5-formylamino-6-(5-phospho-D-ribosylamino)pyrimidin-4(3H)-one	H2O	white
+GTP cyclohydrolase IIa	3.5.4.29	GTP	2-Amino-5-formylamino-6-(5-phospho-D-ribosylamino)pyrimidin-4(3H)-one	white
+GTP cyclohydrolase IIa	3.5.4.29	GTP	Orthophosphate	white
+GTP cyclohydrolase IIa	3.5.4.29	H2O	2-Amino-5-formylamino-6-(5-phospho-D-ribosylamino)pyrimidin-4(3H)-one	white
+GTP cyclohydrolase IIa	3.5.4.29	H2O	Orthophosphate	white
+GTP cyclohydrolase IIa	3.5.4.29	Orthophosphate	GTP	white
+GTP cyclohydrolase IIa	3.5.4.29	Orthophosphate	H2O	white
+NAD(P)H-flavin reductase	1.5.1.41	FMN	NAD+	white
+NAD(P)H-flavin reductase	1.5.1.41	FMN	Reduced FMN	white
+NAD(P)H-flavin reductase	1.5.1.41	H+	NAD+	white
+NAD(P)H-flavin reductase	1.5.1.41	H+	Reduced FMN	white
+NAD(P)H-flavin reductase	1.5.1.41	NAD+	FMN	white
+NAD(P)H-flavin reductase	1.5.1.41	NAD+	H+	white
+NAD(P)H-flavin reductase	1.5.1.41	NAD+	NADH	white
+NAD(P)H-flavin reductase	1.5.1.41	NADH	NAD+	white
+NAD(P)H-flavin reductase	1.5.1.41	NADH	Reduced FMN	white
+NAD(P)H-flavin reductase	1.5.1.41	Reduced FMN	FMN	white
+NAD(P)H-flavin reductase	1.5.1.41	Reduced FMN	H+	white
+NAD(P)H-flavin reductase	1.5.1.41	Reduced FMN	NADH	white
+acid phosphatase	3.1.3.2	FMN	Orthophosphate	white
+acid phosphatase	3.1.3.2	FMN	Riboflavin	white
+acid phosphatase	3.1.3.2	H2O	Orthophosphate	white
+acid phosphatase	3.1.3.2	H2O	Riboflavin	white
+acid phosphatase	3.1.3.2	Orthophosphate	FMN	white
+acid phosphatase	3.1.3.2	Orthophosphate	H2O	white
+acid phosphatase	3.1.3.2	Riboflavin	FMN	white
+acid phosphatase	3.1.3.2	Riboflavin	H2O	white
+acid phosphatase (class A)	3.1.3.2	FMN	Orthophosphate	white
+acid phosphatase (class A)	3.1.3.2	FMN	Riboflavin	white
+acid phosphatase (class A)	3.1.3.2	H2O	Orthophosphate	white
+acid phosphatase (class A)	3.1.3.2	H2O	Riboflavin	white
+acid phosphatase (class A)	3.1.3.2	Orthophosphate	FMN	white
+acid phosphatase (class A)	3.1.3.2	Orthophosphate	H2O	white
+acid phosphatase (class A)	3.1.3.2	Riboflavin	FMN	white
+acid phosphatase (class A)	3.1.3.2	Riboflavin	H2O	white
+acid phosphatase (class B)	3.1.3.2	FMN	Orthophosphate	white
+acid phosphatase (class B)	3.1.3.2	FMN	Riboflavin	white
+acid phosphatase (class B)	3.1.3.2	H2O	Orthophosphate	white
+acid phosphatase (class B)	3.1.3.2	H2O	Riboflavin	white
+acid phosphatase (class B)	3.1.3.2	Orthophosphate	FMN	white
+acid phosphatase (class B)	3.1.3.2	Orthophosphate	H2O	white
+acid phosphatase (class B)	3.1.3.2	Riboflavin	FMN	white
+acid phosphatase (class B)	3.1.3.2	Riboflavin	H2O	white
+biliverdin reductase / flavin reductase	1.3.1.24	Bilirubin	Biliverdin	white
+biliverdin reductase / flavin reductase	1.3.1.24	Bilirubin	H+	white
+biliverdin reductase / flavin reductase	1.3.1.24	Bilirubin	NADH	white
+biliverdin reductase / flavin reductase	1.3.1.24	Biliverdin	Bilirubin	white
+biliverdin reductase / flavin reductase	1.3.1.24	Biliverdin	NAD+	white
+biliverdin reductase / flavin reductase	1.3.1.24	H+	Bilirubin	white
+biliverdin reductase / flavin reductase	1.3.1.24	H+	NAD+	white
+biliverdin reductase / flavin reductase	1.3.1.24	NAD+	Biliverdin	white
+biliverdin reductase / flavin reductase	1.3.1.24	NAD+	H+	white
+biliverdin reductase / flavin reductase	1.3.1.24	NAD+	NADH	white
+biliverdin reductase / flavin reductase	1.3.1.24	NADH	Bilirubin	white
+biliverdin reductase / flavin reductase	1.3.1.24	NADH	NAD+	white
+diaminohydroxyphosphoribosylaminopyrimidine deaminase / 5-amino-6-(5-phosphoribosylamino)uracil reductase	3.5.4.26	2,5-Diamino-6-(5-phospho-D-ribosylamino)pyrimidin-4(3H)-one	5-Amino-6-(5'-phosphoribosylamino)uracil	green
+diaminohydroxyphosphoribosylaminopyrimidine deaminase / 5-amino-6-(5-phosphoribosylamino)uracil reductase	3.5.4.26	2,5-Diamino-6-(5-phospho-D-ribosylamino)pyrimidin-4(3H)-one	Ammonia	green
+diaminohydroxyphosphoribosylaminopyrimidine deaminase / 5-amino-6-(5-phosphoribosylamino)uracil reductase	3.5.4.26	5-Amino-6-(5'-phospho-D-ribitylamino)uracil	5-Amino-6-(5'-phosphoribosylamino)uracil	green
+diaminohydroxyphosphoribosylaminopyrimidine deaminase / 5-amino-6-(5-phosphoribosylamino)uracil reductase	3.5.4.26	5-Amino-6-(5'-phospho-D-ribitylamino)uracil	H+	green
+diaminohydroxyphosphoribosylaminopyrimidine deaminase / 5-amino-6-(5-phosphoribosylamino)uracil reductase	3.5.4.26	5-Amino-6-(5'-phospho-D-ribitylamino)uracil	NADPH	green
+diaminohydroxyphosphoribosylaminopyrimidine deaminase / 5-amino-6-(5-phosphoribosylamino)uracil reductase	3.5.4.26	H2O	5-Amino-6-(5'-phosphoribosylamino)uracil	green
+diaminohydroxyphosphoribosylaminopyrimidine deaminase / 5-amino-6-(5-phosphoribosylamino)uracil reductase	3.5.4.26	H2O	Ammonia	green
+diaminohydroxyphosphoribosylaminopyrimidine deaminase / 5-amino-6-(5-phosphoribosylamino)uracil reductase	3.5.4.26	NADP+	5-Amino-6-(5'-phosphoribosylamino)uracil	green
+diaminohydroxyphosphoribosylaminopyrimidine deaminase / 5-amino-6-(5-phosphoribosylamino)uracil reductase	3.5.4.26	NADP+	H+	green
+diaminohydroxyphosphoribosylaminopyrimidine deaminase / 5-amino-6-(5-phosphoribosylamino)uracil reductase	3.5.4.26	NADP+	NADPH	green
+ectonucleotide pyrophosphatase/phosphodiesterase family member 1/3	3.1.4.1	Dinucleotide	Mononucleotide	white
+ectonucleotide pyrophosphatase/phosphodiesterase family member 1/3	3.1.4.1	H2O	Mononucleotide	white
+ectonucleotide pyrophosphatase/phosphodiesterase family member 1/3	3.1.4.1	Mononucleotide	Dinucleotide	white
+ectonucleotide pyrophosphatase/phosphodiesterase family member 1/3	3.1.4.1	Mononucleotide	H2O	white
+flavin prenyltransferase	2.5.1.129	4-Hydroxybenzoate	CO2	white
+flavin prenyltransferase	2.5.1.129	4-Hydroxybenzoate	Phenol	white
+flavin prenyltransferase	2.5.1.129	CO2	4-Hydroxybenzoate	white
+flavin prenyltransferase	2.5.1.129	Phenol	4-Hydroxybenzoate	white
+flavin reductase	1.5.1.-	(Z)-3-Ureidoacrylate peracid	Oxygen	white
+flavin reductase	1.5.1.-	(Z)-3-Ureidoacrylate peracid	Reduced FMN	white
+flavin reductase	1.5.1.-	(Z)-3-Ureidoacrylate peracid	Uracil	white
+flavin reductase	1.5.1.-	FMN	Oxygen	white
+flavin reductase	1.5.1.-	FMN	Reduced FMN	white
+flavin reductase	1.5.1.-	FMN	Uracil	white
+flavin reductase	1.5.1.-	Oxygen	(Z)-3-Ureidoacrylate peracid	white
+flavin reductase	1.5.1.-	Oxygen	FMN	white
+flavin reductase	1.5.1.-	Reduced FMN	(Z)-3-Ureidoacrylate peracid	white
+flavin reductase	1.5.1.-	Reduced FMN	FMN	white
+flavin reductase	1.5.1.-	Uracil	(Z)-3-Ureidoacrylate peracid	white
+flavin reductase	1.5.1.-	Uracil	FMN	white
+flavin reductase (NADH)	1.5.1.36	FADH2	FAD	green
+flavin reductase (NADH)	1.5.1.36	FADH2	H+	green
+flavin reductase (NADH)	1.5.1.36	FADH2	NADH	green
+flavin reductase (NADH)	1.5.1.36	NAD+	FAD	green
+flavin reductase (NADH)	1.5.1.36	NAD+	FMN	green
+flavin reductase (NADH)	1.5.1.36	NAD+	H+	green
+flavin reductase (NADH)	1.5.1.36	NAD+	NADH	green
+flavin reductase (NADH)	1.5.1.36	NAD+	Riboflavin	green
+flavin reductase (NADH)	1.5.1.36	Reduced FMN	FMN	green
+flavin reductase (NADH)	1.5.1.36	Reduced FMN	H+	green
+flavin reductase (NADH)	1.5.1.36	Reduced FMN	NADH	green
+flavin reductase (NADH)	1.5.1.36	Reduced riboflavin	H+	green
+flavin reductase (NADH)	1.5.1.36	Reduced riboflavin	NADH	green
+flavin reductase (NADH)	1.5.1.36	Reduced riboflavin	Riboflavin	green
+hydroxyethylthiazole kinase	2.7.1.50	4-Methyl-5-(2-phosphooxyethyl)thiazole	5-(2-Hydroxyethyl)-4-methylthiazole	white
+hydroxyethylthiazole kinase	2.7.1.50	4-Methyl-5-(2-phosphooxyethyl)thiazole	ATP	white
+hydroxyethylthiazole kinase	2.7.1.50	5-(2-Hydroxyethyl)-4-methylthiazole	4-Methyl-5-(2-phosphooxyethyl)thiazole	white
+hydroxyethylthiazole kinase	2.7.1.50	5-(2-Hydroxyethyl)-4-methylthiazole	ADP	white
+hydroxyethylthiazole kinase	2.7.1.50	ADP	5-(2-Hydroxyethyl)-4-methylthiazole	white
+hydroxyethylthiazole kinase	2.7.1.50	ADP	ATP	white
+hydroxyethylthiazole kinase	2.7.1.50	ATP	4-Methyl-5-(2-phosphooxyethyl)thiazole	white
+hydroxyethylthiazole kinase	2.7.1.50	ATP	ADP	white
+low molecular weight phosphotyrosine protein phosphatase	3.1.3.2	FMN	Orthophosphate	white
+low molecular weight phosphotyrosine protein phosphatase	3.1.3.2	FMN	Riboflavin	white
+low molecular weight phosphotyrosine protein phosphatase	3.1.3.2	H2O	Orthophosphate	white
+low molecular weight phosphotyrosine protein phosphatase	3.1.3.2	H2O	Riboflavin	white
+low molecular weight phosphotyrosine protein phosphatase	3.1.3.2	Orthophosphate	FMN	white
+low molecular weight phosphotyrosine protein phosphatase	3.1.3.2	Orthophosphate	H2O	white
+low molecular weight phosphotyrosine protein phosphatase	3.1.3.2	Riboflavin	FMN	white
+low molecular weight phosphotyrosine protein phosphatase	3.1.3.2	Riboflavin	H2O	white
+lysosomal acid phosphatase	3.1.3.2	FMN	Orthophosphate	white
+lysosomal acid phosphatase	3.1.3.2	FMN	Riboflavin	white
+lysosomal acid phosphatase	3.1.3.2	H2O	Orthophosphate	white
+lysosomal acid phosphatase	3.1.3.2	H2O	Riboflavin	white
+lysosomal acid phosphatase	3.1.3.2	Orthophosphate	FMN	white
+lysosomal acid phosphatase	3.1.3.2	Orthophosphate	H2O	white
+lysosomal acid phosphatase	3.1.3.2	Riboflavin	FMN	white
+lysosomal acid phosphatase	3.1.3.2	Riboflavin	H2O	white
+nitrilotriacetate monooxygenase reductase component	1.5.1.42	FMN	NAD+	white
+nitrilotriacetate monooxygenase reductase component	1.5.1.42	FMN	Reduced FMN	white
+nitrilotriacetate monooxygenase reductase component	1.5.1.42	H+	NAD+	white
+nitrilotriacetate monooxygenase reductase component	1.5.1.42	H+	Reduced FMN	white
+nitrilotriacetate monooxygenase reductase component	1.5.1.42	NAD+	FMN	white
+nitrilotriacetate monooxygenase reductase component	1.5.1.42	NAD+	H+	white
+nitrilotriacetate monooxygenase reductase component	1.5.1.42	NAD+	NADH	white
+nitrilotriacetate monooxygenase reductase component	1.5.1.42	NADH	NAD+	white
+nitrilotriacetate monooxygenase reductase component	1.5.1.42	NADH	Reduced FMN	white
+nitrilotriacetate monooxygenase reductase component	1.5.1.42	Reduced FMN	FMN	white
+nitrilotriacetate monooxygenase reductase component	1.5.1.42	Reduced FMN	H+	white
+nitrilotriacetate monooxygenase reductase component	1.5.1.42	Reduced FMN	NADH	white
+phosphatase NudJ	3.6.1.-	Dimethylallyl diphosphate	Dimethylallyl phosphate	white
+phosphatase NudJ	3.6.1.-	Dimethylallyl diphosphate	Orthophosphate	white
+phosphatase NudJ	3.6.1.-	Dimethylallyl phosphate	Dimethylallyl diphosphate	white
+phosphatase NudJ	3.6.1.-	Dimethylallyl phosphate	H2O	white
+phosphatase NudJ	3.6.1.-	H2O	Dimethylallyl phosphate	white
+phosphatase NudJ	3.6.1.-	H2O	Orthophosphate	white
+phosphatase NudJ	3.6.1.-	Orthophosphate	Dimethylallyl diphosphate	white
+phosphatase NudJ	3.6.1.-	Orthophosphate	H2O	white
+prenyl-diphosphate phosphatase	3.6.1.76	Dimethylallyl diphosphate	Dimethylallyl phosphate	white
+prenyl-diphosphate phosphatase	3.6.1.76	Dimethylallyl diphosphate	Orthophosphate	white
+prenyl-diphosphate phosphatase	3.6.1.76	Dimethylallyl phosphate	Dimethylallyl diphosphate	white
+prenyl-diphosphate phosphatase	3.6.1.76	Dimethylallyl phosphate	H2O	white
+prenyl-diphosphate phosphatase	3.6.1.76	H2O	Dimethylallyl phosphate	white
+prenyl-diphosphate phosphatase	3.6.1.76	H2O	Orthophosphate	white
+prenyl-diphosphate phosphatase	3.6.1.76	Orthophosphate	Dimethylallyl diphosphate	white
+prenyl-diphosphate phosphatase	3.6.1.76	Orthophosphate	H2O	white
+repressible acid phosphatase	3.1.3.2	FMN	Orthophosphate	white
+repressible acid phosphatase	3.1.3.2	FMN	Riboflavin	white
+repressible acid phosphatase	3.1.3.2	H2O	Orthophosphate	white
+repressible acid phosphatase	3.1.3.2	H2O	Riboflavin	white
+repressible acid phosphatase	3.1.3.2	Orthophosphate	FMN	white
+repressible acid phosphatase	3.1.3.2	Orthophosphate	H2O	white
+repressible acid phosphatase	3.1.3.2	Riboflavin	FMN	white
+repressible acid phosphatase	3.1.3.2	Riboflavin	H2O	white
+riboflavin kinase / FMN adenylyltransferase	2.7.1.26	ATP	ADP	green
+riboflavin kinase / FMN adenylyltransferase	2.7.1.26	ATP	Diphosphate	green
+riboflavin kinase / FMN adenylyltransferase	2.7.1.26	ATP	FAD	green
+riboflavin kinase / FMN adenylyltransferase	2.7.1.26	ATP	FMN	green
+riboflavin kinase / FMN adenylyltransferase	2.7.1.26	FMN	Diphosphate	green
+riboflavin kinase / FMN adenylyltransferase	2.7.1.26	FMN	FAD	green
+riboflavin kinase / FMN adenylyltransferase	2.7.1.26	Riboflavin	ADP	green
+riboflavin kinase / FMN adenylyltransferase	2.7.1.26	Riboflavin	FMN	green
+riboflavin kinase / FMN hydrolase	2.7.1.26	FMN	Orthophosphate	white
+riboflavin kinase / FMN hydrolase	2.7.1.26	FMN	Riboflavin	white
+riboflavin kinase / FMN hydrolase	2.7.1.26	H2O	Orthophosphate	white
+riboflavin kinase / FMN hydrolase	2.7.1.26	H2O	Riboflavin	white
+riboflavin kinase / FMN hydrolase	2.7.1.26	Orthophosphate	FMN	white
+riboflavin kinase / FMN hydrolase	2.7.1.26	Orthophosphate	H2O	white
+riboflavin kinase / FMN hydrolase	2.7.1.26	Riboflavin	FMN	white
+riboflavin kinase / FMN hydrolase	2.7.1.26	Riboflavin	H2O	white
+riboflavin kinase, archaea type	2.7.1.161	CDP	CTP	white
+riboflavin kinase, archaea type	2.7.1.161	CDP	Riboflavin	white
+riboflavin kinase, archaea type	2.7.1.161	CTP	CDP	white
+riboflavin kinase, archaea type	2.7.1.161	CTP	FMN	white
+riboflavin kinase, archaea type	2.7.1.161	FMN	CTP	white
+riboflavin kinase, archaea type	2.7.1.161	FMN	Riboflavin	white
+riboflavin kinase, archaea type	2.7.1.161	Riboflavin	CDP	white
+riboflavin kinase, archaea type	2.7.1.161	Riboflavin	FMN	white
+riboflavin synthase	2.5.1.9	6,7-Dimethyl-8-(D-ribityl)lumazine	5-Amino-6-(1-D-ribitylamino)uracil	green
+riboflavin synthase	2.5.1.9	6,7-Dimethyl-8-(D-ribityl)lumazine	Riboflavin	green
+tRNA pseudouridine32 synthase / 2,5-diamino-6-(5-phospho-D-ribitylamino)-pyrimidin-4(3H)-one deaminase	5.4.99.28	2,5-Diamino-6-(5-phospho-D-ribitylamino)pyrimidin-4(3H)-one	5-Amino-6-(5'-phospho-D-ribitylamino)uracil	white
+tRNA pseudouridine32 synthase / 2,5-diamino-6-(5-phospho-D-ribitylamino)-pyrimidin-4(3H)-one deaminase	5.4.99.28	2,5-Diamino-6-(5-phospho-D-ribitylamino)pyrimidin-4(3H)-one	Ammonia	white
+tRNA pseudouridine32 synthase / 2,5-diamino-6-(5-phospho-D-ribitylamino)-pyrimidin-4(3H)-one deaminase	5.4.99.28	5-Amino-6-(5'-phospho-D-ribitylamino)uracil	2,5-Diamino-6-(5-phospho-D-ribitylamino)pyrimidin-4(3H)-one	white
+tRNA pseudouridine32 synthase / 2,5-diamino-6-(5-phospho-D-ribitylamino)-pyrimidin-4(3H)-one deaminase	5.4.99.28	5-Amino-6-(5'-phospho-D-ribitylamino)uracil	H2O	white
+tRNA pseudouridine32 synthase / 2,5-diamino-6-(5-phospho-D-ribitylamino)-pyrimidin-4(3H)-one deaminase	5.4.99.28	Ammonia	2,5-Diamino-6-(5-phospho-D-ribitylamino)pyrimidin-4(3H)-one	white
+tRNA pseudouridine32 synthase / 2,5-diamino-6-(5-phospho-D-ribitylamino)-pyrimidin-4(3H)-one deaminase	5.4.99.28	Ammonia	H2O	white
+tRNA pseudouridine32 synthase / 2,5-diamino-6-(5-phospho-D-ribitylamino)-pyrimidin-4(3H)-one deaminase	5.4.99.28	H2O	5-Amino-6-(5'-phospho-D-ribitylamino)uracil	white
+tRNA pseudouridine32 synthase / 2,5-diamino-6-(5-phospho-D-ribitylamino)-pyrimidin-4(3H)-one deaminase	5.4.99.28	H2O	Ammonia	white
+tartrate-resistant acid phosphatase type 5	3.1.3.2	FMN	Orthophosphate	white
+tartrate-resistant acid phosphatase type 5	3.1.3.2	FMN	Riboflavin	white
+tartrate-resistant acid phosphatase type 5	3.1.3.2	H2O	Orthophosphate	white
+tartrate-resistant acid phosphatase type 5	3.1.3.2	H2O	Riboflavin	white
+tartrate-resistant acid phosphatase type 5	3.1.3.2	Orthophosphate	FMN	white
+tartrate-resistant acid phosphatase type 5	3.1.3.2	Orthophosphate	H2O	white
+tartrate-resistant acid phosphatase type 5	3.1.3.2	Riboflavin	FMN	white
+tartrate-resistant acid phosphatase type 5	3.1.3.2	Riboflavin	H2O	white

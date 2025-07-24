@@ -1,0 +1,235 @@
+enzyme_name	EC	source	target	color
+alanine transaminase	2.6.1.2	2-Oxoglutarate	L-Glutamate	white
+alanine transaminase	2.6.1.2	2-Oxoglutarate	Pyruvate	white
+alanine transaminase	2.6.1.2	L-Alanine	L-Glutamate	white
+alanine transaminase	2.6.1.2	L-Alanine	Pyruvate	white
+alanine transaminase	2.6.1.2	L-Glutamate	2-Oxoglutarate	white
+alanine transaminase	2.6.1.2	L-Glutamate	L-Alanine	white
+alanine transaminase	2.6.1.2	Pyruvate	2-Oxoglutarate	white
+alanine transaminase	2.6.1.2	Pyruvate	L-Alanine	white
+aspartate aminotransferase, cytoplasmic	2.6.1.1	2-Oxoglutarate	L-Glutamate	white
+aspartate aminotransferase, cytoplasmic	2.6.1.1	2-Oxoglutarate	Oxaloacetate	white
+aspartate aminotransferase, cytoplasmic	2.6.1.1	L-Aspartate	L-Glutamate	white
+aspartate aminotransferase, cytoplasmic	2.6.1.1	L-Aspartate	Oxaloacetate	white
+aspartate aminotransferase, cytoplasmic	2.6.1.1	L-Glutamate	2-Oxoglutarate	white
+aspartate aminotransferase, cytoplasmic	2.6.1.1	L-Glutamate	L-Aspartate	white
+aspartate aminotransferase, cytoplasmic	2.6.1.1	Oxaloacetate	2-Oxoglutarate	white
+aspartate aminotransferase, cytoplasmic	2.6.1.1	Oxaloacetate	L-Aspartate	white
+aspartate aminotransferase, mitochondrial	2.6.1.1	2-Oxoglutarate	L-Glutamate	white
+aspartate aminotransferase, mitochondrial	2.6.1.1	2-Oxoglutarate	Oxaloacetate	white
+aspartate aminotransferase, mitochondrial	2.6.1.1	L-Aspartate	L-Glutamate	white
+aspartate aminotransferase, mitochondrial	2.6.1.1	L-Aspartate	Oxaloacetate	white
+aspartate aminotransferase, mitochondrial	2.6.1.1	L-Glutamate	2-Oxoglutarate	white
+aspartate aminotransferase, mitochondrial	2.6.1.1	L-Glutamate	L-Aspartate	white
+aspartate aminotransferase, mitochondrial	2.6.1.1	Oxaloacetate	2-Oxoglutarate	white
+aspartate aminotransferase, mitochondrial	2.6.1.1	Oxaloacetate	L-Aspartate	white
+fructose-1,6-bisphosphatase I / sedoheptulose-1,7-bisphosphatase	3.1.3.11	D-Fructose 1,6-bisphosphate	D-Fructose 6-phosphate	white
+fructose-1,6-bisphosphatase I / sedoheptulose-1,7-bisphosphatase	3.1.3.11	D-Fructose 1,6-bisphosphate	Orthophosphate	white
+fructose-1,6-bisphosphatase I / sedoheptulose-1,7-bisphosphatase	3.1.3.11	D-Fructose 6-phosphate	D-Fructose 1,6-bisphosphate	white
+fructose-1,6-bisphosphatase I / sedoheptulose-1,7-bisphosphatase	3.1.3.11	D-Fructose 6-phosphate	H2O	white
+fructose-1,6-bisphosphatase I / sedoheptulose-1,7-bisphosphatase	3.1.3.11	H2O	D-Fructose 6-phosphate	white
+fructose-1,6-bisphosphatase I / sedoheptulose-1,7-bisphosphatase	3.1.3.11	H2O	Orthophosphate	white
+fructose-1,6-bisphosphatase I / sedoheptulose-1,7-bisphosphatase	3.1.3.11	Orthophosphate	D-Fructose 1,6-bisphosphate	white
+fructose-1,6-bisphosphatase I / sedoheptulose-1,7-bisphosphatase	3.1.3.11	Orthophosphate	H2O	white
+fructose-1,6-bisphosphatase II	3.1.3.11	D-Fructose 1,6-bisphosphate	D-Fructose 6-phosphate	green
+fructose-1,6-bisphosphatase II	3.1.3.11	D-Fructose 1,6-bisphosphate	Orthophosphate	green
+fructose-1,6-bisphosphatase II	3.1.3.11	H2O	D-Fructose 6-phosphate	green
+fructose-1,6-bisphosphatase II	3.1.3.11	H2O	Orthophosphate	green
+fructose-1,6-bisphosphatase II / sedoheptulose-1,7-bisphosphatase	3.1.3.11	D-Fructose 1,6-bisphosphate	D-Fructose 6-phosphate	white
+fructose-1,6-bisphosphatase II / sedoheptulose-1,7-bisphosphatase	3.1.3.11	D-Fructose 1,6-bisphosphate	Orthophosphate	white
+fructose-1,6-bisphosphatase II / sedoheptulose-1,7-bisphosphatase	3.1.3.11	D-Fructose 6-phosphate	D-Fructose 1,6-bisphosphate	white
+fructose-1,6-bisphosphatase II / sedoheptulose-1,7-bisphosphatase	3.1.3.11	D-Fructose 6-phosphate	H2O	white
+fructose-1,6-bisphosphatase II / sedoheptulose-1,7-bisphosphatase	3.1.3.11	H2O	D-Fructose 6-phosphate	white
+fructose-1,6-bisphosphatase II / sedoheptulose-1,7-bisphosphatase	3.1.3.11	H2O	Orthophosphate	white
+fructose-1,6-bisphosphatase II / sedoheptulose-1,7-bisphosphatase	3.1.3.11	Orthophosphate	D-Fructose 1,6-bisphosphate	white
+fructose-1,6-bisphosphatase II / sedoheptulose-1,7-bisphosphatase	3.1.3.11	Orthophosphate	H2O	white
+fructose-bisphosphate aldolase, class II	4.1.2.13	D-Fructose 1,6-bisphosphate	D-Glyceraldehyde 3-phosphate	green
+fructose-bisphosphate aldolase, class II	4.1.2.13	D-Fructose 1,6-bisphosphate	Glycerone phosphate	green
+fructose-bisphosphate aldolase, class II	4.1.2.13	Sedoheptulose 1,7-bisphosphate	D-Erythrose 4-phosphate	green
+fructose-bisphosphate aldolase, class II	4.1.2.13	Sedoheptulose 1,7-bisphosphate	Glycerone phosphate	green
+glutamate--glyoxylate aminotransferase	2.6.1.4	2-Oxoglutarate	L-Glutamate	white
+glutamate--glyoxylate aminotransferase	2.6.1.4	2-Oxoglutarate	Pyruvate	white
+glutamate--glyoxylate aminotransferase	2.6.1.4	L-Alanine	L-Glutamate	white
+glutamate--glyoxylate aminotransferase	2.6.1.4	L-Alanine	Pyruvate	white
+glutamate--glyoxylate aminotransferase	2.6.1.4	L-Glutamate	2-Oxoglutarate	white
+glutamate--glyoxylate aminotransferase	2.6.1.4	L-Glutamate	L-Alanine	white
+glutamate--glyoxylate aminotransferase	2.6.1.4	Pyruvate	2-Oxoglutarate	white
+glutamate--glyoxylate aminotransferase	2.6.1.4	Pyruvate	L-Alanine	white
+glyceraldehyde 3-phosphate dehydrogenase (phosphorylating)	1.2.1.12	D-Glyceraldehyde 3-phosphate	3-Phospho-D-glyceroyl phosphate	green
+glyceraldehyde 3-phosphate dehydrogenase (phosphorylating)	1.2.1.12	D-Glyceraldehyde 3-phosphate	H+	green
+glyceraldehyde 3-phosphate dehydrogenase (phosphorylating)	1.2.1.12	D-Glyceraldehyde 3-phosphate	NADH	green
+glyceraldehyde 3-phosphate dehydrogenase (phosphorylating)	1.2.1.12	NAD+	3-Phospho-D-glyceroyl phosphate	green
+glyceraldehyde 3-phosphate dehydrogenase (phosphorylating)	1.2.1.12	NAD+	H+	green
+glyceraldehyde 3-phosphate dehydrogenase (phosphorylating)	1.2.1.12	NAD+	NADH	green
+glyceraldehyde 3-phosphate dehydrogenase (phosphorylating)	1.2.1.12	Orthophosphate	3-Phospho-D-glyceroyl phosphate	green
+glyceraldehyde 3-phosphate dehydrogenase (phosphorylating)	1.2.1.12	Orthophosphate	H+	green
+glyceraldehyde 3-phosphate dehydrogenase (phosphorylating)	1.2.1.12	Orthophosphate	NADH	green
+glyceraldehyde-3-phosphate dehydrogenase (NAD(P)+) (phosphorylating)	1.2.1.59	3-Phospho-D-glyceroyl phosphate	D-Glyceraldehyde 3-phosphate	white
+glyceraldehyde-3-phosphate dehydrogenase (NAD(P)+) (phosphorylating)	1.2.1.59	3-Phospho-D-glyceroyl phosphate	NAD+	white
+glyceraldehyde-3-phosphate dehydrogenase (NAD(P)+) (phosphorylating)	1.2.1.59	3-Phospho-D-glyceroyl phosphate	Orthophosphate	white
+glyceraldehyde-3-phosphate dehydrogenase (NAD(P)+) (phosphorylating)	1.2.1.59	D-Glyceraldehyde 3-phosphate	3-Phospho-D-glyceroyl phosphate	white
+glyceraldehyde-3-phosphate dehydrogenase (NAD(P)+) (phosphorylating)	1.2.1.59	D-Glyceraldehyde 3-phosphate	H+	white
+glyceraldehyde-3-phosphate dehydrogenase (NAD(P)+) (phosphorylating)	1.2.1.59	D-Glyceraldehyde 3-phosphate	NADH	white
+glyceraldehyde-3-phosphate dehydrogenase (NAD(P)+) (phosphorylating)	1.2.1.59	H+	D-Glyceraldehyde 3-phosphate	white
+glyceraldehyde-3-phosphate dehydrogenase (NAD(P)+) (phosphorylating)	1.2.1.59	H+	NAD+	white
+glyceraldehyde-3-phosphate dehydrogenase (NAD(P)+) (phosphorylating)	1.2.1.59	H+	Orthophosphate	white
+glyceraldehyde-3-phosphate dehydrogenase (NAD(P)+) (phosphorylating)	1.2.1.59	NAD+	3-Phospho-D-glyceroyl phosphate	white
+glyceraldehyde-3-phosphate dehydrogenase (NAD(P)+) (phosphorylating)	1.2.1.59	NAD+	H+	white
+glyceraldehyde-3-phosphate dehydrogenase (NAD(P)+) (phosphorylating)	1.2.1.59	NAD+	NADH	white
+glyceraldehyde-3-phosphate dehydrogenase (NAD(P)+) (phosphorylating)	1.2.1.59	NADH	D-Glyceraldehyde 3-phosphate	white
+glyceraldehyde-3-phosphate dehydrogenase (NAD(P)+) (phosphorylating)	1.2.1.59	NADH	NAD+	white
+glyceraldehyde-3-phosphate dehydrogenase (NAD(P)+) (phosphorylating)	1.2.1.59	NADH	Orthophosphate	white
+glyceraldehyde-3-phosphate dehydrogenase (NAD(P)+) (phosphorylating)	1.2.1.59	Orthophosphate	3-Phospho-D-glyceroyl phosphate	white
+glyceraldehyde-3-phosphate dehydrogenase (NAD(P)+) (phosphorylating)	1.2.1.59	Orthophosphate	H+	white
+glyceraldehyde-3-phosphate dehydrogenase (NAD(P)+) (phosphorylating)	1.2.1.59	Orthophosphate	NADH	white
+glyceraldehyde-3-phosphate dehydrogenase (NADP+) (phosphorylating)	1.2.1.13	3-Phospho-D-glyceroyl phosphate	D-Glyceraldehyde 3-phosphate	white
+glyceraldehyde-3-phosphate dehydrogenase (NADP+) (phosphorylating)	1.2.1.13	3-Phospho-D-glyceroyl phosphate	NADP+	white
+glyceraldehyde-3-phosphate dehydrogenase (NADP+) (phosphorylating)	1.2.1.13	3-Phospho-D-glyceroyl phosphate	Orthophosphate	white
+glyceraldehyde-3-phosphate dehydrogenase (NADP+) (phosphorylating)	1.2.1.13	D-Glyceraldehyde 3-phosphate	3-Phospho-D-glyceroyl phosphate	white
+glyceraldehyde-3-phosphate dehydrogenase (NADP+) (phosphorylating)	1.2.1.13	D-Glyceraldehyde 3-phosphate	H+	white
+glyceraldehyde-3-phosphate dehydrogenase (NADP+) (phosphorylating)	1.2.1.13	D-Glyceraldehyde 3-phosphate	NADPH	white
+glyceraldehyde-3-phosphate dehydrogenase (NADP+) (phosphorylating)	1.2.1.13	H+	D-Glyceraldehyde 3-phosphate	white
+glyceraldehyde-3-phosphate dehydrogenase (NADP+) (phosphorylating)	1.2.1.13	H+	NADP+	white
+glyceraldehyde-3-phosphate dehydrogenase (NADP+) (phosphorylating)	1.2.1.13	H+	Orthophosphate	white
+glyceraldehyde-3-phosphate dehydrogenase (NADP+) (phosphorylating)	1.2.1.13	NADP+	3-Phospho-D-glyceroyl phosphate	white
+glyceraldehyde-3-phosphate dehydrogenase (NADP+) (phosphorylating)	1.2.1.13	NADP+	H+	white
+glyceraldehyde-3-phosphate dehydrogenase (NADP+) (phosphorylating)	1.2.1.13	NADP+	NADPH	white
+glyceraldehyde-3-phosphate dehydrogenase (NADP+) (phosphorylating)	1.2.1.13	NADPH	D-Glyceraldehyde 3-phosphate	white
+glyceraldehyde-3-phosphate dehydrogenase (NADP+) (phosphorylating)	1.2.1.13	NADPH	NADP+	white
+glyceraldehyde-3-phosphate dehydrogenase (NADP+) (phosphorylating)	1.2.1.13	NADPH	Orthophosphate	white
+glyceraldehyde-3-phosphate dehydrogenase (NADP+) (phosphorylating)	1.2.1.13	Orthophosphate	3-Phospho-D-glyceroyl phosphate	white
+glyceraldehyde-3-phosphate dehydrogenase (NADP+) (phosphorylating)	1.2.1.13	Orthophosphate	H+	white
+glyceraldehyde-3-phosphate dehydrogenase (NADP+) (phosphorylating)	1.2.1.13	Orthophosphate	NADPH	white
+malate dehydrogenase	1.1.1.37	(S)-Malate	H+	green
+malate dehydrogenase	1.1.1.37	(S)-Malate	NADH	green
+malate dehydrogenase	1.1.1.37	(S)-Malate	Oxaloacetate	green
+malate dehydrogenase	1.1.1.37	NAD+	H+	green
+malate dehydrogenase	1.1.1.37	NAD+	NADH	green
+malate dehydrogenase	1.1.1.37	NAD+	Oxaloacetate	green
+malate dehydrogenase (NADP+)	1.1.1.82	(S)-Malate	H+	white
+malate dehydrogenase (NADP+)	1.1.1.82	(S)-Malate	NADPH	white
+malate dehydrogenase (NADP+)	1.1.1.82	(S)-Malate	Oxaloacetate	white
+malate dehydrogenase (NADP+)	1.1.1.82	H+	(S)-Malate	white
+malate dehydrogenase (NADP+)	1.1.1.82	H+	NADP+	white
+malate dehydrogenase (NADP+)	1.1.1.82	NADP+	H+	white
+malate dehydrogenase (NADP+)	1.1.1.82	NADP+	NADPH	white
+malate dehydrogenase (NADP+)	1.1.1.82	NADP+	Oxaloacetate	white
+malate dehydrogenase (NADP+)	1.1.1.82	NADPH	(S)-Malate	white
+malate dehydrogenase (NADP+)	1.1.1.82	NADPH	NADP+	white
+malate dehydrogenase (NADP+)	1.1.1.82	Oxaloacetate	(S)-Malate	white
+malate dehydrogenase (NADP+)	1.1.1.82	Oxaloacetate	NADP+	white
+malate dehydrogenase (decarboxylating)	1.1.1.39	(S)-Malate	CO2	white
+malate dehydrogenase (decarboxylating)	1.1.1.39	(S)-Malate	H+	white
+malate dehydrogenase (decarboxylating)	1.1.1.39	(S)-Malate	NADH	white
+malate dehydrogenase (decarboxylating)	1.1.1.39	(S)-Malate	Pyruvate	white
+malate dehydrogenase (decarboxylating)	1.1.1.39	CO2	(S)-Malate	white
+malate dehydrogenase (decarboxylating)	1.1.1.39	CO2	NAD+	white
+malate dehydrogenase (decarboxylating)	1.1.1.39	H+	(S)-Malate	white
+malate dehydrogenase (decarboxylating)	1.1.1.39	H+	NAD+	white
+malate dehydrogenase (decarboxylating)	1.1.1.39	NAD+	CO2	white
+malate dehydrogenase (decarboxylating)	1.1.1.39	NAD+	H+	white
+malate dehydrogenase (decarboxylating)	1.1.1.39	NAD+	NADH	white
+malate dehydrogenase (decarboxylating)	1.1.1.39	NAD+	Pyruvate	white
+malate dehydrogenase (decarboxylating)	1.1.1.39	NADH	(S)-Malate	white
+malate dehydrogenase (decarboxylating)	1.1.1.39	NADH	NAD+	white
+malate dehydrogenase (decarboxylating)	1.1.1.39	Pyruvate	(S)-Malate	white
+malate dehydrogenase (decarboxylating)	1.1.1.39	Pyruvate	NAD+	white
+malate dehydrogenase (oxaloacetate-decarboxylating)(NADP+)	1.1.1.40	(S)-Malate	CO2	white
+malate dehydrogenase (oxaloacetate-decarboxylating)(NADP+)	1.1.1.40	(S)-Malate	H+	white
+malate dehydrogenase (oxaloacetate-decarboxylating)(NADP+)	1.1.1.40	(S)-Malate	NADPH	white
+malate dehydrogenase (oxaloacetate-decarboxylating)(NADP+)	1.1.1.40	(S)-Malate	Pyruvate	white
+malate dehydrogenase (oxaloacetate-decarboxylating)(NADP+)	1.1.1.40	CO2	(S)-Malate	white
+malate dehydrogenase (oxaloacetate-decarboxylating)(NADP+)	1.1.1.40	CO2	NADP+	white
+malate dehydrogenase (oxaloacetate-decarboxylating)(NADP+)	1.1.1.40	H+	(S)-Malate	white
+malate dehydrogenase (oxaloacetate-decarboxylating)(NADP+)	1.1.1.40	H+	NADP+	white
+malate dehydrogenase (oxaloacetate-decarboxylating)(NADP+)	1.1.1.40	NADP+	CO2	white
+malate dehydrogenase (oxaloacetate-decarboxylating)(NADP+)	1.1.1.40	NADP+	H+	white
+malate dehydrogenase (oxaloacetate-decarboxylating)(NADP+)	1.1.1.40	NADP+	NADPH	white
+malate dehydrogenase (oxaloacetate-decarboxylating)(NADP+)	1.1.1.40	NADP+	Pyruvate	white
+malate dehydrogenase (oxaloacetate-decarboxylating)(NADP+)	1.1.1.40	NADPH	(S)-Malate	white
+malate dehydrogenase (oxaloacetate-decarboxylating)(NADP+)	1.1.1.40	NADPH	NADP+	white
+malate dehydrogenase (oxaloacetate-decarboxylating)(NADP+)	1.1.1.40	Pyruvate	(S)-Malate	white
+malate dehydrogenase (oxaloacetate-decarboxylating)(NADP+)	1.1.1.40	Pyruvate	NADP+	white
+phosphoenolpyruvate carboxykinase (ATP)	4.1.1.49	ADP	ATP	white
+phosphoenolpyruvate carboxykinase (ATP)	4.1.1.49	ADP	Oxaloacetate	white
+phosphoenolpyruvate carboxykinase (ATP)	4.1.1.49	ATP	ADP	white
+phosphoenolpyruvate carboxykinase (ATP)	4.1.1.49	ATP	CO2	white
+phosphoenolpyruvate carboxykinase (ATP)	4.1.1.49	ATP	Phosphoenolpyruvate	white
+phosphoenolpyruvate carboxykinase (ATP)	4.1.1.49	CO2	ATP	white
+phosphoenolpyruvate carboxykinase (ATP)	4.1.1.49	CO2	Oxaloacetate	white
+phosphoenolpyruvate carboxykinase (ATP)	4.1.1.49	Oxaloacetate	ADP	white
+phosphoenolpyruvate carboxykinase (ATP)	4.1.1.49	Oxaloacetate	CO2	white
+phosphoenolpyruvate carboxykinase (ATP)	4.1.1.49	Oxaloacetate	Phosphoenolpyruvate	white
+phosphoenolpyruvate carboxykinase (ATP)	4.1.1.49	Phosphoenolpyruvate	ATP	white
+phosphoenolpyruvate carboxykinase (ATP)	4.1.1.49	Phosphoenolpyruvate	Oxaloacetate	white
+phosphoenolpyruvate carboxylase	4.1.1.31	Orthophosphate	CO2	green
+phosphoenolpyruvate carboxylase	4.1.1.31	Orthophosphate	H2O	green
+phosphoenolpyruvate carboxylase	4.1.1.31	Orthophosphate	Phosphoenolpyruvate	green
+phosphoenolpyruvate carboxylase	4.1.1.31	Oxaloacetate	CO2	green
+phosphoenolpyruvate carboxylase	4.1.1.31	Oxaloacetate	H2O	green
+phosphoenolpyruvate carboxylase	4.1.1.31	Oxaloacetate	Phosphoenolpyruvate	green
+phosphoglycerate kinase	2.7.2.3	3-Phospho-D-glycerate	3-Phospho-D-glyceroyl phosphate	green
+phosphoglycerate kinase	2.7.2.3	3-Phospho-D-glycerate	ADP	green
+phosphoglycerate kinase	2.7.2.3	ATP	3-Phospho-D-glyceroyl phosphate	green
+phosphoglycerate kinase	2.7.2.3	ATP	ADP	green
+phosphoribulokinase	2.7.1.19	ADP	ATP	white
+phosphoribulokinase	2.7.1.19	ADP	D-Ribulose 5-phosphate	white
+phosphoribulokinase	2.7.1.19	ATP	ADP	white
+phosphoribulokinase	2.7.1.19	ATP	D-Ribulose 1,5-bisphosphate	white
+phosphoribulokinase	2.7.1.19	D-Ribulose 1,5-bisphosphate	ATP	white
+phosphoribulokinase	2.7.1.19	D-Ribulose 1,5-bisphosphate	D-Ribulose 5-phosphate	white
+phosphoribulokinase	2.7.1.19	D-Ribulose 5-phosphate	ADP	white
+phosphoribulokinase	2.7.1.19	D-Ribulose 5-phosphate	D-Ribulose 1,5-bisphosphate	white
+pyruvate, orthophosphate dikinase	2.7.9.1	AMP	ATP	white
+pyruvate, orthophosphate dikinase	2.7.9.1	AMP	Orthophosphate	white
+pyruvate, orthophosphate dikinase	2.7.9.1	AMP	Pyruvate	white
+pyruvate, orthophosphate dikinase	2.7.9.1	ATP	AMP	white
+pyruvate, orthophosphate dikinase	2.7.9.1	ATP	Diphosphate	white
+pyruvate, orthophosphate dikinase	2.7.9.1	ATP	Phosphoenolpyruvate	white
+pyruvate, orthophosphate dikinase	2.7.9.1	Diphosphate	ATP	white
+pyruvate, orthophosphate dikinase	2.7.9.1	Diphosphate	Orthophosphate	white
+pyruvate, orthophosphate dikinase	2.7.9.1	Diphosphate	Pyruvate	white
+pyruvate, orthophosphate dikinase	2.7.9.1	Orthophosphate	AMP	white
+pyruvate, orthophosphate dikinase	2.7.9.1	Orthophosphate	Diphosphate	white
+pyruvate, orthophosphate dikinase	2.7.9.1	Orthophosphate	Phosphoenolpyruvate	white
+pyruvate, orthophosphate dikinase	2.7.9.1	Phosphoenolpyruvate	ATP	white
+pyruvate, orthophosphate dikinase	2.7.9.1	Phosphoenolpyruvate	Orthophosphate	white
+pyruvate, orthophosphate dikinase	2.7.9.1	Phosphoenolpyruvate	Pyruvate	white
+pyruvate, orthophosphate dikinase	2.7.9.1	Pyruvate	AMP	white
+pyruvate, orthophosphate dikinase	2.7.9.1	Pyruvate	Diphosphate	white
+pyruvate, orthophosphate dikinase	2.7.9.1	Pyruvate	Phosphoenolpyruvate	white
+ribose 5-phosphate isomerase A	5.3.1.6	D-Ribose 5-phosphate	D-Ribulose 5-phosphate	green
+ribose 5-phosphate isomerase B	5.3.1.6	D-Ribose 5-phosphate	D-Ribulose 5-phosphate	green
+ribulose-bisphosphate carboxylase large chain	4.1.1.39	3-Phospho-D-glycerate	CO2	white
+ribulose-bisphosphate carboxylase large chain	4.1.1.39	3-Phospho-D-glycerate	D-Ribulose 1,5-bisphosphate	white
+ribulose-bisphosphate carboxylase large chain	4.1.1.39	3-Phospho-D-glycerate	H2O	white
+ribulose-bisphosphate carboxylase large chain	4.1.1.39	CO2	3-Phospho-D-glycerate	white
+ribulose-bisphosphate carboxylase large chain	4.1.1.39	D-Ribulose 1,5-bisphosphate	3-Phospho-D-glycerate	white
+ribulose-bisphosphate carboxylase large chain	4.1.1.39	H2O	3-Phospho-D-glycerate	white
+ribulose-bisphosphate carboxylase small chain	4.1.1.39	3-Phospho-D-glycerate	CO2	white
+ribulose-bisphosphate carboxylase small chain	4.1.1.39	3-Phospho-D-glycerate	D-Ribulose 1,5-bisphosphate	white
+ribulose-bisphosphate carboxylase small chain	4.1.1.39	3-Phospho-D-glycerate	H2O	white
+ribulose-bisphosphate carboxylase small chain	4.1.1.39	CO2	3-Phospho-D-glycerate	white
+ribulose-bisphosphate carboxylase small chain	4.1.1.39	D-Ribulose 1,5-bisphosphate	3-Phospho-D-glycerate	white
+ribulose-bisphosphate carboxylase small chain	4.1.1.39	H2O	3-Phospho-D-glycerate	white
+ribulose-phosphate 3-epimerase	5.1.3.1	D-Ribulose 5-phosphate	D-Xylulose 5-phosphate	green
+sedoheptulose-bisphosphatase	3.1.3.37	H2O	Orthophosphate	white
+sedoheptulose-bisphosphatase	3.1.3.37	H2O	Sedoheptulose 7-phosphate	white
+sedoheptulose-bisphosphatase	3.1.3.37	Orthophosphate	H2O	white
+sedoheptulose-bisphosphatase	3.1.3.37	Orthophosphate	Sedoheptulose 1,7-bisphosphate	white
+sedoheptulose-bisphosphatase	3.1.3.37	Sedoheptulose 1,7-bisphosphate	Orthophosphate	white
+sedoheptulose-bisphosphatase	3.1.3.37	Sedoheptulose 1,7-bisphosphate	Sedoheptulose 7-phosphate	white
+sedoheptulose-bisphosphatase	3.1.3.37	Sedoheptulose 7-phosphate	H2O	white
+sedoheptulose-bisphosphatase	3.1.3.37	Sedoheptulose 7-phosphate	Sedoheptulose 1,7-bisphosphate	white
+transaldolase	2.2.1.2	D-Glyceraldehyde 3-phosphate	D-Erythrose 4-phosphate	green
+transaldolase	2.2.1.2	D-Glyceraldehyde 3-phosphate	D-Fructose 6-phosphate	green
+transaldolase	2.2.1.2	Sedoheptulose 7-phosphate	D-Erythrose 4-phosphate	green
+transaldolase	2.2.1.2	Sedoheptulose 7-phosphate	D-Fructose 6-phosphate	green
+transketolase	2.2.1.1	D-Fructose 6-phosphate	D-Erythrose 4-phosphate	green
+transketolase	2.2.1.1	D-Fructose 6-phosphate	D-Xylulose 5-phosphate	green
+transketolase	2.2.1.1	D-Glyceraldehyde 3-phosphate	D-Erythrose 4-phosphate	green
+transketolase	2.2.1.1	D-Glyceraldehyde 3-phosphate	D-Ribose 5-phosphate	green
+transketolase	2.2.1.1	D-Glyceraldehyde 3-phosphate	D-Xylulose 5-phosphate	green
+transketolase	2.2.1.1	Sedoheptulose 7-phosphate	D-Ribose 5-phosphate	green
+transketolase	2.2.1.1	Sedoheptulose 7-phosphate	D-Xylulose 5-phosphate	green
+triosephosphate isomerase (TIM)	5.3.1.1	D-Glyceraldehyde 3-phosphate	Glycerone phosphate	green

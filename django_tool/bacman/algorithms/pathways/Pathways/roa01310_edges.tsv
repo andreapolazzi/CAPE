@@ -1,0 +1,769 @@
+enzyme_name	EC	source	target	color
+assimilatory nitrate reductase catalytic subunit	1.7.99.-	Acceptor	Nitrate	white
+assimilatory nitrate reductase catalytic subunit	1.7.99.-	Acceptor	Reduced acceptor	white
+assimilatory nitrate reductase catalytic subunit	1.7.99.-	H2O	Nitrate	white
+assimilatory nitrate reductase catalytic subunit	1.7.99.-	H2O	Reduced acceptor	white
+assimilatory nitrate reductase catalytic subunit	1.7.99.-	Nitrate	Acceptor	white
+assimilatory nitrate reductase catalytic subunit	1.7.99.-	Nitrate	H2O	white
+assimilatory nitrate reductase catalytic subunit	1.7.99.-	Nitrate	Nitrite	white
+assimilatory nitrate reductase catalytic subunit	1.7.99.-	Nitrite	Nitrate	white
+assimilatory nitrate reductase catalytic subunit	1.7.99.-	Nitrite	Reduced acceptor	white
+assimilatory nitrate reductase catalytic subunit	1.7.99.-	Reduced acceptor	Acceptor	white
+assimilatory nitrate reductase catalytic subunit	1.7.99.-	Reduced acceptor	H2O	white
+assimilatory nitrate reductase catalytic subunit	1.7.99.-	Reduced acceptor	Nitrite	white
+assimilatory nitrate reductase electron transfer subunit	1.7.99.-	Acceptor	Nitrate	white
+assimilatory nitrate reductase electron transfer subunit	1.7.99.-	Acceptor	Reduced acceptor	white
+assimilatory nitrate reductase electron transfer subunit	1.7.99.-	H2O	Nitrate	white
+assimilatory nitrate reductase electron transfer subunit	1.7.99.-	H2O	Reduced acceptor	white
+assimilatory nitrate reductase electron transfer subunit	1.7.99.-	Nitrate	Acceptor	white
+assimilatory nitrate reductase electron transfer subunit	1.7.99.-	Nitrate	H2O	white
+assimilatory nitrate reductase electron transfer subunit	1.7.99.-	Nitrate	Nitrite	white
+assimilatory nitrate reductase electron transfer subunit	1.7.99.-	Nitrite	Nitrate	white
+assimilatory nitrate reductase electron transfer subunit	1.7.99.-	Nitrite	Reduced acceptor	white
+assimilatory nitrate reductase electron transfer subunit	1.7.99.-	Reduced acceptor	Acceptor	white
+assimilatory nitrate reductase electron transfer subunit	1.7.99.-	Reduced acceptor	H2O	white
+assimilatory nitrate reductase electron transfer subunit	1.7.99.-	Reduced acceptor	Nitrite	white
+ferredoxin-nitrate reductase	1.7.7.2	H2O	Nitrate	white
+ferredoxin-nitrate reductase	1.7.7.2	H2O	Reduced ferredoxin	white
+ferredoxin-nitrate reductase	1.7.7.2	Nitrate	H2O	white
+ferredoxin-nitrate reductase	1.7.7.2	Nitrate	Nitrite	white
+ferredoxin-nitrate reductase	1.7.7.2	Nitrate	Oxidized ferredoxin	white
+ferredoxin-nitrate reductase	1.7.7.2	Nitrite	Nitrate	white
+ferredoxin-nitrate reductase	1.7.7.2	Nitrite	Reduced ferredoxin	white
+ferredoxin-nitrate reductase	1.7.7.2	Oxidized ferredoxin	Nitrate	white
+ferredoxin-nitrate reductase	1.7.7.2	Oxidized ferredoxin	Reduced ferredoxin	white
+ferredoxin-nitrate reductase	1.7.7.2	Reduced ferredoxin	H2O	white
+ferredoxin-nitrate reductase	1.7.7.2	Reduced ferredoxin	Nitrite	white
+ferredoxin-nitrate reductase	1.7.7.2	Reduced ferredoxin	Oxidized ferredoxin	white
+hydrazine dehydrogenase	1.7.2.8	Ferricytochrome c	Ferrocytochrome c	white
+hydrazine dehydrogenase	1.7.2.8	Ferricytochrome c	Nitrogen	white
+hydrazine dehydrogenase	1.7.2.8	Ferrocytochrome c	Ferricytochrome c	white
+hydrazine dehydrogenase	1.7.2.8	Ferrocytochrome c	Hydrazine	white
+hydrazine dehydrogenase	1.7.2.8	Hydrazine	Ferrocytochrome c	white
+hydrazine dehydrogenase	1.7.2.8	Hydrazine	Nitrogen	white
+hydrazine dehydrogenase	1.7.2.8	Nitrogen	Ferricytochrome c	white
+hydrazine dehydrogenase	1.7.2.8	Nitrogen	Hydrazine	white
+hydrazine synthase subunit	1.7.2.7	Ammonia	Ferricytochrome c	white
+hydrazine synthase subunit	1.7.2.7	Ammonia	H2O	white
+hydrazine synthase subunit	1.7.2.7	Ammonia	Hydrazine	white
+hydrazine synthase subunit	1.7.2.7	Ferricytochrome c	Ammonia	white
+hydrazine synthase subunit	1.7.2.7	Ferricytochrome c	Ferrocytochrome c	white
+hydrazine synthase subunit	1.7.2.7	Ferricytochrome c	Nitric oxide	white
+hydrazine synthase subunit	1.7.2.7	Ferrocytochrome c	Ferricytochrome c	white
+hydrazine synthase subunit	1.7.2.7	Ferrocytochrome c	H2O	white
+hydrazine synthase subunit	1.7.2.7	Ferrocytochrome c	Hydrazine	white
+hydrazine synthase subunit	1.7.2.7	H2O	Ammonia	white
+hydrazine synthase subunit	1.7.2.7	H2O	Ferrocytochrome c	white
+hydrazine synthase subunit	1.7.2.7	H2O	Nitric oxide	white
+hydrazine synthase subunit	1.7.2.7	Hydrazine	Ammonia	white
+hydrazine synthase subunit	1.7.2.7	Hydrazine	Ferrocytochrome c	white
+hydrazine synthase subunit	1.7.2.7	Hydrazine	Nitric oxide	white
+hydrazine synthase subunit	1.7.2.7	Nitric oxide	Ferricytochrome c	white
+hydrazine synthase subunit	1.7.2.7	Nitric oxide	H2O	white
+hydrazine synthase subunit	1.7.2.7	Nitric oxide	Hydrazine	white
+hydroxylamine dehydrogenase	1.7.2.6	Ferricytochrome c	Ferrocytochrome c	white
+hydroxylamine dehydrogenase	1.7.2.6	Ferricytochrome c	H+	white
+hydroxylamine dehydrogenase	1.7.2.6	Ferricytochrome c	Nitrite	white
+hydroxylamine dehydrogenase	1.7.2.6	Ferrocytochrome c	Ferricytochrome c	white
+hydroxylamine dehydrogenase	1.7.2.6	Ferrocytochrome c	H2O	white
+hydroxylamine dehydrogenase	1.7.2.6	Ferrocytochrome c	Hydroxylamine	white
+hydroxylamine dehydrogenase	1.7.2.6	H+	Ferricytochrome c	white
+hydroxylamine dehydrogenase	1.7.2.6	H+	H2O	white
+hydroxylamine dehydrogenase	1.7.2.6	H+	Hydroxylamine	white
+hydroxylamine dehydrogenase	1.7.2.6	H2O	Ferrocytochrome c	white
+hydroxylamine dehydrogenase	1.7.2.6	H2O	H+	white
+hydroxylamine dehydrogenase	1.7.2.6	H2O	Nitrite	white
+hydroxylamine dehydrogenase	1.7.2.6	Hydroxylamine	Ferrocytochrome c	white
+hydroxylamine dehydrogenase	1.7.2.6	Hydroxylamine	H+	white
+hydroxylamine dehydrogenase	1.7.2.6	Hydroxylamine	Nitrite	white
+hydroxylamine dehydrogenase	1.7.2.6	Nitrite	Ferricytochrome c	white
+hydroxylamine dehydrogenase	1.7.2.6	Nitrite	H2O	white
+hydroxylamine dehydrogenase	1.7.2.6	Nitrite	Hydroxylamine	white
+methane/ammonia monooxygenase subunit A	1.14.18.3	Ammonia	H2O	white
+methane/ammonia monooxygenase subunit A	1.14.18.3	Ammonia	Hydroxylamine	white
+methane/ammonia monooxygenase subunit A	1.14.18.3	Ammonia	Ubiquinone	white
+methane/ammonia monooxygenase subunit A	1.14.18.3	H2O	Ammonia	white
+methane/ammonia monooxygenase subunit A	1.14.18.3	H2O	Oxygen	white
+methane/ammonia monooxygenase subunit A	1.14.18.3	H2O	Ubiquinol	white
+methane/ammonia monooxygenase subunit A	1.14.18.3	Hydroxylamine	Ammonia	white
+methane/ammonia monooxygenase subunit A	1.14.18.3	Hydroxylamine	Oxygen	white
+methane/ammonia monooxygenase subunit A	1.14.18.3	Hydroxylamine	Ubiquinol	white
+methane/ammonia monooxygenase subunit A	1.14.18.3	Oxygen	H2O	white
+methane/ammonia monooxygenase subunit A	1.14.18.3	Oxygen	Hydroxylamine	white
+methane/ammonia monooxygenase subunit A	1.14.18.3	Oxygen	Ubiquinone	white
+methane/ammonia monooxygenase subunit A	1.14.18.3	Ubiquinol	H2O	white
+methane/ammonia monooxygenase subunit A	1.14.18.3	Ubiquinol	Hydroxylamine	white
+methane/ammonia monooxygenase subunit A	1.14.18.3	Ubiquinol	Ubiquinone	white
+methane/ammonia monooxygenase subunit A	1.14.18.3	Ubiquinone	Ammonia	white
+methane/ammonia monooxygenase subunit A	1.14.18.3	Ubiquinone	Oxygen	white
+methane/ammonia monooxygenase subunit A	1.14.18.3	Ubiquinone	Ubiquinol	white
+methane/ammonia monooxygenase subunit B	1.14.18.3	Ammonia	H2O	white
+methane/ammonia monooxygenase subunit B	1.14.18.3	Ammonia	Hydroxylamine	white
+methane/ammonia monooxygenase subunit B	1.14.18.3	Ammonia	Ubiquinone	white
+methane/ammonia monooxygenase subunit B	1.14.18.3	H2O	Ammonia	white
+methane/ammonia monooxygenase subunit B	1.14.18.3	H2O	Oxygen	white
+methane/ammonia monooxygenase subunit B	1.14.18.3	H2O	Ubiquinol	white
+methane/ammonia monooxygenase subunit B	1.14.18.3	Hydroxylamine	Ammonia	white
+methane/ammonia monooxygenase subunit B	1.14.18.3	Hydroxylamine	Oxygen	white
+methane/ammonia monooxygenase subunit B	1.14.18.3	Hydroxylamine	Ubiquinol	white
+methane/ammonia monooxygenase subunit B	1.14.18.3	Oxygen	H2O	white
+methane/ammonia monooxygenase subunit B	1.14.18.3	Oxygen	Hydroxylamine	white
+methane/ammonia monooxygenase subunit B	1.14.18.3	Oxygen	Ubiquinone	white
+methane/ammonia monooxygenase subunit B	1.14.18.3	Ubiquinol	H2O	white
+methane/ammonia monooxygenase subunit B	1.14.18.3	Ubiquinol	Hydroxylamine	white
+methane/ammonia monooxygenase subunit B	1.14.18.3	Ubiquinol	Ubiquinone	white
+methane/ammonia monooxygenase subunit B	1.14.18.3	Ubiquinone	Ammonia	white
+methane/ammonia monooxygenase subunit B	1.14.18.3	Ubiquinone	Oxygen	white
+methane/ammonia monooxygenase subunit B	1.14.18.3	Ubiquinone	Ubiquinol	white
+methane/ammonia monooxygenase subunit C	1.14.18.3	Ammonia	H2O	white
+methane/ammonia monooxygenase subunit C	1.14.18.3	Ammonia	Hydroxylamine	white
+methane/ammonia monooxygenase subunit C	1.14.18.3	Ammonia	Ubiquinone	white
+methane/ammonia monooxygenase subunit C	1.14.18.3	H2O	Ammonia	white
+methane/ammonia monooxygenase subunit C	1.14.18.3	H2O	Oxygen	white
+methane/ammonia monooxygenase subunit C	1.14.18.3	H2O	Ubiquinol	white
+methane/ammonia monooxygenase subunit C	1.14.18.3	Hydroxylamine	Ammonia	white
+methane/ammonia monooxygenase subunit C	1.14.18.3	Hydroxylamine	Oxygen	white
+methane/ammonia monooxygenase subunit C	1.14.18.3	Hydroxylamine	Ubiquinol	white
+methane/ammonia monooxygenase subunit C	1.14.18.3	Oxygen	H2O	white
+methane/ammonia monooxygenase subunit C	1.14.18.3	Oxygen	Hydroxylamine	white
+methane/ammonia monooxygenase subunit C	1.14.18.3	Oxygen	Ubiquinone	white
+methane/ammonia monooxygenase subunit C	1.14.18.3	Ubiquinol	H2O	white
+methane/ammonia monooxygenase subunit C	1.14.18.3	Ubiquinol	Hydroxylamine	white
+methane/ammonia monooxygenase subunit C	1.14.18.3	Ubiquinol	Ubiquinone	white
+methane/ammonia monooxygenase subunit C	1.14.18.3	Ubiquinone	Ammonia	white
+methane/ammonia monooxygenase subunit C	1.14.18.3	Ubiquinone	Oxygen	white
+methane/ammonia monooxygenase subunit C	1.14.18.3	Ubiquinone	Ubiquinol	white
+nitrate reductase (NAD(P)H)	1.7.1.1	H+	H2O	white
+nitrate reductase (NAD(P)H)	1.7.1.1	H+	NAD+	white
+nitrate reductase (NAD(P)H)	1.7.1.1	H+	Nitrite	white
+nitrate reductase (NAD(P)H)	1.7.1.1	H2O	H+	white
+nitrate reductase (NAD(P)H)	1.7.1.1	H2O	NADH	white
+nitrate reductase (NAD(P)H)	1.7.1.1	H2O	Nitrate	white
+nitrate reductase (NAD(P)H)	1.7.1.1	NAD+	H+	white
+nitrate reductase (NAD(P)H)	1.7.1.1	NAD+	NADH	white
+nitrate reductase (NAD(P)H)	1.7.1.1	NAD+	Nitrate	white
+nitrate reductase (NAD(P)H)	1.7.1.1	NADH	H2O	white
+nitrate reductase (NAD(P)H)	1.7.1.1	NADH	NAD+	white
+nitrate reductase (NAD(P)H)	1.7.1.1	NADH	Nitrite	white
+nitrate reductase (NAD(P)H)	1.7.1.1	Nitrate	H2O	white
+nitrate reductase (NAD(P)H)	1.7.1.1	Nitrate	NAD+	white
+nitrate reductase (NAD(P)H)	1.7.1.1	Nitrate	Nitrite	white
+nitrate reductase (NAD(P)H)	1.7.1.1	Nitrite	H+	white
+nitrate reductase (NAD(P)H)	1.7.1.1	Nitrite	NADH	white
+nitrate reductase (NAD(P)H)	1.7.1.1	Nitrite	Nitrate	white
+nitrate reductase (cytochrome)	1.9.6.1	Acceptor	Nitrate	white
+nitrate reductase (cytochrome)	1.9.6.1	Acceptor	Reduced acceptor	white
+nitrate reductase (cytochrome)	1.9.6.1	H2O	Nitrate	white
+nitrate reductase (cytochrome)	1.9.6.1	H2O	Reduced acceptor	white
+nitrate reductase (cytochrome)	1.9.6.1	Nitrate	Acceptor	white
+nitrate reductase (cytochrome)	1.9.6.1	Nitrate	H2O	white
+nitrate reductase (cytochrome)	1.9.6.1	Nitrate	Nitrite	white
+nitrate reductase (cytochrome)	1.9.6.1	Nitrite	Nitrate	white
+nitrate reductase (cytochrome)	1.9.6.1	Nitrite	Reduced acceptor	white
+nitrate reductase (cytochrome)	1.9.6.1	Reduced acceptor	Acceptor	white
+nitrate reductase (cytochrome)	1.9.6.1	Reduced acceptor	H2O	white
+nitrate reductase (cytochrome)	1.9.6.1	Reduced acceptor	Nitrite	white
+nitrate reductase (cytochrome), electron transfer subunit	1.9.6.1	Acceptor	Nitrate	white
+nitrate reductase (cytochrome), electron transfer subunit	1.9.6.1	Acceptor	Reduced acceptor	white
+nitrate reductase (cytochrome), electron transfer subunit	1.9.6.1	H2O	Nitrate	white
+nitrate reductase (cytochrome), electron transfer subunit	1.9.6.1	H2O	Reduced acceptor	white
+nitrate reductase (cytochrome), electron transfer subunit	1.9.6.1	Nitrate	Acceptor	white
+nitrate reductase (cytochrome), electron transfer subunit	1.9.6.1	Nitrate	H2O	white
+nitrate reductase (cytochrome), electron transfer subunit	1.9.6.1	Nitrate	Nitrite	white
+nitrate reductase (cytochrome), electron transfer subunit	1.9.6.1	Nitrite	Nitrate	white
+nitrate reductase (cytochrome), electron transfer subunit	1.9.6.1	Nitrite	Reduced acceptor	white
+nitrate reductase (cytochrome), electron transfer subunit	1.9.6.1	Reduced acceptor	Acceptor	white
+nitrate reductase (cytochrome), electron transfer subunit	1.9.6.1	Reduced acceptor	H2O	white
+nitrate reductase (cytochrome), electron transfer subunit	1.9.6.1	Reduced acceptor	Nitrite	white
+nitrate reductase / nitrite oxidoreductase, alpha subunit	1.7.5.1	Acceptor	Nitrate	white
+nitrate reductase / nitrite oxidoreductase, alpha subunit	1.7.5.1	Acceptor	Reduced acceptor	white
+nitrate reductase / nitrite oxidoreductase, alpha subunit	1.7.5.1	H2O	Nitrate	white
+nitrate reductase / nitrite oxidoreductase, alpha subunit	1.7.5.1	H2O	Reduced acceptor	white
+nitrate reductase / nitrite oxidoreductase, alpha subunit	1.7.5.1	Nitrate	Acceptor	white
+nitrate reductase / nitrite oxidoreductase, alpha subunit	1.7.5.1	Nitrate	H2O	white
+nitrate reductase / nitrite oxidoreductase, alpha subunit	1.7.5.1	Nitrate	Nitrite	white
+nitrate reductase / nitrite oxidoreductase, alpha subunit	1.7.5.1	Nitrite	Nitrate	white
+nitrate reductase / nitrite oxidoreductase, alpha subunit	1.7.5.1	Nitrite	Reduced acceptor	white
+nitrate reductase / nitrite oxidoreductase, alpha subunit	1.7.5.1	Reduced acceptor	Acceptor	white
+nitrate reductase / nitrite oxidoreductase, alpha subunit	1.7.5.1	Reduced acceptor	H2O	white
+nitrate reductase / nitrite oxidoreductase, alpha subunit	1.7.5.1	Reduced acceptor	Nitrite	white
+nitrate reductase / nitrite oxidoreductase, beta subunit	1.7.5.1	Acceptor	Nitrate	white
+nitrate reductase / nitrite oxidoreductase, beta subunit	1.7.5.1	Acceptor	Reduced acceptor	white
+nitrate reductase / nitrite oxidoreductase, beta subunit	1.7.5.1	H2O	Nitrate	white
+nitrate reductase / nitrite oxidoreductase, beta subunit	1.7.5.1	H2O	Reduced acceptor	white
+nitrate reductase / nitrite oxidoreductase, beta subunit	1.7.5.1	Nitrate	Acceptor	white
+nitrate reductase / nitrite oxidoreductase, beta subunit	1.7.5.1	Nitrate	H2O	white
+nitrate reductase / nitrite oxidoreductase, beta subunit	1.7.5.1	Nitrate	Nitrite	white
+nitrate reductase / nitrite oxidoreductase, beta subunit	1.7.5.1	Nitrite	Nitrate	white
+nitrate reductase / nitrite oxidoreductase, beta subunit	1.7.5.1	Nitrite	Reduced acceptor	white
+nitrate reductase / nitrite oxidoreductase, beta subunit	1.7.5.1	Reduced acceptor	Acceptor	white
+nitrate reductase / nitrite oxidoreductase, beta subunit	1.7.5.1	Reduced acceptor	H2O	white
+nitrate reductase / nitrite oxidoreductase, beta subunit	1.7.5.1	Reduced acceptor	Nitrite	white
+nitrate reductase gamma subunit	1.7.5.1	Acceptor	Nitrate	white
+nitrate reductase gamma subunit	1.7.5.1	Acceptor	Reduced acceptor	white
+nitrate reductase gamma subunit	1.7.5.1	H2O	Nitrate	white
+nitrate reductase gamma subunit	1.7.5.1	H2O	Reduced acceptor	white
+nitrate reductase gamma subunit	1.7.5.1	Nitrate	Acceptor	white
+nitrate reductase gamma subunit	1.7.5.1	Nitrate	H2O	white
+nitrate reductase gamma subunit	1.7.5.1	Nitrate	Nitrite	white
+nitrate reductase gamma subunit	1.7.5.1	Nitrite	Nitrate	white
+nitrate reductase gamma subunit	1.7.5.1	Nitrite	Reduced acceptor	white
+nitrate reductase gamma subunit	1.7.5.1	Reduced acceptor	Acceptor	white
+nitrate reductase gamma subunit	1.7.5.1	Reduced acceptor	H2O	white
+nitrate reductase gamma subunit	1.7.5.1	Reduced acceptor	Nitrite	white
+nitric oxide reductase subunit B	1.7.2.5	Ferricytochrome c	Ferrocytochrome c	white
+nitric oxide reductase subunit B	1.7.2.5	Ferricytochrome c	H+	white
+nitric oxide reductase subunit B	1.7.2.5	Ferricytochrome c	Nitric oxide	white
+nitric oxide reductase subunit B	1.7.2.5	Ferrocytochrome c	Ferricytochrome c	white
+nitric oxide reductase subunit B	1.7.2.5	Ferrocytochrome c	H2O	white
+nitric oxide reductase subunit B	1.7.2.5	Ferrocytochrome c	Nitrous oxide	white
+nitric oxide reductase subunit B	1.7.2.5	H+	Ferricytochrome c	white
+nitric oxide reductase subunit B	1.7.2.5	H+	H2O	white
+nitric oxide reductase subunit B	1.7.2.5	H+	Nitrous oxide	white
+nitric oxide reductase subunit B	1.7.2.5	H2O	Ferrocytochrome c	white
+nitric oxide reductase subunit B	1.7.2.5	H2O	H+	white
+nitric oxide reductase subunit B	1.7.2.5	H2O	Nitric oxide	white
+nitric oxide reductase subunit B	1.7.2.5	Nitric oxide	Ferricytochrome c	white
+nitric oxide reductase subunit B	1.7.2.5	Nitric oxide	H2O	white
+nitric oxide reductase subunit B	1.7.2.5	Nitric oxide	Nitrous oxide	white
+nitric oxide reductase subunit B	1.7.2.5	Nitrous oxide	Ferrocytochrome c	white
+nitric oxide reductase subunit B	1.7.2.5	Nitrous oxide	H+	white
+nitric oxide reductase subunit B	1.7.2.5	Nitrous oxide	Nitric oxide	white
+nitric oxide reductase subunit C	1.7.2.5	Ferricytochrome c	Ferrocytochrome c	white
+nitric oxide reductase subunit C	1.7.2.5	Ferricytochrome c	H+	white
+nitric oxide reductase subunit C	1.7.2.5	Ferricytochrome c	Nitric oxide	white
+nitric oxide reductase subunit C	1.7.2.5	Ferrocytochrome c	Ferricytochrome c	white
+nitric oxide reductase subunit C	1.7.2.5	Ferrocytochrome c	H2O	white
+nitric oxide reductase subunit C	1.7.2.5	Ferrocytochrome c	Nitrous oxide	white
+nitric oxide reductase subunit C	1.7.2.5	H+	Ferricytochrome c	white
+nitric oxide reductase subunit C	1.7.2.5	H+	H2O	white
+nitric oxide reductase subunit C	1.7.2.5	H+	Nitrous oxide	white
+nitric oxide reductase subunit C	1.7.2.5	H2O	Ferrocytochrome c	white
+nitric oxide reductase subunit C	1.7.2.5	H2O	H+	white
+nitric oxide reductase subunit C	1.7.2.5	H2O	Nitric oxide	white
+nitric oxide reductase subunit C	1.7.2.5	Nitric oxide	Ferricytochrome c	white
+nitric oxide reductase subunit C	1.7.2.5	Nitric oxide	H2O	white
+nitric oxide reductase subunit C	1.7.2.5	Nitric oxide	Nitrous oxide	white
+nitric oxide reductase subunit C	1.7.2.5	Nitrous oxide	Ferrocytochrome c	white
+nitric oxide reductase subunit C	1.7.2.5	Nitrous oxide	H+	white
+nitric oxide reductase subunit C	1.7.2.5	Nitrous oxide	Nitric oxide	white
+nitrite reductase (NADH) large subunit	1.7.1.15	Ammonia	Ferrocytochrome c	green
+nitrite reductase (NADH) large subunit	1.7.1.15	Ammonia	H+	green
+nitrite reductase (NADH) large subunit	1.7.1.15	Ammonia	NADH	green
+nitrite reductase (NADH) large subunit	1.7.1.15	Ammonia	Nitrite	green
+nitrite reductase (NADH) large subunit	1.7.1.15	Ferricytochrome c	Ferrocytochrome c	green
+nitrite reductase (NADH) large subunit	1.7.1.15	Ferricytochrome c	H+	green
+nitrite reductase (NADH) large subunit	1.7.1.15	Ferricytochrome c	Nitrite	green
+nitrite reductase (NADH) large subunit	1.7.1.15	H2O	Ferrocytochrome c	green
+nitrite reductase (NADH) large subunit	1.7.1.15	H2O	H+	green
+nitrite reductase (NADH) large subunit	1.7.1.15	H2O	NADH	green
+nitrite reductase (NADH) large subunit	1.7.1.15	H2O	Nitrite	green
+nitrite reductase (NADH) large subunit	1.7.1.15	NAD+	H+	green
+nitrite reductase (NADH) large subunit	1.7.1.15	NAD+	NADH	green
+nitrite reductase (NADH) large subunit	1.7.1.15	NAD+	Nitrite	green
+nitrite reductase (NADH) small subunit	1.7.1.15	Ammonia	Ferrocytochrome c	green
+nitrite reductase (NADH) small subunit	1.7.1.15	Ammonia	H+	green
+nitrite reductase (NADH) small subunit	1.7.1.15	Ammonia	NADH	green
+nitrite reductase (NADH) small subunit	1.7.1.15	Ammonia	Nitrite	green
+nitrite reductase (NADH) small subunit	1.7.1.15	Ferricytochrome c	Ferrocytochrome c	green
+nitrite reductase (NADH) small subunit	1.7.1.15	Ferricytochrome c	H+	green
+nitrite reductase (NADH) small subunit	1.7.1.15	Ferricytochrome c	Nitrite	green
+nitrite reductase (NADH) small subunit	1.7.1.15	H2O	Ferrocytochrome c	green
+nitrite reductase (NADH) small subunit	1.7.1.15	H2O	H+	green
+nitrite reductase (NADH) small subunit	1.7.1.15	H2O	NADH	green
+nitrite reductase (NADH) small subunit	1.7.1.15	H2O	Nitrite	green
+nitrite reductase (NADH) small subunit	1.7.1.15	NAD+	H+	green
+nitrite reductase (NADH) small subunit	1.7.1.15	NAD+	NADH	green
+nitrite reductase (NADH) small subunit	1.7.1.15	NAD+	Nitrite	green
+nitrite reductase (NO-forming)	1.7.2.1	Ferricytochrome c	Ferrocytochrome c	white
+nitrite reductase (NO-forming)	1.7.2.1	Ferricytochrome c	H+	white
+nitrite reductase (NO-forming)	1.7.2.1	Ferricytochrome c	Nitrite	white
+nitrite reductase (NO-forming)	1.7.2.1	Ferrocytochrome c	Ferricytochrome c	white
+nitrite reductase (NO-forming)	1.7.2.1	Ferrocytochrome c	H2O	white
+nitrite reductase (NO-forming)	1.7.2.1	Ferrocytochrome c	Nitric oxide	white
+nitrite reductase (NO-forming)	1.7.2.1	H+	Ferricytochrome c	white
+nitrite reductase (NO-forming)	1.7.2.1	H+	H2O	white
+nitrite reductase (NO-forming)	1.7.2.1	H+	Nitric oxide	white
+nitrite reductase (NO-forming)	1.7.2.1	H2O	Ferrocytochrome c	white
+nitrite reductase (NO-forming)	1.7.2.1	H2O	H+	white
+nitrite reductase (NO-forming)	1.7.2.1	H2O	Nitrite	white
+nitrite reductase (NO-forming)	1.7.2.1	Nitric oxide	Ferrocytochrome c	white
+nitrite reductase (NO-forming)	1.7.2.1	Nitric oxide	H+	white
+nitrite reductase (NO-forming)	1.7.2.1	Nitric oxide	Nitrite	white
+nitrite reductase (NO-forming)	1.7.2.1	Nitrite	Ferricytochrome c	white
+nitrite reductase (NO-forming)	1.7.2.1	Nitrite	H2O	white
+nitrite reductase (NO-forming)	1.7.2.1	Nitrite	Nitric oxide	white
+nitrite reductase (NO-forming) / hydroxylamine reductase	1.7.2.1	Ammonia	H+	white
+nitrite reductase (NO-forming) / hydroxylamine reductase	1.7.2.1	Ammonia	Hydroxylamine	white
+nitrite reductase (NO-forming) / hydroxylamine reductase	1.7.2.1	Ammonia	NADH	white
+nitrite reductase (NO-forming) / hydroxylamine reductase	1.7.2.1	H+	Ammonia	white
+nitrite reductase (NO-forming) / hydroxylamine reductase	1.7.2.1	H+	H2O	white
+nitrite reductase (NO-forming) / hydroxylamine reductase	1.7.2.1	H+	NAD+	white
+nitrite reductase (NO-forming) / hydroxylamine reductase	1.7.2.1	H2O	H+	white
+nitrite reductase (NO-forming) / hydroxylamine reductase	1.7.2.1	H2O	Hydroxylamine	white
+nitrite reductase (NO-forming) / hydroxylamine reductase	1.7.2.1	H2O	NADH	white
+nitrite reductase (NO-forming) / hydroxylamine reductase	1.7.2.1	Hydroxylamine	Ammonia	white
+nitrite reductase (NO-forming) / hydroxylamine reductase	1.7.2.1	Hydroxylamine	H2O	white
+nitrite reductase (NO-forming) / hydroxylamine reductase	1.7.2.1	Hydroxylamine	NAD+	white
+nitrite reductase (NO-forming) / hydroxylamine reductase	1.7.2.1	NAD+	H+	white
+nitrite reductase (NO-forming) / hydroxylamine reductase	1.7.2.1	NAD+	Hydroxylamine	white
+nitrite reductase (NO-forming) / hydroxylamine reductase	1.7.2.1	NAD+	NADH	white
+nitrite reductase (NO-forming) / hydroxylamine reductase	1.7.2.1	NADH	Ammonia	white
+nitrite reductase (NO-forming) / hydroxylamine reductase	1.7.2.1	NADH	H2O	white
+nitrite reductase (NO-forming) / hydroxylamine reductase	1.7.2.1	NADH	NAD+	white
+nitrite reductase [NAD(P)H] large subunit	1.7.1.4	Ammonia	H+	green
+nitrite reductase [NAD(P)H] large subunit	1.7.1.4	Ammonia	NADH	green
+nitrite reductase [NAD(P)H] large subunit	1.7.1.4	Ammonia	NADPH	green
+nitrite reductase [NAD(P)H] large subunit	1.7.1.4	Ammonia	Nitrite	green
+nitrite reductase [NAD(P)H] large subunit	1.7.1.4	Ammonia	Reduced ferredoxin	green
+nitrite reductase [NAD(P)H] large subunit	1.7.1.4	H2O	H+	green
+nitrite reductase [NAD(P)H] large subunit	1.7.1.4	H2O	NADH	green
+nitrite reductase [NAD(P)H] large subunit	1.7.1.4	H2O	NADPH	green
+nitrite reductase [NAD(P)H] large subunit	1.7.1.4	H2O	Nitrite	green
+nitrite reductase [NAD(P)H] large subunit	1.7.1.4	H2O	Reduced ferredoxin	green
+nitrite reductase [NAD(P)H] large subunit	1.7.1.4	NAD+	H+	green
+nitrite reductase [NAD(P)H] large subunit	1.7.1.4	NAD+	NADH	green
+nitrite reductase [NAD(P)H] large subunit	1.7.1.4	NAD+	Nitrite	green
+nitrite reductase [NAD(P)H] large subunit	1.7.1.4	NADP+	H+	green
+nitrite reductase [NAD(P)H] large subunit	1.7.1.4	NADP+	NADPH	green
+nitrite reductase [NAD(P)H] large subunit	1.7.1.4	NADP+	Nitrite	green
+nitrite reductase [NAD(P)H] large subunit	1.7.1.4	Oxidized ferredoxin	H+	green
+nitrite reductase [NAD(P)H] large subunit	1.7.1.4	Oxidized ferredoxin	Nitrite	green
+nitrite reductase [NAD(P)H] large subunit	1.7.1.4	Oxidized ferredoxin	Reduced ferredoxin	green
+nitrite reductase [NAD(P)H] small subunit	1.7.1.4	Ammonia	H+	green
+nitrite reductase [NAD(P)H] small subunit	1.7.1.4	Ammonia	NADH	green
+nitrite reductase [NAD(P)H] small subunit	1.7.1.4	Ammonia	NADPH	green
+nitrite reductase [NAD(P)H] small subunit	1.7.1.4	Ammonia	Nitrite	green
+nitrite reductase [NAD(P)H] small subunit	1.7.1.4	Ammonia	Reduced ferredoxin	green
+nitrite reductase [NAD(P)H] small subunit	1.7.1.4	H2O	H+	green
+nitrite reductase [NAD(P)H] small subunit	1.7.1.4	H2O	NADH	green
+nitrite reductase [NAD(P)H] small subunit	1.7.1.4	H2O	NADPH	green
+nitrite reductase [NAD(P)H] small subunit	1.7.1.4	H2O	Nitrite	green
+nitrite reductase [NAD(P)H] small subunit	1.7.1.4	H2O	Reduced ferredoxin	green
+nitrite reductase [NAD(P)H] small subunit	1.7.1.4	NAD+	H+	green
+nitrite reductase [NAD(P)H] small subunit	1.7.1.4	NAD+	NADH	green
+nitrite reductase [NAD(P)H] small subunit	1.7.1.4	NAD+	Nitrite	green
+nitrite reductase [NAD(P)H] small subunit	1.7.1.4	NADP+	H+	green
+nitrite reductase [NAD(P)H] small subunit	1.7.1.4	NADP+	NADPH	green
+nitrite reductase [NAD(P)H] small subunit	1.7.1.4	NADP+	Nitrite	green
+nitrite reductase [NAD(P)H] small subunit	1.7.1.4	Oxidized ferredoxin	H+	green
+nitrite reductase [NAD(P)H] small subunit	1.7.1.4	Oxidized ferredoxin	Nitrite	green
+nitrite reductase [NAD(P)H] small subunit	1.7.1.4	Oxidized ferredoxin	Reduced ferredoxin	green
+nitrogenase delta subunit	1.18.6.1	ADP	ATP	white
+nitrogenase delta subunit	1.18.6.1	ADP	H+	white
+nitrogenase delta subunit	1.18.6.1	ADP	H2O	white
+nitrogenase delta subunit	1.18.6.1	ADP	Nitrogen	white
+nitrogenase delta subunit	1.18.6.1	ADP	Reduced ferredoxin	white
+nitrogenase delta subunit	1.18.6.1	ATP	ADP	white
+nitrogenase delta subunit	1.18.6.1	ATP	Ammonia	white
+nitrogenase delta subunit	1.18.6.1	ATP	Hydrogen	white
+nitrogenase delta subunit	1.18.6.1	ATP	Orthophosphate	white
+nitrogenase delta subunit	1.18.6.1	ATP	Oxidized ferredoxin	white
+nitrogenase delta subunit	1.18.6.1	Ammonia	ATP	white
+nitrogenase delta subunit	1.18.6.1	Ammonia	H+	white
+nitrogenase delta subunit	1.18.6.1	Ammonia	H2O	white
+nitrogenase delta subunit	1.18.6.1	Ammonia	Nitrogen	white
+nitrogenase delta subunit	1.18.6.1	Ammonia	Reduced ferredoxin	white
+nitrogenase delta subunit	1.18.6.1	H+	ADP	white
+nitrogenase delta subunit	1.18.6.1	H+	Ammonia	white
+nitrogenase delta subunit	1.18.6.1	H+	Hydrogen	white
+nitrogenase delta subunit	1.18.6.1	H+	Orthophosphate	white
+nitrogenase delta subunit	1.18.6.1	H+	Oxidized ferredoxin	white
+nitrogenase delta subunit	1.18.6.1	H2O	ADP	white
+nitrogenase delta subunit	1.18.6.1	H2O	Ammonia	white
+nitrogenase delta subunit	1.18.6.1	H2O	Hydrogen	white
+nitrogenase delta subunit	1.18.6.1	H2O	Orthophosphate	white
+nitrogenase delta subunit	1.18.6.1	H2O	Oxidized ferredoxin	white
+nitrogenase delta subunit	1.18.6.1	Hydrogen	ATP	white
+nitrogenase delta subunit	1.18.6.1	Hydrogen	H+	white
+nitrogenase delta subunit	1.18.6.1	Hydrogen	H2O	white
+nitrogenase delta subunit	1.18.6.1	Hydrogen	Nitrogen	white
+nitrogenase delta subunit	1.18.6.1	Hydrogen	Reduced ferredoxin	white
+nitrogenase delta subunit	1.18.6.1	Nitrogen	ADP	white
+nitrogenase delta subunit	1.18.6.1	Nitrogen	Ammonia	white
+nitrogenase delta subunit	1.18.6.1	Nitrogen	Hydrogen	white
+nitrogenase delta subunit	1.18.6.1	Nitrogen	Orthophosphate	white
+nitrogenase delta subunit	1.18.6.1	Nitrogen	Oxidized ferredoxin	white
+nitrogenase delta subunit	1.18.6.1	Orthophosphate	ATP	white
+nitrogenase delta subunit	1.18.6.1	Orthophosphate	H+	white
+nitrogenase delta subunit	1.18.6.1	Orthophosphate	H2O	white
+nitrogenase delta subunit	1.18.6.1	Orthophosphate	Nitrogen	white
+nitrogenase delta subunit	1.18.6.1	Orthophosphate	Reduced ferredoxin	white
+nitrogenase delta subunit	1.18.6.1	Oxidized ferredoxin	ATP	white
+nitrogenase delta subunit	1.18.6.1	Oxidized ferredoxin	H+	white
+nitrogenase delta subunit	1.18.6.1	Oxidized ferredoxin	H2O	white
+nitrogenase delta subunit	1.18.6.1	Oxidized ferredoxin	Nitrogen	white
+nitrogenase delta subunit	1.18.6.1	Oxidized ferredoxin	Reduced ferredoxin	white
+nitrogenase delta subunit	1.18.6.1	Reduced ferredoxin	ADP	white
+nitrogenase delta subunit	1.18.6.1	Reduced ferredoxin	Ammonia	white
+nitrogenase delta subunit	1.18.6.1	Reduced ferredoxin	Hydrogen	white
+nitrogenase delta subunit	1.18.6.1	Reduced ferredoxin	Orthophosphate	white
+nitrogenase delta subunit	1.18.6.1	Reduced ferredoxin	Oxidized ferredoxin	white
+nitrogenase iron protein NifH	1.18.6.1	ADP	ATP	white
+nitrogenase iron protein NifH	1.18.6.1	ADP	H+	white
+nitrogenase iron protein NifH	1.18.6.1	ADP	H2O	white
+nitrogenase iron protein NifH	1.18.6.1	ADP	Nitrogen	white
+nitrogenase iron protein NifH	1.18.6.1	ADP	Reduced ferredoxin	white
+nitrogenase iron protein NifH	1.18.6.1	ATP	ADP	white
+nitrogenase iron protein NifH	1.18.6.1	ATP	Ammonia	white
+nitrogenase iron protein NifH	1.18.6.1	ATP	Hydrogen	white
+nitrogenase iron protein NifH	1.18.6.1	ATP	Orthophosphate	white
+nitrogenase iron protein NifH	1.18.6.1	ATP	Oxidized ferredoxin	white
+nitrogenase iron protein NifH	1.18.6.1	Ammonia	ATP	white
+nitrogenase iron protein NifH	1.18.6.1	Ammonia	H+	white
+nitrogenase iron protein NifH	1.18.6.1	Ammonia	H2O	white
+nitrogenase iron protein NifH	1.18.6.1	Ammonia	Nitrogen	white
+nitrogenase iron protein NifH	1.18.6.1	Ammonia	Reduced ferredoxin	white
+nitrogenase iron protein NifH	1.18.6.1	H+	ADP	white
+nitrogenase iron protein NifH	1.18.6.1	H+	Ammonia	white
+nitrogenase iron protein NifH	1.18.6.1	H+	Hydrogen	white
+nitrogenase iron protein NifH	1.18.6.1	H+	Orthophosphate	white
+nitrogenase iron protein NifH	1.18.6.1	H+	Oxidized ferredoxin	white
+nitrogenase iron protein NifH	1.18.6.1	H2O	ADP	white
+nitrogenase iron protein NifH	1.18.6.1	H2O	Ammonia	white
+nitrogenase iron protein NifH	1.18.6.1	H2O	Hydrogen	white
+nitrogenase iron protein NifH	1.18.6.1	H2O	Orthophosphate	white
+nitrogenase iron protein NifH	1.18.6.1	H2O	Oxidized ferredoxin	white
+nitrogenase iron protein NifH	1.18.6.1	Hydrogen	ATP	white
+nitrogenase iron protein NifH	1.18.6.1	Hydrogen	H+	white
+nitrogenase iron protein NifH	1.18.6.1	Hydrogen	H2O	white
+nitrogenase iron protein NifH	1.18.6.1	Hydrogen	Nitrogen	white
+nitrogenase iron protein NifH	1.18.6.1	Hydrogen	Reduced ferredoxin	white
+nitrogenase iron protein NifH	1.18.6.1	Nitrogen	ADP	white
+nitrogenase iron protein NifH	1.18.6.1	Nitrogen	Ammonia	white
+nitrogenase iron protein NifH	1.18.6.1	Nitrogen	Hydrogen	white
+nitrogenase iron protein NifH	1.18.6.1	Nitrogen	Orthophosphate	white
+nitrogenase iron protein NifH	1.18.6.1	Nitrogen	Oxidized ferredoxin	white
+nitrogenase iron protein NifH	1.18.6.1	Orthophosphate	ATP	white
+nitrogenase iron protein NifH	1.18.6.1	Orthophosphate	H+	white
+nitrogenase iron protein NifH	1.18.6.1	Orthophosphate	H2O	white
+nitrogenase iron protein NifH	1.18.6.1	Orthophosphate	Nitrogen	white
+nitrogenase iron protein NifH	1.18.6.1	Orthophosphate	Reduced ferredoxin	white
+nitrogenase iron protein NifH	1.18.6.1	Oxidized ferredoxin	ATP	white
+nitrogenase iron protein NifH	1.18.6.1	Oxidized ferredoxin	H+	white
+nitrogenase iron protein NifH	1.18.6.1	Oxidized ferredoxin	H2O	white
+nitrogenase iron protein NifH	1.18.6.1	Oxidized ferredoxin	Nitrogen	white
+nitrogenase iron protein NifH	1.18.6.1	Oxidized ferredoxin	Reduced ferredoxin	white
+nitrogenase iron protein NifH	1.18.6.1	Reduced ferredoxin	ADP	white
+nitrogenase iron protein NifH	1.18.6.1	Reduced ferredoxin	Ammonia	white
+nitrogenase iron protein NifH	1.18.6.1	Reduced ferredoxin	Hydrogen	white
+nitrogenase iron protein NifH	1.18.6.1	Reduced ferredoxin	Orthophosphate	white
+nitrogenase iron protein NifH	1.18.6.1	Reduced ferredoxin	Oxidized ferredoxin	white
+nitrogenase molybdenum-iron protein alpha chain	1.18.6.1	ADP	ATP	white
+nitrogenase molybdenum-iron protein alpha chain	1.18.6.1	ADP	H+	white
+nitrogenase molybdenum-iron protein alpha chain	1.18.6.1	ADP	H2O	white
+nitrogenase molybdenum-iron protein alpha chain	1.18.6.1	ADP	Nitrogen	white
+nitrogenase molybdenum-iron protein alpha chain	1.18.6.1	ADP	Reduced ferredoxin	white
+nitrogenase molybdenum-iron protein alpha chain	1.18.6.1	ATP	ADP	white
+nitrogenase molybdenum-iron protein alpha chain	1.18.6.1	ATP	Ammonia	white
+nitrogenase molybdenum-iron protein alpha chain	1.18.6.1	ATP	Hydrogen	white
+nitrogenase molybdenum-iron protein alpha chain	1.18.6.1	ATP	Orthophosphate	white
+nitrogenase molybdenum-iron protein alpha chain	1.18.6.1	ATP	Oxidized ferredoxin	white
+nitrogenase molybdenum-iron protein alpha chain	1.18.6.1	Ammonia	ATP	white
+nitrogenase molybdenum-iron protein alpha chain	1.18.6.1	Ammonia	H+	white
+nitrogenase molybdenum-iron protein alpha chain	1.18.6.1	Ammonia	H2O	white
+nitrogenase molybdenum-iron protein alpha chain	1.18.6.1	Ammonia	Nitrogen	white
+nitrogenase molybdenum-iron protein alpha chain	1.18.6.1	Ammonia	Reduced ferredoxin	white
+nitrogenase molybdenum-iron protein alpha chain	1.18.6.1	H+	ADP	white
+nitrogenase molybdenum-iron protein alpha chain	1.18.6.1	H+	Ammonia	white
+nitrogenase molybdenum-iron protein alpha chain	1.18.6.1	H+	Hydrogen	white
+nitrogenase molybdenum-iron protein alpha chain	1.18.6.1	H+	Orthophosphate	white
+nitrogenase molybdenum-iron protein alpha chain	1.18.6.1	H+	Oxidized ferredoxin	white
+nitrogenase molybdenum-iron protein alpha chain	1.18.6.1	H2O	ADP	white
+nitrogenase molybdenum-iron protein alpha chain	1.18.6.1	H2O	Ammonia	white
+nitrogenase molybdenum-iron protein alpha chain	1.18.6.1	H2O	Hydrogen	white
+nitrogenase molybdenum-iron protein alpha chain	1.18.6.1	H2O	Orthophosphate	white
+nitrogenase molybdenum-iron protein alpha chain	1.18.6.1	H2O	Oxidized ferredoxin	white
+nitrogenase molybdenum-iron protein alpha chain	1.18.6.1	Hydrogen	ATP	white
+nitrogenase molybdenum-iron protein alpha chain	1.18.6.1	Hydrogen	H+	white
+nitrogenase molybdenum-iron protein alpha chain	1.18.6.1	Hydrogen	H2O	white
+nitrogenase molybdenum-iron protein alpha chain	1.18.6.1	Hydrogen	Nitrogen	white
+nitrogenase molybdenum-iron protein alpha chain	1.18.6.1	Hydrogen	Reduced ferredoxin	white
+nitrogenase molybdenum-iron protein alpha chain	1.18.6.1	Nitrogen	ADP	white
+nitrogenase molybdenum-iron protein alpha chain	1.18.6.1	Nitrogen	Ammonia	white
+nitrogenase molybdenum-iron protein alpha chain	1.18.6.1	Nitrogen	Hydrogen	white
+nitrogenase molybdenum-iron protein alpha chain	1.18.6.1	Nitrogen	Orthophosphate	white
+nitrogenase molybdenum-iron protein alpha chain	1.18.6.1	Nitrogen	Oxidized ferredoxin	white
+nitrogenase molybdenum-iron protein alpha chain	1.18.6.1	Orthophosphate	ATP	white
+nitrogenase molybdenum-iron protein alpha chain	1.18.6.1	Orthophosphate	H+	white
+nitrogenase molybdenum-iron protein alpha chain	1.18.6.1	Orthophosphate	H2O	white
+nitrogenase molybdenum-iron protein alpha chain	1.18.6.1	Orthophosphate	Nitrogen	white
+nitrogenase molybdenum-iron protein alpha chain	1.18.6.1	Orthophosphate	Reduced ferredoxin	white
+nitrogenase molybdenum-iron protein alpha chain	1.18.6.1	Oxidized ferredoxin	ATP	white
+nitrogenase molybdenum-iron protein alpha chain	1.18.6.1	Oxidized ferredoxin	H+	white
+nitrogenase molybdenum-iron protein alpha chain	1.18.6.1	Oxidized ferredoxin	H2O	white
+nitrogenase molybdenum-iron protein alpha chain	1.18.6.1	Oxidized ferredoxin	Nitrogen	white
+nitrogenase molybdenum-iron protein alpha chain	1.18.6.1	Oxidized ferredoxin	Reduced ferredoxin	white
+nitrogenase molybdenum-iron protein alpha chain	1.18.6.1	Reduced ferredoxin	ADP	white
+nitrogenase molybdenum-iron protein alpha chain	1.18.6.1	Reduced ferredoxin	Ammonia	white
+nitrogenase molybdenum-iron protein alpha chain	1.18.6.1	Reduced ferredoxin	Hydrogen	white
+nitrogenase molybdenum-iron protein alpha chain	1.18.6.1	Reduced ferredoxin	Orthophosphate	white
+nitrogenase molybdenum-iron protein alpha chain	1.18.6.1	Reduced ferredoxin	Oxidized ferredoxin	white
+nitrogenase molybdenum-iron protein beta chain	1.18.6.1	ADP	ATP	white
+nitrogenase molybdenum-iron protein beta chain	1.18.6.1	ADP	H+	white
+nitrogenase molybdenum-iron protein beta chain	1.18.6.1	ADP	H2O	white
+nitrogenase molybdenum-iron protein beta chain	1.18.6.1	ADP	Nitrogen	white
+nitrogenase molybdenum-iron protein beta chain	1.18.6.1	ADP	Reduced ferredoxin	white
+nitrogenase molybdenum-iron protein beta chain	1.18.6.1	ATP	ADP	white
+nitrogenase molybdenum-iron protein beta chain	1.18.6.1	ATP	Ammonia	white
+nitrogenase molybdenum-iron protein beta chain	1.18.6.1	ATP	Hydrogen	white
+nitrogenase molybdenum-iron protein beta chain	1.18.6.1	ATP	Orthophosphate	white
+nitrogenase molybdenum-iron protein beta chain	1.18.6.1	ATP	Oxidized ferredoxin	white
+nitrogenase molybdenum-iron protein beta chain	1.18.6.1	Ammonia	ATP	white
+nitrogenase molybdenum-iron protein beta chain	1.18.6.1	Ammonia	H+	white
+nitrogenase molybdenum-iron protein beta chain	1.18.6.1	Ammonia	H2O	white
+nitrogenase molybdenum-iron protein beta chain	1.18.6.1	Ammonia	Nitrogen	white
+nitrogenase molybdenum-iron protein beta chain	1.18.6.1	Ammonia	Reduced ferredoxin	white
+nitrogenase molybdenum-iron protein beta chain	1.18.6.1	H+	ADP	white
+nitrogenase molybdenum-iron protein beta chain	1.18.6.1	H+	Ammonia	white
+nitrogenase molybdenum-iron protein beta chain	1.18.6.1	H+	Hydrogen	white
+nitrogenase molybdenum-iron protein beta chain	1.18.6.1	H+	Orthophosphate	white
+nitrogenase molybdenum-iron protein beta chain	1.18.6.1	H+	Oxidized ferredoxin	white
+nitrogenase molybdenum-iron protein beta chain	1.18.6.1	H2O	ADP	white
+nitrogenase molybdenum-iron protein beta chain	1.18.6.1	H2O	Ammonia	white
+nitrogenase molybdenum-iron protein beta chain	1.18.6.1	H2O	Hydrogen	white
+nitrogenase molybdenum-iron protein beta chain	1.18.6.1	H2O	Orthophosphate	white
+nitrogenase molybdenum-iron protein beta chain	1.18.6.1	H2O	Oxidized ferredoxin	white
+nitrogenase molybdenum-iron protein beta chain	1.18.6.1	Hydrogen	ATP	white
+nitrogenase molybdenum-iron protein beta chain	1.18.6.1	Hydrogen	H+	white
+nitrogenase molybdenum-iron protein beta chain	1.18.6.1	Hydrogen	H2O	white
+nitrogenase molybdenum-iron protein beta chain	1.18.6.1	Hydrogen	Nitrogen	white
+nitrogenase molybdenum-iron protein beta chain	1.18.6.1	Hydrogen	Reduced ferredoxin	white
+nitrogenase molybdenum-iron protein beta chain	1.18.6.1	Nitrogen	ADP	white
+nitrogenase molybdenum-iron protein beta chain	1.18.6.1	Nitrogen	Ammonia	white
+nitrogenase molybdenum-iron protein beta chain	1.18.6.1	Nitrogen	Hydrogen	white
+nitrogenase molybdenum-iron protein beta chain	1.18.6.1	Nitrogen	Orthophosphate	white
+nitrogenase molybdenum-iron protein beta chain	1.18.6.1	Nitrogen	Oxidized ferredoxin	white
+nitrogenase molybdenum-iron protein beta chain	1.18.6.1	Orthophosphate	ATP	white
+nitrogenase molybdenum-iron protein beta chain	1.18.6.1	Orthophosphate	H+	white
+nitrogenase molybdenum-iron protein beta chain	1.18.6.1	Orthophosphate	H2O	white
+nitrogenase molybdenum-iron protein beta chain	1.18.6.1	Orthophosphate	Nitrogen	white
+nitrogenase molybdenum-iron protein beta chain	1.18.6.1	Orthophosphate	Reduced ferredoxin	white
+nitrogenase molybdenum-iron protein beta chain	1.18.6.1	Oxidized ferredoxin	ATP	white
+nitrogenase molybdenum-iron protein beta chain	1.18.6.1	Oxidized ferredoxin	H+	white
+nitrogenase molybdenum-iron protein beta chain	1.18.6.1	Oxidized ferredoxin	H2O	white
+nitrogenase molybdenum-iron protein beta chain	1.18.6.1	Oxidized ferredoxin	Nitrogen	white
+nitrogenase molybdenum-iron protein beta chain	1.18.6.1	Oxidized ferredoxin	Reduced ferredoxin	white
+nitrogenase molybdenum-iron protein beta chain	1.18.6.1	Reduced ferredoxin	ADP	white
+nitrogenase molybdenum-iron protein beta chain	1.18.6.1	Reduced ferredoxin	Ammonia	white
+nitrogenase molybdenum-iron protein beta chain	1.18.6.1	Reduced ferredoxin	Hydrogen	white
+nitrogenase molybdenum-iron protein beta chain	1.18.6.1	Reduced ferredoxin	Orthophosphate	white
+nitrogenase molybdenum-iron protein beta chain	1.18.6.1	Reduced ferredoxin	Oxidized ferredoxin	white
+nitrous-oxide reductase	1.7.2.4	Ferricytochrome c	Ferrocytochrome c	white
+nitrous-oxide reductase	1.7.2.4	Ferricytochrome c	H+	white
+nitrous-oxide reductase	1.7.2.4	Ferricytochrome c	Nitrous oxide	white
+nitrous-oxide reductase	1.7.2.4	Ferrocytochrome c	Ferricytochrome c	white
+nitrous-oxide reductase	1.7.2.4	Ferrocytochrome c	H2O	white
+nitrous-oxide reductase	1.7.2.4	Ferrocytochrome c	Nitrogen	white
+nitrous-oxide reductase	1.7.2.4	H+	Ferricytochrome c	white
+nitrous-oxide reductase	1.7.2.4	H+	H2O	white
+nitrous-oxide reductase	1.7.2.4	H+	Nitrogen	white
+nitrous-oxide reductase	1.7.2.4	H2O	Ferrocytochrome c	white
+nitrous-oxide reductase	1.7.2.4	H2O	H+	white
+nitrous-oxide reductase	1.7.2.4	H2O	Nitrous oxide	white
+nitrous-oxide reductase	1.7.2.4	Nitrogen	Ferrocytochrome c	white
+nitrous-oxide reductase	1.7.2.4	Nitrogen	H+	white
+nitrous-oxide reductase	1.7.2.4	Nitrogen	Nitrous oxide	white
+nitrous-oxide reductase	1.7.2.4	Nitrous oxide	Ferricytochrome c	white
+nitrous-oxide reductase	1.7.2.4	Nitrous oxide	H2O	white
+nitrous-oxide reductase	1.7.2.4	Nitrous oxide	Nitrogen	white
+vanadium nitrogenase delta subunit	1.18.6.2	ADP	ATP	white
+vanadium nitrogenase delta subunit	1.18.6.2	ADP	H+	white
+vanadium nitrogenase delta subunit	1.18.6.2	ADP	H2O	white
+vanadium nitrogenase delta subunit	1.18.6.2	ADP	Nitrogen	white
+vanadium nitrogenase delta subunit	1.18.6.2	ADP	Reduced ferredoxin	white
+vanadium nitrogenase delta subunit	1.18.6.2	ATP	ADP	white
+vanadium nitrogenase delta subunit	1.18.6.2	ATP	Ammonia	white
+vanadium nitrogenase delta subunit	1.18.6.2	ATP	Hydrogen	white
+vanadium nitrogenase delta subunit	1.18.6.2	ATP	Orthophosphate	white
+vanadium nitrogenase delta subunit	1.18.6.2	ATP	Oxidized ferredoxin	white
+vanadium nitrogenase delta subunit	1.18.6.2	Ammonia	ATP	white
+vanadium nitrogenase delta subunit	1.18.6.2	Ammonia	H+	white
+vanadium nitrogenase delta subunit	1.18.6.2	Ammonia	H2O	white
+vanadium nitrogenase delta subunit	1.18.6.2	Ammonia	Nitrogen	white
+vanadium nitrogenase delta subunit	1.18.6.2	Ammonia	Reduced ferredoxin	white
+vanadium nitrogenase delta subunit	1.18.6.2	H+	ADP	white
+vanadium nitrogenase delta subunit	1.18.6.2	H+	Ammonia	white
+vanadium nitrogenase delta subunit	1.18.6.2	H+	Hydrogen	white
+vanadium nitrogenase delta subunit	1.18.6.2	H+	Orthophosphate	white
+vanadium nitrogenase delta subunit	1.18.6.2	H+	Oxidized ferredoxin	white
+vanadium nitrogenase delta subunit	1.18.6.2	H2O	ADP	white
+vanadium nitrogenase delta subunit	1.18.6.2	H2O	Ammonia	white
+vanadium nitrogenase delta subunit	1.18.6.2	H2O	Hydrogen	white
+vanadium nitrogenase delta subunit	1.18.6.2	H2O	Orthophosphate	white
+vanadium nitrogenase delta subunit	1.18.6.2	H2O	Oxidized ferredoxin	white
+vanadium nitrogenase delta subunit	1.18.6.2	Hydrogen	ATP	white
+vanadium nitrogenase delta subunit	1.18.6.2	Hydrogen	H+	white
+vanadium nitrogenase delta subunit	1.18.6.2	Hydrogen	H2O	white
+vanadium nitrogenase delta subunit	1.18.6.2	Hydrogen	Nitrogen	white
+vanadium nitrogenase delta subunit	1.18.6.2	Hydrogen	Reduced ferredoxin	white
+vanadium nitrogenase delta subunit	1.18.6.2	Nitrogen	ADP	white
+vanadium nitrogenase delta subunit	1.18.6.2	Nitrogen	Ammonia	white
+vanadium nitrogenase delta subunit	1.18.6.2	Nitrogen	Hydrogen	white
+vanadium nitrogenase delta subunit	1.18.6.2	Nitrogen	Orthophosphate	white
+vanadium nitrogenase delta subunit	1.18.6.2	Nitrogen	Oxidized ferredoxin	white
+vanadium nitrogenase delta subunit	1.18.6.2	Orthophosphate	ATP	white
+vanadium nitrogenase delta subunit	1.18.6.2	Orthophosphate	H+	white
+vanadium nitrogenase delta subunit	1.18.6.2	Orthophosphate	H2O	white
+vanadium nitrogenase delta subunit	1.18.6.2	Orthophosphate	Nitrogen	white
+vanadium nitrogenase delta subunit	1.18.6.2	Orthophosphate	Reduced ferredoxin	white
+vanadium nitrogenase delta subunit	1.18.6.2	Oxidized ferredoxin	ATP	white
+vanadium nitrogenase delta subunit	1.18.6.2	Oxidized ferredoxin	H+	white
+vanadium nitrogenase delta subunit	1.18.6.2	Oxidized ferredoxin	H2O	white
+vanadium nitrogenase delta subunit	1.18.6.2	Oxidized ferredoxin	Nitrogen	white
+vanadium nitrogenase delta subunit	1.18.6.2	Oxidized ferredoxin	Reduced ferredoxin	white
+vanadium nitrogenase delta subunit	1.18.6.2	Reduced ferredoxin	ADP	white
+vanadium nitrogenase delta subunit	1.18.6.2	Reduced ferredoxin	Ammonia	white
+vanadium nitrogenase delta subunit	1.18.6.2	Reduced ferredoxin	Hydrogen	white
+vanadium nitrogenase delta subunit	1.18.6.2	Reduced ferredoxin	Orthophosphate	white
+vanadium nitrogenase delta subunit	1.18.6.2	Reduced ferredoxin	Oxidized ferredoxin	white
+vanadium nitrogenase iron protein	1.18.6.2	ADP	ATP	white
+vanadium nitrogenase iron protein	1.18.6.2	ADP	H+	white
+vanadium nitrogenase iron protein	1.18.6.2	ADP	H2O	white
+vanadium nitrogenase iron protein	1.18.6.2	ADP	Nitrogen	white
+vanadium nitrogenase iron protein	1.18.6.2	ADP	Reduced ferredoxin	white
+vanadium nitrogenase iron protein	1.18.6.2	ATP	ADP	white
+vanadium nitrogenase iron protein	1.18.6.2	ATP	Ammonia	white
+vanadium nitrogenase iron protein	1.18.6.2	ATP	Hydrogen	white
+vanadium nitrogenase iron protein	1.18.6.2	ATP	Orthophosphate	white
+vanadium nitrogenase iron protein	1.18.6.2	ATP	Oxidized ferredoxin	white
+vanadium nitrogenase iron protein	1.18.6.2	Ammonia	ATP	white
+vanadium nitrogenase iron protein	1.18.6.2	Ammonia	H+	white
+vanadium nitrogenase iron protein	1.18.6.2	Ammonia	H2O	white
+vanadium nitrogenase iron protein	1.18.6.2	Ammonia	Nitrogen	white
+vanadium nitrogenase iron protein	1.18.6.2	Ammonia	Reduced ferredoxin	white
+vanadium nitrogenase iron protein	1.18.6.2	H+	ADP	white
+vanadium nitrogenase iron protein	1.18.6.2	H+	Ammonia	white
+vanadium nitrogenase iron protein	1.18.6.2	H+	Hydrogen	white
+vanadium nitrogenase iron protein	1.18.6.2	H+	Orthophosphate	white
+vanadium nitrogenase iron protein	1.18.6.2	H+	Oxidized ferredoxin	white
+vanadium nitrogenase iron protein	1.18.6.2	H2O	ADP	white
+vanadium nitrogenase iron protein	1.18.6.2	H2O	Ammonia	white
+vanadium nitrogenase iron protein	1.18.6.2	H2O	Hydrogen	white
+vanadium nitrogenase iron protein	1.18.6.2	H2O	Orthophosphate	white
+vanadium nitrogenase iron protein	1.18.6.2	H2O	Oxidized ferredoxin	white
+vanadium nitrogenase iron protein	1.18.6.2	Hydrogen	ATP	white
+vanadium nitrogenase iron protein	1.18.6.2	Hydrogen	H+	white
+vanadium nitrogenase iron protein	1.18.6.2	Hydrogen	H2O	white
+vanadium nitrogenase iron protein	1.18.6.2	Hydrogen	Nitrogen	white
+vanadium nitrogenase iron protein	1.18.6.2	Hydrogen	Reduced ferredoxin	white
+vanadium nitrogenase iron protein	1.18.6.2	Nitrogen	ADP	white
+vanadium nitrogenase iron protein	1.18.6.2	Nitrogen	Ammonia	white
+vanadium nitrogenase iron protein	1.18.6.2	Nitrogen	Hydrogen	white
+vanadium nitrogenase iron protein	1.18.6.2	Nitrogen	Orthophosphate	white
+vanadium nitrogenase iron protein	1.18.6.2	Nitrogen	Oxidized ferredoxin	white
+vanadium nitrogenase iron protein	1.18.6.2	Orthophosphate	ATP	white
+vanadium nitrogenase iron protein	1.18.6.2	Orthophosphate	H+	white
+vanadium nitrogenase iron protein	1.18.6.2	Orthophosphate	H2O	white
+vanadium nitrogenase iron protein	1.18.6.2	Orthophosphate	Nitrogen	white
+vanadium nitrogenase iron protein	1.18.6.2	Orthophosphate	Reduced ferredoxin	white
+vanadium nitrogenase iron protein	1.18.6.2	Oxidized ferredoxin	ATP	white
+vanadium nitrogenase iron protein	1.18.6.2	Oxidized ferredoxin	H+	white
+vanadium nitrogenase iron protein	1.18.6.2	Oxidized ferredoxin	H2O	white
+vanadium nitrogenase iron protein	1.18.6.2	Oxidized ferredoxin	Nitrogen	white
+vanadium nitrogenase iron protein	1.18.6.2	Oxidized ferredoxin	Reduced ferredoxin	white
+vanadium nitrogenase iron protein	1.18.6.2	Reduced ferredoxin	ADP	white
+vanadium nitrogenase iron protein	1.18.6.2	Reduced ferredoxin	Ammonia	white
+vanadium nitrogenase iron protein	1.18.6.2	Reduced ferredoxin	Hydrogen	white
+vanadium nitrogenase iron protein	1.18.6.2	Reduced ferredoxin	Orthophosphate	white
+vanadium nitrogenase iron protein	1.18.6.2	Reduced ferredoxin	Oxidized ferredoxin	white
+vanadium-dependent nitrogenase alpha chain	1.18.6.2	ADP	ATP	white
+vanadium-dependent nitrogenase alpha chain	1.18.6.2	ADP	H+	white
+vanadium-dependent nitrogenase alpha chain	1.18.6.2	ADP	H2O	white
+vanadium-dependent nitrogenase alpha chain	1.18.6.2	ADP	Nitrogen	white
+vanadium-dependent nitrogenase alpha chain	1.18.6.2	ADP	Reduced ferredoxin	white
+vanadium-dependent nitrogenase alpha chain	1.18.6.2	ATP	ADP	white
+vanadium-dependent nitrogenase alpha chain	1.18.6.2	ATP	Ammonia	white
+vanadium-dependent nitrogenase alpha chain	1.18.6.2	ATP	Hydrogen	white
+vanadium-dependent nitrogenase alpha chain	1.18.6.2	ATP	Orthophosphate	white
+vanadium-dependent nitrogenase alpha chain	1.18.6.2	ATP	Oxidized ferredoxin	white
+vanadium-dependent nitrogenase alpha chain	1.18.6.2	Ammonia	ATP	white
+vanadium-dependent nitrogenase alpha chain	1.18.6.2	Ammonia	H+	white
+vanadium-dependent nitrogenase alpha chain	1.18.6.2	Ammonia	H2O	white
+vanadium-dependent nitrogenase alpha chain	1.18.6.2	Ammonia	Nitrogen	white
+vanadium-dependent nitrogenase alpha chain	1.18.6.2	Ammonia	Reduced ferredoxin	white
+vanadium-dependent nitrogenase alpha chain	1.18.6.2	H+	ADP	white
+vanadium-dependent nitrogenase alpha chain	1.18.6.2	H+	Ammonia	white
+vanadium-dependent nitrogenase alpha chain	1.18.6.2	H+	Hydrogen	white
+vanadium-dependent nitrogenase alpha chain	1.18.6.2	H+	Orthophosphate	white
+vanadium-dependent nitrogenase alpha chain	1.18.6.2	H+	Oxidized ferredoxin	white
+vanadium-dependent nitrogenase alpha chain	1.18.6.2	H2O	ADP	white
+vanadium-dependent nitrogenase alpha chain	1.18.6.2	H2O	Ammonia	white
+vanadium-dependent nitrogenase alpha chain	1.18.6.2	H2O	Hydrogen	white
+vanadium-dependent nitrogenase alpha chain	1.18.6.2	H2O	Orthophosphate	white
+vanadium-dependent nitrogenase alpha chain	1.18.6.2	H2O	Oxidized ferredoxin	white
+vanadium-dependent nitrogenase alpha chain	1.18.6.2	Hydrogen	ATP	white
+vanadium-dependent nitrogenase alpha chain	1.18.6.2	Hydrogen	H+	white
+vanadium-dependent nitrogenase alpha chain	1.18.6.2	Hydrogen	H2O	white
+vanadium-dependent nitrogenase alpha chain	1.18.6.2	Hydrogen	Nitrogen	white
+vanadium-dependent nitrogenase alpha chain	1.18.6.2	Hydrogen	Reduced ferredoxin	white
+vanadium-dependent nitrogenase alpha chain	1.18.6.2	Nitrogen	ADP	white
+vanadium-dependent nitrogenase alpha chain	1.18.6.2	Nitrogen	Ammonia	white
+vanadium-dependent nitrogenase alpha chain	1.18.6.2	Nitrogen	Hydrogen	white
+vanadium-dependent nitrogenase alpha chain	1.18.6.2	Nitrogen	Orthophosphate	white
+vanadium-dependent nitrogenase alpha chain	1.18.6.2	Nitrogen	Oxidized ferredoxin	white
+vanadium-dependent nitrogenase alpha chain	1.18.6.2	Orthophosphate	ATP	white
+vanadium-dependent nitrogenase alpha chain	1.18.6.2	Orthophosphate	H+	white
+vanadium-dependent nitrogenase alpha chain	1.18.6.2	Orthophosphate	H2O	white
+vanadium-dependent nitrogenase alpha chain	1.18.6.2	Orthophosphate	Nitrogen	white
+vanadium-dependent nitrogenase alpha chain	1.18.6.2	Orthophosphate	Reduced ferredoxin	white
+vanadium-dependent nitrogenase alpha chain	1.18.6.2	Oxidized ferredoxin	ATP	white
+vanadium-dependent nitrogenase alpha chain	1.18.6.2	Oxidized ferredoxin	H+	white
+vanadium-dependent nitrogenase alpha chain	1.18.6.2	Oxidized ferredoxin	H2O	white
+vanadium-dependent nitrogenase alpha chain	1.18.6.2	Oxidized ferredoxin	Nitrogen	white
+vanadium-dependent nitrogenase alpha chain	1.18.6.2	Oxidized ferredoxin	Reduced ferredoxin	white
+vanadium-dependent nitrogenase alpha chain	1.18.6.2	Reduced ferredoxin	ADP	white
+vanadium-dependent nitrogenase alpha chain	1.18.6.2	Reduced ferredoxin	Ammonia	white
+vanadium-dependent nitrogenase alpha chain	1.18.6.2	Reduced ferredoxin	Hydrogen	white
+vanadium-dependent nitrogenase alpha chain	1.18.6.2	Reduced ferredoxin	Orthophosphate	white
+vanadium-dependent nitrogenase alpha chain	1.18.6.2	Reduced ferredoxin	Oxidized ferredoxin	white
+vanadium-dependent nitrogenase beta chain	1.18.6.2	ADP	ATP	white
+vanadium-dependent nitrogenase beta chain	1.18.6.2	ADP	H+	white
+vanadium-dependent nitrogenase beta chain	1.18.6.2	ADP	H2O	white
+vanadium-dependent nitrogenase beta chain	1.18.6.2	ADP	Nitrogen	white
+vanadium-dependent nitrogenase beta chain	1.18.6.2	ADP	Reduced ferredoxin	white
+vanadium-dependent nitrogenase beta chain	1.18.6.2	ATP	ADP	white
+vanadium-dependent nitrogenase beta chain	1.18.6.2	ATP	Ammonia	white
+vanadium-dependent nitrogenase beta chain	1.18.6.2	ATP	Hydrogen	white
+vanadium-dependent nitrogenase beta chain	1.18.6.2	ATP	Orthophosphate	white
+vanadium-dependent nitrogenase beta chain	1.18.6.2	ATP	Oxidized ferredoxin	white
+vanadium-dependent nitrogenase beta chain	1.18.6.2	Ammonia	ATP	white
+vanadium-dependent nitrogenase beta chain	1.18.6.2	Ammonia	H+	white
+vanadium-dependent nitrogenase beta chain	1.18.6.2	Ammonia	H2O	white
+vanadium-dependent nitrogenase beta chain	1.18.6.2	Ammonia	Nitrogen	white
+vanadium-dependent nitrogenase beta chain	1.18.6.2	Ammonia	Reduced ferredoxin	white
+vanadium-dependent nitrogenase beta chain	1.18.6.2	H+	ADP	white
+vanadium-dependent nitrogenase beta chain	1.18.6.2	H+	Ammonia	white
+vanadium-dependent nitrogenase beta chain	1.18.6.2	H+	Hydrogen	white
+vanadium-dependent nitrogenase beta chain	1.18.6.2	H+	Orthophosphate	white
+vanadium-dependent nitrogenase beta chain	1.18.6.2	H+	Oxidized ferredoxin	white
+vanadium-dependent nitrogenase beta chain	1.18.6.2	H2O	ADP	white
+vanadium-dependent nitrogenase beta chain	1.18.6.2	H2O	Ammonia	white
+vanadium-dependent nitrogenase beta chain	1.18.6.2	H2O	Hydrogen	white
+vanadium-dependent nitrogenase beta chain	1.18.6.2	H2O	Orthophosphate	white
+vanadium-dependent nitrogenase beta chain	1.18.6.2	H2O	Oxidized ferredoxin	white
+vanadium-dependent nitrogenase beta chain	1.18.6.2	Hydrogen	ATP	white
+vanadium-dependent nitrogenase beta chain	1.18.6.2	Hydrogen	H+	white
+vanadium-dependent nitrogenase beta chain	1.18.6.2	Hydrogen	H2O	white
+vanadium-dependent nitrogenase beta chain	1.18.6.2	Hydrogen	Nitrogen	white
+vanadium-dependent nitrogenase beta chain	1.18.6.2	Hydrogen	Reduced ferredoxin	white
+vanadium-dependent nitrogenase beta chain	1.18.6.2	Nitrogen	ADP	white
+vanadium-dependent nitrogenase beta chain	1.18.6.2	Nitrogen	Ammonia	white
+vanadium-dependent nitrogenase beta chain	1.18.6.2	Nitrogen	Hydrogen	white
+vanadium-dependent nitrogenase beta chain	1.18.6.2	Nitrogen	Orthophosphate	white
+vanadium-dependent nitrogenase beta chain	1.18.6.2	Nitrogen	Oxidized ferredoxin	white
+vanadium-dependent nitrogenase beta chain	1.18.6.2	Orthophosphate	ATP	white
+vanadium-dependent nitrogenase beta chain	1.18.6.2	Orthophosphate	H+	white
+vanadium-dependent nitrogenase beta chain	1.18.6.2	Orthophosphate	H2O	white
+vanadium-dependent nitrogenase beta chain	1.18.6.2	Orthophosphate	Nitrogen	white
+vanadium-dependent nitrogenase beta chain	1.18.6.2	Orthophosphate	Reduced ferredoxin	white
+vanadium-dependent nitrogenase beta chain	1.18.6.2	Oxidized ferredoxin	ATP	white
+vanadium-dependent nitrogenase beta chain	1.18.6.2	Oxidized ferredoxin	H+	white
+vanadium-dependent nitrogenase beta chain	1.18.6.2	Oxidized ferredoxin	H2O	white
+vanadium-dependent nitrogenase beta chain	1.18.6.2	Oxidized ferredoxin	Nitrogen	white
+vanadium-dependent nitrogenase beta chain	1.18.6.2	Oxidized ferredoxin	Reduced ferredoxin	white
+vanadium-dependent nitrogenase beta chain	1.18.6.2	Reduced ferredoxin	ADP	white
+vanadium-dependent nitrogenase beta chain	1.18.6.2	Reduced ferredoxin	Ammonia	white
+vanadium-dependent nitrogenase beta chain	1.18.6.2	Reduced ferredoxin	Hydrogen	white
+vanadium-dependent nitrogenase beta chain	1.18.6.2	Reduced ferredoxin	Orthophosphate	white
+vanadium-dependent nitrogenase beta chain	1.18.6.2	Reduced ferredoxin	Oxidized ferredoxin	white

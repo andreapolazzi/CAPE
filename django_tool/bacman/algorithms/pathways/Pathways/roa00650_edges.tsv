@@ -1,0 +1,998 @@
+enzyme_name	EC	source	target	color
+(R,R)-butanediol dehydrogenase / meso-butanediol dehydrogenase / diacetyl reductase	1.1.1.4	(R)-Acetoin	(R,R)-Butane-2,3-diol	green
+(R,R)-butanediol dehydrogenase / meso-butanediol dehydrogenase / diacetyl reductase	1.1.1.4	(R)-Acetoin	Diacetyl	green
+(R,R)-butanediol dehydrogenase / meso-butanediol dehydrogenase / diacetyl reductase	1.1.1.4	(R)-Acetoin	H+	green
+(R,R)-butanediol dehydrogenase / meso-butanediol dehydrogenase / diacetyl reductase	1.1.1.4	(R)-Acetoin	NAD+	green
+(R,R)-butanediol dehydrogenase / meso-butanediol dehydrogenase / diacetyl reductase	1.1.1.4	(R)-Acetoin	NADH	green
+(R,R)-butanediol dehydrogenase / meso-butanediol dehydrogenase / diacetyl reductase	1.1.1.4	(R,R)-Butane-2,3-diol	(R)-Acetoin	green
+(R,R)-butanediol dehydrogenase / meso-butanediol dehydrogenase / diacetyl reductase	1.1.1.4	(R,R)-Butane-2,3-diol	H+	green
+(R,R)-butanediol dehydrogenase / meso-butanediol dehydrogenase / diacetyl reductase	1.1.1.4	(R,R)-Butane-2,3-diol	NADH	green
+(R,R)-butanediol dehydrogenase / meso-butanediol dehydrogenase / diacetyl reductase	1.1.1.4	(S)-Acetoin	NAD+	green
+(R,R)-butanediol dehydrogenase / meso-butanediol dehydrogenase / diacetyl reductase	1.1.1.4	(S)-Acetoin	meso-2,3-Butanediol	green
+(R,R)-butanediol dehydrogenase / meso-butanediol dehydrogenase / diacetyl reductase	1.1.1.4	H+	(R,R)-Butane-2,3-diol	green
+(R,R)-butanediol dehydrogenase / meso-butanediol dehydrogenase / diacetyl reductase	1.1.1.4	H+	NAD+	green
+(R,R)-butanediol dehydrogenase / meso-butanediol dehydrogenase / diacetyl reductase	1.1.1.4	H+	meso-2,3-Butanediol	green
+(R,R)-butanediol dehydrogenase / meso-butanediol dehydrogenase / diacetyl reductase	1.1.1.4	NAD+	(R)-Acetoin	green
+(R,R)-butanediol dehydrogenase / meso-butanediol dehydrogenase / diacetyl reductase	1.1.1.4	NAD+	(S)-Acetoin	green
+(R,R)-butanediol dehydrogenase / meso-butanediol dehydrogenase / diacetyl reductase	1.1.1.4	NAD+	Diacetyl	green
+(R,R)-butanediol dehydrogenase / meso-butanediol dehydrogenase / diacetyl reductase	1.1.1.4	NAD+	H+	green
+(R,R)-butanediol dehydrogenase / meso-butanediol dehydrogenase / diacetyl reductase	1.1.1.4	NAD+	NADH	green
+(R,R)-butanediol dehydrogenase / meso-butanediol dehydrogenase / diacetyl reductase	1.1.1.4	NADH	(R,R)-Butane-2,3-diol	green
+(R,R)-butanediol dehydrogenase / meso-butanediol dehydrogenase / diacetyl reductase	1.1.1.4	NADH	NAD+	green
+(R,R)-butanediol dehydrogenase / meso-butanediol dehydrogenase / diacetyl reductase	1.1.1.4	NADH	meso-2,3-Butanediol	green
+(R,R)-butanediol dehydrogenase / meso-butanediol dehydrogenase / diacetyl reductase	1.1.1.4	meso-2,3-Butanediol	(S)-Acetoin	green
+(R,R)-butanediol dehydrogenase / meso-butanediol dehydrogenase / diacetyl reductase	1.1.1.4	meso-2,3-Butanediol	H+	green
+(R,R)-butanediol dehydrogenase / meso-butanediol dehydrogenase / diacetyl reductase	1.1.1.4	meso-2,3-Butanediol	NADH	green
+2-hydroxyglutarate dehydrogenase	1.1.99.2	2-Hydroxyglutarate	2-Oxoglutarate	white
+2-hydroxyglutarate dehydrogenase	1.1.99.2	2-Hydroxyglutarate	FADH2	white
+2-hydroxyglutarate dehydrogenase	1.1.99.2	2-Oxoglutarate	2-Hydroxyglutarate	white
+2-hydroxyglutarate dehydrogenase	1.1.99.2	2-Oxoglutarate	FAD	white
+2-hydroxyglutarate dehydrogenase	1.1.99.2	FAD	2-Oxoglutarate	white
+2-hydroxyglutarate dehydrogenase	1.1.99.2	FAD	FADH2	white
+2-hydroxyglutarate dehydrogenase	1.1.99.2	FADH2	2-Hydroxyglutarate	white
+2-hydroxyglutarate dehydrogenase	1.1.99.2	FADH2	FAD	white
+2-oxoglutarate/2-oxoacid ferredoxin oxidoreductase subunit alpha	1.2.7.3	Acetyl-CoA	CoA	green
+2-oxoglutarate/2-oxoacid ferredoxin oxidoreductase subunit alpha	1.2.7.3	Acetyl-CoA	Oxidized ferredoxin	green
+2-oxoglutarate/2-oxoacid ferredoxin oxidoreductase subunit alpha	1.2.7.3	Acetyl-CoA	Pyruvate	green
+2-oxoglutarate/2-oxoacid ferredoxin oxidoreductase subunit alpha	1.2.7.3	CO2	CoA	green
+2-oxoglutarate/2-oxoacid ferredoxin oxidoreductase subunit alpha	1.2.7.3	CO2	Oxidized ferredoxin	green
+2-oxoglutarate/2-oxoacid ferredoxin oxidoreductase subunit alpha	1.2.7.3	CO2	Pyruvate	green
+2-oxoglutarate/2-oxoacid ferredoxin oxidoreductase subunit alpha	1.2.7.3	H+	CoA	green
+2-oxoglutarate/2-oxoacid ferredoxin oxidoreductase subunit alpha	1.2.7.3	H+	Oxidized ferredoxin	green
+2-oxoglutarate/2-oxoacid ferredoxin oxidoreductase subunit alpha	1.2.7.3	H+	Pyruvate	green
+2-oxoglutarate/2-oxoacid ferredoxin oxidoreductase subunit alpha	1.2.7.3	Reduced ferredoxin	CoA	green
+2-oxoglutarate/2-oxoacid ferredoxin oxidoreductase subunit alpha	1.2.7.3	Reduced ferredoxin	Oxidized ferredoxin	green
+2-oxoglutarate/2-oxoacid ferredoxin oxidoreductase subunit alpha	1.2.7.3	Reduced ferredoxin	Pyruvate	green
+2-oxoglutarate/2-oxoacid ferredoxin oxidoreductase subunit beta	1.2.7.3	Acetyl-CoA	CoA	green
+2-oxoglutarate/2-oxoacid ferredoxin oxidoreductase subunit beta	1.2.7.3	Acetyl-CoA	Oxidized ferredoxin	green
+2-oxoglutarate/2-oxoacid ferredoxin oxidoreductase subunit beta	1.2.7.3	Acetyl-CoA	Pyruvate	green
+2-oxoglutarate/2-oxoacid ferredoxin oxidoreductase subunit beta	1.2.7.3	CO2	CoA	green
+2-oxoglutarate/2-oxoacid ferredoxin oxidoreductase subunit beta	1.2.7.3	CO2	Oxidized ferredoxin	green
+2-oxoglutarate/2-oxoacid ferredoxin oxidoreductase subunit beta	1.2.7.3	CO2	Pyruvate	green
+2-oxoglutarate/2-oxoacid ferredoxin oxidoreductase subunit beta	1.2.7.3	H+	CoA	green
+2-oxoglutarate/2-oxoacid ferredoxin oxidoreductase subunit beta	1.2.7.3	H+	Oxidized ferredoxin	green
+2-oxoglutarate/2-oxoacid ferredoxin oxidoreductase subunit beta	1.2.7.3	H+	Pyruvate	green
+2-oxoglutarate/2-oxoacid ferredoxin oxidoreductase subunit beta	1.2.7.3	Reduced ferredoxin	CoA	green
+2-oxoglutarate/2-oxoacid ferredoxin oxidoreductase subunit beta	1.2.7.3	Reduced ferredoxin	Oxidized ferredoxin	green
+2-oxoglutarate/2-oxoacid ferredoxin oxidoreductase subunit beta	1.2.7.3	Reduced ferredoxin	Pyruvate	green
+2-oxoisovalerate/pyruvate ferredoxin oxidoreductase gamma subunit	1.2.7.7	Acetyl-CoA	CoA	white
+2-oxoisovalerate/pyruvate ferredoxin oxidoreductase gamma subunit	1.2.7.7	Acetyl-CoA	Oxidized ferredoxin	white
+2-oxoisovalerate/pyruvate ferredoxin oxidoreductase gamma subunit	1.2.7.7	Acetyl-CoA	Pyruvate	white
+2-oxoisovalerate/pyruvate ferredoxin oxidoreductase gamma subunit	1.2.7.7	CO2	CoA	white
+2-oxoisovalerate/pyruvate ferredoxin oxidoreductase gamma subunit	1.2.7.7	CO2	Oxidized ferredoxin	white
+2-oxoisovalerate/pyruvate ferredoxin oxidoreductase gamma subunit	1.2.7.7	CO2	Pyruvate	white
+2-oxoisovalerate/pyruvate ferredoxin oxidoreductase gamma subunit	1.2.7.7	CoA	Acetyl-CoA	white
+2-oxoisovalerate/pyruvate ferredoxin oxidoreductase gamma subunit	1.2.7.7	CoA	CO2	white
+2-oxoisovalerate/pyruvate ferredoxin oxidoreductase gamma subunit	1.2.7.7	CoA	H+	white
+2-oxoisovalerate/pyruvate ferredoxin oxidoreductase gamma subunit	1.2.7.7	CoA	Reduced ferredoxin	white
+2-oxoisovalerate/pyruvate ferredoxin oxidoreductase gamma subunit	1.2.7.7	H+	CoA	white
+2-oxoisovalerate/pyruvate ferredoxin oxidoreductase gamma subunit	1.2.7.7	H+	Oxidized ferredoxin	white
+2-oxoisovalerate/pyruvate ferredoxin oxidoreductase gamma subunit	1.2.7.7	H+	Pyruvate	white
+2-oxoisovalerate/pyruvate ferredoxin oxidoreductase gamma subunit	1.2.7.7	Oxidized ferredoxin	Acetyl-CoA	white
+2-oxoisovalerate/pyruvate ferredoxin oxidoreductase gamma subunit	1.2.7.7	Oxidized ferredoxin	CO2	white
+2-oxoisovalerate/pyruvate ferredoxin oxidoreductase gamma subunit	1.2.7.7	Oxidized ferredoxin	H+	white
+2-oxoisovalerate/pyruvate ferredoxin oxidoreductase gamma subunit	1.2.7.7	Oxidized ferredoxin	Reduced ferredoxin	white
+2-oxoisovalerate/pyruvate ferredoxin oxidoreductase gamma subunit	1.2.7.7	Pyruvate	Acetyl-CoA	white
+2-oxoisovalerate/pyruvate ferredoxin oxidoreductase gamma subunit	1.2.7.7	Pyruvate	CO2	white
+2-oxoisovalerate/pyruvate ferredoxin oxidoreductase gamma subunit	1.2.7.7	Pyruvate	H+	white
+2-oxoisovalerate/pyruvate ferredoxin oxidoreductase gamma subunit	1.2.7.7	Pyruvate	Reduced ferredoxin	white
+2-oxoisovalerate/pyruvate ferredoxin oxidoreductase gamma subunit	1.2.7.7	Reduced ferredoxin	CoA	white
+2-oxoisovalerate/pyruvate ferredoxin oxidoreductase gamma subunit	1.2.7.7	Reduced ferredoxin	Oxidized ferredoxin	white
+2-oxoisovalerate/pyruvate ferredoxin oxidoreductase gamma subunit	1.2.7.7	Reduced ferredoxin	Pyruvate	white
+3-hydroxyacyl-CoA dehydrogenase	1.1.1.35	(S)-3-Hydroxybutanoyl-CoA	Acetoacetyl-CoA	green
+3-hydroxyacyl-CoA dehydrogenase	1.1.1.35	(S)-3-Hydroxybutanoyl-CoA	H+	green
+3-hydroxyacyl-CoA dehydrogenase	1.1.1.35	(S)-3-Hydroxybutanoyl-CoA	NADH	green
+3-hydroxyacyl-CoA dehydrogenase	1.1.1.35	Acetoacetyl-CoA	(S)-3-Hydroxybutanoyl-CoA	green
+3-hydroxyacyl-CoA dehydrogenase	1.1.1.35	Acetoacetyl-CoA	NAD+	green
+3-hydroxyacyl-CoA dehydrogenase	1.1.1.35	H+	(S)-3-Hydroxybutanoyl-CoA	green
+3-hydroxyacyl-CoA dehydrogenase	1.1.1.35	H+	NAD+	green
+3-hydroxyacyl-CoA dehydrogenase	1.1.1.35	NAD+	Acetoacetyl-CoA	green
+3-hydroxyacyl-CoA dehydrogenase	1.1.1.35	NAD+	H+	green
+3-hydroxyacyl-CoA dehydrogenase	1.1.1.35	NAD+	NADH	green
+3-hydroxyacyl-CoA dehydrogenase	1.1.1.35	NADH	(S)-3-Hydroxybutanoyl-CoA	green
+3-hydroxyacyl-CoA dehydrogenase	1.1.1.35	NADH	NAD+	green
+3-hydroxyacyl-CoA dehydrogenase / enoyl-CoA hydratase / 3-hydroxybutyryl-CoA epimerase	1.1.1.35	(R)-3-Hydroxybutanoyl-CoA	(S)-3-Hydroxybutanoyl-CoA	green
+3-hydroxyacyl-CoA dehydrogenase / enoyl-CoA hydratase / 3-hydroxybutyryl-CoA epimerase	1.1.1.35	(S)-3-Hydroxybutanoyl-CoA	(R)-3-Hydroxybutanoyl-CoA	green
+3-hydroxyacyl-CoA dehydrogenase / enoyl-CoA hydratase / 3-hydroxybutyryl-CoA epimerase	1.1.1.35	(S)-3-Hydroxybutanoyl-CoA	Acetoacetyl-CoA	green
+3-hydroxyacyl-CoA dehydrogenase / enoyl-CoA hydratase / 3-hydroxybutyryl-CoA epimerase	1.1.1.35	(S)-3-Hydroxybutanoyl-CoA	Crotonoyl-CoA	green
+3-hydroxyacyl-CoA dehydrogenase / enoyl-CoA hydratase / 3-hydroxybutyryl-CoA epimerase	1.1.1.35	(S)-3-Hydroxybutanoyl-CoA	H+	green
+3-hydroxyacyl-CoA dehydrogenase / enoyl-CoA hydratase / 3-hydroxybutyryl-CoA epimerase	1.1.1.35	(S)-3-Hydroxybutanoyl-CoA	H2O	green
+3-hydroxyacyl-CoA dehydrogenase / enoyl-CoA hydratase / 3-hydroxybutyryl-CoA epimerase	1.1.1.35	(S)-3-Hydroxybutanoyl-CoA	NADH	green
+3-hydroxyacyl-CoA dehydrogenase / enoyl-CoA hydratase / 3-hydroxybutyryl-CoA epimerase	1.1.1.35	Acetoacetyl-CoA	(S)-3-Hydroxybutanoyl-CoA	green
+3-hydroxyacyl-CoA dehydrogenase / enoyl-CoA hydratase / 3-hydroxybutyryl-CoA epimerase	1.1.1.35	Acetoacetyl-CoA	NAD+	green
+3-hydroxyacyl-CoA dehydrogenase / enoyl-CoA hydratase / 3-hydroxybutyryl-CoA epimerase	1.1.1.35	Crotonoyl-CoA	(S)-3-Hydroxybutanoyl-CoA	green
+3-hydroxyacyl-CoA dehydrogenase / enoyl-CoA hydratase / 3-hydroxybutyryl-CoA epimerase	1.1.1.35	H+	(S)-3-Hydroxybutanoyl-CoA	green
+3-hydroxyacyl-CoA dehydrogenase / enoyl-CoA hydratase / 3-hydroxybutyryl-CoA epimerase	1.1.1.35	H+	NAD+	green
+3-hydroxyacyl-CoA dehydrogenase / enoyl-CoA hydratase / 3-hydroxybutyryl-CoA epimerase	1.1.1.35	H2O	(S)-3-Hydroxybutanoyl-CoA	green
+3-hydroxyacyl-CoA dehydrogenase / enoyl-CoA hydratase / 3-hydroxybutyryl-CoA epimerase	1.1.1.35	NAD+	Acetoacetyl-CoA	green
+3-hydroxyacyl-CoA dehydrogenase / enoyl-CoA hydratase / 3-hydroxybutyryl-CoA epimerase	1.1.1.35	NAD+	H+	green
+3-hydroxyacyl-CoA dehydrogenase / enoyl-CoA hydratase / 3-hydroxybutyryl-CoA epimerase	1.1.1.35	NAD+	NADH	green
+3-hydroxyacyl-CoA dehydrogenase / enoyl-CoA hydratase / 3-hydroxybutyryl-CoA epimerase	1.1.1.35	NADH	(S)-3-Hydroxybutanoyl-CoA	green
+3-hydroxyacyl-CoA dehydrogenase / enoyl-CoA hydratase / 3-hydroxybutyryl-CoA epimerase	1.1.1.35	NADH	NAD+	green
+3-hydroxybutyrate dehydrogenase	1.1.1.30	(R)-3-Hydroxybutanoate	Acetoacetate	green
+3-hydroxybutyrate dehydrogenase	1.1.1.30	(R)-3-Hydroxybutanoate	H+	green
+3-hydroxybutyrate dehydrogenase	1.1.1.30	(R)-3-Hydroxybutanoate	NADH	green
+3-hydroxybutyrate dehydrogenase	1.1.1.30	Acetoacetate	(R)-3-Hydroxybutanoate	green
+3-hydroxybutyrate dehydrogenase	1.1.1.30	Acetoacetate	NAD+	green
+3-hydroxybutyrate dehydrogenase	1.1.1.30	H+	(R)-3-Hydroxybutanoate	green
+3-hydroxybutyrate dehydrogenase	1.1.1.30	H+	NAD+	green
+3-hydroxybutyrate dehydrogenase	1.1.1.30	NAD+	Acetoacetate	green
+3-hydroxybutyrate dehydrogenase	1.1.1.30	NAD+	H+	green
+3-hydroxybutyrate dehydrogenase	1.1.1.30	NAD+	NADH	green
+3-hydroxybutyrate dehydrogenase	1.1.1.30	NADH	(R)-3-Hydroxybutanoate	green
+3-hydroxybutyrate dehydrogenase	1.1.1.30	NADH	NAD+	green
+3-hydroxybutyryl-CoA dehydratase	4.2.1.55	(R)-3-Hydroxybutanoyl-CoA	Crotonoyl-CoA	green
+3-hydroxybutyryl-CoA dehydratase	4.2.1.55	(R)-3-Hydroxybutanoyl-CoA	H2O	green
+3-hydroxybutyryl-CoA dehydratase	4.2.1.55	Crotonoyl-CoA	(R)-3-Hydroxybutanoyl-CoA	green
+3-hydroxybutyryl-CoA dehydratase	4.2.1.55	H2O	(R)-3-Hydroxybutanoyl-CoA	green
+3-hydroxybutyryl-CoA dehydrogenase	1.1.1.157	(S)-3-Hydroxybutanoyl-CoA	Acetoacetyl-CoA	green
+3-hydroxybutyryl-CoA dehydrogenase	1.1.1.157	(S)-3-Hydroxybutanoyl-CoA	H+	green
+3-hydroxybutyryl-CoA dehydrogenase	1.1.1.157	(S)-3-Hydroxybutanoyl-CoA	NADPH	green
+3-hydroxybutyryl-CoA dehydrogenase	1.1.1.157	Acetoacetyl-CoA	(S)-3-Hydroxybutanoyl-CoA	green
+3-hydroxybutyryl-CoA dehydrogenase	1.1.1.157	Acetoacetyl-CoA	NADP+	green
+3-hydroxybutyryl-CoA dehydrogenase	1.1.1.157	H+	(S)-3-Hydroxybutanoyl-CoA	green
+3-hydroxybutyryl-CoA dehydrogenase	1.1.1.157	H+	NADP+	green
+3-hydroxybutyryl-CoA dehydrogenase	1.1.1.157	NADP+	Acetoacetyl-CoA	green
+3-hydroxybutyryl-CoA dehydrogenase	1.1.1.157	NADP+	H+	green
+3-hydroxybutyryl-CoA dehydrogenase	1.1.1.157	NADP+	NADPH	green
+3-hydroxybutyryl-CoA dehydrogenase	1.1.1.157	NADPH	(S)-3-Hydroxybutanoyl-CoA	green
+3-hydroxybutyryl-CoA dehydrogenase	1.1.1.157	NADPH	NADP+	green
+3-oxoacid CoA-transferase	2.8.3.5	Acetoacetate	Acetoacetyl-CoA	green
+3-oxoacid CoA-transferase	2.8.3.5	Acetoacetate	Succinate	green
+3-oxoacid CoA-transferase	2.8.3.5	Acetoacetyl-CoA	Acetoacetate	green
+3-oxoacid CoA-transferase	2.8.3.5	Acetoacetyl-CoA	Succinyl-CoA	green
+3-oxoacid CoA-transferase	2.8.3.5	Succinate	Acetoacetate	green
+3-oxoacid CoA-transferase	2.8.3.5	Succinate	Succinyl-CoA	green
+3-oxoacid CoA-transferase	2.8.3.5	Succinyl-CoA	Acetoacetyl-CoA	green
+3-oxoacid CoA-transferase	2.8.3.5	Succinyl-CoA	Succinate	green
+3-oxoacid CoA-transferase subunit A	2.8.3.5	Acetoacetate	Acetoacetyl-CoA	green
+3-oxoacid CoA-transferase subunit A	2.8.3.5	Acetoacetate	Succinate	green
+3-oxoacid CoA-transferase subunit A	2.8.3.5	Acetoacetyl-CoA	Acetoacetate	green
+3-oxoacid CoA-transferase subunit A	2.8.3.5	Acetoacetyl-CoA	Succinyl-CoA	green
+3-oxoacid CoA-transferase subunit A	2.8.3.5	Succinate	Acetoacetate	green
+3-oxoacid CoA-transferase subunit A	2.8.3.5	Succinate	Succinyl-CoA	green
+3-oxoacid CoA-transferase subunit A	2.8.3.5	Succinyl-CoA	Acetoacetyl-CoA	green
+3-oxoacid CoA-transferase subunit A	2.8.3.5	Succinyl-CoA	Succinate	green
+3-oxoacid CoA-transferase subunit B	2.8.3.5	Acetoacetate	Acetoacetyl-CoA	green
+3-oxoacid CoA-transferase subunit B	2.8.3.5	Acetoacetate	Succinate	green
+3-oxoacid CoA-transferase subunit B	2.8.3.5	Acetoacetyl-CoA	Acetoacetate	green
+3-oxoacid CoA-transferase subunit B	2.8.3.5	Acetoacetyl-CoA	Succinyl-CoA	green
+3-oxoacid CoA-transferase subunit B	2.8.3.5	Succinate	Acetoacetate	green
+3-oxoacid CoA-transferase subunit B	2.8.3.5	Succinate	Succinyl-CoA	green
+3-oxoacid CoA-transferase subunit B	2.8.3.5	Succinyl-CoA	Acetoacetyl-CoA	green
+3-oxoacid CoA-transferase subunit B	2.8.3.5	Succinyl-CoA	Succinate	green
+4-aminobutyrate aminotransferase	2.6.1.19	2-Oxoglutarate	L-Glutamate	green
+4-aminobutyrate aminotransferase	2.6.1.19	2-Oxoglutarate	Succinate semialdehyde	green
+4-aminobutyrate aminotransferase	2.6.1.19	4-Aminobutanoate	L-Glutamate	green
+4-aminobutyrate aminotransferase	2.6.1.19	4-Aminobutanoate	Succinate semialdehyde	green
+4-aminobutyrate aminotransferase	2.6.1.19	L-Glutamate	2-Oxoglutarate	green
+4-aminobutyrate aminotransferase	2.6.1.19	L-Glutamate	4-Aminobutanoate	green
+4-aminobutyrate aminotransferase	2.6.1.19	Succinate semialdehyde	2-Oxoglutarate	green
+4-aminobutyrate aminotransferase	2.6.1.19	Succinate semialdehyde	4-Aminobutanoate	green
+4-aminobutyrate aminotransferase / (S)-3-amino-2-methylpropionate transaminase / 5-aminovalerate transaminase	2.6.1.19	2-Oxoglutarate	L-Glutamate	green
+4-aminobutyrate aminotransferase / (S)-3-amino-2-methylpropionate transaminase / 5-aminovalerate transaminase	2.6.1.19	2-Oxoglutarate	Succinate semialdehyde	green
+4-aminobutyrate aminotransferase / (S)-3-amino-2-methylpropionate transaminase / 5-aminovalerate transaminase	2.6.1.19	4-Aminobutanoate	L-Glutamate	green
+4-aminobutyrate aminotransferase / (S)-3-amino-2-methylpropionate transaminase / 5-aminovalerate transaminase	2.6.1.19	4-Aminobutanoate	Succinate semialdehyde	green
+4-aminobutyrate aminotransferase / (S)-3-amino-2-methylpropionate transaminase / 5-aminovalerate transaminase	2.6.1.19	L-Glutamate	2-Oxoglutarate	green
+4-aminobutyrate aminotransferase / (S)-3-amino-2-methylpropionate transaminase / 5-aminovalerate transaminase	2.6.1.19	L-Glutamate	4-Aminobutanoate	green
+4-aminobutyrate aminotransferase / (S)-3-amino-2-methylpropionate transaminase / 5-aminovalerate transaminase	2.6.1.19	Succinate semialdehyde	2-Oxoglutarate	green
+4-aminobutyrate aminotransferase / (S)-3-amino-2-methylpropionate transaminase / 5-aminovalerate transaminase	2.6.1.19	Succinate semialdehyde	4-Aminobutanoate	green
+4-aminobutyrate---pyruvate transaminase	2.6.1.96	4-Aminobutanoate	L-Alanine	white
+4-aminobutyrate---pyruvate transaminase	2.6.1.96	4-Aminobutanoate	Succinate semialdehyde	white
+4-aminobutyrate---pyruvate transaminase	2.6.1.96	L-Alanine	4-Aminobutanoate	white
+4-aminobutyrate---pyruvate transaminase	2.6.1.96	L-Alanine	Pyruvate	white
+4-aminobutyrate---pyruvate transaminase	2.6.1.96	Pyruvate	L-Alanine	white
+4-aminobutyrate---pyruvate transaminase	2.6.1.96	Pyruvate	Succinate semialdehyde	white
+4-aminobutyrate---pyruvate transaminase	2.6.1.96	Succinate semialdehyde	4-Aminobutanoate	white
+4-aminobutyrate---pyruvate transaminase	2.6.1.96	Succinate semialdehyde	Pyruvate	white
+4-hydroxybutyrate CoA-transferase	2.8.3.-	4-Hydroxybutanoic acid	4-Hydroxybutyryl-CoA	white
+4-hydroxybutyrate CoA-transferase	2.8.3.-	4-Hydroxybutanoic acid	Acetate	white
+4-hydroxybutyrate CoA-transferase	2.8.3.-	4-Hydroxybutyryl-CoA	4-Hydroxybutanoic acid	white
+4-hydroxybutyrate CoA-transferase	2.8.3.-	4-Hydroxybutyryl-CoA	Acetyl-CoA	white
+4-hydroxybutyrate CoA-transferase	2.8.3.-	Acetate	4-Hydroxybutanoic acid	white
+4-hydroxybutyrate CoA-transferase	2.8.3.-	Acetate	Acetyl-CoA	white
+4-hydroxybutyrate CoA-transferase	2.8.3.-	Acetyl-CoA	4-Hydroxybutyryl-CoA	white
+4-hydroxybutyrate CoA-transferase	2.8.3.-	Acetyl-CoA	Acetate	white
+4-hydroxybutyrate dehydrogenase	1.1.1.61	4-Hydroxybutanoic acid	H+	white
+4-hydroxybutyrate dehydrogenase	1.1.1.61	4-Hydroxybutanoic acid	NADH	white
+4-hydroxybutyrate dehydrogenase	1.1.1.61	4-Hydroxybutanoic acid	Succinate semialdehyde	white
+4-hydroxybutyrate dehydrogenase	1.1.1.61	H+	4-Hydroxybutanoic acid	white
+4-hydroxybutyrate dehydrogenase	1.1.1.61	H+	NAD+	white
+4-hydroxybutyrate dehydrogenase	1.1.1.61	NAD+	H+	white
+4-hydroxybutyrate dehydrogenase	1.1.1.61	NAD+	NADH	white
+4-hydroxybutyrate dehydrogenase	1.1.1.61	NAD+	Succinate semialdehyde	white
+4-hydroxybutyrate dehydrogenase	1.1.1.61	NADH	4-Hydroxybutanoic acid	white
+4-hydroxybutyrate dehydrogenase	1.1.1.61	NADH	NAD+	white
+4-hydroxybutyrate dehydrogenase	1.1.1.61	Succinate semialdehyde	4-Hydroxybutanoic acid	white
+4-hydroxybutyrate dehydrogenase	1.1.1.61	Succinate semialdehyde	NAD+	white
+4-hydroxybutyrate dehydrogenase / sulfolactaldehyde 3-reductase	1.1.1.61	4-Hydroxybutanoic acid	H+	white
+4-hydroxybutyrate dehydrogenase / sulfolactaldehyde 3-reductase	1.1.1.61	4-Hydroxybutanoic acid	NADH	white
+4-hydroxybutyrate dehydrogenase / sulfolactaldehyde 3-reductase	1.1.1.61	4-Hydroxybutanoic acid	Succinate semialdehyde	white
+4-hydroxybutyrate dehydrogenase / sulfolactaldehyde 3-reductase	1.1.1.61	H+	4-Hydroxybutanoic acid	white
+4-hydroxybutyrate dehydrogenase / sulfolactaldehyde 3-reductase	1.1.1.61	H+	NAD+	white
+4-hydroxybutyrate dehydrogenase / sulfolactaldehyde 3-reductase	1.1.1.61	NAD+	H+	white
+4-hydroxybutyrate dehydrogenase / sulfolactaldehyde 3-reductase	1.1.1.61	NAD+	NADH	white
+4-hydroxybutyrate dehydrogenase / sulfolactaldehyde 3-reductase	1.1.1.61	NAD+	Succinate semialdehyde	white
+4-hydroxybutyrate dehydrogenase / sulfolactaldehyde 3-reductase	1.1.1.61	NADH	4-Hydroxybutanoic acid	white
+4-hydroxybutyrate dehydrogenase / sulfolactaldehyde 3-reductase	1.1.1.61	NADH	NAD+	white
+4-hydroxybutyrate dehydrogenase / sulfolactaldehyde 3-reductase	1.1.1.61	Succinate semialdehyde	4-Hydroxybutanoic acid	white
+4-hydroxybutyrate dehydrogenase / sulfolactaldehyde 3-reductase	1.1.1.61	Succinate semialdehyde	NAD+	white
+4-hydroxybutyryl-CoA dehydratase / vinylacetyl-CoA-Delta-isomerase	4.2.1.120	4-Hydroxybutyryl-CoA	Crotonoyl-CoA	green
+4-hydroxybutyryl-CoA dehydratase / vinylacetyl-CoA-Delta-isomerase	4.2.1.120	4-Hydroxybutyryl-CoA	H2O	green
+4-hydroxybutyryl-CoA dehydratase / vinylacetyl-CoA-Delta-isomerase	4.2.1.120	Crotonoyl-CoA	4-Hydroxybutyryl-CoA	green
+4-hydroxybutyryl-CoA dehydratase / vinylacetyl-CoA-Delta-isomerase	4.2.1.120	H2O	4-Hydroxybutyryl-CoA	green
+4-hydroxybutyryl-CoA dehydratase / vinylacetyl-CoA-Delta-isomerase	4.2.1.120	Vinylacetyl-CoA	Crotonoyl-CoA	green
+NAD+-dependent secondary alcohol dehydrogenase Adh1	1.1.1.-	Acetone	NAD+	green
+NAD+-dependent secondary alcohol dehydrogenase Adh1	1.1.1.-	Acetone	Propan-2-ol	green
+NAD+-dependent secondary alcohol dehydrogenase Adh1	1.1.1.-	H+	NAD+	green
+NAD+-dependent secondary alcohol dehydrogenase Adh1	1.1.1.-	H+	Propan-2-ol	green
+NAD+-dependent secondary alcohol dehydrogenase Adh1	1.1.1.-	NAD+	Acetone	green
+NAD+-dependent secondary alcohol dehydrogenase Adh1	1.1.1.-	NAD+	H+	green
+NAD+-dependent secondary alcohol dehydrogenase Adh1	1.1.1.-	NAD+	NADH	green
+NAD+-dependent secondary alcohol dehydrogenase Adh1	1.1.1.-	NADH	NAD+	green
+NAD+-dependent secondary alcohol dehydrogenase Adh1	1.1.1.-	NADH	Propan-2-ol	green
+NAD+-dependent secondary alcohol dehydrogenase Adh1	1.1.1.-	Propan-2-ol	Acetone	green
+NAD+-dependent secondary alcohol dehydrogenase Adh1	1.1.1.-	Propan-2-ol	H+	green
+NAD+-dependent secondary alcohol dehydrogenase Adh1	1.1.1.-	Propan-2-ol	NADH	green
+acetaldehyde dehydrogenase	1.2.1.10	Butanal	Butanoyl-CoA	green
+acetaldehyde dehydrogenase	1.2.1.10	Butanal	H+	green
+acetaldehyde dehydrogenase	1.2.1.10	Butanal	NADH	green
+acetaldehyde dehydrogenase	1.2.1.10	CoA	Butanoyl-CoA	green
+acetaldehyde dehydrogenase	1.2.1.10	CoA	H+	green
+acetaldehyde dehydrogenase	1.2.1.10	CoA	NADH	green
+acetaldehyde dehydrogenase	1.2.1.10	NAD+	Butanoyl-CoA	green
+acetaldehyde dehydrogenase	1.2.1.10	NAD+	H+	green
+acetaldehyde dehydrogenase	1.2.1.10	NAD+	NADH	green
+acetate CoA-transferase	2.8.3.8	Acetate	Acetyl-CoA	white
+acetate CoA-transferase	2.8.3.8	Acetate	Butanoic acid	white
+acetate CoA-transferase	2.8.3.8	Acetyl-CoA	Acetate	white
+acetate CoA-transferase	2.8.3.8	Acetyl-CoA	Butanoyl-CoA	white
+acetate CoA-transferase	2.8.3.8	Butanoic acid	Acetate	white
+acetate CoA-transferase	2.8.3.8	Butanoic acid	Butanoyl-CoA	white
+acetate CoA-transferase	2.8.3.8	Butanoyl-CoA	Acetyl-CoA	white
+acetate CoA-transferase	2.8.3.8	Butanoyl-CoA	Butanoic acid	white
+acetate CoA/acetoacetate CoA-transferase alpha subunit	2.8.3.8	Acetate	Acetyl-CoA	white
+acetate CoA/acetoacetate CoA-transferase alpha subunit	2.8.3.8	Acetate	Butanoic acid	white
+acetate CoA/acetoacetate CoA-transferase alpha subunit	2.8.3.8	Acetyl-CoA	Acetate	white
+acetate CoA/acetoacetate CoA-transferase alpha subunit	2.8.3.8	Acetyl-CoA	Butanoyl-CoA	white
+acetate CoA/acetoacetate CoA-transferase alpha subunit	2.8.3.8	Butanoic acid	Acetate	white
+acetate CoA/acetoacetate CoA-transferase alpha subunit	2.8.3.8	Butanoic acid	Butanoyl-CoA	white
+acetate CoA/acetoacetate CoA-transferase alpha subunit	2.8.3.8	Butanoyl-CoA	Acetyl-CoA	white
+acetate CoA/acetoacetate CoA-transferase alpha subunit	2.8.3.8	Butanoyl-CoA	Butanoic acid	white
+acetate CoA/acetoacetate CoA-transferase beta subunit	2.8.3.8	Acetate	Acetyl-CoA	white
+acetate CoA/acetoacetate CoA-transferase beta subunit	2.8.3.8	Acetate	Butanoic acid	white
+acetate CoA/acetoacetate CoA-transferase beta subunit	2.8.3.8	Acetyl-CoA	Acetate	white
+acetate CoA/acetoacetate CoA-transferase beta subunit	2.8.3.8	Acetyl-CoA	Butanoyl-CoA	white
+acetate CoA/acetoacetate CoA-transferase beta subunit	2.8.3.8	Butanoic acid	Acetate	white
+acetate CoA/acetoacetate CoA-transferase beta subunit	2.8.3.8	Butanoic acid	Butanoyl-CoA	white
+acetate CoA/acetoacetate CoA-transferase beta subunit	2.8.3.8	Butanoyl-CoA	Acetyl-CoA	white
+acetate CoA/acetoacetate CoA-transferase beta subunit	2.8.3.8	Butanoyl-CoA	Butanoic acid	white
+acetate/butyrate---CoA ligase	6.2.1.1	AMP	ATP	white
+acetate/butyrate---CoA ligase	6.2.1.1	AMP	Acetate	white
+acetate/butyrate---CoA ligase	6.2.1.1	AMP	CoA	white
+acetate/butyrate---CoA ligase	6.2.1.1	ATP	AMP	white
+acetate/butyrate---CoA ligase	6.2.1.1	ATP	Acetyl-CoA	white
+acetate/butyrate---CoA ligase	6.2.1.1	ATP	Diphosphate	white
+acetate/butyrate---CoA ligase	6.2.1.1	Acetate	AMP	white
+acetate/butyrate---CoA ligase	6.2.1.1	Acetate	Acetyl-CoA	white
+acetate/butyrate---CoA ligase	6.2.1.1	Acetate	Diphosphate	white
+acetate/butyrate---CoA ligase	6.2.1.1	Acetyl-CoA	ATP	white
+acetate/butyrate---CoA ligase	6.2.1.1	Acetyl-CoA	Acetate	white
+acetate/butyrate---CoA ligase	6.2.1.1	Acetyl-CoA	CoA	white
+acetate/butyrate---CoA ligase	6.2.1.1	CoA	AMP	white
+acetate/butyrate---CoA ligase	6.2.1.1	CoA	Acetyl-CoA	white
+acetate/butyrate---CoA ligase	6.2.1.1	CoA	Diphosphate	white
+acetate/butyrate---CoA ligase	6.2.1.1	Diphosphate	ATP	white
+acetate/butyrate---CoA ligase	6.2.1.1	Diphosphate	Acetate	white
+acetate/butyrate---CoA ligase	6.2.1.1	Diphosphate	CoA	white
+acetoacetate decarboxylase	4.1.1.4	Acetoacetate	Acetone	white
+acetoacetate decarboxylase	4.1.1.4	Acetoacetate	CO2	white
+acetoacetate decarboxylase	4.1.1.4	Acetone	Acetoacetate	white
+acetoacetate decarboxylase	4.1.1.4	CO2	Acetoacetate	white
+acetoacetyl-CoA reductase	1.1.1.36	(3R)-3-Hydroxyacyl-CoA	3-Oxoacyl-CoA	white
+acetoacetyl-CoA reductase	1.1.1.36	(3R)-3-Hydroxyacyl-CoA	H+	white
+acetoacetyl-CoA reductase	1.1.1.36	(3R)-3-Hydroxyacyl-CoA	NADPH	white
+acetoacetyl-CoA reductase	1.1.1.36	3-Oxoacyl-CoA	(3R)-3-Hydroxyacyl-CoA	white
+acetoacetyl-CoA reductase	1.1.1.36	3-Oxoacyl-CoA	NADP+	white
+acetoacetyl-CoA reductase	1.1.1.36	H+	(3R)-3-Hydroxyacyl-CoA	white
+acetoacetyl-CoA reductase	1.1.1.36	H+	NADP+	white
+acetoacetyl-CoA reductase	1.1.1.36	NADP+	3-Oxoacyl-CoA	white
+acetoacetyl-CoA reductase	1.1.1.36	NADP+	H+	white
+acetoacetyl-CoA reductase	1.1.1.36	NADP+	NADPH	white
+acetoacetyl-CoA reductase	1.1.1.36	NADPH	(3R)-3-Hydroxyacyl-CoA	white
+acetoacetyl-CoA reductase	1.1.1.36	NADPH	NADP+	white
+acetoacetyl-CoA synthetase	6.2.1.16	ATP	AMP	green
+acetoacetyl-CoA synthetase	6.2.1.16	ATP	Acetoacetyl-CoA	green
+acetoacetyl-CoA synthetase	6.2.1.16	ATP	Diphosphate	green
+acetoacetyl-CoA synthetase	6.2.1.16	Acetoacetate	AMP	green
+acetoacetyl-CoA synthetase	6.2.1.16	Acetoacetate	Acetoacetyl-CoA	green
+acetoacetyl-CoA synthetase	6.2.1.16	Acetoacetate	Diphosphate	green
+acetoacetyl-CoA synthetase	6.2.1.16	CoA	AMP	green
+acetoacetyl-CoA synthetase	6.2.1.16	CoA	Acetoacetyl-CoA	green
+acetoacetyl-CoA synthetase	6.2.1.16	CoA	Diphosphate	green
+acetolactate decarboxylase	4.1.1.5	(R)-Acetoin	(S)-2-Acetolactate	white
+acetolactate decarboxylase	4.1.1.5	(S)-2-Acetolactate	(R)-Acetoin	white
+acetolactate decarboxylase	4.1.1.5	(S)-2-Acetolactate	CO2	white
+acetolactate decarboxylase	4.1.1.5	CO2	(S)-2-Acetolactate	white
+acetolactate synthase I/II/III large subunit	2.2.1.6	(S)-2-Acetolactate	Pyruvate	green
+acetolactate synthase I/II/III large subunit	2.2.1.6	CO2	Pyruvate	green
+acetolactate synthase I/III small subunit	2.2.1.6	(S)-2-Acetolactate	Pyruvate	green
+acetolactate synthase I/III small subunit	2.2.1.6	CO2	Pyruvate	green
+acetone monooxygenase (methyl acetate-forming)	1.14.13.226	Acetone	H2O	white
+acetone monooxygenase (methyl acetate-forming)	1.14.13.226	Acetone	Methyl acetate	white
+acetone monooxygenase (methyl acetate-forming)	1.14.13.226	Acetone	NADP+	white
+acetone monooxygenase (methyl acetate-forming)	1.14.13.226	H+	H2O	white
+acetone monooxygenase (methyl acetate-forming)	1.14.13.226	H+	Methyl acetate	white
+acetone monooxygenase (methyl acetate-forming)	1.14.13.226	H+	NADP+	white
+acetone monooxygenase (methyl acetate-forming)	1.14.13.226	H2O	Acetone	white
+acetone monooxygenase (methyl acetate-forming)	1.14.13.226	H2O	H+	white
+acetone monooxygenase (methyl acetate-forming)	1.14.13.226	H2O	NADPH	white
+acetone monooxygenase (methyl acetate-forming)	1.14.13.226	H2O	Oxygen	white
+acetone monooxygenase (methyl acetate-forming)	1.14.13.226	Methyl acetate	Acetone	white
+acetone monooxygenase (methyl acetate-forming)	1.14.13.226	Methyl acetate	H+	white
+acetone monooxygenase (methyl acetate-forming)	1.14.13.226	Methyl acetate	NADPH	white
+acetone monooxygenase (methyl acetate-forming)	1.14.13.226	Methyl acetate	Oxygen	white
+acetone monooxygenase (methyl acetate-forming)	1.14.13.226	NADP+	Acetone	white
+acetone monooxygenase (methyl acetate-forming)	1.14.13.226	NADP+	H+	white
+acetone monooxygenase (methyl acetate-forming)	1.14.13.226	NADP+	NADPH	white
+acetone monooxygenase (methyl acetate-forming)	1.14.13.226	NADP+	Oxygen	white
+acetone monooxygenase (methyl acetate-forming)	1.14.13.226	NADPH	H2O	white
+acetone monooxygenase (methyl acetate-forming)	1.14.13.226	NADPH	Methyl acetate	white
+acetone monooxygenase (methyl acetate-forming)	1.14.13.226	NADPH	NADP+	white
+acetone monooxygenase (methyl acetate-forming)	1.14.13.226	Oxygen	H2O	white
+acetone monooxygenase (methyl acetate-forming)	1.14.13.226	Oxygen	Methyl acetate	white
+acetone monooxygenase (methyl acetate-forming)	1.14.13.226	Oxygen	NADP+	white
+acetyl-CoA C-acetyltransferase	2.3.1.9	Acetoacetyl-CoA	Acetyl-CoA	green
+acetyl-CoA C-acetyltransferase	2.3.1.9	Acetyl-CoA	Acetoacetyl-CoA	green
+acetyl-CoA C-acetyltransferase	2.3.1.9	Acetyl-CoA	CoA	green
+acetyl-CoA C-acetyltransferase	2.3.1.9	CoA	Acetyl-CoA	green
+acetyl-CoA acyltransferase	2.3.1.16	Acetoacetyl-CoA	Acetyl-CoA	green
+acetyl-CoA acyltransferase	2.3.1.16	Acetyl-CoA	Acetoacetyl-CoA	green
+acetyl-CoA acyltransferase	2.3.1.16	Acetyl-CoA	CoA	green
+acetyl-CoA acyltransferase	2.3.1.16	CoA	Acetyl-CoA	green
+butane monooxygenase alpha subunit	1.14.13.230	1-Butanol	Butane	white
+butane monooxygenase alpha subunit	1.14.13.230	1-Butanol	H+	white
+butane monooxygenase alpha subunit	1.14.13.230	1-Butanol	NADH	white
+butane monooxygenase alpha subunit	1.14.13.230	1-Butanol	Oxygen	white
+butane monooxygenase alpha subunit	1.14.13.230	Butane	1-Butanol	white
+butane monooxygenase alpha subunit	1.14.13.230	Butane	H2O	white
+butane monooxygenase alpha subunit	1.14.13.230	Butane	NAD+	white
+butane monooxygenase alpha subunit	1.14.13.230	H+	1-Butanol	white
+butane monooxygenase alpha subunit	1.14.13.230	H+	H2O	white
+butane monooxygenase alpha subunit	1.14.13.230	H+	NAD+	white
+butane monooxygenase alpha subunit	1.14.13.230	H2O	Butane	white
+butane monooxygenase alpha subunit	1.14.13.230	H2O	H+	white
+butane monooxygenase alpha subunit	1.14.13.230	H2O	NADH	white
+butane monooxygenase alpha subunit	1.14.13.230	H2O	Oxygen	white
+butane monooxygenase alpha subunit	1.14.13.230	NAD+	Butane	white
+butane monooxygenase alpha subunit	1.14.13.230	NAD+	H+	white
+butane monooxygenase alpha subunit	1.14.13.230	NAD+	NADH	white
+butane monooxygenase alpha subunit	1.14.13.230	NAD+	Oxygen	white
+butane monooxygenase alpha subunit	1.14.13.230	NADH	1-Butanol	white
+butane monooxygenase alpha subunit	1.14.13.230	NADH	H2O	white
+butane monooxygenase alpha subunit	1.14.13.230	NADH	NAD+	white
+butane monooxygenase alpha subunit	1.14.13.230	Oxygen	1-Butanol	white
+butane monooxygenase alpha subunit	1.14.13.230	Oxygen	H2O	white
+butane monooxygenase alpha subunit	1.14.13.230	Oxygen	NAD+	white
+butane monooxygenase beta subunit	1.14.13.230	1-Butanol	Butane	white
+butane monooxygenase beta subunit	1.14.13.230	1-Butanol	H+	white
+butane monooxygenase beta subunit	1.14.13.230	1-Butanol	NADH	white
+butane monooxygenase beta subunit	1.14.13.230	1-Butanol	Oxygen	white
+butane monooxygenase beta subunit	1.14.13.230	Butane	1-Butanol	white
+butane monooxygenase beta subunit	1.14.13.230	Butane	H2O	white
+butane monooxygenase beta subunit	1.14.13.230	Butane	NAD+	white
+butane monooxygenase beta subunit	1.14.13.230	H+	1-Butanol	white
+butane monooxygenase beta subunit	1.14.13.230	H+	H2O	white
+butane monooxygenase beta subunit	1.14.13.230	H+	NAD+	white
+butane monooxygenase beta subunit	1.14.13.230	H2O	Butane	white
+butane monooxygenase beta subunit	1.14.13.230	H2O	H+	white
+butane monooxygenase beta subunit	1.14.13.230	H2O	NADH	white
+butane monooxygenase beta subunit	1.14.13.230	H2O	Oxygen	white
+butane monooxygenase beta subunit	1.14.13.230	NAD+	Butane	white
+butane monooxygenase beta subunit	1.14.13.230	NAD+	H+	white
+butane monooxygenase beta subunit	1.14.13.230	NAD+	NADH	white
+butane monooxygenase beta subunit	1.14.13.230	NAD+	Oxygen	white
+butane monooxygenase beta subunit	1.14.13.230	NADH	1-Butanol	white
+butane monooxygenase beta subunit	1.14.13.230	NADH	H2O	white
+butane monooxygenase beta subunit	1.14.13.230	NADH	NAD+	white
+butane monooxygenase beta subunit	1.14.13.230	Oxygen	1-Butanol	white
+butane monooxygenase beta subunit	1.14.13.230	Oxygen	H2O	white
+butane monooxygenase beta subunit	1.14.13.230	Oxygen	NAD+	white
+butane monooxygenase gamma subunit	1.14.13.230	1-Butanol	Butane	white
+butane monooxygenase gamma subunit	1.14.13.230	1-Butanol	H+	white
+butane monooxygenase gamma subunit	1.14.13.230	1-Butanol	NADH	white
+butane monooxygenase gamma subunit	1.14.13.230	1-Butanol	Oxygen	white
+butane monooxygenase gamma subunit	1.14.13.230	Butane	1-Butanol	white
+butane monooxygenase gamma subunit	1.14.13.230	Butane	H2O	white
+butane monooxygenase gamma subunit	1.14.13.230	Butane	NAD+	white
+butane monooxygenase gamma subunit	1.14.13.230	H+	1-Butanol	white
+butane monooxygenase gamma subunit	1.14.13.230	H+	H2O	white
+butane monooxygenase gamma subunit	1.14.13.230	H+	NAD+	white
+butane monooxygenase gamma subunit	1.14.13.230	H2O	Butane	white
+butane monooxygenase gamma subunit	1.14.13.230	H2O	H+	white
+butane monooxygenase gamma subunit	1.14.13.230	H2O	NADH	white
+butane monooxygenase gamma subunit	1.14.13.230	H2O	Oxygen	white
+butane monooxygenase gamma subunit	1.14.13.230	NAD+	Butane	white
+butane monooxygenase gamma subunit	1.14.13.230	NAD+	H+	white
+butane monooxygenase gamma subunit	1.14.13.230	NAD+	NADH	white
+butane monooxygenase gamma subunit	1.14.13.230	NAD+	Oxygen	white
+butane monooxygenase gamma subunit	1.14.13.230	NADH	1-Butanol	white
+butane monooxygenase gamma subunit	1.14.13.230	NADH	H2O	white
+butane monooxygenase gamma subunit	1.14.13.230	NADH	NAD+	white
+butane monooxygenase gamma subunit	1.14.13.230	Oxygen	1-Butanol	white
+butane monooxygenase gamma subunit	1.14.13.230	Oxygen	H2O	white
+butane monooxygenase gamma subunit	1.14.13.230	Oxygen	NAD+	white
+butane monooxygenase hypothetical assembly protein	1.14.13.230	1-Butanol	Butane	white
+butane monooxygenase hypothetical assembly protein	1.14.13.230	1-Butanol	H+	white
+butane monooxygenase hypothetical assembly protein	1.14.13.230	1-Butanol	NADH	white
+butane monooxygenase hypothetical assembly protein	1.14.13.230	1-Butanol	Oxygen	white
+butane monooxygenase hypothetical assembly protein	1.14.13.230	Butane	1-Butanol	white
+butane monooxygenase hypothetical assembly protein	1.14.13.230	Butane	H2O	white
+butane monooxygenase hypothetical assembly protein	1.14.13.230	Butane	NAD+	white
+butane monooxygenase hypothetical assembly protein	1.14.13.230	H+	1-Butanol	white
+butane monooxygenase hypothetical assembly protein	1.14.13.230	H+	H2O	white
+butane monooxygenase hypothetical assembly protein	1.14.13.230	H+	NAD+	white
+butane monooxygenase hypothetical assembly protein	1.14.13.230	H2O	Butane	white
+butane monooxygenase hypothetical assembly protein	1.14.13.230	H2O	H+	white
+butane monooxygenase hypothetical assembly protein	1.14.13.230	H2O	NADH	white
+butane monooxygenase hypothetical assembly protein	1.14.13.230	H2O	Oxygen	white
+butane monooxygenase hypothetical assembly protein	1.14.13.230	NAD+	Butane	white
+butane monooxygenase hypothetical assembly protein	1.14.13.230	NAD+	H+	white
+butane monooxygenase hypothetical assembly protein	1.14.13.230	NAD+	NADH	white
+butane monooxygenase hypothetical assembly protein	1.14.13.230	NAD+	Oxygen	white
+butane monooxygenase hypothetical assembly protein	1.14.13.230	NADH	1-Butanol	white
+butane monooxygenase hypothetical assembly protein	1.14.13.230	NADH	H2O	white
+butane monooxygenase hypothetical assembly protein	1.14.13.230	NADH	NAD+	white
+butane monooxygenase hypothetical assembly protein	1.14.13.230	Oxygen	1-Butanol	white
+butane monooxygenase hypothetical assembly protein	1.14.13.230	Oxygen	H2O	white
+butane monooxygenase hypothetical assembly protein	1.14.13.230	Oxygen	NAD+	white
+butane monooxygenase reductase	1.14.13.230	1-Butanol	Butane	white
+butane monooxygenase reductase	1.14.13.230	1-Butanol	H+	white
+butane monooxygenase reductase	1.14.13.230	1-Butanol	NADH	white
+butane monooxygenase reductase	1.14.13.230	1-Butanol	Oxygen	white
+butane monooxygenase reductase	1.14.13.230	Butane	1-Butanol	white
+butane monooxygenase reductase	1.14.13.230	Butane	H2O	white
+butane monooxygenase reductase	1.14.13.230	Butane	NAD+	white
+butane monooxygenase reductase	1.14.13.230	H+	1-Butanol	white
+butane monooxygenase reductase	1.14.13.230	H+	H2O	white
+butane monooxygenase reductase	1.14.13.230	H+	NAD+	white
+butane monooxygenase reductase	1.14.13.230	H2O	Butane	white
+butane monooxygenase reductase	1.14.13.230	H2O	H+	white
+butane monooxygenase reductase	1.14.13.230	H2O	NADH	white
+butane monooxygenase reductase	1.14.13.230	H2O	Oxygen	white
+butane monooxygenase reductase	1.14.13.230	NAD+	Butane	white
+butane monooxygenase reductase	1.14.13.230	NAD+	H+	white
+butane monooxygenase reductase	1.14.13.230	NAD+	NADH	white
+butane monooxygenase reductase	1.14.13.230	NAD+	Oxygen	white
+butane monooxygenase reductase	1.14.13.230	NADH	1-Butanol	white
+butane monooxygenase reductase	1.14.13.230	NADH	H2O	white
+butane monooxygenase reductase	1.14.13.230	NADH	NAD+	white
+butane monooxygenase reductase	1.14.13.230	Oxygen	1-Butanol	white
+butane monooxygenase reductase	1.14.13.230	Oxygen	H2O	white
+butane monooxygenase reductase	1.14.13.230	Oxygen	NAD+	white
+butane monooxygenase regulatory protein	1.14.13.230	1-Butanol	Butane	white
+butane monooxygenase regulatory protein	1.14.13.230	1-Butanol	H+	white
+butane monooxygenase regulatory protein	1.14.13.230	1-Butanol	NADH	white
+butane monooxygenase regulatory protein	1.14.13.230	1-Butanol	Oxygen	white
+butane monooxygenase regulatory protein	1.14.13.230	Butane	1-Butanol	white
+butane monooxygenase regulatory protein	1.14.13.230	Butane	H2O	white
+butane monooxygenase regulatory protein	1.14.13.230	Butane	NAD+	white
+butane monooxygenase regulatory protein	1.14.13.230	H+	1-Butanol	white
+butane monooxygenase regulatory protein	1.14.13.230	H+	H2O	white
+butane monooxygenase regulatory protein	1.14.13.230	H+	NAD+	white
+butane monooxygenase regulatory protein	1.14.13.230	H2O	Butane	white
+butane monooxygenase regulatory protein	1.14.13.230	H2O	H+	white
+butane monooxygenase regulatory protein	1.14.13.230	H2O	NADH	white
+butane monooxygenase regulatory protein	1.14.13.230	H2O	Oxygen	white
+butane monooxygenase regulatory protein	1.14.13.230	NAD+	Butane	white
+butane monooxygenase regulatory protein	1.14.13.230	NAD+	H+	white
+butane monooxygenase regulatory protein	1.14.13.230	NAD+	NADH	white
+butane monooxygenase regulatory protein	1.14.13.230	NAD+	Oxygen	white
+butane monooxygenase regulatory protein	1.14.13.230	NADH	1-Butanol	white
+butane monooxygenase regulatory protein	1.14.13.230	NADH	H2O	white
+butane monooxygenase regulatory protein	1.14.13.230	NADH	NAD+	white
+butane monooxygenase regulatory protein	1.14.13.230	Oxygen	1-Butanol	white
+butane monooxygenase regulatory protein	1.14.13.230	Oxygen	H2O	white
+butane monooxygenase regulatory protein	1.14.13.230	Oxygen	NAD+	white
+butanol dehydrogenase	1.1.1.-	1-Butanol	Butanal	white
+butanol dehydrogenase	1.1.1.-	1-Butanol	H+	white
+butanol dehydrogenase	1.1.1.-	1-Butanol	NADH	white
+butanol dehydrogenase	1.1.1.-	Butanal	1-Butanol	white
+butanol dehydrogenase	1.1.1.-	Butanal	NAD+	white
+butanol dehydrogenase	1.1.1.-	H+	1-Butanol	white
+butanol dehydrogenase	1.1.1.-	H+	NAD+	white
+butanol dehydrogenase	1.1.1.-	NAD+	Butanal	white
+butanol dehydrogenase	1.1.1.-	NAD+	H+	white
+butanol dehydrogenase	1.1.1.-	NAD+	NADH	white
+butanol dehydrogenase	1.1.1.-	NADH	1-Butanol	white
+butanol dehydrogenase	1.1.1.-	NADH	NAD+	white
+butyrate kinase	2.7.2.7	ADP	ATP	white
+butyrate kinase	2.7.2.7	ADP	Butanoic acid	white
+butyrate kinase	2.7.2.7	ATP	ADP	white
+butyrate kinase	2.7.2.7	ATP	Butanoylphosphate	white
+butyrate kinase	2.7.2.7	Butanoic acid	ADP	white
+butyrate kinase	2.7.2.7	Butanoic acid	Butanoylphosphate	white
+butyrate kinase	2.7.2.7	Butanoylphosphate	ATP	white
+butyrate kinase	2.7.2.7	Butanoylphosphate	Butanoic acid	white
+butyryl-CoA dehydrogenase	1.3.8.1	Butanoyl-CoA	Crotonoyl-CoA	white
+butyryl-CoA dehydrogenase	1.3.8.1	Butanoyl-CoA	FADH2	white
+butyryl-CoA dehydrogenase	1.3.8.1	Crotonoyl-CoA	Butanoyl-CoA	white
+butyryl-CoA dehydrogenase	1.3.8.1	Crotonoyl-CoA	FAD	white
+butyryl-CoA dehydrogenase	1.3.8.1	FAD	Crotonoyl-CoA	white
+butyryl-CoA dehydrogenase	1.3.8.1	FAD	FADH2	white
+butyryl-CoA dehydrogenase	1.3.8.1	FADH2	Butanoyl-CoA	white
+butyryl-CoA dehydrogenase	1.3.8.1	FADH2	FAD	white
+carboxybiotin decarboxylase	7.2.4.1	CO2	Glutaconyl-1-CoA	white
+carboxybiotin decarboxylase	7.2.4.1	Crotonoyl-CoA	Glutaconyl-1-CoA	white
+carboxybiotin decarboxylase	7.2.4.1	Glutaconyl-1-CoA	CO2	white
+carboxybiotin decarboxylase	7.2.4.1	Glutaconyl-1-CoA	Crotonoyl-CoA	white
+crotonyl-CoA reductase	1.3.1.86	Butanoyl-CoA	Crotonoyl-CoA	white
+crotonyl-CoA reductase	1.3.1.86	Butanoyl-CoA	H+	white
+crotonyl-CoA reductase	1.3.1.86	Butanoyl-CoA	NADPH	white
+crotonyl-CoA reductase	1.3.1.86	Crotonoyl-CoA	Butanoyl-CoA	white
+crotonyl-CoA reductase	1.3.1.86	Crotonoyl-CoA	NADP+	white
+crotonyl-CoA reductase	1.3.1.86	H+	Butanoyl-CoA	white
+crotonyl-CoA reductase	1.3.1.86	H+	NADP+	white
+crotonyl-CoA reductase	1.3.1.86	NADP+	Crotonoyl-CoA	white
+crotonyl-CoA reductase	1.3.1.86	NADP+	H+	white
+crotonyl-CoA reductase	1.3.1.86	NADP+	NADPH	white
+crotonyl-CoA reductase	1.3.1.86	NADPH	Butanoyl-CoA	white
+crotonyl-CoA reductase	1.3.1.86	NADPH	NADP+	white
+enoyl-CoA hydratase	4.2.1.17	(S)-3-Hydroxybutanoyl-CoA	Crotonoyl-CoA	green
+enoyl-CoA hydratase	4.2.1.17	(S)-3-Hydroxybutanoyl-CoA	H2O	green
+enoyl-CoA hydratase	4.2.1.17	Crotonoyl-CoA	(S)-3-Hydroxybutanoyl-CoA	green
+enoyl-CoA hydratase	4.2.1.17	H2O	(S)-3-Hydroxybutanoyl-CoA	green
+enoyl-[acyl-carrier protein] reductase / trans-2-enoyl-CoA reductase (NAD+)	1.3.1.9	Butanoyl-CoA	Crotonoyl-CoA	white
+enoyl-[acyl-carrier protein] reductase / trans-2-enoyl-CoA reductase (NAD+)	1.3.1.9	Butanoyl-CoA	H+	white
+enoyl-[acyl-carrier protein] reductase / trans-2-enoyl-CoA reductase (NAD+)	1.3.1.9	Butanoyl-CoA	NADH	white
+enoyl-[acyl-carrier protein] reductase / trans-2-enoyl-CoA reductase (NAD+)	1.3.1.9	Crotonoyl-CoA	Butanoyl-CoA	white
+enoyl-[acyl-carrier protein] reductase / trans-2-enoyl-CoA reductase (NAD+)	1.3.1.9	Crotonoyl-CoA	NAD+	white
+enoyl-[acyl-carrier protein] reductase / trans-2-enoyl-CoA reductase (NAD+)	1.3.1.9	H+	Butanoyl-CoA	white
+enoyl-[acyl-carrier protein] reductase / trans-2-enoyl-CoA reductase (NAD+)	1.3.1.9	H+	NAD+	white
+enoyl-[acyl-carrier protein] reductase / trans-2-enoyl-CoA reductase (NAD+)	1.3.1.9	NAD+	Crotonoyl-CoA	white
+enoyl-[acyl-carrier protein] reductase / trans-2-enoyl-CoA reductase (NAD+)	1.3.1.9	NAD+	H+	white
+enoyl-[acyl-carrier protein] reductase / trans-2-enoyl-CoA reductase (NAD+)	1.3.1.9	NAD+	NADH	white
+enoyl-[acyl-carrier protein] reductase / trans-2-enoyl-CoA reductase (NAD+)	1.3.1.9	NADH	Butanoyl-CoA	white
+enoyl-[acyl-carrier protein] reductase / trans-2-enoyl-CoA reductase (NAD+)	1.3.1.9	NADH	NAD+	white
+formate C-acetyltransferase	2.3.1.54	Acetyl-CoA	CoA	white
+formate C-acetyltransferase	2.3.1.54	Acetyl-CoA	Pyruvate	white
+formate C-acetyltransferase	2.3.1.54	CoA	Acetyl-CoA	white
+formate C-acetyltransferase	2.3.1.54	CoA	Formate	white
+formate C-acetyltransferase	2.3.1.54	Formate	CoA	white
+formate C-acetyltransferase	2.3.1.54	Formate	Pyruvate	white
+formate C-acetyltransferase	2.3.1.54	Pyruvate	Acetyl-CoA	white
+formate C-acetyltransferase	2.3.1.54	Pyruvate	Formate	white
+fumarate reductase (cytochrome)	1.3.2.4	Ferricytochrome c	Ferrocytochrome c	white
+fumarate reductase (cytochrome)	1.3.2.4	Ferricytochrome c	Fumarate	white
+fumarate reductase (cytochrome)	1.3.2.4	Ferrocytochrome c	Ferricytochrome c	white
+fumarate reductase (cytochrome)	1.3.2.4	Ferrocytochrome c	Succinate	white
+fumarate reductase (cytochrome)	1.3.2.4	Fumarate	Ferricytochrome c	white
+fumarate reductase (cytochrome)	1.3.2.4	Fumarate	Succinate	white
+fumarate reductase (cytochrome)	1.3.2.4	Succinate	Ferrocytochrome c	white
+fumarate reductase (cytochrome)	1.3.2.4	Succinate	Fumarate	white
+glutaconate CoA-transferase, subunit A	2.8.3.12	2-Hydroxyglutarate	2-Hydroxyglutaryl-CoA	green
+glutaconate CoA-transferase, subunit A	2.8.3.12	2-Hydroxyglutarate	Acetate	green
+glutaconate CoA-transferase, subunit A	2.8.3.12	2-Hydroxyglutaryl-CoA	2-Hydroxyglutarate	green
+glutaconate CoA-transferase, subunit A	2.8.3.12	2-Hydroxyglutaryl-CoA	Acetyl-CoA	green
+glutaconate CoA-transferase, subunit A	2.8.3.12	Acetate	2-Hydroxyglutarate	green
+glutaconate CoA-transferase, subunit A	2.8.3.12	Acetate	Acetyl-CoA	green
+glutaconate CoA-transferase, subunit A	2.8.3.12	Acetyl-CoA	2-Hydroxyglutaryl-CoA	green
+glutaconate CoA-transferase, subunit A	2.8.3.12	Acetyl-CoA	Acetate	green
+glutaconate CoA-transferase, subunit B	2.8.3.12	2-Hydroxyglutarate	2-Hydroxyglutaryl-CoA	green
+glutaconate CoA-transferase, subunit B	2.8.3.12	2-Hydroxyglutarate	Acetate	green
+glutaconate CoA-transferase, subunit B	2.8.3.12	2-Hydroxyglutaryl-CoA	2-Hydroxyglutarate	green
+glutaconate CoA-transferase, subunit B	2.8.3.12	2-Hydroxyglutaryl-CoA	Acetyl-CoA	green
+glutaconate CoA-transferase, subunit B	2.8.3.12	Acetate	2-Hydroxyglutarate	green
+glutaconate CoA-transferase, subunit B	2.8.3.12	Acetate	Acetyl-CoA	green
+glutaconate CoA-transferase, subunit B	2.8.3.12	Acetyl-CoA	2-Hydroxyglutaryl-CoA	green
+glutaconate CoA-transferase, subunit B	2.8.3.12	Acetyl-CoA	Acetate	green
+glutaconyl-CoA decarboxylase subunit alpha	7.2.4.5	CO2	Glutaconyl-1-CoA	white
+glutaconyl-CoA decarboxylase subunit alpha	7.2.4.5	Crotonoyl-CoA	Glutaconyl-1-CoA	white
+glutaconyl-CoA decarboxylase subunit alpha	7.2.4.5	Glutaconyl-1-CoA	CO2	white
+glutaconyl-CoA decarboxylase subunit alpha	7.2.4.5	Glutaconyl-1-CoA	Crotonoyl-CoA	white
+glutaconyl-CoA/methylmalonyl-CoA decarboxylase subunit delta	7.2.4.1	CO2	Glutaconyl-1-CoA	white
+glutaconyl-CoA/methylmalonyl-CoA decarboxylase subunit delta	7.2.4.1	Crotonoyl-CoA	Glutaconyl-1-CoA	white
+glutaconyl-CoA/methylmalonyl-CoA decarboxylase subunit delta	7.2.4.1	Glutaconyl-1-CoA	CO2	white
+glutaconyl-CoA/methylmalonyl-CoA decarboxylase subunit delta	7.2.4.1	Glutaconyl-1-CoA	Crotonoyl-CoA	white
+glutaconyl-CoA/methylmalonyl-CoA decarboxylase subunit gamma	7.2.4.1	CO2	Glutaconyl-1-CoA	white
+glutaconyl-CoA/methylmalonyl-CoA decarboxylase subunit gamma	7.2.4.1	Crotonoyl-CoA	Glutaconyl-1-CoA	white
+glutaconyl-CoA/methylmalonyl-CoA decarboxylase subunit gamma	7.2.4.1	Glutaconyl-1-CoA	CO2	white
+glutaconyl-CoA/methylmalonyl-CoA decarboxylase subunit gamma	7.2.4.1	Glutaconyl-1-CoA	Crotonoyl-CoA	white
+glutamate decarboxylase	4.1.1.15	L-Glutamate	4-Aminobutanoate	green
+glutamate decarboxylase	4.1.1.15	L-Glutamate	CO2	green
+glyoxylate/succinic semialdehyde reductase	1.1.1.79	Glycolate	Glyoxylate	white
+glyoxylate/succinic semialdehyde reductase	1.1.1.79	Glycolate	H+	white
+glyoxylate/succinic semialdehyde reductase	1.1.1.79	Glycolate	NADPH	white
+glyoxylate/succinic semialdehyde reductase	1.1.1.79	Glyoxylate	Glycolate	white
+glyoxylate/succinic semialdehyde reductase	1.1.1.79	Glyoxylate	NADP+	white
+glyoxylate/succinic semialdehyde reductase	1.1.1.79	H+	Glycolate	white
+glyoxylate/succinic semialdehyde reductase	1.1.1.79	H+	NADP+	white
+glyoxylate/succinic semialdehyde reductase	1.1.1.79	NADP+	Glyoxylate	white
+glyoxylate/succinic semialdehyde reductase	1.1.1.79	NADP+	H+	white
+glyoxylate/succinic semialdehyde reductase	1.1.1.79	NADP+	NADPH	white
+glyoxylate/succinic semialdehyde reductase	1.1.1.79	NADPH	Glycolate	white
+glyoxylate/succinic semialdehyde reductase	1.1.1.79	NADPH	NADP+	white
+hydroxybutyrate-dimer hydrolase	3.1.1.22	(R)-3-((R)-3-Hydroxybutanoyloxy)butanoate	(R)-3-Hydroxybutanoate	white
+hydroxybutyrate-dimer hydrolase	3.1.1.22	(R)-3-Hydroxybutanoate	(R)-3-((R)-3-Hydroxybutanoyloxy)butanoate	white
+hydroxybutyrate-dimer hydrolase	3.1.1.22	(R)-3-Hydroxybutanoate	H2O	white
+hydroxybutyrate-dimer hydrolase	3.1.1.22	H2O	(R)-3-Hydroxybutanoate	white
+hydroxymethylglutaryl-CoA lyase	4.1.3.4	(S)-3-Hydroxy-3-methylglutaryl-CoA	Acetoacetate	green
+hydroxymethylglutaryl-CoA lyase	4.1.3.4	(S)-3-Hydroxy-3-methylglutaryl-CoA	Acetyl-CoA	green
+hydroxymethylglutaryl-CoA synthase	2.3.3.10	(S)-3-Hydroxy-3-methylglutaryl-CoA	Acetoacetyl-CoA	green
+hydroxymethylglutaryl-CoA synthase	2.3.3.10	(S)-3-Hydroxy-3-methylglutaryl-CoA	Acetyl-CoA	green
+hydroxymethylglutaryl-CoA synthase	2.3.3.10	(S)-3-Hydroxy-3-methylglutaryl-CoA	H2O	green
+hydroxymethylglutaryl-CoA synthase	2.3.3.10	CoA	Acetoacetyl-CoA	green
+hydroxymethylglutaryl-CoA synthase	2.3.3.10	CoA	Acetyl-CoA	green
+hydroxymethylglutaryl-CoA synthase	2.3.3.10	CoA	H2O	green
+isopropanol dehydrogenase (NADP+)	1.1.1.80	Acetone	NADP+	white
+isopropanol dehydrogenase (NADP+)	1.1.1.80	Acetone	Propan-2-ol	white
+isopropanol dehydrogenase (NADP+)	1.1.1.80	H+	NADP+	white
+isopropanol dehydrogenase (NADP+)	1.1.1.80	H+	Propan-2-ol	white
+isopropanol dehydrogenase (NADP+)	1.1.1.80	NADP+	Acetone	white
+isopropanol dehydrogenase (NADP+)	1.1.1.80	NADP+	H+	white
+isopropanol dehydrogenase (NADP+)	1.1.1.80	NADP+	NADPH	white
+isopropanol dehydrogenase (NADP+)	1.1.1.80	NADPH	NADP+	white
+isopropanol dehydrogenase (NADP+)	1.1.1.80	NADPH	Propan-2-ol	white
+isopropanol dehydrogenase (NADP+)	1.1.1.80	Propan-2-ol	Acetone	white
+isopropanol dehydrogenase (NADP+)	1.1.1.80	Propan-2-ol	H+	white
+isopropanol dehydrogenase (NADP+)	1.1.1.80	Propan-2-ol	NADPH	white
+maleate isomerase	5.2.1.1	Fumarate	Maleic acid	green
+maleate isomerase	5.2.1.1	Maleic acid	Fumarate	green
+medium-chain acyl-CoA ligase / lipoate-activating enzyme	6.2.1.2	AMP	ATP	white
+medium-chain acyl-CoA ligase / lipoate-activating enzyme	6.2.1.2	AMP	Butanoic acid	white
+medium-chain acyl-CoA ligase / lipoate-activating enzyme	6.2.1.2	AMP	CoA	white
+medium-chain acyl-CoA ligase / lipoate-activating enzyme	6.2.1.2	ATP	AMP	white
+medium-chain acyl-CoA ligase / lipoate-activating enzyme	6.2.1.2	ATP	Butanoyl-CoA	white
+medium-chain acyl-CoA ligase / lipoate-activating enzyme	6.2.1.2	ATP	Diphosphate	white
+medium-chain acyl-CoA ligase / lipoate-activating enzyme	6.2.1.2	Butanoic acid	AMP	white
+medium-chain acyl-CoA ligase / lipoate-activating enzyme	6.2.1.2	Butanoic acid	Butanoyl-CoA	white
+medium-chain acyl-CoA ligase / lipoate-activating enzyme	6.2.1.2	Butanoic acid	Diphosphate	white
+medium-chain acyl-CoA ligase / lipoate-activating enzyme	6.2.1.2	Butanoyl-CoA	ATP	white
+medium-chain acyl-CoA ligase / lipoate-activating enzyme	6.2.1.2	Butanoyl-CoA	Butanoic acid	white
+medium-chain acyl-CoA ligase / lipoate-activating enzyme	6.2.1.2	Butanoyl-CoA	CoA	white
+medium-chain acyl-CoA ligase / lipoate-activating enzyme	6.2.1.2	CoA	AMP	white
+medium-chain acyl-CoA ligase / lipoate-activating enzyme	6.2.1.2	CoA	Butanoyl-CoA	white
+medium-chain acyl-CoA ligase / lipoate-activating enzyme	6.2.1.2	CoA	Diphosphate	white
+medium-chain acyl-CoA ligase / lipoate-activating enzyme	6.2.1.2	Diphosphate	ATP	white
+medium-chain acyl-CoA ligase / lipoate-activating enzyme	6.2.1.2	Diphosphate	Butanoic acid	white
+medium-chain acyl-CoA ligase / lipoate-activating enzyme	6.2.1.2	Diphosphate	CoA	white
+medium-chain acyl-CoA synthetase	6.2.1.2	AMP	ATP	white
+medium-chain acyl-CoA synthetase	6.2.1.2	AMP	CoA	white
+medium-chain acyl-CoA synthetase	6.2.1.2	AMP	Medium-chain fatty acid	white
+medium-chain acyl-CoA synthetase	6.2.1.2	ATP	AMP	white
+medium-chain acyl-CoA synthetase	6.2.1.2	ATP	Diphosphate	white
+medium-chain acyl-CoA synthetase	6.2.1.2	ATP	Medium-chain acyl-CoA	white
+medium-chain acyl-CoA synthetase	6.2.1.2	CoA	AMP	white
+medium-chain acyl-CoA synthetase	6.2.1.2	CoA	Diphosphate	white
+medium-chain acyl-CoA synthetase	6.2.1.2	CoA	Medium-chain acyl-CoA	white
+medium-chain acyl-CoA synthetase	6.2.1.2	Diphosphate	ATP	white
+medium-chain acyl-CoA synthetase	6.2.1.2	Diphosphate	CoA	white
+medium-chain acyl-CoA synthetase	6.2.1.2	Diphosphate	Medium-chain fatty acid	white
+medium-chain acyl-CoA synthetase	6.2.1.2	Medium-chain acyl-CoA	ATP	white
+medium-chain acyl-CoA synthetase	6.2.1.2	Medium-chain acyl-CoA	CoA	white
+medium-chain acyl-CoA synthetase	6.2.1.2	Medium-chain acyl-CoA	Medium-chain fatty acid	white
+medium-chain acyl-CoA synthetase	6.2.1.2	Medium-chain fatty acid	AMP	white
+medium-chain acyl-CoA synthetase	6.2.1.2	Medium-chain fatty acid	Diphosphate	white
+medium-chain acyl-CoA synthetase	6.2.1.2	Medium-chain fatty acid	Medium-chain acyl-CoA	white
+meso-butanediol dehydrogenase / (S,S)-butanediol dehydrogenase / diacetyl reductase	1.1.1.-	(R)-Acetoin	NAD+	green
+meso-butanediol dehydrogenase / (S,S)-butanediol dehydrogenase / diacetyl reductase	1.1.1.-	(R)-Acetoin	meso-2,3-Butanediol	green
+meso-butanediol dehydrogenase / (S,S)-butanediol dehydrogenase / diacetyl reductase	1.1.1.-	(S)-Acetoin	(S,S)-Butane-2,3-diol	green
+meso-butanediol dehydrogenase / (S,S)-butanediol dehydrogenase / diacetyl reductase	1.1.1.-	(S)-Acetoin	NAD+	green
+meso-butanediol dehydrogenase / (S,S)-butanediol dehydrogenase / diacetyl reductase	1.1.1.-	(S,S)-Butane-2,3-diol	(S)-Acetoin	green
+meso-butanediol dehydrogenase / (S,S)-butanediol dehydrogenase / diacetyl reductase	1.1.1.-	(S,S)-Butane-2,3-diol	H+	green
+meso-butanediol dehydrogenase / (S,S)-butanediol dehydrogenase / diacetyl reductase	1.1.1.-	(S,S)-Butane-2,3-diol	NADH	green
+meso-butanediol dehydrogenase / (S,S)-butanediol dehydrogenase / diacetyl reductase	1.1.1.-	Diacetyl	(S)-Acetoin	green
+meso-butanediol dehydrogenase / (S,S)-butanediol dehydrogenase / diacetyl reductase	1.1.1.-	Diacetyl	NAD+	green
+meso-butanediol dehydrogenase / (S,S)-butanediol dehydrogenase / diacetyl reductase	1.1.1.-	H+	(S)-Acetoin	green
+meso-butanediol dehydrogenase / (S,S)-butanediol dehydrogenase / diacetyl reductase	1.1.1.-	H+	(S,S)-Butane-2,3-diol	green
+meso-butanediol dehydrogenase / (S,S)-butanediol dehydrogenase / diacetyl reductase	1.1.1.-	H+	NAD+	green
+meso-butanediol dehydrogenase / (S,S)-butanediol dehydrogenase / diacetyl reductase	1.1.1.-	H+	meso-2,3-Butanediol	green
+meso-butanediol dehydrogenase / (S,S)-butanediol dehydrogenase / diacetyl reductase	1.1.1.-	NAD+	(R)-Acetoin	green
+meso-butanediol dehydrogenase / (S,S)-butanediol dehydrogenase / diacetyl reductase	1.1.1.-	NAD+	(S)-Acetoin	green
+meso-butanediol dehydrogenase / (S,S)-butanediol dehydrogenase / diacetyl reductase	1.1.1.-	NAD+	H+	green
+meso-butanediol dehydrogenase / (S,S)-butanediol dehydrogenase / diacetyl reductase	1.1.1.-	NAD+	NADH	green
+meso-butanediol dehydrogenase / (S,S)-butanediol dehydrogenase / diacetyl reductase	1.1.1.-	NADH	(S)-Acetoin	green
+meso-butanediol dehydrogenase / (S,S)-butanediol dehydrogenase / diacetyl reductase	1.1.1.-	NADH	(S,S)-Butane-2,3-diol	green
+meso-butanediol dehydrogenase / (S,S)-butanediol dehydrogenase / diacetyl reductase	1.1.1.-	NADH	NAD+	green
+meso-butanediol dehydrogenase / (S,S)-butanediol dehydrogenase / diacetyl reductase	1.1.1.-	NADH	meso-2,3-Butanediol	green
+meso-butanediol dehydrogenase / (S,S)-butanediol dehydrogenase / diacetyl reductase	1.1.1.-	meso-2,3-Butanediol	(R)-Acetoin	green
+meso-butanediol dehydrogenase / (S,S)-butanediol dehydrogenase / diacetyl reductase	1.1.1.-	meso-2,3-Butanediol	H+	green
+meso-butanediol dehydrogenase / (S,S)-butanediol dehydrogenase / diacetyl reductase	1.1.1.-	meso-2,3-Butanediol	NADH	green
+methyl acetate hydrolase	3.1.1.114	H2O	Acetate	green
+methyl acetate hydrolase	3.1.1.114	H2O	Methanol	green
+methyl acetate hydrolase	3.1.1.114	Methyl acetate	Acetate	green
+methyl acetate hydrolase	3.1.1.114	Methyl acetate	Methanol	green
+phosphate butyryltransferase	2.3.1.19	Butanoyl-CoA	Butanoylphosphate	white
+phosphate butyryltransferase	2.3.1.19	Butanoyl-CoA	CoA	white
+phosphate butyryltransferase	2.3.1.19	Butanoylphosphate	Butanoyl-CoA	white
+phosphate butyryltransferase	2.3.1.19	Butanoylphosphate	Orthophosphate	white
+phosphate butyryltransferase	2.3.1.19	CoA	Butanoyl-CoA	white
+phosphate butyryltransferase	2.3.1.19	CoA	Orthophosphate	white
+phosphate butyryltransferase	2.3.1.19	Orthophosphate	Butanoylphosphate	white
+phosphate butyryltransferase	2.3.1.19	Orthophosphate	CoA	white
+poly(3-hydroxybutyrate) depolymerase	3.1.1.75	(R)-3-((R)-3-Hydroxybutanoyloxy)butanoate	H2O	white
+poly(3-hydroxybutyrate) depolymerase	3.1.1.75	(R)-3-((R)-3-Hydroxybutanoyloxy)butanoate	Poly-beta-hydroxybutyrate	white
+poly(3-hydroxybutyrate) depolymerase	3.1.1.75	H2O	(R)-3-((R)-3-Hydroxybutanoyloxy)butanoate	white
+poly(3-hydroxybutyrate) depolymerase	3.1.1.75	H2O	Poly[(R)-3-hydroxybutanoate]x	white
+poly(3-hydroxybutyrate) depolymerase	3.1.1.75	Poly-beta-hydroxybutyrate	(R)-3-((R)-3-Hydroxybutanoyloxy)butanoate	white
+poly(3-hydroxybutyrate) depolymerase	3.1.1.75	Poly-beta-hydroxybutyrate	Poly[(R)-3-hydroxybutanoate]x	white
+poly(3-hydroxybutyrate) depolymerase	3.1.1.75	Poly[(R)-3-hydroxybutanoate]x	H2O	white
+poly(3-hydroxybutyrate) depolymerase	3.1.1.75	Poly[(R)-3-hydroxybutanoate]x	Poly-beta-hydroxybutyrate	white
+poly[(R)-3-hydroxyalkanoate] polymerase subunit PhaC	2.3.1.304	(R)-3-Hydroxybutanoyl-CoA	CoA	green
+poly[(R)-3-hydroxyalkanoate] polymerase subunit PhaC	2.3.1.304	(R)-3-Hydroxybutanoyl-CoA	Poly-beta-hydroxybutyrate	green
+poly[(R)-3-hydroxyalkanoate] polymerase subunit PhaC	2.3.1.304	CoA	(R)-3-Hydroxybutanoyl-CoA	green
+poly[(R)-3-hydroxyalkanoate] polymerase subunit PhaC	2.3.1.304	Poly-beta-hydroxybutyrate	(R)-3-Hydroxybutanoyl-CoA	green
+propane 2-monooxygenase large subunit	1.14.13.227	H+	H2O	green
+propane 2-monooxygenase large subunit	1.14.13.227	H+	NAD+	green
+propane 2-monooxygenase large subunit	1.14.13.227	H+	Propan-2-ol	green
+propane 2-monooxygenase large subunit	1.14.13.227	NADH	H2O	green
+propane 2-monooxygenase large subunit	1.14.13.227	NADH	NAD+	green
+propane 2-monooxygenase large subunit	1.14.13.227	NADH	Propan-2-ol	green
+propane 2-monooxygenase large subunit	1.14.13.227	Oxygen	H2O	green
+propane 2-monooxygenase large subunit	1.14.13.227	Oxygen	NAD+	green
+propane 2-monooxygenase large subunit	1.14.13.227	Oxygen	Propan-2-ol	green
+propane 2-monooxygenase large subunit	1.14.13.227	Propane	H2O	green
+propane 2-monooxygenase large subunit	1.14.13.227	Propane	NAD+	green
+propane 2-monooxygenase large subunit	1.14.13.227	Propane	Propan-2-ol	green
+propane 2-monooxygenase small subunit	1.14.13.227	H+	H2O	green
+propane 2-monooxygenase small subunit	1.14.13.227	H+	NAD+	green
+propane 2-monooxygenase small subunit	1.14.13.227	H+	Propan-2-ol	green
+propane 2-monooxygenase small subunit	1.14.13.227	NADH	H2O	green
+propane 2-monooxygenase small subunit	1.14.13.227	NADH	NAD+	green
+propane 2-monooxygenase small subunit	1.14.13.227	NADH	Propan-2-ol	green
+propane 2-monooxygenase small subunit	1.14.13.227	Oxygen	H2O	green
+propane 2-monooxygenase small subunit	1.14.13.227	Oxygen	NAD+	green
+propane 2-monooxygenase small subunit	1.14.13.227	Oxygen	Propan-2-ol	green
+propane 2-monooxygenase small subunit	1.14.13.227	Propane	H2O	green
+propane 2-monooxygenase small subunit	1.14.13.227	Propane	NAD+	green
+propane 2-monooxygenase small subunit	1.14.13.227	Propane	Propan-2-ol	green
+propane monooxygenase coupling protein	1.14.13.227	H+	H2O	green
+propane monooxygenase coupling protein	1.14.13.227	H+	NAD+	green
+propane monooxygenase coupling protein	1.14.13.227	H+	Propan-2-ol	green
+propane monooxygenase coupling protein	1.14.13.227	NADH	H2O	green
+propane monooxygenase coupling protein	1.14.13.227	NADH	NAD+	green
+propane monooxygenase coupling protein	1.14.13.227	NADH	Propan-2-ol	green
+propane monooxygenase coupling protein	1.14.13.227	Oxygen	H2O	green
+propane monooxygenase coupling protein	1.14.13.227	Oxygen	NAD+	green
+propane monooxygenase coupling protein	1.14.13.227	Oxygen	Propan-2-ol	green
+propane monooxygenase coupling protein	1.14.13.227	Propane	H2O	green
+propane monooxygenase coupling protein	1.14.13.227	Propane	NAD+	green
+propane monooxygenase coupling protein	1.14.13.227	Propane	Propan-2-ol	green
+propane monooxygenase reductase component	1.18.1.-	H+	H2O	green
+propane monooxygenase reductase component	1.18.1.-	H+	NAD+	green
+propane monooxygenase reductase component	1.18.1.-	H+	Propan-2-ol	green
+propane monooxygenase reductase component	1.18.1.-	NADH	H2O	green
+propane monooxygenase reductase component	1.18.1.-	NADH	NAD+	green
+propane monooxygenase reductase component	1.18.1.-	NADH	Propan-2-ol	green
+propane monooxygenase reductase component	1.18.1.-	Oxygen	H2O	green
+propane monooxygenase reductase component	1.18.1.-	Oxygen	NAD+	green
+propane monooxygenase reductase component	1.18.1.-	Oxygen	Propan-2-ol	green
+propane monooxygenase reductase component	1.18.1.-	Propane	H2O	green
+propane monooxygenase reductase component	1.18.1.-	Propane	NAD+	green
+propane monooxygenase reductase component	1.18.1.-	Propane	Propan-2-ol	green
+pyruvate ferredoxin oxidoreductase alpha subunit	1.2.7.1	Acetyl-CoA	CoA	white
+pyruvate ferredoxin oxidoreductase alpha subunit	1.2.7.1	Acetyl-CoA	Oxidized ferredoxin	white
+pyruvate ferredoxin oxidoreductase alpha subunit	1.2.7.1	Acetyl-CoA	Pyruvate	white
+pyruvate ferredoxin oxidoreductase alpha subunit	1.2.7.1	CO2	CoA	white
+pyruvate ferredoxin oxidoreductase alpha subunit	1.2.7.1	CO2	Oxidized ferredoxin	white
+pyruvate ferredoxin oxidoreductase alpha subunit	1.2.7.1	CO2	Pyruvate	white
+pyruvate ferredoxin oxidoreductase alpha subunit	1.2.7.1	CoA	Acetyl-CoA	white
+pyruvate ferredoxin oxidoreductase alpha subunit	1.2.7.1	CoA	CO2	white
+pyruvate ferredoxin oxidoreductase alpha subunit	1.2.7.1	CoA	H+	white
+pyruvate ferredoxin oxidoreductase alpha subunit	1.2.7.1	CoA	Reduced ferredoxin	white
+pyruvate ferredoxin oxidoreductase alpha subunit	1.2.7.1	H+	CoA	white
+pyruvate ferredoxin oxidoreductase alpha subunit	1.2.7.1	H+	Oxidized ferredoxin	white
+pyruvate ferredoxin oxidoreductase alpha subunit	1.2.7.1	H+	Pyruvate	white
+pyruvate ferredoxin oxidoreductase alpha subunit	1.2.7.1	Oxidized ferredoxin	Acetyl-CoA	white
+pyruvate ferredoxin oxidoreductase alpha subunit	1.2.7.1	Oxidized ferredoxin	CO2	white
+pyruvate ferredoxin oxidoreductase alpha subunit	1.2.7.1	Oxidized ferredoxin	H+	white
+pyruvate ferredoxin oxidoreductase alpha subunit	1.2.7.1	Oxidized ferredoxin	Reduced ferredoxin	white
+pyruvate ferredoxin oxidoreductase alpha subunit	1.2.7.1	Pyruvate	Acetyl-CoA	white
+pyruvate ferredoxin oxidoreductase alpha subunit	1.2.7.1	Pyruvate	CO2	white
+pyruvate ferredoxin oxidoreductase alpha subunit	1.2.7.1	Pyruvate	H+	white
+pyruvate ferredoxin oxidoreductase alpha subunit	1.2.7.1	Pyruvate	Reduced ferredoxin	white
+pyruvate ferredoxin oxidoreductase alpha subunit	1.2.7.1	Reduced ferredoxin	CoA	white
+pyruvate ferredoxin oxidoreductase alpha subunit	1.2.7.1	Reduced ferredoxin	Oxidized ferredoxin	white
+pyruvate ferredoxin oxidoreductase alpha subunit	1.2.7.1	Reduced ferredoxin	Pyruvate	white
+pyruvate ferredoxin oxidoreductase beta subunit	1.2.7.1	Acetyl-CoA	CoA	white
+pyruvate ferredoxin oxidoreductase beta subunit	1.2.7.1	Acetyl-CoA	Oxidized ferredoxin	white
+pyruvate ferredoxin oxidoreductase beta subunit	1.2.7.1	Acetyl-CoA	Pyruvate	white
+pyruvate ferredoxin oxidoreductase beta subunit	1.2.7.1	CO2	CoA	white
+pyruvate ferredoxin oxidoreductase beta subunit	1.2.7.1	CO2	Oxidized ferredoxin	white
+pyruvate ferredoxin oxidoreductase beta subunit	1.2.7.1	CO2	Pyruvate	white
+pyruvate ferredoxin oxidoreductase beta subunit	1.2.7.1	CoA	Acetyl-CoA	white
+pyruvate ferredoxin oxidoreductase beta subunit	1.2.7.1	CoA	CO2	white
+pyruvate ferredoxin oxidoreductase beta subunit	1.2.7.1	CoA	H+	white
+pyruvate ferredoxin oxidoreductase beta subunit	1.2.7.1	CoA	Reduced ferredoxin	white
+pyruvate ferredoxin oxidoreductase beta subunit	1.2.7.1	H+	CoA	white
+pyruvate ferredoxin oxidoreductase beta subunit	1.2.7.1	H+	Oxidized ferredoxin	white
+pyruvate ferredoxin oxidoreductase beta subunit	1.2.7.1	H+	Pyruvate	white
+pyruvate ferredoxin oxidoreductase beta subunit	1.2.7.1	Oxidized ferredoxin	Acetyl-CoA	white
+pyruvate ferredoxin oxidoreductase beta subunit	1.2.7.1	Oxidized ferredoxin	CO2	white
+pyruvate ferredoxin oxidoreductase beta subunit	1.2.7.1	Oxidized ferredoxin	H+	white
+pyruvate ferredoxin oxidoreductase beta subunit	1.2.7.1	Oxidized ferredoxin	Reduced ferredoxin	white
+pyruvate ferredoxin oxidoreductase beta subunit	1.2.7.1	Pyruvate	Acetyl-CoA	white
+pyruvate ferredoxin oxidoreductase beta subunit	1.2.7.1	Pyruvate	CO2	white
+pyruvate ferredoxin oxidoreductase beta subunit	1.2.7.1	Pyruvate	H+	white
+pyruvate ferredoxin oxidoreductase beta subunit	1.2.7.1	Pyruvate	Reduced ferredoxin	white
+pyruvate ferredoxin oxidoreductase beta subunit	1.2.7.1	Reduced ferredoxin	CoA	white
+pyruvate ferredoxin oxidoreductase beta subunit	1.2.7.1	Reduced ferredoxin	Oxidized ferredoxin	white
+pyruvate ferredoxin oxidoreductase beta subunit	1.2.7.1	Reduced ferredoxin	Pyruvate	white
+pyruvate ferredoxin oxidoreductase delta subunit	1.2.7.1	Acetyl-CoA	CoA	white
+pyruvate ferredoxin oxidoreductase delta subunit	1.2.7.1	Acetyl-CoA	Oxidized ferredoxin	white
+pyruvate ferredoxin oxidoreductase delta subunit	1.2.7.1	Acetyl-CoA	Pyruvate	white
+pyruvate ferredoxin oxidoreductase delta subunit	1.2.7.1	CO2	CoA	white
+pyruvate ferredoxin oxidoreductase delta subunit	1.2.7.1	CO2	Oxidized ferredoxin	white
+pyruvate ferredoxin oxidoreductase delta subunit	1.2.7.1	CO2	Pyruvate	white
+pyruvate ferredoxin oxidoreductase delta subunit	1.2.7.1	CoA	Acetyl-CoA	white
+pyruvate ferredoxin oxidoreductase delta subunit	1.2.7.1	CoA	CO2	white
+pyruvate ferredoxin oxidoreductase delta subunit	1.2.7.1	CoA	H+	white
+pyruvate ferredoxin oxidoreductase delta subunit	1.2.7.1	CoA	Reduced ferredoxin	white
+pyruvate ferredoxin oxidoreductase delta subunit	1.2.7.1	H+	CoA	white
+pyruvate ferredoxin oxidoreductase delta subunit	1.2.7.1	H+	Oxidized ferredoxin	white
+pyruvate ferredoxin oxidoreductase delta subunit	1.2.7.1	H+	Pyruvate	white
+pyruvate ferredoxin oxidoreductase delta subunit	1.2.7.1	Oxidized ferredoxin	Acetyl-CoA	white
+pyruvate ferredoxin oxidoreductase delta subunit	1.2.7.1	Oxidized ferredoxin	CO2	white
+pyruvate ferredoxin oxidoreductase delta subunit	1.2.7.1	Oxidized ferredoxin	H+	white
+pyruvate ferredoxin oxidoreductase delta subunit	1.2.7.1	Oxidized ferredoxin	Reduced ferredoxin	white
+pyruvate ferredoxin oxidoreductase delta subunit	1.2.7.1	Pyruvate	Acetyl-CoA	white
+pyruvate ferredoxin oxidoreductase delta subunit	1.2.7.1	Pyruvate	CO2	white
+pyruvate ferredoxin oxidoreductase delta subunit	1.2.7.1	Pyruvate	H+	white
+pyruvate ferredoxin oxidoreductase delta subunit	1.2.7.1	Pyruvate	Reduced ferredoxin	white
+pyruvate ferredoxin oxidoreductase delta subunit	1.2.7.1	Reduced ferredoxin	CoA	white
+pyruvate ferredoxin oxidoreductase delta subunit	1.2.7.1	Reduced ferredoxin	Oxidized ferredoxin	white
+pyruvate ferredoxin oxidoreductase delta subunit	1.2.7.1	Reduced ferredoxin	Pyruvate	white
+pyruvate ferredoxin oxidoreductase gamma subunit	1.2.7.1	Acetyl-CoA	CoA	white
+pyruvate ferredoxin oxidoreductase gamma subunit	1.2.7.1	Acetyl-CoA	Oxidized ferredoxin	white
+pyruvate ferredoxin oxidoreductase gamma subunit	1.2.7.1	Acetyl-CoA	Pyruvate	white
+pyruvate ferredoxin oxidoreductase gamma subunit	1.2.7.1	CO2	CoA	white
+pyruvate ferredoxin oxidoreductase gamma subunit	1.2.7.1	CO2	Oxidized ferredoxin	white
+pyruvate ferredoxin oxidoreductase gamma subunit	1.2.7.1	CO2	Pyruvate	white
+pyruvate ferredoxin oxidoreductase gamma subunit	1.2.7.1	CoA	Acetyl-CoA	white
+pyruvate ferredoxin oxidoreductase gamma subunit	1.2.7.1	CoA	CO2	white
+pyruvate ferredoxin oxidoreductase gamma subunit	1.2.7.1	CoA	H+	white
+pyruvate ferredoxin oxidoreductase gamma subunit	1.2.7.1	CoA	Reduced ferredoxin	white
+pyruvate ferredoxin oxidoreductase gamma subunit	1.2.7.1	H+	CoA	white
+pyruvate ferredoxin oxidoreductase gamma subunit	1.2.7.1	H+	Oxidized ferredoxin	white
+pyruvate ferredoxin oxidoreductase gamma subunit	1.2.7.1	H+	Pyruvate	white
+pyruvate ferredoxin oxidoreductase gamma subunit	1.2.7.1	Oxidized ferredoxin	Acetyl-CoA	white
+pyruvate ferredoxin oxidoreductase gamma subunit	1.2.7.1	Oxidized ferredoxin	CO2	white
+pyruvate ferredoxin oxidoreductase gamma subunit	1.2.7.1	Oxidized ferredoxin	H+	white
+pyruvate ferredoxin oxidoreductase gamma subunit	1.2.7.1	Oxidized ferredoxin	Reduced ferredoxin	white
+pyruvate ferredoxin oxidoreductase gamma subunit	1.2.7.1	Pyruvate	Acetyl-CoA	white
+pyruvate ferredoxin oxidoreductase gamma subunit	1.2.7.1	Pyruvate	CO2	white
+pyruvate ferredoxin oxidoreductase gamma subunit	1.2.7.1	Pyruvate	H+	white
+pyruvate ferredoxin oxidoreductase gamma subunit	1.2.7.1	Pyruvate	Reduced ferredoxin	white
+pyruvate ferredoxin oxidoreductase gamma subunit	1.2.7.1	Reduced ferredoxin	CoA	white
+pyruvate ferredoxin oxidoreductase gamma subunit	1.2.7.1	Reduced ferredoxin	Oxidized ferredoxin	white
+pyruvate ferredoxin oxidoreductase gamma subunit	1.2.7.1	Reduced ferredoxin	Pyruvate	white
+pyruvate-ferredoxin/flavodoxin oxidoreductase	1.2.7.1	Acetyl-CoA	CoA	white
+pyruvate-ferredoxin/flavodoxin oxidoreductase	1.2.7.1	Acetyl-CoA	Oxidized ferredoxin	white
+pyruvate-ferredoxin/flavodoxin oxidoreductase	1.2.7.1	Acetyl-CoA	Pyruvate	white
+pyruvate-ferredoxin/flavodoxin oxidoreductase	1.2.7.1	CO2	CoA	white
+pyruvate-ferredoxin/flavodoxin oxidoreductase	1.2.7.1	CO2	Oxidized ferredoxin	white
+pyruvate-ferredoxin/flavodoxin oxidoreductase	1.2.7.1	CO2	Pyruvate	white
+pyruvate-ferredoxin/flavodoxin oxidoreductase	1.2.7.1	CoA	Acetyl-CoA	white
+pyruvate-ferredoxin/flavodoxin oxidoreductase	1.2.7.1	CoA	CO2	white
+pyruvate-ferredoxin/flavodoxin oxidoreductase	1.2.7.1	CoA	H+	white
+pyruvate-ferredoxin/flavodoxin oxidoreductase	1.2.7.1	CoA	Reduced ferredoxin	white
+pyruvate-ferredoxin/flavodoxin oxidoreductase	1.2.7.1	H+	CoA	white
+pyruvate-ferredoxin/flavodoxin oxidoreductase	1.2.7.1	H+	Oxidized ferredoxin	white
+pyruvate-ferredoxin/flavodoxin oxidoreductase	1.2.7.1	H+	Pyruvate	white
+pyruvate-ferredoxin/flavodoxin oxidoreductase	1.2.7.1	Oxidized ferredoxin	Acetyl-CoA	white
+pyruvate-ferredoxin/flavodoxin oxidoreductase	1.2.7.1	Oxidized ferredoxin	CO2	white
+pyruvate-ferredoxin/flavodoxin oxidoreductase	1.2.7.1	Oxidized ferredoxin	H+	white
+pyruvate-ferredoxin/flavodoxin oxidoreductase	1.2.7.1	Oxidized ferredoxin	Reduced ferredoxin	white
+pyruvate-ferredoxin/flavodoxin oxidoreductase	1.2.7.1	Pyruvate	Acetyl-CoA	white
+pyruvate-ferredoxin/flavodoxin oxidoreductase	1.2.7.1	Pyruvate	CO2	white
+pyruvate-ferredoxin/flavodoxin oxidoreductase	1.2.7.1	Pyruvate	H+	white
+pyruvate-ferredoxin/flavodoxin oxidoreductase	1.2.7.1	Pyruvate	Reduced ferredoxin	white
+pyruvate-ferredoxin/flavodoxin oxidoreductase	1.2.7.1	Reduced ferredoxin	CoA	white
+pyruvate-ferredoxin/flavodoxin oxidoreductase	1.2.7.1	Reduced ferredoxin	Oxidized ferredoxin	white
+pyruvate-ferredoxin/flavodoxin oxidoreductase	1.2.7.1	Reduced ferredoxin	Pyruvate	white
+succinate dehydrogenase cytochrome b subunit	2.7.4.1	Fumarate	Quinone	green
+succinate dehydrogenase cytochrome b subunit	2.7.4.1	Fumarate	Succinate	green
+succinate dehydrogenase cytochrome b subunit	2.7.4.1	Hydroquinone	Quinone	green
+succinate dehydrogenase cytochrome b subunit	2.7.4.1	Hydroquinone	Succinate	green
+succinate dehydrogenase cytochrome b subunit	2.7.4.1	Quinone	Fumarate	green
+succinate dehydrogenase cytochrome b subunit	2.7.4.1	Quinone	Hydroquinone	green
+succinate dehydrogenase cytochrome b subunit	2.7.4.1	Succinate	Fumarate	green
+succinate dehydrogenase cytochrome b subunit	2.7.4.1	Succinate	Hydroquinone	green
+succinate dehydrogenase flavoprotein subunit	1.3.5.1	Fumarate	Quinone	green
+succinate dehydrogenase flavoprotein subunit	1.3.5.1	Fumarate	Succinate	green
+succinate dehydrogenase flavoprotein subunit	1.3.5.1	Hydroquinone	Quinone	green
+succinate dehydrogenase flavoprotein subunit	1.3.5.1	Hydroquinone	Succinate	green
+succinate dehydrogenase flavoprotein subunit	1.3.5.1	Quinone	Fumarate	green
+succinate dehydrogenase flavoprotein subunit	1.3.5.1	Quinone	Hydroquinone	green
+succinate dehydrogenase flavoprotein subunit	1.3.5.1	Succinate	Fumarate	green
+succinate dehydrogenase flavoprotein subunit	1.3.5.1	Succinate	Hydroquinone	green
+succinate dehydrogenase iron-sulfur subunit	1.3.5.1	Fumarate	Quinone	green
+succinate dehydrogenase iron-sulfur subunit	1.3.5.1	Fumarate	Succinate	green
+succinate dehydrogenase iron-sulfur subunit	1.3.5.1	Hydroquinone	Quinone	green
+succinate dehydrogenase iron-sulfur subunit	1.3.5.1	Hydroquinone	Succinate	green
+succinate dehydrogenase iron-sulfur subunit	1.3.5.1	Quinone	Fumarate	green
+succinate dehydrogenase iron-sulfur subunit	1.3.5.1	Quinone	Hydroquinone	green
+succinate dehydrogenase iron-sulfur subunit	1.3.5.1	Succinate	Fumarate	green
+succinate dehydrogenase iron-sulfur subunit	1.3.5.1	Succinate	Hydroquinone	green
+succinate dehydrogenase membrane anchor subunit	2.7.4.1	Fumarate	Quinone	green
+succinate dehydrogenase membrane anchor subunit	2.7.4.1	Fumarate	Succinate	green
+succinate dehydrogenase membrane anchor subunit	2.7.4.1	Hydroquinone	Quinone	green
+succinate dehydrogenase membrane anchor subunit	2.7.4.1	Hydroquinone	Succinate	green
+succinate dehydrogenase membrane anchor subunit	2.7.4.1	Quinone	Fumarate	green
+succinate dehydrogenase membrane anchor subunit	2.7.4.1	Quinone	Hydroquinone	green
+succinate dehydrogenase membrane anchor subunit	2.7.4.1	Succinate	Fumarate	green
+succinate dehydrogenase membrane anchor subunit	2.7.4.1	Succinate	Hydroquinone	green
+succinate-semialdehyde dehydrogenase	1.2.1.24	H+	H2O	white
+succinate-semialdehyde dehydrogenase	1.2.1.24	H+	NAD+	white
+succinate-semialdehyde dehydrogenase	1.2.1.24	H+	Succinate semialdehyde	white
+succinate-semialdehyde dehydrogenase	1.2.1.24	H2O	H+	white
+succinate-semialdehyde dehydrogenase	1.2.1.24	H2O	NADH	white
+succinate-semialdehyde dehydrogenase	1.2.1.24	H2O	Succinate	white
+succinate-semialdehyde dehydrogenase	1.2.1.24	NAD+	H+	white
+succinate-semialdehyde dehydrogenase	1.2.1.24	NAD+	NADH	white
+succinate-semialdehyde dehydrogenase	1.2.1.24	NAD+	Succinate	white
+succinate-semialdehyde dehydrogenase	1.2.1.24	NADH	H2O	white
+succinate-semialdehyde dehydrogenase	1.2.1.24	NADH	NAD+	white
+succinate-semialdehyde dehydrogenase	1.2.1.24	NADH	Succinate semialdehyde	white
+succinate-semialdehyde dehydrogenase	1.2.1.24	Succinate	H2O	white
+succinate-semialdehyde dehydrogenase	1.2.1.24	Succinate	NAD+	white
+succinate-semialdehyde dehydrogenase	1.2.1.24	Succinate	Succinate semialdehyde	white
+succinate-semialdehyde dehydrogenase	1.2.1.24	Succinate semialdehyde	H+	white
+succinate-semialdehyde dehydrogenase	1.2.1.24	Succinate semialdehyde	NADH	white
+succinate-semialdehyde dehydrogenase	1.2.1.24	Succinate semialdehyde	Succinate	white
+succinate-semialdehyde dehydrogenase / glutarate-semialdehyde dehydrogenase	1.2.1.16	H2O	H+	green
+succinate-semialdehyde dehydrogenase / glutarate-semialdehyde dehydrogenase	1.2.1.16	H2O	NADH	green
+succinate-semialdehyde dehydrogenase / glutarate-semialdehyde dehydrogenase	1.2.1.16	H2O	NADPH	green
+succinate-semialdehyde dehydrogenase / glutarate-semialdehyde dehydrogenase	1.2.1.16	H2O	Succinate	green
+succinate-semialdehyde dehydrogenase / glutarate-semialdehyde dehydrogenase	1.2.1.16	NAD+	H+	green
+succinate-semialdehyde dehydrogenase / glutarate-semialdehyde dehydrogenase	1.2.1.16	NAD+	NADH	green
+succinate-semialdehyde dehydrogenase / glutarate-semialdehyde dehydrogenase	1.2.1.16	NAD+	Succinate	green
+succinate-semialdehyde dehydrogenase / glutarate-semialdehyde dehydrogenase	1.2.1.16	NADP+	H+	green
+succinate-semialdehyde dehydrogenase / glutarate-semialdehyde dehydrogenase	1.2.1.16	NADP+	NADPH	green
+succinate-semialdehyde dehydrogenase / glutarate-semialdehyde dehydrogenase	1.2.1.16	NADP+	Succinate	green
+succinate-semialdehyde dehydrogenase / glutarate-semialdehyde dehydrogenase	1.2.1.16	Succinate semialdehyde	H+	green
+succinate-semialdehyde dehydrogenase / glutarate-semialdehyde dehydrogenase	1.2.1.16	Succinate semialdehyde	NADH	green
+succinate-semialdehyde dehydrogenase / glutarate-semialdehyde dehydrogenase	1.2.1.16	Succinate semialdehyde	NADPH	green
+succinate-semialdehyde dehydrogenase / glutarate-semialdehyde dehydrogenase	1.2.1.16	Succinate semialdehyde	Succinate	green
+succinate-semialdehyde dehydrogenase, mitochondrial	1.2.1.24	H+	H2O	white
+succinate-semialdehyde dehydrogenase, mitochondrial	1.2.1.24	H+	NAD+	white
+succinate-semialdehyde dehydrogenase, mitochondrial	1.2.1.24	H+	Succinate semialdehyde	white
+succinate-semialdehyde dehydrogenase, mitochondrial	1.2.1.24	H2O	H+	white
+succinate-semialdehyde dehydrogenase, mitochondrial	1.2.1.24	H2O	NADH	white
+succinate-semialdehyde dehydrogenase, mitochondrial	1.2.1.24	H2O	Succinate	white
+succinate-semialdehyde dehydrogenase, mitochondrial	1.2.1.24	NAD+	H+	white
+succinate-semialdehyde dehydrogenase, mitochondrial	1.2.1.24	NAD+	NADH	white
+succinate-semialdehyde dehydrogenase, mitochondrial	1.2.1.24	NAD+	Succinate	white
+succinate-semialdehyde dehydrogenase, mitochondrial	1.2.1.24	NADH	H2O	white
+succinate-semialdehyde dehydrogenase, mitochondrial	1.2.1.24	NADH	NAD+	white
+succinate-semialdehyde dehydrogenase, mitochondrial	1.2.1.24	NADH	Succinate semialdehyde	white
+succinate-semialdehyde dehydrogenase, mitochondrial	1.2.1.24	Succinate	H2O	white
+succinate-semialdehyde dehydrogenase, mitochondrial	1.2.1.24	Succinate	NAD+	white
+succinate-semialdehyde dehydrogenase, mitochondrial	1.2.1.24	Succinate	Succinate semialdehyde	white
+succinate-semialdehyde dehydrogenase, mitochondrial	1.2.1.24	Succinate semialdehyde	H+	white
+succinate-semialdehyde dehydrogenase, mitochondrial	1.2.1.24	Succinate semialdehyde	NADH	white
+succinate-semialdehyde dehydrogenase, mitochondrial	1.2.1.24	Succinate semialdehyde	Succinate	white
+succinyl-CoA:acetate CoA-transferase	2.8.3.18	Acetate	Acetyl-CoA	white
+succinyl-CoA:acetate CoA-transferase	2.8.3.18	Acetate	Succinate	white
+succinyl-CoA:acetate CoA-transferase	2.8.3.18	Acetyl-CoA	Acetate	white
+succinyl-CoA:acetate CoA-transferase	2.8.3.18	Acetyl-CoA	Succinyl-CoA	white
+succinyl-CoA:acetate CoA-transferase	2.8.3.18	Succinate	Acetate	white
+succinyl-CoA:acetate CoA-transferase	2.8.3.18	Succinate	Succinyl-CoA	white
+succinyl-CoA:acetate CoA-transferase	2.8.3.18	Succinyl-CoA	Acetyl-CoA	white
+succinyl-CoA:acetate CoA-transferase	2.8.3.18	Succinyl-CoA	Succinate	white
+tartrate dehydrogenase/decarboxylase / D-malate dehydrogenase	1.1.1.93	(R)-Malate	CO2	green
+tartrate dehydrogenase/decarboxylase / D-malate dehydrogenase	1.1.1.93	(R)-Malate	H+	green
+tartrate dehydrogenase/decarboxylase / D-malate dehydrogenase	1.1.1.93	(R)-Malate	NADH	green
+tartrate dehydrogenase/decarboxylase / D-malate dehydrogenase	1.1.1.93	(R)-Malate	Pyruvate	green
+tartrate dehydrogenase/decarboxylase / D-malate dehydrogenase	1.1.1.93	CO2	(R)-Malate	green
+tartrate dehydrogenase/decarboxylase / D-malate dehydrogenase	1.1.1.93	CO2	NAD+	green
+tartrate dehydrogenase/decarboxylase / D-malate dehydrogenase	1.1.1.93	H+	(R)-Malate	green
+tartrate dehydrogenase/decarboxylase / D-malate dehydrogenase	1.1.1.93	H+	NAD+	green
+tartrate dehydrogenase/decarboxylase / D-malate dehydrogenase	1.1.1.93	NAD+	CO2	green
+tartrate dehydrogenase/decarboxylase / D-malate dehydrogenase	1.1.1.93	NAD+	H+	green
+tartrate dehydrogenase/decarboxylase / D-malate dehydrogenase	1.1.1.93	NAD+	NADH	green
+tartrate dehydrogenase/decarboxylase / D-malate dehydrogenase	1.1.1.93	NAD+	Pyruvate	green
+tartrate dehydrogenase/decarboxylase / D-malate dehydrogenase	1.1.1.93	NADH	(R)-Malate	green
+tartrate dehydrogenase/decarboxylase / D-malate dehydrogenase	1.1.1.93	NADH	NAD+	green
+tartrate dehydrogenase/decarboxylase / D-malate dehydrogenase	1.1.1.93	Pyruvate	(R)-Malate	green
+tartrate dehydrogenase/decarboxylase / D-malate dehydrogenase	1.1.1.93	Pyruvate	NAD+	green

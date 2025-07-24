@@ -1,0 +1,520 @@
+enzyme_name	EC	source	target	color
+2-beta-glucuronyltransferase	2.4.1.264	D-GlcA-beta-(1->2)-D-Man-alpha-(1->3)-D-Glc-beta-(1->4)-D-Glc-alpha-1-diphospho-ditrans,octacis-undecaprenol	D-Man-alpha-(1->3)-D-Glc-beta-(1->4)-D-Glc-alpha-1-diphospho-ditrans,octacis-undecaprenol	white
+2-beta-glucuronyltransferase	2.4.1.264	D-GlcA-beta-(1->2)-D-Man-alpha-(1->3)-D-Glc-beta-(1->4)-D-Glc-alpha-1-diphospho-ditrans,octacis-undecaprenol	UDP-glucuronate	white
+2-beta-glucuronyltransferase	2.4.1.264	D-Man-alpha-(1->3)-D-Glc-beta-(1->4)-D-Glc-alpha-1-diphospho-ditrans,octacis-undecaprenol	D-GlcA-beta-(1->2)-D-Man-alpha-(1->3)-D-Glc-beta-(1->4)-D-Glc-alpha-1-diphospho-ditrans,octacis-undecaprenol	white
+2-beta-glucuronyltransferase	2.4.1.264	D-Man-alpha-(1->3)-D-Glc-beta-(1->4)-D-Glc-alpha-1-diphospho-ditrans,octacis-undecaprenol	UDP	white
+2-beta-glucuronyltransferase	2.4.1.264	UDP	D-Man-alpha-(1->3)-D-Glc-beta-(1->4)-D-Glc-alpha-1-diphospho-ditrans,octacis-undecaprenol	white
+2-beta-glucuronyltransferase	2.4.1.264	UDP	UDP-glucuronate	white
+2-beta-glucuronyltransferase	2.4.1.264	UDP-glucuronate	D-GlcA-beta-(1->2)-D-Man-alpha-(1->3)-D-Glc-beta-(1->4)-D-Glc-alpha-1-diphospho-ditrans,octacis-undecaprenol	white
+2-beta-glucuronyltransferase	2.4.1.264	UDP-glucuronate	UDP	white
+UDP-N-acetyl-D-mannosaminouronate:lipid I N-acetyl-D-mannosaminouronosyltransferase	2.4.1.180	D-GlcA-beta-(1->2)-D-Man-alpha-(1->3)-D-Glc-beta-(1->4)-D-Glc-alpha-1-diphospho-ditrans,octacis-undecaprenol	D-Man-beta-(1->4)-GlcA-beta-(1->2)-D-Man-alpha-(1->3)-D-Glc-beta-(1->4)-D-Glc-alpha-1-diphospho-ditrans,octacis-undecaprenol	white
+UDP-N-acetyl-D-mannosaminouronate:lipid I N-acetyl-D-mannosaminouronosyltransferase	2.4.1.180	D-GlcA-beta-(1->2)-D-Man-alpha-(1->3)-D-Glc-beta-(1->4)-D-Glc-alpha-1-diphospho-ditrans,octacis-undecaprenol	GDP	white
+UDP-N-acetyl-D-mannosaminouronate:lipid I N-acetyl-D-mannosaminouronosyltransferase	2.4.1.180	D-Man-beta-(1->4)-GlcA-beta-(1->2)-D-Man-alpha-(1->3)-D-Glc-beta-(1->4)-D-Glc-alpha-1-diphospho-ditrans,octacis-undecaprenol	D-GlcA-beta-(1->2)-D-Man-alpha-(1->3)-D-Glc-beta-(1->4)-D-Glc-alpha-1-diphospho-ditrans,octacis-undecaprenol	white
+UDP-N-acetyl-D-mannosaminouronate:lipid I N-acetyl-D-mannosaminouronosyltransferase	2.4.1.180	D-Man-beta-(1->4)-GlcA-beta-(1->2)-D-Man-alpha-(1->3)-D-Glc-beta-(1->4)-D-Glc-alpha-1-diphospho-ditrans,octacis-undecaprenol	GDP-mannose	white
+UDP-N-acetyl-D-mannosaminouronate:lipid I N-acetyl-D-mannosaminouronosyltransferase	2.4.1.180	GDP	D-GlcA-beta-(1->2)-D-Man-alpha-(1->3)-D-Glc-beta-(1->4)-D-Glc-alpha-1-diphospho-ditrans,octacis-undecaprenol	white
+UDP-N-acetyl-D-mannosaminouronate:lipid I N-acetyl-D-mannosaminouronosyltransferase	2.4.1.180	GDP	GDP-mannose	white
+UDP-N-acetyl-D-mannosaminouronate:lipid I N-acetyl-D-mannosaminouronosyltransferase	2.4.1.180	GDP-mannose	D-Man-beta-(1->4)-GlcA-beta-(1->2)-D-Man-alpha-(1->3)-D-Glc-beta-(1->4)-D-Glc-alpha-1-diphospho-ditrans,octacis-undecaprenol	white
+UDP-N-acetyl-D-mannosaminouronate:lipid I N-acetyl-D-mannosaminouronosyltransferase	2.4.1.180	GDP-mannose	GDP	white
+UDP-galactose-lipid carrier transferase	2.5.1.98	4-Acetamido-4,6-dideoxy-alpha-D-galactosyl-(1->4)-N-acetyl-beta-D-mannosaminuronosyl-(1->4)-N-acetyl-alpha-D-glucosaminyl-diphospho-ditrans,octacis-undecaprenol	N-Acetyl-beta-D-mannosaminuronosyl-(1->4)-N-acetyl-alpha-D-glucosaminyl-diphospho-ditrans,octacis-undecaprenol	white
+UDP-galactose-lipid carrier transferase	2.5.1.98	4-Acetamido-4,6-dideoxy-alpha-D-galactosyl-(1->4)-N-acetyl-beta-D-mannosaminuronosyl-(1->4)-N-acetyl-alpha-D-glucosaminyl-diphospho-ditrans,octacis-undecaprenol	dTDP-4-acetamido-4,6-dideoxy-alpha-D-galactose	white
+UDP-galactose-lipid carrier transferase	2.5.1.98	N-Acetyl-beta-D-mannosaminuronosyl-(1->4)-N-acetyl-alpha-D-glucosaminyl-diphospho-ditrans,octacis-undecaprenol	4-Acetamido-4,6-dideoxy-alpha-D-galactosyl-(1->4)-N-acetyl-beta-D-mannosaminuronosyl-(1->4)-N-acetyl-alpha-D-glucosaminyl-diphospho-ditrans,octacis-undecaprenol	white
+UDP-galactose-lipid carrier transferase	2.5.1.98	N-Acetyl-beta-D-mannosaminuronosyl-(1->4)-N-acetyl-alpha-D-glucosaminyl-diphospho-ditrans,octacis-undecaprenol	dTDP	white
+UDP-galactose-lipid carrier transferase	2.5.1.98	dTDP	N-Acetyl-beta-D-mannosaminuronosyl-(1->4)-N-acetyl-alpha-D-glucosaminyl-diphospho-ditrans,octacis-undecaprenol	white
+UDP-galactose-lipid carrier transferase	2.5.1.98	dTDP	dTDP-4-acetamido-4,6-dideoxy-alpha-D-galactose	white
+UDP-galactose-lipid carrier transferase	2.5.1.98	dTDP-4-acetamido-4,6-dideoxy-alpha-D-galactose	4-Acetamido-4,6-dideoxy-alpha-D-galactosyl-(1->4)-N-acetyl-beta-D-mannosaminuronosyl-(1->4)-N-acetyl-alpha-D-glucosaminyl-diphospho-ditrans,octacis-undecaprenol	white
+UDP-galactose-lipid carrier transferase	2.5.1.98	dTDP-4-acetamido-4,6-dideoxy-alpha-D-galactose	dTDP	white
+acidic exopolysaccharide biosynthesis protein PssA	2.4.1.-	4-Acetamido-4,6-dideoxy-alpha-D-galactosyl-(1->4)-N-acetyl-beta-D-mannosaminuronosyl-(1->4)-N-acetyl-alpha-D-glucosaminyl-diphospho-ditrans,octacis-undecaprenol	N-Acetyl-beta-D-mannosaminuronosyl-(1->4)-N-acetyl-alpha-D-glucosaminyl-diphospho-ditrans,octacis-undecaprenol	white
+acidic exopolysaccharide biosynthesis protein PssA	2.4.1.-	4-Acetamido-4,6-dideoxy-alpha-D-galactosyl-(1->4)-N-acetyl-beta-D-mannosaminuronosyl-(1->4)-N-acetyl-alpha-D-glucosaminyl-diphospho-ditrans,octacis-undecaprenol	dTDP-4-acetamido-4,6-dideoxy-alpha-D-galactose	white
+acidic exopolysaccharide biosynthesis protein PssA	2.4.1.-	N-Acetyl-beta-D-mannosaminuronosyl-(1->4)-N-acetyl-alpha-D-glucosaminyl-diphospho-ditrans,octacis-undecaprenol	4-Acetamido-4,6-dideoxy-alpha-D-galactosyl-(1->4)-N-acetyl-beta-D-mannosaminuronosyl-(1->4)-N-acetyl-alpha-D-glucosaminyl-diphospho-ditrans,octacis-undecaprenol	white
+acidic exopolysaccharide biosynthesis protein PssA	2.4.1.-	N-Acetyl-beta-D-mannosaminuronosyl-(1->4)-N-acetyl-alpha-D-glucosaminyl-diphospho-ditrans,octacis-undecaprenol	dTDP	white
+acidic exopolysaccharide biosynthesis protein PssA	2.4.1.-	dTDP	N-Acetyl-beta-D-mannosaminuronosyl-(1->4)-N-acetyl-alpha-D-glucosaminyl-diphospho-ditrans,octacis-undecaprenol	white
+acidic exopolysaccharide biosynthesis protein PssA	2.4.1.-	dTDP	dTDP-4-acetamido-4,6-dideoxy-alpha-D-galactose	white
+acidic exopolysaccharide biosynthesis protein PssA	2.4.1.-	dTDP-4-acetamido-4,6-dideoxy-alpha-D-galactose	4-Acetamido-4,6-dideoxy-alpha-D-galactosyl-(1->4)-N-acetyl-beta-D-mannosaminuronosyl-(1->4)-N-acetyl-alpha-D-glucosaminyl-diphospho-ditrans,octacis-undecaprenol	white
+acidic exopolysaccharide biosynthesis protein PssA	2.4.1.-	dTDP-4-acetamido-4,6-dideoxy-alpha-D-galactose	dTDP	white
+acyltransferase	2.3.1.-	D-GlcA-beta-(1->2)-D-Man-alpha-(1->3)-D-Glc-beta-(1->4)-D-Glc-alpha-1-diphospho-ditrans,octacis-undecaprenol	D-Man-beta-(1->4)-GlcA-beta-(1->2)-D-Man-alpha-(1->3)-D-Glc-beta-(1->4)-D-Glc-alpha-1-diphospho-ditrans,octacis-undecaprenol	white
+acyltransferase	2.3.1.-	D-GlcA-beta-(1->2)-D-Man-alpha-(1->3)-D-Glc-beta-(1->4)-D-Glc-alpha-1-diphospho-ditrans,octacis-undecaprenol	GDP	white
+acyltransferase	2.3.1.-	D-Man-beta-(1->4)-GlcA-beta-(1->2)-D-Man-alpha-(1->3)-D-Glc-beta-(1->4)-D-Glc-alpha-1-diphospho-ditrans,octacis-undecaprenol	D-GlcA-beta-(1->2)-D-Man-alpha-(1->3)-D-Glc-beta-(1->4)-D-Glc-alpha-1-diphospho-ditrans,octacis-undecaprenol	white
+acyltransferase	2.3.1.-	D-Man-beta-(1->4)-GlcA-beta-(1->2)-D-Man-alpha-(1->3)-D-Glc-beta-(1->4)-D-Glc-alpha-1-diphospho-ditrans,octacis-undecaprenol	GDP-mannose	white
+acyltransferase	2.3.1.-	GDP	D-GlcA-beta-(1->2)-D-Man-alpha-(1->3)-D-Glc-beta-(1->4)-D-Glc-alpha-1-diphospho-ditrans,octacis-undecaprenol	white
+acyltransferase	2.3.1.-	GDP	GDP-mannose	white
+acyltransferase	2.3.1.-	GDP-mannose	D-Man-beta-(1->4)-GlcA-beta-(1->2)-D-Man-alpha-(1->3)-D-Glc-beta-(1->4)-D-Glc-alpha-1-diphospho-ditrans,octacis-undecaprenol	white
+acyltransferase	2.3.1.-	GDP-mannose	GDP	white
+alginate O-acetyltransferase complex protein AlgF	2.4.1.-	N-Acetyl-D-glucosaminyldiphosphoundecaprenol	UDP-N-acetyl-alpha-D-glucosamine	white
+alginate O-acetyltransferase complex protein AlgF	2.4.1.-	N-Acetyl-D-glucosaminyldiphosphoundecaprenol	di-trans,poly-cis-Undecaprenyl phosphate	white
+alginate O-acetyltransferase complex protein AlgF	2.4.1.-	UDP-N-acetyl-alpha-D-glucosamine	N-Acetyl-D-glucosaminyldiphosphoundecaprenol	white
+alginate O-acetyltransferase complex protein AlgF	2.4.1.-	UDP-N-acetyl-alpha-D-glucosamine	UMP	white
+alginate O-acetyltransferase complex protein AlgF	2.4.1.-	UMP	UDP-N-acetyl-alpha-D-glucosamine	white
+alginate O-acetyltransferase complex protein AlgF	2.4.1.-	UMP	di-trans,poly-cis-Undecaprenyl phosphate	white
+alginate O-acetyltransferase complex protein AlgF	2.4.1.-	di-trans,poly-cis-Undecaprenyl phosphate	N-Acetyl-D-glucosaminyldiphosphoundecaprenol	white
+alginate O-acetyltransferase complex protein AlgF	2.4.1.-	di-trans,poly-cis-Undecaprenyl phosphate	UMP	white
+alginate O-acetyltransferase complex protein AlgI	2.4.1.-	N-Acetyl-D-glucosaminyldiphosphoundecaprenol	UDP-N-acetyl-alpha-D-glucosamine	white
+alginate O-acetyltransferase complex protein AlgI	2.4.1.-	N-Acetyl-D-glucosaminyldiphosphoundecaprenol	di-trans,poly-cis-Undecaprenyl phosphate	white
+alginate O-acetyltransferase complex protein AlgI	2.4.1.-	UDP-N-acetyl-alpha-D-glucosamine	N-Acetyl-D-glucosaminyldiphosphoundecaprenol	white
+alginate O-acetyltransferase complex protein AlgI	2.4.1.-	UDP-N-acetyl-alpha-D-glucosamine	UMP	white
+alginate O-acetyltransferase complex protein AlgI	2.4.1.-	UMP	UDP-N-acetyl-alpha-D-glucosamine	white
+alginate O-acetyltransferase complex protein AlgI	2.4.1.-	UMP	di-trans,poly-cis-Undecaprenyl phosphate	white
+alginate O-acetyltransferase complex protein AlgI	2.4.1.-	di-trans,poly-cis-Undecaprenyl phosphate	N-Acetyl-D-glucosaminyldiphosphoundecaprenol	white
+alginate O-acetyltransferase complex protein AlgI	2.4.1.-	di-trans,poly-cis-Undecaprenyl phosphate	UMP	white
+alginate O-acetyltransferase complex protein AlgJ	2.4.1.-	N-Acetyl-D-glucosaminyldiphosphoundecaprenol	UDP-N-acetyl-alpha-D-glucosamine	white
+alginate O-acetyltransferase complex protein AlgJ	2.4.1.-	N-Acetyl-D-glucosaminyldiphosphoundecaprenol	di-trans,poly-cis-Undecaprenyl phosphate	white
+alginate O-acetyltransferase complex protein AlgJ	2.4.1.-	UDP-N-acetyl-alpha-D-glucosamine	N-Acetyl-D-glucosaminyldiphosphoundecaprenol	white
+alginate O-acetyltransferase complex protein AlgJ	2.4.1.-	UDP-N-acetyl-alpha-D-glucosamine	UMP	white
+alginate O-acetyltransferase complex protein AlgJ	2.4.1.-	UMP	UDP-N-acetyl-alpha-D-glucosamine	white
+alginate O-acetyltransferase complex protein AlgJ	2.4.1.-	UMP	di-trans,poly-cis-Undecaprenyl phosphate	white
+alginate O-acetyltransferase complex protein AlgJ	2.4.1.-	di-trans,poly-cis-Undecaprenyl phosphate	N-Acetyl-D-glucosaminyldiphosphoundecaprenol	white
+alginate O-acetyltransferase complex protein AlgJ	2.4.1.-	di-trans,poly-cis-Undecaprenyl phosphate	UMP	white
+alginate biosynthesis protein AlgX	2.4.1.-	N-Acetyl-D-glucosaminyldiphosphoundecaprenol	UDP-N-acetyl-alpha-D-glucosamine	white
+alginate biosynthesis protein AlgX	2.4.1.-	N-Acetyl-D-glucosaminyldiphosphoundecaprenol	di-trans,poly-cis-Undecaprenyl phosphate	white
+alginate biosynthesis protein AlgX	2.4.1.-	UDP-N-acetyl-alpha-D-glucosamine	N-Acetyl-D-glucosaminyldiphosphoundecaprenol	white
+alginate biosynthesis protein AlgX	2.4.1.-	UDP-N-acetyl-alpha-D-glucosamine	UMP	white
+alginate biosynthesis protein AlgX	2.4.1.-	UMP	UDP-N-acetyl-alpha-D-glucosamine	white
+alginate biosynthesis protein AlgX	2.4.1.-	UMP	di-trans,poly-cis-Undecaprenyl phosphate	white
+alginate biosynthesis protein AlgX	2.4.1.-	di-trans,poly-cis-Undecaprenyl phosphate	N-Acetyl-D-glucosaminyldiphosphoundecaprenol	white
+alginate biosynthesis protein AlgX	2.4.1.-	di-trans,poly-cis-Undecaprenyl phosphate	UMP	white
+alpha-1,3-mannosyltransferase	2.4.1.252	D-Glc-beta-(1->4)-Glc-alpha-1-diphospho-ditrans,octacis-undecaprenol	D-Man-alpha-(1->3)-D-Glc-beta-(1->4)-D-Glc-alpha-1-diphospho-ditrans,octacis-undecaprenol	white
+alpha-1,3-mannosyltransferase	2.4.1.252	D-Glc-beta-(1->4)-Glc-alpha-1-diphospho-ditrans,octacis-undecaprenol	GDP	white
+alpha-1,3-mannosyltransferase	2.4.1.252	D-Man-alpha-(1->3)-D-Glc-beta-(1->4)-D-Glc-alpha-1-diphospho-ditrans,octacis-undecaprenol	D-Glc-beta-(1->4)-Glc-alpha-1-diphospho-ditrans,octacis-undecaprenol	white
+alpha-1,3-mannosyltransferase	2.4.1.252	D-Man-alpha-(1->3)-D-Glc-beta-(1->4)-D-Glc-alpha-1-diphospho-ditrans,octacis-undecaprenol	GDP-mannose	white
+alpha-1,3-mannosyltransferase	2.4.1.252	GDP	D-Glc-beta-(1->4)-Glc-alpha-1-diphospho-ditrans,octacis-undecaprenol	white
+alpha-1,3-mannosyltransferase	2.4.1.252	GDP	GDP-mannose	white
+alpha-1,3-mannosyltransferase	2.4.1.252	GDP-mannose	D-Man-alpha-(1->3)-D-Glc-beta-(1->4)-D-Glc-alpha-1-diphospho-ditrans,octacis-undecaprenol	white
+alpha-1,3-mannosyltransferase	2.4.1.252	GDP-mannose	GDP	white
+amylovoran biosynthesis glycosyltransferase AmsD	2.4.-.-	4-Acetamido-4,6-dideoxy-alpha-D-galactosyl-(1->4)-N-acetyl-beta-D-mannosaminuronosyl-(1->4)-N-acetyl-alpha-D-glucosaminyl-diphospho-ditrans,octacis-undecaprenol	N-Acetyl-beta-D-mannosaminuronosyl-(1->4)-N-acetyl-alpha-D-glucosaminyl-diphospho-ditrans,octacis-undecaprenol	white
+amylovoran biosynthesis glycosyltransferase AmsD	2.4.-.-	4-Acetamido-4,6-dideoxy-alpha-D-galactosyl-(1->4)-N-acetyl-beta-D-mannosaminuronosyl-(1->4)-N-acetyl-alpha-D-glucosaminyl-diphospho-ditrans,octacis-undecaprenol	dTDP-4-acetamido-4,6-dideoxy-alpha-D-galactose	white
+amylovoran biosynthesis glycosyltransferase AmsD	2.4.-.-	N-Acetyl-beta-D-mannosaminuronosyl-(1->4)-N-acetyl-alpha-D-glucosaminyl-diphospho-ditrans,octacis-undecaprenol	4-Acetamido-4,6-dideoxy-alpha-D-galactosyl-(1->4)-N-acetyl-beta-D-mannosaminuronosyl-(1->4)-N-acetyl-alpha-D-glucosaminyl-diphospho-ditrans,octacis-undecaprenol	white
+amylovoran biosynthesis glycosyltransferase AmsD	2.4.-.-	N-Acetyl-beta-D-mannosaminuronosyl-(1->4)-N-acetyl-alpha-D-glucosaminyl-diphospho-ditrans,octacis-undecaprenol	dTDP	white
+amylovoran biosynthesis glycosyltransferase AmsD	2.4.-.-	dTDP	N-Acetyl-beta-D-mannosaminuronosyl-(1->4)-N-acetyl-alpha-D-glucosaminyl-diphospho-ditrans,octacis-undecaprenol	white
+amylovoran biosynthesis glycosyltransferase AmsD	2.4.-.-	dTDP	dTDP-4-acetamido-4,6-dideoxy-alpha-D-galactose	white
+amylovoran biosynthesis glycosyltransferase AmsD	2.4.-.-	dTDP-4-acetamido-4,6-dideoxy-alpha-D-galactose	4-Acetamido-4,6-dideoxy-alpha-D-galactosyl-(1->4)-N-acetyl-beta-D-mannosaminuronosyl-(1->4)-N-acetyl-alpha-D-glucosaminyl-diphospho-ditrans,octacis-undecaprenol	white
+amylovoran biosynthesis glycosyltransferase AmsD	2.4.-.-	dTDP-4-acetamido-4,6-dideoxy-alpha-D-galactose	dTDP	white
+amylovoran biosynthesis glycosyltransferase AmsE	2.4.-.-	4-Acetamido-4,6-dideoxy-alpha-D-galactosyl-(1->4)-N-acetyl-beta-D-mannosaminuronosyl-(1->4)-N-acetyl-alpha-D-glucosaminyl-diphospho-ditrans,octacis-undecaprenol	N-Acetyl-beta-D-mannosaminuronosyl-(1->4)-N-acetyl-alpha-D-glucosaminyl-diphospho-ditrans,octacis-undecaprenol	white
+amylovoran biosynthesis glycosyltransferase AmsE	2.4.-.-	4-Acetamido-4,6-dideoxy-alpha-D-galactosyl-(1->4)-N-acetyl-beta-D-mannosaminuronosyl-(1->4)-N-acetyl-alpha-D-glucosaminyl-diphospho-ditrans,octacis-undecaprenol	dTDP-4-acetamido-4,6-dideoxy-alpha-D-galactose	white
+amylovoran biosynthesis glycosyltransferase AmsE	2.4.-.-	N-Acetyl-beta-D-mannosaminuronosyl-(1->4)-N-acetyl-alpha-D-glucosaminyl-diphospho-ditrans,octacis-undecaprenol	4-Acetamido-4,6-dideoxy-alpha-D-galactosyl-(1->4)-N-acetyl-beta-D-mannosaminuronosyl-(1->4)-N-acetyl-alpha-D-glucosaminyl-diphospho-ditrans,octacis-undecaprenol	white
+amylovoran biosynthesis glycosyltransferase AmsE	2.4.-.-	N-Acetyl-beta-D-mannosaminuronosyl-(1->4)-N-acetyl-alpha-D-glucosaminyl-diphospho-ditrans,octacis-undecaprenol	dTDP	white
+amylovoran biosynthesis glycosyltransferase AmsE	2.4.-.-	dTDP	N-Acetyl-beta-D-mannosaminuronosyl-(1->4)-N-acetyl-alpha-D-glucosaminyl-diphospho-ditrans,octacis-undecaprenol	white
+amylovoran biosynthesis glycosyltransferase AmsE	2.4.-.-	dTDP	dTDP-4-acetamido-4,6-dideoxy-alpha-D-galactose	white
+amylovoran biosynthesis glycosyltransferase AmsE	2.4.-.-	dTDP-4-acetamido-4,6-dideoxy-alpha-D-galactose	4-Acetamido-4,6-dideoxy-alpha-D-galactosyl-(1->4)-N-acetyl-beta-D-mannosaminuronosyl-(1->4)-N-acetyl-alpha-D-glucosaminyl-diphospho-ditrans,octacis-undecaprenol	white
+amylovoran biosynthesis glycosyltransferase AmsE	2.4.-.-	dTDP-4-acetamido-4,6-dideoxy-alpha-D-galactose	dTDP	white
+amylovoran/stewartan biosynthesis glycosyltransferase AmsB/CpsE	2.4.-.-	4-Acetamido-4,6-dideoxy-alpha-D-galactosyl-(1->4)-N-acetyl-beta-D-mannosaminuronosyl-(1->4)-N-acetyl-alpha-D-glucosaminyl-diphospho-ditrans,octacis-undecaprenol	N-Acetyl-beta-D-mannosaminuronosyl-(1->4)-N-acetyl-alpha-D-glucosaminyl-diphospho-ditrans,octacis-undecaprenol	white
+amylovoran/stewartan biosynthesis glycosyltransferase AmsB/CpsE	2.4.-.-	4-Acetamido-4,6-dideoxy-alpha-D-galactosyl-(1->4)-N-acetyl-beta-D-mannosaminuronosyl-(1->4)-N-acetyl-alpha-D-glucosaminyl-diphospho-ditrans,octacis-undecaprenol	dTDP-4-acetamido-4,6-dideoxy-alpha-D-galactose	white
+amylovoran/stewartan biosynthesis glycosyltransferase AmsB/CpsE	2.4.-.-	N-Acetyl-beta-D-mannosaminuronosyl-(1->4)-N-acetyl-alpha-D-glucosaminyl-diphospho-ditrans,octacis-undecaprenol	4-Acetamido-4,6-dideoxy-alpha-D-galactosyl-(1->4)-N-acetyl-beta-D-mannosaminuronosyl-(1->4)-N-acetyl-alpha-D-glucosaminyl-diphospho-ditrans,octacis-undecaprenol	white
+amylovoran/stewartan biosynthesis glycosyltransferase AmsB/CpsE	2.4.-.-	N-Acetyl-beta-D-mannosaminuronosyl-(1->4)-N-acetyl-alpha-D-glucosaminyl-diphospho-ditrans,octacis-undecaprenol	dTDP	white
+amylovoran/stewartan biosynthesis glycosyltransferase AmsB/CpsE	2.4.-.-	dTDP	N-Acetyl-beta-D-mannosaminuronosyl-(1->4)-N-acetyl-alpha-D-glucosaminyl-diphospho-ditrans,octacis-undecaprenol	white
+amylovoran/stewartan biosynthesis glycosyltransferase AmsB/CpsE	2.4.-.-	dTDP	dTDP-4-acetamido-4,6-dideoxy-alpha-D-galactose	white
+amylovoran/stewartan biosynthesis glycosyltransferase AmsB/CpsE	2.4.-.-	dTDP-4-acetamido-4,6-dideoxy-alpha-D-galactose	4-Acetamido-4,6-dideoxy-alpha-D-galactosyl-(1->4)-N-acetyl-beta-D-mannosaminuronosyl-(1->4)-N-acetyl-alpha-D-glucosaminyl-diphospho-ditrans,octacis-undecaprenol	white
+amylovoran/stewartan biosynthesis glycosyltransferase AmsB/CpsE	2.4.-.-	dTDP-4-acetamido-4,6-dideoxy-alpha-D-galactose	dTDP	white
+beta-1,4-glucosyltransferase	2.4.1.-	N-Acetyl-D-glucosaminyldiphosphoundecaprenol	UDP-N-acetyl-alpha-D-glucosamine	white
+beta-1,4-glucosyltransferase	2.4.1.-	N-Acetyl-D-glucosaminyldiphosphoundecaprenol	di-trans,poly-cis-Undecaprenyl phosphate	white
+beta-1,4-glucosyltransferase	2.4.1.-	UDP-N-acetyl-alpha-D-glucosamine	N-Acetyl-D-glucosaminyldiphosphoundecaprenol	white
+beta-1,4-glucosyltransferase	2.4.1.-	UDP-N-acetyl-alpha-D-glucosamine	UMP	white
+beta-1,4-glucosyltransferase	2.4.1.-	UMP	UDP-N-acetyl-alpha-D-glucosamine	white
+beta-1,4-glucosyltransferase	2.4.1.-	UMP	di-trans,poly-cis-Undecaprenyl phosphate	white
+beta-1,4-glucosyltransferase	2.4.1.-	di-trans,poly-cis-Undecaprenyl phosphate	N-Acetyl-D-glucosaminyldiphosphoundecaprenol	white
+beta-1,4-glucosyltransferase	2.4.1.-	di-trans,poly-cis-Undecaprenyl phosphate	UMP	white
+beta-1,4-mannosyltransferase	2.4.1.251	D-GlcA-beta-(1->2)-D-Man-alpha-(1->3)-D-Glc-beta-(1->4)-D-Glc-alpha-1-diphospho-ditrans,octacis-undecaprenol	D-Man-beta-(1->4)-GlcA-beta-(1->2)-D-Man-alpha-(1->3)-D-Glc-beta-(1->4)-D-Glc-alpha-1-diphospho-ditrans,octacis-undecaprenol	white
+beta-1,4-mannosyltransferase	2.4.1.251	D-GlcA-beta-(1->2)-D-Man-alpha-(1->3)-D-Glc-beta-(1->4)-D-Glc-alpha-1-diphospho-ditrans,octacis-undecaprenol	GDP	white
+beta-1,4-mannosyltransferase	2.4.1.251	D-Man-beta-(1->4)-GlcA-beta-(1->2)-D-Man-alpha-(1->3)-D-Glc-beta-(1->4)-D-Glc-alpha-1-diphospho-ditrans,octacis-undecaprenol	D-GlcA-beta-(1->2)-D-Man-alpha-(1->3)-D-Glc-beta-(1->4)-D-Glc-alpha-1-diphospho-ditrans,octacis-undecaprenol	white
+beta-1,4-mannosyltransferase	2.4.1.251	D-Man-beta-(1->4)-GlcA-beta-(1->2)-D-Man-alpha-(1->3)-D-Glc-beta-(1->4)-D-Glc-alpha-1-diphospho-ditrans,octacis-undecaprenol	GDP-mannose	white
+beta-1,4-mannosyltransferase	2.4.1.251	GDP	D-GlcA-beta-(1->2)-D-Man-alpha-(1->3)-D-Glc-beta-(1->4)-D-Glc-alpha-1-diphospho-ditrans,octacis-undecaprenol	white
+beta-1,4-mannosyltransferase	2.4.1.251	GDP	GDP-mannose	white
+beta-1,4-mannosyltransferase	2.4.1.251	GDP-mannose	D-Man-beta-(1->4)-GlcA-beta-(1->2)-D-Man-alpha-(1->3)-D-Glc-beta-(1->4)-D-Glc-alpha-1-diphospho-ditrans,octacis-undecaprenol	white
+beta-1,4-mannosyltransferase	2.4.1.251	GDP-mannose	GDP	white
+beta-1,6-glucosyltransferase	2.4.1.264	D-GlcA-beta-(1->2)-D-Man-alpha-(1->3)-D-Glc-beta-(1->4)-D-Glc-alpha-1-diphospho-ditrans,octacis-undecaprenol	D-Man-alpha-(1->3)-D-Glc-beta-(1->4)-D-Glc-alpha-1-diphospho-ditrans,octacis-undecaprenol	white
+beta-1,6-glucosyltransferase	2.4.1.264	D-GlcA-beta-(1->2)-D-Man-alpha-(1->3)-D-Glc-beta-(1->4)-D-Glc-alpha-1-diphospho-ditrans,octacis-undecaprenol	UDP-glucuronate	white
+beta-1,6-glucosyltransferase	2.4.1.264	D-Man-alpha-(1->3)-D-Glc-beta-(1->4)-D-Glc-alpha-1-diphospho-ditrans,octacis-undecaprenol	D-GlcA-beta-(1->2)-D-Man-alpha-(1->3)-D-Glc-beta-(1->4)-D-Glc-alpha-1-diphospho-ditrans,octacis-undecaprenol	white
+beta-1,6-glucosyltransferase	2.4.1.264	D-Man-alpha-(1->3)-D-Glc-beta-(1->4)-D-Glc-alpha-1-diphospho-ditrans,octacis-undecaprenol	UDP	white
+beta-1,6-glucosyltransferase	2.4.1.264	UDP	D-Man-alpha-(1->3)-D-Glc-beta-(1->4)-D-Glc-alpha-1-diphospho-ditrans,octacis-undecaprenol	white
+beta-1,6-glucosyltransferase	2.4.1.264	UDP	UDP-glucuronate	white
+beta-1,6-glucosyltransferase	2.4.1.264	UDP-glucuronate	D-GlcA-beta-(1->2)-D-Man-alpha-(1->3)-D-Glc-beta-(1->4)-D-Glc-alpha-1-diphospho-ditrans,octacis-undecaprenol	white
+beta-1,6-glucosyltransferase	2.4.1.264	UDP-glucuronate	UDP	white
+biofilm PGA synthesis protein PgaD	2.4.1.-	N-Acetyl-D-glucosaminyldiphosphoundecaprenol	UDP-N-acetyl-alpha-D-glucosamine	white
+biofilm PGA synthesis protein PgaD	2.4.1.-	N-Acetyl-D-glucosaminyldiphosphoundecaprenol	di-trans,poly-cis-Undecaprenyl phosphate	white
+biofilm PGA synthesis protein PgaD	2.4.1.-	UDP-N-acetyl-alpha-D-glucosamine	N-Acetyl-D-glucosaminyldiphosphoundecaprenol	white
+biofilm PGA synthesis protein PgaD	2.4.1.-	UDP-N-acetyl-alpha-D-glucosamine	UMP	white
+biofilm PGA synthesis protein PgaD	2.4.1.-	UMP	UDP-N-acetyl-alpha-D-glucosamine	white
+biofilm PGA synthesis protein PgaD	2.4.1.-	UMP	di-trans,poly-cis-Undecaprenyl phosphate	white
+biofilm PGA synthesis protein PgaD	2.4.1.-	di-trans,poly-cis-Undecaprenyl phosphate	N-Acetyl-D-glucosaminyldiphosphoundecaprenol	white
+biofilm PGA synthesis protein PgaD	2.4.1.-	di-trans,poly-cis-Undecaprenyl phosphate	UMP	white
+colanic acid/amylovoran/stewartan biosynthesis glycosyltransferase WcaL/AmsK/CpsK	2.4.-.-	N-Acetyl-D-glucosaminyldiphosphoundecaprenol	UDP-N-acetyl-alpha-D-glucosamine	white
+colanic acid/amylovoran/stewartan biosynthesis glycosyltransferase WcaL/AmsK/CpsK	2.4.-.-	N-Acetyl-D-glucosaminyldiphosphoundecaprenol	di-trans,poly-cis-Undecaprenyl phosphate	white
+colanic acid/amylovoran/stewartan biosynthesis glycosyltransferase WcaL/AmsK/CpsK	2.4.-.-	UDP-N-acetyl-alpha-D-glucosamine	N-Acetyl-D-glucosaminyldiphosphoundecaprenol	white
+colanic acid/amylovoran/stewartan biosynthesis glycosyltransferase WcaL/AmsK/CpsK	2.4.-.-	UDP-N-acetyl-alpha-D-glucosamine	UMP	white
+colanic acid/amylovoran/stewartan biosynthesis glycosyltransferase WcaL/AmsK/CpsK	2.4.-.-	UMP	UDP-N-acetyl-alpha-D-glucosamine	white
+colanic acid/amylovoran/stewartan biosynthesis glycosyltransferase WcaL/AmsK/CpsK	2.4.-.-	UMP	di-trans,poly-cis-Undecaprenyl phosphate	white
+colanic acid/amylovoran/stewartan biosynthesis glycosyltransferase WcaL/AmsK/CpsK	2.4.-.-	di-trans,poly-cis-Undecaprenyl phosphate	N-Acetyl-D-glucosaminyldiphosphoundecaprenol	white
+colanic acid/amylovoran/stewartan biosynthesis glycosyltransferase WcaL/AmsK/CpsK	2.4.-.-	di-trans,poly-cis-Undecaprenyl phosphate	UMP	white
+dTDP-N-acetylfucosamine:lipid II N-acetylfucosaminyltransferase	2.4.1.325	4-Acetamido-4,6-dideoxy-alpha-D-galactosyl-(1->4)-N-acetyl-beta-D-mannosaminuronosyl-(1->4)-N-acetyl-alpha-D-glucosaminyl-diphospho-ditrans,octacis-undecaprenol	N-Acetyl-beta-D-mannosaminuronosyl-(1->4)-N-acetyl-alpha-D-glucosaminyl-diphospho-ditrans,octacis-undecaprenol	white
+dTDP-N-acetylfucosamine:lipid II N-acetylfucosaminyltransferase	2.4.1.325	4-Acetamido-4,6-dideoxy-alpha-D-galactosyl-(1->4)-N-acetyl-beta-D-mannosaminuronosyl-(1->4)-N-acetyl-alpha-D-glucosaminyl-diphospho-ditrans,octacis-undecaprenol	dTDP-4-acetamido-4,6-dideoxy-alpha-D-galactose	white
+dTDP-N-acetylfucosamine:lipid II N-acetylfucosaminyltransferase	2.4.1.325	N-Acetyl-beta-D-mannosaminuronosyl-(1->4)-N-acetyl-alpha-D-glucosaminyl-diphospho-ditrans,octacis-undecaprenol	4-Acetamido-4,6-dideoxy-alpha-D-galactosyl-(1->4)-N-acetyl-beta-D-mannosaminuronosyl-(1->4)-N-acetyl-alpha-D-glucosaminyl-diphospho-ditrans,octacis-undecaprenol	white
+dTDP-N-acetylfucosamine:lipid II N-acetylfucosaminyltransferase	2.4.1.325	N-Acetyl-beta-D-mannosaminuronosyl-(1->4)-N-acetyl-alpha-D-glucosaminyl-diphospho-ditrans,octacis-undecaprenol	dTDP	white
+dTDP-N-acetylfucosamine:lipid II N-acetylfucosaminyltransferase	2.4.1.325	dTDP	N-Acetyl-beta-D-mannosaminuronosyl-(1->4)-N-acetyl-alpha-D-glucosaminyl-diphospho-ditrans,octacis-undecaprenol	white
+dTDP-N-acetylfucosamine:lipid II N-acetylfucosaminyltransferase	2.4.1.325	dTDP	dTDP-4-acetamido-4,6-dideoxy-alpha-D-galactose	white
+dTDP-N-acetylfucosamine:lipid II N-acetylfucosaminyltransferase	2.4.1.325	dTDP-4-acetamido-4,6-dideoxy-alpha-D-galactose	4-Acetamido-4,6-dideoxy-alpha-D-galactosyl-(1->4)-N-acetyl-beta-D-mannosaminuronosyl-(1->4)-N-acetyl-alpha-D-glucosaminyl-diphospho-ditrans,octacis-undecaprenol	white
+dTDP-N-acetylfucosamine:lipid II N-acetylfucosaminyltransferase	2.4.1.325	dTDP-4-acetamido-4,6-dideoxy-alpha-D-galactose	dTDP	white
+exopolysaccharide acyltransferase PssR	2.4.1.-	4-Acetamido-4,6-dideoxy-alpha-D-galactosyl-(1->4)-N-acetyl-beta-D-mannosaminuronosyl-(1->4)-N-acetyl-alpha-D-glucosaminyl-diphospho-ditrans,octacis-undecaprenol	N-Acetyl-beta-D-mannosaminuronosyl-(1->4)-N-acetyl-alpha-D-glucosaminyl-diphospho-ditrans,octacis-undecaprenol	white
+exopolysaccharide acyltransferase PssR	2.4.1.-	4-Acetamido-4,6-dideoxy-alpha-D-galactosyl-(1->4)-N-acetyl-beta-D-mannosaminuronosyl-(1->4)-N-acetyl-alpha-D-glucosaminyl-diphospho-ditrans,octacis-undecaprenol	dTDP-4-acetamido-4,6-dideoxy-alpha-D-galactose	white
+exopolysaccharide acyltransferase PssR	2.4.1.-	N-Acetyl-beta-D-mannosaminuronosyl-(1->4)-N-acetyl-alpha-D-glucosaminyl-diphospho-ditrans,octacis-undecaprenol	4-Acetamido-4,6-dideoxy-alpha-D-galactosyl-(1->4)-N-acetyl-beta-D-mannosaminuronosyl-(1->4)-N-acetyl-alpha-D-glucosaminyl-diphospho-ditrans,octacis-undecaprenol	white
+exopolysaccharide acyltransferase PssR	2.4.1.-	N-Acetyl-beta-D-mannosaminuronosyl-(1->4)-N-acetyl-alpha-D-glucosaminyl-diphospho-ditrans,octacis-undecaprenol	dTDP	white
+exopolysaccharide acyltransferase PssR	2.4.1.-	dTDP	N-Acetyl-beta-D-mannosaminuronosyl-(1->4)-N-acetyl-alpha-D-glucosaminyl-diphospho-ditrans,octacis-undecaprenol	white
+exopolysaccharide acyltransferase PssR	2.4.1.-	dTDP	dTDP-4-acetamido-4,6-dideoxy-alpha-D-galactose	white
+exopolysaccharide acyltransferase PssR	2.4.1.-	dTDP-4-acetamido-4,6-dideoxy-alpha-D-galactose	4-Acetamido-4,6-dideoxy-alpha-D-galactosyl-(1->4)-N-acetyl-beta-D-mannosaminuronosyl-(1->4)-N-acetyl-alpha-D-glucosaminyl-diphospho-ditrans,octacis-undecaprenol	white
+exopolysaccharide acyltransferase PssR	2.4.1.-	dTDP-4-acetamido-4,6-dideoxy-alpha-D-galactose	dTDP	white
+exopolysaccharide biosynthesis galactosyltransferase PssJ	2.4.1.-	4-Acetamido-4,6-dideoxy-alpha-D-galactosyl-(1->4)-N-acetyl-beta-D-mannosaminuronosyl-(1->4)-N-acetyl-alpha-D-glucosaminyl-diphospho-ditrans,octacis-undecaprenol	N-Acetyl-beta-D-mannosaminuronosyl-(1->4)-N-acetyl-alpha-D-glucosaminyl-diphospho-ditrans,octacis-undecaprenol	white
+exopolysaccharide biosynthesis galactosyltransferase PssJ	2.4.1.-	4-Acetamido-4,6-dideoxy-alpha-D-galactosyl-(1->4)-N-acetyl-beta-D-mannosaminuronosyl-(1->4)-N-acetyl-alpha-D-glucosaminyl-diphospho-ditrans,octacis-undecaprenol	dTDP-4-acetamido-4,6-dideoxy-alpha-D-galactose	white
+exopolysaccharide biosynthesis galactosyltransferase PssJ	2.4.1.-	N-Acetyl-beta-D-mannosaminuronosyl-(1->4)-N-acetyl-alpha-D-glucosaminyl-diphospho-ditrans,octacis-undecaprenol	4-Acetamido-4,6-dideoxy-alpha-D-galactosyl-(1->4)-N-acetyl-beta-D-mannosaminuronosyl-(1->4)-N-acetyl-alpha-D-glucosaminyl-diphospho-ditrans,octacis-undecaprenol	white
+exopolysaccharide biosynthesis galactosyltransferase PssJ	2.4.1.-	N-Acetyl-beta-D-mannosaminuronosyl-(1->4)-N-acetyl-alpha-D-glucosaminyl-diphospho-ditrans,octacis-undecaprenol	dTDP	white
+exopolysaccharide biosynthesis galactosyltransferase PssJ	2.4.1.-	dTDP	N-Acetyl-beta-D-mannosaminuronosyl-(1->4)-N-acetyl-alpha-D-glucosaminyl-diphospho-ditrans,octacis-undecaprenol	white
+exopolysaccharide biosynthesis galactosyltransferase PssJ	2.4.1.-	dTDP	dTDP-4-acetamido-4,6-dideoxy-alpha-D-galactose	white
+exopolysaccharide biosynthesis galactosyltransferase PssJ	2.4.1.-	dTDP-4-acetamido-4,6-dideoxy-alpha-D-galactose	4-Acetamido-4,6-dideoxy-alpha-D-galactosyl-(1->4)-N-acetyl-beta-D-mannosaminuronosyl-(1->4)-N-acetyl-alpha-D-glucosaminyl-diphospho-ditrans,octacis-undecaprenol	white
+exopolysaccharide biosynthesis galactosyltransferase PssJ	2.4.1.-	dTDP-4-acetamido-4,6-dideoxy-alpha-D-galactose	dTDP	white
+exopolysaccharide biosynthesis glucosyltransferase PssS	2.4.1.-	4-Acetamido-4,6-dideoxy-alpha-D-galactosyl-(1->4)-N-acetyl-beta-D-mannosaminuronosyl-(1->4)-N-acetyl-alpha-D-glucosaminyl-diphospho-ditrans,octacis-undecaprenol	N-Acetyl-beta-D-mannosaminuronosyl-(1->4)-N-acetyl-alpha-D-glucosaminyl-diphospho-ditrans,octacis-undecaprenol	white
+exopolysaccharide biosynthesis glucosyltransferase PssS	2.4.1.-	4-Acetamido-4,6-dideoxy-alpha-D-galactosyl-(1->4)-N-acetyl-beta-D-mannosaminuronosyl-(1->4)-N-acetyl-alpha-D-glucosaminyl-diphospho-ditrans,octacis-undecaprenol	dTDP-4-acetamido-4,6-dideoxy-alpha-D-galactose	white
+exopolysaccharide biosynthesis glucosyltransferase PssS	2.4.1.-	N-Acetyl-beta-D-mannosaminuronosyl-(1->4)-N-acetyl-alpha-D-glucosaminyl-diphospho-ditrans,octacis-undecaprenol	4-Acetamido-4,6-dideoxy-alpha-D-galactosyl-(1->4)-N-acetyl-beta-D-mannosaminuronosyl-(1->4)-N-acetyl-alpha-D-glucosaminyl-diphospho-ditrans,octacis-undecaprenol	white
+exopolysaccharide biosynthesis glucosyltransferase PssS	2.4.1.-	N-Acetyl-beta-D-mannosaminuronosyl-(1->4)-N-acetyl-alpha-D-glucosaminyl-diphospho-ditrans,octacis-undecaprenol	dTDP	white
+exopolysaccharide biosynthesis glucosyltransferase PssS	2.4.1.-	dTDP	N-Acetyl-beta-D-mannosaminuronosyl-(1->4)-N-acetyl-alpha-D-glucosaminyl-diphospho-ditrans,octacis-undecaprenol	white
+exopolysaccharide biosynthesis glucosyltransferase PssS	2.4.1.-	dTDP	dTDP-4-acetamido-4,6-dideoxy-alpha-D-galactose	white
+exopolysaccharide biosynthesis glucosyltransferase PssS	2.4.1.-	dTDP-4-acetamido-4,6-dideoxy-alpha-D-galactose	4-Acetamido-4,6-dideoxy-alpha-D-galactosyl-(1->4)-N-acetyl-beta-D-mannosaminuronosyl-(1->4)-N-acetyl-alpha-D-glucosaminyl-diphospho-ditrans,octacis-undecaprenol	white
+exopolysaccharide biosynthesis glucosyltransferase PssS	2.4.1.-	dTDP-4-acetamido-4,6-dideoxy-alpha-D-galactose	dTDP	white
+exopolysaccharide biosynthesis glucuronosyltransferase PssD	2.4.1.325	4-Acetamido-4,6-dideoxy-alpha-D-galactosyl-(1->4)-N-acetyl-beta-D-mannosaminuronosyl-(1->4)-N-acetyl-alpha-D-glucosaminyl-diphospho-ditrans,octacis-undecaprenol	N-Acetyl-beta-D-mannosaminuronosyl-(1->4)-N-acetyl-alpha-D-glucosaminyl-diphospho-ditrans,octacis-undecaprenol	white
+exopolysaccharide biosynthesis glucuronosyltransferase PssD	2.4.1.325	4-Acetamido-4,6-dideoxy-alpha-D-galactosyl-(1->4)-N-acetyl-beta-D-mannosaminuronosyl-(1->4)-N-acetyl-alpha-D-glucosaminyl-diphospho-ditrans,octacis-undecaprenol	dTDP-4-acetamido-4,6-dideoxy-alpha-D-galactose	white
+exopolysaccharide biosynthesis glucuronosyltransferase PssD	2.4.1.325	N-Acetyl-beta-D-mannosaminuronosyl-(1->4)-N-acetyl-alpha-D-glucosaminyl-diphospho-ditrans,octacis-undecaprenol	4-Acetamido-4,6-dideoxy-alpha-D-galactosyl-(1->4)-N-acetyl-beta-D-mannosaminuronosyl-(1->4)-N-acetyl-alpha-D-glucosaminyl-diphospho-ditrans,octacis-undecaprenol	white
+exopolysaccharide biosynthesis glucuronosyltransferase PssD	2.4.1.325	N-Acetyl-beta-D-mannosaminuronosyl-(1->4)-N-acetyl-alpha-D-glucosaminyl-diphospho-ditrans,octacis-undecaprenol	dTDP	white
+exopolysaccharide biosynthesis glucuronosyltransferase PssD	2.4.1.325	dTDP	N-Acetyl-beta-D-mannosaminuronosyl-(1->4)-N-acetyl-alpha-D-glucosaminyl-diphospho-ditrans,octacis-undecaprenol	white
+exopolysaccharide biosynthesis glucuronosyltransferase PssD	2.4.1.325	dTDP	dTDP-4-acetamido-4,6-dideoxy-alpha-D-galactose	white
+exopolysaccharide biosynthesis glucuronosyltransferase PssD	2.4.1.325	dTDP-4-acetamido-4,6-dideoxy-alpha-D-galactose	4-Acetamido-4,6-dideoxy-alpha-D-galactosyl-(1->4)-N-acetyl-beta-D-mannosaminuronosyl-(1->4)-N-acetyl-alpha-D-glucosaminyl-diphospho-ditrans,octacis-undecaprenol	white
+exopolysaccharide biosynthesis glucuronosyltransferase PssD	2.4.1.325	dTDP-4-acetamido-4,6-dideoxy-alpha-D-galactose	dTDP	white
+exopolysaccharide biosynthesis glucuronosyltransferase PssE	2.4.1.325	4-Acetamido-4,6-dideoxy-alpha-D-galactosyl-(1->4)-N-acetyl-beta-D-mannosaminuronosyl-(1->4)-N-acetyl-alpha-D-glucosaminyl-diphospho-ditrans,octacis-undecaprenol	N-Acetyl-beta-D-mannosaminuronosyl-(1->4)-N-acetyl-alpha-D-glucosaminyl-diphospho-ditrans,octacis-undecaprenol	white
+exopolysaccharide biosynthesis glucuronosyltransferase PssE	2.4.1.325	4-Acetamido-4,6-dideoxy-alpha-D-galactosyl-(1->4)-N-acetyl-beta-D-mannosaminuronosyl-(1->4)-N-acetyl-alpha-D-glucosaminyl-diphospho-ditrans,octacis-undecaprenol	dTDP-4-acetamido-4,6-dideoxy-alpha-D-galactose	white
+exopolysaccharide biosynthesis glucuronosyltransferase PssE	2.4.1.325	N-Acetyl-beta-D-mannosaminuronosyl-(1->4)-N-acetyl-alpha-D-glucosaminyl-diphospho-ditrans,octacis-undecaprenol	4-Acetamido-4,6-dideoxy-alpha-D-galactosyl-(1->4)-N-acetyl-beta-D-mannosaminuronosyl-(1->4)-N-acetyl-alpha-D-glucosaminyl-diphospho-ditrans,octacis-undecaprenol	white
+exopolysaccharide biosynthesis glucuronosyltransferase PssE	2.4.1.325	N-Acetyl-beta-D-mannosaminuronosyl-(1->4)-N-acetyl-alpha-D-glucosaminyl-diphospho-ditrans,octacis-undecaprenol	dTDP	white
+exopolysaccharide biosynthesis glucuronosyltransferase PssE	2.4.1.325	dTDP	N-Acetyl-beta-D-mannosaminuronosyl-(1->4)-N-acetyl-alpha-D-glucosaminyl-diphospho-ditrans,octacis-undecaprenol	white
+exopolysaccharide biosynthesis glucuronosyltransferase PssE	2.4.1.325	dTDP	dTDP-4-acetamido-4,6-dideoxy-alpha-D-galactose	white
+exopolysaccharide biosynthesis glucuronosyltransferase PssE	2.4.1.325	dTDP-4-acetamido-4,6-dideoxy-alpha-D-galactose	4-Acetamido-4,6-dideoxy-alpha-D-galactosyl-(1->4)-N-acetyl-beta-D-mannosaminuronosyl-(1->4)-N-acetyl-alpha-D-glucosaminyl-diphospho-ditrans,octacis-undecaprenol	white
+exopolysaccharide biosynthesis glucuronosyltransferase PssE	2.4.1.325	dTDP-4-acetamido-4,6-dideoxy-alpha-D-galactose	dTDP	white
+exopolysaccharide biosynthesis glycosyltransferase PssC	2.4.1.325	4-Acetamido-4,6-dideoxy-alpha-D-galactosyl-(1->4)-N-acetyl-beta-D-mannosaminuronosyl-(1->4)-N-acetyl-alpha-D-glucosaminyl-diphospho-ditrans,octacis-undecaprenol	N-Acetyl-beta-D-mannosaminuronosyl-(1->4)-N-acetyl-alpha-D-glucosaminyl-diphospho-ditrans,octacis-undecaprenol	white
+exopolysaccharide biosynthesis glycosyltransferase PssC	2.4.1.325	4-Acetamido-4,6-dideoxy-alpha-D-galactosyl-(1->4)-N-acetyl-beta-D-mannosaminuronosyl-(1->4)-N-acetyl-alpha-D-glucosaminyl-diphospho-ditrans,octacis-undecaprenol	dTDP-4-acetamido-4,6-dideoxy-alpha-D-galactose	white
+exopolysaccharide biosynthesis glycosyltransferase PssC	2.4.1.325	N-Acetyl-beta-D-mannosaminuronosyl-(1->4)-N-acetyl-alpha-D-glucosaminyl-diphospho-ditrans,octacis-undecaprenol	4-Acetamido-4,6-dideoxy-alpha-D-galactosyl-(1->4)-N-acetyl-beta-D-mannosaminuronosyl-(1->4)-N-acetyl-alpha-D-glucosaminyl-diphospho-ditrans,octacis-undecaprenol	white
+exopolysaccharide biosynthesis glycosyltransferase PssC	2.4.1.325	N-Acetyl-beta-D-mannosaminuronosyl-(1->4)-N-acetyl-alpha-D-glucosaminyl-diphospho-ditrans,octacis-undecaprenol	dTDP	white
+exopolysaccharide biosynthesis glycosyltransferase PssC	2.4.1.325	dTDP	N-Acetyl-beta-D-mannosaminuronosyl-(1->4)-N-acetyl-alpha-D-glucosaminyl-diphospho-ditrans,octacis-undecaprenol	white
+exopolysaccharide biosynthesis glycosyltransferase PssC	2.4.1.325	dTDP	dTDP-4-acetamido-4,6-dideoxy-alpha-D-galactose	white
+exopolysaccharide biosynthesis glycosyltransferase PssC	2.4.1.325	dTDP-4-acetamido-4,6-dideoxy-alpha-D-galactose	4-Acetamido-4,6-dideoxy-alpha-D-galactosyl-(1->4)-N-acetyl-beta-D-mannosaminuronosyl-(1->4)-N-acetyl-alpha-D-glucosaminyl-diphospho-ditrans,octacis-undecaprenol	white
+exopolysaccharide biosynthesis glycosyltransferase PssC	2.4.1.325	dTDP-4-acetamido-4,6-dideoxy-alpha-D-galactose	dTDP	white
+exopolysaccharide biosynthesis glycosyltransferase PssF	2.4.1.-	4-Acetamido-4,6-dideoxy-alpha-D-galactosyl-(1->4)-N-acetyl-beta-D-mannosaminuronosyl-(1->4)-N-acetyl-alpha-D-glucosaminyl-diphospho-ditrans,octacis-undecaprenol	N-Acetyl-beta-D-mannosaminuronosyl-(1->4)-N-acetyl-alpha-D-glucosaminyl-diphospho-ditrans,octacis-undecaprenol	white
+exopolysaccharide biosynthesis glycosyltransferase PssF	2.4.1.-	4-Acetamido-4,6-dideoxy-alpha-D-galactosyl-(1->4)-N-acetyl-beta-D-mannosaminuronosyl-(1->4)-N-acetyl-alpha-D-glucosaminyl-diphospho-ditrans,octacis-undecaprenol	dTDP-4-acetamido-4,6-dideoxy-alpha-D-galactose	white
+exopolysaccharide biosynthesis glycosyltransferase PssF	2.4.1.-	N-Acetyl-beta-D-mannosaminuronosyl-(1->4)-N-acetyl-alpha-D-glucosaminyl-diphospho-ditrans,octacis-undecaprenol	4-Acetamido-4,6-dideoxy-alpha-D-galactosyl-(1->4)-N-acetyl-beta-D-mannosaminuronosyl-(1->4)-N-acetyl-alpha-D-glucosaminyl-diphospho-ditrans,octacis-undecaprenol	white
+exopolysaccharide biosynthesis glycosyltransferase PssF	2.4.1.-	N-Acetyl-beta-D-mannosaminuronosyl-(1->4)-N-acetyl-alpha-D-glucosaminyl-diphospho-ditrans,octacis-undecaprenol	dTDP	white
+exopolysaccharide biosynthesis glycosyltransferase PssF	2.4.1.-	dTDP	N-Acetyl-beta-D-mannosaminuronosyl-(1->4)-N-acetyl-alpha-D-glucosaminyl-diphospho-ditrans,octacis-undecaprenol	white
+exopolysaccharide biosynthesis glycosyltransferase PssF	2.4.1.-	dTDP	dTDP-4-acetamido-4,6-dideoxy-alpha-D-galactose	white
+exopolysaccharide biosynthesis glycosyltransferase PssF	2.4.1.-	dTDP-4-acetamido-4,6-dideoxy-alpha-D-galactose	4-Acetamido-4,6-dideoxy-alpha-D-galactosyl-(1->4)-N-acetyl-beta-D-mannosaminuronosyl-(1->4)-N-acetyl-alpha-D-glucosaminyl-diphospho-ditrans,octacis-undecaprenol	white
+exopolysaccharide biosynthesis glycosyltransferase PssF	2.4.1.-	dTDP-4-acetamido-4,6-dideoxy-alpha-D-galactose	dTDP	white
+exopolysaccharide biosynthesis glycosyltransferase PssG	2.4.1.-	4-Acetamido-4,6-dideoxy-alpha-D-galactosyl-(1->4)-N-acetyl-beta-D-mannosaminuronosyl-(1->4)-N-acetyl-alpha-D-glucosaminyl-diphospho-ditrans,octacis-undecaprenol	N-Acetyl-beta-D-mannosaminuronosyl-(1->4)-N-acetyl-alpha-D-glucosaminyl-diphospho-ditrans,octacis-undecaprenol	white
+exopolysaccharide biosynthesis glycosyltransferase PssG	2.4.1.-	4-Acetamido-4,6-dideoxy-alpha-D-galactosyl-(1->4)-N-acetyl-beta-D-mannosaminuronosyl-(1->4)-N-acetyl-alpha-D-glucosaminyl-diphospho-ditrans,octacis-undecaprenol	dTDP-4-acetamido-4,6-dideoxy-alpha-D-galactose	white
+exopolysaccharide biosynthesis glycosyltransferase PssG	2.4.1.-	N-Acetyl-beta-D-mannosaminuronosyl-(1->4)-N-acetyl-alpha-D-glucosaminyl-diphospho-ditrans,octacis-undecaprenol	4-Acetamido-4,6-dideoxy-alpha-D-galactosyl-(1->4)-N-acetyl-beta-D-mannosaminuronosyl-(1->4)-N-acetyl-alpha-D-glucosaminyl-diphospho-ditrans,octacis-undecaprenol	white
+exopolysaccharide biosynthesis glycosyltransferase PssG	2.4.1.-	N-Acetyl-beta-D-mannosaminuronosyl-(1->4)-N-acetyl-alpha-D-glucosaminyl-diphospho-ditrans,octacis-undecaprenol	dTDP	white
+exopolysaccharide biosynthesis glycosyltransferase PssG	2.4.1.-	dTDP	N-Acetyl-beta-D-mannosaminuronosyl-(1->4)-N-acetyl-alpha-D-glucosaminyl-diphospho-ditrans,octacis-undecaprenol	white
+exopolysaccharide biosynthesis glycosyltransferase PssG	2.4.1.-	dTDP	dTDP-4-acetamido-4,6-dideoxy-alpha-D-galactose	white
+exopolysaccharide biosynthesis glycosyltransferase PssG	2.4.1.-	dTDP-4-acetamido-4,6-dideoxy-alpha-D-galactose	4-Acetamido-4,6-dideoxy-alpha-D-galactosyl-(1->4)-N-acetyl-beta-D-mannosaminuronosyl-(1->4)-N-acetyl-alpha-D-glucosaminyl-diphospho-ditrans,octacis-undecaprenol	white
+exopolysaccharide biosynthesis glycosyltransferase PssG	2.4.1.-	dTDP-4-acetamido-4,6-dideoxy-alpha-D-galactose	dTDP	white
+exopolysaccharide biosynthesis glycosyltransferase PssH	2.4.1.-	4-Acetamido-4,6-dideoxy-alpha-D-galactosyl-(1->4)-N-acetyl-beta-D-mannosaminuronosyl-(1->4)-N-acetyl-alpha-D-glucosaminyl-diphospho-ditrans,octacis-undecaprenol	N-Acetyl-beta-D-mannosaminuronosyl-(1->4)-N-acetyl-alpha-D-glucosaminyl-diphospho-ditrans,octacis-undecaprenol	white
+exopolysaccharide biosynthesis glycosyltransferase PssH	2.4.1.-	4-Acetamido-4,6-dideoxy-alpha-D-galactosyl-(1->4)-N-acetyl-beta-D-mannosaminuronosyl-(1->4)-N-acetyl-alpha-D-glucosaminyl-diphospho-ditrans,octacis-undecaprenol	dTDP-4-acetamido-4,6-dideoxy-alpha-D-galactose	white
+exopolysaccharide biosynthesis glycosyltransferase PssH	2.4.1.-	N-Acetyl-beta-D-mannosaminuronosyl-(1->4)-N-acetyl-alpha-D-glucosaminyl-diphospho-ditrans,octacis-undecaprenol	4-Acetamido-4,6-dideoxy-alpha-D-galactosyl-(1->4)-N-acetyl-beta-D-mannosaminuronosyl-(1->4)-N-acetyl-alpha-D-glucosaminyl-diphospho-ditrans,octacis-undecaprenol	white
+exopolysaccharide biosynthesis glycosyltransferase PssH	2.4.1.-	N-Acetyl-beta-D-mannosaminuronosyl-(1->4)-N-acetyl-alpha-D-glucosaminyl-diphospho-ditrans,octacis-undecaprenol	dTDP	white
+exopolysaccharide biosynthesis glycosyltransferase PssH	2.4.1.-	dTDP	N-Acetyl-beta-D-mannosaminuronosyl-(1->4)-N-acetyl-alpha-D-glucosaminyl-diphospho-ditrans,octacis-undecaprenol	white
+exopolysaccharide biosynthesis glycosyltransferase PssH	2.4.1.-	dTDP	dTDP-4-acetamido-4,6-dideoxy-alpha-D-galactose	white
+exopolysaccharide biosynthesis glycosyltransferase PssH	2.4.1.-	dTDP-4-acetamido-4,6-dideoxy-alpha-D-galactose	4-Acetamido-4,6-dideoxy-alpha-D-galactosyl-(1->4)-N-acetyl-beta-D-mannosaminuronosyl-(1->4)-N-acetyl-alpha-D-glucosaminyl-diphospho-ditrans,octacis-undecaprenol	white
+exopolysaccharide biosynthesis glycosyltransferase PssH	2.4.1.-	dTDP-4-acetamido-4,6-dideoxy-alpha-D-galactose	dTDP	white
+exopolysaccharide biosynthesis glycosyltransferase PssI	2.4.1.-	4-Acetamido-4,6-dideoxy-alpha-D-galactosyl-(1->4)-N-acetyl-beta-D-mannosaminuronosyl-(1->4)-N-acetyl-alpha-D-glucosaminyl-diphospho-ditrans,octacis-undecaprenol	N-Acetyl-beta-D-mannosaminuronosyl-(1->4)-N-acetyl-alpha-D-glucosaminyl-diphospho-ditrans,octacis-undecaprenol	white
+exopolysaccharide biosynthesis glycosyltransferase PssI	2.4.1.-	4-Acetamido-4,6-dideoxy-alpha-D-galactosyl-(1->4)-N-acetyl-beta-D-mannosaminuronosyl-(1->4)-N-acetyl-alpha-D-glucosaminyl-diphospho-ditrans,octacis-undecaprenol	dTDP-4-acetamido-4,6-dideoxy-alpha-D-galactose	white
+exopolysaccharide biosynthesis glycosyltransferase PssI	2.4.1.-	N-Acetyl-beta-D-mannosaminuronosyl-(1->4)-N-acetyl-alpha-D-glucosaminyl-diphospho-ditrans,octacis-undecaprenol	4-Acetamido-4,6-dideoxy-alpha-D-galactosyl-(1->4)-N-acetyl-beta-D-mannosaminuronosyl-(1->4)-N-acetyl-alpha-D-glucosaminyl-diphospho-ditrans,octacis-undecaprenol	white
+exopolysaccharide biosynthesis glycosyltransferase PssI	2.4.1.-	N-Acetyl-beta-D-mannosaminuronosyl-(1->4)-N-acetyl-alpha-D-glucosaminyl-diphospho-ditrans,octacis-undecaprenol	dTDP	white
+exopolysaccharide biosynthesis glycosyltransferase PssI	2.4.1.-	dTDP	N-Acetyl-beta-D-mannosaminuronosyl-(1->4)-N-acetyl-alpha-D-glucosaminyl-diphospho-ditrans,octacis-undecaprenol	white
+exopolysaccharide biosynthesis glycosyltransferase PssI	2.4.1.-	dTDP	dTDP-4-acetamido-4,6-dideoxy-alpha-D-galactose	white
+exopolysaccharide biosynthesis glycosyltransferase PssI	2.4.1.-	dTDP-4-acetamido-4,6-dideoxy-alpha-D-galactose	4-Acetamido-4,6-dideoxy-alpha-D-galactosyl-(1->4)-N-acetyl-beta-D-mannosaminuronosyl-(1->4)-N-acetyl-alpha-D-glucosaminyl-diphospho-ditrans,octacis-undecaprenol	white
+exopolysaccharide biosynthesis glycosyltransferase PssI	2.4.1.-	dTDP-4-acetamido-4,6-dideoxy-alpha-D-galactose	dTDP	white
+exopolysaccharide biosynthesis protein PssK	2.4.1.-	4-Acetamido-4,6-dideoxy-alpha-D-galactosyl-(1->4)-N-acetyl-beta-D-mannosaminuronosyl-(1->4)-N-acetyl-alpha-D-glucosaminyl-diphospho-ditrans,octacis-undecaprenol	N-Acetyl-beta-D-mannosaminuronosyl-(1->4)-N-acetyl-alpha-D-glucosaminyl-diphospho-ditrans,octacis-undecaprenol	white
+exopolysaccharide biosynthesis protein PssK	2.4.1.-	4-Acetamido-4,6-dideoxy-alpha-D-galactosyl-(1->4)-N-acetyl-beta-D-mannosaminuronosyl-(1->4)-N-acetyl-alpha-D-glucosaminyl-diphospho-ditrans,octacis-undecaprenol	dTDP-4-acetamido-4,6-dideoxy-alpha-D-galactose	white
+exopolysaccharide biosynthesis protein PssK	2.4.1.-	N-Acetyl-beta-D-mannosaminuronosyl-(1->4)-N-acetyl-alpha-D-glucosaminyl-diphospho-ditrans,octacis-undecaprenol	4-Acetamido-4,6-dideoxy-alpha-D-galactosyl-(1->4)-N-acetyl-beta-D-mannosaminuronosyl-(1->4)-N-acetyl-alpha-D-glucosaminyl-diphospho-ditrans,octacis-undecaprenol	white
+exopolysaccharide biosynthesis protein PssK	2.4.1.-	N-Acetyl-beta-D-mannosaminuronosyl-(1->4)-N-acetyl-alpha-D-glucosaminyl-diphospho-ditrans,octacis-undecaprenol	dTDP	white
+exopolysaccharide biosynthesis protein PssK	2.4.1.-	dTDP	N-Acetyl-beta-D-mannosaminuronosyl-(1->4)-N-acetyl-alpha-D-glucosaminyl-diphospho-ditrans,octacis-undecaprenol	white
+exopolysaccharide biosynthesis protein PssK	2.4.1.-	dTDP	dTDP-4-acetamido-4,6-dideoxy-alpha-D-galactose	white
+exopolysaccharide biosynthesis protein PssK	2.4.1.-	dTDP-4-acetamido-4,6-dideoxy-alpha-D-galactose	4-Acetamido-4,6-dideoxy-alpha-D-galactosyl-(1->4)-N-acetyl-beta-D-mannosaminuronosyl-(1->4)-N-acetyl-alpha-D-glucosaminyl-diphospho-ditrans,octacis-undecaprenol	white
+exopolysaccharide biosynthesis protein PssK	2.4.1.-	dTDP-4-acetamido-4,6-dideoxy-alpha-D-galactose	dTDP	white
+exopolysaccharide glucosyl ketal-pyruvate-transferase	2.5.1.98	4-Acetamido-4,6-dideoxy-alpha-D-galactosyl-(1->4)-N-acetyl-beta-D-mannosaminuronosyl-(1->4)-N-acetyl-alpha-D-glucosaminyl-diphospho-ditrans,octacis-undecaprenol	N-Acetyl-beta-D-mannosaminuronosyl-(1->4)-N-acetyl-alpha-D-glucosaminyl-diphospho-ditrans,octacis-undecaprenol	white
+exopolysaccharide glucosyl ketal-pyruvate-transferase	2.5.1.98	4-Acetamido-4,6-dideoxy-alpha-D-galactosyl-(1->4)-N-acetyl-beta-D-mannosaminuronosyl-(1->4)-N-acetyl-alpha-D-glucosaminyl-diphospho-ditrans,octacis-undecaprenol	dTDP-4-acetamido-4,6-dideoxy-alpha-D-galactose	white
+exopolysaccharide glucosyl ketal-pyruvate-transferase	2.5.1.98	N-Acetyl-beta-D-mannosaminuronosyl-(1->4)-N-acetyl-alpha-D-glucosaminyl-diphospho-ditrans,octacis-undecaprenol	4-Acetamido-4,6-dideoxy-alpha-D-galactosyl-(1->4)-N-acetyl-beta-D-mannosaminuronosyl-(1->4)-N-acetyl-alpha-D-glucosaminyl-diphospho-ditrans,octacis-undecaprenol	white
+exopolysaccharide glucosyl ketal-pyruvate-transferase	2.5.1.98	N-Acetyl-beta-D-mannosaminuronosyl-(1->4)-N-acetyl-alpha-D-glucosaminyl-diphospho-ditrans,octacis-undecaprenol	dTDP	white
+exopolysaccharide glucosyl ketal-pyruvate-transferase	2.5.1.98	dTDP	N-Acetyl-beta-D-mannosaminuronosyl-(1->4)-N-acetyl-alpha-D-glucosaminyl-diphospho-ditrans,octacis-undecaprenol	white
+exopolysaccharide glucosyl ketal-pyruvate-transferase	2.5.1.98	dTDP	dTDP-4-acetamido-4,6-dideoxy-alpha-D-galactose	white
+exopolysaccharide glucosyl ketal-pyruvate-transferase	2.5.1.98	dTDP-4-acetamido-4,6-dideoxy-alpha-D-galactose	4-Acetamido-4,6-dideoxy-alpha-D-galactosyl-(1->4)-N-acetyl-beta-D-mannosaminuronosyl-(1->4)-N-acetyl-alpha-D-glucosaminyl-diphospho-ditrans,octacis-undecaprenol	white
+exopolysaccharide glucosyl ketal-pyruvate-transferase	2.5.1.98	dTDP-4-acetamido-4,6-dideoxy-alpha-D-galactose	dTDP	white
+exopolysaccharide production protein ExoY	2.3.1.-	D-GlcA-beta-(1->2)-D-Man-alpha-(1->3)-D-Glc-beta-(1->4)-D-Glc-alpha-1-diphospho-ditrans,octacis-undecaprenol	D-Man-beta-(1->4)-GlcA-beta-(1->2)-D-Man-alpha-(1->3)-D-Glc-beta-(1->4)-D-Glc-alpha-1-diphospho-ditrans,octacis-undecaprenol	white
+exopolysaccharide production protein ExoY	2.3.1.-	D-GlcA-beta-(1->2)-D-Man-alpha-(1->3)-D-Glc-beta-(1->4)-D-Glc-alpha-1-diphospho-ditrans,octacis-undecaprenol	GDP	white
+exopolysaccharide production protein ExoY	2.3.1.-	D-Man-beta-(1->4)-GlcA-beta-(1->2)-D-Man-alpha-(1->3)-D-Glc-beta-(1->4)-D-Glc-alpha-1-diphospho-ditrans,octacis-undecaprenol	D-GlcA-beta-(1->2)-D-Man-alpha-(1->3)-D-Glc-beta-(1->4)-D-Glc-alpha-1-diphospho-ditrans,octacis-undecaprenol	white
+exopolysaccharide production protein ExoY	2.3.1.-	D-Man-beta-(1->4)-GlcA-beta-(1->2)-D-Man-alpha-(1->3)-D-Glc-beta-(1->4)-D-Glc-alpha-1-diphospho-ditrans,octacis-undecaprenol	GDP-mannose	white
+exopolysaccharide production protein ExoY	2.3.1.-	GDP	D-GlcA-beta-(1->2)-D-Man-alpha-(1->3)-D-Glc-beta-(1->4)-D-Glc-alpha-1-diphospho-ditrans,octacis-undecaprenol	white
+exopolysaccharide production protein ExoY	2.3.1.-	GDP	GDP-mannose	white
+exopolysaccharide production protein ExoY	2.3.1.-	GDP-mannose	D-Man-beta-(1->4)-GlcA-beta-(1->2)-D-Man-alpha-(1->3)-D-Glc-beta-(1->4)-D-Glc-alpha-1-diphospho-ditrans,octacis-undecaprenol	white
+exopolysaccharide production protein ExoY	2.3.1.-	GDP-mannose	GDP	white
+exopolysaccharide production protein ExoZ	2.4.-.-	D-GlcA-beta-(1->2)-D-Man-alpha-(1->3)-D-Glc-beta-(1->4)-D-Glc-alpha-1-diphospho-ditrans,octacis-undecaprenol	D-Man-beta-(1->4)-GlcA-beta-(1->2)-D-Man-alpha-(1->3)-D-Glc-beta-(1->4)-D-Glc-alpha-1-diphospho-ditrans,octacis-undecaprenol	white
+exopolysaccharide production protein ExoZ	2.4.-.-	D-GlcA-beta-(1->2)-D-Man-alpha-(1->3)-D-Glc-beta-(1->4)-D-Glc-alpha-1-diphospho-ditrans,octacis-undecaprenol	GDP	white
+exopolysaccharide production protein ExoZ	2.4.-.-	D-Man-beta-(1->4)-GlcA-beta-(1->2)-D-Man-alpha-(1->3)-D-Glc-beta-(1->4)-D-Glc-alpha-1-diphospho-ditrans,octacis-undecaprenol	D-GlcA-beta-(1->2)-D-Man-alpha-(1->3)-D-Glc-beta-(1->4)-D-Glc-alpha-1-diphospho-ditrans,octacis-undecaprenol	white
+exopolysaccharide production protein ExoZ	2.4.-.-	D-Man-beta-(1->4)-GlcA-beta-(1->2)-D-Man-alpha-(1->3)-D-Glc-beta-(1->4)-D-Glc-alpha-1-diphospho-ditrans,octacis-undecaprenol	GDP-mannose	white
+exopolysaccharide production protein ExoZ	2.4.-.-	GDP	D-GlcA-beta-(1->2)-D-Man-alpha-(1->3)-D-Glc-beta-(1->4)-D-Glc-alpha-1-diphospho-ditrans,octacis-undecaprenol	white
+exopolysaccharide production protein ExoZ	2.4.-.-	GDP	GDP-mannose	white
+exopolysaccharide production protein ExoZ	2.4.-.-	GDP-mannose	D-Man-beta-(1->4)-GlcA-beta-(1->2)-D-Man-alpha-(1->3)-D-Glc-beta-(1->4)-D-Glc-alpha-1-diphospho-ditrans,octacis-undecaprenol	white
+exopolysaccharide production protein ExoZ	2.4.-.-	GDP-mannose	GDP	white
+glucosyltransferase	2.4.1.264	D-GlcA-beta-(1->2)-D-Man-alpha-(1->3)-D-Glc-beta-(1->4)-D-Glc-alpha-1-diphospho-ditrans,octacis-undecaprenol	D-Man-alpha-(1->3)-D-Glc-beta-(1->4)-D-Glc-alpha-1-diphospho-ditrans,octacis-undecaprenol	white
+glucosyltransferase	2.4.1.264	D-GlcA-beta-(1->2)-D-Man-alpha-(1->3)-D-Glc-beta-(1->4)-D-Glc-alpha-1-diphospho-ditrans,octacis-undecaprenol	UDP-glucuronate	white
+glucosyltransferase	2.4.1.264	D-Man-alpha-(1->3)-D-Glc-beta-(1->4)-D-Glc-alpha-1-diphospho-ditrans,octacis-undecaprenol	D-GlcA-beta-(1->2)-D-Man-alpha-(1->3)-D-Glc-beta-(1->4)-D-Glc-alpha-1-diphospho-ditrans,octacis-undecaprenol	white
+glucosyltransferase	2.4.1.264	D-Man-alpha-(1->3)-D-Glc-beta-(1->4)-D-Glc-alpha-1-diphospho-ditrans,octacis-undecaprenol	UDP	white
+glucosyltransferase	2.4.1.264	UDP	D-Man-alpha-(1->3)-D-Glc-beta-(1->4)-D-Glc-alpha-1-diphospho-ditrans,octacis-undecaprenol	white
+glucosyltransferase	2.4.1.264	UDP	UDP-glucuronate	white
+glucosyltransferase	2.4.1.264	UDP-glucuronate	D-GlcA-beta-(1->2)-D-Man-alpha-(1->3)-D-Glc-beta-(1->4)-D-Glc-alpha-1-diphospho-ditrans,octacis-undecaprenol	white
+glucosyltransferase	2.4.1.264	UDP-glucuronate	UDP	white
+mannuronan synthase	2.4.1.33	(beta-D-Mannuronate)n	(beta-D-Mannuronate)n	white
+mannuronan synthase	2.4.1.33	(beta-D-Mannuronate)n	GDP	white
+mannuronan synthase	2.4.1.33	(beta-D-Mannuronate)n	GDP-D-mannuronate	white
+mannuronan synthase	2.4.1.33	GDP	(beta-D-Mannuronate)n	white
+mannuronan synthase	2.4.1.33	GDP	GDP-D-mannuronate	white
+mannuronan synthase	2.4.1.33	GDP-D-mannuronate	(beta-D-Mannuronate)n	white
+mannuronan synthase	2.4.1.33	GDP-D-mannuronate	GDP	white
+poly-beta-1,6-N-acetyl-D-glucosamine synthase	2.4.1.-	N-Acetyl-D-glucosaminyldiphosphoundecaprenol	UDP-N-acetyl-alpha-D-glucosamine	white
+poly-beta-1,6-N-acetyl-D-glucosamine synthase	2.4.1.-	N-Acetyl-D-glucosaminyldiphosphoundecaprenol	di-trans,poly-cis-Undecaprenyl phosphate	white
+poly-beta-1,6-N-acetyl-D-glucosamine synthase	2.4.1.-	UDP-N-acetyl-alpha-D-glucosamine	N-Acetyl-D-glucosaminyldiphosphoundecaprenol	white
+poly-beta-1,6-N-acetyl-D-glucosamine synthase	2.4.1.-	UDP-N-acetyl-alpha-D-glucosamine	UMP	white
+poly-beta-1,6-N-acetyl-D-glucosamine synthase	2.4.1.-	UMP	UDP-N-acetyl-alpha-D-glucosamine	white
+poly-beta-1,6-N-acetyl-D-glucosamine synthase	2.4.1.-	UMP	di-trans,poly-cis-Undecaprenyl phosphate	white
+poly-beta-1,6-N-acetyl-D-glucosamine synthase	2.4.1.-	di-trans,poly-cis-Undecaprenyl phosphate	N-Acetyl-D-glucosaminyldiphosphoundecaprenol	white
+poly-beta-1,6-N-acetyl-D-glucosamine synthase	2.4.1.-	di-trans,poly-cis-Undecaprenyl phosphate	UMP	white
+poly-beta-1,6-N-acetyl-D-glucosamine synthesis protein	2.4.1.-	N-Acetyl-D-glucosaminyldiphosphoundecaprenol	UDP-N-acetyl-alpha-D-glucosamine	white
+poly-beta-1,6-N-acetyl-D-glucosamine synthesis protein	2.4.1.-	N-Acetyl-D-glucosaminyldiphosphoundecaprenol	di-trans,poly-cis-Undecaprenyl phosphate	white
+poly-beta-1,6-N-acetyl-D-glucosamine synthesis protein	2.4.1.-	UDP-N-acetyl-alpha-D-glucosamine	N-Acetyl-D-glucosaminyldiphosphoundecaprenol	white
+poly-beta-1,6-N-acetyl-D-glucosamine synthesis protein	2.4.1.-	UDP-N-acetyl-alpha-D-glucosamine	UMP	white
+poly-beta-1,6-N-acetyl-D-glucosamine synthesis protein	2.4.1.-	UMP	UDP-N-acetyl-alpha-D-glucosamine	white
+poly-beta-1,6-N-acetyl-D-glucosamine synthesis protein	2.4.1.-	UMP	di-trans,poly-cis-Undecaprenyl phosphate	white
+poly-beta-1,6-N-acetyl-D-glucosamine synthesis protein	2.4.1.-	di-trans,poly-cis-Undecaprenyl phosphate	N-Acetyl-D-glucosaminyldiphosphoundecaprenol	white
+poly-beta-1,6-N-acetyl-D-glucosamine synthesis protein	2.4.1.-	di-trans,poly-cis-Undecaprenyl phosphate	UMP	white
+polysaccharide biosynthesis protein PslA	2.4.1.325	4-Acetamido-4,6-dideoxy-alpha-D-galactosyl-(1->4)-N-acetyl-beta-D-mannosaminuronosyl-(1->4)-N-acetyl-alpha-D-glucosaminyl-diphospho-ditrans,octacis-undecaprenol	N-Acetyl-beta-D-mannosaminuronosyl-(1->4)-N-acetyl-alpha-D-glucosaminyl-diphospho-ditrans,octacis-undecaprenol	white
+polysaccharide biosynthesis protein PslA	2.4.1.325	4-Acetamido-4,6-dideoxy-alpha-D-galactosyl-(1->4)-N-acetyl-beta-D-mannosaminuronosyl-(1->4)-N-acetyl-alpha-D-glucosaminyl-diphospho-ditrans,octacis-undecaprenol	dTDP-4-acetamido-4,6-dideoxy-alpha-D-galactose	white
+polysaccharide biosynthesis protein PslA	2.4.1.325	N-Acetyl-beta-D-mannosaminuronosyl-(1->4)-N-acetyl-alpha-D-glucosaminyl-diphospho-ditrans,octacis-undecaprenol	4-Acetamido-4,6-dideoxy-alpha-D-galactosyl-(1->4)-N-acetyl-beta-D-mannosaminuronosyl-(1->4)-N-acetyl-alpha-D-glucosaminyl-diphospho-ditrans,octacis-undecaprenol	white
+polysaccharide biosynthesis protein PslA	2.4.1.325	N-Acetyl-beta-D-mannosaminuronosyl-(1->4)-N-acetyl-alpha-D-glucosaminyl-diphospho-ditrans,octacis-undecaprenol	dTDP	white
+polysaccharide biosynthesis protein PslA	2.4.1.325	dTDP	N-Acetyl-beta-D-mannosaminuronosyl-(1->4)-N-acetyl-alpha-D-glucosaminyl-diphospho-ditrans,octacis-undecaprenol	white
+polysaccharide biosynthesis protein PslA	2.4.1.325	dTDP	dTDP-4-acetamido-4,6-dideoxy-alpha-D-galactose	white
+polysaccharide biosynthesis protein PslA	2.4.1.325	dTDP-4-acetamido-4,6-dideoxy-alpha-D-galactose	4-Acetamido-4,6-dideoxy-alpha-D-galactosyl-(1->4)-N-acetyl-beta-D-mannosaminuronosyl-(1->4)-N-acetyl-alpha-D-glucosaminyl-diphospho-ditrans,octacis-undecaprenol	white
+polysaccharide biosynthesis protein PslA	2.4.1.325	dTDP-4-acetamido-4,6-dideoxy-alpha-D-galactose	dTDP	white
+polysaccharide biosynthesis protein PslC	2.4.1.-	N-Acetyl-D-glucosaminyldiphosphoundecaprenol	UDP-N-acetyl-alpha-D-glucosamine	white
+polysaccharide biosynthesis protein PslC	2.4.1.-	N-Acetyl-D-glucosaminyldiphosphoundecaprenol	di-trans,poly-cis-Undecaprenyl phosphate	white
+polysaccharide biosynthesis protein PslC	2.4.1.-	UDP-N-acetyl-alpha-D-glucosamine	N-Acetyl-D-glucosaminyldiphosphoundecaprenol	white
+polysaccharide biosynthesis protein PslC	2.4.1.-	UDP-N-acetyl-alpha-D-glucosamine	UMP	white
+polysaccharide biosynthesis protein PslC	2.4.1.-	UMP	UDP-N-acetyl-alpha-D-glucosamine	white
+polysaccharide biosynthesis protein PslC	2.4.1.-	UMP	di-trans,poly-cis-Undecaprenyl phosphate	white
+polysaccharide biosynthesis protein PslC	2.4.1.-	di-trans,poly-cis-Undecaprenyl phosphate	N-Acetyl-D-glucosaminyldiphosphoundecaprenol	white
+polysaccharide biosynthesis protein PslC	2.4.1.-	di-trans,poly-cis-Undecaprenyl phosphate	UMP	white
+polysaccharide biosynthesis protein PslF	2.4.1.-	N-Acetyl-D-glucosaminyldiphosphoundecaprenol	UDP-N-acetyl-alpha-D-glucosamine	white
+polysaccharide biosynthesis protein PslF	2.4.1.-	N-Acetyl-D-glucosaminyldiphosphoundecaprenol	di-trans,poly-cis-Undecaprenyl phosphate	white
+polysaccharide biosynthesis protein PslF	2.4.1.-	UDP-N-acetyl-alpha-D-glucosamine	N-Acetyl-D-glucosaminyldiphosphoundecaprenol	white
+polysaccharide biosynthesis protein PslF	2.4.1.-	UDP-N-acetyl-alpha-D-glucosamine	UMP	white
+polysaccharide biosynthesis protein PslF	2.4.1.-	UMP	UDP-N-acetyl-alpha-D-glucosamine	white
+polysaccharide biosynthesis protein PslF	2.4.1.-	UMP	di-trans,poly-cis-Undecaprenyl phosphate	white
+polysaccharide biosynthesis protein PslF	2.4.1.-	di-trans,poly-cis-Undecaprenyl phosphate	N-Acetyl-D-glucosaminyldiphosphoundecaprenol	white
+polysaccharide biosynthesis protein PslF	2.4.1.-	di-trans,poly-cis-Undecaprenyl phosphate	UMP	white
+polysaccharide biosynthesis protein PslH	2.4.1.-	N-Acetyl-D-glucosaminyldiphosphoundecaprenol	UDP-N-acetyl-alpha-D-glucosamine	white
+polysaccharide biosynthesis protein PslH	2.4.1.-	N-Acetyl-D-glucosaminyldiphosphoundecaprenol	di-trans,poly-cis-Undecaprenyl phosphate	white
+polysaccharide biosynthesis protein PslH	2.4.1.-	UDP-N-acetyl-alpha-D-glucosamine	N-Acetyl-D-glucosaminyldiphosphoundecaprenol	white
+polysaccharide biosynthesis protein PslH	2.4.1.-	UDP-N-acetyl-alpha-D-glucosamine	UMP	white
+polysaccharide biosynthesis protein PslH	2.4.1.-	UMP	UDP-N-acetyl-alpha-D-glucosamine	white
+polysaccharide biosynthesis protein PslH	2.4.1.-	UMP	di-trans,poly-cis-Undecaprenyl phosphate	white
+polysaccharide biosynthesis protein PslH	2.4.1.-	di-trans,poly-cis-Undecaprenyl phosphate	N-Acetyl-D-glucosaminyldiphosphoundecaprenol	white
+polysaccharide biosynthesis protein PslH	2.4.1.-	di-trans,poly-cis-Undecaprenyl phosphate	UMP	white
+polysaccharide biosynthesis protein PslI	2.4.1.-	N-Acetyl-D-glucosaminyldiphosphoundecaprenol	UDP-N-acetyl-alpha-D-glucosamine	white
+polysaccharide biosynthesis protein PslI	2.4.1.-	N-Acetyl-D-glucosaminyldiphosphoundecaprenol	di-trans,poly-cis-Undecaprenyl phosphate	white
+polysaccharide biosynthesis protein PslI	2.4.1.-	UDP-N-acetyl-alpha-D-glucosamine	N-Acetyl-D-glucosaminyldiphosphoundecaprenol	white
+polysaccharide biosynthesis protein PslI	2.4.1.-	UDP-N-acetyl-alpha-D-glucosamine	UMP	white
+polysaccharide biosynthesis protein PslI	2.4.1.-	UMP	UDP-N-acetyl-alpha-D-glucosamine	white
+polysaccharide biosynthesis protein PslI	2.4.1.-	UMP	di-trans,poly-cis-Undecaprenyl phosphate	white
+polysaccharide biosynthesis protein PslI	2.4.1.-	di-trans,poly-cis-Undecaprenyl phosphate	N-Acetyl-D-glucosaminyldiphosphoundecaprenol	white
+polysaccharide biosynthesis protein PslI	2.4.1.-	di-trans,poly-cis-Undecaprenyl phosphate	UMP	white
+polysaccharide biosynthesis protein VpsD	2.4.1.-	N-Acetyl-D-glucosaminyldiphosphoundecaprenol	UDP-N-acetyl-alpha-D-glucosamine	white
+polysaccharide biosynthesis protein VpsD	2.4.1.-	N-Acetyl-D-glucosaminyldiphosphoundecaprenol	di-trans,poly-cis-Undecaprenyl phosphate	white
+polysaccharide biosynthesis protein VpsD	2.4.1.-	UDP-N-acetyl-alpha-D-glucosamine	N-Acetyl-D-glucosaminyldiphosphoundecaprenol	white
+polysaccharide biosynthesis protein VpsD	2.4.1.-	UDP-N-acetyl-alpha-D-glucosamine	UMP	white
+polysaccharide biosynthesis protein VpsD	2.4.1.-	UMP	UDP-N-acetyl-alpha-D-glucosamine	white
+polysaccharide biosynthesis protein VpsD	2.4.1.-	UMP	di-trans,poly-cis-Undecaprenyl phosphate	white
+polysaccharide biosynthesis protein VpsD	2.4.1.-	di-trans,poly-cis-Undecaprenyl phosphate	N-Acetyl-D-glucosaminyldiphosphoundecaprenol	white
+polysaccharide biosynthesis protein VpsD	2.4.1.-	di-trans,poly-cis-Undecaprenyl phosphate	UMP	white
+polysaccharide biosynthesis protein VpsI	2.4.1.-	N-Acetyl-D-glucosaminyldiphosphoundecaprenol	UDP-N-acetyl-alpha-D-glucosamine	white
+polysaccharide biosynthesis protein VpsI	2.4.1.-	N-Acetyl-D-glucosaminyldiphosphoundecaprenol	di-trans,poly-cis-Undecaprenyl phosphate	white
+polysaccharide biosynthesis protein VpsI	2.4.1.-	UDP-N-acetyl-alpha-D-glucosamine	N-Acetyl-D-glucosaminyldiphosphoundecaprenol	white
+polysaccharide biosynthesis protein VpsI	2.4.1.-	UDP-N-acetyl-alpha-D-glucosamine	UMP	white
+polysaccharide biosynthesis protein VpsI	2.4.1.-	UMP	UDP-N-acetyl-alpha-D-glucosamine	white
+polysaccharide biosynthesis protein VpsI	2.4.1.-	UMP	di-trans,poly-cis-Undecaprenyl phosphate	white
+polysaccharide biosynthesis protein VpsI	2.4.1.-	di-trans,poly-cis-Undecaprenyl phosphate	N-Acetyl-D-glucosaminyldiphosphoundecaprenol	white
+polysaccharide biosynthesis protein VpsI	2.4.1.-	di-trans,poly-cis-Undecaprenyl phosphate	UMP	white
+polysaccharide biosynthesis protein VpsK	2.4.1.-	N-Acetyl-D-glucosaminyldiphosphoundecaprenol	UDP-N-acetyl-alpha-D-glucosamine	white
+polysaccharide biosynthesis protein VpsK	2.4.1.-	N-Acetyl-D-glucosaminyldiphosphoundecaprenol	di-trans,poly-cis-Undecaprenyl phosphate	white
+polysaccharide biosynthesis protein VpsK	2.4.1.-	UDP-N-acetyl-alpha-D-glucosamine	N-Acetyl-D-glucosaminyldiphosphoundecaprenol	white
+polysaccharide biosynthesis protein VpsK	2.4.1.-	UDP-N-acetyl-alpha-D-glucosamine	UMP	white
+polysaccharide biosynthesis protein VpsK	2.4.1.-	UMP	UDP-N-acetyl-alpha-D-glucosamine	white
+polysaccharide biosynthesis protein VpsK	2.4.1.-	UMP	di-trans,poly-cis-Undecaprenyl phosphate	white
+polysaccharide biosynthesis protein VpsK	2.4.1.-	di-trans,poly-cis-Undecaprenyl phosphate	N-Acetyl-D-glucosaminyldiphosphoundecaprenol	white
+polysaccharide biosynthesis protein VpsK	2.4.1.-	di-trans,poly-cis-Undecaprenyl phosphate	UMP	white
+putative colanic acid biosynthesis acetyltransferase WcaB	2.3.1.-	N-Acetyl-D-glucosaminyldiphosphoundecaprenol	UDP-N-acetyl-alpha-D-glucosamine	white
+putative colanic acid biosynthesis acetyltransferase WcaB	2.3.1.-	N-Acetyl-D-glucosaminyldiphosphoundecaprenol	di-trans,poly-cis-Undecaprenyl phosphate	white
+putative colanic acid biosynthesis acetyltransferase WcaB	2.3.1.-	UDP-N-acetyl-alpha-D-glucosamine	N-Acetyl-D-glucosaminyldiphosphoundecaprenol	white
+putative colanic acid biosynthesis acetyltransferase WcaB	2.3.1.-	UDP-N-acetyl-alpha-D-glucosamine	UMP	white
+putative colanic acid biosynthesis acetyltransferase WcaB	2.3.1.-	UMP	UDP-N-acetyl-alpha-D-glucosamine	white
+putative colanic acid biosynthesis acetyltransferase WcaB	2.3.1.-	UMP	di-trans,poly-cis-Undecaprenyl phosphate	white
+putative colanic acid biosynthesis acetyltransferase WcaB	2.3.1.-	di-trans,poly-cis-Undecaprenyl phosphate	N-Acetyl-D-glucosaminyldiphosphoundecaprenol	white
+putative colanic acid biosynthesis acetyltransferase WcaB	2.3.1.-	di-trans,poly-cis-Undecaprenyl phosphate	UMP	white
+putative colanic acid biosynthesis acetyltransferase WcaF	2.3.1.-	N-Acetyl-D-glucosaminyldiphosphoundecaprenol	UDP-N-acetyl-alpha-D-glucosamine	white
+putative colanic acid biosynthesis acetyltransferase WcaF	2.3.1.-	N-Acetyl-D-glucosaminyldiphosphoundecaprenol	di-trans,poly-cis-Undecaprenyl phosphate	white
+putative colanic acid biosynthesis acetyltransferase WcaF	2.3.1.-	UDP-N-acetyl-alpha-D-glucosamine	N-Acetyl-D-glucosaminyldiphosphoundecaprenol	white
+putative colanic acid biosynthesis acetyltransferase WcaF	2.3.1.-	UDP-N-acetyl-alpha-D-glucosamine	UMP	white
+putative colanic acid biosynthesis acetyltransferase WcaF	2.3.1.-	UMP	UDP-N-acetyl-alpha-D-glucosamine	white
+putative colanic acid biosynthesis acetyltransferase WcaF	2.3.1.-	UMP	di-trans,poly-cis-Undecaprenyl phosphate	white
+putative colanic acid biosynthesis acetyltransferase WcaF	2.3.1.-	di-trans,poly-cis-Undecaprenyl phosphate	N-Acetyl-D-glucosaminyldiphosphoundecaprenol	white
+putative colanic acid biosynthesis acetyltransferase WcaF	2.3.1.-	di-trans,poly-cis-Undecaprenyl phosphate	UMP	white
+putative colanic acid biosynthesis glycosyltransferase WcaA	2.4.-.-	N-Acetyl-D-glucosaminyldiphosphoundecaprenol	UDP-N-acetyl-alpha-D-glucosamine	white
+putative colanic acid biosynthesis glycosyltransferase WcaA	2.4.-.-	N-Acetyl-D-glucosaminyldiphosphoundecaprenol	di-trans,poly-cis-Undecaprenyl phosphate	white
+putative colanic acid biosynthesis glycosyltransferase WcaA	2.4.-.-	UDP-N-acetyl-alpha-D-glucosamine	N-Acetyl-D-glucosaminyldiphosphoundecaprenol	white
+putative colanic acid biosynthesis glycosyltransferase WcaA	2.4.-.-	UDP-N-acetyl-alpha-D-glucosamine	UMP	white
+putative colanic acid biosynthesis glycosyltransferase WcaA	2.4.-.-	UMP	UDP-N-acetyl-alpha-D-glucosamine	white
+putative colanic acid biosynthesis glycosyltransferase WcaA	2.4.-.-	UMP	di-trans,poly-cis-Undecaprenyl phosphate	white
+putative colanic acid biosynthesis glycosyltransferase WcaA	2.4.-.-	di-trans,poly-cis-Undecaprenyl phosphate	N-Acetyl-D-glucosaminyldiphosphoundecaprenol	white
+putative colanic acid biosynthesis glycosyltransferase WcaA	2.4.-.-	di-trans,poly-cis-Undecaprenyl phosphate	UMP	white
+putative colanic acid biosynthesis glycosyltransferase WcaC	2.4.-.-	N-Acetyl-D-glucosaminyldiphosphoundecaprenol	UDP-N-acetyl-alpha-D-glucosamine	white
+putative colanic acid biosynthesis glycosyltransferase WcaC	2.4.-.-	N-Acetyl-D-glucosaminyldiphosphoundecaprenol	di-trans,poly-cis-Undecaprenyl phosphate	white
+putative colanic acid biosynthesis glycosyltransferase WcaC	2.4.-.-	UDP-N-acetyl-alpha-D-glucosamine	N-Acetyl-D-glucosaminyldiphosphoundecaprenol	white
+putative colanic acid biosynthesis glycosyltransferase WcaC	2.4.-.-	UDP-N-acetyl-alpha-D-glucosamine	UMP	white
+putative colanic acid biosynthesis glycosyltransferase WcaC	2.4.-.-	UMP	UDP-N-acetyl-alpha-D-glucosamine	white
+putative colanic acid biosynthesis glycosyltransferase WcaC	2.4.-.-	UMP	di-trans,poly-cis-Undecaprenyl phosphate	white
+putative colanic acid biosynthesis glycosyltransferase WcaC	2.4.-.-	di-trans,poly-cis-Undecaprenyl phosphate	N-Acetyl-D-glucosaminyldiphosphoundecaprenol	white
+putative colanic acid biosynthesis glycosyltransferase WcaC	2.4.-.-	di-trans,poly-cis-Undecaprenyl phosphate	UMP	white
+putative colanic acid biosynthesis glycosyltransferase WcaE	2.4.-.-	N-Acetyl-D-glucosaminyldiphosphoundecaprenol	UDP-N-acetyl-alpha-D-glucosamine	white
+putative colanic acid biosynthesis glycosyltransferase WcaE	2.4.-.-	N-Acetyl-D-glucosaminyldiphosphoundecaprenol	di-trans,poly-cis-Undecaprenyl phosphate	white
+putative colanic acid biosynthesis glycosyltransferase WcaE	2.4.-.-	UDP-N-acetyl-alpha-D-glucosamine	N-Acetyl-D-glucosaminyldiphosphoundecaprenol	white
+putative colanic acid biosynthesis glycosyltransferase WcaE	2.4.-.-	UDP-N-acetyl-alpha-D-glucosamine	UMP	white
+putative colanic acid biosynthesis glycosyltransferase WcaE	2.4.-.-	UMP	UDP-N-acetyl-alpha-D-glucosamine	white
+putative colanic acid biosynthesis glycosyltransferase WcaE	2.4.-.-	UMP	di-trans,poly-cis-Undecaprenyl phosphate	white
+putative colanic acid biosynthesis glycosyltransferase WcaE	2.4.-.-	di-trans,poly-cis-Undecaprenyl phosphate	N-Acetyl-D-glucosaminyldiphosphoundecaprenol	white
+putative colanic acid biosynthesis glycosyltransferase WcaE	2.4.-.-	di-trans,poly-cis-Undecaprenyl phosphate	UMP	white
+putative colanic acid biosynthesis glycosyltransferase WcaI	2.4.1.-	N-Acetyl-D-glucosaminyldiphosphoundecaprenol	UDP-N-acetyl-alpha-D-glucosamine	white
+putative colanic acid biosynthesis glycosyltransferase WcaI	2.4.1.-	N-Acetyl-D-glucosaminyldiphosphoundecaprenol	di-trans,poly-cis-Undecaprenyl phosphate	white
+putative colanic acid biosynthesis glycosyltransferase WcaI	2.4.1.-	UDP-N-acetyl-alpha-D-glucosamine	N-Acetyl-D-glucosaminyldiphosphoundecaprenol	white
+putative colanic acid biosynthesis glycosyltransferase WcaI	2.4.1.-	UDP-N-acetyl-alpha-D-glucosamine	UMP	white
+putative colanic acid biosynthesis glycosyltransferase WcaI	2.4.1.-	UMP	UDP-N-acetyl-alpha-D-glucosamine	white
+putative colanic acid biosynthesis glycosyltransferase WcaI	2.4.1.-	UMP	di-trans,poly-cis-Undecaprenyl phosphate	white
+putative colanic acid biosynthesis glycosyltransferase WcaI	2.4.1.-	di-trans,poly-cis-Undecaprenyl phosphate	N-Acetyl-D-glucosaminyldiphosphoundecaprenol	white
+putative colanic acid biosynthesis glycosyltransferase WcaI	2.4.1.-	di-trans,poly-cis-Undecaprenyl phosphate	UMP	white
+pyruvyltransferase	2.3.1.-	D-GlcA-beta-(1->2)-D-Man-alpha-(1->3)-D-Glc-beta-(1->4)-D-Glc-alpha-1-diphospho-ditrans,octacis-undecaprenol	D-Man-beta-(1->4)-GlcA-beta-(1->2)-D-Man-alpha-(1->3)-D-Glc-beta-(1->4)-D-Glc-alpha-1-diphospho-ditrans,octacis-undecaprenol	white
+pyruvyltransferase	2.3.1.-	D-GlcA-beta-(1->2)-D-Man-alpha-(1->3)-D-Glc-beta-(1->4)-D-Glc-alpha-1-diphospho-ditrans,octacis-undecaprenol	GDP	white
+pyruvyltransferase	2.3.1.-	D-Man-beta-(1->4)-GlcA-beta-(1->2)-D-Man-alpha-(1->3)-D-Glc-beta-(1->4)-D-Glc-alpha-1-diphospho-ditrans,octacis-undecaprenol	D-GlcA-beta-(1->2)-D-Man-alpha-(1->3)-D-Glc-beta-(1->4)-D-Glc-alpha-1-diphospho-ditrans,octacis-undecaprenol	white
+pyruvyltransferase	2.3.1.-	D-Man-beta-(1->4)-GlcA-beta-(1->2)-D-Man-alpha-(1->3)-D-Glc-beta-(1->4)-D-Glc-alpha-1-diphospho-ditrans,octacis-undecaprenol	GDP-mannose	white
+pyruvyltransferase	2.3.1.-	GDP	D-GlcA-beta-(1->2)-D-Man-alpha-(1->3)-D-Glc-beta-(1->4)-D-Glc-alpha-1-diphospho-ditrans,octacis-undecaprenol	white
+pyruvyltransferase	2.3.1.-	GDP	GDP-mannose	white
+pyruvyltransferase	2.3.1.-	GDP-mannose	D-Man-beta-(1->4)-GlcA-beta-(1->2)-D-Man-alpha-(1->3)-D-Glc-beta-(1->4)-D-Glc-alpha-1-diphospho-ditrans,octacis-undecaprenol	white
+pyruvyltransferase	2.3.1.-	GDP-mannose	GDP	white
+rhamnosyltransferase	2.4.1.264	D-GlcA-beta-(1->2)-D-Man-alpha-(1->3)-D-Glc-beta-(1->4)-D-Glc-alpha-1-diphospho-ditrans,octacis-undecaprenol	D-Man-alpha-(1->3)-D-Glc-beta-(1->4)-D-Glc-alpha-1-diphospho-ditrans,octacis-undecaprenol	white
+rhamnosyltransferase	2.4.1.264	D-GlcA-beta-(1->2)-D-Man-alpha-(1->3)-D-Glc-beta-(1->4)-D-Glc-alpha-1-diphospho-ditrans,octacis-undecaprenol	UDP-glucuronate	white
+rhamnosyltransferase	2.4.1.264	D-Man-alpha-(1->3)-D-Glc-beta-(1->4)-D-Glc-alpha-1-diphospho-ditrans,octacis-undecaprenol	D-GlcA-beta-(1->2)-D-Man-alpha-(1->3)-D-Glc-beta-(1->4)-D-Glc-alpha-1-diphospho-ditrans,octacis-undecaprenol	white
+rhamnosyltransferase	2.4.1.264	D-Man-alpha-(1->3)-D-Glc-beta-(1->4)-D-Glc-alpha-1-diphospho-ditrans,octacis-undecaprenol	UDP	white
+rhamnosyltransferase	2.4.1.264	UDP	D-Man-alpha-(1->3)-D-Glc-beta-(1->4)-D-Glc-alpha-1-diphospho-ditrans,octacis-undecaprenol	white
+rhamnosyltransferase	2.4.1.264	UDP	UDP-glucuronate	white
+rhamnosyltransferase	2.4.1.264	UDP-glucuronate	D-GlcA-beta-(1->2)-D-Man-alpha-(1->3)-D-Glc-beta-(1->4)-D-Glc-alpha-1-diphospho-ditrans,octacis-undecaprenol	white
+rhamnosyltransferase	2.4.1.264	UDP-glucuronate	UDP	white
+serine O-acetyltransferase	2.3.1.30	Acetyl-CoA	CoA	white
+serine O-acetyltransferase	2.3.1.30	Acetyl-CoA	O-Acetyl-L-serine	white
+serine O-acetyltransferase	2.3.1.30	CoA	Acetyl-CoA	white
+serine O-acetyltransferase	2.3.1.30	CoA	L-Serine	white
+serine O-acetyltransferase	2.3.1.30	L-Serine	CoA	white
+serine O-acetyltransferase	2.3.1.30	L-Serine	O-Acetyl-L-serine	white
+serine O-acetyltransferase	2.3.1.30	O-Acetyl-L-serine	Acetyl-CoA	white
+serine O-acetyltransferase	2.3.1.30	O-Acetyl-L-serine	L-Serine	white
+stewartan biosynthesis galactosyltransferase CpsF	2.4.-.-	4-Acetamido-4,6-dideoxy-alpha-D-galactosyl-(1->4)-N-acetyl-beta-D-mannosaminuronosyl-(1->4)-N-acetyl-alpha-D-glucosaminyl-diphospho-ditrans,octacis-undecaprenol	N-Acetyl-beta-D-mannosaminuronosyl-(1->4)-N-acetyl-alpha-D-glucosaminyl-diphospho-ditrans,octacis-undecaprenol	white
+stewartan biosynthesis galactosyltransferase CpsF	2.4.-.-	4-Acetamido-4,6-dideoxy-alpha-D-galactosyl-(1->4)-N-acetyl-beta-D-mannosaminuronosyl-(1->4)-N-acetyl-alpha-D-glucosaminyl-diphospho-ditrans,octacis-undecaprenol	dTDP-4-acetamido-4,6-dideoxy-alpha-D-galactose	white
+stewartan biosynthesis galactosyltransferase CpsF	2.4.-.-	N-Acetyl-beta-D-mannosaminuronosyl-(1->4)-N-acetyl-alpha-D-glucosaminyl-diphospho-ditrans,octacis-undecaprenol	4-Acetamido-4,6-dideoxy-alpha-D-galactosyl-(1->4)-N-acetyl-beta-D-mannosaminuronosyl-(1->4)-N-acetyl-alpha-D-glucosaminyl-diphospho-ditrans,octacis-undecaprenol	white
+stewartan biosynthesis galactosyltransferase CpsF	2.4.-.-	N-Acetyl-beta-D-mannosaminuronosyl-(1->4)-N-acetyl-alpha-D-glucosaminyl-diphospho-ditrans,octacis-undecaprenol	dTDP	white
+stewartan biosynthesis galactosyltransferase CpsF	2.4.-.-	dTDP	N-Acetyl-beta-D-mannosaminuronosyl-(1->4)-N-acetyl-alpha-D-glucosaminyl-diphospho-ditrans,octacis-undecaprenol	white
+stewartan biosynthesis galactosyltransferase CpsF	2.4.-.-	dTDP	dTDP-4-acetamido-4,6-dideoxy-alpha-D-galactose	white
+stewartan biosynthesis galactosyltransferase CpsF	2.4.-.-	dTDP-4-acetamido-4,6-dideoxy-alpha-D-galactose	4-Acetamido-4,6-dideoxy-alpha-D-galactosyl-(1->4)-N-acetyl-beta-D-mannosaminuronosyl-(1->4)-N-acetyl-alpha-D-glucosaminyl-diphospho-ditrans,octacis-undecaprenol	white
+stewartan biosynthesis galactosyltransferase CpsF	2.4.-.-	dTDP-4-acetamido-4,6-dideoxy-alpha-D-galactose	dTDP	white
+stewartan biosynthesis glycosyltransferase CpsG	2.4.-.-	4-Acetamido-4,6-dideoxy-alpha-D-galactosyl-(1->4)-N-acetyl-beta-D-mannosaminuronosyl-(1->4)-N-acetyl-alpha-D-glucosaminyl-diphospho-ditrans,octacis-undecaprenol	N-Acetyl-beta-D-mannosaminuronosyl-(1->4)-N-acetyl-alpha-D-glucosaminyl-diphospho-ditrans,octacis-undecaprenol	white
+stewartan biosynthesis glycosyltransferase CpsG	2.4.-.-	4-Acetamido-4,6-dideoxy-alpha-D-galactosyl-(1->4)-N-acetyl-beta-D-mannosaminuronosyl-(1->4)-N-acetyl-alpha-D-glucosaminyl-diphospho-ditrans,octacis-undecaprenol	dTDP-4-acetamido-4,6-dideoxy-alpha-D-galactose	white
+stewartan biosynthesis glycosyltransferase CpsG	2.4.-.-	N-Acetyl-beta-D-mannosaminuronosyl-(1->4)-N-acetyl-alpha-D-glucosaminyl-diphospho-ditrans,octacis-undecaprenol	4-Acetamido-4,6-dideoxy-alpha-D-galactosyl-(1->4)-N-acetyl-beta-D-mannosaminuronosyl-(1->4)-N-acetyl-alpha-D-glucosaminyl-diphospho-ditrans,octacis-undecaprenol	white
+stewartan biosynthesis glycosyltransferase CpsG	2.4.-.-	N-Acetyl-beta-D-mannosaminuronosyl-(1->4)-N-acetyl-alpha-D-glucosaminyl-diphospho-ditrans,octacis-undecaprenol	dTDP	white
+stewartan biosynthesis glycosyltransferase CpsG	2.4.-.-	dTDP	N-Acetyl-beta-D-mannosaminuronosyl-(1->4)-N-acetyl-alpha-D-glucosaminyl-diphospho-ditrans,octacis-undecaprenol	white
+stewartan biosynthesis glycosyltransferase CpsG	2.4.-.-	dTDP	dTDP-4-acetamido-4,6-dideoxy-alpha-D-galactose	white
+stewartan biosynthesis glycosyltransferase CpsG	2.4.-.-	dTDP-4-acetamido-4,6-dideoxy-alpha-D-galactose	4-Acetamido-4,6-dideoxy-alpha-D-galactosyl-(1->4)-N-acetyl-beta-D-mannosaminuronosyl-(1->4)-N-acetyl-alpha-D-glucosaminyl-diphospho-ditrans,octacis-undecaprenol	white
+stewartan biosynthesis glycosyltransferase CpsG	2.4.-.-	dTDP-4-acetamido-4,6-dideoxy-alpha-D-galactose	dTDP	white
+succinoglycan biosynthesis protein ExoA	2.4.-.-	D-GlcA-beta-(1->2)-D-Man-alpha-(1->3)-D-Glc-beta-(1->4)-D-Glc-alpha-1-diphospho-ditrans,octacis-undecaprenol	D-Man-beta-(1->4)-GlcA-beta-(1->2)-D-Man-alpha-(1->3)-D-Glc-beta-(1->4)-D-Glc-alpha-1-diphospho-ditrans,octacis-undecaprenol	white
+succinoglycan biosynthesis protein ExoA	2.4.-.-	D-GlcA-beta-(1->2)-D-Man-alpha-(1->3)-D-Glc-beta-(1->4)-D-Glc-alpha-1-diphospho-ditrans,octacis-undecaprenol	GDP	white
+succinoglycan biosynthesis protein ExoA	2.4.-.-	D-Man-beta-(1->4)-GlcA-beta-(1->2)-D-Man-alpha-(1->3)-D-Glc-beta-(1->4)-D-Glc-alpha-1-diphospho-ditrans,octacis-undecaprenol	D-GlcA-beta-(1->2)-D-Man-alpha-(1->3)-D-Glc-beta-(1->4)-D-Glc-alpha-1-diphospho-ditrans,octacis-undecaprenol	white
+succinoglycan biosynthesis protein ExoA	2.4.-.-	D-Man-beta-(1->4)-GlcA-beta-(1->2)-D-Man-alpha-(1->3)-D-Glc-beta-(1->4)-D-Glc-alpha-1-diphospho-ditrans,octacis-undecaprenol	GDP-mannose	white
+succinoglycan biosynthesis protein ExoA	2.4.-.-	GDP	D-GlcA-beta-(1->2)-D-Man-alpha-(1->3)-D-Glc-beta-(1->4)-D-Glc-alpha-1-diphospho-ditrans,octacis-undecaprenol	white
+succinoglycan biosynthesis protein ExoA	2.4.-.-	GDP	GDP-mannose	white
+succinoglycan biosynthesis protein ExoA	2.4.-.-	GDP-mannose	D-Man-beta-(1->4)-GlcA-beta-(1->2)-D-Man-alpha-(1->3)-D-Glc-beta-(1->4)-D-Glc-alpha-1-diphospho-ditrans,octacis-undecaprenol	white
+succinoglycan biosynthesis protein ExoA	2.4.-.-	GDP-mannose	GDP	white
+succinoglycan biosynthesis protein ExoH	2.4.-.-	D-GlcA-beta-(1->2)-D-Man-alpha-(1->3)-D-Glc-beta-(1->4)-D-Glc-alpha-1-diphospho-ditrans,octacis-undecaprenol	D-Man-beta-(1->4)-GlcA-beta-(1->2)-D-Man-alpha-(1->3)-D-Glc-beta-(1->4)-D-Glc-alpha-1-diphospho-ditrans,octacis-undecaprenol	white
+succinoglycan biosynthesis protein ExoH	2.4.-.-	D-GlcA-beta-(1->2)-D-Man-alpha-(1->3)-D-Glc-beta-(1->4)-D-Glc-alpha-1-diphospho-ditrans,octacis-undecaprenol	GDP	white
+succinoglycan biosynthesis protein ExoH	2.4.-.-	D-Man-beta-(1->4)-GlcA-beta-(1->2)-D-Man-alpha-(1->3)-D-Glc-beta-(1->4)-D-Glc-alpha-1-diphospho-ditrans,octacis-undecaprenol	D-GlcA-beta-(1->2)-D-Man-alpha-(1->3)-D-Glc-beta-(1->4)-D-Glc-alpha-1-diphospho-ditrans,octacis-undecaprenol	white
+succinoglycan biosynthesis protein ExoH	2.4.-.-	D-Man-beta-(1->4)-GlcA-beta-(1->2)-D-Man-alpha-(1->3)-D-Glc-beta-(1->4)-D-Glc-alpha-1-diphospho-ditrans,octacis-undecaprenol	GDP-mannose	white
+succinoglycan biosynthesis protein ExoH	2.4.-.-	GDP	D-GlcA-beta-(1->2)-D-Man-alpha-(1->3)-D-Glc-beta-(1->4)-D-Glc-alpha-1-diphospho-ditrans,octacis-undecaprenol	white
+succinoglycan biosynthesis protein ExoH	2.4.-.-	GDP	GDP-mannose	white
+succinoglycan biosynthesis protein ExoH	2.4.-.-	GDP-mannose	D-Man-beta-(1->4)-GlcA-beta-(1->2)-D-Man-alpha-(1->3)-D-Glc-beta-(1->4)-D-Glc-alpha-1-diphospho-ditrans,octacis-undecaprenol	white
+succinoglycan biosynthesis protein ExoH	2.4.-.-	GDP-mannose	GDP	white
+succinoglycan biosynthesis protein ExoL	2.-.-.-	D-GlcA-beta-(1->2)-D-Man-alpha-(1->3)-D-Glc-beta-(1->4)-D-Glc-alpha-1-diphospho-ditrans,octacis-undecaprenol	D-Man-beta-(1->4)-GlcA-beta-(1->2)-D-Man-alpha-(1->3)-D-Glc-beta-(1->4)-D-Glc-alpha-1-diphospho-ditrans,octacis-undecaprenol	white
+succinoglycan biosynthesis protein ExoL	2.-.-.-	D-GlcA-beta-(1->2)-D-Man-alpha-(1->3)-D-Glc-beta-(1->4)-D-Glc-alpha-1-diphospho-ditrans,octacis-undecaprenol	GDP	white
+succinoglycan biosynthesis protein ExoL	2.-.-.-	D-Man-beta-(1->4)-GlcA-beta-(1->2)-D-Man-alpha-(1->3)-D-Glc-beta-(1->4)-D-Glc-alpha-1-diphospho-ditrans,octacis-undecaprenol	D-GlcA-beta-(1->2)-D-Man-alpha-(1->3)-D-Glc-beta-(1->4)-D-Glc-alpha-1-diphospho-ditrans,octacis-undecaprenol	white
+succinoglycan biosynthesis protein ExoL	2.-.-.-	D-Man-beta-(1->4)-GlcA-beta-(1->2)-D-Man-alpha-(1->3)-D-Glc-beta-(1->4)-D-Glc-alpha-1-diphospho-ditrans,octacis-undecaprenol	GDP-mannose	white
+succinoglycan biosynthesis protein ExoL	2.-.-.-	GDP	D-GlcA-beta-(1->2)-D-Man-alpha-(1->3)-D-Glc-beta-(1->4)-D-Glc-alpha-1-diphospho-ditrans,octacis-undecaprenol	white
+succinoglycan biosynthesis protein ExoL	2.-.-.-	GDP	GDP-mannose	white
+succinoglycan biosynthesis protein ExoL	2.-.-.-	GDP-mannose	D-Man-beta-(1->4)-GlcA-beta-(1->2)-D-Man-alpha-(1->3)-D-Glc-beta-(1->4)-D-Glc-alpha-1-diphospho-ditrans,octacis-undecaprenol	white
+succinoglycan biosynthesis protein ExoL	2.-.-.-	GDP-mannose	GDP	white
+succinoglycan biosynthesis protein ExoM	2.4.-.-	D-GlcA-beta-(1->2)-D-Man-alpha-(1->3)-D-Glc-beta-(1->4)-D-Glc-alpha-1-diphospho-ditrans,octacis-undecaprenol	D-Man-beta-(1->4)-GlcA-beta-(1->2)-D-Man-alpha-(1->3)-D-Glc-beta-(1->4)-D-Glc-alpha-1-diphospho-ditrans,octacis-undecaprenol	white
+succinoglycan biosynthesis protein ExoM	2.4.-.-	D-GlcA-beta-(1->2)-D-Man-alpha-(1->3)-D-Glc-beta-(1->4)-D-Glc-alpha-1-diphospho-ditrans,octacis-undecaprenol	GDP	white
+succinoglycan biosynthesis protein ExoM	2.4.-.-	D-Man-beta-(1->4)-GlcA-beta-(1->2)-D-Man-alpha-(1->3)-D-Glc-beta-(1->4)-D-Glc-alpha-1-diphospho-ditrans,octacis-undecaprenol	D-GlcA-beta-(1->2)-D-Man-alpha-(1->3)-D-Glc-beta-(1->4)-D-Glc-alpha-1-diphospho-ditrans,octacis-undecaprenol	white
+succinoglycan biosynthesis protein ExoM	2.4.-.-	D-Man-beta-(1->4)-GlcA-beta-(1->2)-D-Man-alpha-(1->3)-D-Glc-beta-(1->4)-D-Glc-alpha-1-diphospho-ditrans,octacis-undecaprenol	GDP-mannose	white
+succinoglycan biosynthesis protein ExoM	2.4.-.-	GDP	D-GlcA-beta-(1->2)-D-Man-alpha-(1->3)-D-Glc-beta-(1->4)-D-Glc-alpha-1-diphospho-ditrans,octacis-undecaprenol	white
+succinoglycan biosynthesis protein ExoM	2.4.-.-	GDP	GDP-mannose	white
+succinoglycan biosynthesis protein ExoM	2.4.-.-	GDP-mannose	D-Man-beta-(1->4)-GlcA-beta-(1->2)-D-Man-alpha-(1->3)-D-Glc-beta-(1->4)-D-Glc-alpha-1-diphospho-ditrans,octacis-undecaprenol	white
+succinoglycan biosynthesis protein ExoM	2.4.-.-	GDP-mannose	GDP	white
+succinoglycan biosynthesis protein ExoO	2.4.-.-	D-GlcA-beta-(1->2)-D-Man-alpha-(1->3)-D-Glc-beta-(1->4)-D-Glc-alpha-1-diphospho-ditrans,octacis-undecaprenol	D-Man-beta-(1->4)-GlcA-beta-(1->2)-D-Man-alpha-(1->3)-D-Glc-beta-(1->4)-D-Glc-alpha-1-diphospho-ditrans,octacis-undecaprenol	white
+succinoglycan biosynthesis protein ExoO	2.4.-.-	D-GlcA-beta-(1->2)-D-Man-alpha-(1->3)-D-Glc-beta-(1->4)-D-Glc-alpha-1-diphospho-ditrans,octacis-undecaprenol	GDP	white
+succinoglycan biosynthesis protein ExoO	2.4.-.-	D-Man-beta-(1->4)-GlcA-beta-(1->2)-D-Man-alpha-(1->3)-D-Glc-beta-(1->4)-D-Glc-alpha-1-diphospho-ditrans,octacis-undecaprenol	D-GlcA-beta-(1->2)-D-Man-alpha-(1->3)-D-Glc-beta-(1->4)-D-Glc-alpha-1-diphospho-ditrans,octacis-undecaprenol	white
+succinoglycan biosynthesis protein ExoO	2.4.-.-	D-Man-beta-(1->4)-GlcA-beta-(1->2)-D-Man-alpha-(1->3)-D-Glc-beta-(1->4)-D-Glc-alpha-1-diphospho-ditrans,octacis-undecaprenol	GDP-mannose	white
+succinoglycan biosynthesis protein ExoO	2.4.-.-	GDP	D-GlcA-beta-(1->2)-D-Man-alpha-(1->3)-D-Glc-beta-(1->4)-D-Glc-alpha-1-diphospho-ditrans,octacis-undecaprenol	white
+succinoglycan biosynthesis protein ExoO	2.4.-.-	GDP	GDP-mannose	white
+succinoglycan biosynthesis protein ExoO	2.4.-.-	GDP-mannose	D-Man-beta-(1->4)-GlcA-beta-(1->2)-D-Man-alpha-(1->3)-D-Glc-beta-(1->4)-D-Glc-alpha-1-diphospho-ditrans,octacis-undecaprenol	white
+succinoglycan biosynthesis protein ExoO	2.4.-.-	GDP-mannose	GDP	white
+succinoglycan biosynthesis protein ExoU	2.4.-.-	D-GlcA-beta-(1->2)-D-Man-alpha-(1->3)-D-Glc-beta-(1->4)-D-Glc-alpha-1-diphospho-ditrans,octacis-undecaprenol	D-Man-beta-(1->4)-GlcA-beta-(1->2)-D-Man-alpha-(1->3)-D-Glc-beta-(1->4)-D-Glc-alpha-1-diphospho-ditrans,octacis-undecaprenol	white
+succinoglycan biosynthesis protein ExoU	2.4.-.-	D-GlcA-beta-(1->2)-D-Man-alpha-(1->3)-D-Glc-beta-(1->4)-D-Glc-alpha-1-diphospho-ditrans,octacis-undecaprenol	GDP	white
+succinoglycan biosynthesis protein ExoU	2.4.-.-	D-Man-beta-(1->4)-GlcA-beta-(1->2)-D-Man-alpha-(1->3)-D-Glc-beta-(1->4)-D-Glc-alpha-1-diphospho-ditrans,octacis-undecaprenol	D-GlcA-beta-(1->2)-D-Man-alpha-(1->3)-D-Glc-beta-(1->4)-D-Glc-alpha-1-diphospho-ditrans,octacis-undecaprenol	white
+succinoglycan biosynthesis protein ExoU	2.4.-.-	D-Man-beta-(1->4)-GlcA-beta-(1->2)-D-Man-alpha-(1->3)-D-Glc-beta-(1->4)-D-Glc-alpha-1-diphospho-ditrans,octacis-undecaprenol	GDP-mannose	white
+succinoglycan biosynthesis protein ExoU	2.4.-.-	GDP	D-GlcA-beta-(1->2)-D-Man-alpha-(1->3)-D-Glc-beta-(1->4)-D-Glc-alpha-1-diphospho-ditrans,octacis-undecaprenol	white
+succinoglycan biosynthesis protein ExoU	2.4.-.-	GDP	GDP-mannose	white
+succinoglycan biosynthesis protein ExoU	2.4.-.-	GDP-mannose	D-Man-beta-(1->4)-GlcA-beta-(1->2)-D-Man-alpha-(1->3)-D-Glc-beta-(1->4)-D-Glc-alpha-1-diphospho-ditrans,octacis-undecaprenol	white
+succinoglycan biosynthesis protein ExoU	2.4.-.-	GDP-mannose	GDP	white
+succinoglycan biosynthesis protein ExoV	2.4.-.-	D-GlcA-beta-(1->2)-D-Man-alpha-(1->3)-D-Glc-beta-(1->4)-D-Glc-alpha-1-diphospho-ditrans,octacis-undecaprenol	D-Man-beta-(1->4)-GlcA-beta-(1->2)-D-Man-alpha-(1->3)-D-Glc-beta-(1->4)-D-Glc-alpha-1-diphospho-ditrans,octacis-undecaprenol	white
+succinoglycan biosynthesis protein ExoV	2.4.-.-	D-GlcA-beta-(1->2)-D-Man-alpha-(1->3)-D-Glc-beta-(1->4)-D-Glc-alpha-1-diphospho-ditrans,octacis-undecaprenol	GDP	white
+succinoglycan biosynthesis protein ExoV	2.4.-.-	D-Man-beta-(1->4)-GlcA-beta-(1->2)-D-Man-alpha-(1->3)-D-Glc-beta-(1->4)-D-Glc-alpha-1-diphospho-ditrans,octacis-undecaprenol	D-GlcA-beta-(1->2)-D-Man-alpha-(1->3)-D-Glc-beta-(1->4)-D-Glc-alpha-1-diphospho-ditrans,octacis-undecaprenol	white
+succinoglycan biosynthesis protein ExoV	2.4.-.-	D-Man-beta-(1->4)-GlcA-beta-(1->2)-D-Man-alpha-(1->3)-D-Glc-beta-(1->4)-D-Glc-alpha-1-diphospho-ditrans,octacis-undecaprenol	GDP-mannose	white
+succinoglycan biosynthesis protein ExoV	2.4.-.-	GDP	D-GlcA-beta-(1->2)-D-Man-alpha-(1->3)-D-Glc-beta-(1->4)-D-Glc-alpha-1-diphospho-ditrans,octacis-undecaprenol	white
+succinoglycan biosynthesis protein ExoV	2.4.-.-	GDP	GDP-mannose	white
+succinoglycan biosynthesis protein ExoV	2.4.-.-	GDP-mannose	D-Man-beta-(1->4)-GlcA-beta-(1->2)-D-Man-alpha-(1->3)-D-Glc-beta-(1->4)-D-Glc-alpha-1-diphospho-ditrans,octacis-undecaprenol	white
+succinoglycan biosynthesis protein ExoV	2.4.-.-	GDP-mannose	GDP	white
+succinoglycan biosynthesis protein ExoW	2.4.-.-	D-GlcA-beta-(1->2)-D-Man-alpha-(1->3)-D-Glc-beta-(1->4)-D-Glc-alpha-1-diphospho-ditrans,octacis-undecaprenol	D-Man-beta-(1->4)-GlcA-beta-(1->2)-D-Man-alpha-(1->3)-D-Glc-beta-(1->4)-D-Glc-alpha-1-diphospho-ditrans,octacis-undecaprenol	white
+succinoglycan biosynthesis protein ExoW	2.4.-.-	D-GlcA-beta-(1->2)-D-Man-alpha-(1->3)-D-Glc-beta-(1->4)-D-Glc-alpha-1-diphospho-ditrans,octacis-undecaprenol	GDP	white
+succinoglycan biosynthesis protein ExoW	2.4.-.-	D-Man-beta-(1->4)-GlcA-beta-(1->2)-D-Man-alpha-(1->3)-D-Glc-beta-(1->4)-D-Glc-alpha-1-diphospho-ditrans,octacis-undecaprenol	D-GlcA-beta-(1->2)-D-Man-alpha-(1->3)-D-Glc-beta-(1->4)-D-Glc-alpha-1-diphospho-ditrans,octacis-undecaprenol	white
+succinoglycan biosynthesis protein ExoW	2.4.-.-	D-Man-beta-(1->4)-GlcA-beta-(1->2)-D-Man-alpha-(1->3)-D-Glc-beta-(1->4)-D-Glc-alpha-1-diphospho-ditrans,octacis-undecaprenol	GDP-mannose	white
+succinoglycan biosynthesis protein ExoW	2.4.-.-	GDP	D-GlcA-beta-(1->2)-D-Man-alpha-(1->3)-D-Glc-beta-(1->4)-D-Glc-alpha-1-diphospho-ditrans,octacis-undecaprenol	white
+succinoglycan biosynthesis protein ExoW	2.4.-.-	GDP	GDP-mannose	white
+succinoglycan biosynthesis protein ExoW	2.4.-.-	GDP-mannose	D-Man-beta-(1->4)-GlcA-beta-(1->2)-D-Man-alpha-(1->3)-D-Glc-beta-(1->4)-D-Glc-alpha-1-diphospho-ditrans,octacis-undecaprenol	white
+succinoglycan biosynthesis protein ExoW	2.4.-.-	GDP-mannose	GDP	white
+undecaprenyl-phosphate glucose phosphotransferase	2.7.8.31	N-Acetyl-D-glucosaminyldiphosphoundecaprenol	UDP-N-acetyl-alpha-D-glucosamine	white
+undecaprenyl-phosphate glucose phosphotransferase	2.7.8.31	N-Acetyl-D-glucosaminyldiphosphoundecaprenol	di-trans,poly-cis-Undecaprenyl phosphate	white
+undecaprenyl-phosphate glucose phosphotransferase	2.7.8.31	UDP-N-acetyl-alpha-D-glucosamine	N-Acetyl-D-glucosaminyldiphosphoundecaprenol	white
+undecaprenyl-phosphate glucose phosphotransferase	2.7.8.31	UDP-N-acetyl-alpha-D-glucosamine	UMP	white
+undecaprenyl-phosphate glucose phosphotransferase	2.7.8.31	UMP	UDP-N-acetyl-alpha-D-glucosamine	white
+undecaprenyl-phosphate glucose phosphotransferase	2.7.8.31	UMP	di-trans,poly-cis-Undecaprenyl phosphate	white
+undecaprenyl-phosphate glucose phosphotransferase	2.7.8.31	di-trans,poly-cis-Undecaprenyl phosphate	N-Acetyl-D-glucosaminyldiphosphoundecaprenol	white
+undecaprenyl-phosphate glucose phosphotransferase	2.7.8.31	di-trans,poly-cis-Undecaprenyl phosphate	UMP	white

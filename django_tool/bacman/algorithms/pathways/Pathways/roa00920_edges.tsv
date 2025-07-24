@@ -1,0 +1,1185 @@
+enzyme_name	EC	source	target	color
+(methylthio)acryloyl-CoA hydratase	4.2.1.155	3-(Methylthio)acryloyl-CoA	Acetaldehyde	white
+(methylthio)acryloyl-CoA hydratase	4.2.1.155	3-(Methylthio)acryloyl-CoA	CO2	white
+(methylthio)acryloyl-CoA hydratase	4.2.1.155	3-(Methylthio)acryloyl-CoA	CoA	white
+(methylthio)acryloyl-CoA hydratase	4.2.1.155	3-(Methylthio)acryloyl-CoA	Methanethiol	white
+(methylthio)acryloyl-CoA hydratase	4.2.1.155	Acetaldehyde	3-(Methylthio)acryloyl-CoA	white
+(methylthio)acryloyl-CoA hydratase	4.2.1.155	Acetaldehyde	H2O	white
+(methylthio)acryloyl-CoA hydratase	4.2.1.155	CO2	3-(Methylthio)acryloyl-CoA	white
+(methylthio)acryloyl-CoA hydratase	4.2.1.155	CO2	H2O	white
+(methylthio)acryloyl-CoA hydratase	4.2.1.155	CoA	3-(Methylthio)acryloyl-CoA	white
+(methylthio)acryloyl-CoA hydratase	4.2.1.155	CoA	H2O	white
+(methylthio)acryloyl-CoA hydratase	4.2.1.155	H2O	Acetaldehyde	white
+(methylthio)acryloyl-CoA hydratase	4.2.1.155	H2O	CO2	white
+(methylthio)acryloyl-CoA hydratase	4.2.1.155	H2O	CoA	white
+(methylthio)acryloyl-CoA hydratase	4.2.1.155	H2O	Methanethiol	white
+(methylthio)acryloyl-CoA hydratase	4.2.1.155	Methanethiol	3-(Methylthio)acryloyl-CoA	white
+(methylthio)acryloyl-CoA hydratase	4.2.1.155	Methanethiol	H2O	white
+2-hydroxy-4-(methylsulfanyl)butanoate S-methyltransferase	2.1.1.373	(2R)-2-Hydroxy-4-(methylsulfanyl)butanoate	(2R)-4-(Dimethylsulfaniumyl)-2-hydroxybutanoate	white
+2-hydroxy-4-(methylsulfanyl)butanoate S-methyltransferase	2.1.1.373	(2R)-2-Hydroxy-4-(methylsulfanyl)butanoate	S-Adenosyl-L-homocysteine	white
+2-hydroxy-4-(methylsulfanyl)butanoate S-methyltransferase	2.1.1.373	(2R)-4-(Dimethylsulfaniumyl)-2-hydroxybutanoate	(2R)-2-Hydroxy-4-(methylsulfanyl)butanoate	white
+2-hydroxy-4-(methylsulfanyl)butanoate S-methyltransferase	2.1.1.373	(2R)-4-(Dimethylsulfaniumyl)-2-hydroxybutanoate	S-Adenosyl-L-methionine	white
+2-hydroxy-4-(methylsulfanyl)butanoate S-methyltransferase	2.1.1.373	S-Adenosyl-L-homocysteine	(2R)-2-Hydroxy-4-(methylsulfanyl)butanoate	white
+2-hydroxy-4-(methylsulfanyl)butanoate S-methyltransferase	2.1.1.373	S-Adenosyl-L-homocysteine	S-Adenosyl-L-methionine	white
+2-hydroxy-4-(methylsulfanyl)butanoate S-methyltransferase	2.1.1.373	S-Adenosyl-L-methionine	(2R)-4-(Dimethylsulfaniumyl)-2-hydroxybutanoate	white
+2-hydroxy-4-(methylsulfanyl)butanoate S-methyltransferase	2.1.1.373	S-Adenosyl-L-methionine	S-Adenosyl-L-homocysteine	white
+3'(2'), 5'-bisphosphate nucleotidase	3.1.3.7	3'-Phosphoadenylyl sulfate	Adenylyl sulfate	green
+3'(2'), 5'-bisphosphate nucleotidase	3.1.3.7	3'-Phosphoadenylyl sulfate	Orthophosphate	green
+3'(2'), 5'-bisphosphate nucleotidase	3.1.3.7	H2O	Adenylyl sulfate	green
+3'(2'), 5'-bisphosphate nucleotidase	3.1.3.7	H2O	Orthophosphate	green
+3'-phosphoadenosine 5'-phosphosulfate synthase	2.7.7.4	3'-Phosphoadenylyl sulfate	ATP	white
+3'-phosphoadenosine 5'-phosphosulfate synthase	2.7.7.4	3'-Phosphoadenylyl sulfate	Adenylyl sulfate	white
+3'-phosphoadenosine 5'-phosphosulfate synthase	2.7.7.4	ADP	ATP	white
+3'-phosphoadenosine 5'-phosphosulfate synthase	2.7.7.4	ADP	Adenylyl sulfate	white
+3'-phosphoadenosine 5'-phosphosulfate synthase	2.7.7.4	ATP	3'-Phosphoadenylyl sulfate	white
+3'-phosphoadenosine 5'-phosphosulfate synthase	2.7.7.4	ATP	ADP	white
+3'-phosphoadenosine 5'-phosphosulfate synthase	2.7.7.4	Adenylyl sulfate	3'-Phosphoadenylyl sulfate	white
+3'-phosphoadenosine 5'-phosphosulfate synthase	2.7.7.4	Adenylyl sulfate	ADP	white
+3-(methylsulfanyl)propanoyl-CoA dehydrogenase	1.3.99.41	3-(Methylthio)acryloyl-CoA	3-(Methylthio)propanoyl-CoA	white
+3-(methylsulfanyl)propanoyl-CoA dehydrogenase	1.3.99.41	3-(Methylthio)acryloyl-CoA	Acceptor	white
+3-(methylsulfanyl)propanoyl-CoA dehydrogenase	1.3.99.41	3-(Methylthio)propanoyl-CoA	3-(Methylthio)acryloyl-CoA	white
+3-(methylsulfanyl)propanoyl-CoA dehydrogenase	1.3.99.41	3-(Methylthio)propanoyl-CoA	Reduced acceptor	white
+3-(methylsulfanyl)propanoyl-CoA dehydrogenase	1.3.99.41	Acceptor	3-(Methylthio)acryloyl-CoA	white
+3-(methylsulfanyl)propanoyl-CoA dehydrogenase	1.3.99.41	Acceptor	Reduced acceptor	white
+3-(methylsulfanyl)propanoyl-CoA dehydrogenase	1.3.99.41	Reduced acceptor	3-(Methylthio)propanoyl-CoA	white
+3-(methylsulfanyl)propanoyl-CoA dehydrogenase	1.3.99.41	Reduced acceptor	Acceptor	white
+3-(methylthio)propionyl---CoA ligase	6.2.1.44	3-(Methylthio)propanoate	3-(Methylthio)propanoyl-CoA	green
+3-(methylthio)propionyl---CoA ligase	6.2.1.44	3-(Methylthio)propanoate	AMP	green
+3-(methylthio)propionyl---CoA ligase	6.2.1.44	3-(Methylthio)propanoate	Diphosphate	green
+3-(methylthio)propionyl---CoA ligase	6.2.1.44	ATP	3-(Methylthio)propanoyl-CoA	green
+3-(methylthio)propionyl---CoA ligase	6.2.1.44	ATP	AMP	green
+3-(methylthio)propionyl---CoA ligase	6.2.1.44	ATP	Diphosphate	green
+3-(methylthio)propionyl---CoA ligase	6.2.1.44	CoA	3-(Methylthio)propanoyl-CoA	green
+3-(methylthio)propionyl---CoA ligase	6.2.1.44	CoA	AMP	green
+3-(methylthio)propionyl---CoA ligase	6.2.1.44	CoA	Diphosphate	green
+CoA hydratase	2.1.1.373	3-Hydroxypropanoate	Propenoyl-CoA	white
+CoA hydratase	2.1.1.373	Propenoyl-CoA	3-Hydroxypropanoate	white
+CoA transferase	2.1.1.373	Acrylic acid	Propenoyl-CoA	white
+CoA transferase	2.1.1.373	Propenoyl-CoA	Acrylic acid	white
+CoA-dependent NAD(P)H sulfur oxidoreductase	1.8.1.18	H+	Hydrogen sulfide	white
+CoA-dependent NAD(P)H sulfur oxidoreductase	1.8.1.18	H+	NAD+	white
+CoA-dependent NAD(P)H sulfur oxidoreductase	1.8.1.18	Hydrogen sulfide	H+	white
+CoA-dependent NAD(P)H sulfur oxidoreductase	1.8.1.18	Hydrogen sulfide	NADH	white
+CoA-dependent NAD(P)H sulfur oxidoreductase	1.8.1.18	Hydrogen sulfide	Sulfur	white
+CoA-dependent NAD(P)H sulfur oxidoreductase	1.8.1.18	NAD+	H+	white
+CoA-dependent NAD(P)H sulfur oxidoreductase	1.8.1.18	NAD+	NADH	white
+CoA-dependent NAD(P)H sulfur oxidoreductase	1.8.1.18	NAD+	Sulfur	white
+CoA-dependent NAD(P)H sulfur oxidoreductase	1.8.1.18	NADH	Hydrogen sulfide	white
+CoA-dependent NAD(P)H sulfur oxidoreductase	1.8.1.18	NADH	NAD+	white
+CoA-dependent NAD(P)H sulfur oxidoreductase	1.8.1.18	Sulfur	Hydrogen sulfide	white
+CoA-dependent NAD(P)H sulfur oxidoreductase	1.8.1.18	Sulfur	NAD+	white
+DMSHB decarboxylase	2.1.1.373	(2R)-4-(Dimethylsulfaniumyl)-2-hydroxybutanoate	S,S-Dimethyl-beta-propiothetin	white
+DMSHB decarboxylase	2.1.1.373	S,S-Dimethyl-beta-propiothetin	(2R)-4-(Dimethylsulfaniumyl)-2-hydroxybutanoate	white
+DMSP lyase	2.1.1.373	3-Hydroxypropanoate	H2O	white
+DMSP lyase	2.1.1.373	3-Hydroxypropanoate	S,S-Dimethyl-beta-propiothetin	white
+DMSP lyase	2.1.1.373	Dimethyl sulfide	H2O	white
+DMSP lyase	2.1.1.373	Dimethyl sulfide	S,S-Dimethyl-beta-propiothetin	white
+DMSP lyase	2.1.1.373	H2O	3-Hydroxypropanoate	white
+DMSP lyase	2.1.1.373	H2O	Dimethyl sulfide	white
+DMSP lyase	2.1.1.373	S,S-Dimethyl-beta-propiothetin	3-Hydroxypropanoate	white
+DMSP lyase	2.1.1.373	S,S-Dimethyl-beta-propiothetin	Dimethyl sulfide	white
+FMN reductase	1.5.1.38	Alkanesulfonate	Aldehyde	green
+FMN reductase	1.5.1.38	Alkanesulfonate	FMN	green
+FMN reductase	1.5.1.38	Alkanesulfonate	H2O	green
+FMN reductase	1.5.1.38	Alkanesulfonate	Sulfite	green
+FMN reductase	1.5.1.38	Dimethyl sulfone	FMN	green
+FMN reductase	1.5.1.38	Dimethyl sulfone	Formaldehyde	green
+FMN reductase	1.5.1.38	Dimethyl sulfone	H2O	green
+FMN reductase	1.5.1.38	Dimethyl sulfone	Methanesulfonic acid	green
+FMN reductase	1.5.1.38	Methanesulfonic acid	FMN	green
+FMN reductase	1.5.1.38	Methanesulfonic acid	Formaldehyde	green
+FMN reductase	1.5.1.38	Methanesulfonic acid	H2O	green
+FMN reductase	1.5.1.38	Methanesulfonic acid	Sulfite	green
+FMN reductase	1.5.1.38	Oxygen	Aldehyde	green
+FMN reductase	1.5.1.38	Oxygen	FMN	green
+FMN reductase	1.5.1.38	Oxygen	Formaldehyde	green
+FMN reductase	1.5.1.38	Oxygen	H2O	green
+FMN reductase	1.5.1.38	Oxygen	Methanesulfonic acid	green
+FMN reductase	1.5.1.38	Oxygen	Sulfite	green
+FMN reductase	1.5.1.38	Reduced FMN	Aldehyde	green
+FMN reductase	1.5.1.38	Reduced FMN	FMN	green
+FMN reductase	1.5.1.38	Reduced FMN	Formaldehyde	green
+FMN reductase	1.5.1.38	Reduced FMN	H2O	green
+FMN reductase	1.5.1.38	Reduced FMN	Methanesulfonic acid	green
+FMN reductase	1.5.1.38	Reduced FMN	Sulfite	green
+L-cysteine S-thiosulfotransferase	2.8.5.2	Ferricytochrome c	Ferrocytochrome c	white
+L-cysteine S-thiosulfotransferase	2.8.5.2	Ferricytochrome c	H+	white
+L-cysteine S-thiosulfotransferase	2.8.5.2	Ferricytochrome c	Sulfate	white
+L-cysteine S-thiosulfotransferase	2.8.5.2	Ferrocytochrome c	Ferricytochrome c	white
+L-cysteine S-thiosulfotransferase	2.8.5.2	Ferrocytochrome c	H2O	white
+L-cysteine S-thiosulfotransferase	2.8.5.2	Ferrocytochrome c	Thiosulfate	white
+L-cysteine S-thiosulfotransferase	2.8.5.2	H+	Ferricytochrome c	white
+L-cysteine S-thiosulfotransferase	2.8.5.2	H+	H2O	white
+L-cysteine S-thiosulfotransferase	2.8.5.2	H+	Thiosulfate	white
+L-cysteine S-thiosulfotransferase	2.8.5.2	H2O	Ferrocytochrome c	white
+L-cysteine S-thiosulfotransferase	2.8.5.2	H2O	H+	white
+L-cysteine S-thiosulfotransferase	2.8.5.2	H2O	Sulfate	white
+L-cysteine S-thiosulfotransferase	2.8.5.2	Sulfate	Ferricytochrome c	white
+L-cysteine S-thiosulfotransferase	2.8.5.2	Sulfate	H2O	white
+L-cysteine S-thiosulfotransferase	2.8.5.2	Sulfate	Thiosulfate	white
+L-cysteine S-thiosulfotransferase	2.8.5.2	Thiosulfate	Ferrocytochrome c	white
+L-cysteine S-thiosulfotransferase	2.8.5.2	Thiosulfate	H+	white
+L-cysteine S-thiosulfotransferase	2.8.5.2	Thiosulfate	Sulfate	white
+MTHB methyltransferase / DMSHB decarboxylase	2.1.1.373	(2R)-2-Hydroxy-4-(methylsulfanyl)butanoate	(2R)-4-(Dimethylsulfaniumyl)-2-hydroxybutanoate	white
+MTHB methyltransferase / DMSHB decarboxylase	2.1.1.373	(2R)-2-Hydroxy-4-(methylsulfanyl)butanoate	S-Adenosyl-L-homocysteine	white
+MTHB methyltransferase / DMSHB decarboxylase	2.1.1.373	(2R)-4-(Dimethylsulfaniumyl)-2-hydroxybutanoate	(2R)-2-Hydroxy-4-(methylsulfanyl)butanoate	white
+MTHB methyltransferase / DMSHB decarboxylase	2.1.1.373	(2R)-4-(Dimethylsulfaniumyl)-2-hydroxybutanoate	S-Adenosyl-L-methionine	white
+MTHB methyltransferase / DMSHB decarboxylase	2.1.1.373	S-Adenosyl-L-homocysteine	(2R)-2-Hydroxy-4-(methylsulfanyl)butanoate	white
+MTHB methyltransferase / DMSHB decarboxylase	2.1.1.373	S-Adenosyl-L-homocysteine	S-Adenosyl-L-methionine	white
+MTHB methyltransferase / DMSHB decarboxylase	2.1.1.373	S-Adenosyl-L-methionine	(2R)-4-(Dimethylsulfaniumyl)-2-hydroxybutanoate	white
+MTHB methyltransferase / DMSHB decarboxylase	2.1.1.373	S-Adenosyl-L-methionine	S-Adenosyl-L-homocysteine	white
+O-succinylhomoserine sulfhydrylase	2.5.1.-	Hydrogen sulfide	L-Homocysteine	green
+O-succinylhomoserine sulfhydrylase	2.5.1.-	Hydrogen sulfide	Succinate	green
+O-succinylhomoserine sulfhydrylase	2.5.1.-	O-Succinyl-L-homoserine	L-Homocysteine	green
+O-succinylhomoserine sulfhydrylase	2.5.1.-	O-Succinyl-L-homoserine	Succinate	green
+S-disulfanyl-L-cysteine oxidoreductase SoxD	1.8.2.6	Ferricytochrome c	Ferrocytochrome c	white
+S-disulfanyl-L-cysteine oxidoreductase SoxD	1.8.2.6	Ferricytochrome c	H+	white
+S-disulfanyl-L-cysteine oxidoreductase SoxD	1.8.2.6	Ferricytochrome c	Sulfate	white
+S-disulfanyl-L-cysteine oxidoreductase SoxD	1.8.2.6	Ferrocytochrome c	Ferricytochrome c	white
+S-disulfanyl-L-cysteine oxidoreductase SoxD	1.8.2.6	Ferrocytochrome c	H2O	white
+S-disulfanyl-L-cysteine oxidoreductase SoxD	1.8.2.6	Ferrocytochrome c	Thiosulfate	white
+S-disulfanyl-L-cysteine oxidoreductase SoxD	1.8.2.6	H+	Ferricytochrome c	white
+S-disulfanyl-L-cysteine oxidoreductase SoxD	1.8.2.6	H+	H2O	white
+S-disulfanyl-L-cysteine oxidoreductase SoxD	1.8.2.6	H+	Thiosulfate	white
+S-disulfanyl-L-cysteine oxidoreductase SoxD	1.8.2.6	H2O	Ferrocytochrome c	white
+S-disulfanyl-L-cysteine oxidoreductase SoxD	1.8.2.6	H2O	H+	white
+S-disulfanyl-L-cysteine oxidoreductase SoxD	1.8.2.6	H2O	Sulfate	white
+S-disulfanyl-L-cysteine oxidoreductase SoxD	1.8.2.6	Sulfate	Ferricytochrome c	white
+S-disulfanyl-L-cysteine oxidoreductase SoxD	1.8.2.6	Sulfate	H2O	white
+S-disulfanyl-L-cysteine oxidoreductase SoxD	1.8.2.6	Sulfate	Thiosulfate	white
+S-disulfanyl-L-cysteine oxidoreductase SoxD	1.8.2.6	Thiosulfate	Ferrocytochrome c	white
+S-disulfanyl-L-cysteine oxidoreductase SoxD	1.8.2.6	Thiosulfate	H+	white
+S-disulfanyl-L-cysteine oxidoreductase SoxD	1.8.2.6	Thiosulfate	Sulfate	white
+S-sulfosulfanyl-L-cysteine sulfohydrolase	3.1.6.20	Ferricytochrome c	Ferrocytochrome c	white
+S-sulfosulfanyl-L-cysteine sulfohydrolase	3.1.6.20	Ferricytochrome c	H+	white
+S-sulfosulfanyl-L-cysteine sulfohydrolase	3.1.6.20	Ferricytochrome c	Sulfate	white
+S-sulfosulfanyl-L-cysteine sulfohydrolase	3.1.6.20	Ferrocytochrome c	Ferricytochrome c	white
+S-sulfosulfanyl-L-cysteine sulfohydrolase	3.1.6.20	Ferrocytochrome c	H2O	white
+S-sulfosulfanyl-L-cysteine sulfohydrolase	3.1.6.20	Ferrocytochrome c	Thiosulfate	white
+S-sulfosulfanyl-L-cysteine sulfohydrolase	3.1.6.20	H+	Ferricytochrome c	white
+S-sulfosulfanyl-L-cysteine sulfohydrolase	3.1.6.20	H+	H2O	white
+S-sulfosulfanyl-L-cysteine sulfohydrolase	3.1.6.20	H+	Thiosulfate	white
+S-sulfosulfanyl-L-cysteine sulfohydrolase	3.1.6.20	H2O	Ferrocytochrome c	white
+S-sulfosulfanyl-L-cysteine sulfohydrolase	3.1.6.20	H2O	H+	white
+S-sulfosulfanyl-L-cysteine sulfohydrolase	3.1.6.20	H2O	Sulfate	white
+S-sulfosulfanyl-L-cysteine sulfohydrolase	3.1.6.20	Sulfate	Ferricytochrome c	white
+S-sulfosulfanyl-L-cysteine sulfohydrolase	3.1.6.20	Sulfate	H2O	white
+S-sulfosulfanyl-L-cysteine sulfohydrolase	3.1.6.20	Sulfate	Thiosulfate	white
+S-sulfosulfanyl-L-cysteine sulfohydrolase	3.1.6.20	Thiosulfate	Ferrocytochrome c	white
+S-sulfosulfanyl-L-cysteine sulfohydrolase	3.1.6.20	Thiosulfate	H+	white
+S-sulfosulfanyl-L-cysteine sulfohydrolase	3.1.6.20	Thiosulfate	Sulfate	white
+[DsrC]-trisulfide reductase subunit J	1.8.5.10	Hydrogen sulfide	Hydroquinone	white
+[DsrC]-trisulfide reductase subunit J	1.8.5.10	Hydrogen sulfide	Protein-trisulfide	white
+[DsrC]-trisulfide reductase subunit J	1.8.5.10	Hydroquinone	Hydrogen sulfide	white
+[DsrC]-trisulfide reductase subunit J	1.8.5.10	Hydroquinone	Protein dithiol	white
+[DsrC]-trisulfide reductase subunit J	1.8.5.10	Hydroquinone	p-Benzoquinone	white
+[DsrC]-trisulfide reductase subunit J	1.8.5.10	Protein dithiol	Hydroquinone	white
+[DsrC]-trisulfide reductase subunit J	1.8.5.10	Protein dithiol	Protein-trisulfide	white
+[DsrC]-trisulfide reductase subunit J	1.8.5.10	Protein-trisulfide	Hydrogen sulfide	white
+[DsrC]-trisulfide reductase subunit J	1.8.5.10	Protein-trisulfide	Protein dithiol	white
+[DsrC]-trisulfide reductase subunit J	1.8.5.10	Protein-trisulfide	p-Benzoquinone	white
+[DsrC]-trisulfide reductase subunit J	1.8.5.10	p-Benzoquinone	Hydroquinone	white
+[DsrC]-trisulfide reductase subunit J	1.8.5.10	p-Benzoquinone	Protein-trisulfide	white
+[DsrC]-trisulfide reductase subunit K	1.8.5.10	Hydrogen sulfide	Hydroquinone	white
+[DsrC]-trisulfide reductase subunit K	1.8.5.10	Hydrogen sulfide	Protein-trisulfide	white
+[DsrC]-trisulfide reductase subunit K	1.8.5.10	Hydroquinone	Hydrogen sulfide	white
+[DsrC]-trisulfide reductase subunit K	1.8.5.10	Hydroquinone	Protein dithiol	white
+[DsrC]-trisulfide reductase subunit K	1.8.5.10	Hydroquinone	p-Benzoquinone	white
+[DsrC]-trisulfide reductase subunit K	1.8.5.10	Protein dithiol	Hydroquinone	white
+[DsrC]-trisulfide reductase subunit K	1.8.5.10	Protein dithiol	Protein-trisulfide	white
+[DsrC]-trisulfide reductase subunit K	1.8.5.10	Protein-trisulfide	Hydrogen sulfide	white
+[DsrC]-trisulfide reductase subunit K	1.8.5.10	Protein-trisulfide	Protein dithiol	white
+[DsrC]-trisulfide reductase subunit K	1.8.5.10	Protein-trisulfide	p-Benzoquinone	white
+[DsrC]-trisulfide reductase subunit K	1.8.5.10	p-Benzoquinone	Hydroquinone	white
+[DsrC]-trisulfide reductase subunit K	1.8.5.10	p-Benzoquinone	Protein-trisulfide	white
+[DsrC]-trisulfide reductase subunit M	1.8.5.10	Hydrogen sulfide	Hydroquinone	white
+[DsrC]-trisulfide reductase subunit M	1.8.5.10	Hydrogen sulfide	Protein-trisulfide	white
+[DsrC]-trisulfide reductase subunit M	1.8.5.10	Hydroquinone	Hydrogen sulfide	white
+[DsrC]-trisulfide reductase subunit M	1.8.5.10	Hydroquinone	Protein dithiol	white
+[DsrC]-trisulfide reductase subunit M	1.8.5.10	Hydroquinone	p-Benzoquinone	white
+[DsrC]-trisulfide reductase subunit M	1.8.5.10	Protein dithiol	Hydroquinone	white
+[DsrC]-trisulfide reductase subunit M	1.8.5.10	Protein dithiol	Protein-trisulfide	white
+[DsrC]-trisulfide reductase subunit M	1.8.5.10	Protein-trisulfide	Hydrogen sulfide	white
+[DsrC]-trisulfide reductase subunit M	1.8.5.10	Protein-trisulfide	Protein dithiol	white
+[DsrC]-trisulfide reductase subunit M	1.8.5.10	Protein-trisulfide	p-Benzoquinone	white
+[DsrC]-trisulfide reductase subunit M	1.8.5.10	p-Benzoquinone	Hydroquinone	white
+[DsrC]-trisulfide reductase subunit M	1.8.5.10	p-Benzoquinone	Protein-trisulfide	white
+[DsrC]-trisulfide reductase subunit O	1.8.5.10	Hydrogen sulfide	Hydroquinone	white
+[DsrC]-trisulfide reductase subunit O	1.8.5.10	Hydrogen sulfide	Protein-trisulfide	white
+[DsrC]-trisulfide reductase subunit O	1.8.5.10	Hydroquinone	Hydrogen sulfide	white
+[DsrC]-trisulfide reductase subunit O	1.8.5.10	Hydroquinone	Protein dithiol	white
+[DsrC]-trisulfide reductase subunit O	1.8.5.10	Hydroquinone	p-Benzoquinone	white
+[DsrC]-trisulfide reductase subunit O	1.8.5.10	Protein dithiol	Hydroquinone	white
+[DsrC]-trisulfide reductase subunit O	1.8.5.10	Protein dithiol	Protein-trisulfide	white
+[DsrC]-trisulfide reductase subunit O	1.8.5.10	Protein-trisulfide	Hydrogen sulfide	white
+[DsrC]-trisulfide reductase subunit O	1.8.5.10	Protein-trisulfide	Protein dithiol	white
+[DsrC]-trisulfide reductase subunit O	1.8.5.10	Protein-trisulfide	p-Benzoquinone	white
+[DsrC]-trisulfide reductase subunit O	1.8.5.10	p-Benzoquinone	Hydroquinone	white
+[DsrC]-trisulfide reductase subunit O	1.8.5.10	p-Benzoquinone	Protein-trisulfide	white
+[DsrC]-trisulfide reductase subunit P	1.8.5.10	Hydrogen sulfide	Hydroquinone	white
+[DsrC]-trisulfide reductase subunit P	1.8.5.10	Hydrogen sulfide	Protein-trisulfide	white
+[DsrC]-trisulfide reductase subunit P	1.8.5.10	Hydroquinone	Hydrogen sulfide	white
+[DsrC]-trisulfide reductase subunit P	1.8.5.10	Hydroquinone	Protein dithiol	white
+[DsrC]-trisulfide reductase subunit P	1.8.5.10	Hydroquinone	p-Benzoquinone	white
+[DsrC]-trisulfide reductase subunit P	1.8.5.10	Protein dithiol	Hydroquinone	white
+[DsrC]-trisulfide reductase subunit P	1.8.5.10	Protein dithiol	Protein-trisulfide	white
+[DsrC]-trisulfide reductase subunit P	1.8.5.10	Protein-trisulfide	Hydrogen sulfide	white
+[DsrC]-trisulfide reductase subunit P	1.8.5.10	Protein-trisulfide	Protein dithiol	white
+[DsrC]-trisulfide reductase subunit P	1.8.5.10	Protein-trisulfide	p-Benzoquinone	white
+[DsrC]-trisulfide reductase subunit P	1.8.5.10	p-Benzoquinone	Hydroquinone	white
+[DsrC]-trisulfide reductase subunit P	1.8.5.10	p-Benzoquinone	Protein-trisulfide	white
+adenylyl-sulfate reductase (glutathione)	1.8.4.9	AMP	Adenylyl sulfate	white
+adenylyl-sulfate reductase (glutathione)	1.8.4.9	AMP	Glutathione	white
+adenylyl-sulfate reductase (glutathione)	1.8.4.9	Adenylyl sulfate	AMP	white
+adenylyl-sulfate reductase (glutathione)	1.8.4.9	Adenylyl sulfate	Glutathione disulfide	white
+adenylyl-sulfate reductase (glutathione)	1.8.4.9	Adenylyl sulfate	Sulfite	white
+adenylyl-sulfate reductase (glutathione)	1.8.4.9	Glutathione	AMP	white
+adenylyl-sulfate reductase (glutathione)	1.8.4.9	Glutathione	Glutathione disulfide	white
+adenylyl-sulfate reductase (glutathione)	1.8.4.9	Glutathione	Sulfite	white
+adenylyl-sulfate reductase (glutathione)	1.8.4.9	Glutathione disulfide	Adenylyl sulfate	white
+adenylyl-sulfate reductase (glutathione)	1.8.4.9	Glutathione disulfide	Glutathione	white
+adenylyl-sulfate reductase (glutathione)	1.8.4.9	Sulfite	Adenylyl sulfate	white
+adenylyl-sulfate reductase (glutathione)	1.8.4.9	Sulfite	Glutathione	white
+adenylylsulfate reductase, subunit A	1.8.99.2	AMP	Adenylyl sulfate	white
+adenylylsulfate reductase, subunit A	1.8.99.2	AMP	Reduced acceptor	white
+adenylylsulfate reductase, subunit A	1.8.99.2	Acceptor	Adenylyl sulfate	white
+adenylylsulfate reductase, subunit A	1.8.99.2	Acceptor	Reduced acceptor	white
+adenylylsulfate reductase, subunit A	1.8.99.2	Adenylyl sulfate	AMP	white
+adenylylsulfate reductase, subunit A	1.8.99.2	Adenylyl sulfate	Acceptor	white
+adenylylsulfate reductase, subunit A	1.8.99.2	Adenylyl sulfate	Sulfite	white
+adenylylsulfate reductase, subunit A	1.8.99.2	Reduced acceptor	AMP	white
+adenylylsulfate reductase, subunit A	1.8.99.2	Reduced acceptor	Acceptor	white
+adenylylsulfate reductase, subunit A	1.8.99.2	Reduced acceptor	Sulfite	white
+adenylylsulfate reductase, subunit A	1.8.99.2	Sulfite	Adenylyl sulfate	white
+adenylylsulfate reductase, subunit A	1.8.99.2	Sulfite	Reduced acceptor	white
+adenylylsulfate reductase, subunit B	1.8.99.2	AMP	Adenylyl sulfate	white
+adenylylsulfate reductase, subunit B	1.8.99.2	AMP	Reduced acceptor	white
+adenylylsulfate reductase, subunit B	1.8.99.2	Acceptor	Adenylyl sulfate	white
+adenylylsulfate reductase, subunit B	1.8.99.2	Acceptor	Reduced acceptor	white
+adenylylsulfate reductase, subunit B	1.8.99.2	Adenylyl sulfate	AMP	white
+adenylylsulfate reductase, subunit B	1.8.99.2	Adenylyl sulfate	Acceptor	white
+adenylylsulfate reductase, subunit B	1.8.99.2	Adenylyl sulfate	Sulfite	white
+adenylylsulfate reductase, subunit B	1.8.99.2	Reduced acceptor	AMP	white
+adenylylsulfate reductase, subunit B	1.8.99.2	Reduced acceptor	Acceptor	white
+adenylylsulfate reductase, subunit B	1.8.99.2	Reduced acceptor	Sulfite	white
+adenylylsulfate reductase, subunit B	1.8.99.2	Sulfite	Adenylyl sulfate	white
+adenylylsulfate reductase, subunit B	1.8.99.2	Sulfite	Reduced acceptor	white
+alkanesulfonate monooxygenase	1.14.14.5	Alkanesulfonate	Aldehyde	green
+alkanesulfonate monooxygenase	1.14.14.5	Alkanesulfonate	FMN	green
+alkanesulfonate monooxygenase	1.14.14.5	Alkanesulfonate	H2O	green
+alkanesulfonate monooxygenase	1.14.14.5	Alkanesulfonate	Sulfite	green
+alkanesulfonate monooxygenase	1.14.14.5	Methanesulfonic acid	FMN	green
+alkanesulfonate monooxygenase	1.14.14.5	Methanesulfonic acid	Formaldehyde	green
+alkanesulfonate monooxygenase	1.14.14.5	Methanesulfonic acid	H2O	green
+alkanesulfonate monooxygenase	1.14.14.5	Methanesulfonic acid	Sulfite	green
+alkanesulfonate monooxygenase	1.14.14.5	Oxygen	Aldehyde	green
+alkanesulfonate monooxygenase	1.14.14.5	Oxygen	FMN	green
+alkanesulfonate monooxygenase	1.14.14.5	Oxygen	Formaldehyde	green
+alkanesulfonate monooxygenase	1.14.14.5	Oxygen	H2O	green
+alkanesulfonate monooxygenase	1.14.14.5	Oxygen	Sulfite	green
+alkanesulfonate monooxygenase	1.14.14.5	Reduced FMN	Aldehyde	green
+alkanesulfonate monooxygenase	1.14.14.5	Reduced FMN	FMN	green
+alkanesulfonate monooxygenase	1.14.14.5	Reduced FMN	Formaldehyde	green
+alkanesulfonate monooxygenase	1.14.14.5	Reduced FMN	H2O	green
+alkanesulfonate monooxygenase	1.14.14.5	Reduced FMN	Sulfite	green
+anaerobic dimethyl sulfoxide reductase subunit A	1.8.5.3	Dimethyl sulfide	Dimethyl sulfoxide	white
+anaerobic dimethyl sulfoxide reductase subunit A	1.8.5.3	Dimethyl sulfide	Menaquinol	white
+anaerobic dimethyl sulfoxide reductase subunit A	1.8.5.3	Dimethyl sulfoxide	Dimethyl sulfide	white
+anaerobic dimethyl sulfoxide reductase subunit A	1.8.5.3	Dimethyl sulfoxide	H2O	white
+anaerobic dimethyl sulfoxide reductase subunit A	1.8.5.3	Dimethyl sulfoxide	Menaquinone	white
+anaerobic dimethyl sulfoxide reductase subunit A	1.8.5.3	H2O	Dimethyl sulfoxide	white
+anaerobic dimethyl sulfoxide reductase subunit A	1.8.5.3	H2O	Menaquinol	white
+anaerobic dimethyl sulfoxide reductase subunit A	1.8.5.3	Menaquinol	Dimethyl sulfide	white
+anaerobic dimethyl sulfoxide reductase subunit A	1.8.5.3	Menaquinol	H2O	white
+anaerobic dimethyl sulfoxide reductase subunit A	1.8.5.3	Menaquinol	Menaquinone	white
+anaerobic dimethyl sulfoxide reductase subunit A	1.8.5.3	Menaquinone	Dimethyl sulfoxide	white
+anaerobic dimethyl sulfoxide reductase subunit A	1.8.5.3	Menaquinone	Menaquinol	white
+anaerobic dimethyl sulfoxide reductase subunit B	1.8.5.3	Dimethyl sulfide	Dimethyl sulfoxide	white
+anaerobic dimethyl sulfoxide reductase subunit B	1.8.5.3	Dimethyl sulfide	Menaquinol	white
+anaerobic dimethyl sulfoxide reductase subunit B	1.8.5.3	Dimethyl sulfoxide	Dimethyl sulfide	white
+anaerobic dimethyl sulfoxide reductase subunit B	1.8.5.3	Dimethyl sulfoxide	H2O	white
+anaerobic dimethyl sulfoxide reductase subunit B	1.8.5.3	Dimethyl sulfoxide	Menaquinone	white
+anaerobic dimethyl sulfoxide reductase subunit B	1.8.5.3	H2O	Dimethyl sulfoxide	white
+anaerobic dimethyl sulfoxide reductase subunit B	1.8.5.3	H2O	Menaquinol	white
+anaerobic dimethyl sulfoxide reductase subunit B	1.8.5.3	Menaquinol	Dimethyl sulfide	white
+anaerobic dimethyl sulfoxide reductase subunit B	1.8.5.3	Menaquinol	H2O	white
+anaerobic dimethyl sulfoxide reductase subunit B	1.8.5.3	Menaquinol	Menaquinone	white
+anaerobic dimethyl sulfoxide reductase subunit B	1.8.5.3	Menaquinone	Dimethyl sulfoxide	white
+anaerobic dimethyl sulfoxide reductase subunit B	1.8.5.3	Menaquinone	Menaquinol	white
+anaerobic dimethyl sulfoxide reductase subunit C	1.8.5.3	Dimethyl sulfide	Dimethyl sulfoxide	white
+anaerobic dimethyl sulfoxide reductase subunit C	1.8.5.3	Dimethyl sulfide	Menaquinol	white
+anaerobic dimethyl sulfoxide reductase subunit C	1.8.5.3	Dimethyl sulfoxide	Dimethyl sulfide	white
+anaerobic dimethyl sulfoxide reductase subunit C	1.8.5.3	Dimethyl sulfoxide	H2O	white
+anaerobic dimethyl sulfoxide reductase subunit C	1.8.5.3	Dimethyl sulfoxide	Menaquinone	white
+anaerobic dimethyl sulfoxide reductase subunit C	1.8.5.3	H2O	Dimethyl sulfoxide	white
+anaerobic dimethyl sulfoxide reductase subunit C	1.8.5.3	H2O	Menaquinol	white
+anaerobic dimethyl sulfoxide reductase subunit C	1.8.5.3	Menaquinol	Dimethyl sulfide	white
+anaerobic dimethyl sulfoxide reductase subunit C	1.8.5.3	Menaquinol	H2O	white
+anaerobic dimethyl sulfoxide reductase subunit C	1.8.5.3	Menaquinol	Menaquinone	white
+anaerobic dimethyl sulfoxide reductase subunit C	1.8.5.3	Menaquinone	Dimethyl sulfoxide	white
+anaerobic dimethyl sulfoxide reductase subunit C	1.8.5.3	Menaquinone	Menaquinol	white
+anaerobic sulfite reductase subunit A	1.8.3.1	H+	H2O	white
+anaerobic sulfite reductase subunit A	1.8.3.1	H+	Hydrogen sulfide	white
+anaerobic sulfite reductase subunit A	1.8.3.1	H+	NADP+	white
+anaerobic sulfite reductase subunit A	1.8.3.1	H2O	H+	white
+anaerobic sulfite reductase subunit A	1.8.3.1	H2O	NADPH	white
+anaerobic sulfite reductase subunit A	1.8.3.1	H2O	Sulfite	white
+anaerobic sulfite reductase subunit A	1.8.3.1	Hydrogen sulfide	H+	white
+anaerobic sulfite reductase subunit A	1.8.3.1	Hydrogen sulfide	NADPH	white
+anaerobic sulfite reductase subunit A	1.8.3.1	Hydrogen sulfide	Sulfite	white
+anaerobic sulfite reductase subunit A	1.8.3.1	NADP+	H+	white
+anaerobic sulfite reductase subunit A	1.8.3.1	NADP+	NADPH	white
+anaerobic sulfite reductase subunit A	1.8.3.1	NADP+	Sulfite	white
+anaerobic sulfite reductase subunit A	1.8.3.1	NADPH	H2O	white
+anaerobic sulfite reductase subunit A	1.8.3.1	NADPH	Hydrogen sulfide	white
+anaerobic sulfite reductase subunit A	1.8.3.1	NADPH	NADP+	white
+anaerobic sulfite reductase subunit A	1.8.3.1	Sulfite	H2O	white
+anaerobic sulfite reductase subunit A	1.8.3.1	Sulfite	Hydrogen sulfide	white
+anaerobic sulfite reductase subunit A	1.8.3.1	Sulfite	NADP+	white
+anaerobic sulfite reductase subunit B	1.8.3.1	H+	H2O	white
+anaerobic sulfite reductase subunit B	1.8.3.1	H+	Hydrogen sulfide	white
+anaerobic sulfite reductase subunit B	1.8.3.1	H+	NADP+	white
+anaerobic sulfite reductase subunit B	1.8.3.1	H2O	H+	white
+anaerobic sulfite reductase subunit B	1.8.3.1	H2O	NADPH	white
+anaerobic sulfite reductase subunit B	1.8.3.1	H2O	Sulfite	white
+anaerobic sulfite reductase subunit B	1.8.3.1	Hydrogen sulfide	H+	white
+anaerobic sulfite reductase subunit B	1.8.3.1	Hydrogen sulfide	NADPH	white
+anaerobic sulfite reductase subunit B	1.8.3.1	Hydrogen sulfide	Sulfite	white
+anaerobic sulfite reductase subunit B	1.8.3.1	NADP+	H+	white
+anaerobic sulfite reductase subunit B	1.8.3.1	NADP+	NADPH	white
+anaerobic sulfite reductase subunit B	1.8.3.1	NADP+	Sulfite	white
+anaerobic sulfite reductase subunit B	1.8.3.1	NADPH	H2O	white
+anaerobic sulfite reductase subunit B	1.8.3.1	NADPH	Hydrogen sulfide	white
+anaerobic sulfite reductase subunit B	1.8.3.1	NADPH	NADP+	white
+anaerobic sulfite reductase subunit B	1.8.3.1	Sulfite	H2O	white
+anaerobic sulfite reductase subunit B	1.8.3.1	Sulfite	Hydrogen sulfide	white
+anaerobic sulfite reductase subunit B	1.8.3.1	Sulfite	NADP+	white
+anaerobic sulfite reductase subunit C	1.8.3.1	H+	H2O	white
+anaerobic sulfite reductase subunit C	1.8.3.1	H+	Hydrogen sulfide	white
+anaerobic sulfite reductase subunit C	1.8.3.1	H+	NADP+	white
+anaerobic sulfite reductase subunit C	1.8.3.1	H2O	H+	white
+anaerobic sulfite reductase subunit C	1.8.3.1	H2O	NADPH	white
+anaerobic sulfite reductase subunit C	1.8.3.1	H2O	Sulfite	white
+anaerobic sulfite reductase subunit C	1.8.3.1	Hydrogen sulfide	H+	white
+anaerobic sulfite reductase subunit C	1.8.3.1	Hydrogen sulfide	NADPH	white
+anaerobic sulfite reductase subunit C	1.8.3.1	Hydrogen sulfide	Sulfite	white
+anaerobic sulfite reductase subunit C	1.8.3.1	NADP+	H+	white
+anaerobic sulfite reductase subunit C	1.8.3.1	NADP+	NADPH	white
+anaerobic sulfite reductase subunit C	1.8.3.1	NADP+	Sulfite	white
+anaerobic sulfite reductase subunit C	1.8.3.1	NADPH	H2O	white
+anaerobic sulfite reductase subunit C	1.8.3.1	NADPH	Hydrogen sulfide	white
+anaerobic sulfite reductase subunit C	1.8.3.1	NADPH	NADP+	white
+anaerobic sulfite reductase subunit C	1.8.3.1	Sulfite	H2O	white
+anaerobic sulfite reductase subunit C	1.8.3.1	Sulfite	Hydrogen sulfide	white
+anaerobic sulfite reductase subunit C	1.8.3.1	Sulfite	NADP+	white
+bifunctional enzyme CysN/CysC	2.7.7.4	ATP	3'-Phosphoadenylyl sulfate	green
+bifunctional enzyme CysN/CysC	2.7.7.4	ATP	ADP	green
+bifunctional enzyme CysN/CysC	2.7.7.4	ATP	Adenylyl sulfate	green
+bifunctional enzyme CysN/CysC	2.7.7.4	ATP	Diphosphate	green
+bifunctional enzyme CysN/CysC	2.7.7.4	Adenylyl sulfate	3'-Phosphoadenylyl sulfate	green
+bifunctional enzyme CysN/CysC	2.7.7.4	Adenylyl sulfate	ADP	green
+bifunctional enzyme CysN/CysC	2.7.7.4	Sulfate	Adenylyl sulfate	green
+bifunctional enzyme CysN/CysC	2.7.7.4	Sulfate	Diphosphate	green
+bifunctional oligoribonuclease and PAP phosphatase NrnA	3.1.3.7	3'-Phosphoadenylyl sulfate	Adenylyl sulfate	green
+bifunctional oligoribonuclease and PAP phosphatase NrnA	3.1.3.7	3'-Phosphoadenylyl sulfate	Orthophosphate	green
+bifunctional oligoribonuclease and PAP phosphatase NrnA	3.1.3.7	H2O	Adenylyl sulfate	green
+bifunctional oligoribonuclease and PAP phosphatase NrnA	3.1.3.7	H2O	Orthophosphate	green
+cystathionine gamma-lyase / homocysteine desulfhydrase	4.4.1.1	Ammonia	H2O	white
+cystathionine gamma-lyase / homocysteine desulfhydrase	4.4.1.1	Ammonia	L-Cysteine	white
+cystathionine gamma-lyase / homocysteine desulfhydrase	4.4.1.1	H2O	Ammonia	white
+cystathionine gamma-lyase / homocysteine desulfhydrase	4.4.1.1	H2O	Hydrogen sulfide	white
+cystathionine gamma-lyase / homocysteine desulfhydrase	4.4.1.1	H2O	Pyruvate	white
+cystathionine gamma-lyase / homocysteine desulfhydrase	4.4.1.1	Hydrogen sulfide	H2O	white
+cystathionine gamma-lyase / homocysteine desulfhydrase	4.4.1.1	Hydrogen sulfide	L-Cysteine	white
+cystathionine gamma-lyase / homocysteine desulfhydrase	4.4.1.1	L-Cysteine	Ammonia	white
+cystathionine gamma-lyase / homocysteine desulfhydrase	4.4.1.1	L-Cysteine	Hydrogen sulfide	white
+cystathionine gamma-lyase / homocysteine desulfhydrase	4.4.1.1	L-Cysteine	Pyruvate	white
+cystathionine gamma-lyase / homocysteine desulfhydrase	4.4.1.1	Pyruvate	H2O	white
+cystathionine gamma-lyase / homocysteine desulfhydrase	4.4.1.1	Pyruvate	L-Cysteine	white
+cystathionine gamma-synthase	2.5.1.48	Hydrogen sulfide	L-Homocysteine	green
+cystathionine gamma-synthase	2.5.1.48	Hydrogen sulfide	Succinate	green
+cystathionine gamma-synthase	2.5.1.48	O-Succinyl-L-homoserine	L-Homocysteine	green
+cystathionine gamma-synthase	2.5.1.48	O-Succinyl-L-homoserine	Succinate	green
+cysteine synthase	2.5.1.47	Hydrogen sulfide	Acetate	green
+cysteine synthase	2.5.1.47	Hydrogen sulfide	L-Cysteine	green
+cysteine synthase	2.5.1.47	O-Acetyl-L-serine	Acetate	green
+cysteine synthase	2.5.1.47	O-Acetyl-L-serine	L-Cysteine	green
+cysteine synthase / O-phosphoserine sulfhydrylase / cystathionine beta-synthase	2.5.1.47	H2O	Hydrogen sulfide	white
+cysteine synthase / O-phosphoserine sulfhydrylase / cystathionine beta-synthase	2.5.1.47	H2O	L-Serine	white
+cysteine synthase / O-phosphoserine sulfhydrylase / cystathionine beta-synthase	2.5.1.47	Hydrogen sulfide	H2O	white
+cysteine synthase / O-phosphoserine sulfhydrylase / cystathionine beta-synthase	2.5.1.47	Hydrogen sulfide	L-Cysteine	white
+cysteine synthase / O-phosphoserine sulfhydrylase / cystathionine beta-synthase	2.5.1.47	L-Cysteine	Hydrogen sulfide	white
+cysteine synthase / O-phosphoserine sulfhydrylase / cystathionine beta-synthase	2.5.1.47	L-Cysteine	L-Serine	white
+cysteine synthase / O-phosphoserine sulfhydrylase / cystathionine beta-synthase	2.5.1.47	L-Serine	H2O	white
+cysteine synthase / O-phosphoserine sulfhydrylase / cystathionine beta-synthase	2.5.1.47	L-Serine	L-Cysteine	white
+cytochrome subunit of sulfide dehydrogenase	1.8.2.3	Ferricytochrome c	Ferrocytochrome c	white
+cytochrome subunit of sulfide dehydrogenase	1.8.2.3	Ferricytochrome c	H+	white
+cytochrome subunit of sulfide dehydrogenase	1.8.2.3	Ferricytochrome c	Sulfur	white
+cytochrome subunit of sulfide dehydrogenase	1.8.2.3	Ferrocytochrome c	Ferricytochrome c	white
+cytochrome subunit of sulfide dehydrogenase	1.8.2.3	Ferrocytochrome c	Hydrogen sulfide	white
+cytochrome subunit of sulfide dehydrogenase	1.8.2.3	H+	Ferricytochrome c	white
+cytochrome subunit of sulfide dehydrogenase	1.8.2.3	H+	Hydrogen sulfide	white
+cytochrome subunit of sulfide dehydrogenase	1.8.2.3	Hydrogen sulfide	Ferrocytochrome c	white
+cytochrome subunit of sulfide dehydrogenase	1.8.2.3	Hydrogen sulfide	H+	white
+cytochrome subunit of sulfide dehydrogenase	1.8.2.3	Hydrogen sulfide	Sulfur	white
+cytochrome subunit of sulfide dehydrogenase	1.8.2.3	Sulfur	Ferricytochrome c	white
+cytochrome subunit of sulfide dehydrogenase	1.8.2.3	Sulfur	Hydrogen sulfide	white
+dimethyl sulfoxide reductase iron-sulfur subunit	1.8.5.3	Dimethyl sulfide	Dimethyl sulfoxide	white
+dimethyl sulfoxide reductase iron-sulfur subunit	1.8.5.3	Dimethyl sulfide	Menaquinol	white
+dimethyl sulfoxide reductase iron-sulfur subunit	1.8.5.3	Dimethyl sulfoxide	Dimethyl sulfide	white
+dimethyl sulfoxide reductase iron-sulfur subunit	1.8.5.3	Dimethyl sulfoxide	H2O	white
+dimethyl sulfoxide reductase iron-sulfur subunit	1.8.5.3	Dimethyl sulfoxide	Menaquinone	white
+dimethyl sulfoxide reductase iron-sulfur subunit	1.8.5.3	H2O	Dimethyl sulfoxide	white
+dimethyl sulfoxide reductase iron-sulfur subunit	1.8.5.3	H2O	Menaquinol	white
+dimethyl sulfoxide reductase iron-sulfur subunit	1.8.5.3	Menaquinol	Dimethyl sulfide	white
+dimethyl sulfoxide reductase iron-sulfur subunit	1.8.5.3	Menaquinol	H2O	white
+dimethyl sulfoxide reductase iron-sulfur subunit	1.8.5.3	Menaquinol	Menaquinone	white
+dimethyl sulfoxide reductase iron-sulfur subunit	1.8.5.3	Menaquinone	Dimethyl sulfoxide	white
+dimethyl sulfoxide reductase iron-sulfur subunit	1.8.5.3	Menaquinone	Menaquinol	white
+dimethyl sulfoxide reductase membrane subunit	1.8.5.3	Dimethyl sulfide	Dimethyl sulfoxide	white
+dimethyl sulfoxide reductase membrane subunit	1.8.5.3	Dimethyl sulfide	Menaquinol	white
+dimethyl sulfoxide reductase membrane subunit	1.8.5.3	Dimethyl sulfoxide	Dimethyl sulfide	white
+dimethyl sulfoxide reductase membrane subunit	1.8.5.3	Dimethyl sulfoxide	H2O	white
+dimethyl sulfoxide reductase membrane subunit	1.8.5.3	Dimethyl sulfoxide	Menaquinone	white
+dimethyl sulfoxide reductase membrane subunit	1.8.5.3	H2O	Dimethyl sulfoxide	white
+dimethyl sulfoxide reductase membrane subunit	1.8.5.3	H2O	Menaquinol	white
+dimethyl sulfoxide reductase membrane subunit	1.8.5.3	Menaquinol	Dimethyl sulfide	white
+dimethyl sulfoxide reductase membrane subunit	1.8.5.3	Menaquinol	H2O	white
+dimethyl sulfoxide reductase membrane subunit	1.8.5.3	Menaquinol	Menaquinone	white
+dimethyl sulfoxide reductase membrane subunit	1.8.5.3	Menaquinone	Dimethyl sulfoxide	white
+dimethyl sulfoxide reductase membrane subunit	1.8.5.3	Menaquinone	Menaquinol	white
+dimethyl-sulfide monooxygenase	1.14.13.131	Dimethyl sulfide	Formaldehyde	white
+dimethyl-sulfide monooxygenase	1.14.13.131	Dimethyl sulfide	H2O	white
+dimethyl-sulfide monooxygenase	1.14.13.131	Dimethyl sulfide	Methanethiol	white
+dimethyl-sulfide monooxygenase	1.14.13.131	Dimethyl sulfide	NAD+	white
+dimethyl-sulfide monooxygenase	1.14.13.131	Formaldehyde	Dimethyl sulfide	white
+dimethyl-sulfide monooxygenase	1.14.13.131	Formaldehyde	H+	white
+dimethyl-sulfide monooxygenase	1.14.13.131	Formaldehyde	NADH	white
+dimethyl-sulfide monooxygenase	1.14.13.131	Formaldehyde	Oxygen	white
+dimethyl-sulfide monooxygenase	1.14.13.131	H+	Formaldehyde	white
+dimethyl-sulfide monooxygenase	1.14.13.131	H+	H2O	white
+dimethyl-sulfide monooxygenase	1.14.13.131	H+	Methanethiol	white
+dimethyl-sulfide monooxygenase	1.14.13.131	H+	NAD+	white
+dimethyl-sulfide monooxygenase	1.14.13.131	H2O	Dimethyl sulfide	white
+dimethyl-sulfide monooxygenase	1.14.13.131	H2O	H+	white
+dimethyl-sulfide monooxygenase	1.14.13.131	H2O	NADH	white
+dimethyl-sulfide monooxygenase	1.14.13.131	H2O	Oxygen	white
+dimethyl-sulfide monooxygenase	1.14.13.131	Methanethiol	Dimethyl sulfide	white
+dimethyl-sulfide monooxygenase	1.14.13.131	Methanethiol	H+	white
+dimethyl-sulfide monooxygenase	1.14.13.131	Methanethiol	NADH	white
+dimethyl-sulfide monooxygenase	1.14.13.131	Methanethiol	Oxygen	white
+dimethyl-sulfide monooxygenase	1.14.13.131	NAD+	Dimethyl sulfide	white
+dimethyl-sulfide monooxygenase	1.14.13.131	NAD+	H+	white
+dimethyl-sulfide monooxygenase	1.14.13.131	NAD+	NADH	white
+dimethyl-sulfide monooxygenase	1.14.13.131	NAD+	Oxygen	white
+dimethyl-sulfide monooxygenase	1.14.13.131	NADH	Formaldehyde	white
+dimethyl-sulfide monooxygenase	1.14.13.131	NADH	H2O	white
+dimethyl-sulfide monooxygenase	1.14.13.131	NADH	Methanethiol	white
+dimethyl-sulfide monooxygenase	1.14.13.131	NADH	NAD+	white
+dimethyl-sulfide monooxygenase	1.14.13.131	Oxygen	Formaldehyde	white
+dimethyl-sulfide monooxygenase	1.14.13.131	Oxygen	H2O	white
+dimethyl-sulfide monooxygenase	1.14.13.131	Oxygen	Methanethiol	white
+dimethyl-sulfide monooxygenase	1.14.13.131	Oxygen	NAD+	white
+dimethylpropiothetin dethiomethylase	4.4.1.3	Acrylic acid	S,S-Dimethyl-beta-propiothetin	white
+dimethylpropiothetin dethiomethylase	4.4.1.3	Dimethyl sulfide	S,S-Dimethyl-beta-propiothetin	white
+dimethylpropiothetin dethiomethylase	4.4.1.3	S,S-Dimethyl-beta-propiothetin	Acrylic acid	white
+dimethylpropiothetin dethiomethylase	4.4.1.3	S,S-Dimethyl-beta-propiothetin	Dimethyl sulfide	white
+dimethylsulfide dehydrogenase subunit alpha	1.8.2.4	Dimethyl sulfide	Dimethyl sulfoxide	white
+dimethylsulfide dehydrogenase subunit alpha	1.8.2.4	Dimethyl sulfide	Ferrocytochrome c2	white
+dimethylsulfide dehydrogenase subunit alpha	1.8.2.4	Dimethyl sulfide	H+	white
+dimethylsulfide dehydrogenase subunit alpha	1.8.2.4	Dimethyl sulfoxide	Dimethyl sulfide	white
+dimethylsulfide dehydrogenase subunit alpha	1.8.2.4	Dimethyl sulfoxide	Ferricytochrome c2	white
+dimethylsulfide dehydrogenase subunit alpha	1.8.2.4	Dimethyl sulfoxide	H2O	white
+dimethylsulfide dehydrogenase subunit alpha	1.8.2.4	Ferricytochrome c2	Dimethyl sulfoxide	white
+dimethylsulfide dehydrogenase subunit alpha	1.8.2.4	Ferricytochrome c2	Ferrocytochrome c2	white
+dimethylsulfide dehydrogenase subunit alpha	1.8.2.4	Ferricytochrome c2	H+	white
+dimethylsulfide dehydrogenase subunit alpha	1.8.2.4	Ferrocytochrome c2	Dimethyl sulfide	white
+dimethylsulfide dehydrogenase subunit alpha	1.8.2.4	Ferrocytochrome c2	Ferricytochrome c2	white
+dimethylsulfide dehydrogenase subunit alpha	1.8.2.4	Ferrocytochrome c2	H2O	white
+dimethylsulfide dehydrogenase subunit alpha	1.8.2.4	H+	Dimethyl sulfide	white
+dimethylsulfide dehydrogenase subunit alpha	1.8.2.4	H+	Ferricytochrome c2	white
+dimethylsulfide dehydrogenase subunit alpha	1.8.2.4	H+	H2O	white
+dimethylsulfide dehydrogenase subunit alpha	1.8.2.4	H2O	Dimethyl sulfoxide	white
+dimethylsulfide dehydrogenase subunit alpha	1.8.2.4	H2O	Ferrocytochrome c2	white
+dimethylsulfide dehydrogenase subunit alpha	1.8.2.4	H2O	H+	white
+dimethylsulfide dehydrogenase subunit beta	1.8.2.4	Dimethyl sulfide	Dimethyl sulfoxide	white
+dimethylsulfide dehydrogenase subunit beta	1.8.2.4	Dimethyl sulfide	Ferrocytochrome c2	white
+dimethylsulfide dehydrogenase subunit beta	1.8.2.4	Dimethyl sulfide	H+	white
+dimethylsulfide dehydrogenase subunit beta	1.8.2.4	Dimethyl sulfoxide	Dimethyl sulfide	white
+dimethylsulfide dehydrogenase subunit beta	1.8.2.4	Dimethyl sulfoxide	Ferricytochrome c2	white
+dimethylsulfide dehydrogenase subunit beta	1.8.2.4	Dimethyl sulfoxide	H2O	white
+dimethylsulfide dehydrogenase subunit beta	1.8.2.4	Ferricytochrome c2	Dimethyl sulfoxide	white
+dimethylsulfide dehydrogenase subunit beta	1.8.2.4	Ferricytochrome c2	Ferrocytochrome c2	white
+dimethylsulfide dehydrogenase subunit beta	1.8.2.4	Ferricytochrome c2	H+	white
+dimethylsulfide dehydrogenase subunit beta	1.8.2.4	Ferrocytochrome c2	Dimethyl sulfide	white
+dimethylsulfide dehydrogenase subunit beta	1.8.2.4	Ferrocytochrome c2	Ferricytochrome c2	white
+dimethylsulfide dehydrogenase subunit beta	1.8.2.4	Ferrocytochrome c2	H2O	white
+dimethylsulfide dehydrogenase subunit beta	1.8.2.4	H+	Dimethyl sulfide	white
+dimethylsulfide dehydrogenase subunit beta	1.8.2.4	H+	Ferricytochrome c2	white
+dimethylsulfide dehydrogenase subunit beta	1.8.2.4	H+	H2O	white
+dimethylsulfide dehydrogenase subunit beta	1.8.2.4	H2O	Dimethyl sulfoxide	white
+dimethylsulfide dehydrogenase subunit beta	1.8.2.4	H2O	Ferrocytochrome c2	white
+dimethylsulfide dehydrogenase subunit beta	1.8.2.4	H2O	H+	white
+dimethylsulfide dehydrogenase subunit gamma	1.8.2.4	Dimethyl sulfide	Dimethyl sulfoxide	white
+dimethylsulfide dehydrogenase subunit gamma	1.8.2.4	Dimethyl sulfide	Ferrocytochrome c2	white
+dimethylsulfide dehydrogenase subunit gamma	1.8.2.4	Dimethyl sulfide	H+	white
+dimethylsulfide dehydrogenase subunit gamma	1.8.2.4	Dimethyl sulfoxide	Dimethyl sulfide	white
+dimethylsulfide dehydrogenase subunit gamma	1.8.2.4	Dimethyl sulfoxide	Ferricytochrome c2	white
+dimethylsulfide dehydrogenase subunit gamma	1.8.2.4	Dimethyl sulfoxide	H2O	white
+dimethylsulfide dehydrogenase subunit gamma	1.8.2.4	Ferricytochrome c2	Dimethyl sulfoxide	white
+dimethylsulfide dehydrogenase subunit gamma	1.8.2.4	Ferricytochrome c2	Ferrocytochrome c2	white
+dimethylsulfide dehydrogenase subunit gamma	1.8.2.4	Ferricytochrome c2	H+	white
+dimethylsulfide dehydrogenase subunit gamma	1.8.2.4	Ferrocytochrome c2	Dimethyl sulfide	white
+dimethylsulfide dehydrogenase subunit gamma	1.8.2.4	Ferrocytochrome c2	Ferricytochrome c2	white
+dimethylsulfide dehydrogenase subunit gamma	1.8.2.4	Ferrocytochrome c2	H2O	white
+dimethylsulfide dehydrogenase subunit gamma	1.8.2.4	H+	Dimethyl sulfide	white
+dimethylsulfide dehydrogenase subunit gamma	1.8.2.4	H+	Ferricytochrome c2	white
+dimethylsulfide dehydrogenase subunit gamma	1.8.2.4	H+	H2O	white
+dimethylsulfide dehydrogenase subunit gamma	1.8.2.4	H2O	Dimethyl sulfoxide	white
+dimethylsulfide dehydrogenase subunit gamma	1.8.2.4	H2O	Ferrocytochrome c2	white
+dimethylsulfide dehydrogenase subunit gamma	1.8.2.4	H2O	H+	white
+dimethylsulfone monooxygenase	1.14.14.35	Dimethyl sulfone	FMN	green
+dimethylsulfone monooxygenase	1.14.14.35	Dimethyl sulfone	Formaldehyde	green
+dimethylsulfone monooxygenase	1.14.14.35	Dimethyl sulfone	H2O	green
+dimethylsulfone monooxygenase	1.14.14.35	Dimethyl sulfone	Methanesulfonic acid	green
+dimethylsulfone monooxygenase	1.14.14.35	Oxygen	FMN	green
+dimethylsulfone monooxygenase	1.14.14.35	Oxygen	Formaldehyde	green
+dimethylsulfone monooxygenase	1.14.14.35	Oxygen	H2O	green
+dimethylsulfone monooxygenase	1.14.14.35	Oxygen	Methanesulfonic acid	green
+dimethylsulfone monooxygenase	1.14.14.35	Reduced FMN	FMN	green
+dimethylsulfone monooxygenase	1.14.14.35	Reduced FMN	Formaldehyde	green
+dimethylsulfone monooxygenase	1.14.14.35	Reduced FMN	H2O	green
+dimethylsulfone monooxygenase	1.14.14.35	Reduced FMN	Methanesulfonic acid	green
+dimethylsulfoniopropionate demethylase	2.1.1.269	3-(Methylthio)propanoate	S,S-Dimethyl-beta-propiothetin	white
+dimethylsulfoniopropionate demethylase	2.1.1.269	3-(Methylthio)propanoate	Tetrahydrofolate	white
+dimethylsulfoniopropionate demethylase	2.1.1.269	5-Methyltetrahydrofolate	S,S-Dimethyl-beta-propiothetin	white
+dimethylsulfoniopropionate demethylase	2.1.1.269	5-Methyltetrahydrofolate	Tetrahydrofolate	white
+dimethylsulfoniopropionate demethylase	2.1.1.269	S,S-Dimethyl-beta-propiothetin	3-(Methylthio)propanoate	white
+dimethylsulfoniopropionate demethylase	2.1.1.269	S,S-Dimethyl-beta-propiothetin	5-Methyltetrahydrofolate	white
+dimethylsulfoniopropionate demethylase	2.1.1.269	Tetrahydrofolate	3-(Methylthio)propanoate	white
+dimethylsulfoniopropionate demethylase	2.1.1.269	Tetrahydrofolate	5-Methyltetrahydrofolate	white
+dissimilatory sulfite reductase alpha subunit	1.8.1.22	H+	H2O	white
+dissimilatory sulfite reductase alpha subunit	1.8.1.22	H+	HO-	white
+dissimilatory sulfite reductase alpha subunit	1.8.1.22	H+	NAD+	white
+dissimilatory sulfite reductase alpha subunit	1.8.1.22	H+	Trithionate	white
+dissimilatory sulfite reductase alpha subunit	1.8.1.22	H2O	H+	white
+dissimilatory sulfite reductase alpha subunit	1.8.1.22	H2O	HSO3-	white
+dissimilatory sulfite reductase alpha subunit	1.8.1.22	H2O	NADH	white
+dissimilatory sulfite reductase alpha subunit	1.8.1.22	HO-	H+	white
+dissimilatory sulfite reductase alpha subunit	1.8.1.22	HO-	HSO3-	white
+dissimilatory sulfite reductase alpha subunit	1.8.1.22	HO-	NADH	white
+dissimilatory sulfite reductase alpha subunit	1.8.1.22	HSO3-	H2O	white
+dissimilatory sulfite reductase alpha subunit	1.8.1.22	HSO3-	HO-	white
+dissimilatory sulfite reductase alpha subunit	1.8.1.22	HSO3-	NAD+	white
+dissimilatory sulfite reductase alpha subunit	1.8.1.22	HSO3-	Trithionate	white
+dissimilatory sulfite reductase alpha subunit	1.8.1.22	NAD+	H+	white
+dissimilatory sulfite reductase alpha subunit	1.8.1.22	NAD+	HSO3-	white
+dissimilatory sulfite reductase alpha subunit	1.8.1.22	NAD+	NADH	white
+dissimilatory sulfite reductase alpha subunit	1.8.1.22	NADH	H2O	white
+dissimilatory sulfite reductase alpha subunit	1.8.1.22	NADH	HO-	white
+dissimilatory sulfite reductase alpha subunit	1.8.1.22	NADH	NAD+	white
+dissimilatory sulfite reductase alpha subunit	1.8.1.22	NADH	Trithionate	white
+dissimilatory sulfite reductase alpha subunit	1.8.1.22	Trithionate	H+	white
+dissimilatory sulfite reductase alpha subunit	1.8.1.22	Trithionate	HSO3-	white
+dissimilatory sulfite reductase alpha subunit	1.8.1.22	Trithionate	NADH	white
+dissimilatory sulfite reductase beta subunit	1.8.1.22	H+	H2O	white
+dissimilatory sulfite reductase beta subunit	1.8.1.22	H+	HO-	white
+dissimilatory sulfite reductase beta subunit	1.8.1.22	H+	NAD+	white
+dissimilatory sulfite reductase beta subunit	1.8.1.22	H+	Trithionate	white
+dissimilatory sulfite reductase beta subunit	1.8.1.22	H2O	H+	white
+dissimilatory sulfite reductase beta subunit	1.8.1.22	H2O	HSO3-	white
+dissimilatory sulfite reductase beta subunit	1.8.1.22	H2O	NADH	white
+dissimilatory sulfite reductase beta subunit	1.8.1.22	HO-	H+	white
+dissimilatory sulfite reductase beta subunit	1.8.1.22	HO-	HSO3-	white
+dissimilatory sulfite reductase beta subunit	1.8.1.22	HO-	NADH	white
+dissimilatory sulfite reductase beta subunit	1.8.1.22	HSO3-	H2O	white
+dissimilatory sulfite reductase beta subunit	1.8.1.22	HSO3-	HO-	white
+dissimilatory sulfite reductase beta subunit	1.8.1.22	HSO3-	NAD+	white
+dissimilatory sulfite reductase beta subunit	1.8.1.22	HSO3-	Trithionate	white
+dissimilatory sulfite reductase beta subunit	1.8.1.22	NAD+	H+	white
+dissimilatory sulfite reductase beta subunit	1.8.1.22	NAD+	HSO3-	white
+dissimilatory sulfite reductase beta subunit	1.8.1.22	NAD+	NADH	white
+dissimilatory sulfite reductase beta subunit	1.8.1.22	NADH	H2O	white
+dissimilatory sulfite reductase beta subunit	1.8.1.22	NADH	HO-	white
+dissimilatory sulfite reductase beta subunit	1.8.1.22	NADH	NAD+	white
+dissimilatory sulfite reductase beta subunit	1.8.1.22	NADH	Trithionate	white
+dissimilatory sulfite reductase beta subunit	1.8.1.22	Trithionate	H+	white
+dissimilatory sulfite reductase beta subunit	1.8.1.22	Trithionate	HSO3-	white
+dissimilatory sulfite reductase beta subunit	1.8.1.22	Trithionate	NADH	white
+dissimilatory sulfite reductase flavoprotein subunit	1.8.1.22	H+	H2O	white
+dissimilatory sulfite reductase flavoprotein subunit	1.8.1.22	H+	HO-	white
+dissimilatory sulfite reductase flavoprotein subunit	1.8.1.22	H+	NAD+	white
+dissimilatory sulfite reductase flavoprotein subunit	1.8.1.22	H+	Trithionate	white
+dissimilatory sulfite reductase flavoprotein subunit	1.8.1.22	H2O	H+	white
+dissimilatory sulfite reductase flavoprotein subunit	1.8.1.22	H2O	HSO3-	white
+dissimilatory sulfite reductase flavoprotein subunit	1.8.1.22	H2O	NADH	white
+dissimilatory sulfite reductase flavoprotein subunit	1.8.1.22	HO-	H+	white
+dissimilatory sulfite reductase flavoprotein subunit	1.8.1.22	HO-	HSO3-	white
+dissimilatory sulfite reductase flavoprotein subunit	1.8.1.22	HO-	NADH	white
+dissimilatory sulfite reductase flavoprotein subunit	1.8.1.22	HSO3-	H2O	white
+dissimilatory sulfite reductase flavoprotein subunit	1.8.1.22	HSO3-	HO-	white
+dissimilatory sulfite reductase flavoprotein subunit	1.8.1.22	HSO3-	NAD+	white
+dissimilatory sulfite reductase flavoprotein subunit	1.8.1.22	HSO3-	Trithionate	white
+dissimilatory sulfite reductase flavoprotein subunit	1.8.1.22	NAD+	H+	white
+dissimilatory sulfite reductase flavoprotein subunit	1.8.1.22	NAD+	HSO3-	white
+dissimilatory sulfite reductase flavoprotein subunit	1.8.1.22	NAD+	NADH	white
+dissimilatory sulfite reductase flavoprotein subunit	1.8.1.22	NADH	H2O	white
+dissimilatory sulfite reductase flavoprotein subunit	1.8.1.22	NADH	HO-	white
+dissimilatory sulfite reductase flavoprotein subunit	1.8.1.22	NADH	NAD+	white
+dissimilatory sulfite reductase flavoprotein subunit	1.8.1.22	NADH	Trithionate	white
+dissimilatory sulfite reductase flavoprotein subunit	1.8.1.22	Trithionate	H+	white
+dissimilatory sulfite reductase flavoprotein subunit	1.8.1.22	Trithionate	HSO3-	white
+dissimilatory sulfite reductase flavoprotein subunit	1.8.1.22	Trithionate	NADH	white
+eukaryotic sulfide quinone oxidoreductase	1.8.5.8	Glutathione	Hydroquinone	white
+eukaryotic sulfide quinone oxidoreductase	1.8.5.8	Glutathione	S-Sulfanylglutathione	white
+eukaryotic sulfide quinone oxidoreductase	1.8.5.8	Hydrogen sulfide	Hydroquinone	white
+eukaryotic sulfide quinone oxidoreductase	1.8.5.8	Hydrogen sulfide	S-Sulfanylglutathione	white
+eukaryotic sulfide quinone oxidoreductase	1.8.5.8	Hydroquinone	Glutathione	white
+eukaryotic sulfide quinone oxidoreductase	1.8.5.8	Hydroquinone	Hydrogen sulfide	white
+eukaryotic sulfide quinone oxidoreductase	1.8.5.8	Hydroquinone	Quinone	white
+eukaryotic sulfide quinone oxidoreductase	1.8.5.8	Quinone	Hydroquinone	white
+eukaryotic sulfide quinone oxidoreductase	1.8.5.8	Quinone	S-Sulfanylglutathione	white
+eukaryotic sulfide quinone oxidoreductase	1.8.5.8	S-Sulfanylglutathione	Glutathione	white
+eukaryotic sulfide quinone oxidoreductase	1.8.5.8	S-Sulfanylglutathione	Hydrogen sulfide	white
+eukaryotic sulfide quinone oxidoreductase	1.8.5.8	S-Sulfanylglutathione	Quinone	white
+homoserine O-acetyltransferase/O-succinyltransferase	2.3.1.31	L-Homoserine	CoA	green
+homoserine O-acetyltransferase/O-succinyltransferase	2.3.1.31	L-Homoserine	O-Succinyl-L-homoserine	green
+homoserine O-acetyltransferase/O-succinyltransferase	2.3.1.31	Succinyl-CoA	CoA	green
+homoserine O-acetyltransferase/O-succinyltransferase	2.3.1.31	Succinyl-CoA	O-Succinyl-L-homoserine	green
+methanethiol S-methyltransferase	2.1.1.334	Methanethiol	Dimethyl sulfide	green
+methanethiol S-methyltransferase	2.1.1.334	Methanethiol	S-Adenosyl-L-homocysteine	green
+methanethiol S-methyltransferase	2.1.1.334	S-Adenosyl-L-methionine	Dimethyl sulfide	green
+methanethiol S-methyltransferase	2.1.1.334	S-Adenosyl-L-methionine	S-Adenosyl-L-homocysteine	green
+methanethiol oxidase	1.8.3.4	H2O	Formaldehyde	green
+methanethiol oxidase	1.8.3.4	H2O	Hydrogen peroxide	green
+methanethiol oxidase	1.8.3.4	H2O	Hydrogen sulfide	green
+methanethiol oxidase	1.8.3.4	Methanethiol	Formaldehyde	green
+methanethiol oxidase	1.8.3.4	Methanethiol	Hydrogen peroxide	green
+methanethiol oxidase	1.8.3.4	Methanethiol	Hydrogen sulfide	green
+methanethiol oxidase	1.8.3.4	Oxygen	Formaldehyde	green
+methanethiol oxidase	1.8.3.4	Oxygen	Hydrogen peroxide	green
+methanethiol oxidase	1.8.3.4	Oxygen	Hydrogen sulfide	green
+methionine S-methyltransferase	2.1.1.12	L-Selenomethionine	S-Adenosyl-L-homocysteine	white
+methionine S-methyltransferase	2.1.1.12	L-Selenomethionine	Se-Methylselenomethionine	white
+methionine S-methyltransferase	2.1.1.12	S-Adenosyl-L-homocysteine	L-Selenomethionine	white
+methionine S-methyltransferase	2.1.1.12	S-Adenosyl-L-homocysteine	S-Adenosyl-L-methionine	white
+methionine S-methyltransferase	2.1.1.12	S-Adenosyl-L-methionine	S-Adenosyl-L-homocysteine	white
+methionine S-methyltransferase	2.1.1.12	S-Adenosyl-L-methionine	Se-Methylselenomethionine	white
+methionine S-methyltransferase	2.1.1.12	Se-Methylselenomethionine	L-Selenomethionine	white
+methionine S-methyltransferase	2.1.1.12	Se-Methylselenomethionine	S-Adenosyl-L-methionine	white
+methylated-thiol--corrinoid protein	2.1.1.251	2-(Methylthio)ethanesulfonate	Coenzyme M	white
+methylated-thiol--corrinoid protein	2.1.1.251	2-(Methylthio)ethanesulfonate	Methanethiol	white
+methylated-thiol--corrinoid protein	2.1.1.251	Coenzyme M	2-(Methylthio)ethanesulfonate	white
+methylated-thiol--corrinoid protein	2.1.1.251	Coenzyme M	Hydrogen sulfide	white
+methylated-thiol--corrinoid protein	2.1.1.251	Hydrogen sulfide	Coenzyme M	white
+methylated-thiol--corrinoid protein	2.1.1.251	Hydrogen sulfide	Methanethiol	white
+methylated-thiol--corrinoid protein	2.1.1.251	Methanethiol	2-(Methylthio)ethanesulfonate	white
+methylated-thiol--corrinoid protein	2.1.1.251	Methanethiol	Hydrogen sulfide	white
+methylthiol:coenzyme M methyltransferase	2.1.1.251	2-(Methylthio)ethanesulfonate	Coenzyme M	white
+methylthiol:coenzyme M methyltransferase	2.1.1.251	2-(Methylthio)ethanesulfonate	Methanethiol	white
+methylthiol:coenzyme M methyltransferase	2.1.1.251	Coenzyme M	2-(Methylthio)ethanesulfonate	white
+methylthiol:coenzyme M methyltransferase	2.1.1.251	Coenzyme M	Hydrogen sulfide	white
+methylthiol:coenzyme M methyltransferase	2.1.1.251	Hydrogen sulfide	Coenzyme M	white
+methylthiol:coenzyme M methyltransferase	2.1.1.251	Hydrogen sulfide	Methanethiol	white
+methylthiol:coenzyme M methyltransferase	2.1.1.251	Methanethiol	2-(Methylthio)ethanesulfonate	white
+methylthiol:coenzyme M methyltransferase	2.1.1.251	Methanethiol	Hydrogen sulfide	white
+phosphoadenosine phosphosulfate reductase	1.8.4.8	3'-Phosphoadenylyl sulfate	Adenosine 3',5'-bisphosphate	green
+phosphoadenosine phosphosulfate reductase	1.8.4.8	3'-Phosphoadenylyl sulfate	Sulfite	green
+phosphoadenosine phosphosulfate reductase	1.8.4.8	3'-Phosphoadenylyl sulfate	Thioredoxin disulfide	green
+phosphoadenosine phosphosulfate reductase	1.8.4.8	Thioredoxin	Adenosine 3',5'-bisphosphate	green
+phosphoadenosine phosphosulfate reductase	1.8.4.8	Thioredoxin	Sulfite	green
+phosphoadenosine phosphosulfate reductase	1.8.4.8	Thioredoxin	Thioredoxin disulfide	green
+serine O-acetyltransferase	2.3.1.30	Acetyl-CoA	CoA	white
+serine O-acetyltransferase	2.3.1.30	Acetyl-CoA	O-Acetyl-L-serine	white
+serine O-acetyltransferase	2.3.1.30	CoA	Acetyl-CoA	white
+serine O-acetyltransferase	2.3.1.30	CoA	L-Serine	white
+serine O-acetyltransferase	2.3.1.30	L-Serine	CoA	white
+serine O-acetyltransferase	2.3.1.30	L-Serine	O-Acetyl-L-serine	white
+serine O-acetyltransferase	2.3.1.30	O-Acetyl-L-serine	Acetyl-CoA	white
+serine O-acetyltransferase	2.3.1.30	O-Acetyl-L-serine	L-Serine	white
+sulfane dehydrogenase subunit SoxC	3.1.6.20	Ferricytochrome c	Ferrocytochrome c	white
+sulfane dehydrogenase subunit SoxC	3.1.6.20	Ferricytochrome c	H+	white
+sulfane dehydrogenase subunit SoxC	3.1.6.20	Ferricytochrome c	Sulfate	white
+sulfane dehydrogenase subunit SoxC	3.1.6.20	Ferrocytochrome c	Ferricytochrome c	white
+sulfane dehydrogenase subunit SoxC	3.1.6.20	Ferrocytochrome c	H2O	white
+sulfane dehydrogenase subunit SoxC	3.1.6.20	Ferrocytochrome c	Thiosulfate	white
+sulfane dehydrogenase subunit SoxC	3.1.6.20	H+	Ferricytochrome c	white
+sulfane dehydrogenase subunit SoxC	3.1.6.20	H+	H2O	white
+sulfane dehydrogenase subunit SoxC	3.1.6.20	H+	Thiosulfate	white
+sulfane dehydrogenase subunit SoxC	3.1.6.20	H2O	Ferrocytochrome c	white
+sulfane dehydrogenase subunit SoxC	3.1.6.20	H2O	H+	white
+sulfane dehydrogenase subunit SoxC	3.1.6.20	H2O	Sulfate	white
+sulfane dehydrogenase subunit SoxC	3.1.6.20	Sulfate	Ferricytochrome c	white
+sulfane dehydrogenase subunit SoxC	3.1.6.20	Sulfate	H2O	white
+sulfane dehydrogenase subunit SoxC	3.1.6.20	Sulfate	Thiosulfate	white
+sulfane dehydrogenase subunit SoxC	3.1.6.20	Thiosulfate	Ferrocytochrome c	white
+sulfane dehydrogenase subunit SoxC	3.1.6.20	Thiosulfate	H+	white
+sulfane dehydrogenase subunit SoxC	3.1.6.20	Thiosulfate	Sulfate	white
+sulfate adenylyltransferase	2.7.7.4	ATP	Adenylyl sulfate	white
+sulfate adenylyltransferase	2.7.7.4	ATP	Diphosphate	white
+sulfate adenylyltransferase	2.7.7.4	Adenylyl sulfate	ATP	white
+sulfate adenylyltransferase	2.7.7.4	Adenylyl sulfate	Sulfate	white
+sulfate adenylyltransferase	2.7.7.4	Diphosphate	ATP	white
+sulfate adenylyltransferase	2.7.7.4	Diphosphate	Sulfate	white
+sulfate adenylyltransferase	2.7.7.4	Sulfate	Adenylyl sulfate	white
+sulfate adenylyltransferase	2.7.7.4	Sulfate	Diphosphate	white
+sulfate adenylyltransferase (ADP) / ATP adenylyltransferase	2.7.7.5	ADP	Orthophosphate	white
+sulfate adenylyltransferase (ADP) / ATP adenylyltransferase	2.7.7.5	ADP	P1,P4-Bis(5'-adenosyl)tetraphosphate	white
+sulfate adenylyltransferase (ADP) / ATP adenylyltransferase	2.7.7.5	ATP	Orthophosphate	white
+sulfate adenylyltransferase (ADP) / ATP adenylyltransferase	2.7.7.5	ATP	P1,P4-Bis(5'-adenosyl)tetraphosphate	white
+sulfate adenylyltransferase (ADP) / ATP adenylyltransferase	2.7.7.5	Orthophosphate	ADP	white
+sulfate adenylyltransferase (ADP) / ATP adenylyltransferase	2.7.7.5	Orthophosphate	ATP	white
+sulfate adenylyltransferase (ADP) / ATP adenylyltransferase	2.7.7.5	P1,P4-Bis(5'-adenosyl)tetraphosphate	ADP	white
+sulfate adenylyltransferase (ADP) / ATP adenylyltransferase	2.7.7.5	P1,P4-Bis(5'-adenosyl)tetraphosphate	ATP	white
+sulfate adenylyltransferase (ADP) / adenylylsulfatase	2.7.7.5	ADP	Adenylyl sulfate	white
+sulfate adenylyltransferase (ADP) / adenylylsulfatase	2.7.7.5	ADP	Orthophosphate	white
+sulfate adenylyltransferase (ADP) / adenylylsulfatase	2.7.7.5	Adenylyl sulfate	ADP	white
+sulfate adenylyltransferase (ADP) / adenylylsulfatase	2.7.7.5	Adenylyl sulfate	Sulfate	white
+sulfate adenylyltransferase (ADP) / adenylylsulfatase	2.7.7.5	Orthophosphate	ADP	white
+sulfate adenylyltransferase (ADP) / adenylylsulfatase	2.7.7.5	Orthophosphate	Sulfate	white
+sulfate adenylyltransferase (ADP) / adenylylsulfatase	2.7.7.5	Sulfate	Adenylyl sulfate	white
+sulfate adenylyltransferase (ADP) / adenylylsulfatase	2.7.7.5	Sulfate	Orthophosphate	white
+sulfate adenylyltransferase subunit 1	2.7.7.4	ATP	Adenylyl sulfate	green
+sulfate adenylyltransferase subunit 1	2.7.7.4	ATP	Diphosphate	green
+sulfate adenylyltransferase subunit 1	2.7.7.4	Sulfate	Adenylyl sulfate	green
+sulfate adenylyltransferase subunit 1	2.7.7.4	Sulfate	Diphosphate	green
+sulfate adenylyltransferase subunit 2	2.7.7.4	ATP	Adenylyl sulfate	green
+sulfate adenylyltransferase subunit 2	2.7.7.4	ATP	Diphosphate	green
+sulfate adenylyltransferase subunit 2	2.7.7.4	Sulfate	Adenylyl sulfate	green
+sulfate adenylyltransferase subunit 2	2.7.7.4	Sulfate	Diphosphate	green
+sulfhydrogenase subunit alpha	1.12.1.3	C19692(n)	C19692(n-1)	white
+sulfhydrogenase subunit alpha	1.12.1.3	C19692(n)	Hydrogen sulfide	white
+sulfhydrogenase subunit alpha	1.12.1.3	C19692(n-1)	C19692(n)	white
+sulfhydrogenase subunit alpha	1.12.1.3	C19692(n-1)	Hydrogen	white
+sulfhydrogenase subunit alpha	1.12.1.3	Hydrogen	C19692(n-1)	white
+sulfhydrogenase subunit alpha	1.12.1.3	Hydrogen	Hydrogen sulfide	white
+sulfhydrogenase subunit alpha	1.12.1.3	Hydrogen sulfide	C19692(n)	white
+sulfhydrogenase subunit alpha	1.12.1.3	Hydrogen sulfide	Hydrogen	white
+sulfhydrogenase subunit beta (sulfur reductase)	1.12.98.4	C19692(n)	C19692(n-1)	white
+sulfhydrogenase subunit beta (sulfur reductase)	1.12.98.4	C19692(n)	Hydrogen sulfide	white
+sulfhydrogenase subunit beta (sulfur reductase)	1.12.98.4	C19692(n-1)	C19692(n)	white
+sulfhydrogenase subunit beta (sulfur reductase)	1.12.98.4	C19692(n-1)	Hydrogen	white
+sulfhydrogenase subunit beta (sulfur reductase)	1.12.98.4	Hydrogen	C19692(n-1)	white
+sulfhydrogenase subunit beta (sulfur reductase)	1.12.98.4	Hydrogen	Hydrogen sulfide	white
+sulfhydrogenase subunit beta (sulfur reductase)	1.12.98.4	Hydrogen sulfide	C19692(n)	white
+sulfhydrogenase subunit beta (sulfur reductase)	1.12.98.4	Hydrogen sulfide	Hydrogen	white
+sulfhydrogenase subunit delta	1.12.1.3	C19692(n)	C19692(n-1)	white
+sulfhydrogenase subunit delta	1.12.1.3	C19692(n)	Hydrogen sulfide	white
+sulfhydrogenase subunit delta	1.12.1.3	C19692(n-1)	C19692(n)	white
+sulfhydrogenase subunit delta	1.12.1.3	C19692(n-1)	Hydrogen	white
+sulfhydrogenase subunit delta	1.12.1.3	Hydrogen	C19692(n-1)	white
+sulfhydrogenase subunit delta	1.12.1.3	Hydrogen	Hydrogen sulfide	white
+sulfhydrogenase subunit delta	1.12.1.3	Hydrogen sulfide	C19692(n)	white
+sulfhydrogenase subunit delta	1.12.1.3	Hydrogen sulfide	Hydrogen	white
+sulfhydrogenase subunit gamma (sulfur reductase)	1.12.98.4	C19692(n)	C19692(n-1)	white
+sulfhydrogenase subunit gamma (sulfur reductase)	1.12.98.4	C19692(n)	Hydrogen sulfide	white
+sulfhydrogenase subunit gamma (sulfur reductase)	1.12.98.4	C19692(n-1)	C19692(n)	white
+sulfhydrogenase subunit gamma (sulfur reductase)	1.12.98.4	C19692(n-1)	Hydrogen	white
+sulfhydrogenase subunit gamma (sulfur reductase)	1.12.98.4	Hydrogen	C19692(n-1)	white
+sulfhydrogenase subunit gamma (sulfur reductase)	1.12.98.4	Hydrogen	Hydrogen sulfide	white
+sulfhydrogenase subunit gamma (sulfur reductase)	1.12.98.4	Hydrogen sulfide	C19692(n)	white
+sulfhydrogenase subunit gamma (sulfur reductase)	1.12.98.4	Hydrogen sulfide	Hydrogen	white
+sulfide dehydrogenase [flavocytochrome c] flavoprotein chain	1.8.2.3	Ferricytochrome c	Ferrocytochrome c	white
+sulfide dehydrogenase [flavocytochrome c] flavoprotein chain	1.8.2.3	Ferricytochrome c	H+	white
+sulfide dehydrogenase [flavocytochrome c] flavoprotein chain	1.8.2.3	Ferricytochrome c	Sulfur	white
+sulfide dehydrogenase [flavocytochrome c] flavoprotein chain	1.8.2.3	Ferrocytochrome c	Ferricytochrome c	white
+sulfide dehydrogenase [flavocytochrome c] flavoprotein chain	1.8.2.3	Ferrocytochrome c	Hydrogen sulfide	white
+sulfide dehydrogenase [flavocytochrome c] flavoprotein chain	1.8.2.3	H+	Ferricytochrome c	white
+sulfide dehydrogenase [flavocytochrome c] flavoprotein chain	1.8.2.3	H+	Hydrogen sulfide	white
+sulfide dehydrogenase [flavocytochrome c] flavoprotein chain	1.8.2.3	Hydrogen sulfide	Ferrocytochrome c	white
+sulfide dehydrogenase [flavocytochrome c] flavoprotein chain	1.8.2.3	Hydrogen sulfide	H+	white
+sulfide dehydrogenase [flavocytochrome c] flavoprotein chain	1.8.2.3	Hydrogen sulfide	Sulfur	white
+sulfide dehydrogenase [flavocytochrome c] flavoprotein chain	1.8.2.3	Sulfur	Ferricytochrome c	white
+sulfide dehydrogenase [flavocytochrome c] flavoprotein chain	1.8.2.3	Sulfur	Hydrogen sulfide	white
+sulfide:quinone oxidoreductase	1.8.5.4	Hydrogen sulfide	Hydroquinone	white
+sulfide:quinone oxidoreductase	1.8.5.4	Hydrogen sulfide	Polysulfide	white
+sulfide:quinone oxidoreductase	1.8.5.4	Hydroquinone	Hydrogen sulfide	white
+sulfide:quinone oxidoreductase	1.8.5.4	Hydroquinone	Quinone	white
+sulfide:quinone oxidoreductase	1.8.5.4	Polysulfide	Hydrogen sulfide	white
+sulfide:quinone oxidoreductase	1.8.5.4	Polysulfide	Quinone	white
+sulfide:quinone oxidoreductase	1.8.5.4	Quinone	Hydroquinone	white
+sulfide:quinone oxidoreductase	1.8.5.4	Quinone	Polysulfide	white
+sulfite dehydrogenase (cytochrome) subunit A	1.8.2.1	Ferricytochrome c	Ferrocytochrome c	white
+sulfite dehydrogenase (cytochrome) subunit A	1.8.2.1	Ferricytochrome c	H+	white
+sulfite dehydrogenase (cytochrome) subunit A	1.8.2.1	Ferricytochrome c	Sulfate	white
+sulfite dehydrogenase (cytochrome) subunit A	1.8.2.1	Ferrocytochrome c	Ferricytochrome c	white
+sulfite dehydrogenase (cytochrome) subunit A	1.8.2.1	Ferrocytochrome c	H2O	white
+sulfite dehydrogenase (cytochrome) subunit A	1.8.2.1	Ferrocytochrome c	Sulfite	white
+sulfite dehydrogenase (cytochrome) subunit A	1.8.2.1	H+	Ferricytochrome c	white
+sulfite dehydrogenase (cytochrome) subunit A	1.8.2.1	H+	H2O	white
+sulfite dehydrogenase (cytochrome) subunit A	1.8.2.1	H+	Sulfite	white
+sulfite dehydrogenase (cytochrome) subunit A	1.8.2.1	H2O	Ferrocytochrome c	white
+sulfite dehydrogenase (cytochrome) subunit A	1.8.2.1	H2O	H+	white
+sulfite dehydrogenase (cytochrome) subunit A	1.8.2.1	H2O	Sulfate	white
+sulfite dehydrogenase (cytochrome) subunit A	1.8.2.1	Sulfate	Ferricytochrome c	white
+sulfite dehydrogenase (cytochrome) subunit A	1.8.2.1	Sulfate	H2O	white
+sulfite dehydrogenase (cytochrome) subunit A	1.8.2.1	Sulfate	Sulfite	white
+sulfite dehydrogenase (cytochrome) subunit A	1.8.2.1	Sulfite	Ferrocytochrome c	white
+sulfite dehydrogenase (cytochrome) subunit A	1.8.2.1	Sulfite	H+	white
+sulfite dehydrogenase (cytochrome) subunit A	1.8.2.1	Sulfite	Sulfate	white
+sulfite dehydrogenase (cytochrome) subunit B	1.8.2.1	Ferricytochrome c	Ferrocytochrome c	white
+sulfite dehydrogenase (cytochrome) subunit B	1.8.2.1	Ferricytochrome c	H+	white
+sulfite dehydrogenase (cytochrome) subunit B	1.8.2.1	Ferricytochrome c	Sulfate	white
+sulfite dehydrogenase (cytochrome) subunit B	1.8.2.1	Ferrocytochrome c	Ferricytochrome c	white
+sulfite dehydrogenase (cytochrome) subunit B	1.8.2.1	Ferrocytochrome c	H2O	white
+sulfite dehydrogenase (cytochrome) subunit B	1.8.2.1	Ferrocytochrome c	Sulfite	white
+sulfite dehydrogenase (cytochrome) subunit B	1.8.2.1	H+	Ferricytochrome c	white
+sulfite dehydrogenase (cytochrome) subunit B	1.8.2.1	H+	H2O	white
+sulfite dehydrogenase (cytochrome) subunit B	1.8.2.1	H+	Sulfite	white
+sulfite dehydrogenase (cytochrome) subunit B	1.8.2.1	H2O	Ferrocytochrome c	white
+sulfite dehydrogenase (cytochrome) subunit B	1.8.2.1	H2O	H+	white
+sulfite dehydrogenase (cytochrome) subunit B	1.8.2.1	H2O	Sulfate	white
+sulfite dehydrogenase (cytochrome) subunit B	1.8.2.1	Sulfate	Ferricytochrome c	white
+sulfite dehydrogenase (cytochrome) subunit B	1.8.2.1	Sulfate	H2O	white
+sulfite dehydrogenase (cytochrome) subunit B	1.8.2.1	Sulfate	Sulfite	white
+sulfite dehydrogenase (cytochrome) subunit B	1.8.2.1	Sulfite	Ferrocytochrome c	white
+sulfite dehydrogenase (cytochrome) subunit B	1.8.2.1	Sulfite	H+	white
+sulfite dehydrogenase (cytochrome) subunit B	1.8.2.1	Sulfite	Sulfate	white
+sulfite dehydrogenase (quinone) subunit SoeA	1.8.5.6	H2O	Hydroquinone	white
+sulfite dehydrogenase (quinone) subunit SoeA	1.8.5.6	H2O	Sulfate	white
+sulfite dehydrogenase (quinone) subunit SoeA	1.8.5.6	Hydroquinone	H2O	white
+sulfite dehydrogenase (quinone) subunit SoeA	1.8.5.6	Hydroquinone	Quinone	white
+sulfite dehydrogenase (quinone) subunit SoeA	1.8.5.6	Hydroquinone	Sulfite	white
+sulfite dehydrogenase (quinone) subunit SoeA	1.8.5.6	Quinone	Hydroquinone	white
+sulfite dehydrogenase (quinone) subunit SoeA	1.8.5.6	Quinone	Sulfate	white
+sulfite dehydrogenase (quinone) subunit SoeA	1.8.5.6	Sulfate	H2O	white
+sulfite dehydrogenase (quinone) subunit SoeA	1.8.5.6	Sulfate	Quinone	white
+sulfite dehydrogenase (quinone) subunit SoeA	1.8.5.6	Sulfate	Sulfite	white
+sulfite dehydrogenase (quinone) subunit SoeA	1.8.5.6	Sulfite	Hydroquinone	white
+sulfite dehydrogenase (quinone) subunit SoeA	1.8.5.6	Sulfite	Sulfate	white
+sulfite dehydrogenase (quinone) subunit SoeB	1.8.5.6	H2O	Hydroquinone	white
+sulfite dehydrogenase (quinone) subunit SoeB	1.8.5.6	H2O	Sulfate	white
+sulfite dehydrogenase (quinone) subunit SoeB	1.8.5.6	Hydroquinone	H2O	white
+sulfite dehydrogenase (quinone) subunit SoeB	1.8.5.6	Hydroquinone	Quinone	white
+sulfite dehydrogenase (quinone) subunit SoeB	1.8.5.6	Hydroquinone	Sulfite	white
+sulfite dehydrogenase (quinone) subunit SoeB	1.8.5.6	Quinone	Hydroquinone	white
+sulfite dehydrogenase (quinone) subunit SoeB	1.8.5.6	Quinone	Sulfate	white
+sulfite dehydrogenase (quinone) subunit SoeB	1.8.5.6	Sulfate	H2O	white
+sulfite dehydrogenase (quinone) subunit SoeB	1.8.5.6	Sulfate	Quinone	white
+sulfite dehydrogenase (quinone) subunit SoeB	1.8.5.6	Sulfate	Sulfite	white
+sulfite dehydrogenase (quinone) subunit SoeB	1.8.5.6	Sulfite	Hydroquinone	white
+sulfite dehydrogenase (quinone) subunit SoeB	1.8.5.6	Sulfite	Sulfate	white
+sulfite dehydrogenase (quinone) subunit SoeC	1.8.5.6	H2O	Hydroquinone	white
+sulfite dehydrogenase (quinone) subunit SoeC	1.8.5.6	H2O	Sulfate	white
+sulfite dehydrogenase (quinone) subunit SoeC	1.8.5.6	Hydroquinone	H2O	white
+sulfite dehydrogenase (quinone) subunit SoeC	1.8.5.6	Hydroquinone	Quinone	white
+sulfite dehydrogenase (quinone) subunit SoeC	1.8.5.6	Hydroquinone	Sulfite	white
+sulfite dehydrogenase (quinone) subunit SoeC	1.8.5.6	Quinone	Hydroquinone	white
+sulfite dehydrogenase (quinone) subunit SoeC	1.8.5.6	Quinone	Sulfate	white
+sulfite dehydrogenase (quinone) subunit SoeC	1.8.5.6	Sulfate	H2O	white
+sulfite dehydrogenase (quinone) subunit SoeC	1.8.5.6	Sulfate	Quinone	white
+sulfite dehydrogenase (quinone) subunit SoeC	1.8.5.6	Sulfate	Sulfite	white
+sulfite dehydrogenase (quinone) subunit SoeC	1.8.5.6	Sulfite	Hydroquinone	white
+sulfite dehydrogenase (quinone) subunit SoeC	1.8.5.6	Sulfite	Sulfate	white
+sulfite oxidase	1.8.3.1	H2O	Hydrogen peroxide	white
+sulfite oxidase	1.8.3.1	H2O	Sulfate	white
+sulfite oxidase	1.8.3.1	Hydrogen peroxide	H2O	white
+sulfite oxidase	1.8.3.1	Hydrogen peroxide	Oxygen	white
+sulfite oxidase	1.8.3.1	Hydrogen peroxide	Sulfite	white
+sulfite oxidase	1.8.3.1	Oxygen	Hydrogen peroxide	white
+sulfite oxidase	1.8.3.1	Oxygen	Sulfate	white
+sulfite oxidase	1.8.3.1	Sulfate	H2O	white
+sulfite oxidase	1.8.3.1	Sulfate	Oxygen	white
+sulfite oxidase	1.8.3.1	Sulfate	Sulfite	white
+sulfite oxidase	1.8.3.1	Sulfite	Hydrogen peroxide	white
+sulfite oxidase	1.8.3.1	Sulfite	Sulfate	white
+sulfite reductase (NADPH) flavoprotein alpha-component	1.8.1.2	H2O	H+	green
+sulfite reductase (NADPH) flavoprotein alpha-component	1.8.1.2	H2O	NADPH	green
+sulfite reductase (NADPH) flavoprotein alpha-component	1.8.1.2	H2O	Sulfite	green
+sulfite reductase (NADPH) flavoprotein alpha-component	1.8.1.2	Hydrogen sulfide	H+	green
+sulfite reductase (NADPH) flavoprotein alpha-component	1.8.1.2	Hydrogen sulfide	NADPH	green
+sulfite reductase (NADPH) flavoprotein alpha-component	1.8.1.2	Hydrogen sulfide	Sulfite	green
+sulfite reductase (NADPH) flavoprotein alpha-component	1.8.1.2	NADP+	H+	green
+sulfite reductase (NADPH) flavoprotein alpha-component	1.8.1.2	NADP+	NADPH	green
+sulfite reductase (NADPH) flavoprotein alpha-component	1.8.1.2	NADP+	Sulfite	green
+sulfite reductase (ferredoxin)	1.8.7.1	H2O	H+	green
+sulfite reductase (ferredoxin)	1.8.7.1	H2O	Reduced ferredoxin	green
+sulfite reductase (ferredoxin)	1.8.7.1	H2O	Sulfite	green
+sulfite reductase (ferredoxin)	1.8.7.1	Hydrogen sulfide	H+	green
+sulfite reductase (ferredoxin)	1.8.7.1	Hydrogen sulfide	Reduced ferredoxin	green
+sulfite reductase (ferredoxin)	1.8.7.1	Hydrogen sulfide	Sulfite	green
+sulfite reductase (ferredoxin)	1.8.7.1	Oxidized ferredoxin	H+	green
+sulfite reductase (ferredoxin)	1.8.7.1	Oxidized ferredoxin	Reduced ferredoxin	green
+sulfite reductase (ferredoxin)	1.8.7.1	Oxidized ferredoxin	Sulfite	green
+sulfur dioxygenase	1.13.11.18	Glutathione	H2O	white
+sulfur dioxygenase	1.13.11.18	Glutathione	Oxygen	white
+sulfur dioxygenase	1.13.11.18	Glutathione	S-Sulfanylglutathione	white
+sulfur dioxygenase	1.13.11.18	H2O	Glutathione	white
+sulfur dioxygenase	1.13.11.18	H2O	Sulfite	white
+sulfur dioxygenase	1.13.11.18	Oxygen	Glutathione	white
+sulfur dioxygenase	1.13.11.18	Oxygen	Sulfite	white
+sulfur dioxygenase	1.13.11.18	S-Sulfanylglutathione	Glutathione	white
+sulfur dioxygenase	1.13.11.18	S-Sulfanylglutathione	Sulfite	white
+sulfur dioxygenase	1.13.11.18	Sulfite	H2O	white
+sulfur dioxygenase	1.13.11.18	Sulfite	Oxygen	white
+sulfur dioxygenase	1.13.11.18	Sulfite	S-Sulfanylglutathione	white
+sulfur oxygenase/reductase	1.13.11.55	H2O	Hydrogen sulfide	white
+sulfur oxygenase/reductase	1.13.11.55	H2O	Sulfite	white
+sulfur oxygenase/reductase	1.13.11.55	Hydrogen sulfide	H2O	white
+sulfur oxygenase/reductase	1.13.11.55	Hydrogen sulfide	Oxygen	white
+sulfur oxygenase/reductase	1.13.11.55	Hydrogen sulfide	Sulfur	white
+sulfur oxygenase/reductase	1.13.11.55	Oxygen	Hydrogen sulfide	white
+sulfur oxygenase/reductase	1.13.11.55	Oxygen	Sulfite	white
+sulfur oxygenase/reductase	1.13.11.55	Sulfite	H2O	white
+sulfur oxygenase/reductase	1.13.11.55	Sulfite	Oxygen	white
+sulfur oxygenase/reductase	1.13.11.55	Sulfite	Sulfur	white
+sulfur oxygenase/reductase	1.13.11.55	Sulfur	Hydrogen sulfide	white
+sulfur oxygenase/reductase	1.13.11.55	Sulfur	Sulfite	white
+sulfur reductase FeS subunit	1.13.11.55	Acceptor	Reduced acceptor	white
+sulfur reductase FeS subunit	1.13.11.55	Acceptor	Sulfur	white
+sulfur reductase FeS subunit	1.13.11.55	Hydrogen sulfide	Reduced acceptor	white
+sulfur reductase FeS subunit	1.13.11.55	Hydrogen sulfide	Sulfur	white
+sulfur reductase FeS subunit	1.13.11.55	Reduced acceptor	Acceptor	white
+sulfur reductase FeS subunit	1.13.11.55	Reduced acceptor	Hydrogen sulfide	white
+sulfur reductase FeS subunit	1.13.11.55	Sulfur	Acceptor	white
+sulfur reductase FeS subunit	1.13.11.55	Sulfur	Hydrogen sulfide	white
+sulfur reductase membrane anchor	1.13.11.55	Acceptor	Reduced acceptor	white
+sulfur reductase membrane anchor	1.13.11.55	Acceptor	Sulfur	white
+sulfur reductase membrane anchor	1.13.11.55	Hydrogen sulfide	Reduced acceptor	white
+sulfur reductase membrane anchor	1.13.11.55	Hydrogen sulfide	Sulfur	white
+sulfur reductase membrane anchor	1.13.11.55	Reduced acceptor	Acceptor	white
+sulfur reductase membrane anchor	1.13.11.55	Reduced acceptor	Hydrogen sulfide	white
+sulfur reductase membrane anchor	1.13.11.55	Sulfur	Acceptor	white
+sulfur reductase membrane anchor	1.13.11.55	Sulfur	Hydrogen sulfide	white
+sulfur reductase molybdopterin subunit	1.13.11.55	Acceptor	Reduced acceptor	white
+sulfur reductase molybdopterin subunit	1.13.11.55	Acceptor	Sulfur	white
+sulfur reductase molybdopterin subunit	1.13.11.55	Hydrogen sulfide	Reduced acceptor	white
+sulfur reductase molybdopterin subunit	1.13.11.55	Hydrogen sulfide	Sulfur	white
+sulfur reductase molybdopterin subunit	1.13.11.55	Reduced acceptor	Acceptor	white
+sulfur reductase molybdopterin subunit	1.13.11.55	Reduced acceptor	Hydrogen sulfide	white
+sulfur reductase molybdopterin subunit	1.13.11.55	Sulfur	Acceptor	white
+sulfur reductase molybdopterin subunit	1.13.11.55	Sulfur	Hydrogen sulfide	white
+sulfur-oxidizing protein SoxY	2.8.5.2	Ferricytochrome c	Ferrocytochrome c	white
+sulfur-oxidizing protein SoxY	2.8.5.2	Ferricytochrome c	H+	white
+sulfur-oxidizing protein SoxY	2.8.5.2	Ferricytochrome c	Sulfate	white
+sulfur-oxidizing protein SoxY	2.8.5.2	Ferrocytochrome c	Ferricytochrome c	white
+sulfur-oxidizing protein SoxY	2.8.5.2	Ferrocytochrome c	H2O	white
+sulfur-oxidizing protein SoxY	2.8.5.2	Ferrocytochrome c	Thiosulfate	white
+sulfur-oxidizing protein SoxY	2.8.5.2	H+	Ferricytochrome c	white
+sulfur-oxidizing protein SoxY	2.8.5.2	H+	H2O	white
+sulfur-oxidizing protein SoxY	2.8.5.2	H+	Thiosulfate	white
+sulfur-oxidizing protein SoxY	2.8.5.2	H2O	Ferrocytochrome c	white
+sulfur-oxidizing protein SoxY	2.8.5.2	H2O	H+	white
+sulfur-oxidizing protein SoxY	2.8.5.2	H2O	Sulfate	white
+sulfur-oxidizing protein SoxY	2.8.5.2	Sulfate	Ferricytochrome c	white
+sulfur-oxidizing protein SoxY	2.8.5.2	Sulfate	H2O	white
+sulfur-oxidizing protein SoxY	2.8.5.2	Sulfate	Thiosulfate	white
+sulfur-oxidizing protein SoxY	2.8.5.2	Thiosulfate	Ferrocytochrome c	white
+sulfur-oxidizing protein SoxY	2.8.5.2	Thiosulfate	H+	white
+sulfur-oxidizing protein SoxY	2.8.5.2	Thiosulfate	Sulfate	white
+sulfur-oxidizing protein SoxZ	2.8.5.2	Ferricytochrome c	Ferrocytochrome c	white
+sulfur-oxidizing protein SoxZ	2.8.5.2	Ferricytochrome c	H+	white
+sulfur-oxidizing protein SoxZ	2.8.5.2	Ferricytochrome c	Sulfate	white
+sulfur-oxidizing protein SoxZ	2.8.5.2	Ferrocytochrome c	Ferricytochrome c	white
+sulfur-oxidizing protein SoxZ	2.8.5.2	Ferrocytochrome c	H2O	white
+sulfur-oxidizing protein SoxZ	2.8.5.2	Ferrocytochrome c	Thiosulfate	white
+sulfur-oxidizing protein SoxZ	2.8.5.2	H+	Ferricytochrome c	white
+sulfur-oxidizing protein SoxZ	2.8.5.2	H+	H2O	white
+sulfur-oxidizing protein SoxZ	2.8.5.2	H+	Thiosulfate	white
+sulfur-oxidizing protein SoxZ	2.8.5.2	H2O	Ferrocytochrome c	white
+sulfur-oxidizing protein SoxZ	2.8.5.2	H2O	H+	white
+sulfur-oxidizing protein SoxZ	2.8.5.2	H2O	Sulfate	white
+sulfur-oxidizing protein SoxZ	2.8.5.2	Sulfate	Ferricytochrome c	white
+sulfur-oxidizing protein SoxZ	2.8.5.2	Sulfate	H2O	white
+sulfur-oxidizing protein SoxZ	2.8.5.2	Sulfate	Thiosulfate	white
+sulfur-oxidizing protein SoxZ	2.8.5.2	Thiosulfate	Ferrocytochrome c	white
+sulfur-oxidizing protein SoxZ	2.8.5.2	Thiosulfate	H+	white
+sulfur-oxidizing protein SoxZ	2.8.5.2	Thiosulfate	Sulfate	white
+taurine dioxygenase	1.14.11.17	2-Oxoglutarate	Aminoacetaldehyde	green
+taurine dioxygenase	1.14.11.17	2-Oxoglutarate	CO2	green
+taurine dioxygenase	1.14.11.17	2-Oxoglutarate	Succinate	green
+taurine dioxygenase	1.14.11.17	2-Oxoglutarate	Sulfite	green
+taurine dioxygenase	1.14.11.17	Oxygen	Aminoacetaldehyde	green
+taurine dioxygenase	1.14.11.17	Oxygen	CO2	green
+taurine dioxygenase	1.14.11.17	Oxygen	Succinate	green
+taurine dioxygenase	1.14.11.17	Oxygen	Sulfite	green
+taurine dioxygenase	1.14.11.17	Taurine	Aminoacetaldehyde	green
+taurine dioxygenase	1.14.11.17	Taurine	CO2	green
+taurine dioxygenase	1.14.11.17	Taurine	Succinate	green
+taurine dioxygenase	1.14.11.17	Taurine	Sulfite	green
+taurine transport system ATP-binding protein	7.6.2.7	Ferricytochrome c	Ferrocytochrome c	white
+taurine transport system ATP-binding protein	7.6.2.7	Ferricytochrome c	H+	white
+taurine transport system ATP-binding protein	7.6.2.7	Ferricytochrome c	Sulfate	white
+taurine transport system ATP-binding protein	7.6.2.7	Ferrocytochrome c	Ferricytochrome c	white
+taurine transport system ATP-binding protein	7.6.2.7	Ferrocytochrome c	H2O	white
+taurine transport system ATP-binding protein	7.6.2.7	Ferrocytochrome c	Thiosulfate	white
+taurine transport system ATP-binding protein	7.6.2.7	H+	Ferricytochrome c	white
+taurine transport system ATP-binding protein	7.6.2.7	H+	H2O	white
+taurine transport system ATP-binding protein	7.6.2.7	H+	Thiosulfate	white
+taurine transport system ATP-binding protein	7.6.2.7	H2O	Ferrocytochrome c	white
+taurine transport system ATP-binding protein	7.6.2.7	H2O	H+	white
+taurine transport system ATP-binding protein	7.6.2.7	H2O	Sulfate	white
+taurine transport system ATP-binding protein	7.6.2.7	Sulfate	Ferricytochrome c	white
+taurine transport system ATP-binding protein	7.6.2.7	Sulfate	H2O	white
+taurine transport system ATP-binding protein	7.6.2.7	Sulfate	Thiosulfate	white
+taurine transport system ATP-binding protein	7.6.2.7	Thiosulfate	Ferrocytochrome c	white
+taurine transport system ATP-binding protein	7.6.2.7	Thiosulfate	H+	white
+taurine transport system ATP-binding protein	7.6.2.7	Thiosulfate	Sulfate	white
+taurine transport system permease protein	1.8.2.6	Ferricytochrome c	Ferrocytochrome c	white
+taurine transport system permease protein	1.8.2.6	Ferricytochrome c	H+	white
+taurine transport system permease protein	1.8.2.6	Ferricytochrome c	Sulfate	white
+taurine transport system permease protein	1.8.2.6	Ferrocytochrome c	Ferricytochrome c	white
+taurine transport system permease protein	1.8.2.6	Ferrocytochrome c	H2O	white
+taurine transport system permease protein	1.8.2.6	Ferrocytochrome c	Thiosulfate	white
+taurine transport system permease protein	1.8.2.6	H+	Ferricytochrome c	white
+taurine transport system permease protein	1.8.2.6	H+	H2O	white
+taurine transport system permease protein	1.8.2.6	H+	Thiosulfate	white
+taurine transport system permease protein	1.8.2.6	H2O	Ferrocytochrome c	white
+taurine transport system permease protein	1.8.2.6	H2O	H+	white
+taurine transport system permease protein	1.8.2.6	H2O	Sulfate	white
+taurine transport system permease protein	1.8.2.6	Sulfate	Ferricytochrome c	white
+taurine transport system permease protein	1.8.2.6	Sulfate	H2O	white
+taurine transport system permease protein	1.8.2.6	Sulfate	Thiosulfate	white
+taurine transport system permease protein	1.8.2.6	Thiosulfate	Ferrocytochrome c	white
+taurine transport system permease protein	1.8.2.6	Thiosulfate	H+	white
+taurine transport system permease protein	1.8.2.6	Thiosulfate	Sulfate	white
+taurine transport system substrate-binding protein	1.8.2.6	Ferricytochrome c	Ferrocytochrome c	white
+taurine transport system substrate-binding protein	1.8.2.6	Ferricytochrome c	H+	white
+taurine transport system substrate-binding protein	1.8.2.6	Ferricytochrome c	Sulfate	white
+taurine transport system substrate-binding protein	1.8.2.6	Ferrocytochrome c	Ferricytochrome c	white
+taurine transport system substrate-binding protein	1.8.2.6	Ferrocytochrome c	H2O	white
+taurine transport system substrate-binding protein	1.8.2.6	Ferrocytochrome c	Thiosulfate	white
+taurine transport system substrate-binding protein	1.8.2.6	H+	Ferricytochrome c	white
+taurine transport system substrate-binding protein	1.8.2.6	H+	H2O	white
+taurine transport system substrate-binding protein	1.8.2.6	H+	Thiosulfate	white
+taurine transport system substrate-binding protein	1.8.2.6	H2O	Ferrocytochrome c	white
+taurine transport system substrate-binding protein	1.8.2.6	H2O	H+	white
+taurine transport system substrate-binding protein	1.8.2.6	H2O	Sulfate	white
+taurine transport system substrate-binding protein	1.8.2.6	Sulfate	Ferricytochrome c	white
+taurine transport system substrate-binding protein	1.8.2.6	Sulfate	H2O	white
+taurine transport system substrate-binding protein	1.8.2.6	Sulfate	Thiosulfate	white
+taurine transport system substrate-binding protein	1.8.2.6	Thiosulfate	Ferrocytochrome c	white
+taurine transport system substrate-binding protein	1.8.2.6	Thiosulfate	H+	white
+taurine transport system substrate-binding protein	1.8.2.6	Thiosulfate	Sulfate	white
+tetrathionate hydrolase	3.12.1.-	H+	H2O	white
+tetrathionate hydrolase	3.12.1.-	H+	Tetrathionate	white
+tetrathionate hydrolase	3.12.1.-	H2O	H+	white
+tetrathionate hydrolase	3.12.1.-	H2O	Sulfate	white
+tetrathionate hydrolase	3.12.1.-	H2O	Sulfur	white
+tetrathionate hydrolase	3.12.1.-	H2O	Thiosulfate	white
+tetrathionate hydrolase	3.12.1.-	Sulfate	H2O	white
+tetrathionate hydrolase	3.12.1.-	Sulfate	Tetrathionate	white
+tetrathionate hydrolase	3.12.1.-	Sulfur	H2O	white
+tetrathionate hydrolase	3.12.1.-	Sulfur	Tetrathionate	white
+tetrathionate hydrolase	3.12.1.-	Tetrathionate	H+	white
+tetrathionate hydrolase	3.12.1.-	Tetrathionate	Sulfate	white
+tetrathionate hydrolase	3.12.1.-	Tetrathionate	Sulfur	white
+tetrathionate hydrolase	3.12.1.-	Tetrathionate	Thiosulfate	white
+tetrathionate hydrolase	3.12.1.-	Thiosulfate	H2O	white
+tetrathionate hydrolase	3.12.1.-	Thiosulfate	Tetrathionate	white
+tetrathionate reductase subunit A	3.12.1.-	Tetrathionate	Thiosulfate	white
+tetrathionate reductase subunit A	3.12.1.-	Thiosulfate	Tetrathionate	white
+tetrathionate reductase subunit A	3.12.1.-	Thiosulfate	e-	white
+tetrathionate reductase subunit A	3.12.1.-	e-	Thiosulfate	white
+tetrathionate reductase subunit B	3.12.1.-	Tetrathionate	Thiosulfate	white
+tetrathionate reductase subunit B	3.12.1.-	Thiosulfate	Tetrathionate	white
+tetrathionate reductase subunit B	3.12.1.-	Thiosulfate	e-	white
+tetrathionate reductase subunit B	3.12.1.-	e-	Thiosulfate	white
+tetrathionate reductase subunit C	3.12.1.-	Tetrathionate	Thiosulfate	white
+tetrathionate reductase subunit C	3.12.1.-	Thiosulfate	Tetrathionate	white
+tetrathionate reductase subunit C	3.12.1.-	Thiosulfate	e-	white
+tetrathionate reductase subunit C	3.12.1.-	e-	Thiosulfate	white
+thiosulfate dehydrogenase	1.8.2.2	Ferricytochrome c	Ferrocytochrome c	white
+thiosulfate dehydrogenase	1.8.2.2	Ferricytochrome c	Tetrathionate	white
+thiosulfate dehydrogenase	1.8.2.2	Ferrocytochrome c	Ferricytochrome c	white
+thiosulfate dehydrogenase	1.8.2.2	Ferrocytochrome c	Thiosulfate	white
+thiosulfate dehydrogenase	1.8.2.2	Tetrathionate	Ferricytochrome c	white
+thiosulfate dehydrogenase	1.8.2.2	Tetrathionate	Thiosulfate	white
+thiosulfate dehydrogenase	1.8.2.2	Thiosulfate	Ferrocytochrome c	white
+thiosulfate dehydrogenase	1.8.2.2	Thiosulfate	Tetrathionate	white
+thiosulfate dehydrogenase (quinone)	1.8.5.2	Decylubiquinol	Decylubiquinone	white
+thiosulfate dehydrogenase (quinone)	1.8.5.2	Decylubiquinol	Thiosulfate	white
+thiosulfate dehydrogenase (quinone)	1.8.5.2	Decylubiquinone	Decylubiquinol	white
+thiosulfate dehydrogenase (quinone)	1.8.5.2	Decylubiquinone	Tetrathionate	white
+thiosulfate dehydrogenase (quinone)	1.8.5.2	Tetrathionate	Decylubiquinone	white
+thiosulfate dehydrogenase (quinone)	1.8.5.2	Tetrathionate	Thiosulfate	white
+thiosulfate dehydrogenase (quinone)	1.8.5.2	Thiosulfate	Decylubiquinol	white
+thiosulfate dehydrogenase (quinone)	1.8.5.2	Thiosulfate	Tetrathionate	white
+thiosulfate dehydrogenase (quinone) large subunit	1.8.5.2	Decylubiquinol	Decylubiquinone	white
+thiosulfate dehydrogenase (quinone) large subunit	1.8.5.2	Decylubiquinol	Thiosulfate	white
+thiosulfate dehydrogenase (quinone) large subunit	1.8.5.2	Decylubiquinone	Decylubiquinol	white
+thiosulfate dehydrogenase (quinone) large subunit	1.8.5.2	Decylubiquinone	Tetrathionate	white
+thiosulfate dehydrogenase (quinone) large subunit	1.8.5.2	Tetrathionate	Decylubiquinone	white
+thiosulfate dehydrogenase (quinone) large subunit	1.8.5.2	Tetrathionate	Thiosulfate	white
+thiosulfate dehydrogenase (quinone) large subunit	1.8.5.2	Thiosulfate	Decylubiquinol	white
+thiosulfate dehydrogenase (quinone) large subunit	1.8.5.2	Thiosulfate	Tetrathionate	white
+thiosulfate dehydrogenase (quinone) small subunit	1.8.5.2	Decylubiquinol	Decylubiquinone	white
+thiosulfate dehydrogenase (quinone) small subunit	1.8.5.2	Decylubiquinol	Thiosulfate	white
+thiosulfate dehydrogenase (quinone) small subunit	1.8.5.2	Decylubiquinone	Decylubiquinol	white
+thiosulfate dehydrogenase (quinone) small subunit	1.8.5.2	Decylubiquinone	Tetrathionate	white
+thiosulfate dehydrogenase (quinone) small subunit	1.8.5.2	Tetrathionate	Decylubiquinone	white
+thiosulfate dehydrogenase (quinone) small subunit	1.8.5.2	Tetrathionate	Thiosulfate	white
+thiosulfate dehydrogenase (quinone) small subunit	1.8.5.2	Thiosulfate	Decylubiquinol	white
+thiosulfate dehydrogenase (quinone) small subunit	1.8.5.2	Thiosulfate	Tetrathionate	white
+thiosulfate reductase / polysulfide reductase chain A	1.8.5.5	Hydrogen sulfide	Menaquinol	white
+thiosulfate reductase / polysulfide reductase chain A	1.8.5.5	Hydrogen sulfide	Thiosulfate	white
+thiosulfate reductase / polysulfide reductase chain A	1.8.5.5	Menaquinol	Hydrogen sulfide	white
+thiosulfate reductase / polysulfide reductase chain A	1.8.5.5	Menaquinol	Menaquinone	white
+thiosulfate reductase / polysulfide reductase chain A	1.8.5.5	Menaquinol	Sulfite	white
+thiosulfate reductase / polysulfide reductase chain A	1.8.5.5	Menaquinone	Menaquinol	white
+thiosulfate reductase / polysulfide reductase chain A	1.8.5.5	Menaquinone	Thiosulfate	white
+thiosulfate reductase / polysulfide reductase chain A	1.8.5.5	Sulfite	Menaquinol	white
+thiosulfate reductase / polysulfide reductase chain A	1.8.5.5	Sulfite	Thiosulfate	white
+thiosulfate reductase / polysulfide reductase chain A	1.8.5.5	Thiosulfate	Hydrogen sulfide	white
+thiosulfate reductase / polysulfide reductase chain A	1.8.5.5	Thiosulfate	Menaquinone	white
+thiosulfate reductase / polysulfide reductase chain A	1.8.5.5	Thiosulfate	Sulfite	white
+thiosulfate reductase cytochrome b subunit	1.8.5.5	Hydrogen sulfide	Menaquinol	white
+thiosulfate reductase cytochrome b subunit	1.8.5.5	Hydrogen sulfide	Thiosulfate	white
+thiosulfate reductase cytochrome b subunit	1.8.5.5	Menaquinol	Hydrogen sulfide	white
+thiosulfate reductase cytochrome b subunit	1.8.5.5	Menaquinol	Menaquinone	white
+thiosulfate reductase cytochrome b subunit	1.8.5.5	Menaquinol	Sulfite	white
+thiosulfate reductase cytochrome b subunit	1.8.5.5	Menaquinone	Menaquinol	white
+thiosulfate reductase cytochrome b subunit	1.8.5.5	Menaquinone	Thiosulfate	white
+thiosulfate reductase cytochrome b subunit	1.8.5.5	Sulfite	Menaquinol	white
+thiosulfate reductase cytochrome b subunit	1.8.5.5	Sulfite	Thiosulfate	white
+thiosulfate reductase cytochrome b subunit	1.8.5.5	Thiosulfate	Hydrogen sulfide	white
+thiosulfate reductase cytochrome b subunit	1.8.5.5	Thiosulfate	Menaquinone	white
+thiosulfate reductase cytochrome b subunit	1.8.5.5	Thiosulfate	Sulfite	white
+thiosulfate reductase electron transport protein	1.8.5.5	Hydrogen sulfide	Menaquinol	white
+thiosulfate reductase electron transport protein	1.8.5.5	Hydrogen sulfide	Thiosulfate	white
+thiosulfate reductase electron transport protein	1.8.5.5	Menaquinol	Hydrogen sulfide	white
+thiosulfate reductase electron transport protein	1.8.5.5	Menaquinol	Menaquinone	white
+thiosulfate reductase electron transport protein	1.8.5.5	Menaquinol	Sulfite	white
+thiosulfate reductase electron transport protein	1.8.5.5	Menaquinone	Menaquinol	white
+thiosulfate reductase electron transport protein	1.8.5.5	Menaquinone	Thiosulfate	white
+thiosulfate reductase electron transport protein	1.8.5.5	Sulfite	Menaquinol	white
+thiosulfate reductase electron transport protein	1.8.5.5	Sulfite	Thiosulfate	white
+thiosulfate reductase electron transport protein	1.8.5.5	Thiosulfate	Hydrogen sulfide	white
+thiosulfate reductase electron transport protein	1.8.5.5	Thiosulfate	Menaquinone	white
+thiosulfate reductase electron transport protein	1.8.5.5	Thiosulfate	Sulfite	white
+thiosulfate/3-mercaptopyruvate sulfurtransferase	2.8.1.1	Cyanide ion	Sulfite	green
+thiosulfate/3-mercaptopyruvate sulfurtransferase	2.8.1.1	Cyanide ion	Thiocyanate	green
+thiosulfate/3-mercaptopyruvate sulfurtransferase	2.8.1.1	Thiosulfate	Sulfite	green
+thiosulfate/3-mercaptopyruvate sulfurtransferase	2.8.1.1	Thiosulfate	Thiocyanate	green
+toluene monooxygenase electron transfer component	1.18.1.3	H+	Formaldehyde	green
+toluene monooxygenase electron transfer component	1.18.1.3	H+	H2O	green
+toluene monooxygenase electron transfer component	1.18.1.3	H+	NAD+	green
+toluene monooxygenase electron transfer component	1.18.1.3	H+	Sulfite	green
+toluene monooxygenase electron transfer component	1.18.1.3	Methanesulfonic acid	Formaldehyde	green
+toluene monooxygenase electron transfer component	1.18.1.3	Methanesulfonic acid	H2O	green
+toluene monooxygenase electron transfer component	1.18.1.3	Methanesulfonic acid	NAD+	green
+toluene monooxygenase electron transfer component	1.18.1.3	Methanesulfonic acid	Sulfite	green
+toluene monooxygenase electron transfer component	1.18.1.3	NADH	Formaldehyde	green
+toluene monooxygenase electron transfer component	1.18.1.3	NADH	H2O	green
+toluene monooxygenase electron transfer component	1.18.1.3	NADH	NAD+	green
+toluene monooxygenase electron transfer component	1.18.1.3	NADH	Sulfite	green
+toluene monooxygenase electron transfer component	1.18.1.3	Oxygen	Formaldehyde	green
+toluene monooxygenase electron transfer component	1.18.1.3	Oxygen	H2O	green
+toluene monooxygenase electron transfer component	1.18.1.3	Oxygen	NAD+	green
+toluene monooxygenase electron transfer component	1.18.1.3	Oxygen	Sulfite	green
+toluene monooxygenase system ferredoxin subunit	1.14.13.236	H+	Formaldehyde	green
+toluene monooxygenase system ferredoxin subunit	1.14.13.236	H+	H2O	green
+toluene monooxygenase system ferredoxin subunit	1.14.13.236	H+	NAD+	green
+toluene monooxygenase system ferredoxin subunit	1.14.13.236	H+	Sulfite	green
+toluene monooxygenase system ferredoxin subunit	1.14.13.236	Methanesulfonic acid	Formaldehyde	green
+toluene monooxygenase system ferredoxin subunit	1.14.13.236	Methanesulfonic acid	H2O	green
+toluene monooxygenase system ferredoxin subunit	1.14.13.236	Methanesulfonic acid	NAD+	green
+toluene monooxygenase system ferredoxin subunit	1.14.13.236	Methanesulfonic acid	Sulfite	green
+toluene monooxygenase system ferredoxin subunit	1.14.13.236	NADH	Formaldehyde	green
+toluene monooxygenase system ferredoxin subunit	1.14.13.236	NADH	H2O	green
+toluene monooxygenase system ferredoxin subunit	1.14.13.236	NADH	NAD+	green
+toluene monooxygenase system ferredoxin subunit	1.14.13.236	NADH	Sulfite	green
+toluene monooxygenase system ferredoxin subunit	1.14.13.236	Oxygen	Formaldehyde	green
+toluene monooxygenase system ferredoxin subunit	1.14.13.236	Oxygen	H2O	green
+toluene monooxygenase system ferredoxin subunit	1.14.13.236	Oxygen	NAD+	green
+toluene monooxygenase system ferredoxin subunit	1.14.13.236	Oxygen	Sulfite	green

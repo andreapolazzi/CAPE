@@ -1,0 +1,319 @@
+enzyme_name	EC	source	target	color
+F420-dependent hydroxymycolic acid dehydrogenase	1.1.98.-	H2O	Mycolic acid	white
+F420-dependent hydroxymycolic acid dehydrogenase	1.1.98.-	H2O	Trehalose monomycolate	white
+F420-dependent hydroxymycolic acid dehydrogenase	1.1.98.-	Mycolic acid	H2O	white
+F420-dependent hydroxymycolic acid dehydrogenase	1.1.98.-	Mycolic acid	Trehalose dimycolate	white
+F420-dependent hydroxymycolic acid dehydrogenase	1.1.98.-	Trehalose dimycolate	Mycolic acid	white
+F420-dependent hydroxymycolic acid dehydrogenase	1.1.98.-	Trehalose dimycolate	Trehalose monomycolate	white
+F420-dependent hydroxymycolic acid dehydrogenase	1.1.98.-	Trehalose monomycolate	H2O	white
+F420-dependent hydroxymycolic acid dehydrogenase	1.1.98.-	Trehalose monomycolate	Trehalose dimycolate	white
+[acyl-carrier-protein] S-malonyltransferase	2.3.1.39	Acyl-carrier protein	CoA	green
+[acyl-carrier-protein] S-malonyltransferase	2.3.1.39	Acyl-carrier protein	Malonyl-[acyl-carrier protein]	green
+[acyl-carrier-protein] S-malonyltransferase	2.3.1.39	Malonyl-CoA	CoA	green
+[acyl-carrier-protein] S-malonyltransferase	2.3.1.39	Malonyl-CoA	Malonyl-[acyl-carrier protein]	green
+acetyl-CoA/propionyl-CoA carboxylase carboxyl transferase subunit	6.4.1.2	ATP	ADP	green
+acetyl-CoA/propionyl-CoA carboxylase carboxyl transferase subunit	6.4.1.2	ATP	Malonyl-CoA	green
+acetyl-CoA/propionyl-CoA carboxylase carboxyl transferase subunit	6.4.1.2	ATP	Orthophosphate	green
+acetyl-CoA/propionyl-CoA carboxylase carboxyl transferase subunit	6.4.1.2	Acetyl-CoA	ADP	green
+acetyl-CoA/propionyl-CoA carboxylase carboxyl transferase subunit	6.4.1.2	Acetyl-CoA	Malonyl-CoA	green
+acetyl-CoA/propionyl-CoA carboxylase carboxyl transferase subunit	6.4.1.2	Acetyl-CoA	Orthophosphate	green
+acetyl-CoA/propionyl-CoA carboxylase carboxyl transferase subunit	6.4.1.2	HCO3-	ADP	green
+acetyl-CoA/propionyl-CoA carboxylase carboxyl transferase subunit	6.4.1.2	HCO3-	Malonyl-CoA	green
+acetyl-CoA/propionyl-CoA carboxylase carboxyl transferase subunit	6.4.1.2	HCO3-	Orthophosphate	green
+acetyl-CoA/propionyl-CoA/long-chain acyl-CoA carboxylase, biotin carboxylase, biotin carboxyl carrier protein	6.4.1.2	ATP	ADP	green
+acetyl-CoA/propionyl-CoA/long-chain acyl-CoA carboxylase, biotin carboxylase, biotin carboxyl carrier protein	6.4.1.2	ATP	Malonyl-CoA	green
+acetyl-CoA/propionyl-CoA/long-chain acyl-CoA carboxylase, biotin carboxylase, biotin carboxyl carrier protein	6.4.1.2	ATP	Orthophosphate	green
+acetyl-CoA/propionyl-CoA/long-chain acyl-CoA carboxylase, biotin carboxylase, biotin carboxyl carrier protein	6.4.1.2	ATP	Very-long-chain alpha-carboxyacyl-CoA	green
+acetyl-CoA/propionyl-CoA/long-chain acyl-CoA carboxylase, biotin carboxylase, biotin carboxyl carrier protein	6.4.1.2	Acetyl-CoA	ADP	green
+acetyl-CoA/propionyl-CoA/long-chain acyl-CoA carboxylase, biotin carboxylase, biotin carboxyl carrier protein	6.4.1.2	Acetyl-CoA	Malonyl-CoA	green
+acetyl-CoA/propionyl-CoA/long-chain acyl-CoA carboxylase, biotin carboxylase, biotin carboxyl carrier protein	6.4.1.2	Acetyl-CoA	Orthophosphate	green
+acetyl-CoA/propionyl-CoA/long-chain acyl-CoA carboxylase, biotin carboxylase, biotin carboxyl carrier protein	6.4.1.2	HCO3-	ADP	green
+acetyl-CoA/propionyl-CoA/long-chain acyl-CoA carboxylase, biotin carboxylase, biotin carboxyl carrier protein	6.4.1.2	HCO3-	Malonyl-CoA	green
+acetyl-CoA/propionyl-CoA/long-chain acyl-CoA carboxylase, biotin carboxylase, biotin carboxyl carrier protein	6.4.1.2	HCO3-	Orthophosphate	green
+acetyl-CoA/propionyl-CoA/long-chain acyl-CoA carboxylase, biotin carboxylase, biotin carboxyl carrier protein	6.4.1.2	HCO3-	Very-long-chain alpha-carboxyacyl-CoA	green
+acetyl-CoA/propionyl-CoA/long-chain acyl-CoA carboxylase, biotin carboxylase, biotin carboxyl carrier protein	6.4.1.2	Very-long-chain acyl-CoA	ADP	green
+acetyl-CoA/propionyl-CoA/long-chain acyl-CoA carboxylase, biotin carboxylase, biotin carboxyl carrier protein	6.4.1.2	Very-long-chain acyl-CoA	Orthophosphate	green
+acetyl-CoA/propionyl-CoA/long-chain acyl-CoA carboxylase, biotin carboxylase, biotin carboxyl carrier protein	6.4.1.2	Very-long-chain acyl-CoA	Very-long-chain alpha-carboxyacyl-CoA	green
+acyl-CoA carboxylase epsilon subunit	6.4.1.-	ATP	ADP	green
+acyl-CoA carboxylase epsilon subunit	6.4.1.-	ATP	Orthophosphate	green
+acyl-CoA carboxylase epsilon subunit	6.4.1.-	ATP	Very-long-chain alpha-carboxyacyl-CoA	green
+acyl-CoA carboxylase epsilon subunit	6.4.1.-	HCO3-	ADP	green
+acyl-CoA carboxylase epsilon subunit	6.4.1.-	HCO3-	Orthophosphate	green
+acyl-CoA carboxylase epsilon subunit	6.4.1.-	HCO3-	Very-long-chain alpha-carboxyacyl-CoA	green
+acyl-CoA carboxylase epsilon subunit	6.4.1.-	Very-long-chain acyl-CoA	ADP	green
+acyl-CoA carboxylase epsilon subunit	6.4.1.-	Very-long-chain acyl-CoA	Orthophosphate	green
+acyl-CoA carboxylase epsilon subunit	6.4.1.-	Very-long-chain acyl-CoA	Very-long-chain alpha-carboxyacyl-CoA	green
+acyl-[acyl-carrier protein] desaturase	1.14.19.2	H+	H2O	white
+acyl-[acyl-carrier protein] desaturase	1.14.19.2	H+	Oleoyl-[acyl-carrier protein]	white
+acyl-[acyl-carrier protein] desaturase	1.14.19.2	H+	Oxidized ferredoxin	white
+acyl-[acyl-carrier protein] desaturase	1.14.19.2	H2O	H+	white
+acyl-[acyl-carrier protein] desaturase	1.14.19.2	H2O	Octadecanoyl-[acyl-carrier protein]	white
+acyl-[acyl-carrier protein] desaturase	1.14.19.2	H2O	Oxygen	white
+acyl-[acyl-carrier protein] desaturase	1.14.19.2	H2O	Reduced ferredoxin	white
+acyl-[acyl-carrier protein] desaturase	1.14.19.2	Octadecanoyl-[acyl-carrier protein]	H2O	white
+acyl-[acyl-carrier protein] desaturase	1.14.19.2	Octadecanoyl-[acyl-carrier protein]	Oleoyl-[acyl-carrier protein]	white
+acyl-[acyl-carrier protein] desaturase	1.14.19.2	Octadecanoyl-[acyl-carrier protein]	Oxidized ferredoxin	white
+acyl-[acyl-carrier protein] desaturase	1.14.19.2	Oleoyl-[acyl-carrier protein]	H+	white
+acyl-[acyl-carrier protein] desaturase	1.14.19.2	Oleoyl-[acyl-carrier protein]	Octadecanoyl-[acyl-carrier protein]	white
+acyl-[acyl-carrier protein] desaturase	1.14.19.2	Oleoyl-[acyl-carrier protein]	Oxygen	white
+acyl-[acyl-carrier protein] desaturase	1.14.19.2	Oleoyl-[acyl-carrier protein]	Reduced ferredoxin	white
+acyl-[acyl-carrier protein] desaturase	1.14.19.2	Oxidized ferredoxin	H+	white
+acyl-[acyl-carrier protein] desaturase	1.14.19.2	Oxidized ferredoxin	Octadecanoyl-[acyl-carrier protein]	white
+acyl-[acyl-carrier protein] desaturase	1.14.19.2	Oxidized ferredoxin	Oxygen	white
+acyl-[acyl-carrier protein] desaturase	1.14.19.2	Oxidized ferredoxin	Reduced ferredoxin	white
+acyl-[acyl-carrier protein] desaturase	1.14.19.2	Oxygen	H2O	white
+acyl-[acyl-carrier protein] desaturase	1.14.19.2	Oxygen	Oleoyl-[acyl-carrier protein]	white
+acyl-[acyl-carrier protein] desaturase	1.14.19.2	Oxygen	Oxidized ferredoxin	white
+acyl-[acyl-carrier protein] desaturase	1.14.19.2	Reduced ferredoxin	H2O	white
+acyl-[acyl-carrier protein] desaturase	1.14.19.2	Reduced ferredoxin	Oleoyl-[acyl-carrier protein]	white
+acyl-[acyl-carrier protein] desaturase	1.14.19.2	Reduced ferredoxin	Oxidized ferredoxin	white
+cyclopropane mycolic acid synthase CmaA2	2.1.1.-	H2O	Mycolic acid	white
+cyclopropane mycolic acid synthase CmaA2	2.1.1.-	H2O	Trehalose monomycolate	white
+cyclopropane mycolic acid synthase CmaA2	2.1.1.-	Mycolic acid	H2O	white
+cyclopropane mycolic acid synthase CmaA2	2.1.1.-	Mycolic acid	Trehalose dimycolate	white
+cyclopropane mycolic acid synthase CmaA2	2.1.1.-	Trehalose dimycolate	Mycolic acid	white
+cyclopropane mycolic acid synthase CmaA2	2.1.1.-	Trehalose dimycolate	Trehalose monomycolate	white
+cyclopropane mycolic acid synthase CmaA2	2.1.1.-	Trehalose monomycolate	H2O	white
+cyclopropane mycolic acid synthase CmaA2	2.1.1.-	Trehalose monomycolate	Trehalose dimycolate	white
+cyclopropane mycolic acid synthase MmaA2	2.1.1.-	H2O	Mycolic acid	white
+cyclopropane mycolic acid synthase MmaA2	2.1.1.-	H2O	Trehalose monomycolate	white
+cyclopropane mycolic acid synthase MmaA2	2.1.1.-	Mycolic acid	H2O	white
+cyclopropane mycolic acid synthase MmaA2	2.1.1.-	Mycolic acid	Trehalose dimycolate	white
+cyclopropane mycolic acid synthase MmaA2	2.1.1.-	Trehalose dimycolate	Mycolic acid	white
+cyclopropane mycolic acid synthase MmaA2	2.1.1.-	Trehalose dimycolate	Trehalose monomycolate	white
+cyclopropane mycolic acid synthase MmaA2	2.1.1.-	Trehalose monomycolate	H2O	white
+cyclopropane mycolic acid synthase MmaA2	2.1.1.-	Trehalose monomycolate	Trehalose dimycolate	white
+cyclopropane mycolic acid synthase PcaA	2.1.1.-	H2O	Mycolic acid	white
+cyclopropane mycolic acid synthase PcaA	2.1.1.-	H2O	Trehalose monomycolate	white
+cyclopropane mycolic acid synthase PcaA	2.1.1.-	Mycolic acid	H2O	white
+cyclopropane mycolic acid synthase PcaA	2.1.1.-	Mycolic acid	Trehalose dimycolate	white
+cyclopropane mycolic acid synthase PcaA	2.1.1.-	Trehalose dimycolate	Mycolic acid	white
+cyclopropane mycolic acid synthase PcaA	2.1.1.-	Trehalose dimycolate	Trehalose monomycolate	white
+cyclopropane mycolic acid synthase PcaA	2.1.1.-	Trehalose monomycolate	H2O	white
+cyclopropane mycolic acid synthase PcaA	2.1.1.-	Trehalose monomycolate	Trehalose dimycolate	white
+diacylglycerol O-acyltransferase / trehalose O-mycolyltransferase / mycolyltransferase Ag85	2.3.1.20	AGP	alpha,alpha-Trehalose	green
+diacylglycerol O-acyltransferase / trehalose O-mycolyltransferase / mycolyltransferase Ag85	2.3.1.20	AGP	mAGP	green
+diacylglycerol O-acyltransferase / trehalose O-mycolyltransferase / mycolyltransferase Ag85	2.3.1.20	D-Glucose	Glucose monomycolate	green
+diacylglycerol O-acyltransferase / trehalose O-mycolyltransferase / mycolyltransferase Ag85	2.3.1.20	D-Glucose	alpha,alpha-Trehalose	green
+diacylglycerol O-acyltransferase / trehalose O-mycolyltransferase / mycolyltransferase Ag85	2.3.1.20	Trehalose monomycolate	Glucose monomycolate	green
+diacylglycerol O-acyltransferase / trehalose O-mycolyltransferase / mycolyltransferase Ag85	2.3.1.20	Trehalose monomycolate	Trehalose dimycolate	green
+diacylglycerol O-acyltransferase / trehalose O-mycolyltransferase / mycolyltransferase Ag85	2.3.1.20	Trehalose monomycolate	alpha,alpha-Trehalose	green
+diacylglycerol O-acyltransferase / trehalose O-mycolyltransferase / mycolyltransferase Ag85	2.3.1.20	Trehalose monomycolate	mAGP	green
+enterobactin synthetase component D / holo-[acyl-carrier protein] synthase	6.3.2.14	Apo-[acyl-carrier protein]	Acyl-carrier protein	green
+enterobactin synthetase component D / holo-[acyl-carrier protein] synthase	6.3.2.14	Apo-[acyl-carrier protein]	Adenosine 3',5'-bisphosphate	green
+enterobactin synthetase component D / holo-[acyl-carrier protein] synthase	6.3.2.14	CoA	Acyl-carrier protein	green
+enterobactin synthetase component D / holo-[acyl-carrier protein] synthase	6.3.2.14	CoA	Adenosine 3',5'-bisphosphate	green
+fatty acid synthase, bacteria type	2.3.1.-	Acetyl-CoA	CO2	green
+fatty acid synthase, bacteria type	2.3.1.-	Acetyl-CoA	CoA	green
+fatty acid synthase, bacteria type	2.3.1.-	Acetyl-CoA	H2O	green
+fatty acid synthase, bacteria type	2.3.1.-	Acetyl-CoA	Long-chain acyl-CoA	green
+fatty acid synthase, bacteria type	2.3.1.-	Acetyl-CoA	NAD+	green
+fatty acid synthase, bacteria type	2.3.1.-	Acetyl-CoA	NADP+	green
+fatty acid synthase, bacteria type	2.3.1.-	Acetyl-CoA	Very-long-chain acyl-CoA	green
+fatty acid synthase, bacteria type	2.3.1.-	H+	CO2	green
+fatty acid synthase, bacteria type	2.3.1.-	H+	CoA	green
+fatty acid synthase, bacteria type	2.3.1.-	H+	H2O	green
+fatty acid synthase, bacteria type	2.3.1.-	H+	Long-chain acyl-CoA	green
+fatty acid synthase, bacteria type	2.3.1.-	H+	NAD+	green
+fatty acid synthase, bacteria type	2.3.1.-	H+	NADP+	green
+fatty acid synthase, bacteria type	2.3.1.-	H+	Very-long-chain acyl-CoA	green
+fatty acid synthase, bacteria type	2.3.1.-	Malonyl-CoA	CO2	green
+fatty acid synthase, bacteria type	2.3.1.-	Malonyl-CoA	CoA	green
+fatty acid synthase, bacteria type	2.3.1.-	Malonyl-CoA	H2O	green
+fatty acid synthase, bacteria type	2.3.1.-	Malonyl-CoA	Long-chain acyl-CoA	green
+fatty acid synthase, bacteria type	2.3.1.-	Malonyl-CoA	NAD+	green
+fatty acid synthase, bacteria type	2.3.1.-	Malonyl-CoA	NADP+	green
+fatty acid synthase, bacteria type	2.3.1.-	Malonyl-CoA	Very-long-chain acyl-CoA	green
+fatty acid synthase, bacteria type	2.3.1.-	NADH	CO2	green
+fatty acid synthase, bacteria type	2.3.1.-	NADH	CoA	green
+fatty acid synthase, bacteria type	2.3.1.-	NADH	H2O	green
+fatty acid synthase, bacteria type	2.3.1.-	NADH	Long-chain acyl-CoA	green
+fatty acid synthase, bacteria type	2.3.1.-	NADH	NAD+	green
+fatty acid synthase, bacteria type	2.3.1.-	NADH	NADP+	green
+fatty acid synthase, bacteria type	2.3.1.-	NADH	Very-long-chain acyl-CoA	green
+fatty acid synthase, bacteria type	2.3.1.-	NADPH	CO2	green
+fatty acid synthase, bacteria type	2.3.1.-	NADPH	CoA	green
+fatty acid synthase, bacteria type	2.3.1.-	NADPH	H2O	green
+fatty acid synthase, bacteria type	2.3.1.-	NADPH	Long-chain acyl-CoA	green
+fatty acid synthase, bacteria type	2.3.1.-	NADPH	NAD+	green
+fatty acid synthase, bacteria type	2.3.1.-	NADPH	NADP+	green
+fatty acid synthase, bacteria type	2.3.1.-	NADPH	Very-long-chain acyl-CoA	green
+fatty acyl-AMP ligase FadD32	6.2.1.-	ATP	AMP	green
+fatty acyl-AMP ligase FadD32	6.2.1.-	ATP	Diphosphate	green
+fatty acyl-AMP ligase FadD32	6.2.1.-	ATP	Meromycoloyl-[acp Pks13]	green
+fatty acyl-AMP ligase FadD32	6.2.1.-	Acyl-carrier protein	AMP	green
+fatty acyl-AMP ligase FadD32	6.2.1.-	Acyl-carrier protein	Diphosphate	green
+fatty acyl-AMP ligase FadD32	6.2.1.-	Acyl-carrier protein	Meromycoloyl-[acp Pks13]	green
+fatty acyl-AMP ligase FadD32	6.2.1.-	Meromycolic acid	AMP	green
+fatty acyl-AMP ligase FadD32	6.2.1.-	Meromycolic acid	Diphosphate	green
+fatty acyl-AMP ligase FadD32	6.2.1.-	Meromycolic acid	Meromycoloyl-[acp Pks13]	green
+holo-[acyl-carrier protein] synthase	2.7.8.7	Apo-[acyl-carrier protein]	Acyl-carrier protein	green
+holo-[acyl-carrier protein] synthase	2.7.8.7	Apo-[acyl-carrier protein]	Adenosine 3',5'-bisphosphate	green
+holo-[acyl-carrier protein] synthase	2.7.8.7	CoA	Acyl-carrier protein	green
+holo-[acyl-carrier protein] synthase	2.7.8.7	CoA	Adenosine 3',5'-bisphosphate	green
+hydroxy mycolic acid synthase MmaA4	2.1.1.-	H2O	Mycolic acid	white
+hydroxy mycolic acid synthase MmaA4	2.1.1.-	H2O	Trehalose monomycolate	white
+hydroxy mycolic acid synthase MmaA4	2.1.1.-	Mycolic acid	H2O	white
+hydroxy mycolic acid synthase MmaA4	2.1.1.-	Mycolic acid	Trehalose dimycolate	white
+hydroxy mycolic acid synthase MmaA4	2.1.1.-	Trehalose dimycolate	Mycolic acid	white
+hydroxy mycolic acid synthase MmaA4	2.1.1.-	Trehalose dimycolate	Trehalose monomycolate	white
+hydroxy mycolic acid synthase MmaA4	2.1.1.-	Trehalose monomycolate	H2O	white
+hydroxy mycolic acid synthase MmaA4	2.1.1.-	Trehalose monomycolate	Trehalose dimycolate	white
+long-chain acyl-CoA carboxylase carboxyl transferase subunit	6.4.1.-	ATP	ADP	green
+long-chain acyl-CoA carboxylase carboxyl transferase subunit	6.4.1.-	ATP	Orthophosphate	green
+long-chain acyl-CoA carboxylase carboxyl transferase subunit	6.4.1.-	ATP	Very-long-chain alpha-carboxyacyl-CoA	green
+long-chain acyl-CoA carboxylase carboxyl transferase subunit	6.4.1.-	HCO3-	ADP	green
+long-chain acyl-CoA carboxylase carboxyl transferase subunit	6.4.1.-	HCO3-	Orthophosphate	green
+long-chain acyl-CoA carboxylase carboxyl transferase subunit	6.4.1.-	HCO3-	Very-long-chain alpha-carboxyacyl-CoA	green
+long-chain acyl-CoA carboxylase carboxyl transferase subunit	6.4.1.-	Very-long-chain acyl-CoA	ADP	green
+long-chain acyl-CoA carboxylase carboxyl transferase subunit	6.4.1.-	Very-long-chain acyl-CoA	Orthophosphate	green
+long-chain acyl-CoA carboxylase carboxyl transferase subunit	6.4.1.-	Very-long-chain acyl-CoA	Very-long-chain alpha-carboxyacyl-CoA	green
+meromycolic acid (3R)-3-hydroxyacyl-[acyl-carrier protein] dehydratase HadA	4.2.1.-	Long-chain (3R)-3-hydroxyacyl-[acyl-carrier protein]	H2O	green
+meromycolic acid (3R)-3-hydroxyacyl-[acyl-carrier protein] dehydratase HadA	4.2.1.-	Long-chain (3R)-3-hydroxyacyl-[acyl-carrier protein]	Long-chain trans-2-enoyl-[acyl-carrier protein]	green
+meromycolic acid (3R)-3-hydroxyacyl-[acyl-carrier protein] dehydratase HadA	4.2.1.-	Ultra-long-chain mono-unsaturated (3R)-3-hydroxyacyl-[acyl-carrier protein]	H2O	green
+meromycolic acid (3R)-3-hydroxyacyl-[acyl-carrier protein] dehydratase HadA	4.2.1.-	Ultra-long-chain mono-unsaturated (3R)-3-hydroxyacyl-[acyl-carrier protein]	Ultra-long-chain mono-unsaturated trans-2-enoyl-[acyl-carrier protein]	green
+meromycolic acid (3R)-3-hydroxyacyl-[acyl-carrier protein] dehydratase HadA	4.2.1.-	Very-long-chain (3R)-3-hydroxyacyl-[acyl-carrier protein]	H2O	green
+meromycolic acid (3R)-3-hydroxyacyl-[acyl-carrier protein] dehydratase HadA	4.2.1.-	Very-long-chain (3R)-3-hydroxyacyl-[acyl-carrier protein]	Very-long-chain trans-2-enoyl-[acyl-carrier protein]	green
+meromycolic acid (3R)-3-hydroxyacyl-[acyl-carrier protein] dehydratase HadB	4.2.1.-	Long-chain (3R)-3-hydroxyacyl-[acyl-carrier protein]	H2O	green
+meromycolic acid (3R)-3-hydroxyacyl-[acyl-carrier protein] dehydratase HadB	4.2.1.-	Long-chain (3R)-3-hydroxyacyl-[acyl-carrier protein]	Long-chain trans-2-enoyl-[acyl-carrier protein]	green
+meromycolic acid (3R)-3-hydroxyacyl-[acyl-carrier protein] dehydratase HadB	4.2.1.-	Ultra-long-chain di-unsaturated (3R)-3-hydroxyacyl-[acyl-carrier protein]	H2O	green
+meromycolic acid (3R)-3-hydroxyacyl-[acyl-carrier protein] dehydratase HadB	4.2.1.-	Ultra-long-chain di-unsaturated (3R)-3-hydroxyacyl-[acyl-carrier protein]	Ultra-long-chain di-unsaturated trans-2-enoyl-[acyl-carrier protein]	green
+meromycolic acid (3R)-3-hydroxyacyl-[acyl-carrier protein] dehydratase HadB	4.2.1.-	Ultra-long-chain mono-unsaturated (3R)-3-hydroxyacyl-[acyl-carrier protein]	H2O	green
+meromycolic acid (3R)-3-hydroxyacyl-[acyl-carrier protein] dehydratase HadB	4.2.1.-	Ultra-long-chain mono-unsaturated (3R)-3-hydroxyacyl-[acyl-carrier protein]	Ultra-long-chain mono-unsaturated trans-2-enoyl-[acyl-carrier protein]	green
+meromycolic acid (3R)-3-hydroxyacyl-[acyl-carrier protein] dehydratase HadB	4.2.1.-	Very-long-chain (3R)-3-hydroxyacyl-[acyl-carrier protein]	H2O	green
+meromycolic acid (3R)-3-hydroxyacyl-[acyl-carrier protein] dehydratase HadB	4.2.1.-	Very-long-chain (3R)-3-hydroxyacyl-[acyl-carrier protein]	Very-long-chain trans-2-enoyl-[acyl-carrier protein]	green
+meromycolic acid 3-oxoacyl-[acyl-carrier protein] reductase	1.1.1.-	Long-chain (3R)-3-hydroxyacyl-[acyl-carrier protein]	H+	green
+meromycolic acid 3-oxoacyl-[acyl-carrier protein] reductase	1.1.1.-	Long-chain (3R)-3-hydroxyacyl-[acyl-carrier protein]	Long-chain 3-oxoacyl-[acyl-carrier protein]	green
+meromycolic acid 3-oxoacyl-[acyl-carrier protein] reductase	1.1.1.-	Long-chain (3R)-3-hydroxyacyl-[acyl-carrier protein]	NADPH	green
+meromycolic acid 3-oxoacyl-[acyl-carrier protein] reductase	1.1.1.-	NADP+	H+	green
+meromycolic acid 3-oxoacyl-[acyl-carrier protein] reductase	1.1.1.-	NADP+	Long-chain 3-oxoacyl-[acyl-carrier protein]	green
+meromycolic acid 3-oxoacyl-[acyl-carrier protein] reductase	1.1.1.-	NADP+	NADPH	green
+meromycolic acid 3-oxoacyl-[acyl-carrier protein] reductase	1.1.1.-	NADP+	Ultra-long-chain di-unsaturated 3-oxo-fatty acyl-[acyl-carrier protein]	green
+meromycolic acid 3-oxoacyl-[acyl-carrier protein] reductase	1.1.1.-	NADP+	Ultra-long-chain mono-unsaturated 3-oxo-fatty acyl-[acyl-carrier protein]	green
+meromycolic acid 3-oxoacyl-[acyl-carrier protein] reductase	1.1.1.-	NADP+	Very-long-chain 3-oxoacyl-[acyl-carrier protein]	green
+meromycolic acid 3-oxoacyl-[acyl-carrier protein] reductase	1.1.1.-	Ultra-long-chain di-unsaturated (3R)-3-hydroxyacyl-[acyl-carrier protein]	H+	green
+meromycolic acid 3-oxoacyl-[acyl-carrier protein] reductase	1.1.1.-	Ultra-long-chain di-unsaturated (3R)-3-hydroxyacyl-[acyl-carrier protein]	NADPH	green
+meromycolic acid 3-oxoacyl-[acyl-carrier protein] reductase	1.1.1.-	Ultra-long-chain di-unsaturated (3R)-3-hydroxyacyl-[acyl-carrier protein]	Ultra-long-chain di-unsaturated 3-oxo-fatty acyl-[acyl-carrier protein]	green
+meromycolic acid 3-oxoacyl-[acyl-carrier protein] reductase	1.1.1.-	Ultra-long-chain mono-unsaturated (3R)-3-hydroxyacyl-[acyl-carrier protein]	H+	green
+meromycolic acid 3-oxoacyl-[acyl-carrier protein] reductase	1.1.1.-	Ultra-long-chain mono-unsaturated (3R)-3-hydroxyacyl-[acyl-carrier protein]	NADPH	green
+meromycolic acid 3-oxoacyl-[acyl-carrier protein] reductase	1.1.1.-	Ultra-long-chain mono-unsaturated (3R)-3-hydroxyacyl-[acyl-carrier protein]	Ultra-long-chain mono-unsaturated 3-oxo-fatty acyl-[acyl-carrier protein]	green
+meromycolic acid 3-oxoacyl-[acyl-carrier protein] reductase	1.1.1.-	Very-long-chain (3R)-3-hydroxyacyl-[acyl-carrier protein]	H+	green
+meromycolic acid 3-oxoacyl-[acyl-carrier protein] reductase	1.1.1.-	Very-long-chain (3R)-3-hydroxyacyl-[acyl-carrier protein]	NADPH	green
+meromycolic acid 3-oxoacyl-[acyl-carrier protein] reductase	1.1.1.-	Very-long-chain (3R)-3-hydroxyacyl-[acyl-carrier protein]	Very-long-chain 3-oxoacyl-[acyl-carrier protein]	green
+meromycolic acid 3-oxoacyl-[acyl-carrier protein] synthase I	2.3.1.293	Long-chain acyl-[acyl-carrier protein]	Acyl-carrier protein	green
+meromycolic acid 3-oxoacyl-[acyl-carrier protein] synthase I	2.3.1.293	Long-chain acyl-[acyl-carrier protein]	CO2	green
+meromycolic acid 3-oxoacyl-[acyl-carrier protein] synthase I	2.3.1.293	Long-chain acyl-[acyl-carrier protein]	Long-chain 3-oxoacyl-[acyl-carrier protein]	green
+meromycolic acid 3-oxoacyl-[acyl-carrier protein] synthase I	2.3.1.293	Malonyl-[acyl-carrier protein]	Acyl-carrier protein	green
+meromycolic acid 3-oxoacyl-[acyl-carrier protein] synthase I	2.3.1.293	Malonyl-[acyl-carrier protein]	CO2	green
+meromycolic acid 3-oxoacyl-[acyl-carrier protein] synthase I	2.3.1.293	Malonyl-[acyl-carrier protein]	Long-chain 3-oxoacyl-[acyl-carrier protein]	green
+meromycolic acid 3-oxoacyl-[acyl-carrier protein] synthase I	2.3.1.293	Malonyl-[acyl-carrier protein]	Ultra-long-chain mono-unsaturated 3-oxo-fatty acyl-[acyl-carrier protein]	green
+meromycolic acid 3-oxoacyl-[acyl-carrier protein] synthase I	2.3.1.293	Malonyl-[acyl-carrier protein]	Very-long-chain 3-oxoacyl-[acyl-carrier protein]	green
+meromycolic acid 3-oxoacyl-[acyl-carrier protein] synthase I	2.3.1.293	Ultra-long-chain mono-unsaturated acyl-[acyl-carrier protein]	Acyl-carrier protein	green
+meromycolic acid 3-oxoacyl-[acyl-carrier protein] synthase I	2.3.1.293	Ultra-long-chain mono-unsaturated acyl-[acyl-carrier protein]	CO2	green
+meromycolic acid 3-oxoacyl-[acyl-carrier protein] synthase I	2.3.1.293	Ultra-long-chain mono-unsaturated acyl-[acyl-carrier protein]	Ultra-long-chain mono-unsaturated 3-oxo-fatty acyl-[acyl-carrier protein]	green
+meromycolic acid 3-oxoacyl-[acyl-carrier protein] synthase I	2.3.1.293	Very-long-chain acyl-[acyl-carrier protein]	Acyl-carrier protein	green
+meromycolic acid 3-oxoacyl-[acyl-carrier protein] synthase I	2.3.1.293	Very-long-chain acyl-[acyl-carrier protein]	CO2	green
+meromycolic acid 3-oxoacyl-[acyl-carrier protein] synthase I	2.3.1.293	Very-long-chain acyl-[acyl-carrier protein]	Very-long-chain 3-oxoacyl-[acyl-carrier protein]	green
+meromycolic acid 3-oxoacyl-[acyl-carrier protein] synthase II	2.3.1.294	Acyl-carrier protein	Malonyl-[acyl-carrier protein]	white
+meromycolic acid 3-oxoacyl-[acyl-carrier protein] synthase II	2.3.1.294	Acyl-carrier protein	Ultra-long-chain di-unsaturated acyl-[acyl-carrier protein]	white
+meromycolic acid 3-oxoacyl-[acyl-carrier protein] synthase II	2.3.1.294	CO2	Malonyl-[acyl-carrier protein]	white
+meromycolic acid 3-oxoacyl-[acyl-carrier protein] synthase II	2.3.1.294	CO2	Ultra-long-chain di-unsaturated acyl-[acyl-carrier protein]	white
+meromycolic acid 3-oxoacyl-[acyl-carrier protein] synthase II	2.3.1.294	Malonyl-[acyl-carrier protein]	Acyl-carrier protein	white
+meromycolic acid 3-oxoacyl-[acyl-carrier protein] synthase II	2.3.1.294	Malonyl-[acyl-carrier protein]	CO2	white
+meromycolic acid 3-oxoacyl-[acyl-carrier protein] synthase II	2.3.1.294	Malonyl-[acyl-carrier protein]	Ultra-long-chain di-unsaturated 3-oxo-fatty acyl-[acyl-carrier protein]	white
+meromycolic acid 3-oxoacyl-[acyl-carrier protein] synthase II	2.3.1.294	Ultra-long-chain di-unsaturated 3-oxo-fatty acyl-[acyl-carrier protein]	Malonyl-[acyl-carrier protein]	white
+meromycolic acid 3-oxoacyl-[acyl-carrier protein] synthase II	2.3.1.294	Ultra-long-chain di-unsaturated 3-oxo-fatty acyl-[acyl-carrier protein]	Ultra-long-chain di-unsaturated acyl-[acyl-carrier protein]	white
+meromycolic acid 3-oxoacyl-[acyl-carrier protein] synthase II	2.3.1.294	Ultra-long-chain di-unsaturated acyl-[acyl-carrier protein]	Acyl-carrier protein	white
+meromycolic acid 3-oxoacyl-[acyl-carrier protein] synthase II	2.3.1.294	Ultra-long-chain di-unsaturated acyl-[acyl-carrier protein]	CO2	white
+meromycolic acid 3-oxoacyl-[acyl-carrier protein] synthase II	2.3.1.294	Ultra-long-chain di-unsaturated acyl-[acyl-carrier protein]	Ultra-long-chain di-unsaturated 3-oxo-fatty acyl-[acyl-carrier protein]	white
+meromycolic acid enoyl-[acyl-carrier protein] reductase	1.3.1.118	Long-chain acyl-[acyl-carrier protein]	H+	green
+meromycolic acid enoyl-[acyl-carrier protein] reductase	1.3.1.118	Long-chain acyl-[acyl-carrier protein]	Long-chain trans-2-enoyl-[acyl-carrier protein]	green
+meromycolic acid enoyl-[acyl-carrier protein] reductase	1.3.1.118	Long-chain acyl-[acyl-carrier protein]	NADH	green
+meromycolic acid enoyl-[acyl-carrier protein] reductase	1.3.1.118	NAD+	H+	green
+meromycolic acid enoyl-[acyl-carrier protein] reductase	1.3.1.118	NAD+	Long-chain trans-2-enoyl-[acyl-carrier protein]	green
+meromycolic acid enoyl-[acyl-carrier protein] reductase	1.3.1.118	NAD+	NADH	green
+meromycolic acid enoyl-[acyl-carrier protein] reductase	1.3.1.118	NAD+	Ultra-long-chain di-unsaturated trans-2-enoyl-[acyl-carrier protein]	green
+meromycolic acid enoyl-[acyl-carrier protein] reductase	1.3.1.118	NAD+	Ultra-long-chain mono-unsaturated trans-2-enoyl-[acyl-carrier protein]	green
+meromycolic acid enoyl-[acyl-carrier protein] reductase	1.3.1.118	NAD+	Very-long-chain trans-2-enoyl-[acyl-carrier protein]	green
+meromycolic acid enoyl-[acyl-carrier protein] reductase	1.3.1.118	Ultra-long-chain di-unsaturated acyl-[acyl-carrier protein]	H+	green
+meromycolic acid enoyl-[acyl-carrier protein] reductase	1.3.1.118	Ultra-long-chain di-unsaturated acyl-[acyl-carrier protein]	NADH	green
+meromycolic acid enoyl-[acyl-carrier protein] reductase	1.3.1.118	Ultra-long-chain di-unsaturated acyl-[acyl-carrier protein]	Ultra-long-chain di-unsaturated trans-2-enoyl-[acyl-carrier protein]	green
+meromycolic acid enoyl-[acyl-carrier protein] reductase	1.3.1.118	Ultra-long-chain mono-unsaturated acyl-[acyl-carrier protein]	H+	green
+meromycolic acid enoyl-[acyl-carrier protein] reductase	1.3.1.118	Ultra-long-chain mono-unsaturated acyl-[acyl-carrier protein]	NADH	green
+meromycolic acid enoyl-[acyl-carrier protein] reductase	1.3.1.118	Ultra-long-chain mono-unsaturated acyl-[acyl-carrier protein]	Ultra-long-chain mono-unsaturated trans-2-enoyl-[acyl-carrier protein]	green
+meromycolic acid enoyl-[acyl-carrier protein] reductase	1.3.1.118	Very-long-chain acyl-[acyl-carrier protein]	H+	green
+meromycolic acid enoyl-[acyl-carrier protein] reductase	1.3.1.118	Very-long-chain acyl-[acyl-carrier protein]	NADH	green
+meromycolic acid enoyl-[acyl-carrier protein] reductase	1.3.1.118	Very-long-chain acyl-[acyl-carrier protein]	Very-long-chain trans-2-enoyl-[acyl-carrier protein]	green
+methoxy mycolic acid synthase MmaA3	2.1.1.-	H2O	Mycolic acid	white
+methoxy mycolic acid synthase MmaA3	2.1.1.-	H2O	Trehalose monomycolate	white
+methoxy mycolic acid synthase MmaA3	2.1.1.-	Mycolic acid	H2O	white
+methoxy mycolic acid synthase MmaA3	2.1.1.-	Mycolic acid	Trehalose dimycolate	white
+methoxy mycolic acid synthase MmaA3	2.1.1.-	Trehalose dimycolate	Mycolic acid	white
+methoxy mycolic acid synthase MmaA3	2.1.1.-	Trehalose dimycolate	Trehalose monomycolate	white
+methoxy mycolic acid synthase MmaA3	2.1.1.-	Trehalose monomycolate	H2O	white
+methoxy mycolic acid synthase MmaA3	2.1.1.-	Trehalose monomycolate	Trehalose dimycolate	white
+mycobacterial beta-ketoacyl-[acyl-carrier protein] synthase III	2.3.1.301	Long-chain acyl-CoA	CO2	green
+mycobacterial beta-ketoacyl-[acyl-carrier protein] synthase III	2.3.1.301	Long-chain acyl-CoA	CoA	green
+mycobacterial beta-ketoacyl-[acyl-carrier protein] synthase III	2.3.1.301	Long-chain acyl-CoA	Long-chain 3-oxoacyl-[acyl-carrier protein]	green
+mycobacterial beta-ketoacyl-[acyl-carrier protein] synthase III	2.3.1.301	Malonyl-[acyl-carrier protein]	CO2	green
+mycobacterial beta-ketoacyl-[acyl-carrier protein] synthase III	2.3.1.301	Malonyl-[acyl-carrier protein]	CoA	green
+mycobacterial beta-ketoacyl-[acyl-carrier protein] synthase III	2.3.1.301	Malonyl-[acyl-carrier protein]	Long-chain 3-oxoacyl-[acyl-carrier protein]	green
+mycolic acid methyltransferase MmaA1	2.1.1.-	H2O	Mycolic acid	white
+mycolic acid methyltransferase MmaA1	2.1.1.-	H2O	Trehalose monomycolate	white
+mycolic acid methyltransferase MmaA1	2.1.1.-	Mycolic acid	H2O	white
+mycolic acid methyltransferase MmaA1	2.1.1.-	Mycolic acid	Trehalose dimycolate	white
+mycolic acid methyltransferase MmaA1	2.1.1.-	Trehalose dimycolate	Mycolic acid	white
+mycolic acid methyltransferase MmaA1	2.1.1.-	Trehalose dimycolate	Trehalose monomycolate	white
+mycolic acid methyltransferase MmaA1	2.1.1.-	Trehalose monomycolate	H2O	white
+mycolic acid methyltransferase MmaA1	2.1.1.-	Trehalose monomycolate	Trehalose dimycolate	white
+mycolic acid methyltransferase UmaA	2.1.1.-	H2O	Mycolic acid	white
+mycolic acid methyltransferase UmaA	2.1.1.-	H2O	Trehalose monomycolate	white
+mycolic acid methyltransferase UmaA	2.1.1.-	Mycolic acid	H2O	white
+mycolic acid methyltransferase UmaA	2.1.1.-	Mycolic acid	Trehalose dimycolate	white
+mycolic acid methyltransferase UmaA	2.1.1.-	Trehalose dimycolate	Mycolic acid	white
+mycolic acid methyltransferase UmaA	2.1.1.-	Trehalose dimycolate	Trehalose monomycolate	white
+mycolic acid methyltransferase UmaA	2.1.1.-	Trehalose monomycolate	H2O	white
+mycolic acid methyltransferase UmaA	2.1.1.-	Trehalose monomycolate	Trehalose dimycolate	white
+mycolic acid reductase	6.4.1.-	NADP+	H+	green
+mycolic acid reductase	6.4.1.-	NADP+	NADPH	green
+mycolic acid reductase	6.4.1.-	NADP+	Trehalose mycolic-beta-ketoester	green
+mycolic acid reductase	6.4.1.-	Trehalose monomycolate	H+	green
+mycolic acid reductase	6.4.1.-	Trehalose monomycolate	NADPH	green
+mycolic acid reductase	6.4.1.-	Trehalose monomycolate	Trehalose mycolic-beta-ketoester	green
+polyketide synthase 13	6.4.1.-	Meromycoloyl-[acp Pks13]	Acyl-carrier protein	green
+polyketide synthase 13	6.4.1.-	Meromycoloyl-[acp Pks13]	CO2	green
+polyketide synthase 13	6.4.1.-	Meromycoloyl-[acp Pks13]	CoA	green
+polyketide synthase 13	6.4.1.-	Meromycoloyl-[acp Pks13]	Trehalose mycolic-beta-ketoester	green
+polyketide synthase 13	6.4.1.-	Very-long-chain alpha-carboxyacyl-CoA	Acyl-carrier protein	green
+polyketide synthase 13	6.4.1.-	Very-long-chain alpha-carboxyacyl-CoA	CO2	green
+polyketide synthase 13	6.4.1.-	Very-long-chain alpha-carboxyacyl-CoA	CoA	green
+polyketide synthase 13	6.4.1.-	Very-long-chain alpha-carboxyacyl-CoA	Trehalose mycolic-beta-ketoester	green
+polyketide synthase 13	6.4.1.-	alpha,alpha-Trehalose	Acyl-carrier protein	green
+polyketide synthase 13	6.4.1.-	alpha,alpha-Trehalose	CO2	green
+polyketide synthase 13	6.4.1.-	alpha,alpha-Trehalose	CoA	green
+polyketide synthase 13	6.4.1.-	alpha,alpha-Trehalose	Trehalose mycolic-beta-ketoester	green
+propionyl-CoA/long-chain acyl-CoA carboxylase carboxyl transferase subunit	6.4.1.3	ATP	ADP	green
+propionyl-CoA/long-chain acyl-CoA carboxylase carboxyl transferase subunit	6.4.1.3	ATP	Orthophosphate	green
+propionyl-CoA/long-chain acyl-CoA carboxylase carboxyl transferase subunit	6.4.1.3	ATP	Very-long-chain alpha-carboxyacyl-CoA	green
+propionyl-CoA/long-chain acyl-CoA carboxylase carboxyl transferase subunit	6.4.1.3	HCO3-	ADP	green
+propionyl-CoA/long-chain acyl-CoA carboxylase carboxyl transferase subunit	6.4.1.3	HCO3-	Orthophosphate	green
+propionyl-CoA/long-chain acyl-CoA carboxylase carboxyl transferase subunit	6.4.1.3	HCO3-	Very-long-chain alpha-carboxyacyl-CoA	green
+propionyl-CoA/long-chain acyl-CoA carboxylase carboxyl transferase subunit	6.4.1.3	Very-long-chain acyl-CoA	ADP	green
+propionyl-CoA/long-chain acyl-CoA carboxylase carboxyl transferase subunit	6.4.1.3	Very-long-chain acyl-CoA	Orthophosphate	green
+propionyl-CoA/long-chain acyl-CoA carboxylase carboxyl transferase subunit	6.4.1.3	Very-long-chain acyl-CoA	Very-long-chain alpha-carboxyacyl-CoA	green
+roa:Pd630_LPD02096		AGP	alpha,alpha-Trehalose	green
+roa:Pd630_LPD02096		AGP	mAGP	green
+roa:Pd630_LPD02096		D-Glucose	Glucose monomycolate	green
+roa:Pd630_LPD02096		D-Glucose	alpha,alpha-Trehalose	green
+roa:Pd630_LPD02096		Trehalose monomycolate	Glucose monomycolate	green
+roa:Pd630_LPD02096		Trehalose monomycolate	Trehalose dimycolate	green
+roa:Pd630_LPD02096		Trehalose monomycolate	alpha,alpha-Trehalose	green
+roa:Pd630_LPD02096		Trehalose monomycolate	mAGP	green
+trehalose dimycolate hydrolase	2.3.1.294	H2O	Mycolic acid	white
+trehalose dimycolate hydrolase	2.3.1.294	H2O	Trehalose monomycolate	white
+trehalose dimycolate hydrolase	2.3.1.294	Mycolic acid	H2O	white
+trehalose dimycolate hydrolase	2.3.1.294	Mycolic acid	Trehalose dimycolate	white
+trehalose dimycolate hydrolase	2.3.1.294	Trehalose dimycolate	Mycolic acid	white
+trehalose dimycolate hydrolase	2.3.1.294	Trehalose dimycolate	Trehalose monomycolate	white
+trehalose dimycolate hydrolase	2.3.1.294	Trehalose monomycolate	H2O	white
+trehalose dimycolate hydrolase	2.3.1.294	Trehalose monomycolate	Trehalose dimycolate	white

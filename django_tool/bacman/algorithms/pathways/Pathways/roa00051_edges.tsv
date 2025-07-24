@@ -1,0 +1,606 @@
+enzyme_name	EC	source	target	color
+1-phosphofructokinase	2.7.1.56	ATP	ADP	green
+1-phosphofructokinase	2.7.1.56	ATP	D-Fructose 1,6-bisphosphate	green
+1-phosphofructokinase	2.7.1.56	D-Fructose 1-phosphate	ADP	green
+1-phosphofructokinase	2.7.1.56	D-Fructose 1-phosphate	D-Fructose 1,6-bisphosphate	green
+2,4-didehydro-3-deoxy-L-rhamnonate hydrolase	3.7.1.26	2,4-Diketo-3-deoxy-L-fuconate	(S)-Lactate	green
+2,4-didehydro-3-deoxy-L-rhamnonate hydrolase	3.7.1.26	2,4-Diketo-3-deoxy-L-fuconate	Pyruvate	green
+2,4-didehydro-3-deoxy-L-rhamnonate hydrolase	3.7.1.26	H2O	(S)-Lactate	green
+2,4-didehydro-3-deoxy-L-rhamnonate hydrolase	3.7.1.26	H2O	Pyruvate	green
+2-dehydro-3-deoxy-L-fuconate 4-dehydrogenase	1.1.1.434	2,4-Diketo-3-deoxy-L-fuconate	2-Dehydro-3-deoxy-L-fuconate	white
+2-dehydro-3-deoxy-L-fuconate 4-dehydrogenase	1.1.1.434	2,4-Diketo-3-deoxy-L-fuconate	NAD+	white
+2-dehydro-3-deoxy-L-fuconate 4-dehydrogenase	1.1.1.434	2-Dehydro-3-deoxy-L-fuconate	2,4-Diketo-3-deoxy-L-fuconate	white
+2-dehydro-3-deoxy-L-fuconate 4-dehydrogenase	1.1.1.434	2-Dehydro-3-deoxy-L-fuconate	H+	white
+2-dehydro-3-deoxy-L-fuconate 4-dehydrogenase	1.1.1.434	2-Dehydro-3-deoxy-L-fuconate	NADH	white
+2-dehydro-3-deoxy-L-fuconate 4-dehydrogenase	1.1.1.434	H+	2-Dehydro-3-deoxy-L-fuconate	white
+2-dehydro-3-deoxy-L-fuconate 4-dehydrogenase	1.1.1.434	H+	NAD+	white
+2-dehydro-3-deoxy-L-fuconate 4-dehydrogenase	1.1.1.434	NAD+	2,4-Diketo-3-deoxy-L-fuconate	white
+2-dehydro-3-deoxy-L-fuconate 4-dehydrogenase	1.1.1.434	NAD+	H+	white
+2-dehydro-3-deoxy-L-fuconate 4-dehydrogenase	1.1.1.434	NAD+	NADH	white
+2-dehydro-3-deoxy-L-fuconate 4-dehydrogenase	1.1.1.434	NADH	2-Dehydro-3-deoxy-L-fuconate	white
+2-dehydro-3-deoxy-L-fuconate 4-dehydrogenase	1.1.1.434	NADH	NAD+	white
+2-dehydro-3-deoxy-L-fuconate aldolase	4.1.2.64	(S)-Lactaldehyde	2-Dehydro-3-deoxy-L-fuconate	white
+2-dehydro-3-deoxy-L-fuconate aldolase	4.1.2.64	2-Dehydro-3-deoxy-L-fuconate	(S)-Lactaldehyde	white
+2-dehydro-3-deoxy-L-fuconate aldolase	4.1.2.64	2-Dehydro-3-deoxy-L-fuconate	Pyruvate	white
+2-dehydro-3-deoxy-L-fuconate aldolase	4.1.2.64	Pyruvate	2-Dehydro-3-deoxy-L-fuconate	white
+2-dehydro-3-deoxy-L-rhamnonate aldolase	4.1.2.53	(S)-Lactaldehyde	2-Dehydro-3-deoxy-L-rhamnonate	white
+2-dehydro-3-deoxy-L-rhamnonate aldolase	4.1.2.53	2-Dehydro-3-deoxy-L-rhamnonate	(S)-Lactaldehyde	white
+2-dehydro-3-deoxy-L-rhamnonate aldolase	4.1.2.53	2-Dehydro-3-deoxy-L-rhamnonate	Pyruvate	white
+2-dehydro-3-deoxy-L-rhamnonate aldolase	4.1.2.53	Pyruvate	2-Dehydro-3-deoxy-L-rhamnonate	white
+2-dehydro-3-deoxy-L-rhamnonate dehydrogenase (NAD+)	1.1.1.401	2-Dehydro-3-deoxy-L-rhamnonate	2,4-Diketo-3-deoxy-L-fuconate	green
+2-dehydro-3-deoxy-L-rhamnonate dehydrogenase (NAD+)	1.1.1.401	2-Dehydro-3-deoxy-L-rhamnonate	H+	green
+2-dehydro-3-deoxy-L-rhamnonate dehydrogenase (NAD+)	1.1.1.401	2-Dehydro-3-deoxy-L-rhamnonate	NADH	green
+2-dehydro-3-deoxy-L-rhamnonate dehydrogenase (NAD+)	1.1.1.401	NAD+	2,4-Diketo-3-deoxy-L-fuconate	green
+2-dehydro-3-deoxy-L-rhamnonate dehydrogenase (NAD+)	1.1.1.401	NAD+	H+	green
+2-dehydro-3-deoxy-L-rhamnonate dehydrogenase (NAD+)	1.1.1.401	NAD+	NADH	green
+2-keto-3-deoxy-L-rhamnonate aldolase	4.1.2.53	(S)-Lactaldehyde	2-Dehydro-3-deoxy-L-rhamnonate	white
+2-keto-3-deoxy-L-rhamnonate aldolase	4.1.2.53	2-Dehydro-3-deoxy-L-rhamnonate	(S)-Lactaldehyde	white
+2-keto-3-deoxy-L-rhamnonate aldolase	4.1.2.53	2-Dehydro-3-deoxy-L-rhamnonate	Pyruvate	white
+2-keto-3-deoxy-L-rhamnonate aldolase	4.1.2.53	Pyruvate	2-Dehydro-3-deoxy-L-rhamnonate	white
+6-phosphofructo-2-kinase	2.7.1.105	ADP	ATP	white
+6-phosphofructo-2-kinase	2.7.1.105	ADP	beta-D-Fructose 6-phosphate	white
+6-phosphofructo-2-kinase	2.7.1.105	ATP	ADP	white
+6-phosphofructo-2-kinase	2.7.1.105	ATP	beta-D-Fructose 2,6-bisphosphate	white
+6-phosphofructo-2-kinase	2.7.1.105	beta-D-Fructose 2,6-bisphosphate	ATP	white
+6-phosphofructo-2-kinase	2.7.1.105	beta-D-Fructose 2,6-bisphosphate	beta-D-Fructose 6-phosphate	white
+6-phosphofructo-2-kinase	2.7.1.105	beta-D-Fructose 6-phosphate	ADP	white
+6-phosphofructo-2-kinase	2.7.1.105	beta-D-Fructose 6-phosphate	beta-D-Fructose 2,6-bisphosphate	white
+6-phosphofructo-2-kinase / fructose-2,6-biphosphatase 1	2.7.1.105	D-Fructose 6-phosphate	H2O	white
+6-phosphofructo-2-kinase / fructose-2,6-biphosphatase 1	2.7.1.105	D-Fructose 6-phosphate	beta-D-Fructose 2,6-bisphosphate	white
+6-phosphofructo-2-kinase / fructose-2,6-biphosphatase 1	2.7.1.105	H2O	D-Fructose 6-phosphate	white
+6-phosphofructo-2-kinase / fructose-2,6-biphosphatase 1	2.7.1.105	H2O	Orthophosphate	white
+6-phosphofructo-2-kinase / fructose-2,6-biphosphatase 1	2.7.1.105	Orthophosphate	H2O	white
+6-phosphofructo-2-kinase / fructose-2,6-biphosphatase 1	2.7.1.105	Orthophosphate	beta-D-Fructose 2,6-bisphosphate	white
+6-phosphofructo-2-kinase / fructose-2,6-biphosphatase 1	2.7.1.105	beta-D-Fructose 2,6-bisphosphate	D-Fructose 6-phosphate	white
+6-phosphofructo-2-kinase / fructose-2,6-biphosphatase 1	2.7.1.105	beta-D-Fructose 2,6-bisphosphate	Orthophosphate	white
+6-phosphofructo-2-kinase / fructose-2,6-biphosphatase 2	2.7.1.105	D-Fructose 6-phosphate	H2O	white
+6-phosphofructo-2-kinase / fructose-2,6-biphosphatase 2	2.7.1.105	D-Fructose 6-phosphate	beta-D-Fructose 2,6-bisphosphate	white
+6-phosphofructo-2-kinase / fructose-2,6-biphosphatase 2	2.7.1.105	H2O	D-Fructose 6-phosphate	white
+6-phosphofructo-2-kinase / fructose-2,6-biphosphatase 2	2.7.1.105	H2O	Orthophosphate	white
+6-phosphofructo-2-kinase / fructose-2,6-biphosphatase 2	2.7.1.105	Orthophosphate	H2O	white
+6-phosphofructo-2-kinase / fructose-2,6-biphosphatase 2	2.7.1.105	Orthophosphate	beta-D-Fructose 2,6-bisphosphate	white
+6-phosphofructo-2-kinase / fructose-2,6-biphosphatase 2	2.7.1.105	beta-D-Fructose 2,6-bisphosphate	D-Fructose 6-phosphate	white
+6-phosphofructo-2-kinase / fructose-2,6-biphosphatase 2	2.7.1.105	beta-D-Fructose 2,6-bisphosphate	Orthophosphate	white
+6-phosphofructo-2-kinase / fructose-2,6-biphosphatase 3	2.7.1.105	D-Fructose 6-phosphate	H2O	white
+6-phosphofructo-2-kinase / fructose-2,6-biphosphatase 3	2.7.1.105	D-Fructose 6-phosphate	beta-D-Fructose 2,6-bisphosphate	white
+6-phosphofructo-2-kinase / fructose-2,6-biphosphatase 3	2.7.1.105	H2O	D-Fructose 6-phosphate	white
+6-phosphofructo-2-kinase / fructose-2,6-biphosphatase 3	2.7.1.105	H2O	Orthophosphate	white
+6-phosphofructo-2-kinase / fructose-2,6-biphosphatase 3	2.7.1.105	Orthophosphate	H2O	white
+6-phosphofructo-2-kinase / fructose-2,6-biphosphatase 3	2.7.1.105	Orthophosphate	beta-D-Fructose 2,6-bisphosphate	white
+6-phosphofructo-2-kinase / fructose-2,6-biphosphatase 3	2.7.1.105	beta-D-Fructose 2,6-bisphosphate	D-Fructose 6-phosphate	white
+6-phosphofructo-2-kinase / fructose-2,6-biphosphatase 3	2.7.1.105	beta-D-Fructose 2,6-bisphosphate	Orthophosphate	white
+6-phosphofructo-2-kinase / fructose-2,6-biphosphatase 4	2.7.1.105	D-Fructose 6-phosphate	H2O	white
+6-phosphofructo-2-kinase / fructose-2,6-biphosphatase 4	2.7.1.105	D-Fructose 6-phosphate	beta-D-Fructose 2,6-bisphosphate	white
+6-phosphofructo-2-kinase / fructose-2,6-biphosphatase 4	2.7.1.105	H2O	D-Fructose 6-phosphate	white
+6-phosphofructo-2-kinase / fructose-2,6-biphosphatase 4	2.7.1.105	H2O	Orthophosphate	white
+6-phosphofructo-2-kinase / fructose-2,6-biphosphatase 4	2.7.1.105	Orthophosphate	H2O	white
+6-phosphofructo-2-kinase / fructose-2,6-biphosphatase 4	2.7.1.105	Orthophosphate	beta-D-Fructose 2,6-bisphosphate	white
+6-phosphofructo-2-kinase / fructose-2,6-biphosphatase 4	2.7.1.105	beta-D-Fructose 2,6-bisphosphate	D-Fructose 6-phosphate	white
+6-phosphofructo-2-kinase / fructose-2,6-biphosphatase 4	2.7.1.105	beta-D-Fructose 2,6-bisphosphate	Orthophosphate	white
+ADP-sugar diphosphatase	3.6.1.21	ADP-glucose	AMP	white
+ADP-sugar diphosphatase	3.6.1.21	ADP-glucose	D-Glucose 1-phosphate	white
+ADP-sugar diphosphatase	3.6.1.21	AMP	ADP-glucose	white
+ADP-sugar diphosphatase	3.6.1.21	AMP	H2O	white
+ADP-sugar diphosphatase	3.6.1.21	D-Glucose 1-phosphate	ADP-glucose	white
+ADP-sugar diphosphatase	3.6.1.21	D-Glucose 1-phosphate	H2O	white
+ADP-sugar diphosphatase	3.6.1.21	H2O	AMP	white
+ADP-sugar diphosphatase	3.6.1.21	H2O	D-Glucose 1-phosphate	white
+ATP-dependent phosphofructokinase / diphosphate-dependent phosphofructokinase	2.7.1.11	ATP	ADP	green
+ATP-dependent phosphofructokinase / diphosphate-dependent phosphofructokinase	2.7.1.11	ATP	D-Fructose 1,6-bisphosphate	green
+ATP-dependent phosphofructokinase / diphosphate-dependent phosphofructokinase	2.7.1.11	D-Fructose 1,6-bisphosphate	D-Fructose 6-phosphate	green
+ATP-dependent phosphofructokinase / diphosphate-dependent phosphofructokinase	2.7.1.11	D-Fructose 1,6-bisphosphate	Diphosphate	green
+ATP-dependent phosphofructokinase / diphosphate-dependent phosphofructokinase	2.7.1.11	D-Fructose 6-phosphate	ADP	green
+ATP-dependent phosphofructokinase / diphosphate-dependent phosphofructokinase	2.7.1.11	D-Fructose 6-phosphate	D-Fructose 1,6-bisphosphate	green
+ATP-dependent phosphofructokinase / diphosphate-dependent phosphofructokinase	2.7.1.11	D-Fructose 6-phosphate	Orthophosphate	green
+ATP-dependent phosphofructokinase / diphosphate-dependent phosphofructokinase	2.7.1.11	Diphosphate	D-Fructose 1,6-bisphosphate	green
+ATP-dependent phosphofructokinase / diphosphate-dependent phosphofructokinase	2.7.1.11	Diphosphate	Orthophosphate	green
+ATP-dependent phosphofructokinase / diphosphate-dependent phosphofructokinase	2.7.1.11	Orthophosphate	D-Fructose 6-phosphate	green
+ATP-dependent phosphofructokinase / diphosphate-dependent phosphofructokinase	2.7.1.11	Orthophosphate	Diphosphate	green
+D-allulose-6-phosphate 3-epimerase	5.1.3.-	D-Allulose 6-phosphate	D-Fructose 6-phosphate	white
+D-allulose-6-phosphate 3-epimerase	5.1.3.-	D-Fructose 6-phosphate	D-Allulose 6-phosphate	white
+D-arabinitol 4-dehydrogenase	1.1.1.11	D-Fructose	Mannitol	white
+D-arabinitol 4-dehydrogenase	1.1.1.11	D-Fructose	NAD+	white
+D-arabinitol 4-dehydrogenase	1.1.1.11	H+	Mannitol	white
+D-arabinitol 4-dehydrogenase	1.1.1.11	H+	NAD+	white
+D-arabinitol 4-dehydrogenase	1.1.1.11	Mannitol	D-Fructose	white
+D-arabinitol 4-dehydrogenase	1.1.1.11	Mannitol	H+	white
+D-arabinitol 4-dehydrogenase	1.1.1.11	Mannitol	NADH	white
+D-arabinitol 4-dehydrogenase	1.1.1.11	NAD+	D-Fructose	white
+D-arabinitol 4-dehydrogenase	1.1.1.11	NAD+	H+	white
+D-arabinitol 4-dehydrogenase	1.1.1.11	NAD+	NADH	white
+D-arabinitol 4-dehydrogenase	1.1.1.11	NADH	Mannitol	white
+D-arabinitol 4-dehydrogenase	1.1.1.11	NADH	NAD+	white
+D-sorbitol dehydrogenase (acceptor)	1.1.99.21	D-Sorbitol	FADH2	white
+D-sorbitol dehydrogenase (acceptor)	1.1.99.21	D-Sorbitol	L-Sorbose	white
+D-sorbitol dehydrogenase (acceptor)	1.1.99.21	FAD	FADH2	white
+D-sorbitol dehydrogenase (acceptor)	1.1.99.21	FAD	L-Sorbose	white
+D-sorbitol dehydrogenase (acceptor)	1.1.99.21	FADH2	D-Sorbitol	white
+D-sorbitol dehydrogenase (acceptor)	1.1.99.21	FADH2	FAD	white
+D-sorbitol dehydrogenase (acceptor)	1.1.99.21	L-Sorbose	D-Sorbitol	white
+D-sorbitol dehydrogenase (acceptor)	1.1.99.21	L-Sorbose	FAD	white
+D-threo-aldose 1-dehydrogenase	1.1.1.122	L-Fucose	H+	green
+D-threo-aldose 1-dehydrogenase	1.1.1.122	L-Fucose	L-Fucono-1,5-lactone	green
+D-threo-aldose 1-dehydrogenase	1.1.1.122	L-Fucose	NADH	green
+D-threo-aldose 1-dehydrogenase	1.1.1.122	NAD+	H+	green
+D-threo-aldose 1-dehydrogenase	1.1.1.122	NAD+	L-Fucono-1,5-lactone	green
+D-threo-aldose 1-dehydrogenase	1.1.1.122	NAD+	NADH	green
+GDP-4-dehydro-6-deoxy-D-mannose reductase	1.1.1.281	GDP-4-dehydro-6-deoxy-D-mannose	GDP-6-deoxy-D-mannose	white
+GDP-4-dehydro-6-deoxy-D-mannose reductase	1.1.1.281	GDP-4-dehydro-6-deoxy-D-mannose	NAD+	white
+GDP-4-dehydro-6-deoxy-D-mannose reductase	1.1.1.281	GDP-6-deoxy-D-mannose	GDP-4-dehydro-6-deoxy-D-mannose	white
+GDP-4-dehydro-6-deoxy-D-mannose reductase	1.1.1.281	GDP-6-deoxy-D-mannose	H+	white
+GDP-4-dehydro-6-deoxy-D-mannose reductase	1.1.1.281	GDP-6-deoxy-D-mannose	NADH	white
+GDP-4-dehydro-6-deoxy-D-mannose reductase	1.1.1.281	H+	GDP-6-deoxy-D-mannose	white
+GDP-4-dehydro-6-deoxy-D-mannose reductase	1.1.1.281	H+	NAD+	white
+GDP-4-dehydro-6-deoxy-D-mannose reductase	1.1.1.281	NAD+	GDP-4-dehydro-6-deoxy-D-mannose	white
+GDP-4-dehydro-6-deoxy-D-mannose reductase	1.1.1.281	NAD+	H+	white
+GDP-4-dehydro-6-deoxy-D-mannose reductase	1.1.1.281	NAD+	NADH	white
+GDP-4-dehydro-6-deoxy-D-mannose reductase	1.1.1.281	NADH	GDP-6-deoxy-D-mannose	white
+GDP-4-dehydro-6-deoxy-D-mannose reductase	1.1.1.281	NADH	NAD+	white
+GDP-6-deoxy-D-talose 4-dehydrogenase	1.1.1.135	GDP-4-dehydro-6-deoxy-D-mannose	GDP-6-deoxy-D-talose	white
+GDP-6-deoxy-D-talose 4-dehydrogenase	1.1.1.135	GDP-4-dehydro-6-deoxy-D-mannose	NAD+	white
+GDP-6-deoxy-D-talose 4-dehydrogenase	1.1.1.135	GDP-6-deoxy-D-talose	GDP-4-dehydro-6-deoxy-D-mannose	white
+GDP-6-deoxy-D-talose 4-dehydrogenase	1.1.1.135	GDP-6-deoxy-D-talose	H+	white
+GDP-6-deoxy-D-talose 4-dehydrogenase	1.1.1.135	GDP-6-deoxy-D-talose	NADH	white
+GDP-6-deoxy-D-talose 4-dehydrogenase	1.1.1.135	H+	GDP-6-deoxy-D-talose	white
+GDP-6-deoxy-D-talose 4-dehydrogenase	1.1.1.135	H+	NAD+	white
+GDP-6-deoxy-D-talose 4-dehydrogenase	1.1.1.135	NAD+	GDP-4-dehydro-6-deoxy-D-mannose	white
+GDP-6-deoxy-D-talose 4-dehydrogenase	1.1.1.135	NAD+	H+	white
+GDP-6-deoxy-D-talose 4-dehydrogenase	1.1.1.135	NAD+	NADH	white
+GDP-6-deoxy-D-talose 4-dehydrogenase	1.1.1.135	NADH	GDP-6-deoxy-D-talose	white
+GDP-6-deoxy-D-talose 4-dehydrogenase	1.1.1.135	NADH	NAD+	white
+GDP-L-fucose synthase	1.1.1.271	GDP-4-dehydro-6-deoxy-D-mannose	GDP-L-fucose	white
+GDP-L-fucose synthase	1.1.1.271	GDP-4-dehydro-6-deoxy-D-mannose	NADP+	white
+GDP-L-fucose synthase	1.1.1.271	GDP-L-fucose	GDP-4-dehydro-6-deoxy-D-mannose	white
+GDP-L-fucose synthase	1.1.1.271	GDP-L-fucose	H+	white
+GDP-L-fucose synthase	1.1.1.271	GDP-L-fucose	NADPH	white
+GDP-L-fucose synthase	1.1.1.271	H+	GDP-L-fucose	white
+GDP-L-fucose synthase	1.1.1.271	H+	NADP+	white
+GDP-L-fucose synthase	1.1.1.271	NADP+	GDP-4-dehydro-6-deoxy-D-mannose	white
+GDP-L-fucose synthase	1.1.1.271	NADP+	H+	white
+GDP-L-fucose synthase	1.1.1.271	NADP+	NADPH	white
+GDP-L-fucose synthase	1.1.1.271	NADPH	GDP-L-fucose	white
+GDP-L-fucose synthase	1.1.1.271	NADPH	NADP+	white
+GDP-mannose 6-dehydrogenase	1.1.1.132	GDP-D-mannuronate	GDP-mannose	white
+GDP-mannose 6-dehydrogenase	1.1.1.132	GDP-D-mannuronate	H2O	white
+GDP-mannose 6-dehydrogenase	1.1.1.132	GDP-D-mannuronate	NAD+	white
+GDP-mannose 6-dehydrogenase	1.1.1.132	GDP-mannose	GDP-D-mannuronate	white
+GDP-mannose 6-dehydrogenase	1.1.1.132	GDP-mannose	H+	white
+GDP-mannose 6-dehydrogenase	1.1.1.132	GDP-mannose	NADH	white
+GDP-mannose 6-dehydrogenase	1.1.1.132	H+	GDP-mannose	white
+GDP-mannose 6-dehydrogenase	1.1.1.132	H+	H2O	white
+GDP-mannose 6-dehydrogenase	1.1.1.132	H+	NAD+	white
+GDP-mannose 6-dehydrogenase	1.1.1.132	H2O	GDP-D-mannuronate	white
+GDP-mannose 6-dehydrogenase	1.1.1.132	H2O	H+	white
+GDP-mannose 6-dehydrogenase	1.1.1.132	H2O	NADH	white
+GDP-mannose 6-dehydrogenase	1.1.1.132	NAD+	GDP-D-mannuronate	white
+GDP-mannose 6-dehydrogenase	1.1.1.132	NAD+	H+	white
+GDP-mannose 6-dehydrogenase	1.1.1.132	NAD+	NADH	white
+GDP-mannose 6-dehydrogenase	1.1.1.132	NADH	GDP-mannose	white
+GDP-mannose 6-dehydrogenase	1.1.1.132	NADH	H2O	white
+GDP-mannose 6-dehydrogenase	1.1.1.132	NADH	NAD+	white
+GDPmannose 4,6-dehydratase	4.2.1.47	GDP-4-dehydro-6-deoxy-D-mannose	GDP-mannose	white
+GDPmannose 4,6-dehydratase	4.2.1.47	GDP-mannose	GDP-4-dehydro-6-deoxy-D-mannose	white
+GDPmannose 4,6-dehydratase	4.2.1.47	GDP-mannose	H2O	white
+GDPmannose 4,6-dehydratase	4.2.1.47	H2O	GDP-mannose	white
+L-fuconate dehydratase	4.2.1.68	L-Fuconate	2-Dehydro-3-deoxy-L-fuconate	green
+L-fuconate dehydratase	4.2.1.68	L-Fuconate	H2O	green
+L-fucono-1,5-lactonase	3.1.1.120	H2O	L-Fuconate	white
+L-fucono-1,5-lactonase	3.1.1.120	L-Fuconate	H2O	white
+L-fucono-1,5-lactonase	3.1.1.120	L-Fuconate	L-Fucono-1,5-lactone	white
+L-fucono-1,5-lactonase	3.1.1.120	L-Fucono-1,5-lactone	L-Fuconate	white
+L-fucose dehydrogenase	1.1.1.435	H+	NADP+	white
+L-fucose dehydrogenase	1.1.1.435	H+	beta-L-Fucopyranose	white
+L-fucose dehydrogenase	1.1.1.435	L-Fucono-1,5-lactone	NADP+	white
+L-fucose dehydrogenase	1.1.1.435	L-Fucono-1,5-lactone	beta-L-Fucopyranose	white
+L-fucose dehydrogenase	1.1.1.435	NADP+	H+	white
+L-fucose dehydrogenase	1.1.1.435	NADP+	L-Fucono-1,5-lactone	white
+L-fucose dehydrogenase	1.1.1.435	NADP+	NADPH	white
+L-fucose dehydrogenase	1.1.1.435	NADPH	NADP+	white
+L-fucose dehydrogenase	1.1.1.435	NADPH	beta-L-Fucopyranose	white
+L-fucose dehydrogenase	1.1.1.435	beta-L-Fucopyranose	H+	white
+L-fucose dehydrogenase	1.1.1.435	beta-L-Fucopyranose	L-Fucono-1,5-lactone	white
+L-fucose dehydrogenase	1.1.1.435	beta-L-Fucopyranose	NADPH	white
+L-fucose/D-arabinose isomerase	5.3.1.25	D-Arabinose	D-Ribulose	white
+L-fucose/D-arabinose isomerase	5.3.1.25	D-Ribulose	D-Arabinose	white
+L-fuculokinase	2.7.1.51	ADP	ATP	white
+L-fuculokinase	2.7.1.51	ADP	L-Fuculose	white
+L-fuculokinase	2.7.1.51	ATP	ADP	white
+L-fuculokinase	2.7.1.51	ATP	L-Fuculose 1-phosphate	white
+L-fuculokinase	2.7.1.51	L-Fuculose	ADP	white
+L-fuculokinase	2.7.1.51	L-Fuculose	L-Fuculose 1-phosphate	white
+L-fuculokinase	2.7.1.51	L-Fuculose 1-phosphate	ATP	white
+L-fuculokinase	2.7.1.51	L-Fuculose 1-phosphate	L-Fuculose	white
+L-fuculose-phosphate aldolase	4.1.2.17	(S)-Lactaldehyde	L-Fuculose 1-phosphate	white
+L-fuculose-phosphate aldolase	4.1.2.17	Glycerone phosphate	L-Fuculose 1-phosphate	white
+L-fuculose-phosphate aldolase	4.1.2.17	L-Fuculose 1-phosphate	(S)-Lactaldehyde	white
+L-fuculose-phosphate aldolase	4.1.2.17	L-Fuculose 1-phosphate	Glycerone phosphate	white
+L-iditol 2-dehydrogenase	1.1.1.14	D-Fructose	D-Sorbitol	green
+L-iditol 2-dehydrogenase	1.1.1.14	D-Fructose	NAD+	green
+L-iditol 2-dehydrogenase	1.1.1.14	D-Sorbitol	D-Fructose	green
+L-iditol 2-dehydrogenase	1.1.1.14	D-Sorbitol	H+	green
+L-iditol 2-dehydrogenase	1.1.1.14	D-Sorbitol	NADH	green
+L-iditol 2-dehydrogenase	1.1.1.14	H+	D-Sorbitol	green
+L-iditol 2-dehydrogenase	1.1.1.14	H+	NAD+	green
+L-iditol 2-dehydrogenase	1.1.1.14	NAD+	D-Fructose	green
+L-iditol 2-dehydrogenase	1.1.1.14	NAD+	H+	green
+L-iditol 2-dehydrogenase	1.1.1.14	NAD+	NADH	green
+L-iditol 2-dehydrogenase	1.1.1.14	NADH	D-Sorbitol	green
+L-iditol 2-dehydrogenase	1.1.1.14	NADH	NAD+	green
+L-rhamnonate dehydratase	4.2.1.90	2-Dehydro-3-deoxy-L-rhamnonate	L-Rhamnonate	white
+L-rhamnonate dehydratase	4.2.1.90	H2O	L-Rhamnonate	white
+L-rhamnonate dehydratase	4.2.1.90	L-Rhamnonate	2-Dehydro-3-deoxy-L-rhamnonate	white
+L-rhamnonate dehydratase	4.2.1.90	L-Rhamnonate	H2O	white
+L-rhamnono-1,4-lactonase	3.1.1.65	H2O	L-Rhamnonate	white
+L-rhamnono-1,4-lactonase	3.1.1.65	L-Rhamnonate	H2O	white
+L-rhamnono-1,4-lactonase	3.1.1.65	L-Rhamnonate	L-Rhamnono-1,4-lactone	white
+L-rhamnono-1,4-lactonase	3.1.1.65	L-Rhamnono-1,4-lactone	L-Rhamnonate	white
+L-rhamnose 1-dehydrogenase	1.1.1.378	H+	L-Rhamnofuranose	white
+L-rhamnose 1-dehydrogenase	1.1.1.378	H+	NAD+	white
+L-rhamnose 1-dehydrogenase	1.1.1.378	L-Rhamnofuranose	H+	white
+L-rhamnose 1-dehydrogenase	1.1.1.378	L-Rhamnofuranose	L-Rhamnono-1,4-lactone	white
+L-rhamnose 1-dehydrogenase	1.1.1.378	L-Rhamnofuranose	NADH	white
+L-rhamnose 1-dehydrogenase	1.1.1.378	L-Rhamnono-1,4-lactone	L-Rhamnofuranose	white
+L-rhamnose 1-dehydrogenase	1.1.1.378	L-Rhamnono-1,4-lactone	NAD+	white
+L-rhamnose 1-dehydrogenase	1.1.1.378	NAD+	H+	white
+L-rhamnose 1-dehydrogenase	1.1.1.378	NAD+	L-Rhamnono-1,4-lactone	white
+L-rhamnose 1-dehydrogenase	1.1.1.378	NAD+	NADH	white
+L-rhamnose 1-dehydrogenase	1.1.1.378	NADH	L-Rhamnofuranose	white
+L-rhamnose 1-dehydrogenase	1.1.1.378	NADH	NAD+	white
+L-rhamnose isomerase / sugar isomerase	5.3.1.14	L-Rhamnose	L-Rhamnulose	green
+L-rhamnose isomerase / sugar isomerase	5.3.1.14	L-Rhamnulose	L-Rhamnose	green
+L-sorbose 1-phosphate reductase	1.1.1.-	H+	NADP+	white
+L-sorbose 1-phosphate reductase	1.1.1.-	H+	Sorbitol 6-phosphate	white
+L-sorbose 1-phosphate reductase	1.1.1.-	NADP+	H+	white
+L-sorbose 1-phosphate reductase	1.1.1.-	NADP+	NADPH	white
+L-sorbose 1-phosphate reductase	1.1.1.-	NADP+	Sorbose 1-phosphate	white
+L-sorbose 1-phosphate reductase	1.1.1.-	NADPH	NADP+	white
+L-sorbose 1-phosphate reductase	1.1.1.-	NADPH	Sorbitol 6-phosphate	white
+L-sorbose 1-phosphate reductase	1.1.1.-	Sorbitol 6-phosphate	H+	white
+L-sorbose 1-phosphate reductase	1.1.1.-	Sorbitol 6-phosphate	NADPH	white
+L-sorbose 1-phosphate reductase	1.1.1.-	Sorbitol 6-phosphate	Sorbose 1-phosphate	white
+L-sorbose 1-phosphate reductase	1.1.1.-	Sorbose 1-phosphate	NADP+	white
+L-sorbose 1-phosphate reductase	1.1.1.-	Sorbose 1-phosphate	Sorbitol 6-phosphate	white
+aldehyde reductase	1.1.1.21	D-Glyceraldehyde	Glycerol	white
+aldehyde reductase	1.1.1.21	D-Glyceraldehyde	NAD+	white
+aldehyde reductase	1.1.1.21	Glycerol	D-Glyceraldehyde	white
+aldehyde reductase	1.1.1.21	Glycerol	H+	white
+aldehyde reductase	1.1.1.21	Glycerol	NADH	white
+aldehyde reductase	1.1.1.21	H+	Glycerol	white
+aldehyde reductase	1.1.1.21	H+	NAD+	white
+aldehyde reductase	1.1.1.21	NAD+	D-Glyceraldehyde	white
+aldehyde reductase	1.1.1.21	NAD+	H+	white
+aldehyde reductase	1.1.1.21	NAD+	NADH	white
+aldehyde reductase	1.1.1.21	NADH	Glycerol	white
+aldehyde reductase	1.1.1.21	NADH	NAD+	white
+alditol oxidase	1.1.3.41	D-Xylose	Oxygen	white
+alditol oxidase	1.1.3.41	D-Xylose	Xylitol	white
+alditol oxidase	1.1.3.41	Hydrogen peroxide	Oxygen	white
+alditol oxidase	1.1.3.41	Hydrogen peroxide	Xylitol	white
+alditol oxidase	1.1.3.41	Oxygen	D-Xylose	white
+alditol oxidase	1.1.3.41	Oxygen	Hydrogen peroxide	white
+alditol oxidase	1.1.3.41	Xylitol	D-Xylose	white
+alditol oxidase	1.1.3.41	Xylitol	Hydrogen peroxide	white
+allose kinase	2.7.1.55	ADP	ATP	white
+allose kinase	2.7.1.55	ADP	D-Allose	white
+allose kinase	2.7.1.55	ATP	ADP	white
+allose kinase	2.7.1.55	ATP	D-Allose 6-phosphate	white
+allose kinase	2.7.1.55	D-Allose	ADP	white
+allose kinase	2.7.1.55	D-Allose	D-Allose 6-phosphate	white
+allose kinase	2.7.1.55	D-Allose 6-phosphate	ATP	white
+allose kinase	2.7.1.55	D-Allose 6-phosphate	D-Allose	white
+fructan beta-fructosidase	3.2.1.80	1)	C01355(n)	white
+fructan beta-fructosidase	3.2.1.80	1)	D-Fructose	white
+fructan beta-fructosidase	3.2.1.80	C01355(n	C01355(n)	white
+fructan beta-fructosidase	3.2.1.80	C01355(n	D-Fructose	white
+fructan beta-fructosidase	3.2.1.80	C01355(n)	1)	white
+fructan beta-fructosidase	3.2.1.80	C01355(n)	C01355(n	white
+fructan beta-fructosidase	3.2.1.80	C01355(n)	H2O	white
+fructan beta-fructosidase	3.2.1.80	D-Fructose	1)	white
+fructan beta-fructosidase	3.2.1.80	D-Fructose	C01355(n	white
+fructan beta-fructosidase	3.2.1.80	D-Fructose	H2O	white
+fructan beta-fructosidase	3.2.1.80	H2O	C01355(n)	white
+fructan beta-fructosidase	3.2.1.80	H2O	D-Fructose	white
+fructokinase	2.7.1.4	ATP	ADP	green
+fructokinase	2.7.1.4	ATP	D-Fructose 6-phosphate	green
+fructokinase	2.7.1.4	D-Fructose	ADP	green
+fructokinase	2.7.1.4	D-Fructose	D-Fructose 6-phosphate	green
+fructose PTS system EIIBC or EIIC component	2.7.1.202	D-Fructose	D-Fructose 1-phosphate	green
+fructose PTS system EIIBC or EIIC component	2.7.1.202	D-Fructose	Protein histidine	green
+fructose PTS system EIIBC or EIIC component	2.7.1.202	Protein N(pi)-phospho-L-histidine	D-Fructose 1-phosphate	green
+fructose PTS system EIIBC or EIIC component	2.7.1.202	Protein N(pi)-phospho-L-histidine	Protein histidine	green
+fructose-1,6-bisphosphatase II	3.1.3.11	D-Fructose 1,6-bisphosphate	D-Fructose 6-phosphate	green
+fructose-1,6-bisphosphatase II	3.1.3.11	D-Fructose 1,6-bisphosphate	Orthophosphate	green
+fructose-1,6-bisphosphatase II	3.1.3.11	H2O	D-Fructose 6-phosphate	green
+fructose-1,6-bisphosphatase II	3.1.3.11	H2O	Orthophosphate	green
+fructose-2,6-bisphosphatase	3.1.3.46	D-Fructose 6-phosphate	H2O	white
+fructose-2,6-bisphosphatase	3.1.3.46	D-Fructose 6-phosphate	beta-D-Fructose 2,6-bisphosphate	white
+fructose-2,6-bisphosphatase	3.1.3.46	H2O	D-Fructose 6-phosphate	white
+fructose-2,6-bisphosphatase	3.1.3.46	H2O	Orthophosphate	white
+fructose-2,6-bisphosphatase	3.1.3.46	Orthophosphate	H2O	white
+fructose-2,6-bisphosphatase	3.1.3.46	Orthophosphate	beta-D-Fructose 2,6-bisphosphate	white
+fructose-2,6-bisphosphatase	3.1.3.46	beta-D-Fructose 2,6-bisphosphate	D-Fructose 6-phosphate	white
+fructose-2,6-bisphosphatase	3.1.3.46	beta-D-Fructose 2,6-bisphosphate	Orthophosphate	white
+fructose-bisphosphate aldolase, class II	4.1.2.13	D-Fructose 1,6-bisphosphate	D-Glyceraldehyde 3-phosphate	green
+fructose-bisphosphate aldolase, class II	4.1.2.13	D-Fructose 1,6-bisphosphate	Glycerone phosphate	green
+fructose-bisphosphate aldolase, class II	4.1.2.13	D-Fructose 1-phosphate	D-Glyceraldehyde	green
+fructose-bisphosphate aldolase, class II	4.1.2.13	D-Fructose 1-phosphate	Glycerone phosphate	green
+fructose-bisphosphate aldolase, class II	4.1.2.13	D-Glyceraldehyde	D-Fructose 1-phosphate	green
+fructose-bisphosphate aldolase, class II	4.1.2.13	D-Glyceraldehyde 3-phosphate	D-Fructose 1,6-bisphosphate	green
+fructose-bisphosphate aldolase, class II	4.1.2.13	Glycerone phosphate	D-Fructose 1,6-bisphosphate	green
+fructose-bisphosphate aldolase, class II	4.1.2.13	Glycerone phosphate	D-Fructose 1-phosphate	green
+fucokinase	2.7.1.52	ADP	ATP	white
+fucokinase	2.7.1.52	ADP	L-Fucose	white
+fucokinase	2.7.1.52	ATP	ADP	white
+fucokinase	2.7.1.52	ATP	L-Fucose 1-phosphate	white
+fucokinase	2.7.1.52	L-Fucose	ADP	white
+fucokinase	2.7.1.52	L-Fucose	L-Fucose 1-phosphate	white
+fucokinase	2.7.1.52	L-Fucose 1-phosphate	ATP	white
+fucokinase	2.7.1.52	L-Fucose 1-phosphate	L-Fucose	white
+fucose-1-phosphate guanylyltransferase	2.7.7.30	Diphosphate	GTP	white
+fucose-1-phosphate guanylyltransferase	2.7.7.30	Diphosphate	L-Fucose 1-phosphate	white
+fucose-1-phosphate guanylyltransferase	2.7.7.30	GDP-L-fucose	GTP	white
+fucose-1-phosphate guanylyltransferase	2.7.7.30	GDP-L-fucose	L-Fucose 1-phosphate	white
+fucose-1-phosphate guanylyltransferase	2.7.7.30	GTP	Diphosphate	white
+fucose-1-phosphate guanylyltransferase	2.7.7.30	GTP	GDP-L-fucose	white
+fucose-1-phosphate guanylyltransferase	2.7.7.30	L-Fucose 1-phosphate	Diphosphate	white
+fucose-1-phosphate guanylyltransferase	2.7.7.30	L-Fucose 1-phosphate	GDP-L-fucose	white
+glucitol/sorbitol PTS system EIIA component	2.7.1.198	D-Sorbitol	Protein histidine	white
+glucitol/sorbitol PTS system EIIA component	2.7.1.198	D-Sorbitol	Sorbitol 6-phosphate	white
+glucitol/sorbitol PTS system EIIA component	2.7.1.198	Protein N(pi)-phospho-L-histidine	Protein histidine	white
+glucitol/sorbitol PTS system EIIA component	2.7.1.198	Protein N(pi)-phospho-L-histidine	Sorbitol 6-phosphate	white
+glucitol/sorbitol PTS system EIIA component	2.7.1.198	Protein histidine	D-Sorbitol	white
+glucitol/sorbitol PTS system EIIA component	2.7.1.198	Protein histidine	Protein N(pi)-phospho-L-histidine	white
+glucitol/sorbitol PTS system EIIA component	2.7.1.198	Sorbitol 6-phosphate	D-Sorbitol	white
+glucitol/sorbitol PTS system EIIA component	2.7.1.198	Sorbitol 6-phosphate	Protein N(pi)-phospho-L-histidine	white
+glucitol/sorbitol PTS system EIIB component	2.7.1.198	D-Sorbitol	Protein histidine	white
+glucitol/sorbitol PTS system EIIB component	2.7.1.198	D-Sorbitol	Sorbitol 6-phosphate	white
+glucitol/sorbitol PTS system EIIB component	2.7.1.198	Protein N(pi)-phospho-L-histidine	Protein histidine	white
+glucitol/sorbitol PTS system EIIB component	2.7.1.198	Protein N(pi)-phospho-L-histidine	Sorbitol 6-phosphate	white
+glucitol/sorbitol PTS system EIIB component	2.7.1.198	Protein histidine	D-Sorbitol	white
+glucitol/sorbitol PTS system EIIB component	2.7.1.198	Protein histidine	Protein N(pi)-phospho-L-histidine	white
+glucitol/sorbitol PTS system EIIB component	2.7.1.198	Sorbitol 6-phosphate	D-Sorbitol	white
+glucitol/sorbitol PTS system EIIB component	2.7.1.198	Sorbitol 6-phosphate	Protein N(pi)-phospho-L-histidine	white
+glucitol/sorbitol PTS system EIIC component	2.7.1.198	D-Sorbitol	Protein histidine	white
+glucitol/sorbitol PTS system EIIC component	2.7.1.198	D-Sorbitol	Sorbitol 6-phosphate	white
+glucitol/sorbitol PTS system EIIC component	2.7.1.198	Protein N(pi)-phospho-L-histidine	Protein histidine	white
+glucitol/sorbitol PTS system EIIC component	2.7.1.198	Protein N(pi)-phospho-L-histidine	Sorbitol 6-phosphate	white
+glucitol/sorbitol PTS system EIIC component	2.7.1.198	Protein histidine	D-Sorbitol	white
+glucitol/sorbitol PTS system EIIC component	2.7.1.198	Protein histidine	Protein N(pi)-phospho-L-histidine	white
+glucitol/sorbitol PTS system EIIC component	2.7.1.198	Sorbitol 6-phosphate	D-Sorbitol	white
+glucitol/sorbitol PTS system EIIC component	2.7.1.198	Sorbitol 6-phosphate	Protein N(pi)-phospho-L-histidine	white
+hexokinase	2.7.1.1	ADP	ATP	white
+hexokinase	2.7.1.1	ADP	D-Glucose	white
+hexokinase	2.7.1.1	ATP	ADP	white
+hexokinase	2.7.1.1	ATP	D-Glucose 6-phosphate	white
+hexokinase	2.7.1.1	D-Glucose	ADP	white
+hexokinase	2.7.1.1	D-Glucose	D-Glucose 6-phosphate	white
+hexokinase	2.7.1.1	D-Glucose 6-phosphate	ATP	white
+hexokinase	2.7.1.1	D-Glucose 6-phosphate	D-Glucose	white
+ketohexokinase	2.7.1.3	ADP	ATP	white
+ketohexokinase	2.7.1.3	ADP	D-Fructose	white
+ketohexokinase	2.7.1.3	ATP	ADP	white
+ketohexokinase	2.7.1.3	ATP	D-Fructose 1-phosphate	white
+ketohexokinase	2.7.1.3	D-Fructose	ADP	white
+ketohexokinase	2.7.1.3	D-Fructose	D-Fructose 1-phosphate	white
+ketohexokinase	2.7.1.3	D-Fructose 1-phosphate	ATP	white
+ketohexokinase	2.7.1.3	D-Fructose 1-phosphate	D-Fructose	white
+mannan endo-1,4-beta-mannosidase	3.2.1.78	1,4-beta-D-Mannan	D-Mannose	white
+mannan endo-1,4-beta-mannosidase	3.2.1.78	D-Mannose	1,4-beta-D-Mannan	white
+mannan endo-1,4-beta-mannosidase	3.2.1.78	D-Mannose	H2O	white
+mannan endo-1,4-beta-mannosidase	3.2.1.78	H2O	D-Mannose	white
+mannitol 2-dehydrogenase	1.1.1.67	D-Fructose	Mannitol	green
+mannitol 2-dehydrogenase	1.1.1.67	D-Fructose	NAD+	green
+mannitol 2-dehydrogenase	1.1.1.67	H+	Mannitol	green
+mannitol 2-dehydrogenase	1.1.1.67	H+	NAD+	green
+mannitol 2-dehydrogenase	1.1.1.67	Mannitol	D-Fructose	green
+mannitol 2-dehydrogenase	1.1.1.67	Mannitol	H+	green
+mannitol 2-dehydrogenase	1.1.1.67	Mannitol	NADH	green
+mannitol 2-dehydrogenase	1.1.1.67	NAD+	D-Fructose	green
+mannitol 2-dehydrogenase	1.1.1.67	NAD+	H+	green
+mannitol 2-dehydrogenase	1.1.1.67	NAD+	NADH	green
+mannitol 2-dehydrogenase	1.1.1.67	NADH	Mannitol	green
+mannitol 2-dehydrogenase	1.1.1.67	NADH	NAD+	green
+mannitol PTS system EIIA component	2.7.1.197	D-Mannitol 1-phosphate	Mannitol	white
+mannitol PTS system EIIA component	2.7.1.197	D-Mannitol 1-phosphate	Protein N(pi)-phospho-L-histidine	white
+mannitol PTS system EIIA component	2.7.1.197	Mannitol	D-Mannitol 1-phosphate	white
+mannitol PTS system EIIA component	2.7.1.197	Mannitol	Protein histidine	white
+mannitol PTS system EIIA component	2.7.1.197	Protein N(pi)-phospho-L-histidine	D-Mannitol 1-phosphate	white
+mannitol PTS system EIIA component	2.7.1.197	Protein N(pi)-phospho-L-histidine	Protein histidine	white
+mannitol PTS system EIIA component	2.7.1.197	Protein histidine	Mannitol	white
+mannitol PTS system EIIA component	2.7.1.197	Protein histidine	Protein N(pi)-phospho-L-histidine	white
+mannitol PTS system EIICBA or EIICB component	2.7.1.197	D-Mannitol 1-phosphate	Mannitol	white
+mannitol PTS system EIICBA or EIICB component	2.7.1.197	D-Mannitol 1-phosphate	Protein N(pi)-phospho-L-histidine	white
+mannitol PTS system EIICBA or EIICB component	2.7.1.197	Mannitol	D-Mannitol 1-phosphate	white
+mannitol PTS system EIICBA or EIICB component	2.7.1.197	Mannitol	Protein histidine	white
+mannitol PTS system EIICBA or EIICB component	2.7.1.197	Protein N(pi)-phospho-L-histidine	D-Mannitol 1-phosphate	white
+mannitol PTS system EIICBA or EIICB component	2.7.1.197	Protein N(pi)-phospho-L-histidine	Protein histidine	white
+mannitol PTS system EIICBA or EIICB component	2.7.1.197	Protein histidine	Mannitol	white
+mannitol PTS system EIICBA or EIICB component	2.7.1.197	Protein histidine	Protein N(pi)-phospho-L-histidine	white
+mannitol-1-/sugar-/sorbitol-6-/2-deoxyglucose-6-phosphatase	3.1.3.22	D-Mannitol 1-phosphate	Mannitol	white
+mannitol-1-/sugar-/sorbitol-6-/2-deoxyglucose-6-phosphatase	3.1.3.22	D-Mannitol 1-phosphate	Orthophosphate	white
+mannitol-1-/sugar-/sorbitol-6-/2-deoxyglucose-6-phosphatase	3.1.3.22	H2O	Mannitol	white
+mannitol-1-/sugar-/sorbitol-6-/2-deoxyglucose-6-phosphatase	3.1.3.22	H2O	Orthophosphate	white
+mannitol-1-/sugar-/sorbitol-6-/2-deoxyglucose-6-phosphatase	3.1.3.22	Mannitol	D-Mannitol 1-phosphate	white
+mannitol-1-/sugar-/sorbitol-6-/2-deoxyglucose-6-phosphatase	3.1.3.22	Mannitol	H2O	white
+mannitol-1-/sugar-/sorbitol-6-/2-deoxyglucose-6-phosphatase	3.1.3.22	Orthophosphate	D-Mannitol 1-phosphate	white
+mannitol-1-/sugar-/sorbitol-6-/2-deoxyglucose-6-phosphatase	3.1.3.22	Orthophosphate	H2O	white
+mannitol-1-/sugar-/sorbitol-6-phosphatase	3.1.3.22	D-Mannitol 1-phosphate	Mannitol	white
+mannitol-1-/sugar-/sorbitol-6-phosphatase	3.1.3.22	D-Mannitol 1-phosphate	Orthophosphate	white
+mannitol-1-/sugar-/sorbitol-6-phosphatase	3.1.3.22	H2O	Mannitol	white
+mannitol-1-/sugar-/sorbitol-6-phosphatase	3.1.3.22	H2O	Orthophosphate	white
+mannitol-1-/sugar-/sorbitol-6-phosphatase	3.1.3.22	Mannitol	D-Mannitol 1-phosphate	white
+mannitol-1-/sugar-/sorbitol-6-phosphatase	3.1.3.22	Mannitol	H2O	white
+mannitol-1-/sugar-/sorbitol-6-phosphatase	3.1.3.22	Orthophosphate	D-Mannitol 1-phosphate	white
+mannitol-1-/sugar-/sorbitol-6-phosphatase	3.1.3.22	Orthophosphate	H2O	white
+mannitol-1-phosphate 5-dehydrogenase	1.1.1.17	D-Fructose 6-phosphate	D-Mannitol 1-phosphate	white
+mannitol-1-phosphate 5-dehydrogenase	1.1.1.17	D-Fructose 6-phosphate	NAD+	white
+mannitol-1-phosphate 5-dehydrogenase	1.1.1.17	D-Mannitol 1-phosphate	D-Fructose 6-phosphate	white
+mannitol-1-phosphate 5-dehydrogenase	1.1.1.17	D-Mannitol 1-phosphate	H+	white
+mannitol-1-phosphate 5-dehydrogenase	1.1.1.17	D-Mannitol 1-phosphate	NADH	white
+mannitol-1-phosphate 5-dehydrogenase	1.1.1.17	H+	D-Mannitol 1-phosphate	white
+mannitol-1-phosphate 5-dehydrogenase	1.1.1.17	H+	NAD+	white
+mannitol-1-phosphate 5-dehydrogenase	1.1.1.17	NAD+	D-Fructose 6-phosphate	white
+mannitol-1-phosphate 5-dehydrogenase	1.1.1.17	NAD+	H+	white
+mannitol-1-phosphate 5-dehydrogenase	1.1.1.17	NAD+	NADH	white
+mannitol-1-phosphate 5-dehydrogenase	1.1.1.17	NADH	D-Mannitol 1-phosphate	white
+mannitol-1-phosphate 5-dehydrogenase	1.1.1.17	NADH	NAD+	white
+mannose PTS system EIIA component	2.7.1.191	D-Mannose	D-Mannose 6-phosphate	white
+mannose PTS system EIIA component	2.7.1.191	D-Mannose	Protein histidine	white
+mannose PTS system EIIA component	2.7.1.191	D-Mannose 6-phosphate	D-Mannose	white
+mannose PTS system EIIA component	2.7.1.191	D-Mannose 6-phosphate	Protein N(pi)-phospho-L-histidine	white
+mannose PTS system EIIA component	2.7.1.191	Protein N(pi)-phospho-L-histidine	D-Mannose 6-phosphate	white
+mannose PTS system EIIA component	2.7.1.191	Protein N(pi)-phospho-L-histidine	Protein histidine	white
+mannose PTS system EIIA component	2.7.1.191	Protein histidine	D-Mannose	white
+mannose PTS system EIIA component	2.7.1.191	Protein histidine	Protein N(pi)-phospho-L-histidine	white
+mannose PTS system EIIAB component	2.7.1.191	D-Mannose	D-Mannose 6-phosphate	white
+mannose PTS system EIIAB component	2.7.1.191	D-Mannose	Protein histidine	white
+mannose PTS system EIIAB component	2.7.1.191	D-Mannose 6-phosphate	D-Mannose	white
+mannose PTS system EIIAB component	2.7.1.191	D-Mannose 6-phosphate	Protein N(pi)-phospho-L-histidine	white
+mannose PTS system EIIAB component	2.7.1.191	Protein N(pi)-phospho-L-histidine	D-Mannose 6-phosphate	white
+mannose PTS system EIIAB component	2.7.1.191	Protein N(pi)-phospho-L-histidine	Protein histidine	white
+mannose PTS system EIIAB component	2.7.1.191	Protein histidine	D-Mannose	white
+mannose PTS system EIIAB component	2.7.1.191	Protein histidine	Protein N(pi)-phospho-L-histidine	white
+mannose PTS system EIIBCA component	2.7.1.191	D-Mannose	D-Mannose 6-phosphate	white
+mannose PTS system EIIBCA component	2.7.1.191	D-Mannose	Protein histidine	white
+mannose PTS system EIIBCA component	2.7.1.191	D-Mannose 6-phosphate	D-Mannose	white
+mannose PTS system EIIBCA component	2.7.1.191	D-Mannose 6-phosphate	Protein N(pi)-phospho-L-histidine	white
+mannose PTS system EIIBCA component	2.7.1.191	Protein N(pi)-phospho-L-histidine	D-Mannose 6-phosphate	white
+mannose PTS system EIIBCA component	2.7.1.191	Protein N(pi)-phospho-L-histidine	Protein histidine	white
+mannose PTS system EIIBCA component	2.7.1.191	Protein histidine	D-Mannose	white
+mannose PTS system EIIBCA component	2.7.1.191	Protein histidine	Protein N(pi)-phospho-L-histidine	white
+mannose PTS system EIIC component	2.7.1.191	D-Mannose	D-Mannose 6-phosphate	white
+mannose PTS system EIIC component	2.7.1.191	D-Mannose	Protein histidine	white
+mannose PTS system EIIC component	2.7.1.191	D-Mannose 6-phosphate	D-Mannose	white
+mannose PTS system EIIC component	2.7.1.191	D-Mannose 6-phosphate	Protein N(pi)-phospho-L-histidine	white
+mannose PTS system EIIC component	2.7.1.191	Protein N(pi)-phospho-L-histidine	D-Mannose 6-phosphate	white
+mannose PTS system EIIC component	2.7.1.191	Protein N(pi)-phospho-L-histidine	Protein histidine	white
+mannose PTS system EIIC component	2.7.1.191	Protein histidine	D-Mannose	white
+mannose PTS system EIIC component	2.7.1.191	Protein histidine	Protein N(pi)-phospho-L-histidine	white
+mannose PTS system EIID component	2.7.1.191	D-Mannose	D-Mannose 6-phosphate	white
+mannose PTS system EIID component	2.7.1.191	D-Mannose	Protein histidine	white
+mannose PTS system EIID component	2.7.1.191	D-Mannose 6-phosphate	D-Mannose	white
+mannose PTS system EIID component	2.7.1.191	D-Mannose 6-phosphate	Protein N(pi)-phospho-L-histidine	white
+mannose PTS system EIID component	2.7.1.191	Protein N(pi)-phospho-L-histidine	D-Mannose 6-phosphate	white
+mannose PTS system EIID component	2.7.1.191	Protein N(pi)-phospho-L-histidine	Protein histidine	white
+mannose PTS system EIID component	2.7.1.191	Protein histidine	D-Mannose	white
+mannose PTS system EIID component	2.7.1.191	Protein histidine	Protein N(pi)-phospho-L-histidine	white
+mannose-1-phosphate guanylyltransferase	2.7.7.13	D-Mannose 1-phosphate	Diphosphate	green
+mannose-1-phosphate guanylyltransferase	2.7.7.13	D-Mannose 1-phosphate	GDP-mannose	green
+mannose-1-phosphate guanylyltransferase	2.7.7.13	GTP	Diphosphate	green
+mannose-1-phosphate guanylyltransferase	2.7.7.13	GTP	GDP-mannose	green
+mannose-6-phosphate isomerase	5.3.1.8	D-Fructose 6-phosphate	D-Mannose 6-phosphate	green
+mannose-6-phosphate isomerase	5.3.1.8	D-Mannose 6-phosphate	D-Fructose 6-phosphate	green
+mannosyl-3-phosphoglycerate phosphatase	3.1.3.70	2-(alpha-D-Mannosyl)-3-phosphoglycerate	2-O-(alpha-D-Mannosyl)-D-glycerate	white
+mannosyl-3-phosphoglycerate phosphatase	3.1.3.70	2-(alpha-D-Mannosyl)-3-phosphoglycerate	Orthophosphate	white
+mannosyl-3-phosphoglycerate phosphatase	3.1.3.70	2-O-(alpha-D-Mannosyl)-D-glycerate	2-(alpha-D-Mannosyl)-3-phosphoglycerate	white
+mannosyl-3-phosphoglycerate phosphatase	3.1.3.70	2-O-(alpha-D-Mannosyl)-D-glycerate	H2O	white
+mannosyl-3-phosphoglycerate phosphatase	3.1.3.70	H2O	2-O-(alpha-D-Mannosyl)-D-glycerate	white
+mannosyl-3-phosphoglycerate phosphatase	3.1.3.70	H2O	Orthophosphate	white
+mannosyl-3-phosphoglycerate phosphatase	3.1.3.70	Orthophosphate	2-(alpha-D-Mannosyl)-3-phosphoglycerate	white
+mannosyl-3-phosphoglycerate phosphatase	3.1.3.70	Orthophosphate	H2O	white
+mannosyl-3-phosphoglycerate synthase	2.4.1.217	2-(alpha-D-Mannosyl)-3-phosphoglycerate	3-Phospho-D-glycerate	white
+mannosyl-3-phosphoglycerate synthase	2.4.1.217	2-(alpha-D-Mannosyl)-3-phosphoglycerate	GDP-mannose	white
+mannosyl-3-phosphoglycerate synthase	2.4.1.217	3-Phospho-D-glycerate	2-(alpha-D-Mannosyl)-3-phosphoglycerate	white
+mannosyl-3-phosphoglycerate synthase	2.4.1.217	3-Phospho-D-glycerate	GDP	white
+mannosyl-3-phosphoglycerate synthase	2.4.1.217	GDP	3-Phospho-D-glycerate	white
+mannosyl-3-phosphoglycerate synthase	2.4.1.217	GDP	GDP-mannose	white
+mannosyl-3-phosphoglycerate synthase	2.4.1.217	GDP-mannose	2-(alpha-D-Mannosyl)-3-phosphoglycerate	white
+mannosyl-3-phosphoglycerate synthase	2.4.1.217	GDP-mannose	GDP	white
+mannosylglycerate synthase	2.4.1.269	2-O-(alpha-D-Mannosyl)-D-glycerate	D-Glycerate	white
+mannosylglycerate synthase	2.4.1.269	2-O-(alpha-D-Mannosyl)-D-glycerate	GDP-mannose	white
+mannosylglycerate synthase	2.4.1.269	D-Glycerate	2-O-(alpha-D-Mannosyl)-D-glycerate	white
+mannosylglycerate synthase	2.4.1.269	D-Glycerate	GDP	white
+mannosylglycerate synthase	2.4.1.269	GDP	D-Glycerate	white
+mannosylglycerate synthase	2.4.1.269	GDP	GDP-mannose	white
+mannosylglycerate synthase	2.4.1.269	GDP-mannose	2-O-(alpha-D-Mannosyl)-D-glycerate	white
+mannosylglycerate synthase	2.4.1.269	GDP-mannose	GDP	white
+mannuronan 5-epimerase	5.1.3.37	(Alginate)n	(beta-D-Mannuronate)n	white
+mannuronan 5-epimerase	5.1.3.37	(beta-D-Mannuronate)n	(Alginate)n	white
+mannuronan synthase	2.4.1.33	(beta-D-Mannuronate)n	(beta-D-Mannuronate)n	white
+mannuronan synthase	2.4.1.33	(beta-D-Mannuronate)n	GDP	white
+mannuronan synthase	2.4.1.33	(beta-D-Mannuronate)n	GDP-D-mannuronate	white
+mannuronan synthase	2.4.1.33	GDP	(beta-D-Mannuronate)n	white
+mannuronan synthase	2.4.1.33	GDP	GDP-D-mannuronate	white
+mannuronan synthase	2.4.1.33	GDP-D-mannuronate	(beta-D-Mannuronate)n	white
+mannuronan synthase	2.4.1.33	GDP-D-mannuronate	GDP	white
+phosphomannomutase	5.4.2.8	D-Mannose 1-phosphate	D-Mannose 6-phosphate	green
+phosphomannomutase	5.4.2.8	D-Mannose 6-phosphate	D-Mannose 1-phosphate	green
+poly(beta-D-mannuronate) lyase	4.2.2.3	(Alginate)n	Oligouronide with 4-deoxy-alpha-L-erythro-hex-4-enopyranuronosyl group	white
+poly(beta-D-mannuronate) lyase	4.2.2.3	Oligouronide with 4-deoxy-alpha-L-erythro-hex-4-enopyranuronosyl group	(Alginate)n	white
+rhamnulokinase	2.7.1.5	ATP	ADP	green
+rhamnulokinase	2.7.1.5	ATP	L-Rhamnulose 1-phosphate	green
+rhamnulokinase	2.7.1.5	L-Rhamnulose	ADP	green
+rhamnulokinase	2.7.1.5	L-Rhamnulose	L-Rhamnulose 1-phosphate	green
+rhamnulose-1-phosphate aldolase	4.1.2.19	Glycerone phosphate	L-Xylulose 1-phosphate	white
+rhamnulose-1-phosphate aldolase	4.1.2.19	Glycolaldehyde	L-Xylulose 1-phosphate	white
+rhamnulose-1-phosphate aldolase	4.1.2.19	L-Xylulose 1-phosphate	Glycerone phosphate	white
+rhamnulose-1-phosphate aldolase	4.1.2.19	L-Xylulose 1-phosphate	Glycolaldehyde	white
+ribose 5-phosphate isomerase B	5.3.1.6	D-Allose 6-phosphate	D-Allulose 6-phosphate	green
+sorbitol-6-phosphate 2-dehydrogenase	1.1.1.140	H+	NAD+	white
+sorbitol-6-phosphate 2-dehydrogenase	1.1.1.140	H+	Sorbitol 6-phosphate	white
+sorbitol-6-phosphate 2-dehydrogenase	1.1.1.140	NAD+	H+	white
+sorbitol-6-phosphate 2-dehydrogenase	1.1.1.140	NAD+	NADH	white
+sorbitol-6-phosphate 2-dehydrogenase	1.1.1.140	NAD+	beta-D-Fructose 6-phosphate	white
+sorbitol-6-phosphate 2-dehydrogenase	1.1.1.140	NADH	NAD+	white
+sorbitol-6-phosphate 2-dehydrogenase	1.1.1.140	NADH	Sorbitol 6-phosphate	white
+sorbitol-6-phosphate 2-dehydrogenase	1.1.1.140	Sorbitol 6-phosphate	H+	white
+sorbitol-6-phosphate 2-dehydrogenase	1.1.1.140	Sorbitol 6-phosphate	NADH	white
+sorbitol-6-phosphate 2-dehydrogenase	1.1.1.140	Sorbitol 6-phosphate	beta-D-Fructose 6-phosphate	white
+sorbitol-6-phosphate 2-dehydrogenase	1.1.1.140	beta-D-Fructose 6-phosphate	NAD+	white
+sorbitol-6-phosphate 2-dehydrogenase	1.1.1.140	beta-D-Fructose 6-phosphate	Sorbitol 6-phosphate	white
+sorbose PTS system EIIA component	2.7.1.206	L-Sorbose	Protein histidine	white
+sorbose PTS system EIIA component	2.7.1.206	L-Sorbose	Sorbose 1-phosphate	white
+sorbose PTS system EIIA component	2.7.1.206	Protein N(pi)-phospho-L-histidine	Protein histidine	white
+sorbose PTS system EIIA component	2.7.1.206	Protein N(pi)-phospho-L-histidine	Sorbose 1-phosphate	white
+sorbose PTS system EIIA component	2.7.1.206	Protein histidine	L-Sorbose	white
+sorbose PTS system EIIA component	2.7.1.206	Protein histidine	Protein N(pi)-phospho-L-histidine	white
+sorbose PTS system EIIA component	2.7.1.206	Sorbose 1-phosphate	L-Sorbose	white
+sorbose PTS system EIIA component	2.7.1.206	Sorbose 1-phosphate	Protein N(pi)-phospho-L-histidine	white
+sorbose PTS system EIIB component	2.7.1.206	L-Sorbose	Protein histidine	white
+sorbose PTS system EIIB component	2.7.1.206	L-Sorbose	Sorbose 1-phosphate	white
+sorbose PTS system EIIB component	2.7.1.206	Protein N(pi)-phospho-L-histidine	Protein histidine	white
+sorbose PTS system EIIB component	2.7.1.206	Protein N(pi)-phospho-L-histidine	Sorbose 1-phosphate	white
+sorbose PTS system EIIB component	2.7.1.206	Protein histidine	L-Sorbose	white
+sorbose PTS system EIIB component	2.7.1.206	Protein histidine	Protein N(pi)-phospho-L-histidine	white
+sorbose PTS system EIIB component	2.7.1.206	Sorbose 1-phosphate	L-Sorbose	white
+sorbose PTS system EIIB component	2.7.1.206	Sorbose 1-phosphate	Protein N(pi)-phospho-L-histidine	white
+sorbose PTS system EIIC component	2.7.1.206	L-Sorbose	Protein histidine	white
+sorbose PTS system EIIC component	2.7.1.206	L-Sorbose	Sorbose 1-phosphate	white
+sorbose PTS system EIIC component	2.7.1.206	Protein N(pi)-phospho-L-histidine	Protein histidine	white
+sorbose PTS system EIIC component	2.7.1.206	Protein N(pi)-phospho-L-histidine	Sorbose 1-phosphate	white
+sorbose PTS system EIIC component	2.7.1.206	Protein histidine	L-Sorbose	white
+sorbose PTS system EIIC component	2.7.1.206	Protein histidine	Protein N(pi)-phospho-L-histidine	white
+sorbose PTS system EIIC component	2.7.1.206	Sorbose 1-phosphate	L-Sorbose	white
+sorbose PTS system EIIC component	2.7.1.206	Sorbose 1-phosphate	Protein N(pi)-phospho-L-histidine	white
+sorbose PTS system EIID component	2.7.1.206	L-Sorbose	Protein histidine	white
+sorbose PTS system EIID component	2.7.1.206	L-Sorbose	Sorbose 1-phosphate	white
+sorbose PTS system EIID component	2.7.1.206	Protein N(pi)-phospho-L-histidine	Protein histidine	white
+sorbose PTS system EIID component	2.7.1.206	Protein N(pi)-phospho-L-histidine	Sorbose 1-phosphate	white
+sorbose PTS system EIID component	2.7.1.206	Protein histidine	L-Sorbose	white
+sorbose PTS system EIID component	2.7.1.206	Protein histidine	Protein N(pi)-phospho-L-histidine	white
+sorbose PTS system EIID component	2.7.1.206	Sorbose 1-phosphate	L-Sorbose	white
+sorbose PTS system EIID component	2.7.1.206	Sorbose 1-phosphate	Protein N(pi)-phospho-L-histidine	white
+sorbose reductase	1.1.1.289	D-Sorbitol	H+	white
+sorbose reductase	1.1.1.289	D-Sorbitol	L-Sorbose	white
+sorbose reductase	1.1.1.289	D-Sorbitol	NADPH	white
+sorbose reductase	1.1.1.289	H+	D-Sorbitol	white
+sorbose reductase	1.1.1.289	H+	NADP+	white
+sorbose reductase	1.1.1.289	L-Sorbose	D-Sorbitol	white
+sorbose reductase	1.1.1.289	L-Sorbose	NADP+	white
+sorbose reductase	1.1.1.289	NADP+	H+	white
+sorbose reductase	1.1.1.289	NADP+	L-Sorbose	white
+sorbose reductase	1.1.1.289	NADP+	NADPH	white
+sorbose reductase	1.1.1.289	NADPH	D-Sorbitol	white
+sorbose reductase	1.1.1.289	NADPH	NADP+	white
+triose/dihydroxyacetone kinase / FAD-AMP lyase (cyclizing)	2.7.1.28	ADP	ATP	white
+triose/dihydroxyacetone kinase / FAD-AMP lyase (cyclizing)	2.7.1.28	ADP	Glycerone	white
+triose/dihydroxyacetone kinase / FAD-AMP lyase (cyclizing)	2.7.1.28	ATP	ADP	white
+triose/dihydroxyacetone kinase / FAD-AMP lyase (cyclizing)	2.7.1.28	ATP	Glycerone phosphate	white
+triose/dihydroxyacetone kinase / FAD-AMP lyase (cyclizing)	2.7.1.28	Glycerone	ADP	white
+triose/dihydroxyacetone kinase / FAD-AMP lyase (cyclizing)	2.7.1.28	Glycerone	Glycerone phosphate	white
+triose/dihydroxyacetone kinase / FAD-AMP lyase (cyclizing)	2.7.1.28	Glycerone phosphate	ATP	white
+triose/dihydroxyacetone kinase / FAD-AMP lyase (cyclizing)	2.7.1.28	Glycerone phosphate	Glycerone	white
+triosephosphate isomerase (TIM)	5.3.1.1	D-Glyceraldehyde 3-phosphate	Glycerone phosphate	green
+triosephosphate isomerase (TIM)	5.3.1.1	Glycerone phosphate	D-Glyceraldehyde 3-phosphate	green
+xylose isomerase	5.3.1.5	alpha-D-Fructofuranose	alpha-D-Glucose	white
+xylose isomerase	5.3.1.5	alpha-D-Glucose	alpha-D-Fructofuranose	white

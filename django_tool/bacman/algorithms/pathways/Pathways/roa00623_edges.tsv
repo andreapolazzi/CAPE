@@ -1,0 +1,796 @@
+enzyme_name	EC	source	target	color
+(2S)-[(R)-hydroxy(phenyl)methyl]-succinyl-CoA dehydrogenase BbsC subunit	1.1.1.429	(2S)-[(R)-Hydroxy(phenyl)methyl]succinyl-CoA	(S)-2-Benzoylsuccinyl-CoA	white
+(2S)-[(R)-hydroxy(phenyl)methyl]-succinyl-CoA dehydrogenase BbsC subunit	1.1.1.429	(2S)-[(R)-Hydroxy(phenyl)methyl]succinyl-CoA	H+	white
+(2S)-[(R)-hydroxy(phenyl)methyl]-succinyl-CoA dehydrogenase BbsC subunit	1.1.1.429	(2S)-[(R)-Hydroxy(phenyl)methyl]succinyl-CoA	NADH	white
+(2S)-[(R)-hydroxy(phenyl)methyl]-succinyl-CoA dehydrogenase BbsC subunit	1.1.1.429	(S)-2-Benzoylsuccinyl-CoA	(2S)-[(R)-Hydroxy(phenyl)methyl]succinyl-CoA	white
+(2S)-[(R)-hydroxy(phenyl)methyl]-succinyl-CoA dehydrogenase BbsC subunit	1.1.1.429	(S)-2-Benzoylsuccinyl-CoA	NAD+	white
+(2S)-[(R)-hydroxy(phenyl)methyl]-succinyl-CoA dehydrogenase BbsC subunit	1.1.1.429	H+	(2S)-[(R)-Hydroxy(phenyl)methyl]succinyl-CoA	white
+(2S)-[(R)-hydroxy(phenyl)methyl]-succinyl-CoA dehydrogenase BbsC subunit	1.1.1.429	H+	NAD+	white
+(2S)-[(R)-hydroxy(phenyl)methyl]-succinyl-CoA dehydrogenase BbsC subunit	1.1.1.429	NAD+	(S)-2-Benzoylsuccinyl-CoA	white
+(2S)-[(R)-hydroxy(phenyl)methyl]-succinyl-CoA dehydrogenase BbsC subunit	1.1.1.429	NAD+	H+	white
+(2S)-[(R)-hydroxy(phenyl)methyl]-succinyl-CoA dehydrogenase BbsC subunit	1.1.1.429	NAD+	NADH	white
+(2S)-[(R)-hydroxy(phenyl)methyl]-succinyl-CoA dehydrogenase BbsC subunit	1.1.1.429	NADH	(2S)-[(R)-Hydroxy(phenyl)methyl]succinyl-CoA	white
+(2S)-[(R)-hydroxy(phenyl)methyl]-succinyl-CoA dehydrogenase BbsC subunit	1.1.1.429	NADH	NAD+	white
+(2S)-[(R)-hydroxy(phenyl)methyl]-succinyl-CoA dehydrogenase BbsD subunit	1.1.1.429	(2S)-[(R)-Hydroxy(phenyl)methyl]succinyl-CoA	(S)-2-Benzoylsuccinyl-CoA	white
+(2S)-[(R)-hydroxy(phenyl)methyl]-succinyl-CoA dehydrogenase BbsD subunit	1.1.1.429	(2S)-[(R)-Hydroxy(phenyl)methyl]succinyl-CoA	H+	white
+(2S)-[(R)-hydroxy(phenyl)methyl]-succinyl-CoA dehydrogenase BbsD subunit	1.1.1.429	(2S)-[(R)-Hydroxy(phenyl)methyl]succinyl-CoA	NADH	white
+(2S)-[(R)-hydroxy(phenyl)methyl]-succinyl-CoA dehydrogenase BbsD subunit	1.1.1.429	(S)-2-Benzoylsuccinyl-CoA	(2S)-[(R)-Hydroxy(phenyl)methyl]succinyl-CoA	white
+(2S)-[(R)-hydroxy(phenyl)methyl]-succinyl-CoA dehydrogenase BbsD subunit	1.1.1.429	(S)-2-Benzoylsuccinyl-CoA	NAD+	white
+(2S)-[(R)-hydroxy(phenyl)methyl]-succinyl-CoA dehydrogenase BbsD subunit	1.1.1.429	H+	(2S)-[(R)-Hydroxy(phenyl)methyl]succinyl-CoA	white
+(2S)-[(R)-hydroxy(phenyl)methyl]-succinyl-CoA dehydrogenase BbsD subunit	1.1.1.429	H+	NAD+	white
+(2S)-[(R)-hydroxy(phenyl)methyl]-succinyl-CoA dehydrogenase BbsD subunit	1.1.1.429	NAD+	(S)-2-Benzoylsuccinyl-CoA	white
+(2S)-[(R)-hydroxy(phenyl)methyl]-succinyl-CoA dehydrogenase BbsD subunit	1.1.1.429	NAD+	H+	white
+(2S)-[(R)-hydroxy(phenyl)methyl]-succinyl-CoA dehydrogenase BbsD subunit	1.1.1.429	NAD+	NADH	white
+(2S)-[(R)-hydroxy(phenyl)methyl]-succinyl-CoA dehydrogenase BbsD subunit	1.1.1.429	NADH	(2S)-[(R)-Hydroxy(phenyl)methyl]succinyl-CoA	white
+(2S)-[(R)-hydroxy(phenyl)methyl]-succinyl-CoA dehydrogenase BbsD subunit	1.1.1.429	NADH	NAD+	white
+(E)-benzylidenesuccinyl-CoA hydratase	4.2.1.180	(2S)-[(R)-Hydroxy(phenyl)methyl]succinyl-CoA	E-Phenylitaconyl-CoA	white
+(E)-benzylidenesuccinyl-CoA hydratase	4.2.1.180	(2S)-[(R)-Hydroxy(phenyl)methyl]succinyl-CoA	H2O	white
+(E)-benzylidenesuccinyl-CoA hydratase	4.2.1.180	E-Phenylitaconyl-CoA	(2S)-[(R)-Hydroxy(phenyl)methyl]succinyl-CoA	white
+(E)-benzylidenesuccinyl-CoA hydratase	4.2.1.180	H2O	(2S)-[(R)-Hydroxy(phenyl)methyl]succinyl-CoA	white
+(R)-benzylsuccinyl-CoA dehydrogenase	1.3.8.3	Benzylsuccinyl-CoA	E-Phenylitaconyl-CoA	white
+(R)-benzylsuccinyl-CoA dehydrogenase	1.3.8.3	Benzylsuccinyl-CoA	Reduced electron-transferring flavoprotein	white
+(R)-benzylsuccinyl-CoA dehydrogenase	1.3.8.3	E-Phenylitaconyl-CoA	Benzylsuccinyl-CoA	white
+(R)-benzylsuccinyl-CoA dehydrogenase	1.3.8.3	E-Phenylitaconyl-CoA	Electron-transferring flavoprotein	white
+(R)-benzylsuccinyl-CoA dehydrogenase	1.3.8.3	Electron-transferring flavoprotein	E-Phenylitaconyl-CoA	white
+(R)-benzylsuccinyl-CoA dehydrogenase	1.3.8.3	Electron-transferring flavoprotein	Reduced electron-transferring flavoprotein	white
+(R)-benzylsuccinyl-CoA dehydrogenase	1.3.8.3	Reduced electron-transferring flavoprotein	Benzylsuccinyl-CoA	white
+(R)-benzylsuccinyl-CoA dehydrogenase	1.3.8.3	Reduced electron-transferring flavoprotein	Electron-transferring flavoprotein	white
+2-aminobenzenesulfonate 2,3-dioxygenase subunit alpha	1.14.12.14	2-Aminobenzenesulfonate	3-Sulfocatechol	white
+2-aminobenzenesulfonate 2,3-dioxygenase subunit alpha	1.14.12.14	2-Aminobenzenesulfonate	Ammonia	white
+2-aminobenzenesulfonate 2,3-dioxygenase subunit alpha	1.14.12.14	2-Aminobenzenesulfonate	NAD+	white
+2-aminobenzenesulfonate 2,3-dioxygenase subunit alpha	1.14.12.14	3-Sulfocatechol	2-Aminobenzenesulfonate	white
+2-aminobenzenesulfonate 2,3-dioxygenase subunit alpha	1.14.12.14	3-Sulfocatechol	H+	white
+2-aminobenzenesulfonate 2,3-dioxygenase subunit alpha	1.14.12.14	3-Sulfocatechol	NADH	white
+2-aminobenzenesulfonate 2,3-dioxygenase subunit alpha	1.14.12.14	3-Sulfocatechol	Oxygen	white
+2-aminobenzenesulfonate 2,3-dioxygenase subunit alpha	1.14.12.14	Ammonia	2-Aminobenzenesulfonate	white
+2-aminobenzenesulfonate 2,3-dioxygenase subunit alpha	1.14.12.14	Ammonia	H+	white
+2-aminobenzenesulfonate 2,3-dioxygenase subunit alpha	1.14.12.14	Ammonia	NADH	white
+2-aminobenzenesulfonate 2,3-dioxygenase subunit alpha	1.14.12.14	Ammonia	Oxygen	white
+2-aminobenzenesulfonate 2,3-dioxygenase subunit alpha	1.14.12.14	H+	3-Sulfocatechol	white
+2-aminobenzenesulfonate 2,3-dioxygenase subunit alpha	1.14.12.14	H+	Ammonia	white
+2-aminobenzenesulfonate 2,3-dioxygenase subunit alpha	1.14.12.14	H+	NAD+	white
+2-aminobenzenesulfonate 2,3-dioxygenase subunit alpha	1.14.12.14	NAD+	2-Aminobenzenesulfonate	white
+2-aminobenzenesulfonate 2,3-dioxygenase subunit alpha	1.14.12.14	NAD+	H+	white
+2-aminobenzenesulfonate 2,3-dioxygenase subunit alpha	1.14.12.14	NAD+	NADH	white
+2-aminobenzenesulfonate 2,3-dioxygenase subunit alpha	1.14.12.14	NAD+	Oxygen	white
+2-aminobenzenesulfonate 2,3-dioxygenase subunit alpha	1.14.12.14	NADH	3-Sulfocatechol	white
+2-aminobenzenesulfonate 2,3-dioxygenase subunit alpha	1.14.12.14	NADH	Ammonia	white
+2-aminobenzenesulfonate 2,3-dioxygenase subunit alpha	1.14.12.14	NADH	NAD+	white
+2-aminobenzenesulfonate 2,3-dioxygenase subunit alpha	1.14.12.14	Oxygen	3-Sulfocatechol	white
+2-aminobenzenesulfonate 2,3-dioxygenase subunit alpha	1.14.12.14	Oxygen	Ammonia	white
+2-aminobenzenesulfonate 2,3-dioxygenase subunit alpha	1.14.12.14	Oxygen	NAD+	white
+2-aminobenzenesulfonate 2,3-dioxygenase subunit beta	1.14.12.14	2-Aminobenzenesulfonate	3-Sulfocatechol	white
+2-aminobenzenesulfonate 2,3-dioxygenase subunit beta	1.14.12.14	2-Aminobenzenesulfonate	Ammonia	white
+2-aminobenzenesulfonate 2,3-dioxygenase subunit beta	1.14.12.14	2-Aminobenzenesulfonate	NAD+	white
+2-aminobenzenesulfonate 2,3-dioxygenase subunit beta	1.14.12.14	3-Sulfocatechol	2-Aminobenzenesulfonate	white
+2-aminobenzenesulfonate 2,3-dioxygenase subunit beta	1.14.12.14	3-Sulfocatechol	H+	white
+2-aminobenzenesulfonate 2,3-dioxygenase subunit beta	1.14.12.14	3-Sulfocatechol	NADH	white
+2-aminobenzenesulfonate 2,3-dioxygenase subunit beta	1.14.12.14	3-Sulfocatechol	Oxygen	white
+2-aminobenzenesulfonate 2,3-dioxygenase subunit beta	1.14.12.14	Ammonia	2-Aminobenzenesulfonate	white
+2-aminobenzenesulfonate 2,3-dioxygenase subunit beta	1.14.12.14	Ammonia	H+	white
+2-aminobenzenesulfonate 2,3-dioxygenase subunit beta	1.14.12.14	Ammonia	NADH	white
+2-aminobenzenesulfonate 2,3-dioxygenase subunit beta	1.14.12.14	Ammonia	Oxygen	white
+2-aminobenzenesulfonate 2,3-dioxygenase subunit beta	1.14.12.14	H+	3-Sulfocatechol	white
+2-aminobenzenesulfonate 2,3-dioxygenase subunit beta	1.14.12.14	H+	Ammonia	white
+2-aminobenzenesulfonate 2,3-dioxygenase subunit beta	1.14.12.14	H+	NAD+	white
+2-aminobenzenesulfonate 2,3-dioxygenase subunit beta	1.14.12.14	NAD+	2-Aminobenzenesulfonate	white
+2-aminobenzenesulfonate 2,3-dioxygenase subunit beta	1.14.12.14	NAD+	H+	white
+2-aminobenzenesulfonate 2,3-dioxygenase subunit beta	1.14.12.14	NAD+	NADH	white
+2-aminobenzenesulfonate 2,3-dioxygenase subunit beta	1.14.12.14	NAD+	Oxygen	white
+2-aminobenzenesulfonate 2,3-dioxygenase subunit beta	1.14.12.14	NADH	3-Sulfocatechol	white
+2-aminobenzenesulfonate 2,3-dioxygenase subunit beta	1.14.12.14	NADH	Ammonia	white
+2-aminobenzenesulfonate 2,3-dioxygenase subunit beta	1.14.12.14	NADH	NAD+	white
+2-aminobenzenesulfonate 2,3-dioxygenase subunit beta	1.14.12.14	Oxygen	3-Sulfocatechol	white
+2-aminobenzenesulfonate 2,3-dioxygenase subunit beta	1.14.12.14	Oxygen	Ammonia	white
+2-aminobenzenesulfonate 2,3-dioxygenase subunit beta	1.14.12.14	Oxygen	NAD+	white
+4-(hydroxymethyl)benzenesulfonate dehydrogenase	1.1.1.257	4-Sulfobenzaldehyde	4-Sulfobenzyl alcohol	white
+4-(hydroxymethyl)benzenesulfonate dehydrogenase	1.1.1.257	4-Sulfobenzaldehyde	NAD+	white
+4-(hydroxymethyl)benzenesulfonate dehydrogenase	1.1.1.257	4-Sulfobenzyl alcohol	4-Sulfobenzaldehyde	white
+4-(hydroxymethyl)benzenesulfonate dehydrogenase	1.1.1.257	4-Sulfobenzyl alcohol	H+	white
+4-(hydroxymethyl)benzenesulfonate dehydrogenase	1.1.1.257	4-Sulfobenzyl alcohol	NADH	white
+4-(hydroxymethyl)benzenesulfonate dehydrogenase	1.1.1.257	H+	4-Sulfobenzyl alcohol	white
+4-(hydroxymethyl)benzenesulfonate dehydrogenase	1.1.1.257	H+	NAD+	white
+4-(hydroxymethyl)benzenesulfonate dehydrogenase	1.1.1.257	NAD+	4-Sulfobenzaldehyde	white
+4-(hydroxymethyl)benzenesulfonate dehydrogenase	1.1.1.257	NAD+	H+	white
+4-(hydroxymethyl)benzenesulfonate dehydrogenase	1.1.1.257	NAD+	NADH	white
+4-(hydroxymethyl)benzenesulfonate dehydrogenase	1.1.1.257	NADH	4-Sulfobenzyl alcohol	white
+4-(hydroxymethyl)benzenesulfonate dehydrogenase	1.1.1.257	NADH	NAD+	white
+4-cresol dehydrogenase (hydroxylating) flavoprotein subunit	1.17.9.1	2,4-Dimethylphenol	4-Hydroxy-3-methylbenzaldehyde	green
+4-cresol dehydrogenase (hydroxylating) flavoprotein subunit	1.17.9.1	2,4-Dimethylphenol	H+	green
+4-cresol dehydrogenase (hydroxylating) flavoprotein subunit	1.17.9.1	2,4-Dimethylphenol	Reduced azurin	green
+4-cresol dehydrogenase (hydroxylating) flavoprotein subunit	1.17.9.1	4-Cresol	4-Hydroxybenzaldehyde	green
+4-cresol dehydrogenase (hydroxylating) flavoprotein subunit	1.17.9.1	4-Cresol	H+	green
+4-cresol dehydrogenase (hydroxylating) flavoprotein subunit	1.17.9.1	4-Cresol	Reduced azurin	green
+4-cresol dehydrogenase (hydroxylating) flavoprotein subunit	1.17.9.1	H2O	4-Hydroxy-3-methylbenzaldehyde	green
+4-cresol dehydrogenase (hydroxylating) flavoprotein subunit	1.17.9.1	H2O	4-Hydroxybenzaldehyde	green
+4-cresol dehydrogenase (hydroxylating) flavoprotein subunit	1.17.9.1	H2O	H+	green
+4-cresol dehydrogenase (hydroxylating) flavoprotein subunit	1.17.9.1	H2O	Reduced azurin	green
+4-cresol dehydrogenase (hydroxylating) flavoprotein subunit	1.17.9.1	Oxidized azurin	4-Hydroxy-3-methylbenzaldehyde	green
+4-cresol dehydrogenase (hydroxylating) flavoprotein subunit	1.17.9.1	Oxidized azurin	4-Hydroxybenzaldehyde	green
+4-cresol dehydrogenase (hydroxylating) flavoprotein subunit	1.17.9.1	Oxidized azurin	H+	green
+4-cresol dehydrogenase (hydroxylating) flavoprotein subunit	1.17.9.1	Oxidized azurin	Reduced azurin	green
+4-formylbenzenesulfonate dehydrogenase	1.2.1.62	4-Sulfobenzaldehyde	4-Sulfobenzoate	white
+4-formylbenzenesulfonate dehydrogenase	1.2.1.62	4-Sulfobenzaldehyde	H+	white
+4-formylbenzenesulfonate dehydrogenase	1.2.1.62	4-Sulfobenzaldehyde	NADH	white
+4-formylbenzenesulfonate dehydrogenase	1.2.1.62	4-Sulfobenzoate	4-Sulfobenzaldehyde	white
+4-formylbenzenesulfonate dehydrogenase	1.2.1.62	4-Sulfobenzoate	H2O	white
+4-formylbenzenesulfonate dehydrogenase	1.2.1.62	4-Sulfobenzoate	NAD+	white
+4-formylbenzenesulfonate dehydrogenase	1.2.1.62	H+	4-Sulfobenzaldehyde	white
+4-formylbenzenesulfonate dehydrogenase	1.2.1.62	H+	H2O	white
+4-formylbenzenesulfonate dehydrogenase	1.2.1.62	H+	NAD+	white
+4-formylbenzenesulfonate dehydrogenase	1.2.1.62	H2O	4-Sulfobenzoate	white
+4-formylbenzenesulfonate dehydrogenase	1.2.1.62	H2O	H+	white
+4-formylbenzenesulfonate dehydrogenase	1.2.1.62	H2O	NADH	white
+4-formylbenzenesulfonate dehydrogenase	1.2.1.62	NAD+	4-Sulfobenzoate	white
+4-formylbenzenesulfonate dehydrogenase	1.2.1.62	NAD+	H+	white
+4-formylbenzenesulfonate dehydrogenase	1.2.1.62	NAD+	NADH	white
+4-formylbenzenesulfonate dehydrogenase	1.2.1.62	NADH	4-Sulfobenzaldehyde	white
+4-formylbenzenesulfonate dehydrogenase	1.2.1.62	NADH	H2O	white
+4-formylbenzenesulfonate dehydrogenase	1.2.1.62	NADH	NAD+	white
+4-hydroxybenzaldehyde dehydrogenase (NADP+)	1.2.1.96	4-Hydroxybenzaldehyde	4-Hydroxybenzoate	white
+4-hydroxybenzaldehyde dehydrogenase (NADP+)	1.2.1.96	4-Hydroxybenzaldehyde	H+	white
+4-hydroxybenzaldehyde dehydrogenase (NADP+)	1.2.1.96	4-Hydroxybenzaldehyde	NADPH	white
+4-hydroxybenzaldehyde dehydrogenase (NADP+)	1.2.1.96	4-Hydroxybenzoate	4-Hydroxybenzaldehyde	white
+4-hydroxybenzaldehyde dehydrogenase (NADP+)	1.2.1.96	4-Hydroxybenzoate	H2O	white
+4-hydroxybenzaldehyde dehydrogenase (NADP+)	1.2.1.96	4-Hydroxybenzoate	NADP+	white
+4-hydroxybenzaldehyde dehydrogenase (NADP+)	1.2.1.96	H+	4-Hydroxybenzaldehyde	white
+4-hydroxybenzaldehyde dehydrogenase (NADP+)	1.2.1.96	H+	H2O	white
+4-hydroxybenzaldehyde dehydrogenase (NADP+)	1.2.1.96	H+	NADP+	white
+4-hydroxybenzaldehyde dehydrogenase (NADP+)	1.2.1.96	H2O	4-Hydroxybenzoate	white
+4-hydroxybenzaldehyde dehydrogenase (NADP+)	1.2.1.96	H2O	H+	white
+4-hydroxybenzaldehyde dehydrogenase (NADP+)	1.2.1.96	H2O	NADPH	white
+4-hydroxybenzaldehyde dehydrogenase (NADP+)	1.2.1.96	NADP+	4-Hydroxybenzoate	white
+4-hydroxybenzaldehyde dehydrogenase (NADP+)	1.2.1.96	NADP+	H+	white
+4-hydroxybenzaldehyde dehydrogenase (NADP+)	1.2.1.96	NADP+	NADPH	white
+4-hydroxybenzaldehyde dehydrogenase (NADP+)	1.2.1.96	NADPH	4-Hydroxybenzaldehyde	white
+4-hydroxybenzaldehyde dehydrogenase (NADP+)	1.2.1.96	NADPH	H2O	white
+4-hydroxybenzaldehyde dehydrogenase (NADP+)	1.2.1.96	NADPH	NADP+	white
+4-hydroxyisophthalate hydroxylase	1.2.1.96	3,4-Dihydroxybenzoate	4-Hydroxyisophthalate	white
+4-hydroxyisophthalate hydroxylase	1.2.1.96	3,4-Dihydroxybenzoate	H+	white
+4-hydroxyisophthalate hydroxylase	1.2.1.96	3,4-Dihydroxybenzoate	NADH	white
+4-hydroxyisophthalate hydroxylase	1.2.1.96	3,4-Dihydroxybenzoate	Oxygen	white
+4-hydroxyisophthalate hydroxylase	1.2.1.96	4-Hydroxyisophthalate	3,4-Dihydroxybenzoate	white
+4-hydroxyisophthalate hydroxylase	1.2.1.96	4-Hydroxyisophthalate	CO2	white
+4-hydroxyisophthalate hydroxylase	1.2.1.96	4-Hydroxyisophthalate	H2O	white
+4-hydroxyisophthalate hydroxylase	1.2.1.96	4-Hydroxyisophthalate	NAD+	white
+4-hydroxyisophthalate hydroxylase	1.2.1.96	CO2	4-Hydroxyisophthalate	white
+4-hydroxyisophthalate hydroxylase	1.2.1.96	CO2	H+	white
+4-hydroxyisophthalate hydroxylase	1.2.1.96	CO2	NADH	white
+4-hydroxyisophthalate hydroxylase	1.2.1.96	CO2	Oxygen	white
+4-hydroxyisophthalate hydroxylase	1.2.1.96	H+	3,4-Dihydroxybenzoate	white
+4-hydroxyisophthalate hydroxylase	1.2.1.96	H+	CO2	white
+4-hydroxyisophthalate hydroxylase	1.2.1.96	H+	H2O	white
+4-hydroxyisophthalate hydroxylase	1.2.1.96	H+	NAD+	white
+4-hydroxyisophthalate hydroxylase	1.2.1.96	H2O	4-Hydroxyisophthalate	white
+4-hydroxyisophthalate hydroxylase	1.2.1.96	H2O	H+	white
+4-hydroxyisophthalate hydroxylase	1.2.1.96	H2O	NADH	white
+4-hydroxyisophthalate hydroxylase	1.2.1.96	H2O	Oxygen	white
+4-hydroxyisophthalate hydroxylase	1.2.1.96	NAD+	4-Hydroxyisophthalate	white
+4-hydroxyisophthalate hydroxylase	1.2.1.96	NAD+	H+	white
+4-hydroxyisophthalate hydroxylase	1.2.1.96	NAD+	NADH	white
+4-hydroxyisophthalate hydroxylase	1.2.1.96	NAD+	Oxygen	white
+4-hydroxyisophthalate hydroxylase	1.2.1.96	NADH	3,4-Dihydroxybenzoate	white
+4-hydroxyisophthalate hydroxylase	1.2.1.96	NADH	CO2	white
+4-hydroxyisophthalate hydroxylase	1.2.1.96	NADH	H2O	white
+4-hydroxyisophthalate hydroxylase	1.2.1.96	NADH	NAD+	white
+4-hydroxyisophthalate hydroxylase	1.2.1.96	Oxygen	3,4-Dihydroxybenzoate	white
+4-hydroxyisophthalate hydroxylase	1.2.1.96	Oxygen	CO2	white
+4-hydroxyisophthalate hydroxylase	1.2.1.96	Oxygen	H2O	white
+4-hydroxyisophthalate hydroxylase	1.2.1.96	Oxygen	NAD+	white
+aryl-alcohol dehydrogenase	1.1.1.90	Benzyl alcohol	Benzaldehyde	green
+aryl-alcohol dehydrogenase	1.1.1.90	Benzyl alcohol	H+	green
+aryl-alcohol dehydrogenase	1.1.1.90	Benzyl alcohol	NADH	green
+aryl-alcohol dehydrogenase	1.1.1.90	NAD+	Benzaldehyde	green
+aryl-alcohol dehydrogenase	1.1.1.90	NAD+	H+	green
+aryl-alcohol dehydrogenase	1.1.1.90	NAD+	NADH	green
+benzaldehyde dehydrogenase (NAD)	1.2.1.28	3-Hydroxybenzaldehyde	3-Hydroxybenzoate	green
+benzaldehyde dehydrogenase (NAD)	1.2.1.28	3-Hydroxybenzaldehyde	H+	green
+benzaldehyde dehydrogenase (NAD)	1.2.1.28	3-Hydroxybenzaldehyde	NADH	green
+benzaldehyde dehydrogenase (NAD)	1.2.1.28	Benzaldehyde	Benzoate	green
+benzaldehyde dehydrogenase (NAD)	1.2.1.28	Benzaldehyde	H+	green
+benzaldehyde dehydrogenase (NAD)	1.2.1.28	Benzaldehyde	NADH	green
+benzaldehyde dehydrogenase (NAD)	1.2.1.28	H2O	3-Hydroxybenzoate	green
+benzaldehyde dehydrogenase (NAD)	1.2.1.28	H2O	Benzoate	green
+benzaldehyde dehydrogenase (NAD)	1.2.1.28	H2O	H+	green
+benzaldehyde dehydrogenase (NAD)	1.2.1.28	H2O	NADH	green
+benzaldehyde dehydrogenase (NAD)	1.2.1.28	NAD+	3-Hydroxybenzoate	green
+benzaldehyde dehydrogenase (NAD)	1.2.1.28	NAD+	Benzoate	green
+benzaldehyde dehydrogenase (NAD)	1.2.1.28	NAD+	H+	green
+benzaldehyde dehydrogenase (NAD)	1.2.1.28	NAD+	NADH	green
+benzene/toluene/chlorobenzene dioxygenase ferredoxin component	1.14.12.3	Benzene	NAD+	white
+benzene/toluene/chlorobenzene dioxygenase ferredoxin component	1.14.12.3	Benzene	cis-1,2-Dihydrobenzene-1,2-diol	white
+benzene/toluene/chlorobenzene dioxygenase ferredoxin component	1.14.12.3	H+	NAD+	white
+benzene/toluene/chlorobenzene dioxygenase ferredoxin component	1.14.12.3	H+	cis-1,2-Dihydrobenzene-1,2-diol	white
+benzene/toluene/chlorobenzene dioxygenase ferredoxin component	1.14.12.3	NAD+	Benzene	white
+benzene/toluene/chlorobenzene dioxygenase ferredoxin component	1.14.12.3	NAD+	H+	white
+benzene/toluene/chlorobenzene dioxygenase ferredoxin component	1.14.12.3	NAD+	NADH	white
+benzene/toluene/chlorobenzene dioxygenase ferredoxin component	1.14.12.3	NAD+	Oxygen	white
+benzene/toluene/chlorobenzene dioxygenase ferredoxin component	1.14.12.3	NADH	NAD+	white
+benzene/toluene/chlorobenzene dioxygenase ferredoxin component	1.14.12.3	NADH	cis-1,2-Dihydrobenzene-1,2-diol	white
+benzene/toluene/chlorobenzene dioxygenase ferredoxin component	1.14.12.3	Oxygen	NAD+	white
+benzene/toluene/chlorobenzene dioxygenase ferredoxin component	1.14.12.3	Oxygen	cis-1,2-Dihydrobenzene-1,2-diol	white
+benzene/toluene/chlorobenzene dioxygenase ferredoxin component	1.14.12.3	cis-1,2-Dihydrobenzene-1,2-diol	Benzene	white
+benzene/toluene/chlorobenzene dioxygenase ferredoxin component	1.14.12.3	cis-1,2-Dihydrobenzene-1,2-diol	H+	white
+benzene/toluene/chlorobenzene dioxygenase ferredoxin component	1.14.12.3	cis-1,2-Dihydrobenzene-1,2-diol	NADH	white
+benzene/toluene/chlorobenzene dioxygenase ferredoxin component	1.14.12.3	cis-1,2-Dihydrobenzene-1,2-diol	Oxygen	white
+benzene/toluene/chlorobenzene dioxygenase ferredoxin reductase component	1.18.1.3	Benzene	NAD+	white
+benzene/toluene/chlorobenzene dioxygenase ferredoxin reductase component	1.18.1.3	Benzene	cis-1,2-Dihydrobenzene-1,2-diol	white
+benzene/toluene/chlorobenzene dioxygenase ferredoxin reductase component	1.18.1.3	H+	NAD+	white
+benzene/toluene/chlorobenzene dioxygenase ferredoxin reductase component	1.18.1.3	H+	cis-1,2-Dihydrobenzene-1,2-diol	white
+benzene/toluene/chlorobenzene dioxygenase ferredoxin reductase component	1.18.1.3	NAD+	Benzene	white
+benzene/toluene/chlorobenzene dioxygenase ferredoxin reductase component	1.18.1.3	NAD+	H+	white
+benzene/toluene/chlorobenzene dioxygenase ferredoxin reductase component	1.18.1.3	NAD+	NADH	white
+benzene/toluene/chlorobenzene dioxygenase ferredoxin reductase component	1.18.1.3	NAD+	Oxygen	white
+benzene/toluene/chlorobenzene dioxygenase ferredoxin reductase component	1.18.1.3	NADH	NAD+	white
+benzene/toluene/chlorobenzene dioxygenase ferredoxin reductase component	1.18.1.3	NADH	cis-1,2-Dihydrobenzene-1,2-diol	white
+benzene/toluene/chlorobenzene dioxygenase ferredoxin reductase component	1.18.1.3	Oxygen	NAD+	white
+benzene/toluene/chlorobenzene dioxygenase ferredoxin reductase component	1.18.1.3	Oxygen	cis-1,2-Dihydrobenzene-1,2-diol	white
+benzene/toluene/chlorobenzene dioxygenase ferredoxin reductase component	1.18.1.3	cis-1,2-Dihydrobenzene-1,2-diol	Benzene	white
+benzene/toluene/chlorobenzene dioxygenase ferredoxin reductase component	1.18.1.3	cis-1,2-Dihydrobenzene-1,2-diol	H+	white
+benzene/toluene/chlorobenzene dioxygenase ferredoxin reductase component	1.18.1.3	cis-1,2-Dihydrobenzene-1,2-diol	NADH	white
+benzene/toluene/chlorobenzene dioxygenase ferredoxin reductase component	1.18.1.3	cis-1,2-Dihydrobenzene-1,2-diol	Oxygen	white
+benzene/toluene/chlorobenzene dioxygenase subunit alpha	1.14.12.3	Benzene	NAD+	white
+benzene/toluene/chlorobenzene dioxygenase subunit alpha	1.14.12.3	Benzene	cis-1,2-Dihydrobenzene-1,2-diol	white
+benzene/toluene/chlorobenzene dioxygenase subunit alpha	1.14.12.3	H+	NAD+	white
+benzene/toluene/chlorobenzene dioxygenase subunit alpha	1.14.12.3	H+	cis-1,2-Dihydrobenzene-1,2-diol	white
+benzene/toluene/chlorobenzene dioxygenase subunit alpha	1.14.12.3	NAD+	Benzene	white
+benzene/toluene/chlorobenzene dioxygenase subunit alpha	1.14.12.3	NAD+	H+	white
+benzene/toluene/chlorobenzene dioxygenase subunit alpha	1.14.12.3	NAD+	NADH	white
+benzene/toluene/chlorobenzene dioxygenase subunit alpha	1.14.12.3	NAD+	Oxygen	white
+benzene/toluene/chlorobenzene dioxygenase subunit alpha	1.14.12.3	NADH	NAD+	white
+benzene/toluene/chlorobenzene dioxygenase subunit alpha	1.14.12.3	NADH	cis-1,2-Dihydrobenzene-1,2-diol	white
+benzene/toluene/chlorobenzene dioxygenase subunit alpha	1.14.12.3	Oxygen	NAD+	white
+benzene/toluene/chlorobenzene dioxygenase subunit alpha	1.14.12.3	Oxygen	cis-1,2-Dihydrobenzene-1,2-diol	white
+benzene/toluene/chlorobenzene dioxygenase subunit alpha	1.14.12.3	cis-1,2-Dihydrobenzene-1,2-diol	Benzene	white
+benzene/toluene/chlorobenzene dioxygenase subunit alpha	1.14.12.3	cis-1,2-Dihydrobenzene-1,2-diol	H+	white
+benzene/toluene/chlorobenzene dioxygenase subunit alpha	1.14.12.3	cis-1,2-Dihydrobenzene-1,2-diol	NADH	white
+benzene/toluene/chlorobenzene dioxygenase subunit alpha	1.14.12.3	cis-1,2-Dihydrobenzene-1,2-diol	Oxygen	white
+benzene/toluene/chlorobenzene dioxygenase subunit beta	1.14.12.3	Benzene	NAD+	white
+benzene/toluene/chlorobenzene dioxygenase subunit beta	1.14.12.3	Benzene	cis-1,2-Dihydrobenzene-1,2-diol	white
+benzene/toluene/chlorobenzene dioxygenase subunit beta	1.14.12.3	H+	NAD+	white
+benzene/toluene/chlorobenzene dioxygenase subunit beta	1.14.12.3	H+	cis-1,2-Dihydrobenzene-1,2-diol	white
+benzene/toluene/chlorobenzene dioxygenase subunit beta	1.14.12.3	NAD+	Benzene	white
+benzene/toluene/chlorobenzene dioxygenase subunit beta	1.14.12.3	NAD+	H+	white
+benzene/toluene/chlorobenzene dioxygenase subunit beta	1.14.12.3	NAD+	NADH	white
+benzene/toluene/chlorobenzene dioxygenase subunit beta	1.14.12.3	NAD+	Oxygen	white
+benzene/toluene/chlorobenzene dioxygenase subunit beta	1.14.12.3	NADH	NAD+	white
+benzene/toluene/chlorobenzene dioxygenase subunit beta	1.14.12.3	NADH	cis-1,2-Dihydrobenzene-1,2-diol	white
+benzene/toluene/chlorobenzene dioxygenase subunit beta	1.14.12.3	Oxygen	NAD+	white
+benzene/toluene/chlorobenzene dioxygenase subunit beta	1.14.12.3	Oxygen	cis-1,2-Dihydrobenzene-1,2-diol	white
+benzene/toluene/chlorobenzene dioxygenase subunit beta	1.14.12.3	cis-1,2-Dihydrobenzene-1,2-diol	Benzene	white
+benzene/toluene/chlorobenzene dioxygenase subunit beta	1.14.12.3	cis-1,2-Dihydrobenzene-1,2-diol	H+	white
+benzene/toluene/chlorobenzene dioxygenase subunit beta	1.14.12.3	cis-1,2-Dihydrobenzene-1,2-diol	NADH	white
+benzene/toluene/chlorobenzene dioxygenase subunit beta	1.14.12.3	cis-1,2-Dihydrobenzene-1,2-diol	Oxygen	white
+benzoylsuccinyl-CoA thiolase BbsA subunit	2.3.1.310	(S)-2-Benzoylsuccinyl-CoA	Benzoyl-CoA	white
+benzoylsuccinyl-CoA thiolase BbsA subunit	2.3.1.310	(S)-2-Benzoylsuccinyl-CoA	Succinyl-CoA	white
+benzoylsuccinyl-CoA thiolase BbsA subunit	2.3.1.310	Benzoyl-CoA	(S)-2-Benzoylsuccinyl-CoA	white
+benzoylsuccinyl-CoA thiolase BbsA subunit	2.3.1.310	Benzoyl-CoA	CoA	white
+benzoylsuccinyl-CoA thiolase BbsA subunit	2.3.1.310	CoA	Benzoyl-CoA	white
+benzoylsuccinyl-CoA thiolase BbsA subunit	2.3.1.310	CoA	Succinyl-CoA	white
+benzoylsuccinyl-CoA thiolase BbsA subunit	2.3.1.310	Succinyl-CoA	(S)-2-Benzoylsuccinyl-CoA	white
+benzoylsuccinyl-CoA thiolase BbsA subunit	2.3.1.310	Succinyl-CoA	CoA	white
+benzoylsuccinyl-CoA thiolase BbsB subunit	2.3.1.310	(S)-2-Benzoylsuccinyl-CoA	Benzoyl-CoA	white
+benzoylsuccinyl-CoA thiolase BbsB subunit	2.3.1.310	(S)-2-Benzoylsuccinyl-CoA	Succinyl-CoA	white
+benzoylsuccinyl-CoA thiolase BbsB subunit	2.3.1.310	Benzoyl-CoA	(S)-2-Benzoylsuccinyl-CoA	white
+benzoylsuccinyl-CoA thiolase BbsB subunit	2.3.1.310	Benzoyl-CoA	CoA	white
+benzoylsuccinyl-CoA thiolase BbsB subunit	2.3.1.310	CoA	Benzoyl-CoA	white
+benzoylsuccinyl-CoA thiolase BbsB subunit	2.3.1.310	CoA	Succinyl-CoA	white
+benzoylsuccinyl-CoA thiolase BbsB subunit	2.3.1.310	Succinyl-CoA	(S)-2-Benzoylsuccinyl-CoA	white
+benzoylsuccinyl-CoA thiolase BbsB subunit	2.3.1.310	Succinyl-CoA	CoA	white
+benzylsuccinate CoA-transferase BbsE subunit	2.8.3.15	Benzylsuccinate	Benzylsuccinyl-CoA	white
+benzylsuccinate CoA-transferase BbsE subunit	2.8.3.15	Benzylsuccinate	Succinate	white
+benzylsuccinate CoA-transferase BbsE subunit	2.8.3.15	Benzylsuccinyl-CoA	Benzylsuccinate	white
+benzylsuccinate CoA-transferase BbsE subunit	2.8.3.15	Benzylsuccinyl-CoA	Succinyl-CoA	white
+benzylsuccinate CoA-transferase BbsE subunit	2.8.3.15	Succinate	Benzylsuccinate	white
+benzylsuccinate CoA-transferase BbsE subunit	2.8.3.15	Succinate	Succinyl-CoA	white
+benzylsuccinate CoA-transferase BbsE subunit	2.8.3.15	Succinyl-CoA	Benzylsuccinyl-CoA	white
+benzylsuccinate CoA-transferase BbsE subunit	2.8.3.15	Succinyl-CoA	Succinate	white
+benzylsuccinate CoA-transferase BbsF subunit	2.8.3.15	Benzylsuccinate	Benzylsuccinyl-CoA	white
+benzylsuccinate CoA-transferase BbsF subunit	2.8.3.15	Benzylsuccinate	Succinate	white
+benzylsuccinate CoA-transferase BbsF subunit	2.8.3.15	Benzylsuccinyl-CoA	Benzylsuccinate	white
+benzylsuccinate CoA-transferase BbsF subunit	2.8.3.15	Benzylsuccinyl-CoA	Succinyl-CoA	white
+benzylsuccinate CoA-transferase BbsF subunit	2.8.3.15	Succinate	Benzylsuccinate	white
+benzylsuccinate CoA-transferase BbsF subunit	2.8.3.15	Succinate	Succinyl-CoA	white
+benzylsuccinate CoA-transferase BbsF subunit	2.8.3.15	Succinyl-CoA	Benzylsuccinyl-CoA	white
+benzylsuccinate CoA-transferase BbsF subunit	2.8.3.15	Succinyl-CoA	Succinate	white
+benzylsuccinate synthase	4.1.99.11	Benzylsuccinate	Fumarate	white
+benzylsuccinate synthase	4.1.99.11	Benzylsuccinate	Toluene	white
+benzylsuccinate synthase	4.1.99.11	Fumarate	Benzylsuccinate	white
+benzylsuccinate synthase	4.1.99.11	Toluene	Benzylsuccinate	white
+carboxymethylenebutenolidase	3.1.1.45	2-Chloro-5-methyl-cis-dienelactone	2-Chloro-5-methylmaleylacetate	green
+carboxymethylenebutenolidase	3.1.1.45	3-Chloro-2-methyldienelactone	3-Chloro-2-methylmaleylacetate	green
+carboxymethylenebutenolidase	3.1.1.45	H2O	2-Chloro-5-methylmaleylacetate	green
+carboxymethylenebutenolidase	3.1.1.45	H2O	3-Chloro-2-methylmaleylacetate	green
+catechol 1,2-dioxygenase	1.13.11.1	4-Methylcatechol	3-Methyl-cis,cis-hexadienedioate	green
+catechol 1,2-dioxygenase	1.13.11.1	Oxygen	3-Methyl-cis,cis-hexadienedioate	green
+chloromuconate cycloisomerase	5.5.1.7	2-Chloro-2,5-dihydro-5-oxofuran-2-acetate	3-Chloro-cis,cis-muconate	white
+chloromuconate cycloisomerase	5.5.1.7	3-Chloro-cis,cis-muconate	2-Chloro-2,5-dihydro-5-oxofuran-2-acetate	white
+cis-1,2-dihydrobenzene-1,2-diol/chlorobenzene dihydrodiol dehydrogenase	1.3.1.19	Catechol	NAD+	white
+cis-1,2-dihydrobenzene-1,2-diol/chlorobenzene dihydrodiol dehydrogenase	1.3.1.19	Catechol	cis-1,2-Dihydrobenzene-1,2-diol	white
+cis-1,2-dihydrobenzene-1,2-diol/chlorobenzene dihydrodiol dehydrogenase	1.3.1.19	H+	NAD+	white
+cis-1,2-dihydrobenzene-1,2-diol/chlorobenzene dihydrodiol dehydrogenase	1.3.1.19	H+	cis-1,2-Dihydrobenzene-1,2-diol	white
+cis-1,2-dihydrobenzene-1,2-diol/chlorobenzene dihydrodiol dehydrogenase	1.3.1.19	NAD+	Catechol	white
+cis-1,2-dihydrobenzene-1,2-diol/chlorobenzene dihydrodiol dehydrogenase	1.3.1.19	NAD+	H+	white
+cis-1,2-dihydrobenzene-1,2-diol/chlorobenzene dihydrodiol dehydrogenase	1.3.1.19	NAD+	NADH	white
+cis-1,2-dihydrobenzene-1,2-diol/chlorobenzene dihydrodiol dehydrogenase	1.3.1.19	NADH	NAD+	white
+cis-1,2-dihydrobenzene-1,2-diol/chlorobenzene dihydrodiol dehydrogenase	1.3.1.19	NADH	cis-1,2-Dihydrobenzene-1,2-diol	white
+cis-1,2-dihydrobenzene-1,2-diol/chlorobenzene dihydrodiol dehydrogenase	1.3.1.19	cis-1,2-Dihydrobenzene-1,2-diol	Catechol	white
+cis-1,2-dihydrobenzene-1,2-diol/chlorobenzene dihydrodiol dehydrogenase	1.3.1.19	cis-1,2-Dihydrobenzene-1,2-diol	H+	white
+cis-1,2-dihydrobenzene-1,2-diol/chlorobenzene dihydrodiol dehydrogenase	1.3.1.19	cis-1,2-Dihydrobenzene-1,2-diol	NADH	white
+maleylacetate reductase	1.3.1.32	2-Chloro-5-methylmaleylacetate	5-Methylmaleylacetate	green
+maleylacetate reductase	1.3.1.32	2-Chloro-5-methylmaleylacetate	Hydrochloric acid	green
+maleylacetate reductase	1.3.1.32	2-Chloro-5-methylmaleylacetate	NAD+	green
+maleylacetate reductase	1.3.1.32	5-Methylmaleylacetate	2-Methyl-3-oxoadipate	green
+maleylacetate reductase	1.3.1.32	5-Methylmaleylacetate	NAD+	green
+maleylacetate reductase	1.3.1.32	H+	2-Methyl-3-oxoadipate	green
+maleylacetate reductase	1.3.1.32	H+	5-Methylmaleylacetate	green
+maleylacetate reductase	1.3.1.32	H+	Hydrochloric acid	green
+maleylacetate reductase	1.3.1.32	H+	NAD+	green
+maleylacetate reductase	1.3.1.32	NADH	2-Methyl-3-oxoadipate	green
+maleylacetate reductase	1.3.1.32	NADH	5-Methylmaleylacetate	green
+maleylacetate reductase	1.3.1.32	NADH	Hydrochloric acid	green
+maleylacetate reductase	1.3.1.32	NADH	NAD+	green
+muconate cycloisomerase	5.5.1.1	3-Methyl-cis,cis-hexadienedioate	3-Methylmuconolactone	green
+muconate cycloisomerase	5.5.1.1	4-Methylmuconolactone	3-Methyl-cis,cis-hexadienedioate	green
+p-toluenesulfonate methyl-monooxygenase oxygenase component TsaM	1.14.13.-	4-Sulfobenzyl alcohol	H+	white
+p-toluenesulfonate methyl-monooxygenase oxygenase component TsaM	1.14.13.-	4-Sulfobenzyl alcohol	NADH	white
+p-toluenesulfonate methyl-monooxygenase oxygenase component TsaM	1.14.13.-	4-Sulfobenzyl alcohol	Oxygen	white
+p-toluenesulfonate methyl-monooxygenase oxygenase component TsaM	1.14.13.-	4-Sulfobenzyl alcohol	Toluene-4-sulfonate	white
+p-toluenesulfonate methyl-monooxygenase oxygenase component TsaM	1.14.13.-	H+	4-Sulfobenzyl alcohol	white
+p-toluenesulfonate methyl-monooxygenase oxygenase component TsaM	1.14.13.-	H+	H2O	white
+p-toluenesulfonate methyl-monooxygenase oxygenase component TsaM	1.14.13.-	H+	NAD+	white
+p-toluenesulfonate methyl-monooxygenase oxygenase component TsaM	1.14.13.-	H2O	H+	white
+p-toluenesulfonate methyl-monooxygenase oxygenase component TsaM	1.14.13.-	H2O	NADH	white
+p-toluenesulfonate methyl-monooxygenase oxygenase component TsaM	1.14.13.-	H2O	Oxygen	white
+p-toluenesulfonate methyl-monooxygenase oxygenase component TsaM	1.14.13.-	H2O	Toluene-4-sulfonate	white
+p-toluenesulfonate methyl-monooxygenase oxygenase component TsaM	1.14.13.-	NAD+	H+	white
+p-toluenesulfonate methyl-monooxygenase oxygenase component TsaM	1.14.13.-	NAD+	NADH	white
+p-toluenesulfonate methyl-monooxygenase oxygenase component TsaM	1.14.13.-	NAD+	Oxygen	white
+p-toluenesulfonate methyl-monooxygenase oxygenase component TsaM	1.14.13.-	NAD+	Toluene-4-sulfonate	white
+p-toluenesulfonate methyl-monooxygenase oxygenase component TsaM	1.14.13.-	NADH	4-Sulfobenzyl alcohol	white
+p-toluenesulfonate methyl-monooxygenase oxygenase component TsaM	1.14.13.-	NADH	H2O	white
+p-toluenesulfonate methyl-monooxygenase oxygenase component TsaM	1.14.13.-	NADH	NAD+	white
+p-toluenesulfonate methyl-monooxygenase oxygenase component TsaM	1.14.13.-	Oxygen	4-Sulfobenzyl alcohol	white
+p-toluenesulfonate methyl-monooxygenase oxygenase component TsaM	1.14.13.-	Oxygen	H2O	white
+p-toluenesulfonate methyl-monooxygenase oxygenase component TsaM	1.14.13.-	Oxygen	NAD+	white
+p-toluenesulfonate methyl-monooxygenase oxygenase component TsaM	1.14.13.-	Toluene-4-sulfonate	4-Sulfobenzyl alcohol	white
+p-toluenesulfonate methyl-monooxygenase oxygenase component TsaM	1.14.13.-	Toluene-4-sulfonate	H2O	white
+p-toluenesulfonate methyl-monooxygenase oxygenase component TsaM	1.14.13.-	Toluene-4-sulfonate	NAD+	white
+p-toluenesulfonate methyl-monooxygenase reductase component TsaB	1.5.1.-	4-Sulfobenzyl alcohol	H+	white
+p-toluenesulfonate methyl-monooxygenase reductase component TsaB	1.5.1.-	4-Sulfobenzyl alcohol	NADH	white
+p-toluenesulfonate methyl-monooxygenase reductase component TsaB	1.5.1.-	4-Sulfobenzyl alcohol	Oxygen	white
+p-toluenesulfonate methyl-monooxygenase reductase component TsaB	1.5.1.-	4-Sulfobenzyl alcohol	Toluene-4-sulfonate	white
+p-toluenesulfonate methyl-monooxygenase reductase component TsaB	1.5.1.-	H+	4-Sulfobenzyl alcohol	white
+p-toluenesulfonate methyl-monooxygenase reductase component TsaB	1.5.1.-	H+	H2O	white
+p-toluenesulfonate methyl-monooxygenase reductase component TsaB	1.5.1.-	H+	NAD+	white
+p-toluenesulfonate methyl-monooxygenase reductase component TsaB	1.5.1.-	H2O	H+	white
+p-toluenesulfonate methyl-monooxygenase reductase component TsaB	1.5.1.-	H2O	NADH	white
+p-toluenesulfonate methyl-monooxygenase reductase component TsaB	1.5.1.-	H2O	Oxygen	white
+p-toluenesulfonate methyl-monooxygenase reductase component TsaB	1.5.1.-	H2O	Toluene-4-sulfonate	white
+p-toluenesulfonate methyl-monooxygenase reductase component TsaB	1.5.1.-	NAD+	H+	white
+p-toluenesulfonate methyl-monooxygenase reductase component TsaB	1.5.1.-	NAD+	NADH	white
+p-toluenesulfonate methyl-monooxygenase reductase component TsaB	1.5.1.-	NAD+	Oxygen	white
+p-toluenesulfonate methyl-monooxygenase reductase component TsaB	1.5.1.-	NAD+	Toluene-4-sulfonate	white
+p-toluenesulfonate methyl-monooxygenase reductase component TsaB	1.5.1.-	NADH	4-Sulfobenzyl alcohol	white
+p-toluenesulfonate methyl-monooxygenase reductase component TsaB	1.5.1.-	NADH	H2O	white
+p-toluenesulfonate methyl-monooxygenase reductase component TsaB	1.5.1.-	NADH	NAD+	white
+p-toluenesulfonate methyl-monooxygenase reductase component TsaB	1.5.1.-	Oxygen	4-Sulfobenzyl alcohol	white
+p-toluenesulfonate methyl-monooxygenase reductase component TsaB	1.5.1.-	Oxygen	H2O	white
+p-toluenesulfonate methyl-monooxygenase reductase component TsaB	1.5.1.-	Oxygen	NAD+	white
+p-toluenesulfonate methyl-monooxygenase reductase component TsaB	1.5.1.-	Toluene-4-sulfonate	4-Sulfobenzyl alcohol	white
+p-toluenesulfonate methyl-monooxygenase reductase component TsaB	1.5.1.-	Toluene-4-sulfonate	H2O	white
+p-toluenesulfonate methyl-monooxygenase reductase component TsaB	1.5.1.-	Toluene-4-sulfonate	NAD+	white
+phenol 2-monooxygenase (NADPH)	1.14.13.7	Catechol	H+	white
+phenol 2-monooxygenase (NADPH)	1.14.13.7	Catechol	NADPH	white
+phenol 2-monooxygenase (NADPH)	1.14.13.7	Catechol	Oxygen	white
+phenol 2-monooxygenase (NADPH)	1.14.13.7	Catechol	Phenol	white
+phenol 2-monooxygenase (NADPH)	1.14.13.7	H+	Catechol	white
+phenol 2-monooxygenase (NADPH)	1.14.13.7	H+	H2O	white
+phenol 2-monooxygenase (NADPH)	1.14.13.7	H+	NADP+	white
+phenol 2-monooxygenase (NADPH)	1.14.13.7	H2O	H+	white
+phenol 2-monooxygenase (NADPH)	1.14.13.7	H2O	NADPH	white
+phenol 2-monooxygenase (NADPH)	1.14.13.7	H2O	Oxygen	white
+phenol 2-monooxygenase (NADPH)	1.14.13.7	H2O	Phenol	white
+phenol 2-monooxygenase (NADPH)	1.14.13.7	NADP+	H+	white
+phenol 2-monooxygenase (NADPH)	1.14.13.7	NADP+	NADPH	white
+phenol 2-monooxygenase (NADPH)	1.14.13.7	NADP+	Oxygen	white
+phenol 2-monooxygenase (NADPH)	1.14.13.7	NADP+	Phenol	white
+phenol 2-monooxygenase (NADPH)	1.14.13.7	NADPH	Catechol	white
+phenol 2-monooxygenase (NADPH)	1.14.13.7	NADPH	H2O	white
+phenol 2-monooxygenase (NADPH)	1.14.13.7	NADPH	NADP+	white
+phenol 2-monooxygenase (NADPH)	1.14.13.7	Oxygen	Catechol	white
+phenol 2-monooxygenase (NADPH)	1.14.13.7	Oxygen	H2O	white
+phenol 2-monooxygenase (NADPH)	1.14.13.7	Oxygen	NADP+	white
+phenol 2-monooxygenase (NADPH)	1.14.13.7	Phenol	Catechol	white
+phenol 2-monooxygenase (NADPH)	1.14.13.7	Phenol	H2O	white
+phenol 2-monooxygenase (NADPH)	1.14.13.7	Phenol	NADP+	white
+phenol/toluene 2-monooxygenase (NADH) P0/A0	1.14.14.172	H+	H2O	white
+phenol/toluene 2-monooxygenase (NADH) P0/A0	1.14.14.172	H+	NAD+	white
+phenol/toluene 2-monooxygenase (NADH) P0/A0	1.14.14.172	H+	o-Cresol	white
+phenol/toluene 2-monooxygenase (NADH) P0/A0	1.14.14.172	H2O	H+	white
+phenol/toluene 2-monooxygenase (NADH) P0/A0	1.14.14.172	H2O	NADH	white
+phenol/toluene 2-monooxygenase (NADH) P0/A0	1.14.14.172	H2O	Oxygen	white
+phenol/toluene 2-monooxygenase (NADH) P0/A0	1.14.14.172	H2O	Toluene	white
+phenol/toluene 2-monooxygenase (NADH) P0/A0	1.14.14.172	NAD+	H+	white
+phenol/toluene 2-monooxygenase (NADH) P0/A0	1.14.14.172	NAD+	NADH	white
+phenol/toluene 2-monooxygenase (NADH) P0/A0	1.14.14.172	NAD+	Oxygen	white
+phenol/toluene 2-monooxygenase (NADH) P0/A0	1.14.14.172	NAD+	Toluene	white
+phenol/toluene 2-monooxygenase (NADH) P0/A0	1.14.14.172	NADH	H2O	white
+phenol/toluene 2-monooxygenase (NADH) P0/A0	1.14.14.172	NADH	NAD+	white
+phenol/toluene 2-monooxygenase (NADH) P0/A0	1.14.14.172	NADH	o-Cresol	white
+phenol/toluene 2-monooxygenase (NADH) P0/A0	1.14.14.172	Oxygen	H2O	white
+phenol/toluene 2-monooxygenase (NADH) P0/A0	1.14.14.172	Oxygen	NAD+	white
+phenol/toluene 2-monooxygenase (NADH) P0/A0	1.14.14.172	Oxygen	o-Cresol	white
+phenol/toluene 2-monooxygenase (NADH) P0/A0	1.14.14.172	Toluene	H2O	white
+phenol/toluene 2-monooxygenase (NADH) P0/A0	1.14.14.172	Toluene	NAD+	white
+phenol/toluene 2-monooxygenase (NADH) P0/A0	1.14.14.172	Toluene	o-Cresol	white
+phenol/toluene 2-monooxygenase (NADH) P0/A0	1.14.14.172	o-Cresol	H+	white
+phenol/toluene 2-monooxygenase (NADH) P0/A0	1.14.14.172	o-Cresol	NADH	white
+phenol/toluene 2-monooxygenase (NADH) P0/A0	1.14.14.172	o-Cresol	Oxygen	white
+phenol/toluene 2-monooxygenase (NADH) P0/A0	1.14.14.172	o-Cresol	Toluene	white
+phenol/toluene 2-monooxygenase (NADH) P1/A1	1.14.13.244	H+	H2O	white
+phenol/toluene 2-monooxygenase (NADH) P1/A1	1.14.13.244	H+	NAD+	white
+phenol/toluene 2-monooxygenase (NADH) P1/A1	1.14.13.244	H+	o-Cresol	white
+phenol/toluene 2-monooxygenase (NADH) P1/A1	1.14.13.244	H2O	H+	white
+phenol/toluene 2-monooxygenase (NADH) P1/A1	1.14.13.244	H2O	NADH	white
+phenol/toluene 2-monooxygenase (NADH) P1/A1	1.14.13.244	H2O	Oxygen	white
+phenol/toluene 2-monooxygenase (NADH) P1/A1	1.14.13.244	H2O	Toluene	white
+phenol/toluene 2-monooxygenase (NADH) P1/A1	1.14.13.244	NAD+	H+	white
+phenol/toluene 2-monooxygenase (NADH) P1/A1	1.14.13.244	NAD+	NADH	white
+phenol/toluene 2-monooxygenase (NADH) P1/A1	1.14.13.244	NAD+	Oxygen	white
+phenol/toluene 2-monooxygenase (NADH) P1/A1	1.14.13.244	NAD+	Toluene	white
+phenol/toluene 2-monooxygenase (NADH) P1/A1	1.14.13.244	NADH	H2O	white
+phenol/toluene 2-monooxygenase (NADH) P1/A1	1.14.13.244	NADH	NAD+	white
+phenol/toluene 2-monooxygenase (NADH) P1/A1	1.14.13.244	NADH	o-Cresol	white
+phenol/toluene 2-monooxygenase (NADH) P1/A1	1.14.13.244	Oxygen	H2O	white
+phenol/toluene 2-monooxygenase (NADH) P1/A1	1.14.13.244	Oxygen	NAD+	white
+phenol/toluene 2-monooxygenase (NADH) P1/A1	1.14.13.244	Oxygen	o-Cresol	white
+phenol/toluene 2-monooxygenase (NADH) P1/A1	1.14.13.244	Toluene	H2O	white
+phenol/toluene 2-monooxygenase (NADH) P1/A1	1.14.13.244	Toluene	NAD+	white
+phenol/toluene 2-monooxygenase (NADH) P1/A1	1.14.13.244	Toluene	o-Cresol	white
+phenol/toluene 2-monooxygenase (NADH) P1/A1	1.14.13.244	o-Cresol	H+	white
+phenol/toluene 2-monooxygenase (NADH) P1/A1	1.14.13.244	o-Cresol	NADH	white
+phenol/toluene 2-monooxygenase (NADH) P1/A1	1.14.13.244	o-Cresol	Oxygen	white
+phenol/toluene 2-monooxygenase (NADH) P1/A1	1.14.13.244	o-Cresol	Toluene	white
+phenol/toluene 2-monooxygenase (NADH) P2/A2	1.14.13.244	H+	H2O	white
+phenol/toluene 2-monooxygenase (NADH) P2/A2	1.14.13.244	H+	NAD+	white
+phenol/toluene 2-monooxygenase (NADH) P2/A2	1.14.13.244	H+	o-Cresol	white
+phenol/toluene 2-monooxygenase (NADH) P2/A2	1.14.13.244	H2O	H+	white
+phenol/toluene 2-monooxygenase (NADH) P2/A2	1.14.13.244	H2O	NADH	white
+phenol/toluene 2-monooxygenase (NADH) P2/A2	1.14.13.244	H2O	Oxygen	white
+phenol/toluene 2-monooxygenase (NADH) P2/A2	1.14.13.244	H2O	Toluene	white
+phenol/toluene 2-monooxygenase (NADH) P2/A2	1.14.13.244	NAD+	H+	white
+phenol/toluene 2-monooxygenase (NADH) P2/A2	1.14.13.244	NAD+	NADH	white
+phenol/toluene 2-monooxygenase (NADH) P2/A2	1.14.13.244	NAD+	Oxygen	white
+phenol/toluene 2-monooxygenase (NADH) P2/A2	1.14.13.244	NAD+	Toluene	white
+phenol/toluene 2-monooxygenase (NADH) P2/A2	1.14.13.244	NADH	H2O	white
+phenol/toluene 2-monooxygenase (NADH) P2/A2	1.14.13.244	NADH	NAD+	white
+phenol/toluene 2-monooxygenase (NADH) P2/A2	1.14.13.244	NADH	o-Cresol	white
+phenol/toluene 2-monooxygenase (NADH) P2/A2	1.14.13.244	Oxygen	H2O	white
+phenol/toluene 2-monooxygenase (NADH) P2/A2	1.14.13.244	Oxygen	NAD+	white
+phenol/toluene 2-monooxygenase (NADH) P2/A2	1.14.13.244	Oxygen	o-Cresol	white
+phenol/toluene 2-monooxygenase (NADH) P2/A2	1.14.13.244	Toluene	H2O	white
+phenol/toluene 2-monooxygenase (NADH) P2/A2	1.14.13.244	Toluene	NAD+	white
+phenol/toluene 2-monooxygenase (NADH) P2/A2	1.14.13.244	Toluene	o-Cresol	white
+phenol/toluene 2-monooxygenase (NADH) P2/A2	1.14.13.244	o-Cresol	H+	white
+phenol/toluene 2-monooxygenase (NADH) P2/A2	1.14.13.244	o-Cresol	NADH	white
+phenol/toluene 2-monooxygenase (NADH) P2/A2	1.14.13.244	o-Cresol	Oxygen	white
+phenol/toluene 2-monooxygenase (NADH) P2/A2	1.14.13.244	o-Cresol	Toluene	white
+phenol/toluene 2-monooxygenase (NADH) P3/A3	1.14.13.244	H+	H2O	white
+phenol/toluene 2-monooxygenase (NADH) P3/A3	1.14.13.244	H+	NAD+	white
+phenol/toluene 2-monooxygenase (NADH) P3/A3	1.14.13.244	H+	o-Cresol	white
+phenol/toluene 2-monooxygenase (NADH) P3/A3	1.14.13.244	H2O	H+	white
+phenol/toluene 2-monooxygenase (NADH) P3/A3	1.14.13.244	H2O	NADH	white
+phenol/toluene 2-monooxygenase (NADH) P3/A3	1.14.13.244	H2O	Oxygen	white
+phenol/toluene 2-monooxygenase (NADH) P3/A3	1.14.13.244	H2O	Toluene	white
+phenol/toluene 2-monooxygenase (NADH) P3/A3	1.14.13.244	NAD+	H+	white
+phenol/toluene 2-monooxygenase (NADH) P3/A3	1.14.13.244	NAD+	NADH	white
+phenol/toluene 2-monooxygenase (NADH) P3/A3	1.14.13.244	NAD+	Oxygen	white
+phenol/toluene 2-monooxygenase (NADH) P3/A3	1.14.13.244	NAD+	Toluene	white
+phenol/toluene 2-monooxygenase (NADH) P3/A3	1.14.13.244	NADH	H2O	white
+phenol/toluene 2-monooxygenase (NADH) P3/A3	1.14.13.244	NADH	NAD+	white
+phenol/toluene 2-monooxygenase (NADH) P3/A3	1.14.13.244	NADH	o-Cresol	white
+phenol/toluene 2-monooxygenase (NADH) P3/A3	1.14.13.244	Oxygen	H2O	white
+phenol/toluene 2-monooxygenase (NADH) P3/A3	1.14.13.244	Oxygen	NAD+	white
+phenol/toluene 2-monooxygenase (NADH) P3/A3	1.14.13.244	Oxygen	o-Cresol	white
+phenol/toluene 2-monooxygenase (NADH) P3/A3	1.14.13.244	Toluene	H2O	white
+phenol/toluene 2-monooxygenase (NADH) P3/A3	1.14.13.244	Toluene	NAD+	white
+phenol/toluene 2-monooxygenase (NADH) P3/A3	1.14.13.244	Toluene	o-Cresol	white
+phenol/toluene 2-monooxygenase (NADH) P3/A3	1.14.13.244	o-Cresol	H+	white
+phenol/toluene 2-monooxygenase (NADH) P3/A3	1.14.13.244	o-Cresol	NADH	white
+phenol/toluene 2-monooxygenase (NADH) P3/A3	1.14.13.244	o-Cresol	Oxygen	white
+phenol/toluene 2-monooxygenase (NADH) P3/A3	1.14.13.244	o-Cresol	Toluene	white
+phenol/toluene 2-monooxygenase (NADH) P4/A4	1.14.13.244	H+	H2O	white
+phenol/toluene 2-monooxygenase (NADH) P4/A4	1.14.13.244	H+	NAD+	white
+phenol/toluene 2-monooxygenase (NADH) P4/A4	1.14.13.244	H+	o-Cresol	white
+phenol/toluene 2-monooxygenase (NADH) P4/A4	1.14.13.244	H2O	H+	white
+phenol/toluene 2-monooxygenase (NADH) P4/A4	1.14.13.244	H2O	NADH	white
+phenol/toluene 2-monooxygenase (NADH) P4/A4	1.14.13.244	H2O	Oxygen	white
+phenol/toluene 2-monooxygenase (NADH) P4/A4	1.14.13.244	H2O	Toluene	white
+phenol/toluene 2-monooxygenase (NADH) P4/A4	1.14.13.244	NAD+	H+	white
+phenol/toluene 2-monooxygenase (NADH) P4/A4	1.14.13.244	NAD+	NADH	white
+phenol/toluene 2-monooxygenase (NADH) P4/A4	1.14.13.244	NAD+	Oxygen	white
+phenol/toluene 2-monooxygenase (NADH) P4/A4	1.14.13.244	NAD+	Toluene	white
+phenol/toluene 2-monooxygenase (NADH) P4/A4	1.14.13.244	NADH	H2O	white
+phenol/toluene 2-monooxygenase (NADH) P4/A4	1.14.13.244	NADH	NAD+	white
+phenol/toluene 2-monooxygenase (NADH) P4/A4	1.14.13.244	NADH	o-Cresol	white
+phenol/toluene 2-monooxygenase (NADH) P4/A4	1.14.13.244	Oxygen	H2O	white
+phenol/toluene 2-monooxygenase (NADH) P4/A4	1.14.13.244	Oxygen	NAD+	white
+phenol/toluene 2-monooxygenase (NADH) P4/A4	1.14.13.244	Oxygen	o-Cresol	white
+phenol/toluene 2-monooxygenase (NADH) P4/A4	1.14.13.244	Toluene	H2O	white
+phenol/toluene 2-monooxygenase (NADH) P4/A4	1.14.13.244	Toluene	NAD+	white
+phenol/toluene 2-monooxygenase (NADH) P4/A4	1.14.13.244	Toluene	o-Cresol	white
+phenol/toluene 2-monooxygenase (NADH) P4/A4	1.14.13.244	o-Cresol	H+	white
+phenol/toluene 2-monooxygenase (NADH) P4/A4	1.14.13.244	o-Cresol	NADH	white
+phenol/toluene 2-monooxygenase (NADH) P4/A4	1.14.13.244	o-Cresol	Oxygen	white
+phenol/toluene 2-monooxygenase (NADH) P4/A4	1.14.13.244	o-Cresol	Toluene	white
+phenol/toluene 2-monooxygenase (NADH) P5/A5	1.14.13.244	H+	H2O	white
+phenol/toluene 2-monooxygenase (NADH) P5/A5	1.14.13.244	H+	NAD+	white
+phenol/toluene 2-monooxygenase (NADH) P5/A5	1.14.13.244	H+	o-Cresol	white
+phenol/toluene 2-monooxygenase (NADH) P5/A5	1.14.13.244	H2O	H+	white
+phenol/toluene 2-monooxygenase (NADH) P5/A5	1.14.13.244	H2O	NADH	white
+phenol/toluene 2-monooxygenase (NADH) P5/A5	1.14.13.244	H2O	Oxygen	white
+phenol/toluene 2-monooxygenase (NADH) P5/A5	1.14.13.244	H2O	Toluene	white
+phenol/toluene 2-monooxygenase (NADH) P5/A5	1.14.13.244	NAD+	H+	white
+phenol/toluene 2-monooxygenase (NADH) P5/A5	1.14.13.244	NAD+	NADH	white
+phenol/toluene 2-monooxygenase (NADH) P5/A5	1.14.13.244	NAD+	Oxygen	white
+phenol/toluene 2-monooxygenase (NADH) P5/A5	1.14.13.244	NAD+	Toluene	white
+phenol/toluene 2-monooxygenase (NADH) P5/A5	1.14.13.244	NADH	H2O	white
+phenol/toluene 2-monooxygenase (NADH) P5/A5	1.14.13.244	NADH	NAD+	white
+phenol/toluene 2-monooxygenase (NADH) P5/A5	1.14.13.244	NADH	o-Cresol	white
+phenol/toluene 2-monooxygenase (NADH) P5/A5	1.14.13.244	Oxygen	H2O	white
+phenol/toluene 2-monooxygenase (NADH) P5/A5	1.14.13.244	Oxygen	NAD+	white
+phenol/toluene 2-monooxygenase (NADH) P5/A5	1.14.13.244	Oxygen	o-Cresol	white
+phenol/toluene 2-monooxygenase (NADH) P5/A5	1.14.13.244	Toluene	H2O	white
+phenol/toluene 2-monooxygenase (NADH) P5/A5	1.14.13.244	Toluene	NAD+	white
+phenol/toluene 2-monooxygenase (NADH) P5/A5	1.14.13.244	Toluene	o-Cresol	white
+phenol/toluene 2-monooxygenase (NADH) P5/A5	1.14.13.244	o-Cresol	H+	white
+phenol/toluene 2-monooxygenase (NADH) P5/A5	1.14.13.244	o-Cresol	NADH	white
+phenol/toluene 2-monooxygenase (NADH) P5/A5	1.14.13.244	o-Cresol	Oxygen	white
+phenol/toluene 2-monooxygenase (NADH) P5/A5	1.14.13.244	o-Cresol	Toluene	white
+toluene methyl-monooxygenase	1.14.15.26	Benzyl alcohol	H+	white
+toluene methyl-monooxygenase	1.14.15.26	Benzyl alcohol	Oxygen	white
+toluene methyl-monooxygenase	1.14.15.26	Benzyl alcohol	Reduced ferredoxin	white
+toluene methyl-monooxygenase	1.14.15.26	Benzyl alcohol	Toluene	white
+toluene methyl-monooxygenase	1.14.15.26	H+	Benzyl alcohol	white
+toluene methyl-monooxygenase	1.14.15.26	H+	H2O	white
+toluene methyl-monooxygenase	1.14.15.26	H+	Oxidized ferredoxin	white
+toluene methyl-monooxygenase	1.14.15.26	H2O	H+	white
+toluene methyl-monooxygenase	1.14.15.26	H2O	Oxygen	white
+toluene methyl-monooxygenase	1.14.15.26	H2O	Reduced ferredoxin	white
+toluene methyl-monooxygenase	1.14.15.26	H2O	Toluene	white
+toluene methyl-monooxygenase	1.14.15.26	Oxidized ferredoxin	H+	white
+toluene methyl-monooxygenase	1.14.15.26	Oxidized ferredoxin	Oxygen	white
+toluene methyl-monooxygenase	1.14.15.26	Oxidized ferredoxin	Reduced ferredoxin	white
+toluene methyl-monooxygenase	1.14.15.26	Oxidized ferredoxin	Toluene	white
+toluene methyl-monooxygenase	1.14.15.26	Oxygen	Benzyl alcohol	white
+toluene methyl-monooxygenase	1.14.15.26	Oxygen	H2O	white
+toluene methyl-monooxygenase	1.14.15.26	Oxygen	Oxidized ferredoxin	white
+toluene methyl-monooxygenase	1.14.15.26	Reduced ferredoxin	Benzyl alcohol	white
+toluene methyl-monooxygenase	1.14.15.26	Reduced ferredoxin	H2O	white
+toluene methyl-monooxygenase	1.14.15.26	Reduced ferredoxin	Oxidized ferredoxin	white
+toluene methyl-monooxygenase	1.14.15.26	Toluene	Benzyl alcohol	white
+toluene methyl-monooxygenase	1.14.15.26	Toluene	H2O	white
+toluene methyl-monooxygenase	1.14.15.26	Toluene	Oxidized ferredoxin	white
+toluene methyl-monooxygenase electron transfer component	1.18.1.3	Benzyl alcohol	H+	white
+toluene methyl-monooxygenase electron transfer component	1.18.1.3	Benzyl alcohol	Oxygen	white
+toluene methyl-monooxygenase electron transfer component	1.18.1.3	Benzyl alcohol	Reduced ferredoxin	white
+toluene methyl-monooxygenase electron transfer component	1.18.1.3	Benzyl alcohol	Toluene	white
+toluene methyl-monooxygenase electron transfer component	1.18.1.3	H+	Benzyl alcohol	white
+toluene methyl-monooxygenase electron transfer component	1.18.1.3	H+	H2O	white
+toluene methyl-monooxygenase electron transfer component	1.18.1.3	H+	Oxidized ferredoxin	white
+toluene methyl-monooxygenase electron transfer component	1.18.1.3	H2O	H+	white
+toluene methyl-monooxygenase electron transfer component	1.18.1.3	H2O	Oxygen	white
+toluene methyl-monooxygenase electron transfer component	1.18.1.3	H2O	Reduced ferredoxin	white
+toluene methyl-monooxygenase electron transfer component	1.18.1.3	H2O	Toluene	white
+toluene methyl-monooxygenase electron transfer component	1.18.1.3	Oxidized ferredoxin	H+	white
+toluene methyl-monooxygenase electron transfer component	1.18.1.3	Oxidized ferredoxin	Oxygen	white
+toluene methyl-monooxygenase electron transfer component	1.18.1.3	Oxidized ferredoxin	Reduced ferredoxin	white
+toluene methyl-monooxygenase electron transfer component	1.18.1.3	Oxidized ferredoxin	Toluene	white
+toluene methyl-monooxygenase electron transfer component	1.18.1.3	Oxygen	Benzyl alcohol	white
+toluene methyl-monooxygenase electron transfer component	1.18.1.3	Oxygen	H2O	white
+toluene methyl-monooxygenase electron transfer component	1.18.1.3	Oxygen	Oxidized ferredoxin	white
+toluene methyl-monooxygenase electron transfer component	1.18.1.3	Reduced ferredoxin	Benzyl alcohol	white
+toluene methyl-monooxygenase electron transfer component	1.18.1.3	Reduced ferredoxin	H2O	white
+toluene methyl-monooxygenase electron transfer component	1.18.1.3	Reduced ferredoxin	Oxidized ferredoxin	white
+toluene methyl-monooxygenase electron transfer component	1.18.1.3	Toluene	Benzyl alcohol	white
+toluene methyl-monooxygenase electron transfer component	1.18.1.3	Toluene	H2O	white
+toluene methyl-monooxygenase electron transfer component	1.18.1.3	Toluene	Oxidized ferredoxin	white
+toluene monooxygenase electron transfer component	1.18.1.3	Benzyl alcohol	H+	green
+toluene monooxygenase electron transfer component	1.18.1.3	Benzyl alcohol	Oxygen	green
+toluene monooxygenase electron transfer component	1.18.1.3	Benzyl alcohol	Reduced ferredoxin	green
+toluene monooxygenase electron transfer component	1.18.1.3	Benzyl alcohol	Toluene	green
+toluene monooxygenase electron transfer component	1.18.1.3	H+	3-Cresol	green
+toluene monooxygenase electron transfer component	1.18.1.3	H+	4-Cresol	green
+toluene monooxygenase electron transfer component	1.18.1.3	H+	H2O	green
+toluene monooxygenase electron transfer component	1.18.1.3	H+	NAD+	green
+toluene monooxygenase electron transfer component	1.18.1.3	H+	NADP+	green
+toluene monooxygenase electron transfer component	1.18.1.3	H2O	H+	green
+toluene monooxygenase electron transfer component	1.18.1.3	H2O	Oxygen	green
+toluene monooxygenase electron transfer component	1.18.1.3	H2O	Reduced ferredoxin	green
+toluene monooxygenase electron transfer component	1.18.1.3	H2O	Toluene	green
+toluene monooxygenase electron transfer component	1.18.1.3	NADH	4-Cresol	green
+toluene monooxygenase electron transfer component	1.18.1.3	NADH	H2O	green
+toluene monooxygenase electron transfer component	1.18.1.3	NADH	NAD+	green
+toluene monooxygenase electron transfer component	1.18.1.3	NADPH	3-Cresol	green
+toluene monooxygenase electron transfer component	1.18.1.3	NADPH	H2O	green
+toluene monooxygenase electron transfer component	1.18.1.3	NADPH	NADP+	green
+toluene monooxygenase electron transfer component	1.18.1.3	Oxidized ferredoxin	H+	green
+toluene monooxygenase electron transfer component	1.18.1.3	Oxidized ferredoxin	Oxygen	green
+toluene monooxygenase electron transfer component	1.18.1.3	Oxidized ferredoxin	Reduced ferredoxin	green
+toluene monooxygenase electron transfer component	1.18.1.3	Oxidized ferredoxin	Toluene	green
+toluene monooxygenase electron transfer component	1.18.1.3	Oxygen	3-Cresol	green
+toluene monooxygenase electron transfer component	1.18.1.3	Oxygen	4-Cresol	green
+toluene monooxygenase electron transfer component	1.18.1.3	Oxygen	H2O	green
+toluene monooxygenase electron transfer component	1.18.1.3	Oxygen	NAD+	green
+toluene monooxygenase electron transfer component	1.18.1.3	Oxygen	NADP+	green
+toluene monooxygenase electron transfer component	1.18.1.3	Toluene	3-Cresol	green
+toluene monooxygenase electron transfer component	1.18.1.3	Toluene	4-Cresol	green
+toluene monooxygenase electron transfer component	1.18.1.3	Toluene	H2O	green
+toluene monooxygenase electron transfer component	1.18.1.3	Toluene	NAD+	green
+toluene monooxygenase electron transfer component	1.18.1.3	Toluene	NADP+	green
+toluene monooxygenase system ferredoxin subunit	1.14.13.236	Benzyl alcohol	H+	green
+toluene monooxygenase system ferredoxin subunit	1.14.13.236	Benzyl alcohol	Oxygen	green
+toluene monooxygenase system ferredoxin subunit	1.14.13.236	Benzyl alcohol	Reduced ferredoxin	green
+toluene monooxygenase system ferredoxin subunit	1.14.13.236	Benzyl alcohol	Toluene	green
+toluene monooxygenase system ferredoxin subunit	1.14.13.236	H+	3-Cresol	green
+toluene monooxygenase system ferredoxin subunit	1.14.13.236	H+	4-Cresol	green
+toluene monooxygenase system ferredoxin subunit	1.14.13.236	H+	H2O	green
+toluene monooxygenase system ferredoxin subunit	1.14.13.236	H+	NAD+	green
+toluene monooxygenase system ferredoxin subunit	1.14.13.236	H+	NADP+	green
+toluene monooxygenase system ferredoxin subunit	1.14.13.236	H2O	H+	green
+toluene monooxygenase system ferredoxin subunit	1.14.13.236	H2O	Oxygen	green
+toluene monooxygenase system ferredoxin subunit	1.14.13.236	H2O	Reduced ferredoxin	green
+toluene monooxygenase system ferredoxin subunit	1.14.13.236	H2O	Toluene	green
+toluene monooxygenase system ferredoxin subunit	1.14.13.236	NADH	4-Cresol	green
+toluene monooxygenase system ferredoxin subunit	1.14.13.236	NADH	H2O	green
+toluene monooxygenase system ferredoxin subunit	1.14.13.236	NADH	NAD+	green
+toluene monooxygenase system ferredoxin subunit	1.14.13.236	NADPH	3-Cresol	green
+toluene monooxygenase system ferredoxin subunit	1.14.13.236	NADPH	H2O	green
+toluene monooxygenase system ferredoxin subunit	1.14.13.236	NADPH	NADP+	green
+toluene monooxygenase system ferredoxin subunit	1.14.13.236	Oxidized ferredoxin	H+	green
+toluene monooxygenase system ferredoxin subunit	1.14.13.236	Oxidized ferredoxin	Oxygen	green
+toluene monooxygenase system ferredoxin subunit	1.14.13.236	Oxidized ferredoxin	Reduced ferredoxin	green
+toluene monooxygenase system ferredoxin subunit	1.14.13.236	Oxidized ferredoxin	Toluene	green
+toluene monooxygenase system ferredoxin subunit	1.14.13.236	Oxygen	3-Cresol	green
+toluene monooxygenase system ferredoxin subunit	1.14.13.236	Oxygen	4-Cresol	green
+toluene monooxygenase system ferredoxin subunit	1.14.13.236	Oxygen	H2O	green
+toluene monooxygenase system ferredoxin subunit	1.14.13.236	Oxygen	NAD+	green
+toluene monooxygenase system ferredoxin subunit	1.14.13.236	Oxygen	NADP+	green
+toluene monooxygenase system ferredoxin subunit	1.14.13.236	Toluene	3-Cresol	green
+toluene monooxygenase system ferredoxin subunit	1.14.13.236	Toluene	4-Cresol	green
+toluene monooxygenase system ferredoxin subunit	1.14.13.236	Toluene	H2O	green
+toluene monooxygenase system ferredoxin subunit	1.14.13.236	Toluene	NAD+	green
+toluene monooxygenase system ferredoxin subunit	1.14.13.236	Toluene	NADP+	green
+toluene monooxygenase system protein A	1.14.13.236	Benzyl alcohol	H+	green
+toluene monooxygenase system protein A	1.14.13.236	Benzyl alcohol	Oxygen	green
+toluene monooxygenase system protein A	1.14.13.236	Benzyl alcohol	Reduced ferredoxin	green
+toluene monooxygenase system protein A	1.14.13.236	Benzyl alcohol	Toluene	green
+toluene monooxygenase system protein A	1.14.13.236	H+	3-Cresol	green
+toluene monooxygenase system protein A	1.14.13.236	H+	4-Cresol	green
+toluene monooxygenase system protein A	1.14.13.236	H+	H2O	green
+toluene monooxygenase system protein A	1.14.13.236	H+	NAD+	green
+toluene monooxygenase system protein A	1.14.13.236	H+	NADP+	green
+toluene monooxygenase system protein A	1.14.13.236	H2O	H+	green
+toluene monooxygenase system protein A	1.14.13.236	H2O	Oxygen	green
+toluene monooxygenase system protein A	1.14.13.236	H2O	Reduced ferredoxin	green
+toluene monooxygenase system protein A	1.14.13.236	H2O	Toluene	green
+toluene monooxygenase system protein A	1.14.13.236	NADH	4-Cresol	green
+toluene monooxygenase system protein A	1.14.13.236	NADH	H2O	green
+toluene monooxygenase system protein A	1.14.13.236	NADH	NAD+	green
+toluene monooxygenase system protein A	1.14.13.236	NADPH	3-Cresol	green
+toluene monooxygenase system protein A	1.14.13.236	NADPH	H2O	green
+toluene monooxygenase system protein A	1.14.13.236	NADPH	NADP+	green
+toluene monooxygenase system protein A	1.14.13.236	Oxidized ferredoxin	H+	green
+toluene monooxygenase system protein A	1.14.13.236	Oxidized ferredoxin	Oxygen	green
+toluene monooxygenase system protein A	1.14.13.236	Oxidized ferredoxin	Reduced ferredoxin	green
+toluene monooxygenase system protein A	1.14.13.236	Oxidized ferredoxin	Toluene	green
+toluene monooxygenase system protein A	1.14.13.236	Oxygen	3-Cresol	green
+toluene monooxygenase system protein A	1.14.13.236	Oxygen	4-Cresol	green
+toluene monooxygenase system protein A	1.14.13.236	Oxygen	H2O	green
+toluene monooxygenase system protein A	1.14.13.236	Oxygen	NAD+	green
+toluene monooxygenase system protein A	1.14.13.236	Oxygen	NADP+	green
+toluene monooxygenase system protein A	1.14.13.236	Toluene	3-Cresol	green
+toluene monooxygenase system protein A	1.14.13.236	Toluene	4-Cresol	green
+toluene monooxygenase system protein A	1.14.13.236	Toluene	H2O	green
+toluene monooxygenase system protein A	1.14.13.236	Toluene	NAD+	green
+toluene monooxygenase system protein A	1.14.13.236	Toluene	NADP+	green
+toluene monooxygenase system protein B	1.14.13.236	Benzyl alcohol	H+	green
+toluene monooxygenase system protein B	1.14.13.236	Benzyl alcohol	Oxygen	green
+toluene monooxygenase system protein B	1.14.13.236	Benzyl alcohol	Reduced ferredoxin	green
+toluene monooxygenase system protein B	1.14.13.236	Benzyl alcohol	Toluene	green
+toluene monooxygenase system protein B	1.14.13.236	H+	3-Cresol	green
+toluene monooxygenase system protein B	1.14.13.236	H+	4-Cresol	green
+toluene monooxygenase system protein B	1.14.13.236	H+	H2O	green
+toluene monooxygenase system protein B	1.14.13.236	H+	NAD+	green
+toluene monooxygenase system protein B	1.14.13.236	H+	NADP+	green
+toluene monooxygenase system protein B	1.14.13.236	H2O	H+	green
+toluene monooxygenase system protein B	1.14.13.236	H2O	Oxygen	green
+toluene monooxygenase system protein B	1.14.13.236	H2O	Reduced ferredoxin	green
+toluene monooxygenase system protein B	1.14.13.236	H2O	Toluene	green
+toluene monooxygenase system protein B	1.14.13.236	NADH	4-Cresol	green
+toluene monooxygenase system protein B	1.14.13.236	NADH	H2O	green
+toluene monooxygenase system protein B	1.14.13.236	NADH	NAD+	green
+toluene monooxygenase system protein B	1.14.13.236	NADPH	3-Cresol	green
+toluene monooxygenase system protein B	1.14.13.236	NADPH	H2O	green
+toluene monooxygenase system protein B	1.14.13.236	NADPH	NADP+	green
+toluene monooxygenase system protein B	1.14.13.236	Oxidized ferredoxin	H+	green
+toluene monooxygenase system protein B	1.14.13.236	Oxidized ferredoxin	Oxygen	green
+toluene monooxygenase system protein B	1.14.13.236	Oxidized ferredoxin	Reduced ferredoxin	green
+toluene monooxygenase system protein B	1.14.13.236	Oxidized ferredoxin	Toluene	green
+toluene monooxygenase system protein B	1.14.13.236	Oxygen	3-Cresol	green
+toluene monooxygenase system protein B	1.14.13.236	Oxygen	4-Cresol	green
+toluene monooxygenase system protein B	1.14.13.236	Oxygen	H2O	green
+toluene monooxygenase system protein B	1.14.13.236	Oxygen	NAD+	green
+toluene monooxygenase system protein B	1.14.13.236	Oxygen	NADP+	green
+toluene monooxygenase system protein B	1.14.13.236	Toluene	3-Cresol	green
+toluene monooxygenase system protein B	1.14.13.236	Toluene	4-Cresol	green
+toluene monooxygenase system protein B	1.14.13.236	Toluene	H2O	green
+toluene monooxygenase system protein B	1.14.13.236	Toluene	NAD+	green
+toluene monooxygenase system protein B	1.14.13.236	Toluene	NADP+	green
+toluene monooxygenase system protein D	1.14.13.236	Benzyl alcohol	H+	green
+toluene monooxygenase system protein D	1.14.13.236	Benzyl alcohol	Oxygen	green
+toluene monooxygenase system protein D	1.14.13.236	Benzyl alcohol	Reduced ferredoxin	green
+toluene monooxygenase system protein D	1.14.13.236	Benzyl alcohol	Toluene	green
+toluene monooxygenase system protein D	1.14.13.236	H+	3-Cresol	green
+toluene monooxygenase system protein D	1.14.13.236	H+	4-Cresol	green
+toluene monooxygenase system protein D	1.14.13.236	H+	H2O	green
+toluene monooxygenase system protein D	1.14.13.236	H+	NAD+	green
+toluene monooxygenase system protein D	1.14.13.236	H+	NADP+	green
+toluene monooxygenase system protein D	1.14.13.236	H2O	H+	green
+toluene monooxygenase system protein D	1.14.13.236	H2O	Oxygen	green
+toluene monooxygenase system protein D	1.14.13.236	H2O	Reduced ferredoxin	green
+toluene monooxygenase system protein D	1.14.13.236	H2O	Toluene	green
+toluene monooxygenase system protein D	1.14.13.236	NADH	4-Cresol	green
+toluene monooxygenase system protein D	1.14.13.236	NADH	H2O	green
+toluene monooxygenase system protein D	1.14.13.236	NADH	NAD+	green
+toluene monooxygenase system protein D	1.14.13.236	NADPH	3-Cresol	green
+toluene monooxygenase system protein D	1.14.13.236	NADPH	H2O	green
+toluene monooxygenase system protein D	1.14.13.236	NADPH	NADP+	green
+toluene monooxygenase system protein D	1.14.13.236	Oxidized ferredoxin	H+	green
+toluene monooxygenase system protein D	1.14.13.236	Oxidized ferredoxin	Oxygen	green
+toluene monooxygenase system protein D	1.14.13.236	Oxidized ferredoxin	Reduced ferredoxin	green
+toluene monooxygenase system protein D	1.14.13.236	Oxidized ferredoxin	Toluene	green
+toluene monooxygenase system protein D	1.14.13.236	Oxygen	3-Cresol	green
+toluene monooxygenase system protein D	1.14.13.236	Oxygen	4-Cresol	green
+toluene monooxygenase system protein D	1.14.13.236	Oxygen	H2O	green
+toluene monooxygenase system protein D	1.14.13.236	Oxygen	NAD+	green
+toluene monooxygenase system protein D	1.14.13.236	Oxygen	NADP+	green
+toluene monooxygenase system protein D	1.14.13.236	Toluene	3-Cresol	green
+toluene monooxygenase system protein D	1.14.13.236	Toluene	4-Cresol	green
+toluene monooxygenase system protein D	1.14.13.236	Toluene	H2O	green
+toluene monooxygenase system protein D	1.14.13.236	Toluene	NAD+	green
+toluene monooxygenase system protein D	1.14.13.236	Toluene	NADP+	green
+toluene monooxygenase system protein E	1.14.13.236	Benzyl alcohol	H+	green
+toluene monooxygenase system protein E	1.14.13.236	Benzyl alcohol	Oxygen	green
+toluene monooxygenase system protein E	1.14.13.236	Benzyl alcohol	Reduced ferredoxin	green
+toluene monooxygenase system protein E	1.14.13.236	Benzyl alcohol	Toluene	green
+toluene monooxygenase system protein E	1.14.13.236	H+	3-Cresol	green
+toluene monooxygenase system protein E	1.14.13.236	H+	4-Cresol	green
+toluene monooxygenase system protein E	1.14.13.236	H+	H2O	green
+toluene monooxygenase system protein E	1.14.13.236	H+	NAD+	green
+toluene monooxygenase system protein E	1.14.13.236	H+	NADP+	green
+toluene monooxygenase system protein E	1.14.13.236	H2O	H+	green
+toluene monooxygenase system protein E	1.14.13.236	H2O	Oxygen	green
+toluene monooxygenase system protein E	1.14.13.236	H2O	Reduced ferredoxin	green
+toluene monooxygenase system protein E	1.14.13.236	H2O	Toluene	green
+toluene monooxygenase system protein E	1.14.13.236	NADH	4-Cresol	green
+toluene monooxygenase system protein E	1.14.13.236	NADH	H2O	green
+toluene monooxygenase system protein E	1.14.13.236	NADH	NAD+	green
+toluene monooxygenase system protein E	1.14.13.236	NADPH	3-Cresol	green
+toluene monooxygenase system protein E	1.14.13.236	NADPH	H2O	green
+toluene monooxygenase system protein E	1.14.13.236	NADPH	NADP+	green
+toluene monooxygenase system protein E	1.14.13.236	Oxidized ferredoxin	H+	green
+toluene monooxygenase system protein E	1.14.13.236	Oxidized ferredoxin	Oxygen	green
+toluene monooxygenase system protein E	1.14.13.236	Oxidized ferredoxin	Reduced ferredoxin	green
+toluene monooxygenase system protein E	1.14.13.236	Oxidized ferredoxin	Toluene	green
+toluene monooxygenase system protein E	1.14.13.236	Oxygen	3-Cresol	green
+toluene monooxygenase system protein E	1.14.13.236	Oxygen	4-Cresol	green
+toluene monooxygenase system protein E	1.14.13.236	Oxygen	H2O	green
+toluene monooxygenase system protein E	1.14.13.236	Oxygen	NAD+	green
+toluene monooxygenase system protein E	1.14.13.236	Oxygen	NADP+	green
+toluene monooxygenase system protein E	1.14.13.236	Toluene	3-Cresol	green
+toluene monooxygenase system protein E	1.14.13.236	Toluene	4-Cresol	green
+toluene monooxygenase system protein E	1.14.13.236	Toluene	H2O	green
+toluene monooxygenase system protein E	1.14.13.236	Toluene	NAD+	green
+toluene monooxygenase system protein E	1.14.13.236	Toluene	NADP+	green

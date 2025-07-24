@@ -1,0 +1,303 @@
+enzyme_name	EC	source	target	color
+2,3-dihydro-2,3-dihydroxybenzoate dehydrogenase	1.3.1.28	(2S,3S)-2,3-Dihydro-2,3-dihydroxybenzoate	2,3-Dihydroxybenzoate	green
+2,3-dihydro-2,3-dihydroxybenzoate dehydrogenase	1.3.1.28	(2S,3S)-2,3-Dihydro-2,3-dihydroxybenzoate	H+	green
+2,3-dihydro-2,3-dihydroxybenzoate dehydrogenase	1.3.1.28	(2S,3S)-2,3-Dihydro-2,3-dihydroxybenzoate	NADH	green
+2,3-dihydro-2,3-dihydroxybenzoate dehydrogenase	1.3.1.28	NAD+	2,3-Dihydroxybenzoate	green
+2,3-dihydro-2,3-dihydroxybenzoate dehydrogenase	1.3.1.28	NAD+	H+	green
+2,3-dihydro-2,3-dihydroxybenzoate dehydrogenase	1.3.1.28	NAD+	NADH	green
+2,3-dihydroxybenzoate---[aryl-carrier protein] ligase	6.3.2.14	2,3-Dihydroxybenzoate	AMP	green
+2,3-dihydroxybenzoate---[aryl-carrier protein] ligase	6.3.2.14	2,3-Dihydroxybenzoate	Diphosphate	green
+2,3-dihydroxybenzoate---[aryl-carrier protein] ligase	6.3.2.14	2,3-Dihydroxybenzoate	Enterochelin	green
+2,3-dihydroxybenzoate---[aryl-carrier protein] ligase	6.3.2.14	ATP	AMP	green
+2,3-dihydroxybenzoate---[aryl-carrier protein] ligase	6.3.2.14	ATP	Diphosphate	green
+2,3-dihydroxybenzoate---[aryl-carrier protein] ligase	6.3.2.14	ATP	Enterochelin	green
+2,3-dihydroxybenzoate---[aryl-carrier protein] ligase	6.3.2.14	L-Serine	AMP	green
+2,3-dihydroxybenzoate---[aryl-carrier protein] ligase	6.3.2.14	L-Serine	Diphosphate	green
+2,3-dihydroxybenzoate---[aryl-carrier protein] ligase	6.3.2.14	L-Serine	Enterochelin	green
+3,4-dihydroxybenzoate---[aryl-carrier protein] ligase	6.2.1.62	(3,4-Dihydroxybenzoyl)adenylate	3,4-Dihydroxybenzoate	white
+3,4-dihydroxybenzoate---[aryl-carrier protein] ligase	6.2.1.62	(3,4-Dihydroxybenzoyl)adenylate	ATP	white
+3,4-dihydroxybenzoate---[aryl-carrier protein] ligase	6.2.1.62	3,4-Dihydroxybenzoate	(3,4-Dihydroxybenzoyl)adenylate	white
+3,4-dihydroxybenzoate---[aryl-carrier protein] ligase	6.2.1.62	3,4-Dihydroxybenzoate	Diphosphate	white
+3,4-dihydroxybenzoate---[aryl-carrier protein] ligase	6.2.1.62	ATP	(3,4-Dihydroxybenzoyl)adenylate	white
+3,4-dihydroxybenzoate---[aryl-carrier protein] ligase	6.2.1.62	ATP	Diphosphate	white
+3,4-dihydroxybenzoate---[aryl-carrier protein] ligase	6.2.1.62	Diphosphate	3,4-Dihydroxybenzoate	white
+3,4-dihydroxybenzoate---[aryl-carrier protein] ligase	6.2.1.62	Diphosphate	ATP	white
+3,4-dihydroxybenzoyl-citryl-spermidine/N-citryl-spermidine--spermidine ligase	6.3.2.-	AMP	ATP	white
+3,4-dihydroxybenzoyl-citryl-spermidine/N-citryl-spermidine--spermidine ligase	6.3.2.-	AMP	N-Citryl-spermidine	white
+3,4-dihydroxybenzoyl-citryl-spermidine/N-citryl-spermidine--spermidine ligase	6.3.2.-	AMP	Spermidine	white
+3,4-dihydroxybenzoyl-citryl-spermidine/N-citryl-spermidine--spermidine ligase	6.3.2.-	ATP	AMP	white
+3,4-dihydroxybenzoyl-citryl-spermidine/N-citryl-spermidine--spermidine ligase	6.3.2.-	ATP	Diphosphate	white
+3,4-dihydroxybenzoyl-citryl-spermidine/N-citryl-spermidine--spermidine ligase	6.3.2.-	ATP	N8,N'8-Citryl-bis(spermidine)	white
+3,4-dihydroxybenzoyl-citryl-spermidine/N-citryl-spermidine--spermidine ligase	6.3.2.-	Diphosphate	ATP	white
+3,4-dihydroxybenzoyl-citryl-spermidine/N-citryl-spermidine--spermidine ligase	6.3.2.-	Diphosphate	N-Citryl-spermidine	white
+3,4-dihydroxybenzoyl-citryl-spermidine/N-citryl-spermidine--spermidine ligase	6.3.2.-	Diphosphate	Spermidine	white
+3,4-dihydroxybenzoyl-citryl-spermidine/N-citryl-spermidine--spermidine ligase	6.3.2.-	N-Citryl-spermidine	AMP	white
+3,4-dihydroxybenzoyl-citryl-spermidine/N-citryl-spermidine--spermidine ligase	6.3.2.-	N-Citryl-spermidine	Diphosphate	white
+3,4-dihydroxybenzoyl-citryl-spermidine/N-citryl-spermidine--spermidine ligase	6.3.2.-	N-Citryl-spermidine	N8,N'8-Citryl-bis(spermidine)	white
+3,4-dihydroxybenzoyl-citryl-spermidine/N-citryl-spermidine--spermidine ligase	6.3.2.-	N8,N'8-Citryl-bis(spermidine)	ATP	white
+3,4-dihydroxybenzoyl-citryl-spermidine/N-citryl-spermidine--spermidine ligase	6.3.2.-	N8,N'8-Citryl-bis(spermidine)	N-Citryl-spermidine	white
+3,4-dihydroxybenzoyl-citryl-spermidine/N-citryl-spermidine--spermidine ligase	6.3.2.-	N8,N'8-Citryl-bis(spermidine)	Spermidine	white
+3,4-dihydroxybenzoyl-citryl-spermidine/N-citryl-spermidine--spermidine ligase	6.3.2.-	Spermidine	AMP	white
+3,4-dihydroxybenzoyl-citryl-spermidine/N-citryl-spermidine--spermidine ligase	6.3.2.-	Spermidine	Diphosphate	white
+3,4-dihydroxybenzoyl-citryl-spermidine/N-citryl-spermidine--spermidine ligase	6.3.2.-	Spermidine	N8,N'8-Citryl-bis(spermidine)	white
+3-dehydroshikimate dehydratase	4.2.1.118	3,4-Dihydroxybenzoate	3-Dehydroshikimate	white
+3-dehydroshikimate dehydratase	4.2.1.118	3-Dehydroshikimate	3,4-Dihydroxybenzoate	white
+3-dehydroshikimate dehydratase	4.2.1.118	3-Dehydroshikimate	H2O	white
+3-dehydroshikimate dehydratase	4.2.1.118	H2O	3-Dehydroshikimate	white
+L-cysteine---[L-cysteinyl-carrier protein] ligase PchE	6.2.1.69	2,3-Dihydroxybenzoate	AMP	white
+L-cysteine---[L-cysteinyl-carrier protein] ligase PchE	6.2.1.69	2,3-Dihydroxybenzoate	Diphosphate	white
+L-cysteine---[L-cysteinyl-carrier protein] ligase PchE	6.2.1.69	2,3-Dihydroxybenzoate	Enterochelin	white
+L-cysteine---[L-cysteinyl-carrier protein] ligase PchE	6.2.1.69	AMP	2,3-Dihydroxybenzoate	white
+L-cysteine---[L-cysteinyl-carrier protein] ligase PchE	6.2.1.69	AMP	ATP	white
+L-cysteine---[L-cysteinyl-carrier protein] ligase PchE	6.2.1.69	AMP	L-Serine	white
+L-cysteine---[L-cysteinyl-carrier protein] ligase PchE	6.2.1.69	ATP	AMP	white
+L-cysteine---[L-cysteinyl-carrier protein] ligase PchE	6.2.1.69	ATP	Diphosphate	white
+L-cysteine---[L-cysteinyl-carrier protein] ligase PchE	6.2.1.69	ATP	Enterochelin	white
+L-cysteine---[L-cysteinyl-carrier protein] ligase PchE	6.2.1.69	Diphosphate	2,3-Dihydroxybenzoate	white
+L-cysteine---[L-cysteinyl-carrier protein] ligase PchE	6.2.1.69	Diphosphate	ATP	white
+L-cysteine---[L-cysteinyl-carrier protein] ligase PchE	6.2.1.69	Diphosphate	L-Serine	white
+L-cysteine---[L-cysteinyl-carrier protein] ligase PchE	6.2.1.69	Enterochelin	2,3-Dihydroxybenzoate	white
+L-cysteine---[L-cysteinyl-carrier protein] ligase PchE	6.2.1.69	Enterochelin	ATP	white
+L-cysteine---[L-cysteinyl-carrier protein] ligase PchE	6.2.1.69	Enterochelin	L-Serine	white
+L-cysteine---[L-cysteinyl-carrier protein] ligase PchE	6.2.1.69	L-Serine	AMP	white
+L-cysteine---[L-cysteinyl-carrier protein] ligase PchE	6.2.1.69	L-Serine	Diphosphate	white
+L-cysteine---[L-cysteinyl-carrier protein] ligase PchE	6.2.1.69	L-Serine	Enterochelin	white
+L-cysteine---[L-cysteinyl-carrier protein] ligase PchF	6.2.1.69	2,3-Dihydroxybenzoate	AMP	white
+L-cysteine---[L-cysteinyl-carrier protein] ligase PchF	6.2.1.69	2,3-Dihydroxybenzoate	Diphosphate	white
+L-cysteine---[L-cysteinyl-carrier protein] ligase PchF	6.2.1.69	2,3-Dihydroxybenzoate	Enterochelin	white
+L-cysteine---[L-cysteinyl-carrier protein] ligase PchF	6.2.1.69	AMP	2,3-Dihydroxybenzoate	white
+L-cysteine---[L-cysteinyl-carrier protein] ligase PchF	6.2.1.69	AMP	ATP	white
+L-cysteine---[L-cysteinyl-carrier protein] ligase PchF	6.2.1.69	AMP	L-Serine	white
+L-cysteine---[L-cysteinyl-carrier protein] ligase PchF	6.2.1.69	ATP	AMP	white
+L-cysteine---[L-cysteinyl-carrier protein] ligase PchF	6.2.1.69	ATP	Diphosphate	white
+L-cysteine---[L-cysteinyl-carrier protein] ligase PchF	6.2.1.69	ATP	Enterochelin	white
+L-cysteine---[L-cysteinyl-carrier protein] ligase PchF	6.2.1.69	Diphosphate	2,3-Dihydroxybenzoate	white
+L-cysteine---[L-cysteinyl-carrier protein] ligase PchF	6.2.1.69	Diphosphate	ATP	white
+L-cysteine---[L-cysteinyl-carrier protein] ligase PchF	6.2.1.69	Diphosphate	L-Serine	white
+L-cysteine---[L-cysteinyl-carrier protein] ligase PchF	6.2.1.69	Enterochelin	2,3-Dihydroxybenzoate	white
+L-cysteine---[L-cysteinyl-carrier protein] ligase PchF	6.2.1.69	Enterochelin	ATP	white
+L-cysteine---[L-cysteinyl-carrier protein] ligase PchF	6.2.1.69	Enterochelin	L-Serine	white
+L-cysteine---[L-cysteinyl-carrier protein] ligase PchF	6.2.1.69	L-Serine	AMP	white
+L-cysteine---[L-cysteinyl-carrier protein] ligase PchF	6.2.1.69	L-Serine	Diphosphate	white
+L-cysteine---[L-cysteinyl-carrier protein] ligase PchF	6.2.1.69	L-Serine	Enterochelin	white
+L-serine---[L-seryl-carrier protein] ligase	6.3.2.14	2,3-Dihydroxybenzoate	AMP	green
+L-serine---[L-seryl-carrier protein] ligase	6.3.2.14	2,3-Dihydroxybenzoate	Diphosphate	green
+L-serine---[L-seryl-carrier protein] ligase	6.3.2.14	2,3-Dihydroxybenzoate	Enterochelin	green
+L-serine---[L-seryl-carrier protein] ligase	6.3.2.14	ATP	AMP	green
+L-serine---[L-seryl-carrier protein] ligase	6.3.2.14	ATP	Diphosphate	green
+L-serine---[L-seryl-carrier protein] ligase	6.3.2.14	ATP	Enterochelin	green
+L-serine---[L-seryl-carrier protein] ligase	6.3.2.14	L-Serine	AMP	green
+L-serine---[L-seryl-carrier protein] ligase	6.3.2.14	L-Serine	Diphosphate	green
+L-serine---[L-seryl-carrier protein] ligase	6.3.2.14	L-Serine	Enterochelin	green
+aminotransferase MxcL	6.3.2.-	(2S,3S)-2,3-Dihydro-2,3-dihydroxybenzoate	H2O	white
+aminotransferase MxcL	6.3.2.-	(2S,3S)-2,3-Dihydro-2,3-dihydroxybenzoate	Isochorismate	white
+aminotransferase MxcL	6.3.2.-	H2O	(2S,3S)-2,3-Dihydro-2,3-dihydroxybenzoate	white
+aminotransferase MxcL	6.3.2.-	H2O	Pyruvate	white
+aminotransferase MxcL	6.3.2.-	Isochorismate	(2S,3S)-2,3-Dihydro-2,3-dihydroxybenzoate	white
+aminotransferase MxcL	6.3.2.-	Isochorismate	Pyruvate	white
+aminotransferase MxcL	6.3.2.-	Pyruvate	H2O	white
+aminotransferase MxcL	6.3.2.-	Pyruvate	Isochorismate	white
+bifunctional isochorismate lyase / aryl carrier protein	3.3.2.1	(2S,3S)-2,3-Dihydro-2,3-dihydroxybenzoate	H2O	white
+bifunctional isochorismate lyase / aryl carrier protein	3.3.2.1	(2S,3S)-2,3-Dihydro-2,3-dihydroxybenzoate	Isochorismate	white
+bifunctional isochorismate lyase / aryl carrier protein	3.3.2.1	H2O	(2S,3S)-2,3-Dihydro-2,3-dihydroxybenzoate	white
+bifunctional isochorismate lyase / aryl carrier protein	3.3.2.1	H2O	Pyruvate	white
+bifunctional isochorismate lyase / aryl carrier protein	3.3.2.1	Isochorismate	(2S,3S)-2,3-Dihydro-2,3-dihydroxybenzoate	white
+bifunctional isochorismate lyase / aryl carrier protein	3.3.2.1	Isochorismate	Pyruvate	white
+bifunctional isochorismate lyase / aryl carrier protein	3.3.2.1	Pyruvate	H2O	white
+bifunctional isochorismate lyase / aryl carrier protein	3.3.2.1	Pyruvate	Isochorismate	white
+enterobactin synthetase component D / holo-[acyl-carrier protein] synthase	6.3.2.14	2,3-Dihydroxybenzoate	AMP	green
+enterobactin synthetase component D / holo-[acyl-carrier protein] synthase	6.3.2.14	2,3-Dihydroxybenzoate	Diphosphate	green
+enterobactin synthetase component D / holo-[acyl-carrier protein] synthase	6.3.2.14	2,3-Dihydroxybenzoate	Enterochelin	green
+enterobactin synthetase component D / holo-[acyl-carrier protein] synthase	6.3.2.14	ATP	AMP	green
+enterobactin synthetase component D / holo-[acyl-carrier protein] synthase	6.3.2.14	ATP	Diphosphate	green
+enterobactin synthetase component D / holo-[acyl-carrier protein] synthase	6.3.2.14	ATP	Enterochelin	green
+enterobactin synthetase component D / holo-[acyl-carrier protein] synthase	6.3.2.14	L-Serine	AMP	green
+enterobactin synthetase component D / holo-[acyl-carrier protein] synthase	6.3.2.14	L-Serine	Diphosphate	green
+enterobactin synthetase component D / holo-[acyl-carrier protein] synthase	6.3.2.14	L-Serine	Enterochelin	green
+isochorismate pyruvate lyase	4.2.99.21	Isochorismate	Pyruvate	white
+isochorismate pyruvate lyase	4.2.99.21	Isochorismate	Salicylate	white
+isochorismate pyruvate lyase	4.2.99.21	Pyruvate	Isochorismate	white
+isochorismate pyruvate lyase	4.2.99.21	Salicylate	Isochorismate	white
+isochorismate synthase	5.4.4.2	Chorismate	Isochorismate	green
+mycobactin lysine-N-oxygenase	3.3.2.1	(2S,3S)-2,3-Dihydro-2,3-dihydroxybenzoate	H2O	white
+mycobactin lysine-N-oxygenase	3.3.2.1	(2S,3S)-2,3-Dihydro-2,3-dihydroxybenzoate	Isochorismate	white
+mycobactin lysine-N-oxygenase	3.3.2.1	H2O	(2S,3S)-2,3-Dihydro-2,3-dihydroxybenzoate	white
+mycobactin lysine-N-oxygenase	3.3.2.1	H2O	Pyruvate	white
+mycobactin lysine-N-oxygenase	3.3.2.1	Isochorismate	(2S,3S)-2,3-Dihydro-2,3-dihydroxybenzoate	white
+mycobactin lysine-N-oxygenase	3.3.2.1	Isochorismate	Pyruvate	white
+mycobactin lysine-N-oxygenase	3.3.2.1	Pyruvate	H2O	white
+mycobactin lysine-N-oxygenase	3.3.2.1	Pyruvate	Isochorismate	white
+mycobactin peptide synthetase MbtE	3.3.2.1	(2S,3S)-2,3-Dihydro-2,3-dihydroxybenzoate	H2O	white
+mycobactin peptide synthetase MbtE	3.3.2.1	(2S,3S)-2,3-Dihydro-2,3-dihydroxybenzoate	Isochorismate	white
+mycobactin peptide synthetase MbtE	3.3.2.1	H2O	(2S,3S)-2,3-Dihydro-2,3-dihydroxybenzoate	white
+mycobactin peptide synthetase MbtE	3.3.2.1	H2O	Pyruvate	white
+mycobactin peptide synthetase MbtE	3.3.2.1	Isochorismate	(2S,3S)-2,3-Dihydro-2,3-dihydroxybenzoate	white
+mycobactin peptide synthetase MbtE	3.3.2.1	Isochorismate	Pyruvate	white
+mycobactin peptide synthetase MbtE	3.3.2.1	Pyruvate	H2O	white
+mycobactin peptide synthetase MbtE	3.3.2.1	Pyruvate	Isochorismate	white
+mycobactin peptide synthetase MbtF	3.3.2.1	(2S,3S)-2,3-Dihydro-2,3-dihydroxybenzoate	H2O	white
+mycobactin peptide synthetase MbtF	3.3.2.1	(2S,3S)-2,3-Dihydro-2,3-dihydroxybenzoate	Isochorismate	white
+mycobactin peptide synthetase MbtF	3.3.2.1	H2O	(2S,3S)-2,3-Dihydro-2,3-dihydroxybenzoate	white
+mycobactin peptide synthetase MbtF	3.3.2.1	H2O	Pyruvate	white
+mycobactin peptide synthetase MbtF	3.3.2.1	Isochorismate	(2S,3S)-2,3-Dihydro-2,3-dihydroxybenzoate	white
+mycobactin peptide synthetase MbtF	3.3.2.1	Isochorismate	Pyruvate	white
+mycobactin peptide synthetase MbtF	3.3.2.1	Pyruvate	H2O	white
+mycobactin peptide synthetase MbtF	3.3.2.1	Pyruvate	Isochorismate	white
+mycobactin phenyloxazoline synthetase	3.3.2.1	(2S,3S)-2,3-Dihydro-2,3-dihydroxybenzoate	H2O	white
+mycobactin phenyloxazoline synthetase	3.3.2.1	(2S,3S)-2,3-Dihydro-2,3-dihydroxybenzoate	Isochorismate	white
+mycobactin phenyloxazoline synthetase	3.3.2.1	H2O	(2S,3S)-2,3-Dihydro-2,3-dihydroxybenzoate	white
+mycobactin phenyloxazoline synthetase	3.3.2.1	H2O	Pyruvate	white
+mycobactin phenyloxazoline synthetase	3.3.2.1	Isochorismate	(2S,3S)-2,3-Dihydro-2,3-dihydroxybenzoate	white
+mycobactin phenyloxazoline synthetase	3.3.2.1	Isochorismate	Pyruvate	white
+mycobactin phenyloxazoline synthetase	3.3.2.1	Pyruvate	H2O	white
+mycobactin phenyloxazoline synthetase	3.3.2.1	Pyruvate	Isochorismate	white
+mycobactin polyketide synthetase MbtC	3.3.2.1	(2S,3S)-2,3-Dihydro-2,3-dihydroxybenzoate	H2O	white
+mycobactin polyketide synthetase MbtC	3.3.2.1	(2S,3S)-2,3-Dihydro-2,3-dihydroxybenzoate	Isochorismate	white
+mycobactin polyketide synthetase MbtC	3.3.2.1	H2O	(2S,3S)-2,3-Dihydro-2,3-dihydroxybenzoate	white
+mycobactin polyketide synthetase MbtC	3.3.2.1	H2O	Pyruvate	white
+mycobactin polyketide synthetase MbtC	3.3.2.1	Isochorismate	(2S,3S)-2,3-Dihydro-2,3-dihydroxybenzoate	white
+mycobactin polyketide synthetase MbtC	3.3.2.1	Isochorismate	Pyruvate	white
+mycobactin polyketide synthetase MbtC	3.3.2.1	Pyruvate	H2O	white
+mycobactin polyketide synthetase MbtC	3.3.2.1	Pyruvate	Isochorismate	white
+mycobactin polyketide synthetase MbtD	3.3.2.1	(2S,3S)-2,3-Dihydro-2,3-dihydroxybenzoate	H2O	white
+mycobactin polyketide synthetase MbtD	3.3.2.1	(2S,3S)-2,3-Dihydro-2,3-dihydroxybenzoate	Isochorismate	white
+mycobactin polyketide synthetase MbtD	3.3.2.1	H2O	(2S,3S)-2,3-Dihydro-2,3-dihydroxybenzoate	white
+mycobactin polyketide synthetase MbtD	3.3.2.1	H2O	Pyruvate	white
+mycobactin polyketide synthetase MbtD	3.3.2.1	Isochorismate	(2S,3S)-2,3-Dihydro-2,3-dihydroxybenzoate	white
+mycobactin polyketide synthetase MbtD	3.3.2.1	Isochorismate	Pyruvate	white
+mycobactin polyketide synthetase MbtD	3.3.2.1	Pyruvate	H2O	white
+mycobactin polyketide synthetase MbtD	3.3.2.1	Pyruvate	Isochorismate	white
+mycobactin salicyl-AMP ligase	6.3.2.-	(2S,3S)-2,3-Dihydro-2,3-dihydroxybenzoate	H2O	white
+mycobactin salicyl-AMP ligase	6.3.2.-	(2S,3S)-2,3-Dihydro-2,3-dihydroxybenzoate	Isochorismate	white
+mycobactin salicyl-AMP ligase	6.3.2.-	H2O	(2S,3S)-2,3-Dihydro-2,3-dihydroxybenzoate	white
+mycobactin salicyl-AMP ligase	6.3.2.-	H2O	Pyruvate	white
+mycobactin salicyl-AMP ligase	6.3.2.-	Isochorismate	(2S,3S)-2,3-Dihydro-2,3-dihydroxybenzoate	white
+mycobactin salicyl-AMP ligase	6.3.2.-	Isochorismate	Pyruvate	white
+mycobactin salicyl-AMP ligase	6.3.2.-	Pyruvate	H2O	white
+mycobactin salicyl-AMP ligase	6.3.2.-	Pyruvate	Isochorismate	white
+nonribosomal peptide synthetase MxcG	6.3.2.-	(2S,3S)-2,3-Dihydro-2,3-dihydroxybenzoate	H2O	white
+nonribosomal peptide synthetase MxcG	6.3.2.-	(2S,3S)-2,3-Dihydro-2,3-dihydroxybenzoate	Isochorismate	white
+nonribosomal peptide synthetase MxcG	6.3.2.-	H2O	(2S,3S)-2,3-Dihydro-2,3-dihydroxybenzoate	white
+nonribosomal peptide synthetase MxcG	6.3.2.-	H2O	Pyruvate	white
+nonribosomal peptide synthetase MxcG	6.3.2.-	Isochorismate	(2S,3S)-2,3-Dihydro-2,3-dihydroxybenzoate	white
+nonribosomal peptide synthetase MxcG	6.3.2.-	Isochorismate	Pyruvate	white
+nonribosomal peptide synthetase MxcG	6.3.2.-	Pyruvate	H2O	white
+nonribosomal peptide synthetase MxcG	6.3.2.-	Pyruvate	Isochorismate	white
+nonribosomal peptide synthetase VibF	6.3.2.-	(2S,3S)-2,3-Dihydro-2,3-dihydroxybenzoate	H2O	white
+nonribosomal peptide synthetase VibF	6.3.2.-	(2S,3S)-2,3-Dihydro-2,3-dihydroxybenzoate	Isochorismate	white
+nonribosomal peptide synthetase VibF	6.3.2.-	H2O	(2S,3S)-2,3-Dihydro-2,3-dihydroxybenzoate	white
+nonribosomal peptide synthetase VibF	6.3.2.-	H2O	Pyruvate	white
+nonribosomal peptide synthetase VibF	6.3.2.-	Isochorismate	(2S,3S)-2,3-Dihydro-2,3-dihydroxybenzoate	white
+nonribosomal peptide synthetase VibF	6.3.2.-	Isochorismate	Pyruvate	white
+nonribosomal peptide synthetase VibF	6.3.2.-	Pyruvate	H2O	white
+nonribosomal peptide synthetase VibF	6.3.2.-	Pyruvate	Isochorismate	white
+petrobactin synthase	2.-.-.-	3,4-Dihydroxybenzoyl-[aryl-carrier protein]	Aryl-carrier protein	white
+petrobactin synthase	2.-.-.-	3,4-Dihydroxybenzoyl-[aryl-carrier protein]	N1-(3,4-Dihydroxybenzoyl)-N8-citryl spermidine	white
+petrobactin synthase	2.-.-.-	Aryl-carrier protein	3,4-Dihydroxybenzoyl-[aryl-carrier protein]	white
+petrobactin synthase	2.-.-.-	Aryl-carrier protein	N-Citryl-spermidine	white
+petrobactin synthase	2.-.-.-	N-Citryl-spermidine	Aryl-carrier protein	white
+petrobactin synthase	2.-.-.-	N-Citryl-spermidine	N1-(3,4-Dihydroxybenzoyl)-N8-citryl spermidine	white
+petrobactin synthase	2.-.-.-	N1-(3,4-Dihydroxybenzoyl)-N8-citryl spermidine	3,4-Dihydroxybenzoyl-[aryl-carrier protein]	white
+petrobactin synthase	2.-.-.-	N1-(3,4-Dihydroxybenzoyl)-N8-citryl spermidine	N-Citryl-spermidine	white
+proofreading thioesterase EntH	5.4.4.2	Isochorismate	Pyruvate	white
+proofreading thioesterase EntH	5.4.4.2	Isochorismate	Salicylate	white
+proofreading thioesterase EntH	5.4.4.2	Pyruvate	Isochorismate	white
+proofreading thioesterase EntH	5.4.4.2	Salicylate	Isochorismate	white
+pyochelin biosynthesis protein PchG	6.2.1.69	2,3-Dihydroxybenzoate	AMP	white
+pyochelin biosynthesis protein PchG	6.2.1.69	2,3-Dihydroxybenzoate	Diphosphate	white
+pyochelin biosynthesis protein PchG	6.2.1.69	2,3-Dihydroxybenzoate	Enterochelin	white
+pyochelin biosynthesis protein PchG	6.2.1.69	AMP	2,3-Dihydroxybenzoate	white
+pyochelin biosynthesis protein PchG	6.2.1.69	AMP	ATP	white
+pyochelin biosynthesis protein PchG	6.2.1.69	AMP	L-Serine	white
+pyochelin biosynthesis protein PchG	6.2.1.69	ATP	AMP	white
+pyochelin biosynthesis protein PchG	6.2.1.69	ATP	Diphosphate	white
+pyochelin biosynthesis protein PchG	6.2.1.69	ATP	Enterochelin	white
+pyochelin biosynthesis protein PchG	6.2.1.69	Diphosphate	2,3-Dihydroxybenzoate	white
+pyochelin biosynthesis protein PchG	6.2.1.69	Diphosphate	ATP	white
+pyochelin biosynthesis protein PchG	6.2.1.69	Diphosphate	L-Serine	white
+pyochelin biosynthesis protein PchG	6.2.1.69	Enterochelin	2,3-Dihydroxybenzoate	white
+pyochelin biosynthesis protein PchG	6.2.1.69	Enterochelin	ATP	white
+pyochelin biosynthesis protein PchG	6.2.1.69	Enterochelin	L-Serine	white
+pyochelin biosynthesis protein PchG	6.2.1.69	L-Serine	AMP	white
+pyochelin biosynthesis protein PchG	6.2.1.69	L-Serine	Diphosphate	white
+pyochelin biosynthesis protein PchG	6.2.1.69	L-Serine	Enterochelin	white
+salicylate synthetase	5.4.4.2	Isochorismate	Pyruvate	white
+salicylate synthetase	5.4.4.2	Isochorismate	Salicylate	white
+salicylate synthetase	5.4.4.2	Pyruvate	Isochorismate	white
+salicylate synthetase	5.4.4.2	Salicylate	Isochorismate	white
+salicylate---[aryl-carrier protein] ligase	6.2.1.61	2,3-Dihydroxybenzoate	AMP	white
+salicylate---[aryl-carrier protein] ligase	6.2.1.61	2,3-Dihydroxybenzoate	Diphosphate	white
+salicylate---[aryl-carrier protein] ligase	6.2.1.61	2,3-Dihydroxybenzoate	Enterochelin	white
+salicylate---[aryl-carrier protein] ligase	6.2.1.61	AMP	2,3-Dihydroxybenzoate	white
+salicylate---[aryl-carrier protein] ligase	6.2.1.61	AMP	ATP	white
+salicylate---[aryl-carrier protein] ligase	6.2.1.61	AMP	L-Serine	white
+salicylate---[aryl-carrier protein] ligase	6.2.1.61	ATP	AMP	white
+salicylate---[aryl-carrier protein] ligase	6.2.1.61	ATP	Diphosphate	white
+salicylate---[aryl-carrier protein] ligase	6.2.1.61	ATP	Enterochelin	white
+salicylate---[aryl-carrier protein] ligase	6.2.1.61	Diphosphate	2,3-Dihydroxybenzoate	white
+salicylate---[aryl-carrier protein] ligase	6.2.1.61	Diphosphate	ATP	white
+salicylate---[aryl-carrier protein] ligase	6.2.1.61	Diphosphate	L-Serine	white
+salicylate---[aryl-carrier protein] ligase	6.2.1.61	Enterochelin	2,3-Dihydroxybenzoate	white
+salicylate---[aryl-carrier protein] ligase	6.2.1.61	Enterochelin	ATP	white
+salicylate---[aryl-carrier protein] ligase	6.2.1.61	Enterochelin	L-Serine	white
+salicylate---[aryl-carrier protein] ligase	6.2.1.61	L-Serine	AMP	white
+salicylate---[aryl-carrier protein] ligase	6.2.1.61	L-Serine	Diphosphate	white
+salicylate---[aryl-carrier protein] ligase	6.2.1.61	L-Serine	Enterochelin	white
+spermidine-citrate ligase	6.3.2.-	AMP	ATP	white
+spermidine-citrate ligase	6.3.2.-	AMP	Citrate	white
+spermidine-citrate ligase	6.3.2.-	AMP	Spermidine	white
+spermidine-citrate ligase	6.3.2.-	ATP	AMP	white
+spermidine-citrate ligase	6.3.2.-	ATP	Diphosphate	white
+spermidine-citrate ligase	6.3.2.-	ATP	N-Citryl-spermidine	white
+spermidine-citrate ligase	6.3.2.-	Citrate	AMP	white
+spermidine-citrate ligase	6.3.2.-	Citrate	Diphosphate	white
+spermidine-citrate ligase	6.3.2.-	Citrate	N-Citryl-spermidine	white
+spermidine-citrate ligase	6.3.2.-	Diphosphate	ATP	white
+spermidine-citrate ligase	6.3.2.-	Diphosphate	Citrate	white
+spermidine-citrate ligase	6.3.2.-	Diphosphate	Spermidine	white
+spermidine-citrate ligase	6.3.2.-	N-Citryl-spermidine	ATP	white
+spermidine-citrate ligase	6.3.2.-	N-Citryl-spermidine	Citrate	white
+spermidine-citrate ligase	6.3.2.-	N-Citryl-spermidine	Spermidine	white
+spermidine-citrate ligase	6.3.2.-	Spermidine	AMP	white
+spermidine-citrate ligase	6.3.2.-	Spermidine	Diphosphate	white
+spermidine-citrate ligase	6.3.2.-	Spermidine	N-Citryl-spermidine	white
+vibriobactin synthetase	6.3.2.-	(2S,3S)-2,3-Dihydro-2,3-dihydroxybenzoate	H2O	white
+vibriobactin synthetase	6.3.2.-	(2S,3S)-2,3-Dihydro-2,3-dihydroxybenzoate	Isochorismate	white
+vibriobactin synthetase	6.3.2.-	H2O	(2S,3S)-2,3-Dihydro-2,3-dihydroxybenzoate	white
+vibriobactin synthetase	6.3.2.-	H2O	Pyruvate	white
+vibriobactin synthetase	6.3.2.-	Isochorismate	(2S,3S)-2,3-Dihydro-2,3-dihydroxybenzoate	white
+vibriobactin synthetase	6.3.2.-	Isochorismate	Pyruvate	white
+vibriobactin synthetase	6.3.2.-	Pyruvate	H2O	white
+vibriobactin synthetase	6.3.2.-	Pyruvate	Isochorismate	white
+yersiniabactin nonribosomal peptide synthetase	6.3.2.-	(2S,3S)-2,3-Dihydro-2,3-dihydroxybenzoate	H2O	white
+yersiniabactin nonribosomal peptide synthetase	6.3.2.-	(2S,3S)-2,3-Dihydro-2,3-dihydroxybenzoate	Isochorismate	white
+yersiniabactin nonribosomal peptide synthetase	6.3.2.-	H2O	(2S,3S)-2,3-Dihydro-2,3-dihydroxybenzoate	white
+yersiniabactin nonribosomal peptide synthetase	6.3.2.-	H2O	Pyruvate	white
+yersiniabactin nonribosomal peptide synthetase	6.3.2.-	Isochorismate	(2S,3S)-2,3-Dihydro-2,3-dihydroxybenzoate	white
+yersiniabactin nonribosomal peptide synthetase	6.3.2.-	Isochorismate	Pyruvate	white
+yersiniabactin nonribosomal peptide synthetase	6.3.2.-	Pyruvate	H2O	white
+yersiniabactin nonribosomal peptide synthetase	6.3.2.-	Pyruvate	Isochorismate	white
+yersiniabactin nonribosomal peptide/polyketide synthase	6.3.2.-	(2S,3S)-2,3-Dihydro-2,3-dihydroxybenzoate	H2O	white
+yersiniabactin nonribosomal peptide/polyketide synthase	6.3.2.-	(2S,3S)-2,3-Dihydro-2,3-dihydroxybenzoate	Isochorismate	white
+yersiniabactin nonribosomal peptide/polyketide synthase	6.3.2.-	H2O	(2S,3S)-2,3-Dihydro-2,3-dihydroxybenzoate	white
+yersiniabactin nonribosomal peptide/polyketide synthase	6.3.2.-	H2O	Pyruvate	white
+yersiniabactin nonribosomal peptide/polyketide synthase	6.3.2.-	Isochorismate	(2S,3S)-2,3-Dihydro-2,3-dihydroxybenzoate	white
+yersiniabactin nonribosomal peptide/polyketide synthase	6.3.2.-	Isochorismate	Pyruvate	white
+yersiniabactin nonribosomal peptide/polyketide synthase	6.3.2.-	Pyruvate	H2O	white
+yersiniabactin nonribosomal peptide/polyketide synthase	6.3.2.-	Pyruvate	Isochorismate	white
+yersiniabactin salicyl-AMP ligase	6.3.2.-	(2S,3S)-2,3-Dihydro-2,3-dihydroxybenzoate	H2O	white
+yersiniabactin salicyl-AMP ligase	6.3.2.-	(2S,3S)-2,3-Dihydro-2,3-dihydroxybenzoate	Isochorismate	white
+yersiniabactin salicyl-AMP ligase	6.3.2.-	H2O	(2S,3S)-2,3-Dihydro-2,3-dihydroxybenzoate	white
+yersiniabactin salicyl-AMP ligase	6.3.2.-	H2O	Pyruvate	white
+yersiniabactin salicyl-AMP ligase	6.3.2.-	Isochorismate	(2S,3S)-2,3-Dihydro-2,3-dihydroxybenzoate	white
+yersiniabactin salicyl-AMP ligase	6.3.2.-	Isochorismate	Pyruvate	white
+yersiniabactin salicyl-AMP ligase	6.3.2.-	Pyruvate	H2O	white
+yersiniabactin salicyl-AMP ligase	6.3.2.-	Pyruvate	Isochorismate	white
+yersiniabactin synthetase, thiazolinyl reductase component	6.3.2.-	(2S,3S)-2,3-Dihydro-2,3-dihydroxybenzoate	H2O	white
+yersiniabactin synthetase, thiazolinyl reductase component	6.3.2.-	(2S,3S)-2,3-Dihydro-2,3-dihydroxybenzoate	Isochorismate	white
+yersiniabactin synthetase, thiazolinyl reductase component	6.3.2.-	H2O	(2S,3S)-2,3-Dihydro-2,3-dihydroxybenzoate	white
+yersiniabactin synthetase, thiazolinyl reductase component	6.3.2.-	H2O	Pyruvate	white
+yersiniabactin synthetase, thiazolinyl reductase component	6.3.2.-	Isochorismate	(2S,3S)-2,3-Dihydro-2,3-dihydroxybenzoate	white
+yersiniabactin synthetase, thiazolinyl reductase component	6.3.2.-	Isochorismate	Pyruvate	white
+yersiniabactin synthetase, thiazolinyl reductase component	6.3.2.-	Pyruvate	H2O	white
+yersiniabactin synthetase, thiazolinyl reductase component	6.3.2.-	Pyruvate	Isochorismate	white
