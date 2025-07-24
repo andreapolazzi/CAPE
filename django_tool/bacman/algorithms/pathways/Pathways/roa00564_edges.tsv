@@ -1,0 +1,784 @@
+enzyme_name	EC	source	target	color
+1-acyl-sn-glycerol-3-phosphate acyltransferase	2.3.1.51	CoA	1-Acyl-sn-glycerol 3-phosphate	green
+1-acyl-sn-glycerol-3-phosphate acyltransferase	2.3.1.51	CoA	Acyl-CoA	green
+1-acyl-sn-glycerol-3-phosphate acyltransferase	2.3.1.51	Phosphatidate	1-Acyl-sn-glycerol 3-phosphate	green
+1-acyl-sn-glycerol-3-phosphate acyltransferase	2.3.1.51	Phosphatidate	Acyl-CoA	green
+1-acylglycerone phosphate reductase	1.1.1.101	1-Acyl-sn-glycerol 3-phosphate	Acylglycerone phosphate	white
+1-acylglycerone phosphate reductase	1.1.1.101	1-Acyl-sn-glycerol 3-phosphate	H+	white
+1-acylglycerone phosphate reductase	1.1.1.101	1-Acyl-sn-glycerol 3-phosphate	NADPH	white
+1-acylglycerone phosphate reductase	1.1.1.101	Acylglycerone phosphate	1-Acyl-sn-glycerol 3-phosphate	white
+1-acylglycerone phosphate reductase	1.1.1.101	Acylglycerone phosphate	NADP+	white
+1-acylglycerone phosphate reductase	1.1.1.101	H+	1-Acyl-sn-glycerol 3-phosphate	white
+1-acylglycerone phosphate reductase	1.1.1.101	H+	NADP+	white
+1-acylglycerone phosphate reductase	1.1.1.101	NADP+	Acylglycerone phosphate	white
+1-acylglycerone phosphate reductase	1.1.1.101	NADP+	H+	white
+1-acylglycerone phosphate reductase	1.1.1.101	NADP+	NADPH	white
+1-acylglycerone phosphate reductase	1.1.1.101	NADPH	1-Acyl-sn-glycerol 3-phosphate	white
+1-acylglycerone phosphate reductase	1.1.1.101	NADPH	NADP+	white
+CDP-2,3-bis-(O-geranylgeranyl)-sn-glycerol synthase	2.7.7.67	2,3-Bis-(O-geranylgeranyl)-sn-glycerol 1-phosphate	CDP-2,3-bis-(O-geranylgeranyl)-sn-glycerol	white
+CDP-2,3-bis-(O-geranylgeranyl)-sn-glycerol synthase	2.7.7.67	2,3-Bis-(O-geranylgeranyl)-sn-glycerol 1-phosphate	Diphosphate	white
+CDP-2,3-bis-(O-geranylgeranyl)-sn-glycerol synthase	2.7.7.67	CDP-2,3-bis-(O-geranylgeranyl)-sn-glycerol	2,3-Bis-(O-geranylgeranyl)-sn-glycerol 1-phosphate	white
+CDP-2,3-bis-(O-geranylgeranyl)-sn-glycerol synthase	2.7.7.67	CDP-2,3-bis-(O-geranylgeranyl)-sn-glycerol	CTP	white
+CDP-2,3-bis-(O-geranylgeranyl)-sn-glycerol synthase	2.7.7.67	CTP	CDP-2,3-bis-(O-geranylgeranyl)-sn-glycerol	white
+CDP-2,3-bis-(O-geranylgeranyl)-sn-glycerol synthase	2.7.7.67	CTP	Diphosphate	white
+CDP-2,3-bis-(O-geranylgeranyl)-sn-glycerol synthase	2.7.7.67	Diphosphate	2,3-Bis-(O-geranylgeranyl)-sn-glycerol 1-phosphate	white
+CDP-2,3-bis-(O-geranylgeranyl)-sn-glycerol synthase	2.7.7.67	Diphosphate	CTP	white
+CDP-diacylglycerol pyrophosphatase	3.6.1.26	CDP-diacylglycerol	CMP	white
+CDP-diacylglycerol pyrophosphatase	3.6.1.26	CDP-diacylglycerol	Phosphatidate	white
+CDP-diacylglycerol pyrophosphatase	3.6.1.26	CMP	CDP-diacylglycerol	white
+CDP-diacylglycerol pyrophosphatase	3.6.1.26	CMP	H2O	white
+CDP-diacylglycerol pyrophosphatase	3.6.1.26	H2O	CMP	white
+CDP-diacylglycerol pyrophosphatase	3.6.1.26	H2O	Phosphatidate	white
+CDP-diacylglycerol pyrophosphatase	3.6.1.26	Phosphatidate	CDP-diacylglycerol	white
+CDP-diacylglycerol pyrophosphatase	3.6.1.26	Phosphatidate	H2O	white
+CDP-diacylglycerol---glycerol-3-phosphate 3-phosphatidyltransferase	2.7.8.5	CDP-diacylglycerol	CMP	green
+CDP-diacylglycerol---glycerol-3-phosphate 3-phosphatidyltransferase	2.7.8.5	CDP-diacylglycerol	Phosphatidylglycerophosphate	green
+CDP-diacylglycerol---glycerol-3-phosphate 3-phosphatidyltransferase	2.7.8.5	sn-Glycerol 3-phosphate	CMP	green
+CDP-diacylglycerol---glycerol-3-phosphate 3-phosphatidyltransferase	2.7.8.5	sn-Glycerol 3-phosphate	Phosphatidylglycerophosphate	green
+CDP-diacylglycerol---serine O-phosphatidyltransferase	2.7.8.8	CDP-diacylglycerol	CMP	green
+CDP-diacylglycerol---serine O-phosphatidyltransferase	2.7.8.8	CDP-diacylglycerol	Phosphatidylserine	green
+CDP-diacylglycerol---serine O-phosphatidyltransferase	2.7.8.8	L-Serine	CMP	green
+CDP-diacylglycerol---serine O-phosphatidyltransferase	2.7.8.8	L-Serine	Phosphatidylserine	green
+CDP-diacylglycerol--inositol 3-phosphatidyltransferase	2.7.8.11	1-Phosphatidyl-D-myo-inositol	CDP-diacylglycerol	white
+CDP-diacylglycerol--inositol 3-phosphatidyltransferase	2.7.8.11	1-Phosphatidyl-D-myo-inositol	myo-Inositol	white
+CDP-diacylglycerol--inositol 3-phosphatidyltransferase	2.7.8.11	CDP-diacylglycerol	1-Phosphatidyl-D-myo-inositol	white
+CDP-diacylglycerol--inositol 3-phosphatidyltransferase	2.7.8.11	CDP-diacylglycerol	CMP	white
+CDP-diacylglycerol--inositol 3-phosphatidyltransferase	2.7.8.11	CMP	CDP-diacylglycerol	white
+CDP-diacylglycerol--inositol 3-phosphatidyltransferase	2.7.8.11	CMP	myo-Inositol	white
+CDP-diacylglycerol--inositol 3-phosphatidyltransferase	2.7.8.11	myo-Inositol	1-Phosphatidyl-D-myo-inositol	white
+CDP-diacylglycerol--inositol 3-phosphatidyltransferase	2.7.8.11	myo-Inositol	CMP	white
+HRAS-like suppressor 3	3.1.1.32	1-Acyl-sn-glycero-3-phosphocholine	H2O	white
+HRAS-like suppressor 3	3.1.1.32	1-Acyl-sn-glycero-3-phosphocholine	Phosphatidylcholine	white
+HRAS-like suppressor 3	3.1.1.32	Fatty acid	H2O	white
+HRAS-like suppressor 3	3.1.1.32	Fatty acid	Phosphatidylcholine	white
+HRAS-like suppressor 3	3.1.1.32	H2O	1-Acyl-sn-glycero-3-phosphocholine	white
+HRAS-like suppressor 3	3.1.1.32	H2O	Fatty acid	white
+HRAS-like suppressor 3	3.1.1.32	Phosphatidylcholine	1-Acyl-sn-glycero-3-phosphocholine	white
+HRAS-like suppressor 3	3.1.1.32	Phosphatidylcholine	Fatty acid	white
+S-adenosylmethionine-diacylglycerol 3-amino-3-carboxypropyl transferase	3.1.1.-	1,2-Diacyl-sn-glycerol	5'-Methylthioadenosine	white
+S-adenosylmethionine-diacylglycerol 3-amino-3-carboxypropyl transferase	3.1.1.-	1,2-Diacyl-sn-glycerol	Diacylglycerylhomoserine	white
+S-adenosylmethionine-diacylglycerol 3-amino-3-carboxypropyl transferase	3.1.1.-	5'-Methylthioadenosine	1,2-Diacyl-sn-glycerol	white
+S-adenosylmethionine-diacylglycerol 3-amino-3-carboxypropyl transferase	3.1.1.-	5'-Methylthioadenosine	S-Adenosyl-L-methionine	white
+S-adenosylmethionine-diacylglycerol 3-amino-3-carboxypropyl transferase	3.1.1.-	Diacylglycerylhomoserine	1,2-Diacyl-sn-glycerol	white
+S-adenosylmethionine-diacylglycerol 3-amino-3-carboxypropyl transferase	3.1.1.-	Diacylglycerylhomoserine	S-Adenosyl-L-methionine	white
+S-adenosylmethionine-diacylglycerol 3-amino-3-carboxypropyl transferase	3.1.1.-	S-Adenosyl-L-methionine	5'-Methylthioadenosine	white
+S-adenosylmethionine-diacylglycerol 3-amino-3-carboxypropyl transferase	3.1.1.-	S-Adenosyl-L-methionine	Diacylglycerylhomoserine	white
+S-adenosylmethionine-diacylgycerolhomoserine-N-methlytransferase	3.1.1.-	Diacylglyceryl-N,N,N-trimethylhomoserine	Diacylglycerylhomoserine	white
+S-adenosylmethionine-diacylgycerolhomoserine-N-methlytransferase	3.1.1.-	Diacylglyceryl-N,N,N-trimethylhomoserine	S-Adenosyl-L-methionine	white
+S-adenosylmethionine-diacylgycerolhomoserine-N-methlytransferase	3.1.1.-	Diacylglycerylhomoserine	Diacylglyceryl-N,N,N-trimethylhomoserine	white
+S-adenosylmethionine-diacylgycerolhomoserine-N-methlytransferase	3.1.1.-	Diacylglycerylhomoserine	S-Adenosyl-L-homocysteine	white
+S-adenosylmethionine-diacylgycerolhomoserine-N-methlytransferase	3.1.1.-	S-Adenosyl-L-homocysteine	Diacylglycerylhomoserine	white
+S-adenosylmethionine-diacylgycerolhomoserine-N-methlytransferase	3.1.1.-	S-Adenosyl-L-homocysteine	S-Adenosyl-L-methionine	white
+S-adenosylmethionine-diacylgycerolhomoserine-N-methlytransferase	3.1.1.-	S-Adenosyl-L-methionine	Diacylglyceryl-N,N,N-trimethylhomoserine	white
+S-adenosylmethionine-diacylgycerolhomoserine-N-methlytransferase	3.1.1.-	S-Adenosyl-L-methionine	S-Adenosyl-L-homocysteine	white
+TAG lipase / steryl ester hydrolase / phospholipase A2 / LPA acyltransferase	3.1.1.3	1-Acyl-sn-glycero-3-phosphocholine	H2O	white
+TAG lipase / steryl ester hydrolase / phospholipase A2 / LPA acyltransferase	3.1.1.3	1-Acyl-sn-glycero-3-phosphocholine	Phosphatidylcholine	white
+TAG lipase / steryl ester hydrolase / phospholipase A2 / LPA acyltransferase	3.1.1.3	Fatty acid	H2O	white
+TAG lipase / steryl ester hydrolase / phospholipase A2 / LPA acyltransferase	3.1.1.3	Fatty acid	Phosphatidylcholine	white
+TAG lipase / steryl ester hydrolase / phospholipase A2 / LPA acyltransferase	3.1.1.3	H2O	1-Acyl-sn-glycero-3-phosphocholine	white
+TAG lipase / steryl ester hydrolase / phospholipase A2 / LPA acyltransferase	3.1.1.3	H2O	Fatty acid	white
+TAG lipase / steryl ester hydrolase / phospholipase A2 / LPA acyltransferase	3.1.1.3	Phosphatidylcholine	1-Acyl-sn-glycero-3-phosphocholine	white
+TAG lipase / steryl ester hydrolase / phospholipase A2 / LPA acyltransferase	3.1.1.3	Phosphatidylcholine	Fatty acid	white
+acetylcholinesterase	3.1.1.7	Acetate	Acetylcholine	white
+acetylcholinesterase	3.1.1.7	Acetate	H2O	white
+acetylcholinesterase	3.1.1.7	Acetylcholine	Acetate	white
+acetylcholinesterase	3.1.1.7	Acetylcholine	Choline	white
+acetylcholinesterase	3.1.1.7	Choline	Acetylcholine	white
+acetylcholinesterase	3.1.1.7	Choline	H2O	white
+acetylcholinesterase	3.1.1.7	H2O	Acetate	white
+acetylcholinesterase	3.1.1.7	H2O	Choline	white
+acyl phosphate:glycerol-3-phosphate acyltransferase	2.3.1.275	1-Acyl-sn-glycerol 3-phosphate	Acyl phosphate	white
+acyl phosphate:glycerol-3-phosphate acyltransferase	2.3.1.275	1-Acyl-sn-glycerol 3-phosphate	sn-Glycerol 3-phosphate	white
+acyl phosphate:glycerol-3-phosphate acyltransferase	2.3.1.275	Acyl phosphate	1-Acyl-sn-glycerol 3-phosphate	white
+acyl phosphate:glycerol-3-phosphate acyltransferase	2.3.1.275	Acyl phosphate	Orthophosphate	white
+acyl phosphate:glycerol-3-phosphate acyltransferase	2.3.1.275	Orthophosphate	Acyl phosphate	white
+acyl phosphate:glycerol-3-phosphate acyltransferase	2.3.1.275	Orthophosphate	sn-Glycerol 3-phosphate	white
+acyl phosphate:glycerol-3-phosphate acyltransferase	2.3.1.275	sn-Glycerol 3-phosphate	1-Acyl-sn-glycerol 3-phosphate	white
+acyl phosphate:glycerol-3-phosphate acyltransferase	2.3.1.275	sn-Glycerol 3-phosphate	Orthophosphate	white
+acyl-[acyl-carrier-protein]-phospholipid O-acyltransferase / long-chain-fatty-acid--[acyl-carrier-protein] ligase	2.3.1.40	AMP	ATP	white
+acyl-[acyl-carrier-protein]-phospholipid O-acyltransferase / long-chain-fatty-acid--[acyl-carrier-protein] ligase	2.3.1.40	AMP	Acyl-carrier protein	white
+acyl-[acyl-carrier-protein]-phospholipid O-acyltransferase / long-chain-fatty-acid--[acyl-carrier-protein] ligase	2.3.1.40	AMP	Long-chain fatty acid	white
+acyl-[acyl-carrier-protein]-phospholipid O-acyltransferase / long-chain-fatty-acid--[acyl-carrier-protein] ligase	2.3.1.40	ATP	AMP	white
+acyl-[acyl-carrier-protein]-phospholipid O-acyltransferase / long-chain-fatty-acid--[acyl-carrier-protein] ligase	2.3.1.40	ATP	Diphosphate	white
+acyl-[acyl-carrier-protein]-phospholipid O-acyltransferase / long-chain-fatty-acid--[acyl-carrier-protein] ligase	2.3.1.40	ATP	Long-chain acyl-[acyl-carrier protein]	white
+acyl-[acyl-carrier-protein]-phospholipid O-acyltransferase / long-chain-fatty-acid--[acyl-carrier-protein] ligase	2.3.1.40	Acyl-carrier protein	AMP	white
+acyl-[acyl-carrier-protein]-phospholipid O-acyltransferase / long-chain-fatty-acid--[acyl-carrier-protein] ligase	2.3.1.40	Acyl-carrier protein	Diphosphate	white
+acyl-[acyl-carrier-protein]-phospholipid O-acyltransferase / long-chain-fatty-acid--[acyl-carrier-protein] ligase	2.3.1.40	Acyl-carrier protein	Long-chain acyl-[acyl-carrier protein]	white
+acyl-[acyl-carrier-protein]-phospholipid O-acyltransferase / long-chain-fatty-acid--[acyl-carrier-protein] ligase	2.3.1.40	Diphosphate	ATP	white
+acyl-[acyl-carrier-protein]-phospholipid O-acyltransferase / long-chain-fatty-acid--[acyl-carrier-protein] ligase	2.3.1.40	Diphosphate	Acyl-carrier protein	white
+acyl-[acyl-carrier-protein]-phospholipid O-acyltransferase / long-chain-fatty-acid--[acyl-carrier-protein] ligase	2.3.1.40	Diphosphate	Long-chain fatty acid	white
+acyl-[acyl-carrier-protein]-phospholipid O-acyltransferase / long-chain-fatty-acid--[acyl-carrier-protein] ligase	2.3.1.40	Long-chain acyl-[acyl-carrier protein]	ATP	white
+acyl-[acyl-carrier-protein]-phospholipid O-acyltransferase / long-chain-fatty-acid--[acyl-carrier-protein] ligase	2.3.1.40	Long-chain acyl-[acyl-carrier protein]	Acyl-carrier protein	white
+acyl-[acyl-carrier-protein]-phospholipid O-acyltransferase / long-chain-fatty-acid--[acyl-carrier-protein] ligase	2.3.1.40	Long-chain acyl-[acyl-carrier protein]	Long-chain fatty acid	white
+acyl-[acyl-carrier-protein]-phospholipid O-acyltransferase / long-chain-fatty-acid--[acyl-carrier-protein] ligase	2.3.1.40	Long-chain fatty acid	AMP	white
+acyl-[acyl-carrier-protein]-phospholipid O-acyltransferase / long-chain-fatty-acid--[acyl-carrier-protein] ligase	2.3.1.40	Long-chain fatty acid	Diphosphate	white
+acyl-[acyl-carrier-protein]-phospholipid O-acyltransferase / long-chain-fatty-acid--[acyl-carrier-protein] ligase	2.3.1.40	Long-chain fatty acid	Long-chain acyl-[acyl-carrier protein]	white
+alpha-glycerophosphate oxidase	1.1.3.21	Glycerone phosphate	Oxygen	white
+alpha-glycerophosphate oxidase	1.1.3.21	Glycerone phosphate	sn-Glycerol 3-phosphate	white
+alpha-glycerophosphate oxidase	1.1.3.21	Hydrogen peroxide	Oxygen	white
+alpha-glycerophosphate oxidase	1.1.3.21	Hydrogen peroxide	sn-Glycerol 3-phosphate	white
+alpha-glycerophosphate oxidase	1.1.3.21	Oxygen	Glycerone phosphate	white
+alpha-glycerophosphate oxidase	1.1.3.21	Oxygen	Hydrogen peroxide	white
+alpha-glycerophosphate oxidase	1.1.3.21	sn-Glycerol 3-phosphate	Glycerone phosphate	white
+alpha-glycerophosphate oxidase	1.1.3.21	sn-Glycerol 3-phosphate	Hydrogen peroxide	white
+archaetidylserine synthase	2.7.8.38	2,3-Bis-(O-geranylgeranyl)-sn-glycero-1-phospho-L-serine	CDP-2,3-bis-(O-geranylgeranyl)-sn-glycerol	white
+archaetidylserine synthase	2.7.8.38	2,3-Bis-(O-geranylgeranyl)-sn-glycero-1-phospho-L-serine	L-Serine	white
+archaetidylserine synthase	2.7.8.38	CDP-2,3-bis-(O-geranylgeranyl)-sn-glycerol	2,3-Bis-(O-geranylgeranyl)-sn-glycero-1-phospho-L-serine	white
+archaetidylserine synthase	2.7.8.38	CDP-2,3-bis-(O-geranylgeranyl)-sn-glycerol	CMP	white
+archaetidylserine synthase	2.7.8.38	CMP	CDP-2,3-bis-(O-geranylgeranyl)-sn-glycerol	white
+archaetidylserine synthase	2.7.8.38	CMP	L-Serine	white
+archaetidylserine synthase	2.7.8.38	L-Serine	2,3-Bis-(O-geranylgeranyl)-sn-glycero-1-phospho-L-serine	white
+archaetidylserine synthase	2.7.8.38	L-Serine	CMP	white
+betaine lipid synthase	3.1.1.-	1,2-Diacyl-sn-glycerol	5'-Methylthioadenosine	white
+betaine lipid synthase	3.1.1.-	1,2-Diacyl-sn-glycerol	Diacylglycerylhomoserine	white
+betaine lipid synthase	3.1.1.-	5'-Methylthioadenosine	1,2-Diacyl-sn-glycerol	white
+betaine lipid synthase	3.1.1.-	5'-Methylthioadenosine	S-Adenosyl-L-methionine	white
+betaine lipid synthase	3.1.1.-	Diacylglycerylhomoserine	1,2-Diacyl-sn-glycerol	white
+betaine lipid synthase	3.1.1.-	Diacylglycerylhomoserine	S-Adenosyl-L-methionine	white
+betaine lipid synthase	3.1.1.-	S-Adenosyl-L-methionine	5'-Methylthioadenosine	white
+betaine lipid synthase	3.1.1.-	S-Adenosyl-L-methionine	Diacylglycerylhomoserine	white
+cGAMP-activated phospholipase	3.1.1.32	2-Acyl-sn-glycero-3-phosphocholine	H2O	white
+cGAMP-activated phospholipase	3.1.1.32	2-Acyl-sn-glycero-3-phosphocholine	Phosphatidylcholine	white
+cGAMP-activated phospholipase	3.1.1.32	Fatty acid	H2O	white
+cGAMP-activated phospholipase	3.1.1.32	Fatty acid	Phosphatidylcholine	white
+cGAMP-activated phospholipase	3.1.1.32	H2O	2-Acyl-sn-glycero-3-phosphocholine	white
+cGAMP-activated phospholipase	3.1.1.32	H2O	Fatty acid	white
+cGAMP-activated phospholipase	3.1.1.32	Phosphatidylcholine	2-Acyl-sn-glycero-3-phosphocholine	white
+cGAMP-activated phospholipase	3.1.1.32	Phosphatidylcholine	Fatty acid	white
+calcium-independent phospholipase A2	3.1.1.4	1-Acyl-sn-glycero-3-phosphocholine	H2O	white
+calcium-independent phospholipase A2	3.1.1.4	1-Acyl-sn-glycero-3-phosphocholine	Phosphatidylcholine	white
+calcium-independent phospholipase A2	3.1.1.4	Fatty acid	H2O	white
+calcium-independent phospholipase A2	3.1.1.4	Fatty acid	Phosphatidylcholine	white
+calcium-independent phospholipase A2	3.1.1.4	H2O	1-Acyl-sn-glycero-3-phosphocholine	white
+calcium-independent phospholipase A2	3.1.1.4	H2O	Fatty acid	white
+calcium-independent phospholipase A2	3.1.1.4	Phosphatidylcholine	1-Acyl-sn-glycero-3-phosphocholine	white
+calcium-independent phospholipase A2	3.1.1.4	Phosphatidylcholine	Fatty acid	white
+cardiolipin synthase (CMP-forming)	2.7.8.41	CDP-diacylglycerol	CMP	green
+cardiolipin synthase (CMP-forming)	2.7.8.41	CDP-diacylglycerol	Cardiolipin	green
+cardiolipin synthase (CMP-forming)	2.7.8.41	Phosphatidylglycerol	CMP	green
+cardiolipin synthase (CMP-forming)	2.7.8.41	Phosphatidylglycerol	Cardiolipin	green
+cardiolipin synthase A/B	2.7.8.-	Cardiolipin	Phosphatidylglycerol	white
+cardiolipin synthase A/B	2.7.8.-	Glycerol	Phosphatidylglycerol	white
+cardiolipin synthase A/B	2.7.8.-	Phosphatidylglycerol	Cardiolipin	white
+cardiolipin synthase A/B	2.7.8.-	Phosphatidylglycerol	Glycerol	white
+cardiolipin synthase C	2.7.8.-	Cardiolipin	Phosphatidylethanolamine	white
+cardiolipin synthase C	2.7.8.-	Cardiolipin	Phosphatidylglycerol	white
+cardiolipin synthase C	2.7.8.-	Ethanolamine	Phosphatidylethanolamine	white
+cardiolipin synthase C	2.7.8.-	Ethanolamine	Phosphatidylglycerol	white
+cardiolipin synthase C	2.7.8.-	Phosphatidylethanolamine	Cardiolipin	white
+cardiolipin synthase C	2.7.8.-	Phosphatidylethanolamine	Ethanolamine	white
+cardiolipin synthase C	2.7.8.-	Phosphatidylglycerol	Cardiolipin	white
+cardiolipin synthase C	2.7.8.-	Phosphatidylglycerol	Ethanolamine	white
+cardiolipin-specific phospholipase	3.1.1.-	Cardiolipin	Fatty acid	white
+cardiolipin-specific phospholipase	3.1.1.-	Cardiolipin	Monolysocardiolipin	white
+cardiolipin-specific phospholipase	3.1.1.-	Fatty acid	Cardiolipin	white
+cardiolipin-specific phospholipase	3.1.1.-	Fatty acid	H2O	white
+cardiolipin-specific phospholipase	3.1.1.-	H2O	Fatty acid	white
+cardiolipin-specific phospholipase	3.1.1.-	H2O	Monolysocardiolipin	white
+cardiolipin-specific phospholipase	3.1.1.-	Monolysocardiolipin	Cardiolipin	white
+cardiolipin-specific phospholipase	3.1.1.-	Monolysocardiolipin	H2O	white
+ceramide phosphoethanolamine synthase / phosphatidylethanolamine phospholipase C	2.7.8.48	1,2-Diacyl-sn-glycerol	H2O	white
+ceramide phosphoethanolamine synthase / phosphatidylethanolamine phospholipase C	2.7.8.48	1,2-Diacyl-sn-glycerol	Phosphatidylethanolamine	white
+ceramide phosphoethanolamine synthase / phosphatidylethanolamine phospholipase C	2.7.8.48	Ethanolamine phosphate	H2O	white
+ceramide phosphoethanolamine synthase / phosphatidylethanolamine phospholipase C	2.7.8.48	Ethanolamine phosphate	Phosphatidylethanolamine	white
+ceramide phosphoethanolamine synthase / phosphatidylethanolamine phospholipase C	2.7.8.48	H2O	1,2-Diacyl-sn-glycerol	white
+ceramide phosphoethanolamine synthase / phosphatidylethanolamine phospholipase C	2.7.8.48	H2O	Ethanolamine phosphate	white
+ceramide phosphoethanolamine synthase / phosphatidylethanolamine phospholipase C	2.7.8.48	Phosphatidylethanolamine	1,2-Diacyl-sn-glycerol	white
+ceramide phosphoethanolamine synthase / phosphatidylethanolamine phospholipase C	2.7.8.48	Phosphatidylethanolamine	Ethanolamine phosphate	white
+choline O-acetyltransferase	2.3.1.6	Acetyl-CoA	Acetylcholine	white
+choline O-acetyltransferase	2.3.1.6	Acetyl-CoA	CoA	white
+choline O-acetyltransferase	2.3.1.6	Acetylcholine	Acetyl-CoA	white
+choline O-acetyltransferase	2.3.1.6	Acetylcholine	Choline	white
+choline O-acetyltransferase	2.3.1.6	Choline	Acetylcholine	white
+choline O-acetyltransferase	2.3.1.6	Choline	CoA	white
+choline O-acetyltransferase	2.3.1.6	CoA	Acetyl-CoA	white
+choline O-acetyltransferase	2.3.1.6	CoA	Choline	white
+choline kinase	2.7.1.32	ADP	ATP	white
+choline kinase	2.7.1.32	ADP	Choline	white
+choline kinase	2.7.1.32	ATP	ADP	white
+choline kinase	2.7.1.32	ATP	Choline phosphate	white
+choline kinase	2.7.1.32	Choline	ADP	white
+choline kinase	2.7.1.32	Choline	Choline phosphate	white
+choline kinase	2.7.1.32	Choline phosphate	ATP	white
+choline kinase	2.7.1.32	Choline phosphate	Choline	white
+choline-phosphate cytidylyltransferase	2.7.7.15	CDP-choline	CTP	white
+choline-phosphate cytidylyltransferase	2.7.7.15	CDP-choline	Choline phosphate	white
+choline-phosphate cytidylyltransferase	2.7.7.15	CTP	CDP-choline	white
+choline-phosphate cytidylyltransferase	2.7.7.15	CTP	Diphosphate	white
+choline-phosphate cytidylyltransferase	2.7.7.15	Choline phosphate	CDP-choline	white
+choline-phosphate cytidylyltransferase	2.7.7.15	Choline phosphate	Diphosphate	white
+choline-phosphate cytidylyltransferase	2.7.7.15	Diphosphate	CTP	white
+choline-phosphate cytidylyltransferase	2.7.7.15	Diphosphate	Choline phosphate	white
+choline/ethanolamine kinase	2.7.1.32	ADP	ATP	white
+choline/ethanolamine kinase	2.7.1.32	ADP	Choline	white
+choline/ethanolamine kinase	2.7.1.32	ATP	ADP	white
+choline/ethanolamine kinase	2.7.1.32	ATP	Choline phosphate	white
+choline/ethanolamine kinase	2.7.1.32	Choline	ADP	white
+choline/ethanolamine kinase	2.7.1.32	Choline	Choline phosphate	white
+choline/ethanolamine kinase	2.7.1.32	Choline phosphate	ATP	white
+choline/ethanolamine kinase	2.7.1.32	Choline phosphate	Choline	white
+choline/ethanolamine phosphotransferase	2.7.8.1	1,2-Diacyl-sn-glycerol	CMP	white
+choline/ethanolamine phosphotransferase	2.7.8.1	1,2-Diacyl-sn-glycerol	Phosphatidylcholine	white
+choline/ethanolamine phosphotransferase	2.7.8.1	CDP-choline	CMP	white
+choline/ethanolamine phosphotransferase	2.7.8.1	CDP-choline	Phosphatidylcholine	white
+choline/ethanolamine phosphotransferase	2.7.8.1	CMP	1,2-Diacyl-sn-glycerol	white
+choline/ethanolamine phosphotransferase	2.7.8.1	CMP	CDP-choline	white
+choline/ethanolamine phosphotransferase	2.7.8.1	Phosphatidylcholine	1,2-Diacyl-sn-glycerol	white
+choline/ethanolamine phosphotransferase	2.7.8.1	Phosphatidylcholine	CDP-choline	white
+cytosolic phospholipase A2	3.1.1.4	1-Acyl-sn-glycero-3-phosphocholine	H2O	white
+cytosolic phospholipase A2	3.1.1.4	1-Acyl-sn-glycero-3-phosphocholine	Phosphatidylcholine	white
+cytosolic phospholipase A2	3.1.1.4	Fatty acid	H2O	white
+cytosolic phospholipase A2	3.1.1.4	Fatty acid	Phosphatidylcholine	white
+cytosolic phospholipase A2	3.1.1.4	H2O	1-Acyl-sn-glycero-3-phosphocholine	white
+cytosolic phospholipase A2	3.1.1.4	H2O	Fatty acid	white
+cytosolic phospholipase A2	3.1.1.4	Phosphatidylcholine	1-Acyl-sn-glycero-3-phosphocholine	white
+cytosolic phospholipase A2	3.1.1.4	Phosphatidylcholine	Fatty acid	white
+diacylglycerol cholinephosphotransferase	2.7.8.2	1,2-Diacyl-sn-glycerol	CMP	white
+diacylglycerol cholinephosphotransferase	2.7.8.2	1,2-Diacyl-sn-glycerol	Phosphatidylcholine	white
+diacylglycerol cholinephosphotransferase	2.7.8.2	CDP-choline	CMP	white
+diacylglycerol cholinephosphotransferase	2.7.8.2	CDP-choline	Phosphatidylcholine	white
+diacylglycerol cholinephosphotransferase	2.7.8.2	CMP	1,2-Diacyl-sn-glycerol	white
+diacylglycerol cholinephosphotransferase	2.7.8.2	CMP	CDP-choline	white
+diacylglycerol cholinephosphotransferase	2.7.8.2	Phosphatidylcholine	1,2-Diacyl-sn-glycerol	white
+diacylglycerol cholinephosphotransferase	2.7.8.2	Phosphatidylcholine	CDP-choline	white
+diacylglycerol diphosphate phosphatase / phosphatidate phosphatase	3.6.1.75	1,2-Diacyl-sn-glycerol	H2O	white
+diacylglycerol diphosphate phosphatase / phosphatidate phosphatase	3.6.1.75	1,2-Diacyl-sn-glycerol	Phosphatidate	white
+diacylglycerol diphosphate phosphatase / phosphatidate phosphatase	3.6.1.75	H2O	1,2-Diacyl-sn-glycerol	white
+diacylglycerol diphosphate phosphatase / phosphatidate phosphatase	3.6.1.75	H2O	Orthophosphate	white
+diacylglycerol diphosphate phosphatase / phosphatidate phosphatase	3.6.1.75	Orthophosphate	H2O	white
+diacylglycerol diphosphate phosphatase / phosphatidate phosphatase	3.6.1.75	Orthophosphate	Phosphatidate	white
+diacylglycerol diphosphate phosphatase / phosphatidate phosphatase	3.6.1.75	Phosphatidate	1,2-Diacyl-sn-glycerol	white
+diacylglycerol diphosphate phosphatase / phosphatidate phosphatase	3.6.1.75	Phosphatidate	Orthophosphate	white
+diacylglycerol kinase (ATP)	2.7.1.107	1,2-Diacyl-sn-glycerol	ADP	green
+diacylglycerol kinase (ATP)	2.7.1.107	1,2-Diacyl-sn-glycerol	Phosphatidate	green
+diacylglycerol kinase (ATP)	2.7.1.107	ATP	ADP	green
+diacylglycerol kinase (ATP)	2.7.1.107	ATP	Phosphatidate	green
+diacylglycerol kinase (CTP)	2.7.1.174	1,2-Diacyl-sn-glycerol	CDP	white
+diacylglycerol kinase (CTP)	2.7.1.174	1,2-Diacyl-sn-glycerol	Phosphatidate	white
+diacylglycerol kinase (CTP)	2.7.1.174	CDP	1,2-Diacyl-sn-glycerol	white
+diacylglycerol kinase (CTP)	2.7.1.174	CDP	CTP	white
+diacylglycerol kinase (CTP)	2.7.1.174	CTP	CDP	white
+diacylglycerol kinase (CTP)	2.7.1.174	CTP	Phosphatidate	white
+diacylglycerol kinase (CTP)	2.7.1.174	Phosphatidate	1,2-Diacyl-sn-glycerol	white
+diacylglycerol kinase (CTP)	2.7.1.174	Phosphatidate	CTP	white
+digeranylgeranylglycerophospholipid reductase	1.3.1.101	2,3-Bis-(O-geranylgeranyl)-sn-glycerol 1-phosphate	2,3-Bis-(O-phytanyl)-sn-glycerol 1-phosphate	white
+digeranylgeranylglycerophospholipid reductase	1.3.1.101	2,3-Bis-(O-geranylgeranyl)-sn-glycerol 1-phosphate	NAD+	white
+digeranylgeranylglycerophospholipid reductase	1.3.1.101	2,3-Bis-(O-phytanyl)-sn-glycerol 1-phosphate	2,3-Bis-(O-geranylgeranyl)-sn-glycerol 1-phosphate	white
+digeranylgeranylglycerophospholipid reductase	1.3.1.101	2,3-Bis-(O-phytanyl)-sn-glycerol 1-phosphate	H+	white
+digeranylgeranylglycerophospholipid reductase	1.3.1.101	2,3-Bis-(O-phytanyl)-sn-glycerol 1-phosphate	NADH	white
+digeranylgeranylglycerophospholipid reductase	1.3.1.101	H+	2,3-Bis-(O-phytanyl)-sn-glycerol 1-phosphate	white
+digeranylgeranylglycerophospholipid reductase	1.3.1.101	H+	NAD+	white
+digeranylgeranylglycerophospholipid reductase	1.3.1.101	NAD+	2,3-Bis-(O-geranylgeranyl)-sn-glycerol 1-phosphate	white
+digeranylgeranylglycerophospholipid reductase	1.3.1.101	NAD+	H+	white
+digeranylgeranylglycerophospholipid reductase	1.3.1.101	NAD+	NADH	white
+digeranylgeranylglycerophospholipid reductase	1.3.1.101	NADH	2,3-Bis-(O-phytanyl)-sn-glycerol 1-phosphate	white
+digeranylgeranylglycerophospholipid reductase	1.3.1.101	NADH	NAD+	white
+ethanolamine ammonia-lyase large subunit	4.3.1.7	Acetaldehyde	Ethanolamine	green
+ethanolamine ammonia-lyase large subunit	4.3.1.7	Ammonia	Ethanolamine	green
+ethanolamine ammonia-lyase large subunit	4.3.1.7	Ethanolamine	Acetaldehyde	green
+ethanolamine ammonia-lyase large subunit	4.3.1.7	Ethanolamine	Ammonia	green
+ethanolamine ammonia-lyase small subunit	4.3.1.7	Acetaldehyde	Ethanolamine	green
+ethanolamine ammonia-lyase small subunit	4.3.1.7	Ammonia	Ethanolamine	green
+ethanolamine ammonia-lyase small subunit	4.3.1.7	Ethanolamine	Acetaldehyde	green
+ethanolamine ammonia-lyase small subunit	4.3.1.7	Ethanolamine	Ammonia	green
+ethanolamine kinase	2.7.1.82	ADP	ATP	white
+ethanolamine kinase	2.7.1.82	ADP	Ethanolamine	white
+ethanolamine kinase	2.7.1.82	ATP	ADP	white
+ethanolamine kinase	2.7.1.82	ATP	Ethanolamine phosphate	white
+ethanolamine kinase	2.7.1.82	Ethanolamine	ADP	white
+ethanolamine kinase	2.7.1.82	Ethanolamine	Ethanolamine phosphate	white
+ethanolamine kinase	2.7.1.82	Ethanolamine phosphate	ATP	white
+ethanolamine kinase	2.7.1.82	Ethanolamine phosphate	Ethanolamine	white
+ethanolamine-phosphate cytidylyltransferase	2.7.7.14	CDP-ethanolamine	CTP	white
+ethanolamine-phosphate cytidylyltransferase	2.7.7.14	CDP-ethanolamine	Ethanolamine phosphate	white
+ethanolamine-phosphate cytidylyltransferase	2.7.7.14	CTP	CDP-ethanolamine	white
+ethanolamine-phosphate cytidylyltransferase	2.7.7.14	CTP	Diphosphate	white
+ethanolamine-phosphate cytidylyltransferase	2.7.7.14	Diphosphate	CTP	white
+ethanolamine-phosphate cytidylyltransferase	2.7.7.14	Diphosphate	Ethanolamine phosphate	white
+ethanolamine-phosphate cytidylyltransferase	2.7.7.14	Ethanolamine phosphate	CDP-ethanolamine	white
+ethanolamine-phosphate cytidylyltransferase	2.7.7.14	Ethanolamine phosphate	Diphosphate	white
+ethanolamine-phosphate phospho-lyase	4.2.3.2	Acetaldehyde	Ethanolamine phosphate	white
+ethanolamine-phosphate phospho-lyase	4.2.3.2	Acetaldehyde	H2O	white
+ethanolamine-phosphate phospho-lyase	4.2.3.2	Ammonia	Ethanolamine phosphate	white
+ethanolamine-phosphate phospho-lyase	4.2.3.2	Ammonia	H2O	white
+ethanolamine-phosphate phospho-lyase	4.2.3.2	Ethanolamine phosphate	Acetaldehyde	white
+ethanolamine-phosphate phospho-lyase	4.2.3.2	Ethanolamine phosphate	Ammonia	white
+ethanolamine-phosphate phospho-lyase	4.2.3.2	Ethanolamine phosphate	Orthophosphate	white
+ethanolamine-phosphate phospho-lyase	4.2.3.2	H2O	Acetaldehyde	white
+ethanolamine-phosphate phospho-lyase	4.2.3.2	H2O	Ammonia	white
+ethanolamine-phosphate phospho-lyase	4.2.3.2	H2O	Orthophosphate	white
+ethanolamine-phosphate phospho-lyase	4.2.3.2	Orthophosphate	Ethanolamine phosphate	white
+ethanolamine-phosphate phospho-lyase	4.2.3.2	Orthophosphate	H2O	white
+ethanolaminephosphotransferase	2.7.8.1	1,2-Diacyl-sn-glycerol	CMP	white
+ethanolaminephosphotransferase	2.7.8.1	1,2-Diacyl-sn-glycerol	Phosphatidylethanolamine	white
+ethanolaminephosphotransferase	2.7.8.1	CDP-ethanolamine	CMP	white
+ethanolaminephosphotransferase	2.7.8.1	CDP-ethanolamine	Phosphatidylethanolamine	white
+ethanolaminephosphotransferase	2.7.8.1	CMP	1,2-Diacyl-sn-glycerol	white
+ethanolaminephosphotransferase	2.7.8.1	CMP	CDP-ethanolamine	white
+ethanolaminephosphotransferase	2.7.8.1	Phosphatidylethanolamine	1,2-Diacyl-sn-glycerol	white
+ethanolaminephosphotransferase	2.7.8.1	Phosphatidylethanolamine	CDP-ethanolamine	white
+geranylgeranylglycerol-phosphate geranylgeranyltransferase	2.5.1.42	2,3-Bis-(O-geranylgeranyl)-sn-glycerol 1-phosphate	3-(O-Geranylgeranyl)-sn-glycerol 1-phosphate	white
+geranylgeranylglycerol-phosphate geranylgeranyltransferase	2.5.1.42	2,3-Bis-(O-geranylgeranyl)-sn-glycerol 1-phosphate	Geranylgeranyl diphosphate	white
+geranylgeranylglycerol-phosphate geranylgeranyltransferase	2.5.1.42	3-(O-Geranylgeranyl)-sn-glycerol 1-phosphate	2,3-Bis-(O-geranylgeranyl)-sn-glycerol 1-phosphate	white
+geranylgeranylglycerol-phosphate geranylgeranyltransferase	2.5.1.42	3-(O-Geranylgeranyl)-sn-glycerol 1-phosphate	Diphosphate	white
+geranylgeranylglycerol-phosphate geranylgeranyltransferase	2.5.1.42	Diphosphate	3-(O-Geranylgeranyl)-sn-glycerol 1-phosphate	white
+geranylgeranylglycerol-phosphate geranylgeranyltransferase	2.5.1.42	Diphosphate	Geranylgeranyl diphosphate	white
+geranylgeranylglycerol-phosphate geranylgeranyltransferase	2.5.1.42	Geranylgeranyl diphosphate	2,3-Bis-(O-geranylgeranyl)-sn-glycerol 1-phosphate	white
+geranylgeranylglycerol-phosphate geranylgeranyltransferase	2.5.1.42	Geranylgeranyl diphosphate	Diphosphate	white
+glycerol-1-phosphate dehydrogenase [NAD(P)+]	1.1.1.261	Glycerone phosphate	NAD+	white
+glycerol-1-phosphate dehydrogenase [NAD(P)+]	1.1.1.261	Glycerone phosphate	sn-Glycerol 1-phosphate	white
+glycerol-1-phosphate dehydrogenase [NAD(P)+]	1.1.1.261	H+	NAD+	white
+glycerol-1-phosphate dehydrogenase [NAD(P)+]	1.1.1.261	H+	sn-Glycerol 1-phosphate	white
+glycerol-1-phosphate dehydrogenase [NAD(P)+]	1.1.1.261	NAD+	Glycerone phosphate	white
+glycerol-1-phosphate dehydrogenase [NAD(P)+]	1.1.1.261	NAD+	H+	white
+glycerol-1-phosphate dehydrogenase [NAD(P)+]	1.1.1.261	NAD+	NADH	white
+glycerol-1-phosphate dehydrogenase [NAD(P)+]	1.1.1.261	NADH	NAD+	white
+glycerol-1-phosphate dehydrogenase [NAD(P)+]	1.1.1.261	NADH	sn-Glycerol 1-phosphate	white
+glycerol-1-phosphate dehydrogenase [NAD(P)+]	1.1.1.261	sn-Glycerol 1-phosphate	Glycerone phosphate	white
+glycerol-1-phosphate dehydrogenase [NAD(P)+]	1.1.1.261	sn-Glycerol 1-phosphate	H+	white
+glycerol-1-phosphate dehydrogenase [NAD(P)+]	1.1.1.261	sn-Glycerol 1-phosphate	NADH	white
+glycerol-3-phosphate O-acyltransferase	2.3.1.15	Acyl-CoA	1-Acyl-sn-glycerol 3-phosphate	green
+glycerol-3-phosphate O-acyltransferase	2.3.1.15	Acyl-CoA	CoA	green
+glycerol-3-phosphate O-acyltransferase	2.3.1.15	sn-Glycerol 3-phosphate	1-Acyl-sn-glycerol 3-phosphate	green
+glycerol-3-phosphate O-acyltransferase	2.3.1.15	sn-Glycerol 3-phosphate	CoA	green
+glycerol-3-phosphate O-acyltransferase / dihydroxyacetone phosphate acyltransferase	2.3.1.15	1-Acyl-sn-glycerol 3-phosphate	Acyl-CoA	white
+glycerol-3-phosphate O-acyltransferase / dihydroxyacetone phosphate acyltransferase	2.3.1.15	1-Acyl-sn-glycerol 3-phosphate	sn-Glycerol 3-phosphate	white
+glycerol-3-phosphate O-acyltransferase / dihydroxyacetone phosphate acyltransferase	2.3.1.15	Acyl-CoA	1-Acyl-sn-glycerol 3-phosphate	white
+glycerol-3-phosphate O-acyltransferase / dihydroxyacetone phosphate acyltransferase	2.3.1.15	Acyl-CoA	CoA	white
+glycerol-3-phosphate O-acyltransferase / dihydroxyacetone phosphate acyltransferase	2.3.1.15	CoA	Acyl-CoA	white
+glycerol-3-phosphate O-acyltransferase / dihydroxyacetone phosphate acyltransferase	2.3.1.15	CoA	sn-Glycerol 3-phosphate	white
+glycerol-3-phosphate O-acyltransferase / dihydroxyacetone phosphate acyltransferase	2.3.1.15	sn-Glycerol 3-phosphate	1-Acyl-sn-glycerol 3-phosphate	white
+glycerol-3-phosphate O-acyltransferase / dihydroxyacetone phosphate acyltransferase	2.3.1.15	sn-Glycerol 3-phosphate	CoA	white
+glycerol-3-phosphate acyltransferase	2.3.1.15	1-Acyl-sn-glycerol 3-phosphate	Acyl-CoA	white
+glycerol-3-phosphate acyltransferase	2.3.1.15	1-Acyl-sn-glycerol 3-phosphate	sn-Glycerol 3-phosphate	white
+glycerol-3-phosphate acyltransferase	2.3.1.15	Acyl-CoA	1-Acyl-sn-glycerol 3-phosphate	white
+glycerol-3-phosphate acyltransferase	2.3.1.15	Acyl-CoA	CoA	white
+glycerol-3-phosphate acyltransferase	2.3.1.15	CoA	Acyl-CoA	white
+glycerol-3-phosphate acyltransferase	2.3.1.15	CoA	sn-Glycerol 3-phosphate	white
+glycerol-3-phosphate acyltransferase	2.3.1.15	sn-Glycerol 3-phosphate	1-Acyl-sn-glycerol 3-phosphate	white
+glycerol-3-phosphate acyltransferase	2.3.1.15	sn-Glycerol 3-phosphate	CoA	white
+glycerol-3-phosphate cytidylyltransferase	2.7.7.39	CDP-glycerol	CTP	white
+glycerol-3-phosphate cytidylyltransferase	2.7.7.39	CDP-glycerol	sn-Glycerol 3-phosphate	white
+glycerol-3-phosphate cytidylyltransferase	2.7.7.39	CTP	CDP-glycerol	white
+glycerol-3-phosphate cytidylyltransferase	2.7.7.39	CTP	Diphosphate	white
+glycerol-3-phosphate cytidylyltransferase	2.7.7.39	Diphosphate	CTP	white
+glycerol-3-phosphate cytidylyltransferase	2.7.7.39	Diphosphate	sn-Glycerol 3-phosphate	white
+glycerol-3-phosphate cytidylyltransferase	2.7.7.39	sn-Glycerol 3-phosphate	CDP-glycerol	white
+glycerol-3-phosphate cytidylyltransferase	2.7.7.39	sn-Glycerol 3-phosphate	Diphosphate	white
+glycerol-3-phosphate dehydrogenase	1.1.5.3	FAD	FADH2	green
+glycerol-3-phosphate dehydrogenase	1.1.5.3	FAD	Glycerone phosphate	green
+glycerol-3-phosphate dehydrogenase	1.1.5.3	FADH2	FAD	green
+glycerol-3-phosphate dehydrogenase	1.1.5.3	FADH2	sn-Glycerol 3-phosphate	green
+glycerol-3-phosphate dehydrogenase	1.1.5.3	Glycerone phosphate	FAD	green
+glycerol-3-phosphate dehydrogenase	1.1.5.3	Glycerone phosphate	sn-Glycerol 3-phosphate	green
+glycerol-3-phosphate dehydrogenase	1.1.5.3	sn-Glycerol 3-phosphate	FADH2	green
+glycerol-3-phosphate dehydrogenase	1.1.5.3	sn-Glycerol 3-phosphate	Glycerone phosphate	green
+glycerol-3-phosphate dehydrogenase (NAD(P)+)	1.1.1.94	NAD+	Glycerone phosphate	green
+glycerol-3-phosphate dehydrogenase (NAD(P)+)	1.1.1.94	NAD+	H+	green
+glycerol-3-phosphate dehydrogenase (NAD(P)+)	1.1.1.94	NAD+	NADH	green
+glycerol-3-phosphate dehydrogenase (NAD(P)+)	1.1.1.94	NADP+	Glycerone phosphate	green
+glycerol-3-phosphate dehydrogenase (NAD(P)+)	1.1.1.94	NADP+	H+	green
+glycerol-3-phosphate dehydrogenase (NAD(P)+)	1.1.1.94	NADP+	NADPH	green
+glycerol-3-phosphate dehydrogenase (NAD(P)+)	1.1.1.94	sn-Glycerol 3-phosphate	Glycerone phosphate	green
+glycerol-3-phosphate dehydrogenase (NAD(P)+)	1.1.1.94	sn-Glycerol 3-phosphate	H+	green
+glycerol-3-phosphate dehydrogenase (NAD(P)+)	1.1.1.94	sn-Glycerol 3-phosphate	NADH	green
+glycerol-3-phosphate dehydrogenase (NAD(P)+)	1.1.1.94	sn-Glycerol 3-phosphate	NADPH	green
+glycerol-3-phosphate dehydrogenase (NAD+)	1.1.1.8	Glycerone phosphate	NAD+	white
+glycerol-3-phosphate dehydrogenase (NAD+)	1.1.1.8	Glycerone phosphate	sn-Glycerol 3-phosphate	white
+glycerol-3-phosphate dehydrogenase (NAD+)	1.1.1.8	H+	NAD+	white
+glycerol-3-phosphate dehydrogenase (NAD+)	1.1.1.8	H+	sn-Glycerol 3-phosphate	white
+glycerol-3-phosphate dehydrogenase (NAD+)	1.1.1.8	NAD+	Glycerone phosphate	white
+glycerol-3-phosphate dehydrogenase (NAD+)	1.1.1.8	NAD+	H+	white
+glycerol-3-phosphate dehydrogenase (NAD+)	1.1.1.8	NAD+	NADH	white
+glycerol-3-phosphate dehydrogenase (NAD+)	1.1.1.8	NADH	NAD+	white
+glycerol-3-phosphate dehydrogenase (NAD+)	1.1.1.8	NADH	sn-Glycerol 3-phosphate	white
+glycerol-3-phosphate dehydrogenase (NAD+)	1.1.1.8	sn-Glycerol 3-phosphate	Glycerone phosphate	white
+glycerol-3-phosphate dehydrogenase (NAD+)	1.1.1.8	sn-Glycerol 3-phosphate	H+	white
+glycerol-3-phosphate dehydrogenase (NAD+)	1.1.1.8	sn-Glycerol 3-phosphate	NADH	white
+glyceronephosphate O-acyltransferase	2.3.1.42	Acyl-CoA	Acylglycerone phosphate	white
+glyceronephosphate O-acyltransferase	2.3.1.42	Acyl-CoA	CoA	white
+glyceronephosphate O-acyltransferase	2.3.1.42	Acylglycerone phosphate	Acyl-CoA	white
+glyceronephosphate O-acyltransferase	2.3.1.42	Acylglycerone phosphate	Glycerone phosphate	white
+glyceronephosphate O-acyltransferase	2.3.1.42	CoA	Acyl-CoA	white
+glyceronephosphate O-acyltransferase	2.3.1.42	CoA	Glycerone phosphate	white
+glyceronephosphate O-acyltransferase	2.3.1.42	Glycerone phosphate	Acylglycerone phosphate	white
+glyceronephosphate O-acyltransferase	2.3.1.42	Glycerone phosphate	CoA	white
+glycerophosphocholine phosphodiesterase GPCPD1	3.1.4.2	Choline	H2O	white
+glycerophosphocholine phosphodiesterase GPCPD1	3.1.4.2	Choline	sn-Glycero-3-phosphocholine	white
+glycerophosphocholine phosphodiesterase GPCPD1	3.1.4.2	H2O	Choline	white
+glycerophosphocholine phosphodiesterase GPCPD1	3.1.4.2	H2O	sn-Glycerol 3-phosphate	white
+glycerophosphocholine phosphodiesterase GPCPD1	3.1.4.2	sn-Glycero-3-phosphocholine	Choline	white
+glycerophosphocholine phosphodiesterase GPCPD1	3.1.4.2	sn-Glycero-3-phosphocholine	sn-Glycerol 3-phosphate	white
+glycerophosphocholine phosphodiesterase GPCPD1	3.1.4.2	sn-Glycerol 3-phosphate	H2O	white
+glycerophosphocholine phosphodiesterase GPCPD1	3.1.4.2	sn-Glycerol 3-phosphate	sn-Glycero-3-phosphocholine	white
+glycerophosphoryl diester phosphodiesterase	3.1.4.46	H2O	Choline	green
+glycerophosphoryl diester phosphodiesterase	3.1.4.46	H2O	Ethanolamine	green
+glycerophosphoryl diester phosphodiesterase	3.1.4.46	H2O	sn-Glycerol 3-phosphate	green
+glycerophosphoryl diester phosphodiesterase	3.1.4.46	sn-Glycero-3-phosphocholine	Choline	green
+glycerophosphoryl diester phosphodiesterase	3.1.4.46	sn-Glycero-3-phosphocholine	sn-Glycerol 3-phosphate	green
+glycerophosphoryl diester phosphodiesterase	3.1.4.46	sn-Glycero-3-phosphoethanolamine	Ethanolamine	green
+glycerophosphoryl diester phosphodiesterase	3.1.4.46	sn-Glycero-3-phosphoethanolamine	sn-Glycerol 3-phosphate	green
+heptaprenylglycerol acetyltransferase	2.3.1.-	Acetyl-CoA	CoA	white
+heptaprenylglycerol acetyltransferase	2.3.1.-	Acetyl-CoA	Diacetylheptaprenylglycerol	white
+heptaprenylglycerol acetyltransferase	2.3.1.-	CoA	Acetyl-CoA	white
+heptaprenylglycerol acetyltransferase	2.3.1.-	CoA	Heptaprenylglycerol	white
+heptaprenylglycerol acetyltransferase	2.3.1.-	Diacetylheptaprenylglycerol	Acetyl-CoA	white
+heptaprenylglycerol acetyltransferase	2.3.1.-	Diacetylheptaprenylglycerol	Heptaprenylglycerol	white
+heptaprenylglycerol acetyltransferase	2.3.1.-	Heptaprenylglycerol	CoA	white
+heptaprenylglycerol acetyltransferase	2.3.1.-	Heptaprenylglycerol	Diacetylheptaprenylglycerol	white
+heptaprenylglyceryl phosphate synthase	2.5.1.-	Diphosphate	all-trans-Heptaprenyl diphosphate	white
+heptaprenylglyceryl phosphate synthase	2.5.1.-	Diphosphate	sn-Glycerol 1-phosphate	white
+heptaprenylglyceryl phosphate synthase	2.5.1.-	Heptaprenylglyceryl phosphate	all-trans-Heptaprenyl diphosphate	white
+heptaprenylglyceryl phosphate synthase	2.5.1.-	Heptaprenylglyceryl phosphate	sn-Glycerol 1-phosphate	white
+heptaprenylglyceryl phosphate synthase	2.5.1.-	all-trans-Heptaprenyl diphosphate	Diphosphate	white
+heptaprenylglyceryl phosphate synthase	2.5.1.-	all-trans-Heptaprenyl diphosphate	Heptaprenylglyceryl phosphate	white
+heptaprenylglyceryl phosphate synthase	2.5.1.-	sn-Glycerol 1-phosphate	Diphosphate	white
+heptaprenylglyceryl phosphate synthase	2.5.1.-	sn-Glycerol 1-phosphate	Heptaprenylglyceryl phosphate	white
+lecithin-cholesterol acyltransferase	2.3.1.43	1-Acyl-sn-glycero-3-phosphocholine	Phosphatidylcholine	white
+lecithin-cholesterol acyltransferase	2.3.1.43	1-Acyl-sn-glycero-3-phosphocholine	Sterol	white
+lecithin-cholesterol acyltransferase	2.3.1.43	Phosphatidylcholine	1-Acyl-sn-glycero-3-phosphocholine	white
+lecithin-cholesterol acyltransferase	2.3.1.43	Phosphatidylcholine	Steryl ester	white
+lecithin-cholesterol acyltransferase	2.3.1.43	Sterol	1-Acyl-sn-glycero-3-phosphocholine	white
+lecithin-cholesterol acyltransferase	2.3.1.43	Sterol	Steryl ester	white
+lecithin-cholesterol acyltransferase	2.3.1.43	Steryl ester	Phosphatidylcholine	white
+lecithin-cholesterol acyltransferase	2.3.1.43	Steryl ester	Sterol	white
+lysocardiolipin and lysophospholipid acyltransferase	2.3.1.-	1-Acyl-sn-glycerol 3-phosphate	CoA	white
+lysocardiolipin and lysophospholipid acyltransferase	2.3.1.-	1-Acyl-sn-glycerol 3-phosphate	Phosphatidate	white
+lysocardiolipin and lysophospholipid acyltransferase	2.3.1.-	Acyl-CoA	CoA	white
+lysocardiolipin and lysophospholipid acyltransferase	2.3.1.-	Acyl-CoA	Phosphatidate	white
+lysocardiolipin and lysophospholipid acyltransferase	2.3.1.-	CoA	1-Acyl-sn-glycerol 3-phosphate	white
+lysocardiolipin and lysophospholipid acyltransferase	2.3.1.-	CoA	Acyl-CoA	white
+lysocardiolipin and lysophospholipid acyltransferase	2.3.1.-	Phosphatidate	1-Acyl-sn-glycerol 3-phosphate	white
+lysocardiolipin and lysophospholipid acyltransferase	2.3.1.-	Phosphatidate	Acyl-CoA	white
+lysophosphatidic acid acyltransferase / lysophosphatidylinositol acyltransferase	2.3.1.51	1-Acyl-sn-glycerol 3-phosphate	CoA	white
+lysophosphatidic acid acyltransferase / lysophosphatidylinositol acyltransferase	2.3.1.51	1-Acyl-sn-glycerol 3-phosphate	Phosphatidate	white
+lysophosphatidic acid acyltransferase / lysophosphatidylinositol acyltransferase	2.3.1.51	Acyl-CoA	CoA	white
+lysophosphatidic acid acyltransferase / lysophosphatidylinositol acyltransferase	2.3.1.51	Acyl-CoA	Phosphatidate	white
+lysophosphatidic acid acyltransferase / lysophosphatidylinositol acyltransferase	2.3.1.51	CoA	1-Acyl-sn-glycerol 3-phosphate	white
+lysophosphatidic acid acyltransferase / lysophosphatidylinositol acyltransferase	2.3.1.51	CoA	Acyl-CoA	white
+lysophosphatidic acid acyltransferase / lysophosphatidylinositol acyltransferase	2.3.1.51	Phosphatidate	1-Acyl-sn-glycerol 3-phosphate	white
+lysophosphatidic acid acyltransferase / lysophosphatidylinositol acyltransferase	2.3.1.51	Phosphatidate	Acyl-CoA	white
+lysophosphatidylcholine acyltransferase / lyso-PAF acetyltransferase	2.3.1.23	1-Acyl-sn-glycero-3-phosphocholine	CoA	white
+lysophosphatidylcholine acyltransferase / lyso-PAF acetyltransferase	2.3.1.23	1-Acyl-sn-glycero-3-phosphocholine	Phosphatidylcholine	white
+lysophosphatidylcholine acyltransferase / lyso-PAF acetyltransferase	2.3.1.23	Acyl-CoA	CoA	white
+lysophosphatidylcholine acyltransferase / lyso-PAF acetyltransferase	2.3.1.23	Acyl-CoA	Phosphatidylcholine	white
+lysophosphatidylcholine acyltransferase / lyso-PAF acetyltransferase	2.3.1.23	CoA	1-Acyl-sn-glycero-3-phosphocholine	white
+lysophosphatidylcholine acyltransferase / lyso-PAF acetyltransferase	2.3.1.23	CoA	Acyl-CoA	white
+lysophosphatidylcholine acyltransferase / lyso-PAF acetyltransferase	2.3.1.23	Phosphatidylcholine	1-Acyl-sn-glycero-3-phosphocholine	white
+lysophosphatidylcholine acyltransferase / lyso-PAF acetyltransferase	2.3.1.23	Phosphatidylcholine	Acyl-CoA	white
+lysophosphatidylglycerol acyltransferase 1	2.3.1.-	1-Acyl-sn-glycero-3-phosphoglycerol	CoA	white
+lysophosphatidylglycerol acyltransferase 1	2.3.1.-	1-Acyl-sn-glycero-3-phosphoglycerol	Phosphatidylglycerol	white
+lysophosphatidylglycerol acyltransferase 1	2.3.1.-	Acyl-CoA	CoA	white
+lysophosphatidylglycerol acyltransferase 1	2.3.1.-	Acyl-CoA	Phosphatidylglycerol	white
+lysophosphatidylglycerol acyltransferase 1	2.3.1.-	CoA	1-Acyl-sn-glycero-3-phosphoglycerol	white
+lysophosphatidylglycerol acyltransferase 1	2.3.1.-	CoA	Acyl-CoA	white
+lysophosphatidylglycerol acyltransferase 1	2.3.1.-	Phosphatidylglycerol	1-Acyl-sn-glycero-3-phosphoglycerol	white
+lysophosphatidylglycerol acyltransferase 1	2.3.1.-	Phosphatidylglycerol	Acyl-CoA	white
+lysophospholipase	3.1.1.5	1-Acyl-sn-glycero-3-phosphocholine	Fatty acid	white
+lysophospholipase	3.1.1.5	1-Acyl-sn-glycero-3-phosphocholine	sn-Glycero-3-phosphocholine	white
+lysophospholipase	3.1.1.5	Fatty acid	1-Acyl-sn-glycero-3-phosphocholine	white
+lysophospholipase	3.1.1.5	Fatty acid	H2O	white
+lysophospholipase	3.1.1.5	H2O	Fatty acid	white
+lysophospholipase	3.1.1.5	H2O	sn-Glycero-3-phosphocholine	white
+lysophospholipase	3.1.1.5	sn-Glycero-3-phosphocholine	1-Acyl-sn-glycero-3-phosphocholine	white
+lysophospholipase	3.1.1.5	sn-Glycero-3-phosphocholine	H2O	white
+lysophospholipase I	3.1.1.5	1-Acyl-sn-glycero-3-phosphocholine	Fatty acid	white
+lysophospholipase I	3.1.1.5	1-Acyl-sn-glycero-3-phosphocholine	sn-Glycero-3-phosphocholine	white
+lysophospholipase I	3.1.1.5	Fatty acid	1-Acyl-sn-glycero-3-phosphocholine	white
+lysophospholipase I	3.1.1.5	Fatty acid	H2O	white
+lysophospholipase I	3.1.1.5	H2O	Fatty acid	white
+lysophospholipase I	3.1.1.5	H2O	sn-Glycero-3-phosphocholine	white
+lysophospholipase I	3.1.1.5	sn-Glycero-3-phosphocholine	1-Acyl-sn-glycero-3-phosphocholine	white
+lysophospholipase I	3.1.1.5	sn-Glycero-3-phosphocholine	H2O	white
+lysophospholipase II	3.1.1.5	2-Acyl-sn-glycero-3-phosphocholine	Fatty acid	white
+lysophospholipase II	3.1.1.5	2-Acyl-sn-glycero-3-phosphocholine	sn-Glycero-3-phosphocholine	white
+lysophospholipase II	3.1.1.5	Fatty acid	2-Acyl-sn-glycero-3-phosphocholine	white
+lysophospholipase II	3.1.1.5	Fatty acid	H2O	white
+lysophospholipase II	3.1.1.5	H2O	Fatty acid	white
+lysophospholipase II	3.1.1.5	H2O	sn-Glycero-3-phosphocholine	white
+lysophospholipase II	3.1.1.5	sn-Glycero-3-phosphocholine	2-Acyl-sn-glycero-3-phosphocholine	white
+lysophospholipase II	3.1.1.5	sn-Glycero-3-phosphocholine	H2O	white
+lysophospholipase III	3.1.1.5	1-Acyl-sn-glycero-3-phosphocholine	Fatty acid	white
+lysophospholipase III	3.1.1.5	1-Acyl-sn-glycero-3-phosphocholine	sn-Glycero-3-phosphocholine	white
+lysophospholipase III	3.1.1.5	Fatty acid	1-Acyl-sn-glycero-3-phosphocholine	white
+lysophospholipase III	3.1.1.5	Fatty acid	H2O	white
+lysophospholipase III	3.1.1.5	H2O	Fatty acid	white
+lysophospholipase III	3.1.1.5	H2O	sn-Glycero-3-phosphocholine	white
+lysophospholipase III	3.1.1.5	sn-Glycero-3-phosphocholine	1-Acyl-sn-glycero-3-phosphocholine	white
+lysophospholipase III	3.1.1.5	sn-Glycero-3-phosphocholine	H2O	white
+lysophospholipid acyltransferase	2.3.1.23	1-Acyl-sn-glycero-3-phosphocholine	CoA	white
+lysophospholipid acyltransferase	2.3.1.23	1-Acyl-sn-glycero-3-phosphocholine	Phosphatidylcholine	white
+lysophospholipid acyltransferase	2.3.1.23	Acyl-CoA	CoA	white
+lysophospholipid acyltransferase	2.3.1.23	Acyl-CoA	Phosphatidylcholine	white
+lysophospholipid acyltransferase	2.3.1.23	CoA	1-Acyl-sn-glycero-3-phosphocholine	white
+lysophospholipid acyltransferase	2.3.1.23	CoA	Acyl-CoA	white
+lysophospholipid acyltransferase	2.3.1.23	Phosphatidylcholine	1-Acyl-sn-glycero-3-phosphocholine	white
+lysophospholipid acyltransferase	2.3.1.23	Phosphatidylcholine	Acyl-CoA	white
+lysophospholipid acyltransferase 1/2	2.3.1.51	1-Acyl-sn-glycerol 3-phosphate	CoA	white
+lysophospholipid acyltransferase 1/2	2.3.1.51	1-Acyl-sn-glycerol 3-phosphate	Phosphatidate	white
+lysophospholipid acyltransferase 1/2	2.3.1.51	Acyl-CoA	CoA	white
+lysophospholipid acyltransferase 1/2	2.3.1.51	Acyl-CoA	Phosphatidate	white
+lysophospholipid acyltransferase 1/2	2.3.1.51	CoA	1-Acyl-sn-glycerol 3-phosphate	white
+lysophospholipid acyltransferase 1/2	2.3.1.51	CoA	Acyl-CoA	white
+lysophospholipid acyltransferase 1/2	2.3.1.51	Phosphatidate	1-Acyl-sn-glycerol 3-phosphate	white
+lysophospholipid acyltransferase 1/2	2.3.1.51	Phosphatidate	Acyl-CoA	white
+lysophospholipid acyltransferase 5	2.3.1.23	1-Acyl-sn-glycero-3-phosphocholine	CoA	white
+lysophospholipid acyltransferase 5	2.3.1.23	1-Acyl-sn-glycero-3-phosphocholine	Phosphatidylcholine	white
+lysophospholipid acyltransferase 5	2.3.1.23	Acyl-CoA	CoA	white
+lysophospholipid acyltransferase 5	2.3.1.23	Acyl-CoA	Phosphatidylcholine	white
+lysophospholipid acyltransferase 5	2.3.1.23	CoA	1-Acyl-sn-glycero-3-phosphocholine	white
+lysophospholipid acyltransferase 5	2.3.1.23	CoA	Acyl-CoA	white
+lysophospholipid acyltransferase 5	2.3.1.23	Phosphatidylcholine	1-Acyl-sn-glycero-3-phosphocholine	white
+lysophospholipid acyltransferase 5	2.3.1.23	Phosphatidylcholine	Acyl-CoA	white
+lysophospholipid acyltransferase 7	2.3.1.-	1-Acylglycerophosphoinositol	1-Phosphatidyl-D-myo-inositol	white
+lysophospholipid acyltransferase 7	2.3.1.-	1-Acylglycerophosphoinositol	CoA	white
+lysophospholipid acyltransferase 7	2.3.1.-	1-Phosphatidyl-D-myo-inositol	1-Acylglycerophosphoinositol	white
+lysophospholipid acyltransferase 7	2.3.1.-	1-Phosphatidyl-D-myo-inositol	Acyl-CoA	white
+lysophospholipid acyltransferase 7	2.3.1.-	Acyl-CoA	1-Phosphatidyl-D-myo-inositol	white
+lysophospholipid acyltransferase 7	2.3.1.-	Acyl-CoA	CoA	white
+lysophospholipid acyltransferase 7	2.3.1.-	CoA	1-Acylglycerophosphoinositol	white
+lysophospholipid acyltransferase 7	2.3.1.-	CoA	Acyl-CoA	white
+lysophospholipid hydrolase	3.1.1.5	1-Acyl-sn-glycero-3-phosphocholine	Fatty acid	white
+lysophospholipid hydrolase	3.1.1.5	1-Acyl-sn-glycero-3-phosphocholine	sn-Glycero-3-phosphocholine	white
+lysophospholipid hydrolase	3.1.1.5	Fatty acid	1-Acyl-sn-glycero-3-phosphocholine	white
+lysophospholipid hydrolase	3.1.1.5	Fatty acid	H2O	white
+lysophospholipid hydrolase	3.1.1.5	H2O	Fatty acid	white
+lysophospholipid hydrolase	3.1.1.5	H2O	sn-Glycero-3-phosphocholine	white
+lysophospholipid hydrolase	3.1.1.5	sn-Glycero-3-phosphocholine	1-Acyl-sn-glycero-3-phosphocholine	white
+lysophospholipid hydrolase	3.1.1.5	sn-Glycero-3-phosphocholine	H2O	white
+manganese-dependent ADP-ribose/CDP-alcohol diphosphatase	3.6.1.13	CDP-glycerol	CMP	white
+manganese-dependent ADP-ribose/CDP-alcohol diphosphatase	3.6.1.13	CDP-glycerol	sn-Glycerol 3-phosphate	white
+manganese-dependent ADP-ribose/CDP-alcohol diphosphatase	3.6.1.13	CMP	CDP-glycerol	white
+manganese-dependent ADP-ribose/CDP-alcohol diphosphatase	3.6.1.13	CMP	H2O	white
+manganese-dependent ADP-ribose/CDP-alcohol diphosphatase	3.6.1.13	H2O	CMP	white
+manganese-dependent ADP-ribose/CDP-alcohol diphosphatase	3.6.1.13	H2O	sn-Glycerol 3-phosphate	white
+manganese-dependent ADP-ribose/CDP-alcohol diphosphatase	3.6.1.13	sn-Glycerol 3-phosphate	CDP-glycerol	white
+manganese-dependent ADP-ribose/CDP-alcohol diphosphatase	3.6.1.13	sn-Glycerol 3-phosphate	H2O	white
+monolysocardiolipin acyltransferase	2.3.1.-	Acyl-CoA	Cardiolipin	white
+monolysocardiolipin acyltransferase	2.3.1.-	Acyl-CoA	CoA	white
+monolysocardiolipin acyltransferase	2.3.1.-	Cardiolipin	Acyl-CoA	white
+monolysocardiolipin acyltransferase	2.3.1.-	Cardiolipin	Monolysocardiolipin	white
+monolysocardiolipin acyltransferase	2.3.1.-	CoA	Acyl-CoA	white
+monolysocardiolipin acyltransferase	2.3.1.-	CoA	Monolysocardiolipin	white
+monolysocardiolipin acyltransferase	2.3.1.-	Monolysocardiolipin	Cardiolipin	white
+monolysocardiolipin acyltransferase	2.3.1.-	Monolysocardiolipin	CoA	white
+phosphatidate cytidylyltransferase	2.7.7.41	CTP	CDP-diacylglycerol	green
+phosphatidate cytidylyltransferase	2.7.7.41	CTP	Diphosphate	green
+phosphatidate cytidylyltransferase	2.7.7.41	Phosphatidate	CDP-diacylglycerol	green
+phosphatidate cytidylyltransferase	2.7.7.41	Phosphatidate	Diphosphate	green
+phosphatidate phosphatase	3.1.3.4	1,2-Diacyl-sn-glycerol	H2O	white
+phosphatidate phosphatase	3.1.3.4	1,2-Diacyl-sn-glycerol	Phosphatidate	white
+phosphatidate phosphatase	3.1.3.4	H2O	1,2-Diacyl-sn-glycerol	white
+phosphatidate phosphatase	3.1.3.4	H2O	Orthophosphate	white
+phosphatidate phosphatase	3.1.3.4	Orthophosphate	H2O	white
+phosphatidate phosphatase	3.1.3.4	Orthophosphate	Phosphatidate	white
+phosphatidate phosphatase	3.1.3.4	Phosphatidate	1,2-Diacyl-sn-glycerol	white
+phosphatidate phosphatase	3.1.3.4	Phosphatidate	Orthophosphate	white
+phosphatidate phosphatase LPIN	3.1.3.4	1,2-Diacyl-sn-glycerol	H2O	white
+phosphatidate phosphatase LPIN	3.1.3.4	1,2-Diacyl-sn-glycerol	Phosphatidate	white
+phosphatidate phosphatase LPIN	3.1.3.4	H2O	1,2-Diacyl-sn-glycerol	white
+phosphatidate phosphatase LPIN	3.1.3.4	H2O	Orthophosphate	white
+phosphatidate phosphatase LPIN	3.1.3.4	Orthophosphate	H2O	white
+phosphatidate phosphatase LPIN	3.1.3.4	Orthophosphate	Phosphatidate	white
+phosphatidate phosphatase LPIN	3.1.3.4	Phosphatidate	1,2-Diacyl-sn-glycerol	white
+phosphatidate phosphatase LPIN	3.1.3.4	Phosphatidate	Orthophosphate	white
+phosphatidyl-N-methylethanolamine N-methyltransferase	2.1.1.71	Phosphatidyl-N-dimethylethanolamine	Phosphatidylcholine	white
+phosphatidyl-N-methylethanolamine N-methyltransferase	2.1.1.71	Phosphatidyl-N-dimethylethanolamine	S-Adenosyl-L-homocysteine	white
+phosphatidyl-N-methylethanolamine N-methyltransferase	2.1.1.71	Phosphatidylcholine	Phosphatidyl-N-dimethylethanolamine	white
+phosphatidyl-N-methylethanolamine N-methyltransferase	2.1.1.71	Phosphatidylcholine	S-Adenosyl-L-methionine	white
+phosphatidyl-N-methylethanolamine N-methyltransferase	2.1.1.71	S-Adenosyl-L-homocysteine	Phosphatidyl-N-dimethylethanolamine	white
+phosphatidyl-N-methylethanolamine N-methyltransferase	2.1.1.71	S-Adenosyl-L-homocysteine	S-Adenosyl-L-methionine	white
+phosphatidyl-N-methylethanolamine N-methyltransferase	2.1.1.71	S-Adenosyl-L-methionine	Phosphatidylcholine	white
+phosphatidyl-N-methylethanolamine N-methyltransferase	2.1.1.71	S-Adenosyl-L-methionine	S-Adenosyl-L-homocysteine	white
+phosphatidylcholine synthase	2.7.8.24	CDP-diacylglycerol	CMP	white
+phosphatidylcholine synthase	2.7.8.24	CDP-diacylglycerol	Phosphatidylcholine	white
+phosphatidylcholine synthase	2.7.8.24	CMP	CDP-diacylglycerol	white
+phosphatidylcholine synthase	2.7.8.24	CMP	Choline	white
+phosphatidylcholine synthase	2.7.8.24	Choline	CMP	white
+phosphatidylcholine synthase	2.7.8.24	Choline	Phosphatidylcholine	white
+phosphatidylcholine synthase	2.7.8.24	Phosphatidylcholine	CDP-diacylglycerol	white
+phosphatidylcholine synthase	2.7.8.24	Phosphatidylcholine	Choline	white
+phosphatidylethanolamine N-methyltransferase	2.1.1.17	Phosphatidyl-N-methylethanolamine	Phosphatidylethanolamine	white
+phosphatidylethanolamine N-methyltransferase	2.1.1.17	Phosphatidyl-N-methylethanolamine	S-Adenosyl-L-methionine	white
+phosphatidylethanolamine N-methyltransferase	2.1.1.17	Phosphatidylethanolamine	Phosphatidyl-N-methylethanolamine	white
+phosphatidylethanolamine N-methyltransferase	2.1.1.17	Phosphatidylethanolamine	S-Adenosyl-L-homocysteine	white
+phosphatidylethanolamine N-methyltransferase	2.1.1.17	S-Adenosyl-L-homocysteine	Phosphatidylethanolamine	white
+phosphatidylethanolamine N-methyltransferase	2.1.1.17	S-Adenosyl-L-homocysteine	S-Adenosyl-L-methionine	white
+phosphatidylethanolamine N-methyltransferase	2.1.1.17	S-Adenosyl-L-methionine	Phosphatidyl-N-methylethanolamine	white
+phosphatidylethanolamine N-methyltransferase	2.1.1.17	S-Adenosyl-L-methionine	S-Adenosyl-L-homocysteine	white
+phosphatidylethanolamine/phosphatidyl-N-methylethanolamine N-methyltransferase	2.1.1.17	Phosphatidyl-N-dimethylethanolamine	Phosphatidylcholine	white
+phosphatidylethanolamine/phosphatidyl-N-methylethanolamine N-methyltransferase	2.1.1.17	Phosphatidyl-N-dimethylethanolamine	S-Adenosyl-L-homocysteine	white
+phosphatidylethanolamine/phosphatidyl-N-methylethanolamine N-methyltransferase	2.1.1.17	Phosphatidylcholine	Phosphatidyl-N-dimethylethanolamine	white
+phosphatidylethanolamine/phosphatidyl-N-methylethanolamine N-methyltransferase	2.1.1.17	Phosphatidylcholine	S-Adenosyl-L-methionine	white
+phosphatidylethanolamine/phosphatidyl-N-methylethanolamine N-methyltransferase	2.1.1.17	S-Adenosyl-L-homocysteine	Phosphatidyl-N-dimethylethanolamine	white
+phosphatidylethanolamine/phosphatidyl-N-methylethanolamine N-methyltransferase	2.1.1.17	S-Adenosyl-L-homocysteine	S-Adenosyl-L-methionine	white
+phosphatidylethanolamine/phosphatidyl-N-methylethanolamine N-methyltransferase	2.1.1.17	S-Adenosyl-L-methionine	Phosphatidylcholine	white
+phosphatidylethanolamine/phosphatidyl-N-methylethanolamine N-methyltransferase	2.1.1.17	S-Adenosyl-L-methionine	S-Adenosyl-L-homocysteine	white
+phosphatidylglycerol phospholipase C	3.1.4.-	1,2-Diacyl-sn-glycerol	H2O	white
+phosphatidylglycerol phospholipase C	3.1.4.-	1,2-Diacyl-sn-glycerol	Phosphatidylglycerol	white
+phosphatidylglycerol phospholipase C	3.1.4.-	H2O	1,2-Diacyl-sn-glycerol	white
+phosphatidylglycerol phospholipase C	3.1.4.-	H2O	sn-Glycerol 3-phosphate	white
+phosphatidylglycerol phospholipase C	3.1.4.-	Phosphatidylglycerol	1,2-Diacyl-sn-glycerol	white
+phosphatidylglycerol phospholipase C	3.1.4.-	Phosphatidylglycerol	sn-Glycerol 3-phosphate	white
+phosphatidylglycerol phospholipase C	3.1.4.-	sn-Glycerol 3-phosphate	H2O	white
+phosphatidylglycerol phospholipase C	3.1.4.-	sn-Glycerol 3-phosphate	Phosphatidylglycerol	white
+phosphatidylglycerophosphatase A	3.1.3.27	H2O	Orthophosphate	white
+phosphatidylglycerophosphatase A	3.1.3.27	H2O	Phosphatidylglycerol	white
+phosphatidylglycerophosphatase A	3.1.3.27	Orthophosphate	H2O	white
+phosphatidylglycerophosphatase A	3.1.3.27	Orthophosphate	Phosphatidylglycerophosphate	white
+phosphatidylglycerophosphatase A	3.1.3.27	Phosphatidylglycerol	H2O	white
+phosphatidylglycerophosphatase A	3.1.3.27	Phosphatidylglycerol	Phosphatidylglycerophosphate	white
+phosphatidylglycerophosphatase A	3.1.3.27	Phosphatidylglycerophosphate	Orthophosphate	white
+phosphatidylglycerophosphatase A	3.1.3.27	Phosphatidylglycerophosphate	Phosphatidylglycerol	white
+phosphatidylglycerophosphatase B	3.1.3.27	H2O	Orthophosphate	white
+phosphatidylglycerophosphatase B	3.1.3.27	H2O	Phosphatidylglycerol	white
+phosphatidylglycerophosphatase B	3.1.3.27	Orthophosphate	H2O	white
+phosphatidylglycerophosphatase B	3.1.3.27	Orthophosphate	Phosphatidylglycerophosphate	white
+phosphatidylglycerophosphatase B	3.1.3.27	Phosphatidylglycerol	H2O	white
+phosphatidylglycerophosphatase B	3.1.3.27	Phosphatidylglycerol	Phosphatidylglycerophosphate	white
+phosphatidylglycerophosphatase B	3.1.3.27	Phosphatidylglycerophosphate	Orthophosphate	white
+phosphatidylglycerophosphatase B	3.1.3.27	Phosphatidylglycerophosphate	Phosphatidylglycerol	white
+phosphatidylglycerophosphatase C	3.1.3.27	H2O	Orthophosphate	white
+phosphatidylglycerophosphatase C	3.1.3.27	H2O	Phosphatidylglycerol	white
+phosphatidylglycerophosphatase C	3.1.3.27	Orthophosphate	H2O	white
+phosphatidylglycerophosphatase C	3.1.3.27	Orthophosphate	Phosphatidylglycerophosphate	white
+phosphatidylglycerophosphatase C	3.1.3.27	Phosphatidylglycerol	H2O	white
+phosphatidylglycerophosphatase C	3.1.3.27	Phosphatidylglycerol	Phosphatidylglycerophosphate	white
+phosphatidylglycerophosphatase C	3.1.3.27	Phosphatidylglycerophosphate	Orthophosphate	white
+phosphatidylglycerophosphatase C	3.1.3.27	Phosphatidylglycerophosphate	Phosphatidylglycerol	white
+phosphatidylglycerophosphatase GEP4	3.1.3.27	H2O	Orthophosphate	white
+phosphatidylglycerophosphatase GEP4	3.1.3.27	H2O	Phosphatidylglycerol	white
+phosphatidylglycerophosphatase GEP4	3.1.3.27	Orthophosphate	H2O	white
+phosphatidylglycerophosphatase GEP4	3.1.3.27	Orthophosphate	Phosphatidylglycerophosphate	white
+phosphatidylglycerophosphatase GEP4	3.1.3.27	Phosphatidylglycerol	H2O	white
+phosphatidylglycerophosphatase GEP4	3.1.3.27	Phosphatidylglycerol	Phosphatidylglycerophosphate	white
+phosphatidylglycerophosphatase GEP4	3.1.3.27	Phosphatidylglycerophosphate	Orthophosphate	white
+phosphatidylglycerophosphatase GEP4	3.1.3.27	Phosphatidylglycerophosphate	Phosphatidylglycerol	white
+phosphatidylserine decarboxylase	4.1.1.65	Phosphatidylserine	CO2	green
+phosphatidylserine decarboxylase	4.1.1.65	Phosphatidylserine	Phosphatidylethanolamine	green
+phosphatidylserine sn-1 acylhydrolase	3.1.1.111	2-Acyl-sn-glycero-3-phosphoserine	H2O	white
+phosphatidylserine sn-1 acylhydrolase	3.1.1.111	2-Acyl-sn-glycero-3-phosphoserine	Phosphatidylserine	white
+phosphatidylserine sn-1 acylhydrolase	3.1.1.111	Fatty acid	H2O	white
+phosphatidylserine sn-1 acylhydrolase	3.1.1.111	Fatty acid	Phosphatidylserine	white
+phosphatidylserine sn-1 acylhydrolase	3.1.1.111	H2O	2-Acyl-sn-glycero-3-phosphoserine	white
+phosphatidylserine sn-1 acylhydrolase	3.1.1.111	H2O	Fatty acid	white
+phosphatidylserine sn-1 acylhydrolase	3.1.1.111	Phosphatidylserine	2-Acyl-sn-glycero-3-phosphoserine	white
+phosphatidylserine sn-1 acylhydrolase	3.1.1.111	Phosphatidylserine	Fatty acid	white
+phosphatidylserine synthase 1	2.7.8.-	Choline	L-Serine	white
+phosphatidylserine synthase 1	2.7.8.-	Choline	Phosphatidylcholine	white
+phosphatidylserine synthase 1	2.7.8.-	L-Serine	Choline	white
+phosphatidylserine synthase 1	2.7.8.-	L-Serine	Phosphatidylserine	white
+phosphatidylserine synthase 1	2.7.8.-	Phosphatidylcholine	Choline	white
+phosphatidylserine synthase 1	2.7.8.-	Phosphatidylcholine	Phosphatidylserine	white
+phosphatidylserine synthase 1	2.7.8.-	Phosphatidylserine	L-Serine	white
+phosphatidylserine synthase 1	2.7.8.-	Phosphatidylserine	Phosphatidylcholine	white
+phosphatidylserine synthase 2	2.7.8.29	Ethanolamine	L-Serine	white
+phosphatidylserine synthase 2	2.7.8.29	Ethanolamine	Phosphatidylethanolamine	white
+phosphatidylserine synthase 2	2.7.8.29	L-Serine	Ethanolamine	white
+phosphatidylserine synthase 2	2.7.8.29	L-Serine	Phosphatidylserine	white
+phosphatidylserine synthase 2	2.7.8.29	Phosphatidylethanolamine	Ethanolamine	white
+phosphatidylserine synthase 2	2.7.8.29	Phosphatidylethanolamine	Phosphatidylserine	white
+phosphatidylserine synthase 2	2.7.8.29	Phosphatidylserine	L-Serine	white
+phosphatidylserine synthase 2	2.7.8.29	Phosphatidylserine	Phosphatidylethanolamine	white
+phosphoethanolamine N-methyltransferase	2.1.1.103	Ethanolamine phosphate	N-Methylethanolamine phosphate	white
+phosphoethanolamine N-methyltransferase	2.1.1.103	Ethanolamine phosphate	S-Adenosyl-L-homocysteine	white
+phosphoethanolamine N-methyltransferase	2.1.1.103	N-Methylethanolamine phosphate	Ethanolamine phosphate	white
+phosphoethanolamine N-methyltransferase	2.1.1.103	N-Methylethanolamine phosphate	S-Adenosyl-L-methionine	white
+phosphoethanolamine N-methyltransferase	2.1.1.103	S-Adenosyl-L-homocysteine	Ethanolamine phosphate	white
+phosphoethanolamine N-methyltransferase	2.1.1.103	S-Adenosyl-L-homocysteine	S-Adenosyl-L-methionine	white
+phosphoethanolamine N-methyltransferase	2.1.1.103	S-Adenosyl-L-methionine	N-Methylethanolamine phosphate	white
+phosphoethanolamine N-methyltransferase	2.1.1.103	S-Adenosyl-L-methionine	S-Adenosyl-L-homocysteine	white
+phosphoethanolamine/phosphocholine phosphatase	3.1.3.75	Ethanolamine	Ethanolamine phosphate	white
+phosphoethanolamine/phosphocholine phosphatase	3.1.3.75	Ethanolamine	H2O	white
+phosphoethanolamine/phosphocholine phosphatase	3.1.3.75	Ethanolamine phosphate	Ethanolamine	white
+phosphoethanolamine/phosphocholine phosphatase	3.1.3.75	Ethanolamine phosphate	Orthophosphate	white
+phosphoethanolamine/phosphocholine phosphatase	3.1.3.75	H2O	Ethanolamine	white
+phosphoethanolamine/phosphocholine phosphatase	3.1.3.75	H2O	Orthophosphate	white
+phosphoethanolamine/phosphocholine phosphatase	3.1.3.75	Orthophosphate	Ethanolamine phosphate	white
+phosphoethanolamine/phosphocholine phosphatase	3.1.3.75	Orthophosphate	H2O	white
+phosphoglycerol geranylgeranyltransferase	2.5.1.41	3-(O-Geranylgeranyl)-sn-glycerol 1-phosphate	Geranylgeranyl diphosphate	white
+phosphoglycerol geranylgeranyltransferase	2.5.1.41	3-(O-Geranylgeranyl)-sn-glycerol 1-phosphate	sn-Glycerol 1-phosphate	white
+phosphoglycerol geranylgeranyltransferase	2.5.1.41	Diphosphate	Geranylgeranyl diphosphate	white
+phosphoglycerol geranylgeranyltransferase	2.5.1.41	Diphosphate	sn-Glycerol 1-phosphate	white
+phosphoglycerol geranylgeranyltransferase	2.5.1.41	Geranylgeranyl diphosphate	3-(O-Geranylgeranyl)-sn-glycerol 1-phosphate	white
+phosphoglycerol geranylgeranyltransferase	2.5.1.41	Geranylgeranyl diphosphate	Diphosphate	white
+phosphoglycerol geranylgeranyltransferase	2.5.1.41	sn-Glycerol 1-phosphate	3-(O-Geranylgeranyl)-sn-glycerol 1-phosphate	white
+phosphoglycerol geranylgeranyltransferase	2.5.1.41	sn-Glycerol 1-phosphate	Diphosphate	white
+phospholipase A1	3.1.1.32	2-Acyl-sn-glycero-3-phosphocholine	H2O	white
+phospholipase A1	3.1.1.32	2-Acyl-sn-glycero-3-phosphocholine	Phosphatidylcholine	white
+phospholipase A1	3.1.1.32	Fatty acid	H2O	white
+phospholipase A1	3.1.1.32	Fatty acid	Phosphatidylcholine	white
+phospholipase A1	3.1.1.32	H2O	2-Acyl-sn-glycero-3-phosphocholine	white
+phospholipase A1	3.1.1.32	H2O	Fatty acid	white
+phospholipase A1	3.1.1.32	Phosphatidylcholine	2-Acyl-sn-glycero-3-phosphocholine	white
+phospholipase A1	3.1.1.32	Phosphatidylcholine	Fatty acid	white
+phospholipase A1/A2	3.1.1.32	1-Acyl-sn-glycero-3-phosphocholine	H2O	white
+phospholipase A1/A2	3.1.1.32	1-Acyl-sn-glycero-3-phosphocholine	Phosphatidylcholine	white
+phospholipase A1/A2	3.1.1.32	Fatty acid	H2O	white
+phospholipase A1/A2	3.1.1.32	Fatty acid	Phosphatidylcholine	white
+phospholipase A1/A2	3.1.1.32	H2O	1-Acyl-sn-glycero-3-phosphocholine	white
+phospholipase A1/A2	3.1.1.32	H2O	Fatty acid	white
+phospholipase A1/A2	3.1.1.32	Phosphatidylcholine	1-Acyl-sn-glycero-3-phosphocholine	white
+phospholipase A1/A2	3.1.1.32	Phosphatidylcholine	Fatty acid	white
+phospholipase B1, membrane-associated	3.1.1.4	1-Acyl-sn-glycero-3-phosphocholine	H2O	white
+phospholipase B1, membrane-associated	3.1.1.4	1-Acyl-sn-glycero-3-phosphocholine	Phosphatidylcholine	white
+phospholipase B1, membrane-associated	3.1.1.4	Fatty acid	H2O	white
+phospholipase B1, membrane-associated	3.1.1.4	Fatty acid	Phosphatidylcholine	white
+phospholipase B1, membrane-associated	3.1.1.4	H2O	1-Acyl-sn-glycero-3-phosphocholine	white
+phospholipase B1, membrane-associated	3.1.1.4	H2O	Fatty acid	white
+phospholipase B1, membrane-associated	3.1.1.4	Phosphatidylcholine	1-Acyl-sn-glycero-3-phosphocholine	white
+phospholipase B1, membrane-associated	3.1.1.4	Phosphatidylcholine	Fatty acid	white
+phospholipase C	3.1.4.3	H2O	1,2-Diacyl-sn-glycerol	green
+phospholipase C	3.1.4.3	H2O	Choline phosphate	green
+phospholipase C	3.1.4.3	H2O	Ethanolamine phosphate	green
+phospholipase C	3.1.4.3	H2O	sn-Glycerol 3-phosphate	green
+phospholipase C	3.1.4.3	Phosphatidylcholine	1,2-Diacyl-sn-glycerol	green
+phospholipase C	3.1.4.3	Phosphatidylcholine	Choline phosphate	green
+phospholipase C	3.1.4.3	Phosphatidylethanolamine	1,2-Diacyl-sn-glycerol	green
+phospholipase C	3.1.4.3	Phosphatidylethanolamine	Ethanolamine phosphate	green
+phospholipase C	3.1.4.3	Phosphatidylglycerol	1,2-Diacyl-sn-glycerol	green
+phospholipase C	3.1.4.3	Phosphatidylglycerol	sn-Glycerol 3-phosphate	green
+phospholipase D	3.1.4.4	Choline	H2O	white
+phospholipase D	3.1.4.4	Choline	Phosphatidylcholine	white
+phospholipase D	3.1.4.4	H2O	Choline	white
+phospholipase D	3.1.4.4	H2O	Phosphatidate	white
+phospholipase D	3.1.4.4	Phosphatidate	H2O	white
+phospholipase D	3.1.4.4	Phosphatidate	Phosphatidylcholine	white
+phospholipase D	3.1.4.4	Phosphatidylcholine	Choline	white
+phospholipase D	3.1.4.4	Phosphatidylcholine	Phosphatidate	white
+phospholipase D1/2	3.1.4.4	Choline	H2O	white
+phospholipase D1/2	3.1.4.4	Choline	Phosphatidylcholine	white
+phospholipase D1/2	3.1.4.4	H2O	Choline	white
+phospholipase D1/2	3.1.4.4	H2O	Phosphatidate	white
+phospholipase D1/2	3.1.4.4	Phosphatidate	H2O	white
+phospholipase D1/2	3.1.4.4	Phosphatidate	Phosphatidylcholine	white
+phospholipase D1/2	3.1.4.4	Phosphatidylcholine	Choline	white
+phospholipase D1/2	3.1.4.4	Phosphatidylcholine	Phosphatidate	white
+phospholipase D3/4	3.1.4.4	Choline	H2O	white
+phospholipase D3/4	3.1.4.4	Choline	Phosphatidylcholine	white
+phospholipase D3/4	3.1.4.4	H2O	Choline	white
+phospholipase D3/4	3.1.4.4	H2O	Phosphatidate	white
+phospholipase D3/4	3.1.4.4	Phosphatidate	H2O	white
+phospholipase D3/4	3.1.4.4	Phosphatidate	Phosphatidylcholine	white
+phospholipase D3/4	3.1.4.4	Phosphatidylcholine	Choline	white
+phospholipase D3/4	3.1.4.4	Phosphatidylcholine	Phosphatidate	white
+secretory phospholipase A2	3.1.1.4	1-Acyl-sn-glycero-3-phosphocholine	H2O	white
+secretory phospholipase A2	3.1.1.4	1-Acyl-sn-glycero-3-phosphocholine	Phosphatidylcholine	white
+secretory phospholipase A2	3.1.1.4	Fatty acid	H2O	white
+secretory phospholipase A2	3.1.1.4	Fatty acid	Phosphatidylcholine	white
+secretory phospholipase A2	3.1.1.4	H2O	1-Acyl-sn-glycero-3-phosphocholine	white
+secretory phospholipase A2	3.1.1.4	H2O	Fatty acid	white
+secretory phospholipase A2	3.1.1.4	Phosphatidylcholine	1-Acyl-sn-glycero-3-phosphocholine	white
+secretory phospholipase A2	3.1.1.4	Phosphatidylcholine	Fatty acid	white
+serine decarboxylase	4.1.1.-	CO2	L-Serine	white
+serine decarboxylase	4.1.1.-	Ethanolamine	L-Serine	white
+serine decarboxylase	4.1.1.-	L-Serine	CO2	white
+serine decarboxylase	4.1.1.-	L-Serine	Ethanolamine	white
+sphingomyelin synthase / ceramide phosphoethanolamine synthase / phosphatidylethanolamine phospholipase C	2.7.8.27	1,2-Diacyl-sn-glycerol	H2O	white
+sphingomyelin synthase / ceramide phosphoethanolamine synthase / phosphatidylethanolamine phospholipase C	2.7.8.27	1,2-Diacyl-sn-glycerol	Phosphatidylethanolamine	white
+sphingomyelin synthase / ceramide phosphoethanolamine synthase / phosphatidylethanolamine phospholipase C	2.7.8.27	Ethanolamine phosphate	H2O	white
+sphingomyelin synthase / ceramide phosphoethanolamine synthase / phosphatidylethanolamine phospholipase C	2.7.8.27	Ethanolamine phosphate	Phosphatidylethanolamine	white
+sphingomyelin synthase / ceramide phosphoethanolamine synthase / phosphatidylethanolamine phospholipase C	2.7.8.27	H2O	1,2-Diacyl-sn-glycerol	white
+sphingomyelin synthase / ceramide phosphoethanolamine synthase / phosphatidylethanolamine phospholipase C	2.7.8.27	H2O	Ethanolamine phosphate	white
+sphingomyelin synthase / ceramide phosphoethanolamine synthase / phosphatidylethanolamine phospholipase C	2.7.8.27	Phosphatidylethanolamine	1,2-Diacyl-sn-glycerol	white
+sphingomyelin synthase / ceramide phosphoethanolamine synthase / phosphatidylethanolamine phospholipase C	2.7.8.27	Phosphatidylethanolamine	Ethanolamine phosphate	white

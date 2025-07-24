@@ -1,0 +1,762 @@
+enzyme_name	EC	source	target	color
+(-)-deoxypodophyllotoxin synthase	1.14.20.8	2-Oxoglutarate	CO2	white
+(-)-deoxypodophyllotoxin synthase	1.14.20.8	2-Oxoglutarate	Deoxypodophyllotoxin	white
+(-)-deoxypodophyllotoxin synthase	1.14.20.8	2-Oxoglutarate	H2O	white
+(-)-deoxypodophyllotoxin synthase	1.14.20.8	2-Oxoglutarate	Succinate	white
+(-)-deoxypodophyllotoxin synthase	1.14.20.8	CO2	2-Oxoglutarate	white
+(-)-deoxypodophyllotoxin synthase	1.14.20.8	CO2	Dihydroanhydropodorhizol	white
+(-)-deoxypodophyllotoxin synthase	1.14.20.8	CO2	Oxygen	white
+(-)-deoxypodophyllotoxin synthase	1.14.20.8	Deoxypodophyllotoxin	2-Oxoglutarate	white
+(-)-deoxypodophyllotoxin synthase	1.14.20.8	Deoxypodophyllotoxin	Dihydroanhydropodorhizol	white
+(-)-deoxypodophyllotoxin synthase	1.14.20.8	Deoxypodophyllotoxin	Oxygen	white
+(-)-deoxypodophyllotoxin synthase	1.14.20.8	Dihydroanhydropodorhizol	CO2	white
+(-)-deoxypodophyllotoxin synthase	1.14.20.8	Dihydroanhydropodorhizol	Deoxypodophyllotoxin	white
+(-)-deoxypodophyllotoxin synthase	1.14.20.8	Dihydroanhydropodorhizol	H2O	white
+(-)-deoxypodophyllotoxin synthase	1.14.20.8	Dihydroanhydropodorhizol	Succinate	white
+(-)-deoxypodophyllotoxin synthase	1.14.20.8	H2O	2-Oxoglutarate	white
+(-)-deoxypodophyllotoxin synthase	1.14.20.8	H2O	Dihydroanhydropodorhizol	white
+(-)-deoxypodophyllotoxin synthase	1.14.20.8	H2O	Oxygen	white
+(-)-deoxypodophyllotoxin synthase	1.14.20.8	Oxygen	CO2	white
+(-)-deoxypodophyllotoxin synthase	1.14.20.8	Oxygen	Deoxypodophyllotoxin	white
+(-)-deoxypodophyllotoxin synthase	1.14.20.8	Oxygen	H2O	white
+(-)-deoxypodophyllotoxin synthase	1.14.20.8	Oxygen	Succinate	white
+(-)-deoxypodophyllotoxin synthase	1.14.20.8	Succinate	2-Oxoglutarate	white
+(-)-deoxypodophyllotoxin synthase	1.14.20.8	Succinate	Dihydroanhydropodorhizol	white
+(-)-deoxypodophyllotoxin synthase	1.14.20.8	Succinate	Oxygen	white
+(-)-pluviatolide 4-O-methyltransferase	2.1.1.323	Bursehernin	Pluviatolide	white
+(-)-pluviatolide 4-O-methyltransferase	2.1.1.323	Bursehernin	S-Adenosyl-L-methionine	white
+(-)-pluviatolide 4-O-methyltransferase	2.1.1.323	Pluviatolide	Bursehernin	white
+(-)-pluviatolide 4-O-methyltransferase	2.1.1.323	Pluviatolide	S-Adenosyl-L-homocysteine	white
+(-)-pluviatolide 4-O-methyltransferase	2.1.1.323	S-Adenosyl-L-homocysteine	Pluviatolide	white
+(-)-pluviatolide 4-O-methyltransferase	2.1.1.323	S-Adenosyl-L-homocysteine	S-Adenosyl-L-methionine	white
+(-)-pluviatolide 4-O-methyltransferase	2.1.1.323	S-Adenosyl-L-methionine	Bursehernin	white
+(-)-pluviatolide 4-O-methyltransferase	2.1.1.323	S-Adenosyl-L-methionine	S-Adenosyl-L-homocysteine	white
+(-)-pluviatolide synthase	1.14.19.72	H2O	Matairesinol	white
+(-)-pluviatolide synthase	1.14.19.72	H2O	Oxygen	white
+(-)-pluviatolide synthase	1.14.19.72	H2O	[Reduced NADPH---hemoprotein reductase]	white
+(-)-pluviatolide synthase	1.14.19.72	Matairesinol	H2O	white
+(-)-pluviatolide synthase	1.14.19.72	Matairesinol	Pluviatolide	white
+(-)-pluviatolide synthase	1.14.19.72	Matairesinol	[Oxidized NADPH---hemoprotein reductase]	white
+(-)-pluviatolide synthase	1.14.19.72	Oxygen	H2O	white
+(-)-pluviatolide synthase	1.14.19.72	Oxygen	Pluviatolide	white
+(-)-pluviatolide synthase	1.14.19.72	Oxygen	[Oxidized NADPH---hemoprotein reductase]	white
+(-)-pluviatolide synthase	1.14.19.72	Pluviatolide	Matairesinol	white
+(-)-pluviatolide synthase	1.14.19.72	Pluviatolide	Oxygen	white
+(-)-pluviatolide synthase	1.14.19.72	Pluviatolide	[Reduced NADPH---hemoprotein reductase]	white
+(-)-pluviatolide synthase	1.14.19.72	[Oxidized NADPH---hemoprotein reductase]	Matairesinol	white
+(-)-pluviatolide synthase	1.14.19.72	[Oxidized NADPH---hemoprotein reductase]	Oxygen	white
+(-)-pluviatolide synthase	1.14.19.72	[Oxidized NADPH---hemoprotein reductase]	[Reduced NADPH---hemoprotein reductase]	white
+(-)-pluviatolide synthase	1.14.19.72	[Reduced NADPH---hemoprotein reductase]	H2O	white
+(-)-pluviatolide synthase	1.14.19.72	[Reduced NADPH---hemoprotein reductase]	Pluviatolide	white
+(-)-pluviatolide synthase	1.14.19.72	[Reduced NADPH---hemoprotein reductase]	[Oxidized NADPH---hemoprotein reductase]	white
+2'-deoxymugineic-acid 2'-dioxygenase / mugineic-acid 3-dioxygenase	1.14.11.24	2'-Deoxymugineic acid	CO2	white
+2'-deoxymugineic-acid 2'-dioxygenase / mugineic-acid 3-dioxygenase	1.14.11.24	2'-Deoxymugineic acid	Mugineic acid	white
+2'-deoxymugineic-acid 2'-dioxygenase / mugineic-acid 3-dioxygenase	1.14.11.24	2'-Deoxymugineic acid	Succinate	white
+2'-deoxymugineic-acid 2'-dioxygenase / mugineic-acid 3-dioxygenase	1.14.11.24	2-Oxoglutarate	CO2	white
+2'-deoxymugineic-acid 2'-dioxygenase / mugineic-acid 3-dioxygenase	1.14.11.24	2-Oxoglutarate	Mugineic acid	white
+2'-deoxymugineic-acid 2'-dioxygenase / mugineic-acid 3-dioxygenase	1.14.11.24	2-Oxoglutarate	Succinate	white
+2'-deoxymugineic-acid 2'-dioxygenase / mugineic-acid 3-dioxygenase	1.14.11.24	CO2	2'-Deoxymugineic acid	white
+2'-deoxymugineic-acid 2'-dioxygenase / mugineic-acid 3-dioxygenase	1.14.11.24	CO2	2-Oxoglutarate	white
+2'-deoxymugineic-acid 2'-dioxygenase / mugineic-acid 3-dioxygenase	1.14.11.24	CO2	Oxygen	white
+2'-deoxymugineic-acid 2'-dioxygenase / mugineic-acid 3-dioxygenase	1.14.11.24	Mugineic acid	2'-Deoxymugineic acid	white
+2'-deoxymugineic-acid 2'-dioxygenase / mugineic-acid 3-dioxygenase	1.14.11.24	Mugineic acid	2-Oxoglutarate	white
+2'-deoxymugineic-acid 2'-dioxygenase / mugineic-acid 3-dioxygenase	1.14.11.24	Mugineic acid	Oxygen	white
+2'-deoxymugineic-acid 2'-dioxygenase / mugineic-acid 3-dioxygenase	1.14.11.24	Oxygen	CO2	white
+2'-deoxymugineic-acid 2'-dioxygenase / mugineic-acid 3-dioxygenase	1.14.11.24	Oxygen	Mugineic acid	white
+2'-deoxymugineic-acid 2'-dioxygenase / mugineic-acid 3-dioxygenase	1.14.11.24	Oxygen	Succinate	white
+2'-deoxymugineic-acid 2'-dioxygenase / mugineic-acid 3-dioxygenase	1.14.11.24	Succinate	2'-Deoxymugineic acid	white
+2'-deoxymugineic-acid 2'-dioxygenase / mugineic-acid 3-dioxygenase	1.14.11.24	Succinate	2-Oxoglutarate	white
+2'-deoxymugineic-acid 2'-dioxygenase / mugineic-acid 3-dioxygenase	1.14.11.24	Succinate	Oxygen	white
+2,4,7-trihydroxy-1,4-benzoxazin-3-one-glucoside 7-O-methyltransferase	2.1.1.241	DIMBOA-glucoside	S-Adenosyl-L-methionine	white
+2,4,7-trihydroxy-1,4-benzoxazin-3-one-glucoside 7-O-methyltransferase	2.1.1.241	DIMBOA-glucoside	TRIBOA-glucoside	white
+2,4,7-trihydroxy-1,4-benzoxazin-3-one-glucoside 7-O-methyltransferase	2.1.1.241	S-Adenosyl-L-homocysteine	S-Adenosyl-L-methionine	white
+2,4,7-trihydroxy-1,4-benzoxazin-3-one-glucoside 7-O-methyltransferase	2.1.1.241	S-Adenosyl-L-homocysteine	TRIBOA-glucoside	white
+2,4,7-trihydroxy-1,4-benzoxazin-3-one-glucoside 7-O-methyltransferase	2.1.1.241	S-Adenosyl-L-methionine	DIMBOA-glucoside	white
+2,4,7-trihydroxy-1,4-benzoxazin-3-one-glucoside 7-O-methyltransferase	2.1.1.241	S-Adenosyl-L-methionine	S-Adenosyl-L-homocysteine	white
+2,4,7-trihydroxy-1,4-benzoxazin-3-one-glucoside 7-O-methyltransferase	2.1.1.241	TRIBOA-glucoside	DIMBOA-glucoside	white
+2,4,7-trihydroxy-1,4-benzoxazin-3-one-glucoside 7-O-methyltransferase	2.1.1.241	TRIBOA-glucoside	S-Adenosyl-L-homocysteine	white
+2,4-dihydroxy-1,4-benzoxazin-3-one-glucoside dioxygenase	1.14.11.59	2-Oxoglutarate	CO2	white
+2,4-dihydroxy-1,4-benzoxazin-3-one-glucoside dioxygenase	1.14.11.59	2-Oxoglutarate	Succinate	white
+2,4-dihydroxy-1,4-benzoxazin-3-one-glucoside dioxygenase	1.14.11.59	2-Oxoglutarate	TRIBOA-glucoside	white
+2,4-dihydroxy-1,4-benzoxazin-3-one-glucoside dioxygenase	1.14.11.59	CO2	2-Oxoglutarate	white
+2,4-dihydroxy-1,4-benzoxazin-3-one-glucoside dioxygenase	1.14.11.59	CO2	DIBOA-glucoside	white
+2,4-dihydroxy-1,4-benzoxazin-3-one-glucoside dioxygenase	1.14.11.59	CO2	Oxygen	white
+2,4-dihydroxy-1,4-benzoxazin-3-one-glucoside dioxygenase	1.14.11.59	DIBOA-glucoside	CO2	white
+2,4-dihydroxy-1,4-benzoxazin-3-one-glucoside dioxygenase	1.14.11.59	DIBOA-glucoside	Succinate	white
+2,4-dihydroxy-1,4-benzoxazin-3-one-glucoside dioxygenase	1.14.11.59	DIBOA-glucoside	TRIBOA-glucoside	white
+2,4-dihydroxy-1,4-benzoxazin-3-one-glucoside dioxygenase	1.14.11.59	Oxygen	CO2	white
+2,4-dihydroxy-1,4-benzoxazin-3-one-glucoside dioxygenase	1.14.11.59	Oxygen	Succinate	white
+2,4-dihydroxy-1,4-benzoxazin-3-one-glucoside dioxygenase	1.14.11.59	Oxygen	TRIBOA-glucoside	white
+2,4-dihydroxy-1,4-benzoxazin-3-one-glucoside dioxygenase	1.14.11.59	Succinate	2-Oxoglutarate	white
+2,4-dihydroxy-1,4-benzoxazin-3-one-glucoside dioxygenase	1.14.11.59	Succinate	DIBOA-glucoside	white
+2,4-dihydroxy-1,4-benzoxazin-3-one-glucoside dioxygenase	1.14.11.59	Succinate	Oxygen	white
+2,4-dihydroxy-1,4-benzoxazin-3-one-glucoside dioxygenase	1.14.11.59	TRIBOA-glucoside	2-Oxoglutarate	white
+2,4-dihydroxy-1,4-benzoxazin-3-one-glucoside dioxygenase	1.14.11.59	TRIBOA-glucoside	DIBOA-glucoside	white
+2,4-dihydroxy-1,4-benzoxazin-3-one-glucoside dioxygenase	1.14.11.59	TRIBOA-glucoside	Oxygen	white
+2-hydroxy-1,4-benzoxazin-3-one monooxygenase	1.14.14.110	DIBOA	HBOA	white
+2-hydroxy-1,4-benzoxazin-3-one monooxygenase	1.14.14.110	DIBOA	Oxygen	white
+2-hydroxy-1,4-benzoxazin-3-one monooxygenase	1.14.14.110	DIBOA	[Reduced NADPH---hemoprotein reductase]	white
+2-hydroxy-1,4-benzoxazin-3-one monooxygenase	1.14.14.110	H2O	HBOA	white
+2-hydroxy-1,4-benzoxazin-3-one monooxygenase	1.14.14.110	H2O	Oxygen	white
+2-hydroxy-1,4-benzoxazin-3-one monooxygenase	1.14.14.110	H2O	[Reduced NADPH---hemoprotein reductase]	white
+2-hydroxy-1,4-benzoxazin-3-one monooxygenase	1.14.14.110	HBOA	DIBOA	white
+2-hydroxy-1,4-benzoxazin-3-one monooxygenase	1.14.14.110	HBOA	H2O	white
+2-hydroxy-1,4-benzoxazin-3-one monooxygenase	1.14.14.110	HBOA	[Oxidized NADPH---hemoprotein reductase]	white
+2-hydroxy-1,4-benzoxazin-3-one monooxygenase	1.14.14.110	Oxygen	DIBOA	white
+2-hydroxy-1,4-benzoxazin-3-one monooxygenase	1.14.14.110	Oxygen	H2O	white
+2-hydroxy-1,4-benzoxazin-3-one monooxygenase	1.14.14.110	Oxygen	[Oxidized NADPH---hemoprotein reductase]	white
+2-hydroxy-1,4-benzoxazin-3-one monooxygenase	1.14.14.110	[Oxidized NADPH---hemoprotein reductase]	HBOA	white
+2-hydroxy-1,4-benzoxazin-3-one monooxygenase	1.14.14.110	[Oxidized NADPH---hemoprotein reductase]	Oxygen	white
+2-hydroxy-1,4-benzoxazin-3-one monooxygenase	1.14.14.110	[Oxidized NADPH---hemoprotein reductase]	[Reduced NADPH---hemoprotein reductase]	white
+2-hydroxy-1,4-benzoxazin-3-one monooxygenase	1.14.14.110	[Reduced NADPH---hemoprotein reductase]	DIBOA	white
+2-hydroxy-1,4-benzoxazin-3-one monooxygenase	1.14.14.110	[Reduced NADPH---hemoprotein reductase]	H2O	white
+2-hydroxy-1,4-benzoxazin-3-one monooxygenase	1.14.14.110	[Reduced NADPH---hemoprotein reductase]	[Oxidized NADPH---hemoprotein reductase]	white
+3''-deamino-3''-oxonicotianamine reductase	1.1.1.285	2'-Deoxymugineic acid	3''-Deamino-3''-oxonicotianamine	white
+3''-deamino-3''-oxonicotianamine reductase	1.1.1.285	2'-Deoxymugineic acid	H+	white
+3''-deamino-3''-oxonicotianamine reductase	1.1.1.285	2'-Deoxymugineic acid	NADH	white
+3''-deamino-3''-oxonicotianamine reductase	1.1.1.285	3''-Deamino-3''-oxonicotianamine	2'-Deoxymugineic acid	white
+3''-deamino-3''-oxonicotianamine reductase	1.1.1.285	3''-Deamino-3''-oxonicotianamine	NAD+	white
+3''-deamino-3''-oxonicotianamine reductase	1.1.1.285	H+	2'-Deoxymugineic acid	white
+3''-deamino-3''-oxonicotianamine reductase	1.1.1.285	H+	NAD+	white
+3''-deamino-3''-oxonicotianamine reductase	1.1.1.285	NAD+	3''-Deamino-3''-oxonicotianamine	white
+3''-deamino-3''-oxonicotianamine reductase	1.1.1.285	NAD+	H+	white
+3''-deamino-3''-oxonicotianamine reductase	1.1.1.285	NAD+	NADH	white
+3''-deamino-3''-oxonicotianamine reductase	1.1.1.285	NADH	2'-Deoxymugineic acid	white
+3''-deamino-3''-oxonicotianamine reductase	1.1.1.285	NADH	NAD+	white
+3,5,7-trioxododecanoyl-CoA synthase	2.3.1.206	3,5,7-Trioxododecanoyl-CoA	Hexanoyl-CoA	white
+3,5,7-trioxododecanoyl-CoA synthase	2.3.1.206	3,5,7-Trioxododecanoyl-CoA	Malonyl-CoA	white
+3,5,7-trioxododecanoyl-CoA synthase	2.3.1.206	CO2	Hexanoyl-CoA	white
+3,5,7-trioxododecanoyl-CoA synthase	2.3.1.206	CO2	Malonyl-CoA	white
+3,5,7-trioxododecanoyl-CoA synthase	2.3.1.206	CoA	Hexanoyl-CoA	white
+3,5,7-trioxododecanoyl-CoA synthase	2.3.1.206	CoA	Malonyl-CoA	white
+3,5,7-trioxododecanoyl-CoA synthase	2.3.1.206	Hexanoyl-CoA	3,5,7-Trioxododecanoyl-CoA	white
+3,5,7-trioxododecanoyl-CoA synthase	2.3.1.206	Hexanoyl-CoA	CO2	white
+3,5,7-trioxododecanoyl-CoA synthase	2.3.1.206	Hexanoyl-CoA	CoA	white
+3,5,7-trioxododecanoyl-CoA synthase	2.3.1.206	Malonyl-CoA	3,5,7-Trioxododecanoyl-CoA	white
+3,5,7-trioxododecanoyl-CoA synthase	2.3.1.206	Malonyl-CoA	CO2	white
+3,5,7-trioxododecanoyl-CoA synthase	2.3.1.206	Malonyl-CoA	CoA	white
+3-aminomethylindole N-methyltransferase	2.1.1.340	3-(Aminomethyl)indole	Gramine	white
+3-aminomethylindole N-methyltransferase	2.1.1.340	3-(Aminomethyl)indole	S-Adenosyl-L-homocysteine	white
+3-aminomethylindole N-methyltransferase	2.1.1.340	Gramine	3-(Aminomethyl)indole	white
+3-aminomethylindole N-methyltransferase	2.1.1.340	Gramine	S-Adenosyl-L-methionine	white
+3-aminomethylindole N-methyltransferase	2.1.1.340	S-Adenosyl-L-homocysteine	3-(Aminomethyl)indole	white
+3-aminomethylindole N-methyltransferase	2.1.1.340	S-Adenosyl-L-homocysteine	S-Adenosyl-L-methionine	white
+3-aminomethylindole N-methyltransferase	2.1.1.340	S-Adenosyl-L-methionine	Gramine	white
+3-aminomethylindole N-methyltransferase	2.1.1.340	S-Adenosyl-L-methionine	S-Adenosyl-L-homocysteine	white
+3-dehydroquinate dehydratase / shikimate dehydrogenase	4.2.1.10	3-Dehydroshikimate	NADP+	white
+3-dehydroquinate dehydratase / shikimate dehydrogenase	4.2.1.10	3-Dehydroshikimate	Shikimate	white
+3-dehydroquinate dehydratase / shikimate dehydrogenase	4.2.1.10	H+	NADP+	white
+3-dehydroquinate dehydratase / shikimate dehydrogenase	4.2.1.10	H+	Shikimate	white
+3-dehydroquinate dehydratase / shikimate dehydrogenase	4.2.1.10	NADP+	3-Dehydroshikimate	white
+3-dehydroquinate dehydratase / shikimate dehydrogenase	4.2.1.10	NADP+	H+	white
+3-dehydroquinate dehydratase / shikimate dehydrogenase	4.2.1.10	NADP+	NADPH	white
+3-dehydroquinate dehydratase / shikimate dehydrogenase	4.2.1.10	NADPH	NADP+	white
+3-dehydroquinate dehydratase / shikimate dehydrogenase	4.2.1.10	NADPH	Shikimate	white
+3-dehydroquinate dehydratase / shikimate dehydrogenase	4.2.1.10	Shikimate	3-Dehydroshikimate	white
+3-dehydroquinate dehydratase / shikimate dehydrogenase	4.2.1.10	Shikimate	H+	white
+3-dehydroquinate dehydratase / shikimate dehydrogenase	4.2.1.10	Shikimate	NADPH	white
+3-hydroxyindolin-2-one monooxygenase	1.14.14.109	3-Hydroxyindolin-2-one	H2O	white
+3-hydroxyindolin-2-one monooxygenase	1.14.14.109	3-Hydroxyindolin-2-one	HBOA	white
+3-hydroxyindolin-2-one monooxygenase	1.14.14.109	3-Hydroxyindolin-2-one	[Oxidized NADPH---hemoprotein reductase]	white
+3-hydroxyindolin-2-one monooxygenase	1.14.14.109	H2O	3-Hydroxyindolin-2-one	white
+3-hydroxyindolin-2-one monooxygenase	1.14.14.109	H2O	Oxygen	white
+3-hydroxyindolin-2-one monooxygenase	1.14.14.109	H2O	[Reduced NADPH---hemoprotein reductase]	white
+3-hydroxyindolin-2-one monooxygenase	1.14.14.109	HBOA	3-Hydroxyindolin-2-one	white
+3-hydroxyindolin-2-one monooxygenase	1.14.14.109	HBOA	Oxygen	white
+3-hydroxyindolin-2-one monooxygenase	1.14.14.109	HBOA	[Reduced NADPH---hemoprotein reductase]	white
+3-hydroxyindolin-2-one monooxygenase	1.14.14.109	Oxygen	H2O	white
+3-hydroxyindolin-2-one monooxygenase	1.14.14.109	Oxygen	HBOA	white
+3-hydroxyindolin-2-one monooxygenase	1.14.14.109	Oxygen	[Oxidized NADPH---hemoprotein reductase]	white
+3-hydroxyindolin-2-one monooxygenase	1.14.14.109	[Oxidized NADPH---hemoprotein reductase]	3-Hydroxyindolin-2-one	white
+3-hydroxyindolin-2-one monooxygenase	1.14.14.109	[Oxidized NADPH---hemoprotein reductase]	Oxygen	white
+3-hydroxyindolin-2-one monooxygenase	1.14.14.109	[Oxidized NADPH---hemoprotein reductase]	[Reduced NADPH---hemoprotein reductase]	white
+3-hydroxyindolin-2-one monooxygenase	1.14.14.109	[Reduced NADPH---hemoprotein reductase]	H2O	white
+3-hydroxyindolin-2-one monooxygenase	1.14.14.109	[Reduced NADPH---hemoprotein reductase]	HBOA	white
+3-hydroxyindolin-2-one monooxygenase	1.14.14.109	[Reduced NADPH---hemoprotein reductase]	[Oxidized NADPH---hemoprotein reductase]	white
+4-keto-6-deoxyglucose 4-dehydrogenase	2.4.1.-	Quillaic acid 3-O-beta-D-xylosyl-1,3-(beta-D-galactosyl-1,2)-beta-D-glucuronide	Quillaic acid 3-O-beta-D-xylosyl-1,3-(beta-D-galactosyl-1,2)-beta-D-glucuronide-28-O-beta-D-fucoside	white
+4-keto-6-deoxyglucose 4-dehydrogenase	2.4.1.-	Quillaic acid 3-O-beta-D-xylosyl-1,3-(beta-D-galactosyl-1,2)-beta-D-glucuronide-28-O-beta-D-fucoside	Quillaic acid 3-O-beta-D-xylosyl-1,3-(beta-D-galactosyl-1,2)-beta-D-glucuronide	white
+5'-demethylyatein 5'-O-methyltransferase	2.1.1.330	(-)-5'-Demethylyatein	Dihydroanhydropodorhizol	white
+5'-demethylyatein 5'-O-methyltransferase	2.1.1.330	(-)-5'-Demethylyatein	S-Adenosyl-L-homocysteine	white
+5'-demethylyatein 5'-O-methyltransferase	2.1.1.330	Dihydroanhydropodorhizol	(-)-5'-Demethylyatein	white
+5'-demethylyatein 5'-O-methyltransferase	2.1.1.330	Dihydroanhydropodorhizol	S-Adenosyl-L-methionine	white
+5'-demethylyatein 5'-O-methyltransferase	2.1.1.330	S-Adenosyl-L-homocysteine	(-)-5'-Demethylyatein	white
+5'-demethylyatein 5'-O-methyltransferase	2.1.1.330	S-Adenosyl-L-homocysteine	S-Adenosyl-L-methionine	white
+5'-demethylyatein 5'-O-methyltransferase	2.1.1.330	S-Adenosyl-L-methionine	Dihydroanhydropodorhizol	white
+5'-demethylyatein 5'-O-methyltransferase	2.1.1.330	S-Adenosyl-L-methionine	S-Adenosyl-L-homocysteine	white
+5-hydroxyfuranocoumarin 5-O-methyltransferase	2.1.1.69	Bergapten	Bergaptol	white
+5-hydroxyfuranocoumarin 5-O-methyltransferase	2.1.1.69	Bergapten	S-Adenosyl-L-methionine	white
+5-hydroxyfuranocoumarin 5-O-methyltransferase	2.1.1.69	Bergaptol	Bergapten	white
+5-hydroxyfuranocoumarin 5-O-methyltransferase	2.1.1.69	Bergaptol	S-Adenosyl-L-homocysteine	white
+5-hydroxyfuranocoumarin 5-O-methyltransferase	2.1.1.69	S-Adenosyl-L-homocysteine	Bergaptol	white
+5-hydroxyfuranocoumarin 5-O-methyltransferase	2.1.1.69	S-Adenosyl-L-homocysteine	S-Adenosyl-L-methionine	white
+5-hydroxyfuranocoumarin 5-O-methyltransferase	2.1.1.69	S-Adenosyl-L-methionine	Bergapten	white
+5-hydroxyfuranocoumarin 5-O-methyltransferase	2.1.1.69	S-Adenosyl-L-methionine	S-Adenosyl-L-homocysteine	white
+O-acetyltransferase	2.4.2.-	Quillaic acid 3-O-beta-D-xylosyl-1,3-(beta-D-galactosyl-1,2)-beta-D-glucuronide 28-O-beta-D-apiosyl-1,3-beta-D-xylosyl-1,4-(beta-D-glucosyl-1,3)-alpha-L-rhamnosyl-1,2-(alpha-L-rhamnosyl-1,3)-4-O-acetyl-beta-D-fucoside	Quillaic acid 3-O-beta-D-xylosyl-1,3-(beta-D-galactosyl-1,2)-beta-D-glucuronide-28-O-beta-D-apiosyl-1,3-beta-D-xylosyl-1,4-alpha-L-rhamnosyl-1,2-beta-D-fucoside	white
+O-acetyltransferase	2.4.2.-	Quillaic acid 3-O-beta-D-xylosyl-1,3-(beta-D-galactosyl-1,2)-beta-D-glucuronide-28-O-beta-D-apiosyl-1,3-beta-D-xylosyl-1,4-alpha-L-rhamnosyl-1,2-beta-D-fucoside	Quillaic acid 3-O-beta-D-xylosyl-1,3-(beta-D-galactosyl-1,2)-beta-D-glucuronide 28-O-beta-D-apiosyl-1,3-beta-D-xylosyl-1,4-(beta-D-glucosyl-1,3)-alpha-L-rhamnosyl-1,2-(alpha-L-rhamnosyl-1,3)-4-O-acetyl-beta-D-fucoside	white
+S-adenosylmethionine synthetase	2.5.1.6	Diphosphate	ATP	green
+S-adenosylmethionine synthetase	2.5.1.6	Diphosphate	H2O	green
+S-adenosylmethionine synthetase	2.5.1.6	Diphosphate	L-Methionine	green
+S-adenosylmethionine synthetase	2.5.1.6	Orthophosphate	ATP	green
+S-adenosylmethionine synthetase	2.5.1.6	Orthophosphate	H2O	green
+S-adenosylmethionine synthetase	2.5.1.6	Orthophosphate	L-Methionine	green
+S-adenosylmethionine synthetase	2.5.1.6	S-Adenosyl-L-methionine	ATP	green
+S-adenosylmethionine synthetase	2.5.1.6	S-Adenosyl-L-methionine	H2O	green
+S-adenosylmethionine synthetase	2.5.1.6	S-Adenosyl-L-methionine	L-Methionine	green
+UDP-glucosyltransferase BX8/BX9	2.4.1.202	DIMBOA	DIMBOA-glucoside	white
+UDP-glucosyltransferase BX8/BX9	2.4.1.202	DIMBOA	UDP	white
+UDP-glucosyltransferase BX8/BX9	2.4.1.202	DIMBOA-glucoside	DIMBOA	white
+UDP-glucosyltransferase BX8/BX9	2.4.1.202	DIMBOA-glucoside	UDP-glucose	white
+UDP-glucosyltransferase BX8/BX9	2.4.1.202	UDP	DIMBOA	white
+UDP-glucosyltransferase BX8/BX9	2.4.1.202	UDP	UDP-glucose	white
+UDP-glucosyltransferase BX8/BX9	2.4.1.202	UDP-glucose	DIMBOA-glucoside	white
+UDP-glucosyltransferase BX8/BX9	2.4.1.202	UDP-glucose	UDP	white
+agmatine coumaroyltransferase	2.3.1.64	Agmatine	CoA	white
+agmatine coumaroyltransferase	2.3.1.64	Agmatine	p-Coumaroylagmatine	white
+agmatine coumaroyltransferase	2.3.1.64	CoA	Agmatine	white
+agmatine coumaroyltransferase	2.3.1.64	CoA	p-Coumaroyl-CoA	white
+agmatine coumaroyltransferase	2.3.1.64	p-Coumaroyl-CoA	CoA	white
+agmatine coumaroyltransferase	2.3.1.64	p-Coumaroyl-CoA	p-Coumaroylagmatine	white
+agmatine coumaroyltransferase	2.3.1.64	p-Coumaroylagmatine	Agmatine	white
+agmatine coumaroyltransferase	2.3.1.64	p-Coumaroylagmatine	p-Coumaroyl-CoA	white
+alpha-1,3-rhamnosyltransferase	2.4.1.-	Quillaic acid 3-O-beta-D-xylosyl-1,3-(beta-D-galactosyl-1,2)-beta-D-glucuronide 28-O-beta-D-apiosyl-1,3-beta-D-xylosyl-1,4-(beta-D-glucosyl-1,3)-alpha-L-rhamnosyl-1,2-(alpha-L-rhamnosyl-1,3)-4-O-acetyl-beta-D-fucoside	Quillaic acid 3-O-beta-D-xylosyl-1,3-(beta-D-galactosyl-1,2)-beta-D-glucuronide-28-O-beta-D-apiosyl-1,3-beta-D-xylosyl-1,4-alpha-L-rhamnosyl-1,2-beta-D-fucoside	white
+alpha-1,3-rhamnosyltransferase	2.4.1.-	Quillaic acid 3-O-beta-D-xylosyl-1,3-(beta-D-galactosyl-1,2)-beta-D-glucuronide-28-O-beta-D-apiosyl-1,3-beta-D-xylosyl-1,4-alpha-L-rhamnosyl-1,2-beta-D-fucoside	Quillaic acid 3-O-beta-D-xylosyl-1,3-(beta-D-galactosyl-1,2)-beta-D-glucuronide 28-O-beta-D-apiosyl-1,3-beta-D-xylosyl-1,4-(beta-D-glucosyl-1,3)-alpha-L-rhamnosyl-1,2-(alpha-L-rhamnosyl-1,3)-4-O-acetyl-beta-D-fucoside	white
+angelicin synthase	1.14.14.148	(+)-Columbianetin	Acetone	white
+angelicin synthase	1.14.14.148	(+)-Columbianetin	Angelicin	white
+angelicin synthase	1.14.14.148	(+)-Columbianetin	H2O	white
+angelicin synthase	1.14.14.148	(+)-Columbianetin	[Oxidized NADPH---hemoprotein reductase]	white
+angelicin synthase	1.14.14.148	Acetone	(+)-Columbianetin	white
+angelicin synthase	1.14.14.148	Acetone	Oxygen	white
+angelicin synthase	1.14.14.148	Acetone	[Reduced NADPH---hemoprotein reductase]	white
+angelicin synthase	1.14.14.148	Angelicin	(+)-Columbianetin	white
+angelicin synthase	1.14.14.148	Angelicin	Oxygen	white
+angelicin synthase	1.14.14.148	Angelicin	[Reduced NADPH---hemoprotein reductase]	white
+angelicin synthase	1.14.14.148	H2O	(+)-Columbianetin	white
+angelicin synthase	1.14.14.148	H2O	Oxygen	white
+angelicin synthase	1.14.14.148	H2O	[Reduced NADPH---hemoprotein reductase]	white
+angelicin synthase	1.14.14.148	Oxygen	Acetone	white
+angelicin synthase	1.14.14.148	Oxygen	Angelicin	white
+angelicin synthase	1.14.14.148	Oxygen	H2O	white
+angelicin synthase	1.14.14.148	Oxygen	[Oxidized NADPH---hemoprotein reductase]	white
+angelicin synthase	1.14.14.148	[Oxidized NADPH---hemoprotein reductase]	(+)-Columbianetin	white
+angelicin synthase	1.14.14.148	[Oxidized NADPH---hemoprotein reductase]	Oxygen	white
+angelicin synthase	1.14.14.148	[Oxidized NADPH---hemoprotein reductase]	[Reduced NADPH---hemoprotein reductase]	white
+angelicin synthase	1.14.14.148	[Reduced NADPH---hemoprotein reductase]	Acetone	white
+angelicin synthase	1.14.14.148	[Reduced NADPH---hemoprotein reductase]	Angelicin	white
+angelicin synthase	1.14.14.148	[Reduced NADPH---hemoprotein reductase]	H2O	white
+angelicin synthase	1.14.14.148	[Reduced NADPH---hemoprotein reductase]	[Oxidized NADPH---hemoprotein reductase]	white
+beta-1,3-glucosyltransferase	2.4.1.-	Quillaic acid 3-O-beta-D-xylosyl-1,3-(beta-D-galactosyl-1,2)-beta-D-glucuronide 28-O-beta-D-apiosyl-1,3-beta-D-xylosyl-1,4-(beta-D-glucosyl-1,3)-alpha-L-rhamnosyl-1,2-(alpha-L-rhamnosyl-1,3)-4-O-acetyl-beta-D-fucoside	Quillaic acid 3-O-beta-D-xylosyl-1,3-(beta-D-galactosyl-1,2)-beta-D-glucuronide-28-O-beta-D-apiosyl-1,3-beta-D-xylosyl-1,4-alpha-L-rhamnosyl-1,2-beta-D-fucoside	white
+beta-1,3-glucosyltransferase	2.4.1.-	Quillaic acid 3-O-beta-D-xylosyl-1,3-(beta-D-galactosyl-1,2)-beta-D-glucuronide-28-O-beta-D-apiosyl-1,3-beta-D-xylosyl-1,4-alpha-L-rhamnosyl-1,2-beta-D-fucoside	Quillaic acid 3-O-beta-D-xylosyl-1,3-(beta-D-galactosyl-1,2)-beta-D-glucuronide 28-O-beta-D-apiosyl-1,3-beta-D-xylosyl-1,4-(beta-D-glucosyl-1,3)-alpha-L-rhamnosyl-1,2-(alpha-L-rhamnosyl-1,3)-4-O-acetyl-beta-D-fucoside	white
+beta-D-glucosyl crocetin beta-1,6-glucosyltransferase	2.4.1.330	UDP	UDP-glucose	white
+beta-D-glucosyl crocetin beta-1,6-glucosyltransferase	2.4.1.330	UDP	beta-D-Glucosyl crocetin	white
+beta-D-glucosyl crocetin beta-1,6-glucosyltransferase	2.4.1.330	UDP-glucose	UDP	white
+beta-D-glucosyl crocetin beta-1,6-glucosyltransferase	2.4.1.330	UDP-glucose	beta-D-Gentiobiosyl crocetin	white
+beta-D-glucosyl crocetin beta-1,6-glucosyltransferase	2.4.1.330	beta-D-Gentiobiosyl crocetin	UDP-glucose	white
+beta-D-glucosyl crocetin beta-1,6-glucosyltransferase	2.4.1.330	beta-D-Gentiobiosyl crocetin	beta-D-Glucosyl crocetin	white
+beta-D-glucosyl crocetin beta-1,6-glucosyltransferase	2.4.1.330	beta-D-Glucosyl crocetin	UDP	white
+beta-D-glucosyl crocetin beta-1,6-glucosyltransferase	2.4.1.330	beta-D-Glucosyl crocetin	beta-D-Gentiobiosyl crocetin	white
+beta-amyrin 28-monooxygenase	1.14.14.126	H2O	Oxygen	white
+beta-amyrin 28-monooxygenase	1.14.14.126	H2O	[Reduced NADPH---hemoprotein reductase]	white
+beta-amyrin 28-monooxygenase	1.14.14.126	H2O	beta-Amyrin	white
+beta-amyrin 28-monooxygenase	1.14.14.126	Oleanolic acid	Oxygen	white
+beta-amyrin 28-monooxygenase	1.14.14.126	Oleanolic acid	[Reduced NADPH---hemoprotein reductase]	white
+beta-amyrin 28-monooxygenase	1.14.14.126	Oleanolic acid	beta-Amyrin	white
+beta-amyrin 28-monooxygenase	1.14.14.126	Oxygen	H2O	white
+beta-amyrin 28-monooxygenase	1.14.14.126	Oxygen	Oleanolic acid	white
+beta-amyrin 28-monooxygenase	1.14.14.126	Oxygen	[Oxidized NADPH---hemoprotein reductase]	white
+beta-amyrin 28-monooxygenase	1.14.14.126	[Oxidized NADPH---hemoprotein reductase]	Oxygen	white
+beta-amyrin 28-monooxygenase	1.14.14.126	[Oxidized NADPH---hemoprotein reductase]	[Reduced NADPH---hemoprotein reductase]	white
+beta-amyrin 28-monooxygenase	1.14.14.126	[Oxidized NADPH---hemoprotein reductase]	beta-Amyrin	white
+beta-amyrin 28-monooxygenase	1.14.14.126	[Reduced NADPH---hemoprotein reductase]	H2O	white
+beta-amyrin 28-monooxygenase	1.14.14.126	[Reduced NADPH---hemoprotein reductase]	Oleanolic acid	white
+beta-amyrin 28-monooxygenase	1.14.14.126	[Reduced NADPH---hemoprotein reductase]	[Oxidized NADPH---hemoprotein reductase]	white
+beta-amyrin 28-monooxygenase	1.14.14.126	beta-Amyrin	H2O	white
+beta-amyrin 28-monooxygenase	1.14.14.126	beta-Amyrin	Oleanolic acid	white
+beta-amyrin 28-monooxygenase	1.14.14.126	beta-Amyrin	[Oxidized NADPH---hemoprotein reductase]	white
+beta-amyrin synthase	5.4.99.39	(S)-2,3-Epoxysqualene	beta-Amyrin	white
+beta-amyrin synthase	5.4.99.39	beta-Amyrin	(S)-2,3-Epoxysqualene	white
+beta-glucosidase	3.2.1.21	H2O	D-Glucose	green
+beta-glucosidase	3.2.1.21	H2O	cis-2-Hydroxycinnamate	green
+beta-glucosidase	3.2.1.21	cis-beta-D-Glucosyl-2-hydroxycinnamate	D-Glucose	green
+beta-glucosidase	3.2.1.21	cis-beta-D-Glucosyl-2-hydroxycinnamate	cis-2-Hydroxycinnamate	green
+bursehernin 5'-monooxygenase	1.14.14.131	(-)-5'-Demethylyatein	Bursehernin	white
+bursehernin 5'-monooxygenase	1.14.14.131	(-)-5'-Demethylyatein	Oxygen	white
+bursehernin 5'-monooxygenase	1.14.14.131	(-)-5'-Demethylyatein	[Reduced NADPH---hemoprotein reductase]	white
+bursehernin 5'-monooxygenase	1.14.14.131	Bursehernin	(-)-5'-Demethylyatein	white
+bursehernin 5'-monooxygenase	1.14.14.131	Bursehernin	H2O	white
+bursehernin 5'-monooxygenase	1.14.14.131	Bursehernin	[Oxidized NADPH---hemoprotein reductase]	white
+bursehernin 5'-monooxygenase	1.14.14.131	H2O	Bursehernin	white
+bursehernin 5'-monooxygenase	1.14.14.131	H2O	Oxygen	white
+bursehernin 5'-monooxygenase	1.14.14.131	H2O	[Reduced NADPH---hemoprotein reductase]	white
+bursehernin 5'-monooxygenase	1.14.14.131	Oxygen	(-)-5'-Demethylyatein	white
+bursehernin 5'-monooxygenase	1.14.14.131	Oxygen	H2O	white
+bursehernin 5'-monooxygenase	1.14.14.131	Oxygen	[Oxidized NADPH---hemoprotein reductase]	white
+bursehernin 5'-monooxygenase	1.14.14.131	[Oxidized NADPH---hemoprotein reductase]	Bursehernin	white
+bursehernin 5'-monooxygenase	1.14.14.131	[Oxidized NADPH---hemoprotein reductase]	Oxygen	white
+bursehernin 5'-monooxygenase	1.14.14.131	[Oxidized NADPH---hemoprotein reductase]	[Reduced NADPH---hemoprotein reductase]	white
+bursehernin 5'-monooxygenase	1.14.14.131	[Reduced NADPH---hemoprotein reductase]	(-)-5'-Demethylyatein	white
+bursehernin 5'-monooxygenase	1.14.14.131	[Reduced NADPH---hemoprotein reductase]	H2O	white
+bursehernin 5'-monooxygenase	1.14.14.131	[Reduced NADPH---hemoprotein reductase]	[Oxidized NADPH---hemoprotein reductase]	white
+cannabidiolic acid synthase	1.21.3.8	Cannabidiolic acid	Cannabigerolate	white
+cannabidiolic acid synthase	1.21.3.8	Cannabidiolic acid	Oxygen	white
+cannabidiolic acid synthase	1.21.3.8	Cannabigerolate	Cannabidiolic acid	white
+cannabidiolic acid synthase	1.21.3.8	Cannabigerolate	Hydrogen peroxide	white
+cannabidiolic acid synthase	1.21.3.8	Hydrogen peroxide	Cannabigerolate	white
+cannabidiolic acid synthase	1.21.3.8	Hydrogen peroxide	Oxygen	white
+cannabidiolic acid synthase	1.21.3.8	Oxygen	Cannabidiolic acid	white
+cannabidiolic acid synthase	1.21.3.8	Oxygen	Hydrogen peroxide	white
+crocetin dialdehyde synthase	1.13.11.84	(3S)-3-Hydroxycyclocitral	Oxygen	white
+crocetin dialdehyde synthase	1.13.11.84	(3S)-3-Hydroxycyclocitral	Zeaxanthin	white
+crocetin dialdehyde synthase	1.13.11.84	Oxygen	(3S)-3-Hydroxycyclocitral	white
+crocetin dialdehyde synthase	1.13.11.84	Oxygen	beta-Citraurin	white
+crocetin dialdehyde synthase	1.13.11.84	Zeaxanthin	(3S)-3-Hydroxycyclocitral	white
+crocetin dialdehyde synthase	1.13.11.84	Zeaxanthin	beta-Citraurin	white
+crocetin dialdehyde synthase	1.13.11.84	beta-Citraurin	Oxygen	white
+crocetin dialdehyde synthase	1.13.11.84	beta-Citraurin	Zeaxanthin	white
+crocetin glucosyltransferase	2.4.1.271	Crocetin	UDP	white
+crocetin glucosyltransferase	2.4.1.271	Crocetin	beta-D-Glucosyl crocetin	white
+crocetin glucosyltransferase	2.4.1.271	UDP	Crocetin	white
+crocetin glucosyltransferase	2.4.1.271	UDP	UDP-glucose	white
+crocetin glucosyltransferase	2.4.1.271	UDP-glucose	UDP	white
+crocetin glucosyltransferase	2.4.1.271	UDP-glucose	beta-D-Glucosyl crocetin	white
+crocetin glucosyltransferase	2.4.1.271	beta-D-Glucosyl crocetin	Crocetin	white
+crocetin glucosyltransferase	2.4.1.271	beta-D-Glucosyl crocetin	UDP-glucose	white
+cytochrome P450 family 71 subfamily AZ	1.14.14.-	H+	H2O	white
+cytochrome P450 family 71 subfamily AZ	1.14.14.-	H+	NADP+	white
+cytochrome P450 family 71 subfamily AZ	1.14.14.-	H+	Xanthotoxol	white
+cytochrome P450 family 71 subfamily AZ	1.14.14.-	H2O	H+	white
+cytochrome P450 family 71 subfamily AZ	1.14.14.-	H2O	NADPH	white
+cytochrome P450 family 71 subfamily AZ	1.14.14.-	H2O	Oxygen	white
+cytochrome P450 family 71 subfamily AZ	1.14.14.-	H2O	Psoralen	white
+cytochrome P450 family 71 subfamily AZ	1.14.14.-	NADP+	H+	white
+cytochrome P450 family 71 subfamily AZ	1.14.14.-	NADP+	NADPH	white
+cytochrome P450 family 71 subfamily AZ	1.14.14.-	NADP+	Oxygen	white
+cytochrome P450 family 71 subfamily AZ	1.14.14.-	NADP+	Psoralen	white
+cytochrome P450 family 71 subfamily AZ	1.14.14.-	NADPH	H2O	white
+cytochrome P450 family 71 subfamily AZ	1.14.14.-	NADPH	NADP+	white
+cytochrome P450 family 71 subfamily AZ	1.14.14.-	NADPH	Xanthotoxol	white
+cytochrome P450 family 71 subfamily AZ	1.14.14.-	Oxygen	H2O	white
+cytochrome P450 family 71 subfamily AZ	1.14.14.-	Oxygen	NADP+	white
+cytochrome P450 family 71 subfamily AZ	1.14.14.-	Oxygen	Xanthotoxol	white
+cytochrome P450 family 71 subfamily AZ	1.14.14.-	Psoralen	H2O	white
+cytochrome P450 family 71 subfamily AZ	1.14.14.-	Psoralen	NADP+	white
+cytochrome P450 family 71 subfamily AZ	1.14.14.-	Psoralen	Xanthotoxol	white
+cytochrome P450 family 71 subfamily AZ	1.14.14.-	Xanthotoxol	H+	white
+cytochrome P450 family 71 subfamily AZ	1.14.14.-	Xanthotoxol	NADPH	white
+cytochrome P450 family 71 subfamily AZ	1.14.14.-	Xanthotoxol	Oxygen	white
+cytochrome P450 family 71 subfamily AZ	1.14.14.-	Xanthotoxol	Psoralen	white
+dammarenediol 12-hydroxylase	1.14.14.120	Dammarenediol-II	H2O	white
+dammarenediol 12-hydroxylase	1.14.14.120	Dammarenediol-II	Protopanaxadiol	white
+dammarenediol 12-hydroxylase	1.14.14.120	Dammarenediol-II	[Oxidized NADPH---hemoprotein reductase]	white
+dammarenediol 12-hydroxylase	1.14.14.120	H2O	Dammarenediol-II	white
+dammarenediol 12-hydroxylase	1.14.14.120	H2O	Oxygen	white
+dammarenediol 12-hydroxylase	1.14.14.120	H2O	[Reduced NADPH---hemoprotein reductase]	white
+dammarenediol 12-hydroxylase	1.14.14.120	Oxygen	H2O	white
+dammarenediol 12-hydroxylase	1.14.14.120	Oxygen	Protopanaxadiol	white
+dammarenediol 12-hydroxylase	1.14.14.120	Oxygen	[Oxidized NADPH---hemoprotein reductase]	white
+dammarenediol 12-hydroxylase	1.14.14.120	Protopanaxadiol	Dammarenediol-II	white
+dammarenediol 12-hydroxylase	1.14.14.120	Protopanaxadiol	Oxygen	white
+dammarenediol 12-hydroxylase	1.14.14.120	Protopanaxadiol	[Reduced NADPH---hemoprotein reductase]	white
+dammarenediol 12-hydroxylase	1.14.14.120	[Oxidized NADPH---hemoprotein reductase]	Dammarenediol-II	white
+dammarenediol 12-hydroxylase	1.14.14.120	[Oxidized NADPH---hemoprotein reductase]	Oxygen	white
+dammarenediol 12-hydroxylase	1.14.14.120	[Oxidized NADPH---hemoprotein reductase]	[Reduced NADPH---hemoprotein reductase]	white
+dammarenediol 12-hydroxylase	1.14.14.120	[Reduced NADPH---hemoprotein reductase]	H2O	white
+dammarenediol 12-hydroxylase	1.14.14.120	[Reduced NADPH---hemoprotein reductase]	Protopanaxadiol	white
+dammarenediol 12-hydroxylase	1.14.14.120	[Reduced NADPH---hemoprotein reductase]	[Oxidized NADPH---hemoprotein reductase]	white
+dammarenediol II synthase	4.2.1.125	(S)-2,3-Epoxysqualene	Dammarenediol-II	white
+dammarenediol II synthase	4.2.1.125	Dammarenediol-II	(S)-2,3-Epoxysqualene	white
+dammarenediol II synthase	4.2.1.125	Dammarenediol-II	H2O	white
+dammarenediol II synthase	4.2.1.125	H2O	Dammarenediol-II	white
+echinocystic acid C23-oxidase	1.14.14.126	Echinocystic acid	Quillaic acid	white
+echinocystic acid C23-oxidase	1.14.14.126	Quillaic acid	Echinocystic acid	white
+feruloyl-CoA 6-hydroxylase	1.14.11.61	2-Oxoglutarate	6-Hydroxyferuloyl-CoA	white
+feruloyl-CoA 6-hydroxylase	1.14.11.61	2-Oxoglutarate	CO2	white
+feruloyl-CoA 6-hydroxylase	1.14.11.61	2-Oxoglutarate	Succinate	white
+feruloyl-CoA 6-hydroxylase	1.14.11.61	6-Hydroxyferuloyl-CoA	2-Oxoglutarate	white
+feruloyl-CoA 6-hydroxylase	1.14.11.61	6-Hydroxyferuloyl-CoA	Feruloyl-CoA	white
+feruloyl-CoA 6-hydroxylase	1.14.11.61	6-Hydroxyferuloyl-CoA	Oxygen	white
+feruloyl-CoA 6-hydroxylase	1.14.11.61	CO2	2-Oxoglutarate	white
+feruloyl-CoA 6-hydroxylase	1.14.11.61	CO2	Feruloyl-CoA	white
+feruloyl-CoA 6-hydroxylase	1.14.11.61	CO2	Oxygen	white
+feruloyl-CoA 6-hydroxylase	1.14.11.61	Feruloyl-CoA	6-Hydroxyferuloyl-CoA	white
+feruloyl-CoA 6-hydroxylase	1.14.11.61	Feruloyl-CoA	CO2	white
+feruloyl-CoA 6-hydroxylase	1.14.11.61	Feruloyl-CoA	Succinate	white
+feruloyl-CoA 6-hydroxylase	1.14.11.61	Oxygen	6-Hydroxyferuloyl-CoA	white
+feruloyl-CoA 6-hydroxylase	1.14.11.61	Oxygen	CO2	white
+feruloyl-CoA 6-hydroxylase	1.14.11.61	Oxygen	Succinate	white
+feruloyl-CoA 6-hydroxylase	1.14.11.61	Succinate	2-Oxoglutarate	white
+feruloyl-CoA 6-hydroxylase	1.14.11.61	Succinate	Feruloyl-CoA	white
+feruloyl-CoA 6-hydroxylase	1.14.11.61	Succinate	Oxygen	white
+feruloyl-CoA 6-hydroxylase / trans-4-coumaroyl-CoA 2-hydroxylase	1.14.11.61	2-Oxoglutarate	6-Hydroxyferuloyl-CoA	white
+feruloyl-CoA 6-hydroxylase / trans-4-coumaroyl-CoA 2-hydroxylase	1.14.11.61	2-Oxoglutarate	CO2	white
+feruloyl-CoA 6-hydroxylase / trans-4-coumaroyl-CoA 2-hydroxylase	1.14.11.61	2-Oxoglutarate	Succinate	white
+feruloyl-CoA 6-hydroxylase / trans-4-coumaroyl-CoA 2-hydroxylase	1.14.11.61	6-Hydroxyferuloyl-CoA	2-Oxoglutarate	white
+feruloyl-CoA 6-hydroxylase / trans-4-coumaroyl-CoA 2-hydroxylase	1.14.11.61	6-Hydroxyferuloyl-CoA	Feruloyl-CoA	white
+feruloyl-CoA 6-hydroxylase / trans-4-coumaroyl-CoA 2-hydroxylase	1.14.11.61	6-Hydroxyferuloyl-CoA	Oxygen	white
+feruloyl-CoA 6-hydroxylase / trans-4-coumaroyl-CoA 2-hydroxylase	1.14.11.61	CO2	2-Oxoglutarate	white
+feruloyl-CoA 6-hydroxylase / trans-4-coumaroyl-CoA 2-hydroxylase	1.14.11.61	CO2	Feruloyl-CoA	white
+feruloyl-CoA 6-hydroxylase / trans-4-coumaroyl-CoA 2-hydroxylase	1.14.11.61	CO2	Oxygen	white
+feruloyl-CoA 6-hydroxylase / trans-4-coumaroyl-CoA 2-hydroxylase	1.14.11.61	Feruloyl-CoA	6-Hydroxyferuloyl-CoA	white
+feruloyl-CoA 6-hydroxylase / trans-4-coumaroyl-CoA 2-hydroxylase	1.14.11.61	Feruloyl-CoA	CO2	white
+feruloyl-CoA 6-hydroxylase / trans-4-coumaroyl-CoA 2-hydroxylase	1.14.11.61	Feruloyl-CoA	Succinate	white
+feruloyl-CoA 6-hydroxylase / trans-4-coumaroyl-CoA 2-hydroxylase	1.14.11.61	Oxygen	6-Hydroxyferuloyl-CoA	white
+feruloyl-CoA 6-hydroxylase / trans-4-coumaroyl-CoA 2-hydroxylase	1.14.11.61	Oxygen	CO2	white
+feruloyl-CoA 6-hydroxylase / trans-4-coumaroyl-CoA 2-hydroxylase	1.14.11.61	Oxygen	Succinate	white
+feruloyl-CoA 6-hydroxylase / trans-4-coumaroyl-CoA 2-hydroxylase	1.14.11.61	Succinate	2-Oxoglutarate	white
+feruloyl-CoA 6-hydroxylase / trans-4-coumaroyl-CoA 2-hydroxylase	1.14.11.61	Succinate	Feruloyl-CoA	white
+feruloyl-CoA 6-hydroxylase / trans-4-coumaroyl-CoA 2-hydroxylase	1.14.11.61	Succinate	Oxygen	white
+fraxetin 5-hydroxylase	1.14.14.164	Fraxetin	H2O	white
+fraxetin 5-hydroxylase	1.14.14.164	Fraxetin	Sideretin	white
+fraxetin 5-hydroxylase	1.14.14.164	Fraxetin	[Oxidized NADPH---hemoprotein reductase]	white
+fraxetin 5-hydroxylase	1.14.14.164	H2O	Fraxetin	white
+fraxetin 5-hydroxylase	1.14.14.164	H2O	Oxygen	white
+fraxetin 5-hydroxylase	1.14.14.164	H2O	[Reduced NADPH---hemoprotein reductase]	white
+fraxetin 5-hydroxylase	1.14.14.164	Oxygen	H2O	white
+fraxetin 5-hydroxylase	1.14.14.164	Oxygen	Sideretin	white
+fraxetin 5-hydroxylase	1.14.14.164	Oxygen	[Oxidized NADPH---hemoprotein reductase]	white
+fraxetin 5-hydroxylase	1.14.14.164	Sideretin	Fraxetin	white
+fraxetin 5-hydroxylase	1.14.14.164	Sideretin	Oxygen	white
+fraxetin 5-hydroxylase	1.14.14.164	Sideretin	[Reduced NADPH---hemoprotein reductase]	white
+fraxetin 5-hydroxylase	1.14.14.164	[Oxidized NADPH---hemoprotein reductase]	Fraxetin	white
+fraxetin 5-hydroxylase	1.14.14.164	[Oxidized NADPH---hemoprotein reductase]	Oxygen	white
+fraxetin 5-hydroxylase	1.14.14.164	[Oxidized NADPH---hemoprotein reductase]	[Reduced NADPH---hemoprotein reductase]	white
+fraxetin 5-hydroxylase	1.14.14.164	[Reduced NADPH---hemoprotein reductase]	H2O	white
+fraxetin 5-hydroxylase	1.14.14.164	[Reduced NADPH---hemoprotein reductase]	Sideretin	white
+fraxetin 5-hydroxylase	1.14.14.164	[Reduced NADPH---hemoprotein reductase]	[Oxidized NADPH---hemoprotein reductase]	white
+gallate 1-beta-glucosyltransferase	2.4.1.136	1-O-Galloyl-beta-D-glucose	Gallate	white
+gallate 1-beta-glucosyltransferase	2.4.1.136	1-O-Galloyl-beta-D-glucose	UDP-glucose	white
+gallate 1-beta-glucosyltransferase	2.4.1.136	Gallate	1-O-Galloyl-beta-D-glucose	white
+gallate 1-beta-glucosyltransferase	2.4.1.136	Gallate	UDP	white
+gallate 1-beta-glucosyltransferase	2.4.1.136	UDP	Gallate	white
+gallate 1-beta-glucosyltransferase	2.4.1.136	UDP	UDP-glucose	white
+gallate 1-beta-glucosyltransferase	2.4.1.136	UDP-glucose	1-O-Galloyl-beta-D-glucose	white
+gallate 1-beta-glucosyltransferase	2.4.1.136	UDP-glucose	UDP	white
+geranyl-pyrophosphate---olivetolic acid geranyltransferase	2.5.1.102	2,4-Dihydroxy-6-pentylbenzoate	Cannabigerolate	white
+geranyl-pyrophosphate---olivetolic acid geranyltransferase	2.5.1.102	2,4-Dihydroxy-6-pentylbenzoate	Diphosphate	white
+geranyl-pyrophosphate---olivetolic acid geranyltransferase	2.5.1.102	Cannabigerolate	2,4-Dihydroxy-6-pentylbenzoate	white
+geranyl-pyrophosphate---olivetolic acid geranyltransferase	2.5.1.102	Cannabigerolate	Geranyl diphosphate	white
+geranyl-pyrophosphate---olivetolic acid geranyltransferase	2.5.1.102	Diphosphate	2,4-Dihydroxy-6-pentylbenzoate	white
+geranyl-pyrophosphate---olivetolic acid geranyltransferase	2.5.1.102	Diphosphate	Geranyl diphosphate	white
+geranyl-pyrophosphate---olivetolic acid geranyltransferase	2.5.1.102	Geranyl diphosphate	Cannabigerolate	white
+geranyl-pyrophosphate---olivetolic acid geranyltransferase	2.5.1.102	Geranyl diphosphate	Diphosphate	white
+ginsenoside 20-O-glucosyltransferase	2.4.1.363	Ginsenoside C-K	Protopanaxadiol	white
+ginsenoside 20-O-glucosyltransferase	2.4.1.363	Ginsenoside C-K	UDP-glucose	white
+ginsenoside 20-O-glucosyltransferase	2.4.1.363	Protopanaxadiol	Ginsenoside C-K	white
+ginsenoside 20-O-glucosyltransferase	2.4.1.363	Protopanaxadiol	UDP	white
+ginsenoside 20-O-glucosyltransferase	2.4.1.363	UDP	Protopanaxadiol	white
+ginsenoside 20-O-glucosyltransferase	2.4.1.363	UDP	UDP-glucose	white
+ginsenoside 20-O-glucosyltransferase	2.4.1.363	UDP-glucose	Ginsenoside C-K	white
+ginsenoside 20-O-glucosyltransferase	2.4.1.363	UDP-glucose	UDP	white
+ginsenoside 6-O-glucosyltransferase	2.4.1.367	Ginsenoside F1	Ginsenoside Rg1	white
+ginsenoside 6-O-glucosyltransferase	2.4.1.367	Ginsenoside F1	UDP	white
+ginsenoside 6-O-glucosyltransferase	2.4.1.367	Ginsenoside Rg1	Ginsenoside F1	white
+ginsenoside 6-O-glucosyltransferase	2.4.1.367	Ginsenoside Rg1	UDP-glucose	white
+ginsenoside 6-O-glucosyltransferase	2.4.1.367	UDP	Ginsenoside F1	white
+ginsenoside 6-O-glucosyltransferase	2.4.1.367	UDP	UDP-glucose	white
+ginsenoside 6-O-glucosyltransferase	2.4.1.367	UDP-glucose	Ginsenoside Rg1	white
+ginsenoside 6-O-glucosyltransferase	2.4.1.367	UDP-glucose	UDP	white
+ginsenoside F1 6-O-glucosyltransferase	2.4.1.366	Ginsenoside F1	Ginsenoside Rg1	white
+ginsenoside F1 6-O-glucosyltransferase	2.4.1.366	Ginsenoside F1	UDP	white
+ginsenoside F1 6-O-glucosyltransferase	2.4.1.366	Ginsenoside Rg1	Ginsenoside F1	white
+ginsenoside F1 6-O-glucosyltransferase	2.4.1.366	Ginsenoside Rg1	UDP-glucose	white
+ginsenoside F1 6-O-glucosyltransferase	2.4.1.366	UDP	Ginsenoside F1	white
+ginsenoside F1 6-O-glucosyltransferase	2.4.1.366	UDP	UDP-glucose	white
+ginsenoside F1 6-O-glucosyltransferase	2.4.1.366	UDP-glucose	Ginsenoside Rg1	white
+ginsenoside F1 6-O-glucosyltransferase	2.4.1.366	UDP-glucose	UDP	white
+indole-2-monooxygenase	1.14.14.153	H2O	Indole	white
+indole-2-monooxygenase	1.14.14.153	H2O	Oxygen	white
+indole-2-monooxygenase	1.14.14.153	H2O	[Reduced NADPH---hemoprotein reductase]	white
+indole-2-monooxygenase	1.14.14.153	Indole	H2O	white
+indole-2-monooxygenase	1.14.14.153	Indole	Indolin-2-one	white
+indole-2-monooxygenase	1.14.14.153	Indole	[Oxidized NADPH---hemoprotein reductase]	white
+indole-2-monooxygenase	1.14.14.153	Indolin-2-one	Indole	white
+indole-2-monooxygenase	1.14.14.153	Indolin-2-one	Oxygen	white
+indole-2-monooxygenase	1.14.14.153	Indolin-2-one	[Reduced NADPH---hemoprotein reductase]	white
+indole-2-monooxygenase	1.14.14.153	Oxygen	H2O	white
+indole-2-monooxygenase	1.14.14.153	Oxygen	Indolin-2-one	white
+indole-2-monooxygenase	1.14.14.153	Oxygen	[Oxidized NADPH---hemoprotein reductase]	white
+indole-2-monooxygenase	1.14.14.153	[Oxidized NADPH---hemoprotein reductase]	Indole	white
+indole-2-monooxygenase	1.14.14.153	[Oxidized NADPH---hemoprotein reductase]	Oxygen	white
+indole-2-monooxygenase	1.14.14.153	[Oxidized NADPH---hemoprotein reductase]	[Reduced NADPH---hemoprotein reductase]	white
+indole-2-monooxygenase	1.14.14.153	[Reduced NADPH---hemoprotein reductase]	H2O	white
+indole-2-monooxygenase	1.14.14.153	[Reduced NADPH---hemoprotein reductase]	Indolin-2-one	white
+indole-2-monooxygenase	1.14.14.153	[Reduced NADPH---hemoprotein reductase]	[Oxidized NADPH---hemoprotein reductase]	white
+indole-3-carbonyl nitrile 4-hydroxylase	1.14.14.165	5-Hydroxyxanthotoxin	Oxygen	white
+indole-3-carbonyl nitrile 4-hydroxylase	1.14.14.165	5-Hydroxyxanthotoxin	Xanthotoxin	white
+indole-3-carbonyl nitrile 4-hydroxylase	1.14.14.165	5-Hydroxyxanthotoxin	[Reduced NADPH---hemoprotein reductase]	white
+indole-3-carbonyl nitrile 4-hydroxylase	1.14.14.165	H2O	Oxygen	white
+indole-3-carbonyl nitrile 4-hydroxylase	1.14.14.165	H2O	Xanthotoxin	white
+indole-3-carbonyl nitrile 4-hydroxylase	1.14.14.165	H2O	[Reduced NADPH---hemoprotein reductase]	white
+indole-3-carbonyl nitrile 4-hydroxylase	1.14.14.165	Oxygen	5-Hydroxyxanthotoxin	white
+indole-3-carbonyl nitrile 4-hydroxylase	1.14.14.165	Oxygen	H2O	white
+indole-3-carbonyl nitrile 4-hydroxylase	1.14.14.165	Oxygen	[Oxidized NADPH---hemoprotein reductase]	white
+indole-3-carbonyl nitrile 4-hydroxylase	1.14.14.165	Xanthotoxin	5-Hydroxyxanthotoxin	white
+indole-3-carbonyl nitrile 4-hydroxylase	1.14.14.165	Xanthotoxin	H2O	white
+indole-3-carbonyl nitrile 4-hydroxylase	1.14.14.165	Xanthotoxin	[Oxidized NADPH---hemoprotein reductase]	white
+indole-3-carbonyl nitrile 4-hydroxylase	1.14.14.165	[Oxidized NADPH---hemoprotein reductase]	Oxygen	white
+indole-3-carbonyl nitrile 4-hydroxylase	1.14.14.165	[Oxidized NADPH---hemoprotein reductase]	Xanthotoxin	white
+indole-3-carbonyl nitrile 4-hydroxylase	1.14.14.165	[Oxidized NADPH---hemoprotein reductase]	[Reduced NADPH---hemoprotein reductase]	white
+indole-3-carbonyl nitrile 4-hydroxylase	1.14.14.165	[Reduced NADPH---hemoprotein reductase]	5-Hydroxyxanthotoxin	white
+indole-3-carbonyl nitrile 4-hydroxylase	1.14.14.165	[Reduced NADPH---hemoprotein reductase]	H2O	white
+indole-3-carbonyl nitrile 4-hydroxylase	1.14.14.165	[Reduced NADPH---hemoprotein reductase]	[Oxidized NADPH---hemoprotein reductase]	white
+indole-3-glycerol-phosphate lyase	4.1.2.8	D-Glyceraldehyde 3-phosphate	Indoleglycerol phosphate	white
+indole-3-glycerol-phosphate lyase	4.1.2.8	Indole	Indoleglycerol phosphate	white
+indole-3-glycerol-phosphate lyase	4.1.2.8	Indoleglycerol phosphate	D-Glyceraldehyde 3-phosphate	white
+indole-3-glycerol-phosphate lyase	4.1.2.8	Indoleglycerol phosphate	Indole	white
+indolin-2-one monooxygenase	1.14.14.157	3-Hydroxyindolin-2-one	Indolin-2-one	white
+indolin-2-one monooxygenase	1.14.14.157	3-Hydroxyindolin-2-one	Oxygen	white
+indolin-2-one monooxygenase	1.14.14.157	3-Hydroxyindolin-2-one	[Reduced NADPH---hemoprotein reductase]	white
+indolin-2-one monooxygenase	1.14.14.157	H2O	Indolin-2-one	white
+indolin-2-one monooxygenase	1.14.14.157	H2O	Oxygen	white
+indolin-2-one monooxygenase	1.14.14.157	H2O	[Reduced NADPH---hemoprotein reductase]	white
+indolin-2-one monooxygenase	1.14.14.157	Indolin-2-one	3-Hydroxyindolin-2-one	white
+indolin-2-one monooxygenase	1.14.14.157	Indolin-2-one	H2O	white
+indolin-2-one monooxygenase	1.14.14.157	Indolin-2-one	[Oxidized NADPH---hemoprotein reductase]	white
+indolin-2-one monooxygenase	1.14.14.157	Oxygen	3-Hydroxyindolin-2-one	white
+indolin-2-one monooxygenase	1.14.14.157	Oxygen	H2O	white
+indolin-2-one monooxygenase	1.14.14.157	Oxygen	[Oxidized NADPH---hemoprotein reductase]	white
+indolin-2-one monooxygenase	1.14.14.157	[Oxidized NADPH---hemoprotein reductase]	Indolin-2-one	white
+indolin-2-one monooxygenase	1.14.14.157	[Oxidized NADPH---hemoprotein reductase]	Oxygen	white
+indolin-2-one monooxygenase	1.14.14.157	[Oxidized NADPH---hemoprotein reductase]	[Reduced NADPH---hemoprotein reductase]	white
+indolin-2-one monooxygenase	1.14.14.157	[Reduced NADPH---hemoprotein reductase]	3-Hydroxyindolin-2-one	white
+indolin-2-one monooxygenase	1.14.14.157	[Reduced NADPH---hemoprotein reductase]	H2O	white
+indolin-2-one monooxygenase	1.14.14.157	[Reduced NADPH---hemoprotein reductase]	[Oxidized NADPH---hemoprotein reductase]	white
+marmesin synthase	1.14.14.66	Demethylsuberosin	H2O	white
+marmesin synthase	1.14.14.66	Demethylsuberosin	Marmesin	white
+marmesin synthase	1.14.14.66	Demethylsuberosin	[Oxidized NADPH---hemoprotein reductase]	white
+marmesin synthase	1.14.14.66	H2O	Demethylsuberosin	white
+marmesin synthase	1.14.14.66	H2O	Oxygen	white
+marmesin synthase	1.14.14.66	H2O	[Reduced NADPH---hemoprotein reductase]	white
+marmesin synthase	1.14.14.66	Marmesin	Demethylsuberosin	white
+marmesin synthase	1.14.14.66	Marmesin	Oxygen	white
+marmesin synthase	1.14.14.66	Marmesin	[Reduced NADPH---hemoprotein reductase]	white
+marmesin synthase	1.14.14.66	Oxygen	H2O	white
+marmesin synthase	1.14.14.66	Oxygen	Marmesin	white
+marmesin synthase	1.14.14.66	Oxygen	[Oxidized NADPH---hemoprotein reductase]	white
+marmesin synthase	1.14.14.66	[Oxidized NADPH---hemoprotein reductase]	Demethylsuberosin	white
+marmesin synthase	1.14.14.66	[Oxidized NADPH---hemoprotein reductase]	Oxygen	white
+marmesin synthase	1.14.14.66	[Oxidized NADPH---hemoprotein reductase]	[Reduced NADPH---hemoprotein reductase]	white
+marmesin synthase	1.14.14.66	[Reduced NADPH---hemoprotein reductase]	H2O	white
+marmesin synthase	1.14.14.66	[Reduced NADPH---hemoprotein reductase]	Marmesin	white
+marmesin synthase	1.14.14.66	[Reduced NADPH---hemoprotein reductase]	[Oxidized NADPH---hemoprotein reductase]	white
+nicotianamine aminotransferase	2.6.1.80	2-Oxoglutarate	3''-Deamino-3''-oxonicotianamine	white
+nicotianamine aminotransferase	2.6.1.80	2-Oxoglutarate	L-Glutamate	white
+nicotianamine aminotransferase	2.6.1.80	3''-Deamino-3''-oxonicotianamine	2-Oxoglutarate	white
+nicotianamine aminotransferase	2.6.1.80	3''-Deamino-3''-oxonicotianamine	Nicotianamine	white
+nicotianamine aminotransferase	2.6.1.80	L-Glutamate	2-Oxoglutarate	white
+nicotianamine aminotransferase	2.6.1.80	L-Glutamate	Nicotianamine	white
+nicotianamine aminotransferase	2.6.1.80	Nicotianamine	3''-Deamino-3''-oxonicotianamine	white
+nicotianamine aminotransferase	2.6.1.80	Nicotianamine	L-Glutamate	white
+nicotianamine synthase	2.5.1.43	5'-Methylthioadenosine	S-Adenosyl-L-methionine	white
+nicotianamine synthase	2.5.1.43	Nicotianamine	S-Adenosyl-L-methionine	white
+nicotianamine synthase	2.5.1.43	S-Adenosyl-L-methionine	5'-Methylthioadenosine	white
+nicotianamine synthase	2.5.1.43	S-Adenosyl-L-methionine	Nicotianamine	white
+oleanolic acid C16alpha-oxidase	1.14.14.126	Echinocystic acid	Oleanolic acid	white
+oleanolic acid C16alpha-oxidase	1.14.14.126	Oleanolic acid	Echinocystic acid	white
+olivetolic acid cyclase	4.4.1.26	2,4-Dihydroxy-6-pentylbenzoate	3,5,7-Trioxododecanoyl-CoA	white
+olivetolic acid cyclase	4.4.1.26	3,5,7-Trioxododecanoyl-CoA	2,4-Dihydroxy-6-pentylbenzoate	white
+olivetolic acid cyclase	4.4.1.26	3,5,7-Trioxododecanoyl-CoA	CoA	white
+olivetolic acid cyclase	4.4.1.26	CoA	3,5,7-Trioxododecanoyl-CoA	white
+pentafunctional AROM polypeptide	4.2.3.4	ADP	ATP	white
+pentafunctional AROM polypeptide	4.2.3.4	ADP	Shikimate	white
+pentafunctional AROM polypeptide	4.2.3.4	ATP	ADP	white
+pentafunctional AROM polypeptide	4.2.3.4	ATP	Shikimate 3-phosphate	white
+pentafunctional AROM polypeptide	4.2.3.4	Shikimate	ADP	white
+pentafunctional AROM polypeptide	4.2.3.4	Shikimate	Shikimate 3-phosphate	white
+pentafunctional AROM polypeptide	4.2.3.4	Shikimate 3-phosphate	ATP	white
+pentafunctional AROM polypeptide	4.2.3.4	Shikimate 3-phosphate	Shikimate	white
+pinoresinol/lariciresinol reductase	1.23.1.1	(+)-Pinoresinol	Lariciresinol	white
+pinoresinol/lariciresinol reductase	1.23.1.1	(+)-Pinoresinol	NADP+	white
+pinoresinol/lariciresinol reductase	1.23.1.1	H+	Lariciresinol	white
+pinoresinol/lariciresinol reductase	1.23.1.1	H+	NADP+	white
+pinoresinol/lariciresinol reductase	1.23.1.1	Lariciresinol	(+)-Pinoresinol	white
+pinoresinol/lariciresinol reductase	1.23.1.1	Lariciresinol	H+	white
+pinoresinol/lariciresinol reductase	1.23.1.1	Lariciresinol	NADPH	white
+pinoresinol/lariciresinol reductase	1.23.1.1	NADP+	(+)-Pinoresinol	white
+pinoresinol/lariciresinol reductase	1.23.1.1	NADP+	H+	white
+pinoresinol/lariciresinol reductase	1.23.1.1	NADP+	NADPH	white
+pinoresinol/lariciresinol reductase	1.23.1.1	NADPH	Lariciresinol	white
+pinoresinol/lariciresinol reductase	1.23.1.1	NADPH	NADP+	white
+protopanaxadiol 6-hydroxylase	1.14.14.121	H2O	Oxygen	white
+protopanaxadiol 6-hydroxylase	1.14.14.121	H2O	Protopanaxadiol	white
+protopanaxadiol 6-hydroxylase	1.14.14.121	H2O	[Reduced NADPH---hemoprotein reductase]	white
+protopanaxadiol 6-hydroxylase	1.14.14.121	Oxygen	H2O	white
+protopanaxadiol 6-hydroxylase	1.14.14.121	Oxygen	Protopanaxatriol	white
+protopanaxadiol 6-hydroxylase	1.14.14.121	Oxygen	[Oxidized NADPH---hemoprotein reductase]	white
+protopanaxadiol 6-hydroxylase	1.14.14.121	Protopanaxadiol	H2O	white
+protopanaxadiol 6-hydroxylase	1.14.14.121	Protopanaxadiol	Protopanaxatriol	white
+protopanaxadiol 6-hydroxylase	1.14.14.121	Protopanaxadiol	[Oxidized NADPH---hemoprotein reductase]	white
+protopanaxadiol 6-hydroxylase	1.14.14.121	Protopanaxatriol	Oxygen	white
+protopanaxadiol 6-hydroxylase	1.14.14.121	Protopanaxatriol	Protopanaxadiol	white
+protopanaxadiol 6-hydroxylase	1.14.14.121	Protopanaxatriol	[Reduced NADPH---hemoprotein reductase]	white
+protopanaxadiol 6-hydroxylase	1.14.14.121	[Oxidized NADPH---hemoprotein reductase]	Oxygen	white
+protopanaxadiol 6-hydroxylase	1.14.14.121	[Oxidized NADPH---hemoprotein reductase]	Protopanaxadiol	white
+protopanaxadiol 6-hydroxylase	1.14.14.121	[Oxidized NADPH---hemoprotein reductase]	[Reduced NADPH---hemoprotein reductase]	white
+protopanaxadiol 6-hydroxylase	1.14.14.121	[Reduced NADPH---hemoprotein reductase]	H2O	white
+protopanaxadiol 6-hydroxylase	1.14.14.121	[Reduced NADPH---hemoprotein reductase]	Protopanaxatriol	white
+protopanaxadiol 6-hydroxylase	1.14.14.121	[Reduced NADPH---hemoprotein reductase]	[Oxidized NADPH---hemoprotein reductase]	white
+protopanaxadiol-type ginsenoside 3-O-glucosyltransferase	2.4.1.364	(20S)-Ginsenoside Rh2	Protopanaxadiol	white
+protopanaxadiol-type ginsenoside 3-O-glucosyltransferase	2.4.1.364	(20S)-Ginsenoside Rh2	UDP-glucose	white
+protopanaxadiol-type ginsenoside 3-O-glucosyltransferase	2.4.1.364	Protopanaxadiol	(20S)-Ginsenoside Rh2	white
+protopanaxadiol-type ginsenoside 3-O-glucosyltransferase	2.4.1.364	Protopanaxadiol	UDP	white
+protopanaxadiol-type ginsenoside 3-O-glucosyltransferase	2.4.1.364	UDP	Protopanaxadiol	white
+protopanaxadiol-type ginsenoside 3-O-glucosyltransferase	2.4.1.364	UDP	UDP-glucose	white
+protopanaxadiol-type ginsenoside 3-O-glucosyltransferase	2.4.1.364	UDP-glucose	(20S)-Ginsenoside Rh2	white
+protopanaxadiol-type ginsenoside 3-O-glucosyltransferase	2.4.1.364	UDP-glucose	UDP	white
+protopanaxadiol-type ginsenoside-3-O-glucoside 2''-O-glucosyltransferase	2.4.1.365	(20S)-Ginsenoside Rh2	Ginsenoside Rg3	white
+protopanaxadiol-type ginsenoside-3-O-glucoside 2''-O-glucosyltransferase	2.4.1.365	(20S)-Ginsenoside Rh2	UDP	white
+protopanaxadiol-type ginsenoside-3-O-glucoside 2''-O-glucosyltransferase	2.4.1.365	Ginsenoside Rg3	(20S)-Ginsenoside Rh2	white
+protopanaxadiol-type ginsenoside-3-O-glucoside 2''-O-glucosyltransferase	2.4.1.365	Ginsenoside Rg3	UDP-glucose	white
+protopanaxadiol-type ginsenoside-3-O-glucoside 2''-O-glucosyltransferase	2.4.1.365	UDP	(20S)-Ginsenoside Rh2	white
+protopanaxadiol-type ginsenoside-3-O-glucoside 2''-O-glucosyltransferase	2.4.1.365	UDP	UDP-glucose	white
+protopanaxadiol-type ginsenoside-3-O-glucoside 2''-O-glucosyltransferase	2.4.1.365	UDP-glucose	Ginsenoside Rg3	white
+protopanaxadiol-type ginsenoside-3-O-glucoside 2''-O-glucosyltransferase	2.4.1.365	UDP-glucose	UDP	white
+psoralen synthase	1.14.14.141	Acetone	Marmesin	white
+psoralen synthase	1.14.14.141	Acetone	Oxygen	white
+psoralen synthase	1.14.14.141	Acetone	[Reduced NADPH---hemoprotein reductase]	white
+psoralen synthase	1.14.14.141	H2O	Marmesin	white
+psoralen synthase	1.14.14.141	H2O	Oxygen	white
+psoralen synthase	1.14.14.141	H2O	[Reduced NADPH---hemoprotein reductase]	white
+psoralen synthase	1.14.14.141	Marmesin	Acetone	white
+psoralen synthase	1.14.14.141	Marmesin	H2O	white
+psoralen synthase	1.14.14.141	Marmesin	Psoralen	white
+psoralen synthase	1.14.14.141	Marmesin	[Oxidized NADPH---hemoprotein reductase]	white
+psoralen synthase	1.14.14.141	Oxygen	Acetone	white
+psoralen synthase	1.14.14.141	Oxygen	H2O	white
+psoralen synthase	1.14.14.141	Oxygen	Psoralen	white
+psoralen synthase	1.14.14.141	Oxygen	[Oxidized NADPH---hemoprotein reductase]	white
+psoralen synthase	1.14.14.141	Psoralen	Marmesin	white
+psoralen synthase	1.14.14.141	Psoralen	Oxygen	white
+psoralen synthase	1.14.14.141	Psoralen	[Reduced NADPH---hemoprotein reductase]	white
+psoralen synthase	1.14.14.141	[Oxidized NADPH---hemoprotein reductase]	Marmesin	white
+psoralen synthase	1.14.14.141	[Oxidized NADPH---hemoprotein reductase]	Oxygen	white
+psoralen synthase	1.14.14.141	[Oxidized NADPH---hemoprotein reductase]	[Reduced NADPH---hemoprotein reductase]	white
+psoralen synthase	1.14.14.141	[Reduced NADPH---hemoprotein reductase]	Acetone	white
+psoralen synthase	1.14.14.141	[Reduced NADPH---hemoprotein reductase]	H2O	white
+psoralen synthase	1.14.14.141	[Reduced NADPH---hemoprotein reductase]	Psoralen	white
+psoralen synthase	1.14.14.141	[Reduced NADPH---hemoprotein reductase]	[Oxidized NADPH---hemoprotein reductase]	white
+quillaic acid 3-O-Gal-1,2-GlcA alpha-1,3-rhamnosyltransferase	2.4.1.-	Quillaic acid 3-O-alpha-L-rhamnosyl-1,3-(beta-D-galactosyl-1,2)-beta-D-glucuronide	Quillaic acid 3-O-beta-D-galactosyl-1,2-beta-D-glucuronide	white
+quillaic acid 3-O-Gal-1,2-GlcA alpha-1,3-rhamnosyltransferase	2.4.1.-	Quillaic acid 3-O-alpha-L-rhamnosyl-1,3-(beta-D-galactosyl-1,2)-beta-D-glucuronide	UDP-L-rhamnose	white
+quillaic acid 3-O-Gal-1,2-GlcA alpha-1,3-rhamnosyltransferase	2.4.1.-	Quillaic acid 3-O-beta-D-galactosyl-1,2-beta-D-glucuronide	Quillaic acid 3-O-alpha-L-rhamnosyl-1,3-(beta-D-galactosyl-1,2)-beta-D-glucuronide	white
+quillaic acid 3-O-Gal-1,2-GlcA alpha-1,3-rhamnosyltransferase	2.4.1.-	Quillaic acid 3-O-beta-D-galactosyl-1,2-beta-D-glucuronide	UDP	white
+quillaic acid 3-O-Gal-1,2-GlcA alpha-1,3-rhamnosyltransferase	2.4.1.-	UDP	Quillaic acid 3-O-beta-D-galactosyl-1,2-beta-D-glucuronide	white
+quillaic acid 3-O-Gal-1,2-GlcA alpha-1,3-rhamnosyltransferase	2.4.1.-	UDP	UDP-L-rhamnose	white
+quillaic acid 3-O-Gal-1,2-GlcA alpha-1,3-rhamnosyltransferase	2.4.1.-	UDP-L-rhamnose	Quillaic acid 3-O-alpha-L-rhamnosyl-1,3-(beta-D-galactosyl-1,2)-beta-D-glucuronide	white
+quillaic acid 3-O-Gal-1,2-GlcA alpha-1,3-rhamnosyltransferase	2.4.1.-	UDP-L-rhamnose	UDP	white
+quillaic acid 3-O-Gal-1,2-GlcA beta-1,3-xylosyltransferase	2.4.2.-	Quillaic acid 3-O-beta-D-galactosyl-1,2-beta-D-glucuronide	Quillaic acid 3-O-beta-D-xylosyl-1,3-(beta-D-galactosyl-1,2)-beta-D-glucuronide	white
+quillaic acid 3-O-Gal-1,2-GlcA beta-1,3-xylosyltransferase	2.4.2.-	Quillaic acid 3-O-beta-D-galactosyl-1,2-beta-D-glucuronide	UDP	white
+quillaic acid 3-O-Gal-1,2-GlcA beta-1,3-xylosyltransferase	2.4.2.-	Quillaic acid 3-O-beta-D-xylosyl-1,3-(beta-D-galactosyl-1,2)-beta-D-glucuronide	Quillaic acid 3-O-beta-D-galactosyl-1,2-beta-D-glucuronide	white
+quillaic acid 3-O-Gal-1,2-GlcA beta-1,3-xylosyltransferase	2.4.2.-	Quillaic acid 3-O-beta-D-xylosyl-1,3-(beta-D-galactosyl-1,2)-beta-D-glucuronide	UDP-D-xylose	white
+quillaic acid 3-O-Gal-1,2-GlcA beta-1,3-xylosyltransferase	2.4.2.-	UDP	Quillaic acid 3-O-beta-D-galactosyl-1,2-beta-D-glucuronide	white
+quillaic acid 3-O-Gal-1,2-GlcA beta-1,3-xylosyltransferase	2.4.2.-	UDP	UDP-D-xylose	white
+quillaic acid 3-O-Gal-1,2-GlcA beta-1,3-xylosyltransferase	2.4.2.-	UDP-D-xylose	Quillaic acid 3-O-beta-D-xylosyl-1,3-(beta-D-galactosyl-1,2)-beta-D-glucuronide	white
+quillaic acid 3-O-Gal-1,2-GlcA beta-1,3-xylosyltransferase	2.4.2.-	UDP-D-xylose	UDP	white
+quillaic acid 3-O-GlcA beta-1,2-galactosyltransferase	2.4.1.-	Quillaic acid 3-O-beta-D-galactosyl-1,2-beta-D-glucuronide	Quillaic acid 3-O-beta-D-glucuronide	white
+quillaic acid 3-O-GlcA beta-1,2-galactosyltransferase	2.4.1.-	Quillaic acid 3-O-beta-D-galactosyl-1,2-beta-D-glucuronide	UDP-alpha-D-galactose	white
+quillaic acid 3-O-GlcA beta-1,2-galactosyltransferase	2.4.1.-	Quillaic acid 3-O-beta-D-glucuronide	Quillaic acid 3-O-beta-D-galactosyl-1,2-beta-D-glucuronide	white
+quillaic acid 3-O-GlcA beta-1,2-galactosyltransferase	2.4.1.-	Quillaic acid 3-O-beta-D-glucuronide	UDP	white
+quillaic acid 3-O-GlcA beta-1,2-galactosyltransferase	2.4.1.-	UDP	Quillaic acid 3-O-beta-D-glucuronide	white
+quillaic acid 3-O-GlcA beta-1,2-galactosyltransferase	2.4.1.-	UDP	UDP-alpha-D-galactose	white
+quillaic acid 3-O-GlcA beta-1,2-galactosyltransferase	2.4.1.-	UDP-alpha-D-galactose	Quillaic acid 3-O-beta-D-galactosyl-1,2-beta-D-glucuronide	white
+quillaic acid 3-O-GlcA beta-1,2-galactosyltransferase	2.4.1.-	UDP-alpha-D-galactose	UDP	white
+quillaic acid 3-O-Xyl/L-Rha-1,3-(Gal-1,2)-GlcA 28-O-glycosyltransferase	2.4.1.-	Quillaic acid 3-O-beta-D-xylosyl-1,3-(beta-D-galactosyl-1,2)-beta-D-glucuronide	Quillaic acid 3-O-beta-D-xylosyl-1,3-(beta-D-galactosyl-1,2)-beta-D-glucuronide-28-O-beta-D-fucoside	white
+quillaic acid 3-O-Xyl/L-Rha-1,3-(Gal-1,2)-GlcA 28-O-glycosyltransferase	2.4.1.-	Quillaic acid 3-O-beta-D-xylosyl-1,3-(beta-D-galactosyl-1,2)-beta-D-glucuronide-28-O-beta-D-fucoside	Quillaic acid 3-O-beta-D-xylosyl-1,3-(beta-D-galactosyl-1,2)-beta-D-glucuronide	white
+quillaic acid 3-O-Xyl/L-Rha-1,3-(Gal-1,2)-GlcA-28-O-Fuc alpha-1,2-rhamnosyltransferase	2.4.1.-	Quillaic acid 3-O-beta-D-xylosyl-1,3-(beta-D-galactosyl-1,2)-beta-D-glucuronide-28-O-alpha-L-rhamnosyl-1,2-beta-D-fucoside	Quillaic acid 3-O-beta-D-xylosyl-1,3-(beta-D-galactosyl-1,2)-beta-D-glucuronide-28-O-beta-D-fucoside	white
+quillaic acid 3-O-Xyl/L-Rha-1,3-(Gal-1,2)-GlcA-28-O-Fuc alpha-1,2-rhamnosyltransferase	2.4.1.-	Quillaic acid 3-O-beta-D-xylosyl-1,3-(beta-D-galactosyl-1,2)-beta-D-glucuronide-28-O-alpha-L-rhamnosyl-1,2-beta-D-fucoside	UDP-L-rhamnose	white
+quillaic acid 3-O-Xyl/L-Rha-1,3-(Gal-1,2)-GlcA-28-O-Fuc alpha-1,2-rhamnosyltransferase	2.4.1.-	Quillaic acid 3-O-beta-D-xylosyl-1,3-(beta-D-galactosyl-1,2)-beta-D-glucuronide-28-O-beta-D-fucoside	Quillaic acid 3-O-beta-D-xylosyl-1,3-(beta-D-galactosyl-1,2)-beta-D-glucuronide-28-O-alpha-L-rhamnosyl-1,2-beta-D-fucoside	white
+quillaic acid 3-O-Xyl/L-Rha-1,3-(Gal-1,2)-GlcA-28-O-Fuc alpha-1,2-rhamnosyltransferase	2.4.1.-	Quillaic acid 3-O-beta-D-xylosyl-1,3-(beta-D-galactosyl-1,2)-beta-D-glucuronide-28-O-beta-D-fucoside	UDP	white
+quillaic acid 3-O-Xyl/L-Rha-1,3-(Gal-1,2)-GlcA-28-O-Fuc alpha-1,2-rhamnosyltransferase	2.4.1.-	UDP	Quillaic acid 3-O-beta-D-xylosyl-1,3-(beta-D-galactosyl-1,2)-beta-D-glucuronide-28-O-beta-D-fucoside	white
+quillaic acid 3-O-Xyl/L-Rha-1,3-(Gal-1,2)-GlcA-28-O-Fuc alpha-1,2-rhamnosyltransferase	2.4.1.-	UDP	UDP-L-rhamnose	white
+quillaic acid 3-O-Xyl/L-Rha-1,3-(Gal-1,2)-GlcA-28-O-Fuc alpha-1,2-rhamnosyltransferase	2.4.1.-	UDP-L-rhamnose	Quillaic acid 3-O-beta-D-xylosyl-1,3-(beta-D-galactosyl-1,2)-beta-D-glucuronide-28-O-alpha-L-rhamnosyl-1,2-beta-D-fucoside	white
+quillaic acid 3-O-Xyl/L-Rha-1,3-(Gal-1,2)-GlcA-28-O-Fuc alpha-1,2-rhamnosyltransferase	2.4.1.-	UDP-L-rhamnose	UDP	white
+quillaic acid 3-O-Xyl/L-Rha-1,3-(Gal-1,2)-GlcA-28-O-L-Rha-1,2-Fuc beta-1,4-xylosyltransferase	2.4.2.-	Quillaic acid 3-O-beta-D-xylosyl-1,3-(beta-D-galactosyl-1,2)-beta-D-glucuronide-28-O-alpha-L-rhamnosyl-1,2-beta-D-fucoside	Quillaic acid 3-O-beta-D-xylosyl-1,3-(beta-D-galactosyl-1,2)-beta-D-glucuronide-28-O-beta-D-xylosyl-1,4-alpha-L-rhamnosyl-1,2-beta-D-fucoside	white
+quillaic acid 3-O-Xyl/L-Rha-1,3-(Gal-1,2)-GlcA-28-O-L-Rha-1,2-Fuc beta-1,4-xylosyltransferase	2.4.2.-	Quillaic acid 3-O-beta-D-xylosyl-1,3-(beta-D-galactosyl-1,2)-beta-D-glucuronide-28-O-alpha-L-rhamnosyl-1,2-beta-D-fucoside	UDP	white
+quillaic acid 3-O-Xyl/L-Rha-1,3-(Gal-1,2)-GlcA-28-O-L-Rha-1,2-Fuc beta-1,4-xylosyltransferase	2.4.2.-	Quillaic acid 3-O-beta-D-xylosyl-1,3-(beta-D-galactosyl-1,2)-beta-D-glucuronide-28-O-beta-D-xylosyl-1,4-alpha-L-rhamnosyl-1,2-beta-D-fucoside	Quillaic acid 3-O-beta-D-xylosyl-1,3-(beta-D-galactosyl-1,2)-beta-D-glucuronide-28-O-alpha-L-rhamnosyl-1,2-beta-D-fucoside	white
+quillaic acid 3-O-Xyl/L-Rha-1,3-(Gal-1,2)-GlcA-28-O-L-Rha-1,2-Fuc beta-1,4-xylosyltransferase	2.4.2.-	Quillaic acid 3-O-beta-D-xylosyl-1,3-(beta-D-galactosyl-1,2)-beta-D-glucuronide-28-O-beta-D-xylosyl-1,4-alpha-L-rhamnosyl-1,2-beta-D-fucoside	UDP-D-xylose	white
+quillaic acid 3-O-Xyl/L-Rha-1,3-(Gal-1,2)-GlcA-28-O-L-Rha-1,2-Fuc beta-1,4-xylosyltransferase	2.4.2.-	UDP	Quillaic acid 3-O-beta-D-xylosyl-1,3-(beta-D-galactosyl-1,2)-beta-D-glucuronide-28-O-alpha-L-rhamnosyl-1,2-beta-D-fucoside	white
+quillaic acid 3-O-Xyl/L-Rha-1,3-(Gal-1,2)-GlcA-28-O-L-Rha-1,2-Fuc beta-1,4-xylosyltransferase	2.4.2.-	UDP	UDP-D-xylose	white
+quillaic acid 3-O-Xyl/L-Rha-1,3-(Gal-1,2)-GlcA-28-O-L-Rha-1,2-Fuc beta-1,4-xylosyltransferase	2.4.2.-	UDP-D-xylose	Quillaic acid 3-O-beta-D-xylosyl-1,3-(beta-D-galactosyl-1,2)-beta-D-glucuronide-28-O-beta-D-xylosyl-1,4-alpha-L-rhamnosyl-1,2-beta-D-fucoside	white
+quillaic acid 3-O-Xyl/L-Rha-1,3-(Gal-1,2)-GlcA-28-O-L-Rha-1,2-Fuc beta-1,4-xylosyltransferase	2.4.2.-	UDP-D-xylose	UDP	white
+quillaic acid 3-O-Xyl/L-Rha-1,3-(Gal-1,2)-GlcA-28-O-Xyl-1,4-L-Rha-1,2-Fuc beta-1,3-apiosyltransferase	2.4.2.-	Quillaic acid 3-O-beta-D-xylosyl-1,3-(beta-D-galactosyl-1,2)-beta-D-glucuronide-28-O-beta-D-apiosyl-1,3-beta-D-xylosyl-1,4-alpha-L-rhamnosyl-1,2-beta-D-fucoside	Quillaic acid 3-O-beta-D-xylosyl-1,3-(beta-D-galactosyl-1,2)-beta-D-glucuronide-28-O-beta-D-xylosyl-1,4-alpha-L-rhamnosyl-1,2-beta-D-fucoside	white
+quillaic acid 3-O-Xyl/L-Rha-1,3-(Gal-1,2)-GlcA-28-O-Xyl-1,4-L-Rha-1,2-Fuc beta-1,3-apiosyltransferase	2.4.2.-	Quillaic acid 3-O-beta-D-xylosyl-1,3-(beta-D-galactosyl-1,2)-beta-D-glucuronide-28-O-beta-D-apiosyl-1,3-beta-D-xylosyl-1,4-alpha-L-rhamnosyl-1,2-beta-D-fucoside	UDP-apiose	white
+quillaic acid 3-O-Xyl/L-Rha-1,3-(Gal-1,2)-GlcA-28-O-Xyl-1,4-L-Rha-1,2-Fuc beta-1,3-apiosyltransferase	2.4.2.-	Quillaic acid 3-O-beta-D-xylosyl-1,3-(beta-D-galactosyl-1,2)-beta-D-glucuronide-28-O-beta-D-xylosyl-1,4-alpha-L-rhamnosyl-1,2-beta-D-fucoside	Quillaic acid 3-O-beta-D-xylosyl-1,3-(beta-D-galactosyl-1,2)-beta-D-glucuronide-28-O-beta-D-apiosyl-1,3-beta-D-xylosyl-1,4-alpha-L-rhamnosyl-1,2-beta-D-fucoside	white
+quillaic acid 3-O-Xyl/L-Rha-1,3-(Gal-1,2)-GlcA-28-O-Xyl-1,4-L-Rha-1,2-Fuc beta-1,3-apiosyltransferase	2.4.2.-	Quillaic acid 3-O-beta-D-xylosyl-1,3-(beta-D-galactosyl-1,2)-beta-D-glucuronide-28-O-beta-D-xylosyl-1,4-alpha-L-rhamnosyl-1,2-beta-D-fucoside	UDP	white
+quillaic acid 3-O-Xyl/L-Rha-1,3-(Gal-1,2)-GlcA-28-O-Xyl-1,4-L-Rha-1,2-Fuc beta-1,3-apiosyltransferase	2.4.2.-	UDP	Quillaic acid 3-O-beta-D-xylosyl-1,3-(beta-D-galactosyl-1,2)-beta-D-glucuronide-28-O-beta-D-xylosyl-1,4-alpha-L-rhamnosyl-1,2-beta-D-fucoside	white
+quillaic acid 3-O-Xyl/L-Rha-1,3-(Gal-1,2)-GlcA-28-O-Xyl-1,4-L-Rha-1,2-Fuc beta-1,3-apiosyltransferase	2.4.2.-	UDP	UDP-apiose	white
+quillaic acid 3-O-Xyl/L-Rha-1,3-(Gal-1,2)-GlcA-28-O-Xyl-1,4-L-Rha-1,2-Fuc beta-1,3-apiosyltransferase	2.4.2.-	UDP-apiose	Quillaic acid 3-O-beta-D-xylosyl-1,3-(beta-D-galactosyl-1,2)-beta-D-glucuronide-28-O-beta-D-apiosyl-1,3-beta-D-xylosyl-1,4-alpha-L-rhamnosyl-1,2-beta-D-fucoside	white
+quillaic acid 3-O-Xyl/L-Rha-1,3-(Gal-1,2)-GlcA-28-O-Xyl-1,4-L-Rha-1,2-Fuc beta-1,3-apiosyltransferase	2.4.2.-	UDP-apiose	UDP	white
+quillaic acid 3-O-Xyl/L-Rha-1,3-(Gal-1,2)-GlcA-28-O-Xyl-1,4-L-Rha-1,2-Fuc beta-1,3-xylosyltransferase	2.4.2.-	Quillaic acid 3-O-beta-D-xylosyl-1,3-(beta-D-galactosyl-1,2)-beta-D-glucuronide-28-O-beta-D-xylosyl-1,3-beta-D-xylosyl-1,4-alpha-L-rhamnosyl-1,2-beta-D-fucoside	Quillaic acid 3-O-beta-D-xylosyl-1,3-(beta-D-galactosyl-1,2)-beta-D-glucuronide-28-O-beta-D-xylosyl-1,4-alpha-L-rhamnosyl-1,2-beta-D-fucoside	white
+quillaic acid 3-O-Xyl/L-Rha-1,3-(Gal-1,2)-GlcA-28-O-Xyl-1,4-L-Rha-1,2-Fuc beta-1,3-xylosyltransferase	2.4.2.-	Quillaic acid 3-O-beta-D-xylosyl-1,3-(beta-D-galactosyl-1,2)-beta-D-glucuronide-28-O-beta-D-xylosyl-1,3-beta-D-xylosyl-1,4-alpha-L-rhamnosyl-1,2-beta-D-fucoside	UDP-D-xylose	white
+quillaic acid 3-O-Xyl/L-Rha-1,3-(Gal-1,2)-GlcA-28-O-Xyl-1,4-L-Rha-1,2-Fuc beta-1,3-xylosyltransferase	2.4.2.-	Quillaic acid 3-O-beta-D-xylosyl-1,3-(beta-D-galactosyl-1,2)-beta-D-glucuronide-28-O-beta-D-xylosyl-1,4-alpha-L-rhamnosyl-1,2-beta-D-fucoside	Quillaic acid 3-O-beta-D-xylosyl-1,3-(beta-D-galactosyl-1,2)-beta-D-glucuronide-28-O-beta-D-xylosyl-1,3-beta-D-xylosyl-1,4-alpha-L-rhamnosyl-1,2-beta-D-fucoside	white
+quillaic acid 3-O-Xyl/L-Rha-1,3-(Gal-1,2)-GlcA-28-O-Xyl-1,4-L-Rha-1,2-Fuc beta-1,3-xylosyltransferase	2.4.2.-	Quillaic acid 3-O-beta-D-xylosyl-1,3-(beta-D-galactosyl-1,2)-beta-D-glucuronide-28-O-beta-D-xylosyl-1,4-alpha-L-rhamnosyl-1,2-beta-D-fucoside	UDP	white
+quillaic acid 3-O-Xyl/L-Rha-1,3-(Gal-1,2)-GlcA-28-O-Xyl-1,4-L-Rha-1,2-Fuc beta-1,3-xylosyltransferase	2.4.2.-	UDP	Quillaic acid 3-O-beta-D-xylosyl-1,3-(beta-D-galactosyl-1,2)-beta-D-glucuronide-28-O-beta-D-xylosyl-1,4-alpha-L-rhamnosyl-1,2-beta-D-fucoside	white
+quillaic acid 3-O-Xyl/L-Rha-1,3-(Gal-1,2)-GlcA-28-O-Xyl-1,4-L-Rha-1,2-Fuc beta-1,3-xylosyltransferase	2.4.2.-	UDP	UDP-D-xylose	white
+quillaic acid 3-O-Xyl/L-Rha-1,3-(Gal-1,2)-GlcA-28-O-Xyl-1,4-L-Rha-1,2-Fuc beta-1,3-xylosyltransferase	2.4.2.-	UDP-D-xylose	Quillaic acid 3-O-beta-D-xylosyl-1,3-(beta-D-galactosyl-1,2)-beta-D-glucuronide-28-O-beta-D-xylosyl-1,3-beta-D-xylosyl-1,4-alpha-L-rhamnosyl-1,2-beta-D-fucoside	white
+quillaic acid 3-O-Xyl/L-Rha-1,3-(Gal-1,2)-GlcA-28-O-Xyl-1,4-L-Rha-1,2-Fuc beta-1,3-xylosyltransferase	2.4.2.-	UDP-D-xylose	UDP	white
+quillaic acid 3-O-glucuronosyltransferase	1.14.14.126	Quillaic acid	Quillaic acid 3-O-beta-D-glucuronide	white
+quillaic acid 3-O-glucuronosyltransferase	1.14.14.126	Quillaic acid 3-O-beta-D-glucuronide	Quillaic acid	white
+scopoletin 8-hydroxylase	1.14.11.60	2-Oxoglutarate	CO2	white
+scopoletin 8-hydroxylase	1.14.11.60	2-Oxoglutarate	Fraxetin	white
+scopoletin 8-hydroxylase	1.14.11.60	2-Oxoglutarate	Succinate	white
+scopoletin 8-hydroxylase	1.14.11.60	CO2	2-Oxoglutarate	white
+scopoletin 8-hydroxylase	1.14.11.60	CO2	Oxygen	white
+scopoletin 8-hydroxylase	1.14.11.60	CO2	Scopoletin	white
+scopoletin 8-hydroxylase	1.14.11.60	Fraxetin	2-Oxoglutarate	white
+scopoletin 8-hydroxylase	1.14.11.60	Fraxetin	Oxygen	white
+scopoletin 8-hydroxylase	1.14.11.60	Fraxetin	Scopoletin	white
+scopoletin 8-hydroxylase	1.14.11.60	Oxygen	CO2	white
+scopoletin 8-hydroxylase	1.14.11.60	Oxygen	Fraxetin	white
+scopoletin 8-hydroxylase	1.14.11.60	Oxygen	Succinate	white
+scopoletin 8-hydroxylase	1.14.11.60	Scopoletin	CO2	white
+scopoletin 8-hydroxylase	1.14.11.60	Scopoletin	Fraxetin	white
+scopoletin 8-hydroxylase	1.14.11.60	Scopoletin	Succinate	white
+scopoletin 8-hydroxylase	1.14.11.60	Succinate	2-Oxoglutarate	white
+scopoletin 8-hydroxylase	1.14.11.60	Succinate	Oxygen	white
+scopoletin 8-hydroxylase	1.14.11.60	Succinate	Scopoletin	white
+scopoletin glucosyltransferase	2.4.1.128	Scopoletin	Scopolin	white
+scopoletin glucosyltransferase	2.4.1.128	Scopoletin	UDP	white
+scopoletin glucosyltransferase	2.4.1.128	Scopolin	Scopoletin	white
+scopoletin glucosyltransferase	2.4.1.128	Scopolin	UDP-glucose	white
+scopoletin glucosyltransferase	2.4.1.128	UDP	Scopoletin	white
+scopoletin glucosyltransferase	2.4.1.128	UDP	UDP-glucose	white
+scopoletin glucosyltransferase	2.4.1.128	UDP-glucose	Scopolin	white
+scopoletin glucosyltransferase	2.4.1.128	UDP-glucose	UDP	white
+secoisolariciresinol dehydrogenase	1.1.1.331	H+	NAD+	white
+secoisolariciresinol dehydrogenase	1.1.1.331	H+	Secoisolariciresinol	white
+secoisolariciresinol dehydrogenase	1.1.1.331	Matairesinol	NAD+	white
+secoisolariciresinol dehydrogenase	1.1.1.331	Matairesinol	Secoisolariciresinol	white
+secoisolariciresinol dehydrogenase	1.1.1.331	NAD+	H+	white
+secoisolariciresinol dehydrogenase	1.1.1.331	NAD+	Matairesinol	white
+secoisolariciresinol dehydrogenase	1.1.1.331	NAD+	NADH	white
+secoisolariciresinol dehydrogenase	1.1.1.331	NADH	NAD+	white
+secoisolariciresinol dehydrogenase	1.1.1.331	NADH	Secoisolariciresinol	white
+secoisolariciresinol dehydrogenase	1.1.1.331	Secoisolariciresinol	H+	white
+secoisolariciresinol dehydrogenase	1.1.1.331	Secoisolariciresinol	Matairesinol	white
+secoisolariciresinol dehydrogenase	1.1.1.331	Secoisolariciresinol	NADH	white
+shikimate dehydrogenase	1.1.1.25	3-Dehydroshikimate	NADP+	white
+shikimate dehydrogenase	1.1.1.25	3-Dehydroshikimate	Shikimate	white
+shikimate dehydrogenase	1.1.1.25	H+	NADP+	white
+shikimate dehydrogenase	1.1.1.25	H+	Shikimate	white
+shikimate dehydrogenase	1.1.1.25	NADP+	3-Dehydroshikimate	white
+shikimate dehydrogenase	1.1.1.25	NADP+	H+	white
+shikimate dehydrogenase	1.1.1.25	NADP+	NADPH	white
+shikimate dehydrogenase	1.1.1.25	NADPH	NADP+	white
+shikimate dehydrogenase	1.1.1.25	NADPH	Shikimate	white
+shikimate dehydrogenase	1.1.1.25	Shikimate	3-Dehydroshikimate	white
+shikimate dehydrogenase	1.1.1.25	Shikimate	H+	white
+shikimate dehydrogenase	1.1.1.25	Shikimate	NADPH	white
+tetrahydrocannabinolic acid synthase	1.21.3.7	Cannabigerolate	Delta9-Tetrahydrocannabinolate	white
+tetrahydrocannabinolic acid synthase	1.21.3.7	Cannabigerolate	Hydrogen peroxide	white
+tetrahydrocannabinolic acid synthase	1.21.3.7	Delta9-Tetrahydrocannabinolate	Cannabigerolate	white
+tetrahydrocannabinolic acid synthase	1.21.3.7	Delta9-Tetrahydrocannabinolate	Oxygen	white
+tetrahydrocannabinolic acid synthase	1.21.3.7	Hydrogen peroxide	Cannabigerolate	white
+tetrahydrocannabinolic acid synthase	1.21.3.7	Hydrogen peroxide	Oxygen	white
+tetrahydrocannabinolic acid synthase	1.21.3.7	Oxygen	Delta9-Tetrahydrocannabinolate	white
+tetrahydrocannabinolic acid synthase	1.21.3.7	Oxygen	Hydrogen peroxide	white
+umbelliferone 6-dimethylallyltransferase	2.5.1.139	Demethylsuberosin	Dimethylallyl diphosphate	white
+umbelliferone 6-dimethylallyltransferase	2.5.1.139	Demethylsuberosin	Umbelliferone	white
+umbelliferone 6-dimethylallyltransferase	2.5.1.139	Dimethylallyl diphosphate	Demethylsuberosin	white
+umbelliferone 6-dimethylallyltransferase	2.5.1.139	Dimethylallyl diphosphate	Diphosphate	white
+umbelliferone 6-dimethylallyltransferase	2.5.1.139	Diphosphate	Dimethylallyl diphosphate	white
+umbelliferone 6-dimethylallyltransferase	2.5.1.139	Diphosphate	Umbelliferone	white
+umbelliferone 6-dimethylallyltransferase	2.5.1.139	Umbelliferone	Demethylsuberosin	white
+umbelliferone 6-dimethylallyltransferase	2.5.1.139	Umbelliferone	Diphosphate	white

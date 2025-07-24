@@ -1,0 +1,138 @@
+enzyme_name	EC	source	target	color
+alcohol-forming fatty acyl-CoA reductase	1.2.1.84	H+	CoA	green
+alcohol-forming fatty acyl-CoA reductase	1.2.1.84	H+	NADP+	green
+alcohol-forming fatty acyl-CoA reductase	1.2.1.84	H+	Primary alcohol	green
+alcohol-forming fatty acyl-CoA reductase	1.2.1.84	Long-chain acyl-CoA	CoA	green
+alcohol-forming fatty acyl-CoA reductase	1.2.1.84	Long-chain acyl-CoA	NADP+	green
+alcohol-forming fatty acyl-CoA reductase	1.2.1.84	Long-chain acyl-CoA	Primary alcohol	green
+alcohol-forming fatty acyl-CoA reductase	1.2.1.84	NADPH	CoA	green
+alcohol-forming fatty acyl-CoA reductase	1.2.1.84	NADPH	NADP+	green
+alcohol-forming fatty acyl-CoA reductase	1.2.1.84	NADPH	Primary alcohol	green
+aldehyde decarbonylase	4.1.99.5	Alkane	Long-chain aldehyde	white
+aldehyde decarbonylase	4.1.99.5	CO	Long-chain aldehyde	white
+aldehyde decarbonylase	4.1.99.5	Long-chain aldehyde	Alkane	white
+aldehyde decarbonylase	4.1.99.5	Long-chain aldehyde	CO	white
+cytochrome P450 family 77 subfamily A	1.14.-.-	10,16-Dihydroxyhexadecanoic acid	16-Hydroxypalmitate	white
+cytochrome P450 family 77 subfamily A	1.14.-.-	10,16-Dihydroxyhexadecanoic acid	H+	white
+cytochrome P450 family 77 subfamily A	1.14.-.-	10,16-Dihydroxyhexadecanoic acid	NADPH	white
+cytochrome P450 family 77 subfamily A	1.14.-.-	10,16-Dihydroxyhexadecanoic acid	Oxygen	white
+cytochrome P450 family 77 subfamily A	1.14.-.-	16-Hydroxypalmitate	10,16-Dihydroxyhexadecanoic acid	white
+cytochrome P450 family 77 subfamily A	1.14.-.-	16-Hydroxypalmitate	H2O	white
+cytochrome P450 family 77 subfamily A	1.14.-.-	16-Hydroxypalmitate	NADP+	white
+cytochrome P450 family 77 subfamily A	1.14.-.-	H+	10,16-Dihydroxyhexadecanoic acid	white
+cytochrome P450 family 77 subfamily A	1.14.-.-	H+	H2O	white
+cytochrome P450 family 77 subfamily A	1.14.-.-	H+	NADP+	white
+cytochrome P450 family 77 subfamily A	1.14.-.-	H2O	16-Hydroxypalmitate	white
+cytochrome P450 family 77 subfamily A	1.14.-.-	H2O	H+	white
+cytochrome P450 family 77 subfamily A	1.14.-.-	H2O	NADPH	white
+cytochrome P450 family 77 subfamily A	1.14.-.-	H2O	Oxygen	white
+cytochrome P450 family 77 subfamily A	1.14.-.-	NADP+	16-Hydroxypalmitate	white
+cytochrome P450 family 77 subfamily A	1.14.-.-	NADP+	H+	white
+cytochrome P450 family 77 subfamily A	1.14.-.-	NADP+	NADPH	white
+cytochrome P450 family 77 subfamily A	1.14.-.-	NADP+	Oxygen	white
+cytochrome P450 family 77 subfamily A	1.14.-.-	NADPH	10,16-Dihydroxyhexadecanoic acid	white
+cytochrome P450 family 77 subfamily A	1.14.-.-	NADPH	H2O	white
+cytochrome P450 family 77 subfamily A	1.14.-.-	NADPH	NADP+	white
+cytochrome P450 family 77 subfamily A	1.14.-.-	Oxygen	10,16-Dihydroxyhexadecanoic acid	white
+cytochrome P450 family 77 subfamily A	1.14.-.-	Oxygen	H2O	white
+cytochrome P450 family 77 subfamily A	1.14.-.-	Oxygen	NADP+	white
+diacylglycerol O-acyltransferase / wax synthase	2.3.1.20	Long-chain acyl-CoA	CoA	green
+diacylglycerol O-acyltransferase / wax synthase	2.3.1.20	Long-chain acyl-CoA	Wax ester	green
+diacylglycerol O-acyltransferase / wax synthase	2.3.1.20	Primary alcohol	CoA	green
+diacylglycerol O-acyltransferase / wax synthase	2.3.1.20	Primary alcohol	Wax ester	green
+diacylglycerol/phytol O-acyltransferase	2.3.1.20	1,2-Diacyl-sn-glycerol	CoA	white
+diacylglycerol/phytol O-acyltransferase	2.3.1.20	1,2-Diacyl-sn-glycerol	Triacylglycerol	white
+diacylglycerol/phytol O-acyltransferase	2.3.1.20	Acyl-CoA	CoA	white
+diacylglycerol/phytol O-acyltransferase	2.3.1.20	Acyl-CoA	Triacylglycerol	white
+diacylglycerol/phytol O-acyltransferase	2.3.1.20	CoA	1,2-Diacyl-sn-glycerol	white
+diacylglycerol/phytol O-acyltransferase	2.3.1.20	CoA	Acyl-CoA	white
+diacylglycerol/phytol O-acyltransferase	2.3.1.20	Triacylglycerol	1,2-Diacyl-sn-glycerol	white
+diacylglycerol/phytol O-acyltransferase	2.3.1.20	Triacylglycerol	Acyl-CoA	white
+fatty acid omega-hydroxy dehydrogenase	1.1.-.-	16-Hydroxypalmitate	16-Oxopalmitate	white
+fatty acid omega-hydroxy dehydrogenase	1.1.-.-	16-Oxopalmitate	16-Hydroxypalmitate	white
+fatty acid omega-hydroxylase	1.14.-.-	9,10-Epoxy-18-hydroxystearate	9,10-Epoxystearate	white
+fatty acid omega-hydroxylase	1.14.-.-	9,10-Epoxy-18-hydroxystearate	H+	white
+fatty acid omega-hydroxylase	1.14.-.-	9,10-Epoxy-18-hydroxystearate	NADPH	white
+fatty acid omega-hydroxylase	1.14.-.-	9,10-Epoxy-18-hydroxystearate	Oxygen	white
+fatty acid omega-hydroxylase	1.14.-.-	9,10-Epoxystearate	9,10-Epoxy-18-hydroxystearate	white
+fatty acid omega-hydroxylase	1.14.-.-	9,10-Epoxystearate	H2O	white
+fatty acid omega-hydroxylase	1.14.-.-	9,10-Epoxystearate	NADP+	white
+fatty acid omega-hydroxylase	1.14.-.-	H+	9,10-Epoxy-18-hydroxystearate	white
+fatty acid omega-hydroxylase	1.14.-.-	H+	H2O	white
+fatty acid omega-hydroxylase	1.14.-.-	H+	NADP+	white
+fatty acid omega-hydroxylase	1.14.-.-	H2O	9,10-Epoxystearate	white
+fatty acid omega-hydroxylase	1.14.-.-	H2O	H+	white
+fatty acid omega-hydroxylase	1.14.-.-	H2O	NADPH	white
+fatty acid omega-hydroxylase	1.14.-.-	H2O	Oxygen	white
+fatty acid omega-hydroxylase	1.14.-.-	NADP+	9,10-Epoxystearate	white
+fatty acid omega-hydroxylase	1.14.-.-	NADP+	H+	white
+fatty acid omega-hydroxylase	1.14.-.-	NADP+	NADPH	white
+fatty acid omega-hydroxylase	1.14.-.-	NADP+	Oxygen	white
+fatty acid omega-hydroxylase	1.14.-.-	NADPH	9,10-Epoxy-18-hydroxystearate	white
+fatty acid omega-hydroxylase	1.14.-.-	NADPH	H2O	white
+fatty acid omega-hydroxylase	1.14.-.-	NADPH	NADP+	white
+fatty acid omega-hydroxylase	1.14.-.-	Oxygen	9,10-Epoxy-18-hydroxystearate	white
+fatty acid omega-hydroxylase	1.14.-.-	Oxygen	H2O	white
+fatty acid omega-hydroxylase	1.14.-.-	Oxygen	NADP+	white
+fatty acyl-CoA reductase	1.2.1.-	CoA	H+	white
+fatty acyl-CoA reductase	1.2.1.-	CoA	Long-chain acyl-CoA	white
+fatty acyl-CoA reductase	1.2.1.-	CoA	NADPH	white
+fatty acyl-CoA reductase	1.2.1.-	H+	CoA	white
+fatty acyl-CoA reductase	1.2.1.-	H+	Long-chain aldehyde	white
+fatty acyl-CoA reductase	1.2.1.-	H+	NADP+	white
+fatty acyl-CoA reductase	1.2.1.-	Long-chain acyl-CoA	CoA	white
+fatty acyl-CoA reductase	1.2.1.-	Long-chain acyl-CoA	Long-chain aldehyde	white
+fatty acyl-CoA reductase	1.2.1.-	Long-chain acyl-CoA	NADP+	white
+fatty acyl-CoA reductase	1.2.1.-	Long-chain aldehyde	H+	white
+fatty acyl-CoA reductase	1.2.1.-	Long-chain aldehyde	Long-chain acyl-CoA	white
+fatty acyl-CoA reductase	1.2.1.-	Long-chain aldehyde	NADPH	white
+fatty acyl-CoA reductase	1.2.1.-	NADP+	H+	white
+fatty acyl-CoA reductase	1.2.1.-	NADP+	Long-chain acyl-CoA	white
+fatty acyl-CoA reductase	1.2.1.-	NADP+	NADPH	white
+fatty acyl-CoA reductase	1.2.1.-	NADPH	CoA	white
+fatty acyl-CoA reductase	1.2.1.-	NADPH	Long-chain aldehyde	white
+fatty acyl-CoA reductase	1.2.1.-	NADPH	NADP+	white
+long-chain fatty acid omega-monooxygenase	1.14.14.80	Fatty acid	H2O	white
+long-chain fatty acid omega-monooxygenase	1.14.14.80	Fatty acid	[Oxidized NADPH---hemoprotein reductase]	white
+long-chain fatty acid omega-monooxygenase	1.14.14.80	Fatty acid	omega-Hydroxy fatty acid	white
+long-chain fatty acid omega-monooxygenase	1.14.14.80	H2O	Fatty acid	white
+long-chain fatty acid omega-monooxygenase	1.14.14.80	H2O	Oxygen	white
+long-chain fatty acid omega-monooxygenase	1.14.14.80	H2O	[Reduced NADPH---hemoprotein reductase]	white
+long-chain fatty acid omega-monooxygenase	1.14.14.80	Oxygen	H2O	white
+long-chain fatty acid omega-monooxygenase	1.14.14.80	Oxygen	[Oxidized NADPH---hemoprotein reductase]	white
+long-chain fatty acid omega-monooxygenase	1.14.14.80	Oxygen	omega-Hydroxy fatty acid	white
+long-chain fatty acid omega-monooxygenase	1.14.14.80	[Oxidized NADPH---hemoprotein reductase]	Fatty acid	white
+long-chain fatty acid omega-monooxygenase	1.14.14.80	[Oxidized NADPH---hemoprotein reductase]	Oxygen	white
+long-chain fatty acid omega-monooxygenase	1.14.14.80	[Oxidized NADPH---hemoprotein reductase]	[Reduced NADPH---hemoprotein reductase]	white
+long-chain fatty acid omega-monooxygenase	1.14.14.80	[Reduced NADPH---hemoprotein reductase]	H2O	white
+long-chain fatty acid omega-monooxygenase	1.14.14.80	[Reduced NADPH---hemoprotein reductase]	[Oxidized NADPH---hemoprotein reductase]	white
+long-chain fatty acid omega-monooxygenase	1.14.14.80	[Reduced NADPH---hemoprotein reductase]	omega-Hydroxy fatty acid	white
+long-chain fatty acid omega-monooxygenase	1.14.14.80	omega-Hydroxy fatty acid	Fatty acid	white
+long-chain fatty acid omega-monooxygenase	1.14.14.80	omega-Hydroxy fatty acid	Oxygen	white
+long-chain fatty acid omega-monooxygenase	1.14.14.80	omega-Hydroxy fatty acid	[Reduced NADPH---hemoprotein reductase]	white
+midchain alkane hydroxylase	4.1.99.5	Alkane	Secondary alcohol	white
+midchain alkane hydroxylase	4.1.99.5	Secondary alcohol	Alkane	white
+omega-hydroxypalmitate O-feruloyl transferase	2.3.1.188	16-Feruloyloxypalmitate	16-Hydroxypalmitate	white
+omega-hydroxypalmitate O-feruloyl transferase	2.3.1.188	16-Feruloyloxypalmitate	Feruloyl-CoA	white
+omega-hydroxypalmitate O-feruloyl transferase	2.3.1.188	16-Hydroxypalmitate	16-Feruloyloxypalmitate	white
+omega-hydroxypalmitate O-feruloyl transferase	2.3.1.188	16-Hydroxypalmitate	CoA	white
+omega-hydroxypalmitate O-feruloyl transferase	2.3.1.188	CoA	16-Hydroxypalmitate	white
+omega-hydroxypalmitate O-feruloyl transferase	2.3.1.188	CoA	Feruloyl-CoA	white
+omega-hydroxypalmitate O-feruloyl transferase	2.3.1.188	Feruloyl-CoA	16-Feruloyloxypalmitate	white
+omega-hydroxypalmitate O-feruloyl transferase	2.3.1.188	Feruloyl-CoA	CoA	white
+peroxygenase	1.11.2.3	(9Z)-Octadecenoic acid	9,10-Epoxystearate	white
+peroxygenase	1.11.2.3	(9Z)-Octadecenoic acid	Alcohol	white
+peroxygenase	1.11.2.3	9,10-Epoxystearate	(9Z)-Octadecenoic acid	white
+peroxygenase	1.11.2.3	9,10-Epoxystearate	Lipid hydroperoxide	white
+peroxygenase	1.11.2.3	Alcohol	(9Z)-Octadecenoic acid	white
+peroxygenase	1.11.2.3	Alcohol	Lipid hydroperoxide	white
+peroxygenase	1.11.2.3	Lipid hydroperoxide	9,10-Epoxystearate	white
+peroxygenase	1.11.2.3	Lipid hydroperoxide	Alcohol	white
+wax-ester synthase / diacylglycerol O-acyltransferase	2.3.1.75	Acyl-CoA	CoA	white
+wax-ester synthase / diacylglycerol O-acyltransferase	2.3.1.75	Acyl-CoA	Long-chain alcohol wax ester	white
+wax-ester synthase / diacylglycerol O-acyltransferase	2.3.1.75	CoA	Acyl-CoA	white
+wax-ester synthase / diacylglycerol O-acyltransferase	2.3.1.75	CoA	Long-chain alcohol	white
+wax-ester synthase / diacylglycerol O-acyltransferase	2.3.1.75	Long-chain alcohol	CoA	white
+wax-ester synthase / diacylglycerol O-acyltransferase	2.3.1.75	Long-chain alcohol	Long-chain alcohol wax ester	white
+wax-ester synthase / diacylglycerol O-acyltransferase	2.3.1.75	Long-chain alcohol wax ester	Acyl-CoA	white
+wax-ester synthase / diacylglycerol O-acyltransferase	2.3.1.75	Long-chain alcohol wax ester	Long-chain alcohol	white

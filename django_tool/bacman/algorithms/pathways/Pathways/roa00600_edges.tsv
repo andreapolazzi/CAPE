@@ -1,0 +1,397 @@
+enzyme_name	EC	source	target	color
+(N-Acetylneuraminyl)-galactosylglucosylceramide N-acetylgalactosaminyltransferase	2.4.1.92	G00092	G00123	white
+(N-Acetylneuraminyl)-galactosylglucosylceramide N-acetylgalactosaminyltransferase	2.4.1.92	G00092	G10619	white
+(N-Acetylneuraminyl)-galactosylglucosylceramide N-acetylgalactosaminyltransferase	2.4.1.92	G00123	G00092	white
+(N-Acetylneuraminyl)-galactosylglucosylceramide N-acetylgalactosaminyltransferase	2.4.1.92	G00123	G10611	white
+(N-Acetylneuraminyl)-galactosylglucosylceramide N-acetylgalactosaminyltransferase	2.4.1.92	G10611	G00123	white
+(N-Acetylneuraminyl)-galactosylglucosylceramide N-acetylgalactosaminyltransferase	2.4.1.92	G10611	G10619	white
+(N-Acetylneuraminyl)-galactosylglucosylceramide N-acetylgalactosaminyltransferase	2.4.1.92	G10619	G00092	white
+(N-Acetylneuraminyl)-galactosylglucosylceramide N-acetylgalactosaminyltransferase	2.4.1.92	G10619	G10611	white
+3-dehydrosphinganine reductase	1.1.1.102	3-Dehydrosphinganine	NADP+	white
+3-dehydrosphinganine reductase	1.1.1.102	3-Dehydrosphinganine	Sphinganine	white
+3-dehydrosphinganine reductase	1.1.1.102	H+	NADP+	white
+3-dehydrosphinganine reductase	1.1.1.102	H+	Sphinganine	white
+3-dehydrosphinganine reductase	1.1.1.102	NADP+	3-Dehydrosphinganine	white
+3-dehydrosphinganine reductase	1.1.1.102	NADP+	H+	white
+3-dehydrosphinganine reductase	1.1.1.102	NADP+	NADPH	white
+3-dehydrosphinganine reductase	1.1.1.102	NADPH	NADP+	white
+3-dehydrosphinganine reductase	1.1.1.102	NADPH	Sphinganine	white
+3-dehydrosphinganine reductase	1.1.1.102	Sphinganine	3-Dehydrosphinganine	white
+3-dehydrosphinganine reductase	1.1.1.102	Sphinganine	H+	white
+3-dehydrosphinganine reductase	1.1.1.102	Sphinganine	NADPH	white
+alpha-galactosidase	3.2.1.22	Digalactosylceramide	D-Galactose	green
+alpha-galactosidase	3.2.1.22	Digalactosylceramide	Galactosylceramide	green
+alpha-galactosidase	3.2.1.22	H2O	D-Galactose	green
+alpha-galactosidase	3.2.1.22	H2O	Galactosylceramide	green
+alpha-galactosidase	3.2.1.22	H2O	Lactosylceramide	green
+alpha-galactosidase	3.2.1.22	alpha-D-Galactosyl-(1->4)-beta-D-galactosyl-(1->4)-beta-D-glucosyl-(1<->1)-ceramide	D-Galactose	green
+alpha-galactosidase	3.2.1.22	alpha-D-Galactosyl-(1->4)-beta-D-galactosyl-(1->4)-beta-D-glucosyl-(1<->1)-ceramide	Lactosylceramide	green
+arylsulfatase	3.1.6.1	H2O	Galactosylceramide	green
+arylsulfatase	3.1.6.1	H2O	Sulfate	green
+arylsulfatase	3.1.6.1	Sulfatide	Galactosylceramide	green
+arylsulfatase	3.1.6.1	Sulfatide	Sulfate	green
+arylsulfatase A	3.1.6.8	Galactosylceramide	H2O	white
+arylsulfatase A	3.1.6.8	Galactosylceramide	Sulfatide	white
+arylsulfatase A	3.1.6.8	H2O	Galactosylceramide	white
+arylsulfatase A	3.1.6.8	H2O	Sulfate	white
+arylsulfatase A	3.1.6.8	Sulfate	H2O	white
+arylsulfatase A	3.1.6.8	Sulfate	Sulfatide	white
+arylsulfatase A	3.1.6.8	Sulfatide	Galactosylceramide	white
+arylsulfatase A	3.1.6.8	Sulfatide	Sulfate	white
+beta-1,4-galactosyltransferase 5	2.4.1.274	Glucosylceramide	Lactosylceramide	white
+beta-1,4-galactosyltransferase 5	2.4.1.274	Glucosylceramide	UDP	white
+beta-1,4-galactosyltransferase 5	2.4.1.274	Lactosylceramide	Glucosylceramide	white
+beta-1,4-galactosyltransferase 5	2.4.1.274	Lactosylceramide	UDP-alpha-D-galactose	white
+beta-1,4-galactosyltransferase 5	2.4.1.274	UDP	Glucosylceramide	white
+beta-1,4-galactosyltransferase 5	2.4.1.274	UDP	UDP-alpha-D-galactose	white
+beta-1,4-galactosyltransferase 5	2.4.1.274	UDP-alpha-D-galactose	Lactosylceramide	white
+beta-1,4-galactosyltransferase 5	2.4.1.274	UDP-alpha-D-galactose	UDP	white
+beta-1,4-galactosyltransferase 6	2.4.1.274	Glucosylceramide	Lactosylceramide	white
+beta-1,4-galactosyltransferase 6	2.4.1.274	Glucosylceramide	UDP	white
+beta-1,4-galactosyltransferase 6	2.4.1.274	Lactosylceramide	Glucosylceramide	white
+beta-1,4-galactosyltransferase 6	2.4.1.274	Lactosylceramide	UDP-alpha-D-galactose	white
+beta-1,4-galactosyltransferase 6	2.4.1.274	UDP	Glucosylceramide	white
+beta-1,4-galactosyltransferase 6	2.4.1.274	UDP	UDP-alpha-D-galactose	white
+beta-1,4-galactosyltransferase 6	2.4.1.274	UDP-alpha-D-galactose	Lactosylceramide	white
+beta-1,4-galactosyltransferase 6	2.4.1.274	UDP-alpha-D-galactose	UDP	white
+beta-galactosidase	3.2.1.23	D-Galactose	Galactan	white
+beta-galactosidase	3.2.1.23	D-Galactose	H2O	white
+beta-galactosidase	3.2.1.23	Galactan	D-Galactose	white
+beta-galactosidase	3.2.1.23	Galactan	Galactan	white
+beta-galactosidase	3.2.1.23	Galactan	H2O	white
+beta-galactosidase	3.2.1.23	H2O	D-Galactose	white
+beta-galactosidase	3.2.1.23	H2O	Galactan	white
+ceramide galactosyltransferase	2.4.1.47	Galactosylceramide	N-Acylsphingosine	white
+ceramide galactosyltransferase	2.4.1.47	Galactosylceramide	UDP-alpha-D-galactose	white
+ceramide galactosyltransferase	2.4.1.47	N-Acylsphingosine	Galactosylceramide	white
+ceramide galactosyltransferase	2.4.1.47	N-Acylsphingosine	UDP	white
+ceramide galactosyltransferase	2.4.1.47	UDP	N-Acylsphingosine	white
+ceramide galactosyltransferase	2.4.1.47	UDP	UDP-alpha-D-galactose	white
+ceramide galactosyltransferase	2.4.1.47	UDP-alpha-D-galactose	Galactosylceramide	white
+ceramide galactosyltransferase	2.4.1.47	UDP-alpha-D-galactose	UDP	white
+ceramide glucosyltransferase	2.4.1.80	Glucosylceramide	N-Acylsphingosine	white
+ceramide glucosyltransferase	2.4.1.80	Glucosylceramide	UDP-glucose	white
+ceramide glucosyltransferase	2.4.1.80	N-Acylsphingosine	Glucosylceramide	white
+ceramide glucosyltransferase	2.4.1.80	N-Acylsphingosine	UDP	white
+ceramide glucosyltransferase	2.4.1.80	UDP	N-Acylsphingosine	white
+ceramide glucosyltransferase	2.4.1.80	UDP	UDP-glucose	white
+ceramide glucosyltransferase	2.4.1.80	UDP-glucose	Glucosylceramide	white
+ceramide glucosyltransferase	2.4.1.80	UDP-glucose	UDP	white
+ceramide kinase	2.7.1.138	ADP	ATP	white
+ceramide kinase	2.7.1.138	ADP	N-Acylsphingosine	white
+ceramide kinase	2.7.1.138	ATP	ADP	white
+ceramide kinase	2.7.1.138	ATP	Ceramide 1-phosphate	white
+ceramide kinase	2.7.1.138	Ceramide 1-phosphate	ATP	white
+ceramide kinase	2.7.1.138	Ceramide 1-phosphate	N-Acylsphingosine	white
+ceramide kinase	2.7.1.138	N-Acylsphingosine	ADP	white
+ceramide kinase	2.7.1.138	N-Acylsphingosine	Ceramide 1-phosphate	white
+ceramide phosphoethanolamine synthase	2.7.8.48	CDP-ethanolamine	CMP	white
+ceramide phosphoethanolamine synthase	2.7.8.48	CDP-ethanolamine	Ceramide phosphoethanolamine	white
+ceramide phosphoethanolamine synthase	2.7.8.48	CMP	CDP-ethanolamine	white
+ceramide phosphoethanolamine synthase	2.7.8.48	CMP	N-Acylsphingosine	white
+ceramide phosphoethanolamine synthase	2.7.8.48	Ceramide phosphoethanolamine	CDP-ethanolamine	white
+ceramide phosphoethanolamine synthase	2.7.8.48	Ceramide phosphoethanolamine	N-Acylsphingosine	white
+ceramide phosphoethanolamine synthase	2.7.8.48	N-Acylsphingosine	CMP	white
+ceramide phosphoethanolamine synthase	2.7.8.48	N-Acylsphingosine	Ceramide phosphoethanolamine	white
+ceramide phosphoethanolamine synthase / phosphatidylethanolamine phospholipase C	2.7.8.48	1,2-Diacyl-sn-glycerol	H2O	white
+ceramide phosphoethanolamine synthase / phosphatidylethanolamine phospholipase C	2.7.8.48	1,2-Diacyl-sn-glycerol	Phosphatidylethanolamine	white
+ceramide phosphoethanolamine synthase / phosphatidylethanolamine phospholipase C	2.7.8.48	Ethanolamine phosphate	H2O	white
+ceramide phosphoethanolamine synthase / phosphatidylethanolamine phospholipase C	2.7.8.48	Ethanolamine phosphate	Phosphatidylethanolamine	white
+ceramide phosphoethanolamine synthase / phosphatidylethanolamine phospholipase C	2.7.8.48	H2O	1,2-Diacyl-sn-glycerol	white
+ceramide phosphoethanolamine synthase / phosphatidylethanolamine phospholipase C	2.7.8.48	H2O	Ethanolamine phosphate	white
+ceramide phosphoethanolamine synthase / phosphatidylethanolamine phospholipase C	2.7.8.48	Phosphatidylethanolamine	1,2-Diacyl-sn-glycerol	white
+ceramide phosphoethanolamine synthase / phosphatidylethanolamine phospholipase C	2.7.8.48	Phosphatidylethanolamine	Ethanolamine phosphate	white
+ceramide synthase	2.3.1.291	Acyl-CoA	CoA	white
+ceramide synthase	2.3.1.291	Acyl-CoA	N-Acylsphingosine	white
+ceramide synthase	2.3.1.291	CoA	Acyl-CoA	white
+ceramide synthase	2.3.1.291	CoA	Sphingosine	white
+ceramide synthase	2.3.1.291	N-Acylsphingosine	Acyl-CoA	white
+ceramide synthase	2.3.1.291	N-Acylsphingosine	Sphingosine	white
+ceramide synthase	2.3.1.291	Sphingosine	CoA	white
+ceramide synthase	2.3.1.291	Sphingosine	N-Acylsphingosine	white
+dihydroceramidase	3.5.1.-	Dihydroceramide	Fatty acid	white
+dihydroceramidase	3.5.1.-	Dihydroceramide	Sphinganine	white
+dihydroceramidase	3.5.1.-	Fatty acid	Dihydroceramide	white
+dihydroceramidase	3.5.1.-	Fatty acid	H2O	white
+dihydroceramidase	3.5.1.-	H2O	Fatty acid	white
+dihydroceramidase	3.5.1.-	H2O	Sphinganine	white
+dihydroceramidase	3.5.1.-	Sphinganine	Dihydroceramide	white
+dihydroceramidase	3.5.1.-	Sphinganine	H2O	white
+dihydrosphingosine 1-phosphate phosphatase	3.1.3.-	H2O	Orthophosphate	white
+dihydrosphingosine 1-phosphate phosphatase	3.1.3.-	H2O	Sphinganine	white
+dihydrosphingosine 1-phosphate phosphatase	3.1.3.-	Orthophosphate	H2O	white
+dihydrosphingosine 1-phosphate phosphatase	3.1.3.-	Orthophosphate	Sphinganine 1-phosphate	white
+dihydrosphingosine 1-phosphate phosphatase	3.1.3.-	Sphinganine	H2O	white
+dihydrosphingosine 1-phosphate phosphatase	3.1.3.-	Sphinganine	Sphinganine 1-phosphate	white
+dihydrosphingosine 1-phosphate phosphatase	3.1.3.-	Sphinganine 1-phosphate	Orthophosphate	white
+dihydrosphingosine 1-phosphate phosphatase	3.1.3.-	Sphinganine 1-phosphate	Sphinganine	white
+ectonucleotide pyrophosphatase/phosphodiesterase family member 7	3.1.4.12	Choline phosphate	H2O	white
+ectonucleotide pyrophosphatase/phosphodiesterase family member 7	3.1.4.12	Choline phosphate	Sphingomyelin	white
+ectonucleotide pyrophosphatase/phosphodiesterase family member 7	3.1.4.12	H2O	Choline phosphate	white
+ectonucleotide pyrophosphatase/phosphodiesterase family member 7	3.1.4.12	H2O	N-Acylsphingosine	white
+ectonucleotide pyrophosphatase/phosphodiesterase family member 7	3.1.4.12	N-Acylsphingosine	H2O	white
+ectonucleotide pyrophosphatase/phosphodiesterase family member 7	3.1.4.12	N-Acylsphingosine	Sphingomyelin	white
+ectonucleotide pyrophosphatase/phosphodiesterase family member 7	3.1.4.12	Sphingomyelin	Choline phosphate	white
+ectonucleotide pyrophosphatase/phosphodiesterase family member 7	3.1.4.12	Sphingomyelin	N-Acylsphingosine	white
+galactosylceramidase	3.2.1.46	D-Galactose	Galactosylceramide	white
+galactosylceramidase	3.2.1.46	D-Galactose	H2O	white
+galactosylceramidase	3.2.1.46	Galactosylceramide	D-Galactose	white
+galactosylceramidase	3.2.1.46	Galactosylceramide	N-Acylsphingosine	white
+galactosylceramidase	3.2.1.46	H2O	D-Galactose	white
+galactosylceramidase	3.2.1.46	H2O	N-Acylsphingosine	white
+galactosylceramidase	3.2.1.46	N-Acylsphingosine	Galactosylceramide	white
+galactosylceramidase	3.2.1.46	N-Acylsphingosine	H2O	white
+galactosylceramide sulfotransferase	2.8.2.11	3'-Phosphoadenylyl sulfate	Adenosine 3',5'-bisphosphate	white
+galactosylceramide sulfotransferase	2.8.2.11	3'-Phosphoadenylyl sulfate	Sulfatide	white
+galactosylceramide sulfotransferase	2.8.2.11	Adenosine 3',5'-bisphosphate	3'-Phosphoadenylyl sulfate	white
+galactosylceramide sulfotransferase	2.8.2.11	Adenosine 3',5'-bisphosphate	Galactosylceramide	white
+galactosylceramide sulfotransferase	2.8.2.11	Galactosylceramide	Adenosine 3',5'-bisphosphate	white
+galactosylceramide sulfotransferase	2.8.2.11	Galactosylceramide	Sulfatide	white
+galactosylceramide sulfotransferase	2.8.2.11	Sulfatide	3'-Phosphoadenylyl sulfate	white
+galactosylceramide sulfotransferase	2.8.2.11	Sulfatide	Galactosylceramide	white
+ganglioside GM2 activator	3.2.1.52	Chitobiose	N-Acetyl-D-glucosamine	white
+ganglioside GM2 activator	3.2.1.52	H2O	N-Acetyl-D-glucosamine	white
+ganglioside GM2 activator	3.2.1.52	N-Acetyl-D-glucosamine	Chitobiose	white
+ganglioside GM2 activator	3.2.1.52	N-Acetyl-D-glucosamine	H2O	white
+glucosylceramidase	3.2.1.45	D-Glucose	Glucosylceramide	white
+glucosylceramidase	3.2.1.45	D-Glucose	H2O	white
+glucosylceramidase	3.2.1.45	Glucosylceramide	D-Glucose	white
+glucosylceramidase	3.2.1.45	Glucosylceramide	N-Acylsphingosine	white
+glucosylceramidase	3.2.1.45	H2O	D-Glucose	white
+glucosylceramidase	3.2.1.45	H2O	N-Acylsphingosine	white
+glucosylceramidase	3.2.1.45	N-Acylsphingosine	Glucosylceramide	white
+glucosylceramidase	3.2.1.45	N-Acylsphingosine	H2O	white
+hexosaminidase	3.2.1.52	Chitobiose	N-Acetyl-D-glucosamine	white
+hexosaminidase	3.2.1.52	H2O	N-Acetyl-D-glucosamine	white
+hexosaminidase	3.2.1.52	N-Acetyl-D-glucosamine	Chitobiose	white
+hexosaminidase	3.2.1.52	N-Acetyl-D-glucosamine	H2O	white
+neutral ceramidase	3.5.1.23	Dihydroceramide	Fatty acid	green
+neutral ceramidase	3.5.1.23	Dihydroceramide	Sphinganine	green
+neutral ceramidase	3.5.1.23	H2O	Fatty acid	green
+neutral ceramidase	3.5.1.23	H2O	Phytosphingosine	green
+neutral ceramidase	3.5.1.23	H2O	Sphinganine	green
+neutral ceramidase	3.5.1.23	H2O	Sphingosine	green
+neutral ceramidase	3.5.1.23	N-Acylsphingosine	Fatty acid	green
+neutral ceramidase	3.5.1.23	N-Acylsphingosine	Sphingosine	green
+neutral ceramidase	3.5.1.23	Phytoceramide	Fatty acid	green
+neutral ceramidase	3.5.1.23	Phytoceramide	Phytosphingosine	green
+non-lysosomal glucosylceramidase	3.2.1.45	D-Glucose	Glucosylceramide	white
+non-lysosomal glucosylceramidase	3.2.1.45	D-Glucose	H2O	white
+non-lysosomal glucosylceramidase	3.2.1.45	Glucosylceramide	D-Glucose	white
+non-lysosomal glucosylceramidase	3.2.1.45	Glucosylceramide	N-Acylsphingosine	white
+non-lysosomal glucosylceramidase	3.2.1.45	H2O	D-Glucose	white
+non-lysosomal glucosylceramidase	3.2.1.45	H2O	N-Acylsphingosine	white
+non-lysosomal glucosylceramidase	3.2.1.45	N-Acylsphingosine	Glucosylceramide	white
+non-lysosomal glucosylceramidase	3.2.1.45	N-Acylsphingosine	H2O	white
+phosphatidate phosphatase	3.1.3.4	1,2-Diacyl-sn-glycerol	H2O	white
+phosphatidate phosphatase	3.1.3.4	1,2-Diacyl-sn-glycerol	Phosphatidate	white
+phosphatidate phosphatase	3.1.3.4	H2O	1,2-Diacyl-sn-glycerol	white
+phosphatidate phosphatase	3.1.3.4	H2O	Orthophosphate	white
+phosphatidate phosphatase	3.1.3.4	Orthophosphate	H2O	white
+phosphatidate phosphatase	3.1.3.4	Orthophosphate	Phosphatidate	white
+phosphatidate phosphatase	3.1.3.4	Phosphatidate	1,2-Diacyl-sn-glycerol	white
+phosphatidate phosphatase	3.1.3.4	Phosphatidate	Orthophosphate	white
+phytoceramidase	3.5.1.-	Fatty acid	H2O	white
+phytoceramidase	3.5.1.-	Fatty acid	Phytoceramide	white
+phytoceramidase	3.5.1.-	H2O	Fatty acid	white
+phytoceramidase	3.5.1.-	H2O	Phytosphingosine	white
+phytoceramidase	3.5.1.-	Phytoceramide	Fatty acid	white
+phytoceramidase	3.5.1.-	Phytoceramide	Phytosphingosine	white
+phytoceramidase	3.5.1.-	Phytosphingosine	H2O	white
+phytoceramidase	3.5.1.-	Phytosphingosine	Phytoceramide	white
+saposin	3.2.1.52	Chitobiose	N-Acetyl-D-glucosamine	white
+saposin	3.2.1.52	H2O	N-Acetyl-D-glucosamine	white
+saposin	3.2.1.52	N-Acetyl-D-glucosamine	Chitobiose	white
+saposin	3.2.1.52	N-Acetyl-D-glucosamine	H2O	white
+serine palmitoyltransferase	2.3.1.50	3-Dehydrosphinganine	L-Serine	white
+serine palmitoyltransferase	2.3.1.50	3-Dehydrosphinganine	Palmitoyl-CoA	white
+serine palmitoyltransferase	2.3.1.50	CO2	L-Serine	white
+serine palmitoyltransferase	2.3.1.50	CO2	Palmitoyl-CoA	white
+serine palmitoyltransferase	2.3.1.50	CoA	L-Serine	white
+serine palmitoyltransferase	2.3.1.50	CoA	Palmitoyl-CoA	white
+serine palmitoyltransferase	2.3.1.50	L-Serine	3-Dehydrosphinganine	white
+serine palmitoyltransferase	2.3.1.50	L-Serine	CO2	white
+serine palmitoyltransferase	2.3.1.50	L-Serine	CoA	white
+serine palmitoyltransferase	2.3.1.50	Palmitoyl-CoA	3-Dehydrosphinganine	white
+serine palmitoyltransferase	2.3.1.50	Palmitoyl-CoA	CO2	white
+serine palmitoyltransferase	2.3.1.50	Palmitoyl-CoA	CoA	white
+sialidase	3.2.1.18	GM4	Galactosylceramide	white
+sialidase	3.2.1.18	GM4	N-Acetylneuraminate	white
+sialidase	3.2.1.18	Galactosylceramide	GM4	white
+sialidase	3.2.1.18	Galactosylceramide	H2O	white
+sialidase	3.2.1.18	H2O	Galactosylceramide	white
+sialidase	3.2.1.18	H2O	N-Acetylneuraminate	white
+sialidase	3.2.1.18	N-Acetylneuraminate	GM4	white
+sialidase	3.2.1.18	N-Acetylneuraminate	H2O	white
+sialidase-1	3.2.1.18	GM3	Lactosylceramide	white
+sialidase-1	3.2.1.18	GM3	N-Acetylneuraminate	white
+sialidase-1	3.2.1.18	H2O	Lactosylceramide	white
+sialidase-1	3.2.1.18	H2O	N-Acetylneuraminate	white
+sialidase-1	3.2.1.18	Lactosylceramide	GM3	white
+sialidase-1	3.2.1.18	Lactosylceramide	H2O	white
+sialidase-1	3.2.1.18	N-Acetylneuraminate	GM3	white
+sialidase-1	3.2.1.18	N-Acetylneuraminate	H2O	white
+sialidase-2/3/4	3.2.1.18	GM3	Lactosylceramide	white
+sialidase-2/3/4	3.2.1.18	GM3	N-Acetylneuraminate	white
+sialidase-2/3/4	3.2.1.18	H2O	Lactosylceramide	white
+sialidase-2/3/4	3.2.1.18	H2O	N-Acetylneuraminate	white
+sialidase-2/3/4	3.2.1.18	Lactosylceramide	GM3	white
+sialidase-2/3/4	3.2.1.18	Lactosylceramide	H2O	white
+sialidase-2/3/4	3.2.1.18	N-Acetylneuraminate	GM3	white
+sialidase-2/3/4	3.2.1.18	N-Acetylneuraminate	H2O	white
+sphinganine C4-monooxygenase	1.14.18.5	Ferricytochrome b5	Ferrocytochrome b5	white
+sphinganine C4-monooxygenase	1.14.18.5	Ferricytochrome b5	H+	white
+sphinganine C4-monooxygenase	1.14.18.5	Ferricytochrome b5	Oxygen	white
+sphinganine C4-monooxygenase	1.14.18.5	Ferricytochrome b5	Sphinganine	white
+sphinganine C4-monooxygenase	1.14.18.5	Ferrocytochrome b5	Ferricytochrome b5	white
+sphinganine C4-monooxygenase	1.14.18.5	Ferrocytochrome b5	H2O	white
+sphinganine C4-monooxygenase	1.14.18.5	Ferrocytochrome b5	Phytosphingosine	white
+sphinganine C4-monooxygenase	1.14.18.5	H+	Ferricytochrome b5	white
+sphinganine C4-monooxygenase	1.14.18.5	H+	H2O	white
+sphinganine C4-monooxygenase	1.14.18.5	H+	Phytosphingosine	white
+sphinganine C4-monooxygenase	1.14.18.5	H2O	Ferrocytochrome b5	white
+sphinganine C4-monooxygenase	1.14.18.5	H2O	H+	white
+sphinganine C4-monooxygenase	1.14.18.5	H2O	Oxygen	white
+sphinganine C4-monooxygenase	1.14.18.5	H2O	Sphinganine	white
+sphinganine C4-monooxygenase	1.14.18.5	Oxygen	Ferricytochrome b5	white
+sphinganine C4-monooxygenase	1.14.18.5	Oxygen	H2O	white
+sphinganine C4-monooxygenase	1.14.18.5	Oxygen	Phytosphingosine	white
+sphinganine C4-monooxygenase	1.14.18.5	Phytosphingosine	Ferrocytochrome b5	white
+sphinganine C4-monooxygenase	1.14.18.5	Phytosphingosine	H+	white
+sphinganine C4-monooxygenase	1.14.18.5	Phytosphingosine	Oxygen	white
+sphinganine C4-monooxygenase	1.14.18.5	Phytosphingosine	Sphinganine	white
+sphinganine C4-monooxygenase	1.14.18.5	Sphinganine	Ferricytochrome b5	white
+sphinganine C4-monooxygenase	1.14.18.5	Sphinganine	H2O	white
+sphinganine C4-monooxygenase	1.14.18.5	Sphinganine	Phytosphingosine	white
+sphinganine-1-phosphate aldolase	4.1.2.27	Ethanolamine phosphate	Sphinganine 1-phosphate	white
+sphinganine-1-phosphate aldolase	4.1.2.27	Hexadecanal	Sphinganine 1-phosphate	white
+sphinganine-1-phosphate aldolase	4.1.2.27	Sphinganine 1-phosphate	Ethanolamine phosphate	white
+sphinganine-1-phosphate aldolase	4.1.2.27	Sphinganine 1-phosphate	Hexadecanal	white
+sphingoid base N-palmitoyltransferase	2.3.1.291	Acyl-CoA	CoA	white
+sphingoid base N-palmitoyltransferase	2.3.1.291	Acyl-CoA	N-Acylsphingosine	white
+sphingoid base N-palmitoyltransferase	2.3.1.291	CoA	Acyl-CoA	white
+sphingoid base N-palmitoyltransferase	2.3.1.291	CoA	Sphingosine	white
+sphingoid base N-palmitoyltransferase	2.3.1.291	N-Acylsphingosine	Acyl-CoA	white
+sphingoid base N-palmitoyltransferase	2.3.1.291	N-Acylsphingosine	Sphingosine	white
+sphingoid base N-palmitoyltransferase	2.3.1.291	Sphingosine	CoA	white
+sphingoid base N-palmitoyltransferase	2.3.1.291	Sphingosine	N-Acylsphingosine	white
+sphingoid base N-stearoyltransferase	2.3.1.299	Acyl-CoA	CoA	white
+sphingoid base N-stearoyltransferase	2.3.1.299	Acyl-CoA	N-Acylsphingosine	white
+sphingoid base N-stearoyltransferase	2.3.1.299	CoA	Acyl-CoA	white
+sphingoid base N-stearoyltransferase	2.3.1.299	CoA	Sphingosine	white
+sphingoid base N-stearoyltransferase	2.3.1.299	N-Acylsphingosine	Acyl-CoA	white
+sphingoid base N-stearoyltransferase	2.3.1.299	N-Acylsphingosine	Sphingosine	white
+sphingoid base N-stearoyltransferase	2.3.1.299	Sphingosine	CoA	white
+sphingoid base N-stearoyltransferase	2.3.1.299	Sphingosine	N-Acylsphingosine	white
+sphingolipid 4-desaturase/C4-monooxygenase	1.14.19.17	Dihydroceramide	Ferricytochrome b5	white
+sphingolipid 4-desaturase/C4-monooxygenase	1.14.19.17	Dihydroceramide	H2O	white
+sphingolipid 4-desaturase/C4-monooxygenase	1.14.19.17	Dihydroceramide	N-Acylsphingosine	white
+sphingolipid 4-desaturase/C4-monooxygenase	1.14.19.17	Ferricytochrome b5	Dihydroceramide	white
+sphingolipid 4-desaturase/C4-monooxygenase	1.14.19.17	Ferricytochrome b5	Ferrocytochrome b5	white
+sphingolipid 4-desaturase/C4-monooxygenase	1.14.19.17	Ferricytochrome b5	H+	white
+sphingolipid 4-desaturase/C4-monooxygenase	1.14.19.17	Ferricytochrome b5	Oxygen	white
+sphingolipid 4-desaturase/C4-monooxygenase	1.14.19.17	Ferrocytochrome b5	Ferricytochrome b5	white
+sphingolipid 4-desaturase/C4-monooxygenase	1.14.19.17	Ferrocytochrome b5	H2O	white
+sphingolipid 4-desaturase/C4-monooxygenase	1.14.19.17	Ferrocytochrome b5	N-Acylsphingosine	white
+sphingolipid 4-desaturase/C4-monooxygenase	1.14.19.17	H+	Ferricytochrome b5	white
+sphingolipid 4-desaturase/C4-monooxygenase	1.14.19.17	H+	H2O	white
+sphingolipid 4-desaturase/C4-monooxygenase	1.14.19.17	H+	N-Acylsphingosine	white
+sphingolipid 4-desaturase/C4-monooxygenase	1.14.19.17	H2O	Dihydroceramide	white
+sphingolipid 4-desaturase/C4-monooxygenase	1.14.19.17	H2O	Ferrocytochrome b5	white
+sphingolipid 4-desaturase/C4-monooxygenase	1.14.19.17	H2O	H+	white
+sphingolipid 4-desaturase/C4-monooxygenase	1.14.19.17	H2O	Oxygen	white
+sphingolipid 4-desaturase/C4-monooxygenase	1.14.19.17	N-Acylsphingosine	Dihydroceramide	white
+sphingolipid 4-desaturase/C4-monooxygenase	1.14.19.17	N-Acylsphingosine	Ferrocytochrome b5	white
+sphingolipid 4-desaturase/C4-monooxygenase	1.14.19.17	N-Acylsphingosine	H+	white
+sphingolipid 4-desaturase/C4-monooxygenase	1.14.19.17	N-Acylsphingosine	Oxygen	white
+sphingolipid 4-desaturase/C4-monooxygenase	1.14.19.17	Oxygen	Ferricytochrome b5	white
+sphingolipid 4-desaturase/C4-monooxygenase	1.14.19.17	Oxygen	H2O	white
+sphingolipid 4-desaturase/C4-monooxygenase	1.14.19.17	Oxygen	N-Acylsphingosine	white
+sphingomyelin phosphodiesterase	3.1.4.12	Choline phosphate	H2O	white
+sphingomyelin phosphodiesterase	3.1.4.12	Choline phosphate	Sphingomyelin	white
+sphingomyelin phosphodiesterase	3.1.4.12	H2O	Choline phosphate	white
+sphingomyelin phosphodiesterase	3.1.4.12	H2O	N-Acylsphingosine	white
+sphingomyelin phosphodiesterase	3.1.4.12	N-Acylsphingosine	H2O	white
+sphingomyelin phosphodiesterase	3.1.4.12	N-Acylsphingosine	Sphingomyelin	white
+sphingomyelin phosphodiesterase	3.1.4.12	Sphingomyelin	Choline phosphate	white
+sphingomyelin phosphodiesterase	3.1.4.12	Sphingomyelin	N-Acylsphingosine	white
+sphingomyelin phosphodiesterase 2	3.1.4.12	Choline phosphate	H2O	white
+sphingomyelin phosphodiesterase 2	3.1.4.12	Choline phosphate	Sphingomyelin	white
+sphingomyelin phosphodiesterase 2	3.1.4.12	H2O	Choline phosphate	white
+sphingomyelin phosphodiesterase 2	3.1.4.12	H2O	N-Acylsphingosine	white
+sphingomyelin phosphodiesterase 2	3.1.4.12	N-Acylsphingosine	H2O	white
+sphingomyelin phosphodiesterase 2	3.1.4.12	N-Acylsphingosine	Sphingomyelin	white
+sphingomyelin phosphodiesterase 2	3.1.4.12	Sphingomyelin	Choline phosphate	white
+sphingomyelin phosphodiesterase 2	3.1.4.12	Sphingomyelin	N-Acylsphingosine	white
+sphingomyelin phosphodiesterase 3	3.1.4.12	Choline phosphate	H2O	white
+sphingomyelin phosphodiesterase 3	3.1.4.12	Choline phosphate	Sphingomyelin	white
+sphingomyelin phosphodiesterase 3	3.1.4.12	H2O	Choline phosphate	white
+sphingomyelin phosphodiesterase 3	3.1.4.12	H2O	N-Acylsphingosine	white
+sphingomyelin phosphodiesterase 3	3.1.4.12	N-Acylsphingosine	H2O	white
+sphingomyelin phosphodiesterase 3	3.1.4.12	N-Acylsphingosine	Sphingomyelin	white
+sphingomyelin phosphodiesterase 3	3.1.4.12	Sphingomyelin	Choline phosphate	white
+sphingomyelin phosphodiesterase 3	3.1.4.12	Sphingomyelin	N-Acylsphingosine	white
+sphingomyelin phosphodiesterase 4	3.1.4.12	Choline phosphate	H2O	white
+sphingomyelin phosphodiesterase 4	3.1.4.12	Choline phosphate	Sphingomyelin	white
+sphingomyelin phosphodiesterase 4	3.1.4.12	H2O	Choline phosphate	white
+sphingomyelin phosphodiesterase 4	3.1.4.12	H2O	N-Acylsphingosine	white
+sphingomyelin phosphodiesterase 4	3.1.4.12	N-Acylsphingosine	H2O	white
+sphingomyelin phosphodiesterase 4	3.1.4.12	N-Acylsphingosine	Sphingomyelin	white
+sphingomyelin phosphodiesterase 4	3.1.4.12	Sphingomyelin	Choline phosphate	white
+sphingomyelin phosphodiesterase 4	3.1.4.12	Sphingomyelin	N-Acylsphingosine	white
+sphingomyelin phosphodiesterase D	3.1.4.41	Ceramide 1-phosphate	H2O	white
+sphingomyelin phosphodiesterase D	3.1.4.41	Ceramide 1-phosphate	Sphingomyelin	white
+sphingomyelin phosphodiesterase D	3.1.4.41	Choline	H2O	white
+sphingomyelin phosphodiesterase D	3.1.4.41	Choline	Sphingomyelin	white
+sphingomyelin phosphodiesterase D	3.1.4.41	H2O	Ceramide 1-phosphate	white
+sphingomyelin phosphodiesterase D	3.1.4.41	H2O	Choline	white
+sphingomyelin phosphodiesterase D	3.1.4.41	Sphingomyelin	Ceramide 1-phosphate	white
+sphingomyelin phosphodiesterase D	3.1.4.41	Sphingomyelin	Choline	white
+sphingomyelin synthase / ceramide phosphoethanolamine synthase / phosphatidylethanolamine phospholipase C	2.7.8.27	1,2-Diacyl-sn-glycerol	H2O	white
+sphingomyelin synthase / ceramide phosphoethanolamine synthase / phosphatidylethanolamine phospholipase C	2.7.8.27	1,2-Diacyl-sn-glycerol	Phosphatidylethanolamine	white
+sphingomyelin synthase / ceramide phosphoethanolamine synthase / phosphatidylethanolamine phospholipase C	2.7.8.27	Ethanolamine phosphate	H2O	white
+sphingomyelin synthase / ceramide phosphoethanolamine synthase / phosphatidylethanolamine phospholipase C	2.7.8.27	Ethanolamine phosphate	Phosphatidylethanolamine	white
+sphingomyelin synthase / ceramide phosphoethanolamine synthase / phosphatidylethanolamine phospholipase C	2.7.8.27	H2O	1,2-Diacyl-sn-glycerol	white
+sphingomyelin synthase / ceramide phosphoethanolamine synthase / phosphatidylethanolamine phospholipase C	2.7.8.27	H2O	Ethanolamine phosphate	white
+sphingomyelin synthase / ceramide phosphoethanolamine synthase / phosphatidylethanolamine phospholipase C	2.7.8.27	Phosphatidylethanolamine	1,2-Diacyl-sn-glycerol	white
+sphingomyelin synthase / ceramide phosphoethanolamine synthase / phosphatidylethanolamine phospholipase C	2.7.8.27	Phosphatidylethanolamine	Ethanolamine phosphate	white
+sphingosine kinase	2.7.1.91	ADP	ATP	white
+sphingosine kinase	2.7.1.91	ADP	Sphingosine	white
+sphingosine kinase	2.7.1.91	ATP	ADP	white
+sphingosine kinase	2.7.1.91	ATP	Sphingosine 1-phosphate	white
+sphingosine kinase	2.7.1.91	Sphingosine	ADP	white
+sphingosine kinase	2.7.1.91	Sphingosine	Sphingosine 1-phosphate	white
+sphingosine kinase	2.7.1.91	Sphingosine 1-phosphate	ATP	white
+sphingosine kinase	2.7.1.91	Sphingosine 1-phosphate	Sphingosine	white
+sphingosine-1-phosphate phosphatase 1	3.1.3.-	H2O	Orthophosphate	white
+sphingosine-1-phosphate phosphatase 1	3.1.3.-	H2O	Sphinganine	white
+sphingosine-1-phosphate phosphatase 1	3.1.3.-	Orthophosphate	H2O	white
+sphingosine-1-phosphate phosphatase 1	3.1.3.-	Orthophosphate	Sphinganine 1-phosphate	white
+sphingosine-1-phosphate phosphatase 1	3.1.3.-	Sphinganine	H2O	white
+sphingosine-1-phosphate phosphatase 1	3.1.3.-	Sphinganine	Sphinganine 1-phosphate	white
+sphingosine-1-phosphate phosphatase 1	3.1.3.-	Sphinganine 1-phosphate	Orthophosphate	white
+sphingosine-1-phosphate phosphatase 1	3.1.3.-	Sphinganine 1-phosphate	Sphinganine	white
+sphingosine-1-phosphate phosphotase 2	3.1.3.-	H2O	Orthophosphate	white
+sphingosine-1-phosphate phosphotase 2	3.1.3.-	H2O	Sphinganine	white
+sphingosine-1-phosphate phosphotase 2	3.1.3.-	Orthophosphate	H2O	white
+sphingosine-1-phosphate phosphotase 2	3.1.3.-	Orthophosphate	Sphinganine 1-phosphate	white
+sphingosine-1-phosphate phosphotase 2	3.1.3.-	Sphinganine	H2O	white
+sphingosine-1-phosphate phosphotase 2	3.1.3.-	Sphinganine	Sphinganine 1-phosphate	white
+sphingosine-1-phosphate phosphotase 2	3.1.3.-	Sphinganine 1-phosphate	Orthophosphate	white
+sphingosine-1-phosphate phosphotase 2	3.1.3.-	Sphinganine 1-phosphate	Sphinganine	white
+very-long-chain ceramide synthase	2.3.1.297	Acyl-CoA	CoA	white
+very-long-chain ceramide synthase	2.3.1.297	Acyl-CoA	N-Acylsphingosine	white
+very-long-chain ceramide synthase	2.3.1.297	CoA	Acyl-CoA	white
+very-long-chain ceramide synthase	2.3.1.297	CoA	Sphingosine	white
+very-long-chain ceramide synthase	2.3.1.297	N-Acylsphingosine	Acyl-CoA	white
+very-long-chain ceramide synthase	2.3.1.297	N-Acylsphingosine	Sphingosine	white
+very-long-chain ceramide synthase	2.3.1.297	Sphingosine	CoA	white
+very-long-chain ceramide synthase	2.3.1.297	Sphingosine	N-Acylsphingosine	white
+very-long-chain ceramide synthase / ultra-long-chain ceramide synthase	2.3.1.297	Acyl-CoA	CoA	white
+very-long-chain ceramide synthase / ultra-long-chain ceramide synthase	2.3.1.297	Acyl-CoA	N-Acylsphingosine	white
+very-long-chain ceramide synthase / ultra-long-chain ceramide synthase	2.3.1.297	CoA	Acyl-CoA	white
+very-long-chain ceramide synthase / ultra-long-chain ceramide synthase	2.3.1.297	CoA	Sphingosine	white
+very-long-chain ceramide synthase / ultra-long-chain ceramide synthase	2.3.1.297	N-Acylsphingosine	Acyl-CoA	white
+very-long-chain ceramide synthase / ultra-long-chain ceramide synthase	2.3.1.297	N-Acylsphingosine	Sphingosine	white
+very-long-chain ceramide synthase / ultra-long-chain ceramide synthase	2.3.1.297	Sphingosine	CoA	white
+very-long-chain ceramide synthase / ultra-long-chain ceramide synthase	2.3.1.297	Sphingosine	N-Acylsphingosine	white

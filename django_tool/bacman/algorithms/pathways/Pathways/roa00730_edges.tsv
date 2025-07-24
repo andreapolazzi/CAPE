@@ -1,0 +1,293 @@
+enzyme_name	EC	source	target	color
+1-deoxy-D-xylulose-5-phosphate synthase	2.2.1.7	D-Glyceraldehyde 3-phosphate	1-Deoxy-D-xylulose 5-phosphate	green
+1-deoxy-D-xylulose-5-phosphate synthase	2.2.1.7	D-Glyceraldehyde 3-phosphate	CO2	green
+1-deoxy-D-xylulose-5-phosphate synthase	2.2.1.7	Pyruvate	1-Deoxy-D-xylulose 5-phosphate	green
+1-deoxy-D-xylulose-5-phosphate synthase	2.2.1.7	Pyruvate	CO2	green
+2-iminoacetate synthase	4.1.99.19	4-Cresol	L-Tyrosine	white
+2-iminoacetate synthase	4.1.99.19	4-Cresol	Reduced acceptor	white
+2-iminoacetate synthase	4.1.99.19	4-Cresol	S-Adenosyl-L-methionine	white
+2-iminoacetate synthase	4.1.99.19	5'-Deoxyadenosine	L-Tyrosine	white
+2-iminoacetate synthase	4.1.99.19	5'-Deoxyadenosine	Reduced acceptor	white
+2-iminoacetate synthase	4.1.99.19	5'-Deoxyadenosine	S-Adenosyl-L-methionine	white
+2-iminoacetate synthase	4.1.99.19	Acceptor	L-Tyrosine	white
+2-iminoacetate synthase	4.1.99.19	Acceptor	Reduced acceptor	white
+2-iminoacetate synthase	4.1.99.19	Acceptor	S-Adenosyl-L-methionine	white
+2-iminoacetate synthase	4.1.99.19	Iminoglycine	L-Tyrosine	white
+2-iminoacetate synthase	4.1.99.19	Iminoglycine	Reduced acceptor	white
+2-iminoacetate synthase	4.1.99.19	Iminoglycine	S-Adenosyl-L-methionine	white
+2-iminoacetate synthase	4.1.99.19	L-Methionine	L-Tyrosine	white
+2-iminoacetate synthase	4.1.99.19	L-Methionine	Reduced acceptor	white
+2-iminoacetate synthase	4.1.99.19	L-Methionine	S-Adenosyl-L-methionine	white
+2-iminoacetate synthase	4.1.99.19	L-Tyrosine	4-Cresol	white
+2-iminoacetate synthase	4.1.99.19	L-Tyrosine	5'-Deoxyadenosine	white
+2-iminoacetate synthase	4.1.99.19	L-Tyrosine	Acceptor	white
+2-iminoacetate synthase	4.1.99.19	L-Tyrosine	Iminoglycine	white
+2-iminoacetate synthase	4.1.99.19	L-Tyrosine	L-Methionine	white
+2-iminoacetate synthase	4.1.99.19	Reduced acceptor	4-Cresol	white
+2-iminoacetate synthase	4.1.99.19	Reduced acceptor	5'-Deoxyadenosine	white
+2-iminoacetate synthase	4.1.99.19	Reduced acceptor	Acceptor	white
+2-iminoacetate synthase	4.1.99.19	Reduced acceptor	Iminoglycine	white
+2-iminoacetate synthase	4.1.99.19	Reduced acceptor	L-Methionine	white
+2-iminoacetate synthase	4.1.99.19	S-Adenosyl-L-methionine	4-Cresol	white
+2-iminoacetate synthase	4.1.99.19	S-Adenosyl-L-methionine	5'-Deoxyadenosine	white
+2-iminoacetate synthase	4.1.99.19	S-Adenosyl-L-methionine	Acceptor	white
+2-iminoacetate synthase	4.1.99.19	S-Adenosyl-L-methionine	Iminoglycine	white
+2-iminoacetate synthase	4.1.99.19	S-Adenosyl-L-methionine	L-Methionine	white
+acid phosphatase	3.1.3.2	FMN	Orthophosphate	white
+acid phosphatase	3.1.3.2	FMN	Riboflavin	white
+acid phosphatase	3.1.3.2	H2O	Orthophosphate	white
+acid phosphatase	3.1.3.2	H2O	Riboflavin	white
+acid phosphatase	3.1.3.2	Orthophosphate	FMN	white
+acid phosphatase	3.1.3.2	Orthophosphate	H2O	white
+acid phosphatase	3.1.3.2	Riboflavin	FMN	white
+acid phosphatase	3.1.3.2	Riboflavin	H2O	white
+adenylate kinase	2.7.4.3	ADP	AMP	green
+adenylate kinase	2.7.4.3	ADP	Thiamin triphosphate	green
+adenylate kinase	2.7.4.3	Thiamin diphosphate	AMP	green
+adenylate kinase	2.7.4.3	Thiamin diphosphate	Thiamin triphosphate	green
+alkaline phosphatase	3.1.3.1	H2O	Orthophosphate	white
+alkaline phosphatase	3.1.3.1	H2O	Thiamine	white
+alkaline phosphatase	3.1.3.1	Orthophosphate	H2O	white
+alkaline phosphatase	3.1.3.1	Orthophosphate	Thiamin monophosphate	white
+alkaline phosphatase	3.1.3.1	Thiamin monophosphate	Orthophosphate	white
+alkaline phosphatase	3.1.3.1	Thiamin monophosphate	Thiamine	white
+alkaline phosphatase	3.1.3.1	Thiamine	H2O	white
+alkaline phosphatase	3.1.3.1	Thiamine	Thiamin monophosphate	white
+cysteine desulfurase	2.8.1.7	L-Cysteine	L-Alanine	green
+cysteine desulfurase	2.8.1.7	L-Cysteine	[Enzyme]-S-sulfanylcysteine	green
+cysteine desulfurase	2.8.1.7	[Enzyme]-cysteine	L-Alanine	green
+cysteine desulfurase	2.8.1.7	[Enzyme]-cysteine	[Enzyme]-S-sulfanylcysteine	green
+cysteine-dependent adenosine diphosphate thiazole synthase	2.4.2.60	ADP-5-ethyl-4-methylthiazole-2-carboxylate	Glycine	white
+cysteine-dependent adenosine diphosphate thiazole synthase	2.4.2.60	ADP-5-ethyl-4-methylthiazole-2-carboxylate	NAD+	white
+cysteine-dependent adenosine diphosphate thiazole synthase	2.4.2.60	ADP-5-ethyl-4-methylthiazole-2-carboxylate	[Protein]-L-cysteine	white
+cysteine-dependent adenosine diphosphate thiazole synthase	2.4.2.60	Glycine	ADP-5-ethyl-4-methylthiazole-2-carboxylate	white
+cysteine-dependent adenosine diphosphate thiazole synthase	2.4.2.60	Glycine	H2O	white
+cysteine-dependent adenosine diphosphate thiazole synthase	2.4.2.60	Glycine	Nicotinamide	white
+cysteine-dependent adenosine diphosphate thiazole synthase	2.4.2.60	Glycine	[Protein]-dehydroalanine	white
+cysteine-dependent adenosine diphosphate thiazole synthase	2.4.2.60	H2O	Glycine	white
+cysteine-dependent adenosine diphosphate thiazole synthase	2.4.2.60	H2O	NAD+	white
+cysteine-dependent adenosine diphosphate thiazole synthase	2.4.2.60	H2O	[Protein]-L-cysteine	white
+cysteine-dependent adenosine diphosphate thiazole synthase	2.4.2.60	NAD+	ADP-5-ethyl-4-methylthiazole-2-carboxylate	white
+cysteine-dependent adenosine diphosphate thiazole synthase	2.4.2.60	NAD+	H2O	white
+cysteine-dependent adenosine diphosphate thiazole synthase	2.4.2.60	NAD+	Nicotinamide	white
+cysteine-dependent adenosine diphosphate thiazole synthase	2.4.2.60	NAD+	[Protein]-dehydroalanine	white
+cysteine-dependent adenosine diphosphate thiazole synthase	2.4.2.60	Nicotinamide	Glycine	white
+cysteine-dependent adenosine diphosphate thiazole synthase	2.4.2.60	Nicotinamide	NAD+	white
+cysteine-dependent adenosine diphosphate thiazole synthase	2.4.2.60	Nicotinamide	[Protein]-L-cysteine	white
+cysteine-dependent adenosine diphosphate thiazole synthase	2.4.2.60	[Protein]-L-cysteine	ADP-5-ethyl-4-methylthiazole-2-carboxylate	white
+cysteine-dependent adenosine diphosphate thiazole synthase	2.4.2.60	[Protein]-L-cysteine	H2O	white
+cysteine-dependent adenosine diphosphate thiazole synthase	2.4.2.60	[Protein]-L-cysteine	Nicotinamide	white
+cysteine-dependent adenosine diphosphate thiazole synthase	2.4.2.60	[Protein]-L-cysteine	[Protein]-dehydroalanine	white
+cysteine-dependent adenosine diphosphate thiazole synthase	2.4.2.60	[Protein]-dehydroalanine	Glycine	white
+cysteine-dependent adenosine diphosphate thiazole synthase	2.4.2.60	[Protein]-dehydroalanine	NAD+	white
+cysteine-dependent adenosine diphosphate thiazole synthase	2.4.2.60	[Protein]-dehydroalanine	[Protein]-L-cysteine	white
+formylaminopyrimidine deformylase	3.5.1.-	4-Amino-5-aminomethyl-2-methylpyrimidine	H2O	white
+formylaminopyrimidine deformylase	3.5.1.-	4-Amino-5-aminomethyl-2-methylpyrimidine	N-Formyl-4-amino-5-aminomethyl-2-methylpyrimidine	white
+formylaminopyrimidine deformylase	3.5.1.-	Formate	H2O	white
+formylaminopyrimidine deformylase	3.5.1.-	Formate	N-Formyl-4-amino-5-aminomethyl-2-methylpyrimidine	white
+formylaminopyrimidine deformylase	3.5.1.-	H2O	4-Amino-5-aminomethyl-2-methylpyrimidine	white
+formylaminopyrimidine deformylase	3.5.1.-	H2O	Formate	white
+formylaminopyrimidine deformylase	3.5.1.-	N-Formyl-4-amino-5-aminomethyl-2-methylpyrimidine	4-Amino-5-aminomethyl-2-methylpyrimidine	white
+formylaminopyrimidine deformylase	3.5.1.-	N-Formyl-4-amino-5-aminomethyl-2-methylpyrimidine	Formate	white
+formylaminopyrimidine deformylase / aminopyrimidine aminohydrolase	3.5.1.-	4-Amino-5-aminomethyl-2-methylpyrimidine	4-Amino-5-hydroxymethyl-2-methylpyrimidine	white
+formylaminopyrimidine deformylase / aminopyrimidine aminohydrolase	3.5.1.-	4-Amino-5-aminomethyl-2-methylpyrimidine	Ammonia	white
+formylaminopyrimidine deformylase / aminopyrimidine aminohydrolase	3.5.1.-	4-Amino-5-hydroxymethyl-2-methylpyrimidine	4-Amino-5-aminomethyl-2-methylpyrimidine	white
+formylaminopyrimidine deformylase / aminopyrimidine aminohydrolase	3.5.1.-	4-Amino-5-hydroxymethyl-2-methylpyrimidine	H2O	white
+formylaminopyrimidine deformylase / aminopyrimidine aminohydrolase	3.5.1.-	Ammonia	4-Amino-5-aminomethyl-2-methylpyrimidine	white
+formylaminopyrimidine deformylase / aminopyrimidine aminohydrolase	3.5.1.-	Ammonia	H2O	white
+formylaminopyrimidine deformylase / aminopyrimidine aminohydrolase	3.5.1.-	H2O	4-Amino-5-hydroxymethyl-2-methylpyrimidine	white
+formylaminopyrimidine deformylase / aminopyrimidine aminohydrolase	3.5.1.-	H2O	Ammonia	white
+glycine oxidase	1.4.3.19	Glycine	Hydrogen peroxide	green
+glycine oxidase	1.4.3.19	Glycine	Iminoglycine	green
+glycine oxidase	1.4.3.19	Oxygen	Hydrogen peroxide	green
+glycine oxidase	1.4.3.19	Oxygen	Iminoglycine	green
+hydroxyethylthiazole kinase	2.7.1.50	4-Methyl-5-(2-phosphooxyethyl)thiazole	5-(2-Hydroxyethyl)-4-methylthiazole	white
+hydroxyethylthiazole kinase	2.7.1.50	4-Methyl-5-(2-phosphooxyethyl)thiazole	ATP	white
+hydroxyethylthiazole kinase	2.7.1.50	5-(2-Hydroxyethyl)-4-methylthiazole	4-Methyl-5-(2-phosphooxyethyl)thiazole	white
+hydroxyethylthiazole kinase	2.7.1.50	5-(2-Hydroxyethyl)-4-methylthiazole	ADP	white
+hydroxyethylthiazole kinase	2.7.1.50	ADP	5-(2-Hydroxyethyl)-4-methylthiazole	white
+hydroxyethylthiazole kinase	2.7.1.50	ADP	ATP	white
+hydroxyethylthiazole kinase	2.7.1.50	ATP	4-Methyl-5-(2-phosphooxyethyl)thiazole	white
+hydroxyethylthiazole kinase	2.7.1.50	ATP	ADP	white
+hydroxymethylpyrimidine/phosphomethylpyrimidine kinase	2.7.1.49	4-Amino-2-methyl-5-(phosphooxymethyl)pyrimidine	4-Amino-5-hydroxymethyl-2-methylpyrimidine diphosphate	green
+hydroxymethylpyrimidine/phosphomethylpyrimidine kinase	2.7.1.49	4-Amino-2-methyl-5-(phosphooxymethyl)pyrimidine	ADP	green
+hydroxymethylpyrimidine/phosphomethylpyrimidine kinase	2.7.1.49	4-Amino-5-hydroxymethyl-2-methylpyrimidine	4-Amino-2-methyl-5-(phosphooxymethyl)pyrimidine	green
+hydroxymethylpyrimidine/phosphomethylpyrimidine kinase	2.7.1.49	4-Amino-5-hydroxymethyl-2-methylpyrimidine	ADP	green
+hydroxymethylpyrimidine/phosphomethylpyrimidine kinase	2.7.1.49	ATP	4-Amino-2-methyl-5-(phosphooxymethyl)pyrimidine	green
+hydroxymethylpyrimidine/phosphomethylpyrimidine kinase	2.7.1.49	ATP	4-Amino-5-hydroxymethyl-2-methylpyrimidine diphosphate	green
+hydroxymethylpyrimidine/phosphomethylpyrimidine kinase	2.7.1.49	ATP	ADP	green
+low molecular weight phosphotyrosine protein phosphatase	3.1.3.2	FMN	Orthophosphate	white
+low molecular weight phosphotyrosine protein phosphatase	3.1.3.2	FMN	Riboflavin	white
+low molecular weight phosphotyrosine protein phosphatase	3.1.3.2	H2O	Orthophosphate	white
+low molecular weight phosphotyrosine protein phosphatase	3.1.3.2	H2O	Riboflavin	white
+low molecular weight phosphotyrosine protein phosphatase	3.1.3.2	Orthophosphate	FMN	white
+low molecular weight phosphotyrosine protein phosphatase	3.1.3.2	Orthophosphate	H2O	white
+low molecular weight phosphotyrosine protein phosphatase	3.1.3.2	Riboflavin	FMN	white
+low molecular weight phosphotyrosine protein phosphatase	3.1.3.2	Riboflavin	H2O	white
+nucleoside-triphosphatase	3.6.1.15	ADP	ATP	white
+nucleoside-triphosphatase	3.6.1.15	ADP	H2O	white
+nucleoside-triphosphatase	3.6.1.15	ATP	ADP	white
+nucleoside-triphosphatase	3.6.1.15	ATP	Orthophosphate	white
+nucleoside-triphosphatase	3.6.1.15	H2O	ADP	white
+nucleoside-triphosphatase	3.6.1.15	H2O	Orthophosphate	white
+nucleoside-triphosphatase	3.6.1.15	Orthophosphate	ATP	white
+nucleoside-triphosphatase	3.6.1.15	Orthophosphate	H2O	white
+phosphomethylpyrimidine synthase	4.1.99.17	Aminoimidazole ribotide	4-Amino-2-methyl-5-(phosphooxymethyl)pyrimidine	green
+phosphomethylpyrimidine synthase	4.1.99.17	Aminoimidazole ribotide	5'-Deoxyadenosine	green
+phosphomethylpyrimidine synthase	4.1.99.17	Aminoimidazole ribotide	CO	green
+phosphomethylpyrimidine synthase	4.1.99.17	Aminoimidazole ribotide	Formate	green
+phosphomethylpyrimidine synthase	4.1.99.17	Aminoimidazole ribotide	L-Methionine	green
+phosphomethylpyrimidine synthase	4.1.99.17	S-Adenosyl-L-methionine	4-Amino-2-methyl-5-(phosphooxymethyl)pyrimidine	green
+phosphomethylpyrimidine synthase	4.1.99.17	S-Adenosyl-L-methionine	5'-Deoxyadenosine	green
+phosphomethylpyrimidine synthase	4.1.99.17	S-Adenosyl-L-methionine	CO	green
+phosphomethylpyrimidine synthase	4.1.99.17	S-Adenosyl-L-methionine	Formate	green
+phosphomethylpyrimidine synthase	4.1.99.17	S-Adenosyl-L-methionine	L-Methionine	green
+pyrimidine precursor biosynthesis enzyme	2.4.2.60	4-Amino-2-methyl-5-(phosphooxymethyl)pyrimidine	L-Histidine	white
+pyrimidine precursor biosynthesis enzyme	2.4.2.60	4-Amino-2-methyl-5-(phosphooxymethyl)pyrimidine	Pyridoxal phosphate	white
+pyrimidine precursor biosynthesis enzyme	2.4.2.60	L-Histidine	4-Amino-2-methyl-5-(phosphooxymethyl)pyrimidine	white
+pyrimidine precursor biosynthesis enzyme	2.4.2.60	Pyridoxal phosphate	4-Amino-2-methyl-5-(phosphooxymethyl)pyrimidine	white
+repressible acid phosphatase	3.1.3.2	FMN	Orthophosphate	white
+repressible acid phosphatase	3.1.3.2	FMN	Riboflavin	white
+repressible acid phosphatase	3.1.3.2	H2O	Orthophosphate	white
+repressible acid phosphatase	3.1.3.2	H2O	Riboflavin	white
+repressible acid phosphatase	3.1.3.2	Orthophosphate	FMN	white
+repressible acid phosphatase	3.1.3.2	Orthophosphate	H2O	white
+repressible acid phosphatase	3.1.3.2	Riboflavin	FMN	white
+repressible acid phosphatase	3.1.3.2	Riboflavin	H2O	white
+ribosome biogenesis GTPase / thiamine phosphate phosphatase	3.6.1.-	H2O	Orthophosphate	green
+ribosome biogenesis GTPase / thiamine phosphate phosphatase	3.6.1.-	H2O	Thiamin monophosphate	green
+ribosome biogenesis GTPase / thiamine phosphate phosphatase	3.6.1.-	H2O	Thiamine	green
+ribosome biogenesis GTPase / thiamine phosphate phosphatase	3.6.1.-	Thiamin diphosphate	Orthophosphate	green
+ribosome biogenesis GTPase / thiamine phosphate phosphatase	3.6.1.-	Thiamin diphosphate	Thiamin monophosphate	green
+ribosome biogenesis GTPase / thiamine phosphate phosphatase	3.6.1.-	Thiamin monophosphate	Orthophosphate	green
+ribosome biogenesis GTPase / thiamine phosphate phosphatase	3.6.1.-	Thiamin monophosphate	Thiamine	green
+sulfide-dependent adenosine diphosphate thiazole synthase	2.4.2.59	ADP-5-ethyl-4-methylthiazole-2-carboxylate	Glycine	white
+sulfide-dependent adenosine diphosphate thiazole synthase	2.4.2.59	ADP-5-ethyl-4-methylthiazole-2-carboxylate	Hydrogen sulfide	white
+sulfide-dependent adenosine diphosphate thiazole synthase	2.4.2.59	ADP-5-ethyl-4-methylthiazole-2-carboxylate	NAD+	white
+sulfide-dependent adenosine diphosphate thiazole synthase	2.4.2.59	Glycine	ADP-5-ethyl-4-methylthiazole-2-carboxylate	white
+sulfide-dependent adenosine diphosphate thiazole synthase	2.4.2.59	Glycine	H2O	white
+sulfide-dependent adenosine diphosphate thiazole synthase	2.4.2.59	Glycine	Nicotinamide	white
+sulfide-dependent adenosine diphosphate thiazole synthase	2.4.2.59	H2O	Glycine	white
+sulfide-dependent adenosine diphosphate thiazole synthase	2.4.2.59	H2O	Hydrogen sulfide	white
+sulfide-dependent adenosine diphosphate thiazole synthase	2.4.2.59	H2O	NAD+	white
+sulfide-dependent adenosine diphosphate thiazole synthase	2.4.2.59	Hydrogen sulfide	ADP-5-ethyl-4-methylthiazole-2-carboxylate	white
+sulfide-dependent adenosine diphosphate thiazole synthase	2.4.2.59	Hydrogen sulfide	H2O	white
+sulfide-dependent adenosine diphosphate thiazole synthase	2.4.2.59	Hydrogen sulfide	Nicotinamide	white
+sulfide-dependent adenosine diphosphate thiazole synthase	2.4.2.59	NAD+	ADP-5-ethyl-4-methylthiazole-2-carboxylate	white
+sulfide-dependent adenosine diphosphate thiazole synthase	2.4.2.59	NAD+	H2O	white
+sulfide-dependent adenosine diphosphate thiazole synthase	2.4.2.59	NAD+	Nicotinamide	white
+sulfide-dependent adenosine diphosphate thiazole synthase	2.4.2.59	Nicotinamide	Glycine	white
+sulfide-dependent adenosine diphosphate thiazole synthase	2.4.2.59	Nicotinamide	Hydrogen sulfide	white
+sulfide-dependent adenosine diphosphate thiazole synthase	2.4.2.59	Nicotinamide	NAD+	white
+sulfur carrier protein ThiS adenylyltransferase	2.7.7.73	ATP	Adenylyl-[sulfur-carrier protein]	white
+sulfur carrier protein ThiS adenylyltransferase	2.7.7.73	ATP	Diphosphate	white
+sulfur carrier protein ThiS adenylyltransferase	2.7.7.73	Adenylyl-[sulfur-carrier protein]	ATP	white
+sulfur carrier protein ThiS adenylyltransferase	2.7.7.73	Adenylyl-[sulfur-carrier protein]	Sulfur-carrier protein	white
+sulfur carrier protein ThiS adenylyltransferase	2.7.7.73	Diphosphate	ATP	white
+sulfur carrier protein ThiS adenylyltransferase	2.7.7.73	Diphosphate	Sulfur-carrier protein	white
+sulfur carrier protein ThiS adenylyltransferase	2.7.7.73	Sulfur-carrier protein	Adenylyl-[sulfur-carrier protein]	white
+sulfur carrier protein ThiS adenylyltransferase	2.7.7.73	Sulfur-carrier protein	Diphosphate	white
+tRNA uracil 4-sulfurtransferase	2.8.1.4	AMP	Adenylyl-[sulfur-carrier protein]	white
+tRNA uracil 4-sulfurtransferase	2.8.1.4	AMP	Reduced acceptor	white
+tRNA uracil 4-sulfurtransferase	2.8.1.4	AMP	[Enzyme]-S-sulfanylcysteine	white
+tRNA uracil 4-sulfurtransferase	2.8.1.4	Acceptor	Adenylyl-[sulfur-carrier protein]	white
+tRNA uracil 4-sulfurtransferase	2.8.1.4	Acceptor	Reduced acceptor	white
+tRNA uracil 4-sulfurtransferase	2.8.1.4	Acceptor	[Enzyme]-S-sulfanylcysteine	white
+tRNA uracil 4-sulfurtransferase	2.8.1.4	Adenylyl-[sulfur-carrier protein]	AMP	white
+tRNA uracil 4-sulfurtransferase	2.8.1.4	Adenylyl-[sulfur-carrier protein]	Acceptor	white
+tRNA uracil 4-sulfurtransferase	2.8.1.4	Adenylyl-[sulfur-carrier protein]	Thiocarboxy-[sulfur-carrier protein]	white
+tRNA uracil 4-sulfurtransferase	2.8.1.4	Adenylyl-[sulfur-carrier protein]	[Enzyme]-cysteine	white
+tRNA uracil 4-sulfurtransferase	2.8.1.4	Reduced acceptor	AMP	white
+tRNA uracil 4-sulfurtransferase	2.8.1.4	Reduced acceptor	Acceptor	white
+tRNA uracil 4-sulfurtransferase	2.8.1.4	Reduced acceptor	Thiocarboxy-[sulfur-carrier protein]	white
+tRNA uracil 4-sulfurtransferase	2.8.1.4	Reduced acceptor	[Enzyme]-cysteine	white
+tRNA uracil 4-sulfurtransferase	2.8.1.4	Thiocarboxy-[sulfur-carrier protein]	Adenylyl-[sulfur-carrier protein]	white
+tRNA uracil 4-sulfurtransferase	2.8.1.4	Thiocarboxy-[sulfur-carrier protein]	Reduced acceptor	white
+tRNA uracil 4-sulfurtransferase	2.8.1.4	Thiocarboxy-[sulfur-carrier protein]	[Enzyme]-S-sulfanylcysteine	white
+tRNA uracil 4-sulfurtransferase	2.8.1.4	[Enzyme]-S-sulfanylcysteine	AMP	white
+tRNA uracil 4-sulfurtransferase	2.8.1.4	[Enzyme]-S-sulfanylcysteine	Acceptor	white
+tRNA uracil 4-sulfurtransferase	2.8.1.4	[Enzyme]-S-sulfanylcysteine	Thiocarboxy-[sulfur-carrier protein]	white
+tRNA uracil 4-sulfurtransferase	2.8.1.4	[Enzyme]-S-sulfanylcysteine	[Enzyme]-cysteine	white
+tRNA uracil 4-sulfurtransferase	2.8.1.4	[Enzyme]-cysteine	Adenylyl-[sulfur-carrier protein]	white
+tRNA uracil 4-sulfurtransferase	2.8.1.4	[Enzyme]-cysteine	Reduced acceptor	white
+tRNA uracil 4-sulfurtransferase	2.8.1.4	[Enzyme]-cysteine	[Enzyme]-S-sulfanylcysteine	white
+thiaminase (transcriptional activator TenA)	3.5.99.2	4-Amino-5-aminomethyl-2-methylpyrimidine	4-Amino-5-hydroxymethyl-2-methylpyrimidine	green
+thiaminase (transcriptional activator TenA)	3.5.99.2	4-Amino-5-aminomethyl-2-methylpyrimidine	Ammonia	green
+thiaminase (transcriptional activator TenA)	3.5.99.2	H2O	4-Amino-5-hydroxymethyl-2-methylpyrimidine	green
+thiaminase (transcriptional activator TenA)	3.5.99.2	H2O	5-(2-Hydroxyethyl)-4-methylthiazole	green
+thiaminase (transcriptional activator TenA)	3.5.99.2	H2O	Ammonia	green
+thiaminase (transcriptional activator TenA)	3.5.99.2	H2O	H+	green
+thiaminase (transcriptional activator TenA)	3.5.99.2	Thiamine	4-Amino-5-hydroxymethyl-2-methylpyrimidine	green
+thiaminase (transcriptional activator TenA)	3.5.99.2	Thiamine	5-(2-Hydroxyethyl)-4-methylthiazole	green
+thiaminase (transcriptional activator TenA)	3.5.99.2	Thiamine	H+	green
+thiamine kinase	2.7.1.89	ADP	ATP	white
+thiamine kinase	2.7.1.89	ADP	Thiamine	white
+thiamine kinase	2.7.1.89	ATP	ADP	white
+thiamine kinase	2.7.1.89	ATP	Thiamin monophosphate	white
+thiamine kinase	2.7.1.89	Thiamin monophosphate	ATP	white
+thiamine kinase	2.7.1.89	Thiamin monophosphate	Thiamine	white
+thiamine kinase	2.7.1.89	Thiamine	ADP	white
+thiamine kinase	2.7.1.89	Thiamine	Thiamin monophosphate	white
+thiamine phosphate phosphatase / amino-HMP aminohydrolase	3.1.3.100	H2O	Orthophosphate	white
+thiamine phosphate phosphatase / amino-HMP aminohydrolase	3.1.3.100	H2O	Thiamine	white
+thiamine phosphate phosphatase / amino-HMP aminohydrolase	3.1.3.100	Orthophosphate	H2O	white
+thiamine phosphate phosphatase / amino-HMP aminohydrolase	3.1.3.100	Orthophosphate	Thiamin monophosphate	white
+thiamine phosphate phosphatase / amino-HMP aminohydrolase	3.1.3.100	Thiamin monophosphate	Orthophosphate	white
+thiamine phosphate phosphatase / amino-HMP aminohydrolase	3.1.3.100	Thiamin monophosphate	Thiamine	white
+thiamine phosphate phosphatase / amino-HMP aminohydrolase	3.1.3.100	Thiamine	H2O	white
+thiamine phosphate phosphatase / amino-HMP aminohydrolase	3.1.3.100	Thiamine	Thiamin monophosphate	white
+thiamine pyridinylase	2.5.1.2	5-(2-Hydroxyethyl)-4-methylthiazole	Pyridine	white
+thiamine pyridinylase	2.5.1.2	5-(2-Hydroxyethyl)-4-methylthiazole	Thiamine	white
+thiamine pyridinylase	2.5.1.2	Heteropyrithiamine	Pyridine	white
+thiamine pyridinylase	2.5.1.2	Heteropyrithiamine	Thiamine	white
+thiamine pyridinylase	2.5.1.2	Pyridine	5-(2-Hydroxyethyl)-4-methylthiazole	white
+thiamine pyridinylase	2.5.1.2	Pyridine	Heteropyrithiamine	white
+thiamine pyridinylase	2.5.1.2	Thiamine	5-(2-Hydroxyethyl)-4-methylthiazole	white
+thiamine pyridinylase	2.5.1.2	Thiamine	Heteropyrithiamine	white
+thiamine pyrophosphokinase	2.7.6.2	AMP	ATP	white
+thiamine pyrophosphokinase	2.7.6.2	AMP	Thiamine	white
+thiamine pyrophosphokinase	2.7.6.2	ATP	AMP	white
+thiamine pyrophosphokinase	2.7.6.2	ATP	Thiamin diphosphate	white
+thiamine pyrophosphokinase	2.7.6.2	Thiamin diphosphate	ATP	white
+thiamine pyrophosphokinase	2.7.6.2	Thiamin diphosphate	Thiamine	white
+thiamine pyrophosphokinase	2.7.6.2	Thiamine	AMP	white
+thiamine pyrophosphokinase	2.7.6.2	Thiamine	Thiamin diphosphate	white
+thiamine-monophosphate kinase	2.7.4.16	ATP	ADP	green
+thiamine-monophosphate kinase	2.7.4.16	ATP	Thiamin diphosphate	green
+thiamine-monophosphate kinase	2.7.4.16	Thiamin monophosphate	ADP	green
+thiamine-monophosphate kinase	2.7.4.16	Thiamin monophosphate	Thiamin diphosphate	green
+thiamine-phosphate diphosphorylase / hydroxyethylthiazole kinase	2.5.1.3	4-Amino-5-hydroxymethyl-2-methylpyrimidine diphosphate	Diphosphate	white
+thiamine-phosphate diphosphorylase / hydroxyethylthiazole kinase	2.5.1.3	4-Amino-5-hydroxymethyl-2-methylpyrimidine diphosphate	Thiamin monophosphate	white
+thiamine-phosphate diphosphorylase / hydroxyethylthiazole kinase	2.5.1.3	4-Methyl-5-(2-phosphooxyethyl)thiazole	Diphosphate	white
+thiamine-phosphate diphosphorylase / hydroxyethylthiazole kinase	2.5.1.3	4-Methyl-5-(2-phosphooxyethyl)thiazole	Thiamin monophosphate	white
+thiamine-phosphate diphosphorylase / hydroxyethylthiazole kinase	2.5.1.3	Diphosphate	4-Amino-5-hydroxymethyl-2-methylpyrimidine diphosphate	white
+thiamine-phosphate diphosphorylase / hydroxyethylthiazole kinase	2.5.1.3	Diphosphate	4-Methyl-5-(2-phosphooxyethyl)thiazole	white
+thiamine-phosphate diphosphorylase / hydroxyethylthiazole kinase	2.5.1.3	Thiamin monophosphate	4-Amino-5-hydroxymethyl-2-methylpyrimidine diphosphate	white
+thiamine-phosphate diphosphorylase / hydroxyethylthiazole kinase	2.5.1.3	Thiamin monophosphate	4-Methyl-5-(2-phosphooxyethyl)thiazole	white
+thiamine-phosphate pyrophosphorylase	2.5.1.3	2-(2-Carboxy-4-methylthiazol-5-yl)ethyl phosphate	CO2	green
+thiamine-phosphate pyrophosphorylase	2.5.1.3	2-(2-Carboxy-4-methylthiazol-5-yl)ethyl phosphate	Diphosphate	green
+thiamine-phosphate pyrophosphorylase	2.5.1.3	2-(2-Carboxy-4-methylthiazol-5-yl)ethyl phosphate	Thiamin monophosphate	green
+thiamine-phosphate pyrophosphorylase	2.5.1.3	4-Amino-5-hydroxymethyl-2-methylpyrimidine diphosphate	CO2	green
+thiamine-phosphate pyrophosphorylase	2.5.1.3	4-Amino-5-hydroxymethyl-2-methylpyrimidine diphosphate	Diphosphate	green
+thiamine-phosphate pyrophosphorylase	2.5.1.3	4-Amino-5-hydroxymethyl-2-methylpyrimidine diphosphate	Thiamin monophosphate	green
+thiamine-phosphate pyrophosphorylase	2.5.1.3	4-Methyl-5-(2-phosphooxyethyl)thiazole	Diphosphate	green
+thiamine-phosphate pyrophosphorylase	2.5.1.3	4-Methyl-5-(2-phosphooxyethyl)thiazole	Thiamin monophosphate	green
+thiamine-triphosphatase	3.6.1.28	H2O	Orthophosphate	white
+thiamine-triphosphatase	3.6.1.28	H2O	Thiamin diphosphate	white
+thiamine-triphosphatase	3.6.1.28	Orthophosphate	H2O	white
+thiamine-triphosphatase	3.6.1.28	Orthophosphate	Thiamin triphosphate	white
+thiamine-triphosphatase	3.6.1.28	Thiamin diphosphate	H2O	white
+thiamine-triphosphatase	3.6.1.28	Thiamin diphosphate	Thiamin triphosphate	white
+thiamine-triphosphatase	3.6.1.28	Thiamin triphosphate	Orthophosphate	white
+thiamine-triphosphatase	3.6.1.28	Thiamin triphosphate	Thiamin diphosphate	white
+thiazole synthase	2.8.1.10	1-Deoxy-D-xylulose 5-phosphate	2-[(2R,5Z)-2-Carboxy-4-methylthiazol-5(2H)-ylidene]ethyl phosphate	green
+thiazole synthase	2.8.1.10	1-Deoxy-D-xylulose 5-phosphate	H2O	green
+thiazole synthase	2.8.1.10	1-Deoxy-D-xylulose 5-phosphate	Sulfur-carrier protein	green
+thiazole synthase	2.8.1.10	Iminoglycine	2-[(2R,5Z)-2-Carboxy-4-methylthiazol-5(2H)-ylidene]ethyl phosphate	green
+thiazole synthase	2.8.1.10	Iminoglycine	H2O	green
+thiazole synthase	2.8.1.10	Iminoglycine	Sulfur-carrier protein	green
+thiazole synthase	2.8.1.10	Thiocarboxy-[sulfur-carrier protein]	2-[(2R,5Z)-2-Carboxy-4-methylthiazol-5(2H)-ylidene]ethyl phosphate	green
+thiazole synthase	2.8.1.10	Thiocarboxy-[sulfur-carrier protein]	H2O	green
+thiazole synthase	2.8.1.10	Thiocarboxy-[sulfur-carrier protein]	Sulfur-carrier protein	green
+thiazole tautomerase (transcriptional regulator TenI)	5.3.99.10	2-(2-Carboxy-4-methylthiazol-5-yl)ethyl phosphate	2-[(2R,5Z)-2-Carboxy-4-methylthiazol-5(2H)-ylidene]ethyl phosphate	white
+thiazole tautomerase (transcriptional regulator TenI)	5.3.99.10	2-[(2R,5Z)-2-Carboxy-4-methylthiazol-5(2H)-ylidene]ethyl phosphate	2-(2-Carboxy-4-methylthiazol-5-yl)ethyl phosphate	white

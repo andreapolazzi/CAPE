@@ -1,0 +1,196 @@
+enzyme_name	EC	source	target	color
+(5R)-carbapenem-3-carboxylate synthase	1.14.20.3	(3S,5S)-Carbapenam-3-carboxylic acid	(5R)-Carbapen-2-em-3-carboxylate	white
+(5R)-carbapenem-3-carboxylate synthase	1.14.20.3	(3S,5S)-Carbapenam-3-carboxylic acid	CO2	white
+(5R)-carbapenem-3-carboxylate synthase	1.14.20.3	(3S,5S)-Carbapenam-3-carboxylic acid	H2O	white
+(5R)-carbapenem-3-carboxylate synthase	1.14.20.3	(3S,5S)-Carbapenam-3-carboxylic acid	Succinate	white
+(5R)-carbapenem-3-carboxylate synthase	1.14.20.3	(5R)-Carbapen-2-em-3-carboxylate	(3S,5S)-Carbapenam-3-carboxylic acid	white
+(5R)-carbapenem-3-carboxylate synthase	1.14.20.3	(5R)-Carbapen-2-em-3-carboxylate	2-Oxoglutarate	white
+(5R)-carbapenem-3-carboxylate synthase	1.14.20.3	(5R)-Carbapen-2-em-3-carboxylate	Oxygen	white
+(5R)-carbapenem-3-carboxylate synthase	1.14.20.3	2-Oxoglutarate	(5R)-Carbapen-2-em-3-carboxylate	white
+(5R)-carbapenem-3-carboxylate synthase	1.14.20.3	2-Oxoglutarate	CO2	white
+(5R)-carbapenem-3-carboxylate synthase	1.14.20.3	2-Oxoglutarate	H2O	white
+(5R)-carbapenem-3-carboxylate synthase	1.14.20.3	2-Oxoglutarate	Succinate	white
+(5R)-carbapenem-3-carboxylate synthase	1.14.20.3	CO2	(3S,5S)-Carbapenam-3-carboxylic acid	white
+(5R)-carbapenem-3-carboxylate synthase	1.14.20.3	CO2	2-Oxoglutarate	white
+(5R)-carbapenem-3-carboxylate synthase	1.14.20.3	CO2	Oxygen	white
+(5R)-carbapenem-3-carboxylate synthase	1.14.20.3	H2O	(3S,5S)-Carbapenam-3-carboxylic acid	white
+(5R)-carbapenem-3-carboxylate synthase	1.14.20.3	H2O	2-Oxoglutarate	white
+(5R)-carbapenem-3-carboxylate synthase	1.14.20.3	H2O	Oxygen	white
+(5R)-carbapenem-3-carboxylate synthase	1.14.20.3	Oxygen	(5R)-Carbapen-2-em-3-carboxylate	white
+(5R)-carbapenem-3-carboxylate synthase	1.14.20.3	Oxygen	CO2	white
+(5R)-carbapenem-3-carboxylate synthase	1.14.20.3	Oxygen	H2O	white
+(5R)-carbapenem-3-carboxylate synthase	1.14.20.3	Oxygen	Succinate	white
+(5R)-carbapenem-3-carboxylate synthase	1.14.20.3	Succinate	(3S,5S)-Carbapenam-3-carboxylic acid	white
+(5R)-carbapenem-3-carboxylate synthase	1.14.20.3	Succinate	2-Oxoglutarate	white
+(5R)-carbapenem-3-carboxylate synthase	1.14.20.3	Succinate	Oxygen	white
+2-(S-pantetheinyl)-carbapenam-3-carboxylate methyltransferase	2.1.1.394	(2R,3R,5S)-2-(S-Pantetheinyl)-carbapenam-3-carboxylate	(2R,3R,5S,6R)-6-(Methyl)-2-(S-pantetheinyl)-carbapenam-3-carboxylate	white
+2-(S-pantetheinyl)-carbapenam-3-carboxylate methyltransferase	2.1.1.394	(2R,3R,5S)-2-(S-Pantetheinyl)-carbapenam-3-carboxylate	5'-Deoxyadenosine	white
+2-(S-pantetheinyl)-carbapenam-3-carboxylate methyltransferase	2.1.1.394	(2R,3R,5S)-2-(S-Pantetheinyl)-carbapenam-3-carboxylate	Acceptor	white
+2-(S-pantetheinyl)-carbapenam-3-carboxylate methyltransferase	2.1.1.394	(2R,3R,5S)-2-(S-Pantetheinyl)-carbapenam-3-carboxylate	L-Methionine	white
+2-(S-pantetheinyl)-carbapenam-3-carboxylate methyltransferase	2.1.1.394	(2R,3R,5S)-2-(S-Pantetheinyl)-carbapenam-3-carboxylate	S-Adenosyl-L-homocysteine	white
+2-(S-pantetheinyl)-carbapenam-3-carboxylate methyltransferase	2.1.1.394	(2R,3R,5S,6R)-6-(Methyl)-2-(S-pantetheinyl)-carbapenam-3-carboxylate	(2R,3R,5S)-2-(S-Pantetheinyl)-carbapenam-3-carboxylate	white
+2-(S-pantetheinyl)-carbapenam-3-carboxylate methyltransferase	2.1.1.394	(2R,3R,5S,6R)-6-(Methyl)-2-(S-pantetheinyl)-carbapenam-3-carboxylate	Reduced acceptor	white
+2-(S-pantetheinyl)-carbapenam-3-carboxylate methyltransferase	2.1.1.394	(2R,3R,5S,6R)-6-(Methyl)-2-(S-pantetheinyl)-carbapenam-3-carboxylate	S-Adenosyl-L-methionine	white
+2-(S-pantetheinyl)-carbapenam-3-carboxylate methyltransferase	2.1.1.394	5'-Deoxyadenosine	(2R,3R,5S)-2-(S-Pantetheinyl)-carbapenam-3-carboxylate	white
+2-(S-pantetheinyl)-carbapenam-3-carboxylate methyltransferase	2.1.1.394	5'-Deoxyadenosine	Reduced acceptor	white
+2-(S-pantetheinyl)-carbapenam-3-carboxylate methyltransferase	2.1.1.394	5'-Deoxyadenosine	S-Adenosyl-L-methionine	white
+2-(S-pantetheinyl)-carbapenam-3-carboxylate methyltransferase	2.1.1.394	Acceptor	(2R,3R,5S)-2-(S-Pantetheinyl)-carbapenam-3-carboxylate	white
+2-(S-pantetheinyl)-carbapenam-3-carboxylate methyltransferase	2.1.1.394	Acceptor	Reduced acceptor	white
+2-(S-pantetheinyl)-carbapenam-3-carboxylate methyltransferase	2.1.1.394	Acceptor	S-Adenosyl-L-methionine	white
+2-(S-pantetheinyl)-carbapenam-3-carboxylate methyltransferase	2.1.1.394	L-Methionine	(2R,3R,5S)-2-(S-Pantetheinyl)-carbapenam-3-carboxylate	white
+2-(S-pantetheinyl)-carbapenam-3-carboxylate methyltransferase	2.1.1.394	L-Methionine	Reduced acceptor	white
+2-(S-pantetheinyl)-carbapenam-3-carboxylate methyltransferase	2.1.1.394	L-Methionine	S-Adenosyl-L-methionine	white
+2-(S-pantetheinyl)-carbapenam-3-carboxylate methyltransferase	2.1.1.394	Reduced acceptor	(2R,3R,5S,6R)-6-(Methyl)-2-(S-pantetheinyl)-carbapenam-3-carboxylate	white
+2-(S-pantetheinyl)-carbapenam-3-carboxylate methyltransferase	2.1.1.394	Reduced acceptor	5'-Deoxyadenosine	white
+2-(S-pantetheinyl)-carbapenam-3-carboxylate methyltransferase	2.1.1.394	Reduced acceptor	Acceptor	white
+2-(S-pantetheinyl)-carbapenam-3-carboxylate methyltransferase	2.1.1.394	Reduced acceptor	L-Methionine	white
+2-(S-pantetheinyl)-carbapenam-3-carboxylate methyltransferase	2.1.1.394	Reduced acceptor	S-Adenosyl-L-homocysteine	white
+2-(S-pantetheinyl)-carbapenam-3-carboxylate methyltransferase	2.1.1.394	S-Adenosyl-L-homocysteine	(2R,3R,5S)-2-(S-Pantetheinyl)-carbapenam-3-carboxylate	white
+2-(S-pantetheinyl)-carbapenam-3-carboxylate methyltransferase	2.1.1.394	S-Adenosyl-L-homocysteine	Reduced acceptor	white
+2-(S-pantetheinyl)-carbapenam-3-carboxylate methyltransferase	2.1.1.394	S-Adenosyl-L-homocysteine	S-Adenosyl-L-methionine	white
+2-(S-pantetheinyl)-carbapenam-3-carboxylate methyltransferase	2.1.1.394	S-Adenosyl-L-methionine	(2R,3R,5S,6R)-6-(Methyl)-2-(S-pantetheinyl)-carbapenam-3-carboxylate	white
+2-(S-pantetheinyl)-carbapenam-3-carboxylate methyltransferase	2.1.1.394	S-Adenosyl-L-methionine	5'-Deoxyadenosine	white
+2-(S-pantetheinyl)-carbapenam-3-carboxylate methyltransferase	2.1.1.394	S-Adenosyl-L-methionine	Acceptor	white
+2-(S-pantetheinyl)-carbapenam-3-carboxylate methyltransferase	2.1.1.394	S-Adenosyl-L-methionine	L-Methionine	white
+2-(S-pantetheinyl)-carbapenam-3-carboxylate methyltransferase	2.1.1.394	S-Adenosyl-L-methionine	S-Adenosyl-L-homocysteine	white
+2-(S-pantetheinyl)-carbapenam-3-carboxylate synthase	4.4.1.44	(2R,3R,5S)-2-(S-Pantetheinyl)-carbapenam-3-carboxylate	(3S,5S)-Carbapenam-3-carboxylic acid	white
+2-(S-pantetheinyl)-carbapenam-3-carboxylate synthase	4.4.1.44	(2R,3R,5S)-2-(S-Pantetheinyl)-carbapenam-3-carboxylate	Pantetheine	white
+2-(S-pantetheinyl)-carbapenam-3-carboxylate synthase	4.4.1.44	(2R,3R,5S)-2-(S-Pantetheinyl)-carbapenam-3-carboxylate	S-Adenosyl-L-methionine	white
+2-(S-pantetheinyl)-carbapenam-3-carboxylate synthase	4.4.1.44	(3S,5S)-Carbapenam-3-carboxylic acid	(2R,3R,5S)-2-(S-Pantetheinyl)-carbapenam-3-carboxylate	white
+2-(S-pantetheinyl)-carbapenam-3-carboxylate synthase	4.4.1.44	(3S,5S)-Carbapenam-3-carboxylic acid	5'-Deoxyadenosine	white
+2-(S-pantetheinyl)-carbapenam-3-carboxylate synthase	4.4.1.44	(3S,5S)-Carbapenam-3-carboxylic acid	L-Methionine	white
+2-(S-pantetheinyl)-carbapenam-3-carboxylate synthase	4.4.1.44	5'-Deoxyadenosine	(3S,5S)-Carbapenam-3-carboxylic acid	white
+2-(S-pantetheinyl)-carbapenam-3-carboxylate synthase	4.4.1.44	5'-Deoxyadenosine	Pantetheine	white
+2-(S-pantetheinyl)-carbapenam-3-carboxylate synthase	4.4.1.44	5'-Deoxyadenosine	S-Adenosyl-L-methionine	white
+2-(S-pantetheinyl)-carbapenam-3-carboxylate synthase	4.4.1.44	L-Methionine	(3S,5S)-Carbapenam-3-carboxylic acid	white
+2-(S-pantetheinyl)-carbapenam-3-carboxylate synthase	4.4.1.44	L-Methionine	Pantetheine	white
+2-(S-pantetheinyl)-carbapenam-3-carboxylate synthase	4.4.1.44	L-Methionine	S-Adenosyl-L-methionine	white
+2-(S-pantetheinyl)-carbapenam-3-carboxylate synthase	4.4.1.44	Pantetheine	(2R,3R,5S)-2-(S-Pantetheinyl)-carbapenam-3-carboxylate	white
+2-(S-pantetheinyl)-carbapenam-3-carboxylate synthase	4.4.1.44	Pantetheine	5'-Deoxyadenosine	white
+2-(S-pantetheinyl)-carbapenam-3-carboxylate synthase	4.4.1.44	Pantetheine	L-Methionine	white
+2-(S-pantetheinyl)-carbapenam-3-carboxylate synthase	4.4.1.44	S-Adenosyl-L-methionine	(2R,3R,5S)-2-(S-Pantetheinyl)-carbapenam-3-carboxylate	white
+2-(S-pantetheinyl)-carbapenam-3-carboxylate synthase	4.4.1.44	S-Adenosyl-L-methionine	5'-Deoxyadenosine	white
+2-(S-pantetheinyl)-carbapenam-3-carboxylate synthase	4.4.1.44	S-Adenosyl-L-methionine	L-Methionine	white
+2-oxoglutarate-dependent dioxygenase	1.14.20.-	2-Oxoglutarate	CO2	white
+2-oxoglutarate-dependent dioxygenase	1.14.20.-	2-Oxoglutarate	OA-6129 B2	white
+2-oxoglutarate-dependent dioxygenase	1.14.20.-	2-Oxoglutarate	Succinate	white
+2-oxoglutarate-dependent dioxygenase	1.14.20.-	CO2	2-Oxoglutarate	white
+2-oxoglutarate-dependent dioxygenase	1.14.20.-	CO2	OA-6129 A	white
+2-oxoglutarate-dependent dioxygenase	1.14.20.-	CO2	Oxygen	white
+2-oxoglutarate-dependent dioxygenase	1.14.20.-	OA-6129 A	CO2	white
+2-oxoglutarate-dependent dioxygenase	1.14.20.-	OA-6129 A	OA-6129 B2	white
+2-oxoglutarate-dependent dioxygenase	1.14.20.-	OA-6129 A	Succinate	white
+2-oxoglutarate-dependent dioxygenase	1.14.20.-	OA-6129 B2	2-Oxoglutarate	white
+2-oxoglutarate-dependent dioxygenase	1.14.20.-	OA-6129 B2	OA-6129 A	white
+2-oxoglutarate-dependent dioxygenase	1.14.20.-	OA-6129 B2	Oxygen	white
+2-oxoglutarate-dependent dioxygenase	1.14.20.-	Oxygen	CO2	white
+2-oxoglutarate-dependent dioxygenase	1.14.20.-	Oxygen	OA-6129 B2	white
+2-oxoglutarate-dependent dioxygenase	1.14.20.-	Oxygen	Succinate	white
+2-oxoglutarate-dependent dioxygenase	1.14.20.-	Succinate	2-Oxoglutarate	white
+2-oxoglutarate-dependent dioxygenase	1.14.20.-	Succinate	OA-6129 A	white
+2-oxoglutarate-dependent dioxygenase	1.14.20.-	Succinate	Oxygen	white
+4'-phosphopantetheine phosphatase	3.1.3.110	H2O	Orthophosphate	white
+4'-phosphopantetheine phosphatase	3.1.3.110	H2O	Pantetheine	white
+4'-phosphopantetheine phosphatase	3.1.3.110	Orthophosphate	H2O	white
+4'-phosphopantetheine phosphatase	3.1.3.110	Orthophosphate	Pantetheine 4'-phosphate	white
+4'-phosphopantetheine phosphatase	3.1.3.110	Pantetheine	H2O	white
+4'-phosphopantetheine phosphatase	3.1.3.110	Pantetheine	Pantetheine 4'-phosphate	white
+4'-phosphopantetheine phosphatase	3.1.3.110	Pantetheine 4'-phosphate	Orthophosphate	white
+4'-phosphopantetheine phosphatase	3.1.3.110	Pantetheine 4'-phosphate	Pantetheine	white
+N-acetyltransferase	2.3.1.-	Acetyl-CoA	CoA	white
+N-acetyltransferase	2.3.1.-	Acetyl-CoA	N-Acetylthienamycin	white
+N-acetyltransferase	2.3.1.-	CoA	Acetyl-CoA	white
+N-acetyltransferase	2.3.1.-	CoA	Thienamycin	white
+N-acetyltransferase	2.3.1.-	N-Acetylthienamycin	Acetyl-CoA	white
+N-acetyltransferase	2.3.1.-	N-Acetylthienamycin	Thienamycin	white
+N-acetyltransferase	2.3.1.-	Thienamycin	CoA	white
+N-acetyltransferase	2.3.1.-	Thienamycin	N-Acetylthienamycin	white
+carbapenam-3-carboxylate synthase	6.3.3.6	(2S,5S)-trans-Carboxymethylproline	(3S,5S)-Carbapenam-3-carboxylic acid	white
+carbapenam-3-carboxylate synthase	6.3.3.6	(2S,5S)-trans-Carboxymethylproline	AMP	white
+carbapenam-3-carboxylate synthase	6.3.3.6	(2S,5S)-trans-Carboxymethylproline	Diphosphate	white
+carbapenam-3-carboxylate synthase	6.3.3.6	(3S,5S)-Carbapenam-3-carboxylic acid	(2S,5S)-trans-Carboxymethylproline	white
+carbapenam-3-carboxylate synthase	6.3.3.6	(3S,5S)-Carbapenam-3-carboxylic acid	ATP	white
+carbapenam-3-carboxylate synthase	6.3.3.6	AMP	(2S,5S)-trans-Carboxymethylproline	white
+carbapenam-3-carboxylate synthase	6.3.3.6	AMP	ATP	white
+carbapenam-3-carboxylate synthase	6.3.3.6	ATP	(3S,5S)-Carbapenam-3-carboxylic acid	white
+carbapenam-3-carboxylate synthase	6.3.3.6	ATP	AMP	white
+carbapenam-3-carboxylate synthase	6.3.3.6	ATP	Diphosphate	white
+carbapenam-3-carboxylate synthase	6.3.3.6	Diphosphate	(2S,5S)-trans-Carboxymethylproline	white
+carbapenam-3-carboxylate synthase	6.3.3.6	Diphosphate	ATP	white
+carbapenem biosynthesis protein CpmE	1.5.-.-	(S)-1-Pyrroline-5-carboxylate	FAD	white
+carbapenem biosynthesis protein CpmE	1.5.-.-	(S)-1-Pyrroline-5-carboxylate	L-Proline	white
+carbapenem biosynthesis protein CpmE	1.5.-.-	FAD	(S)-1-Pyrroline-5-carboxylate	white
+carbapenem biosynthesis protein CpmE	1.5.-.-	FAD	FADH2	white
+carbapenem biosynthesis protein CpmE	1.5.-.-	FADH2	FAD	white
+carbapenem biosynthesis protein CpmE	1.5.-.-	FADH2	L-Proline	white
+carbapenem biosynthesis protein CpmE	1.5.-.-	L-Proline	(S)-1-Pyrroline-5-carboxylate	white
+carbapenem biosynthesis protein CpmE	1.5.-.-	L-Proline	FADH2	white
+carbapenem biosynthesis protein, putative proline dehydrogenase	1.5.-.-	(S)-1-Pyrroline-5-carboxylate	FAD	white
+carbapenem biosynthesis protein, putative proline dehydrogenase	1.5.-.-	(S)-1-Pyrroline-5-carboxylate	L-Proline	white
+carbapenem biosynthesis protein, putative proline dehydrogenase	1.5.-.-	FAD	(S)-1-Pyrroline-5-carboxylate	white
+carbapenem biosynthesis protein, putative proline dehydrogenase	1.5.-.-	FAD	FADH2	white
+carbapenem biosynthesis protein, putative proline dehydrogenase	1.5.-.-	FADH2	FAD	white
+carbapenem biosynthesis protein, putative proline dehydrogenase	1.5.-.-	FADH2	L-Proline	white
+carbapenem biosynthesis protein, putative proline dehydrogenase	1.5.-.-	L-Proline	(S)-1-Pyrroline-5-carboxylate	white
+carbapenem biosynthesis protein, putative proline dehydrogenase	1.5.-.-	L-Proline	FADH2	white
+carboxymethylproline synthase	2.3.1.226	(2S,5S)-trans-Carboxymethylproline	(S)-1-Pyrroline-5-carboxylate	white
+carboxymethylproline synthase	2.3.1.226	(2S,5S)-trans-Carboxymethylproline	H2O	white
+carboxymethylproline synthase	2.3.1.226	(2S,5S)-trans-Carboxymethylproline	Malonyl-CoA	white
+carboxymethylproline synthase	2.3.1.226	(S)-1-Pyrroline-5-carboxylate	(2S,5S)-trans-Carboxymethylproline	white
+carboxymethylproline synthase	2.3.1.226	(S)-1-Pyrroline-5-carboxylate	CO2	white
+carboxymethylproline synthase	2.3.1.226	(S)-1-Pyrroline-5-carboxylate	CoA	white
+carboxymethylproline synthase	2.3.1.226	CO2	(S)-1-Pyrroline-5-carboxylate	white
+carboxymethylproline synthase	2.3.1.226	CO2	H2O	white
+carboxymethylproline synthase	2.3.1.226	CO2	Malonyl-CoA	white
+carboxymethylproline synthase	2.3.1.226	CoA	(S)-1-Pyrroline-5-carboxylate	white
+carboxymethylproline synthase	2.3.1.226	CoA	H2O	white
+carboxymethylproline synthase	2.3.1.226	CoA	Malonyl-CoA	white
+carboxymethylproline synthase	2.3.1.226	H2O	(2S,5S)-trans-Carboxymethylproline	white
+carboxymethylproline synthase	2.3.1.226	H2O	CO2	white
+carboxymethylproline synthase	2.3.1.226	H2O	CoA	white
+carboxymethylproline synthase	2.3.1.226	Malonyl-CoA	(2S,5S)-trans-Carboxymethylproline	white
+carboxymethylproline synthase	2.3.1.226	Malonyl-CoA	CO2	white
+carboxymethylproline synthase	2.3.1.226	Malonyl-CoA	CoA	white
+coenzyme A diphosphatase	3.6.1.77	Adenosine 3',5'-bisphosphate	CoA	white
+coenzyme A diphosphatase	3.6.1.77	Adenosine 3',5'-bisphosphate	H2O	white
+coenzyme A diphosphatase	3.6.1.77	CoA	Adenosine 3',5'-bisphosphate	white
+coenzyme A diphosphatase	3.6.1.77	CoA	Pantetheine 4'-phosphate	white
+coenzyme A diphosphatase	3.6.1.77	H2O	Adenosine 3',5'-bisphosphate	white
+coenzyme A diphosphatase	3.6.1.77	H2O	Pantetheine 4'-phosphate	white
+coenzyme A diphosphatase	3.6.1.77	Pantetheine 4'-phosphate	CoA	white
+coenzyme A diphosphatase	3.6.1.77	Pantetheine 4'-phosphate	H2O	white
+glutamate 5-kinase	2.7.2.11	ATP	ADP	green
+glutamate 5-kinase	2.7.2.11	ATP	L-Glutamyl 5-phosphate	green
+glutamate 5-kinase	2.7.2.11	L-Glutamate	ADP	green
+glutamate 5-kinase	2.7.2.11	L-Glutamate	L-Glutamyl 5-phosphate	green
+glutamate-5-semialdehyde dehydrogenase	1.2.1.41	L-Glutamate 5-semialdehyde	H+	green
+glutamate-5-semialdehyde dehydrogenase	1.2.1.41	L-Glutamate 5-semialdehyde	L-Glutamyl 5-phosphate	green
+glutamate-5-semialdehyde dehydrogenase	1.2.1.41	L-Glutamate 5-semialdehyde	NADPH	green
+glutamate-5-semialdehyde dehydrogenase	1.2.1.41	NADP+	H+	green
+glutamate-5-semialdehyde dehydrogenase	1.2.1.41	NADP+	L-Glutamyl 5-phosphate	green
+glutamate-5-semialdehyde dehydrogenase	1.2.1.41	NADP+	NADPH	green
+glutamate-5-semialdehyde dehydrogenase	1.2.1.41	Orthophosphate	H+	green
+glutamate-5-semialdehyde dehydrogenase	1.2.1.41	Orthophosphate	L-Glutamyl 5-phosphate	green
+glutamate-5-semialdehyde dehydrogenase	1.2.1.41	Orthophosphate	NADPH	green
+putative hydratase	1.14.20.-	OA-6129 B1	OA-6129 B2	white
+putative hydratase	1.14.20.-	OA-6129 B2	OA-6129 B1	white
+putative pantetheine hydrolase	3.5.1.-	Deacetylepithienamycin F	H2O	white
+putative pantetheine hydrolase	3.5.1.-	Deacetylepithienamycin F	OA-6129 C	white
+putative pantetheine hydrolase	3.5.1.-	H2O	Deacetylepithienamycin F	white
+putative pantetheine hydrolase	3.5.1.-	H2O	Pantothenate	white
+putative pantetheine hydrolase	3.5.1.-	OA-6129 C	Deacetylepithienamycin F	white
+putative pantetheine hydrolase	3.5.1.-	OA-6129 C	Pantothenate	white
+putative pantetheine hydrolase	3.5.1.-	Pantothenate	H2O	white
+putative pantetheine hydrolase	3.5.1.-	Pantothenate	OA-6129 C	white
+putative sulfotransferase	2.8.2.-	3'-Phosphoadenylyl sulfate	Adenosine 3',5'-bisphosphate	white
+putative sulfotransferase	2.8.2.-	3'-Phosphoadenylyl sulfate	OA-6129 C	white
+putative sulfotransferase	2.8.2.-	Adenosine 3',5'-bisphosphate	3'-Phosphoadenylyl sulfate	white
+putative sulfotransferase	2.8.2.-	Adenosine 3',5'-bisphosphate	OA-6129 B1	white
+putative sulfotransferase	2.8.2.-	OA-6129 B1	Adenosine 3',5'-bisphosphate	white
+putative sulfotransferase	2.8.2.-	OA-6129 B1	OA-6129 C	white
+putative sulfotransferase	2.8.2.-	OA-6129 C	3'-Phosphoadenylyl sulfate	white
+putative sulfotransferase	2.8.2.-	OA-6129 C	OA-6129 B1	white
+thienamycin biosynthesis protein ThnN	2.1.1.394	L-Glutamate	L-Glutamate 5-semialdehyde	white
+thienamycin biosynthesis protein ThnN	2.1.1.394	L-Glutamate 5-semialdehyde	L-Glutamate	white
+thienamycin biosynthesis protein ThnO	2.1.1.394	L-Glutamate	L-Glutamate 5-semialdehyde	white
+thienamycin biosynthesis protein ThnO	2.1.1.394	L-Glutamate 5-semialdehyde	L-Glutamate	white

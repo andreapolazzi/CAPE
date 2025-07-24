@@ -1,0 +1,57 @@
+name	inchi
+(2E)-Octadecenoyl-[acp]	
+(3R)-3-Hydroxyacyl-[acyl-carrier protein]	InChI=1S/C3H6O2S/c4-2-1-3(5)6/h4H,1-2H2,(H,5,6)
+(3R)-3-Hydroxybutanoyl-[acyl-carrier protein]	
+(3R)-3-Hydroxydecanoyl-[acyl-carrier protein]	
+(3R)-3-Hydroxydodecanoyl-[acyl-carrier protein]	InChI=1S/C12H24O2S/c1-2-3-4-5-6-7-8-9-11(13)10-12(14)15/h11,13H,2-10H2,1H3,(H,14,15)/t11-/m1/s1
+(3R)-3-Hydroxyhexanoyl-[acyl-carrier protein]	InChI=1S/C6H12O2S/c1-2-3-5(7)4-6(8)9/h5,7H,2-4H2,1H3,(H,8,9)/t5-/m1/s1
+(3R)-3-Hydroxyoctadecanoyl-[acyl-carrier protein]	InChI=1S/C18H36O2S/c1-2-3-4-5-6-7-8-9-10-11-12-13-14-15-17(19)16-18(20)21/h17,19H,2-16H2,1H3,(H,20,21)/t17-/m1/s1
+(3R)-3-Hydroxyoctanoyl-[acyl-carrier protein]	
+(3R)-3-Hydroxypalmitoyl-[acyl-carrier protein]	
+(3R)-3-Hydroxytetradecanoyl-[acyl-carrier protein]	
+(9Z)-Hexadecenoic acid	InChI=1S/C16H30O2/c1-2-3-4-5-6-7-8-9-10-11-12-13-14-15-16(17)18/h7-8H,2-6,9-15H2,1H3,(H,17,18)/b8-7-
+(9Z)-Octadecenoic acid	InChI=1S/C18H34O2/c1-2-3-4-5-6-7-8-9-10-11-12-13-14-15-16-17-18(19)20/h9-10H,2-8,11-17H2,1H3,(H,19,20)/b10-9-
+3-Oxodecanoyl-[acp]	
+3-Oxododecanoyl-[acp]	
+3-Oxohexadecanoyl-[acp]	
+3-Oxohexanoyl-[acp]	
+3-Oxooctanoyl-[acp]	
+3-Oxostearoyl-[acp]	
+3-Oxotetradecanoyl-[acp]	
+Acetoacetyl-[acp]	
+Acetyl-CoA	InChI=1S/C23H38N7O17P3S/c1-12(31)51-7-6-25-14(32)4-5-26-21(35)18(34)23(2,3)9-44-50(41,42)47-49(39,40)43-8-13-17(46-48(36,37)38)16(33)22(45-13)30-11-29-15-19(24)27-10-28-20(15)30/h10-11,13,16-18,22,33-34H,4-9H2,1-3H3,(H,25,32)(H,26,35)(H,39,40)(H,41,42)(H2,24,27,28)(H2,36,37,38)/t13-,16-,17-,18+,22-/m1/s1
+Acetyl-[acyl-carrier protein]	InChI=1S/C2H4OS/c1-2(3)4/h1H3,(H,3,4)
+Acyl-[acyl-carrier protein]	
+Acyl-carrier protein	
+But-2-enoyl-[acyl-carrier protein]	InChI=1S/C4H6OS/c1-2-3-4(5)6/h2-3H,1H3,(H,5,6)/b3-2+
+Butyryl-[acp]	
+Decanoic acid	InChI=1S/C10H20O2/c1-2-3-4-5-6-7-8-9-10(11)12/h2-9H2,1H3,(H,11,12)
+Decanoyl-[acp]	
+Dodecanoic acid	InChI=1S/C12H24O2/c1-2-3-4-5-6-7-8-9-10-11-12(13)14/h2-11H2,1H3,(H,13,14)
+Dodecanoyl-[acyl-carrier protein]	InChI=1S/C12H24OS/c1-2-3-4-5-6-7-8-9-10-11-12(13)14/h2-11H2,1H3,(H,13,14)
+Hexadecanoic acid	InChI=1S/C16H32O2/c1-2-3-4-5-6-7-8-9-10-11-12-13-14-15-16(17)18/h2-15H2,1H3,(H,17,18)
+Hexadecanoyl-[acp]	
+Hexadecenoyl-[acyl-carrier protein]	
+Hexanoyl-[acp]	
+Long-chain acyl-CoA	
+Long-chain fatty acid	
+Malonate	InChI=1S/C3H4O4/c4-2(5)1-3(6)7/h1H2,(H,4,5)(H,6,7)/p-2
+Malonyl-CoA	InChI=1S/C24H38N7O19P3S/c1-24(2,19(37)22(38)27-4-3-13(32)26-5-6-54-15(35)7-14(33)34)9-47-53(44,45)50-52(42,43)46-8-12-18(49-51(39,40)41)17(36)23(48-12)31-11-30-16-20(25)28-10-29-21(16)31/h10-12,17-19,23,36-37H,3-9H2,1-2H3,(H,26,32)(H,27,38)(H,33,34)(H,42,43)(H,44,45)(H2,25,28,29)(H2,39,40,41)/t12-,17-,18-,19+,23-/m1/s1
+Malonyl-[acyl-carrier protein]	
+Octadecanoic acid	InChI=1S/C18H36O2/c1-2-3-4-5-6-7-8-9-10-11-12-13-14-15-16-17-18(19)20/h2-17H2,1H3,(H,19,20)
+Octadecanoyl-[acyl-carrier protein]	
+Octanoic acid	InChI=1S/C8H16O2/c1-2-3-4-5-6-7-8(9)10/h2-7H2,1H3,(H,9,10)
+Octanoyl-[acp]	
+Oleoyl-[acyl-carrier protein]	InChI=1S/C18H34OS/c1-2-3-4-5-6-7-8-9-10-11-12-13-14-15-16-17-18(19)20/h9-10H,2-8,11-17H2,1H3,(H,19,20)/b10-9-
+Palmitoyl-CoA	InChI=1S/C37H66N7O17P3S/c1-4-5-6-7-8-9-10-11-12-13-14-15-16-17-28(46)65-21-20-39-27(45)18-19-40-35(49)32(48)37(2,3)23-58-64(55,56)61-63(53,54)57-22-26-31(60-62(50,51)52)30(47)36(59-26)44-25-43-29-33(38)41-24-42-34(29)44/h24-26,30-32,36,47-48H,4-23H2,1-3H3,(H,39,45)(H,40,49)(H,53,54)(H,55,56)(H2,38,41,42)(H2,50,51,52)/t26-,30-,31-,32+,36-/m1/s1
+Tetradecanoic acid	InChI=1S/C14H28O2/c1-2-3-4-5-6-7-8-9-10-11-12-13-14(15)16/h2-13H2,1H3,(H,15,16)
+Tetradecanoyl-[acp]	
+cis-Dec-3-enoyl-[acp]	InChI=1S/C10H18OS/c1-2-3-4-5-6-7-8-9-10(11)12/h7-8H,2-6,9H2,1H3,(H,11,12)/b8-7-
+n-7 Unsaturated acyl-[acyl-carrier protein]	
+trans-2,3-Dehydroacyl-[acyl-carrier protein]	InChI=1S/C3H4OS/c1-2-3(4)5/h2H,1H2,(H,4,5)
+trans-Dec-2-enoyl-[acp]	
+trans-Dodec-2-enoyl-[acp]	
+trans-Hex-2-enoyl-[acp]	
+trans-Hexadec-2-enoyl-[acp]	
+trans-Oct-2-enoyl-[acp]	
+trans-Tetradec-2-enoyl-[acp]	

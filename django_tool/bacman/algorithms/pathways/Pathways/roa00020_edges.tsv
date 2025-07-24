@@ -1,0 +1,564 @@
+enzyme_name	EC	source	target	color
+2-methylcitrate synthase	2.3.3.5	Acetyl-CoA	Citrate	green
+2-methylcitrate synthase	2.3.3.5	Acetyl-CoA	CoA	green
+2-methylcitrate synthase	2.3.3.5	Citrate	Acetyl-CoA	green
+2-methylcitrate synthase	2.3.3.5	Citrate	H2O	green
+2-methylcitrate synthase	2.3.3.5	Citrate	Oxaloacetate	green
+2-methylcitrate synthase	2.3.3.5	CoA	Acetyl-CoA	green
+2-methylcitrate synthase	2.3.3.5	CoA	H2O	green
+2-methylcitrate synthase	2.3.3.5	CoA	Oxaloacetate	green
+2-methylcitrate synthase	2.3.3.5	H2O	Citrate	green
+2-methylcitrate synthase	2.3.3.5	H2O	CoA	green
+2-methylcitrate synthase	2.3.3.5	Oxaloacetate	Citrate	green
+2-methylcitrate synthase	2.3.3.5	Oxaloacetate	CoA	green
+2-oxoglutarate/2-oxoacid ferredoxin oxidoreductase subunit alpha	1.2.7.3	Acetyl-CoA	CoA	green
+2-oxoglutarate/2-oxoacid ferredoxin oxidoreductase subunit alpha	1.2.7.3	Acetyl-CoA	Oxidized ferredoxin	green
+2-oxoglutarate/2-oxoacid ferredoxin oxidoreductase subunit alpha	1.2.7.3	Acetyl-CoA	Pyruvate	green
+2-oxoglutarate/2-oxoacid ferredoxin oxidoreductase subunit alpha	1.2.7.3	CO2	2-Oxoglutarate	green
+2-oxoglutarate/2-oxoacid ferredoxin oxidoreductase subunit alpha	1.2.7.3	CO2	CoA	green
+2-oxoglutarate/2-oxoacid ferredoxin oxidoreductase subunit alpha	1.2.7.3	CO2	Oxidized ferredoxin	green
+2-oxoglutarate/2-oxoacid ferredoxin oxidoreductase subunit alpha	1.2.7.3	CO2	Pyruvate	green
+2-oxoglutarate/2-oxoacid ferredoxin oxidoreductase subunit alpha	1.2.7.3	H+	2-Oxoglutarate	green
+2-oxoglutarate/2-oxoacid ferredoxin oxidoreductase subunit alpha	1.2.7.3	H+	CoA	green
+2-oxoglutarate/2-oxoacid ferredoxin oxidoreductase subunit alpha	1.2.7.3	H+	Oxidized ferredoxin	green
+2-oxoglutarate/2-oxoacid ferredoxin oxidoreductase subunit alpha	1.2.7.3	H+	Pyruvate	green
+2-oxoglutarate/2-oxoacid ferredoxin oxidoreductase subunit alpha	1.2.7.3	Reduced ferredoxin	2-Oxoglutarate	green
+2-oxoglutarate/2-oxoacid ferredoxin oxidoreductase subunit alpha	1.2.7.3	Reduced ferredoxin	CoA	green
+2-oxoglutarate/2-oxoacid ferredoxin oxidoreductase subunit alpha	1.2.7.3	Reduced ferredoxin	Oxidized ferredoxin	green
+2-oxoglutarate/2-oxoacid ferredoxin oxidoreductase subunit alpha	1.2.7.3	Reduced ferredoxin	Pyruvate	green
+2-oxoglutarate/2-oxoacid ferredoxin oxidoreductase subunit alpha	1.2.7.3	Succinyl-CoA	2-Oxoglutarate	green
+2-oxoglutarate/2-oxoacid ferredoxin oxidoreductase subunit alpha	1.2.7.3	Succinyl-CoA	CoA	green
+2-oxoglutarate/2-oxoacid ferredoxin oxidoreductase subunit alpha	1.2.7.3	Succinyl-CoA	Oxidized ferredoxin	green
+2-oxoglutarate/2-oxoacid ferredoxin oxidoreductase subunit beta	1.2.7.3	Acetyl-CoA	CoA	green
+2-oxoglutarate/2-oxoacid ferredoxin oxidoreductase subunit beta	1.2.7.3	Acetyl-CoA	Oxidized ferredoxin	green
+2-oxoglutarate/2-oxoacid ferredoxin oxidoreductase subunit beta	1.2.7.3	Acetyl-CoA	Pyruvate	green
+2-oxoglutarate/2-oxoacid ferredoxin oxidoreductase subunit beta	1.2.7.3	CO2	2-Oxoglutarate	green
+2-oxoglutarate/2-oxoacid ferredoxin oxidoreductase subunit beta	1.2.7.3	CO2	CoA	green
+2-oxoglutarate/2-oxoacid ferredoxin oxidoreductase subunit beta	1.2.7.3	CO2	Oxidized ferredoxin	green
+2-oxoglutarate/2-oxoacid ferredoxin oxidoreductase subunit beta	1.2.7.3	CO2	Pyruvate	green
+2-oxoglutarate/2-oxoacid ferredoxin oxidoreductase subunit beta	1.2.7.3	H+	2-Oxoglutarate	green
+2-oxoglutarate/2-oxoacid ferredoxin oxidoreductase subunit beta	1.2.7.3	H+	CoA	green
+2-oxoglutarate/2-oxoacid ferredoxin oxidoreductase subunit beta	1.2.7.3	H+	Oxidized ferredoxin	green
+2-oxoglutarate/2-oxoacid ferredoxin oxidoreductase subunit beta	1.2.7.3	H+	Pyruvate	green
+2-oxoglutarate/2-oxoacid ferredoxin oxidoreductase subunit beta	1.2.7.3	Reduced ferredoxin	2-Oxoglutarate	green
+2-oxoglutarate/2-oxoacid ferredoxin oxidoreductase subunit beta	1.2.7.3	Reduced ferredoxin	CoA	green
+2-oxoglutarate/2-oxoacid ferredoxin oxidoreductase subunit beta	1.2.7.3	Reduced ferredoxin	Oxidized ferredoxin	green
+2-oxoglutarate/2-oxoacid ferredoxin oxidoreductase subunit beta	1.2.7.3	Reduced ferredoxin	Pyruvate	green
+2-oxoglutarate/2-oxoacid ferredoxin oxidoreductase subunit beta	1.2.7.3	Succinyl-CoA	2-Oxoglutarate	green
+2-oxoglutarate/2-oxoacid ferredoxin oxidoreductase subunit beta	1.2.7.3	Succinyl-CoA	CoA	green
+2-oxoglutarate/2-oxoacid ferredoxin oxidoreductase subunit beta	1.2.7.3	Succinyl-CoA	Oxidized ferredoxin	green
+2-oxoisovalerate/pyruvate ferredoxin oxidoreductase gamma subunit	1.2.7.7	Acetyl-CoA	CoA	white
+2-oxoisovalerate/pyruvate ferredoxin oxidoreductase gamma subunit	1.2.7.7	Acetyl-CoA	Oxidized ferredoxin	white
+2-oxoisovalerate/pyruvate ferredoxin oxidoreductase gamma subunit	1.2.7.7	Acetyl-CoA	Pyruvate	white
+2-oxoisovalerate/pyruvate ferredoxin oxidoreductase gamma subunit	1.2.7.7	CO2	CoA	white
+2-oxoisovalerate/pyruvate ferredoxin oxidoreductase gamma subunit	1.2.7.7	CO2	Oxidized ferredoxin	white
+2-oxoisovalerate/pyruvate ferredoxin oxidoreductase gamma subunit	1.2.7.7	CO2	Pyruvate	white
+2-oxoisovalerate/pyruvate ferredoxin oxidoreductase gamma subunit	1.2.7.7	CoA	Acetyl-CoA	white
+2-oxoisovalerate/pyruvate ferredoxin oxidoreductase gamma subunit	1.2.7.7	CoA	CO2	white
+2-oxoisovalerate/pyruvate ferredoxin oxidoreductase gamma subunit	1.2.7.7	CoA	H+	white
+2-oxoisovalerate/pyruvate ferredoxin oxidoreductase gamma subunit	1.2.7.7	CoA	Reduced ferredoxin	white
+2-oxoisovalerate/pyruvate ferredoxin oxidoreductase gamma subunit	1.2.7.7	H+	CoA	white
+2-oxoisovalerate/pyruvate ferredoxin oxidoreductase gamma subunit	1.2.7.7	H+	Oxidized ferredoxin	white
+2-oxoisovalerate/pyruvate ferredoxin oxidoreductase gamma subunit	1.2.7.7	H+	Pyruvate	white
+2-oxoisovalerate/pyruvate ferredoxin oxidoreductase gamma subunit	1.2.7.7	Oxidized ferredoxin	Acetyl-CoA	white
+2-oxoisovalerate/pyruvate ferredoxin oxidoreductase gamma subunit	1.2.7.7	Oxidized ferredoxin	CO2	white
+2-oxoisovalerate/pyruvate ferredoxin oxidoreductase gamma subunit	1.2.7.7	Oxidized ferredoxin	H+	white
+2-oxoisovalerate/pyruvate ferredoxin oxidoreductase gamma subunit	1.2.7.7	Oxidized ferredoxin	Reduced ferredoxin	white
+2-oxoisovalerate/pyruvate ferredoxin oxidoreductase gamma subunit	1.2.7.7	Pyruvate	Acetyl-CoA	white
+2-oxoisovalerate/pyruvate ferredoxin oxidoreductase gamma subunit	1.2.7.7	Pyruvate	CO2	white
+2-oxoisovalerate/pyruvate ferredoxin oxidoreductase gamma subunit	1.2.7.7	Pyruvate	H+	white
+2-oxoisovalerate/pyruvate ferredoxin oxidoreductase gamma subunit	1.2.7.7	Pyruvate	Reduced ferredoxin	white
+2-oxoisovalerate/pyruvate ferredoxin oxidoreductase gamma subunit	1.2.7.7	Reduced ferredoxin	CoA	white
+2-oxoisovalerate/pyruvate ferredoxin oxidoreductase gamma subunit	1.2.7.7	Reduced ferredoxin	Oxidized ferredoxin	white
+2-oxoisovalerate/pyruvate ferredoxin oxidoreductase gamma subunit	1.2.7.7	Reduced ferredoxin	Pyruvate	white
+ATP citrate (pro-S)-lyase	2.3.3.8	ADP	ATP	white
+ATP citrate (pro-S)-lyase	2.3.3.8	ADP	Citrate	white
+ATP citrate (pro-S)-lyase	2.3.3.8	ADP	CoA	white
+ATP citrate (pro-S)-lyase	2.3.3.8	ATP	ADP	white
+ATP citrate (pro-S)-lyase	2.3.3.8	ATP	Acetyl-CoA	white
+ATP citrate (pro-S)-lyase	2.3.3.8	ATP	Orthophosphate	white
+ATP citrate (pro-S)-lyase	2.3.3.8	ATP	Oxaloacetate	white
+ATP citrate (pro-S)-lyase	2.3.3.8	Acetyl-CoA	ATP	white
+ATP citrate (pro-S)-lyase	2.3.3.8	Acetyl-CoA	Citrate	white
+ATP citrate (pro-S)-lyase	2.3.3.8	Acetyl-CoA	CoA	white
+ATP citrate (pro-S)-lyase	2.3.3.8	Citrate	ADP	white
+ATP citrate (pro-S)-lyase	2.3.3.8	Citrate	Acetyl-CoA	white
+ATP citrate (pro-S)-lyase	2.3.3.8	Citrate	Orthophosphate	white
+ATP citrate (pro-S)-lyase	2.3.3.8	Citrate	Oxaloacetate	white
+ATP citrate (pro-S)-lyase	2.3.3.8	CoA	ADP	white
+ATP citrate (pro-S)-lyase	2.3.3.8	CoA	Acetyl-CoA	white
+ATP citrate (pro-S)-lyase	2.3.3.8	CoA	Orthophosphate	white
+ATP citrate (pro-S)-lyase	2.3.3.8	CoA	Oxaloacetate	white
+ATP citrate (pro-S)-lyase	2.3.3.8	Orthophosphate	ATP	white
+ATP citrate (pro-S)-lyase	2.3.3.8	Orthophosphate	Citrate	white
+ATP citrate (pro-S)-lyase	2.3.3.8	Orthophosphate	CoA	white
+ATP citrate (pro-S)-lyase	2.3.3.8	Oxaloacetate	ATP	white
+ATP citrate (pro-S)-lyase	2.3.3.8	Oxaloacetate	Citrate	white
+ATP citrate (pro-S)-lyase	2.3.3.8	Oxaloacetate	CoA	white
+ATP-citrate lyase alpha-subunit	2.3.3.8	ADP	ATP	white
+ATP-citrate lyase alpha-subunit	2.3.3.8	ADP	Citrate	white
+ATP-citrate lyase alpha-subunit	2.3.3.8	ADP	CoA	white
+ATP-citrate lyase alpha-subunit	2.3.3.8	ATP	ADP	white
+ATP-citrate lyase alpha-subunit	2.3.3.8	ATP	Acetyl-CoA	white
+ATP-citrate lyase alpha-subunit	2.3.3.8	ATP	Orthophosphate	white
+ATP-citrate lyase alpha-subunit	2.3.3.8	ATP	Oxaloacetate	white
+ATP-citrate lyase alpha-subunit	2.3.3.8	Acetyl-CoA	ATP	white
+ATP-citrate lyase alpha-subunit	2.3.3.8	Acetyl-CoA	Citrate	white
+ATP-citrate lyase alpha-subunit	2.3.3.8	Acetyl-CoA	CoA	white
+ATP-citrate lyase alpha-subunit	2.3.3.8	Citrate	ADP	white
+ATP-citrate lyase alpha-subunit	2.3.3.8	Citrate	Acetyl-CoA	white
+ATP-citrate lyase alpha-subunit	2.3.3.8	Citrate	Orthophosphate	white
+ATP-citrate lyase alpha-subunit	2.3.3.8	Citrate	Oxaloacetate	white
+ATP-citrate lyase alpha-subunit	2.3.3.8	CoA	ADP	white
+ATP-citrate lyase alpha-subunit	2.3.3.8	CoA	Acetyl-CoA	white
+ATP-citrate lyase alpha-subunit	2.3.3.8	CoA	Orthophosphate	white
+ATP-citrate lyase alpha-subunit	2.3.3.8	CoA	Oxaloacetate	white
+ATP-citrate lyase alpha-subunit	2.3.3.8	Orthophosphate	ATP	white
+ATP-citrate lyase alpha-subunit	2.3.3.8	Orthophosphate	Citrate	white
+ATP-citrate lyase alpha-subunit	2.3.3.8	Orthophosphate	CoA	white
+ATP-citrate lyase alpha-subunit	2.3.3.8	Oxaloacetate	ATP	white
+ATP-citrate lyase alpha-subunit	2.3.3.8	Oxaloacetate	Citrate	white
+ATP-citrate lyase alpha-subunit	2.3.3.8	Oxaloacetate	CoA	white
+ATP-citrate lyase beta-subunit	2.3.3.8	ADP	ATP	white
+ATP-citrate lyase beta-subunit	2.3.3.8	ADP	Citrate	white
+ATP-citrate lyase beta-subunit	2.3.3.8	ADP	CoA	white
+ATP-citrate lyase beta-subunit	2.3.3.8	ATP	ADP	white
+ATP-citrate lyase beta-subunit	2.3.3.8	ATP	Acetyl-CoA	white
+ATP-citrate lyase beta-subunit	2.3.3.8	ATP	Orthophosphate	white
+ATP-citrate lyase beta-subunit	2.3.3.8	ATP	Oxaloacetate	white
+ATP-citrate lyase beta-subunit	2.3.3.8	Acetyl-CoA	ATP	white
+ATP-citrate lyase beta-subunit	2.3.3.8	Acetyl-CoA	Citrate	white
+ATP-citrate lyase beta-subunit	2.3.3.8	Acetyl-CoA	CoA	white
+ATP-citrate lyase beta-subunit	2.3.3.8	Citrate	ADP	white
+ATP-citrate lyase beta-subunit	2.3.3.8	Citrate	Acetyl-CoA	white
+ATP-citrate lyase beta-subunit	2.3.3.8	Citrate	Orthophosphate	white
+ATP-citrate lyase beta-subunit	2.3.3.8	Citrate	Oxaloacetate	white
+ATP-citrate lyase beta-subunit	2.3.3.8	CoA	ADP	white
+ATP-citrate lyase beta-subunit	2.3.3.8	CoA	Acetyl-CoA	white
+ATP-citrate lyase beta-subunit	2.3.3.8	CoA	Orthophosphate	white
+ATP-citrate lyase beta-subunit	2.3.3.8	CoA	Oxaloacetate	white
+ATP-citrate lyase beta-subunit	2.3.3.8	Orthophosphate	ATP	white
+ATP-citrate lyase beta-subunit	2.3.3.8	Orthophosphate	Citrate	white
+ATP-citrate lyase beta-subunit	2.3.3.8	Orthophosphate	CoA	white
+ATP-citrate lyase beta-subunit	2.3.3.8	Oxaloacetate	ATP	white
+ATP-citrate lyase beta-subunit	2.3.3.8	Oxaloacetate	Citrate	white
+ATP-citrate lyase beta-subunit	2.3.3.8	Oxaloacetate	CoA	white
+aconitate hydratase A / 2-methylisocitrate dehydratase	4.2.1.3	Citrate	H2O	green
+aconitate hydratase A / 2-methylisocitrate dehydratase	4.2.1.3	Citrate	cis-Aconitate	green
+aconitate hydratase A / 2-methylisocitrate dehydratase	4.2.1.3	H2O	Citrate	green
+aconitate hydratase A / 2-methylisocitrate dehydratase	4.2.1.3	H2O	Isocitrate	green
+aconitate hydratase A / 2-methylisocitrate dehydratase	4.2.1.3	Isocitrate	H2O	green
+aconitate hydratase A / 2-methylisocitrate dehydratase	4.2.1.3	Isocitrate	cis-Aconitate	green
+aconitate hydratase A / 2-methylisocitrate dehydratase	4.2.1.3	cis-Aconitate	Citrate	green
+aconitate hydratase A / 2-methylisocitrate dehydratase	4.2.1.3	cis-Aconitate	Isocitrate	green
+citrate (Re)-synthase	2.3.3.3	Acetyl-CoA	Citrate	white
+citrate (Re)-synthase	2.3.3.3	Acetyl-CoA	CoA	white
+citrate (Re)-synthase	2.3.3.3	Citrate	Acetyl-CoA	white
+citrate (Re)-synthase	2.3.3.3	Citrate	H2O	white
+citrate (Re)-synthase	2.3.3.3	Citrate	Oxaloacetate	white
+citrate (Re)-synthase	2.3.3.3	CoA	Acetyl-CoA	white
+citrate (Re)-synthase	2.3.3.3	CoA	H2O	white
+citrate (Re)-synthase	2.3.3.3	CoA	Oxaloacetate	white
+citrate (Re)-synthase	2.3.3.3	H2O	Citrate	white
+citrate (Re)-synthase	2.3.3.3	H2O	CoA	white
+citrate (Re)-synthase	2.3.3.3	Oxaloacetate	Citrate	white
+citrate (Re)-synthase	2.3.3.3	Oxaloacetate	CoA	white
+citrate synthase	2.3.3.1	Acetyl-CoA	Citrate	green
+citrate synthase	2.3.3.1	Acetyl-CoA	CoA	green
+citrate synthase	2.3.3.1	Citrate	Acetyl-CoA	green
+citrate synthase	2.3.3.1	Citrate	H2O	green
+citrate synthase	2.3.3.1	Citrate	Oxaloacetate	green
+citrate synthase	2.3.3.1	CoA	Acetyl-CoA	green
+citrate synthase	2.3.3.1	CoA	H2O	green
+citrate synthase	2.3.3.1	CoA	Oxaloacetate	green
+citrate synthase	2.3.3.1	H2O	Citrate	green
+citrate synthase	2.3.3.1	H2O	CoA	green
+citrate synthase	2.3.3.1	Oxaloacetate	Citrate	green
+citrate synthase	2.3.3.1	Oxaloacetate	CoA	green
+dihydrolipoyl dehydrogenase	1.8.1.4	Enzyme N6-(dihydrolipoyl)lysine	Enzyme N6-(lipoyl)lysine	green
+dihydrolipoyl dehydrogenase	1.8.1.4	Enzyme N6-(dihydrolipoyl)lysine	H+	green
+dihydrolipoyl dehydrogenase	1.8.1.4	Enzyme N6-(dihydrolipoyl)lysine	NADH	green
+dihydrolipoyl dehydrogenase	1.8.1.4	Enzyme N6-(lipoyl)lysine	Enzyme N6-(dihydrolipoyl)lysine	green
+dihydrolipoyl dehydrogenase	1.8.1.4	Enzyme N6-(lipoyl)lysine	NAD+	green
+dihydrolipoyl dehydrogenase	1.8.1.4	H+	Enzyme N6-(dihydrolipoyl)lysine	green
+dihydrolipoyl dehydrogenase	1.8.1.4	H+	NAD+	green
+dihydrolipoyl dehydrogenase	1.8.1.4	NAD+	Enzyme N6-(lipoyl)lysine	green
+dihydrolipoyl dehydrogenase	1.8.1.4	NAD+	H+	green
+dihydrolipoyl dehydrogenase	1.8.1.4	NAD+	NADH	green
+dihydrolipoyl dehydrogenase	1.8.1.4	NADH	Enzyme N6-(dihydrolipoyl)lysine	green
+dihydrolipoyl dehydrogenase	1.8.1.4	NADH	NAD+	green
+fumarate hydratase, class I	4.2.1.2	(S)-Malate	Fumarate	green
+fumarate hydratase, class I	4.2.1.2	(S)-Malate	H2O	green
+fumarate hydratase, class I	4.2.1.2	Fumarate	(S)-Malate	green
+fumarate hydratase, class I	4.2.1.2	H2O	(S)-Malate	green
+fumarate hydratase, class II	4.2.1.2	(S)-Malate	Fumarate	green
+fumarate hydratase, class II	4.2.1.2	(S)-Malate	H2O	green
+fumarate hydratase, class II	4.2.1.2	Fumarate	(S)-Malate	green
+fumarate hydratase, class II	4.2.1.2	H2O	(S)-Malate	green
+fumarate reductase (cytochrome)	1.3.2.4	Ferricytochrome c	Ferrocytochrome c	white
+fumarate reductase (cytochrome)	1.3.2.4	Ferricytochrome c	Fumarate	white
+fumarate reductase (cytochrome)	1.3.2.4	Ferrocytochrome c	Ferricytochrome c	white
+fumarate reductase (cytochrome)	1.3.2.4	Ferrocytochrome c	Succinate	white
+fumarate reductase (cytochrome)	1.3.2.4	Fumarate	Ferricytochrome c	white
+fumarate reductase (cytochrome)	1.3.2.4	Fumarate	Succinate	white
+fumarate reductase (cytochrome)	1.3.2.4	Succinate	Ferrocytochrome c	white
+fumarate reductase (cytochrome)	1.3.2.4	Succinate	Fumarate	white
+isocitrate dehydrogenase	1.1.1.42	2-Oxoglutarate	Oxalosuccinate	green
+isocitrate dehydrogenase	1.1.1.42	CO2	Oxalosuccinate	green
+isocitrate dehydrogenase	1.1.1.42	H+	Isocitrate	green
+isocitrate dehydrogenase	1.1.1.42	H+	NADP+	green
+isocitrate dehydrogenase	1.1.1.42	Isocitrate	H+	green
+isocitrate dehydrogenase	1.1.1.42	Isocitrate	NADPH	green
+isocitrate dehydrogenase	1.1.1.42	Isocitrate	Oxalosuccinate	green
+isocitrate dehydrogenase	1.1.1.42	NADP+	H+	green
+isocitrate dehydrogenase	1.1.1.42	NADP+	NADPH	green
+isocitrate dehydrogenase	1.1.1.42	NADP+	Oxalosuccinate	green
+isocitrate dehydrogenase	1.1.1.42	NADPH	Isocitrate	green
+isocitrate dehydrogenase	1.1.1.42	NADPH	NADP+	green
+isocitrate dehydrogenase	1.1.1.42	Oxalosuccinate	2-Oxoglutarate	green
+isocitrate dehydrogenase	1.1.1.42	Oxalosuccinate	CO2	green
+isocitrate dehydrogenase	1.1.1.42	Oxalosuccinate	Isocitrate	green
+isocitrate dehydrogenase	1.1.1.42	Oxalosuccinate	NADP+	green
+isocitrate dehydrogenase (NAD+)	1.1.1.41	2-Oxoglutarate	Isocitrate	white
+isocitrate dehydrogenase (NAD+)	1.1.1.41	2-Oxoglutarate	NAD+	white
+isocitrate dehydrogenase (NAD+)	1.1.1.41	CO2	Isocitrate	white
+isocitrate dehydrogenase (NAD+)	1.1.1.41	CO2	NAD+	white
+isocitrate dehydrogenase (NAD+)	1.1.1.41	H+	Isocitrate	white
+isocitrate dehydrogenase (NAD+)	1.1.1.41	H+	NAD+	white
+isocitrate dehydrogenase (NAD+)	1.1.1.41	Isocitrate	2-Oxoglutarate	white
+isocitrate dehydrogenase (NAD+)	1.1.1.41	Isocitrate	CO2	white
+isocitrate dehydrogenase (NAD+)	1.1.1.41	Isocitrate	H+	white
+isocitrate dehydrogenase (NAD+)	1.1.1.41	Isocitrate	NADH	white
+isocitrate dehydrogenase (NAD+)	1.1.1.41	NAD+	2-Oxoglutarate	white
+isocitrate dehydrogenase (NAD+)	1.1.1.41	NAD+	CO2	white
+isocitrate dehydrogenase (NAD+)	1.1.1.41	NAD+	H+	white
+isocitrate dehydrogenase (NAD+)	1.1.1.41	NAD+	NADH	white
+isocitrate dehydrogenase (NAD+)	1.1.1.41	NADH	Isocitrate	white
+isocitrate dehydrogenase (NAD+)	1.1.1.41	NADH	NAD+	white
+isocitrate--homoisocitrate dehydrogenase	1.1.1.286	2-Oxoglutarate	Isocitrate	white
+isocitrate--homoisocitrate dehydrogenase	1.1.1.286	2-Oxoglutarate	NAD+	white
+isocitrate--homoisocitrate dehydrogenase	1.1.1.286	CO2	Isocitrate	white
+isocitrate--homoisocitrate dehydrogenase	1.1.1.286	CO2	NAD+	white
+isocitrate--homoisocitrate dehydrogenase	1.1.1.286	H+	Isocitrate	white
+isocitrate--homoisocitrate dehydrogenase	1.1.1.286	H+	NAD+	white
+isocitrate--homoisocitrate dehydrogenase	1.1.1.286	Isocitrate	2-Oxoglutarate	white
+isocitrate--homoisocitrate dehydrogenase	1.1.1.286	Isocitrate	CO2	white
+isocitrate--homoisocitrate dehydrogenase	1.1.1.286	Isocitrate	H+	white
+isocitrate--homoisocitrate dehydrogenase	1.1.1.286	Isocitrate	NADH	white
+isocitrate--homoisocitrate dehydrogenase	1.1.1.286	NAD+	2-Oxoglutarate	white
+isocitrate--homoisocitrate dehydrogenase	1.1.1.286	NAD+	CO2	white
+isocitrate--homoisocitrate dehydrogenase	1.1.1.286	NAD+	H+	white
+isocitrate--homoisocitrate dehydrogenase	1.1.1.286	NAD+	NADH	white
+isocitrate--homoisocitrate dehydrogenase	1.1.1.286	NADH	Isocitrate	white
+isocitrate--homoisocitrate dehydrogenase	1.1.1.286	NADH	NAD+	white
+malate dehydrogenase	1.1.1.37	(S)-Malate	H+	green
+malate dehydrogenase	1.1.1.37	(S)-Malate	NADH	green
+malate dehydrogenase	1.1.1.37	(S)-Malate	Oxaloacetate	green
+malate dehydrogenase	1.1.1.37	H+	(S)-Malate	green
+malate dehydrogenase	1.1.1.37	H+	NAD+	green
+malate dehydrogenase	1.1.1.37	NAD+	H+	green
+malate dehydrogenase	1.1.1.37	NAD+	NADH	green
+malate dehydrogenase	1.1.1.37	NAD+	Oxaloacetate	green
+malate dehydrogenase	1.1.1.37	NADH	(S)-Malate	green
+malate dehydrogenase	1.1.1.37	NADH	NAD+	green
+malate dehydrogenase	1.1.1.37	Oxaloacetate	(S)-Malate	green
+malate dehydrogenase	1.1.1.37	Oxaloacetate	NAD+	green
+malate dehydrogenase (quinone)	1.1.5.4	(S)-Malate	Hydroquinone	green
+malate dehydrogenase (quinone)	1.1.5.4	(S)-Malate	Oxaloacetate	green
+malate dehydrogenase (quinone)	1.1.5.4	Quinone	Hydroquinone	green
+malate dehydrogenase (quinone)	1.1.5.4	Quinone	Oxaloacetate	green
+multifunctional 2-oxoglutarate metabolism enzyme	2.2.1.5	2-Oxoglutarate	3-Carboxy-1-hydroxypropyl-ThPP	green
+multifunctional 2-oxoglutarate metabolism enzyme	2.2.1.5	2-Oxoglutarate	CO2	green
+multifunctional 2-oxoglutarate metabolism enzyme	2.2.1.5	3-Carboxy-1-hydroxypropyl-ThPP	Thiamin diphosphate	green
+multifunctional 2-oxoglutarate metabolism enzyme	2.2.1.5	3-Carboxy-1-hydroxypropyl-ThPP	[Dihydrolipoyllysine-residue succinyltransferase] S-succinyldihydrolipoyllysine	green
+multifunctional 2-oxoglutarate metabolism enzyme	2.2.1.5	CoA	Enzyme N6-(dihydrolipoyl)lysine	green
+multifunctional 2-oxoglutarate metabolism enzyme	2.2.1.5	CoA	Succinyl-CoA	green
+multifunctional 2-oxoglutarate metabolism enzyme	2.2.1.5	Enzyme N6-(dihydrolipoyl)lysine	CoA	green
+multifunctional 2-oxoglutarate metabolism enzyme	2.2.1.5	Enzyme N6-(dihydrolipoyl)lysine	[Dihydrolipoyllysine-residue succinyltransferase] S-succinyldihydrolipoyllysine	green
+multifunctional 2-oxoglutarate metabolism enzyme	2.2.1.5	Enzyme N6-(lipoyl)lysine	Thiamin diphosphate	green
+multifunctional 2-oxoglutarate metabolism enzyme	2.2.1.5	Enzyme N6-(lipoyl)lysine	[Dihydrolipoyllysine-residue succinyltransferase] S-succinyldihydrolipoyllysine	green
+multifunctional 2-oxoglutarate metabolism enzyme	2.2.1.5	Succinyl-CoA	CoA	green
+multifunctional 2-oxoglutarate metabolism enzyme	2.2.1.5	Succinyl-CoA	[Dihydrolipoyllysine-residue succinyltransferase] S-succinyldihydrolipoyllysine	green
+multifunctional 2-oxoglutarate metabolism enzyme	2.2.1.5	Thiamin diphosphate	3-Carboxy-1-hydroxypropyl-ThPP	green
+multifunctional 2-oxoglutarate metabolism enzyme	2.2.1.5	Thiamin diphosphate	CO2	green
+multifunctional 2-oxoglutarate metabolism enzyme	2.2.1.5	[Dihydrolipoyllysine-residue succinyltransferase] S-succinyldihydrolipoyllysine	Enzyme N6-(dihydrolipoyl)lysine	green
+multifunctional 2-oxoglutarate metabolism enzyme	2.2.1.5	[Dihydrolipoyllysine-residue succinyltransferase] S-succinyldihydrolipoyllysine	Succinyl-CoA	green
+phosphoenolpyruvate carboxykinase (ATP)	4.1.1.49	ADP	ATP	white
+phosphoenolpyruvate carboxykinase (ATP)	4.1.1.49	ADP	Oxaloacetate	white
+phosphoenolpyruvate carboxykinase (ATP)	4.1.1.49	ATP	ADP	white
+phosphoenolpyruvate carboxykinase (ATP)	4.1.1.49	ATP	CO2	white
+phosphoenolpyruvate carboxykinase (ATP)	4.1.1.49	ATP	Phosphoenolpyruvate	white
+phosphoenolpyruvate carboxykinase (ATP)	4.1.1.49	CO2	ATP	white
+phosphoenolpyruvate carboxykinase (ATP)	4.1.1.49	CO2	Oxaloacetate	white
+phosphoenolpyruvate carboxykinase (ATP)	4.1.1.49	Oxaloacetate	ADP	white
+phosphoenolpyruvate carboxykinase (ATP)	4.1.1.49	Oxaloacetate	CO2	white
+phosphoenolpyruvate carboxykinase (ATP)	4.1.1.49	Oxaloacetate	Phosphoenolpyruvate	white
+phosphoenolpyruvate carboxykinase (ATP)	4.1.1.49	Phosphoenolpyruvate	ATP	white
+phosphoenolpyruvate carboxykinase (ATP)	4.1.1.49	Phosphoenolpyruvate	Oxaloacetate	white
+phosphoenolpyruvate carboxykinase (GTP)	4.1.1.32	GTP	CO2	green
+phosphoenolpyruvate carboxykinase (GTP)	4.1.1.32	GTP	GDP	green
+phosphoenolpyruvate carboxykinase (GTP)	4.1.1.32	GTP	Phosphoenolpyruvate	green
+phosphoenolpyruvate carboxykinase (GTP)	4.1.1.32	ITP	CO2	green
+phosphoenolpyruvate carboxykinase (GTP)	4.1.1.32	ITP	IDP	green
+phosphoenolpyruvate carboxykinase (GTP)	4.1.1.32	ITP	Phosphoenolpyruvate	green
+phosphoenolpyruvate carboxykinase (GTP)	4.1.1.32	Oxaloacetate	CO2	green
+phosphoenolpyruvate carboxykinase (GTP)	4.1.1.32	Oxaloacetate	GDP	green
+phosphoenolpyruvate carboxykinase (GTP)	4.1.1.32	Oxaloacetate	IDP	green
+phosphoenolpyruvate carboxykinase (GTP)	4.1.1.32	Oxaloacetate	Phosphoenolpyruvate	green
+pyruvate carboxylase	6.4.1.1	ATP	ADP	green
+pyruvate carboxylase	6.4.1.1	ATP	Orthophosphate	green
+pyruvate carboxylase	6.4.1.1	ATP	Oxaloacetate	green
+pyruvate carboxylase	6.4.1.1	HCO3-	ADP	green
+pyruvate carboxylase	6.4.1.1	HCO3-	Orthophosphate	green
+pyruvate carboxylase	6.4.1.1	HCO3-	Oxaloacetate	green
+pyruvate carboxylase	6.4.1.1	Pyruvate	ADP	green
+pyruvate carboxylase	6.4.1.1	Pyruvate	Orthophosphate	green
+pyruvate carboxylase	6.4.1.1	Pyruvate	Oxaloacetate	green
+pyruvate dehydrogenase E1 component	1.2.4.1	2-(alpha-Hydroxyethyl)thiamine diphosphate	Thiamin diphosphate	green
+pyruvate dehydrogenase E1 component	1.2.4.1	2-(alpha-Hydroxyethyl)thiamine diphosphate	[Dihydrolipoyllysine-residue acetyltransferase] S-acetyldihydrolipoyllysine	green
+pyruvate dehydrogenase E1 component	1.2.4.1	Enzyme N6-(lipoyl)lysine	Thiamin diphosphate	green
+pyruvate dehydrogenase E1 component	1.2.4.1	Enzyme N6-(lipoyl)lysine	[Dihydrolipoyllysine-residue acetyltransferase] S-acetyldihydrolipoyllysine	green
+pyruvate dehydrogenase E1 component	1.2.4.1	Pyruvate	2-(alpha-Hydroxyethyl)thiamine diphosphate	green
+pyruvate dehydrogenase E1 component	1.2.4.1	Pyruvate	CO2	green
+pyruvate dehydrogenase E1 component	1.2.4.1	Thiamin diphosphate	2-(alpha-Hydroxyethyl)thiamine diphosphate	green
+pyruvate dehydrogenase E1 component	1.2.4.1	Thiamin diphosphate	CO2	green
+pyruvate dehydrogenase E2 component (dihydrolipoyllysine-residue acetyltransferase)	2.3.1.12	Acetyl-CoA	CoA	green
+pyruvate dehydrogenase E2 component (dihydrolipoyllysine-residue acetyltransferase)	2.3.1.12	Acetyl-CoA	[Dihydrolipoyllysine-residue acetyltransferase] S-acetyldihydrolipoyllysine	green
+pyruvate dehydrogenase E2 component (dihydrolipoyllysine-residue acetyltransferase)	2.3.1.12	CoA	Acetyl-CoA	green
+pyruvate dehydrogenase E2 component (dihydrolipoyllysine-residue acetyltransferase)	2.3.1.12	CoA	Enzyme N6-(dihydrolipoyl)lysine	green
+pyruvate dehydrogenase E2 component (dihydrolipoyllysine-residue acetyltransferase)	2.3.1.12	Enzyme N6-(dihydrolipoyl)lysine	CoA	green
+pyruvate dehydrogenase E2 component (dihydrolipoyllysine-residue acetyltransferase)	2.3.1.12	Enzyme N6-(dihydrolipoyl)lysine	[Dihydrolipoyllysine-residue acetyltransferase] S-acetyldihydrolipoyllysine	green
+pyruvate dehydrogenase E2 component (dihydrolipoyllysine-residue acetyltransferase)	2.3.1.12	[Dihydrolipoyllysine-residue acetyltransferase] S-acetyldihydrolipoyllysine	Acetyl-CoA	green
+pyruvate dehydrogenase E2 component (dihydrolipoyllysine-residue acetyltransferase)	2.3.1.12	[Dihydrolipoyllysine-residue acetyltransferase] S-acetyldihydrolipoyllysine	Enzyme N6-(dihydrolipoyl)lysine	green
+pyruvate ferredoxin oxidoreductase alpha subunit	1.2.7.1	Acetyl-CoA	CoA	white
+pyruvate ferredoxin oxidoreductase alpha subunit	1.2.7.1	Acetyl-CoA	Oxidized ferredoxin	white
+pyruvate ferredoxin oxidoreductase alpha subunit	1.2.7.1	Acetyl-CoA	Pyruvate	white
+pyruvate ferredoxin oxidoreductase alpha subunit	1.2.7.1	CO2	CoA	white
+pyruvate ferredoxin oxidoreductase alpha subunit	1.2.7.1	CO2	Oxidized ferredoxin	white
+pyruvate ferredoxin oxidoreductase alpha subunit	1.2.7.1	CO2	Pyruvate	white
+pyruvate ferredoxin oxidoreductase alpha subunit	1.2.7.1	CoA	Acetyl-CoA	white
+pyruvate ferredoxin oxidoreductase alpha subunit	1.2.7.1	CoA	CO2	white
+pyruvate ferredoxin oxidoreductase alpha subunit	1.2.7.1	CoA	H+	white
+pyruvate ferredoxin oxidoreductase alpha subunit	1.2.7.1	CoA	Reduced ferredoxin	white
+pyruvate ferredoxin oxidoreductase alpha subunit	1.2.7.1	H+	CoA	white
+pyruvate ferredoxin oxidoreductase alpha subunit	1.2.7.1	H+	Oxidized ferredoxin	white
+pyruvate ferredoxin oxidoreductase alpha subunit	1.2.7.1	H+	Pyruvate	white
+pyruvate ferredoxin oxidoreductase alpha subunit	1.2.7.1	Oxidized ferredoxin	Acetyl-CoA	white
+pyruvate ferredoxin oxidoreductase alpha subunit	1.2.7.1	Oxidized ferredoxin	CO2	white
+pyruvate ferredoxin oxidoreductase alpha subunit	1.2.7.1	Oxidized ferredoxin	H+	white
+pyruvate ferredoxin oxidoreductase alpha subunit	1.2.7.1	Oxidized ferredoxin	Reduced ferredoxin	white
+pyruvate ferredoxin oxidoreductase alpha subunit	1.2.7.1	Pyruvate	Acetyl-CoA	white
+pyruvate ferredoxin oxidoreductase alpha subunit	1.2.7.1	Pyruvate	CO2	white
+pyruvate ferredoxin oxidoreductase alpha subunit	1.2.7.1	Pyruvate	H+	white
+pyruvate ferredoxin oxidoreductase alpha subunit	1.2.7.1	Pyruvate	Reduced ferredoxin	white
+pyruvate ferredoxin oxidoreductase alpha subunit	1.2.7.1	Reduced ferredoxin	CoA	white
+pyruvate ferredoxin oxidoreductase alpha subunit	1.2.7.1	Reduced ferredoxin	Oxidized ferredoxin	white
+pyruvate ferredoxin oxidoreductase alpha subunit	1.2.7.1	Reduced ferredoxin	Pyruvate	white
+pyruvate ferredoxin oxidoreductase beta subunit	1.2.7.1	Acetyl-CoA	CoA	white
+pyruvate ferredoxin oxidoreductase beta subunit	1.2.7.1	Acetyl-CoA	Oxidized ferredoxin	white
+pyruvate ferredoxin oxidoreductase beta subunit	1.2.7.1	Acetyl-CoA	Pyruvate	white
+pyruvate ferredoxin oxidoreductase beta subunit	1.2.7.1	CO2	CoA	white
+pyruvate ferredoxin oxidoreductase beta subunit	1.2.7.1	CO2	Oxidized ferredoxin	white
+pyruvate ferredoxin oxidoreductase beta subunit	1.2.7.1	CO2	Pyruvate	white
+pyruvate ferredoxin oxidoreductase beta subunit	1.2.7.1	CoA	Acetyl-CoA	white
+pyruvate ferredoxin oxidoreductase beta subunit	1.2.7.1	CoA	CO2	white
+pyruvate ferredoxin oxidoreductase beta subunit	1.2.7.1	CoA	H+	white
+pyruvate ferredoxin oxidoreductase beta subunit	1.2.7.1	CoA	Reduced ferredoxin	white
+pyruvate ferredoxin oxidoreductase beta subunit	1.2.7.1	H+	CoA	white
+pyruvate ferredoxin oxidoreductase beta subunit	1.2.7.1	H+	Oxidized ferredoxin	white
+pyruvate ferredoxin oxidoreductase beta subunit	1.2.7.1	H+	Pyruvate	white
+pyruvate ferredoxin oxidoreductase beta subunit	1.2.7.1	Oxidized ferredoxin	Acetyl-CoA	white
+pyruvate ferredoxin oxidoreductase beta subunit	1.2.7.1	Oxidized ferredoxin	CO2	white
+pyruvate ferredoxin oxidoreductase beta subunit	1.2.7.1	Oxidized ferredoxin	H+	white
+pyruvate ferredoxin oxidoreductase beta subunit	1.2.7.1	Oxidized ferredoxin	Reduced ferredoxin	white
+pyruvate ferredoxin oxidoreductase beta subunit	1.2.7.1	Pyruvate	Acetyl-CoA	white
+pyruvate ferredoxin oxidoreductase beta subunit	1.2.7.1	Pyruvate	CO2	white
+pyruvate ferredoxin oxidoreductase beta subunit	1.2.7.1	Pyruvate	H+	white
+pyruvate ferredoxin oxidoreductase beta subunit	1.2.7.1	Pyruvate	Reduced ferredoxin	white
+pyruvate ferredoxin oxidoreductase beta subunit	1.2.7.1	Reduced ferredoxin	CoA	white
+pyruvate ferredoxin oxidoreductase beta subunit	1.2.7.1	Reduced ferredoxin	Oxidized ferredoxin	white
+pyruvate ferredoxin oxidoreductase beta subunit	1.2.7.1	Reduced ferredoxin	Pyruvate	white
+pyruvate ferredoxin oxidoreductase delta subunit	1.2.7.1	Acetyl-CoA	CoA	white
+pyruvate ferredoxin oxidoreductase delta subunit	1.2.7.1	Acetyl-CoA	Oxidized ferredoxin	white
+pyruvate ferredoxin oxidoreductase delta subunit	1.2.7.1	Acetyl-CoA	Pyruvate	white
+pyruvate ferredoxin oxidoreductase delta subunit	1.2.7.1	CO2	CoA	white
+pyruvate ferredoxin oxidoreductase delta subunit	1.2.7.1	CO2	Oxidized ferredoxin	white
+pyruvate ferredoxin oxidoreductase delta subunit	1.2.7.1	CO2	Pyruvate	white
+pyruvate ferredoxin oxidoreductase delta subunit	1.2.7.1	CoA	Acetyl-CoA	white
+pyruvate ferredoxin oxidoreductase delta subunit	1.2.7.1	CoA	CO2	white
+pyruvate ferredoxin oxidoreductase delta subunit	1.2.7.1	CoA	H+	white
+pyruvate ferredoxin oxidoreductase delta subunit	1.2.7.1	CoA	Reduced ferredoxin	white
+pyruvate ferredoxin oxidoreductase delta subunit	1.2.7.1	H+	CoA	white
+pyruvate ferredoxin oxidoreductase delta subunit	1.2.7.1	H+	Oxidized ferredoxin	white
+pyruvate ferredoxin oxidoreductase delta subunit	1.2.7.1	H+	Pyruvate	white
+pyruvate ferredoxin oxidoreductase delta subunit	1.2.7.1	Oxidized ferredoxin	Acetyl-CoA	white
+pyruvate ferredoxin oxidoreductase delta subunit	1.2.7.1	Oxidized ferredoxin	CO2	white
+pyruvate ferredoxin oxidoreductase delta subunit	1.2.7.1	Oxidized ferredoxin	H+	white
+pyruvate ferredoxin oxidoreductase delta subunit	1.2.7.1	Oxidized ferredoxin	Reduced ferredoxin	white
+pyruvate ferredoxin oxidoreductase delta subunit	1.2.7.1	Pyruvate	Acetyl-CoA	white
+pyruvate ferredoxin oxidoreductase delta subunit	1.2.7.1	Pyruvate	CO2	white
+pyruvate ferredoxin oxidoreductase delta subunit	1.2.7.1	Pyruvate	H+	white
+pyruvate ferredoxin oxidoreductase delta subunit	1.2.7.1	Pyruvate	Reduced ferredoxin	white
+pyruvate ferredoxin oxidoreductase delta subunit	1.2.7.1	Reduced ferredoxin	CoA	white
+pyruvate ferredoxin oxidoreductase delta subunit	1.2.7.1	Reduced ferredoxin	Oxidized ferredoxin	white
+pyruvate ferredoxin oxidoreductase delta subunit	1.2.7.1	Reduced ferredoxin	Pyruvate	white
+pyruvate ferredoxin oxidoreductase gamma subunit	1.2.7.1	Acetyl-CoA	CoA	white
+pyruvate ferredoxin oxidoreductase gamma subunit	1.2.7.1	Acetyl-CoA	Oxidized ferredoxin	white
+pyruvate ferredoxin oxidoreductase gamma subunit	1.2.7.1	Acetyl-CoA	Pyruvate	white
+pyruvate ferredoxin oxidoreductase gamma subunit	1.2.7.1	CO2	CoA	white
+pyruvate ferredoxin oxidoreductase gamma subunit	1.2.7.1	CO2	Oxidized ferredoxin	white
+pyruvate ferredoxin oxidoreductase gamma subunit	1.2.7.1	CO2	Pyruvate	white
+pyruvate ferredoxin oxidoreductase gamma subunit	1.2.7.1	CoA	Acetyl-CoA	white
+pyruvate ferredoxin oxidoreductase gamma subunit	1.2.7.1	CoA	CO2	white
+pyruvate ferredoxin oxidoreductase gamma subunit	1.2.7.1	CoA	H+	white
+pyruvate ferredoxin oxidoreductase gamma subunit	1.2.7.1	CoA	Reduced ferredoxin	white
+pyruvate ferredoxin oxidoreductase gamma subunit	1.2.7.1	H+	CoA	white
+pyruvate ferredoxin oxidoreductase gamma subunit	1.2.7.1	H+	Oxidized ferredoxin	white
+pyruvate ferredoxin oxidoreductase gamma subunit	1.2.7.1	H+	Pyruvate	white
+pyruvate ferredoxin oxidoreductase gamma subunit	1.2.7.1	Oxidized ferredoxin	Acetyl-CoA	white
+pyruvate ferredoxin oxidoreductase gamma subunit	1.2.7.1	Oxidized ferredoxin	CO2	white
+pyruvate ferredoxin oxidoreductase gamma subunit	1.2.7.1	Oxidized ferredoxin	H+	white
+pyruvate ferredoxin oxidoreductase gamma subunit	1.2.7.1	Oxidized ferredoxin	Reduced ferredoxin	white
+pyruvate ferredoxin oxidoreductase gamma subunit	1.2.7.1	Pyruvate	Acetyl-CoA	white
+pyruvate ferredoxin oxidoreductase gamma subunit	1.2.7.1	Pyruvate	CO2	white
+pyruvate ferredoxin oxidoreductase gamma subunit	1.2.7.1	Pyruvate	H+	white
+pyruvate ferredoxin oxidoreductase gamma subunit	1.2.7.1	Pyruvate	Reduced ferredoxin	white
+pyruvate ferredoxin oxidoreductase gamma subunit	1.2.7.1	Reduced ferredoxin	CoA	white
+pyruvate ferredoxin oxidoreductase gamma subunit	1.2.7.1	Reduced ferredoxin	Oxidized ferredoxin	white
+pyruvate ferredoxin oxidoreductase gamma subunit	1.2.7.1	Reduced ferredoxin	Pyruvate	white
+pyruvate-ferredoxin/flavodoxin oxidoreductase	1.2.7.1	Acetyl-CoA	CoA	white
+pyruvate-ferredoxin/flavodoxin oxidoreductase	1.2.7.1	Acetyl-CoA	Oxidized ferredoxin	white
+pyruvate-ferredoxin/flavodoxin oxidoreductase	1.2.7.1	Acetyl-CoA	Pyruvate	white
+pyruvate-ferredoxin/flavodoxin oxidoreductase	1.2.7.1	CO2	CoA	white
+pyruvate-ferredoxin/flavodoxin oxidoreductase	1.2.7.1	CO2	Oxidized ferredoxin	white
+pyruvate-ferredoxin/flavodoxin oxidoreductase	1.2.7.1	CO2	Pyruvate	white
+pyruvate-ferredoxin/flavodoxin oxidoreductase	1.2.7.1	CoA	Acetyl-CoA	white
+pyruvate-ferredoxin/flavodoxin oxidoreductase	1.2.7.1	CoA	CO2	white
+pyruvate-ferredoxin/flavodoxin oxidoreductase	1.2.7.1	CoA	H+	white
+pyruvate-ferredoxin/flavodoxin oxidoreductase	1.2.7.1	CoA	Reduced ferredoxin	white
+pyruvate-ferredoxin/flavodoxin oxidoreductase	1.2.7.1	H+	CoA	white
+pyruvate-ferredoxin/flavodoxin oxidoreductase	1.2.7.1	H+	Oxidized ferredoxin	white
+pyruvate-ferredoxin/flavodoxin oxidoreductase	1.2.7.1	H+	Pyruvate	white
+pyruvate-ferredoxin/flavodoxin oxidoreductase	1.2.7.1	Oxidized ferredoxin	Acetyl-CoA	white
+pyruvate-ferredoxin/flavodoxin oxidoreductase	1.2.7.1	Oxidized ferredoxin	CO2	white
+pyruvate-ferredoxin/flavodoxin oxidoreductase	1.2.7.1	Oxidized ferredoxin	H+	white
+pyruvate-ferredoxin/flavodoxin oxidoreductase	1.2.7.1	Oxidized ferredoxin	Reduced ferredoxin	white
+pyruvate-ferredoxin/flavodoxin oxidoreductase	1.2.7.1	Pyruvate	Acetyl-CoA	white
+pyruvate-ferredoxin/flavodoxin oxidoreductase	1.2.7.1	Pyruvate	CO2	white
+pyruvate-ferredoxin/flavodoxin oxidoreductase	1.2.7.1	Pyruvate	H+	white
+pyruvate-ferredoxin/flavodoxin oxidoreductase	1.2.7.1	Pyruvate	Reduced ferredoxin	white
+pyruvate-ferredoxin/flavodoxin oxidoreductase	1.2.7.1	Reduced ferredoxin	CoA	white
+pyruvate-ferredoxin/flavodoxin oxidoreductase	1.2.7.1	Reduced ferredoxin	Oxidized ferredoxin	white
+pyruvate-ferredoxin/flavodoxin oxidoreductase	1.2.7.1	Reduced ferredoxin	Pyruvate	white
+succinate dehydrogenase cytochrome b subunit	1.3.5.1	Fumarate	Quinone	green
+succinate dehydrogenase cytochrome b subunit	1.3.5.1	Fumarate	Succinate	green
+succinate dehydrogenase cytochrome b subunit	1.3.5.1	Hydroquinone	Quinone	green
+succinate dehydrogenase cytochrome b subunit	1.3.5.1	Hydroquinone	Succinate	green
+succinate dehydrogenase cytochrome b subunit	1.3.5.1	Quinone	Fumarate	green
+succinate dehydrogenase cytochrome b subunit	1.3.5.1	Quinone	Hydroquinone	green
+succinate dehydrogenase cytochrome b subunit	1.3.5.1	Succinate	Fumarate	green
+succinate dehydrogenase cytochrome b subunit	1.3.5.1	Succinate	Hydroquinone	green
+succinate dehydrogenase flavoprotein subunit	1.3.5.1	Fumarate	Quinone	green
+succinate dehydrogenase flavoprotein subunit	1.3.5.1	Fumarate	Succinate	green
+succinate dehydrogenase flavoprotein subunit	1.3.5.1	Hydroquinone	Quinone	green
+succinate dehydrogenase flavoprotein subunit	1.3.5.1	Hydroquinone	Succinate	green
+succinate dehydrogenase flavoprotein subunit	1.3.5.1	Quinone	Fumarate	green
+succinate dehydrogenase flavoprotein subunit	1.3.5.1	Quinone	Hydroquinone	green
+succinate dehydrogenase flavoprotein subunit	1.3.5.1	Succinate	Fumarate	green
+succinate dehydrogenase flavoprotein subunit	1.3.5.1	Succinate	Hydroquinone	green
+succinate dehydrogenase iron-sulfur subunit	1.3.5.1	Fumarate	Quinone	green
+succinate dehydrogenase iron-sulfur subunit	1.3.5.1	Fumarate	Succinate	green
+succinate dehydrogenase iron-sulfur subunit	1.3.5.1	Hydroquinone	Quinone	green
+succinate dehydrogenase iron-sulfur subunit	1.3.5.1	Hydroquinone	Succinate	green
+succinate dehydrogenase iron-sulfur subunit	1.3.5.1	Quinone	Fumarate	green
+succinate dehydrogenase iron-sulfur subunit	1.3.5.1	Quinone	Hydroquinone	green
+succinate dehydrogenase iron-sulfur subunit	1.3.5.1	Succinate	Fumarate	green
+succinate dehydrogenase iron-sulfur subunit	1.3.5.1	Succinate	Hydroquinone	green
+succinate dehydrogenase membrane anchor subunit	1.3.5.1	Fumarate	Quinone	green
+succinate dehydrogenase membrane anchor subunit	1.3.5.1	Fumarate	Succinate	green
+succinate dehydrogenase membrane anchor subunit	1.3.5.1	Hydroquinone	Quinone	green
+succinate dehydrogenase membrane anchor subunit	1.3.5.1	Hydroquinone	Succinate	green
+succinate dehydrogenase membrane anchor subunit	1.3.5.1	Quinone	Fumarate	green
+succinate dehydrogenase membrane anchor subunit	1.3.5.1	Quinone	Hydroquinone	green
+succinate dehydrogenase membrane anchor subunit	1.3.5.1	Succinate	Fumarate	green
+succinate dehydrogenase membrane anchor subunit	1.3.5.1	Succinate	Hydroquinone	green
+succinyl-CoA synthetase alpha subunit	6.2.1.5	ADP	ATP	green
+succinyl-CoA synthetase alpha subunit	6.2.1.5	ADP	ATP	white
+succinyl-CoA synthetase alpha subunit	6.2.1.5	ADP	CoA	green
+succinyl-CoA synthetase alpha subunit	6.2.1.5	ADP	CoA	white
+succinyl-CoA synthetase alpha subunit	6.2.1.5	ADP	Succinate	green
+succinyl-CoA synthetase alpha subunit	6.2.1.5	ADP	Succinate	white
+succinyl-CoA synthetase alpha subunit	6.2.1.5	ATP	ADP	green
+succinyl-CoA synthetase alpha subunit	6.2.1.5	ATP	ADP	white
+succinyl-CoA synthetase alpha subunit	6.2.1.5	ATP	Orthophosphate	green
+succinyl-CoA synthetase alpha subunit	6.2.1.5	ATP	Orthophosphate	white
+succinyl-CoA synthetase alpha subunit	6.2.1.5	ATP	Succinyl-CoA	green
+succinyl-CoA synthetase alpha subunit	6.2.1.5	ATP	Succinyl-CoA	white
+succinyl-CoA synthetase alpha subunit	6.2.1.5	CoA	ADP	green
+succinyl-CoA synthetase alpha subunit	6.2.1.5	CoA	ADP	white
+succinyl-CoA synthetase alpha subunit	6.2.1.5	CoA	Orthophosphate	green
+succinyl-CoA synthetase alpha subunit	6.2.1.5	CoA	Orthophosphate	white
+succinyl-CoA synthetase alpha subunit	6.2.1.5	CoA	Succinyl-CoA	green
+succinyl-CoA synthetase alpha subunit	6.2.1.5	CoA	Succinyl-CoA	white
+succinyl-CoA synthetase alpha subunit	6.2.1.5	Orthophosphate	ATP	green
+succinyl-CoA synthetase alpha subunit	6.2.1.5	Orthophosphate	ATP	white
+succinyl-CoA synthetase alpha subunit	6.2.1.5	Orthophosphate	CoA	green
+succinyl-CoA synthetase alpha subunit	6.2.1.5	Orthophosphate	CoA	white
+succinyl-CoA synthetase alpha subunit	6.2.1.5	Orthophosphate	Succinate	green
+succinyl-CoA synthetase alpha subunit	6.2.1.5	Orthophosphate	Succinate	white
+succinyl-CoA synthetase alpha subunit	6.2.1.5	Succinate	ADP	green
+succinyl-CoA synthetase alpha subunit	6.2.1.5	Succinate	ADP	white
+succinyl-CoA synthetase alpha subunit	6.2.1.5	Succinate	Orthophosphate	green
+succinyl-CoA synthetase alpha subunit	6.2.1.5	Succinate	Orthophosphate	white
+succinyl-CoA synthetase alpha subunit	6.2.1.5	Succinate	Succinyl-CoA	green
+succinyl-CoA synthetase alpha subunit	6.2.1.5	Succinate	Succinyl-CoA	white
+succinyl-CoA synthetase alpha subunit	6.2.1.5	Succinyl-CoA	ATP	green
+succinyl-CoA synthetase alpha subunit	6.2.1.5	Succinyl-CoA	ATP	white
+succinyl-CoA synthetase alpha subunit	6.2.1.5	Succinyl-CoA	CoA	green
+succinyl-CoA synthetase alpha subunit	6.2.1.5	Succinyl-CoA	CoA	white
+succinyl-CoA synthetase alpha subunit	6.2.1.5	Succinyl-CoA	Succinate	green
+succinyl-CoA synthetase alpha subunit	6.2.1.5	Succinyl-CoA	Succinate	white
+succinyl-CoA synthetase beta subunit	6.2.1.5	ADP	ATP	green
+succinyl-CoA synthetase beta subunit	6.2.1.5	ADP	ATP	white
+succinyl-CoA synthetase beta subunit	6.2.1.5	ADP	CoA	green
+succinyl-CoA synthetase beta subunit	6.2.1.5	ADP	CoA	white
+succinyl-CoA synthetase beta subunit	6.2.1.5	ADP	Succinate	green
+succinyl-CoA synthetase beta subunit	6.2.1.5	ADP	Succinate	white
+succinyl-CoA synthetase beta subunit	6.2.1.5	ATP	ADP	green
+succinyl-CoA synthetase beta subunit	6.2.1.5	ATP	ADP	white
+succinyl-CoA synthetase beta subunit	6.2.1.5	ATP	Orthophosphate	green
+succinyl-CoA synthetase beta subunit	6.2.1.5	ATP	Orthophosphate	white
+succinyl-CoA synthetase beta subunit	6.2.1.5	ATP	Succinyl-CoA	green
+succinyl-CoA synthetase beta subunit	6.2.1.5	ATP	Succinyl-CoA	white
+succinyl-CoA synthetase beta subunit	6.2.1.5	CoA	ADP	green
+succinyl-CoA synthetase beta subunit	6.2.1.5	CoA	ADP	white
+succinyl-CoA synthetase beta subunit	6.2.1.5	CoA	Orthophosphate	green
+succinyl-CoA synthetase beta subunit	6.2.1.5	CoA	Orthophosphate	white
+succinyl-CoA synthetase beta subunit	6.2.1.5	CoA	Succinyl-CoA	green
+succinyl-CoA synthetase beta subunit	6.2.1.5	CoA	Succinyl-CoA	white
+succinyl-CoA synthetase beta subunit	6.2.1.5	Orthophosphate	ATP	green
+succinyl-CoA synthetase beta subunit	6.2.1.5	Orthophosphate	ATP	white
+succinyl-CoA synthetase beta subunit	6.2.1.5	Orthophosphate	CoA	green
+succinyl-CoA synthetase beta subunit	6.2.1.5	Orthophosphate	CoA	white
+succinyl-CoA synthetase beta subunit	6.2.1.5	Orthophosphate	Succinate	green
+succinyl-CoA synthetase beta subunit	6.2.1.5	Orthophosphate	Succinate	white
+succinyl-CoA synthetase beta subunit	6.2.1.5	Succinate	ADP	green
+succinyl-CoA synthetase beta subunit	6.2.1.5	Succinate	ADP	white
+succinyl-CoA synthetase beta subunit	6.2.1.5	Succinate	Orthophosphate	green
+succinyl-CoA synthetase beta subunit	6.2.1.5	Succinate	Orthophosphate	white
+succinyl-CoA synthetase beta subunit	6.2.1.5	Succinate	Succinyl-CoA	green
+succinyl-CoA synthetase beta subunit	6.2.1.5	Succinate	Succinyl-CoA	white
+succinyl-CoA synthetase beta subunit	6.2.1.5	Succinyl-CoA	ATP	green
+succinyl-CoA synthetase beta subunit	6.2.1.5	Succinyl-CoA	ATP	white
+succinyl-CoA synthetase beta subunit	6.2.1.5	Succinyl-CoA	CoA	green
+succinyl-CoA synthetase beta subunit	6.2.1.5	Succinyl-CoA	CoA	white
+succinyl-CoA synthetase beta subunit	6.2.1.5	Succinyl-CoA	Succinate	green
+succinyl-CoA synthetase beta subunit	6.2.1.5	Succinyl-CoA	Succinate	white
+succinyl-CoA:acetate CoA-transferase	2.8.3.18	Acetate	Acetyl-CoA	white
+succinyl-CoA:acetate CoA-transferase	2.8.3.18	Acetate	Succinate	white
+succinyl-CoA:acetate CoA-transferase	2.8.3.18	Acetyl-CoA	Acetate	white
+succinyl-CoA:acetate CoA-transferase	2.8.3.18	Acetyl-CoA	Succinyl-CoA	white
+succinyl-CoA:acetate CoA-transferase	2.8.3.18	Succinate	Acetate	white
+succinyl-CoA:acetate CoA-transferase	2.8.3.18	Succinate	Succinyl-CoA	white
+succinyl-CoA:acetate CoA-transferase	2.8.3.18	Succinyl-CoA	Acetyl-CoA	white
+succinyl-CoA:acetate CoA-transferase	2.8.3.18	Succinyl-CoA	Succinate	white

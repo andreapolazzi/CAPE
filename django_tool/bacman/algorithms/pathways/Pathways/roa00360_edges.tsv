@@ -1,0 +1,760 @@
+enzyme_name	EC	source	target	color
+2,3-dihydroxy-2,3-dihydrophenylpropionate dehydrogenase	1.3.1.87	3-(2,3-Dihydroxyphenyl)propanoate	NAD+	white
+2,3-dihydroxy-2,3-dihydrophenylpropionate dehydrogenase	1.3.1.87	3-(2,3-Dihydroxyphenyl)propanoate	cis-3-(Carboxy-ethyl)-3,5-cyclo-hexadiene-1,2-diol	white
+2,3-dihydroxy-2,3-dihydrophenylpropionate dehydrogenase	1.3.1.87	H+	NAD+	white
+2,3-dihydroxy-2,3-dihydrophenylpropionate dehydrogenase	1.3.1.87	H+	cis-3-(Carboxy-ethyl)-3,5-cyclo-hexadiene-1,2-diol	white
+2,3-dihydroxy-2,3-dihydrophenylpropionate dehydrogenase	1.3.1.87	NAD+	3-(2,3-Dihydroxyphenyl)propanoate	white
+2,3-dihydroxy-2,3-dihydrophenylpropionate dehydrogenase	1.3.1.87	NAD+	H+	white
+2,3-dihydroxy-2,3-dihydrophenylpropionate dehydrogenase	1.3.1.87	NAD+	NADH	white
+2,3-dihydroxy-2,3-dihydrophenylpropionate dehydrogenase	1.3.1.87	NADH	NAD+	white
+2,3-dihydroxy-2,3-dihydrophenylpropionate dehydrogenase	1.3.1.87	NADH	cis-3-(Carboxy-ethyl)-3,5-cyclo-hexadiene-1,2-diol	white
+2,3-dihydroxy-2,3-dihydrophenylpropionate dehydrogenase	1.3.1.87	cis-3-(Carboxy-ethyl)-3,5-cyclo-hexadiene-1,2-diol	3-(2,3-Dihydroxyphenyl)propanoate	white
+2,3-dihydroxy-2,3-dihydrophenylpropionate dehydrogenase	1.3.1.87	cis-3-(Carboxy-ethyl)-3,5-cyclo-hexadiene-1,2-diol	H+	white
+2,3-dihydroxy-2,3-dihydrophenylpropionate dehydrogenase	1.3.1.87	cis-3-(Carboxy-ethyl)-3,5-cyclo-hexadiene-1,2-diol	NADH	white
+2,3-dihydroxyphenylpropionate 1,2-dioxygenase	1.13.11.16	3-(2,3-Dihydroxyphenyl)propanoate	2-Hydroxy-6-oxonona-2,4-diene-1,9-dioate	green
+2,3-dihydroxyphenylpropionate 1,2-dioxygenase	1.13.11.16	Oxygen	2-Hydroxy-6-ketononatrienedioate	green
+2,3-dihydroxyphenylpropionate 1,2-dioxygenase	1.13.11.16	Oxygen	2-Hydroxy-6-oxonona-2,4-diene-1,9-dioate	green
+2,3-dihydroxyphenylpropionate 1,2-dioxygenase	1.13.11.16	trans-2,3-Dihydroxycinnamate	2-Hydroxy-6-ketononatrienedioate	green
+2-(1,2-epoxy-1,2-dihydrophenyl)acetyl-CoA isomerase	5.3.3.18	2-(1,2-Epoxy-1,2-dihydrophenyl)acetyl-CoA	2-Oxepin-2(3H)-ylideneacetyl-CoA	green
+2-(1,2-epoxy-1,2-dihydrophenyl)acetyl-CoA isomerase	5.3.3.18	3-Oxo-5,6-dehydrosuberyl-CoA	5-Carboxy-2-pentenoyl-CoA	green
+2-(1,2-epoxy-1,2-dihydrophenyl)acetyl-CoA isomerase	5.3.3.18	3-Oxo-5,6-dehydrosuberyl-CoA	Acetyl-CoA	green
+2-(1,2-epoxy-1,2-dihydrophenyl)acetyl-CoA isomerase	5.3.3.18	CoA	5-Carboxy-2-pentenoyl-CoA	green
+2-(1,2-epoxy-1,2-dihydrophenyl)acetyl-CoA isomerase	5.3.3.18	CoA	Acetyl-CoA	green
+2-enoate reductase	1.3.1.31	H+	NAD+	white
+2-enoate reductase	1.3.1.31	H+	Phenylpropanoate	white
+2-enoate reductase	1.3.1.31	NAD+	H+	white
+2-enoate reductase	1.3.1.31	NAD+	NADH	white
+2-enoate reductase	1.3.1.31	NAD+	trans-Cinnamate	white
+2-enoate reductase	1.3.1.31	NADH	NAD+	white
+2-enoate reductase	1.3.1.31	NADH	Phenylpropanoate	white
+2-enoate reductase	1.3.1.31	Phenylpropanoate	H+	white
+2-enoate reductase	1.3.1.31	Phenylpropanoate	NADH	white
+2-enoate reductase	1.3.1.31	Phenylpropanoate	trans-Cinnamate	white
+2-enoate reductase	1.3.1.31	trans-Cinnamate	NAD+	white
+2-enoate reductase	1.3.1.31	trans-Cinnamate	Phenylpropanoate	white
+2-hydroxy-6-oxonona-2,4-dienedioate hydrolase	3.7.1.14	2-Hydroxy-2,4-pentadienoate	2-Hydroxy-6-oxonona-2,4-diene-1,9-dioate	green
+2-hydroxy-6-oxonona-2,4-dienedioate hydrolase	3.7.1.14	2-Hydroxy-2,4-pentadienoate	H2O	green
+2-hydroxy-6-oxonona-2,4-dienedioate hydrolase	3.7.1.14	2-Hydroxy-6-ketononatrienedioate	2-Hydroxy-2,4-pentadienoate	green
+2-hydroxy-6-oxonona-2,4-dienedioate hydrolase	3.7.1.14	2-Hydroxy-6-ketononatrienedioate	Fumarate	green
+2-hydroxy-6-oxonona-2,4-dienedioate hydrolase	3.7.1.14	H2O	2-Hydroxy-2,4-pentadienoate	green
+2-hydroxy-6-oxonona-2,4-dienedioate hydrolase	3.7.1.14	H2O	Fumarate	green
+2-hydroxy-6-oxonona-2,4-dienedioate hydrolase	3.7.1.14	Succinate	2-Hydroxy-6-oxonona-2,4-diene-1,9-dioate	green
+2-hydroxy-6-oxonona-2,4-dienedioate hydrolase	3.7.1.14	Succinate	H2O	green
+2-keto-4-pentenoate hydratase	4.2.1.80	2-Hydroxy-2,4-pentadienoate	4-Hydroxy-2-oxopentanoate	green
+2-keto-4-pentenoate hydratase	4.2.1.80	H2O	4-Hydroxy-2-oxopentanoate	green
+3-(3-hydroxy-phenyl)propionate hydroxylase	1.14.13.127	3-(3-Hydroxyphenyl)propanoic acid	3-(2,3-Dihydroxyphenyl)propanoate	green
+3-(3-hydroxy-phenyl)propionate hydroxylase	1.14.13.127	3-(3-Hydroxyphenyl)propanoic acid	H2O	green
+3-(3-hydroxy-phenyl)propionate hydroxylase	1.14.13.127	3-(3-Hydroxyphenyl)propanoic acid	NAD+	green
+3-(3-hydroxy-phenyl)propionate hydroxylase	1.14.13.127	H+	3-(2,3-Dihydroxyphenyl)propanoate	green
+3-(3-hydroxy-phenyl)propionate hydroxylase	1.14.13.127	H+	H2O	green
+3-(3-hydroxy-phenyl)propionate hydroxylase	1.14.13.127	H+	NAD+	green
+3-(3-hydroxy-phenyl)propionate hydroxylase	1.14.13.127	H+	trans-2,3-Dihydroxycinnamate	green
+3-(3-hydroxy-phenyl)propionate hydroxylase	1.14.13.127	NADH	3-(2,3-Dihydroxyphenyl)propanoate	green
+3-(3-hydroxy-phenyl)propionate hydroxylase	1.14.13.127	NADH	H2O	green
+3-(3-hydroxy-phenyl)propionate hydroxylase	1.14.13.127	NADH	NAD+	green
+3-(3-hydroxy-phenyl)propionate hydroxylase	1.14.13.127	NADH	trans-2,3-Dihydroxycinnamate	green
+3-(3-hydroxy-phenyl)propionate hydroxylase	1.14.13.127	Oxygen	3-(2,3-Dihydroxyphenyl)propanoate	green
+3-(3-hydroxy-phenyl)propionate hydroxylase	1.14.13.127	Oxygen	H2O	green
+3-(3-hydroxy-phenyl)propionate hydroxylase	1.14.13.127	Oxygen	NAD+	green
+3-(3-hydroxy-phenyl)propionate hydroxylase	1.14.13.127	Oxygen	trans-2,3-Dihydroxycinnamate	green
+3-(3-hydroxy-phenyl)propionate hydroxylase	1.14.13.127	trans-3-Hydroxycinnamate	H2O	green
+3-(3-hydroxy-phenyl)propionate hydroxylase	1.14.13.127	trans-3-Hydroxycinnamate	NAD+	green
+3-(3-hydroxy-phenyl)propionate hydroxylase	1.14.13.127	trans-3-Hydroxycinnamate	trans-2,3-Dihydroxycinnamate	green
+3-hydroxybutyryl-CoA dehydrogenase	1.1.1.157	(3S)-3-Hydroxyadipyl-CoA	3-Oxoadipyl-CoA	green
+3-hydroxybutyryl-CoA dehydrogenase	1.1.1.157	(3S)-3-Hydroxyadipyl-CoA	H+	green
+3-hydroxybutyryl-CoA dehydrogenase	1.1.1.157	(3S)-3-Hydroxyadipyl-CoA	NADH	green
+3-hydroxybutyryl-CoA dehydrogenase	1.1.1.157	NAD+	3-Oxoadipyl-CoA	green
+3-hydroxybutyryl-CoA dehydrogenase	1.1.1.157	NAD+	H+	green
+3-hydroxybutyryl-CoA dehydrogenase	1.1.1.157	NAD+	NADH	green
+3-oxo-5,6-didehydrosuberyl-CoA/3-oxoadipyl-CoA thiolase	2.3.1.223	3-Oxoadipyl-CoA	Acetyl-CoA	white
+3-oxo-5,6-didehydrosuberyl-CoA/3-oxoadipyl-CoA thiolase	2.3.1.223	3-Oxoadipyl-CoA	Succinyl-CoA	white
+3-oxo-5,6-didehydrosuberyl-CoA/3-oxoadipyl-CoA thiolase	2.3.1.223	Acetyl-CoA	3-Oxoadipyl-CoA	white
+3-oxo-5,6-didehydrosuberyl-CoA/3-oxoadipyl-CoA thiolase	2.3.1.223	Acetyl-CoA	CoA	white
+3-oxo-5,6-didehydrosuberyl-CoA/3-oxoadipyl-CoA thiolase	2.3.1.223	CoA	Acetyl-CoA	white
+3-oxo-5,6-didehydrosuberyl-CoA/3-oxoadipyl-CoA thiolase	2.3.1.223	CoA	Succinyl-CoA	white
+3-oxo-5,6-didehydrosuberyl-CoA/3-oxoadipyl-CoA thiolase	2.3.1.223	Succinyl-CoA	3-Oxoadipyl-CoA	white
+3-oxo-5,6-didehydrosuberyl-CoA/3-oxoadipyl-CoA thiolase	2.3.1.223	Succinyl-CoA	CoA	white
+3-phenylpropionate/trans-cinnamate dioxygenase ferredoxin component	1.4.5.1	H+	NAD+	green
+3-phenylpropionate/trans-cinnamate dioxygenase ferredoxin component	1.4.5.1	H+	cis-3-(3-Carboxyethenyl)-3,5-cyclohexadiene-1,2-diol	green
+3-phenylpropionate/trans-cinnamate dioxygenase ferredoxin component	1.4.5.1	H+	cis-3-(Carboxy-ethyl)-3,5-cyclo-hexadiene-1,2-diol	green
+3-phenylpropionate/trans-cinnamate dioxygenase ferredoxin component	1.4.5.1	NADH	NAD+	green
+3-phenylpropionate/trans-cinnamate dioxygenase ferredoxin component	1.4.5.1	NADH	cis-3-(3-Carboxyethenyl)-3,5-cyclohexadiene-1,2-diol	green
+3-phenylpropionate/trans-cinnamate dioxygenase ferredoxin component	1.4.5.1	NADH	cis-3-(Carboxy-ethyl)-3,5-cyclo-hexadiene-1,2-diol	green
+3-phenylpropionate/trans-cinnamate dioxygenase ferredoxin component	1.4.5.1	Oxygen	NAD+	green
+3-phenylpropionate/trans-cinnamate dioxygenase ferredoxin component	1.4.5.1	Oxygen	cis-3-(3-Carboxyethenyl)-3,5-cyclohexadiene-1,2-diol	green
+3-phenylpropionate/trans-cinnamate dioxygenase ferredoxin component	1.4.5.1	Oxygen	cis-3-(Carboxy-ethyl)-3,5-cyclo-hexadiene-1,2-diol	green
+3-phenylpropionate/trans-cinnamate dioxygenase ferredoxin component	1.4.5.1	Phenylpropanoate	NAD+	green
+3-phenylpropionate/trans-cinnamate dioxygenase ferredoxin component	1.4.5.1	Phenylpropanoate	cis-3-(Carboxy-ethyl)-3,5-cyclo-hexadiene-1,2-diol	green
+3-phenylpropionate/trans-cinnamate dioxygenase ferredoxin component	1.4.5.1	trans-Cinnamate	NAD+	green
+3-phenylpropionate/trans-cinnamate dioxygenase ferredoxin component	1.4.5.1	trans-Cinnamate	cis-3-(3-Carboxyethenyl)-3,5-cyclohexadiene-1,2-diol	green
+3-phenylpropionate/trans-cinnamate dioxygenase ferredoxin reductase component	1.18.1.3	H+	NAD+	green
+3-phenylpropionate/trans-cinnamate dioxygenase ferredoxin reductase component	1.18.1.3	H+	cis-3-(3-Carboxyethenyl)-3,5-cyclohexadiene-1,2-diol	green
+3-phenylpropionate/trans-cinnamate dioxygenase ferredoxin reductase component	1.18.1.3	H+	cis-3-(Carboxy-ethyl)-3,5-cyclo-hexadiene-1,2-diol	green
+3-phenylpropionate/trans-cinnamate dioxygenase ferredoxin reductase component	1.18.1.3	NADH	NAD+	green
+3-phenylpropionate/trans-cinnamate dioxygenase ferredoxin reductase component	1.18.1.3	NADH	cis-3-(3-Carboxyethenyl)-3,5-cyclohexadiene-1,2-diol	green
+3-phenylpropionate/trans-cinnamate dioxygenase ferredoxin reductase component	1.18.1.3	NADH	cis-3-(Carboxy-ethyl)-3,5-cyclo-hexadiene-1,2-diol	green
+3-phenylpropionate/trans-cinnamate dioxygenase ferredoxin reductase component	1.18.1.3	Oxygen	NAD+	green
+3-phenylpropionate/trans-cinnamate dioxygenase ferredoxin reductase component	1.18.1.3	Oxygen	cis-3-(3-Carboxyethenyl)-3,5-cyclohexadiene-1,2-diol	green
+3-phenylpropionate/trans-cinnamate dioxygenase ferredoxin reductase component	1.18.1.3	Oxygen	cis-3-(Carboxy-ethyl)-3,5-cyclo-hexadiene-1,2-diol	green
+3-phenylpropionate/trans-cinnamate dioxygenase ferredoxin reductase component	1.18.1.3	Phenylpropanoate	NAD+	green
+3-phenylpropionate/trans-cinnamate dioxygenase ferredoxin reductase component	1.18.1.3	Phenylpropanoate	cis-3-(Carboxy-ethyl)-3,5-cyclo-hexadiene-1,2-diol	green
+3-phenylpropionate/trans-cinnamate dioxygenase ferredoxin reductase component	1.18.1.3	trans-Cinnamate	NAD+	green
+3-phenylpropionate/trans-cinnamate dioxygenase ferredoxin reductase component	1.18.1.3	trans-Cinnamate	cis-3-(3-Carboxyethenyl)-3,5-cyclohexadiene-1,2-diol	green
+4-hydroxy 2-oxovalerate aldolase	4.1.3.39	Acetaldehyde	4-Hydroxy-2-oxopentanoate	green
+4-hydroxy 2-oxovalerate aldolase	4.1.3.39	Pyruvate	4-Hydroxy-2-oxopentanoate	green
+4-hydroxyphenylpyruvate dioxygenase	1.13.11.27	Oxygen	2-Hydroxyphenylacetate	green
+4-hydroxyphenylpyruvate dioxygenase	1.13.11.27	Oxygen	CO2	green
+4-hydroxyphenylpyruvate dioxygenase	1.13.11.27	Phenylpyruvate	2-Hydroxyphenylacetate	green
+4-hydroxyphenylpyruvate dioxygenase	1.13.11.27	Phenylpyruvate	CO2	green
+D-alanine transaminase	2.6.1.21	2-Oxoglutarate	D-Glutamate	white
+D-alanine transaminase	2.6.1.21	2-Oxoglutarate	Pyruvate	white
+D-alanine transaminase	2.6.1.21	D-Alanine	D-Glutamate	white
+D-alanine transaminase	2.6.1.21	D-Alanine	Pyruvate	white
+D-alanine transaminase	2.6.1.21	D-Glutamate	2-Oxoglutarate	white
+D-alanine transaminase	2.6.1.21	D-Glutamate	D-Alanine	white
+D-alanine transaminase	2.6.1.21	Pyruvate	2-Oxoglutarate	white
+D-alanine transaminase	2.6.1.21	Pyruvate	D-Alanine	white
+D-amino-acid dehydrogenase	1.4.5.1	D-Phenylalanine	Ammonia	green
+D-amino-acid dehydrogenase	1.4.5.1	D-Phenylalanine	Hydroquinone	green
+D-amino-acid dehydrogenase	1.4.5.1	D-Phenylalanine	Phenylpyruvate	green
+D-amino-acid dehydrogenase	1.4.5.1	H2O	Ammonia	green
+D-amino-acid dehydrogenase	1.4.5.1	H2O	Hydroquinone	green
+D-amino-acid dehydrogenase	1.4.5.1	H2O	Phenylpyruvate	green
+D-amino-acid dehydrogenase	1.4.5.1	Quinone	Ammonia	green
+D-amino-acid dehydrogenase	1.4.5.1	Quinone	Hydroquinone	green
+D-amino-acid dehydrogenase	1.4.5.1	Quinone	Phenylpyruvate	green
+L-amino-acid oxidase	1.4.3.2	Ammonia	H2O	white
+L-amino-acid oxidase	1.4.3.2	Ammonia	L-Aspartate	white
+L-amino-acid oxidase	1.4.3.2	Ammonia	Oxygen	white
+L-amino-acid oxidase	1.4.3.2	H2O	Ammonia	white
+L-amino-acid oxidase	1.4.3.2	H2O	Hydrogen peroxide	white
+L-amino-acid oxidase	1.4.3.2	H2O	Oxaloacetate	white
+L-amino-acid oxidase	1.4.3.2	Hydrogen peroxide	H2O	white
+L-amino-acid oxidase	1.4.3.2	Hydrogen peroxide	L-Aspartate	white
+L-amino-acid oxidase	1.4.3.2	Hydrogen peroxide	Oxygen	white
+L-amino-acid oxidase	1.4.3.2	L-Aspartate	Ammonia	white
+L-amino-acid oxidase	1.4.3.2	L-Aspartate	Hydrogen peroxide	white
+L-amino-acid oxidase	1.4.3.2	L-Aspartate	Oxaloacetate	white
+L-amino-acid oxidase	1.4.3.2	Oxaloacetate	H2O	white
+L-amino-acid oxidase	1.4.3.2	Oxaloacetate	L-Aspartate	white
+L-amino-acid oxidase	1.4.3.2	Oxaloacetate	Oxygen	white
+L-amino-acid oxidase	1.4.3.2	Oxygen	Ammonia	white
+L-amino-acid oxidase	1.4.3.2	Oxygen	Hydrogen peroxide	white
+L-amino-acid oxidase	1.4.3.2	Oxygen	Oxaloacetate	white
+L-phenylalanine/L-methionine N-acetyltransferase	2.3.1.53	Acetyl-CoA	CoA	white
+L-phenylalanine/L-methionine N-acetyltransferase	2.3.1.53	Acetyl-CoA	N-Acetyl-L-phenylalanine	white
+L-phenylalanine/L-methionine N-acetyltransferase	2.3.1.53	CoA	Acetyl-CoA	white
+L-phenylalanine/L-methionine N-acetyltransferase	2.3.1.53	CoA	L-Phenylalanine	white
+L-phenylalanine/L-methionine N-acetyltransferase	2.3.1.53	L-Phenylalanine	CoA	white
+L-phenylalanine/L-methionine N-acetyltransferase	2.3.1.53	L-Phenylalanine	N-Acetyl-L-phenylalanine	white
+L-phenylalanine/L-methionine N-acetyltransferase	2.3.1.53	N-Acetyl-L-phenylalanine	Acetyl-CoA	white
+L-phenylalanine/L-methionine N-acetyltransferase	2.3.1.53	N-Acetyl-L-phenylalanine	L-Phenylalanine	white
+acetaldehyde dehydrogenase	1.2.1.10	Acetaldehyde	Acetyl-CoA	green
+acetaldehyde dehydrogenase	1.2.1.10	Acetaldehyde	H+	green
+acetaldehyde dehydrogenase	1.2.1.10	Acetaldehyde	NADH	green
+acetaldehyde dehydrogenase	1.2.1.10	Acetyl-CoA	Acetaldehyde	green
+acetaldehyde dehydrogenase	1.2.1.10	Acetyl-CoA	CoA	green
+acetaldehyde dehydrogenase	1.2.1.10	Acetyl-CoA	NAD+	green
+acetaldehyde dehydrogenase	1.2.1.10	CoA	Acetyl-CoA	green
+acetaldehyde dehydrogenase	1.2.1.10	CoA	H+	green
+acetaldehyde dehydrogenase	1.2.1.10	CoA	NADH	green
+acetaldehyde dehydrogenase	1.2.1.10	H+	Acetaldehyde	green
+acetaldehyde dehydrogenase	1.2.1.10	H+	CoA	green
+acetaldehyde dehydrogenase	1.2.1.10	H+	NAD+	green
+acetaldehyde dehydrogenase	1.2.1.10	NAD+	Acetyl-CoA	green
+acetaldehyde dehydrogenase	1.2.1.10	NAD+	H+	green
+acetaldehyde dehydrogenase	1.2.1.10	NAD+	NADH	green
+acetaldehyde dehydrogenase	1.2.1.10	NADH	Acetaldehyde	green
+acetaldehyde dehydrogenase	1.2.1.10	NADH	CoA	green
+acetaldehyde dehydrogenase	1.2.1.10	NADH	NAD+	green
+acyl-CoA thioesterase	3.1.2.-	H2O	CoA	green
+acyl-CoA thioesterase	3.1.2.-	H2O	Phenylacetic acid	green
+acyl-CoA thioesterase	3.1.2.-	Phenylacetyl-CoA	CoA	green
+acyl-CoA thioesterase	3.1.2.-	Phenylacetyl-CoA	Phenylacetic acid	green
+aldehyde dehydrogenase (NAD(P)+)	1.2.1.5	H2O	H+	green
+aldehyde dehydrogenase (NAD(P)+)	1.2.1.5	H2O	NADH	green
+aldehyde dehydrogenase (NAD(P)+)	1.2.1.5	H2O	NADPH	green
+aldehyde dehydrogenase (NAD(P)+)	1.2.1.5	H2O	Phenylacetic acid	green
+aldehyde dehydrogenase (NAD(P)+)	1.2.1.5	NAD+	H+	green
+aldehyde dehydrogenase (NAD(P)+)	1.2.1.5	NAD+	NADH	green
+aldehyde dehydrogenase (NAD(P)+)	1.2.1.5	NAD+	Phenylacetic acid	green
+aldehyde dehydrogenase (NAD(P)+)	1.2.1.5	NADP+	H+	green
+aldehyde dehydrogenase (NAD(P)+)	1.2.1.5	NADP+	NADPH	green
+aldehyde dehydrogenase (NAD(P)+)	1.2.1.5	NADP+	Phenylacetic acid	green
+aldehyde dehydrogenase (NAD(P)+)	1.2.1.5	Phenylacetaldehyde	H+	green
+aldehyde dehydrogenase (NAD(P)+)	1.2.1.5	Phenylacetaldehyde	NADH	green
+aldehyde dehydrogenase (NAD(P)+)	1.2.1.5	Phenylacetaldehyde	NADPH	green
+aldehyde dehydrogenase (NAD(P)+)	1.2.1.5	Phenylacetaldehyde	Phenylacetic acid	green
+amidase	3.5.1.4	2-Phenylacetamide	Ammonia	green
+amidase	3.5.1.4	2-Phenylacetamide	Phenylacetic acid	green
+amidase	3.5.1.4	H2O	Ammonia	green
+amidase	3.5.1.4	H2O	Phenylacetic acid	green
+aralkylamine dehydrogenase heavy chain	1.4.9.2	4-Hydroxyphenylacetaldehyde	H2O	white
+aralkylamine dehydrogenase heavy chain	1.4.9.2	4-Hydroxyphenylacetaldehyde	Oxygen	white
+aralkylamine dehydrogenase heavy chain	1.4.9.2	4-Hydroxyphenylacetaldehyde	Tyramine	white
+aralkylamine dehydrogenase heavy chain	1.4.9.2	Ammonia	H2O	white
+aralkylamine dehydrogenase heavy chain	1.4.9.2	Ammonia	Oxygen	white
+aralkylamine dehydrogenase heavy chain	1.4.9.2	Ammonia	Tyramine	white
+aralkylamine dehydrogenase heavy chain	1.4.9.2	H2O	4-Hydroxyphenylacetaldehyde	white
+aralkylamine dehydrogenase heavy chain	1.4.9.2	H2O	Ammonia	white
+aralkylamine dehydrogenase heavy chain	1.4.9.2	H2O	Hydrogen peroxide	white
+aralkylamine dehydrogenase heavy chain	1.4.9.2	Hydrogen peroxide	H2O	white
+aralkylamine dehydrogenase heavy chain	1.4.9.2	Hydrogen peroxide	Oxygen	white
+aralkylamine dehydrogenase heavy chain	1.4.9.2	Hydrogen peroxide	Tyramine	white
+aralkylamine dehydrogenase heavy chain	1.4.9.2	Oxygen	4-Hydroxyphenylacetaldehyde	white
+aralkylamine dehydrogenase heavy chain	1.4.9.2	Oxygen	Ammonia	white
+aralkylamine dehydrogenase heavy chain	1.4.9.2	Oxygen	Hydrogen peroxide	white
+aralkylamine dehydrogenase heavy chain	1.4.9.2	Tyramine	4-Hydroxyphenylacetaldehyde	white
+aralkylamine dehydrogenase heavy chain	1.4.9.2	Tyramine	Ammonia	white
+aralkylamine dehydrogenase heavy chain	1.4.9.2	Tyramine	Hydrogen peroxide	white
+aralkylamine dehydrogenase light chain	1.4.9.2	4-Hydroxyphenylacetaldehyde	H2O	white
+aralkylamine dehydrogenase light chain	1.4.9.2	4-Hydroxyphenylacetaldehyde	Oxygen	white
+aralkylamine dehydrogenase light chain	1.4.9.2	4-Hydroxyphenylacetaldehyde	Tyramine	white
+aralkylamine dehydrogenase light chain	1.4.9.2	Ammonia	H2O	white
+aralkylamine dehydrogenase light chain	1.4.9.2	Ammonia	Oxygen	white
+aralkylamine dehydrogenase light chain	1.4.9.2	Ammonia	Tyramine	white
+aralkylamine dehydrogenase light chain	1.4.9.2	H2O	4-Hydroxyphenylacetaldehyde	white
+aralkylamine dehydrogenase light chain	1.4.9.2	H2O	Ammonia	white
+aralkylamine dehydrogenase light chain	1.4.9.2	H2O	Hydrogen peroxide	white
+aralkylamine dehydrogenase light chain	1.4.9.2	Hydrogen peroxide	H2O	white
+aralkylamine dehydrogenase light chain	1.4.9.2	Hydrogen peroxide	Oxygen	white
+aralkylamine dehydrogenase light chain	1.4.9.2	Hydrogen peroxide	Tyramine	white
+aralkylamine dehydrogenase light chain	1.4.9.2	Oxygen	4-Hydroxyphenylacetaldehyde	white
+aralkylamine dehydrogenase light chain	1.4.9.2	Oxygen	Ammonia	white
+aralkylamine dehydrogenase light chain	1.4.9.2	Oxygen	Hydrogen peroxide	white
+aralkylamine dehydrogenase light chain	1.4.9.2	Tyramine	4-Hydroxyphenylacetaldehyde	white
+aralkylamine dehydrogenase light chain	1.4.9.2	Tyramine	Ammonia	white
+aralkylamine dehydrogenase light chain	1.4.9.2	Tyramine	Hydrogen peroxide	white
+aromatic 2-oxoacid reductase	1.1.1.110	H+	NAD+	white
+aromatic 2-oxoacid reductase	1.1.1.110	H+	Phenyllactate	white
+aromatic 2-oxoacid reductase	1.1.1.110	NAD+	H+	white
+aromatic 2-oxoacid reductase	1.1.1.110	NAD+	NADH	white
+aromatic 2-oxoacid reductase	1.1.1.110	NAD+	Phenylpyruvate	white
+aromatic 2-oxoacid reductase	1.1.1.110	NADH	NAD+	white
+aromatic 2-oxoacid reductase	1.1.1.110	NADH	Phenyllactate	white
+aromatic 2-oxoacid reductase	1.1.1.110	Phenyllactate	H+	white
+aromatic 2-oxoacid reductase	1.1.1.110	Phenyllactate	NADH	white
+aromatic 2-oxoacid reductase	1.1.1.110	Phenyllactate	Phenylpyruvate	white
+aromatic 2-oxoacid reductase	1.1.1.110	Phenylpyruvate	NAD+	white
+aromatic 2-oxoacid reductase	1.1.1.110	Phenylpyruvate	Phenyllactate	white
+aromatic amino acid aminotransferase I / 2-aminoadipate transaminase	2.6.1.57	2-Oxoglutarate	L-Glutamate	white
+aromatic amino acid aminotransferase I / 2-aminoadipate transaminase	2.6.1.57	2-Oxoglutarate	Phenylpyruvate	white
+aromatic amino acid aminotransferase I / 2-aminoadipate transaminase	2.6.1.57	L-Glutamate	2-Oxoglutarate	white
+aromatic amino acid aminotransferase I / 2-aminoadipate transaminase	2.6.1.57	L-Glutamate	L-Phenylalanine	white
+aromatic amino acid aminotransferase I / 2-aminoadipate transaminase	2.6.1.57	L-Phenylalanine	L-Glutamate	white
+aromatic amino acid aminotransferase I / 2-aminoadipate transaminase	2.6.1.57	L-Phenylalanine	Phenylpyruvate	white
+aromatic amino acid aminotransferase I / 2-aminoadipate transaminase	2.6.1.57	Phenylpyruvate	2-Oxoglutarate	white
+aromatic amino acid aminotransferase I / 2-aminoadipate transaminase	2.6.1.57	Phenylpyruvate	L-Phenylalanine	white
+aromatic amino acid aminotransferase II	2.6.1.58	L-Alanine	L-Phenylalanine	white
+aromatic amino acid aminotransferase II	2.6.1.58	L-Alanine	Pyruvate	white
+aromatic amino acid aminotransferase II	2.6.1.58	L-Phenylalanine	L-Alanine	white
+aromatic amino acid aminotransferase II	2.6.1.58	L-Phenylalanine	Phenylpyruvate	white
+aromatic amino acid aminotransferase II	2.6.1.58	Phenylpyruvate	L-Phenylalanine	white
+aromatic amino acid aminotransferase II	2.6.1.58	Phenylpyruvate	Pyruvate	white
+aromatic amino acid aminotransferase II	2.6.1.58	Pyruvate	L-Alanine	white
+aromatic amino acid aminotransferase II	2.6.1.58	Pyruvate	Phenylpyruvate	white
+aromatic-L-amino-acid/L-tryptophan decarboxylase	4.1.1.28	CO2	L-Tryptophan	white
+aromatic-L-amino-acid/L-tryptophan decarboxylase	4.1.1.28	L-Tryptophan	CO2	white
+aromatic-L-amino-acid/L-tryptophan decarboxylase	4.1.1.28	L-Tryptophan	Tryptamine	white
+aromatic-L-amino-acid/L-tryptophan decarboxylase	4.1.1.28	Tryptamine	L-Tryptophan	white
+aromatic-amino-acid transaminase	2.6.1.57	2-Oxoglutarate	L-Glutamate	white
+aromatic-amino-acid transaminase	2.6.1.57	2-Oxoglutarate	Phenylpyruvate	white
+aromatic-amino-acid transaminase	2.6.1.57	L-Glutamate	2-Oxoglutarate	white
+aromatic-amino-acid transaminase	2.6.1.57	L-Glutamate	L-Phenylalanine	white
+aromatic-amino-acid transaminase	2.6.1.57	L-Phenylalanine	L-Glutamate	white
+aromatic-amino-acid transaminase	2.6.1.57	L-Phenylalanine	Phenylpyruvate	white
+aromatic-amino-acid transaminase	2.6.1.57	Phenylpyruvate	2-Oxoglutarate	white
+aromatic-amino-acid transaminase	2.6.1.57	Phenylpyruvate	L-Phenylalanine	white
+aryl-alcohol dehydrogenase	1.1.1.90	H+	NAD+	green
+aryl-alcohol dehydrogenase	1.1.1.90	H+	Phenylethyl alcohol	green
+aryl-alcohol dehydrogenase	1.1.1.90	NAD+	H+	green
+aryl-alcohol dehydrogenase	1.1.1.90	NAD+	NADH	green
+aryl-alcohol dehydrogenase	1.1.1.90	NAD+	Phenylacetaldehyde	green
+aryl-alcohol dehydrogenase	1.1.1.90	NADH	NAD+	green
+aryl-alcohol dehydrogenase	1.1.1.90	NADH	Phenylethyl alcohol	green
+aryl-alcohol dehydrogenase	1.1.1.90	Phenylacetaldehyde	NAD+	green
+aryl-alcohol dehydrogenase	1.1.1.90	Phenylacetaldehyde	Phenylethyl alcohol	green
+aryl-alcohol dehydrogenase	1.1.1.90	Phenylethyl alcohol	H+	green
+aryl-alcohol dehydrogenase	1.1.1.90	Phenylethyl alcohol	NADH	green
+aryl-alcohol dehydrogenase	1.1.1.90	Phenylethyl alcohol	Phenylacetaldehyde	green
+aspartate aminotransferase	2.6.1.1	2-Oxoglutarate	L-Glutamate	green
+aspartate aminotransferase	2.6.1.1	2-Oxoglutarate	Phenylpyruvate	green
+aspartate aminotransferase	2.6.1.1	L-Glutamate	2-Oxoglutarate	green
+aspartate aminotransferase	2.6.1.1	L-Glutamate	L-Phenylalanine	green
+aspartate aminotransferase	2.6.1.1	L-Phenylalanine	L-Glutamate	green
+aspartate aminotransferase	2.6.1.1	L-Phenylalanine	Phenylpyruvate	green
+aspartate aminotransferase	2.6.1.1	Phenylpyruvate	2-Oxoglutarate	green
+aspartate aminotransferase	2.6.1.1	Phenylpyruvate	L-Phenylalanine	green
+catalase-peroxidase	1.11.1.21	L-Phenylalanine	2-Phenylacetamide	green
+catalase-peroxidase	1.11.1.21	L-Phenylalanine	CO2	green
+catalase-peroxidase	1.11.1.21	Oxygen	2-Phenylacetamide	green
+catalase-peroxidase	1.11.1.21	Oxygen	CO2	green
+enoyl-CoA hydratase	4.2.1.17	5-Carboxy-2-pentenoyl-CoA	(3S)-3-Hydroxyadipyl-CoA	green
+enoyl-CoA hydratase	4.2.1.17	H2O	(3S)-3-Hydroxyadipyl-CoA	green
+glycine N-phenylacetyltransferase	2.3.1.192	CoA	Glycine	white
+glycine N-phenylacetyltransferase	2.3.1.192	CoA	Phenylacetyl-CoA	white
+glycine N-phenylacetyltransferase	2.3.1.192	Glycine	CoA	white
+glycine N-phenylacetyltransferase	2.3.1.192	Glycine	Phenylacetylglycine	white
+glycine N-phenylacetyltransferase	2.3.1.192	Phenylacetyl-CoA	CoA	white
+glycine N-phenylacetyltransferase	2.3.1.192	Phenylacetyl-CoA	Phenylacetylglycine	white
+glycine N-phenylacetyltransferase	2.3.1.192	Phenylacetylglycine	Glycine	white
+glycine N-phenylacetyltransferase	2.3.1.192	Phenylacetylglycine	Phenylacetyl-CoA	white
+histidinol-phosphate aminotransferase	2.6.1.9	2-Oxoglutarate	L-Glutamate	green
+histidinol-phosphate aminotransferase	2.6.1.9	2-Oxoglutarate	Phenylpyruvate	green
+histidinol-phosphate aminotransferase	2.6.1.9	L-Glutamate	2-Oxoglutarate	green
+histidinol-phosphate aminotransferase	2.6.1.9	L-Glutamate	L-Phenylalanine	green
+histidinol-phosphate aminotransferase	2.6.1.9	L-Phenylalanine	L-Glutamate	green
+histidinol-phosphate aminotransferase	2.6.1.9	L-Phenylalanine	Phenylpyruvate	green
+histidinol-phosphate aminotransferase	2.6.1.9	Phenylpyruvate	2-Oxoglutarate	green
+histidinol-phosphate aminotransferase	2.6.1.9	Phenylpyruvate	L-Phenylalanine	green
+hydroxycarboxylate dehydrogenase B	1.1.1.237	H+	NAD+	white
+hydroxycarboxylate dehydrogenase B	1.1.1.237	H+	Phenyllactate	white
+hydroxycarboxylate dehydrogenase B	1.1.1.237	NAD+	H+	white
+hydroxycarboxylate dehydrogenase B	1.1.1.237	NAD+	NADH	white
+hydroxycarboxylate dehydrogenase B	1.1.1.237	NAD+	Phenylpyruvate	white
+hydroxycarboxylate dehydrogenase B	1.1.1.237	NADH	NAD+	white
+hydroxycarboxylate dehydrogenase B	1.1.1.237	NADH	Phenyllactate	white
+hydroxycarboxylate dehydrogenase B	1.1.1.237	Phenyllactate	H+	white
+hydroxycarboxylate dehydrogenase B	1.1.1.237	Phenyllactate	NADH	white
+hydroxycarboxylate dehydrogenase B	1.1.1.237	Phenyllactate	Phenylpyruvate	white
+hydroxycarboxylate dehydrogenase B	1.1.1.237	Phenylpyruvate	NAD+	white
+hydroxycarboxylate dehydrogenase B	1.1.1.237	Phenylpyruvate	Phenyllactate	white
+hydroxyphenylpyruvate reductase	1.1.1.237	H+	NAD+	white
+hydroxyphenylpyruvate reductase	1.1.1.237	H+	Phenyllactate	white
+hydroxyphenylpyruvate reductase	1.1.1.237	NAD+	H+	white
+hydroxyphenylpyruvate reductase	1.1.1.237	NAD+	NADH	white
+hydroxyphenylpyruvate reductase	1.1.1.237	NAD+	Phenylpyruvate	white
+hydroxyphenylpyruvate reductase	1.1.1.237	NADH	NAD+	white
+hydroxyphenylpyruvate reductase	1.1.1.237	NADH	Phenyllactate	white
+hydroxyphenylpyruvate reductase	1.1.1.237	Phenyllactate	H+	white
+hydroxyphenylpyruvate reductase	1.1.1.237	Phenyllactate	NADH	white
+hydroxyphenylpyruvate reductase	1.1.1.237	Phenyllactate	Phenylpyruvate	white
+hydroxyphenylpyruvate reductase	1.1.1.237	Phenylpyruvate	NAD+	white
+hydroxyphenylpyruvate reductase	1.1.1.237	Phenylpyruvate	Phenyllactate	white
+monoamine oxidase	1.4.3.4	Ammonia	H2O	green
+monoamine oxidase	1.4.3.4	Ammonia	Oxygen	green
+monoamine oxidase	1.4.3.4	Ammonia	Phenethylamine	green
+monoamine oxidase	1.4.3.4	H2O	Ammonia	green
+monoamine oxidase	1.4.3.4	H2O	Hydrogen peroxide	green
+monoamine oxidase	1.4.3.4	H2O	Phenylacetaldehyde	green
+monoamine oxidase	1.4.3.4	Hydrogen peroxide	H2O	green
+monoamine oxidase	1.4.3.4	Hydrogen peroxide	Oxygen	green
+monoamine oxidase	1.4.3.4	Hydrogen peroxide	Phenethylamine	green
+monoamine oxidase	1.4.3.4	Oxygen	Ammonia	green
+monoamine oxidase	1.4.3.4	Oxygen	Hydrogen peroxide	green
+monoamine oxidase	1.4.3.4	Oxygen	Phenylacetaldehyde	green
+monoamine oxidase	1.4.3.4	Phenethylamine	Ammonia	green
+monoamine oxidase	1.4.3.4	Phenethylamine	Hydrogen peroxide	green
+monoamine oxidase	1.4.3.4	Phenethylamine	Phenylacetaldehyde	green
+monoamine oxidase	1.4.3.4	Phenylacetaldehyde	H2O	green
+monoamine oxidase	1.4.3.4	Phenylacetaldehyde	Oxygen	green
+monoamine oxidase	1.4.3.4	Phenylacetaldehyde	Phenethylamine	green
+oxepin-CoA hydrolase / 3-oxo-5,6-dehydrosuberyl-CoA semialdehyde dehydrogenase	3.3.2.12	2-Oxepin-2(3H)-ylideneacetyl-CoA	3-Oxo-5,6-dehydrosuberyl-CoA semialdehyde	green
+oxepin-CoA hydrolase / 3-oxo-5,6-dehydrosuberyl-CoA semialdehyde dehydrogenase	3.3.2.12	3-Oxo-5,6-dehydrosuberyl-CoA semialdehyde	3-Oxo-5,6-dehydrosuberyl-CoA	green
+oxepin-CoA hydrolase / 3-oxo-5,6-dehydrosuberyl-CoA semialdehyde dehydrogenase	3.3.2.12	3-Oxo-5,6-dehydrosuberyl-CoA semialdehyde	H+	green
+oxepin-CoA hydrolase / 3-oxo-5,6-dehydrosuberyl-CoA semialdehyde dehydrogenase	3.3.2.12	3-Oxo-5,6-dehydrosuberyl-CoA semialdehyde	NADPH	green
+oxepin-CoA hydrolase / 3-oxo-5,6-dehydrosuberyl-CoA semialdehyde dehydrogenase	3.3.2.12	H2O	3-Oxo-5,6-dehydrosuberyl-CoA	green
+oxepin-CoA hydrolase / 3-oxo-5,6-dehydrosuberyl-CoA semialdehyde dehydrogenase	3.3.2.12	H2O	3-Oxo-5,6-dehydrosuberyl-CoA semialdehyde	green
+oxepin-CoA hydrolase / 3-oxo-5,6-dehydrosuberyl-CoA semialdehyde dehydrogenase	3.3.2.12	H2O	H+	green
+oxepin-CoA hydrolase / 3-oxo-5,6-dehydrosuberyl-CoA semialdehyde dehydrogenase	3.3.2.12	H2O	NADPH	green
+oxepin-CoA hydrolase / 3-oxo-5,6-dehydrosuberyl-CoA semialdehyde dehydrogenase	3.3.2.12	NADP+	3-Oxo-5,6-dehydrosuberyl-CoA	green
+oxepin-CoA hydrolase / 3-oxo-5,6-dehydrosuberyl-CoA semialdehyde dehydrogenase	3.3.2.12	NADP+	H+	green
+oxepin-CoA hydrolase / 3-oxo-5,6-dehydrosuberyl-CoA semialdehyde dehydrogenase	3.3.2.12	NADP+	NADPH	green
+phenylacetaldehyde dehydrogenase	1.2.1.39	H2O	H+	green
+phenylacetaldehyde dehydrogenase	1.2.1.39	H2O	NADH	green
+phenylacetaldehyde dehydrogenase	1.2.1.39	H2O	Phenylacetic acid	green
+phenylacetaldehyde dehydrogenase	1.2.1.39	NAD+	H+	green
+phenylacetaldehyde dehydrogenase	1.2.1.39	NAD+	NADH	green
+phenylacetaldehyde dehydrogenase	1.2.1.39	NAD+	Phenylacetic acid	green
+phenylacetaldehyde dehydrogenase	1.2.1.39	Phenylacetaldehyde	H+	green
+phenylacetaldehyde dehydrogenase	1.2.1.39	Phenylacetaldehyde	NADH	green
+phenylacetaldehyde dehydrogenase	1.2.1.39	Phenylacetaldehyde	Phenylacetic acid	green
+phenylacetaldehyde synthase	4.1.1.109	Ammonia	H2O	white
+phenylacetaldehyde synthase	4.1.1.109	Ammonia	L-Phenylalanine	white
+phenylacetaldehyde synthase	4.1.1.109	Ammonia	Oxygen	white
+phenylacetaldehyde synthase	4.1.1.109	CO2	H2O	white
+phenylacetaldehyde synthase	4.1.1.109	CO2	L-Phenylalanine	white
+phenylacetaldehyde synthase	4.1.1.109	CO2	Oxygen	white
+phenylacetaldehyde synthase	4.1.1.109	H2O	Ammonia	white
+phenylacetaldehyde synthase	4.1.1.109	H2O	CO2	white
+phenylacetaldehyde synthase	4.1.1.109	H2O	Hydrogen peroxide	white
+phenylacetaldehyde synthase	4.1.1.109	H2O	Phenylacetaldehyde	white
+phenylacetaldehyde synthase	4.1.1.109	Hydrogen peroxide	H2O	white
+phenylacetaldehyde synthase	4.1.1.109	Hydrogen peroxide	L-Phenylalanine	white
+phenylacetaldehyde synthase	4.1.1.109	Hydrogen peroxide	Oxygen	white
+phenylacetaldehyde synthase	4.1.1.109	L-Phenylalanine	Ammonia	white
+phenylacetaldehyde synthase	4.1.1.109	L-Phenylalanine	CO2	white
+phenylacetaldehyde synthase	4.1.1.109	L-Phenylalanine	Hydrogen peroxide	white
+phenylacetaldehyde synthase	4.1.1.109	L-Phenylalanine	Phenylacetaldehyde	white
+phenylacetaldehyde synthase	4.1.1.109	Oxygen	Ammonia	white
+phenylacetaldehyde synthase	4.1.1.109	Oxygen	CO2	white
+phenylacetaldehyde synthase	4.1.1.109	Oxygen	Hydrogen peroxide	white
+phenylacetaldehyde synthase	4.1.1.109	Oxygen	Phenylacetaldehyde	white
+phenylacetaldehyde synthase	4.1.1.109	Phenylacetaldehyde	H2O	white
+phenylacetaldehyde synthase	4.1.1.109	Phenylacetaldehyde	L-Phenylalanine	white
+phenylacetaldehyde synthase	4.1.1.109	Phenylacetaldehyde	Oxygen	white
+phenylacetate 2-hydroxylase	1.14.14.54	2-Hydroxyphenylacetate	Oxygen	white
+phenylacetate 2-hydroxylase	1.14.14.54	2-Hydroxyphenylacetate	Phenylacetic acid	white
+phenylacetate 2-hydroxylase	1.14.14.54	2-Hydroxyphenylacetate	[Reduced NADPH---hemoprotein reductase]	white
+phenylacetate 2-hydroxylase	1.14.14.54	H2O	Oxygen	white
+phenylacetate 2-hydroxylase	1.14.14.54	H2O	Phenylacetic acid	white
+phenylacetate 2-hydroxylase	1.14.14.54	H2O	[Reduced NADPH---hemoprotein reductase]	white
+phenylacetate 2-hydroxylase	1.14.14.54	Oxygen	2-Hydroxyphenylacetate	white
+phenylacetate 2-hydroxylase	1.14.14.54	Oxygen	H2O	white
+phenylacetate 2-hydroxylase	1.14.14.54	Oxygen	[Oxidized NADPH---hemoprotein reductase]	white
+phenylacetate 2-hydroxylase	1.14.14.54	Phenylacetic acid	2-Hydroxyphenylacetate	white
+phenylacetate 2-hydroxylase	1.14.14.54	Phenylacetic acid	H2O	white
+phenylacetate 2-hydroxylase	1.14.14.54	Phenylacetic acid	[Oxidized NADPH---hemoprotein reductase]	white
+phenylacetate 2-hydroxylase	1.14.14.54	[Oxidized NADPH---hemoprotein reductase]	Oxygen	white
+phenylacetate 2-hydroxylase	1.14.14.54	[Oxidized NADPH---hemoprotein reductase]	Phenylacetic acid	white
+phenylacetate 2-hydroxylase	1.14.14.54	[Oxidized NADPH---hemoprotein reductase]	[Reduced NADPH---hemoprotein reductase]	white
+phenylacetate 2-hydroxylase	1.14.14.54	[Reduced NADPH---hemoprotein reductase]	2-Hydroxyphenylacetate	white
+phenylacetate 2-hydroxylase	1.14.14.54	[Reduced NADPH---hemoprotein reductase]	H2O	white
+phenylacetate 2-hydroxylase	1.14.14.54	[Reduced NADPH---hemoprotein reductase]	[Oxidized NADPH---hemoprotein reductase]	white
+phenylacetate-CoA ligase	6.2.1.30	ATP	AMP	green
+phenylacetate-CoA ligase	6.2.1.30	ATP	Diphosphate	green
+phenylacetate-CoA ligase	6.2.1.30	ATP	Phenylacetyl-CoA	green
+phenylacetate-CoA ligase	6.2.1.30	CoA	AMP	green
+phenylacetate-CoA ligase	6.2.1.30	CoA	Diphosphate	green
+phenylacetate-CoA ligase	6.2.1.30	CoA	Phenylacetyl-CoA	green
+phenylacetate-CoA ligase	6.2.1.30	Phenylacetic acid	AMP	green
+phenylacetate-CoA ligase	6.2.1.30	Phenylacetic acid	Diphosphate	green
+phenylacetate-CoA ligase	6.2.1.30	Phenylacetic acid	Phenylacetyl-CoA	green
+phenylacetyl-CoA:acceptor oxidoreductase	1.17.5.1	H2O	Hydroquinone	white
+phenylacetyl-CoA:acceptor oxidoreductase	1.17.5.1	H2O	Phenylglyoxylyl-CoA	white
+phenylacetyl-CoA:acceptor oxidoreductase	1.17.5.1	Hydroquinone	H2O	white
+phenylacetyl-CoA:acceptor oxidoreductase	1.17.5.1	Hydroquinone	Phenylacetyl-CoA	white
+phenylacetyl-CoA:acceptor oxidoreductase	1.17.5.1	Hydroquinone	Quinone	white
+phenylacetyl-CoA:acceptor oxidoreductase	1.17.5.1	Phenylacetyl-CoA	Hydroquinone	white
+phenylacetyl-CoA:acceptor oxidoreductase	1.17.5.1	Phenylacetyl-CoA	Phenylglyoxylyl-CoA	white
+phenylacetyl-CoA:acceptor oxidoreductase	1.17.5.1	Phenylglyoxylyl-CoA	H2O	white
+phenylacetyl-CoA:acceptor oxidoreductase	1.17.5.1	Phenylglyoxylyl-CoA	Phenylacetyl-CoA	white
+phenylacetyl-CoA:acceptor oxidoreductase	1.17.5.1	Phenylglyoxylyl-CoA	Quinone	white
+phenylacetyl-CoA:acceptor oxidoreductase	1.17.5.1	Quinone	Hydroquinone	white
+phenylacetyl-CoA:acceptor oxidoreductase	1.17.5.1	Quinone	Phenylglyoxylyl-CoA	white
+phenylacetyl-CoA:acceptor oxidoreductase 26-kDa subunit	1.17.5.1	H2O	Hydroquinone	white
+phenylacetyl-CoA:acceptor oxidoreductase 26-kDa subunit	1.17.5.1	H2O	Phenylglyoxylyl-CoA	white
+phenylacetyl-CoA:acceptor oxidoreductase 26-kDa subunit	1.17.5.1	Hydroquinone	H2O	white
+phenylacetyl-CoA:acceptor oxidoreductase 26-kDa subunit	1.17.5.1	Hydroquinone	Phenylacetyl-CoA	white
+phenylacetyl-CoA:acceptor oxidoreductase 26-kDa subunit	1.17.5.1	Hydroquinone	Quinone	white
+phenylacetyl-CoA:acceptor oxidoreductase 26-kDa subunit	1.17.5.1	Phenylacetyl-CoA	Hydroquinone	white
+phenylacetyl-CoA:acceptor oxidoreductase 26-kDa subunit	1.17.5.1	Phenylacetyl-CoA	Phenylglyoxylyl-CoA	white
+phenylacetyl-CoA:acceptor oxidoreductase 26-kDa subunit	1.17.5.1	Phenylglyoxylyl-CoA	H2O	white
+phenylacetyl-CoA:acceptor oxidoreductase 26-kDa subunit	1.17.5.1	Phenylglyoxylyl-CoA	Phenylacetyl-CoA	white
+phenylacetyl-CoA:acceptor oxidoreductase 26-kDa subunit	1.17.5.1	Phenylglyoxylyl-CoA	Quinone	white
+phenylacetyl-CoA:acceptor oxidoreductase 26-kDa subunit	1.17.5.1	Quinone	Hydroquinone	white
+phenylacetyl-CoA:acceptor oxidoreductase 26-kDa subunit	1.17.5.1	Quinone	Phenylglyoxylyl-CoA	white
+phenylacetyl-CoA:acceptor oxidoreductase 27-kDa subunit	1.17.5.1	H2O	Hydroquinone	white
+phenylacetyl-CoA:acceptor oxidoreductase 27-kDa subunit	1.17.5.1	H2O	Phenylglyoxylyl-CoA	white
+phenylacetyl-CoA:acceptor oxidoreductase 27-kDa subunit	1.17.5.1	Hydroquinone	H2O	white
+phenylacetyl-CoA:acceptor oxidoreductase 27-kDa subunit	1.17.5.1	Hydroquinone	Phenylacetyl-CoA	white
+phenylacetyl-CoA:acceptor oxidoreductase 27-kDa subunit	1.17.5.1	Hydroquinone	Quinone	white
+phenylacetyl-CoA:acceptor oxidoreductase 27-kDa subunit	1.17.5.1	Phenylacetyl-CoA	Hydroquinone	white
+phenylacetyl-CoA:acceptor oxidoreductase 27-kDa subunit	1.17.5.1	Phenylacetyl-CoA	Phenylglyoxylyl-CoA	white
+phenylacetyl-CoA:acceptor oxidoreductase 27-kDa subunit	1.17.5.1	Phenylglyoxylyl-CoA	H2O	white
+phenylacetyl-CoA:acceptor oxidoreductase 27-kDa subunit	1.17.5.1	Phenylglyoxylyl-CoA	Phenylacetyl-CoA	white
+phenylacetyl-CoA:acceptor oxidoreductase 27-kDa subunit	1.17.5.1	Phenylglyoxylyl-CoA	Quinone	white
+phenylacetyl-CoA:acceptor oxidoreductase 27-kDa subunit	1.17.5.1	Quinone	Hydroquinone	white
+phenylacetyl-CoA:acceptor oxidoreductase 27-kDa subunit	1.17.5.1	Quinone	Phenylglyoxylyl-CoA	white
+phenylacetyl-CoA:acceptor oxidoreductase accessory protein	1.17.5.1	H2O	Hydroquinone	white
+phenylacetyl-CoA:acceptor oxidoreductase accessory protein	1.17.5.1	H2O	Phenylglyoxylyl-CoA	white
+phenylacetyl-CoA:acceptor oxidoreductase accessory protein	1.17.5.1	Hydroquinone	H2O	white
+phenylacetyl-CoA:acceptor oxidoreductase accessory protein	1.17.5.1	Hydroquinone	Phenylacetyl-CoA	white
+phenylacetyl-CoA:acceptor oxidoreductase accessory protein	1.17.5.1	Hydroquinone	Quinone	white
+phenylacetyl-CoA:acceptor oxidoreductase accessory protein	1.17.5.1	Phenylacetyl-CoA	Hydroquinone	white
+phenylacetyl-CoA:acceptor oxidoreductase accessory protein	1.17.5.1	Phenylacetyl-CoA	Phenylglyoxylyl-CoA	white
+phenylacetyl-CoA:acceptor oxidoreductase accessory protein	1.17.5.1	Phenylglyoxylyl-CoA	H2O	white
+phenylacetyl-CoA:acceptor oxidoreductase accessory protein	1.17.5.1	Phenylglyoxylyl-CoA	Phenylacetyl-CoA	white
+phenylacetyl-CoA:acceptor oxidoreductase accessory protein	1.17.5.1	Phenylglyoxylyl-CoA	Quinone	white
+phenylacetyl-CoA:acceptor oxidoreductase accessory protein	1.17.5.1	Quinone	Hydroquinone	white
+phenylacetyl-CoA:acceptor oxidoreductase accessory protein	1.17.5.1	Quinone	Phenylglyoxylyl-CoA	white
+phenylalanine 2-monooxygenase	1.13.12.9	2-Phenylacetamide	L-Phenylalanine	white
+phenylalanine 2-monooxygenase	1.13.12.9	2-Phenylacetamide	Oxygen	white
+phenylalanine 2-monooxygenase	1.13.12.9	CO2	L-Phenylalanine	white
+phenylalanine 2-monooxygenase	1.13.12.9	CO2	Oxygen	white
+phenylalanine 2-monooxygenase	1.13.12.9	H2O	L-Phenylalanine	white
+phenylalanine 2-monooxygenase	1.13.12.9	H2O	Oxygen	white
+phenylalanine 2-monooxygenase	1.13.12.9	L-Phenylalanine	2-Phenylacetamide	white
+phenylalanine 2-monooxygenase	1.13.12.9	L-Phenylalanine	CO2	white
+phenylalanine 2-monooxygenase	1.13.12.9	L-Phenylalanine	H2O	white
+phenylalanine 2-monooxygenase	1.13.12.9	Oxygen	2-Phenylacetamide	white
+phenylalanine 2-monooxygenase	1.13.12.9	Oxygen	CO2	white
+phenylalanine 2-monooxygenase	1.13.12.9	Oxygen	H2O	white
+phenylalanine ammonia-lyase	4.3.1.24	Ammonia	L-Phenylalanine	white
+phenylalanine ammonia-lyase	4.3.1.24	L-Phenylalanine	Ammonia	white
+phenylalanine ammonia-lyase	4.3.1.24	L-Phenylalanine	trans-Cinnamate	white
+phenylalanine ammonia-lyase	4.3.1.24	trans-Cinnamate	L-Phenylalanine	white
+phenylalanine decarboxylase	4.1.1.53	CO2	L-Phenylalanine	white
+phenylalanine decarboxylase	4.1.1.53	L-Phenylalanine	CO2	white
+phenylalanine decarboxylase	4.1.1.53	L-Phenylalanine	Phenethylamine	white
+phenylalanine decarboxylase	4.1.1.53	Phenethylamine	L-Phenylalanine	white
+phenylalanine dehydrogenase	1.4.1.20	Ammonia	H2O	white
+phenylalanine dehydrogenase	1.4.1.20	Ammonia	L-Phenylalanine	white
+phenylalanine dehydrogenase	1.4.1.20	Ammonia	NAD+	white
+phenylalanine dehydrogenase	1.4.1.20	H+	H2O	white
+phenylalanine dehydrogenase	1.4.1.20	H+	L-Phenylalanine	white
+phenylalanine dehydrogenase	1.4.1.20	H+	NAD+	white
+phenylalanine dehydrogenase	1.4.1.20	H2O	Ammonia	white
+phenylalanine dehydrogenase	1.4.1.20	H2O	H+	white
+phenylalanine dehydrogenase	1.4.1.20	H2O	NADH	white
+phenylalanine dehydrogenase	1.4.1.20	H2O	Phenylpyruvate	white
+phenylalanine dehydrogenase	1.4.1.20	L-Phenylalanine	Ammonia	white
+phenylalanine dehydrogenase	1.4.1.20	L-Phenylalanine	H+	white
+phenylalanine dehydrogenase	1.4.1.20	L-Phenylalanine	NADH	white
+phenylalanine dehydrogenase	1.4.1.20	L-Phenylalanine	Phenylpyruvate	white
+phenylalanine dehydrogenase	1.4.1.20	NAD+	Ammonia	white
+phenylalanine dehydrogenase	1.4.1.20	NAD+	H+	white
+phenylalanine dehydrogenase	1.4.1.20	NAD+	NADH	white
+phenylalanine dehydrogenase	1.4.1.20	NAD+	Phenylpyruvate	white
+phenylalanine dehydrogenase	1.4.1.20	NADH	H2O	white
+phenylalanine dehydrogenase	1.4.1.20	NADH	L-Phenylalanine	white
+phenylalanine dehydrogenase	1.4.1.20	NADH	NAD+	white
+phenylalanine dehydrogenase	1.4.1.20	Phenylpyruvate	H2O	white
+phenylalanine dehydrogenase	1.4.1.20	Phenylpyruvate	L-Phenylalanine	white
+phenylalanine dehydrogenase	1.4.1.20	Phenylpyruvate	NAD+	white
+phenylalanine-4-hydroxylase	1.14.16.1	Dihydrobiopterin	L-Phenylalanine	white
+phenylalanine-4-hydroxylase	1.14.16.1	Dihydrobiopterin	Oxygen	white
+phenylalanine-4-hydroxylase	1.14.16.1	Dihydrobiopterin	Tetrahydrobiopterin	white
+phenylalanine-4-hydroxylase	1.14.16.1	H2O	L-Phenylalanine	white
+phenylalanine-4-hydroxylase	1.14.16.1	H2O	Oxygen	white
+phenylalanine-4-hydroxylase	1.14.16.1	H2O	Tetrahydrobiopterin	white
+phenylalanine-4-hydroxylase	1.14.16.1	L-Phenylalanine	Dihydrobiopterin	white
+phenylalanine-4-hydroxylase	1.14.16.1	L-Phenylalanine	H2O	white
+phenylalanine-4-hydroxylase	1.14.16.1	L-Phenylalanine	L-Tyrosine	white
+phenylalanine-4-hydroxylase	1.14.16.1	L-Tyrosine	L-Phenylalanine	white
+phenylalanine-4-hydroxylase	1.14.16.1	L-Tyrosine	Oxygen	white
+phenylalanine-4-hydroxylase	1.14.16.1	L-Tyrosine	Tetrahydrobiopterin	white
+phenylalanine-4-hydroxylase	1.14.16.1	Oxygen	Dihydrobiopterin	white
+phenylalanine-4-hydroxylase	1.14.16.1	Oxygen	H2O	white
+phenylalanine-4-hydroxylase	1.14.16.1	Oxygen	L-Tyrosine	white
+phenylalanine-4-hydroxylase	1.14.16.1	Tetrahydrobiopterin	Dihydrobiopterin	white
+phenylalanine-4-hydroxylase	1.14.16.1	Tetrahydrobiopterin	H2O	white
+phenylalanine-4-hydroxylase	1.14.16.1	Tetrahydrobiopterin	L-Tyrosine	white
+phenylalanine/tyrosine ammonia-lyase	4.3.1.25	Ammonia	L-Phenylalanine	white
+phenylalanine/tyrosine ammonia-lyase	4.3.1.25	L-Phenylalanine	Ammonia	white
+phenylalanine/tyrosine ammonia-lyase	4.3.1.25	L-Phenylalanine	trans-Cinnamate	white
+phenylalanine/tyrosine ammonia-lyase	4.3.1.25	trans-Cinnamate	L-Phenylalanine	white
+phenylglyoxylate dehydrogenase alpha subunit	1.2.1.58	Benzoyl-CoA	CoA	white
+phenylglyoxylate dehydrogenase alpha subunit	1.2.1.58	Benzoyl-CoA	NAD+	white
+phenylglyoxylate dehydrogenase alpha subunit	1.2.1.58	Benzoyl-CoA	alpha-Oxo-benzeneacetic acid	white
+phenylglyoxylate dehydrogenase alpha subunit	1.2.1.58	CO2	CoA	white
+phenylglyoxylate dehydrogenase alpha subunit	1.2.1.58	CO2	NAD+	white
+phenylglyoxylate dehydrogenase alpha subunit	1.2.1.58	CO2	alpha-Oxo-benzeneacetic acid	white
+phenylglyoxylate dehydrogenase alpha subunit	1.2.1.58	CoA	Benzoyl-CoA	white
+phenylglyoxylate dehydrogenase alpha subunit	1.2.1.58	CoA	CO2	white
+phenylglyoxylate dehydrogenase alpha subunit	1.2.1.58	CoA	H+	white
+phenylglyoxylate dehydrogenase alpha subunit	1.2.1.58	CoA	NADH	white
+phenylglyoxylate dehydrogenase alpha subunit	1.2.1.58	H+	CoA	white
+phenylglyoxylate dehydrogenase alpha subunit	1.2.1.58	H+	NAD+	white
+phenylglyoxylate dehydrogenase alpha subunit	1.2.1.58	H+	alpha-Oxo-benzeneacetic acid	white
+phenylglyoxylate dehydrogenase alpha subunit	1.2.1.58	NAD+	Benzoyl-CoA	white
+phenylglyoxylate dehydrogenase alpha subunit	1.2.1.58	NAD+	CO2	white
+phenylglyoxylate dehydrogenase alpha subunit	1.2.1.58	NAD+	H+	white
+phenylglyoxylate dehydrogenase alpha subunit	1.2.1.58	NAD+	NADH	white
+phenylglyoxylate dehydrogenase alpha subunit	1.2.1.58	NADH	CoA	white
+phenylglyoxylate dehydrogenase alpha subunit	1.2.1.58	NADH	NAD+	white
+phenylglyoxylate dehydrogenase alpha subunit	1.2.1.58	NADH	alpha-Oxo-benzeneacetic acid	white
+phenylglyoxylate dehydrogenase alpha subunit	1.2.1.58	alpha-Oxo-benzeneacetic acid	Benzoyl-CoA	white
+phenylglyoxylate dehydrogenase alpha subunit	1.2.1.58	alpha-Oxo-benzeneacetic acid	CO2	white
+phenylglyoxylate dehydrogenase alpha subunit	1.2.1.58	alpha-Oxo-benzeneacetic acid	H+	white
+phenylglyoxylate dehydrogenase alpha subunit	1.2.1.58	alpha-Oxo-benzeneacetic acid	NADH	white
+phenylglyoxylate dehydrogenase beta subunit	1.2.1.58	Benzoyl-CoA	CoA	white
+phenylglyoxylate dehydrogenase beta subunit	1.2.1.58	Benzoyl-CoA	NAD+	white
+phenylglyoxylate dehydrogenase beta subunit	1.2.1.58	Benzoyl-CoA	alpha-Oxo-benzeneacetic acid	white
+phenylglyoxylate dehydrogenase beta subunit	1.2.1.58	CO2	CoA	white
+phenylglyoxylate dehydrogenase beta subunit	1.2.1.58	CO2	NAD+	white
+phenylglyoxylate dehydrogenase beta subunit	1.2.1.58	CO2	alpha-Oxo-benzeneacetic acid	white
+phenylglyoxylate dehydrogenase beta subunit	1.2.1.58	CoA	Benzoyl-CoA	white
+phenylglyoxylate dehydrogenase beta subunit	1.2.1.58	CoA	CO2	white
+phenylglyoxylate dehydrogenase beta subunit	1.2.1.58	CoA	H+	white
+phenylglyoxylate dehydrogenase beta subunit	1.2.1.58	CoA	NADH	white
+phenylglyoxylate dehydrogenase beta subunit	1.2.1.58	H+	CoA	white
+phenylglyoxylate dehydrogenase beta subunit	1.2.1.58	H+	NAD+	white
+phenylglyoxylate dehydrogenase beta subunit	1.2.1.58	H+	alpha-Oxo-benzeneacetic acid	white
+phenylglyoxylate dehydrogenase beta subunit	1.2.1.58	NAD+	Benzoyl-CoA	white
+phenylglyoxylate dehydrogenase beta subunit	1.2.1.58	NAD+	CO2	white
+phenylglyoxylate dehydrogenase beta subunit	1.2.1.58	NAD+	H+	white
+phenylglyoxylate dehydrogenase beta subunit	1.2.1.58	NAD+	NADH	white
+phenylglyoxylate dehydrogenase beta subunit	1.2.1.58	NADH	CoA	white
+phenylglyoxylate dehydrogenase beta subunit	1.2.1.58	NADH	NAD+	white
+phenylglyoxylate dehydrogenase beta subunit	1.2.1.58	NADH	alpha-Oxo-benzeneacetic acid	white
+phenylglyoxylate dehydrogenase beta subunit	1.2.1.58	alpha-Oxo-benzeneacetic acid	Benzoyl-CoA	white
+phenylglyoxylate dehydrogenase beta subunit	1.2.1.58	alpha-Oxo-benzeneacetic acid	CO2	white
+phenylglyoxylate dehydrogenase beta subunit	1.2.1.58	alpha-Oxo-benzeneacetic acid	H+	white
+phenylglyoxylate dehydrogenase beta subunit	1.2.1.58	alpha-Oxo-benzeneacetic acid	NADH	white
+phenylglyoxylate dehydrogenase delta subunit	1.2.1.58	Benzoyl-CoA	CoA	white
+phenylglyoxylate dehydrogenase delta subunit	1.2.1.58	Benzoyl-CoA	NAD+	white
+phenylglyoxylate dehydrogenase delta subunit	1.2.1.58	Benzoyl-CoA	alpha-Oxo-benzeneacetic acid	white
+phenylglyoxylate dehydrogenase delta subunit	1.2.1.58	CO2	CoA	white
+phenylglyoxylate dehydrogenase delta subunit	1.2.1.58	CO2	NAD+	white
+phenylglyoxylate dehydrogenase delta subunit	1.2.1.58	CO2	alpha-Oxo-benzeneacetic acid	white
+phenylglyoxylate dehydrogenase delta subunit	1.2.1.58	CoA	Benzoyl-CoA	white
+phenylglyoxylate dehydrogenase delta subunit	1.2.1.58	CoA	CO2	white
+phenylglyoxylate dehydrogenase delta subunit	1.2.1.58	CoA	H+	white
+phenylglyoxylate dehydrogenase delta subunit	1.2.1.58	CoA	NADH	white
+phenylglyoxylate dehydrogenase delta subunit	1.2.1.58	H+	CoA	white
+phenylglyoxylate dehydrogenase delta subunit	1.2.1.58	H+	NAD+	white
+phenylglyoxylate dehydrogenase delta subunit	1.2.1.58	H+	alpha-Oxo-benzeneacetic acid	white
+phenylglyoxylate dehydrogenase delta subunit	1.2.1.58	NAD+	Benzoyl-CoA	white
+phenylglyoxylate dehydrogenase delta subunit	1.2.1.58	NAD+	CO2	white
+phenylglyoxylate dehydrogenase delta subunit	1.2.1.58	NAD+	H+	white
+phenylglyoxylate dehydrogenase delta subunit	1.2.1.58	NAD+	NADH	white
+phenylglyoxylate dehydrogenase delta subunit	1.2.1.58	NADH	CoA	white
+phenylglyoxylate dehydrogenase delta subunit	1.2.1.58	NADH	NAD+	white
+phenylglyoxylate dehydrogenase delta subunit	1.2.1.58	NADH	alpha-Oxo-benzeneacetic acid	white
+phenylglyoxylate dehydrogenase delta subunit	1.2.1.58	alpha-Oxo-benzeneacetic acid	Benzoyl-CoA	white
+phenylglyoxylate dehydrogenase delta subunit	1.2.1.58	alpha-Oxo-benzeneacetic acid	CO2	white
+phenylglyoxylate dehydrogenase delta subunit	1.2.1.58	alpha-Oxo-benzeneacetic acid	H+	white
+phenylglyoxylate dehydrogenase delta subunit	1.2.1.58	alpha-Oxo-benzeneacetic acid	NADH	white
+phenylglyoxylate dehydrogenase epsilon subunit	1.2.1.58	Benzoyl-CoA	CoA	white
+phenylglyoxylate dehydrogenase epsilon subunit	1.2.1.58	Benzoyl-CoA	NAD+	white
+phenylglyoxylate dehydrogenase epsilon subunit	1.2.1.58	Benzoyl-CoA	alpha-Oxo-benzeneacetic acid	white
+phenylglyoxylate dehydrogenase epsilon subunit	1.2.1.58	CO2	CoA	white
+phenylglyoxylate dehydrogenase epsilon subunit	1.2.1.58	CO2	NAD+	white
+phenylglyoxylate dehydrogenase epsilon subunit	1.2.1.58	CO2	alpha-Oxo-benzeneacetic acid	white
+phenylglyoxylate dehydrogenase epsilon subunit	1.2.1.58	CoA	Benzoyl-CoA	white
+phenylglyoxylate dehydrogenase epsilon subunit	1.2.1.58	CoA	CO2	white
+phenylglyoxylate dehydrogenase epsilon subunit	1.2.1.58	CoA	H+	white
+phenylglyoxylate dehydrogenase epsilon subunit	1.2.1.58	CoA	NADH	white
+phenylglyoxylate dehydrogenase epsilon subunit	1.2.1.58	H+	CoA	white
+phenylglyoxylate dehydrogenase epsilon subunit	1.2.1.58	H+	NAD+	white
+phenylglyoxylate dehydrogenase epsilon subunit	1.2.1.58	H+	alpha-Oxo-benzeneacetic acid	white
+phenylglyoxylate dehydrogenase epsilon subunit	1.2.1.58	NAD+	Benzoyl-CoA	white
+phenylglyoxylate dehydrogenase epsilon subunit	1.2.1.58	NAD+	CO2	white
+phenylglyoxylate dehydrogenase epsilon subunit	1.2.1.58	NAD+	H+	white
+phenylglyoxylate dehydrogenase epsilon subunit	1.2.1.58	NAD+	NADH	white
+phenylglyoxylate dehydrogenase epsilon subunit	1.2.1.58	NADH	CoA	white
+phenylglyoxylate dehydrogenase epsilon subunit	1.2.1.58	NADH	NAD+	white
+phenylglyoxylate dehydrogenase epsilon subunit	1.2.1.58	NADH	alpha-Oxo-benzeneacetic acid	white
+phenylglyoxylate dehydrogenase epsilon subunit	1.2.1.58	alpha-Oxo-benzeneacetic acid	Benzoyl-CoA	white
+phenylglyoxylate dehydrogenase epsilon subunit	1.2.1.58	alpha-Oxo-benzeneacetic acid	CO2	white
+phenylglyoxylate dehydrogenase epsilon subunit	1.2.1.58	alpha-Oxo-benzeneacetic acid	H+	white
+phenylglyoxylate dehydrogenase epsilon subunit	1.2.1.58	alpha-Oxo-benzeneacetic acid	NADH	white
+phenylglyoxylate dehydrogenase gamma subunit	1.2.1.58	Benzoyl-CoA	CoA	white
+phenylglyoxylate dehydrogenase gamma subunit	1.2.1.58	Benzoyl-CoA	NAD+	white
+phenylglyoxylate dehydrogenase gamma subunit	1.2.1.58	Benzoyl-CoA	alpha-Oxo-benzeneacetic acid	white
+phenylglyoxylate dehydrogenase gamma subunit	1.2.1.58	CO2	CoA	white
+phenylglyoxylate dehydrogenase gamma subunit	1.2.1.58	CO2	NAD+	white
+phenylglyoxylate dehydrogenase gamma subunit	1.2.1.58	CO2	alpha-Oxo-benzeneacetic acid	white
+phenylglyoxylate dehydrogenase gamma subunit	1.2.1.58	CoA	Benzoyl-CoA	white
+phenylglyoxylate dehydrogenase gamma subunit	1.2.1.58	CoA	CO2	white
+phenylglyoxylate dehydrogenase gamma subunit	1.2.1.58	CoA	H+	white
+phenylglyoxylate dehydrogenase gamma subunit	1.2.1.58	CoA	NADH	white
+phenylglyoxylate dehydrogenase gamma subunit	1.2.1.58	H+	CoA	white
+phenylglyoxylate dehydrogenase gamma subunit	1.2.1.58	H+	NAD+	white
+phenylglyoxylate dehydrogenase gamma subunit	1.2.1.58	H+	alpha-Oxo-benzeneacetic acid	white
+phenylglyoxylate dehydrogenase gamma subunit	1.2.1.58	NAD+	Benzoyl-CoA	white
+phenylglyoxylate dehydrogenase gamma subunit	1.2.1.58	NAD+	CO2	white
+phenylglyoxylate dehydrogenase gamma subunit	1.2.1.58	NAD+	H+	white
+phenylglyoxylate dehydrogenase gamma subunit	1.2.1.58	NAD+	NADH	white
+phenylglyoxylate dehydrogenase gamma subunit	1.2.1.58	NADH	CoA	white
+phenylglyoxylate dehydrogenase gamma subunit	1.2.1.58	NADH	NAD+	white
+phenylglyoxylate dehydrogenase gamma subunit	1.2.1.58	NADH	alpha-Oxo-benzeneacetic acid	white
+phenylglyoxylate dehydrogenase gamma subunit	1.2.1.58	alpha-Oxo-benzeneacetic acid	Benzoyl-CoA	white
+phenylglyoxylate dehydrogenase gamma subunit	1.2.1.58	alpha-Oxo-benzeneacetic acid	CO2	white
+phenylglyoxylate dehydrogenase gamma subunit	1.2.1.58	alpha-Oxo-benzeneacetic acid	H+	white
+phenylglyoxylate dehydrogenase gamma subunit	1.2.1.58	alpha-Oxo-benzeneacetic acid	NADH	white
+phenylpyruvate decarboxylase	4.1.1.-	CO2	Phenylpyruvate	white
+phenylpyruvate decarboxylase	4.1.1.-	Phenylacetaldehyde	Phenylpyruvate	white
+phenylpyruvate decarboxylase	4.1.1.-	Phenylpyruvate	CO2	white
+phenylpyruvate decarboxylase	4.1.1.-	Phenylpyruvate	Phenylacetaldehyde	white
+phenylpyruvate tautomerase	5.3.2.1	2-Hydroxy-3-phenylpropenoate	Phenylpyruvate	white
+phenylpyruvate tautomerase	5.3.2.1	Phenylpyruvate	2-Hydroxy-3-phenylpropenoate	white
+polyporic acid synthase	6.4.1.11	AMP	ATP	white
+polyporic acid synthase	6.4.1.11	AMP	Phenylpyruvate	white
+polyporic acid synthase	6.4.1.11	ATP	AMP	white
+polyporic acid synthase	6.4.1.11	ATP	Diphosphate	white
+polyporic acid synthase	6.4.1.11	ATP	Polyporic acid	white
+polyporic acid synthase	6.4.1.11	Diphosphate	ATP	white
+polyporic acid synthase	6.4.1.11	Diphosphate	Phenylpyruvate	white
+polyporic acid synthase	6.4.1.11	Phenylpyruvate	AMP	white
+polyporic acid synthase	6.4.1.11	Phenylpyruvate	Diphosphate	white
+polyporic acid synthase	6.4.1.11	Phenylpyruvate	Polyporic acid	white
+polyporic acid synthase	6.4.1.11	Polyporic acid	ATP	white
+polyporic acid synthase	6.4.1.11	Polyporic acid	Phenylpyruvate	white
+primary-amine oxidase	1.4.3.21	Ammonia	H2O	green
+primary-amine oxidase	1.4.3.21	Ammonia	Oxygen	green
+primary-amine oxidase	1.4.3.21	Ammonia	Phenethylamine	green
+primary-amine oxidase	1.4.3.21	H2O	Ammonia	green
+primary-amine oxidase	1.4.3.21	H2O	Hydrogen peroxide	green
+primary-amine oxidase	1.4.3.21	H2O	Phenylacetaldehyde	green
+primary-amine oxidase	1.4.3.21	Hydrogen peroxide	H2O	green
+primary-amine oxidase	1.4.3.21	Hydrogen peroxide	Oxygen	green
+primary-amine oxidase	1.4.3.21	Hydrogen peroxide	Phenethylamine	green
+primary-amine oxidase	1.4.3.21	Oxygen	Ammonia	green
+primary-amine oxidase	1.4.3.21	Oxygen	Hydrogen peroxide	green
+primary-amine oxidase	1.4.3.21	Oxygen	Phenylacetaldehyde	green
+primary-amine oxidase	1.4.3.21	Phenethylamine	Ammonia	green
+primary-amine oxidase	1.4.3.21	Phenethylamine	Hydrogen peroxide	green
+primary-amine oxidase	1.4.3.21	Phenethylamine	Phenylacetaldehyde	green
+primary-amine oxidase	1.4.3.21	Phenylacetaldehyde	H2O	green
+primary-amine oxidase	1.4.3.21	Phenylacetaldehyde	Oxygen	green
+primary-amine oxidase	1.4.3.21	Phenylacetaldehyde	Phenethylamine	green
+ring-1,2-phenylacetyl-CoA epoxidase subunit PaaA	1.14.13.149	H+	2-(1,2-Epoxy-1,2-dihydrophenyl)acetyl-CoA	green
+ring-1,2-phenylacetyl-CoA epoxidase subunit PaaA	1.14.13.149	H+	H2O	green
+ring-1,2-phenylacetyl-CoA epoxidase subunit PaaA	1.14.13.149	H+	NADP+	green
+ring-1,2-phenylacetyl-CoA epoxidase subunit PaaA	1.14.13.149	NADPH	2-(1,2-Epoxy-1,2-dihydrophenyl)acetyl-CoA	green
+ring-1,2-phenylacetyl-CoA epoxidase subunit PaaA	1.14.13.149	NADPH	H2O	green
+ring-1,2-phenylacetyl-CoA epoxidase subunit PaaA	1.14.13.149	NADPH	NADP+	green
+ring-1,2-phenylacetyl-CoA epoxidase subunit PaaA	1.14.13.149	Oxygen	2-(1,2-Epoxy-1,2-dihydrophenyl)acetyl-CoA	green
+ring-1,2-phenylacetyl-CoA epoxidase subunit PaaA	1.14.13.149	Oxygen	H2O	green
+ring-1,2-phenylacetyl-CoA epoxidase subunit PaaA	1.14.13.149	Oxygen	NADP+	green
+ring-1,2-phenylacetyl-CoA epoxidase subunit PaaA	1.14.13.149	Phenylacetyl-CoA	2-(1,2-Epoxy-1,2-dihydrophenyl)acetyl-CoA	green
+ring-1,2-phenylacetyl-CoA epoxidase subunit PaaA	1.14.13.149	Phenylacetyl-CoA	H2O	green
+ring-1,2-phenylacetyl-CoA epoxidase subunit PaaA	1.14.13.149	Phenylacetyl-CoA	NADP+	green
+ring-1,2-phenylacetyl-CoA epoxidase subunit PaaB	1.14.13.149	H+	2-(1,2-Epoxy-1,2-dihydrophenyl)acetyl-CoA	green
+ring-1,2-phenylacetyl-CoA epoxidase subunit PaaB	1.14.13.149	H+	H2O	green
+ring-1,2-phenylacetyl-CoA epoxidase subunit PaaB	1.14.13.149	H+	NADP+	green
+ring-1,2-phenylacetyl-CoA epoxidase subunit PaaB	1.14.13.149	NADPH	2-(1,2-Epoxy-1,2-dihydrophenyl)acetyl-CoA	green
+ring-1,2-phenylacetyl-CoA epoxidase subunit PaaB	1.14.13.149	NADPH	H2O	green
+ring-1,2-phenylacetyl-CoA epoxidase subunit PaaB	1.14.13.149	NADPH	NADP+	green
+ring-1,2-phenylacetyl-CoA epoxidase subunit PaaB	1.14.13.149	Oxygen	2-(1,2-Epoxy-1,2-dihydrophenyl)acetyl-CoA	green
+ring-1,2-phenylacetyl-CoA epoxidase subunit PaaB	1.14.13.149	Oxygen	H2O	green
+ring-1,2-phenylacetyl-CoA epoxidase subunit PaaB	1.14.13.149	Oxygen	NADP+	green
+ring-1,2-phenylacetyl-CoA epoxidase subunit PaaB	1.14.13.149	Phenylacetyl-CoA	2-(1,2-Epoxy-1,2-dihydrophenyl)acetyl-CoA	green
+ring-1,2-phenylacetyl-CoA epoxidase subunit PaaB	1.14.13.149	Phenylacetyl-CoA	H2O	green
+ring-1,2-phenylacetyl-CoA epoxidase subunit PaaB	1.14.13.149	Phenylacetyl-CoA	NADP+	green
+ring-1,2-phenylacetyl-CoA epoxidase subunit PaaC	1.14.13.149	H+	2-(1,2-Epoxy-1,2-dihydrophenyl)acetyl-CoA	green
+ring-1,2-phenylacetyl-CoA epoxidase subunit PaaC	1.14.13.149	H+	H2O	green
+ring-1,2-phenylacetyl-CoA epoxidase subunit PaaC	1.14.13.149	H+	NADP+	green
+ring-1,2-phenylacetyl-CoA epoxidase subunit PaaC	1.14.13.149	NADPH	2-(1,2-Epoxy-1,2-dihydrophenyl)acetyl-CoA	green
+ring-1,2-phenylacetyl-CoA epoxidase subunit PaaC	1.14.13.149	NADPH	H2O	green
+ring-1,2-phenylacetyl-CoA epoxidase subunit PaaC	1.14.13.149	NADPH	NADP+	green
+ring-1,2-phenylacetyl-CoA epoxidase subunit PaaC	1.14.13.149	Oxygen	2-(1,2-Epoxy-1,2-dihydrophenyl)acetyl-CoA	green
+ring-1,2-phenylacetyl-CoA epoxidase subunit PaaC	1.14.13.149	Oxygen	H2O	green
+ring-1,2-phenylacetyl-CoA epoxidase subunit PaaC	1.14.13.149	Oxygen	NADP+	green
+ring-1,2-phenylacetyl-CoA epoxidase subunit PaaC	1.14.13.149	Phenylacetyl-CoA	2-(1,2-Epoxy-1,2-dihydrophenyl)acetyl-CoA	green
+ring-1,2-phenylacetyl-CoA epoxidase subunit PaaC	1.14.13.149	Phenylacetyl-CoA	H2O	green
+ring-1,2-phenylacetyl-CoA epoxidase subunit PaaC	1.14.13.149	Phenylacetyl-CoA	NADP+	green
+ring-1,2-phenylacetyl-CoA epoxidase subunit PaaD	1.11.1.21	H+	2-(1,2-Epoxy-1,2-dihydrophenyl)acetyl-CoA	green
+ring-1,2-phenylacetyl-CoA epoxidase subunit PaaD	1.11.1.21	H+	H2O	green
+ring-1,2-phenylacetyl-CoA epoxidase subunit PaaD	1.11.1.21	H+	NADP+	green
+ring-1,2-phenylacetyl-CoA epoxidase subunit PaaD	1.11.1.21	NADPH	2-(1,2-Epoxy-1,2-dihydrophenyl)acetyl-CoA	green
+ring-1,2-phenylacetyl-CoA epoxidase subunit PaaD	1.11.1.21	NADPH	H2O	green
+ring-1,2-phenylacetyl-CoA epoxidase subunit PaaD	1.11.1.21	NADPH	NADP+	green
+ring-1,2-phenylacetyl-CoA epoxidase subunit PaaD	1.11.1.21	Oxygen	2-(1,2-Epoxy-1,2-dihydrophenyl)acetyl-CoA	green
+ring-1,2-phenylacetyl-CoA epoxidase subunit PaaD	1.11.1.21	Oxygen	H2O	green
+ring-1,2-phenylacetyl-CoA epoxidase subunit PaaD	1.11.1.21	Oxygen	NADP+	green
+ring-1,2-phenylacetyl-CoA epoxidase subunit PaaD	1.11.1.21	Phenylacetyl-CoA	2-(1,2-Epoxy-1,2-dihydrophenyl)acetyl-CoA	green
+ring-1,2-phenylacetyl-CoA epoxidase subunit PaaD	1.11.1.21	Phenylacetyl-CoA	H2O	green
+ring-1,2-phenylacetyl-CoA epoxidase subunit PaaD	1.11.1.21	Phenylacetyl-CoA	NADP+	green
+ring-1,2-phenylacetyl-CoA epoxidase subunit PaaE	1.11.1.21	H+	2-(1,2-Epoxy-1,2-dihydrophenyl)acetyl-CoA	green
+ring-1,2-phenylacetyl-CoA epoxidase subunit PaaE	1.11.1.21	H+	H2O	green
+ring-1,2-phenylacetyl-CoA epoxidase subunit PaaE	1.11.1.21	H+	NADP+	green
+ring-1,2-phenylacetyl-CoA epoxidase subunit PaaE	1.11.1.21	NADPH	2-(1,2-Epoxy-1,2-dihydrophenyl)acetyl-CoA	green
+ring-1,2-phenylacetyl-CoA epoxidase subunit PaaE	1.11.1.21	NADPH	H2O	green
+ring-1,2-phenylacetyl-CoA epoxidase subunit PaaE	1.11.1.21	NADPH	NADP+	green
+ring-1,2-phenylacetyl-CoA epoxidase subunit PaaE	1.11.1.21	Oxygen	2-(1,2-Epoxy-1,2-dihydrophenyl)acetyl-CoA	green
+ring-1,2-phenylacetyl-CoA epoxidase subunit PaaE	1.11.1.21	Oxygen	H2O	green
+ring-1,2-phenylacetyl-CoA epoxidase subunit PaaE	1.11.1.21	Oxygen	NADP+	green
+ring-1,2-phenylacetyl-CoA epoxidase subunit PaaE	1.11.1.21	Phenylacetyl-CoA	2-(1,2-Epoxy-1,2-dihydrophenyl)acetyl-CoA	green
+ring-1,2-phenylacetyl-CoA epoxidase subunit PaaE	1.11.1.21	Phenylacetyl-CoA	H2O	green
+ring-1,2-phenylacetyl-CoA epoxidase subunit PaaE	1.11.1.21	Phenylacetyl-CoA	NADP+	green
+tyrosine aminotransferase	2.6.1.5	2-Oxoglutarate	L-Glutamate	white
+tyrosine aminotransferase	2.6.1.5	2-Oxoglutarate	Phenylpyruvate	white
+tyrosine aminotransferase	2.6.1.5	L-Glutamate	2-Oxoglutarate	white
+tyrosine aminotransferase	2.6.1.5	L-Glutamate	L-Phenylalanine	white
+tyrosine aminotransferase	2.6.1.5	L-Phenylalanine	L-Glutamate	white
+tyrosine aminotransferase	2.6.1.5	L-Phenylalanine	Phenylpyruvate	white
+tyrosine aminotransferase	2.6.1.5	Phenylpyruvate	2-Oxoglutarate	white
+tyrosine aminotransferase	2.6.1.5	Phenylpyruvate	L-Phenylalanine	white

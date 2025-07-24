@@ -1,0 +1,430 @@
+enzyme_name	EC	source	target	color
+L-seryl-tRNA(Ser) seleniumtransferase	2.9.1.1	L-Selenocysteinyl-tRNA(Sec)	L-Seryl-tRNA(Sec)	white
+L-seryl-tRNA(Ser) seleniumtransferase	2.9.1.1	L-Selenocysteinyl-tRNA(Sec)	Selenophosphoric acid	white
+L-seryl-tRNA(Ser) seleniumtransferase	2.9.1.1	L-Seryl-tRNA(Sec)	L-Selenocysteinyl-tRNA(Sec)	white
+L-seryl-tRNA(Ser) seleniumtransferase	2.9.1.1	L-Seryl-tRNA(Sec)	Orthophosphate	white
+L-seryl-tRNA(Ser) seleniumtransferase	2.9.1.1	Orthophosphate	L-Seryl-tRNA(Sec)	white
+L-seryl-tRNA(Ser) seleniumtransferase	2.9.1.1	Orthophosphate	Selenophosphoric acid	white
+L-seryl-tRNA(Ser) seleniumtransferase	2.9.1.1	Selenophosphoric acid	L-Selenocysteinyl-tRNA(Sec)	white
+L-seryl-tRNA(Ser) seleniumtransferase	2.9.1.1	Selenophosphoric acid	Orthophosphate	white
+O-phospho-L-seryl-tRNASec:L-selenocysteinyl-tRNA synthase	2.9.1.2	H2O	L-Selenocysteinyl-tRNA(Sec)	white
+O-phospho-L-seryl-tRNASec:L-selenocysteinyl-tRNA synthase	2.9.1.2	H2O	Orthophosphate	white
+O-phospho-L-seryl-tRNASec:L-selenocysteinyl-tRNA synthase	2.9.1.2	L-Selenocysteinyl-tRNA(Sec)	H2O	white
+O-phospho-L-seryl-tRNASec:L-selenocysteinyl-tRNA synthase	2.9.1.2	L-Selenocysteinyl-tRNA(Sec)	O-Phosphoseryl-tRNA(Sec)	white
+O-phospho-L-seryl-tRNASec:L-selenocysteinyl-tRNA synthase	2.9.1.2	L-Selenocysteinyl-tRNA(Sec)	Selenophosphoric acid	white
+O-phospho-L-seryl-tRNASec:L-selenocysteinyl-tRNA synthase	2.9.1.2	O-Phosphoseryl-tRNA(Sec)	L-Selenocysteinyl-tRNA(Sec)	white
+O-phospho-L-seryl-tRNASec:L-selenocysteinyl-tRNA synthase	2.9.1.2	O-Phosphoseryl-tRNA(Sec)	Orthophosphate	white
+O-phospho-L-seryl-tRNASec:L-selenocysteinyl-tRNA synthase	2.9.1.2	Orthophosphate	H2O	white
+O-phospho-L-seryl-tRNASec:L-selenocysteinyl-tRNA synthase	2.9.1.2	Orthophosphate	O-Phosphoseryl-tRNA(Sec)	white
+O-phospho-L-seryl-tRNASec:L-selenocysteinyl-tRNA synthase	2.9.1.2	Orthophosphate	Selenophosphoric acid	white
+O-phospho-L-seryl-tRNASec:L-selenocysteinyl-tRNA synthase	2.9.1.2	Selenophosphoric acid	L-Selenocysteinyl-tRNA(Sec)	white
+O-phospho-L-seryl-tRNASec:L-selenocysteinyl-tRNA synthase	2.9.1.2	Selenophosphoric acid	Orthophosphate	white
+O-phosphoseryl-tRNA synthetase	6.1.1.27	AMP	ATP	white
+O-phosphoseryl-tRNA synthetase	6.1.1.27	AMP	O-Phospho-L-serine	white
+O-phosphoseryl-tRNA synthetase	6.1.1.27	AMP	tRNA(Cys)	white
+O-phosphoseryl-tRNA synthetase	6.1.1.27	ATP	AMP	white
+O-phosphoseryl-tRNA synthetase	6.1.1.27	ATP	Diphosphate	white
+O-phosphoseryl-tRNA synthetase	6.1.1.27	ATP	O-Phosphoseryl-tRNA(Cys)	white
+O-phosphoseryl-tRNA synthetase	6.1.1.27	Diphosphate	ATP	white
+O-phosphoseryl-tRNA synthetase	6.1.1.27	Diphosphate	O-Phospho-L-serine	white
+O-phosphoseryl-tRNA synthetase	6.1.1.27	Diphosphate	tRNA(Cys)	white
+O-phosphoseryl-tRNA synthetase	6.1.1.27	O-Phospho-L-serine	AMP	white
+O-phosphoseryl-tRNA synthetase	6.1.1.27	O-Phospho-L-serine	Diphosphate	white
+O-phosphoseryl-tRNA synthetase	6.1.1.27	O-Phospho-L-serine	O-Phosphoseryl-tRNA(Cys)	white
+O-phosphoseryl-tRNA synthetase	6.1.1.27	O-Phosphoseryl-tRNA(Cys)	ATP	white
+O-phosphoseryl-tRNA synthetase	6.1.1.27	O-Phosphoseryl-tRNA(Cys)	O-Phospho-L-serine	white
+O-phosphoseryl-tRNA synthetase	6.1.1.27	O-Phosphoseryl-tRNA(Cys)	tRNA(Cys)	white
+O-phosphoseryl-tRNA synthetase	6.1.1.27	tRNA(Cys)	AMP	white
+O-phosphoseryl-tRNA synthetase	6.1.1.27	tRNA(Cys)	Diphosphate	white
+O-phosphoseryl-tRNA synthetase	6.1.1.27	tRNA(Cys)	O-Phosphoseryl-tRNA(Cys)	white
+O-phosphoseryl-tRNA(Sec) kinase	2.7.1.164	ADP	ATP	white
+O-phosphoseryl-tRNA(Sec) kinase	2.7.1.164	ADP	L-Seryl-tRNA(Sec)	white
+O-phosphoseryl-tRNA(Sec) kinase	2.7.1.164	ATP	ADP	white
+O-phosphoseryl-tRNA(Sec) kinase	2.7.1.164	ATP	O-Phosphoseryl-tRNA(Sec)	white
+O-phosphoseryl-tRNA(Sec) kinase	2.7.1.164	L-Seryl-tRNA(Sec)	ADP	white
+O-phosphoseryl-tRNA(Sec) kinase	2.7.1.164	L-Seryl-tRNA(Sec)	O-Phosphoseryl-tRNA(Sec)	white
+O-phosphoseryl-tRNA(Sec) kinase	2.7.1.164	O-Phosphoseryl-tRNA(Sec)	ATP	white
+O-phosphoseryl-tRNA(Sec) kinase	2.7.1.164	O-Phosphoseryl-tRNA(Sec)	L-Seryl-tRNA(Sec)	white
+Sep-tRNA:Cys-tRNA synthetase	2.5.1.73	Hydrogen sulfide	L-Cysteinyl-tRNA(Cys)	white
+Sep-tRNA:Cys-tRNA synthetase	2.5.1.73	Hydrogen sulfide	Orthophosphate	white
+Sep-tRNA:Cys-tRNA synthetase	2.5.1.73	L-Cysteinyl-tRNA(Cys)	Hydrogen sulfide	white
+Sep-tRNA:Cys-tRNA synthetase	2.5.1.73	L-Cysteinyl-tRNA(Cys)	O-Phosphoseryl-tRNA(Cys)	white
+Sep-tRNA:Cys-tRNA synthetase	2.5.1.73	O-Phosphoseryl-tRNA(Cys)	L-Cysteinyl-tRNA(Cys)	white
+Sep-tRNA:Cys-tRNA synthetase	2.5.1.73	O-Phosphoseryl-tRNA(Cys)	Orthophosphate	white
+Sep-tRNA:Cys-tRNA synthetase	2.5.1.73	Orthophosphate	Hydrogen sulfide	white
+Sep-tRNA:Cys-tRNA synthetase	2.5.1.73	Orthophosphate	O-Phosphoseryl-tRNA(Cys)	white
+alanyl-tRNA synthetase	6.1.1.7	ATP	AMP	green
+alanyl-tRNA synthetase	6.1.1.7	ATP	Diphosphate	green
+alanyl-tRNA synthetase	6.1.1.7	ATP	L-Alanyl-tRNA	green
+alanyl-tRNA synthetase	6.1.1.7	L-Alanine	AMP	green
+alanyl-tRNA synthetase	6.1.1.7	L-Alanine	Diphosphate	green
+alanyl-tRNA synthetase	6.1.1.7	L-Alanine	L-Alanyl-tRNA	green
+alanyl-tRNA synthetase	6.1.1.7	tRNA(Ala)	AMP	green
+alanyl-tRNA synthetase	6.1.1.7	tRNA(Ala)	Diphosphate	green
+alanyl-tRNA synthetase	6.1.1.7	tRNA(Ala)	L-Alanyl-tRNA	green
+arginyl-tRNA synthetase	6.1.1.19	ATP	AMP	green
+arginyl-tRNA synthetase	6.1.1.19	ATP	Diphosphate	green
+arginyl-tRNA synthetase	6.1.1.19	ATP	L-Arginyl-tRNA(Arg)	green
+arginyl-tRNA synthetase	6.1.1.19	L-Arginine	AMP	green
+arginyl-tRNA synthetase	6.1.1.19	L-Arginine	Diphosphate	green
+arginyl-tRNA synthetase	6.1.1.19	L-Arginine	L-Arginyl-tRNA(Arg)	green
+arginyl-tRNA synthetase	6.1.1.19	tRNA(Arg)	AMP	green
+arginyl-tRNA synthetase	6.1.1.19	tRNA(Arg)	Diphosphate	green
+arginyl-tRNA synthetase	6.1.1.19	tRNA(Arg)	L-Arginyl-tRNA(Arg)	green
+asparaginyl-tRNA synthetase	6.1.1.22	AMP	ATP	white
+asparaginyl-tRNA synthetase	6.1.1.22	AMP	L-Asparagine	white
+asparaginyl-tRNA synthetase	6.1.1.22	AMP	tRNA(Asn)	white
+asparaginyl-tRNA synthetase	6.1.1.22	ATP	AMP	white
+asparaginyl-tRNA synthetase	6.1.1.22	ATP	Diphosphate	white
+asparaginyl-tRNA synthetase	6.1.1.22	ATP	L-Asparaginyl-tRNA(Asn)	white
+asparaginyl-tRNA synthetase	6.1.1.22	Diphosphate	ATP	white
+asparaginyl-tRNA synthetase	6.1.1.22	Diphosphate	L-Asparagine	white
+asparaginyl-tRNA synthetase	6.1.1.22	Diphosphate	tRNA(Asn)	white
+asparaginyl-tRNA synthetase	6.1.1.22	L-Asparagine	AMP	white
+asparaginyl-tRNA synthetase	6.1.1.22	L-Asparagine	Diphosphate	white
+asparaginyl-tRNA synthetase	6.1.1.22	L-Asparagine	L-Asparaginyl-tRNA(Asn)	white
+asparaginyl-tRNA synthetase	6.1.1.22	L-Asparaginyl-tRNA(Asn)	ATP	white
+asparaginyl-tRNA synthetase	6.1.1.22	L-Asparaginyl-tRNA(Asn)	L-Asparagine	white
+asparaginyl-tRNA synthetase	6.1.1.22	L-Asparaginyl-tRNA(Asn)	tRNA(Asn)	white
+asparaginyl-tRNA synthetase	6.1.1.22	tRNA(Asn)	AMP	white
+asparaginyl-tRNA synthetase	6.1.1.22	tRNA(Asn)	Diphosphate	white
+asparaginyl-tRNA synthetase	6.1.1.22	tRNA(Asn)	L-Asparaginyl-tRNA(Asn)	white
+aspartyl-tRNA synthetase	6.1.1.12	ATP	AMP	green
+aspartyl-tRNA synthetase	6.1.1.12	ATP	Diphosphate	green
+aspartyl-tRNA synthetase	6.1.1.12	ATP	L-Aspartyl-tRNA(Asp)	green
+aspartyl-tRNA synthetase	6.1.1.12	L-Aspartate	AMP	green
+aspartyl-tRNA synthetase	6.1.1.12	L-Aspartate	Diphosphate	green
+aspartyl-tRNA synthetase	6.1.1.12	L-Aspartate	L-Aspartyl-tRNA(Asp)	green
+aspartyl-tRNA synthetase	6.1.1.12	tRNA(Asp)	AMP	green
+aspartyl-tRNA synthetase	6.1.1.12	tRNA(Asp)	Diphosphate	green
+aspartyl-tRNA synthetase	6.1.1.12	tRNA(Asp)	L-Aspartyl-tRNA(Asp)	green
+aspartyl-tRNA(Asn)/glutamyl-tRNA(Gln) amidotransferase subunit A	6.3.5.6	ADP	ATP	green
+aspartyl-tRNA(Asn)/glutamyl-tRNA(Gln) amidotransferase subunit A	6.3.5.6	ADP	H2O	green
+aspartyl-tRNA(Asn)/glutamyl-tRNA(Gln) amidotransferase subunit A	6.3.5.6	ADP	L-Aspartyl-tRNA(Asn)	green
+aspartyl-tRNA(Asn)/glutamyl-tRNA(Gln) amidotransferase subunit A	6.3.5.6	ADP	L-Glutamine	green
+aspartyl-tRNA(Asn)/glutamyl-tRNA(Gln) amidotransferase subunit A	6.3.5.6	ADP	L-Glutamyl-tRNA(Gln)	green
+aspartyl-tRNA(Asn)/glutamyl-tRNA(Gln) amidotransferase subunit A	6.3.5.6	Glutaminyl-tRNA	ATP	green
+aspartyl-tRNA(Asn)/glutamyl-tRNA(Gln) amidotransferase subunit A	6.3.5.6	Glutaminyl-tRNA	H2O	green
+aspartyl-tRNA(Asn)/glutamyl-tRNA(Gln) amidotransferase subunit A	6.3.5.6	Glutaminyl-tRNA	L-Glutamine	green
+aspartyl-tRNA(Asn)/glutamyl-tRNA(Gln) amidotransferase subunit A	6.3.5.6	Glutaminyl-tRNA	L-Glutamyl-tRNA(Gln)	green
+aspartyl-tRNA(Asn)/glutamyl-tRNA(Gln) amidotransferase subunit A	6.3.5.6	L-Asparaginyl-tRNA(Asn)	ATP	green
+aspartyl-tRNA(Asn)/glutamyl-tRNA(Gln) amidotransferase subunit A	6.3.5.6	L-Asparaginyl-tRNA(Asn)	H2O	green
+aspartyl-tRNA(Asn)/glutamyl-tRNA(Gln) amidotransferase subunit A	6.3.5.6	L-Asparaginyl-tRNA(Asn)	L-Aspartyl-tRNA(Asn)	green
+aspartyl-tRNA(Asn)/glutamyl-tRNA(Gln) amidotransferase subunit A	6.3.5.6	L-Asparaginyl-tRNA(Asn)	L-Glutamine	green
+aspartyl-tRNA(Asn)/glutamyl-tRNA(Gln) amidotransferase subunit A	6.3.5.6	L-Glutamate	ATP	green
+aspartyl-tRNA(Asn)/glutamyl-tRNA(Gln) amidotransferase subunit A	6.3.5.6	L-Glutamate	H2O	green
+aspartyl-tRNA(Asn)/glutamyl-tRNA(Gln) amidotransferase subunit A	6.3.5.6	L-Glutamate	L-Aspartyl-tRNA(Asn)	green
+aspartyl-tRNA(Asn)/glutamyl-tRNA(Gln) amidotransferase subunit A	6.3.5.6	L-Glutamate	L-Glutamine	green
+aspartyl-tRNA(Asn)/glutamyl-tRNA(Gln) amidotransferase subunit A	6.3.5.6	L-Glutamate	L-Glutamyl-tRNA(Gln)	green
+aspartyl-tRNA(Asn)/glutamyl-tRNA(Gln) amidotransferase subunit A	6.3.5.6	Orthophosphate	ATP	green
+aspartyl-tRNA(Asn)/glutamyl-tRNA(Gln) amidotransferase subunit A	6.3.5.6	Orthophosphate	H2O	green
+aspartyl-tRNA(Asn)/glutamyl-tRNA(Gln) amidotransferase subunit A	6.3.5.6	Orthophosphate	L-Aspartyl-tRNA(Asn)	green
+aspartyl-tRNA(Asn)/glutamyl-tRNA(Gln) amidotransferase subunit A	6.3.5.6	Orthophosphate	L-Glutamine	green
+aspartyl-tRNA(Asn)/glutamyl-tRNA(Gln) amidotransferase subunit A	6.3.5.6	Orthophosphate	L-Glutamyl-tRNA(Gln)	green
+aspartyl-tRNA(Asn)/glutamyl-tRNA(Gln) amidotransferase subunit B	6.3.5.6	ADP	ATP	green
+aspartyl-tRNA(Asn)/glutamyl-tRNA(Gln) amidotransferase subunit B	6.3.5.6	ADP	H2O	green
+aspartyl-tRNA(Asn)/glutamyl-tRNA(Gln) amidotransferase subunit B	6.3.5.6	ADP	L-Aspartyl-tRNA(Asn)	green
+aspartyl-tRNA(Asn)/glutamyl-tRNA(Gln) amidotransferase subunit B	6.3.5.6	ADP	L-Glutamine	green
+aspartyl-tRNA(Asn)/glutamyl-tRNA(Gln) amidotransferase subunit B	6.3.5.6	ADP	L-Glutamyl-tRNA(Gln)	green
+aspartyl-tRNA(Asn)/glutamyl-tRNA(Gln) amidotransferase subunit B	6.3.5.6	Glutaminyl-tRNA	ATP	green
+aspartyl-tRNA(Asn)/glutamyl-tRNA(Gln) amidotransferase subunit B	6.3.5.6	Glutaminyl-tRNA	H2O	green
+aspartyl-tRNA(Asn)/glutamyl-tRNA(Gln) amidotransferase subunit B	6.3.5.6	Glutaminyl-tRNA	L-Glutamine	green
+aspartyl-tRNA(Asn)/glutamyl-tRNA(Gln) amidotransferase subunit B	6.3.5.6	Glutaminyl-tRNA	L-Glutamyl-tRNA(Gln)	green
+aspartyl-tRNA(Asn)/glutamyl-tRNA(Gln) amidotransferase subunit B	6.3.5.6	L-Asparaginyl-tRNA(Asn)	ATP	green
+aspartyl-tRNA(Asn)/glutamyl-tRNA(Gln) amidotransferase subunit B	6.3.5.6	L-Asparaginyl-tRNA(Asn)	H2O	green
+aspartyl-tRNA(Asn)/glutamyl-tRNA(Gln) amidotransferase subunit B	6.3.5.6	L-Asparaginyl-tRNA(Asn)	L-Aspartyl-tRNA(Asn)	green
+aspartyl-tRNA(Asn)/glutamyl-tRNA(Gln) amidotransferase subunit B	6.3.5.6	L-Asparaginyl-tRNA(Asn)	L-Glutamine	green
+aspartyl-tRNA(Asn)/glutamyl-tRNA(Gln) amidotransferase subunit B	6.3.5.6	L-Glutamate	ATP	green
+aspartyl-tRNA(Asn)/glutamyl-tRNA(Gln) amidotransferase subunit B	6.3.5.6	L-Glutamate	H2O	green
+aspartyl-tRNA(Asn)/glutamyl-tRNA(Gln) amidotransferase subunit B	6.3.5.6	L-Glutamate	L-Aspartyl-tRNA(Asn)	green
+aspartyl-tRNA(Asn)/glutamyl-tRNA(Gln) amidotransferase subunit B	6.3.5.6	L-Glutamate	L-Glutamine	green
+aspartyl-tRNA(Asn)/glutamyl-tRNA(Gln) amidotransferase subunit B	6.3.5.6	L-Glutamate	L-Glutamyl-tRNA(Gln)	green
+aspartyl-tRNA(Asn)/glutamyl-tRNA(Gln) amidotransferase subunit B	6.3.5.6	Orthophosphate	ATP	green
+aspartyl-tRNA(Asn)/glutamyl-tRNA(Gln) amidotransferase subunit B	6.3.5.6	Orthophosphate	H2O	green
+aspartyl-tRNA(Asn)/glutamyl-tRNA(Gln) amidotransferase subunit B	6.3.5.6	Orthophosphate	L-Aspartyl-tRNA(Asn)	green
+aspartyl-tRNA(Asn)/glutamyl-tRNA(Gln) amidotransferase subunit B	6.3.5.6	Orthophosphate	L-Glutamine	green
+aspartyl-tRNA(Asn)/glutamyl-tRNA(Gln) amidotransferase subunit B	6.3.5.6	Orthophosphate	L-Glutamyl-tRNA(Gln)	green
+aspartyl-tRNA(Asn)/glutamyl-tRNA(Gln) amidotransferase subunit C	6.3.5.6	ADP	ATP	green
+aspartyl-tRNA(Asn)/glutamyl-tRNA(Gln) amidotransferase subunit C	6.3.5.6	ADP	H2O	green
+aspartyl-tRNA(Asn)/glutamyl-tRNA(Gln) amidotransferase subunit C	6.3.5.6	ADP	L-Aspartyl-tRNA(Asn)	green
+aspartyl-tRNA(Asn)/glutamyl-tRNA(Gln) amidotransferase subunit C	6.3.5.6	ADP	L-Glutamine	green
+aspartyl-tRNA(Asn)/glutamyl-tRNA(Gln) amidotransferase subunit C	6.3.5.6	ADP	L-Glutamyl-tRNA(Gln)	green
+aspartyl-tRNA(Asn)/glutamyl-tRNA(Gln) amidotransferase subunit C	6.3.5.6	Glutaminyl-tRNA	ATP	green
+aspartyl-tRNA(Asn)/glutamyl-tRNA(Gln) amidotransferase subunit C	6.3.5.6	Glutaminyl-tRNA	H2O	green
+aspartyl-tRNA(Asn)/glutamyl-tRNA(Gln) amidotransferase subunit C	6.3.5.6	Glutaminyl-tRNA	L-Glutamine	green
+aspartyl-tRNA(Asn)/glutamyl-tRNA(Gln) amidotransferase subunit C	6.3.5.6	Glutaminyl-tRNA	L-Glutamyl-tRNA(Gln)	green
+aspartyl-tRNA(Asn)/glutamyl-tRNA(Gln) amidotransferase subunit C	6.3.5.6	L-Asparaginyl-tRNA(Asn)	ATP	green
+aspartyl-tRNA(Asn)/glutamyl-tRNA(Gln) amidotransferase subunit C	6.3.5.6	L-Asparaginyl-tRNA(Asn)	H2O	green
+aspartyl-tRNA(Asn)/glutamyl-tRNA(Gln) amidotransferase subunit C	6.3.5.6	L-Asparaginyl-tRNA(Asn)	L-Aspartyl-tRNA(Asn)	green
+aspartyl-tRNA(Asn)/glutamyl-tRNA(Gln) amidotransferase subunit C	6.3.5.6	L-Asparaginyl-tRNA(Asn)	L-Glutamine	green
+aspartyl-tRNA(Asn)/glutamyl-tRNA(Gln) amidotransferase subunit C	6.3.5.6	L-Glutamate	ATP	green
+aspartyl-tRNA(Asn)/glutamyl-tRNA(Gln) amidotransferase subunit C	6.3.5.6	L-Glutamate	H2O	green
+aspartyl-tRNA(Asn)/glutamyl-tRNA(Gln) amidotransferase subunit C	6.3.5.6	L-Glutamate	L-Aspartyl-tRNA(Asn)	green
+aspartyl-tRNA(Asn)/glutamyl-tRNA(Gln) amidotransferase subunit C	6.3.5.6	L-Glutamate	L-Glutamine	green
+aspartyl-tRNA(Asn)/glutamyl-tRNA(Gln) amidotransferase subunit C	6.3.5.6	L-Glutamate	L-Glutamyl-tRNA(Gln)	green
+aspartyl-tRNA(Asn)/glutamyl-tRNA(Gln) amidotransferase subunit C	6.3.5.6	Orthophosphate	ATP	green
+aspartyl-tRNA(Asn)/glutamyl-tRNA(Gln) amidotransferase subunit C	6.3.5.6	Orthophosphate	H2O	green
+aspartyl-tRNA(Asn)/glutamyl-tRNA(Gln) amidotransferase subunit C	6.3.5.6	Orthophosphate	L-Aspartyl-tRNA(Asn)	green
+aspartyl-tRNA(Asn)/glutamyl-tRNA(Gln) amidotransferase subunit C	6.3.5.6	Orthophosphate	L-Glutamine	green
+aspartyl-tRNA(Asn)/glutamyl-tRNA(Gln) amidotransferase subunit C	6.3.5.6	Orthophosphate	L-Glutamyl-tRNA(Gln)	green
+cysteinyl-tRNA synthetase	6.1.1.16	ATP	AMP	green
+cysteinyl-tRNA synthetase	6.1.1.16	ATP	Diphosphate	green
+cysteinyl-tRNA synthetase	6.1.1.16	ATP	L-Cysteinyl-tRNA(Cys)	green
+cysteinyl-tRNA synthetase	6.1.1.16	L-Cysteine	AMP	green
+cysteinyl-tRNA synthetase	6.1.1.16	L-Cysteine	Diphosphate	green
+cysteinyl-tRNA synthetase	6.1.1.16	L-Cysteine	L-Cysteinyl-tRNA(Cys)	green
+cysteinyl-tRNA synthetase	6.1.1.16	tRNA(Cys)	AMP	green
+cysteinyl-tRNA synthetase	6.1.1.16	tRNA(Cys)	Diphosphate	green
+cysteinyl-tRNA synthetase	6.1.1.16	tRNA(Cys)	L-Cysteinyl-tRNA(Cys)	green
+glutaminyl-tRNA synthetase	6.1.1.18	AMP	ATP	white
+glutaminyl-tRNA synthetase	6.1.1.18	AMP	L-Glutamine	white
+glutaminyl-tRNA synthetase	6.1.1.18	AMP	tRNA(Gln)	white
+glutaminyl-tRNA synthetase	6.1.1.18	ATP	AMP	white
+glutaminyl-tRNA synthetase	6.1.1.18	ATP	Diphosphate	white
+glutaminyl-tRNA synthetase	6.1.1.18	ATP	Glutaminyl-tRNA	white
+glutaminyl-tRNA synthetase	6.1.1.18	Diphosphate	ATP	white
+glutaminyl-tRNA synthetase	6.1.1.18	Diphosphate	L-Glutamine	white
+glutaminyl-tRNA synthetase	6.1.1.18	Diphosphate	tRNA(Gln)	white
+glutaminyl-tRNA synthetase	6.1.1.18	Glutaminyl-tRNA	ATP	white
+glutaminyl-tRNA synthetase	6.1.1.18	Glutaminyl-tRNA	L-Glutamine	white
+glutaminyl-tRNA synthetase	6.1.1.18	Glutaminyl-tRNA	tRNA(Gln)	white
+glutaminyl-tRNA synthetase	6.1.1.18	L-Glutamine	AMP	white
+glutaminyl-tRNA synthetase	6.1.1.18	L-Glutamine	Diphosphate	white
+glutaminyl-tRNA synthetase	6.1.1.18	L-Glutamine	Glutaminyl-tRNA	white
+glutaminyl-tRNA synthetase	6.1.1.18	tRNA(Gln)	AMP	white
+glutaminyl-tRNA synthetase	6.1.1.18	tRNA(Gln)	Diphosphate	white
+glutaminyl-tRNA synthetase	6.1.1.18	tRNA(Gln)	Glutaminyl-tRNA	white
+glutamyl-tRNA synthetase	6.1.1.17	ATP	AMP	green
+glutamyl-tRNA synthetase	6.1.1.17	ATP	Diphosphate	green
+glutamyl-tRNA synthetase	6.1.1.17	ATP	L-Glutamyl-tRNA(Glu)	green
+glutamyl-tRNA synthetase	6.1.1.17	L-Glutamate	AMP	green
+glutamyl-tRNA synthetase	6.1.1.17	L-Glutamate	Diphosphate	green
+glutamyl-tRNA synthetase	6.1.1.17	L-Glutamate	L-Glutamyl-tRNA(Glu)	green
+glutamyl-tRNA synthetase	6.1.1.17	tRNA(Glu)	AMP	green
+glutamyl-tRNA synthetase	6.1.1.17	tRNA(Glu)	Diphosphate	green
+glutamyl-tRNA synthetase	6.1.1.17	tRNA(Glu)	L-Glutamyl-tRNA(Glu)	green
+glycyl-tRNA synthetase	6.1.1.14	ATP	AMP	green
+glycyl-tRNA synthetase	6.1.1.14	ATP	Diphosphate	green
+glycyl-tRNA synthetase	6.1.1.14	ATP	Glycyl-tRNA(Gly)	green
+glycyl-tRNA synthetase	6.1.1.14	Glycine	AMP	green
+glycyl-tRNA synthetase	6.1.1.14	Glycine	Diphosphate	green
+glycyl-tRNA synthetase	6.1.1.14	Glycine	Glycyl-tRNA(Gly)	green
+glycyl-tRNA synthetase	6.1.1.14	tRNA(Gly)	AMP	green
+glycyl-tRNA synthetase	6.1.1.14	tRNA(Gly)	Diphosphate	green
+glycyl-tRNA synthetase	6.1.1.14	tRNA(Gly)	Glycyl-tRNA(Gly)	green
+histidyl-tRNA synthetase	6.1.1.21	ATP	AMP	green
+histidyl-tRNA synthetase	6.1.1.21	ATP	Diphosphate	green
+histidyl-tRNA synthetase	6.1.1.21	ATP	L-Histidyl-tRNA(His)	green
+histidyl-tRNA synthetase	6.1.1.21	L-Histidine	AMP	green
+histidyl-tRNA synthetase	6.1.1.21	L-Histidine	Diphosphate	green
+histidyl-tRNA synthetase	6.1.1.21	L-Histidine	L-Histidyl-tRNA(His)	green
+histidyl-tRNA synthetase	6.1.1.21	tRNA(His)	AMP	green
+histidyl-tRNA synthetase	6.1.1.21	tRNA(His)	Diphosphate	green
+histidyl-tRNA synthetase	6.1.1.21	tRNA(His)	L-Histidyl-tRNA(His)	green
+isoleucyl-tRNA synthetase	6.1.1.5	ATP	AMP	green
+isoleucyl-tRNA synthetase	6.1.1.5	ATP	Diphosphate	green
+isoleucyl-tRNA synthetase	6.1.1.5	ATP	L-Isoleucyl-tRNA(Ile)	green
+isoleucyl-tRNA synthetase	6.1.1.5	L-Isoleucine	AMP	green
+isoleucyl-tRNA synthetase	6.1.1.5	L-Isoleucine	Diphosphate	green
+isoleucyl-tRNA synthetase	6.1.1.5	L-Isoleucine	L-Isoleucyl-tRNA(Ile)	green
+isoleucyl-tRNA synthetase	6.1.1.5	tRNA(Ile)	AMP	green
+isoleucyl-tRNA synthetase	6.1.1.5	tRNA(Ile)	Diphosphate	green
+isoleucyl-tRNA synthetase	6.1.1.5	tRNA(Ile)	L-Isoleucyl-tRNA(Ile)	green
+leucyl-tRNA synthetase	6.1.1.4	ATP	AMP	green
+leucyl-tRNA synthetase	6.1.1.4	ATP	Diphosphate	green
+leucyl-tRNA synthetase	6.1.1.4	ATP	L-Leucyl-tRNA	green
+leucyl-tRNA synthetase	6.1.1.4	L-Leucine	AMP	green
+leucyl-tRNA synthetase	6.1.1.4	L-Leucine	Diphosphate	green
+leucyl-tRNA synthetase	6.1.1.4	L-Leucine	L-Leucyl-tRNA	green
+leucyl-tRNA synthetase	6.1.1.4	tRNA(Leu)	AMP	green
+leucyl-tRNA synthetase	6.1.1.4	tRNA(Leu)	Diphosphate	green
+leucyl-tRNA synthetase	6.1.1.4	tRNA(Leu)	L-Leucyl-tRNA	green
+lysyl-tRNA synthetase, class II	6.1.1.6	ATP	AMP	green
+lysyl-tRNA synthetase, class II	6.1.1.6	ATP	Diphosphate	green
+lysyl-tRNA synthetase, class II	6.1.1.6	ATP	L-Lysyl-tRNA	green
+lysyl-tRNA synthetase, class II	6.1.1.6	L-Lysine	AMP	green
+lysyl-tRNA synthetase, class II	6.1.1.6	L-Lysine	Diphosphate	green
+lysyl-tRNA synthetase, class II	6.1.1.6	L-Lysine	L-Lysyl-tRNA	green
+lysyl-tRNA synthetase, class II	6.1.1.6	tRNA(Lys)	AMP	green
+lysyl-tRNA synthetase, class II	6.1.1.6	tRNA(Lys)	Diphosphate	green
+lysyl-tRNA synthetase, class II	6.1.1.6	tRNA(Lys)	L-Lysyl-tRNA	green
+methionyl-tRNA formyltransferase	2.1.2.9	10-Formyltetrahydrofolate	N-Formylmethionyl-tRNA	green
+methionyl-tRNA formyltransferase	2.1.2.9	10-Formyltetrahydrofolate	Tetrahydrofolate	green
+methionyl-tRNA formyltransferase	2.1.2.9	L-Methionyl-tRNA	N-Formylmethionyl-tRNA	green
+methionyl-tRNA formyltransferase	2.1.2.9	L-Methionyl-tRNA	Tetrahydrofolate	green
+methionyl-tRNA synthetase	6.1.1.10	ATP	AMP	green
+methionyl-tRNA synthetase	6.1.1.10	ATP	Diphosphate	green
+methionyl-tRNA synthetase	6.1.1.10	ATP	L-Methionyl-tRNA	green
+methionyl-tRNA synthetase	6.1.1.10	L-Methionine	AMP	green
+methionyl-tRNA synthetase	6.1.1.10	L-Methionine	Diphosphate	green
+methionyl-tRNA synthetase	6.1.1.10	L-Methionine	L-Methionyl-tRNA	green
+methionyl-tRNA synthetase	6.1.1.10	tRNA(Met)	AMP	green
+methionyl-tRNA synthetase	6.1.1.10	tRNA(Met)	Diphosphate	green
+methionyl-tRNA synthetase	6.1.1.10	tRNA(Met)	L-Methionyl-tRNA	green
+nondiscriminating aspartyl-tRNA synthetase	6.1.1.23	AMP	ATP	white
+nondiscriminating aspartyl-tRNA synthetase	6.1.1.23	AMP	L-Aspartate	white
+nondiscriminating aspartyl-tRNA synthetase	6.1.1.23	AMP	tRNA(Asn)	white
+nondiscriminating aspartyl-tRNA synthetase	6.1.1.23	ATP	AMP	white
+nondiscriminating aspartyl-tRNA synthetase	6.1.1.23	ATP	Diphosphate	white
+nondiscriminating aspartyl-tRNA synthetase	6.1.1.23	ATP	L-Aspartyl-tRNA(Asn)	white
+nondiscriminating aspartyl-tRNA synthetase	6.1.1.23	Diphosphate	ATP	white
+nondiscriminating aspartyl-tRNA synthetase	6.1.1.23	Diphosphate	L-Aspartate	white
+nondiscriminating aspartyl-tRNA synthetase	6.1.1.23	Diphosphate	tRNA(Asn)	white
+nondiscriminating aspartyl-tRNA synthetase	6.1.1.23	L-Aspartate	AMP	white
+nondiscriminating aspartyl-tRNA synthetase	6.1.1.23	L-Aspartate	Diphosphate	white
+nondiscriminating aspartyl-tRNA synthetase	6.1.1.23	L-Aspartate	L-Aspartyl-tRNA(Asn)	white
+nondiscriminating aspartyl-tRNA synthetase	6.1.1.23	L-Aspartyl-tRNA(Asn)	ATP	white
+nondiscriminating aspartyl-tRNA synthetase	6.1.1.23	L-Aspartyl-tRNA(Asn)	L-Aspartate	white
+nondiscriminating aspartyl-tRNA synthetase	6.1.1.23	L-Aspartyl-tRNA(Asn)	tRNA(Asn)	white
+nondiscriminating aspartyl-tRNA synthetase	6.1.1.23	tRNA(Asn)	AMP	white
+nondiscriminating aspartyl-tRNA synthetase	6.1.1.23	tRNA(Asn)	Diphosphate	white
+nondiscriminating aspartyl-tRNA synthetase	6.1.1.23	tRNA(Asn)	L-Aspartyl-tRNA(Asn)	white
+nondiscriminating glutamyl-tRNA synthetase	6.1.1.24	AMP	ATP	white
+nondiscriminating glutamyl-tRNA synthetase	6.1.1.24	AMP	L-Glutamate	white
+nondiscriminating glutamyl-tRNA synthetase	6.1.1.24	AMP	tRNA(Gln)	white
+nondiscriminating glutamyl-tRNA synthetase	6.1.1.24	ATP	AMP	white
+nondiscriminating glutamyl-tRNA synthetase	6.1.1.24	ATP	Diphosphate	white
+nondiscriminating glutamyl-tRNA synthetase	6.1.1.24	ATP	L-Glutamyl-tRNA(Gln)	white
+nondiscriminating glutamyl-tRNA synthetase	6.1.1.24	Diphosphate	ATP	white
+nondiscriminating glutamyl-tRNA synthetase	6.1.1.24	Diphosphate	L-Glutamate	white
+nondiscriminating glutamyl-tRNA synthetase	6.1.1.24	Diphosphate	tRNA(Gln)	white
+nondiscriminating glutamyl-tRNA synthetase	6.1.1.24	L-Glutamate	AMP	white
+nondiscriminating glutamyl-tRNA synthetase	6.1.1.24	L-Glutamate	Diphosphate	white
+nondiscriminating glutamyl-tRNA synthetase	6.1.1.24	L-Glutamate	L-Glutamyl-tRNA(Gln)	white
+nondiscriminating glutamyl-tRNA synthetase	6.1.1.24	L-Glutamyl-tRNA(Gln)	ATP	white
+nondiscriminating glutamyl-tRNA synthetase	6.1.1.24	L-Glutamyl-tRNA(Gln)	L-Glutamate	white
+nondiscriminating glutamyl-tRNA synthetase	6.1.1.24	L-Glutamyl-tRNA(Gln)	tRNA(Gln)	white
+nondiscriminating glutamyl-tRNA synthetase	6.1.1.24	tRNA(Gln)	AMP	white
+nondiscriminating glutamyl-tRNA synthetase	6.1.1.24	tRNA(Gln)	Diphosphate	white
+nondiscriminating glutamyl-tRNA synthetase	6.1.1.24	tRNA(Gln)	L-Glutamyl-tRNA(Gln)	white
+phenylalanyl-tRNA synthetase alpha chain	6.1.1.20	ATP	AMP	green
+phenylalanyl-tRNA synthetase alpha chain	6.1.1.20	ATP	Diphosphate	green
+phenylalanyl-tRNA synthetase alpha chain	6.1.1.20	ATP	L-Phenylalanyl-tRNA(Phe)	green
+phenylalanyl-tRNA synthetase alpha chain	6.1.1.20	L-Phenylalanine	AMP	green
+phenylalanyl-tRNA synthetase alpha chain	6.1.1.20	L-Phenylalanine	Diphosphate	green
+phenylalanyl-tRNA synthetase alpha chain	6.1.1.20	L-Phenylalanine	L-Phenylalanyl-tRNA(Phe)	green
+phenylalanyl-tRNA synthetase alpha chain	6.1.1.20	tRNA(Phe)	AMP	green
+phenylalanyl-tRNA synthetase alpha chain	6.1.1.20	tRNA(Phe)	Diphosphate	green
+phenylalanyl-tRNA synthetase alpha chain	6.1.1.20	tRNA(Phe)	L-Phenylalanyl-tRNA(Phe)	green
+phenylalanyl-tRNA synthetase beta chain	6.1.1.20	ATP	AMP	green
+phenylalanyl-tRNA synthetase beta chain	6.1.1.20	ATP	Diphosphate	green
+phenylalanyl-tRNA synthetase beta chain	6.1.1.20	ATP	L-Phenylalanyl-tRNA(Phe)	green
+phenylalanyl-tRNA synthetase beta chain	6.1.1.20	L-Phenylalanine	AMP	green
+phenylalanyl-tRNA synthetase beta chain	6.1.1.20	L-Phenylalanine	Diphosphate	green
+phenylalanyl-tRNA synthetase beta chain	6.1.1.20	L-Phenylalanine	L-Phenylalanyl-tRNA(Phe)	green
+phenylalanyl-tRNA synthetase beta chain	6.1.1.20	tRNA(Phe)	AMP	green
+phenylalanyl-tRNA synthetase beta chain	6.1.1.20	tRNA(Phe)	Diphosphate	green
+phenylalanyl-tRNA synthetase beta chain	6.1.1.20	tRNA(Phe)	L-Phenylalanyl-tRNA(Phe)	green
+prolyl-tRNA synthetase	6.1.1.15	ATP	AMP	green
+prolyl-tRNA synthetase	6.1.1.15	ATP	Diphosphate	green
+prolyl-tRNA synthetase	6.1.1.15	ATP	L-Prolyl-tRNA(Pro)	green
+prolyl-tRNA synthetase	6.1.1.15	L-Proline	AMP	green
+prolyl-tRNA synthetase	6.1.1.15	L-Proline	Diphosphate	green
+prolyl-tRNA synthetase	6.1.1.15	L-Proline	L-Prolyl-tRNA(Pro)	green
+prolyl-tRNA synthetase	6.1.1.15	tRNA(Pro)	AMP	green
+prolyl-tRNA synthetase	6.1.1.15	tRNA(Pro)	Diphosphate	green
+prolyl-tRNA synthetase	6.1.1.15	tRNA(Pro)	L-Prolyl-tRNA(Pro)	green
+pyrrolysyl-tRNA synthetase	6.1.1.26	AMP	ATP	white
+pyrrolysyl-tRNA synthetase	6.1.1.26	AMP	L-Pyrrolysine	white
+pyrrolysyl-tRNA synthetase	6.1.1.26	AMP	tRNA(Pyl)	white
+pyrrolysyl-tRNA synthetase	6.1.1.26	ATP	AMP	white
+pyrrolysyl-tRNA synthetase	6.1.1.26	ATP	Diphosphate	white
+pyrrolysyl-tRNA synthetase	6.1.1.26	ATP	L-Pyrrolysyl-tRNA(Pyl)	white
+pyrrolysyl-tRNA synthetase	6.1.1.26	Diphosphate	ATP	white
+pyrrolysyl-tRNA synthetase	6.1.1.26	Diphosphate	L-Pyrrolysine	white
+pyrrolysyl-tRNA synthetase	6.1.1.26	Diphosphate	tRNA(Pyl)	white
+pyrrolysyl-tRNA synthetase	6.1.1.26	L-Pyrrolysine	AMP	white
+pyrrolysyl-tRNA synthetase	6.1.1.26	L-Pyrrolysine	Diphosphate	white
+pyrrolysyl-tRNA synthetase	6.1.1.26	L-Pyrrolysine	L-Pyrrolysyl-tRNA(Pyl)	white
+pyrrolysyl-tRNA synthetase	6.1.1.26	L-Pyrrolysyl-tRNA(Pyl)	ATP	white
+pyrrolysyl-tRNA synthetase	6.1.1.26	L-Pyrrolysyl-tRNA(Pyl)	L-Pyrrolysine	white
+pyrrolysyl-tRNA synthetase	6.1.1.26	L-Pyrrolysyl-tRNA(Pyl)	tRNA(Pyl)	white
+pyrrolysyl-tRNA synthetase	6.1.1.26	tRNA(Pyl)	AMP	white
+pyrrolysyl-tRNA synthetase	6.1.1.26	tRNA(Pyl)	Diphosphate	white
+pyrrolysyl-tRNA synthetase	6.1.1.26	tRNA(Pyl)	L-Pyrrolysyl-tRNA(Pyl)	white
+seryl-tRNA synthetase	6.1.1.11	ATP	AMP	green
+seryl-tRNA synthetase	6.1.1.11	ATP	Diphosphate	green
+seryl-tRNA synthetase	6.1.1.11	ATP	L-Seryl-tRNA(Sec)	green
+seryl-tRNA synthetase	6.1.1.11	ATP	L-Seryl-tRNA(Ser)	green
+seryl-tRNA synthetase	6.1.1.11	L-Serine	AMP	green
+seryl-tRNA synthetase	6.1.1.11	L-Serine	Diphosphate	green
+seryl-tRNA synthetase	6.1.1.11	L-Serine	L-Seryl-tRNA(Sec)	green
+seryl-tRNA synthetase	6.1.1.11	L-Serine	L-Seryl-tRNA(Ser)	green
+seryl-tRNA synthetase	6.1.1.11	tRNA(Sec)	AMP	green
+seryl-tRNA synthetase	6.1.1.11	tRNA(Sec)	Diphosphate	green
+seryl-tRNA synthetase	6.1.1.11	tRNA(Sec)	L-Seryl-tRNA(Sec)	green
+seryl-tRNA synthetase	6.1.1.11	tRNA(Ser)	AMP	green
+seryl-tRNA synthetase	6.1.1.11	tRNA(Ser)	Diphosphate	green
+seryl-tRNA synthetase	6.1.1.11	tRNA(Ser)	L-Seryl-tRNA(Ser)	green
+tRNA Pyl	6.1.1.26	AMP	ATP	white
+tRNA Pyl	6.1.1.26	AMP	L-Pyrrolysine	white
+tRNA Pyl	6.1.1.26	AMP	tRNA(Pyl)	white
+tRNA Pyl	6.1.1.26	ATP	AMP	white
+tRNA Pyl	6.1.1.26	ATP	Diphosphate	white
+tRNA Pyl	6.1.1.26	ATP	L-Pyrrolysyl-tRNA(Pyl)	white
+tRNA Pyl	6.1.1.26	Diphosphate	ATP	white
+tRNA Pyl	6.1.1.26	Diphosphate	L-Pyrrolysine	white
+tRNA Pyl	6.1.1.26	Diphosphate	tRNA(Pyl)	white
+tRNA Pyl	6.1.1.26	L-Pyrrolysine	AMP	white
+tRNA Pyl	6.1.1.26	L-Pyrrolysine	Diphosphate	white
+tRNA Pyl	6.1.1.26	L-Pyrrolysine	L-Pyrrolysyl-tRNA(Pyl)	white
+tRNA Pyl	6.1.1.26	L-Pyrrolysyl-tRNA(Pyl)	ATP	white
+tRNA Pyl	6.1.1.26	L-Pyrrolysyl-tRNA(Pyl)	L-Pyrrolysine	white
+tRNA Pyl	6.1.1.26	L-Pyrrolysyl-tRNA(Pyl)	tRNA(Pyl)	white
+tRNA Pyl	6.1.1.26	tRNA(Pyl)	AMP	white
+tRNA Pyl	6.1.1.26	tRNA(Pyl)	Diphosphate	white
+tRNA Pyl	6.1.1.26	tRNA(Pyl)	L-Pyrrolysyl-tRNA(Pyl)	white
+tRNA Sec	6.1.1.26	AMP	ATP	white
+tRNA Sec	6.1.1.26	AMP	L-Pyrrolysine	white
+tRNA Sec	6.1.1.26	AMP	tRNA(Pyl)	white
+tRNA Sec	6.1.1.26	ATP	AMP	white
+tRNA Sec	6.1.1.26	ATP	Diphosphate	white
+tRNA Sec	6.1.1.26	ATP	L-Pyrrolysyl-tRNA(Pyl)	white
+tRNA Sec	6.1.1.26	Diphosphate	ATP	white
+tRNA Sec	6.1.1.26	Diphosphate	L-Pyrrolysine	white
+tRNA Sec	6.1.1.26	Diphosphate	tRNA(Pyl)	white
+tRNA Sec	6.1.1.26	L-Pyrrolysine	AMP	white
+tRNA Sec	6.1.1.26	L-Pyrrolysine	Diphosphate	white
+tRNA Sec	6.1.1.26	L-Pyrrolysine	L-Pyrrolysyl-tRNA(Pyl)	white
+tRNA Sec	6.1.1.26	L-Pyrrolysyl-tRNA(Pyl)	ATP	white
+tRNA Sec	6.1.1.26	L-Pyrrolysyl-tRNA(Pyl)	L-Pyrrolysine	white
+tRNA Sec	6.1.1.26	L-Pyrrolysyl-tRNA(Pyl)	tRNA(Pyl)	white
+tRNA Sec	6.1.1.26	tRNA(Pyl)	AMP	white
+tRNA Sec	6.1.1.26	tRNA(Pyl)	Diphosphate	white
+tRNA Sec	6.1.1.26	tRNA(Pyl)	L-Pyrrolysyl-tRNA(Pyl)	white
+threonyl-tRNA synthetase	6.1.1.3	ATP	AMP	green
+threonyl-tRNA synthetase	6.1.1.3	ATP	Diphosphate	green
+threonyl-tRNA synthetase	6.1.1.3	ATP	L-Threonyl-tRNA(Thr)	green
+threonyl-tRNA synthetase	6.1.1.3	L-Threonine	AMP	green
+threonyl-tRNA synthetase	6.1.1.3	L-Threonine	Diphosphate	green
+threonyl-tRNA synthetase	6.1.1.3	L-Threonine	L-Threonyl-tRNA(Thr)	green
+threonyl-tRNA synthetase	6.1.1.3	tRNA(Thr)	AMP	green
+threonyl-tRNA synthetase	6.1.1.3	tRNA(Thr)	Diphosphate	green
+threonyl-tRNA synthetase	6.1.1.3	tRNA(Thr)	L-Threonyl-tRNA(Thr)	green
+tryptophanyl-tRNA synthetase	6.1.1.2	ATP	AMP	green
+tryptophanyl-tRNA synthetase	6.1.1.2	ATP	Diphosphate	green
+tryptophanyl-tRNA synthetase	6.1.1.2	ATP	L-Tryptophanyl-tRNA(Trp)	green
+tryptophanyl-tRNA synthetase	6.1.1.2	L-Tryptophan	AMP	green
+tryptophanyl-tRNA synthetase	6.1.1.2	L-Tryptophan	Diphosphate	green
+tryptophanyl-tRNA synthetase	6.1.1.2	L-Tryptophan	L-Tryptophanyl-tRNA(Trp)	green
+tryptophanyl-tRNA synthetase	6.1.1.2	tRNA(Trp)	AMP	green
+tryptophanyl-tRNA synthetase	6.1.1.2	tRNA(Trp)	Diphosphate	green
+tryptophanyl-tRNA synthetase	6.1.1.2	tRNA(Trp)	L-Tryptophanyl-tRNA(Trp)	green
+tyrosyl-tRNA synthetase	6.1.1.1	ATP	AMP	green
+tyrosyl-tRNA synthetase	6.1.1.1	ATP	Diphosphate	green
+tyrosyl-tRNA synthetase	6.1.1.1	ATP	L-Tyrosyl-tRNA(Tyr)	green
+tyrosyl-tRNA synthetase	6.1.1.1	L-Tyrosine	AMP	green
+tyrosyl-tRNA synthetase	6.1.1.1	L-Tyrosine	Diphosphate	green
+tyrosyl-tRNA synthetase	6.1.1.1	L-Tyrosine	L-Tyrosyl-tRNA(Tyr)	green
+tyrosyl-tRNA synthetase	6.1.1.1	tRNA(Tyr)	AMP	green
+tyrosyl-tRNA synthetase	6.1.1.1	tRNA(Tyr)	Diphosphate	green
+tyrosyl-tRNA synthetase	6.1.1.1	tRNA(Tyr)	L-Tyrosyl-tRNA(Tyr)	green
+valyl-tRNA synthetase	6.1.1.9	ATP	AMP	green
+valyl-tRNA synthetase	6.1.1.9	ATP	Diphosphate	green
+valyl-tRNA synthetase	6.1.1.9	ATP	L-Valyl-tRNA(Val)	green
+valyl-tRNA synthetase	6.1.1.9	L-Valine	AMP	green
+valyl-tRNA synthetase	6.1.1.9	L-Valine	Diphosphate	green
+valyl-tRNA synthetase	6.1.1.9	L-Valine	L-Valyl-tRNA(Val)	green
+valyl-tRNA synthetase	6.1.1.9	tRNA(Val)	AMP	green
+valyl-tRNA synthetase	6.1.1.9	tRNA(Val)	Diphosphate	green
+valyl-tRNA synthetase	6.1.1.9	tRNA(Val)	L-Valyl-tRNA(Val)	green

@@ -1,0 +1,700 @@
+enzyme_name	EC	source	target	color
+(3R)-3-hydroxyacyl-CoA dehydrogenase / 3a,7a,12a-trihydroxy-5b-cholest-24-enoyl-CoA hydratase / enoyl-CoA hydratase 2	1.1.1.-	(24E)-3alpha,7alpha-Dihydroxy-5beta-cholest-24-enoyl-CoA	(24R,25R)-3alpha,7alpha,24-Trihydroxy-5beta-cholestanoyl-CoA	white
+(3R)-3-hydroxyacyl-CoA dehydrogenase / 3a,7a,12a-trihydroxy-5b-cholest-24-enoyl-CoA hydratase / enoyl-CoA hydratase 2	1.1.1.-	(24R,25R)-3alpha,7alpha,24-Trihydroxy-5beta-cholestanoyl-CoA	(24E)-3alpha,7alpha-Dihydroxy-5beta-cholest-24-enoyl-CoA	white
+(3R)-3-hydroxyacyl-CoA dehydrogenase / 3a,7a,12a-trihydroxy-5b-cholest-24-enoyl-CoA hydratase / enoyl-CoA hydratase 2	1.1.1.-	(24R,25R)-3alpha,7alpha,24-Trihydroxy-5beta-cholestanoyl-CoA	H2O	white
+(3R)-3-hydroxyacyl-CoA dehydrogenase / 3a,7a,12a-trihydroxy-5b-cholest-24-enoyl-CoA hydratase / enoyl-CoA hydratase 2	1.1.1.-	H2O	(24R,25R)-3alpha,7alpha,24-Trihydroxy-5beta-cholestanoyl-CoA	white
+(S)-2-hydroxy-acid oxidase	1.1.3.15	Glycolate	Glyoxylate	white
+(S)-2-hydroxy-acid oxidase	1.1.3.15	Glycolate	Hydrogen peroxide	white
+(S)-2-hydroxy-acid oxidase	1.1.3.15	Glyoxylate	Glycolate	white
+(S)-2-hydroxy-acid oxidase	1.1.3.15	Glyoxylate	Oxygen	white
+(S)-2-hydroxy-acid oxidase	1.1.3.15	Hydrogen peroxide	Glycolate	white
+(S)-2-hydroxy-acid oxidase	1.1.3.15	Hydrogen peroxide	Oxygen	white
+(S)-2-hydroxy-acid oxidase	1.1.3.15	Oxygen	Glyoxylate	white
+(S)-2-hydroxy-acid oxidase	1.1.3.15	Oxygen	Hydrogen peroxide	white
+2,4-dienoyl-CoA reductase [(3E)-enoyl-CoA-producing], peroxisomal	1.3.1.124	Chenodeoxycholate	Chenodeoxycholoyl-CoA	white
+2,4-dienoyl-CoA reductase [(3E)-enoyl-CoA-producing], peroxisomal	1.3.1.124	Chenodeoxycholate	H2O	white
+2,4-dienoyl-CoA reductase [(3E)-enoyl-CoA-producing], peroxisomal	1.3.1.124	Chenodeoxycholoyl-CoA	Chenodeoxycholate	white
+2,4-dienoyl-CoA reductase [(3E)-enoyl-CoA-producing], peroxisomal	1.3.1.124	Chenodeoxycholoyl-CoA	CoA	white
+2,4-dienoyl-CoA reductase [(3E)-enoyl-CoA-producing], peroxisomal	1.3.1.124	CoA	Chenodeoxycholoyl-CoA	white
+2,4-dienoyl-CoA reductase [(3E)-enoyl-CoA-producing], peroxisomal	1.3.1.124	CoA	H2O	white
+2,4-dienoyl-CoA reductase [(3E)-enoyl-CoA-producing], peroxisomal	1.3.1.124	H2O	Chenodeoxycholate	white
+2,4-dienoyl-CoA reductase [(3E)-enoyl-CoA-producing], peroxisomal	1.3.1.124	H2O	CoA	white
+2-hydroxyacyl-CoA lyase	4.1.2.63	Acetyl-CoA	Malonyl-CoA	white
+2-hydroxyacyl-CoA lyase	4.1.2.63	CO2	Malonyl-CoA	white
+2-hydroxyacyl-CoA lyase	4.1.2.63	Malonyl-CoA	Acetyl-CoA	white
+2-hydroxyacyl-CoA lyase	4.1.2.63	Malonyl-CoA	CO2	white
+ATP-binding cassette, subfamily D (ALD), member 1	7.6.2.4	beta-D-Ribofuranose	beta-D-Ribopyranose	white
+ATP-binding cassette, subfamily D (ALD), member 1	7.6.2.4	beta-D-Ribopyranose	beta-D-Ribofuranose	white
+ATP-binding cassette, subfamily D (ALD), member 2	7.6.2.4	beta-D-Ribofuranose	beta-D-Ribopyranose	white
+ATP-binding cassette, subfamily D (ALD), member 2	7.6.2.4	beta-D-Ribopyranose	beta-D-Ribofuranose	white
+ATP-binding cassette, subfamily D (ALD), member 3	7.6.2.4	beta-D-Ribofuranose	beta-D-Ribopyranose	white
+ATP-binding cassette, subfamily D (ALD), member 3	7.6.2.4	beta-D-Ribopyranose	beta-D-Ribofuranose	white
+ATP-binding cassette, subfamily D (ALD), member 4	7.6.2.8	beta-D-Ribofuranose	beta-D-Ribopyranose	white
+ATP-binding cassette, subfamily D (ALD), member 4	7.6.2.8	beta-D-Ribopyranose	beta-D-Ribofuranose	white
+ATP-binding cassette, subfamily D (ALD), peroxisomal ABC transporter	7.6.2.4	beta-D-Ribofuranose	beta-D-Ribopyranose	white
+ATP-binding cassette, subfamily D (ALD), peroxisomal ABC transporter	7.6.2.4	beta-D-Ribopyranose	beta-D-Ribofuranose	white
+ATP-binding cassette, subfamily D (ALD), peroxisomal long-chain fatty acid import protein	7.6.2.4	ADP	ATP	white
+ATP-binding cassette, subfamily D (ALD), peroxisomal long-chain fatty acid import protein	7.6.2.4	ADP	H2O	white
+ATP-binding cassette, subfamily D (ALD), peroxisomal long-chain fatty acid import protein	7.6.2.4	ADP	Tungstate	white
+ATP-binding cassette, subfamily D (ALD), peroxisomal long-chain fatty acid import protein	7.6.2.4	ATP	ADP	white
+ATP-binding cassette, subfamily D (ALD), peroxisomal long-chain fatty acid import protein	7.6.2.4	ATP	Orthophosphate	white
+ATP-binding cassette, subfamily D (ALD), peroxisomal long-chain fatty acid import protein	7.6.2.4	ATP	Tungstate	white
+ATP-binding cassette, subfamily D (ALD), peroxisomal long-chain fatty acid import protein	7.6.2.4	H2O	ADP	white
+ATP-binding cassette, subfamily D (ALD), peroxisomal long-chain fatty acid import protein	7.6.2.4	H2O	Orthophosphate	white
+ATP-binding cassette, subfamily D (ALD), peroxisomal long-chain fatty acid import protein	7.6.2.4	H2O	Tungstate	white
+ATP-binding cassette, subfamily D (ALD), peroxisomal long-chain fatty acid import protein	7.6.2.4	Orthophosphate	ATP	white
+ATP-binding cassette, subfamily D (ALD), peroxisomal long-chain fatty acid import protein	7.6.2.4	Orthophosphate	H2O	white
+ATP-binding cassette, subfamily D (ALD), peroxisomal long-chain fatty acid import protein	7.6.2.4	Orthophosphate	Tungstate	white
+ATP-binding cassette, subfamily D (ALD), peroxisomal long-chain fatty acid import protein	7.6.2.4	Tungstate	ADP	white
+ATP-binding cassette, subfamily D (ALD), peroxisomal long-chain fatty acid import protein	7.6.2.4	Tungstate	ATP	white
+ATP-binding cassette, subfamily D (ALD), peroxisomal long-chain fatty acid import protein	7.6.2.4	Tungstate	H2O	white
+ATP-binding cassette, subfamily D (ALD), peroxisomal long-chain fatty acid import protein	7.6.2.4	Tungstate	Orthophosphate	white
+ATP-binding cassette, subfamily D (ALD), peroxisomal long-chain fatty acid import protein	7.6.2.4	Tungstate	Tungstate	white
+D-amino-acid oxidase	1.4.3.3	Ammonia	Glycine	white
+D-amino-acid oxidase	1.4.3.3	Ammonia	H2O	white
+D-amino-acid oxidase	1.4.3.3	Ammonia	Oxygen	white
+D-amino-acid oxidase	1.4.3.3	Glycine	Ammonia	white
+D-amino-acid oxidase	1.4.3.3	Glycine	Glyoxylate	white
+D-amino-acid oxidase	1.4.3.3	Glycine	Hydrogen peroxide	white
+D-amino-acid oxidase	1.4.3.3	Glyoxylate	Glycine	white
+D-amino-acid oxidase	1.4.3.3	Glyoxylate	H2O	white
+D-amino-acid oxidase	1.4.3.3	Glyoxylate	Oxygen	white
+D-amino-acid oxidase	1.4.3.3	H2O	Ammonia	white
+D-amino-acid oxidase	1.4.3.3	H2O	Glyoxylate	white
+D-amino-acid oxidase	1.4.3.3	H2O	Hydrogen peroxide	white
+D-amino-acid oxidase	1.4.3.3	Hydrogen peroxide	Glycine	white
+D-amino-acid oxidase	1.4.3.3	Hydrogen peroxide	H2O	white
+D-amino-acid oxidase	1.4.3.3	Hydrogen peroxide	Oxygen	white
+D-amino-acid oxidase	1.4.3.3	Oxygen	Ammonia	white
+D-amino-acid oxidase	1.4.3.3	Oxygen	Glyoxylate	white
+D-amino-acid oxidase	1.4.3.3	Oxygen	Hydrogen peroxide	white
+D-aspartate oxidase	1.4.3.1	Ammonia	D-Aspartate	white
+D-aspartate oxidase	1.4.3.1	Ammonia	H2O	white
+D-aspartate oxidase	1.4.3.1	Ammonia	Oxygen	white
+D-aspartate oxidase	1.4.3.1	D-Aspartate	Ammonia	white
+D-aspartate oxidase	1.4.3.1	D-Aspartate	Hydrogen peroxide	white
+D-aspartate oxidase	1.4.3.1	D-Aspartate	Oxaloacetate	white
+D-aspartate oxidase	1.4.3.1	H2O	Ammonia	white
+D-aspartate oxidase	1.4.3.1	H2O	Hydrogen peroxide	white
+D-aspartate oxidase	1.4.3.1	H2O	Oxaloacetate	white
+D-aspartate oxidase	1.4.3.1	Hydrogen peroxide	D-Aspartate	white
+D-aspartate oxidase	1.4.3.1	Hydrogen peroxide	H2O	white
+D-aspartate oxidase	1.4.3.1	Hydrogen peroxide	Oxygen	white
+D-aspartate oxidase	1.4.3.1	Oxaloacetate	D-Aspartate	white
+D-aspartate oxidase	1.4.3.1	Oxaloacetate	H2O	white
+D-aspartate oxidase	1.4.3.1	Oxaloacetate	Oxygen	white
+D-aspartate oxidase	1.4.3.1	Oxygen	Ammonia	white
+D-aspartate oxidase	1.4.3.1	Oxygen	Hydrogen peroxide	white
+D-aspartate oxidase	1.4.3.1	Oxygen	Oxaloacetate	white
+Delta3,5-Delta2,4-dienoyl-CoA isomerase	5.3.3.21	Acyl-CoA	Acylglycerone phosphate	white
+Delta3,5-Delta2,4-dienoyl-CoA isomerase	5.3.3.21	Acyl-CoA	CoA	white
+Delta3,5-Delta2,4-dienoyl-CoA isomerase	5.3.3.21	Acylglycerone phosphate	Acyl-CoA	white
+Delta3,5-Delta2,4-dienoyl-CoA isomerase	5.3.3.21	Acylglycerone phosphate	Glycerone phosphate	white
+Delta3,5-Delta2,4-dienoyl-CoA isomerase	5.3.3.21	CoA	Acyl-CoA	white
+Delta3,5-Delta2,4-dienoyl-CoA isomerase	5.3.3.21	CoA	Glycerone phosphate	white
+Delta3,5-Delta2,4-dienoyl-CoA isomerase	5.3.3.21	Glycerone phosphate	Acylglycerone phosphate	white
+Delta3,5-Delta2,4-dienoyl-CoA isomerase	5.3.3.21	Glycerone phosphate	CoA	white
+Delta3-Delta2-enoyl-CoA isomerase	5.3.3.8	cis,cis-3,6-Dodecadienoyl-CoA	trans,cis-Lauro-2,6-dienoyl-CoA	white
+Delta3-Delta2-enoyl-CoA isomerase	5.3.3.8	trans,cis-Lauro-2,6-dienoyl-CoA	cis,cis-3,6-Dodecadienoyl-CoA	white
+Mpv17-like protein	1.11.1.24	H+	H2O	white
+Mpv17-like protein	1.11.1.24	H+	L-Citrulline	white
+Mpv17-like protein	1.11.1.24	H+	NADP+	white
+Mpv17-like protein	1.11.1.24	H+	Nitric oxide	white
+Mpv17-like protein	1.11.1.24	H2O	H+	white
+Mpv17-like protein	1.11.1.24	H2O	N(omega)-Hydroxyarginine	white
+Mpv17-like protein	1.11.1.24	H2O	NADPH	white
+Mpv17-like protein	1.11.1.24	H2O	Oxygen	white
+Mpv17-like protein	1.11.1.24	L-Citrulline	H+	white
+Mpv17-like protein	1.11.1.24	L-Citrulline	N(omega)-Hydroxyarginine	white
+Mpv17-like protein	1.11.1.24	L-Citrulline	NADPH	white
+Mpv17-like protein	1.11.1.24	L-Citrulline	Oxygen	white
+Mpv17-like protein	1.11.1.24	N(omega)-Hydroxyarginine	H2O	white
+Mpv17-like protein	1.11.1.24	N(omega)-Hydroxyarginine	L-Citrulline	white
+Mpv17-like protein	1.11.1.24	N(omega)-Hydroxyarginine	NADP+	white
+Mpv17-like protein	1.11.1.24	N(omega)-Hydroxyarginine	Nitric oxide	white
+Mpv17-like protein	1.11.1.24	NADP+	H+	white
+Mpv17-like protein	1.11.1.24	NADP+	N(omega)-Hydroxyarginine	white
+Mpv17-like protein	1.11.1.24	NADP+	NADPH	white
+Mpv17-like protein	1.11.1.24	NADP+	Oxygen	white
+Mpv17-like protein	1.11.1.24	NADPH	H2O	white
+Mpv17-like protein	1.11.1.24	NADPH	L-Citrulline	white
+Mpv17-like protein	1.11.1.24	NADPH	NADP+	white
+Mpv17-like protein	1.11.1.24	NADPH	Nitric oxide	white
+Mpv17-like protein	1.11.1.24	Nitric oxide	H+	white
+Mpv17-like protein	1.11.1.24	Nitric oxide	N(omega)-Hydroxyarginine	white
+Mpv17-like protein	1.11.1.24	Nitric oxide	NADPH	white
+Mpv17-like protein	1.11.1.24	Nitric oxide	Oxygen	white
+Mpv17-like protein	1.11.1.24	Oxygen	H2O	white
+Mpv17-like protein	1.11.1.24	Oxygen	L-Citrulline	white
+Mpv17-like protein	1.11.1.24	Oxygen	NADP+	white
+Mpv17-like protein	1.11.1.24	Oxygen	Nitric oxide	white
+N1-acetylpolyamine oxidase	1.5.3.13	3-Acetamidopropanal	H2O	white
+N1-acetylpolyamine oxidase	1.5.3.13	3-Acetamidopropanal	N1-Acetylspermine	white
+N1-acetylpolyamine oxidase	1.5.3.13	3-Acetamidopropanal	Oxygen	white
+N1-acetylpolyamine oxidase	1.5.3.13	H2O	3-Acetamidopropanal	white
+N1-acetylpolyamine oxidase	1.5.3.13	H2O	Hydrogen peroxide	white
+N1-acetylpolyamine oxidase	1.5.3.13	H2O	Spermidine	white
+N1-acetylpolyamine oxidase	1.5.3.13	Hydrogen peroxide	H2O	white
+N1-acetylpolyamine oxidase	1.5.3.13	Hydrogen peroxide	N1-Acetylspermine	white
+N1-acetylpolyamine oxidase	1.5.3.13	Hydrogen peroxide	Oxygen	white
+N1-acetylpolyamine oxidase	1.5.3.13	N1-Acetylspermine	3-Acetamidopropanal	white
+N1-acetylpolyamine oxidase	1.5.3.13	N1-Acetylspermine	Hydrogen peroxide	white
+N1-acetylpolyamine oxidase	1.5.3.13	N1-Acetylspermine	Spermidine	white
+N1-acetylpolyamine oxidase	1.5.3.13	Oxygen	3-Acetamidopropanal	white
+N1-acetylpolyamine oxidase	1.5.3.13	Oxygen	Hydrogen peroxide	white
+N1-acetylpolyamine oxidase	1.5.3.13	Oxygen	Spermidine	white
+N1-acetylpolyamine oxidase	1.5.3.13	Spermidine	H2O	white
+N1-acetylpolyamine oxidase	1.5.3.13	Spermidine	N1-Acetylspermine	white
+N1-acetylpolyamine oxidase	1.5.3.13	Spermidine	Oxygen	white
+acetyl-CoA acyltransferase 1	2.3.1.16	Acetoacetyl-CoA	Acetyl-CoA	white
+acetyl-CoA acyltransferase 1	2.3.1.16	Acetyl-CoA	Acetoacetyl-CoA	white
+acetyl-CoA acyltransferase 1	2.3.1.16	Acetyl-CoA	CoA	white
+acetyl-CoA acyltransferase 1	2.3.1.16	CoA	Acetyl-CoA	white
+acyl-CoA thioesterase 8	3.1.2.27	Chenodeoxycholate	Chenodeoxycholoyl-CoA	white
+acyl-CoA thioesterase 8	3.1.2.27	Chenodeoxycholate	H2O	white
+acyl-CoA thioesterase 8	3.1.2.27	Chenodeoxycholoyl-CoA	Chenodeoxycholate	white
+acyl-CoA thioesterase 8	3.1.2.27	Chenodeoxycholoyl-CoA	CoA	white
+acyl-CoA thioesterase 8	3.1.2.27	CoA	Chenodeoxycholoyl-CoA	white
+acyl-CoA thioesterase 8	3.1.2.27	CoA	H2O	white
+acyl-CoA thioesterase 8	3.1.2.27	H2O	Chenodeoxycholate	white
+acyl-CoA thioesterase 8	3.1.2.27	H2O	CoA	white
+acyl-coenzyme A diphosphatase NUDT19, mitochondrial	3.6.1.77	Chenodeoxycholate	Chenodeoxycholoyl-CoA	white
+acyl-coenzyme A diphosphatase NUDT19, mitochondrial	3.6.1.77	Chenodeoxycholate	H2O	white
+acyl-coenzyme A diphosphatase NUDT19, mitochondrial	3.6.1.77	Chenodeoxycholoyl-CoA	Chenodeoxycholate	white
+acyl-coenzyme A diphosphatase NUDT19, mitochondrial	3.6.1.77	Chenodeoxycholoyl-CoA	CoA	white
+acyl-coenzyme A diphosphatase NUDT19, mitochondrial	3.6.1.77	CoA	Chenodeoxycholoyl-CoA	white
+acyl-coenzyme A diphosphatase NUDT19, mitochondrial	3.6.1.77	CoA	H2O	white
+acyl-coenzyme A diphosphatase NUDT19, mitochondrial	3.6.1.77	H2O	Chenodeoxycholate	white
+acyl-coenzyme A diphosphatase NUDT19, mitochondrial	3.6.1.77	H2O	CoA	white
+alanine-glyoxylate transaminase / serine-glyoxylate transaminase / serine-pyruvate transaminase	2.6.1.44	Glycine	Glyoxylate	white
+alanine-glyoxylate transaminase / serine-glyoxylate transaminase / serine-pyruvate transaminase	2.6.1.44	Glycine	L-Alanine	white
+alanine-glyoxylate transaminase / serine-glyoxylate transaminase / serine-pyruvate transaminase	2.6.1.44	Glyoxylate	Glycine	white
+alanine-glyoxylate transaminase / serine-glyoxylate transaminase / serine-pyruvate transaminase	2.6.1.44	Glyoxylate	Pyruvate	white
+alanine-glyoxylate transaminase / serine-glyoxylate transaminase / serine-pyruvate transaminase	2.6.1.44	L-Alanine	Glycine	white
+alanine-glyoxylate transaminase / serine-glyoxylate transaminase / serine-pyruvate transaminase	2.6.1.44	L-Alanine	Pyruvate	white
+alanine-glyoxylate transaminase / serine-glyoxylate transaminase / serine-pyruvate transaminase	2.6.1.44	Pyruvate	Glyoxylate	white
+alanine-glyoxylate transaminase / serine-glyoxylate transaminase / serine-pyruvate transaminase	2.6.1.44	Pyruvate	L-Alanine	white
+alcohol-forming fatty acyl-CoA reductase	1.2.1.84	CoA	H+	white
+alcohol-forming fatty acyl-CoA reductase	1.2.1.84	CoA	Long-chain acyl-CoA	white
+alcohol-forming fatty acyl-CoA reductase	1.2.1.84	CoA	NADPH	white
+alcohol-forming fatty acyl-CoA reductase	1.2.1.84	H+	CoA	white
+alcohol-forming fatty acyl-CoA reductase	1.2.1.84	H+	Long-chain alcohol	white
+alcohol-forming fatty acyl-CoA reductase	1.2.1.84	H+	NADP+	white
+alcohol-forming fatty acyl-CoA reductase	1.2.1.84	Long-chain acyl-CoA	CoA	white
+alcohol-forming fatty acyl-CoA reductase	1.2.1.84	Long-chain acyl-CoA	Long-chain alcohol	white
+alcohol-forming fatty acyl-CoA reductase	1.2.1.84	Long-chain acyl-CoA	NADP+	white
+alcohol-forming fatty acyl-CoA reductase	1.2.1.84	Long-chain alcohol	H+	white
+alcohol-forming fatty acyl-CoA reductase	1.2.1.84	Long-chain alcohol	Long-chain acyl-CoA	white
+alcohol-forming fatty acyl-CoA reductase	1.2.1.84	Long-chain alcohol	NADPH	white
+alcohol-forming fatty acyl-CoA reductase	1.2.1.84	NADP+	H+	white
+alcohol-forming fatty acyl-CoA reductase	1.2.1.84	NADP+	Long-chain acyl-CoA	white
+alcohol-forming fatty acyl-CoA reductase	1.2.1.84	NADP+	NADPH	white
+alcohol-forming fatty acyl-CoA reductase	1.2.1.84	NADPH	CoA	white
+alcohol-forming fatty acyl-CoA reductase	1.2.1.84	NADPH	Long-chain alcohol	white
+alcohol-forming fatty acyl-CoA reductase	1.2.1.84	NADPH	NADP+	white
+bile acid-CoA:amino acid N-acyltransferase	2.3.1.65	Choloyl-CoA	CoA	white
+bile acid-CoA:amino acid N-acyltransferase	2.3.1.65	Choloyl-CoA	Glycocholate	white
+bile acid-CoA:amino acid N-acyltransferase	2.3.1.65	CoA	Choloyl-CoA	white
+bile acid-CoA:amino acid N-acyltransferase	2.3.1.65	CoA	Glycine	white
+bile acid-CoA:amino acid N-acyltransferase	2.3.1.65	Glycine	CoA	white
+bile acid-CoA:amino acid N-acyltransferase	2.3.1.65	Glycine	Glycocholate	white
+bile acid-CoA:amino acid N-acyltransferase	2.3.1.65	Glycocholate	Choloyl-CoA	white
+bile acid-CoA:amino acid N-acyltransferase	2.3.1.65	Glycocholate	Glycine	white
+carnitine O-acetyltransferase	2.3.1.7	Acetyl-CoA	CoA	white
+carnitine O-acetyltransferase	2.3.1.7	Acetyl-CoA	O-Acetylcarnitine	white
+carnitine O-acetyltransferase	2.3.1.7	Carnitine	CoA	white
+carnitine O-acetyltransferase	2.3.1.7	Carnitine	O-Acetylcarnitine	white
+carnitine O-acetyltransferase	2.3.1.7	CoA	Acetyl-CoA	white
+carnitine O-acetyltransferase	2.3.1.7	CoA	Carnitine	white
+carnitine O-acetyltransferase	2.3.1.7	O-Acetylcarnitine	Acetyl-CoA	white
+carnitine O-acetyltransferase	2.3.1.7	O-Acetylcarnitine	Carnitine	white
+carnitine O-octanoyltransferase	2.3.1.137	3-Acetamidopropanal	H2O	white
+carnitine O-octanoyltransferase	2.3.1.137	3-Acetamidopropanal	N1-Acetylspermine	white
+carnitine O-octanoyltransferase	2.3.1.137	3-Acetamidopropanal	Oxygen	white
+carnitine O-octanoyltransferase	2.3.1.137	H2O	3-Acetamidopropanal	white
+carnitine O-octanoyltransferase	2.3.1.137	H2O	Hydrogen peroxide	white
+carnitine O-octanoyltransferase	2.3.1.137	H2O	Spermidine	white
+carnitine O-octanoyltransferase	2.3.1.137	Hydrogen peroxide	H2O	white
+carnitine O-octanoyltransferase	2.3.1.137	Hydrogen peroxide	N1-Acetylspermine	white
+carnitine O-octanoyltransferase	2.3.1.137	Hydrogen peroxide	Oxygen	white
+carnitine O-octanoyltransferase	2.3.1.137	N1-Acetylspermine	3-Acetamidopropanal	white
+carnitine O-octanoyltransferase	2.3.1.137	N1-Acetylspermine	Hydrogen peroxide	white
+carnitine O-octanoyltransferase	2.3.1.137	N1-Acetylspermine	Spermidine	white
+carnitine O-octanoyltransferase	2.3.1.137	Oxygen	3-Acetamidopropanal	white
+carnitine O-octanoyltransferase	2.3.1.137	Oxygen	Hydrogen peroxide	white
+carnitine O-octanoyltransferase	2.3.1.137	Oxygen	Spermidine	white
+carnitine O-octanoyltransferase	2.3.1.137	Spermidine	H2O	white
+carnitine O-octanoyltransferase	2.3.1.137	Spermidine	N1-Acetylspermine	white
+carnitine O-octanoyltransferase	2.3.1.137	Spermidine	Oxygen	white
+dehydrogenase/reductase SDR family member 4	1.1.-.-	H+	NADP+	white
+dehydrogenase/reductase SDR family member 4	1.1.-.-	H+	Retinol	white
+dehydrogenase/reductase SDR family member 4	1.1.-.-	NADP+	H+	white
+dehydrogenase/reductase SDR family member 4	1.1.-.-	NADP+	NADPH	white
+dehydrogenase/reductase SDR family member 4	1.1.-.-	NADP+	Retinal	white
+dehydrogenase/reductase SDR family member 4	1.1.-.-	NADPH	NADP+	white
+dehydrogenase/reductase SDR family member 4	1.1.-.-	NADPH	Retinol	white
+dehydrogenase/reductase SDR family member 4	1.1.-.-	Retinal	NADP+	white
+dehydrogenase/reductase SDR family member 4	1.1.-.-	Retinal	Retinol	white
+dehydrogenase/reductase SDR family member 4	1.1.-.-	Retinol	H+	white
+dehydrogenase/reductase SDR family member 4	1.1.-.-	Retinol	NADPH	white
+dehydrogenase/reductase SDR family member 4	1.1.-.-	Retinol	Retinal	white
+enoyl-CoA hydratase / 3-hydroxyacyl-CoA dehydrogenase / 3,2-trans-enoyl-CoA isomerase	4.2.1.17	(S)-3-Hydroxybutanoyl-CoA	Acetoacetyl-CoA	white
+enoyl-CoA hydratase / 3-hydroxyacyl-CoA dehydrogenase / 3,2-trans-enoyl-CoA isomerase	4.2.1.17	(S)-3-Hydroxybutanoyl-CoA	H+	white
+enoyl-CoA hydratase / 3-hydroxyacyl-CoA dehydrogenase / 3,2-trans-enoyl-CoA isomerase	4.2.1.17	(S)-3-Hydroxybutanoyl-CoA	NADH	white
+enoyl-CoA hydratase / 3-hydroxyacyl-CoA dehydrogenase / 3,2-trans-enoyl-CoA isomerase	4.2.1.17	Acetoacetyl-CoA	(S)-3-Hydroxybutanoyl-CoA	white
+enoyl-CoA hydratase / 3-hydroxyacyl-CoA dehydrogenase / 3,2-trans-enoyl-CoA isomerase	4.2.1.17	Acetoacetyl-CoA	NAD+	white
+enoyl-CoA hydratase / 3-hydroxyacyl-CoA dehydrogenase / 3,2-trans-enoyl-CoA isomerase	4.2.1.17	H+	(S)-3-Hydroxybutanoyl-CoA	white
+enoyl-CoA hydratase / 3-hydroxyacyl-CoA dehydrogenase / 3,2-trans-enoyl-CoA isomerase	4.2.1.17	H+	NAD+	white
+enoyl-CoA hydratase / 3-hydroxyacyl-CoA dehydrogenase / 3,2-trans-enoyl-CoA isomerase	4.2.1.17	NAD+	Acetoacetyl-CoA	white
+enoyl-CoA hydratase / 3-hydroxyacyl-CoA dehydrogenase / 3,2-trans-enoyl-CoA isomerase	4.2.1.17	NAD+	H+	white
+enoyl-CoA hydratase / 3-hydroxyacyl-CoA dehydrogenase / 3,2-trans-enoyl-CoA isomerase	4.2.1.17	NAD+	NADH	white
+enoyl-CoA hydratase / 3-hydroxyacyl-CoA dehydrogenase / 3,2-trans-enoyl-CoA isomerase	4.2.1.17	NADH	(S)-3-Hydroxybutanoyl-CoA	white
+enoyl-CoA hydratase / 3-hydroxyacyl-CoA dehydrogenase / 3,2-trans-enoyl-CoA isomerase	4.2.1.17	NADH	NAD+	white
+glutathione S-transferase kappa 1	2.5.1.18	Glutathione	Halide	white
+glutathione S-transferase kappa 1	2.5.1.18	Glutathione	R-S-Glutathione	white
+glutathione S-transferase kappa 1	2.5.1.18	Halide	Glutathione	white
+glutathione S-transferase kappa 1	2.5.1.18	Halide	RX	white
+glutathione S-transferase kappa 1	2.5.1.18	R-S-Glutathione	Glutathione	white
+glutathione S-transferase kappa 1	2.5.1.18	R-S-Glutathione	RX	white
+glutathione S-transferase kappa 1	2.5.1.18	RX	Halide	white
+glutathione S-transferase kappa 1	2.5.1.18	RX	R-S-Glutathione	white
+glyceronephosphate O-acyltransferase	2.3.1.42	Acyl-CoA	Acylglycerone phosphate	white
+glyceronephosphate O-acyltransferase	2.3.1.42	Acyl-CoA	CoA	white
+glyceronephosphate O-acyltransferase	2.3.1.42	Acylglycerone phosphate	Acyl-CoA	white
+glyceronephosphate O-acyltransferase	2.3.1.42	Acylglycerone phosphate	Glycerone phosphate	white
+glyceronephosphate O-acyltransferase	2.3.1.42	CoA	Acyl-CoA	white
+glyceronephosphate O-acyltransferase	2.3.1.42	CoA	Glycerone phosphate	white
+glyceronephosphate O-acyltransferase	2.3.1.42	Glycerone phosphate	Acylglycerone phosphate	white
+glyceronephosphate O-acyltransferase	2.3.1.42	Glycerone phosphate	CoA	white
+malonyl-CoA decarboxylase	4.1.1.9	Acetyl-CoA	Malonyl-CoA	white
+malonyl-CoA decarboxylase	4.1.1.9	CO2	Malonyl-CoA	white
+malonyl-CoA decarboxylase	4.1.1.9	Malonyl-CoA	Acetyl-CoA	white
+malonyl-CoA decarboxylase	4.1.1.9	Malonyl-CoA	CO2	white
+mevalonate kinase	2.7.1.36	(R)-5-Phosphomevalonate	(R)-Mevalonate	white
+mevalonate kinase	2.7.1.36	(R)-5-Phosphomevalonate	ATP	white
+mevalonate kinase	2.7.1.36	(R)-Mevalonate	(R)-5-Phosphomevalonate	white
+mevalonate kinase	2.7.1.36	(R)-Mevalonate	ADP	white
+mevalonate kinase	2.7.1.36	ADP	(R)-Mevalonate	white
+mevalonate kinase	2.7.1.36	ADP	ATP	white
+mevalonate kinase	2.7.1.36	ATP	(R)-5-Phosphomevalonate	white
+mevalonate kinase	2.7.1.36	ATP	ADP	white
+nitric-oxide synthase, inducible	1.14.13.39	H+	H2O	white
+nitric-oxide synthase, inducible	1.14.13.39	H+	L-Citrulline	white
+nitric-oxide synthase, inducible	1.14.13.39	H+	NADP+	white
+nitric-oxide synthase, inducible	1.14.13.39	H+	Nitric oxide	white
+nitric-oxide synthase, inducible	1.14.13.39	H2O	H+	white
+nitric-oxide synthase, inducible	1.14.13.39	H2O	N(omega)-Hydroxyarginine	white
+nitric-oxide synthase, inducible	1.14.13.39	H2O	NADPH	white
+nitric-oxide synthase, inducible	1.14.13.39	H2O	Oxygen	white
+nitric-oxide synthase, inducible	1.14.13.39	L-Citrulline	H+	white
+nitric-oxide synthase, inducible	1.14.13.39	L-Citrulline	N(omega)-Hydroxyarginine	white
+nitric-oxide synthase, inducible	1.14.13.39	L-Citrulline	NADPH	white
+nitric-oxide synthase, inducible	1.14.13.39	L-Citrulline	Oxygen	white
+nitric-oxide synthase, inducible	1.14.13.39	N(omega)-Hydroxyarginine	H2O	white
+nitric-oxide synthase, inducible	1.14.13.39	N(omega)-Hydroxyarginine	L-Citrulline	white
+nitric-oxide synthase, inducible	1.14.13.39	N(omega)-Hydroxyarginine	NADP+	white
+nitric-oxide synthase, inducible	1.14.13.39	N(omega)-Hydroxyarginine	Nitric oxide	white
+nitric-oxide synthase, inducible	1.14.13.39	NADP+	H+	white
+nitric-oxide synthase, inducible	1.14.13.39	NADP+	N(omega)-Hydroxyarginine	white
+nitric-oxide synthase, inducible	1.14.13.39	NADP+	NADPH	white
+nitric-oxide synthase, inducible	1.14.13.39	NADP+	Oxygen	white
+nitric-oxide synthase, inducible	1.14.13.39	NADPH	H2O	white
+nitric-oxide synthase, inducible	1.14.13.39	NADPH	L-Citrulline	white
+nitric-oxide synthase, inducible	1.14.13.39	NADPH	NADP+	white
+nitric-oxide synthase, inducible	1.14.13.39	NADPH	Nitric oxide	white
+nitric-oxide synthase, inducible	1.14.13.39	Nitric oxide	H+	white
+nitric-oxide synthase, inducible	1.14.13.39	Nitric oxide	N(omega)-Hydroxyarginine	white
+nitric-oxide synthase, inducible	1.14.13.39	Nitric oxide	NADPH	white
+nitric-oxide synthase, inducible	1.14.13.39	Nitric oxide	Oxygen	white
+nitric-oxide synthase, inducible	1.14.13.39	Oxygen	H2O	white
+nitric-oxide synthase, inducible	1.14.13.39	Oxygen	L-Citrulline	white
+nitric-oxide synthase, inducible	1.14.13.39	Oxygen	NADP+	white
+nitric-oxide synthase, inducible	1.14.13.39	Oxygen	Nitric oxide	white
+peroxin-1	1.15.1.1	AMP	H2O	white
+peroxin-1	1.15.1.1	AMP	NAD+	white
+peroxin-1	1.15.1.1	H2O	AMP	white
+peroxin-1	1.15.1.1	H2O	Nicotinamide D-ribonucleotide	white
+peroxin-1	1.15.1.1	NAD+	AMP	white
+peroxin-1	1.15.1.1	NAD+	Nicotinamide D-ribonucleotide	white
+peroxin-1	1.15.1.1	Nicotinamide D-ribonucleotide	H2O	white
+peroxin-1	1.15.1.1	Nicotinamide D-ribonucleotide	NAD+	white
+peroxin-10	1.15.1.1	AMP	H2O	white
+peroxin-10	1.15.1.1	AMP	NAD+	white
+peroxin-10	1.15.1.1	H2O	AMP	white
+peroxin-10	1.15.1.1	H2O	Nicotinamide D-ribonucleotide	white
+peroxin-10	1.15.1.1	NAD+	AMP	white
+peroxin-10	1.15.1.1	NAD+	Nicotinamide D-ribonucleotide	white
+peroxin-10	1.15.1.1	Nicotinamide D-ribonucleotide	H2O	white
+peroxin-10	1.15.1.1	Nicotinamide D-ribonucleotide	NAD+	white
+peroxin-11A	1.15.1.1	AMP	H2O	white
+peroxin-11A	1.15.1.1	AMP	NAD+	white
+peroxin-11A	1.15.1.1	H2O	AMP	white
+peroxin-11A	1.15.1.1	H2O	Nicotinamide D-ribonucleotide	white
+peroxin-11A	1.15.1.1	NAD+	AMP	white
+peroxin-11A	1.15.1.1	NAD+	Nicotinamide D-ribonucleotide	white
+peroxin-11A	1.15.1.1	Nicotinamide D-ribonucleotide	H2O	white
+peroxin-11A	1.15.1.1	Nicotinamide D-ribonucleotide	NAD+	white
+peroxin-11B	1.15.1.1	AMP	H2O	white
+peroxin-11B	1.15.1.1	AMP	NAD+	white
+peroxin-11B	1.15.1.1	H2O	AMP	white
+peroxin-11B	1.15.1.1	H2O	Nicotinamide D-ribonucleotide	white
+peroxin-11B	1.15.1.1	NAD+	AMP	white
+peroxin-11B	1.15.1.1	NAD+	Nicotinamide D-ribonucleotide	white
+peroxin-11B	1.15.1.1	Nicotinamide D-ribonucleotide	H2O	white
+peroxin-11B	1.15.1.1	Nicotinamide D-ribonucleotide	NAD+	white
+peroxin-11C	1.15.1.1	AMP	H2O	white
+peroxin-11C	1.15.1.1	AMP	NAD+	white
+peroxin-11C	1.15.1.1	H2O	AMP	white
+peroxin-11C	1.15.1.1	H2O	Nicotinamide D-ribonucleotide	white
+peroxin-11C	1.15.1.1	NAD+	AMP	white
+peroxin-11C	1.15.1.1	NAD+	Nicotinamide D-ribonucleotide	white
+peroxin-11C	1.15.1.1	Nicotinamide D-ribonucleotide	H2O	white
+peroxin-11C	1.15.1.1	Nicotinamide D-ribonucleotide	NAD+	white
+peroxin-12	1.15.1.1	AMP	H2O	white
+peroxin-12	1.15.1.1	AMP	NAD+	white
+peroxin-12	1.15.1.1	H2O	AMP	white
+peroxin-12	1.15.1.1	H2O	Nicotinamide D-ribonucleotide	white
+peroxin-12	1.15.1.1	NAD+	AMP	white
+peroxin-12	1.15.1.1	NAD+	Nicotinamide D-ribonucleotide	white
+peroxin-12	1.15.1.1	Nicotinamide D-ribonucleotide	H2O	white
+peroxin-12	1.15.1.1	Nicotinamide D-ribonucleotide	NAD+	white
+peroxin-13	1.15.1.1	AMP	H2O	white
+peroxin-13	1.15.1.1	AMP	NAD+	white
+peroxin-13	1.15.1.1	H2O	AMP	white
+peroxin-13	1.15.1.1	H2O	Nicotinamide D-ribonucleotide	white
+peroxin-13	1.15.1.1	NAD+	AMP	white
+peroxin-13	1.15.1.1	NAD+	Nicotinamide D-ribonucleotide	white
+peroxin-13	1.15.1.1	Nicotinamide D-ribonucleotide	H2O	white
+peroxin-13	1.15.1.1	Nicotinamide D-ribonucleotide	NAD+	white
+peroxin-14	1.15.1.1	AMP	H2O	white
+peroxin-14	1.15.1.1	AMP	NAD+	white
+peroxin-14	1.15.1.1	H2O	AMP	white
+peroxin-14	1.15.1.1	H2O	Nicotinamide D-ribonucleotide	white
+peroxin-14	1.15.1.1	NAD+	AMP	white
+peroxin-14	1.15.1.1	NAD+	Nicotinamide D-ribonucleotide	white
+peroxin-14	1.15.1.1	Nicotinamide D-ribonucleotide	H2O	white
+peroxin-14	1.15.1.1	Nicotinamide D-ribonucleotide	NAD+	white
+peroxin-16	1.15.1.1	AMP	H2O	white
+peroxin-16	1.15.1.1	AMP	NAD+	white
+peroxin-16	1.15.1.1	H2O	AMP	white
+peroxin-16	1.15.1.1	H2O	Nicotinamide D-ribonucleotide	white
+peroxin-16	1.15.1.1	NAD+	AMP	white
+peroxin-16	1.15.1.1	NAD+	Nicotinamide D-ribonucleotide	white
+peroxin-16	1.15.1.1	Nicotinamide D-ribonucleotide	H2O	white
+peroxin-16	1.15.1.1	Nicotinamide D-ribonucleotide	NAD+	white
+peroxin-19	1.15.1.1	AMP	H2O	white
+peroxin-19	1.15.1.1	AMP	NAD+	white
+peroxin-19	1.15.1.1	H2O	AMP	white
+peroxin-19	1.15.1.1	H2O	Nicotinamide D-ribonucleotide	white
+peroxin-19	1.15.1.1	NAD+	AMP	white
+peroxin-19	1.15.1.1	NAD+	Nicotinamide D-ribonucleotide	white
+peroxin-19	1.15.1.1	Nicotinamide D-ribonucleotide	H2O	white
+peroxin-19	1.15.1.1	Nicotinamide D-ribonucleotide	NAD+	white
+peroxin-2	1.15.1.1	AMP	H2O	white
+peroxin-2	1.15.1.1	AMP	NAD+	white
+peroxin-2	1.15.1.1	H2O	AMP	white
+peroxin-2	1.15.1.1	H2O	Nicotinamide D-ribonucleotide	white
+peroxin-2	1.15.1.1	NAD+	AMP	white
+peroxin-2	1.15.1.1	NAD+	Nicotinamide D-ribonucleotide	white
+peroxin-2	1.15.1.1	Nicotinamide D-ribonucleotide	H2O	white
+peroxin-2	1.15.1.1	Nicotinamide D-ribonucleotide	NAD+	white
+peroxin-26	1.15.1.1	AMP	H2O	white
+peroxin-26	1.15.1.1	AMP	NAD+	white
+peroxin-26	1.15.1.1	H2O	AMP	white
+peroxin-26	1.15.1.1	H2O	Nicotinamide D-ribonucleotide	white
+peroxin-26	1.15.1.1	NAD+	AMP	white
+peroxin-26	1.15.1.1	NAD+	Nicotinamide D-ribonucleotide	white
+peroxin-26	1.15.1.1	Nicotinamide D-ribonucleotide	H2O	white
+peroxin-26	1.15.1.1	Nicotinamide D-ribonucleotide	NAD+	white
+peroxin-3	1.15.1.1	AMP	H2O	white
+peroxin-3	1.15.1.1	AMP	NAD+	white
+peroxin-3	1.15.1.1	H2O	AMP	white
+peroxin-3	1.15.1.1	H2O	Nicotinamide D-ribonucleotide	white
+peroxin-3	1.15.1.1	NAD+	AMP	white
+peroxin-3	1.15.1.1	NAD+	Nicotinamide D-ribonucleotide	white
+peroxin-3	1.15.1.1	Nicotinamide D-ribonucleotide	H2O	white
+peroxin-3	1.15.1.1	Nicotinamide D-ribonucleotide	NAD+	white
+peroxin-5	1.15.1.1	AMP	H2O	white
+peroxin-5	1.15.1.1	AMP	NAD+	white
+peroxin-5	1.15.1.1	H2O	AMP	white
+peroxin-5	1.15.1.1	H2O	Nicotinamide D-ribonucleotide	white
+peroxin-5	1.15.1.1	NAD+	AMP	white
+peroxin-5	1.15.1.1	NAD+	Nicotinamide D-ribonucleotide	white
+peroxin-5	1.15.1.1	Nicotinamide D-ribonucleotide	H2O	white
+peroxin-5	1.15.1.1	Nicotinamide D-ribonucleotide	NAD+	white
+peroxin-6	1.15.1.1	AMP	H2O	white
+peroxin-6	1.15.1.1	AMP	NAD+	white
+peroxin-6	1.15.1.1	H2O	AMP	white
+peroxin-6	1.15.1.1	H2O	Nicotinamide D-ribonucleotide	white
+peroxin-6	1.15.1.1	NAD+	AMP	white
+peroxin-6	1.15.1.1	NAD+	Nicotinamide D-ribonucleotide	white
+peroxin-6	1.15.1.1	Nicotinamide D-ribonucleotide	H2O	white
+peroxin-6	1.15.1.1	Nicotinamide D-ribonucleotide	NAD+	white
+peroxin-7	1.15.1.1	AMP	H2O	white
+peroxin-7	1.15.1.1	AMP	NAD+	white
+peroxin-7	1.15.1.1	H2O	AMP	white
+peroxin-7	1.15.1.1	H2O	Nicotinamide D-ribonucleotide	white
+peroxin-7	1.15.1.1	NAD+	AMP	white
+peroxin-7	1.15.1.1	NAD+	Nicotinamide D-ribonucleotide	white
+peroxin-7	1.15.1.1	Nicotinamide D-ribonucleotide	H2O	white
+peroxin-7	1.15.1.1	Nicotinamide D-ribonucleotide	NAD+	white
+peroxiredoxin 1	1.11.1.24	H+	H2O	white
+peroxiredoxin 1	1.11.1.24	H+	L-Citrulline	white
+peroxiredoxin 1	1.11.1.24	H+	NADP+	white
+peroxiredoxin 1	1.11.1.24	H+	Nitric oxide	white
+peroxiredoxin 1	1.11.1.24	H2O	H+	white
+peroxiredoxin 1	1.11.1.24	H2O	N(omega)-Hydroxyarginine	white
+peroxiredoxin 1	1.11.1.24	H2O	NADPH	white
+peroxiredoxin 1	1.11.1.24	H2O	Oxygen	white
+peroxiredoxin 1	1.11.1.24	L-Citrulline	H+	white
+peroxiredoxin 1	1.11.1.24	L-Citrulline	N(omega)-Hydroxyarginine	white
+peroxiredoxin 1	1.11.1.24	L-Citrulline	NADPH	white
+peroxiredoxin 1	1.11.1.24	L-Citrulline	Oxygen	white
+peroxiredoxin 1	1.11.1.24	N(omega)-Hydroxyarginine	H2O	white
+peroxiredoxin 1	1.11.1.24	N(omega)-Hydroxyarginine	L-Citrulline	white
+peroxiredoxin 1	1.11.1.24	N(omega)-Hydroxyarginine	NADP+	white
+peroxiredoxin 1	1.11.1.24	N(omega)-Hydroxyarginine	Nitric oxide	white
+peroxiredoxin 1	1.11.1.24	NADP+	H+	white
+peroxiredoxin 1	1.11.1.24	NADP+	N(omega)-Hydroxyarginine	white
+peroxiredoxin 1	1.11.1.24	NADP+	NADPH	white
+peroxiredoxin 1	1.11.1.24	NADP+	Oxygen	white
+peroxiredoxin 1	1.11.1.24	NADPH	H2O	white
+peroxiredoxin 1	1.11.1.24	NADPH	L-Citrulline	white
+peroxiredoxin 1	1.11.1.24	NADPH	NADP+	white
+peroxiredoxin 1	1.11.1.24	NADPH	Nitric oxide	white
+peroxiredoxin 1	1.11.1.24	Nitric oxide	H+	white
+peroxiredoxin 1	1.11.1.24	Nitric oxide	N(omega)-Hydroxyarginine	white
+peroxiredoxin 1	1.11.1.24	Nitric oxide	NADPH	white
+peroxiredoxin 1	1.11.1.24	Nitric oxide	Oxygen	white
+peroxiredoxin 1	1.11.1.24	Oxygen	H2O	white
+peroxiredoxin 1	1.11.1.24	Oxygen	L-Citrulline	white
+peroxiredoxin 1	1.11.1.24	Oxygen	NADP+	white
+peroxiredoxin 1	1.11.1.24	Oxygen	Nitric oxide	white
+peroxiredoxin 5	1.11.1.24	Glycolate	Glyoxylate	white
+peroxiredoxin 5	1.11.1.24	Glycolate	Hydrogen peroxide	white
+peroxiredoxin 5	1.11.1.24	Glyoxylate	Glycolate	white
+peroxiredoxin 5	1.11.1.24	Glyoxylate	Oxygen	white
+peroxiredoxin 5	1.11.1.24	Hydrogen peroxide	Glycolate	white
+peroxiredoxin 5	1.11.1.24	Hydrogen peroxide	Oxygen	white
+peroxiredoxin 5	1.11.1.24	Oxygen	Glyoxylate	white
+peroxiredoxin 5	1.11.1.24	Oxygen	Hydrogen peroxide	white
+peroxisomal coenzyme A diphosphatase NUDT7	3.6.1.77	Adenosine 3',5'-bisphosphate	CoA	white
+peroxisomal coenzyme A diphosphatase NUDT7	3.6.1.77	Adenosine 3',5'-bisphosphate	H2O	white
+peroxisomal coenzyme A diphosphatase NUDT7	3.6.1.77	CoA	Adenosine 3',5'-bisphosphate	white
+peroxisomal coenzyme A diphosphatase NUDT7	3.6.1.77	CoA	Pantetheine 4'-phosphate	white
+peroxisomal coenzyme A diphosphatase NUDT7	3.6.1.77	H2O	Adenosine 3',5'-bisphosphate	white
+peroxisomal coenzyme A diphosphatase NUDT7	3.6.1.77	H2O	Pantetheine 4'-phosphate	white
+peroxisomal coenzyme A diphosphatase NUDT7	3.6.1.77	Pantetheine 4'-phosphate	CoA	white
+peroxisomal coenzyme A diphosphatase NUDT7	3.6.1.77	Pantetheine 4'-phosphate	H2O	white
+peroxisomal membrane protein 2	1.11.1.24	H+	H2O	white
+peroxisomal membrane protein 2	1.11.1.24	H+	L-Citrulline	white
+peroxisomal membrane protein 2	1.11.1.24	H+	NADP+	white
+peroxisomal membrane protein 2	1.11.1.24	H+	Nitric oxide	white
+peroxisomal membrane protein 2	1.11.1.24	H2O	H+	white
+peroxisomal membrane protein 2	1.11.1.24	H2O	N(omega)-Hydroxyarginine	white
+peroxisomal membrane protein 2	1.11.1.24	H2O	NADPH	white
+peroxisomal membrane protein 2	1.11.1.24	H2O	Oxygen	white
+peroxisomal membrane protein 2	1.11.1.24	L-Citrulline	H+	white
+peroxisomal membrane protein 2	1.11.1.24	L-Citrulline	N(omega)-Hydroxyarginine	white
+peroxisomal membrane protein 2	1.11.1.24	L-Citrulline	NADPH	white
+peroxisomal membrane protein 2	1.11.1.24	L-Citrulline	Oxygen	white
+peroxisomal membrane protein 2	1.11.1.24	N(omega)-Hydroxyarginine	H2O	white
+peroxisomal membrane protein 2	1.11.1.24	N(omega)-Hydroxyarginine	L-Citrulline	white
+peroxisomal membrane protein 2	1.11.1.24	N(omega)-Hydroxyarginine	NADP+	white
+peroxisomal membrane protein 2	1.11.1.24	N(omega)-Hydroxyarginine	Nitric oxide	white
+peroxisomal membrane protein 2	1.11.1.24	NADP+	H+	white
+peroxisomal membrane protein 2	1.11.1.24	NADP+	N(omega)-Hydroxyarginine	white
+peroxisomal membrane protein 2	1.11.1.24	NADP+	NADPH	white
+peroxisomal membrane protein 2	1.11.1.24	NADP+	Oxygen	white
+peroxisomal membrane protein 2	1.11.1.24	NADPH	H2O	white
+peroxisomal membrane protein 2	1.11.1.24	NADPH	L-Citrulline	white
+peroxisomal membrane protein 2	1.11.1.24	NADPH	NADP+	white
+peroxisomal membrane protein 2	1.11.1.24	NADPH	Nitric oxide	white
+peroxisomal membrane protein 2	1.11.1.24	Nitric oxide	H+	white
+peroxisomal membrane protein 2	1.11.1.24	Nitric oxide	N(omega)-Hydroxyarginine	white
+peroxisomal membrane protein 2	1.11.1.24	Nitric oxide	NADPH	white
+peroxisomal membrane protein 2	1.11.1.24	Nitric oxide	Oxygen	white
+peroxisomal membrane protein 2	1.11.1.24	Oxygen	H2O	white
+peroxisomal membrane protein 2	1.11.1.24	Oxygen	L-Citrulline	white
+peroxisomal membrane protein 2	1.11.1.24	Oxygen	NADP+	white
+peroxisomal membrane protein 2	1.11.1.24	Oxygen	Nitric oxide	white
+peroxisomal membrane protein 4	1.11.1.24	H+	H2O	white
+peroxisomal membrane protein 4	1.11.1.24	H+	L-Citrulline	white
+peroxisomal membrane protein 4	1.11.1.24	H+	NADP+	white
+peroxisomal membrane protein 4	1.11.1.24	H+	Nitric oxide	white
+peroxisomal membrane protein 4	1.11.1.24	H2O	H+	white
+peroxisomal membrane protein 4	1.11.1.24	H2O	N(omega)-Hydroxyarginine	white
+peroxisomal membrane protein 4	1.11.1.24	H2O	NADPH	white
+peroxisomal membrane protein 4	1.11.1.24	H2O	Oxygen	white
+peroxisomal membrane protein 4	1.11.1.24	L-Citrulline	H+	white
+peroxisomal membrane protein 4	1.11.1.24	L-Citrulline	N(omega)-Hydroxyarginine	white
+peroxisomal membrane protein 4	1.11.1.24	L-Citrulline	NADPH	white
+peroxisomal membrane protein 4	1.11.1.24	L-Citrulline	Oxygen	white
+peroxisomal membrane protein 4	1.11.1.24	N(omega)-Hydroxyarginine	H2O	white
+peroxisomal membrane protein 4	1.11.1.24	N(omega)-Hydroxyarginine	L-Citrulline	white
+peroxisomal membrane protein 4	1.11.1.24	N(omega)-Hydroxyarginine	NADP+	white
+peroxisomal membrane protein 4	1.11.1.24	N(omega)-Hydroxyarginine	Nitric oxide	white
+peroxisomal membrane protein 4	1.11.1.24	NADP+	H+	white
+peroxisomal membrane protein 4	1.11.1.24	NADP+	N(omega)-Hydroxyarginine	white
+peroxisomal membrane protein 4	1.11.1.24	NADP+	NADPH	white
+peroxisomal membrane protein 4	1.11.1.24	NADP+	Oxygen	white
+peroxisomal membrane protein 4	1.11.1.24	NADPH	H2O	white
+peroxisomal membrane protein 4	1.11.1.24	NADPH	L-Citrulline	white
+peroxisomal membrane protein 4	1.11.1.24	NADPH	NADP+	white
+peroxisomal membrane protein 4	1.11.1.24	NADPH	Nitric oxide	white
+peroxisomal membrane protein 4	1.11.1.24	Nitric oxide	H+	white
+peroxisomal membrane protein 4	1.11.1.24	Nitric oxide	N(omega)-Hydroxyarginine	white
+peroxisomal membrane protein 4	1.11.1.24	Nitric oxide	NADPH	white
+peroxisomal membrane protein 4	1.11.1.24	Nitric oxide	Oxygen	white
+peroxisomal membrane protein 4	1.11.1.24	Oxygen	H2O	white
+peroxisomal membrane protein 4	1.11.1.24	Oxygen	L-Citrulline	white
+peroxisomal membrane protein 4	1.11.1.24	Oxygen	NADP+	white
+peroxisomal membrane protein 4	1.11.1.24	Oxygen	Nitric oxide	white
+peroxisomal trans-2-enoyl-CoA reductase	1.3.1.38	(S)-3-Hydroxybutanoyl-CoA	Acetoacetyl-CoA	white
+peroxisomal trans-2-enoyl-CoA reductase	1.3.1.38	(S)-3-Hydroxybutanoyl-CoA	H+	white
+peroxisomal trans-2-enoyl-CoA reductase	1.3.1.38	(S)-3-Hydroxybutanoyl-CoA	NADH	white
+peroxisomal trans-2-enoyl-CoA reductase	1.3.1.38	Acetoacetyl-CoA	(S)-3-Hydroxybutanoyl-CoA	white
+peroxisomal trans-2-enoyl-CoA reductase	1.3.1.38	Acetoacetyl-CoA	NAD+	white
+peroxisomal trans-2-enoyl-CoA reductase	1.3.1.38	H+	(S)-3-Hydroxybutanoyl-CoA	white
+peroxisomal trans-2-enoyl-CoA reductase	1.3.1.38	H+	NAD+	white
+peroxisomal trans-2-enoyl-CoA reductase	1.3.1.38	NAD+	Acetoacetyl-CoA	white
+peroxisomal trans-2-enoyl-CoA reductase	1.3.1.38	NAD+	H+	white
+peroxisomal trans-2-enoyl-CoA reductase	1.3.1.38	NAD+	NADH	white
+peroxisomal trans-2-enoyl-CoA reductase	1.3.1.38	NADH	(S)-3-Hydroxybutanoyl-CoA	white
+peroxisomal trans-2-enoyl-CoA reductase	1.3.1.38	NADH	NAD+	white
+phosphomevalonate kinase	2.7.4.2	(R)-5-Diphosphomevalonate	(R)-5-Phosphomevalonate	white
+phosphomevalonate kinase	2.7.4.2	(R)-5-Diphosphomevalonate	ATP	white
+phosphomevalonate kinase	2.7.4.2	(R)-5-Phosphomevalonate	(R)-5-Diphosphomevalonate	white
+phosphomevalonate kinase	2.7.4.2	(R)-5-Phosphomevalonate	ADP	white
+phosphomevalonate kinase	2.7.4.2	ADP	(R)-5-Phosphomevalonate	white
+phosphomevalonate kinase	2.7.4.2	ADP	ATP	white
+phosphomevalonate kinase	2.7.4.2	ATP	(R)-5-Diphosphomevalonate	white
+phosphomevalonate kinase	2.7.4.2	ATP	ADP	white
+phytanoyl-CoA hydroxylase	1.14.11.18	Acyl-CoA	Acylglycerone phosphate	white
+phytanoyl-CoA hydroxylase	1.14.11.18	Acyl-CoA	CoA	white
+phytanoyl-CoA hydroxylase	1.14.11.18	Acylglycerone phosphate	Acyl-CoA	white
+phytanoyl-CoA hydroxylase	1.14.11.18	Acylglycerone phosphate	Glycerone phosphate	white
+phytanoyl-CoA hydroxylase	1.14.11.18	CoA	Acyl-CoA	white
+phytanoyl-CoA hydroxylase	1.14.11.18	CoA	Glycerone phosphate	white
+phytanoyl-CoA hydroxylase	1.14.11.18	Glycerone phosphate	Acylglycerone phosphate	white
+phytanoyl-CoA hydroxylase	1.14.11.18	Glycerone phosphate	CoA	white
+protein Mpv17	1.11.1.24	H+	H2O	white
+protein Mpv17	1.11.1.24	H+	L-Citrulline	white
+protein Mpv17	1.11.1.24	H+	NADP+	white
+protein Mpv17	1.11.1.24	H+	Nitric oxide	white
+protein Mpv17	1.11.1.24	H2O	H+	white
+protein Mpv17	1.11.1.24	H2O	N(omega)-Hydroxyarginine	white
+protein Mpv17	1.11.1.24	H2O	NADPH	white
+protein Mpv17	1.11.1.24	H2O	Oxygen	white
+protein Mpv17	1.11.1.24	L-Citrulline	H+	white
+protein Mpv17	1.11.1.24	L-Citrulline	N(omega)-Hydroxyarginine	white
+protein Mpv17	1.11.1.24	L-Citrulline	NADPH	white
+protein Mpv17	1.11.1.24	L-Citrulline	Oxygen	white
+protein Mpv17	1.11.1.24	N(omega)-Hydroxyarginine	H2O	white
+protein Mpv17	1.11.1.24	N(omega)-Hydroxyarginine	L-Citrulline	white
+protein Mpv17	1.11.1.24	N(omega)-Hydroxyarginine	NADP+	white
+protein Mpv17	1.11.1.24	N(omega)-Hydroxyarginine	Nitric oxide	white
+protein Mpv17	1.11.1.24	NADP+	H+	white
+protein Mpv17	1.11.1.24	NADP+	N(omega)-Hydroxyarginine	white
+protein Mpv17	1.11.1.24	NADP+	NADPH	white
+protein Mpv17	1.11.1.24	NADP+	Oxygen	white
+protein Mpv17	1.11.1.24	NADPH	H2O	white
+protein Mpv17	1.11.1.24	NADPH	L-Citrulline	white
+protein Mpv17	1.11.1.24	NADPH	NADP+	white
+protein Mpv17	1.11.1.24	NADPH	Nitric oxide	white
+protein Mpv17	1.11.1.24	Nitric oxide	H+	white
+protein Mpv17	1.11.1.24	Nitric oxide	N(omega)-Hydroxyarginine	white
+protein Mpv17	1.11.1.24	Nitric oxide	NADPH	white
+protein Mpv17	1.11.1.24	Nitric oxide	Oxygen	white
+protein Mpv17	1.11.1.24	Oxygen	H2O	white
+protein Mpv17	1.11.1.24	Oxygen	L-Citrulline	white
+protein Mpv17	1.11.1.24	Oxygen	NADP+	white
+protein Mpv17	1.11.1.24	Oxygen	Nitric oxide	white
+sarcosine oxidase / L-pipecolate oxidase	1.5.3.1	Formaldehyde	H2O	white
+sarcosine oxidase / L-pipecolate oxidase	1.5.3.1	Formaldehyde	Oxygen	white
+sarcosine oxidase / L-pipecolate oxidase	1.5.3.1	Formaldehyde	Sarcosine	white
+sarcosine oxidase / L-pipecolate oxidase	1.5.3.1	Glycine	H2O	white
+sarcosine oxidase / L-pipecolate oxidase	1.5.3.1	Glycine	Oxygen	white
+sarcosine oxidase / L-pipecolate oxidase	1.5.3.1	Glycine	Sarcosine	white
+sarcosine oxidase / L-pipecolate oxidase	1.5.3.1	H2O	Formaldehyde	white
+sarcosine oxidase / L-pipecolate oxidase	1.5.3.1	H2O	Glycine	white
+sarcosine oxidase / L-pipecolate oxidase	1.5.3.1	H2O	Hydrogen peroxide	white
+sarcosine oxidase / L-pipecolate oxidase	1.5.3.1	Hydrogen peroxide	H2O	white
+sarcosine oxidase / L-pipecolate oxidase	1.5.3.1	Hydrogen peroxide	Oxygen	white
+sarcosine oxidase / L-pipecolate oxidase	1.5.3.1	Hydrogen peroxide	Sarcosine	white
+sarcosine oxidase / L-pipecolate oxidase	1.5.3.1	Oxygen	Formaldehyde	white
+sarcosine oxidase / L-pipecolate oxidase	1.5.3.1	Oxygen	Glycine	white
+sarcosine oxidase / L-pipecolate oxidase	1.5.3.1	Oxygen	Hydrogen peroxide	white
+sarcosine oxidase / L-pipecolate oxidase	1.5.3.1	Sarcosine	Formaldehyde	white
+sarcosine oxidase / L-pipecolate oxidase	1.5.3.1	Sarcosine	Glycine	white
+sarcosine oxidase / L-pipecolate oxidase	1.5.3.1	Sarcosine	Hydrogen peroxide	white
+soluble epoxide hydrolase / lipid-phosphate phosphatase	3.3.2.10	Ethylene glycol	Ethylene oxide	white
+soluble epoxide hydrolase / lipid-phosphate phosphatase	3.3.2.10	Ethylene glycol	H2O	white
+soluble epoxide hydrolase / lipid-phosphate phosphatase	3.3.2.10	Ethylene oxide	Ethylene glycol	white
+soluble epoxide hydrolase / lipid-phosphate phosphatase	3.3.2.10	H2O	Ethylene glycol	white
+solute carrier family 25 (peroxisomal adenine nucleotide transporter), member 17	1.11.1.24	H+	H2O	white
+solute carrier family 25 (peroxisomal adenine nucleotide transporter), member 17	1.11.1.24	H+	L-Citrulline	white
+solute carrier family 25 (peroxisomal adenine nucleotide transporter), member 17	1.11.1.24	H+	NADP+	white
+solute carrier family 25 (peroxisomal adenine nucleotide transporter), member 17	1.11.1.24	H+	Nitric oxide	white
+solute carrier family 25 (peroxisomal adenine nucleotide transporter), member 17	1.11.1.24	H2O	H+	white
+solute carrier family 25 (peroxisomal adenine nucleotide transporter), member 17	1.11.1.24	H2O	N(omega)-Hydroxyarginine	white
+solute carrier family 25 (peroxisomal adenine nucleotide transporter), member 17	1.11.1.24	H2O	NADPH	white
+solute carrier family 25 (peroxisomal adenine nucleotide transporter), member 17	1.11.1.24	H2O	Oxygen	white
+solute carrier family 25 (peroxisomal adenine nucleotide transporter), member 17	1.11.1.24	L-Citrulline	H+	white
+solute carrier family 25 (peroxisomal adenine nucleotide transporter), member 17	1.11.1.24	L-Citrulline	N(omega)-Hydroxyarginine	white
+solute carrier family 25 (peroxisomal adenine nucleotide transporter), member 17	1.11.1.24	L-Citrulline	NADPH	white
+solute carrier family 25 (peroxisomal adenine nucleotide transporter), member 17	1.11.1.24	L-Citrulline	Oxygen	white
+solute carrier family 25 (peroxisomal adenine nucleotide transporter), member 17	1.11.1.24	N(omega)-Hydroxyarginine	H2O	white
+solute carrier family 25 (peroxisomal adenine nucleotide transporter), member 17	1.11.1.24	N(omega)-Hydroxyarginine	L-Citrulline	white
+solute carrier family 25 (peroxisomal adenine nucleotide transporter), member 17	1.11.1.24	N(omega)-Hydroxyarginine	NADP+	white
+solute carrier family 25 (peroxisomal adenine nucleotide transporter), member 17	1.11.1.24	N(omega)-Hydroxyarginine	Nitric oxide	white
+solute carrier family 25 (peroxisomal adenine nucleotide transporter), member 17	1.11.1.24	NADP+	H+	white
+solute carrier family 25 (peroxisomal adenine nucleotide transporter), member 17	1.11.1.24	NADP+	N(omega)-Hydroxyarginine	white
+solute carrier family 25 (peroxisomal adenine nucleotide transporter), member 17	1.11.1.24	NADP+	NADPH	white
+solute carrier family 25 (peroxisomal adenine nucleotide transporter), member 17	1.11.1.24	NADP+	Oxygen	white
+solute carrier family 25 (peroxisomal adenine nucleotide transporter), member 17	1.11.1.24	NADPH	H2O	white
+solute carrier family 25 (peroxisomal adenine nucleotide transporter), member 17	1.11.1.24	NADPH	L-Citrulline	white
+solute carrier family 25 (peroxisomal adenine nucleotide transporter), member 17	1.11.1.24	NADPH	NADP+	white
+solute carrier family 25 (peroxisomal adenine nucleotide transporter), member 17	1.11.1.24	NADPH	Nitric oxide	white
+solute carrier family 25 (peroxisomal adenine nucleotide transporter), member 17	1.11.1.24	Nitric oxide	H+	white
+solute carrier family 25 (peroxisomal adenine nucleotide transporter), member 17	1.11.1.24	Nitric oxide	N(omega)-Hydroxyarginine	white
+solute carrier family 25 (peroxisomal adenine nucleotide transporter), member 17	1.11.1.24	Nitric oxide	NADPH	white
+solute carrier family 25 (peroxisomal adenine nucleotide transporter), member 17	1.11.1.24	Nitric oxide	Oxygen	white
+solute carrier family 25 (peroxisomal adenine nucleotide transporter), member 17	1.11.1.24	Oxygen	H2O	white
+solute carrier family 25 (peroxisomal adenine nucleotide transporter), member 17	1.11.1.24	Oxygen	L-Citrulline	white
+solute carrier family 25 (peroxisomal adenine nucleotide transporter), member 17	1.11.1.24	Oxygen	NADP+	white
+solute carrier family 25 (peroxisomal adenine nucleotide transporter), member 17	1.11.1.24	Oxygen	Nitric oxide	white
+solute carrier family 27 (fatty acid transporter), member 2	6.2.1.-	Chenodeoxycholate	Chenodeoxycholoyl-CoA	white
+solute carrier family 27 (fatty acid transporter), member 2	6.2.1.-	Chenodeoxycholate	H2O	white
+solute carrier family 27 (fatty acid transporter), member 2	6.2.1.-	Chenodeoxycholoyl-CoA	Chenodeoxycholate	white
+solute carrier family 27 (fatty acid transporter), member 2	6.2.1.-	Chenodeoxycholoyl-CoA	CoA	white
+solute carrier family 27 (fatty acid transporter), member 2	6.2.1.-	CoA	Chenodeoxycholoyl-CoA	white
+solute carrier family 27 (fatty acid transporter), member 2	6.2.1.-	CoA	H2O	white
+solute carrier family 27 (fatty acid transporter), member 2	6.2.1.-	H2O	Chenodeoxycholate	white
+solute carrier family 27 (fatty acid transporter), member 2	6.2.1.-	H2O	CoA	white
+sterol carrier protein 2	2.3.1.176	3alpha,7alpha,12alpha-Trihydroxy-5beta-24-oxocholestanoyl-CoA	Choloyl-CoA	white
+sterol carrier protein 2	2.3.1.176	3alpha,7alpha,12alpha-Trihydroxy-5beta-24-oxocholestanoyl-CoA	Propanoyl-CoA	white
+sterol carrier protein 2	2.3.1.176	Choloyl-CoA	3alpha,7alpha,12alpha-Trihydroxy-5beta-24-oxocholestanoyl-CoA	white
+sterol carrier protein 2	2.3.1.176	Choloyl-CoA	CoA	white
+sterol carrier protein 2	2.3.1.176	CoA	Choloyl-CoA	white
+sterol carrier protein 2	2.3.1.176	CoA	Propanoyl-CoA	white
+sterol carrier protein 2	2.3.1.176	Propanoyl-CoA	3alpha,7alpha,12alpha-Trihydroxy-5beta-24-oxocholestanoyl-CoA	white
+sterol carrier protein 2	2.3.1.176	Propanoyl-CoA	CoA	white
+xanthine dehydrogenase/oxidase	1.17.1.4	H+	H2O	white
+xanthine dehydrogenase/oxidase	1.17.1.4	H+	Hypoxanthine	white
+xanthine dehydrogenase/oxidase	1.17.1.4	H+	NAD+	white
+xanthine dehydrogenase/oxidase	1.17.1.4	H2O	H+	white
+xanthine dehydrogenase/oxidase	1.17.1.4	H2O	NADH	white
+xanthine dehydrogenase/oxidase	1.17.1.4	H2O	Xanthine	white
+xanthine dehydrogenase/oxidase	1.17.1.4	Hypoxanthine	H+	white
+xanthine dehydrogenase/oxidase	1.17.1.4	Hypoxanthine	NADH	white
+xanthine dehydrogenase/oxidase	1.17.1.4	Hypoxanthine	Xanthine	white
+xanthine dehydrogenase/oxidase	1.17.1.4	NAD+	H+	white
+xanthine dehydrogenase/oxidase	1.17.1.4	NAD+	NADH	white
+xanthine dehydrogenase/oxidase	1.17.1.4	NAD+	Xanthine	white
+xanthine dehydrogenase/oxidase	1.17.1.4	NADH	H2O	white
+xanthine dehydrogenase/oxidase	1.17.1.4	NADH	Hypoxanthine	white
+xanthine dehydrogenase/oxidase	1.17.1.4	NADH	NAD+	white
+xanthine dehydrogenase/oxidase	1.17.1.4	Xanthine	H2O	white
+xanthine dehydrogenase/oxidase	1.17.1.4	Xanthine	Hypoxanthine	white
+xanthine dehydrogenase/oxidase	1.17.1.4	Xanthine	NAD+	white

@@ -1,0 +1,889 @@
+enzyme_name	EC	source	target	color
+DNA ligase 1	6.5.1.1	AMP	ATP	white
+DNA ligase 1	6.5.1.1	AMP	C00039(n)	white
+DNA ligase 1	6.5.1.1	AMP	C02128(m)	white
+DNA ligase 1	6.5.1.1	ATP	AMP	white
+DNA ligase 1	6.5.1.1	ATP	C00039(n	white
+DNA ligase 1	6.5.1.1	ATP	Diphosphate	white
+DNA ligase 1	6.5.1.1	ATP	m)	white
+DNA ligase 1	6.5.1.1	C00039(n	ATP	white
+DNA ligase 1	6.5.1.1	C00039(n	C00039(n)	white
+DNA ligase 1	6.5.1.1	C00039(n	C02128(m)	white
+DNA ligase 1	6.5.1.1	C00039(n)	AMP	white
+DNA ligase 1	6.5.1.1	C00039(n)	C00039(n	white
+DNA ligase 1	6.5.1.1	C00039(n)	Diphosphate	white
+DNA ligase 1	6.5.1.1	C00039(n)	m)	white
+DNA ligase 1	6.5.1.1	C02128(m)	AMP	white
+DNA ligase 1	6.5.1.1	C02128(m)	C00039(n	white
+DNA ligase 1	6.5.1.1	C02128(m)	Diphosphate	white
+DNA ligase 1	6.5.1.1	C02128(m)	m)	white
+DNA ligase 1	6.5.1.1	Diphosphate	ATP	white
+DNA ligase 1	6.5.1.1	Diphosphate	C00039(n)	white
+DNA ligase 1	6.5.1.1	Diphosphate	C02128(m)	white
+DNA ligase 1	6.5.1.1	m)	ATP	white
+DNA ligase 1	6.5.1.1	m)	C00039(n)	white
+DNA ligase 1	6.5.1.1	m)	C02128(m)	white
+DNA ligase 3	6.5.1.1	AMP	ATP	white
+DNA ligase 3	6.5.1.1	AMP	C00039(n)	white
+DNA ligase 3	6.5.1.1	AMP	C02128(m)	white
+DNA ligase 3	6.5.1.1	ATP	AMP	white
+DNA ligase 3	6.5.1.1	ATP	C00039(n	white
+DNA ligase 3	6.5.1.1	ATP	Diphosphate	white
+DNA ligase 3	6.5.1.1	ATP	m)	white
+DNA ligase 3	6.5.1.1	C00039(n	ATP	white
+DNA ligase 3	6.5.1.1	C00039(n	C00039(n)	white
+DNA ligase 3	6.5.1.1	C00039(n	C02128(m)	white
+DNA ligase 3	6.5.1.1	C00039(n)	AMP	white
+DNA ligase 3	6.5.1.1	C00039(n)	C00039(n	white
+DNA ligase 3	6.5.1.1	C00039(n)	Diphosphate	white
+DNA ligase 3	6.5.1.1	C00039(n)	m)	white
+DNA ligase 3	6.5.1.1	C02128(m)	AMP	white
+DNA ligase 3	6.5.1.1	C02128(m)	C00039(n	white
+DNA ligase 3	6.5.1.1	C02128(m)	Diphosphate	white
+DNA ligase 3	6.5.1.1	C02128(m)	m)	white
+DNA ligase 3	6.5.1.1	Diphosphate	ATP	white
+DNA ligase 3	6.5.1.1	Diphosphate	C00039(n)	white
+DNA ligase 3	6.5.1.1	Diphosphate	C02128(m)	white
+DNA ligase 3	6.5.1.1	m)	ATP	white
+DNA ligase 3	6.5.1.1	m)	C00039(n)	white
+DNA ligase 3	6.5.1.1	m)	C02128(m)	white
+DNA polymerase beta	2.7.7.7	AMP	ATP	white
+DNA polymerase beta	2.7.7.7	AMP	C00039(n)	white
+DNA polymerase beta	2.7.7.7	AMP	C02128(m)	white
+DNA polymerase beta	2.7.7.7	ATP	AMP	white
+DNA polymerase beta	2.7.7.7	ATP	C00039(n	white
+DNA polymerase beta	2.7.7.7	ATP	Diphosphate	white
+DNA polymerase beta	2.7.7.7	ATP	m)	white
+DNA polymerase beta	2.7.7.7	C00039(n	ATP	white
+DNA polymerase beta	2.7.7.7	C00039(n	C00039(n)	white
+DNA polymerase beta	2.7.7.7	C00039(n	C02128(m)	white
+DNA polymerase beta	2.7.7.7	C00039(n)	AMP	white
+DNA polymerase beta	2.7.7.7	C00039(n)	C00039(n	white
+DNA polymerase beta	2.7.7.7	C00039(n)	Diphosphate	white
+DNA polymerase beta	2.7.7.7	C00039(n)	m)	white
+DNA polymerase beta	2.7.7.7	C02128(m)	AMP	white
+DNA polymerase beta	2.7.7.7	C02128(m)	C00039(n	white
+DNA polymerase beta	2.7.7.7	C02128(m)	Diphosphate	white
+DNA polymerase beta	2.7.7.7	C02128(m)	m)	white
+DNA polymerase beta	2.7.7.7	Diphosphate	ATP	white
+DNA polymerase beta	2.7.7.7	Diphosphate	C00039(n)	white
+DNA polymerase beta	2.7.7.7	Diphosphate	C02128(m)	white
+DNA polymerase beta	2.7.7.7	m)	ATP	white
+DNA polymerase beta	2.7.7.7	m)	C00039(n)	white
+DNA polymerase beta	2.7.7.7	m)	C02128(m)	white
+DNA polymerase delta subunit 1	2.7.7.7	AMP	ATP	white
+DNA polymerase delta subunit 1	2.7.7.7	AMP	C00039(n)	white
+DNA polymerase delta subunit 1	2.7.7.7	AMP	C02128(m)	white
+DNA polymerase delta subunit 1	2.7.7.7	ATP	AMP	white
+DNA polymerase delta subunit 1	2.7.7.7	ATP	C00039(n	white
+DNA polymerase delta subunit 1	2.7.7.7	ATP	Diphosphate	white
+DNA polymerase delta subunit 1	2.7.7.7	ATP	m)	white
+DNA polymerase delta subunit 1	2.7.7.7	C00039(n	ATP	white
+DNA polymerase delta subunit 1	2.7.7.7	C00039(n	C00039(n)	white
+DNA polymerase delta subunit 1	2.7.7.7	C00039(n	C02128(m)	white
+DNA polymerase delta subunit 1	2.7.7.7	C00039(n)	AMP	white
+DNA polymerase delta subunit 1	2.7.7.7	C00039(n)	C00039(n	white
+DNA polymerase delta subunit 1	2.7.7.7	C00039(n)	Diphosphate	white
+DNA polymerase delta subunit 1	2.7.7.7	C00039(n)	m)	white
+DNA polymerase delta subunit 1	2.7.7.7	C02128(m)	AMP	white
+DNA polymerase delta subunit 1	2.7.7.7	C02128(m)	C00039(n	white
+DNA polymerase delta subunit 1	2.7.7.7	C02128(m)	Diphosphate	white
+DNA polymerase delta subunit 1	2.7.7.7	C02128(m)	m)	white
+DNA polymerase delta subunit 1	2.7.7.7	Diphosphate	ATP	white
+DNA polymerase delta subunit 1	2.7.7.7	Diphosphate	C00039(n)	white
+DNA polymerase delta subunit 1	2.7.7.7	Diphosphate	C02128(m)	white
+DNA polymerase delta subunit 1	2.7.7.7	m)	ATP	white
+DNA polymerase delta subunit 1	2.7.7.7	m)	C00039(n)	white
+DNA polymerase delta subunit 1	2.7.7.7	m)	C02128(m)	white
+DNA polymerase delta subunit 2	2.7.7.7	AMP	ATP	white
+DNA polymerase delta subunit 2	2.7.7.7	AMP	C00039(n)	white
+DNA polymerase delta subunit 2	2.7.7.7	AMP	C02128(m)	white
+DNA polymerase delta subunit 2	2.7.7.7	ATP	AMP	white
+DNA polymerase delta subunit 2	2.7.7.7	ATP	C00039(n	white
+DNA polymerase delta subunit 2	2.7.7.7	ATP	Diphosphate	white
+DNA polymerase delta subunit 2	2.7.7.7	ATP	m)	white
+DNA polymerase delta subunit 2	2.7.7.7	C00039(n	ATP	white
+DNA polymerase delta subunit 2	2.7.7.7	C00039(n	C00039(n)	white
+DNA polymerase delta subunit 2	2.7.7.7	C00039(n	C02128(m)	white
+DNA polymerase delta subunit 2	2.7.7.7	C00039(n)	AMP	white
+DNA polymerase delta subunit 2	2.7.7.7	C00039(n)	C00039(n	white
+DNA polymerase delta subunit 2	2.7.7.7	C00039(n)	Diphosphate	white
+DNA polymerase delta subunit 2	2.7.7.7	C00039(n)	m)	white
+DNA polymerase delta subunit 2	2.7.7.7	C02128(m)	AMP	white
+DNA polymerase delta subunit 2	2.7.7.7	C02128(m)	C00039(n	white
+DNA polymerase delta subunit 2	2.7.7.7	C02128(m)	Diphosphate	white
+DNA polymerase delta subunit 2	2.7.7.7	C02128(m)	m)	white
+DNA polymerase delta subunit 2	2.7.7.7	Diphosphate	ATP	white
+DNA polymerase delta subunit 2	2.7.7.7	Diphosphate	C00039(n)	white
+DNA polymerase delta subunit 2	2.7.7.7	Diphosphate	C02128(m)	white
+DNA polymerase delta subunit 2	2.7.7.7	m)	ATP	white
+DNA polymerase delta subunit 2	2.7.7.7	m)	C00039(n)	white
+DNA polymerase delta subunit 2	2.7.7.7	m)	C02128(m)	white
+DNA polymerase delta subunit 3	5.6.2.3	AMP	ATP	white
+DNA polymerase delta subunit 3	5.6.2.3	AMP	C00039(n)	white
+DNA polymerase delta subunit 3	5.6.2.3	AMP	C02128(m)	white
+DNA polymerase delta subunit 3	5.6.2.3	ATP	AMP	white
+DNA polymerase delta subunit 3	5.6.2.3	ATP	C00039(n	white
+DNA polymerase delta subunit 3	5.6.2.3	ATP	Diphosphate	white
+DNA polymerase delta subunit 3	5.6.2.3	ATP	m)	white
+DNA polymerase delta subunit 3	5.6.2.3	C00039(n	ATP	white
+DNA polymerase delta subunit 3	5.6.2.3	C00039(n	C00039(n)	white
+DNA polymerase delta subunit 3	5.6.2.3	C00039(n	C02128(m)	white
+DNA polymerase delta subunit 3	5.6.2.3	C00039(n)	AMP	white
+DNA polymerase delta subunit 3	5.6.2.3	C00039(n)	C00039(n	white
+DNA polymerase delta subunit 3	5.6.2.3	C00039(n)	Diphosphate	white
+DNA polymerase delta subunit 3	5.6.2.3	C00039(n)	m)	white
+DNA polymerase delta subunit 3	5.6.2.3	C02128(m)	AMP	white
+DNA polymerase delta subunit 3	5.6.2.3	C02128(m)	C00039(n	white
+DNA polymerase delta subunit 3	5.6.2.3	C02128(m)	Diphosphate	white
+DNA polymerase delta subunit 3	5.6.2.3	C02128(m)	m)	white
+DNA polymerase delta subunit 3	5.6.2.3	Diphosphate	ATP	white
+DNA polymerase delta subunit 3	5.6.2.3	Diphosphate	C00039(n)	white
+DNA polymerase delta subunit 3	5.6.2.3	Diphosphate	C02128(m)	white
+DNA polymerase delta subunit 3	5.6.2.3	m)	ATP	white
+DNA polymerase delta subunit 3	5.6.2.3	m)	C00039(n)	white
+DNA polymerase delta subunit 3	5.6.2.3	m)	C02128(m)	white
+DNA polymerase delta subunit 4	5.6.2.3	AMP	ATP	white
+DNA polymerase delta subunit 4	5.6.2.3	AMP	C00039(n)	white
+DNA polymerase delta subunit 4	5.6.2.3	AMP	C02128(m)	white
+DNA polymerase delta subunit 4	5.6.2.3	ATP	AMP	white
+DNA polymerase delta subunit 4	5.6.2.3	ATP	C00039(n	white
+DNA polymerase delta subunit 4	5.6.2.3	ATP	Diphosphate	white
+DNA polymerase delta subunit 4	5.6.2.3	ATP	m)	white
+DNA polymerase delta subunit 4	5.6.2.3	C00039(n	ATP	white
+DNA polymerase delta subunit 4	5.6.2.3	C00039(n	C00039(n)	white
+DNA polymerase delta subunit 4	5.6.2.3	C00039(n	C02128(m)	white
+DNA polymerase delta subunit 4	5.6.2.3	C00039(n)	AMP	white
+DNA polymerase delta subunit 4	5.6.2.3	C00039(n)	C00039(n	white
+DNA polymerase delta subunit 4	5.6.2.3	C00039(n)	Diphosphate	white
+DNA polymerase delta subunit 4	5.6.2.3	C00039(n)	m)	white
+DNA polymerase delta subunit 4	5.6.2.3	C02128(m)	AMP	white
+DNA polymerase delta subunit 4	5.6.2.3	C02128(m)	C00039(n	white
+DNA polymerase delta subunit 4	5.6.2.3	C02128(m)	Diphosphate	white
+DNA polymerase delta subunit 4	5.6.2.3	C02128(m)	m)	white
+DNA polymerase delta subunit 4	5.6.2.3	Diphosphate	ATP	white
+DNA polymerase delta subunit 4	5.6.2.3	Diphosphate	C00039(n)	white
+DNA polymerase delta subunit 4	5.6.2.3	Diphosphate	C02128(m)	white
+DNA polymerase delta subunit 4	5.6.2.3	m)	ATP	white
+DNA polymerase delta subunit 4	5.6.2.3	m)	C00039(n)	white
+DNA polymerase delta subunit 4	5.6.2.3	m)	C02128(m)	white
+DNA polymerase epsilon subunit 1	2.7.7.7	AMP	ATP	white
+DNA polymerase epsilon subunit 1	2.7.7.7	AMP	C00039(n)	white
+DNA polymerase epsilon subunit 1	2.7.7.7	AMP	C02128(m)	white
+DNA polymerase epsilon subunit 1	2.7.7.7	ATP	AMP	white
+DNA polymerase epsilon subunit 1	2.7.7.7	ATP	C00039(n	white
+DNA polymerase epsilon subunit 1	2.7.7.7	ATP	Diphosphate	white
+DNA polymerase epsilon subunit 1	2.7.7.7	ATP	m)	white
+DNA polymerase epsilon subunit 1	2.7.7.7	C00039(n	ATP	white
+DNA polymerase epsilon subunit 1	2.7.7.7	C00039(n	C00039(n)	white
+DNA polymerase epsilon subunit 1	2.7.7.7	C00039(n	C02128(m)	white
+DNA polymerase epsilon subunit 1	2.7.7.7	C00039(n)	AMP	white
+DNA polymerase epsilon subunit 1	2.7.7.7	C00039(n)	C00039(n	white
+DNA polymerase epsilon subunit 1	2.7.7.7	C00039(n)	Diphosphate	white
+DNA polymerase epsilon subunit 1	2.7.7.7	C00039(n)	m)	white
+DNA polymerase epsilon subunit 1	2.7.7.7	C02128(m)	AMP	white
+DNA polymerase epsilon subunit 1	2.7.7.7	C02128(m)	C00039(n	white
+DNA polymerase epsilon subunit 1	2.7.7.7	C02128(m)	Diphosphate	white
+DNA polymerase epsilon subunit 1	2.7.7.7	C02128(m)	m)	white
+DNA polymerase epsilon subunit 1	2.7.7.7	Diphosphate	ATP	white
+DNA polymerase epsilon subunit 1	2.7.7.7	Diphosphate	C00039(n)	white
+DNA polymerase epsilon subunit 1	2.7.7.7	Diphosphate	C02128(m)	white
+DNA polymerase epsilon subunit 1	2.7.7.7	m)	ATP	white
+DNA polymerase epsilon subunit 1	2.7.7.7	m)	C00039(n)	white
+DNA polymerase epsilon subunit 1	2.7.7.7	m)	C02128(m)	white
+DNA polymerase epsilon subunit 2	2.7.7.7	AMP	ATP	white
+DNA polymerase epsilon subunit 2	2.7.7.7	AMP	C00039(n)	white
+DNA polymerase epsilon subunit 2	2.7.7.7	AMP	C02128(m)	white
+DNA polymerase epsilon subunit 2	2.7.7.7	ATP	AMP	white
+DNA polymerase epsilon subunit 2	2.7.7.7	ATP	C00039(n	white
+DNA polymerase epsilon subunit 2	2.7.7.7	ATP	Diphosphate	white
+DNA polymerase epsilon subunit 2	2.7.7.7	ATP	m)	white
+DNA polymerase epsilon subunit 2	2.7.7.7	C00039(n	ATP	white
+DNA polymerase epsilon subunit 2	2.7.7.7	C00039(n	C00039(n)	white
+DNA polymerase epsilon subunit 2	2.7.7.7	C00039(n	C02128(m)	white
+DNA polymerase epsilon subunit 2	2.7.7.7	C00039(n)	AMP	white
+DNA polymerase epsilon subunit 2	2.7.7.7	C00039(n)	C00039(n	white
+DNA polymerase epsilon subunit 2	2.7.7.7	C00039(n)	Diphosphate	white
+DNA polymerase epsilon subunit 2	2.7.7.7	C00039(n)	m)	white
+DNA polymerase epsilon subunit 2	2.7.7.7	C02128(m)	AMP	white
+DNA polymerase epsilon subunit 2	2.7.7.7	C02128(m)	C00039(n	white
+DNA polymerase epsilon subunit 2	2.7.7.7	C02128(m)	Diphosphate	white
+DNA polymerase epsilon subunit 2	2.7.7.7	C02128(m)	m)	white
+DNA polymerase epsilon subunit 2	2.7.7.7	Diphosphate	ATP	white
+DNA polymerase epsilon subunit 2	2.7.7.7	Diphosphate	C00039(n)	white
+DNA polymerase epsilon subunit 2	2.7.7.7	Diphosphate	C02128(m)	white
+DNA polymerase epsilon subunit 2	2.7.7.7	m)	ATP	white
+DNA polymerase epsilon subunit 2	2.7.7.7	m)	C00039(n)	white
+DNA polymerase epsilon subunit 2	2.7.7.7	m)	C02128(m)	white
+DNA polymerase epsilon subunit 3	2.7.7.7	AMP	ATP	white
+DNA polymerase epsilon subunit 3	2.7.7.7	AMP	C00039(n)	white
+DNA polymerase epsilon subunit 3	2.7.7.7	AMP	C02128(m)	white
+DNA polymerase epsilon subunit 3	2.7.7.7	ATP	AMP	white
+DNA polymerase epsilon subunit 3	2.7.7.7	ATP	C00039(n	white
+DNA polymerase epsilon subunit 3	2.7.7.7	ATP	Diphosphate	white
+DNA polymerase epsilon subunit 3	2.7.7.7	ATP	m)	white
+DNA polymerase epsilon subunit 3	2.7.7.7	C00039(n	ATP	white
+DNA polymerase epsilon subunit 3	2.7.7.7	C00039(n	C00039(n)	white
+DNA polymerase epsilon subunit 3	2.7.7.7	C00039(n	C02128(m)	white
+DNA polymerase epsilon subunit 3	2.7.7.7	C00039(n)	AMP	white
+DNA polymerase epsilon subunit 3	2.7.7.7	C00039(n)	C00039(n	white
+DNA polymerase epsilon subunit 3	2.7.7.7	C00039(n)	Diphosphate	white
+DNA polymerase epsilon subunit 3	2.7.7.7	C00039(n)	m)	white
+DNA polymerase epsilon subunit 3	2.7.7.7	C02128(m)	AMP	white
+DNA polymerase epsilon subunit 3	2.7.7.7	C02128(m)	C00039(n	white
+DNA polymerase epsilon subunit 3	2.7.7.7	C02128(m)	Diphosphate	white
+DNA polymerase epsilon subunit 3	2.7.7.7	C02128(m)	m)	white
+DNA polymerase epsilon subunit 3	2.7.7.7	Diphosphate	ATP	white
+DNA polymerase epsilon subunit 3	2.7.7.7	Diphosphate	C00039(n)	white
+DNA polymerase epsilon subunit 3	2.7.7.7	Diphosphate	C02128(m)	white
+DNA polymerase epsilon subunit 3	2.7.7.7	m)	ATP	white
+DNA polymerase epsilon subunit 3	2.7.7.7	m)	C00039(n)	white
+DNA polymerase epsilon subunit 3	2.7.7.7	m)	C02128(m)	white
+DNA polymerase epsilon subunit 4	2.7.7.7	AMP	ATP	white
+DNA polymerase epsilon subunit 4	2.7.7.7	AMP	C00039(n)	white
+DNA polymerase epsilon subunit 4	2.7.7.7	AMP	C02128(m)	white
+DNA polymerase epsilon subunit 4	2.7.7.7	ATP	AMP	white
+DNA polymerase epsilon subunit 4	2.7.7.7	ATP	C00039(n	white
+DNA polymerase epsilon subunit 4	2.7.7.7	ATP	Diphosphate	white
+DNA polymerase epsilon subunit 4	2.7.7.7	ATP	m)	white
+DNA polymerase epsilon subunit 4	2.7.7.7	C00039(n	ATP	white
+DNA polymerase epsilon subunit 4	2.7.7.7	C00039(n	C00039(n)	white
+DNA polymerase epsilon subunit 4	2.7.7.7	C00039(n	C02128(m)	white
+DNA polymerase epsilon subunit 4	2.7.7.7	C00039(n)	AMP	white
+DNA polymerase epsilon subunit 4	2.7.7.7	C00039(n)	C00039(n	white
+DNA polymerase epsilon subunit 4	2.7.7.7	C00039(n)	Diphosphate	white
+DNA polymerase epsilon subunit 4	2.7.7.7	C00039(n)	m)	white
+DNA polymerase epsilon subunit 4	2.7.7.7	C02128(m)	AMP	white
+DNA polymerase epsilon subunit 4	2.7.7.7	C02128(m)	C00039(n	white
+DNA polymerase epsilon subunit 4	2.7.7.7	C02128(m)	Diphosphate	white
+DNA polymerase epsilon subunit 4	2.7.7.7	C02128(m)	m)	white
+DNA polymerase epsilon subunit 4	2.7.7.7	Diphosphate	ATP	white
+DNA polymerase epsilon subunit 4	2.7.7.7	Diphosphate	C00039(n)	white
+DNA polymerase epsilon subunit 4	2.7.7.7	Diphosphate	C02128(m)	white
+DNA polymerase epsilon subunit 4	2.7.7.7	m)	ATP	white
+DNA polymerase epsilon subunit 4	2.7.7.7	m)	C00039(n)	white
+DNA polymerase epsilon subunit 4	2.7.7.7	m)	C02128(m)	white
+DNA polymerase gamma 1	2.7.7.7	AMP	ATP	white
+DNA polymerase gamma 1	2.7.7.7	AMP	C00039(n)	white
+DNA polymerase gamma 1	2.7.7.7	AMP	C02128(m)	white
+DNA polymerase gamma 1	2.7.7.7	ATP	AMP	white
+DNA polymerase gamma 1	2.7.7.7	ATP	C00039(n	white
+DNA polymerase gamma 1	2.7.7.7	ATP	Diphosphate	white
+DNA polymerase gamma 1	2.7.7.7	ATP	m)	white
+DNA polymerase gamma 1	2.7.7.7	C00039(n	ATP	white
+DNA polymerase gamma 1	2.7.7.7	C00039(n	C00039(n)	white
+DNA polymerase gamma 1	2.7.7.7	C00039(n	C02128(m)	white
+DNA polymerase gamma 1	2.7.7.7	C00039(n)	AMP	white
+DNA polymerase gamma 1	2.7.7.7	C00039(n)	C00039(n	white
+DNA polymerase gamma 1	2.7.7.7	C00039(n)	Diphosphate	white
+DNA polymerase gamma 1	2.7.7.7	C00039(n)	m)	white
+DNA polymerase gamma 1	2.7.7.7	C02128(m)	AMP	white
+DNA polymerase gamma 1	2.7.7.7	C02128(m)	C00039(n	white
+DNA polymerase gamma 1	2.7.7.7	C02128(m)	Diphosphate	white
+DNA polymerase gamma 1	2.7.7.7	C02128(m)	m)	white
+DNA polymerase gamma 1	2.7.7.7	Diphosphate	ATP	white
+DNA polymerase gamma 1	2.7.7.7	Diphosphate	C00039(n)	white
+DNA polymerase gamma 1	2.7.7.7	Diphosphate	C02128(m)	white
+DNA polymerase gamma 1	2.7.7.7	m)	ATP	white
+DNA polymerase gamma 1	2.7.7.7	m)	C00039(n)	white
+DNA polymerase gamma 1	2.7.7.7	m)	C02128(m)	white
+DNA polymerase gamma 2	2.7.7.7	AMP	ATP	white
+DNA polymerase gamma 2	2.7.7.7	AMP	C00039(n)	white
+DNA polymerase gamma 2	2.7.7.7	AMP	C02128(m)	white
+DNA polymerase gamma 2	2.7.7.7	ATP	AMP	white
+DNA polymerase gamma 2	2.7.7.7	ATP	C00039(n	white
+DNA polymerase gamma 2	2.7.7.7	ATP	Diphosphate	white
+DNA polymerase gamma 2	2.7.7.7	ATP	m)	white
+DNA polymerase gamma 2	2.7.7.7	C00039(n	ATP	white
+DNA polymerase gamma 2	2.7.7.7	C00039(n	C00039(n)	white
+DNA polymerase gamma 2	2.7.7.7	C00039(n	C02128(m)	white
+DNA polymerase gamma 2	2.7.7.7	C00039(n)	AMP	white
+DNA polymerase gamma 2	2.7.7.7	C00039(n)	C00039(n	white
+DNA polymerase gamma 2	2.7.7.7	C00039(n)	Diphosphate	white
+DNA polymerase gamma 2	2.7.7.7	C00039(n)	m)	white
+DNA polymerase gamma 2	2.7.7.7	C02128(m)	AMP	white
+DNA polymerase gamma 2	2.7.7.7	C02128(m)	C00039(n	white
+DNA polymerase gamma 2	2.7.7.7	C02128(m)	Diphosphate	white
+DNA polymerase gamma 2	2.7.7.7	C02128(m)	m)	white
+DNA polymerase gamma 2	2.7.7.7	Diphosphate	ATP	white
+DNA polymerase gamma 2	2.7.7.7	Diphosphate	C00039(n)	white
+DNA polymerase gamma 2	2.7.7.7	Diphosphate	C02128(m)	white
+DNA polymerase gamma 2	2.7.7.7	m)	ATP	white
+DNA polymerase gamma 2	2.7.7.7	m)	C00039(n)	white
+DNA polymerase gamma 2	2.7.7.7	m)	C02128(m)	white
+DNA polymerase lambda	2.7.7.7	AMP	ATP	white
+DNA polymerase lambda	2.7.7.7	AMP	C00039(n)	white
+DNA polymerase lambda	2.7.7.7	AMP	C02128(m)	white
+DNA polymerase lambda	2.7.7.7	ATP	AMP	white
+DNA polymerase lambda	2.7.7.7	ATP	C00039(n	white
+DNA polymerase lambda	2.7.7.7	ATP	Diphosphate	white
+DNA polymerase lambda	2.7.7.7	ATP	m)	white
+DNA polymerase lambda	2.7.7.7	C00039(n	ATP	white
+DNA polymerase lambda	2.7.7.7	C00039(n	C00039(n)	white
+DNA polymerase lambda	2.7.7.7	C00039(n	C02128(m)	white
+DNA polymerase lambda	2.7.7.7	C00039(n)	AMP	white
+DNA polymerase lambda	2.7.7.7	C00039(n)	C00039(n	white
+DNA polymerase lambda	2.7.7.7	C00039(n)	Diphosphate	white
+DNA polymerase lambda	2.7.7.7	C00039(n)	m)	white
+DNA polymerase lambda	2.7.7.7	C02128(m)	AMP	white
+DNA polymerase lambda	2.7.7.7	C02128(m)	C00039(n	white
+DNA polymerase lambda	2.7.7.7	C02128(m)	Diphosphate	white
+DNA polymerase lambda	2.7.7.7	C02128(m)	m)	white
+DNA polymerase lambda	2.7.7.7	Diphosphate	ATP	white
+DNA polymerase lambda	2.7.7.7	Diphosphate	C00039(n)	white
+DNA polymerase lambda	2.7.7.7	Diphosphate	C02128(m)	white
+DNA polymerase lambda	2.7.7.7	m)	ATP	white
+DNA polymerase lambda	2.7.7.7	m)	C00039(n)	white
+DNA polymerase lambda	2.7.7.7	m)	C02128(m)	white
+DNA-repair protein XRCC1	2.7.7.7	AMP	ATP	white
+DNA-repair protein XRCC1	2.7.7.7	AMP	C00039(n)	white
+DNA-repair protein XRCC1	2.7.7.7	AMP	C02128(m)	white
+DNA-repair protein XRCC1	2.7.7.7	ATP	AMP	white
+DNA-repair protein XRCC1	2.7.7.7	ATP	C00039(n	white
+DNA-repair protein XRCC1	2.7.7.7	ATP	Diphosphate	white
+DNA-repair protein XRCC1	2.7.7.7	ATP	m)	white
+DNA-repair protein XRCC1	2.7.7.7	C00039(n	ATP	white
+DNA-repair protein XRCC1	2.7.7.7	C00039(n	C00039(n)	white
+DNA-repair protein XRCC1	2.7.7.7	C00039(n	C02128(m)	white
+DNA-repair protein XRCC1	2.7.7.7	C00039(n)	AMP	white
+DNA-repair protein XRCC1	2.7.7.7	C00039(n)	C00039(n	white
+DNA-repair protein XRCC1	2.7.7.7	C00039(n)	Diphosphate	white
+DNA-repair protein XRCC1	2.7.7.7	C00039(n)	m)	white
+DNA-repair protein XRCC1	2.7.7.7	C02128(m)	AMP	white
+DNA-repair protein XRCC1	2.7.7.7	C02128(m)	C00039(n	white
+DNA-repair protein XRCC1	2.7.7.7	C02128(m)	Diphosphate	white
+DNA-repair protein XRCC1	2.7.7.7	C02128(m)	m)	white
+DNA-repair protein XRCC1	2.7.7.7	Diphosphate	ATP	white
+DNA-repair protein XRCC1	2.7.7.7	Diphosphate	C00039(n)	white
+DNA-repair protein XRCC1	2.7.7.7	Diphosphate	C02128(m)	white
+DNA-repair protein XRCC1	2.7.7.7	m)	ATP	white
+DNA-repair protein XRCC1	2.7.7.7	m)	C00039(n)	white
+DNA-repair protein XRCC1	2.7.7.7	m)	C02128(m)	white
+N-glycosylase/DNA lyase	3.2.2.-	AMP	ATP	white
+N-glycosylase/DNA lyase	3.2.2.-	AMP	C00039(n)	white
+N-glycosylase/DNA lyase	3.2.2.-	AMP	C02128(m)	white
+N-glycosylase/DNA lyase	3.2.2.-	ATP	AMP	white
+N-glycosylase/DNA lyase	3.2.2.-	ATP	C00039(n	white
+N-glycosylase/DNA lyase	3.2.2.-	ATP	Diphosphate	white
+N-glycosylase/DNA lyase	3.2.2.-	ATP	m)	white
+N-glycosylase/DNA lyase	3.2.2.-	C00039(n	ATP	white
+N-glycosylase/DNA lyase	3.2.2.-	C00039(n	C00039(n)	white
+N-glycosylase/DNA lyase	3.2.2.-	C00039(n	C02128(m)	white
+N-glycosylase/DNA lyase	3.2.2.-	C00039(n)	AMP	white
+N-glycosylase/DNA lyase	3.2.2.-	C00039(n)	C00039(n	white
+N-glycosylase/DNA lyase	3.2.2.-	C00039(n)	Diphosphate	white
+N-glycosylase/DNA lyase	3.2.2.-	C00039(n)	m)	white
+N-glycosylase/DNA lyase	3.2.2.-	C02128(m)	AMP	white
+N-glycosylase/DNA lyase	3.2.2.-	C02128(m)	C00039(n	white
+N-glycosylase/DNA lyase	3.2.2.-	C02128(m)	Diphosphate	white
+N-glycosylase/DNA lyase	3.2.2.-	C02128(m)	m)	white
+N-glycosylase/DNA lyase	3.2.2.-	Diphosphate	ATP	white
+N-glycosylase/DNA lyase	3.2.2.-	Diphosphate	C00039(n)	white
+N-glycosylase/DNA lyase	3.2.2.-	Diphosphate	C02128(m)	white
+N-glycosylase/DNA lyase	3.2.2.-	m)	ATP	white
+N-glycosylase/DNA lyase	3.2.2.-	m)	C00039(n)	white
+N-glycosylase/DNA lyase	3.2.2.-	m)	C02128(m)	white
+aprataxin	3.6.1.70	AMP	ATP	white
+aprataxin	3.6.1.70	AMP	C00039(n)	white
+aprataxin	3.6.1.70	AMP	C02128(m)	white
+aprataxin	3.6.1.70	ATP	AMP	white
+aprataxin	3.6.1.70	ATP	C00039(n	white
+aprataxin	3.6.1.70	ATP	Diphosphate	white
+aprataxin	3.6.1.70	ATP	m)	white
+aprataxin	3.6.1.70	C00039(n	ATP	white
+aprataxin	3.6.1.70	C00039(n	C00039(n)	white
+aprataxin	3.6.1.70	C00039(n	C02128(m)	white
+aprataxin	3.6.1.70	C00039(n)	AMP	white
+aprataxin	3.6.1.70	C00039(n)	C00039(n	white
+aprataxin	3.6.1.70	C00039(n)	Diphosphate	white
+aprataxin	3.6.1.70	C00039(n)	m)	white
+aprataxin	3.6.1.70	C02128(m)	AMP	white
+aprataxin	3.6.1.70	C02128(m)	C00039(n	white
+aprataxin	3.6.1.70	C02128(m)	Diphosphate	white
+aprataxin	3.6.1.70	C02128(m)	m)	white
+aprataxin	3.6.1.70	Diphosphate	ATP	white
+aprataxin	3.6.1.70	Diphosphate	C00039(n)	white
+aprataxin	3.6.1.70	Diphosphate	C02128(m)	white
+aprataxin	3.6.1.70	m)	ATP	white
+aprataxin	3.6.1.70	m)	C00039(n)	white
+aprataxin	3.6.1.70	m)	C02128(m)	white
+bifunctional polynucleotide phosphatase/kinase	3.1.3.32	AMP	ATP	white
+bifunctional polynucleotide phosphatase/kinase	3.1.3.32	AMP	C00039(n)	white
+bifunctional polynucleotide phosphatase/kinase	3.1.3.32	AMP	C02128(m)	white
+bifunctional polynucleotide phosphatase/kinase	3.1.3.32	ATP	AMP	white
+bifunctional polynucleotide phosphatase/kinase	3.1.3.32	ATP	C00039(n	white
+bifunctional polynucleotide phosphatase/kinase	3.1.3.32	ATP	Diphosphate	white
+bifunctional polynucleotide phosphatase/kinase	3.1.3.32	ATP	m)	white
+bifunctional polynucleotide phosphatase/kinase	3.1.3.32	C00039(n	ATP	white
+bifunctional polynucleotide phosphatase/kinase	3.1.3.32	C00039(n	C00039(n)	white
+bifunctional polynucleotide phosphatase/kinase	3.1.3.32	C00039(n	C02128(m)	white
+bifunctional polynucleotide phosphatase/kinase	3.1.3.32	C00039(n)	AMP	white
+bifunctional polynucleotide phosphatase/kinase	3.1.3.32	C00039(n)	C00039(n	white
+bifunctional polynucleotide phosphatase/kinase	3.1.3.32	C00039(n)	Diphosphate	white
+bifunctional polynucleotide phosphatase/kinase	3.1.3.32	C00039(n)	m)	white
+bifunctional polynucleotide phosphatase/kinase	3.1.3.32	C02128(m)	AMP	white
+bifunctional polynucleotide phosphatase/kinase	3.1.3.32	C02128(m)	C00039(n	white
+bifunctional polynucleotide phosphatase/kinase	3.1.3.32	C02128(m)	Diphosphate	white
+bifunctional polynucleotide phosphatase/kinase	3.1.3.32	C02128(m)	m)	white
+bifunctional polynucleotide phosphatase/kinase	3.1.3.32	Diphosphate	ATP	white
+bifunctional polynucleotide phosphatase/kinase	3.1.3.32	Diphosphate	C00039(n)	white
+bifunctional polynucleotide phosphatase/kinase	3.1.3.32	Diphosphate	C02128(m)	white
+bifunctional polynucleotide phosphatase/kinase	3.1.3.32	m)	ATP	white
+bifunctional polynucleotide phosphatase/kinase	3.1.3.32	m)	C00039(n)	white
+bifunctional polynucleotide phosphatase/kinase	3.1.3.32	m)	C02128(m)	white
+endonuclease VIII-like 1	3.2.2.-	AMP	ATP	white
+endonuclease VIII-like 1	3.2.2.-	AMP	C00039(n)	white
+endonuclease VIII-like 1	3.2.2.-	AMP	C02128(m)	white
+endonuclease VIII-like 1	3.2.2.-	ATP	AMP	white
+endonuclease VIII-like 1	3.2.2.-	ATP	C00039(n	white
+endonuclease VIII-like 1	3.2.2.-	ATP	Diphosphate	white
+endonuclease VIII-like 1	3.2.2.-	ATP	m)	white
+endonuclease VIII-like 1	3.2.2.-	C00039(n	ATP	white
+endonuclease VIII-like 1	3.2.2.-	C00039(n	C00039(n)	white
+endonuclease VIII-like 1	3.2.2.-	C00039(n	C02128(m)	white
+endonuclease VIII-like 1	3.2.2.-	C00039(n)	AMP	white
+endonuclease VIII-like 1	3.2.2.-	C00039(n)	C00039(n	white
+endonuclease VIII-like 1	3.2.2.-	C00039(n)	Diphosphate	white
+endonuclease VIII-like 1	3.2.2.-	C00039(n)	m)	white
+endonuclease VIII-like 1	3.2.2.-	C02128(m)	AMP	white
+endonuclease VIII-like 1	3.2.2.-	C02128(m)	C00039(n	white
+endonuclease VIII-like 1	3.2.2.-	C02128(m)	Diphosphate	white
+endonuclease VIII-like 1	3.2.2.-	C02128(m)	m)	white
+endonuclease VIII-like 1	3.2.2.-	Diphosphate	ATP	white
+endonuclease VIII-like 1	3.2.2.-	Diphosphate	C00039(n)	white
+endonuclease VIII-like 1	3.2.2.-	Diphosphate	C02128(m)	white
+endonuclease VIII-like 1	3.2.2.-	m)	ATP	white
+endonuclease VIII-like 1	3.2.2.-	m)	C00039(n)	white
+endonuclease VIII-like 1	3.2.2.-	m)	C02128(m)	white
+endonuclease VIII-like 2	3.2.2.-	AMP	ATP	white
+endonuclease VIII-like 2	3.2.2.-	AMP	C00039(n)	white
+endonuclease VIII-like 2	3.2.2.-	AMP	C02128(m)	white
+endonuclease VIII-like 2	3.2.2.-	ATP	AMP	white
+endonuclease VIII-like 2	3.2.2.-	ATP	C00039(n	white
+endonuclease VIII-like 2	3.2.2.-	ATP	Diphosphate	white
+endonuclease VIII-like 2	3.2.2.-	ATP	m)	white
+endonuclease VIII-like 2	3.2.2.-	C00039(n	ATP	white
+endonuclease VIII-like 2	3.2.2.-	C00039(n	C00039(n)	white
+endonuclease VIII-like 2	3.2.2.-	C00039(n	C02128(m)	white
+endonuclease VIII-like 2	3.2.2.-	C00039(n)	AMP	white
+endonuclease VIII-like 2	3.2.2.-	C00039(n)	C00039(n	white
+endonuclease VIII-like 2	3.2.2.-	C00039(n)	Diphosphate	white
+endonuclease VIII-like 2	3.2.2.-	C00039(n)	m)	white
+endonuclease VIII-like 2	3.2.2.-	C02128(m)	AMP	white
+endonuclease VIII-like 2	3.2.2.-	C02128(m)	C00039(n	white
+endonuclease VIII-like 2	3.2.2.-	C02128(m)	Diphosphate	white
+endonuclease VIII-like 2	3.2.2.-	C02128(m)	m)	white
+endonuclease VIII-like 2	3.2.2.-	Diphosphate	ATP	white
+endonuclease VIII-like 2	3.2.2.-	Diphosphate	C00039(n)	white
+endonuclease VIII-like 2	3.2.2.-	Diphosphate	C02128(m)	white
+endonuclease VIII-like 2	3.2.2.-	m)	ATP	white
+endonuclease VIII-like 2	3.2.2.-	m)	C00039(n)	white
+endonuclease VIII-like 2	3.2.2.-	m)	C02128(m)	white
+endonuclease VIII-like 3	3.2.2.-	AMP	ATP	white
+endonuclease VIII-like 3	3.2.2.-	AMP	C00039(n)	white
+endonuclease VIII-like 3	3.2.2.-	AMP	C02128(m)	white
+endonuclease VIII-like 3	3.2.2.-	ATP	AMP	white
+endonuclease VIII-like 3	3.2.2.-	ATP	C00039(n	white
+endonuclease VIII-like 3	3.2.2.-	ATP	Diphosphate	white
+endonuclease VIII-like 3	3.2.2.-	ATP	m)	white
+endonuclease VIII-like 3	3.2.2.-	C00039(n	ATP	white
+endonuclease VIII-like 3	3.2.2.-	C00039(n	C00039(n)	white
+endonuclease VIII-like 3	3.2.2.-	C00039(n	C02128(m)	white
+endonuclease VIII-like 3	3.2.2.-	C00039(n)	AMP	white
+endonuclease VIII-like 3	3.2.2.-	C00039(n)	C00039(n	white
+endonuclease VIII-like 3	3.2.2.-	C00039(n)	Diphosphate	white
+endonuclease VIII-like 3	3.2.2.-	C00039(n)	m)	white
+endonuclease VIII-like 3	3.2.2.-	C02128(m)	AMP	white
+endonuclease VIII-like 3	3.2.2.-	C02128(m)	C00039(n	white
+endonuclease VIII-like 3	3.2.2.-	C02128(m)	Diphosphate	white
+endonuclease VIII-like 3	3.2.2.-	C02128(m)	m)	white
+endonuclease VIII-like 3	3.2.2.-	Diphosphate	ATP	white
+endonuclease VIII-like 3	3.2.2.-	Diphosphate	C00039(n)	white
+endonuclease VIII-like 3	3.2.2.-	Diphosphate	C02128(m)	white
+endonuclease VIII-like 3	3.2.2.-	m)	ATP	white
+endonuclease VIII-like 3	3.2.2.-	m)	C00039(n)	white
+endonuclease VIII-like 3	3.2.2.-	m)	C02128(m)	white
+flap endonuclease-1	3.1.-.-	AMP	ATP	white
+flap endonuclease-1	3.1.-.-	AMP	C00039(n)	white
+flap endonuclease-1	3.1.-.-	AMP	C02128(m)	white
+flap endonuclease-1	3.1.-.-	ATP	AMP	white
+flap endonuclease-1	3.1.-.-	ATP	C00039(n	white
+flap endonuclease-1	3.1.-.-	ATP	Diphosphate	white
+flap endonuclease-1	3.1.-.-	ATP	m)	white
+flap endonuclease-1	3.1.-.-	C00039(n	ATP	white
+flap endonuclease-1	3.1.-.-	C00039(n	C00039(n)	white
+flap endonuclease-1	3.1.-.-	C00039(n	C02128(m)	white
+flap endonuclease-1	3.1.-.-	C00039(n)	AMP	white
+flap endonuclease-1	3.1.-.-	C00039(n)	C00039(n	white
+flap endonuclease-1	3.1.-.-	C00039(n)	Diphosphate	white
+flap endonuclease-1	3.1.-.-	C00039(n)	m)	white
+flap endonuclease-1	3.1.-.-	C02128(m)	AMP	white
+flap endonuclease-1	3.1.-.-	C02128(m)	C00039(n	white
+flap endonuclease-1	3.1.-.-	C02128(m)	Diphosphate	white
+flap endonuclease-1	3.1.-.-	C02128(m)	m)	white
+flap endonuclease-1	3.1.-.-	Diphosphate	ATP	white
+flap endonuclease-1	3.1.-.-	Diphosphate	C00039(n)	white
+flap endonuclease-1	3.1.-.-	Diphosphate	C02128(m)	white
+flap endonuclease-1	3.1.-.-	m)	ATP	white
+flap endonuclease-1	3.1.-.-	m)	C00039(n)	white
+flap endonuclease-1	3.1.-.-	m)	C02128(m)	white
+high mobility group protein B1	2.7.7.7	AMP	ATP	white
+high mobility group protein B1	2.7.7.7	AMP	C00039(n)	white
+high mobility group protein B1	2.7.7.7	AMP	C02128(m)	white
+high mobility group protein B1	2.7.7.7	ATP	AMP	white
+high mobility group protein B1	2.7.7.7	ATP	C00039(n	white
+high mobility group protein B1	2.7.7.7	ATP	Diphosphate	white
+high mobility group protein B1	2.7.7.7	ATP	m)	white
+high mobility group protein B1	2.7.7.7	C00039(n	ATP	white
+high mobility group protein B1	2.7.7.7	C00039(n	C00039(n)	white
+high mobility group protein B1	2.7.7.7	C00039(n	C02128(m)	white
+high mobility group protein B1	2.7.7.7	C00039(n)	AMP	white
+high mobility group protein B1	2.7.7.7	C00039(n)	C00039(n	white
+high mobility group protein B1	2.7.7.7	C00039(n)	Diphosphate	white
+high mobility group protein B1	2.7.7.7	C00039(n)	m)	white
+high mobility group protein B1	2.7.7.7	C02128(m)	AMP	white
+high mobility group protein B1	2.7.7.7	C02128(m)	C00039(n	white
+high mobility group protein B1	2.7.7.7	C02128(m)	Diphosphate	white
+high mobility group protein B1	2.7.7.7	C02128(m)	m)	white
+high mobility group protein B1	2.7.7.7	Diphosphate	ATP	white
+high mobility group protein B1	2.7.7.7	Diphosphate	C00039(n)	white
+high mobility group protein B1	2.7.7.7	Diphosphate	C02128(m)	white
+high mobility group protein B1	2.7.7.7	m)	ATP	white
+high mobility group protein B1	2.7.7.7	m)	C00039(n)	white
+high mobility group protein B1	2.7.7.7	m)	C02128(m)	white
+methyl-CpG-binding domain protein 4	3.2.2.-	AMP	ATP	white
+methyl-CpG-binding domain protein 4	3.2.2.-	AMP	C00039(n)	white
+methyl-CpG-binding domain protein 4	3.2.2.-	AMP	C02128(m)	white
+methyl-CpG-binding domain protein 4	3.2.2.-	ATP	AMP	white
+methyl-CpG-binding domain protein 4	3.2.2.-	ATP	C00039(n	white
+methyl-CpG-binding domain protein 4	3.2.2.-	ATP	Diphosphate	white
+methyl-CpG-binding domain protein 4	3.2.2.-	ATP	m)	white
+methyl-CpG-binding domain protein 4	3.2.2.-	C00039(n	ATP	white
+methyl-CpG-binding domain protein 4	3.2.2.-	C00039(n	C00039(n)	white
+methyl-CpG-binding domain protein 4	3.2.2.-	C00039(n	C02128(m)	white
+methyl-CpG-binding domain protein 4	3.2.2.-	C00039(n)	AMP	white
+methyl-CpG-binding domain protein 4	3.2.2.-	C00039(n)	C00039(n	white
+methyl-CpG-binding domain protein 4	3.2.2.-	C00039(n)	Diphosphate	white
+methyl-CpG-binding domain protein 4	3.2.2.-	C00039(n)	m)	white
+methyl-CpG-binding domain protein 4	3.2.2.-	C02128(m)	AMP	white
+methyl-CpG-binding domain protein 4	3.2.2.-	C02128(m)	C00039(n	white
+methyl-CpG-binding domain protein 4	3.2.2.-	C02128(m)	Diphosphate	white
+methyl-CpG-binding domain protein 4	3.2.2.-	C02128(m)	m)	white
+methyl-CpG-binding domain protein 4	3.2.2.-	Diphosphate	ATP	white
+methyl-CpG-binding domain protein 4	3.2.2.-	Diphosphate	C00039(n)	white
+methyl-CpG-binding domain protein 4	3.2.2.-	Diphosphate	C02128(m)	white
+methyl-CpG-binding domain protein 4	3.2.2.-	m)	ATP	white
+methyl-CpG-binding domain protein 4	3.2.2.-	m)	C00039(n)	white
+methyl-CpG-binding domain protein 4	3.2.2.-	m)	C02128(m)	white
+poly [ADP-ribose] polymerase 1	2.4.2.30	AMP	ATP	white
+poly [ADP-ribose] polymerase 1	2.4.2.30	AMP	C00039(n)	white
+poly [ADP-ribose] polymerase 1	2.4.2.30	AMP	C02128(m)	white
+poly [ADP-ribose] polymerase 1	2.4.2.30	ATP	AMP	white
+poly [ADP-ribose] polymerase 1	2.4.2.30	ATP	C00039(n	white
+poly [ADP-ribose] polymerase 1	2.4.2.30	ATP	Diphosphate	white
+poly [ADP-ribose] polymerase 1	2.4.2.30	ATP	m)	white
+poly [ADP-ribose] polymerase 1	2.4.2.30	C00039(n	ATP	white
+poly [ADP-ribose] polymerase 1	2.4.2.30	C00039(n	C00039(n)	white
+poly [ADP-ribose] polymerase 1	2.4.2.30	C00039(n	C02128(m)	white
+poly [ADP-ribose] polymerase 1	2.4.2.30	C00039(n)	AMP	white
+poly [ADP-ribose] polymerase 1	2.4.2.30	C00039(n)	C00039(n	white
+poly [ADP-ribose] polymerase 1	2.4.2.30	C00039(n)	Diphosphate	white
+poly [ADP-ribose] polymerase 1	2.4.2.30	C00039(n)	m)	white
+poly [ADP-ribose] polymerase 1	2.4.2.30	C02128(m)	AMP	white
+poly [ADP-ribose] polymerase 1	2.4.2.30	C02128(m)	C00039(n	white
+poly [ADP-ribose] polymerase 1	2.4.2.30	C02128(m)	Diphosphate	white
+poly [ADP-ribose] polymerase 1	2.4.2.30	C02128(m)	m)	white
+poly [ADP-ribose] polymerase 1	2.4.2.30	Diphosphate	ATP	white
+poly [ADP-ribose] polymerase 1	2.4.2.30	Diphosphate	C00039(n)	white
+poly [ADP-ribose] polymerase 1	2.4.2.30	Diphosphate	C02128(m)	white
+poly [ADP-ribose] polymerase 1	2.4.2.30	m)	ATP	white
+poly [ADP-ribose] polymerase 1	2.4.2.30	m)	C00039(n)	white
+poly [ADP-ribose] polymerase 1	2.4.2.30	m)	C02128(m)	white
+poly [ADP-ribose] polymerase 2	2.4.2.30	AMP	ATP	white
+poly [ADP-ribose] polymerase 2	2.4.2.30	AMP	C00039(n)	white
+poly [ADP-ribose] polymerase 2	2.4.2.30	AMP	C02128(m)	white
+poly [ADP-ribose] polymerase 2	2.4.2.30	ATP	AMP	white
+poly [ADP-ribose] polymerase 2	2.4.2.30	ATP	C00039(n	white
+poly [ADP-ribose] polymerase 2	2.4.2.30	ATP	Diphosphate	white
+poly [ADP-ribose] polymerase 2	2.4.2.30	ATP	m)	white
+poly [ADP-ribose] polymerase 2	2.4.2.30	C00039(n	ATP	white
+poly [ADP-ribose] polymerase 2	2.4.2.30	C00039(n	C00039(n)	white
+poly [ADP-ribose] polymerase 2	2.4.2.30	C00039(n	C02128(m)	white
+poly [ADP-ribose] polymerase 2	2.4.2.30	C00039(n)	AMP	white
+poly [ADP-ribose] polymerase 2	2.4.2.30	C00039(n)	C00039(n	white
+poly [ADP-ribose] polymerase 2	2.4.2.30	C00039(n)	Diphosphate	white
+poly [ADP-ribose] polymerase 2	2.4.2.30	C00039(n)	m)	white
+poly [ADP-ribose] polymerase 2	2.4.2.30	C02128(m)	AMP	white
+poly [ADP-ribose] polymerase 2	2.4.2.30	C02128(m)	C00039(n	white
+poly [ADP-ribose] polymerase 2	2.4.2.30	C02128(m)	Diphosphate	white
+poly [ADP-ribose] polymerase 2	2.4.2.30	C02128(m)	m)	white
+poly [ADP-ribose] polymerase 2	2.4.2.30	Diphosphate	ATP	white
+poly [ADP-ribose] polymerase 2	2.4.2.30	Diphosphate	C00039(n)	white
+poly [ADP-ribose] polymerase 2	2.4.2.30	Diphosphate	C02128(m)	white
+poly [ADP-ribose] polymerase 2	2.4.2.30	m)	ATP	white
+poly [ADP-ribose] polymerase 2	2.4.2.30	m)	C00039(n)	white
+poly [ADP-ribose] polymerase 2	2.4.2.30	m)	C02128(m)	white
+poly(ADP-ribose) glycohydrolase	3.2.1.143	AMP	ATP	white
+poly(ADP-ribose) glycohydrolase	3.2.1.143	AMP	C00039(n)	white
+poly(ADP-ribose) glycohydrolase	3.2.1.143	AMP	C02128(m)	white
+poly(ADP-ribose) glycohydrolase	3.2.1.143	ATP	AMP	white
+poly(ADP-ribose) glycohydrolase	3.2.1.143	ATP	C00039(n	white
+poly(ADP-ribose) glycohydrolase	3.2.1.143	ATP	Diphosphate	white
+poly(ADP-ribose) glycohydrolase	3.2.1.143	ATP	m)	white
+poly(ADP-ribose) glycohydrolase	3.2.1.143	C00039(n	ATP	white
+poly(ADP-ribose) glycohydrolase	3.2.1.143	C00039(n	C00039(n)	white
+poly(ADP-ribose) glycohydrolase	3.2.1.143	C00039(n	C02128(m)	white
+poly(ADP-ribose) glycohydrolase	3.2.1.143	C00039(n)	AMP	white
+poly(ADP-ribose) glycohydrolase	3.2.1.143	C00039(n)	C00039(n	white
+poly(ADP-ribose) glycohydrolase	3.2.1.143	C00039(n)	Diphosphate	white
+poly(ADP-ribose) glycohydrolase	3.2.1.143	C00039(n)	m)	white
+poly(ADP-ribose) glycohydrolase	3.2.1.143	C02128(m)	AMP	white
+poly(ADP-ribose) glycohydrolase	3.2.1.143	C02128(m)	C00039(n	white
+poly(ADP-ribose) glycohydrolase	3.2.1.143	C02128(m)	Diphosphate	white
+poly(ADP-ribose) glycohydrolase	3.2.1.143	C02128(m)	m)	white
+poly(ADP-ribose) glycohydrolase	3.2.1.143	Diphosphate	ATP	white
+poly(ADP-ribose) glycohydrolase	3.2.1.143	Diphosphate	C00039(n)	white
+poly(ADP-ribose) glycohydrolase	3.2.1.143	Diphosphate	C02128(m)	white
+poly(ADP-ribose) glycohydrolase	3.2.1.143	m)	ATP	white
+poly(ADP-ribose) glycohydrolase	3.2.1.143	m)	C00039(n)	white
+poly(ADP-ribose) glycohydrolase	3.2.1.143	m)	C02128(m)	white
+poly(ADP-ribose) glycohydrolase ARH3	3.2.1.143	AMP	ATP	white
+poly(ADP-ribose) glycohydrolase ARH3	3.2.1.143	AMP	C00039(n)	white
+poly(ADP-ribose) glycohydrolase ARH3	3.2.1.143	AMP	C02128(m)	white
+poly(ADP-ribose) glycohydrolase ARH3	3.2.1.143	ATP	AMP	white
+poly(ADP-ribose) glycohydrolase ARH3	3.2.1.143	ATP	C00039(n	white
+poly(ADP-ribose) glycohydrolase ARH3	3.2.1.143	ATP	Diphosphate	white
+poly(ADP-ribose) glycohydrolase ARH3	3.2.1.143	ATP	m)	white
+poly(ADP-ribose) glycohydrolase ARH3	3.2.1.143	C00039(n	ATP	white
+poly(ADP-ribose) glycohydrolase ARH3	3.2.1.143	C00039(n	C00039(n)	white
+poly(ADP-ribose) glycohydrolase ARH3	3.2.1.143	C00039(n	C02128(m)	white
+poly(ADP-ribose) glycohydrolase ARH3	3.2.1.143	C00039(n)	AMP	white
+poly(ADP-ribose) glycohydrolase ARH3	3.2.1.143	C00039(n)	C00039(n	white
+poly(ADP-ribose) glycohydrolase ARH3	3.2.1.143	C00039(n)	Diphosphate	white
+poly(ADP-ribose) glycohydrolase ARH3	3.2.1.143	C00039(n)	m)	white
+poly(ADP-ribose) glycohydrolase ARH3	3.2.1.143	C02128(m)	AMP	white
+poly(ADP-ribose) glycohydrolase ARH3	3.2.1.143	C02128(m)	C00039(n	white
+poly(ADP-ribose) glycohydrolase ARH3	3.2.1.143	C02128(m)	Diphosphate	white
+poly(ADP-ribose) glycohydrolase ARH3	3.2.1.143	C02128(m)	m)	white
+poly(ADP-ribose) glycohydrolase ARH3	3.2.1.143	Diphosphate	ATP	white
+poly(ADP-ribose) glycohydrolase ARH3	3.2.1.143	Diphosphate	C00039(n)	white
+poly(ADP-ribose) glycohydrolase ARH3	3.2.1.143	Diphosphate	C02128(m)	white
+poly(ADP-ribose) glycohydrolase ARH3	3.2.1.143	m)	ATP	white
+poly(ADP-ribose) glycohydrolase ARH3	3.2.1.143	m)	C00039(n)	white
+poly(ADP-ribose) glycohydrolase ARH3	3.2.1.143	m)	C02128(m)	white
+proliferating cell nuclear antigen	3.1.26.4	AMP	ATP	white
+proliferating cell nuclear antigen	3.1.26.4	AMP	C00039(n)	white
+proliferating cell nuclear antigen	3.1.26.4	AMP	C02128(m)	white
+proliferating cell nuclear antigen	3.1.26.4	ATP	AMP	white
+proliferating cell nuclear antigen	3.1.26.4	ATP	C00039(n	white
+proliferating cell nuclear antigen	3.1.26.4	ATP	Diphosphate	white
+proliferating cell nuclear antigen	3.1.26.4	ATP	m)	white
+proliferating cell nuclear antigen	3.1.26.4	C00039(n	ATP	white
+proliferating cell nuclear antigen	3.1.26.4	C00039(n	C00039(n)	white
+proliferating cell nuclear antigen	3.1.26.4	C00039(n	C02128(m)	white
+proliferating cell nuclear antigen	3.1.26.4	C00039(n)	AMP	white
+proliferating cell nuclear antigen	3.1.26.4	C00039(n)	C00039(n	white
+proliferating cell nuclear antigen	3.1.26.4	C00039(n)	Diphosphate	white
+proliferating cell nuclear antigen	3.1.26.4	C00039(n)	m)	white
+proliferating cell nuclear antigen	3.1.26.4	C02128(m)	AMP	white
+proliferating cell nuclear antigen	3.1.26.4	C02128(m)	C00039(n	white
+proliferating cell nuclear antigen	3.1.26.4	C02128(m)	Diphosphate	white
+proliferating cell nuclear antigen	3.1.26.4	C02128(m)	m)	white
+proliferating cell nuclear antigen	3.1.26.4	Diphosphate	ATP	white
+proliferating cell nuclear antigen	3.1.26.4	Diphosphate	C00039(n)	white
+proliferating cell nuclear antigen	3.1.26.4	Diphosphate	C02128(m)	white
+proliferating cell nuclear antigen	3.1.26.4	m)	ATP	white
+proliferating cell nuclear antigen	3.1.26.4	m)	C00039(n)	white
+proliferating cell nuclear antigen	3.1.26.4	m)	C02128(m)	white
+protein mono-ADP-ribosyltransferase 3/4	2.4.2.-	AMP	ATP	white
+protein mono-ADP-ribosyltransferase 3/4	2.4.2.-	AMP	C00039(n)	white
+protein mono-ADP-ribosyltransferase 3/4	2.4.2.-	AMP	C02128(m)	white
+protein mono-ADP-ribosyltransferase 3/4	2.4.2.-	ATP	AMP	white
+protein mono-ADP-ribosyltransferase 3/4	2.4.2.-	ATP	C00039(n	white
+protein mono-ADP-ribosyltransferase 3/4	2.4.2.-	ATP	Diphosphate	white
+protein mono-ADP-ribosyltransferase 3/4	2.4.2.-	ATP	m)	white
+protein mono-ADP-ribosyltransferase 3/4	2.4.2.-	C00039(n	ATP	white
+protein mono-ADP-ribosyltransferase 3/4	2.4.2.-	C00039(n	C00039(n)	white
+protein mono-ADP-ribosyltransferase 3/4	2.4.2.-	C00039(n	C02128(m)	white
+protein mono-ADP-ribosyltransferase 3/4	2.4.2.-	C00039(n)	AMP	white
+protein mono-ADP-ribosyltransferase 3/4	2.4.2.-	C00039(n)	C00039(n	white
+protein mono-ADP-ribosyltransferase 3/4	2.4.2.-	C00039(n)	Diphosphate	white
+protein mono-ADP-ribosyltransferase 3/4	2.4.2.-	C00039(n)	m)	white
+protein mono-ADP-ribosyltransferase 3/4	2.4.2.-	C02128(m)	AMP	white
+protein mono-ADP-ribosyltransferase 3/4	2.4.2.-	C02128(m)	C00039(n	white
+protein mono-ADP-ribosyltransferase 3/4	2.4.2.-	C02128(m)	Diphosphate	white
+protein mono-ADP-ribosyltransferase 3/4	2.4.2.-	C02128(m)	m)	white
+protein mono-ADP-ribosyltransferase 3/4	2.4.2.-	Diphosphate	ATP	white
+protein mono-ADP-ribosyltransferase 3/4	2.4.2.-	Diphosphate	C00039(n)	white
+protein mono-ADP-ribosyltransferase 3/4	2.4.2.-	Diphosphate	C02128(m)	white
+protein mono-ADP-ribosyltransferase 3/4	2.4.2.-	m)	ATP	white
+protein mono-ADP-ribosyltransferase 3/4	2.4.2.-	m)	C00039(n)	white
+protein mono-ADP-ribosyltransferase 3/4	2.4.2.-	m)	C02128(m)	white
+replication factor C subunit 1	5.6.2.3	AMP	ATP	white
+replication factor C subunit 1	5.6.2.3	AMP	C00039(n)	white
+replication factor C subunit 1	5.6.2.3	AMP	C02128(m)	white
+replication factor C subunit 1	5.6.2.3	ATP	AMP	white
+replication factor C subunit 1	5.6.2.3	ATP	C00039(n	white
+replication factor C subunit 1	5.6.2.3	ATP	Diphosphate	white
+replication factor C subunit 1	5.6.2.3	ATP	m)	white
+replication factor C subunit 1	5.6.2.3	C00039(n	ATP	white
+replication factor C subunit 1	5.6.2.3	C00039(n	C00039(n)	white
+replication factor C subunit 1	5.6.2.3	C00039(n	C02128(m)	white
+replication factor C subunit 1	5.6.2.3	C00039(n)	AMP	white
+replication factor C subunit 1	5.6.2.3	C00039(n)	C00039(n	white
+replication factor C subunit 1	5.6.2.3	C00039(n)	Diphosphate	white
+replication factor C subunit 1	5.6.2.3	C00039(n)	m)	white
+replication factor C subunit 1	5.6.2.3	C02128(m)	AMP	white
+replication factor C subunit 1	5.6.2.3	C02128(m)	C00039(n	white
+replication factor C subunit 1	5.6.2.3	C02128(m)	Diphosphate	white
+replication factor C subunit 1	5.6.2.3	C02128(m)	m)	white
+replication factor C subunit 1	5.6.2.3	Diphosphate	ATP	white
+replication factor C subunit 1	5.6.2.3	Diphosphate	C00039(n)	white
+replication factor C subunit 1	5.6.2.3	Diphosphate	C02128(m)	white
+replication factor C subunit 1	5.6.2.3	m)	ATP	white
+replication factor C subunit 1	5.6.2.3	m)	C00039(n)	white
+replication factor C subunit 1	5.6.2.3	m)	C02128(m)	white
+replication factor C subunit 2/4	3.1.26.4	AMP	ATP	white
+replication factor C subunit 2/4	3.1.26.4	AMP	C00039(n)	white
+replication factor C subunit 2/4	3.1.26.4	AMP	C02128(m)	white
+replication factor C subunit 2/4	3.1.26.4	ATP	AMP	white
+replication factor C subunit 2/4	3.1.26.4	ATP	C00039(n	white
+replication factor C subunit 2/4	3.1.26.4	ATP	Diphosphate	white
+replication factor C subunit 2/4	3.1.26.4	ATP	m)	white
+replication factor C subunit 2/4	3.1.26.4	C00039(n	ATP	white
+replication factor C subunit 2/4	3.1.26.4	C00039(n	C00039(n)	white
+replication factor C subunit 2/4	3.1.26.4	C00039(n	C02128(m)	white
+replication factor C subunit 2/4	3.1.26.4	C00039(n)	AMP	white
+replication factor C subunit 2/4	3.1.26.4	C00039(n)	C00039(n	white
+replication factor C subunit 2/4	3.1.26.4	C00039(n)	Diphosphate	white
+replication factor C subunit 2/4	3.1.26.4	C00039(n)	m)	white
+replication factor C subunit 2/4	3.1.26.4	C02128(m)	AMP	white
+replication factor C subunit 2/4	3.1.26.4	C02128(m)	C00039(n	white
+replication factor C subunit 2/4	3.1.26.4	C02128(m)	Diphosphate	white
+replication factor C subunit 2/4	3.1.26.4	C02128(m)	m)	white
+replication factor C subunit 2/4	3.1.26.4	Diphosphate	ATP	white
+replication factor C subunit 2/4	3.1.26.4	Diphosphate	C00039(n)	white
+replication factor C subunit 2/4	3.1.26.4	Diphosphate	C02128(m)	white
+replication factor C subunit 2/4	3.1.26.4	m)	ATP	white
+replication factor C subunit 2/4	3.1.26.4	m)	C00039(n)	white
+replication factor C subunit 2/4	3.1.26.4	m)	C02128(m)	white
+replication factor C subunit 3/5	3.1.26.4	AMP	ATP	white
+replication factor C subunit 3/5	3.1.26.4	AMP	C00039(n)	white
+replication factor C subunit 3/5	3.1.26.4	AMP	C02128(m)	white
+replication factor C subunit 3/5	3.1.26.4	ATP	AMP	white
+replication factor C subunit 3/5	3.1.26.4	ATP	C00039(n	white
+replication factor C subunit 3/5	3.1.26.4	ATP	Diphosphate	white
+replication factor C subunit 3/5	3.1.26.4	ATP	m)	white
+replication factor C subunit 3/5	3.1.26.4	C00039(n	ATP	white
+replication factor C subunit 3/5	3.1.26.4	C00039(n	C00039(n)	white
+replication factor C subunit 3/5	3.1.26.4	C00039(n	C02128(m)	white
+replication factor C subunit 3/5	3.1.26.4	C00039(n)	AMP	white
+replication factor C subunit 3/5	3.1.26.4	C00039(n)	C00039(n	white
+replication factor C subunit 3/5	3.1.26.4	C00039(n)	Diphosphate	white
+replication factor C subunit 3/5	3.1.26.4	C00039(n)	m)	white
+replication factor C subunit 3/5	3.1.26.4	C02128(m)	AMP	white
+replication factor C subunit 3/5	3.1.26.4	C02128(m)	C00039(n	white
+replication factor C subunit 3/5	3.1.26.4	C02128(m)	Diphosphate	white
+replication factor C subunit 3/5	3.1.26.4	C02128(m)	m)	white
+replication factor C subunit 3/5	3.1.26.4	Diphosphate	ATP	white
+replication factor C subunit 3/5	3.1.26.4	Diphosphate	C00039(n)	white
+replication factor C subunit 3/5	3.1.26.4	Diphosphate	C02128(m)	white
+replication factor C subunit 3/5	3.1.26.4	m)	ATP	white
+replication factor C subunit 3/5	3.1.26.4	m)	C00039(n)	white
+replication factor C subunit 3/5	3.1.26.4	m)	C02128(m)	white
+single-strand selective monofunctional uracil DNA glycosylase	3.2.2.-	AMP	ATP	white
+single-strand selective monofunctional uracil DNA glycosylase	3.2.2.-	AMP	C00039(n)	white
+single-strand selective monofunctional uracil DNA glycosylase	3.2.2.-	AMP	C02128(m)	white
+single-strand selective monofunctional uracil DNA glycosylase	3.2.2.-	ATP	AMP	white
+single-strand selective monofunctional uracil DNA glycosylase	3.2.2.-	ATP	C00039(n	white
+single-strand selective monofunctional uracil DNA glycosylase	3.2.2.-	ATP	Diphosphate	white
+single-strand selective monofunctional uracil DNA glycosylase	3.2.2.-	ATP	m)	white
+single-strand selective monofunctional uracil DNA glycosylase	3.2.2.-	C00039(n	ATP	white
+single-strand selective monofunctional uracil DNA glycosylase	3.2.2.-	C00039(n	C00039(n)	white
+single-strand selective monofunctional uracil DNA glycosylase	3.2.2.-	C00039(n	C02128(m)	white
+single-strand selective monofunctional uracil DNA glycosylase	3.2.2.-	C00039(n)	AMP	white
+single-strand selective monofunctional uracil DNA glycosylase	3.2.2.-	C00039(n)	C00039(n	white
+single-strand selective monofunctional uracil DNA glycosylase	3.2.2.-	C00039(n)	Diphosphate	white
+single-strand selective monofunctional uracil DNA glycosylase	3.2.2.-	C00039(n)	m)	white
+single-strand selective monofunctional uracil DNA glycosylase	3.2.2.-	C02128(m)	AMP	white
+single-strand selective monofunctional uracil DNA glycosylase	3.2.2.-	C02128(m)	C00039(n	white
+single-strand selective monofunctional uracil DNA glycosylase	3.2.2.-	C02128(m)	Diphosphate	white
+single-strand selective monofunctional uracil DNA glycosylase	3.2.2.-	C02128(m)	m)	white
+single-strand selective monofunctional uracil DNA glycosylase	3.2.2.-	Diphosphate	ATP	white
+single-strand selective monofunctional uracil DNA glycosylase	3.2.2.-	Diphosphate	C00039(n)	white
+single-strand selective monofunctional uracil DNA glycosylase	3.2.2.-	Diphosphate	C02128(m)	white
+single-strand selective monofunctional uracil DNA glycosylase	3.2.2.-	m)	ATP	white
+single-strand selective monofunctional uracil DNA glycosylase	3.2.2.-	m)	C00039(n)	white
+single-strand selective monofunctional uracil DNA glycosylase	3.2.2.-	m)	C02128(m)	white
+single-stranded-DNA-specific exonuclease	3.1.-.-	AMP	ATP	white
+single-stranded-DNA-specific exonuclease	3.1.-.-	AMP	C00039(n)	white
+single-stranded-DNA-specific exonuclease	3.1.-.-	AMP	C02128(m)	white
+single-stranded-DNA-specific exonuclease	3.1.-.-	ATP	AMP	white
+single-stranded-DNA-specific exonuclease	3.1.-.-	ATP	C00039(n	white
+single-stranded-DNA-specific exonuclease	3.1.-.-	ATP	Diphosphate	white
+single-stranded-DNA-specific exonuclease	3.1.-.-	ATP	m)	white
+single-stranded-DNA-specific exonuclease	3.1.-.-	C00039(n	ATP	white
+single-stranded-DNA-specific exonuclease	3.1.-.-	C00039(n	C00039(n)	white
+single-stranded-DNA-specific exonuclease	3.1.-.-	C00039(n	C02128(m)	white
+single-stranded-DNA-specific exonuclease	3.1.-.-	C00039(n)	AMP	white
+single-stranded-DNA-specific exonuclease	3.1.-.-	C00039(n)	C00039(n	white
+single-stranded-DNA-specific exonuclease	3.1.-.-	C00039(n)	Diphosphate	white
+single-stranded-DNA-specific exonuclease	3.1.-.-	C00039(n)	m)	white
+single-stranded-DNA-specific exonuclease	3.1.-.-	C02128(m)	AMP	white
+single-stranded-DNA-specific exonuclease	3.1.-.-	C02128(m)	C00039(n	white
+single-stranded-DNA-specific exonuclease	3.1.-.-	C02128(m)	Diphosphate	white
+single-stranded-DNA-specific exonuclease	3.1.-.-	C02128(m)	m)	white
+single-stranded-DNA-specific exonuclease	3.1.-.-	Diphosphate	ATP	white
+single-stranded-DNA-specific exonuclease	3.1.-.-	Diphosphate	C00039(n)	white
+single-stranded-DNA-specific exonuclease	3.1.-.-	Diphosphate	C02128(m)	white
+single-stranded-DNA-specific exonuclease	3.1.-.-	m)	ATP	white
+single-stranded-DNA-specific exonuclease	3.1.-.-	m)	C00039(n)	white
+single-stranded-DNA-specific exonuclease	3.1.-.-	m)	C02128(m)	white
+thymine-DNA glycosylase	3.2.2.29	AMP	ATP	white
+thymine-DNA glycosylase	3.2.2.29	AMP	C00039(n)	white
+thymine-DNA glycosylase	3.2.2.29	AMP	C02128(m)	white
+thymine-DNA glycosylase	3.2.2.29	ATP	AMP	white
+thymine-DNA glycosylase	3.2.2.29	ATP	C00039(n	white
+thymine-DNA glycosylase	3.2.2.29	ATP	Diphosphate	white
+thymine-DNA glycosylase	3.2.2.29	ATP	m)	white
+thymine-DNA glycosylase	3.2.2.29	C00039(n	ATP	white
+thymine-DNA glycosylase	3.2.2.29	C00039(n	C00039(n)	white
+thymine-DNA glycosylase	3.2.2.29	C00039(n	C02128(m)	white
+thymine-DNA glycosylase	3.2.2.29	C00039(n)	AMP	white
+thymine-DNA glycosylase	3.2.2.29	C00039(n)	C00039(n	white
+thymine-DNA glycosylase	3.2.2.29	C00039(n)	Diphosphate	white
+thymine-DNA glycosylase	3.2.2.29	C00039(n)	m)	white
+thymine-DNA glycosylase	3.2.2.29	C02128(m)	AMP	white
+thymine-DNA glycosylase	3.2.2.29	C02128(m)	C00039(n	white
+thymine-DNA glycosylase	3.2.2.29	C02128(m)	Diphosphate	white
+thymine-DNA glycosylase	3.2.2.29	C02128(m)	m)	white
+thymine-DNA glycosylase	3.2.2.29	Diphosphate	ATP	white
+thymine-DNA glycosylase	3.2.2.29	Diphosphate	C00039(n)	white
+thymine-DNA glycosylase	3.2.2.29	Diphosphate	C02128(m)	white
+thymine-DNA glycosylase	3.2.2.29	m)	ATP	white
+thymine-DNA glycosylase	3.2.2.29	m)	C00039(n)	white
+thymine-DNA glycosylase	3.2.2.29	m)	C02128(m)	white
+tyrosyl-DNA phosphodiesterase 1	3.1.4.-	AMP	ATP	white
+tyrosyl-DNA phosphodiesterase 1	3.1.4.-	AMP	C00039(n)	white
+tyrosyl-DNA phosphodiesterase 1	3.1.4.-	AMP	C02128(m)	white
+tyrosyl-DNA phosphodiesterase 1	3.1.4.-	ATP	AMP	white
+tyrosyl-DNA phosphodiesterase 1	3.1.4.-	ATP	C00039(n	white
+tyrosyl-DNA phosphodiesterase 1	3.1.4.-	ATP	Diphosphate	white
+tyrosyl-DNA phosphodiesterase 1	3.1.4.-	ATP	m)	white
+tyrosyl-DNA phosphodiesterase 1	3.1.4.-	C00039(n	ATP	white
+tyrosyl-DNA phosphodiesterase 1	3.1.4.-	C00039(n	C00039(n)	white
+tyrosyl-DNA phosphodiesterase 1	3.1.4.-	C00039(n	C02128(m)	white
+tyrosyl-DNA phosphodiesterase 1	3.1.4.-	C00039(n)	AMP	white
+tyrosyl-DNA phosphodiesterase 1	3.1.4.-	C00039(n)	C00039(n	white
+tyrosyl-DNA phosphodiesterase 1	3.1.4.-	C00039(n)	Diphosphate	white
+tyrosyl-DNA phosphodiesterase 1	3.1.4.-	C00039(n)	m)	white
+tyrosyl-DNA phosphodiesterase 1	3.1.4.-	C02128(m)	AMP	white
+tyrosyl-DNA phosphodiesterase 1	3.1.4.-	C02128(m)	C00039(n	white
+tyrosyl-DNA phosphodiesterase 1	3.1.4.-	C02128(m)	Diphosphate	white
+tyrosyl-DNA phosphodiesterase 1	3.1.4.-	C02128(m)	m)	white
+tyrosyl-DNA phosphodiesterase 1	3.1.4.-	Diphosphate	ATP	white
+tyrosyl-DNA phosphodiesterase 1	3.1.4.-	Diphosphate	C00039(n)	white
+tyrosyl-DNA phosphodiesterase 1	3.1.4.-	Diphosphate	C02128(m)	white
+tyrosyl-DNA phosphodiesterase 1	3.1.4.-	m)	ATP	white
+tyrosyl-DNA phosphodiesterase 1	3.1.4.-	m)	C00039(n)	white
+tyrosyl-DNA phosphodiesterase 1	3.1.4.-	m)	C02128(m)	white

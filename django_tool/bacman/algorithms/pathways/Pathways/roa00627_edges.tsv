@@ -1,0 +1,1131 @@
+enzyme_name	EC	source	target	color
+(S)-mandelate dehydrogenase	1.1.99.31	(S)-4-Hydroxymandelate	4-Hydroxyphenylglyoxylate	white
+(S)-mandelate dehydrogenase	1.1.99.31	(S)-4-Hydroxymandelate	Reduced acceptor	white
+(S)-mandelate dehydrogenase	1.1.99.31	4-Hydroxyphenylglyoxylate	(S)-4-Hydroxymandelate	white
+(S)-mandelate dehydrogenase	1.1.99.31	4-Hydroxyphenylglyoxylate	Acceptor	white
+(S)-mandelate dehydrogenase	1.1.99.31	Acceptor	4-Hydroxyphenylglyoxylate	white
+(S)-mandelate dehydrogenase	1.1.99.31	Acceptor	Reduced acceptor	white
+(S)-mandelate dehydrogenase	1.1.99.31	Reduced acceptor	(S)-4-Hydroxymandelate	white
+(S)-mandelate dehydrogenase	1.1.99.31	Reduced acceptor	Acceptor	white
+(hydroxyamino)benzene mutase	5.4.4.1	2-Aminophenol	Hydroxylaminobenzene	white
+(hydroxyamino)benzene mutase	5.4.4.1	Hydroxylaminobenzene	2-Aminophenol	white
+2,3-dihydroxybenzoate decarboxylase	4.1.1.46	2,3-Dihydroxybenzoate	CO2	white
+2,3-dihydroxybenzoate decarboxylase	4.1.1.46	2,3-Dihydroxybenzoate	Catechol	white
+2,3-dihydroxybenzoate decarboxylase	4.1.1.46	CO2	2,3-Dihydroxybenzoate	white
+2,3-dihydroxybenzoate decarboxylase	4.1.1.46	Catechol	2,3-Dihydroxybenzoate	white
+2-aminobenzoate-CoA ligase	6.2.1.32	ATP	AMP	green
+2-aminobenzoate-CoA ligase	6.2.1.32	ATP	Anthraniloyl-CoA	green
+2-aminobenzoate-CoA ligase	6.2.1.32	ATP	Diphosphate	green
+2-aminobenzoate-CoA ligase	6.2.1.32	Anthranilate	AMP	green
+2-aminobenzoate-CoA ligase	6.2.1.32	Anthranilate	Anthraniloyl-CoA	green
+2-aminobenzoate-CoA ligase	6.2.1.32	Anthranilate	Diphosphate	green
+2-aminobenzoate-CoA ligase	6.2.1.32	CoA	AMP	green
+2-aminobenzoate-CoA ligase	6.2.1.32	CoA	Anthraniloyl-CoA	green
+2-aminobenzoate-CoA ligase	6.2.1.32	CoA	Diphosphate	green
+2-aminophenol/2-amino-5-chlorophenol 1,6-dioxygenase subunit alpha	5.4.4.1	2-Aminomuconate semialdehyde	2-Aminophenol	white
+2-aminophenol/2-amino-5-chlorophenol 1,6-dioxygenase subunit alpha	5.4.4.1	2-Aminomuconate semialdehyde	Oxygen	white
+2-aminophenol/2-amino-5-chlorophenol 1,6-dioxygenase subunit alpha	5.4.4.1	2-Aminophenol	2-Aminomuconate semialdehyde	white
+2-aminophenol/2-amino-5-chlorophenol 1,6-dioxygenase subunit alpha	5.4.4.1	Oxygen	2-Aminomuconate semialdehyde	white
+2-aminophenol/2-amino-5-chlorophenol 1,6-dioxygenase subunit beta	1.13.11.74	2-Aminomuconate semialdehyde	2-Aminophenol	white
+2-aminophenol/2-amino-5-chlorophenol 1,6-dioxygenase subunit beta	1.13.11.74	2-Aminomuconate semialdehyde	Oxygen	white
+2-aminophenol/2-amino-5-chlorophenol 1,6-dioxygenase subunit beta	1.13.11.74	2-Aminophenol	2-Aminomuconate semialdehyde	white
+2-aminophenol/2-amino-5-chlorophenol 1,6-dioxygenase subunit beta	1.13.11.74	Oxygen	2-Aminomuconate semialdehyde	white
+2-hydroxy-1,4-benzoquinone reductase	1.6.5.7	2-Hydroxy-1,4-benzoquinone	Benzene-1,2,4-triol	white
+2-hydroxy-1,4-benzoquinone reductase	1.6.5.7	2-Hydroxy-1,4-benzoquinone	NAD+	white
+2-hydroxy-1,4-benzoquinone reductase	1.6.5.7	Benzene-1,2,4-triol	2-Hydroxy-1,4-benzoquinone	white
+2-hydroxy-1,4-benzoquinone reductase	1.6.5.7	Benzene-1,2,4-triol	H+	white
+2-hydroxy-1,4-benzoquinone reductase	1.6.5.7	Benzene-1,2,4-triol	NADH	white
+2-hydroxy-1,4-benzoquinone reductase	1.6.5.7	H+	Benzene-1,2,4-triol	white
+2-hydroxy-1,4-benzoquinone reductase	1.6.5.7	H+	NAD+	white
+2-hydroxy-1,4-benzoquinone reductase	1.6.5.7	NAD+	2-Hydroxy-1,4-benzoquinone	white
+2-hydroxy-1,4-benzoquinone reductase	1.6.5.7	NAD+	H+	white
+2-hydroxy-1,4-benzoquinone reductase	1.6.5.7	NAD+	NADH	white
+2-hydroxy-1,4-benzoquinone reductase	1.6.5.7	NADH	Benzene-1,2,4-triol	white
+2-hydroxy-1,4-benzoquinone reductase	1.6.5.7	NADH	NAD+	white
+2-hydroxy-4-carboxymuconate semialdehyde hemiacetal dehydrogenase	1.1.1.312	2-Hydroxy-2-hydropyrone-4,6-dicarboxylate	2-Pyrone-4,6-dicarboxylate	white
+2-hydroxy-4-carboxymuconate semialdehyde hemiacetal dehydrogenase	1.1.1.312	2-Hydroxy-2-hydropyrone-4,6-dicarboxylate	H+	white
+2-hydroxy-4-carboxymuconate semialdehyde hemiacetal dehydrogenase	1.1.1.312	2-Hydroxy-2-hydropyrone-4,6-dicarboxylate	NADH	white
+2-hydroxy-4-carboxymuconate semialdehyde hemiacetal dehydrogenase	1.1.1.312	2-Pyrone-4,6-dicarboxylate	2-Hydroxy-2-hydropyrone-4,6-dicarboxylate	white
+2-hydroxy-4-carboxymuconate semialdehyde hemiacetal dehydrogenase	1.1.1.312	2-Pyrone-4,6-dicarboxylate	NAD+	white
+2-hydroxy-4-carboxymuconate semialdehyde hemiacetal dehydrogenase	1.1.1.312	H+	2-Hydroxy-2-hydropyrone-4,6-dicarboxylate	white
+2-hydroxy-4-carboxymuconate semialdehyde hemiacetal dehydrogenase	1.1.1.312	H+	NAD+	white
+2-hydroxy-4-carboxymuconate semialdehyde hemiacetal dehydrogenase	1.1.1.312	NAD+	2-Pyrone-4,6-dicarboxylate	white
+2-hydroxy-4-carboxymuconate semialdehyde hemiacetal dehydrogenase	1.1.1.312	NAD+	H+	white
+2-hydroxy-4-carboxymuconate semialdehyde hemiacetal dehydrogenase	1.1.1.312	NAD+	NADH	white
+2-hydroxy-4-carboxymuconate semialdehyde hemiacetal dehydrogenase	1.1.1.312	NADH	2-Hydroxy-2-hydropyrone-4,6-dicarboxylate	white
+2-hydroxy-4-carboxymuconate semialdehyde hemiacetal dehydrogenase	1.1.1.312	NADH	NAD+	white
+2-hydroxylaminobenzoate mutase	5.4.99.-	3-Hydroxyanthranilate	o-Hydroxylaminobenzoate	white
+2-hydroxylaminobenzoate mutase	5.4.99.-	o-Hydroxylaminobenzoate	3-Hydroxyanthranilate	white
+2-nitrobenzoate nitroreductase	1.7.1.-	H+	H2O	white
+2-nitrobenzoate nitroreductase	1.7.1.-	H+	NADP+	white
+2-nitrobenzoate nitroreductase	1.7.1.-	H+	o-Hydroxylaminobenzoate	white
+2-nitrobenzoate nitroreductase	1.7.1.-	H2O	H+	white
+2-nitrobenzoate nitroreductase	1.7.1.-	H2O	NADPH	white
+2-nitrobenzoate nitroreductase	1.7.1.-	H2O	o-Nitrobenzoate	white
+2-nitrobenzoate nitroreductase	1.7.1.-	NADP+	H+	white
+2-nitrobenzoate nitroreductase	1.7.1.-	NADP+	NADPH	white
+2-nitrobenzoate nitroreductase	1.7.1.-	NADP+	o-Nitrobenzoate	white
+2-nitrobenzoate nitroreductase	1.7.1.-	NADPH	H2O	white
+2-nitrobenzoate nitroreductase	1.7.1.-	NADPH	NADP+	white
+2-nitrobenzoate nitroreductase	1.7.1.-	NADPH	o-Hydroxylaminobenzoate	white
+2-nitrobenzoate nitroreductase	1.7.1.-	o-Hydroxylaminobenzoate	H+	white
+2-nitrobenzoate nitroreductase	1.7.1.-	o-Hydroxylaminobenzoate	NADPH	white
+2-nitrobenzoate nitroreductase	1.7.1.-	o-Hydroxylaminobenzoate	o-Nitrobenzoate	white
+2-nitrobenzoate nitroreductase	1.7.1.-	o-Nitrobenzoate	H2O	white
+2-nitrobenzoate nitroreductase	1.7.1.-	o-Nitrobenzoate	NADP+	white
+2-nitrobenzoate nitroreductase	1.7.1.-	o-Nitrobenzoate	o-Hydroxylaminobenzoate	white
+2-pyrone-4,6-dicarboxylate lactonase	3.1.1.57	2-Pyrone-4,6-dicarboxylate	(1E)-4-Oxobut-1-ene-1,2,4-tricarboxylate	green
+2-pyrone-4,6-dicarboxylate lactonase	3.1.1.57	H2O	(1E)-4-Oxobut-1-ene-1,2,4-tricarboxylate	green
+3-(hydroxyamino)phenol mutase	5.4.4.3	3-Hydroxyaminophenol	Aminohydroquinone	white
+3-(hydroxyamino)phenol mutase	5.4.4.3	Aminohydroquinone	3-Hydroxyaminophenol	white
+3-O-methylgallate 3,4-dioxygenase	1.13.11.-	2-Pyrone-4,6-dicarboxylate	3-O-Methylgallate	white
+3-O-methylgallate 3,4-dioxygenase	1.13.11.-	2-Pyrone-4,6-dicarboxylate	Oxygen	white
+3-O-methylgallate 3,4-dioxygenase	1.13.11.-	3-O-Methylgallate	2-Pyrone-4,6-dicarboxylate	white
+3-O-methylgallate 3,4-dioxygenase	1.13.11.-	3-O-Methylgallate	Methanol	white
+3-O-methylgallate 3,4-dioxygenase	1.13.11.-	Methanol	3-O-Methylgallate	white
+3-O-methylgallate 3,4-dioxygenase	1.13.11.-	Methanol	Oxygen	white
+3-O-methylgallate 3,4-dioxygenase	1.13.11.-	Oxygen	2-Pyrone-4,6-dicarboxylate	white
+3-O-methylgallate 3,4-dioxygenase	1.13.11.-	Oxygen	Methanol	white
+3-hydroxybenzoate/4-hydroxybenzoate---CoA ligase	6.2.1.37	4-Hydroxybenzoate	4-Hydroxybenzoyl-CoA	white
+3-hydroxybenzoate/4-hydroxybenzoate---CoA ligase	6.2.1.37	4-Hydroxybenzoate	AMP	white
+3-hydroxybenzoate/4-hydroxybenzoate---CoA ligase	6.2.1.37	4-Hydroxybenzoate	Diphosphate	white
+3-hydroxybenzoate/4-hydroxybenzoate---CoA ligase	6.2.1.37	4-Hydroxybenzoyl-CoA	4-Hydroxybenzoate	white
+3-hydroxybenzoate/4-hydroxybenzoate---CoA ligase	6.2.1.37	4-Hydroxybenzoyl-CoA	ATP	white
+3-hydroxybenzoate/4-hydroxybenzoate---CoA ligase	6.2.1.37	4-Hydroxybenzoyl-CoA	CoA	white
+3-hydroxybenzoate/4-hydroxybenzoate---CoA ligase	6.2.1.37	AMP	4-Hydroxybenzoate	white
+3-hydroxybenzoate/4-hydroxybenzoate---CoA ligase	6.2.1.37	AMP	ATP	white
+3-hydroxybenzoate/4-hydroxybenzoate---CoA ligase	6.2.1.37	AMP	CoA	white
+3-hydroxybenzoate/4-hydroxybenzoate---CoA ligase	6.2.1.37	ATP	4-Hydroxybenzoyl-CoA	white
+3-hydroxybenzoate/4-hydroxybenzoate---CoA ligase	6.2.1.37	ATP	AMP	white
+3-hydroxybenzoate/4-hydroxybenzoate---CoA ligase	6.2.1.37	ATP	Diphosphate	white
+3-hydroxybenzoate/4-hydroxybenzoate---CoA ligase	6.2.1.37	CoA	4-Hydroxybenzoyl-CoA	white
+3-hydroxybenzoate/4-hydroxybenzoate---CoA ligase	6.2.1.37	CoA	AMP	white
+3-hydroxybenzoate/4-hydroxybenzoate---CoA ligase	6.2.1.37	CoA	Diphosphate	white
+3-hydroxybenzoate/4-hydroxybenzoate---CoA ligase	6.2.1.37	Diphosphate	4-Hydroxybenzoate	white
+3-hydroxybenzoate/4-hydroxybenzoate---CoA ligase	6.2.1.37	Diphosphate	ATP	white
+3-hydroxybenzoate/4-hydroxybenzoate---CoA ligase	6.2.1.37	Diphosphate	CoA	white
+4-hydroxybenzoate decarboxylase subunit C	4.1.1.61	4-Hydroxybenzoate	CO2	white
+4-hydroxybenzoate decarboxylase subunit C	4.1.1.61	4-Hydroxybenzoate	Phenol	white
+4-hydroxybenzoate decarboxylase subunit C	4.1.1.61	CO2	4-Hydroxybenzoate	white
+4-hydroxybenzoate decarboxylase subunit C	4.1.1.61	Phenol	4-Hydroxybenzoate	white
+4-hydroxybenzoate-CoA ligase	6.2.1.27	4-Hydroxybenzoate	4-Hydroxybenzoyl-CoA	white
+4-hydroxybenzoate-CoA ligase	6.2.1.27	4-Hydroxybenzoate	AMP	white
+4-hydroxybenzoate-CoA ligase	6.2.1.27	4-Hydroxybenzoate	Diphosphate	white
+4-hydroxybenzoate-CoA ligase	6.2.1.27	4-Hydroxybenzoyl-CoA	4-Hydroxybenzoate	white
+4-hydroxybenzoate-CoA ligase	6.2.1.27	4-Hydroxybenzoyl-CoA	ATP	white
+4-hydroxybenzoate-CoA ligase	6.2.1.27	4-Hydroxybenzoyl-CoA	CoA	white
+4-hydroxybenzoate-CoA ligase	6.2.1.27	AMP	4-Hydroxybenzoate	white
+4-hydroxybenzoate-CoA ligase	6.2.1.27	AMP	ATP	white
+4-hydroxybenzoate-CoA ligase	6.2.1.27	AMP	CoA	white
+4-hydroxybenzoate-CoA ligase	6.2.1.27	ATP	4-Hydroxybenzoyl-CoA	white
+4-hydroxybenzoate-CoA ligase	6.2.1.27	ATP	AMP	white
+4-hydroxybenzoate-CoA ligase	6.2.1.27	ATP	Diphosphate	white
+4-hydroxybenzoate-CoA ligase	6.2.1.27	CoA	4-Hydroxybenzoyl-CoA	white
+4-hydroxybenzoate-CoA ligase	6.2.1.27	CoA	AMP	white
+4-hydroxybenzoate-CoA ligase	6.2.1.27	CoA	Diphosphate	white
+4-hydroxybenzoate-CoA ligase	6.2.1.27	Diphosphate	4-Hydroxybenzoate	white
+4-hydroxybenzoate-CoA ligase	6.2.1.27	Diphosphate	ATP	white
+4-hydroxybenzoate-CoA ligase	6.2.1.27	Diphosphate	CoA	white
+4-hydroxybenzoyl-CoA reductase subunit alpha	1.1.7.1	4-Hydroxybenzoyl-CoA	Benzoyl-CoA	white
+4-hydroxybenzoyl-CoA reductase subunit alpha	1.1.7.1	4-Hydroxybenzoyl-CoA	H2O	white
+4-hydroxybenzoyl-CoA reductase subunit alpha	1.1.7.1	4-Hydroxybenzoyl-CoA	Oxidized ferredoxin	white
+4-hydroxybenzoyl-CoA reductase subunit alpha	1.1.7.1	Benzoyl-CoA	4-Hydroxybenzoyl-CoA	white
+4-hydroxybenzoyl-CoA reductase subunit alpha	1.1.7.1	Benzoyl-CoA	Reduced ferredoxin	white
+4-hydroxybenzoyl-CoA reductase subunit alpha	1.1.7.1	H2O	4-Hydroxybenzoyl-CoA	white
+4-hydroxybenzoyl-CoA reductase subunit alpha	1.1.7.1	H2O	Reduced ferredoxin	white
+4-hydroxybenzoyl-CoA reductase subunit alpha	1.1.7.1	Oxidized ferredoxin	4-Hydroxybenzoyl-CoA	white
+4-hydroxybenzoyl-CoA reductase subunit alpha	1.1.7.1	Oxidized ferredoxin	Reduced ferredoxin	white
+4-hydroxybenzoyl-CoA reductase subunit alpha	1.1.7.1	Reduced ferredoxin	Benzoyl-CoA	white
+4-hydroxybenzoyl-CoA reductase subunit alpha	1.1.7.1	Reduced ferredoxin	H2O	white
+4-hydroxybenzoyl-CoA reductase subunit alpha	1.1.7.1	Reduced ferredoxin	Oxidized ferredoxin	white
+4-hydroxybenzoyl-CoA reductase subunit beta	1.1.7.1	4-Hydroxybenzoyl-CoA	Benzoyl-CoA	white
+4-hydroxybenzoyl-CoA reductase subunit beta	1.1.7.1	4-Hydroxybenzoyl-CoA	H2O	white
+4-hydroxybenzoyl-CoA reductase subunit beta	1.1.7.1	4-Hydroxybenzoyl-CoA	Oxidized ferredoxin	white
+4-hydroxybenzoyl-CoA reductase subunit beta	1.1.7.1	Benzoyl-CoA	4-Hydroxybenzoyl-CoA	white
+4-hydroxybenzoyl-CoA reductase subunit beta	1.1.7.1	Benzoyl-CoA	Reduced ferredoxin	white
+4-hydroxybenzoyl-CoA reductase subunit beta	1.1.7.1	H2O	4-Hydroxybenzoyl-CoA	white
+4-hydroxybenzoyl-CoA reductase subunit beta	1.1.7.1	H2O	Reduced ferredoxin	white
+4-hydroxybenzoyl-CoA reductase subunit beta	1.1.7.1	Oxidized ferredoxin	4-Hydroxybenzoyl-CoA	white
+4-hydroxybenzoyl-CoA reductase subunit beta	1.1.7.1	Oxidized ferredoxin	Reduced ferredoxin	white
+4-hydroxybenzoyl-CoA reductase subunit beta	1.1.7.1	Reduced ferredoxin	Benzoyl-CoA	white
+4-hydroxybenzoyl-CoA reductase subunit beta	1.1.7.1	Reduced ferredoxin	H2O	white
+4-hydroxybenzoyl-CoA reductase subunit beta	1.1.7.1	Reduced ferredoxin	Oxidized ferredoxin	white
+4-hydroxybenzoyl-CoA reductase subunit gamma	1.1.7.1	4-Hydroxybenzoyl-CoA	Benzoyl-CoA	white
+4-hydroxybenzoyl-CoA reductase subunit gamma	1.1.7.1	4-Hydroxybenzoyl-CoA	H2O	white
+4-hydroxybenzoyl-CoA reductase subunit gamma	1.1.7.1	4-Hydroxybenzoyl-CoA	Oxidized ferredoxin	white
+4-hydroxybenzoyl-CoA reductase subunit gamma	1.1.7.1	Benzoyl-CoA	4-Hydroxybenzoyl-CoA	white
+4-hydroxybenzoyl-CoA reductase subunit gamma	1.1.7.1	Benzoyl-CoA	Reduced ferredoxin	white
+4-hydroxybenzoyl-CoA reductase subunit gamma	1.1.7.1	H2O	4-Hydroxybenzoyl-CoA	white
+4-hydroxybenzoyl-CoA reductase subunit gamma	1.1.7.1	H2O	Reduced ferredoxin	white
+4-hydroxybenzoyl-CoA reductase subunit gamma	1.1.7.1	Oxidized ferredoxin	4-Hydroxybenzoyl-CoA	white
+4-hydroxybenzoyl-CoA reductase subunit gamma	1.1.7.1	Oxidized ferredoxin	Reduced ferredoxin	white
+4-hydroxybenzoyl-CoA reductase subunit gamma	1.1.7.1	Reduced ferredoxin	Benzoyl-CoA	white
+4-hydroxybenzoyl-CoA reductase subunit gamma	1.1.7.1	Reduced ferredoxin	H2O	white
+4-hydroxybenzoyl-CoA reductase subunit gamma	1.1.7.1	Reduced ferredoxin	Oxidized ferredoxin	white
+4-nitrocatechol/4-nitrophenol 4-monooxygenase	1.14.13.166	4-Nitrophenol	H2O	white
+4-nitrocatechol/4-nitrophenol 4-monooxygenase	1.14.13.166	4-Nitrophenol	NADP+	white
+4-nitrocatechol/4-nitrophenol 4-monooxygenase	1.14.13.166	4-Nitrophenol	Nitrite	white
+4-nitrocatechol/4-nitrophenol 4-monooxygenase	1.14.13.166	4-Nitrophenol	p-Benzoquinone	white
+4-nitrocatechol/4-nitrophenol 4-monooxygenase	1.14.13.166	H+	H2O	white
+4-nitrocatechol/4-nitrophenol 4-monooxygenase	1.14.13.166	H+	NADP+	white
+4-nitrocatechol/4-nitrophenol 4-monooxygenase	1.14.13.166	H+	Nitrite	white
+4-nitrocatechol/4-nitrophenol 4-monooxygenase	1.14.13.166	H+	p-Benzoquinone	white
+4-nitrocatechol/4-nitrophenol 4-monooxygenase	1.14.13.166	H2O	4-Nitrophenol	white
+4-nitrocatechol/4-nitrophenol 4-monooxygenase	1.14.13.166	H2O	H+	white
+4-nitrocatechol/4-nitrophenol 4-monooxygenase	1.14.13.166	H2O	NADPH	white
+4-nitrocatechol/4-nitrophenol 4-monooxygenase	1.14.13.166	H2O	Oxygen	white
+4-nitrocatechol/4-nitrophenol 4-monooxygenase	1.14.13.166	NADP+	4-Nitrophenol	white
+4-nitrocatechol/4-nitrophenol 4-monooxygenase	1.14.13.166	NADP+	H+	white
+4-nitrocatechol/4-nitrophenol 4-monooxygenase	1.14.13.166	NADP+	NADPH	white
+4-nitrocatechol/4-nitrophenol 4-monooxygenase	1.14.13.166	NADP+	Oxygen	white
+4-nitrocatechol/4-nitrophenol 4-monooxygenase	1.14.13.166	NADPH	H2O	white
+4-nitrocatechol/4-nitrophenol 4-monooxygenase	1.14.13.166	NADPH	NADP+	white
+4-nitrocatechol/4-nitrophenol 4-monooxygenase	1.14.13.166	NADPH	Nitrite	white
+4-nitrocatechol/4-nitrophenol 4-monooxygenase	1.14.13.166	NADPH	p-Benzoquinone	white
+4-nitrocatechol/4-nitrophenol 4-monooxygenase	1.14.13.166	Nitrite	4-Nitrophenol	white
+4-nitrocatechol/4-nitrophenol 4-monooxygenase	1.14.13.166	Nitrite	H+	white
+4-nitrocatechol/4-nitrophenol 4-monooxygenase	1.14.13.166	Nitrite	NADPH	white
+4-nitrocatechol/4-nitrophenol 4-monooxygenase	1.14.13.166	Nitrite	Oxygen	white
+4-nitrocatechol/4-nitrophenol 4-monooxygenase	1.14.13.166	Oxygen	H2O	white
+4-nitrocatechol/4-nitrophenol 4-monooxygenase	1.14.13.166	Oxygen	NADP+	white
+4-nitrocatechol/4-nitrophenol 4-monooxygenase	1.14.13.166	Oxygen	Nitrite	white
+4-nitrocatechol/4-nitrophenol 4-monooxygenase	1.14.13.166	Oxygen	p-Benzoquinone	white
+4-nitrocatechol/4-nitrophenol 4-monooxygenase	1.14.13.166	p-Benzoquinone	4-Nitrophenol	white
+4-nitrocatechol/4-nitrophenol 4-monooxygenase	1.14.13.166	p-Benzoquinone	H+	white
+4-nitrocatechol/4-nitrophenol 4-monooxygenase	1.14.13.166	p-Benzoquinone	NADPH	white
+4-nitrocatechol/4-nitrophenol 4-monooxygenase	1.14.13.166	p-Benzoquinone	Oxygen	white
+4-nitrophenol 2-monooxygenase / 4-nitrocatechol 4-monooxygenase, oxygenase component	1.14.13.29	4-Nitrocatechol	4-Nitrophenol	white
+4-nitrophenol 2-monooxygenase / 4-nitrocatechol 4-monooxygenase, oxygenase component	1.14.13.29	4-Nitrocatechol	H+	white
+4-nitrophenol 2-monooxygenase / 4-nitrocatechol 4-monooxygenase, oxygenase component	1.14.13.29	4-Nitrocatechol	NADH	white
+4-nitrophenol 2-monooxygenase / 4-nitrocatechol 4-monooxygenase, oxygenase component	1.14.13.29	4-Nitrocatechol	Oxygen	white
+4-nitrophenol 2-monooxygenase / 4-nitrocatechol 4-monooxygenase, oxygenase component	1.14.13.29	4-Nitrophenol	4-Nitrocatechol	white
+4-nitrophenol 2-monooxygenase / 4-nitrocatechol 4-monooxygenase, oxygenase component	1.14.13.29	4-Nitrophenol	H2O	white
+4-nitrophenol 2-monooxygenase / 4-nitrocatechol 4-monooxygenase, oxygenase component	1.14.13.29	4-Nitrophenol	NAD+	white
+4-nitrophenol 2-monooxygenase / 4-nitrocatechol 4-monooxygenase, oxygenase component	1.14.13.29	H+	4-Nitrocatechol	white
+4-nitrophenol 2-monooxygenase / 4-nitrocatechol 4-monooxygenase, oxygenase component	1.14.13.29	H+	H2O	white
+4-nitrophenol 2-monooxygenase / 4-nitrocatechol 4-monooxygenase, oxygenase component	1.14.13.29	H+	NAD+	white
+4-nitrophenol 2-monooxygenase / 4-nitrocatechol 4-monooxygenase, oxygenase component	1.14.13.29	H2O	4-Nitrophenol	white
+4-nitrophenol 2-monooxygenase / 4-nitrocatechol 4-monooxygenase, oxygenase component	1.14.13.29	H2O	H+	white
+4-nitrophenol 2-monooxygenase / 4-nitrocatechol 4-monooxygenase, oxygenase component	1.14.13.29	H2O	NADH	white
+4-nitrophenol 2-monooxygenase / 4-nitrocatechol 4-monooxygenase, oxygenase component	1.14.13.29	H2O	Oxygen	white
+4-nitrophenol 2-monooxygenase / 4-nitrocatechol 4-monooxygenase, oxygenase component	1.14.13.29	NAD+	4-Nitrophenol	white
+4-nitrophenol 2-monooxygenase / 4-nitrocatechol 4-monooxygenase, oxygenase component	1.14.13.29	NAD+	H+	white
+4-nitrophenol 2-monooxygenase / 4-nitrocatechol 4-monooxygenase, oxygenase component	1.14.13.29	NAD+	NADH	white
+4-nitrophenol 2-monooxygenase / 4-nitrocatechol 4-monooxygenase, oxygenase component	1.14.13.29	NAD+	Oxygen	white
+4-nitrophenol 2-monooxygenase / 4-nitrocatechol 4-monooxygenase, oxygenase component	1.14.13.29	NADH	4-Nitrocatechol	white
+4-nitrophenol 2-monooxygenase / 4-nitrocatechol 4-monooxygenase, oxygenase component	1.14.13.29	NADH	H2O	white
+4-nitrophenol 2-monooxygenase / 4-nitrocatechol 4-monooxygenase, oxygenase component	1.14.13.29	NADH	NAD+	white
+4-nitrophenol 2-monooxygenase / 4-nitrocatechol 4-monooxygenase, oxygenase component	1.14.13.29	Oxygen	4-Nitrocatechol	white
+4-nitrophenol 2-monooxygenase / 4-nitrocatechol 4-monooxygenase, oxygenase component	1.14.13.29	Oxygen	H2O	white
+4-nitrophenol 2-monooxygenase / 4-nitrocatechol 4-monooxygenase, oxygenase component	1.14.13.29	Oxygen	NAD+	white
+4-nitrophenol 2-monooxygenase / 4-nitrocatechol 4-monooxygenase, reductase component	1.14.13.29	4-Nitrocatechol	4-Nitrophenol	white
+4-nitrophenol 2-monooxygenase / 4-nitrocatechol 4-monooxygenase, reductase component	1.14.13.29	4-Nitrocatechol	H+	white
+4-nitrophenol 2-monooxygenase / 4-nitrocatechol 4-monooxygenase, reductase component	1.14.13.29	4-Nitrocatechol	NADH	white
+4-nitrophenol 2-monooxygenase / 4-nitrocatechol 4-monooxygenase, reductase component	1.14.13.29	4-Nitrocatechol	Oxygen	white
+4-nitrophenol 2-monooxygenase / 4-nitrocatechol 4-monooxygenase, reductase component	1.14.13.29	4-Nitrophenol	4-Nitrocatechol	white
+4-nitrophenol 2-monooxygenase / 4-nitrocatechol 4-monooxygenase, reductase component	1.14.13.29	4-Nitrophenol	H2O	white
+4-nitrophenol 2-monooxygenase / 4-nitrocatechol 4-monooxygenase, reductase component	1.14.13.29	4-Nitrophenol	NAD+	white
+4-nitrophenol 2-monooxygenase / 4-nitrocatechol 4-monooxygenase, reductase component	1.14.13.29	H+	4-Nitrocatechol	white
+4-nitrophenol 2-monooxygenase / 4-nitrocatechol 4-monooxygenase, reductase component	1.14.13.29	H+	H2O	white
+4-nitrophenol 2-monooxygenase / 4-nitrocatechol 4-monooxygenase, reductase component	1.14.13.29	H+	NAD+	white
+4-nitrophenol 2-monooxygenase / 4-nitrocatechol 4-monooxygenase, reductase component	1.14.13.29	H2O	4-Nitrophenol	white
+4-nitrophenol 2-monooxygenase / 4-nitrocatechol 4-monooxygenase, reductase component	1.14.13.29	H2O	H+	white
+4-nitrophenol 2-monooxygenase / 4-nitrocatechol 4-monooxygenase, reductase component	1.14.13.29	H2O	NADH	white
+4-nitrophenol 2-monooxygenase / 4-nitrocatechol 4-monooxygenase, reductase component	1.14.13.29	H2O	Oxygen	white
+4-nitrophenol 2-monooxygenase / 4-nitrocatechol 4-monooxygenase, reductase component	1.14.13.29	NAD+	4-Nitrophenol	white
+4-nitrophenol 2-monooxygenase / 4-nitrocatechol 4-monooxygenase, reductase component	1.14.13.29	NAD+	H+	white
+4-nitrophenol 2-monooxygenase / 4-nitrocatechol 4-monooxygenase, reductase component	1.14.13.29	NAD+	NADH	white
+4-nitrophenol 2-monooxygenase / 4-nitrocatechol 4-monooxygenase, reductase component	1.14.13.29	NAD+	Oxygen	white
+4-nitrophenol 2-monooxygenase / 4-nitrocatechol 4-monooxygenase, reductase component	1.14.13.29	NADH	4-Nitrocatechol	white
+4-nitrophenol 2-monooxygenase / 4-nitrocatechol 4-monooxygenase, reductase component	1.14.13.29	NADH	H2O	white
+4-nitrophenol 2-monooxygenase / 4-nitrocatechol 4-monooxygenase, reductase component	1.14.13.29	NADH	NAD+	white
+4-nitrophenol 2-monooxygenase / 4-nitrocatechol 4-monooxygenase, reductase component	1.14.13.29	Oxygen	4-Nitrocatechol	white
+4-nitrophenol 2-monooxygenase / 4-nitrocatechol 4-monooxygenase, reductase component	1.14.13.29	Oxygen	H2O	white
+4-nitrophenol 2-monooxygenase / 4-nitrocatechol 4-monooxygenase, reductase component	1.14.13.29	Oxygen	NAD+	white
+4-nitrophenyl phosphatase	3.1.3.41	4-Nitrophenol	4-Nitrophenyl phosphate	white
+4-nitrophenyl phosphatase	3.1.3.41	4-Nitrophenol	H2O	white
+4-nitrophenyl phosphatase	3.1.3.41	4-Nitrophenyl phosphate	4-Nitrophenol	white
+4-nitrophenyl phosphatase	3.1.3.41	4-Nitrophenyl phosphate	Orthophosphate	white
+4-nitrophenyl phosphatase	3.1.3.41	H2O	4-Nitrophenol	white
+4-nitrophenyl phosphatase	3.1.3.41	H2O	Orthophosphate	white
+4-nitrophenyl phosphatase	3.1.3.41	Orthophosphate	4-Nitrophenyl phosphate	white
+4-nitrophenyl phosphatase	3.1.3.41	Orthophosphate	H2O	white
+4-sulfomuconolactone hydrolase	3.1.1.92	2-Maleylacetate	4-Sulfolactone	white
+4-sulfomuconolactone hydrolase	3.1.1.92	2-Maleylacetate	H2O	white
+4-sulfomuconolactone hydrolase	3.1.1.92	4-Sulfolactone	2-Maleylacetate	white
+4-sulfomuconolactone hydrolase	3.1.1.92	4-Sulfolactone	H+	white
+4-sulfomuconolactone hydrolase	3.1.1.92	4-Sulfolactone	HSO3-	white
+4-sulfomuconolactone hydrolase	3.1.1.92	H+	4-Sulfolactone	white
+4-sulfomuconolactone hydrolase	3.1.1.92	H+	H2O	white
+4-sulfomuconolactone hydrolase	3.1.1.92	H2O	2-Maleylacetate	white
+4-sulfomuconolactone hydrolase	3.1.1.92	H2O	H+	white
+4-sulfomuconolactone hydrolase	3.1.1.92	H2O	HSO3-	white
+4-sulfomuconolactone hydrolase	3.1.1.92	HSO3-	4-Sulfolactone	white
+4-sulfomuconolactone hydrolase	3.1.1.92	HSO3-	H2O	white
+5,5'-dehydrodivanillate O-demethylase ferredoxin reductase subunit	1.18.1.-	2,2',3-Trihydroxy-3'-methoxy-5,5'-dicarboxybiphenyl	5,5'-Dehydrodivanillate	white
+5,5'-dehydrodivanillate O-demethylase ferredoxin reductase subunit	1.18.1.-	2,2',3-Trihydroxy-3'-methoxy-5,5'-dicarboxybiphenyl	H+	white
+5,5'-dehydrodivanillate O-demethylase ferredoxin reductase subunit	1.18.1.-	2,2',3-Trihydroxy-3'-methoxy-5,5'-dicarboxybiphenyl	NADPH	white
+5,5'-dehydrodivanillate O-demethylase ferredoxin reductase subunit	1.18.1.-	2,2',3-Trihydroxy-3'-methoxy-5,5'-dicarboxybiphenyl	Oxygen	white
+5,5'-dehydrodivanillate O-demethylase ferredoxin reductase subunit	1.18.1.-	5,5'-Dehydrodivanillate	2,2',3-Trihydroxy-3'-methoxy-5,5'-dicarboxybiphenyl	white
+5,5'-dehydrodivanillate O-demethylase ferredoxin reductase subunit	1.18.1.-	5,5'-Dehydrodivanillate	Formaldehyde	white
+5,5'-dehydrodivanillate O-demethylase ferredoxin reductase subunit	1.18.1.-	5,5'-Dehydrodivanillate	H2O	white
+5,5'-dehydrodivanillate O-demethylase ferredoxin reductase subunit	1.18.1.-	5,5'-Dehydrodivanillate	NADP+	white
+5,5'-dehydrodivanillate O-demethylase ferredoxin reductase subunit	1.18.1.-	Formaldehyde	5,5'-Dehydrodivanillate	white
+5,5'-dehydrodivanillate O-demethylase ferredoxin reductase subunit	1.18.1.-	Formaldehyde	H+	white
+5,5'-dehydrodivanillate O-demethylase ferredoxin reductase subunit	1.18.1.-	Formaldehyde	NADPH	white
+5,5'-dehydrodivanillate O-demethylase ferredoxin reductase subunit	1.18.1.-	Formaldehyde	Oxygen	white
+5,5'-dehydrodivanillate O-demethylase ferredoxin reductase subunit	1.18.1.-	H+	2,2',3-Trihydroxy-3'-methoxy-5,5'-dicarboxybiphenyl	white
+5,5'-dehydrodivanillate O-demethylase ferredoxin reductase subunit	1.18.1.-	H+	Formaldehyde	white
+5,5'-dehydrodivanillate O-demethylase ferredoxin reductase subunit	1.18.1.-	H+	H2O	white
+5,5'-dehydrodivanillate O-demethylase ferredoxin reductase subunit	1.18.1.-	H+	NADP+	white
+5,5'-dehydrodivanillate O-demethylase ferredoxin reductase subunit	1.18.1.-	H2O	5,5'-Dehydrodivanillate	white
+5,5'-dehydrodivanillate O-demethylase ferredoxin reductase subunit	1.18.1.-	H2O	H+	white
+5,5'-dehydrodivanillate O-demethylase ferredoxin reductase subunit	1.18.1.-	H2O	NADPH	white
+5,5'-dehydrodivanillate O-demethylase ferredoxin reductase subunit	1.18.1.-	H2O	Oxygen	white
+5,5'-dehydrodivanillate O-demethylase ferredoxin reductase subunit	1.18.1.-	NADP+	5,5'-Dehydrodivanillate	white
+5,5'-dehydrodivanillate O-demethylase ferredoxin reductase subunit	1.18.1.-	NADP+	H+	white
+5,5'-dehydrodivanillate O-demethylase ferredoxin reductase subunit	1.18.1.-	NADP+	NADPH	white
+5,5'-dehydrodivanillate O-demethylase ferredoxin reductase subunit	1.18.1.-	NADP+	Oxygen	white
+5,5'-dehydrodivanillate O-demethylase ferredoxin reductase subunit	1.18.1.-	NADPH	2,2',3-Trihydroxy-3'-methoxy-5,5'-dicarboxybiphenyl	white
+5,5'-dehydrodivanillate O-demethylase ferredoxin reductase subunit	1.18.1.-	NADPH	Formaldehyde	white
+5,5'-dehydrodivanillate O-demethylase ferredoxin reductase subunit	1.18.1.-	NADPH	H2O	white
+5,5'-dehydrodivanillate O-demethylase ferredoxin reductase subunit	1.18.1.-	NADPH	NADP+	white
+5,5'-dehydrodivanillate O-demethylase ferredoxin reductase subunit	1.18.1.-	Oxygen	2,2',3-Trihydroxy-3'-methoxy-5,5'-dicarboxybiphenyl	white
+5,5'-dehydrodivanillate O-demethylase ferredoxin reductase subunit	1.18.1.-	Oxygen	Formaldehyde	white
+5,5'-dehydrodivanillate O-demethylase ferredoxin reductase subunit	1.18.1.-	Oxygen	H2O	white
+5,5'-dehydrodivanillate O-demethylase ferredoxin reductase subunit	1.18.1.-	Oxygen	NADP+	white
+5,5'-dehydrodivanillate O-demethylase ferredoxin subunit	1.14.13.-	2,2',3-Trihydroxy-3'-methoxy-5,5'-dicarboxybiphenyl	5,5'-Dehydrodivanillate	white
+5,5'-dehydrodivanillate O-demethylase ferredoxin subunit	1.14.13.-	2,2',3-Trihydroxy-3'-methoxy-5,5'-dicarboxybiphenyl	H+	white
+5,5'-dehydrodivanillate O-demethylase ferredoxin subunit	1.14.13.-	2,2',3-Trihydroxy-3'-methoxy-5,5'-dicarboxybiphenyl	NADPH	white
+5,5'-dehydrodivanillate O-demethylase ferredoxin subunit	1.14.13.-	2,2',3-Trihydroxy-3'-methoxy-5,5'-dicarboxybiphenyl	Oxygen	white
+5,5'-dehydrodivanillate O-demethylase ferredoxin subunit	1.14.13.-	5,5'-Dehydrodivanillate	2,2',3-Trihydroxy-3'-methoxy-5,5'-dicarboxybiphenyl	white
+5,5'-dehydrodivanillate O-demethylase ferredoxin subunit	1.14.13.-	5,5'-Dehydrodivanillate	Formaldehyde	white
+5,5'-dehydrodivanillate O-demethylase ferredoxin subunit	1.14.13.-	5,5'-Dehydrodivanillate	H2O	white
+5,5'-dehydrodivanillate O-demethylase ferredoxin subunit	1.14.13.-	5,5'-Dehydrodivanillate	NADP+	white
+5,5'-dehydrodivanillate O-demethylase ferredoxin subunit	1.14.13.-	Formaldehyde	5,5'-Dehydrodivanillate	white
+5,5'-dehydrodivanillate O-demethylase ferredoxin subunit	1.14.13.-	Formaldehyde	H+	white
+5,5'-dehydrodivanillate O-demethylase ferredoxin subunit	1.14.13.-	Formaldehyde	NADPH	white
+5,5'-dehydrodivanillate O-demethylase ferredoxin subunit	1.14.13.-	Formaldehyde	Oxygen	white
+5,5'-dehydrodivanillate O-demethylase ferredoxin subunit	1.14.13.-	H+	2,2',3-Trihydroxy-3'-methoxy-5,5'-dicarboxybiphenyl	white
+5,5'-dehydrodivanillate O-demethylase ferredoxin subunit	1.14.13.-	H+	Formaldehyde	white
+5,5'-dehydrodivanillate O-demethylase ferredoxin subunit	1.14.13.-	H+	H2O	white
+5,5'-dehydrodivanillate O-demethylase ferredoxin subunit	1.14.13.-	H+	NADP+	white
+5,5'-dehydrodivanillate O-demethylase ferredoxin subunit	1.14.13.-	H2O	5,5'-Dehydrodivanillate	white
+5,5'-dehydrodivanillate O-demethylase ferredoxin subunit	1.14.13.-	H2O	H+	white
+5,5'-dehydrodivanillate O-demethylase ferredoxin subunit	1.14.13.-	H2O	NADPH	white
+5,5'-dehydrodivanillate O-demethylase ferredoxin subunit	1.14.13.-	H2O	Oxygen	white
+5,5'-dehydrodivanillate O-demethylase ferredoxin subunit	1.14.13.-	NADP+	5,5'-Dehydrodivanillate	white
+5,5'-dehydrodivanillate O-demethylase ferredoxin subunit	1.14.13.-	NADP+	H+	white
+5,5'-dehydrodivanillate O-demethylase ferredoxin subunit	1.14.13.-	NADP+	NADPH	white
+5,5'-dehydrodivanillate O-demethylase ferredoxin subunit	1.14.13.-	NADP+	Oxygen	white
+5,5'-dehydrodivanillate O-demethylase ferredoxin subunit	1.14.13.-	NADPH	2,2',3-Trihydroxy-3'-methoxy-5,5'-dicarboxybiphenyl	white
+5,5'-dehydrodivanillate O-demethylase ferredoxin subunit	1.14.13.-	NADPH	Formaldehyde	white
+5,5'-dehydrodivanillate O-demethylase ferredoxin subunit	1.14.13.-	NADPH	H2O	white
+5,5'-dehydrodivanillate O-demethylase ferredoxin subunit	1.14.13.-	NADPH	NADP+	white
+5,5'-dehydrodivanillate O-demethylase ferredoxin subunit	1.14.13.-	Oxygen	2,2',3-Trihydroxy-3'-methoxy-5,5'-dicarboxybiphenyl	white
+5,5'-dehydrodivanillate O-demethylase ferredoxin subunit	1.14.13.-	Oxygen	Formaldehyde	white
+5,5'-dehydrodivanillate O-demethylase ferredoxin subunit	1.14.13.-	Oxygen	H2O	white
+5,5'-dehydrodivanillate O-demethylase ferredoxin subunit	1.14.13.-	Oxygen	NADP+	white
+5,5'-dehydrodivanillate O-demethylase oxygenase subunit	1.14.13.-	2,2',3-Trihydroxy-3'-methoxy-5,5'-dicarboxybiphenyl	5,5'-Dehydrodivanillate	white
+5,5'-dehydrodivanillate O-demethylase oxygenase subunit	1.14.13.-	2,2',3-Trihydroxy-3'-methoxy-5,5'-dicarboxybiphenyl	H+	white
+5,5'-dehydrodivanillate O-demethylase oxygenase subunit	1.14.13.-	2,2',3-Trihydroxy-3'-methoxy-5,5'-dicarboxybiphenyl	NADPH	white
+5,5'-dehydrodivanillate O-demethylase oxygenase subunit	1.14.13.-	2,2',3-Trihydroxy-3'-methoxy-5,5'-dicarboxybiphenyl	Oxygen	white
+5,5'-dehydrodivanillate O-demethylase oxygenase subunit	1.14.13.-	5,5'-Dehydrodivanillate	2,2',3-Trihydroxy-3'-methoxy-5,5'-dicarboxybiphenyl	white
+5,5'-dehydrodivanillate O-demethylase oxygenase subunit	1.14.13.-	5,5'-Dehydrodivanillate	Formaldehyde	white
+5,5'-dehydrodivanillate O-demethylase oxygenase subunit	1.14.13.-	5,5'-Dehydrodivanillate	H2O	white
+5,5'-dehydrodivanillate O-demethylase oxygenase subunit	1.14.13.-	5,5'-Dehydrodivanillate	NADP+	white
+5,5'-dehydrodivanillate O-demethylase oxygenase subunit	1.14.13.-	Formaldehyde	5,5'-Dehydrodivanillate	white
+5,5'-dehydrodivanillate O-demethylase oxygenase subunit	1.14.13.-	Formaldehyde	H+	white
+5,5'-dehydrodivanillate O-demethylase oxygenase subunit	1.14.13.-	Formaldehyde	NADPH	white
+5,5'-dehydrodivanillate O-demethylase oxygenase subunit	1.14.13.-	Formaldehyde	Oxygen	white
+5,5'-dehydrodivanillate O-demethylase oxygenase subunit	1.14.13.-	H+	2,2',3-Trihydroxy-3'-methoxy-5,5'-dicarboxybiphenyl	white
+5,5'-dehydrodivanillate O-demethylase oxygenase subunit	1.14.13.-	H+	Formaldehyde	white
+5,5'-dehydrodivanillate O-demethylase oxygenase subunit	1.14.13.-	H+	H2O	white
+5,5'-dehydrodivanillate O-demethylase oxygenase subunit	1.14.13.-	H+	NADP+	white
+5,5'-dehydrodivanillate O-demethylase oxygenase subunit	1.14.13.-	H2O	5,5'-Dehydrodivanillate	white
+5,5'-dehydrodivanillate O-demethylase oxygenase subunit	1.14.13.-	H2O	H+	white
+5,5'-dehydrodivanillate O-demethylase oxygenase subunit	1.14.13.-	H2O	NADPH	white
+5,5'-dehydrodivanillate O-demethylase oxygenase subunit	1.14.13.-	H2O	Oxygen	white
+5,5'-dehydrodivanillate O-demethylase oxygenase subunit	1.14.13.-	NADP+	5,5'-Dehydrodivanillate	white
+5,5'-dehydrodivanillate O-demethylase oxygenase subunit	1.14.13.-	NADP+	H+	white
+5,5'-dehydrodivanillate O-demethylase oxygenase subunit	1.14.13.-	NADP+	NADPH	white
+5,5'-dehydrodivanillate O-demethylase oxygenase subunit	1.14.13.-	NADP+	Oxygen	white
+5,5'-dehydrodivanillate O-demethylase oxygenase subunit	1.14.13.-	NADPH	2,2',3-Trihydroxy-3'-methoxy-5,5'-dicarboxybiphenyl	white
+5,5'-dehydrodivanillate O-demethylase oxygenase subunit	1.14.13.-	NADPH	Formaldehyde	white
+5,5'-dehydrodivanillate O-demethylase oxygenase subunit	1.14.13.-	NADPH	H2O	white
+5,5'-dehydrodivanillate O-demethylase oxygenase subunit	1.14.13.-	NADPH	NADP+	white
+5,5'-dehydrodivanillate O-demethylase oxygenase subunit	1.14.13.-	Oxygen	2,2',3-Trihydroxy-3'-methoxy-5,5'-dicarboxybiphenyl	white
+5,5'-dehydrodivanillate O-demethylase oxygenase subunit	1.14.13.-	Oxygen	Formaldehyde	white
+5,5'-dehydrodivanillate O-demethylase oxygenase subunit	1.14.13.-	Oxygen	H2O	white
+5,5'-dehydrodivanillate O-demethylase oxygenase subunit	1.14.13.-	Oxygen	NADP+	white
+5-carboxyvanillate decarboxylase	2.1.1.341	5-Carboxyvanillic acid	CO2	white
+5-carboxyvanillate decarboxylase	2.1.1.341	5-Carboxyvanillic acid	Vanillate	white
+5-carboxyvanillate decarboxylase	2.1.1.341	CO2	5-Carboxyvanillic acid	white
+5-carboxyvanillate decarboxylase	2.1.1.341	Vanillate	5-Carboxyvanillic acid	white
+OH-DDVA meta-cleavage compound hydrolase	1.13.11.-	4-Methylene-2-oxoglutarate	4-[2-(5-Carboxy-2-hydroxy-3-methoxyphenyl)-2-oxoethylidene]-2-hydroxy-2-pentenedioate	white
+OH-DDVA meta-cleavage compound hydrolase	1.13.11.-	4-Methylene-2-oxoglutarate	H2O	white
+OH-DDVA meta-cleavage compound hydrolase	1.13.11.-	4-[2-(5-Carboxy-2-hydroxy-3-methoxyphenyl)-2-oxoethylidene]-2-hydroxy-2-pentenedioate	4-Methylene-2-oxoglutarate	white
+OH-DDVA meta-cleavage compound hydrolase	1.13.11.-	4-[2-(5-Carboxy-2-hydroxy-3-methoxyphenyl)-2-oxoethylidene]-2-hydroxy-2-pentenedioate	5-Carboxyvanillic acid	white
+OH-DDVA meta-cleavage compound hydrolase	1.13.11.-	5-Carboxyvanillic acid	4-[2-(5-Carboxy-2-hydroxy-3-methoxyphenyl)-2-oxoethylidene]-2-hydroxy-2-pentenedioate	white
+OH-DDVA meta-cleavage compound hydrolase	1.13.11.-	5-Carboxyvanillic acid	H2O	white
+OH-DDVA meta-cleavage compound hydrolase	1.13.11.-	H2O	4-Methylene-2-oxoglutarate	white
+OH-DDVA meta-cleavage compound hydrolase	1.13.11.-	H2O	5-Carboxyvanillic acid	white
+OH-DDVA oxygenase	1.13.11.-	2,2',3-Trihydroxy-3'-methoxy-5,5'-dicarboxybiphenyl	4-[2-(5-Carboxy-2-hydroxy-3-methoxyphenyl)-2-oxoethylidene]-2-hydroxy-2-pentenedioate	white
+OH-DDVA oxygenase	1.13.11.-	4-[2-(5-Carboxy-2-hydroxy-3-methoxyphenyl)-2-oxoethylidene]-2-hydroxy-2-pentenedioate	2,2',3-Trihydroxy-3'-methoxy-5,5'-dicarboxybiphenyl	white
+OH-DDVA oxygenase	1.13.11.-	4-[2-(5-Carboxy-2-hydroxy-3-methoxyphenyl)-2-oxoethylidene]-2-hydroxy-2-pentenedioate	Oxygen	white
+OH-DDVA oxygenase	1.13.11.-	Oxygen	4-[2-(5-Carboxy-2-hydroxy-3-methoxyphenyl)-2-oxoethylidene]-2-hydroxy-2-pentenedioate	white
+acetate CoA-transferase	2.8.3.8	Acetate	Acetyl-CoA	white
+acetate CoA-transferase	2.8.3.8	Acetate	Butanoic acid	white
+acetate CoA-transferase	2.8.3.8	Acetyl-CoA	Acetate	white
+acetate CoA-transferase	2.8.3.8	Acetyl-CoA	Butanoyl-CoA	white
+acetate CoA-transferase	2.8.3.8	Butanoic acid	Acetate	white
+acetate CoA-transferase	2.8.3.8	Butanoic acid	Butanoyl-CoA	white
+acetate CoA-transferase	2.8.3.8	Butanoyl-CoA	Acetyl-CoA	white
+acetate CoA-transferase	2.8.3.8	Butanoyl-CoA	Butanoic acid	white
+acetate CoA/acetoacetate CoA-transferase alpha subunit	2.8.3.8	Acetate	Acetyl-CoA	white
+acetate CoA/acetoacetate CoA-transferase alpha subunit	2.8.3.8	Acetate	Butanoic acid	white
+acetate CoA/acetoacetate CoA-transferase alpha subunit	2.8.3.8	Acetyl-CoA	Acetate	white
+acetate CoA/acetoacetate CoA-transferase alpha subunit	2.8.3.8	Acetyl-CoA	Butanoyl-CoA	white
+acetate CoA/acetoacetate CoA-transferase alpha subunit	2.8.3.8	Butanoic acid	Acetate	white
+acetate CoA/acetoacetate CoA-transferase alpha subunit	2.8.3.8	Butanoic acid	Butanoyl-CoA	white
+acetate CoA/acetoacetate CoA-transferase alpha subunit	2.8.3.8	Butanoyl-CoA	Acetyl-CoA	white
+acetate CoA/acetoacetate CoA-transferase alpha subunit	2.8.3.8	Butanoyl-CoA	Butanoic acid	white
+acetate CoA/acetoacetate CoA-transferase beta subunit	2.8.3.8	Acetate	Acetyl-CoA	white
+acetate CoA/acetoacetate CoA-transferase beta subunit	2.8.3.8	Acetate	Butanoic acid	white
+acetate CoA/acetoacetate CoA-transferase beta subunit	2.8.3.8	Acetyl-CoA	Acetate	white
+acetate CoA/acetoacetate CoA-transferase beta subunit	2.8.3.8	Acetyl-CoA	Butanoyl-CoA	white
+acetate CoA/acetoacetate CoA-transferase beta subunit	2.8.3.8	Butanoic acid	Acetate	white
+acetate CoA/acetoacetate CoA-transferase beta subunit	2.8.3.8	Butanoic acid	Butanoyl-CoA	white
+acetate CoA/acetoacetate CoA-transferase beta subunit	2.8.3.8	Butanoyl-CoA	Acetyl-CoA	white
+acetate CoA/acetoacetate CoA-transferase beta subunit	2.8.3.8	Butanoyl-CoA	Butanoic acid	white
+acylphosphatase	3.6.1.7	Benzoyl phosphate	Benzoate	green
+acylphosphatase	3.6.1.7	Benzoyl phosphate	Orthophosphate	green
+acylphosphatase	3.6.1.7	H2O	Benzoate	green
+acylphosphatase	3.6.1.7	H2O	Orthophosphate	green
+amidase	3.5.1.4	Benzamide	Ammonia	green
+amidase	3.5.1.4	Benzamide	Benzoate	green
+amidase	3.5.1.4	H2O	Ammonia	green
+amidase	3.5.1.4	H2O	Benzoate	green
+anthranilate 1,2-dioxygenase (deaminating, decarboxylating) large subunit	1.14.12.1	Ammonia	Anthranilate	white
+anthranilate 1,2-dioxygenase (deaminating, decarboxylating) large subunit	1.14.12.1	Ammonia	H+	white
+anthranilate 1,2-dioxygenase (deaminating, decarboxylating) large subunit	1.14.12.1	Ammonia	NADH	white
+anthranilate 1,2-dioxygenase (deaminating, decarboxylating) large subunit	1.14.12.1	Ammonia	Oxygen	white
+anthranilate 1,2-dioxygenase (deaminating, decarboxylating) large subunit	1.14.12.1	Anthranilate	Ammonia	white
+anthranilate 1,2-dioxygenase (deaminating, decarboxylating) large subunit	1.14.12.1	Anthranilate	CO2	white
+anthranilate 1,2-dioxygenase (deaminating, decarboxylating) large subunit	1.14.12.1	Anthranilate	Catechol	white
+anthranilate 1,2-dioxygenase (deaminating, decarboxylating) large subunit	1.14.12.1	Anthranilate	NAD+	white
+anthranilate 1,2-dioxygenase (deaminating, decarboxylating) large subunit	1.14.12.1	CO2	Anthranilate	white
+anthranilate 1,2-dioxygenase (deaminating, decarboxylating) large subunit	1.14.12.1	CO2	H+	white
+anthranilate 1,2-dioxygenase (deaminating, decarboxylating) large subunit	1.14.12.1	CO2	NADH	white
+anthranilate 1,2-dioxygenase (deaminating, decarboxylating) large subunit	1.14.12.1	CO2	Oxygen	white
+anthranilate 1,2-dioxygenase (deaminating, decarboxylating) large subunit	1.14.12.1	Catechol	Anthranilate	white
+anthranilate 1,2-dioxygenase (deaminating, decarboxylating) large subunit	1.14.12.1	Catechol	H+	white
+anthranilate 1,2-dioxygenase (deaminating, decarboxylating) large subunit	1.14.12.1	Catechol	NADH	white
+anthranilate 1,2-dioxygenase (deaminating, decarboxylating) large subunit	1.14.12.1	Catechol	Oxygen	white
+anthranilate 1,2-dioxygenase (deaminating, decarboxylating) large subunit	1.14.12.1	H+	Ammonia	white
+anthranilate 1,2-dioxygenase (deaminating, decarboxylating) large subunit	1.14.12.1	H+	CO2	white
+anthranilate 1,2-dioxygenase (deaminating, decarboxylating) large subunit	1.14.12.1	H+	Catechol	white
+anthranilate 1,2-dioxygenase (deaminating, decarboxylating) large subunit	1.14.12.1	H+	NAD+	white
+anthranilate 1,2-dioxygenase (deaminating, decarboxylating) large subunit	1.14.12.1	NAD+	Anthranilate	white
+anthranilate 1,2-dioxygenase (deaminating, decarboxylating) large subunit	1.14.12.1	NAD+	H+	white
+anthranilate 1,2-dioxygenase (deaminating, decarboxylating) large subunit	1.14.12.1	NAD+	NADH	white
+anthranilate 1,2-dioxygenase (deaminating, decarboxylating) large subunit	1.14.12.1	NAD+	Oxygen	white
+anthranilate 1,2-dioxygenase (deaminating, decarboxylating) large subunit	1.14.12.1	NADH	Ammonia	white
+anthranilate 1,2-dioxygenase (deaminating, decarboxylating) large subunit	1.14.12.1	NADH	CO2	white
+anthranilate 1,2-dioxygenase (deaminating, decarboxylating) large subunit	1.14.12.1	NADH	Catechol	white
+anthranilate 1,2-dioxygenase (deaminating, decarboxylating) large subunit	1.14.12.1	NADH	NAD+	white
+anthranilate 1,2-dioxygenase (deaminating, decarboxylating) large subunit	1.14.12.1	Oxygen	Ammonia	white
+anthranilate 1,2-dioxygenase (deaminating, decarboxylating) large subunit	1.14.12.1	Oxygen	CO2	white
+anthranilate 1,2-dioxygenase (deaminating, decarboxylating) large subunit	1.14.12.1	Oxygen	Catechol	white
+anthranilate 1,2-dioxygenase (deaminating, decarboxylating) large subunit	1.14.12.1	Oxygen	NAD+	white
+anthranilate 1,2-dioxygenase (deaminating, decarboxylating) small subunit	1.14.12.1	Ammonia	Anthranilate	white
+anthranilate 1,2-dioxygenase (deaminating, decarboxylating) small subunit	1.14.12.1	Ammonia	H+	white
+anthranilate 1,2-dioxygenase (deaminating, decarboxylating) small subunit	1.14.12.1	Ammonia	NADH	white
+anthranilate 1,2-dioxygenase (deaminating, decarboxylating) small subunit	1.14.12.1	Ammonia	Oxygen	white
+anthranilate 1,2-dioxygenase (deaminating, decarboxylating) small subunit	1.14.12.1	Anthranilate	Ammonia	white
+anthranilate 1,2-dioxygenase (deaminating, decarboxylating) small subunit	1.14.12.1	Anthranilate	CO2	white
+anthranilate 1,2-dioxygenase (deaminating, decarboxylating) small subunit	1.14.12.1	Anthranilate	Catechol	white
+anthranilate 1,2-dioxygenase (deaminating, decarboxylating) small subunit	1.14.12.1	Anthranilate	NAD+	white
+anthranilate 1,2-dioxygenase (deaminating, decarboxylating) small subunit	1.14.12.1	CO2	Anthranilate	white
+anthranilate 1,2-dioxygenase (deaminating, decarboxylating) small subunit	1.14.12.1	CO2	H+	white
+anthranilate 1,2-dioxygenase (deaminating, decarboxylating) small subunit	1.14.12.1	CO2	NADH	white
+anthranilate 1,2-dioxygenase (deaminating, decarboxylating) small subunit	1.14.12.1	CO2	Oxygen	white
+anthranilate 1,2-dioxygenase (deaminating, decarboxylating) small subunit	1.14.12.1	Catechol	Anthranilate	white
+anthranilate 1,2-dioxygenase (deaminating, decarboxylating) small subunit	1.14.12.1	Catechol	H+	white
+anthranilate 1,2-dioxygenase (deaminating, decarboxylating) small subunit	1.14.12.1	Catechol	NADH	white
+anthranilate 1,2-dioxygenase (deaminating, decarboxylating) small subunit	1.14.12.1	Catechol	Oxygen	white
+anthranilate 1,2-dioxygenase (deaminating, decarboxylating) small subunit	1.14.12.1	H+	Ammonia	white
+anthranilate 1,2-dioxygenase (deaminating, decarboxylating) small subunit	1.14.12.1	H+	CO2	white
+anthranilate 1,2-dioxygenase (deaminating, decarboxylating) small subunit	1.14.12.1	H+	Catechol	white
+anthranilate 1,2-dioxygenase (deaminating, decarboxylating) small subunit	1.14.12.1	H+	NAD+	white
+anthranilate 1,2-dioxygenase (deaminating, decarboxylating) small subunit	1.14.12.1	NAD+	Anthranilate	white
+anthranilate 1,2-dioxygenase (deaminating, decarboxylating) small subunit	1.14.12.1	NAD+	H+	white
+anthranilate 1,2-dioxygenase (deaminating, decarboxylating) small subunit	1.14.12.1	NAD+	NADH	white
+anthranilate 1,2-dioxygenase (deaminating, decarboxylating) small subunit	1.14.12.1	NAD+	Oxygen	white
+anthranilate 1,2-dioxygenase (deaminating, decarboxylating) small subunit	1.14.12.1	NADH	Ammonia	white
+anthranilate 1,2-dioxygenase (deaminating, decarboxylating) small subunit	1.14.12.1	NADH	CO2	white
+anthranilate 1,2-dioxygenase (deaminating, decarboxylating) small subunit	1.14.12.1	NADH	Catechol	white
+anthranilate 1,2-dioxygenase (deaminating, decarboxylating) small subunit	1.14.12.1	NADH	NAD+	white
+anthranilate 1,2-dioxygenase (deaminating, decarboxylating) small subunit	1.14.12.1	Oxygen	Ammonia	white
+anthranilate 1,2-dioxygenase (deaminating, decarboxylating) small subunit	1.14.12.1	Oxygen	CO2	white
+anthranilate 1,2-dioxygenase (deaminating, decarboxylating) small subunit	1.14.12.1	Oxygen	Catechol	white
+anthranilate 1,2-dioxygenase (deaminating, decarboxylating) small subunit	1.14.12.1	Oxygen	NAD+	white
+anthranilate 1,2-dioxygenase ferredoxin component	1.14.12.1	Ammonia	Anthranilate	white
+anthranilate 1,2-dioxygenase ferredoxin component	1.14.12.1	Ammonia	H+	white
+anthranilate 1,2-dioxygenase ferredoxin component	1.14.12.1	Ammonia	NADH	white
+anthranilate 1,2-dioxygenase ferredoxin component	1.14.12.1	Ammonia	Oxygen	white
+anthranilate 1,2-dioxygenase ferredoxin component	1.14.12.1	Anthranilate	Ammonia	white
+anthranilate 1,2-dioxygenase ferredoxin component	1.14.12.1	Anthranilate	CO2	white
+anthranilate 1,2-dioxygenase ferredoxin component	1.14.12.1	Anthranilate	Catechol	white
+anthranilate 1,2-dioxygenase ferredoxin component	1.14.12.1	Anthranilate	NAD+	white
+anthranilate 1,2-dioxygenase ferredoxin component	1.14.12.1	CO2	Anthranilate	white
+anthranilate 1,2-dioxygenase ferredoxin component	1.14.12.1	CO2	H+	white
+anthranilate 1,2-dioxygenase ferredoxin component	1.14.12.1	CO2	NADH	white
+anthranilate 1,2-dioxygenase ferredoxin component	1.14.12.1	CO2	Oxygen	white
+anthranilate 1,2-dioxygenase ferredoxin component	1.14.12.1	Catechol	Anthranilate	white
+anthranilate 1,2-dioxygenase ferredoxin component	1.14.12.1	Catechol	H+	white
+anthranilate 1,2-dioxygenase ferredoxin component	1.14.12.1	Catechol	NADH	white
+anthranilate 1,2-dioxygenase ferredoxin component	1.14.12.1	Catechol	Oxygen	white
+anthranilate 1,2-dioxygenase ferredoxin component	1.14.12.1	H+	Ammonia	white
+anthranilate 1,2-dioxygenase ferredoxin component	1.14.12.1	H+	CO2	white
+anthranilate 1,2-dioxygenase ferredoxin component	1.14.12.1	H+	Catechol	white
+anthranilate 1,2-dioxygenase ferredoxin component	1.14.12.1	H+	NAD+	white
+anthranilate 1,2-dioxygenase ferredoxin component	1.14.12.1	NAD+	Anthranilate	white
+anthranilate 1,2-dioxygenase ferredoxin component	1.14.12.1	NAD+	H+	white
+anthranilate 1,2-dioxygenase ferredoxin component	1.14.12.1	NAD+	NADH	white
+anthranilate 1,2-dioxygenase ferredoxin component	1.14.12.1	NAD+	Oxygen	white
+anthranilate 1,2-dioxygenase ferredoxin component	1.14.12.1	NADH	Ammonia	white
+anthranilate 1,2-dioxygenase ferredoxin component	1.14.12.1	NADH	CO2	white
+anthranilate 1,2-dioxygenase ferredoxin component	1.14.12.1	NADH	Catechol	white
+anthranilate 1,2-dioxygenase ferredoxin component	1.14.12.1	NADH	NAD+	white
+anthranilate 1,2-dioxygenase ferredoxin component	1.14.12.1	Oxygen	Ammonia	white
+anthranilate 1,2-dioxygenase ferredoxin component	1.14.12.1	Oxygen	CO2	white
+anthranilate 1,2-dioxygenase ferredoxin component	1.14.12.1	Oxygen	Catechol	white
+anthranilate 1,2-dioxygenase ferredoxin component	1.14.12.1	Oxygen	NAD+	white
+anthranilate 1,2-dioxygenase ferredoxin reductase component	1.18.1.-	Ammonia	Anthranilate	white
+anthranilate 1,2-dioxygenase ferredoxin reductase component	1.18.1.-	Ammonia	H+	white
+anthranilate 1,2-dioxygenase ferredoxin reductase component	1.18.1.-	Ammonia	NADH	white
+anthranilate 1,2-dioxygenase ferredoxin reductase component	1.18.1.-	Ammonia	Oxygen	white
+anthranilate 1,2-dioxygenase ferredoxin reductase component	1.18.1.-	Anthranilate	Ammonia	white
+anthranilate 1,2-dioxygenase ferredoxin reductase component	1.18.1.-	Anthranilate	CO2	white
+anthranilate 1,2-dioxygenase ferredoxin reductase component	1.18.1.-	Anthranilate	Catechol	white
+anthranilate 1,2-dioxygenase ferredoxin reductase component	1.18.1.-	Anthranilate	NAD+	white
+anthranilate 1,2-dioxygenase ferredoxin reductase component	1.18.1.-	CO2	Anthranilate	white
+anthranilate 1,2-dioxygenase ferredoxin reductase component	1.18.1.-	CO2	H+	white
+anthranilate 1,2-dioxygenase ferredoxin reductase component	1.18.1.-	CO2	NADH	white
+anthranilate 1,2-dioxygenase ferredoxin reductase component	1.18.1.-	CO2	Oxygen	white
+anthranilate 1,2-dioxygenase ferredoxin reductase component	1.18.1.-	Catechol	Anthranilate	white
+anthranilate 1,2-dioxygenase ferredoxin reductase component	1.18.1.-	Catechol	H+	white
+anthranilate 1,2-dioxygenase ferredoxin reductase component	1.18.1.-	Catechol	NADH	white
+anthranilate 1,2-dioxygenase ferredoxin reductase component	1.18.1.-	Catechol	Oxygen	white
+anthranilate 1,2-dioxygenase ferredoxin reductase component	1.18.1.-	H+	Ammonia	white
+anthranilate 1,2-dioxygenase ferredoxin reductase component	1.18.1.-	H+	CO2	white
+anthranilate 1,2-dioxygenase ferredoxin reductase component	1.18.1.-	H+	Catechol	white
+anthranilate 1,2-dioxygenase ferredoxin reductase component	1.18.1.-	H+	NAD+	white
+anthranilate 1,2-dioxygenase ferredoxin reductase component	1.18.1.-	NAD+	Anthranilate	white
+anthranilate 1,2-dioxygenase ferredoxin reductase component	1.18.1.-	NAD+	H+	white
+anthranilate 1,2-dioxygenase ferredoxin reductase component	1.18.1.-	NAD+	NADH	white
+anthranilate 1,2-dioxygenase ferredoxin reductase component	1.18.1.-	NAD+	Oxygen	white
+anthranilate 1,2-dioxygenase ferredoxin reductase component	1.18.1.-	NADH	Ammonia	white
+anthranilate 1,2-dioxygenase ferredoxin reductase component	1.18.1.-	NADH	CO2	white
+anthranilate 1,2-dioxygenase ferredoxin reductase component	1.18.1.-	NADH	Catechol	white
+anthranilate 1,2-dioxygenase ferredoxin reductase component	1.18.1.-	NADH	NAD+	white
+anthranilate 1,2-dioxygenase ferredoxin reductase component	1.18.1.-	Oxygen	Ammonia	white
+anthranilate 1,2-dioxygenase ferredoxin reductase component	1.18.1.-	Oxygen	CO2	white
+anthranilate 1,2-dioxygenase ferredoxin reductase component	1.18.1.-	Oxygen	Catechol	white
+anthranilate 1,2-dioxygenase ferredoxin reductase component	1.18.1.-	Oxygen	NAD+	white
+anthranilate 1,2-dioxygenase large subunit	1.14.12.1	Ammonia	Anthranilate	white
+anthranilate 1,2-dioxygenase large subunit	1.14.12.1	Ammonia	H+	white
+anthranilate 1,2-dioxygenase large subunit	1.14.12.1	Ammonia	NADH	white
+anthranilate 1,2-dioxygenase large subunit	1.14.12.1	Ammonia	Oxygen	white
+anthranilate 1,2-dioxygenase large subunit	1.14.12.1	Anthranilate	Ammonia	white
+anthranilate 1,2-dioxygenase large subunit	1.14.12.1	Anthranilate	CO2	white
+anthranilate 1,2-dioxygenase large subunit	1.14.12.1	Anthranilate	Catechol	white
+anthranilate 1,2-dioxygenase large subunit	1.14.12.1	Anthranilate	NAD+	white
+anthranilate 1,2-dioxygenase large subunit	1.14.12.1	CO2	Anthranilate	white
+anthranilate 1,2-dioxygenase large subunit	1.14.12.1	CO2	H+	white
+anthranilate 1,2-dioxygenase large subunit	1.14.12.1	CO2	NADH	white
+anthranilate 1,2-dioxygenase large subunit	1.14.12.1	CO2	Oxygen	white
+anthranilate 1,2-dioxygenase large subunit	1.14.12.1	Catechol	Anthranilate	white
+anthranilate 1,2-dioxygenase large subunit	1.14.12.1	Catechol	H+	white
+anthranilate 1,2-dioxygenase large subunit	1.14.12.1	Catechol	NADH	white
+anthranilate 1,2-dioxygenase large subunit	1.14.12.1	Catechol	Oxygen	white
+anthranilate 1,2-dioxygenase large subunit	1.14.12.1	H+	Ammonia	white
+anthranilate 1,2-dioxygenase large subunit	1.14.12.1	H+	CO2	white
+anthranilate 1,2-dioxygenase large subunit	1.14.12.1	H+	Catechol	white
+anthranilate 1,2-dioxygenase large subunit	1.14.12.1	H+	NAD+	white
+anthranilate 1,2-dioxygenase large subunit	1.14.12.1	NAD+	Anthranilate	white
+anthranilate 1,2-dioxygenase large subunit	1.14.12.1	NAD+	H+	white
+anthranilate 1,2-dioxygenase large subunit	1.14.12.1	NAD+	NADH	white
+anthranilate 1,2-dioxygenase large subunit	1.14.12.1	NAD+	Oxygen	white
+anthranilate 1,2-dioxygenase large subunit	1.14.12.1	NADH	Ammonia	white
+anthranilate 1,2-dioxygenase large subunit	1.14.12.1	NADH	CO2	white
+anthranilate 1,2-dioxygenase large subunit	1.14.12.1	NADH	Catechol	white
+anthranilate 1,2-dioxygenase large subunit	1.14.12.1	NADH	NAD+	white
+anthranilate 1,2-dioxygenase large subunit	1.14.12.1	Oxygen	Ammonia	white
+anthranilate 1,2-dioxygenase large subunit	1.14.12.1	Oxygen	CO2	white
+anthranilate 1,2-dioxygenase large subunit	1.14.12.1	Oxygen	Catechol	white
+anthranilate 1,2-dioxygenase large subunit	1.14.12.1	Oxygen	NAD+	white
+anthranilate 1,2-dioxygenase reductase component	1.18.1.-	Ammonia	Anthranilate	white
+anthranilate 1,2-dioxygenase reductase component	1.18.1.-	Ammonia	H+	white
+anthranilate 1,2-dioxygenase reductase component	1.18.1.-	Ammonia	NADH	white
+anthranilate 1,2-dioxygenase reductase component	1.18.1.-	Ammonia	Oxygen	white
+anthranilate 1,2-dioxygenase reductase component	1.18.1.-	Anthranilate	Ammonia	white
+anthranilate 1,2-dioxygenase reductase component	1.18.1.-	Anthranilate	CO2	white
+anthranilate 1,2-dioxygenase reductase component	1.18.1.-	Anthranilate	Catechol	white
+anthranilate 1,2-dioxygenase reductase component	1.18.1.-	Anthranilate	NAD+	white
+anthranilate 1,2-dioxygenase reductase component	1.18.1.-	CO2	Anthranilate	white
+anthranilate 1,2-dioxygenase reductase component	1.18.1.-	CO2	H+	white
+anthranilate 1,2-dioxygenase reductase component	1.18.1.-	CO2	NADH	white
+anthranilate 1,2-dioxygenase reductase component	1.18.1.-	CO2	Oxygen	white
+anthranilate 1,2-dioxygenase reductase component	1.18.1.-	Catechol	Anthranilate	white
+anthranilate 1,2-dioxygenase reductase component	1.18.1.-	Catechol	H+	white
+anthranilate 1,2-dioxygenase reductase component	1.18.1.-	Catechol	NADH	white
+anthranilate 1,2-dioxygenase reductase component	1.18.1.-	Catechol	Oxygen	white
+anthranilate 1,2-dioxygenase reductase component	1.18.1.-	H+	Ammonia	white
+anthranilate 1,2-dioxygenase reductase component	1.18.1.-	H+	CO2	white
+anthranilate 1,2-dioxygenase reductase component	1.18.1.-	H+	Catechol	white
+anthranilate 1,2-dioxygenase reductase component	1.18.1.-	H+	NAD+	white
+anthranilate 1,2-dioxygenase reductase component	1.18.1.-	NAD+	Anthranilate	white
+anthranilate 1,2-dioxygenase reductase component	1.18.1.-	NAD+	H+	white
+anthranilate 1,2-dioxygenase reductase component	1.18.1.-	NAD+	NADH	white
+anthranilate 1,2-dioxygenase reductase component	1.18.1.-	NAD+	Oxygen	white
+anthranilate 1,2-dioxygenase reductase component	1.18.1.-	NADH	Ammonia	white
+anthranilate 1,2-dioxygenase reductase component	1.18.1.-	NADH	CO2	white
+anthranilate 1,2-dioxygenase reductase component	1.18.1.-	NADH	Catechol	white
+anthranilate 1,2-dioxygenase reductase component	1.18.1.-	NADH	NAD+	white
+anthranilate 1,2-dioxygenase reductase component	1.18.1.-	Oxygen	Ammonia	white
+anthranilate 1,2-dioxygenase reductase component	1.18.1.-	Oxygen	CO2	white
+anthranilate 1,2-dioxygenase reductase component	1.18.1.-	Oxygen	Catechol	white
+anthranilate 1,2-dioxygenase reductase component	1.18.1.-	Oxygen	NAD+	white
+anthranilate 1,2-dioxygenase small subunit	1.14.12.1	Ammonia	Anthranilate	white
+anthranilate 1,2-dioxygenase small subunit	1.14.12.1	Ammonia	H+	white
+anthranilate 1,2-dioxygenase small subunit	1.14.12.1	Ammonia	NADH	white
+anthranilate 1,2-dioxygenase small subunit	1.14.12.1	Ammonia	Oxygen	white
+anthranilate 1,2-dioxygenase small subunit	1.14.12.1	Anthranilate	Ammonia	white
+anthranilate 1,2-dioxygenase small subunit	1.14.12.1	Anthranilate	CO2	white
+anthranilate 1,2-dioxygenase small subunit	1.14.12.1	Anthranilate	Catechol	white
+anthranilate 1,2-dioxygenase small subunit	1.14.12.1	Anthranilate	NAD+	white
+anthranilate 1,2-dioxygenase small subunit	1.14.12.1	CO2	Anthranilate	white
+anthranilate 1,2-dioxygenase small subunit	1.14.12.1	CO2	H+	white
+anthranilate 1,2-dioxygenase small subunit	1.14.12.1	CO2	NADH	white
+anthranilate 1,2-dioxygenase small subunit	1.14.12.1	CO2	Oxygen	white
+anthranilate 1,2-dioxygenase small subunit	1.14.12.1	Catechol	Anthranilate	white
+anthranilate 1,2-dioxygenase small subunit	1.14.12.1	Catechol	H+	white
+anthranilate 1,2-dioxygenase small subunit	1.14.12.1	Catechol	NADH	white
+anthranilate 1,2-dioxygenase small subunit	1.14.12.1	Catechol	Oxygen	white
+anthranilate 1,2-dioxygenase small subunit	1.14.12.1	H+	Ammonia	white
+anthranilate 1,2-dioxygenase small subunit	1.14.12.1	H+	CO2	white
+anthranilate 1,2-dioxygenase small subunit	1.14.12.1	H+	Catechol	white
+anthranilate 1,2-dioxygenase small subunit	1.14.12.1	H+	NAD+	white
+anthranilate 1,2-dioxygenase small subunit	1.14.12.1	NAD+	Anthranilate	white
+anthranilate 1,2-dioxygenase small subunit	1.14.12.1	NAD+	H+	white
+anthranilate 1,2-dioxygenase small subunit	1.14.12.1	NAD+	NADH	white
+anthranilate 1,2-dioxygenase small subunit	1.14.12.1	NAD+	Oxygen	white
+anthranilate 1,2-dioxygenase small subunit	1.14.12.1	NADH	Ammonia	white
+anthranilate 1,2-dioxygenase small subunit	1.14.12.1	NADH	CO2	white
+anthranilate 1,2-dioxygenase small subunit	1.14.12.1	NADH	Catechol	white
+anthranilate 1,2-dioxygenase small subunit	1.14.12.1	NADH	NAD+	white
+anthranilate 1,2-dioxygenase small subunit	1.14.12.1	Oxygen	Ammonia	white
+anthranilate 1,2-dioxygenase small subunit	1.14.12.1	Oxygen	CO2	white
+anthranilate 1,2-dioxygenase small subunit	1.14.12.1	Oxygen	Catechol	white
+anthranilate 1,2-dioxygenase small subunit	1.14.12.1	Oxygen	NAD+	white
+anthraniloyl-CoA monooxygenase	1.14.13.40	Anthraniloyl-CoA	2-Amino-5-oxocyclohex-1-enecarbonyl-CoA	green
+anthraniloyl-CoA monooxygenase	1.14.13.40	Anthraniloyl-CoA	H2O	green
+anthraniloyl-CoA monooxygenase	1.14.13.40	Anthraniloyl-CoA	NAD+	green
+anthraniloyl-CoA monooxygenase	1.14.13.40	Anthraniloyl-CoA	NADP+	green
+anthraniloyl-CoA monooxygenase	1.14.13.40	H+	2-Amino-5-oxocyclohex-1-enecarbonyl-CoA	green
+anthraniloyl-CoA monooxygenase	1.14.13.40	H+	H2O	green
+anthraniloyl-CoA monooxygenase	1.14.13.40	H+	NAD+	green
+anthraniloyl-CoA monooxygenase	1.14.13.40	H+	NADP+	green
+anthraniloyl-CoA monooxygenase	1.14.13.40	NADH	2-Amino-5-oxocyclohex-1-enecarbonyl-CoA	green
+anthraniloyl-CoA monooxygenase	1.14.13.40	NADH	H2O	green
+anthraniloyl-CoA monooxygenase	1.14.13.40	NADH	NAD+	green
+anthraniloyl-CoA monooxygenase	1.14.13.40	NADPH	2-Amino-5-oxocyclohex-1-enecarbonyl-CoA	green
+anthraniloyl-CoA monooxygenase	1.14.13.40	NADPH	H2O	green
+anthraniloyl-CoA monooxygenase	1.14.13.40	NADPH	NADP+	green
+anthraniloyl-CoA monooxygenase	1.14.13.40	Oxygen	2-Amino-5-oxocyclohex-1-enecarbonyl-CoA	green
+anthraniloyl-CoA monooxygenase	1.14.13.40	Oxygen	H2O	green
+anthraniloyl-CoA monooxygenase	1.14.13.40	Oxygen	NAD+	green
+anthraniloyl-CoA monooxygenase	1.14.13.40	Oxygen	NADP+	green
+aromatic O-demethylase, cytochrome P450 subunit	1.14.14.-	Oxygen	Catechol	green
+aromatic O-demethylase, cytochrome P450 subunit	1.14.14.-	Oxygen	Formaldehyde	green
+aromatic O-demethylase, cytochrome P450 subunit	1.14.14.-	Oxygen	H2O	green
+aromatic O-demethylase, cytochrome P450 subunit	1.14.14.-	Oxygen	[Oxidized NADPH---hemoprotein reductase]	green
+aromatic O-demethylase, cytochrome P450 subunit	1.14.14.-	[Reduced NADPH---hemoprotein reductase]	Catechol	green
+aromatic O-demethylase, cytochrome P450 subunit	1.14.14.-	[Reduced NADPH---hemoprotein reductase]	Formaldehyde	green
+aromatic O-demethylase, cytochrome P450 subunit	1.14.14.-	[Reduced NADPH---hemoprotein reductase]	H2O	green
+aromatic O-demethylase, cytochrome P450 subunit	1.14.14.-	[Reduced NADPH---hemoprotein reductase]	[Oxidized NADPH---hemoprotein reductase]	green
+aromatic O-demethylase, cytochrome P450 subunit	1.14.14.-	o-Methoxyphenol	Catechol	green
+aromatic O-demethylase, cytochrome P450 subunit	1.14.14.-	o-Methoxyphenol	Formaldehyde	green
+aromatic O-demethylase, cytochrome P450 subunit	1.14.14.-	o-Methoxyphenol	H2O	green
+aromatic O-demethylase, cytochrome P450 subunit	1.14.14.-	o-Methoxyphenol	[Oxidized NADPH---hemoprotein reductase]	green
+aromatic O-demethylase, reductase subunit	1.6.2.-	Oxygen	Catechol	green
+aromatic O-demethylase, reductase subunit	1.6.2.-	Oxygen	Formaldehyde	green
+aromatic O-demethylase, reductase subunit	1.6.2.-	Oxygen	H2O	green
+aromatic O-demethylase, reductase subunit	1.6.2.-	Oxygen	[Oxidized NADPH---hemoprotein reductase]	green
+aromatic O-demethylase, reductase subunit	1.6.2.-	[Reduced NADPH---hemoprotein reductase]	Catechol	green
+aromatic O-demethylase, reductase subunit	1.6.2.-	[Reduced NADPH---hemoprotein reductase]	Formaldehyde	green
+aromatic O-demethylase, reductase subunit	1.6.2.-	[Reduced NADPH---hemoprotein reductase]	H2O	green
+aromatic O-demethylase, reductase subunit	1.6.2.-	[Reduced NADPH---hemoprotein reductase]	[Oxidized NADPH---hemoprotein reductase]	green
+aromatic O-demethylase, reductase subunit	1.6.2.-	o-Methoxyphenol	Catechol	green
+aromatic O-demethylase, reductase subunit	1.6.2.-	o-Methoxyphenol	Formaldehyde	green
+aromatic O-demethylase, reductase subunit	1.6.2.-	o-Methoxyphenol	H2O	green
+aromatic O-demethylase, reductase subunit	1.6.2.-	o-Methoxyphenol	[Oxidized NADPH---hemoprotein reductase]	green
+benzaldehyde dehydrogenase (NAD)	1.2.1.28	4-Hydroxybenzaldehyde	4-Hydroxybenzoate	green
+benzaldehyde dehydrogenase (NAD)	1.2.1.28	4-Hydroxybenzaldehyde	H+	green
+benzaldehyde dehydrogenase (NAD)	1.2.1.28	4-Hydroxybenzaldehyde	NADH	green
+benzaldehyde dehydrogenase (NAD)	1.2.1.28	Benzaldehyde	Benzoate	green
+benzaldehyde dehydrogenase (NAD)	1.2.1.28	Benzaldehyde	H+	green
+benzaldehyde dehydrogenase (NAD)	1.2.1.28	Benzaldehyde	NADH	green
+benzaldehyde dehydrogenase (NAD)	1.2.1.28	H2O	4-Hydroxybenzoate	green
+benzaldehyde dehydrogenase (NAD)	1.2.1.28	H2O	Benzoate	green
+benzaldehyde dehydrogenase (NAD)	1.2.1.28	H2O	H+	green
+benzaldehyde dehydrogenase (NAD)	1.2.1.28	H2O	NADH	green
+benzaldehyde dehydrogenase (NAD)	1.2.1.28	NAD+	4-Hydroxybenzoate	green
+benzaldehyde dehydrogenase (NAD)	1.2.1.28	NAD+	Benzoate	green
+benzaldehyde dehydrogenase (NAD)	1.2.1.28	NAD+	H+	green
+benzaldehyde dehydrogenase (NAD)	1.2.1.28	NAD+	NADH	green
+benzoate 4-monooxygenase	1.14.14.92	4-Hydroxybenzoate	Benzoate	white
+benzoate 4-monooxygenase	1.14.14.92	4-Hydroxybenzoate	Oxygen	white
+benzoate 4-monooxygenase	1.14.14.92	4-Hydroxybenzoate	[Reduced NADPH---hemoprotein reductase]	white
+benzoate 4-monooxygenase	1.14.14.92	Benzoate	4-Hydroxybenzoate	white
+benzoate 4-monooxygenase	1.14.14.92	Benzoate	H2O	white
+benzoate 4-monooxygenase	1.14.14.92	Benzoate	[Oxidized NADPH---hemoprotein reductase]	white
+benzoate 4-monooxygenase	1.14.14.92	H2O	Benzoate	white
+benzoate 4-monooxygenase	1.14.14.92	H2O	Oxygen	white
+benzoate 4-monooxygenase	1.14.14.92	H2O	[Reduced NADPH---hemoprotein reductase]	white
+benzoate 4-monooxygenase	1.14.14.92	Oxygen	4-Hydroxybenzoate	white
+benzoate 4-monooxygenase	1.14.14.92	Oxygen	H2O	white
+benzoate 4-monooxygenase	1.14.14.92	Oxygen	[Oxidized NADPH---hemoprotein reductase]	white
+benzoate 4-monooxygenase	1.14.14.92	[Oxidized NADPH---hemoprotein reductase]	Benzoate	white
+benzoate 4-monooxygenase	1.14.14.92	[Oxidized NADPH---hemoprotein reductase]	Oxygen	white
+benzoate 4-monooxygenase	1.14.14.92	[Oxidized NADPH---hemoprotein reductase]	[Reduced NADPH---hemoprotein reductase]	white
+benzoate 4-monooxygenase	1.14.14.92	[Reduced NADPH---hemoprotein reductase]	4-Hydroxybenzoate	white
+benzoate 4-monooxygenase	1.14.14.92	[Reduced NADPH---hemoprotein reductase]	H2O	white
+benzoate 4-monooxygenase	1.14.14.92	[Reduced NADPH---hemoprotein reductase]	[Oxidized NADPH---hemoprotein reductase]	white
+benzoate-CoA ligase	6.2.1.25	AMP	ATP	white
+benzoate-CoA ligase	6.2.1.25	AMP	Benzoate	white
+benzoate-CoA ligase	6.2.1.25	AMP	CoA	white
+benzoate-CoA ligase	6.2.1.25	ATP	AMP	white
+benzoate-CoA ligase	6.2.1.25	ATP	Benzoyl-CoA	white
+benzoate-CoA ligase	6.2.1.25	ATP	Diphosphate	white
+benzoate-CoA ligase	6.2.1.25	Benzoate	AMP	white
+benzoate-CoA ligase	6.2.1.25	Benzoate	Benzoyl-CoA	white
+benzoate-CoA ligase	6.2.1.25	Benzoate	Diphosphate	white
+benzoate-CoA ligase	6.2.1.25	Benzoyl-CoA	ATP	white
+benzoate-CoA ligase	6.2.1.25	Benzoyl-CoA	Benzoate	white
+benzoate-CoA ligase	6.2.1.25	Benzoyl-CoA	CoA	white
+benzoate-CoA ligase	6.2.1.25	CoA	AMP	white
+benzoate-CoA ligase	6.2.1.25	CoA	Benzoyl-CoA	white
+benzoate-CoA ligase	6.2.1.25	CoA	Diphosphate	white
+benzoate-CoA ligase	6.2.1.25	Diphosphate	ATP	white
+benzoate-CoA ligase	6.2.1.25	Diphosphate	Benzoate	white
+benzoate-CoA ligase	6.2.1.25	Diphosphate	CoA	white
+benzoylformate decarboxylase	4.1.1.7	4-Hydroxyphenylglyoxylate	4-Hydroxybenzaldehyde	green
+benzoylformate decarboxylase	4.1.1.7	4-Hydroxyphenylglyoxylate	CO2	green
+benzoylformate decarboxylase	4.1.1.7	alpha-Oxo-benzeneacetic acid	Benzaldehyde	green
+benzoylformate decarboxylase	4.1.1.7	alpha-Oxo-benzeneacetic acid	CO2	green
+cytochrome P450 / NADPH-cytochrome P450 reductase	1.14.14.1	6-Hydroxymelatonin	Melatonin	white
+cytochrome P450 / NADPH-cytochrome P450 reductase	1.14.14.1	6-Hydroxymelatonin	Oxygen	white
+cytochrome P450 / NADPH-cytochrome P450 reductase	1.14.14.1	6-Hydroxymelatonin	[Reduced NADPH---hemoprotein reductase]	white
+cytochrome P450 / NADPH-cytochrome P450 reductase	1.14.14.1	H2O	Melatonin	white
+cytochrome P450 / NADPH-cytochrome P450 reductase	1.14.14.1	H2O	Oxygen	white
+cytochrome P450 / NADPH-cytochrome P450 reductase	1.14.14.1	H2O	[Reduced NADPH---hemoprotein reductase]	white
+cytochrome P450 / NADPH-cytochrome P450 reductase	1.14.14.1	Melatonin	6-Hydroxymelatonin	white
+cytochrome P450 / NADPH-cytochrome P450 reductase	1.14.14.1	Melatonin	H2O	white
+cytochrome P450 / NADPH-cytochrome P450 reductase	1.14.14.1	Melatonin	[Oxidized NADPH---hemoprotein reductase]	white
+cytochrome P450 / NADPH-cytochrome P450 reductase	1.14.14.1	Oxygen	6-Hydroxymelatonin	white
+cytochrome P450 / NADPH-cytochrome P450 reductase	1.14.14.1	Oxygen	H2O	white
+cytochrome P450 / NADPH-cytochrome P450 reductase	1.14.14.1	Oxygen	[Oxidized NADPH---hemoprotein reductase]	white
+cytochrome P450 / NADPH-cytochrome P450 reductase	1.14.14.1	[Oxidized NADPH---hemoprotein reductase]	Melatonin	white
+cytochrome P450 / NADPH-cytochrome P450 reductase	1.14.14.1	[Oxidized NADPH---hemoprotein reductase]	Oxygen	white
+cytochrome P450 / NADPH-cytochrome P450 reductase	1.14.14.1	[Oxidized NADPH---hemoprotein reductase]	[Reduced NADPH---hemoprotein reductase]	white
+cytochrome P450 / NADPH-cytochrome P450 reductase	1.14.14.1	[Reduced NADPH---hemoprotein reductase]	6-Hydroxymelatonin	white
+cytochrome P450 / NADPH-cytochrome P450 reductase	1.14.14.1	[Reduced NADPH---hemoprotein reductase]	H2O	white
+cytochrome P450 / NADPH-cytochrome P450 reductase	1.14.14.1	[Reduced NADPH---hemoprotein reductase]	[Oxidized NADPH---hemoprotein reductase]	white
+enoyl-CoA hydratase	4.2.1.17	(S)-3-Hydroxybutanoyl-CoA	Crotonoyl-CoA	green
+enoyl-CoA hydratase	4.2.1.17	(S)-3-Hydroxybutanoyl-CoA	H2O	green
+flavin prenyltransferase	2.5.1.129	4-Hydroxybenzoate	CO2	white
+flavin prenyltransferase	2.5.1.129	4-Hydroxybenzoate	Phenol	white
+flavin prenyltransferase	2.5.1.129	CO2	4-Hydroxybenzoate	white
+flavin prenyltransferase	2.5.1.129	Phenol	4-Hydroxybenzoate	white
+gallate decarboxylase subunit B	4.1.1.59	1,2,3-Trihydroxybenzene	Gallate	white
+gallate decarboxylase subunit B	4.1.1.59	CO2	Gallate	white
+gallate decarboxylase subunit B	4.1.1.59	Gallate	1,2,3-Trihydroxybenzene	white
+gallate decarboxylase subunit B	4.1.1.59	Gallate	CO2	white
+gallate decarboxylase subunit C	4.1.1.59	1,2,3-Trihydroxybenzene	Gallate	white
+gallate decarboxylase subunit C	4.1.1.59	CO2	Gallate	white
+gallate decarboxylase subunit C	4.1.1.59	Gallate	1,2,3-Trihydroxybenzene	white
+gallate decarboxylase subunit C	4.1.1.59	Gallate	CO2	white
+gallate decarboxylase subunit D	4.1.1.59	1,2,3-Trihydroxybenzene	Gallate	white
+gallate decarboxylase subunit D	4.1.1.59	CO2	Gallate	white
+gallate decarboxylase subunit D	4.1.1.59	Gallate	1,2,3-Trihydroxybenzene	white
+gallate decarboxylase subunit D	4.1.1.59	Gallate	CO2	white
+gallate dioxygenase	1.13.11.57	(1E,3E)-4-Hydroxybuta-1,3-diene-1,2,4-tricarboxylate	Gallate	white
+gallate dioxygenase	1.13.11.57	(1E,3E)-4-Hydroxybuta-1,3-diene-1,2,4-tricarboxylate	Oxygen	white
+gallate dioxygenase	1.13.11.57	Gallate	(1E,3E)-4-Hydroxybuta-1,3-diene-1,2,4-tricarboxylate	white
+gallate dioxygenase	1.13.11.57	Oxygen	(1E,3E)-4-Hydroxybuta-1,3-diene-1,2,4-tricarboxylate	white
+mandelamide amidase	3.5.1.86	(R)-Mandelamide	(R)-Mandelate	white
+mandelamide amidase	3.5.1.86	(R)-Mandelamide	Ammonia	white
+mandelamide amidase	3.5.1.86	(R)-Mandelate	(R)-Mandelamide	white
+mandelamide amidase	3.5.1.86	(R)-Mandelate	H2O	white
+mandelamide amidase	3.5.1.86	Ammonia	(R)-Mandelamide	white
+mandelamide amidase	3.5.1.86	Ammonia	H2O	white
+mandelamide amidase	3.5.1.86	H2O	(R)-Mandelate	white
+mandelamide amidase	3.5.1.86	H2O	Ammonia	white
+mandelate racemase	5.1.2.2	(R)-Mandelate	(S)-Mandelate	white
+mandelate racemase	5.1.2.2	(S)-Mandelate	(R)-Mandelate	white
+methoxylated aromatic compound---corrinoid protein Co-methyltransferase	2.1.1.382	3,4-Dihydroxybenzoate	Cob(I)alamin	white
+methoxylated aromatic compound---corrinoid protein Co-methyltransferase	2.1.1.382	3,4-Dihydroxybenzoate	Vanillate	white
+methoxylated aromatic compound---corrinoid protein Co-methyltransferase	2.1.1.382	Cob(I)alamin	3,4-Dihydroxybenzoate	white
+methoxylated aromatic compound---corrinoid protein Co-methyltransferase	2.1.1.382	Cob(I)alamin	Methylcobalamin	white
+methoxylated aromatic compound---corrinoid protein Co-methyltransferase	2.1.1.382	Methylcobalamin	Cob(I)alamin	white
+methoxylated aromatic compound---corrinoid protein Co-methyltransferase	2.1.1.382	Methylcobalamin	Vanillate	white
+methoxylated aromatic compound---corrinoid protein Co-methyltransferase	2.1.1.382	Vanillate	3,4-Dihydroxybenzoate	white
+methoxylated aromatic compound---corrinoid protein Co-methyltransferase	2.1.1.382	Vanillate	Methylcobalamin	white
+monooxygenase	1.14.13.-	H+	H2O	green
+monooxygenase	1.14.13.-	H+	NADP+	green
+monooxygenase	1.14.13.-	H+	Thiobenzamide S,S-dioxide	green
+monooxygenase	1.14.13.-	H+	Thiobenzamide S-oxide	green
+monooxygenase	1.14.13.-	NADPH	H2O	green
+monooxygenase	1.14.13.-	NADPH	NADP+	green
+monooxygenase	1.14.13.-	NADPH	Thiobenzamide S,S-dioxide	green
+monooxygenase	1.14.13.-	NADPH	Thiobenzamide S-oxide	green
+monooxygenase	1.14.13.-	Oxygen	H2O	green
+monooxygenase	1.14.13.-	Oxygen	NADP+	green
+monooxygenase	1.14.13.-	Oxygen	Thiobenzamide S,S-dioxide	green
+monooxygenase	1.14.13.-	Oxygen	Thiobenzamide S-oxide	green
+monooxygenase	1.14.13.-	Thiobenzamide	H2O	green
+monooxygenase	1.14.13.-	Thiobenzamide	NADP+	green
+monooxygenase	1.14.13.-	Thiobenzamide	Thiobenzamide S-oxide	green
+monooxygenase	1.14.13.-	Thiobenzamide S-oxide	H2O	green
+monooxygenase	1.14.13.-	Thiobenzamide S-oxide	NADP+	green
+monooxygenase	1.14.13.-	Thiobenzamide S-oxide	Thiobenzamide S,S-dioxide	green
+naphthalene 1,2-dioxygenase ferredoxin component	1.14.12.12	H+	NAD+	white
+naphthalene 1,2-dioxygenase ferredoxin component	1.14.12.12	H+	cis-1,2-Dihydronaphthalene-1,2-diol	white
+naphthalene 1,2-dioxygenase ferredoxin component	1.14.12.12	NAD+	H+	white
+naphthalene 1,2-dioxygenase ferredoxin component	1.14.12.12	NAD+	NADH	white
+naphthalene 1,2-dioxygenase ferredoxin component	1.14.12.12	NAD+	Naphthalene	white
+naphthalene 1,2-dioxygenase ferredoxin component	1.14.12.12	NAD+	Oxygen	white
+naphthalene 1,2-dioxygenase ferredoxin component	1.14.12.12	NADH	NAD+	white
+naphthalene 1,2-dioxygenase ferredoxin component	1.14.12.12	NADH	cis-1,2-Dihydronaphthalene-1,2-diol	white
+naphthalene 1,2-dioxygenase ferredoxin component	1.14.12.12	Naphthalene	NAD+	white
+naphthalene 1,2-dioxygenase ferredoxin component	1.14.12.12	Naphthalene	cis-1,2-Dihydronaphthalene-1,2-diol	white
+naphthalene 1,2-dioxygenase ferredoxin component	1.14.12.12	Oxygen	NAD+	white
+naphthalene 1,2-dioxygenase ferredoxin component	1.14.12.12	Oxygen	cis-1,2-Dihydronaphthalene-1,2-diol	white
+naphthalene 1,2-dioxygenase ferredoxin component	1.14.12.12	cis-1,2-Dihydronaphthalene-1,2-diol	H+	white
+naphthalene 1,2-dioxygenase ferredoxin component	1.14.12.12	cis-1,2-Dihydronaphthalene-1,2-diol	NADH	white
+naphthalene 1,2-dioxygenase ferredoxin component	1.14.12.12	cis-1,2-Dihydronaphthalene-1,2-diol	Naphthalene	white
+naphthalene 1,2-dioxygenase ferredoxin component	1.14.12.12	cis-1,2-Dihydronaphthalene-1,2-diol	Oxygen	white
+naphthalene 1,2-dioxygenase ferredoxin reductase component	1.18.1.7	H+	NAD+	white
+naphthalene 1,2-dioxygenase ferredoxin reductase component	1.18.1.7	H+	cis-1,2-Dihydronaphthalene-1,2-diol	white
+naphthalene 1,2-dioxygenase ferredoxin reductase component	1.18.1.7	NAD+	H+	white
+naphthalene 1,2-dioxygenase ferredoxin reductase component	1.18.1.7	NAD+	NADH	white
+naphthalene 1,2-dioxygenase ferredoxin reductase component	1.18.1.7	NAD+	Naphthalene	white
+naphthalene 1,2-dioxygenase ferredoxin reductase component	1.18.1.7	NAD+	Oxygen	white
+naphthalene 1,2-dioxygenase ferredoxin reductase component	1.18.1.7	NADH	NAD+	white
+naphthalene 1,2-dioxygenase ferredoxin reductase component	1.18.1.7	NADH	cis-1,2-Dihydronaphthalene-1,2-diol	white
+naphthalene 1,2-dioxygenase ferredoxin reductase component	1.18.1.7	Naphthalene	NAD+	white
+naphthalene 1,2-dioxygenase ferredoxin reductase component	1.18.1.7	Naphthalene	cis-1,2-Dihydronaphthalene-1,2-diol	white
+naphthalene 1,2-dioxygenase ferredoxin reductase component	1.18.1.7	Oxygen	NAD+	white
+naphthalene 1,2-dioxygenase ferredoxin reductase component	1.18.1.7	Oxygen	cis-1,2-Dihydronaphthalene-1,2-diol	white
+naphthalene 1,2-dioxygenase ferredoxin reductase component	1.18.1.7	cis-1,2-Dihydronaphthalene-1,2-diol	H+	white
+naphthalene 1,2-dioxygenase ferredoxin reductase component	1.18.1.7	cis-1,2-Dihydronaphthalene-1,2-diol	NADH	white
+naphthalene 1,2-dioxygenase ferredoxin reductase component	1.18.1.7	cis-1,2-Dihydronaphthalene-1,2-diol	Naphthalene	white
+naphthalene 1,2-dioxygenase ferredoxin reductase component	1.18.1.7	cis-1,2-Dihydronaphthalene-1,2-diol	Oxygen	white
+naphthalene 1,2-dioxygenase subunit alpha	1.14.12.12	H+	NAD+	white
+naphthalene 1,2-dioxygenase subunit alpha	1.14.12.12	H+	cis-1,2-Dihydronaphthalene-1,2-diol	white
+naphthalene 1,2-dioxygenase subunit alpha	1.14.12.12	NAD+	H+	white
+naphthalene 1,2-dioxygenase subunit alpha	1.14.12.12	NAD+	NADH	white
+naphthalene 1,2-dioxygenase subunit alpha	1.14.12.12	NAD+	Naphthalene	white
+naphthalene 1,2-dioxygenase subunit alpha	1.14.12.12	NAD+	Oxygen	white
+naphthalene 1,2-dioxygenase subunit alpha	1.14.12.12	NADH	NAD+	white
+naphthalene 1,2-dioxygenase subunit alpha	1.14.12.12	NADH	cis-1,2-Dihydronaphthalene-1,2-diol	white
+naphthalene 1,2-dioxygenase subunit alpha	1.14.12.12	Naphthalene	NAD+	white
+naphthalene 1,2-dioxygenase subunit alpha	1.14.12.12	Naphthalene	cis-1,2-Dihydronaphthalene-1,2-diol	white
+naphthalene 1,2-dioxygenase subunit alpha	1.14.12.12	Oxygen	NAD+	white
+naphthalene 1,2-dioxygenase subunit alpha	1.14.12.12	Oxygen	cis-1,2-Dihydronaphthalene-1,2-diol	white
+naphthalene 1,2-dioxygenase subunit alpha	1.14.12.12	cis-1,2-Dihydronaphthalene-1,2-diol	H+	white
+naphthalene 1,2-dioxygenase subunit alpha	1.14.12.12	cis-1,2-Dihydronaphthalene-1,2-diol	NADH	white
+naphthalene 1,2-dioxygenase subunit alpha	1.14.12.12	cis-1,2-Dihydronaphthalene-1,2-diol	Naphthalene	white
+naphthalene 1,2-dioxygenase subunit alpha	1.14.12.12	cis-1,2-Dihydronaphthalene-1,2-diol	Oxygen	white
+naphthalene 1,2-dioxygenase subunit beta	1.14.12.12	H+	NAD+	white
+naphthalene 1,2-dioxygenase subunit beta	1.14.12.12	H+	cis-1,2-Dihydronaphthalene-1,2-diol	white
+naphthalene 1,2-dioxygenase subunit beta	1.14.12.12	NAD+	H+	white
+naphthalene 1,2-dioxygenase subunit beta	1.14.12.12	NAD+	NADH	white
+naphthalene 1,2-dioxygenase subunit beta	1.14.12.12	NAD+	Naphthalene	white
+naphthalene 1,2-dioxygenase subunit beta	1.14.12.12	NAD+	Oxygen	white
+naphthalene 1,2-dioxygenase subunit beta	1.14.12.12	NADH	NAD+	white
+naphthalene 1,2-dioxygenase subunit beta	1.14.12.12	NADH	cis-1,2-Dihydronaphthalene-1,2-diol	white
+naphthalene 1,2-dioxygenase subunit beta	1.14.12.12	Naphthalene	NAD+	white
+naphthalene 1,2-dioxygenase subunit beta	1.14.12.12	Naphthalene	cis-1,2-Dihydronaphthalene-1,2-diol	white
+naphthalene 1,2-dioxygenase subunit beta	1.14.12.12	Oxygen	NAD+	white
+naphthalene 1,2-dioxygenase subunit beta	1.14.12.12	Oxygen	cis-1,2-Dihydronaphthalene-1,2-diol	white
+naphthalene 1,2-dioxygenase subunit beta	1.14.12.12	cis-1,2-Dihydronaphthalene-1,2-diol	H+	white
+naphthalene 1,2-dioxygenase subunit beta	1.14.12.12	cis-1,2-Dihydronaphthalene-1,2-diol	NADH	white
+naphthalene 1,2-dioxygenase subunit beta	1.14.12.12	cis-1,2-Dihydronaphthalene-1,2-diol	Naphthalene	white
+naphthalene 1,2-dioxygenase subunit beta	1.14.12.12	cis-1,2-Dihydronaphthalene-1,2-diol	Oxygen	white
+nitrilase	3.5.5.1	Benzonitrile	Ammonia	green
+nitrilase	3.5.5.1	Benzonitrile	Benzoate	green
+nitrilase	3.5.5.1	H2O	Ammonia	green
+nitrilase	3.5.5.1	H2O	Benzoate	green
+nitrile hydratase subunit alpha	4.2.1.84	Benzonitrile	Benzamide	green
+nitrile hydratase subunit alpha	4.2.1.84	H2O	Benzamide	green
+nitrile hydratase subunit beta	4.2.1.84	Benzonitrile	Benzamide	green
+nitrile hydratase subunit beta	4.2.1.84	H2O	Benzamide	green
+nitrobenzene nitroreductase	1.7.1.16	H+	Hydroxylaminobenzene	white
+nitrobenzene nitroreductase	1.7.1.16	H+	NADP+	white
+nitrobenzene nitroreductase	1.7.1.16	Hydroxylaminobenzene	H+	white
+nitrobenzene nitroreductase	1.7.1.16	Hydroxylaminobenzene	NADPH	white
+nitrobenzene nitroreductase	1.7.1.16	Hydroxylaminobenzene	Nitrosobenzene	white
+nitrobenzene nitroreductase	1.7.1.16	NADP+	H+	white
+nitrobenzene nitroreductase	1.7.1.16	NADP+	NADPH	white
+nitrobenzene nitroreductase	1.7.1.16	NADP+	Nitrosobenzene	white
+nitrobenzene nitroreductase	1.7.1.16	NADPH	Hydroxylaminobenzene	white
+nitrobenzene nitroreductase	1.7.1.16	NADPH	NADP+	white
+nitrobenzene nitroreductase	1.7.1.16	Nitrosobenzene	Hydroxylaminobenzene	white
+nitrobenzene nitroreductase	1.7.1.16	Nitrosobenzene	NADP+	white
+p-benzoquinone reductase (NADPH)	1.6.5.6	H+	Hydroquinone	white
+p-benzoquinone reductase (NADPH)	1.6.5.6	H+	NADP+	white
+p-benzoquinone reductase (NADPH)	1.6.5.6	Hydroquinone	H+	white
+p-benzoquinone reductase (NADPH)	1.6.5.6	Hydroquinone	NADPH	white
+p-benzoquinone reductase (NADPH)	1.6.5.6	Hydroquinone	p-Benzoquinone	white
+p-benzoquinone reductase (NADPH)	1.6.5.6	NADP+	H+	white
+p-benzoquinone reductase (NADPH)	1.6.5.6	NADP+	NADPH	white
+p-benzoquinone reductase (NADPH)	1.6.5.6	NADP+	p-Benzoquinone	white
+p-benzoquinone reductase (NADPH)	1.6.5.6	NADPH	Hydroquinone	white
+p-benzoquinone reductase (NADPH)	1.6.5.6	NADPH	NADP+	white
+p-benzoquinone reductase (NADPH)	1.6.5.6	p-Benzoquinone	Hydroquinone	white
+p-benzoquinone reductase (NADPH)	1.6.5.6	p-Benzoquinone	NADP+	white
+phenol 2-monooxygenase (NADPH)	1.14.13.7	Catechol	H+	white
+phenol 2-monooxygenase (NADPH)	1.14.13.7	Catechol	NADPH	white
+phenol 2-monooxygenase (NADPH)	1.14.13.7	Catechol	Oxygen	white
+phenol 2-monooxygenase (NADPH)	1.14.13.7	Catechol	Phenol	white
+phenol 2-monooxygenase (NADPH)	1.14.13.7	H+	Catechol	white
+phenol 2-monooxygenase (NADPH)	1.14.13.7	H+	H2O	white
+phenol 2-monooxygenase (NADPH)	1.14.13.7	H+	NADP+	white
+phenol 2-monooxygenase (NADPH)	1.14.13.7	H2O	H+	white
+phenol 2-monooxygenase (NADPH)	1.14.13.7	H2O	NADPH	white
+phenol 2-monooxygenase (NADPH)	1.14.13.7	H2O	Oxygen	white
+phenol 2-monooxygenase (NADPH)	1.14.13.7	H2O	Phenol	white
+phenol 2-monooxygenase (NADPH)	1.14.13.7	NADP+	H+	white
+phenol 2-monooxygenase (NADPH)	1.14.13.7	NADP+	NADPH	white
+phenol 2-monooxygenase (NADPH)	1.14.13.7	NADP+	Oxygen	white
+phenol 2-monooxygenase (NADPH)	1.14.13.7	NADP+	Phenol	white
+phenol 2-monooxygenase (NADPH)	1.14.13.7	NADPH	Catechol	white
+phenol 2-monooxygenase (NADPH)	1.14.13.7	NADPH	H2O	white
+phenol 2-monooxygenase (NADPH)	1.14.13.7	NADPH	NADP+	white
+phenol 2-monooxygenase (NADPH)	1.14.13.7	Oxygen	Catechol	white
+phenol 2-monooxygenase (NADPH)	1.14.13.7	Oxygen	H2O	white
+phenol 2-monooxygenase (NADPH)	1.14.13.7	Oxygen	NADP+	white
+phenol 2-monooxygenase (NADPH)	1.14.13.7	Phenol	Catechol	white
+phenol 2-monooxygenase (NADPH)	1.14.13.7	Phenol	H2O	white
+phenol 2-monooxygenase (NADPH)	1.14.13.7	Phenol	NADP+	white
+phenol phosphorylase subunit alpha	2.7.1.238	AMP	ATP	white
+phenol phosphorylase subunit alpha	2.7.1.238	AMP	H2O	white
+phenol phosphorylase subunit alpha	2.7.1.238	AMP	Phenol	white
+phenol phosphorylase subunit alpha	2.7.1.238	ATP	AMP	white
+phenol phosphorylase subunit alpha	2.7.1.238	ATP	Orthophosphate	white
+phenol phosphorylase subunit alpha	2.7.1.238	ATP	Phenolic phosphate	white
+phenol phosphorylase subunit alpha	2.7.1.238	H2O	AMP	white
+phenol phosphorylase subunit alpha	2.7.1.238	H2O	Orthophosphate	white
+phenol phosphorylase subunit alpha	2.7.1.238	H2O	Phenolic phosphate	white
+phenol phosphorylase subunit alpha	2.7.1.238	Orthophosphate	ATP	white
+phenol phosphorylase subunit alpha	2.7.1.238	Orthophosphate	H2O	white
+phenol phosphorylase subunit alpha	2.7.1.238	Orthophosphate	Phenol	white
+phenol phosphorylase subunit alpha	2.7.1.238	Phenol	AMP	white
+phenol phosphorylase subunit alpha	2.7.1.238	Phenol	Orthophosphate	white
+phenol phosphorylase subunit alpha	2.7.1.238	Phenol	Phenolic phosphate	white
+phenol phosphorylase subunit alpha	2.7.1.238	Phenolic phosphate	ATP	white
+phenol phosphorylase subunit alpha	2.7.1.238	Phenolic phosphate	H2O	white
+phenol phosphorylase subunit alpha	2.7.1.238	Phenolic phosphate	Phenol	white
+phenol phosphorylase subunit beta	2.7.1.238	AMP	ATP	white
+phenol phosphorylase subunit beta	2.7.1.238	AMP	H2O	white
+phenol phosphorylase subunit beta	2.7.1.238	AMP	Phenol	white
+phenol phosphorylase subunit beta	2.7.1.238	ATP	AMP	white
+phenol phosphorylase subunit beta	2.7.1.238	ATP	Orthophosphate	white
+phenol phosphorylase subunit beta	2.7.1.238	ATP	Phenolic phosphate	white
+phenol phosphorylase subunit beta	2.7.1.238	H2O	AMP	white
+phenol phosphorylase subunit beta	2.7.1.238	H2O	Orthophosphate	white
+phenol phosphorylase subunit beta	2.7.1.238	H2O	Phenolic phosphate	white
+phenol phosphorylase subunit beta	2.7.1.238	Orthophosphate	ATP	white
+phenol phosphorylase subunit beta	2.7.1.238	Orthophosphate	H2O	white
+phenol phosphorylase subunit beta	2.7.1.238	Orthophosphate	Phenol	white
+phenol phosphorylase subunit beta	2.7.1.238	Phenol	AMP	white
+phenol phosphorylase subunit beta	2.7.1.238	Phenol	Orthophosphate	white
+phenol phosphorylase subunit beta	2.7.1.238	Phenol	Phenolic phosphate	white
+phenol phosphorylase subunit beta	2.7.1.238	Phenolic phosphate	ATP	white
+phenol phosphorylase subunit beta	2.7.1.238	Phenolic phosphate	H2O	white
+phenol phosphorylase subunit beta	2.7.1.238	Phenolic phosphate	Phenol	white
+phenol phosphorylase subunit delta gamma	2.7.1.238	AMP	ATP	white
+phenol phosphorylase subunit delta gamma	2.7.1.238	AMP	H2O	white
+phenol phosphorylase subunit delta gamma	2.7.1.238	AMP	Phenol	white
+phenol phosphorylase subunit delta gamma	2.7.1.238	ATP	AMP	white
+phenol phosphorylase subunit delta gamma	2.7.1.238	ATP	Orthophosphate	white
+phenol phosphorylase subunit delta gamma	2.7.1.238	ATP	Phenolic phosphate	white
+phenol phosphorylase subunit delta gamma	2.7.1.238	H2O	AMP	white
+phenol phosphorylase subunit delta gamma	2.7.1.238	H2O	Orthophosphate	white
+phenol phosphorylase subunit delta gamma	2.7.1.238	H2O	Phenolic phosphate	white
+phenol phosphorylase subunit delta gamma	2.7.1.238	Orthophosphate	ATP	white
+phenol phosphorylase subunit delta gamma	2.7.1.238	Orthophosphate	H2O	white
+phenol phosphorylase subunit delta gamma	2.7.1.238	Orthophosphate	Phenol	white
+phenol phosphorylase subunit delta gamma	2.7.1.238	Phenol	AMP	white
+phenol phosphorylase subunit delta gamma	2.7.1.238	Phenol	Orthophosphate	white
+phenol phosphorylase subunit delta gamma	2.7.1.238	Phenol	Phenolic phosphate	white
+phenol phosphorylase subunit delta gamma	2.7.1.238	Phenolic phosphate	ATP	white
+phenol phosphorylase subunit delta gamma	2.7.1.238	Phenolic phosphate	H2O	white
+phenol phosphorylase subunit delta gamma	2.7.1.238	Phenolic phosphate	Phenol	white
+phenyl-phosphate phosphatase/carboxylase subunit alpha	4.1.1.123	4-Hydroxybenzoate	CO2	white
+phenyl-phosphate phosphatase/carboxylase subunit alpha	4.1.1.123	4-Hydroxybenzoate	H2O	white
+phenyl-phosphate phosphatase/carboxylase subunit alpha	4.1.1.123	4-Hydroxybenzoate	Phenolic phosphate	white
+phenyl-phosphate phosphatase/carboxylase subunit alpha	4.1.1.123	CO2	4-Hydroxybenzoate	white
+phenyl-phosphate phosphatase/carboxylase subunit alpha	4.1.1.123	CO2	Orthophosphate	white
+phenyl-phosphate phosphatase/carboxylase subunit alpha	4.1.1.123	H2O	4-Hydroxybenzoate	white
+phenyl-phosphate phosphatase/carboxylase subunit alpha	4.1.1.123	H2O	Orthophosphate	white
+phenyl-phosphate phosphatase/carboxylase subunit alpha	4.1.1.123	Orthophosphate	CO2	white
+phenyl-phosphate phosphatase/carboxylase subunit alpha	4.1.1.123	Orthophosphate	H2O	white
+phenyl-phosphate phosphatase/carboxylase subunit alpha	4.1.1.123	Orthophosphate	Phenolic phosphate	white
+phenyl-phosphate phosphatase/carboxylase subunit alpha	4.1.1.123	Phenolic phosphate	4-Hydroxybenzoate	white
+phenyl-phosphate phosphatase/carboxylase subunit alpha	4.1.1.123	Phenolic phosphate	Orthophosphate	white
+phenyl-phosphate phosphatase/carboxylase subunit beta	4.1.1.123	4-Hydroxybenzoate	CO2	white
+phenyl-phosphate phosphatase/carboxylase subunit beta	4.1.1.123	4-Hydroxybenzoate	H2O	white
+phenyl-phosphate phosphatase/carboxylase subunit beta	4.1.1.123	4-Hydroxybenzoate	Phenolic phosphate	white
+phenyl-phosphate phosphatase/carboxylase subunit beta	4.1.1.123	CO2	4-Hydroxybenzoate	white
+phenyl-phosphate phosphatase/carboxylase subunit beta	4.1.1.123	CO2	Orthophosphate	white
+phenyl-phosphate phosphatase/carboxylase subunit beta	4.1.1.123	H2O	4-Hydroxybenzoate	white
+phenyl-phosphate phosphatase/carboxylase subunit beta	4.1.1.123	H2O	Orthophosphate	white
+phenyl-phosphate phosphatase/carboxylase subunit beta	4.1.1.123	Orthophosphate	CO2	white
+phenyl-phosphate phosphatase/carboxylase subunit beta	4.1.1.123	Orthophosphate	H2O	white
+phenyl-phosphate phosphatase/carboxylase subunit beta	4.1.1.123	Orthophosphate	Phenolic phosphate	white
+phenyl-phosphate phosphatase/carboxylase subunit beta	4.1.1.123	Phenolic phosphate	4-Hydroxybenzoate	white
+phenyl-phosphate phosphatase/carboxylase subunit beta	4.1.1.123	Phenolic phosphate	Orthophosphate	white
+phenyl-phosphate phosphatase/carboxylase subunit delta	4.1.1.123	4-Hydroxybenzoate	CO2	white
+phenyl-phosphate phosphatase/carboxylase subunit delta	4.1.1.123	4-Hydroxybenzoate	H2O	white
+phenyl-phosphate phosphatase/carboxylase subunit delta	4.1.1.123	4-Hydroxybenzoate	Phenolic phosphate	white
+phenyl-phosphate phosphatase/carboxylase subunit delta	4.1.1.123	CO2	4-Hydroxybenzoate	white
+phenyl-phosphate phosphatase/carboxylase subunit delta	4.1.1.123	CO2	Orthophosphate	white
+phenyl-phosphate phosphatase/carboxylase subunit delta	4.1.1.123	H2O	4-Hydroxybenzoate	white
+phenyl-phosphate phosphatase/carboxylase subunit delta	4.1.1.123	H2O	Orthophosphate	white
+phenyl-phosphate phosphatase/carboxylase subunit delta	4.1.1.123	Orthophosphate	CO2	white
+phenyl-phosphate phosphatase/carboxylase subunit delta	4.1.1.123	Orthophosphate	H2O	white
+phenyl-phosphate phosphatase/carboxylase subunit delta	4.1.1.123	Orthophosphate	Phenolic phosphate	white
+phenyl-phosphate phosphatase/carboxylase subunit delta	4.1.1.123	Phenolic phosphate	4-Hydroxybenzoate	white
+phenyl-phosphate phosphatase/carboxylase subunit delta	4.1.1.123	Phenolic phosphate	Orthophosphate	white
+phenyl-phosphate phosphatase/carboxylase subunit gamma	4.1.1.123	4-Hydroxybenzoate	CO2	white
+phenyl-phosphate phosphatase/carboxylase subunit gamma	4.1.1.123	4-Hydroxybenzoate	H2O	white
+phenyl-phosphate phosphatase/carboxylase subunit gamma	4.1.1.123	4-Hydroxybenzoate	Phenolic phosphate	white
+phenyl-phosphate phosphatase/carboxylase subunit gamma	4.1.1.123	CO2	4-Hydroxybenzoate	white
+phenyl-phosphate phosphatase/carboxylase subunit gamma	4.1.1.123	CO2	Orthophosphate	white
+phenyl-phosphate phosphatase/carboxylase subunit gamma	4.1.1.123	H2O	4-Hydroxybenzoate	white
+phenyl-phosphate phosphatase/carboxylase subunit gamma	4.1.1.123	H2O	Orthophosphate	white
+phenyl-phosphate phosphatase/carboxylase subunit gamma	4.1.1.123	Orthophosphate	CO2	white
+phenyl-phosphate phosphatase/carboxylase subunit gamma	4.1.1.123	Orthophosphate	H2O	white
+phenyl-phosphate phosphatase/carboxylase subunit gamma	4.1.1.123	Orthophosphate	Phenolic phosphate	white
+phenyl-phosphate phosphatase/carboxylase subunit gamma	4.1.1.123	Phenolic phosphate	4-Hydroxybenzoate	white
+phenyl-phosphate phosphatase/carboxylase subunit gamma	4.1.1.123	Phenolic phosphate	Orthophosphate	white
+protocatechuate 4,5-dioxygenase, alpha chain	1.13.11.8	3,4-Dihydroxybenzoate	4-Carboxy-2-hydroxymuconate semialdehyde	white
+protocatechuate 4,5-dioxygenase, alpha chain	1.13.11.8	4-Carboxy-2-hydroxymuconate semialdehyde	3,4-Dihydroxybenzoate	white
+protocatechuate 4,5-dioxygenase, alpha chain	1.13.11.8	4-Carboxy-2-hydroxymuconate semialdehyde	Oxygen	white
+protocatechuate 4,5-dioxygenase, alpha chain	1.13.11.8	Oxygen	4-Carboxy-2-hydroxymuconate semialdehyde	white
+protocatechuate 4,5-dioxygenase, beta chain	1.13.11.8	3,4-Dihydroxybenzoate	4-Carboxy-2-hydroxymuconate semialdehyde	white
+protocatechuate 4,5-dioxygenase, beta chain	1.13.11.8	4-Carboxy-2-hydroxymuconate semialdehyde	3,4-Dihydroxybenzoate	white
+protocatechuate 4,5-dioxygenase, beta chain	1.13.11.8	4-Carboxy-2-hydroxymuconate semialdehyde	Oxygen	white
+protocatechuate 4,5-dioxygenase, beta chain	1.13.11.8	Oxygen	4-Carboxy-2-hydroxymuconate semialdehyde	white
+syringate O-demethylase	2.1.1.-	3-O-Methylgallate	Syringic acid	white
+syringate O-demethylase	2.1.1.-	3-O-Methylgallate	Tetrahydrofolate	white
+syringate O-demethylase	2.1.1.-	5-Methyltetrahydrofolate	Syringic acid	white
+syringate O-demethylase	2.1.1.-	5-Methyltetrahydrofolate	Tetrahydrofolate	white
+syringate O-demethylase	2.1.1.-	Syringic acid	3-O-Methylgallate	white
+syringate O-demethylase	2.1.1.-	Syringic acid	5-Methyltetrahydrofolate	white
+syringate O-demethylase	2.1.1.-	Tetrahydrofolate	3-O-Methylgallate	white
+syringate O-demethylase	2.1.1.-	Tetrahydrofolate	5-Methyltetrahydrofolate	white
+vanillate monooxygenase	1.14.13.82	3,4-Dihydroxybenzoate	H+	white
+vanillate monooxygenase	1.14.13.82	3,4-Dihydroxybenzoate	NADH	white
+vanillate monooxygenase	1.14.13.82	3,4-Dihydroxybenzoate	Oxygen	white
+vanillate monooxygenase	1.14.13.82	3,4-Dihydroxybenzoate	Vanillate	white
+vanillate monooxygenase	1.14.13.82	Formaldehyde	H+	white
+vanillate monooxygenase	1.14.13.82	Formaldehyde	NADH	white
+vanillate monooxygenase	1.14.13.82	Formaldehyde	Oxygen	white
+vanillate monooxygenase	1.14.13.82	Formaldehyde	Vanillate	white
+vanillate monooxygenase	1.14.13.82	H+	3,4-Dihydroxybenzoate	white
+vanillate monooxygenase	1.14.13.82	H+	Formaldehyde	white
+vanillate monooxygenase	1.14.13.82	H+	H2O	white
+vanillate monooxygenase	1.14.13.82	H+	NAD+	white
+vanillate monooxygenase	1.14.13.82	H2O	H+	white
+vanillate monooxygenase	1.14.13.82	H2O	NADH	white
+vanillate monooxygenase	1.14.13.82	H2O	Oxygen	white
+vanillate monooxygenase	1.14.13.82	H2O	Vanillate	white
+vanillate monooxygenase	1.14.13.82	NAD+	H+	white
+vanillate monooxygenase	1.14.13.82	NAD+	NADH	white
+vanillate monooxygenase	1.14.13.82	NAD+	Oxygen	white
+vanillate monooxygenase	1.14.13.82	NAD+	Vanillate	white
+vanillate monooxygenase	1.14.13.82	NADH	3,4-Dihydroxybenzoate	white
+vanillate monooxygenase	1.14.13.82	NADH	Formaldehyde	white
+vanillate monooxygenase	1.14.13.82	NADH	H2O	white
+vanillate monooxygenase	1.14.13.82	NADH	NAD+	white
+vanillate monooxygenase	1.14.13.82	Oxygen	3,4-Dihydroxybenzoate	white
+vanillate monooxygenase	1.14.13.82	Oxygen	Formaldehyde	white
+vanillate monooxygenase	1.14.13.82	Oxygen	H2O	white
+vanillate monooxygenase	1.14.13.82	Oxygen	NAD+	white
+vanillate monooxygenase	1.14.13.82	Vanillate	3,4-Dihydroxybenzoate	white
+vanillate monooxygenase	1.14.13.82	Vanillate	Formaldehyde	white
+vanillate monooxygenase	1.14.13.82	Vanillate	H2O	white
+vanillate monooxygenase	1.14.13.82	Vanillate	NAD+	white
+vanillate monooxygenase ferredoxin subunit	1.14.13.82	3,4-Dihydroxybenzoate	H+	white
+vanillate monooxygenase ferredoxin subunit	1.14.13.82	3,4-Dihydroxybenzoate	NADH	white
+vanillate monooxygenase ferredoxin subunit	1.14.13.82	3,4-Dihydroxybenzoate	Oxygen	white
+vanillate monooxygenase ferredoxin subunit	1.14.13.82	3,4-Dihydroxybenzoate	Vanillate	white
+vanillate monooxygenase ferredoxin subunit	1.14.13.82	Formaldehyde	H+	white
+vanillate monooxygenase ferredoxin subunit	1.14.13.82	Formaldehyde	NADH	white
+vanillate monooxygenase ferredoxin subunit	1.14.13.82	Formaldehyde	Oxygen	white
+vanillate monooxygenase ferredoxin subunit	1.14.13.82	Formaldehyde	Vanillate	white
+vanillate monooxygenase ferredoxin subunit	1.14.13.82	H+	3,4-Dihydroxybenzoate	white
+vanillate monooxygenase ferredoxin subunit	1.14.13.82	H+	Formaldehyde	white
+vanillate monooxygenase ferredoxin subunit	1.14.13.82	H+	H2O	white
+vanillate monooxygenase ferredoxin subunit	1.14.13.82	H+	NAD+	white
+vanillate monooxygenase ferredoxin subunit	1.14.13.82	H2O	H+	white
+vanillate monooxygenase ferredoxin subunit	1.14.13.82	H2O	NADH	white
+vanillate monooxygenase ferredoxin subunit	1.14.13.82	H2O	Oxygen	white
+vanillate monooxygenase ferredoxin subunit	1.14.13.82	H2O	Vanillate	white
+vanillate monooxygenase ferredoxin subunit	1.14.13.82	NAD+	H+	white
+vanillate monooxygenase ferredoxin subunit	1.14.13.82	NAD+	NADH	white
+vanillate monooxygenase ferredoxin subunit	1.14.13.82	NAD+	Oxygen	white
+vanillate monooxygenase ferredoxin subunit	1.14.13.82	NAD+	Vanillate	white
+vanillate monooxygenase ferredoxin subunit	1.14.13.82	NADH	3,4-Dihydroxybenzoate	white
+vanillate monooxygenase ferredoxin subunit	1.14.13.82	NADH	Formaldehyde	white
+vanillate monooxygenase ferredoxin subunit	1.14.13.82	NADH	H2O	white
+vanillate monooxygenase ferredoxin subunit	1.14.13.82	NADH	NAD+	white
+vanillate monooxygenase ferredoxin subunit	1.14.13.82	Oxygen	3,4-Dihydroxybenzoate	white
+vanillate monooxygenase ferredoxin subunit	1.14.13.82	Oxygen	Formaldehyde	white
+vanillate monooxygenase ferredoxin subunit	1.14.13.82	Oxygen	H2O	white
+vanillate monooxygenase ferredoxin subunit	1.14.13.82	Oxygen	NAD+	white
+vanillate monooxygenase ferredoxin subunit	1.14.13.82	Vanillate	3,4-Dihydroxybenzoate	white
+vanillate monooxygenase ferredoxin subunit	1.14.13.82	Vanillate	Formaldehyde	white
+vanillate monooxygenase ferredoxin subunit	1.14.13.82	Vanillate	H2O	white
+vanillate monooxygenase ferredoxin subunit	1.14.13.82	Vanillate	NAD+	white
+vanillate/3-O-methylgallate O-demethylase	2.1.1.341	3-O-Methylgallate	5-Methyltetrahydrofolate	white
+vanillate/3-O-methylgallate O-demethylase	2.1.1.341	3-O-Methylgallate	Gallate	white
+vanillate/3-O-methylgallate O-demethylase	2.1.1.341	5-Methyltetrahydrofolate	3-O-Methylgallate	white
+vanillate/3-O-methylgallate O-demethylase	2.1.1.341	5-Methyltetrahydrofolate	Tetrahydrofolate	white
+vanillate/3-O-methylgallate O-demethylase	2.1.1.341	Gallate	3-O-Methylgallate	white
+vanillate/3-O-methylgallate O-demethylase	2.1.1.341	Gallate	Tetrahydrofolate	white
+vanillate/3-O-methylgallate O-demethylase	2.1.1.341	Tetrahydrofolate	5-Methyltetrahydrofolate	white
+vanillate/3-O-methylgallate O-demethylase	2.1.1.341	Tetrahydrofolate	Gallate	white
+vanillate/4-hydroxybenzoate decarboxylase subunit C	4.1.1.-	4-Hydroxybenzoate	CO2	white
+vanillate/4-hydroxybenzoate decarboxylase subunit C	4.1.1.-	4-Hydroxybenzoate	Phenol	white
+vanillate/4-hydroxybenzoate decarboxylase subunit C	4.1.1.-	CO2	4-Hydroxybenzoate	white
+vanillate/4-hydroxybenzoate decarboxylase subunit C	4.1.1.-	Phenol	4-Hydroxybenzoate	white
+vanillate/4-hydroxybenzoate decarboxylase subunit D	4.1.1.-	4-Hydroxybenzoate	CO2	white
+vanillate/4-hydroxybenzoate decarboxylase subunit D	4.1.1.-	4-Hydroxybenzoate	Phenol	white
+vanillate/4-hydroxybenzoate decarboxylase subunit D	4.1.1.-	CO2	4-Hydroxybenzoate	white
+vanillate/4-hydroxybenzoate decarboxylase subunit D	4.1.1.-	Phenol	4-Hydroxybenzoate	white
+vanillin dehydrogenase	1.2.1.67	4-Hydroxy-3-methoxy-benzaldehyde	H+	green
+vanillin dehydrogenase	1.2.1.67	4-Hydroxy-3-methoxy-benzaldehyde	NADH	green
+vanillin dehydrogenase	1.2.1.67	4-Hydroxy-3-methoxy-benzaldehyde	Vanillate	green
+vanillin dehydrogenase	1.2.1.67	H2O	H+	green
+vanillin dehydrogenase	1.2.1.67	H2O	NADH	green
+vanillin dehydrogenase	1.2.1.67	H2O	Vanillate	green
+vanillin dehydrogenase	1.2.1.67	NAD+	H+	green
+vanillin dehydrogenase	1.2.1.67	NAD+	NADH	green
+vanillin dehydrogenase	1.2.1.67	NAD+	Vanillate	green

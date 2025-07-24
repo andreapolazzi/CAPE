@@ -1,0 +1,230 @@
+enzyme_name	EC	source	target	color
+(22S)-hydroxy-3-oxochol-4-en-24-oyl-CoA dehydrogenase	1.1.1.-	(22S)-Hydroxy-3-oxochol-4-en-24-oyl-CoA	3,22-Dioxochol-4-en-24-oyl-CoA	green
+(22S)-hydroxy-3-oxochol-4-en-24-oyl-CoA dehydrogenase	1.1.1.-	(22S)-Hydroxy-3-oxochol-4-en-24-oyl-CoA	H+	green
+(22S)-hydroxy-3-oxochol-4-en-24-oyl-CoA dehydrogenase	1.1.1.-	(22S)-Hydroxy-3-oxochol-4-en-24-oyl-CoA	NADH	green
+(22S)-hydroxy-3-oxochol-4-en-24-oyl-CoA dehydrogenase	1.1.1.-	NAD+	3,22-Dioxochol-4-en-24-oyl-CoA	green
+(22S)-hydroxy-3-oxochol-4-en-24-oyl-CoA dehydrogenase	1.1.1.-	NAD+	H+	green
+(22S)-hydroxy-3-oxochol-4-en-24-oyl-CoA dehydrogenase	1.1.1.-	NAD+	NADH	green
+17-hydroxy-3-oxo-4-pregnene-20-carboxyl-CoA lyase	4.1.3.-	17-Hydroxy-3-oxo-4-pregnene-20-carboxyl-CoA	Androstenedione	green
+17-hydroxy-3-oxo-4-pregnene-20-carboxyl-CoA lyase	4.1.3.-	17-Hydroxy-3-oxo-4-pregnene-20-carboxyl-CoA	Propanoyl-CoA	green
+2-oxopent-4-enoate/cis-2-oxohex-4-enoate hydratase	4.2.1.80	2-Hydroxy-2,4-pentadienoate	4-Hydroxy-2-oxopentanoate	white
+2-oxopent-4-enoate/cis-2-oxohex-4-enoate hydratase	4.2.1.80	4-Hydroxy-2-oxopentanoate	2-Hydroxy-2,4-pentadienoate	white
+2-oxopent-4-enoate/cis-2-oxohex-4-enoate hydratase	4.2.1.80	4-Hydroxy-2-oxopentanoate	H2O	white
+2-oxopent-4-enoate/cis-2-oxohex-4-enoate hydratase	4.2.1.80	H2O	4-Hydroxy-2-oxopentanoate	white
+3(or 17)beta-hydroxysteroid dehydrogenase	1.1.1.51	Androstenedione	NAD+	white
+3(or 17)beta-hydroxysteroid dehydrogenase	1.1.1.51	Androstenedione	Testosterone	white
+3(or 17)beta-hydroxysteroid dehydrogenase	1.1.1.51	H+	NAD+	white
+3(or 17)beta-hydroxysteroid dehydrogenase	1.1.1.51	H+	Testosterone	white
+3(or 17)beta-hydroxysteroid dehydrogenase	1.1.1.51	NAD+	Androstenedione	white
+3(or 17)beta-hydroxysteroid dehydrogenase	1.1.1.51	NAD+	H+	white
+3(or 17)beta-hydroxysteroid dehydrogenase	1.1.1.51	NAD+	NADH	white
+3(or 17)beta-hydroxysteroid dehydrogenase	1.1.1.51	NADH	NAD+	white
+3(or 17)beta-hydroxysteroid dehydrogenase	1.1.1.51	NADH	Testosterone	white
+3(or 17)beta-hydroxysteroid dehydrogenase	1.1.1.51	Testosterone	Androstenedione	white
+3(or 17)beta-hydroxysteroid dehydrogenase	1.1.1.51	Testosterone	H+	white
+3(or 17)beta-hydroxysteroid dehydrogenase	1.1.1.51	Testosterone	NADH	white
+3,4-dihydroxy-9,10-secoandrosta-1,3,5(10)-triene-9,17-dione 4,5-dioxygenase	1.13.11.25	3,4-Dihydroxy-9,10-secoandrosta-1,3,5(10)-triene-9,17-dione	3-Hydroxy-5,9,17-trioxo-4,5:9,10-disecoandrosta-1(10),2-dien-4-oate	green
+3,4-dihydroxy-9,10-secoandrosta-1,3,5(10)-triene-9,17-dione 4,5-dioxygenase	1.13.11.25	Oxygen	3-Hydroxy-5,9,17-trioxo-4,5:9,10-disecoandrosta-1(10),2-dien-4-oate	green
+3-hydroxy-9,10-secoandrosta-1,3,5(10)-triene-9,17-dione monooxygenase	1.14.14.12	3-Hydroxy-9,10-secoandrosta-1,3,5(10)-triene-9,17-dione	3,4-Dihydroxy-9,10-secoandrosta-1,3,5(10)-triene-9,17-dione	green
+3-hydroxy-9,10-secoandrosta-1,3,5(10)-triene-9,17-dione monooxygenase	1.14.14.12	3-Hydroxy-9,10-secoandrosta-1,3,5(10)-triene-9,17-dione	FMN	green
+3-hydroxy-9,10-secoandrosta-1,3,5(10)-triene-9,17-dione monooxygenase	1.14.14.12	3-Hydroxy-9,10-secoandrosta-1,3,5(10)-triene-9,17-dione	H2O	green
+3-hydroxy-9,10-secoandrosta-1,3,5(10)-triene-9,17-dione monooxygenase	1.14.14.12	Oxygen	3,4-Dihydroxy-9,10-secoandrosta-1,3,5(10)-triene-9,17-dione	green
+3-hydroxy-9,10-secoandrosta-1,3,5(10)-triene-9,17-dione monooxygenase	1.14.14.12	Oxygen	FMN	green
+3-hydroxy-9,10-secoandrosta-1,3,5(10)-triene-9,17-dione monooxygenase	1.14.14.12	Oxygen	H2O	green
+3-hydroxy-9,10-secoandrosta-1,3,5(10)-triene-9,17-dione monooxygenase	1.14.14.12	Reduced FMN	3,4-Dihydroxy-9,10-secoandrosta-1,3,5(10)-triene-9,17-dione	green
+3-hydroxy-9,10-secoandrosta-1,3,5(10)-triene-9,17-dione monooxygenase	1.14.14.12	Reduced FMN	FMN	green
+3-hydroxy-9,10-secoandrosta-1,3,5(10)-triene-9,17-dione monooxygenase	1.14.14.12	Reduced FMN	H2O	green
+3-hydroxy-9,10-secoandrosta-1,3,5(10)-triene-9,17-dione monooxygenase reductase component	1.5.1.-	3-Hydroxy-9,10-secoandrosta-1,3,5(10)-triene-9,17-dione	3,4-Dihydroxy-9,10-secoandrosta-1,3,5(10)-triene-9,17-dione	green
+3-hydroxy-9,10-secoandrosta-1,3,5(10)-triene-9,17-dione monooxygenase reductase component	1.5.1.-	3-Hydroxy-9,10-secoandrosta-1,3,5(10)-triene-9,17-dione	FMN	green
+3-hydroxy-9,10-secoandrosta-1,3,5(10)-triene-9,17-dione monooxygenase reductase component	1.5.1.-	3-Hydroxy-9,10-secoandrosta-1,3,5(10)-triene-9,17-dione	H2O	green
+3-hydroxy-9,10-secoandrosta-1,3,5(10)-triene-9,17-dione monooxygenase reductase component	1.5.1.-	Oxygen	3,4-Dihydroxy-9,10-secoandrosta-1,3,5(10)-triene-9,17-dione	green
+3-hydroxy-9,10-secoandrosta-1,3,5(10)-triene-9,17-dione monooxygenase reductase component	1.5.1.-	Oxygen	FMN	green
+3-hydroxy-9,10-secoandrosta-1,3,5(10)-triene-9,17-dione monooxygenase reductase component	1.5.1.-	Oxygen	H2O	green
+3-hydroxy-9,10-secoandrosta-1,3,5(10)-triene-9,17-dione monooxygenase reductase component	1.5.1.-	Reduced FMN	3,4-Dihydroxy-9,10-secoandrosta-1,3,5(10)-triene-9,17-dione	green
+3-hydroxy-9,10-secoandrosta-1,3,5(10)-triene-9,17-dione monooxygenase reductase component	1.5.1.-	Reduced FMN	FMN	green
+3-hydroxy-9,10-secoandrosta-1,3,5(10)-triene-9,17-dione monooxygenase reductase component	1.5.1.-	Reduced FMN	H2O	green
+3-hydroxyl acyl-CoA dehydrogenase	1.1.-.-	3-[(3aS,4S,5R,7aS)-5-Hydroxy-7a-methyl-1-oxooctahydro-1H-inden-4-yl]-3-hydroxypropanoyl-CoA	3-[(3aS,4S,5R,7aS)-5-Hydroxy-7a-methyl-1-oxooctahydro-1H-inden-4-yl]-3-oxopropanoyl-CoA	green
+3-ketosteroid 9alpha-monooxygenase subunit A	1.14.15.30	Androsta-1,4-diene-3,17-dione	9alpha-Hydroxyandrosta-1,4-diene-3,17-dione	green
+3-ketosteroid 9alpha-monooxygenase subunit A	1.14.15.30	Androsta-1,4-diene-3,17-dione	H2O	green
+3-ketosteroid 9alpha-monooxygenase subunit A	1.14.15.30	Androsta-1,4-diene-3,17-dione	Oxidized ferredoxin	green
+3-ketosteroid 9alpha-monooxygenase subunit A	1.14.15.30	H+	9alpha-Hydroxyandrosta-1,4-diene-3,17-dione	green
+3-ketosteroid 9alpha-monooxygenase subunit A	1.14.15.30	H+	H2O	green
+3-ketosteroid 9alpha-monooxygenase subunit A	1.14.15.30	H+	Oxidized ferredoxin	green
+3-ketosteroid 9alpha-monooxygenase subunit A	1.14.15.30	Oxygen	9alpha-Hydroxyandrosta-1,4-diene-3,17-dione	green
+3-ketosteroid 9alpha-monooxygenase subunit A	1.14.15.30	Oxygen	H2O	green
+3-ketosteroid 9alpha-monooxygenase subunit A	1.14.15.30	Oxygen	Oxidized ferredoxin	green
+3-ketosteroid 9alpha-monooxygenase subunit A	1.14.15.30	Reduced ferredoxin	9alpha-Hydroxyandrosta-1,4-diene-3,17-dione	green
+3-ketosteroid 9alpha-monooxygenase subunit A	1.14.15.30	Reduced ferredoxin	H2O	green
+3-ketosteroid 9alpha-monooxygenase subunit A	1.14.15.30	Reduced ferredoxin	Oxidized ferredoxin	green
+3-ketosteroid 9alpha-monooxygenase subunit B	1.14.15.30	Androsta-1,4-diene-3,17-dione	9alpha-Hydroxyandrosta-1,4-diene-3,17-dione	green
+3-ketosteroid 9alpha-monooxygenase subunit B	1.14.15.30	Androsta-1,4-diene-3,17-dione	H2O	green
+3-ketosteroid 9alpha-monooxygenase subunit B	1.14.15.30	Androsta-1,4-diene-3,17-dione	Oxidized ferredoxin	green
+3-ketosteroid 9alpha-monooxygenase subunit B	1.14.15.30	H+	9alpha-Hydroxyandrosta-1,4-diene-3,17-dione	green
+3-ketosteroid 9alpha-monooxygenase subunit B	1.14.15.30	H+	H2O	green
+3-ketosteroid 9alpha-monooxygenase subunit B	1.14.15.30	H+	Oxidized ferredoxin	green
+3-ketosteroid 9alpha-monooxygenase subunit B	1.14.15.30	Oxygen	9alpha-Hydroxyandrosta-1,4-diene-3,17-dione	green
+3-ketosteroid 9alpha-monooxygenase subunit B	1.14.15.30	Oxygen	H2O	green
+3-ketosteroid 9alpha-monooxygenase subunit B	1.14.15.30	Oxygen	Oxidized ferredoxin	green
+3-ketosteroid 9alpha-monooxygenase subunit B	1.14.15.30	Reduced ferredoxin	9alpha-Hydroxyandrosta-1,4-diene-3,17-dione	green
+3-ketosteroid 9alpha-monooxygenase subunit B	1.14.15.30	Reduced ferredoxin	H2O	green
+3-ketosteroid 9alpha-monooxygenase subunit B	1.14.15.30	Reduced ferredoxin	Oxidized ferredoxin	green
+3-oxo-4,17-pregnadiene-20-carboxyl-CoA hydratase alpha subunit	4.2.1.-	3-Oxo-4,17-pregnadiene-20-carboxyl-CoA	17-Hydroxy-3-oxo-4-pregnene-20-carboxyl-CoA	green
+3-oxo-4,17-pregnadiene-20-carboxyl-CoA hydratase alpha subunit	4.2.1.-	H2O	17-Hydroxy-3-oxo-4-pregnene-20-carboxyl-CoA	green
+3-oxo-4,17-pregnadiene-20-carboxyl-CoA hydratase beta subunit	4.2.1.-	3-Oxo-4,17-pregnadiene-20-carboxyl-CoA	17-Hydroxy-3-oxo-4-pregnene-20-carboxyl-CoA	green
+3-oxo-4,17-pregnadiene-20-carboxyl-CoA hydratase beta subunit	4.2.1.-	H2O	17-Hydroxy-3-oxo-4-pregnene-20-carboxyl-CoA	green
+3-oxo-4-pregnene-20-carboxyl-CoA dehydrogenase alpha subunit	1.3.99.-	3-Oxopregnene-20-carboxyl-CoA	3-Oxo-4,17-pregnadiene-20-carboxyl-CoA	green
+3-oxo-4-pregnene-20-carboxyl-CoA dehydrogenase alpha subunit	1.3.99.-	3-Oxopregnene-20-carboxyl-CoA	Reduced acceptor	green
+3-oxo-4-pregnene-20-carboxyl-CoA dehydrogenase alpha subunit	1.3.99.-	Acceptor	3-Oxo-4,17-pregnadiene-20-carboxyl-CoA	green
+3-oxo-4-pregnene-20-carboxyl-CoA dehydrogenase alpha subunit	1.3.99.-	Acceptor	Reduced acceptor	green
+3-oxo-4-pregnene-20-carboxyl-CoA dehydrogenase beta subunit	1.3.99.-	3-Oxopregnene-20-carboxyl-CoA	3-Oxo-4,17-pregnadiene-20-carboxyl-CoA	green
+3-oxo-4-pregnene-20-carboxyl-CoA dehydrogenase beta subunit	1.3.99.-	3-Oxopregnene-20-carboxyl-CoA	Reduced acceptor	green
+3-oxo-4-pregnene-20-carboxyl-CoA dehydrogenase beta subunit	1.3.99.-	Acceptor	3-Oxo-4,17-pregnadiene-20-carboxyl-CoA	green
+3-oxo-4-pregnene-20-carboxyl-CoA dehydrogenase beta subunit	1.3.99.-	Acceptor	Reduced acceptor	green
+3-oxo-5alpha-steroid 4-dehydrogenase	1.3.99.5	5alpha-Androstane-3,17-dione	Androstenedione	white
+3-oxo-5alpha-steroid 4-dehydrogenase	1.3.99.5	5alpha-Androstane-3,17-dione	Reduced acceptor	white
+3-oxo-5alpha-steroid 4-dehydrogenase	1.3.99.5	Acceptor	Androstenedione	white
+3-oxo-5alpha-steroid 4-dehydrogenase	1.3.99.5	Acceptor	Reduced acceptor	white
+3-oxo-5alpha-steroid 4-dehydrogenase	1.3.99.5	Androstenedione	5alpha-Androstane-3,17-dione	white
+3-oxo-5alpha-steroid 4-dehydrogenase	1.3.99.5	Androstenedione	Acceptor	white
+3-oxo-5alpha-steroid 4-dehydrogenase	1.3.99.5	Reduced acceptor	5alpha-Androstane-3,17-dione	white
+3-oxo-5alpha-steroid 4-dehydrogenase	1.3.99.5	Reduced acceptor	Acceptor	white
+3-oxochol-4,22-dien-24-oyl-CoA hydratase (S-form)	4.2.1.-	3-Oxochol-4,22-dien-24-oyl-CoA	(22S)-Hydroxy-3-oxochol-4-en-24-oyl-CoA	green
+3-oxochol-4,22-dien-24-oyl-CoA hydratase (S-form)	4.2.1.-	H2O	(22S)-Hydroxy-3-oxochol-4-en-24-oyl-CoA	green
+3-oxochol-4-en-24-oyl-CoA dehydrogenase	1.3.99.-	3-Oxochol-4-en-24-oyl-CoA	3-Oxochol-4,22-dien-24-oyl-CoA	green
+3-oxochol-4-en-24-oyl-CoA dehydrogenase	1.3.99.-	3-Oxochol-4-en-24-oyl-CoA	Reduced acceptor	green
+3-oxochol-4-en-24-oyl-CoA dehydrogenase	1.3.99.-	Acceptor	3-Oxochol-4,22-dien-24-oyl-CoA	green
+3-oxochol-4-en-24-oyl-CoA dehydrogenase	1.3.99.-	Acceptor	Reduced acceptor	green
+3-oxocholest-4-en-26-oate---CoA ligase	6.2.1.42	(25R)-3-Oxocholest-4-en-26-oate	(25R)-3-Oxocholest-4-en-26-oyl-CoA	green
+3-oxocholest-4-en-26-oate---CoA ligase	6.2.1.42	(25R)-3-Oxocholest-4-en-26-oate	AMP	green
+3-oxocholest-4-en-26-oate---CoA ligase	6.2.1.42	(25R)-3-Oxocholest-4-en-26-oate	Diphosphate	green
+3-oxocholest-4-en-26-oate---CoA ligase	6.2.1.42	ATP	(25R)-3-Oxocholest-4-en-26-oyl-CoA	green
+3-oxocholest-4-en-26-oate---CoA ligase	6.2.1.42	ATP	(25S)-3-Oxocholest-4-en-26-oyl-CoA	green
+3-oxocholest-4-en-26-oate---CoA ligase	6.2.1.42	ATP	AMP	green
+3-oxocholest-4-en-26-oate---CoA ligase	6.2.1.42	ATP	Diphosphate	green
+3-oxocholest-4-en-26-oate---CoA ligase	6.2.1.42	CoA	(25R)-3-Oxocholest-4-en-26-oyl-CoA	green
+3-oxocholest-4-en-26-oate---CoA ligase	6.2.1.42	CoA	(25S)-3-Oxocholest-4-en-26-oyl-CoA	green
+3-oxocholest-4-en-26-oate---CoA ligase	6.2.1.42	CoA	AMP	green
+3-oxocholest-4-en-26-oate---CoA ligase	6.2.1.42	CoA	Diphosphate	green
+3-oxocholest-4-en-26-oate---CoA ligase	6.2.1.42	Delta4-Dafachronic acid	(25S)-3-Oxocholest-4-en-26-oyl-CoA	green
+3-oxocholest-4-en-26-oate---CoA ligase	6.2.1.42	Delta4-Dafachronic acid	AMP	green
+3-oxocholest-4-en-26-oate---CoA ligase	6.2.1.42	Delta4-Dafachronic acid	Diphosphate	green
+3-oxocholest-4-en-26-oyl-CoA dehydrogenase alpha subunit	1.3.99.-	(25S)-3-Oxocholest-4-en-26-oyl-CoA	3-Oxocholest-4,24-dien-26-oyl-CoA	green
+3-oxocholest-4-en-26-oyl-CoA dehydrogenase alpha subunit	1.3.99.-	(25S)-3-Oxocholest-4-en-26-oyl-CoA	Reduced acceptor	green
+3-oxocholest-4-en-26-oyl-CoA dehydrogenase alpha subunit	1.3.99.-	Acceptor	3-Oxocholest-4,24-dien-26-oyl-CoA	green
+3-oxocholest-4-en-26-oyl-CoA dehydrogenase alpha subunit	1.3.99.-	Acceptor	Reduced acceptor	green
+3-oxocholest-4-en-26-oyl-CoA dehydrogenase beta subunit	1.3.99.-	(25S)-3-Oxocholest-4-en-26-oyl-CoA	3-Oxocholest-4,24-dien-26-oyl-CoA	green
+3-oxocholest-4-en-26-oyl-CoA dehydrogenase beta subunit	1.3.99.-	(25S)-3-Oxocholest-4-en-26-oyl-CoA	Reduced acceptor	green
+3-oxocholest-4-en-26-oyl-CoA dehydrogenase beta subunit	1.3.99.-	Acceptor	3-Oxocholest-4,24-dien-26-oyl-CoA	green
+3-oxocholest-4-en-26-oyl-CoA dehydrogenase beta subunit	1.3.99.-	Acceptor	Reduced acceptor	green
+3-oxosteroid 1-dehydrogenase	1.3.99.4	Acceptor	Androsta-1,4-diene-3,17-dione	green
+3-oxosteroid 1-dehydrogenase	1.3.99.4	Acceptor	Reduced acceptor	green
+3-oxosteroid 1-dehydrogenase	1.3.99.4	Androstenedione	Androsta-1,4-diene-3,17-dione	green
+3-oxosteroid 1-dehydrogenase	1.3.99.4	Androstenedione	Reduced acceptor	green
+3beta-hydroxy-Delta5-steroid dehydrogenase / steroid Delta-isomerase	1.1.1.145	Cholest-4-en-3-one	Cholesterol	white
+3beta-hydroxy-Delta5-steroid dehydrogenase / steroid Delta-isomerase	1.1.1.145	Cholest-4-en-3-one	NAD+	white
+3beta-hydroxy-Delta5-steroid dehydrogenase / steroid Delta-isomerase	1.1.1.145	Cholesterol	Cholest-4-en-3-one	white
+3beta-hydroxy-Delta5-steroid dehydrogenase / steroid Delta-isomerase	1.1.1.145	Cholesterol	H+	white
+3beta-hydroxy-Delta5-steroid dehydrogenase / steroid Delta-isomerase	1.1.1.145	Cholesterol	NADH	white
+3beta-hydroxy-Delta5-steroid dehydrogenase / steroid Delta-isomerase	1.1.1.145	H+	Cholesterol	white
+3beta-hydroxy-Delta5-steroid dehydrogenase / steroid Delta-isomerase	1.1.1.145	H+	NAD+	white
+3beta-hydroxy-Delta5-steroid dehydrogenase / steroid Delta-isomerase	1.1.1.145	NAD+	Cholest-4-en-3-one	white
+3beta-hydroxy-Delta5-steroid dehydrogenase / steroid Delta-isomerase	1.1.1.145	NAD+	H+	white
+3beta-hydroxy-Delta5-steroid dehydrogenase / steroid Delta-isomerase	1.1.1.145	NAD+	NADH	white
+3beta-hydroxy-Delta5-steroid dehydrogenase / steroid Delta-isomerase	1.1.1.145	NADH	Cholesterol	white
+3beta-hydroxy-Delta5-steroid dehydrogenase / steroid Delta-isomerase	1.1.1.145	NADH	NAD+	white
+4,5:9,10-diseco-3-hydroxy-5,9,17-trioxoandrosta-1(10),2-diene-4-oate hydrolase	3.7.1.17	3-Hydroxy-5,9,17-trioxo-4,5:9,10-disecoandrosta-1(10),2-dien-4-oate	(2Z,4Z)-2-Hydroxyhexa-2,4-dienoate	green
+4,5:9,10-diseco-3-hydroxy-5,9,17-trioxoandrosta-1(10),2-diene-4-oate hydrolase	3.7.1.17	3-Hydroxy-5,9,17-trioxo-4,5:9,10-disecoandrosta-1(10),2-dien-4-oate	3-[(3aS,4S,7aS)-7a-Methyl-1,5-dioxo-octahydro-1H-inden-4-yl]propanoate	green
+4,5:9,10-diseco-3-hydroxy-5,9,17-trioxoandrosta-1(10),2-diene-4-oate hydrolase	3.7.1.17	H2O	(2Z,4Z)-2-Hydroxyhexa-2,4-dienoate	green
+4,5:9,10-diseco-3-hydroxy-5,9,17-trioxoandrosta-1(10),2-diene-4-oate hydrolase	3.7.1.17	H2O	3-[(3aS,4S,7aS)-7a-Methyl-1,5-dioxo-octahydro-1H-inden-4-yl]propanoate	green
+4-hydroxy-2-oxovalerate/4-hydroxy-2-oxohexanoate aldolase	4.1.3.39	4-Hydroxy-2-oxopentanoate	Acetaldehyde	white
+4-hydroxy-2-oxovalerate/4-hydroxy-2-oxohexanoate aldolase	4.1.3.39	4-Hydroxy-2-oxopentanoate	Pyruvate	white
+4-hydroxy-2-oxovalerate/4-hydroxy-2-oxohexanoate aldolase	4.1.3.39	Acetaldehyde	4-Hydroxy-2-oxopentanoate	white
+4-hydroxy-2-oxovalerate/4-hydroxy-2-oxohexanoate aldolase	4.1.3.39	Pyruvate	4-Hydroxy-2-oxopentanoate	white
+5OH-HIP-CoA dehydrogenase	1.3.99.-	3-[(3aS,4S,5R,7aS)-5-Hydroxy-7a-methyl-1-oxooctahydro-1H-inden-4-yl]propanoyl-CoA	(2E)-3-[(3aS,4S,5R,7aS)-5-Hydroxy-7a-methyl-1-oxooctahydro-1H-inden-4-yl]prop-2-enoyl-CoA	green
+5OH-HIP-CoA dehydrogenase	1.3.99.-	3-[(3aS,4S,5R,7aS)-5-Hydroxy-7a-methyl-1-oxooctahydro-1H-inden-4-yl]propanoyl-CoA	Reduced acceptor	green
+5OH-HIP-CoA dehydrogenase	1.3.99.-	Acceptor	(2E)-3-[(3aS,4S,5R,7aS)-5-Hydroxy-7a-methyl-1-oxooctahydro-1H-inden-4-yl]prop-2-enoyl-CoA	green
+5OH-HIP-CoA dehydrogenase	1.3.99.-	Acceptor	Reduced acceptor	green
+COCHEA-CoA hydrolase alpha subunit	4.1.-.-	(3R)-2-(2-carboxyethyl)-3-methyl-6-oxocyclohex-1-ene-1-carboxyl-CoA	9-Carboxy-6-methyl-3,7-dioxononanoyl-CoA	green
+COCHEA-CoA hydrolase alpha subunit	4.1.-.-	H2O	9-Carboxy-6-methyl-3,7-dioxononanoyl-CoA	green
+COCHEA-CoA hydrolase beta subunit	4.1.-.-	(3R)-2-(2-carboxyethyl)-3-methyl-6-oxocyclohex-1-ene-1-carboxyl-CoA	9-Carboxy-6-methyl-3,7-dioxononanoyl-CoA	green
+COCHEA-CoA hydrolase beta subunit	4.1.-.-	H2O	9-Carboxy-6-methyl-3,7-dioxononanoyl-CoA	green
+HIEC-CoA hydrolase	4.1.-.-	(7aS)-7a-Methyl-1,5-dioxo-2,3,5,6,7,7a-hexahydro-1H-indene-4-carboxyl-CoA	(3R)-2-(2-carboxyethyl)-3-methyl-6-oxocyclohex-1-ene-1-carboxyl-CoA	green
+HIEC-CoA hydrolase	4.1.-.-	H2O	(3R)-2-(2-carboxyethyl)-3-methyl-6-oxocyclohex-1-ene-1-carboxyl-CoA	green
+HIP---CoA ligase	6.2.1.41	3-[(3aS,4S,7aS)-7a-Methyl-1,5-dioxo-octahydro-1H-inden-4-yl]propanoate	3-[(3aS,4S,7aS)-7a-Methyl-1,5-dioxo-octahydro-1H-inden-4-yl]propanoyl-CoA	green
+HIP---CoA ligase	6.2.1.41	3-[(3aS,4S,7aS)-7a-Methyl-1,5-dioxo-octahydro-1H-inden-4-yl]propanoate	AMP	green
+HIP---CoA ligase	6.2.1.41	3-[(3aS,4S,7aS)-7a-Methyl-1,5-dioxo-octahydro-1H-inden-4-yl]propanoate	Diphosphate	green
+HIP---CoA ligase	6.2.1.41	ATP	3-[(3aS,4S,7aS)-7a-Methyl-1,5-dioxo-octahydro-1H-inden-4-yl]propanoyl-CoA	green
+HIP---CoA ligase	6.2.1.41	ATP	AMP	green
+HIP---CoA ligase	6.2.1.41	ATP	Diphosphate	green
+HIP---CoA ligase	6.2.1.41	CoA	3-[(3aS,4S,7aS)-7a-Methyl-1,5-dioxo-octahydro-1H-inden-4-yl]propanoyl-CoA	green
+HIP---CoA ligase	6.2.1.41	CoA	AMP	green
+HIP---CoA ligase	6.2.1.41	CoA	Diphosphate	green
+acetaldehyde/propanal dehydrogenase	1.2.1.10	Acetaldehyde	Acetyl-CoA	white
+acetaldehyde/propanal dehydrogenase	1.2.1.10	Acetaldehyde	H+	white
+acetaldehyde/propanal dehydrogenase	1.2.1.10	Acetaldehyde	NADH	white
+acetaldehyde/propanal dehydrogenase	1.2.1.10	Acetyl-CoA	Acetaldehyde	white
+acetaldehyde/propanal dehydrogenase	1.2.1.10	Acetyl-CoA	CoA	white
+acetaldehyde/propanal dehydrogenase	1.2.1.10	Acetyl-CoA	NAD+	white
+acetaldehyde/propanal dehydrogenase	1.2.1.10	CoA	Acetyl-CoA	white
+acetaldehyde/propanal dehydrogenase	1.2.1.10	CoA	H+	white
+acetaldehyde/propanal dehydrogenase	1.2.1.10	CoA	NADH	white
+acetaldehyde/propanal dehydrogenase	1.2.1.10	H+	Acetaldehyde	white
+acetaldehyde/propanal dehydrogenase	1.2.1.10	H+	CoA	white
+acetaldehyde/propanal dehydrogenase	1.2.1.10	H+	NAD+	white
+acetaldehyde/propanal dehydrogenase	1.2.1.10	NAD+	Acetyl-CoA	white
+acetaldehyde/propanal dehydrogenase	1.2.1.10	NAD+	H+	white
+acetaldehyde/propanal dehydrogenase	1.2.1.10	NAD+	NADH	white
+acetaldehyde/propanal dehydrogenase	1.2.1.10	NADH	Acetaldehyde	white
+acetaldehyde/propanal dehydrogenase	1.2.1.10	NADH	CoA	white
+acetaldehyde/propanal dehydrogenase	1.2.1.10	NADH	NAD+	white
+acetyl-CoA acyltransferase	2.3.1.16	3,22-Dioxochol-4-en-24-oyl-CoA	3-Oxopregnene-20-carboxyl-CoA	green
+acetyl-CoA acyltransferase	2.3.1.16	3,22-Dioxochol-4-en-24-oyl-CoA	Acetyl-CoA	green
+acetyl-CoA acyltransferase	2.3.1.16	3,24-Dioxocholest-4-en-26-oyl-CoA	3-Oxochol-4-en-24-oyl-CoA	green
+acetyl-CoA acyltransferase	2.3.1.16	3,24-Dioxocholest-4-en-26-oyl-CoA	Propanoyl-CoA	green
+acetyl-CoA acyltransferase	2.3.1.16	3-[(3aS,4S,5R,7aS)-5-Hydroxy-7a-methyl-1-oxooctahydro-1H-inden-4-yl]-3-oxopropanoyl-CoA	(3aS,4S,5R,7aS)-5-Hydroxy-7a-methyl-1-oxooctahydro-1H-indene-4-carboxyl-CoA	green
+acetyl-CoA acyltransferase	2.3.1.16	3-[(3aS,4S,5R,7aS)-5-Hydroxy-7a-methyl-1-oxooctahydro-1H-inden-4-yl]-3-oxopropanoyl-CoA	Acetyl-CoA	green
+acetyl-CoA acyltransferase	2.3.1.16	9-Carboxy-6-methyl-3,7-dioxononanoyl-CoA	7-Carboxy-4-methyl-5-oxoheptanoyl-CoA	green
+acetyl-CoA acyltransferase	2.3.1.16	9-Carboxy-6-methyl-3,7-dioxononanoyl-CoA	Acetyl-CoA	green
+acetyl-CoA acyltransferase	2.3.1.16	CoA	(3aS,4S,5R,7aS)-5-Hydroxy-7a-methyl-1-oxooctahydro-1H-indene-4-carboxyl-CoA	green
+acetyl-CoA acyltransferase	2.3.1.16	CoA	3-Oxochol-4-en-24-oyl-CoA	green
+acetyl-CoA acyltransferase	2.3.1.16	CoA	3-Oxopregnene-20-carboxyl-CoA	green
+acetyl-CoA acyltransferase	2.3.1.16	CoA	7-Carboxy-4-methyl-5-oxoheptanoyl-CoA	green
+acetyl-CoA acyltransferase	2.3.1.16	CoA	Acetyl-CoA	green
+acetyl-CoA acyltransferase	2.3.1.16	CoA	Propanoyl-CoA	green
+acyl-CoA dehydrogenase	1.3.8.7	(3aS,4S,5R,7aS)-5-Hydroxy-7a-methyl-1-oxooctahydro-1H-indene-4-carboxyl-CoA	(7aS)-7a-Methyl-1,5-dioxo-2,3,5,6,7,7a-hexahydro-1H-indene-4-carboxyl-CoA	green
+acyl-CoA dehydrogenase	1.3.8.7	7-Carboxy-4-methyl-5-oxoheptanoyl-CoA	(2E)-7-Carboxy-4-methyl-5-oxohept-2-enoyl-CoA	green
+acyl-CoA dehydrogenase	1.3.8.7	7-Carboxy-4-methyl-5-oxoheptanoyl-CoA	Reduced acceptor	green
+acyl-CoA dehydrogenase	1.3.8.7	Acceptor	(2E)-7-Carboxy-4-methyl-5-oxohept-2-enoyl-CoA	green
+acyl-CoA dehydrogenase	1.3.8.7	Acceptor	Reduced acceptor	green
+alpha-methylacyl-CoA racemase	5.1.99.4	(25R)-3-Oxocholest-4-en-26-oyl-CoA	(25S)-3-Oxocholest-4-en-26-oyl-CoA	green
+alpha-methylacyl-CoA racemase	5.1.99.4	(25S)-3-Oxocholest-4-en-26-oyl-CoA	(25R)-3-Oxocholest-4-en-26-oyl-CoA	green
+cholest-4-en-3-one 26-monooxygenase	1.14.15.29	Cholest-4-en-3-one	(25R)-3-Oxocholest-4-en-26-oate	green
+cholest-4-en-3-one 26-monooxygenase	1.14.15.29	Cholest-4-en-3-one	Delta4-Dafachronic acid	green
+cholest-4-en-3-one 26-monooxygenase	1.14.15.29	Cholest-4-en-3-one	H2O	green
+cholest-4-en-3-one 26-monooxygenase	1.14.15.29	Cholest-4-en-3-one	Oxidized [2Fe-2S] ferredoxin	green
+cholest-4-en-3-one 26-monooxygenase	1.14.15.29	Cholest-4-en-3-one	Oxidized ferredoxin	green
+cholest-4-en-3-one 26-monooxygenase	1.14.15.29	H+	Delta4-Dafachronic acid	green
+cholest-4-en-3-one 26-monooxygenase	1.14.15.29	H+	H2O	green
+cholest-4-en-3-one 26-monooxygenase	1.14.15.29	H+	Oxidized ferredoxin	green
+cholest-4-en-3-one 26-monooxygenase	1.14.15.29	Oxygen	(25R)-3-Oxocholest-4-en-26-oate	green
+cholest-4-en-3-one 26-monooxygenase	1.14.15.29	Oxygen	Delta4-Dafachronic acid	green
+cholest-4-en-3-one 26-monooxygenase	1.14.15.29	Oxygen	H2O	green
+cholest-4-en-3-one 26-monooxygenase	1.14.15.29	Oxygen	Oxidized [2Fe-2S] ferredoxin	green
+cholest-4-en-3-one 26-monooxygenase	1.14.15.29	Oxygen	Oxidized ferredoxin	green
+cholest-4-en-3-one 26-monooxygenase	1.14.15.29	Reduced [2Fe-2S] ferredoxin	(25R)-3-Oxocholest-4-en-26-oate	green
+cholest-4-en-3-one 26-monooxygenase	1.14.15.29	Reduced [2Fe-2S] ferredoxin	H2O	green
+cholest-4-en-3-one 26-monooxygenase	1.14.15.29	Reduced [2Fe-2S] ferredoxin	Oxidized [2Fe-2S] ferredoxin	green
+cholest-4-en-3-one 26-monooxygenase	1.14.15.29	Reduced ferredoxin	Delta4-Dafachronic acid	green
+cholest-4-en-3-one 26-monooxygenase	1.14.15.29	Reduced ferredoxin	H2O	green
+cholest-4-en-3-one 26-monooxygenase	1.14.15.29	Reduced ferredoxin	Oxidized ferredoxin	green
+cholesterol oxidase	1.1.3.6	Cholesterol	Cholest-4-en-3-one	green
+cholesterol oxidase	1.1.3.6	Cholesterol	Hydrogen peroxide	green
+cholesterol oxidase	1.1.3.6	Oxygen	Cholest-4-en-3-one	green
+cholesterol oxidase	1.1.3.6	Oxygen	Hydrogen peroxide	green
+enoyl-CoA hydratase	4.2.1.17	(2E)-3-[(3aS,4S,5R,7aS)-5-Hydroxy-7a-methyl-1-oxooctahydro-1H-inden-4-yl]prop-2-enoyl-CoA	3-[(3aS,4S,5R,7aS)-5-Hydroxy-7a-methyl-1-oxooctahydro-1H-inden-4-yl]-3-hydroxypropanoyl-CoA	green
+enoyl-CoA hydratase	4.2.1.17	(2E)-7-Carboxy-4-methyl-5-oxohept-2-enoyl-CoA	7-Carboxy-3-hydroxy-4-methyl-5-oxoheptanoyl-CoA	green
+enoyl-CoA hydratase	4.2.1.17	H2O	3-[(3aS,4S,5R,7aS)-5-Hydroxy-7a-methyl-1-oxooctahydro-1H-inden-4-yl]-3-hydroxypropanoyl-CoA	green
+enoyl-CoA hydratase	4.2.1.17	H2O	7-Carboxy-3-hydroxy-4-methyl-5-oxoheptanoyl-CoA	green
+hydroxylacyl dehydrogenase	1.1.-.-	(3aS,4S,5R,7aS)-5-Hydroxy-7a-methyl-1-oxooctahydro-1H-indene-4-carboxyl-CoA	(7aS)-7a-Methyl-1,5-dioxo-2,3,5,6,7,7a-hexahydro-1H-indene-4-carboxyl-CoA	green
+hydroxylacyl dehydrogenase	1.1.-.-	3-[(3aS,4S,7aS)-7a-Methyl-1,5-dioxo-octahydro-1H-inden-4-yl]propanoyl-CoA	3-[(3aS,4S,5R,7aS)-5-Hydroxy-7a-methyl-1-oxooctahydro-1H-inden-4-yl]propanoyl-CoA	green
+steroid Delta-isomerase	5.3.3.1	5-Androstene-3,17-dione	Androstenedione	green

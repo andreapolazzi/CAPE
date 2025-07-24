@@ -1,0 +1,432 @@
+enzyme_name	EC	source	target	color
+(3R)-3-hydroxyacyl-CoA dehydrogenase / 3a,7a,12a-trihydroxy-5b-cholest-24-enoyl-CoA hydratase / enoyl-CoA hydratase 2	1.1.1.-	(24E)-3alpha,7alpha-Dihydroxy-5beta-cholest-24-enoyl-CoA	(24R,25R)-3alpha,7alpha,24-Trihydroxy-5beta-cholestanoyl-CoA	white
+(3R)-3-hydroxyacyl-CoA dehydrogenase / 3a,7a,12a-trihydroxy-5b-cholest-24-enoyl-CoA hydratase / enoyl-CoA hydratase 2	1.1.1.-	(24R,25R)-3alpha,7alpha,24-Trihydroxy-5beta-cholestanoyl-CoA	(24E)-3alpha,7alpha-Dihydroxy-5beta-cholest-24-enoyl-CoA	white
+(3R)-3-hydroxyacyl-CoA dehydrogenase / 3a,7a,12a-trihydroxy-5b-cholest-24-enoyl-CoA hydratase / enoyl-CoA hydratase 2	1.1.1.-	(24R,25R)-3alpha,7alpha,24-Trihydroxy-5beta-cholestanoyl-CoA	H2O	white
+(3R)-3-hydroxyacyl-CoA dehydrogenase / 3a,7a,12a-trihydroxy-5b-cholest-24-enoyl-CoA hydratase / enoyl-CoA hydratase 2	1.1.1.-	H2O	(24R,25R)-3alpha,7alpha,24-Trihydroxy-5beta-cholestanoyl-CoA	white
+17beta-estradiol 17-dehydrogenase / very-long-chain 3-oxoacyl-CoA reductase	1.1.1.62	Estradiol-17beta	Estrone	white
+17beta-estradiol 17-dehydrogenase / very-long-chain 3-oxoacyl-CoA reductase	1.1.1.62	Estradiol-17beta	H+	white
+17beta-estradiol 17-dehydrogenase / very-long-chain 3-oxoacyl-CoA reductase	1.1.1.62	Estradiol-17beta	NADH	white
+17beta-estradiol 17-dehydrogenase / very-long-chain 3-oxoacyl-CoA reductase	1.1.1.62	Estrone	Estradiol-17beta	white
+17beta-estradiol 17-dehydrogenase / very-long-chain 3-oxoacyl-CoA reductase	1.1.1.62	Estrone	NAD+	white
+17beta-estradiol 17-dehydrogenase / very-long-chain 3-oxoacyl-CoA reductase	1.1.1.62	H+	Estradiol-17beta	white
+17beta-estradiol 17-dehydrogenase / very-long-chain 3-oxoacyl-CoA reductase	1.1.1.62	H+	NAD+	white
+17beta-estradiol 17-dehydrogenase / very-long-chain 3-oxoacyl-CoA reductase	1.1.1.62	NAD+	Estrone	white
+17beta-estradiol 17-dehydrogenase / very-long-chain 3-oxoacyl-CoA reductase	1.1.1.62	NAD+	H+	white
+17beta-estradiol 17-dehydrogenase / very-long-chain 3-oxoacyl-CoA reductase	1.1.1.62	NAD+	NADH	white
+17beta-estradiol 17-dehydrogenase / very-long-chain 3-oxoacyl-CoA reductase	1.1.1.62	NADH	Estradiol-17beta	white
+17beta-estradiol 17-dehydrogenase / very-long-chain 3-oxoacyl-CoA reductase	1.1.1.62	NADH	NAD+	white
+NADPH-dependent stearoyl-CoA 9-desaturase	1.14.19.-	Ferrocytochrome b5	Ferricytochrome b5	green
+NADPH-dependent stearoyl-CoA 9-desaturase	1.14.19.-	Ferrocytochrome b5	H2O	green
+NADPH-dependent stearoyl-CoA 9-desaturase	1.14.19.-	Ferrocytochrome b5	Oleoyl-CoA	green
+NADPH-dependent stearoyl-CoA 9-desaturase	1.14.19.-	H+	Ferricytochrome b5	green
+NADPH-dependent stearoyl-CoA 9-desaturase	1.14.19.-	H+	H2O	green
+NADPH-dependent stearoyl-CoA 9-desaturase	1.14.19.-	H+	NADP+	green
+NADPH-dependent stearoyl-CoA 9-desaturase	1.14.19.-	H+	Oleoyl-CoA	green
+NADPH-dependent stearoyl-CoA 9-desaturase	1.14.19.-	H+	Oleoyl-[acyl-carrier protein]	green
+NADPH-dependent stearoyl-CoA 9-desaturase	1.14.19.-	H+	Oxidized ferredoxin	green
+NADPH-dependent stearoyl-CoA 9-desaturase	1.14.19.-	NADPH	H2O	green
+NADPH-dependent stearoyl-CoA 9-desaturase	1.14.19.-	NADPH	NADP+	green
+NADPH-dependent stearoyl-CoA 9-desaturase	1.14.19.-	NADPH	Oleoyl-CoA	green
+NADPH-dependent stearoyl-CoA 9-desaturase	1.14.19.-	Octadecanoyl-[acyl-carrier protein]	H2O	green
+NADPH-dependent stearoyl-CoA 9-desaturase	1.14.19.-	Octadecanoyl-[acyl-carrier protein]	Oleoyl-[acyl-carrier protein]	green
+NADPH-dependent stearoyl-CoA 9-desaturase	1.14.19.-	Octadecanoyl-[acyl-carrier protein]	Oxidized ferredoxin	green
+NADPH-dependent stearoyl-CoA 9-desaturase	1.14.19.-	Oxygen	Ferricytochrome b5	green
+NADPH-dependent stearoyl-CoA 9-desaturase	1.14.19.-	Oxygen	H2O	green
+NADPH-dependent stearoyl-CoA 9-desaturase	1.14.19.-	Oxygen	NADP+	green
+NADPH-dependent stearoyl-CoA 9-desaturase	1.14.19.-	Oxygen	Oleoyl-CoA	green
+NADPH-dependent stearoyl-CoA 9-desaturase	1.14.19.-	Oxygen	Oleoyl-[acyl-carrier protein]	green
+NADPH-dependent stearoyl-CoA 9-desaturase	1.14.19.-	Oxygen	Oxidized ferredoxin	green
+NADPH-dependent stearoyl-CoA 9-desaturase	1.14.19.-	Reduced ferredoxin	H2O	green
+NADPH-dependent stearoyl-CoA 9-desaturase	1.14.19.-	Reduced ferredoxin	Oleoyl-[acyl-carrier protein]	green
+NADPH-dependent stearoyl-CoA 9-desaturase	1.14.19.-	Reduced ferredoxin	Oxidized ferredoxin	green
+NADPH-dependent stearoyl-CoA 9-desaturase	1.14.19.-	Stearoyl-CoA	Ferricytochrome b5	green
+NADPH-dependent stearoyl-CoA 9-desaturase	1.14.19.-	Stearoyl-CoA	H2O	green
+NADPH-dependent stearoyl-CoA 9-desaturase	1.14.19.-	Stearoyl-CoA	NADP+	green
+NADPH-dependent stearoyl-CoA 9-desaturase	1.14.19.-	Stearoyl-CoA	Oleoyl-CoA	green
+acetyl-CoA acyltransferase 1	2.3.1.16	Acetoacetyl-CoA	Acetyl-CoA	white
+acetyl-CoA acyltransferase 1	2.3.1.16	Acetyl-CoA	Acetoacetyl-CoA	white
+acetyl-CoA acyltransferase 1	2.3.1.16	Acetyl-CoA	CoA	white
+acetyl-CoA acyltransferase 1	2.3.1.16	CoA	Acetyl-CoA	white
+acyl-CoA (8-3)-desaturase (Delta-5 desaturase)	1.14.19.44	8,11,14-Eicosatrienoyl-CoA	Arachidonyl-CoA	white
+acyl-CoA (8-3)-desaturase (Delta-5 desaturase)	1.14.19.44	8,11,14-Eicosatrienoyl-CoA	Ferricytochrome b5	white
+acyl-CoA (8-3)-desaturase (Delta-5 desaturase)	1.14.19.44	8,11,14-Eicosatrienoyl-CoA	H2O	white
+acyl-CoA (8-3)-desaturase (Delta-5 desaturase)	1.14.19.44	Arachidonyl-CoA	8,11,14-Eicosatrienoyl-CoA	white
+acyl-CoA (8-3)-desaturase (Delta-5 desaturase)	1.14.19.44	Arachidonyl-CoA	Ferrocytochrome b5	white
+acyl-CoA (8-3)-desaturase (Delta-5 desaturase)	1.14.19.44	Arachidonyl-CoA	H+	white
+acyl-CoA (8-3)-desaturase (Delta-5 desaturase)	1.14.19.44	Arachidonyl-CoA	Oxygen	white
+acyl-CoA (8-3)-desaturase (Delta-5 desaturase)	1.14.19.44	Ferricytochrome b5	8,11,14-Eicosatrienoyl-CoA	white
+acyl-CoA (8-3)-desaturase (Delta-5 desaturase)	1.14.19.44	Ferricytochrome b5	Ferrocytochrome b5	white
+acyl-CoA (8-3)-desaturase (Delta-5 desaturase)	1.14.19.44	Ferricytochrome b5	H+	white
+acyl-CoA (8-3)-desaturase (Delta-5 desaturase)	1.14.19.44	Ferricytochrome b5	Oxygen	white
+acyl-CoA (8-3)-desaturase (Delta-5 desaturase)	1.14.19.44	Ferrocytochrome b5	Arachidonyl-CoA	white
+acyl-CoA (8-3)-desaturase (Delta-5 desaturase)	1.14.19.44	Ferrocytochrome b5	Ferricytochrome b5	white
+acyl-CoA (8-3)-desaturase (Delta-5 desaturase)	1.14.19.44	Ferrocytochrome b5	H2O	white
+acyl-CoA (8-3)-desaturase (Delta-5 desaturase)	1.14.19.44	H+	Arachidonyl-CoA	white
+acyl-CoA (8-3)-desaturase (Delta-5 desaturase)	1.14.19.44	H+	Ferricytochrome b5	white
+acyl-CoA (8-3)-desaturase (Delta-5 desaturase)	1.14.19.44	H+	H2O	white
+acyl-CoA (8-3)-desaturase (Delta-5 desaturase)	1.14.19.44	H2O	8,11,14-Eicosatrienoyl-CoA	white
+acyl-CoA (8-3)-desaturase (Delta-5 desaturase)	1.14.19.44	H2O	Ferrocytochrome b5	white
+acyl-CoA (8-3)-desaturase (Delta-5 desaturase)	1.14.19.44	H2O	H+	white
+acyl-CoA (8-3)-desaturase (Delta-5 desaturase)	1.14.19.44	H2O	Oxygen	white
+acyl-CoA (8-3)-desaturase (Delta-5 desaturase)	1.14.19.44	Oxygen	Arachidonyl-CoA	white
+acyl-CoA (8-3)-desaturase (Delta-5 desaturase)	1.14.19.44	Oxygen	Ferricytochrome b5	white
+acyl-CoA (8-3)-desaturase (Delta-5 desaturase)	1.14.19.44	Oxygen	H2O	white
+acyl-CoA 6-desaturase (Delta-6 desaturase)	1.14.19.3	Ferricytochrome b5	Ferrocytochrome b5	white
+acyl-CoA 6-desaturase (Delta-6 desaturase)	1.14.19.3	Ferricytochrome b5	H+	white
+acyl-CoA 6-desaturase (Delta-6 desaturase)	1.14.19.3	Ferricytochrome b5	Linoleoyl-CoA	white
+acyl-CoA 6-desaturase (Delta-6 desaturase)	1.14.19.3	Ferricytochrome b5	Oxygen	white
+acyl-CoA 6-desaturase (Delta-6 desaturase)	1.14.19.3	Ferrocytochrome b5	Ferricytochrome b5	white
+acyl-CoA 6-desaturase (Delta-6 desaturase)	1.14.19.3	Ferrocytochrome b5	H2O	white
+acyl-CoA 6-desaturase (Delta-6 desaturase)	1.14.19.3	Ferrocytochrome b5	gamma-Linolenoyl-CoA	white
+acyl-CoA 6-desaturase (Delta-6 desaturase)	1.14.19.3	H+	Ferricytochrome b5	white
+acyl-CoA 6-desaturase (Delta-6 desaturase)	1.14.19.3	H+	H2O	white
+acyl-CoA 6-desaturase (Delta-6 desaturase)	1.14.19.3	H+	gamma-Linolenoyl-CoA	white
+acyl-CoA 6-desaturase (Delta-6 desaturase)	1.14.19.3	H2O	Ferrocytochrome b5	white
+acyl-CoA 6-desaturase (Delta-6 desaturase)	1.14.19.3	H2O	H+	white
+acyl-CoA 6-desaturase (Delta-6 desaturase)	1.14.19.3	H2O	Linoleoyl-CoA	white
+acyl-CoA 6-desaturase (Delta-6 desaturase)	1.14.19.3	H2O	Oxygen	white
+acyl-CoA 6-desaturase (Delta-6 desaturase)	1.14.19.3	Linoleoyl-CoA	Ferricytochrome b5	white
+acyl-CoA 6-desaturase (Delta-6 desaturase)	1.14.19.3	Linoleoyl-CoA	H2O	white
+acyl-CoA 6-desaturase (Delta-6 desaturase)	1.14.19.3	Linoleoyl-CoA	gamma-Linolenoyl-CoA	white
+acyl-CoA 6-desaturase (Delta-6 desaturase)	1.14.19.3	Oxygen	Ferricytochrome b5	white
+acyl-CoA 6-desaturase (Delta-6 desaturase)	1.14.19.3	Oxygen	H2O	white
+acyl-CoA 6-desaturase (Delta-6 desaturase)	1.14.19.3	Oxygen	gamma-Linolenoyl-CoA	white
+acyl-CoA 6-desaturase (Delta-6 desaturase)	1.14.19.3	gamma-Linolenoyl-CoA	Ferrocytochrome b5	white
+acyl-CoA 6-desaturase (Delta-6 desaturase)	1.14.19.3	gamma-Linolenoyl-CoA	H+	white
+acyl-CoA 6-desaturase (Delta-6 desaturase)	1.14.19.3	gamma-Linolenoyl-CoA	Linoleoyl-CoA	white
+acyl-CoA 6-desaturase (Delta-6 desaturase)	1.14.19.3	gamma-Linolenoyl-CoA	Oxygen	white
+acyl-CoA oxidase	1.3.3.6	(6Z,9Z,12Z,15Z,18Z)-Tetracosapentaenoyl-CoA	(2E,6Z,9Z,12Z,15Z,18Z)-Tetracosahexaenoyl-CoA	green
+acyl-CoA oxidase	1.3.3.6	(6Z,9Z,12Z,15Z,18Z)-Tetracosapentaenoyl-CoA	Hydrogen peroxide	green
+acyl-CoA oxidase	1.3.3.6	(6Z,9Z,12Z,15Z,18Z,21Z)-Tetracosahexaenoyl-CoA	(2E,6Z,9Z,12Z,15Z,18Z,21Z)-Tetracosaheptaenoyl-CoA	green
+acyl-CoA oxidase	1.3.3.6	(6Z,9Z,12Z,15Z,18Z,21Z)-Tetracosahexaenoyl-CoA	Hydrogen peroxide	green
+acyl-CoA oxidase	1.3.3.6	Oxygen	(2E,6Z,9Z,12Z,15Z,18Z)-Tetracosahexaenoyl-CoA	green
+acyl-CoA oxidase	1.3.3.6	Oxygen	(2E,6Z,9Z,12Z,15Z,18Z,21Z)-Tetracosaheptaenoyl-CoA	green
+acyl-CoA oxidase	1.3.3.6	Oxygen	Hydrogen peroxide	green
+acyl-CoA thioesterase I	3.1.2.-	CoA	H2O	white
+acyl-CoA thioesterase I	3.1.2.-	CoA	Palmitoyl-CoA	white
+acyl-CoA thioesterase I	3.1.2.-	H2O	CoA	white
+acyl-CoA thioesterase I	3.1.2.-	H2O	Hexadecanoic acid	white
+acyl-CoA thioesterase I	3.1.2.-	Hexadecanoic acid	H2O	white
+acyl-CoA thioesterase I	3.1.2.-	Hexadecanoic acid	Palmitoyl-CoA	white
+acyl-CoA thioesterase I	3.1.2.-	Palmitoyl-CoA	CoA	white
+acyl-CoA thioesterase I	3.1.2.-	Palmitoyl-CoA	Hexadecanoic acid	white
+acyl-CoA thioesterase II	3.1.2.-	H2O	CoA	green
+acyl-CoA thioesterase II	3.1.2.-	H2O	Hexadecanoic acid	green
+acyl-CoA thioesterase II	3.1.2.-	Palmitoyl-CoA	CoA	green
+acyl-CoA thioesterase II	3.1.2.-	Palmitoyl-CoA	Hexadecanoic acid	green
+acyl-CoA thioesterase YciA	3.1.2.-	CoA	H2O	white
+acyl-CoA thioesterase YciA	3.1.2.-	CoA	Palmitoyl-CoA	white
+acyl-CoA thioesterase YciA	3.1.2.-	H2O	CoA	white
+acyl-CoA thioesterase YciA	3.1.2.-	H2O	Hexadecanoic acid	white
+acyl-CoA thioesterase YciA	3.1.2.-	Hexadecanoic acid	H2O	white
+acyl-CoA thioesterase YciA	3.1.2.-	Hexadecanoic acid	Palmitoyl-CoA	white
+acyl-CoA thioesterase YciA	3.1.2.-	Palmitoyl-CoA	CoA	white
+acyl-CoA thioesterase YciA	3.1.2.-	Palmitoyl-CoA	Hexadecanoic acid	white
+acyl-[acyl-carrier protein] desaturase	1.14.19.2	Ferrocytochrome b5	Ferricytochrome b5	green
+acyl-[acyl-carrier protein] desaturase	1.14.19.2	Ferrocytochrome b5	H2O	green
+acyl-[acyl-carrier protein] desaturase	1.14.19.2	Ferrocytochrome b5	Oleoyl-CoA	green
+acyl-[acyl-carrier protein] desaturase	1.14.19.2	H+	Ferricytochrome b5	green
+acyl-[acyl-carrier protein] desaturase	1.14.19.2	H+	H2O	green
+acyl-[acyl-carrier protein] desaturase	1.14.19.2	H+	NADP+	green
+acyl-[acyl-carrier protein] desaturase	1.14.19.2	H+	Oleoyl-CoA	green
+acyl-[acyl-carrier protein] desaturase	1.14.19.2	H+	Oleoyl-[acyl-carrier protein]	green
+acyl-[acyl-carrier protein] desaturase	1.14.19.2	H+	Oxidized ferredoxin	green
+acyl-[acyl-carrier protein] desaturase	1.14.19.2	NADPH	H2O	green
+acyl-[acyl-carrier protein] desaturase	1.14.19.2	NADPH	NADP+	green
+acyl-[acyl-carrier protein] desaturase	1.14.19.2	NADPH	Oleoyl-CoA	green
+acyl-[acyl-carrier protein] desaturase	1.14.19.2	Octadecanoyl-[acyl-carrier protein]	H2O	green
+acyl-[acyl-carrier protein] desaturase	1.14.19.2	Octadecanoyl-[acyl-carrier protein]	Oleoyl-[acyl-carrier protein]	green
+acyl-[acyl-carrier protein] desaturase	1.14.19.2	Octadecanoyl-[acyl-carrier protein]	Oxidized ferredoxin	green
+acyl-[acyl-carrier protein] desaturase	1.14.19.2	Oxygen	Ferricytochrome b5	green
+acyl-[acyl-carrier protein] desaturase	1.14.19.2	Oxygen	H2O	green
+acyl-[acyl-carrier protein] desaturase	1.14.19.2	Oxygen	NADP+	green
+acyl-[acyl-carrier protein] desaturase	1.14.19.2	Oxygen	Oleoyl-CoA	green
+acyl-[acyl-carrier protein] desaturase	1.14.19.2	Oxygen	Oleoyl-[acyl-carrier protein]	green
+acyl-[acyl-carrier protein] desaturase	1.14.19.2	Oxygen	Oxidized ferredoxin	green
+acyl-[acyl-carrier protein] desaturase	1.14.19.2	Reduced ferredoxin	H2O	green
+acyl-[acyl-carrier protein] desaturase	1.14.19.2	Reduced ferredoxin	Oleoyl-[acyl-carrier protein]	green
+acyl-[acyl-carrier protein] desaturase	1.14.19.2	Reduced ferredoxin	Oxidized ferredoxin	green
+acyl-[acyl-carrier protein] desaturase	1.14.19.2	Stearoyl-CoA	Ferricytochrome b5	green
+acyl-[acyl-carrier protein] desaturase	1.14.19.2	Stearoyl-CoA	H2O	green
+acyl-[acyl-carrier protein] desaturase	1.14.19.2	Stearoyl-CoA	NADP+	green
+acyl-[acyl-carrier protein] desaturase	1.14.19.2	Stearoyl-CoA	Oleoyl-CoA	green
+acyl-coenzyme A thioesterase 1/2/4	3.1.2.2	CoA	H2O	white
+acyl-coenzyme A thioesterase 1/2/4	3.1.2.2	CoA	Palmitoyl-CoA	white
+acyl-coenzyme A thioesterase 1/2/4	3.1.2.2	H2O	CoA	white
+acyl-coenzyme A thioesterase 1/2/4	3.1.2.2	H2O	Hexadecanoic acid	white
+acyl-coenzyme A thioesterase 1/2/4	3.1.2.2	Hexadecanoic acid	H2O	white
+acyl-coenzyme A thioesterase 1/2/4	3.1.2.2	Hexadecanoic acid	Palmitoyl-CoA	white
+acyl-coenzyme A thioesterase 1/2/4	3.1.2.2	Palmitoyl-CoA	CoA	white
+acyl-coenzyme A thioesterase 1/2/4	3.1.2.2	Palmitoyl-CoA	Hexadecanoic acid	white
+acyl-coenzyme A thioesterase 7	3.1.2.2	CoA	H2O	white
+acyl-coenzyme A thioesterase 7	3.1.2.2	CoA	Palmitoyl-CoA	white
+acyl-coenzyme A thioesterase 7	3.1.2.2	H2O	CoA	white
+acyl-coenzyme A thioesterase 7	3.1.2.2	H2O	Hexadecanoic acid	white
+acyl-coenzyme A thioesterase 7	3.1.2.2	Hexadecanoic acid	H2O	white
+acyl-coenzyme A thioesterase 7	3.1.2.2	Hexadecanoic acid	Palmitoyl-CoA	white
+acyl-coenzyme A thioesterase 7	3.1.2.2	Palmitoyl-CoA	CoA	white
+acyl-coenzyme A thioesterase 7	3.1.2.2	Palmitoyl-CoA	Hexadecanoic acid	white
+bifunctional Delta-12/omega-3 fatty acid desaturase	1.14.19.6	(9Z,12Z,15Z)-Octadecatrienoyl-CoA	Ferrocytochrome b5	white
+bifunctional Delta-12/omega-3 fatty acid desaturase	1.14.19.6	(9Z,12Z,15Z)-Octadecatrienoyl-CoA	H+	white
+bifunctional Delta-12/omega-3 fatty acid desaturase	1.14.19.6	(9Z,12Z,15Z)-Octadecatrienoyl-CoA	Linoleoyl-CoA	white
+bifunctional Delta-12/omega-3 fatty acid desaturase	1.14.19.6	(9Z,12Z,15Z)-Octadecatrienoyl-CoA	Oxygen	white
+bifunctional Delta-12/omega-3 fatty acid desaturase	1.14.19.6	Ferricytochrome b5	Ferrocytochrome b5	white
+bifunctional Delta-12/omega-3 fatty acid desaturase	1.14.19.6	Ferricytochrome b5	H+	white
+bifunctional Delta-12/omega-3 fatty acid desaturase	1.14.19.6	Ferricytochrome b5	Linoleoyl-CoA	white
+bifunctional Delta-12/omega-3 fatty acid desaturase	1.14.19.6	Ferricytochrome b5	Oxygen	white
+bifunctional Delta-12/omega-3 fatty acid desaturase	1.14.19.6	Ferrocytochrome b5	(9Z,12Z,15Z)-Octadecatrienoyl-CoA	white
+bifunctional Delta-12/omega-3 fatty acid desaturase	1.14.19.6	Ferrocytochrome b5	Ferricytochrome b5	white
+bifunctional Delta-12/omega-3 fatty acid desaturase	1.14.19.6	Ferrocytochrome b5	H2O	white
+bifunctional Delta-12/omega-3 fatty acid desaturase	1.14.19.6	H+	(9Z,12Z,15Z)-Octadecatrienoyl-CoA	white
+bifunctional Delta-12/omega-3 fatty acid desaturase	1.14.19.6	H+	Ferricytochrome b5	white
+bifunctional Delta-12/omega-3 fatty acid desaturase	1.14.19.6	H+	H2O	white
+bifunctional Delta-12/omega-3 fatty acid desaturase	1.14.19.6	H2O	Ferrocytochrome b5	white
+bifunctional Delta-12/omega-3 fatty acid desaturase	1.14.19.6	H2O	H+	white
+bifunctional Delta-12/omega-3 fatty acid desaturase	1.14.19.6	H2O	Linoleoyl-CoA	white
+bifunctional Delta-12/omega-3 fatty acid desaturase	1.14.19.6	H2O	Oxygen	white
+bifunctional Delta-12/omega-3 fatty acid desaturase	1.14.19.6	Linoleoyl-CoA	(9Z,12Z,15Z)-Octadecatrienoyl-CoA	white
+bifunctional Delta-12/omega-3 fatty acid desaturase	1.14.19.6	Linoleoyl-CoA	Ferricytochrome b5	white
+bifunctional Delta-12/omega-3 fatty acid desaturase	1.14.19.6	Linoleoyl-CoA	H2O	white
+bifunctional Delta-12/omega-3 fatty acid desaturase	1.14.19.6	Oxygen	(9Z,12Z,15Z)-Octadecatrienoyl-CoA	white
+bifunctional Delta-12/omega-3 fatty acid desaturase	1.14.19.6	Oxygen	Ferricytochrome b5	white
+bifunctional Delta-12/omega-3 fatty acid desaturase	1.14.19.6	Oxygen	H2O	white
+bile acid-CoA:amino acid N-acyltransferase	2.3.1.65	Choloyl-CoA	CoA	white
+bile acid-CoA:amino acid N-acyltransferase	2.3.1.65	Choloyl-CoA	Glycocholate	white
+bile acid-CoA:amino acid N-acyltransferase	2.3.1.65	CoA	Choloyl-CoA	white
+bile acid-CoA:amino acid N-acyltransferase	2.3.1.65	CoA	Glycine	white
+bile acid-CoA:amino acid N-acyltransferase	2.3.1.65	Glycine	CoA	white
+bile acid-CoA:amino acid N-acyltransferase	2.3.1.65	Glycine	Glycocholate	white
+bile acid-CoA:amino acid N-acyltransferase	2.3.1.65	Glycocholate	Choloyl-CoA	white
+bile acid-CoA:amino acid N-acyltransferase	2.3.1.65	Glycocholate	Glycine	white
+elongation of very long chain fatty acids protein 1	2.3.1.199	3-Oxoacyl-CoA	Acyl-CoA	white
+elongation of very long chain fatty acids protein 1	2.3.1.199	3-Oxoacyl-CoA	Malonyl-CoA	white
+elongation of very long chain fatty acids protein 1	2.3.1.199	Acyl-CoA	3-Oxoacyl-CoA	white
+elongation of very long chain fatty acids protein 1	2.3.1.199	Acyl-CoA	CO2	white
+elongation of very long chain fatty acids protein 1	2.3.1.199	Acyl-CoA	CoA	white
+elongation of very long chain fatty acids protein 1	2.3.1.199	CO2	Acyl-CoA	white
+elongation of very long chain fatty acids protein 1	2.3.1.199	CO2	Malonyl-CoA	white
+elongation of very long chain fatty acids protein 1	2.3.1.199	CoA	Acyl-CoA	white
+elongation of very long chain fatty acids protein 1	2.3.1.199	CoA	Malonyl-CoA	white
+elongation of very long chain fatty acids protein 1	2.3.1.199	Malonyl-CoA	3-Oxoacyl-CoA	white
+elongation of very long chain fatty acids protein 1	2.3.1.199	Malonyl-CoA	CO2	white
+elongation of very long chain fatty acids protein 1	2.3.1.199	Malonyl-CoA	CoA	white
+elongation of very long chain fatty acids protein 2	2.3.1.199	3-Oxoacyl-CoA	Acyl-CoA	white
+elongation of very long chain fatty acids protein 2	2.3.1.199	3-Oxoacyl-CoA	Malonyl-CoA	white
+elongation of very long chain fatty acids protein 2	2.3.1.199	Acyl-CoA	3-Oxoacyl-CoA	white
+elongation of very long chain fatty acids protein 2	2.3.1.199	Acyl-CoA	CO2	white
+elongation of very long chain fatty acids protein 2	2.3.1.199	Acyl-CoA	CoA	white
+elongation of very long chain fatty acids protein 2	2.3.1.199	CO2	Acyl-CoA	white
+elongation of very long chain fatty acids protein 2	2.3.1.199	CO2	Malonyl-CoA	white
+elongation of very long chain fatty acids protein 2	2.3.1.199	CoA	Acyl-CoA	white
+elongation of very long chain fatty acids protein 2	2.3.1.199	CoA	Malonyl-CoA	white
+elongation of very long chain fatty acids protein 2	2.3.1.199	Malonyl-CoA	3-Oxoacyl-CoA	white
+elongation of very long chain fatty acids protein 2	2.3.1.199	Malonyl-CoA	CO2	white
+elongation of very long chain fatty acids protein 2	2.3.1.199	Malonyl-CoA	CoA	white
+elongation of very long chain fatty acids protein 3	2.3.1.199	3-Oxoacyl-CoA	Acyl-CoA	white
+elongation of very long chain fatty acids protein 3	2.3.1.199	3-Oxoacyl-CoA	Malonyl-CoA	white
+elongation of very long chain fatty acids protein 3	2.3.1.199	Acyl-CoA	3-Oxoacyl-CoA	white
+elongation of very long chain fatty acids protein 3	2.3.1.199	Acyl-CoA	CO2	white
+elongation of very long chain fatty acids protein 3	2.3.1.199	Acyl-CoA	CoA	white
+elongation of very long chain fatty acids protein 3	2.3.1.199	CO2	Acyl-CoA	white
+elongation of very long chain fatty acids protein 3	2.3.1.199	CO2	Malonyl-CoA	white
+elongation of very long chain fatty acids protein 3	2.3.1.199	CoA	Acyl-CoA	white
+elongation of very long chain fatty acids protein 3	2.3.1.199	CoA	Malonyl-CoA	white
+elongation of very long chain fatty acids protein 3	2.3.1.199	Malonyl-CoA	3-Oxoacyl-CoA	white
+elongation of very long chain fatty acids protein 3	2.3.1.199	Malonyl-CoA	CO2	white
+elongation of very long chain fatty acids protein 3	2.3.1.199	Malonyl-CoA	CoA	white
+elongation of very long chain fatty acids protein 4	2.3.1.199	3-Oxoacyl-CoA	Acyl-CoA	white
+elongation of very long chain fatty acids protein 4	2.3.1.199	3-Oxoacyl-CoA	Malonyl-CoA	white
+elongation of very long chain fatty acids protein 4	2.3.1.199	Acyl-CoA	3-Oxoacyl-CoA	white
+elongation of very long chain fatty acids protein 4	2.3.1.199	Acyl-CoA	CO2	white
+elongation of very long chain fatty acids protein 4	2.3.1.199	Acyl-CoA	CoA	white
+elongation of very long chain fatty acids protein 4	2.3.1.199	CO2	Acyl-CoA	white
+elongation of very long chain fatty acids protein 4	2.3.1.199	CO2	Malonyl-CoA	white
+elongation of very long chain fatty acids protein 4	2.3.1.199	CoA	Acyl-CoA	white
+elongation of very long chain fatty acids protein 4	2.3.1.199	CoA	Malonyl-CoA	white
+elongation of very long chain fatty acids protein 4	2.3.1.199	Malonyl-CoA	3-Oxoacyl-CoA	white
+elongation of very long chain fatty acids protein 4	2.3.1.199	Malonyl-CoA	CO2	white
+elongation of very long chain fatty acids protein 4	2.3.1.199	Malonyl-CoA	CoA	white
+elongation of very long chain fatty acids protein 5	2.3.1.199	3-Oxoacyl-CoA	Acyl-CoA	white
+elongation of very long chain fatty acids protein 5	2.3.1.199	3-Oxoacyl-CoA	Malonyl-CoA	white
+elongation of very long chain fatty acids protein 5	2.3.1.199	Acyl-CoA	3-Oxoacyl-CoA	white
+elongation of very long chain fatty acids protein 5	2.3.1.199	Acyl-CoA	CO2	white
+elongation of very long chain fatty acids protein 5	2.3.1.199	Acyl-CoA	CoA	white
+elongation of very long chain fatty acids protein 5	2.3.1.199	CO2	Acyl-CoA	white
+elongation of very long chain fatty acids protein 5	2.3.1.199	CO2	Malonyl-CoA	white
+elongation of very long chain fatty acids protein 5	2.3.1.199	CoA	Acyl-CoA	white
+elongation of very long chain fatty acids protein 5	2.3.1.199	CoA	Malonyl-CoA	white
+elongation of very long chain fatty acids protein 5	2.3.1.199	Malonyl-CoA	3-Oxoacyl-CoA	white
+elongation of very long chain fatty acids protein 5	2.3.1.199	Malonyl-CoA	CO2	white
+elongation of very long chain fatty acids protein 5	2.3.1.199	Malonyl-CoA	CoA	white
+elongation of very long chain fatty acids protein 6	2.3.1.199	3-Oxostearoyl-CoA	Malonyl-CoA	white
+elongation of very long chain fatty acids protein 6	2.3.1.199	3-Oxostearoyl-CoA	Palmitoyl-CoA	white
+elongation of very long chain fatty acids protein 6	2.3.1.199	CO2	Malonyl-CoA	white
+elongation of very long chain fatty acids protein 6	2.3.1.199	CO2	Palmitoyl-CoA	white
+elongation of very long chain fatty acids protein 6	2.3.1.199	CoA	Malonyl-CoA	white
+elongation of very long chain fatty acids protein 6	2.3.1.199	CoA	Palmitoyl-CoA	white
+elongation of very long chain fatty acids protein 6	2.3.1.199	Malonyl-CoA	3-Oxostearoyl-CoA	white
+elongation of very long chain fatty acids protein 6	2.3.1.199	Malonyl-CoA	CO2	white
+elongation of very long chain fatty acids protein 6	2.3.1.199	Malonyl-CoA	CoA	white
+elongation of very long chain fatty acids protein 6	2.3.1.199	Palmitoyl-CoA	3-Oxostearoyl-CoA	white
+elongation of very long chain fatty acids protein 6	2.3.1.199	Palmitoyl-CoA	CO2	white
+elongation of very long chain fatty acids protein 6	2.3.1.199	Palmitoyl-CoA	CoA	white
+elongation of very long chain fatty acids protein 7	2.3.1.199	3-Oxoacyl-CoA	Acyl-CoA	white
+elongation of very long chain fatty acids protein 7	2.3.1.199	3-Oxoacyl-CoA	Malonyl-CoA	white
+elongation of very long chain fatty acids protein 7	2.3.1.199	Acyl-CoA	3-Oxoacyl-CoA	white
+elongation of very long chain fatty acids protein 7	2.3.1.199	Acyl-CoA	CO2	white
+elongation of very long chain fatty acids protein 7	2.3.1.199	Acyl-CoA	CoA	white
+elongation of very long chain fatty acids protein 7	2.3.1.199	CO2	Acyl-CoA	white
+elongation of very long chain fatty acids protein 7	2.3.1.199	CO2	Malonyl-CoA	white
+elongation of very long chain fatty acids protein 7	2.3.1.199	CoA	Acyl-CoA	white
+elongation of very long chain fatty acids protein 7	2.3.1.199	CoA	Malonyl-CoA	white
+elongation of very long chain fatty acids protein 7	2.3.1.199	Malonyl-CoA	3-Oxoacyl-CoA	white
+elongation of very long chain fatty acids protein 7	2.3.1.199	Malonyl-CoA	CO2	white
+elongation of very long chain fatty acids protein 7	2.3.1.199	Malonyl-CoA	CoA	white
+fatty acid elongase 2	2.3.1.199	3-Oxostearoyl-CoA	Malonyl-CoA	white
+fatty acid elongase 2	2.3.1.199	3-Oxostearoyl-CoA	Palmitoyl-CoA	white
+fatty acid elongase 2	2.3.1.199	CO2	Malonyl-CoA	white
+fatty acid elongase 2	2.3.1.199	CO2	Palmitoyl-CoA	white
+fatty acid elongase 2	2.3.1.199	CoA	Malonyl-CoA	white
+fatty acid elongase 2	2.3.1.199	CoA	Palmitoyl-CoA	white
+fatty acid elongase 2	2.3.1.199	Malonyl-CoA	3-Oxostearoyl-CoA	white
+fatty acid elongase 2	2.3.1.199	Malonyl-CoA	CO2	white
+fatty acid elongase 2	2.3.1.199	Malonyl-CoA	CoA	white
+fatty acid elongase 2	2.3.1.199	Palmitoyl-CoA	3-Oxostearoyl-CoA	white
+fatty acid elongase 2	2.3.1.199	Palmitoyl-CoA	CO2	white
+fatty acid elongase 2	2.3.1.199	Palmitoyl-CoA	CoA	white
+fatty acid elongase 3	2.3.1.199	3-Oxostearoyl-CoA	Malonyl-CoA	white
+fatty acid elongase 3	2.3.1.199	3-Oxostearoyl-CoA	Palmitoyl-CoA	white
+fatty acid elongase 3	2.3.1.199	CO2	Malonyl-CoA	white
+fatty acid elongase 3	2.3.1.199	CO2	Palmitoyl-CoA	white
+fatty acid elongase 3	2.3.1.199	CoA	Malonyl-CoA	white
+fatty acid elongase 3	2.3.1.199	CoA	Palmitoyl-CoA	white
+fatty acid elongase 3	2.3.1.199	Malonyl-CoA	3-Oxostearoyl-CoA	white
+fatty acid elongase 3	2.3.1.199	Malonyl-CoA	CO2	white
+fatty acid elongase 3	2.3.1.199	Malonyl-CoA	CoA	white
+fatty acid elongase 3	2.3.1.199	Palmitoyl-CoA	3-Oxostearoyl-CoA	white
+fatty acid elongase 3	2.3.1.199	Palmitoyl-CoA	CO2	white
+fatty acid elongase 3	2.3.1.199	Palmitoyl-CoA	CoA	white
+omega-3 fatty acid desaturase (Delta-15 desaturase)	1.14.19.-	(9Z,12Z,15Z)-Octadecatrienoyl-CoA	Ferrocytochrome b5	white
+omega-3 fatty acid desaturase (Delta-15 desaturase)	1.14.19.-	(9Z,12Z,15Z)-Octadecatrienoyl-CoA	H+	white
+omega-3 fatty acid desaturase (Delta-15 desaturase)	1.14.19.-	(9Z,12Z,15Z)-Octadecatrienoyl-CoA	Linoleoyl-CoA	white
+omega-3 fatty acid desaturase (Delta-15 desaturase)	1.14.19.-	(9Z,12Z,15Z)-Octadecatrienoyl-CoA	Oxygen	white
+omega-3 fatty acid desaturase (Delta-15 desaturase)	1.14.19.-	Ferricytochrome b5	Ferrocytochrome b5	white
+omega-3 fatty acid desaturase (Delta-15 desaturase)	1.14.19.-	Ferricytochrome b5	H+	white
+omega-3 fatty acid desaturase (Delta-15 desaturase)	1.14.19.-	Ferricytochrome b5	Linoleoyl-CoA	white
+omega-3 fatty acid desaturase (Delta-15 desaturase)	1.14.19.-	Ferricytochrome b5	Oxygen	white
+omega-3 fatty acid desaturase (Delta-15 desaturase)	1.14.19.-	Ferrocytochrome b5	(9Z,12Z,15Z)-Octadecatrienoyl-CoA	white
+omega-3 fatty acid desaturase (Delta-15 desaturase)	1.14.19.-	Ferrocytochrome b5	Ferricytochrome b5	white
+omega-3 fatty acid desaturase (Delta-15 desaturase)	1.14.19.-	Ferrocytochrome b5	H2O	white
+omega-3 fatty acid desaturase (Delta-15 desaturase)	1.14.19.-	H+	(9Z,12Z,15Z)-Octadecatrienoyl-CoA	white
+omega-3 fatty acid desaturase (Delta-15 desaturase)	1.14.19.-	H+	Ferricytochrome b5	white
+omega-3 fatty acid desaturase (Delta-15 desaturase)	1.14.19.-	H+	H2O	white
+omega-3 fatty acid desaturase (Delta-15 desaturase)	1.14.19.-	H2O	Ferrocytochrome b5	white
+omega-3 fatty acid desaturase (Delta-15 desaturase)	1.14.19.-	H2O	H+	white
+omega-3 fatty acid desaturase (Delta-15 desaturase)	1.14.19.-	H2O	Linoleoyl-CoA	white
+omega-3 fatty acid desaturase (Delta-15 desaturase)	1.14.19.-	H2O	Oxygen	white
+omega-3 fatty acid desaturase (Delta-15 desaturase)	1.14.19.-	Linoleoyl-CoA	(9Z,12Z,15Z)-Octadecatrienoyl-CoA	white
+omega-3 fatty acid desaturase (Delta-15 desaturase)	1.14.19.-	Linoleoyl-CoA	Ferricytochrome b5	white
+omega-3 fatty acid desaturase (Delta-15 desaturase)	1.14.19.-	Linoleoyl-CoA	H2O	white
+omega-3 fatty acid desaturase (Delta-15 desaturase)	1.14.19.-	Oxygen	(9Z,12Z,15Z)-Octadecatrienoyl-CoA	white
+omega-3 fatty acid desaturase (Delta-15 desaturase)	1.14.19.-	Oxygen	Ferricytochrome b5	white
+omega-3 fatty acid desaturase (Delta-15 desaturase)	1.14.19.-	Oxygen	H2O	white
+omega-6 fatty acid desaturase / acyl-lipid omega-6 desaturase (Delta-12 desaturase)	1.14.19.6	Ferricytochrome b5	Ferrocytochrome b5	white
+omega-6 fatty acid desaturase / acyl-lipid omega-6 desaturase (Delta-12 desaturase)	1.14.19.6	Ferricytochrome b5	H+	white
+omega-6 fatty acid desaturase / acyl-lipid omega-6 desaturase (Delta-12 desaturase)	1.14.19.6	Ferricytochrome b5	Oleoyl-CoA	white
+omega-6 fatty acid desaturase / acyl-lipid omega-6 desaturase (Delta-12 desaturase)	1.14.19.6	Ferricytochrome b5	Oxygen	white
+omega-6 fatty acid desaturase / acyl-lipid omega-6 desaturase (Delta-12 desaturase)	1.14.19.6	Ferrocytochrome b5	Ferricytochrome b5	white
+omega-6 fatty acid desaturase / acyl-lipid omega-6 desaturase (Delta-12 desaturase)	1.14.19.6	Ferrocytochrome b5	H2O	white
+omega-6 fatty acid desaturase / acyl-lipid omega-6 desaturase (Delta-12 desaturase)	1.14.19.6	Ferrocytochrome b5	Linoleoyl-CoA	white
+omega-6 fatty acid desaturase / acyl-lipid omega-6 desaturase (Delta-12 desaturase)	1.14.19.6	H+	Ferricytochrome b5	white
+omega-6 fatty acid desaturase / acyl-lipid omega-6 desaturase (Delta-12 desaturase)	1.14.19.6	H+	H2O	white
+omega-6 fatty acid desaturase / acyl-lipid omega-6 desaturase (Delta-12 desaturase)	1.14.19.6	H+	Linoleoyl-CoA	white
+omega-6 fatty acid desaturase / acyl-lipid omega-6 desaturase (Delta-12 desaturase)	1.14.19.6	H2O	Ferrocytochrome b5	white
+omega-6 fatty acid desaturase / acyl-lipid omega-6 desaturase (Delta-12 desaturase)	1.14.19.6	H2O	H+	white
+omega-6 fatty acid desaturase / acyl-lipid omega-6 desaturase (Delta-12 desaturase)	1.14.19.6	H2O	Oleoyl-CoA	white
+omega-6 fatty acid desaturase / acyl-lipid omega-6 desaturase (Delta-12 desaturase)	1.14.19.6	H2O	Oxygen	white
+omega-6 fatty acid desaturase / acyl-lipid omega-6 desaturase (Delta-12 desaturase)	1.14.19.6	Linoleoyl-CoA	Ferrocytochrome b5	white
+omega-6 fatty acid desaturase / acyl-lipid omega-6 desaturase (Delta-12 desaturase)	1.14.19.6	Linoleoyl-CoA	H+	white
+omega-6 fatty acid desaturase / acyl-lipid omega-6 desaturase (Delta-12 desaturase)	1.14.19.6	Linoleoyl-CoA	Oleoyl-CoA	white
+omega-6 fatty acid desaturase / acyl-lipid omega-6 desaturase (Delta-12 desaturase)	1.14.19.6	Linoleoyl-CoA	Oxygen	white
+omega-6 fatty acid desaturase / acyl-lipid omega-6 desaturase (Delta-12 desaturase)	1.14.19.6	Oleoyl-CoA	Ferricytochrome b5	white
+omega-6 fatty acid desaturase / acyl-lipid omega-6 desaturase (Delta-12 desaturase)	1.14.19.6	Oleoyl-CoA	H2O	white
+omega-6 fatty acid desaturase / acyl-lipid omega-6 desaturase (Delta-12 desaturase)	1.14.19.6	Oleoyl-CoA	Linoleoyl-CoA	white
+omega-6 fatty acid desaturase / acyl-lipid omega-6 desaturase (Delta-12 desaturase)	1.14.19.6	Oxygen	Ferricytochrome b5	white
+omega-6 fatty acid desaturase / acyl-lipid omega-6 desaturase (Delta-12 desaturase)	1.14.19.6	Oxygen	H2O	white
+omega-6 fatty acid desaturase / acyl-lipid omega-6 desaturase (Delta-12 desaturase)	1.14.19.6	Oxygen	Linoleoyl-CoA	white
+stearoyl-CoA 9-desaturase NADPH oxidoreductase	1.14.19.-	Ferrocytochrome b5	Ferricytochrome b5	green
+stearoyl-CoA 9-desaturase NADPH oxidoreductase	1.14.19.-	Ferrocytochrome b5	H2O	green
+stearoyl-CoA 9-desaturase NADPH oxidoreductase	1.14.19.-	Ferrocytochrome b5	Oleoyl-CoA	green
+stearoyl-CoA 9-desaturase NADPH oxidoreductase	1.14.19.-	H+	Ferricytochrome b5	green
+stearoyl-CoA 9-desaturase NADPH oxidoreductase	1.14.19.-	H+	H2O	green
+stearoyl-CoA 9-desaturase NADPH oxidoreductase	1.14.19.-	H+	NADP+	green
+stearoyl-CoA 9-desaturase NADPH oxidoreductase	1.14.19.-	H+	Oleoyl-CoA	green
+stearoyl-CoA 9-desaturase NADPH oxidoreductase	1.14.19.-	H+	Oleoyl-[acyl-carrier protein]	green
+stearoyl-CoA 9-desaturase NADPH oxidoreductase	1.14.19.-	H+	Oxidized ferredoxin	green
+stearoyl-CoA 9-desaturase NADPH oxidoreductase	1.14.19.-	NADPH	H2O	green
+stearoyl-CoA 9-desaturase NADPH oxidoreductase	1.14.19.-	NADPH	NADP+	green
+stearoyl-CoA 9-desaturase NADPH oxidoreductase	1.14.19.-	NADPH	Oleoyl-CoA	green
+stearoyl-CoA 9-desaturase NADPH oxidoreductase	1.14.19.-	Octadecanoyl-[acyl-carrier protein]	H2O	green
+stearoyl-CoA 9-desaturase NADPH oxidoreductase	1.14.19.-	Octadecanoyl-[acyl-carrier protein]	Oleoyl-[acyl-carrier protein]	green
+stearoyl-CoA 9-desaturase NADPH oxidoreductase	1.14.19.-	Octadecanoyl-[acyl-carrier protein]	Oxidized ferredoxin	green
+stearoyl-CoA 9-desaturase NADPH oxidoreductase	1.14.19.-	Oxygen	Ferricytochrome b5	green
+stearoyl-CoA 9-desaturase NADPH oxidoreductase	1.14.19.-	Oxygen	H2O	green
+stearoyl-CoA 9-desaturase NADPH oxidoreductase	1.14.19.-	Oxygen	NADP+	green
+stearoyl-CoA 9-desaturase NADPH oxidoreductase	1.14.19.-	Oxygen	Oleoyl-CoA	green
+stearoyl-CoA 9-desaturase NADPH oxidoreductase	1.14.19.-	Oxygen	Oleoyl-[acyl-carrier protein]	green
+stearoyl-CoA 9-desaturase NADPH oxidoreductase	1.14.19.-	Oxygen	Oxidized ferredoxin	green
+stearoyl-CoA 9-desaturase NADPH oxidoreductase	1.14.19.-	Reduced ferredoxin	H2O	green
+stearoyl-CoA 9-desaturase NADPH oxidoreductase	1.14.19.-	Reduced ferredoxin	Oleoyl-[acyl-carrier protein]	green
+stearoyl-CoA 9-desaturase NADPH oxidoreductase	1.14.19.-	Reduced ferredoxin	Oxidized ferredoxin	green
+stearoyl-CoA 9-desaturase NADPH oxidoreductase	1.14.19.-	Stearoyl-CoA	Ferricytochrome b5	green
+stearoyl-CoA 9-desaturase NADPH oxidoreductase	1.14.19.-	Stearoyl-CoA	H2O	green
+stearoyl-CoA 9-desaturase NADPH oxidoreductase	1.14.19.-	Stearoyl-CoA	NADP+	green
+stearoyl-CoA 9-desaturase NADPH oxidoreductase	1.14.19.-	Stearoyl-CoA	Oleoyl-CoA	green
+stearoyl-CoA desaturase (Delta-9 desaturase)	1.14.19.1	Ferricytochrome b5	Ferrocytochrome b5	white
+stearoyl-CoA desaturase (Delta-9 desaturase)	1.14.19.1	Ferricytochrome b5	H+	white
+stearoyl-CoA desaturase (Delta-9 desaturase)	1.14.19.1	Ferricytochrome b5	Oxygen	white
+stearoyl-CoA desaturase (Delta-9 desaturase)	1.14.19.1	Ferricytochrome b5	Stearoyl-CoA	white
+stearoyl-CoA desaturase (Delta-9 desaturase)	1.14.19.1	Ferrocytochrome b5	Ferricytochrome b5	white
+stearoyl-CoA desaturase (Delta-9 desaturase)	1.14.19.1	Ferrocytochrome b5	H2O	white
+stearoyl-CoA desaturase (Delta-9 desaturase)	1.14.19.1	Ferrocytochrome b5	Oleoyl-CoA	white
+stearoyl-CoA desaturase (Delta-9 desaturase)	1.14.19.1	H+	Ferricytochrome b5	white
+stearoyl-CoA desaturase (Delta-9 desaturase)	1.14.19.1	H+	H2O	white
+stearoyl-CoA desaturase (Delta-9 desaturase)	1.14.19.1	H+	Oleoyl-CoA	white
+stearoyl-CoA desaturase (Delta-9 desaturase)	1.14.19.1	H2O	Ferrocytochrome b5	white
+stearoyl-CoA desaturase (Delta-9 desaturase)	1.14.19.1	H2O	H+	white
+stearoyl-CoA desaturase (Delta-9 desaturase)	1.14.19.1	H2O	Oxygen	white
+stearoyl-CoA desaturase (Delta-9 desaturase)	1.14.19.1	H2O	Stearoyl-CoA	white
+stearoyl-CoA desaturase (Delta-9 desaturase)	1.14.19.1	Oleoyl-CoA	Ferrocytochrome b5	white
+stearoyl-CoA desaturase (Delta-9 desaturase)	1.14.19.1	Oleoyl-CoA	H+	white
+stearoyl-CoA desaturase (Delta-9 desaturase)	1.14.19.1	Oleoyl-CoA	Oxygen	white
+stearoyl-CoA desaturase (Delta-9 desaturase)	1.14.19.1	Oleoyl-CoA	Stearoyl-CoA	white
+stearoyl-CoA desaturase (Delta-9 desaturase)	1.14.19.1	Oxygen	Ferricytochrome b5	white
+stearoyl-CoA desaturase (Delta-9 desaturase)	1.14.19.1	Oxygen	H2O	white
+stearoyl-CoA desaturase (Delta-9 desaturase)	1.14.19.1	Oxygen	Oleoyl-CoA	white
+stearoyl-CoA desaturase (Delta-9 desaturase)	1.14.19.1	Stearoyl-CoA	Ferricytochrome b5	white
+stearoyl-CoA desaturase (Delta-9 desaturase)	1.14.19.1	Stearoyl-CoA	H2O	white
+stearoyl-CoA desaturase (Delta-9 desaturase)	1.14.19.1	Stearoyl-CoA	Oleoyl-CoA	white
+sterol carrier protein 2	2.3.1.176	3alpha,7alpha,12alpha-Trihydroxy-5beta-24-oxocholestanoyl-CoA	Choloyl-CoA	white
+sterol carrier protein 2	2.3.1.176	3alpha,7alpha,12alpha-Trihydroxy-5beta-24-oxocholestanoyl-CoA	Propanoyl-CoA	white
+sterol carrier protein 2	2.3.1.176	Choloyl-CoA	3alpha,7alpha,12alpha-Trihydroxy-5beta-24-oxocholestanoyl-CoA	white
+sterol carrier protein 2	2.3.1.176	Choloyl-CoA	CoA	white
+sterol carrier protein 2	2.3.1.176	CoA	Choloyl-CoA	white
+sterol carrier protein 2	2.3.1.176	CoA	Propanoyl-CoA	white
+sterol carrier protein 2	2.3.1.176	Propanoyl-CoA	3alpha,7alpha,12alpha-Trihydroxy-5beta-24-oxocholestanoyl-CoA	white
+sterol carrier protein 2	2.3.1.176	Propanoyl-CoA	CoA	white
+very-long-chain (3R)-3-hydroxyacyl-CoA dehydratase	4.2.1.134	(2E)-Octadecenoyl-CoA	3-Hydroxyoctadecanoyl-CoA	white
+very-long-chain (3R)-3-hydroxyacyl-CoA dehydratase	4.2.1.134	3-Hydroxyoctadecanoyl-CoA	(2E)-Octadecenoyl-CoA	white
+very-long-chain (3R)-3-hydroxyacyl-CoA dehydratase	4.2.1.134	3-Hydroxyoctadecanoyl-CoA	H2O	white
+very-long-chain (3R)-3-hydroxyacyl-CoA dehydratase	4.2.1.134	H2O	3-Hydroxyoctadecanoyl-CoA	white
+very-long-chain enoyl-CoA reductase	1.3.1.93	(2E)-Octadecenoyl-CoA	NADP+	white
+very-long-chain enoyl-CoA reductase	1.3.1.93	(2E)-Octadecenoyl-CoA	Stearoyl-CoA	white
+very-long-chain enoyl-CoA reductase	1.3.1.93	H+	NADP+	white
+very-long-chain enoyl-CoA reductase	1.3.1.93	H+	Stearoyl-CoA	white
+very-long-chain enoyl-CoA reductase	1.3.1.93	NADP+	(2E)-Octadecenoyl-CoA	white
+very-long-chain enoyl-CoA reductase	1.3.1.93	NADP+	H+	white
+very-long-chain enoyl-CoA reductase	1.3.1.93	NADP+	NADPH	white
+very-long-chain enoyl-CoA reductase	1.3.1.93	NADPH	NADP+	white
+very-long-chain enoyl-CoA reductase	1.3.1.93	NADPH	Stearoyl-CoA	white
+very-long-chain enoyl-CoA reductase	1.3.1.93	Stearoyl-CoA	(2E)-Octadecenoyl-CoA	white
+very-long-chain enoyl-CoA reductase	1.3.1.93	Stearoyl-CoA	H+	white
+very-long-chain enoyl-CoA reductase	1.3.1.93	Stearoyl-CoA	NADPH	white

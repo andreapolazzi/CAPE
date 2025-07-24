@@ -1,0 +1,87 @@
+enzyme_name	EC	source	target	color
+L-glutamine:scyllo-inosose aminotransferase	2.6.1.50	1-Amino-1-deoxy-scyllo-inositol	2,4,6/3,5-Pentahydroxycyclohexanone	white
+L-glutamine:scyllo-inosose aminotransferase	2.6.1.50	1-Amino-1-deoxy-scyllo-inositol	L-Glutamine	white
+L-glutamine:scyllo-inosose aminotransferase	2.6.1.50	2,4,6/3,5-Pentahydroxycyclohexanone	1-Amino-1-deoxy-scyllo-inositol	white
+L-glutamine:scyllo-inosose aminotransferase	2.6.1.50	2,4,6/3,5-Pentahydroxycyclohexanone	2-Oxoglutaramate	white
+L-glutamine:scyllo-inosose aminotransferase	2.6.1.50	2-Oxoglutaramate	2,4,6/3,5-Pentahydroxycyclohexanone	white
+L-glutamine:scyllo-inosose aminotransferase	2.6.1.50	2-Oxoglutaramate	L-Glutamine	white
+L-glutamine:scyllo-inosose aminotransferase	2.6.1.50	L-Glutamine	1-Amino-1-deoxy-scyllo-inositol	white
+L-glutamine:scyllo-inosose aminotransferase	2.6.1.50	L-Glutamine	2-Oxoglutaramate	white
+dTDP-4-dehydrorhamnose 3,5-epimerase	5.1.3.13	dTDP-4-oxo-6-deoxy-D-glucose	dTDP-4-dehydro-beta-L-rhamnose	green
+dTDP-4-dehydrorhamnose reductase	1.1.1.133	NADP+	H+	green
+dTDP-4-dehydrorhamnose reductase	1.1.1.133	NADP+	NADPH	green
+dTDP-4-dehydrorhamnose reductase	1.1.1.133	NADP+	dTDP-4-dehydro-beta-L-rhamnose	green
+dTDP-4-dehydrorhamnose reductase	1.1.1.133	dTDP-L-rhamnose	H+	green
+dTDP-4-dehydrorhamnose reductase	1.1.1.133	dTDP-L-rhamnose	NADPH	green
+dTDP-4-dehydrorhamnose reductase	1.1.1.133	dTDP-L-rhamnose	dTDP-4-dehydro-beta-L-rhamnose	green
+dTDP-dihydrostreptose-streptidine-6-phosphate dihydrostreptosyltransferase	2.4.2.27	O-(1->4)-alpha-L-Dihydrostreptosyl-streptidine 6-phosphate	Streptidine 6-phosphate	white
+dTDP-dihydrostreptose-streptidine-6-phosphate dihydrostreptosyltransferase	2.4.2.27	O-(1->4)-alpha-L-Dihydrostreptosyl-streptidine 6-phosphate	dTDP-L-dihydrostreptose	white
+dTDP-dihydrostreptose-streptidine-6-phosphate dihydrostreptosyltransferase	2.4.2.27	Streptidine 6-phosphate	O-(1->4)-alpha-L-Dihydrostreptosyl-streptidine 6-phosphate	white
+dTDP-dihydrostreptose-streptidine-6-phosphate dihydrostreptosyltransferase	2.4.2.27	Streptidine 6-phosphate	dTDP	white
+dTDP-dihydrostreptose-streptidine-6-phosphate dihydrostreptosyltransferase	2.4.2.27	dTDP	Streptidine 6-phosphate	white
+dTDP-dihydrostreptose-streptidine-6-phosphate dihydrostreptosyltransferase	2.4.2.27	dTDP	dTDP-L-dihydrostreptose	white
+dTDP-dihydrostreptose-streptidine-6-phosphate dihydrostreptosyltransferase	2.4.2.27	dTDP-L-dihydrostreptose	O-(1->4)-alpha-L-Dihydrostreptosyl-streptidine 6-phosphate	white
+dTDP-dihydrostreptose-streptidine-6-phosphate dihydrostreptosyltransferase	2.4.2.27	dTDP-L-dihydrostreptose	dTDP	white
+dTDP-glucose 4,6-dehydratase	4.2.1.46	dTDP-glucose	H2O	green
+dTDP-glucose 4,6-dehydratase	4.2.1.46	dTDP-glucose	dTDP-4-oxo-6-deoxy-D-glucose	green
+glucokinase	2.7.1.2	ATP	ADP	green
+glucokinase	2.7.1.2	ATP	D-Glucose 6-phosphate	green
+glucokinase	2.7.1.2	D-Glucose	ADP	green
+glucokinase	2.7.1.2	D-Glucose	D-Glucose 6-phosphate	green
+glucose-1-phosphate thymidylyltransferase	2.7.7.24	D-Glucose 1-phosphate	Diphosphate	green
+glucose-1-phosphate thymidylyltransferase	2.7.7.24	D-Glucose 1-phosphate	dTDP-glucose	green
+glucose-1-phosphate thymidylyltransferase	2.7.7.24	dTTP	Diphosphate	green
+glucose-1-phosphate thymidylyltransferase	2.7.7.24	dTTP	dTDP-glucose	green
+hexokinase	2.7.1.1	ADP	ATP	white
+hexokinase	2.7.1.1	ADP	D-Glucose	white
+hexokinase	2.7.1.1	ATP	ADP	white
+hexokinase	2.7.1.1	ATP	D-Glucose 6-phosphate	white
+hexokinase	2.7.1.1	D-Glucose	ADP	white
+hexokinase	2.7.1.1	D-Glucose	D-Glucose 6-phosphate	white
+hexokinase	2.7.1.1	D-Glucose 6-phosphate	ATP	white
+hexokinase	2.7.1.1	D-Glucose 6-phosphate	D-Glucose	white
+myo-inositol 2-dehydrogenase / D-chiro-inositol 1-dehydrogenase	1.1.1.18	NAD+	2,4,6/3,5-Pentahydroxycyclohexanone	green
+myo-inositol 2-dehydrogenase / D-chiro-inositol 1-dehydrogenase	1.1.1.18	NAD+	H+	green
+myo-inositol 2-dehydrogenase / D-chiro-inositol 1-dehydrogenase	1.1.1.18	NAD+	NADH	green
+myo-inositol 2-dehydrogenase / D-chiro-inositol 1-dehydrogenase	1.1.1.18	myo-Inositol	2,4,6/3,5-Pentahydroxycyclohexanone	green
+myo-inositol 2-dehydrogenase / D-chiro-inositol 1-dehydrogenase	1.1.1.18	myo-Inositol	H+	green
+myo-inositol 2-dehydrogenase / D-chiro-inositol 1-dehydrogenase	1.1.1.18	myo-Inositol	NADH	green
+myo-inositol-1(or 4)-monophosphatase	3.1.3.25	1D-myo-Inositol 3-phosphate	Orthophosphate	green
+myo-inositol-1(or 4)-monophosphatase	3.1.3.25	1D-myo-Inositol 3-phosphate	myo-Inositol	green
+myo-inositol-1(or 4)-monophosphatase	3.1.3.25	H2O	Orthophosphate	green
+myo-inositol-1(or 4)-monophosphatase	3.1.3.25	H2O	myo-Inositol	green
+myo-inositol-1-phosphate synthase	5.5.1.4	D-Glucose 6-phosphate	1D-myo-Inositol 3-phosphate	green
+phosphoglucomutase	5.4.2.2	D-Glucose 1-phosphate	D-Glucose 6-phosphate	green
+phosphoglucomutase	5.4.2.2	D-Glucose 6-phosphate	D-Glucose 1-phosphate	green
+scyllo-inosamine 4-kinase	2.7.1.65	1-Amino-1-deoxy-scyllo-inositol	1-Amino-1-deoxy-scyllo-inositol 4-phosphate	white
+scyllo-inosamine 4-kinase	2.7.1.65	1-Amino-1-deoxy-scyllo-inositol	ADP	white
+scyllo-inosamine 4-kinase	2.7.1.65	1-Amino-1-deoxy-scyllo-inositol 4-phosphate	1-Amino-1-deoxy-scyllo-inositol	white
+scyllo-inosamine 4-kinase	2.7.1.65	1-Amino-1-deoxy-scyllo-inositol 4-phosphate	ATP	white
+scyllo-inosamine 4-kinase	2.7.1.65	ADP	1-Amino-1-deoxy-scyllo-inositol	white
+scyllo-inosamine 4-kinase	2.7.1.65	ADP	ATP	white
+scyllo-inosamine 4-kinase	2.7.1.65	ATP	1-Amino-1-deoxy-scyllo-inositol 4-phosphate	white
+scyllo-inosamine 4-kinase	2.7.1.65	ATP	ADP	white
+scyllo-inosamine-4-phosphate amidinotransferase 1	2.1.4.2	1-Amino-1-deoxy-scyllo-inositol 4-phosphate	1-Guanidino-1-deoxy-scyllo-inositol 4-phosphate	white
+scyllo-inosamine-4-phosphate amidinotransferase 1	2.1.4.2	1-Amino-1-deoxy-scyllo-inositol 4-phosphate	L-Ornithine	white
+scyllo-inosamine-4-phosphate amidinotransferase 1	2.1.4.2	1-Guanidino-1-deoxy-scyllo-inositol 4-phosphate	1-Amino-1-deoxy-scyllo-inositol 4-phosphate	white
+scyllo-inosamine-4-phosphate amidinotransferase 1	2.1.4.2	1-Guanidino-1-deoxy-scyllo-inositol 4-phosphate	L-Arginine	white
+scyllo-inosamine-4-phosphate amidinotransferase 1	2.1.4.2	L-Arginine	1-Guanidino-1-deoxy-scyllo-inositol 4-phosphate	white
+scyllo-inosamine-4-phosphate amidinotransferase 1	2.1.4.2	L-Arginine	L-Ornithine	white
+scyllo-inosamine-4-phosphate amidinotransferase 1	2.1.4.2	L-Ornithine	1-Amino-1-deoxy-scyllo-inositol 4-phosphate	white
+scyllo-inosamine-4-phosphate amidinotransferase 1	2.1.4.2	L-Ornithine	L-Arginine	white
+streptomycin 6-kinase	2.7.1.72	ADP	ATP	white
+streptomycin 6-kinase	2.7.1.72	ADP	Streptomycin	white
+streptomycin 6-kinase	2.7.1.72	ATP	ADP	white
+streptomycin 6-kinase	2.7.1.72	ATP	Streptomycin 6-phosphate	white
+streptomycin 6-kinase	2.7.1.72	Streptomycin	ADP	white
+streptomycin 6-kinase	2.7.1.72	Streptomycin	Streptomycin 6-phosphate	white
+streptomycin 6-kinase	2.7.1.72	Streptomycin 6-phosphate	ATP	white
+streptomycin 6-kinase	2.7.1.72	Streptomycin 6-phosphate	Streptomycin	white
+streptomycin-6-phosphatase	3.1.3.39	H2O	Orthophosphate	white
+streptomycin-6-phosphatase	3.1.3.39	H2O	Streptomycin	white
+streptomycin-6-phosphatase	3.1.3.39	Orthophosphate	H2O	white
+streptomycin-6-phosphatase	3.1.3.39	Orthophosphate	Streptomycin 6-phosphate	white
+streptomycin-6-phosphatase	3.1.3.39	Streptomycin	H2O	white
+streptomycin-6-phosphatase	3.1.3.39	Streptomycin	Streptomycin 6-phosphate	white
+streptomycin-6-phosphatase	3.1.3.39	Streptomycin 6-phosphate	Orthophosphate	white
+streptomycin-6-phosphatase	3.1.3.39	Streptomycin 6-phosphate	Streptomycin	white

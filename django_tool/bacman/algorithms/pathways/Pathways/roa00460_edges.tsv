@@ -1,0 +1,321 @@
+enzyme_name	EC	source	target	color
+(E)-2-methylbutanal oxime monooxygenase	1.14.14.41	(E)-2-Methylbutanal oxime	(Z)-2-Methylbutanal oxime	white
+(E)-2-methylbutanal oxime monooxygenase	1.14.14.41	(Z)-2-Methylbutanal oxime	(E)-2-Methylbutanal oxime	white
+(R)-mandelonitrile beta-glucosyltransferase	2.4.1.354	Mandelonitrile	Prunasin	white
+(R)-mandelonitrile beta-glucosyltransferase	2.4.1.354	Mandelonitrile	UDP	white
+(R)-mandelonitrile beta-glucosyltransferase	2.4.1.354	Prunasin	Mandelonitrile	white
+(R)-mandelonitrile beta-glucosyltransferase	2.4.1.354	Prunasin	UDP-glucose	white
+(R)-mandelonitrile beta-glucosyltransferase	2.4.1.354	UDP	Mandelonitrile	white
+(R)-mandelonitrile beta-glucosyltransferase	2.4.1.354	UDP	UDP-glucose	white
+(R)-mandelonitrile beta-glucosyltransferase	2.4.1.354	UDP-glucose	Prunasin	white
+(R)-mandelonitrile beta-glucosyltransferase	2.4.1.354	UDP-glucose	UDP	white
+(R)-mandelonitrile lyase	4.1.2.10	Aldehyde	Cyanohydrin	white
+(R)-mandelonitrile lyase	4.1.2.10	Cyanide ion	Cyanohydrin	white
+(R)-mandelonitrile lyase	4.1.2.10	Cyanohydrin	Aldehyde	white
+(R)-mandelonitrile lyase	4.1.2.10	Cyanohydrin	Cyanide ion	white
+(S)-hydroxynitrile lyase	4.1.2.47	Aldehyde	Cyanohydrin	white
+(S)-hydroxynitrile lyase	4.1.2.47	Cyanide ion	Cyanohydrin	white
+(S)-hydroxynitrile lyase	4.1.2.47	Cyanohydrin	Aldehyde	white
+(S)-hydroxynitrile lyase	4.1.2.47	Cyanohydrin	Cyanide ion	white
+4-hydroxyphenylacetaldehyde oxime monooxygenase	1.14.14.37	(S)-4-Hydroxymandelonitrile	4-Hydroxyphenylacetonitrile	white
+4-hydroxyphenylacetaldehyde oxime monooxygenase	1.14.14.37	(S)-4-Hydroxymandelonitrile	Oxygen	white
+4-hydroxyphenylacetaldehyde oxime monooxygenase	1.14.14.37	(S)-4-Hydroxymandelonitrile	[Reduced NADPH---hemoprotein reductase]	white
+4-hydroxyphenylacetaldehyde oxime monooxygenase	1.14.14.37	4-Hydroxyphenylacetonitrile	(S)-4-Hydroxymandelonitrile	white
+4-hydroxyphenylacetaldehyde oxime monooxygenase	1.14.14.37	4-Hydroxyphenylacetonitrile	H2O	white
+4-hydroxyphenylacetaldehyde oxime monooxygenase	1.14.14.37	4-Hydroxyphenylacetonitrile	[Oxidized NADPH---hemoprotein reductase]	white
+4-hydroxyphenylacetaldehyde oxime monooxygenase	1.14.14.37	H2O	4-Hydroxyphenylacetonitrile	white
+4-hydroxyphenylacetaldehyde oxime monooxygenase	1.14.14.37	H2O	Oxygen	white
+4-hydroxyphenylacetaldehyde oxime monooxygenase	1.14.14.37	H2O	[Reduced NADPH---hemoprotein reductase]	white
+4-hydroxyphenylacetaldehyde oxime monooxygenase	1.14.14.37	Oxygen	(S)-4-Hydroxymandelonitrile	white
+4-hydroxyphenylacetaldehyde oxime monooxygenase	1.14.14.37	Oxygen	H2O	white
+4-hydroxyphenylacetaldehyde oxime monooxygenase	1.14.14.37	Oxygen	[Oxidized NADPH---hemoprotein reductase]	white
+4-hydroxyphenylacetaldehyde oxime monooxygenase	1.14.14.37	[Oxidized NADPH---hemoprotein reductase]	4-Hydroxyphenylacetonitrile	white
+4-hydroxyphenylacetaldehyde oxime monooxygenase	1.14.14.37	[Oxidized NADPH---hemoprotein reductase]	Oxygen	white
+4-hydroxyphenylacetaldehyde oxime monooxygenase	1.14.14.37	[Oxidized NADPH---hemoprotein reductase]	[Reduced NADPH---hemoprotein reductase]	white
+4-hydroxyphenylacetaldehyde oxime monooxygenase	1.14.14.37	[Reduced NADPH---hemoprotein reductase]	(S)-4-Hydroxymandelonitrile	white
+4-hydroxyphenylacetaldehyde oxime monooxygenase	1.14.14.37	[Reduced NADPH---hemoprotein reductase]	H2O	white
+4-hydroxyphenylacetaldehyde oxime monooxygenase	1.14.14.37	[Reduced NADPH---hemoprotein reductase]	[Oxidized NADPH---hemoprotein reductase]	white
+L-3-cyanoalanine synthase/ cysteine synthase	2.5.1.47	Acetate	Hydrogen sulfide	white
+L-3-cyanoalanine synthase/ cysteine synthase	2.5.1.47	Acetate	O-Acetyl-L-serine	white
+L-3-cyanoalanine synthase/ cysteine synthase	2.5.1.47	Hydrogen sulfide	Acetate	white
+L-3-cyanoalanine synthase/ cysteine synthase	2.5.1.47	Hydrogen sulfide	L-Cysteine	white
+L-3-cyanoalanine synthase/ cysteine synthase	2.5.1.47	L-Cysteine	Hydrogen sulfide	white
+L-3-cyanoalanine synthase/ cysteine synthase	2.5.1.47	L-Cysteine	O-Acetyl-L-serine	white
+L-3-cyanoalanine synthase/ cysteine synthase	2.5.1.47	O-Acetyl-L-serine	Acetate	white
+L-3-cyanoalanine synthase/ cysteine synthase	2.5.1.47	O-Acetyl-L-serine	L-Cysteine	white
+L-asparaginase	3.5.1.1	H2O	Ammonia	green
+L-asparaginase	3.5.1.1	H2O	L-Aspartate	green
+L-asparaginase	3.5.1.1	L-Asparagine	Ammonia	green
+L-asparaginase	3.5.1.1	L-Asparagine	L-Aspartate	green
+aliphatic (R)-hydroxynitrile lyase	4.1.2.46	Acetone	Acetone cyanohydrin	white
+aliphatic (R)-hydroxynitrile lyase	4.1.2.46	Acetone cyanohydrin	Acetone	white
+aliphatic (R)-hydroxynitrile lyase	4.1.2.46	Acetone cyanohydrin	Hydrogen cyanide	white
+aliphatic (R)-hydroxynitrile lyase	4.1.2.46	Hydrogen cyanide	Acetone cyanohydrin	white
+amygdalin beta-glucosidase	3.2.1.117	Amygdalin	D-Glucose	white
+amygdalin beta-glucosidase	3.2.1.117	Amygdalin	Prunasin	white
+amygdalin beta-glucosidase	3.2.1.117	D-Glucose	Amygdalin	white
+amygdalin beta-glucosidase	3.2.1.117	D-Glucose	H2O	white
+amygdalin beta-glucosidase	3.2.1.117	H2O	D-Glucose	white
+amygdalin beta-glucosidase	3.2.1.117	H2O	Prunasin	white
+amygdalin beta-glucosidase	3.2.1.117	Prunasin	Amygdalin	white
+amygdalin beta-glucosidase	3.2.1.117	Prunasin	H2O	white
+aspartate--ammonia ligase	6.3.1.1	AMP	ATP	white
+aspartate--ammonia ligase	6.3.1.1	AMP	Ammonia	white
+aspartate--ammonia ligase	6.3.1.1	AMP	L-Aspartate	white
+aspartate--ammonia ligase	6.3.1.1	ATP	AMP	white
+aspartate--ammonia ligase	6.3.1.1	ATP	Diphosphate	white
+aspartate--ammonia ligase	6.3.1.1	ATP	L-Asparagine	white
+aspartate--ammonia ligase	6.3.1.1	Ammonia	AMP	white
+aspartate--ammonia ligase	6.3.1.1	Ammonia	Diphosphate	white
+aspartate--ammonia ligase	6.3.1.1	Ammonia	L-Asparagine	white
+aspartate--ammonia ligase	6.3.1.1	Diphosphate	ATP	white
+aspartate--ammonia ligase	6.3.1.1	Diphosphate	Ammonia	white
+aspartate--ammonia ligase	6.3.1.1	Diphosphate	L-Aspartate	white
+aspartate--ammonia ligase	6.3.1.1	L-Asparagine	ATP	white
+aspartate--ammonia ligase	6.3.1.1	L-Asparagine	Ammonia	white
+aspartate--ammonia ligase	6.3.1.1	L-Asparagine	L-Aspartate	white
+aspartate--ammonia ligase	6.3.1.1	L-Aspartate	AMP	white
+aspartate--ammonia ligase	6.3.1.1	L-Aspartate	Diphosphate	white
+aspartate--ammonia ligase	6.3.1.1	L-Aspartate	L-Asparagine	white
+beta-cyano-L-alanine hydratase/nitrilase	3.5.5.4	3-Cyano-L-alanine	Ammonia	white
+beta-cyano-L-alanine hydratase/nitrilase	3.5.5.4	3-Cyano-L-alanine	L-Aspartate	white
+beta-cyano-L-alanine hydratase/nitrilase	3.5.5.4	Ammonia	3-Cyano-L-alanine	white
+beta-cyano-L-alanine hydratase/nitrilase	3.5.5.4	Ammonia	H2O	white
+beta-cyano-L-alanine hydratase/nitrilase	3.5.5.4	H2O	Ammonia	white
+beta-cyano-L-alanine hydratase/nitrilase	3.5.5.4	H2O	L-Aspartate	white
+beta-cyano-L-alanine hydratase/nitrilase	3.5.5.4	L-Aspartate	3-Cyano-L-alanine	white
+beta-cyano-L-alanine hydratase/nitrilase	3.5.5.4	L-Aspartate	H2O	white
+beta-glucosidase	3.2.1.21	D-Glucose	Amygdalin	green
+beta-glucosidase	3.2.1.21	D-Glucose	H2O	green
+beta-glucosidase	3.2.1.21	Dhurrin	(S)-4-Hydroxymandelonitrile	green
+beta-glucosidase	3.2.1.21	Dhurrin	beta-D-Glucose	green
+beta-glucosidase	3.2.1.21	H2O	(2R)-2-Hydroxy-2-methylbutanenitrile	green
+beta-glucosidase	3.2.1.21	H2O	(S)-4-Hydroxymandelonitrile	green
+beta-glucosidase	3.2.1.21	H2O	Acetone cyanohydrin	green
+beta-glucosidase	3.2.1.21	H2O	D-Glucose	green
+beta-glucosidase	3.2.1.21	H2O	Mandelonitrile	green
+beta-glucosidase	3.2.1.21	H2O	beta-D-Glucose	green
+beta-glucosidase	3.2.1.21	Linamarin	Acetone cyanohydrin	green
+beta-glucosidase	3.2.1.21	Linamarin	beta-D-Glucose	green
+beta-glucosidase	3.2.1.21	Lotaustralin	(2R)-2-Hydroxy-2-methylbutanenitrile	green
+beta-glucosidase	3.2.1.21	Lotaustralin	beta-D-Glucose	green
+beta-glucosidase	3.2.1.21	Prunasin	Amygdalin	green
+beta-glucosidase	3.2.1.21	Prunasin	D-Glucose	green
+beta-glucosidase	3.2.1.21	Prunasin	H2O	green
+beta-glucosidase	3.2.1.21	Prunasin	Mandelonitrile	green
+cyanide dihydratase	3.5.5.-	Ammonia	H2O	white
+cyanide dihydratase	3.5.5.-	Ammonia	Hydrogen cyanide	white
+cyanide dihydratase	3.5.5.-	Formate	H2O	white
+cyanide dihydratase	3.5.5.-	Formate	Hydrogen cyanide	white
+cyanide dihydratase	3.5.5.-	H2O	Ammonia	white
+cyanide dihydratase	3.5.5.-	H2O	Formate	white
+cyanide dihydratase	3.5.5.-	Hydrogen cyanide	Ammonia	white
+cyanide dihydratase	3.5.5.-	Hydrogen cyanide	Formate	white
+cyanide hydratase	4.2.1.66	Formamide	H2O	white
+cyanide hydratase	4.2.1.66	Formamide	Hydrogen cyanide	white
+cyanide hydratase	4.2.1.66	H2O	Formamide	white
+cyanide hydratase	4.2.1.66	Hydrogen cyanide	Formamide	white
+cyanohydrin UDP-glucosyltransferase	2.4.1.-	Acetone cyanohydrin	Linamarin	white
+cyanohydrin UDP-glucosyltransferase	2.4.1.-	Acetone cyanohydrin	UDP	white
+cyanohydrin UDP-glucosyltransferase	2.4.1.-	Linamarin	Acetone cyanohydrin	white
+cyanohydrin UDP-glucosyltransferase	2.4.1.-	Linamarin	UDP-glucose	white
+cyanohydrin UDP-glucosyltransferase	2.4.1.-	UDP	Acetone cyanohydrin	white
+cyanohydrin UDP-glucosyltransferase	2.4.1.-	UDP	UDP-glucose	white
+cyanohydrin UDP-glucosyltransferase	2.4.1.-	UDP-glucose	Linamarin	white
+cyanohydrin UDP-glucosyltransferase	2.4.1.-	UDP-glucose	UDP	white
+cyanohydrin beta-glucosyltransferase	2.4.1.85	(S)-4-Hydroxymandelonitrile	Dhurrin	white
+cyanohydrin beta-glucosyltransferase	2.4.1.85	(S)-4-Hydroxymandelonitrile	UDP	white
+cyanohydrin beta-glucosyltransferase	2.4.1.85	Dhurrin	(S)-4-Hydroxymandelonitrile	white
+cyanohydrin beta-glucosyltransferase	2.4.1.85	Dhurrin	UDP-glucose	white
+cyanohydrin beta-glucosyltransferase	2.4.1.85	UDP	(S)-4-Hydroxymandelonitrile	white
+cyanohydrin beta-glucosyltransferase	2.4.1.85	UDP	UDP-glucose	white
+cyanohydrin beta-glucosyltransferase	2.4.1.85	UDP-glucose	Dhurrin	white
+cyanohydrin beta-glucosyltransferase	2.4.1.85	UDP-glucose	UDP	white
+formamidase	3.5.1.49	Formamide	Ammonia	green
+formamidase	3.5.1.49	Formamide	Formate	green
+formamidase	3.5.1.49	H2O	Ammonia	green
+formamidase	3.5.1.49	H2O	Formate	green
+gamma-glutamyltranspeptidase / glutathione hydrolase	2.3.2.2	3-Aminopropiononitrile	H2O	green
+gamma-glutamyltranspeptidase / glutathione hydrolase	2.3.2.2	3-Aminopropiononitrile	gamma-Glutamyl-beta-aminopropiononitrile	green
+gamma-glutamyltranspeptidase / glutathione hydrolase	2.3.2.2	3-Cyano-L-alanine	H2O	green
+gamma-glutamyltranspeptidase / glutathione hydrolase	2.3.2.2	3-Cyano-L-alanine	gamma-Glutamyl-beta-cyanoalanine	green
+gamma-glutamyltranspeptidase / glutathione hydrolase	2.3.2.2	L-Glutamate	H2O	green
+gamma-glutamyltranspeptidase / glutathione hydrolase	2.3.2.2	L-Glutamate	gamma-Glutamyl-beta-aminopropiononitrile	green
+gamma-glutamyltranspeptidase / glutathione hydrolase	2.3.2.2	L-Glutamate	gamma-Glutamyl-beta-cyanoalanine	green
+glycine hydroxymethyltransferase	2.1.2.1	5,10-Methylenetetrahydrofolate	L-Serine	green
+glycine hydroxymethyltransferase	2.1.2.1	5,10-Methylenetetrahydrofolate	Tetrahydrofolate	green
+glycine hydroxymethyltransferase	2.1.2.1	Glycine	L-Serine	green
+glycine hydroxymethyltransferase	2.1.2.1	Glycine	Tetrahydrofolate	green
+glycine hydroxymethyltransferase	2.1.2.1	H2O	L-Serine	green
+glycine hydroxymethyltransferase	2.1.2.1	H2O	Tetrahydrofolate	green
+glycine hydroxymethyltransferase	2.1.2.1	L-Serine	5,10-Methylenetetrahydrofolate	green
+glycine hydroxymethyltransferase	2.1.2.1	L-Serine	Glycine	green
+glycine hydroxymethyltransferase	2.1.2.1	L-Serine	H2O	green
+glycine hydroxymethyltransferase	2.1.2.1	Tetrahydrofolate	5,10-Methylenetetrahydrofolate	green
+glycine hydroxymethyltransferase	2.1.2.1	Tetrahydrofolate	Glycine	green
+glycine hydroxymethyltransferase	2.1.2.1	Tetrahydrofolate	H2O	green
+hydrogen cyanide synthase HcnA	1.4.99.5	Acceptor	CO2	white
+hydrogen cyanide synthase HcnA	1.4.99.5	Acceptor	Cyanide ion	white
+hydrogen cyanide synthase HcnA	1.4.99.5	Acceptor	H+	white
+hydrogen cyanide synthase HcnA	1.4.99.5	Acceptor	Reduced acceptor	white
+hydrogen cyanide synthase HcnA	1.4.99.5	CO2	Acceptor	white
+hydrogen cyanide synthase HcnA	1.4.99.5	CO2	Glycine	white
+hydrogen cyanide synthase HcnA	1.4.99.5	Cyanide ion	Acceptor	white
+hydrogen cyanide synthase HcnA	1.4.99.5	Cyanide ion	Glycine	white
+hydrogen cyanide synthase HcnA	1.4.99.5	Glycine	CO2	white
+hydrogen cyanide synthase HcnA	1.4.99.5	Glycine	Cyanide ion	white
+hydrogen cyanide synthase HcnA	1.4.99.5	Glycine	H+	white
+hydrogen cyanide synthase HcnA	1.4.99.5	Glycine	Reduced acceptor	white
+hydrogen cyanide synthase HcnA	1.4.99.5	H+	Acceptor	white
+hydrogen cyanide synthase HcnA	1.4.99.5	H+	Glycine	white
+hydrogen cyanide synthase HcnA	1.4.99.5	Reduced acceptor	Acceptor	white
+hydrogen cyanide synthase HcnA	1.4.99.5	Reduced acceptor	Glycine	white
+hydrogen cyanide synthase HcnB	1.4.99.5	Acceptor	CO2	white
+hydrogen cyanide synthase HcnB	1.4.99.5	Acceptor	Cyanide ion	white
+hydrogen cyanide synthase HcnB	1.4.99.5	Acceptor	H+	white
+hydrogen cyanide synthase HcnB	1.4.99.5	Acceptor	Reduced acceptor	white
+hydrogen cyanide synthase HcnB	1.4.99.5	CO2	Acceptor	white
+hydrogen cyanide synthase HcnB	1.4.99.5	CO2	Glycine	white
+hydrogen cyanide synthase HcnB	1.4.99.5	Cyanide ion	Acceptor	white
+hydrogen cyanide synthase HcnB	1.4.99.5	Cyanide ion	Glycine	white
+hydrogen cyanide synthase HcnB	1.4.99.5	Glycine	CO2	white
+hydrogen cyanide synthase HcnB	1.4.99.5	Glycine	Cyanide ion	white
+hydrogen cyanide synthase HcnB	1.4.99.5	Glycine	H+	white
+hydrogen cyanide synthase HcnB	1.4.99.5	Glycine	Reduced acceptor	white
+hydrogen cyanide synthase HcnB	1.4.99.5	H+	Acceptor	white
+hydrogen cyanide synthase HcnB	1.4.99.5	H+	Glycine	white
+hydrogen cyanide synthase HcnB	1.4.99.5	Reduced acceptor	Acceptor	white
+hydrogen cyanide synthase HcnB	1.4.99.5	Reduced acceptor	Glycine	white
+hydrogen cyanide synthase HcnC	1.4.99.5	Acceptor	CO2	white
+hydrogen cyanide synthase HcnC	1.4.99.5	Acceptor	Cyanide ion	white
+hydrogen cyanide synthase HcnC	1.4.99.5	Acceptor	H+	white
+hydrogen cyanide synthase HcnC	1.4.99.5	Acceptor	Reduced acceptor	white
+hydrogen cyanide synthase HcnC	1.4.99.5	CO2	Acceptor	white
+hydrogen cyanide synthase HcnC	1.4.99.5	CO2	Glycine	white
+hydrogen cyanide synthase HcnC	1.4.99.5	Cyanide ion	Acceptor	white
+hydrogen cyanide synthase HcnC	1.4.99.5	Cyanide ion	Glycine	white
+hydrogen cyanide synthase HcnC	1.4.99.5	Glycine	CO2	white
+hydrogen cyanide synthase HcnC	1.4.99.5	Glycine	Cyanide ion	white
+hydrogen cyanide synthase HcnC	1.4.99.5	Glycine	H+	white
+hydrogen cyanide synthase HcnC	1.4.99.5	Glycine	Reduced acceptor	white
+hydrogen cyanide synthase HcnC	1.4.99.5	H+	Acceptor	white
+hydrogen cyanide synthase HcnC	1.4.99.5	H+	Glycine	white
+hydrogen cyanide synthase HcnC	1.4.99.5	Reduced acceptor	Acceptor	white
+hydrogen cyanide synthase HcnC	1.4.99.5	Reduced acceptor	Glycine	white
+hydroxymandelonitrile lyase	4.1.2.11	Aldehyde	Cyanohydrin	white
+hydroxymandelonitrile lyase	4.1.2.11	Cyanide ion	Cyanohydrin	white
+hydroxymandelonitrile lyase	4.1.2.11	Cyanohydrin	Aldehyde	white
+hydroxymandelonitrile lyase	4.1.2.11	Cyanohydrin	Cyanide ion	white
+isoleucine N-monooxygenase	1.14.14.39	(E)-2-Methylbutanal oxime	L-Isoleucine	white
+isoleucine N-monooxygenase	1.14.14.39	(E)-2-Methylbutanal oxime	Oxygen	white
+isoleucine N-monooxygenase	1.14.14.39	(E)-2-Methylbutanal oxime	[Reduced NADPH---hemoprotein reductase]	white
+isoleucine N-monooxygenase	1.14.14.39	CO2	L-Isoleucine	white
+isoleucine N-monooxygenase	1.14.14.39	CO2	Oxygen	white
+isoleucine N-monooxygenase	1.14.14.39	CO2	[Reduced NADPH---hemoprotein reductase]	white
+isoleucine N-monooxygenase	1.14.14.39	H2O	L-Isoleucine	white
+isoleucine N-monooxygenase	1.14.14.39	H2O	Oxygen	white
+isoleucine N-monooxygenase	1.14.14.39	H2O	[Reduced NADPH---hemoprotein reductase]	white
+isoleucine N-monooxygenase	1.14.14.39	L-Isoleucine	(E)-2-Methylbutanal oxime	white
+isoleucine N-monooxygenase	1.14.14.39	L-Isoleucine	CO2	white
+isoleucine N-monooxygenase	1.14.14.39	L-Isoleucine	H2O	white
+isoleucine N-monooxygenase	1.14.14.39	L-Isoleucine	[Oxidized NADPH---hemoprotein reductase]	white
+isoleucine N-monooxygenase	1.14.14.39	Oxygen	(E)-2-Methylbutanal oxime	white
+isoleucine N-monooxygenase	1.14.14.39	Oxygen	CO2	white
+isoleucine N-monooxygenase	1.14.14.39	Oxygen	H2O	white
+isoleucine N-monooxygenase	1.14.14.39	Oxygen	[Oxidized NADPH---hemoprotein reductase]	white
+isoleucine N-monooxygenase	1.14.14.39	[Oxidized NADPH---hemoprotein reductase]	L-Isoleucine	white
+isoleucine N-monooxygenase	1.14.14.39	[Oxidized NADPH---hemoprotein reductase]	Oxygen	white
+isoleucine N-monooxygenase	1.14.14.39	[Oxidized NADPH---hemoprotein reductase]	[Reduced NADPH---hemoprotein reductase]	white
+isoleucine N-monooxygenase	1.14.14.39	[Reduced NADPH---hemoprotein reductase]	(E)-2-Methylbutanal oxime	white
+isoleucine N-monooxygenase	1.14.14.39	[Reduced NADPH---hemoprotein reductase]	CO2	white
+isoleucine N-monooxygenase	1.14.14.39	[Reduced NADPH---hemoprotein reductase]	H2O	white
+isoleucine N-monooxygenase	1.14.14.39	[Reduced NADPH---hemoprotein reductase]	[Oxidized NADPH---hemoprotein reductase]	white
+nitrilase	3.5.5.1	H2O	Alanine	green
+nitrilase	3.5.5.1	H2O	Ammonia	green
+nitrilase	3.5.5.1	H2O	Glutamate	green
+nitrilase	3.5.5.1	alpha-Aminopropiononitrile	Alanine	green
+nitrilase	3.5.5.1	alpha-Aminopropiononitrile	Ammonia	green
+nitrilase	3.5.5.1	gamma-Amino-gamma-cyanobutanoate	Ammonia	green
+nitrilase	3.5.5.1	gamma-Amino-gamma-cyanobutanoate	Glutamate	green
+phenylacetaldehyde oxime monooxygenase	1.14.14.44	(Z)-Phenylacetaldehyde oxime	H2O	white
+phenylacetaldehyde oxime monooxygenase	1.14.14.44	(Z)-Phenylacetaldehyde oxime	Phenylacetonitrile	white
+phenylacetaldehyde oxime monooxygenase	1.14.14.44	H2O	(Z)-Phenylacetaldehyde oxime	white
+phenylacetaldehyde oxime monooxygenase	1.14.14.44	Phenylacetonitrile	(Z)-Phenylacetaldehyde oxime	white
+phenylacetaldoxime dehydratase	4.8.1.4	(Z)-Phenylacetaldehyde oxime	H2O	white
+phenylacetaldoxime dehydratase	4.8.1.4	(Z)-Phenylacetaldehyde oxime	Phenylacetonitrile	white
+phenylacetaldoxime dehydratase	4.8.1.4	H2O	(Z)-Phenylacetaldehyde oxime	white
+phenylacetaldoxime dehydratase	4.8.1.4	Phenylacetonitrile	(Z)-Phenylacetaldehyde oxime	white
+phenylalanine N-monooxygenase	1.14.14.40	(Z)-Phenylacetaldehyde oxime	L-Phenylalanine	white
+phenylalanine N-monooxygenase	1.14.14.40	(Z)-Phenylacetaldehyde oxime	Oxygen	white
+phenylalanine N-monooxygenase	1.14.14.40	(Z)-Phenylacetaldehyde oxime	[Reduced NADPH---hemoprotein reductase]	white
+phenylalanine N-monooxygenase	1.14.14.40	CO2	L-Phenylalanine	white
+phenylalanine N-monooxygenase	1.14.14.40	CO2	Oxygen	white
+phenylalanine N-monooxygenase	1.14.14.40	CO2	[Reduced NADPH---hemoprotein reductase]	white
+phenylalanine N-monooxygenase	1.14.14.40	H2O	L-Phenylalanine	white
+phenylalanine N-monooxygenase	1.14.14.40	H2O	Oxygen	white
+phenylalanine N-monooxygenase	1.14.14.40	H2O	[Reduced NADPH---hemoprotein reductase]	white
+phenylalanine N-monooxygenase	1.14.14.40	L-Phenylalanine	(Z)-Phenylacetaldehyde oxime	white
+phenylalanine N-monooxygenase	1.14.14.40	L-Phenylalanine	CO2	white
+phenylalanine N-monooxygenase	1.14.14.40	L-Phenylalanine	H2O	white
+phenylalanine N-monooxygenase	1.14.14.40	L-Phenylalanine	[Oxidized NADPH---hemoprotein reductase]	white
+phenylalanine N-monooxygenase	1.14.14.40	Oxygen	(Z)-Phenylacetaldehyde oxime	white
+phenylalanine N-monooxygenase	1.14.14.40	Oxygen	CO2	white
+phenylalanine N-monooxygenase	1.14.14.40	Oxygen	H2O	white
+phenylalanine N-monooxygenase	1.14.14.40	Oxygen	[Oxidized NADPH---hemoprotein reductase]	white
+phenylalanine N-monooxygenase	1.14.14.40	[Oxidized NADPH---hemoprotein reductase]	L-Phenylalanine	white
+phenylalanine N-monooxygenase	1.14.14.40	[Oxidized NADPH---hemoprotein reductase]	Oxygen	white
+phenylalanine N-monooxygenase	1.14.14.40	[Oxidized NADPH---hemoprotein reductase]	[Reduced NADPH---hemoprotein reductase]	white
+phenylalanine N-monooxygenase	1.14.14.40	[Reduced NADPH---hemoprotein reductase]	(Z)-Phenylacetaldehyde oxime	white
+phenylalanine N-monooxygenase	1.14.14.40	[Reduced NADPH---hemoprotein reductase]	CO2	white
+phenylalanine N-monooxygenase	1.14.14.40	[Reduced NADPH---hemoprotein reductase]	H2O	white
+phenylalanine N-monooxygenase	1.14.14.40	[Reduced NADPH---hemoprotein reductase]	[Oxidized NADPH---hemoprotein reductase]	white
+prunasin beta-glucosidase	3.2.1.118	D-Glucose	H2O	white
+prunasin beta-glucosidase	3.2.1.118	D-Glucose	Prunasin	white
+prunasin beta-glucosidase	3.2.1.118	H2O	D-Glucose	white
+prunasin beta-glucosidase	3.2.1.118	H2O	Mandelonitrile	white
+prunasin beta-glucosidase	3.2.1.118	Mandelonitrile	H2O	white
+prunasin beta-glucosidase	3.2.1.118	Mandelonitrile	Prunasin	white
+prunasin beta-glucosidase	3.2.1.118	Prunasin	D-Glucose	white
+prunasin beta-glucosidase	3.2.1.118	Prunasin	Mandelonitrile	white
+tyrosine N-monooxygenase	1.14.14.36	H2O	L-Tyrosine	white
+tyrosine N-monooxygenase	1.14.14.36	H2O	Oxygen	white
+tyrosine N-monooxygenase	1.14.14.36	H2O	[Reduced NADPH---hemoprotein reductase]	white
+tyrosine N-monooxygenase	1.14.14.36	L-Tyrosine	H2O	white
+tyrosine N-monooxygenase	1.14.14.36	L-Tyrosine	N-Hydroxy-L-tyrosine	white
+tyrosine N-monooxygenase	1.14.14.36	L-Tyrosine	[Oxidized NADPH---hemoprotein reductase]	white
+tyrosine N-monooxygenase	1.14.14.36	N-Hydroxy-L-tyrosine	L-Tyrosine	white
+tyrosine N-monooxygenase	1.14.14.36	N-Hydroxy-L-tyrosine	Oxygen	white
+tyrosine N-monooxygenase	1.14.14.36	N-Hydroxy-L-tyrosine	[Reduced NADPH---hemoprotein reductase]	white
+tyrosine N-monooxygenase	1.14.14.36	Oxygen	H2O	white
+tyrosine N-monooxygenase	1.14.14.36	Oxygen	N-Hydroxy-L-tyrosine	white
+tyrosine N-monooxygenase	1.14.14.36	Oxygen	[Oxidized NADPH---hemoprotein reductase]	white
+tyrosine N-monooxygenase	1.14.14.36	[Oxidized NADPH---hemoprotein reductase]	L-Tyrosine	white
+tyrosine N-monooxygenase	1.14.14.36	[Oxidized NADPH---hemoprotein reductase]	Oxygen	white
+tyrosine N-monooxygenase	1.14.14.36	[Oxidized NADPH---hemoprotein reductase]	[Reduced NADPH---hemoprotein reductase]	white
+tyrosine N-monooxygenase	1.14.14.36	[Reduced NADPH---hemoprotein reductase]	H2O	white
+tyrosine N-monooxygenase	1.14.14.36	[Reduced NADPH---hemoprotein reductase]	N-Hydroxy-L-tyrosine	white
+tyrosine N-monooxygenase	1.14.14.36	[Reduced NADPH---hemoprotein reductase]	[Oxidized NADPH---hemoprotein reductase]	white
+valine N-monooxygenase	1.14.14.38	(E)-2-Methylpropanal oxime	L-Valine	white
+valine N-monooxygenase	1.14.14.38	(E)-2-Methylpropanal oxime	Oxygen	white
+valine N-monooxygenase	1.14.14.38	(E)-2-Methylpropanal oxime	[Reduced NADPH---hemoprotein reductase]	white
+valine N-monooxygenase	1.14.14.38	CO2	L-Valine	white
+valine N-monooxygenase	1.14.14.38	CO2	Oxygen	white
+valine N-monooxygenase	1.14.14.38	CO2	[Reduced NADPH---hemoprotein reductase]	white
+valine N-monooxygenase	1.14.14.38	H2O	L-Valine	white
+valine N-monooxygenase	1.14.14.38	H2O	Oxygen	white
+valine N-monooxygenase	1.14.14.38	H2O	[Reduced NADPH---hemoprotein reductase]	white
+valine N-monooxygenase	1.14.14.38	L-Valine	(E)-2-Methylpropanal oxime	white
+valine N-monooxygenase	1.14.14.38	L-Valine	CO2	white
+valine N-monooxygenase	1.14.14.38	L-Valine	H2O	white
+valine N-monooxygenase	1.14.14.38	L-Valine	[Oxidized NADPH---hemoprotein reductase]	white
+valine N-monooxygenase	1.14.14.38	Oxygen	(E)-2-Methylpropanal oxime	white
+valine N-monooxygenase	1.14.14.38	Oxygen	CO2	white
+valine N-monooxygenase	1.14.14.38	Oxygen	H2O	white
+valine N-monooxygenase	1.14.14.38	Oxygen	[Oxidized NADPH---hemoprotein reductase]	white
+valine N-monooxygenase	1.14.14.38	[Oxidized NADPH---hemoprotein reductase]	L-Valine	white
+valine N-monooxygenase	1.14.14.38	[Oxidized NADPH---hemoprotein reductase]	Oxygen	white
+valine N-monooxygenase	1.14.14.38	[Oxidized NADPH---hemoprotein reductase]	[Reduced NADPH---hemoprotein reductase]	white
+valine N-monooxygenase	1.14.14.38	[Reduced NADPH---hemoprotein reductase]	(E)-2-Methylpropanal oxime	white
+valine N-monooxygenase	1.14.14.38	[Reduced NADPH---hemoprotein reductase]	CO2	white
+valine N-monooxygenase	1.14.14.38	[Reduced NADPH---hemoprotein reductase]	H2O	white
+valine N-monooxygenase	1.14.14.38	[Reduced NADPH---hemoprotein reductase]	[Oxidized NADPH---hemoprotein reductase]	white

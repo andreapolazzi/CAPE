@@ -26,9 +26,9 @@ def main(start:str, end:str, inchi):
                             name=start,
                             inchi=inchi,
                             steps=5,)
-        RpGraph.tsv_generator(file_path=f"/work/igem/iGEM/django_tool/bacman/algorithms/pathways/rp_results/Methyl_tert-butyl_ether_scope.csv",
-                              outdir="/work/igem/iGEM/django_tool/bacman/algorithms/pathways/rp_results/")
-        start_pway_graph = MetabolicGraph.from_tsv(f'/work/igem/iGEM/django_tool/bacman/algorithms/pathways/rp_results/rp_edges.tsv')
+        RpGraph.tsv_generator(file_path=f'/work/igem/iGEM/django_tool/bacman/algorithms/pathways/rp_results/Methyl_tert-butyl_ether_scope.csv',
+                              outdir='/work/igem/iGEM/django_tool/bacman/algorithms/pathways/Pathways/')
+        start_pway_graph = MetabolicGraph.from_tsv('rp_edges.tsv')
         start_pway_graph.join2megaGraph()
 
     if end not in node_list:

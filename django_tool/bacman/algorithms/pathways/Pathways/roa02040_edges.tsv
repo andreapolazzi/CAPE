@@ -1,0 +1,153 @@
+enzyme_name	EC	source	target	color
+RNA polymerase sigma factor FliA	2.4.1.5	D-Fructose	Dextran	white
+RNA polymerase sigma factor FliA	2.4.1.5	D-Fructose	Sucrose	white
+RNA polymerase sigma factor FliA	2.4.1.5	Dextran	D-Fructose	white
+RNA polymerase sigma factor FliA	2.4.1.5	Dextran	Dextran	white
+RNA polymerase sigma factor FliA	2.4.1.5	Dextran	Sucrose	white
+RNA polymerase sigma factor FliA	2.4.1.5	Sucrose	D-Fructose	white
+RNA polymerase sigma factor FliA	2.4.1.5	Sucrose	Dextran	white
+RNA polymerase sigma-54 factor	7.4.2.8	H+	H+	white
+RNA polymerase sigma-54 factor	7.4.2.8	H+	H2O	white
+RNA polymerase sigma-54 factor	7.4.2.8	H+	Oxygen	white
+RNA polymerase sigma-54 factor	7.4.2.8	H+	Ubiquinol	white
+RNA polymerase sigma-54 factor	7.4.2.8	H+	Ubiquinone	white
+RNA polymerase sigma-54 factor	7.4.2.8	H2O	H+	white
+RNA polymerase sigma-54 factor	7.4.2.8	H2O	Oxygen	white
+RNA polymerase sigma-54 factor	7.4.2.8	H2O	Ubiquinol	white
+RNA polymerase sigma-54 factor	7.4.2.8	Oxygen	H+	white
+RNA polymerase sigma-54 factor	7.4.2.8	Oxygen	H2O	white
+RNA polymerase sigma-54 factor	7.4.2.8	Oxygen	Ubiquinone	white
+RNA polymerase sigma-54 factor	7.4.2.8	Ubiquinol	H+	white
+RNA polymerase sigma-54 factor	7.4.2.8	Ubiquinol	H2O	white
+RNA polymerase sigma-54 factor	7.4.2.8	Ubiquinol	Ubiquinone	white
+RNA polymerase sigma-54 factor	7.4.2.8	Ubiquinone	H+	white
+RNA polymerase sigma-54 factor	7.4.2.8	Ubiquinone	Oxygen	white
+RNA polymerase sigma-54 factor	7.4.2.8	Ubiquinone	Ubiquinol	white
+chemotaxis protein MotA	2.4.1.5	D-Fructose	Dextran	white
+chemotaxis protein MotA	2.4.1.5	D-Fructose	Sucrose	white
+chemotaxis protein MotA	2.4.1.5	Dextran	D-Fructose	white
+chemotaxis protein MotA	2.4.1.5	Dextran	Dextran	white
+chemotaxis protein MotA	2.4.1.5	Dextran	Sucrose	white
+chemotaxis protein MotA	2.4.1.5	Sucrose	D-Fructose	white
+chemotaxis protein MotA	2.4.1.5	Sucrose	Dextran	white
+chemotaxis protein MotB	7.4.2.8	(4S)-4-Hydroxy-5-phosphooxypentane-2,3-dione	3-Hydroxy-5-phosphooxypentane-2,4-dione	white
+chemotaxis protein MotB	7.4.2.8	3-Hydroxy-5-phosphooxypentane-2,4-dione	(4S)-4-Hydroxy-5-phosphooxypentane-2,3-dione	white
+chemotaxis protein MotC	7.4.2.8	(4S)-4-Hydroxy-5-phosphooxypentane-2,3-dione	3-Hydroxy-5-phosphooxypentane-2,4-dione	white
+chemotaxis protein MotC	7.4.2.8	3-Hydroxy-5-phosphooxypentane-2,4-dione	(4S)-4-Hydroxy-5-phosphooxypentane-2,3-dione	white
+chemotaxis protein MotD	7.4.2.8	(4S)-4-Hydroxy-5-phosphooxypentane-2,3-dione	3-Hydroxy-5-phosphooxypentane-2,4-dione	white
+chemotaxis protein MotD	7.4.2.8	3-Hydroxy-5-phosphooxypentane-2,4-dione	(4S)-4-Hydroxy-5-phosphooxypentane-2,3-dione	white
+flagellar H-ring protein FlgO	7.4.2.8	(4S)-4-Hydroxy-5-phosphooxypentane-2,3-dione	3-Hydroxy-5-phosphooxypentane-2,4-dione	white
+flagellar H-ring protein FlgO	7.4.2.8	3-Hydroxy-5-phosphooxypentane-2,4-dione	(4S)-4-Hydroxy-5-phosphooxypentane-2,3-dione	white
+flagellar H-ring protein FlgT	7.4.2.8	(4S)-4-Hydroxy-5-phosphooxypentane-2,3-dione	3-Hydroxy-5-phosphooxypentane-2,4-dione	white
+flagellar H-ring protein FlgT	7.4.2.8	3-Hydroxy-5-phosphooxypentane-2,4-dione	(4S)-4-Hydroxy-5-phosphooxypentane-2,3-dione	white
+flagellar L-ring protein FlgH	7.4.2.8	(4S)-4-Hydroxy-5-phosphooxypentane-2,3-dione	3-Hydroxy-5-phosphooxypentane-2,4-dione	white
+flagellar L-ring protein FlgH	7.4.2.8	3-Hydroxy-5-phosphooxypentane-2,4-dione	(4S)-4-Hydroxy-5-phosphooxypentane-2,3-dione	white
+flagellar M-ring protein FliF	7.4.2.8	(4S)-4-Hydroxy-5-phosphooxypentane-2,3-dione	3-Hydroxy-5-phosphooxypentane-2,4-dione	white
+flagellar M-ring protein FliF	7.4.2.8	3-Hydroxy-5-phosphooxypentane-2,4-dione	(4S)-4-Hydroxy-5-phosphooxypentane-2,3-dione	white
+flagellar P-ring protein FlgI	7.4.2.8	(4S)-4-Hydroxy-5-phosphooxypentane-2,3-dione	3-Hydroxy-5-phosphooxypentane-2,4-dione	white
+flagellar P-ring protein FlgI	7.4.2.8	3-Hydroxy-5-phosphooxypentane-2,4-dione	(4S)-4-Hydroxy-5-phosphooxypentane-2,3-dione	white
+flagellar assembly protein FliH	7.4.2.8	(4S)-4-Hydroxy-5-phosphooxypentane-2,3-dione	3-Hydroxy-5-phosphooxypentane-2,4-dione	white
+flagellar assembly protein FliH	7.4.2.8	3-Hydroxy-5-phosphooxypentane-2,4-dione	(4S)-4-Hydroxy-5-phosphooxypentane-2,3-dione	white
+flagellar basal body P-ring formation protein FlgA	7.4.2.8	(4S)-4-Hydroxy-5-phosphooxypentane-2,3-dione	3-Hydroxy-5-phosphooxypentane-2,4-dione	white
+flagellar basal body P-ring formation protein FlgA	7.4.2.8	3-Hydroxy-5-phosphooxypentane-2,4-dione	(4S)-4-Hydroxy-5-phosphooxypentane-2,3-dione	white
+flagellar basal-body rod modification protein FlgD	7.4.2.8	(4S)-4-Hydroxy-5-phosphooxypentane-2,3-dione	3-Hydroxy-5-phosphooxypentane-2,4-dione	white
+flagellar basal-body rod modification protein FlgD	7.4.2.8	3-Hydroxy-5-phosphooxypentane-2,4-dione	(4S)-4-Hydroxy-5-phosphooxypentane-2,3-dione	white
+flagellar basal-body rod protein FlgB	7.4.2.8	(4S)-4-Hydroxy-5-phosphooxypentane-2,3-dione	3-Hydroxy-5-phosphooxypentane-2,4-dione	white
+flagellar basal-body rod protein FlgB	7.4.2.8	3-Hydroxy-5-phosphooxypentane-2,4-dione	(4S)-4-Hydroxy-5-phosphooxypentane-2,3-dione	white
+flagellar basal-body rod protein FlgC	7.4.2.8	(4S)-4-Hydroxy-5-phosphooxypentane-2,3-dione	3-Hydroxy-5-phosphooxypentane-2,4-dione	white
+flagellar basal-body rod protein FlgC	7.4.2.8	3-Hydroxy-5-phosphooxypentane-2,4-dione	(4S)-4-Hydroxy-5-phosphooxypentane-2,3-dione	white
+flagellar basal-body rod protein FlgF	7.4.2.8	(4S)-4-Hydroxy-5-phosphooxypentane-2,3-dione	3-Hydroxy-5-phosphooxypentane-2,4-dione	white
+flagellar basal-body rod protein FlgF	7.4.2.8	3-Hydroxy-5-phosphooxypentane-2,4-dione	(4S)-4-Hydroxy-5-phosphooxypentane-2,3-dione	white
+flagellar basal-body rod protein FlgG	7.4.2.8	(4S)-4-Hydroxy-5-phosphooxypentane-2,3-dione	3-Hydroxy-5-phosphooxypentane-2,4-dione	white
+flagellar basal-body rod protein FlgG	7.4.2.8	3-Hydroxy-5-phosphooxypentane-2,4-dione	(4S)-4-Hydroxy-5-phosphooxypentane-2,3-dione	white
+flagellar biosynthesis protein FlgN	7.4.2.8	(4S)-4-Hydroxy-5-phosphooxypentane-2,3-dione	3-Hydroxy-5-phosphooxypentane-2,4-dione	white
+flagellar biosynthesis protein FlgN	7.4.2.8	3-Hydroxy-5-phosphooxypentane-2,4-dione	(4S)-4-Hydroxy-5-phosphooxypentane-2,3-dione	white
+flagellar biosynthesis protein FlhA	7.4.2.8	(4S)-4-Hydroxy-5-phosphooxypentane-2,3-dione	3-Hydroxy-5-phosphooxypentane-2,4-dione	white
+flagellar biosynthesis protein FlhA	7.4.2.8	3-Hydroxy-5-phosphooxypentane-2,4-dione	(4S)-4-Hydroxy-5-phosphooxypentane-2,3-dione	white
+flagellar biosynthesis protein FlhB	7.4.2.8	(4S)-4-Hydroxy-5-phosphooxypentane-2,3-dione	3-Hydroxy-5-phosphooxypentane-2,4-dione	white
+flagellar biosynthesis protein FlhB	7.4.2.8	3-Hydroxy-5-phosphooxypentane-2,4-dione	(4S)-4-Hydroxy-5-phosphooxypentane-2,3-dione	white
+flagellar biosynthesis protein FliP	5.3.1.32	(4S)-4-Hydroxy-5-phosphooxypentane-2,3-dione	3-Hydroxy-5-phosphooxypentane-2,4-dione	white
+flagellar biosynthesis protein FliP	5.3.1.32	3-Hydroxy-5-phosphooxypentane-2,4-dione	(4S)-4-Hydroxy-5-phosphooxypentane-2,3-dione	white
+flagellar biosynthesis protein FliQ	5.3.1.32	(4S)-4-Hydroxy-5-phosphooxypentane-2,3-dione	3-Hydroxy-5-phosphooxypentane-2,4-dione	white
+flagellar biosynthesis protein FliQ	5.3.1.32	3-Hydroxy-5-phosphooxypentane-2,4-dione	(4S)-4-Hydroxy-5-phosphooxypentane-2,3-dione	white
+flagellar biosynthesis protein FliR	7.4.2.8	(4S)-4-Hydroxy-5-phosphooxypentane-2,3-dione	3-Hydroxy-5-phosphooxypentane-2,4-dione	white
+flagellar biosynthesis protein FliR	7.4.2.8	3-Hydroxy-5-phosphooxypentane-2,4-dione	(4S)-4-Hydroxy-5-phosphooxypentane-2,3-dione	white
+flagellar biosynthesis protein FliR/FlhB	7.4.2.8	(4S)-4-Hydroxy-5-phosphooxypentane-2,3-dione	3-Hydroxy-5-phosphooxypentane-2,4-dione	white
+flagellar biosynthesis protein FliR/FlhB	7.4.2.8	3-Hydroxy-5-phosphooxypentane-2,4-dione	(4S)-4-Hydroxy-5-phosphooxypentane-2,3-dione	white
+flagellar hook protein FlgE	7.4.2.8	(4S)-4-Hydroxy-5-phosphooxypentane-2,3-dione	3-Hydroxy-5-phosphooxypentane-2,4-dione	white
+flagellar hook protein FlgE	7.4.2.8	3-Hydroxy-5-phosphooxypentane-2,4-dione	(4S)-4-Hydroxy-5-phosphooxypentane-2,3-dione	white
+flagellar hook-associated protein 1	7.4.2.8	(4S)-4-Hydroxy-5-phosphooxypentane-2,3-dione	3-Hydroxy-5-phosphooxypentane-2,4-dione	white
+flagellar hook-associated protein 1	7.4.2.8	3-Hydroxy-5-phosphooxypentane-2,4-dione	(4S)-4-Hydroxy-5-phosphooxypentane-2,3-dione	white
+flagellar hook-associated protein 2	7.4.2.8	(4S)-4-Hydroxy-5-phosphooxypentane-2,3-dione	3-Hydroxy-5-phosphooxypentane-2,4-dione	white
+flagellar hook-associated protein 2	7.4.2.8	3-Hydroxy-5-phosphooxypentane-2,4-dione	(4S)-4-Hydroxy-5-phosphooxypentane-2,3-dione	white
+flagellar hook-associated protein 3 FlgL	7.4.2.8	(4S)-4-Hydroxy-5-phosphooxypentane-2,3-dione	3-Hydroxy-5-phosphooxypentane-2,4-dione	white
+flagellar hook-associated protein 3 FlgL	7.4.2.8	3-Hydroxy-5-phosphooxypentane-2,4-dione	(4S)-4-Hydroxy-5-phosphooxypentane-2,3-dione	white
+flagellar hook-basal body complex protein FliE	7.4.2.8	(4S)-4-Hydroxy-5-phosphooxypentane-2,3-dione	3-Hydroxy-5-phosphooxypentane-2,4-dione	white
+flagellar hook-basal body complex protein FliE	7.4.2.8	3-Hydroxy-5-phosphooxypentane-2,4-dione	(4S)-4-Hydroxy-5-phosphooxypentane-2,3-dione	white
+flagellar hook-length control protein FliK	7.4.2.8	(4S)-4-Hydroxy-5-phosphooxypentane-2,3-dione	3-Hydroxy-5-phosphooxypentane-2,4-dione	white
+flagellar hook-length control protein FliK	7.4.2.8	3-Hydroxy-5-phosphooxypentane-2,4-dione	(4S)-4-Hydroxy-5-phosphooxypentane-2,3-dione	white
+flagellar motility protein FlgQ	7.4.2.8	(4S)-4-Hydroxy-5-phosphooxypentane-2,3-dione	3-Hydroxy-5-phosphooxypentane-2,4-dione	white
+flagellar motility protein FlgQ	7.4.2.8	3-Hydroxy-5-phosphooxypentane-2,4-dione	(4S)-4-Hydroxy-5-phosphooxypentane-2,3-dione	white
+flagellar motor switch protein FliG	7.4.2.8	(4S)-4-Hydroxy-5-phosphooxypentane-2,3-dione	3-Hydroxy-5-phosphooxypentane-2,4-dione	white
+flagellar motor switch protein FliG	7.4.2.8	3-Hydroxy-5-phosphooxypentane-2,4-dione	(4S)-4-Hydroxy-5-phosphooxypentane-2,3-dione	white
+flagellar motor switch protein FliM	7.4.2.8	(4S)-4-Hydroxy-5-phosphooxypentane-2,3-dione	3-Hydroxy-5-phosphooxypentane-2,4-dione	white
+flagellar motor switch protein FliM	7.4.2.8	3-Hydroxy-5-phosphooxypentane-2,4-dione	(4S)-4-Hydroxy-5-phosphooxypentane-2,3-dione	white
+flagellar motor switch protein FliN	7.4.2.8	(4S)-4-Hydroxy-5-phosphooxypentane-2,3-dione	3-Hydroxy-5-phosphooxypentane-2,4-dione	white
+flagellar motor switch protein FliN	7.4.2.8	3-Hydroxy-5-phosphooxypentane-2,4-dione	(4S)-4-Hydroxy-5-phosphooxypentane-2,3-dione	white
+flagellar protein FlhE	7.4.2.8	(4S)-4-Hydroxy-5-phosphooxypentane-2,3-dione	3-Hydroxy-5-phosphooxypentane-2,4-dione	white
+flagellar protein FlhE	7.4.2.8	3-Hydroxy-5-phosphooxypentane-2,4-dione	(4S)-4-Hydroxy-5-phosphooxypentane-2,3-dione	white
+flagellar protein FliJ	5.3.1.32	(4S)-4-Hydroxy-5-phosphooxypentane-2,3-dione	3-Hydroxy-5-phosphooxypentane-2,4-dione	white
+flagellar protein FliJ	5.3.1.32	3-Hydroxy-5-phosphooxypentane-2,4-dione	(4S)-4-Hydroxy-5-phosphooxypentane-2,3-dione	white
+flagellar protein FliL	7.4.2.8	(4S)-4-Hydroxy-5-phosphooxypentane-2,3-dione	3-Hydroxy-5-phosphooxypentane-2,4-dione	white
+flagellar protein FliL	7.4.2.8	3-Hydroxy-5-phosphooxypentane-2,4-dione	(4S)-4-Hydroxy-5-phosphooxypentane-2,3-dione	white
+flagellar protein FliO/FliZ	5.3.1.32	(4S)-4-Hydroxy-5-phosphooxypentane-2,3-dione	3-Hydroxy-5-phosphooxypentane-2,4-dione	white
+flagellar protein FliO/FliZ	5.3.1.32	3-Hydroxy-5-phosphooxypentane-2,4-dione	(4S)-4-Hydroxy-5-phosphooxypentane-2,3-dione	white
+flagellar protein FliT	7.4.2.8	(4S)-4-Hydroxy-5-phosphooxypentane-2,3-dione	3-Hydroxy-5-phosphooxypentane-2,4-dione	white
+flagellar protein FliT	7.4.2.8	3-Hydroxy-5-phosphooxypentane-2,4-dione	(4S)-4-Hydroxy-5-phosphooxypentane-2,3-dione	white
+flagellar secretion chaperone FliS	7.4.2.8	(4S)-4-Hydroxy-5-phosphooxypentane-2,3-dione	3-Hydroxy-5-phosphooxypentane-2,4-dione	white
+flagellar secretion chaperone FliS	7.4.2.8	3-Hydroxy-5-phosphooxypentane-2,4-dione	(4S)-4-Hydroxy-5-phosphooxypentane-2,3-dione	white
+flagellar transcriptional activator FlhC	1.17.5.3	Fumarate	Quinone	white
+flagellar transcriptional activator FlhC	1.17.5.3	Fumarate	Succinate	white
+flagellar transcriptional activator FlhC	1.17.5.3	Hydroquinone	Quinone	white
+flagellar transcriptional activator FlhC	1.17.5.3	Hydroquinone	Succinate	white
+flagellar transcriptional activator FlhC	1.17.5.3	Quinone	Fumarate	white
+flagellar transcriptional activator FlhC	1.17.5.3	Quinone	Hydroquinone	white
+flagellar transcriptional activator FlhC	1.17.5.3	Succinate	Fumarate	white
+flagellar transcriptional activator FlhC	1.17.5.3	Succinate	Hydroquinone	white
+flagellar transcriptional activator FlhD	1.17.5.3	Fumarate	Quinone	white
+flagellar transcriptional activator FlhD	1.17.5.3	Fumarate	Succinate	white
+flagellar transcriptional activator FlhD	1.17.5.3	Hydroquinone	Quinone	white
+flagellar transcriptional activator FlhD	1.17.5.3	Hydroquinone	Succinate	white
+flagellar transcriptional activator FlhD	1.17.5.3	Quinone	Fumarate	white
+flagellar transcriptional activator FlhD	1.17.5.3	Quinone	Hydroquinone	white
+flagellar transcriptional activator FlhD	1.17.5.3	Succinate	Fumarate	white
+flagellar transcriptional activator FlhD	1.17.5.3	Succinate	Hydroquinone	white
+flagellin	2.4.1.5	D-Fructose	Dextran	white
+flagellin	2.4.1.5	D-Fructose	Sucrose	white
+flagellin	2.4.1.5	Dextran	D-Fructose	white
+flagellin	2.4.1.5	Dextran	Dextran	white
+flagellin	2.4.1.5	Dextran	Sucrose	white
+flagellin	2.4.1.5	Sucrose	D-Fructose	white
+flagellin	2.4.1.5	Sucrose	Dextran	white
+flagellum-specific ATP synthase	7.4.2.8	(4S)-4-Hydroxy-5-phosphooxypentane-2,3-dione	3-Hydroxy-5-phosphooxypentane-2,4-dione	white
+flagellum-specific ATP synthase	7.4.2.8	3-Hydroxy-5-phosphooxypentane-2,4-dione	(4S)-4-Hydroxy-5-phosphooxypentane-2,3-dione	white
+negative regulator of flagellin synthesis FlgM	2.7.13.3	2,4-Diamino-6-hydroxylaminotoluene	2,4-Diamino-6-nitrotoluene	white
+negative regulator of flagellin synthesis FlgM	2.7.13.3	2,4-Diamino-6-nitrotoluene	2,4-Diamino-6-hydroxylaminotoluene	white
+outer membrane protein FlgP	7.4.2.8	(4S)-4-Hydroxy-5-phosphooxypentane-2,3-dione	3-Hydroxy-5-phosphooxypentane-2,4-dione	white
+outer membrane protein FlgP	7.4.2.8	3-Hydroxy-5-phosphooxypentane-2,4-dione	(4S)-4-Hydroxy-5-phosphooxypentane-2,3-dione	white
+peptidoglycan hydrolase FlgJ	7.4.2.8	(4S)-4-Hydroxy-5-phosphooxypentane-2,3-dione	3-Hydroxy-5-phosphooxypentane-2,4-dione	white
+peptidoglycan hydrolase FlgJ	7.4.2.8	3-Hydroxy-5-phosphooxypentane-2,4-dione	(4S)-4-Hydroxy-5-phosphooxypentane-2,3-dione	white
+regulator of sigma S factor FliZ	7.4.2.8	(4S)-4-Hydroxy-5-phosphooxypentane-2,3-dione	3-Hydroxy-5-phosphooxypentane-2,4-dione	white
+regulator of sigma S factor FliZ	7.4.2.8	3-Hydroxy-5-phosphooxypentane-2,4-dione	(4S)-4-Hydroxy-5-phosphooxypentane-2,3-dione	white
+sigma-54 dependent transcriptional regulator, flagellar regulatory protein	2.7.13.3	3',5'-Cyclic diGMP	GTP	white
+sigma-54 dependent transcriptional regulator, flagellar regulatory protein	2.7.13.3	Diphosphate	GTP	white
+sigma-54 dependent transcriptional regulator, flagellar regulatory protein	2.7.13.3	GTP	3',5'-Cyclic diGMP	white
+sigma-54 dependent transcriptional regulator, flagellar regulatory protein	2.7.13.3	GTP	Diphosphate	white
+sodium-type flagellar protein MotY	7.4.2.8	(4S)-4-Hydroxy-5-phosphooxypentane-2,3-dione	3-Hydroxy-5-phosphooxypentane-2,4-dione	white
+sodium-type flagellar protein MotY	7.4.2.8	3-Hydroxy-5-phosphooxypentane-2,4-dione	(4S)-4-Hydroxy-5-phosphooxypentane-2,3-dione	white
+sodium-type polar flagellar protein MotX	7.4.2.8	(4S)-4-Hydroxy-5-phosphooxypentane-2,3-dione	3-Hydroxy-5-phosphooxypentane-2,4-dione	white
+sodium-type polar flagellar protein MotX	7.4.2.8	3-Hydroxy-5-phosphooxypentane-2,4-dione	(4S)-4-Hydroxy-5-phosphooxypentane-2,3-dione	white
+two-component system, response regulator FlrC	2.7.13.3	3',5'-Cyclic diGMP	GTP	white
+two-component system, response regulator FlrC	2.7.13.3	Diphosphate	GTP	white
+two-component system, response regulator FlrC	2.7.13.3	GTP	3',5'-Cyclic diGMP	white
+two-component system, response regulator FlrC	2.7.13.3	GTP	Diphosphate	white

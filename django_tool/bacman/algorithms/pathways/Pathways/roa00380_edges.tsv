@@ -1,0 +1,801 @@
+enzyme_name	EC	source	target	color
+2-aminomuconate deaminase	3.5.99.5	2-Aminomuconate	Ammonia	white
+2-aminomuconate deaminase	3.5.99.5	2-Aminomuconate	gamma-Oxalocrotonate	white
+2-aminomuconate deaminase	3.5.99.5	Ammonia	2-Aminomuconate	white
+2-aminomuconate deaminase	3.5.99.5	Ammonia	H2O	white
+2-aminomuconate deaminase	3.5.99.5	H2O	Ammonia	white
+2-aminomuconate deaminase	3.5.99.5	H2O	gamma-Oxalocrotonate	white
+2-aminomuconate deaminase	3.5.99.5	gamma-Oxalocrotonate	2-Aminomuconate	white
+2-aminomuconate deaminase	3.5.99.5	gamma-Oxalocrotonate	H2O	white
+2-oxoglutarate-dependent dioxygenase	1.14.20.-	2-Oxoglutarate	CO2	white
+2-oxoglutarate-dependent dioxygenase	1.14.20.-	2-Oxoglutarate	OA-6129 B2	white
+2-oxoglutarate-dependent dioxygenase	1.14.20.-	2-Oxoglutarate	Succinate	white
+2-oxoglutarate-dependent dioxygenase	1.14.20.-	CO2	2-Oxoglutarate	white
+2-oxoglutarate-dependent dioxygenase	1.14.20.-	CO2	OA-6129 A	white
+2-oxoglutarate-dependent dioxygenase	1.14.20.-	CO2	Oxygen	white
+2-oxoglutarate-dependent dioxygenase	1.14.20.-	OA-6129 A	CO2	white
+2-oxoglutarate-dependent dioxygenase	1.14.20.-	OA-6129 A	OA-6129 B2	white
+2-oxoglutarate-dependent dioxygenase	1.14.20.-	OA-6129 A	Succinate	white
+2-oxoglutarate-dependent dioxygenase	1.14.20.-	OA-6129 B2	2-Oxoglutarate	white
+2-oxoglutarate-dependent dioxygenase	1.14.20.-	OA-6129 B2	OA-6129 A	white
+2-oxoglutarate-dependent dioxygenase	1.14.20.-	OA-6129 B2	Oxygen	white
+2-oxoglutarate-dependent dioxygenase	1.14.20.-	Oxygen	CO2	white
+2-oxoglutarate-dependent dioxygenase	1.14.20.-	Oxygen	OA-6129 B2	white
+2-oxoglutarate-dependent dioxygenase	1.14.20.-	Oxygen	Succinate	white
+2-oxoglutarate-dependent dioxygenase	1.14.20.-	Succinate	2-Oxoglutarate	white
+2-oxoglutarate-dependent dioxygenase	1.14.20.-	Succinate	OA-6129 A	white
+2-oxoglutarate-dependent dioxygenase	1.14.20.-	Succinate	Oxygen	white
+3-hydroxyacyl-CoA dehydrogenase / enoyl-CoA hydratase / 3-hydroxybutyryl-CoA epimerase	1.1.1.35	(S)-3-Hydroxybutanoyl-CoA	Acetoacetyl-CoA	green
+3-hydroxyacyl-CoA dehydrogenase / enoyl-CoA hydratase / 3-hydroxybutyryl-CoA epimerase	1.1.1.35	(S)-3-Hydroxybutanoyl-CoA	Crotonoyl-CoA	green
+3-hydroxyacyl-CoA dehydrogenase / enoyl-CoA hydratase / 3-hydroxybutyryl-CoA epimerase	1.1.1.35	(S)-3-Hydroxybutanoyl-CoA	H+	green
+3-hydroxyacyl-CoA dehydrogenase / enoyl-CoA hydratase / 3-hydroxybutyryl-CoA epimerase	1.1.1.35	(S)-3-Hydroxybutanoyl-CoA	H2O	green
+3-hydroxyacyl-CoA dehydrogenase / enoyl-CoA hydratase / 3-hydroxybutyryl-CoA epimerase	1.1.1.35	(S)-3-Hydroxybutanoyl-CoA	NADH	green
+3-hydroxyacyl-CoA dehydrogenase / enoyl-CoA hydratase / 3-hydroxybutyryl-CoA epimerase	1.1.1.35	NAD+	Acetoacetyl-CoA	green
+3-hydroxyacyl-CoA dehydrogenase / enoyl-CoA hydratase / 3-hydroxybutyryl-CoA epimerase	1.1.1.35	NAD+	H+	green
+3-hydroxyacyl-CoA dehydrogenase / enoyl-CoA hydratase / 3-hydroxybutyryl-CoA epimerase	1.1.1.35	NAD+	NADH	green
+3-hydroxyanthranilate 3,4-dioxygenase	1.13.11.6	2-Amino-3-carboxymuconate semialdehyde	3-Hydroxyanthranilate	white
+3-hydroxyanthranilate 3,4-dioxygenase	1.13.11.6	2-Amino-3-carboxymuconate semialdehyde	Oxygen	white
+3-hydroxyanthranilate 3,4-dioxygenase	1.13.11.6	3-Hydroxyanthranilate	2-Amino-3-carboxymuconate semialdehyde	white
+3-hydroxyanthranilate 3,4-dioxygenase	1.13.11.6	Oxygen	2-Amino-3-carboxymuconate semialdehyde	white
+FAD reductase [NAD(P)H]	1.5.1.45	3,4-Dihydroxyphenylacetate	4-Hydroxyphenylacetate	white
+FAD reductase [NAD(P)H]	1.5.1.45	3,4-Dihydroxyphenylacetate	H+	white
+FAD reductase [NAD(P)H]	1.5.1.45	3,4-Dihydroxyphenylacetate	NADH	white
+FAD reductase [NAD(P)H]	1.5.1.45	3,4-Dihydroxyphenylacetate	Oxygen	white
+FAD reductase [NAD(P)H]	1.5.1.45	4-Hydroxyphenylacetate	3,4-Dihydroxyphenylacetate	white
+FAD reductase [NAD(P)H]	1.5.1.45	4-Hydroxyphenylacetate	H2O	white
+FAD reductase [NAD(P)H]	1.5.1.45	4-Hydroxyphenylacetate	NAD+	white
+FAD reductase [NAD(P)H]	1.5.1.45	H+	3,4-Dihydroxyphenylacetate	white
+FAD reductase [NAD(P)H]	1.5.1.45	H+	H2O	white
+FAD reductase [NAD(P)H]	1.5.1.45	H+	NAD+	white
+FAD reductase [NAD(P)H]	1.5.1.45	H2O	4-Hydroxyphenylacetate	white
+FAD reductase [NAD(P)H]	1.5.1.45	H2O	H+	white
+FAD reductase [NAD(P)H]	1.5.1.45	H2O	NADH	white
+FAD reductase [NAD(P)H]	1.5.1.45	H2O	Oxygen	white
+FAD reductase [NAD(P)H]	1.5.1.45	NAD+	4-Hydroxyphenylacetate	white
+FAD reductase [NAD(P)H]	1.5.1.45	NAD+	H+	white
+FAD reductase [NAD(P)H]	1.5.1.45	NAD+	NADH	white
+FAD reductase [NAD(P)H]	1.5.1.45	NAD+	Oxygen	white
+FAD reductase [NAD(P)H]	1.5.1.45	NADH	3,4-Dihydroxyphenylacetate	white
+FAD reductase [NAD(P)H]	1.5.1.45	NADH	H2O	white
+FAD reductase [NAD(P)H]	1.5.1.45	NADH	NAD+	white
+FAD reductase [NAD(P)H]	1.5.1.45	Oxygen	3,4-Dihydroxyphenylacetate	white
+FAD reductase [NAD(P)H]	1.5.1.45	Oxygen	H2O	white
+FAD reductase [NAD(P)H]	1.5.1.45	Oxygen	NAD+	white
+L-amino-acid oxidase	1.4.3.2	Ammonia	H2O	white
+L-amino-acid oxidase	1.4.3.2	Ammonia	L-Aspartate	white
+L-amino-acid oxidase	1.4.3.2	Ammonia	Oxygen	white
+L-amino-acid oxidase	1.4.3.2	H2O	Ammonia	white
+L-amino-acid oxidase	1.4.3.2	H2O	Hydrogen peroxide	white
+L-amino-acid oxidase	1.4.3.2	H2O	Oxaloacetate	white
+L-amino-acid oxidase	1.4.3.2	Hydrogen peroxide	H2O	white
+L-amino-acid oxidase	1.4.3.2	Hydrogen peroxide	L-Aspartate	white
+L-amino-acid oxidase	1.4.3.2	Hydrogen peroxide	Oxygen	white
+L-amino-acid oxidase	1.4.3.2	L-Aspartate	Ammonia	white
+L-amino-acid oxidase	1.4.3.2	L-Aspartate	Hydrogen peroxide	white
+L-amino-acid oxidase	1.4.3.2	L-Aspartate	Oxaloacetate	white
+L-amino-acid oxidase	1.4.3.2	Oxaloacetate	H2O	white
+L-amino-acid oxidase	1.4.3.2	Oxaloacetate	L-Aspartate	white
+L-amino-acid oxidase	1.4.3.2	Oxaloacetate	Oxygen	white
+L-amino-acid oxidase	1.4.3.2	Oxygen	Ammonia	white
+L-amino-acid oxidase	1.4.3.2	Oxygen	Hydrogen peroxide	white
+L-amino-acid oxidase	1.4.3.2	Oxygen	Oxaloacetate	white
+L-tryptophan decarboxylase	4.1.1.105	CO2	L-Tryptophan	white
+L-tryptophan decarboxylase	4.1.1.105	L-Tryptophan	CO2	white
+L-tryptophan decarboxylase	4.1.1.105	L-Tryptophan	Tryptamine	white
+L-tryptophan decarboxylase	4.1.1.105	Tryptamine	L-Tryptophan	white
+L-tryptophan---pyruvate aminotransferase	2.6.1.99	Indolepyruvate	L-Tryptophan	white
+L-tryptophan---pyruvate aminotransferase	2.6.1.99	Indolepyruvate	Pyruvate	white
+L-tryptophan---pyruvate aminotransferase	2.6.1.99	L-Alanine	L-Tryptophan	white
+L-tryptophan---pyruvate aminotransferase	2.6.1.99	L-Alanine	Pyruvate	white
+L-tryptophan---pyruvate aminotransferase	2.6.1.99	L-Tryptophan	Indolepyruvate	white
+L-tryptophan---pyruvate aminotransferase	2.6.1.99	L-Tryptophan	L-Alanine	white
+L-tryptophan---pyruvate aminotransferase	2.6.1.99	Pyruvate	Indolepyruvate	white
+L-tryptophan---pyruvate aminotransferase	2.6.1.99	Pyruvate	L-Alanine	white
+N-hydroxythioamide S-beta-glucosyltransferase	2.4.1.195	Desulfoglucotropeolin	Phenylacetothiohydroximate	white
+N-hydroxythioamide S-beta-glucosyltransferase	2.4.1.195	Desulfoglucotropeolin	UDP-glucose	white
+N-hydroxythioamide S-beta-glucosyltransferase	2.4.1.195	Phenylacetothiohydroximate	Desulfoglucotropeolin	white
+N-hydroxythioamide S-beta-glucosyltransferase	2.4.1.195	Phenylacetothiohydroximate	UDP	white
+N-hydroxythioamide S-beta-glucosyltransferase	2.4.1.195	UDP	Phenylacetothiohydroximate	white
+N-hydroxythioamide S-beta-glucosyltransferase	2.4.1.195	UDP	UDP-glucose	white
+N-hydroxythioamide S-beta-glucosyltransferase	2.4.1.195	UDP-glucose	Desulfoglucotropeolin	white
+N-hydroxythioamide S-beta-glucosyltransferase	2.4.1.195	UDP-glucose	UDP	white
+S-alkyl-thiohydroximate lyase SUR1	4.4.1.-	Ammonia	H2O	white
+S-alkyl-thiohydroximate lyase SUR1	4.4.1.-	Ammonia	S-(Indolylmethylthiohydroximoyl)-L-cysteine	white
+S-alkyl-thiohydroximate lyase SUR1	4.4.1.-	H2O	Ammonia	white
+S-alkyl-thiohydroximate lyase SUR1	4.4.1.-	H2O	Indolylmethylthiohydroximate	white
+S-alkyl-thiohydroximate lyase SUR1	4.4.1.-	H2O	Pyruvate	white
+S-alkyl-thiohydroximate lyase SUR1	4.4.1.-	Indolylmethylthiohydroximate	H2O	white
+S-alkyl-thiohydroximate lyase SUR1	4.4.1.-	Indolylmethylthiohydroximate	S-(Indolylmethylthiohydroximoyl)-L-cysteine	white
+S-alkyl-thiohydroximate lyase SUR1	4.4.1.-	Pyruvate	H2O	white
+S-alkyl-thiohydroximate lyase SUR1	4.4.1.-	Pyruvate	S-(Indolylmethylthiohydroximoyl)-L-cysteine	white
+S-alkyl-thiohydroximate lyase SUR1	4.4.1.-	S-(Indolylmethylthiohydroximoyl)-L-cysteine	Ammonia	white
+S-alkyl-thiohydroximate lyase SUR1	4.4.1.-	S-(Indolylmethylthiohydroximoyl)-L-cysteine	Indolylmethylthiohydroximate	white
+S-alkyl-thiohydroximate lyase SUR1	4.4.1.-	S-(Indolylmethylthiohydroximoyl)-L-cysteine	Pyruvate	white
+acetyl-CoA C-acetyltransferase	2.3.1.9	Acetyl-CoA	Acetoacetyl-CoA	green
+acetyl-CoA C-acetyltransferase	2.3.1.9	Acetyl-CoA	CoA	green
+acetylserotonin O-methyltransferase	2.1.1.4	Melatonin	N-Acetylserotonin	white
+acetylserotonin O-methyltransferase	2.1.1.4	Melatonin	S-Adenosyl-L-methionine	white
+acetylserotonin O-methyltransferase	2.1.1.4	N-Acetylserotonin	Melatonin	white
+acetylserotonin O-methyltransferase	2.1.1.4	N-Acetylserotonin	S-Adenosyl-L-homocysteine	white
+acetylserotonin O-methyltransferase	2.1.1.4	S-Adenosyl-L-homocysteine	N-Acetylserotonin	white
+acetylserotonin O-methyltransferase	2.1.1.4	S-Adenosyl-L-homocysteine	S-Adenosyl-L-methionine	white
+acetylserotonin O-methyltransferase	2.1.1.4	S-Adenosyl-L-methionine	Melatonin	white
+acetylserotonin O-methyltransferase	2.1.1.4	S-Adenosyl-L-methionine	S-Adenosyl-L-homocysteine	white
+acetylserotonin O-methyltransferase, plant	2.1.1.4	Melatonin	N-Acetylserotonin	white
+acetylserotonin O-methyltransferase, plant	2.1.1.4	Melatonin	S-Adenosyl-L-methionine	white
+acetylserotonin O-methyltransferase, plant	2.1.1.4	N-Acetylserotonin	Melatonin	white
+acetylserotonin O-methyltransferase, plant	2.1.1.4	N-Acetylserotonin	S-Adenosyl-L-homocysteine	white
+acetylserotonin O-methyltransferase, plant	2.1.1.4	S-Adenosyl-L-homocysteine	N-Acetylserotonin	white
+acetylserotonin O-methyltransferase, plant	2.1.1.4	S-Adenosyl-L-homocysteine	S-Adenosyl-L-methionine	white
+acetylserotonin O-methyltransferase, plant	2.1.1.4	S-Adenosyl-L-methionine	Melatonin	white
+acetylserotonin O-methyltransferase, plant	2.1.1.4	S-Adenosyl-L-methionine	S-Adenosyl-L-homocysteine	white
+aldehyde dehydrogenase (NAD+)	1.2.1.3	5-Hydroxyindoleacetaldehyde	5-Hydroxyindoleacetate	green
+aldehyde dehydrogenase (NAD+)	1.2.1.3	5-Hydroxyindoleacetaldehyde	H+	green
+aldehyde dehydrogenase (NAD+)	1.2.1.3	5-Hydroxyindoleacetaldehyde	NADH	green
+aldehyde dehydrogenase (NAD+)	1.2.1.3	H2O	5-Hydroxyindoleacetate	green
+aldehyde dehydrogenase (NAD+)	1.2.1.3	H2O	H+	green
+aldehyde dehydrogenase (NAD+)	1.2.1.3	H2O	Indole-3-acetate	green
+aldehyde dehydrogenase (NAD+)	1.2.1.3	H2O	NADH	green
+aldehyde dehydrogenase (NAD+)	1.2.1.3	Indole-3-acetaldehyde	H+	green
+aldehyde dehydrogenase (NAD+)	1.2.1.3	Indole-3-acetaldehyde	Indole-3-acetate	green
+aldehyde dehydrogenase (NAD+)	1.2.1.3	Indole-3-acetaldehyde	NADH	green
+aldehyde dehydrogenase (NAD+)	1.2.1.3	NAD+	5-Hydroxyindoleacetate	green
+aldehyde dehydrogenase (NAD+)	1.2.1.3	NAD+	H+	green
+aldehyde dehydrogenase (NAD+)	1.2.1.3	NAD+	Indole-3-acetate	green
+aldehyde dehydrogenase (NAD+)	1.2.1.3	NAD+	NADH	green
+aldehyde oxidase	1.2.3.1	4-Pyridoxate	H2O	white
+aldehyde oxidase	1.2.3.1	4-Pyridoxate	Oxygen	white
+aldehyde oxidase	1.2.3.1	4-Pyridoxate	Pyridoxal	white
+aldehyde oxidase	1.2.3.1	H2O	4-Pyridoxate	white
+aldehyde oxidase	1.2.3.1	H2O	Hydrogen peroxide	white
+aldehyde oxidase	1.2.3.1	Hydrogen peroxide	H2O	white
+aldehyde oxidase	1.2.3.1	Hydrogen peroxide	Oxygen	white
+aldehyde oxidase	1.2.3.1	Hydrogen peroxide	Pyridoxal	white
+aldehyde oxidase	1.2.3.1	Oxygen	4-Pyridoxate	white
+aldehyde oxidase	1.2.3.1	Oxygen	Hydrogen peroxide	white
+aldehyde oxidase	1.2.3.1	Pyridoxal	4-Pyridoxate	white
+aldehyde oxidase	1.2.3.1	Pyridoxal	Hydrogen peroxide	white
+amidase	3.5.1.4	(Indol-3-yl)acetamide	Ammonia	green
+amidase	3.5.1.4	(Indol-3-yl)acetamide	Indole-3-acetate	green
+amidase	3.5.1.4	H2O	Ammonia	green
+amidase	3.5.1.4	H2O	Indole-3-acetate	green
+aminocarboxymuconate-semialdehyde decarboxylase	4.1.1.45	2-Amino-3-carboxymuconate semialdehyde	2-Aminomuconate semialdehyde	white
+aminocarboxymuconate-semialdehyde decarboxylase	4.1.1.45	2-Amino-3-carboxymuconate semialdehyde	CO2	white
+aminocarboxymuconate-semialdehyde decarboxylase	4.1.1.45	2-Aminomuconate semialdehyde	2-Amino-3-carboxymuconate semialdehyde	white
+aminocarboxymuconate-semialdehyde decarboxylase	4.1.1.45	CO2	2-Amino-3-carboxymuconate semialdehyde	white
+aminomuconate-semialdehyde dehydrogenase	1.2.1.32	2-Aminomuconate	2-Aminomuconate semialdehyde	white
+aminomuconate-semialdehyde dehydrogenase	1.2.1.32	2-Aminomuconate	H2O	white
+aminomuconate-semialdehyde dehydrogenase	1.2.1.32	2-Aminomuconate	NAD+	white
+aminomuconate-semialdehyde dehydrogenase	1.2.1.32	2-Aminomuconate semialdehyde	2-Aminomuconate	white
+aminomuconate-semialdehyde dehydrogenase	1.2.1.32	2-Aminomuconate semialdehyde	H+	white
+aminomuconate-semialdehyde dehydrogenase	1.2.1.32	2-Aminomuconate semialdehyde	NADH	white
+aminomuconate-semialdehyde dehydrogenase	1.2.1.32	H+	2-Aminomuconate semialdehyde	white
+aminomuconate-semialdehyde dehydrogenase	1.2.1.32	H+	H2O	white
+aminomuconate-semialdehyde dehydrogenase	1.2.1.32	H+	NAD+	white
+aminomuconate-semialdehyde dehydrogenase	1.2.1.32	H2O	2-Aminomuconate	white
+aminomuconate-semialdehyde dehydrogenase	1.2.1.32	H2O	H+	white
+aminomuconate-semialdehyde dehydrogenase	1.2.1.32	H2O	NADH	white
+aminomuconate-semialdehyde dehydrogenase	1.2.1.32	NAD+	2-Aminomuconate	white
+aminomuconate-semialdehyde dehydrogenase	1.2.1.32	NAD+	H+	white
+aminomuconate-semialdehyde dehydrogenase	1.2.1.32	NAD+	NADH	white
+aminomuconate-semialdehyde dehydrogenase	1.2.1.32	NADH	2-Aminomuconate semialdehyde	white
+aminomuconate-semialdehyde dehydrogenase	1.2.1.32	NADH	H2O	white
+aminomuconate-semialdehyde dehydrogenase	1.2.1.32	NADH	NAD+	white
+aminomuconate-semialdehyde/2-hydroxymuconate-6-semialdehyde dehydrogenase	1.2.1.32	2-Hydroxymuconate	2-Hydroxymuconate semialdehyde	white
+aminomuconate-semialdehyde/2-hydroxymuconate-6-semialdehyde dehydrogenase	1.2.1.32	2-Hydroxymuconate	H2O	white
+aminomuconate-semialdehyde/2-hydroxymuconate-6-semialdehyde dehydrogenase	1.2.1.32	2-Hydroxymuconate	NAD+	white
+aminomuconate-semialdehyde/2-hydroxymuconate-6-semialdehyde dehydrogenase	1.2.1.32	2-Hydroxymuconate semialdehyde	2-Hydroxymuconate	white
+aminomuconate-semialdehyde/2-hydroxymuconate-6-semialdehyde dehydrogenase	1.2.1.32	2-Hydroxymuconate semialdehyde	H+	white
+aminomuconate-semialdehyde/2-hydroxymuconate-6-semialdehyde dehydrogenase	1.2.1.32	2-Hydroxymuconate semialdehyde	NADH	white
+aminomuconate-semialdehyde/2-hydroxymuconate-6-semialdehyde dehydrogenase	1.2.1.32	H+	2-Hydroxymuconate semialdehyde	white
+aminomuconate-semialdehyde/2-hydroxymuconate-6-semialdehyde dehydrogenase	1.2.1.32	H+	H2O	white
+aminomuconate-semialdehyde/2-hydroxymuconate-6-semialdehyde dehydrogenase	1.2.1.32	H+	NAD+	white
+aminomuconate-semialdehyde/2-hydroxymuconate-6-semialdehyde dehydrogenase	1.2.1.32	H2O	2-Hydroxymuconate	white
+aminomuconate-semialdehyde/2-hydroxymuconate-6-semialdehyde dehydrogenase	1.2.1.32	H2O	H+	white
+aminomuconate-semialdehyde/2-hydroxymuconate-6-semialdehyde dehydrogenase	1.2.1.32	H2O	NADH	white
+aminomuconate-semialdehyde/2-hydroxymuconate-6-semialdehyde dehydrogenase	1.2.1.32	NAD+	2-Hydroxymuconate	white
+aminomuconate-semialdehyde/2-hydroxymuconate-6-semialdehyde dehydrogenase	1.2.1.32	NAD+	H+	white
+aminomuconate-semialdehyde/2-hydroxymuconate-6-semialdehyde dehydrogenase	1.2.1.32	NAD+	NADH	white
+aminomuconate-semialdehyde/2-hydroxymuconate-6-semialdehyde dehydrogenase	1.2.1.32	NADH	2-Hydroxymuconate semialdehyde	white
+aminomuconate-semialdehyde/2-hydroxymuconate-6-semialdehyde dehydrogenase	1.2.1.32	NADH	H2O	white
+aminomuconate-semialdehyde/2-hydroxymuconate-6-semialdehyde dehydrogenase	1.2.1.32	NADH	NAD+	white
+anthranilate 3-monooxygenase (FAD) / 4-hydroxyphenylacetate 3-monooxygenase	1.14.14.8	3,4-Dihydroxyphenylacetate	4-Hydroxyphenylacetate	white
+anthranilate 3-monooxygenase (FAD) / 4-hydroxyphenylacetate 3-monooxygenase	1.14.14.8	3,4-Dihydroxyphenylacetate	H+	white
+anthranilate 3-monooxygenase (FAD) / 4-hydroxyphenylacetate 3-monooxygenase	1.14.14.8	3,4-Dihydroxyphenylacetate	NADH	white
+anthranilate 3-monooxygenase (FAD) / 4-hydroxyphenylacetate 3-monooxygenase	1.14.14.8	3,4-Dihydroxyphenylacetate	Oxygen	white
+anthranilate 3-monooxygenase (FAD) / 4-hydroxyphenylacetate 3-monooxygenase	1.14.14.8	4-Hydroxyphenylacetate	3,4-Dihydroxyphenylacetate	white
+anthranilate 3-monooxygenase (FAD) / 4-hydroxyphenylacetate 3-monooxygenase	1.14.14.8	4-Hydroxyphenylacetate	H2O	white
+anthranilate 3-monooxygenase (FAD) / 4-hydroxyphenylacetate 3-monooxygenase	1.14.14.8	4-Hydroxyphenylacetate	NAD+	white
+anthranilate 3-monooxygenase (FAD) / 4-hydroxyphenylacetate 3-monooxygenase	1.14.14.8	H+	3,4-Dihydroxyphenylacetate	white
+anthranilate 3-monooxygenase (FAD) / 4-hydroxyphenylacetate 3-monooxygenase	1.14.14.8	H+	H2O	white
+anthranilate 3-monooxygenase (FAD) / 4-hydroxyphenylacetate 3-monooxygenase	1.14.14.8	H+	NAD+	white
+anthranilate 3-monooxygenase (FAD) / 4-hydroxyphenylacetate 3-monooxygenase	1.14.14.8	H2O	4-Hydroxyphenylacetate	white
+anthranilate 3-monooxygenase (FAD) / 4-hydroxyphenylacetate 3-monooxygenase	1.14.14.8	H2O	H+	white
+anthranilate 3-monooxygenase (FAD) / 4-hydroxyphenylacetate 3-monooxygenase	1.14.14.8	H2O	NADH	white
+anthranilate 3-monooxygenase (FAD) / 4-hydroxyphenylacetate 3-monooxygenase	1.14.14.8	H2O	Oxygen	white
+anthranilate 3-monooxygenase (FAD) / 4-hydroxyphenylacetate 3-monooxygenase	1.14.14.8	NAD+	4-Hydroxyphenylacetate	white
+anthranilate 3-monooxygenase (FAD) / 4-hydroxyphenylacetate 3-monooxygenase	1.14.14.8	NAD+	H+	white
+anthranilate 3-monooxygenase (FAD) / 4-hydroxyphenylacetate 3-monooxygenase	1.14.14.8	NAD+	NADH	white
+anthranilate 3-monooxygenase (FAD) / 4-hydroxyphenylacetate 3-monooxygenase	1.14.14.8	NAD+	Oxygen	white
+anthranilate 3-monooxygenase (FAD) / 4-hydroxyphenylacetate 3-monooxygenase	1.14.14.8	NADH	3,4-Dihydroxyphenylacetate	white
+anthranilate 3-monooxygenase (FAD) / 4-hydroxyphenylacetate 3-monooxygenase	1.14.14.8	NADH	H2O	white
+anthranilate 3-monooxygenase (FAD) / 4-hydroxyphenylacetate 3-monooxygenase	1.14.14.8	NADH	NAD+	white
+anthranilate 3-monooxygenase (FAD) / 4-hydroxyphenylacetate 3-monooxygenase	1.14.14.8	Oxygen	3,4-Dihydroxyphenylacetate	white
+anthranilate 3-monooxygenase (FAD) / 4-hydroxyphenylacetate 3-monooxygenase	1.14.14.8	Oxygen	H2O	white
+anthranilate 3-monooxygenase (FAD) / 4-hydroxyphenylacetate 3-monooxygenase	1.14.14.8	Oxygen	NAD+	white
+aralkylamine N-acetyltransferase	2.3.1.87	Acetyl-CoA	CoA	white
+aralkylamine N-acetyltransferase	2.3.1.87	Acetyl-CoA	N-Acetylserotonin	white
+aralkylamine N-acetyltransferase	2.3.1.87	CoA	Acetyl-CoA	white
+aralkylamine N-acetyltransferase	2.3.1.87	CoA	Serotonin	white
+aralkylamine N-acetyltransferase	2.3.1.87	N-Acetylserotonin	Acetyl-CoA	white
+aralkylamine N-acetyltransferase	2.3.1.87	N-Acetylserotonin	Serotonin	white
+aralkylamine N-acetyltransferase	2.3.1.87	Serotonin	CoA	white
+aralkylamine N-acetyltransferase	2.3.1.87	Serotonin	N-Acetylserotonin	white
+aromatic 2-oxoacid reductase	1.1.1.110	H+	NAD+	white
+aromatic 2-oxoacid reductase	1.1.1.110	H+	Phenyllactate	white
+aromatic 2-oxoacid reductase	1.1.1.110	NAD+	H+	white
+aromatic 2-oxoacid reductase	1.1.1.110	NAD+	NADH	white
+aromatic 2-oxoacid reductase	1.1.1.110	NAD+	Phenylpyruvate	white
+aromatic 2-oxoacid reductase	1.1.1.110	NADH	NAD+	white
+aromatic 2-oxoacid reductase	1.1.1.110	NADH	Phenyllactate	white
+aromatic 2-oxoacid reductase	1.1.1.110	Phenyllactate	H+	white
+aromatic 2-oxoacid reductase	1.1.1.110	Phenyllactate	NADH	white
+aromatic 2-oxoacid reductase	1.1.1.110	Phenyllactate	Phenylpyruvate	white
+aromatic 2-oxoacid reductase	1.1.1.110	Phenylpyruvate	NAD+	white
+aromatic 2-oxoacid reductase	1.1.1.110	Phenylpyruvate	Phenyllactate	white
+aromatic aldoxime N-monooxygenase	1.14.14.45	H+	H2O	white
+aromatic aldoxime N-monooxygenase	1.14.14.45	H+	NADP+	white
+aromatic aldoxime N-monooxygenase	1.14.14.45	H+	S-(Indolylmethylthiohydroximoyl)-L-cysteine	white
+aromatic aldoxime N-monooxygenase	1.14.14.45	H2O	H+	white
+aromatic aldoxime N-monooxygenase	1.14.14.45	H2O	Indole-3-acetaldehyde oxime	white
+aromatic aldoxime N-monooxygenase	1.14.14.45	H2O	L-Cysteine	white
+aromatic aldoxime N-monooxygenase	1.14.14.45	H2O	NADPH	white
+aromatic aldoxime N-monooxygenase	1.14.14.45	H2O	Oxygen	white
+aromatic aldoxime N-monooxygenase	1.14.14.45	Indole-3-acetaldehyde oxime	H2O	white
+aromatic aldoxime N-monooxygenase	1.14.14.45	Indole-3-acetaldehyde oxime	NADP+	white
+aromatic aldoxime N-monooxygenase	1.14.14.45	Indole-3-acetaldehyde oxime	S-(Indolylmethylthiohydroximoyl)-L-cysteine	white
+aromatic aldoxime N-monooxygenase	1.14.14.45	L-Cysteine	H2O	white
+aromatic aldoxime N-monooxygenase	1.14.14.45	L-Cysteine	NADP+	white
+aromatic aldoxime N-monooxygenase	1.14.14.45	L-Cysteine	S-(Indolylmethylthiohydroximoyl)-L-cysteine	white
+aromatic aldoxime N-monooxygenase	1.14.14.45	NADP+	H+	white
+aromatic aldoxime N-monooxygenase	1.14.14.45	NADP+	Indole-3-acetaldehyde oxime	white
+aromatic aldoxime N-monooxygenase	1.14.14.45	NADP+	L-Cysteine	white
+aromatic aldoxime N-monooxygenase	1.14.14.45	NADP+	NADPH	white
+aromatic aldoxime N-monooxygenase	1.14.14.45	NADP+	Oxygen	white
+aromatic aldoxime N-monooxygenase	1.14.14.45	NADPH	H2O	white
+aromatic aldoxime N-monooxygenase	1.14.14.45	NADPH	NADP+	white
+aromatic aldoxime N-monooxygenase	1.14.14.45	NADPH	S-(Indolylmethylthiohydroximoyl)-L-cysteine	white
+aromatic aldoxime N-monooxygenase	1.14.14.45	Oxygen	H2O	white
+aromatic aldoxime N-monooxygenase	1.14.14.45	Oxygen	NADP+	white
+aromatic aldoxime N-monooxygenase	1.14.14.45	Oxygen	S-(Indolylmethylthiohydroximoyl)-L-cysteine	white
+aromatic aldoxime N-monooxygenase	1.14.14.45	S-(Indolylmethylthiohydroximoyl)-L-cysteine	H+	white
+aromatic aldoxime N-monooxygenase	1.14.14.45	S-(Indolylmethylthiohydroximoyl)-L-cysteine	Indole-3-acetaldehyde oxime	white
+aromatic aldoxime N-monooxygenase	1.14.14.45	S-(Indolylmethylthiohydroximoyl)-L-cysteine	L-Cysteine	white
+aromatic aldoxime N-monooxygenase	1.14.14.45	S-(Indolylmethylthiohydroximoyl)-L-cysteine	NADPH	white
+aromatic aldoxime N-monooxygenase	1.14.14.45	S-(Indolylmethylthiohydroximoyl)-L-cysteine	Oxygen	white
+aromatic amino acid aminotransferase I / 2-aminoadipate transaminase	2.6.1.57	2-Oxoglutarate	L-Glutamate	white
+aromatic amino acid aminotransferase I / 2-aminoadipate transaminase	2.6.1.57	2-Oxoglutarate	Phenylpyruvate	white
+aromatic amino acid aminotransferase I / 2-aminoadipate transaminase	2.6.1.57	L-Glutamate	2-Oxoglutarate	white
+aromatic amino acid aminotransferase I / 2-aminoadipate transaminase	2.6.1.57	L-Glutamate	L-Phenylalanine	white
+aromatic amino acid aminotransferase I / 2-aminoadipate transaminase	2.6.1.57	L-Phenylalanine	L-Glutamate	white
+aromatic amino acid aminotransferase I / 2-aminoadipate transaminase	2.6.1.57	L-Phenylalanine	Phenylpyruvate	white
+aromatic amino acid aminotransferase I / 2-aminoadipate transaminase	2.6.1.57	Phenylpyruvate	2-Oxoglutarate	white
+aromatic amino acid aminotransferase I / 2-aminoadipate transaminase	2.6.1.57	Phenylpyruvate	L-Phenylalanine	white
+aromatic aminotransferase	2.6.1.-	4-Methylthio-2-oxobutanoic acid	Indolepyruvate	white
+aromatic aminotransferase	2.6.1.-	4-Methylthio-2-oxobutanoic acid	L-Methionine	white
+aromatic aminotransferase	2.6.1.-	Indolepyruvate	4-Methylthio-2-oxobutanoic acid	white
+aromatic aminotransferase	2.6.1.-	Indolepyruvate	L-Tryptophan	white
+aromatic aminotransferase	2.6.1.-	L-Methionine	4-Methylthio-2-oxobutanoic acid	white
+aromatic aminotransferase	2.6.1.-	L-Methionine	L-Tryptophan	white
+aromatic aminotransferase	2.6.1.-	L-Tryptophan	Indolepyruvate	white
+aromatic aminotransferase	2.6.1.-	L-Tryptophan	L-Methionine	white
+aromatic desulfoglucosinolate sulfotransferase	2.8.2.24	3'-Phosphoadenylyl sulfate	Adenosine 3',5'-bisphosphate	white
+aromatic desulfoglucosinolate sulfotransferase	2.8.2.24	3'-Phosphoadenylyl sulfate	Glucotropaeolin	white
+aromatic desulfoglucosinolate sulfotransferase	2.8.2.24	Adenosine 3',5'-bisphosphate	3'-Phosphoadenylyl sulfate	white
+aromatic desulfoglucosinolate sulfotransferase	2.8.2.24	Adenosine 3',5'-bisphosphate	Desulfoglucotropeolin	white
+aromatic desulfoglucosinolate sulfotransferase	2.8.2.24	Desulfoglucotropeolin	Adenosine 3',5'-bisphosphate	white
+aromatic desulfoglucosinolate sulfotransferase	2.8.2.24	Desulfoglucotropeolin	Glucotropaeolin	white
+aromatic desulfoglucosinolate sulfotransferase	2.8.2.24	Glucotropaeolin	3'-Phosphoadenylyl sulfate	white
+aromatic desulfoglucosinolate sulfotransferase	2.8.2.24	Glucotropaeolin	Desulfoglucotropeolin	white
+aromatic-L-amino-acid/L-tryptophan decarboxylase	4.1.1.28	CO2	L-Tryptophan	white
+aromatic-L-amino-acid/L-tryptophan decarboxylase	4.1.1.28	L-Tryptophan	CO2	white
+aromatic-L-amino-acid/L-tryptophan decarboxylase	4.1.1.28	L-Tryptophan	Tryptamine	white
+aromatic-L-amino-acid/L-tryptophan decarboxylase	4.1.1.28	Tryptamine	L-Tryptophan	white
+arylalkylamine N-acetyltransferase	2.3.1.87	Acetyl-CoA	CoA	white
+arylalkylamine N-acetyltransferase	2.3.1.87	Acetyl-CoA	N-Acetylserotonin	white
+arylalkylamine N-acetyltransferase	2.3.1.87	CoA	Acetyl-CoA	white
+arylalkylamine N-acetyltransferase	2.3.1.87	CoA	Serotonin	white
+arylalkylamine N-acetyltransferase	2.3.1.87	N-Acetylserotonin	Acetyl-CoA	white
+arylalkylamine N-acetyltransferase	2.3.1.87	N-Acetylserotonin	Serotonin	white
+arylalkylamine N-acetyltransferase	2.3.1.87	Serotonin	CoA	white
+arylalkylamine N-acetyltransferase	2.3.1.87	Serotonin	N-Acetylserotonin	white
+arylformamidase	3.5.1.9	Anthranilate	Formylanthranilate	white
+arylformamidase	3.5.1.9	Anthranilate	H2O	white
+arylformamidase	3.5.1.9	Formate	Formylanthranilate	white
+arylformamidase	3.5.1.9	Formate	H2O	white
+arylformamidase	3.5.1.9	Formylanthranilate	Anthranilate	white
+arylformamidase	3.5.1.9	Formylanthranilate	Formate	white
+arylformamidase	3.5.1.9	H2O	Anthranilate	white
+arylformamidase	3.5.1.9	H2O	Formate	white
+benzaldehyde dehydrogenase (NAD+) / indole-3-acetaldehyde oxidase	1.2.1.28	H2O	Hydrogen peroxide	white
+benzaldehyde dehydrogenase (NAD+) / indole-3-acetaldehyde oxidase	1.2.1.28	H2O	Indole-3-acetate	white
+benzaldehyde dehydrogenase (NAD+) / indole-3-acetaldehyde oxidase	1.2.1.28	Hydrogen peroxide	H2O	white
+benzaldehyde dehydrogenase (NAD+) / indole-3-acetaldehyde oxidase	1.2.1.28	Hydrogen peroxide	Indole-3-acetaldehyde	white
+benzaldehyde dehydrogenase (NAD+) / indole-3-acetaldehyde oxidase	1.2.1.28	Hydrogen peroxide	Oxygen	white
+benzaldehyde dehydrogenase (NAD+) / indole-3-acetaldehyde oxidase	1.2.1.28	Indole-3-acetaldehyde	Hydrogen peroxide	white
+benzaldehyde dehydrogenase (NAD+) / indole-3-acetaldehyde oxidase	1.2.1.28	Indole-3-acetaldehyde	Indole-3-acetate	white
+benzaldehyde dehydrogenase (NAD+) / indole-3-acetaldehyde oxidase	1.2.1.28	Indole-3-acetate	H2O	white
+benzaldehyde dehydrogenase (NAD+) / indole-3-acetaldehyde oxidase	1.2.1.28	Indole-3-acetate	Indole-3-acetaldehyde	white
+benzaldehyde dehydrogenase (NAD+) / indole-3-acetaldehyde oxidase	1.2.1.28	Indole-3-acetate	Oxygen	white
+benzaldehyde dehydrogenase (NAD+) / indole-3-acetaldehyde oxidase	1.2.1.28	Oxygen	Hydrogen peroxide	white
+benzaldehyde dehydrogenase (NAD+) / indole-3-acetaldehyde oxidase	1.2.1.28	Oxygen	Indole-3-acetate	white
+caffeic acid 3-O-methyltransferase / acetylserotonin O-methyltransferase	2.1.1.68	5-Hydroxyferulic acid	S-Adenosyl-L-homocysteine	white
+caffeic acid 3-O-methyltransferase / acetylserotonin O-methyltransferase	2.1.1.68	5-Hydroxyferulic acid	Sinapate	white
+caffeic acid 3-O-methyltransferase / acetylserotonin O-methyltransferase	2.1.1.68	S-Adenosyl-L-homocysteine	5-Hydroxyferulic acid	white
+caffeic acid 3-O-methyltransferase / acetylserotonin O-methyltransferase	2.1.1.68	S-Adenosyl-L-homocysteine	S-Adenosyl-L-methionine	white
+caffeic acid 3-O-methyltransferase / acetylserotonin O-methyltransferase	2.1.1.68	S-Adenosyl-L-methionine	S-Adenosyl-L-homocysteine	white
+caffeic acid 3-O-methyltransferase / acetylserotonin O-methyltransferase	2.1.1.68	S-Adenosyl-L-methionine	Sinapate	white
+caffeic acid 3-O-methyltransferase / acetylserotonin O-methyltransferase	2.1.1.68	Sinapate	5-Hydroxyferulic acid	white
+caffeic acid 3-O-methyltransferase / acetylserotonin O-methyltransferase	2.1.1.68	Sinapate	S-Adenosyl-L-methionine	white
+catalase	1.11.1.6	3-Hydroxyanthranilate	Cinnavalininate	green
+catalase	1.11.1.6	3-Hydroxyanthranilate	H+	green
+catalase	1.11.1.6	3-Hydroxyanthranilate	Hydrogen peroxide	green
+catalase	1.11.1.6	3-Hydroxyanthranilate	Superoxide	green
+catalase	1.11.1.6	Oxygen	Cinnavalininate	green
+catalase	1.11.1.6	Oxygen	H+	green
+catalase	1.11.1.6	Oxygen	Hydrogen peroxide	green
+catalase	1.11.1.6	Oxygen	Superoxide	green
+catalase-peroxidase	1.11.1.21	3-Hydroxyanthranilate	Cinnavalininate	green
+catalase-peroxidase	1.11.1.21	3-Hydroxyanthranilate	H+	green
+catalase-peroxidase	1.11.1.21	3-Hydroxyanthranilate	Hydrogen peroxide	green
+catalase-peroxidase	1.11.1.21	3-Hydroxyanthranilate	Superoxide	green
+catalase-peroxidase	1.11.1.21	Oxygen	Cinnavalininate	green
+catalase-peroxidase	1.11.1.21	Oxygen	H+	green
+catalase-peroxidase	1.11.1.21	Oxygen	Hydrogen peroxide	green
+catalase-peroxidase	1.11.1.21	Oxygen	Superoxide	green
+cytochrome P450 / NADPH-cytochrome P450 reductase	1.14.14.1	6-Hydroxymelatonin	Melatonin	white
+cytochrome P450 / NADPH-cytochrome P450 reductase	1.14.14.1	6-Hydroxymelatonin	Oxygen	white
+cytochrome P450 / NADPH-cytochrome P450 reductase	1.14.14.1	6-Hydroxymelatonin	[Reduced NADPH---hemoprotein reductase]	white
+cytochrome P450 / NADPH-cytochrome P450 reductase	1.14.14.1	H2O	Melatonin	white
+cytochrome P450 / NADPH-cytochrome P450 reductase	1.14.14.1	H2O	Oxygen	white
+cytochrome P450 / NADPH-cytochrome P450 reductase	1.14.14.1	H2O	[Reduced NADPH---hemoprotein reductase]	white
+cytochrome P450 / NADPH-cytochrome P450 reductase	1.14.14.1	Melatonin	6-Hydroxymelatonin	white
+cytochrome P450 / NADPH-cytochrome P450 reductase	1.14.14.1	Melatonin	H2O	white
+cytochrome P450 / NADPH-cytochrome P450 reductase	1.14.14.1	Melatonin	[Oxidized NADPH---hemoprotein reductase]	white
+cytochrome P450 / NADPH-cytochrome P450 reductase	1.14.14.1	Oxygen	6-Hydroxymelatonin	white
+cytochrome P450 / NADPH-cytochrome P450 reductase	1.14.14.1	Oxygen	H2O	white
+cytochrome P450 / NADPH-cytochrome P450 reductase	1.14.14.1	Oxygen	[Oxidized NADPH---hemoprotein reductase]	white
+cytochrome P450 / NADPH-cytochrome P450 reductase	1.14.14.1	[Oxidized NADPH---hemoprotein reductase]	Melatonin	white
+cytochrome P450 / NADPH-cytochrome P450 reductase	1.14.14.1	[Oxidized NADPH---hemoprotein reductase]	Oxygen	white
+cytochrome P450 / NADPH-cytochrome P450 reductase	1.14.14.1	[Oxidized NADPH---hemoprotein reductase]	[Reduced NADPH---hemoprotein reductase]	white
+cytochrome P450 / NADPH-cytochrome P450 reductase	1.14.14.1	[Reduced NADPH---hemoprotein reductase]	6-Hydroxymelatonin	white
+cytochrome P450 / NADPH-cytochrome P450 reductase	1.14.14.1	[Reduced NADPH---hemoprotein reductase]	H2O	white
+cytochrome P450 / NADPH-cytochrome P450 reductase	1.14.14.1	[Reduced NADPH---hemoprotein reductase]	[Oxidized NADPH---hemoprotein reductase]	white
+cytochrome P450 family 1 subfamily A1	1.14.14.1	2-Hydroxyestrone	Estrone	white
+cytochrome P450 family 1 subfamily A1	1.14.14.1	2-Hydroxyestrone	H+	white
+cytochrome P450 family 1 subfamily A1	1.14.14.1	2-Hydroxyestrone	NADH	white
+cytochrome P450 family 1 subfamily A1	1.14.14.1	2-Hydroxyestrone	Oxygen	white
+cytochrome P450 family 1 subfamily A1	1.14.14.1	Estrone	2-Hydroxyestrone	white
+cytochrome P450 family 1 subfamily A1	1.14.14.1	Estrone	H2O	white
+cytochrome P450 family 1 subfamily A1	1.14.14.1	Estrone	NAD+	white
+cytochrome P450 family 1 subfamily A1	1.14.14.1	H+	2-Hydroxyestrone	white
+cytochrome P450 family 1 subfamily A1	1.14.14.1	H+	H2O	white
+cytochrome P450 family 1 subfamily A1	1.14.14.1	H+	NAD+	white
+cytochrome P450 family 1 subfamily A1	1.14.14.1	H2O	Estrone	white
+cytochrome P450 family 1 subfamily A1	1.14.14.1	H2O	H+	white
+cytochrome P450 family 1 subfamily A1	1.14.14.1	H2O	NADH	white
+cytochrome P450 family 1 subfamily A1	1.14.14.1	H2O	Oxygen	white
+cytochrome P450 family 1 subfamily A1	1.14.14.1	NAD+	Estrone	white
+cytochrome P450 family 1 subfamily A1	1.14.14.1	NAD+	H+	white
+cytochrome P450 family 1 subfamily A1	1.14.14.1	NAD+	NADH	white
+cytochrome P450 family 1 subfamily A1	1.14.14.1	NAD+	Oxygen	white
+cytochrome P450 family 1 subfamily A1	1.14.14.1	NADH	2-Hydroxyestrone	white
+cytochrome P450 family 1 subfamily A1	1.14.14.1	NADH	H2O	white
+cytochrome P450 family 1 subfamily A1	1.14.14.1	NADH	NAD+	white
+cytochrome P450 family 1 subfamily A1	1.14.14.1	Oxygen	2-Hydroxyestrone	white
+cytochrome P450 family 1 subfamily A1	1.14.14.1	Oxygen	H2O	white
+cytochrome P450 family 1 subfamily A1	1.14.14.1	Oxygen	NAD+	white
+cytochrome P450 family 1 subfamily A2	1.14.14.1	16alpha-Hydroxydehydroepiandrosterone	Dehydroepiandrosterone	white
+cytochrome P450 family 1 subfamily A2	1.14.14.1	16alpha-Hydroxydehydroepiandrosterone	H+	white
+cytochrome P450 family 1 subfamily A2	1.14.14.1	16alpha-Hydroxydehydroepiandrosterone	NADPH	white
+cytochrome P450 family 1 subfamily A2	1.14.14.1	16alpha-Hydroxydehydroepiandrosterone	Oxygen	white
+cytochrome P450 family 1 subfamily A2	1.14.14.1	Dehydroepiandrosterone	16alpha-Hydroxydehydroepiandrosterone	white
+cytochrome P450 family 1 subfamily A2	1.14.14.1	Dehydroepiandrosterone	H2O	white
+cytochrome P450 family 1 subfamily A2	1.14.14.1	Dehydroepiandrosterone	NADP+	white
+cytochrome P450 family 1 subfamily A2	1.14.14.1	H+	16alpha-Hydroxydehydroepiandrosterone	white
+cytochrome P450 family 1 subfamily A2	1.14.14.1	H+	H2O	white
+cytochrome P450 family 1 subfamily A2	1.14.14.1	H+	NADP+	white
+cytochrome P450 family 1 subfamily A2	1.14.14.1	H2O	Dehydroepiandrosterone	white
+cytochrome P450 family 1 subfamily A2	1.14.14.1	H2O	H+	white
+cytochrome P450 family 1 subfamily A2	1.14.14.1	H2O	NADPH	white
+cytochrome P450 family 1 subfamily A2	1.14.14.1	H2O	Oxygen	white
+cytochrome P450 family 1 subfamily A2	1.14.14.1	NADP+	Dehydroepiandrosterone	white
+cytochrome P450 family 1 subfamily A2	1.14.14.1	NADP+	H+	white
+cytochrome P450 family 1 subfamily A2	1.14.14.1	NADP+	NADPH	white
+cytochrome P450 family 1 subfamily A2	1.14.14.1	NADP+	Oxygen	white
+cytochrome P450 family 1 subfamily A2	1.14.14.1	NADPH	16alpha-Hydroxydehydroepiandrosterone	white
+cytochrome P450 family 1 subfamily A2	1.14.14.1	NADPH	H2O	white
+cytochrome P450 family 1 subfamily A2	1.14.14.1	NADPH	NADP+	white
+cytochrome P450 family 1 subfamily A2	1.14.14.1	Oxygen	16alpha-Hydroxydehydroepiandrosterone	white
+cytochrome P450 family 1 subfamily A2	1.14.14.1	Oxygen	H2O	white
+cytochrome P450 family 1 subfamily A2	1.14.14.1	Oxygen	NADP+	white
+cytochrome P450 family 1 subfamily B1	1.14.14.1	2-Hydroxyestradiol	Estradiol-17beta	white
+cytochrome P450 family 1 subfamily B1	1.14.14.1	2-Hydroxyestradiol	H+	white
+cytochrome P450 family 1 subfamily B1	1.14.14.1	2-Hydroxyestradiol	NADH	white
+cytochrome P450 family 1 subfamily B1	1.14.14.1	2-Hydroxyestradiol	Oxygen	white
+cytochrome P450 family 1 subfamily B1	1.14.14.1	Estradiol-17beta	2-Hydroxyestradiol	white
+cytochrome P450 family 1 subfamily B1	1.14.14.1	Estradiol-17beta	H2O	white
+cytochrome P450 family 1 subfamily B1	1.14.14.1	Estradiol-17beta	NAD+	white
+cytochrome P450 family 1 subfamily B1	1.14.14.1	H+	2-Hydroxyestradiol	white
+cytochrome P450 family 1 subfamily B1	1.14.14.1	H+	H2O	white
+cytochrome P450 family 1 subfamily B1	1.14.14.1	H+	NAD+	white
+cytochrome P450 family 1 subfamily B1	1.14.14.1	H2O	Estradiol-17beta	white
+cytochrome P450 family 1 subfamily B1	1.14.14.1	H2O	H+	white
+cytochrome P450 family 1 subfamily B1	1.14.14.1	H2O	NADH	white
+cytochrome P450 family 1 subfamily B1	1.14.14.1	H2O	Oxygen	white
+cytochrome P450 family 1 subfamily B1	1.14.14.1	NAD+	Estradiol-17beta	white
+cytochrome P450 family 1 subfamily B1	1.14.14.1	NAD+	H+	white
+cytochrome P450 family 1 subfamily B1	1.14.14.1	NAD+	NADH	white
+cytochrome P450 family 1 subfamily B1	1.14.14.1	NAD+	Oxygen	white
+cytochrome P450 family 1 subfamily B1	1.14.14.1	NADH	2-Hydroxyestradiol	white
+cytochrome P450 family 1 subfamily B1	1.14.14.1	NADH	H2O	white
+cytochrome P450 family 1 subfamily B1	1.14.14.1	NADH	NAD+	white
+cytochrome P450 family 1 subfamily B1	1.14.14.1	Oxygen	2-Hydroxyestradiol	white
+cytochrome P450 family 1 subfamily B1	1.14.14.1	Oxygen	H2O	white
+cytochrome P450 family 1 subfamily B1	1.14.14.1	Oxygen	NAD+	white
+diamine oxidase	1.4.3.22	4-Aminobutyraldehyde	H2O	white
+diamine oxidase	1.4.3.22	4-Aminobutyraldehyde	Oxygen	white
+diamine oxidase	1.4.3.22	4-Aminobutyraldehyde	Putrescine	white
+diamine oxidase	1.4.3.22	Ammonia	H2O	white
+diamine oxidase	1.4.3.22	Ammonia	Oxygen	white
+diamine oxidase	1.4.3.22	Ammonia	Putrescine	white
+diamine oxidase	1.4.3.22	H2O	4-Aminobutyraldehyde	white
+diamine oxidase	1.4.3.22	H2O	Ammonia	white
+diamine oxidase	1.4.3.22	H2O	Hydrogen peroxide	white
+diamine oxidase	1.4.3.22	Hydrogen peroxide	H2O	white
+diamine oxidase	1.4.3.22	Hydrogen peroxide	Oxygen	white
+diamine oxidase	1.4.3.22	Hydrogen peroxide	Putrescine	white
+diamine oxidase	1.4.3.22	Oxygen	4-Aminobutyraldehyde	white
+diamine oxidase	1.4.3.22	Oxygen	Ammonia	white
+diamine oxidase	1.4.3.22	Oxygen	Hydrogen peroxide	white
+diamine oxidase	1.4.3.22	Putrescine	4-Aminobutyraldehyde	white
+diamine oxidase	1.4.3.22	Putrescine	Ammonia	white
+diamine oxidase	1.4.3.22	Putrescine	Hydrogen peroxide	white
+didemethylasterriquinone D synthase	6.4.1.12	AMP	ATP	white
+didemethylasterriquinone D synthase	6.4.1.12	AMP	Indolepyruvate	white
+didemethylasterriquinone D synthase	6.4.1.12	ATP	AMP	white
+didemethylasterriquinone D synthase	6.4.1.12	ATP	Didemethylasterriquinone D	white
+didemethylasterriquinone D synthase	6.4.1.12	ATP	Diphosphate	white
+didemethylasterriquinone D synthase	6.4.1.12	Didemethylasterriquinone D	ATP	white
+didemethylasterriquinone D synthase	6.4.1.12	Didemethylasterriquinone D	Indolepyruvate	white
+didemethylasterriquinone D synthase	6.4.1.12	Diphosphate	ATP	white
+didemethylasterriquinone D synthase	6.4.1.12	Diphosphate	Indolepyruvate	white
+didemethylasterriquinone D synthase	6.4.1.12	Indolepyruvate	AMP	white
+didemethylasterriquinone D synthase	6.4.1.12	Indolepyruvate	Didemethylasterriquinone D	white
+didemethylasterriquinone D synthase	6.4.1.12	Indolepyruvate	Diphosphate	white
+dihydrolipoyl dehydrogenase	1.8.1.4	2-Oxoadipate	CO2	green
+dihydrolipoyl dehydrogenase	1.8.1.4	2-Oxoadipate	Glutaryl-CoA	green
+dihydrolipoyl dehydrogenase	1.8.1.4	2-Oxoadipate	H+	green
+dihydrolipoyl dehydrogenase	1.8.1.4	2-Oxoadipate	NADH	green
+dihydrolipoyl dehydrogenase	1.8.1.4	CoA	CO2	green
+dihydrolipoyl dehydrogenase	1.8.1.4	CoA	Glutaryl-CoA	green
+dihydrolipoyl dehydrogenase	1.8.1.4	CoA	H+	green
+dihydrolipoyl dehydrogenase	1.8.1.4	CoA	NADH	green
+dihydrolipoyl dehydrogenase	1.8.1.4	NAD+	CO2	green
+dihydrolipoyl dehydrogenase	1.8.1.4	NAD+	Glutaryl-CoA	green
+dihydrolipoyl dehydrogenase	1.8.1.4	NAD+	H+	green
+dihydrolipoyl dehydrogenase	1.8.1.4	NAD+	NADH	green
+enoyl-CoA hydratase	4.2.1.17	(S)-3-Hydroxybutanoyl-CoA	Crotonoyl-CoA	green
+enoyl-CoA hydratase	4.2.1.17	(S)-3-Hydroxybutanoyl-CoA	H2O	green
+glutaryl-CoA dehydrogenase	1.3.8.6	Electron-transferring flavoprotein	CO2	green
+glutaryl-CoA dehydrogenase	1.3.8.6	Electron-transferring flavoprotein	Crotonoyl-CoA	green
+glutaryl-CoA dehydrogenase	1.3.8.6	Electron-transferring flavoprotein	Reduced electron-transferring flavoprotein	green
+glutaryl-CoA dehydrogenase	1.3.8.6	Glutaryl-CoA	CO2	green
+glutaryl-CoA dehydrogenase	1.3.8.6	Glutaryl-CoA	Crotonoyl-CoA	green
+glutaryl-CoA dehydrogenase	1.3.8.6	Glutaryl-CoA	Reduced electron-transferring flavoprotein	green
+grixazone synthase / o-aminophenol oxidase	1.10.3.15	2-Aminophenol	2-Aminophenoxazin-3-one	white
+grixazone synthase / o-aminophenol oxidase	1.10.3.15	2-Aminophenol	H2O	white
+grixazone synthase / o-aminophenol oxidase	1.10.3.15	2-Aminophenoxazin-3-one	2-Aminophenol	white
+grixazone synthase / o-aminophenol oxidase	1.10.3.15	2-Aminophenoxazin-3-one	Oxygen	white
+grixazone synthase / o-aminophenol oxidase	1.10.3.15	H2O	2-Aminophenol	white
+grixazone synthase / o-aminophenol oxidase	1.10.3.15	H2O	Oxygen	white
+grixazone synthase / o-aminophenol oxidase	1.10.3.15	Oxygen	2-Aminophenoxazin-3-one	white
+grixazone synthase / o-aminophenol oxidase	1.10.3.15	Oxygen	H2O	white
+indole-3-acetaldehyde oxidase	1.2.3.7	H2O	Hydrogen peroxide	white
+indole-3-acetaldehyde oxidase	1.2.3.7	H2O	Indole-3-acetate	white
+indole-3-acetaldehyde oxidase	1.2.3.7	Hydrogen peroxide	H2O	white
+indole-3-acetaldehyde oxidase	1.2.3.7	Hydrogen peroxide	Indole-3-acetaldehyde	white
+indole-3-acetaldehyde oxidase	1.2.3.7	Hydrogen peroxide	Oxygen	white
+indole-3-acetaldehyde oxidase	1.2.3.7	Indole-3-acetaldehyde	Hydrogen peroxide	white
+indole-3-acetaldehyde oxidase	1.2.3.7	Indole-3-acetaldehyde	Indole-3-acetate	white
+indole-3-acetaldehyde oxidase	1.2.3.7	Indole-3-acetate	H2O	white
+indole-3-acetaldehyde oxidase	1.2.3.7	Indole-3-acetate	Indole-3-acetaldehyde	white
+indole-3-acetaldehyde oxidase	1.2.3.7	Indole-3-acetate	Oxygen	white
+indole-3-acetaldehyde oxidase	1.2.3.7	Oxygen	Hydrogen peroxide	white
+indole-3-acetaldehyde oxidase	1.2.3.7	Oxygen	Indole-3-acetate	white
+indole-3-pyruvate monooxygenase	1.14.13.168	CO2	H+	white
+indole-3-pyruvate monooxygenase	1.14.13.168	CO2	Indolepyruvate	white
+indole-3-pyruvate monooxygenase	1.14.13.168	CO2	NADPH	white
+indole-3-pyruvate monooxygenase	1.14.13.168	CO2	Oxygen	white
+indole-3-pyruvate monooxygenase	1.14.13.168	H+	CO2	white
+indole-3-pyruvate monooxygenase	1.14.13.168	H+	H2O	white
+indole-3-pyruvate monooxygenase	1.14.13.168	H+	Indole-3-acetate	white
+indole-3-pyruvate monooxygenase	1.14.13.168	H+	NADP+	white
+indole-3-pyruvate monooxygenase	1.14.13.168	H2O	H+	white
+indole-3-pyruvate monooxygenase	1.14.13.168	H2O	Indolepyruvate	white
+indole-3-pyruvate monooxygenase	1.14.13.168	H2O	NADPH	white
+indole-3-pyruvate monooxygenase	1.14.13.168	H2O	Oxygen	white
+indole-3-pyruvate monooxygenase	1.14.13.168	Indole-3-acetate	H+	white
+indole-3-pyruvate monooxygenase	1.14.13.168	Indole-3-acetate	Indolepyruvate	white
+indole-3-pyruvate monooxygenase	1.14.13.168	Indole-3-acetate	NADPH	white
+indole-3-pyruvate monooxygenase	1.14.13.168	Indole-3-acetate	Oxygen	white
+indole-3-pyruvate monooxygenase	1.14.13.168	Indolepyruvate	CO2	white
+indole-3-pyruvate monooxygenase	1.14.13.168	Indolepyruvate	H2O	white
+indole-3-pyruvate monooxygenase	1.14.13.168	Indolepyruvate	Indole-3-acetate	white
+indole-3-pyruvate monooxygenase	1.14.13.168	Indolepyruvate	NADP+	white
+indole-3-pyruvate monooxygenase	1.14.13.168	NADP+	H+	white
+indole-3-pyruvate monooxygenase	1.14.13.168	NADP+	Indolepyruvate	white
+indole-3-pyruvate monooxygenase	1.14.13.168	NADP+	NADPH	white
+indole-3-pyruvate monooxygenase	1.14.13.168	NADP+	Oxygen	white
+indole-3-pyruvate monooxygenase	1.14.13.168	NADPH	CO2	white
+indole-3-pyruvate monooxygenase	1.14.13.168	NADPH	H2O	white
+indole-3-pyruvate monooxygenase	1.14.13.168	NADPH	Indole-3-acetate	white
+indole-3-pyruvate monooxygenase	1.14.13.168	NADPH	NADP+	white
+indole-3-pyruvate monooxygenase	1.14.13.168	Oxygen	CO2	white
+indole-3-pyruvate monooxygenase	1.14.13.168	Oxygen	H2O	white
+indole-3-pyruvate monooxygenase	1.14.13.168	Oxygen	Indole-3-acetate	white
+indole-3-pyruvate monooxygenase	1.14.13.168	Oxygen	NADP+	white
+indoleacetaldoxime dehydratase	4.8.1.3	3-Indoleacetonitrile	Indole-3-acetaldehyde oxime	white
+indoleacetaldoxime dehydratase	4.8.1.3	H2O	Indole-3-acetaldehyde oxime	white
+indoleacetaldoxime dehydratase	4.8.1.3	Indole-3-acetaldehyde oxime	3-Indoleacetonitrile	white
+indoleacetaldoxime dehydratase	4.8.1.3	Indole-3-acetaldehyde oxime	H2O	white
+indoleacetamide hydrolase	3.5.1.-	(Indol-3-yl)acetamide	Ammonia	white
+indoleacetamide hydrolase	3.5.1.-	(Indol-3-yl)acetamide	Indole-3-acetate	white
+indoleacetamide hydrolase	3.5.1.-	Ammonia	(Indol-3-yl)acetamide	white
+indoleacetamide hydrolase	3.5.1.-	Ammonia	H2O	white
+indoleacetamide hydrolase	3.5.1.-	H2O	Ammonia	white
+indoleacetamide hydrolase	3.5.1.-	H2O	Indole-3-acetate	white
+indoleacetamide hydrolase	3.5.1.-	Indole-3-acetate	(Indol-3-yl)acetamide	white
+indoleacetamide hydrolase	3.5.1.-	Indole-3-acetate	H2O	white
+indoleacetate decarboxylase	4.1.1.115	CO2	Indole-3-acetate	white
+indoleacetate decarboxylase	4.1.1.115	Indole-3-acetate	CO2	white
+indoleacetate decarboxylase	4.1.1.115	Indole-3-acetate	Skatole	white
+indoleacetate decarboxylase	4.1.1.115	Skatole	Indole-3-acetate	white
+indoleamine 2,3-dioxygenase	1.13.11.52	L-Formylkynurenine	L-Tryptophan	white
+indoleamine 2,3-dioxygenase	1.13.11.52	L-Formylkynurenine	Oxygen	white
+indoleamine 2,3-dioxygenase	1.13.11.52	L-Tryptophan	L-Formylkynurenine	white
+indoleamine 2,3-dioxygenase	1.13.11.52	Oxygen	L-Formylkynurenine	white
+indolepyruvate decarboxylase	4.1.1.74	CO2	Indolepyruvate	white
+indolepyruvate decarboxylase	4.1.1.74	Indole-3-acetaldehyde	Indolepyruvate	white
+indolepyruvate decarboxylase	4.1.1.74	Indolepyruvate	CO2	white
+indolepyruvate decarboxylase	4.1.1.74	Indolepyruvate	Indole-3-acetaldehyde	white
+kynureninase	3.7.1.3	3-Hydroxy-L-kynurenine	3-Hydroxyanthranilate	green
+kynureninase	3.7.1.3	3-Hydroxy-L-kynurenine	L-Alanine	green
+kynureninase	3.7.1.3	H2O	3-Hydroxyanthranilate	green
+kynureninase	3.7.1.3	H2O	Anthranilate	green
+kynureninase	3.7.1.3	H2O	Formylanthranilate	green
+kynureninase	3.7.1.3	H2O	L-Alanine	green
+kynureninase	3.7.1.3	L-Formylkynurenine	Formylanthranilate	green
+kynureninase	3.7.1.3	L-Formylkynurenine	L-Alanine	green
+kynureninase	3.7.1.3	L-Kynurenine	Anthranilate	green
+kynureninase	3.7.1.3	L-Kynurenine	L-Alanine	green
+kynurenine 3-monooxygenase	1.14.13.9	3-Hydroxy-L-kynurenine	H+	white
+kynurenine 3-monooxygenase	1.14.13.9	3-Hydroxy-L-kynurenine	L-Kynurenine	white
+kynurenine 3-monooxygenase	1.14.13.9	3-Hydroxy-L-kynurenine	NADPH	white
+kynurenine 3-monooxygenase	1.14.13.9	3-Hydroxy-L-kynurenine	Oxygen	white
+kynurenine 3-monooxygenase	1.14.13.9	H+	3-Hydroxy-L-kynurenine	white
+kynurenine 3-monooxygenase	1.14.13.9	H+	H2O	white
+kynurenine 3-monooxygenase	1.14.13.9	H+	NADP+	white
+kynurenine 3-monooxygenase	1.14.13.9	H2O	H+	white
+kynurenine 3-monooxygenase	1.14.13.9	H2O	L-Kynurenine	white
+kynurenine 3-monooxygenase	1.14.13.9	H2O	NADPH	white
+kynurenine 3-monooxygenase	1.14.13.9	H2O	Oxygen	white
+kynurenine 3-monooxygenase	1.14.13.9	L-Kynurenine	3-Hydroxy-L-kynurenine	white
+kynurenine 3-monooxygenase	1.14.13.9	L-Kynurenine	H2O	white
+kynurenine 3-monooxygenase	1.14.13.9	L-Kynurenine	NADP+	white
+kynurenine 3-monooxygenase	1.14.13.9	NADP+	H+	white
+kynurenine 3-monooxygenase	1.14.13.9	NADP+	L-Kynurenine	white
+kynurenine 3-monooxygenase	1.14.13.9	NADP+	NADPH	white
+kynurenine 3-monooxygenase	1.14.13.9	NADP+	Oxygen	white
+kynurenine 3-monooxygenase	1.14.13.9	NADPH	3-Hydroxy-L-kynurenine	white
+kynurenine 3-monooxygenase	1.14.13.9	NADPH	H2O	white
+kynurenine 3-monooxygenase	1.14.13.9	NADPH	NADP+	white
+kynurenine 3-monooxygenase	1.14.13.9	Oxygen	3-Hydroxy-L-kynurenine	white
+kynurenine 3-monooxygenase	1.14.13.9	Oxygen	H2O	white
+kynurenine 3-monooxygenase	1.14.13.9	Oxygen	NADP+	white
+kynurenine aminotransferase	2.6.1.7	2-Oxoglutarate	4-(2-Aminophenyl)-2,4-dioxobutanoate	white
+kynurenine aminotransferase	2.6.1.7	2-Oxoglutarate	L-Glutamate	white
+kynurenine aminotransferase	2.6.1.7	4-(2-Aminophenyl)-2,4-dioxobutanoate	2-Oxoglutarate	white
+kynurenine aminotransferase	2.6.1.7	4-(2-Aminophenyl)-2,4-dioxobutanoate	L-Kynurenine	white
+kynurenine aminotransferase	2.6.1.7	L-Glutamate	2-Oxoglutarate	white
+kynurenine aminotransferase	2.6.1.7	L-Glutamate	L-Kynurenine	white
+kynurenine aminotransferase	2.6.1.7	L-Kynurenine	4-(2-Aminophenyl)-2,4-dioxobutanoate	white
+kynurenine aminotransferase	2.6.1.7	L-Kynurenine	L-Glutamate	white
+kynurenine formamidase	3.5.1.9	Anthranilate	Formylanthranilate	white
+kynurenine formamidase	3.5.1.9	Anthranilate	H2O	white
+kynurenine formamidase	3.5.1.9	Formate	Formylanthranilate	white
+kynurenine formamidase	3.5.1.9	Formate	H2O	white
+kynurenine formamidase	3.5.1.9	Formylanthranilate	Anthranilate	white
+kynurenine formamidase	3.5.1.9	Formylanthranilate	Formate	white
+kynurenine formamidase	3.5.1.9	H2O	Anthranilate	white
+kynurenine formamidase	3.5.1.9	H2O	Formate	white
+kynurenine---oxoglutarate transaminase / cysteine-S-conjugate beta-lyase / glutamine---phenylpyruvate transaminase	2.6.1.7	Ammonia	H2O	white
+kynurenine---oxoglutarate transaminase / cysteine-S-conjugate beta-lyase / glutamine---phenylpyruvate transaminase	2.6.1.7	Ammonia	L-Cysteine	white
+kynurenine---oxoglutarate transaminase / cysteine-S-conjugate beta-lyase / glutamine---phenylpyruvate transaminase	2.6.1.7	H2O	Ammonia	white
+kynurenine---oxoglutarate transaminase / cysteine-S-conjugate beta-lyase / glutamine---phenylpyruvate transaminase	2.6.1.7	H2O	Hydrogen sulfide	white
+kynurenine---oxoglutarate transaminase / cysteine-S-conjugate beta-lyase / glutamine---phenylpyruvate transaminase	2.6.1.7	H2O	Pyruvate	white
+kynurenine---oxoglutarate transaminase / cysteine-S-conjugate beta-lyase / glutamine---phenylpyruvate transaminase	2.6.1.7	Hydrogen sulfide	H2O	white
+kynurenine---oxoglutarate transaminase / cysteine-S-conjugate beta-lyase / glutamine---phenylpyruvate transaminase	2.6.1.7	Hydrogen sulfide	L-Cysteine	white
+kynurenine---oxoglutarate transaminase / cysteine-S-conjugate beta-lyase / glutamine---phenylpyruvate transaminase	2.6.1.7	L-Cysteine	Ammonia	white
+kynurenine---oxoglutarate transaminase / cysteine-S-conjugate beta-lyase / glutamine---phenylpyruvate transaminase	2.6.1.7	L-Cysteine	Hydrogen sulfide	white
+kynurenine---oxoglutarate transaminase / cysteine-S-conjugate beta-lyase / glutamine---phenylpyruvate transaminase	2.6.1.7	L-Cysteine	Pyruvate	white
+kynurenine---oxoglutarate transaminase / cysteine-S-conjugate beta-lyase / glutamine---phenylpyruvate transaminase	2.6.1.7	Pyruvate	H2O	white
+kynurenine---oxoglutarate transaminase / cysteine-S-conjugate beta-lyase / glutamine---phenylpyruvate transaminase	2.6.1.7	Pyruvate	L-Cysteine	white
+kynurenine/2-aminoadipate aminotransferase	2.6.1.7	2-Oxoadipate	2-Oxoglutarate	white
+kynurenine/2-aminoadipate aminotransferase	2.6.1.7	2-Oxoadipate	L-2-Aminoadipate	white
+kynurenine/2-aminoadipate aminotransferase	2.6.1.7	2-Oxoglutarate	2-Oxoadipate	white
+kynurenine/2-aminoadipate aminotransferase	2.6.1.7	2-Oxoglutarate	L-Glutamate	white
+kynurenine/2-aminoadipate aminotransferase	2.6.1.7	L-2-Aminoadipate	2-Oxoadipate	white
+kynurenine/2-aminoadipate aminotransferase	2.6.1.7	L-2-Aminoadipate	L-Glutamate	white
+kynurenine/2-aminoadipate aminotransferase	2.6.1.7	L-Glutamate	2-Oxoglutarate	white
+kynurenine/2-aminoadipate aminotransferase	2.6.1.7	L-Glutamate	L-2-Aminoadipate	white
+methyltransferase	2.1.1.49	N-Methyltryptamine	S-Adenosyl-L-methionine	white
+methyltransferase	2.1.1.49	N-Methyltryptamine	Tryptamine	white
+methyltransferase	2.1.1.49	S-Adenosyl-L-homocysteine	S-Adenosyl-L-methionine	white
+methyltransferase	2.1.1.49	S-Adenosyl-L-homocysteine	Tryptamine	white
+methyltransferase	2.1.1.49	S-Adenosyl-L-methionine	N-Methyltryptamine	white
+methyltransferase	2.1.1.49	S-Adenosyl-L-methionine	S-Adenosyl-L-homocysteine	white
+methyltransferase	2.1.1.49	Tryptamine	N-Methyltryptamine	white
+methyltransferase	2.1.1.49	Tryptamine	S-Adenosyl-L-homocysteine	white
+monoamine oxidase	1.4.3.4	3-Hydroxykynurenamine	4,8-Dihydroxyquinoline	green
+monoamine oxidase	1.4.3.4	3-Hydroxykynurenamine	Ammonia	green
+monoamine oxidase	1.4.3.4	3-Hydroxykynurenamine	Hydrogen peroxide	green
+monoamine oxidase	1.4.3.4	5-Hydroxykynurenamine	4,6-Dihydroxyquinoline	green
+monoamine oxidase	1.4.3.4	5-Hydroxykynurenamine	Ammonia	green
+monoamine oxidase	1.4.3.4	5-Hydroxykynurenamine	H2O	green
+monoamine oxidase	1.4.3.4	5-Hydroxykynurenamine	Hydrogen peroxide	green
+monoamine oxidase	1.4.3.4	H2O	4,6-Dihydroxyquinoline	green
+monoamine oxidase	1.4.3.4	H2O	5-Hydroxyindoleacetaldehyde	green
+monoamine oxidase	1.4.3.4	H2O	Ammonia	green
+monoamine oxidase	1.4.3.4	H2O	H2O	green
+monoamine oxidase	1.4.3.4	H2O	Hydrogen peroxide	green
+monoamine oxidase	1.4.3.4	H2O	Indole-3-acetaldehyde	green
+monoamine oxidase	1.4.3.4	Oxygen	4,6-Dihydroxyquinoline	green
+monoamine oxidase	1.4.3.4	Oxygen	4,8-Dihydroxyquinoline	green
+monoamine oxidase	1.4.3.4	Oxygen	5-Hydroxyindoleacetaldehyde	green
+monoamine oxidase	1.4.3.4	Oxygen	Ammonia	green
+monoamine oxidase	1.4.3.4	Oxygen	H2O	green
+monoamine oxidase	1.4.3.4	Oxygen	Hydrogen peroxide	green
+monoamine oxidase	1.4.3.4	Oxygen	Indole-3-acetaldehyde	green
+monoamine oxidase	1.4.3.4	Serotonin	5-Hydroxyindoleacetaldehyde	green
+monoamine oxidase	1.4.3.4	Serotonin	Ammonia	green
+monoamine oxidase	1.4.3.4	Serotonin	Hydrogen peroxide	green
+monoamine oxidase	1.4.3.4	Tryptamine	Ammonia	green
+monoamine oxidase	1.4.3.4	Tryptamine	Hydrogen peroxide	green
+monoamine oxidase	1.4.3.4	Tryptamine	Indole-3-acetaldehyde	green
+myrosinase	3.2.1.147	3-Indoleacetonitrile	Glucobrassicin	white
+myrosinase	3.2.1.147	3-Indoleacetonitrile	H2O	white
+myrosinase	3.2.1.147	D-Glucose	Glucobrassicin	white
+myrosinase	3.2.1.147	D-Glucose	H2O	white
+myrosinase	3.2.1.147	Glucobrassicin	3-Indoleacetonitrile	white
+myrosinase	3.2.1.147	Glucobrassicin	D-Glucose	white
+myrosinase	3.2.1.147	Glucobrassicin	Sulfate	white
+myrosinase	3.2.1.147	Glucobrassicin	Sulfur	white
+myrosinase	3.2.1.147	H2O	3-Indoleacetonitrile	white
+myrosinase	3.2.1.147	H2O	D-Glucose	white
+myrosinase	3.2.1.147	H2O	Sulfate	white
+myrosinase	3.2.1.147	H2O	Sulfur	white
+myrosinase	3.2.1.147	Sulfate	Glucobrassicin	white
+myrosinase	3.2.1.147	Sulfate	H2O	white
+myrosinase	3.2.1.147	Sulfur	Glucobrassicin	white
+myrosinase	3.2.1.147	Sulfur	H2O	white
+nitrilase	3.5.5.1	3-Indoleacetonitrile	Ammonia	green
+nitrilase	3.5.5.1	3-Indoleacetonitrile	Indole-3-acetate	green
+nitrilase	3.5.5.1	H2O	Ammonia	green
+nitrilase	3.5.5.1	H2O	Indole-3-acetate	green
+nitrile hydratase subunit alpha	4.2.1.84	(Indol-3-yl)acetamide	3-Indoleacetonitrile	green
+nitrile hydratase subunit alpha	4.2.1.84	(Indol-3-yl)acetamide	H2O	green
+nitrile hydratase subunit beta	4.2.1.84	(Indol-3-yl)acetamide	3-Indoleacetonitrile	green
+nitrile hydratase subunit beta	4.2.1.84	(Indol-3-yl)acetamide	H2O	green
+o-aminophenol oxidase	1.10.3.4	2-Aminophenol	2-Aminophenoxazin-3-one	white
+o-aminophenol oxidase	1.10.3.4	2-Aminophenol	H2O	white
+o-aminophenol oxidase	1.10.3.4	2-Aminophenoxazin-3-one	2-Aminophenol	white
+o-aminophenol oxidase	1.10.3.4	2-Aminophenoxazin-3-one	Oxygen	white
+o-aminophenol oxidase	1.10.3.4	H2O	2-Aminophenol	white
+o-aminophenol oxidase	1.10.3.4	H2O	Oxygen	white
+o-aminophenol oxidase	1.10.3.4	Oxygen	2-Aminophenoxazin-3-one	white
+o-aminophenol oxidase	1.10.3.4	Oxygen	H2O	white
+tryptamine 5-hydroxylase	1.14.14.186	H2O	Oxygen	white
+tryptamine 5-hydroxylase	1.14.14.186	H2O	Tryptamine	white
+tryptamine 5-hydroxylase	1.14.14.186	H2O	[Reduced NADPH---hemoprotein reductase]	white
+tryptamine 5-hydroxylase	1.14.14.186	Oxygen	H2O	white
+tryptamine 5-hydroxylase	1.14.14.186	Oxygen	Serotonin	white
+tryptamine 5-hydroxylase	1.14.14.186	Oxygen	[Oxidized NADPH---hemoprotein reductase]	white
+tryptamine 5-hydroxylase	1.14.14.186	Serotonin	Oxygen	white
+tryptamine 5-hydroxylase	1.14.14.186	Serotonin	Tryptamine	white
+tryptamine 5-hydroxylase	1.14.14.186	Serotonin	[Reduced NADPH---hemoprotein reductase]	white
+tryptamine 5-hydroxylase	1.14.14.186	Tryptamine	H2O	white
+tryptamine 5-hydroxylase	1.14.14.186	Tryptamine	Serotonin	white
+tryptamine 5-hydroxylase	1.14.14.186	Tryptamine	[Oxidized NADPH---hemoprotein reductase]	white
+tryptamine 5-hydroxylase	1.14.14.186	[Oxidized NADPH---hemoprotein reductase]	Oxygen	white
+tryptamine 5-hydroxylase	1.14.14.186	[Oxidized NADPH---hemoprotein reductase]	Tryptamine	white
+tryptamine 5-hydroxylase	1.14.14.186	[Oxidized NADPH---hemoprotein reductase]	[Reduced NADPH---hemoprotein reductase]	white
+tryptamine 5-hydroxylase	1.14.14.186	[Reduced NADPH---hemoprotein reductase]	H2O	white
+tryptamine 5-hydroxylase	1.14.14.186	[Reduced NADPH---hemoprotein reductase]	Serotonin	white
+tryptamine 5-hydroxylase	1.14.14.186	[Reduced NADPH---hemoprotein reductase]	[Oxidized NADPH---hemoprotein reductase]	white
+tryptophan 2,3-dioxygenase	1.13.11.11	L-Tryptophan	L-Formylkynurenine	green
+tryptophan 2,3-dioxygenase	1.13.11.11	Oxygen	L-Formylkynurenine	green
+tryptophan 2-monooxygenase	1.13.12.3	(Indol-3-yl)acetamide	L-Tryptophan	white
+tryptophan 2-monooxygenase	1.13.12.3	(Indol-3-yl)acetamide	Oxygen	white
+tryptophan 2-monooxygenase	1.13.12.3	CO2	L-Tryptophan	white
+tryptophan 2-monooxygenase	1.13.12.3	CO2	Oxygen	white
+tryptophan 2-monooxygenase	1.13.12.3	H2O	L-Tryptophan	white
+tryptophan 2-monooxygenase	1.13.12.3	H2O	Oxygen	white
+tryptophan 2-monooxygenase	1.13.12.3	L-Tryptophan	(Indol-3-yl)acetamide	white
+tryptophan 2-monooxygenase	1.13.12.3	L-Tryptophan	CO2	white
+tryptophan 2-monooxygenase	1.13.12.3	L-Tryptophan	H2O	white
+tryptophan 2-monooxygenase	1.13.12.3	Oxygen	(Indol-3-yl)acetamide	white
+tryptophan 2-monooxygenase	1.13.12.3	Oxygen	CO2	white
+tryptophan 2-monooxygenase	1.13.12.3	Oxygen	H2O	white
+tryptophan 5-monooxygenase	1.14.16.4	5-Hydroxy-L-tryptophan	L-Tryptophan	white
+tryptophan 5-monooxygenase	1.14.16.4	5-Hydroxy-L-tryptophan	Oxygen	white
+tryptophan 5-monooxygenase	1.14.16.4	5-Hydroxy-L-tryptophan	Tetrahydrobiopterin	white
+tryptophan 5-monooxygenase	1.14.16.4	Dihydrobiopterin	L-Tryptophan	white
+tryptophan 5-monooxygenase	1.14.16.4	Dihydrobiopterin	Oxygen	white
+tryptophan 5-monooxygenase	1.14.16.4	Dihydrobiopterin	Tetrahydrobiopterin	white
+tryptophan 5-monooxygenase	1.14.16.4	H2O	L-Tryptophan	white
+tryptophan 5-monooxygenase	1.14.16.4	H2O	Oxygen	white
+tryptophan 5-monooxygenase	1.14.16.4	H2O	Tetrahydrobiopterin	white
+tryptophan 5-monooxygenase	1.14.16.4	L-Tryptophan	5-Hydroxy-L-tryptophan	white
+tryptophan 5-monooxygenase	1.14.16.4	L-Tryptophan	Dihydrobiopterin	white
+tryptophan 5-monooxygenase	1.14.16.4	L-Tryptophan	H2O	white
+tryptophan 5-monooxygenase	1.14.16.4	Oxygen	5-Hydroxy-L-tryptophan	white
+tryptophan 5-monooxygenase	1.14.16.4	Oxygen	Dihydrobiopterin	white
+tryptophan 5-monooxygenase	1.14.16.4	Oxygen	H2O	white
+tryptophan 5-monooxygenase	1.14.16.4	Tetrahydrobiopterin	5-Hydroxy-L-tryptophan	white
+tryptophan 5-monooxygenase	1.14.16.4	Tetrahydrobiopterin	Dihydrobiopterin	white
+tryptophan 5-monooxygenase	1.14.16.4	Tetrahydrobiopterin	H2O	white
+tryptophan N-monooxygenase	1.14.14.156	CO2	L-Tryptophan	white
+tryptophan N-monooxygenase	1.14.14.156	CO2	Oxygen	white
+tryptophan N-monooxygenase	1.14.14.156	CO2	[Reduced NADPH---hemoprotein reductase]	white
+tryptophan N-monooxygenase	1.14.14.156	H2O	L-Tryptophan	white
+tryptophan N-monooxygenase	1.14.14.156	H2O	Oxygen	white
+tryptophan N-monooxygenase	1.14.14.156	H2O	[Reduced NADPH---hemoprotein reductase]	white
+tryptophan N-monooxygenase	1.14.14.156	Indole-3-acetaldehyde oxime	L-Tryptophan	white
+tryptophan N-monooxygenase	1.14.14.156	Indole-3-acetaldehyde oxime	Oxygen	white
+tryptophan N-monooxygenase	1.14.14.156	Indole-3-acetaldehyde oxime	[Reduced NADPH---hemoprotein reductase]	white
+tryptophan N-monooxygenase	1.14.14.156	L-Tryptophan	CO2	white
+tryptophan N-monooxygenase	1.14.14.156	L-Tryptophan	H2O	white
+tryptophan N-monooxygenase	1.14.14.156	L-Tryptophan	Indole-3-acetaldehyde oxime	white
+tryptophan N-monooxygenase	1.14.14.156	L-Tryptophan	[Oxidized NADPH---hemoprotein reductase]	white
+tryptophan N-monooxygenase	1.14.14.156	Oxygen	CO2	white
+tryptophan N-monooxygenase	1.14.14.156	Oxygen	H2O	white
+tryptophan N-monooxygenase	1.14.14.156	Oxygen	Indole-3-acetaldehyde oxime	white
+tryptophan N-monooxygenase	1.14.14.156	Oxygen	[Oxidized NADPH---hemoprotein reductase]	white
+tryptophan N-monooxygenase	1.14.14.156	[Oxidized NADPH---hemoprotein reductase]	L-Tryptophan	white
+tryptophan N-monooxygenase	1.14.14.156	[Oxidized NADPH---hemoprotein reductase]	Oxygen	white
+tryptophan N-monooxygenase	1.14.14.156	[Oxidized NADPH---hemoprotein reductase]	[Reduced NADPH---hemoprotein reductase]	white
+tryptophan N-monooxygenase	1.14.14.156	[Reduced NADPH---hemoprotein reductase]	CO2	white
+tryptophan N-monooxygenase	1.14.14.156	[Reduced NADPH---hemoprotein reductase]	H2O	white
+tryptophan N-monooxygenase	1.14.14.156	[Reduced NADPH---hemoprotein reductase]	Indole-3-acetaldehyde oxime	white
+tryptophan N-monooxygenase	1.14.14.156	[Reduced NADPH---hemoprotein reductase]	[Oxidized NADPH---hemoprotein reductase]	white
+tryptophan aminotransferase	2.6.1.27	2-Oxoglutarate	Indolepyruvate	white
+tryptophan aminotransferase	2.6.1.27	2-Oxoglutarate	L-Glutamate	white
+tryptophan aminotransferase	2.6.1.27	Indolepyruvate	2-Oxoglutarate	white
+tryptophan aminotransferase	2.6.1.27	Indolepyruvate	L-Tryptophan	white
+tryptophan aminotransferase	2.6.1.27	L-Glutamate	2-Oxoglutarate	white
+tryptophan aminotransferase	2.6.1.27	L-Glutamate	L-Tryptophan	white
+tryptophan aminotransferase	2.6.1.27	L-Tryptophan	Indolepyruvate	white
+tryptophan aminotransferase	2.6.1.27	L-Tryptophan	L-Glutamate	white
+tryptophanase	4.1.99.1	Ammonia	H2O	white
+tryptophanase	4.1.99.1	Ammonia	L-Tryptophan	white
+tryptophanase	4.1.99.1	H2O	Ammonia	white
+tryptophanase	4.1.99.1	H2O	Indole	white
+tryptophanase	4.1.99.1	H2O	Pyruvate	white
+tryptophanase	4.1.99.1	Indole	H2O	white
+tryptophanase	4.1.99.1	Indole	L-Tryptophan	white
+tryptophanase	4.1.99.1	L-Tryptophan	Ammonia	white
+tryptophanase	4.1.99.1	L-Tryptophan	Indole	white
+tryptophanase	4.1.99.1	L-Tryptophan	Pyruvate	white
+tryptophanase	4.1.99.1	Pyruvate	H2O	white
+tryptophanase	4.1.99.1	Pyruvate	L-Tryptophan	white

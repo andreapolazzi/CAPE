@@ -1,0 +1,577 @@
+enzyme_name	EC	source	target	color
+1,4-beta-D-xylan synthase	2.4.2.24	1,4-beta-D-Xylan	1,4-beta-D-Xylan	white
+1,4-beta-D-xylan synthase	2.4.2.24	1,4-beta-D-Xylan	UDP	white
+1,4-beta-D-xylan synthase	2.4.2.24	1,4-beta-D-Xylan	UDP-D-xylose	white
+1,4-beta-D-xylan synthase	2.4.2.24	UDP	1,4-beta-D-Xylan	white
+1,4-beta-D-xylan synthase	2.4.2.24	UDP	UDP-D-xylose	white
+1,4-beta-D-xylan synthase	2.4.2.24	UDP-D-xylose	1,4-beta-D-Xylan	white
+1,4-beta-D-xylan synthase	2.4.2.24	UDP-D-xylose	UDP	white
+D-glucosamine PTS system EIICBA component	2.7.1.-	D-Glucosamine	D-Glucosamine 6-phosphate	white
+D-glucosamine PTS system EIICBA component	2.7.1.-	D-Glucosamine	Protein histidine	white
+D-glucosamine PTS system EIICBA component	2.7.1.-	D-Glucosamine 6-phosphate	D-Glucosamine	white
+D-glucosamine PTS system EIICBA component	2.7.1.-	D-Glucosamine 6-phosphate	Protein N(pi)-phospho-L-histidine	white
+D-glucosamine PTS system EIICBA component	2.7.1.-	Protein N(pi)-phospho-L-histidine	D-Glucosamine 6-phosphate	white
+D-glucosamine PTS system EIICBA component	2.7.1.-	Protein N(pi)-phospho-L-histidine	Protein histidine	white
+D-glucosamine PTS system EIICBA component	2.7.1.-	Protein histidine	D-Glucosamine	white
+D-glucosamine PTS system EIICBA component	2.7.1.-	Protein histidine	Protein N(pi)-phospho-L-histidine	white
+D-glucosamine-6-phosphate 4-epimerase	5.1.3.42	D-Galactosamine 6-phosphate	D-Glucosamine 6-phosphate	white
+D-glucosamine-6-phosphate 4-epimerase	5.1.3.42	D-Glucosamine 6-phosphate	D-Galactosamine 6-phosphate	white
+GDP-D-mannose 3', 5'-epimerase	5.1.3.18	GDP-L-galactose	GDP-mannose	white
+GDP-D-mannose 3', 5'-epimerase	5.1.3.18	GDP-mannose	GDP-L-galactose	white
+GDP-mannose 6-dehydrogenase	1.1.1.132	GDP-D-mannuronate	GDP-mannose	white
+GDP-mannose 6-dehydrogenase	1.1.1.132	GDP-D-mannuronate	H2O	white
+GDP-mannose 6-dehydrogenase	1.1.1.132	GDP-D-mannuronate	NAD+	white
+GDP-mannose 6-dehydrogenase	1.1.1.132	GDP-mannose	GDP-D-mannuronate	white
+GDP-mannose 6-dehydrogenase	1.1.1.132	GDP-mannose	H+	white
+GDP-mannose 6-dehydrogenase	1.1.1.132	GDP-mannose	NADH	white
+GDP-mannose 6-dehydrogenase	1.1.1.132	H+	GDP-mannose	white
+GDP-mannose 6-dehydrogenase	1.1.1.132	H+	H2O	white
+GDP-mannose 6-dehydrogenase	1.1.1.132	H+	NAD+	white
+GDP-mannose 6-dehydrogenase	1.1.1.132	H2O	GDP-D-mannuronate	white
+GDP-mannose 6-dehydrogenase	1.1.1.132	H2O	H+	white
+GDP-mannose 6-dehydrogenase	1.1.1.132	H2O	NADH	white
+GDP-mannose 6-dehydrogenase	1.1.1.132	NAD+	GDP-D-mannuronate	white
+GDP-mannose 6-dehydrogenase	1.1.1.132	NAD+	H+	white
+GDP-mannose 6-dehydrogenase	1.1.1.132	NAD+	NADH	white
+GDP-mannose 6-dehydrogenase	1.1.1.132	NADH	GDP-mannose	white
+GDP-mannose 6-dehydrogenase	1.1.1.132	NADH	H2O	white
+GDP-mannose 6-dehydrogenase	1.1.1.132	NADH	NAD+	white
+L-arabinokinase	2.7.1.46	ADP	ATP	white
+L-arabinokinase	2.7.1.46	ADP	L-Arabinose	white
+L-arabinokinase	2.7.1.46	ATP	ADP	white
+L-arabinokinase	2.7.1.46	ATP	beta-L-Arabinose 1-phosphate	white
+L-arabinokinase	2.7.1.46	L-Arabinose	ADP	white
+L-arabinokinase	2.7.1.46	L-Arabinose	beta-L-Arabinose 1-phosphate	white
+L-arabinokinase	2.7.1.46	beta-L-Arabinose 1-phosphate	ATP	white
+L-arabinokinase	2.7.1.46	beta-L-Arabinose 1-phosphate	L-Arabinose	white
+N,N'-diacetylchitobiose phosphorylase	2.4.1.280	Chitobiose	N-Acetyl-D-glucosamine	white
+N,N'-diacetylchitobiose phosphorylase	2.4.1.280	Chitobiose	N-Acetyl-alpha-D-glucosamine 1-phosphate	white
+N,N'-diacetylchitobiose phosphorylase	2.4.1.280	N-Acetyl-D-glucosamine	Chitobiose	white
+N,N'-diacetylchitobiose phosphorylase	2.4.1.280	N-Acetyl-D-glucosamine	Orthophosphate	white
+N,N'-diacetylchitobiose phosphorylase	2.4.1.280	N-Acetyl-alpha-D-glucosamine 1-phosphate	Chitobiose	white
+N,N'-diacetylchitobiose phosphorylase	2.4.1.280	N-Acetyl-alpha-D-glucosamine 1-phosphate	Orthophosphate	white
+N,N'-diacetylchitobiose phosphorylase	2.4.1.280	Orthophosphate	N-Acetyl-D-glucosamine	white
+N,N'-diacetylchitobiose phosphorylase	2.4.1.280	Orthophosphate	N-Acetyl-alpha-D-glucosamine 1-phosphate	white
+N-acetyl-D-muramate 6-phosphate phosphatase	3.1.3.105	H2O	N-Acetylmuramate	white
+N-acetyl-D-muramate 6-phosphate phosphatase	3.1.3.105	H2O	Orthophosphate	white
+N-acetyl-D-muramate 6-phosphate phosphatase	3.1.3.105	N-Acetylmuramate	H2O	white
+N-acetyl-D-muramate 6-phosphate phosphatase	3.1.3.105	N-Acetylmuramate	N-Acetylmuramic acid 6-phosphate	white
+N-acetyl-D-muramate 6-phosphate phosphatase	3.1.3.105	N-Acetylmuramic acid 6-phosphate	N-Acetylmuramate	white
+N-acetyl-D-muramate 6-phosphate phosphatase	3.1.3.105	N-Acetylmuramic acid 6-phosphate	Orthophosphate	white
+N-acetyl-D-muramate 6-phosphate phosphatase	3.1.3.105	Orthophosphate	H2O	white
+N-acetyl-D-muramate 6-phosphate phosphatase	3.1.3.105	Orthophosphate	N-Acetylmuramic acid 6-phosphate	white
+N-acetyl-alpha-D-muramate 1-phosphate uridylyltransferase	2.7.7.99	Diphosphate	N-Acetylmuramic acid alpha-1-phosphate	white
+N-acetyl-alpha-D-muramate 1-phosphate uridylyltransferase	2.7.7.99	Diphosphate	UTP	white
+N-acetyl-alpha-D-muramate 1-phosphate uridylyltransferase	2.7.7.99	N-Acetylmuramic acid alpha-1-phosphate	Diphosphate	white
+N-acetyl-alpha-D-muramate 1-phosphate uridylyltransferase	2.7.7.99	N-Acetylmuramic acid alpha-1-phosphate	UDP-N-acetylmuramate	white
+N-acetyl-alpha-D-muramate 1-phosphate uridylyltransferase	2.7.7.99	UDP-N-acetylmuramate	N-Acetylmuramic acid alpha-1-phosphate	white
+N-acetyl-alpha-D-muramate 1-phosphate uridylyltransferase	2.7.7.99	UDP-N-acetylmuramate	UTP	white
+N-acetyl-alpha-D-muramate 1-phosphate uridylyltransferase	2.7.7.99	UTP	Diphosphate	white
+N-acetyl-alpha-D-muramate 1-phosphate uridylyltransferase	2.7.7.99	UTP	UDP-N-acetylmuramate	white
+N-acetylgalactosamine PTS system EIIA component	2.7.1.-	N-Acetyl-D-galactosamine	N-Acetyl-D-galactosamine 6-phosphate	white
+N-acetylgalactosamine PTS system EIIA component	2.7.1.-	N-Acetyl-D-galactosamine	Protein histidine	white
+N-acetylgalactosamine PTS system EIIA component	2.7.1.-	N-Acetyl-D-galactosamine 6-phosphate	N-Acetyl-D-galactosamine	white
+N-acetylgalactosamine PTS system EIIA component	2.7.1.-	N-Acetyl-D-galactosamine 6-phosphate	Protein N(pi)-phospho-L-histidine	white
+N-acetylgalactosamine PTS system EIIA component	2.7.1.-	Protein N(pi)-phospho-L-histidine	N-Acetyl-D-galactosamine 6-phosphate	white
+N-acetylgalactosamine PTS system EIIA component	2.7.1.-	Protein N(pi)-phospho-L-histidine	Protein histidine	white
+N-acetylgalactosamine PTS system EIIA component	2.7.1.-	Protein histidine	N-Acetyl-D-galactosamine	white
+N-acetylgalactosamine PTS system EIIA component	2.7.1.-	Protein histidine	Protein N(pi)-phospho-L-histidine	white
+N-acetylgalactosamine PTS system EIIB component	2.7.1.-	N-Acetyl-D-galactosamine	N-Acetyl-D-galactosamine 6-phosphate	white
+N-acetylgalactosamine PTS system EIIB component	2.7.1.-	N-Acetyl-D-galactosamine	Protein histidine	white
+N-acetylgalactosamine PTS system EIIB component	2.7.1.-	N-Acetyl-D-galactosamine 6-phosphate	N-Acetyl-D-galactosamine	white
+N-acetylgalactosamine PTS system EIIB component	2.7.1.-	N-Acetyl-D-galactosamine 6-phosphate	Protein N(pi)-phospho-L-histidine	white
+N-acetylgalactosamine PTS system EIIB component	2.7.1.-	Protein N(pi)-phospho-L-histidine	N-Acetyl-D-galactosamine 6-phosphate	white
+N-acetylgalactosamine PTS system EIIB component	2.7.1.-	Protein N(pi)-phospho-L-histidine	Protein histidine	white
+N-acetylgalactosamine PTS system EIIB component	2.7.1.-	Protein histidine	N-Acetyl-D-galactosamine	white
+N-acetylgalactosamine PTS system EIIB component	2.7.1.-	Protein histidine	Protein N(pi)-phospho-L-histidine	white
+N-acetylgalactosamine PTS system EIIC component	2.7.1.-	N-Acetyl-D-galactosamine	N-Acetyl-D-galactosamine 6-phosphate	white
+N-acetylgalactosamine PTS system EIIC component	2.7.1.-	N-Acetyl-D-galactosamine	Protein histidine	white
+N-acetylgalactosamine PTS system EIIC component	2.7.1.-	N-Acetyl-D-galactosamine 6-phosphate	N-Acetyl-D-galactosamine	white
+N-acetylgalactosamine PTS system EIIC component	2.7.1.-	N-Acetyl-D-galactosamine 6-phosphate	Protein N(pi)-phospho-L-histidine	white
+N-acetylgalactosamine PTS system EIIC component	2.7.1.-	Protein N(pi)-phospho-L-histidine	N-Acetyl-D-galactosamine 6-phosphate	white
+N-acetylgalactosamine PTS system EIIC component	2.7.1.-	Protein N(pi)-phospho-L-histidine	Protein histidine	white
+N-acetylgalactosamine PTS system EIIC component	2.7.1.-	Protein histidine	N-Acetyl-D-galactosamine	white
+N-acetylgalactosamine PTS system EIIC component	2.7.1.-	Protein histidine	Protein N(pi)-phospho-L-histidine	white
+N-acetylgalactosamine PTS system EIID component	2.7.1.-	N-Acetyl-D-galactosamine	N-Acetyl-D-galactosamine 6-phosphate	white
+N-acetylgalactosamine PTS system EIID component	2.7.1.-	N-Acetyl-D-galactosamine	Protein histidine	white
+N-acetylgalactosamine PTS system EIID component	2.7.1.-	N-Acetyl-D-galactosamine 6-phosphate	N-Acetyl-D-galactosamine	white
+N-acetylgalactosamine PTS system EIID component	2.7.1.-	N-Acetyl-D-galactosamine 6-phosphate	Protein N(pi)-phospho-L-histidine	white
+N-acetylgalactosamine PTS system EIID component	2.7.1.-	Protein N(pi)-phospho-L-histidine	N-Acetyl-D-galactosamine 6-phosphate	white
+N-acetylgalactosamine PTS system EIID component	2.7.1.-	Protein N(pi)-phospho-L-histidine	Protein histidine	white
+N-acetylgalactosamine PTS system EIID component	2.7.1.-	Protein histidine	N-Acetyl-D-galactosamine	white
+N-acetylgalactosamine PTS system EIID component	2.7.1.-	Protein histidine	Protein N(pi)-phospho-L-histidine	white
+N-acetylgalactosamine kinase	2.7.1.157	ADP	ATP	white
+N-acetylgalactosamine kinase	2.7.1.157	ADP	N-Acetyl-D-galactosamine	white
+N-acetylgalactosamine kinase	2.7.1.157	ATP	ADP	white
+N-acetylgalactosamine kinase	2.7.1.157	ATP	N-Acetyl-alpha-D-galactosamine 1-phosphate	white
+N-acetylgalactosamine kinase	2.7.1.157	N-Acetyl-D-galactosamine	ADP	white
+N-acetylgalactosamine kinase	2.7.1.157	N-Acetyl-D-galactosamine	N-Acetyl-alpha-D-galactosamine 1-phosphate	white
+N-acetylgalactosamine kinase	2.7.1.157	N-Acetyl-alpha-D-galactosamine 1-phosphate	ATP	white
+N-acetylgalactosamine kinase	2.7.1.157	N-Acetyl-alpha-D-galactosamine 1-phosphate	N-Acetyl-D-galactosamine	white
+N-acetylgalactosamine-6-phosphate deacetylase	3.5.1.-	Acetate	H2O	white
+N-acetylgalactosamine-6-phosphate deacetylase	3.5.1.-	Acetate	N-Acetyl-D-galactosamine 6-phosphate	white
+N-acetylgalactosamine-6-phosphate deacetylase	3.5.1.-	D-Galactosamine 6-phosphate	H2O	white
+N-acetylgalactosamine-6-phosphate deacetylase	3.5.1.-	D-Galactosamine 6-phosphate	N-Acetyl-D-galactosamine 6-phosphate	white
+N-acetylgalactosamine-6-phosphate deacetylase	3.5.1.-	H2O	Acetate	white
+N-acetylgalactosamine-6-phosphate deacetylase	3.5.1.-	H2O	D-Galactosamine 6-phosphate	white
+N-acetylgalactosamine-6-phosphate deacetylase	3.5.1.-	N-Acetyl-D-galactosamine 6-phosphate	Acetate	white
+N-acetylgalactosamine-6-phosphate deacetylase	3.5.1.-	N-Acetyl-D-galactosamine 6-phosphate	D-Galactosamine 6-phosphate	white
+N-acetylglucosamine PTS system EIICBA or EIICB component	2.7.1.193	N-Acetyl-D-glucosamine	N-Acetyl-D-glucosamine 6-phosphate	green
+N-acetylglucosamine PTS system EIICBA or EIICB component	2.7.1.193	N-Acetyl-D-glucosamine	Protein histidine	green
+N-acetylglucosamine PTS system EIICBA or EIICB component	2.7.1.193	Protein N(pi)-phospho-L-histidine	N-Acetyl-D-glucosamine 6-phosphate	green
+N-acetylglucosamine PTS system EIICBA or EIICB component	2.7.1.193	Protein N(pi)-phospho-L-histidine	Protein histidine	green
+N-acetylglucosamine kinase	2.7.1.59	ADP	ATP	white
+N-acetylglucosamine kinase	2.7.1.59	ADP	N-Acetyl-D-glucosamine	white
+N-acetylglucosamine kinase	2.7.1.59	ATP	ADP	white
+N-acetylglucosamine kinase	2.7.1.59	ATP	N-Acetyl-D-glucosamine 6-phosphate	white
+N-acetylglucosamine kinase	2.7.1.59	N-Acetyl-D-glucosamine	ADP	white
+N-acetylglucosamine kinase	2.7.1.59	N-Acetyl-D-glucosamine	N-Acetyl-D-glucosamine 6-phosphate	white
+N-acetylglucosamine kinase	2.7.1.59	N-Acetyl-D-glucosamine 6-phosphate	ATP	white
+N-acetylglucosamine kinase	2.7.1.59	N-Acetyl-D-glucosamine 6-phosphate	N-Acetyl-D-glucosamine	white
+N-acetylglucosamine-6-phosphate deacetylase	3.5.1.25	H2O	Acetate	green
+N-acetylglucosamine-6-phosphate deacetylase	3.5.1.25	H2O	D-Glucosamine 6-phosphate	green
+N-acetylglucosamine-6-phosphate deacetylase	3.5.1.25	N-Acetyl-D-glucosamine 6-phosphate	Acetate	green
+N-acetylglucosamine-6-phosphate deacetylase	3.5.1.25	N-Acetyl-D-glucosamine 6-phosphate	D-Glucosamine 6-phosphate	green
+N-acetylmannosamine-6-phosphate 2-epimerase / N-acetylmannosamine kinase	5.1.3.9	N-Acetyl-D-glucosamine 6-phosphate	N-Acetyl-D-mannosamine 6-phosphate	white
+N-acetylmannosamine-6-phosphate 2-epimerase / N-acetylmannosamine kinase	5.1.3.9	N-Acetyl-D-mannosamine 6-phosphate	N-Acetyl-D-glucosamine 6-phosphate	white
+N-acetylmuramate 1-kinase	2.7.1.221	ADP	ATP	white
+N-acetylmuramate 1-kinase	2.7.1.221	ADP	N-Acetyl-D-glucosamine	white
+N-acetylmuramate 1-kinase	2.7.1.221	ATP	ADP	white
+N-acetylmuramate 1-kinase	2.7.1.221	ATP	N-Acetyl-alpha-D-glucosamine 1-phosphate	white
+N-acetylmuramate 1-kinase	2.7.1.221	N-Acetyl-D-glucosamine	ADP	white
+N-acetylmuramate 1-kinase	2.7.1.221	N-Acetyl-D-glucosamine	N-Acetyl-alpha-D-glucosamine 1-phosphate	white
+N-acetylmuramate 1-kinase	2.7.1.221	N-Acetyl-alpha-D-glucosamine 1-phosphate	ATP	white
+N-acetylmuramate 1-kinase	2.7.1.221	N-Acetyl-alpha-D-glucosamine 1-phosphate	N-Acetyl-D-glucosamine	white
+N-acetylmuramate/N-acetylglucosamine kinase	2.7.1.-	ADP	ATP	white
+N-acetylmuramate/N-acetylglucosamine kinase	2.7.1.-	ADP	N-Acetyl-D-glucosamine	white
+N-acetylmuramate/N-acetylglucosamine kinase	2.7.1.-	ATP	ADP	white
+N-acetylmuramate/N-acetylglucosamine kinase	2.7.1.-	ATP	N-Acetyl-D-glucosamine 6-phosphate	white
+N-acetylmuramate/N-acetylglucosamine kinase	2.7.1.-	N-Acetyl-D-glucosamine	ADP	white
+N-acetylmuramate/N-acetylglucosamine kinase	2.7.1.-	N-Acetyl-D-glucosamine	N-Acetyl-D-glucosamine 6-phosphate	white
+N-acetylmuramate/N-acetylglucosamine kinase	2.7.1.-	N-Acetyl-D-glucosamine 6-phosphate	ATP	white
+N-acetylmuramate/N-acetylglucosamine kinase	2.7.1.-	N-Acetyl-D-glucosamine 6-phosphate	N-Acetyl-D-glucosamine	white
+N-acetylmuramic acid 6-phosphate etherase	4.2.1.126	(R)-Lactate	H2O	white
+N-acetylmuramic acid 6-phosphate etherase	4.2.1.126	(R)-Lactate	N-Acetylmuramic acid 6-phosphate	white
+N-acetylmuramic acid 6-phosphate etherase	4.2.1.126	H2O	(R)-Lactate	white
+N-acetylmuramic acid 6-phosphate etherase	4.2.1.126	H2O	N-Acetyl-D-glucosamine 6-phosphate	white
+N-acetylmuramic acid 6-phosphate etherase	4.2.1.126	N-Acetyl-D-glucosamine 6-phosphate	H2O	white
+N-acetylmuramic acid 6-phosphate etherase	4.2.1.126	N-Acetyl-D-glucosamine 6-phosphate	N-Acetylmuramic acid 6-phosphate	white
+N-acetylmuramic acid 6-phosphate etherase	4.2.1.126	N-Acetylmuramic acid 6-phosphate	(R)-Lactate	white
+N-acetylmuramic acid 6-phosphate etherase	4.2.1.126	N-Acetylmuramic acid 6-phosphate	N-Acetyl-D-glucosamine 6-phosphate	white
+N-acylglucosamine 2-epimerase	5.1.3.8	N-Acetyl-D-glucosamine	N-Acetyl-D-mannosamine	white
+N-acylglucosamine 2-epimerase	5.1.3.8	N-Acetyl-D-mannosamine	N-Acetyl-D-glucosamine	white
+N-acylglucosamine-6-phosphate 2-epimerase	5.1.3.9	N-Acetyl-D-glucosamine 6-phosphate	N-Acetyl-D-mannosamine 6-phosphate	white
+N-acylglucosamine-6-phosphate 2-epimerase	5.1.3.9	N-Acetyl-D-mannosamine 6-phosphate	N-Acetyl-D-glucosamine 6-phosphate	white
+N-acylmannosamine kinase	2.7.1.60	ADP	ATP	white
+N-acylmannosamine kinase	2.7.1.60	ADP	N-Acetyl-D-mannosamine	white
+N-acylmannosamine kinase	2.7.1.60	ATP	ADP	white
+N-acylmannosamine kinase	2.7.1.60	ATP	N-Acetyl-D-mannosamine 6-phosphate	white
+N-acylmannosamine kinase	2.7.1.60	N-Acetyl-D-mannosamine	ADP	white
+N-acylmannosamine kinase	2.7.1.60	N-Acetyl-D-mannosamine	N-Acetyl-D-mannosamine 6-phosphate	white
+N-acylmannosamine kinase	2.7.1.60	N-Acetyl-D-mannosamine 6-phosphate	ATP	white
+N-acylmannosamine kinase	2.7.1.60	N-Acetyl-D-mannosamine 6-phosphate	N-Acetyl-D-mannosamine	white
+UDP-N-acetylglucosamine 1-carboxyvinyltransferase	2.5.1.7	Phosphoenolpyruvate	Orthophosphate	green
+UDP-N-acetylglucosamine 1-carboxyvinyltransferase	2.5.1.7	Phosphoenolpyruvate	UDP-N-acetyl-3-(1-carboxyvinyl)-D-glucosamine	green
+UDP-N-acetylglucosamine 1-carboxyvinyltransferase	2.5.1.7	UDP-N-acetyl-alpha-D-glucosamine	Orthophosphate	green
+UDP-N-acetylglucosamine 1-carboxyvinyltransferase	2.5.1.7	UDP-N-acetyl-alpha-D-glucosamine	UDP-N-acetyl-3-(1-carboxyvinyl)-D-glucosamine	green
+UDP-N-acetylglucosamine 2-epimerase (non-hydrolysing)	5.1.3.14	UDP-N-acetyl-D-mannosamine	UDP-N-acetyl-alpha-D-glucosamine	white
+UDP-N-acetylglucosamine 2-epimerase (non-hydrolysing)	5.1.3.14	UDP-N-acetyl-alpha-D-glucosamine	UDP-N-acetyl-D-mannosamine	white
+UDP-N-acetylglucosamine diphosphorylase / glucose-1-phosphate thymidylyltransferase / UDP-N-acetylgalactosamine diphosphorylase / glucosamine-1-phosphate N-acetyltransferase / galactosamine-1-phosphate N-acetyltransferase	2.7.7.23	Diphosphate	N-Acetyl-alpha-D-glucosamine 1-phosphate	white
+UDP-N-acetylglucosamine diphosphorylase / glucose-1-phosphate thymidylyltransferase / UDP-N-acetylgalactosamine diphosphorylase / glucosamine-1-phosphate N-acetyltransferase / galactosamine-1-phosphate N-acetyltransferase	2.7.7.23	Diphosphate	UTP	white
+UDP-N-acetylglucosamine diphosphorylase / glucose-1-phosphate thymidylyltransferase / UDP-N-acetylgalactosamine diphosphorylase / glucosamine-1-phosphate N-acetyltransferase / galactosamine-1-phosphate N-acetyltransferase	2.7.7.23	N-Acetyl-alpha-D-glucosamine 1-phosphate	Diphosphate	white
+UDP-N-acetylglucosamine diphosphorylase / glucose-1-phosphate thymidylyltransferase / UDP-N-acetylgalactosamine diphosphorylase / glucosamine-1-phosphate N-acetyltransferase / galactosamine-1-phosphate N-acetyltransferase	2.7.7.23	N-Acetyl-alpha-D-glucosamine 1-phosphate	UDP-N-acetyl-alpha-D-glucosamine	white
+UDP-N-acetylglucosamine diphosphorylase / glucose-1-phosphate thymidylyltransferase / UDP-N-acetylgalactosamine diphosphorylase / glucosamine-1-phosphate N-acetyltransferase / galactosamine-1-phosphate N-acetyltransferase	2.7.7.23	UDP-N-acetyl-alpha-D-glucosamine	N-Acetyl-alpha-D-glucosamine 1-phosphate	white
+UDP-N-acetylglucosamine diphosphorylase / glucose-1-phosphate thymidylyltransferase / UDP-N-acetylgalactosamine diphosphorylase / glucosamine-1-phosphate N-acetyltransferase / galactosamine-1-phosphate N-acetyltransferase	2.7.7.23	UDP-N-acetyl-alpha-D-glucosamine	UTP	white
+UDP-N-acetylglucosamine diphosphorylase / glucose-1-phosphate thymidylyltransferase / UDP-N-acetylgalactosamine diphosphorylase / glucosamine-1-phosphate N-acetyltransferase / galactosamine-1-phosphate N-acetyltransferase	2.7.7.23	UTP	Diphosphate	white
+UDP-N-acetylglucosamine diphosphorylase / glucose-1-phosphate thymidylyltransferase / UDP-N-acetylgalactosamine diphosphorylase / glucosamine-1-phosphate N-acetyltransferase / galactosamine-1-phosphate N-acetyltransferase	2.7.7.23	UTP	UDP-N-acetyl-alpha-D-glucosamine	white
+UDP-N-acetylglucosamine/UDP-N-acetyl-alpha-D-glucosaminouronate 4-epimerase	5.1.3.7	UDP-N-acetyl-D-galactosamine	UDP-N-acetyl-alpha-D-glucosamine	white
+UDP-N-acetylglucosamine/UDP-N-acetyl-alpha-D-glucosaminouronate 4-epimerase	5.1.3.7	UDP-N-acetyl-alpha-D-glucosamine	UDP-N-acetyl-D-galactosamine	white
+UDP-N-acetylglucosamine/UDP-N-acetylgalactosamine diphosphorylase	2.7.7.23	Diphosphate	N-Acetyl-alpha-D-glucosamine 1-phosphate	white
+UDP-N-acetylglucosamine/UDP-N-acetylgalactosamine diphosphorylase	2.7.7.23	Diphosphate	UTP	white
+UDP-N-acetylglucosamine/UDP-N-acetylgalactosamine diphosphorylase	2.7.7.23	N-Acetyl-alpha-D-glucosamine 1-phosphate	Diphosphate	white
+UDP-N-acetylglucosamine/UDP-N-acetylgalactosamine diphosphorylase	2.7.7.23	N-Acetyl-alpha-D-glucosamine 1-phosphate	UDP-N-acetyl-alpha-D-glucosamine	white
+UDP-N-acetylglucosamine/UDP-N-acetylgalactosamine diphosphorylase	2.7.7.23	UDP-N-acetyl-alpha-D-glucosamine	N-Acetyl-alpha-D-glucosamine 1-phosphate	white
+UDP-N-acetylglucosamine/UDP-N-acetylgalactosamine diphosphorylase	2.7.7.23	UDP-N-acetyl-alpha-D-glucosamine	UTP	white
+UDP-N-acetylglucosamine/UDP-N-acetylgalactosamine diphosphorylase	2.7.7.23	UTP	Diphosphate	white
+UDP-N-acetylglucosamine/UDP-N-acetylgalactosamine diphosphorylase	2.7.7.23	UTP	UDP-N-acetyl-alpha-D-glucosamine	white
+UDP-N-acetylmuramate dehydrogenase	1.3.1.98	NAD+	H+	green
+UDP-N-acetylmuramate dehydrogenase	1.3.1.98	NAD+	NADH	green
+UDP-N-acetylmuramate dehydrogenase	1.3.1.98	NAD+	UDP-N-acetyl-3-(1-carboxyvinyl)-D-glucosamine	green
+UDP-N-acetylmuramate dehydrogenase	1.3.1.98	NADP+	H+	green
+UDP-N-acetylmuramate dehydrogenase	1.3.1.98	NADP+	NADPH	green
+UDP-N-acetylmuramate dehydrogenase	1.3.1.98	NADP+	UDP-N-acetyl-3-(1-carboxyvinyl)-D-glucosamine	green
+UDP-N-acetylmuramate dehydrogenase	1.3.1.98	UDP-N-acetylmuramate	H+	green
+UDP-N-acetylmuramate dehydrogenase	1.3.1.98	UDP-N-acetylmuramate	NADH	green
+UDP-N-acetylmuramate dehydrogenase	1.3.1.98	UDP-N-acetylmuramate	NADPH	green
+UDP-N-acetylmuramate dehydrogenase	1.3.1.98	UDP-N-acetylmuramate	UDP-N-acetyl-3-(1-carboxyvinyl)-D-glucosamine	green
+UDP-apiose/xylose synthase	2.7.1.46	CO2	UDP-glucuronate	white
+UDP-apiose/xylose synthase	2.7.1.46	UDP-D-xylose	UDP-glucuronate	white
+UDP-apiose/xylose synthase	2.7.1.46	UDP-glucuronate	CO2	white
+UDP-apiose/xylose synthase	2.7.1.46	UDP-glucuronate	UDP-D-xylose	white
+UDP-arabinose 4-epimerase	5.1.3.5	UDP-D-xylose	UDP-L-arabinose	white
+UDP-arabinose 4-epimerase	5.1.3.5	UDP-L-arabinose	UDP-D-xylose	white
+UDP-galactopyranose mutase	5.4.99.9	UDP-alpha-D-galactofuranose	UDP-alpha-D-galactose	green
+UDP-galactopyranose mutase	5.4.99.9	UDP-alpha-D-galactose	UDP-alpha-D-galactofuranose	green
+UDP-glucose 4-epimerase	5.1.3.2	UDP-alpha-D-galactose	UDP-glucose	green
+UDP-glucose 4-epimerase	5.1.3.2	UDP-glucose	UDP-alpha-D-galactose	green
+UDP-glucuronate 4-epimerase	5.1.3.6	UDP-D-galacturonate	UDP-glucuronate	white
+UDP-glucuronate 4-epimerase	5.1.3.6	UDP-glucuronate	UDP-D-galacturonate	white
+UDP-glucuronate decarboxylase	4.1.1.35	CO2	UDP-glucuronate	white
+UDP-glucuronate decarboxylase	4.1.1.35	UDP-D-xylose	UDP-glucuronate	white
+UDP-glucuronate decarboxylase	4.1.1.35	UDP-glucuronate	CO2	white
+UDP-glucuronate decarboxylase	4.1.1.35	UDP-glucuronate	UDP-D-xylose	white
+UDP-sugar pyrophosphorylase	2.7.7.64	D-Glucose 1-phosphate	Diphosphate	white
+UDP-sugar pyrophosphorylase	2.7.7.64	D-Glucose 1-phosphate	UDP-glucose	white
+UDP-sugar pyrophosphorylase	2.7.7.64	Diphosphate	D-Glucose 1-phosphate	white
+UDP-sugar pyrophosphorylase	2.7.7.64	Diphosphate	UTP	white
+UDP-sugar pyrophosphorylase	2.7.7.64	UDP-glucose	D-Glucose 1-phosphate	white
+UDP-sugar pyrophosphorylase	2.7.7.64	UDP-glucose	UTP	white
+UDP-sugar pyrophosphorylase	2.7.7.64	UTP	Diphosphate	white
+UDP-sugar pyrophosphorylase	2.7.7.64	UTP	UDP-glucose	white
+UDP-sulfoquinovose synthase	3.13.1.1	Sulfite	H2O	green
+UDP-sulfoquinovose synthase	3.13.1.1	Sulfite	UDP-6-sulfoquinovose	green
+UDP-sulfoquinovose synthase	3.13.1.1	UDP-glucose	H2O	green
+UDP-sulfoquinovose synthase	3.13.1.1	UDP-glucose	UDP-6-sulfoquinovose	green
+UDPglucose 6-dehydrogenase	1.1.1.22	H2O	H+	green
+UDPglucose 6-dehydrogenase	1.1.1.22	H2O	NADH	green
+UDPglucose 6-dehydrogenase	1.1.1.22	H2O	UDP-glucuronate	green
+UDPglucose 6-dehydrogenase	1.1.1.22	NAD+	H+	green
+UDPglucose 6-dehydrogenase	1.1.1.22	NAD+	NADH	green
+UDPglucose 6-dehydrogenase	1.1.1.22	NAD+	UDP-glucuronate	green
+UDPglucose 6-dehydrogenase	1.1.1.22	UDP-glucose	H+	green
+UDPglucose 6-dehydrogenase	1.1.1.22	UDP-glucose	NADH	green
+UDPglucose 6-dehydrogenase	1.1.1.22	UDP-glucose	UDP-glucuronate	green
+UDPglucose--hexose-1-phosphate uridylyltransferase	2.7.7.12	D-Glucose 1-phosphate	UDP-glucose	green
+UDPglucose--hexose-1-phosphate uridylyltransferase	2.7.7.12	D-Glucose 1-phosphate	alpha-D-Galactose 1-phosphate	green
+UDPglucose--hexose-1-phosphate uridylyltransferase	2.7.7.12	UDP-alpha-D-galactose	UDP-glucose	green
+UDPglucose--hexose-1-phosphate uridylyltransferase	2.7.7.12	UDP-alpha-D-galactose	alpha-D-Galactose 1-phosphate	green
+UDPglucose--hexose-1-phosphate uridylyltransferase	2.7.7.12	UDP-glucose	D-Glucose 1-phosphate	green
+UDPglucose--hexose-1-phosphate uridylyltransferase	2.7.7.12	UDP-glucose	UDP-alpha-D-galactose	green
+UDPglucose--hexose-1-phosphate uridylyltransferase	2.7.7.12	alpha-D-Galactose 1-phosphate	D-Glucose 1-phosphate	green
+UDPglucose--hexose-1-phosphate uridylyltransferase	2.7.7.12	alpha-D-Galactose 1-phosphate	UDP-alpha-D-galactose	green
+UTP--glucose-1-phosphate uridylyltransferase	2.7.7.9	D-Glucose 1-phosphate	Diphosphate	green
+UTP--glucose-1-phosphate uridylyltransferase	2.7.7.9	D-Glucose 1-phosphate	UDP-glucose	green
+UTP--glucose-1-phosphate uridylyltransferase	2.7.7.9	Diphosphate	D-Glucose 1-phosphate	green
+UTP--glucose-1-phosphate uridylyltransferase	2.7.7.9	Diphosphate	UTP	green
+UTP--glucose-1-phosphate uridylyltransferase	2.7.7.9	UDP-glucose	D-Glucose 1-phosphate	green
+UTP--glucose-1-phosphate uridylyltransferase	2.7.7.9	UDP-glucose	UTP	green
+UTP--glucose-1-phosphate uridylyltransferase	2.7.7.9	UTP	Diphosphate	green
+UTP--glucose-1-phosphate uridylyltransferase	2.7.7.9	UTP	UDP-glucose	green
+alpha-1,4-galacturonosyltransferase	2.4.1.43	Pectin	UDP-D-galacturonate	white
+alpha-1,4-galacturonosyltransferase	2.4.1.43	UDP	UDP-D-galacturonate	white
+alpha-1,4-galacturonosyltransferase	2.4.1.43	UDP-D-galacturonate	Pectin	white
+alpha-1,4-galacturonosyltransferase	2.4.1.43	UDP-D-galacturonate	UDP	white
+alpha-L-arabinofuranosidase	3.2.1.55	Arabinan	Arabinan	white
+alpha-L-arabinofuranosidase	3.2.1.55	Arabinan	H2O	white
+alpha-L-arabinofuranosidase	3.2.1.55	Arabinan	L-Arabinose	white
+alpha-L-arabinofuranosidase	3.2.1.55	H2O	Arabinan	white
+alpha-L-arabinofuranosidase	3.2.1.55	H2O	L-Arabinose	white
+alpha-L-arabinofuranosidase	3.2.1.55	L-Arabinose	Arabinan	white
+alpha-L-arabinofuranosidase	3.2.1.55	L-Arabinose	H2O	white
+anhydro-N-acetylmuramic acid kinase	2.7.1.170	1,6-Anhydro-N-acetyl-beta-muramate	ADP	white
+anhydro-N-acetylmuramic acid kinase	2.7.1.170	1,6-Anhydro-N-acetyl-beta-muramate	N-Acetyl-beta-muramate 6-phosphate	white
+anhydro-N-acetylmuramic acid kinase	2.7.1.170	ADP	1,6-Anhydro-N-acetyl-beta-muramate	white
+anhydro-N-acetylmuramic acid kinase	2.7.1.170	ADP	ATP	white
+anhydro-N-acetylmuramic acid kinase	2.7.1.170	ADP	H2O	white
+anhydro-N-acetylmuramic acid kinase	2.7.1.170	ATP	ADP	white
+anhydro-N-acetylmuramic acid kinase	2.7.1.170	ATP	N-Acetyl-beta-muramate 6-phosphate	white
+anhydro-N-acetylmuramic acid kinase	2.7.1.170	H2O	ADP	white
+anhydro-N-acetylmuramic acid kinase	2.7.1.170	H2O	N-Acetyl-beta-muramate 6-phosphate	white
+anhydro-N-acetylmuramic acid kinase	2.7.1.170	N-Acetyl-beta-muramate 6-phosphate	1,6-Anhydro-N-acetyl-beta-muramate	white
+anhydro-N-acetylmuramic acid kinase	2.7.1.170	N-Acetyl-beta-muramate 6-phosphate	ATP	white
+anhydro-N-acetylmuramic acid kinase	2.7.1.170	N-Acetyl-beta-muramate 6-phosphate	H2O	white
+arabinokinase / fucokinase / arabinose-1-phosphate guanylyltransferase / fucose-1-phosphate guanylyltransferase	2.7.1.-	Diphosphate	GTP	white
+arabinokinase / fucokinase / arabinose-1-phosphate guanylyltransferase / fucose-1-phosphate guanylyltransferase	2.7.1.-	Diphosphate	L-Fucose 1-phosphate	white
+arabinokinase / fucokinase / arabinose-1-phosphate guanylyltransferase / fucose-1-phosphate guanylyltransferase	2.7.1.-	GDP-L-fucose	GTP	white
+arabinokinase / fucokinase / arabinose-1-phosphate guanylyltransferase / fucose-1-phosphate guanylyltransferase	2.7.1.-	GDP-L-fucose	L-Fucose 1-phosphate	white
+arabinokinase / fucokinase / arabinose-1-phosphate guanylyltransferase / fucose-1-phosphate guanylyltransferase	2.7.1.-	GTP	Diphosphate	white
+arabinokinase / fucokinase / arabinose-1-phosphate guanylyltransferase / fucose-1-phosphate guanylyltransferase	2.7.1.-	GTP	GDP-L-fucose	white
+arabinokinase / fucokinase / arabinose-1-phosphate guanylyltransferase / fucose-1-phosphate guanylyltransferase	2.7.1.-	L-Fucose 1-phosphate	Diphosphate	white
+arabinokinase / fucokinase / arabinose-1-phosphate guanylyltransferase / fucose-1-phosphate guanylyltransferase	2.7.1.-	L-Fucose 1-phosphate	GDP-L-fucose	white
+arabinoxylan arabinofuranohydrolase	3.2.1.55	Arabinan	Arabinan	white
+arabinoxylan arabinofuranohydrolase	3.2.1.55	Arabinan	H2O	white
+arabinoxylan arabinofuranohydrolase	3.2.1.55	Arabinan	L-Arabinose	white
+arabinoxylan arabinofuranohydrolase	3.2.1.55	H2O	Arabinan	white
+arabinoxylan arabinofuranohydrolase	3.2.1.55	H2O	L-Arabinose	white
+arabinoxylan arabinofuranohydrolase	3.2.1.55	L-Arabinose	Arabinan	white
+arabinoxylan arabinofuranohydrolase	3.2.1.55	L-Arabinose	H2O	white
+basic endochitinase B	3.2.1.14	Chitin	Chitin	white
+basic endochitinase B	3.2.1.14	Chitin	H2O	white
+basic endochitinase B	3.2.1.14	Chitin	N-Acetyl-D-glucosamine	white
+basic endochitinase B	3.2.1.14	H2O	Chitin	white
+basic endochitinase B	3.2.1.14	H2O	N-Acetyl-D-glucosamine	white
+basic endochitinase B	3.2.1.14	N-Acetyl-D-glucosamine	Chitin	white
+basic endochitinase B	3.2.1.14	N-Acetyl-D-glucosamine	H2O	white
+beta-N-acetylhexosaminidase	3.2.1.52	Chitobiose	N-Acetyl-D-glucosamine	green
+beta-N-acetylhexosaminidase	3.2.1.52	H2O	N-Acetyl-D-glucosamine	green
+bifunctional UDP-N-acetylglucosamine 2-epimerase / N-acetylmannosamine kinase	3.2.1.183	H2O	N-Acetyl-D-mannosamine	white
+bifunctional UDP-N-acetylglucosamine 2-epimerase / N-acetylmannosamine kinase	3.2.1.183	H2O	UDP	white
+bifunctional UDP-N-acetylglucosamine 2-epimerase / N-acetylmannosamine kinase	3.2.1.183	N-Acetyl-D-mannosamine	H2O	white
+bifunctional UDP-N-acetylglucosamine 2-epimerase / N-acetylmannosamine kinase	3.2.1.183	N-Acetyl-D-mannosamine	UDP-N-acetyl-alpha-D-glucosamine	white
+bifunctional UDP-N-acetylglucosamine 2-epimerase / N-acetylmannosamine kinase	3.2.1.183	UDP	H2O	white
+bifunctional UDP-N-acetylglucosamine 2-epimerase / N-acetylmannosamine kinase	3.2.1.183	UDP	UDP-N-acetyl-alpha-D-glucosamine	white
+bifunctional UDP-N-acetylglucosamine 2-epimerase / N-acetylmannosamine kinase	3.2.1.183	UDP-N-acetyl-alpha-D-glucosamine	N-Acetyl-D-mannosamine	white
+bifunctional UDP-N-acetylglucosamine 2-epimerase / N-acetylmannosamine kinase	3.2.1.183	UDP-N-acetyl-alpha-D-glucosamine	UDP	white
+bifunctional UDP-N-acetylglucosamine pyrophosphorylase / glucosamine-1-phosphate N-acetyltransferase	2.7.7.23	Acetyl-CoA	CoA	green
+bifunctional UDP-N-acetylglucosamine pyrophosphorylase / glucosamine-1-phosphate N-acetyltransferase	2.7.7.23	Acetyl-CoA	N-Acetyl-alpha-D-glucosamine 1-phosphate	green
+bifunctional UDP-N-acetylglucosamine pyrophosphorylase / glucosamine-1-phosphate N-acetyltransferase	2.7.7.23	N-Acetyl-alpha-D-glucosamine 1-phosphate	Diphosphate	green
+bifunctional UDP-N-acetylglucosamine pyrophosphorylase / glucosamine-1-phosphate N-acetyltransferase	2.7.7.23	N-Acetyl-alpha-D-glucosamine 1-phosphate	UDP-N-acetyl-alpha-D-glucosamine	green
+bifunctional UDP-N-acetylglucosamine pyrophosphorylase / glucosamine-1-phosphate N-acetyltransferase	2.7.7.23	UTP	Diphosphate	green
+bifunctional UDP-N-acetylglucosamine pyrophosphorylase / glucosamine-1-phosphate N-acetyltransferase	2.7.7.23	UTP	UDP-N-acetyl-alpha-D-glucosamine	green
+bifunctional UDP-N-acetylglucosamine pyrophosphorylase / glucosamine-1-phosphate N-acetyltransferase	2.7.7.23	alpha-D-Glucosamine 1-phosphate	CoA	green
+bifunctional UDP-N-acetylglucosamine pyrophosphorylase / glucosamine-1-phosphate N-acetyltransferase	2.7.7.23	alpha-D-Glucosamine 1-phosphate	N-Acetyl-alpha-D-glucosamine 1-phosphate	green
+bifunctional chitinase/lysozyme	3.2.1.14	Chitin	Chitin	white
+bifunctional chitinase/lysozyme	3.2.1.14	Chitin	H2O	white
+bifunctional chitinase/lysozyme	3.2.1.14	Chitin	N-Acetyl-D-glucosamine	white
+bifunctional chitinase/lysozyme	3.2.1.14	H2O	Chitin	white
+bifunctional chitinase/lysozyme	3.2.1.14	H2O	N-Acetyl-D-glucosamine	white
+bifunctional chitinase/lysozyme	3.2.1.14	N-Acetyl-D-glucosamine	Chitin	white
+bifunctional chitinase/lysozyme	3.2.1.14	N-Acetyl-D-glucosamine	H2O	white
+chitin deacetylase	3.5.1.41	Acetate	Chitin	white
+chitin deacetylase	3.5.1.41	Acetate	H2O	white
+chitin deacetylase	3.5.1.41	Chitin	Acetate	white
+chitin deacetylase	3.5.1.41	Chitin	Chitosan	white
+chitin deacetylase	3.5.1.41	Chitosan	Chitin	white
+chitin deacetylase	3.5.1.41	Chitosan	H2O	white
+chitin deacetylase	3.5.1.41	H2O	Acetate	white
+chitin deacetylase	3.5.1.41	H2O	Chitosan	white
+chitin synthase	2.4.1.16	Chitin	Chitin	white
+chitin synthase	2.4.1.16	Chitin	UDP	white
+chitin synthase	2.4.1.16	Chitin	UDP-N-acetyl-alpha-D-glucosamine	white
+chitin synthase	2.4.1.16	UDP	Chitin	white
+chitin synthase	2.4.1.16	UDP	UDP-N-acetyl-alpha-D-glucosamine	white
+chitin synthase	2.4.1.16	UDP-N-acetyl-alpha-D-glucosamine	Chitin	white
+chitin synthase	2.4.1.16	UDP-N-acetyl-alpha-D-glucosamine	UDP	white
+chitinase	3.2.1.14	Chitin	Chitin	white
+chitinase	3.2.1.14	Chitin	H2O	white
+chitinase	3.2.1.14	Chitin	N-Acetyl-D-glucosamine	white
+chitinase	3.2.1.14	H2O	Chitin	white
+chitinase	3.2.1.14	H2O	N-Acetyl-D-glucosamine	white
+chitinase	3.2.1.14	N-Acetyl-D-glucosamine	Chitin	white
+chitinase	3.2.1.14	N-Acetyl-D-glucosamine	H2O	white
+chitosanase	3.2.1.132	Chitosan	Chitosan	white
+chitosanase	3.2.1.132	Chitosan	D-Glucosaminide	white
+chitosanase	3.2.1.132	Chitosan	H2O	white
+chitosanase	3.2.1.132	D-Glucosaminide	Chitosan	white
+chitosanase	3.2.1.132	D-Glucosaminide	H2O	white
+chitosanase	3.2.1.132	H2O	Chitosan	white
+chitosanase	3.2.1.132	H2O	D-Glucosaminide	white
+exo-1,4-beta-D-glucosaminidase	3.2.1.165	D-Glucosamine	D-Glucosaminide	white
+exo-1,4-beta-D-glucosaminidase	3.2.1.165	D-Glucosamine	H2O	white
+exo-1,4-beta-D-glucosaminidase	3.2.1.165	D-Glucosaminide	D-Glucosamine	white
+exo-1,4-beta-D-glucosaminidase	3.2.1.165	D-Glucosaminide	D-Glucosaminide	white
+exo-1,4-beta-D-glucosaminidase	3.2.1.165	D-Glucosaminide	H2O	white
+exo-1,4-beta-D-glucosaminidase	3.2.1.165	H2O	D-Glucosamine	white
+exo-1,4-beta-D-glucosaminidase	3.2.1.165	H2O	D-Glucosaminide	white
+fructokinase	2.7.1.4	ATP	ADP	green
+fructokinase	2.7.1.4	ATP	D-Fructose 6-phosphate	green
+fructokinase	2.7.1.4	D-Fructose	ADP	green
+fructokinase	2.7.1.4	D-Fructose	D-Fructose 6-phosphate	green
+fucokinase	2.7.1.52	ADP	ATP	white
+fucokinase	2.7.1.52	ADP	L-Fucose	white
+fucokinase	2.7.1.52	ATP	ADP	white
+fucokinase	2.7.1.52	ATP	L-Fucose 1-phosphate	white
+fucokinase	2.7.1.52	L-Fucose	ADP	white
+fucokinase	2.7.1.52	L-Fucose	L-Fucose 1-phosphate	white
+fucokinase	2.7.1.52	L-Fucose 1-phosphate	ATP	white
+fucokinase	2.7.1.52	L-Fucose 1-phosphate	L-Fucose	white
+fucokinase / fucose-1-phosphate guanylyltransferase	2.7.1.52	Diphosphate	GTP	white
+fucokinase / fucose-1-phosphate guanylyltransferase	2.7.1.52	Diphosphate	L-Fucose 1-phosphate	white
+fucokinase / fucose-1-phosphate guanylyltransferase	2.7.1.52	GDP-L-fucose	GTP	white
+fucokinase / fucose-1-phosphate guanylyltransferase	2.7.1.52	GDP-L-fucose	L-Fucose 1-phosphate	white
+fucokinase / fucose-1-phosphate guanylyltransferase	2.7.1.52	GTP	Diphosphate	white
+fucokinase / fucose-1-phosphate guanylyltransferase	2.7.1.52	GTP	GDP-L-fucose	white
+fucokinase / fucose-1-phosphate guanylyltransferase	2.7.1.52	L-Fucose 1-phosphate	Diphosphate	white
+fucokinase / fucose-1-phosphate guanylyltransferase	2.7.1.52	L-Fucose 1-phosphate	GDP-L-fucose	white
+fucose-1-phosphate guanylyltransferase	2.7.7.30	Diphosphate	GTP	white
+fucose-1-phosphate guanylyltransferase	2.7.7.30	Diphosphate	L-Fucose 1-phosphate	white
+fucose-1-phosphate guanylyltransferase	2.7.7.30	GDP-L-fucose	GTP	white
+fucose-1-phosphate guanylyltransferase	2.7.7.30	GDP-L-fucose	L-Fucose 1-phosphate	white
+fucose-1-phosphate guanylyltransferase	2.7.7.30	GTP	Diphosphate	white
+fucose-1-phosphate guanylyltransferase	2.7.7.30	GTP	GDP-L-fucose	white
+fucose-1-phosphate guanylyltransferase	2.7.7.30	L-Fucose 1-phosphate	Diphosphate	white
+fucose-1-phosphate guanylyltransferase	2.7.7.30	L-Fucose 1-phosphate	GDP-L-fucose	white
+galactokinase	2.7.1.6	ATP	ADP	green
+galactokinase	2.7.1.6	ATP	alpha-D-Galactose 1-phosphate	green
+galactokinase	2.7.1.6	alpha-D-Galactose	ADP	green
+galactokinase	2.7.1.6	alpha-D-Galactose	alpha-D-Galactose 1-phosphate	green
+galactosamine PTS system EIIB component	2.7.1.-	D-Galactosamine	D-Galactosamine 6-phosphate	white
+galactosamine PTS system EIIB component	2.7.1.-	D-Galactosamine	Protein histidine	white
+galactosamine PTS system EIIB component	2.7.1.-	D-Galactosamine 6-phosphate	D-Galactosamine	white
+galactosamine PTS system EIIB component	2.7.1.-	D-Galactosamine 6-phosphate	Protein N(pi)-phospho-L-histidine	white
+galactosamine PTS system EIIB component	2.7.1.-	Protein N(pi)-phospho-L-histidine	D-Galactosamine 6-phosphate	white
+galactosamine PTS system EIIB component	2.7.1.-	Protein N(pi)-phospho-L-histidine	Protein histidine	white
+galactosamine PTS system EIIB component	2.7.1.-	Protein histidine	D-Galactosamine	white
+galactosamine PTS system EIIB component	2.7.1.-	Protein histidine	Protein N(pi)-phospho-L-histidine	white
+galactosamine PTS system EIIC component	2.7.1.-	D-Galactosamine	D-Galactosamine 6-phosphate	white
+galactosamine PTS system EIIC component	2.7.1.-	D-Galactosamine	Protein histidine	white
+galactosamine PTS system EIIC component	2.7.1.-	D-Galactosamine 6-phosphate	D-Galactosamine	white
+galactosamine PTS system EIIC component	2.7.1.-	D-Galactosamine 6-phosphate	Protein N(pi)-phospho-L-histidine	white
+galactosamine PTS system EIIC component	2.7.1.-	Protein N(pi)-phospho-L-histidine	D-Galactosamine 6-phosphate	white
+galactosamine PTS system EIIC component	2.7.1.-	Protein N(pi)-phospho-L-histidine	Protein histidine	white
+galactosamine PTS system EIIC component	2.7.1.-	Protein histidine	D-Galactosamine	white
+galactosamine PTS system EIIC component	2.7.1.-	Protein histidine	Protein N(pi)-phospho-L-histidine	white
+galactosamine PTS system EIID component	2.7.1.-	D-Galactosamine	D-Galactosamine 6-phosphate	white
+galactosamine PTS system EIID component	2.7.1.-	D-Galactosamine	Protein histidine	white
+galactosamine PTS system EIID component	2.7.1.-	D-Galactosamine 6-phosphate	D-Galactosamine	white
+galactosamine PTS system EIID component	2.7.1.-	D-Galactosamine 6-phosphate	Protein N(pi)-phospho-L-histidine	white
+galactosamine PTS system EIID component	2.7.1.-	Protein N(pi)-phospho-L-histidine	D-Galactosamine 6-phosphate	white
+galactosamine PTS system EIID component	2.7.1.-	Protein N(pi)-phospho-L-histidine	Protein histidine	white
+galactosamine PTS system EIID component	2.7.1.-	Protein histidine	D-Galactosamine	white
+galactosamine PTS system EIID component	2.7.1.-	Protein histidine	Protein N(pi)-phospho-L-histidine	white
+galacturonokinase	2.7.1.44	1-Phospho-alpha-D-galacturonate	ATP	white
+galacturonokinase	2.7.1.44	1-Phospho-alpha-D-galacturonate	D-Galacturonate	white
+galacturonokinase	2.7.1.44	ADP	ATP	white
+galacturonokinase	2.7.1.44	ADP	D-Galacturonate	white
+galacturonokinase	2.7.1.44	ATP	1-Phospho-alpha-D-galacturonate	white
+galacturonokinase	2.7.1.44	ATP	ADP	white
+galacturonokinase	2.7.1.44	D-Galacturonate	1-Phospho-alpha-D-galacturonate	white
+galacturonokinase	2.7.1.44	D-Galacturonate	ADP	white
+glucokinase	2.7.1.2	ATP	ADP	green
+glucokinase	2.7.1.2	ATP	alpha-D-Glucose 6-phosphate	green
+glucokinase	2.7.1.2	alpha-D-Glucose	ADP	green
+glucokinase	2.7.1.2	alpha-D-Glucose	alpha-D-Glucose 6-phosphate	green
+glucosamine kinase	2.7.1.8	ADP	ATP	white
+glucosamine kinase	2.7.1.8	ADP	D-Glucosamine	white
+glucosamine kinase	2.7.1.8	ATP	ADP	white
+glucosamine kinase	2.7.1.8	ATP	D-Glucosamine 6-phosphate	white
+glucosamine kinase	2.7.1.8	D-Glucosamine	ADP	white
+glucosamine kinase	2.7.1.8	D-Glucosamine	D-Glucosamine 6-phosphate	white
+glucosamine kinase	2.7.1.8	D-Glucosamine 6-phosphate	ATP	white
+glucosamine kinase	2.7.1.8	D-Glucosamine 6-phosphate	D-Glucosamine	white
+glucosamine-6-phosphate deaminase	3.5.99.6	D-Glucosamine 6-phosphate	Ammonia	green
+glucosamine-6-phosphate deaminase	3.5.99.6	D-Glucosamine 6-phosphate	D-Fructose 6-phosphate	green
+glucosamine-6-phosphate deaminase	3.5.99.6	H2O	Ammonia	green
+glucosamine-6-phosphate deaminase	3.5.99.6	H2O	D-Fructose 6-phosphate	green
+glucosamine-phosphate N-acetyltransferase	2.3.1.4	Acetyl-CoA	CoA	white
+glucosamine-phosphate N-acetyltransferase	2.3.1.4	Acetyl-CoA	N-Acetyl-D-glucosamine 6-phosphate	white
+glucosamine-phosphate N-acetyltransferase	2.3.1.4	CoA	Acetyl-CoA	white
+glucosamine-phosphate N-acetyltransferase	2.3.1.4	CoA	D-Glucosamine 6-phosphate	white
+glucosamine-phosphate N-acetyltransferase	2.3.1.4	D-Glucosamine 6-phosphate	CoA	white
+glucosamine-phosphate N-acetyltransferase	2.3.1.4	D-Glucosamine 6-phosphate	N-Acetyl-D-glucosamine 6-phosphate	white
+glucosamine-phosphate N-acetyltransferase	2.3.1.4	N-Acetyl-D-glucosamine 6-phosphate	Acetyl-CoA	white
+glucosamine-phosphate N-acetyltransferase	2.3.1.4	N-Acetyl-D-glucosamine 6-phosphate	D-Glucosamine 6-phosphate	white
+glucose-1-phosphate adenylyltransferase	2.7.7.27	ADP-glucose	ATP	green
+glucose-1-phosphate adenylyltransferase	2.7.7.27	ADP-glucose	D-Glucose 1-phosphate	green
+glucose-1-phosphate adenylyltransferase	2.7.7.27	ATP	ADP-glucose	green
+glucose-1-phosphate adenylyltransferase	2.7.7.27	ATP	Diphosphate	green
+glucose-1-phosphate adenylyltransferase	2.7.7.27	D-Glucose 1-phosphate	ADP-glucose	green
+glucose-1-phosphate adenylyltransferase	2.7.7.27	D-Glucose 1-phosphate	Diphosphate	green
+glucose-1-phosphate adenylyltransferase	2.7.7.27	Diphosphate	ATP	green
+glucose-1-phosphate adenylyltransferase	2.7.7.27	Diphosphate	D-Glucose 1-phosphate	green
+glucose-1-phosphate cytidylyltransferase	2.7.7.33	CDP-glucose	CTP	green
+glucose-1-phosphate cytidylyltransferase	2.7.7.33	CDP-glucose	D-Glucose 1-phosphate	green
+glucose-1-phosphate cytidylyltransferase	2.7.7.33	CTP	CDP-glucose	green
+glucose-1-phosphate cytidylyltransferase	2.7.7.33	CTP	Diphosphate	green
+glucose-1-phosphate cytidylyltransferase	2.7.7.33	D-Glucose 1-phosphate	CDP-glucose	green
+glucose-1-phosphate cytidylyltransferase	2.7.7.33	D-Glucose 1-phosphate	Diphosphate	green
+glucose-1-phosphate cytidylyltransferase	2.7.7.33	Diphosphate	CTP	green
+glucose-1-phosphate cytidylyltransferase	2.7.7.33	Diphosphate	D-Glucose 1-phosphate	green
+glucose-1-phosphate thymidylyltransferase	2.7.7.24	D-Glucose 1-phosphate	Diphosphate	green
+glucose-1-phosphate thymidylyltransferase	2.7.7.24	D-Glucose 1-phosphate	dTDP-glucose	green
+glucose-1-phosphate thymidylyltransferase	2.7.7.24	dTTP	Diphosphate	green
+glucose-1-phosphate thymidylyltransferase	2.7.7.24	dTTP	dTDP-glucose	green
+glucose-6-phosphate isomerase	5.3.1.9	D-Fructose 6-phosphate	alpha-D-Glucose 6-phosphate	green
+glucose-6-phosphate isomerase	5.3.1.9	alpha-D-Glucose 6-phosphate	D-Fructose 6-phosphate	green
+glucuronokinase	2.7.1.43	ADP	ATP	white
+glucuronokinase	2.7.1.43	ADP	D-Glucuronate	white
+glucuronokinase	2.7.1.43	ATP	ADP	white
+glucuronokinase	2.7.1.43	ATP	D-Glucuronate 1-phosphate	white
+glucuronokinase	2.7.1.43	D-Glucuronate	ADP	white
+glucuronokinase	2.7.1.43	D-Glucuronate	D-Glucuronate 1-phosphate	white
+glucuronokinase	2.7.1.43	D-Glucuronate 1-phosphate	ATP	white
+glucuronokinase	2.7.1.43	D-Glucuronate 1-phosphate	D-Glucuronate	white
+glutamine---fructose-6-phosphate transaminase (isomerizing)	2.6.1.16	D-Fructose 6-phosphate	D-Glucosamine 6-phosphate	green
+glutamine---fructose-6-phosphate transaminase (isomerizing)	2.6.1.16	D-Fructose 6-phosphate	L-Glutamate	green
+glutamine---fructose-6-phosphate transaminase (isomerizing)	2.6.1.16	L-Glutamine	D-Glucosamine 6-phosphate	green
+glutamine---fructose-6-phosphate transaminase (isomerizing)	2.6.1.16	L-Glutamine	L-Glutamate	green
+hexokinase	2.7.1.1	ADP	ATP	white
+hexokinase	2.7.1.1	ADP	D-Glucose	white
+hexokinase	2.7.1.1	ATP	ADP	white
+hexokinase	2.7.1.1	ATP	D-Glucose 6-phosphate	white
+hexokinase	2.7.1.1	D-Glucose	ADP	white
+hexokinase	2.7.1.1	D-Glucose	D-Glucose 6-phosphate	white
+hexokinase	2.7.1.1	D-Glucose 6-phosphate	ATP	white
+hexokinase	2.7.1.1	D-Glucose 6-phosphate	D-Glucose	white
+mannose PTS system EIIA component	2.7.1.191	D-Mannose	D-Mannose 6-phosphate	white
+mannose PTS system EIIA component	2.7.1.191	D-Mannose	Protein histidine	white
+mannose PTS system EIIA component	2.7.1.191	D-Mannose 6-phosphate	D-Mannose	white
+mannose PTS system EIIA component	2.7.1.191	D-Mannose 6-phosphate	Protein N(pi)-phospho-L-histidine	white
+mannose PTS system EIIA component	2.7.1.191	Protein N(pi)-phospho-L-histidine	D-Mannose 6-phosphate	white
+mannose PTS system EIIA component	2.7.1.191	Protein N(pi)-phospho-L-histidine	Protein histidine	white
+mannose PTS system EIIA component	2.7.1.191	Protein histidine	D-Mannose	white
+mannose PTS system EIIA component	2.7.1.191	Protein histidine	Protein N(pi)-phospho-L-histidine	white
+mannose PTS system EIIAB component	2.7.1.191	D-Mannose	D-Mannose 6-phosphate	white
+mannose PTS system EIIAB component	2.7.1.191	D-Mannose	Protein histidine	white
+mannose PTS system EIIAB component	2.7.1.191	D-Mannose 6-phosphate	D-Mannose	white
+mannose PTS system EIIAB component	2.7.1.191	D-Mannose 6-phosphate	Protein N(pi)-phospho-L-histidine	white
+mannose PTS system EIIAB component	2.7.1.191	Protein N(pi)-phospho-L-histidine	D-Mannose 6-phosphate	white
+mannose PTS system EIIAB component	2.7.1.191	Protein N(pi)-phospho-L-histidine	Protein histidine	white
+mannose PTS system EIIAB component	2.7.1.191	Protein histidine	D-Mannose	white
+mannose PTS system EIIAB component	2.7.1.191	Protein histidine	Protein N(pi)-phospho-L-histidine	white
+mannose PTS system EIIC component	2.7.1.191	D-Mannose	D-Mannose 6-phosphate	white
+mannose PTS system EIIC component	2.7.1.191	D-Mannose	Protein histidine	white
+mannose PTS system EIIC component	2.7.1.191	D-Mannose 6-phosphate	D-Mannose	white
+mannose PTS system EIIC component	2.7.1.191	D-Mannose 6-phosphate	Protein N(pi)-phospho-L-histidine	white
+mannose PTS system EIIC component	2.7.1.191	Protein N(pi)-phospho-L-histidine	D-Mannose 6-phosphate	white
+mannose PTS system EIIC component	2.7.1.191	Protein N(pi)-phospho-L-histidine	Protein histidine	white
+mannose PTS system EIIC component	2.7.1.191	Protein histidine	D-Mannose	white
+mannose PTS system EIIC component	2.7.1.191	Protein histidine	Protein N(pi)-phospho-L-histidine	white
+mannose PTS system EIID component	2.7.1.191	D-Mannose	D-Mannose 6-phosphate	white
+mannose PTS system EIID component	2.7.1.191	D-Mannose	Protein histidine	white
+mannose PTS system EIID component	2.7.1.191	D-Mannose 6-phosphate	D-Mannose	white
+mannose PTS system EIID component	2.7.1.191	D-Mannose 6-phosphate	Protein N(pi)-phospho-L-histidine	white
+mannose PTS system EIID component	2.7.1.191	Protein N(pi)-phospho-L-histidine	D-Mannose 6-phosphate	white
+mannose PTS system EIID component	2.7.1.191	Protein N(pi)-phospho-L-histidine	Protein histidine	white
+mannose PTS system EIID component	2.7.1.191	Protein histidine	D-Mannose	white
+mannose PTS system EIID component	2.7.1.191	Protein histidine	Protein N(pi)-phospho-L-histidine	white
+mannose-1-phosphate guanylyltransferase	2.7.7.13	D-Mannose 1-phosphate	Diphosphate	green
+mannose-1-phosphate guanylyltransferase	2.7.7.13	D-Mannose 1-phosphate	GDP-mannose	green
+mannose-1-phosphate guanylyltransferase	2.7.7.13	Diphosphate	D-Mannose 1-phosphate	green
+mannose-1-phosphate guanylyltransferase	2.7.7.13	Diphosphate	GTP	green
+mannose-1-phosphate guanylyltransferase	2.7.7.13	GDP-mannose	D-Mannose 1-phosphate	green
+mannose-1-phosphate guanylyltransferase	2.7.7.13	GDP-mannose	GTP	green
+mannose-1-phosphate guanylyltransferase	2.7.7.13	GTP	Diphosphate	green
+mannose-1-phosphate guanylyltransferase	2.7.7.13	GTP	GDP-mannose	green
+mannose-6-phosphate isomerase	5.3.1.8	D-Fructose 6-phosphate	D-Mannose 6-phosphate	green
+mannose-6-phosphate isomerase	5.3.1.8	D-Mannose 6-phosphate	D-Fructose 6-phosphate	green
+non-reducing end alpha-L-arabinofuranosidase	3.2.1.55	Arabinan	Arabinan	white
+non-reducing end alpha-L-arabinofuranosidase	3.2.1.55	Arabinan	H2O	white
+non-reducing end alpha-L-arabinofuranosidase	3.2.1.55	Arabinan	L-Arabinose	white
+non-reducing end alpha-L-arabinofuranosidase	3.2.1.55	H2O	Arabinan	white
+non-reducing end alpha-L-arabinofuranosidase	3.2.1.55	H2O	L-Arabinose	white
+non-reducing end alpha-L-arabinofuranosidase	3.2.1.55	L-Arabinose	Arabinan	white
+non-reducing end alpha-L-arabinofuranosidase	3.2.1.55	L-Arabinose	H2O	white
+phosphoacetylglucosamine mutase	5.4.2.3	N-Acetyl-D-glucosamine 6-phosphate	N-Acetyl-alpha-D-glucosamine 1-phosphate	white
+phosphoacetylglucosamine mutase	5.4.2.3	N-Acetyl-alpha-D-glucosamine 1-phosphate	N-Acetyl-D-glucosamine 6-phosphate	white
+phosphogalactosamine/phosphoglucosamine mutase	5.4.2.13	D-Glucosamine 6-phosphate	alpha-D-Glucosamine 1-phosphate	white
+phosphogalactosamine/phosphoglucosamine mutase	5.4.2.13	alpha-D-Glucosamine 1-phosphate	D-Glucosamine 6-phosphate	white
+phosphoglucomutase	5.4.2.2	D-Glucose 1-phosphate	alpha-D-Glucose 6-phosphate	green
+phosphoglucomutase	5.4.2.2	alpha-D-Glucose 6-phosphate	D-Glucose 1-phosphate	green
+phosphoglucosamine mutase	5.4.2.10	D-Glucosamine 6-phosphate	alpha-D-Glucosamine 1-phosphate	green
+phosphoglucosamine mutase	5.4.2.10	alpha-D-Glucosamine 1-phosphate	D-Glucosamine 6-phosphate	green
+phosphomannomutase	5.4.2.8	D-Mannose 1-phosphate	D-Mannose 6-phosphate	green
+phosphomannomutase	5.4.2.8	D-Mannose 6-phosphate	D-Mannose 1-phosphate	green
+polyphosphate glucokinase	2.7.1.63	Polyphosphate	Polyphosphate	green
+polyphosphate glucokinase	2.7.1.63	Polyphosphate	alpha-D-Glucose 6-phosphate	green
+polyphosphate glucokinase	2.7.1.63	alpha-D-Glucose	Polyphosphate	green
+polyphosphate glucokinase	2.7.1.63	alpha-D-Glucose	alpha-D-Glucose 6-phosphate	green
+reversibly glycosylated polypeptide / UDP-arabinopyranose mutase	2.4.1.-	UDP-L-arabinofuranose	UDP-L-arabinose	white
+reversibly glycosylated polypeptide / UDP-arabinopyranose mutase	2.4.1.-	UDP-L-arabinose	UDP-L-arabinofuranose	white
+sugar PTS system EIIA component	2.7.1.-	D-Glucose	Protein histidine	green
+sugar PTS system EIIA component	2.7.1.-	D-Glucose	alpha-D-Glucose 6-phosphate	green
+sugar PTS system EIIA component	2.7.1.-	N-Acetyl-D-glucosamine	N-Acetyl-D-glucosamine 6-phosphate	green
+sugar PTS system EIIA component	2.7.1.-	N-Acetyl-D-glucosamine	Protein histidine	green
+sugar PTS system EIIA component	2.7.1.-	N-Acetylmuramate	N-Acetylmuramic acid 6-phosphate	green
+sugar PTS system EIIA component	2.7.1.-	N-Acetylmuramate	Protein histidine	green
+sugar PTS system EIIA component	2.7.1.-	Protein N(pi)-phospho-L-histidine	N-Acetyl-D-glucosamine 6-phosphate	green
+sugar PTS system EIIA component	2.7.1.-	Protein N(pi)-phospho-L-histidine	N-Acetylmuramic acid 6-phosphate	green
+sugar PTS system EIIA component	2.7.1.-	Protein N(pi)-phospho-L-histidine	Protein histidine	green
+sugar PTS system EIIA component	2.7.1.-	Protein N(pi)-phospho-L-histidine	alpha-D-Glucose 6-phosphate	green
+xylan 1,4-beta-xylosidase	3.2.1.37	1,4-beta-D-Xylan	1,4-beta-D-Xylan	white
+xylan 1,4-beta-xylosidase	3.2.1.37	1,4-beta-D-Xylan	D-Xylose	white
+xylan 1,4-beta-xylosidase	3.2.1.37	1,4-beta-D-Xylan	H2O	white
+xylan 1,4-beta-xylosidase	3.2.1.37	D-Xylose	1,4-beta-D-Xylan	white
+xylan 1,4-beta-xylosidase	3.2.1.37	D-Xylose	H2O	white
+xylan 1,4-beta-xylosidase	3.2.1.37	H2O	1,4-beta-D-Xylan	white
+xylan 1,4-beta-xylosidase	3.2.1.37	H2O	D-Xylose	white

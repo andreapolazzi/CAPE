@@ -1,0 +1,858 @@
+enzyme_name	EC	source	target	color
+(R)-2-hydroxyglutarate dehydrogenase	1.1.-.-	(R)-2-Hydroxyglutarate	2-Oxoglutarate	white
+(R)-2-hydroxyglutarate dehydrogenase	1.1.-.-	2-Oxoglutarate	(R)-2-Hydroxyglutarate	white
+(S)-2-hydroxyglutarate dehydrogenase	1.1.5.13	(S)-2-Hydroxyglutarate	2-Oxoglutarate	white
+(S)-2-hydroxyglutarate dehydrogenase	1.1.5.13	(S)-2-Hydroxyglutarate	Hydroquinone	white
+(S)-2-hydroxyglutarate dehydrogenase	1.1.5.13	2-Oxoglutarate	(S)-2-Hydroxyglutarate	white
+(S)-2-hydroxyglutarate dehydrogenase	1.1.5.13	2-Oxoglutarate	Quinone	white
+(S)-2-hydroxyglutarate dehydrogenase	1.1.5.13	Hydroquinone	(S)-2-Hydroxyglutarate	white
+(S)-2-hydroxyglutarate dehydrogenase	1.1.5.13	Hydroquinone	Quinone	white
+(S)-2-hydroxyglutarate dehydrogenase	1.1.5.13	Quinone	2-Oxoglutarate	white
+(S)-2-hydroxyglutarate dehydrogenase	1.1.5.13	Quinone	Hydroquinone	white
+1-piperideine-2-carboxylate/1-pyrroline-2-carboxylate reductase [NAD(P)H]	1.5.1.1	1-Pyrroline-2-carboxylate	L-Proline	white
+1-piperideine-2-carboxylate/1-pyrroline-2-carboxylate reductase [NAD(P)H]	1.5.1.1	1-Pyrroline-2-carboxylate	NAD+	white
+1-piperideine-2-carboxylate/1-pyrroline-2-carboxylate reductase [NAD(P)H]	1.5.1.1	H+	L-Proline	white
+1-piperideine-2-carboxylate/1-pyrroline-2-carboxylate reductase [NAD(P)H]	1.5.1.1	H+	NAD+	white
+1-piperideine-2-carboxylate/1-pyrroline-2-carboxylate reductase [NAD(P)H]	1.5.1.1	L-Proline	1-Pyrroline-2-carboxylate	white
+1-piperideine-2-carboxylate/1-pyrroline-2-carboxylate reductase [NAD(P)H]	1.5.1.1	L-Proline	H+	white
+1-piperideine-2-carboxylate/1-pyrroline-2-carboxylate reductase [NAD(P)H]	1.5.1.1	L-Proline	NADH	white
+1-piperideine-2-carboxylate/1-pyrroline-2-carboxylate reductase [NAD(P)H]	1.5.1.1	NAD+	1-Pyrroline-2-carboxylate	white
+1-piperideine-2-carboxylate/1-pyrroline-2-carboxylate reductase [NAD(P)H]	1.5.1.1	NAD+	H+	white
+1-piperideine-2-carboxylate/1-pyrroline-2-carboxylate reductase [NAD(P)H]	1.5.1.1	NAD+	NADH	white
+1-piperideine-2-carboxylate/1-pyrroline-2-carboxylate reductase [NAD(P)H]	1.5.1.1	NADH	L-Proline	white
+1-piperideine-2-carboxylate/1-pyrroline-2-carboxylate reductase [NAD(P)H]	1.5.1.1	NADH	NAD+	white
+2,4-diaminopentanoate dehydrogenase	1.4.1.12	5-Aminopentanoate	D-Proline	white
+2,4-diaminopentanoate dehydrogenase	1.4.1.12	D-Proline	5-Aminopentanoate	white
+2-aminoadipate transaminase	2.6.1.-	Glycine	Glyoxylate	white
+2-aminoadipate transaminase	2.6.1.-	Glycine	L-Alanine	white
+2-aminoadipate transaminase	2.6.1.-	Glyoxylate	Glycine	white
+2-aminoadipate transaminase	2.6.1.-	Glyoxylate	Pyruvate	white
+2-aminoadipate transaminase	2.6.1.-	L-Alanine	Glycine	white
+2-aminoadipate transaminase	2.6.1.-	L-Alanine	Pyruvate	white
+2-aminoadipate transaminase	2.6.1.-	Pyruvate	Glyoxylate	white
+2-aminoadipate transaminase	2.6.1.-	Pyruvate	L-Alanine	white
+2-oxoadipate dehydrogenase E1 component	1.2.4.-	2-Oxoadipate	CO2	white
+2-oxoadipate dehydrogenase E1 component	1.2.4.-	2-Oxoadipate	Glutaryl-CoA	white
+2-oxoadipate dehydrogenase E1 component	1.2.4.-	2-Oxoadipate	H+	white
+2-oxoadipate dehydrogenase E1 component	1.2.4.-	2-Oxoadipate	NADH	white
+2-oxoadipate dehydrogenase E1 component	1.2.4.-	CO2	2-Oxoadipate	white
+2-oxoadipate dehydrogenase E1 component	1.2.4.-	CO2	CoA	white
+2-oxoadipate dehydrogenase E1 component	1.2.4.-	CO2	NAD+	white
+2-oxoadipate dehydrogenase E1 component	1.2.4.-	CoA	CO2	white
+2-oxoadipate dehydrogenase E1 component	1.2.4.-	CoA	Glutaryl-CoA	white
+2-oxoadipate dehydrogenase E1 component	1.2.4.-	CoA	H+	white
+2-oxoadipate dehydrogenase E1 component	1.2.4.-	CoA	NADH	white
+2-oxoadipate dehydrogenase E1 component	1.2.4.-	Glutaryl-CoA	2-Oxoadipate	white
+2-oxoadipate dehydrogenase E1 component	1.2.4.-	Glutaryl-CoA	CoA	white
+2-oxoadipate dehydrogenase E1 component	1.2.4.-	Glutaryl-CoA	NAD+	white
+2-oxoadipate dehydrogenase E1 component	1.2.4.-	H+	2-Oxoadipate	white
+2-oxoadipate dehydrogenase E1 component	1.2.4.-	H+	CoA	white
+2-oxoadipate dehydrogenase E1 component	1.2.4.-	H+	NAD+	white
+2-oxoadipate dehydrogenase E1 component	1.2.4.-	NAD+	CO2	white
+2-oxoadipate dehydrogenase E1 component	1.2.4.-	NAD+	Glutaryl-CoA	white
+2-oxoadipate dehydrogenase E1 component	1.2.4.-	NAD+	H+	white
+2-oxoadipate dehydrogenase E1 component	1.2.4.-	NAD+	NADH	white
+2-oxoadipate dehydrogenase E1 component	1.2.4.-	NADH	2-Oxoadipate	white
+2-oxoadipate dehydrogenase E1 component	1.2.4.-	NADH	CoA	white
+2-oxoadipate dehydrogenase E1 component	1.2.4.-	NADH	NAD+	white
+2-oxoadipate dioxygenase/decarboxylase	1.13.11.93	(R)-2-Hydroxyglutarate	2-Oxoadipate	white
+2-oxoadipate dioxygenase/decarboxylase	1.13.11.93	(R)-2-Hydroxyglutarate	Oxygen	white
+2-oxoadipate dioxygenase/decarboxylase	1.13.11.93	2-Oxoadipate	(R)-2-Hydroxyglutarate	white
+2-oxoadipate dioxygenase/decarboxylase	1.13.11.93	2-Oxoadipate	CO2	white
+2-oxoadipate dioxygenase/decarboxylase	1.13.11.93	CO2	2-Oxoadipate	white
+2-oxoadipate dioxygenase/decarboxylase	1.13.11.93	CO2	Oxygen	white
+2-oxoadipate dioxygenase/decarboxylase	1.13.11.93	Oxygen	(R)-2-Hydroxyglutarate	white
+2-oxoadipate dioxygenase/decarboxylase	1.13.11.93	Oxygen	CO2	white
+2-oxoglutarate dehydrogenase E2 component (dihydrolipoamide succinyltransferase)	2.3.1.61	2-Oxoadipate	CO2	white
+2-oxoglutarate dehydrogenase E2 component (dihydrolipoamide succinyltransferase)	2.3.1.61	2-Oxoadipate	Glutaryl-CoA	white
+2-oxoglutarate dehydrogenase E2 component (dihydrolipoamide succinyltransferase)	2.3.1.61	2-Oxoadipate	H+	white
+2-oxoglutarate dehydrogenase E2 component (dihydrolipoamide succinyltransferase)	2.3.1.61	2-Oxoadipate	NADH	white
+2-oxoglutarate dehydrogenase E2 component (dihydrolipoamide succinyltransferase)	2.3.1.61	CO2	2-Oxoadipate	white
+2-oxoglutarate dehydrogenase E2 component (dihydrolipoamide succinyltransferase)	2.3.1.61	CO2	CoA	white
+2-oxoglutarate dehydrogenase E2 component (dihydrolipoamide succinyltransferase)	2.3.1.61	CO2	NAD+	white
+2-oxoglutarate dehydrogenase E2 component (dihydrolipoamide succinyltransferase)	2.3.1.61	CoA	CO2	white
+2-oxoglutarate dehydrogenase E2 component (dihydrolipoamide succinyltransferase)	2.3.1.61	CoA	Glutaryl-CoA	white
+2-oxoglutarate dehydrogenase E2 component (dihydrolipoamide succinyltransferase)	2.3.1.61	CoA	H+	white
+2-oxoglutarate dehydrogenase E2 component (dihydrolipoamide succinyltransferase)	2.3.1.61	CoA	NADH	white
+2-oxoglutarate dehydrogenase E2 component (dihydrolipoamide succinyltransferase)	2.3.1.61	Glutaryl-CoA	2-Oxoadipate	white
+2-oxoglutarate dehydrogenase E2 component (dihydrolipoamide succinyltransferase)	2.3.1.61	Glutaryl-CoA	CoA	white
+2-oxoglutarate dehydrogenase E2 component (dihydrolipoamide succinyltransferase)	2.3.1.61	Glutaryl-CoA	NAD+	white
+2-oxoglutarate dehydrogenase E2 component (dihydrolipoamide succinyltransferase)	2.3.1.61	H+	2-Oxoadipate	white
+2-oxoglutarate dehydrogenase E2 component (dihydrolipoamide succinyltransferase)	2.3.1.61	H+	CoA	white
+2-oxoglutarate dehydrogenase E2 component (dihydrolipoamide succinyltransferase)	2.3.1.61	H+	NAD+	white
+2-oxoglutarate dehydrogenase E2 component (dihydrolipoamide succinyltransferase)	2.3.1.61	NAD+	CO2	white
+2-oxoglutarate dehydrogenase E2 component (dihydrolipoamide succinyltransferase)	2.3.1.61	NAD+	Glutaryl-CoA	white
+2-oxoglutarate dehydrogenase E2 component (dihydrolipoamide succinyltransferase)	2.3.1.61	NAD+	H+	white
+2-oxoglutarate dehydrogenase E2 component (dihydrolipoamide succinyltransferase)	2.3.1.61	NAD+	NADH	white
+2-oxoglutarate dehydrogenase E2 component (dihydrolipoamide succinyltransferase)	2.3.1.61	NADH	2-Oxoadipate	white
+2-oxoglutarate dehydrogenase E2 component (dihydrolipoamide succinyltransferase)	2.3.1.61	NADH	CoA	white
+2-oxoglutarate dehydrogenase E2 component (dihydrolipoamide succinyltransferase)	2.3.1.61	NADH	NAD+	white
+3-aminobutyryl-CoA ammonia-lyase	4.3.1.14	L-3-Aminobutyryl-CoA	Ammonia	green
+3-aminobutyryl-CoA ammonia-lyase	4.3.1.14	L-3-Aminobutyryl-CoA	Crotonoyl-CoA	green
+3-hydroxyacyl-CoA dehydrogenase / enoyl-CoA hydratase / 3-hydroxybutyryl-CoA epimerase	1.1.1.35	(S)-3-Hydroxybutanoyl-CoA	Acetoacetyl-CoA	green
+3-hydroxyacyl-CoA dehydrogenase / enoyl-CoA hydratase / 3-hydroxybutyryl-CoA epimerase	1.1.1.35	(S)-3-Hydroxybutanoyl-CoA	Crotonoyl-CoA	green
+3-hydroxyacyl-CoA dehydrogenase / enoyl-CoA hydratase / 3-hydroxybutyryl-CoA epimerase	1.1.1.35	(S)-3-Hydroxybutanoyl-CoA	H+	green
+3-hydroxyacyl-CoA dehydrogenase / enoyl-CoA hydratase / 3-hydroxybutyryl-CoA epimerase	1.1.1.35	(S)-3-Hydroxybutanoyl-CoA	H2O	green
+3-hydroxyacyl-CoA dehydrogenase / enoyl-CoA hydratase / 3-hydroxybutyryl-CoA epimerase	1.1.1.35	(S)-3-Hydroxybutanoyl-CoA	NADH	green
+3-hydroxyacyl-CoA dehydrogenase / enoyl-CoA hydratase / 3-hydroxybutyryl-CoA epimerase	1.1.1.35	Acetoacetyl-CoA	(S)-3-Hydroxybutanoyl-CoA	green
+3-hydroxyacyl-CoA dehydrogenase / enoyl-CoA hydratase / 3-hydroxybutyryl-CoA epimerase	1.1.1.35	Acetoacetyl-CoA	NAD+	green
+3-hydroxyacyl-CoA dehydrogenase / enoyl-CoA hydratase / 3-hydroxybutyryl-CoA epimerase	1.1.1.35	H+	(S)-3-Hydroxybutanoyl-CoA	green
+3-hydroxyacyl-CoA dehydrogenase / enoyl-CoA hydratase / 3-hydroxybutyryl-CoA epimerase	1.1.1.35	H+	NAD+	green
+3-hydroxyacyl-CoA dehydrogenase / enoyl-CoA hydratase / 3-hydroxybutyryl-CoA epimerase	1.1.1.35	NAD+	Acetoacetyl-CoA	green
+3-hydroxyacyl-CoA dehydrogenase / enoyl-CoA hydratase / 3-hydroxybutyryl-CoA epimerase	1.1.1.35	NAD+	H+	green
+3-hydroxyacyl-CoA dehydrogenase / enoyl-CoA hydratase / 3-hydroxybutyryl-CoA epimerase	1.1.1.35	NAD+	NADH	green
+3-hydroxyacyl-CoA dehydrogenase / enoyl-CoA hydratase / 3-hydroxybutyryl-CoA epimerase	1.1.1.35	NADH	(S)-3-Hydroxybutanoyl-CoA	green
+3-hydroxyacyl-CoA dehydrogenase / enoyl-CoA hydratase / 3-hydroxybutyryl-CoA epimerase	1.1.1.35	NADH	NAD+	green
+3-keto-5-aminohexanoate cleavage enzyme	2.3.1.247	(S)-5-Amino-3-oxohexanoic acid	Acetoacetate	white
+3-keto-5-aminohexanoate cleavage enzyme	2.3.1.247	(S)-5-Amino-3-oxohexanoic acid	L-3-Aminobutyryl-CoA	white
+3-keto-5-aminohexanoate cleavage enzyme	2.3.1.247	Acetoacetate	(S)-5-Amino-3-oxohexanoic acid	white
+3-keto-5-aminohexanoate cleavage enzyme	2.3.1.247	Acetoacetate	Acetyl-CoA	white
+3-keto-5-aminohexanoate cleavage enzyme	2.3.1.247	Acetyl-CoA	Acetoacetate	white
+3-keto-5-aminohexanoate cleavage enzyme	2.3.1.247	Acetyl-CoA	L-3-Aminobutyryl-CoA	white
+3-keto-5-aminohexanoate cleavage enzyme	2.3.1.247	L-3-Aminobutyryl-CoA	(S)-5-Amino-3-oxohexanoic acid	white
+3-keto-5-aminohexanoate cleavage enzyme	2.3.1.247	L-3-Aminobutyryl-CoA	Acetyl-CoA	white
+4-aminobutyrate aminotransferase / (S)-3-amino-2-methylpropionate transaminase / 5-aminovalerate transaminase	2.6.1.19	2-Oxoglutarate	5-Oxopentanoate	green
+4-aminobutyrate aminotransferase / (S)-3-amino-2-methylpropionate transaminase / 5-aminovalerate transaminase	2.6.1.19	2-Oxoglutarate	L-Glutamate	green
+4-aminobutyrate aminotransferase / (S)-3-amino-2-methylpropionate transaminase / 5-aminovalerate transaminase	2.6.1.19	5-Aminopentanoate	5-Oxopentanoate	green
+4-aminobutyrate aminotransferase / (S)-3-amino-2-methylpropionate transaminase / 5-aminovalerate transaminase	2.6.1.19	5-Aminopentanoate	L-Glutamate	green
+4-aminobutyrate aminotransferase / (S)-3-amino-2-methylpropionate transaminase / 5-aminovalerate transaminase	2.6.1.19	5-Oxopentanoate	2-Oxoglutarate	green
+4-aminobutyrate aminotransferase / (S)-3-amino-2-methylpropionate transaminase / 5-aminovalerate transaminase	2.6.1.19	5-Oxopentanoate	5-Aminopentanoate	green
+4-aminobutyrate aminotransferase / (S)-3-amino-2-methylpropionate transaminase / 5-aminovalerate transaminase	2.6.1.19	L-Glutamate	2-Oxoglutarate	green
+4-aminobutyrate aminotransferase / (S)-3-amino-2-methylpropionate transaminase / 5-aminovalerate transaminase	2.6.1.19	L-Glutamate	5-Aminopentanoate	green
+5-aminopentanamidase	3.5.1.30	5-Aminopentanamide	5-Aminopentanoate	green
+5-aminopentanamidase	3.5.1.30	5-Aminopentanamide	Ammonia	green
+5-aminopentanamidase	3.5.1.30	H2O	5-Aminopentanoate	green
+5-aminopentanamidase	3.5.1.30	H2O	Ammonia	green
+5-phosphonooxy-L-lysine phospho-lyase	4.2.3.134	5-Phosphooxy-L-lysine	Ammonia	white
+5-phosphonooxy-L-lysine phospho-lyase	4.2.3.134	5-Phosphooxy-L-lysine	L-2-Aminoadipate 6-semialdehyde	white
+5-phosphonooxy-L-lysine phospho-lyase	4.2.3.134	5-Phosphooxy-L-lysine	Orthophosphate	white
+5-phosphonooxy-L-lysine phospho-lyase	4.2.3.134	Ammonia	5-Phosphooxy-L-lysine	white
+5-phosphonooxy-L-lysine phospho-lyase	4.2.3.134	Ammonia	H2O	white
+5-phosphonooxy-L-lysine phospho-lyase	4.2.3.134	H2O	Ammonia	white
+5-phosphonooxy-L-lysine phospho-lyase	4.2.3.134	H2O	L-2-Aminoadipate 6-semialdehyde	white
+5-phosphonooxy-L-lysine phospho-lyase	4.2.3.134	H2O	Orthophosphate	white
+5-phosphonooxy-L-lysine phospho-lyase	4.2.3.134	L-2-Aminoadipate 6-semialdehyde	5-Phosphooxy-L-lysine	white
+5-phosphonooxy-L-lysine phospho-lyase	4.2.3.134	L-2-Aminoadipate 6-semialdehyde	H2O	white
+5-phosphonooxy-L-lysine phospho-lyase	4.2.3.134	Orthophosphate	5-Phosphooxy-L-lysine	white
+5-phosphonooxy-L-lysine phospho-lyase	4.2.3.134	Orthophosphate	H2O	white
+D-alanine transaminase	2.6.1.21	2-Oxoglutarate	D-Glutamate	white
+D-alanine transaminase	2.6.1.21	2-Oxoglutarate	Pyruvate	white
+D-alanine transaminase	2.6.1.21	D-Alanine	D-Glutamate	white
+D-alanine transaminase	2.6.1.21	D-Alanine	Pyruvate	white
+D-alanine transaminase	2.6.1.21	D-Glutamate	2-Oxoglutarate	white
+D-alanine transaminase	2.6.1.21	D-Glutamate	D-Alanine	white
+D-alanine transaminase	2.6.1.21	Pyruvate	2-Oxoglutarate	white
+D-alanine transaminase	2.6.1.21	Pyruvate	D-Alanine	white
+D-lysine oxidase	5.4.3.2	6-Amino-2-oxohexanoate	D-Lysine	white
+D-lysine oxidase	5.4.3.2	D-Lysine	6-Amino-2-oxohexanoate	white
+D-ornithine/D-lysine decarboxylase	4.1.1.116	CO2	D-Ornithine	white
+D-ornithine/D-lysine decarboxylase	4.1.1.116	D-Ornithine	CO2	white
+D-ornithine/D-lysine decarboxylase	4.1.1.116	D-Ornithine	Putrescine	white
+D-ornithine/D-lysine decarboxylase	4.1.1.116	Putrescine	D-Ornithine	white
+L-aminoadipate-semialdehyde dehydrogenase	1.2.1.19	L-2-Aminoadipate 6-semialdehyde	L-2-Aminoadipate	green
+L-erythro-3,5-diaminohexanoate dehydrogenase	1.4.1.11	(3S,5S)-3,5-Diaminohexanoate	(S)-5-Amino-3-oxohexanoic acid	white
+L-erythro-3,5-diaminohexanoate dehydrogenase	1.4.1.11	(3S,5S)-3,5-Diaminohexanoate	Ammonia	white
+L-erythro-3,5-diaminohexanoate dehydrogenase	1.4.1.11	(3S,5S)-3,5-Diaminohexanoate	H+	white
+L-erythro-3,5-diaminohexanoate dehydrogenase	1.4.1.11	(3S,5S)-3,5-Diaminohexanoate	NADH	white
+L-erythro-3,5-diaminohexanoate dehydrogenase	1.4.1.11	(S)-5-Amino-3-oxohexanoic acid	(3S,5S)-3,5-Diaminohexanoate	white
+L-erythro-3,5-diaminohexanoate dehydrogenase	1.4.1.11	(S)-5-Amino-3-oxohexanoic acid	H2O	white
+L-erythro-3,5-diaminohexanoate dehydrogenase	1.4.1.11	(S)-5-Amino-3-oxohexanoic acid	NAD+	white
+L-erythro-3,5-diaminohexanoate dehydrogenase	1.4.1.11	Ammonia	(3S,5S)-3,5-Diaminohexanoate	white
+L-erythro-3,5-diaminohexanoate dehydrogenase	1.4.1.11	Ammonia	H2O	white
+L-erythro-3,5-diaminohexanoate dehydrogenase	1.4.1.11	Ammonia	NAD+	white
+L-erythro-3,5-diaminohexanoate dehydrogenase	1.4.1.11	H+	(3S,5S)-3,5-Diaminohexanoate	white
+L-erythro-3,5-diaminohexanoate dehydrogenase	1.4.1.11	H+	H2O	white
+L-erythro-3,5-diaminohexanoate dehydrogenase	1.4.1.11	H+	NAD+	white
+L-erythro-3,5-diaminohexanoate dehydrogenase	1.4.1.11	H2O	(S)-5-Amino-3-oxohexanoic acid	white
+L-erythro-3,5-diaminohexanoate dehydrogenase	1.4.1.11	H2O	Ammonia	white
+L-erythro-3,5-diaminohexanoate dehydrogenase	1.4.1.11	H2O	H+	white
+L-erythro-3,5-diaminohexanoate dehydrogenase	1.4.1.11	H2O	NADH	white
+L-erythro-3,5-diaminohexanoate dehydrogenase	1.4.1.11	NAD+	(S)-5-Amino-3-oxohexanoic acid	white
+L-erythro-3,5-diaminohexanoate dehydrogenase	1.4.1.11	NAD+	Ammonia	white
+L-erythro-3,5-diaminohexanoate dehydrogenase	1.4.1.11	NAD+	H+	white
+L-erythro-3,5-diaminohexanoate dehydrogenase	1.4.1.11	NAD+	NADH	white
+L-erythro-3,5-diaminohexanoate dehydrogenase	1.4.1.11	NADH	(3S,5S)-3,5-Diaminohexanoate	white
+L-erythro-3,5-diaminohexanoate dehydrogenase	1.4.1.11	NADH	H2O	white
+L-erythro-3,5-diaminohexanoate dehydrogenase	1.4.1.11	NADH	NAD+	white
+L-pipecolate oxidase	1.1.-.-	(S)-2,3,4,5-Tetrahydropyridine-2-carboxylate	L-Pipecolate	white
+L-pipecolate oxidase	1.1.-.-	L-Pipecolate	(S)-2,3,4,5-Tetrahydropyridine-2-carboxylate	white
+[cytochrome c]-lysine N-methyltransferase	2.1.1.59	Protein N6-methyl-L-lysine	Protein lysine	white
+[cytochrome c]-lysine N-methyltransferase	2.1.1.59	Protein N6-methyl-L-lysine	S-Adenosyl-L-methionine	white
+[cytochrome c]-lysine N-methyltransferase	2.1.1.59	Protein lysine	Protein N6-methyl-L-lysine	white
+[cytochrome c]-lysine N-methyltransferase	2.1.1.59	Protein lysine	S-Adenosyl-L-homocysteine	white
+[cytochrome c]-lysine N-methyltransferase	2.1.1.59	S-Adenosyl-L-homocysteine	Protein lysine	white
+[cytochrome c]-lysine N-methyltransferase	2.1.1.59	S-Adenosyl-L-homocysteine	S-Adenosyl-L-methionine	white
+[cytochrome c]-lysine N-methyltransferase	2.1.1.59	S-Adenosyl-L-methionine	Protein N6-methyl-L-lysine	white
+[cytochrome c]-lysine N-methyltransferase	2.1.1.59	S-Adenosyl-L-methionine	S-Adenosyl-L-homocysteine	white
+[histone H3]-N6,N6-dimethyl-lysine9 N-methyltransferase	2.1.1.366	Protein N6,N6,N6-trimethyl-L-lysine	Protein N6,N6-dimethyl-L-lysine	white
+[histone H3]-N6,N6-dimethyl-lysine9 N-methyltransferase	2.1.1.366	Protein N6,N6,N6-trimethyl-L-lysine	S-Adenosyl-L-methionine	white
+[histone H3]-N6,N6-dimethyl-lysine9 N-methyltransferase	2.1.1.366	Protein N6,N6-dimethyl-L-lysine	Protein N6,N6,N6-trimethyl-L-lysine	white
+[histone H3]-N6,N6-dimethyl-lysine9 N-methyltransferase	2.1.1.366	Protein N6,N6-dimethyl-L-lysine	S-Adenosyl-L-homocysteine	white
+[histone H3]-N6,N6-dimethyl-lysine9 N-methyltransferase	2.1.1.366	S-Adenosyl-L-homocysteine	Protein N6,N6-dimethyl-L-lysine	white
+[histone H3]-N6,N6-dimethyl-lysine9 N-methyltransferase	2.1.1.366	S-Adenosyl-L-homocysteine	S-Adenosyl-L-methionine	white
+[histone H3]-N6,N6-dimethyl-lysine9 N-methyltransferase	2.1.1.366	S-Adenosyl-L-methionine	Protein N6,N6,N6-trimethyl-L-lysine	white
+[histone H3]-N6,N6-dimethyl-lysine9 N-methyltransferase	2.1.1.366	S-Adenosyl-L-methionine	S-Adenosyl-L-homocysteine	white
+[histone H3]-lysine27 N-methyltransferase	2.1.1.369	Protein N6-methyl-L-lysine	Protein lysine	white
+[histone H3]-lysine27 N-methyltransferase	2.1.1.369	Protein N6-methyl-L-lysine	S-Adenosyl-L-methionine	white
+[histone H3]-lysine27 N-methyltransferase	2.1.1.369	Protein lysine	Protein N6-methyl-L-lysine	white
+[histone H3]-lysine27 N-methyltransferase	2.1.1.369	Protein lysine	S-Adenosyl-L-homocysteine	white
+[histone H3]-lysine27 N-methyltransferase	2.1.1.369	S-Adenosyl-L-homocysteine	Protein lysine	white
+[histone H3]-lysine27 N-methyltransferase	2.1.1.369	S-Adenosyl-L-homocysteine	S-Adenosyl-L-methionine	white
+[histone H3]-lysine27 N-methyltransferase	2.1.1.369	S-Adenosyl-L-methionine	Protein N6-methyl-L-lysine	white
+[histone H3]-lysine27 N-methyltransferase	2.1.1.369	S-Adenosyl-L-methionine	S-Adenosyl-L-homocysteine	white
+[histone H3]-lysine27 N-trimethyltransferase EZH1	2.1.1.356	Protein N6-methyl-L-lysine	Protein lysine	white
+[histone H3]-lysine27 N-trimethyltransferase EZH1	2.1.1.356	Protein N6-methyl-L-lysine	S-Adenosyl-L-methionine	white
+[histone H3]-lysine27 N-trimethyltransferase EZH1	2.1.1.356	Protein lysine	Protein N6-methyl-L-lysine	white
+[histone H3]-lysine27 N-trimethyltransferase EZH1	2.1.1.356	Protein lysine	S-Adenosyl-L-homocysteine	white
+[histone H3]-lysine27 N-trimethyltransferase EZH1	2.1.1.356	S-Adenosyl-L-homocysteine	Protein lysine	white
+[histone H3]-lysine27 N-trimethyltransferase EZH1	2.1.1.356	S-Adenosyl-L-homocysteine	S-Adenosyl-L-methionine	white
+[histone H3]-lysine27 N-trimethyltransferase EZH1	2.1.1.356	S-Adenosyl-L-methionine	Protein N6-methyl-L-lysine	white
+[histone H3]-lysine27 N-trimethyltransferase EZH1	2.1.1.356	S-Adenosyl-L-methionine	S-Adenosyl-L-homocysteine	white
+[histone H3]-lysine27 N-trimethyltransferase EZH2	2.1.1.356	Protein N6-methyl-L-lysine	Protein lysine	white
+[histone H3]-lysine27 N-trimethyltransferase EZH2	2.1.1.356	Protein N6-methyl-L-lysine	S-Adenosyl-L-methionine	white
+[histone H3]-lysine27 N-trimethyltransferase EZH2	2.1.1.356	Protein lysine	Protein N6-methyl-L-lysine	white
+[histone H3]-lysine27 N-trimethyltransferase EZH2	2.1.1.356	Protein lysine	S-Adenosyl-L-homocysteine	white
+[histone H3]-lysine27 N-trimethyltransferase EZH2	2.1.1.356	S-Adenosyl-L-homocysteine	Protein lysine	white
+[histone H3]-lysine27 N-trimethyltransferase EZH2	2.1.1.356	S-Adenosyl-L-homocysteine	S-Adenosyl-L-methionine	white
+[histone H3]-lysine27 N-trimethyltransferase EZH2	2.1.1.356	S-Adenosyl-L-methionine	Protein N6-methyl-L-lysine	white
+[histone H3]-lysine27 N-trimethyltransferase EZH2	2.1.1.356	S-Adenosyl-L-methionine	S-Adenosyl-L-homocysteine	white
+[histone H3]-lysine36 N-dimethyltransferase NSD1	2.1.1.357	Protein N6-methyl-L-lysine	Protein lysine	white
+[histone H3]-lysine36 N-dimethyltransferase NSD1	2.1.1.357	Protein N6-methyl-L-lysine	S-Adenosyl-L-methionine	white
+[histone H3]-lysine36 N-dimethyltransferase NSD1	2.1.1.357	Protein lysine	Protein N6-methyl-L-lysine	white
+[histone H3]-lysine36 N-dimethyltransferase NSD1	2.1.1.357	Protein lysine	S-Adenosyl-L-homocysteine	white
+[histone H3]-lysine36 N-dimethyltransferase NSD1	2.1.1.357	S-Adenosyl-L-homocysteine	Protein lysine	white
+[histone H3]-lysine36 N-dimethyltransferase NSD1	2.1.1.357	S-Adenosyl-L-homocysteine	S-Adenosyl-L-methionine	white
+[histone H3]-lysine36 N-dimethyltransferase NSD1	2.1.1.357	S-Adenosyl-L-methionine	Protein N6-methyl-L-lysine	white
+[histone H3]-lysine36 N-dimethyltransferase NSD1	2.1.1.357	S-Adenosyl-L-methionine	S-Adenosyl-L-homocysteine	white
+[histone H3]-lysine36 N-dimethyltransferase NSD2	2.1.1.357	Protein N6-methyl-L-lysine	Protein lysine	white
+[histone H3]-lysine36 N-dimethyltransferase NSD2	2.1.1.357	Protein N6-methyl-L-lysine	S-Adenosyl-L-methionine	white
+[histone H3]-lysine36 N-dimethyltransferase NSD2	2.1.1.357	Protein lysine	Protein N6-methyl-L-lysine	white
+[histone H3]-lysine36 N-dimethyltransferase NSD2	2.1.1.357	Protein lysine	S-Adenosyl-L-homocysteine	white
+[histone H3]-lysine36 N-dimethyltransferase NSD2	2.1.1.357	S-Adenosyl-L-homocysteine	Protein lysine	white
+[histone H3]-lysine36 N-dimethyltransferase NSD2	2.1.1.357	S-Adenosyl-L-homocysteine	S-Adenosyl-L-methionine	white
+[histone H3]-lysine36 N-dimethyltransferase NSD2	2.1.1.357	S-Adenosyl-L-methionine	Protein N6-methyl-L-lysine	white
+[histone H3]-lysine36 N-dimethyltransferase NSD2	2.1.1.357	S-Adenosyl-L-methionine	S-Adenosyl-L-homocysteine	white
+[histone H3]-lysine36 N-dimethyltransferase SETMAR	2.1.1.357	Protein N6-methyl-L-lysine	Protein lysine	white
+[histone H3]-lysine36 N-dimethyltransferase SETMAR	2.1.1.357	Protein N6-methyl-L-lysine	S-Adenosyl-L-methionine	white
+[histone H3]-lysine36 N-dimethyltransferase SETMAR	2.1.1.357	Protein lysine	Protein N6-methyl-L-lysine	white
+[histone H3]-lysine36 N-dimethyltransferase SETMAR	2.1.1.357	Protein lysine	S-Adenosyl-L-homocysteine	white
+[histone H3]-lysine36 N-dimethyltransferase SETMAR	2.1.1.357	S-Adenosyl-L-homocysteine	Protein lysine	white
+[histone H3]-lysine36 N-dimethyltransferase SETMAR	2.1.1.357	S-Adenosyl-L-homocysteine	S-Adenosyl-L-methionine	white
+[histone H3]-lysine36 N-dimethyltransferase SETMAR	2.1.1.357	S-Adenosyl-L-methionine	Protein N6-methyl-L-lysine	white
+[histone H3]-lysine36 N-dimethyltransferase SETMAR	2.1.1.357	S-Adenosyl-L-methionine	S-Adenosyl-L-homocysteine	white
+[histone H3]-lysine36 N-trimethyltransferase	2.1.1.359	Protein N6-methyl-L-lysine	Protein lysine	white
+[histone H3]-lysine36 N-trimethyltransferase	2.1.1.359	Protein N6-methyl-L-lysine	S-Adenosyl-L-methionine	white
+[histone H3]-lysine36 N-trimethyltransferase	2.1.1.359	Protein lysine	Protein N6-methyl-L-lysine	white
+[histone H3]-lysine36 N-trimethyltransferase	2.1.1.359	Protein lysine	S-Adenosyl-L-homocysteine	white
+[histone H3]-lysine36 N-trimethyltransferase	2.1.1.359	S-Adenosyl-L-homocysteine	Protein lysine	white
+[histone H3]-lysine36 N-trimethyltransferase	2.1.1.359	S-Adenosyl-L-homocysteine	S-Adenosyl-L-methionine	white
+[histone H3]-lysine36 N-trimethyltransferase	2.1.1.359	S-Adenosyl-L-methionine	Protein N6-methyl-L-lysine	white
+[histone H3]-lysine36 N-trimethyltransferase	2.1.1.359	S-Adenosyl-L-methionine	S-Adenosyl-L-homocysteine	white
+[histone H3]-lysine4 N-dimethyltransferase / [histone H3]-lysine27 N-dimethyltransferase	2.1.1.370	Protein N6-methyl-L-lysine	Protein lysine	white
+[histone H3]-lysine4 N-dimethyltransferase / [histone H3]-lysine27 N-dimethyltransferase	2.1.1.370	Protein N6-methyl-L-lysine	S-Adenosyl-L-methionine	white
+[histone H3]-lysine4 N-dimethyltransferase / [histone H3]-lysine27 N-dimethyltransferase	2.1.1.370	Protein lysine	Protein N6-methyl-L-lysine	white
+[histone H3]-lysine4 N-dimethyltransferase / [histone H3]-lysine27 N-dimethyltransferase	2.1.1.370	Protein lysine	S-Adenosyl-L-homocysteine	white
+[histone H3]-lysine4 N-dimethyltransferase / [histone H3]-lysine27 N-dimethyltransferase	2.1.1.370	S-Adenosyl-L-homocysteine	Protein lysine	white
+[histone H3]-lysine4 N-dimethyltransferase / [histone H3]-lysine27 N-dimethyltransferase	2.1.1.370	S-Adenosyl-L-homocysteine	S-Adenosyl-L-methionine	white
+[histone H3]-lysine4 N-dimethyltransferase / [histone H3]-lysine27 N-dimethyltransferase	2.1.1.370	S-Adenosyl-L-methionine	Protein N6-methyl-L-lysine	white
+[histone H3]-lysine4 N-dimethyltransferase / [histone H3]-lysine27 N-dimethyltransferase	2.1.1.370	S-Adenosyl-L-methionine	S-Adenosyl-L-homocysteine	white
+[histone H3]-lysine4 N-methyltransferase	2.1.1.364	Protein N6-methyl-L-lysine	Protein lysine	white
+[histone H3]-lysine4 N-methyltransferase	2.1.1.364	Protein N6-methyl-L-lysine	S-Adenosyl-L-methionine	white
+[histone H3]-lysine4 N-methyltransferase	2.1.1.364	Protein lysine	Protein N6-methyl-L-lysine	white
+[histone H3]-lysine4 N-methyltransferase	2.1.1.364	Protein lysine	S-Adenosyl-L-homocysteine	white
+[histone H3]-lysine4 N-methyltransferase	2.1.1.364	S-Adenosyl-L-homocysteine	Protein lysine	white
+[histone H3]-lysine4 N-methyltransferase	2.1.1.364	S-Adenosyl-L-homocysteine	S-Adenosyl-L-methionine	white
+[histone H3]-lysine4 N-methyltransferase	2.1.1.364	S-Adenosyl-L-methionine	Protein N6-methyl-L-lysine	white
+[histone H3]-lysine4 N-methyltransferase	2.1.1.364	S-Adenosyl-L-methionine	S-Adenosyl-L-homocysteine	white
+[histone H3]-lysine4 N-trimethyltransferase ASH1L	2.1.1.354	Protein N6-methyl-L-lysine	Protein lysine	white
+[histone H3]-lysine4 N-trimethyltransferase ASH1L	2.1.1.354	Protein N6-methyl-L-lysine	S-Adenosyl-L-methionine	white
+[histone H3]-lysine4 N-trimethyltransferase ASH1L	2.1.1.354	Protein lysine	Protein N6-methyl-L-lysine	white
+[histone H3]-lysine4 N-trimethyltransferase ASH1L	2.1.1.354	Protein lysine	S-Adenosyl-L-homocysteine	white
+[histone H3]-lysine4 N-trimethyltransferase ASH1L	2.1.1.354	S-Adenosyl-L-homocysteine	Protein lysine	white
+[histone H3]-lysine4 N-trimethyltransferase ASH1L	2.1.1.354	S-Adenosyl-L-homocysteine	S-Adenosyl-L-methionine	white
+[histone H3]-lysine4 N-trimethyltransferase ASH1L	2.1.1.354	S-Adenosyl-L-methionine	Protein N6-methyl-L-lysine	white
+[histone H3]-lysine4 N-trimethyltransferase ASH1L	2.1.1.354	S-Adenosyl-L-methionine	S-Adenosyl-L-homocysteine	white
+[histone H3]-lysine4 N-trimethyltransferase ATXR3	2.1.1.354	Protein N6-methyl-L-lysine	Protein lysine	white
+[histone H3]-lysine4 N-trimethyltransferase ATXR3	2.1.1.354	Protein N6-methyl-L-lysine	S-Adenosyl-L-methionine	white
+[histone H3]-lysine4 N-trimethyltransferase ATXR3	2.1.1.354	Protein lysine	Protein N6-methyl-L-lysine	white
+[histone H3]-lysine4 N-trimethyltransferase ATXR3	2.1.1.354	Protein lysine	S-Adenosyl-L-homocysteine	white
+[histone H3]-lysine4 N-trimethyltransferase ATXR3	2.1.1.354	S-Adenosyl-L-homocysteine	Protein lysine	white
+[histone H3]-lysine4 N-trimethyltransferase ATXR3	2.1.1.354	S-Adenosyl-L-homocysteine	S-Adenosyl-L-methionine	white
+[histone H3]-lysine4 N-trimethyltransferase ATXR3	2.1.1.354	S-Adenosyl-L-methionine	Protein N6-methyl-L-lysine	white
+[histone H3]-lysine4 N-trimethyltransferase ATXR3	2.1.1.354	S-Adenosyl-L-methionine	S-Adenosyl-L-homocysteine	white
+[histone H3]-lysine4 N-trimethyltransferase MLL1	2.1.1.354	Protein N6-methyl-L-lysine	Protein lysine	white
+[histone H3]-lysine4 N-trimethyltransferase MLL1	2.1.1.354	Protein N6-methyl-L-lysine	S-Adenosyl-L-methionine	white
+[histone H3]-lysine4 N-trimethyltransferase MLL1	2.1.1.354	Protein lysine	Protein N6-methyl-L-lysine	white
+[histone H3]-lysine4 N-trimethyltransferase MLL1	2.1.1.354	Protein lysine	S-Adenosyl-L-homocysteine	white
+[histone H3]-lysine4 N-trimethyltransferase MLL1	2.1.1.354	S-Adenosyl-L-homocysteine	Protein lysine	white
+[histone H3]-lysine4 N-trimethyltransferase MLL1	2.1.1.354	S-Adenosyl-L-homocysteine	S-Adenosyl-L-methionine	white
+[histone H3]-lysine4 N-trimethyltransferase MLL1	2.1.1.354	S-Adenosyl-L-methionine	Protein N6-methyl-L-lysine	white
+[histone H3]-lysine4 N-trimethyltransferase MLL1	2.1.1.354	S-Adenosyl-L-methionine	S-Adenosyl-L-homocysteine	white
+[histone H3]-lysine4 N-trimethyltransferase MLL2	2.1.1.354	Protein N6-methyl-L-lysine	Protein lysine	white
+[histone H3]-lysine4 N-trimethyltransferase MLL2	2.1.1.354	Protein N6-methyl-L-lysine	S-Adenosyl-L-methionine	white
+[histone H3]-lysine4 N-trimethyltransferase MLL2	2.1.1.354	Protein lysine	Protein N6-methyl-L-lysine	white
+[histone H3]-lysine4 N-trimethyltransferase MLL2	2.1.1.354	Protein lysine	S-Adenosyl-L-homocysteine	white
+[histone H3]-lysine4 N-trimethyltransferase MLL2	2.1.1.354	S-Adenosyl-L-homocysteine	Protein lysine	white
+[histone H3]-lysine4 N-trimethyltransferase MLL2	2.1.1.354	S-Adenosyl-L-homocysteine	S-Adenosyl-L-methionine	white
+[histone H3]-lysine4 N-trimethyltransferase MLL2	2.1.1.354	S-Adenosyl-L-methionine	Protein N6-methyl-L-lysine	white
+[histone H3]-lysine4 N-trimethyltransferase MLL2	2.1.1.354	S-Adenosyl-L-methionine	S-Adenosyl-L-homocysteine	white
+[histone H3]-lysine4 N-trimethyltransferase MLL3	2.1.1.354	Protein N6-methyl-L-lysine	Protein lysine	white
+[histone H3]-lysine4 N-trimethyltransferase MLL3	2.1.1.354	Protein N6-methyl-L-lysine	S-Adenosyl-L-methionine	white
+[histone H3]-lysine4 N-trimethyltransferase MLL3	2.1.1.354	Protein lysine	Protein N6-methyl-L-lysine	white
+[histone H3]-lysine4 N-trimethyltransferase MLL3	2.1.1.354	Protein lysine	S-Adenosyl-L-homocysteine	white
+[histone H3]-lysine4 N-trimethyltransferase MLL3	2.1.1.354	S-Adenosyl-L-homocysteine	Protein lysine	white
+[histone H3]-lysine4 N-trimethyltransferase MLL3	2.1.1.354	S-Adenosyl-L-homocysteine	S-Adenosyl-L-methionine	white
+[histone H3]-lysine4 N-trimethyltransferase MLL3	2.1.1.354	S-Adenosyl-L-methionine	Protein N6-methyl-L-lysine	white
+[histone H3]-lysine4 N-trimethyltransferase MLL3	2.1.1.354	S-Adenosyl-L-methionine	S-Adenosyl-L-homocysteine	white
+[histone H3]-lysine4 N-trimethyltransferase MLL4	2.1.1.354	Protein N6-methyl-L-lysine	Protein lysine	white
+[histone H3]-lysine4 N-trimethyltransferase MLL4	2.1.1.354	Protein N6-methyl-L-lysine	S-Adenosyl-L-methionine	white
+[histone H3]-lysine4 N-trimethyltransferase MLL4	2.1.1.354	Protein lysine	Protein N6-methyl-L-lysine	white
+[histone H3]-lysine4 N-trimethyltransferase MLL4	2.1.1.354	Protein lysine	S-Adenosyl-L-homocysteine	white
+[histone H3]-lysine4 N-trimethyltransferase MLL4	2.1.1.354	S-Adenosyl-L-homocysteine	Protein lysine	white
+[histone H3]-lysine4 N-trimethyltransferase MLL4	2.1.1.354	S-Adenosyl-L-homocysteine	S-Adenosyl-L-methionine	white
+[histone H3]-lysine4 N-trimethyltransferase MLL4	2.1.1.354	S-Adenosyl-L-methionine	Protein N6-methyl-L-lysine	white
+[histone H3]-lysine4 N-trimethyltransferase MLL4	2.1.1.354	S-Adenosyl-L-methionine	S-Adenosyl-L-homocysteine	white
+[histone H3]-lysine4 N-trimethyltransferase MLL5	2.1.1.354	Protein N6-methyl-L-lysine	Protein lysine	white
+[histone H3]-lysine4 N-trimethyltransferase MLL5	2.1.1.354	Protein N6-methyl-L-lysine	S-Adenosyl-L-methionine	white
+[histone H3]-lysine4 N-trimethyltransferase MLL5	2.1.1.354	Protein lysine	Protein N6-methyl-L-lysine	white
+[histone H3]-lysine4 N-trimethyltransferase MLL5	2.1.1.354	Protein lysine	S-Adenosyl-L-homocysteine	white
+[histone H3]-lysine4 N-trimethyltransferase MLL5	2.1.1.354	S-Adenosyl-L-homocysteine	Protein lysine	white
+[histone H3]-lysine4 N-trimethyltransferase MLL5	2.1.1.354	S-Adenosyl-L-homocysteine	S-Adenosyl-L-methionine	white
+[histone H3]-lysine4 N-trimethyltransferase MLL5	2.1.1.354	S-Adenosyl-L-methionine	Protein N6-methyl-L-lysine	white
+[histone H3]-lysine4 N-trimethyltransferase MLL5	2.1.1.354	S-Adenosyl-L-methionine	S-Adenosyl-L-homocysteine	white
+[histone H3]-lysine4 N-trimethyltransferase PRDM7/9	2.1.1.354	Protein N6-methyl-L-lysine	Protein lysine	white
+[histone H3]-lysine4 N-trimethyltransferase PRDM7/9	2.1.1.354	Protein N6-methyl-L-lysine	S-Adenosyl-L-methionine	white
+[histone H3]-lysine4 N-trimethyltransferase PRDM7/9	2.1.1.354	Protein lysine	Protein N6-methyl-L-lysine	white
+[histone H3]-lysine4 N-trimethyltransferase PRDM7/9	2.1.1.354	Protein lysine	S-Adenosyl-L-homocysteine	white
+[histone H3]-lysine4 N-trimethyltransferase PRDM7/9	2.1.1.354	S-Adenosyl-L-homocysteine	Protein lysine	white
+[histone H3]-lysine4 N-trimethyltransferase PRDM7/9	2.1.1.354	S-Adenosyl-L-homocysteine	S-Adenosyl-L-methionine	white
+[histone H3]-lysine4 N-trimethyltransferase PRDM7/9	2.1.1.354	S-Adenosyl-L-methionine	Protein N6-methyl-L-lysine	white
+[histone H3]-lysine4 N-trimethyltransferase PRDM7/9	2.1.1.354	S-Adenosyl-L-methionine	S-Adenosyl-L-homocysteine	white
+[histone H3]-lysine4 N-trimethyltransferase SETD1	2.1.1.354	Protein N6-methyl-L-lysine	Protein lysine	white
+[histone H3]-lysine4 N-trimethyltransferase SETD1	2.1.1.354	Protein N6-methyl-L-lysine	S-Adenosyl-L-methionine	white
+[histone H3]-lysine4 N-trimethyltransferase SETD1	2.1.1.354	Protein lysine	Protein N6-methyl-L-lysine	white
+[histone H3]-lysine4 N-trimethyltransferase SETD1	2.1.1.354	Protein lysine	S-Adenosyl-L-homocysteine	white
+[histone H3]-lysine4 N-trimethyltransferase SETD1	2.1.1.354	S-Adenosyl-L-homocysteine	Protein lysine	white
+[histone H3]-lysine4 N-trimethyltransferase SETD1	2.1.1.354	S-Adenosyl-L-homocysteine	S-Adenosyl-L-methionine	white
+[histone H3]-lysine4 N-trimethyltransferase SETD1	2.1.1.354	S-Adenosyl-L-methionine	Protein N6-methyl-L-lysine	white
+[histone H3]-lysine4 N-trimethyltransferase SETD1	2.1.1.354	S-Adenosyl-L-methionine	S-Adenosyl-L-homocysteine	white
+[histone H3]-lysine4/36 N-trimethyltransferase SMYD	2.1.1.354	Protein N6-methyl-L-lysine	Protein lysine	white
+[histone H3]-lysine4/36 N-trimethyltransferase SMYD	2.1.1.354	Protein N6-methyl-L-lysine	S-Adenosyl-L-methionine	white
+[histone H3]-lysine4/36 N-trimethyltransferase SMYD	2.1.1.354	Protein lysine	Protein N6-methyl-L-lysine	white
+[histone H3]-lysine4/36 N-trimethyltransferase SMYD	2.1.1.354	Protein lysine	S-Adenosyl-L-homocysteine	white
+[histone H3]-lysine4/36 N-trimethyltransferase SMYD	2.1.1.354	S-Adenosyl-L-homocysteine	Protein lysine	white
+[histone H3]-lysine4/36 N-trimethyltransferase SMYD	2.1.1.354	S-Adenosyl-L-homocysteine	S-Adenosyl-L-methionine	white
+[histone H3]-lysine4/36 N-trimethyltransferase SMYD	2.1.1.354	S-Adenosyl-L-methionine	Protein N6-methyl-L-lysine	white
+[histone H3]-lysine4/36 N-trimethyltransferase SMYD	2.1.1.354	S-Adenosyl-L-methionine	S-Adenosyl-L-homocysteine	white
+[histone H3]-lysine79 N-trimethyltransferase	2.1.1.360	Protein N6-methyl-L-lysine	Protein lysine	white
+[histone H3]-lysine79 N-trimethyltransferase	2.1.1.360	Protein N6-methyl-L-lysine	S-Adenosyl-L-methionine	white
+[histone H3]-lysine79 N-trimethyltransferase	2.1.1.360	Protein lysine	Protein N6-methyl-L-lysine	white
+[histone H3]-lysine79 N-trimethyltransferase	2.1.1.360	Protein lysine	S-Adenosyl-L-homocysteine	white
+[histone H3]-lysine79 N-trimethyltransferase	2.1.1.360	S-Adenosyl-L-homocysteine	Protein lysine	white
+[histone H3]-lysine79 N-trimethyltransferase	2.1.1.360	S-Adenosyl-L-homocysteine	S-Adenosyl-L-methionine	white
+[histone H3]-lysine79 N-trimethyltransferase	2.1.1.360	S-Adenosyl-L-methionine	Protein N6-methyl-L-lysine	white
+[histone H3]-lysine79 N-trimethyltransferase	2.1.1.360	S-Adenosyl-L-methionine	S-Adenosyl-L-homocysteine	white
+[histone H3]-lysine9 N-dimethyltransferase	2.1.1.368	Protein N6-methyl-L-lysine	Protein lysine	white
+[histone H3]-lysine9 N-dimethyltransferase	2.1.1.368	Protein N6-methyl-L-lysine	S-Adenosyl-L-methionine	white
+[histone H3]-lysine9 N-dimethyltransferase	2.1.1.368	Protein lysine	Protein N6-methyl-L-lysine	white
+[histone H3]-lysine9 N-dimethyltransferase	2.1.1.368	Protein lysine	S-Adenosyl-L-homocysteine	white
+[histone H3]-lysine9 N-dimethyltransferase	2.1.1.368	S-Adenosyl-L-homocysteine	Protein lysine	white
+[histone H3]-lysine9 N-dimethyltransferase	2.1.1.368	S-Adenosyl-L-homocysteine	S-Adenosyl-L-methionine	white
+[histone H3]-lysine9 N-dimethyltransferase	2.1.1.368	S-Adenosyl-L-methionine	Protein N6-methyl-L-lysine	white
+[histone H3]-lysine9 N-dimethyltransferase	2.1.1.368	S-Adenosyl-L-methionine	S-Adenosyl-L-homocysteine	white
+[histone H3]-lysine9 N-methyltransferase	2.1.1.367	Protein N6-methyl-L-lysine	Protein lysine	white
+[histone H3]-lysine9 N-methyltransferase	2.1.1.367	Protein N6-methyl-L-lysine	S-Adenosyl-L-methionine	white
+[histone H3]-lysine9 N-methyltransferase	2.1.1.367	Protein lysine	Protein N6-methyl-L-lysine	white
+[histone H3]-lysine9 N-methyltransferase	2.1.1.367	Protein lysine	S-Adenosyl-L-homocysteine	white
+[histone H3]-lysine9 N-methyltransferase	2.1.1.367	S-Adenosyl-L-homocysteine	Protein lysine	white
+[histone H3]-lysine9 N-methyltransferase	2.1.1.367	S-Adenosyl-L-homocysteine	S-Adenosyl-L-methionine	white
+[histone H3]-lysine9 N-methyltransferase	2.1.1.367	S-Adenosyl-L-methionine	Protein N6-methyl-L-lysine	white
+[histone H3]-lysine9 N-methyltransferase	2.1.1.367	S-Adenosyl-L-methionine	S-Adenosyl-L-homocysteine	white
+[histone H3]-lysine9 N-methyltransferase (ecotropic virus integration site 1 protein)	2.1.1.367	Protein N6-methyl-L-lysine	Protein lysine	white
+[histone H3]-lysine9 N-methyltransferase (ecotropic virus integration site 1 protein)	2.1.1.367	Protein N6-methyl-L-lysine	S-Adenosyl-L-methionine	white
+[histone H3]-lysine9 N-methyltransferase (ecotropic virus integration site 1 protein)	2.1.1.367	Protein lysine	Protein N6-methyl-L-lysine	white
+[histone H3]-lysine9 N-methyltransferase (ecotropic virus integration site 1 protein)	2.1.1.367	Protein lysine	S-Adenosyl-L-homocysteine	white
+[histone H3]-lysine9 N-methyltransferase (ecotropic virus integration site 1 protein)	2.1.1.367	S-Adenosyl-L-homocysteine	Protein lysine	white
+[histone H3]-lysine9 N-methyltransferase (ecotropic virus integration site 1 protein)	2.1.1.367	S-Adenosyl-L-homocysteine	S-Adenosyl-L-methionine	white
+[histone H3]-lysine9 N-methyltransferase (ecotropic virus integration site 1 protein)	2.1.1.367	S-Adenosyl-L-methionine	Protein N6-methyl-L-lysine	white
+[histone H3]-lysine9 N-methyltransferase (ecotropic virus integration site 1 protein)	2.1.1.367	S-Adenosyl-L-methionine	S-Adenosyl-L-homocysteine	white
+[histone H3]-lysine9 N-trimethyltransferase EHMT	2.1.1.355	Protein N6-methyl-L-lysine	Protein lysine	white
+[histone H3]-lysine9 N-trimethyltransferase EHMT	2.1.1.355	Protein N6-methyl-L-lysine	S-Adenosyl-L-methionine	white
+[histone H3]-lysine9 N-trimethyltransferase EHMT	2.1.1.355	Protein lysine	Protein N6-methyl-L-lysine	white
+[histone H3]-lysine9 N-trimethyltransferase EHMT	2.1.1.355	Protein lysine	S-Adenosyl-L-homocysteine	white
+[histone H3]-lysine9 N-trimethyltransferase EHMT	2.1.1.355	S-Adenosyl-L-homocysteine	Protein lysine	white
+[histone H3]-lysine9 N-trimethyltransferase EHMT	2.1.1.355	S-Adenosyl-L-homocysteine	S-Adenosyl-L-methionine	white
+[histone H3]-lysine9 N-trimethyltransferase EHMT	2.1.1.355	S-Adenosyl-L-methionine	Protein N6-methyl-L-lysine	white
+[histone H3]-lysine9 N-trimethyltransferase EHMT	2.1.1.355	S-Adenosyl-L-methionine	S-Adenosyl-L-homocysteine	white
+[histone H3]-lysine9 N-trimethyltransferase PRDM2	2.1.1.355	Protein N6-methyl-L-lysine	Protein lysine	white
+[histone H3]-lysine9 N-trimethyltransferase PRDM2	2.1.1.355	Protein N6-methyl-L-lysine	S-Adenosyl-L-methionine	white
+[histone H3]-lysine9 N-trimethyltransferase PRDM2	2.1.1.355	Protein lysine	Protein N6-methyl-L-lysine	white
+[histone H3]-lysine9 N-trimethyltransferase PRDM2	2.1.1.355	Protein lysine	S-Adenosyl-L-homocysteine	white
+[histone H3]-lysine9 N-trimethyltransferase PRDM2	2.1.1.355	S-Adenosyl-L-homocysteine	Protein lysine	white
+[histone H3]-lysine9 N-trimethyltransferase PRDM2	2.1.1.355	S-Adenosyl-L-homocysteine	S-Adenosyl-L-methionine	white
+[histone H3]-lysine9 N-trimethyltransferase PRDM2	2.1.1.355	S-Adenosyl-L-methionine	Protein N6-methyl-L-lysine	white
+[histone H3]-lysine9 N-trimethyltransferase PRDM2	2.1.1.355	S-Adenosyl-L-methionine	S-Adenosyl-L-homocysteine	white
+[histone H3]-lysine9 N-trimethyltransferase SETDB2	2.1.1.355	Protein N6-methyl-L-lysine	Protein lysine	white
+[histone H3]-lysine9 N-trimethyltransferase SETDB2	2.1.1.355	Protein N6-methyl-L-lysine	S-Adenosyl-L-methionine	white
+[histone H3]-lysine9 N-trimethyltransferase SETDB2	2.1.1.355	Protein lysine	Protein N6-methyl-L-lysine	white
+[histone H3]-lysine9 N-trimethyltransferase SETDB2	2.1.1.355	Protein lysine	S-Adenosyl-L-homocysteine	white
+[histone H3]-lysine9 N-trimethyltransferase SETDB2	2.1.1.355	S-Adenosyl-L-homocysteine	Protein lysine	white
+[histone H3]-lysine9 N-trimethyltransferase SETDB2	2.1.1.355	S-Adenosyl-L-homocysteine	S-Adenosyl-L-methionine	white
+[histone H3]-lysine9 N-trimethyltransferase SETDB2	2.1.1.355	S-Adenosyl-L-methionine	Protein N6-methyl-L-lysine	white
+[histone H3]-lysine9 N-trimethyltransferase SETDB2	2.1.1.355	S-Adenosyl-L-methionine	S-Adenosyl-L-homocysteine	white
+[histone H3]-lysine9 N-trimethyltransferase SUV39H	2.1.1.355	Protein N6-methyl-L-lysine	Protein lysine	white
+[histone H3]-lysine9 N-trimethyltransferase SUV39H	2.1.1.355	Protein N6-methyl-L-lysine	S-Adenosyl-L-methionine	white
+[histone H3]-lysine9 N-trimethyltransferase SUV39H	2.1.1.355	Protein lysine	Protein N6-methyl-L-lysine	white
+[histone H3]-lysine9 N-trimethyltransferase SUV39H	2.1.1.355	Protein lysine	S-Adenosyl-L-homocysteine	white
+[histone H3]-lysine9 N-trimethyltransferase SUV39H	2.1.1.355	S-Adenosyl-L-homocysteine	Protein lysine	white
+[histone H3]-lysine9 N-trimethyltransferase SUV39H	2.1.1.355	S-Adenosyl-L-homocysteine	S-Adenosyl-L-methionine	white
+[histone H3]-lysine9 N-trimethyltransferase SUV39H	2.1.1.355	S-Adenosyl-L-methionine	Protein N6-methyl-L-lysine	white
+[histone H3]-lysine9 N-trimethyltransferase SUV39H	2.1.1.355	S-Adenosyl-L-methionine	S-Adenosyl-L-homocysteine	white
+[histone H4]-N-methyl-L-lysine20 N-methyltransferase	2.1.1.362	Protein N6,N6-dimethyl-L-lysine	Protein N6-methyl-L-lysine	white
+[histone H4]-N-methyl-L-lysine20 N-methyltransferase	2.1.1.362	Protein N6,N6-dimethyl-L-lysine	S-Adenosyl-L-methionine	white
+[histone H4]-N-methyl-L-lysine20 N-methyltransferase	2.1.1.362	Protein N6-methyl-L-lysine	Protein N6,N6-dimethyl-L-lysine	white
+[histone H4]-N-methyl-L-lysine20 N-methyltransferase	2.1.1.362	Protein N6-methyl-L-lysine	S-Adenosyl-L-homocysteine	white
+[histone H4]-N-methyl-L-lysine20 N-methyltransferase	2.1.1.362	S-Adenosyl-L-homocysteine	Protein N6-methyl-L-lysine	white
+[histone H4]-N-methyl-L-lysine20 N-methyltransferase	2.1.1.362	S-Adenosyl-L-homocysteine	S-Adenosyl-L-methionine	white
+[histone H4]-N-methyl-L-lysine20 N-methyltransferase	2.1.1.362	S-Adenosyl-L-methionine	Protein N6,N6-dimethyl-L-lysine	white
+[histone H4]-N-methyl-L-lysine20 N-methyltransferase	2.1.1.362	S-Adenosyl-L-methionine	S-Adenosyl-L-homocysteine	white
+[histone H4]-lysine20 N-methyltransferase PRDM6	2.1.1.361	Protein N6-methyl-L-lysine	Protein lysine	white
+[histone H4]-lysine20 N-methyltransferase PRDM6	2.1.1.361	Protein N6-methyl-L-lysine	S-Adenosyl-L-methionine	white
+[histone H4]-lysine20 N-methyltransferase PRDM6	2.1.1.361	Protein lysine	Protein N6-methyl-L-lysine	white
+[histone H4]-lysine20 N-methyltransferase PRDM6	2.1.1.361	Protein lysine	S-Adenosyl-L-homocysteine	white
+[histone H4]-lysine20 N-methyltransferase PRDM6	2.1.1.361	S-Adenosyl-L-homocysteine	Protein lysine	white
+[histone H4]-lysine20 N-methyltransferase PRDM6	2.1.1.361	S-Adenosyl-L-homocysteine	S-Adenosyl-L-methionine	white
+[histone H4]-lysine20 N-methyltransferase PRDM6	2.1.1.361	S-Adenosyl-L-methionine	Protein N6-methyl-L-lysine	white
+[histone H4]-lysine20 N-methyltransferase PRDM6	2.1.1.361	S-Adenosyl-L-methionine	S-Adenosyl-L-homocysteine	white
+[histone H4]-lysine20 N-methyltransferase SETD8	2.1.1.361	Protein N6-methyl-L-lysine	Protein lysine	white
+[histone H4]-lysine20 N-methyltransferase SETD8	2.1.1.361	Protein N6-methyl-L-lysine	S-Adenosyl-L-methionine	white
+[histone H4]-lysine20 N-methyltransferase SETD8	2.1.1.361	Protein lysine	Protein N6-methyl-L-lysine	white
+[histone H4]-lysine20 N-methyltransferase SETD8	2.1.1.361	Protein lysine	S-Adenosyl-L-homocysteine	white
+[histone H4]-lysine20 N-methyltransferase SETD8	2.1.1.361	S-Adenosyl-L-homocysteine	Protein lysine	white
+[histone H4]-lysine20 N-methyltransferase SETD8	2.1.1.361	S-Adenosyl-L-homocysteine	S-Adenosyl-L-methionine	white
+[histone H4]-lysine20 N-methyltransferase SETD8	2.1.1.361	S-Adenosyl-L-methionine	Protein N6-methyl-L-lysine	white
+[histone H4]-lysine20 N-methyltransferase SETD8	2.1.1.361	S-Adenosyl-L-methionine	S-Adenosyl-L-homocysteine	white
+[histone H4]-lysine20 N-trimethyltransferase	2.1.1.372	Protein N6-methyl-L-lysine	Protein lysine	white
+[histone H4]-lysine20 N-trimethyltransferase	2.1.1.372	Protein N6-methyl-L-lysine	S-Adenosyl-L-methionine	white
+[histone H4]-lysine20 N-trimethyltransferase	2.1.1.372	Protein lysine	Protein N6-methyl-L-lysine	white
+[histone H4]-lysine20 N-trimethyltransferase	2.1.1.372	Protein lysine	S-Adenosyl-L-homocysteine	white
+[histone H4]-lysine20 N-trimethyltransferase	2.1.1.372	S-Adenosyl-L-homocysteine	Protein lysine	white
+[histone H4]-lysine20 N-trimethyltransferase	2.1.1.372	S-Adenosyl-L-homocysteine	S-Adenosyl-L-methionine	white
+[histone H4]-lysine20 N-trimethyltransferase	2.1.1.372	S-Adenosyl-L-methionine	Protein N6-methyl-L-lysine	white
+[histone H4]-lysine20 N-trimethyltransferase	2.1.1.372	S-Adenosyl-L-methionine	S-Adenosyl-L-homocysteine	white
+acetate CoA/acetoacetate CoA-transferase alpha subunit	2.8.3.8	Acetate	Acetyl-CoA	white
+acetate CoA/acetoacetate CoA-transferase alpha subunit	2.8.3.8	Acetate	Butanoic acid	white
+acetate CoA/acetoacetate CoA-transferase alpha subunit	2.8.3.8	Acetyl-CoA	Acetate	white
+acetate CoA/acetoacetate CoA-transferase alpha subunit	2.8.3.8	Acetyl-CoA	Butanoyl-CoA	white
+acetate CoA/acetoacetate CoA-transferase alpha subunit	2.8.3.8	Butanoic acid	Acetate	white
+acetate CoA/acetoacetate CoA-transferase alpha subunit	2.8.3.8	Butanoic acid	Butanoyl-CoA	white
+acetate CoA/acetoacetate CoA-transferase alpha subunit	2.8.3.8	Butanoyl-CoA	Acetyl-CoA	white
+acetate CoA/acetoacetate CoA-transferase alpha subunit	2.8.3.8	Butanoyl-CoA	Butanoic acid	white
+acetate CoA/acetoacetate CoA-transferase beta subunit	2.8.3.8	Acetate	Acetyl-CoA	white
+acetate CoA/acetoacetate CoA-transferase beta subunit	2.8.3.8	Acetate	Butanoic acid	white
+acetate CoA/acetoacetate CoA-transferase beta subunit	2.8.3.8	Acetyl-CoA	Acetate	white
+acetate CoA/acetoacetate CoA-transferase beta subunit	2.8.3.8	Acetyl-CoA	Butanoyl-CoA	white
+acetate CoA/acetoacetate CoA-transferase beta subunit	2.8.3.8	Butanoic acid	Acetate	white
+acetate CoA/acetoacetate CoA-transferase beta subunit	2.8.3.8	Butanoic acid	Butanoyl-CoA	white
+acetate CoA/acetoacetate CoA-transferase beta subunit	2.8.3.8	Butanoyl-CoA	Acetyl-CoA	white
+acetate CoA/acetoacetate CoA-transferase beta subunit	2.8.3.8	Butanoyl-CoA	Butanoic acid	white
+acetyl-CoA C-acetyltransferase	2.3.1.9	Acetyl-CoA	Acetoacetyl-CoA	green
+acetyl-CoA C-acetyltransferase	2.3.1.9	Acetyl-CoA	CoA	green
+acetyl-CoA acyltransferase	2.3.1.16	Acetyl-CoA	Acetoacetyl-CoA	green
+acetyl-CoA acyltransferase	2.3.1.16	Acetyl-CoA	CoA	green
+acetyl-CoA:lysine N6-acetyltransferase	2.3.1.306	Acetyl-CoA	CoA	white
+acetyl-CoA:lysine N6-acetyltransferase	2.3.1.306	Acetyl-CoA	N6-Acetyl-L-lysine	white
+acetyl-CoA:lysine N6-acetyltransferase	2.3.1.306	CoA	Acetyl-CoA	white
+acetyl-CoA:lysine N6-acetyltransferase	2.3.1.306	CoA	L-Lysine	white
+acetyl-CoA:lysine N6-acetyltransferase	2.3.1.306	L-Lysine	CoA	white
+acetyl-CoA:lysine N6-acetyltransferase	2.3.1.306	L-Lysine	N6-Acetyl-L-lysine	white
+acetyl-CoA:lysine N6-acetyltransferase	2.3.1.306	N6-Acetyl-L-lysine	Acetyl-CoA	white
+acetyl-CoA:lysine N6-acetyltransferase	2.3.1.306	N6-Acetyl-L-lysine	L-Lysine	white
+aldehyde dehydrogenase (NAD+)	1.2.1.3	4-Trimethylammoniobutanal	4-Trimethylammoniobutanoate	green
+aldehyde dehydrogenase (NAD+)	1.2.1.3	4-Trimethylammoniobutanal	H+	green
+aldehyde dehydrogenase (NAD+)	1.2.1.3	4-Trimethylammoniobutanal	NADH	green
+aldehyde dehydrogenase (NAD+)	1.2.1.3	H2O	4-Trimethylammoniobutanoate	green
+aldehyde dehydrogenase (NAD+)	1.2.1.3	H2O	H+	green
+aldehyde dehydrogenase (NAD+)	1.2.1.3	H2O	NADH	green
+aldehyde dehydrogenase (NAD+)	1.2.1.3	NAD+	4-Trimethylammoniobutanoate	green
+aldehyde dehydrogenase (NAD+)	1.2.1.3	NAD+	H+	green
+aldehyde dehydrogenase (NAD+)	1.2.1.3	NAD+	NADH	green
+aldehyde dehydrogenase family 7 member A1	1.2.1.31	Aldehyde	Fatty acid	white
+aldehyde dehydrogenase family 7 member A1	1.2.1.31	Aldehyde	H+	white
+aldehyde dehydrogenase family 7 member A1	1.2.1.31	Aldehyde	NADH	white
+aldehyde dehydrogenase family 7 member A1	1.2.1.31	Fatty acid	Aldehyde	white
+aldehyde dehydrogenase family 7 member A1	1.2.1.31	Fatty acid	H2O	white
+aldehyde dehydrogenase family 7 member A1	1.2.1.31	Fatty acid	NAD+	white
+aldehyde dehydrogenase family 7 member A1	1.2.1.31	H+	Aldehyde	white
+aldehyde dehydrogenase family 7 member A1	1.2.1.31	H+	H2O	white
+aldehyde dehydrogenase family 7 member A1	1.2.1.31	H+	NAD+	white
+aldehyde dehydrogenase family 7 member A1	1.2.1.31	H2O	Fatty acid	white
+aldehyde dehydrogenase family 7 member A1	1.2.1.31	H2O	H+	white
+aldehyde dehydrogenase family 7 member A1	1.2.1.31	H2O	NADH	white
+aldehyde dehydrogenase family 7 member A1	1.2.1.31	NAD+	Fatty acid	white
+aldehyde dehydrogenase family 7 member A1	1.2.1.31	NAD+	H+	white
+aldehyde dehydrogenase family 7 member A1	1.2.1.31	NAD+	NADH	white
+aldehyde dehydrogenase family 7 member A1	1.2.1.31	NADH	Aldehyde	white
+aldehyde dehydrogenase family 7 member A1	1.2.1.31	NADH	H2O	white
+aldehyde dehydrogenase family 7 member A1	1.2.1.31	NADH	NAD+	white
+aldehyde dehydrogenase family 9 member A1	1.2.1.47	Aldehyde	Fatty acid	white
+aldehyde dehydrogenase family 9 member A1	1.2.1.47	Aldehyde	H+	white
+aldehyde dehydrogenase family 9 member A1	1.2.1.47	Aldehyde	NADH	white
+aldehyde dehydrogenase family 9 member A1	1.2.1.47	Fatty acid	Aldehyde	white
+aldehyde dehydrogenase family 9 member A1	1.2.1.47	Fatty acid	H2O	white
+aldehyde dehydrogenase family 9 member A1	1.2.1.47	Fatty acid	NAD+	white
+aldehyde dehydrogenase family 9 member A1	1.2.1.47	H+	Aldehyde	white
+aldehyde dehydrogenase family 9 member A1	1.2.1.47	H+	H2O	white
+aldehyde dehydrogenase family 9 member A1	1.2.1.47	H+	NAD+	white
+aldehyde dehydrogenase family 9 member A1	1.2.1.47	H2O	Fatty acid	white
+aldehyde dehydrogenase family 9 member A1	1.2.1.47	H2O	H+	white
+aldehyde dehydrogenase family 9 member A1	1.2.1.47	H2O	NADH	white
+aldehyde dehydrogenase family 9 member A1	1.2.1.47	NAD+	Fatty acid	white
+aldehyde dehydrogenase family 9 member A1	1.2.1.47	NAD+	H+	white
+aldehyde dehydrogenase family 9 member A1	1.2.1.47	NAD+	NADH	white
+aldehyde dehydrogenase family 9 member A1	1.2.1.47	NADH	Aldehyde	white
+aldehyde dehydrogenase family 9 member A1	1.2.1.47	NADH	H2O	white
+aldehyde dehydrogenase family 9 member A1	1.2.1.47	NADH	NAD+	white
+alpha-aminoadipic semialdehyde synthase	1.5.1.8	2-Oxoglutarate	H2O	white
+alpha-aminoadipic semialdehyde synthase	1.5.1.8	2-Oxoglutarate	N6-(L-1,3-Dicarboxypropyl)-L-lysine	white
+alpha-aminoadipic semialdehyde synthase	1.5.1.8	2-Oxoglutarate	NADP+	white
+alpha-aminoadipic semialdehyde synthase	1.5.1.8	H+	H2O	white
+alpha-aminoadipic semialdehyde synthase	1.5.1.8	H+	N6-(L-1,3-Dicarboxypropyl)-L-lysine	white
+alpha-aminoadipic semialdehyde synthase	1.5.1.8	H+	NADP+	white
+alpha-aminoadipic semialdehyde synthase	1.5.1.8	H2O	2-Oxoglutarate	white
+alpha-aminoadipic semialdehyde synthase	1.5.1.8	H2O	H+	white
+alpha-aminoadipic semialdehyde synthase	1.5.1.8	H2O	L-Lysine	white
+alpha-aminoadipic semialdehyde synthase	1.5.1.8	H2O	NADPH	white
+alpha-aminoadipic semialdehyde synthase	1.5.1.8	L-Lysine	H2O	white
+alpha-aminoadipic semialdehyde synthase	1.5.1.8	L-Lysine	N6-(L-1,3-Dicarboxypropyl)-L-lysine	white
+alpha-aminoadipic semialdehyde synthase	1.5.1.8	L-Lysine	NADP+	white
+alpha-aminoadipic semialdehyde synthase	1.5.1.8	N6-(L-1,3-Dicarboxypropyl)-L-lysine	2-Oxoglutarate	white
+alpha-aminoadipic semialdehyde synthase	1.5.1.8	N6-(L-1,3-Dicarboxypropyl)-L-lysine	H+	white
+alpha-aminoadipic semialdehyde synthase	1.5.1.8	N6-(L-1,3-Dicarboxypropyl)-L-lysine	L-Lysine	white
+alpha-aminoadipic semialdehyde synthase	1.5.1.8	N6-(L-1,3-Dicarboxypropyl)-L-lysine	NADPH	white
+alpha-aminoadipic semialdehyde synthase	1.5.1.8	NADP+	2-Oxoglutarate	white
+alpha-aminoadipic semialdehyde synthase	1.5.1.8	NADP+	H+	white
+alpha-aminoadipic semialdehyde synthase	1.5.1.8	NADP+	L-Lysine	white
+alpha-aminoadipic semialdehyde synthase	1.5.1.8	NADP+	NADPH	white
+alpha-aminoadipic semialdehyde synthase	1.5.1.8	NADPH	H2O	white
+alpha-aminoadipic semialdehyde synthase	1.5.1.8	NADPH	N6-(L-1,3-Dicarboxypropyl)-L-lysine	white
+alpha-aminoadipic semialdehyde synthase	1.5.1.8	NADPH	NADP+	white
+amino-acid racemase	5.1.1.10	D-Lysine	L-Lysine	white
+amino-acid racemase	5.1.1.10	L-Lysine	D-Lysine	white
+aminobutyraldehyde dehydrogenase	1.2.1.19	5-Aminopentanal	5-Aminopentanoate	green
+aminobutyraldehyde dehydrogenase	1.2.1.19	5-Aminopentanal	H+	green
+aminobutyraldehyde dehydrogenase	1.2.1.19	5-Aminopentanal	NADH	green
+aminobutyraldehyde dehydrogenase	1.2.1.19	H2O	5-Aminopentanoate	green
+aminobutyraldehyde dehydrogenase	1.2.1.19	H2O	H+	green
+aminobutyraldehyde dehydrogenase	1.2.1.19	H2O	NADH	green
+aminobutyraldehyde dehydrogenase	1.2.1.19	NAD+	5-Aminopentanoate	green
+aminobutyraldehyde dehydrogenase	1.2.1.19	NAD+	H+	green
+aminobutyraldehyde dehydrogenase	1.2.1.19	NAD+	NADH	green
+beta-lysine 5,6-aminomutase alpha subunit	5.4.3.3	(2R,5S)-2,5-Diaminohexanoate	D-Lysine	white
+beta-lysine 5,6-aminomutase alpha subunit	5.4.3.3	D-Lysine	(2R,5S)-2,5-Diaminohexanoate	white
+beta-lysine 5,6-aminomutase beta subunit	5.4.3.3	(2R,5S)-2,5-Diaminohexanoate	D-Lysine	white
+beta-lysine 5,6-aminomutase beta subunit	5.4.3.3	D-Lysine	(2R,5S)-2,5-Diaminohexanoate	white
+calmodulin-lysine N-methyltransferase	2.1.1.60	Protein N6-methyl-L-lysine	Protein lysine	white
+calmodulin-lysine N-methyltransferase	2.1.1.60	Protein N6-methyl-L-lysine	S-Adenosyl-L-methionine	white
+calmodulin-lysine N-methyltransferase	2.1.1.60	Protein lysine	Protein N6-methyl-L-lysine	white
+calmodulin-lysine N-methyltransferase	2.1.1.60	Protein lysine	S-Adenosyl-L-homocysteine	white
+calmodulin-lysine N-methyltransferase	2.1.1.60	S-Adenosyl-L-homocysteine	Protein lysine	white
+calmodulin-lysine N-methyltransferase	2.1.1.60	S-Adenosyl-L-homocysteine	S-Adenosyl-L-methionine	white
+calmodulin-lysine N-methyltransferase	2.1.1.60	S-Adenosyl-L-methionine	Protein N6-methyl-L-lysine	white
+calmodulin-lysine N-methyltransferase	2.1.1.60	S-Adenosyl-L-methionine	S-Adenosyl-L-homocysteine	white
+collagen beta-1,O-galactosyltransferase	2.4.1.50	5-(D-Galactosyloxy)-L-lysine-procollagen	Procollagen 5-hydroxy-L-lysine	white
+collagen beta-1,O-galactosyltransferase	2.4.1.50	5-(D-Galactosyloxy)-L-lysine-procollagen	UDP-alpha-D-galactose	white
+collagen beta-1,O-galactosyltransferase	2.4.1.50	Procollagen 5-hydroxy-L-lysine	5-(D-Galactosyloxy)-L-lysine-procollagen	white
+collagen beta-1,O-galactosyltransferase	2.4.1.50	Procollagen 5-hydroxy-L-lysine	UDP	white
+collagen beta-1,O-galactosyltransferase	2.4.1.50	UDP	Procollagen 5-hydroxy-L-lysine	white
+collagen beta-1,O-galactosyltransferase	2.4.1.50	UDP	UDP-alpha-D-galactose	white
+collagen beta-1,O-galactosyltransferase	2.4.1.50	UDP-alpha-D-galactose	5-(D-Galactosyloxy)-L-lysine-procollagen	white
+collagen beta-1,O-galactosyltransferase	2.4.1.50	UDP-alpha-D-galactose	UDP	white
+delta1-piperideine-2-carboxylate reductase	1.5.1.21	Delta1-Piperideine-2-carboxylate	L-Pipecolate	white
+delta1-piperideine-2-carboxylate reductase	1.5.1.21	Delta1-Piperideine-2-carboxylate	NADP+	white
+delta1-piperideine-2-carboxylate reductase	1.5.1.21	H+	L-Pipecolate	white
+delta1-piperideine-2-carboxylate reductase	1.5.1.21	H+	NADP+	white
+delta1-piperideine-2-carboxylate reductase	1.5.1.21	L-Pipecolate	Delta1-Piperideine-2-carboxylate	white
+delta1-piperideine-2-carboxylate reductase	1.5.1.21	L-Pipecolate	H+	white
+delta1-piperideine-2-carboxylate reductase	1.5.1.21	L-Pipecolate	NADPH	white
+delta1-piperideine-2-carboxylate reductase	1.5.1.21	NADP+	Delta1-Piperideine-2-carboxylate	white
+delta1-piperideine-2-carboxylate reductase	1.5.1.21	NADP+	H+	white
+delta1-piperideine-2-carboxylate reductase	1.5.1.21	NADP+	NADPH	white
+delta1-piperideine-2-carboxylate reductase	1.5.1.21	NADPH	L-Pipecolate	white
+delta1-piperideine-2-carboxylate reductase	1.5.1.21	NADPH	NADP+	white
+dihydrolipoyl dehydrogenase	1.8.1.4	Enzyme N6-(dihydrolipoyl)lysine	Enzyme N6-(lipoyl)lysine	green
+dihydrolipoyl dehydrogenase	1.8.1.4	Enzyme N6-(dihydrolipoyl)lysine	H+	green
+dihydrolipoyl dehydrogenase	1.8.1.4	Enzyme N6-(dihydrolipoyl)lysine	NADH	green
+dihydrolipoyl dehydrogenase	1.8.1.4	NAD+	Enzyme N6-(lipoyl)lysine	green
+dihydrolipoyl dehydrogenase	1.8.1.4	NAD+	H+	green
+dihydrolipoyl dehydrogenase	1.8.1.4	NAD+	NADH	green
+enoyl-CoA hydratase	4.2.1.17	(S)-3-Hydroxybutanoyl-CoA	Crotonoyl-CoA	green
+enoyl-CoA hydratase	4.2.1.17	(S)-3-Hydroxybutanoyl-CoA	H2O	green
+gamma-butyrobetaine dioxygenase	1.14.11.1	2-Oxoglutarate	CO2	white
+gamma-butyrobetaine dioxygenase	1.14.11.1	2-Oxoglutarate	Carnitine	white
+gamma-butyrobetaine dioxygenase	1.14.11.1	2-Oxoglutarate	Succinate	white
+gamma-butyrobetaine dioxygenase	1.14.11.1	4-Trimethylammoniobutanoate	CO2	white
+gamma-butyrobetaine dioxygenase	1.14.11.1	4-Trimethylammoniobutanoate	Carnitine	white
+gamma-butyrobetaine dioxygenase	1.14.11.1	4-Trimethylammoniobutanoate	Succinate	white
+gamma-butyrobetaine dioxygenase	1.14.11.1	CO2	2-Oxoglutarate	white
+gamma-butyrobetaine dioxygenase	1.14.11.1	CO2	4-Trimethylammoniobutanoate	white
+gamma-butyrobetaine dioxygenase	1.14.11.1	CO2	Oxygen	white
+gamma-butyrobetaine dioxygenase	1.14.11.1	Carnitine	2-Oxoglutarate	white
+gamma-butyrobetaine dioxygenase	1.14.11.1	Carnitine	4-Trimethylammoniobutanoate	white
+gamma-butyrobetaine dioxygenase	1.14.11.1	Carnitine	Oxygen	white
+gamma-butyrobetaine dioxygenase	1.14.11.1	Oxygen	CO2	white
+gamma-butyrobetaine dioxygenase	1.14.11.1	Oxygen	Carnitine	white
+gamma-butyrobetaine dioxygenase	1.14.11.1	Oxygen	Succinate	white
+gamma-butyrobetaine dioxygenase	1.14.11.1	Succinate	2-Oxoglutarate	white
+gamma-butyrobetaine dioxygenase	1.14.11.1	Succinate	4-Trimethylammoniobutanoate	white
+gamma-butyrobetaine dioxygenase	1.14.11.1	Succinate	Oxygen	white
+glutarate dioxygenase	1.14.11.64	(S)-2-Hydroxyglutarate	2-Oxoglutarate	white
+glutarate dioxygenase	1.14.11.64	(S)-2-Hydroxyglutarate	Glutarate	white
+glutarate dioxygenase	1.14.11.64	(S)-2-Hydroxyglutarate	Oxygen	white
+glutarate dioxygenase	1.14.11.64	2-Oxoglutarate	(S)-2-Hydroxyglutarate	white
+glutarate dioxygenase	1.14.11.64	2-Oxoglutarate	CO2	white
+glutarate dioxygenase	1.14.11.64	2-Oxoglutarate	Succinate	white
+glutarate dioxygenase	1.14.11.64	CO2	2-Oxoglutarate	white
+glutarate dioxygenase	1.14.11.64	CO2	Glutarate	white
+glutarate dioxygenase	1.14.11.64	CO2	Oxygen	white
+glutarate dioxygenase	1.14.11.64	Glutarate	(S)-2-Hydroxyglutarate	white
+glutarate dioxygenase	1.14.11.64	Glutarate	CO2	white
+glutarate dioxygenase	1.14.11.64	Glutarate	Succinate	white
+glutarate dioxygenase	1.14.11.64	Oxygen	(S)-2-Hydroxyglutarate	white
+glutarate dioxygenase	1.14.11.64	Oxygen	CO2	white
+glutarate dioxygenase	1.14.11.64	Oxygen	Succinate	white
+glutarate dioxygenase	1.14.11.64	Succinate	2-Oxoglutarate	white
+glutarate dioxygenase	1.14.11.64	Succinate	Glutarate	white
+glutarate dioxygenase	1.14.11.64	Succinate	Oxygen	white
+glutaryl-CoA dehydrogenase	1.3.8.6	Electron-transferring flavoprotein	CO2	green
+glutaryl-CoA dehydrogenase	1.3.8.6	Electron-transferring flavoprotein	Crotonoyl-CoA	green
+glutaryl-CoA dehydrogenase	1.3.8.6	Electron-transferring flavoprotein	Reduced electron-transferring flavoprotein	green
+glutaryl-CoA dehydrogenase	1.3.8.6	Glutaryl-CoA	CO2	green
+glutaryl-CoA dehydrogenase	1.3.8.6	Glutaryl-CoA	Crotonoyl-CoA	green
+glutaryl-CoA dehydrogenase	1.3.8.6	Glutaryl-CoA	Reduced electron-transferring flavoprotein	green
+glutaryl-CoA transferase	2.8.3.-	Glutarate	Glutaryl-CoA	white
+glutaryl-CoA transferase	2.8.3.-	Glutarate	Succinate	white
+glutaryl-CoA transferase	2.8.3.-	Glutaryl-CoA	Glutarate	white
+glutaryl-CoA transferase	2.8.3.-	Glutaryl-CoA	Succinyl-CoA	white
+glutaryl-CoA transferase	2.8.3.-	Succinate	Glutarate	white
+glutaryl-CoA transferase	2.8.3.-	Succinate	Succinyl-CoA	white
+glutaryl-CoA transferase	2.8.3.-	Succinyl-CoA	Glutaryl-CoA	white
+glutaryl-CoA transferase	2.8.3.-	Succinyl-CoA	Succinate	white
+hydroxylysine kinase	2.7.1.81	5-Phosphooxy-L-lysine	GTP	white
+hydroxylysine kinase	2.7.1.81	5-Phosphooxy-L-lysine	L-Hydroxylysine	white
+hydroxylysine kinase	2.7.1.81	GDP	GTP	white
+hydroxylysine kinase	2.7.1.81	GDP	L-Hydroxylysine	white
+hydroxylysine kinase	2.7.1.81	GTP	5-Phosphooxy-L-lysine	white
+hydroxylysine kinase	2.7.1.81	GTP	GDP	white
+hydroxylysine kinase	2.7.1.81	L-Hydroxylysine	5-Phosphooxy-L-lysine	white
+hydroxylysine kinase	2.7.1.81	L-Hydroxylysine	GDP	white
+kynurenine/2-aminoadipate aminotransferase	2.6.1.7	2-Oxoadipate	2-Oxoglutarate	white
+kynurenine/2-aminoadipate aminotransferase	2.6.1.7	2-Oxoadipate	L-2-Aminoadipate	white
+kynurenine/2-aminoadipate aminotransferase	2.6.1.7	2-Oxoglutarate	2-Oxoadipate	white
+kynurenine/2-aminoadipate aminotransferase	2.6.1.7	2-Oxoglutarate	L-Glutamate	white
+kynurenine/2-aminoadipate aminotransferase	2.6.1.7	L-2-Aminoadipate	2-Oxoadipate	white
+kynurenine/2-aminoadipate aminotransferase	2.6.1.7	L-2-Aminoadipate	L-Glutamate	white
+kynurenine/2-aminoadipate aminotransferase	2.6.1.7	L-Glutamate	2-Oxoglutarate	white
+kynurenine/2-aminoadipate aminotransferase	2.6.1.7	L-Glutamate	L-2-Aminoadipate	white
+lysine 2,3-aminomutase	5.4.3.2	(3S)-3,6-Diaminohexanoate	L-Lysine	white
+lysine 2,3-aminomutase	5.4.3.2	L-Lysine	(3S)-3,6-Diaminohexanoate	white
+lysine 2-monooxygenase	1.13.12.2	L-Lysine	5-Aminopentanamide	green
+lysine 2-monooxygenase	1.13.12.2	L-Lysine	CO2	green
+lysine 2-monooxygenase	1.13.12.2	L-Lysine	H2O	green
+lysine 2-monooxygenase	1.13.12.2	Oxygen	5-Aminopentanamide	green
+lysine 2-monooxygenase	1.13.12.2	Oxygen	CO2	green
+lysine 2-monooxygenase	1.13.12.2	Oxygen	H2O	green
+lysine decarboxylase	4.1.1.18	CO2	L-Lysine	white
+lysine decarboxylase	4.1.1.18	Cadaverine	L-Lysine	white
+lysine decarboxylase	4.1.1.18	L-Lysine	CO2	white
+lysine decarboxylase	4.1.1.18	L-Lysine	Cadaverine	white
+lysyl hydroxylase/galactosyltransferase/glucosyltransferase	1.14.11.4	2-Oxoglutarate	CO2	white
+lysyl hydroxylase/galactosyltransferase/glucosyltransferase	1.14.11.4	2-Oxoglutarate	Procollagen 5-hydroxy-L-lysine	white
+lysyl hydroxylase/galactosyltransferase/glucosyltransferase	1.14.11.4	2-Oxoglutarate	Succinate	white
+lysyl hydroxylase/galactosyltransferase/glucosyltransferase	1.14.11.4	CO2	2-Oxoglutarate	white
+lysyl hydroxylase/galactosyltransferase/glucosyltransferase	1.14.11.4	CO2	Oxygen	white
+lysyl hydroxylase/galactosyltransferase/glucosyltransferase	1.14.11.4	CO2	Protein lysine	white
+lysyl hydroxylase/galactosyltransferase/glucosyltransferase	1.14.11.4	Oxygen	CO2	white
+lysyl hydroxylase/galactosyltransferase/glucosyltransferase	1.14.11.4	Oxygen	Procollagen 5-hydroxy-L-lysine	white
+lysyl hydroxylase/galactosyltransferase/glucosyltransferase	1.14.11.4	Oxygen	Succinate	white
+lysyl hydroxylase/galactosyltransferase/glucosyltransferase	1.14.11.4	Procollagen 5-hydroxy-L-lysine	2-Oxoglutarate	white
+lysyl hydroxylase/galactosyltransferase/glucosyltransferase	1.14.11.4	Procollagen 5-hydroxy-L-lysine	Oxygen	white
+lysyl hydroxylase/galactosyltransferase/glucosyltransferase	1.14.11.4	Procollagen 5-hydroxy-L-lysine	Protein lysine	white
+lysyl hydroxylase/galactosyltransferase/glucosyltransferase	1.14.11.4	Protein lysine	CO2	white
+lysyl hydroxylase/galactosyltransferase/glucosyltransferase	1.14.11.4	Protein lysine	Procollagen 5-hydroxy-L-lysine	white
+lysyl hydroxylase/galactosyltransferase/glucosyltransferase	1.14.11.4	Protein lysine	Succinate	white
+lysyl hydroxylase/galactosyltransferase/glucosyltransferase	1.14.11.4	Succinate	2-Oxoglutarate	white
+lysyl hydroxylase/galactosyltransferase/glucosyltransferase	1.14.11.4	Succinate	Oxygen	white
+lysyl hydroxylase/galactosyltransferase/glucosyltransferase	1.14.11.4	Succinate	Protein lysine	white
+procollagen-lysine,2-oxoglutarate 5-dioxygenase 1	1.14.11.4	2-Oxoglutarate	CO2	white
+procollagen-lysine,2-oxoglutarate 5-dioxygenase 1	1.14.11.4	2-Oxoglutarate	Procollagen 5-hydroxy-L-lysine	white
+procollagen-lysine,2-oxoglutarate 5-dioxygenase 1	1.14.11.4	2-Oxoglutarate	Succinate	white
+procollagen-lysine,2-oxoglutarate 5-dioxygenase 1	1.14.11.4	CO2	2-Oxoglutarate	white
+procollagen-lysine,2-oxoglutarate 5-dioxygenase 1	1.14.11.4	CO2	Oxygen	white
+procollagen-lysine,2-oxoglutarate 5-dioxygenase 1	1.14.11.4	CO2	Protein lysine	white
+procollagen-lysine,2-oxoglutarate 5-dioxygenase 1	1.14.11.4	Oxygen	CO2	white
+procollagen-lysine,2-oxoglutarate 5-dioxygenase 1	1.14.11.4	Oxygen	Procollagen 5-hydroxy-L-lysine	white
+procollagen-lysine,2-oxoglutarate 5-dioxygenase 1	1.14.11.4	Oxygen	Succinate	white
+procollagen-lysine,2-oxoglutarate 5-dioxygenase 1	1.14.11.4	Procollagen 5-hydroxy-L-lysine	2-Oxoglutarate	white
+procollagen-lysine,2-oxoglutarate 5-dioxygenase 1	1.14.11.4	Procollagen 5-hydroxy-L-lysine	Oxygen	white
+procollagen-lysine,2-oxoglutarate 5-dioxygenase 1	1.14.11.4	Procollagen 5-hydroxy-L-lysine	Protein lysine	white
+procollagen-lysine,2-oxoglutarate 5-dioxygenase 1	1.14.11.4	Protein lysine	CO2	white
+procollagen-lysine,2-oxoglutarate 5-dioxygenase 1	1.14.11.4	Protein lysine	Procollagen 5-hydroxy-L-lysine	white
+procollagen-lysine,2-oxoglutarate 5-dioxygenase 1	1.14.11.4	Protein lysine	Succinate	white
+procollagen-lysine,2-oxoglutarate 5-dioxygenase 1	1.14.11.4	Succinate	2-Oxoglutarate	white
+procollagen-lysine,2-oxoglutarate 5-dioxygenase 1	1.14.11.4	Succinate	Oxygen	white
+procollagen-lysine,2-oxoglutarate 5-dioxygenase 1	1.14.11.4	Succinate	Protein lysine	white
+procollagen-lysine,2-oxoglutarate 5-dioxygenase 2	1.14.11.4	2-Oxoglutarate	CO2	white
+procollagen-lysine,2-oxoglutarate 5-dioxygenase 2	1.14.11.4	2-Oxoglutarate	Procollagen 5-hydroxy-L-lysine	white
+procollagen-lysine,2-oxoglutarate 5-dioxygenase 2	1.14.11.4	2-Oxoglutarate	Succinate	white
+procollagen-lysine,2-oxoglutarate 5-dioxygenase 2	1.14.11.4	CO2	2-Oxoglutarate	white
+procollagen-lysine,2-oxoglutarate 5-dioxygenase 2	1.14.11.4	CO2	Oxygen	white
+procollagen-lysine,2-oxoglutarate 5-dioxygenase 2	1.14.11.4	CO2	Protein lysine	white
+procollagen-lysine,2-oxoglutarate 5-dioxygenase 2	1.14.11.4	Oxygen	CO2	white
+procollagen-lysine,2-oxoglutarate 5-dioxygenase 2	1.14.11.4	Oxygen	Procollagen 5-hydroxy-L-lysine	white
+procollagen-lysine,2-oxoglutarate 5-dioxygenase 2	1.14.11.4	Oxygen	Succinate	white
+procollagen-lysine,2-oxoglutarate 5-dioxygenase 2	1.14.11.4	Procollagen 5-hydroxy-L-lysine	2-Oxoglutarate	white
+procollagen-lysine,2-oxoglutarate 5-dioxygenase 2	1.14.11.4	Procollagen 5-hydroxy-L-lysine	Oxygen	white
+procollagen-lysine,2-oxoglutarate 5-dioxygenase 2	1.14.11.4	Procollagen 5-hydroxy-L-lysine	Protein lysine	white
+procollagen-lysine,2-oxoglutarate 5-dioxygenase 2	1.14.11.4	Protein lysine	CO2	white
+procollagen-lysine,2-oxoglutarate 5-dioxygenase 2	1.14.11.4	Protein lysine	Procollagen 5-hydroxy-L-lysine	white
+procollagen-lysine,2-oxoglutarate 5-dioxygenase 2	1.14.11.4	Protein lysine	Succinate	white
+procollagen-lysine,2-oxoglutarate 5-dioxygenase 2	1.14.11.4	Succinate	2-Oxoglutarate	white
+procollagen-lysine,2-oxoglutarate 5-dioxygenase 2	1.14.11.4	Succinate	Oxygen	white
+procollagen-lysine,2-oxoglutarate 5-dioxygenase 2	1.14.11.4	Succinate	Protein lysine	white
+procollagen-lysine,2-oxoglutarate 5-dioxygenase, invertebrate	1.14.11.4	2-Oxoglutarate	CO2	white
+procollagen-lysine,2-oxoglutarate 5-dioxygenase, invertebrate	1.14.11.4	2-Oxoglutarate	Procollagen 5-hydroxy-L-lysine	white
+procollagen-lysine,2-oxoglutarate 5-dioxygenase, invertebrate	1.14.11.4	2-Oxoglutarate	Succinate	white
+procollagen-lysine,2-oxoglutarate 5-dioxygenase, invertebrate	1.14.11.4	CO2	2-Oxoglutarate	white
+procollagen-lysine,2-oxoglutarate 5-dioxygenase, invertebrate	1.14.11.4	CO2	Oxygen	white
+procollagen-lysine,2-oxoglutarate 5-dioxygenase, invertebrate	1.14.11.4	CO2	Protein lysine	white
+procollagen-lysine,2-oxoglutarate 5-dioxygenase, invertebrate	1.14.11.4	Oxygen	CO2	white
+procollagen-lysine,2-oxoglutarate 5-dioxygenase, invertebrate	1.14.11.4	Oxygen	Procollagen 5-hydroxy-L-lysine	white
+procollagen-lysine,2-oxoglutarate 5-dioxygenase, invertebrate	1.14.11.4	Oxygen	Succinate	white
+procollagen-lysine,2-oxoglutarate 5-dioxygenase, invertebrate	1.14.11.4	Procollagen 5-hydroxy-L-lysine	2-Oxoglutarate	white
+procollagen-lysine,2-oxoglutarate 5-dioxygenase, invertebrate	1.14.11.4	Procollagen 5-hydroxy-L-lysine	Oxygen	white
+procollagen-lysine,2-oxoglutarate 5-dioxygenase, invertebrate	1.14.11.4	Procollagen 5-hydroxy-L-lysine	Protein lysine	white
+procollagen-lysine,2-oxoglutarate 5-dioxygenase, invertebrate	1.14.11.4	Protein lysine	CO2	white
+procollagen-lysine,2-oxoglutarate 5-dioxygenase, invertebrate	1.14.11.4	Protein lysine	Procollagen 5-hydroxy-L-lysine	white
+procollagen-lysine,2-oxoglutarate 5-dioxygenase, invertebrate	1.14.11.4	Protein lysine	Succinate	white
+procollagen-lysine,2-oxoglutarate 5-dioxygenase, invertebrate	1.14.11.4	Succinate	2-Oxoglutarate	white
+procollagen-lysine,2-oxoglutarate 5-dioxygenase, invertebrate	1.14.11.4	Succinate	Oxygen	white
+procollagen-lysine,2-oxoglutarate 5-dioxygenase, invertebrate	1.14.11.4	Succinate	Protein lysine	white
+putrescine aminotransferase	2.6.1.82	2-Oxoglutarate	4-Aminobutyraldehyde	white
+putrescine aminotransferase	2.6.1.82	2-Oxoglutarate	L-Glutamate	white
+putrescine aminotransferase	2.6.1.82	4-Aminobutyraldehyde	2-Oxoglutarate	white
+putrescine aminotransferase	2.6.1.82	4-Aminobutyraldehyde	Putrescine	white
+putrescine aminotransferase	2.6.1.82	L-Glutamate	2-Oxoglutarate	white
+putrescine aminotransferase	2.6.1.82	L-Glutamate	Putrescine	white
+putrescine aminotransferase	2.6.1.82	Putrescine	4-Aminobutyraldehyde	white
+putrescine aminotransferase	2.6.1.82	Putrescine	L-Glutamate	white
+saccharopine dehydrogenase (NAD+, L-lysine forming)	1.5.1.7	2-Oxoglutarate	H2O	white
+saccharopine dehydrogenase (NAD+, L-lysine forming)	1.5.1.7	2-Oxoglutarate	N6-(L-1,3-Dicarboxypropyl)-L-lysine	white
+saccharopine dehydrogenase (NAD+, L-lysine forming)	1.5.1.7	2-Oxoglutarate	NAD+	white
+saccharopine dehydrogenase (NAD+, L-lysine forming)	1.5.1.7	H+	H2O	white
+saccharopine dehydrogenase (NAD+, L-lysine forming)	1.5.1.7	H+	N6-(L-1,3-Dicarboxypropyl)-L-lysine	white
+saccharopine dehydrogenase (NAD+, L-lysine forming)	1.5.1.7	H+	NAD+	white
+saccharopine dehydrogenase (NAD+, L-lysine forming)	1.5.1.7	H2O	2-Oxoglutarate	white
+saccharopine dehydrogenase (NAD+, L-lysine forming)	1.5.1.7	H2O	H+	white
+saccharopine dehydrogenase (NAD+, L-lysine forming)	1.5.1.7	H2O	L-Lysine	white
+saccharopine dehydrogenase (NAD+, L-lysine forming)	1.5.1.7	H2O	NADH	white
+saccharopine dehydrogenase (NAD+, L-lysine forming)	1.5.1.7	L-Lysine	H2O	white
+saccharopine dehydrogenase (NAD+, L-lysine forming)	1.5.1.7	L-Lysine	N6-(L-1,3-Dicarboxypropyl)-L-lysine	white
+saccharopine dehydrogenase (NAD+, L-lysine forming)	1.5.1.7	L-Lysine	NAD+	white
+saccharopine dehydrogenase (NAD+, L-lysine forming)	1.5.1.7	N6-(L-1,3-Dicarboxypropyl)-L-lysine	2-Oxoglutarate	white
+saccharopine dehydrogenase (NAD+, L-lysine forming)	1.5.1.7	N6-(L-1,3-Dicarboxypropyl)-L-lysine	H+	white
+saccharopine dehydrogenase (NAD+, L-lysine forming)	1.5.1.7	N6-(L-1,3-Dicarboxypropyl)-L-lysine	L-Lysine	white
+saccharopine dehydrogenase (NAD+, L-lysine forming)	1.5.1.7	N6-(L-1,3-Dicarboxypropyl)-L-lysine	NADH	white
+saccharopine dehydrogenase (NAD+, L-lysine forming)	1.5.1.7	NAD+	2-Oxoglutarate	white
+saccharopine dehydrogenase (NAD+, L-lysine forming)	1.5.1.7	NAD+	H+	white
+saccharopine dehydrogenase (NAD+, L-lysine forming)	1.5.1.7	NAD+	L-Lysine	white
+saccharopine dehydrogenase (NAD+, L-lysine forming)	1.5.1.7	NAD+	NADH	white
+saccharopine dehydrogenase (NAD+, L-lysine forming)	1.5.1.7	NADH	H2O	white
+saccharopine dehydrogenase (NAD+, L-lysine forming)	1.5.1.7	NADH	N6-(L-1,3-Dicarboxypropyl)-L-lysine	white
+saccharopine dehydrogenase (NAD+, L-lysine forming)	1.5.1.7	NADH	NAD+	white
+saccharopine dehydrogenase (NADP+, L-glutamate forming)	1.5.1.10	H+	H2O	white
+saccharopine dehydrogenase (NADP+, L-glutamate forming)	1.5.1.10	H+	N6-(L-1,3-Dicarboxypropyl)-L-lysine	white
+saccharopine dehydrogenase (NADP+, L-glutamate forming)	1.5.1.10	H+	NADP+	white
+saccharopine dehydrogenase (NADP+, L-glutamate forming)	1.5.1.10	H2O	H+	white
+saccharopine dehydrogenase (NADP+, L-glutamate forming)	1.5.1.10	H2O	L-2-Aminoadipate 6-semialdehyde	white
+saccharopine dehydrogenase (NADP+, L-glutamate forming)	1.5.1.10	H2O	L-Glutamate	white
+saccharopine dehydrogenase (NADP+, L-glutamate forming)	1.5.1.10	H2O	NADPH	white
+saccharopine dehydrogenase (NADP+, L-glutamate forming)	1.5.1.10	L-2-Aminoadipate 6-semialdehyde	H2O	white
+saccharopine dehydrogenase (NADP+, L-glutamate forming)	1.5.1.10	L-2-Aminoadipate 6-semialdehyde	N6-(L-1,3-Dicarboxypropyl)-L-lysine	white
+saccharopine dehydrogenase (NADP+, L-glutamate forming)	1.5.1.10	L-2-Aminoadipate 6-semialdehyde	NADP+	white
+saccharopine dehydrogenase (NADP+, L-glutamate forming)	1.5.1.10	L-Glutamate	H2O	white
+saccharopine dehydrogenase (NADP+, L-glutamate forming)	1.5.1.10	L-Glutamate	N6-(L-1,3-Dicarboxypropyl)-L-lysine	white
+saccharopine dehydrogenase (NADP+, L-glutamate forming)	1.5.1.10	L-Glutamate	NADP+	white
+saccharopine dehydrogenase (NADP+, L-glutamate forming)	1.5.1.10	N6-(L-1,3-Dicarboxypropyl)-L-lysine	H+	white
+saccharopine dehydrogenase (NADP+, L-glutamate forming)	1.5.1.10	N6-(L-1,3-Dicarboxypropyl)-L-lysine	L-2-Aminoadipate 6-semialdehyde	white
+saccharopine dehydrogenase (NADP+, L-glutamate forming)	1.5.1.10	N6-(L-1,3-Dicarboxypropyl)-L-lysine	L-Glutamate	white
+saccharopine dehydrogenase (NADP+, L-glutamate forming)	1.5.1.10	N6-(L-1,3-Dicarboxypropyl)-L-lysine	NADPH	white
+saccharopine dehydrogenase (NADP+, L-glutamate forming)	1.5.1.10	NADP+	H+	white
+saccharopine dehydrogenase (NADP+, L-glutamate forming)	1.5.1.10	NADP+	L-2-Aminoadipate 6-semialdehyde	white
+saccharopine dehydrogenase (NADP+, L-glutamate forming)	1.5.1.10	NADP+	L-Glutamate	white
+saccharopine dehydrogenase (NADP+, L-glutamate forming)	1.5.1.10	NADP+	NADPH	white
+saccharopine dehydrogenase (NADP+, L-glutamate forming)	1.5.1.10	NADPH	H2O	white
+saccharopine dehydrogenase (NADP+, L-glutamate forming)	1.5.1.10	NADPH	N6-(L-1,3-Dicarboxypropyl)-L-lysine	white
+saccharopine dehydrogenase (NADP+, L-glutamate forming)	1.5.1.10	NADPH	NADP+	white
+sarcosine oxidase / L-pipecolate oxidase	1.5.3.1	Formaldehyde	H2O	white
+sarcosine oxidase / L-pipecolate oxidase	1.5.3.1	Formaldehyde	Oxygen	white
+sarcosine oxidase / L-pipecolate oxidase	1.5.3.1	Formaldehyde	Sarcosine	white
+sarcosine oxidase / L-pipecolate oxidase	1.5.3.1	Glycine	H2O	white
+sarcosine oxidase / L-pipecolate oxidase	1.5.3.1	Glycine	Oxygen	white
+sarcosine oxidase / L-pipecolate oxidase	1.5.3.1	Glycine	Sarcosine	white
+sarcosine oxidase / L-pipecolate oxidase	1.5.3.1	H2O	Formaldehyde	white
+sarcosine oxidase / L-pipecolate oxidase	1.5.3.1	H2O	Glycine	white
+sarcosine oxidase / L-pipecolate oxidase	1.5.3.1	H2O	Hydrogen peroxide	white
+sarcosine oxidase / L-pipecolate oxidase	1.5.3.1	Hydrogen peroxide	H2O	white
+sarcosine oxidase / L-pipecolate oxidase	1.5.3.1	Hydrogen peroxide	Oxygen	white
+sarcosine oxidase / L-pipecolate oxidase	1.5.3.1	Hydrogen peroxide	Sarcosine	white
+sarcosine oxidase / L-pipecolate oxidase	1.5.3.1	Oxygen	Formaldehyde	white
+sarcosine oxidase / L-pipecolate oxidase	1.5.3.1	Oxygen	Glycine	white
+sarcosine oxidase / L-pipecolate oxidase	1.5.3.1	Oxygen	Hydrogen peroxide	white
+sarcosine oxidase / L-pipecolate oxidase	1.5.3.1	Sarcosine	Formaldehyde	white
+sarcosine oxidase / L-pipecolate oxidase	1.5.3.1	Sarcosine	Glycine	white
+sarcosine oxidase / L-pipecolate oxidase	1.5.3.1	Sarcosine	Hydrogen peroxide	white
+spermidine synthase / saccharopine dehydrogenase (NADP+, L-glutamate-forming)	2.5.1.16	5'-Methylthioadenosine	Putrescine	white
+spermidine synthase / saccharopine dehydrogenase (NADP+, L-glutamate-forming)	2.5.1.16	5'-Methylthioadenosine	S-Adenosylmethioninamine	white
+spermidine synthase / saccharopine dehydrogenase (NADP+, L-glutamate-forming)	2.5.1.16	Putrescine	5'-Methylthioadenosine	white
+spermidine synthase / saccharopine dehydrogenase (NADP+, L-glutamate-forming)	2.5.1.16	Putrescine	Spermidine	white
+spermidine synthase / saccharopine dehydrogenase (NADP+, L-glutamate-forming)	2.5.1.16	S-Adenosylmethioninamine	5'-Methylthioadenosine	white
+spermidine synthase / saccharopine dehydrogenase (NADP+, L-glutamate-forming)	2.5.1.16	S-Adenosylmethioninamine	Spermidine	white
+spermidine synthase / saccharopine dehydrogenase (NADP+, L-glutamate-forming)	2.5.1.16	Spermidine	Putrescine	white
+spermidine synthase / saccharopine dehydrogenase (NADP+, L-glutamate-forming)	2.5.1.16	Spermidine	S-Adenosylmethioninamine	white
+succinate-semialdehyde dehydrogenase / glutarate-semialdehyde dehydrogenase	1.2.1.16	5-Oxopentanoate	Glutarate	green
+succinate-semialdehyde dehydrogenase / glutarate-semialdehyde dehydrogenase	1.2.1.16	5-Oxopentanoate	H+	green
+succinate-semialdehyde dehydrogenase / glutarate-semialdehyde dehydrogenase	1.2.1.16	5-Oxopentanoate	NADH	green
+succinate-semialdehyde dehydrogenase / glutarate-semialdehyde dehydrogenase	1.2.1.16	Glutarate	5-Oxopentanoate	green
+succinate-semialdehyde dehydrogenase / glutarate-semialdehyde dehydrogenase	1.2.1.16	Glutarate	H2O	green
+succinate-semialdehyde dehydrogenase / glutarate-semialdehyde dehydrogenase	1.2.1.16	Glutarate	NAD+	green
+succinate-semialdehyde dehydrogenase / glutarate-semialdehyde dehydrogenase	1.2.1.16	H+	5-Oxopentanoate	green
+succinate-semialdehyde dehydrogenase / glutarate-semialdehyde dehydrogenase	1.2.1.16	H+	H2O	green
+succinate-semialdehyde dehydrogenase / glutarate-semialdehyde dehydrogenase	1.2.1.16	H+	NAD+	green
+succinate-semialdehyde dehydrogenase / glutarate-semialdehyde dehydrogenase	1.2.1.16	H2O	Glutarate	green
+succinate-semialdehyde dehydrogenase / glutarate-semialdehyde dehydrogenase	1.2.1.16	H2O	H+	green
+succinate-semialdehyde dehydrogenase / glutarate-semialdehyde dehydrogenase	1.2.1.16	H2O	NADH	green
+succinate-semialdehyde dehydrogenase / glutarate-semialdehyde dehydrogenase	1.2.1.16	NAD+	Glutarate	green
+succinate-semialdehyde dehydrogenase / glutarate-semialdehyde dehydrogenase	1.2.1.16	NAD+	H+	green
+succinate-semialdehyde dehydrogenase / glutarate-semialdehyde dehydrogenase	1.2.1.16	NAD+	NADH	green
+succinate-semialdehyde dehydrogenase / glutarate-semialdehyde dehydrogenase	1.2.1.16	NADH	5-Oxopentanoate	green
+succinate-semialdehyde dehydrogenase / glutarate-semialdehyde dehydrogenase	1.2.1.16	NADH	H2O	green
+succinate-semialdehyde dehydrogenase / glutarate-semialdehyde dehydrogenase	1.2.1.16	NADH	NAD+	green
+trimethyllysine dioxygenase	1.14.11.8	(3S)-3-Hydroxy-N6,N6,N6-trimethyl-L-lysine	2-Oxoglutarate	white
+trimethyllysine dioxygenase	1.14.11.8	(3S)-3-Hydroxy-N6,N6,N6-trimethyl-L-lysine	N6,N6,N6-Trimethyl-L-lysine	white
+trimethyllysine dioxygenase	1.14.11.8	(3S)-3-Hydroxy-N6,N6,N6-trimethyl-L-lysine	Oxygen	white
+trimethyllysine dioxygenase	1.14.11.8	2-Oxoglutarate	(3S)-3-Hydroxy-N6,N6,N6-trimethyl-L-lysine	white
+trimethyllysine dioxygenase	1.14.11.8	2-Oxoglutarate	CO2	white
+trimethyllysine dioxygenase	1.14.11.8	2-Oxoglutarate	Succinate	white
+trimethyllysine dioxygenase	1.14.11.8	CO2	2-Oxoglutarate	white
+trimethyllysine dioxygenase	1.14.11.8	CO2	N6,N6,N6-Trimethyl-L-lysine	white
+trimethyllysine dioxygenase	1.14.11.8	CO2	Oxygen	white
+trimethyllysine dioxygenase	1.14.11.8	N6,N6,N6-Trimethyl-L-lysine	(3S)-3-Hydroxy-N6,N6,N6-trimethyl-L-lysine	white
+trimethyllysine dioxygenase	1.14.11.8	N6,N6,N6-Trimethyl-L-lysine	CO2	white
+trimethyllysine dioxygenase	1.14.11.8	N6,N6,N6-Trimethyl-L-lysine	Succinate	white
+trimethyllysine dioxygenase	1.14.11.8	Oxygen	(3S)-3-Hydroxy-N6,N6,N6-trimethyl-L-lysine	white
+trimethyllysine dioxygenase	1.14.11.8	Oxygen	CO2	white
+trimethyllysine dioxygenase	1.14.11.8	Oxygen	Succinate	white
+trimethyllysine dioxygenase	1.14.11.8	Succinate	2-Oxoglutarate	white
+trimethyllysine dioxygenase	1.14.11.8	Succinate	N6,N6,N6-Trimethyl-L-lysine	white
+trimethyllysine dioxygenase	1.14.11.8	Succinate	Oxygen	white
