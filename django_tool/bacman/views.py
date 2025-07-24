@@ -36,9 +36,20 @@ def orthologs(request):
 
 def summary(request):
     if request.method == "POST":
-        selected_data = json.loads(request.POST.get('selected_data', '[]'))
+        selections = request.POST.getlist('selections')
+        parsed_data = []
 
-        return render(request, 'bacman/summary.html', {'selections': selected_data})
+        for item in selections:
+            ec_number, organism, header, sequence, length = item.split("||")
+            parsed_data.append({
+                "ec": ec_number,
+                "organism": organism,
+                "header": header,
+                "sequence": sequence,
+                "length": length,
+            })
+
+        return render(request, 'bacman/summary.html', {'selections': parsed_data})
 
 
 def contact(request):
