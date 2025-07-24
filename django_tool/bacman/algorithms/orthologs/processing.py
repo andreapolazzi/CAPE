@@ -1,4 +1,4 @@
-from ncbi_filtering import fetch_protein_ids, fetch_sequences, parse_fasta
+from filters.ncbi_filtering import fetch_protein_ids, fetch_sequences, parse_fasta
 import pandas as pd
 import regex as re
 
@@ -10,7 +10,7 @@ def extract_organism(header):
 
 def process_ec_number(ec_number):
         '''Process an EC number by fetching sequences and returning a DataFrame and metadata summary'''
-        from remove_outliers import filter_by_length
+        from filters.remove_outliers import filter_by_length
 
         orgs = ['Rhodococcus', 'Nocardiaceae', 'Mycobacteriales', 'Actinomycetes', 'Actinomycetota', 'Bacillati']
         for org in orgs:
