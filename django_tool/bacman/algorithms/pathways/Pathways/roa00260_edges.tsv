@@ -1,805 +1,833 @@
-enzyme_name	EC	source	target	color
-2,3-bisphosphoglycerate-dependent phosphoglycerate mutase	5.4.2.11	2-Phospho-D-glycerate	3-Phospho-D-glycerate	green
-2,3-bisphosphoglycerate-independent phosphoglycerate mutase	5.4.2.12	2-Phospho-D-glycerate	3-Phospho-D-glycerate	white
-2,3-bisphosphoglycerate-independent phosphoglycerate mutase	5.4.2.12	3-Phospho-D-glycerate	2-Phospho-D-glycerate	white
-3-hydroxy acid dehydrogenase / malonic semialdehyde reductase	1.1.1.381	3-Hydroxypropanoate	3-Oxopropanoate	white
-3-hydroxy acid dehydrogenase / malonic semialdehyde reductase	1.1.1.381	3-Hydroxypropanoate	H+	white
-3-hydroxy acid dehydrogenase / malonic semialdehyde reductase	1.1.1.381	3-Hydroxypropanoate	NADPH	white
-3-hydroxy acid dehydrogenase / malonic semialdehyde reductase	1.1.1.381	3-Oxopropanoate	3-Hydroxypropanoate	white
-3-hydroxy acid dehydrogenase / malonic semialdehyde reductase	1.1.1.381	3-Oxopropanoate	NADP+	white
-3-hydroxy acid dehydrogenase / malonic semialdehyde reductase	1.1.1.381	H+	3-Hydroxypropanoate	white
-3-hydroxy acid dehydrogenase / malonic semialdehyde reductase	1.1.1.381	H+	NADP+	white
-3-hydroxy acid dehydrogenase / malonic semialdehyde reductase	1.1.1.381	NADP+	3-Oxopropanoate	white
-3-hydroxy acid dehydrogenase / malonic semialdehyde reductase	1.1.1.381	NADP+	H+	white
-3-hydroxy acid dehydrogenase / malonic semialdehyde reductase	1.1.1.381	NADP+	NADPH	white
-3-hydroxy acid dehydrogenase / malonic semialdehyde reductase	1.1.1.381	NADPH	3-Hydroxypropanoate	white
-3-hydroxy acid dehydrogenase / malonic semialdehyde reductase	1.1.1.381	NADPH	NADP+	white
-5-aminolevulinate synthase	2.3.1.37	5-Aminolevulinate	Glycine	white
-5-aminolevulinate synthase	2.3.1.37	5-Aminolevulinate	Succinyl-CoA	white
-5-aminolevulinate synthase	2.3.1.37	CO2	Glycine	white
-5-aminolevulinate synthase	2.3.1.37	CO2	Succinyl-CoA	white
-5-aminolevulinate synthase	2.3.1.37	CoA	Glycine	white
-5-aminolevulinate synthase	2.3.1.37	CoA	Succinyl-CoA	white
-5-aminolevulinate synthase	2.3.1.37	Glycine	5-Aminolevulinate	white
-5-aminolevulinate synthase	2.3.1.37	Glycine	CO2	white
-5-aminolevulinate synthase	2.3.1.37	Glycine	CoA	white
-5-aminolevulinate synthase	2.3.1.37	Succinyl-CoA	5-Aminolevulinate	white
-5-aminolevulinate synthase	2.3.1.37	Succinyl-CoA	CO2	white
-5-aminolevulinate synthase	2.3.1.37	Succinyl-CoA	CoA	white
-CDP-diacylglycerol---serine O-phosphatidyltransferase	2.7.8.8	CDP-diacylglycerol	CMP	green
-CDP-diacylglycerol---serine O-phosphatidyltransferase	2.7.8.8	CDP-diacylglycerol	Phosphatidylserine	green
-CDP-diacylglycerol---serine O-phosphatidyltransferase	2.7.8.8	L-Serine	CMP	green
-CDP-diacylglycerol---serine O-phosphatidyltransferase	2.7.8.8	L-Serine	Phosphatidylserine	green
-D-3-phosphoglycerate dehydrogenase / 2-oxoglutarate reductase	1.1.1.95	3-Phospho-D-glycerate	3-Phosphonooxypyruvate	green
-D-3-phosphoglycerate dehydrogenase / 2-oxoglutarate reductase	1.1.1.95	3-Phospho-D-glycerate	H+	green
-D-3-phosphoglycerate dehydrogenase / 2-oxoglutarate reductase	1.1.1.95	3-Phospho-D-glycerate	NADH	green
-D-3-phosphoglycerate dehydrogenase / 2-oxoglutarate reductase	1.1.1.95	3-Phosphonooxypyruvate	3-Phospho-D-glycerate	green
-D-3-phosphoglycerate dehydrogenase / 2-oxoglutarate reductase	1.1.1.95	3-Phosphonooxypyruvate	NAD+	green
-D-3-phosphoglycerate dehydrogenase / 2-oxoglutarate reductase	1.1.1.95	H+	3-Phospho-D-glycerate	green
-D-3-phosphoglycerate dehydrogenase / 2-oxoglutarate reductase	1.1.1.95	H+	NAD+	green
-D-3-phosphoglycerate dehydrogenase / 2-oxoglutarate reductase	1.1.1.95	NAD+	3-Phosphonooxypyruvate	green
-D-3-phosphoglycerate dehydrogenase / 2-oxoglutarate reductase	1.1.1.95	NAD+	H+	green
-D-3-phosphoglycerate dehydrogenase / 2-oxoglutarate reductase	1.1.1.95	NAD+	NADH	green
-D-3-phosphoglycerate dehydrogenase / 2-oxoglutarate reductase	1.1.1.95	NADH	3-Phospho-D-glycerate	green
-D-3-phosphoglycerate dehydrogenase / 2-oxoglutarate reductase	1.1.1.95	NADH	NAD+	green
-D-amino-acid oxidase	1.4.3.3	Ammonia	Glycine	white
-D-amino-acid oxidase	1.4.3.3	Ammonia	H2O	white
-D-amino-acid oxidase	1.4.3.3	Ammonia	Oxygen	white
-D-amino-acid oxidase	1.4.3.3	Glycine	Ammonia	white
-D-amino-acid oxidase	1.4.3.3	Glycine	Glyoxylate	white
-D-amino-acid oxidase	1.4.3.3	Glycine	Hydrogen peroxide	white
-D-amino-acid oxidase	1.4.3.3	Glyoxylate	Glycine	white
-D-amino-acid oxidase	1.4.3.3	Glyoxylate	H2O	white
-D-amino-acid oxidase	1.4.3.3	Glyoxylate	Oxygen	white
-D-amino-acid oxidase	1.4.3.3	H2O	Ammonia	white
-D-amino-acid oxidase	1.4.3.3	H2O	Glyoxylate	white
-D-amino-acid oxidase	1.4.3.3	H2O	Hydrogen peroxide	white
-D-amino-acid oxidase	1.4.3.3	Hydrogen peroxide	Glycine	white
-D-amino-acid oxidase	1.4.3.3	Hydrogen peroxide	H2O	white
-D-amino-acid oxidase	1.4.3.3	Hydrogen peroxide	Oxygen	white
-D-amino-acid oxidase	1.4.3.3	Oxygen	Ammonia	white
-D-amino-acid oxidase	1.4.3.3	Oxygen	Glyoxylate	white
-D-amino-acid oxidase	1.4.3.3	Oxygen	Hydrogen peroxide	white
-D-glycerate 3-kinase	2.7.1.31	3-Phospho-D-glycerate	ATP	white
-D-glycerate 3-kinase	2.7.1.31	3-Phospho-D-glycerate	D-Glycerate	white
-D-glycerate 3-kinase	2.7.1.31	ADP	ATP	white
-D-glycerate 3-kinase	2.7.1.31	ADP	D-Glycerate	white
-D-glycerate 3-kinase	2.7.1.31	ATP	3-Phospho-D-glycerate	white
-D-glycerate 3-kinase	2.7.1.31	ATP	ADP	white
-D-glycerate 3-kinase	2.7.1.31	D-Glycerate	3-Phospho-D-glycerate	white
-D-glycerate 3-kinase	2.7.1.31	D-Glycerate	ADP	white
-D-serine ammonia-lyase	4.3.1.18	Ammonia	D-Serine	white
-D-serine ammonia-lyase	4.3.1.18	D-Serine	Ammonia	white
-D-serine ammonia-lyase	4.3.1.18	D-Serine	Pyruvate	white
-D-serine ammonia-lyase	4.3.1.18	Pyruvate	D-Serine	white
-D-serine dehydratase	4.3.1.18	Ammonia	D-Serine	white
-D-serine dehydratase	4.3.1.18	D-Serine	Ammonia	white
-D-serine dehydratase	4.3.1.18	D-Serine	Pyruvate	white
-D-serine dehydratase	4.3.1.18	Pyruvate	D-Serine	white
-L-2,4-diaminobutyrate decarboxylase	4.1.1.86	1,3-Diaminopropane	L-2,4-Diaminobutanoate	white
-L-2,4-diaminobutyrate decarboxylase	4.1.1.86	CO2	L-2,4-Diaminobutanoate	white
-L-2,4-diaminobutyrate decarboxylase	4.1.1.86	L-2,4-Diaminobutanoate	1,3-Diaminopropane	white
-L-2,4-diaminobutyrate decarboxylase	4.1.1.86	L-2,4-Diaminobutanoate	CO2	white
-L-2,4-diaminobutyrate transaminase	2.6.1.76	2-Oxoglutarate	L-Aspartate 4-semialdehyde	white
-L-2,4-diaminobutyrate transaminase	2.6.1.76	2-Oxoglutarate	L-Glutamate	white
-L-2,4-diaminobutyrate transaminase	2.6.1.76	L-2,4-Diaminobutanoate	L-Aspartate 4-semialdehyde	white
-L-2,4-diaminobutyrate transaminase	2.6.1.76	L-2,4-Diaminobutanoate	L-Glutamate	white
-L-2,4-diaminobutyrate transaminase	2.6.1.76	L-Aspartate 4-semialdehyde	2-Oxoglutarate	white
-L-2,4-diaminobutyrate transaminase	2.6.1.76	L-Aspartate 4-semialdehyde	L-2,4-Diaminobutanoate	white
-L-2,4-diaminobutyrate transaminase	2.6.1.76	L-Glutamate	2-Oxoglutarate	white
-L-2,4-diaminobutyrate transaminase	2.6.1.76	L-Glutamate	L-2,4-Diaminobutanoate	white
-L-2,4-diaminobutyric acid acetyltransferase	2.3.1.178	Acetyl-CoA	CoA	green
-L-2,4-diaminobutyric acid acetyltransferase	2.3.1.178	Acetyl-CoA	N(gamma)-Acetyldiaminobutyrate	green
-L-2,4-diaminobutyric acid acetyltransferase	2.3.1.178	L-2,4-Diaminobutanoate	CoA	green
-L-2,4-diaminobutyric acid acetyltransferase	2.3.1.178	L-2,4-Diaminobutanoate	N(gamma)-Acetyldiaminobutyrate	green
-L-allo-threonine aldolase	4.1.2.49	Acetaldehyde	L-Allothreonine	white
-L-allo-threonine aldolase	4.1.2.49	Glycine	L-Allothreonine	white
-L-allo-threonine aldolase	4.1.2.49	L-Allothreonine	Acetaldehyde	white
-L-allo-threonine aldolase	4.1.2.49	L-Allothreonine	Glycine	white
-L-ectoine synthase	4.2.1.108	N(gamma)-Acetyldiaminobutyrate	Ectoine	green
-L-ectoine synthase	4.2.1.108	N(gamma)-Acetyldiaminobutyrate	H2O	green
-L-serine dehydratase	4.3.1.17	L-Serine	Ammonia	green
-L-serine dehydratase	4.3.1.17	L-Serine	Pyruvate	green
-N,N-dimethylglycine/sarcosine catabolism electron transfer flavoprotein subunit alpha	1.5.7.3	Formaldehyde	H2O	white
-N,N-dimethylglycine/sarcosine catabolism electron transfer flavoprotein subunit alpha	1.5.7.3	Formaldehyde	N,N-Dimethylglycine	white
-N,N-dimethylglycine/sarcosine catabolism electron transfer flavoprotein subunit alpha	1.5.7.3	Formaldehyde	Oxidized ferredoxin	white
-N,N-dimethylglycine/sarcosine catabolism electron transfer flavoprotein subunit alpha	1.5.7.3	H+	H2O	white
-N,N-dimethylglycine/sarcosine catabolism electron transfer flavoprotein subunit alpha	1.5.7.3	H+	N,N-Dimethylglycine	white
-N,N-dimethylglycine/sarcosine catabolism electron transfer flavoprotein subunit alpha	1.5.7.3	H+	Oxidized ferredoxin	white
-N,N-dimethylglycine/sarcosine catabolism electron transfer flavoprotein subunit alpha	1.5.7.3	H2O	Formaldehyde	white
-N,N-dimethylglycine/sarcosine catabolism electron transfer flavoprotein subunit alpha	1.5.7.3	H2O	H+	white
-N,N-dimethylglycine/sarcosine catabolism electron transfer flavoprotein subunit alpha	1.5.7.3	H2O	Reduced ferredoxin	white
-N,N-dimethylglycine/sarcosine catabolism electron transfer flavoprotein subunit alpha	1.5.7.3	H2O	Sarcosine	white
-N,N-dimethylglycine/sarcosine catabolism electron transfer flavoprotein subunit alpha	1.5.7.3	N,N-Dimethylglycine	Formaldehyde	white
-N,N-dimethylglycine/sarcosine catabolism electron transfer flavoprotein subunit alpha	1.5.7.3	N,N-Dimethylglycine	H+	white
-N,N-dimethylglycine/sarcosine catabolism electron transfer flavoprotein subunit alpha	1.5.7.3	N,N-Dimethylglycine	Reduced ferredoxin	white
-N,N-dimethylglycine/sarcosine catabolism electron transfer flavoprotein subunit alpha	1.5.7.3	N,N-Dimethylglycine	Sarcosine	white
-N,N-dimethylglycine/sarcosine catabolism electron transfer flavoprotein subunit alpha	1.5.7.3	Oxidized ferredoxin	Formaldehyde	white
-N,N-dimethylglycine/sarcosine catabolism electron transfer flavoprotein subunit alpha	1.5.7.3	Oxidized ferredoxin	H+	white
-N,N-dimethylglycine/sarcosine catabolism electron transfer flavoprotein subunit alpha	1.5.7.3	Oxidized ferredoxin	Reduced ferredoxin	white
-N,N-dimethylglycine/sarcosine catabolism electron transfer flavoprotein subunit alpha	1.5.7.3	Oxidized ferredoxin	Sarcosine	white
-N,N-dimethylglycine/sarcosine catabolism electron transfer flavoprotein subunit alpha	1.5.7.3	Reduced ferredoxin	H2O	white
-N,N-dimethylglycine/sarcosine catabolism electron transfer flavoprotein subunit alpha	1.5.7.3	Reduced ferredoxin	N,N-Dimethylglycine	white
-N,N-dimethylglycine/sarcosine catabolism electron transfer flavoprotein subunit alpha	1.5.7.3	Reduced ferredoxin	Oxidized ferredoxin	white
-N,N-dimethylglycine/sarcosine catabolism electron transfer flavoprotein subunit alpha	1.5.7.3	Sarcosine	H2O	white
-N,N-dimethylglycine/sarcosine catabolism electron transfer flavoprotein subunit alpha	1.5.7.3	Sarcosine	N,N-Dimethylglycine	white
-N,N-dimethylglycine/sarcosine catabolism electron transfer flavoprotein subunit alpha	1.5.7.3	Sarcosine	Oxidized ferredoxin	white
-N,N-dimethylglycine/sarcosine catabolism electron transfer flavoprotein subunit beta	1.5.7.3	Formaldehyde	H2O	white
-N,N-dimethylglycine/sarcosine catabolism electron transfer flavoprotein subunit beta	1.5.7.3	Formaldehyde	N,N-Dimethylglycine	white
-N,N-dimethylglycine/sarcosine catabolism electron transfer flavoprotein subunit beta	1.5.7.3	Formaldehyde	Oxidized ferredoxin	white
-N,N-dimethylglycine/sarcosine catabolism electron transfer flavoprotein subunit beta	1.5.7.3	H+	H2O	white
-N,N-dimethylglycine/sarcosine catabolism electron transfer flavoprotein subunit beta	1.5.7.3	H+	N,N-Dimethylglycine	white
-N,N-dimethylglycine/sarcosine catabolism electron transfer flavoprotein subunit beta	1.5.7.3	H+	Oxidized ferredoxin	white
-N,N-dimethylglycine/sarcosine catabolism electron transfer flavoprotein subunit beta	1.5.7.3	H2O	Formaldehyde	white
-N,N-dimethylglycine/sarcosine catabolism electron transfer flavoprotein subunit beta	1.5.7.3	H2O	H+	white
-N,N-dimethylglycine/sarcosine catabolism electron transfer flavoprotein subunit beta	1.5.7.3	H2O	Reduced ferredoxin	white
-N,N-dimethylglycine/sarcosine catabolism electron transfer flavoprotein subunit beta	1.5.7.3	H2O	Sarcosine	white
-N,N-dimethylglycine/sarcosine catabolism electron transfer flavoprotein subunit beta	1.5.7.3	N,N-Dimethylglycine	Formaldehyde	white
-N,N-dimethylglycine/sarcosine catabolism electron transfer flavoprotein subunit beta	1.5.7.3	N,N-Dimethylglycine	H+	white
-N,N-dimethylglycine/sarcosine catabolism electron transfer flavoprotein subunit beta	1.5.7.3	N,N-Dimethylglycine	Reduced ferredoxin	white
-N,N-dimethylglycine/sarcosine catabolism electron transfer flavoprotein subunit beta	1.5.7.3	N,N-Dimethylglycine	Sarcosine	white
-N,N-dimethylglycine/sarcosine catabolism electron transfer flavoprotein subunit beta	1.5.7.3	Oxidized ferredoxin	Formaldehyde	white
-N,N-dimethylglycine/sarcosine catabolism electron transfer flavoprotein subunit beta	1.5.7.3	Oxidized ferredoxin	H+	white
-N,N-dimethylglycine/sarcosine catabolism electron transfer flavoprotein subunit beta	1.5.7.3	Oxidized ferredoxin	Reduced ferredoxin	white
-N,N-dimethylglycine/sarcosine catabolism electron transfer flavoprotein subunit beta	1.5.7.3	Oxidized ferredoxin	Sarcosine	white
-N,N-dimethylglycine/sarcosine catabolism electron transfer flavoprotein subunit beta	1.5.7.3	Reduced ferredoxin	H2O	white
-N,N-dimethylglycine/sarcosine catabolism electron transfer flavoprotein subunit beta	1.5.7.3	Reduced ferredoxin	N,N-Dimethylglycine	white
-N,N-dimethylglycine/sarcosine catabolism electron transfer flavoprotein subunit beta	1.5.7.3	Reduced ferredoxin	Oxidized ferredoxin	white
-N,N-dimethylglycine/sarcosine catabolism electron transfer flavoprotein subunit beta	1.5.7.3	Sarcosine	H2O	white
-N,N-dimethylglycine/sarcosine catabolism electron transfer flavoprotein subunit beta	1.5.7.3	Sarcosine	N,N-Dimethylglycine	white
-N,N-dimethylglycine/sarcosine catabolism electron transfer flavoprotein subunit beta	1.5.7.3	Sarcosine	Oxidized ferredoxin	white
-N,N-dimethylglycine/sarcosine dehydrogenase	1.5.7.3	Formaldehyde	H2O	white
-N,N-dimethylglycine/sarcosine dehydrogenase	1.5.7.3	Formaldehyde	N,N-Dimethylglycine	white
-N,N-dimethylglycine/sarcosine dehydrogenase	1.5.7.3	Formaldehyde	Oxidized ferredoxin	white
-N,N-dimethylglycine/sarcosine dehydrogenase	1.5.7.3	H+	H2O	white
-N,N-dimethylglycine/sarcosine dehydrogenase	1.5.7.3	H+	N,N-Dimethylglycine	white
-N,N-dimethylglycine/sarcosine dehydrogenase	1.5.7.3	H+	Oxidized ferredoxin	white
-N,N-dimethylglycine/sarcosine dehydrogenase	1.5.7.3	H2O	Formaldehyde	white
-N,N-dimethylglycine/sarcosine dehydrogenase	1.5.7.3	H2O	H+	white
-N,N-dimethylglycine/sarcosine dehydrogenase	1.5.7.3	H2O	Reduced ferredoxin	white
-N,N-dimethylglycine/sarcosine dehydrogenase	1.5.7.3	H2O	Sarcosine	white
-N,N-dimethylglycine/sarcosine dehydrogenase	1.5.7.3	N,N-Dimethylglycine	Formaldehyde	white
-N,N-dimethylglycine/sarcosine dehydrogenase	1.5.7.3	N,N-Dimethylglycine	H+	white
-N,N-dimethylglycine/sarcosine dehydrogenase	1.5.7.3	N,N-Dimethylglycine	Reduced ferredoxin	white
-N,N-dimethylglycine/sarcosine dehydrogenase	1.5.7.3	N,N-Dimethylglycine	Sarcosine	white
-N,N-dimethylglycine/sarcosine dehydrogenase	1.5.7.3	Oxidized ferredoxin	Formaldehyde	white
-N,N-dimethylglycine/sarcosine dehydrogenase	1.5.7.3	Oxidized ferredoxin	H+	white
-N,N-dimethylglycine/sarcosine dehydrogenase	1.5.7.3	Oxidized ferredoxin	Reduced ferredoxin	white
-N,N-dimethylglycine/sarcosine dehydrogenase	1.5.7.3	Oxidized ferredoxin	Sarcosine	white
-N,N-dimethylglycine/sarcosine dehydrogenase	1.5.7.3	Reduced ferredoxin	H2O	white
-N,N-dimethylglycine/sarcosine dehydrogenase	1.5.7.3	Reduced ferredoxin	N,N-Dimethylglycine	white
-N,N-dimethylglycine/sarcosine dehydrogenase	1.5.7.3	Reduced ferredoxin	Oxidized ferredoxin	white
-N,N-dimethylglycine/sarcosine dehydrogenase	1.5.7.3	Sarcosine	H2O	white
-N,N-dimethylglycine/sarcosine dehydrogenase	1.5.7.3	Sarcosine	N,N-Dimethylglycine	white
-N,N-dimethylglycine/sarcosine dehydrogenase	1.5.7.3	Sarcosine	Oxidized ferredoxin	white
-N,N-dimethylglycine/sarcosine dehydrogenase ferredoxin subunit	1.5.7.3	Formaldehyde	H2O	white
-N,N-dimethylglycine/sarcosine dehydrogenase ferredoxin subunit	1.5.7.3	Formaldehyde	N,N-Dimethylglycine	white
-N,N-dimethylglycine/sarcosine dehydrogenase ferredoxin subunit	1.5.7.3	Formaldehyde	Oxidized ferredoxin	white
-N,N-dimethylglycine/sarcosine dehydrogenase ferredoxin subunit	1.5.7.3	H+	H2O	white
-N,N-dimethylglycine/sarcosine dehydrogenase ferredoxin subunit	1.5.7.3	H+	N,N-Dimethylglycine	white
-N,N-dimethylglycine/sarcosine dehydrogenase ferredoxin subunit	1.5.7.3	H+	Oxidized ferredoxin	white
-N,N-dimethylglycine/sarcosine dehydrogenase ferredoxin subunit	1.5.7.3	H2O	Formaldehyde	white
-N,N-dimethylglycine/sarcosine dehydrogenase ferredoxin subunit	1.5.7.3	H2O	H+	white
-N,N-dimethylglycine/sarcosine dehydrogenase ferredoxin subunit	1.5.7.3	H2O	Reduced ferredoxin	white
-N,N-dimethylglycine/sarcosine dehydrogenase ferredoxin subunit	1.5.7.3	H2O	Sarcosine	white
-N,N-dimethylglycine/sarcosine dehydrogenase ferredoxin subunit	1.5.7.3	N,N-Dimethylglycine	Formaldehyde	white
-N,N-dimethylglycine/sarcosine dehydrogenase ferredoxin subunit	1.5.7.3	N,N-Dimethylglycine	H+	white
-N,N-dimethylglycine/sarcosine dehydrogenase ferredoxin subunit	1.5.7.3	N,N-Dimethylglycine	Reduced ferredoxin	white
-N,N-dimethylglycine/sarcosine dehydrogenase ferredoxin subunit	1.5.7.3	N,N-Dimethylglycine	Sarcosine	white
-N,N-dimethylglycine/sarcosine dehydrogenase ferredoxin subunit	1.5.7.3	Oxidized ferredoxin	Formaldehyde	white
-N,N-dimethylglycine/sarcosine dehydrogenase ferredoxin subunit	1.5.7.3	Oxidized ferredoxin	H+	white
-N,N-dimethylglycine/sarcosine dehydrogenase ferredoxin subunit	1.5.7.3	Oxidized ferredoxin	Reduced ferredoxin	white
-N,N-dimethylglycine/sarcosine dehydrogenase ferredoxin subunit	1.5.7.3	Oxidized ferredoxin	Sarcosine	white
-N,N-dimethylglycine/sarcosine dehydrogenase ferredoxin subunit	1.5.7.3	Reduced ferredoxin	H2O	white
-N,N-dimethylglycine/sarcosine dehydrogenase ferredoxin subunit	1.5.7.3	Reduced ferredoxin	N,N-Dimethylglycine	white
-N,N-dimethylglycine/sarcosine dehydrogenase ferredoxin subunit	1.5.7.3	Reduced ferredoxin	Oxidized ferredoxin	white
-N,N-dimethylglycine/sarcosine dehydrogenase ferredoxin subunit	1.5.7.3	Sarcosine	H2O	white
-N,N-dimethylglycine/sarcosine dehydrogenase ferredoxin subunit	1.5.7.3	Sarcosine	N,N-Dimethylglycine	white
-N,N-dimethylglycine/sarcosine dehydrogenase ferredoxin subunit	1.5.7.3	Sarcosine	Oxidized ferredoxin	white
-N2-acetyl-L-2,4-diaminobutanoate deacetylase	3.5.1.125	Acetate	H2O	white
-N2-acetyl-L-2,4-diaminobutanoate deacetylase	3.5.1.125	Acetate	N(alpha)-Acetyl-L-2,4-diaminobutyrate	white
-N2-acetyl-L-2,4-diaminobutanoate deacetylase	3.5.1.125	H2O	Acetate	white
-N2-acetyl-L-2,4-diaminobutanoate deacetylase	3.5.1.125	H2O	L-2,4-Diaminobutanoate	white
-N2-acetyl-L-2,4-diaminobutanoate deacetylase	3.5.1.125	L-2,4-Diaminobutanoate	H2O	white
-N2-acetyl-L-2,4-diaminobutanoate deacetylase	3.5.1.125	L-2,4-Diaminobutanoate	N(alpha)-Acetyl-L-2,4-diaminobutyrate	white
-N2-acetyl-L-2,4-diaminobutanoate deacetylase	3.5.1.125	N(alpha)-Acetyl-L-2,4-diaminobutyrate	Acetate	white
-N2-acetyl-L-2,4-diaminobutanoate deacetylase	3.5.1.125	N(alpha)-Acetyl-L-2,4-diaminobutyrate	L-2,4-Diaminobutanoate	white
-alanine-glyoxylate transaminase / (R)-3-amino-2-methylpropionate-pyruvate transaminase	2.6.1.44	Glycine	Glyoxylate	white
-alanine-glyoxylate transaminase / (R)-3-amino-2-methylpropionate-pyruvate transaminase	2.6.1.44	Glycine	L-Alanine	white
-alanine-glyoxylate transaminase / (R)-3-amino-2-methylpropionate-pyruvate transaminase	2.6.1.44	Glyoxylate	Glycine	white
-alanine-glyoxylate transaminase / (R)-3-amino-2-methylpropionate-pyruvate transaminase	2.6.1.44	Glyoxylate	Pyruvate	white
-alanine-glyoxylate transaminase / (R)-3-amino-2-methylpropionate-pyruvate transaminase	2.6.1.44	L-Alanine	Glycine	white
-alanine-glyoxylate transaminase / (R)-3-amino-2-methylpropionate-pyruvate transaminase	2.6.1.44	L-Alanine	Pyruvate	white
-alanine-glyoxylate transaminase / (R)-3-amino-2-methylpropionate-pyruvate transaminase	2.6.1.44	Pyruvate	Glyoxylate	white
-alanine-glyoxylate transaminase / (R)-3-amino-2-methylpropionate-pyruvate transaminase	2.6.1.44	Pyruvate	L-Alanine	white
-alanine-glyoxylate transaminase / serine-glyoxylate transaminase / serine-pyruvate transaminase	2.6.1.44	Glycine	Glyoxylate	white
-alanine-glyoxylate transaminase / serine-glyoxylate transaminase / serine-pyruvate transaminase	2.6.1.44	Glycine	L-Alanine	white
-alanine-glyoxylate transaminase / serine-glyoxylate transaminase / serine-pyruvate transaminase	2.6.1.44	Glyoxylate	Glycine	white
-alanine-glyoxylate transaminase / serine-glyoxylate transaminase / serine-pyruvate transaminase	2.6.1.44	Glyoxylate	Pyruvate	white
-alanine-glyoxylate transaminase / serine-glyoxylate transaminase / serine-pyruvate transaminase	2.6.1.44	L-Alanine	Glycine	white
-alanine-glyoxylate transaminase / serine-glyoxylate transaminase / serine-pyruvate transaminase	2.6.1.44	L-Alanine	Pyruvate	white
-alanine-glyoxylate transaminase / serine-glyoxylate transaminase / serine-pyruvate transaminase	2.6.1.44	Pyruvate	Glyoxylate	white
-alanine-glyoxylate transaminase / serine-glyoxylate transaminase / serine-pyruvate transaminase	2.6.1.44	Pyruvate	L-Alanine	white
-amino-acid racemase	5.1.1.10	D-Lysine	L-Lysine	white
-amino-acid racemase	5.1.1.10	L-Lysine	D-Lysine	white
-aspartate kinase	2.7.2.4	ATP	4-Phospho-L-aspartate	green
-aspartate kinase	2.7.2.4	ATP	ADP	green
-aspartate kinase	2.7.2.4	L-Aspartate	4-Phospho-L-aspartate	green
-aspartate kinase	2.7.2.4	L-Aspartate	ADP	green
-aspartate-semialdehyde dehydrogenase	1.2.1.11	4-Phospho-L-aspartate	L-Aspartate 4-semialdehyde	white
-aspartate-semialdehyde dehydrogenase	1.2.1.11	4-Phospho-L-aspartate	NADP+	white
-aspartate-semialdehyde dehydrogenase	1.2.1.11	4-Phospho-L-aspartate	Orthophosphate	white
-aspartate-semialdehyde dehydrogenase	1.2.1.11	H+	L-Aspartate 4-semialdehyde	white
-aspartate-semialdehyde dehydrogenase	1.2.1.11	H+	NADP+	white
-aspartate-semialdehyde dehydrogenase	1.2.1.11	H+	Orthophosphate	white
-aspartate-semialdehyde dehydrogenase	1.2.1.11	L-Aspartate 4-semialdehyde	4-Phospho-L-aspartate	green
-aspartate-semialdehyde dehydrogenase	1.2.1.11	L-Aspartate 4-semialdehyde	4-Phospho-L-aspartate	white
-aspartate-semialdehyde dehydrogenase	1.2.1.11	L-Aspartate 4-semialdehyde	H+	green
-aspartate-semialdehyde dehydrogenase	1.2.1.11	L-Aspartate 4-semialdehyde	H+	white
-aspartate-semialdehyde dehydrogenase	1.2.1.11	L-Aspartate 4-semialdehyde	NADPH	green
-aspartate-semialdehyde dehydrogenase	1.2.1.11	L-Aspartate 4-semialdehyde	NADPH	white
-aspartate-semialdehyde dehydrogenase	1.2.1.11	NADP+	4-Phospho-L-aspartate	green
-aspartate-semialdehyde dehydrogenase	1.2.1.11	NADP+	4-Phospho-L-aspartate	white
-aspartate-semialdehyde dehydrogenase	1.2.1.11	NADP+	H+	green
-aspartate-semialdehyde dehydrogenase	1.2.1.11	NADP+	H+	white
-aspartate-semialdehyde dehydrogenase	1.2.1.11	NADP+	NADPH	green
-aspartate-semialdehyde dehydrogenase	1.2.1.11	NADP+	NADPH	white
-aspartate-semialdehyde dehydrogenase	1.2.1.11	NADPH	L-Aspartate 4-semialdehyde	white
-aspartate-semialdehyde dehydrogenase	1.2.1.11	NADPH	NADP+	white
-aspartate-semialdehyde dehydrogenase	1.2.1.11	NADPH	Orthophosphate	white
-aspartate-semialdehyde dehydrogenase	1.2.1.11	Orthophosphate	4-Phospho-L-aspartate	green
-aspartate-semialdehyde dehydrogenase	1.2.1.11	Orthophosphate	4-Phospho-L-aspartate	white
-aspartate-semialdehyde dehydrogenase	1.2.1.11	Orthophosphate	H+	green
-aspartate-semialdehyde dehydrogenase	1.2.1.11	Orthophosphate	H+	white
-aspartate-semialdehyde dehydrogenase	1.2.1.11	Orthophosphate	NADPH	green
-aspartate-semialdehyde dehydrogenase	1.2.1.11	Orthophosphate	NADPH	white
-betaine-aldehyde dehydrogenase	1.2.1.8	Betaine aldehyde	Betaine	green
-betaine-aldehyde dehydrogenase	1.2.1.8	Betaine aldehyde	H+	green
-betaine-aldehyde dehydrogenase	1.2.1.8	Betaine aldehyde	NADH	green
-betaine-aldehyde dehydrogenase	1.2.1.8	Betaine aldehyde	NADPH	green
-betaine-aldehyde dehydrogenase	1.2.1.8	H2O	Betaine	green
-betaine-aldehyde dehydrogenase	1.2.1.8	H2O	H+	green
-betaine-aldehyde dehydrogenase	1.2.1.8	H2O	NADH	green
-betaine-aldehyde dehydrogenase	1.2.1.8	H2O	NADPH	green
-betaine-aldehyde dehydrogenase	1.2.1.8	NAD+	Betaine	green
-betaine-aldehyde dehydrogenase	1.2.1.8	NAD+	H+	green
-betaine-aldehyde dehydrogenase	1.2.1.8	NAD+	NADH	green
-betaine-aldehyde dehydrogenase	1.2.1.8	NADP+	Betaine	green
-betaine-aldehyde dehydrogenase	1.2.1.8	NADP+	H+	green
-betaine-aldehyde dehydrogenase	1.2.1.8	NADP+	NADPH	green
-betaine-homocysteine S-methyltransferase	2.1.1.5	Betaine	L-Methionine	white
-betaine-homocysteine S-methyltransferase	2.1.1.5	Betaine	N,N-Dimethylglycine	white
-betaine-homocysteine S-methyltransferase	2.1.1.5	L-Homocysteine	L-Methionine	white
-betaine-homocysteine S-methyltransferase	2.1.1.5	L-Homocysteine	N,N-Dimethylglycine	white
-betaine-homocysteine S-methyltransferase	2.1.1.5	L-Methionine	Betaine	white
-betaine-homocysteine S-methyltransferase	2.1.1.5	L-Methionine	L-Homocysteine	white
-betaine-homocysteine S-methyltransferase	2.1.1.5	N,N-Dimethylglycine	Betaine	white
-betaine-homocysteine S-methyltransferase	2.1.1.5	N,N-Dimethylglycine	L-Homocysteine	white
-choline dehydrogenase	1.1.99.1	Acceptor	Betaine aldehyde	white
-choline dehydrogenase	1.1.99.1	Acceptor	Reduced acceptor	white
-choline dehydrogenase	1.1.99.1	Betaine aldehyde	Acceptor	white
-choline dehydrogenase	1.1.99.1	Betaine aldehyde	Choline	white
-choline dehydrogenase	1.1.99.1	Choline	Betaine aldehyde	white
-choline dehydrogenase	1.1.99.1	Choline	Reduced acceptor	white
-choline dehydrogenase	1.1.99.1	Reduced acceptor	Acceptor	white
-choline dehydrogenase	1.1.99.1	Reduced acceptor	Choline	white
-choline monooxygenase	1.14.15.7	Betaine aldehyde	Choline	white
-choline monooxygenase	1.14.15.7	Betaine aldehyde	H+	white
-choline monooxygenase	1.14.15.7	Betaine aldehyde	Oxygen	white
-choline monooxygenase	1.14.15.7	Betaine aldehyde	Reduced ferredoxin	white
-choline monooxygenase	1.14.15.7	Choline	Betaine aldehyde	white
-choline monooxygenase	1.14.15.7	Choline	H2O	white
-choline monooxygenase	1.14.15.7	Choline	Oxidized ferredoxin	white
-choline monooxygenase	1.14.15.7	H+	Betaine aldehyde	white
-choline monooxygenase	1.14.15.7	H+	H2O	white
-choline monooxygenase	1.14.15.7	H+	Oxidized ferredoxin	white
-choline monooxygenase	1.14.15.7	H2O	Choline	white
-choline monooxygenase	1.14.15.7	H2O	H+	white
-choline monooxygenase	1.14.15.7	H2O	Oxygen	white
-choline monooxygenase	1.14.15.7	H2O	Reduced ferredoxin	white
-choline monooxygenase	1.14.15.7	Oxidized ferredoxin	Choline	white
-choline monooxygenase	1.14.15.7	Oxidized ferredoxin	H+	white
-choline monooxygenase	1.14.15.7	Oxidized ferredoxin	Oxygen	white
-choline monooxygenase	1.14.15.7	Oxidized ferredoxin	Reduced ferredoxin	white
-choline monooxygenase	1.14.15.7	Oxygen	Betaine aldehyde	white
-choline monooxygenase	1.14.15.7	Oxygen	H2O	white
-choline monooxygenase	1.14.15.7	Oxygen	Oxidized ferredoxin	white
-choline monooxygenase	1.14.15.7	Reduced ferredoxin	Betaine aldehyde	white
-choline monooxygenase	1.14.15.7	Reduced ferredoxin	H2O	white
-choline monooxygenase	1.14.15.7	Reduced ferredoxin	Oxidized ferredoxin	white
-choline oxidase	1.1.3.17	Betaine aldehyde	Betaine	green
-choline oxidase	1.1.3.17	Betaine aldehyde	Hydrogen peroxide	green
-choline oxidase	1.1.3.17	Choline	Betaine aldehyde	green
-choline oxidase	1.1.3.17	Choline	Hydrogen peroxide	green
-choline oxidase	1.1.3.17	H2O	Betaine	green
-choline oxidase	1.1.3.17	H2O	Hydrogen peroxide	green
-choline oxidase	1.1.3.17	Oxygen	Betaine	green
-choline oxidase	1.1.3.17	Oxygen	Betaine aldehyde	green
-choline oxidase	1.1.3.17	Oxygen	Hydrogen peroxide	green
-creatinase	3.5.3.3	Creatine	Sarcosine	green
-creatinase	3.5.3.3	Creatine	Urea	green
-creatinase	3.5.3.3	H2O	Sarcosine	green
-creatinase	3.5.3.3	H2O	Urea	green
-cystathionine beta-synthase	4.2.1.22	Hydrogen sulfide	H2O	green
-cystathionine beta-synthase	4.2.1.22	Hydrogen sulfide	L-Cysteine	green
-cystathionine beta-synthase	4.2.1.22	L-Homocysteine	H2O	green
-cystathionine beta-synthase	4.2.1.22	L-Homocysteine	L-Cystathionine	green
-cystathionine beta-synthase	4.2.1.22	L-Serine	H2O	green
-cystathionine beta-synthase	4.2.1.22	L-Serine	L-Cystathionine	green
-cystathionine beta-synthase	4.2.1.22	L-Serine	L-Cysteine	green
-cystathionine gamma-lyase	4.4.1.1	2-Oxobutanoate	H2O	green
-cystathionine gamma-lyase	4.4.1.1	2-Oxobutanoate	L-Cystathionine	green
-cystathionine gamma-lyase	4.4.1.1	Ammonia	H2O	green
-cystathionine gamma-lyase	4.4.1.1	Ammonia	L-Cystathionine	green
-cystathionine gamma-lyase	4.4.1.1	H2O	2-Oxobutanoate	green
-cystathionine gamma-lyase	4.4.1.1	H2O	Ammonia	green
-cystathionine gamma-lyase	4.4.1.1	H2O	L-Cysteine	green
-cystathionine gamma-lyase	4.4.1.1	L-Cystathionine	2-Oxobutanoate	green
-cystathionine gamma-lyase	4.4.1.1	L-Cystathionine	Ammonia	green
-cystathionine gamma-lyase	4.4.1.1	L-Cystathionine	L-Cysteine	green
-cystathionine gamma-lyase	4.4.1.1	L-Cysteine	H2O	green
-cystathionine gamma-lyase	4.4.1.1	L-Cysteine	L-Cystathionine	green
-diaminobutyrate-2-oxoglutarate transaminase	2.6.1.76	L-Aspartate 4-semialdehyde	2-Oxoglutarate	green
-diaminobutyrate-2-oxoglutarate transaminase	2.6.1.76	L-Aspartate 4-semialdehyde	L-2,4-Diaminobutanoate	green
-diaminobutyrate-2-oxoglutarate transaminase	2.6.1.76	L-Glutamate	2-Oxoglutarate	green
-diaminobutyrate-2-oxoglutarate transaminase	2.6.1.76	L-Glutamate	L-2,4-Diaminobutanoate	green
-dihydrolipoyl dehydrogenase	1.8.1.4	Dihydrolipoylprotein	H+	green
-dihydrolipoyl dehydrogenase	1.8.1.4	Dihydrolipoylprotein	Lipoylprotein	green
-dihydrolipoyl dehydrogenase	1.8.1.4	Dihydrolipoylprotein	NADH	green
-dihydrolipoyl dehydrogenase	1.8.1.4	NAD+	H+	green
-dihydrolipoyl dehydrogenase	1.8.1.4	NAD+	Lipoylprotein	green
-dihydrolipoyl dehydrogenase	1.8.1.4	NAD+	NADH	green
-dimethylglycine N-methyltransferase	2.1.1.161	Betaine	N,N-Dimethylglycine	white
-dimethylglycine N-methyltransferase	2.1.1.161	Betaine	S-Adenosyl-L-methionine	white
-dimethylglycine N-methyltransferase	2.1.1.161	N,N-Dimethylglycine	Betaine	white
-dimethylglycine N-methyltransferase	2.1.1.161	N,N-Dimethylglycine	S-Adenosyl-L-homocysteine	white
-dimethylglycine N-methyltransferase	2.1.1.161	S-Adenosyl-L-homocysteine	N,N-Dimethylglycine	white
-dimethylglycine N-methyltransferase	2.1.1.161	S-Adenosyl-L-homocysteine	S-Adenosyl-L-methionine	white
-dimethylglycine N-methyltransferase	2.1.1.161	S-Adenosyl-L-methionine	Betaine	white
-dimethylglycine N-methyltransferase	2.1.1.161	S-Adenosyl-L-methionine	S-Adenosyl-L-homocysteine	white
-dimethylglycine dehydrogenase	1.5.8.4	5,10-Methylenetetrahydrofolate	Electron-transferring flavoprotein	white
-dimethylglycine dehydrogenase	1.5.8.4	5,10-Methylenetetrahydrofolate	N,N-Dimethylglycine	white
-dimethylglycine dehydrogenase	1.5.8.4	5,10-Methylenetetrahydrofolate	Tetrahydrofolate	white
-dimethylglycine dehydrogenase	1.5.8.4	Electron-transferring flavoprotein	5,10-Methylenetetrahydrofolate	white
-dimethylglycine dehydrogenase	1.5.8.4	Electron-transferring flavoprotein	Reduced electron-transferring flavoprotein	white
-dimethylglycine dehydrogenase	1.5.8.4	Electron-transferring flavoprotein	Sarcosine	white
-dimethylglycine dehydrogenase	1.5.8.4	N,N-Dimethylglycine	5,10-Methylenetetrahydrofolate	white
-dimethylglycine dehydrogenase	1.5.8.4	N,N-Dimethylglycine	Reduced electron-transferring flavoprotein	white
-dimethylglycine dehydrogenase	1.5.8.4	N,N-Dimethylglycine	Sarcosine	white
-dimethylglycine dehydrogenase	1.5.8.4	Reduced electron-transferring flavoprotein	Electron-transferring flavoprotein	white
-dimethylglycine dehydrogenase	1.5.8.4	Reduced electron-transferring flavoprotein	N,N-Dimethylglycine	white
-dimethylglycine dehydrogenase	1.5.8.4	Reduced electron-transferring flavoprotein	Tetrahydrofolate	white
-dimethylglycine dehydrogenase	1.5.8.4	Sarcosine	Electron-transferring flavoprotein	white
-dimethylglycine dehydrogenase	1.5.8.4	Sarcosine	N,N-Dimethylglycine	white
-dimethylglycine dehydrogenase	1.5.8.4	Sarcosine	Tetrahydrofolate	white
-dimethylglycine dehydrogenase	1.5.8.4	Tetrahydrofolate	5,10-Methylenetetrahydrofolate	white
-dimethylglycine dehydrogenase	1.5.8.4	Tetrahydrofolate	Reduced electron-transferring flavoprotein	white
-dimethylglycine dehydrogenase	1.5.8.4	Tetrahydrofolate	Sarcosine	white
-dimethylglycine oxidase	1.5.3.10	N,N-Dimethylglycine	5,10-Methylenetetrahydrofolate	green
-dimethylglycine oxidase	1.5.3.10	N,N-Dimethylglycine	Hydrogen peroxide	green
-dimethylglycine oxidase	1.5.3.10	N,N-Dimethylglycine	Sarcosine	green
-dimethylglycine oxidase	1.5.3.10	Oxygen	5,10-Methylenetetrahydrofolate	green
-dimethylglycine oxidase	1.5.3.10	Oxygen	Hydrogen peroxide	green
-dimethylglycine oxidase	1.5.3.10	Oxygen	Sarcosine	green
-dimethylglycine oxidase	1.5.3.10	Tetrahydrofolate	5,10-Methylenetetrahydrofolate	green
-dimethylglycine oxidase	1.5.3.10	Tetrahydrofolate	Hydrogen peroxide	green
-dimethylglycine oxidase	1.5.3.10	Tetrahydrofolate	Sarcosine	green
-ectoine hydrolase	3.5.4.44	Ectoine	N(alpha)-Acetyl-L-2,4-diaminobutyrate	white
-ectoine hydrolase	3.5.4.44	H2O	N(alpha)-Acetyl-L-2,4-diaminobutyrate	white
-ectoine hydrolase	3.5.4.44	N(alpha)-Acetyl-L-2,4-diaminobutyrate	Ectoine	white
-ectoine hydrolase	3.5.4.44	N(alpha)-Acetyl-L-2,4-diaminobutyrate	H2O	white
-ectoine hydroxylase	1.14.11.55	2-Oxoglutarate	5-Hydroxyectoine	green
-ectoine hydroxylase	1.14.11.55	2-Oxoglutarate	CO2	green
-ectoine hydroxylase	1.14.11.55	2-Oxoglutarate	Succinate	green
-ectoine hydroxylase	1.14.11.55	Ectoine	5-Hydroxyectoine	green
-ectoine hydroxylase	1.14.11.55	Ectoine	CO2	green
-ectoine hydroxylase	1.14.11.55	Ectoine	Succinate	green
-ectoine hydroxylase	1.14.11.55	Oxygen	5-Hydroxyectoine	green
-ectoine hydroxylase	1.14.11.55	Oxygen	CO2	green
-ectoine hydroxylase	1.14.11.55	Oxygen	Succinate	green
-glutamate--glyoxylate aminotransferase	2.6.1.4	2-Oxoglutarate	L-Glutamate	white
-glutamate--glyoxylate aminotransferase	2.6.1.4	2-Oxoglutarate	Pyruvate	white
-glutamate--glyoxylate aminotransferase	2.6.1.4	L-Alanine	L-Glutamate	white
-glutamate--glyoxylate aminotransferase	2.6.1.4	L-Alanine	Pyruvate	white
-glutamate--glyoxylate aminotransferase	2.6.1.4	L-Glutamate	2-Oxoglutarate	white
-glutamate--glyoxylate aminotransferase	2.6.1.4	L-Glutamate	L-Alanine	white
-glutamate--glyoxylate aminotransferase	2.6.1.4	Pyruvate	2-Oxoglutarate	white
-glutamate--glyoxylate aminotransferase	2.6.1.4	Pyruvate	L-Alanine	white
-glycerate 2-kinase	2.7.1.165	ATP	2-Phospho-D-glycerate	green
-glycerate 2-kinase	2.7.1.165	ATP	ADP	green
-glycerate 2-kinase	2.7.1.165	D-Glycerate	2-Phospho-D-glycerate	green
-glycerate 2-kinase	2.7.1.165	D-Glycerate	ADP	green
-glycerate dehydrogenase	1.1.1.29	Glycolate	Glyoxylate	white
-glycerate dehydrogenase	1.1.1.29	Glycolate	H+	white
-glycerate dehydrogenase	1.1.1.29	Glycolate	NADH	white
-glycerate dehydrogenase	1.1.1.29	Glyoxylate	Glycolate	white
-glycerate dehydrogenase	1.1.1.29	Glyoxylate	NAD+	white
-glycerate dehydrogenase	1.1.1.29	H+	Glycolate	white
-glycerate dehydrogenase	1.1.1.29	H+	NAD+	white
-glycerate dehydrogenase	1.1.1.29	NAD+	Glyoxylate	white
-glycerate dehydrogenase	1.1.1.29	NAD+	H+	white
-glycerate dehydrogenase	1.1.1.29	NAD+	NADH	white
-glycerate dehydrogenase	1.1.1.29	NADH	Glycolate	white
-glycerate dehydrogenase	1.1.1.29	NADH	NAD+	white
-glycine C-acetyltransferase	2.3.1.29	Acetyl-CoA	CoA	white
-glycine C-acetyltransferase	2.3.1.29	Acetyl-CoA	L-2-Amino-3-oxobutanoic acid	white
-glycine C-acetyltransferase	2.3.1.29	CoA	Acetyl-CoA	white
-glycine C-acetyltransferase	2.3.1.29	CoA	Glycine	white
-glycine C-acetyltransferase	2.3.1.29	Glycine	CoA	white
-glycine C-acetyltransferase	2.3.1.29	Glycine	L-2-Amino-3-oxobutanoic acid	white
-glycine C-acetyltransferase	2.3.1.29	L-2-Amino-3-oxobutanoic acid	Acetyl-CoA	white
-glycine C-acetyltransferase	2.3.1.29	L-2-Amino-3-oxobutanoic acid	Glycine	white
-glycine N-methyltransferase	2.1.1.20	Glycine	S-Adenosyl-L-homocysteine	white
-glycine N-methyltransferase	2.1.1.20	Glycine	Sarcosine	white
-glycine N-methyltransferase	2.1.1.20	S-Adenosyl-L-homocysteine	Glycine	white
-glycine N-methyltransferase	2.1.1.20	S-Adenosyl-L-homocysteine	S-Adenosyl-L-methionine	white
-glycine N-methyltransferase	2.1.1.20	S-Adenosyl-L-methionine	S-Adenosyl-L-homocysteine	white
-glycine N-methyltransferase	2.1.1.20	S-Adenosyl-L-methionine	Sarcosine	white
-glycine N-methyltransferase	2.1.1.20	Sarcosine	Glycine	white
-glycine N-methyltransferase	2.1.1.20	Sarcosine	S-Adenosyl-L-methionine	white
-glycine amidinotransferase	2.1.4.1	Glycine	Guanidinoacetate	white
-glycine amidinotransferase	2.1.4.1	Glycine	L-Ornithine	white
-glycine amidinotransferase	2.1.4.1	Guanidinoacetate	Glycine	white
-glycine amidinotransferase	2.1.4.1	Guanidinoacetate	L-Arginine	white
-glycine amidinotransferase	2.1.4.1	L-Arginine	Guanidinoacetate	white
-glycine amidinotransferase	2.1.4.1	L-Arginine	L-Ornithine	white
-glycine amidinotransferase	2.1.4.1	L-Ornithine	Glycine	white
-glycine amidinotransferase	2.1.4.1	L-Ornithine	L-Arginine	white
-glycine betaine monooxygenase A	1.14.13.251	Betaine	Formaldehyde	white
-glycine betaine monooxygenase A	1.14.13.251	Betaine	H2O	white
-glycine betaine monooxygenase A	1.14.13.251	Betaine	N,N-Dimethylglycine	white
-glycine betaine monooxygenase A	1.14.13.251	Betaine	NAD+	white
-glycine betaine monooxygenase A	1.14.13.251	Formaldehyde	Betaine	white
-glycine betaine monooxygenase A	1.14.13.251	Formaldehyde	H+	white
-glycine betaine monooxygenase A	1.14.13.251	Formaldehyde	NADH	white
-glycine betaine monooxygenase A	1.14.13.251	Formaldehyde	Oxygen	white
-glycine betaine monooxygenase A	1.14.13.251	H+	Formaldehyde	white
-glycine betaine monooxygenase A	1.14.13.251	H+	H2O	white
-glycine betaine monooxygenase A	1.14.13.251	H+	N,N-Dimethylglycine	white
-glycine betaine monooxygenase A	1.14.13.251	H+	NAD+	white
-glycine betaine monooxygenase A	1.14.13.251	H2O	Betaine	white
-glycine betaine monooxygenase A	1.14.13.251	H2O	H+	white
-glycine betaine monooxygenase A	1.14.13.251	H2O	NADH	white
-glycine betaine monooxygenase A	1.14.13.251	H2O	Oxygen	white
-glycine betaine monooxygenase A	1.14.13.251	N,N-Dimethylglycine	Betaine	white
-glycine betaine monooxygenase A	1.14.13.251	N,N-Dimethylglycine	H+	white
-glycine betaine monooxygenase A	1.14.13.251	N,N-Dimethylglycine	NADH	white
-glycine betaine monooxygenase A	1.14.13.251	N,N-Dimethylglycine	Oxygen	white
-glycine betaine monooxygenase A	1.14.13.251	NAD+	Betaine	white
-glycine betaine monooxygenase A	1.14.13.251	NAD+	H+	white
-glycine betaine monooxygenase A	1.14.13.251	NAD+	NADH	white
-glycine betaine monooxygenase A	1.14.13.251	NAD+	Oxygen	white
-glycine betaine monooxygenase A	1.14.13.251	NADH	Formaldehyde	white
-glycine betaine monooxygenase A	1.14.13.251	NADH	H2O	white
-glycine betaine monooxygenase A	1.14.13.251	NADH	N,N-Dimethylglycine	white
-glycine betaine monooxygenase A	1.14.13.251	NADH	NAD+	white
-glycine betaine monooxygenase A	1.14.13.251	Oxygen	Formaldehyde	white
-glycine betaine monooxygenase A	1.14.13.251	Oxygen	H2O	white
-glycine betaine monooxygenase A	1.14.13.251	Oxygen	N,N-Dimethylglycine	white
-glycine betaine monooxygenase A	1.14.13.251	Oxygen	NAD+	white
-glycine betaine monooxygenase B	1.14.13.251	Betaine	Formaldehyde	white
-glycine betaine monooxygenase B	1.14.13.251	Betaine	H2O	white
-glycine betaine monooxygenase B	1.14.13.251	Betaine	N,N-Dimethylglycine	white
-glycine betaine monooxygenase B	1.14.13.251	Betaine	NAD+	white
-glycine betaine monooxygenase B	1.14.13.251	Formaldehyde	Betaine	white
-glycine betaine monooxygenase B	1.14.13.251	Formaldehyde	H+	white
-glycine betaine monooxygenase B	1.14.13.251	Formaldehyde	NADH	white
-glycine betaine monooxygenase B	1.14.13.251	Formaldehyde	Oxygen	white
-glycine betaine monooxygenase B	1.14.13.251	H+	Formaldehyde	white
-glycine betaine monooxygenase B	1.14.13.251	H+	H2O	white
-glycine betaine monooxygenase B	1.14.13.251	H+	N,N-Dimethylglycine	white
-glycine betaine monooxygenase B	1.14.13.251	H+	NAD+	white
-glycine betaine monooxygenase B	1.14.13.251	H2O	Betaine	white
-glycine betaine monooxygenase B	1.14.13.251	H2O	H+	white
-glycine betaine monooxygenase B	1.14.13.251	H2O	NADH	white
-glycine betaine monooxygenase B	1.14.13.251	H2O	Oxygen	white
-glycine betaine monooxygenase B	1.14.13.251	N,N-Dimethylglycine	Betaine	white
-glycine betaine monooxygenase B	1.14.13.251	N,N-Dimethylglycine	H+	white
-glycine betaine monooxygenase B	1.14.13.251	N,N-Dimethylglycine	NADH	white
-glycine betaine monooxygenase B	1.14.13.251	N,N-Dimethylglycine	Oxygen	white
-glycine betaine monooxygenase B	1.14.13.251	NAD+	Betaine	white
-glycine betaine monooxygenase B	1.14.13.251	NAD+	H+	white
-glycine betaine monooxygenase B	1.14.13.251	NAD+	NADH	white
-glycine betaine monooxygenase B	1.14.13.251	NAD+	Oxygen	white
-glycine betaine monooxygenase B	1.14.13.251	NADH	Formaldehyde	white
-glycine betaine monooxygenase B	1.14.13.251	NADH	H2O	white
-glycine betaine monooxygenase B	1.14.13.251	NADH	N,N-Dimethylglycine	white
-glycine betaine monooxygenase B	1.14.13.251	NADH	NAD+	white
-glycine betaine monooxygenase B	1.14.13.251	Oxygen	Formaldehyde	white
-glycine betaine monooxygenase B	1.14.13.251	Oxygen	H2O	white
-glycine betaine monooxygenase B	1.14.13.251	Oxygen	N,N-Dimethylglycine	white
-glycine betaine monooxygenase B	1.14.13.251	Oxygen	NAD+	white
-glycine betaine---corrinoid protein Co-methyltransferase	2.1.1.376	Betaine	Methyl-Co(III) corrinoid protein	white
-glycine betaine---corrinoid protein Co-methyltransferase	2.1.1.376	Betaine	N,N-Dimethylglycine	white
-glycine betaine---corrinoid protein Co-methyltransferase	2.1.1.376	Co(I) corrinoid protein	Methyl-Co(III) corrinoid protein	white
-glycine betaine---corrinoid protein Co-methyltransferase	2.1.1.376	Co(I) corrinoid protein	N,N-Dimethylglycine	white
-glycine betaine---corrinoid protein Co-methyltransferase	2.1.1.376	Methyl-Co(III) corrinoid protein	Betaine	white
-glycine betaine---corrinoid protein Co-methyltransferase	2.1.1.376	Methyl-Co(III) corrinoid protein	Co(I) corrinoid protein	white
-glycine betaine---corrinoid protein Co-methyltransferase	2.1.1.376	N,N-Dimethylglycine	Betaine	white
-glycine betaine---corrinoid protein Co-methyltransferase	2.1.1.376	N,N-Dimethylglycine	Co(I) corrinoid protein	white
-glycine cleavage system P protein (glycine dehydrogenase)	1.4.4.2	Glycine	CO2	green
-glycine cleavage system P protein (glycine dehydrogenase)	1.4.4.2	Glycine	[Protein]-S8-aminomethyldihydrolipoyllysine	green
-glycine cleavage system P protein (glycine dehydrogenase)	1.4.4.2	Lipoylprotein	CO2	green
-glycine cleavage system P protein (glycine dehydrogenase)	1.4.4.2	Lipoylprotein	[Protein]-S8-aminomethyldihydrolipoyllysine	green
-glycine cleavage system T protein (aminomethyltransferase)	2.1.2.10	Tetrahydrofolate	5,10-Methylenetetrahydrofolate	green
-glycine cleavage system T protein (aminomethyltransferase)	2.1.2.10	Tetrahydrofolate	Ammonia	green
-glycine cleavage system T protein (aminomethyltransferase)	2.1.2.10	Tetrahydrofolate	Dihydrolipoylprotein	green
-glycine cleavage system T protein (aminomethyltransferase)	2.1.2.10	[Protein]-S8-aminomethyldihydrolipoyllysine	5,10-Methylenetetrahydrofolate	green
-glycine cleavage system T protein (aminomethyltransferase)	2.1.2.10	[Protein]-S8-aminomethyldihydrolipoyllysine	Ammonia	green
-glycine cleavage system T protein (aminomethyltransferase)	2.1.2.10	[Protein]-S8-aminomethyldihydrolipoyllysine	Dihydrolipoylprotein	green
-glycine hydroxymethyltransferase	2.1.2.1	5,10-Methylenetetrahydrofolate	L-Serine	green
-glycine hydroxymethyltransferase	2.1.2.1	5,10-Methylenetetrahydrofolate	Tetrahydrofolate	green
-glycine hydroxymethyltransferase	2.1.2.1	Glycine	L-Serine	green
-glycine hydroxymethyltransferase	2.1.2.1	Glycine	Tetrahydrofolate	green
-glycine hydroxymethyltransferase	2.1.2.1	H2O	L-Serine	green
-glycine hydroxymethyltransferase	2.1.2.1	H2O	Tetrahydrofolate	green
-glycine hydroxymethyltransferase	2.1.2.1	L-Serine	5,10-Methylenetetrahydrofolate	green
-glycine hydroxymethyltransferase	2.1.2.1	L-Serine	Glycine	green
-glycine hydroxymethyltransferase	2.1.2.1	L-Serine	H2O	green
-glycine hydroxymethyltransferase	2.1.2.1	Tetrahydrofolate	5,10-Methylenetetrahydrofolate	green
-glycine hydroxymethyltransferase	2.1.2.1	Tetrahydrofolate	Glycine	green
-glycine hydroxymethyltransferase	2.1.2.1	Tetrahydrofolate	H2O	green
-glycine/sarcosine N-methyltransferase	2.1.1.156	Glycine	N,N-Dimethylglycine	white
-glycine/sarcosine N-methyltransferase	2.1.1.156	Glycine	S-Adenosyl-L-homocysteine	white
-glycine/sarcosine N-methyltransferase	2.1.1.156	N,N-Dimethylglycine	Glycine	white
-glycine/sarcosine N-methyltransferase	2.1.1.156	N,N-Dimethylglycine	S-Adenosyl-L-methionine	white
-glycine/sarcosine N-methyltransferase	2.1.1.156	S-Adenosyl-L-homocysteine	Glycine	white
-glycine/sarcosine N-methyltransferase	2.1.1.156	S-Adenosyl-L-homocysteine	S-Adenosyl-L-methionine	white
-glycine/sarcosine N-methyltransferase	2.1.1.156	S-Adenosyl-L-methionine	N,N-Dimethylglycine	white
-glycine/sarcosine N-methyltransferase	2.1.1.156	S-Adenosyl-L-methionine	S-Adenosyl-L-homocysteine	white
-glycine/sarcosine/dimethylglycine N-methyltransferase	2.1.1.156	Glycine	N,N-Dimethylglycine	white
-glycine/sarcosine/dimethylglycine N-methyltransferase	2.1.1.156	Glycine	S-Adenosyl-L-homocysteine	white
-glycine/sarcosine/dimethylglycine N-methyltransferase	2.1.1.156	N,N-Dimethylglycine	Glycine	white
-glycine/sarcosine/dimethylglycine N-methyltransferase	2.1.1.156	N,N-Dimethylglycine	S-Adenosyl-L-methionine	white
-glycine/sarcosine/dimethylglycine N-methyltransferase	2.1.1.156	S-Adenosyl-L-homocysteine	Glycine	white
-glycine/sarcosine/dimethylglycine N-methyltransferase	2.1.1.156	S-Adenosyl-L-homocysteine	S-Adenosyl-L-methionine	white
-glycine/sarcosine/dimethylglycine N-methyltransferase	2.1.1.156	S-Adenosyl-L-methionine	N,N-Dimethylglycine	white
-glycine/sarcosine/dimethylglycine N-methyltransferase	2.1.1.156	S-Adenosyl-L-methionine	S-Adenosyl-L-homocysteine	white
-glyoxylate/hydroxypyruvate reductase	1.1.1.79	Glycolate	Glyoxylate	white
-glyoxylate/hydroxypyruvate reductase	1.1.1.79	Glycolate	H+	white
-glyoxylate/hydroxypyruvate reductase	1.1.1.79	Glycolate	NADPH	white
-glyoxylate/hydroxypyruvate reductase	1.1.1.79	Glyoxylate	Glycolate	white
-glyoxylate/hydroxypyruvate reductase	1.1.1.79	Glyoxylate	NADP+	white
-glyoxylate/hydroxypyruvate reductase	1.1.1.79	H+	Glycolate	white
-glyoxylate/hydroxypyruvate reductase	1.1.1.79	H+	NADP+	white
-glyoxylate/hydroxypyruvate reductase	1.1.1.79	NADP+	Glyoxylate	white
-glyoxylate/hydroxypyruvate reductase	1.1.1.79	NADP+	H+	white
-glyoxylate/hydroxypyruvate reductase	1.1.1.79	NADP+	NADPH	white
-glyoxylate/hydroxypyruvate reductase	1.1.1.79	NADPH	Glycolate	white
-glyoxylate/hydroxypyruvate reductase	1.1.1.79	NADPH	NADP+	white
-glyoxylate/hydroxypyruvate/2-ketogluconate reductase	1.1.1.79	Glycolate	Glyoxylate	white
-glyoxylate/hydroxypyruvate/2-ketogluconate reductase	1.1.1.79	Glycolate	H+	white
-glyoxylate/hydroxypyruvate/2-ketogluconate reductase	1.1.1.79	Glycolate	NADPH	white
-glyoxylate/hydroxypyruvate/2-ketogluconate reductase	1.1.1.79	Glyoxylate	Glycolate	white
-glyoxylate/hydroxypyruvate/2-ketogluconate reductase	1.1.1.79	Glyoxylate	NADP+	white
-glyoxylate/hydroxypyruvate/2-ketogluconate reductase	1.1.1.79	H+	Glycolate	white
-glyoxylate/hydroxypyruvate/2-ketogluconate reductase	1.1.1.79	H+	NADP+	white
-glyoxylate/hydroxypyruvate/2-ketogluconate reductase	1.1.1.79	NADP+	Glyoxylate	white
-glyoxylate/hydroxypyruvate/2-ketogluconate reductase	1.1.1.79	NADP+	H+	white
-glyoxylate/hydroxypyruvate/2-ketogluconate reductase	1.1.1.79	NADP+	NADPH	white
-glyoxylate/hydroxypyruvate/2-ketogluconate reductase	1.1.1.79	NADPH	Glycolate	white
-glyoxylate/hydroxypyruvate/2-ketogluconate reductase	1.1.1.79	NADPH	NADP+	white
-guanidinoacetate N-methyltransferase	2.1.1.2	Creatine	Guanidinoacetate	white
-guanidinoacetate N-methyltransferase	2.1.1.2	Creatine	S-Adenosyl-L-methionine	white
-guanidinoacetate N-methyltransferase	2.1.1.2	Guanidinoacetate	Creatine	white
-guanidinoacetate N-methyltransferase	2.1.1.2	Guanidinoacetate	S-Adenosyl-L-homocysteine	white
-guanidinoacetate N-methyltransferase	2.1.1.2	S-Adenosyl-L-homocysteine	Guanidinoacetate	white
-guanidinoacetate N-methyltransferase	2.1.1.2	S-Adenosyl-L-homocysteine	S-Adenosyl-L-methionine	white
-guanidinoacetate N-methyltransferase	2.1.1.2	S-Adenosyl-L-methionine	Creatine	white
-guanidinoacetate N-methyltransferase	2.1.1.2	S-Adenosyl-L-methionine	S-Adenosyl-L-homocysteine	white
-homoserine dehydrogenase	1.1.1.3	L-Homoserine	H+	green
-homoserine dehydrogenase	1.1.1.3	L-Homoserine	L-Aspartate 4-semialdehyde	green
-homoserine dehydrogenase	1.1.1.3	L-Homoserine	NADH	green
-homoserine dehydrogenase	1.1.1.3	L-Homoserine	NADPH	green
-homoserine dehydrogenase	1.1.1.3	NAD+	H+	green
-homoserine dehydrogenase	1.1.1.3	NAD+	L-Aspartate 4-semialdehyde	green
-homoserine dehydrogenase	1.1.1.3	NAD+	NADH	green
-homoserine dehydrogenase	1.1.1.3	NADP+	H+	green
-homoserine dehydrogenase	1.1.1.3	NADP+	L-Aspartate 4-semialdehyde	green
-homoserine dehydrogenase	1.1.1.3	NADP+	NADPH	green
-homoserine kinase	2.7.1.39	ATP	ADP	green
-homoserine kinase	2.7.1.39	ATP	O-Phospho-L-homoserine	green
-homoserine kinase	2.7.1.39	L-Homoserine	ADP	green
-homoserine kinase	2.7.1.39	L-Homoserine	O-Phospho-L-homoserine	green
-hydroxypyruvate reductase	1.1.1.81	D-Glycerate	H+	white
-hydroxypyruvate reductase	1.1.1.81	D-Glycerate	Hydroxypyruvate	white
-hydroxypyruvate reductase	1.1.1.81	D-Glycerate	NADH	white
-hydroxypyruvate reductase	1.1.1.81	H+	D-Glycerate	white
-hydroxypyruvate reductase	1.1.1.81	H+	NAD+	white
-hydroxypyruvate reductase	1.1.1.81	Hydroxypyruvate	D-Glycerate	white
-hydroxypyruvate reductase	1.1.1.81	Hydroxypyruvate	NAD+	white
-hydroxypyruvate reductase	1.1.1.81	NAD+	H+	white
-hydroxypyruvate reductase	1.1.1.81	NAD+	Hydroxypyruvate	white
-hydroxypyruvate reductase	1.1.1.81	NAD+	NADH	white
-hydroxypyruvate reductase	1.1.1.81	NADH	D-Glycerate	white
-hydroxypyruvate reductase	1.1.1.81	NADH	NAD+	white
-monoamine oxidase	1.4.3.4	Aminoacetone	Ammonia	green
-monoamine oxidase	1.4.3.4	Aminoacetone	Hydrogen peroxide	green
-monoamine oxidase	1.4.3.4	Aminoacetone	Methylglyoxal	green
-monoamine oxidase	1.4.3.4	H2O	Ammonia	green
-monoamine oxidase	1.4.3.4	H2O	Hydrogen peroxide	green
-monoamine oxidase	1.4.3.4	H2O	Methylglyoxal	green
-monoamine oxidase	1.4.3.4	Oxygen	Ammonia	green
-monoamine oxidase	1.4.3.4	Oxygen	Hydrogen peroxide	green
-monoamine oxidase	1.4.3.4	Oxygen	Methylglyoxal	green
-phosphoserine aminotransferase	2.6.1.52	2-Oxoglutarate	3-Phosphonooxypyruvate	green
-phosphoserine aminotransferase	2.6.1.52	2-Oxoglutarate	L-Glutamate	green
-phosphoserine aminotransferase	2.6.1.52	3-Phosphonooxypyruvate	2-Oxoglutarate	green
-phosphoserine aminotransferase	2.6.1.52	3-Phosphonooxypyruvate	O-Phospho-L-serine	green
-phosphoserine aminotransferase	2.6.1.52	L-Glutamate	2-Oxoglutarate	green
-phosphoserine aminotransferase	2.6.1.52	L-Glutamate	O-Phospho-L-serine	green
-phosphoserine aminotransferase	2.6.1.52	O-Phospho-L-serine	3-Phosphonooxypyruvate	green
-phosphoserine aminotransferase	2.6.1.52	O-Phospho-L-serine	L-Glutamate	green
-phosphoserine phosphatase	3.1.3.3	H2O	L-Serine	green
-phosphoserine phosphatase	3.1.3.3	H2O	Orthophosphate	green
-phosphoserine phosphatase	3.1.3.3	O-Phospho-L-serine	L-Serine	green
-phosphoserine phosphatase	3.1.3.3	O-Phospho-L-serine	Orthophosphate	green
-primary-amine oxidase	1.4.3.21	Aminoacetone	Ammonia	green
-primary-amine oxidase	1.4.3.21	Aminoacetone	Hydrogen peroxide	green
-primary-amine oxidase	1.4.3.21	Aminoacetone	Methylglyoxal	green
-primary-amine oxidase	1.4.3.21	H2O	Ammonia	green
-primary-amine oxidase	1.4.3.21	H2O	Hydrogen peroxide	green
-primary-amine oxidase	1.4.3.21	H2O	Methylglyoxal	green
-primary-amine oxidase	1.4.3.21	Oxygen	Ammonia	green
-primary-amine oxidase	1.4.3.21	Oxygen	Hydrogen peroxide	green
-primary-amine oxidase	1.4.3.21	Oxygen	Methylglyoxal	green
-roa:Pd630_LPD02197		Betaine aldehyde	Betaine	green
-roa:Pd630_LPD02197		Betaine aldehyde	H+	green
-roa:Pd630_LPD02197		Betaine aldehyde	NADH	green
-roa:Pd630_LPD02197		Betaine aldehyde	NADPH	green
-roa:Pd630_LPD02197		H2O	Betaine	green
-roa:Pd630_LPD02197		H2O	H+	green
-roa:Pd630_LPD02197		H2O	NADH	green
-roa:Pd630_LPD02197		H2O	NADPH	green
-roa:Pd630_LPD02197		NAD+	Betaine	green
-roa:Pd630_LPD02197		NAD+	H+	green
-roa:Pd630_LPD02197		NAD+	NADH	green
-roa:Pd630_LPD02197		NADP+	Betaine	green
-roa:Pd630_LPD02197		NADP+	H+	green
-roa:Pd630_LPD02197		NADP+	NADPH	green
-roa:Pd630_LPD06190		Aminoacetone	Ammonia	green
-roa:Pd630_LPD06190		Aminoacetone	Hydrogen peroxide	green
-roa:Pd630_LPD06190		Aminoacetone	Methylglyoxal	green
-roa:Pd630_LPD06190		H2O	Ammonia	green
-roa:Pd630_LPD06190		H2O	Hydrogen peroxide	green
-roa:Pd630_LPD06190		H2O	Methylglyoxal	green
-roa:Pd630_LPD06190		Oxygen	Ammonia	green
-roa:Pd630_LPD06190		Oxygen	Hydrogen peroxide	green
-roa:Pd630_LPD06190		Oxygen	Methylglyoxal	green
-sarcosine dehydrogenase	1.5.8.3	5,10-Methylenetetrahydrofolate	Electron-transferring flavoprotein	white
-sarcosine dehydrogenase	1.5.8.3	5,10-Methylenetetrahydrofolate	Sarcosine	white
-sarcosine dehydrogenase	1.5.8.3	5,10-Methylenetetrahydrofolate	Tetrahydrofolate	white
-sarcosine dehydrogenase	1.5.8.3	Electron-transferring flavoprotein	5,10-Methylenetetrahydrofolate	white
-sarcosine dehydrogenase	1.5.8.3	Electron-transferring flavoprotein	Glycine	white
-sarcosine dehydrogenase	1.5.8.3	Electron-transferring flavoprotein	Reduced electron-transferring flavoprotein	white
-sarcosine dehydrogenase	1.5.8.3	Glycine	Electron-transferring flavoprotein	white
-sarcosine dehydrogenase	1.5.8.3	Glycine	Sarcosine	white
-sarcosine dehydrogenase	1.5.8.3	Glycine	Tetrahydrofolate	white
-sarcosine dehydrogenase	1.5.8.3	Reduced electron-transferring flavoprotein	Electron-transferring flavoprotein	white
-sarcosine dehydrogenase	1.5.8.3	Reduced electron-transferring flavoprotein	Sarcosine	white
-sarcosine dehydrogenase	1.5.8.3	Reduced electron-transferring flavoprotein	Tetrahydrofolate	white
-sarcosine dehydrogenase	1.5.8.3	Sarcosine	5,10-Methylenetetrahydrofolate	white
-sarcosine dehydrogenase	1.5.8.3	Sarcosine	Glycine	white
-sarcosine dehydrogenase	1.5.8.3	Sarcosine	Reduced electron-transferring flavoprotein	white
-sarcosine dehydrogenase	1.5.8.3	Tetrahydrofolate	5,10-Methylenetetrahydrofolate	white
-sarcosine dehydrogenase	1.5.8.3	Tetrahydrofolate	Glycine	white
-sarcosine dehydrogenase	1.5.8.3	Tetrahydrofolate	Reduced electron-transferring flavoprotein	white
-sarcosine oxidase	1.5.3.1	H2O	Formaldehyde	green
-sarcosine oxidase	1.5.3.1	H2O	Glycine	green
-sarcosine oxidase	1.5.3.1	H2O	Hydrogen peroxide	green
-sarcosine oxidase	1.5.3.1	Oxygen	Formaldehyde	green
-sarcosine oxidase	1.5.3.1	Oxygen	Glycine	green
-sarcosine oxidase	1.5.3.1	Oxygen	Hydrogen peroxide	green
-sarcosine oxidase	1.5.3.1	Sarcosine	Formaldehyde	green
-sarcosine oxidase	1.5.3.1	Sarcosine	Glycine	green
-sarcosine oxidase	1.5.3.1	Sarcosine	Hydrogen peroxide	green
-sarcosine oxidase, subunit alpha	1.5.3.24	H2O	Formaldehyde	green
-sarcosine oxidase, subunit alpha	1.5.3.24	H2O	Glycine	green
-sarcosine oxidase, subunit alpha	1.5.3.24	H2O	Hydrogen peroxide	green
-sarcosine oxidase, subunit alpha	1.5.3.24	Oxygen	5,10-Methylenetetrahydrofolate	green
-sarcosine oxidase, subunit alpha	1.5.3.24	Oxygen	Formaldehyde	green
-sarcosine oxidase, subunit alpha	1.5.3.24	Oxygen	Glycine	green
-sarcosine oxidase, subunit alpha	1.5.3.24	Oxygen	Hydrogen peroxide	green
-sarcosine oxidase, subunit alpha	1.5.3.24	Sarcosine	5,10-Methylenetetrahydrofolate	green
-sarcosine oxidase, subunit alpha	1.5.3.24	Sarcosine	Formaldehyde	green
-sarcosine oxidase, subunit alpha	1.5.3.24	Sarcosine	Glycine	green
-sarcosine oxidase, subunit alpha	1.5.3.24	Sarcosine	Hydrogen peroxide	green
-sarcosine oxidase, subunit alpha	1.5.3.24	Tetrahydrofolate	5,10-Methylenetetrahydrofolate	green
-sarcosine oxidase, subunit alpha	1.5.3.24	Tetrahydrofolate	Glycine	green
-sarcosine oxidase, subunit alpha	1.5.3.24	Tetrahydrofolate	Hydrogen peroxide	green
-sarcosine oxidase, subunit beta	1.5.3.24	H2O	Formaldehyde	green
-sarcosine oxidase, subunit beta	1.5.3.24	H2O	Glycine	green
-sarcosine oxidase, subunit beta	1.5.3.24	H2O	Hydrogen peroxide	green
-sarcosine oxidase, subunit beta	1.5.3.24	Oxygen	5,10-Methylenetetrahydrofolate	green
-sarcosine oxidase, subunit beta	1.5.3.24	Oxygen	Formaldehyde	green
-sarcosine oxidase, subunit beta	1.5.3.24	Oxygen	Glycine	green
-sarcosine oxidase, subunit beta	1.5.3.24	Oxygen	Hydrogen peroxide	green
-sarcosine oxidase, subunit beta	1.5.3.24	Sarcosine	5,10-Methylenetetrahydrofolate	green
-sarcosine oxidase, subunit beta	1.5.3.24	Sarcosine	Formaldehyde	green
-sarcosine oxidase, subunit beta	1.5.3.24	Sarcosine	Glycine	green
-sarcosine oxidase, subunit beta	1.5.3.24	Sarcosine	Hydrogen peroxide	green
-sarcosine oxidase, subunit beta	1.5.3.24	Tetrahydrofolate	5,10-Methylenetetrahydrofolate	green
-sarcosine oxidase, subunit beta	1.5.3.24	Tetrahydrofolate	Glycine	green
-sarcosine oxidase, subunit beta	1.5.3.24	Tetrahydrofolate	Hydrogen peroxide	green
-sarcosine oxidase, subunit delta	1.5.3.24	H2O	Formaldehyde	green
-sarcosine oxidase, subunit delta	1.5.3.24	H2O	Glycine	green
-sarcosine oxidase, subunit delta	1.5.3.24	H2O	Hydrogen peroxide	green
-sarcosine oxidase, subunit delta	1.5.3.24	Oxygen	5,10-Methylenetetrahydrofolate	green
-sarcosine oxidase, subunit delta	1.5.3.24	Oxygen	Formaldehyde	green
-sarcosine oxidase, subunit delta	1.5.3.24	Oxygen	Glycine	green
-sarcosine oxidase, subunit delta	1.5.3.24	Oxygen	Hydrogen peroxide	green
-sarcosine oxidase, subunit delta	1.5.3.24	Sarcosine	5,10-Methylenetetrahydrofolate	green
-sarcosine oxidase, subunit delta	1.5.3.24	Sarcosine	Formaldehyde	green
-sarcosine oxidase, subunit delta	1.5.3.24	Sarcosine	Glycine	green
-sarcosine oxidase, subunit delta	1.5.3.24	Sarcosine	Hydrogen peroxide	green
-sarcosine oxidase, subunit delta	1.5.3.24	Tetrahydrofolate	5,10-Methylenetetrahydrofolate	green
-sarcosine oxidase, subunit delta	1.5.3.24	Tetrahydrofolate	Glycine	green
-sarcosine oxidase, subunit delta	1.5.3.24	Tetrahydrofolate	Hydrogen peroxide	green
-sarcosine oxidase, subunit gamma	1.5.3.24	H2O	Formaldehyde	green
-sarcosine oxidase, subunit gamma	1.5.3.24	H2O	Glycine	green
-sarcosine oxidase, subunit gamma	1.5.3.24	H2O	Hydrogen peroxide	green
-sarcosine oxidase, subunit gamma	1.5.3.24	Oxygen	5,10-Methylenetetrahydrofolate	green
-sarcosine oxidase, subunit gamma	1.5.3.24	Oxygen	Formaldehyde	green
-sarcosine oxidase, subunit gamma	1.5.3.24	Oxygen	Glycine	green
-sarcosine oxidase, subunit gamma	1.5.3.24	Oxygen	Hydrogen peroxide	green
-sarcosine oxidase, subunit gamma	1.5.3.24	Sarcosine	5,10-Methylenetetrahydrofolate	green
-sarcosine oxidase, subunit gamma	1.5.3.24	Sarcosine	Formaldehyde	green
-sarcosine oxidase, subunit gamma	1.5.3.24	Sarcosine	Glycine	green
-sarcosine oxidase, subunit gamma	1.5.3.24	Sarcosine	Hydrogen peroxide	green
-sarcosine oxidase, subunit gamma	1.5.3.24	Tetrahydrofolate	5,10-Methylenetetrahydrofolate	green
-sarcosine oxidase, subunit gamma	1.5.3.24	Tetrahydrofolate	Glycine	green
-sarcosine oxidase, subunit gamma	1.5.3.24	Tetrahydrofolate	Hydrogen peroxide	green
-sarcosine/dimethylglycine N-methyltransferase	2.1.1.157	Betaine	S-Adenosyl-L-methionine	white
-sarcosine/dimethylglycine N-methyltransferase	2.1.1.157	Betaine	Sarcosine	white
-sarcosine/dimethylglycine N-methyltransferase	2.1.1.157	S-Adenosyl-L-homocysteine	S-Adenosyl-L-methionine	white
-sarcosine/dimethylglycine N-methyltransferase	2.1.1.157	S-Adenosyl-L-homocysteine	Sarcosine	white
-sarcosine/dimethylglycine N-methyltransferase	2.1.1.157	S-Adenosyl-L-methionine	Betaine	white
-sarcosine/dimethylglycine N-methyltransferase	2.1.1.157	S-Adenosyl-L-methionine	S-Adenosyl-L-homocysteine	white
-sarcosine/dimethylglycine N-methyltransferase	2.1.1.157	Sarcosine	Betaine	white
-sarcosine/dimethylglycine N-methyltransferase	2.1.1.157	Sarcosine	S-Adenosyl-L-homocysteine	white
-serine racemase	5.1.1.18	D-Serine	L-Serine	white
-serine racemase	5.1.1.18	L-Serine	D-Serine	white
-serine---pyruvate transaminase	2.6.1.51	Hydroxypyruvate	L-Serine	white
-serine---pyruvate transaminase	2.6.1.51	Hydroxypyruvate	Pyruvate	white
-serine---pyruvate transaminase	2.6.1.51	L-Alanine	L-Serine	white
-serine---pyruvate transaminase	2.6.1.51	L-Alanine	Pyruvate	white
-serine---pyruvate transaminase	2.6.1.51	L-Serine	Hydroxypyruvate	white
-serine---pyruvate transaminase	2.6.1.51	L-Serine	L-Alanine	white
-serine---pyruvate transaminase	2.6.1.51	Pyruvate	Hydroxypyruvate	white
-serine---pyruvate transaminase	2.6.1.51	Pyruvate	L-Alanine	white
-threonine 3-dehydrogenase	1.1.1.103	H+	L-Threonine	white
-threonine 3-dehydrogenase	1.1.1.103	H+	NAD+	white
-threonine 3-dehydrogenase	1.1.1.103	L-2-Amino-3-oxobutanoic acid	L-Threonine	white
-threonine 3-dehydrogenase	1.1.1.103	L-2-Amino-3-oxobutanoic acid	NAD+	white
-threonine 3-dehydrogenase	1.1.1.103	L-Threonine	H+	white
-threonine 3-dehydrogenase	1.1.1.103	L-Threonine	L-2-Amino-3-oxobutanoic acid	white
-threonine 3-dehydrogenase	1.1.1.103	L-Threonine	NADH	white
-threonine 3-dehydrogenase	1.1.1.103	NAD+	H+	white
-threonine 3-dehydrogenase	1.1.1.103	NAD+	L-2-Amino-3-oxobutanoic acid	white
-threonine 3-dehydrogenase	1.1.1.103	NAD+	NADH	white
-threonine 3-dehydrogenase	1.1.1.103	NADH	L-Threonine	white
-threonine 3-dehydrogenase	1.1.1.103	NADH	NAD+	white
-threonine aldolase	4.1.2.48	Acetaldehyde	L-Threonine	white
-threonine aldolase	4.1.2.48	Glycine	L-Threonine	white
-threonine aldolase	4.1.2.48	L-Threonine	Acetaldehyde	white
-threonine aldolase	4.1.2.48	L-Threonine	Glycine	white
-threonine dehydratase	4.3.1.19	L-Serine	Ammonia	green
-threonine dehydratase	4.3.1.19	L-Serine	Pyruvate	green
-threonine dehydratase	4.3.1.19	L-Threonine	2-Oxobutanoate	green
-threonine dehydratase	4.3.1.19	L-Threonine	Ammonia	green
-threonine synthase	4.2.3.1	H2O	L-Threonine	green
-threonine synthase	4.2.3.1	H2O	Orthophosphate	green
-threonine synthase	4.2.3.1	O-Phospho-L-homoserine	L-Threonine	green
-threonine synthase	4.2.3.1	O-Phospho-L-homoserine	Orthophosphate	green
-tryptophan synthase alpha chain	4.2.1.20	Indoleglycerol phosphate	D-Glyceraldehyde 3-phosphate	green
-tryptophan synthase alpha chain	4.2.1.20	Indoleglycerol phosphate	H2O	green
-tryptophan synthase alpha chain	4.2.1.20	Indoleglycerol phosphate	L-Tryptophan	green
-tryptophan synthase alpha chain	4.2.1.20	L-Serine	D-Glyceraldehyde 3-phosphate	green
-tryptophan synthase alpha chain	4.2.1.20	L-Serine	H2O	green
-tryptophan synthase alpha chain	4.2.1.20	L-Serine	L-Tryptophan	green
-tryptophan synthase beta chain	4.2.1.20	Indoleglycerol phosphate	D-Glyceraldehyde 3-phosphate	green
-tryptophan synthase beta chain	4.2.1.20	Indoleglycerol phosphate	H2O	green
-tryptophan synthase beta chain	4.2.1.20	Indoleglycerol phosphate	L-Tryptophan	green
-tryptophan synthase beta chain	4.2.1.20	L-Serine	D-Glyceraldehyde 3-phosphate	green
-tryptophan synthase beta chain	4.2.1.20	L-Serine	H2O	green
-tryptophan synthase beta chain	4.2.1.20	L-Serine	L-Tryptophan	green
+enzyme_name	EC	source	target	reaction	color
+2,3-bisphosphoglycerate-dependent phosphoglycerate mutase	5.4.2.11	2-Phospho-D-glycerate	3-Phospho-D-glycerate	R01518	green
+2,3-bisphosphoglycerate-independent phosphoglycerate mutase	5.4.2.12	2-Phospho-D-glycerate	3-Phospho-D-glycerate	R01518	white
+2,3-bisphosphoglycerate-independent phosphoglycerate mutase	5.4.2.12	3-Phospho-D-glycerate	2-Phospho-D-glycerate	R01518	white
+3-hydroxy acid dehydrogenase / malonic semialdehyde reductase	1.1.1.381	3-Hydroxypropanoate	3-Oxopropanoate	R09289	white
+3-hydroxy acid dehydrogenase / malonic semialdehyde reductase	1.1.1.381	3-Hydroxypropanoate	H+	R09289	white
+3-hydroxy acid dehydrogenase / malonic semialdehyde reductase	1.1.1.381	3-Hydroxypropanoate	NADPH	R09289	white
+3-hydroxy acid dehydrogenase / malonic semialdehyde reductase	1.1.1.381	3-Oxopropanoate	3-Hydroxypropanoate	R09289	white
+3-hydroxy acid dehydrogenase / malonic semialdehyde reductase	1.1.1.381	3-Oxopropanoate	NADP+	R09289	white
+3-hydroxy acid dehydrogenase / malonic semialdehyde reductase	1.1.1.381	H+	3-Hydroxypropanoate	R09289	white
+3-hydroxy acid dehydrogenase / malonic semialdehyde reductase	1.1.1.381	H+	NADP+	R09289	white
+3-hydroxy acid dehydrogenase / malonic semialdehyde reductase	1.1.1.381	NADP+	3-Oxopropanoate	R09289	white
+3-hydroxy acid dehydrogenase / malonic semialdehyde reductase	1.1.1.381	NADP+	H+	R09289	white
+3-hydroxy acid dehydrogenase / malonic semialdehyde reductase	1.1.1.381	NADP+	NADPH	R09289	white
+3-hydroxy acid dehydrogenase / malonic semialdehyde reductase	1.1.1.381	NADPH	3-Hydroxypropanoate	R09289	white
+3-hydroxy acid dehydrogenase / malonic semialdehyde reductase	1.1.1.381	NADPH	NADP+	R09289	white
+5-aminolevulinate synthase	2.3.1.37	5-Aminolevulinate	Glycine	R00830	white
+5-aminolevulinate synthase	2.3.1.37	5-Aminolevulinate	Succinyl-CoA	R00830	white
+5-aminolevulinate synthase	2.3.1.37	CO2	Glycine	R00830	white
+5-aminolevulinate synthase	2.3.1.37	CO2	Succinyl-CoA	R00830	white
+5-aminolevulinate synthase	2.3.1.37	CoA	Glycine	R00830	white
+5-aminolevulinate synthase	2.3.1.37	CoA	Succinyl-CoA	R00830	white
+5-aminolevulinate synthase	2.3.1.37	Glycine	5-Aminolevulinate	R00830	white
+5-aminolevulinate synthase	2.3.1.37	Glycine	CO2	R00830	white
+5-aminolevulinate synthase	2.3.1.37	Glycine	CoA	R00830	white
+5-aminolevulinate synthase	2.3.1.37	Succinyl-CoA	5-Aminolevulinate	R00830	white
+5-aminolevulinate synthase	2.3.1.37	Succinyl-CoA	CO2	R00830	white
+5-aminolevulinate synthase	2.3.1.37	Succinyl-CoA	CoA	R00830	white
+CDP-diacylglycerol---serine O-phosphatidyltransferase	2.7.8.8	CDP-diacylglycerol	CMP	R01800	green
+CDP-diacylglycerol---serine O-phosphatidyltransferase	2.7.8.8	CDP-diacylglycerol	Phosphatidylserine	R01800	green
+CDP-diacylglycerol---serine O-phosphatidyltransferase	2.7.8.8	L-Serine	CMP	R01800	green
+CDP-diacylglycerol---serine O-phosphatidyltransferase	2.7.8.8	L-Serine	Phosphatidylserine	R01800	green
+D-3-phosphoglycerate dehydrogenase / 2-oxoglutarate reductase	1.1.1.95	3-Phospho-D-glycerate	3-Phosphonooxypyruvate	R01513	green
+D-3-phosphoglycerate dehydrogenase / 2-oxoglutarate reductase	1.1.1.95	3-Phospho-D-glycerate	H+	R01513	green
+D-3-phosphoglycerate dehydrogenase / 2-oxoglutarate reductase	1.1.1.95	3-Phospho-D-glycerate	NADH	R01513	green
+D-3-phosphoglycerate dehydrogenase / 2-oxoglutarate reductase	1.1.1.95	3-Phosphonooxypyruvate	3-Phospho-D-glycerate	R01513	green
+D-3-phosphoglycerate dehydrogenase / 2-oxoglutarate reductase	1.1.1.95	3-Phosphonooxypyruvate	NAD+	R01513	green
+D-3-phosphoglycerate dehydrogenase / 2-oxoglutarate reductase	1.1.1.95	H+	3-Phospho-D-glycerate	R01513	green
+D-3-phosphoglycerate dehydrogenase / 2-oxoglutarate reductase	1.1.1.95	H+	NAD+	R01513	green
+D-3-phosphoglycerate dehydrogenase / 2-oxoglutarate reductase	1.1.1.95	NAD+	3-Phosphonooxypyruvate	R01513	green
+D-3-phosphoglycerate dehydrogenase / 2-oxoglutarate reductase	1.1.1.95	NAD+	H+	R01513	green
+D-3-phosphoglycerate dehydrogenase / 2-oxoglutarate reductase	1.1.1.95	NAD+	NADH	R01513	green
+D-3-phosphoglycerate dehydrogenase / 2-oxoglutarate reductase	1.1.1.95	NADH	3-Phospho-D-glycerate	R01513	green
+D-3-phosphoglycerate dehydrogenase / 2-oxoglutarate reductase	1.1.1.95	NADH	NAD+	R01513	green
+D-amino-acid oxidase	1.4.3.3	Ammonia	Glycine	R00366	white
+D-amino-acid oxidase	1.4.3.3	Ammonia	H2O	R00366	white
+D-amino-acid oxidase	1.4.3.3	Ammonia	Oxygen	R00366	white
+D-amino-acid oxidase	1.4.3.3	Glycine	Ammonia	R00366	white
+D-amino-acid oxidase	1.4.3.3	Glycine	Glyoxylate	R00366	white
+D-amino-acid oxidase	1.4.3.3	Glycine	Hydrogen peroxide	R00366	white
+D-amino-acid oxidase	1.4.3.3	Glyoxylate	Glycine	R00366	white
+D-amino-acid oxidase	1.4.3.3	Glyoxylate	H2O	R00366	white
+D-amino-acid oxidase	1.4.3.3	Glyoxylate	Oxygen	R00366	white
+D-amino-acid oxidase	1.4.3.3	H2O	Ammonia	R00366	white
+D-amino-acid oxidase	1.4.3.3	H2O	Glyoxylate	R00366	white
+D-amino-acid oxidase	1.4.3.3	H2O	Hydrogen peroxide	R00366	white
+D-amino-acid oxidase	1.4.3.3	Hydrogen peroxide	Glycine	R00366	white
+D-amino-acid oxidase	1.4.3.3	Hydrogen peroxide	H2O	R00366	white
+D-amino-acid oxidase	1.4.3.3	Hydrogen peroxide	Oxygen	R00366	white
+D-amino-acid oxidase	1.4.3.3	Oxygen	Ammonia	R00366	white
+D-amino-acid oxidase	1.4.3.3	Oxygen	Glyoxylate	R00366	white
+D-amino-acid oxidase	1.4.3.3	Oxygen	Hydrogen peroxide	R00366	white
+D-glycerate 3-kinase	2.7.1.31	3-Phospho-D-glycerate	ATP	R01514	white
+D-glycerate 3-kinase	2.7.1.31	3-Phospho-D-glycerate	D-Glycerate	R01514	white
+D-glycerate 3-kinase	2.7.1.31	ADP	ATP	R01514	white
+D-glycerate 3-kinase	2.7.1.31	ADP	D-Glycerate	R01514	white
+D-glycerate 3-kinase	2.7.1.31	ATP	3-Phospho-D-glycerate	R01514	white
+D-glycerate 3-kinase	2.7.1.31	ATP	ADP	R01514	white
+D-glycerate 3-kinase	2.7.1.31	D-Glycerate	3-Phospho-D-glycerate	R01514	white
+D-glycerate 3-kinase	2.7.1.31	D-Glycerate	ADP	R01514	white
+D-serine ammonia-lyase	4.3.1.18	Ammonia	D-Serine	R00221	white
+D-serine ammonia-lyase	4.3.1.18	D-Serine	Ammonia	R00221	white
+D-serine ammonia-lyase	4.3.1.18	D-Serine	Pyruvate	R00221	white
+D-serine ammonia-lyase	4.3.1.18	Pyruvate	D-Serine	R00221	white
+D-serine dehydratase	4.3.1.18	Ammonia	D-Serine	R00221	white
+D-serine dehydratase	4.3.1.18	D-Serine	Ammonia	R00221	white
+D-serine dehydratase	4.3.1.18	D-Serine	Pyruvate	R00221	white
+D-serine dehydratase	4.3.1.18	Pyruvate	D-Serine	R00221	white
+L-2,4-diaminobutyrate decarboxylase	4.1.1.86	1,3-Diaminopropane	L-2,4-Diaminobutanoate	R07650	white
+L-2,4-diaminobutyrate decarboxylase	4.1.1.86	CO2	L-2,4-Diaminobutanoate	R07650	white
+L-2,4-diaminobutyrate decarboxylase	4.1.1.86	L-2,4-Diaminobutanoate	1,3-Diaminopropane	R07650	white
+L-2,4-diaminobutyrate decarboxylase	4.1.1.86	L-2,4-Diaminobutanoate	CO2	R07650	white
+L-2,4-diaminobutyrate transaminase	2.6.1.76	2-Oxoglutarate	L-Aspartate 4-semialdehyde	R06977	white
+L-2,4-diaminobutyrate transaminase	2.6.1.76	2-Oxoglutarate	L-Glutamate	R06977	white
+L-2,4-diaminobutyrate transaminase	2.6.1.76	L-2,4-Diaminobutanoate	L-Aspartate 4-semialdehyde	R06977	white
+L-2,4-diaminobutyrate transaminase	2.6.1.76	L-2,4-Diaminobutanoate	L-Glutamate	R06977	white
+L-2,4-diaminobutyrate transaminase	2.6.1.76	L-Aspartate 4-semialdehyde	2-Oxoglutarate	R06977	white
+L-2,4-diaminobutyrate transaminase	2.6.1.76	L-Aspartate 4-semialdehyde	L-2,4-Diaminobutanoate	R06977	white
+L-2,4-diaminobutyrate transaminase	2.6.1.76	L-Glutamate	2-Oxoglutarate	R06977	white
+L-2,4-diaminobutyrate transaminase	2.6.1.76	L-Glutamate	L-2,4-Diaminobutanoate	R06977	white
+L-2,4-diaminobutyric acid acetyltransferase	2.3.1.178	Acetyl-CoA	CoA	R06978	green
+L-2,4-diaminobutyric acid acetyltransferase	2.3.1.178	Acetyl-CoA	N(gamma)-Acetyldiaminobutyrate	R06978	green
+L-2,4-diaminobutyric acid acetyltransferase	2.3.1.178	L-2,4-Diaminobutanoate	CoA	R06978	green
+L-2,4-diaminobutyric acid acetyltransferase	2.3.1.178	L-2,4-Diaminobutanoate	N(gamma)-Acetyldiaminobutyrate	R06978	green
+L-allo-threonine aldolase	4.1.2.49	Acetaldehyde	L-Allothreonine	R06171	white
+L-allo-threonine aldolase	4.1.2.49	Glycine	L-Allothreonine	R06171	white
+L-allo-threonine aldolase	4.1.2.49	L-Allothreonine	Acetaldehyde	R06171	white
+L-allo-threonine aldolase	4.1.2.49	L-Allothreonine	Glycine	R06171	white
+L-ectoine synthase	4.2.1.108	N(gamma)-Acetyldiaminobutyrate	Ectoine	R06979	green
+L-ectoine synthase	4.2.1.108	N(gamma)-Acetyldiaminobutyrate	H2O	R06979	green
+L-serine dehydratase	4.3.1.17	L-Serine	Ammonia	R00220	green
+L-serine dehydratase	4.3.1.17	L-Serine	Pyruvate	R00220	green
+N,N-dimethylglycine/sarcosine catabolism electron transfer flavoprotein subunit alpha	1.5.7.3	Formaldehyde	H2O	R13028	white
+N,N-dimethylglycine/sarcosine catabolism electron transfer flavoprotein subunit alpha	1.5.7.3	Formaldehyde	N,N-Dimethylglycine	R13028	white
+N,N-dimethylglycine/sarcosine catabolism electron transfer flavoprotein subunit alpha	1.5.7.3	Formaldehyde	Oxidized ferredoxin	R13028	white
+N,N-dimethylglycine/sarcosine catabolism electron transfer flavoprotein subunit alpha	1.5.7.3	H+	H2O	R13028	white
+N,N-dimethylglycine/sarcosine catabolism electron transfer flavoprotein subunit alpha	1.5.7.3	H+	N,N-Dimethylglycine	R13028	white
+N,N-dimethylglycine/sarcosine catabolism electron transfer flavoprotein subunit alpha	1.5.7.3	H+	Oxidized ferredoxin	R13028	white
+N,N-dimethylglycine/sarcosine catabolism electron transfer flavoprotein subunit alpha	1.5.7.3	H2O	Formaldehyde	R13028	white
+N,N-dimethylglycine/sarcosine catabolism electron transfer flavoprotein subunit alpha	1.5.7.3	H2O	H+	R13028	white
+N,N-dimethylglycine/sarcosine catabolism electron transfer flavoprotein subunit alpha	1.5.7.3	H2O	Reduced ferredoxin	R13028	white
+N,N-dimethylglycine/sarcosine catabolism electron transfer flavoprotein subunit alpha	1.5.7.3	H2O	Sarcosine	R13028	white
+N,N-dimethylglycine/sarcosine catabolism electron transfer flavoprotein subunit alpha	1.5.7.3	N,N-Dimethylglycine	Formaldehyde	R13028	white
+N,N-dimethylglycine/sarcosine catabolism electron transfer flavoprotein subunit alpha	1.5.7.3	N,N-Dimethylglycine	H+	R13028	white
+N,N-dimethylglycine/sarcosine catabolism electron transfer flavoprotein subunit alpha	1.5.7.3	N,N-Dimethylglycine	Reduced ferredoxin	R13028	white
+N,N-dimethylglycine/sarcosine catabolism electron transfer flavoprotein subunit alpha	1.5.7.3	N,N-Dimethylglycine	Sarcosine	R13028	white
+N,N-dimethylglycine/sarcosine catabolism electron transfer flavoprotein subunit alpha	1.5.7.3	Oxidized ferredoxin	Formaldehyde	R13028	white
+N,N-dimethylglycine/sarcosine catabolism electron transfer flavoprotein subunit alpha	1.5.7.3	Oxidized ferredoxin	H+	R13028	white
+N,N-dimethylglycine/sarcosine catabolism electron transfer flavoprotein subunit alpha	1.5.7.3	Oxidized ferredoxin	Reduced ferredoxin	R13028	white
+N,N-dimethylglycine/sarcosine catabolism electron transfer flavoprotein subunit alpha	1.5.7.3	Oxidized ferredoxin	Sarcosine	R13028	white
+N,N-dimethylglycine/sarcosine catabolism electron transfer flavoprotein subunit alpha	1.5.7.3	Reduced ferredoxin	H2O	R13028	white
+N,N-dimethylglycine/sarcosine catabolism electron transfer flavoprotein subunit alpha	1.5.7.3	Reduced ferredoxin	N,N-Dimethylglycine	R13028	white
+N,N-dimethylglycine/sarcosine catabolism electron transfer flavoprotein subunit alpha	1.5.7.3	Reduced ferredoxin	Oxidized ferredoxin	R13028	white
+N,N-dimethylglycine/sarcosine catabolism electron transfer flavoprotein subunit alpha	1.5.7.3	Sarcosine	H2O	R13028	white
+N,N-dimethylglycine/sarcosine catabolism electron transfer flavoprotein subunit alpha	1.5.7.3	Sarcosine	N,N-Dimethylglycine	R13028	white
+N,N-dimethylglycine/sarcosine catabolism electron transfer flavoprotein subunit alpha	1.5.7.3	Sarcosine	Oxidized ferredoxin	R13028	white
+N,N-dimethylglycine/sarcosine catabolism electron transfer flavoprotein subunit beta	1.5.7.3	Formaldehyde	H2O	R13028	white
+N,N-dimethylglycine/sarcosine catabolism electron transfer flavoprotein subunit beta	1.5.7.3	Formaldehyde	N,N-Dimethylglycine	R13028	white
+N,N-dimethylglycine/sarcosine catabolism electron transfer flavoprotein subunit beta	1.5.7.3	Formaldehyde	Oxidized ferredoxin	R13028	white
+N,N-dimethylglycine/sarcosine catabolism electron transfer flavoprotein subunit beta	1.5.7.3	H+	H2O	R13028	white
+N,N-dimethylglycine/sarcosine catabolism electron transfer flavoprotein subunit beta	1.5.7.3	H+	N,N-Dimethylglycine	R13028	white
+N,N-dimethylglycine/sarcosine catabolism electron transfer flavoprotein subunit beta	1.5.7.3	H+	Oxidized ferredoxin	R13028	white
+N,N-dimethylglycine/sarcosine catabolism electron transfer flavoprotein subunit beta	1.5.7.3	H2O	Formaldehyde	R13028	white
+N,N-dimethylglycine/sarcosine catabolism electron transfer flavoprotein subunit beta	1.5.7.3	H2O	H+	R13028	white
+N,N-dimethylglycine/sarcosine catabolism electron transfer flavoprotein subunit beta	1.5.7.3	H2O	Reduced ferredoxin	R13028	white
+N,N-dimethylglycine/sarcosine catabolism electron transfer flavoprotein subunit beta	1.5.7.3	H2O	Sarcosine	R13028	white
+N,N-dimethylglycine/sarcosine catabolism electron transfer flavoprotein subunit beta	1.5.7.3	N,N-Dimethylglycine	Formaldehyde	R13028	white
+N,N-dimethylglycine/sarcosine catabolism electron transfer flavoprotein subunit beta	1.5.7.3	N,N-Dimethylglycine	H+	R13028	white
+N,N-dimethylglycine/sarcosine catabolism electron transfer flavoprotein subunit beta	1.5.7.3	N,N-Dimethylglycine	Reduced ferredoxin	R13028	white
+N,N-dimethylglycine/sarcosine catabolism electron transfer flavoprotein subunit beta	1.5.7.3	N,N-Dimethylglycine	Sarcosine	R13028	white
+N,N-dimethylglycine/sarcosine catabolism electron transfer flavoprotein subunit beta	1.5.7.3	Oxidized ferredoxin	Formaldehyde	R13028	white
+N,N-dimethylglycine/sarcosine catabolism electron transfer flavoprotein subunit beta	1.5.7.3	Oxidized ferredoxin	H+	R13028	white
+N,N-dimethylglycine/sarcosine catabolism electron transfer flavoprotein subunit beta	1.5.7.3	Oxidized ferredoxin	Reduced ferredoxin	R13028	white
+N,N-dimethylglycine/sarcosine catabolism electron transfer flavoprotein subunit beta	1.5.7.3	Oxidized ferredoxin	Sarcosine	R13028	white
+N,N-dimethylglycine/sarcosine catabolism electron transfer flavoprotein subunit beta	1.5.7.3	Reduced ferredoxin	H2O	R13028	white
+N,N-dimethylglycine/sarcosine catabolism electron transfer flavoprotein subunit beta	1.5.7.3	Reduced ferredoxin	N,N-Dimethylglycine	R13028	white
+N,N-dimethylglycine/sarcosine catabolism electron transfer flavoprotein subunit beta	1.5.7.3	Reduced ferredoxin	Oxidized ferredoxin	R13028	white
+N,N-dimethylglycine/sarcosine catabolism electron transfer flavoprotein subunit beta	1.5.7.3	Sarcosine	H2O	R13028	white
+N,N-dimethylglycine/sarcosine catabolism electron transfer flavoprotein subunit beta	1.5.7.3	Sarcosine	N,N-Dimethylglycine	R13028	white
+N,N-dimethylglycine/sarcosine catabolism electron transfer flavoprotein subunit beta	1.5.7.3	Sarcosine	Oxidized ferredoxin	R13028	white
+N,N-dimethylglycine/sarcosine dehydrogenase	1.5.7.3	Formaldehyde	H2O	R13028	white
+N,N-dimethylglycine/sarcosine dehydrogenase	1.5.7.3	Formaldehyde	N,N-Dimethylglycine	R13028	white
+N,N-dimethylglycine/sarcosine dehydrogenase	1.5.7.3	Formaldehyde	Oxidized ferredoxin	R13028	white
+N,N-dimethylglycine/sarcosine dehydrogenase	1.5.7.3	H+	H2O	R13028	white
+N,N-dimethylglycine/sarcosine dehydrogenase	1.5.7.3	H+	N,N-Dimethylglycine	R13028	white
+N,N-dimethylglycine/sarcosine dehydrogenase	1.5.7.3	H+	Oxidized ferredoxin	R13028	white
+N,N-dimethylglycine/sarcosine dehydrogenase	1.5.7.3	H2O	Formaldehyde	R13028	white
+N,N-dimethylglycine/sarcosine dehydrogenase	1.5.7.3	H2O	H+	R13028	white
+N,N-dimethylglycine/sarcosine dehydrogenase	1.5.7.3	H2O	Reduced ferredoxin	R13028	white
+N,N-dimethylglycine/sarcosine dehydrogenase	1.5.7.3	H2O	Sarcosine	R13028	white
+N,N-dimethylglycine/sarcosine dehydrogenase	1.5.7.3	N,N-Dimethylglycine	Formaldehyde	R13028	white
+N,N-dimethylglycine/sarcosine dehydrogenase	1.5.7.3	N,N-Dimethylglycine	H+	R13028	white
+N,N-dimethylglycine/sarcosine dehydrogenase	1.5.7.3	N,N-Dimethylglycine	Reduced ferredoxin	R13028	white
+N,N-dimethylglycine/sarcosine dehydrogenase	1.5.7.3	N,N-Dimethylglycine	Sarcosine	R13028	white
+N,N-dimethylglycine/sarcosine dehydrogenase	1.5.7.3	Oxidized ferredoxin	Formaldehyde	R13028	white
+N,N-dimethylglycine/sarcosine dehydrogenase	1.5.7.3	Oxidized ferredoxin	H+	R13028	white
+N,N-dimethylglycine/sarcosine dehydrogenase	1.5.7.3	Oxidized ferredoxin	Reduced ferredoxin	R13028	white
+N,N-dimethylglycine/sarcosine dehydrogenase	1.5.7.3	Oxidized ferredoxin	Sarcosine	R13028	white
+N,N-dimethylglycine/sarcosine dehydrogenase	1.5.7.3	Reduced ferredoxin	H2O	R13028	white
+N,N-dimethylglycine/sarcosine dehydrogenase	1.5.7.3	Reduced ferredoxin	N,N-Dimethylglycine	R13028	white
+N,N-dimethylglycine/sarcosine dehydrogenase	1.5.7.3	Reduced ferredoxin	Oxidized ferredoxin	R13028	white
+N,N-dimethylglycine/sarcosine dehydrogenase	1.5.7.3	Sarcosine	H2O	R13028	white
+N,N-dimethylglycine/sarcosine dehydrogenase	1.5.7.3	Sarcosine	N,N-Dimethylglycine	R13028	white
+N,N-dimethylglycine/sarcosine dehydrogenase	1.5.7.3	Sarcosine	Oxidized ferredoxin	R13028	white
+N,N-dimethylglycine/sarcosine dehydrogenase ferredoxin subunit	1.5.7.3	Formaldehyde	H2O	R13028	white
+N,N-dimethylglycine/sarcosine dehydrogenase ferredoxin subunit	1.5.7.3	Formaldehyde	N,N-Dimethylglycine	R13028	white
+N,N-dimethylglycine/sarcosine dehydrogenase ferredoxin subunit	1.5.7.3	Formaldehyde	Oxidized ferredoxin	R13028	white
+N,N-dimethylglycine/sarcosine dehydrogenase ferredoxin subunit	1.5.7.3	H+	H2O	R13028	white
+N,N-dimethylglycine/sarcosine dehydrogenase ferredoxin subunit	1.5.7.3	H+	N,N-Dimethylglycine	R13028	white
+N,N-dimethylglycine/sarcosine dehydrogenase ferredoxin subunit	1.5.7.3	H+	Oxidized ferredoxin	R13028	white
+N,N-dimethylglycine/sarcosine dehydrogenase ferredoxin subunit	1.5.7.3	H2O	Formaldehyde	R13028	white
+N,N-dimethylglycine/sarcosine dehydrogenase ferredoxin subunit	1.5.7.3	H2O	H+	R13028	white
+N,N-dimethylglycine/sarcosine dehydrogenase ferredoxin subunit	1.5.7.3	H2O	Reduced ferredoxin	R13028	white
+N,N-dimethylglycine/sarcosine dehydrogenase ferredoxin subunit	1.5.7.3	H2O	Sarcosine	R13028	white
+N,N-dimethylglycine/sarcosine dehydrogenase ferredoxin subunit	1.5.7.3	N,N-Dimethylglycine	Formaldehyde	R13028	white
+N,N-dimethylglycine/sarcosine dehydrogenase ferredoxin subunit	1.5.7.3	N,N-Dimethylglycine	H+	R13028	white
+N,N-dimethylglycine/sarcosine dehydrogenase ferredoxin subunit	1.5.7.3	N,N-Dimethylglycine	Reduced ferredoxin	R13028	white
+N,N-dimethylglycine/sarcosine dehydrogenase ferredoxin subunit	1.5.7.3	N,N-Dimethylglycine	Sarcosine	R13028	white
+N,N-dimethylglycine/sarcosine dehydrogenase ferredoxin subunit	1.5.7.3	Oxidized ferredoxin	Formaldehyde	R13028	white
+N,N-dimethylglycine/sarcosine dehydrogenase ferredoxin subunit	1.5.7.3	Oxidized ferredoxin	H+	R13028	white
+N,N-dimethylglycine/sarcosine dehydrogenase ferredoxin subunit	1.5.7.3	Oxidized ferredoxin	Reduced ferredoxin	R13028	white
+N,N-dimethylglycine/sarcosine dehydrogenase ferredoxin subunit	1.5.7.3	Oxidized ferredoxin	Sarcosine	R13028	white
+N,N-dimethylglycine/sarcosine dehydrogenase ferredoxin subunit	1.5.7.3	Reduced ferredoxin	H2O	R13028	white
+N,N-dimethylglycine/sarcosine dehydrogenase ferredoxin subunit	1.5.7.3	Reduced ferredoxin	N,N-Dimethylglycine	R13028	white
+N,N-dimethylglycine/sarcosine dehydrogenase ferredoxin subunit	1.5.7.3	Reduced ferredoxin	Oxidized ferredoxin	R13028	white
+N,N-dimethylglycine/sarcosine dehydrogenase ferredoxin subunit	1.5.7.3	Sarcosine	H2O	R13028	white
+N,N-dimethylglycine/sarcosine dehydrogenase ferredoxin subunit	1.5.7.3	Sarcosine	N,N-Dimethylglycine	R13028	white
+N,N-dimethylglycine/sarcosine dehydrogenase ferredoxin subunit	1.5.7.3	Sarcosine	Oxidized ferredoxin	R13028	white
+N2-acetyl-L-2,4-diaminobutanoate deacetylase	3.5.1.125	Acetate	H2O	R09801	white
+N2-acetyl-L-2,4-diaminobutanoate deacetylase	3.5.1.125	Acetate	N(alpha)-Acetyl-L-2,4-diaminobutyrate	R09801	white
+N2-acetyl-L-2,4-diaminobutanoate deacetylase	3.5.1.125	H2O	Acetate	R09801	white
+N2-acetyl-L-2,4-diaminobutanoate deacetylase	3.5.1.125	H2O	L-2,4-Diaminobutanoate	R09801	white
+N2-acetyl-L-2,4-diaminobutanoate deacetylase	3.5.1.125	L-2,4-Diaminobutanoate	H2O	R09801	white
+N2-acetyl-L-2,4-diaminobutanoate deacetylase	3.5.1.125	L-2,4-Diaminobutanoate	N(alpha)-Acetyl-L-2,4-diaminobutyrate	R09801	white
+N2-acetyl-L-2,4-diaminobutanoate deacetylase	3.5.1.125	N(alpha)-Acetyl-L-2,4-diaminobutyrate	Acetate	R09801	white
+N2-acetyl-L-2,4-diaminobutanoate deacetylase	3.5.1.125	N(alpha)-Acetyl-L-2,4-diaminobutyrate	L-2,4-Diaminobutanoate	R09801	white
+alanine-glyoxylate transaminase / (R)-3-amino-2-methylpropionate-pyruvate transaminase	2.6.1.44	Glycine	Glyoxylate	R00369	white
+alanine-glyoxylate transaminase / (R)-3-amino-2-methylpropionate-pyruvate transaminase	2.6.1.44	Glycine	L-Alanine	R00369	white
+alanine-glyoxylate transaminase / (R)-3-amino-2-methylpropionate-pyruvate transaminase	2.6.1.44	Glyoxylate	Glycine	R00369	white
+alanine-glyoxylate transaminase / (R)-3-amino-2-methylpropionate-pyruvate transaminase	2.6.1.44	Glyoxylate	Pyruvate	R00369	white
+alanine-glyoxylate transaminase / (R)-3-amino-2-methylpropionate-pyruvate transaminase	2.6.1.44	L-Alanine	Glycine	R00369	white
+alanine-glyoxylate transaminase / (R)-3-amino-2-methylpropionate-pyruvate transaminase	2.6.1.44	L-Alanine	Pyruvate	R00369	white
+alanine-glyoxylate transaminase / (R)-3-amino-2-methylpropionate-pyruvate transaminase	2.6.1.44	Pyruvate	Glyoxylate	R00369	white
+alanine-glyoxylate transaminase / (R)-3-amino-2-methylpropionate-pyruvate transaminase	2.6.1.44	Pyruvate	L-Alanine	R00369	white
+alanine-glyoxylate transaminase / serine-glyoxylate transaminase / serine-pyruvate transaminase	2.6.1.44	Glycine	Glyoxylate	R00369	white
+alanine-glyoxylate transaminase / serine-glyoxylate transaminase / serine-pyruvate transaminase	2.6.1.44	Glycine	L-Alanine	R00369	white
+alanine-glyoxylate transaminase / serine-glyoxylate transaminase / serine-pyruvate transaminase	2.6.1.44	Glyoxylate	Glycine	R00369	white
+alanine-glyoxylate transaminase / serine-glyoxylate transaminase / serine-pyruvate transaminase	2.6.1.44	Glyoxylate	Pyruvate	R00369	white
+alanine-glyoxylate transaminase / serine-glyoxylate transaminase / serine-pyruvate transaminase	2.6.1.44	L-Alanine	Glycine	R00369	white
+alanine-glyoxylate transaminase / serine-glyoxylate transaminase / serine-pyruvate transaminase	2.6.1.44	L-Alanine	Pyruvate	R00369	white
+alanine-glyoxylate transaminase / serine-glyoxylate transaminase / serine-pyruvate transaminase	2.6.1.44	Pyruvate	Glyoxylate	R00369	white
+alanine-glyoxylate transaminase / serine-glyoxylate transaminase / serine-pyruvate transaminase	2.6.1.44	Pyruvate	L-Alanine	R00369	white
+amino-acid racemase	5.1.1.10	D-Lysine	L-Lysine	R00460	white
+amino-acid racemase	5.1.1.10	L-Lysine	D-Lysine	R00460	white
+aspartate kinase	2.7.2.4	ATP	4-Phospho-L-aspartate	R00480	green
+aspartate kinase	2.7.2.4	ATP	ADP	R00480	green
+aspartate kinase	2.7.2.4	L-Aspartate	4-Phospho-L-aspartate	R00480	green
+aspartate kinase	2.7.2.4	L-Aspartate	ADP	R00480	green
+aspartate-semialdehyde dehydrogenase	1.2.1.11	4-Phospho-L-aspartate	L-Aspartate 4-semialdehyde	R02291	white
+aspartate-semialdehyde dehydrogenase	1.2.1.11	4-Phospho-L-aspartate	NADP+	R02291	white
+aspartate-semialdehyde dehydrogenase	1.2.1.11	4-Phospho-L-aspartate	Orthophosphate	R02291	white
+aspartate-semialdehyde dehydrogenase	1.2.1.11	H+	L-Aspartate 4-semialdehyde	R02291	white
+aspartate-semialdehyde dehydrogenase	1.2.1.11	H+	NADP+	R02291	white
+aspartate-semialdehyde dehydrogenase	1.2.1.11	H+	Orthophosphate	R02291	white
+aspartate-semialdehyde dehydrogenase	1.2.1.11	L-Aspartate 4-semialdehyde	4-Phospho-L-aspartate	R02291	green
+aspartate-semialdehyde dehydrogenase	1.2.1.11	L-Aspartate 4-semialdehyde	4-Phospho-L-aspartate	R02291	white
+aspartate-semialdehyde dehydrogenase	1.2.1.11	L-Aspartate 4-semialdehyde	H+	R02291	green
+aspartate-semialdehyde dehydrogenase	1.2.1.11	L-Aspartate 4-semialdehyde	H+	R02291	white
+aspartate-semialdehyde dehydrogenase	1.2.1.11	L-Aspartate 4-semialdehyde	NADPH	R02291	green
+aspartate-semialdehyde dehydrogenase	1.2.1.11	L-Aspartate 4-semialdehyde	NADPH	R02291	white
+aspartate-semialdehyde dehydrogenase	1.2.1.11	NADP+	4-Phospho-L-aspartate	R02291	green
+aspartate-semialdehyde dehydrogenase	1.2.1.11	NADP+	4-Phospho-L-aspartate	R02291	white
+aspartate-semialdehyde dehydrogenase	1.2.1.11	NADP+	H+	R02291	green
+aspartate-semialdehyde dehydrogenase	1.2.1.11	NADP+	H+	R02291	white
+aspartate-semialdehyde dehydrogenase	1.2.1.11	NADP+	NADPH	R02291	green
+aspartate-semialdehyde dehydrogenase	1.2.1.11	NADP+	NADPH	R02291	white
+aspartate-semialdehyde dehydrogenase	1.2.1.11	NADPH	L-Aspartate 4-semialdehyde	R02291	white
+aspartate-semialdehyde dehydrogenase	1.2.1.11	NADPH	NADP+	R02291	white
+aspartate-semialdehyde dehydrogenase	1.2.1.11	NADPH	Orthophosphate	R02291	white
+aspartate-semialdehyde dehydrogenase	1.2.1.11	Orthophosphate	4-Phospho-L-aspartate	R02291	green
+aspartate-semialdehyde dehydrogenase	1.2.1.11	Orthophosphate	4-Phospho-L-aspartate	R02291	white
+aspartate-semialdehyde dehydrogenase	1.2.1.11	Orthophosphate	H+	R02291	green
+aspartate-semialdehyde dehydrogenase	1.2.1.11	Orthophosphate	H+	R02291	white
+aspartate-semialdehyde dehydrogenase	1.2.1.11	Orthophosphate	NADPH	R02291	green
+aspartate-semialdehyde dehydrogenase	1.2.1.11	Orthophosphate	NADPH	R02291	white
+betaine-aldehyde dehydrogenase	1.2.1.8	Betaine aldehyde	Betaine	R02565	green
+betaine-aldehyde dehydrogenase	1.2.1.8	Betaine aldehyde	Betaine	R02566	green
+betaine-aldehyde dehydrogenase	1.2.1.8	Betaine aldehyde	H+	R02565	green
+betaine-aldehyde dehydrogenase	1.2.1.8	Betaine aldehyde	H+	R02566	green
+betaine-aldehyde dehydrogenase	1.2.1.8	Betaine aldehyde	NADH	R02565	green
+betaine-aldehyde dehydrogenase	1.2.1.8	Betaine aldehyde	NADPH	R02566	green
+betaine-aldehyde dehydrogenase	1.2.1.8	H2O	Betaine	R02565	green
+betaine-aldehyde dehydrogenase	1.2.1.8	H2O	Betaine	R02566	green
+betaine-aldehyde dehydrogenase	1.2.1.8	H2O	H+	R02565	green
+betaine-aldehyde dehydrogenase	1.2.1.8	H2O	H+	R02566	green
+betaine-aldehyde dehydrogenase	1.2.1.8	H2O	NADH	R02565	green
+betaine-aldehyde dehydrogenase	1.2.1.8	H2O	NADPH	R02566	green
+betaine-aldehyde dehydrogenase	1.2.1.8	NAD+	Betaine	R02565	green
+betaine-aldehyde dehydrogenase	1.2.1.8	NAD+	H+	R02565	green
+betaine-aldehyde dehydrogenase	1.2.1.8	NAD+	NADH	R02565	green
+betaine-aldehyde dehydrogenase	1.2.1.8	NADP+	Betaine	R02566	green
+betaine-aldehyde dehydrogenase	1.2.1.8	NADP+	H+	R02566	green
+betaine-aldehyde dehydrogenase	1.2.1.8	NADP+	NADPH	R02566	green
+betaine-homocysteine S-methyltransferase	2.1.1.5	Betaine	L-Methionine	R02821	white
+betaine-homocysteine S-methyltransferase	2.1.1.5	Betaine	N,N-Dimethylglycine	R02821	white
+betaine-homocysteine S-methyltransferase	2.1.1.5	L-Homocysteine	L-Methionine	R02821	white
+betaine-homocysteine S-methyltransferase	2.1.1.5	L-Homocysteine	N,N-Dimethylglycine	R02821	white
+betaine-homocysteine S-methyltransferase	2.1.1.5	L-Methionine	Betaine	R02821	white
+betaine-homocysteine S-methyltransferase	2.1.1.5	L-Methionine	L-Homocysteine	R02821	white
+betaine-homocysteine S-methyltransferase	2.1.1.5	N,N-Dimethylglycine	Betaine	R02821	white
+betaine-homocysteine S-methyltransferase	2.1.1.5	N,N-Dimethylglycine	L-Homocysteine	R02821	white
+choline dehydrogenase	1.1.99.1	Acceptor	Betaine aldehyde	R01025	white
+choline dehydrogenase	1.1.99.1	Acceptor	Reduced acceptor	R01025	white
+choline dehydrogenase	1.1.99.1	Betaine aldehyde	Acceptor	R01025	white
+choline dehydrogenase	1.1.99.1	Betaine aldehyde	Choline	R01025	white
+choline dehydrogenase	1.1.99.1	Choline	Betaine aldehyde	R01025	white
+choline dehydrogenase	1.1.99.1	Choline	Reduced acceptor	R01025	white
+choline dehydrogenase	1.1.99.1	Reduced acceptor	Acceptor	R01025	white
+choline dehydrogenase	1.1.99.1	Reduced acceptor	Choline	R01025	white
+choline monooxygenase	1.14.15.7	Betaine aldehyde	Choline	R07409	white
+choline monooxygenase	1.14.15.7	Betaine aldehyde	H+	R07409	white
+choline monooxygenase	1.14.15.7	Betaine aldehyde	Oxygen	R07409	white
+choline monooxygenase	1.14.15.7	Betaine aldehyde	Reduced ferredoxin	R07409	white
+choline monooxygenase	1.14.15.7	Choline	Betaine aldehyde	R07409	white
+choline monooxygenase	1.14.15.7	Choline	H2O	R07409	white
+choline monooxygenase	1.14.15.7	Choline	Oxidized ferredoxin	R07409	white
+choline monooxygenase	1.14.15.7	H+	Betaine aldehyde	R07409	white
+choline monooxygenase	1.14.15.7	H+	H2O	R07409	white
+choline monooxygenase	1.14.15.7	H+	Oxidized ferredoxin	R07409	white
+choline monooxygenase	1.14.15.7	H2O	Choline	R07409	white
+choline monooxygenase	1.14.15.7	H2O	H+	R07409	white
+choline monooxygenase	1.14.15.7	H2O	Oxygen	R07409	white
+choline monooxygenase	1.14.15.7	H2O	Reduced ferredoxin	R07409	white
+choline monooxygenase	1.14.15.7	Oxidized ferredoxin	Choline	R07409	white
+choline monooxygenase	1.14.15.7	Oxidized ferredoxin	H+	R07409	white
+choline monooxygenase	1.14.15.7	Oxidized ferredoxin	Oxygen	R07409	white
+choline monooxygenase	1.14.15.7	Oxidized ferredoxin	Reduced ferredoxin	R07409	white
+choline monooxygenase	1.14.15.7	Oxygen	Betaine aldehyde	R07409	white
+choline monooxygenase	1.14.15.7	Oxygen	H2O	R07409	white
+choline monooxygenase	1.14.15.7	Oxygen	Oxidized ferredoxin	R07409	white
+choline monooxygenase	1.14.15.7	Reduced ferredoxin	Betaine aldehyde	R07409	white
+choline monooxygenase	1.14.15.7	Reduced ferredoxin	H2O	R07409	white
+choline monooxygenase	1.14.15.7	Reduced ferredoxin	Oxidized ferredoxin	R07409	white
+choline oxidase	1.1.3.17	Betaine aldehyde	Betaine	R08211	green
+choline oxidase	1.1.3.17	Betaine aldehyde	Hydrogen peroxide	R08211	green
+choline oxidase	1.1.3.17	Choline	Betaine aldehyde	R01022	green
+choline oxidase	1.1.3.17	Choline	Hydrogen peroxide	R01022	green
+choline oxidase	1.1.3.17	H2O	Betaine	R08211	green
+choline oxidase	1.1.3.17	H2O	Hydrogen peroxide	R08211	green
+choline oxidase	1.1.3.17	Oxygen	Betaine	R08211	green
+choline oxidase	1.1.3.17	Oxygen	Betaine aldehyde	R01022	green
+choline oxidase	1.1.3.17	Oxygen	Hydrogen peroxide	R01022	green
+choline oxidase	1.1.3.17	Oxygen	Hydrogen peroxide	R08211	green
+creatinase	3.5.3.3	Creatine	Sarcosine	R01566	green
+creatinase	3.5.3.3	Creatine	Urea	R01566	green
+creatinase	3.5.3.3	H2O	Sarcosine	R01566	green
+creatinase	3.5.3.3	H2O	Urea	R01566	green
+cystathionine beta-synthase	4.2.1.22	Hydrogen sulfide	H2O	R00891	green
+cystathionine beta-synthase	4.2.1.22	Hydrogen sulfide	L-Cysteine	R00891	green
+cystathionine beta-synthase	4.2.1.22	L-Homocysteine	H2O	R01290	green
+cystathionine beta-synthase	4.2.1.22	L-Homocysteine	L-Cystathionine	R01290	green
+cystathionine beta-synthase	4.2.1.22	L-Serine	H2O	R00891	green
+cystathionine beta-synthase	4.2.1.22	L-Serine	H2O	R01290	green
+cystathionine beta-synthase	4.2.1.22	L-Serine	L-Cystathionine	R01290	green
+cystathionine beta-synthase	4.2.1.22	L-Serine	L-Cysteine	R00891	green
+cystathionine gamma-lyase	4.4.1.1	2-Oxobutanoate	H2O	R01001	green
+cystathionine gamma-lyase	4.4.1.1	2-Oxobutanoate	L-Cystathionine	R01001	green
+cystathionine gamma-lyase	4.4.1.1	Ammonia	H2O	R01001	green
+cystathionine gamma-lyase	4.4.1.1	Ammonia	L-Cystathionine	R01001	green
+cystathionine gamma-lyase	4.4.1.1	H2O	2-Oxobutanoate	R01001	green
+cystathionine gamma-lyase	4.4.1.1	H2O	Ammonia	R01001	green
+cystathionine gamma-lyase	4.4.1.1	H2O	L-Cysteine	R01001	green
+cystathionine gamma-lyase	4.4.1.1	L-Cystathionine	2-Oxobutanoate	R01001	green
+cystathionine gamma-lyase	4.4.1.1	L-Cystathionine	Ammonia	R01001	green
+cystathionine gamma-lyase	4.4.1.1	L-Cystathionine	L-Cysteine	R01001	green
+cystathionine gamma-lyase	4.4.1.1	L-Cysteine	H2O	R01001	green
+cystathionine gamma-lyase	4.4.1.1	L-Cysteine	L-Cystathionine	R01001	green
+diaminobutyrate-2-oxoglutarate transaminase	2.6.1.76	L-Aspartate 4-semialdehyde	2-Oxoglutarate	R06977	green
+diaminobutyrate-2-oxoglutarate transaminase	2.6.1.76	L-Aspartate 4-semialdehyde	L-2,4-Diaminobutanoate	R06977	green
+diaminobutyrate-2-oxoglutarate transaminase	2.6.1.76	L-Glutamate	2-Oxoglutarate	R06977	green
+diaminobutyrate-2-oxoglutarate transaminase	2.6.1.76	L-Glutamate	L-2,4-Diaminobutanoate	R06977	green
+dihydrolipoyl dehydrogenase	1.8.1.4	Dihydrolipoylprotein	H+	R03815	green
+dihydrolipoyl dehydrogenase	1.8.1.4	Dihydrolipoylprotein	Lipoylprotein	R03815	green
+dihydrolipoyl dehydrogenase	1.8.1.4	Dihydrolipoylprotein	NADH	R03815	green
+dihydrolipoyl dehydrogenase	1.8.1.4	NAD+	H+	R03815	green
+dihydrolipoyl dehydrogenase	1.8.1.4	NAD+	Lipoylprotein	R03815	green
+dihydrolipoyl dehydrogenase	1.8.1.4	NAD+	NADH	R03815	green
+dimethylglycine N-methyltransferase	2.1.1.161	Betaine	N,N-Dimethylglycine	R07244	white
+dimethylglycine N-methyltransferase	2.1.1.161	Betaine	S-Adenosyl-L-methionine	R07244	white
+dimethylglycine N-methyltransferase	2.1.1.161	N,N-Dimethylglycine	Betaine	R07244	white
+dimethylglycine N-methyltransferase	2.1.1.161	N,N-Dimethylglycine	S-Adenosyl-L-homocysteine	R07244	white
+dimethylglycine N-methyltransferase	2.1.1.161	S-Adenosyl-L-homocysteine	N,N-Dimethylglycine	R07244	white
+dimethylglycine N-methyltransferase	2.1.1.161	S-Adenosyl-L-homocysteine	S-Adenosyl-L-methionine	R07244	white
+dimethylglycine N-methyltransferase	2.1.1.161	S-Adenosyl-L-methionine	Betaine	R07244	white
+dimethylglycine N-methyltransferase	2.1.1.161	S-Adenosyl-L-methionine	S-Adenosyl-L-homocysteine	R07244	white
+dimethylglycine dehydrogenase	1.5.8.4	5,10-Methylenetetrahydrofolate	Electron-transferring flavoprotein	R01565	white
+dimethylglycine dehydrogenase	1.5.8.4	5,10-Methylenetetrahydrofolate	N,N-Dimethylglycine	R01565	white
+dimethylglycine dehydrogenase	1.5.8.4	5,10-Methylenetetrahydrofolate	Tetrahydrofolate	R01565	white
+dimethylglycine dehydrogenase	1.5.8.4	Electron-transferring flavoprotein	5,10-Methylenetetrahydrofolate	R01565	white
+dimethylglycine dehydrogenase	1.5.8.4	Electron-transferring flavoprotein	Reduced electron-transferring flavoprotein	R01565	white
+dimethylglycine dehydrogenase	1.5.8.4	Electron-transferring flavoprotein	Sarcosine	R01565	white
+dimethylglycine dehydrogenase	1.5.8.4	N,N-Dimethylglycine	5,10-Methylenetetrahydrofolate	R01565	white
+dimethylglycine dehydrogenase	1.5.8.4	N,N-Dimethylglycine	Reduced electron-transferring flavoprotein	R01565	white
+dimethylglycine dehydrogenase	1.5.8.4	N,N-Dimethylglycine	Sarcosine	R01565	white
+dimethylglycine dehydrogenase	1.5.8.4	Reduced electron-transferring flavoprotein	Electron-transferring flavoprotein	R01565	white
+dimethylglycine dehydrogenase	1.5.8.4	Reduced electron-transferring flavoprotein	N,N-Dimethylglycine	R01565	white
+dimethylglycine dehydrogenase	1.5.8.4	Reduced electron-transferring flavoprotein	Tetrahydrofolate	R01565	white
+dimethylglycine dehydrogenase	1.5.8.4	Sarcosine	Electron-transferring flavoprotein	R01565	white
+dimethylglycine dehydrogenase	1.5.8.4	Sarcosine	N,N-Dimethylglycine	R01565	white
+dimethylglycine dehydrogenase	1.5.8.4	Sarcosine	Tetrahydrofolate	R01565	white
+dimethylglycine dehydrogenase	1.5.8.4	Tetrahydrofolate	5,10-Methylenetetrahydrofolate	R01565	white
+dimethylglycine dehydrogenase	1.5.8.4	Tetrahydrofolate	Reduced electron-transferring flavoprotein	R01565	white
+dimethylglycine dehydrogenase	1.5.8.4	Tetrahydrofolate	Sarcosine	R01565	white
+dimethylglycine oxidase	1.5.3.10	N,N-Dimethylglycine	5,10-Methylenetetrahydrofolate	R01564	green
+dimethylglycine oxidase	1.5.3.10	N,N-Dimethylglycine	Hydrogen peroxide	R01564	green
+dimethylglycine oxidase	1.5.3.10	N,N-Dimethylglycine	Sarcosine	R01564	green
+dimethylglycine oxidase	1.5.3.10	Oxygen	5,10-Methylenetetrahydrofolate	R01564	green
+dimethylglycine oxidase	1.5.3.10	Oxygen	Hydrogen peroxide	R01564	green
+dimethylglycine oxidase	1.5.3.10	Oxygen	Sarcosine	R01564	green
+dimethylglycine oxidase	1.5.3.10	Tetrahydrofolate	5,10-Methylenetetrahydrofolate	R01564	green
+dimethylglycine oxidase	1.5.3.10	Tetrahydrofolate	Hydrogen peroxide	R01564	green
+dimethylglycine oxidase	1.5.3.10	Tetrahydrofolate	Sarcosine	R01564	green
+ectoine hydrolase	3.5.4.44	Ectoine	N(alpha)-Acetyl-L-2,4-diaminobutyrate	R09800	white
+ectoine hydrolase	3.5.4.44	H2O	N(alpha)-Acetyl-L-2,4-diaminobutyrate	R09800	white
+ectoine hydrolase	3.5.4.44	N(alpha)-Acetyl-L-2,4-diaminobutyrate	Ectoine	R09800	white
+ectoine hydrolase	3.5.4.44	N(alpha)-Acetyl-L-2,4-diaminobutyrate	H2O	R09800	white
+ectoine hydroxylase	1.14.11.55	2-Oxoglutarate	5-Hydroxyectoine	R08050	green
+ectoine hydroxylase	1.14.11.55	2-Oxoglutarate	CO2	R08050	green
+ectoine hydroxylase	1.14.11.55	2-Oxoglutarate	Succinate	R08050	green
+ectoine hydroxylase	1.14.11.55	Ectoine	5-Hydroxyectoine	R08050	green
+ectoine hydroxylase	1.14.11.55	Ectoine	CO2	R08050	green
+ectoine hydroxylase	1.14.11.55	Ectoine	Succinate	R08050	green
+ectoine hydroxylase	1.14.11.55	Oxygen	5-Hydroxyectoine	R08050	green
+ectoine hydroxylase	1.14.11.55	Oxygen	CO2	R08050	green
+ectoine hydroxylase	1.14.11.55	Oxygen	Succinate	R08050	green
+glutamate--glyoxylate aminotransferase	2.6.1.4	2-Oxoglutarate	L-Glutamate	R00258	white
+glutamate--glyoxylate aminotransferase	2.6.1.4	2-Oxoglutarate	Pyruvate	R00258	white
+glutamate--glyoxylate aminotransferase	2.6.1.4	L-Alanine	L-Glutamate	R00258	white
+glutamate--glyoxylate aminotransferase	2.6.1.4	L-Alanine	Pyruvate	R00258	white
+glutamate--glyoxylate aminotransferase	2.6.1.4	L-Glutamate	2-Oxoglutarate	R00258	white
+glutamate--glyoxylate aminotransferase	2.6.1.4	L-Glutamate	L-Alanine	R00258	white
+glutamate--glyoxylate aminotransferase	2.6.1.4	Pyruvate	2-Oxoglutarate	R00258	white
+glutamate--glyoxylate aminotransferase	2.6.1.4	Pyruvate	L-Alanine	R00258	white
+glycerate 2-kinase	2.7.1.165	ATP	2-Phospho-D-glycerate	R08572	green
+glycerate 2-kinase	2.7.1.165	ATP	ADP	R08572	green
+glycerate 2-kinase	2.7.1.165	D-Glycerate	2-Phospho-D-glycerate	R08572	green
+glycerate 2-kinase	2.7.1.165	D-Glycerate	ADP	R08572	green
+glycerate dehydrogenase	1.1.1.29	Glycolate	Glyoxylate	R00717	white
+glycerate dehydrogenase	1.1.1.29	Glycolate	H+	R00717	white
+glycerate dehydrogenase	1.1.1.29	Glycolate	NADH	R00717	white
+glycerate dehydrogenase	1.1.1.29	Glyoxylate	Glycolate	R00717	white
+glycerate dehydrogenase	1.1.1.29	Glyoxylate	NAD+	R00717	white
+glycerate dehydrogenase	1.1.1.29	H+	Glycolate	R00717	white
+glycerate dehydrogenase	1.1.1.29	H+	NAD+	R00717	white
+glycerate dehydrogenase	1.1.1.29	NAD+	Glyoxylate	R00717	white
+glycerate dehydrogenase	1.1.1.29	NAD+	H+	R00717	white
+glycerate dehydrogenase	1.1.1.29	NAD+	NADH	R00717	white
+glycerate dehydrogenase	1.1.1.29	NADH	Glycolate	R00717	white
+glycerate dehydrogenase	1.1.1.29	NADH	NAD+	R00717	white
+glycine C-acetyltransferase	2.3.1.29	Acetyl-CoA	CoA	R00371	white
+glycine C-acetyltransferase	2.3.1.29	Acetyl-CoA	L-2-Amino-3-oxobutanoic acid	R00371	white
+glycine C-acetyltransferase	2.3.1.29	CoA	Acetyl-CoA	R00371	white
+glycine C-acetyltransferase	2.3.1.29	CoA	Glycine	R00371	white
+glycine C-acetyltransferase	2.3.1.29	Glycine	CoA	R00371	white
+glycine C-acetyltransferase	2.3.1.29	Glycine	L-2-Amino-3-oxobutanoic acid	R00371	white
+glycine C-acetyltransferase	2.3.1.29	L-2-Amino-3-oxobutanoic acid	Acetyl-CoA	R00371	white
+glycine C-acetyltransferase	2.3.1.29	L-2-Amino-3-oxobutanoic acid	Glycine	R00371	white
+glycine N-methyltransferase	2.1.1.20	Glycine	S-Adenosyl-L-homocysteine	R00367	white
+glycine N-methyltransferase	2.1.1.20	Glycine	Sarcosine	R00367	white
+glycine N-methyltransferase	2.1.1.20	S-Adenosyl-L-homocysteine	Glycine	R00367	white
+glycine N-methyltransferase	2.1.1.20	S-Adenosyl-L-homocysteine	S-Adenosyl-L-methionine	R00367	white
+glycine N-methyltransferase	2.1.1.20	S-Adenosyl-L-methionine	S-Adenosyl-L-homocysteine	R00367	white
+glycine N-methyltransferase	2.1.1.20	S-Adenosyl-L-methionine	Sarcosine	R00367	white
+glycine N-methyltransferase	2.1.1.20	Sarcosine	Glycine	R00367	white
+glycine N-methyltransferase	2.1.1.20	Sarcosine	S-Adenosyl-L-methionine	R00367	white
+glycine amidinotransferase	2.1.4.1	Glycine	Guanidinoacetate	R00565	white
+glycine amidinotransferase	2.1.4.1	Glycine	L-Ornithine	R00565	white
+glycine amidinotransferase	2.1.4.1	Guanidinoacetate	Glycine	R00565	white
+glycine amidinotransferase	2.1.4.1	Guanidinoacetate	L-Arginine	R00565	white
+glycine amidinotransferase	2.1.4.1	L-Arginine	Guanidinoacetate	R00565	white
+glycine amidinotransferase	2.1.4.1	L-Arginine	L-Ornithine	R00565	white
+glycine amidinotransferase	2.1.4.1	L-Ornithine	Glycine	R00565	white
+glycine amidinotransferase	2.1.4.1	L-Ornithine	L-Arginine	R00565	white
+glycine betaine monooxygenase A	1.14.13.251	Betaine	Formaldehyde	R13016	white
+glycine betaine monooxygenase A	1.14.13.251	Betaine	H2O	R13016	white
+glycine betaine monooxygenase A	1.14.13.251	Betaine	N,N-Dimethylglycine	R13016	white
+glycine betaine monooxygenase A	1.14.13.251	Betaine	NAD+	R13016	white
+glycine betaine monooxygenase A	1.14.13.251	Formaldehyde	Betaine	R13016	white
+glycine betaine monooxygenase A	1.14.13.251	Formaldehyde	H+	R13016	white
+glycine betaine monooxygenase A	1.14.13.251	Formaldehyde	NADH	R13016	white
+glycine betaine monooxygenase A	1.14.13.251	Formaldehyde	Oxygen	R13016	white
+glycine betaine monooxygenase A	1.14.13.251	H+	Formaldehyde	R13016	white
+glycine betaine monooxygenase A	1.14.13.251	H+	H2O	R13016	white
+glycine betaine monooxygenase A	1.14.13.251	H+	N,N-Dimethylglycine	R13016	white
+glycine betaine monooxygenase A	1.14.13.251	H+	NAD+	R13016	white
+glycine betaine monooxygenase A	1.14.13.251	H2O	Betaine	R13016	white
+glycine betaine monooxygenase A	1.14.13.251	H2O	H+	R13016	white
+glycine betaine monooxygenase A	1.14.13.251	H2O	NADH	R13016	white
+glycine betaine monooxygenase A	1.14.13.251	H2O	Oxygen	R13016	white
+glycine betaine monooxygenase A	1.14.13.251	N,N-Dimethylglycine	Betaine	R13016	white
+glycine betaine monooxygenase A	1.14.13.251	N,N-Dimethylglycine	H+	R13016	white
+glycine betaine monooxygenase A	1.14.13.251	N,N-Dimethylglycine	NADH	R13016	white
+glycine betaine monooxygenase A	1.14.13.251	N,N-Dimethylglycine	Oxygen	R13016	white
+glycine betaine monooxygenase A	1.14.13.251	NAD+	Betaine	R13016	white
+glycine betaine monooxygenase A	1.14.13.251	NAD+	H+	R13016	white
+glycine betaine monooxygenase A	1.14.13.251	NAD+	NADH	R13016	white
+glycine betaine monooxygenase A	1.14.13.251	NAD+	Oxygen	R13016	white
+glycine betaine monooxygenase A	1.14.13.251	NADH	Formaldehyde	R13016	white
+glycine betaine monooxygenase A	1.14.13.251	NADH	H2O	R13016	white
+glycine betaine monooxygenase A	1.14.13.251	NADH	N,N-Dimethylglycine	R13016	white
+glycine betaine monooxygenase A	1.14.13.251	NADH	NAD+	R13016	white
+glycine betaine monooxygenase A	1.14.13.251	Oxygen	Formaldehyde	R13016	white
+glycine betaine monooxygenase A	1.14.13.251	Oxygen	H2O	R13016	white
+glycine betaine monooxygenase A	1.14.13.251	Oxygen	N,N-Dimethylglycine	R13016	white
+glycine betaine monooxygenase A	1.14.13.251	Oxygen	NAD+	R13016	white
+glycine betaine monooxygenase B	1.14.13.251	Betaine	Formaldehyde	R13016	white
+glycine betaine monooxygenase B	1.14.13.251	Betaine	H2O	R13016	white
+glycine betaine monooxygenase B	1.14.13.251	Betaine	N,N-Dimethylglycine	R13016	white
+glycine betaine monooxygenase B	1.14.13.251	Betaine	NAD+	R13016	white
+glycine betaine monooxygenase B	1.14.13.251	Formaldehyde	Betaine	R13016	white
+glycine betaine monooxygenase B	1.14.13.251	Formaldehyde	H+	R13016	white
+glycine betaine monooxygenase B	1.14.13.251	Formaldehyde	NADH	R13016	white
+glycine betaine monooxygenase B	1.14.13.251	Formaldehyde	Oxygen	R13016	white
+glycine betaine monooxygenase B	1.14.13.251	H+	Formaldehyde	R13016	white
+glycine betaine monooxygenase B	1.14.13.251	H+	H2O	R13016	white
+glycine betaine monooxygenase B	1.14.13.251	H+	N,N-Dimethylglycine	R13016	white
+glycine betaine monooxygenase B	1.14.13.251	H+	NAD+	R13016	white
+glycine betaine monooxygenase B	1.14.13.251	H2O	Betaine	R13016	white
+glycine betaine monooxygenase B	1.14.13.251	H2O	H+	R13016	white
+glycine betaine monooxygenase B	1.14.13.251	H2O	NADH	R13016	white
+glycine betaine monooxygenase B	1.14.13.251	H2O	Oxygen	R13016	white
+glycine betaine monooxygenase B	1.14.13.251	N,N-Dimethylglycine	Betaine	R13016	white
+glycine betaine monooxygenase B	1.14.13.251	N,N-Dimethylglycine	H+	R13016	white
+glycine betaine monooxygenase B	1.14.13.251	N,N-Dimethylglycine	NADH	R13016	white
+glycine betaine monooxygenase B	1.14.13.251	N,N-Dimethylglycine	Oxygen	R13016	white
+glycine betaine monooxygenase B	1.14.13.251	NAD+	Betaine	R13016	white
+glycine betaine monooxygenase B	1.14.13.251	NAD+	H+	R13016	white
+glycine betaine monooxygenase B	1.14.13.251	NAD+	NADH	R13016	white
+glycine betaine monooxygenase B	1.14.13.251	NAD+	Oxygen	R13016	white
+glycine betaine monooxygenase B	1.14.13.251	NADH	Formaldehyde	R13016	white
+glycine betaine monooxygenase B	1.14.13.251	NADH	H2O	R13016	white
+glycine betaine monooxygenase B	1.14.13.251	NADH	N,N-Dimethylglycine	R13016	white
+glycine betaine monooxygenase B	1.14.13.251	NADH	NAD+	R13016	white
+glycine betaine monooxygenase B	1.14.13.251	Oxygen	Formaldehyde	R13016	white
+glycine betaine monooxygenase B	1.14.13.251	Oxygen	H2O	R13016	white
+glycine betaine monooxygenase B	1.14.13.251	Oxygen	N,N-Dimethylglycine	R13016	white
+glycine betaine monooxygenase B	1.14.13.251	Oxygen	NAD+	R13016	white
+glycine betaine---corrinoid protein Co-methyltransferase	2.1.1.376	Betaine	Methyl-Co(III) corrinoid protein	R12787	white
+glycine betaine---corrinoid protein Co-methyltransferase	2.1.1.376	Betaine	N,N-Dimethylglycine	R12787	white
+glycine betaine---corrinoid protein Co-methyltransferase	2.1.1.376	Co(I) corrinoid protein	Methyl-Co(III) corrinoid protein	R12787	white
+glycine betaine---corrinoid protein Co-methyltransferase	2.1.1.376	Co(I) corrinoid protein	N,N-Dimethylglycine	R12787	white
+glycine betaine---corrinoid protein Co-methyltransferase	2.1.1.376	Methyl-Co(III) corrinoid protein	Betaine	R12787	white
+glycine betaine---corrinoid protein Co-methyltransferase	2.1.1.376	Methyl-Co(III) corrinoid protein	Co(I) corrinoid protein	R12787	white
+glycine betaine---corrinoid protein Co-methyltransferase	2.1.1.376	N,N-Dimethylglycine	Betaine	R12787	white
+glycine betaine---corrinoid protein Co-methyltransferase	2.1.1.376	N,N-Dimethylglycine	Co(I) corrinoid protein	R12787	white
+glycine cleavage system P protein (glycine dehydrogenase)	1.4.4.2	Glycine	CO2	R03425	green
+glycine cleavage system P protein (glycine dehydrogenase)	1.4.4.2	Glycine	[Protein]-S8-aminomethyldihydrolipoyllysine	R03425	green
+glycine cleavage system P protein (glycine dehydrogenase)	1.4.4.2	Lipoylprotein	CO2	R03425	green
+glycine cleavage system P protein (glycine dehydrogenase)	1.4.4.2	Lipoylprotein	[Protein]-S8-aminomethyldihydrolipoyllysine	R03425	green
+glycine cleavage system T protein (aminomethyltransferase)	2.1.2.10	Tetrahydrofolate	5,10-Methylenetetrahydrofolate	R04125	green
+glycine cleavage system T protein (aminomethyltransferase)	2.1.2.10	Tetrahydrofolate	Ammonia	R04125	green
+glycine cleavage system T protein (aminomethyltransferase)	2.1.2.10	Tetrahydrofolate	Dihydrolipoylprotein	R04125	green
+glycine cleavage system T protein (aminomethyltransferase)	2.1.2.10	[Protein]-S8-aminomethyldihydrolipoyllysine	5,10-Methylenetetrahydrofolate	R04125	green
+glycine cleavage system T protein (aminomethyltransferase)	2.1.2.10	[Protein]-S8-aminomethyldihydrolipoyllysine	Ammonia	R04125	green
+glycine cleavage system T protein (aminomethyltransferase)	2.1.2.10	[Protein]-S8-aminomethyldihydrolipoyllysine	Dihydrolipoylprotein	R04125	green
+glycine hydroxymethyltransferase	2.1.2.1	5,10-Methylenetetrahydrofolate	L-Serine	R00945	green
+glycine hydroxymethyltransferase	2.1.2.1	5,10-Methylenetetrahydrofolate	Tetrahydrofolate	R00945	green
+glycine hydroxymethyltransferase	2.1.2.1	Glycine	L-Serine	R00945	green
+glycine hydroxymethyltransferase	2.1.2.1	Glycine	Tetrahydrofolate	R00945	green
+glycine hydroxymethyltransferase	2.1.2.1	H2O	L-Serine	R00945	green
+glycine hydroxymethyltransferase	2.1.2.1	H2O	Tetrahydrofolate	R00945	green
+glycine hydroxymethyltransferase	2.1.2.1	L-Serine	5,10-Methylenetetrahydrofolate	R00945	green
+glycine hydroxymethyltransferase	2.1.2.1	L-Serine	Glycine	R00945	green
+glycine hydroxymethyltransferase	2.1.2.1	L-Serine	H2O	R00945	green
+glycine hydroxymethyltransferase	2.1.2.1	Tetrahydrofolate	5,10-Methylenetetrahydrofolate	R00945	green
+glycine hydroxymethyltransferase	2.1.2.1	Tetrahydrofolate	Glycine	R00945	green
+glycine hydroxymethyltransferase	2.1.2.1	Tetrahydrofolate	H2O	R00945	green
+glycine/sarcosine N-methyltransferase	2.1.1.156	Glycine	N,N-Dimethylglycine	R10060	white
+glycine/sarcosine N-methyltransferase	2.1.1.156	Glycine	S-Adenosyl-L-homocysteine	R10060	white
+glycine/sarcosine N-methyltransferase	2.1.1.156	N,N-Dimethylglycine	Glycine	R10060	white
+glycine/sarcosine N-methyltransferase	2.1.1.156	N,N-Dimethylglycine	S-Adenosyl-L-methionine	R10060	white
+glycine/sarcosine N-methyltransferase	2.1.1.156	S-Adenosyl-L-homocysteine	Glycine	R10060	white
+glycine/sarcosine N-methyltransferase	2.1.1.156	S-Adenosyl-L-homocysteine	S-Adenosyl-L-methionine	R10060	white
+glycine/sarcosine N-methyltransferase	2.1.1.156	S-Adenosyl-L-methionine	N,N-Dimethylglycine	R10060	white
+glycine/sarcosine N-methyltransferase	2.1.1.156	S-Adenosyl-L-methionine	S-Adenosyl-L-homocysteine	R10060	white
+glycine/sarcosine/dimethylglycine N-methyltransferase	2.1.1.156	Glycine	N,N-Dimethylglycine	R10060	white
+glycine/sarcosine/dimethylglycine N-methyltransferase	2.1.1.156	Glycine	S-Adenosyl-L-homocysteine	R10060	white
+glycine/sarcosine/dimethylglycine N-methyltransferase	2.1.1.156	N,N-Dimethylglycine	Glycine	R10060	white
+glycine/sarcosine/dimethylglycine N-methyltransferase	2.1.1.156	N,N-Dimethylglycine	S-Adenosyl-L-methionine	R10060	white
+glycine/sarcosine/dimethylglycine N-methyltransferase	2.1.1.156	S-Adenosyl-L-homocysteine	Glycine	R10060	white
+glycine/sarcosine/dimethylglycine N-methyltransferase	2.1.1.156	S-Adenosyl-L-homocysteine	S-Adenosyl-L-methionine	R10060	white
+glycine/sarcosine/dimethylglycine N-methyltransferase	2.1.1.156	S-Adenosyl-L-methionine	N,N-Dimethylglycine	R10060	white
+glycine/sarcosine/dimethylglycine N-methyltransferase	2.1.1.156	S-Adenosyl-L-methionine	S-Adenosyl-L-homocysteine	R10060	white
+glyoxylate/hydroxypyruvate reductase	1.1.1.79	Glycolate	Glyoxylate	R00465	white
+glyoxylate/hydroxypyruvate reductase	1.1.1.79	Glycolate	H+	R00465	white
+glyoxylate/hydroxypyruvate reductase	1.1.1.79	Glycolate	NADPH	R00465	white
+glyoxylate/hydroxypyruvate reductase	1.1.1.79	Glyoxylate	Glycolate	R00465	white
+glyoxylate/hydroxypyruvate reductase	1.1.1.79	Glyoxylate	NADP+	R00465	white
+glyoxylate/hydroxypyruvate reductase	1.1.1.79	H+	Glycolate	R00465	white
+glyoxylate/hydroxypyruvate reductase	1.1.1.79	H+	NADP+	R00465	white
+glyoxylate/hydroxypyruvate reductase	1.1.1.79	NADP+	Glyoxylate	R00465	white
+glyoxylate/hydroxypyruvate reductase	1.1.1.79	NADP+	H+	R00465	white
+glyoxylate/hydroxypyruvate reductase	1.1.1.79	NADP+	NADPH	R00465	white
+glyoxylate/hydroxypyruvate reductase	1.1.1.79	NADPH	Glycolate	R00465	white
+glyoxylate/hydroxypyruvate reductase	1.1.1.79	NADPH	NADP+	R00465	white
+glyoxylate/hydroxypyruvate/2-ketogluconate reductase	1.1.1.79	Glycolate	Glyoxylate	R00465	white
+glyoxylate/hydroxypyruvate/2-ketogluconate reductase	1.1.1.79	Glycolate	H+	R00465	white
+glyoxylate/hydroxypyruvate/2-ketogluconate reductase	1.1.1.79	Glycolate	NADPH	R00465	white
+glyoxylate/hydroxypyruvate/2-ketogluconate reductase	1.1.1.79	Glyoxylate	Glycolate	R00465	white
+glyoxylate/hydroxypyruvate/2-ketogluconate reductase	1.1.1.79	Glyoxylate	NADP+	R00465	white
+glyoxylate/hydroxypyruvate/2-ketogluconate reductase	1.1.1.79	H+	Glycolate	R00465	white
+glyoxylate/hydroxypyruvate/2-ketogluconate reductase	1.1.1.79	H+	NADP+	R00465	white
+glyoxylate/hydroxypyruvate/2-ketogluconate reductase	1.1.1.79	NADP+	Glyoxylate	R00465	white
+glyoxylate/hydroxypyruvate/2-ketogluconate reductase	1.1.1.79	NADP+	H+	R00465	white
+glyoxylate/hydroxypyruvate/2-ketogluconate reductase	1.1.1.79	NADP+	NADPH	R00465	white
+glyoxylate/hydroxypyruvate/2-ketogluconate reductase	1.1.1.79	NADPH	Glycolate	R00465	white
+glyoxylate/hydroxypyruvate/2-ketogluconate reductase	1.1.1.79	NADPH	NADP+	R00465	white
+guanidinoacetate N-methyltransferase	2.1.1.2	Creatine	Guanidinoacetate	R01883	white
+guanidinoacetate N-methyltransferase	2.1.1.2	Creatine	S-Adenosyl-L-methionine	R01883	white
+guanidinoacetate N-methyltransferase	2.1.1.2	Guanidinoacetate	Creatine	R01883	white
+guanidinoacetate N-methyltransferase	2.1.1.2	Guanidinoacetate	S-Adenosyl-L-homocysteine	R01883	white
+guanidinoacetate N-methyltransferase	2.1.1.2	S-Adenosyl-L-homocysteine	Guanidinoacetate	R01883	white
+guanidinoacetate N-methyltransferase	2.1.1.2	S-Adenosyl-L-homocysteine	S-Adenosyl-L-methionine	R01883	white
+guanidinoacetate N-methyltransferase	2.1.1.2	S-Adenosyl-L-methionine	Creatine	R01883	white
+guanidinoacetate N-methyltransferase	2.1.1.2	S-Adenosyl-L-methionine	S-Adenosyl-L-homocysteine	R01883	white
+homoserine dehydrogenase	1.1.1.3	L-Homoserine	H+	R01773	green
+homoserine dehydrogenase	1.1.1.3	L-Homoserine	H+	R01775	green
+homoserine dehydrogenase	1.1.1.3	L-Homoserine	L-Aspartate 4-semialdehyde	R01773	green
+homoserine dehydrogenase	1.1.1.3	L-Homoserine	L-Aspartate 4-semialdehyde	R01775	green
+homoserine dehydrogenase	1.1.1.3	L-Homoserine	NADH	R01773	green
+homoserine dehydrogenase	1.1.1.3	L-Homoserine	NADPH	R01775	green
+homoserine dehydrogenase	1.1.1.3	NAD+	H+	R01773	green
+homoserine dehydrogenase	1.1.1.3	NAD+	L-Aspartate 4-semialdehyde	R01773	green
+homoserine dehydrogenase	1.1.1.3	NAD+	NADH	R01773	green
+homoserine dehydrogenase	1.1.1.3	NADP+	H+	R01775	green
+homoserine dehydrogenase	1.1.1.3	NADP+	L-Aspartate 4-semialdehyde	R01775	green
+homoserine dehydrogenase	1.1.1.3	NADP+	NADPH	R01775	green
+homoserine kinase	2.7.1.39	ATP	ADP	R01771	green
+homoserine kinase	2.7.1.39	ATP	O-Phospho-L-homoserine	R01771	green
+homoserine kinase	2.7.1.39	L-Homoserine	ADP	R01771	green
+homoserine kinase	2.7.1.39	L-Homoserine	O-Phospho-L-homoserine	R01771	green
+hydroxypyruvate reductase	1.1.1.81	D-Glycerate	H+	R01388	white
+hydroxypyruvate reductase	1.1.1.81	D-Glycerate	Hydroxypyruvate	R01388	white
+hydroxypyruvate reductase	1.1.1.81	D-Glycerate	NADH	R01388	white
+hydroxypyruvate reductase	1.1.1.81	H+	D-Glycerate	R01388	white
+hydroxypyruvate reductase	1.1.1.81	H+	NAD+	R01388	white
+hydroxypyruvate reductase	1.1.1.81	Hydroxypyruvate	D-Glycerate	R01388	white
+hydroxypyruvate reductase	1.1.1.81	Hydroxypyruvate	NAD+	R01388	white
+hydroxypyruvate reductase	1.1.1.81	NAD+	H+	R01388	white
+hydroxypyruvate reductase	1.1.1.81	NAD+	Hydroxypyruvate	R01388	white
+hydroxypyruvate reductase	1.1.1.81	NAD+	NADH	R01388	white
+hydroxypyruvate reductase	1.1.1.81	NADH	D-Glycerate	R01388	white
+hydroxypyruvate reductase	1.1.1.81	NADH	NAD+	R01388	white
+monoamine oxidase	1.4.3.4	Aminoacetone	Ammonia	R02529	green
+monoamine oxidase	1.4.3.4	Aminoacetone	Hydrogen peroxide	R02529	green
+monoamine oxidase	1.4.3.4	Aminoacetone	Methylglyoxal	R02529	green
+monoamine oxidase	1.4.3.4	H2O	Ammonia	R02529	green
+monoamine oxidase	1.4.3.4	H2O	Hydrogen peroxide	R02529	green
+monoamine oxidase	1.4.3.4	H2O	Methylglyoxal	R02529	green
+monoamine oxidase	1.4.3.4	Oxygen	Ammonia	R02529	green
+monoamine oxidase	1.4.3.4	Oxygen	Hydrogen peroxide	R02529	green
+monoamine oxidase	1.4.3.4	Oxygen	Methylglyoxal	R02529	green
+phosphoserine aminotransferase	2.6.1.52	2-Oxoglutarate	3-Phosphonooxypyruvate	R04173	green
+phosphoserine aminotransferase	2.6.1.52	2-Oxoglutarate	L-Glutamate	R04173	green
+phosphoserine aminotransferase	2.6.1.52	3-Phosphonooxypyruvate	2-Oxoglutarate	R04173	green
+phosphoserine aminotransferase	2.6.1.52	3-Phosphonooxypyruvate	O-Phospho-L-serine	R04173	green
+phosphoserine aminotransferase	2.6.1.52	L-Glutamate	2-Oxoglutarate	R04173	green
+phosphoserine aminotransferase	2.6.1.52	L-Glutamate	O-Phospho-L-serine	R04173	green
+phosphoserine aminotransferase	2.6.1.52	O-Phospho-L-serine	3-Phosphonooxypyruvate	R04173	green
+phosphoserine aminotransferase	2.6.1.52	O-Phospho-L-serine	L-Glutamate	R04173	green
+phosphoserine phosphatase	3.1.3.3	H2O	L-Serine	R00582	green
+phosphoserine phosphatase	3.1.3.3	H2O	Orthophosphate	R00582	green
+phosphoserine phosphatase	3.1.3.3	O-Phospho-L-serine	L-Serine	R00582	green
+phosphoserine phosphatase	3.1.3.3	O-Phospho-L-serine	Orthophosphate	R00582	green
+primary-amine oxidase	1.4.3.21	Aminoacetone	Ammonia	R02529	green
+primary-amine oxidase	1.4.3.21	Aminoacetone	Hydrogen peroxide	R02529	green
+primary-amine oxidase	1.4.3.21	Aminoacetone	Methylglyoxal	R02529	green
+primary-amine oxidase	1.4.3.21	H2O	Ammonia	R02529	green
+primary-amine oxidase	1.4.3.21	H2O	Hydrogen peroxide	R02529	green
+primary-amine oxidase	1.4.3.21	H2O	Methylglyoxal	R02529	green
+primary-amine oxidase	1.4.3.21	Oxygen	Ammonia	R02529	green
+primary-amine oxidase	1.4.3.21	Oxygen	Hydrogen peroxide	R02529	green
+primary-amine oxidase	1.4.3.21	Oxygen	Methylglyoxal	R02529	green
+roa:Pd630_LPD02197		Betaine aldehyde	Betaine	R02565	green
+roa:Pd630_LPD02197		Betaine aldehyde	Betaine	R02566	green
+roa:Pd630_LPD02197		Betaine aldehyde	H+	R02565	green
+roa:Pd630_LPD02197		Betaine aldehyde	H+	R02566	green
+roa:Pd630_LPD02197		Betaine aldehyde	NADH	R02565	green
+roa:Pd630_LPD02197		Betaine aldehyde	NADPH	R02566	green
+roa:Pd630_LPD02197		H2O	Betaine	R02565	green
+roa:Pd630_LPD02197		H2O	Betaine	R02566	green
+roa:Pd630_LPD02197		H2O	H+	R02565	green
+roa:Pd630_LPD02197		H2O	H+	R02566	green
+roa:Pd630_LPD02197		H2O	NADH	R02565	green
+roa:Pd630_LPD02197		H2O	NADPH	R02566	green
+roa:Pd630_LPD02197		NAD+	Betaine	R02565	green
+roa:Pd630_LPD02197		NAD+	H+	R02565	green
+roa:Pd630_LPD02197		NAD+	NADH	R02565	green
+roa:Pd630_LPD02197		NADP+	Betaine	R02566	green
+roa:Pd630_LPD02197		NADP+	H+	R02566	green
+roa:Pd630_LPD02197		NADP+	NADPH	R02566	green
+roa:Pd630_LPD06190		Aminoacetone	Ammonia	R02529	green
+roa:Pd630_LPD06190		Aminoacetone	Hydrogen peroxide	R02529	green
+roa:Pd630_LPD06190		Aminoacetone	Methylglyoxal	R02529	green
+roa:Pd630_LPD06190		H2O	Ammonia	R02529	green
+roa:Pd630_LPD06190		H2O	Hydrogen peroxide	R02529	green
+roa:Pd630_LPD06190		H2O	Methylglyoxal	R02529	green
+roa:Pd630_LPD06190		Oxygen	Ammonia	R02529	green
+roa:Pd630_LPD06190		Oxygen	Hydrogen peroxide	R02529	green
+roa:Pd630_LPD06190		Oxygen	Methylglyoxal	R02529	green
+sarcosine dehydrogenase	1.5.8.3	5,10-Methylenetetrahydrofolate	Electron-transferring flavoprotein	R00611	white
+sarcosine dehydrogenase	1.5.8.3	5,10-Methylenetetrahydrofolate	Sarcosine	R00611	white
+sarcosine dehydrogenase	1.5.8.3	5,10-Methylenetetrahydrofolate	Tetrahydrofolate	R00611	white
+sarcosine dehydrogenase	1.5.8.3	Electron-transferring flavoprotein	5,10-Methylenetetrahydrofolate	R00611	white
+sarcosine dehydrogenase	1.5.8.3	Electron-transferring flavoprotein	Glycine	R00611	white
+sarcosine dehydrogenase	1.5.8.3	Electron-transferring flavoprotein	Reduced electron-transferring flavoprotein	R00611	white
+sarcosine dehydrogenase	1.5.8.3	Glycine	Electron-transferring flavoprotein	R00611	white
+sarcosine dehydrogenase	1.5.8.3	Glycine	Sarcosine	R00611	white
+sarcosine dehydrogenase	1.5.8.3	Glycine	Tetrahydrofolate	R00611	white
+sarcosine dehydrogenase	1.5.8.3	Reduced electron-transferring flavoprotein	Electron-transferring flavoprotein	R00611	white
+sarcosine dehydrogenase	1.5.8.3	Reduced electron-transferring flavoprotein	Sarcosine	R00611	white
+sarcosine dehydrogenase	1.5.8.3	Reduced electron-transferring flavoprotein	Tetrahydrofolate	R00611	white
+sarcosine dehydrogenase	1.5.8.3	Sarcosine	5,10-Methylenetetrahydrofolate	R00611	white
+sarcosine dehydrogenase	1.5.8.3	Sarcosine	Glycine	R00611	white
+sarcosine dehydrogenase	1.5.8.3	Sarcosine	Reduced electron-transferring flavoprotein	R00611	white
+sarcosine dehydrogenase	1.5.8.3	Tetrahydrofolate	5,10-Methylenetetrahydrofolate	R00611	white
+sarcosine dehydrogenase	1.5.8.3	Tetrahydrofolate	Glycine	R00611	white
+sarcosine dehydrogenase	1.5.8.3	Tetrahydrofolate	Reduced electron-transferring flavoprotein	R00611	white
+sarcosine oxidase	1.5.3.1	H2O	Formaldehyde	R00610	green
+sarcosine oxidase	1.5.3.1	H2O	Glycine	R00610	green
+sarcosine oxidase	1.5.3.1	H2O	Hydrogen peroxide	R00610	green
+sarcosine oxidase	1.5.3.1	Oxygen	Formaldehyde	R00610	green
+sarcosine oxidase	1.5.3.1	Oxygen	Glycine	R00610	green
+sarcosine oxidase	1.5.3.1	Oxygen	Hydrogen peroxide	R00610	green
+sarcosine oxidase	1.5.3.1	Sarcosine	Formaldehyde	R00610	green
+sarcosine oxidase	1.5.3.1	Sarcosine	Glycine	R00610	green
+sarcosine oxidase	1.5.3.1	Sarcosine	Hydrogen peroxide	R00610	green
+sarcosine oxidase, subunit alpha	1.5.3.24	H2O	Formaldehyde	R00610	green
+sarcosine oxidase, subunit alpha	1.5.3.24	H2O	Glycine	R00610	green
+sarcosine oxidase, subunit alpha	1.5.3.24	H2O	Hydrogen peroxide	R00610	green
+sarcosine oxidase, subunit alpha	1.5.3.24	Oxygen	5,10-Methylenetetrahydrofolate	R12967	green
+sarcosine oxidase, subunit alpha	1.5.3.24	Oxygen	Formaldehyde	R00610	green
+sarcosine oxidase, subunit alpha	1.5.3.24	Oxygen	Glycine	R00610	green
+sarcosine oxidase, subunit alpha	1.5.3.24	Oxygen	Glycine	R12967	green
+sarcosine oxidase, subunit alpha	1.5.3.24	Oxygen	Hydrogen peroxide	R00610	green
+sarcosine oxidase, subunit alpha	1.5.3.24	Oxygen	Hydrogen peroxide	R12967	green
+sarcosine oxidase, subunit alpha	1.5.3.24	Sarcosine	5,10-Methylenetetrahydrofolate	R12967	green
+sarcosine oxidase, subunit alpha	1.5.3.24	Sarcosine	Formaldehyde	R00610	green
+sarcosine oxidase, subunit alpha	1.5.3.24	Sarcosine	Glycine	R00610	green
+sarcosine oxidase, subunit alpha	1.5.3.24	Sarcosine	Glycine	R12967	green
+sarcosine oxidase, subunit alpha	1.5.3.24	Sarcosine	Hydrogen peroxide	R00610	green
+sarcosine oxidase, subunit alpha	1.5.3.24	Sarcosine	Hydrogen peroxide	R12967	green
+sarcosine oxidase, subunit alpha	1.5.3.24	Tetrahydrofolate	5,10-Methylenetetrahydrofolate	R12967	green
+sarcosine oxidase, subunit alpha	1.5.3.24	Tetrahydrofolate	Glycine	R12967	green
+sarcosine oxidase, subunit alpha	1.5.3.24	Tetrahydrofolate	Hydrogen peroxide	R12967	green
+sarcosine oxidase, subunit beta	1.5.3.24	H2O	Formaldehyde	R00610	green
+sarcosine oxidase, subunit beta	1.5.3.24	H2O	Glycine	R00610	green
+sarcosine oxidase, subunit beta	1.5.3.24	H2O	Hydrogen peroxide	R00610	green
+sarcosine oxidase, subunit beta	1.5.3.24	Oxygen	5,10-Methylenetetrahydrofolate	R12967	green
+sarcosine oxidase, subunit beta	1.5.3.24	Oxygen	Formaldehyde	R00610	green
+sarcosine oxidase, subunit beta	1.5.3.24	Oxygen	Glycine	R00610	green
+sarcosine oxidase, subunit beta	1.5.3.24	Oxygen	Glycine	R12967	green
+sarcosine oxidase, subunit beta	1.5.3.24	Oxygen	Hydrogen peroxide	R00610	green
+sarcosine oxidase, subunit beta	1.5.3.24	Oxygen	Hydrogen peroxide	R12967	green
+sarcosine oxidase, subunit beta	1.5.3.24	Sarcosine	5,10-Methylenetetrahydrofolate	R12967	green
+sarcosine oxidase, subunit beta	1.5.3.24	Sarcosine	Formaldehyde	R00610	green
+sarcosine oxidase, subunit beta	1.5.3.24	Sarcosine	Glycine	R00610	green
+sarcosine oxidase, subunit beta	1.5.3.24	Sarcosine	Glycine	R12967	green
+sarcosine oxidase, subunit beta	1.5.3.24	Sarcosine	Hydrogen peroxide	R00610	green
+sarcosine oxidase, subunit beta	1.5.3.24	Sarcosine	Hydrogen peroxide	R12967	green
+sarcosine oxidase, subunit beta	1.5.3.24	Tetrahydrofolate	5,10-Methylenetetrahydrofolate	R12967	green
+sarcosine oxidase, subunit beta	1.5.3.24	Tetrahydrofolate	Glycine	R12967	green
+sarcosine oxidase, subunit beta	1.5.3.24	Tetrahydrofolate	Hydrogen peroxide	R12967	green
+sarcosine oxidase, subunit delta	1.5.3.24	H2O	Formaldehyde	R00610	green
+sarcosine oxidase, subunit delta	1.5.3.24	H2O	Glycine	R00610	green
+sarcosine oxidase, subunit delta	1.5.3.24	H2O	Hydrogen peroxide	R00610	green
+sarcosine oxidase, subunit delta	1.5.3.24	Oxygen	5,10-Methylenetetrahydrofolate	R12967	green
+sarcosine oxidase, subunit delta	1.5.3.24	Oxygen	Formaldehyde	R00610	green
+sarcosine oxidase, subunit delta	1.5.3.24	Oxygen	Glycine	R00610	green
+sarcosine oxidase, subunit delta	1.5.3.24	Oxygen	Glycine	R12967	green
+sarcosine oxidase, subunit delta	1.5.3.24	Oxygen	Hydrogen peroxide	R00610	green
+sarcosine oxidase, subunit delta	1.5.3.24	Oxygen	Hydrogen peroxide	R12967	green
+sarcosine oxidase, subunit delta	1.5.3.24	Sarcosine	5,10-Methylenetetrahydrofolate	R12967	green
+sarcosine oxidase, subunit delta	1.5.3.24	Sarcosine	Formaldehyde	R00610	green
+sarcosine oxidase, subunit delta	1.5.3.24	Sarcosine	Glycine	R00610	green
+sarcosine oxidase, subunit delta	1.5.3.24	Sarcosine	Glycine	R12967	green
+sarcosine oxidase, subunit delta	1.5.3.24	Sarcosine	Hydrogen peroxide	R00610	green
+sarcosine oxidase, subunit delta	1.5.3.24	Sarcosine	Hydrogen peroxide	R12967	green
+sarcosine oxidase, subunit delta	1.5.3.24	Tetrahydrofolate	5,10-Methylenetetrahydrofolate	R12967	green
+sarcosine oxidase, subunit delta	1.5.3.24	Tetrahydrofolate	Glycine	R12967	green
+sarcosine oxidase, subunit delta	1.5.3.24	Tetrahydrofolate	Hydrogen peroxide	R12967	green
+sarcosine oxidase, subunit gamma	1.5.3.24	H2O	Formaldehyde	R00610	green
+sarcosine oxidase, subunit gamma	1.5.3.24	H2O	Glycine	R00610	green
+sarcosine oxidase, subunit gamma	1.5.3.24	H2O	Hydrogen peroxide	R00610	green
+sarcosine oxidase, subunit gamma	1.5.3.24	Oxygen	5,10-Methylenetetrahydrofolate	R12967	green
+sarcosine oxidase, subunit gamma	1.5.3.24	Oxygen	Formaldehyde	R00610	green
+sarcosine oxidase, subunit gamma	1.5.3.24	Oxygen	Glycine	R00610	green
+sarcosine oxidase, subunit gamma	1.5.3.24	Oxygen	Glycine	R12967	green
+sarcosine oxidase, subunit gamma	1.5.3.24	Oxygen	Hydrogen peroxide	R00610	green
+sarcosine oxidase, subunit gamma	1.5.3.24	Oxygen	Hydrogen peroxide	R12967	green
+sarcosine oxidase, subunit gamma	1.5.3.24	Sarcosine	5,10-Methylenetetrahydrofolate	R12967	green
+sarcosine oxidase, subunit gamma	1.5.3.24	Sarcosine	Formaldehyde	R00610	green
+sarcosine oxidase, subunit gamma	1.5.3.24	Sarcosine	Glycine	R00610	green
+sarcosine oxidase, subunit gamma	1.5.3.24	Sarcosine	Glycine	R12967	green
+sarcosine oxidase, subunit gamma	1.5.3.24	Sarcosine	Hydrogen peroxide	R00610	green
+sarcosine oxidase, subunit gamma	1.5.3.24	Sarcosine	Hydrogen peroxide	R12967	green
+sarcosine oxidase, subunit gamma	1.5.3.24	Tetrahydrofolate	5,10-Methylenetetrahydrofolate	R12967	green
+sarcosine oxidase, subunit gamma	1.5.3.24	Tetrahydrofolate	Glycine	R12967	green
+sarcosine oxidase, subunit gamma	1.5.3.24	Tetrahydrofolate	Hydrogen peroxide	R12967	green
+sarcosine/dimethylglycine N-methyltransferase	2.1.1.157	Betaine	S-Adenosyl-L-methionine	R10061	white
+sarcosine/dimethylglycine N-methyltransferase	2.1.1.157	Betaine	Sarcosine	R10061	white
+sarcosine/dimethylglycine N-methyltransferase	2.1.1.157	S-Adenosyl-L-homocysteine	S-Adenosyl-L-methionine	R10061	white
+sarcosine/dimethylglycine N-methyltransferase	2.1.1.157	S-Adenosyl-L-homocysteine	Sarcosine	R10061	white
+sarcosine/dimethylglycine N-methyltransferase	2.1.1.157	S-Adenosyl-L-methionine	Betaine	R10061	white
+sarcosine/dimethylglycine N-methyltransferase	2.1.1.157	S-Adenosyl-L-methionine	S-Adenosyl-L-homocysteine	R10061	white
+sarcosine/dimethylglycine N-methyltransferase	2.1.1.157	Sarcosine	Betaine	R10061	white
+sarcosine/dimethylglycine N-methyltransferase	2.1.1.157	Sarcosine	S-Adenosyl-L-homocysteine	R10061	white
+serine racemase	5.1.1.18	D-Serine	L-Serine	R00589	white
+serine racemase	5.1.1.18	L-Serine	D-Serine	R00589	white
+serine---pyruvate transaminase	2.6.1.51	Hydroxypyruvate	L-Serine	R00585	white
+serine---pyruvate transaminase	2.6.1.51	Hydroxypyruvate	Pyruvate	R00585	white
+serine---pyruvate transaminase	2.6.1.51	L-Alanine	L-Serine	R00585	white
+serine---pyruvate transaminase	2.6.1.51	L-Alanine	Pyruvate	R00585	white
+serine---pyruvate transaminase	2.6.1.51	L-Serine	Hydroxypyruvate	R00585	white
+serine---pyruvate transaminase	2.6.1.51	L-Serine	L-Alanine	R00585	white
+serine---pyruvate transaminase	2.6.1.51	Pyruvate	Hydroxypyruvate	R00585	white
+serine---pyruvate transaminase	2.6.1.51	Pyruvate	L-Alanine	R00585	white
+threonine 3-dehydrogenase	1.1.1.103	H+	L-Threonine	R01465	white
+threonine 3-dehydrogenase	1.1.1.103	H+	NAD+	R01465	white
+threonine 3-dehydrogenase	1.1.1.103	L-2-Amino-3-oxobutanoic acid	L-Threonine	R01465	white
+threonine 3-dehydrogenase	1.1.1.103	L-2-Amino-3-oxobutanoic acid	NAD+	R01465	white
+threonine 3-dehydrogenase	1.1.1.103	L-Threonine	H+	R01465	white
+threonine 3-dehydrogenase	1.1.1.103	L-Threonine	L-2-Amino-3-oxobutanoic acid	R01465	white
+threonine 3-dehydrogenase	1.1.1.103	L-Threonine	NADH	R01465	white
+threonine 3-dehydrogenase	1.1.1.103	NAD+	H+	R01465	white
+threonine 3-dehydrogenase	1.1.1.103	NAD+	L-2-Amino-3-oxobutanoic acid	R01465	white
+threonine 3-dehydrogenase	1.1.1.103	NAD+	NADH	R01465	white
+threonine 3-dehydrogenase	1.1.1.103	NADH	L-Threonine	R01465	white
+threonine 3-dehydrogenase	1.1.1.103	NADH	NAD+	R01465	white
+threonine aldolase	4.1.2.48	Acetaldehyde	L-Threonine	R00751	white
+threonine aldolase	4.1.2.48	Glycine	L-Threonine	R00751	white
+threonine aldolase	4.1.2.48	L-Threonine	Acetaldehyde	R00751	white
+threonine aldolase	4.1.2.48	L-Threonine	Glycine	R00751	white
+threonine dehydratase	4.3.1.19	L-Serine	Ammonia	R00220	green
+threonine dehydratase	4.3.1.19	L-Serine	Pyruvate	R00220	green
+threonine dehydratase	4.3.1.19	L-Threonine	2-Oxobutanoate	R00996	green
+threonine dehydratase	4.3.1.19	L-Threonine	Ammonia	R00996	green
+threonine synthase	4.2.3.1	H2O	L-Threonine	R01466	green
+threonine synthase	4.2.3.1	H2O	Orthophosphate	R01466	green
+threonine synthase	4.2.3.1	O-Phospho-L-homoserine	L-Threonine	R01466	green
+threonine synthase	4.2.3.1	O-Phospho-L-homoserine	Orthophosphate	R01466	green
+tryptophan synthase alpha chain	4.2.1.20	Indoleglycerol phosphate	D-Glyceraldehyde 3-phosphate	R02722	green
+tryptophan synthase alpha chain	4.2.1.20	Indoleglycerol phosphate	H2O	R02722	green
+tryptophan synthase alpha chain	4.2.1.20	Indoleglycerol phosphate	L-Tryptophan	R02722	green
+tryptophan synthase alpha chain	4.2.1.20	L-Serine	D-Glyceraldehyde 3-phosphate	R02722	green
+tryptophan synthase alpha chain	4.2.1.20	L-Serine	H2O	R02722	green
+tryptophan synthase alpha chain	4.2.1.20	L-Serine	L-Tryptophan	R02722	green
+tryptophan synthase beta chain	4.2.1.20	Indoleglycerol phosphate	D-Glyceraldehyde 3-phosphate	R02722	green
+tryptophan synthase beta chain	4.2.1.20	Indoleglycerol phosphate	H2O	R02722	green
+tryptophan synthase beta chain	4.2.1.20	Indoleglycerol phosphate	L-Tryptophan	R02722	green
+tryptophan synthase beta chain	4.2.1.20	L-Serine	D-Glyceraldehyde 3-phosphate	R02722	green
+tryptophan synthase beta chain	4.2.1.20	L-Serine	H2O	R02722	green
+tryptophan synthase beta chain	4.2.1.20	L-Serine	L-Tryptophan	R02722	green

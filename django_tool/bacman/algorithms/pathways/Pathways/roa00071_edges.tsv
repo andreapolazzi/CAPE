@@ -1,606 +1,687 @@
-enzyme_name	EC	source	target	color
-3-hydroxyacyl-CoA dehydrogenase	1.1.1.35	(S)-3-Hydroxybutanoyl-CoA	Acetoacetyl-CoA	green
-3-hydroxyacyl-CoA dehydrogenase	1.1.1.35	(S)-3-Hydroxybutanoyl-CoA	H+	green
-3-hydroxyacyl-CoA dehydrogenase	1.1.1.35	(S)-3-Hydroxybutanoyl-CoA	NADH	green
-3-hydroxyacyl-CoA dehydrogenase	1.1.1.35	(S)-3-Hydroxydodecanoyl-CoA	3-Oxododecanoyl-CoA	green
-3-hydroxyacyl-CoA dehydrogenase	1.1.1.35	(S)-3-Hydroxydodecanoyl-CoA	H+	green
-3-hydroxyacyl-CoA dehydrogenase	1.1.1.35	(S)-3-Hydroxydodecanoyl-CoA	NADH	green
-3-hydroxyacyl-CoA dehydrogenase	1.1.1.35	(S)-3-Hydroxyhexadecanoyl-CoA	3-Oxopalmitoyl-CoA	green
-3-hydroxyacyl-CoA dehydrogenase	1.1.1.35	(S)-3-Hydroxyhexadecanoyl-CoA	H+	green
-3-hydroxyacyl-CoA dehydrogenase	1.1.1.35	(S)-3-Hydroxyhexadecanoyl-CoA	NADH	green
-3-hydroxyacyl-CoA dehydrogenase	1.1.1.35	(S)-3-Hydroxyoctanoyl-CoA	3-Oxooctanoyl-CoA	green
-3-hydroxyacyl-CoA dehydrogenase	1.1.1.35	(S)-3-Hydroxyoctanoyl-CoA	H+	green
-3-hydroxyacyl-CoA dehydrogenase	1.1.1.35	(S)-3-Hydroxyoctanoyl-CoA	NADH	green
-3-hydroxyacyl-CoA dehydrogenase	1.1.1.35	(S)-3-Hydroxytetradecanoyl-CoA	3-Oxotetradecanoyl-CoA	green
-3-hydroxyacyl-CoA dehydrogenase	1.1.1.35	(S)-3-Hydroxytetradecanoyl-CoA	NADH	green
-3-hydroxyacyl-CoA dehydrogenase	1.1.1.35	(S)-Hydroxydecanoyl-CoA	3-Oxodecanoyl-CoA	green
-3-hydroxyacyl-CoA dehydrogenase	1.1.1.35	(S)-Hydroxydecanoyl-CoA	H+	green
-3-hydroxyacyl-CoA dehydrogenase	1.1.1.35	(S)-Hydroxydecanoyl-CoA	NADH	green
-3-hydroxyacyl-CoA dehydrogenase	1.1.1.35	(S)-Hydroxyhexanoyl-CoA	3-Oxohexanoyl-CoA	green
-3-hydroxyacyl-CoA dehydrogenase	1.1.1.35	(S)-Hydroxyhexanoyl-CoA	H+	green
-3-hydroxyacyl-CoA dehydrogenase	1.1.1.35	(S)-Hydroxyhexanoyl-CoA	NADH	green
-3-hydroxyacyl-CoA dehydrogenase	1.1.1.35	3-Oxodecanoyl-CoA	(S)-Hydroxydecanoyl-CoA	green
-3-hydroxyacyl-CoA dehydrogenase	1.1.1.35	3-Oxodecanoyl-CoA	NAD+	green
-3-hydroxyacyl-CoA dehydrogenase	1.1.1.35	3-Oxododecanoyl-CoA	(S)-3-Hydroxydodecanoyl-CoA	green
-3-hydroxyacyl-CoA dehydrogenase	1.1.1.35	3-Oxododecanoyl-CoA	NAD+	green
-3-hydroxyacyl-CoA dehydrogenase	1.1.1.35	3-Oxohexanoyl-CoA	(S)-Hydroxyhexanoyl-CoA	green
-3-hydroxyacyl-CoA dehydrogenase	1.1.1.35	3-Oxohexanoyl-CoA	NAD+	green
-3-hydroxyacyl-CoA dehydrogenase	1.1.1.35	3-Oxooctanoyl-CoA	(S)-3-Hydroxyoctanoyl-CoA	green
-3-hydroxyacyl-CoA dehydrogenase	1.1.1.35	3-Oxooctanoyl-CoA	NAD+	green
-3-hydroxyacyl-CoA dehydrogenase	1.1.1.35	3-Oxopalmitoyl-CoA	(S)-3-Hydroxyhexadecanoyl-CoA	green
-3-hydroxyacyl-CoA dehydrogenase	1.1.1.35	3-Oxopalmitoyl-CoA	NAD+	green
-3-hydroxyacyl-CoA dehydrogenase	1.1.1.35	3-Oxotetradecanoyl-CoA	(S)-3-Hydroxytetradecanoyl-CoA	green
-3-hydroxyacyl-CoA dehydrogenase	1.1.1.35	3-Oxotetradecanoyl-CoA	NAD+	green
-3-hydroxyacyl-CoA dehydrogenase	1.1.1.35	Acetoacetyl-CoA	(S)-3-Hydroxybutanoyl-CoA	green
-3-hydroxyacyl-CoA dehydrogenase	1.1.1.35	Acetoacetyl-CoA	NAD+	green
-3-hydroxyacyl-CoA dehydrogenase	1.1.1.35	H+	(S)-3-Hydroxybutanoyl-CoA	green
-3-hydroxyacyl-CoA dehydrogenase	1.1.1.35	H+	(S)-3-Hydroxydodecanoyl-CoA	green
-3-hydroxyacyl-CoA dehydrogenase	1.1.1.35	H+	(S)-3-Hydroxyhexadecanoyl-CoA	green
-3-hydroxyacyl-CoA dehydrogenase	1.1.1.35	H+	(S)-3-Hydroxyoctanoyl-CoA	green
-3-hydroxyacyl-CoA dehydrogenase	1.1.1.35	H+	(S)-Hydroxydecanoyl-CoA	green
-3-hydroxyacyl-CoA dehydrogenase	1.1.1.35	H+	(S)-Hydroxyhexanoyl-CoA	green
-3-hydroxyacyl-CoA dehydrogenase	1.1.1.35	H+	NAD+	green
-3-hydroxyacyl-CoA dehydrogenase	1.1.1.35	NAD+	3-Oxodecanoyl-CoA	green
-3-hydroxyacyl-CoA dehydrogenase	1.1.1.35	NAD+	3-Oxododecanoyl-CoA	green
-3-hydroxyacyl-CoA dehydrogenase	1.1.1.35	NAD+	3-Oxohexanoyl-CoA	green
-3-hydroxyacyl-CoA dehydrogenase	1.1.1.35	NAD+	3-Oxooctanoyl-CoA	green
-3-hydroxyacyl-CoA dehydrogenase	1.1.1.35	NAD+	3-Oxopalmitoyl-CoA	green
-3-hydroxyacyl-CoA dehydrogenase	1.1.1.35	NAD+	3-Oxotetradecanoyl-CoA	green
-3-hydroxyacyl-CoA dehydrogenase	1.1.1.35	NAD+	Acetoacetyl-CoA	green
-3-hydroxyacyl-CoA dehydrogenase	1.1.1.35	NAD+	H+	green
-3-hydroxyacyl-CoA dehydrogenase	1.1.1.35	NAD+	NADH	green
-3-hydroxyacyl-CoA dehydrogenase	1.1.1.35	NADH	(S)-3-Hydroxybutanoyl-CoA	green
-3-hydroxyacyl-CoA dehydrogenase	1.1.1.35	NADH	(S)-3-Hydroxydodecanoyl-CoA	green
-3-hydroxyacyl-CoA dehydrogenase	1.1.1.35	NADH	(S)-3-Hydroxyhexadecanoyl-CoA	green
-3-hydroxyacyl-CoA dehydrogenase	1.1.1.35	NADH	(S)-3-Hydroxyoctanoyl-CoA	green
-3-hydroxyacyl-CoA dehydrogenase	1.1.1.35	NADH	(S)-3-Hydroxytetradecanoyl-CoA	green
-3-hydroxyacyl-CoA dehydrogenase	1.1.1.35	NADH	(S)-Hydroxydecanoyl-CoA	green
-3-hydroxyacyl-CoA dehydrogenase	1.1.1.35	NADH	(S)-Hydroxyhexanoyl-CoA	green
-3-hydroxyacyl-CoA dehydrogenase	1.1.1.35	NADH	NAD+	green
-3-hydroxyacyl-CoA dehydrogenase / enoyl-CoA hydratase / 3-hydroxybutyryl-CoA epimerase	1.1.1.35	(R)-3-Hydroxybutanoyl-CoA	(S)-3-Hydroxybutanoyl-CoA	green
-3-hydroxyacyl-CoA dehydrogenase / enoyl-CoA hydratase / 3-hydroxybutyryl-CoA epimerase	1.1.1.35	(S)-3-Hydroxybutanoyl-CoA	(R)-3-Hydroxybutanoyl-CoA	green
-3-hydroxyacyl-CoA dehydrogenase / enoyl-CoA hydratase / 3-hydroxybutyryl-CoA epimerase	1.1.1.35	(S)-3-Hydroxybutanoyl-CoA	Acetoacetyl-CoA	green
-3-hydroxyacyl-CoA dehydrogenase / enoyl-CoA hydratase / 3-hydroxybutyryl-CoA epimerase	1.1.1.35	(S)-3-Hydroxybutanoyl-CoA	Crotonoyl-CoA	green
-3-hydroxyacyl-CoA dehydrogenase / enoyl-CoA hydratase / 3-hydroxybutyryl-CoA epimerase	1.1.1.35	(S)-3-Hydroxybutanoyl-CoA	H+	green
-3-hydroxyacyl-CoA dehydrogenase / enoyl-CoA hydratase / 3-hydroxybutyryl-CoA epimerase	1.1.1.35	(S)-3-Hydroxybutanoyl-CoA	H2O	green
-3-hydroxyacyl-CoA dehydrogenase / enoyl-CoA hydratase / 3-hydroxybutyryl-CoA epimerase	1.1.1.35	(S)-3-Hydroxybutanoyl-CoA	NADH	green
-3-hydroxyacyl-CoA dehydrogenase / enoyl-CoA hydratase / 3-hydroxybutyryl-CoA epimerase	1.1.1.35	(S)-3-Hydroxydodecanoyl-CoA	2-trans-Dodecenoyl-CoA	green
-3-hydroxyacyl-CoA dehydrogenase / enoyl-CoA hydratase / 3-hydroxybutyryl-CoA epimerase	1.1.1.35	(S)-3-Hydroxydodecanoyl-CoA	3-Oxododecanoyl-CoA	green
-3-hydroxyacyl-CoA dehydrogenase / enoyl-CoA hydratase / 3-hydroxybutyryl-CoA epimerase	1.1.1.35	(S)-3-Hydroxydodecanoyl-CoA	H+	green
-3-hydroxyacyl-CoA dehydrogenase / enoyl-CoA hydratase / 3-hydroxybutyryl-CoA epimerase	1.1.1.35	(S)-3-Hydroxydodecanoyl-CoA	H2O	green
-3-hydroxyacyl-CoA dehydrogenase / enoyl-CoA hydratase / 3-hydroxybutyryl-CoA epimerase	1.1.1.35	(S)-3-Hydroxydodecanoyl-CoA	NADH	green
-3-hydroxyacyl-CoA dehydrogenase / enoyl-CoA hydratase / 3-hydroxybutyryl-CoA epimerase	1.1.1.35	(S)-3-Hydroxyhexadecanoyl-CoA	3-Oxopalmitoyl-CoA	green
-3-hydroxyacyl-CoA dehydrogenase / enoyl-CoA hydratase / 3-hydroxybutyryl-CoA epimerase	1.1.1.35	(S)-3-Hydroxyhexadecanoyl-CoA	H+	green
-3-hydroxyacyl-CoA dehydrogenase / enoyl-CoA hydratase / 3-hydroxybutyryl-CoA epimerase	1.1.1.35	(S)-3-Hydroxyhexadecanoyl-CoA	H2O	green
-3-hydroxyacyl-CoA dehydrogenase / enoyl-CoA hydratase / 3-hydroxybutyryl-CoA epimerase	1.1.1.35	(S)-3-Hydroxyhexadecanoyl-CoA	NADH	green
-3-hydroxyacyl-CoA dehydrogenase / enoyl-CoA hydratase / 3-hydroxybutyryl-CoA epimerase	1.1.1.35	(S)-3-Hydroxyhexadecanoyl-CoA	trans-Hexadec-2-enoyl-CoA	green
-3-hydroxyacyl-CoA dehydrogenase / enoyl-CoA hydratase / 3-hydroxybutyryl-CoA epimerase	1.1.1.35	(S)-3-Hydroxyoctanoyl-CoA	3-Oxooctanoyl-CoA	green
-3-hydroxyacyl-CoA dehydrogenase / enoyl-CoA hydratase / 3-hydroxybutyryl-CoA epimerase	1.1.1.35	(S)-3-Hydroxyoctanoyl-CoA	H+	green
-3-hydroxyacyl-CoA dehydrogenase / enoyl-CoA hydratase / 3-hydroxybutyryl-CoA epimerase	1.1.1.35	(S)-3-Hydroxyoctanoyl-CoA	H2O	green
-3-hydroxyacyl-CoA dehydrogenase / enoyl-CoA hydratase / 3-hydroxybutyryl-CoA epimerase	1.1.1.35	(S)-3-Hydroxyoctanoyl-CoA	NADH	green
-3-hydroxyacyl-CoA dehydrogenase / enoyl-CoA hydratase / 3-hydroxybutyryl-CoA epimerase	1.1.1.35	(S)-3-Hydroxyoctanoyl-CoA	trans-Oct-2-enoyl-CoA	green
-3-hydroxyacyl-CoA dehydrogenase / enoyl-CoA hydratase / 3-hydroxybutyryl-CoA epimerase	1.1.1.35	(S)-3-Hydroxytetradecanoyl-CoA	3-Oxotetradecanoyl-CoA	green
-3-hydroxyacyl-CoA dehydrogenase / enoyl-CoA hydratase / 3-hydroxybutyryl-CoA epimerase	1.1.1.35	(S)-3-Hydroxytetradecanoyl-CoA	H2O	green
-3-hydroxyacyl-CoA dehydrogenase / enoyl-CoA hydratase / 3-hydroxybutyryl-CoA epimerase	1.1.1.35	(S)-3-Hydroxytetradecanoyl-CoA	NADH	green
-3-hydroxyacyl-CoA dehydrogenase / enoyl-CoA hydratase / 3-hydroxybutyryl-CoA epimerase	1.1.1.35	(S)-3-Hydroxytetradecanoyl-CoA	trans-Tetradec-2-enoyl-CoA	green
-3-hydroxyacyl-CoA dehydrogenase / enoyl-CoA hydratase / 3-hydroxybutyryl-CoA epimerase	1.1.1.35	(S)-Hydroxydecanoyl-CoA	3-Oxodecanoyl-CoA	green
-3-hydroxyacyl-CoA dehydrogenase / enoyl-CoA hydratase / 3-hydroxybutyryl-CoA epimerase	1.1.1.35	(S)-Hydroxydecanoyl-CoA	H+	green
-3-hydroxyacyl-CoA dehydrogenase / enoyl-CoA hydratase / 3-hydroxybutyryl-CoA epimerase	1.1.1.35	(S)-Hydroxydecanoyl-CoA	H2O	green
-3-hydroxyacyl-CoA dehydrogenase / enoyl-CoA hydratase / 3-hydroxybutyryl-CoA epimerase	1.1.1.35	(S)-Hydroxydecanoyl-CoA	NADH	green
-3-hydroxyacyl-CoA dehydrogenase / enoyl-CoA hydratase / 3-hydroxybutyryl-CoA epimerase	1.1.1.35	(S)-Hydroxydecanoyl-CoA	trans-Dec-2-enoyl-CoA	green
-3-hydroxyacyl-CoA dehydrogenase / enoyl-CoA hydratase / 3-hydroxybutyryl-CoA epimerase	1.1.1.35	(S)-Hydroxyhexanoyl-CoA	3-Oxohexanoyl-CoA	green
-3-hydroxyacyl-CoA dehydrogenase / enoyl-CoA hydratase / 3-hydroxybutyryl-CoA epimerase	1.1.1.35	(S)-Hydroxyhexanoyl-CoA	H+	green
-3-hydroxyacyl-CoA dehydrogenase / enoyl-CoA hydratase / 3-hydroxybutyryl-CoA epimerase	1.1.1.35	(S)-Hydroxyhexanoyl-CoA	H2O	green
-3-hydroxyacyl-CoA dehydrogenase / enoyl-CoA hydratase / 3-hydroxybutyryl-CoA epimerase	1.1.1.35	(S)-Hydroxyhexanoyl-CoA	NADH	green
-3-hydroxyacyl-CoA dehydrogenase / enoyl-CoA hydratase / 3-hydroxybutyryl-CoA epimerase	1.1.1.35	(S)-Hydroxyhexanoyl-CoA	trans-Hex-2-enoyl-CoA	green
-3-hydroxyacyl-CoA dehydrogenase / enoyl-CoA hydratase / 3-hydroxybutyryl-CoA epimerase	1.1.1.35	2-trans-Dodecenoyl-CoA	(S)-3-Hydroxydodecanoyl-CoA	green
-3-hydroxyacyl-CoA dehydrogenase / enoyl-CoA hydratase / 3-hydroxybutyryl-CoA epimerase	1.1.1.35	3-Oxodecanoyl-CoA	(S)-Hydroxydecanoyl-CoA	green
-3-hydroxyacyl-CoA dehydrogenase / enoyl-CoA hydratase / 3-hydroxybutyryl-CoA epimerase	1.1.1.35	3-Oxodecanoyl-CoA	NAD+	green
-3-hydroxyacyl-CoA dehydrogenase / enoyl-CoA hydratase / 3-hydroxybutyryl-CoA epimerase	1.1.1.35	3-Oxododecanoyl-CoA	(S)-3-Hydroxydodecanoyl-CoA	green
-3-hydroxyacyl-CoA dehydrogenase / enoyl-CoA hydratase / 3-hydroxybutyryl-CoA epimerase	1.1.1.35	3-Oxododecanoyl-CoA	NAD+	green
-3-hydroxyacyl-CoA dehydrogenase / enoyl-CoA hydratase / 3-hydroxybutyryl-CoA epimerase	1.1.1.35	3-Oxohexanoyl-CoA	(S)-Hydroxyhexanoyl-CoA	green
-3-hydroxyacyl-CoA dehydrogenase / enoyl-CoA hydratase / 3-hydroxybutyryl-CoA epimerase	1.1.1.35	3-Oxohexanoyl-CoA	NAD+	green
-3-hydroxyacyl-CoA dehydrogenase / enoyl-CoA hydratase / 3-hydroxybutyryl-CoA epimerase	1.1.1.35	3-Oxooctanoyl-CoA	(S)-3-Hydroxyoctanoyl-CoA	green
-3-hydroxyacyl-CoA dehydrogenase / enoyl-CoA hydratase / 3-hydroxybutyryl-CoA epimerase	1.1.1.35	3-Oxooctanoyl-CoA	NAD+	green
-3-hydroxyacyl-CoA dehydrogenase / enoyl-CoA hydratase / 3-hydroxybutyryl-CoA epimerase	1.1.1.35	3-Oxopalmitoyl-CoA	(S)-3-Hydroxyhexadecanoyl-CoA	green
-3-hydroxyacyl-CoA dehydrogenase / enoyl-CoA hydratase / 3-hydroxybutyryl-CoA epimerase	1.1.1.35	3-Oxopalmitoyl-CoA	NAD+	green
-3-hydroxyacyl-CoA dehydrogenase / enoyl-CoA hydratase / 3-hydroxybutyryl-CoA epimerase	1.1.1.35	3-Oxotetradecanoyl-CoA	(S)-3-Hydroxytetradecanoyl-CoA	green
-3-hydroxyacyl-CoA dehydrogenase / enoyl-CoA hydratase / 3-hydroxybutyryl-CoA epimerase	1.1.1.35	3-Oxotetradecanoyl-CoA	NAD+	green
-3-hydroxyacyl-CoA dehydrogenase / enoyl-CoA hydratase / 3-hydroxybutyryl-CoA epimerase	1.1.1.35	Acetoacetyl-CoA	(S)-3-Hydroxybutanoyl-CoA	green
-3-hydroxyacyl-CoA dehydrogenase / enoyl-CoA hydratase / 3-hydroxybutyryl-CoA epimerase	1.1.1.35	Acetoacetyl-CoA	NAD+	green
-3-hydroxyacyl-CoA dehydrogenase / enoyl-CoA hydratase / 3-hydroxybutyryl-CoA epimerase	1.1.1.35	Crotonoyl-CoA	(S)-3-Hydroxybutanoyl-CoA	green
-3-hydroxyacyl-CoA dehydrogenase / enoyl-CoA hydratase / 3-hydroxybutyryl-CoA epimerase	1.1.1.35	H+	(S)-3-Hydroxybutanoyl-CoA	green
-3-hydroxyacyl-CoA dehydrogenase / enoyl-CoA hydratase / 3-hydroxybutyryl-CoA epimerase	1.1.1.35	H+	(S)-3-Hydroxydodecanoyl-CoA	green
-3-hydroxyacyl-CoA dehydrogenase / enoyl-CoA hydratase / 3-hydroxybutyryl-CoA epimerase	1.1.1.35	H+	(S)-3-Hydroxyhexadecanoyl-CoA	green
-3-hydroxyacyl-CoA dehydrogenase / enoyl-CoA hydratase / 3-hydroxybutyryl-CoA epimerase	1.1.1.35	H+	(S)-3-Hydroxyoctanoyl-CoA	green
-3-hydroxyacyl-CoA dehydrogenase / enoyl-CoA hydratase / 3-hydroxybutyryl-CoA epimerase	1.1.1.35	H+	(S)-Hydroxydecanoyl-CoA	green
-3-hydroxyacyl-CoA dehydrogenase / enoyl-CoA hydratase / 3-hydroxybutyryl-CoA epimerase	1.1.1.35	H+	(S)-Hydroxyhexanoyl-CoA	green
-3-hydroxyacyl-CoA dehydrogenase / enoyl-CoA hydratase / 3-hydroxybutyryl-CoA epimerase	1.1.1.35	H+	NAD+	green
-3-hydroxyacyl-CoA dehydrogenase / enoyl-CoA hydratase / 3-hydroxybutyryl-CoA epimerase	1.1.1.35	H2O	(S)-3-Hydroxybutanoyl-CoA	green
-3-hydroxyacyl-CoA dehydrogenase / enoyl-CoA hydratase / 3-hydroxybutyryl-CoA epimerase	1.1.1.35	H2O	(S)-3-Hydroxydodecanoyl-CoA	green
-3-hydroxyacyl-CoA dehydrogenase / enoyl-CoA hydratase / 3-hydroxybutyryl-CoA epimerase	1.1.1.35	H2O	(S)-3-Hydroxyhexadecanoyl-CoA	green
-3-hydroxyacyl-CoA dehydrogenase / enoyl-CoA hydratase / 3-hydroxybutyryl-CoA epimerase	1.1.1.35	H2O	(S)-3-Hydroxyoctanoyl-CoA	green
-3-hydroxyacyl-CoA dehydrogenase / enoyl-CoA hydratase / 3-hydroxybutyryl-CoA epimerase	1.1.1.35	H2O	(S)-3-Hydroxytetradecanoyl-CoA	green
-3-hydroxyacyl-CoA dehydrogenase / enoyl-CoA hydratase / 3-hydroxybutyryl-CoA epimerase	1.1.1.35	H2O	(S)-Hydroxydecanoyl-CoA	green
-3-hydroxyacyl-CoA dehydrogenase / enoyl-CoA hydratase / 3-hydroxybutyryl-CoA epimerase	1.1.1.35	H2O	(S)-Hydroxyhexanoyl-CoA	green
-3-hydroxyacyl-CoA dehydrogenase / enoyl-CoA hydratase / 3-hydroxybutyryl-CoA epimerase	1.1.1.35	NAD+	3-Oxodecanoyl-CoA	green
-3-hydroxyacyl-CoA dehydrogenase / enoyl-CoA hydratase / 3-hydroxybutyryl-CoA epimerase	1.1.1.35	NAD+	3-Oxododecanoyl-CoA	green
-3-hydroxyacyl-CoA dehydrogenase / enoyl-CoA hydratase / 3-hydroxybutyryl-CoA epimerase	1.1.1.35	NAD+	3-Oxohexanoyl-CoA	green
-3-hydroxyacyl-CoA dehydrogenase / enoyl-CoA hydratase / 3-hydroxybutyryl-CoA epimerase	1.1.1.35	NAD+	3-Oxooctanoyl-CoA	green
-3-hydroxyacyl-CoA dehydrogenase / enoyl-CoA hydratase / 3-hydroxybutyryl-CoA epimerase	1.1.1.35	NAD+	3-Oxopalmitoyl-CoA	green
-3-hydroxyacyl-CoA dehydrogenase / enoyl-CoA hydratase / 3-hydroxybutyryl-CoA epimerase	1.1.1.35	NAD+	3-Oxotetradecanoyl-CoA	green
-3-hydroxyacyl-CoA dehydrogenase / enoyl-CoA hydratase / 3-hydroxybutyryl-CoA epimerase	1.1.1.35	NAD+	Acetoacetyl-CoA	green
-3-hydroxyacyl-CoA dehydrogenase / enoyl-CoA hydratase / 3-hydroxybutyryl-CoA epimerase	1.1.1.35	NAD+	H+	green
-3-hydroxyacyl-CoA dehydrogenase / enoyl-CoA hydratase / 3-hydroxybutyryl-CoA epimerase	1.1.1.35	NAD+	NADH	green
-3-hydroxyacyl-CoA dehydrogenase / enoyl-CoA hydratase / 3-hydroxybutyryl-CoA epimerase	1.1.1.35	NADH	(S)-3-Hydroxybutanoyl-CoA	green
-3-hydroxyacyl-CoA dehydrogenase / enoyl-CoA hydratase / 3-hydroxybutyryl-CoA epimerase	1.1.1.35	NADH	(S)-3-Hydroxydodecanoyl-CoA	green
-3-hydroxyacyl-CoA dehydrogenase / enoyl-CoA hydratase / 3-hydroxybutyryl-CoA epimerase	1.1.1.35	NADH	(S)-3-Hydroxyhexadecanoyl-CoA	green
-3-hydroxyacyl-CoA dehydrogenase / enoyl-CoA hydratase / 3-hydroxybutyryl-CoA epimerase	1.1.1.35	NADH	(S)-3-Hydroxyoctanoyl-CoA	green
-3-hydroxyacyl-CoA dehydrogenase / enoyl-CoA hydratase / 3-hydroxybutyryl-CoA epimerase	1.1.1.35	NADH	(S)-3-Hydroxytetradecanoyl-CoA	green
-3-hydroxyacyl-CoA dehydrogenase / enoyl-CoA hydratase / 3-hydroxybutyryl-CoA epimerase	1.1.1.35	NADH	(S)-Hydroxydecanoyl-CoA	green
-3-hydroxyacyl-CoA dehydrogenase / enoyl-CoA hydratase / 3-hydroxybutyryl-CoA epimerase	1.1.1.35	NADH	(S)-Hydroxyhexanoyl-CoA	green
-3-hydroxyacyl-CoA dehydrogenase / enoyl-CoA hydratase / 3-hydroxybutyryl-CoA epimerase	1.1.1.35	NADH	NAD+	green
-3-hydroxyacyl-CoA dehydrogenase / enoyl-CoA hydratase / 3-hydroxybutyryl-CoA epimerase	1.1.1.35	trans-Dec-2-enoyl-CoA	(S)-Hydroxydecanoyl-CoA	green
-3-hydroxyacyl-CoA dehydrogenase / enoyl-CoA hydratase / 3-hydroxybutyryl-CoA epimerase	1.1.1.35	trans-Hex-2-enoyl-CoA	(S)-Hydroxyhexanoyl-CoA	green
-3-hydroxyacyl-CoA dehydrogenase / enoyl-CoA hydratase / 3-hydroxybutyryl-CoA epimerase	1.1.1.35	trans-Hexadec-2-enoyl-CoA	(S)-3-Hydroxyhexadecanoyl-CoA	green
-3-hydroxyacyl-CoA dehydrogenase / enoyl-CoA hydratase / 3-hydroxybutyryl-CoA epimerase	1.1.1.35	trans-Oct-2-enoyl-CoA	(S)-3-Hydroxyoctanoyl-CoA	green
-3-hydroxyacyl-CoA dehydrogenase / enoyl-CoA hydratase / 3-hydroxybutyryl-CoA epimerase	1.1.1.35	trans-Tetradec-2-enoyl-CoA	(S)-3-Hydroxytetradecanoyl-CoA	green
-3-hydroxyacyl-CoA dehydrogenase / enoyl-CoA hydratase / 3-hydroxybutyryl-CoA epimerase / enoyl-CoA isomerase	1.1.1.35	(S)-3-Hydroxybutanoyl-CoA	Acetoacetyl-CoA	white
-3-hydroxyacyl-CoA dehydrogenase / enoyl-CoA hydratase / 3-hydroxybutyryl-CoA epimerase / enoyl-CoA isomerase	1.1.1.35	(S)-3-Hydroxybutanoyl-CoA	H+	white
-3-hydroxyacyl-CoA dehydrogenase / enoyl-CoA hydratase / 3-hydroxybutyryl-CoA epimerase / enoyl-CoA isomerase	1.1.1.35	(S)-3-Hydroxybutanoyl-CoA	NADH	white
-3-hydroxyacyl-CoA dehydrogenase / enoyl-CoA hydratase / 3-hydroxybutyryl-CoA epimerase / enoyl-CoA isomerase	1.1.1.35	Acetoacetyl-CoA	(S)-3-Hydroxybutanoyl-CoA	white
-3-hydroxyacyl-CoA dehydrogenase / enoyl-CoA hydratase / 3-hydroxybutyryl-CoA epimerase / enoyl-CoA isomerase	1.1.1.35	Acetoacetyl-CoA	NAD+	white
-3-hydroxyacyl-CoA dehydrogenase / enoyl-CoA hydratase / 3-hydroxybutyryl-CoA epimerase / enoyl-CoA isomerase	1.1.1.35	H+	(S)-3-Hydroxybutanoyl-CoA	white
-3-hydroxyacyl-CoA dehydrogenase / enoyl-CoA hydratase / 3-hydroxybutyryl-CoA epimerase / enoyl-CoA isomerase	1.1.1.35	H+	NAD+	white
-3-hydroxyacyl-CoA dehydrogenase / enoyl-CoA hydratase / 3-hydroxybutyryl-CoA epimerase / enoyl-CoA isomerase	1.1.1.35	NAD+	Acetoacetyl-CoA	white
-3-hydroxyacyl-CoA dehydrogenase / enoyl-CoA hydratase / 3-hydroxybutyryl-CoA epimerase / enoyl-CoA isomerase	1.1.1.35	NAD+	H+	white
-3-hydroxyacyl-CoA dehydrogenase / enoyl-CoA hydratase / 3-hydroxybutyryl-CoA epimerase / enoyl-CoA isomerase	1.1.1.35	NAD+	NADH	white
-3-hydroxyacyl-CoA dehydrogenase / enoyl-CoA hydratase / 3-hydroxybutyryl-CoA epimerase / enoyl-CoA isomerase	1.1.1.35	NADH	(S)-3-Hydroxybutanoyl-CoA	white
-3-hydroxyacyl-CoA dehydrogenase / enoyl-CoA hydratase / 3-hydroxybutyryl-CoA epimerase / enoyl-CoA isomerase	1.1.1.35	NADH	NAD+	white
-3-phenylpropionate/trans-cinnamate dioxygenase ferredoxin reductase component	1.18.1.3	H+	NADH	green
-3-phenylpropionate/trans-cinnamate dioxygenase ferredoxin reductase component	1.18.1.3	H+	Oxidized rubredoxin	green
-3-phenylpropionate/trans-cinnamate dioxygenase ferredoxin reductase component	1.18.1.3	NAD+	NADH	green
-3-phenylpropionate/trans-cinnamate dioxygenase ferredoxin reductase component	1.18.1.3	NAD+	Oxidized rubredoxin	green
-3-phenylpropionate/trans-cinnamate dioxygenase ferredoxin reductase component	1.18.1.3	NADH	H+	green
-3-phenylpropionate/trans-cinnamate dioxygenase ferredoxin reductase component	1.18.1.3	NADH	NAD+	green
-3-phenylpropionate/trans-cinnamate dioxygenase ferredoxin reductase component	1.18.1.3	NADH	Reduced rubredoxin	green
-3-phenylpropionate/trans-cinnamate dioxygenase ferredoxin reductase component	1.18.1.3	Oxidized rubredoxin	H+	green
-3-phenylpropionate/trans-cinnamate dioxygenase ferredoxin reductase component	1.18.1.3	Oxidized rubredoxin	NAD+	green
-3-phenylpropionate/trans-cinnamate dioxygenase ferredoxin reductase component	1.18.1.3	Oxidized rubredoxin	Reduced rubredoxin	green
-3-phenylpropionate/trans-cinnamate dioxygenase ferredoxin reductase component	1.18.1.3	Reduced rubredoxin	NADH	green
-3-phenylpropionate/trans-cinnamate dioxygenase ferredoxin reductase component	1.18.1.3	Reduced rubredoxin	Oxidized rubredoxin	green
-Delta3-Delta2-enoyl-CoA isomerase	5.3.3.8	cis,cis-3,6-Dodecadienoyl-CoA	trans,cis-Lauro-2,6-dienoyl-CoA	white
-Delta3-Delta2-enoyl-CoA isomerase	5.3.3.8	trans,cis-Lauro-2,6-dienoyl-CoA	cis,cis-3,6-Dodecadienoyl-CoA	white
-S-(hydroxymethyl)glutathione dehydrogenase / alcohol dehydrogenase	1.1.1.284	Aldehyde	NAD+	green
-S-(hydroxymethyl)glutathione dehydrogenase / alcohol dehydrogenase	1.1.1.284	Aldehyde	Primary alcohol	green
-S-(hydroxymethyl)glutathione dehydrogenase / alcohol dehydrogenase	1.1.1.284	H+	NAD+	green
-S-(hydroxymethyl)glutathione dehydrogenase / alcohol dehydrogenase	1.1.1.284	H+	Primary alcohol	green
-S-(hydroxymethyl)glutathione dehydrogenase / alcohol dehydrogenase	1.1.1.284	NAD+	Aldehyde	green
-S-(hydroxymethyl)glutathione dehydrogenase / alcohol dehydrogenase	1.1.1.284	NAD+	H+	green
-S-(hydroxymethyl)glutathione dehydrogenase / alcohol dehydrogenase	1.1.1.284	NAD+	NADH	green
-S-(hydroxymethyl)glutathione dehydrogenase / alcohol dehydrogenase	1.1.1.284	NADH	NAD+	green
-S-(hydroxymethyl)glutathione dehydrogenase / alcohol dehydrogenase	1.1.1.284	NADH	Primary alcohol	green
-S-(hydroxymethyl)glutathione dehydrogenase / alcohol dehydrogenase	1.1.1.284	Primary alcohol	Aldehyde	green
-S-(hydroxymethyl)glutathione dehydrogenase / alcohol dehydrogenase	1.1.1.284	Primary alcohol	H+	green
-S-(hydroxymethyl)glutathione dehydrogenase / alcohol dehydrogenase	1.1.1.284	Primary alcohol	NADH	green
-acetyl-CoA C-acetyltransferase	2.3.1.9	3-Oxohexanoyl-CoA	Acetyl-CoA	green
-acetyl-CoA C-acetyltransferase	2.3.1.9	3-Oxohexanoyl-CoA	Butanoyl-CoA	green
-acetyl-CoA C-acetyltransferase	2.3.1.9	Acetoacetyl-CoA	Acetyl-CoA	green
-acetyl-CoA C-acetyltransferase	2.3.1.9	Acetyl-CoA	3-Oxohexanoyl-CoA	green
-acetyl-CoA C-acetyltransferase	2.3.1.9	Acetyl-CoA	Acetoacetyl-CoA	green
-acetyl-CoA C-acetyltransferase	2.3.1.9	Acetyl-CoA	CoA	green
-acetyl-CoA C-acetyltransferase	2.3.1.9	Butanoyl-CoA	3-Oxohexanoyl-CoA	green
-acetyl-CoA C-acetyltransferase	2.3.1.9	Butanoyl-CoA	CoA	green
-acetyl-CoA C-acetyltransferase	2.3.1.9	CoA	Acetyl-CoA	green
-acetyl-CoA C-acetyltransferase	2.3.1.9	CoA	Butanoyl-CoA	green
-acetyl-CoA acyltransferase	2.3.1.16	3-Oxodecanoyl-CoA	Acetyl-CoA	green
-acetyl-CoA acyltransferase	2.3.1.16	3-Oxodecanoyl-CoA	Octanoyl-CoA	green
-acetyl-CoA acyltransferase	2.3.1.16	3-Oxododecanoyl-CoA	Acetyl-CoA	green
-acetyl-CoA acyltransferase	2.3.1.16	3-Oxododecanoyl-CoA	Decanoyl-CoA	green
-acetyl-CoA acyltransferase	2.3.1.16	3-Oxohexanoyl-CoA	Acetyl-CoA	green
-acetyl-CoA acyltransferase	2.3.1.16	3-Oxohexanoyl-CoA	Butanoyl-CoA	green
-acetyl-CoA acyltransferase	2.3.1.16	3-Oxooctanoyl-CoA	Acetyl-CoA	green
-acetyl-CoA acyltransferase	2.3.1.16	3-Oxooctanoyl-CoA	Hexanoyl-CoA	green
-acetyl-CoA acyltransferase	2.3.1.16	3-Oxopalmitoyl-CoA	Acetyl-CoA	green
-acetyl-CoA acyltransferase	2.3.1.16	3-Oxopalmitoyl-CoA	Tetradecanoyl-CoA	green
-acetyl-CoA acyltransferase	2.3.1.16	3-Oxotetradecanoyl-CoA	Acetyl-CoA	green
-acetyl-CoA acyltransferase	2.3.1.16	3-Oxotetradecanoyl-CoA	Lauroyl-CoA	green
-acetyl-CoA acyltransferase	2.3.1.16	Acetoacetyl-CoA	Acetyl-CoA	green
-acetyl-CoA acyltransferase	2.3.1.16	Acetyl-CoA	3-Oxodecanoyl-CoA	green
-acetyl-CoA acyltransferase	2.3.1.16	Acetyl-CoA	3-Oxododecanoyl-CoA	green
-acetyl-CoA acyltransferase	2.3.1.16	Acetyl-CoA	3-Oxohexanoyl-CoA	green
-acetyl-CoA acyltransferase	2.3.1.16	Acetyl-CoA	3-Oxooctanoyl-CoA	green
-acetyl-CoA acyltransferase	2.3.1.16	Acetyl-CoA	3-Oxopalmitoyl-CoA	green
-acetyl-CoA acyltransferase	2.3.1.16	Acetyl-CoA	3-Oxotetradecanoyl-CoA	green
-acetyl-CoA acyltransferase	2.3.1.16	Acetyl-CoA	Acetoacetyl-CoA	green
-acetyl-CoA acyltransferase	2.3.1.16	Acetyl-CoA	CoA	green
-acetyl-CoA acyltransferase	2.3.1.16	Butanoyl-CoA	3-Oxohexanoyl-CoA	green
-acetyl-CoA acyltransferase	2.3.1.16	Butanoyl-CoA	CoA	green
-acetyl-CoA acyltransferase	2.3.1.16	CoA	Acetyl-CoA	green
-acetyl-CoA acyltransferase	2.3.1.16	CoA	Butanoyl-CoA	green
-acetyl-CoA acyltransferase	2.3.1.16	CoA	Decanoyl-CoA	green
-acetyl-CoA acyltransferase	2.3.1.16	CoA	Hexanoyl-CoA	green
-acetyl-CoA acyltransferase	2.3.1.16	CoA	Lauroyl-CoA	green
-acetyl-CoA acyltransferase	2.3.1.16	CoA	Octanoyl-CoA	green
-acetyl-CoA acyltransferase	2.3.1.16	CoA	Tetradecanoyl-CoA	green
-acetyl-CoA acyltransferase	2.3.1.16	Decanoyl-CoA	3-Oxododecanoyl-CoA	green
-acetyl-CoA acyltransferase	2.3.1.16	Decanoyl-CoA	CoA	green
-acetyl-CoA acyltransferase	2.3.1.16	Hexanoyl-CoA	3-Oxooctanoyl-CoA	green
-acetyl-CoA acyltransferase	2.3.1.16	Hexanoyl-CoA	CoA	green
-acetyl-CoA acyltransferase	2.3.1.16	Lauroyl-CoA	3-Oxotetradecanoyl-CoA	green
-acetyl-CoA acyltransferase	2.3.1.16	Lauroyl-CoA	CoA	green
-acetyl-CoA acyltransferase	2.3.1.16	Octanoyl-CoA	3-Oxodecanoyl-CoA	green
-acetyl-CoA acyltransferase	2.3.1.16	Octanoyl-CoA	CoA	green
-acetyl-CoA acyltransferase	2.3.1.16	Tetradecanoyl-CoA	3-Oxopalmitoyl-CoA	green
-acetyl-CoA acyltransferase	2.3.1.16	Tetradecanoyl-CoA	CoA	green
-acyl-CoA dehydrogenase	1.3.8.7	Butanoyl-CoA	Crotonoyl-CoA	green
-acyl-CoA dehydrogenase	1.3.8.7	Butanoyl-CoA	Crotonoyl-CoA	white
-acyl-CoA dehydrogenase	1.3.8.7	Butanoyl-CoA	FADH2	green
-acyl-CoA dehydrogenase	1.3.8.7	Butanoyl-CoA	FADH2	white
-acyl-CoA dehydrogenase	1.3.8.7	Crotonoyl-CoA	Butanoyl-CoA	white
-acyl-CoA dehydrogenase	1.3.8.7	Crotonoyl-CoA	FAD	white
-acyl-CoA dehydrogenase	1.3.8.7	Decanoyl-CoA	FADH2	green
-acyl-CoA dehydrogenase	1.3.8.7	Decanoyl-CoA	trans-Dec-2-enoyl-CoA	green
-acyl-CoA dehydrogenase	1.3.8.7	FAD	2-trans-Dodecenoyl-CoA	green
-acyl-CoA dehydrogenase	1.3.8.7	FAD	Crotonoyl-CoA	green
-acyl-CoA dehydrogenase	1.3.8.7	FAD	Crotonoyl-CoA	white
-acyl-CoA dehydrogenase	1.3.8.7	FAD	FADH2	green
-acyl-CoA dehydrogenase	1.3.8.7	FAD	FADH2	white
-acyl-CoA dehydrogenase	1.3.8.7	FAD	trans-Dec-2-enoyl-CoA	green
-acyl-CoA dehydrogenase	1.3.8.7	FAD	trans-Hex-2-enoyl-CoA	green
-acyl-CoA dehydrogenase	1.3.8.7	FAD	trans-Hexadec-2-enoyl-CoA	green
-acyl-CoA dehydrogenase	1.3.8.7	FAD	trans-Oct-2-enoyl-CoA	green
-acyl-CoA dehydrogenase	1.3.8.7	FAD	trans-Tetradec-2-enoyl-CoA	green
-acyl-CoA dehydrogenase	1.3.8.7	FADH2	Butanoyl-CoA	white
-acyl-CoA dehydrogenase	1.3.8.7	FADH2	FAD	white
-acyl-CoA dehydrogenase	1.3.8.7	Hexanoyl-CoA	FADH2	green
-acyl-CoA dehydrogenase	1.3.8.7	Hexanoyl-CoA	trans-Hex-2-enoyl-CoA	green
-acyl-CoA dehydrogenase	1.3.8.7	Lauroyl-CoA	2-trans-Dodecenoyl-CoA	green
-acyl-CoA dehydrogenase	1.3.8.7	Lauroyl-CoA	FADH2	green
-acyl-CoA dehydrogenase	1.3.8.7	Octanoyl-CoA	FADH2	green
-acyl-CoA dehydrogenase	1.3.8.7	Octanoyl-CoA	trans-Oct-2-enoyl-CoA	green
-acyl-CoA dehydrogenase	1.3.8.7	Palmitoyl-CoA	FADH2	green
-acyl-CoA dehydrogenase	1.3.8.7	Palmitoyl-CoA	trans-Hexadec-2-enoyl-CoA	green
-acyl-CoA dehydrogenase	1.3.8.7	Tetradecanoyl-CoA	FADH2	green
-acyl-CoA dehydrogenase	1.3.8.7	Tetradecanoyl-CoA	trans-Tetradec-2-enoyl-CoA	green
-acyl-CoA oxidase	1.3.3.6	Butanoyl-CoA	Crotonoyl-CoA	green
-acyl-CoA oxidase	1.3.3.6	Butanoyl-CoA	FADH2	green
-acyl-CoA oxidase	1.3.3.6	Decanoyl-CoA	FADH2	green
-acyl-CoA oxidase	1.3.3.6	Decanoyl-CoA	trans-Dec-2-enoyl-CoA	green
-acyl-CoA oxidase	1.3.3.6	FAD	2-trans-Dodecenoyl-CoA	green
-acyl-CoA oxidase	1.3.3.6	FAD	Crotonoyl-CoA	green
-acyl-CoA oxidase	1.3.3.6	FAD	FADH2	green
-acyl-CoA oxidase	1.3.3.6	FAD	trans-Dec-2-enoyl-CoA	green
-acyl-CoA oxidase	1.3.3.6	FAD	trans-Hex-2-enoyl-CoA	green
-acyl-CoA oxidase	1.3.3.6	FAD	trans-Hexadec-2-enoyl-CoA	green
-acyl-CoA oxidase	1.3.3.6	FAD	trans-Oct-2-enoyl-CoA	green
-acyl-CoA oxidase	1.3.3.6	FAD	trans-Tetradec-2-enoyl-CoA	green
-acyl-CoA oxidase	1.3.3.6	Hexanoyl-CoA	FADH2	green
-acyl-CoA oxidase	1.3.3.6	Hexanoyl-CoA	trans-Hex-2-enoyl-CoA	green
-acyl-CoA oxidase	1.3.3.6	Lauroyl-CoA	2-trans-Dodecenoyl-CoA	green
-acyl-CoA oxidase	1.3.3.6	Lauroyl-CoA	FADH2	green
-acyl-CoA oxidase	1.3.3.6	Octanoyl-CoA	FADH2	green
-acyl-CoA oxidase	1.3.3.6	Octanoyl-CoA	trans-Oct-2-enoyl-CoA	green
-acyl-CoA oxidase	1.3.3.6	Palmitoyl-CoA	FADH2	green
-acyl-CoA oxidase	1.3.3.6	Palmitoyl-CoA	trans-Hexadec-2-enoyl-CoA	green
-acyl-CoA oxidase	1.3.3.6	Tetradecanoyl-CoA	FADH2	green
-acyl-CoA oxidase	1.3.3.6	Tetradecanoyl-CoA	trans-Tetradec-2-enoyl-CoA	green
-acyl-[acyl-carrier-protein]-phospholipid O-acyltransferase / long-chain-fatty-acid--[acyl-carrier-protein] ligase	2.3.1.40	AMP	ATP	white
-acyl-[acyl-carrier-protein]-phospholipid O-acyltransferase / long-chain-fatty-acid--[acyl-carrier-protein] ligase	2.3.1.40	AMP	Acyl-carrier protein	white
-acyl-[acyl-carrier-protein]-phospholipid O-acyltransferase / long-chain-fatty-acid--[acyl-carrier-protein] ligase	2.3.1.40	AMP	Long-chain fatty acid	white
-acyl-[acyl-carrier-protein]-phospholipid O-acyltransferase / long-chain-fatty-acid--[acyl-carrier-protein] ligase	2.3.1.40	ATP	AMP	white
-acyl-[acyl-carrier-protein]-phospholipid O-acyltransferase / long-chain-fatty-acid--[acyl-carrier-protein] ligase	2.3.1.40	ATP	Diphosphate	white
-acyl-[acyl-carrier-protein]-phospholipid O-acyltransferase / long-chain-fatty-acid--[acyl-carrier-protein] ligase	2.3.1.40	ATP	Long-chain acyl-[acyl-carrier protein]	white
-acyl-[acyl-carrier-protein]-phospholipid O-acyltransferase / long-chain-fatty-acid--[acyl-carrier-protein] ligase	2.3.1.40	Acyl-carrier protein	AMP	white
-acyl-[acyl-carrier-protein]-phospholipid O-acyltransferase / long-chain-fatty-acid--[acyl-carrier-protein] ligase	2.3.1.40	Acyl-carrier protein	Diphosphate	white
-acyl-[acyl-carrier-protein]-phospholipid O-acyltransferase / long-chain-fatty-acid--[acyl-carrier-protein] ligase	2.3.1.40	Acyl-carrier protein	Long-chain acyl-[acyl-carrier protein]	white
-acyl-[acyl-carrier-protein]-phospholipid O-acyltransferase / long-chain-fatty-acid--[acyl-carrier-protein] ligase	2.3.1.40	Diphosphate	ATP	white
-acyl-[acyl-carrier-protein]-phospholipid O-acyltransferase / long-chain-fatty-acid--[acyl-carrier-protein] ligase	2.3.1.40	Diphosphate	Acyl-carrier protein	white
-acyl-[acyl-carrier-protein]-phospholipid O-acyltransferase / long-chain-fatty-acid--[acyl-carrier-protein] ligase	2.3.1.40	Diphosphate	Long-chain fatty acid	white
-acyl-[acyl-carrier-protein]-phospholipid O-acyltransferase / long-chain-fatty-acid--[acyl-carrier-protein] ligase	2.3.1.40	Long-chain acyl-[acyl-carrier protein]	ATP	white
-acyl-[acyl-carrier-protein]-phospholipid O-acyltransferase / long-chain-fatty-acid--[acyl-carrier-protein] ligase	2.3.1.40	Long-chain acyl-[acyl-carrier protein]	Acyl-carrier protein	white
-acyl-[acyl-carrier-protein]-phospholipid O-acyltransferase / long-chain-fatty-acid--[acyl-carrier-protein] ligase	2.3.1.40	Long-chain acyl-[acyl-carrier protein]	Long-chain fatty acid	white
-acyl-[acyl-carrier-protein]-phospholipid O-acyltransferase / long-chain-fatty-acid--[acyl-carrier-protein] ligase	2.3.1.40	Long-chain fatty acid	AMP	white
-acyl-[acyl-carrier-protein]-phospholipid O-acyltransferase / long-chain-fatty-acid--[acyl-carrier-protein] ligase	2.3.1.40	Long-chain fatty acid	Diphosphate	white
-acyl-[acyl-carrier-protein]-phospholipid O-acyltransferase / long-chain-fatty-acid--[acyl-carrier-protein] ligase	2.3.1.40	Long-chain fatty acid	Long-chain acyl-[acyl-carrier protein]	white
-alcohol dehydrogenase	1.1.1.1	Aldehyde	NAD+	green
-alcohol dehydrogenase	1.1.1.1	Aldehyde	Primary alcohol	green
-alcohol dehydrogenase	1.1.1.1	H+	NAD+	green
-alcohol dehydrogenase	1.1.1.1	H+	Primary alcohol	green
-alcohol dehydrogenase	1.1.1.1	NAD+	Aldehyde	green
-alcohol dehydrogenase	1.1.1.1	NAD+	H+	green
-alcohol dehydrogenase	1.1.1.1	NAD+	NADH	green
-alcohol dehydrogenase	1.1.1.1	NADH	NAD+	green
-alcohol dehydrogenase	1.1.1.1	NADH	Primary alcohol	green
-alcohol dehydrogenase	1.1.1.1	Primary alcohol	Aldehyde	green
-alcohol dehydrogenase	1.1.1.1	Primary alcohol	H+	green
-alcohol dehydrogenase	1.1.1.1	Primary alcohol	NADH	green
-alcohol dehydrogenase, propanol-preferring	1.1.1.1	Aldehyde	NAD+	green
-alcohol dehydrogenase, propanol-preferring	1.1.1.1	Aldehyde	Primary alcohol	green
-alcohol dehydrogenase, propanol-preferring	1.1.1.1	H+	NAD+	green
-alcohol dehydrogenase, propanol-preferring	1.1.1.1	H+	Primary alcohol	green
-alcohol dehydrogenase, propanol-preferring	1.1.1.1	NAD+	Aldehyde	green
-alcohol dehydrogenase, propanol-preferring	1.1.1.1	NAD+	H+	green
-alcohol dehydrogenase, propanol-preferring	1.1.1.1	NAD+	NADH	green
-alcohol dehydrogenase, propanol-preferring	1.1.1.1	NADH	NAD+	green
-alcohol dehydrogenase, propanol-preferring	1.1.1.1	NADH	Primary alcohol	green
-alcohol dehydrogenase, propanol-preferring	1.1.1.1	Primary alcohol	Aldehyde	green
-alcohol dehydrogenase, propanol-preferring	1.1.1.1	Primary alcohol	H+	green
-alcohol dehydrogenase, propanol-preferring	1.1.1.1	Primary alcohol	NADH	green
-aldehyde dehydrogenase (NAD+)	1.2.1.3	Aldehyde	Fatty acid	green
-aldehyde dehydrogenase (NAD+)	1.2.1.3	Aldehyde	H+	green
-aldehyde dehydrogenase (NAD+)	1.2.1.3	Aldehyde	NADH	green
-aldehyde dehydrogenase (NAD+)	1.2.1.3	Fatty acid	Aldehyde	green
-aldehyde dehydrogenase (NAD+)	1.2.1.3	Fatty acid	H2O	green
-aldehyde dehydrogenase (NAD+)	1.2.1.3	Fatty acid	NAD+	green
-aldehyde dehydrogenase (NAD+)	1.2.1.3	H+	Aldehyde	green
-aldehyde dehydrogenase (NAD+)	1.2.1.3	H+	H2O	green
-aldehyde dehydrogenase (NAD+)	1.2.1.3	H+	NAD+	green
-aldehyde dehydrogenase (NAD+)	1.2.1.3	H2O	Fatty acid	green
-aldehyde dehydrogenase (NAD+)	1.2.1.3	H2O	H+	green
-aldehyde dehydrogenase (NAD+)	1.2.1.3	H2O	NADH	green
-aldehyde dehydrogenase (NAD+)	1.2.1.3	NAD+	Fatty acid	green
-aldehyde dehydrogenase (NAD+)	1.2.1.3	NAD+	H+	green
-aldehyde dehydrogenase (NAD+)	1.2.1.3	NAD+	NADH	green
-aldehyde dehydrogenase (NAD+)	1.2.1.3	NADH	Aldehyde	green
-aldehyde dehydrogenase (NAD+)	1.2.1.3	NADH	H2O	green
-aldehyde dehydrogenase (NAD+)	1.2.1.3	NADH	NAD+	green
-alkane 1-monooxygenase	1.14.15.3	Alkane	H2O	green
-alkane 1-monooxygenase	1.14.15.3	Alkane	Oxidized rubredoxin	green
-alkane 1-monooxygenase	1.14.15.3	Alkane	Primary alcohol	green
-alkane 1-monooxygenase	1.14.15.3	Fatty acid	H2O	green
-alkane 1-monooxygenase	1.14.15.3	Fatty acid	Oxidized rubredoxin	green
-alkane 1-monooxygenase	1.14.15.3	Fatty acid	omega-Hydroxy fatty acid	green
-alkane 1-monooxygenase	1.14.15.3	H+	H2O	green
-alkane 1-monooxygenase	1.14.15.3	H+	Oxidized rubredoxin	green
-alkane 1-monooxygenase	1.14.15.3	H+	Primary alcohol	green
-alkane 1-monooxygenase	1.14.15.3	H+	omega-Hydroxy fatty acid	green
-alkane 1-monooxygenase	1.14.15.3	Oxygen	H2O	green
-alkane 1-monooxygenase	1.14.15.3	Oxygen	Oxidized rubredoxin	green
-alkane 1-monooxygenase	1.14.15.3	Oxygen	Primary alcohol	green
-alkane 1-monooxygenase	1.14.15.3	Oxygen	omega-Hydroxy fatty acid	green
-alkane 1-monooxygenase	1.14.15.3	Reduced rubredoxin	H2O	green
-alkane 1-monooxygenase	1.14.15.3	Reduced rubredoxin	Oxidized rubredoxin	green
-alkane 1-monooxygenase	1.14.15.3	Reduced rubredoxin	Primary alcohol	green
-alkane 1-monooxygenase	1.14.15.3	Reduced rubredoxin	omega-Hydroxy fatty acid	green
-butyryl-CoA dehydrogenase	1.3.8.1	Butanoyl-CoA	Crotonoyl-CoA	white
-butyryl-CoA dehydrogenase	1.3.8.1	Butanoyl-CoA	FADH2	white
-butyryl-CoA dehydrogenase	1.3.8.1	Crotonoyl-CoA	Butanoyl-CoA	white
-butyryl-CoA dehydrogenase	1.3.8.1	Crotonoyl-CoA	FAD	white
-butyryl-CoA dehydrogenase	1.3.8.1	FAD	Crotonoyl-CoA	white
-butyryl-CoA dehydrogenase	1.3.8.1	FAD	FADH2	white
-butyryl-CoA dehydrogenase	1.3.8.1	FADH2	Butanoyl-CoA	white
-butyryl-CoA dehydrogenase	1.3.8.1	FADH2	FAD	white
-carnitine O-palmitoyltransferase 1, brain isoform	2.3.1.21	CoA	L-Carnitine	white
-carnitine O-palmitoyltransferase 1, brain isoform	2.3.1.21	CoA	Palmitoyl-CoA	white
-carnitine O-palmitoyltransferase 1, brain isoform	2.3.1.21	L-Carnitine	CoA	white
-carnitine O-palmitoyltransferase 1, brain isoform	2.3.1.21	L-Carnitine	L-Palmitoylcarnitine	white
-carnitine O-palmitoyltransferase 1, brain isoform	2.3.1.21	L-Palmitoylcarnitine	L-Carnitine	white
-carnitine O-palmitoyltransferase 1, brain isoform	2.3.1.21	L-Palmitoylcarnitine	Palmitoyl-CoA	white
-carnitine O-palmitoyltransferase 1, brain isoform	2.3.1.21	Palmitoyl-CoA	CoA	white
-carnitine O-palmitoyltransferase 1, brain isoform	2.3.1.21	Palmitoyl-CoA	L-Palmitoylcarnitine	white
-carnitine O-palmitoyltransferase 1, liver isoform	2.3.1.21	CoA	L-Carnitine	white
-carnitine O-palmitoyltransferase 1, liver isoform	2.3.1.21	CoA	Palmitoyl-CoA	white
-carnitine O-palmitoyltransferase 1, liver isoform	2.3.1.21	L-Carnitine	CoA	white
-carnitine O-palmitoyltransferase 1, liver isoform	2.3.1.21	L-Carnitine	L-Palmitoylcarnitine	white
-carnitine O-palmitoyltransferase 1, liver isoform	2.3.1.21	L-Palmitoylcarnitine	L-Carnitine	white
-carnitine O-palmitoyltransferase 1, liver isoform	2.3.1.21	L-Palmitoylcarnitine	Palmitoyl-CoA	white
-carnitine O-palmitoyltransferase 1, liver isoform	2.3.1.21	Palmitoyl-CoA	CoA	white
-carnitine O-palmitoyltransferase 1, liver isoform	2.3.1.21	Palmitoyl-CoA	L-Palmitoylcarnitine	white
-carnitine O-palmitoyltransferase 1, muscle isoform	2.3.1.21	CoA	L-Carnitine	white
-carnitine O-palmitoyltransferase 1, muscle isoform	2.3.1.21	CoA	Palmitoyl-CoA	white
-carnitine O-palmitoyltransferase 1, muscle isoform	2.3.1.21	L-Carnitine	CoA	white
-carnitine O-palmitoyltransferase 1, muscle isoform	2.3.1.21	L-Carnitine	L-Palmitoylcarnitine	white
-carnitine O-palmitoyltransferase 1, muscle isoform	2.3.1.21	L-Palmitoylcarnitine	L-Carnitine	white
-carnitine O-palmitoyltransferase 1, muscle isoform	2.3.1.21	L-Palmitoylcarnitine	Palmitoyl-CoA	white
-carnitine O-palmitoyltransferase 1, muscle isoform	2.3.1.21	Palmitoyl-CoA	CoA	white
-carnitine O-palmitoyltransferase 1, muscle isoform	2.3.1.21	Palmitoyl-CoA	L-Palmitoylcarnitine	white
-carnitine O-palmitoyltransferase 2	2.3.1.21	CoA	L-Carnitine	white
-carnitine O-palmitoyltransferase 2	2.3.1.21	CoA	Palmitoyl-CoA	white
-carnitine O-palmitoyltransferase 2	2.3.1.21	L-Carnitine	CoA	white
-carnitine O-palmitoyltransferase 2	2.3.1.21	L-Carnitine	L-Palmitoylcarnitine	white
-carnitine O-palmitoyltransferase 2	2.3.1.21	L-Palmitoylcarnitine	L-Carnitine	white
-carnitine O-palmitoyltransferase 2	2.3.1.21	L-Palmitoylcarnitine	Palmitoyl-CoA	white
-carnitine O-palmitoyltransferase 2	2.3.1.21	Palmitoyl-CoA	CoA	white
-carnitine O-palmitoyltransferase 2	2.3.1.21	Palmitoyl-CoA	L-Palmitoylcarnitine	white
-cytochrome P450 / NADPH-cytochrome P450 reductase	1.14.14.1	6-Hydroxymelatonin	Melatonin	white
-cytochrome P450 / NADPH-cytochrome P450 reductase	1.14.14.1	6-Hydroxymelatonin	Oxygen	white
-cytochrome P450 / NADPH-cytochrome P450 reductase	1.14.14.1	6-Hydroxymelatonin	[Reduced NADPH---hemoprotein reductase]	white
-cytochrome P450 / NADPH-cytochrome P450 reductase	1.14.14.1	H2O	Melatonin	white
-cytochrome P450 / NADPH-cytochrome P450 reductase	1.14.14.1	H2O	Oxygen	white
-cytochrome P450 / NADPH-cytochrome P450 reductase	1.14.14.1	H2O	[Reduced NADPH---hemoprotein reductase]	white
-cytochrome P450 / NADPH-cytochrome P450 reductase	1.14.14.1	Melatonin	6-Hydroxymelatonin	white
-cytochrome P450 / NADPH-cytochrome P450 reductase	1.14.14.1	Melatonin	H2O	white
-cytochrome P450 / NADPH-cytochrome P450 reductase	1.14.14.1	Melatonin	[Oxidized NADPH---hemoprotein reductase]	white
-cytochrome P450 / NADPH-cytochrome P450 reductase	1.14.14.1	Oxygen	6-Hydroxymelatonin	white
-cytochrome P450 / NADPH-cytochrome P450 reductase	1.14.14.1	Oxygen	H2O	white
-cytochrome P450 / NADPH-cytochrome P450 reductase	1.14.14.1	Oxygen	[Oxidized NADPH---hemoprotein reductase]	white
-cytochrome P450 / NADPH-cytochrome P450 reductase	1.14.14.1	[Oxidized NADPH---hemoprotein reductase]	Melatonin	white
-cytochrome P450 / NADPH-cytochrome P450 reductase	1.14.14.1	[Oxidized NADPH---hemoprotein reductase]	Oxygen	white
-cytochrome P450 / NADPH-cytochrome P450 reductase	1.14.14.1	[Oxidized NADPH---hemoprotein reductase]	[Reduced NADPH---hemoprotein reductase]	white
-cytochrome P450 / NADPH-cytochrome P450 reductase	1.14.14.1	[Reduced NADPH---hemoprotein reductase]	6-Hydroxymelatonin	white
-cytochrome P450 / NADPH-cytochrome P450 reductase	1.14.14.1	[Reduced NADPH---hemoprotein reductase]	H2O	white
-cytochrome P450 / NADPH-cytochrome P450 reductase	1.14.14.1	[Reduced NADPH---hemoprotein reductase]	[Oxidized NADPH---hemoprotein reductase]	white
-enoyl-CoA hydratase	4.2.1.17	(S)-3-Hydroxybutanoyl-CoA	Crotonoyl-CoA	green
-enoyl-CoA hydratase	4.2.1.17	(S)-3-Hydroxybutanoyl-CoA	H2O	green
-enoyl-CoA hydratase	4.2.1.17	(S)-3-Hydroxydodecanoyl-CoA	2-trans-Dodecenoyl-CoA	green
-enoyl-CoA hydratase	4.2.1.17	(S)-3-Hydroxydodecanoyl-CoA	H2O	green
-enoyl-CoA hydratase	4.2.1.17	(S)-3-Hydroxyhexadecanoyl-CoA	H2O	green
-enoyl-CoA hydratase	4.2.1.17	(S)-3-Hydroxyhexadecanoyl-CoA	trans-Hexadec-2-enoyl-CoA	green
-enoyl-CoA hydratase	4.2.1.17	(S)-3-Hydroxyoctanoyl-CoA	H2O	green
-enoyl-CoA hydratase	4.2.1.17	(S)-3-Hydroxyoctanoyl-CoA	trans-Oct-2-enoyl-CoA	green
-enoyl-CoA hydratase	4.2.1.17	(S)-3-Hydroxytetradecanoyl-CoA	H2O	green
-enoyl-CoA hydratase	4.2.1.17	(S)-3-Hydroxytetradecanoyl-CoA	trans-Tetradec-2-enoyl-CoA	green
-enoyl-CoA hydratase	4.2.1.17	(S)-Hydroxydecanoyl-CoA	H2O	green
-enoyl-CoA hydratase	4.2.1.17	(S)-Hydroxydecanoyl-CoA	trans-Dec-2-enoyl-CoA	green
-enoyl-CoA hydratase	4.2.1.17	(S)-Hydroxyhexanoyl-CoA	H2O	green
-enoyl-CoA hydratase	4.2.1.17	(S)-Hydroxyhexanoyl-CoA	trans-Hex-2-enoyl-CoA	green
-enoyl-CoA hydratase	4.2.1.17	2-trans-Dodecenoyl-CoA	(S)-3-Hydroxydodecanoyl-CoA	green
-enoyl-CoA hydratase	4.2.1.17	Crotonoyl-CoA	(S)-3-Hydroxybutanoyl-CoA	green
-enoyl-CoA hydratase	4.2.1.17	H2O	(S)-3-Hydroxybutanoyl-CoA	green
-enoyl-CoA hydratase	4.2.1.17	H2O	(S)-3-Hydroxydodecanoyl-CoA	green
-enoyl-CoA hydratase	4.2.1.17	H2O	(S)-3-Hydroxyhexadecanoyl-CoA	green
-enoyl-CoA hydratase	4.2.1.17	H2O	(S)-3-Hydroxyoctanoyl-CoA	green
-enoyl-CoA hydratase	4.2.1.17	H2O	(S)-3-Hydroxytetradecanoyl-CoA	green
-enoyl-CoA hydratase	4.2.1.17	H2O	(S)-Hydroxydecanoyl-CoA	green
-enoyl-CoA hydratase	4.2.1.17	H2O	(S)-Hydroxyhexanoyl-CoA	green
-enoyl-CoA hydratase	4.2.1.17	trans-Dec-2-enoyl-CoA	(S)-Hydroxydecanoyl-CoA	green
-enoyl-CoA hydratase	4.2.1.17	trans-Hex-2-enoyl-CoA	(S)-Hydroxyhexanoyl-CoA	green
-enoyl-CoA hydratase	4.2.1.17	trans-Hexadec-2-enoyl-CoA	(S)-3-Hydroxyhexadecanoyl-CoA	green
-enoyl-CoA hydratase	4.2.1.17	trans-Oct-2-enoyl-CoA	(S)-3-Hydroxyoctanoyl-CoA	green
-enoyl-CoA hydratase	4.2.1.17	trans-Tetradec-2-enoyl-CoA	(S)-3-Hydroxytetradecanoyl-CoA	green
-enoyl-CoA hydratase / 3-hydroxyacyl-CoA dehydrogenase / 3,2-trans-enoyl-CoA isomerase	4.2.1.17	(S)-3-Hydroxybutanoyl-CoA	Acetoacetyl-CoA	white
-enoyl-CoA hydratase / 3-hydroxyacyl-CoA dehydrogenase / 3,2-trans-enoyl-CoA isomerase	4.2.1.17	(S)-3-Hydroxybutanoyl-CoA	H+	white
-enoyl-CoA hydratase / 3-hydroxyacyl-CoA dehydrogenase / 3,2-trans-enoyl-CoA isomerase	4.2.1.17	(S)-3-Hydroxybutanoyl-CoA	NADH	white
-enoyl-CoA hydratase / 3-hydroxyacyl-CoA dehydrogenase / 3,2-trans-enoyl-CoA isomerase	4.2.1.17	Acetoacetyl-CoA	(S)-3-Hydroxybutanoyl-CoA	white
-enoyl-CoA hydratase / 3-hydroxyacyl-CoA dehydrogenase / 3,2-trans-enoyl-CoA isomerase	4.2.1.17	Acetoacetyl-CoA	NAD+	white
-enoyl-CoA hydratase / 3-hydroxyacyl-CoA dehydrogenase / 3,2-trans-enoyl-CoA isomerase	4.2.1.17	H+	(S)-3-Hydroxybutanoyl-CoA	white
-enoyl-CoA hydratase / 3-hydroxyacyl-CoA dehydrogenase / 3,2-trans-enoyl-CoA isomerase	4.2.1.17	H+	NAD+	white
-enoyl-CoA hydratase / 3-hydroxyacyl-CoA dehydrogenase / 3,2-trans-enoyl-CoA isomerase	4.2.1.17	NAD+	Acetoacetyl-CoA	white
-enoyl-CoA hydratase / 3-hydroxyacyl-CoA dehydrogenase / 3,2-trans-enoyl-CoA isomerase	4.2.1.17	NAD+	H+	white
-enoyl-CoA hydratase / 3-hydroxyacyl-CoA dehydrogenase / 3,2-trans-enoyl-CoA isomerase	4.2.1.17	NAD+	NADH	white
-enoyl-CoA hydratase / 3-hydroxyacyl-CoA dehydrogenase / 3,2-trans-enoyl-CoA isomerase	4.2.1.17	NADH	(S)-3-Hydroxybutanoyl-CoA	white
-enoyl-CoA hydratase / 3-hydroxyacyl-CoA dehydrogenase / 3,2-trans-enoyl-CoA isomerase	4.2.1.17	NADH	NAD+	white
-enoyl-CoA hydratase / long-chain 3-hydroxyacyl-CoA dehydrogenase	4.2.1.17	(3S)-3-Hydroxyacyl-CoA	3-Oxoacyl-CoA	white
-enoyl-CoA hydratase / long-chain 3-hydroxyacyl-CoA dehydrogenase	4.2.1.17	(3S)-3-Hydroxyacyl-CoA	H+	white
-enoyl-CoA hydratase / long-chain 3-hydroxyacyl-CoA dehydrogenase	4.2.1.17	(3S)-3-Hydroxyacyl-CoA	NADH	white
-enoyl-CoA hydratase / long-chain 3-hydroxyacyl-CoA dehydrogenase	4.2.1.17	3-Oxoacyl-CoA	(3S)-3-Hydroxyacyl-CoA	white
-enoyl-CoA hydratase / long-chain 3-hydroxyacyl-CoA dehydrogenase	4.2.1.17	3-Oxoacyl-CoA	NAD+	white
-enoyl-CoA hydratase / long-chain 3-hydroxyacyl-CoA dehydrogenase	4.2.1.17	H+	(3S)-3-Hydroxyacyl-CoA	white
-enoyl-CoA hydratase / long-chain 3-hydroxyacyl-CoA dehydrogenase	4.2.1.17	H+	NAD+	white
-enoyl-CoA hydratase / long-chain 3-hydroxyacyl-CoA dehydrogenase	4.2.1.17	NAD+	3-Oxoacyl-CoA	white
-enoyl-CoA hydratase / long-chain 3-hydroxyacyl-CoA dehydrogenase	4.2.1.17	NAD+	H+	white
-enoyl-CoA hydratase / long-chain 3-hydroxyacyl-CoA dehydrogenase	4.2.1.17	NAD+	NADH	white
-enoyl-CoA hydratase / long-chain 3-hydroxyacyl-CoA dehydrogenase	4.2.1.17	NADH	(3S)-3-Hydroxyacyl-CoA	white
-enoyl-CoA hydratase / long-chain 3-hydroxyacyl-CoA dehydrogenase	4.2.1.17	NADH	NAD+	white
-enoyl-CoA hydratase/3-hydroxyacyl-CoA dehydrogenase	4.2.1.17	(S)-3-Hydroxybutanoyl-CoA	Acetoacetyl-CoA	white
-enoyl-CoA hydratase/3-hydroxyacyl-CoA dehydrogenase	4.2.1.17	(S)-3-Hydroxybutanoyl-CoA	H+	white
-enoyl-CoA hydratase/3-hydroxyacyl-CoA dehydrogenase	4.2.1.17	(S)-3-Hydroxybutanoyl-CoA	NADH	white
-enoyl-CoA hydratase/3-hydroxyacyl-CoA dehydrogenase	4.2.1.17	Acetoacetyl-CoA	(S)-3-Hydroxybutanoyl-CoA	white
-enoyl-CoA hydratase/3-hydroxyacyl-CoA dehydrogenase	4.2.1.17	Acetoacetyl-CoA	NAD+	white
-enoyl-CoA hydratase/3-hydroxyacyl-CoA dehydrogenase	4.2.1.17	H+	(S)-3-Hydroxybutanoyl-CoA	white
-enoyl-CoA hydratase/3-hydroxyacyl-CoA dehydrogenase	4.2.1.17	H+	NAD+	white
-enoyl-CoA hydratase/3-hydroxyacyl-CoA dehydrogenase	4.2.1.17	NAD+	Acetoacetyl-CoA	white
-enoyl-CoA hydratase/3-hydroxyacyl-CoA dehydrogenase	4.2.1.17	NAD+	H+	white
-enoyl-CoA hydratase/3-hydroxyacyl-CoA dehydrogenase	4.2.1.17	NAD+	NADH	white
-enoyl-CoA hydratase/3-hydroxyacyl-CoA dehydrogenase	4.2.1.17	NADH	(S)-3-Hydroxybutanoyl-CoA	white
-enoyl-CoA hydratase/3-hydroxyacyl-CoA dehydrogenase	4.2.1.17	NADH	NAD+	white
-glutaryl-CoA dehydrogenase	1.3.8.6	FAD	CO2	green
-glutaryl-CoA dehydrogenase	1.3.8.6	FAD	Crotonoyl-CoA	green
-glutaryl-CoA dehydrogenase	1.3.8.6	FAD	FADH2	green
-glutaryl-CoA dehydrogenase	1.3.8.6	Glutaryl-CoA	CO2	green
-glutaryl-CoA dehydrogenase	1.3.8.6	Glutaryl-CoA	Crotonoyl-CoA	green
-glutaryl-CoA dehydrogenase	1.3.8.6	Glutaryl-CoA	FADH2	green
-long-chain fatty acid omega-monooxygenase	1.14.14.80	Fatty acid	H2O	white
-long-chain fatty acid omega-monooxygenase	1.14.14.80	Fatty acid	[Oxidized NADPH---hemoprotein reductase]	white
-long-chain fatty acid omega-monooxygenase	1.14.14.80	Fatty acid	omega-Hydroxy fatty acid	white
-long-chain fatty acid omega-monooxygenase	1.14.14.80	H2O	Fatty acid	white
-long-chain fatty acid omega-monooxygenase	1.14.14.80	H2O	Oxygen	white
-long-chain fatty acid omega-monooxygenase	1.14.14.80	H2O	[Reduced NADPH---hemoprotein reductase]	white
-long-chain fatty acid omega-monooxygenase	1.14.14.80	Oxygen	H2O	white
-long-chain fatty acid omega-monooxygenase	1.14.14.80	Oxygen	[Oxidized NADPH---hemoprotein reductase]	white
-long-chain fatty acid omega-monooxygenase	1.14.14.80	Oxygen	omega-Hydroxy fatty acid	white
-long-chain fatty acid omega-monooxygenase	1.14.14.80	[Oxidized NADPH---hemoprotein reductase]	Fatty acid	white
-long-chain fatty acid omega-monooxygenase	1.14.14.80	[Oxidized NADPH---hemoprotein reductase]	Oxygen	white
-long-chain fatty acid omega-monooxygenase	1.14.14.80	[Oxidized NADPH---hemoprotein reductase]	[Reduced NADPH---hemoprotein reductase]	white
-long-chain fatty acid omega-monooxygenase	1.14.14.80	[Reduced NADPH---hemoprotein reductase]	H2O	white
-long-chain fatty acid omega-monooxygenase	1.14.14.80	[Reduced NADPH---hemoprotein reductase]	[Oxidized NADPH---hemoprotein reductase]	white
-long-chain fatty acid omega-monooxygenase	1.14.14.80	[Reduced NADPH---hemoprotein reductase]	omega-Hydroxy fatty acid	white
-long-chain fatty acid omega-monooxygenase	1.14.14.80	omega-Hydroxy fatty acid	Fatty acid	white
-long-chain fatty acid omega-monooxygenase	1.14.14.80	omega-Hydroxy fatty acid	Oxygen	white
-long-chain fatty acid omega-monooxygenase	1.14.14.80	omega-Hydroxy fatty acid	[Reduced NADPH---hemoprotein reductase]	white
-long-chain-acyl-CoA dehydrogenase	1.3.8.8	Decanoyl-CoA	FADH2	green
-long-chain-acyl-CoA dehydrogenase	1.3.8.8	Decanoyl-CoA	trans-Dec-2-enoyl-CoA	green
-long-chain-acyl-CoA dehydrogenase	1.3.8.8	FAD	2-trans-Dodecenoyl-CoA	green
-long-chain-acyl-CoA dehydrogenase	1.3.8.8	FAD	FADH2	green
-long-chain-acyl-CoA dehydrogenase	1.3.8.8	FAD	trans-Dec-2-enoyl-CoA	green
-long-chain-acyl-CoA dehydrogenase	1.3.8.8	FAD	trans-Hex-2-enoyl-CoA	green
-long-chain-acyl-CoA dehydrogenase	1.3.8.8	FAD	trans-Hexadec-2-enoyl-CoA	green
-long-chain-acyl-CoA dehydrogenase	1.3.8.8	FAD	trans-Oct-2-enoyl-CoA	green
-long-chain-acyl-CoA dehydrogenase	1.3.8.8	FAD	trans-Tetradec-2-enoyl-CoA	green
-long-chain-acyl-CoA dehydrogenase	1.3.8.8	Hexanoyl-CoA	FADH2	green
-long-chain-acyl-CoA dehydrogenase	1.3.8.8	Hexanoyl-CoA	trans-Hex-2-enoyl-CoA	green
-long-chain-acyl-CoA dehydrogenase	1.3.8.8	Lauroyl-CoA	2-trans-Dodecenoyl-CoA	green
-long-chain-acyl-CoA dehydrogenase	1.3.8.8	Lauroyl-CoA	FADH2	green
-long-chain-acyl-CoA dehydrogenase	1.3.8.8	Octanoyl-CoA	FADH2	green
-long-chain-acyl-CoA dehydrogenase	1.3.8.8	Octanoyl-CoA	trans-Oct-2-enoyl-CoA	green
-long-chain-acyl-CoA dehydrogenase	1.3.8.8	Palmitoyl-CoA	FADH2	green
-long-chain-acyl-CoA dehydrogenase	1.3.8.8	Palmitoyl-CoA	trans-Hexadec-2-enoyl-CoA	green
-long-chain-acyl-CoA dehydrogenase	1.3.8.8	Tetradecanoyl-CoA	FADH2	green
-long-chain-acyl-CoA dehydrogenase	1.3.8.8	Tetradecanoyl-CoA	trans-Tetradec-2-enoyl-CoA	green
-long-chain-fatty-acid---CoA ligase	6.2.1.3	AMP	ATP	green
-long-chain-fatty-acid---CoA ligase	6.2.1.3	AMP	CoA	green
-long-chain-fatty-acid---CoA ligase	6.2.1.3	AMP	Hexadecanoic acid	green
-long-chain-fatty-acid---CoA ligase	6.2.1.3	ATP	AMP	green
-long-chain-fatty-acid---CoA ligase	6.2.1.3	ATP	Diphosphate	green
-long-chain-fatty-acid---CoA ligase	6.2.1.3	ATP	Palmitoyl-CoA	green
-long-chain-fatty-acid---CoA ligase	6.2.1.3	CoA	AMP	green
-long-chain-fatty-acid---CoA ligase	6.2.1.3	CoA	Diphosphate	green
-long-chain-fatty-acid---CoA ligase	6.2.1.3	CoA	Palmitoyl-CoA	green
-long-chain-fatty-acid---CoA ligase	6.2.1.3	Diphosphate	ATP	green
-long-chain-fatty-acid---CoA ligase	6.2.1.3	Diphosphate	CoA	green
-long-chain-fatty-acid---CoA ligase	6.2.1.3	Diphosphate	Hexadecanoic acid	green
-long-chain-fatty-acid---CoA ligase	6.2.1.3	Hexadecanoic acid	AMP	green
-long-chain-fatty-acid---CoA ligase	6.2.1.3	Hexadecanoic acid	Diphosphate	green
-long-chain-fatty-acid---CoA ligase	6.2.1.3	Hexadecanoic acid	Palmitoyl-CoA	green
-long-chain-fatty-acid---CoA ligase	6.2.1.3	Palmitoyl-CoA	ATP	green
-long-chain-fatty-acid---CoA ligase	6.2.1.3	Palmitoyl-CoA	CoA	green
-long-chain-fatty-acid---CoA ligase	6.2.1.3	Palmitoyl-CoA	Hexadecanoic acid	green
-long-chain-fatty-acid--[acyl-carrier-protein] ligase	6.2.1.20	AMP	ATP	white
-long-chain-fatty-acid--[acyl-carrier-protein] ligase	6.2.1.20	AMP	Acyl-carrier protein	white
-long-chain-fatty-acid--[acyl-carrier-protein] ligase	6.2.1.20	AMP	Long-chain fatty acid	white
-long-chain-fatty-acid--[acyl-carrier-protein] ligase	6.2.1.20	ATP	AMP	white
-long-chain-fatty-acid--[acyl-carrier-protein] ligase	6.2.1.20	ATP	Diphosphate	white
-long-chain-fatty-acid--[acyl-carrier-protein] ligase	6.2.1.20	ATP	Long-chain acyl-[acyl-carrier protein]	white
-long-chain-fatty-acid--[acyl-carrier-protein] ligase	6.2.1.20	Acyl-carrier protein	AMP	white
-long-chain-fatty-acid--[acyl-carrier-protein] ligase	6.2.1.20	Acyl-carrier protein	Diphosphate	white
-long-chain-fatty-acid--[acyl-carrier-protein] ligase	6.2.1.20	Acyl-carrier protein	Long-chain acyl-[acyl-carrier protein]	white
-long-chain-fatty-acid--[acyl-carrier-protein] ligase	6.2.1.20	Diphosphate	ATP	white
-long-chain-fatty-acid--[acyl-carrier-protein] ligase	6.2.1.20	Diphosphate	Acyl-carrier protein	white
-long-chain-fatty-acid--[acyl-carrier-protein] ligase	6.2.1.20	Diphosphate	Long-chain fatty acid	white
-long-chain-fatty-acid--[acyl-carrier-protein] ligase	6.2.1.20	Long-chain acyl-[acyl-carrier protein]	ATP	white
-long-chain-fatty-acid--[acyl-carrier-protein] ligase	6.2.1.20	Long-chain acyl-[acyl-carrier protein]	Acyl-carrier protein	white
-long-chain-fatty-acid--[acyl-carrier-protein] ligase	6.2.1.20	Long-chain acyl-[acyl-carrier protein]	Long-chain fatty acid	white
-long-chain-fatty-acid--[acyl-carrier-protein] ligase	6.2.1.20	Long-chain fatty acid	AMP	white
-long-chain-fatty-acid--[acyl-carrier-protein] ligase	6.2.1.20	Long-chain fatty acid	Diphosphate	white
-long-chain-fatty-acid--[acyl-carrier-protein] ligase	6.2.1.20	Long-chain fatty acid	Long-chain acyl-[acyl-carrier protein]	white
-rubredoxin---NAD(P)+ reductase	1.18.1.4	H+	NADH	white
-rubredoxin---NAD(P)+ reductase	1.18.1.4	H+	Oxidized rubredoxin	white
-rubredoxin---NAD(P)+ reductase	1.18.1.4	NAD+	NADH	white
-rubredoxin---NAD(P)+ reductase	1.18.1.4	NAD+	Oxidized rubredoxin	white
-rubredoxin---NAD(P)+ reductase	1.18.1.4	NADH	H+	white
-rubredoxin---NAD(P)+ reductase	1.18.1.4	NADH	NAD+	white
-rubredoxin---NAD(P)+ reductase	1.18.1.4	NADH	Reduced rubredoxin	white
-rubredoxin---NAD(P)+ reductase	1.18.1.4	Oxidized rubredoxin	H+	white
-rubredoxin---NAD(P)+ reductase	1.18.1.4	Oxidized rubredoxin	NAD+	white
-rubredoxin---NAD(P)+ reductase	1.18.1.4	Oxidized rubredoxin	Reduced rubredoxin	white
-rubredoxin---NAD(P)+ reductase	1.18.1.4	Reduced rubredoxin	NADH	white
-rubredoxin---NAD(P)+ reductase	1.18.1.4	Reduced rubredoxin	Oxidized rubredoxin	white
-rubredoxin---NAD+ reductase	1.18.1.1	H+	NADH	white
-rubredoxin---NAD+ reductase	1.18.1.1	H+	Oxidized rubredoxin	white
-rubredoxin---NAD+ reductase	1.18.1.1	NAD+	NADH	white
-rubredoxin---NAD+ reductase	1.18.1.1	NAD+	Oxidized rubredoxin	white
-rubredoxin---NAD+ reductase	1.18.1.1	NADH	H+	white
-rubredoxin---NAD+ reductase	1.18.1.1	NADH	NAD+	white
-rubredoxin---NAD+ reductase	1.18.1.1	NADH	Reduced rubredoxin	white
-rubredoxin---NAD+ reductase	1.18.1.1	Oxidized rubredoxin	H+	white
-rubredoxin---NAD+ reductase	1.18.1.1	Oxidized rubredoxin	NAD+	white
-rubredoxin---NAD+ reductase	1.18.1.1	Oxidized rubredoxin	Reduced rubredoxin	white
-rubredoxin---NAD+ reductase	1.18.1.1	Reduced rubredoxin	NADH	white
-rubredoxin---NAD+ reductase	1.18.1.1	Reduced rubredoxin	Oxidized rubredoxin	white
-short-chain 2-methylacyl-CoA dehydrogenase	1.3.8.5	Butanoyl-CoA	Crotonoyl-CoA	white
-short-chain 2-methylacyl-CoA dehydrogenase	1.3.8.5	Butanoyl-CoA	FADH2	white
-short-chain 2-methylacyl-CoA dehydrogenase	1.3.8.5	Crotonoyl-CoA	Butanoyl-CoA	white
-short-chain 2-methylacyl-CoA dehydrogenase	1.3.8.5	Crotonoyl-CoA	FAD	white
-short-chain 2-methylacyl-CoA dehydrogenase	1.3.8.5	FAD	Crotonoyl-CoA	white
-short-chain 2-methylacyl-CoA dehydrogenase	1.3.8.5	FAD	FADH2	white
-short-chain 2-methylacyl-CoA dehydrogenase	1.3.8.5	FADH2	Butanoyl-CoA	white
-short-chain 2-methylacyl-CoA dehydrogenase	1.3.8.5	FADH2	FAD	white
-very long chain acyl-CoA dehydrogenase	1.3.8.9	FAD	FADH2	white
-very long chain acyl-CoA dehydrogenase	1.3.8.9	FAD	trans-Hexadec-2-enoyl-CoA	white
-very long chain acyl-CoA dehydrogenase	1.3.8.9	FADH2	FAD	white
-very long chain acyl-CoA dehydrogenase	1.3.8.9	FADH2	Palmitoyl-CoA	white
-very long chain acyl-CoA dehydrogenase	1.3.8.9	Palmitoyl-CoA	FADH2	white
-very long chain acyl-CoA dehydrogenase	1.3.8.9	Palmitoyl-CoA	trans-Hexadec-2-enoyl-CoA	white
-very long chain acyl-CoA dehydrogenase	1.3.8.9	trans-Hexadec-2-enoyl-CoA	FAD	white
-very long chain acyl-CoA dehydrogenase	1.3.8.9	trans-Hexadec-2-enoyl-CoA	Palmitoyl-CoA	white
+enzyme_name	EC	source	target	reaction	color
+3-hydroxyacyl-CoA dehydrogenase	1.1.1.35	(S)-3-Hydroxybutanoyl-CoA	Acetoacetyl-CoA	R01975	green
+3-hydroxyacyl-CoA dehydrogenase	1.1.1.35	(S)-3-Hydroxybutanoyl-CoA	H+	R01975	green
+3-hydroxyacyl-CoA dehydrogenase	1.1.1.35	(S)-3-Hydroxybutanoyl-CoA	NADH	R01975	green
+3-hydroxyacyl-CoA dehydrogenase	1.1.1.35	(S)-3-Hydroxydodecanoyl-CoA	3-Oxododecanoyl-CoA	R04741	green
+3-hydroxyacyl-CoA dehydrogenase	1.1.1.35	(S)-3-Hydroxydodecanoyl-CoA	H+	R04741	green
+3-hydroxyacyl-CoA dehydrogenase	1.1.1.35	(S)-3-Hydroxydodecanoyl-CoA	NADH	R04741	green
+3-hydroxyacyl-CoA dehydrogenase	1.1.1.35	(S)-3-Hydroxyhexadecanoyl-CoA	3-Oxopalmitoyl-CoA	R04737	green
+3-hydroxyacyl-CoA dehydrogenase	1.1.1.35	(S)-3-Hydroxyhexadecanoyl-CoA	H+	R04737	green
+3-hydroxyacyl-CoA dehydrogenase	1.1.1.35	(S)-3-Hydroxyhexadecanoyl-CoA	NADH	R04737	green
+3-hydroxyacyl-CoA dehydrogenase	1.1.1.35	(S)-3-Hydroxyoctanoyl-CoA	3-Oxooctanoyl-CoA	R04745	green
+3-hydroxyacyl-CoA dehydrogenase	1.1.1.35	(S)-3-Hydroxyoctanoyl-CoA	H+	R04745	green
+3-hydroxyacyl-CoA dehydrogenase	1.1.1.35	(S)-3-Hydroxyoctanoyl-CoA	NADH	R04745	green
+3-hydroxyacyl-CoA dehydrogenase	1.1.1.35	(S)-3-Hydroxytetradecanoyl-CoA	3-Oxotetradecanoyl-CoA	R04739	green
+3-hydroxyacyl-CoA dehydrogenase	1.1.1.35	(S)-3-Hydroxytetradecanoyl-CoA	NADH	R04739	green
+3-hydroxyacyl-CoA dehydrogenase	1.1.1.35	(S)-Hydroxydecanoyl-CoA	3-Oxodecanoyl-CoA	R04743	green
+3-hydroxyacyl-CoA dehydrogenase	1.1.1.35	(S)-Hydroxydecanoyl-CoA	H+	R04743	green
+3-hydroxyacyl-CoA dehydrogenase	1.1.1.35	(S)-Hydroxydecanoyl-CoA	NADH	R04743	green
+3-hydroxyacyl-CoA dehydrogenase	1.1.1.35	(S)-Hydroxyhexanoyl-CoA	3-Oxohexanoyl-CoA	R04748	green
+3-hydroxyacyl-CoA dehydrogenase	1.1.1.35	(S)-Hydroxyhexanoyl-CoA	H+	R04748	green
+3-hydroxyacyl-CoA dehydrogenase	1.1.1.35	(S)-Hydroxyhexanoyl-CoA	NADH	R04748	green
+3-hydroxyacyl-CoA dehydrogenase	1.1.1.35	3-Oxodecanoyl-CoA	(S)-Hydroxydecanoyl-CoA	R04743	green
+3-hydroxyacyl-CoA dehydrogenase	1.1.1.35	3-Oxodecanoyl-CoA	NAD+	R04743	green
+3-hydroxyacyl-CoA dehydrogenase	1.1.1.35	3-Oxododecanoyl-CoA	(S)-3-Hydroxydodecanoyl-CoA	R04741	green
+3-hydroxyacyl-CoA dehydrogenase	1.1.1.35	3-Oxododecanoyl-CoA	NAD+	R04741	green
+3-hydroxyacyl-CoA dehydrogenase	1.1.1.35	3-Oxohexanoyl-CoA	(S)-Hydroxyhexanoyl-CoA	R04748	green
+3-hydroxyacyl-CoA dehydrogenase	1.1.1.35	3-Oxohexanoyl-CoA	NAD+	R04748	green
+3-hydroxyacyl-CoA dehydrogenase	1.1.1.35	3-Oxooctanoyl-CoA	(S)-3-Hydroxyoctanoyl-CoA	R04745	green
+3-hydroxyacyl-CoA dehydrogenase	1.1.1.35	3-Oxooctanoyl-CoA	NAD+	R04745	green
+3-hydroxyacyl-CoA dehydrogenase	1.1.1.35	3-Oxopalmitoyl-CoA	(S)-3-Hydroxyhexadecanoyl-CoA	R04737	green
+3-hydroxyacyl-CoA dehydrogenase	1.1.1.35	3-Oxopalmitoyl-CoA	NAD+	R04737	green
+3-hydroxyacyl-CoA dehydrogenase	1.1.1.35	3-Oxotetradecanoyl-CoA	(S)-3-Hydroxytetradecanoyl-CoA	R04739	green
+3-hydroxyacyl-CoA dehydrogenase	1.1.1.35	3-Oxotetradecanoyl-CoA	NAD+	R04739	green
+3-hydroxyacyl-CoA dehydrogenase	1.1.1.35	Acetoacetyl-CoA	(S)-3-Hydroxybutanoyl-CoA	R01975	green
+3-hydroxyacyl-CoA dehydrogenase	1.1.1.35	Acetoacetyl-CoA	NAD+	R01975	green
+3-hydroxyacyl-CoA dehydrogenase	1.1.1.35	H+	(S)-3-Hydroxybutanoyl-CoA	R01975	green
+3-hydroxyacyl-CoA dehydrogenase	1.1.1.35	H+	(S)-3-Hydroxydodecanoyl-CoA	R04741	green
+3-hydroxyacyl-CoA dehydrogenase	1.1.1.35	H+	(S)-3-Hydroxyhexadecanoyl-CoA	R04737	green
+3-hydroxyacyl-CoA dehydrogenase	1.1.1.35	H+	(S)-3-Hydroxyoctanoyl-CoA	R04745	green
+3-hydroxyacyl-CoA dehydrogenase	1.1.1.35	H+	(S)-Hydroxydecanoyl-CoA	R04743	green
+3-hydroxyacyl-CoA dehydrogenase	1.1.1.35	H+	(S)-Hydroxyhexanoyl-CoA	R04748	green
+3-hydroxyacyl-CoA dehydrogenase	1.1.1.35	H+	NAD+	R01975	green
+3-hydroxyacyl-CoA dehydrogenase	1.1.1.35	H+	NAD+	R04737	green
+3-hydroxyacyl-CoA dehydrogenase	1.1.1.35	H+	NAD+	R04741	green
+3-hydroxyacyl-CoA dehydrogenase	1.1.1.35	H+	NAD+	R04743	green
+3-hydroxyacyl-CoA dehydrogenase	1.1.1.35	H+	NAD+	R04745	green
+3-hydroxyacyl-CoA dehydrogenase	1.1.1.35	H+	NAD+	R04748	green
+3-hydroxyacyl-CoA dehydrogenase	1.1.1.35	NAD+	3-Oxodecanoyl-CoA	R04743	green
+3-hydroxyacyl-CoA dehydrogenase	1.1.1.35	NAD+	3-Oxododecanoyl-CoA	R04741	green
+3-hydroxyacyl-CoA dehydrogenase	1.1.1.35	NAD+	3-Oxohexanoyl-CoA	R04748	green
+3-hydroxyacyl-CoA dehydrogenase	1.1.1.35	NAD+	3-Oxooctanoyl-CoA	R04745	green
+3-hydroxyacyl-CoA dehydrogenase	1.1.1.35	NAD+	3-Oxopalmitoyl-CoA	R04737	green
+3-hydroxyacyl-CoA dehydrogenase	1.1.1.35	NAD+	3-Oxotetradecanoyl-CoA	R04739	green
+3-hydroxyacyl-CoA dehydrogenase	1.1.1.35	NAD+	Acetoacetyl-CoA	R01975	green
+3-hydroxyacyl-CoA dehydrogenase	1.1.1.35	NAD+	H+	R01975	green
+3-hydroxyacyl-CoA dehydrogenase	1.1.1.35	NAD+	H+	R04737	green
+3-hydroxyacyl-CoA dehydrogenase	1.1.1.35	NAD+	H+	R04741	green
+3-hydroxyacyl-CoA dehydrogenase	1.1.1.35	NAD+	H+	R04743	green
+3-hydroxyacyl-CoA dehydrogenase	1.1.1.35	NAD+	H+	R04745	green
+3-hydroxyacyl-CoA dehydrogenase	1.1.1.35	NAD+	H+	R04748	green
+3-hydroxyacyl-CoA dehydrogenase	1.1.1.35	NAD+	NADH	R01975	green
+3-hydroxyacyl-CoA dehydrogenase	1.1.1.35	NAD+	NADH	R04737	green
+3-hydroxyacyl-CoA dehydrogenase	1.1.1.35	NAD+	NADH	R04739	green
+3-hydroxyacyl-CoA dehydrogenase	1.1.1.35	NAD+	NADH	R04741	green
+3-hydroxyacyl-CoA dehydrogenase	1.1.1.35	NAD+	NADH	R04743	green
+3-hydroxyacyl-CoA dehydrogenase	1.1.1.35	NAD+	NADH	R04745	green
+3-hydroxyacyl-CoA dehydrogenase	1.1.1.35	NAD+	NADH	R04748	green
+3-hydroxyacyl-CoA dehydrogenase	1.1.1.35	NADH	(S)-3-Hydroxybutanoyl-CoA	R01975	green
+3-hydroxyacyl-CoA dehydrogenase	1.1.1.35	NADH	(S)-3-Hydroxydodecanoyl-CoA	R04741	green
+3-hydroxyacyl-CoA dehydrogenase	1.1.1.35	NADH	(S)-3-Hydroxyhexadecanoyl-CoA	R04737	green
+3-hydroxyacyl-CoA dehydrogenase	1.1.1.35	NADH	(S)-3-Hydroxyoctanoyl-CoA	R04745	green
+3-hydroxyacyl-CoA dehydrogenase	1.1.1.35	NADH	(S)-3-Hydroxytetradecanoyl-CoA	R04739	green
+3-hydroxyacyl-CoA dehydrogenase	1.1.1.35	NADH	(S)-Hydroxydecanoyl-CoA	R04743	green
+3-hydroxyacyl-CoA dehydrogenase	1.1.1.35	NADH	(S)-Hydroxyhexanoyl-CoA	R04748	green
+3-hydroxyacyl-CoA dehydrogenase	1.1.1.35	NADH	NAD+	R01975	green
+3-hydroxyacyl-CoA dehydrogenase	1.1.1.35	NADH	NAD+	R04737	green
+3-hydroxyacyl-CoA dehydrogenase	1.1.1.35	NADH	NAD+	R04739	green
+3-hydroxyacyl-CoA dehydrogenase	1.1.1.35	NADH	NAD+	R04741	green
+3-hydroxyacyl-CoA dehydrogenase	1.1.1.35	NADH	NAD+	R04743	green
+3-hydroxyacyl-CoA dehydrogenase	1.1.1.35	NADH	NAD+	R04745	green
+3-hydroxyacyl-CoA dehydrogenase	1.1.1.35	NADH	NAD+	R04748	green
+3-hydroxyacyl-CoA dehydrogenase / enoyl-CoA hydratase / 3-hydroxybutyryl-CoA epimerase	1.1.1.35	(R)-3-Hydroxybutanoyl-CoA	(S)-3-Hydroxybutanoyl-CoA	R03276	green
+3-hydroxyacyl-CoA dehydrogenase / enoyl-CoA hydratase / 3-hydroxybutyryl-CoA epimerase	1.1.1.35	(S)-3-Hydroxybutanoyl-CoA	(R)-3-Hydroxybutanoyl-CoA	R03276	green
+3-hydroxyacyl-CoA dehydrogenase / enoyl-CoA hydratase / 3-hydroxybutyryl-CoA epimerase	1.1.1.35	(S)-3-Hydroxybutanoyl-CoA	Acetoacetyl-CoA	R01975	green
+3-hydroxyacyl-CoA dehydrogenase / enoyl-CoA hydratase / 3-hydroxybutyryl-CoA epimerase	1.1.1.35	(S)-3-Hydroxybutanoyl-CoA	Crotonoyl-CoA	R03026	green
+3-hydroxyacyl-CoA dehydrogenase / enoyl-CoA hydratase / 3-hydroxybutyryl-CoA epimerase	1.1.1.35	(S)-3-Hydroxybutanoyl-CoA	H+	R01975	green
+3-hydroxyacyl-CoA dehydrogenase / enoyl-CoA hydratase / 3-hydroxybutyryl-CoA epimerase	1.1.1.35	(S)-3-Hydroxybutanoyl-CoA	H2O	R03026	green
+3-hydroxyacyl-CoA dehydrogenase / enoyl-CoA hydratase / 3-hydroxybutyryl-CoA epimerase	1.1.1.35	(S)-3-Hydroxybutanoyl-CoA	NADH	R01975	green
+3-hydroxyacyl-CoA dehydrogenase / enoyl-CoA hydratase / 3-hydroxybutyryl-CoA epimerase	1.1.1.35	(S)-3-Hydroxydodecanoyl-CoA	2-trans-Dodecenoyl-CoA	R04170	green
+3-hydroxyacyl-CoA dehydrogenase / enoyl-CoA hydratase / 3-hydroxybutyryl-CoA epimerase	1.1.1.35	(S)-3-Hydroxydodecanoyl-CoA	3-Oxododecanoyl-CoA	R04741	green
+3-hydroxyacyl-CoA dehydrogenase / enoyl-CoA hydratase / 3-hydroxybutyryl-CoA epimerase	1.1.1.35	(S)-3-Hydroxydodecanoyl-CoA	H+	R04741	green
+3-hydroxyacyl-CoA dehydrogenase / enoyl-CoA hydratase / 3-hydroxybutyryl-CoA epimerase	1.1.1.35	(S)-3-Hydroxydodecanoyl-CoA	H2O	R04170	green
+3-hydroxyacyl-CoA dehydrogenase / enoyl-CoA hydratase / 3-hydroxybutyryl-CoA epimerase	1.1.1.35	(S)-3-Hydroxydodecanoyl-CoA	NADH	R04741	green
+3-hydroxyacyl-CoA dehydrogenase / enoyl-CoA hydratase / 3-hydroxybutyryl-CoA epimerase	1.1.1.35	(S)-3-Hydroxyhexadecanoyl-CoA	3-Oxopalmitoyl-CoA	R04737	green
+3-hydroxyacyl-CoA dehydrogenase / enoyl-CoA hydratase / 3-hydroxybutyryl-CoA epimerase	1.1.1.35	(S)-3-Hydroxyhexadecanoyl-CoA	H+	R04737	green
+3-hydroxyacyl-CoA dehydrogenase / enoyl-CoA hydratase / 3-hydroxybutyryl-CoA epimerase	1.1.1.35	(S)-3-Hydroxyhexadecanoyl-CoA	H2O	R04738	green
+3-hydroxyacyl-CoA dehydrogenase / enoyl-CoA hydratase / 3-hydroxybutyryl-CoA epimerase	1.1.1.35	(S)-3-Hydroxyhexadecanoyl-CoA	NADH	R04737	green
+3-hydroxyacyl-CoA dehydrogenase / enoyl-CoA hydratase / 3-hydroxybutyryl-CoA epimerase	1.1.1.35	(S)-3-Hydroxyhexadecanoyl-CoA	trans-Hexadec-2-enoyl-CoA	R04738	green
+3-hydroxyacyl-CoA dehydrogenase / enoyl-CoA hydratase / 3-hydroxybutyryl-CoA epimerase	1.1.1.35	(S)-3-Hydroxyoctanoyl-CoA	3-Oxooctanoyl-CoA	R04745	green
+3-hydroxyacyl-CoA dehydrogenase / enoyl-CoA hydratase / 3-hydroxybutyryl-CoA epimerase	1.1.1.35	(S)-3-Hydroxyoctanoyl-CoA	H+	R04745	green
+3-hydroxyacyl-CoA dehydrogenase / enoyl-CoA hydratase / 3-hydroxybutyryl-CoA epimerase	1.1.1.35	(S)-3-Hydroxyoctanoyl-CoA	H2O	R04746	green
+3-hydroxyacyl-CoA dehydrogenase / enoyl-CoA hydratase / 3-hydroxybutyryl-CoA epimerase	1.1.1.35	(S)-3-Hydroxyoctanoyl-CoA	NADH	R04745	green
+3-hydroxyacyl-CoA dehydrogenase / enoyl-CoA hydratase / 3-hydroxybutyryl-CoA epimerase	1.1.1.35	(S)-3-Hydroxyoctanoyl-CoA	trans-Oct-2-enoyl-CoA	R04746	green
+3-hydroxyacyl-CoA dehydrogenase / enoyl-CoA hydratase / 3-hydroxybutyryl-CoA epimerase	1.1.1.35	(S)-3-Hydroxytetradecanoyl-CoA	3-Oxotetradecanoyl-CoA	R04739	green
+3-hydroxyacyl-CoA dehydrogenase / enoyl-CoA hydratase / 3-hydroxybutyryl-CoA epimerase	1.1.1.35	(S)-3-Hydroxytetradecanoyl-CoA	H2O	R04740	green
+3-hydroxyacyl-CoA dehydrogenase / enoyl-CoA hydratase / 3-hydroxybutyryl-CoA epimerase	1.1.1.35	(S)-3-Hydroxytetradecanoyl-CoA	NADH	R04739	green
+3-hydroxyacyl-CoA dehydrogenase / enoyl-CoA hydratase / 3-hydroxybutyryl-CoA epimerase	1.1.1.35	(S)-3-Hydroxytetradecanoyl-CoA	trans-Tetradec-2-enoyl-CoA	R04740	green
+3-hydroxyacyl-CoA dehydrogenase / enoyl-CoA hydratase / 3-hydroxybutyryl-CoA epimerase	1.1.1.35	(S)-Hydroxydecanoyl-CoA	3-Oxodecanoyl-CoA	R04743	green
+3-hydroxyacyl-CoA dehydrogenase / enoyl-CoA hydratase / 3-hydroxybutyryl-CoA epimerase	1.1.1.35	(S)-Hydroxydecanoyl-CoA	H+	R04743	green
+3-hydroxyacyl-CoA dehydrogenase / enoyl-CoA hydratase / 3-hydroxybutyryl-CoA epimerase	1.1.1.35	(S)-Hydroxydecanoyl-CoA	H2O	R04744	green
+3-hydroxyacyl-CoA dehydrogenase / enoyl-CoA hydratase / 3-hydroxybutyryl-CoA epimerase	1.1.1.35	(S)-Hydroxydecanoyl-CoA	NADH	R04743	green
+3-hydroxyacyl-CoA dehydrogenase / enoyl-CoA hydratase / 3-hydroxybutyryl-CoA epimerase	1.1.1.35	(S)-Hydroxydecanoyl-CoA	trans-Dec-2-enoyl-CoA	R04744	green
+3-hydroxyacyl-CoA dehydrogenase / enoyl-CoA hydratase / 3-hydroxybutyryl-CoA epimerase	1.1.1.35	(S)-Hydroxyhexanoyl-CoA	3-Oxohexanoyl-CoA	R04748	green
+3-hydroxyacyl-CoA dehydrogenase / enoyl-CoA hydratase / 3-hydroxybutyryl-CoA epimerase	1.1.1.35	(S)-Hydroxyhexanoyl-CoA	H+	R04748	green
+3-hydroxyacyl-CoA dehydrogenase / enoyl-CoA hydratase / 3-hydroxybutyryl-CoA epimerase	1.1.1.35	(S)-Hydroxyhexanoyl-CoA	H2O	R04749	green
+3-hydroxyacyl-CoA dehydrogenase / enoyl-CoA hydratase / 3-hydroxybutyryl-CoA epimerase	1.1.1.35	(S)-Hydroxyhexanoyl-CoA	NADH	R04748	green
+3-hydroxyacyl-CoA dehydrogenase / enoyl-CoA hydratase / 3-hydroxybutyryl-CoA epimerase	1.1.1.35	(S)-Hydroxyhexanoyl-CoA	trans-Hex-2-enoyl-CoA	R04749	green
+3-hydroxyacyl-CoA dehydrogenase / enoyl-CoA hydratase / 3-hydroxybutyryl-CoA epimerase	1.1.1.35	2-trans-Dodecenoyl-CoA	(S)-3-Hydroxydodecanoyl-CoA	R04170	green
+3-hydroxyacyl-CoA dehydrogenase / enoyl-CoA hydratase / 3-hydroxybutyryl-CoA epimerase	1.1.1.35	3-Oxodecanoyl-CoA	(S)-Hydroxydecanoyl-CoA	R04743	green
+3-hydroxyacyl-CoA dehydrogenase / enoyl-CoA hydratase / 3-hydroxybutyryl-CoA epimerase	1.1.1.35	3-Oxodecanoyl-CoA	NAD+	R04743	green
+3-hydroxyacyl-CoA dehydrogenase / enoyl-CoA hydratase / 3-hydroxybutyryl-CoA epimerase	1.1.1.35	3-Oxododecanoyl-CoA	(S)-3-Hydroxydodecanoyl-CoA	R04741	green
+3-hydroxyacyl-CoA dehydrogenase / enoyl-CoA hydratase / 3-hydroxybutyryl-CoA epimerase	1.1.1.35	3-Oxododecanoyl-CoA	NAD+	R04741	green
+3-hydroxyacyl-CoA dehydrogenase / enoyl-CoA hydratase / 3-hydroxybutyryl-CoA epimerase	1.1.1.35	3-Oxohexanoyl-CoA	(S)-Hydroxyhexanoyl-CoA	R04748	green
+3-hydroxyacyl-CoA dehydrogenase / enoyl-CoA hydratase / 3-hydroxybutyryl-CoA epimerase	1.1.1.35	3-Oxohexanoyl-CoA	NAD+	R04748	green
+3-hydroxyacyl-CoA dehydrogenase / enoyl-CoA hydratase / 3-hydroxybutyryl-CoA epimerase	1.1.1.35	3-Oxooctanoyl-CoA	(S)-3-Hydroxyoctanoyl-CoA	R04745	green
+3-hydroxyacyl-CoA dehydrogenase / enoyl-CoA hydratase / 3-hydroxybutyryl-CoA epimerase	1.1.1.35	3-Oxooctanoyl-CoA	NAD+	R04745	green
+3-hydroxyacyl-CoA dehydrogenase / enoyl-CoA hydratase / 3-hydroxybutyryl-CoA epimerase	1.1.1.35	3-Oxopalmitoyl-CoA	(S)-3-Hydroxyhexadecanoyl-CoA	R04737	green
+3-hydroxyacyl-CoA dehydrogenase / enoyl-CoA hydratase / 3-hydroxybutyryl-CoA epimerase	1.1.1.35	3-Oxopalmitoyl-CoA	NAD+	R04737	green
+3-hydroxyacyl-CoA dehydrogenase / enoyl-CoA hydratase / 3-hydroxybutyryl-CoA epimerase	1.1.1.35	3-Oxotetradecanoyl-CoA	(S)-3-Hydroxytetradecanoyl-CoA	R04739	green
+3-hydroxyacyl-CoA dehydrogenase / enoyl-CoA hydratase / 3-hydroxybutyryl-CoA epimerase	1.1.1.35	3-Oxotetradecanoyl-CoA	NAD+	R04739	green
+3-hydroxyacyl-CoA dehydrogenase / enoyl-CoA hydratase / 3-hydroxybutyryl-CoA epimerase	1.1.1.35	Acetoacetyl-CoA	(S)-3-Hydroxybutanoyl-CoA	R01975	green
+3-hydroxyacyl-CoA dehydrogenase / enoyl-CoA hydratase / 3-hydroxybutyryl-CoA epimerase	1.1.1.35	Acetoacetyl-CoA	NAD+	R01975	green
+3-hydroxyacyl-CoA dehydrogenase / enoyl-CoA hydratase / 3-hydroxybutyryl-CoA epimerase	1.1.1.35	Crotonoyl-CoA	(S)-3-Hydroxybutanoyl-CoA	R03026	green
+3-hydroxyacyl-CoA dehydrogenase / enoyl-CoA hydratase / 3-hydroxybutyryl-CoA epimerase	1.1.1.35	H+	(S)-3-Hydroxybutanoyl-CoA	R01975	green
+3-hydroxyacyl-CoA dehydrogenase / enoyl-CoA hydratase / 3-hydroxybutyryl-CoA epimerase	1.1.1.35	H+	(S)-3-Hydroxydodecanoyl-CoA	R04741	green
+3-hydroxyacyl-CoA dehydrogenase / enoyl-CoA hydratase / 3-hydroxybutyryl-CoA epimerase	1.1.1.35	H+	(S)-3-Hydroxyhexadecanoyl-CoA	R04737	green
+3-hydroxyacyl-CoA dehydrogenase / enoyl-CoA hydratase / 3-hydroxybutyryl-CoA epimerase	1.1.1.35	H+	(S)-3-Hydroxyoctanoyl-CoA	R04745	green
+3-hydroxyacyl-CoA dehydrogenase / enoyl-CoA hydratase / 3-hydroxybutyryl-CoA epimerase	1.1.1.35	H+	(S)-Hydroxydecanoyl-CoA	R04743	green
+3-hydroxyacyl-CoA dehydrogenase / enoyl-CoA hydratase / 3-hydroxybutyryl-CoA epimerase	1.1.1.35	H+	(S)-Hydroxyhexanoyl-CoA	R04748	green
+3-hydroxyacyl-CoA dehydrogenase / enoyl-CoA hydratase / 3-hydroxybutyryl-CoA epimerase	1.1.1.35	H+	NAD+	R01975	green
+3-hydroxyacyl-CoA dehydrogenase / enoyl-CoA hydratase / 3-hydroxybutyryl-CoA epimerase	1.1.1.35	H+	NAD+	R04737	green
+3-hydroxyacyl-CoA dehydrogenase / enoyl-CoA hydratase / 3-hydroxybutyryl-CoA epimerase	1.1.1.35	H+	NAD+	R04741	green
+3-hydroxyacyl-CoA dehydrogenase / enoyl-CoA hydratase / 3-hydroxybutyryl-CoA epimerase	1.1.1.35	H+	NAD+	R04743	green
+3-hydroxyacyl-CoA dehydrogenase / enoyl-CoA hydratase / 3-hydroxybutyryl-CoA epimerase	1.1.1.35	H+	NAD+	R04745	green
+3-hydroxyacyl-CoA dehydrogenase / enoyl-CoA hydratase / 3-hydroxybutyryl-CoA epimerase	1.1.1.35	H+	NAD+	R04748	green
+3-hydroxyacyl-CoA dehydrogenase / enoyl-CoA hydratase / 3-hydroxybutyryl-CoA epimerase	1.1.1.35	H2O	(S)-3-Hydroxybutanoyl-CoA	R03026	green
+3-hydroxyacyl-CoA dehydrogenase / enoyl-CoA hydratase / 3-hydroxybutyryl-CoA epimerase	1.1.1.35	H2O	(S)-3-Hydroxydodecanoyl-CoA	R04170	green
+3-hydroxyacyl-CoA dehydrogenase / enoyl-CoA hydratase / 3-hydroxybutyryl-CoA epimerase	1.1.1.35	H2O	(S)-3-Hydroxyhexadecanoyl-CoA	R04738	green
+3-hydroxyacyl-CoA dehydrogenase / enoyl-CoA hydratase / 3-hydroxybutyryl-CoA epimerase	1.1.1.35	H2O	(S)-3-Hydroxyoctanoyl-CoA	R04746	green
+3-hydroxyacyl-CoA dehydrogenase / enoyl-CoA hydratase / 3-hydroxybutyryl-CoA epimerase	1.1.1.35	H2O	(S)-3-Hydroxytetradecanoyl-CoA	R04740	green
+3-hydroxyacyl-CoA dehydrogenase / enoyl-CoA hydratase / 3-hydroxybutyryl-CoA epimerase	1.1.1.35	H2O	(S)-Hydroxydecanoyl-CoA	R04744	green
+3-hydroxyacyl-CoA dehydrogenase / enoyl-CoA hydratase / 3-hydroxybutyryl-CoA epimerase	1.1.1.35	H2O	(S)-Hydroxyhexanoyl-CoA	R04749	green
+3-hydroxyacyl-CoA dehydrogenase / enoyl-CoA hydratase / 3-hydroxybutyryl-CoA epimerase	1.1.1.35	NAD+	3-Oxodecanoyl-CoA	R04743	green
+3-hydroxyacyl-CoA dehydrogenase / enoyl-CoA hydratase / 3-hydroxybutyryl-CoA epimerase	1.1.1.35	NAD+	3-Oxododecanoyl-CoA	R04741	green
+3-hydroxyacyl-CoA dehydrogenase / enoyl-CoA hydratase / 3-hydroxybutyryl-CoA epimerase	1.1.1.35	NAD+	3-Oxohexanoyl-CoA	R04748	green
+3-hydroxyacyl-CoA dehydrogenase / enoyl-CoA hydratase / 3-hydroxybutyryl-CoA epimerase	1.1.1.35	NAD+	3-Oxooctanoyl-CoA	R04745	green
+3-hydroxyacyl-CoA dehydrogenase / enoyl-CoA hydratase / 3-hydroxybutyryl-CoA epimerase	1.1.1.35	NAD+	3-Oxopalmitoyl-CoA	R04737	green
+3-hydroxyacyl-CoA dehydrogenase / enoyl-CoA hydratase / 3-hydroxybutyryl-CoA epimerase	1.1.1.35	NAD+	3-Oxotetradecanoyl-CoA	R04739	green
+3-hydroxyacyl-CoA dehydrogenase / enoyl-CoA hydratase / 3-hydroxybutyryl-CoA epimerase	1.1.1.35	NAD+	Acetoacetyl-CoA	R01975	green
+3-hydroxyacyl-CoA dehydrogenase / enoyl-CoA hydratase / 3-hydroxybutyryl-CoA epimerase	1.1.1.35	NAD+	H+	R01975	green
+3-hydroxyacyl-CoA dehydrogenase / enoyl-CoA hydratase / 3-hydroxybutyryl-CoA epimerase	1.1.1.35	NAD+	H+	R04737	green
+3-hydroxyacyl-CoA dehydrogenase / enoyl-CoA hydratase / 3-hydroxybutyryl-CoA epimerase	1.1.1.35	NAD+	H+	R04741	green
+3-hydroxyacyl-CoA dehydrogenase / enoyl-CoA hydratase / 3-hydroxybutyryl-CoA epimerase	1.1.1.35	NAD+	H+	R04743	green
+3-hydroxyacyl-CoA dehydrogenase / enoyl-CoA hydratase / 3-hydroxybutyryl-CoA epimerase	1.1.1.35	NAD+	H+	R04745	green
+3-hydroxyacyl-CoA dehydrogenase / enoyl-CoA hydratase / 3-hydroxybutyryl-CoA epimerase	1.1.1.35	NAD+	H+	R04748	green
+3-hydroxyacyl-CoA dehydrogenase / enoyl-CoA hydratase / 3-hydroxybutyryl-CoA epimerase	1.1.1.35	NAD+	NADH	R01975	green
+3-hydroxyacyl-CoA dehydrogenase / enoyl-CoA hydratase / 3-hydroxybutyryl-CoA epimerase	1.1.1.35	NAD+	NADH	R04737	green
+3-hydroxyacyl-CoA dehydrogenase / enoyl-CoA hydratase / 3-hydroxybutyryl-CoA epimerase	1.1.1.35	NAD+	NADH	R04739	green
+3-hydroxyacyl-CoA dehydrogenase / enoyl-CoA hydratase / 3-hydroxybutyryl-CoA epimerase	1.1.1.35	NAD+	NADH	R04741	green
+3-hydroxyacyl-CoA dehydrogenase / enoyl-CoA hydratase / 3-hydroxybutyryl-CoA epimerase	1.1.1.35	NAD+	NADH	R04743	green
+3-hydroxyacyl-CoA dehydrogenase / enoyl-CoA hydratase / 3-hydroxybutyryl-CoA epimerase	1.1.1.35	NAD+	NADH	R04745	green
+3-hydroxyacyl-CoA dehydrogenase / enoyl-CoA hydratase / 3-hydroxybutyryl-CoA epimerase	1.1.1.35	NAD+	NADH	R04748	green
+3-hydroxyacyl-CoA dehydrogenase / enoyl-CoA hydratase / 3-hydroxybutyryl-CoA epimerase	1.1.1.35	NADH	(S)-3-Hydroxybutanoyl-CoA	R01975	green
+3-hydroxyacyl-CoA dehydrogenase / enoyl-CoA hydratase / 3-hydroxybutyryl-CoA epimerase	1.1.1.35	NADH	(S)-3-Hydroxydodecanoyl-CoA	R04741	green
+3-hydroxyacyl-CoA dehydrogenase / enoyl-CoA hydratase / 3-hydroxybutyryl-CoA epimerase	1.1.1.35	NADH	(S)-3-Hydroxyhexadecanoyl-CoA	R04737	green
+3-hydroxyacyl-CoA dehydrogenase / enoyl-CoA hydratase / 3-hydroxybutyryl-CoA epimerase	1.1.1.35	NADH	(S)-3-Hydroxyoctanoyl-CoA	R04745	green
+3-hydroxyacyl-CoA dehydrogenase / enoyl-CoA hydratase / 3-hydroxybutyryl-CoA epimerase	1.1.1.35	NADH	(S)-3-Hydroxytetradecanoyl-CoA	R04739	green
+3-hydroxyacyl-CoA dehydrogenase / enoyl-CoA hydratase / 3-hydroxybutyryl-CoA epimerase	1.1.1.35	NADH	(S)-Hydroxydecanoyl-CoA	R04743	green
+3-hydroxyacyl-CoA dehydrogenase / enoyl-CoA hydratase / 3-hydroxybutyryl-CoA epimerase	1.1.1.35	NADH	(S)-Hydroxyhexanoyl-CoA	R04748	green
+3-hydroxyacyl-CoA dehydrogenase / enoyl-CoA hydratase / 3-hydroxybutyryl-CoA epimerase	1.1.1.35	NADH	NAD+	R01975	green
+3-hydroxyacyl-CoA dehydrogenase / enoyl-CoA hydratase / 3-hydroxybutyryl-CoA epimerase	1.1.1.35	NADH	NAD+	R04737	green
+3-hydroxyacyl-CoA dehydrogenase / enoyl-CoA hydratase / 3-hydroxybutyryl-CoA epimerase	1.1.1.35	NADH	NAD+	R04739	green
+3-hydroxyacyl-CoA dehydrogenase / enoyl-CoA hydratase / 3-hydroxybutyryl-CoA epimerase	1.1.1.35	NADH	NAD+	R04741	green
+3-hydroxyacyl-CoA dehydrogenase / enoyl-CoA hydratase / 3-hydroxybutyryl-CoA epimerase	1.1.1.35	NADH	NAD+	R04743	green
+3-hydroxyacyl-CoA dehydrogenase / enoyl-CoA hydratase / 3-hydroxybutyryl-CoA epimerase	1.1.1.35	NADH	NAD+	R04745	green
+3-hydroxyacyl-CoA dehydrogenase / enoyl-CoA hydratase / 3-hydroxybutyryl-CoA epimerase	1.1.1.35	NADH	NAD+	R04748	green
+3-hydroxyacyl-CoA dehydrogenase / enoyl-CoA hydratase / 3-hydroxybutyryl-CoA epimerase	1.1.1.35	trans-Dec-2-enoyl-CoA	(S)-Hydroxydecanoyl-CoA	R04744	green
+3-hydroxyacyl-CoA dehydrogenase / enoyl-CoA hydratase / 3-hydroxybutyryl-CoA epimerase	1.1.1.35	trans-Hex-2-enoyl-CoA	(S)-Hydroxyhexanoyl-CoA	R04749	green
+3-hydroxyacyl-CoA dehydrogenase / enoyl-CoA hydratase / 3-hydroxybutyryl-CoA epimerase	1.1.1.35	trans-Hexadec-2-enoyl-CoA	(S)-3-Hydroxyhexadecanoyl-CoA	R04738	green
+3-hydroxyacyl-CoA dehydrogenase / enoyl-CoA hydratase / 3-hydroxybutyryl-CoA epimerase	1.1.1.35	trans-Oct-2-enoyl-CoA	(S)-3-Hydroxyoctanoyl-CoA	R04746	green
+3-hydroxyacyl-CoA dehydrogenase / enoyl-CoA hydratase / 3-hydroxybutyryl-CoA epimerase	1.1.1.35	trans-Tetradec-2-enoyl-CoA	(S)-3-Hydroxytetradecanoyl-CoA	R04740	green
+3-hydroxyacyl-CoA dehydrogenase / enoyl-CoA hydratase / 3-hydroxybutyryl-CoA epimerase / enoyl-CoA isomerase	1.1.1.35	(S)-3-Hydroxybutanoyl-CoA	Acetoacetyl-CoA	R01975	white
+3-hydroxyacyl-CoA dehydrogenase / enoyl-CoA hydratase / 3-hydroxybutyryl-CoA epimerase / enoyl-CoA isomerase	1.1.1.35	(S)-3-Hydroxybutanoyl-CoA	H+	R01975	white
+3-hydroxyacyl-CoA dehydrogenase / enoyl-CoA hydratase / 3-hydroxybutyryl-CoA epimerase / enoyl-CoA isomerase	1.1.1.35	(S)-3-Hydroxybutanoyl-CoA	NADH	R01975	white
+3-hydroxyacyl-CoA dehydrogenase / enoyl-CoA hydratase / 3-hydroxybutyryl-CoA epimerase / enoyl-CoA isomerase	1.1.1.35	Acetoacetyl-CoA	(S)-3-Hydroxybutanoyl-CoA	R01975	white
+3-hydroxyacyl-CoA dehydrogenase / enoyl-CoA hydratase / 3-hydroxybutyryl-CoA epimerase / enoyl-CoA isomerase	1.1.1.35	Acetoacetyl-CoA	NAD+	R01975	white
+3-hydroxyacyl-CoA dehydrogenase / enoyl-CoA hydratase / 3-hydroxybutyryl-CoA epimerase / enoyl-CoA isomerase	1.1.1.35	H+	(S)-3-Hydroxybutanoyl-CoA	R01975	white
+3-hydroxyacyl-CoA dehydrogenase / enoyl-CoA hydratase / 3-hydroxybutyryl-CoA epimerase / enoyl-CoA isomerase	1.1.1.35	H+	NAD+	R01975	white
+3-hydroxyacyl-CoA dehydrogenase / enoyl-CoA hydratase / 3-hydroxybutyryl-CoA epimerase / enoyl-CoA isomerase	1.1.1.35	NAD+	Acetoacetyl-CoA	R01975	white
+3-hydroxyacyl-CoA dehydrogenase / enoyl-CoA hydratase / 3-hydroxybutyryl-CoA epimerase / enoyl-CoA isomerase	1.1.1.35	NAD+	H+	R01975	white
+3-hydroxyacyl-CoA dehydrogenase / enoyl-CoA hydratase / 3-hydroxybutyryl-CoA epimerase / enoyl-CoA isomerase	1.1.1.35	NAD+	NADH	R01975	white
+3-hydroxyacyl-CoA dehydrogenase / enoyl-CoA hydratase / 3-hydroxybutyryl-CoA epimerase / enoyl-CoA isomerase	1.1.1.35	NADH	(S)-3-Hydroxybutanoyl-CoA	R01975	white
+3-hydroxyacyl-CoA dehydrogenase / enoyl-CoA hydratase / 3-hydroxybutyryl-CoA epimerase / enoyl-CoA isomerase	1.1.1.35	NADH	NAD+	R01975	white
+3-phenylpropionate/trans-cinnamate dioxygenase ferredoxin reductase component	1.18.1.3	H+	NADH	R02000	green
+3-phenylpropionate/trans-cinnamate dioxygenase ferredoxin reductase component	1.18.1.3	H+	Oxidized rubredoxin	R02000	green
+3-phenylpropionate/trans-cinnamate dioxygenase ferredoxin reductase component	1.18.1.3	NAD+	NADH	R02000	green
+3-phenylpropionate/trans-cinnamate dioxygenase ferredoxin reductase component	1.18.1.3	NAD+	Oxidized rubredoxin	R02000	green
+3-phenylpropionate/trans-cinnamate dioxygenase ferredoxin reductase component	1.18.1.3	NADH	H+	R02000	green
+3-phenylpropionate/trans-cinnamate dioxygenase ferredoxin reductase component	1.18.1.3	NADH	NAD+	R02000	green
+3-phenylpropionate/trans-cinnamate dioxygenase ferredoxin reductase component	1.18.1.3	NADH	Reduced rubredoxin	R02000	green
+3-phenylpropionate/trans-cinnamate dioxygenase ferredoxin reductase component	1.18.1.3	Oxidized rubredoxin	H+	R02000	green
+3-phenylpropionate/trans-cinnamate dioxygenase ferredoxin reductase component	1.18.1.3	Oxidized rubredoxin	NAD+	R02000	green
+3-phenylpropionate/trans-cinnamate dioxygenase ferredoxin reductase component	1.18.1.3	Oxidized rubredoxin	Reduced rubredoxin	R02000	green
+3-phenylpropionate/trans-cinnamate dioxygenase ferredoxin reductase component	1.18.1.3	Reduced rubredoxin	NADH	R02000	green
+3-phenylpropionate/trans-cinnamate dioxygenase ferredoxin reductase component	1.18.1.3	Reduced rubredoxin	Oxidized rubredoxin	R02000	green
+Delta3-Delta2-enoyl-CoA isomerase	5.3.3.8	cis,cis-3,6-Dodecadienoyl-CoA	trans,cis-Lauro-2,6-dienoyl-CoA	R04756	white
+Delta3-Delta2-enoyl-CoA isomerase	5.3.3.8	trans,cis-Lauro-2,6-dienoyl-CoA	cis,cis-3,6-Dodecadienoyl-CoA	R04756	white
+S-(hydroxymethyl)glutathione dehydrogenase / alcohol dehydrogenase	1.1.1.284	Aldehyde	NAD+	R00623	green
+S-(hydroxymethyl)glutathione dehydrogenase / alcohol dehydrogenase	1.1.1.284	Aldehyde	Primary alcohol	R00623	green
+S-(hydroxymethyl)glutathione dehydrogenase / alcohol dehydrogenase	1.1.1.284	H+	NAD+	R00623	green
+S-(hydroxymethyl)glutathione dehydrogenase / alcohol dehydrogenase	1.1.1.284	H+	Primary alcohol	R00623	green
+S-(hydroxymethyl)glutathione dehydrogenase / alcohol dehydrogenase	1.1.1.284	NAD+	Aldehyde	R00623	green
+S-(hydroxymethyl)glutathione dehydrogenase / alcohol dehydrogenase	1.1.1.284	NAD+	H+	R00623	green
+S-(hydroxymethyl)glutathione dehydrogenase / alcohol dehydrogenase	1.1.1.284	NAD+	NADH	R00623	green
+S-(hydroxymethyl)glutathione dehydrogenase / alcohol dehydrogenase	1.1.1.284	NADH	NAD+	R00623	green
+S-(hydroxymethyl)glutathione dehydrogenase / alcohol dehydrogenase	1.1.1.284	NADH	Primary alcohol	R00623	green
+S-(hydroxymethyl)glutathione dehydrogenase / alcohol dehydrogenase	1.1.1.284	Primary alcohol	Aldehyde	R00623	green
+S-(hydroxymethyl)glutathione dehydrogenase / alcohol dehydrogenase	1.1.1.284	Primary alcohol	H+	R00623	green
+S-(hydroxymethyl)glutathione dehydrogenase / alcohol dehydrogenase	1.1.1.284	Primary alcohol	NADH	R00623	green
+acetyl-CoA C-acetyltransferase	2.3.1.9	3-Oxohexanoyl-CoA	Acetyl-CoA	R01177	green
+acetyl-CoA C-acetyltransferase	2.3.1.9	3-Oxohexanoyl-CoA	Butanoyl-CoA	R01177	green
+acetyl-CoA C-acetyltransferase	2.3.1.9	Acetoacetyl-CoA	Acetyl-CoA	R00238	green
+acetyl-CoA C-acetyltransferase	2.3.1.9	Acetyl-CoA	3-Oxohexanoyl-CoA	R01177	green
+acetyl-CoA C-acetyltransferase	2.3.1.9	Acetyl-CoA	Acetoacetyl-CoA	R00238	green
+acetyl-CoA C-acetyltransferase	2.3.1.9	Acetyl-CoA	CoA	R00238	green
+acetyl-CoA C-acetyltransferase	2.3.1.9	Acetyl-CoA	CoA	R01177	green
+acetyl-CoA C-acetyltransferase	2.3.1.9	Butanoyl-CoA	3-Oxohexanoyl-CoA	R01177	green
+acetyl-CoA C-acetyltransferase	2.3.1.9	Butanoyl-CoA	CoA	R01177	green
+acetyl-CoA C-acetyltransferase	2.3.1.9	CoA	Acetyl-CoA	R00238	green
+acetyl-CoA C-acetyltransferase	2.3.1.9	CoA	Acetyl-CoA	R01177	green
+acetyl-CoA C-acetyltransferase	2.3.1.9	CoA	Butanoyl-CoA	R01177	green
+acetyl-CoA acyltransferase	2.3.1.16	3-Oxodecanoyl-CoA	Acetyl-CoA	R03778	green
+acetyl-CoA acyltransferase	2.3.1.16	3-Oxodecanoyl-CoA	Octanoyl-CoA	R03778	green
+acetyl-CoA acyltransferase	2.3.1.16	3-Oxododecanoyl-CoA	Acetyl-CoA	R04742	green
+acetyl-CoA acyltransferase	2.3.1.16	3-Oxododecanoyl-CoA	Decanoyl-CoA	R04742	green
+acetyl-CoA acyltransferase	2.3.1.16	3-Oxohexanoyl-CoA	Acetyl-CoA	R01177	green
+acetyl-CoA acyltransferase	2.3.1.16	3-Oxohexanoyl-CoA	Butanoyl-CoA	R01177	green
+acetyl-CoA acyltransferase	2.3.1.16	3-Oxooctanoyl-CoA	Acetyl-CoA	R04747	green
+acetyl-CoA acyltransferase	2.3.1.16	3-Oxooctanoyl-CoA	Hexanoyl-CoA	R04747	green
+acetyl-CoA acyltransferase	2.3.1.16	3-Oxopalmitoyl-CoA	Acetyl-CoA	R03991	green
+acetyl-CoA acyltransferase	2.3.1.16	3-Oxopalmitoyl-CoA	Tetradecanoyl-CoA	R03991	green
+acetyl-CoA acyltransferase	2.3.1.16	3-Oxotetradecanoyl-CoA	Acetyl-CoA	R03858	green
+acetyl-CoA acyltransferase	2.3.1.16	3-Oxotetradecanoyl-CoA	Lauroyl-CoA	R03858	green
+acetyl-CoA acyltransferase	2.3.1.16	Acetoacetyl-CoA	Acetyl-CoA	R00238	green
+acetyl-CoA acyltransferase	2.3.1.16	Acetyl-CoA	3-Oxodecanoyl-CoA	R03778	green
+acetyl-CoA acyltransferase	2.3.1.16	Acetyl-CoA	3-Oxododecanoyl-CoA	R04742	green
+acetyl-CoA acyltransferase	2.3.1.16	Acetyl-CoA	3-Oxohexanoyl-CoA	R01177	green
+acetyl-CoA acyltransferase	2.3.1.16	Acetyl-CoA	3-Oxooctanoyl-CoA	R04747	green
+acetyl-CoA acyltransferase	2.3.1.16	Acetyl-CoA	3-Oxopalmitoyl-CoA	R03991	green
+acetyl-CoA acyltransferase	2.3.1.16	Acetyl-CoA	3-Oxotetradecanoyl-CoA	R03858	green
+acetyl-CoA acyltransferase	2.3.1.16	Acetyl-CoA	Acetoacetyl-CoA	R00238	green
+acetyl-CoA acyltransferase	2.3.1.16	Acetyl-CoA	CoA	R00238	green
+acetyl-CoA acyltransferase	2.3.1.16	Acetyl-CoA	CoA	R01177	green
+acetyl-CoA acyltransferase	2.3.1.16	Acetyl-CoA	CoA	R03778	green
+acetyl-CoA acyltransferase	2.3.1.16	Acetyl-CoA	CoA	R03858	green
+acetyl-CoA acyltransferase	2.3.1.16	Acetyl-CoA	CoA	R03991	green
+acetyl-CoA acyltransferase	2.3.1.16	Acetyl-CoA	CoA	R04742	green
+acetyl-CoA acyltransferase	2.3.1.16	Acetyl-CoA	CoA	R04747	green
+acetyl-CoA acyltransferase	2.3.1.16	Butanoyl-CoA	3-Oxohexanoyl-CoA	R01177	green
+acetyl-CoA acyltransferase	2.3.1.16	Butanoyl-CoA	CoA	R01177	green
+acetyl-CoA acyltransferase	2.3.1.16	CoA	Acetyl-CoA	R00238	green
+acetyl-CoA acyltransferase	2.3.1.16	CoA	Acetyl-CoA	R01177	green
+acetyl-CoA acyltransferase	2.3.1.16	CoA	Acetyl-CoA	R03778	green
+acetyl-CoA acyltransferase	2.3.1.16	CoA	Acetyl-CoA	R03858	green
+acetyl-CoA acyltransferase	2.3.1.16	CoA	Acetyl-CoA	R03991	green
+acetyl-CoA acyltransferase	2.3.1.16	CoA	Acetyl-CoA	R04742	green
+acetyl-CoA acyltransferase	2.3.1.16	CoA	Acetyl-CoA	R04747	green
+acetyl-CoA acyltransferase	2.3.1.16	CoA	Butanoyl-CoA	R01177	green
+acetyl-CoA acyltransferase	2.3.1.16	CoA	Decanoyl-CoA	R04742	green
+acetyl-CoA acyltransferase	2.3.1.16	CoA	Hexanoyl-CoA	R04747	green
+acetyl-CoA acyltransferase	2.3.1.16	CoA	Lauroyl-CoA	R03858	green
+acetyl-CoA acyltransferase	2.3.1.16	CoA	Octanoyl-CoA	R03778	green
+acetyl-CoA acyltransferase	2.3.1.16	CoA	Tetradecanoyl-CoA	R03991	green
+acetyl-CoA acyltransferase	2.3.1.16	Decanoyl-CoA	3-Oxododecanoyl-CoA	R04742	green
+acetyl-CoA acyltransferase	2.3.1.16	Decanoyl-CoA	CoA	R04742	green
+acetyl-CoA acyltransferase	2.3.1.16	Hexanoyl-CoA	3-Oxooctanoyl-CoA	R04747	green
+acetyl-CoA acyltransferase	2.3.1.16	Hexanoyl-CoA	CoA	R04747	green
+acetyl-CoA acyltransferase	2.3.1.16	Lauroyl-CoA	3-Oxotetradecanoyl-CoA	R03858	green
+acetyl-CoA acyltransferase	2.3.1.16	Lauroyl-CoA	CoA	R03858	green
+acetyl-CoA acyltransferase	2.3.1.16	Octanoyl-CoA	3-Oxodecanoyl-CoA	R03778	green
+acetyl-CoA acyltransferase	2.3.1.16	Octanoyl-CoA	CoA	R03778	green
+acetyl-CoA acyltransferase	2.3.1.16	Tetradecanoyl-CoA	3-Oxopalmitoyl-CoA	R03991	green
+acetyl-CoA acyltransferase	2.3.1.16	Tetradecanoyl-CoA	CoA	R03991	green
+acyl-CoA dehydrogenase	1.3.8.7	Butanoyl-CoA	Crotonoyl-CoA	R01175	green
+acyl-CoA dehydrogenase	1.3.8.7	Butanoyl-CoA	Crotonoyl-CoA	R01175	white
+acyl-CoA dehydrogenase	1.3.8.7	Butanoyl-CoA	FADH2	R01175	green
+acyl-CoA dehydrogenase	1.3.8.7	Butanoyl-CoA	FADH2	R01175	white
+acyl-CoA dehydrogenase	1.3.8.7	Crotonoyl-CoA	Butanoyl-CoA	R01175	white
+acyl-CoA dehydrogenase	1.3.8.7	Crotonoyl-CoA	FAD	R01175	white
+acyl-CoA dehydrogenase	1.3.8.7	Decanoyl-CoA	FADH2	R04754	green
+acyl-CoA dehydrogenase	1.3.8.7	Decanoyl-CoA	trans-Dec-2-enoyl-CoA	R04754	green
+acyl-CoA dehydrogenase	1.3.8.7	FAD	2-trans-Dodecenoyl-CoA	R03857	green
+acyl-CoA dehydrogenase	1.3.8.7	FAD	Crotonoyl-CoA	R01175	green
+acyl-CoA dehydrogenase	1.3.8.7	FAD	Crotonoyl-CoA	R01175	white
+acyl-CoA dehydrogenase	1.3.8.7	FAD	FADH2	R01175	green
+acyl-CoA dehydrogenase	1.3.8.7	FAD	FADH2	R01175	white
+acyl-CoA dehydrogenase	1.3.8.7	FAD	FADH2	R01279	green
+acyl-CoA dehydrogenase	1.3.8.7	FAD	FADH2	R03777	green
+acyl-CoA dehydrogenase	1.3.8.7	FAD	FADH2	R03857	green
+acyl-CoA dehydrogenase	1.3.8.7	FAD	FADH2	R03990	green
+acyl-CoA dehydrogenase	1.3.8.7	FAD	FADH2	R04751	green
+acyl-CoA dehydrogenase	1.3.8.7	FAD	FADH2	R04754	green
+acyl-CoA dehydrogenase	1.3.8.7	FAD	trans-Dec-2-enoyl-CoA	R04754	green
+acyl-CoA dehydrogenase	1.3.8.7	FAD	trans-Hex-2-enoyl-CoA	R04751	green
+acyl-CoA dehydrogenase	1.3.8.7	FAD	trans-Hexadec-2-enoyl-CoA	R01279	green
+acyl-CoA dehydrogenase	1.3.8.7	FAD	trans-Oct-2-enoyl-CoA	R03777	green
+acyl-CoA dehydrogenase	1.3.8.7	FAD	trans-Tetradec-2-enoyl-CoA	R03990	green
+acyl-CoA dehydrogenase	1.3.8.7	FADH2	Butanoyl-CoA	R01175	white
+acyl-CoA dehydrogenase	1.3.8.7	FADH2	FAD	R01175	white
+acyl-CoA dehydrogenase	1.3.8.7	Hexanoyl-CoA	FADH2	R04751	green
+acyl-CoA dehydrogenase	1.3.8.7	Hexanoyl-CoA	trans-Hex-2-enoyl-CoA	R04751	green
+acyl-CoA dehydrogenase	1.3.8.7	Lauroyl-CoA	2-trans-Dodecenoyl-CoA	R03857	green
+acyl-CoA dehydrogenase	1.3.8.7	Lauroyl-CoA	FADH2	R03857	green
+acyl-CoA dehydrogenase	1.3.8.7	Octanoyl-CoA	FADH2	R03777	green
+acyl-CoA dehydrogenase	1.3.8.7	Octanoyl-CoA	trans-Oct-2-enoyl-CoA	R03777	green
+acyl-CoA dehydrogenase	1.3.8.7	Palmitoyl-CoA	FADH2	R01279	green
+acyl-CoA dehydrogenase	1.3.8.7	Palmitoyl-CoA	trans-Hexadec-2-enoyl-CoA	R01279	green
+acyl-CoA dehydrogenase	1.3.8.7	Tetradecanoyl-CoA	FADH2	R03990	green
+acyl-CoA dehydrogenase	1.3.8.7	Tetradecanoyl-CoA	trans-Tetradec-2-enoyl-CoA	R03990	green
+acyl-CoA oxidase	1.3.3.6	Butanoyl-CoA	Crotonoyl-CoA	R01175	green
+acyl-CoA oxidase	1.3.3.6	Butanoyl-CoA	FADH2	R01175	green
+acyl-CoA oxidase	1.3.3.6	Decanoyl-CoA	FADH2	R04754	green
+acyl-CoA oxidase	1.3.3.6	Decanoyl-CoA	trans-Dec-2-enoyl-CoA	R04754	green
+acyl-CoA oxidase	1.3.3.6	FAD	2-trans-Dodecenoyl-CoA	R03857	green
+acyl-CoA oxidase	1.3.3.6	FAD	Crotonoyl-CoA	R01175	green
+acyl-CoA oxidase	1.3.3.6	FAD	FADH2	R01175	green
+acyl-CoA oxidase	1.3.3.6	FAD	FADH2	R01279	green
+acyl-CoA oxidase	1.3.3.6	FAD	FADH2	R03777	green
+acyl-CoA oxidase	1.3.3.6	FAD	FADH2	R03857	green
+acyl-CoA oxidase	1.3.3.6	FAD	FADH2	R03990	green
+acyl-CoA oxidase	1.3.3.6	FAD	FADH2	R04751	green
+acyl-CoA oxidase	1.3.3.6	FAD	FADH2	R04754	green
+acyl-CoA oxidase	1.3.3.6	FAD	trans-Dec-2-enoyl-CoA	R04754	green
+acyl-CoA oxidase	1.3.3.6	FAD	trans-Hex-2-enoyl-CoA	R04751	green
+acyl-CoA oxidase	1.3.3.6	FAD	trans-Hexadec-2-enoyl-CoA	R01279	green
+acyl-CoA oxidase	1.3.3.6	FAD	trans-Oct-2-enoyl-CoA	R03777	green
+acyl-CoA oxidase	1.3.3.6	FAD	trans-Tetradec-2-enoyl-CoA	R03990	green
+acyl-CoA oxidase	1.3.3.6	Hexanoyl-CoA	FADH2	R04751	green
+acyl-CoA oxidase	1.3.3.6	Hexanoyl-CoA	trans-Hex-2-enoyl-CoA	R04751	green
+acyl-CoA oxidase	1.3.3.6	Lauroyl-CoA	2-trans-Dodecenoyl-CoA	R03857	green
+acyl-CoA oxidase	1.3.3.6	Lauroyl-CoA	FADH2	R03857	green
+acyl-CoA oxidase	1.3.3.6	Octanoyl-CoA	FADH2	R03777	green
+acyl-CoA oxidase	1.3.3.6	Octanoyl-CoA	trans-Oct-2-enoyl-CoA	R03777	green
+acyl-CoA oxidase	1.3.3.6	Palmitoyl-CoA	FADH2	R01279	green
+acyl-CoA oxidase	1.3.3.6	Palmitoyl-CoA	trans-Hexadec-2-enoyl-CoA	R01279	green
+acyl-CoA oxidase	1.3.3.6	Tetradecanoyl-CoA	FADH2	R03990	green
+acyl-CoA oxidase	1.3.3.6	Tetradecanoyl-CoA	trans-Tetradec-2-enoyl-CoA	R03990	green
+acyl-[acyl-carrier-protein]-phospholipid O-acyltransferase / long-chain-fatty-acid--[acyl-carrier-protein] ligase	2.3.1.40	AMP	ATP	R01406	white
+acyl-[acyl-carrier-protein]-phospholipid O-acyltransferase / long-chain-fatty-acid--[acyl-carrier-protein] ligase	2.3.1.40	AMP	Acyl-carrier protein	R01406	white
+acyl-[acyl-carrier-protein]-phospholipid O-acyltransferase / long-chain-fatty-acid--[acyl-carrier-protein] ligase	2.3.1.40	AMP	Long-chain fatty acid	R01406	white
+acyl-[acyl-carrier-protein]-phospholipid O-acyltransferase / long-chain-fatty-acid--[acyl-carrier-protein] ligase	2.3.1.40	ATP	AMP	R01406	white
+acyl-[acyl-carrier-protein]-phospholipid O-acyltransferase / long-chain-fatty-acid--[acyl-carrier-protein] ligase	2.3.1.40	ATP	Diphosphate	R01406	white
+acyl-[acyl-carrier-protein]-phospholipid O-acyltransferase / long-chain-fatty-acid--[acyl-carrier-protein] ligase	2.3.1.40	ATP	Long-chain acyl-[acyl-carrier protein]	R01406	white
+acyl-[acyl-carrier-protein]-phospholipid O-acyltransferase / long-chain-fatty-acid--[acyl-carrier-protein] ligase	2.3.1.40	Acyl-carrier protein	AMP	R01406	white
+acyl-[acyl-carrier-protein]-phospholipid O-acyltransferase / long-chain-fatty-acid--[acyl-carrier-protein] ligase	2.3.1.40	Acyl-carrier protein	Diphosphate	R01406	white
+acyl-[acyl-carrier-protein]-phospholipid O-acyltransferase / long-chain-fatty-acid--[acyl-carrier-protein] ligase	2.3.1.40	Acyl-carrier protein	Long-chain acyl-[acyl-carrier protein]	R01406	white
+acyl-[acyl-carrier-protein]-phospholipid O-acyltransferase / long-chain-fatty-acid--[acyl-carrier-protein] ligase	2.3.1.40	Diphosphate	ATP	R01406	white
+acyl-[acyl-carrier-protein]-phospholipid O-acyltransferase / long-chain-fatty-acid--[acyl-carrier-protein] ligase	2.3.1.40	Diphosphate	Acyl-carrier protein	R01406	white
+acyl-[acyl-carrier-protein]-phospholipid O-acyltransferase / long-chain-fatty-acid--[acyl-carrier-protein] ligase	2.3.1.40	Diphosphate	Long-chain fatty acid	R01406	white
+acyl-[acyl-carrier-protein]-phospholipid O-acyltransferase / long-chain-fatty-acid--[acyl-carrier-protein] ligase	2.3.1.40	Long-chain acyl-[acyl-carrier protein]	ATP	R01406	white
+acyl-[acyl-carrier-protein]-phospholipid O-acyltransferase / long-chain-fatty-acid--[acyl-carrier-protein] ligase	2.3.1.40	Long-chain acyl-[acyl-carrier protein]	Acyl-carrier protein	R01406	white
+acyl-[acyl-carrier-protein]-phospholipid O-acyltransferase / long-chain-fatty-acid--[acyl-carrier-protein] ligase	2.3.1.40	Long-chain acyl-[acyl-carrier protein]	Long-chain fatty acid	R01406	white
+acyl-[acyl-carrier-protein]-phospholipid O-acyltransferase / long-chain-fatty-acid--[acyl-carrier-protein] ligase	2.3.1.40	Long-chain fatty acid	AMP	R01406	white
+acyl-[acyl-carrier-protein]-phospholipid O-acyltransferase / long-chain-fatty-acid--[acyl-carrier-protein] ligase	2.3.1.40	Long-chain fatty acid	Diphosphate	R01406	white
+acyl-[acyl-carrier-protein]-phospholipid O-acyltransferase / long-chain-fatty-acid--[acyl-carrier-protein] ligase	2.3.1.40	Long-chain fatty acid	Long-chain acyl-[acyl-carrier protein]	R01406	white
+alcohol dehydrogenase	1.1.1.1	Aldehyde	NAD+	R00623	green
+alcohol dehydrogenase	1.1.1.1	Aldehyde	Primary alcohol	R00623	green
+alcohol dehydrogenase	1.1.1.1	H+	NAD+	R00623	green
+alcohol dehydrogenase	1.1.1.1	H+	Primary alcohol	R00623	green
+alcohol dehydrogenase	1.1.1.1	NAD+	Aldehyde	R00623	green
+alcohol dehydrogenase	1.1.1.1	NAD+	H+	R00623	green
+alcohol dehydrogenase	1.1.1.1	NAD+	NADH	R00623	green
+alcohol dehydrogenase	1.1.1.1	NADH	NAD+	R00623	green
+alcohol dehydrogenase	1.1.1.1	NADH	Primary alcohol	R00623	green
+alcohol dehydrogenase	1.1.1.1	Primary alcohol	Aldehyde	R00623	green
+alcohol dehydrogenase	1.1.1.1	Primary alcohol	H+	R00623	green
+alcohol dehydrogenase	1.1.1.1	Primary alcohol	NADH	R00623	green
+alcohol dehydrogenase, propanol-preferring	1.1.1.1	Aldehyde	NAD+	R00623	green
+alcohol dehydrogenase, propanol-preferring	1.1.1.1	Aldehyde	Primary alcohol	R00623	green
+alcohol dehydrogenase, propanol-preferring	1.1.1.1	H+	NAD+	R00623	green
+alcohol dehydrogenase, propanol-preferring	1.1.1.1	H+	Primary alcohol	R00623	green
+alcohol dehydrogenase, propanol-preferring	1.1.1.1	NAD+	Aldehyde	R00623	green
+alcohol dehydrogenase, propanol-preferring	1.1.1.1	NAD+	H+	R00623	green
+alcohol dehydrogenase, propanol-preferring	1.1.1.1	NAD+	NADH	R00623	green
+alcohol dehydrogenase, propanol-preferring	1.1.1.1	NADH	NAD+	R00623	green
+alcohol dehydrogenase, propanol-preferring	1.1.1.1	NADH	Primary alcohol	R00623	green
+alcohol dehydrogenase, propanol-preferring	1.1.1.1	Primary alcohol	Aldehyde	R00623	green
+alcohol dehydrogenase, propanol-preferring	1.1.1.1	Primary alcohol	H+	R00623	green
+alcohol dehydrogenase, propanol-preferring	1.1.1.1	Primary alcohol	NADH	R00623	green
+aldehyde dehydrogenase (NAD+)	1.2.1.3	Aldehyde	Fatty acid	R00631	green
+aldehyde dehydrogenase (NAD+)	1.2.1.3	Aldehyde	H+	R00631	green
+aldehyde dehydrogenase (NAD+)	1.2.1.3	Aldehyde	NADH	R00631	green
+aldehyde dehydrogenase (NAD+)	1.2.1.3	Fatty acid	Aldehyde	R00631	green
+aldehyde dehydrogenase (NAD+)	1.2.1.3	Fatty acid	H2O	R00631	green
+aldehyde dehydrogenase (NAD+)	1.2.1.3	Fatty acid	NAD+	R00631	green
+aldehyde dehydrogenase (NAD+)	1.2.1.3	H+	Aldehyde	R00631	green
+aldehyde dehydrogenase (NAD+)	1.2.1.3	H+	H2O	R00631	green
+aldehyde dehydrogenase (NAD+)	1.2.1.3	H+	NAD+	R00631	green
+aldehyde dehydrogenase (NAD+)	1.2.1.3	H2O	Fatty acid	R00631	green
+aldehyde dehydrogenase (NAD+)	1.2.1.3	H2O	H+	R00631	green
+aldehyde dehydrogenase (NAD+)	1.2.1.3	H2O	NADH	R00631	green
+aldehyde dehydrogenase (NAD+)	1.2.1.3	NAD+	Fatty acid	R00631	green
+aldehyde dehydrogenase (NAD+)	1.2.1.3	NAD+	H+	R00631	green
+aldehyde dehydrogenase (NAD+)	1.2.1.3	NAD+	NADH	R00631	green
+aldehyde dehydrogenase (NAD+)	1.2.1.3	NADH	Aldehyde	R00631	green
+aldehyde dehydrogenase (NAD+)	1.2.1.3	NADH	H2O	R00631	green
+aldehyde dehydrogenase (NAD+)	1.2.1.3	NADH	NAD+	R00631	green
+alkane 1-monooxygenase	1.14.15.3	Alkane	H2O	R02281	green
+alkane 1-monooxygenase	1.14.15.3	Alkane	Oxidized rubredoxin	R02281	green
+alkane 1-monooxygenase	1.14.15.3	Alkane	Primary alcohol	R02281	green
+alkane 1-monooxygenase	1.14.15.3	Fatty acid	H2O	R01347	green
+alkane 1-monooxygenase	1.14.15.3	Fatty acid	Oxidized rubredoxin	R01347	green
+alkane 1-monooxygenase	1.14.15.3	Fatty acid	omega-Hydroxy fatty acid	R01347	green
+alkane 1-monooxygenase	1.14.15.3	H+	H2O	R01347	green
+alkane 1-monooxygenase	1.14.15.3	H+	H2O	R02281	green
+alkane 1-monooxygenase	1.14.15.3	H+	Oxidized rubredoxin	R01347	green
+alkane 1-monooxygenase	1.14.15.3	H+	Oxidized rubredoxin	R02281	green
+alkane 1-monooxygenase	1.14.15.3	H+	Primary alcohol	R02281	green
+alkane 1-monooxygenase	1.14.15.3	H+	omega-Hydroxy fatty acid	R01347	green
+alkane 1-monooxygenase	1.14.15.3	Oxygen	H2O	R01347	green
+alkane 1-monooxygenase	1.14.15.3	Oxygen	H2O	R02281	green
+alkane 1-monooxygenase	1.14.15.3	Oxygen	Oxidized rubredoxin	R01347	green
+alkane 1-monooxygenase	1.14.15.3	Oxygen	Oxidized rubredoxin	R02281	green
+alkane 1-monooxygenase	1.14.15.3	Oxygen	Primary alcohol	R02281	green
+alkane 1-monooxygenase	1.14.15.3	Oxygen	omega-Hydroxy fatty acid	R01347	green
+alkane 1-monooxygenase	1.14.15.3	Reduced rubredoxin	H2O	R01347	green
+alkane 1-monooxygenase	1.14.15.3	Reduced rubredoxin	H2O	R02281	green
+alkane 1-monooxygenase	1.14.15.3	Reduced rubredoxin	Oxidized rubredoxin	R01347	green
+alkane 1-monooxygenase	1.14.15.3	Reduced rubredoxin	Oxidized rubredoxin	R02281	green
+alkane 1-monooxygenase	1.14.15.3	Reduced rubredoxin	Primary alcohol	R02281	green
+alkane 1-monooxygenase	1.14.15.3	Reduced rubredoxin	omega-Hydroxy fatty acid	R01347	green
+butyryl-CoA dehydrogenase	1.3.8.1	Butanoyl-CoA	Crotonoyl-CoA	R01175	white
+butyryl-CoA dehydrogenase	1.3.8.1	Butanoyl-CoA	FADH2	R01175	white
+butyryl-CoA dehydrogenase	1.3.8.1	Crotonoyl-CoA	Butanoyl-CoA	R01175	white
+butyryl-CoA dehydrogenase	1.3.8.1	Crotonoyl-CoA	FAD	R01175	white
+butyryl-CoA dehydrogenase	1.3.8.1	FAD	Crotonoyl-CoA	R01175	white
+butyryl-CoA dehydrogenase	1.3.8.1	FAD	FADH2	R01175	white
+butyryl-CoA dehydrogenase	1.3.8.1	FADH2	Butanoyl-CoA	R01175	white
+butyryl-CoA dehydrogenase	1.3.8.1	FADH2	FAD	R01175	white
+carnitine O-palmitoyltransferase 1, brain isoform	2.3.1.21	CoA	L-Carnitine	R01923	white
+carnitine O-palmitoyltransferase 1, brain isoform	2.3.1.21	CoA	Palmitoyl-CoA	R01923	white
+carnitine O-palmitoyltransferase 1, brain isoform	2.3.1.21	L-Carnitine	CoA	R01923	white
+carnitine O-palmitoyltransferase 1, brain isoform	2.3.1.21	L-Carnitine	L-Palmitoylcarnitine	R01923	white
+carnitine O-palmitoyltransferase 1, brain isoform	2.3.1.21	L-Palmitoylcarnitine	L-Carnitine	R01923	white
+carnitine O-palmitoyltransferase 1, brain isoform	2.3.1.21	L-Palmitoylcarnitine	Palmitoyl-CoA	R01923	white
+carnitine O-palmitoyltransferase 1, brain isoform	2.3.1.21	Palmitoyl-CoA	CoA	R01923	white
+carnitine O-palmitoyltransferase 1, brain isoform	2.3.1.21	Palmitoyl-CoA	L-Palmitoylcarnitine	R01923	white
+carnitine O-palmitoyltransferase 1, liver isoform	2.3.1.21	CoA	L-Carnitine	R01923	white
+carnitine O-palmitoyltransferase 1, liver isoform	2.3.1.21	CoA	Palmitoyl-CoA	R01923	white
+carnitine O-palmitoyltransferase 1, liver isoform	2.3.1.21	L-Carnitine	CoA	R01923	white
+carnitine O-palmitoyltransferase 1, liver isoform	2.3.1.21	L-Carnitine	L-Palmitoylcarnitine	R01923	white
+carnitine O-palmitoyltransferase 1, liver isoform	2.3.1.21	L-Palmitoylcarnitine	L-Carnitine	R01923	white
+carnitine O-palmitoyltransferase 1, liver isoform	2.3.1.21	L-Palmitoylcarnitine	Palmitoyl-CoA	R01923	white
+carnitine O-palmitoyltransferase 1, liver isoform	2.3.1.21	Palmitoyl-CoA	CoA	R01923	white
+carnitine O-palmitoyltransferase 1, liver isoform	2.3.1.21	Palmitoyl-CoA	L-Palmitoylcarnitine	R01923	white
+carnitine O-palmitoyltransferase 1, muscle isoform	2.3.1.21	CoA	L-Carnitine	R01923	white
+carnitine O-palmitoyltransferase 1, muscle isoform	2.3.1.21	CoA	Palmitoyl-CoA	R01923	white
+carnitine O-palmitoyltransferase 1, muscle isoform	2.3.1.21	L-Carnitine	CoA	R01923	white
+carnitine O-palmitoyltransferase 1, muscle isoform	2.3.1.21	L-Carnitine	L-Palmitoylcarnitine	R01923	white
+carnitine O-palmitoyltransferase 1, muscle isoform	2.3.1.21	L-Palmitoylcarnitine	L-Carnitine	R01923	white
+carnitine O-palmitoyltransferase 1, muscle isoform	2.3.1.21	L-Palmitoylcarnitine	Palmitoyl-CoA	R01923	white
+carnitine O-palmitoyltransferase 1, muscle isoform	2.3.1.21	Palmitoyl-CoA	CoA	R01923	white
+carnitine O-palmitoyltransferase 1, muscle isoform	2.3.1.21	Palmitoyl-CoA	L-Palmitoylcarnitine	R01923	white
+carnitine O-palmitoyltransferase 2	2.3.1.21	CoA	L-Carnitine	R01923	white
+carnitine O-palmitoyltransferase 2	2.3.1.21	CoA	Palmitoyl-CoA	R01923	white
+carnitine O-palmitoyltransferase 2	2.3.1.21	L-Carnitine	CoA	R01923	white
+carnitine O-palmitoyltransferase 2	2.3.1.21	L-Carnitine	L-Palmitoylcarnitine	R01923	white
+carnitine O-palmitoyltransferase 2	2.3.1.21	L-Palmitoylcarnitine	L-Carnitine	R01923	white
+carnitine O-palmitoyltransferase 2	2.3.1.21	L-Palmitoylcarnitine	Palmitoyl-CoA	R01923	white
+carnitine O-palmitoyltransferase 2	2.3.1.21	Palmitoyl-CoA	CoA	R01923	white
+carnitine O-palmitoyltransferase 2	2.3.1.21	Palmitoyl-CoA	L-Palmitoylcarnitine	R01923	white
+cytochrome P450 / NADPH-cytochrome P450 reductase	1.14.14.1	6-Hydroxymelatonin	Melatonin	R03629	white
+cytochrome P450 / NADPH-cytochrome P450 reductase	1.14.14.1	6-Hydroxymelatonin	Oxygen	R03629	white
+cytochrome P450 / NADPH-cytochrome P450 reductase	1.14.14.1	6-Hydroxymelatonin	[Reduced NADPH---hemoprotein reductase]	R03629	white
+cytochrome P450 / NADPH-cytochrome P450 reductase	1.14.14.1	H2O	Melatonin	R03629	white
+cytochrome P450 / NADPH-cytochrome P450 reductase	1.14.14.1	H2O	Oxygen	R03629	white
+cytochrome P450 / NADPH-cytochrome P450 reductase	1.14.14.1	H2O	[Reduced NADPH---hemoprotein reductase]	R03629	white
+cytochrome P450 / NADPH-cytochrome P450 reductase	1.14.14.1	Melatonin	6-Hydroxymelatonin	R03629	white
+cytochrome P450 / NADPH-cytochrome P450 reductase	1.14.14.1	Melatonin	H2O	R03629	white
+cytochrome P450 / NADPH-cytochrome P450 reductase	1.14.14.1	Melatonin	[Oxidized NADPH---hemoprotein reductase]	R03629	white
+cytochrome P450 / NADPH-cytochrome P450 reductase	1.14.14.1	Oxygen	6-Hydroxymelatonin	R03629	white
+cytochrome P450 / NADPH-cytochrome P450 reductase	1.14.14.1	Oxygen	H2O	R03629	white
+cytochrome P450 / NADPH-cytochrome P450 reductase	1.14.14.1	Oxygen	[Oxidized NADPH---hemoprotein reductase]	R03629	white
+cytochrome P450 / NADPH-cytochrome P450 reductase	1.14.14.1	[Oxidized NADPH---hemoprotein reductase]	Melatonin	R03629	white
+cytochrome P450 / NADPH-cytochrome P450 reductase	1.14.14.1	[Oxidized NADPH---hemoprotein reductase]	Oxygen	R03629	white
+cytochrome P450 / NADPH-cytochrome P450 reductase	1.14.14.1	[Oxidized NADPH---hemoprotein reductase]	[Reduced NADPH---hemoprotein reductase]	R03629	white
+cytochrome P450 / NADPH-cytochrome P450 reductase	1.14.14.1	[Reduced NADPH---hemoprotein reductase]	6-Hydroxymelatonin	R03629	white
+cytochrome P450 / NADPH-cytochrome P450 reductase	1.14.14.1	[Reduced NADPH---hemoprotein reductase]	H2O	R03629	white
+cytochrome P450 / NADPH-cytochrome P450 reductase	1.14.14.1	[Reduced NADPH---hemoprotein reductase]	[Oxidized NADPH---hemoprotein reductase]	R03629	white
+enoyl-CoA hydratase	4.2.1.17	(S)-3-Hydroxybutanoyl-CoA	Crotonoyl-CoA	R03026	green
+enoyl-CoA hydratase	4.2.1.17	(S)-3-Hydroxybutanoyl-CoA	H2O	R03026	green
+enoyl-CoA hydratase	4.2.1.17	(S)-3-Hydroxydodecanoyl-CoA	2-trans-Dodecenoyl-CoA	R04170	green
+enoyl-CoA hydratase	4.2.1.17	(S)-3-Hydroxydodecanoyl-CoA	H2O	R04170	green
+enoyl-CoA hydratase	4.2.1.17	(S)-3-Hydroxyhexadecanoyl-CoA	H2O	R04738	green
+enoyl-CoA hydratase	4.2.1.17	(S)-3-Hydroxyhexadecanoyl-CoA	trans-Hexadec-2-enoyl-CoA	R04738	green
+enoyl-CoA hydratase	4.2.1.17	(S)-3-Hydroxyoctanoyl-CoA	H2O	R04746	green
+enoyl-CoA hydratase	4.2.1.17	(S)-3-Hydroxyoctanoyl-CoA	trans-Oct-2-enoyl-CoA	R04746	green
+enoyl-CoA hydratase	4.2.1.17	(S)-3-Hydroxytetradecanoyl-CoA	H2O	R04740	green
+enoyl-CoA hydratase	4.2.1.17	(S)-3-Hydroxytetradecanoyl-CoA	trans-Tetradec-2-enoyl-CoA	R04740	green
+enoyl-CoA hydratase	4.2.1.17	(S)-Hydroxydecanoyl-CoA	H2O	R04744	green
+enoyl-CoA hydratase	4.2.1.17	(S)-Hydroxydecanoyl-CoA	trans-Dec-2-enoyl-CoA	R04744	green
+enoyl-CoA hydratase	4.2.1.17	(S)-Hydroxyhexanoyl-CoA	H2O	R04749	green
+enoyl-CoA hydratase	4.2.1.17	(S)-Hydroxyhexanoyl-CoA	trans-Hex-2-enoyl-CoA	R04749	green
+enoyl-CoA hydratase	4.2.1.17	2-trans-Dodecenoyl-CoA	(S)-3-Hydroxydodecanoyl-CoA	R04170	green
+enoyl-CoA hydratase	4.2.1.17	Crotonoyl-CoA	(S)-3-Hydroxybutanoyl-CoA	R03026	green
+enoyl-CoA hydratase	4.2.1.17	H2O	(S)-3-Hydroxybutanoyl-CoA	R03026	green
+enoyl-CoA hydratase	4.2.1.17	H2O	(S)-3-Hydroxydodecanoyl-CoA	R04170	green
+enoyl-CoA hydratase	4.2.1.17	H2O	(S)-3-Hydroxyhexadecanoyl-CoA	R04738	green
+enoyl-CoA hydratase	4.2.1.17	H2O	(S)-3-Hydroxyoctanoyl-CoA	R04746	green
+enoyl-CoA hydratase	4.2.1.17	H2O	(S)-3-Hydroxytetradecanoyl-CoA	R04740	green
+enoyl-CoA hydratase	4.2.1.17	H2O	(S)-Hydroxydecanoyl-CoA	R04744	green
+enoyl-CoA hydratase	4.2.1.17	H2O	(S)-Hydroxyhexanoyl-CoA	R04749	green
+enoyl-CoA hydratase	4.2.1.17	trans-Dec-2-enoyl-CoA	(S)-Hydroxydecanoyl-CoA	R04744	green
+enoyl-CoA hydratase	4.2.1.17	trans-Hex-2-enoyl-CoA	(S)-Hydroxyhexanoyl-CoA	R04749	green
+enoyl-CoA hydratase	4.2.1.17	trans-Hexadec-2-enoyl-CoA	(S)-3-Hydroxyhexadecanoyl-CoA	R04738	green
+enoyl-CoA hydratase	4.2.1.17	trans-Oct-2-enoyl-CoA	(S)-3-Hydroxyoctanoyl-CoA	R04746	green
+enoyl-CoA hydratase	4.2.1.17	trans-Tetradec-2-enoyl-CoA	(S)-3-Hydroxytetradecanoyl-CoA	R04740	green
+enoyl-CoA hydratase / 3-hydroxyacyl-CoA dehydrogenase / 3,2-trans-enoyl-CoA isomerase	4.2.1.17	(S)-3-Hydroxybutanoyl-CoA	Acetoacetyl-CoA	R01975	white
+enoyl-CoA hydratase / 3-hydroxyacyl-CoA dehydrogenase / 3,2-trans-enoyl-CoA isomerase	4.2.1.17	(S)-3-Hydroxybutanoyl-CoA	H+	R01975	white
+enoyl-CoA hydratase / 3-hydroxyacyl-CoA dehydrogenase / 3,2-trans-enoyl-CoA isomerase	4.2.1.17	(S)-3-Hydroxybutanoyl-CoA	NADH	R01975	white
+enoyl-CoA hydratase / 3-hydroxyacyl-CoA dehydrogenase / 3,2-trans-enoyl-CoA isomerase	4.2.1.17	Acetoacetyl-CoA	(S)-3-Hydroxybutanoyl-CoA	R01975	white
+enoyl-CoA hydratase / 3-hydroxyacyl-CoA dehydrogenase / 3,2-trans-enoyl-CoA isomerase	4.2.1.17	Acetoacetyl-CoA	NAD+	R01975	white
+enoyl-CoA hydratase / 3-hydroxyacyl-CoA dehydrogenase / 3,2-trans-enoyl-CoA isomerase	4.2.1.17	H+	(S)-3-Hydroxybutanoyl-CoA	R01975	white
+enoyl-CoA hydratase / 3-hydroxyacyl-CoA dehydrogenase / 3,2-trans-enoyl-CoA isomerase	4.2.1.17	H+	NAD+	R01975	white
+enoyl-CoA hydratase / 3-hydroxyacyl-CoA dehydrogenase / 3,2-trans-enoyl-CoA isomerase	4.2.1.17	NAD+	Acetoacetyl-CoA	R01975	white
+enoyl-CoA hydratase / 3-hydroxyacyl-CoA dehydrogenase / 3,2-trans-enoyl-CoA isomerase	4.2.1.17	NAD+	H+	R01975	white
+enoyl-CoA hydratase / 3-hydroxyacyl-CoA dehydrogenase / 3,2-trans-enoyl-CoA isomerase	4.2.1.17	NAD+	NADH	R01975	white
+enoyl-CoA hydratase / 3-hydroxyacyl-CoA dehydrogenase / 3,2-trans-enoyl-CoA isomerase	4.2.1.17	NADH	(S)-3-Hydroxybutanoyl-CoA	R01975	white
+enoyl-CoA hydratase / 3-hydroxyacyl-CoA dehydrogenase / 3,2-trans-enoyl-CoA isomerase	4.2.1.17	NADH	NAD+	R01975	white
+enoyl-CoA hydratase / long-chain 3-hydroxyacyl-CoA dehydrogenase	4.2.1.17	(3S)-3-Hydroxyacyl-CoA	3-Oxoacyl-CoA	R01778	white
+enoyl-CoA hydratase / long-chain 3-hydroxyacyl-CoA dehydrogenase	4.2.1.17	(3S)-3-Hydroxyacyl-CoA	H+	R01778	white
+enoyl-CoA hydratase / long-chain 3-hydroxyacyl-CoA dehydrogenase	4.2.1.17	(3S)-3-Hydroxyacyl-CoA	NADH	R01778	white
+enoyl-CoA hydratase / long-chain 3-hydroxyacyl-CoA dehydrogenase	4.2.1.17	3-Oxoacyl-CoA	(3S)-3-Hydroxyacyl-CoA	R01778	white
+enoyl-CoA hydratase / long-chain 3-hydroxyacyl-CoA dehydrogenase	4.2.1.17	3-Oxoacyl-CoA	NAD+	R01778	white
+enoyl-CoA hydratase / long-chain 3-hydroxyacyl-CoA dehydrogenase	4.2.1.17	H+	(3S)-3-Hydroxyacyl-CoA	R01778	white
+enoyl-CoA hydratase / long-chain 3-hydroxyacyl-CoA dehydrogenase	4.2.1.17	H+	NAD+	R01778	white
+enoyl-CoA hydratase / long-chain 3-hydroxyacyl-CoA dehydrogenase	4.2.1.17	NAD+	3-Oxoacyl-CoA	R01778	white
+enoyl-CoA hydratase / long-chain 3-hydroxyacyl-CoA dehydrogenase	4.2.1.17	NAD+	H+	R01778	white
+enoyl-CoA hydratase / long-chain 3-hydroxyacyl-CoA dehydrogenase	4.2.1.17	NAD+	NADH	R01778	white
+enoyl-CoA hydratase / long-chain 3-hydroxyacyl-CoA dehydrogenase	4.2.1.17	NADH	(3S)-3-Hydroxyacyl-CoA	R01778	white
+enoyl-CoA hydratase / long-chain 3-hydroxyacyl-CoA dehydrogenase	4.2.1.17	NADH	NAD+	R01778	white
+enoyl-CoA hydratase/3-hydroxyacyl-CoA dehydrogenase	4.2.1.17	(S)-3-Hydroxybutanoyl-CoA	Acetoacetyl-CoA	R01975	white
+enoyl-CoA hydratase/3-hydroxyacyl-CoA dehydrogenase	4.2.1.17	(S)-3-Hydroxybutanoyl-CoA	H+	R01975	white
+enoyl-CoA hydratase/3-hydroxyacyl-CoA dehydrogenase	4.2.1.17	(S)-3-Hydroxybutanoyl-CoA	NADH	R01975	white
+enoyl-CoA hydratase/3-hydroxyacyl-CoA dehydrogenase	4.2.1.17	Acetoacetyl-CoA	(S)-3-Hydroxybutanoyl-CoA	R01975	white
+enoyl-CoA hydratase/3-hydroxyacyl-CoA dehydrogenase	4.2.1.17	Acetoacetyl-CoA	NAD+	R01975	white
+enoyl-CoA hydratase/3-hydroxyacyl-CoA dehydrogenase	4.2.1.17	H+	(S)-3-Hydroxybutanoyl-CoA	R01975	white
+enoyl-CoA hydratase/3-hydroxyacyl-CoA dehydrogenase	4.2.1.17	H+	NAD+	R01975	white
+enoyl-CoA hydratase/3-hydroxyacyl-CoA dehydrogenase	4.2.1.17	NAD+	Acetoacetyl-CoA	R01975	white
+enoyl-CoA hydratase/3-hydroxyacyl-CoA dehydrogenase	4.2.1.17	NAD+	H+	R01975	white
+enoyl-CoA hydratase/3-hydroxyacyl-CoA dehydrogenase	4.2.1.17	NAD+	NADH	R01975	white
+enoyl-CoA hydratase/3-hydroxyacyl-CoA dehydrogenase	4.2.1.17	NADH	(S)-3-Hydroxybutanoyl-CoA	R01975	white
+enoyl-CoA hydratase/3-hydroxyacyl-CoA dehydrogenase	4.2.1.17	NADH	NAD+	R01975	white
+glutaryl-CoA dehydrogenase	1.3.8.6	FAD	CO2	R02487	green
+glutaryl-CoA dehydrogenase	1.3.8.6	FAD	Crotonoyl-CoA	R02487	green
+glutaryl-CoA dehydrogenase	1.3.8.6	FAD	FADH2	R02487	green
+glutaryl-CoA dehydrogenase	1.3.8.6	Glutaryl-CoA	CO2	R02487	green
+glutaryl-CoA dehydrogenase	1.3.8.6	Glutaryl-CoA	Crotonoyl-CoA	R02487	green
+glutaryl-CoA dehydrogenase	1.3.8.6	Glutaryl-CoA	FADH2	R02487	green
+long-chain fatty acid omega-monooxygenase	1.14.14.80	Fatty acid	H2O	R01348	white
+long-chain fatty acid omega-monooxygenase	1.14.14.80	Fatty acid	[Oxidized NADPH---hemoprotein reductase]	R01348	white
+long-chain fatty acid omega-monooxygenase	1.14.14.80	Fatty acid	omega-Hydroxy fatty acid	R01348	white
+long-chain fatty acid omega-monooxygenase	1.14.14.80	H2O	Fatty acid	R01348	white
+long-chain fatty acid omega-monooxygenase	1.14.14.80	H2O	Oxygen	R01348	white
+long-chain fatty acid omega-monooxygenase	1.14.14.80	H2O	[Reduced NADPH---hemoprotein reductase]	R01348	white
+long-chain fatty acid omega-monooxygenase	1.14.14.80	Oxygen	H2O	R01348	white
+long-chain fatty acid omega-monooxygenase	1.14.14.80	Oxygen	[Oxidized NADPH---hemoprotein reductase]	R01348	white
+long-chain fatty acid omega-monooxygenase	1.14.14.80	Oxygen	omega-Hydroxy fatty acid	R01348	white
+long-chain fatty acid omega-monooxygenase	1.14.14.80	[Oxidized NADPH---hemoprotein reductase]	Fatty acid	R01348	white
+long-chain fatty acid omega-monooxygenase	1.14.14.80	[Oxidized NADPH---hemoprotein reductase]	Oxygen	R01348	white
+long-chain fatty acid omega-monooxygenase	1.14.14.80	[Oxidized NADPH---hemoprotein reductase]	[Reduced NADPH---hemoprotein reductase]	R01348	white
+long-chain fatty acid omega-monooxygenase	1.14.14.80	[Reduced NADPH---hemoprotein reductase]	H2O	R01348	white
+long-chain fatty acid omega-monooxygenase	1.14.14.80	[Reduced NADPH---hemoprotein reductase]	[Oxidized NADPH---hemoprotein reductase]	R01348	white
+long-chain fatty acid omega-monooxygenase	1.14.14.80	[Reduced NADPH---hemoprotein reductase]	omega-Hydroxy fatty acid	R01348	white
+long-chain fatty acid omega-monooxygenase	1.14.14.80	omega-Hydroxy fatty acid	Fatty acid	R01348	white
+long-chain fatty acid omega-monooxygenase	1.14.14.80	omega-Hydroxy fatty acid	Oxygen	R01348	white
+long-chain fatty acid omega-monooxygenase	1.14.14.80	omega-Hydroxy fatty acid	[Reduced NADPH---hemoprotein reductase]	R01348	white
+long-chain-acyl-CoA dehydrogenase	1.3.8.8	Decanoyl-CoA	FADH2	R04754	green
+long-chain-acyl-CoA dehydrogenase	1.3.8.8	Decanoyl-CoA	trans-Dec-2-enoyl-CoA	R04754	green
+long-chain-acyl-CoA dehydrogenase	1.3.8.8	FAD	2-trans-Dodecenoyl-CoA	R03857	green
+long-chain-acyl-CoA dehydrogenase	1.3.8.8	FAD	FADH2	R01279	green
+long-chain-acyl-CoA dehydrogenase	1.3.8.8	FAD	FADH2	R03777	green
+long-chain-acyl-CoA dehydrogenase	1.3.8.8	FAD	FADH2	R03857	green
+long-chain-acyl-CoA dehydrogenase	1.3.8.8	FAD	FADH2	R03990	green
+long-chain-acyl-CoA dehydrogenase	1.3.8.8	FAD	FADH2	R04751	green
+long-chain-acyl-CoA dehydrogenase	1.3.8.8	FAD	FADH2	R04754	green
+long-chain-acyl-CoA dehydrogenase	1.3.8.8	FAD	trans-Dec-2-enoyl-CoA	R04754	green
+long-chain-acyl-CoA dehydrogenase	1.3.8.8	FAD	trans-Hex-2-enoyl-CoA	R04751	green
+long-chain-acyl-CoA dehydrogenase	1.3.8.8	FAD	trans-Hexadec-2-enoyl-CoA	R01279	green
+long-chain-acyl-CoA dehydrogenase	1.3.8.8	FAD	trans-Oct-2-enoyl-CoA	R03777	green
+long-chain-acyl-CoA dehydrogenase	1.3.8.8	FAD	trans-Tetradec-2-enoyl-CoA	R03990	green
+long-chain-acyl-CoA dehydrogenase	1.3.8.8	Hexanoyl-CoA	FADH2	R04751	green
+long-chain-acyl-CoA dehydrogenase	1.3.8.8	Hexanoyl-CoA	trans-Hex-2-enoyl-CoA	R04751	green
+long-chain-acyl-CoA dehydrogenase	1.3.8.8	Lauroyl-CoA	2-trans-Dodecenoyl-CoA	R03857	green
+long-chain-acyl-CoA dehydrogenase	1.3.8.8	Lauroyl-CoA	FADH2	R03857	green
+long-chain-acyl-CoA dehydrogenase	1.3.8.8	Octanoyl-CoA	FADH2	R03777	green
+long-chain-acyl-CoA dehydrogenase	1.3.8.8	Octanoyl-CoA	trans-Oct-2-enoyl-CoA	R03777	green
+long-chain-acyl-CoA dehydrogenase	1.3.8.8	Palmitoyl-CoA	FADH2	R01279	green
+long-chain-acyl-CoA dehydrogenase	1.3.8.8	Palmitoyl-CoA	trans-Hexadec-2-enoyl-CoA	R01279	green
+long-chain-acyl-CoA dehydrogenase	1.3.8.8	Tetradecanoyl-CoA	FADH2	R03990	green
+long-chain-acyl-CoA dehydrogenase	1.3.8.8	Tetradecanoyl-CoA	trans-Tetradec-2-enoyl-CoA	R03990	green
+long-chain-fatty-acid---CoA ligase	6.2.1.3	AMP	ATP	R01280	green
+long-chain-fatty-acid---CoA ligase	6.2.1.3	AMP	CoA	R01280	green
+long-chain-fatty-acid---CoA ligase	6.2.1.3	AMP	Hexadecanoic acid	R01280	green
+long-chain-fatty-acid---CoA ligase	6.2.1.3	ATP	AMP	R01280	green
+long-chain-fatty-acid---CoA ligase	6.2.1.3	ATP	Diphosphate	R01280	green
+long-chain-fatty-acid---CoA ligase	6.2.1.3	ATP	Palmitoyl-CoA	R01280	green
+long-chain-fatty-acid---CoA ligase	6.2.1.3	CoA	AMP	R01280	green
+long-chain-fatty-acid---CoA ligase	6.2.1.3	CoA	Diphosphate	R01280	green
+long-chain-fatty-acid---CoA ligase	6.2.1.3	CoA	Palmitoyl-CoA	R01280	green
+long-chain-fatty-acid---CoA ligase	6.2.1.3	Diphosphate	ATP	R01280	green
+long-chain-fatty-acid---CoA ligase	6.2.1.3	Diphosphate	CoA	R01280	green
+long-chain-fatty-acid---CoA ligase	6.2.1.3	Diphosphate	Hexadecanoic acid	R01280	green
+long-chain-fatty-acid---CoA ligase	6.2.1.3	Hexadecanoic acid	AMP	R01280	green
+long-chain-fatty-acid---CoA ligase	6.2.1.3	Hexadecanoic acid	Diphosphate	R01280	green
+long-chain-fatty-acid---CoA ligase	6.2.1.3	Hexadecanoic acid	Palmitoyl-CoA	R01280	green
+long-chain-fatty-acid---CoA ligase	6.2.1.3	Palmitoyl-CoA	ATP	R01280	green
+long-chain-fatty-acid---CoA ligase	6.2.1.3	Palmitoyl-CoA	CoA	R01280	green
+long-chain-fatty-acid---CoA ligase	6.2.1.3	Palmitoyl-CoA	Hexadecanoic acid	R01280	green
+long-chain-fatty-acid--[acyl-carrier-protein] ligase	6.2.1.20	AMP	ATP	R01406	white
+long-chain-fatty-acid--[acyl-carrier-protein] ligase	6.2.1.20	AMP	Acyl-carrier protein	R01406	white
+long-chain-fatty-acid--[acyl-carrier-protein] ligase	6.2.1.20	AMP	Long-chain fatty acid	R01406	white
+long-chain-fatty-acid--[acyl-carrier-protein] ligase	6.2.1.20	ATP	AMP	R01406	white
+long-chain-fatty-acid--[acyl-carrier-protein] ligase	6.2.1.20	ATP	Diphosphate	R01406	white
+long-chain-fatty-acid--[acyl-carrier-protein] ligase	6.2.1.20	ATP	Long-chain acyl-[acyl-carrier protein]	R01406	white
+long-chain-fatty-acid--[acyl-carrier-protein] ligase	6.2.1.20	Acyl-carrier protein	AMP	R01406	white
+long-chain-fatty-acid--[acyl-carrier-protein] ligase	6.2.1.20	Acyl-carrier protein	Diphosphate	R01406	white
+long-chain-fatty-acid--[acyl-carrier-protein] ligase	6.2.1.20	Acyl-carrier protein	Long-chain acyl-[acyl-carrier protein]	R01406	white
+long-chain-fatty-acid--[acyl-carrier-protein] ligase	6.2.1.20	Diphosphate	ATP	R01406	white
+long-chain-fatty-acid--[acyl-carrier-protein] ligase	6.2.1.20	Diphosphate	Acyl-carrier protein	R01406	white
+long-chain-fatty-acid--[acyl-carrier-protein] ligase	6.2.1.20	Diphosphate	Long-chain fatty acid	R01406	white
+long-chain-fatty-acid--[acyl-carrier-protein] ligase	6.2.1.20	Long-chain acyl-[acyl-carrier protein]	ATP	R01406	white
+long-chain-fatty-acid--[acyl-carrier-protein] ligase	6.2.1.20	Long-chain acyl-[acyl-carrier protein]	Acyl-carrier protein	R01406	white
+long-chain-fatty-acid--[acyl-carrier-protein] ligase	6.2.1.20	Long-chain acyl-[acyl-carrier protein]	Long-chain fatty acid	R01406	white
+long-chain-fatty-acid--[acyl-carrier-protein] ligase	6.2.1.20	Long-chain fatty acid	AMP	R01406	white
+long-chain-fatty-acid--[acyl-carrier-protein] ligase	6.2.1.20	Long-chain fatty acid	Diphosphate	R01406	white
+long-chain-fatty-acid--[acyl-carrier-protein] ligase	6.2.1.20	Long-chain fatty acid	Long-chain acyl-[acyl-carrier protein]	R01406	white
+rubredoxin---NAD(P)+ reductase	1.18.1.4	H+	NADH	R02000	white
+rubredoxin---NAD(P)+ reductase	1.18.1.4	H+	Oxidized rubredoxin	R02000	white
+rubredoxin---NAD(P)+ reductase	1.18.1.4	NAD+	NADH	R02000	white
+rubredoxin---NAD(P)+ reductase	1.18.1.4	NAD+	Oxidized rubredoxin	R02000	white
+rubredoxin---NAD(P)+ reductase	1.18.1.4	NADH	H+	R02000	white
+rubredoxin---NAD(P)+ reductase	1.18.1.4	NADH	NAD+	R02000	white
+rubredoxin---NAD(P)+ reductase	1.18.1.4	NADH	Reduced rubredoxin	R02000	white
+rubredoxin---NAD(P)+ reductase	1.18.1.4	Oxidized rubredoxin	H+	R02000	white
+rubredoxin---NAD(P)+ reductase	1.18.1.4	Oxidized rubredoxin	NAD+	R02000	white
+rubredoxin---NAD(P)+ reductase	1.18.1.4	Oxidized rubredoxin	Reduced rubredoxin	R02000	white
+rubredoxin---NAD(P)+ reductase	1.18.1.4	Reduced rubredoxin	NADH	R02000	white
+rubredoxin---NAD(P)+ reductase	1.18.1.4	Reduced rubredoxin	Oxidized rubredoxin	R02000	white
+rubredoxin---NAD+ reductase	1.18.1.1	H+	NADH	R02000	white
+rubredoxin---NAD+ reductase	1.18.1.1	H+	Oxidized rubredoxin	R02000	white
+rubredoxin---NAD+ reductase	1.18.1.1	NAD+	NADH	R02000	white
+rubredoxin---NAD+ reductase	1.18.1.1	NAD+	Oxidized rubredoxin	R02000	white
+rubredoxin---NAD+ reductase	1.18.1.1	NADH	H+	R02000	white
+rubredoxin---NAD+ reductase	1.18.1.1	NADH	NAD+	R02000	white
+rubredoxin---NAD+ reductase	1.18.1.1	NADH	Reduced rubredoxin	R02000	white
+rubredoxin---NAD+ reductase	1.18.1.1	Oxidized rubredoxin	H+	R02000	white
+rubredoxin---NAD+ reductase	1.18.1.1	Oxidized rubredoxin	NAD+	R02000	white
+rubredoxin---NAD+ reductase	1.18.1.1	Oxidized rubredoxin	Reduced rubredoxin	R02000	white
+rubredoxin---NAD+ reductase	1.18.1.1	Reduced rubredoxin	NADH	R02000	white
+rubredoxin---NAD+ reductase	1.18.1.1	Reduced rubredoxin	Oxidized rubredoxin	R02000	white
+short-chain 2-methylacyl-CoA dehydrogenase	1.3.8.5	Butanoyl-CoA	Crotonoyl-CoA	R01175	white
+short-chain 2-methylacyl-CoA dehydrogenase	1.3.8.5	Butanoyl-CoA	FADH2	R01175	white
+short-chain 2-methylacyl-CoA dehydrogenase	1.3.8.5	Crotonoyl-CoA	Butanoyl-CoA	R01175	white
+short-chain 2-methylacyl-CoA dehydrogenase	1.3.8.5	Crotonoyl-CoA	FAD	R01175	white
+short-chain 2-methylacyl-CoA dehydrogenase	1.3.8.5	FAD	Crotonoyl-CoA	R01175	white
+short-chain 2-methylacyl-CoA dehydrogenase	1.3.8.5	FAD	FADH2	R01175	white
+short-chain 2-methylacyl-CoA dehydrogenase	1.3.8.5	FADH2	Butanoyl-CoA	R01175	white
+short-chain 2-methylacyl-CoA dehydrogenase	1.3.8.5	FADH2	FAD	R01175	white
+very long chain acyl-CoA dehydrogenase	1.3.8.9	FAD	FADH2	R01279	white
+very long chain acyl-CoA dehydrogenase	1.3.8.9	FAD	trans-Hexadec-2-enoyl-CoA	R01279	white
+very long chain acyl-CoA dehydrogenase	1.3.8.9	FADH2	FAD	R01279	white
+very long chain acyl-CoA dehydrogenase	1.3.8.9	FADH2	Palmitoyl-CoA	R01279	white
+very long chain acyl-CoA dehydrogenase	1.3.8.9	Palmitoyl-CoA	FADH2	R01279	white
+very long chain acyl-CoA dehydrogenase	1.3.8.9	Palmitoyl-CoA	trans-Hexadec-2-enoyl-CoA	R01279	white
+very long chain acyl-CoA dehydrogenase	1.3.8.9	trans-Hexadec-2-enoyl-CoA	FAD	R01279	white
+very long chain acyl-CoA dehydrogenase	1.3.8.9	trans-Hexadec-2-enoyl-CoA	Palmitoyl-CoA	R01279	white

@@ -1,247 +1,251 @@
-enzyme_name	EC	source	target	color
-(S)-3,5-dihydroxyphenylglycine transaminase	2.6.1.103	3-(4-Hydroxyphenyl)pyruvate	4-Hydroxyphenylglyoxylate	white
-(S)-3,5-dihydroxyphenylglycine transaminase	2.6.1.103	3-(4-Hydroxyphenyl)pyruvate	L-Tyrosine	white
-(S)-3,5-dihydroxyphenylglycine transaminase	2.6.1.103	4-Hydroxyphenylglyoxylate	3-(4-Hydroxyphenyl)pyruvate	white
-(S)-3,5-dihydroxyphenylglycine transaminase	2.6.1.103	4-Hydroxyphenylglyoxylate	L-4-Hydroxyphenylglycine	white
-(S)-3,5-dihydroxyphenylglycine transaminase	2.6.1.103	L-4-Hydroxyphenylglycine	4-Hydroxyphenylglyoxylate	white
-(S)-3,5-dihydroxyphenylglycine transaminase	2.6.1.103	L-4-Hydroxyphenylglycine	L-Tyrosine	white
-(S)-3,5-dihydroxyphenylglycine transaminase	2.6.1.103	L-Tyrosine	3-(4-Hydroxyphenyl)pyruvate	white
-(S)-3,5-dihydroxyphenylglycine transaminase	2.6.1.103	L-Tyrosine	L-4-Hydroxyphenylglycine	white
-4-hydroxy-tetrahydrodipicolinate reductase	1.17.1.8	2,3,4,5-Tetrahydrodipicolinate	(2S,4S)-4-Hydroxy-2,3,4,5-tetrahydrodipicolinate	green
-4-hydroxy-tetrahydrodipicolinate reductase	1.17.1.8	2,3,4,5-Tetrahydrodipicolinate	H+	green
-4-hydroxy-tetrahydrodipicolinate reductase	1.17.1.8	2,3,4,5-Tetrahydrodipicolinate	NADH	green
-4-hydroxy-tetrahydrodipicolinate reductase	1.17.1.8	2,3,4,5-Tetrahydrodipicolinate	NADPH	green
-4-hydroxy-tetrahydrodipicolinate reductase	1.17.1.8	H2O	(2S,4S)-4-Hydroxy-2,3,4,5-tetrahydrodipicolinate	green
-4-hydroxy-tetrahydrodipicolinate reductase	1.17.1.8	H2O	H+	green
-4-hydroxy-tetrahydrodipicolinate reductase	1.17.1.8	H2O	NADH	green
-4-hydroxy-tetrahydrodipicolinate reductase	1.17.1.8	H2O	NADPH	green
-4-hydroxy-tetrahydrodipicolinate reductase	1.17.1.8	NAD+	(2S,4S)-4-Hydroxy-2,3,4,5-tetrahydrodipicolinate	green
-4-hydroxy-tetrahydrodipicolinate reductase	1.17.1.8	NAD+	H+	green
-4-hydroxy-tetrahydrodipicolinate reductase	1.17.1.8	NAD+	NADH	green
-4-hydroxy-tetrahydrodipicolinate reductase	1.17.1.8	NADP+	(2S,4S)-4-Hydroxy-2,3,4,5-tetrahydrodipicolinate	green
-4-hydroxy-tetrahydrodipicolinate reductase	1.17.1.8	NADP+	H+	green
-4-hydroxy-tetrahydrodipicolinate reductase	1.17.1.8	NADP+	NADPH	green
-4-hydroxy-tetrahydrodipicolinate synthase	4.3.3.7	L-Aspartate 4-semialdehyde	(2S,4S)-4-Hydroxy-2,3,4,5-tetrahydrodipicolinate	green
-4-hydroxy-tetrahydrodipicolinate synthase	4.3.3.7	L-Aspartate 4-semialdehyde	H2O	green
-4-hydroxy-tetrahydrodipicolinate synthase	4.3.3.7	Pyruvate	(2S,4S)-4-Hydroxy-2,3,4,5-tetrahydrodipicolinate	green
-4-hydroxy-tetrahydrodipicolinate synthase	4.3.3.7	Pyruvate	H2O	green
-4-hydroxymandelate oxidase	1.1.3.46	(S)-4-Hydroxymandelate	4-Hydroxyphenylglyoxylate	white
-4-hydroxymandelate oxidase	1.1.3.46	(S)-4-Hydroxymandelate	Hydrogen peroxide	white
-4-hydroxymandelate oxidase	1.1.3.46	4-Hydroxyphenylglyoxylate	(S)-4-Hydroxymandelate	white
-4-hydroxymandelate oxidase	1.1.3.46	4-Hydroxyphenylglyoxylate	Oxygen	white
-4-hydroxymandelate oxidase	1.1.3.46	Hydrogen peroxide	(S)-4-Hydroxymandelate	white
-4-hydroxymandelate oxidase	1.1.3.46	Hydrogen peroxide	Oxygen	white
-4-hydroxymandelate oxidase	1.1.3.46	Oxygen	4-Hydroxyphenylglyoxylate	white
-4-hydroxymandelate oxidase	1.1.3.46	Oxygen	Hydrogen peroxide	white
-4-hydroxymandelate synthase	1.13.11.46	(S)-4-Hydroxymandelate	3-(4-Hydroxyphenyl)pyruvate	white
-4-hydroxymandelate synthase	1.13.11.46	(S)-4-Hydroxymandelate	Oxygen	white
-4-hydroxymandelate synthase	1.13.11.46	3-(4-Hydroxyphenyl)pyruvate	(S)-4-Hydroxymandelate	white
-4-hydroxymandelate synthase	1.13.11.46	3-(4-Hydroxyphenyl)pyruvate	CO2	white
-4-hydroxymandelate synthase	1.13.11.46	CO2	3-(4-Hydroxyphenyl)pyruvate	white
-4-hydroxymandelate synthase	1.13.11.46	CO2	Oxygen	white
-4-hydroxymandelate synthase	1.13.11.46	Oxygen	(S)-4-Hydroxymandelate	white
-4-hydroxymandelate synthase	1.13.11.46	Oxygen	CO2	white
-L-Amino acid ligase	6.3.2.-	ADP	ATP	white
-L-Amino acid ligase	6.3.2.-	ADP	L-Threonine	white
-L-Amino acid ligase	6.3.2.-	ADP	Tabtoxinine-beta-lactam	white
-L-Amino acid ligase	6.3.2.-	ATP	ADP	white
-L-Amino acid ligase	6.3.2.-	ATP	Orthophosphate	white
-L-Amino acid ligase	6.3.2.-	ATP	Tabtoxin	white
-L-Amino acid ligase	6.3.2.-	L-Threonine	ADP	white
-L-Amino acid ligase	6.3.2.-	L-Threonine	Orthophosphate	white
-L-Amino acid ligase	6.3.2.-	L-Threonine	Tabtoxin	white
-L-Amino acid ligase	6.3.2.-	Orthophosphate	ATP	white
-L-Amino acid ligase	6.3.2.-	Orthophosphate	L-Threonine	white
-L-Amino acid ligase	6.3.2.-	Orthophosphate	Tabtoxinine-beta-lactam	white
-L-Amino acid ligase	6.3.2.-	Tabtoxin	ATP	white
-L-Amino acid ligase	6.3.2.-	Tabtoxin	L-Threonine	white
-L-Amino acid ligase	6.3.2.-	Tabtoxin	Tabtoxinine-beta-lactam	white
-L-Amino acid ligase	6.3.2.-	Tabtoxinine-beta-lactam	ADP	white
-L-Amino acid ligase	6.3.2.-	Tabtoxinine-beta-lactam	Orthophosphate	white
-L-Amino acid ligase	6.3.2.-	Tabtoxinine-beta-lactam	Tabtoxin	white
-MbtH protein	1.5.7.3	ATP	AMP	green
-MbtH protein	1.5.7.3	ATP	Diphosphate	green
-MbtH protein	1.5.7.3	ATP	L-4-Hydroxyphenylglycyl-L-arginine	green
-MbtH protein	1.5.7.3	ATP	Nocardicin G	green
-MbtH protein	1.5.7.3	H2O	AMP	green
-MbtH protein	1.5.7.3	H2O	Diphosphate	green
-MbtH protein	1.5.7.3	H2O	L-4-Hydroxyphenylglycyl-L-arginine	green
-MbtH protein	1.5.7.3	H2O	Nocardicin G	green
-MbtH protein	1.5.7.3	L-4-Hydroxyphenylglycine	AMP	green
-MbtH protein	1.5.7.3	L-4-Hydroxyphenylglycine	Diphosphate	green
-MbtH protein	1.5.7.3	L-4-Hydroxyphenylglycine	L-4-Hydroxyphenylglycyl-L-arginine	green
-MbtH protein	1.5.7.3	L-4-Hydroxyphenylglycine	Nocardicin G	green
-MbtH protein	1.5.7.3	L-Arginine	AMP	green
-MbtH protein	1.5.7.3	L-Arginine	Diphosphate	green
-MbtH protein	1.5.7.3	L-Arginine	L-4-Hydroxyphenylglycyl-L-arginine	green
-MbtH protein	1.5.7.3	L-Arginine	Nocardicin G	green
-MbtH protein	1.5.7.3	L-Serine	AMP	green
-MbtH protein	1.5.7.3	L-Serine	Diphosphate	green
-MbtH protein	1.5.7.3	L-Serine	L-4-Hydroxyphenylglycyl-L-arginine	green
-MbtH protein	1.5.7.3	L-Serine	Nocardicin G	green
-acetyltransferase	2.3.1.-	Acetyl-CoA	CoA	white
-acetyltransferase	2.3.1.-	Acetyl-CoA	N1-Acetyl-tabtoxinine-beta-lactam	white
-acetyltransferase	2.3.1.-	CoA	Acetyl-CoA	white
-acetyltransferase	2.3.1.-	CoA	Tabtoxinine-beta-lactam	white
-acetyltransferase	2.3.1.-	N1-Acetyl-tabtoxinine-beta-lactam	Acetyl-CoA	white
-acetyltransferase	2.3.1.-	N1-Acetyl-tabtoxinine-beta-lactam	Tabtoxinine-beta-lactam	white
-acetyltransferase	2.3.1.-	Tabtoxinine-beta-lactam	CoA	white
-acetyltransferase	2.3.1.-	Tabtoxinine-beta-lactam	N1-Acetyl-tabtoxinine-beta-lactam	white
-aspartate kinase	2.7.2.4	ATP	4-Phospho-L-aspartate	green
-aspartate kinase	2.7.2.4	ATP	ADP	green
-aspartate kinase	2.7.2.4	L-Aspartate	4-Phospho-L-aspartate	green
-aspartate kinase	2.7.2.4	L-Aspartate	ADP	green
-bifunctional enzyme CysN/CysC	2.7.7.4	ATP	Adenylyl sulfate	green
-bifunctional enzyme CysN/CysC	2.7.7.4	ATP	Diphosphate	green
-bifunctional enzyme CysN/CysC	2.7.7.4	Sulfate	Adenylyl sulfate	green
-bifunctional enzyme CysN/CysC	2.7.7.4	Sulfate	Diphosphate	green
-decarboxylase	4.1.1.-	C20913	C20914	white
-decarboxylase	4.1.1.-	C20913	CO2	white
-decarboxylase	4.1.1.-	C20914	C20913	white
-decarboxylase	4.1.1.-	CO2	C20913	white
-isonocardicin synthase	2.5.1.38	5'-Methylthioadenosine	Nocardicin E	white
-isonocardicin synthase	2.5.1.38	5'-Methylthioadenosine	S-Adenosyl-L-methionine	white
-isonocardicin synthase	2.5.1.38	Isonocardicin A	Nocardicin E	white
-isonocardicin synthase	2.5.1.38	Isonocardicin A	S-Adenosyl-L-methionine	white
-isonocardicin synthase	2.5.1.38	Nocardicin E	5'-Methylthioadenosine	white
-isonocardicin synthase	2.5.1.38	Nocardicin E	Isonocardicin A	white
-isonocardicin synthase	2.5.1.38	S-Adenosyl-L-methionine	5'-Methylthioadenosine	white
-isonocardicin synthase	2.5.1.38	S-Adenosyl-L-methionine	Isonocardicin A	white
-nocardicin C N-oxygenase	1.14.15.43	H+	H2O	white
-nocardicin C N-oxygenase	1.14.15.43	H+	Nocardicin A	white
-nocardicin C N-oxygenase	1.14.15.43	H+	Oxidized ferredoxin	white
-nocardicin C N-oxygenase	1.14.15.43	H2O	H+	white
-nocardicin C N-oxygenase	1.14.15.43	H2O	Nocardicin C	white
-nocardicin C N-oxygenase	1.14.15.43	H2O	Oxygen	white
-nocardicin C N-oxygenase	1.14.15.43	H2O	Reduced ferredoxin	white
-nocardicin C N-oxygenase	1.14.15.43	Nocardicin A	H+	white
-nocardicin C N-oxygenase	1.14.15.43	Nocardicin A	Nocardicin C	white
-nocardicin C N-oxygenase	1.14.15.43	Nocardicin A	Oxygen	white
-nocardicin C N-oxygenase	1.14.15.43	Nocardicin A	Reduced ferredoxin	white
-nocardicin C N-oxygenase	1.14.15.43	Nocardicin C	H2O	white
-nocardicin C N-oxygenase	1.14.15.43	Nocardicin C	Nocardicin A	white
-nocardicin C N-oxygenase	1.14.15.43	Nocardicin C	Oxidized ferredoxin	white
-nocardicin C N-oxygenase	1.14.15.43	Oxidized ferredoxin	H+	white
-nocardicin C N-oxygenase	1.14.15.43	Oxidized ferredoxin	Nocardicin C	white
-nocardicin C N-oxygenase	1.14.15.43	Oxidized ferredoxin	Oxygen	white
-nocardicin C N-oxygenase	1.14.15.43	Oxidized ferredoxin	Reduced ferredoxin	white
-nocardicin C N-oxygenase	1.14.15.43	Oxygen	H2O	white
-nocardicin C N-oxygenase	1.14.15.43	Oxygen	Nocardicin A	white
-nocardicin C N-oxygenase	1.14.15.43	Oxygen	Oxidized ferredoxin	white
-nocardicin C N-oxygenase	1.14.15.43	Reduced ferredoxin	H2O	white
-nocardicin C N-oxygenase	1.14.15.43	Reduced ferredoxin	Nocardicin A	white
-nocardicin C N-oxygenase	1.14.15.43	Reduced ferredoxin	Oxidized ferredoxin	white
-nocardicin nonribosomal peptide synthetase NocA	2.6.1.103	AMP	ATP	white
-nocardicin nonribosomal peptide synthetase NocA	2.6.1.103	AMP	H2O	white
-nocardicin nonribosomal peptide synthetase NocA	2.6.1.103	AMP	L-4-Hydroxyphenylglycine	white
-nocardicin nonribosomal peptide synthetase NocA	2.6.1.103	AMP	L-Arginine	white
-nocardicin nonribosomal peptide synthetase NocA	2.6.1.103	AMP	L-Serine	white
-nocardicin nonribosomal peptide synthetase NocA	2.6.1.103	ATP	AMP	white
-nocardicin nonribosomal peptide synthetase NocA	2.6.1.103	ATP	Diphosphate	white
-nocardicin nonribosomal peptide synthetase NocA	2.6.1.103	ATP	L-4-Hydroxyphenylglycyl-L-arginine	white
-nocardicin nonribosomal peptide synthetase NocA	2.6.1.103	ATP	Nocardicin G	white
-nocardicin nonribosomal peptide synthetase NocA	2.6.1.103	Diphosphate	ATP	white
-nocardicin nonribosomal peptide synthetase NocA	2.6.1.103	Diphosphate	H2O	white
-nocardicin nonribosomal peptide synthetase NocA	2.6.1.103	Diphosphate	L-4-Hydroxyphenylglycine	white
-nocardicin nonribosomal peptide synthetase NocA	2.6.1.103	Diphosphate	L-Arginine	white
-nocardicin nonribosomal peptide synthetase NocA	2.6.1.103	Diphosphate	L-Serine	white
-nocardicin nonribosomal peptide synthetase NocA	2.6.1.103	H2O	AMP	white
-nocardicin nonribosomal peptide synthetase NocA	2.6.1.103	H2O	Diphosphate	white
-nocardicin nonribosomal peptide synthetase NocA	2.6.1.103	H2O	L-4-Hydroxyphenylglycyl-L-arginine	white
-nocardicin nonribosomal peptide synthetase NocA	2.6.1.103	H2O	Nocardicin G	white
-nocardicin nonribosomal peptide synthetase NocA	2.6.1.103	L-4-Hydroxyphenylglycine	AMP	white
-nocardicin nonribosomal peptide synthetase NocA	2.6.1.103	L-4-Hydroxyphenylglycine	Diphosphate	white
-nocardicin nonribosomal peptide synthetase NocA	2.6.1.103	L-4-Hydroxyphenylglycine	L-4-Hydroxyphenylglycyl-L-arginine	white
-nocardicin nonribosomal peptide synthetase NocA	2.6.1.103	L-4-Hydroxyphenylglycine	Nocardicin G	white
-nocardicin nonribosomal peptide synthetase NocA	2.6.1.103	L-4-Hydroxyphenylglycyl-L-arginine	ATP	white
-nocardicin nonribosomal peptide synthetase NocA	2.6.1.103	L-4-Hydroxyphenylglycyl-L-arginine	H2O	white
-nocardicin nonribosomal peptide synthetase NocA	2.6.1.103	L-4-Hydroxyphenylglycyl-L-arginine	L-4-Hydroxyphenylglycine	white
-nocardicin nonribosomal peptide synthetase NocA	2.6.1.103	L-4-Hydroxyphenylglycyl-L-arginine	L-Arginine	white
-nocardicin nonribosomal peptide synthetase NocA	2.6.1.103	L-4-Hydroxyphenylglycyl-L-arginine	L-Serine	white
-nocardicin nonribosomal peptide synthetase NocA	2.6.1.103	L-Arginine	AMP	white
-nocardicin nonribosomal peptide synthetase NocA	2.6.1.103	L-Arginine	Diphosphate	white
-nocardicin nonribosomal peptide synthetase NocA	2.6.1.103	L-Arginine	L-4-Hydroxyphenylglycyl-L-arginine	white
-nocardicin nonribosomal peptide synthetase NocA	2.6.1.103	L-Arginine	Nocardicin G	white
-nocardicin nonribosomal peptide synthetase NocA	2.6.1.103	L-Serine	AMP	white
-nocardicin nonribosomal peptide synthetase NocA	2.6.1.103	L-Serine	Diphosphate	white
-nocardicin nonribosomal peptide synthetase NocA	2.6.1.103	L-Serine	L-4-Hydroxyphenylglycyl-L-arginine	white
-nocardicin nonribosomal peptide synthetase NocA	2.6.1.103	L-Serine	Nocardicin G	white
-nocardicin nonribosomal peptide synthetase NocA	2.6.1.103	Nocardicin G	ATP	white
-nocardicin nonribosomal peptide synthetase NocA	2.6.1.103	Nocardicin G	H2O	white
-nocardicin nonribosomal peptide synthetase NocA	2.6.1.103	Nocardicin G	L-4-Hydroxyphenylglycine	white
-nocardicin nonribosomal peptide synthetase NocA	2.6.1.103	Nocardicin G	L-Arginine	white
-nocardicin nonribosomal peptide synthetase NocA	2.6.1.103	Nocardicin G	L-Serine	white
-nocardicin nonribosomal peptide synthetase NocB	1.14.15.43	AMP	ATP	white
-nocardicin nonribosomal peptide synthetase NocB	1.14.15.43	AMP	H2O	white
-nocardicin nonribosomal peptide synthetase NocB	1.14.15.43	AMP	L-4-Hydroxyphenylglycine	white
-nocardicin nonribosomal peptide synthetase NocB	1.14.15.43	AMP	L-Arginine	white
-nocardicin nonribosomal peptide synthetase NocB	1.14.15.43	AMP	L-Serine	white
-nocardicin nonribosomal peptide synthetase NocB	1.14.15.43	ATP	AMP	white
-nocardicin nonribosomal peptide synthetase NocB	1.14.15.43	ATP	Diphosphate	white
-nocardicin nonribosomal peptide synthetase NocB	1.14.15.43	ATP	L-4-Hydroxyphenylglycyl-L-arginine	white
-nocardicin nonribosomal peptide synthetase NocB	1.14.15.43	ATP	Nocardicin G	white
-nocardicin nonribosomal peptide synthetase NocB	1.14.15.43	Diphosphate	ATP	white
-nocardicin nonribosomal peptide synthetase NocB	1.14.15.43	Diphosphate	H2O	white
-nocardicin nonribosomal peptide synthetase NocB	1.14.15.43	Diphosphate	L-4-Hydroxyphenylglycine	white
-nocardicin nonribosomal peptide synthetase NocB	1.14.15.43	Diphosphate	L-Arginine	white
-nocardicin nonribosomal peptide synthetase NocB	1.14.15.43	Diphosphate	L-Serine	white
-nocardicin nonribosomal peptide synthetase NocB	1.14.15.43	H2O	AMP	white
-nocardicin nonribosomal peptide synthetase NocB	1.14.15.43	H2O	Diphosphate	white
-nocardicin nonribosomal peptide synthetase NocB	1.14.15.43	H2O	L-4-Hydroxyphenylglycyl-L-arginine	white
-nocardicin nonribosomal peptide synthetase NocB	1.14.15.43	H2O	Nocardicin G	white
-nocardicin nonribosomal peptide synthetase NocB	1.14.15.43	L-4-Hydroxyphenylglycine	AMP	white
-nocardicin nonribosomal peptide synthetase NocB	1.14.15.43	L-4-Hydroxyphenylglycine	Diphosphate	white
-nocardicin nonribosomal peptide synthetase NocB	1.14.15.43	L-4-Hydroxyphenylglycine	L-4-Hydroxyphenylglycyl-L-arginine	white
-nocardicin nonribosomal peptide synthetase NocB	1.14.15.43	L-4-Hydroxyphenylglycine	Nocardicin G	white
-nocardicin nonribosomal peptide synthetase NocB	1.14.15.43	L-4-Hydroxyphenylglycyl-L-arginine	ATP	white
-nocardicin nonribosomal peptide synthetase NocB	1.14.15.43	L-4-Hydroxyphenylglycyl-L-arginine	H2O	white
-nocardicin nonribosomal peptide synthetase NocB	1.14.15.43	L-4-Hydroxyphenylglycyl-L-arginine	L-4-Hydroxyphenylglycine	white
-nocardicin nonribosomal peptide synthetase NocB	1.14.15.43	L-4-Hydroxyphenylglycyl-L-arginine	L-Arginine	white
-nocardicin nonribosomal peptide synthetase NocB	1.14.15.43	L-4-Hydroxyphenylglycyl-L-arginine	L-Serine	white
-nocardicin nonribosomal peptide synthetase NocB	1.14.15.43	L-Arginine	AMP	white
-nocardicin nonribosomal peptide synthetase NocB	1.14.15.43	L-Arginine	Diphosphate	white
-nocardicin nonribosomal peptide synthetase NocB	1.14.15.43	L-Arginine	L-4-Hydroxyphenylglycyl-L-arginine	white
-nocardicin nonribosomal peptide synthetase NocB	1.14.15.43	L-Arginine	Nocardicin G	white
-nocardicin nonribosomal peptide synthetase NocB	1.14.15.43	L-Serine	AMP	white
-nocardicin nonribosomal peptide synthetase NocB	1.14.15.43	L-Serine	Diphosphate	white
-nocardicin nonribosomal peptide synthetase NocB	1.14.15.43	L-Serine	L-4-Hydroxyphenylglycyl-L-arginine	white
-nocardicin nonribosomal peptide synthetase NocB	1.14.15.43	L-Serine	Nocardicin G	white
-nocardicin nonribosomal peptide synthetase NocB	1.14.15.43	Nocardicin G	ATP	white
-nocardicin nonribosomal peptide synthetase NocB	1.14.15.43	Nocardicin G	H2O	white
-nocardicin nonribosomal peptide synthetase NocB	1.14.15.43	Nocardicin G	L-4-Hydroxyphenylglycine	white
-nocardicin nonribosomal peptide synthetase NocB	1.14.15.43	Nocardicin G	L-Arginine	white
-nocardicin nonribosomal peptide synthetase NocB	1.14.15.43	Nocardicin G	L-Serine	white
-nocardicin-A epimerase	5.1.1.14	Isonocardicin A	Nocardicin A	white
-nocardicin-A epimerase	5.1.1.14	Nocardicin A	Isonocardicin A	white
-putative 2-oxoglutarate oxygenase	4.1.1.-	C20916	Tabtoxin	white
-putative 2-oxoglutarate oxygenase	4.1.1.-	Tabtoxin	C20916	white
-putative acetyltransferase	2.3.1.-	2,3,4,5-Tetrahydrodipicolinate	CoA	white
-putative acetyltransferase	2.3.1.-	2,3,4,5-Tetrahydrodipicolinate	N-Acetyl-L-2-amino-6-oxopimelate	white
-putative acetyltransferase	2.3.1.-	Acetyl-CoA	CoA	white
-putative acetyltransferase	2.3.1.-	Acetyl-CoA	N-Acetyl-L-2-amino-6-oxopimelate	white
-putative acetyltransferase	2.3.1.-	CoA	2,3,4,5-Tetrahydrodipicolinate	white
-putative acetyltransferase	2.3.1.-	CoA	Acetyl-CoA	white
-putative acetyltransferase	2.3.1.-	CoA	H2O	white
-putative acetyltransferase	2.3.1.-	H2O	CoA	white
-putative acetyltransferase	2.3.1.-	H2O	N-Acetyl-L-2-amino-6-oxopimelate	white
-putative acetyltransferase	2.3.1.-	N-Acetyl-L-2-amino-6-oxopimelate	2,3,4,5-Tetrahydrodipicolinate	white
-putative acetyltransferase	2.3.1.-	N-Acetyl-L-2-amino-6-oxopimelate	Acetyl-CoA	white
-putative acetyltransferase	2.3.1.-	N-Acetyl-L-2-amino-6-oxopimelate	H2O	white
-putative beta-lactam synthetase	4.1.1.-	C20915	C20916	white
-putative beta-lactam synthetase	4.1.1.-	C20916	C20915	white
-putative tabtoxin peptidase	3.4.-.-	H2O	L-Threonine	white
-putative tabtoxin peptidase	3.4.-.-	H2O	Tabtoxinine-beta-lactam	white
-putative tabtoxin peptidase	3.4.-.-	L-Threonine	H2O	white
-putative tabtoxin peptidase	3.4.-.-	L-Threonine	Tabtoxin	white
-putative tabtoxin peptidase	3.4.-.-	Tabtoxin	L-Threonine	white
-putative tabtoxin peptidase	3.4.-.-	Tabtoxin	Tabtoxinine-beta-lactam	white
-putative tabtoxin peptidase	3.4.-.-	Tabtoxinine-beta-lactam	H2O	white
-putative tabtoxin peptidase	3.4.-.-	Tabtoxinine-beta-lactam	Tabtoxin	white
-sulfate adenylyltransferase subunit 1	2.7.7.4	ATP	Adenylyl sulfate	green
-sulfate adenylyltransferase subunit 1	2.7.7.4	ATP	Diphosphate	green
-sulfate adenylyltransferase subunit 1	2.7.7.4	Sulfate	Adenylyl sulfate	green
-sulfate adenylyltransferase subunit 1	2.7.7.4	Sulfate	Diphosphate	green
-sulfate adenylyltransferase subunit 2	2.7.7.4	ATP	Adenylyl sulfate	green
-sulfate adenylyltransferase subunit 2	2.7.7.4	ATP	Diphosphate	green
-sulfate adenylyltransferase subunit 2	2.7.7.4	Sulfate	Adenylyl sulfate	green
-sulfate adenylyltransferase subunit 2	2.7.7.4	Sulfate	Diphosphate	green
+enzyme_name	EC	source	target	reaction	color
+(S)-3,5-dihydroxyphenylglycine transaminase	2.6.1.103	3-(4-Hydroxyphenyl)pyruvate	4-Hydroxyphenylglyoxylate	R06626	white
+(S)-3,5-dihydroxyphenylglycine transaminase	2.6.1.103	3-(4-Hydroxyphenyl)pyruvate	L-Tyrosine	R06626	white
+(S)-3,5-dihydroxyphenylglycine transaminase	2.6.1.103	4-Hydroxyphenylglyoxylate	3-(4-Hydroxyphenyl)pyruvate	R06626	white
+(S)-3,5-dihydroxyphenylglycine transaminase	2.6.1.103	4-Hydroxyphenylglyoxylate	L-4-Hydroxyphenylglycine	R06626	white
+(S)-3,5-dihydroxyphenylglycine transaminase	2.6.1.103	L-4-Hydroxyphenylglycine	4-Hydroxyphenylglyoxylate	R06626	white
+(S)-3,5-dihydroxyphenylglycine transaminase	2.6.1.103	L-4-Hydroxyphenylglycine	L-Tyrosine	R06626	white
+(S)-3,5-dihydroxyphenylglycine transaminase	2.6.1.103	L-Tyrosine	3-(4-Hydroxyphenyl)pyruvate	R06626	white
+(S)-3,5-dihydroxyphenylglycine transaminase	2.6.1.103	L-Tyrosine	L-4-Hydroxyphenylglycine	R06626	white
+4-hydroxy-tetrahydrodipicolinate reductase	1.17.1.8	2,3,4,5-Tetrahydrodipicolinate	(2S,4S)-4-Hydroxy-2,3,4,5-tetrahydrodipicolinate	R04198	green
+4-hydroxy-tetrahydrodipicolinate reductase	1.17.1.8	2,3,4,5-Tetrahydrodipicolinate	(2S,4S)-4-Hydroxy-2,3,4,5-tetrahydrodipicolinate	R04199	green
+4-hydroxy-tetrahydrodipicolinate reductase	1.17.1.8	2,3,4,5-Tetrahydrodipicolinate	H+	R04198	green
+4-hydroxy-tetrahydrodipicolinate reductase	1.17.1.8	2,3,4,5-Tetrahydrodipicolinate	H+	R04199	green
+4-hydroxy-tetrahydrodipicolinate reductase	1.17.1.8	2,3,4,5-Tetrahydrodipicolinate	NADH	R04198	green
+4-hydroxy-tetrahydrodipicolinate reductase	1.17.1.8	2,3,4,5-Tetrahydrodipicolinate	NADPH	R04199	green
+4-hydroxy-tetrahydrodipicolinate reductase	1.17.1.8	H2O	(2S,4S)-4-Hydroxy-2,3,4,5-tetrahydrodipicolinate	R04198	green
+4-hydroxy-tetrahydrodipicolinate reductase	1.17.1.8	H2O	(2S,4S)-4-Hydroxy-2,3,4,5-tetrahydrodipicolinate	R04199	green
+4-hydroxy-tetrahydrodipicolinate reductase	1.17.1.8	H2O	H+	R04198	green
+4-hydroxy-tetrahydrodipicolinate reductase	1.17.1.8	H2O	H+	R04199	green
+4-hydroxy-tetrahydrodipicolinate reductase	1.17.1.8	H2O	NADH	R04198	green
+4-hydroxy-tetrahydrodipicolinate reductase	1.17.1.8	H2O	NADPH	R04199	green
+4-hydroxy-tetrahydrodipicolinate reductase	1.17.1.8	NAD+	(2S,4S)-4-Hydroxy-2,3,4,5-tetrahydrodipicolinate	R04198	green
+4-hydroxy-tetrahydrodipicolinate reductase	1.17.1.8	NAD+	H+	R04198	green
+4-hydroxy-tetrahydrodipicolinate reductase	1.17.1.8	NAD+	NADH	R04198	green
+4-hydroxy-tetrahydrodipicolinate reductase	1.17.1.8	NADP+	(2S,4S)-4-Hydroxy-2,3,4,5-tetrahydrodipicolinate	R04199	green
+4-hydroxy-tetrahydrodipicolinate reductase	1.17.1.8	NADP+	H+	R04199	green
+4-hydroxy-tetrahydrodipicolinate reductase	1.17.1.8	NADP+	NADPH	R04199	green
+4-hydroxy-tetrahydrodipicolinate synthase	4.3.3.7	L-Aspartate 4-semialdehyde	(2S,4S)-4-Hydroxy-2,3,4,5-tetrahydrodipicolinate	R10147	green
+4-hydroxy-tetrahydrodipicolinate synthase	4.3.3.7	L-Aspartate 4-semialdehyde	H2O	R10147	green
+4-hydroxy-tetrahydrodipicolinate synthase	4.3.3.7	Pyruvate	(2S,4S)-4-Hydroxy-2,3,4,5-tetrahydrodipicolinate	R10147	green
+4-hydroxy-tetrahydrodipicolinate synthase	4.3.3.7	Pyruvate	H2O	R10147	green
+4-hydroxymandelate oxidase	1.1.3.46	(S)-4-Hydroxymandelate	4-Hydroxyphenylglyoxylate	R06633	white
+4-hydroxymandelate oxidase	1.1.3.46	(S)-4-Hydroxymandelate	Hydrogen peroxide	R06633	white
+4-hydroxymandelate oxidase	1.1.3.46	4-Hydroxyphenylglyoxylate	(S)-4-Hydroxymandelate	R06633	white
+4-hydroxymandelate oxidase	1.1.3.46	4-Hydroxyphenylglyoxylate	Oxygen	R06633	white
+4-hydroxymandelate oxidase	1.1.3.46	Hydrogen peroxide	(S)-4-Hydroxymandelate	R06633	white
+4-hydroxymandelate oxidase	1.1.3.46	Hydrogen peroxide	Oxygen	R06633	white
+4-hydroxymandelate oxidase	1.1.3.46	Oxygen	4-Hydroxyphenylglyoxylate	R06633	white
+4-hydroxymandelate oxidase	1.1.3.46	Oxygen	Hydrogen peroxide	R06633	white
+4-hydroxymandelate synthase	1.13.11.46	(S)-4-Hydroxymandelate	3-(4-Hydroxyphenyl)pyruvate	R06632	white
+4-hydroxymandelate synthase	1.13.11.46	(S)-4-Hydroxymandelate	Oxygen	R06632	white
+4-hydroxymandelate synthase	1.13.11.46	3-(4-Hydroxyphenyl)pyruvate	(S)-4-Hydroxymandelate	R06632	white
+4-hydroxymandelate synthase	1.13.11.46	3-(4-Hydroxyphenyl)pyruvate	CO2	R06632	white
+4-hydroxymandelate synthase	1.13.11.46	CO2	3-(4-Hydroxyphenyl)pyruvate	R06632	white
+4-hydroxymandelate synthase	1.13.11.46	CO2	Oxygen	R06632	white
+4-hydroxymandelate synthase	1.13.11.46	Oxygen	(S)-4-Hydroxymandelate	R06632	white
+4-hydroxymandelate synthase	1.13.11.46	Oxygen	CO2	R06632	white
+L-Amino acid ligase	6.3.2.-	ADP	ATP	R10892	white
+L-Amino acid ligase	6.3.2.-	ADP	L-Threonine	R10892	white
+L-Amino acid ligase	6.3.2.-	ADP	Tabtoxinine-beta-lactam	R10892	white
+L-Amino acid ligase	6.3.2.-	ATP	ADP	R10892	white
+L-Amino acid ligase	6.3.2.-	ATP	Orthophosphate	R10892	white
+L-Amino acid ligase	6.3.2.-	ATP	Tabtoxin	R10892	white
+L-Amino acid ligase	6.3.2.-	L-Threonine	ADP	R10892	white
+L-Amino acid ligase	6.3.2.-	L-Threonine	Orthophosphate	R10892	white
+L-Amino acid ligase	6.3.2.-	L-Threonine	Tabtoxin	R10892	white
+L-Amino acid ligase	6.3.2.-	Orthophosphate	ATP	R10892	white
+L-Amino acid ligase	6.3.2.-	Orthophosphate	L-Threonine	R10892	white
+L-Amino acid ligase	6.3.2.-	Orthophosphate	Tabtoxinine-beta-lactam	R10892	white
+L-Amino acid ligase	6.3.2.-	Tabtoxin	ATP	R10892	white
+L-Amino acid ligase	6.3.2.-	Tabtoxin	L-Threonine	R10892	white
+L-Amino acid ligase	6.3.2.-	Tabtoxin	Tabtoxinine-beta-lactam	R10892	white
+L-Amino acid ligase	6.3.2.-	Tabtoxinine-beta-lactam	ADP	R10892	white
+L-Amino acid ligase	6.3.2.-	Tabtoxinine-beta-lactam	Orthophosphate	R10892	white
+L-Amino acid ligase	6.3.2.-	Tabtoxinine-beta-lactam	Tabtoxin	R10892	white
+MbtH protein	1.5.7.3	ATP	AMP	R10880	green
+MbtH protein	1.5.7.3	ATP	Diphosphate	R10880	green
+MbtH protein	1.5.7.3	ATP	L-4-Hydroxyphenylglycyl-L-arginine	R10880	green
+MbtH protein	1.5.7.3	ATP	Nocardicin G	R10880	green
+MbtH protein	1.5.7.3	H2O	AMP	R10880	green
+MbtH protein	1.5.7.3	H2O	Diphosphate	R10880	green
+MbtH protein	1.5.7.3	H2O	L-4-Hydroxyphenylglycyl-L-arginine	R10880	green
+MbtH protein	1.5.7.3	H2O	Nocardicin G	R10880	green
+MbtH protein	1.5.7.3	L-4-Hydroxyphenylglycine	AMP	R10880	green
+MbtH protein	1.5.7.3	L-4-Hydroxyphenylglycine	Diphosphate	R10880	green
+MbtH protein	1.5.7.3	L-4-Hydroxyphenylglycine	L-4-Hydroxyphenylglycyl-L-arginine	R10880	green
+MbtH protein	1.5.7.3	L-4-Hydroxyphenylglycine	Nocardicin G	R10880	green
+MbtH protein	1.5.7.3	L-Arginine	AMP	R10880	green
+MbtH protein	1.5.7.3	L-Arginine	Diphosphate	R10880	green
+MbtH protein	1.5.7.3	L-Arginine	L-4-Hydroxyphenylglycyl-L-arginine	R10880	green
+MbtH protein	1.5.7.3	L-Arginine	Nocardicin G	R10880	green
+MbtH protein	1.5.7.3	L-Serine	AMP	R10880	green
+MbtH protein	1.5.7.3	L-Serine	Diphosphate	R10880	green
+MbtH protein	1.5.7.3	L-Serine	L-4-Hydroxyphenylglycyl-L-arginine	R10880	green
+MbtH protein	1.5.7.3	L-Serine	Nocardicin G	R10880	green
+acetyltransferase	2.3.1.-	Acetyl-CoA	CoA	R10893	white
+acetyltransferase	2.3.1.-	Acetyl-CoA	N1-Acetyl-tabtoxinine-beta-lactam	R10893	white
+acetyltransferase	2.3.1.-	CoA	Acetyl-CoA	R10893	white
+acetyltransferase	2.3.1.-	CoA	Tabtoxinine-beta-lactam	R10893	white
+acetyltransferase	2.3.1.-	N1-Acetyl-tabtoxinine-beta-lactam	Acetyl-CoA	R10893	white
+acetyltransferase	2.3.1.-	N1-Acetyl-tabtoxinine-beta-lactam	Tabtoxinine-beta-lactam	R10893	white
+acetyltransferase	2.3.1.-	Tabtoxinine-beta-lactam	CoA	R10893	white
+acetyltransferase	2.3.1.-	Tabtoxinine-beta-lactam	N1-Acetyl-tabtoxinine-beta-lactam	R10893	white
+aspartate kinase	2.7.2.4	ATP	4-Phospho-L-aspartate	R00480	green
+aspartate kinase	2.7.2.4	ATP	ADP	R00480	green
+aspartate kinase	2.7.2.4	L-Aspartate	4-Phospho-L-aspartate	R00480	green
+aspartate kinase	2.7.2.4	L-Aspartate	ADP	R00480	green
+bifunctional enzyme CysN/CysC	2.7.7.4	ATP	Adenylyl sulfate	R00529	green
+bifunctional enzyme CysN/CysC	2.7.7.4	ATP	Diphosphate	R00529	green
+bifunctional enzyme CysN/CysC	2.7.7.4	Sulfate	Adenylyl sulfate	R00529	green
+bifunctional enzyme CysN/CysC	2.7.7.4	Sulfate	Diphosphate	R00529	green
+decarboxylase	4.1.1.-	C20913	C20914	R10887	white
+decarboxylase	4.1.1.-	C20913	CO2	R10887	white
+decarboxylase	4.1.1.-	C20914	C20913	R10887	white
+decarboxylase	4.1.1.-	CO2	C20913	R10887	white
+isonocardicin synthase	2.5.1.38	5'-Methylthioadenosine	Nocardicin E	R03072	white
+isonocardicin synthase	2.5.1.38	5'-Methylthioadenosine	S-Adenosyl-L-methionine	R03072	white
+isonocardicin synthase	2.5.1.38	Isonocardicin A	Nocardicin E	R03072	white
+isonocardicin synthase	2.5.1.38	Isonocardicin A	S-Adenosyl-L-methionine	R03072	white
+isonocardicin synthase	2.5.1.38	Nocardicin E	5'-Methylthioadenosine	R03072	white
+isonocardicin synthase	2.5.1.38	Nocardicin E	Isonocardicin A	R03072	white
+isonocardicin synthase	2.5.1.38	S-Adenosyl-L-methionine	5'-Methylthioadenosine	R03072	white
+isonocardicin synthase	2.5.1.38	S-Adenosyl-L-methionine	Isonocardicin A	R03072	white
+nocardicin C N-oxygenase	1.14.15.43	H+	H2O	R10882	white
+nocardicin C N-oxygenase	1.14.15.43	H+	Nocardicin A	R10882	white
+nocardicin C N-oxygenase	1.14.15.43	H+	Oxidized ferredoxin	R10882	white
+nocardicin C N-oxygenase	1.14.15.43	H2O	H+	R10882	white
+nocardicin C N-oxygenase	1.14.15.43	H2O	Nocardicin C	R10882	white
+nocardicin C N-oxygenase	1.14.15.43	H2O	Oxygen	R10882	white
+nocardicin C N-oxygenase	1.14.15.43	H2O	Reduced ferredoxin	R10882	white
+nocardicin C N-oxygenase	1.14.15.43	Nocardicin A	H+	R10882	white
+nocardicin C N-oxygenase	1.14.15.43	Nocardicin A	Nocardicin C	R10882	white
+nocardicin C N-oxygenase	1.14.15.43	Nocardicin A	Oxygen	R10882	white
+nocardicin C N-oxygenase	1.14.15.43	Nocardicin A	Reduced ferredoxin	R10882	white
+nocardicin C N-oxygenase	1.14.15.43	Nocardicin C	H2O	R10882	white
+nocardicin C N-oxygenase	1.14.15.43	Nocardicin C	Nocardicin A	R10882	white
+nocardicin C N-oxygenase	1.14.15.43	Nocardicin C	Oxidized ferredoxin	R10882	white
+nocardicin C N-oxygenase	1.14.15.43	Oxidized ferredoxin	H+	R10882	white
+nocardicin C N-oxygenase	1.14.15.43	Oxidized ferredoxin	Nocardicin C	R10882	white
+nocardicin C N-oxygenase	1.14.15.43	Oxidized ferredoxin	Oxygen	R10882	white
+nocardicin C N-oxygenase	1.14.15.43	Oxidized ferredoxin	Reduced ferredoxin	R10882	white
+nocardicin C N-oxygenase	1.14.15.43	Oxygen	H2O	R10882	white
+nocardicin C N-oxygenase	1.14.15.43	Oxygen	Nocardicin A	R10882	white
+nocardicin C N-oxygenase	1.14.15.43	Oxygen	Oxidized ferredoxin	R10882	white
+nocardicin C N-oxygenase	1.14.15.43	Reduced ferredoxin	H2O	R10882	white
+nocardicin C N-oxygenase	1.14.15.43	Reduced ferredoxin	Nocardicin A	R10882	white
+nocardicin C N-oxygenase	1.14.15.43	Reduced ferredoxin	Oxidized ferredoxin	R10882	white
+nocardicin nonribosomal peptide synthetase NocA	2.6.1.103	AMP	ATP	R10880	white
+nocardicin nonribosomal peptide synthetase NocA	2.6.1.103	AMP	H2O	R10880	white
+nocardicin nonribosomal peptide synthetase NocA	2.6.1.103	AMP	L-4-Hydroxyphenylglycine	R10880	white
+nocardicin nonribosomal peptide synthetase NocA	2.6.1.103	AMP	L-Arginine	R10880	white
+nocardicin nonribosomal peptide synthetase NocA	2.6.1.103	AMP	L-Serine	R10880	white
+nocardicin nonribosomal peptide synthetase NocA	2.6.1.103	ATP	AMP	R10880	white
+nocardicin nonribosomal peptide synthetase NocA	2.6.1.103	ATP	Diphosphate	R10880	white
+nocardicin nonribosomal peptide synthetase NocA	2.6.1.103	ATP	L-4-Hydroxyphenylglycyl-L-arginine	R10880	white
+nocardicin nonribosomal peptide synthetase NocA	2.6.1.103	ATP	Nocardicin G	R10880	white
+nocardicin nonribosomal peptide synthetase NocA	2.6.1.103	Diphosphate	ATP	R10880	white
+nocardicin nonribosomal peptide synthetase NocA	2.6.1.103	Diphosphate	H2O	R10880	white
+nocardicin nonribosomal peptide synthetase NocA	2.6.1.103	Diphosphate	L-4-Hydroxyphenylglycine	R10880	white
+nocardicin nonribosomal peptide synthetase NocA	2.6.1.103	Diphosphate	L-Arginine	R10880	white
+nocardicin nonribosomal peptide synthetase NocA	2.6.1.103	Diphosphate	L-Serine	R10880	white
+nocardicin nonribosomal peptide synthetase NocA	2.6.1.103	H2O	AMP	R10880	white
+nocardicin nonribosomal peptide synthetase NocA	2.6.1.103	H2O	Diphosphate	R10880	white
+nocardicin nonribosomal peptide synthetase NocA	2.6.1.103	H2O	L-4-Hydroxyphenylglycyl-L-arginine	R10880	white
+nocardicin nonribosomal peptide synthetase NocA	2.6.1.103	H2O	Nocardicin G	R10880	white
+nocardicin nonribosomal peptide synthetase NocA	2.6.1.103	L-4-Hydroxyphenylglycine	AMP	R10880	white
+nocardicin nonribosomal peptide synthetase NocA	2.6.1.103	L-4-Hydroxyphenylglycine	Diphosphate	R10880	white
+nocardicin nonribosomal peptide synthetase NocA	2.6.1.103	L-4-Hydroxyphenylglycine	L-4-Hydroxyphenylglycyl-L-arginine	R10880	white
+nocardicin nonribosomal peptide synthetase NocA	2.6.1.103	L-4-Hydroxyphenylglycine	Nocardicin G	R10880	white
+nocardicin nonribosomal peptide synthetase NocA	2.6.1.103	L-4-Hydroxyphenylglycyl-L-arginine	ATP	R10880	white
+nocardicin nonribosomal peptide synthetase NocA	2.6.1.103	L-4-Hydroxyphenylglycyl-L-arginine	H2O	R10880	white
+nocardicin nonribosomal peptide synthetase NocA	2.6.1.103	L-4-Hydroxyphenylglycyl-L-arginine	L-4-Hydroxyphenylglycine	R10880	white
+nocardicin nonribosomal peptide synthetase NocA	2.6.1.103	L-4-Hydroxyphenylglycyl-L-arginine	L-Arginine	R10880	white
+nocardicin nonribosomal peptide synthetase NocA	2.6.1.103	L-4-Hydroxyphenylglycyl-L-arginine	L-Serine	R10880	white
+nocardicin nonribosomal peptide synthetase NocA	2.6.1.103	L-Arginine	AMP	R10880	white
+nocardicin nonribosomal peptide synthetase NocA	2.6.1.103	L-Arginine	Diphosphate	R10880	white
+nocardicin nonribosomal peptide synthetase NocA	2.6.1.103	L-Arginine	L-4-Hydroxyphenylglycyl-L-arginine	R10880	white
+nocardicin nonribosomal peptide synthetase NocA	2.6.1.103	L-Arginine	Nocardicin G	R10880	white
+nocardicin nonribosomal peptide synthetase NocA	2.6.1.103	L-Serine	AMP	R10880	white
+nocardicin nonribosomal peptide synthetase NocA	2.6.1.103	L-Serine	Diphosphate	R10880	white
+nocardicin nonribosomal peptide synthetase NocA	2.6.1.103	L-Serine	L-4-Hydroxyphenylglycyl-L-arginine	R10880	white
+nocardicin nonribosomal peptide synthetase NocA	2.6.1.103	L-Serine	Nocardicin G	R10880	white
+nocardicin nonribosomal peptide synthetase NocA	2.6.1.103	Nocardicin G	ATP	R10880	white
+nocardicin nonribosomal peptide synthetase NocA	2.6.1.103	Nocardicin G	H2O	R10880	white
+nocardicin nonribosomal peptide synthetase NocA	2.6.1.103	Nocardicin G	L-4-Hydroxyphenylglycine	R10880	white
+nocardicin nonribosomal peptide synthetase NocA	2.6.1.103	Nocardicin G	L-Arginine	R10880	white
+nocardicin nonribosomal peptide synthetase NocA	2.6.1.103	Nocardicin G	L-Serine	R10880	white
+nocardicin nonribosomal peptide synthetase NocB	1.14.15.43	AMP	ATP	R10880	white
+nocardicin nonribosomal peptide synthetase NocB	1.14.15.43	AMP	H2O	R10880	white
+nocardicin nonribosomal peptide synthetase NocB	1.14.15.43	AMP	L-4-Hydroxyphenylglycine	R10880	white
+nocardicin nonribosomal peptide synthetase NocB	1.14.15.43	AMP	L-Arginine	R10880	white
+nocardicin nonribosomal peptide synthetase NocB	1.14.15.43	AMP	L-Serine	R10880	white
+nocardicin nonribosomal peptide synthetase NocB	1.14.15.43	ATP	AMP	R10880	white
+nocardicin nonribosomal peptide synthetase NocB	1.14.15.43	ATP	Diphosphate	R10880	white
+nocardicin nonribosomal peptide synthetase NocB	1.14.15.43	ATP	L-4-Hydroxyphenylglycyl-L-arginine	R10880	white
+nocardicin nonribosomal peptide synthetase NocB	1.14.15.43	ATP	Nocardicin G	R10880	white
+nocardicin nonribosomal peptide synthetase NocB	1.14.15.43	Diphosphate	ATP	R10880	white
+nocardicin nonribosomal peptide synthetase NocB	1.14.15.43	Diphosphate	H2O	R10880	white
+nocardicin nonribosomal peptide synthetase NocB	1.14.15.43	Diphosphate	L-4-Hydroxyphenylglycine	R10880	white
+nocardicin nonribosomal peptide synthetase NocB	1.14.15.43	Diphosphate	L-Arginine	R10880	white
+nocardicin nonribosomal peptide synthetase NocB	1.14.15.43	Diphosphate	L-Serine	R10880	white
+nocardicin nonribosomal peptide synthetase NocB	1.14.15.43	H2O	AMP	R10880	white
+nocardicin nonribosomal peptide synthetase NocB	1.14.15.43	H2O	Diphosphate	R10880	white
+nocardicin nonribosomal peptide synthetase NocB	1.14.15.43	H2O	L-4-Hydroxyphenylglycyl-L-arginine	R10880	white
+nocardicin nonribosomal peptide synthetase NocB	1.14.15.43	H2O	Nocardicin G	R10880	white
+nocardicin nonribosomal peptide synthetase NocB	1.14.15.43	L-4-Hydroxyphenylglycine	AMP	R10880	white
+nocardicin nonribosomal peptide synthetase NocB	1.14.15.43	L-4-Hydroxyphenylglycine	Diphosphate	R10880	white
+nocardicin nonribosomal peptide synthetase NocB	1.14.15.43	L-4-Hydroxyphenylglycine	L-4-Hydroxyphenylglycyl-L-arginine	R10880	white
+nocardicin nonribosomal peptide synthetase NocB	1.14.15.43	L-4-Hydroxyphenylglycine	Nocardicin G	R10880	white
+nocardicin nonribosomal peptide synthetase NocB	1.14.15.43	L-4-Hydroxyphenylglycyl-L-arginine	ATP	R10880	white
+nocardicin nonribosomal peptide synthetase NocB	1.14.15.43	L-4-Hydroxyphenylglycyl-L-arginine	H2O	R10880	white
+nocardicin nonribosomal peptide synthetase NocB	1.14.15.43	L-4-Hydroxyphenylglycyl-L-arginine	L-4-Hydroxyphenylglycine	R10880	white
+nocardicin nonribosomal peptide synthetase NocB	1.14.15.43	L-4-Hydroxyphenylglycyl-L-arginine	L-Arginine	R10880	white
+nocardicin nonribosomal peptide synthetase NocB	1.14.15.43	L-4-Hydroxyphenylglycyl-L-arginine	L-Serine	R10880	white
+nocardicin nonribosomal peptide synthetase NocB	1.14.15.43	L-Arginine	AMP	R10880	white
+nocardicin nonribosomal peptide synthetase NocB	1.14.15.43	L-Arginine	Diphosphate	R10880	white
+nocardicin nonribosomal peptide synthetase NocB	1.14.15.43	L-Arginine	L-4-Hydroxyphenylglycyl-L-arginine	R10880	white
+nocardicin nonribosomal peptide synthetase NocB	1.14.15.43	L-Arginine	Nocardicin G	R10880	white
+nocardicin nonribosomal peptide synthetase NocB	1.14.15.43	L-Serine	AMP	R10880	white
+nocardicin nonribosomal peptide synthetase NocB	1.14.15.43	L-Serine	Diphosphate	R10880	white
+nocardicin nonribosomal peptide synthetase NocB	1.14.15.43	L-Serine	L-4-Hydroxyphenylglycyl-L-arginine	R10880	white
+nocardicin nonribosomal peptide synthetase NocB	1.14.15.43	L-Serine	Nocardicin G	R10880	white
+nocardicin nonribosomal peptide synthetase NocB	1.14.15.43	Nocardicin G	ATP	R10880	white
+nocardicin nonribosomal peptide synthetase NocB	1.14.15.43	Nocardicin G	H2O	R10880	white
+nocardicin nonribosomal peptide synthetase NocB	1.14.15.43	Nocardicin G	L-4-Hydroxyphenylglycine	R10880	white
+nocardicin nonribosomal peptide synthetase NocB	1.14.15.43	Nocardicin G	L-Arginine	R10880	white
+nocardicin nonribosomal peptide synthetase NocB	1.14.15.43	Nocardicin G	L-Serine	R10880	white
+nocardicin-A epimerase	5.1.1.14	Isonocardicin A	Nocardicin A	R03073	white
+nocardicin-A epimerase	5.1.1.14	Nocardicin A	Isonocardicin A	R03073	white
+putative 2-oxoglutarate oxygenase	4.1.1.-	C20916	Tabtoxin	R10890	white
+putative 2-oxoglutarate oxygenase	4.1.1.-	Tabtoxin	C20916	R10890	white
+putative acetyltransferase	2.3.1.-	2,3,4,5-Tetrahydrodipicolinate	CoA	R04364	white
+putative acetyltransferase	2.3.1.-	2,3,4,5-Tetrahydrodipicolinate	N-Acetyl-L-2-amino-6-oxopimelate	R04364	white
+putative acetyltransferase	2.3.1.-	Acetyl-CoA	CoA	R04364	white
+putative acetyltransferase	2.3.1.-	Acetyl-CoA	N-Acetyl-L-2-amino-6-oxopimelate	R04364	white
+putative acetyltransferase	2.3.1.-	CoA	2,3,4,5-Tetrahydrodipicolinate	R04364	white
+putative acetyltransferase	2.3.1.-	CoA	Acetyl-CoA	R04364	white
+putative acetyltransferase	2.3.1.-	CoA	H2O	R04364	white
+putative acetyltransferase	2.3.1.-	H2O	CoA	R04364	white
+putative acetyltransferase	2.3.1.-	H2O	N-Acetyl-L-2-amino-6-oxopimelate	R04364	white
+putative acetyltransferase	2.3.1.-	N-Acetyl-L-2-amino-6-oxopimelate	2,3,4,5-Tetrahydrodipicolinate	R04364	white
+putative acetyltransferase	2.3.1.-	N-Acetyl-L-2-amino-6-oxopimelate	Acetyl-CoA	R04364	white
+putative acetyltransferase	2.3.1.-	N-Acetyl-L-2-amino-6-oxopimelate	H2O	R04364	white
+putative beta-lactam synthetase	4.1.1.-	C20915	C20916	R10889	white
+putative beta-lactam synthetase	4.1.1.-	C20916	C20915	R10889	white
+putative tabtoxin peptidase	3.4.-.-	H2O	L-Threonine	R10891	white
+putative tabtoxin peptidase	3.4.-.-	H2O	Tabtoxinine-beta-lactam	R10891	white
+putative tabtoxin peptidase	3.4.-.-	L-Threonine	H2O	R10891	white
+putative tabtoxin peptidase	3.4.-.-	L-Threonine	Tabtoxin	R10891	white
+putative tabtoxin peptidase	3.4.-.-	Tabtoxin	L-Threonine	R10891	white
+putative tabtoxin peptidase	3.4.-.-	Tabtoxin	Tabtoxinine-beta-lactam	R10891	white
+putative tabtoxin peptidase	3.4.-.-	Tabtoxinine-beta-lactam	H2O	R10891	white
+putative tabtoxin peptidase	3.4.-.-	Tabtoxinine-beta-lactam	Tabtoxin	R10891	white
+sulfate adenylyltransferase subunit 1	2.7.7.4	ATP	Adenylyl sulfate	R00529	green
+sulfate adenylyltransferase subunit 1	2.7.7.4	ATP	Diphosphate	R00529	green
+sulfate adenylyltransferase subunit 1	2.7.7.4	Sulfate	Adenylyl sulfate	R00529	green
+sulfate adenylyltransferase subunit 1	2.7.7.4	Sulfate	Diphosphate	R00529	green
+sulfate adenylyltransferase subunit 2	2.7.7.4	ATP	Adenylyl sulfate	R00529	green
+sulfate adenylyltransferase subunit 2	2.7.7.4	ATP	Diphosphate	R00529	green
+sulfate adenylyltransferase subunit 2	2.7.7.4	Sulfate	Adenylyl sulfate	R00529	green
+sulfate adenylyltransferase subunit 2	2.7.7.4	Sulfate	Diphosphate	R00529	green
