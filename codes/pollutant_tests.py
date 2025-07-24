@@ -91,7 +91,8 @@ if __name__ == "__main__":
 
     df = pd.read_csv("./data_files/pollutants.csv")
 
-    sink_file = "data_files/biocyc_cmpd_rpcleaned.csv"
+    #sink_file = "data_files/biocyc_cmpd_rpcleaned.csv"
+    sink_file = "data_files/kegg_rp.csv"
     rules_file = "../retrorules_rr02_rp2_flat_forward.csv"
 
     session_num = input("Enter session number: ")
@@ -105,8 +106,10 @@ if __name__ == "__main__":
     dmin = int(input("Enter minimum diameter (default 6): ") or 6)
     dmax = int(input("Enter maximum diameter (default 16): ") or 16)
 
+    topx = int(input("Enter maximum structures (default 100): ") or 100)
+
     returncode, stdout, stderr = rp_single_source(sink_file, rules_file, outdir, source_name, source_inchi, 
-                                                  steps=steps, dmin=dmin, dmax=dmax)
+                                                  steps=steps, dmin=dmin, dmax=dmax, topx=topx)
     
     print("Return code:", returncode)
     print("Standard Output:", stdout)
