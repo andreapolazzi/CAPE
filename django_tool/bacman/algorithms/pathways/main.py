@@ -20,6 +20,7 @@ def main(start:str, end:str, inchi):
 
     if start not in node_list:
         print("start not in node_list")
+        """
         RP.rp_single_source(sink='/work/igem/iGEM/django_tool/bacman/algorithms/pathways/rp_data/biocyc_cmpd_rpcleaned.csv',
                             rules='/work/igem/retrorules_rr02_rp2_flat_forward.csv',
                             outdir='/work/igem/iGEM/django_tool/bacman/algorithms/pathways/rp_results',
@@ -29,8 +30,11 @@ def main(start:str, end:str, inchi):
         print("RetroPath prediction completed")
         RpGraph.tsv_generator(file_path=f'/work/igem/iGEM/django_tool/bacman/algorithms/pathways/rp_results/Methyl_tert-butyl_ether_scope.csv',
                               outdir='/work/igem/iGEM/django_tool/bacman/algorithms/pathways/Pathways/')
+        """
+        print("Generating a graph from RetroPath output")
         start_pway_graph = MetabolicGraph.from_tsv('rp_edges.tsv')
         start_pway_graph.join2megaGraph()
+        print("Merged the two graphs")
 
     if end not in node_list:
         print("end not in nodes")
@@ -94,4 +98,4 @@ def main(start:str, end:str, inchi):
 
 
 if __name__ == '__main__':
-    main("Methyl tert-butyl ether", "Lactate", "InChI=1S/C5H12O/c1-5(2,3)6-4/h1-4H3")
+    main(start="Methyl tert-butyl ether", end="d-glucose", inchi="InChI=1S/C5H12O/c1-5(2,3)6-4/h1-4H3")
