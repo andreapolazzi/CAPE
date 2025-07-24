@@ -25,15 +25,16 @@ def main(start:str, end:str, inchi):
                             name=start,
                             inchi=inchi,
                             steps=5,)
-        RpGraph.tsv_generator(file_path=f"/work/igem/iGEM/django_tool/bacman/algorithms/pathways/rp_results/{start}_scope.csv",
-                              outdir="/work/igem/iGEM/django_tool/bacman/algorithms/pathways/rp_results")
-        start_pway_graph = MetabolicGraph.from_tsv(f'/work/igem/iGEM/django_tool/bacman/algorithms/pathways/rp_results/rp_edges.tsv') # da compilare
+        RpGraph.tsv_generator(file_path=f"/work/igem/iGEM/django_tool/bacman/algorithms/pathways/rp_results/Methyl_tert-butyl_ether_scope.csv",
+                              outdir="/work/igem/iGEM/django_tool/bacman/algorithms/pathways/rp_results/")
+        start_pway_graph = MetabolicGraph.from_tsv(f'/work/igem/iGEM/django_tool/bacman/algorithms/pathways/rp_results/rp_edges.tsv')
         start_pway_graph.join2megaGraph()
-        
+
     if end not in node_list:
+        print("end not in nodes")
         # DEFINE HOW TO CALL RETROPATH IN THIS CASE
-        end_pway_graph = MetabolicGraph.from_tsv(f'.tsv') # da compilare
-        end_pway_graph.join2megaGraph()
+        # end_pway_graph = MetabolicGraph.from_tsv(f'.tsv') # da compilare
+        # end_pway_graph.join2megaGraph()
 
 
     # Find up to 3 shortest paths
@@ -88,3 +89,7 @@ def main(start:str, end:str, inchi):
             txt[idx-1] += f"\n{step}"
 
     return txt, non_green_ecs
+
+
+if __name__ == '__main__':
+    main("Methyl tert-butyl ether", "Lactate", "InChI=1S/C5H12O/c1-5(2,3)6-4/h1-4H3")
