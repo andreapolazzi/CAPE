@@ -1,837 +1,882 @@
-enzyme_name	EC	source	target	color
-ADP-ribosylation factor-binding protein GGA	3.1.4.45	Acetyl-CoA	CoA	white
-ADP-ribosylation factor-binding protein GGA	3.1.4.45	Acetyl-CoA	G13038	white
-ADP-ribosylation factor-binding protein GGA	3.1.4.45	CoA	Acetyl-CoA	white
-ADP-ribosylation factor-binding protein GGA	3.1.4.45	CoA	G13037	white
-ADP-ribosylation factor-binding protein GGA	3.1.4.45	G13037	CoA	white
-ADP-ribosylation factor-binding protein GGA	3.1.4.45	G13037	G13038	white
-ADP-ribosylation factor-binding protein GGA	3.1.4.45	G13038	Acetyl-CoA	white
-ADP-ribosylation factor-binding protein GGA	3.1.4.45	G13038	G13037	white
-AP-1 complex subunit beta-1	3.1.4.45	Acetyl-CoA	CoA	white
-AP-1 complex subunit beta-1	3.1.4.45	Acetyl-CoA	G13038	white
-AP-1 complex subunit beta-1	3.1.4.45	CoA	Acetyl-CoA	white
-AP-1 complex subunit beta-1	3.1.4.45	CoA	G13037	white
-AP-1 complex subunit beta-1	3.1.4.45	G13037	CoA	white
-AP-1 complex subunit beta-1	3.1.4.45	G13037	G13038	white
-AP-1 complex subunit beta-1	3.1.4.45	G13038	Acetyl-CoA	white
-AP-1 complex subunit beta-1	3.1.4.45	G13038	G13037	white
-AP-1 complex subunit gamma-1	3.1.4.45	Acetyl-CoA	CoA	white
-AP-1 complex subunit gamma-1	3.1.4.45	Acetyl-CoA	G13038	white
-AP-1 complex subunit gamma-1	3.1.4.45	CoA	Acetyl-CoA	white
-AP-1 complex subunit gamma-1	3.1.4.45	CoA	G13037	white
-AP-1 complex subunit gamma-1	3.1.4.45	G13037	CoA	white
-AP-1 complex subunit gamma-1	3.1.4.45	G13037	G13038	white
-AP-1 complex subunit gamma-1	3.1.4.45	G13038	Acetyl-CoA	white
-AP-1 complex subunit gamma-1	3.1.4.45	G13038	G13037	white
-AP-1 complex subunit mu	3.1.4.45	Acetyl-CoA	CoA	white
-AP-1 complex subunit mu	3.1.4.45	Acetyl-CoA	G13038	white
-AP-1 complex subunit mu	3.1.4.45	CoA	Acetyl-CoA	white
-AP-1 complex subunit mu	3.1.4.45	CoA	G13037	white
-AP-1 complex subunit mu	3.1.4.45	G13037	CoA	white
-AP-1 complex subunit mu	3.1.4.45	G13037	G13038	white
-AP-1 complex subunit mu	3.1.4.45	G13038	Acetyl-CoA	white
-AP-1 complex subunit mu	3.1.4.45	G13038	G13037	white
-AP-1 complex subunit sigma 1/2	3.1.4.45	Acetyl-CoA	CoA	white
-AP-1 complex subunit sigma 1/2	3.1.4.45	Acetyl-CoA	G13038	white
-AP-1 complex subunit sigma 1/2	3.1.4.45	CoA	Acetyl-CoA	white
-AP-1 complex subunit sigma 1/2	3.1.4.45	CoA	G13037	white
-AP-1 complex subunit sigma 1/2	3.1.4.45	G13037	CoA	white
-AP-1 complex subunit sigma 1/2	3.1.4.45	G13037	G13038	white
-AP-1 complex subunit sigma 1/2	3.1.4.45	G13038	Acetyl-CoA	white
-AP-1 complex subunit sigma 1/2	3.1.4.45	G13038	G13037	white
-AP-1 complex subunit sigma-3	3.1.4.45	Acetyl-CoA	CoA	white
-AP-1 complex subunit sigma-3	3.1.4.45	Acetyl-CoA	G13038	white
-AP-1 complex subunit sigma-3	3.1.4.45	CoA	Acetyl-CoA	white
-AP-1 complex subunit sigma-3	3.1.4.45	CoA	G13037	white
-AP-1 complex subunit sigma-3	3.1.4.45	G13037	CoA	white
-AP-1 complex subunit sigma-3	3.1.4.45	G13037	G13038	white
-AP-1 complex subunit sigma-3	3.1.4.45	G13038	Acetyl-CoA	white
-AP-1 complex subunit sigma-3	3.1.4.45	G13038	G13037	white
-AP-3 complex subunit beta	3.1.4.45	Acetyl-CoA	CoA	white
-AP-3 complex subunit beta	3.1.4.45	Acetyl-CoA	G13038	white
-AP-3 complex subunit beta	3.1.4.45	CoA	Acetyl-CoA	white
-AP-3 complex subunit beta	3.1.4.45	CoA	G13037	white
-AP-3 complex subunit beta	3.1.4.45	G13037	CoA	white
-AP-3 complex subunit beta	3.1.4.45	G13037	G13038	white
-AP-3 complex subunit beta	3.1.4.45	G13038	Acetyl-CoA	white
-AP-3 complex subunit beta	3.1.4.45	G13038	G13037	white
-AP-3 complex subunit delta	3.1.4.45	Acetyl-CoA	CoA	white
-AP-3 complex subunit delta	3.1.4.45	Acetyl-CoA	G13038	white
-AP-3 complex subunit delta	3.1.4.45	CoA	Acetyl-CoA	white
-AP-3 complex subunit delta	3.1.4.45	CoA	G13037	white
-AP-3 complex subunit delta	3.1.4.45	G13037	CoA	white
-AP-3 complex subunit delta	3.1.4.45	G13037	G13038	white
-AP-3 complex subunit delta	3.1.4.45	G13038	Acetyl-CoA	white
-AP-3 complex subunit delta	3.1.4.45	G13038	G13037	white
-AP-3 complex subunit mu	3.1.4.45	Acetyl-CoA	CoA	white
-AP-3 complex subunit mu	3.1.4.45	Acetyl-CoA	G13038	white
-AP-3 complex subunit mu	3.1.4.45	CoA	Acetyl-CoA	white
-AP-3 complex subunit mu	3.1.4.45	CoA	G13037	white
-AP-3 complex subunit mu	3.1.4.45	G13037	CoA	white
-AP-3 complex subunit mu	3.1.4.45	G13037	G13038	white
-AP-3 complex subunit mu	3.1.4.45	G13038	Acetyl-CoA	white
-AP-3 complex subunit mu	3.1.4.45	G13038	G13037	white
-AP-3 complex subunit sigma	3.1.4.45	Acetyl-CoA	CoA	white
-AP-3 complex subunit sigma	3.1.4.45	Acetyl-CoA	G13038	white
-AP-3 complex subunit sigma	3.1.4.45	CoA	Acetyl-CoA	white
-AP-3 complex subunit sigma	3.1.4.45	CoA	G13037	white
-AP-3 complex subunit sigma	3.1.4.45	G13037	CoA	white
-AP-3 complex subunit sigma	3.1.4.45	G13037	G13038	white
-AP-3 complex subunit sigma	3.1.4.45	G13038	Acetyl-CoA	white
-AP-3 complex subunit sigma	3.1.4.45	G13038	G13037	white
-AP-4 complex subunit beta-1	3.1.3.2	FMN	Orthophosphate	white
-AP-4 complex subunit beta-1	3.1.3.2	FMN	Riboflavin	white
-AP-4 complex subunit beta-1	3.1.3.2	H2O	Orthophosphate	white
-AP-4 complex subunit beta-1	3.1.3.2	H2O	Riboflavin	white
-AP-4 complex subunit beta-1	3.1.3.2	Orthophosphate	FMN	white
-AP-4 complex subunit beta-1	3.1.3.2	Orthophosphate	H2O	white
-AP-4 complex subunit beta-1	3.1.3.2	Riboflavin	FMN	white
-AP-4 complex subunit beta-1	3.1.3.2	Riboflavin	H2O	white
-AP-4 complex subunit epsilon-1	3.1.3.2	FMN	Orthophosphate	white
-AP-4 complex subunit epsilon-1	3.1.3.2	FMN	Riboflavin	white
-AP-4 complex subunit epsilon-1	3.1.3.2	H2O	Orthophosphate	white
-AP-4 complex subunit epsilon-1	3.1.3.2	H2O	Riboflavin	white
-AP-4 complex subunit epsilon-1	3.1.3.2	Orthophosphate	FMN	white
-AP-4 complex subunit epsilon-1	3.1.3.2	Orthophosphate	H2O	white
-AP-4 complex subunit epsilon-1	3.1.3.2	Riboflavin	FMN	white
-AP-4 complex subunit epsilon-1	3.1.3.2	Riboflavin	H2O	white
-AP-4 complex subunit mu-1	3.1.3.2	FMN	Orthophosphate	white
-AP-4 complex subunit mu-1	3.1.3.2	FMN	Riboflavin	white
-AP-4 complex subunit mu-1	3.1.3.2	H2O	Orthophosphate	white
-AP-4 complex subunit mu-1	3.1.3.2	H2O	Riboflavin	white
-AP-4 complex subunit mu-1	3.1.3.2	Orthophosphate	FMN	white
-AP-4 complex subunit mu-1	3.1.3.2	Orthophosphate	H2O	white
-AP-4 complex subunit mu-1	3.1.3.2	Riboflavin	FMN	white
-AP-4 complex subunit mu-1	3.1.3.2	Riboflavin	H2O	white
-AP-4 complex subunit sigma-1	3.1.3.2	FMN	Orthophosphate	white
-AP-4 complex subunit sigma-1	3.1.3.2	FMN	Riboflavin	white
-AP-4 complex subunit sigma-1	3.1.3.2	H2O	Orthophosphate	white
-AP-4 complex subunit sigma-1	3.1.3.2	H2O	Riboflavin	white
-AP-4 complex subunit sigma-1	3.1.3.2	Orthophosphate	FMN	white
-AP-4 complex subunit sigma-1	3.1.3.2	Orthophosphate	H2O	white
-AP-4 complex subunit sigma-1	3.1.3.2	Riboflavin	FMN	white
-AP-4 complex subunit sigma-1	3.1.3.2	Riboflavin	H2O	white
-ATP-binding cassette, subfamily A (ABC1), member 2	7.4.2.14	beta-D-Ribofuranose	beta-D-Ribopyranose	white
-ATP-binding cassette, subfamily A (ABC1), member 2	7.4.2.14	beta-D-Ribopyranose	beta-D-Ribofuranose	white
-ATP-binding cassette, subfamily B (MDR/TAP), member 9	7.6.2.2	beta-D-Ribofuranose	beta-D-Ribopyranose	white
-ATP-binding cassette, subfamily B (MDR/TAP), member 9	7.6.2.2	beta-D-Ribopyranose	beta-D-Ribofuranose	white
-CD164 antigen	2.7.8.17	Fatty acid	H2O	white
-CD164 antigen	2.7.8.17	Fatty acid	N-Acylsphingosine	white
-CD164 antigen	2.7.8.17	H2O	Fatty acid	white
-CD164 antigen	2.7.8.17	H2O	Sphingosine	white
-CD164 antigen	2.7.8.17	N-Acylsphingosine	Fatty acid	white
-CD164 antigen	2.7.8.17	N-Acylsphingosine	Sphingosine	white
-CD164 antigen	2.7.8.17	Sphingosine	H2O	white
-CD164 antigen	2.7.8.17	Sphingosine	N-Acylsphingosine	white
-CD63 antigen	2.7.8.17	Fatty acid	H2O	white
-CD63 antigen	2.7.8.17	Fatty acid	N-Acylsphingosine	white
-CD63 antigen	2.7.8.17	H2O	Fatty acid	white
-CD63 antigen	2.7.8.17	H2O	Sphingosine	white
-CD63 antigen	2.7.8.17	N-Acylsphingosine	Fatty acid	white
-CD63 antigen	2.7.8.17	N-Acylsphingosine	Sphingosine	white
-CD63 antigen	2.7.8.17	Sphingosine	H2O	white
-CD63 antigen	2.7.8.17	Sphingosine	N-Acylsphingosine	white
-CD68 antigen	2.7.8.17	Fatty acid	H2O	white
-CD68 antigen	2.7.8.17	Fatty acid	N-Acylsphingosine	white
-CD68 antigen	2.7.8.17	H2O	Fatty acid	white
-CD68 antigen	2.7.8.17	H2O	Sphingosine	white
-CD68 antigen	2.7.8.17	N-Acylsphingosine	Fatty acid	white
-CD68 antigen	2.7.8.17	N-Acylsphingosine	Sphingosine	white
-CD68 antigen	2.7.8.17	Sphingosine	H2O	white
-CD68 antigen	2.7.8.17	Sphingosine	N-Acylsphingosine	white
-L-iduronidase	3.2.1.76	G13035	G13036	white
-L-iduronidase	3.2.1.76	G13035	L-Iduronic acid	white
-L-iduronidase	3.2.1.76	G13036	G13035	white
-L-iduronidase	3.2.1.76	G13036	H2O	white
-L-iduronidase	3.2.1.76	H2O	G13036	white
-L-iduronidase	3.2.1.76	H2O	L-Iduronic acid	white
-L-iduronidase	3.2.1.76	L-Iduronic acid	G13035	white
-L-iduronidase	3.2.1.76	L-Iduronic acid	H2O	white
-MFS transporter, ACS family, solute carrier family 17 (sodium-dependent inorganic phosphate cotransporter), member 5	2.7.8.17	Fatty acid	H2O	white
-MFS transporter, ACS family, solute carrier family 17 (sodium-dependent inorganic phosphate cotransporter), member 5	2.7.8.17	Fatty acid	N-Acylsphingosine	white
-MFS transporter, ACS family, solute carrier family 17 (sodium-dependent inorganic phosphate cotransporter), member 5	2.7.8.17	H2O	Fatty acid	white
-MFS transporter, ACS family, solute carrier family 17 (sodium-dependent inorganic phosphate cotransporter), member 5	2.7.8.17	H2O	Sphingosine	white
-MFS transporter, ACS family, solute carrier family 17 (sodium-dependent inorganic phosphate cotransporter), member 5	2.7.8.17	N-Acylsphingosine	Fatty acid	white
-MFS transporter, ACS family, solute carrier family 17 (sodium-dependent inorganic phosphate cotransporter), member 5	2.7.8.17	N-Acylsphingosine	Sphingosine	white
-MFS transporter, ACS family, solute carrier family 17 (sodium-dependent inorganic phosphate cotransporter), member 5	2.7.8.17	Sphingosine	H2O	white
-MFS transporter, ACS family, solute carrier family 17 (sodium-dependent inorganic phosphate cotransporter), member 5	2.7.8.17	Sphingosine	N-Acylsphingosine	white
-MFS transporter, DHA1 family, ceroid-lipofuscinosis neuronal protein 7	2.7.8.17	Fatty acid	H2O	white
-MFS transporter, DHA1 family, ceroid-lipofuscinosis neuronal protein 7	2.7.8.17	Fatty acid	N-Acylsphingosine	white
-MFS transporter, DHA1 family, ceroid-lipofuscinosis neuronal protein 7	2.7.8.17	H2O	Fatty acid	white
-MFS transporter, DHA1 family, ceroid-lipofuscinosis neuronal protein 7	2.7.8.17	H2O	Sphingosine	white
-MFS transporter, DHA1 family, ceroid-lipofuscinosis neuronal protein 7	2.7.8.17	N-Acylsphingosine	Fatty acid	white
-MFS transporter, DHA1 family, ceroid-lipofuscinosis neuronal protein 7	2.7.8.17	N-Acylsphingosine	Sphingosine	white
-MFS transporter, DHA1 family, ceroid-lipofuscinosis neuronal protein 7	2.7.8.17	Sphingosine	H2O	white
-MFS transporter, DHA1 family, ceroid-lipofuscinosis neuronal protein 7	2.7.8.17	Sphingosine	N-Acylsphingosine	white
-MTOR-associated protein MEAK7	3.2.1.35	G00872	G13043	white
-MTOR-associated protein MEAK7	3.2.1.35	G00872	H2O	white
-MTOR-associated protein MEAK7	3.2.1.35	G13043	G00872	white
-MTOR-associated protein MEAK7	3.2.1.35	G13043	N-Acetylgalactosamine	white
-MTOR-associated protein MEAK7	3.2.1.35	H2O	G00872	white
-MTOR-associated protein MEAK7	3.2.1.35	H2O	N-Acetylgalactosamine	white
-MTOR-associated protein MEAK7	3.2.1.35	N-Acetylgalactosamine	G13043	white
-MTOR-associated protein MEAK7	3.2.1.35	N-Acetylgalactosamine	H2O	white
-N-acetylgalactosamine-6-sulfatase	3.1.6.4	G01945	G01977	white
-N-acetylgalactosamine-6-sulfatase	3.1.6.4	G01945	Sulfate	white
-N-acetylgalactosamine-6-sulfatase	3.1.6.4	G01977	G01945	white
-N-acetylgalactosamine-6-sulfatase	3.1.6.4	G01977	H2O	white
-N-acetylgalactosamine-6-sulfatase	3.1.6.4	H2O	G01977	white
-N-acetylgalactosamine-6-sulfatase	3.1.6.4	H2O	Sulfate	white
-N-acetylgalactosamine-6-sulfatase	3.1.6.4	Sulfate	G01945	white
-N-acetylgalactosamine-6-sulfatase	3.1.6.4	Sulfate	H2O	white
-N-acetylglucosamine-1-phosphate transferase, gamma subunit	2.7.8.17	Fatty acid	H2O	white
-N-acetylglucosamine-1-phosphate transferase, gamma subunit	2.7.8.17	Fatty acid	N-Acylsphingosine	white
-N-acetylglucosamine-1-phosphate transferase, gamma subunit	2.7.8.17	H2O	Fatty acid	white
-N-acetylglucosamine-1-phosphate transferase, gamma subunit	2.7.8.17	H2O	Sphingosine	white
-N-acetylglucosamine-1-phosphate transferase, gamma subunit	2.7.8.17	N-Acylsphingosine	Fatty acid	white
-N-acetylglucosamine-1-phosphate transferase, gamma subunit	2.7.8.17	N-Acylsphingosine	Sphingosine	white
-N-acetylglucosamine-1-phosphate transferase, gamma subunit	2.7.8.17	Sphingosine	H2O	white
-N-acetylglucosamine-1-phosphate transferase, gamma subunit	2.7.8.17	Sphingosine	N-Acylsphingosine	white
-N-acetylglucosamine-1-phosphodiester alpha-N-acetylglucosaminidase	3.1.4.45	Acetyl-CoA	CoA	white
-N-acetylglucosamine-1-phosphodiester alpha-N-acetylglucosaminidase	3.1.4.45	Acetyl-CoA	G13038	white
-N-acetylglucosamine-1-phosphodiester alpha-N-acetylglucosaminidase	3.1.4.45	CoA	Acetyl-CoA	white
-N-acetylglucosamine-1-phosphodiester alpha-N-acetylglucosaminidase	3.1.4.45	CoA	G13037	white
-N-acetylglucosamine-1-phosphodiester alpha-N-acetylglucosaminidase	3.1.4.45	G13037	CoA	white
-N-acetylglucosamine-1-phosphodiester alpha-N-acetylglucosaminidase	3.1.4.45	G13037	G13038	white
-N-acetylglucosamine-1-phosphodiester alpha-N-acetylglucosaminidase	3.1.4.45	G13038	Acetyl-CoA	white
-N-acetylglucosamine-1-phosphodiester alpha-N-acetylglucosaminidase	3.1.4.45	G13038	G13037	white
-N-acetylglucosamine-6-sulfatase	3.1.6.14	G13073	G13074	white
-N-acetylglucosamine-6-sulfatase	3.1.6.14	G13073	Sulfate	white
-N-acetylglucosamine-6-sulfatase	3.1.6.14	G13074	G13073	white
-N-acetylglucosamine-6-sulfatase	3.1.6.14	G13074	H2O	white
-N-acetylglucosamine-6-sulfatase	3.1.6.14	H2O	G13074	white
-N-acetylglucosamine-6-sulfatase	3.1.6.14	H2O	Sulfate	white
-N-acetylglucosamine-6-sulfatase	3.1.6.14	Sulfate	G13073	white
-N-acetylglucosamine-6-sulfatase	3.1.6.14	Sulfate	H2O	white
-N-sulfoglucosamine sulfohydrolase	3.10.1.1	G13036	G13037	white
-N-sulfoglucosamine sulfohydrolase	3.10.1.1	G13036	Sulfate	white
-N-sulfoglucosamine sulfohydrolase	3.10.1.1	G13037	G13036	white
-N-sulfoglucosamine sulfohydrolase	3.10.1.1	G13037	H2O	white
-N-sulfoglucosamine sulfohydrolase	3.10.1.1	H2O	G13037	white
-N-sulfoglucosamine sulfohydrolase	3.10.1.1	H2O	Sulfate	white
-N-sulfoglucosamine sulfohydrolase	3.10.1.1	Sulfate	G13036	white
-N-sulfoglucosamine sulfohydrolase	3.10.1.1	Sulfate	H2O	white
-N4-(beta-N-acetylglucosaminyl)-L-asparaginase	3.5.1.26	Fatty acid	H2O	white
-N4-(beta-N-acetylglucosaminyl)-L-asparaginase	3.5.1.26	Fatty acid	N-Acylsphingosine	white
-N4-(beta-N-acetylglucosaminyl)-L-asparaginase	3.5.1.26	H2O	Fatty acid	white
-N4-(beta-N-acetylglucosaminyl)-L-asparaginase	3.5.1.26	H2O	Sphingosine	white
-N4-(beta-N-acetylglucosaminyl)-L-asparaginase	3.5.1.26	N-Acylsphingosine	Fatty acid	white
-N4-(beta-N-acetylglucosaminyl)-L-asparaginase	3.5.1.26	N-Acylsphingosine	Sphingosine	white
-N4-(beta-N-acetylglucosaminyl)-L-asparaginase	3.5.1.26	Sphingosine	H2O	white
-N4-(beta-N-acetylglucosaminyl)-L-asparaginase	3.5.1.26	Sphingosine	N-Acylsphingosine	white
-Niemann-Pick C1 protein	2.7.8.17	Fatty acid	H2O	white
-Niemann-Pick C1 protein	2.7.8.17	Fatty acid	N-Acylsphingosine	white
-Niemann-Pick C1 protein	2.7.8.17	H2O	Fatty acid	white
-Niemann-Pick C1 protein	2.7.8.17	H2O	Sphingosine	white
-Niemann-Pick C1 protein	2.7.8.17	N-Acylsphingosine	Fatty acid	white
-Niemann-Pick C1 protein	2.7.8.17	N-Acylsphingosine	Sphingosine	white
-Niemann-Pick C1 protein	2.7.8.17	Sphingosine	H2O	white
-Niemann-Pick C1 protein	2.7.8.17	Sphingosine	N-Acylsphingosine	white
-Niemann-Pick C2 protein	2.7.8.17	Fatty acid	H2O	white
-Niemann-Pick C2 protein	2.7.8.17	Fatty acid	N-Acylsphingosine	white
-Niemann-Pick C2 protein	2.7.8.17	H2O	Fatty acid	white
-Niemann-Pick C2 protein	2.7.8.17	H2O	Sphingosine	white
-Niemann-Pick C2 protein	2.7.8.17	N-Acylsphingosine	Fatty acid	white
-Niemann-Pick C2 protein	2.7.8.17	N-Acylsphingosine	Sphingosine	white
-Niemann-Pick C2 protein	2.7.8.17	Sphingosine	H2O	white
-Niemann-Pick C2 protein	2.7.8.17	Sphingosine	N-Acylsphingosine	white
-UDP-N-acetylglucosamine-lysosomal-enzyme	2.7.8.17	Fatty acid	H2O	white
-UDP-N-acetylglucosamine-lysosomal-enzyme	2.7.8.17	Fatty acid	N-Acylsphingosine	white
-UDP-N-acetylglucosamine-lysosomal-enzyme	2.7.8.17	H2O	Fatty acid	white
-UDP-N-acetylglucosamine-lysosomal-enzyme	2.7.8.17	H2O	Sphingosine	white
-UDP-N-acetylglucosamine-lysosomal-enzyme	2.7.8.17	N-Acylsphingosine	Fatty acid	white
-UDP-N-acetylglucosamine-lysosomal-enzyme	2.7.8.17	N-Acylsphingosine	Sphingosine	white
-UDP-N-acetylglucosamine-lysosomal-enzyme	2.7.8.17	Sphingosine	H2O	white
-UDP-N-acetylglucosamine-lysosomal-enzyme	2.7.8.17	Sphingosine	N-Acylsphingosine	white
-V-type H+-transporting ATPase 16kDa proteolipid subunit	1.8.3.7	G00009	G00171	white
-V-type H+-transporting ATPase 16kDa proteolipid subunit	1.8.3.7	G00009	beta-D-Glucose	white
-V-type H+-transporting ATPase 16kDa proteolipid subunit	1.8.3.7	G00171	G00009	white
-V-type H+-transporting ATPase 16kDa proteolipid subunit	1.8.3.7	G00171	H2O	white
-V-type H+-transporting ATPase 16kDa proteolipid subunit	1.8.3.7	H2O	G00171	white
-V-type H+-transporting ATPase 16kDa proteolipid subunit	1.8.3.7	H2O	beta-D-Glucose	white
-V-type H+-transporting ATPase 16kDa proteolipid subunit	1.8.3.7	beta-D-Glucose	G00009	white
-V-type H+-transporting ATPase 16kDa proteolipid subunit	1.8.3.7	beta-D-Glucose	H2O	white
-V-type H+-transporting ATPase 21kDa proteolipid subunit	1.8.3.7	G00009	G00171	white
-V-type H+-transporting ATPase 21kDa proteolipid subunit	1.8.3.7	G00009	beta-D-Glucose	white
-V-type H+-transporting ATPase 21kDa proteolipid subunit	1.8.3.7	G00171	G00009	white
-V-type H+-transporting ATPase 21kDa proteolipid subunit	1.8.3.7	G00171	H2O	white
-V-type H+-transporting ATPase 21kDa proteolipid subunit	1.8.3.7	H2O	G00171	white
-V-type H+-transporting ATPase 21kDa proteolipid subunit	1.8.3.7	H2O	beta-D-Glucose	white
-V-type H+-transporting ATPase 21kDa proteolipid subunit	1.8.3.7	beta-D-Glucose	G00009	white
-V-type H+-transporting ATPase 21kDa proteolipid subunit	1.8.3.7	beta-D-Glucose	H2O	white
-V-type H+-transporting ATPase S1 subunit	1.8.3.7	G00009	G00171	white
-V-type H+-transporting ATPase S1 subunit	1.8.3.7	G00009	beta-D-Glucose	white
-V-type H+-transporting ATPase S1 subunit	1.8.3.7	G00171	G00009	white
-V-type H+-transporting ATPase S1 subunit	1.8.3.7	G00171	H2O	white
-V-type H+-transporting ATPase S1 subunit	1.8.3.7	H2O	G00171	white
-V-type H+-transporting ATPase S1 subunit	1.8.3.7	H2O	beta-D-Glucose	white
-V-type H+-transporting ATPase S1 subunit	1.8.3.7	beta-D-Glucose	G00009	white
-V-type H+-transporting ATPase S1 subunit	1.8.3.7	beta-D-Glucose	H2O	white
-V-type H+-transporting ATPase subunit H	1.8.3.7	G00009	G00171	white
-V-type H+-transporting ATPase subunit H	1.8.3.7	G00009	beta-D-Glucose	white
-V-type H+-transporting ATPase subunit H	1.8.3.7	G00171	G00009	white
-V-type H+-transporting ATPase subunit H	1.8.3.7	G00171	H2O	white
-V-type H+-transporting ATPase subunit H	1.8.3.7	H2O	G00171	white
-V-type H+-transporting ATPase subunit H	1.8.3.7	H2O	beta-D-Glucose	white
-V-type H+-transporting ATPase subunit H	1.8.3.7	beta-D-Glucose	G00009	white
-V-type H+-transporting ATPase subunit H	1.8.3.7	beta-D-Glucose	H2O	white
-V-type H+-transporting ATPase subunit a	1.8.3.7	G00009	G00171	white
-V-type H+-transporting ATPase subunit a	1.8.3.7	G00009	beta-D-Glucose	white
-V-type H+-transporting ATPase subunit a	1.8.3.7	G00171	G00009	white
-V-type H+-transporting ATPase subunit a	1.8.3.7	G00171	H2O	white
-V-type H+-transporting ATPase subunit a	1.8.3.7	H2O	G00171	white
-V-type H+-transporting ATPase subunit a	1.8.3.7	H2O	beta-D-Glucose	white
-V-type H+-transporting ATPase subunit a	1.8.3.7	beta-D-Glucose	G00009	white
-V-type H+-transporting ATPase subunit a	1.8.3.7	beta-D-Glucose	H2O	white
-V-type H+-transporting ATPase subunit d	1.8.3.7	G00009	G00171	white
-V-type H+-transporting ATPase subunit d	1.8.3.7	G00009	beta-D-Glucose	white
-V-type H+-transporting ATPase subunit d	1.8.3.7	G00171	G00009	white
-V-type H+-transporting ATPase subunit d	1.8.3.7	G00171	H2O	white
-V-type H+-transporting ATPase subunit d	1.8.3.7	H2O	G00171	white
-V-type H+-transporting ATPase subunit d	1.8.3.7	H2O	beta-D-Glucose	white
-V-type H+-transporting ATPase subunit d	1.8.3.7	beta-D-Glucose	G00009	white
-V-type H+-transporting ATPase subunit d	1.8.3.7	beta-D-Glucose	H2O	white
-acid ceramidase	3.5.1.23	Fatty acid	H2O	white
-acid ceramidase	3.5.1.23	Fatty acid	N-Acylsphingosine	white
-acid ceramidase	3.5.1.23	H2O	Fatty acid	white
-acid ceramidase	3.5.1.23	H2O	Sphingosine	white
-acid ceramidase	3.5.1.23	N-Acylsphingosine	Fatty acid	white
-acid ceramidase	3.5.1.23	N-Acylsphingosine	Sphingosine	white
-acid ceramidase	3.5.1.23	Sphingosine	H2O	white
-acid ceramidase	3.5.1.23	Sphingosine	N-Acylsphingosine	white
-alpha-L-fucosidase	3.2.1.51	G13035	G13036	white
-alpha-L-fucosidase	3.2.1.51	G13035	L-Iduronic acid	white
-alpha-L-fucosidase	3.2.1.51	G13036	G13035	white
-alpha-L-fucosidase	3.2.1.51	G13036	H2O	white
-alpha-L-fucosidase	3.2.1.51	H2O	G13036	white
-alpha-L-fucosidase	3.2.1.51	H2O	L-Iduronic acid	white
-alpha-L-fucosidase	3.2.1.51	L-Iduronic acid	G13035	white
-alpha-L-fucosidase	3.2.1.51	L-Iduronic acid	H2O	white
-alpha-N-acetylgalactosaminidase	3.2.1.49	G00094	G00095	white
-alpha-N-acetylgalactosaminidase	3.2.1.49	G00094	H2O	white
-alpha-N-acetylgalactosaminidase	3.2.1.49	G00095	G00094	white
-alpha-N-acetylgalactosaminidase	3.2.1.49	G00095	N-Acetyl-D-galactosamine	white
-alpha-N-acetylgalactosaminidase	3.2.1.49	H2O	G00094	white
-alpha-N-acetylgalactosaminidase	3.2.1.49	H2O	N-Acetyl-D-galactosamine	white
-alpha-N-acetylgalactosaminidase	3.2.1.49	N-Acetyl-D-galactosamine	G00095	white
-alpha-N-acetylgalactosaminidase	3.2.1.49	N-Acetyl-D-galactosamine	H2O	white
-alpha-N-acetylglucosaminidase	3.2.1.50	G13038	G13039	white
-alpha-N-acetylglucosaminidase	3.2.1.50	G13038	N-Acetyl-D-glucosamine	white
-alpha-N-acetylglucosaminidase	3.2.1.50	G13039	G13038	white
-alpha-N-acetylglucosaminidase	3.2.1.50	G13039	H2O	white
-alpha-N-acetylglucosaminidase	3.2.1.50	H2O	G13039	white
-alpha-N-acetylglucosaminidase	3.2.1.50	H2O	N-Acetyl-D-glucosamine	white
-alpha-N-acetylglucosaminidase	3.2.1.50	N-Acetyl-D-glucosamine	G13038	white
-alpha-N-acetylglucosaminidase	3.2.1.50	N-Acetyl-D-glucosamine	H2O	white
-alpha-galactosidase	3.2.1.22	D-Galactose	H2O	white
-alpha-galactosidase	3.2.1.22	D-Galactose	Melibiose	white
-alpha-galactosidase	3.2.1.22	D-Glucose	H2O	white
-alpha-galactosidase	3.2.1.22	D-Glucose	Melibiose	white
-alpha-galactosidase	3.2.1.22	H2O	D-Galactose	white
-alpha-galactosidase	3.2.1.22	H2O	D-Glucose	white
-alpha-galactosidase	3.2.1.22	Melibiose	D-Galactose	white
-alpha-galactosidase	3.2.1.22	Melibiose	D-Glucose	white
-arylsulfatase A	3.1.6.8	Galactosylceramide	H2O	white
-arylsulfatase A	3.1.6.8	Galactosylceramide	Sulfatide	white
-arylsulfatase A	3.1.6.8	H2O	Galactosylceramide	white
-arylsulfatase A	3.1.6.8	H2O	Sulfate	white
-arylsulfatase A	3.1.6.8	Sulfate	H2O	white
-arylsulfatase A	3.1.6.8	Sulfate	Sulfatide	white
-arylsulfatase A	3.1.6.8	Sulfatide	Galactosylceramide	white
-arylsulfatase A	3.1.6.8	Sulfatide	Sulfate	white
-arylsulfatase B	3.1.6.12	G12336	G13043	white
-arylsulfatase B	3.1.6.12	G12336	Sulfate	white
-arylsulfatase B	3.1.6.12	G13043	G12336	white
-arylsulfatase B	3.1.6.12	G13043	H2O	white
-arylsulfatase B	3.1.6.12	H2O	G13043	white
-arylsulfatase B	3.1.6.12	H2O	Sulfate	white
-arylsulfatase B	3.1.6.12	Sulfate	G12336	white
-arylsulfatase B	3.1.6.12	Sulfate	H2O	white
-arylsulfatase G	3.1.6.-	G12336	G13043	white
-arylsulfatase G	3.1.6.-	G12336	Sulfate	white
-arylsulfatase G	3.1.6.-	G13043	G12336	white
-arylsulfatase G	3.1.6.-	G13043	H2O	white
-arylsulfatase G	3.1.6.-	H2O	G13043	white
-arylsulfatase G	3.1.6.-	H2O	Sulfate	white
-arylsulfatase G	3.1.6.-	Sulfate	G12336	white
-arylsulfatase G	3.1.6.-	Sulfate	H2O	white
-battenin	2.7.8.17	Fatty acid	H2O	white
-battenin	2.7.8.17	Fatty acid	N-Acylsphingosine	white
-battenin	2.7.8.17	H2O	Fatty acid	white
-battenin	2.7.8.17	H2O	Sphingosine	white
-battenin	2.7.8.17	N-Acylsphingosine	Fatty acid	white
-battenin	2.7.8.17	N-Acylsphingosine	Sphingosine	white
-battenin	2.7.8.17	Sphingosine	H2O	white
-battenin	2.7.8.17	Sphingosine	N-Acylsphingosine	white
-beta-galactosidase	3.2.1.23	D-Galactose	H2O	white
-beta-galactosidase	3.2.1.23	D-Galactose	Lactose	white
-beta-galactosidase	3.2.1.23	H2O	D-Galactose	white
-beta-galactosidase	3.2.1.23	H2O	alpha-D-Glucose	white
-beta-galactosidase	3.2.1.23	Lactose	D-Galactose	white
-beta-galactosidase	3.2.1.23	Lactose	alpha-D-Glucose	white
-beta-galactosidase	3.2.1.23	alpha-D-Glucose	H2O	white
-beta-galactosidase	3.2.1.23	alpha-D-Glucose	Lactose	white
-beta-glucuronidase	3.2.1.31	Alcohol	H2O	white
-beta-glucuronidase	3.2.1.31	Alcohol	beta-D-Glucuronoside	white
-beta-glucuronidase	3.2.1.31	D-Glucuronate	H2O	white
-beta-glucuronidase	3.2.1.31	D-Glucuronate	beta-D-Glucuronoside	white
-beta-glucuronidase	3.2.1.31	H2O	Alcohol	white
-beta-glucuronidase	3.2.1.31	H2O	D-Glucuronate	white
-beta-glucuronidase	3.2.1.31	beta-D-Glucuronoside	Alcohol	white
-beta-glucuronidase	3.2.1.31	beta-D-Glucuronoside	D-Glucuronate	white
-cathepsin A (carboxypeptidase C)	3.4.16.5	G00009	G00171	white
-cathepsin A (carboxypeptidase C)	3.4.16.5	G00009	beta-D-Glucose	white
-cathepsin A (carboxypeptidase C)	3.4.16.5	G00171	G00009	white
-cathepsin A (carboxypeptidase C)	3.4.16.5	G00171	H2O	white
-cathepsin A (carboxypeptidase C)	3.4.16.5	H2O	G00171	white
-cathepsin A (carboxypeptidase C)	3.4.16.5	H2O	beta-D-Glucose	white
-cathepsin A (carboxypeptidase C)	3.4.16.5	beta-D-Glucose	G00009	white
-cathepsin A (carboxypeptidase C)	3.4.16.5	beta-D-Glucose	H2O	white
-cathepsin B	3.4.22.1	G00009	G00171	white
-cathepsin B	3.4.22.1	G00009	beta-D-Glucose	white
-cathepsin B	3.4.22.1	G00171	G00009	white
-cathepsin B	3.4.22.1	G00171	H2O	white
-cathepsin B	3.4.22.1	H2O	G00171	white
-cathepsin B	3.4.22.1	H2O	beta-D-Glucose	white
-cathepsin B	3.4.22.1	beta-D-Glucose	G00009	white
-cathepsin B	3.4.22.1	beta-D-Glucose	H2O	white
-cathepsin C	3.4.14.1	G00009	G00171	white
-cathepsin C	3.4.14.1	G00009	beta-D-Glucose	white
-cathepsin C	3.4.14.1	G00171	G00009	white
-cathepsin C	3.4.14.1	G00171	H2O	white
-cathepsin C	3.4.14.1	H2O	G00171	white
-cathepsin C	3.4.14.1	H2O	beta-D-Glucose	white
-cathepsin C	3.4.14.1	beta-D-Glucose	G00009	white
-cathepsin C	3.4.14.1	beta-D-Glucose	H2O	white
-cathepsin D	3.4.23.5	G00009	G00171	white
-cathepsin D	3.4.23.5	G00009	beta-D-Glucose	white
-cathepsin D	3.4.23.5	G00171	G00009	white
-cathepsin D	3.4.23.5	G00171	H2O	white
-cathepsin D	3.4.23.5	H2O	G00171	white
-cathepsin D	3.4.23.5	H2O	beta-D-Glucose	white
-cathepsin D	3.4.23.5	beta-D-Glucose	G00009	white
-cathepsin D	3.4.23.5	beta-D-Glucose	H2O	white
-cathepsin E	3.4.23.34	G00009	G00171	white
-cathepsin E	3.4.23.34	G00009	beta-D-Glucose	white
-cathepsin E	3.4.23.34	G00171	G00009	white
-cathepsin E	3.4.23.34	G00171	H2O	white
-cathepsin E	3.4.23.34	H2O	G00171	white
-cathepsin E	3.4.23.34	H2O	beta-D-Glucose	white
-cathepsin E	3.4.23.34	beta-D-Glucose	G00009	white
-cathepsin E	3.4.23.34	beta-D-Glucose	H2O	white
-cathepsin F	3.4.22.41	G00009	G00171	white
-cathepsin F	3.4.22.41	G00009	beta-D-Glucose	white
-cathepsin F	3.4.22.41	G00171	G00009	white
-cathepsin F	3.4.22.41	G00171	H2O	white
-cathepsin F	3.4.22.41	H2O	G00171	white
-cathepsin F	3.4.22.41	H2O	beta-D-Glucose	white
-cathepsin F	3.4.22.41	beta-D-Glucose	G00009	white
-cathepsin F	3.4.22.41	beta-D-Glucose	H2O	white
-cathepsin G	3.4.21.20	G00009	G00171	white
-cathepsin G	3.4.21.20	G00009	beta-D-Glucose	white
-cathepsin G	3.4.21.20	G00171	G00009	white
-cathepsin G	3.4.21.20	G00171	H2O	white
-cathepsin G	3.4.21.20	H2O	G00171	white
-cathepsin G	3.4.21.20	H2O	beta-D-Glucose	white
-cathepsin G	3.4.21.20	beta-D-Glucose	G00009	white
-cathepsin G	3.4.21.20	beta-D-Glucose	H2O	white
-cathepsin H	3.4.22.16	G00009	G00171	white
-cathepsin H	3.4.22.16	G00009	beta-D-Glucose	white
-cathepsin H	3.4.22.16	G00171	G00009	white
-cathepsin H	3.4.22.16	G00171	H2O	white
-cathepsin H	3.4.22.16	H2O	G00171	white
-cathepsin H	3.4.22.16	H2O	beta-D-Glucose	white
-cathepsin H	3.4.22.16	beta-D-Glucose	G00009	white
-cathepsin H	3.4.22.16	beta-D-Glucose	H2O	white
-cathepsin K	3.4.22.38	G00009	G00171	white
-cathepsin K	3.4.22.38	G00009	beta-D-Glucose	white
-cathepsin K	3.4.22.38	G00171	G00009	white
-cathepsin K	3.4.22.38	G00171	H2O	white
-cathepsin K	3.4.22.38	H2O	G00171	white
-cathepsin K	3.4.22.38	H2O	beta-D-Glucose	white
-cathepsin K	3.4.22.38	beta-D-Glucose	G00009	white
-cathepsin K	3.4.22.38	beta-D-Glucose	H2O	white
-cathepsin L	3.4.22.15	G00009	G00171	white
-cathepsin L	3.4.22.15	G00009	beta-D-Glucose	white
-cathepsin L	3.4.22.15	G00171	G00009	white
-cathepsin L	3.4.22.15	G00171	H2O	white
-cathepsin L	3.4.22.15	H2O	G00171	white
-cathepsin L	3.4.22.15	H2O	beta-D-Glucose	white
-cathepsin L	3.4.22.15	beta-D-Glucose	G00009	white
-cathepsin L	3.4.22.15	beta-D-Glucose	H2O	white
-cathepsin M	3.4.22.-	G00009	G00171	white
-cathepsin M	3.4.22.-	G00009	beta-D-Glucose	white
-cathepsin M	3.4.22.-	G00171	G00009	white
-cathepsin M	3.4.22.-	G00171	H2O	white
-cathepsin M	3.4.22.-	H2O	G00171	white
-cathepsin M	3.4.22.-	H2O	beta-D-Glucose	white
-cathepsin M	3.4.22.-	beta-D-Glucose	G00009	white
-cathepsin M	3.4.22.-	beta-D-Glucose	H2O	white
-cathepsin O	3.4.22.42	G00009	G00171	white
-cathepsin O	3.4.22.42	G00009	beta-D-Glucose	white
-cathepsin O	3.4.22.42	G00171	G00009	white
-cathepsin O	3.4.22.42	G00171	H2O	white
-cathepsin O	3.4.22.42	H2O	G00171	white
-cathepsin O	3.4.22.42	H2O	beta-D-Glucose	white
-cathepsin O	3.4.22.42	beta-D-Glucose	G00009	white
-cathepsin O	3.4.22.42	beta-D-Glucose	H2O	white
-cathepsin P	3.4.22.-	G00009	G00171	white
-cathepsin P	3.4.22.-	G00009	beta-D-Glucose	white
-cathepsin P	3.4.22.-	G00171	G00009	white
-cathepsin P	3.4.22.-	G00171	H2O	white
-cathepsin P	3.4.22.-	H2O	G00171	white
-cathepsin P	3.4.22.-	H2O	beta-D-Glucose	white
-cathepsin P	3.4.22.-	beta-D-Glucose	G00009	white
-cathepsin P	3.4.22.-	beta-D-Glucose	H2O	white
-cathepsin S	3.4.22.27	G00009	G00171	white
-cathepsin S	3.4.22.27	G00009	beta-D-Glucose	white
-cathepsin S	3.4.22.27	G00171	G00009	white
-cathepsin S	3.4.22.27	G00171	H2O	white
-cathepsin S	3.4.22.27	H2O	G00171	white
-cathepsin S	3.4.22.27	H2O	beta-D-Glucose	white
-cathepsin S	3.4.22.27	beta-D-Glucose	G00009	white
-cathepsin S	3.4.22.27	beta-D-Glucose	H2O	white
-cathepsin V	3.4.22.43	G00009	G00171	white
-cathepsin V	3.4.22.43	G00009	beta-D-Glucose	white
-cathepsin V	3.4.22.43	G00171	G00009	white
-cathepsin V	3.4.22.43	G00171	H2O	white
-cathepsin V	3.4.22.43	H2O	G00171	white
-cathepsin V	3.4.22.43	H2O	beta-D-Glucose	white
-cathepsin V	3.4.22.43	beta-D-Glucose	G00009	white
-cathepsin V	3.4.22.43	beta-D-Glucose	H2O	white
-cathepsin W	3.4.22.-	G00009	G00171	white
-cathepsin W	3.4.22.-	G00009	beta-D-Glucose	white
-cathepsin W	3.4.22.-	G00171	G00009	white
-cathepsin W	3.4.22.-	G00171	H2O	white
-cathepsin W	3.4.22.-	H2O	G00171	white
-cathepsin W	3.4.22.-	H2O	beta-D-Glucose	white
-cathepsin W	3.4.22.-	beta-D-Glucose	G00009	white
-cathepsin W	3.4.22.-	beta-D-Glucose	H2O	white
-cathepsin X	3.4.18.1	G00009	G00171	white
-cathepsin X	3.4.18.1	G00009	beta-D-Glucose	white
-cathepsin X	3.4.18.1	G00171	G00009	white
-cathepsin X	3.4.18.1	G00171	H2O	white
-cathepsin X	3.4.18.1	H2O	G00171	white
-cathepsin X	3.4.18.1	H2O	beta-D-Glucose	white
-cathepsin X	3.4.18.1	beta-D-Glucose	G00009	white
-cathepsin X	3.4.18.1	beta-D-Glucose	H2O	white
-cation-dependent mannose-6-phosphate receptor	2.3.1.78	Acetyl-CoA	CoA	white
-cation-dependent mannose-6-phosphate receptor	2.3.1.78	Acetyl-CoA	G13038	white
-cation-dependent mannose-6-phosphate receptor	2.3.1.78	CoA	Acetyl-CoA	white
-cation-dependent mannose-6-phosphate receptor	2.3.1.78	CoA	G13037	white
-cation-dependent mannose-6-phosphate receptor	2.3.1.78	G13037	CoA	white
-cation-dependent mannose-6-phosphate receptor	2.3.1.78	G13037	G13038	white
-cation-dependent mannose-6-phosphate receptor	2.3.1.78	G13038	Acetyl-CoA	white
-cation-dependent mannose-6-phosphate receptor	2.3.1.78	G13038	G13037	white
-ceroid-lipofuscinosis neuronal protein 5	2.7.8.17	Fatty acid	H2O	white
-ceroid-lipofuscinosis neuronal protein 5	2.7.8.17	Fatty acid	N-Acylsphingosine	white
-ceroid-lipofuscinosis neuronal protein 5	2.7.8.17	H2O	Fatty acid	white
-ceroid-lipofuscinosis neuronal protein 5	2.7.8.17	H2O	Sphingosine	white
-ceroid-lipofuscinosis neuronal protein 5	2.7.8.17	N-Acylsphingosine	Fatty acid	white
-ceroid-lipofuscinosis neuronal protein 5	2.7.8.17	N-Acylsphingosine	Sphingosine	white
-ceroid-lipofuscinosis neuronal protein 5	2.7.8.17	Sphingosine	H2O	white
-ceroid-lipofuscinosis neuronal protein 5	2.7.8.17	Sphingosine	N-Acylsphingosine	white
-clathrin heavy chain	2.3.1.78	Acetyl-CoA	CoA	white
-clathrin heavy chain	2.3.1.78	Acetyl-CoA	G13038	white
-clathrin heavy chain	2.3.1.78	CoA	Acetyl-CoA	white
-clathrin heavy chain	2.3.1.78	CoA	G13037	white
-clathrin heavy chain	2.3.1.78	G13037	CoA	white
-clathrin heavy chain	2.3.1.78	G13037	G13038	white
-clathrin heavy chain	2.3.1.78	G13038	Acetyl-CoA	white
-clathrin heavy chain	2.3.1.78	G13038	G13037	white
-clathrin light chain A	2.3.1.78	Acetyl-CoA	CoA	white
-clathrin light chain A	2.3.1.78	Acetyl-CoA	G13038	white
-clathrin light chain A	2.3.1.78	CoA	Acetyl-CoA	white
-clathrin light chain A	2.3.1.78	CoA	G13037	white
-clathrin light chain A	2.3.1.78	G13037	CoA	white
-clathrin light chain A	2.3.1.78	G13037	G13038	white
-clathrin light chain A	2.3.1.78	G13038	Acetyl-CoA	white
-clathrin light chain A	2.3.1.78	G13038	G13037	white
-clathrin light chain B	2.3.1.78	Acetyl-CoA	CoA	white
-clathrin light chain B	2.3.1.78	Acetyl-CoA	G13038	white
-clathrin light chain B	2.3.1.78	CoA	Acetyl-CoA	white
-clathrin light chain B	2.3.1.78	CoA	G13037	white
-clathrin light chain B	2.3.1.78	G13037	CoA	white
-clathrin light chain B	2.3.1.78	G13037	G13038	white
-clathrin light chain B	2.3.1.78	G13038	Acetyl-CoA	white
-clathrin light chain B	2.3.1.78	G13038	G13037	white
-cystinosin	2.7.8.17	Fatty acid	H2O	white
-cystinosin	2.7.8.17	Fatty acid	N-Acylsphingosine	white
-cystinosin	2.7.8.17	H2O	Fatty acid	white
-cystinosin	2.7.8.17	H2O	Sphingosine	white
-cystinosin	2.7.8.17	N-Acylsphingosine	Fatty acid	white
-cystinosin	2.7.8.17	N-Acylsphingosine	Sphingosine	white
-cystinosin	2.7.8.17	Sphingosine	H2O	white
-cystinosin	2.7.8.17	Sphingosine	N-Acylsphingosine	white
-deoxyribonuclease II	3.1.22.1	1-Acyl-sn-glycero-3-phosphocholine	Fatty acid	white
-deoxyribonuclease II	3.1.22.1	1-Acyl-sn-glycero-3-phosphocholine	sn-Glycero-3-phosphocholine	white
-deoxyribonuclease II	3.1.22.1	Fatty acid	1-Acyl-sn-glycero-3-phosphocholine	white
-deoxyribonuclease II	3.1.22.1	Fatty acid	H2O	white
-deoxyribonuclease II	3.1.22.1	H2O	Fatty acid	white
-deoxyribonuclease II	3.1.22.1	H2O	sn-Glycero-3-phosphocholine	white
-deoxyribonuclease II	3.1.22.1	sn-Glycero-3-phosphocholine	1-Acyl-sn-glycero-3-phosphocholine	white
-deoxyribonuclease II	3.1.22.1	sn-Glycero-3-phosphocholine	H2O	white
-ectonucleoside triphosphate diphosphohydrolase 4	3.6.1.6	H2O	Orthophosphate	white
-ectonucleoside triphosphate diphosphohydrolase 4	3.6.1.6	H2O	UMP	white
-ectonucleoside triphosphate diphosphohydrolase 4	3.6.1.6	Orthophosphate	H2O	white
-ectonucleoside triphosphate diphosphohydrolase 4	3.6.1.6	Orthophosphate	UDP	white
-ectonucleoside triphosphate diphosphohydrolase 4	3.6.1.6	UDP	Orthophosphate	white
-ectonucleoside triphosphate diphosphohydrolase 4	3.6.1.6	UDP	UMP	white
-ectonucleoside triphosphate diphosphohydrolase 4	3.6.1.6	UMP	H2O	white
-ectonucleoside triphosphate diphosphohydrolase 4	3.6.1.6	UMP	UDP	white
-galactosylceramidase	3.2.1.46	D-Galactose	Galactosylceramide	white
-galactosylceramidase	3.2.1.46	D-Galactose	H2O	white
-galactosylceramidase	3.2.1.46	Galactosylceramide	D-Galactose	white
-galactosylceramidase	3.2.1.46	Galactosylceramide	N-Acylsphingosine	white
-galactosylceramidase	3.2.1.46	H2O	D-Galactose	white
-galactosylceramidase	3.2.1.46	H2O	N-Acylsphingosine	white
-galactosylceramidase	3.2.1.46	N-Acylsphingosine	Galactosylceramide	white
-galactosylceramidase	3.2.1.46	N-Acylsphingosine	H2O	white
-ganglioside GM2 activator	2.7.8.17	Fatty acid	H2O	white
-ganglioside GM2 activator	2.7.8.17	Fatty acid	N-Acylsphingosine	white
-ganglioside GM2 activator	2.7.8.17	H2O	Fatty acid	white
-ganglioside GM2 activator	2.7.8.17	H2O	Sphingosine	white
-ganglioside GM2 activator	2.7.8.17	N-Acylsphingosine	Fatty acid	white
-ganglioside GM2 activator	2.7.8.17	N-Acylsphingosine	Sphingosine	white
-ganglioside GM2 activator	2.7.8.17	Sphingosine	H2O	white
-ganglioside GM2 activator	2.7.8.17	Sphingosine	N-Acylsphingosine	white
-glucosylceramidase	3.2.1.45	D-Glucose	Glucosylceramide	white
-glucosylceramidase	3.2.1.45	D-Glucose	H2O	white
-glucosylceramidase	3.2.1.45	Glucosylceramide	D-Glucose	white
-glucosylceramidase	3.2.1.45	Glucosylceramide	N-Acylsphingosine	white
-glucosylceramidase	3.2.1.45	H2O	D-Glucose	white
-glucosylceramidase	3.2.1.45	H2O	N-Acylsphingosine	white
-glucosylceramidase	3.2.1.45	N-Acylsphingosine	Glucosylceramide	white
-glucosylceramidase	3.2.1.45	N-Acylsphingosine	H2O	white
-heparan-alpha-glucosaminide N-acetyltransferase	2.3.1.78	Acetyl-CoA	CoA	white
-heparan-alpha-glucosaminide N-acetyltransferase	2.3.1.78	Acetyl-CoA	G13038	white
-heparan-alpha-glucosaminide N-acetyltransferase	2.3.1.78	CoA	Acetyl-CoA	white
-heparan-alpha-glucosaminide N-acetyltransferase	2.3.1.78	CoA	G13037	white
-heparan-alpha-glucosaminide N-acetyltransferase	2.3.1.78	G13037	CoA	white
-heparan-alpha-glucosaminide N-acetyltransferase	2.3.1.78	G13037	G13038	white
-heparan-alpha-glucosaminide N-acetyltransferase	2.3.1.78	G13038	Acetyl-CoA	white
-heparan-alpha-glucosaminide N-acetyltransferase	2.3.1.78	G13038	G13037	white
-hexosaminidase	3.2.1.52	Chitobiose	N-Acetyl-D-glucosamine	white
-hexosaminidase	3.2.1.52	H2O	N-Acetyl-D-glucosamine	white
-hexosaminidase	3.2.1.52	N-Acetyl-D-glucosamine	Chitobiose	white
-hexosaminidase	3.2.1.52	N-Acetyl-D-glucosamine	H2O	white
-hyaluronoglucosaminidase	3.2.1.35	G00872	G13043	white
-hyaluronoglucosaminidase	3.2.1.35	G00872	H2O	white
-hyaluronoglucosaminidase	3.2.1.35	G13043	G00872	white
-hyaluronoglucosaminidase	3.2.1.35	G13043	N-Acetylgalactosamine	white
-hyaluronoglucosaminidase	3.2.1.35	H2O	G00872	white
-hyaluronoglucosaminidase	3.2.1.35	H2O	N-Acetylgalactosamine	white
-hyaluronoglucosaminidase	3.2.1.35	N-Acetylgalactosamine	G13043	white
-hyaluronoglucosaminidase	3.2.1.35	N-Acetylgalactosamine	H2O	white
-iduronate 2-sulfatase	3.1.6.13	G13034	G13035	white
-iduronate 2-sulfatase	3.1.6.13	G13034	Sulfate	white
-iduronate 2-sulfatase	3.1.6.13	G13035	G13034	white
-iduronate 2-sulfatase	3.1.6.13	G13035	H2O	white
-iduronate 2-sulfatase	3.1.6.13	H2O	G13035	white
-iduronate 2-sulfatase	3.1.6.13	H2O	Sulfate	white
-iduronate 2-sulfatase	3.1.6.13	Sulfate	G13034	white
-iduronate 2-sulfatase	3.1.6.13	Sulfate	H2O	white
-insulin-like growth factor 2 receptor	2.3.1.78	Acetyl-CoA	CoA	white
-insulin-like growth factor 2 receptor	2.3.1.78	Acetyl-CoA	G13038	white
-insulin-like growth factor 2 receptor	2.3.1.78	CoA	Acetyl-CoA	white
-insulin-like growth factor 2 receptor	2.3.1.78	CoA	G13037	white
-insulin-like growth factor 2 receptor	2.3.1.78	G13037	CoA	white
-insulin-like growth factor 2 receptor	2.3.1.78	G13037	G13038	white
-insulin-like growth factor 2 receptor	2.3.1.78	G13038	Acetyl-CoA	white
-insulin-like growth factor 2 receptor	2.3.1.78	G13038	G13037	white
-legumain	3.4.22.34	G00009	G00171	white
-legumain	3.4.22.34	G00009	beta-D-Glucose	white
-legumain	3.4.22.34	G00171	G00009	white
-legumain	3.4.22.34	G00171	H2O	white
-legumain	3.4.22.34	H2O	G00171	white
-legumain	3.4.22.34	H2O	beta-D-Glucose	white
-legumain	3.4.22.34	beta-D-Glucose	G00009	white
-legumain	3.4.22.34	beta-D-Glucose	H2O	white
-lipopolysaccharide-induced tumor necrosis factor-alpha factor	3.2.1.35	G00872	G13043	white
-lipopolysaccharide-induced tumor necrosis factor-alpha factor	3.2.1.35	G00872	H2O	white
-lipopolysaccharide-induced tumor necrosis factor-alpha factor	3.2.1.35	G13043	G00872	white
-lipopolysaccharide-induced tumor necrosis factor-alpha factor	3.2.1.35	G13043	N-Acetylgalactosamine	white
-lipopolysaccharide-induced tumor necrosis factor-alpha factor	3.2.1.35	H2O	G00872	white
-lipopolysaccharide-induced tumor necrosis factor-alpha factor	3.2.1.35	H2O	N-Acetylgalactosamine	white
-lipopolysaccharide-induced tumor necrosis factor-alpha factor	3.2.1.35	N-Acetylgalactosamine	G13043	white
-lipopolysaccharide-induced tumor necrosis factor-alpha factor	3.2.1.35	N-Acetylgalactosamine	H2O	white
-lysophospholipase III	3.1.1.5	1-Acyl-sn-glycero-3-phosphocholine	Fatty acid	white
-lysophospholipase III	3.1.1.5	1-Acyl-sn-glycero-3-phosphocholine	sn-Glycero-3-phosphocholine	white
-lysophospholipase III	3.1.1.5	Fatty acid	1-Acyl-sn-glycero-3-phosphocholine	white
-lysophospholipase III	3.1.1.5	Fatty acid	H2O	white
-lysophospholipase III	3.1.1.5	H2O	Fatty acid	white
-lysophospholipase III	3.1.1.5	H2O	sn-Glycero-3-phosphocholine	white
-lysophospholipase III	3.1.1.5	sn-Glycero-3-phosphocholine	1-Acyl-sn-glycero-3-phosphocholine	white
-lysophospholipase III	3.1.1.5	sn-Glycero-3-phosphocholine	H2O	white
-lysosomal acid lipase/cholesteryl ester hydrolase	3.1.1.13	Cholesterol	Cholesterol ester	white
-lysosomal acid lipase/cholesteryl ester hydrolase	3.1.1.13	Cholesterol	H2O	white
-lysosomal acid lipase/cholesteryl ester hydrolase	3.1.1.13	Cholesterol ester	Cholesterol	white
-lysosomal acid lipase/cholesteryl ester hydrolase	3.1.1.13	Cholesterol ester	Fatty acid	white
-lysosomal acid lipase/cholesteryl ester hydrolase	3.1.1.13	Fatty acid	Cholesterol ester	white
-lysosomal acid lipase/cholesteryl ester hydrolase	3.1.1.13	Fatty acid	H2O	white
-lysosomal acid lipase/cholesteryl ester hydrolase	3.1.1.13	H2O	Cholesterol	white
-lysosomal acid lipase/cholesteryl ester hydrolase	3.1.1.13	H2O	Fatty acid	white
-lysosomal acid phosphatase	3.1.3.2	FMN	Orthophosphate	white
-lysosomal acid phosphatase	3.1.3.2	FMN	Riboflavin	white
-lysosomal acid phosphatase	3.1.3.2	H2O	Orthophosphate	white
-lysosomal acid phosphatase	3.1.3.2	H2O	Riboflavin	white
-lysosomal acid phosphatase	3.1.3.2	Orthophosphate	FMN	white
-lysosomal acid phosphatase	3.1.3.2	Orthophosphate	H2O	white
-lysosomal acid phosphatase	3.1.3.2	Riboflavin	FMN	white
-lysosomal acid phosphatase	3.1.3.2	Riboflavin	H2O	white
-lysosomal alpha-glucosidase	3.2.1.20	D-Glucose	H2O	white
-lysosomal alpha-glucosidase	3.2.1.20	D-Glucose	Maltose	white
-lysosomal alpha-glucosidase	3.2.1.20	H2O	D-Glucose	white
-lysosomal alpha-glucosidase	3.2.1.20	Maltose	D-Glucose	white
-lysosomal alpha-mannosidase	3.2.1.24	D-Mannose	G00309	white
-lysosomal alpha-mannosidase	3.2.1.24	D-Mannose	H2O	white
-lysosomal alpha-mannosidase	3.2.1.24	G00309	D-Mannose	white
-lysosomal alpha-mannosidase	3.2.1.24	G00309	G00319	white
-lysosomal alpha-mannosidase	3.2.1.24	G00319	G00309	white
-lysosomal alpha-mannosidase	3.2.1.24	G00319	H2O	white
-lysosomal alpha-mannosidase	3.2.1.24	H2O	D-Mannose	white
-lysosomal alpha-mannosidase	3.2.1.24	H2O	G00319	white
-lysosomal-associated membrane protein 1/2	2.7.8.17	Fatty acid	H2O	white
-lysosomal-associated membrane protein 1/2	2.7.8.17	Fatty acid	N-Acylsphingosine	white
-lysosomal-associated membrane protein 1/2	2.7.8.17	H2O	Fatty acid	white
-lysosomal-associated membrane protein 1/2	2.7.8.17	H2O	Sphingosine	white
-lysosomal-associated membrane protein 1/2	2.7.8.17	N-Acylsphingosine	Fatty acid	white
-lysosomal-associated membrane protein 1/2	2.7.8.17	N-Acylsphingosine	Sphingosine	white
-lysosomal-associated membrane protein 1/2	2.7.8.17	Sphingosine	H2O	white
-lysosomal-associated membrane protein 1/2	2.7.8.17	Sphingosine	N-Acylsphingosine	white
-lysosomal-associated membrane protein 3	2.7.8.17	Fatty acid	H2O	white
-lysosomal-associated membrane protein 3	2.7.8.17	Fatty acid	N-Acylsphingosine	white
-lysosomal-associated membrane protein 3	2.7.8.17	H2O	Fatty acid	white
-lysosomal-associated membrane protein 3	2.7.8.17	H2O	Sphingosine	white
-lysosomal-associated membrane protein 3	2.7.8.17	N-Acylsphingosine	Fatty acid	white
-lysosomal-associated membrane protein 3	2.7.8.17	N-Acylsphingosine	Sphingosine	white
-lysosomal-associated membrane protein 3	2.7.8.17	Sphingosine	H2O	white
-lysosomal-associated membrane protein 3	2.7.8.17	Sphingosine	N-Acylsphingosine	white
-lysosomal-associated transmembrane protein	2.7.8.17	Fatty acid	H2O	white
-lysosomal-associated transmembrane protein	2.7.8.17	Fatty acid	N-Acylsphingosine	white
-lysosomal-associated transmembrane protein	2.7.8.17	H2O	Fatty acid	white
-lysosomal-associated transmembrane protein	2.7.8.17	H2O	Sphingosine	white
-lysosomal-associated transmembrane protein	2.7.8.17	N-Acylsphingosine	Fatty acid	white
-lysosomal-associated transmembrane protein	2.7.8.17	N-Acylsphingosine	Sphingosine	white
-lysosomal-associated transmembrane protein	2.7.8.17	Sphingosine	H2O	white
-lysosomal-associated transmembrane protein	2.7.8.17	Sphingosine	N-Acylsphingosine	white
-lysosome membrane protein 2	2.7.8.17	Fatty acid	H2O	white
-lysosome membrane protein 2	2.7.8.17	Fatty acid	N-Acylsphingosine	white
-lysosome membrane protein 2	2.7.8.17	H2O	Fatty acid	white
-lysosome membrane protein 2	2.7.8.17	H2O	Sphingosine	white
-lysosome membrane protein 2	2.7.8.17	N-Acylsphingosine	Fatty acid	white
-lysosome membrane protein 2	2.7.8.17	N-Acylsphingosine	Sphingosine	white
-lysosome membrane protein 2	2.7.8.17	Sphingosine	H2O	white
-lysosome membrane protein 2	2.7.8.17	Sphingosine	N-Acylsphingosine	white
-mucolipin 1	3.2.1.35	G00872	G13043	white
-mucolipin 1	3.2.1.35	G00872	H2O	white
-mucolipin 1	3.2.1.35	G13043	G00872	white
-mucolipin 1	3.2.1.35	G13043	N-Acetylgalactosamine	white
-mucolipin 1	3.2.1.35	H2O	G00872	white
-mucolipin 1	3.2.1.35	H2O	N-Acetylgalactosamine	white
-mucolipin 1	3.2.1.35	N-Acetylgalactosamine	G13043	white
-mucolipin 1	3.2.1.35	N-Acetylgalactosamine	H2O	white
-napsin-A	3.4.23.-	G00009	G00171	white
-napsin-A	3.4.23.-	G00009	beta-D-Glucose	white
-napsin-A	3.4.23.-	G00171	G00009	white
-napsin-A	3.4.23.-	G00171	H2O	white
-napsin-A	3.4.23.-	H2O	G00171	white
-napsin-A	3.4.23.-	H2O	beta-D-Glucose	white
-napsin-A	3.4.23.-	beta-D-Glucose	G00009	white
-napsin-A	3.4.23.-	beta-D-Glucose	H2O	white
-natural resistance-associated macrophage protein 1	2.7.8.17	Fatty acid	H2O	white
-natural resistance-associated macrophage protein 1	2.7.8.17	Fatty acid	N-Acylsphingosine	white
-natural resistance-associated macrophage protein 1	2.7.8.17	H2O	Fatty acid	white
-natural resistance-associated macrophage protein 1	2.7.8.17	H2O	Sphingosine	white
-natural resistance-associated macrophage protein 1	2.7.8.17	N-Acylsphingosine	Fatty acid	white
-natural resistance-associated macrophage protein 1	2.7.8.17	N-Acylsphingosine	Sphingosine	white
-natural resistance-associated macrophage protein 1	2.7.8.17	Sphingosine	H2O	white
-natural resistance-associated macrophage protein 1	2.7.8.17	Sphingosine	N-Acylsphingosine	white
-natural resistance-associated macrophage protein 2	2.7.8.17	Fatty acid	H2O	white
-natural resistance-associated macrophage protein 2	2.7.8.17	Fatty acid	N-Acylsphingosine	white
-natural resistance-associated macrophage protein 2	2.7.8.17	H2O	Fatty acid	white
-natural resistance-associated macrophage protein 2	2.7.8.17	H2O	Sphingosine	white
-natural resistance-associated macrophage protein 2	2.7.8.17	N-Acylsphingosine	Fatty acid	white
-natural resistance-associated macrophage protein 2	2.7.8.17	N-Acylsphingosine	Sphingosine	white
-natural resistance-associated macrophage protein 2	2.7.8.17	Sphingosine	H2O	white
-natural resistance-associated macrophage protein 2	2.7.8.17	Sphingosine	N-Acylsphingosine	white
-nuclear receptor coactivator 7	3.2.1.35	G00872	G13043	white
-nuclear receptor coactivator 7	3.2.1.35	G00872	H2O	white
-nuclear receptor coactivator 7	3.2.1.35	G13043	G00872	white
-nuclear receptor coactivator 7	3.2.1.35	G13043	N-Acetylgalactosamine	white
-nuclear receptor coactivator 7	3.2.1.35	H2O	G00872	white
-nuclear receptor coactivator 7	3.2.1.35	H2O	N-Acetylgalactosamine	white
-nuclear receptor coactivator 7	3.2.1.35	N-Acetylgalactosamine	G13043	white
-nuclear receptor coactivator 7	3.2.1.35	N-Acetylgalactosamine	H2O	white
-palmitoyl-protein thioesterase	3.1.2.22	CoA	H2O	white
-palmitoyl-protein thioesterase	3.1.2.22	CoA	Palmitoyl-CoA	white
-palmitoyl-protein thioesterase	3.1.2.22	H2O	CoA	white
-palmitoyl-protein thioesterase	3.1.2.22	H2O	Hexadecanoic acid	white
-palmitoyl-protein thioesterase	3.1.2.22	Hexadecanoic acid	H2O	white
-palmitoyl-protein thioesterase	3.1.2.22	Hexadecanoic acid	Palmitoyl-CoA	white
-palmitoyl-protein thioesterase	3.1.2.22	Palmitoyl-CoA	CoA	white
-palmitoyl-protein thioesterase	3.1.2.22	Palmitoyl-CoA	Hexadecanoic acid	white
-rabconnectin-3a	3.2.1.35	G00872	G13043	white
-rabconnectin-3a	3.2.1.35	G00872	H2O	white
-rabconnectin-3a	3.2.1.35	G13043	G00872	white
-rabconnectin-3a	3.2.1.35	G13043	N-Acetylgalactosamine	white
-rabconnectin-3a	3.2.1.35	H2O	G00872	white
-rabconnectin-3a	3.2.1.35	H2O	N-Acetylgalactosamine	white
-rabconnectin-3a	3.2.1.35	N-Acetylgalactosamine	G13043	white
-rabconnectin-3a	3.2.1.35	N-Acetylgalactosamine	H2O	white
-rabconnectin-3b	3.2.1.35	G00872	G13043	white
-rabconnectin-3b	3.2.1.35	G00872	H2O	white
-rabconnectin-3b	3.2.1.35	G13043	G00872	white
-rabconnectin-3b	3.2.1.35	G13043	N-Acetylgalactosamine	white
-rabconnectin-3b	3.2.1.35	H2O	G00872	white
-rabconnectin-3b	3.2.1.35	H2O	N-Acetylgalactosamine	white
-rabconnectin-3b	3.2.1.35	N-Acetylgalactosamine	G13043	white
-rabconnectin-3b	3.2.1.35	N-Acetylgalactosamine	H2O	white
-saposin	2.7.8.17	Fatty acid	H2O	white
-saposin	2.7.8.17	Fatty acid	N-Acylsphingosine	white
-saposin	2.7.8.17	H2O	Fatty acid	white
-saposin	2.7.8.17	H2O	Sphingosine	white
-saposin	2.7.8.17	N-Acylsphingosine	Fatty acid	white
-saposin	2.7.8.17	N-Acylsphingosine	Sphingosine	white
-saposin	2.7.8.17	Sphingosine	H2O	white
-saposin	2.7.8.17	Sphingosine	N-Acylsphingosine	white
-sialidase-1	3.2.1.18	GM3	Lactosylceramide	white
-sialidase-1	3.2.1.18	GM3	N-Acetylneuraminate	white
-sialidase-1	3.2.1.18	H2O	Lactosylceramide	white
-sialidase-1	3.2.1.18	H2O	N-Acetylneuraminate	white
-sialidase-1	3.2.1.18	Lactosylceramide	GM3	white
-sialidase-1	3.2.1.18	Lactosylceramide	H2O	white
-sialidase-1	3.2.1.18	N-Acetylneuraminate	GM3	white
-sialidase-1	3.2.1.18	N-Acetylneuraminate	H2O	white
-sortilin	2.7.8.17	Fatty acid	H2O	white
-sortilin	2.7.8.17	Fatty acid	N-Acylsphingosine	white
-sortilin	2.7.8.17	H2O	Fatty acid	white
-sortilin	2.7.8.17	H2O	Sphingosine	white
-sortilin	2.7.8.17	N-Acylsphingosine	Fatty acid	white
-sortilin	2.7.8.17	N-Acylsphingosine	Sphingosine	white
-sortilin	2.7.8.17	Sphingosine	H2O	white
-sortilin	2.7.8.17	Sphingosine	N-Acylsphingosine	white
-sphingomyelin phosphodiesterase	3.1.4.12	Choline phosphate	H2O	white
-sphingomyelin phosphodiesterase	3.1.4.12	Choline phosphate	Sphingomyelin	white
-sphingomyelin phosphodiesterase	3.1.4.12	H2O	Choline phosphate	white
-sphingomyelin phosphodiesterase	3.1.4.12	H2O	N-Acylsphingosine	white
-sphingomyelin phosphodiesterase	3.1.4.12	N-Acylsphingosine	H2O	white
-sphingomyelin phosphodiesterase	3.1.4.12	N-Acylsphingosine	Sphingomyelin	white
-sphingomyelin phosphodiesterase	3.1.4.12	Sphingomyelin	Choline phosphate	white
-sphingomyelin phosphodiesterase	3.1.4.12	Sphingomyelin	N-Acylsphingosine	white
-tartrate-resistant acid phosphatase type 5	3.1.3.2	FMN	Orthophosphate	white
-tartrate-resistant acid phosphatase type 5	3.1.3.2	FMN	Riboflavin	white
-tartrate-resistant acid phosphatase type 5	3.1.3.2	H2O	Orthophosphate	white
-tartrate-resistant acid phosphatase type 5	3.1.3.2	H2O	Riboflavin	white
-tartrate-resistant acid phosphatase type 5	3.1.3.2	Orthophosphate	FMN	white
-tartrate-resistant acid phosphatase type 5	3.1.3.2	Orthophosphate	H2O	white
-tartrate-resistant acid phosphatase type 5	3.1.3.2	Riboflavin	FMN	white
-tartrate-resistant acid phosphatase type 5	3.1.3.2	Riboflavin	H2O	white
-tripeptidyl-peptidase I	3.4.14.9	G00009	G00171	white
-tripeptidyl-peptidase I	3.4.14.9	G00009	beta-D-Glucose	white
-tripeptidyl-peptidase I	3.4.14.9	G00171	G00009	white
-tripeptidyl-peptidase I	3.4.14.9	G00171	H2O	white
-tripeptidyl-peptidase I	3.4.14.9	H2O	G00171	white
-tripeptidyl-peptidase I	3.4.14.9	H2O	beta-D-Glucose	white
-tripeptidyl-peptidase I	3.4.14.9	beta-D-Glucose	G00009	white
-tripeptidyl-peptidase I	3.4.14.9	beta-D-Glucose	H2O	white
+enzyme_name	EC	source	target	reaction	color
+ADP-ribosylation factor-binding protein GGA	3.1.4.45	Fatty acid	H2O	R01494	white
+ADP-ribosylation factor-binding protein GGA	3.1.4.45	Fatty acid	N-Acylsphingosine	R01494	white
+ADP-ribosylation factor-binding protein GGA	3.1.4.45	H2O	Fatty acid	R01494	white
+ADP-ribosylation factor-binding protein GGA	3.1.4.45	H2O	Sphingosine	R01494	white
+ADP-ribosylation factor-binding protein GGA	3.1.4.45	N-Acylsphingosine	Fatty acid	R01494	white
+ADP-ribosylation factor-binding protein GGA	3.1.4.45	N-Acylsphingosine	Sphingosine	R01494	white
+ADP-ribosylation factor-binding protein GGA	3.1.4.45	Sphingosine	H2O	R01494	white
+ADP-ribosylation factor-binding protein GGA	3.1.4.45	Sphingosine	N-Acylsphingosine	R01494	white
+AP-1 complex subunit beta-1	3.1.4.45	Fatty acid	H2O	R01494	white
+AP-1 complex subunit beta-1	3.1.4.45	Fatty acid	N-Acylsphingosine	R01494	white
+AP-1 complex subunit beta-1	3.1.4.45	H2O	Fatty acid	R01494	white
+AP-1 complex subunit beta-1	3.1.4.45	H2O	Sphingosine	R01494	white
+AP-1 complex subunit beta-1	3.1.4.45	N-Acylsphingosine	Fatty acid	R01494	white
+AP-1 complex subunit beta-1	3.1.4.45	N-Acylsphingosine	Sphingosine	R01494	white
+AP-1 complex subunit beta-1	3.1.4.45	Sphingosine	H2O	R01494	white
+AP-1 complex subunit beta-1	3.1.4.45	Sphingosine	N-Acylsphingosine	R01494	white
+AP-1 complex subunit gamma-1	3.1.4.45	Fatty acid	H2O	R01494	white
+AP-1 complex subunit gamma-1	3.1.4.45	Fatty acid	N-Acylsphingosine	R01494	white
+AP-1 complex subunit gamma-1	3.1.4.45	H2O	Fatty acid	R01494	white
+AP-1 complex subunit gamma-1	3.1.4.45	H2O	Sphingosine	R01494	white
+AP-1 complex subunit gamma-1	3.1.4.45	N-Acylsphingosine	Fatty acid	R01494	white
+AP-1 complex subunit gamma-1	3.1.4.45	N-Acylsphingosine	Sphingosine	R01494	white
+AP-1 complex subunit gamma-1	3.1.4.45	Sphingosine	H2O	R01494	white
+AP-1 complex subunit gamma-1	3.1.4.45	Sphingosine	N-Acylsphingosine	R01494	white
+AP-1 complex subunit mu	3.1.4.45	Fatty acid	H2O	R01494	white
+AP-1 complex subunit mu	3.1.4.45	Fatty acid	N-Acylsphingosine	R01494	white
+AP-1 complex subunit mu	3.1.4.45	H2O	Fatty acid	R01494	white
+AP-1 complex subunit mu	3.1.4.45	H2O	Sphingosine	R01494	white
+AP-1 complex subunit mu	3.1.4.45	N-Acylsphingosine	Fatty acid	R01494	white
+AP-1 complex subunit mu	3.1.4.45	N-Acylsphingosine	Sphingosine	R01494	white
+AP-1 complex subunit mu	3.1.4.45	Sphingosine	H2O	R01494	white
+AP-1 complex subunit mu	3.1.4.45	Sphingosine	N-Acylsphingosine	R01494	white
+AP-1 complex subunit sigma 1/2	3.1.4.45	Fatty acid	H2O	R01494	white
+AP-1 complex subunit sigma 1/2	3.1.4.45	Fatty acid	N-Acylsphingosine	R01494	white
+AP-1 complex subunit sigma 1/2	3.1.4.45	H2O	Fatty acid	R01494	white
+AP-1 complex subunit sigma 1/2	3.1.4.45	H2O	Sphingosine	R01494	white
+AP-1 complex subunit sigma 1/2	3.1.4.45	N-Acylsphingosine	Fatty acid	R01494	white
+AP-1 complex subunit sigma 1/2	3.1.4.45	N-Acylsphingosine	Sphingosine	R01494	white
+AP-1 complex subunit sigma 1/2	3.1.4.45	Sphingosine	H2O	R01494	white
+AP-1 complex subunit sigma 1/2	3.1.4.45	Sphingosine	N-Acylsphingosine	R01494	white
+AP-1 complex subunit sigma-3	3.1.4.45	Fatty acid	H2O	R01494	white
+AP-1 complex subunit sigma-3	3.1.4.45	Fatty acid	N-Acylsphingosine	R01494	white
+AP-1 complex subunit sigma-3	3.1.4.45	H2O	Fatty acid	R01494	white
+AP-1 complex subunit sigma-3	3.1.4.45	H2O	Sphingosine	R01494	white
+AP-1 complex subunit sigma-3	3.1.4.45	N-Acylsphingosine	Fatty acid	R01494	white
+AP-1 complex subunit sigma-3	3.1.4.45	N-Acylsphingosine	Sphingosine	R01494	white
+AP-1 complex subunit sigma-3	3.1.4.45	Sphingosine	H2O	R01494	white
+AP-1 complex subunit sigma-3	3.1.4.45	Sphingosine	N-Acylsphingosine	R01494	white
+AP-3 complex subunit beta	3.1.4.45	Fatty acid	H2O	R01494	white
+AP-3 complex subunit beta	3.1.4.45	Fatty acid	N-Acylsphingosine	R01494	white
+AP-3 complex subunit beta	3.1.4.45	H2O	Fatty acid	R01494	white
+AP-3 complex subunit beta	3.1.4.45	H2O	Sphingosine	R01494	white
+AP-3 complex subunit beta	3.1.4.45	N-Acylsphingosine	Fatty acid	R01494	white
+AP-3 complex subunit beta	3.1.4.45	N-Acylsphingosine	Sphingosine	R01494	white
+AP-3 complex subunit beta	3.1.4.45	Sphingosine	H2O	R01494	white
+AP-3 complex subunit beta	3.1.4.45	Sphingosine	N-Acylsphingosine	R01494	white
+AP-3 complex subunit delta	3.1.4.45	Fatty acid	H2O	R01494	white
+AP-3 complex subunit delta	3.1.4.45	Fatty acid	N-Acylsphingosine	R01494	white
+AP-3 complex subunit delta	3.1.4.45	H2O	Fatty acid	R01494	white
+AP-3 complex subunit delta	3.1.4.45	H2O	Sphingosine	R01494	white
+AP-3 complex subunit delta	3.1.4.45	N-Acylsphingosine	Fatty acid	R01494	white
+AP-3 complex subunit delta	3.1.4.45	N-Acylsphingosine	Sphingosine	R01494	white
+AP-3 complex subunit delta	3.1.4.45	Sphingosine	H2O	R01494	white
+AP-3 complex subunit delta	3.1.4.45	Sphingosine	N-Acylsphingosine	R01494	white
+AP-3 complex subunit mu	3.1.4.45	Fatty acid	H2O	R01494	white
+AP-3 complex subunit mu	3.1.4.45	Fatty acid	N-Acylsphingosine	R01494	white
+AP-3 complex subunit mu	3.1.4.45	H2O	Fatty acid	R01494	white
+AP-3 complex subunit mu	3.1.4.45	H2O	Sphingosine	R01494	white
+AP-3 complex subunit mu	3.1.4.45	N-Acylsphingosine	Fatty acid	R01494	white
+AP-3 complex subunit mu	3.1.4.45	N-Acylsphingosine	Sphingosine	R01494	white
+AP-3 complex subunit mu	3.1.4.45	Sphingosine	H2O	R01494	white
+AP-3 complex subunit mu	3.1.4.45	Sphingosine	N-Acylsphingosine	R01494	white
+AP-3 complex subunit sigma	3.1.4.45	Fatty acid	H2O	R01494	white
+AP-3 complex subunit sigma	3.1.4.45	Fatty acid	N-Acylsphingosine	R01494	white
+AP-3 complex subunit sigma	3.1.4.45	H2O	Fatty acid	R01494	white
+AP-3 complex subunit sigma	3.1.4.45	H2O	Sphingosine	R01494	white
+AP-3 complex subunit sigma	3.1.4.45	N-Acylsphingosine	Fatty acid	R01494	white
+AP-3 complex subunit sigma	3.1.4.45	N-Acylsphingosine	Sphingosine	R01494	white
+AP-3 complex subunit sigma	3.1.4.45	Sphingosine	H2O	R01494	white
+AP-3 complex subunit sigma	3.1.4.45	Sphingosine	N-Acylsphingosine	R01494	white
+AP-4 complex subunit beta-1	3.1.4.45	Fatty acid	H2O	R01494	white
+AP-4 complex subunit beta-1	3.1.4.45	Fatty acid	N-Acylsphingosine	R01494	white
+AP-4 complex subunit beta-1	3.1.4.45	H2O	Fatty acid	R01494	white
+AP-4 complex subunit beta-1	3.1.4.45	H2O	Sphingosine	R01494	white
+AP-4 complex subunit beta-1	3.1.4.45	N-Acylsphingosine	Fatty acid	R01494	white
+AP-4 complex subunit beta-1	3.1.4.45	N-Acylsphingosine	Sphingosine	R01494	white
+AP-4 complex subunit beta-1	3.1.4.45	Sphingosine	H2O	R01494	white
+AP-4 complex subunit beta-1	3.1.4.45	Sphingosine	N-Acylsphingosine	R01494	white
+AP-4 complex subunit epsilon-1	3.1.4.45	Fatty acid	H2O	R01494	white
+AP-4 complex subunit epsilon-1	3.1.4.45	Fatty acid	N-Acylsphingosine	R01494	white
+AP-4 complex subunit epsilon-1	3.1.4.45	H2O	Fatty acid	R01494	white
+AP-4 complex subunit epsilon-1	3.1.4.45	H2O	Sphingosine	R01494	white
+AP-4 complex subunit epsilon-1	3.1.4.45	N-Acylsphingosine	Fatty acid	R01494	white
+AP-4 complex subunit epsilon-1	3.1.4.45	N-Acylsphingosine	Sphingosine	R01494	white
+AP-4 complex subunit epsilon-1	3.1.4.45	Sphingosine	H2O	R01494	white
+AP-4 complex subunit epsilon-1	3.1.4.45	Sphingosine	N-Acylsphingosine	R01494	white
+AP-4 complex subunit mu-1	3.1.4.45	Fatty acid	H2O	R01494	white
+AP-4 complex subunit mu-1	3.1.4.45	Fatty acid	N-Acylsphingosine	R01494	white
+AP-4 complex subunit mu-1	3.1.4.45	H2O	Fatty acid	R01494	white
+AP-4 complex subunit mu-1	3.1.4.45	H2O	Sphingosine	R01494	white
+AP-4 complex subunit mu-1	3.1.4.45	N-Acylsphingosine	Fatty acid	R01494	white
+AP-4 complex subunit mu-1	3.1.4.45	N-Acylsphingosine	Sphingosine	R01494	white
+AP-4 complex subunit mu-1	3.1.4.45	Sphingosine	H2O	R01494	white
+AP-4 complex subunit mu-1	3.1.4.45	Sphingosine	N-Acylsphingosine	R01494	white
+AP-4 complex subunit sigma-1	3.1.4.45	Fatty acid	H2O	R01494	white
+AP-4 complex subunit sigma-1	3.1.4.45	Fatty acid	N-Acylsphingosine	R01494	white
+AP-4 complex subunit sigma-1	3.1.4.45	H2O	Fatty acid	R01494	white
+AP-4 complex subunit sigma-1	3.1.4.45	H2O	Sphingosine	R01494	white
+AP-4 complex subunit sigma-1	3.1.4.45	N-Acylsphingosine	Fatty acid	R01494	white
+AP-4 complex subunit sigma-1	3.1.4.45	N-Acylsphingosine	Sphingosine	R01494	white
+AP-4 complex subunit sigma-1	3.1.4.45	Sphingosine	H2O	R01494	white
+AP-4 complex subunit sigma-1	3.1.4.45	Sphingosine	N-Acylsphingosine	R01494	white
+ATP-binding cassette, subfamily A (ABC1), member 2	7.4.2.14	beta-D-Ribofuranose	beta-D-Ribopyranose	R08247	white
+ATP-binding cassette, subfamily A (ABC1), member 2	7.4.2.14	beta-D-Ribopyranose	beta-D-Ribofuranose	R08247	white
+ATP-binding cassette, subfamily B (MDR/TAP), member 9	7.6.2.2	beta-D-Ribofuranose	beta-D-Ribopyranose	R08247	white
+ATP-binding cassette, subfamily B (MDR/TAP), member 9	7.6.2.2	beta-D-Ribopyranose	beta-D-Ribofuranose	R08247	white
+CD164 antigen	2.7.8.17	Fatty acid	H2O	R01494	white
+CD164 antigen	2.7.8.17	Fatty acid	N-Acylsphingosine	R01494	white
+CD164 antigen	2.7.8.17	H2O	Fatty acid	R01494	white
+CD164 antigen	2.7.8.17	H2O	Sphingosine	R01494	white
+CD164 antigen	2.7.8.17	N-Acylsphingosine	Fatty acid	R01494	white
+CD164 antigen	2.7.8.17	N-Acylsphingosine	Sphingosine	R01494	white
+CD164 antigen	2.7.8.17	Sphingosine	H2O	R01494	white
+CD164 antigen	2.7.8.17	Sphingosine	N-Acylsphingosine	R01494	white
+CD63 antigen	2.7.8.17	Fatty acid	H2O	R01494	white
+CD63 antigen	2.7.8.17	Fatty acid	N-Acylsphingosine	R01494	white
+CD63 antigen	2.7.8.17	H2O	Fatty acid	R01494	white
+CD63 antigen	2.7.8.17	H2O	Sphingosine	R01494	white
+CD63 antigen	2.7.8.17	N-Acylsphingosine	Fatty acid	R01494	white
+CD63 antigen	2.7.8.17	N-Acylsphingosine	Sphingosine	R01494	white
+CD63 antigen	2.7.8.17	Sphingosine	H2O	R01494	white
+CD63 antigen	2.7.8.17	Sphingosine	N-Acylsphingosine	R01494	white
+CD68 antigen	2.7.8.17	Fatty acid	H2O	R01494	white
+CD68 antigen	2.7.8.17	Fatty acid	N-Acylsphingosine	R01494	white
+CD68 antigen	2.7.8.17	H2O	Fatty acid	R01494	white
+CD68 antigen	2.7.8.17	H2O	Sphingosine	R01494	white
+CD68 antigen	2.7.8.17	N-Acylsphingosine	Fatty acid	R01494	white
+CD68 antigen	2.7.8.17	N-Acylsphingosine	Sphingosine	R01494	white
+CD68 antigen	2.7.8.17	Sphingosine	H2O	R01494	white
+CD68 antigen	2.7.8.17	Sphingosine	N-Acylsphingosine	R01494	white
+L-iduronidase	3.2.1.76	G13035	G13036	R07813	white
+L-iduronidase	3.2.1.76	G13035	L-Iduronic acid	R07813	white
+L-iduronidase	3.2.1.76	G13036	G13035	R07813	white
+L-iduronidase	3.2.1.76	G13036	H2O	R07813	white
+L-iduronidase	3.2.1.76	H2O	G13036	R07813	white
+L-iduronidase	3.2.1.76	H2O	L-Iduronic acid	R07813	white
+L-iduronidase	3.2.1.76	L-Iduronic acid	G13035	R07813	white
+L-iduronidase	3.2.1.76	L-Iduronic acid	H2O	R07813	white
+MFS transporter, ACS family, solute carrier family 17 (sodium-dependent inorganic phosphate cotransporter), member 5	2.7.8.17	Fatty acid	H2O	R01494	white
+MFS transporter, ACS family, solute carrier family 17 (sodium-dependent inorganic phosphate cotransporter), member 5	2.7.8.17	Fatty acid	N-Acylsphingosine	R01494	white
+MFS transporter, ACS family, solute carrier family 17 (sodium-dependent inorganic phosphate cotransporter), member 5	2.7.8.17	H2O	Fatty acid	R01494	white
+MFS transporter, ACS family, solute carrier family 17 (sodium-dependent inorganic phosphate cotransporter), member 5	2.7.8.17	H2O	Sphingosine	R01494	white
+MFS transporter, ACS family, solute carrier family 17 (sodium-dependent inorganic phosphate cotransporter), member 5	2.7.8.17	N-Acylsphingosine	Fatty acid	R01494	white
+MFS transporter, ACS family, solute carrier family 17 (sodium-dependent inorganic phosphate cotransporter), member 5	2.7.8.17	N-Acylsphingosine	Sphingosine	R01494	white
+MFS transporter, ACS family, solute carrier family 17 (sodium-dependent inorganic phosphate cotransporter), member 5	2.7.8.17	Sphingosine	H2O	R01494	white
+MFS transporter, ACS family, solute carrier family 17 (sodium-dependent inorganic phosphate cotransporter), member 5	2.7.8.17	Sphingosine	N-Acylsphingosine	R01494	white
+MFS transporter, DHA1 family, ceroid-lipofuscinosis neuronal protein 7	2.7.8.17	Fatty acid	H2O	R01494	white
+MFS transporter, DHA1 family, ceroid-lipofuscinosis neuronal protein 7	2.7.8.17	Fatty acid	N-Acylsphingosine	R01494	white
+MFS transporter, DHA1 family, ceroid-lipofuscinosis neuronal protein 7	2.7.8.17	H2O	Fatty acid	R01494	white
+MFS transporter, DHA1 family, ceroid-lipofuscinosis neuronal protein 7	2.7.8.17	H2O	Sphingosine	R01494	white
+MFS transporter, DHA1 family, ceroid-lipofuscinosis neuronal protein 7	2.7.8.17	N-Acylsphingosine	Fatty acid	R01494	white
+MFS transporter, DHA1 family, ceroid-lipofuscinosis neuronal protein 7	2.7.8.17	N-Acylsphingosine	Sphingosine	R01494	white
+MFS transporter, DHA1 family, ceroid-lipofuscinosis neuronal protein 7	2.7.8.17	Sphingosine	H2O	R01494	white
+MFS transporter, DHA1 family, ceroid-lipofuscinosis neuronal protein 7	2.7.8.17	Sphingosine	N-Acylsphingosine	R01494	white
+MTOR-associated protein MEAK7	3.1.4.45	Fatty acid	H2O	R01494	white
+MTOR-associated protein MEAK7	3.1.4.45	Fatty acid	N-Acylsphingosine	R01494	white
+MTOR-associated protein MEAK7	3.1.4.45	H2O	Fatty acid	R01494	white
+MTOR-associated protein MEAK7	3.1.4.45	H2O	Sphingosine	R01494	white
+MTOR-associated protein MEAK7	3.1.4.45	N-Acylsphingosine	Fatty acid	R01494	white
+MTOR-associated protein MEAK7	3.1.4.45	N-Acylsphingosine	Sphingosine	R01494	white
+MTOR-associated protein MEAK7	3.1.4.45	Sphingosine	H2O	R01494	white
+MTOR-associated protein MEAK7	3.1.4.45	Sphingosine	N-Acylsphingosine	R01494	white
+N-acetylgalactosamine-6-sulfatase	3.1.6.4	G01945	G01977	R07806	white
+N-acetylgalactosamine-6-sulfatase	3.1.6.4	G01945	Sulfate	R07806	white
+N-acetylgalactosamine-6-sulfatase	3.1.6.4	G01977	G01945	R07806	white
+N-acetylgalactosamine-6-sulfatase	3.1.6.4	G01977	H2O	R07806	white
+N-acetylgalactosamine-6-sulfatase	3.1.6.4	H2O	G01977	R07806	white
+N-acetylgalactosamine-6-sulfatase	3.1.6.4	H2O	Sulfate	R07806	white
+N-acetylgalactosamine-6-sulfatase	3.1.6.4	Sulfate	G01945	R07806	white
+N-acetylgalactosamine-6-sulfatase	3.1.6.4	Sulfate	H2O	R07806	white
+N-acetylglucosamine-1-phosphate transferase, gamma subunit	2.7.8.17	Fatty acid	H2O	R01494	white
+N-acetylglucosamine-1-phosphate transferase, gamma subunit	2.7.8.17	Fatty acid	N-Acylsphingosine	R01494	white
+N-acetylglucosamine-1-phosphate transferase, gamma subunit	2.7.8.17	H2O	Fatty acid	R01494	white
+N-acetylglucosamine-1-phosphate transferase, gamma subunit	2.7.8.17	H2O	Sphingosine	R01494	white
+N-acetylglucosamine-1-phosphate transferase, gamma subunit	2.7.8.17	N-Acylsphingosine	Fatty acid	R01494	white
+N-acetylglucosamine-1-phosphate transferase, gamma subunit	2.7.8.17	N-Acylsphingosine	Sphingosine	R01494	white
+N-acetylglucosamine-1-phosphate transferase, gamma subunit	2.7.8.17	Sphingosine	H2O	R01494	white
+N-acetylglucosamine-1-phosphate transferase, gamma subunit	2.7.8.17	Sphingosine	N-Acylsphingosine	R01494	white
+N-acetylglucosamine-1-phosphodiester alpha-N-acetylglucosaminidase	3.1.4.45	Fatty acid	H2O	R01494	white
+N-acetylglucosamine-1-phosphodiester alpha-N-acetylglucosaminidase	3.1.4.45	Fatty acid	N-Acylsphingosine	R01494	white
+N-acetylglucosamine-1-phosphodiester alpha-N-acetylglucosaminidase	3.1.4.45	H2O	Fatty acid	R01494	white
+N-acetylglucosamine-1-phosphodiester alpha-N-acetylglucosaminidase	3.1.4.45	H2O	Sphingosine	R01494	white
+N-acetylglucosamine-1-phosphodiester alpha-N-acetylglucosaminidase	3.1.4.45	N-Acylsphingosine	Fatty acid	R01494	white
+N-acetylglucosamine-1-phosphodiester alpha-N-acetylglucosaminidase	3.1.4.45	N-Acylsphingosine	Sphingosine	R01494	white
+N-acetylglucosamine-1-phosphodiester alpha-N-acetylglucosaminidase	3.1.4.45	Sphingosine	H2O	R01494	white
+N-acetylglucosamine-1-phosphodiester alpha-N-acetylglucosaminidase	3.1.4.45	Sphingosine	N-Acylsphingosine	R01494	white
+N-acetylglucosamine-6-sulfatase	3.1.6.14	G13073	G13074	R07808	white
+N-acetylglucosamine-6-sulfatase	3.1.6.14	G13073	Sulfate	R07808	white
+N-acetylglucosamine-6-sulfatase	3.1.6.14	G13074	G13073	R07808	white
+N-acetylglucosamine-6-sulfatase	3.1.6.14	G13074	H2O	R07808	white
+N-acetylglucosamine-6-sulfatase	3.1.6.14	H2O	G13074	R07808	white
+N-acetylglucosamine-6-sulfatase	3.1.6.14	H2O	Sulfate	R07808	white
+N-acetylglucosamine-6-sulfatase	3.1.6.14	Sulfate	G13073	R07808	white
+N-acetylglucosamine-6-sulfatase	3.1.6.14	Sulfate	H2O	R07808	white
+N-sulfoglucosamine sulfohydrolase	3.10.1.1	G13036	G13037	R07814	white
+N-sulfoglucosamine sulfohydrolase	3.10.1.1	G13036	Sulfate	R07814	white
+N-sulfoglucosamine sulfohydrolase	3.10.1.1	G13037	G13036	R07814	white
+N-sulfoglucosamine sulfohydrolase	3.10.1.1	G13037	H2O	R07814	white
+N-sulfoglucosamine sulfohydrolase	3.10.1.1	H2O	G13037	R07814	white
+N-sulfoglucosamine sulfohydrolase	3.10.1.1	H2O	Sulfate	R07814	white
+N-sulfoglucosamine sulfohydrolase	3.10.1.1	Sulfate	G13036	R07814	white
+N-sulfoglucosamine sulfohydrolase	3.10.1.1	Sulfate	H2O	R07814	white
+N4-(beta-N-acetylglucosaminyl)-L-asparaginase	3.5.1.26	Fatty acid	H2O	R01494	white
+N4-(beta-N-acetylglucosaminyl)-L-asparaginase	3.5.1.26	Fatty acid	N-Acylsphingosine	R01494	white
+N4-(beta-N-acetylglucosaminyl)-L-asparaginase	3.5.1.26	H2O	Fatty acid	R01494	white
+N4-(beta-N-acetylglucosaminyl)-L-asparaginase	3.5.1.26	H2O	Sphingosine	R01494	white
+N4-(beta-N-acetylglucosaminyl)-L-asparaginase	3.5.1.26	N-Acylsphingosine	Fatty acid	R01494	white
+N4-(beta-N-acetylglucosaminyl)-L-asparaginase	3.5.1.26	N-Acylsphingosine	Sphingosine	R01494	white
+N4-(beta-N-acetylglucosaminyl)-L-asparaginase	3.5.1.26	Sphingosine	H2O	R01494	white
+N4-(beta-N-acetylglucosaminyl)-L-asparaginase	3.5.1.26	Sphingosine	N-Acylsphingosine	R01494	white
+Niemann-Pick C1 protein	2.7.8.17	Fatty acid	H2O	R01494	white
+Niemann-Pick C1 protein	2.7.8.17	Fatty acid	N-Acylsphingosine	R01494	white
+Niemann-Pick C1 protein	2.7.8.17	H2O	Fatty acid	R01494	white
+Niemann-Pick C1 protein	2.7.8.17	H2O	Sphingosine	R01494	white
+Niemann-Pick C1 protein	2.7.8.17	N-Acylsphingosine	Fatty acid	R01494	white
+Niemann-Pick C1 protein	2.7.8.17	N-Acylsphingosine	Sphingosine	R01494	white
+Niemann-Pick C1 protein	2.7.8.17	Sphingosine	H2O	R01494	white
+Niemann-Pick C1 protein	2.7.8.17	Sphingosine	N-Acylsphingosine	R01494	white
+Niemann-Pick C2 protein	2.7.8.17	Fatty acid	H2O	R01494	white
+Niemann-Pick C2 protein	2.7.8.17	Fatty acid	N-Acylsphingosine	R01494	white
+Niemann-Pick C2 protein	2.7.8.17	H2O	Fatty acid	R01494	white
+Niemann-Pick C2 protein	2.7.8.17	H2O	Sphingosine	R01494	white
+Niemann-Pick C2 protein	2.7.8.17	N-Acylsphingosine	Fatty acid	R01494	white
+Niemann-Pick C2 protein	2.7.8.17	N-Acylsphingosine	Sphingosine	R01494	white
+Niemann-Pick C2 protein	2.7.8.17	Sphingosine	H2O	R01494	white
+Niemann-Pick C2 protein	2.7.8.17	Sphingosine	N-Acylsphingosine	R01494	white
+UDP-N-acetylglucosamine-lysosomal-enzyme	2.7.8.17	Fatty acid	H2O	R01494	white
+UDP-N-acetylglucosamine-lysosomal-enzyme	2.7.8.17	Fatty acid	N-Acylsphingosine	R01494	white
+UDP-N-acetylglucosamine-lysosomal-enzyme	2.7.8.17	H2O	Fatty acid	R01494	white
+UDP-N-acetylglucosamine-lysosomal-enzyme	2.7.8.17	H2O	Sphingosine	R01494	white
+UDP-N-acetylglucosamine-lysosomal-enzyme	2.7.8.17	N-Acylsphingosine	Fatty acid	R01494	white
+UDP-N-acetylglucosamine-lysosomal-enzyme	2.7.8.17	N-Acylsphingosine	Sphingosine	R01494	white
+UDP-N-acetylglucosamine-lysosomal-enzyme	2.7.8.17	Sphingosine	H2O	R01494	white
+UDP-N-acetylglucosamine-lysosomal-enzyme	2.7.8.17	Sphingosine	N-Acylsphingosine	R01494	white
+V-type H+-transporting ATPase 16kDa proteolipid subunit	7.1.2.2	H+	H+	R11335	white
+V-type H+-transporting ATPase 16kDa proteolipid subunit	7.1.2.2	H+	H2O	R11335	white
+V-type H+-transporting ATPase 16kDa proteolipid subunit	7.1.2.2	H+	Oxygen	R11335	white
+V-type H+-transporting ATPase 16kDa proteolipid subunit	7.1.2.2	H+	Ubiquinol	R11335	white
+V-type H+-transporting ATPase 16kDa proteolipid subunit	7.1.2.2	H+	Ubiquinone	R11335	white
+V-type H+-transporting ATPase 16kDa proteolipid subunit	7.1.2.2	H2O	H+	R11335	white
+V-type H+-transporting ATPase 16kDa proteolipid subunit	7.1.2.2	H2O	Oxygen	R11335	white
+V-type H+-transporting ATPase 16kDa proteolipid subunit	7.1.2.2	H2O	Ubiquinol	R11335	white
+V-type H+-transporting ATPase 16kDa proteolipid subunit	7.1.2.2	Oxygen	H+	R11335	white
+V-type H+-transporting ATPase 16kDa proteolipid subunit	7.1.2.2	Oxygen	H2O	R11335	white
+V-type H+-transporting ATPase 16kDa proteolipid subunit	7.1.2.2	Oxygen	Ubiquinone	R11335	white
+V-type H+-transporting ATPase 16kDa proteolipid subunit	7.1.2.2	Ubiquinol	H+	R11335	white
+V-type H+-transporting ATPase 16kDa proteolipid subunit	7.1.2.2	Ubiquinol	H2O	R11335	white
+V-type H+-transporting ATPase 16kDa proteolipid subunit	7.1.2.2	Ubiquinol	Ubiquinone	R11335	white
+V-type H+-transporting ATPase 16kDa proteolipid subunit	7.1.2.2	Ubiquinone	H+	R11335	white
+V-type H+-transporting ATPase 16kDa proteolipid subunit	7.1.2.2	Ubiquinone	Oxygen	R11335	white
+V-type H+-transporting ATPase 16kDa proteolipid subunit	7.1.2.2	Ubiquinone	Ubiquinol	R11335	white
+V-type H+-transporting ATPase 21kDa proteolipid subunit	7.1.2.2	H+	H+	R11335	white
+V-type H+-transporting ATPase 21kDa proteolipid subunit	7.1.2.2	H+	H2O	R11335	white
+V-type H+-transporting ATPase 21kDa proteolipid subunit	7.1.2.2	H+	Oxygen	R11335	white
+V-type H+-transporting ATPase 21kDa proteolipid subunit	7.1.2.2	H+	Ubiquinol	R11335	white
+V-type H+-transporting ATPase 21kDa proteolipid subunit	7.1.2.2	H+	Ubiquinone	R11335	white
+V-type H+-transporting ATPase 21kDa proteolipid subunit	7.1.2.2	H2O	H+	R11335	white
+V-type H+-transporting ATPase 21kDa proteolipid subunit	7.1.2.2	H2O	Oxygen	R11335	white
+V-type H+-transporting ATPase 21kDa proteolipid subunit	7.1.2.2	H2O	Ubiquinol	R11335	white
+V-type H+-transporting ATPase 21kDa proteolipid subunit	7.1.2.2	Oxygen	H+	R11335	white
+V-type H+-transporting ATPase 21kDa proteolipid subunit	7.1.2.2	Oxygen	H2O	R11335	white
+V-type H+-transporting ATPase 21kDa proteolipid subunit	7.1.2.2	Oxygen	Ubiquinone	R11335	white
+V-type H+-transporting ATPase 21kDa proteolipid subunit	7.1.2.2	Ubiquinol	H+	R11335	white
+V-type H+-transporting ATPase 21kDa proteolipid subunit	7.1.2.2	Ubiquinol	H2O	R11335	white
+V-type H+-transporting ATPase 21kDa proteolipid subunit	7.1.2.2	Ubiquinol	Ubiquinone	R11335	white
+V-type H+-transporting ATPase 21kDa proteolipid subunit	7.1.2.2	Ubiquinone	H+	R11335	white
+V-type H+-transporting ATPase 21kDa proteolipid subunit	7.1.2.2	Ubiquinone	Oxygen	R11335	white
+V-type H+-transporting ATPase 21kDa proteolipid subunit	7.1.2.2	Ubiquinone	Ubiquinol	R11335	white
+V-type H+-transporting ATPase S1 subunit	7.1.2.2	H+	H+	R11335	white
+V-type H+-transporting ATPase S1 subunit	7.1.2.2	H+	H2O	R11335	white
+V-type H+-transporting ATPase S1 subunit	7.1.2.2	H+	Oxygen	R11335	white
+V-type H+-transporting ATPase S1 subunit	7.1.2.2	H+	Ubiquinol	R11335	white
+V-type H+-transporting ATPase S1 subunit	7.1.2.2	H+	Ubiquinone	R11335	white
+V-type H+-transporting ATPase S1 subunit	7.1.2.2	H2O	H+	R11335	white
+V-type H+-transporting ATPase S1 subunit	7.1.2.2	H2O	Oxygen	R11335	white
+V-type H+-transporting ATPase S1 subunit	7.1.2.2	H2O	Ubiquinol	R11335	white
+V-type H+-transporting ATPase S1 subunit	7.1.2.2	Oxygen	H+	R11335	white
+V-type H+-transporting ATPase S1 subunit	7.1.2.2	Oxygen	H2O	R11335	white
+V-type H+-transporting ATPase S1 subunit	7.1.2.2	Oxygen	Ubiquinone	R11335	white
+V-type H+-transporting ATPase S1 subunit	7.1.2.2	Ubiquinol	H+	R11335	white
+V-type H+-transporting ATPase S1 subunit	7.1.2.2	Ubiquinol	H2O	R11335	white
+V-type H+-transporting ATPase S1 subunit	7.1.2.2	Ubiquinol	Ubiquinone	R11335	white
+V-type H+-transporting ATPase S1 subunit	7.1.2.2	Ubiquinone	H+	R11335	white
+V-type H+-transporting ATPase S1 subunit	7.1.2.2	Ubiquinone	Oxygen	R11335	white
+V-type H+-transporting ATPase S1 subunit	7.1.2.2	Ubiquinone	Ubiquinol	R11335	white
+V-type H+-transporting ATPase subunit H	7.1.2.2	H+	H+	R11335	white
+V-type H+-transporting ATPase subunit H	7.1.2.2	H+	H2O	R11335	white
+V-type H+-transporting ATPase subunit H	7.1.2.2	H+	Oxygen	R11335	white
+V-type H+-transporting ATPase subunit H	7.1.2.2	H+	Ubiquinol	R11335	white
+V-type H+-transporting ATPase subunit H	7.1.2.2	H+	Ubiquinone	R11335	white
+V-type H+-transporting ATPase subunit H	7.1.2.2	H2O	H+	R11335	white
+V-type H+-transporting ATPase subunit H	7.1.2.2	H2O	Oxygen	R11335	white
+V-type H+-transporting ATPase subunit H	7.1.2.2	H2O	Ubiquinol	R11335	white
+V-type H+-transporting ATPase subunit H	7.1.2.2	Oxygen	H+	R11335	white
+V-type H+-transporting ATPase subunit H	7.1.2.2	Oxygen	H2O	R11335	white
+V-type H+-transporting ATPase subunit H	7.1.2.2	Oxygen	Ubiquinone	R11335	white
+V-type H+-transporting ATPase subunit H	7.1.2.2	Ubiquinol	H+	R11335	white
+V-type H+-transporting ATPase subunit H	7.1.2.2	Ubiquinol	H2O	R11335	white
+V-type H+-transporting ATPase subunit H	7.1.2.2	Ubiquinol	Ubiquinone	R11335	white
+V-type H+-transporting ATPase subunit H	7.1.2.2	Ubiquinone	H+	R11335	white
+V-type H+-transporting ATPase subunit H	7.1.2.2	Ubiquinone	Oxygen	R11335	white
+V-type H+-transporting ATPase subunit H	7.1.2.2	Ubiquinone	Ubiquinol	R11335	white
+V-type H+-transporting ATPase subunit a	7.1.2.2	H+	H+	R11335	white
+V-type H+-transporting ATPase subunit a	7.1.2.2	H+	H2O	R11335	white
+V-type H+-transporting ATPase subunit a	7.1.2.2	H+	Oxygen	R11335	white
+V-type H+-transporting ATPase subunit a	7.1.2.2	H+	Ubiquinol	R11335	white
+V-type H+-transporting ATPase subunit a	7.1.2.2	H+	Ubiquinone	R11335	white
+V-type H+-transporting ATPase subunit a	7.1.2.2	H2O	H+	R11335	white
+V-type H+-transporting ATPase subunit a	7.1.2.2	H2O	Oxygen	R11335	white
+V-type H+-transporting ATPase subunit a	7.1.2.2	H2O	Ubiquinol	R11335	white
+V-type H+-transporting ATPase subunit a	7.1.2.2	Oxygen	H+	R11335	white
+V-type H+-transporting ATPase subunit a	7.1.2.2	Oxygen	H2O	R11335	white
+V-type H+-transporting ATPase subunit a	7.1.2.2	Oxygen	Ubiquinone	R11335	white
+V-type H+-transporting ATPase subunit a	7.1.2.2	Ubiquinol	H+	R11335	white
+V-type H+-transporting ATPase subunit a	7.1.2.2	Ubiquinol	H2O	R11335	white
+V-type H+-transporting ATPase subunit a	7.1.2.2	Ubiquinol	Ubiquinone	R11335	white
+V-type H+-transporting ATPase subunit a	7.1.2.2	Ubiquinone	H+	R11335	white
+V-type H+-transporting ATPase subunit a	7.1.2.2	Ubiquinone	Oxygen	R11335	white
+V-type H+-transporting ATPase subunit a	7.1.2.2	Ubiquinone	Ubiquinol	R11335	white
+V-type H+-transporting ATPase subunit d	7.1.2.2	H+	H+	R11335	white
+V-type H+-transporting ATPase subunit d	7.1.2.2	H+	H2O	R11335	white
+V-type H+-transporting ATPase subunit d	7.1.2.2	H+	Oxygen	R11335	white
+V-type H+-transporting ATPase subunit d	7.1.2.2	H+	Ubiquinol	R11335	white
+V-type H+-transporting ATPase subunit d	7.1.2.2	H+	Ubiquinone	R11335	white
+V-type H+-transporting ATPase subunit d	7.1.2.2	H2O	H+	R11335	white
+V-type H+-transporting ATPase subunit d	7.1.2.2	H2O	Oxygen	R11335	white
+V-type H+-transporting ATPase subunit d	7.1.2.2	H2O	Ubiquinol	R11335	white
+V-type H+-transporting ATPase subunit d	7.1.2.2	Oxygen	H+	R11335	white
+V-type H+-transporting ATPase subunit d	7.1.2.2	Oxygen	H2O	R11335	white
+V-type H+-transporting ATPase subunit d	7.1.2.2	Oxygen	Ubiquinone	R11335	white
+V-type H+-transporting ATPase subunit d	7.1.2.2	Ubiquinol	H+	R11335	white
+V-type H+-transporting ATPase subunit d	7.1.2.2	Ubiquinol	H2O	R11335	white
+V-type H+-transporting ATPase subunit d	7.1.2.2	Ubiquinol	Ubiquinone	R11335	white
+V-type H+-transporting ATPase subunit d	7.1.2.2	Ubiquinone	H+	R11335	white
+V-type H+-transporting ATPase subunit d	7.1.2.2	Ubiquinone	Oxygen	R11335	white
+V-type H+-transporting ATPase subunit d	7.1.2.2	Ubiquinone	Ubiquinol	R11335	white
+acid ceramidase	3.5.1.23	Fatty acid	H2O	R01494	white
+acid ceramidase	3.5.1.23	Fatty acid	N-Acylsphingosine	R01494	white
+acid ceramidase	3.5.1.23	H2O	Fatty acid	R01494	white
+acid ceramidase	3.5.1.23	H2O	Sphingosine	R01494	white
+acid ceramidase	3.5.1.23	N-Acylsphingosine	Fatty acid	R01494	white
+acid ceramidase	3.5.1.23	N-Acylsphingosine	Sphingosine	R01494	white
+acid ceramidase	3.5.1.23	Sphingosine	H2O	R01494	white
+acid ceramidase	3.5.1.23	Sphingosine	N-Acylsphingosine	R01494	white
+alpha-L-fucosidase	3.2.1.51	D-Mannose	G00309	R08717	white
+alpha-L-fucosidase	3.2.1.51	D-Mannose	H2O	R08717	white
+alpha-L-fucosidase	3.2.1.51	G00309	D-Mannose	R08717	white
+alpha-L-fucosidase	3.2.1.51	G00309	G00319	R08717	white
+alpha-L-fucosidase	3.2.1.51	G00319	G00309	R08717	white
+alpha-L-fucosidase	3.2.1.51	G00319	H2O	R08717	white
+alpha-L-fucosidase	3.2.1.51	H2O	D-Mannose	R08717	white
+alpha-L-fucosidase	3.2.1.51	H2O	G00319	R08717	white
+alpha-N-acetylgalactosaminidase	3.2.1.49	G00094	G00095	R05966	white
+alpha-N-acetylgalactosaminidase	3.2.1.49	G00094	H2O	R05966	white
+alpha-N-acetylgalactosaminidase	3.2.1.49	G00095	G00094	R05966	white
+alpha-N-acetylgalactosaminidase	3.2.1.49	G00095	N-Acetyl-D-galactosamine	R05966	white
+alpha-N-acetylgalactosaminidase	3.2.1.49	H2O	G00094	R05966	white
+alpha-N-acetylgalactosaminidase	3.2.1.49	H2O	N-Acetyl-D-galactosamine	R05966	white
+alpha-N-acetylgalactosaminidase	3.2.1.49	N-Acetyl-D-galactosamine	G00095	R05966	white
+alpha-N-acetylgalactosaminidase	3.2.1.49	N-Acetyl-D-galactosamine	H2O	R05966	white
+alpha-N-acetylglucosaminidase	3.2.1.50	G13038	G13039	R07816	white
+alpha-N-acetylglucosaminidase	3.2.1.50	G13038	N-Acetyl-D-glucosamine	R07816	white
+alpha-N-acetylglucosaminidase	3.2.1.50	G13039	G13038	R07816	white
+alpha-N-acetylglucosaminidase	3.2.1.50	G13039	H2O	R07816	white
+alpha-N-acetylglucosaminidase	3.2.1.50	H2O	G13039	R07816	white
+alpha-N-acetylglucosaminidase	3.2.1.50	H2O	N-Acetyl-D-glucosamine	R07816	white
+alpha-N-acetylglucosaminidase	3.2.1.50	N-Acetyl-D-glucosamine	G13038	R07816	white
+alpha-N-acetylglucosaminidase	3.2.1.50	N-Acetyl-D-glucosamine	H2O	R07816	white
+alpha-galactosidase	3.2.1.22	D-Galactose	H2O	R01101	white
+alpha-galactosidase	3.2.1.22	D-Galactose	Melibiose	R01101	white
+alpha-galactosidase	3.2.1.22	D-Glucose	H2O	R01101	white
+alpha-galactosidase	3.2.1.22	D-Glucose	Melibiose	R01101	white
+alpha-galactosidase	3.2.1.22	H2O	D-Galactose	R01101	white
+alpha-galactosidase	3.2.1.22	H2O	D-Glucose	R01101	white
+alpha-galactosidase	3.2.1.22	Melibiose	D-Galactose	R01101	white
+alpha-galactosidase	3.2.1.22	Melibiose	D-Glucose	R01101	white
+arylsulfatase A	3.1.6.8	Galactosylceramide	H2O	R04856	white
+arylsulfatase A	3.1.6.8	Galactosylceramide	Sulfatide	R04856	white
+arylsulfatase A	3.1.6.8	H2O	Galactosylceramide	R04856	white
+arylsulfatase A	3.1.6.8	H2O	Sulfate	R04856	white
+arylsulfatase A	3.1.6.8	Sulfate	H2O	R04856	white
+arylsulfatase A	3.1.6.8	Sulfate	Sulfatide	R04856	white
+arylsulfatase A	3.1.6.8	Sulfatide	Galactosylceramide	R04856	white
+arylsulfatase A	3.1.6.8	Sulfatide	Sulfate	R04856	white
+arylsulfatase B	3.1.6.12	G12336	G13043	R07823	white
+arylsulfatase B	3.1.6.12	G12336	Sulfate	R07823	white
+arylsulfatase B	3.1.6.12	G13043	G12336	R07823	white
+arylsulfatase B	3.1.6.12	G13043	H2O	R07823	white
+arylsulfatase B	3.1.6.12	H2O	G13043	R07823	white
+arylsulfatase B	3.1.6.12	H2O	Sulfate	R07823	white
+arylsulfatase B	3.1.6.12	Sulfate	G12336	R07823	white
+arylsulfatase B	3.1.6.12	Sulfate	H2O	R07823	white
+arylsulfatase G	3.1.6.-	D-Mannose	G00309	R08717	white
+arylsulfatase G	3.1.6.-	D-Mannose	H2O	R08717	white
+arylsulfatase G	3.1.6.-	G00309	D-Mannose	R08717	white
+arylsulfatase G	3.1.6.-	G00309	G00319	R08717	white
+arylsulfatase G	3.1.6.-	G00319	G00309	R08717	white
+arylsulfatase G	3.1.6.-	G00319	H2O	R08717	white
+arylsulfatase G	3.1.6.-	H2O	D-Mannose	R08717	white
+arylsulfatase G	3.1.6.-	H2O	G00319	R08717	white
+battenin	2.7.8.17	Fatty acid	H2O	R01494	white
+battenin	2.7.8.17	Fatty acid	N-Acylsphingosine	R01494	white
+battenin	2.7.8.17	H2O	Fatty acid	R01494	white
+battenin	2.7.8.17	H2O	Sphingosine	R01494	white
+battenin	2.7.8.17	N-Acylsphingosine	Fatty acid	R01494	white
+battenin	2.7.8.17	N-Acylsphingosine	Sphingosine	R01494	white
+battenin	2.7.8.17	Sphingosine	H2O	R01494	white
+battenin	2.7.8.17	Sphingosine	N-Acylsphingosine	R01494	white
+beta-galactosidase	3.2.1.23	D-Galactose	Galactan	R01105	white
+beta-galactosidase	3.2.1.23	D-Galactose	H2O	R01105	white
+beta-galactosidase	3.2.1.23	Galactan	D-Galactose	R01105	white
+beta-galactosidase	3.2.1.23	Galactan	Galactan	R01105	white
+beta-galactosidase	3.2.1.23	Galactan	H2O	R01105	white
+beta-galactosidase	3.2.1.23	H2O	D-Galactose	R01105	white
+beta-galactosidase	3.2.1.23	H2O	Galactan	R01105	white
+beta-glucuronidase	3.2.1.31	Alcohol	H2O	R01478	white
+beta-glucuronidase	3.2.1.31	Alcohol	beta-D-Glucuronoside	R01478	white
+beta-glucuronidase	3.2.1.31	D-Glucuronate	H2O	R01478	white
+beta-glucuronidase	3.2.1.31	D-Glucuronate	beta-D-Glucuronoside	R01478	white
+beta-glucuronidase	3.2.1.31	H2O	Alcohol	R01478	white
+beta-glucuronidase	3.2.1.31	H2O	D-Glucuronate	R01478	white
+beta-glucuronidase	3.2.1.31	beta-D-Glucuronoside	Alcohol	R01478	white
+beta-glucuronidase	3.2.1.31	beta-D-Glucuronoside	D-Glucuronate	R01478	white
+cathepsin A (carboxypeptidase C)	3.4.16.5	Dolichyl diphosphate	G00008	R05976	white
+cathepsin A (carboxypeptidase C)	3.4.16.5	Dolichyl diphosphate	Protein asparagine	R05976	white
+cathepsin A (carboxypeptidase C)	3.4.16.5	G00008	Dolichyl diphosphate	R05976	white
+cathepsin A (carboxypeptidase C)	3.4.16.5	G00008	G00009	R05976	white
+cathepsin A (carboxypeptidase C)	3.4.16.5	G00009	G00008	R05976	white
+cathepsin A (carboxypeptidase C)	3.4.16.5	G00009	Protein asparagine	R05976	white
+cathepsin A (carboxypeptidase C)	3.4.16.5	Protein asparagine	Dolichyl diphosphate	R05976	white
+cathepsin A (carboxypeptidase C)	3.4.16.5	Protein asparagine	G00009	R05976	white
+cathepsin B	3.4.22.1	Dolichyl diphosphate	G00008	R05976	white
+cathepsin B	3.4.22.1	Dolichyl diphosphate	Protein asparagine	R05976	white
+cathepsin B	3.4.22.1	G00008	Dolichyl diphosphate	R05976	white
+cathepsin B	3.4.22.1	G00008	G00009	R05976	white
+cathepsin B	3.4.22.1	G00009	G00008	R05976	white
+cathepsin B	3.4.22.1	G00009	Protein asparagine	R05976	white
+cathepsin B	3.4.22.1	Protein asparagine	Dolichyl diphosphate	R05976	white
+cathepsin B	3.4.22.1	Protein asparagine	G00009	R05976	white
+cathepsin C	3.4.14.1	Dolichyl diphosphate	G00008	R05976	white
+cathepsin C	3.4.14.1	Dolichyl diphosphate	Protein asparagine	R05976	white
+cathepsin C	3.4.14.1	G00008	Dolichyl diphosphate	R05976	white
+cathepsin C	3.4.14.1	G00008	G00009	R05976	white
+cathepsin C	3.4.14.1	G00009	G00008	R05976	white
+cathepsin C	3.4.14.1	G00009	Protein asparagine	R05976	white
+cathepsin C	3.4.14.1	Protein asparagine	Dolichyl diphosphate	R05976	white
+cathepsin C	3.4.14.1	Protein asparagine	G00009	R05976	white
+cathepsin D	3.4.23.5	Dolichyl diphosphate	G00008	R05976	white
+cathepsin D	3.4.23.5	Dolichyl diphosphate	Protein asparagine	R05976	white
+cathepsin D	3.4.23.5	G00008	Dolichyl diphosphate	R05976	white
+cathepsin D	3.4.23.5	G00008	G00009	R05976	white
+cathepsin D	3.4.23.5	G00009	G00008	R05976	white
+cathepsin D	3.4.23.5	G00009	Protein asparagine	R05976	white
+cathepsin D	3.4.23.5	Protein asparagine	Dolichyl diphosphate	R05976	white
+cathepsin D	3.4.23.5	Protein asparagine	G00009	R05976	white
+cathepsin E	3.4.23.34	Dolichyl diphosphate	G00008	R05976	white
+cathepsin E	3.4.23.34	Dolichyl diphosphate	Protein asparagine	R05976	white
+cathepsin E	3.4.23.34	G00008	Dolichyl diphosphate	R05976	white
+cathepsin E	3.4.23.34	G00008	G00009	R05976	white
+cathepsin E	3.4.23.34	G00009	G00008	R05976	white
+cathepsin E	3.4.23.34	G00009	Protein asparagine	R05976	white
+cathepsin E	3.4.23.34	Protein asparagine	Dolichyl diphosphate	R05976	white
+cathepsin E	3.4.23.34	Protein asparagine	G00009	R05976	white
+cathepsin F	3.4.22.41	Dolichyl diphosphate	G00008	R05976	white
+cathepsin F	3.4.22.41	Dolichyl diphosphate	Protein asparagine	R05976	white
+cathepsin F	3.4.22.41	G00008	Dolichyl diphosphate	R05976	white
+cathepsin F	3.4.22.41	G00008	G00009	R05976	white
+cathepsin F	3.4.22.41	G00009	G00008	R05976	white
+cathepsin F	3.4.22.41	G00009	Protein asparagine	R05976	white
+cathepsin F	3.4.22.41	Protein asparagine	Dolichyl diphosphate	R05976	white
+cathepsin F	3.4.22.41	Protein asparagine	G00009	R05976	white
+cathepsin G	3.4.21.20	Dolichyl diphosphate	G00008	R05976	white
+cathepsin G	3.4.21.20	Dolichyl diphosphate	Protein asparagine	R05976	white
+cathepsin G	3.4.21.20	G00008	Dolichyl diphosphate	R05976	white
+cathepsin G	3.4.21.20	G00008	G00009	R05976	white
+cathepsin G	3.4.21.20	G00009	G00008	R05976	white
+cathepsin G	3.4.21.20	G00009	Protein asparagine	R05976	white
+cathepsin G	3.4.21.20	Protein asparagine	Dolichyl diphosphate	R05976	white
+cathepsin G	3.4.21.20	Protein asparagine	G00009	R05976	white
+cathepsin H	3.4.22.16	Dolichyl diphosphate	G00008	R05976	white
+cathepsin H	3.4.22.16	Dolichyl diphosphate	Protein asparagine	R05976	white
+cathepsin H	3.4.22.16	G00008	Dolichyl diphosphate	R05976	white
+cathepsin H	3.4.22.16	G00008	G00009	R05976	white
+cathepsin H	3.4.22.16	G00009	G00008	R05976	white
+cathepsin H	3.4.22.16	G00009	Protein asparagine	R05976	white
+cathepsin H	3.4.22.16	Protein asparagine	Dolichyl diphosphate	R05976	white
+cathepsin H	3.4.22.16	Protein asparagine	G00009	R05976	white
+cathepsin K	3.4.22.38	Dolichyl diphosphate	G00008	R05976	white
+cathepsin K	3.4.22.38	Dolichyl diphosphate	Protein asparagine	R05976	white
+cathepsin K	3.4.22.38	G00008	Dolichyl diphosphate	R05976	white
+cathepsin K	3.4.22.38	G00008	G00009	R05976	white
+cathepsin K	3.4.22.38	G00009	G00008	R05976	white
+cathepsin K	3.4.22.38	G00009	Protein asparagine	R05976	white
+cathepsin K	3.4.22.38	Protein asparagine	Dolichyl diphosphate	R05976	white
+cathepsin K	3.4.22.38	Protein asparagine	G00009	R05976	white
+cathepsin L	3.4.22.15	Dolichyl diphosphate	G00008	R05976	white
+cathepsin L	3.4.22.15	Dolichyl diphosphate	Protein asparagine	R05976	white
+cathepsin L	3.4.22.15	G00008	Dolichyl diphosphate	R05976	white
+cathepsin L	3.4.22.15	G00008	G00009	R05976	white
+cathepsin L	3.4.22.15	G00009	G00008	R05976	white
+cathepsin L	3.4.22.15	G00009	Protein asparagine	R05976	white
+cathepsin L	3.4.22.15	Protein asparagine	Dolichyl diphosphate	R05976	white
+cathepsin L	3.4.22.15	Protein asparagine	G00009	R05976	white
+cathepsin M	3.4.22.-	Dolichyl diphosphate	G00008	R05976	white
+cathepsin M	3.4.22.-	Dolichyl diphosphate	Protein asparagine	R05976	white
+cathepsin M	3.4.22.-	G00008	Dolichyl diphosphate	R05976	white
+cathepsin M	3.4.22.-	G00008	G00009	R05976	white
+cathepsin M	3.4.22.-	G00009	G00008	R05976	white
+cathepsin M	3.4.22.-	G00009	Protein asparagine	R05976	white
+cathepsin M	3.4.22.-	Protein asparagine	Dolichyl diphosphate	R05976	white
+cathepsin M	3.4.22.-	Protein asparagine	G00009	R05976	white
+cathepsin O	3.4.22.42	Dolichyl diphosphate	G00008	R05976	white
+cathepsin O	3.4.22.42	Dolichyl diphosphate	Protein asparagine	R05976	white
+cathepsin O	3.4.22.42	G00008	Dolichyl diphosphate	R05976	white
+cathepsin O	3.4.22.42	G00008	G00009	R05976	white
+cathepsin O	3.4.22.42	G00009	G00008	R05976	white
+cathepsin O	3.4.22.42	G00009	Protein asparagine	R05976	white
+cathepsin O	3.4.22.42	Protein asparagine	Dolichyl diphosphate	R05976	white
+cathepsin O	3.4.22.42	Protein asparagine	G00009	R05976	white
+cathepsin P	3.4.22.-	Dolichyl diphosphate	G00008	R05976	white
+cathepsin P	3.4.22.-	Dolichyl diphosphate	Protein asparagine	R05976	white
+cathepsin P	3.4.22.-	G00008	Dolichyl diphosphate	R05976	white
+cathepsin P	3.4.22.-	G00008	G00009	R05976	white
+cathepsin P	3.4.22.-	G00009	G00008	R05976	white
+cathepsin P	3.4.22.-	G00009	Protein asparagine	R05976	white
+cathepsin P	3.4.22.-	Protein asparagine	Dolichyl diphosphate	R05976	white
+cathepsin P	3.4.22.-	Protein asparagine	G00009	R05976	white
+cathepsin S	3.4.22.27	Dolichyl diphosphate	G00008	R05976	white
+cathepsin S	3.4.22.27	Dolichyl diphosphate	Protein asparagine	R05976	white
+cathepsin S	3.4.22.27	G00008	Dolichyl diphosphate	R05976	white
+cathepsin S	3.4.22.27	G00008	G00009	R05976	white
+cathepsin S	3.4.22.27	G00009	G00008	R05976	white
+cathepsin S	3.4.22.27	G00009	Protein asparagine	R05976	white
+cathepsin S	3.4.22.27	Protein asparagine	Dolichyl diphosphate	R05976	white
+cathepsin S	3.4.22.27	Protein asparagine	G00009	R05976	white
+cathepsin V	3.4.22.43	Dolichyl diphosphate	G00008	R05976	white
+cathepsin V	3.4.22.43	Dolichyl diphosphate	Protein asparagine	R05976	white
+cathepsin V	3.4.22.43	G00008	Dolichyl diphosphate	R05976	white
+cathepsin V	3.4.22.43	G00008	G00009	R05976	white
+cathepsin V	3.4.22.43	G00009	G00008	R05976	white
+cathepsin V	3.4.22.43	G00009	Protein asparagine	R05976	white
+cathepsin V	3.4.22.43	Protein asparagine	Dolichyl diphosphate	R05976	white
+cathepsin V	3.4.22.43	Protein asparagine	G00009	R05976	white
+cathepsin W	3.4.22.-	Dolichyl diphosphate	G00008	R05976	white
+cathepsin W	3.4.22.-	Dolichyl diphosphate	Protein asparagine	R05976	white
+cathepsin W	3.4.22.-	G00008	Dolichyl diphosphate	R05976	white
+cathepsin W	3.4.22.-	G00008	G00009	R05976	white
+cathepsin W	3.4.22.-	G00009	G00008	R05976	white
+cathepsin W	3.4.22.-	G00009	Protein asparagine	R05976	white
+cathepsin W	3.4.22.-	Protein asparagine	Dolichyl diphosphate	R05976	white
+cathepsin W	3.4.22.-	Protein asparagine	G00009	R05976	white
+cathepsin X	3.4.18.1	Dolichyl diphosphate	G00008	R05976	white
+cathepsin X	3.4.18.1	Dolichyl diphosphate	Protein asparagine	R05976	white
+cathepsin X	3.4.18.1	G00008	Dolichyl diphosphate	R05976	white
+cathepsin X	3.4.18.1	G00008	G00009	R05976	white
+cathepsin X	3.4.18.1	G00009	G00008	R05976	white
+cathepsin X	3.4.18.1	G00009	Protein asparagine	R05976	white
+cathepsin X	3.4.18.1	Protein asparagine	Dolichyl diphosphate	R05976	white
+cathepsin X	3.4.18.1	Protein asparagine	G00009	R05976	white
+cation-dependent mannose-6-phosphate receptor	2.7.8.17	Fatty acid	H2O	R01494	white
+cation-dependent mannose-6-phosphate receptor	2.7.8.17	Fatty acid	N-Acylsphingosine	R01494	white
+cation-dependent mannose-6-phosphate receptor	2.7.8.17	H2O	Fatty acid	R01494	white
+cation-dependent mannose-6-phosphate receptor	2.7.8.17	H2O	Sphingosine	R01494	white
+cation-dependent mannose-6-phosphate receptor	2.7.8.17	N-Acylsphingosine	Fatty acid	R01494	white
+cation-dependent mannose-6-phosphate receptor	2.7.8.17	N-Acylsphingosine	Sphingosine	R01494	white
+cation-dependent mannose-6-phosphate receptor	2.7.8.17	Sphingosine	H2O	R01494	white
+cation-dependent mannose-6-phosphate receptor	2.7.8.17	Sphingosine	N-Acylsphingosine	R01494	white
+ceroid-lipofuscinosis neuronal protein 5	2.7.8.17	Fatty acid	H2O	R01494	white
+ceroid-lipofuscinosis neuronal protein 5	2.7.8.17	Fatty acid	N-Acylsphingosine	R01494	white
+ceroid-lipofuscinosis neuronal protein 5	2.7.8.17	H2O	Fatty acid	R01494	white
+ceroid-lipofuscinosis neuronal protein 5	2.7.8.17	H2O	Sphingosine	R01494	white
+ceroid-lipofuscinosis neuronal protein 5	2.7.8.17	N-Acylsphingosine	Fatty acid	R01494	white
+ceroid-lipofuscinosis neuronal protein 5	2.7.8.17	N-Acylsphingosine	Sphingosine	R01494	white
+ceroid-lipofuscinosis neuronal protein 5	2.7.8.17	Sphingosine	H2O	R01494	white
+ceroid-lipofuscinosis neuronal protein 5	2.7.8.17	Sphingosine	N-Acylsphingosine	R01494	white
+clathrin heavy chain	2.7.8.17	Fatty acid	H2O	R01494	white
+clathrin heavy chain	2.7.8.17	Fatty acid	N-Acylsphingosine	R01494	white
+clathrin heavy chain	2.7.8.17	H2O	Fatty acid	R01494	white
+clathrin heavy chain	2.7.8.17	H2O	Sphingosine	R01494	white
+clathrin heavy chain	2.7.8.17	N-Acylsphingosine	Fatty acid	R01494	white
+clathrin heavy chain	2.7.8.17	N-Acylsphingosine	Sphingosine	R01494	white
+clathrin heavy chain	2.7.8.17	Sphingosine	H2O	R01494	white
+clathrin heavy chain	2.7.8.17	Sphingosine	N-Acylsphingosine	R01494	white
+clathrin light chain A	2.7.8.17	Fatty acid	H2O	R01494	white
+clathrin light chain A	2.7.8.17	Fatty acid	N-Acylsphingosine	R01494	white
+clathrin light chain A	2.7.8.17	H2O	Fatty acid	R01494	white
+clathrin light chain A	2.7.8.17	H2O	Sphingosine	R01494	white
+clathrin light chain A	2.7.8.17	N-Acylsphingosine	Fatty acid	R01494	white
+clathrin light chain A	2.7.8.17	N-Acylsphingosine	Sphingosine	R01494	white
+clathrin light chain A	2.7.8.17	Sphingosine	H2O	R01494	white
+clathrin light chain A	2.7.8.17	Sphingosine	N-Acylsphingosine	R01494	white
+clathrin light chain B	2.7.8.17	Fatty acid	H2O	R01494	white
+clathrin light chain B	2.7.8.17	Fatty acid	N-Acylsphingosine	R01494	white
+clathrin light chain B	2.7.8.17	H2O	Fatty acid	R01494	white
+clathrin light chain B	2.7.8.17	H2O	Sphingosine	R01494	white
+clathrin light chain B	2.7.8.17	N-Acylsphingosine	Fatty acid	R01494	white
+clathrin light chain B	2.7.8.17	N-Acylsphingosine	Sphingosine	R01494	white
+clathrin light chain B	2.7.8.17	Sphingosine	H2O	R01494	white
+clathrin light chain B	2.7.8.17	Sphingosine	N-Acylsphingosine	R01494	white
+cystinosin	2.7.8.17	Fatty acid	H2O	R01494	white
+cystinosin	2.7.8.17	Fatty acid	N-Acylsphingosine	R01494	white
+cystinosin	2.7.8.17	H2O	Fatty acid	R01494	white
+cystinosin	2.7.8.17	H2O	Sphingosine	R01494	white
+cystinosin	2.7.8.17	N-Acylsphingosine	Fatty acid	R01494	white
+cystinosin	2.7.8.17	N-Acylsphingosine	Sphingosine	R01494	white
+cystinosin	2.7.8.17	Sphingosine	H2O	R01494	white
+cystinosin	2.7.8.17	Sphingosine	N-Acylsphingosine	R01494	white
+deoxyribonuclease II	3.1.22.1	D-Mannose	G00309	R08717	white
+deoxyribonuclease II	3.1.22.1	D-Mannose	H2O	R08717	white
+deoxyribonuclease II	3.1.22.1	G00309	D-Mannose	R08717	white
+deoxyribonuclease II	3.1.22.1	G00309	G00319	R08717	white
+deoxyribonuclease II	3.1.22.1	G00319	G00309	R08717	white
+deoxyribonuclease II	3.1.22.1	G00319	H2O	R08717	white
+deoxyribonuclease II	3.1.22.1	H2O	D-Mannose	R08717	white
+deoxyribonuclease II	3.1.22.1	H2O	G00319	R08717	white
+ectonucleoside triphosphate diphosphohydrolase 4	3.6.1.6	H2O	Orthophosphate	R00155	white
+ectonucleoside triphosphate diphosphohydrolase 4	3.6.1.6	H2O	UMP	R00155	white
+ectonucleoside triphosphate diphosphohydrolase 4	3.6.1.6	Orthophosphate	H2O	R00155	white
+ectonucleoside triphosphate diphosphohydrolase 4	3.6.1.6	Orthophosphate	UDP	R00155	white
+ectonucleoside triphosphate diphosphohydrolase 4	3.6.1.6	UDP	Orthophosphate	R00155	white
+ectonucleoside triphosphate diphosphohydrolase 4	3.6.1.6	UDP	UMP	R00155	white
+ectonucleoside triphosphate diphosphohydrolase 4	3.6.1.6	UMP	H2O	R00155	white
+ectonucleoside triphosphate diphosphohydrolase 4	3.6.1.6	UMP	UDP	R00155	white
+galactosylceramidase	3.2.1.46	D-Galactose	Galactosylceramide	R03617	white
+galactosylceramidase	3.2.1.46	D-Galactose	H2O	R03617	white
+galactosylceramidase	3.2.1.46	Galactosylceramide	D-Galactose	R03617	white
+galactosylceramidase	3.2.1.46	Galactosylceramide	N-Acylsphingosine	R03617	white
+galactosylceramidase	3.2.1.46	H2O	D-Galactose	R03617	white
+galactosylceramidase	3.2.1.46	H2O	N-Acylsphingosine	R03617	white
+galactosylceramidase	3.2.1.46	N-Acylsphingosine	Galactosylceramide	R03617	white
+galactosylceramidase	3.2.1.46	N-Acylsphingosine	H2O	R03617	white
+ganglioside GM2 activator	3.2.1.52	Chitobiose	N-Acetyl-D-glucosamine	R00022	white
+ganglioside GM2 activator	3.2.1.52	H2O	N-Acetyl-D-glucosamine	R00022	white
+ganglioside GM2 activator	3.2.1.52	N-Acetyl-D-glucosamine	Chitobiose	R00022	white
+ganglioside GM2 activator	3.2.1.52	N-Acetyl-D-glucosamine	H2O	R00022	white
+glucosylceramidase	3.2.1.45	D-Glucose	Glucosylceramide	R01498	white
+glucosylceramidase	3.2.1.45	D-Glucose	H2O	R01498	white
+glucosylceramidase	3.2.1.45	Glucosylceramide	D-Glucose	R01498	white
+glucosylceramidase	3.2.1.45	Glucosylceramide	N-Acylsphingosine	R01498	white
+glucosylceramidase	3.2.1.45	H2O	D-Glucose	R01498	white
+glucosylceramidase	3.2.1.45	H2O	N-Acylsphingosine	R01498	white
+glucosylceramidase	3.2.1.45	N-Acylsphingosine	Glucosylceramide	R01498	white
+glucosylceramidase	3.2.1.45	N-Acylsphingosine	H2O	R01498	white
+heparan-alpha-glucosaminide N-acetyltransferase	2.3.1.78	Acetyl-CoA	CoA	R07815	white
+heparan-alpha-glucosaminide N-acetyltransferase	2.3.1.78	Acetyl-CoA	G13038	R07815	white
+heparan-alpha-glucosaminide N-acetyltransferase	2.3.1.78	CoA	Acetyl-CoA	R07815	white
+heparan-alpha-glucosaminide N-acetyltransferase	2.3.1.78	CoA	G13037	R07815	white
+heparan-alpha-glucosaminide N-acetyltransferase	2.3.1.78	G13037	CoA	R07815	white
+heparan-alpha-glucosaminide N-acetyltransferase	2.3.1.78	G13037	G13038	R07815	white
+heparan-alpha-glucosaminide N-acetyltransferase	2.3.1.78	G13038	Acetyl-CoA	R07815	white
+heparan-alpha-glucosaminide N-acetyltransferase	2.3.1.78	G13038	G13037	R07815	white
+hexosaminidase	3.2.1.52	Chitobiose	N-Acetyl-D-glucosamine	R00022	white
+hexosaminidase	3.2.1.52	H2O	N-Acetyl-D-glucosamine	R00022	white
+hexosaminidase	3.2.1.52	N-Acetyl-D-glucosamine	Chitobiose	R00022	white
+hexosaminidase	3.2.1.52	N-Acetyl-D-glucosamine	H2O	R00022	white
+hyaluronoglucosaminidase	3.2.1.35	G00872	G13043	R07824	white
+hyaluronoglucosaminidase	3.2.1.35	G00872	H2O	R07824	white
+hyaluronoglucosaminidase	3.2.1.35	G13043	G00872	R07824	white
+hyaluronoglucosaminidase	3.2.1.35	G13043	N-Acetylgalactosamine	R07824	white
+hyaluronoglucosaminidase	3.2.1.35	H2O	G00872	R07824	white
+hyaluronoglucosaminidase	3.2.1.35	H2O	N-Acetylgalactosamine	R07824	white
+hyaluronoglucosaminidase	3.2.1.35	N-Acetylgalactosamine	G13043	R07824	white
+hyaluronoglucosaminidase	3.2.1.35	N-Acetylgalactosamine	H2O	R07824	white
+iduronate 2-sulfatase	3.1.6.13	G13034	G13035	R07812	white
+iduronate 2-sulfatase	3.1.6.13	G13034	Sulfate	R07812	white
+iduronate 2-sulfatase	3.1.6.13	G13035	G13034	R07812	white
+iduronate 2-sulfatase	3.1.6.13	G13035	H2O	R07812	white
+iduronate 2-sulfatase	3.1.6.13	H2O	G13035	R07812	white
+iduronate 2-sulfatase	3.1.6.13	H2O	Sulfate	R07812	white
+iduronate 2-sulfatase	3.1.6.13	Sulfate	G13034	R07812	white
+iduronate 2-sulfatase	3.1.6.13	Sulfate	H2O	R07812	white
+insulin-like growth factor 2 receptor	2.7.8.17	Fatty acid	H2O	R01494	white
+insulin-like growth factor 2 receptor	2.7.8.17	Fatty acid	N-Acylsphingosine	R01494	white
+insulin-like growth factor 2 receptor	2.7.8.17	H2O	Fatty acid	R01494	white
+insulin-like growth factor 2 receptor	2.7.8.17	H2O	Sphingosine	R01494	white
+insulin-like growth factor 2 receptor	2.7.8.17	N-Acylsphingosine	Fatty acid	R01494	white
+insulin-like growth factor 2 receptor	2.7.8.17	N-Acylsphingosine	Sphingosine	R01494	white
+insulin-like growth factor 2 receptor	2.7.8.17	Sphingosine	H2O	R01494	white
+insulin-like growth factor 2 receptor	2.7.8.17	Sphingosine	N-Acylsphingosine	R01494	white
+legumain	3.4.22.34	Dolichyl diphosphate	G00008	R05976	white
+legumain	3.4.22.34	Dolichyl diphosphate	Protein asparagine	R05976	white
+legumain	3.4.22.34	G00008	Dolichyl diphosphate	R05976	white
+legumain	3.4.22.34	G00008	G00009	R05976	white
+legumain	3.4.22.34	G00009	G00008	R05976	white
+legumain	3.4.22.34	G00009	Protein asparagine	R05976	white
+legumain	3.4.22.34	Protein asparagine	Dolichyl diphosphate	R05976	white
+legumain	3.4.22.34	Protein asparagine	G00009	R05976	white
+lipopolysaccharide-induced tumor necrosis factor-alpha factor	3.1.4.45	Fatty acid	H2O	R01494	white
+lipopolysaccharide-induced tumor necrosis factor-alpha factor	3.1.4.45	Fatty acid	N-Acylsphingosine	R01494	white
+lipopolysaccharide-induced tumor necrosis factor-alpha factor	3.1.4.45	H2O	Fatty acid	R01494	white
+lipopolysaccharide-induced tumor necrosis factor-alpha factor	3.1.4.45	H2O	Sphingosine	R01494	white
+lipopolysaccharide-induced tumor necrosis factor-alpha factor	3.1.4.45	N-Acylsphingosine	Fatty acid	R01494	white
+lipopolysaccharide-induced tumor necrosis factor-alpha factor	3.1.4.45	N-Acylsphingosine	Sphingosine	R01494	white
+lipopolysaccharide-induced tumor necrosis factor-alpha factor	3.1.4.45	Sphingosine	H2O	R01494	white
+lipopolysaccharide-induced tumor necrosis factor-alpha factor	3.1.4.45	Sphingosine	N-Acylsphingosine	R01494	white
+lysophospholipase III	3.1.1.5	1-Acyl-sn-glycero-3-phosphocholine	Fatty acid	R02746	white
+lysophospholipase III	3.1.1.5	1-Acyl-sn-glycero-3-phosphocholine	sn-Glycero-3-phosphocholine	R02746	white
+lysophospholipase III	3.1.1.5	Fatty acid	1-Acyl-sn-glycero-3-phosphocholine	R02746	white
+lysophospholipase III	3.1.1.5	Fatty acid	H2O	R02746	white
+lysophospholipase III	3.1.1.5	H2O	Fatty acid	R02746	white
+lysophospholipase III	3.1.1.5	H2O	sn-Glycero-3-phosphocholine	R02746	white
+lysophospholipase III	3.1.1.5	sn-Glycero-3-phosphocholine	1-Acyl-sn-glycero-3-phosphocholine	R02746	white
+lysophospholipase III	3.1.1.5	sn-Glycero-3-phosphocholine	H2O	R02746	white
+lysosomal acid lipase/cholesteryl ester hydrolase	3.1.1.13	Cholesterol	Cholesterol ester	R01462	white
+lysosomal acid lipase/cholesteryl ester hydrolase	3.1.1.13	Cholesterol	H2O	R01462	white
+lysosomal acid lipase/cholesteryl ester hydrolase	3.1.1.13	Cholesterol ester	Cholesterol	R01462	white
+lysosomal acid lipase/cholesteryl ester hydrolase	3.1.1.13	Cholesterol ester	Fatty acid	R01462	white
+lysosomal acid lipase/cholesteryl ester hydrolase	3.1.1.13	Fatty acid	Cholesterol ester	R01462	white
+lysosomal acid lipase/cholesteryl ester hydrolase	3.1.1.13	Fatty acid	H2O	R01462	white
+lysosomal acid lipase/cholesteryl ester hydrolase	3.1.1.13	H2O	Cholesterol	R01462	white
+lysosomal acid lipase/cholesteryl ester hydrolase	3.1.1.13	H2O	Fatty acid	R01462	white
+lysosomal acid phosphatase	3.1.3.2	FMN	Orthophosphate	R00548	white
+lysosomal acid phosphatase	3.1.3.2	FMN	Riboflavin	R00548	white
+lysosomal acid phosphatase	3.1.3.2	H2O	Orthophosphate	R00548	white
+lysosomal acid phosphatase	3.1.3.2	H2O	Riboflavin	R00548	white
+lysosomal acid phosphatase	3.1.3.2	Orthophosphate	FMN	R00548	white
+lysosomal acid phosphatase	3.1.3.2	Orthophosphate	H2O	R00548	white
+lysosomal acid phosphatase	3.1.3.2	Riboflavin	FMN	R00548	white
+lysosomal acid phosphatase	3.1.3.2	Riboflavin	H2O	R00548	white
+lysosomal alpha-glucosidase	3.2.1.20	D-Glucose	H2O	R00028	white
+lysosomal alpha-glucosidase	3.2.1.20	D-Glucose	Maltose	R00028	white
+lysosomal alpha-glucosidase	3.2.1.20	H2O	D-Glucose	R00028	white
+lysosomal alpha-glucosidase	3.2.1.20	Maltose	D-Glucose	R00028	white
+lysosomal alpha-mannosidase	3.2.1.24	D-Mannose	G00309	R08717	white
+lysosomal alpha-mannosidase	3.2.1.24	D-Mannose	H2O	R08717	white
+lysosomal alpha-mannosidase	3.2.1.24	G00309	D-Mannose	R08717	white
+lysosomal alpha-mannosidase	3.2.1.24	G00309	G00319	R08717	white
+lysosomal alpha-mannosidase	3.2.1.24	G00319	G00309	R08717	white
+lysosomal alpha-mannosidase	3.2.1.24	G00319	H2O	R08717	white
+lysosomal alpha-mannosidase	3.2.1.24	H2O	D-Mannose	R08717	white
+lysosomal alpha-mannosidase	3.2.1.24	H2O	G00319	R08717	white
+lysosomal-associated membrane protein 1/2	2.7.8.17	Fatty acid	H2O	R01494	white
+lysosomal-associated membrane protein 1/2	2.7.8.17	Fatty acid	N-Acylsphingosine	R01494	white
+lysosomal-associated membrane protein 1/2	2.7.8.17	H2O	Fatty acid	R01494	white
+lysosomal-associated membrane protein 1/2	2.7.8.17	H2O	Sphingosine	R01494	white
+lysosomal-associated membrane protein 1/2	2.7.8.17	N-Acylsphingosine	Fatty acid	R01494	white
+lysosomal-associated membrane protein 1/2	2.7.8.17	N-Acylsphingosine	Sphingosine	R01494	white
+lysosomal-associated membrane protein 1/2	2.7.8.17	Sphingosine	H2O	R01494	white
+lysosomal-associated membrane protein 1/2	2.7.8.17	Sphingosine	N-Acylsphingosine	R01494	white
+lysosomal-associated membrane protein 3	2.7.8.17	Fatty acid	H2O	R01494	white
+lysosomal-associated membrane protein 3	2.7.8.17	Fatty acid	N-Acylsphingosine	R01494	white
+lysosomal-associated membrane protein 3	2.7.8.17	H2O	Fatty acid	R01494	white
+lysosomal-associated membrane protein 3	2.7.8.17	H2O	Sphingosine	R01494	white
+lysosomal-associated membrane protein 3	2.7.8.17	N-Acylsphingosine	Fatty acid	R01494	white
+lysosomal-associated membrane protein 3	2.7.8.17	N-Acylsphingosine	Sphingosine	R01494	white
+lysosomal-associated membrane protein 3	2.7.8.17	Sphingosine	H2O	R01494	white
+lysosomal-associated membrane protein 3	2.7.8.17	Sphingosine	N-Acylsphingosine	R01494	white
+lysosomal-associated transmembrane protein	2.7.8.17	Fatty acid	H2O	R01494	white
+lysosomal-associated transmembrane protein	2.7.8.17	Fatty acid	N-Acylsphingosine	R01494	white
+lysosomal-associated transmembrane protein	2.7.8.17	H2O	Fatty acid	R01494	white
+lysosomal-associated transmembrane protein	2.7.8.17	H2O	Sphingosine	R01494	white
+lysosomal-associated transmembrane protein	2.7.8.17	N-Acylsphingosine	Fatty acid	R01494	white
+lysosomal-associated transmembrane protein	2.7.8.17	N-Acylsphingosine	Sphingosine	R01494	white
+lysosomal-associated transmembrane protein	2.7.8.17	Sphingosine	H2O	R01494	white
+lysosomal-associated transmembrane protein	2.7.8.17	Sphingosine	N-Acylsphingosine	R01494	white
+lysosome membrane protein 2	2.7.8.17	Fatty acid	H2O	R01494	white
+lysosome membrane protein 2	2.7.8.17	Fatty acid	N-Acylsphingosine	R01494	white
+lysosome membrane protein 2	2.7.8.17	H2O	Fatty acid	R01494	white
+lysosome membrane protein 2	2.7.8.17	H2O	Sphingosine	R01494	white
+lysosome membrane protein 2	2.7.8.17	N-Acylsphingosine	Fatty acid	R01494	white
+lysosome membrane protein 2	2.7.8.17	N-Acylsphingosine	Sphingosine	R01494	white
+lysosome membrane protein 2	2.7.8.17	Sphingosine	H2O	R01494	white
+lysosome membrane protein 2	2.7.8.17	Sphingosine	N-Acylsphingosine	R01494	white
+mucolipin 1	3.1.4.45	Fatty acid	H2O	R01494	white
+mucolipin 1	3.1.4.45	Fatty acid	N-Acylsphingosine	R01494	white
+mucolipin 1	3.1.4.45	H2O	Fatty acid	R01494	white
+mucolipin 1	3.1.4.45	H2O	Sphingosine	R01494	white
+mucolipin 1	3.1.4.45	N-Acylsphingosine	Fatty acid	R01494	white
+mucolipin 1	3.1.4.45	N-Acylsphingosine	Sphingosine	R01494	white
+mucolipin 1	3.1.4.45	Sphingosine	H2O	R01494	white
+mucolipin 1	3.1.4.45	Sphingosine	N-Acylsphingosine	R01494	white
+napsin-A	3.4.23.-	Dolichyl diphosphate	G00008	R05976	white
+napsin-A	3.4.23.-	Dolichyl diphosphate	Protein asparagine	R05976	white
+napsin-A	3.4.23.-	G00008	Dolichyl diphosphate	R05976	white
+napsin-A	3.4.23.-	G00008	G00009	R05976	white
+napsin-A	3.4.23.-	G00009	G00008	R05976	white
+napsin-A	3.4.23.-	G00009	Protein asparagine	R05976	white
+napsin-A	3.4.23.-	Protein asparagine	Dolichyl diphosphate	R05976	white
+napsin-A	3.4.23.-	Protein asparagine	G00009	R05976	white
+natural resistance-associated macrophage protein 1	2.7.8.17	Fatty acid	H2O	R01494	white
+natural resistance-associated macrophage protein 1	2.7.8.17	Fatty acid	N-Acylsphingosine	R01494	white
+natural resistance-associated macrophage protein 1	2.7.8.17	H2O	Fatty acid	R01494	white
+natural resistance-associated macrophage protein 1	2.7.8.17	H2O	Sphingosine	R01494	white
+natural resistance-associated macrophage protein 1	2.7.8.17	N-Acylsphingosine	Fatty acid	R01494	white
+natural resistance-associated macrophage protein 1	2.7.8.17	N-Acylsphingosine	Sphingosine	R01494	white
+natural resistance-associated macrophage protein 1	2.7.8.17	Sphingosine	H2O	R01494	white
+natural resistance-associated macrophage protein 1	2.7.8.17	Sphingosine	N-Acylsphingosine	R01494	white
+natural resistance-associated macrophage protein 2	2.7.8.17	Fatty acid	H2O	R01494	white
+natural resistance-associated macrophage protein 2	2.7.8.17	Fatty acid	N-Acylsphingosine	R01494	white
+natural resistance-associated macrophage protein 2	2.7.8.17	H2O	Fatty acid	R01494	white
+natural resistance-associated macrophage protein 2	2.7.8.17	H2O	Sphingosine	R01494	white
+natural resistance-associated macrophage protein 2	2.7.8.17	N-Acylsphingosine	Fatty acid	R01494	white
+natural resistance-associated macrophage protein 2	2.7.8.17	N-Acylsphingosine	Sphingosine	R01494	white
+natural resistance-associated macrophage protein 2	2.7.8.17	Sphingosine	H2O	R01494	white
+natural resistance-associated macrophage protein 2	2.7.8.17	Sphingosine	N-Acylsphingosine	R01494	white
+nuclear receptor coactivator 7	3.1.4.45	Fatty acid	H2O	R01494	white
+nuclear receptor coactivator 7	3.1.4.45	Fatty acid	N-Acylsphingosine	R01494	white
+nuclear receptor coactivator 7	3.1.4.45	H2O	Fatty acid	R01494	white
+nuclear receptor coactivator 7	3.1.4.45	H2O	Sphingosine	R01494	white
+nuclear receptor coactivator 7	3.1.4.45	N-Acylsphingosine	Fatty acid	R01494	white
+nuclear receptor coactivator 7	3.1.4.45	N-Acylsphingosine	Sphingosine	R01494	white
+nuclear receptor coactivator 7	3.1.4.45	Sphingosine	H2O	R01494	white
+nuclear receptor coactivator 7	3.1.4.45	Sphingosine	N-Acylsphingosine	R01494	white
+palmitoyl-protein thioesterase	3.1.2.22	CoA	H2O	R01274	white
+palmitoyl-protein thioesterase	3.1.2.22	CoA	Palmitoyl-CoA	R01274	white
+palmitoyl-protein thioesterase	3.1.2.22	H2O	CoA	R01274	white
+palmitoyl-protein thioesterase	3.1.2.22	H2O	Hexadecanoic acid	R01274	white
+palmitoyl-protein thioesterase	3.1.2.22	Hexadecanoic acid	H2O	R01274	white
+palmitoyl-protein thioesterase	3.1.2.22	Hexadecanoic acid	Palmitoyl-CoA	R01274	white
+palmitoyl-protein thioesterase	3.1.2.22	Palmitoyl-CoA	CoA	R01274	white
+palmitoyl-protein thioesterase	3.1.2.22	Palmitoyl-CoA	Hexadecanoic acid	R01274	white
+rabconnectin-3a	3.1.4.45	Fatty acid	H2O	R01494	white
+rabconnectin-3a	3.1.4.45	Fatty acid	N-Acylsphingosine	R01494	white
+rabconnectin-3a	3.1.4.45	H2O	Fatty acid	R01494	white
+rabconnectin-3a	3.1.4.45	H2O	Sphingosine	R01494	white
+rabconnectin-3a	3.1.4.45	N-Acylsphingosine	Fatty acid	R01494	white
+rabconnectin-3a	3.1.4.45	N-Acylsphingosine	Sphingosine	R01494	white
+rabconnectin-3a	3.1.4.45	Sphingosine	H2O	R01494	white
+rabconnectin-3a	3.1.4.45	Sphingosine	N-Acylsphingosine	R01494	white
+rabconnectin-3b	3.1.4.45	Fatty acid	H2O	R01494	white
+rabconnectin-3b	3.1.4.45	Fatty acid	N-Acylsphingosine	R01494	white
+rabconnectin-3b	3.1.4.45	H2O	Fatty acid	R01494	white
+rabconnectin-3b	3.1.4.45	H2O	Sphingosine	R01494	white
+rabconnectin-3b	3.1.4.45	N-Acylsphingosine	Fatty acid	R01494	white
+rabconnectin-3b	3.1.4.45	N-Acylsphingosine	Sphingosine	R01494	white
+rabconnectin-3b	3.1.4.45	Sphingosine	H2O	R01494	white
+rabconnectin-3b	3.1.4.45	Sphingosine	N-Acylsphingosine	R01494	white
+saposin	3.2.1.52	Chitobiose	N-Acetyl-D-glucosamine	R00022	white
+saposin	3.2.1.52	H2O	N-Acetyl-D-glucosamine	R00022	white
+saposin	3.2.1.52	N-Acetyl-D-glucosamine	Chitobiose	R00022	white
+saposin	3.2.1.52	N-Acetyl-D-glucosamine	H2O	R00022	white
+sialidase-1	3.2.1.18	GM3	Lactosylceramide	R03491	white
+sialidase-1	3.2.1.18	GM3	N-Acetylneuraminate	R03491	white
+sialidase-1	3.2.1.18	H2O	Lactosylceramide	R03491	white
+sialidase-1	3.2.1.18	H2O	N-Acetylneuraminate	R03491	white
+sialidase-1	3.2.1.18	Lactosylceramide	GM3	R03491	white
+sialidase-1	3.2.1.18	Lactosylceramide	H2O	R03491	white
+sialidase-1	3.2.1.18	N-Acetylneuraminate	GM3	R03491	white
+sialidase-1	3.2.1.18	N-Acetylneuraminate	H2O	R03491	white
+sortilin	2.7.8.17	Fatty acid	H2O	R01494	white
+sortilin	2.7.8.17	Fatty acid	N-Acylsphingosine	R01494	white
+sortilin	2.7.8.17	H2O	Fatty acid	R01494	white
+sortilin	2.7.8.17	H2O	Sphingosine	R01494	white
+sortilin	2.7.8.17	N-Acylsphingosine	Fatty acid	R01494	white
+sortilin	2.7.8.17	N-Acylsphingosine	Sphingosine	R01494	white
+sortilin	2.7.8.17	Sphingosine	H2O	R01494	white
+sortilin	2.7.8.17	Sphingosine	N-Acylsphingosine	R01494	white
+sphingomyelin phosphodiesterase	3.1.4.12	Choline phosphate	H2O	R02541	white
+sphingomyelin phosphodiesterase	3.1.4.12	Choline phosphate	Sphingomyelin	R02541	white
+sphingomyelin phosphodiesterase	3.1.4.12	H2O	Choline phosphate	R02541	white
+sphingomyelin phosphodiesterase	3.1.4.12	H2O	N-Acylsphingosine	R02541	white
+sphingomyelin phosphodiesterase	3.1.4.12	N-Acylsphingosine	H2O	R02541	white
+sphingomyelin phosphodiesterase	3.1.4.12	N-Acylsphingosine	Sphingomyelin	R02541	white
+sphingomyelin phosphodiesterase	3.1.4.12	Sphingomyelin	Choline phosphate	R02541	white
+sphingomyelin phosphodiesterase	3.1.4.12	Sphingomyelin	N-Acylsphingosine	R02541	white
+tartrate-resistant acid phosphatase type 5	3.1.3.2	FMN	Orthophosphate	R00548	white
+tartrate-resistant acid phosphatase type 5	3.1.3.2	FMN	Riboflavin	R00548	white
+tartrate-resistant acid phosphatase type 5	3.1.3.2	H2O	Orthophosphate	R00548	white
+tartrate-resistant acid phosphatase type 5	3.1.3.2	H2O	Riboflavin	R00548	white
+tartrate-resistant acid phosphatase type 5	3.1.3.2	Orthophosphate	FMN	R00548	white
+tartrate-resistant acid phosphatase type 5	3.1.3.2	Orthophosphate	H2O	R00548	white
+tartrate-resistant acid phosphatase type 5	3.1.3.2	Riboflavin	FMN	R00548	white
+tartrate-resistant acid phosphatase type 5	3.1.3.2	Riboflavin	H2O	R00548	white
+tripeptidyl-peptidase I	3.4.14.9	Dolichyl diphosphate	G00008	R05976	white
+tripeptidyl-peptidase I	3.4.14.9	Dolichyl diphosphate	Protein asparagine	R05976	white
+tripeptidyl-peptidase I	3.4.14.9	G00008	Dolichyl diphosphate	R05976	white
+tripeptidyl-peptidase I	3.4.14.9	G00008	G00009	R05976	white
+tripeptidyl-peptidase I	3.4.14.9	G00009	G00008	R05976	white
+tripeptidyl-peptidase I	3.4.14.9	G00009	Protein asparagine	R05976	white
+tripeptidyl-peptidase I	3.4.14.9	Protein asparagine	Dolichyl diphosphate	R05976	white
+tripeptidyl-peptidase I	3.4.14.9	Protein asparagine	G00009	R05976	white
