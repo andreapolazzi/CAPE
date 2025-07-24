@@ -8,4 +8,5 @@ urlpatterns = [
     path('help', views.help, name='help'),
     path('pathways', views.pathways, name='pathways'),
     path('orthologs', views.orthologs, name='orthologs'),
+    path('summary', views.summary, name='summary'),
 ]
