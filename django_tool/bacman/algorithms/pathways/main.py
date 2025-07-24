@@ -46,11 +46,13 @@ def get_3_shortest_paths(start:str,end:str):
     # Return text for each candidate path
     WEIGHT_LABEL = {1: "(KEGG green edge)", 10: "(KEGG white edge)", 100: "(RetroPath)"}
     txt = []
+    non_green_ecs = []
 
     # Sort paths by total distance
     for idx, (dist, path_nodes, path_ecs, path_rxns) in enumerate(sorted(all_paths, key=lambda x: x[0]), start=1):
         header = f"Path #{idx} (total length: {round(dist)})"
         txt.append(header)
+        non_green_ecs.append([])
 
         for i in range(len(path_nodes) - 1):
             u, v = path_nodes[i], path_nodes[i+1]
@@ -63,8 +65,10 @@ def get_3_shortest_paths(start:str,end:str):
 
             w = chosen.weight if chosen else 1
             label = WEIGHT_LABEL.get(w, "")
+            if w != 1:
+                non_green_ecs[idx-1].append(ec)
 
             step = f"  {i+1}. {u.name} ---[{ec.replace(' ', ' or ')}]---> {v.name} {label}"
             txt[idx-1] += f"\n{step}"
 
-    return txt
+    return txt, non_green_ecs
