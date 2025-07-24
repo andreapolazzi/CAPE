@@ -1,281 +1,287 @@
-enzyme_name	EC	source	target	color
-1,2-dihydroxynaphthalene dioxygenase	1.13.11.56	2-Hydroxychromene-2-carboxylate	Naphthalene-1,2-diol	white
-1,2-dihydroxynaphthalene dioxygenase	1.13.11.56	2-Hydroxychromene-2-carboxylate	Oxygen	white
-1,2-dihydroxynaphthalene dioxygenase	1.13.11.56	Naphthalene-1,2-diol	2-Hydroxychromene-2-carboxylate	white
-1,2-dihydroxynaphthalene dioxygenase	1.13.11.56	Oxygen	2-Hydroxychromene-2-carboxylate	white
-2-hydroxychromene-2-carboxylate isomerase	5.99.1.4	2-Hydroxychromene-2-carboxylate	trans-o-Hydroxybenzylidenepyruvate	white
-2-hydroxychromene-2-carboxylate isomerase	5.99.1.4	trans-o-Hydroxybenzylidenepyruvate	2-Hydroxychromene-2-carboxylate	white
-2-naphthoate monooxygenase	4.4.1.23	1-Hydroxy-2-naphthoate	2-Naphthoic acid	white
-2-naphthoate monooxygenase	4.4.1.23	1-Hydroxy-2-naphthoate	FADH2	white
-2-naphthoate monooxygenase	4.4.1.23	1-Hydroxy-2-naphthoate	Oxygen	white
-2-naphthoate monooxygenase	4.4.1.23	2-Naphthoic acid	1-Hydroxy-2-naphthoate	white
-2-naphthoate monooxygenase	4.4.1.23	2-Naphthoic acid	FAD	white
-2-naphthoate monooxygenase	4.4.1.23	2-Naphthoic acid	H2O	white
-2-naphthoate monooxygenase	4.4.1.23	FAD	2-Naphthoic acid	white
-2-naphthoate monooxygenase	4.4.1.23	FAD	FADH2	white
-2-naphthoate monooxygenase	4.4.1.23	FAD	Oxygen	white
-2-naphthoate monooxygenase	4.4.1.23	FADH2	1-Hydroxy-2-naphthoate	white
-2-naphthoate monooxygenase	4.4.1.23	FADH2	FAD	white
-2-naphthoate monooxygenase	4.4.1.23	FADH2	H2O	white
-2-naphthoate monooxygenase	4.4.1.23	H2O	2-Naphthoic acid	white
-2-naphthoate monooxygenase	4.4.1.23	H2O	FADH2	white
-2-naphthoate monooxygenase	4.4.1.23	H2O	Oxygen	white
-2-naphthoate monooxygenase	4.4.1.23	Oxygen	1-Hydroxy-2-naphthoate	white
-2-naphthoate monooxygenase	4.4.1.23	Oxygen	FAD	white
-2-naphthoate monooxygenase	4.4.1.23	Oxygen	H2O	white
-S-(hydroxymethyl)glutathione dehydrogenase / alcohol dehydrogenase	1.1.1.284	(2-Naphthyl)methanol	2-Naphthaldehyde	green
-S-(hydroxymethyl)glutathione dehydrogenase / alcohol dehydrogenase	1.1.1.284	(2-Naphthyl)methanol	H+	green
-S-(hydroxymethyl)glutathione dehydrogenase / alcohol dehydrogenase	1.1.1.284	(2-Naphthyl)methanol	NADH	green
-S-(hydroxymethyl)glutathione dehydrogenase / alcohol dehydrogenase	1.1.1.284	1-Hydroxymethylnaphthalene	1-Naphthaldehyde	green
-S-(hydroxymethyl)glutathione dehydrogenase / alcohol dehydrogenase	1.1.1.284	1-Hydroxymethylnaphthalene	H+	green
-S-(hydroxymethyl)glutathione dehydrogenase / alcohol dehydrogenase	1.1.1.284	1-Hydroxymethylnaphthalene	NADH	green
-S-(hydroxymethyl)glutathione dehydrogenase / alcohol dehydrogenase	1.1.1.284	NAD+	1-Naphthaldehyde	green
-S-(hydroxymethyl)glutathione dehydrogenase / alcohol dehydrogenase	1.1.1.284	NAD+	2-Naphthaldehyde	green
-S-(hydroxymethyl)glutathione dehydrogenase / alcohol dehydrogenase	1.1.1.284	NAD+	H+	green
-S-(hydroxymethyl)glutathione dehydrogenase / alcohol dehydrogenase	1.1.1.284	NAD+	NADH	green
-alcohol dehydrogenase	1.1.1.1	(2-Naphthyl)methanol	2-Naphthaldehyde	green
-alcohol dehydrogenase	1.1.1.1	(2-Naphthyl)methanol	H+	green
-alcohol dehydrogenase	1.1.1.1	(2-Naphthyl)methanol	NADH	green
-alcohol dehydrogenase	1.1.1.1	1-Hydroxymethylnaphthalene	1-Naphthaldehyde	green
-alcohol dehydrogenase	1.1.1.1	1-Hydroxymethylnaphthalene	H+	green
-alcohol dehydrogenase	1.1.1.1	1-Hydroxymethylnaphthalene	NADH	green
-alcohol dehydrogenase	1.1.1.1	NAD+	1-Naphthaldehyde	green
-alcohol dehydrogenase	1.1.1.1	NAD+	2-Naphthaldehyde	green
-alcohol dehydrogenase	1.1.1.1	NAD+	H+	green
-alcohol dehydrogenase	1.1.1.1	NAD+	NADH	green
-alcohol dehydrogenase, propanol-preferring	1.1.1.1	(2-Naphthyl)methanol	2-Naphthaldehyde	green
-alcohol dehydrogenase, propanol-preferring	1.1.1.1	(2-Naphthyl)methanol	H+	green
-alcohol dehydrogenase, propanol-preferring	1.1.1.1	(2-Naphthyl)methanol	NADH	green
-alcohol dehydrogenase, propanol-preferring	1.1.1.1	1-Hydroxymethylnaphthalene	1-Naphthaldehyde	green
-alcohol dehydrogenase, propanol-preferring	1.1.1.1	1-Hydroxymethylnaphthalene	H+	green
-alcohol dehydrogenase, propanol-preferring	1.1.1.1	1-Hydroxymethylnaphthalene	NADH	green
-alcohol dehydrogenase, propanol-preferring	1.1.1.1	NAD+	1-Naphthaldehyde	green
-alcohol dehydrogenase, propanol-preferring	1.1.1.1	NAD+	2-Naphthaldehyde	green
-alcohol dehydrogenase, propanol-preferring	1.1.1.1	NAD+	H+	green
-alcohol dehydrogenase, propanol-preferring	1.1.1.1	NAD+	NADH	green
-cis-1,2-dihydro-1,2-dihydroxynaphthalene/dibenzothiophene dihydrodiol dehydrogenase	1.3.1.29	H+	NAD+	white
-cis-1,2-dihydro-1,2-dihydroxynaphthalene/dibenzothiophene dihydrodiol dehydrogenase	1.3.1.29	H+	cis-1,2-Dihydronaphthalene-1,2-diol	white
-cis-1,2-dihydro-1,2-dihydroxynaphthalene/dibenzothiophene dihydrodiol dehydrogenase	1.3.1.29	NAD+	H+	white
-cis-1,2-dihydro-1,2-dihydroxynaphthalene/dibenzothiophene dihydrodiol dehydrogenase	1.3.1.29	NAD+	NADH	white
-cis-1,2-dihydro-1,2-dihydroxynaphthalene/dibenzothiophene dihydrodiol dehydrogenase	1.3.1.29	NAD+	Naphthalene-1,2-diol	white
-cis-1,2-dihydro-1,2-dihydroxynaphthalene/dibenzothiophene dihydrodiol dehydrogenase	1.3.1.29	NADH	NAD+	white
-cis-1,2-dihydro-1,2-dihydroxynaphthalene/dibenzothiophene dihydrodiol dehydrogenase	1.3.1.29	NADH	cis-1,2-Dihydronaphthalene-1,2-diol	white
-cis-1,2-dihydro-1,2-dihydroxynaphthalene/dibenzothiophene dihydrodiol dehydrogenase	1.3.1.29	Naphthalene-1,2-diol	NAD+	white
-cis-1,2-dihydro-1,2-dihydroxynaphthalene/dibenzothiophene dihydrodiol dehydrogenase	1.3.1.29	Naphthalene-1,2-diol	cis-1,2-Dihydronaphthalene-1,2-diol	white
-cis-1,2-dihydro-1,2-dihydroxynaphthalene/dibenzothiophene dihydrodiol dehydrogenase	1.3.1.29	cis-1,2-Dihydronaphthalene-1,2-diol	H+	white
-cis-1,2-dihydro-1,2-dihydroxynaphthalene/dibenzothiophene dihydrodiol dehydrogenase	1.3.1.29	cis-1,2-Dihydronaphthalene-1,2-diol	NADH	white
-cis-1,2-dihydro-1,2-dihydroxynaphthalene/dibenzothiophene dihydrodiol dehydrogenase	1.3.1.29	cis-1,2-Dihydronaphthalene-1,2-diol	Naphthalene-1,2-diol	white
-naphthalene 1,2-dioxygenase ferredoxin component	1.14.12.12	H+	NAD+	white
-naphthalene 1,2-dioxygenase ferredoxin component	1.14.12.12	H+	cis-1,2-Dihydronaphthalene-1,2-diol	white
-naphthalene 1,2-dioxygenase ferredoxin component	1.14.12.12	NAD+	H+	white
-naphthalene 1,2-dioxygenase ferredoxin component	1.14.12.12	NAD+	NADH	white
-naphthalene 1,2-dioxygenase ferredoxin component	1.14.12.12	NAD+	Naphthalene	white
-naphthalene 1,2-dioxygenase ferredoxin component	1.14.12.12	NAD+	Oxygen	white
-naphthalene 1,2-dioxygenase ferredoxin component	1.14.12.12	NADH	NAD+	white
-naphthalene 1,2-dioxygenase ferredoxin component	1.14.12.12	NADH	cis-1,2-Dihydronaphthalene-1,2-diol	white
-naphthalene 1,2-dioxygenase ferredoxin component	1.14.12.12	Naphthalene	NAD+	white
-naphthalene 1,2-dioxygenase ferredoxin component	1.14.12.12	Naphthalene	cis-1,2-Dihydronaphthalene-1,2-diol	white
-naphthalene 1,2-dioxygenase ferredoxin component	1.14.12.12	Oxygen	NAD+	white
-naphthalene 1,2-dioxygenase ferredoxin component	1.14.12.12	Oxygen	cis-1,2-Dihydronaphthalene-1,2-diol	white
-naphthalene 1,2-dioxygenase ferredoxin component	1.14.12.12	cis-1,2-Dihydronaphthalene-1,2-diol	H+	white
-naphthalene 1,2-dioxygenase ferredoxin component	1.14.12.12	cis-1,2-Dihydronaphthalene-1,2-diol	NADH	white
-naphthalene 1,2-dioxygenase ferredoxin component	1.14.12.12	cis-1,2-Dihydronaphthalene-1,2-diol	Naphthalene	white
-naphthalene 1,2-dioxygenase ferredoxin component	1.14.12.12	cis-1,2-Dihydronaphthalene-1,2-diol	Oxygen	white
-naphthalene 1,2-dioxygenase ferredoxin reductase component	1.18.1.7	H+	NAD+	white
-naphthalene 1,2-dioxygenase ferredoxin reductase component	1.18.1.7	H+	cis-1,2-Dihydronaphthalene-1,2-diol	white
-naphthalene 1,2-dioxygenase ferredoxin reductase component	1.18.1.7	NAD+	H+	white
-naphthalene 1,2-dioxygenase ferredoxin reductase component	1.18.1.7	NAD+	NADH	white
-naphthalene 1,2-dioxygenase ferredoxin reductase component	1.18.1.7	NAD+	Naphthalene	white
-naphthalene 1,2-dioxygenase ferredoxin reductase component	1.18.1.7	NAD+	Oxygen	white
-naphthalene 1,2-dioxygenase ferredoxin reductase component	1.18.1.7	NADH	NAD+	white
-naphthalene 1,2-dioxygenase ferredoxin reductase component	1.18.1.7	NADH	cis-1,2-Dihydronaphthalene-1,2-diol	white
-naphthalene 1,2-dioxygenase ferredoxin reductase component	1.18.1.7	Naphthalene	NAD+	white
-naphthalene 1,2-dioxygenase ferredoxin reductase component	1.18.1.7	Naphthalene	cis-1,2-Dihydronaphthalene-1,2-diol	white
-naphthalene 1,2-dioxygenase ferredoxin reductase component	1.18.1.7	Oxygen	NAD+	white
-naphthalene 1,2-dioxygenase ferredoxin reductase component	1.18.1.7	Oxygen	cis-1,2-Dihydronaphthalene-1,2-diol	white
-naphthalene 1,2-dioxygenase ferredoxin reductase component	1.18.1.7	cis-1,2-Dihydronaphthalene-1,2-diol	H+	white
-naphthalene 1,2-dioxygenase ferredoxin reductase component	1.18.1.7	cis-1,2-Dihydronaphthalene-1,2-diol	NADH	white
-naphthalene 1,2-dioxygenase ferredoxin reductase component	1.18.1.7	cis-1,2-Dihydronaphthalene-1,2-diol	Naphthalene	white
-naphthalene 1,2-dioxygenase ferredoxin reductase component	1.18.1.7	cis-1,2-Dihydronaphthalene-1,2-diol	Oxygen	white
-naphthalene 1,2-dioxygenase subunit alpha	1.14.12.12	H+	NAD+	white
-naphthalene 1,2-dioxygenase subunit alpha	1.14.12.12	H+	cis-1,2-Dihydronaphthalene-1,2-diol	white
-naphthalene 1,2-dioxygenase subunit alpha	1.14.12.12	NAD+	H+	white
-naphthalene 1,2-dioxygenase subunit alpha	1.14.12.12	NAD+	NADH	white
-naphthalene 1,2-dioxygenase subunit alpha	1.14.12.12	NAD+	Naphthalene	white
-naphthalene 1,2-dioxygenase subunit alpha	1.14.12.12	NAD+	Oxygen	white
-naphthalene 1,2-dioxygenase subunit alpha	1.14.12.12	NADH	NAD+	white
-naphthalene 1,2-dioxygenase subunit alpha	1.14.12.12	NADH	cis-1,2-Dihydronaphthalene-1,2-diol	white
-naphthalene 1,2-dioxygenase subunit alpha	1.14.12.12	Naphthalene	NAD+	white
-naphthalene 1,2-dioxygenase subunit alpha	1.14.12.12	Naphthalene	cis-1,2-Dihydronaphthalene-1,2-diol	white
-naphthalene 1,2-dioxygenase subunit alpha	1.14.12.12	Oxygen	NAD+	white
-naphthalene 1,2-dioxygenase subunit alpha	1.14.12.12	Oxygen	cis-1,2-Dihydronaphthalene-1,2-diol	white
-naphthalene 1,2-dioxygenase subunit alpha	1.14.12.12	cis-1,2-Dihydronaphthalene-1,2-diol	H+	white
-naphthalene 1,2-dioxygenase subunit alpha	1.14.12.12	cis-1,2-Dihydronaphthalene-1,2-diol	NADH	white
-naphthalene 1,2-dioxygenase subunit alpha	1.14.12.12	cis-1,2-Dihydronaphthalene-1,2-diol	Naphthalene	white
-naphthalene 1,2-dioxygenase subunit alpha	1.14.12.12	cis-1,2-Dihydronaphthalene-1,2-diol	Oxygen	white
-naphthalene 1,2-dioxygenase subunit beta	1.14.12.12	H+	NAD+	white
-naphthalene 1,2-dioxygenase subunit beta	1.14.12.12	H+	cis-1,2-Dihydronaphthalene-1,2-diol	white
-naphthalene 1,2-dioxygenase subunit beta	1.14.12.12	NAD+	H+	white
-naphthalene 1,2-dioxygenase subunit beta	1.14.12.12	NAD+	NADH	white
-naphthalene 1,2-dioxygenase subunit beta	1.14.12.12	NAD+	Naphthalene	white
-naphthalene 1,2-dioxygenase subunit beta	1.14.12.12	NAD+	Oxygen	white
-naphthalene 1,2-dioxygenase subunit beta	1.14.12.12	NADH	NAD+	white
-naphthalene 1,2-dioxygenase subunit beta	1.14.12.12	NADH	cis-1,2-Dihydronaphthalene-1,2-diol	white
-naphthalene 1,2-dioxygenase subunit beta	1.14.12.12	Naphthalene	NAD+	white
-naphthalene 1,2-dioxygenase subunit beta	1.14.12.12	Naphthalene	cis-1,2-Dihydronaphthalene-1,2-diol	white
-naphthalene 1,2-dioxygenase subunit beta	1.14.12.12	Oxygen	NAD+	white
-naphthalene 1,2-dioxygenase subunit beta	1.14.12.12	Oxygen	cis-1,2-Dihydronaphthalene-1,2-diol	white
-naphthalene 1,2-dioxygenase subunit beta	1.14.12.12	cis-1,2-Dihydronaphthalene-1,2-diol	H+	white
-naphthalene 1,2-dioxygenase subunit beta	1.14.12.12	cis-1,2-Dihydronaphthalene-1,2-diol	NADH	white
-naphthalene 1,2-dioxygenase subunit beta	1.14.12.12	cis-1,2-Dihydronaphthalene-1,2-diol	Naphthalene	white
-naphthalene 1,2-dioxygenase subunit beta	1.14.12.12	cis-1,2-Dihydronaphthalene-1,2-diol	Oxygen	white
-naphthyl-2-hydroxymethylsuccinyl-CoA dehydrogenase BnsC subunit	1.1.-.-	H+	Naphthyl-2-hydroxymethyl-succinyl CoA	white
-naphthyl-2-hydroxymethylsuccinyl-CoA dehydrogenase BnsC subunit	1.1.-.-	Naphthyl-2-hydroxymethyl-succinyl CoA	H+	white
-naphthyl-2-hydroxymethylsuccinyl-CoA dehydrogenase BnsC subunit	1.1.-.-	Naphthyl-2-hydroxymethyl-succinyl CoA	Naphthyl-2-oxomethyl-succinyl-CoA	white
-naphthyl-2-hydroxymethylsuccinyl-CoA dehydrogenase BnsC subunit	1.1.-.-	Naphthyl-2-oxomethyl-succinyl-CoA	Naphthyl-2-hydroxymethyl-succinyl CoA	white
-naphthyl-2-hydroxymethylsuccinyl-CoA dehydrogenase BnsD subunit	1.1.-.-	H+	Naphthyl-2-hydroxymethyl-succinyl CoA	white
-naphthyl-2-hydroxymethylsuccinyl-CoA dehydrogenase BnsD subunit	1.1.-.-	Naphthyl-2-hydroxymethyl-succinyl CoA	H+	white
-naphthyl-2-hydroxymethylsuccinyl-CoA dehydrogenase BnsD subunit	1.1.-.-	Naphthyl-2-hydroxymethyl-succinyl CoA	Naphthyl-2-oxomethyl-succinyl-CoA	white
-naphthyl-2-hydroxymethylsuccinyl-CoA dehydrogenase BnsD subunit	1.1.-.-	Naphthyl-2-oxomethyl-succinyl-CoA	Naphthyl-2-hydroxymethyl-succinyl CoA	white
-naphthyl-2-hydroxymethylsuccinyl-CoA hydratase	4.2.1.-	H2O	Naphthyl-2-hydroxymethyl-succinyl CoA	white
-naphthyl-2-hydroxymethylsuccinyl-CoA hydratase	4.2.1.-	Naphthyl-2-hydroxymethyl-succinyl CoA	H2O	white
-naphthyl-2-hydroxymethylsuccinyl-CoA hydratase	4.2.1.-	Naphthyl-2-hydroxymethyl-succinyl CoA	Naphthyl-2-methylene-succinyl-CoA	white
-naphthyl-2-hydroxymethylsuccinyl-CoA hydratase	4.2.1.-	Naphthyl-2-methylene-succinyl-CoA	Naphthyl-2-hydroxymethyl-succinyl CoA	white
-naphthyl-2-methylsuccinate CoA transferase subunit	2.8.3.-	2-Naphtylmethylsuccinic acid	Naphthyl-2-methyl-succinyl-CoA	white
-naphthyl-2-methylsuccinate CoA transferase subunit	2.8.3.-	2-Naphtylmethylsuccinic acid	Succinate	white
-naphthyl-2-methylsuccinate CoA transferase subunit	2.8.3.-	Naphthyl-2-methyl-succinyl-CoA	2-Naphtylmethylsuccinic acid	white
-naphthyl-2-methylsuccinate CoA transferase subunit	2.8.3.-	Naphthyl-2-methyl-succinyl-CoA	Succinyl-CoA	white
-naphthyl-2-methylsuccinate CoA transferase subunit	2.8.3.-	Succinate	2-Naphtylmethylsuccinic acid	white
-naphthyl-2-methylsuccinate CoA transferase subunit	2.8.3.-	Succinate	Succinyl-CoA	white
-naphthyl-2-methylsuccinate CoA transferase subunit	2.8.3.-	Succinyl-CoA	Naphthyl-2-methyl-succinyl-CoA	white
-naphthyl-2-methylsuccinate CoA transferase subunit	2.8.3.-	Succinyl-CoA	Succinate	white
-naphthyl-2-methylsuccinate synthase alpha subunit	4.1.99.-	2-Methylnaphthalene	2-Naphtylmethylsuccinic acid	white
-naphthyl-2-methylsuccinate synthase alpha subunit	4.1.99.-	2-Naphtylmethylsuccinic acid	2-Methylnaphthalene	white
-naphthyl-2-methylsuccinate synthase alpha subunit	4.1.99.-	2-Naphtylmethylsuccinic acid	Fumarate	white
-naphthyl-2-methylsuccinate synthase alpha subunit	4.1.99.-	Fumarate	2-Naphtylmethylsuccinic acid	white
-naphthyl-2-methylsuccinate synthase beta subunit	4.1.99.-	2-Methylnaphthalene	2-Naphtylmethylsuccinic acid	white
-naphthyl-2-methylsuccinate synthase beta subunit	4.1.99.-	2-Naphtylmethylsuccinic acid	2-Methylnaphthalene	white
-naphthyl-2-methylsuccinate synthase beta subunit	4.1.99.-	2-Naphtylmethylsuccinic acid	Fumarate	white
-naphthyl-2-methylsuccinate synthase beta subunit	4.1.99.-	Fumarate	2-Naphtylmethylsuccinic acid	white
-naphthyl-2-methylsuccinate synthase gamma subunit	4.1.99.-	2-Methylnaphthalene	2-Naphtylmethylsuccinic acid	white
-naphthyl-2-methylsuccinate synthase gamma subunit	4.1.99.-	2-Naphtylmethylsuccinic acid	2-Methylnaphthalene	white
-naphthyl-2-methylsuccinate synthase gamma subunit	4.1.99.-	2-Naphtylmethylsuccinic acid	Fumarate	white
-naphthyl-2-methylsuccinate synthase gamma subunit	4.1.99.-	Fumarate	2-Naphtylmethylsuccinic acid	white
-naphthyl-2-methylsuccinyl-CoA dehydrogenase	1.3.99.-	H+	Naphthyl-2-methyl-succinyl-CoA	white
-naphthyl-2-methylsuccinyl-CoA dehydrogenase	1.3.99.-	Naphthyl-2-methyl-succinyl-CoA	H+	white
-naphthyl-2-methylsuccinyl-CoA dehydrogenase	1.3.99.-	Naphthyl-2-methyl-succinyl-CoA	Naphthyl-2-methylene-succinyl-CoA	white
-naphthyl-2-methylsuccinyl-CoA dehydrogenase	1.3.99.-	Naphthyl-2-methylene-succinyl-CoA	Naphthyl-2-methyl-succinyl-CoA	white
-naphthyl-2-oxomethyl-succinyl-CoA thiolase subunit	2.3.1.-	2-Naphthoyl-CoA	CoA	white
-naphthyl-2-oxomethyl-succinyl-CoA thiolase subunit	2.3.1.-	2-Naphthoyl-CoA	Naphthyl-2-oxomethyl-succinyl-CoA	white
-naphthyl-2-oxomethyl-succinyl-CoA thiolase subunit	2.3.1.-	CoA	2-Naphthoyl-CoA	white
-naphthyl-2-oxomethyl-succinyl-CoA thiolase subunit	2.3.1.-	CoA	Succinyl-CoA	white
-naphthyl-2-oxomethyl-succinyl-CoA thiolase subunit	2.3.1.-	Naphthyl-2-oxomethyl-succinyl-CoA	2-Naphthoyl-CoA	white
-naphthyl-2-oxomethyl-succinyl-CoA thiolase subunit	2.3.1.-	Naphthyl-2-oxomethyl-succinyl-CoA	Succinyl-CoA	white
-naphthyl-2-oxomethyl-succinyl-CoA thiolase subunit	2.3.1.-	Succinyl-CoA	CoA	white
-naphthyl-2-oxomethyl-succinyl-CoA thiolase subunit	2.3.1.-	Succinyl-CoA	Naphthyl-2-oxomethyl-succinyl-CoA	white
-salicylaldehyde dehydrogenase	1.2.1.65	H+	H2O	white
-salicylaldehyde dehydrogenase	1.2.1.65	H+	NAD+	white
-salicylaldehyde dehydrogenase	1.2.1.65	H+	Salicylaldehyde	white
-salicylaldehyde dehydrogenase	1.2.1.65	H2O	H+	white
-salicylaldehyde dehydrogenase	1.2.1.65	H2O	NADH	white
-salicylaldehyde dehydrogenase	1.2.1.65	H2O	Salicylate	white
-salicylaldehyde dehydrogenase	1.2.1.65	NAD+	H+	white
-salicylaldehyde dehydrogenase	1.2.1.65	NAD+	NADH	white
-salicylaldehyde dehydrogenase	1.2.1.65	NAD+	Salicylate	white
-salicylaldehyde dehydrogenase	1.2.1.65	NADH	H2O	white
-salicylaldehyde dehydrogenase	1.2.1.65	NADH	NAD+	white
-salicylaldehyde dehydrogenase	1.2.1.65	NADH	Salicylaldehyde	white
-salicylaldehyde dehydrogenase	1.2.1.65	Salicylaldehyde	H+	white
-salicylaldehyde dehydrogenase	1.2.1.65	Salicylaldehyde	NADH	white
-salicylaldehyde dehydrogenase	1.2.1.65	Salicylaldehyde	Salicylate	white
-salicylaldehyde dehydrogenase	1.2.1.65	Salicylate	H2O	white
-salicylaldehyde dehydrogenase	1.2.1.65	Salicylate	NAD+	white
-salicylaldehyde dehydrogenase	1.2.1.65	Salicylate	Salicylaldehyde	white
-salicylate 5-hydroxylase large subunit	1.14.13.172	2,5-Dihydroxybenzoate	H+	white
-salicylate 5-hydroxylase large subunit	1.14.13.172	2,5-Dihydroxybenzoate	NADH	white
-salicylate 5-hydroxylase large subunit	1.14.13.172	2,5-Dihydroxybenzoate	Oxygen	white
-salicylate 5-hydroxylase large subunit	1.14.13.172	2,5-Dihydroxybenzoate	Salicylate	white
-salicylate 5-hydroxylase large subunit	1.14.13.172	H+	2,5-Dihydroxybenzoate	white
-salicylate 5-hydroxylase large subunit	1.14.13.172	H+	H2O	white
-salicylate 5-hydroxylase large subunit	1.14.13.172	H+	NAD+	white
-salicylate 5-hydroxylase large subunit	1.14.13.172	H2O	H+	white
-salicylate 5-hydroxylase large subunit	1.14.13.172	H2O	NADH	white
-salicylate 5-hydroxylase large subunit	1.14.13.172	H2O	Oxygen	white
-salicylate 5-hydroxylase large subunit	1.14.13.172	H2O	Salicylate	white
-salicylate 5-hydroxylase large subunit	1.14.13.172	NAD+	H+	white
-salicylate 5-hydroxylase large subunit	1.14.13.172	NAD+	NADH	white
-salicylate 5-hydroxylase large subunit	1.14.13.172	NAD+	Oxygen	white
-salicylate 5-hydroxylase large subunit	1.14.13.172	NAD+	Salicylate	white
-salicylate 5-hydroxylase large subunit	1.14.13.172	NADH	2,5-Dihydroxybenzoate	white
-salicylate 5-hydroxylase large subunit	1.14.13.172	NADH	H2O	white
-salicylate 5-hydroxylase large subunit	1.14.13.172	NADH	NAD+	white
-salicylate 5-hydroxylase large subunit	1.14.13.172	Oxygen	2,5-Dihydroxybenzoate	white
-salicylate 5-hydroxylase large subunit	1.14.13.172	Oxygen	H2O	white
-salicylate 5-hydroxylase large subunit	1.14.13.172	Oxygen	NAD+	white
-salicylate 5-hydroxylase large subunit	1.14.13.172	Salicylate	2,5-Dihydroxybenzoate	white
-salicylate 5-hydroxylase large subunit	1.14.13.172	Salicylate	H2O	white
-salicylate 5-hydroxylase large subunit	1.14.13.172	Salicylate	NAD+	white
-salicylate 5-hydroxylase small subunit	1.14.13.172	2,5-Dihydroxybenzoate	H+	white
-salicylate 5-hydroxylase small subunit	1.14.13.172	2,5-Dihydroxybenzoate	NADH	white
-salicylate 5-hydroxylase small subunit	1.14.13.172	2,5-Dihydroxybenzoate	Oxygen	white
-salicylate 5-hydroxylase small subunit	1.14.13.172	2,5-Dihydroxybenzoate	Salicylate	white
-salicylate 5-hydroxylase small subunit	1.14.13.172	H+	2,5-Dihydroxybenzoate	white
-salicylate 5-hydroxylase small subunit	1.14.13.172	H+	H2O	white
-salicylate 5-hydroxylase small subunit	1.14.13.172	H+	NAD+	white
-salicylate 5-hydroxylase small subunit	1.14.13.172	H2O	H+	white
-salicylate 5-hydroxylase small subunit	1.14.13.172	H2O	NADH	white
-salicylate 5-hydroxylase small subunit	1.14.13.172	H2O	Oxygen	white
-salicylate 5-hydroxylase small subunit	1.14.13.172	H2O	Salicylate	white
-salicylate 5-hydroxylase small subunit	1.14.13.172	NAD+	H+	white
-salicylate 5-hydroxylase small subunit	1.14.13.172	NAD+	NADH	white
-salicylate 5-hydroxylase small subunit	1.14.13.172	NAD+	Oxygen	white
-salicylate 5-hydroxylase small subunit	1.14.13.172	NAD+	Salicylate	white
-salicylate 5-hydroxylase small subunit	1.14.13.172	NADH	2,5-Dihydroxybenzoate	white
-salicylate 5-hydroxylase small subunit	1.14.13.172	NADH	H2O	white
-salicylate 5-hydroxylase small subunit	1.14.13.172	NADH	NAD+	white
-salicylate 5-hydroxylase small subunit	1.14.13.172	Oxygen	2,5-Dihydroxybenzoate	white
-salicylate 5-hydroxylase small subunit	1.14.13.172	Oxygen	H2O	white
-salicylate 5-hydroxylase small subunit	1.14.13.172	Oxygen	NAD+	white
-salicylate 5-hydroxylase small subunit	1.14.13.172	Salicylate	2,5-Dihydroxybenzoate	white
-salicylate 5-hydroxylase small subunit	1.14.13.172	Salicylate	H2O	white
-salicylate 5-hydroxylase small subunit	1.14.13.172	Salicylate	NAD+	white
-salicylate hydroxylase	1.14.13.1	CO2	H+	white
-salicylate hydroxylase	1.14.13.1	CO2	NADH	white
-salicylate hydroxylase	1.14.13.1	CO2	Oxygen	white
-salicylate hydroxylase	1.14.13.1	CO2	Salicylate	white
-salicylate hydroxylase	1.14.13.1	Catechol	H+	white
-salicylate hydroxylase	1.14.13.1	Catechol	NADH	white
-salicylate hydroxylase	1.14.13.1	Catechol	Oxygen	white
-salicylate hydroxylase	1.14.13.1	Catechol	Salicylate	white
-salicylate hydroxylase	1.14.13.1	H+	CO2	white
-salicylate hydroxylase	1.14.13.1	H+	Catechol	white
-salicylate hydroxylase	1.14.13.1	H+	H2O	white
-salicylate hydroxylase	1.14.13.1	H+	NAD+	white
-salicylate hydroxylase	1.14.13.1	H2O	H+	white
-salicylate hydroxylase	1.14.13.1	H2O	NADH	white
-salicylate hydroxylase	1.14.13.1	H2O	Oxygen	white
-salicylate hydroxylase	1.14.13.1	H2O	Salicylate	white
-salicylate hydroxylase	1.14.13.1	NAD+	H+	white
-salicylate hydroxylase	1.14.13.1	NAD+	NADH	white
-salicylate hydroxylase	1.14.13.1	NAD+	Oxygen	white
-salicylate hydroxylase	1.14.13.1	NAD+	Salicylate	white
-salicylate hydroxylase	1.14.13.1	NADH	CO2	white
-salicylate hydroxylase	1.14.13.1	NADH	Catechol	white
-salicylate hydroxylase	1.14.13.1	NADH	H2O	white
-salicylate hydroxylase	1.14.13.1	NADH	NAD+	white
-salicylate hydroxylase	1.14.13.1	Oxygen	CO2	white
-salicylate hydroxylase	1.14.13.1	Oxygen	Catechol	white
-salicylate hydroxylase	1.14.13.1	Oxygen	H2O	white
-salicylate hydroxylase	1.14.13.1	Oxygen	NAD+	white
-salicylate hydroxylase	1.14.13.1	Salicylate	CO2	white
-salicylate hydroxylase	1.14.13.1	Salicylate	Catechol	white
-salicylate hydroxylase	1.14.13.1	Salicylate	H2O	white
-salicylate hydroxylase	1.14.13.1	Salicylate	NAD+	white
-trans-o-hydroxybenzylidenepyruvate hydratase-aldolase	4.1.2.45	H2O	Pyruvate	white
-trans-o-hydroxybenzylidenepyruvate hydratase-aldolase	4.1.2.45	H2O	Salicylaldehyde	white
-trans-o-hydroxybenzylidenepyruvate hydratase-aldolase	4.1.2.45	Pyruvate	H2O	white
-trans-o-hydroxybenzylidenepyruvate hydratase-aldolase	4.1.2.45	Pyruvate	trans-o-Hydroxybenzylidenepyruvate	white
-trans-o-hydroxybenzylidenepyruvate hydratase-aldolase	4.1.2.45	Salicylaldehyde	H2O	white
-trans-o-hydroxybenzylidenepyruvate hydratase-aldolase	4.1.2.45	Salicylaldehyde	trans-o-Hydroxybenzylidenepyruvate	white
-trans-o-hydroxybenzylidenepyruvate hydratase-aldolase	4.1.2.45	trans-o-Hydroxybenzylidenepyruvate	Pyruvate	white
-trans-o-hydroxybenzylidenepyruvate hydratase-aldolase	4.1.2.45	trans-o-Hydroxybenzylidenepyruvate	Salicylaldehyde	white
+enzyme_name	EC	source	target	reaction	color
+1,2-dihydroxynaphthalene dioxygenase	1.13.11.56	2-Hydroxychromene-2-carboxylate	Naphthalene-1,2-diol	R04117	white
+1,2-dihydroxynaphthalene dioxygenase	1.13.11.56	2-Hydroxychromene-2-carboxylate	Oxygen	R04117	white
+1,2-dihydroxynaphthalene dioxygenase	1.13.11.56	Naphthalene-1,2-diol	2-Hydroxychromene-2-carboxylate	R04117	white
+1,2-dihydroxynaphthalene dioxygenase	1.13.11.56	Oxygen	2-Hydroxychromene-2-carboxylate	R04117	white
+2-hydroxychromene-2-carboxylate isomerase	5.99.1.4	2-Hydroxychromene-2-carboxylate	trans-o-Hydroxybenzylidenepyruvate	R05137	white
+2-hydroxychromene-2-carboxylate isomerase	5.99.1.4	trans-o-Hydroxybenzylidenepyruvate	2-Hydroxychromene-2-carboxylate	R05137	white
+2-naphthoate monooxygenase	4.4.1.23	1-Hydroxy-2-naphthoate	2-Naphthoic acid	R06902	white
+2-naphthoate monooxygenase	4.4.1.23	1-Hydroxy-2-naphthoate	FADH2	R06902	white
+2-naphthoate monooxygenase	4.4.1.23	1-Hydroxy-2-naphthoate	Oxygen	R06902	white
+2-naphthoate monooxygenase	4.4.1.23	2-Naphthoic acid	1-Hydroxy-2-naphthoate	R06902	white
+2-naphthoate monooxygenase	4.4.1.23	2-Naphthoic acid	FAD	R06902	white
+2-naphthoate monooxygenase	4.4.1.23	2-Naphthoic acid	H2O	R06902	white
+2-naphthoate monooxygenase	4.4.1.23	FAD	2-Naphthoic acid	R06902	white
+2-naphthoate monooxygenase	4.4.1.23	FAD	FADH2	R06902	white
+2-naphthoate monooxygenase	4.4.1.23	FAD	Oxygen	R06902	white
+2-naphthoate monooxygenase	4.4.1.23	FADH2	1-Hydroxy-2-naphthoate	R06902	white
+2-naphthoate monooxygenase	4.4.1.23	FADH2	FAD	R06902	white
+2-naphthoate monooxygenase	4.4.1.23	FADH2	H2O	R06902	white
+2-naphthoate monooxygenase	4.4.1.23	H2O	2-Naphthoic acid	R06902	white
+2-naphthoate monooxygenase	4.4.1.23	H2O	FADH2	R06902	white
+2-naphthoate monooxygenase	4.4.1.23	H2O	Oxygen	R06902	white
+2-naphthoate monooxygenase	4.4.1.23	Oxygen	1-Hydroxy-2-naphthoate	R06902	white
+2-naphthoate monooxygenase	4.4.1.23	Oxygen	FAD	R06902	white
+2-naphthoate monooxygenase	4.4.1.23	Oxygen	H2O	R06902	white
+S-(hydroxymethyl)glutathione dehydrogenase / alcohol dehydrogenase	1.1.1.284	(2-Naphthyl)methanol	2-Naphthaldehyde	R06927	green
+S-(hydroxymethyl)glutathione dehydrogenase / alcohol dehydrogenase	1.1.1.284	(2-Naphthyl)methanol	H+	R06927	green
+S-(hydroxymethyl)glutathione dehydrogenase / alcohol dehydrogenase	1.1.1.284	(2-Naphthyl)methanol	NADH	R06927	green
+S-(hydroxymethyl)glutathione dehydrogenase / alcohol dehydrogenase	1.1.1.284	1-Hydroxymethylnaphthalene	1-Naphthaldehyde	R06917	green
+S-(hydroxymethyl)glutathione dehydrogenase / alcohol dehydrogenase	1.1.1.284	1-Hydroxymethylnaphthalene	H+	R06917	green
+S-(hydroxymethyl)glutathione dehydrogenase / alcohol dehydrogenase	1.1.1.284	1-Hydroxymethylnaphthalene	NADH	R06917	green
+S-(hydroxymethyl)glutathione dehydrogenase / alcohol dehydrogenase	1.1.1.284	NAD+	1-Naphthaldehyde	R06917	green
+S-(hydroxymethyl)glutathione dehydrogenase / alcohol dehydrogenase	1.1.1.284	NAD+	2-Naphthaldehyde	R06927	green
+S-(hydroxymethyl)glutathione dehydrogenase / alcohol dehydrogenase	1.1.1.284	NAD+	H+	R06917	green
+S-(hydroxymethyl)glutathione dehydrogenase / alcohol dehydrogenase	1.1.1.284	NAD+	H+	R06927	green
+S-(hydroxymethyl)glutathione dehydrogenase / alcohol dehydrogenase	1.1.1.284	NAD+	NADH	R06917	green
+S-(hydroxymethyl)glutathione dehydrogenase / alcohol dehydrogenase	1.1.1.284	NAD+	NADH	R06927	green
+alcohol dehydrogenase	1.1.1.1	(2-Naphthyl)methanol	2-Naphthaldehyde	R06927	green
+alcohol dehydrogenase	1.1.1.1	(2-Naphthyl)methanol	H+	R06927	green
+alcohol dehydrogenase	1.1.1.1	(2-Naphthyl)methanol	NADH	R06927	green
+alcohol dehydrogenase	1.1.1.1	1-Hydroxymethylnaphthalene	1-Naphthaldehyde	R06917	green
+alcohol dehydrogenase	1.1.1.1	1-Hydroxymethylnaphthalene	H+	R06917	green
+alcohol dehydrogenase	1.1.1.1	1-Hydroxymethylnaphthalene	NADH	R06917	green
+alcohol dehydrogenase	1.1.1.1	NAD+	1-Naphthaldehyde	R06917	green
+alcohol dehydrogenase	1.1.1.1	NAD+	2-Naphthaldehyde	R06927	green
+alcohol dehydrogenase	1.1.1.1	NAD+	H+	R06917	green
+alcohol dehydrogenase	1.1.1.1	NAD+	H+	R06927	green
+alcohol dehydrogenase	1.1.1.1	NAD+	NADH	R06917	green
+alcohol dehydrogenase	1.1.1.1	NAD+	NADH	R06927	green
+alcohol dehydrogenase, propanol-preferring	1.1.1.1	(2-Naphthyl)methanol	2-Naphthaldehyde	R06927	green
+alcohol dehydrogenase, propanol-preferring	1.1.1.1	(2-Naphthyl)methanol	H+	R06927	green
+alcohol dehydrogenase, propanol-preferring	1.1.1.1	(2-Naphthyl)methanol	NADH	R06927	green
+alcohol dehydrogenase, propanol-preferring	1.1.1.1	1-Hydroxymethylnaphthalene	1-Naphthaldehyde	R06917	green
+alcohol dehydrogenase, propanol-preferring	1.1.1.1	1-Hydroxymethylnaphthalene	H+	R06917	green
+alcohol dehydrogenase, propanol-preferring	1.1.1.1	1-Hydroxymethylnaphthalene	NADH	R06917	green
+alcohol dehydrogenase, propanol-preferring	1.1.1.1	NAD+	1-Naphthaldehyde	R06917	green
+alcohol dehydrogenase, propanol-preferring	1.1.1.1	NAD+	2-Naphthaldehyde	R06927	green
+alcohol dehydrogenase, propanol-preferring	1.1.1.1	NAD+	H+	R06917	green
+alcohol dehydrogenase, propanol-preferring	1.1.1.1	NAD+	H+	R06927	green
+alcohol dehydrogenase, propanol-preferring	1.1.1.1	NAD+	NADH	R06917	green
+alcohol dehydrogenase, propanol-preferring	1.1.1.1	NAD+	NADH	R06927	green
+cis-1,2-dihydro-1,2-dihydroxynaphthalene/dibenzothiophene dihydrodiol dehydrogenase	1.3.1.29	H+	NAD+	R04115	white
+cis-1,2-dihydro-1,2-dihydroxynaphthalene/dibenzothiophene dihydrodiol dehydrogenase	1.3.1.29	H+	cis-1,2-Dihydronaphthalene-1,2-diol	R04115	white
+cis-1,2-dihydro-1,2-dihydroxynaphthalene/dibenzothiophene dihydrodiol dehydrogenase	1.3.1.29	NAD+	H+	R04115	white
+cis-1,2-dihydro-1,2-dihydroxynaphthalene/dibenzothiophene dihydrodiol dehydrogenase	1.3.1.29	NAD+	NADH	R04115	white
+cis-1,2-dihydro-1,2-dihydroxynaphthalene/dibenzothiophene dihydrodiol dehydrogenase	1.3.1.29	NAD+	Naphthalene-1,2-diol	R04115	white
+cis-1,2-dihydro-1,2-dihydroxynaphthalene/dibenzothiophene dihydrodiol dehydrogenase	1.3.1.29	NADH	NAD+	R04115	white
+cis-1,2-dihydro-1,2-dihydroxynaphthalene/dibenzothiophene dihydrodiol dehydrogenase	1.3.1.29	NADH	cis-1,2-Dihydronaphthalene-1,2-diol	R04115	white
+cis-1,2-dihydro-1,2-dihydroxynaphthalene/dibenzothiophene dihydrodiol dehydrogenase	1.3.1.29	Naphthalene-1,2-diol	NAD+	R04115	white
+cis-1,2-dihydro-1,2-dihydroxynaphthalene/dibenzothiophene dihydrodiol dehydrogenase	1.3.1.29	Naphthalene-1,2-diol	cis-1,2-Dihydronaphthalene-1,2-diol	R04115	white
+cis-1,2-dihydro-1,2-dihydroxynaphthalene/dibenzothiophene dihydrodiol dehydrogenase	1.3.1.29	cis-1,2-Dihydronaphthalene-1,2-diol	H+	R04115	white
+cis-1,2-dihydro-1,2-dihydroxynaphthalene/dibenzothiophene dihydrodiol dehydrogenase	1.3.1.29	cis-1,2-Dihydronaphthalene-1,2-diol	NADH	R04115	white
+cis-1,2-dihydro-1,2-dihydroxynaphthalene/dibenzothiophene dihydrodiol dehydrogenase	1.3.1.29	cis-1,2-Dihydronaphthalene-1,2-diol	Naphthalene-1,2-diol	R04115	white
+naphthalene 1,2-dioxygenase ferredoxin component	1.14.12.12	H+	NAD+	R02968	white
+naphthalene 1,2-dioxygenase ferredoxin component	1.14.12.12	H+	cis-1,2-Dihydronaphthalene-1,2-diol	R02968	white
+naphthalene 1,2-dioxygenase ferredoxin component	1.14.12.12	NAD+	H+	R02968	white
+naphthalene 1,2-dioxygenase ferredoxin component	1.14.12.12	NAD+	NADH	R02968	white
+naphthalene 1,2-dioxygenase ferredoxin component	1.14.12.12	NAD+	Naphthalene	R02968	white
+naphthalene 1,2-dioxygenase ferredoxin component	1.14.12.12	NAD+	Oxygen	R02968	white
+naphthalene 1,2-dioxygenase ferredoxin component	1.14.12.12	NADH	NAD+	R02968	white
+naphthalene 1,2-dioxygenase ferredoxin component	1.14.12.12	NADH	cis-1,2-Dihydronaphthalene-1,2-diol	R02968	white
+naphthalene 1,2-dioxygenase ferredoxin component	1.14.12.12	Naphthalene	NAD+	R02968	white
+naphthalene 1,2-dioxygenase ferredoxin component	1.14.12.12	Naphthalene	cis-1,2-Dihydronaphthalene-1,2-diol	R02968	white
+naphthalene 1,2-dioxygenase ferredoxin component	1.14.12.12	Oxygen	NAD+	R02968	white
+naphthalene 1,2-dioxygenase ferredoxin component	1.14.12.12	Oxygen	cis-1,2-Dihydronaphthalene-1,2-diol	R02968	white
+naphthalene 1,2-dioxygenase ferredoxin component	1.14.12.12	cis-1,2-Dihydronaphthalene-1,2-diol	H+	R02968	white
+naphthalene 1,2-dioxygenase ferredoxin component	1.14.12.12	cis-1,2-Dihydronaphthalene-1,2-diol	NADH	R02968	white
+naphthalene 1,2-dioxygenase ferredoxin component	1.14.12.12	cis-1,2-Dihydronaphthalene-1,2-diol	Naphthalene	R02968	white
+naphthalene 1,2-dioxygenase ferredoxin component	1.14.12.12	cis-1,2-Dihydronaphthalene-1,2-diol	Oxygen	R02968	white
+naphthalene 1,2-dioxygenase ferredoxin reductase component	1.18.1.7	H+	NAD+	R02968	white
+naphthalene 1,2-dioxygenase ferredoxin reductase component	1.18.1.7	H+	cis-1,2-Dihydronaphthalene-1,2-diol	R02968	white
+naphthalene 1,2-dioxygenase ferredoxin reductase component	1.18.1.7	NAD+	H+	R02968	white
+naphthalene 1,2-dioxygenase ferredoxin reductase component	1.18.1.7	NAD+	NADH	R02968	white
+naphthalene 1,2-dioxygenase ferredoxin reductase component	1.18.1.7	NAD+	Naphthalene	R02968	white
+naphthalene 1,2-dioxygenase ferredoxin reductase component	1.18.1.7	NAD+	Oxygen	R02968	white
+naphthalene 1,2-dioxygenase ferredoxin reductase component	1.18.1.7	NADH	NAD+	R02968	white
+naphthalene 1,2-dioxygenase ferredoxin reductase component	1.18.1.7	NADH	cis-1,2-Dihydronaphthalene-1,2-diol	R02968	white
+naphthalene 1,2-dioxygenase ferredoxin reductase component	1.18.1.7	Naphthalene	NAD+	R02968	white
+naphthalene 1,2-dioxygenase ferredoxin reductase component	1.18.1.7	Naphthalene	cis-1,2-Dihydronaphthalene-1,2-diol	R02968	white
+naphthalene 1,2-dioxygenase ferredoxin reductase component	1.18.1.7	Oxygen	NAD+	R02968	white
+naphthalene 1,2-dioxygenase ferredoxin reductase component	1.18.1.7	Oxygen	cis-1,2-Dihydronaphthalene-1,2-diol	R02968	white
+naphthalene 1,2-dioxygenase ferredoxin reductase component	1.18.1.7	cis-1,2-Dihydronaphthalene-1,2-diol	H+	R02968	white
+naphthalene 1,2-dioxygenase ferredoxin reductase component	1.18.1.7	cis-1,2-Dihydronaphthalene-1,2-diol	NADH	R02968	white
+naphthalene 1,2-dioxygenase ferredoxin reductase component	1.18.1.7	cis-1,2-Dihydronaphthalene-1,2-diol	Naphthalene	R02968	white
+naphthalene 1,2-dioxygenase ferredoxin reductase component	1.18.1.7	cis-1,2-Dihydronaphthalene-1,2-diol	Oxygen	R02968	white
+naphthalene 1,2-dioxygenase subunit alpha	1.14.12.12	H+	NAD+	R02968	white
+naphthalene 1,2-dioxygenase subunit alpha	1.14.12.12	H+	cis-1,2-Dihydronaphthalene-1,2-diol	R02968	white
+naphthalene 1,2-dioxygenase subunit alpha	1.14.12.12	NAD+	H+	R02968	white
+naphthalene 1,2-dioxygenase subunit alpha	1.14.12.12	NAD+	NADH	R02968	white
+naphthalene 1,2-dioxygenase subunit alpha	1.14.12.12	NAD+	Naphthalene	R02968	white
+naphthalene 1,2-dioxygenase subunit alpha	1.14.12.12	NAD+	Oxygen	R02968	white
+naphthalene 1,2-dioxygenase subunit alpha	1.14.12.12	NADH	NAD+	R02968	white
+naphthalene 1,2-dioxygenase subunit alpha	1.14.12.12	NADH	cis-1,2-Dihydronaphthalene-1,2-diol	R02968	white
+naphthalene 1,2-dioxygenase subunit alpha	1.14.12.12	Naphthalene	NAD+	R02968	white
+naphthalene 1,2-dioxygenase subunit alpha	1.14.12.12	Naphthalene	cis-1,2-Dihydronaphthalene-1,2-diol	R02968	white
+naphthalene 1,2-dioxygenase subunit alpha	1.14.12.12	Oxygen	NAD+	R02968	white
+naphthalene 1,2-dioxygenase subunit alpha	1.14.12.12	Oxygen	cis-1,2-Dihydronaphthalene-1,2-diol	R02968	white
+naphthalene 1,2-dioxygenase subunit alpha	1.14.12.12	cis-1,2-Dihydronaphthalene-1,2-diol	H+	R02968	white
+naphthalene 1,2-dioxygenase subunit alpha	1.14.12.12	cis-1,2-Dihydronaphthalene-1,2-diol	NADH	R02968	white
+naphthalene 1,2-dioxygenase subunit alpha	1.14.12.12	cis-1,2-Dihydronaphthalene-1,2-diol	Naphthalene	R02968	white
+naphthalene 1,2-dioxygenase subunit alpha	1.14.12.12	cis-1,2-Dihydronaphthalene-1,2-diol	Oxygen	R02968	white
+naphthalene 1,2-dioxygenase subunit beta	1.14.12.12	H+	NAD+	R02968	white
+naphthalene 1,2-dioxygenase subunit beta	1.14.12.12	H+	cis-1,2-Dihydronaphthalene-1,2-diol	R02968	white
+naphthalene 1,2-dioxygenase subunit beta	1.14.12.12	NAD+	H+	R02968	white
+naphthalene 1,2-dioxygenase subunit beta	1.14.12.12	NAD+	NADH	R02968	white
+naphthalene 1,2-dioxygenase subunit beta	1.14.12.12	NAD+	Naphthalene	R02968	white
+naphthalene 1,2-dioxygenase subunit beta	1.14.12.12	NAD+	Oxygen	R02968	white
+naphthalene 1,2-dioxygenase subunit beta	1.14.12.12	NADH	NAD+	R02968	white
+naphthalene 1,2-dioxygenase subunit beta	1.14.12.12	NADH	cis-1,2-Dihydronaphthalene-1,2-diol	R02968	white
+naphthalene 1,2-dioxygenase subunit beta	1.14.12.12	Naphthalene	NAD+	R02968	white
+naphthalene 1,2-dioxygenase subunit beta	1.14.12.12	Naphthalene	cis-1,2-Dihydronaphthalene-1,2-diol	R02968	white
+naphthalene 1,2-dioxygenase subunit beta	1.14.12.12	Oxygen	NAD+	R02968	white
+naphthalene 1,2-dioxygenase subunit beta	1.14.12.12	Oxygen	cis-1,2-Dihydronaphthalene-1,2-diol	R02968	white
+naphthalene 1,2-dioxygenase subunit beta	1.14.12.12	cis-1,2-Dihydronaphthalene-1,2-diol	H+	R02968	white
+naphthalene 1,2-dioxygenase subunit beta	1.14.12.12	cis-1,2-Dihydronaphthalene-1,2-diol	NADH	R02968	white
+naphthalene 1,2-dioxygenase subunit beta	1.14.12.12	cis-1,2-Dihydronaphthalene-1,2-diol	Naphthalene	R02968	white
+naphthalene 1,2-dioxygenase subunit beta	1.14.12.12	cis-1,2-Dihydronaphthalene-1,2-diol	Oxygen	R02968	white
+naphthyl-2-hydroxymethylsuccinyl-CoA dehydrogenase BnsC subunit	1.1.-.-	H+	Naphthyl-2-hydroxymethyl-succinyl CoA	R06907	white
+naphthyl-2-hydroxymethylsuccinyl-CoA dehydrogenase BnsC subunit	1.1.-.-	Naphthyl-2-hydroxymethyl-succinyl CoA	H+	R06907	white
+naphthyl-2-hydroxymethylsuccinyl-CoA dehydrogenase BnsC subunit	1.1.-.-	Naphthyl-2-hydroxymethyl-succinyl CoA	Naphthyl-2-oxomethyl-succinyl-CoA	R06907	white
+naphthyl-2-hydroxymethylsuccinyl-CoA dehydrogenase BnsC subunit	1.1.-.-	Naphthyl-2-oxomethyl-succinyl-CoA	Naphthyl-2-hydroxymethyl-succinyl CoA	R06907	white
+naphthyl-2-hydroxymethylsuccinyl-CoA dehydrogenase BnsD subunit	1.1.-.-	H+	Naphthyl-2-hydroxymethyl-succinyl CoA	R06907	white
+naphthyl-2-hydroxymethylsuccinyl-CoA dehydrogenase BnsD subunit	1.1.-.-	Naphthyl-2-hydroxymethyl-succinyl CoA	H+	R06907	white
+naphthyl-2-hydroxymethylsuccinyl-CoA dehydrogenase BnsD subunit	1.1.-.-	Naphthyl-2-hydroxymethyl-succinyl CoA	Naphthyl-2-oxomethyl-succinyl-CoA	R06907	white
+naphthyl-2-hydroxymethylsuccinyl-CoA dehydrogenase BnsD subunit	1.1.-.-	Naphthyl-2-oxomethyl-succinyl-CoA	Naphthyl-2-hydroxymethyl-succinyl CoA	R06907	white
+naphthyl-2-hydroxymethylsuccinyl-CoA hydratase	4.2.1.-	H2O	Naphthyl-2-hydroxymethyl-succinyl CoA	R06906	white
+naphthyl-2-hydroxymethylsuccinyl-CoA hydratase	4.2.1.-	Naphthyl-2-hydroxymethyl-succinyl CoA	H2O	R06906	white
+naphthyl-2-hydroxymethylsuccinyl-CoA hydratase	4.2.1.-	Naphthyl-2-hydroxymethyl-succinyl CoA	Naphthyl-2-methylene-succinyl-CoA	R06906	white
+naphthyl-2-hydroxymethylsuccinyl-CoA hydratase	4.2.1.-	Naphthyl-2-methylene-succinyl-CoA	Naphthyl-2-hydroxymethyl-succinyl CoA	R06906	white
+naphthyl-2-methylsuccinate CoA transferase subunit	2.8.3.-	2-Naphtylmethylsuccinic acid	Naphthyl-2-methyl-succinyl-CoA	R06904	white
+naphthyl-2-methylsuccinate CoA transferase subunit	2.8.3.-	2-Naphtylmethylsuccinic acid	Succinate	R06904	white
+naphthyl-2-methylsuccinate CoA transferase subunit	2.8.3.-	Naphthyl-2-methyl-succinyl-CoA	2-Naphtylmethylsuccinic acid	R06904	white
+naphthyl-2-methylsuccinate CoA transferase subunit	2.8.3.-	Naphthyl-2-methyl-succinyl-CoA	Succinyl-CoA	R06904	white
+naphthyl-2-methylsuccinate CoA transferase subunit	2.8.3.-	Succinate	2-Naphtylmethylsuccinic acid	R06904	white
+naphthyl-2-methylsuccinate CoA transferase subunit	2.8.3.-	Succinate	Succinyl-CoA	R06904	white
+naphthyl-2-methylsuccinate CoA transferase subunit	2.8.3.-	Succinyl-CoA	Naphthyl-2-methyl-succinyl-CoA	R06904	white
+naphthyl-2-methylsuccinate CoA transferase subunit	2.8.3.-	Succinyl-CoA	Succinate	R06904	white
+naphthyl-2-methylsuccinate synthase alpha subunit	4.1.99.-	2-Methylnaphthalene	2-Naphtylmethylsuccinic acid	R06903	white
+naphthyl-2-methylsuccinate synthase alpha subunit	4.1.99.-	2-Naphtylmethylsuccinic acid	2-Methylnaphthalene	R06903	white
+naphthyl-2-methylsuccinate synthase alpha subunit	4.1.99.-	2-Naphtylmethylsuccinic acid	Fumarate	R06903	white
+naphthyl-2-methylsuccinate synthase alpha subunit	4.1.99.-	Fumarate	2-Naphtylmethylsuccinic acid	R06903	white
+naphthyl-2-methylsuccinate synthase beta subunit	4.1.99.-	2-Methylnaphthalene	2-Naphtylmethylsuccinic acid	R06903	white
+naphthyl-2-methylsuccinate synthase beta subunit	4.1.99.-	2-Naphtylmethylsuccinic acid	2-Methylnaphthalene	R06903	white
+naphthyl-2-methylsuccinate synthase beta subunit	4.1.99.-	2-Naphtylmethylsuccinic acid	Fumarate	R06903	white
+naphthyl-2-methylsuccinate synthase beta subunit	4.1.99.-	Fumarate	2-Naphtylmethylsuccinic acid	R06903	white
+naphthyl-2-methylsuccinate synthase gamma subunit	4.1.99.-	2-Methylnaphthalene	2-Naphtylmethylsuccinic acid	R06903	white
+naphthyl-2-methylsuccinate synthase gamma subunit	4.1.99.-	2-Naphtylmethylsuccinic acid	2-Methylnaphthalene	R06903	white
+naphthyl-2-methylsuccinate synthase gamma subunit	4.1.99.-	2-Naphtylmethylsuccinic acid	Fumarate	R06903	white
+naphthyl-2-methylsuccinate synthase gamma subunit	4.1.99.-	Fumarate	2-Naphtylmethylsuccinic acid	R06903	white
+naphthyl-2-methylsuccinyl-CoA dehydrogenase	1.3.99.-	H+	Naphthyl-2-methyl-succinyl-CoA	R06905	white
+naphthyl-2-methylsuccinyl-CoA dehydrogenase	1.3.99.-	Naphthyl-2-methyl-succinyl-CoA	H+	R06905	white
+naphthyl-2-methylsuccinyl-CoA dehydrogenase	1.3.99.-	Naphthyl-2-methyl-succinyl-CoA	Naphthyl-2-methylene-succinyl-CoA	R06905	white
+naphthyl-2-methylsuccinyl-CoA dehydrogenase	1.3.99.-	Naphthyl-2-methylene-succinyl-CoA	Naphthyl-2-methyl-succinyl-CoA	R06905	white
+naphthyl-2-oxomethyl-succinyl-CoA thiolase subunit	2.3.1.-	2-Naphthoyl-CoA	CoA	R06908	white
+naphthyl-2-oxomethyl-succinyl-CoA thiolase subunit	2.3.1.-	2-Naphthoyl-CoA	Naphthyl-2-oxomethyl-succinyl-CoA	R06908	white
+naphthyl-2-oxomethyl-succinyl-CoA thiolase subunit	2.3.1.-	CoA	2-Naphthoyl-CoA	R06908	white
+naphthyl-2-oxomethyl-succinyl-CoA thiolase subunit	2.3.1.-	CoA	Succinyl-CoA	R06908	white
+naphthyl-2-oxomethyl-succinyl-CoA thiolase subunit	2.3.1.-	Naphthyl-2-oxomethyl-succinyl-CoA	2-Naphthoyl-CoA	R06908	white
+naphthyl-2-oxomethyl-succinyl-CoA thiolase subunit	2.3.1.-	Naphthyl-2-oxomethyl-succinyl-CoA	Succinyl-CoA	R06908	white
+naphthyl-2-oxomethyl-succinyl-CoA thiolase subunit	2.3.1.-	Succinyl-CoA	CoA	R06908	white
+naphthyl-2-oxomethyl-succinyl-CoA thiolase subunit	2.3.1.-	Succinyl-CoA	Naphthyl-2-oxomethyl-succinyl-CoA	R06908	white
+salicylaldehyde dehydrogenase	1.2.1.65	H+	H2O	R02941	white
+salicylaldehyde dehydrogenase	1.2.1.65	H+	NAD+	R02941	white
+salicylaldehyde dehydrogenase	1.2.1.65	H+	Salicylaldehyde	R02941	white
+salicylaldehyde dehydrogenase	1.2.1.65	H2O	H+	R02941	white
+salicylaldehyde dehydrogenase	1.2.1.65	H2O	NADH	R02941	white
+salicylaldehyde dehydrogenase	1.2.1.65	H2O	Salicylate	R02941	white
+salicylaldehyde dehydrogenase	1.2.1.65	NAD+	H+	R02941	white
+salicylaldehyde dehydrogenase	1.2.1.65	NAD+	NADH	R02941	white
+salicylaldehyde dehydrogenase	1.2.1.65	NAD+	Salicylate	R02941	white
+salicylaldehyde dehydrogenase	1.2.1.65	NADH	H2O	R02941	white
+salicylaldehyde dehydrogenase	1.2.1.65	NADH	NAD+	R02941	white
+salicylaldehyde dehydrogenase	1.2.1.65	NADH	Salicylaldehyde	R02941	white
+salicylaldehyde dehydrogenase	1.2.1.65	Salicylaldehyde	H+	R02941	white
+salicylaldehyde dehydrogenase	1.2.1.65	Salicylaldehyde	NADH	R02941	white
+salicylaldehyde dehydrogenase	1.2.1.65	Salicylaldehyde	Salicylate	R02941	white
+salicylaldehyde dehydrogenase	1.2.1.65	Salicylate	H2O	R02941	white
+salicylaldehyde dehydrogenase	1.2.1.65	Salicylate	NAD+	R02941	white
+salicylaldehyde dehydrogenase	1.2.1.65	Salicylate	Salicylaldehyde	R02941	white
+salicylate 5-hydroxylase large subunit	1.14.13.172	2,5-Dihydroxybenzoate	H+	R07709	white
+salicylate 5-hydroxylase large subunit	1.14.13.172	2,5-Dihydroxybenzoate	NADH	R07709	white
+salicylate 5-hydroxylase large subunit	1.14.13.172	2,5-Dihydroxybenzoate	Oxygen	R07709	white
+salicylate 5-hydroxylase large subunit	1.14.13.172	2,5-Dihydroxybenzoate	Salicylate	R07709	white
+salicylate 5-hydroxylase large subunit	1.14.13.172	H+	2,5-Dihydroxybenzoate	R07709	white
+salicylate 5-hydroxylase large subunit	1.14.13.172	H+	H2O	R07709	white
+salicylate 5-hydroxylase large subunit	1.14.13.172	H+	NAD+	R07709	white
+salicylate 5-hydroxylase large subunit	1.14.13.172	H2O	H+	R07709	white
+salicylate 5-hydroxylase large subunit	1.14.13.172	H2O	NADH	R07709	white
+salicylate 5-hydroxylase large subunit	1.14.13.172	H2O	Oxygen	R07709	white
+salicylate 5-hydroxylase large subunit	1.14.13.172	H2O	Salicylate	R07709	white
+salicylate 5-hydroxylase large subunit	1.14.13.172	NAD+	H+	R07709	white
+salicylate 5-hydroxylase large subunit	1.14.13.172	NAD+	NADH	R07709	white
+salicylate 5-hydroxylase large subunit	1.14.13.172	NAD+	Oxygen	R07709	white
+salicylate 5-hydroxylase large subunit	1.14.13.172	NAD+	Salicylate	R07709	white
+salicylate 5-hydroxylase large subunit	1.14.13.172	NADH	2,5-Dihydroxybenzoate	R07709	white
+salicylate 5-hydroxylase large subunit	1.14.13.172	NADH	H2O	R07709	white
+salicylate 5-hydroxylase large subunit	1.14.13.172	NADH	NAD+	R07709	white
+salicylate 5-hydroxylase large subunit	1.14.13.172	Oxygen	2,5-Dihydroxybenzoate	R07709	white
+salicylate 5-hydroxylase large subunit	1.14.13.172	Oxygen	H2O	R07709	white
+salicylate 5-hydroxylase large subunit	1.14.13.172	Oxygen	NAD+	R07709	white
+salicylate 5-hydroxylase large subunit	1.14.13.172	Salicylate	2,5-Dihydroxybenzoate	R07709	white
+salicylate 5-hydroxylase large subunit	1.14.13.172	Salicylate	H2O	R07709	white
+salicylate 5-hydroxylase large subunit	1.14.13.172	Salicylate	NAD+	R07709	white
+salicylate 5-hydroxylase small subunit	1.14.13.172	2,5-Dihydroxybenzoate	H+	R07709	white
+salicylate 5-hydroxylase small subunit	1.14.13.172	2,5-Dihydroxybenzoate	NADH	R07709	white
+salicylate 5-hydroxylase small subunit	1.14.13.172	2,5-Dihydroxybenzoate	Oxygen	R07709	white
+salicylate 5-hydroxylase small subunit	1.14.13.172	2,5-Dihydroxybenzoate	Salicylate	R07709	white
+salicylate 5-hydroxylase small subunit	1.14.13.172	H+	2,5-Dihydroxybenzoate	R07709	white
+salicylate 5-hydroxylase small subunit	1.14.13.172	H+	H2O	R07709	white
+salicylate 5-hydroxylase small subunit	1.14.13.172	H+	NAD+	R07709	white
+salicylate 5-hydroxylase small subunit	1.14.13.172	H2O	H+	R07709	white
+salicylate 5-hydroxylase small subunit	1.14.13.172	H2O	NADH	R07709	white
+salicylate 5-hydroxylase small subunit	1.14.13.172	H2O	Oxygen	R07709	white
+salicylate 5-hydroxylase small subunit	1.14.13.172	H2O	Salicylate	R07709	white
+salicylate 5-hydroxylase small subunit	1.14.13.172	NAD+	H+	R07709	white
+salicylate 5-hydroxylase small subunit	1.14.13.172	NAD+	NADH	R07709	white
+salicylate 5-hydroxylase small subunit	1.14.13.172	NAD+	Oxygen	R07709	white
+salicylate 5-hydroxylase small subunit	1.14.13.172	NAD+	Salicylate	R07709	white
+salicylate 5-hydroxylase small subunit	1.14.13.172	NADH	2,5-Dihydroxybenzoate	R07709	white
+salicylate 5-hydroxylase small subunit	1.14.13.172	NADH	H2O	R07709	white
+salicylate 5-hydroxylase small subunit	1.14.13.172	NADH	NAD+	R07709	white
+salicylate 5-hydroxylase small subunit	1.14.13.172	Oxygen	2,5-Dihydroxybenzoate	R07709	white
+salicylate 5-hydroxylase small subunit	1.14.13.172	Oxygen	H2O	R07709	white
+salicylate 5-hydroxylase small subunit	1.14.13.172	Oxygen	NAD+	R07709	white
+salicylate 5-hydroxylase small subunit	1.14.13.172	Salicylate	2,5-Dihydroxybenzoate	R07709	white
+salicylate 5-hydroxylase small subunit	1.14.13.172	Salicylate	H2O	R07709	white
+salicylate 5-hydroxylase small subunit	1.14.13.172	Salicylate	NAD+	R07709	white
+salicylate hydroxylase	1.14.13.1	CO2	H+	R00818	white
+salicylate hydroxylase	1.14.13.1	CO2	NADH	R00818	white
+salicylate hydroxylase	1.14.13.1	CO2	Oxygen	R00818	white
+salicylate hydroxylase	1.14.13.1	CO2	Salicylate	R00818	white
+salicylate hydroxylase	1.14.13.1	Catechol	H+	R00818	white
+salicylate hydroxylase	1.14.13.1	Catechol	NADH	R00818	white
+salicylate hydroxylase	1.14.13.1	Catechol	Oxygen	R00818	white
+salicylate hydroxylase	1.14.13.1	Catechol	Salicylate	R00818	white
+salicylate hydroxylase	1.14.13.1	H+	CO2	R00818	white
+salicylate hydroxylase	1.14.13.1	H+	Catechol	R00818	white
+salicylate hydroxylase	1.14.13.1	H+	H2O	R00818	white
+salicylate hydroxylase	1.14.13.1	H+	NAD+	R00818	white
+salicylate hydroxylase	1.14.13.1	H2O	H+	R00818	white
+salicylate hydroxylase	1.14.13.1	H2O	NADH	R00818	white
+salicylate hydroxylase	1.14.13.1	H2O	Oxygen	R00818	white
+salicylate hydroxylase	1.14.13.1	H2O	Salicylate	R00818	white
+salicylate hydroxylase	1.14.13.1	NAD+	H+	R00818	white
+salicylate hydroxylase	1.14.13.1	NAD+	NADH	R00818	white
+salicylate hydroxylase	1.14.13.1	NAD+	Oxygen	R00818	white
+salicylate hydroxylase	1.14.13.1	NAD+	Salicylate	R00818	white
+salicylate hydroxylase	1.14.13.1	NADH	CO2	R00818	white
+salicylate hydroxylase	1.14.13.1	NADH	Catechol	R00818	white
+salicylate hydroxylase	1.14.13.1	NADH	H2O	R00818	white
+salicylate hydroxylase	1.14.13.1	NADH	NAD+	R00818	white
+salicylate hydroxylase	1.14.13.1	Oxygen	CO2	R00818	white
+salicylate hydroxylase	1.14.13.1	Oxygen	Catechol	R00818	white
+salicylate hydroxylase	1.14.13.1	Oxygen	H2O	R00818	white
+salicylate hydroxylase	1.14.13.1	Oxygen	NAD+	R00818	white
+salicylate hydroxylase	1.14.13.1	Salicylate	CO2	R00818	white
+salicylate hydroxylase	1.14.13.1	Salicylate	Catechol	R00818	white
+salicylate hydroxylase	1.14.13.1	Salicylate	H2O	R00818	white
+salicylate hydroxylase	1.14.13.1	Salicylate	NAD+	R00818	white
+trans-o-hydroxybenzylidenepyruvate hydratase-aldolase	4.1.2.45	H2O	Pyruvate	R05136	white
+trans-o-hydroxybenzylidenepyruvate hydratase-aldolase	4.1.2.45	H2O	Salicylaldehyde	R05136	white
+trans-o-hydroxybenzylidenepyruvate hydratase-aldolase	4.1.2.45	Pyruvate	H2O	R05136	white
+trans-o-hydroxybenzylidenepyruvate hydratase-aldolase	4.1.2.45	Pyruvate	trans-o-Hydroxybenzylidenepyruvate	R05136	white
+trans-o-hydroxybenzylidenepyruvate hydratase-aldolase	4.1.2.45	Salicylaldehyde	H2O	R05136	white
+trans-o-hydroxybenzylidenepyruvate hydratase-aldolase	4.1.2.45	Salicylaldehyde	trans-o-Hydroxybenzylidenepyruvate	R05136	white
+trans-o-hydroxybenzylidenepyruvate hydratase-aldolase	4.1.2.45	trans-o-Hydroxybenzylidenepyruvate	Pyruvate	R05136	white
+trans-o-hydroxybenzylidenepyruvate hydratase-aldolase	4.1.2.45	trans-o-Hydroxybenzylidenepyruvate	Salicylaldehyde	R05136	white

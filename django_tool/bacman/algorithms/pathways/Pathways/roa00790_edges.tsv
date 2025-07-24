@@ -1,554 +1,589 @@
-enzyme_name	EC	source	target	color
-2,5-diamino-6-(5-phospho-D-ribosylamino)pyrimidin-4(3H)-one isomerase/dehydratase	4.2.1.160	2,5-Diamino-6-(5-phospho-D-ribosylamino)pyrimidin-4(3H)-one	Dihydroneopterin phosphate	white
-2,5-diamino-6-(5-phospho-D-ribosylamino)pyrimidin-4(3H)-one isomerase/dehydratase	4.2.1.160	2,5-Diamino-6-(5-phospho-D-ribosylamino)pyrimidin-4(3H)-one	H2O	white
-2,5-diamino-6-(5-phospho-D-ribosylamino)pyrimidin-4(3H)-one isomerase/dehydratase	4.2.1.160	Dihydroneopterin phosphate	2,5-Diamino-6-(5-phospho-D-ribosylamino)pyrimidin-4(3H)-one	white
-2,5-diamino-6-(5-phospho-D-ribosylamino)pyrimidin-4(3H)-one isomerase/dehydratase	4.2.1.160	H2O	2,5-Diamino-6-(5-phospho-D-ribosylamino)pyrimidin-4(3H)-one	white
-2-amino-4-hydroxy-6-hydroxymethyldihydropteridine diphosphokinase	2.7.6.3	6-(Hydroxymethyl)-7,8-dihydropterin	6-Hydroxymethyl-7,8-dihydropterin diphosphate	green
-2-amino-4-hydroxy-6-hydroxymethyldihydropteridine diphosphokinase	2.7.6.3	6-(Hydroxymethyl)-7,8-dihydropterin	AMP	green
-2-amino-4-hydroxy-6-hydroxymethyldihydropteridine diphosphokinase	2.7.6.3	ATP	6-Hydroxymethyl-7,8-dihydropterin diphosphate	green
-2-amino-4-hydroxy-6-hydroxymethyldihydropteridine diphosphokinase	2.7.6.3	ATP	AMP	green
-3,4-dihydroxy 2-butanone 4-phosphate synthase / GTP cyclohydrolase II	4.1.99.12	GTP	2,5-Diamino-6-(5-phospho-D-ribosylamino)pyrimidin-4(3H)-one	green
-3,4-dihydroxy 2-butanone 4-phosphate synthase / GTP cyclohydrolase II	4.1.99.12	GTP	Formate	green
-3,4-dihydroxy 2-butanone 4-phosphate synthase / GTP cyclohydrolase II	4.1.99.12	GTP	Orthophosphate	green
-3,4-dihydroxy 2-butanone 4-phosphate synthase / GTP cyclohydrolase II	4.1.99.12	H2O	2,5-Diamino-6-(5-phospho-D-ribosylamino)pyrimidin-4(3H)-one	green
-3,4-dihydroxy 2-butanone 4-phosphate synthase / GTP cyclohydrolase II	4.1.99.12	H2O	Formate	green
-3,4-dihydroxy 2-butanone 4-phosphate synthase / GTP cyclohydrolase II	4.1.99.12	H2O	Orthophosphate	green
-4-amino-4-deoxychorismate lyase	4.1.3.38	4-Amino-4-deoxychorismate	4-Aminobenzoate	green
-4-amino-4-deoxychorismate lyase	4.1.3.38	4-Amino-4-deoxychorismate	Pyruvate	green
-4-amino-4-deoxychorismate synthase (2-amino-4-deoxychorismate-forming) component I	2.6.1.123	4-Amino-4-deoxychorismate	Chorismate	white
-4-amino-4-deoxychorismate synthase (2-amino-4-deoxychorismate-forming) component I	2.6.1.123	4-Amino-4-deoxychorismate	H2O	white
-4-amino-4-deoxychorismate synthase (2-amino-4-deoxychorismate-forming) component I	2.6.1.123	4-Amino-4-deoxychorismate	L-Glutamine	white
-4-amino-4-deoxychorismate synthase (2-amino-4-deoxychorismate-forming) component I	2.6.1.123	Ammonia	Chorismate	white
-4-amino-4-deoxychorismate synthase (2-amino-4-deoxychorismate-forming) component I	2.6.1.123	Ammonia	H2O	white
-4-amino-4-deoxychorismate synthase (2-amino-4-deoxychorismate-forming) component I	2.6.1.123	Ammonia	L-Glutamine	white
-4-amino-4-deoxychorismate synthase (2-amino-4-deoxychorismate-forming) component I	2.6.1.123	Chorismate	4-Amino-4-deoxychorismate	white
-4-amino-4-deoxychorismate synthase (2-amino-4-deoxychorismate-forming) component I	2.6.1.123	Chorismate	Ammonia	white
-4-amino-4-deoxychorismate synthase (2-amino-4-deoxychorismate-forming) component I	2.6.1.123	Chorismate	L-Glutamate	white
-4-amino-4-deoxychorismate synthase (2-amino-4-deoxychorismate-forming) component I	2.6.1.123	H2O	4-Amino-4-deoxychorismate	white
-4-amino-4-deoxychorismate synthase (2-amino-4-deoxychorismate-forming) component I	2.6.1.123	H2O	Ammonia	white
-4-amino-4-deoxychorismate synthase (2-amino-4-deoxychorismate-forming) component I	2.6.1.123	H2O	L-Glutamate	white
-4-amino-4-deoxychorismate synthase (2-amino-4-deoxychorismate-forming) component I	2.6.1.123	L-Glutamate	Chorismate	white
-4-amino-4-deoxychorismate synthase (2-amino-4-deoxychorismate-forming) component I	2.6.1.123	L-Glutamate	H2O	white
-4-amino-4-deoxychorismate synthase (2-amino-4-deoxychorismate-forming) component I	2.6.1.123	L-Glutamate	L-Glutamine	white
-4-amino-4-deoxychorismate synthase (2-amino-4-deoxychorismate-forming) component I	2.6.1.123	L-Glutamine	4-Amino-4-deoxychorismate	white
-4-amino-4-deoxychorismate synthase (2-amino-4-deoxychorismate-forming) component I	2.6.1.123	L-Glutamine	Ammonia	white
-4-amino-4-deoxychorismate synthase (2-amino-4-deoxychorismate-forming) component I	2.6.1.123	L-Glutamine	L-Glutamate	white
-4-amino-4-deoxychorismate synthase (2-amino-4-deoxychorismate-forming) component II	2.6.1.123	4-Amino-4-deoxychorismate	Chorismate	white
-4-amino-4-deoxychorismate synthase (2-amino-4-deoxychorismate-forming) component II	2.6.1.123	4-Amino-4-deoxychorismate	H2O	white
-4-amino-4-deoxychorismate synthase (2-amino-4-deoxychorismate-forming) component II	2.6.1.123	4-Amino-4-deoxychorismate	L-Glutamine	white
-4-amino-4-deoxychorismate synthase (2-amino-4-deoxychorismate-forming) component II	2.6.1.123	Ammonia	Chorismate	white
-4-amino-4-deoxychorismate synthase (2-amino-4-deoxychorismate-forming) component II	2.6.1.123	Ammonia	H2O	white
-4-amino-4-deoxychorismate synthase (2-amino-4-deoxychorismate-forming) component II	2.6.1.123	Ammonia	L-Glutamine	white
-4-amino-4-deoxychorismate synthase (2-amino-4-deoxychorismate-forming) component II	2.6.1.123	Chorismate	4-Amino-4-deoxychorismate	white
-4-amino-4-deoxychorismate synthase (2-amino-4-deoxychorismate-forming) component II	2.6.1.123	Chorismate	Ammonia	white
-4-amino-4-deoxychorismate synthase (2-amino-4-deoxychorismate-forming) component II	2.6.1.123	Chorismate	L-Glutamate	white
-4-amino-4-deoxychorismate synthase (2-amino-4-deoxychorismate-forming) component II	2.6.1.123	H2O	4-Amino-4-deoxychorismate	white
-4-amino-4-deoxychorismate synthase (2-amino-4-deoxychorismate-forming) component II	2.6.1.123	H2O	Ammonia	white
-4-amino-4-deoxychorismate synthase (2-amino-4-deoxychorismate-forming) component II	2.6.1.123	H2O	L-Glutamate	white
-4-amino-4-deoxychorismate synthase (2-amino-4-deoxychorismate-forming) component II	2.6.1.123	L-Glutamate	Chorismate	white
-4-amino-4-deoxychorismate synthase (2-amino-4-deoxychorismate-forming) component II	2.6.1.123	L-Glutamate	H2O	white
-4-amino-4-deoxychorismate synthase (2-amino-4-deoxychorismate-forming) component II	2.6.1.123	L-Glutamate	L-Glutamine	white
-4-amino-4-deoxychorismate synthase (2-amino-4-deoxychorismate-forming) component II	2.6.1.123	L-Glutamine	4-Amino-4-deoxychorismate	white
-4-amino-4-deoxychorismate synthase (2-amino-4-deoxychorismate-forming) component II	2.6.1.123	L-Glutamine	Ammonia	white
-4-amino-4-deoxychorismate synthase (2-amino-4-deoxychorismate-forming) component II	2.6.1.123	L-Glutamine	L-Glutamate	white
-4a-hydroxytetrahydrobiopterin dehydratase	4.2.1.96	4a-Hydroxytetrahydrobiopterin	Dihydrobiopterin	white
-4a-hydroxytetrahydrobiopterin dehydratase	4.2.1.96	4a-Hydroxytetrahydrobiopterin	H2O	white
-4a-hydroxytetrahydrobiopterin dehydratase	4.2.1.96	Dihydrobiopterin	4a-Hydroxytetrahydrobiopterin	white
-4a-hydroxytetrahydrobiopterin dehydratase	4.2.1.96	H2O	4a-Hydroxytetrahydrobiopterin	white
-6-pyruvoyltetrahydropterin/6-carboxytetrahydropterin synthase	4.2.3.12	6-Pyruvoyltetrahydropterin	7,8-Dihydroneopterin 3'-triphosphate	white
-6-pyruvoyltetrahydropterin/6-carboxytetrahydropterin synthase	4.2.3.12	7,8-Dihydroneopterin 3'-triphosphate	6-Pyruvoyltetrahydropterin	white
-6-pyruvoyltetrahydropterin/6-carboxytetrahydropterin synthase	4.2.3.12	7,8-Dihydroneopterin 3'-triphosphate	Triphosphate	white
-6-pyruvoyltetrahydropterin/6-carboxytetrahydropterin synthase	4.2.3.12	Triphosphate	7,8-Dihydroneopterin 3'-triphosphate	white
-7,8-dihydroneopterin 2',3'-cyclic phosphate phosphodiesterase	3.1.4.56	7,8-Dihydroneopterin 2',3'-cyclic phosphate	Dihydroneopterin phosphate	white
-7,8-dihydroneopterin 2',3'-cyclic phosphate phosphodiesterase	3.1.4.56	Dihydroneopterin phosphate	7,8-Dihydroneopterin 2',3'-cyclic phosphate	white
-7,8-dihydroneopterin 2',3'-cyclic phosphate phosphodiesterase	3.1.4.56	Dihydroneopterin phosphate	H2O	white
-7,8-dihydroneopterin 2',3'-cyclic phosphate phosphodiesterase	3.1.4.56	H2O	Dihydroneopterin phosphate	white
-7,8-dihydroneopterin aldolase/epimerase/oxygenase	4.1.2.25	7,8-Dihydromonapterin	7,8-Dihydroneopterin	green
-7,8-dihydroneopterin aldolase/epimerase/oxygenase	4.1.2.25	7,8-Dihydroneopterin	6-(Hydroxymethyl)-7,8-dihydropterin	green
-7,8-dihydroneopterin aldolase/epimerase/oxygenase	4.1.2.25	7,8-Dihydroneopterin	7,8-Dihydromonapterin	green
-7,8-dihydroneopterin aldolase/epimerase/oxygenase	4.1.2.25	7,8-Dihydroneopterin	7,8-Dihydroxanthopterin	green
-7,8-dihydroneopterin aldolase/epimerase/oxygenase	4.1.2.25	7,8-Dihydroneopterin	Formate	green
-7,8-dihydroneopterin aldolase/epimerase/oxygenase	4.1.2.25	7,8-Dihydroneopterin	Glycolaldehyde	green
-7,8-dihydroneopterin aldolase/epimerase/oxygenase	4.1.2.25	Oxygen	7,8-Dihydroxanthopterin	green
-7,8-dihydroneopterin aldolase/epimerase/oxygenase	4.1.2.25	Oxygen	Formate	green
-7,8-dihydroneopterin aldolase/epimerase/oxygenase	4.1.2.25	Oxygen	Glycolaldehyde	green
-7,8-dihydropterin-6-yl-methyl-4-(beta-D-ribofuranosyl)aminobenzene 5'-phosphate synthase	2.5.1.105	4-(beta-D-Ribofuranosyl)aniline 5'-phosphate	Diphosphate	white
-7,8-dihydropterin-6-yl-methyl-4-(beta-D-ribofuranosyl)aminobenzene 5'-phosphate synthase	2.5.1.105	4-(beta-D-Ribofuranosyl)aniline 5'-phosphate	N-[(7,8-Dihydropterin-6-yl)methyl]-4-(beta-D-ribofuranosyl)aniline 5'-phosphate	white
-7,8-dihydropterin-6-yl-methyl-4-(beta-D-ribofuranosyl)aminobenzene 5'-phosphate synthase	2.5.1.105	6-Hydroxymethyl-7,8-dihydropterin diphosphate	Diphosphate	white
-7,8-dihydropterin-6-yl-methyl-4-(beta-D-ribofuranosyl)aminobenzene 5'-phosphate synthase	2.5.1.105	6-Hydroxymethyl-7,8-dihydropterin diphosphate	N-[(7,8-Dihydropterin-6-yl)methyl]-4-(beta-D-ribofuranosyl)aniline 5'-phosphate	white
-7,8-dihydropterin-6-yl-methyl-4-(beta-D-ribofuranosyl)aminobenzene 5'-phosphate synthase	2.5.1.105	Diphosphate	4-(beta-D-Ribofuranosyl)aniline 5'-phosphate	white
-7,8-dihydropterin-6-yl-methyl-4-(beta-D-ribofuranosyl)aminobenzene 5'-phosphate synthase	2.5.1.105	Diphosphate	6-Hydroxymethyl-7,8-dihydropterin diphosphate	white
-7,8-dihydropterin-6-yl-methyl-4-(beta-D-ribofuranosyl)aminobenzene 5'-phosphate synthase	2.5.1.105	N-[(7,8-Dihydropterin-6-yl)methyl]-4-(beta-D-ribofuranosyl)aniline 5'-phosphate	4-(beta-D-Ribofuranosyl)aniline 5'-phosphate	white
-7,8-dihydropterin-6-yl-methyl-4-(beta-D-ribofuranosyl)aminobenzene 5'-phosphate synthase	2.5.1.105	N-[(7,8-Dihydropterin-6-yl)methyl]-4-(beta-D-ribofuranosyl)aniline 5'-phosphate	6-Hydroxymethyl-7,8-dihydropterin diphosphate	white
-7-carboxy-7-deazaguanine synthase	4.3.99.3	6-Carboxy-5,6,7,8-tetrahydropterin	7-Carboxy-7-carbaguanine	white
-7-carboxy-7-deazaguanine synthase	4.3.99.3	6-Carboxy-5,6,7,8-tetrahydropterin	Ammonia	white
-7-carboxy-7-deazaguanine synthase	4.3.99.3	7-Carboxy-7-carbaguanine	6-Carboxy-5,6,7,8-tetrahydropterin	white
-7-carboxy-7-deazaguanine synthase	4.3.99.3	Ammonia	6-Carboxy-5,6,7,8-tetrahydropterin	white
-7-cyano-7-deazaguanine reductase	1.7.1.13	7-Aminomethyl-7-carbaguanine	7-Cyano-7-carbaguanine	white
-7-cyano-7-deazaguanine reductase	1.7.1.13	7-Aminomethyl-7-carbaguanine	H+	white
-7-cyano-7-deazaguanine reductase	1.7.1.13	7-Aminomethyl-7-carbaguanine	NADPH	white
-7-cyano-7-deazaguanine reductase	1.7.1.13	7-Cyano-7-carbaguanine	7-Aminomethyl-7-carbaguanine	white
-7-cyano-7-deazaguanine reductase	1.7.1.13	7-Cyano-7-carbaguanine	NADP+	white
-7-cyano-7-deazaguanine reductase	1.7.1.13	H+	7-Aminomethyl-7-carbaguanine	white
-7-cyano-7-deazaguanine reductase	1.7.1.13	H+	NADP+	white
-7-cyano-7-deazaguanine reductase	1.7.1.13	NADP+	7-Cyano-7-carbaguanine	white
-7-cyano-7-deazaguanine reductase	1.7.1.13	NADP+	H+	white
-7-cyano-7-deazaguanine reductase	1.7.1.13	NADP+	NADPH	white
-7-cyano-7-deazaguanine reductase	1.7.1.13	NADPH	7-Aminomethyl-7-carbaguanine	white
-7-cyano-7-deazaguanine reductase	1.7.1.13	NADPH	NADP+	white
-7-cyano-7-deazaguanine synthase	6.3.4.20	7-Carboxy-7-carbaguanine	7-Cyano-7-carbaguanine	white
-7-cyano-7-deazaguanine synthase	6.3.4.20	7-Carboxy-7-carbaguanine	ADP	white
-7-cyano-7-deazaguanine synthase	6.3.4.20	7-Carboxy-7-carbaguanine	H2O	white
-7-cyano-7-deazaguanine synthase	6.3.4.20	7-Carboxy-7-carbaguanine	Orthophosphate	white
-7-cyano-7-deazaguanine synthase	6.3.4.20	7-Cyano-7-carbaguanine	7-Carboxy-7-carbaguanine	white
-7-cyano-7-deazaguanine synthase	6.3.4.20	7-Cyano-7-carbaguanine	ATP	white
-7-cyano-7-deazaguanine synthase	6.3.4.20	7-Cyano-7-carbaguanine	Ammonia	white
-7-cyano-7-deazaguanine synthase	6.3.4.20	ADP	7-Carboxy-7-carbaguanine	white
-7-cyano-7-deazaguanine synthase	6.3.4.20	ADP	ATP	white
-7-cyano-7-deazaguanine synthase	6.3.4.20	ADP	Ammonia	white
-7-cyano-7-deazaguanine synthase	6.3.4.20	ATP	7-Cyano-7-carbaguanine	white
-7-cyano-7-deazaguanine synthase	6.3.4.20	ATP	ADP	white
-7-cyano-7-deazaguanine synthase	6.3.4.20	ATP	H2O	white
-7-cyano-7-deazaguanine synthase	6.3.4.20	ATP	Orthophosphate	white
-7-cyano-7-deazaguanine synthase	6.3.4.20	Ammonia	7-Cyano-7-carbaguanine	white
-7-cyano-7-deazaguanine synthase	6.3.4.20	Ammonia	ADP	white
-7-cyano-7-deazaguanine synthase	6.3.4.20	Ammonia	H2O	white
-7-cyano-7-deazaguanine synthase	6.3.4.20	Ammonia	Orthophosphate	white
-7-cyano-7-deazaguanine synthase	6.3.4.20	H2O	7-Carboxy-7-carbaguanine	white
-7-cyano-7-deazaguanine synthase	6.3.4.20	H2O	ATP	white
-7-cyano-7-deazaguanine synthase	6.3.4.20	H2O	Ammonia	white
-7-cyano-7-deazaguanine synthase	6.3.4.20	Orthophosphate	7-Carboxy-7-carbaguanine	white
-7-cyano-7-deazaguanine synthase	6.3.4.20	Orthophosphate	ATP	white
-7-cyano-7-deazaguanine synthase	6.3.4.20	Orthophosphate	Ammonia	white
-D-erythro-7,8-dihydroneopterin triphosphate epimerase	5.1.99.7	7,8-Dihydromonapterin 3'-triphosphate	7,8-Dihydroneopterin 3'-triphosphate	white
-D-erythro-7,8-dihydroneopterin triphosphate epimerase	5.1.99.7	7,8-Dihydroneopterin 3'-triphosphate	7,8-Dihydromonapterin 3'-triphosphate	white
-GTP 3',8-cyclase	4.1.99.22	GTP	(8S)-3',8-Cyclo-7,8-dihydroguanosine 5'-triphosphate	green
-GTP 3',8-cyclase	4.1.99.22	GTP	5'-Deoxyadenosine	green
-GTP 3',8-cyclase	4.1.99.22	GTP	Acceptor	green
-GTP 3',8-cyclase	4.1.99.22	GTP	L-Methionine	green
-GTP 3',8-cyclase	4.1.99.22	Reduced acceptor	(8S)-3',8-Cyclo-7,8-dihydroguanosine 5'-triphosphate	green
-GTP 3',8-cyclase	4.1.99.22	Reduced acceptor	5'-Deoxyadenosine	green
-GTP 3',8-cyclase	4.1.99.22	Reduced acceptor	Acceptor	green
-GTP 3',8-cyclase	4.1.99.22	Reduced acceptor	L-Methionine	green
-GTP 3',8-cyclase	4.1.99.22	S-Adenosyl-L-methionine	(8S)-3',8-Cyclo-7,8-dihydroguanosine 5'-triphosphate	green
-GTP 3',8-cyclase	4.1.99.22	S-Adenosyl-L-methionine	5'-Deoxyadenosine	green
-GTP 3',8-cyclase	4.1.99.22	S-Adenosyl-L-methionine	Acceptor	green
-GTP 3',8-cyclase	4.1.99.22	S-Adenosyl-L-methionine	L-Methionine	green
-GTP cyclohydrolase IA	3.5.4.16	2,5-Diaminopyrimidine nucleoside triphosphate	2,5-Diamino-6-(5'-triphosphoryl-3',4'-trihydroxy-2'-oxopentyl)-amino-4-oxopyrimidine	green
-GTP cyclohydrolase IA	3.5.4.16	7,8-Dihydroneopterin 3'-triphosphate	2,5-Diamino-6-(5'-triphosphoryl-3',4'-trihydroxy-2'-oxopentyl)-amino-4-oxopyrimidine	green
-GTP cyclohydrolase IA	3.5.4.16	Formamidopyrimidine nucleoside triphosphate	2,5-Diaminopyrimidine nucleoside triphosphate	green
-GTP cyclohydrolase IA	3.5.4.16	Formamidopyrimidine nucleoside triphosphate	Formate	green
-GTP cyclohydrolase IA	3.5.4.16	GTP	Formamidopyrimidine nucleoside triphosphate	green
-GTP cyclohydrolase IA	3.5.4.16	H2O	2,5-Diamino-6-(5'-triphosphoryl-3',4'-trihydroxy-2'-oxopentyl)-amino-4-oxopyrimidine	green
-GTP cyclohydrolase IA	3.5.4.16	H2O	2,5-Diaminopyrimidine nucleoside triphosphate	green
-GTP cyclohydrolase IA	3.5.4.16	H2O	Formamidopyrimidine nucleoside triphosphate	green
-GTP cyclohydrolase IA	3.5.4.16	H2O	Formate	green
-GTP cyclohydrolase IV	3.5.4.39	7,8-Dihydroneopterin 2',3'-cyclic phosphate	GTP	white
-GTP cyclohydrolase IV	3.5.4.39	7,8-Dihydroneopterin 2',3'-cyclic phosphate	H2O	white
-GTP cyclohydrolase IV	3.5.4.39	Diphosphate	GTP	white
-GTP cyclohydrolase IV	3.5.4.39	Diphosphate	H2O	white
-GTP cyclohydrolase IV	3.5.4.39	Formate	GTP	white
-GTP cyclohydrolase IV	3.5.4.39	Formate	H2O	white
-GTP cyclohydrolase IV	3.5.4.39	GTP	7,8-Dihydroneopterin 2',3'-cyclic phosphate	white
-GTP cyclohydrolase IV	3.5.4.39	GTP	Diphosphate	white
-GTP cyclohydrolase IV	3.5.4.39	GTP	Formate	white
-GTP cyclohydrolase IV	3.5.4.39	H2O	7,8-Dihydroneopterin 2',3'-cyclic phosphate	white
-GTP cyclohydrolase IV	3.5.4.39	H2O	Diphosphate	white
-GTP cyclohydrolase IV	3.5.4.39	H2O	Formate	white
-aldehyde reductase	1.1.1.21	D-Glyceraldehyde	Glycerol	white
-aldehyde reductase	1.1.1.21	D-Glyceraldehyde	NAD+	white
-aldehyde reductase	1.1.1.21	Glycerol	D-Glyceraldehyde	white
-aldehyde reductase	1.1.1.21	Glycerol	H+	white
-aldehyde reductase	1.1.1.21	Glycerol	NADH	white
-aldehyde reductase	1.1.1.21	H+	Glycerol	white
-aldehyde reductase	1.1.1.21	H+	NAD+	white
-aldehyde reductase	1.1.1.21	NAD+	D-Glyceraldehyde	white
-aldehyde reductase	1.1.1.21	NAD+	H+	white
-aldehyde reductase	1.1.1.21	NAD+	NADH	white
-aldehyde reductase	1.1.1.21	NADH	Glycerol	white
-aldehyde reductase	1.1.1.21	NADH	NAD+	white
-aldo-keto reductase family 1 member C3	1.1.1.51	Androstenedione	NAD+	white
-aldo-keto reductase family 1 member C3	1.1.1.51	Androstenedione	Testosterone	white
-aldo-keto reductase family 1 member C3	1.1.1.51	H+	NAD+	white
-aldo-keto reductase family 1 member C3	1.1.1.51	H+	Testosterone	white
-aldo-keto reductase family 1 member C3	1.1.1.51	NAD+	Androstenedione	white
-aldo-keto reductase family 1 member C3	1.1.1.51	NAD+	H+	white
-aldo-keto reductase family 1 member C3	1.1.1.51	NAD+	NADH	white
-aldo-keto reductase family 1 member C3	1.1.1.51	NADH	NAD+	white
-aldo-keto reductase family 1 member C3	1.1.1.51	NADH	Testosterone	white
-aldo-keto reductase family 1 member C3	1.1.1.51	Testosterone	Androstenedione	white
-aldo-keto reductase family 1 member C3	1.1.1.51	Testosterone	H+	white
-aldo-keto reductase family 1 member C3	1.1.1.51	Testosterone	NADH	white
-alkaline phosphatase D	3.1.3.1	7,8-Dihydroneopterin 3'-triphosphate	7,8-Dihydroneopterin	green
-alkaline phosphatase D	3.1.3.1	7,8-Dihydroneopterin 3'-triphosphate	Orthophosphate	green
-alkaline phosphatase D	3.1.3.1	H2O	7,8-Dihydroneopterin	green
-alkaline phosphatase D	3.1.3.1	H2O	Orthophosphate	green
-beta-ribofuranosylaminobenzene 5'-phosphate synthase	2.4.2.54	4-(beta-D-Ribofuranosyl)aniline 5'-phosphate	4-Aminobenzoate	white
-beta-ribofuranosylaminobenzene 5'-phosphate synthase	2.4.2.54	4-(beta-D-Ribofuranosyl)aniline 5'-phosphate	5-Phospho-alpha-D-ribose 1-diphosphate	white
-beta-ribofuranosylaminobenzene 5'-phosphate synthase	2.4.2.54	4-Aminobenzoate	4-(beta-D-Ribofuranosyl)aniline 5'-phosphate	white
-beta-ribofuranosylaminobenzene 5'-phosphate synthase	2.4.2.54	4-Aminobenzoate	CO2	white
-beta-ribofuranosylaminobenzene 5'-phosphate synthase	2.4.2.54	4-Aminobenzoate	Diphosphate	white
-beta-ribofuranosylaminobenzene 5'-phosphate synthase	2.4.2.54	5-Phospho-alpha-D-ribose 1-diphosphate	4-(beta-D-Ribofuranosyl)aniline 5'-phosphate	white
-beta-ribofuranosylaminobenzene 5'-phosphate synthase	2.4.2.54	5-Phospho-alpha-D-ribose 1-diphosphate	CO2	white
-beta-ribofuranosylaminobenzene 5'-phosphate synthase	2.4.2.54	5-Phospho-alpha-D-ribose 1-diphosphate	Diphosphate	white
-beta-ribofuranosylaminobenzene 5'-phosphate synthase	2.4.2.54	CO2	4-Aminobenzoate	white
-beta-ribofuranosylaminobenzene 5'-phosphate synthase	2.4.2.54	CO2	5-Phospho-alpha-D-ribose 1-diphosphate	white
-beta-ribofuranosylaminobenzene 5'-phosphate synthase	2.4.2.54	Diphosphate	4-Aminobenzoate	white
-beta-ribofuranosylaminobenzene 5'-phosphate synthase	2.4.2.54	Diphosphate	5-Phospho-alpha-D-ribose 1-diphosphate	white
-carbonyl reductase 1	1.1.1.184	H+	NADP+	white
-carbonyl reductase 1	1.1.1.184	H+	Prostaglandin F2alpha	white
-carbonyl reductase 1	1.1.1.184	NADP+	H+	white
-carbonyl reductase 1	1.1.1.184	NADP+	NADPH	white
-carbonyl reductase 1	1.1.1.184	NADP+	Prostaglandin E2	white
-carbonyl reductase 1	1.1.1.184	NADPH	NADP+	white
-carbonyl reductase 1	1.1.1.184	NADPH	Prostaglandin F2alpha	white
-carbonyl reductase 1	1.1.1.184	Prostaglandin E2	NADP+	white
-carbonyl reductase 1	1.1.1.184	Prostaglandin E2	Prostaglandin F2alpha	white
-carbonyl reductase 1	1.1.1.184	Prostaglandin F2alpha	H+	white
-carbonyl reductase 1	1.1.1.184	Prostaglandin F2alpha	NADPH	white
-carbonyl reductase 1	1.1.1.184	Prostaglandin F2alpha	Prostaglandin E2	white
-cyclic pyranopterin monophosphate synthase	4.6.1.17	(8S)-3',8-Cyclo-7,8-dihydroguanosine 5'-triphosphate	Diphosphate	green
-cyclic pyranopterin monophosphate synthase	4.6.1.17	(8S)-3',8-Cyclo-7,8-dihydroguanosine 5'-triphosphate	Precursor Z	green
-cyclic pyranopterin monophosphate synthase	4.6.1.17	H2O	Diphosphate	green
-cyclic pyranopterin monophosphate synthase	4.6.1.17	H2O	Precursor Z	green
-dihydrofolate reductase	1.5.1.3	Dihydrofolate	Folate	green
-dihydrofolate reductase	1.5.1.3	Dihydrofolate	H+	green
-dihydrofolate reductase	1.5.1.3	Dihydrofolate	NADH	green
-dihydrofolate reductase	1.5.1.3	Dihydrofolate	NADPH	green
-dihydrofolate reductase	1.5.1.3	NAD+	Dihydrofolate	green
-dihydrofolate reductase	1.5.1.3	NAD+	Folate	green
-dihydrofolate reductase	1.5.1.3	NAD+	H+	green
-dihydrofolate reductase	1.5.1.3	NAD+	NADH	green
-dihydrofolate reductase	1.5.1.3	NADP+	7,8-Dihydrobiopterin	green
-dihydrofolate reductase	1.5.1.3	NADP+	Dihydrofolate	green
-dihydrofolate reductase	1.5.1.3	NADP+	Folate	green
-dihydrofolate reductase	1.5.1.3	NADP+	H+	green
-dihydrofolate reductase	1.5.1.3	NADP+	NADPH	green
-dihydrofolate reductase	1.5.1.3	Tetrahydrobiopterin	7,8-Dihydrobiopterin	green
-dihydrofolate reductase	1.5.1.3	Tetrahydrobiopterin	H+	green
-dihydrofolate reductase	1.5.1.3	Tetrahydrobiopterin	NADPH	green
-dihydrofolate reductase	1.5.1.3	Tetrahydrofolate	Dihydrofolate	green
-dihydrofolate reductase	1.5.1.3	Tetrahydrofolate	Folate	green
-dihydrofolate reductase	1.5.1.3	Tetrahydrofolate	H+	green
-dihydrofolate reductase	1.5.1.3	Tetrahydrofolate	NADH	green
-dihydrofolate reductase	1.5.1.3	Tetrahydrofolate	NADPH	green
-dihydrofolate synthase / folylpolyglutamate synthase	6.3.2.12	1)	ATP	green
-dihydrofolate synthase / folylpolyglutamate synthase	6.3.2.12	1)	C03541(n)	green
-dihydrofolate synthase / folylpolyglutamate synthase	6.3.2.12	1)	L-Glutamate	green
-dihydrofolate synthase / folylpolyglutamate synthase	6.3.2.12	ADP	ATP	green
-dihydrofolate synthase / folylpolyglutamate synthase	6.3.2.12	ADP	C03541(n)	green
-dihydrofolate synthase / folylpolyglutamate synthase	6.3.2.12	ADP	L-Glutamate	green
-dihydrofolate synthase / folylpolyglutamate synthase	6.3.2.12	ADP	Tetrahydrofolate	green
-dihydrofolate synthase / folylpolyglutamate synthase	6.3.2.12	ATP	1)	green
-dihydrofolate synthase / folylpolyglutamate synthase	6.3.2.12	ATP	ADP	green
-dihydrofolate synthase / folylpolyglutamate synthase	6.3.2.12	ATP	C03541(n	green
-dihydrofolate synthase / folylpolyglutamate synthase	6.3.2.12	ATP	Dihydrofolate	green
-dihydrofolate synthase / folylpolyglutamate synthase	6.3.2.12	ATP	Orthophosphate	green
-dihydrofolate synthase / folylpolyglutamate synthase	6.3.2.12	ATP	THF-L-glutamate	green
-dihydrofolate synthase / folylpolyglutamate synthase	6.3.2.12	C03541(n	ATP	green
-dihydrofolate synthase / folylpolyglutamate synthase	6.3.2.12	C03541(n	C03541(n)	green
-dihydrofolate synthase / folylpolyglutamate synthase	6.3.2.12	C03541(n	L-Glutamate	green
-dihydrofolate synthase / folylpolyglutamate synthase	6.3.2.12	C03541(n)	1)	green
-dihydrofolate synthase / folylpolyglutamate synthase	6.3.2.12	C03541(n)	ADP	green
-dihydrofolate synthase / folylpolyglutamate synthase	6.3.2.12	C03541(n)	C03541(n	green
-dihydrofolate synthase / folylpolyglutamate synthase	6.3.2.12	C03541(n)	Orthophosphate	green
-dihydrofolate synthase / folylpolyglutamate synthase	6.3.2.12	Dihydropteroate	ADP	green
-dihydrofolate synthase / folylpolyglutamate synthase	6.3.2.12	Dihydropteroate	Dihydrofolate	green
-dihydrofolate synthase / folylpolyglutamate synthase	6.3.2.12	Dihydropteroate	Orthophosphate	green
-dihydrofolate synthase / folylpolyglutamate synthase	6.3.2.12	L-Glutamate	1)	green
-dihydrofolate synthase / folylpolyglutamate synthase	6.3.2.12	L-Glutamate	ADP	green
-dihydrofolate synthase / folylpolyglutamate synthase	6.3.2.12	L-Glutamate	C03541(n	green
-dihydrofolate synthase / folylpolyglutamate synthase	6.3.2.12	L-Glutamate	Dihydrofolate	green
-dihydrofolate synthase / folylpolyglutamate synthase	6.3.2.12	L-Glutamate	Orthophosphate	green
-dihydrofolate synthase / folylpolyglutamate synthase	6.3.2.12	L-Glutamate	THF-L-glutamate	green
-dihydrofolate synthase / folylpolyglutamate synthase	6.3.2.12	Orthophosphate	ATP	green
-dihydrofolate synthase / folylpolyglutamate synthase	6.3.2.12	Orthophosphate	C03541(n)	green
-dihydrofolate synthase / folylpolyglutamate synthase	6.3.2.12	Orthophosphate	L-Glutamate	green
-dihydrofolate synthase / folylpolyglutamate synthase	6.3.2.12	Orthophosphate	Tetrahydrofolate	green
-dihydrofolate synthase / folylpolyglutamate synthase	6.3.2.12	THF-L-glutamate	ATP	green
-dihydrofolate synthase / folylpolyglutamate synthase	6.3.2.12	THF-L-glutamate	L-Glutamate	green
-dihydrofolate synthase / folylpolyglutamate synthase	6.3.2.12	THF-L-glutamate	Tetrahydrofolate	green
-dihydrofolate synthase / folylpolyglutamate synthase	6.3.2.12	Tetrahydrofolate	ADP	green
-dihydrofolate synthase / folylpolyglutamate synthase	6.3.2.12	Tetrahydrofolate	Orthophosphate	green
-dihydrofolate synthase / folylpolyglutamate synthase	6.3.2.12	Tetrahydrofolate	THF-L-glutamate	green
-dihydromethanopterin reductase	1.5.1.47	5,6,7,8-Tetrahydromethanopterin	7,8-Dihydromethanopterin	white
-dihydromethanopterin reductase	1.5.1.47	5,6,7,8-Tetrahydromethanopterin	H+	white
-dihydromethanopterin reductase	1.5.1.47	5,6,7,8-Tetrahydromethanopterin	NADPH	white
-dihydromethanopterin reductase	1.5.1.47	7,8-Dihydromethanopterin	5,6,7,8-Tetrahydromethanopterin	white
-dihydromethanopterin reductase	1.5.1.47	7,8-Dihydromethanopterin	NADP+	white
-dihydromethanopterin reductase	1.5.1.47	H+	5,6,7,8-Tetrahydromethanopterin	white
-dihydromethanopterin reductase	1.5.1.47	H+	NADP+	white
-dihydromethanopterin reductase	1.5.1.47	NADP+	7,8-Dihydromethanopterin	white
-dihydromethanopterin reductase	1.5.1.47	NADP+	H+	white
-dihydromethanopterin reductase	1.5.1.47	NADP+	NADPH	white
-dihydromethanopterin reductase	1.5.1.47	NADPH	5,6,7,8-Tetrahydromethanopterin	white
-dihydromethanopterin reductase	1.5.1.47	NADPH	NADP+	white
-dihydromethanopterin reductase (acceptor)	1.5.99.15	5,6,7,8-Tetrahydromethanopterin	7,8-Dihydromethanopterin	white
-dihydromethanopterin reductase (acceptor)	1.5.99.15	5,6,7,8-Tetrahydromethanopterin	Reduced acceptor	white
-dihydromethanopterin reductase (acceptor)	1.5.99.15	7,8-Dihydromethanopterin	5,6,7,8-Tetrahydromethanopterin	white
-dihydromethanopterin reductase (acceptor)	1.5.99.15	7,8-Dihydromethanopterin	Acceptor	white
-dihydromethanopterin reductase (acceptor)	1.5.99.15	Acceptor	7,8-Dihydromethanopterin	white
-dihydromethanopterin reductase (acceptor)	1.5.99.15	Acceptor	Reduced acceptor	white
-dihydromethanopterin reductase (acceptor)	1.5.99.15	Reduced acceptor	5,6,7,8-Tetrahydromethanopterin	white
-dihydromethanopterin reductase (acceptor)	1.5.99.15	Reduced acceptor	Acceptor	white
-dihydromonapterin reductase / dihydrofolate reductase	1.5.1.50	Dihydrofolate	NAD+	white
-dihydromonapterin reductase / dihydrofolate reductase	1.5.1.50	Dihydrofolate	Tetrahydrofolate	white
-dihydromonapterin reductase / dihydrofolate reductase	1.5.1.50	H+	NAD+	white
-dihydromonapterin reductase / dihydrofolate reductase	1.5.1.50	H+	Tetrahydrofolate	white
-dihydromonapterin reductase / dihydrofolate reductase	1.5.1.50	NAD+	Dihydrofolate	white
-dihydromonapterin reductase / dihydrofolate reductase	1.5.1.50	NAD+	H+	white
-dihydromonapterin reductase / dihydrofolate reductase	1.5.1.50	NAD+	NADH	white
-dihydromonapterin reductase / dihydrofolate reductase	1.5.1.50	NADH	NAD+	white
-dihydromonapterin reductase / dihydrofolate reductase	1.5.1.50	NADH	Tetrahydrofolate	white
-dihydromonapterin reductase / dihydrofolate reductase	1.5.1.50	Tetrahydrofolate	Dihydrofolate	white
-dihydromonapterin reductase / dihydrofolate reductase	1.5.1.50	Tetrahydrofolate	H+	white
-dihydromonapterin reductase / dihydrofolate reductase	1.5.1.50	Tetrahydrofolate	NADH	white
-dihydroneopterin phosphate aldolase	4.1.2.59	6-(Hydroxymethyl)-7,8-dihydropterin	Dihydroneopterin phosphate	white
-dihydroneopterin phosphate aldolase	4.1.2.59	Dihydroneopterin phosphate	6-(Hydroxymethyl)-7,8-dihydropterin	white
-dihydroneopterin phosphate aldolase	4.1.2.59	Dihydroneopterin phosphate	Glycolaldehyde phosphate	white
-dihydroneopterin phosphate aldolase	4.1.2.59	Glycolaldehyde phosphate	Dihydroneopterin phosphate	white
-dihydroneopterin triphosphate aldolase (PTPS-III) / 6-pyruvoyltetrahydropterin synthase	4.1.2.60	6-Pyruvoyltetrahydropterin	7,8-Dihydroneopterin 3'-triphosphate	white
-dihydroneopterin triphosphate aldolase (PTPS-III) / 6-pyruvoyltetrahydropterin synthase	4.1.2.60	7,8-Dihydroneopterin 3'-triphosphate	6-Pyruvoyltetrahydropterin	white
-dihydroneopterin triphosphate aldolase (PTPS-III) / 6-pyruvoyltetrahydropterin synthase	4.1.2.60	7,8-Dihydroneopterin 3'-triphosphate	Triphosphate	white
-dihydroneopterin triphosphate aldolase (PTPS-III) / 6-pyruvoyltetrahydropterin synthase	4.1.2.60	Triphosphate	7,8-Dihydroneopterin 3'-triphosphate	white
-dihydroneopterin triphosphate diphosphatase	3.6.1.67	7,8-Dihydroneopterin 3'-triphosphate	Dihydroneopterin phosphate	white
-dihydroneopterin triphosphate diphosphatase	3.6.1.67	7,8-Dihydroneopterin 3'-triphosphate	Diphosphate	white
-dihydroneopterin triphosphate diphosphatase	3.6.1.67	Dihydroneopterin phosphate	7,8-Dihydroneopterin 3'-triphosphate	white
-dihydroneopterin triphosphate diphosphatase	3.6.1.67	Dihydroneopterin phosphate	H2O	white
-dihydroneopterin triphosphate diphosphatase	3.6.1.67	Diphosphate	7,8-Dihydroneopterin 3'-triphosphate	white
-dihydroneopterin triphosphate diphosphatase	3.6.1.67	Diphosphate	H2O	white
-dihydroneopterin triphosphate diphosphatase	3.6.1.67	H2O	Dihydroneopterin phosphate	white
-dihydroneopterin triphosphate diphosphatase	3.6.1.67	H2O	Diphosphate	white
-dihydroneopterin triphosphate pyrophosphohydrolase	3.6.1.67	7,8-Dihydroneopterin 3'-triphosphate	Dihydroneopterin phosphate	white
-dihydroneopterin triphosphate pyrophosphohydrolase	3.6.1.67	7,8-Dihydroneopterin 3'-triphosphate	Diphosphate	white
-dihydroneopterin triphosphate pyrophosphohydrolase	3.6.1.67	Dihydroneopterin phosphate	7,8-Dihydroneopterin 3'-triphosphate	white
-dihydroneopterin triphosphate pyrophosphohydrolase	3.6.1.67	Dihydroneopterin phosphate	H2O	white
-dihydroneopterin triphosphate pyrophosphohydrolase	3.6.1.67	Diphosphate	7,8-Dihydroneopterin 3'-triphosphate	white
-dihydroneopterin triphosphate pyrophosphohydrolase	3.6.1.67	Diphosphate	H2O	white
-dihydroneopterin triphosphate pyrophosphohydrolase	3.6.1.67	H2O	Dihydroneopterin phosphate	white
-dihydroneopterin triphosphate pyrophosphohydrolase	3.6.1.67	H2O	Diphosphate	white
-dihydropteridine reductase	1.5.1.34	Dihydrobiopterin	NAD+	white
-dihydropteridine reductase	1.5.1.34	Dihydrobiopterin	Tetrahydrobiopterin	white
-dihydropteridine reductase	1.5.1.34	H+	NAD+	white
-dihydropteridine reductase	1.5.1.34	H+	Tetrahydrobiopterin	white
-dihydropteridine reductase	1.5.1.34	NAD+	Dihydrobiopterin	white
-dihydropteridine reductase	1.5.1.34	NAD+	H+	white
-dihydropteridine reductase	1.5.1.34	NAD+	NADH	white
-dihydropteridine reductase	1.5.1.34	NADH	NAD+	white
-dihydropteridine reductase	1.5.1.34	NADH	Tetrahydrobiopterin	white
-dihydropteridine reductase	1.5.1.34	Tetrahydrobiopterin	Dihydrobiopterin	white
-dihydropteridine reductase	1.5.1.34	Tetrahydrobiopterin	H+	white
-dihydropteridine reductase	1.5.1.34	Tetrahydrobiopterin	NADH	white
-dihydropteroate synthase	2.5.1.15	4-Aminobenzoate	Dihydropteroate	green
-dihydropteroate synthase	2.5.1.15	4-Aminobenzoate	Diphosphate	green
-dihydropteroate synthase	2.5.1.15	4-Aminobenzoate	H2O	green
-dihydropteroate synthase	2.5.1.15	6-(Hydroxymethyl)-7,8-dihydropterin	Dihydropteroate	green
-dihydropteroate synthase	2.5.1.15	6-(Hydroxymethyl)-7,8-dihydropterin	H2O	green
-dihydropteroate synthase	2.5.1.15	6-Hydroxymethyl-7,8-dihydropterin diphosphate	Dihydropteroate	green
-dihydropteroate synthase	2.5.1.15	6-Hydroxymethyl-7,8-dihydropterin diphosphate	Diphosphate	green
-gamma-glutamyl hydrolase	3.4.19.9	H2O	L-Glutamate	white
-gamma-glutamyl hydrolase	3.4.19.9	H2O	Tetrahydrofolate	white
-gamma-glutamyl hydrolase	3.4.19.9	L-Glutamate	H2O	white
-gamma-glutamyl hydrolase	3.4.19.9	L-Glutamate	THF-polyglutamate	white
-gamma-glutamyl hydrolase	3.4.19.9	THF-polyglutamate	L-Glutamate	white
-gamma-glutamyl hydrolase	3.4.19.9	THF-polyglutamate	Tetrahydrofolate	white
-gamma-glutamyl hydrolase	3.4.19.9	Tetrahydrofolate	H2O	white
-gamma-glutamyl hydrolase	3.4.19.9	Tetrahydrofolate	THF-polyglutamate	white
-gephyrin	2.10.1.1	ATP	Adenylated molybdopterin	white
-gephyrin	2.10.1.1	ATP	Diphosphate	white
-gephyrin	2.10.1.1	Adenylated molybdopterin	ATP	white
-gephyrin	2.10.1.1	Adenylated molybdopterin	Molybdopterin	white
-gephyrin	2.10.1.1	Diphosphate	ATP	white
-gephyrin	2.10.1.1	Diphosphate	Molybdopterin	white
-gephyrin	2.10.1.1	Molybdopterin	Adenylated molybdopterin	white
-gephyrin	2.10.1.1	Molybdopterin	Diphosphate	white
-molybdenum cofactor cytidylyltransferase	2.7.7.76	CTP	Cytidylyl molybdenum cofactor	white
-molybdenum cofactor cytidylyltransferase	2.7.7.76	CTP	Diphosphate	white
-molybdenum cofactor cytidylyltransferase	2.7.7.76	Cytidylyl molybdenum cofactor	CTP	white
-molybdenum cofactor cytidylyltransferase	2.7.7.76	Cytidylyl molybdenum cofactor	Molybdoenzyme molybdenum cofactor	white
-molybdenum cofactor cytidylyltransferase	2.7.7.76	Diphosphate	CTP	white
-molybdenum cofactor cytidylyltransferase	2.7.7.76	Diphosphate	Molybdoenzyme molybdenum cofactor	white
-molybdenum cofactor cytidylyltransferase	2.7.7.76	Molybdoenzyme molybdenum cofactor	Cytidylyl molybdenum cofactor	white
-molybdenum cofactor cytidylyltransferase	2.7.7.76	Molybdoenzyme molybdenum cofactor	Diphosphate	white
-molybdenum cofactor guanylyltransferase	2.7.7.77	Diphosphate	GTP	white
-molybdenum cofactor guanylyltransferase	2.7.7.77	Diphosphate	Molybdoenzyme molybdenum cofactor	white
-molybdenum cofactor guanylyltransferase	2.7.7.77	GTP	Diphosphate	white
-molybdenum cofactor guanylyltransferase	2.7.7.77	GTP	Guanylyl molybdenum cofactor	white
-molybdenum cofactor guanylyltransferase	2.7.7.77	Guanylyl molybdenum cofactor	GTP	white
-molybdenum cofactor guanylyltransferase	2.7.7.77	Guanylyl molybdenum cofactor	Molybdoenzyme molybdenum cofactor	white
-molybdenum cofactor guanylyltransferase	2.7.7.77	Molybdoenzyme molybdenum cofactor	Diphosphate	white
-molybdenum cofactor guanylyltransferase	2.7.7.77	Molybdoenzyme molybdenum cofactor	Guanylyl molybdenum cofactor	white
-molybdenum cofactor sulfurtransferase	2.8.1.9	Acceptor	H+	white
-molybdenum cofactor sulfurtransferase	2.8.1.9	Acceptor	L-Cysteine	white
-molybdenum cofactor sulfurtransferase	2.8.1.9	Acceptor	Molybdoenzyme molybdenum cofactor	white
-molybdenum cofactor sulfurtransferase	2.8.1.9	Acceptor	Reduced acceptor	white
-molybdenum cofactor sulfurtransferase	2.8.1.9	H+	Acceptor	white
-molybdenum cofactor sulfurtransferase	2.8.1.9	H+	H2O	white
-molybdenum cofactor sulfurtransferase	2.8.1.9	H+	L-Alanine	white
-molybdenum cofactor sulfurtransferase	2.8.1.9	H+	Thio-molybdenum cofactor	white
-molybdenum cofactor sulfurtransferase	2.8.1.9	H2O	H+	white
-molybdenum cofactor sulfurtransferase	2.8.1.9	H2O	L-Cysteine	white
-molybdenum cofactor sulfurtransferase	2.8.1.9	H2O	Molybdoenzyme molybdenum cofactor	white
-molybdenum cofactor sulfurtransferase	2.8.1.9	H2O	Reduced acceptor	white
-molybdenum cofactor sulfurtransferase	2.8.1.9	L-Alanine	H+	white
-molybdenum cofactor sulfurtransferase	2.8.1.9	L-Alanine	L-Cysteine	white
-molybdenum cofactor sulfurtransferase	2.8.1.9	L-Alanine	Molybdoenzyme molybdenum cofactor	white
-molybdenum cofactor sulfurtransferase	2.8.1.9	L-Alanine	Reduced acceptor	white
-molybdenum cofactor sulfurtransferase	2.8.1.9	L-Cysteine	Acceptor	white
-molybdenum cofactor sulfurtransferase	2.8.1.9	L-Cysteine	H2O	white
-molybdenum cofactor sulfurtransferase	2.8.1.9	L-Cysteine	L-Alanine	white
-molybdenum cofactor sulfurtransferase	2.8.1.9	L-Cysteine	Thio-molybdenum cofactor	white
-molybdenum cofactor sulfurtransferase	2.8.1.9	Molybdoenzyme molybdenum cofactor	Acceptor	white
-molybdenum cofactor sulfurtransferase	2.8.1.9	Molybdoenzyme molybdenum cofactor	H2O	white
-molybdenum cofactor sulfurtransferase	2.8.1.9	Molybdoenzyme molybdenum cofactor	L-Alanine	white
-molybdenum cofactor sulfurtransferase	2.8.1.9	Molybdoenzyme molybdenum cofactor	Thio-molybdenum cofactor	white
-molybdenum cofactor sulfurtransferase	2.8.1.9	Reduced acceptor	Acceptor	white
-molybdenum cofactor sulfurtransferase	2.8.1.9	Reduced acceptor	H2O	white
-molybdenum cofactor sulfurtransferase	2.8.1.9	Reduced acceptor	L-Alanine	white
-molybdenum cofactor sulfurtransferase	2.8.1.9	Reduced acceptor	Thio-molybdenum cofactor	white
-molybdenum cofactor sulfurtransferase	2.8.1.9	Thio-molybdenum cofactor	H+	white
-molybdenum cofactor sulfurtransferase	2.8.1.9	Thio-molybdenum cofactor	L-Cysteine	white
-molybdenum cofactor sulfurtransferase	2.8.1.9	Thio-molybdenum cofactor	Molybdoenzyme molybdenum cofactor	white
-molybdenum cofactor sulfurtransferase	2.8.1.9	Thio-molybdenum cofactor	Reduced acceptor	white
-molybdopterin adenylyltransferase	2.7.7.75	ATP	Adenylated molybdopterin	white
-molybdopterin adenylyltransferase	2.7.7.75	ATP	Diphosphate	white
-molybdopterin adenylyltransferase	2.7.7.75	Adenylated molybdopterin	ATP	white
-molybdopterin adenylyltransferase	2.7.7.75	Adenylated molybdopterin	Molybdopterin	white
-molybdopterin adenylyltransferase	2.7.7.75	Diphosphate	ATP	white
-molybdopterin adenylyltransferase	2.7.7.75	Diphosphate	Molybdopterin	white
-molybdopterin adenylyltransferase	2.7.7.75	Molybdopterin	Adenylated molybdopterin	white
-molybdopterin adenylyltransferase	2.7.7.75	Molybdopterin	Diphosphate	white
-molybdopterin molybdotransferase	2.10.1.1	Adenylated molybdopterin	AMP	green
-molybdopterin molybdotransferase	2.10.1.1	Adenylated molybdopterin	H2O	green
-molybdopterin molybdotransferase	2.10.1.1	Adenylated molybdopterin	Molybdoenzyme molybdenum cofactor	green
-molybdopterin molybdotransferase	2.10.1.1	Molybdate	AMP	green
-molybdopterin molybdotransferase	2.10.1.1	Molybdate	H2O	green
-molybdopterin molybdotransferase	2.10.1.1	Molybdate	Molybdoenzyme molybdenum cofactor	green
-molybdopterin synthase catalytic subunit	2.8.1.12	Precursor Z	Molybdopterin	green
-molybdopterin synthase catalytic subunit	2.8.1.12	Precursor Z	Sulfur-carrier protein	green
-molybdopterin synthase catalytic subunit	2.8.1.12	Thiocarboxy-[sulfur-carrier protein]	Molybdopterin	green
-molybdopterin synthase catalytic subunit	2.8.1.12	Thiocarboxy-[sulfur-carrier protein]	Sulfur-carrier protein	green
-molybdopterin-guanine dinucleotide biosynthesis protein	2.7.7.77	Diphosphate	GTP	white
-molybdopterin-guanine dinucleotide biosynthesis protein	2.7.7.77	Diphosphate	Molybdoenzyme molybdenum cofactor	white
-molybdopterin-guanine dinucleotide biosynthesis protein	2.7.7.77	GTP	Diphosphate	white
-molybdopterin-guanine dinucleotide biosynthesis protein	2.7.7.77	GTP	Guanylyl molybdenum cofactor	white
-molybdopterin-guanine dinucleotide biosynthesis protein	2.7.7.77	Guanylyl molybdenum cofactor	GTP	white
-molybdopterin-guanine dinucleotide biosynthesis protein	2.7.7.77	Guanylyl molybdenum cofactor	Molybdoenzyme molybdenum cofactor	white
-molybdopterin-guanine dinucleotide biosynthesis protein	2.7.7.77	Molybdoenzyme molybdenum cofactor	Diphosphate	white
-molybdopterin-guanine dinucleotide biosynthesis protein	2.7.7.77	Molybdoenzyme molybdenum cofactor	Guanylyl molybdenum cofactor	white
-para-aminobenzoate synthetase	2.6.1.85	Chorismate	4-Amino-4-deoxychorismate	green
-para-aminobenzoate synthetase	2.6.1.85	Chorismate	L-Glutamate	green
-para-aminobenzoate synthetase	2.6.1.85	L-Glutamine	4-Amino-4-deoxychorismate	green
-para-aminobenzoate synthetase	2.6.1.85	L-Glutamine	L-Glutamate	green
-para-aminobenzoate synthetase component II	2.6.1.85	Chorismate	4-Amino-4-deoxychorismate	green
-para-aminobenzoate synthetase component II	2.6.1.85	Chorismate	L-Glutamate	green
-para-aminobenzoate synthetase component II	2.6.1.85	L-Glutamine	4-Amino-4-deoxychorismate	green
-para-aminobenzoate synthetase component II	2.6.1.85	L-Glutamine	L-Glutamate	green
-phenylalanine-4-hydroxylase	1.14.16.1	Dihydrobiopterin	L-Phenylalanine	white
-phenylalanine-4-hydroxylase	1.14.16.1	Dihydrobiopterin	Oxygen	white
-phenylalanine-4-hydroxylase	1.14.16.1	Dihydrobiopterin	Tetrahydrobiopterin	white
-phenylalanine-4-hydroxylase	1.14.16.1	H2O	L-Phenylalanine	white
-phenylalanine-4-hydroxylase	1.14.16.1	H2O	Oxygen	white
-phenylalanine-4-hydroxylase	1.14.16.1	H2O	Tetrahydrobiopterin	white
-phenylalanine-4-hydroxylase	1.14.16.1	L-Phenylalanine	Dihydrobiopterin	white
-phenylalanine-4-hydroxylase	1.14.16.1	L-Phenylalanine	H2O	white
-phenylalanine-4-hydroxylase	1.14.16.1	L-Phenylalanine	L-Tyrosine	white
-phenylalanine-4-hydroxylase	1.14.16.1	L-Tyrosine	L-Phenylalanine	white
-phenylalanine-4-hydroxylase	1.14.16.1	L-Tyrosine	Oxygen	white
-phenylalanine-4-hydroxylase	1.14.16.1	L-Tyrosine	Tetrahydrobiopterin	white
-phenylalanine-4-hydroxylase	1.14.16.1	Oxygen	Dihydrobiopterin	white
-phenylalanine-4-hydroxylase	1.14.16.1	Oxygen	H2O	white
-phenylalanine-4-hydroxylase	1.14.16.1	Oxygen	L-Tyrosine	white
-phenylalanine-4-hydroxylase	1.14.16.1	Tetrahydrobiopterin	Dihydrobiopterin	white
-phenylalanine-4-hydroxylase	1.14.16.1	Tetrahydrobiopterin	H2O	white
-phenylalanine-4-hydroxylase	1.14.16.1	Tetrahydrobiopterin	L-Tyrosine	white
-pteridine reductase	1.5.1.33	Biopterin	NADP+	white
-pteridine reductase	1.5.1.33	Biopterin	Tetrahydrobiopterin	white
-pteridine reductase	1.5.1.33	H+	NADP+	white
-pteridine reductase	1.5.1.33	H+	Tetrahydrobiopterin	white
-pteridine reductase	1.5.1.33	NADP+	Biopterin	white
-pteridine reductase	1.5.1.33	NADP+	H+	white
-pteridine reductase	1.5.1.33	NADP+	NADPH	white
-pteridine reductase	1.5.1.33	NADPH	NADP+	white
-pteridine reductase	1.5.1.33	NADPH	Tetrahydrobiopterin	white
-pteridine reductase	1.5.1.33	Tetrahydrobiopterin	Biopterin	white
-pteridine reductase	1.5.1.33	Tetrahydrobiopterin	H+	white
-pteridine reductase	1.5.1.33	Tetrahydrobiopterin	NADPH	white
-pyrimidodiazepine synthase	1.5.4.1	6-Pyruvoyltetrahydropterin	Glutathione disulfide	white
-pyrimidodiazepine synthase	1.5.4.1	6-Pyruvoyltetrahydropterin	H2O	white
-pyrimidodiazepine synthase	1.5.4.1	6-Pyruvoyltetrahydropterin	Pyrimidodiazepine	white
-pyrimidodiazepine synthase	1.5.4.1	Glutathione	Glutathione disulfide	white
-pyrimidodiazepine synthase	1.5.4.1	Glutathione	H2O	white
-pyrimidodiazepine synthase	1.5.4.1	Glutathione	Pyrimidodiazepine	white
-pyrimidodiazepine synthase	1.5.4.1	Glutathione disulfide	6-Pyruvoyltetrahydropterin	white
-pyrimidodiazepine synthase	1.5.4.1	Glutathione disulfide	Glutathione	white
-pyrimidodiazepine synthase	1.5.4.1	H2O	6-Pyruvoyltetrahydropterin	white
-pyrimidodiazepine synthase	1.5.4.1	H2O	Glutathione	white
-pyrimidodiazepine synthase	1.5.4.1	Pyrimidodiazepine	6-Pyruvoyltetrahydropterin	white
-pyrimidodiazepine synthase	1.5.4.1	Pyrimidodiazepine	Glutathione	white
-sepiapterin reductase	1.1.1.325	H+	L-threo-7,8-Dihydrobiopterin	white
-sepiapterin reductase	1.1.1.325	H+	NADP+	white
-sepiapterin reductase	1.1.1.325	L-threo-7,8-Dihydrobiopterin	H+	white
-sepiapterin reductase	1.1.1.325	L-threo-7,8-Dihydrobiopterin	NADPH	white
-sepiapterin reductase	1.1.1.325	L-threo-7,8-Dihydrobiopterin	Sepiapterin	white
-sepiapterin reductase	1.1.1.325	NADP+	H+	white
-sepiapterin reductase	1.1.1.325	NADP+	NADPH	white
-sepiapterin reductase	1.1.1.325	NADP+	Sepiapterin	white
-sepiapterin reductase	1.1.1.325	NADPH	L-threo-7,8-Dihydrobiopterin	white
-sepiapterin reductase	1.1.1.325	NADPH	NADP+	white
-sepiapterin reductase	1.1.1.325	Sepiapterin	L-threo-7,8-Dihydrobiopterin	white
-sepiapterin reductase	1.1.1.325	Sepiapterin	NADP+	white
-tetrahydromethanopterin:alpha-L-glutamate ligase	6.3.2.33	5,6,7,8-Tetrahydromethanopterin	ADP	white
-tetrahydromethanopterin:alpha-L-glutamate ligase	6.3.2.33	5,6,7,8-Tetrahydromethanopterin	Orthophosphate	white
-tetrahydromethanopterin:alpha-L-glutamate ligase	6.3.2.33	5,6,7,8-Tetrahydromethanopterin	Tetrahydrosarcinapterin	white
-tetrahydromethanopterin:alpha-L-glutamate ligase	6.3.2.33	ADP	5,6,7,8-Tetrahydromethanopterin	white
-tetrahydromethanopterin:alpha-L-glutamate ligase	6.3.2.33	ADP	ATP	white
-tetrahydromethanopterin:alpha-L-glutamate ligase	6.3.2.33	ADP	L-Glutamate	white
-tetrahydromethanopterin:alpha-L-glutamate ligase	6.3.2.33	ATP	ADP	white
-tetrahydromethanopterin:alpha-L-glutamate ligase	6.3.2.33	ATP	Orthophosphate	white
-tetrahydromethanopterin:alpha-L-glutamate ligase	6.3.2.33	ATP	Tetrahydrosarcinapterin	white
-tetrahydromethanopterin:alpha-L-glutamate ligase	6.3.2.33	L-Glutamate	ADP	white
-tetrahydromethanopterin:alpha-L-glutamate ligase	6.3.2.33	L-Glutamate	Orthophosphate	white
-tetrahydromethanopterin:alpha-L-glutamate ligase	6.3.2.33	L-Glutamate	Tetrahydrosarcinapterin	white
-tetrahydromethanopterin:alpha-L-glutamate ligase	6.3.2.33	Orthophosphate	5,6,7,8-Tetrahydromethanopterin	white
-tetrahydromethanopterin:alpha-L-glutamate ligase	6.3.2.33	Orthophosphate	ATP	white
-tetrahydromethanopterin:alpha-L-glutamate ligase	6.3.2.33	Orthophosphate	L-Glutamate	white
-tetrahydromethanopterin:alpha-L-glutamate ligase	6.3.2.33	Tetrahydrosarcinapterin	5,6,7,8-Tetrahydromethanopterin	white
-tetrahydromethanopterin:alpha-L-glutamate ligase	6.3.2.33	Tetrahydrosarcinapterin	ATP	white
-tetrahydromethanopterin:alpha-L-glutamate ligase	6.3.2.33	Tetrahydrosarcinapterin	L-Glutamate	white
-tryptophan 5-monooxygenase	1.14.16.4	5-Hydroxy-L-tryptophan	L-Tryptophan	white
-tryptophan 5-monooxygenase	1.14.16.4	5-Hydroxy-L-tryptophan	Oxygen	white
-tryptophan 5-monooxygenase	1.14.16.4	5-Hydroxy-L-tryptophan	Tetrahydrobiopterin	white
-tryptophan 5-monooxygenase	1.14.16.4	Dihydrobiopterin	L-Tryptophan	white
-tryptophan 5-monooxygenase	1.14.16.4	Dihydrobiopterin	Oxygen	white
-tryptophan 5-monooxygenase	1.14.16.4	Dihydrobiopterin	Tetrahydrobiopterin	white
-tryptophan 5-monooxygenase	1.14.16.4	H2O	L-Tryptophan	white
-tryptophan 5-monooxygenase	1.14.16.4	H2O	Oxygen	white
-tryptophan 5-monooxygenase	1.14.16.4	H2O	Tetrahydrobiopterin	white
-tryptophan 5-monooxygenase	1.14.16.4	L-Tryptophan	5-Hydroxy-L-tryptophan	white
-tryptophan 5-monooxygenase	1.14.16.4	L-Tryptophan	Dihydrobiopterin	white
-tryptophan 5-monooxygenase	1.14.16.4	L-Tryptophan	H2O	white
-tryptophan 5-monooxygenase	1.14.16.4	Oxygen	5-Hydroxy-L-tryptophan	white
-tryptophan 5-monooxygenase	1.14.16.4	Oxygen	Dihydrobiopterin	white
-tryptophan 5-monooxygenase	1.14.16.4	Oxygen	H2O	white
-tryptophan 5-monooxygenase	1.14.16.4	Tetrahydrobiopterin	5-Hydroxy-L-tryptophan	white
-tryptophan 5-monooxygenase	1.14.16.4	Tetrahydrobiopterin	Dihydrobiopterin	white
-tryptophan 5-monooxygenase	1.14.16.4	Tetrahydrobiopterin	H2O	white
-tyrosine 3-monooxygenase	1.14.16.2	3,4-Dihydroxy-L-phenylalanine	L-Tyrosine	white
-tyrosine 3-monooxygenase	1.14.16.2	3,4-Dihydroxy-L-phenylalanine	Oxygen	white
-tyrosine 3-monooxygenase	1.14.16.2	3,4-Dihydroxy-L-phenylalanine	Tetrahydrobiopterin	white
-tyrosine 3-monooxygenase	1.14.16.2	Dihydrobiopterin	L-Tyrosine	white
-tyrosine 3-monooxygenase	1.14.16.2	Dihydrobiopterin	Oxygen	white
-tyrosine 3-monooxygenase	1.14.16.2	Dihydrobiopterin	Tetrahydrobiopterin	white
-tyrosine 3-monooxygenase	1.14.16.2	H2O	L-Tyrosine	white
-tyrosine 3-monooxygenase	1.14.16.2	H2O	Oxygen	white
-tyrosine 3-monooxygenase	1.14.16.2	H2O	Tetrahydrobiopterin	white
-tyrosine 3-monooxygenase	1.14.16.2	L-Tyrosine	3,4-Dihydroxy-L-phenylalanine	white
-tyrosine 3-monooxygenase	1.14.16.2	L-Tyrosine	Dihydrobiopterin	white
-tyrosine 3-monooxygenase	1.14.16.2	L-Tyrosine	H2O	white
-tyrosine 3-monooxygenase	1.14.16.2	Oxygen	3,4-Dihydroxy-L-phenylalanine	white
-tyrosine 3-monooxygenase	1.14.16.2	Oxygen	Dihydrobiopterin	white
-tyrosine 3-monooxygenase	1.14.16.2	Oxygen	H2O	white
-tyrosine 3-monooxygenase	1.14.16.2	Tetrahydrobiopterin	3,4-Dihydroxy-L-phenylalanine	white
-tyrosine 3-monooxygenase	1.14.16.2	Tetrahydrobiopterin	Dihydrobiopterin	white
-tyrosine 3-monooxygenase	1.14.16.2	Tetrahydrobiopterin	H2O	white
+enzyme_name	EC	source	target	reaction	color
+2,5-diamino-6-(5-phospho-D-ribosylamino)pyrimidin-4(3H)-one isomerase/dehydratase	4.2.1.160	2,5-Diamino-6-(5-phospho-D-ribosylamino)pyrimidin-4(3H)-one	Dihydroneopterin phosphate	R11072	white
+2,5-diamino-6-(5-phospho-D-ribosylamino)pyrimidin-4(3H)-one isomerase/dehydratase	4.2.1.160	2,5-Diamino-6-(5-phospho-D-ribosylamino)pyrimidin-4(3H)-one	H2O	R11072	white
+2,5-diamino-6-(5-phospho-D-ribosylamino)pyrimidin-4(3H)-one isomerase/dehydratase	4.2.1.160	Dihydroneopterin phosphate	2,5-Diamino-6-(5-phospho-D-ribosylamino)pyrimidin-4(3H)-one	R11072	white
+2,5-diamino-6-(5-phospho-D-ribosylamino)pyrimidin-4(3H)-one isomerase/dehydratase	4.2.1.160	H2O	2,5-Diamino-6-(5-phospho-D-ribosylamino)pyrimidin-4(3H)-one	R11072	white
+2-amino-4-hydroxy-6-hydroxymethyldihydropteridine diphosphokinase	2.7.6.3	6-(Hydroxymethyl)-7,8-dihydropterin	6-Hydroxymethyl-7,8-dihydropterin diphosphate	R03503	green
+2-amino-4-hydroxy-6-hydroxymethyldihydropteridine diphosphokinase	2.7.6.3	6-(Hydroxymethyl)-7,8-dihydropterin	AMP	R03503	green
+2-amino-4-hydroxy-6-hydroxymethyldihydropteridine diphosphokinase	2.7.6.3	ATP	6-Hydroxymethyl-7,8-dihydropterin diphosphate	R03503	green
+2-amino-4-hydroxy-6-hydroxymethyldihydropteridine diphosphokinase	2.7.6.3	ATP	AMP	R03503	green
+3,4-dihydroxy 2-butanone 4-phosphate synthase / GTP cyclohydrolase II	4.1.99.12	GTP	2,5-Diamino-6-(5-phospho-D-ribosylamino)pyrimidin-4(3H)-one	R00425	green
+3,4-dihydroxy 2-butanone 4-phosphate synthase / GTP cyclohydrolase II	4.1.99.12	GTP	Formate	R00425	green
+3,4-dihydroxy 2-butanone 4-phosphate synthase / GTP cyclohydrolase II	4.1.99.12	GTP	Orthophosphate	R00425	green
+3,4-dihydroxy 2-butanone 4-phosphate synthase / GTP cyclohydrolase II	4.1.99.12	H2O	2,5-Diamino-6-(5-phospho-D-ribosylamino)pyrimidin-4(3H)-one	R00425	green
+3,4-dihydroxy 2-butanone 4-phosphate synthase / GTP cyclohydrolase II	4.1.99.12	H2O	Formate	R00425	green
+3,4-dihydroxy 2-butanone 4-phosphate synthase / GTP cyclohydrolase II	4.1.99.12	H2O	Orthophosphate	R00425	green
+4-amino-4-deoxychorismate lyase	4.1.3.38	4-Amino-4-deoxychorismate	4-Aminobenzoate	R05553	green
+4-amino-4-deoxychorismate lyase	4.1.3.38	4-Amino-4-deoxychorismate	Pyruvate	R05553	green
+4-amino-4-deoxychorismate synthase (2-amino-4-deoxychorismate-forming) component I	2.6.1.123	4-Amino-4-deoxychorismate	Chorismate	R12939	white
+4-amino-4-deoxychorismate synthase (2-amino-4-deoxychorismate-forming) component I	2.6.1.123	4-Amino-4-deoxychorismate	H2O	R12939	white
+4-amino-4-deoxychorismate synthase (2-amino-4-deoxychorismate-forming) component I	2.6.1.123	4-Amino-4-deoxychorismate	L-Glutamine	R12939	white
+4-amino-4-deoxychorismate synthase (2-amino-4-deoxychorismate-forming) component I	2.6.1.123	Ammonia	Chorismate	R12939	white
+4-amino-4-deoxychorismate synthase (2-amino-4-deoxychorismate-forming) component I	2.6.1.123	Ammonia	H2O	R12939	white
+4-amino-4-deoxychorismate synthase (2-amino-4-deoxychorismate-forming) component I	2.6.1.123	Ammonia	L-Glutamine	R12939	white
+4-amino-4-deoxychorismate synthase (2-amino-4-deoxychorismate-forming) component I	2.6.1.123	Chorismate	4-Amino-4-deoxychorismate	R12939	white
+4-amino-4-deoxychorismate synthase (2-amino-4-deoxychorismate-forming) component I	2.6.1.123	Chorismate	Ammonia	R12939	white
+4-amino-4-deoxychorismate synthase (2-amino-4-deoxychorismate-forming) component I	2.6.1.123	Chorismate	L-Glutamate	R12939	white
+4-amino-4-deoxychorismate synthase (2-amino-4-deoxychorismate-forming) component I	2.6.1.123	H2O	4-Amino-4-deoxychorismate	R12939	white
+4-amino-4-deoxychorismate synthase (2-amino-4-deoxychorismate-forming) component I	2.6.1.123	H2O	Ammonia	R12939	white
+4-amino-4-deoxychorismate synthase (2-amino-4-deoxychorismate-forming) component I	2.6.1.123	H2O	L-Glutamate	R12939	white
+4-amino-4-deoxychorismate synthase (2-amino-4-deoxychorismate-forming) component I	2.6.1.123	L-Glutamate	Chorismate	R12939	white
+4-amino-4-deoxychorismate synthase (2-amino-4-deoxychorismate-forming) component I	2.6.1.123	L-Glutamate	H2O	R12939	white
+4-amino-4-deoxychorismate synthase (2-amino-4-deoxychorismate-forming) component I	2.6.1.123	L-Glutamate	L-Glutamine	R12939	white
+4-amino-4-deoxychorismate synthase (2-amino-4-deoxychorismate-forming) component I	2.6.1.123	L-Glutamine	4-Amino-4-deoxychorismate	R12939	white
+4-amino-4-deoxychorismate synthase (2-amino-4-deoxychorismate-forming) component I	2.6.1.123	L-Glutamine	Ammonia	R12939	white
+4-amino-4-deoxychorismate synthase (2-amino-4-deoxychorismate-forming) component I	2.6.1.123	L-Glutamine	L-Glutamate	R12939	white
+4-amino-4-deoxychorismate synthase (2-amino-4-deoxychorismate-forming) component II	2.6.1.123	4-Amino-4-deoxychorismate	Chorismate	R12939	white
+4-amino-4-deoxychorismate synthase (2-amino-4-deoxychorismate-forming) component II	2.6.1.123	4-Amino-4-deoxychorismate	H2O	R12939	white
+4-amino-4-deoxychorismate synthase (2-amino-4-deoxychorismate-forming) component II	2.6.1.123	4-Amino-4-deoxychorismate	L-Glutamine	R12939	white
+4-amino-4-deoxychorismate synthase (2-amino-4-deoxychorismate-forming) component II	2.6.1.123	Ammonia	Chorismate	R12939	white
+4-amino-4-deoxychorismate synthase (2-amino-4-deoxychorismate-forming) component II	2.6.1.123	Ammonia	H2O	R12939	white
+4-amino-4-deoxychorismate synthase (2-amino-4-deoxychorismate-forming) component II	2.6.1.123	Ammonia	L-Glutamine	R12939	white
+4-amino-4-deoxychorismate synthase (2-amino-4-deoxychorismate-forming) component II	2.6.1.123	Chorismate	4-Amino-4-deoxychorismate	R12939	white
+4-amino-4-deoxychorismate synthase (2-amino-4-deoxychorismate-forming) component II	2.6.1.123	Chorismate	Ammonia	R12939	white
+4-amino-4-deoxychorismate synthase (2-amino-4-deoxychorismate-forming) component II	2.6.1.123	Chorismate	L-Glutamate	R12939	white
+4-amino-4-deoxychorismate synthase (2-amino-4-deoxychorismate-forming) component II	2.6.1.123	H2O	4-Amino-4-deoxychorismate	R12939	white
+4-amino-4-deoxychorismate synthase (2-amino-4-deoxychorismate-forming) component II	2.6.1.123	H2O	Ammonia	R12939	white
+4-amino-4-deoxychorismate synthase (2-amino-4-deoxychorismate-forming) component II	2.6.1.123	H2O	L-Glutamate	R12939	white
+4-amino-4-deoxychorismate synthase (2-amino-4-deoxychorismate-forming) component II	2.6.1.123	L-Glutamate	Chorismate	R12939	white
+4-amino-4-deoxychorismate synthase (2-amino-4-deoxychorismate-forming) component II	2.6.1.123	L-Glutamate	H2O	R12939	white
+4-amino-4-deoxychorismate synthase (2-amino-4-deoxychorismate-forming) component II	2.6.1.123	L-Glutamate	L-Glutamine	R12939	white
+4-amino-4-deoxychorismate synthase (2-amino-4-deoxychorismate-forming) component II	2.6.1.123	L-Glutamine	4-Amino-4-deoxychorismate	R12939	white
+4-amino-4-deoxychorismate synthase (2-amino-4-deoxychorismate-forming) component II	2.6.1.123	L-Glutamine	Ammonia	R12939	white
+4-amino-4-deoxychorismate synthase (2-amino-4-deoxychorismate-forming) component II	2.6.1.123	L-Glutamine	L-Glutamate	R12939	white
+4a-hydroxytetrahydrobiopterin dehydratase	4.2.1.96	4a-Hydroxytetrahydrobiopterin	Dihydrobiopterin	R04734	white
+4a-hydroxytetrahydrobiopterin dehydratase	4.2.1.96	4a-Hydroxytetrahydrobiopterin	H2O	R04734	white
+4a-hydroxytetrahydrobiopterin dehydratase	4.2.1.96	Dihydrobiopterin	4a-Hydroxytetrahydrobiopterin	R04734	white
+4a-hydroxytetrahydrobiopterin dehydratase	4.2.1.96	H2O	4a-Hydroxytetrahydrobiopterin	R04734	white
+6-pyruvoyltetrahydropterin/6-carboxytetrahydropterin synthase	4.2.3.12	6-Pyruvoyltetrahydropterin	7,8-Dihydroneopterin 3'-triphosphate	R04286	white
+6-pyruvoyltetrahydropterin/6-carboxytetrahydropterin synthase	4.2.3.12	7,8-Dihydroneopterin 3'-triphosphate	6-Pyruvoyltetrahydropterin	R04286	white
+6-pyruvoyltetrahydropterin/6-carboxytetrahydropterin synthase	4.2.3.12	7,8-Dihydroneopterin 3'-triphosphate	Triphosphate	R04286	white
+6-pyruvoyltetrahydropterin/6-carboxytetrahydropterin synthase	4.2.3.12	Triphosphate	7,8-Dihydroneopterin 3'-triphosphate	R04286	white
+7,8-dihydroneopterin 2',3'-cyclic phosphate phosphodiesterase	3.1.4.56	7,8-Dihydroneopterin 2',3'-cyclic phosphate	Dihydroneopterin phosphate	R10344	white
+7,8-dihydroneopterin 2',3'-cyclic phosphate phosphodiesterase	3.1.4.56	Dihydroneopterin phosphate	7,8-Dihydroneopterin 2',3'-cyclic phosphate	R10344	white
+7,8-dihydroneopterin 2',3'-cyclic phosphate phosphodiesterase	3.1.4.56	Dihydroneopterin phosphate	H2O	R10344	white
+7,8-dihydroneopterin 2',3'-cyclic phosphate phosphodiesterase	3.1.4.56	H2O	Dihydroneopterin phosphate	R10344	white
+7,8-dihydroneopterin aldolase/epimerase/oxygenase	4.1.2.25	7,8-Dihydromonapterin	7,8-Dihydroneopterin	R11073	green
+7,8-dihydroneopterin aldolase/epimerase/oxygenase	4.1.2.25	7,8-Dihydroneopterin	6-(Hydroxymethyl)-7,8-dihydropterin	R03504	green
+7,8-dihydroneopterin aldolase/epimerase/oxygenase	4.1.2.25	7,8-Dihydroneopterin	7,8-Dihydromonapterin	R11073	green
+7,8-dihydroneopterin aldolase/epimerase/oxygenase	4.1.2.25	7,8-Dihydroneopterin	7,8-Dihydroxanthopterin	R11037	green
+7,8-dihydroneopterin aldolase/epimerase/oxygenase	4.1.2.25	7,8-Dihydroneopterin	Formate	R11037	green
+7,8-dihydroneopterin aldolase/epimerase/oxygenase	4.1.2.25	7,8-Dihydroneopterin	Glycolaldehyde	R03504	green
+7,8-dihydroneopterin aldolase/epimerase/oxygenase	4.1.2.25	7,8-Dihydroneopterin	Glycolaldehyde	R11037	green
+7,8-dihydroneopterin aldolase/epimerase/oxygenase	4.1.2.25	Oxygen	7,8-Dihydroxanthopterin	R11037	green
+7,8-dihydroneopterin aldolase/epimerase/oxygenase	4.1.2.25	Oxygen	Formate	R11037	green
+7,8-dihydroneopterin aldolase/epimerase/oxygenase	4.1.2.25	Oxygen	Glycolaldehyde	R11037	green
+7,8-dihydropterin-6-yl-methyl-4-(beta-D-ribofuranosyl)aminobenzene 5'-phosphate synthase	2.5.1.105	4-(beta-D-Ribofuranosyl)aniline 5'-phosphate	Diphosphate	R10339	white
+7,8-dihydropterin-6-yl-methyl-4-(beta-D-ribofuranosyl)aminobenzene 5'-phosphate synthase	2.5.1.105	4-(beta-D-Ribofuranosyl)aniline 5'-phosphate	N-[(7,8-Dihydropterin-6-yl)methyl]-4-(beta-D-ribofuranosyl)aniline 5'-phosphate	R10339	white
+7,8-dihydropterin-6-yl-methyl-4-(beta-D-ribofuranosyl)aminobenzene 5'-phosphate synthase	2.5.1.105	6-Hydroxymethyl-7,8-dihydropterin diphosphate	Diphosphate	R10339	white
+7,8-dihydropterin-6-yl-methyl-4-(beta-D-ribofuranosyl)aminobenzene 5'-phosphate synthase	2.5.1.105	6-Hydroxymethyl-7,8-dihydropterin diphosphate	N-[(7,8-Dihydropterin-6-yl)methyl]-4-(beta-D-ribofuranosyl)aniline 5'-phosphate	R10339	white
+7,8-dihydropterin-6-yl-methyl-4-(beta-D-ribofuranosyl)aminobenzene 5'-phosphate synthase	2.5.1.105	Diphosphate	4-(beta-D-Ribofuranosyl)aniline 5'-phosphate	R10339	white
+7,8-dihydropterin-6-yl-methyl-4-(beta-D-ribofuranosyl)aminobenzene 5'-phosphate synthase	2.5.1.105	Diphosphate	6-Hydroxymethyl-7,8-dihydropterin diphosphate	R10339	white
+7,8-dihydropterin-6-yl-methyl-4-(beta-D-ribofuranosyl)aminobenzene 5'-phosphate synthase	2.5.1.105	N-[(7,8-Dihydropterin-6-yl)methyl]-4-(beta-D-ribofuranosyl)aniline 5'-phosphate	4-(beta-D-Ribofuranosyl)aniline 5'-phosphate	R10339	white
+7,8-dihydropterin-6-yl-methyl-4-(beta-D-ribofuranosyl)aminobenzene 5'-phosphate synthase	2.5.1.105	N-[(7,8-Dihydropterin-6-yl)methyl]-4-(beta-D-ribofuranosyl)aniline 5'-phosphate	6-Hydroxymethyl-7,8-dihydropterin diphosphate	R10339	white
+7-carboxy-7-deazaguanine synthase	4.3.99.3	6-Carboxy-5,6,7,8-tetrahydropterin	7-Carboxy-7-carbaguanine	R10002	white
+7-carboxy-7-deazaguanine synthase	4.3.99.3	6-Carboxy-5,6,7,8-tetrahydropterin	Ammonia	R10002	white
+7-carboxy-7-deazaguanine synthase	4.3.99.3	7-Carboxy-7-carbaguanine	6-Carboxy-5,6,7,8-tetrahydropterin	R10002	white
+7-carboxy-7-deazaguanine synthase	4.3.99.3	Ammonia	6-Carboxy-5,6,7,8-tetrahydropterin	R10002	white
+7-cyano-7-deazaguanine reductase	1.7.1.13	7-Aminomethyl-7-carbaguanine	7-Cyano-7-carbaguanine	R07605	white
+7-cyano-7-deazaguanine reductase	1.7.1.13	7-Aminomethyl-7-carbaguanine	H+	R07605	white
+7-cyano-7-deazaguanine reductase	1.7.1.13	7-Aminomethyl-7-carbaguanine	NADPH	R07605	white
+7-cyano-7-deazaguanine reductase	1.7.1.13	7-Cyano-7-carbaguanine	7-Aminomethyl-7-carbaguanine	R07605	white
+7-cyano-7-deazaguanine reductase	1.7.1.13	7-Cyano-7-carbaguanine	NADP+	R07605	white
+7-cyano-7-deazaguanine reductase	1.7.1.13	H+	7-Aminomethyl-7-carbaguanine	R07605	white
+7-cyano-7-deazaguanine reductase	1.7.1.13	H+	NADP+	R07605	white
+7-cyano-7-deazaguanine reductase	1.7.1.13	NADP+	7-Cyano-7-carbaguanine	R07605	white
+7-cyano-7-deazaguanine reductase	1.7.1.13	NADP+	H+	R07605	white
+7-cyano-7-deazaguanine reductase	1.7.1.13	NADP+	NADPH	R07605	white
+7-cyano-7-deazaguanine reductase	1.7.1.13	NADPH	7-Aminomethyl-7-carbaguanine	R07605	white
+7-cyano-7-deazaguanine reductase	1.7.1.13	NADPH	NADP+	R07605	white
+7-cyano-7-deazaguanine synthase	6.3.4.20	7-Carboxy-7-carbaguanine	7-Cyano-7-carbaguanine	R09978	white
+7-cyano-7-deazaguanine synthase	6.3.4.20	7-Carboxy-7-carbaguanine	ADP	R09978	white
+7-cyano-7-deazaguanine synthase	6.3.4.20	7-Carboxy-7-carbaguanine	H2O	R09978	white
+7-cyano-7-deazaguanine synthase	6.3.4.20	7-Carboxy-7-carbaguanine	Orthophosphate	R09978	white
+7-cyano-7-deazaguanine synthase	6.3.4.20	7-Cyano-7-carbaguanine	7-Carboxy-7-carbaguanine	R09978	white
+7-cyano-7-deazaguanine synthase	6.3.4.20	7-Cyano-7-carbaguanine	ATP	R09978	white
+7-cyano-7-deazaguanine synthase	6.3.4.20	7-Cyano-7-carbaguanine	Ammonia	R09978	white
+7-cyano-7-deazaguanine synthase	6.3.4.20	ADP	7-Carboxy-7-carbaguanine	R09978	white
+7-cyano-7-deazaguanine synthase	6.3.4.20	ADP	ATP	R09978	white
+7-cyano-7-deazaguanine synthase	6.3.4.20	ADP	Ammonia	R09978	white
+7-cyano-7-deazaguanine synthase	6.3.4.20	ATP	7-Cyano-7-carbaguanine	R09978	white
+7-cyano-7-deazaguanine synthase	6.3.4.20	ATP	ADP	R09978	white
+7-cyano-7-deazaguanine synthase	6.3.4.20	ATP	H2O	R09978	white
+7-cyano-7-deazaguanine synthase	6.3.4.20	ATP	Orthophosphate	R09978	white
+7-cyano-7-deazaguanine synthase	6.3.4.20	Ammonia	7-Cyano-7-carbaguanine	R09978	white
+7-cyano-7-deazaguanine synthase	6.3.4.20	Ammonia	ADP	R09978	white
+7-cyano-7-deazaguanine synthase	6.3.4.20	Ammonia	H2O	R09978	white
+7-cyano-7-deazaguanine synthase	6.3.4.20	Ammonia	Orthophosphate	R09978	white
+7-cyano-7-deazaguanine synthase	6.3.4.20	H2O	7-Carboxy-7-carbaguanine	R09978	white
+7-cyano-7-deazaguanine synthase	6.3.4.20	H2O	ATP	R09978	white
+7-cyano-7-deazaguanine synthase	6.3.4.20	H2O	Ammonia	R09978	white
+7-cyano-7-deazaguanine synthase	6.3.4.20	Orthophosphate	7-Carboxy-7-carbaguanine	R09978	white
+7-cyano-7-deazaguanine synthase	6.3.4.20	Orthophosphate	ATP	R09978	white
+7-cyano-7-deazaguanine synthase	6.3.4.20	Orthophosphate	Ammonia	R09978	white
+D-erythro-7,8-dihydroneopterin triphosphate epimerase	5.1.99.7	7,8-Dihydromonapterin 3'-triphosphate	7,8-Dihydroneopterin 3'-triphosphate	R11082	white
+D-erythro-7,8-dihydroneopterin triphosphate epimerase	5.1.99.7	7,8-Dihydroneopterin 3'-triphosphate	7,8-Dihydromonapterin 3'-triphosphate	R11082	white
+GTP 3',8-cyclase	4.1.99.22	GTP	(8S)-3',8-Cyclo-7,8-dihydroguanosine 5'-triphosphate	R09394	green
+GTP 3',8-cyclase	4.1.99.22	GTP	5'-Deoxyadenosine	R09394	green
+GTP 3',8-cyclase	4.1.99.22	GTP	Acceptor	R09394	green
+GTP 3',8-cyclase	4.1.99.22	GTP	L-Methionine	R09394	green
+GTP 3',8-cyclase	4.1.99.22	Reduced acceptor	(8S)-3',8-Cyclo-7,8-dihydroguanosine 5'-triphosphate	R09394	green
+GTP 3',8-cyclase	4.1.99.22	Reduced acceptor	5'-Deoxyadenosine	R09394	green
+GTP 3',8-cyclase	4.1.99.22	Reduced acceptor	Acceptor	R09394	green
+GTP 3',8-cyclase	4.1.99.22	Reduced acceptor	L-Methionine	R09394	green
+GTP 3',8-cyclase	4.1.99.22	S-Adenosyl-L-methionine	(8S)-3',8-Cyclo-7,8-dihydroguanosine 5'-triphosphate	R09394	green
+GTP 3',8-cyclase	4.1.99.22	S-Adenosyl-L-methionine	5'-Deoxyadenosine	R09394	green
+GTP 3',8-cyclase	4.1.99.22	S-Adenosyl-L-methionine	Acceptor	R09394	green
+GTP 3',8-cyclase	4.1.99.22	S-Adenosyl-L-methionine	L-Methionine	R09394	green
+GTP cyclohydrolase IA	3.5.4.16	2,5-Diaminopyrimidine nucleoside triphosphate	2,5-Diamino-6-(5'-triphosphoryl-3',4'-trihydroxy-2'-oxopentyl)-amino-4-oxopyrimidine	R05048	green
+GTP cyclohydrolase IA	3.5.4.16	7,8-Dihydroneopterin 3'-triphosphate	2,5-Diamino-6-(5'-triphosphoryl-3',4'-trihydroxy-2'-oxopentyl)-amino-4-oxopyrimidine	R04639	green
+GTP cyclohydrolase IA	3.5.4.16	Formamidopyrimidine nucleoside triphosphate	2,5-Diaminopyrimidine nucleoside triphosphate	R05046	green
+GTP cyclohydrolase IA	3.5.4.16	Formamidopyrimidine nucleoside triphosphate	Formate	R05046	green
+GTP cyclohydrolase IA	3.5.4.16	GTP	Formamidopyrimidine nucleoside triphosphate	R00428	green
+GTP cyclohydrolase IA	3.5.4.16	H2O	2,5-Diamino-6-(5'-triphosphoryl-3',4'-trihydroxy-2'-oxopentyl)-amino-4-oxopyrimidine	R04639	green
+GTP cyclohydrolase IA	3.5.4.16	H2O	2,5-Diaminopyrimidine nucleoside triphosphate	R05046	green
+GTP cyclohydrolase IA	3.5.4.16	H2O	Formamidopyrimidine nucleoside triphosphate	R00428	green
+GTP cyclohydrolase IA	3.5.4.16	H2O	Formate	R05046	green
+GTP cyclohydrolase IV	3.5.4.39	7,8-Dihydroneopterin 2',3'-cyclic phosphate	GTP	R10348	white
+GTP cyclohydrolase IV	3.5.4.39	7,8-Dihydroneopterin 2',3'-cyclic phosphate	H2O	R10348	white
+GTP cyclohydrolase IV	3.5.4.39	Diphosphate	GTP	R10348	white
+GTP cyclohydrolase IV	3.5.4.39	Diphosphate	H2O	R10348	white
+GTP cyclohydrolase IV	3.5.4.39	Formate	GTP	R10348	white
+GTP cyclohydrolase IV	3.5.4.39	Formate	H2O	R10348	white
+GTP cyclohydrolase IV	3.5.4.39	GTP	7,8-Dihydroneopterin 2',3'-cyclic phosphate	R10348	white
+GTP cyclohydrolase IV	3.5.4.39	GTP	Diphosphate	R10348	white
+GTP cyclohydrolase IV	3.5.4.39	GTP	Formate	R10348	white
+GTP cyclohydrolase IV	3.5.4.39	H2O	7,8-Dihydroneopterin 2',3'-cyclic phosphate	R10348	white
+GTP cyclohydrolase IV	3.5.4.39	H2O	Diphosphate	R10348	white
+GTP cyclohydrolase IV	3.5.4.39	H2O	Formate	R10348	white
+aldehyde reductase	1.1.1.21	D-Glyceraldehyde	Glycerol	R01036	white
+aldehyde reductase	1.1.1.21	D-Glyceraldehyde	NAD+	R01036	white
+aldehyde reductase	1.1.1.21	Glycerol	D-Glyceraldehyde	R01036	white
+aldehyde reductase	1.1.1.21	Glycerol	H+	R01036	white
+aldehyde reductase	1.1.1.21	Glycerol	NADH	R01036	white
+aldehyde reductase	1.1.1.21	H+	Glycerol	R01036	white
+aldehyde reductase	1.1.1.21	H+	NAD+	R01036	white
+aldehyde reductase	1.1.1.21	NAD+	D-Glyceraldehyde	R01036	white
+aldehyde reductase	1.1.1.21	NAD+	H+	R01036	white
+aldehyde reductase	1.1.1.21	NAD+	NADH	R01036	white
+aldehyde reductase	1.1.1.21	NADH	Glycerol	R01036	white
+aldehyde reductase	1.1.1.21	NADH	NAD+	R01036	white
+aldo-keto reductase family 1 member C3	1.1.1.51	Androstenedione	NAD+	R01836	white
+aldo-keto reductase family 1 member C3	1.1.1.51	Androstenedione	Testosterone	R01836	white
+aldo-keto reductase family 1 member C3	1.1.1.51	H+	NAD+	R01836	white
+aldo-keto reductase family 1 member C3	1.1.1.51	H+	Testosterone	R01836	white
+aldo-keto reductase family 1 member C3	1.1.1.51	NAD+	Androstenedione	R01836	white
+aldo-keto reductase family 1 member C3	1.1.1.51	NAD+	H+	R01836	white
+aldo-keto reductase family 1 member C3	1.1.1.51	NAD+	NADH	R01836	white
+aldo-keto reductase family 1 member C3	1.1.1.51	NADH	NAD+	R01836	white
+aldo-keto reductase family 1 member C3	1.1.1.51	NADH	Testosterone	R01836	white
+aldo-keto reductase family 1 member C3	1.1.1.51	Testosterone	Androstenedione	R01836	white
+aldo-keto reductase family 1 member C3	1.1.1.51	Testosterone	H+	R01836	white
+aldo-keto reductase family 1 member C3	1.1.1.51	Testosterone	NADH	R01836	white
+alkaline phosphatase D	3.1.3.1	7,8-Dihydroneopterin 3'-triphosphate	7,8-Dihydroneopterin	R04620	green
+alkaline phosphatase D	3.1.3.1	7,8-Dihydroneopterin 3'-triphosphate	Orthophosphate	R04620	green
+alkaline phosphatase D	3.1.3.1	H2O	7,8-Dihydroneopterin	R04620	green
+alkaline phosphatase D	3.1.3.1	H2O	Orthophosphate	R04620	green
+beta-ribofuranosylaminobenzene 5'-phosphate synthase	2.4.2.54	4-(beta-D-Ribofuranosyl)aniline 5'-phosphate	4-Aminobenzoate	R10337	white
+beta-ribofuranosylaminobenzene 5'-phosphate synthase	2.4.2.54	4-(beta-D-Ribofuranosyl)aniline 5'-phosphate	5-Phospho-alpha-D-ribose 1-diphosphate	R10337	white
+beta-ribofuranosylaminobenzene 5'-phosphate synthase	2.4.2.54	4-Aminobenzoate	4-(beta-D-Ribofuranosyl)aniline 5'-phosphate	R10337	white
+beta-ribofuranosylaminobenzene 5'-phosphate synthase	2.4.2.54	4-Aminobenzoate	CO2	R10337	white
+beta-ribofuranosylaminobenzene 5'-phosphate synthase	2.4.2.54	4-Aminobenzoate	Diphosphate	R10337	white
+beta-ribofuranosylaminobenzene 5'-phosphate synthase	2.4.2.54	5-Phospho-alpha-D-ribose 1-diphosphate	4-(beta-D-Ribofuranosyl)aniline 5'-phosphate	R10337	white
+beta-ribofuranosylaminobenzene 5'-phosphate synthase	2.4.2.54	5-Phospho-alpha-D-ribose 1-diphosphate	CO2	R10337	white
+beta-ribofuranosylaminobenzene 5'-phosphate synthase	2.4.2.54	5-Phospho-alpha-D-ribose 1-diphosphate	Diphosphate	R10337	white
+beta-ribofuranosylaminobenzene 5'-phosphate synthase	2.4.2.54	CO2	4-Aminobenzoate	R10337	white
+beta-ribofuranosylaminobenzene 5'-phosphate synthase	2.4.2.54	CO2	5-Phospho-alpha-D-ribose 1-diphosphate	R10337	white
+beta-ribofuranosylaminobenzene 5'-phosphate synthase	2.4.2.54	Diphosphate	4-Aminobenzoate	R10337	white
+beta-ribofuranosylaminobenzene 5'-phosphate synthase	2.4.2.54	Diphosphate	5-Phospho-alpha-D-ribose 1-diphosphate	R10337	white
+carbonyl reductase 1	1.1.1.184	H+	NADP+	R02581	white
+carbonyl reductase 1	1.1.1.184	H+	Prostaglandin F2alpha	R02581	white
+carbonyl reductase 1	1.1.1.184	NADP+	H+	R02581	white
+carbonyl reductase 1	1.1.1.184	NADP+	NADPH	R02581	white
+carbonyl reductase 1	1.1.1.184	NADP+	Prostaglandin E2	R02581	white
+carbonyl reductase 1	1.1.1.184	NADPH	NADP+	R02581	white
+carbonyl reductase 1	1.1.1.184	NADPH	Prostaglandin F2alpha	R02581	white
+carbonyl reductase 1	1.1.1.184	Prostaglandin E2	NADP+	R02581	white
+carbonyl reductase 1	1.1.1.184	Prostaglandin E2	Prostaglandin F2alpha	R02581	white
+carbonyl reductase 1	1.1.1.184	Prostaglandin F2alpha	H+	R02581	white
+carbonyl reductase 1	1.1.1.184	Prostaglandin F2alpha	NADPH	R02581	white
+carbonyl reductase 1	1.1.1.184	Prostaglandin F2alpha	Prostaglandin E2	R02581	white
+cyclic pyranopterin monophosphate synthase	4.6.1.17	(8S)-3',8-Cyclo-7,8-dihydroguanosine 5'-triphosphate	Diphosphate	R11372	green
+cyclic pyranopterin monophosphate synthase	4.6.1.17	(8S)-3',8-Cyclo-7,8-dihydroguanosine 5'-triphosphate	Precursor Z	R11372	green
+cyclic pyranopterin monophosphate synthase	4.6.1.17	H2O	Diphosphate	R11372	green
+cyclic pyranopterin monophosphate synthase	4.6.1.17	H2O	Precursor Z	R11372	green
+dihydrofolate reductase	1.5.1.3	Dihydrofolate	Folate	R02235	green
+dihydrofolate reductase	1.5.1.3	Dihydrofolate	Folate	R02236	green
+dihydrofolate reductase	1.5.1.3	Dihydrofolate	H+	R02235	green
+dihydrofolate reductase	1.5.1.3	Dihydrofolate	H+	R02236	green
+dihydrofolate reductase	1.5.1.3	Dihydrofolate	NADH	R02235	green
+dihydrofolate reductase	1.5.1.3	Dihydrofolate	NADPH	R02236	green
+dihydrofolate reductase	1.5.1.3	NAD+	Dihydrofolate	R00936	green
+dihydrofolate reductase	1.5.1.3	NAD+	Folate	R00937	green
+dihydrofolate reductase	1.5.1.3	NAD+	Folate	R02235	green
+dihydrofolate reductase	1.5.1.3	NAD+	H+	R00936	green
+dihydrofolate reductase	1.5.1.3	NAD+	H+	R00937	green
+dihydrofolate reductase	1.5.1.3	NAD+	H+	R02235	green
+dihydrofolate reductase	1.5.1.3	NAD+	NADH	R00936	green
+dihydrofolate reductase	1.5.1.3	NAD+	NADH	R00937	green
+dihydrofolate reductase	1.5.1.3	NAD+	NADH	R02235	green
+dihydrofolate reductase	1.5.1.3	NADP+	7,8-Dihydrobiopterin	R11765	green
+dihydrofolate reductase	1.5.1.3	NADP+	Dihydrofolate	R00939	green
+dihydrofolate reductase	1.5.1.3	NADP+	Folate	R00940	green
+dihydrofolate reductase	1.5.1.3	NADP+	Folate	R02236	green
+dihydrofolate reductase	1.5.1.3	NADP+	H+	R00939	green
+dihydrofolate reductase	1.5.1.3	NADP+	H+	R00940	green
+dihydrofolate reductase	1.5.1.3	NADP+	H+	R02236	green
+dihydrofolate reductase	1.5.1.3	NADP+	H+	R11765	green
+dihydrofolate reductase	1.5.1.3	NADP+	NADPH	R00939	green
+dihydrofolate reductase	1.5.1.3	NADP+	NADPH	R00940	green
+dihydrofolate reductase	1.5.1.3	NADP+	NADPH	R02236	green
+dihydrofolate reductase	1.5.1.3	NADP+	NADPH	R11765	green
+dihydrofolate reductase	1.5.1.3	Tetrahydrobiopterin	7,8-Dihydrobiopterin	R11765	green
+dihydrofolate reductase	1.5.1.3	Tetrahydrobiopterin	H+	R11765	green
+dihydrofolate reductase	1.5.1.3	Tetrahydrobiopterin	NADPH	R11765	green
+dihydrofolate reductase	1.5.1.3	Tetrahydrofolate	Dihydrofolate	R00936	green
+dihydrofolate reductase	1.5.1.3	Tetrahydrofolate	Dihydrofolate	R00939	green
+dihydrofolate reductase	1.5.1.3	Tetrahydrofolate	Folate	R00937	green
+dihydrofolate reductase	1.5.1.3	Tetrahydrofolate	Folate	R00940	green
+dihydrofolate reductase	1.5.1.3	Tetrahydrofolate	H+	R00936	green
+dihydrofolate reductase	1.5.1.3	Tetrahydrofolate	H+	R00937	green
+dihydrofolate reductase	1.5.1.3	Tetrahydrofolate	H+	R00939	green
+dihydrofolate reductase	1.5.1.3	Tetrahydrofolate	H+	R00940	green
+dihydrofolate reductase	1.5.1.3	Tetrahydrofolate	NADH	R00936	green
+dihydrofolate reductase	1.5.1.3	Tetrahydrofolate	NADH	R00937	green
+dihydrofolate reductase	1.5.1.3	Tetrahydrofolate	NADPH	R00939	green
+dihydrofolate reductase	1.5.1.3	Tetrahydrofolate	NADPH	R00940	green
+dihydrofolate synthase / folylpolyglutamate synthase	6.3.2.12	1)	ATP	R04241	green
+dihydrofolate synthase / folylpolyglutamate synthase	6.3.2.12	1)	C03541(n)	R04241	green
+dihydrofolate synthase / folylpolyglutamate synthase	6.3.2.12	1)	L-Glutamate	R04241	green
+dihydrofolate synthase / folylpolyglutamate synthase	6.3.2.12	ADP	ATP	R00942	green
+dihydrofolate synthase / folylpolyglutamate synthase	6.3.2.12	ADP	ATP	R04241	green
+dihydrofolate synthase / folylpolyglutamate synthase	6.3.2.12	ADP	C03541(n)	R04241	green
+dihydrofolate synthase / folylpolyglutamate synthase	6.3.2.12	ADP	L-Glutamate	R00942	green
+dihydrofolate synthase / folylpolyglutamate synthase	6.3.2.12	ADP	L-Glutamate	R04241	green
+dihydrofolate synthase / folylpolyglutamate synthase	6.3.2.12	ADP	Tetrahydrofolate	R00942	green
+dihydrofolate synthase / folylpolyglutamate synthase	6.3.2.12	ATP	1)	R04241	green
+dihydrofolate synthase / folylpolyglutamate synthase	6.3.2.12	ATP	ADP	R00942	green
+dihydrofolate synthase / folylpolyglutamate synthase	6.3.2.12	ATP	ADP	R02237	green
+dihydrofolate synthase / folylpolyglutamate synthase	6.3.2.12	ATP	ADP	R04241	green
+dihydrofolate synthase / folylpolyglutamate synthase	6.3.2.12	ATP	C03541(n	R04241	green
+dihydrofolate synthase / folylpolyglutamate synthase	6.3.2.12	ATP	Dihydrofolate	R02237	green
+dihydrofolate synthase / folylpolyglutamate synthase	6.3.2.12	ATP	Orthophosphate	R00942	green
+dihydrofolate synthase / folylpolyglutamate synthase	6.3.2.12	ATP	Orthophosphate	R02237	green
+dihydrofolate synthase / folylpolyglutamate synthase	6.3.2.12	ATP	Orthophosphate	R04241	green
+dihydrofolate synthase / folylpolyglutamate synthase	6.3.2.12	ATP	THF-L-glutamate	R00942	green
+dihydrofolate synthase / folylpolyglutamate synthase	6.3.2.12	C03541(n	ATP	R04241	green
+dihydrofolate synthase / folylpolyglutamate synthase	6.3.2.12	C03541(n	C03541(n)	R04241	green
+dihydrofolate synthase / folylpolyglutamate synthase	6.3.2.12	C03541(n	L-Glutamate	R04241	green
+dihydrofolate synthase / folylpolyglutamate synthase	6.3.2.12	C03541(n)	1)	R04241	green
+dihydrofolate synthase / folylpolyglutamate synthase	6.3.2.12	C03541(n)	ADP	R04241	green
+dihydrofolate synthase / folylpolyglutamate synthase	6.3.2.12	C03541(n)	C03541(n	R04241	green
+dihydrofolate synthase / folylpolyglutamate synthase	6.3.2.12	C03541(n)	Orthophosphate	R04241	green
+dihydrofolate synthase / folylpolyglutamate synthase	6.3.2.12	Dihydropteroate	ADP	R02237	green
+dihydrofolate synthase / folylpolyglutamate synthase	6.3.2.12	Dihydropteroate	Dihydrofolate	R02237	green
+dihydrofolate synthase / folylpolyglutamate synthase	6.3.2.12	Dihydropteroate	Orthophosphate	R02237	green
+dihydrofolate synthase / folylpolyglutamate synthase	6.3.2.12	L-Glutamate	1)	R04241	green
+dihydrofolate synthase / folylpolyglutamate synthase	6.3.2.12	L-Glutamate	ADP	R00942	green
+dihydrofolate synthase / folylpolyglutamate synthase	6.3.2.12	L-Glutamate	ADP	R02237	green
+dihydrofolate synthase / folylpolyglutamate synthase	6.3.2.12	L-Glutamate	ADP	R04241	green
+dihydrofolate synthase / folylpolyglutamate synthase	6.3.2.12	L-Glutamate	C03541(n	R04241	green
+dihydrofolate synthase / folylpolyglutamate synthase	6.3.2.12	L-Glutamate	Dihydrofolate	R02237	green
+dihydrofolate synthase / folylpolyglutamate synthase	6.3.2.12	L-Glutamate	Orthophosphate	R00942	green
+dihydrofolate synthase / folylpolyglutamate synthase	6.3.2.12	L-Glutamate	Orthophosphate	R02237	green
+dihydrofolate synthase / folylpolyglutamate synthase	6.3.2.12	L-Glutamate	Orthophosphate	R04241	green
+dihydrofolate synthase / folylpolyglutamate synthase	6.3.2.12	L-Glutamate	THF-L-glutamate	R00942	green
+dihydrofolate synthase / folylpolyglutamate synthase	6.3.2.12	Orthophosphate	ATP	R00942	green
+dihydrofolate synthase / folylpolyglutamate synthase	6.3.2.12	Orthophosphate	ATP	R04241	green
+dihydrofolate synthase / folylpolyglutamate synthase	6.3.2.12	Orthophosphate	C03541(n)	R04241	green
+dihydrofolate synthase / folylpolyglutamate synthase	6.3.2.12	Orthophosphate	L-Glutamate	R00942	green
+dihydrofolate synthase / folylpolyglutamate synthase	6.3.2.12	Orthophosphate	L-Glutamate	R04241	green
+dihydrofolate synthase / folylpolyglutamate synthase	6.3.2.12	Orthophosphate	Tetrahydrofolate	R00942	green
+dihydrofolate synthase / folylpolyglutamate synthase	6.3.2.12	THF-L-glutamate	ATP	R00942	green
+dihydrofolate synthase / folylpolyglutamate synthase	6.3.2.12	THF-L-glutamate	L-Glutamate	R00942	green
+dihydrofolate synthase / folylpolyglutamate synthase	6.3.2.12	THF-L-glutamate	Tetrahydrofolate	R00942	green
+dihydrofolate synthase / folylpolyglutamate synthase	6.3.2.12	Tetrahydrofolate	ADP	R00942	green
+dihydrofolate synthase / folylpolyglutamate synthase	6.3.2.12	Tetrahydrofolate	Orthophosphate	R00942	green
+dihydrofolate synthase / folylpolyglutamate synthase	6.3.2.12	Tetrahydrofolate	THF-L-glutamate	R00942	green
+dihydromethanopterin reductase	1.5.1.47	5,6,7,8-Tetrahydromethanopterin	7,8-Dihydromethanopterin	R03388	white
+dihydromethanopterin reductase	1.5.1.47	5,6,7,8-Tetrahydromethanopterin	H+	R03388	white
+dihydromethanopterin reductase	1.5.1.47	5,6,7,8-Tetrahydromethanopterin	NADPH	R03388	white
+dihydromethanopterin reductase	1.5.1.47	7,8-Dihydromethanopterin	5,6,7,8-Tetrahydromethanopterin	R03388	white
+dihydromethanopterin reductase	1.5.1.47	7,8-Dihydromethanopterin	NADP+	R03388	white
+dihydromethanopterin reductase	1.5.1.47	H+	5,6,7,8-Tetrahydromethanopterin	R03388	white
+dihydromethanopterin reductase	1.5.1.47	H+	NADP+	R03388	white
+dihydromethanopterin reductase	1.5.1.47	NADP+	7,8-Dihydromethanopterin	R03388	white
+dihydromethanopterin reductase	1.5.1.47	NADP+	H+	R03388	white
+dihydromethanopterin reductase	1.5.1.47	NADP+	NADPH	R03388	white
+dihydromethanopterin reductase	1.5.1.47	NADPH	5,6,7,8-Tetrahydromethanopterin	R03388	white
+dihydromethanopterin reductase	1.5.1.47	NADPH	NADP+	R03388	white
+dihydromethanopterin reductase (acceptor)	1.5.99.15	5,6,7,8-Tetrahydromethanopterin	7,8-Dihydromethanopterin	R10802	white
+dihydromethanopterin reductase (acceptor)	1.5.99.15	5,6,7,8-Tetrahydromethanopterin	Reduced acceptor	R10802	white
+dihydromethanopterin reductase (acceptor)	1.5.99.15	7,8-Dihydromethanopterin	5,6,7,8-Tetrahydromethanopterin	R10802	white
+dihydromethanopterin reductase (acceptor)	1.5.99.15	7,8-Dihydromethanopterin	Acceptor	R10802	white
+dihydromethanopterin reductase (acceptor)	1.5.99.15	Acceptor	7,8-Dihydromethanopterin	R10802	white
+dihydromethanopterin reductase (acceptor)	1.5.99.15	Acceptor	Reduced acceptor	R10802	white
+dihydromethanopterin reductase (acceptor)	1.5.99.15	Reduced acceptor	5,6,7,8-Tetrahydromethanopterin	R10802	white
+dihydromethanopterin reductase (acceptor)	1.5.99.15	Reduced acceptor	Acceptor	R10802	white
+dihydromonapterin reductase / dihydrofolate reductase	1.5.1.50	Dihydrofolate	NAD+	R00936	white
+dihydromonapterin reductase / dihydrofolate reductase	1.5.1.50	Dihydrofolate	Tetrahydrofolate	R00936	white
+dihydromonapterin reductase / dihydrofolate reductase	1.5.1.50	H+	NAD+	R00936	white
+dihydromonapterin reductase / dihydrofolate reductase	1.5.1.50	H+	Tetrahydrofolate	R00936	white
+dihydromonapterin reductase / dihydrofolate reductase	1.5.1.50	NAD+	Dihydrofolate	R00936	white
+dihydromonapterin reductase / dihydrofolate reductase	1.5.1.50	NAD+	H+	R00936	white
+dihydromonapterin reductase / dihydrofolate reductase	1.5.1.50	NAD+	NADH	R00936	white
+dihydromonapterin reductase / dihydrofolate reductase	1.5.1.50	NADH	NAD+	R00936	white
+dihydromonapterin reductase / dihydrofolate reductase	1.5.1.50	NADH	Tetrahydrofolate	R00936	white
+dihydromonapterin reductase / dihydrofolate reductase	1.5.1.50	Tetrahydrofolate	Dihydrofolate	R00936	white
+dihydromonapterin reductase / dihydrofolate reductase	1.5.1.50	Tetrahydrofolate	H+	R00936	white
+dihydromonapterin reductase / dihydrofolate reductase	1.5.1.50	Tetrahydrofolate	NADH	R00936	white
+dihydroneopterin phosphate aldolase	4.1.2.59	6-(Hydroxymethyl)-7,8-dihydropterin	Dihydroneopterin phosphate	R11718	white
+dihydroneopterin phosphate aldolase	4.1.2.59	Dihydroneopterin phosphate	6-(Hydroxymethyl)-7,8-dihydropterin	R11718	white
+dihydroneopterin phosphate aldolase	4.1.2.59	Dihydroneopterin phosphate	Glycolaldehyde phosphate	R11718	white
+dihydroneopterin phosphate aldolase	4.1.2.59	Glycolaldehyde phosphate	Dihydroneopterin phosphate	R11718	white
+dihydroneopterin triphosphate aldolase (PTPS-III) / 6-pyruvoyltetrahydropterin synthase	4.1.2.60	6-Pyruvoyltetrahydropterin	7,8-Dihydroneopterin 3'-triphosphate	R04286	white
+dihydroneopterin triphosphate aldolase (PTPS-III) / 6-pyruvoyltetrahydropterin synthase	4.1.2.60	7,8-Dihydroneopterin 3'-triphosphate	6-Pyruvoyltetrahydropterin	R04286	white
+dihydroneopterin triphosphate aldolase (PTPS-III) / 6-pyruvoyltetrahydropterin synthase	4.1.2.60	7,8-Dihydroneopterin 3'-triphosphate	Triphosphate	R04286	white
+dihydroneopterin triphosphate aldolase (PTPS-III) / 6-pyruvoyltetrahydropterin synthase	4.1.2.60	Triphosphate	7,8-Dihydroneopterin 3'-triphosphate	R04286	white
+dihydroneopterin triphosphate diphosphatase	3.6.1.67	7,8-Dihydroneopterin 3'-triphosphate	Dihydroneopterin phosphate	R04638	white
+dihydroneopterin triphosphate diphosphatase	3.6.1.67	7,8-Dihydroneopterin 3'-triphosphate	Diphosphate	R04638	white
+dihydroneopterin triphosphate diphosphatase	3.6.1.67	Dihydroneopterin phosphate	7,8-Dihydroneopterin 3'-triphosphate	R04638	white
+dihydroneopterin triphosphate diphosphatase	3.6.1.67	Dihydroneopterin phosphate	H2O	R04638	white
+dihydroneopterin triphosphate diphosphatase	3.6.1.67	Diphosphate	7,8-Dihydroneopterin 3'-triphosphate	R04638	white
+dihydroneopterin triphosphate diphosphatase	3.6.1.67	Diphosphate	H2O	R04638	white
+dihydroneopterin triphosphate diphosphatase	3.6.1.67	H2O	Dihydroneopterin phosphate	R04638	white
+dihydroneopterin triphosphate diphosphatase	3.6.1.67	H2O	Diphosphate	R04638	white
+dihydroneopterin triphosphate pyrophosphohydrolase	3.6.1.67	7,8-Dihydroneopterin 3'-triphosphate	Dihydroneopterin phosphate	R04638	white
+dihydroneopterin triphosphate pyrophosphohydrolase	3.6.1.67	7,8-Dihydroneopterin 3'-triphosphate	Diphosphate	R04638	white
+dihydroneopterin triphosphate pyrophosphohydrolase	3.6.1.67	Dihydroneopterin phosphate	7,8-Dihydroneopterin 3'-triphosphate	R04638	white
+dihydroneopterin triphosphate pyrophosphohydrolase	3.6.1.67	Dihydroneopterin phosphate	H2O	R04638	white
+dihydroneopterin triphosphate pyrophosphohydrolase	3.6.1.67	Diphosphate	7,8-Dihydroneopterin 3'-triphosphate	R04638	white
+dihydroneopterin triphosphate pyrophosphohydrolase	3.6.1.67	Diphosphate	H2O	R04638	white
+dihydroneopterin triphosphate pyrophosphohydrolase	3.6.1.67	H2O	Dihydroneopterin phosphate	R04638	white
+dihydroneopterin triphosphate pyrophosphohydrolase	3.6.1.67	H2O	Diphosphate	R04638	white
+dihydropteridine reductase	1.5.1.34	Dihydrobiopterin	NAD+	R01793	white
+dihydropteridine reductase	1.5.1.34	Dihydrobiopterin	Tetrahydrobiopterin	R01793	white
+dihydropteridine reductase	1.5.1.34	H+	NAD+	R01793	white
+dihydropteridine reductase	1.5.1.34	H+	Tetrahydrobiopterin	R01793	white
+dihydropteridine reductase	1.5.1.34	NAD+	Dihydrobiopterin	R01793	white
+dihydropteridine reductase	1.5.1.34	NAD+	H+	R01793	white
+dihydropteridine reductase	1.5.1.34	NAD+	NADH	R01793	white
+dihydropteridine reductase	1.5.1.34	NADH	NAD+	R01793	white
+dihydropteridine reductase	1.5.1.34	NADH	Tetrahydrobiopterin	R01793	white
+dihydropteridine reductase	1.5.1.34	Tetrahydrobiopterin	Dihydrobiopterin	R01793	white
+dihydropteridine reductase	1.5.1.34	Tetrahydrobiopterin	H+	R01793	white
+dihydropteridine reductase	1.5.1.34	Tetrahydrobiopterin	NADH	R01793	white
+dihydropteroate synthase	2.5.1.15	4-Aminobenzoate	Dihydropteroate	R03066	green
+dihydropteroate synthase	2.5.1.15	4-Aminobenzoate	Dihydropteroate	R03067	green
+dihydropteroate synthase	2.5.1.15	4-Aminobenzoate	Diphosphate	R03067	green
+dihydropteroate synthase	2.5.1.15	4-Aminobenzoate	H2O	R03066	green
+dihydropteroate synthase	2.5.1.15	6-(Hydroxymethyl)-7,8-dihydropterin	Dihydropteroate	R03066	green
+dihydropteroate synthase	2.5.1.15	6-(Hydroxymethyl)-7,8-dihydropterin	H2O	R03066	green
+dihydropteroate synthase	2.5.1.15	6-Hydroxymethyl-7,8-dihydropterin diphosphate	Dihydropteroate	R03067	green
+dihydropteroate synthase	2.5.1.15	6-Hydroxymethyl-7,8-dihydropterin diphosphate	Diphosphate	R03067	green
+gamma-glutamyl hydrolase	3.4.19.9	H2O	L-Glutamate	R04242	white
+gamma-glutamyl hydrolase	3.4.19.9	H2O	Tetrahydrofolate	R04242	white
+gamma-glutamyl hydrolase	3.4.19.9	L-Glutamate	H2O	R04242	white
+gamma-glutamyl hydrolase	3.4.19.9	L-Glutamate	THF-polyglutamate	R04242	white
+gamma-glutamyl hydrolase	3.4.19.9	THF-polyglutamate	L-Glutamate	R04242	white
+gamma-glutamyl hydrolase	3.4.19.9	THF-polyglutamate	Tetrahydrofolate	R04242	white
+gamma-glutamyl hydrolase	3.4.19.9	Tetrahydrofolate	H2O	R04242	white
+gamma-glutamyl hydrolase	3.4.19.9	Tetrahydrofolate	THF-polyglutamate	R04242	white
+gephyrin	2.10.1.1	ATP	Adenylated molybdopterin	R09726	white
+gephyrin	2.10.1.1	ATP	Diphosphate	R09726	white
+gephyrin	2.10.1.1	Adenylated molybdopterin	ATP	R09726	white
+gephyrin	2.10.1.1	Adenylated molybdopterin	Molybdopterin	R09726	white
+gephyrin	2.10.1.1	Diphosphate	ATP	R09726	white
+gephyrin	2.10.1.1	Diphosphate	Molybdopterin	R09726	white
+gephyrin	2.10.1.1	Molybdopterin	Adenylated molybdopterin	R09726	white
+gephyrin	2.10.1.1	Molybdopterin	Diphosphate	R09726	white
+molybdenum cofactor cytidylyltransferase	2.7.7.76	CTP	Cytidylyl molybdenum cofactor	R11582	white
+molybdenum cofactor cytidylyltransferase	2.7.7.76	CTP	Diphosphate	R11582	white
+molybdenum cofactor cytidylyltransferase	2.7.7.76	Cytidylyl molybdenum cofactor	CTP	R11582	white
+molybdenum cofactor cytidylyltransferase	2.7.7.76	Cytidylyl molybdenum cofactor	Molybdoenzyme molybdenum cofactor	R11582	white
+molybdenum cofactor cytidylyltransferase	2.7.7.76	Diphosphate	CTP	R11582	white
+molybdenum cofactor cytidylyltransferase	2.7.7.76	Diphosphate	Molybdoenzyme molybdenum cofactor	R11582	white
+molybdenum cofactor cytidylyltransferase	2.7.7.76	Molybdoenzyme molybdenum cofactor	Cytidylyl molybdenum cofactor	R11582	white
+molybdenum cofactor cytidylyltransferase	2.7.7.76	Molybdoenzyme molybdenum cofactor	Diphosphate	R11582	white
+molybdenum cofactor guanylyltransferase	2.7.7.77	Diphosphate	GTP	R11581	white
+molybdenum cofactor guanylyltransferase	2.7.7.77	Diphosphate	Molybdoenzyme molybdenum cofactor	R11581	white
+molybdenum cofactor guanylyltransferase	2.7.7.77	GTP	Diphosphate	R11581	white
+molybdenum cofactor guanylyltransferase	2.7.7.77	GTP	Guanylyl molybdenum cofactor	R11581	white
+molybdenum cofactor guanylyltransferase	2.7.7.77	Guanylyl molybdenum cofactor	GTP	R11581	white
+molybdenum cofactor guanylyltransferase	2.7.7.77	Guanylyl molybdenum cofactor	Molybdoenzyme molybdenum cofactor	R11581	white
+molybdenum cofactor guanylyltransferase	2.7.7.77	Molybdoenzyme molybdenum cofactor	Diphosphate	R11581	white
+molybdenum cofactor guanylyltransferase	2.7.7.77	Molybdoenzyme molybdenum cofactor	Guanylyl molybdenum cofactor	R11581	white
+molybdenum cofactor sulfurtransferase	2.8.1.9	Acceptor	H+	R11583	white
+molybdenum cofactor sulfurtransferase	2.8.1.9	Acceptor	L-Cysteine	R11583	white
+molybdenum cofactor sulfurtransferase	2.8.1.9	Acceptor	Molybdoenzyme molybdenum cofactor	R11583	white
+molybdenum cofactor sulfurtransferase	2.8.1.9	Acceptor	Reduced acceptor	R11583	white
+molybdenum cofactor sulfurtransferase	2.8.1.9	H+	Acceptor	R11583	white
+molybdenum cofactor sulfurtransferase	2.8.1.9	H+	H2O	R11583	white
+molybdenum cofactor sulfurtransferase	2.8.1.9	H+	L-Alanine	R11583	white
+molybdenum cofactor sulfurtransferase	2.8.1.9	H+	Thio-molybdenum cofactor	R11583	white
+molybdenum cofactor sulfurtransferase	2.8.1.9	H2O	H+	R11583	white
+molybdenum cofactor sulfurtransferase	2.8.1.9	H2O	L-Cysteine	R11583	white
+molybdenum cofactor sulfurtransferase	2.8.1.9	H2O	Molybdoenzyme molybdenum cofactor	R11583	white
+molybdenum cofactor sulfurtransferase	2.8.1.9	H2O	Reduced acceptor	R11583	white
+molybdenum cofactor sulfurtransferase	2.8.1.9	L-Alanine	H+	R11583	white
+molybdenum cofactor sulfurtransferase	2.8.1.9	L-Alanine	L-Cysteine	R11583	white
+molybdenum cofactor sulfurtransferase	2.8.1.9	L-Alanine	Molybdoenzyme molybdenum cofactor	R11583	white
+molybdenum cofactor sulfurtransferase	2.8.1.9	L-Alanine	Reduced acceptor	R11583	white
+molybdenum cofactor sulfurtransferase	2.8.1.9	L-Cysteine	Acceptor	R11583	white
+molybdenum cofactor sulfurtransferase	2.8.1.9	L-Cysteine	H2O	R11583	white
+molybdenum cofactor sulfurtransferase	2.8.1.9	L-Cysteine	L-Alanine	R11583	white
+molybdenum cofactor sulfurtransferase	2.8.1.9	L-Cysteine	Thio-molybdenum cofactor	R11583	white
+molybdenum cofactor sulfurtransferase	2.8.1.9	Molybdoenzyme molybdenum cofactor	Acceptor	R11583	white
+molybdenum cofactor sulfurtransferase	2.8.1.9	Molybdoenzyme molybdenum cofactor	H2O	R11583	white
+molybdenum cofactor sulfurtransferase	2.8.1.9	Molybdoenzyme molybdenum cofactor	L-Alanine	R11583	white
+molybdenum cofactor sulfurtransferase	2.8.1.9	Molybdoenzyme molybdenum cofactor	Thio-molybdenum cofactor	R11583	white
+molybdenum cofactor sulfurtransferase	2.8.1.9	Reduced acceptor	Acceptor	R11583	white
+molybdenum cofactor sulfurtransferase	2.8.1.9	Reduced acceptor	H2O	R11583	white
+molybdenum cofactor sulfurtransferase	2.8.1.9	Reduced acceptor	L-Alanine	R11583	white
+molybdenum cofactor sulfurtransferase	2.8.1.9	Reduced acceptor	Thio-molybdenum cofactor	R11583	white
+molybdenum cofactor sulfurtransferase	2.8.1.9	Thio-molybdenum cofactor	H+	R11583	white
+molybdenum cofactor sulfurtransferase	2.8.1.9	Thio-molybdenum cofactor	L-Cysteine	R11583	white
+molybdenum cofactor sulfurtransferase	2.8.1.9	Thio-molybdenum cofactor	Molybdoenzyme molybdenum cofactor	R11583	white
+molybdenum cofactor sulfurtransferase	2.8.1.9	Thio-molybdenum cofactor	Reduced acceptor	R11583	white
+molybdopterin adenylyltransferase	2.7.7.75	ATP	Adenylated molybdopterin	R09726	white
+molybdopterin adenylyltransferase	2.7.7.75	ATP	Diphosphate	R09726	white
+molybdopterin adenylyltransferase	2.7.7.75	Adenylated molybdopterin	ATP	R09726	white
+molybdopterin adenylyltransferase	2.7.7.75	Adenylated molybdopterin	Molybdopterin	R09726	white
+molybdopterin adenylyltransferase	2.7.7.75	Diphosphate	ATP	R09726	white
+molybdopterin adenylyltransferase	2.7.7.75	Diphosphate	Molybdopterin	R09726	white
+molybdopterin adenylyltransferase	2.7.7.75	Molybdopterin	Adenylated molybdopterin	R09726	white
+molybdopterin adenylyltransferase	2.7.7.75	Molybdopterin	Diphosphate	R09726	white
+molybdopterin molybdotransferase	2.10.1.1	Adenylated molybdopterin	AMP	R09735	green
+molybdopterin molybdotransferase	2.10.1.1	Adenylated molybdopterin	H2O	R09735	green
+molybdopterin molybdotransferase	2.10.1.1	Adenylated molybdopterin	Molybdoenzyme molybdenum cofactor	R09735	green
+molybdopterin molybdotransferase	2.10.1.1	Molybdate	AMP	R09735	green
+molybdopterin molybdotransferase	2.10.1.1	Molybdate	H2O	R09735	green
+molybdopterin molybdotransferase	2.10.1.1	Molybdate	Molybdoenzyme molybdenum cofactor	R09735	green
+molybdopterin synthase catalytic subunit	2.8.1.12	Precursor Z	Molybdopterin	R09395	green
+molybdopterin synthase catalytic subunit	2.8.1.12	Precursor Z	Sulfur-carrier protein	R09395	green
+molybdopterin synthase catalytic subunit	2.8.1.12	Thiocarboxy-[sulfur-carrier protein]	Molybdopterin	R09395	green
+molybdopterin synthase catalytic subunit	2.8.1.12	Thiocarboxy-[sulfur-carrier protein]	Sulfur-carrier protein	R09395	green
+molybdopterin-guanine dinucleotide biosynthesis protein	2.7.7.77	Diphosphate	GTP	R11581	white
+molybdopterin-guanine dinucleotide biosynthesis protein	2.7.7.77	Diphosphate	Molybdoenzyme molybdenum cofactor	R11581	white
+molybdopterin-guanine dinucleotide biosynthesis protein	2.7.7.77	GTP	Diphosphate	R11581	white
+molybdopterin-guanine dinucleotide biosynthesis protein	2.7.7.77	GTP	Guanylyl molybdenum cofactor	R11581	white
+molybdopterin-guanine dinucleotide biosynthesis protein	2.7.7.77	Guanylyl molybdenum cofactor	GTP	R11581	white
+molybdopterin-guanine dinucleotide biosynthesis protein	2.7.7.77	Guanylyl molybdenum cofactor	Molybdoenzyme molybdenum cofactor	R11581	white
+molybdopterin-guanine dinucleotide biosynthesis protein	2.7.7.77	Molybdoenzyme molybdenum cofactor	Diphosphate	R11581	white
+molybdopterin-guanine dinucleotide biosynthesis protein	2.7.7.77	Molybdoenzyme molybdenum cofactor	Guanylyl molybdenum cofactor	R11581	white
+para-aminobenzoate synthetase	2.6.1.85	Chorismate	4-Amino-4-deoxychorismate	R01716	green
+para-aminobenzoate synthetase	2.6.1.85	Chorismate	L-Glutamate	R01716	green
+para-aminobenzoate synthetase	2.6.1.85	L-Glutamine	4-Amino-4-deoxychorismate	R01716	green
+para-aminobenzoate synthetase	2.6.1.85	L-Glutamine	L-Glutamate	R01716	green
+para-aminobenzoate synthetase component II	2.6.1.85	Chorismate	4-Amino-4-deoxychorismate	R01716	green
+para-aminobenzoate synthetase component II	2.6.1.85	Chorismate	L-Glutamate	R01716	green
+para-aminobenzoate synthetase component II	2.6.1.85	L-Glutamine	4-Amino-4-deoxychorismate	R01716	green
+para-aminobenzoate synthetase component II	2.6.1.85	L-Glutamine	L-Glutamate	R01716	green
+phenylalanine-4-hydroxylase	1.14.16.1	Dihydrobiopterin	L-Phenylalanine	R01795	white
+phenylalanine-4-hydroxylase	1.14.16.1	Dihydrobiopterin	Oxygen	R01795	white
+phenylalanine-4-hydroxylase	1.14.16.1	Dihydrobiopterin	Tetrahydrobiopterin	R01795	white
+phenylalanine-4-hydroxylase	1.14.16.1	H2O	L-Phenylalanine	R01795	white
+phenylalanine-4-hydroxylase	1.14.16.1	H2O	Oxygen	R01795	white
+phenylalanine-4-hydroxylase	1.14.16.1	H2O	Tetrahydrobiopterin	R01795	white
+phenylalanine-4-hydroxylase	1.14.16.1	L-Phenylalanine	Dihydrobiopterin	R01795	white
+phenylalanine-4-hydroxylase	1.14.16.1	L-Phenylalanine	H2O	R01795	white
+phenylalanine-4-hydroxylase	1.14.16.1	L-Phenylalanine	L-Tyrosine	R01795	white
+phenylalanine-4-hydroxylase	1.14.16.1	L-Tyrosine	L-Phenylalanine	R01795	white
+phenylalanine-4-hydroxylase	1.14.16.1	L-Tyrosine	Oxygen	R01795	white
+phenylalanine-4-hydroxylase	1.14.16.1	L-Tyrosine	Tetrahydrobiopterin	R01795	white
+phenylalanine-4-hydroxylase	1.14.16.1	Oxygen	Dihydrobiopterin	R01795	white
+phenylalanine-4-hydroxylase	1.14.16.1	Oxygen	H2O	R01795	white
+phenylalanine-4-hydroxylase	1.14.16.1	Oxygen	L-Tyrosine	R01795	white
+phenylalanine-4-hydroxylase	1.14.16.1	Tetrahydrobiopterin	Dihydrobiopterin	R01795	white
+phenylalanine-4-hydroxylase	1.14.16.1	Tetrahydrobiopterin	H2O	R01795	white
+phenylalanine-4-hydroxylase	1.14.16.1	Tetrahydrobiopterin	L-Tyrosine	R01795	white
+pteridine reductase	1.5.1.33	Biopterin	NADP+	R01812	white
+pteridine reductase	1.5.1.33	Biopterin	Tetrahydrobiopterin	R01812	white
+pteridine reductase	1.5.1.33	H+	NADP+	R01812	white
+pteridine reductase	1.5.1.33	H+	Tetrahydrobiopterin	R01812	white
+pteridine reductase	1.5.1.33	NADP+	Biopterin	R01812	white
+pteridine reductase	1.5.1.33	NADP+	H+	R01812	white
+pteridine reductase	1.5.1.33	NADP+	NADPH	R01812	white
+pteridine reductase	1.5.1.33	NADPH	NADP+	R01812	white
+pteridine reductase	1.5.1.33	NADPH	Tetrahydrobiopterin	R01812	white
+pteridine reductase	1.5.1.33	Tetrahydrobiopterin	Biopterin	R01812	white
+pteridine reductase	1.5.1.33	Tetrahydrobiopterin	H+	R01812	white
+pteridine reductase	1.5.1.33	Tetrahydrobiopterin	NADPH	R01812	white
+pyrimidodiazepine synthase	1.5.4.1	6-Pyruvoyltetrahydropterin	Glutathione disulfide	R03984	white
+pyrimidodiazepine synthase	1.5.4.1	6-Pyruvoyltetrahydropterin	H2O	R03984	white
+pyrimidodiazepine synthase	1.5.4.1	6-Pyruvoyltetrahydropterin	Pyrimidodiazepine	R03984	white
+pyrimidodiazepine synthase	1.5.4.1	Glutathione	Glutathione disulfide	R03984	white
+pyrimidodiazepine synthase	1.5.4.1	Glutathione	H2O	R03984	white
+pyrimidodiazepine synthase	1.5.4.1	Glutathione	Pyrimidodiazepine	R03984	white
+pyrimidodiazepine synthase	1.5.4.1	Glutathione disulfide	6-Pyruvoyltetrahydropterin	R03984	white
+pyrimidodiazepine synthase	1.5.4.1	Glutathione disulfide	Glutathione	R03984	white
+pyrimidodiazepine synthase	1.5.4.1	H2O	6-Pyruvoyltetrahydropterin	R03984	white
+pyrimidodiazepine synthase	1.5.4.1	H2O	Glutathione	R03984	white
+pyrimidodiazepine synthase	1.5.4.1	Pyrimidodiazepine	6-Pyruvoyltetrahydropterin	R03984	white
+pyrimidodiazepine synthase	1.5.4.1	Pyrimidodiazepine	Glutathione	R03984	white
+sepiapterin reductase	1.1.1.325	H+	L-threo-7,8-Dihydrobiopterin	R09989	white
+sepiapterin reductase	1.1.1.325	H+	NADP+	R09989	white
+sepiapterin reductase	1.1.1.325	L-threo-7,8-Dihydrobiopterin	H+	R09989	white
+sepiapterin reductase	1.1.1.325	L-threo-7,8-Dihydrobiopterin	NADPH	R09989	white
+sepiapterin reductase	1.1.1.325	L-threo-7,8-Dihydrobiopterin	Sepiapterin	R09989	white
+sepiapterin reductase	1.1.1.325	NADP+	H+	R09989	white
+sepiapterin reductase	1.1.1.325	NADP+	NADPH	R09989	white
+sepiapterin reductase	1.1.1.325	NADP+	Sepiapterin	R09989	white
+sepiapterin reductase	1.1.1.325	NADPH	L-threo-7,8-Dihydrobiopterin	R09989	white
+sepiapterin reductase	1.1.1.325	NADPH	NADP+	R09989	white
+sepiapterin reductase	1.1.1.325	Sepiapterin	L-threo-7,8-Dihydrobiopterin	R09989	white
+sepiapterin reductase	1.1.1.325	Sepiapterin	NADP+	R09989	white
+tetrahydromethanopterin:alpha-L-glutamate ligase	6.3.2.33	5,6,7,8-Tetrahydromethanopterin	ADP	R09594	white
+tetrahydromethanopterin:alpha-L-glutamate ligase	6.3.2.33	5,6,7,8-Tetrahydromethanopterin	Orthophosphate	R09594	white
+tetrahydromethanopterin:alpha-L-glutamate ligase	6.3.2.33	5,6,7,8-Tetrahydromethanopterin	Tetrahydrosarcinapterin	R09594	white
+tetrahydromethanopterin:alpha-L-glutamate ligase	6.3.2.33	ADP	5,6,7,8-Tetrahydromethanopterin	R09594	white
+tetrahydromethanopterin:alpha-L-glutamate ligase	6.3.2.33	ADP	ATP	R09594	white
+tetrahydromethanopterin:alpha-L-glutamate ligase	6.3.2.33	ADP	L-Glutamate	R09594	white
+tetrahydromethanopterin:alpha-L-glutamate ligase	6.3.2.33	ATP	ADP	R09594	white
+tetrahydromethanopterin:alpha-L-glutamate ligase	6.3.2.33	ATP	Orthophosphate	R09594	white
+tetrahydromethanopterin:alpha-L-glutamate ligase	6.3.2.33	ATP	Tetrahydrosarcinapterin	R09594	white
+tetrahydromethanopterin:alpha-L-glutamate ligase	6.3.2.33	L-Glutamate	ADP	R09594	white
+tetrahydromethanopterin:alpha-L-glutamate ligase	6.3.2.33	L-Glutamate	Orthophosphate	R09594	white
+tetrahydromethanopterin:alpha-L-glutamate ligase	6.3.2.33	L-Glutamate	Tetrahydrosarcinapterin	R09594	white
+tetrahydromethanopterin:alpha-L-glutamate ligase	6.3.2.33	Orthophosphate	5,6,7,8-Tetrahydromethanopterin	R09594	white
+tetrahydromethanopterin:alpha-L-glutamate ligase	6.3.2.33	Orthophosphate	ATP	R09594	white
+tetrahydromethanopterin:alpha-L-glutamate ligase	6.3.2.33	Orthophosphate	L-Glutamate	R09594	white
+tetrahydromethanopterin:alpha-L-glutamate ligase	6.3.2.33	Tetrahydrosarcinapterin	5,6,7,8-Tetrahydromethanopterin	R09594	white
+tetrahydromethanopterin:alpha-L-glutamate ligase	6.3.2.33	Tetrahydrosarcinapterin	ATP	R09594	white
+tetrahydromethanopterin:alpha-L-glutamate ligase	6.3.2.33	Tetrahydrosarcinapterin	L-Glutamate	R09594	white
+tryptophan 5-monooxygenase	1.14.16.4	5-Hydroxy-L-tryptophan	L-Tryptophan	R01814	white
+tryptophan 5-monooxygenase	1.14.16.4	5-Hydroxy-L-tryptophan	Oxygen	R01814	white
+tryptophan 5-monooxygenase	1.14.16.4	5-Hydroxy-L-tryptophan	Tetrahydrobiopterin	R01814	white
+tryptophan 5-monooxygenase	1.14.16.4	Dihydrobiopterin	L-Tryptophan	R01814	white
+tryptophan 5-monooxygenase	1.14.16.4	Dihydrobiopterin	Oxygen	R01814	white
+tryptophan 5-monooxygenase	1.14.16.4	Dihydrobiopterin	Tetrahydrobiopterin	R01814	white
+tryptophan 5-monooxygenase	1.14.16.4	H2O	L-Tryptophan	R01814	white
+tryptophan 5-monooxygenase	1.14.16.4	H2O	Oxygen	R01814	white
+tryptophan 5-monooxygenase	1.14.16.4	H2O	Tetrahydrobiopterin	R01814	white
+tryptophan 5-monooxygenase	1.14.16.4	L-Tryptophan	5-Hydroxy-L-tryptophan	R01814	white
+tryptophan 5-monooxygenase	1.14.16.4	L-Tryptophan	Dihydrobiopterin	R01814	white
+tryptophan 5-monooxygenase	1.14.16.4	L-Tryptophan	H2O	R01814	white
+tryptophan 5-monooxygenase	1.14.16.4	Oxygen	5-Hydroxy-L-tryptophan	R01814	white
+tryptophan 5-monooxygenase	1.14.16.4	Oxygen	Dihydrobiopterin	R01814	white
+tryptophan 5-monooxygenase	1.14.16.4	Oxygen	H2O	R01814	white
+tryptophan 5-monooxygenase	1.14.16.4	Tetrahydrobiopterin	5-Hydroxy-L-tryptophan	R01814	white
+tryptophan 5-monooxygenase	1.14.16.4	Tetrahydrobiopterin	Dihydrobiopterin	R01814	white
+tryptophan 5-monooxygenase	1.14.16.4	Tetrahydrobiopterin	H2O	R01814	white
+tyrosine 3-monooxygenase	1.14.16.2	3,4-Dihydroxy-L-phenylalanine	L-Tyrosine	R01815	white
+tyrosine 3-monooxygenase	1.14.16.2	3,4-Dihydroxy-L-phenylalanine	Oxygen	R01815	white
+tyrosine 3-monooxygenase	1.14.16.2	3,4-Dihydroxy-L-phenylalanine	Tetrahydrobiopterin	R01815	white
+tyrosine 3-monooxygenase	1.14.16.2	Dihydrobiopterin	L-Tyrosine	R01815	white
+tyrosine 3-monooxygenase	1.14.16.2	Dihydrobiopterin	Oxygen	R01815	white
+tyrosine 3-monooxygenase	1.14.16.2	Dihydrobiopterin	Tetrahydrobiopterin	R01815	white
+tyrosine 3-monooxygenase	1.14.16.2	H2O	L-Tyrosine	R01815	white
+tyrosine 3-monooxygenase	1.14.16.2	H2O	Oxygen	R01815	white
+tyrosine 3-monooxygenase	1.14.16.2	H2O	Tetrahydrobiopterin	R01815	white
+tyrosine 3-monooxygenase	1.14.16.2	L-Tyrosine	3,4-Dihydroxy-L-phenylalanine	R01815	white
+tyrosine 3-monooxygenase	1.14.16.2	L-Tyrosine	Dihydrobiopterin	R01815	white
+tyrosine 3-monooxygenase	1.14.16.2	L-Tyrosine	H2O	R01815	white
+tyrosine 3-monooxygenase	1.14.16.2	Oxygen	3,4-Dihydroxy-L-phenylalanine	R01815	white
+tyrosine 3-monooxygenase	1.14.16.2	Oxygen	Dihydrobiopterin	R01815	white
+tyrosine 3-monooxygenase	1.14.16.2	Oxygen	H2O	R01815	white
+tyrosine 3-monooxygenase	1.14.16.2	Tetrahydrobiopterin	3,4-Dihydroxy-L-phenylalanine	R01815	white
+tyrosine 3-monooxygenase	1.14.16.2	Tetrahydrobiopterin	Dihydrobiopterin	R01815	white
+tyrosine 3-monooxygenase	1.14.16.2	Tetrahydrobiopterin	H2O	R01815	white

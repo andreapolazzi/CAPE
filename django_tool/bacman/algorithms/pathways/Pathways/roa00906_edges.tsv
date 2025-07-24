@@ -1,474 +1,480 @@
-enzyme_name	EC	source	target	color
-(+)-abscisic acid 8'-hydroxylase	1.14.14.137	8'-Hydroxyabscisate	Abscisate	white
-(+)-abscisic acid 8'-hydroxylase	1.14.14.137	8'-Hydroxyabscisate	Oxygen	white
-(+)-abscisic acid 8'-hydroxylase	1.14.14.137	8'-Hydroxyabscisate	[Reduced NADPH---hemoprotein reductase]	white
-(+)-abscisic acid 8'-hydroxylase	1.14.14.137	Abscisate	8'-Hydroxyabscisate	white
-(+)-abscisic acid 8'-hydroxylase	1.14.14.137	Abscisate	H2O	white
-(+)-abscisic acid 8'-hydroxylase	1.14.14.137	Abscisate	[Oxidized NADPH---hemoprotein reductase]	white
-(+)-abscisic acid 8'-hydroxylase	1.14.14.137	H2O	Abscisate	white
-(+)-abscisic acid 8'-hydroxylase	1.14.14.137	H2O	Oxygen	white
-(+)-abscisic acid 8'-hydroxylase	1.14.14.137	H2O	[Reduced NADPH---hemoprotein reductase]	white
-(+)-abscisic acid 8'-hydroxylase	1.14.14.137	Oxygen	8'-Hydroxyabscisate	white
-(+)-abscisic acid 8'-hydroxylase	1.14.14.137	Oxygen	H2O	white
-(+)-abscisic acid 8'-hydroxylase	1.14.14.137	Oxygen	[Oxidized NADPH---hemoprotein reductase]	white
-(+)-abscisic acid 8'-hydroxylase	1.14.14.137	[Oxidized NADPH---hemoprotein reductase]	Abscisate	white
-(+)-abscisic acid 8'-hydroxylase	1.14.14.137	[Oxidized NADPH---hemoprotein reductase]	Oxygen	white
-(+)-abscisic acid 8'-hydroxylase	1.14.14.137	[Oxidized NADPH---hemoprotein reductase]	[Reduced NADPH---hemoprotein reductase]	white
-(+)-abscisic acid 8'-hydroxylase	1.14.14.137	[Reduced NADPH---hemoprotein reductase]	8'-Hydroxyabscisate	white
-(+)-abscisic acid 8'-hydroxylase	1.14.14.137	[Reduced NADPH---hemoprotein reductase]	H2O	white
-(+)-abscisic acid 8'-hydroxylase	1.14.14.137	[Reduced NADPH---hemoprotein reductase]	[Oxidized NADPH---hemoprotein reductase]	white
-1'-hydroxy-gamma-carotene C-4' ketolase	1.2.99.10	1'-Hydroxy-1',2'-dihydro-beta,psi-caroten-4'-one	1'-Hydroxy-gamma-carotene	white
-1'-hydroxy-gamma-carotene C-4' ketolase	1.2.99.10	1'-Hydroxy-gamma-carotene	1'-Hydroxy-1',2'-dihydro-beta,psi-caroten-4'-one	white
-1-hydroxy-2-isopentenylcarotenoid 3,4-desaturase	1.3.99.37	Acceptor	Isopentenyldehydrorhodopin	white
-1-hydroxy-2-isopentenylcarotenoid 3,4-desaturase	1.3.99.37	Acceptor	Reduced acceptor	white
-1-hydroxy-2-isopentenylcarotenoid 3,4-desaturase	1.3.99.37	Dihydroisopentenyldehydrorhodopin	Isopentenyldehydrorhodopin	white
-1-hydroxy-2-isopentenylcarotenoid 3,4-desaturase	1.3.99.37	Dihydroisopentenyldehydrorhodopin	Reduced acceptor	white
-1-hydroxy-2-isopentenylcarotenoid 3,4-desaturase	1.3.99.37	Isopentenyldehydrorhodopin	Acceptor	white
-1-hydroxy-2-isopentenylcarotenoid 3,4-desaturase	1.3.99.37	Isopentenyldehydrorhodopin	Dihydroisopentenyldehydrorhodopin	white
-1-hydroxy-2-isopentenylcarotenoid 3,4-desaturase	1.3.99.37	Reduced acceptor	Acceptor	white
-1-hydroxy-2-isopentenylcarotenoid 3,4-desaturase	1.3.99.37	Reduced acceptor	Dihydroisopentenyldehydrorhodopin	white
-1-hydroxycarotenoid 3,4-desaturase	1.3.99.27	1'-Hydroxy-gamma-carotene	1'-Hydroxytorulene	white
-1-hydroxycarotenoid 3,4-desaturase	1.3.99.27	1'-Hydroxytorulene	1'-Hydroxy-gamma-carotene	white
-15-cis-phytoene desaturase	1.3.5.5	Acceptor	Reduced acceptor	white
-15-cis-phytoene desaturase	1.3.5.5	Acceptor	all-trans-Phytofluene	white
-15-cis-phytoene desaturase	1.3.5.5	Reduced acceptor	Acceptor	white
-15-cis-phytoene desaturase	1.3.5.5	Reduced acceptor	all-trans-Phytoene	white
-15-cis-phytoene desaturase	1.3.5.5	all-trans-Phytoene	Reduced acceptor	white
-15-cis-phytoene desaturase	1.3.5.5	all-trans-Phytoene	all-trans-Phytofluene	white
-15-cis-phytoene desaturase	1.3.5.5	all-trans-Phytofluene	Acceptor	white
-15-cis-phytoene desaturase	1.3.5.5	all-trans-Phytofluene	all-trans-Phytoene	white
-15-cis-phytoene synthase	2.5.1.32	Geranylgeranyl diphosphate	Diphosphate	green
-15-cis-phytoene synthase	2.5.1.32	Geranylgeranyl diphosphate	Prephytoene diphosphate	green
-15-cis-phytoene synthase	2.5.1.32	Prephytoene diphosphate	15-cis-Phytoene	green
-15-cis-phytoene synthase	2.5.1.32	Prephytoene diphosphate	Diphosphate	green
-15-cis-phytoene synthase	2.5.1.32	Prephytoene diphosphate	all-trans-Phytoene	green
-15-cis-phytoene synthase / lycopene beta-cyclase	2.5.1.32	Diphosphate	Geranylgeranyl diphosphate	white
-15-cis-phytoene synthase / lycopene beta-cyclase	2.5.1.32	Geranylgeranyl diphosphate	Diphosphate	white
-15-cis-phytoene synthase / lycopene beta-cyclase	2.5.1.32	Geranylgeranyl diphosphate	Prephytoene diphosphate	white
-15-cis-phytoene synthase / lycopene beta-cyclase	2.5.1.32	Prephytoene diphosphate	Geranylgeranyl diphosphate	white
-4,4'-diapolycopenoate synthase	1.2.99.10	4,4'-Diapolycopene-4,4'-dioate	4,4'-Diapolycopenedial	white
-4,4'-diapolycopenoate synthase	1.2.99.10	4,4'-Diapolycopene-4,4'-dioate	Acceptor	white
-4,4'-diapolycopenoate synthase	1.2.99.10	4,4'-Diapolycopene-4,4'-dioate	H2O	white
-4,4'-diapolycopenoate synthase	1.2.99.10	4,4'-Diapolycopenedial	4,4'-Diapolycopene-4,4'-dioate	white
-4,4'-diapolycopenoate synthase	1.2.99.10	4,4'-Diapolycopenedial	Reduced acceptor	white
-4,4'-diapolycopenoate synthase	1.2.99.10	Acceptor	4,4'-Diapolycopene-4,4'-dioate	white
-4,4'-diapolycopenoate synthase	1.2.99.10	Acceptor	Reduced acceptor	white
-4,4'-diapolycopenoate synthase	1.2.99.10	H2O	4,4'-Diapolycopene-4,4'-dioate	white
-4,4'-diapolycopenoate synthase	1.2.99.10	H2O	Reduced acceptor	white
-4,4'-diapolycopenoate synthase	1.2.99.10	Reduced acceptor	4,4'-Diapolycopenedial	white
-4,4'-diapolycopenoate synthase	1.2.99.10	Reduced acceptor	Acceptor	white
-4,4'-diapolycopenoate synthase	1.2.99.10	Reduced acceptor	H2O	white
-4,4'-diaponeurosporenoate glycosyltransferase	2.4.1.-	4,4'-Diaponeurosporenic acid	Glucosyl-4,4'-diaponeurosporenoate	white
-4,4'-diaponeurosporenoate glycosyltransferase	2.4.1.-	Glucosyl-4,4'-diaponeurosporenoate	4,4'-Diaponeurosporenic acid	white
-4,4'-diapophytoene desaturase	1.3.8.2	4,4'-Diaponeurosporene	4,4'-Diapophytoene	white
-4,4'-diapophytoene desaturase	1.3.8.2	4,4'-Diaponeurosporene	FAD	white
-4,4'-diapophytoene desaturase	1.3.8.2	4,4'-Diapophytoene	4,4'-Diaponeurosporene	white
-4,4'-diapophytoene desaturase	1.3.8.2	4,4'-Diapophytoene	FADH2	white
-4,4'-diapophytoene desaturase	1.3.8.2	FAD	4,4'-Diaponeurosporene	white
-4,4'-diapophytoene desaturase	1.3.8.2	FAD	FADH2	white
-4,4'-diapophytoene desaturase	1.3.8.2	FADH2	4,4'-Diapophytoene	white
-4,4'-diapophytoene desaturase	1.3.8.2	FADH2	FAD	white
-4,4'-diapophytoene synthase	2.5.1.96	Diphosphate	trans,trans-Farnesyl diphosphate	white
-4,4'-diapophytoene synthase	2.5.1.96	Presqualene diphosphate	trans,trans-Farnesyl diphosphate	white
-4,4'-diapophytoene synthase	2.5.1.96	trans,trans-Farnesyl diphosphate	Diphosphate	white
-4,4'-diapophytoene synthase	2.5.1.96	trans,trans-Farnesyl diphosphate	Presqualene diphosphate	white
-9-cis-beta-carotene 9',10'-cleaving dioxygenase	1.13.11.68	9-cis-10'-Apo-beta-carotenal	9-cis-beta-Carotene	white
-9-cis-beta-carotene 9',10'-cleaving dioxygenase	1.13.11.68	9-cis-10'-Apo-beta-carotenal	Oxygen	white
-9-cis-beta-carotene 9',10'-cleaving dioxygenase	1.13.11.68	9-cis-beta-Carotene	9-cis-10'-Apo-beta-carotenal	white
-9-cis-beta-carotene 9',10'-cleaving dioxygenase	1.13.11.68	9-cis-beta-Carotene	beta-Ionone	white
-9-cis-beta-carotene 9',10'-cleaving dioxygenase	1.13.11.68	Oxygen	9-cis-10'-Apo-beta-carotenal	white
-9-cis-beta-carotene 9',10'-cleaving dioxygenase	1.13.11.68	Oxygen	beta-Ionone	white
-9-cis-beta-carotene 9',10'-cleaving dioxygenase	1.13.11.68	beta-Ionone	9-cis-beta-Carotene	white
-9-cis-beta-carotene 9',10'-cleaving dioxygenase	1.13.11.68	beta-Ionone	Oxygen	white
-9-cis-epoxycarotenoid dioxygenase	1.13.11.51	9'-cis-Neoxanthin	C25-Allenic-apo-aldehyde	white
-9-cis-epoxycarotenoid dioxygenase	1.13.11.51	9'-cis-Neoxanthin	Xanthoxin	white
-9-cis-epoxycarotenoid dioxygenase	1.13.11.51	C25-Allenic-apo-aldehyde	9'-cis-Neoxanthin	white
-9-cis-epoxycarotenoid dioxygenase	1.13.11.51	C25-Allenic-apo-aldehyde	Oxygen	white
-9-cis-epoxycarotenoid dioxygenase	1.13.11.51	Oxygen	C25-Allenic-apo-aldehyde	white
-9-cis-epoxycarotenoid dioxygenase	1.13.11.51	Oxygen	Xanthoxin	white
-9-cis-epoxycarotenoid dioxygenase	1.13.11.51	Xanthoxin	9'-cis-Neoxanthin	white
-9-cis-epoxycarotenoid dioxygenase	1.13.11.51	Xanthoxin	Oxygen	white
-abscisate beta-glucosyltransferase	2.4.1.263	Abscisate	Abscisic acid glucose ester	white
-abscisate beta-glucosyltransferase	2.4.1.263	Abscisate	UDP	white
-abscisate beta-glucosyltransferase	2.4.1.263	Abscisic acid glucose ester	Abscisate	white
-abscisate beta-glucosyltransferase	2.4.1.263	Abscisic acid glucose ester	UDP-glucose	white
-abscisate beta-glucosyltransferase	2.4.1.263	UDP	Abscisate	white
-abscisate beta-glucosyltransferase	2.4.1.263	UDP	UDP-glucose	white
-abscisate beta-glucosyltransferase	2.4.1.263	UDP-glucose	Abscisic acid glucose ester	white
-abscisate beta-glucosyltransferase	2.4.1.263	UDP-glucose	UDP	white
-abscisic-aldehyde oxidase	1.2.3.14	Abscisate	Abscisic aldehyde	white
-abscisic-aldehyde oxidase	1.2.3.14	Abscisate	H2O	white
-abscisic-aldehyde oxidase	1.2.3.14	Abscisate	Oxygen	white
-abscisic-aldehyde oxidase	1.2.3.14	Abscisic aldehyde	Abscisate	white
-abscisic-aldehyde oxidase	1.2.3.14	Abscisic aldehyde	Hydrogen peroxide	white
-abscisic-aldehyde oxidase	1.2.3.14	H2O	Abscisate	white
-abscisic-aldehyde oxidase	1.2.3.14	H2O	Hydrogen peroxide	white
-abscisic-aldehyde oxidase	1.2.3.14	Hydrogen peroxide	Abscisic aldehyde	white
-abscisic-aldehyde oxidase	1.2.3.14	Hydrogen peroxide	H2O	white
-abscisic-aldehyde oxidase	1.2.3.14	Hydrogen peroxide	Oxygen	white
-abscisic-aldehyde oxidase	1.2.3.14	Oxygen	Abscisate	white
-abscisic-aldehyde oxidase	1.2.3.14	Oxygen	Hydrogen peroxide	white
-beta-D-glucopyranosyl abscisate beta-glucosidase	3.2.1.175	Abscisate	Abscisic acid glucose ester	white
-beta-D-glucopyranosyl abscisate beta-glucosidase	3.2.1.175	Abscisate	H2O	white
-beta-D-glucopyranosyl abscisate beta-glucosidase	3.2.1.175	Abscisic acid glucose ester	Abscisate	white
-beta-D-glucopyranosyl abscisate beta-glucosidase	3.2.1.175	Abscisic acid glucose ester	D-Glucose	white
-beta-D-glucopyranosyl abscisate beta-glucosidase	3.2.1.175	D-Glucose	Abscisic acid glucose ester	white
-beta-D-glucopyranosyl abscisate beta-glucosidase	3.2.1.175	D-Glucose	H2O	white
-beta-D-glucopyranosyl abscisate beta-glucosidase	3.2.1.175	H2O	Abscisate	white
-beta-D-glucopyranosyl abscisate beta-glucosidase	3.2.1.175	H2O	D-Glucose	white
-beta-apo-4'-carotenal oxygenase	1.2.1.82	4'-Apo-beta,psi-caroten-4'-al	H+	white
-beta-apo-4'-carotenal oxygenase	1.2.1.82	4'-Apo-beta,psi-caroten-4'-al	NADH	white
-beta-apo-4'-carotenal oxygenase	1.2.1.82	4'-Apo-beta,psi-caroten-4'-al	Neurosporaxanthin	white
-beta-apo-4'-carotenal oxygenase	1.2.1.82	H+	4'-Apo-beta,psi-caroten-4'-al	white
-beta-apo-4'-carotenal oxygenase	1.2.1.82	H+	H2O	white
-beta-apo-4'-carotenal oxygenase	1.2.1.82	H+	NAD+	white
-beta-apo-4'-carotenal oxygenase	1.2.1.82	H2O	H+	white
-beta-apo-4'-carotenal oxygenase	1.2.1.82	H2O	NADH	white
-beta-apo-4'-carotenal oxygenase	1.2.1.82	H2O	Neurosporaxanthin	white
-beta-apo-4'-carotenal oxygenase	1.2.1.82	NAD+	H+	white
-beta-apo-4'-carotenal oxygenase	1.2.1.82	NAD+	NADH	white
-beta-apo-4'-carotenal oxygenase	1.2.1.82	NAD+	Neurosporaxanthin	white
-beta-apo-4'-carotenal oxygenase	1.2.1.82	NADH	4'-Apo-beta,psi-caroten-4'-al	white
-beta-apo-4'-carotenal oxygenase	1.2.1.82	NADH	H2O	white
-beta-apo-4'-carotenal oxygenase	1.2.1.82	NADH	NAD+	white
-beta-apo-4'-carotenal oxygenase	1.2.1.82	Neurosporaxanthin	4'-Apo-beta,psi-caroten-4'-al	white
-beta-apo-4'-carotenal oxygenase	1.2.1.82	Neurosporaxanthin	H2O	white
-beta-apo-4'-carotenal oxygenase	1.2.1.82	Neurosporaxanthin	NAD+	white
-beta-carotene 3-hydroxylase	1.14.15.24	H+	H2O	white
-beta-carotene 3-hydroxylase	1.14.15.24	H+	Oxidized ferredoxin	white
-beta-carotene 3-hydroxylase	1.14.15.24	H+	Zeinoxanthin	white
-beta-carotene 3-hydroxylase	1.14.15.24	H2O	H+	white
-beta-carotene 3-hydroxylase	1.14.15.24	H2O	Oxygen	white
-beta-carotene 3-hydroxylase	1.14.15.24	H2O	Reduced ferredoxin	white
-beta-carotene 3-hydroxylase	1.14.15.24	H2O	alpha-Carotene	white
-beta-carotene 3-hydroxylase	1.14.15.24	Oxidized ferredoxin	H+	white
-beta-carotene 3-hydroxylase	1.14.15.24	Oxidized ferredoxin	Oxygen	white
-beta-carotene 3-hydroxylase	1.14.15.24	Oxidized ferredoxin	Reduced ferredoxin	white
-beta-carotene 3-hydroxylase	1.14.15.24	Oxidized ferredoxin	alpha-Carotene	white
-beta-carotene 3-hydroxylase	1.14.15.24	Oxygen	H2O	white
-beta-carotene 3-hydroxylase	1.14.15.24	Oxygen	Oxidized ferredoxin	white
-beta-carotene 3-hydroxylase	1.14.15.24	Oxygen	Zeinoxanthin	white
-beta-carotene 3-hydroxylase	1.14.15.24	Reduced ferredoxin	H2O	white
-beta-carotene 3-hydroxylase	1.14.15.24	Reduced ferredoxin	Oxidized ferredoxin	white
-beta-carotene 3-hydroxylase	1.14.15.24	Reduced ferredoxin	Zeinoxanthin	white
-beta-carotene 3-hydroxylase	1.14.15.24	Zeinoxanthin	H+	white
-beta-carotene 3-hydroxylase	1.14.15.24	Zeinoxanthin	Oxygen	white
-beta-carotene 3-hydroxylase	1.14.15.24	Zeinoxanthin	Reduced ferredoxin	white
-beta-carotene 3-hydroxylase	1.14.15.24	Zeinoxanthin	alpha-Carotene	white
-beta-carotene 3-hydroxylase	1.14.15.24	alpha-Carotene	H2O	white
-beta-carotene 3-hydroxylase	1.14.15.24	alpha-Carotene	Oxidized ferredoxin	white
-beta-carotene 3-hydroxylase	1.14.15.24	alpha-Carotene	Zeinoxanthin	white
-beta-carotene 4-ketolase/3-hydroxylase	1.14.99.63	Acceptor	Oxygen	white
-beta-carotene 4-ketolase/3-hydroxylase	1.14.99.63	Acceptor	Reduced acceptor	white
-beta-carotene 4-ketolase/3-hydroxylase	1.14.99.63	Acceptor	beta-Carotene	white
-beta-carotene 4-ketolase/3-hydroxylase	1.14.99.63	Echinenone	Oxygen	white
-beta-carotene 4-ketolase/3-hydroxylase	1.14.99.63	Echinenone	Reduced acceptor	white
-beta-carotene 4-ketolase/3-hydroxylase	1.14.99.63	Echinenone	beta-Carotene	white
-beta-carotene 4-ketolase/3-hydroxylase	1.14.99.63	H2O	Oxygen	white
-beta-carotene 4-ketolase/3-hydroxylase	1.14.99.63	H2O	Reduced acceptor	white
-beta-carotene 4-ketolase/3-hydroxylase	1.14.99.63	H2O	beta-Carotene	white
-beta-carotene 4-ketolase/3-hydroxylase	1.14.99.63	Oxygen	Acceptor	white
-beta-carotene 4-ketolase/3-hydroxylase	1.14.99.63	Oxygen	Echinenone	white
-beta-carotene 4-ketolase/3-hydroxylase	1.14.99.63	Oxygen	H2O	white
-beta-carotene 4-ketolase/3-hydroxylase	1.14.99.63	Reduced acceptor	Acceptor	white
-beta-carotene 4-ketolase/3-hydroxylase	1.14.99.63	Reduced acceptor	Echinenone	white
-beta-carotene 4-ketolase/3-hydroxylase	1.14.99.63	Reduced acceptor	H2O	white
-beta-carotene 4-ketolase/3-hydroxylase	1.14.99.63	beta-Carotene	Acceptor	white
-beta-carotene 4-ketolase/3-hydroxylase	1.14.99.63	beta-Carotene	Echinenone	white
-beta-carotene 4-ketolase/3-hydroxylase	1.14.99.63	beta-Carotene	H2O	white
-beta-carotene hydroxylase	1.14.13.-	(2'S)-Deoxymyxol 2'-(2,4-di-O-methyl-alpha-L-fucoside)	(3R,2'S)-Myxol 2'-(2,4-di-O-methyl-alpha-L-fucoside)	white
-beta-carotene hydroxylase	1.14.13.-	(3R,2'S)-Myxol 2'-(2,4-di-O-methyl-alpha-L-fucoside)	(2'S)-Deoxymyxol 2'-(2,4-di-O-methyl-alpha-L-fucoside)	white
-beta-carotene isomerase	5.2.1.14	9-cis-beta-Carotene	beta-Carotene	white
-beta-carotene isomerase	5.2.1.14	beta-Carotene	9-cis-beta-Carotene	white
-beta-carotene ketolase (CrtO type)	1.14.99.63	Echinenone	beta-Carotene	white
-beta-carotene ketolase (CrtO type)	1.14.99.63	beta-Carotene	Echinenone	white
-beta-carotene/zeaxanthin 4-ketolase	1.14.99.63	Acceptor	Oxygen	white
-beta-carotene/zeaxanthin 4-ketolase	1.14.99.63	Acceptor	Reduced acceptor	white
-beta-carotene/zeaxanthin 4-ketolase	1.14.99.63	Acceptor	beta-Carotene	white
-beta-carotene/zeaxanthin 4-ketolase	1.14.99.63	Echinenone	Oxygen	white
-beta-carotene/zeaxanthin 4-ketolase	1.14.99.63	Echinenone	Reduced acceptor	white
-beta-carotene/zeaxanthin 4-ketolase	1.14.99.63	Echinenone	beta-Carotene	white
-beta-carotene/zeaxanthin 4-ketolase	1.14.99.63	H2O	Oxygen	white
-beta-carotene/zeaxanthin 4-ketolase	1.14.99.63	H2O	Reduced acceptor	white
-beta-carotene/zeaxanthin 4-ketolase	1.14.99.63	H2O	beta-Carotene	white
-beta-carotene/zeaxanthin 4-ketolase	1.14.99.63	Oxygen	Acceptor	white
-beta-carotene/zeaxanthin 4-ketolase	1.14.99.63	Oxygen	Echinenone	white
-beta-carotene/zeaxanthin 4-ketolase	1.14.99.63	Oxygen	H2O	white
-beta-carotene/zeaxanthin 4-ketolase	1.14.99.63	Reduced acceptor	Acceptor	white
-beta-carotene/zeaxanthin 4-ketolase	1.14.99.63	Reduced acceptor	Echinenone	white
-beta-carotene/zeaxanthin 4-ketolase	1.14.99.63	Reduced acceptor	H2O	white
-beta-carotene/zeaxanthin 4-ketolase	1.14.99.63	beta-Carotene	Acceptor	white
-beta-carotene/zeaxanthin 4-ketolase	1.14.99.63	beta-Carotene	Echinenone	white
-beta-carotene/zeaxanthin 4-ketolase	1.14.99.63	beta-Carotene	H2O	white
-beta-ring hydroxylase	1.14.-.-	H+	H2O	white
-beta-ring hydroxylase	1.14.-.-	H+	Oxidized ferredoxin	white
-beta-ring hydroxylase	1.14.-.-	H+	Zeinoxanthin	white
-beta-ring hydroxylase	1.14.-.-	H2O	H+	white
-beta-ring hydroxylase	1.14.-.-	H2O	Oxygen	white
-beta-ring hydroxylase	1.14.-.-	H2O	Reduced ferredoxin	white
-beta-ring hydroxylase	1.14.-.-	H2O	alpha-Carotene	white
-beta-ring hydroxylase	1.14.-.-	Oxidized ferredoxin	H+	white
-beta-ring hydroxylase	1.14.-.-	Oxidized ferredoxin	Oxygen	white
-beta-ring hydroxylase	1.14.-.-	Oxidized ferredoxin	Reduced ferredoxin	white
-beta-ring hydroxylase	1.14.-.-	Oxidized ferredoxin	alpha-Carotene	white
-beta-ring hydroxylase	1.14.-.-	Oxygen	H2O	white
-beta-ring hydroxylase	1.14.-.-	Oxygen	Oxidized ferredoxin	white
-beta-ring hydroxylase	1.14.-.-	Oxygen	Zeinoxanthin	white
-beta-ring hydroxylase	1.14.-.-	Reduced ferredoxin	H2O	white
-beta-ring hydroxylase	1.14.-.-	Reduced ferredoxin	Oxidized ferredoxin	white
-beta-ring hydroxylase	1.14.-.-	Reduced ferredoxin	Zeinoxanthin	white
-beta-ring hydroxylase	1.14.-.-	Zeinoxanthin	H+	white
-beta-ring hydroxylase	1.14.-.-	Zeinoxanthin	Oxygen	white
-beta-ring hydroxylase	1.14.-.-	Zeinoxanthin	Reduced ferredoxin	white
-beta-ring hydroxylase	1.14.-.-	Zeinoxanthin	alpha-Carotene	white
-beta-ring hydroxylase	1.14.-.-	alpha-Carotene	H2O	white
-beta-ring hydroxylase	1.14.-.-	alpha-Carotene	Oxidized ferredoxin	white
-beta-ring hydroxylase	1.14.-.-	alpha-Carotene	Zeinoxanthin	white
-bisanhydrobacterioruberin hydratase	4.2.1.161	Bacterioruberin	H2O	white
-bisanhydrobacterioruberin hydratase	4.2.1.161	Bacterioruberin	Monoanhydrobacterioruberin	white
-bisanhydrobacterioruberin hydratase	4.2.1.161	H2O	Bacterioruberin	white
-bisanhydrobacterioruberin hydratase	4.2.1.161	Monoanhydrobacterioruberin	Bacterioruberin	white
-capsanthin/capsorubin synthase	5.3.99.8	Capsorubin	Violaxanthin	white
-capsanthin/capsorubin synthase	5.3.99.8	Violaxanthin	Capsorubin	white
-carlactone synthase / all-trans-10'-apo-beta-carotenal 13,14-cleaving dioxygenase	1.13.11.69	(2E,4E,6E)-7-Hydroxy-4-methylhepta-2,4,6-trienal	9-cis-10'-Apo-beta-carotenal	white
-carlactone synthase / all-trans-10'-apo-beta-carotenal 13,14-cleaving dioxygenase	1.13.11.69	(2E,4E,6E)-7-Hydroxy-4-methylhepta-2,4,6-trienal	Oxygen	white
-carlactone synthase / all-trans-10'-apo-beta-carotenal 13,14-cleaving dioxygenase	1.13.11.69	9-cis-10'-Apo-beta-carotenal	(2E,4E,6E)-7-Hydroxy-4-methylhepta-2,4,6-trienal	white
-carlactone synthase / all-trans-10'-apo-beta-carotenal 13,14-cleaving dioxygenase	1.13.11.69	9-cis-10'-Apo-beta-carotenal	Carlactone	white
-carlactone synthase / all-trans-10'-apo-beta-carotenal 13,14-cleaving dioxygenase	1.13.11.69	Carlactone	9-cis-10'-Apo-beta-carotenal	white
-carlactone synthase / all-trans-10'-apo-beta-carotenal 13,14-cleaving dioxygenase	1.13.11.69	Carlactone	Oxygen	white
-carlactone synthase / all-trans-10'-apo-beta-carotenal 13,14-cleaving dioxygenase	1.13.11.69	Oxygen	(2E,4E,6E)-7-Hydroxy-4-methylhepta-2,4,6-trienal	white
-carlactone synthase / all-trans-10'-apo-beta-carotenal 13,14-cleaving dioxygenase	1.13.11.69	Oxygen	Carlactone	white
-carotenoid 1,2-hydratase	4.2.1.131	1'-Hydroxy-gamma-carotene	H2O	white
-carotenoid 1,2-hydratase	4.2.1.131	1'-Hydroxy-gamma-carotene	gamma-Carotene	white
-carotenoid 1,2-hydratase	4.2.1.131	H2O	1'-Hydroxy-gamma-carotene	white
-carotenoid 1,2-hydratase	4.2.1.131	gamma-Carotene	1'-Hydroxy-gamma-carotene	white
-carotenoid chi-ring synthase	1.3.99.40	Acceptor	Okenone	white
-carotenoid chi-ring synthase	1.3.99.40	Acceptor	Reduced acceptor	white
-carotenoid chi-ring synthase	1.3.99.40	Okenone	Acceptor	white
-carotenoid chi-ring synthase	1.3.99.40	Okenone	Thiothece-474	white
-carotenoid chi-ring synthase	1.3.99.40	Reduced acceptor	Acceptor	white
-carotenoid chi-ring synthase	1.3.99.40	Reduced acceptor	Thiothece-474	white
-carotenoid chi-ring synthase	1.3.99.40	Thiothece-474	Okenone	white
-carotenoid chi-ring synthase	1.3.99.40	Thiothece-474	Reduced acceptor	white
-carotenoid epsilon hydroxylase	1.14.14.158	H2O	Oxygen	white
-carotenoid epsilon hydroxylase	1.14.14.158	H2O	Zeinoxanthin	white
-carotenoid epsilon hydroxylase	1.14.14.158	H2O	[Reduced NADPH---hemoprotein reductase]	white
-carotenoid epsilon hydroxylase	1.14.14.158	Lutein	Oxygen	white
-carotenoid epsilon hydroxylase	1.14.14.158	Lutein	Zeinoxanthin	white
-carotenoid epsilon hydroxylase	1.14.14.158	Lutein	[Reduced NADPH---hemoprotein reductase]	white
-carotenoid epsilon hydroxylase	1.14.14.158	Oxygen	H2O	white
-carotenoid epsilon hydroxylase	1.14.14.158	Oxygen	Lutein	white
-carotenoid epsilon hydroxylase	1.14.14.158	Oxygen	[Oxidized NADPH---hemoprotein reductase]	white
-carotenoid epsilon hydroxylase	1.14.14.158	Zeinoxanthin	H2O	white
-carotenoid epsilon hydroxylase	1.14.14.158	Zeinoxanthin	Lutein	white
-carotenoid epsilon hydroxylase	1.14.14.158	Zeinoxanthin	[Oxidized NADPH---hemoprotein reductase]	white
-carotenoid epsilon hydroxylase	1.14.14.158	[Oxidized NADPH---hemoprotein reductase]	Oxygen	white
-carotenoid epsilon hydroxylase	1.14.14.158	[Oxidized NADPH---hemoprotein reductase]	Zeinoxanthin	white
-carotenoid epsilon hydroxylase	1.14.14.158	[Oxidized NADPH---hemoprotein reductase]	[Reduced NADPH---hemoprotein reductase]	white
-carotenoid epsilon hydroxylase	1.14.14.158	[Reduced NADPH---hemoprotein reductase]	H2O	white
-carotenoid epsilon hydroxylase	1.14.14.158	[Reduced NADPH---hemoprotein reductase]	Lutein	white
-carotenoid epsilon hydroxylase	1.14.14.158	[Reduced NADPH---hemoprotein reductase]	[Oxidized NADPH---hemoprotein reductase]	white
-carotenoid phi-ring synthase / carotenoid chi-ring synthase	1.3.99.39	Acceptor	Chlorobactene	white
-carotenoid phi-ring synthase / carotenoid chi-ring synthase	1.3.99.39	Acceptor	Reduced acceptor	white
-carotenoid phi-ring synthase / carotenoid chi-ring synthase	1.3.99.39	Chlorobactene	Acceptor	white
-carotenoid phi-ring synthase / carotenoid chi-ring synthase	1.3.99.39	Chlorobactene	gamma-Carotene	white
-carotenoid phi-ring synthase / carotenoid chi-ring synthase	1.3.99.39	Reduced acceptor	Acceptor	white
-carotenoid phi-ring synthase / carotenoid chi-ring synthase	1.3.99.39	Reduced acceptor	gamma-Carotene	white
-carotenoid phi-ring synthase / carotenoid chi-ring synthase	1.3.99.39	gamma-Carotene	Chlorobactene	white
-carotenoid phi-ring synthase / carotenoid chi-ring synthase	1.3.99.39	gamma-Carotene	Reduced acceptor	white
-chlorobactene glucosyltransferase	1.3.99.39	Hydroxychlorobactene	Hydroxychlorobactene glucoside	white
-chlorobactene glucosyltransferase	1.3.99.39	Hydroxychlorobactene glucoside	Hydroxychlorobactene	white
-chlorobactene lauroyltransferase	1.3.99.39	Hydroxychlorobactene glucoside	Hydroxychlorobactene glucoside ester	white
-chlorobactene lauroyltransferase	1.3.99.39	Hydroxychlorobactene glucoside ester	Hydroxychlorobactene glucoside	white
-demethylspheroidene O-methyltransferase	2.1.1.210	3,4-Dehydrorhodopin	Anhydrorhodovibrin	white
-demethylspheroidene O-methyltransferase	2.1.1.210	3,4-Dehydrorhodopin	S-Adenosyl-L-homocysteine	white
-demethylspheroidene O-methyltransferase	2.1.1.210	Anhydrorhodovibrin	3,4-Dehydrorhodopin	white
-demethylspheroidene O-methyltransferase	2.1.1.210	Anhydrorhodovibrin	S-Adenosyl-L-methionine	white
-demethylspheroidene O-methyltransferase	2.1.1.210	S-Adenosyl-L-homocysteine	3,4-Dehydrorhodopin	white
-demethylspheroidene O-methyltransferase	2.1.1.210	S-Adenosyl-L-homocysteine	S-Adenosyl-L-methionine	white
-demethylspheroidene O-methyltransferase	2.1.1.210	S-Adenosyl-L-methionine	Anhydrorhodovibrin	white
-demethylspheroidene O-methyltransferase	2.1.1.210	S-Adenosyl-L-methionine	S-Adenosyl-L-homocysteine	white
-diapolycopene oxygenase	1.14.99.44	4,4'-Diaponeurosporene	4,4'-Diaponeurosporenic acid	white
-diapolycopene oxygenase	1.14.99.44	4,4'-Diaponeurosporene	Acceptor	white
-diapolycopene oxygenase	1.14.99.44	4,4'-Diaponeurosporene	H2O	white
-diapolycopene oxygenase	1.14.99.44	4,4'-Diaponeurosporenic acid	4,4'-Diaponeurosporene	white
-diapolycopene oxygenase	1.14.99.44	4,4'-Diaponeurosporenic acid	Oxygen	white
-diapolycopene oxygenase	1.14.99.44	4,4'-Diaponeurosporenic acid	Reduced acceptor	white
-diapolycopene oxygenase	1.14.99.44	Acceptor	4,4'-Diaponeurosporene	white
-diapolycopene oxygenase	1.14.99.44	Acceptor	Oxygen	white
-diapolycopene oxygenase	1.14.99.44	Acceptor	Reduced acceptor	white
-diapolycopene oxygenase	1.14.99.44	H2O	4,4'-Diaponeurosporene	white
-diapolycopene oxygenase	1.14.99.44	H2O	Oxygen	white
-diapolycopene oxygenase	1.14.99.44	H2O	Reduced acceptor	white
-diapolycopene oxygenase	1.14.99.44	Oxygen	4,4'-Diaponeurosporenic acid	white
-diapolycopene oxygenase	1.14.99.44	Oxygen	Acceptor	white
-diapolycopene oxygenase	1.14.99.44	Oxygen	H2O	white
-diapolycopene oxygenase	1.14.99.44	Reduced acceptor	4,4'-Diaponeurosporenic acid	white
-diapolycopene oxygenase	1.14.99.44	Reduced acceptor	Acceptor	white
-diapolycopene oxygenase	1.14.99.44	Reduced acceptor	H2O	white
-glycosyl-4,4'-diaponeurosporenoate acyltransferase	2.3.1.-	Glucosyl-4,4'-diaponeurosporenoate	Staphyloxanthin	white
-glycosyl-4,4'-diaponeurosporenoate acyltransferase	2.3.1.-	Staphyloxanthin	Glucosyl-4,4'-diaponeurosporenoate	white
-lycopene beta-cyclase	5.5.1.19	Lycopene	gamma-Carotene	green
-lycopene beta-cyclase	5.5.1.19	all-trans-Neurosporene	beta-Zeacarotene	green
-lycopene beta-cyclase	5.5.1.19	beta-Zeacarotene	7,8-Dihydro-beta-carotene	green
-lycopene beta-cyclase	5.5.1.19	delta-Carotene	alpha-Carotene	green
-lycopene beta-cyclase	5.5.1.19	gamma-Carotene	beta-Carotene	green
-lycopene cyclase CruA	5.5.1.19	beta-Carotene	gamma-Carotene	white
-lycopene cyclase CruA	5.5.1.19	gamma-Carotene	beta-Carotene	white
-lycopene cyclase CruP	5.5.1.19	beta-Carotene	gamma-Carotene	white
-lycopene cyclase CruP	5.5.1.19	gamma-Carotene	beta-Carotene	white
-lycopene elongase/hydratase (dihydrobisanhydrobacterioruberin-forming)	2.5.1.150	Dihydroisopentenyldehydrorhodopin	Dimethylallyl diphosphate	white
-lycopene elongase/hydratase (dihydrobisanhydrobacterioruberin-forming)	2.5.1.150	Dihydroisopentenyldehydrorhodopin	H2O	white
-lycopene elongase/hydratase (dihydrobisanhydrobacterioruberin-forming)	2.5.1.150	Dihydroisopentenyldehydrorhodopin	Lycopene	white
-lycopene elongase/hydratase (dihydrobisanhydrobacterioruberin-forming)	2.5.1.150	Dimethylallyl diphosphate	Dihydroisopentenyldehydrorhodopin	white
-lycopene elongase/hydratase (dihydrobisanhydrobacterioruberin-forming)	2.5.1.150	Dimethylallyl diphosphate	Diphosphate	white
-lycopene elongase/hydratase (dihydrobisanhydrobacterioruberin-forming)	2.5.1.150	Diphosphate	Dimethylallyl diphosphate	white
-lycopene elongase/hydratase (dihydrobisanhydrobacterioruberin-forming)	2.5.1.150	Diphosphate	H2O	white
-lycopene elongase/hydratase (dihydrobisanhydrobacterioruberin-forming)	2.5.1.150	Diphosphate	Lycopene	white
-lycopene elongase/hydratase (dihydrobisanhydrobacterioruberin-forming)	2.5.1.150	H2O	Dihydroisopentenyldehydrorhodopin	white
-lycopene elongase/hydratase (dihydrobisanhydrobacterioruberin-forming)	2.5.1.150	H2O	Diphosphate	white
-lycopene elongase/hydratase (dihydrobisanhydrobacterioruberin-forming)	2.5.1.150	Lycopene	Dihydroisopentenyldehydrorhodopin	white
-lycopene elongase/hydratase (dihydrobisanhydrobacterioruberin-forming)	2.5.1.150	Lycopene	Diphosphate	white
-lycopene epsilon-cyclase	5.5.1.18	all-trans-Neurosporene	alpha-Zeacarotene	white
-lycopene epsilon-cyclase	5.5.1.18	alpha-Zeacarotene	all-trans-Neurosporene	white
-neoxanthin synthase	5.3.99.9	Neoxanthin	Violaxanthin	white
-neoxanthin synthase	5.3.99.9	Violaxanthin	Neoxanthin	white
-phytoene desaturase	1.3.99.26	15-cis-Phytoene	Reduced acceptor	green
-phytoene desaturase	1.3.99.26	15-cis-Phytoene	all-trans-Phytofluene	green
-phytoene desaturase	1.3.99.26	Acceptor	Reduced acceptor	green
-phytoene desaturase	1.3.99.26	Acceptor	all-trans-Phytofluene	green
-phytoene desaturase	1.3.99.26	Acceptor	all-trans-zeta-Carotene	green
-phytoene desaturase	1.3.99.26	Oxygen	Acceptor	green
-phytoene desaturase	1.3.99.26	Oxygen	H2O	green
-phytoene desaturase	1.3.99.26	Oxygen	Lycopene	green
-phytoene desaturase	1.3.99.26	Oxygen	all-trans-Neurosporene	green
-phytoene desaturase	1.3.99.26	Reduced acceptor	Acceptor	green
-phytoene desaturase	1.3.99.26	Reduced acceptor	H2O	green
-phytoene desaturase	1.3.99.26	Reduced acceptor	Lycopene	green
-phytoene desaturase	1.3.99.26	Reduced acceptor	all-trans-Neurosporene	green
-phytoene desaturase	1.3.99.26	all-trans-Neurosporene	Acceptor	green
-phytoene desaturase	1.3.99.26	all-trans-Neurosporene	H2O	green
-phytoene desaturase	1.3.99.26	all-trans-Neurosporene	Lycopene	green
-phytoene desaturase	1.3.99.26	all-trans-Phytofluene	Reduced acceptor	green
-phytoene desaturase	1.3.99.26	all-trans-Phytofluene	all-trans-zeta-Carotene	green
-phytoene desaturase	1.3.99.26	all-trans-zeta-Carotene	Acceptor	green
-phytoene desaturase	1.3.99.26	all-trans-zeta-Carotene	H2O	green
-phytoene desaturase	1.3.99.26	all-trans-zeta-Carotene	all-trans-Neurosporene	green
-phytoene desaturase (3,4-didehydrolycopene-forming)	1.3.99.30	Acceptor	Reduced acceptor	white
-phytoene desaturase (3,4-didehydrolycopene-forming)	1.3.99.30	Acceptor	all-trans-zeta-Carotene	white
-phytoene desaturase (3,4-didehydrolycopene-forming)	1.3.99.30	Reduced acceptor	Acceptor	white
-phytoene desaturase (3,4-didehydrolycopene-forming)	1.3.99.30	Reduced acceptor	all-trans-Phytofluene	white
-phytoene desaturase (3,4-didehydrolycopene-forming)	1.3.99.30	all-trans-Phytofluene	Reduced acceptor	white
-phytoene desaturase (3,4-didehydrolycopene-forming)	1.3.99.30	all-trans-Phytofluene	all-trans-zeta-Carotene	white
-phytoene desaturase (3,4-didehydrolycopene-forming)	1.3.99.30	all-trans-zeta-Carotene	Acceptor	white
-phytoene desaturase (3,4-didehydrolycopene-forming)	1.3.99.30	all-trans-zeta-Carotene	all-trans-Phytofluene	white
-prolycopene isomerase	5.2.1.13	7,9,7',9'-tetracis-Lycopene	Lycopene	white
-prolycopene isomerase	5.2.1.13	Lycopene	7,9,7',9'-tetracis-Lycopene	white
-spheroidene monooxygenase	1.14.15.9	2-Ketospirilloxanthin	H+	white
-spheroidene monooxygenase	1.14.15.9	2-Ketospirilloxanthin	Oxygen	white
-spheroidene monooxygenase	1.14.15.9	2-Ketospirilloxanthin	Reduced ferredoxin	white
-spheroidene monooxygenase	1.14.15.9	2-Ketospirilloxanthin	Spirilloxanthin	white
-spheroidene monooxygenase	1.14.15.9	H+	2-Ketospirilloxanthin	white
-spheroidene monooxygenase	1.14.15.9	H+	H2O	white
-spheroidene monooxygenase	1.14.15.9	H+	Oxidized ferredoxin	white
-spheroidene monooxygenase	1.14.15.9	H2O	H+	white
-spheroidene monooxygenase	1.14.15.9	H2O	Oxygen	white
-spheroidene monooxygenase	1.14.15.9	H2O	Reduced ferredoxin	white
-spheroidene monooxygenase	1.14.15.9	H2O	Spirilloxanthin	white
-spheroidene monooxygenase	1.14.15.9	Oxidized ferredoxin	H+	white
-spheroidene monooxygenase	1.14.15.9	Oxidized ferredoxin	Oxygen	white
-spheroidene monooxygenase	1.14.15.9	Oxidized ferredoxin	Reduced ferredoxin	white
-spheroidene monooxygenase	1.14.15.9	Oxidized ferredoxin	Spirilloxanthin	white
-spheroidene monooxygenase	1.14.15.9	Oxygen	2-Ketospirilloxanthin	white
-spheroidene monooxygenase	1.14.15.9	Oxygen	H2O	white
-spheroidene monooxygenase	1.14.15.9	Oxygen	Oxidized ferredoxin	white
-spheroidene monooxygenase	1.14.15.9	Reduced ferredoxin	2-Ketospirilloxanthin	white
-spheroidene monooxygenase	1.14.15.9	Reduced ferredoxin	H2O	white
-spheroidene monooxygenase	1.14.15.9	Reduced ferredoxin	Oxidized ferredoxin	white
-spheroidene monooxygenase	1.14.15.9	Spirilloxanthin	2-Ketospirilloxanthin	white
-spheroidene monooxygenase	1.14.15.9	Spirilloxanthin	H2O	white
-spheroidene monooxygenase	1.14.15.9	Spirilloxanthin	Oxidized ferredoxin	white
-torulene dioxygenase	1.13.11.59	3-Methyl-2-butenal	Oxygen	white
-torulene dioxygenase	1.13.11.59	3-Methyl-2-butenal	Torulene	white
-torulene dioxygenase	1.13.11.59	4'-Apo-beta,psi-caroten-4'-al	Oxygen	white
-torulene dioxygenase	1.13.11.59	4'-Apo-beta,psi-caroten-4'-al	Torulene	white
-torulene dioxygenase	1.13.11.59	Oxygen	3-Methyl-2-butenal	white
-torulene dioxygenase	1.13.11.59	Oxygen	4'-Apo-beta,psi-caroten-4'-al	white
-torulene dioxygenase	1.13.11.59	Torulene	3-Methyl-2-butenal	white
-torulene dioxygenase	1.13.11.59	Torulene	4'-Apo-beta,psi-caroten-4'-al	white
-violaxanthin de-epoxidase	1.23.5.1	Antheraxanthin	Ascorbate	white
-violaxanthin de-epoxidase	1.23.5.1	Antheraxanthin	Violaxanthin	white
-violaxanthin de-epoxidase	1.23.5.1	Ascorbate	Antheraxanthin	white
-violaxanthin de-epoxidase	1.23.5.1	Ascorbate	Dehydroascorbate	white
-violaxanthin de-epoxidase	1.23.5.1	Ascorbate	H2O	white
-violaxanthin de-epoxidase	1.23.5.1	Dehydroascorbate	Ascorbate	white
-violaxanthin de-epoxidase	1.23.5.1	Dehydroascorbate	Violaxanthin	white
-violaxanthin de-epoxidase	1.23.5.1	H2O	Ascorbate	white
-violaxanthin de-epoxidase	1.23.5.1	H2O	Violaxanthin	white
-violaxanthin de-epoxidase	1.23.5.1	Violaxanthin	Antheraxanthin	white
-violaxanthin de-epoxidase	1.23.5.1	Violaxanthin	Dehydroascorbate	white
-violaxanthin de-epoxidase	1.23.5.1	Violaxanthin	H2O	white
-xanthoxin dehydrogenase	1.1.1.288	Abscisic aldehyde	NAD+	white
-xanthoxin dehydrogenase	1.1.1.288	Abscisic aldehyde	Xanthoxin	white
-xanthoxin dehydrogenase	1.1.1.288	H+	NAD+	white
-xanthoxin dehydrogenase	1.1.1.288	H+	Xanthoxin	white
-xanthoxin dehydrogenase	1.1.1.288	NAD+	Abscisic aldehyde	white
-xanthoxin dehydrogenase	1.1.1.288	NAD+	H+	white
-xanthoxin dehydrogenase	1.1.1.288	NAD+	NADH	white
-xanthoxin dehydrogenase	1.1.1.288	NADH	NAD+	white
-xanthoxin dehydrogenase	1.1.1.288	NADH	Xanthoxin	white
-xanthoxin dehydrogenase	1.1.1.288	Xanthoxin	Abscisic aldehyde	white
-xanthoxin dehydrogenase	1.1.1.288	Xanthoxin	H+	white
-xanthoxin dehydrogenase	1.1.1.288	Xanthoxin	NADH	white
-zeaxanthin epoxidase	1.14.15.21	Antheraxanthin	H+	white
-zeaxanthin epoxidase	1.14.15.21	Antheraxanthin	Oxygen	white
-zeaxanthin epoxidase	1.14.15.21	Antheraxanthin	Reduced ferredoxin	white
-zeaxanthin epoxidase	1.14.15.21	Antheraxanthin	Zeaxanthin	white
-zeaxanthin epoxidase	1.14.15.21	H+	Antheraxanthin	white
-zeaxanthin epoxidase	1.14.15.21	H+	H2O	white
-zeaxanthin epoxidase	1.14.15.21	H+	Oxidized ferredoxin	white
-zeaxanthin epoxidase	1.14.15.21	H2O	H+	white
-zeaxanthin epoxidase	1.14.15.21	H2O	Oxygen	white
-zeaxanthin epoxidase	1.14.15.21	H2O	Reduced ferredoxin	white
-zeaxanthin epoxidase	1.14.15.21	H2O	Zeaxanthin	white
-zeaxanthin epoxidase	1.14.15.21	Oxidized ferredoxin	H+	white
-zeaxanthin epoxidase	1.14.15.21	Oxidized ferredoxin	Oxygen	white
-zeaxanthin epoxidase	1.14.15.21	Oxidized ferredoxin	Reduced ferredoxin	white
-zeaxanthin epoxidase	1.14.15.21	Oxidized ferredoxin	Zeaxanthin	white
-zeaxanthin epoxidase	1.14.15.21	Oxygen	Antheraxanthin	white
-zeaxanthin epoxidase	1.14.15.21	Oxygen	H2O	white
-zeaxanthin epoxidase	1.14.15.21	Oxygen	Oxidized ferredoxin	white
-zeaxanthin epoxidase	1.14.15.21	Reduced ferredoxin	Antheraxanthin	white
-zeaxanthin epoxidase	1.14.15.21	Reduced ferredoxin	H2O	white
-zeaxanthin epoxidase	1.14.15.21	Reduced ferredoxin	Oxidized ferredoxin	white
-zeaxanthin epoxidase	1.14.15.21	Zeaxanthin	Antheraxanthin	white
-zeaxanthin epoxidase	1.14.15.21	Zeaxanthin	H2O	white
-zeaxanthin epoxidase	1.14.15.21	Zeaxanthin	Oxidized ferredoxin	white
-zeaxanthin glucosyltransferase	2.4.1.276	UDP	UDP-glucose	white
-zeaxanthin glucosyltransferase	2.4.1.276	UDP	Zeaxanthin	white
-zeaxanthin glucosyltransferase	2.4.1.276	UDP-glucose	UDP	white
-zeaxanthin glucosyltransferase	2.4.1.276	UDP-glucose	Zeaxanthin diglucoside	white
-zeaxanthin glucosyltransferase	2.4.1.276	Zeaxanthin	UDP	white
-zeaxanthin glucosyltransferase	2.4.1.276	Zeaxanthin	Zeaxanthin diglucoside	white
-zeaxanthin glucosyltransferase	2.4.1.276	Zeaxanthin diglucoside	UDP-glucose	white
-zeaxanthin glucosyltransferase	2.4.1.276	Zeaxanthin diglucoside	Zeaxanthin	white
-zeta-carotene desaturase	1.3.5.6	Acceptor	Oxygen	white
-zeta-carotene desaturase	1.3.5.6	Acceptor	Reduced acceptor	white
-zeta-carotene desaturase	1.3.5.6	Acceptor	all-trans-zeta-Carotene	white
-zeta-carotene desaturase	1.3.5.6	H2O	Oxygen	white
-zeta-carotene desaturase	1.3.5.6	H2O	Reduced acceptor	white
-zeta-carotene desaturase	1.3.5.6	H2O	all-trans-zeta-Carotene	white
-zeta-carotene desaturase	1.3.5.6	Oxygen	Acceptor	white
-zeta-carotene desaturase	1.3.5.6	Oxygen	H2O	white
-zeta-carotene desaturase	1.3.5.6	Oxygen	all-trans-Neurosporene	white
-zeta-carotene desaturase	1.3.5.6	Reduced acceptor	Acceptor	white
-zeta-carotene desaturase	1.3.5.6	Reduced acceptor	H2O	white
-zeta-carotene desaturase	1.3.5.6	Reduced acceptor	all-trans-Neurosporene	white
-zeta-carotene desaturase	1.3.5.6	all-trans-Neurosporene	Oxygen	white
-zeta-carotene desaturase	1.3.5.6	all-trans-Neurosporene	Reduced acceptor	white
-zeta-carotene desaturase	1.3.5.6	all-trans-Neurosporene	all-trans-zeta-Carotene	white
-zeta-carotene desaturase	1.3.5.6	all-trans-zeta-Carotene	Acceptor	white
-zeta-carotene desaturase	1.3.5.6	all-trans-zeta-Carotene	H2O	white
-zeta-carotene desaturase	1.3.5.6	all-trans-zeta-Carotene	all-trans-Neurosporene	white
-zeta-carotene isomerase	5.2.1.12	9,15,9'-tricis-zeta-Carotene	9,9'-dicis-zeta-Carotene	white
-zeta-carotene isomerase	5.2.1.12	9,9'-dicis-zeta-Carotene	9,15,9'-tricis-zeta-Carotene	white
+enzyme_name	EC	source	target	reaction	color
+(+)-abscisic acid 8'-hydroxylase	1.14.14.137	8'-Hydroxyabscisate	Abscisate	R07202	white
+(+)-abscisic acid 8'-hydroxylase	1.14.14.137	8'-Hydroxyabscisate	Oxygen	R07202	white
+(+)-abscisic acid 8'-hydroxylase	1.14.14.137	8'-Hydroxyabscisate	[Reduced NADPH---hemoprotein reductase]	R07202	white
+(+)-abscisic acid 8'-hydroxylase	1.14.14.137	Abscisate	8'-Hydroxyabscisate	R07202	white
+(+)-abscisic acid 8'-hydroxylase	1.14.14.137	Abscisate	H2O	R07202	white
+(+)-abscisic acid 8'-hydroxylase	1.14.14.137	Abscisate	[Oxidized NADPH---hemoprotein reductase]	R07202	white
+(+)-abscisic acid 8'-hydroxylase	1.14.14.137	H2O	Abscisate	R07202	white
+(+)-abscisic acid 8'-hydroxylase	1.14.14.137	H2O	Oxygen	R07202	white
+(+)-abscisic acid 8'-hydroxylase	1.14.14.137	H2O	[Reduced NADPH---hemoprotein reductase]	R07202	white
+(+)-abscisic acid 8'-hydroxylase	1.14.14.137	Oxygen	8'-Hydroxyabscisate	R07202	white
+(+)-abscisic acid 8'-hydroxylase	1.14.14.137	Oxygen	H2O	R07202	white
+(+)-abscisic acid 8'-hydroxylase	1.14.14.137	Oxygen	[Oxidized NADPH---hemoprotein reductase]	R07202	white
+(+)-abscisic acid 8'-hydroxylase	1.14.14.137	[Oxidized NADPH---hemoprotein reductase]	Abscisate	R07202	white
+(+)-abscisic acid 8'-hydroxylase	1.14.14.137	[Oxidized NADPH---hemoprotein reductase]	Oxygen	R07202	white
+(+)-abscisic acid 8'-hydroxylase	1.14.14.137	[Oxidized NADPH---hemoprotein reductase]	[Reduced NADPH---hemoprotein reductase]	R07202	white
+(+)-abscisic acid 8'-hydroxylase	1.14.14.137	[Reduced NADPH---hemoprotein reductase]	8'-Hydroxyabscisate	R07202	white
+(+)-abscisic acid 8'-hydroxylase	1.14.14.137	[Reduced NADPH---hemoprotein reductase]	H2O	R07202	white
+(+)-abscisic acid 8'-hydroxylase	1.14.14.137	[Reduced NADPH---hemoprotein reductase]	[Oxidized NADPH---hemoprotein reductase]	R07202	white
+1'-hydroxy-gamma-carotene C-4' ketolase	1.2.99.10	1'-Hydroxy-1',2'-dihydro-beta,psi-caroten-4'-one	1'-Hydroxy-gamma-carotene	R12752	white
+1'-hydroxy-gamma-carotene C-4' ketolase	1.2.99.10	1'-Hydroxy-gamma-carotene	1'-Hydroxy-1',2'-dihydro-beta,psi-caroten-4'-one	R12752	white
+1-hydroxy-2-isopentenylcarotenoid 3,4-desaturase	1.3.99.37	Acceptor	Isopentenyldehydrorhodopin	R12708	white
+1-hydroxy-2-isopentenylcarotenoid 3,4-desaturase	1.3.99.37	Acceptor	Reduced acceptor	R12708	white
+1-hydroxy-2-isopentenylcarotenoid 3,4-desaturase	1.3.99.37	Dihydroisopentenyldehydrorhodopin	Isopentenyldehydrorhodopin	R12708	white
+1-hydroxy-2-isopentenylcarotenoid 3,4-desaturase	1.3.99.37	Dihydroisopentenyldehydrorhodopin	Reduced acceptor	R12708	white
+1-hydroxy-2-isopentenylcarotenoid 3,4-desaturase	1.3.99.37	Isopentenyldehydrorhodopin	Acceptor	R12708	white
+1-hydroxy-2-isopentenylcarotenoid 3,4-desaturase	1.3.99.37	Isopentenyldehydrorhodopin	Dihydroisopentenyldehydrorhodopin	R12708	white
+1-hydroxy-2-isopentenylcarotenoid 3,4-desaturase	1.3.99.37	Reduced acceptor	Acceptor	R12708	white
+1-hydroxy-2-isopentenylcarotenoid 3,4-desaturase	1.3.99.37	Reduced acceptor	Dihydroisopentenyldehydrorhodopin	R12708	white
+1-hydroxycarotenoid 3,4-desaturase	1.3.99.27	1'-Hydroxy-gamma-carotene	1'-Hydroxytorulene	R07517	white
+1-hydroxycarotenoid 3,4-desaturase	1.3.99.27	1'-Hydroxytorulene	1'-Hydroxy-gamma-carotene	R07517	white
+15-cis-phytoene desaturase	1.3.5.5	Acceptor	Reduced acceptor	R04786	white
+15-cis-phytoene desaturase	1.3.5.5	Acceptor	all-trans-Phytofluene	R04786	white
+15-cis-phytoene desaturase	1.3.5.5	Reduced acceptor	Acceptor	R04786	white
+15-cis-phytoene desaturase	1.3.5.5	Reduced acceptor	all-trans-Phytoene	R04786	white
+15-cis-phytoene desaturase	1.3.5.5	all-trans-Phytoene	Reduced acceptor	R04786	white
+15-cis-phytoene desaturase	1.3.5.5	all-trans-Phytoene	all-trans-Phytofluene	R04786	white
+15-cis-phytoene desaturase	1.3.5.5	all-trans-Phytofluene	Acceptor	R04786	white
+15-cis-phytoene desaturase	1.3.5.5	all-trans-Phytofluene	all-trans-Phytoene	R04786	white
+15-cis-phytoene synthase	2.5.1.32	Geranylgeranyl diphosphate	Diphosphate	R02065	green
+15-cis-phytoene synthase	2.5.1.32	Geranylgeranyl diphosphate	Prephytoene diphosphate	R02065	green
+15-cis-phytoene synthase	2.5.1.32	Prephytoene diphosphate	15-cis-Phytoene	R04218	green
+15-cis-phytoene synthase	2.5.1.32	Prephytoene diphosphate	Diphosphate	R04218	green
+15-cis-phytoene synthase	2.5.1.32	Prephytoene diphosphate	Diphosphate	R07270	green
+15-cis-phytoene synthase	2.5.1.32	Prephytoene diphosphate	all-trans-Phytoene	R07270	green
+15-cis-phytoene synthase / lycopene beta-cyclase	2.5.1.32	Diphosphate	Geranylgeranyl diphosphate	R02065	white
+15-cis-phytoene synthase / lycopene beta-cyclase	2.5.1.32	Geranylgeranyl diphosphate	Diphosphate	R02065	white
+15-cis-phytoene synthase / lycopene beta-cyclase	2.5.1.32	Geranylgeranyl diphosphate	Prephytoene diphosphate	R02065	white
+15-cis-phytoene synthase / lycopene beta-cyclase	2.5.1.32	Prephytoene diphosphate	Geranylgeranyl diphosphate	R02065	white
+4,4'-diapolycopenoate synthase	1.2.99.10	4,4'-Diapolycopene-4,4'-dioate	4,4'-Diapolycopenedial	R11914	white
+4,4'-diapolycopenoate synthase	1.2.99.10	4,4'-Diapolycopene-4,4'-dioate	Acceptor	R11914	white
+4,4'-diapolycopenoate synthase	1.2.99.10	4,4'-Diapolycopene-4,4'-dioate	H2O	R11914	white
+4,4'-diapolycopenoate synthase	1.2.99.10	4,4'-Diapolycopenedial	4,4'-Diapolycopene-4,4'-dioate	R11914	white
+4,4'-diapolycopenoate synthase	1.2.99.10	4,4'-Diapolycopenedial	Reduced acceptor	R11914	white
+4,4'-diapolycopenoate synthase	1.2.99.10	Acceptor	4,4'-Diapolycopene-4,4'-dioate	R11914	white
+4,4'-diapolycopenoate synthase	1.2.99.10	Acceptor	Reduced acceptor	R11914	white
+4,4'-diapolycopenoate synthase	1.2.99.10	H2O	4,4'-Diapolycopene-4,4'-dioate	R11914	white
+4,4'-diapolycopenoate synthase	1.2.99.10	H2O	Reduced acceptor	R11914	white
+4,4'-diapolycopenoate synthase	1.2.99.10	Reduced acceptor	4,4'-Diapolycopenedial	R11914	white
+4,4'-diapolycopenoate synthase	1.2.99.10	Reduced acceptor	Acceptor	R11914	white
+4,4'-diapolycopenoate synthase	1.2.99.10	Reduced acceptor	H2O	R11914	white
+4,4'-diaponeurosporenoate glycosyltransferase	2.4.1.-	4,4'-Diaponeurosporenic acid	Glucosyl-4,4'-diaponeurosporenoate	R07655	white
+4,4'-diaponeurosporenoate glycosyltransferase	2.4.1.-	Glucosyl-4,4'-diaponeurosporenoate	4,4'-Diaponeurosporenic acid	R07655	white
+4,4'-diapophytoene desaturase	1.3.8.2	4,4'-Diaponeurosporene	4,4'-Diapophytoene	R07653	white
+4,4'-diapophytoene desaturase	1.3.8.2	4,4'-Diaponeurosporene	FAD	R07653	white
+4,4'-diapophytoene desaturase	1.3.8.2	4,4'-Diapophytoene	4,4'-Diaponeurosporene	R07653	white
+4,4'-diapophytoene desaturase	1.3.8.2	4,4'-Diapophytoene	FADH2	R07653	white
+4,4'-diapophytoene desaturase	1.3.8.2	FAD	4,4'-Diaponeurosporene	R07653	white
+4,4'-diapophytoene desaturase	1.3.8.2	FAD	FADH2	R07653	white
+4,4'-diapophytoene desaturase	1.3.8.2	FADH2	4,4'-Diapophytoene	R07653	white
+4,4'-diapophytoene desaturase	1.3.8.2	FADH2	FAD	R07653	white
+4,4'-diapophytoene synthase	2.5.1.96	Diphosphate	trans,trans-Farnesyl diphosphate	R00702	white
+4,4'-diapophytoene synthase	2.5.1.96	Presqualene diphosphate	trans,trans-Farnesyl diphosphate	R00702	white
+4,4'-diapophytoene synthase	2.5.1.96	trans,trans-Farnesyl diphosphate	Diphosphate	R00702	white
+4,4'-diapophytoene synthase	2.5.1.96	trans,trans-Farnesyl diphosphate	Presqualene diphosphate	R00702	white
+9-cis-beta-carotene 9',10'-cleaving dioxygenase	1.13.11.68	9-cis-10'-Apo-beta-carotenal	9-cis-beta-Carotene	R10557	white
+9-cis-beta-carotene 9',10'-cleaving dioxygenase	1.13.11.68	9-cis-10'-Apo-beta-carotenal	Oxygen	R10557	white
+9-cis-beta-carotene 9',10'-cleaving dioxygenase	1.13.11.68	9-cis-beta-Carotene	9-cis-10'-Apo-beta-carotenal	R10557	white
+9-cis-beta-carotene 9',10'-cleaving dioxygenase	1.13.11.68	9-cis-beta-Carotene	beta-Ionone	R10557	white
+9-cis-beta-carotene 9',10'-cleaving dioxygenase	1.13.11.68	Oxygen	9-cis-10'-Apo-beta-carotenal	R10557	white
+9-cis-beta-carotene 9',10'-cleaving dioxygenase	1.13.11.68	Oxygen	beta-Ionone	R10557	white
+9-cis-beta-carotene 9',10'-cleaving dioxygenase	1.13.11.68	beta-Ionone	9-cis-beta-Carotene	R10557	white
+9-cis-beta-carotene 9',10'-cleaving dioxygenase	1.13.11.68	beta-Ionone	Oxygen	R10557	white
+9-cis-epoxycarotenoid dioxygenase	1.13.11.51	9'-cis-Neoxanthin	C25-Allenic-apo-aldehyde	R06952	white
+9-cis-epoxycarotenoid dioxygenase	1.13.11.51	9'-cis-Neoxanthin	Xanthoxin	R06952	white
+9-cis-epoxycarotenoid dioxygenase	1.13.11.51	C25-Allenic-apo-aldehyde	9'-cis-Neoxanthin	R06952	white
+9-cis-epoxycarotenoid dioxygenase	1.13.11.51	C25-Allenic-apo-aldehyde	Oxygen	R06952	white
+9-cis-epoxycarotenoid dioxygenase	1.13.11.51	Oxygen	C25-Allenic-apo-aldehyde	R06952	white
+9-cis-epoxycarotenoid dioxygenase	1.13.11.51	Oxygen	Xanthoxin	R06952	white
+9-cis-epoxycarotenoid dioxygenase	1.13.11.51	Xanthoxin	9'-cis-Neoxanthin	R06952	white
+9-cis-epoxycarotenoid dioxygenase	1.13.11.51	Xanthoxin	Oxygen	R06952	white
+abscisate beta-glucosyltransferase	2.4.1.263	Abscisate	Abscisic acid glucose ester	R07575	white
+abscisate beta-glucosyltransferase	2.4.1.263	Abscisate	UDP	R07575	white
+abscisate beta-glucosyltransferase	2.4.1.263	Abscisic acid glucose ester	Abscisate	R07575	white
+abscisate beta-glucosyltransferase	2.4.1.263	Abscisic acid glucose ester	UDP-glucose	R07575	white
+abscisate beta-glucosyltransferase	2.4.1.263	UDP	Abscisate	R07575	white
+abscisate beta-glucosyltransferase	2.4.1.263	UDP	UDP-glucose	R07575	white
+abscisate beta-glucosyltransferase	2.4.1.263	UDP-glucose	Abscisic acid glucose ester	R07575	white
+abscisate beta-glucosyltransferase	2.4.1.263	UDP-glucose	UDP	R07575	white
+abscisic-aldehyde oxidase	1.2.3.14	Abscisate	Abscisic aldehyde	R06957	white
+abscisic-aldehyde oxidase	1.2.3.14	Abscisate	H2O	R06957	white
+abscisic-aldehyde oxidase	1.2.3.14	Abscisate	Oxygen	R06957	white
+abscisic-aldehyde oxidase	1.2.3.14	Abscisic aldehyde	Abscisate	R06957	white
+abscisic-aldehyde oxidase	1.2.3.14	Abscisic aldehyde	Hydrogen peroxide	R06957	white
+abscisic-aldehyde oxidase	1.2.3.14	H2O	Abscisate	R06957	white
+abscisic-aldehyde oxidase	1.2.3.14	H2O	Hydrogen peroxide	R06957	white
+abscisic-aldehyde oxidase	1.2.3.14	Hydrogen peroxide	Abscisic aldehyde	R06957	white
+abscisic-aldehyde oxidase	1.2.3.14	Hydrogen peroxide	H2O	R06957	white
+abscisic-aldehyde oxidase	1.2.3.14	Hydrogen peroxide	Oxygen	R06957	white
+abscisic-aldehyde oxidase	1.2.3.14	Oxygen	Abscisate	R06957	white
+abscisic-aldehyde oxidase	1.2.3.14	Oxygen	Hydrogen peroxide	R06957	white
+beta-D-glucopyranosyl abscisate beta-glucosidase	3.2.1.175	Abscisate	Abscisic acid glucose ester	R09723	white
+beta-D-glucopyranosyl abscisate beta-glucosidase	3.2.1.175	Abscisate	H2O	R09723	white
+beta-D-glucopyranosyl abscisate beta-glucosidase	3.2.1.175	Abscisic acid glucose ester	Abscisate	R09723	white
+beta-D-glucopyranosyl abscisate beta-glucosidase	3.2.1.175	Abscisic acid glucose ester	D-Glucose	R09723	white
+beta-D-glucopyranosyl abscisate beta-glucosidase	3.2.1.175	D-Glucose	Abscisic acid glucose ester	R09723	white
+beta-D-glucopyranosyl abscisate beta-glucosidase	3.2.1.175	D-Glucose	H2O	R09723	white
+beta-D-glucopyranosyl abscisate beta-glucosidase	3.2.1.175	H2O	Abscisate	R09723	white
+beta-D-glucopyranosyl abscisate beta-glucosidase	3.2.1.175	H2O	D-Glucose	R09723	white
+beta-apo-4'-carotenal oxygenase	1.2.1.82	4'-Apo-beta,psi-caroten-4'-al	H+	R09783	white
+beta-apo-4'-carotenal oxygenase	1.2.1.82	4'-Apo-beta,psi-caroten-4'-al	NADH	R09783	white
+beta-apo-4'-carotenal oxygenase	1.2.1.82	4'-Apo-beta,psi-caroten-4'-al	Neurosporaxanthin	R09783	white
+beta-apo-4'-carotenal oxygenase	1.2.1.82	H+	4'-Apo-beta,psi-caroten-4'-al	R09783	white
+beta-apo-4'-carotenal oxygenase	1.2.1.82	H+	H2O	R09783	white
+beta-apo-4'-carotenal oxygenase	1.2.1.82	H+	NAD+	R09783	white
+beta-apo-4'-carotenal oxygenase	1.2.1.82	H2O	H+	R09783	white
+beta-apo-4'-carotenal oxygenase	1.2.1.82	H2O	NADH	R09783	white
+beta-apo-4'-carotenal oxygenase	1.2.1.82	H2O	Neurosporaxanthin	R09783	white
+beta-apo-4'-carotenal oxygenase	1.2.1.82	NAD+	H+	R09783	white
+beta-apo-4'-carotenal oxygenase	1.2.1.82	NAD+	NADH	R09783	white
+beta-apo-4'-carotenal oxygenase	1.2.1.82	NAD+	Neurosporaxanthin	R09783	white
+beta-apo-4'-carotenal oxygenase	1.2.1.82	NADH	4'-Apo-beta,psi-caroten-4'-al	R09783	white
+beta-apo-4'-carotenal oxygenase	1.2.1.82	NADH	H2O	R09783	white
+beta-apo-4'-carotenal oxygenase	1.2.1.82	NADH	NAD+	R09783	white
+beta-apo-4'-carotenal oxygenase	1.2.1.82	Neurosporaxanthin	4'-Apo-beta,psi-caroten-4'-al	R09783	white
+beta-apo-4'-carotenal oxygenase	1.2.1.82	Neurosporaxanthin	H2O	R09783	white
+beta-apo-4'-carotenal oxygenase	1.2.1.82	Neurosporaxanthin	NAD+	R09783	white
+beta-carotene 3-hydroxylase	1.14.15.24	H+	H2O	R07530	white
+beta-carotene 3-hydroxylase	1.14.15.24	H+	Oxidized ferredoxin	R07530	white
+beta-carotene 3-hydroxylase	1.14.15.24	H+	Zeinoxanthin	R07530	white
+beta-carotene 3-hydroxylase	1.14.15.24	H2O	H+	R07530	white
+beta-carotene 3-hydroxylase	1.14.15.24	H2O	Oxygen	R07530	white
+beta-carotene 3-hydroxylase	1.14.15.24	H2O	Reduced ferredoxin	R07530	white
+beta-carotene 3-hydroxylase	1.14.15.24	H2O	alpha-Carotene	R07530	white
+beta-carotene 3-hydroxylase	1.14.15.24	Oxidized ferredoxin	H+	R07530	white
+beta-carotene 3-hydroxylase	1.14.15.24	Oxidized ferredoxin	Oxygen	R07530	white
+beta-carotene 3-hydroxylase	1.14.15.24	Oxidized ferredoxin	Reduced ferredoxin	R07530	white
+beta-carotene 3-hydroxylase	1.14.15.24	Oxidized ferredoxin	alpha-Carotene	R07530	white
+beta-carotene 3-hydroxylase	1.14.15.24	Oxygen	H2O	R07530	white
+beta-carotene 3-hydroxylase	1.14.15.24	Oxygen	Oxidized ferredoxin	R07530	white
+beta-carotene 3-hydroxylase	1.14.15.24	Oxygen	Zeinoxanthin	R07530	white
+beta-carotene 3-hydroxylase	1.14.15.24	Reduced ferredoxin	H2O	R07530	white
+beta-carotene 3-hydroxylase	1.14.15.24	Reduced ferredoxin	Oxidized ferredoxin	R07530	white
+beta-carotene 3-hydroxylase	1.14.15.24	Reduced ferredoxin	Zeinoxanthin	R07530	white
+beta-carotene 3-hydroxylase	1.14.15.24	Zeinoxanthin	H+	R07530	white
+beta-carotene 3-hydroxylase	1.14.15.24	Zeinoxanthin	Oxygen	R07530	white
+beta-carotene 3-hydroxylase	1.14.15.24	Zeinoxanthin	Reduced ferredoxin	R07530	white
+beta-carotene 3-hydroxylase	1.14.15.24	Zeinoxanthin	alpha-Carotene	R07530	white
+beta-carotene 3-hydroxylase	1.14.15.24	alpha-Carotene	H2O	R07530	white
+beta-carotene 3-hydroxylase	1.14.15.24	alpha-Carotene	Oxidized ferredoxin	R07530	white
+beta-carotene 3-hydroxylase	1.14.15.24	alpha-Carotene	Zeinoxanthin	R07530	white
+beta-carotene 4-ketolase/3-hydroxylase	1.14.99.63	Acceptor	Oxygen	R05345	white
+beta-carotene 4-ketolase/3-hydroxylase	1.14.99.63	Acceptor	Reduced acceptor	R05345	white
+beta-carotene 4-ketolase/3-hydroxylase	1.14.99.63	Acceptor	beta-Carotene	R05345	white
+beta-carotene 4-ketolase/3-hydroxylase	1.14.99.63	Echinenone	Oxygen	R05345	white
+beta-carotene 4-ketolase/3-hydroxylase	1.14.99.63	Echinenone	Reduced acceptor	R05345	white
+beta-carotene 4-ketolase/3-hydroxylase	1.14.99.63	Echinenone	beta-Carotene	R05345	white
+beta-carotene 4-ketolase/3-hydroxylase	1.14.99.63	H2O	Oxygen	R05345	white
+beta-carotene 4-ketolase/3-hydroxylase	1.14.99.63	H2O	Reduced acceptor	R05345	white
+beta-carotene 4-ketolase/3-hydroxylase	1.14.99.63	H2O	beta-Carotene	R05345	white
+beta-carotene 4-ketolase/3-hydroxylase	1.14.99.63	Oxygen	Acceptor	R05345	white
+beta-carotene 4-ketolase/3-hydroxylase	1.14.99.63	Oxygen	Echinenone	R05345	white
+beta-carotene 4-ketolase/3-hydroxylase	1.14.99.63	Oxygen	H2O	R05345	white
+beta-carotene 4-ketolase/3-hydroxylase	1.14.99.63	Reduced acceptor	Acceptor	R05345	white
+beta-carotene 4-ketolase/3-hydroxylase	1.14.99.63	Reduced acceptor	Echinenone	R05345	white
+beta-carotene 4-ketolase/3-hydroxylase	1.14.99.63	Reduced acceptor	H2O	R05345	white
+beta-carotene 4-ketolase/3-hydroxylase	1.14.99.63	beta-Carotene	Acceptor	R05345	white
+beta-carotene 4-ketolase/3-hydroxylase	1.14.99.63	beta-Carotene	Echinenone	R05345	white
+beta-carotene 4-ketolase/3-hydroxylase	1.14.99.63	beta-Carotene	H2O	R05345	white
+beta-carotene hydroxylase	1.14.13.-	(2'S)-Deoxymyxol 2'-(2,4-di-O-methyl-alpha-L-fucoside)	(3R,2'S)-Myxol 2'-(2,4-di-O-methyl-alpha-L-fucoside)	R07554	white
+beta-carotene hydroxylase	1.14.13.-	(3R,2'S)-Myxol 2'-(2,4-di-O-methyl-alpha-L-fucoside)	(2'S)-Deoxymyxol 2'-(2,4-di-O-methyl-alpha-L-fucoside)	R07554	white
+beta-carotene isomerase	5.2.1.14	9-cis-beta-Carotene	beta-Carotene	R10282	white
+beta-carotene isomerase	5.2.1.14	beta-Carotene	9-cis-beta-Carotene	R10282	white
+beta-carotene ketolase (CrtO type)	1.14.99.63	Echinenone	beta-Carotene	R12179	white
+beta-carotene ketolase (CrtO type)	1.14.99.63	beta-Carotene	Echinenone	R12179	white
+beta-carotene/zeaxanthin 4-ketolase	1.14.99.63	Acceptor	Oxygen	R05345	white
+beta-carotene/zeaxanthin 4-ketolase	1.14.99.63	Acceptor	Reduced acceptor	R05345	white
+beta-carotene/zeaxanthin 4-ketolase	1.14.99.63	Acceptor	beta-Carotene	R05345	white
+beta-carotene/zeaxanthin 4-ketolase	1.14.99.63	Echinenone	Oxygen	R05345	white
+beta-carotene/zeaxanthin 4-ketolase	1.14.99.63	Echinenone	Reduced acceptor	R05345	white
+beta-carotene/zeaxanthin 4-ketolase	1.14.99.63	Echinenone	beta-Carotene	R05345	white
+beta-carotene/zeaxanthin 4-ketolase	1.14.99.63	H2O	Oxygen	R05345	white
+beta-carotene/zeaxanthin 4-ketolase	1.14.99.63	H2O	Reduced acceptor	R05345	white
+beta-carotene/zeaxanthin 4-ketolase	1.14.99.63	H2O	beta-Carotene	R05345	white
+beta-carotene/zeaxanthin 4-ketolase	1.14.99.63	Oxygen	Acceptor	R05345	white
+beta-carotene/zeaxanthin 4-ketolase	1.14.99.63	Oxygen	Echinenone	R05345	white
+beta-carotene/zeaxanthin 4-ketolase	1.14.99.63	Oxygen	H2O	R05345	white
+beta-carotene/zeaxanthin 4-ketolase	1.14.99.63	Reduced acceptor	Acceptor	R05345	white
+beta-carotene/zeaxanthin 4-ketolase	1.14.99.63	Reduced acceptor	Echinenone	R05345	white
+beta-carotene/zeaxanthin 4-ketolase	1.14.99.63	Reduced acceptor	H2O	R05345	white
+beta-carotene/zeaxanthin 4-ketolase	1.14.99.63	beta-Carotene	Acceptor	R05345	white
+beta-carotene/zeaxanthin 4-ketolase	1.14.99.63	beta-Carotene	Echinenone	R05345	white
+beta-carotene/zeaxanthin 4-ketolase	1.14.99.63	beta-Carotene	H2O	R05345	white
+beta-ring hydroxylase	1.14.-.-	H+	H2O	R07530	white
+beta-ring hydroxylase	1.14.-.-	H+	Oxidized ferredoxin	R07530	white
+beta-ring hydroxylase	1.14.-.-	H+	Zeinoxanthin	R07530	white
+beta-ring hydroxylase	1.14.-.-	H2O	H+	R07530	white
+beta-ring hydroxylase	1.14.-.-	H2O	Oxygen	R07530	white
+beta-ring hydroxylase	1.14.-.-	H2O	Reduced ferredoxin	R07530	white
+beta-ring hydroxylase	1.14.-.-	H2O	alpha-Carotene	R07530	white
+beta-ring hydroxylase	1.14.-.-	Oxidized ferredoxin	H+	R07530	white
+beta-ring hydroxylase	1.14.-.-	Oxidized ferredoxin	Oxygen	R07530	white
+beta-ring hydroxylase	1.14.-.-	Oxidized ferredoxin	Reduced ferredoxin	R07530	white
+beta-ring hydroxylase	1.14.-.-	Oxidized ferredoxin	alpha-Carotene	R07530	white
+beta-ring hydroxylase	1.14.-.-	Oxygen	H2O	R07530	white
+beta-ring hydroxylase	1.14.-.-	Oxygen	Oxidized ferredoxin	R07530	white
+beta-ring hydroxylase	1.14.-.-	Oxygen	Zeinoxanthin	R07530	white
+beta-ring hydroxylase	1.14.-.-	Reduced ferredoxin	H2O	R07530	white
+beta-ring hydroxylase	1.14.-.-	Reduced ferredoxin	Oxidized ferredoxin	R07530	white
+beta-ring hydroxylase	1.14.-.-	Reduced ferredoxin	Zeinoxanthin	R07530	white
+beta-ring hydroxylase	1.14.-.-	Zeinoxanthin	H+	R07530	white
+beta-ring hydroxylase	1.14.-.-	Zeinoxanthin	Oxygen	R07530	white
+beta-ring hydroxylase	1.14.-.-	Zeinoxanthin	Reduced ferredoxin	R07530	white
+beta-ring hydroxylase	1.14.-.-	Zeinoxanthin	alpha-Carotene	R07530	white
+beta-ring hydroxylase	1.14.-.-	alpha-Carotene	H2O	R07530	white
+beta-ring hydroxylase	1.14.-.-	alpha-Carotene	Oxidized ferredoxin	R07530	white
+beta-ring hydroxylase	1.14.-.-	alpha-Carotene	Zeinoxanthin	R07530	white
+bisanhydrobacterioruberin hydratase	4.2.1.161	Bacterioruberin	H2O	R12711	white
+bisanhydrobacterioruberin hydratase	4.2.1.161	Bacterioruberin	Monoanhydrobacterioruberin	R12711	white
+bisanhydrobacterioruberin hydratase	4.2.1.161	H2O	Bacterioruberin	R12711	white
+bisanhydrobacterioruberin hydratase	4.2.1.161	Monoanhydrobacterioruberin	Bacterioruberin	R12711	white
+capsanthin/capsorubin synthase	5.3.99.8	Capsorubin	Violaxanthin	R07320	white
+capsanthin/capsorubin synthase	5.3.99.8	Violaxanthin	Capsorubin	R07320	white
+carlactone synthase / all-trans-10'-apo-beta-carotenal 13,14-cleaving dioxygenase	1.13.11.69	(2E,4E,6E)-7-Hydroxy-4-methylhepta-2,4,6-trienal	9-cis-10'-Apo-beta-carotenal	R10558	white
+carlactone synthase / all-trans-10'-apo-beta-carotenal 13,14-cleaving dioxygenase	1.13.11.69	(2E,4E,6E)-7-Hydroxy-4-methylhepta-2,4,6-trienal	Oxygen	R10558	white
+carlactone synthase / all-trans-10'-apo-beta-carotenal 13,14-cleaving dioxygenase	1.13.11.69	9-cis-10'-Apo-beta-carotenal	(2E,4E,6E)-7-Hydroxy-4-methylhepta-2,4,6-trienal	R10558	white
+carlactone synthase / all-trans-10'-apo-beta-carotenal 13,14-cleaving dioxygenase	1.13.11.69	9-cis-10'-Apo-beta-carotenal	Carlactone	R10558	white
+carlactone synthase / all-trans-10'-apo-beta-carotenal 13,14-cleaving dioxygenase	1.13.11.69	Carlactone	9-cis-10'-Apo-beta-carotenal	R10558	white
+carlactone synthase / all-trans-10'-apo-beta-carotenal 13,14-cleaving dioxygenase	1.13.11.69	Carlactone	Oxygen	R10558	white
+carlactone synthase / all-trans-10'-apo-beta-carotenal 13,14-cleaving dioxygenase	1.13.11.69	Oxygen	(2E,4E,6E)-7-Hydroxy-4-methylhepta-2,4,6-trienal	R10558	white
+carlactone synthase / all-trans-10'-apo-beta-carotenal 13,14-cleaving dioxygenase	1.13.11.69	Oxygen	Carlactone	R10558	white
+carotenoid 1,2-hydratase	4.2.1.131	1'-Hydroxy-gamma-carotene	H2O	R07516	white
+carotenoid 1,2-hydratase	4.2.1.131	1'-Hydroxy-gamma-carotene	gamma-Carotene	R07516	white
+carotenoid 1,2-hydratase	4.2.1.131	H2O	1'-Hydroxy-gamma-carotene	R07516	white
+carotenoid 1,2-hydratase	4.2.1.131	gamma-Carotene	1'-Hydroxy-gamma-carotene	R07516	white
+carotenoid chi-ring synthase	1.3.99.40	Acceptor	Okenone	R07849	white
+carotenoid chi-ring synthase	1.3.99.40	Acceptor	Reduced acceptor	R07849	white
+carotenoid chi-ring synthase	1.3.99.40	Okenone	Acceptor	R07849	white
+carotenoid chi-ring synthase	1.3.99.40	Okenone	Thiothece-474	R07849	white
+carotenoid chi-ring synthase	1.3.99.40	Reduced acceptor	Acceptor	R07849	white
+carotenoid chi-ring synthase	1.3.99.40	Reduced acceptor	Thiothece-474	R07849	white
+carotenoid chi-ring synthase	1.3.99.40	Thiothece-474	Okenone	R07849	white
+carotenoid chi-ring synthase	1.3.99.40	Thiothece-474	Reduced acceptor	R07849	white
+carotenoid epsilon hydroxylase	1.14.14.158	H2O	Oxygen	R07531	white
+carotenoid epsilon hydroxylase	1.14.14.158	H2O	Zeinoxanthin	R07531	white
+carotenoid epsilon hydroxylase	1.14.14.158	H2O	[Reduced NADPH---hemoprotein reductase]	R07531	white
+carotenoid epsilon hydroxylase	1.14.14.158	Lutein	Oxygen	R07531	white
+carotenoid epsilon hydroxylase	1.14.14.158	Lutein	Zeinoxanthin	R07531	white
+carotenoid epsilon hydroxylase	1.14.14.158	Lutein	[Reduced NADPH---hemoprotein reductase]	R07531	white
+carotenoid epsilon hydroxylase	1.14.14.158	Oxygen	H2O	R07531	white
+carotenoid epsilon hydroxylase	1.14.14.158	Oxygen	Lutein	R07531	white
+carotenoid epsilon hydroxylase	1.14.14.158	Oxygen	[Oxidized NADPH---hemoprotein reductase]	R07531	white
+carotenoid epsilon hydroxylase	1.14.14.158	Zeinoxanthin	H2O	R07531	white
+carotenoid epsilon hydroxylase	1.14.14.158	Zeinoxanthin	Lutein	R07531	white
+carotenoid epsilon hydroxylase	1.14.14.158	Zeinoxanthin	[Oxidized NADPH---hemoprotein reductase]	R07531	white
+carotenoid epsilon hydroxylase	1.14.14.158	[Oxidized NADPH---hemoprotein reductase]	Oxygen	R07531	white
+carotenoid epsilon hydroxylase	1.14.14.158	[Oxidized NADPH---hemoprotein reductase]	Zeinoxanthin	R07531	white
+carotenoid epsilon hydroxylase	1.14.14.158	[Oxidized NADPH---hemoprotein reductase]	[Reduced NADPH---hemoprotein reductase]	R07531	white
+carotenoid epsilon hydroxylase	1.14.14.158	[Reduced NADPH---hemoprotein reductase]	H2O	R07531	white
+carotenoid epsilon hydroxylase	1.14.14.158	[Reduced NADPH---hemoprotein reductase]	Lutein	R07531	white
+carotenoid epsilon hydroxylase	1.14.14.158	[Reduced NADPH---hemoprotein reductase]	[Oxidized NADPH---hemoprotein reductase]	R07531	white
+carotenoid phi-ring synthase / carotenoid chi-ring synthase	1.3.99.39	Acceptor	Chlorobactene	R07541	white
+carotenoid phi-ring synthase / carotenoid chi-ring synthase	1.3.99.39	Acceptor	Reduced acceptor	R07541	white
+carotenoid phi-ring synthase / carotenoid chi-ring synthase	1.3.99.39	Chlorobactene	Acceptor	R07541	white
+carotenoid phi-ring synthase / carotenoid chi-ring synthase	1.3.99.39	Chlorobactene	gamma-Carotene	R07541	white
+carotenoid phi-ring synthase / carotenoid chi-ring synthase	1.3.99.39	Reduced acceptor	Acceptor	R07541	white
+carotenoid phi-ring synthase / carotenoid chi-ring synthase	1.3.99.39	Reduced acceptor	gamma-Carotene	R07541	white
+carotenoid phi-ring synthase / carotenoid chi-ring synthase	1.3.99.39	gamma-Carotene	Chlorobactene	R07541	white
+carotenoid phi-ring synthase / carotenoid chi-ring synthase	1.3.99.39	gamma-Carotene	Reduced acceptor	R07541	white
+chlorobactene glucosyltransferase	1.3.99.39	Hydroxychlorobactene	Hydroxychlorobactene glucoside	R07544	white
+chlorobactene glucosyltransferase	1.3.99.39	Hydroxychlorobactene glucoside	Hydroxychlorobactene	R07544	white
+chlorobactene lauroyltransferase	1.3.99.39	Hydroxychlorobactene glucoside	Hydroxychlorobactene glucoside ester	R07545	white
+chlorobactene lauroyltransferase	1.3.99.39	Hydroxychlorobactene glucoside ester	Hydroxychlorobactene glucoside	R07545	white
+demethylspheroidene O-methyltransferase	2.1.1.210	3,4-Dehydrorhodopin	Anhydrorhodovibrin	R07521	white
+demethylspheroidene O-methyltransferase	2.1.1.210	3,4-Dehydrorhodopin	S-Adenosyl-L-homocysteine	R07521	white
+demethylspheroidene O-methyltransferase	2.1.1.210	Anhydrorhodovibrin	3,4-Dehydrorhodopin	R07521	white
+demethylspheroidene O-methyltransferase	2.1.1.210	Anhydrorhodovibrin	S-Adenosyl-L-methionine	R07521	white
+demethylspheroidene O-methyltransferase	2.1.1.210	S-Adenosyl-L-homocysteine	3,4-Dehydrorhodopin	R07521	white
+demethylspheroidene O-methyltransferase	2.1.1.210	S-Adenosyl-L-homocysteine	S-Adenosyl-L-methionine	R07521	white
+demethylspheroidene O-methyltransferase	2.1.1.210	S-Adenosyl-L-methionine	Anhydrorhodovibrin	R07521	white
+demethylspheroidene O-methyltransferase	2.1.1.210	S-Adenosyl-L-methionine	S-Adenosyl-L-homocysteine	R07521	white
+diapolycopene oxygenase	1.14.99.44	4,4'-Diaponeurosporene	4,4'-Diaponeurosporenic acid	R07654	white
+diapolycopene oxygenase	1.14.99.44	4,4'-Diaponeurosporene	Acceptor	R07654	white
+diapolycopene oxygenase	1.14.99.44	4,4'-Diaponeurosporene	H2O	R07654	white
+diapolycopene oxygenase	1.14.99.44	4,4'-Diaponeurosporenic acid	4,4'-Diaponeurosporene	R07654	white
+diapolycopene oxygenase	1.14.99.44	4,4'-Diaponeurosporenic acid	Oxygen	R07654	white
+diapolycopene oxygenase	1.14.99.44	4,4'-Diaponeurosporenic acid	Reduced acceptor	R07654	white
+diapolycopene oxygenase	1.14.99.44	Acceptor	4,4'-Diaponeurosporene	R07654	white
+diapolycopene oxygenase	1.14.99.44	Acceptor	Oxygen	R07654	white
+diapolycopene oxygenase	1.14.99.44	Acceptor	Reduced acceptor	R07654	white
+diapolycopene oxygenase	1.14.99.44	H2O	4,4'-Diaponeurosporene	R07654	white
+diapolycopene oxygenase	1.14.99.44	H2O	Oxygen	R07654	white
+diapolycopene oxygenase	1.14.99.44	H2O	Reduced acceptor	R07654	white
+diapolycopene oxygenase	1.14.99.44	Oxygen	4,4'-Diaponeurosporenic acid	R07654	white
+diapolycopene oxygenase	1.14.99.44	Oxygen	Acceptor	R07654	white
+diapolycopene oxygenase	1.14.99.44	Oxygen	H2O	R07654	white
+diapolycopene oxygenase	1.14.99.44	Reduced acceptor	4,4'-Diaponeurosporenic acid	R07654	white
+diapolycopene oxygenase	1.14.99.44	Reduced acceptor	Acceptor	R07654	white
+diapolycopene oxygenase	1.14.99.44	Reduced acceptor	H2O	R07654	white
+glycosyl-4,4'-diaponeurosporenoate acyltransferase	2.3.1.-	Glucosyl-4,4'-diaponeurosporenoate	Staphyloxanthin	R07656	white
+glycosyl-4,4'-diaponeurosporenoate acyltransferase	2.3.1.-	Staphyloxanthin	Glucosyl-4,4'-diaponeurosporenoate	R07656	white
+lycopene beta-cyclase	5.5.1.19	Lycopene	gamma-Carotene	R05341	green
+lycopene beta-cyclase	5.5.1.19	all-trans-Neurosporene	beta-Zeacarotene	R04801	green
+lycopene beta-cyclase	5.5.1.19	beta-Zeacarotene	7,8-Dihydro-beta-carotene	R07856	green
+lycopene beta-cyclase	5.5.1.19	delta-Carotene	alpha-Carotene	R06962	green
+lycopene beta-cyclase	5.5.1.19	gamma-Carotene	beta-Carotene	R03824	green
+lycopene cyclase CruA	5.5.1.19	beta-Carotene	gamma-Carotene	R03824	white
+lycopene cyclase CruA	5.5.1.19	gamma-Carotene	beta-Carotene	R03824	white
+lycopene cyclase CruP	5.5.1.19	beta-Carotene	gamma-Carotene	R03824	white
+lycopene cyclase CruP	5.5.1.19	gamma-Carotene	beta-Carotene	R03824	white
+lycopene elongase/hydratase (dihydrobisanhydrobacterioruberin-forming)	2.5.1.150	Dihydroisopentenyldehydrorhodopin	Dimethylallyl diphosphate	R12285	white
+lycopene elongase/hydratase (dihydrobisanhydrobacterioruberin-forming)	2.5.1.150	Dihydroisopentenyldehydrorhodopin	H2O	R12285	white
+lycopene elongase/hydratase (dihydrobisanhydrobacterioruberin-forming)	2.5.1.150	Dihydroisopentenyldehydrorhodopin	Lycopene	R12285	white
+lycopene elongase/hydratase (dihydrobisanhydrobacterioruberin-forming)	2.5.1.150	Dimethylallyl diphosphate	Dihydroisopentenyldehydrorhodopin	R12285	white
+lycopene elongase/hydratase (dihydrobisanhydrobacterioruberin-forming)	2.5.1.150	Dimethylallyl diphosphate	Diphosphate	R12285	white
+lycopene elongase/hydratase (dihydrobisanhydrobacterioruberin-forming)	2.5.1.150	Diphosphate	Dimethylallyl diphosphate	R12285	white
+lycopene elongase/hydratase (dihydrobisanhydrobacterioruberin-forming)	2.5.1.150	Diphosphate	H2O	R12285	white
+lycopene elongase/hydratase (dihydrobisanhydrobacterioruberin-forming)	2.5.1.150	Diphosphate	Lycopene	R12285	white
+lycopene elongase/hydratase (dihydrobisanhydrobacterioruberin-forming)	2.5.1.150	H2O	Dihydroisopentenyldehydrorhodopin	R12285	white
+lycopene elongase/hydratase (dihydrobisanhydrobacterioruberin-forming)	2.5.1.150	H2O	Diphosphate	R12285	white
+lycopene elongase/hydratase (dihydrobisanhydrobacterioruberin-forming)	2.5.1.150	Lycopene	Dihydroisopentenyldehydrorhodopin	R12285	white
+lycopene elongase/hydratase (dihydrobisanhydrobacterioruberin-forming)	2.5.1.150	Lycopene	Diphosphate	R12285	white
+lycopene epsilon-cyclase	5.5.1.18	all-trans-Neurosporene	alpha-Zeacarotene	R06960	white
+lycopene epsilon-cyclase	5.5.1.18	alpha-Zeacarotene	all-trans-Neurosporene	R06960	white
+neoxanthin synthase	5.3.99.9	Neoxanthin	Violaxanthin	R06948	white
+neoxanthin synthase	5.3.99.9	Violaxanthin	Neoxanthin	R06948	white
+phytoene desaturase	1.3.99.26	15-cis-Phytoene	Reduced acceptor	R09692	green
+phytoene desaturase	1.3.99.26	15-cis-Phytoene	all-trans-Phytofluene	R09692	green
+phytoene desaturase	1.3.99.26	Acceptor	Reduced acceptor	R04787	green
+phytoene desaturase	1.3.99.26	Acceptor	Reduced acceptor	R09692	green
+phytoene desaturase	1.3.99.26	Acceptor	all-trans-Phytofluene	R09692	green
+phytoene desaturase	1.3.99.26	Acceptor	all-trans-zeta-Carotene	R04787	green
+phytoene desaturase	1.3.99.26	Oxygen	Acceptor	R04798	green
+phytoene desaturase	1.3.99.26	Oxygen	Acceptor	R04800	green
+phytoene desaturase	1.3.99.26	Oxygen	H2O	R04798	green
+phytoene desaturase	1.3.99.26	Oxygen	H2O	R04800	green
+phytoene desaturase	1.3.99.26	Oxygen	Lycopene	R04800	green
+phytoene desaturase	1.3.99.26	Oxygen	all-trans-Neurosporene	R04798	green
+phytoene desaturase	1.3.99.26	Reduced acceptor	Acceptor	R04798	green
+phytoene desaturase	1.3.99.26	Reduced acceptor	Acceptor	R04800	green
+phytoene desaturase	1.3.99.26	Reduced acceptor	H2O	R04798	green
+phytoene desaturase	1.3.99.26	Reduced acceptor	H2O	R04800	green
+phytoene desaturase	1.3.99.26	Reduced acceptor	Lycopene	R04800	green
+phytoene desaturase	1.3.99.26	Reduced acceptor	all-trans-Neurosporene	R04798	green
+phytoene desaturase	1.3.99.26	all-trans-Neurosporene	Acceptor	R04800	green
+phytoene desaturase	1.3.99.26	all-trans-Neurosporene	H2O	R04800	green
+phytoene desaturase	1.3.99.26	all-trans-Neurosporene	Lycopene	R04800	green
+phytoene desaturase	1.3.99.26	all-trans-Phytofluene	Reduced acceptor	R04787	green
+phytoene desaturase	1.3.99.26	all-trans-Phytofluene	all-trans-zeta-Carotene	R04787	green
+phytoene desaturase	1.3.99.26	all-trans-zeta-Carotene	Acceptor	R04798	green
+phytoene desaturase	1.3.99.26	all-trans-zeta-Carotene	H2O	R04798	green
+phytoene desaturase	1.3.99.26	all-trans-zeta-Carotene	all-trans-Neurosporene	R04798	green
+phytoene desaturase (3,4-didehydrolycopene-forming)	1.3.99.30	Acceptor	Reduced acceptor	R04787	white
+phytoene desaturase (3,4-didehydrolycopene-forming)	1.3.99.30	Acceptor	all-trans-zeta-Carotene	R04787	white
+phytoene desaturase (3,4-didehydrolycopene-forming)	1.3.99.30	Reduced acceptor	Acceptor	R04787	white
+phytoene desaturase (3,4-didehydrolycopene-forming)	1.3.99.30	Reduced acceptor	all-trans-Phytofluene	R04787	white
+phytoene desaturase (3,4-didehydrolycopene-forming)	1.3.99.30	all-trans-Phytofluene	Reduced acceptor	R04787	white
+phytoene desaturase (3,4-didehydrolycopene-forming)	1.3.99.30	all-trans-Phytofluene	all-trans-zeta-Carotene	R04787	white
+phytoene desaturase (3,4-didehydrolycopene-forming)	1.3.99.30	all-trans-zeta-Carotene	Acceptor	R04787	white
+phytoene desaturase (3,4-didehydrolycopene-forming)	1.3.99.30	all-trans-zeta-Carotene	all-trans-Phytofluene	R04787	white
+prolycopene isomerase	5.2.1.13	7,9,7',9'-tetracis-Lycopene	Lycopene	R07512	white
+prolycopene isomerase	5.2.1.13	Lycopene	7,9,7',9'-tetracis-Lycopene	R07512	white
+spheroidene monooxygenase	1.14.15.9	2-Ketospirilloxanthin	H+	R07525	white
+spheroidene monooxygenase	1.14.15.9	2-Ketospirilloxanthin	Oxygen	R07525	white
+spheroidene monooxygenase	1.14.15.9	2-Ketospirilloxanthin	Reduced ferredoxin	R07525	white
+spheroidene monooxygenase	1.14.15.9	2-Ketospirilloxanthin	Spirilloxanthin	R07525	white
+spheroidene monooxygenase	1.14.15.9	H+	2-Ketospirilloxanthin	R07525	white
+spheroidene monooxygenase	1.14.15.9	H+	H2O	R07525	white
+spheroidene monooxygenase	1.14.15.9	H+	Oxidized ferredoxin	R07525	white
+spheroidene monooxygenase	1.14.15.9	H2O	H+	R07525	white
+spheroidene monooxygenase	1.14.15.9	H2O	Oxygen	R07525	white
+spheroidene monooxygenase	1.14.15.9	H2O	Reduced ferredoxin	R07525	white
+spheroidene monooxygenase	1.14.15.9	H2O	Spirilloxanthin	R07525	white
+spheroidene monooxygenase	1.14.15.9	Oxidized ferredoxin	H+	R07525	white
+spheroidene monooxygenase	1.14.15.9	Oxidized ferredoxin	Oxygen	R07525	white
+spheroidene monooxygenase	1.14.15.9	Oxidized ferredoxin	Reduced ferredoxin	R07525	white
+spheroidene monooxygenase	1.14.15.9	Oxidized ferredoxin	Spirilloxanthin	R07525	white
+spheroidene monooxygenase	1.14.15.9	Oxygen	2-Ketospirilloxanthin	R07525	white
+spheroidene monooxygenase	1.14.15.9	Oxygen	H2O	R07525	white
+spheroidene monooxygenase	1.14.15.9	Oxygen	Oxidized ferredoxin	R07525	white
+spheroidene monooxygenase	1.14.15.9	Reduced ferredoxin	2-Ketospirilloxanthin	R07525	white
+spheroidene monooxygenase	1.14.15.9	Reduced ferredoxin	H2O	R07525	white
+spheroidene monooxygenase	1.14.15.9	Reduced ferredoxin	Oxidized ferredoxin	R07525	white
+spheroidene monooxygenase	1.14.15.9	Spirilloxanthin	2-Ketospirilloxanthin	R07525	white
+spheroidene monooxygenase	1.14.15.9	Spirilloxanthin	H2O	R07525	white
+spheroidene monooxygenase	1.14.15.9	Spirilloxanthin	Oxidized ferredoxin	R07525	white
+torulene dioxygenase	1.13.11.59	3-Methyl-2-butenal	Oxygen	R09782	white
+torulene dioxygenase	1.13.11.59	3-Methyl-2-butenal	Torulene	R09782	white
+torulene dioxygenase	1.13.11.59	4'-Apo-beta,psi-caroten-4'-al	Oxygen	R09782	white
+torulene dioxygenase	1.13.11.59	4'-Apo-beta,psi-caroten-4'-al	Torulene	R09782	white
+torulene dioxygenase	1.13.11.59	Oxygen	3-Methyl-2-butenal	R09782	white
+torulene dioxygenase	1.13.11.59	Oxygen	4'-Apo-beta,psi-caroten-4'-al	R09782	white
+torulene dioxygenase	1.13.11.59	Torulene	3-Methyl-2-butenal	R09782	white
+torulene dioxygenase	1.13.11.59	Torulene	4'-Apo-beta,psi-caroten-4'-al	R09782	white
+violaxanthin de-epoxidase	1.23.5.1	Antheraxanthin	Ascorbate	R07178	white
+violaxanthin de-epoxidase	1.23.5.1	Antheraxanthin	Violaxanthin	R07178	white
+violaxanthin de-epoxidase	1.23.5.1	Ascorbate	Antheraxanthin	R07178	white
+violaxanthin de-epoxidase	1.23.5.1	Ascorbate	Dehydroascorbate	R07178	white
+violaxanthin de-epoxidase	1.23.5.1	Ascorbate	H2O	R07178	white
+violaxanthin de-epoxidase	1.23.5.1	Dehydroascorbate	Ascorbate	R07178	white
+violaxanthin de-epoxidase	1.23.5.1	Dehydroascorbate	Violaxanthin	R07178	white
+violaxanthin de-epoxidase	1.23.5.1	H2O	Ascorbate	R07178	white
+violaxanthin de-epoxidase	1.23.5.1	H2O	Violaxanthin	R07178	white
+violaxanthin de-epoxidase	1.23.5.1	Violaxanthin	Antheraxanthin	R07178	white
+violaxanthin de-epoxidase	1.23.5.1	Violaxanthin	Dehydroascorbate	R07178	white
+violaxanthin de-epoxidase	1.23.5.1	Violaxanthin	H2O	R07178	white
+xanthoxin dehydrogenase	1.1.1.288	Abscisic aldehyde	NAD+	R06954	white
+xanthoxin dehydrogenase	1.1.1.288	Abscisic aldehyde	Xanthoxin	R06954	white
+xanthoxin dehydrogenase	1.1.1.288	H+	NAD+	R06954	white
+xanthoxin dehydrogenase	1.1.1.288	H+	Xanthoxin	R06954	white
+xanthoxin dehydrogenase	1.1.1.288	NAD+	Abscisic aldehyde	R06954	white
+xanthoxin dehydrogenase	1.1.1.288	NAD+	H+	R06954	white
+xanthoxin dehydrogenase	1.1.1.288	NAD+	NADH	R06954	white
+xanthoxin dehydrogenase	1.1.1.288	NADH	NAD+	R06954	white
+xanthoxin dehydrogenase	1.1.1.288	NADH	Xanthoxin	R06954	white
+xanthoxin dehydrogenase	1.1.1.288	Xanthoxin	Abscisic aldehyde	R06954	white
+xanthoxin dehydrogenase	1.1.1.288	Xanthoxin	H+	R06954	white
+xanthoxin dehydrogenase	1.1.1.288	Xanthoxin	NADH	R06954	white
+zeaxanthin epoxidase	1.14.15.21	Antheraxanthin	H+	R06946	white
+zeaxanthin epoxidase	1.14.15.21	Antheraxanthin	Oxygen	R06946	white
+zeaxanthin epoxidase	1.14.15.21	Antheraxanthin	Reduced ferredoxin	R06946	white
+zeaxanthin epoxidase	1.14.15.21	Antheraxanthin	Zeaxanthin	R06946	white
+zeaxanthin epoxidase	1.14.15.21	H+	Antheraxanthin	R06946	white
+zeaxanthin epoxidase	1.14.15.21	H+	H2O	R06946	white
+zeaxanthin epoxidase	1.14.15.21	H+	Oxidized ferredoxin	R06946	white
+zeaxanthin epoxidase	1.14.15.21	H2O	H+	R06946	white
+zeaxanthin epoxidase	1.14.15.21	H2O	Oxygen	R06946	white
+zeaxanthin epoxidase	1.14.15.21	H2O	Reduced ferredoxin	R06946	white
+zeaxanthin epoxidase	1.14.15.21	H2O	Zeaxanthin	R06946	white
+zeaxanthin epoxidase	1.14.15.21	Oxidized ferredoxin	H+	R06946	white
+zeaxanthin epoxidase	1.14.15.21	Oxidized ferredoxin	Oxygen	R06946	white
+zeaxanthin epoxidase	1.14.15.21	Oxidized ferredoxin	Reduced ferredoxin	R06946	white
+zeaxanthin epoxidase	1.14.15.21	Oxidized ferredoxin	Zeaxanthin	R06946	white
+zeaxanthin epoxidase	1.14.15.21	Oxygen	Antheraxanthin	R06946	white
+zeaxanthin epoxidase	1.14.15.21	Oxygen	H2O	R06946	white
+zeaxanthin epoxidase	1.14.15.21	Oxygen	Oxidized ferredoxin	R06946	white
+zeaxanthin epoxidase	1.14.15.21	Reduced ferredoxin	Antheraxanthin	R06946	white
+zeaxanthin epoxidase	1.14.15.21	Reduced ferredoxin	H2O	R06946	white
+zeaxanthin epoxidase	1.14.15.21	Reduced ferredoxin	Oxidized ferredoxin	R06946	white
+zeaxanthin epoxidase	1.14.15.21	Zeaxanthin	Antheraxanthin	R06946	white
+zeaxanthin epoxidase	1.14.15.21	Zeaxanthin	H2O	R06946	white
+zeaxanthin epoxidase	1.14.15.21	Zeaxanthin	Oxidized ferredoxin	R06946	white
+zeaxanthin glucosyltransferase	2.4.1.276	UDP	UDP-glucose	R07574	white
+zeaxanthin glucosyltransferase	2.4.1.276	UDP	Zeaxanthin	R07574	white
+zeaxanthin glucosyltransferase	2.4.1.276	UDP-glucose	UDP	R07574	white
+zeaxanthin glucosyltransferase	2.4.1.276	UDP-glucose	Zeaxanthin diglucoside	R07574	white
+zeaxanthin glucosyltransferase	2.4.1.276	Zeaxanthin	UDP	R07574	white
+zeaxanthin glucosyltransferase	2.4.1.276	Zeaxanthin	Zeaxanthin diglucoside	R07574	white
+zeaxanthin glucosyltransferase	2.4.1.276	Zeaxanthin diglucoside	UDP-glucose	R07574	white
+zeaxanthin glucosyltransferase	2.4.1.276	Zeaxanthin diglucoside	Zeaxanthin	R07574	white
+zeta-carotene desaturase	1.3.5.6	Acceptor	Oxygen	R04798	white
+zeta-carotene desaturase	1.3.5.6	Acceptor	Reduced acceptor	R04798	white
+zeta-carotene desaturase	1.3.5.6	Acceptor	all-trans-zeta-Carotene	R04798	white
+zeta-carotene desaturase	1.3.5.6	H2O	Oxygen	R04798	white
+zeta-carotene desaturase	1.3.5.6	H2O	Reduced acceptor	R04798	white
+zeta-carotene desaturase	1.3.5.6	H2O	all-trans-zeta-Carotene	R04798	white
+zeta-carotene desaturase	1.3.5.6	Oxygen	Acceptor	R04798	white
+zeta-carotene desaturase	1.3.5.6	Oxygen	H2O	R04798	white
+zeta-carotene desaturase	1.3.5.6	Oxygen	all-trans-Neurosporene	R04798	white
+zeta-carotene desaturase	1.3.5.6	Reduced acceptor	Acceptor	R04798	white
+zeta-carotene desaturase	1.3.5.6	Reduced acceptor	H2O	R04798	white
+zeta-carotene desaturase	1.3.5.6	Reduced acceptor	all-trans-Neurosporene	R04798	white
+zeta-carotene desaturase	1.3.5.6	all-trans-Neurosporene	Oxygen	R04798	white
+zeta-carotene desaturase	1.3.5.6	all-trans-Neurosporene	Reduced acceptor	R04798	white
+zeta-carotene desaturase	1.3.5.6	all-trans-Neurosporene	all-trans-zeta-Carotene	R04798	white
+zeta-carotene desaturase	1.3.5.6	all-trans-zeta-Carotene	Acceptor	R04798	white
+zeta-carotene desaturase	1.3.5.6	all-trans-zeta-Carotene	H2O	R04798	white
+zeta-carotene desaturase	1.3.5.6	all-trans-zeta-Carotene	all-trans-Neurosporene	R04798	white
+zeta-carotene isomerase	5.2.1.12	9,15,9'-tricis-zeta-Carotene	9,9'-dicis-zeta-Carotene	R09655	white
+zeta-carotene isomerase	5.2.1.12	9,9'-dicis-zeta-Carotene	9,15,9'-tricis-zeta-Carotene	R09655	white

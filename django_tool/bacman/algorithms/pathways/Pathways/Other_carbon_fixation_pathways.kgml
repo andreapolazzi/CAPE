@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <!DOCTYPE pathway SYSTEM "https://www.kegg.jp/kegg/xml/KGML_v0.7.2_.dtd">
-<!-- Creation date: Aug 9, 2024 15:40:58 +0900 (GMT+9) -->
+<!-- Creation date: Jun 24, 2025 13:39:13 +0900 (GMT+9) -->
 <pathway name="path:roa00720" org="roa" number="00720"
          title="Other carbon fixation pathways"
          image="https://www.kegg.jp/kegg/pathway/roa/roa00720.png"
@@ -50,8 +50,8 @@
         <graphics name="C00149" fgcolor="#000000" bgcolor="#FFFFFF"
              type="circle" x="241" y="737" width="8" height="8"/>
     </entry>
-    <entry id="57" name="roa:Pd630_LPD00243 roa:Pd630_LPD00605 roa:Pd630_LPD00692 roa:Pd630_LPD01189 roa:Pd630_LPD01724 roa:Pd630_LPD01777 roa:Pd630_LPD01906 roa:Pd630_LPD02292 roa:Pd630_LPD02467 roa:Pd630_LPD02755 roa:Pd630_LPD03584 roa:Pd630_LPD04346 roa:Pd630_LPD04501 roa:Pd630_LPD04796 roa:Pd630_LPD05455 roa:Pd630_LPD05582 roa:Pd630_LPD05762 roa:Pd630_LPD06041 roa:Pd630_LPD06744 roa:Pd630_LPD07266 roa:Pd630_LPD07268 roa:Pd630_LPD07367 roa:Pd630_LPD07706 roa:Pd630_LPD07839 roa:Pd630_LPD13043 roa:Pd630_LPD16138" type="gene" reaction="rn:R00238"
-        link="https://www.kegg.jp/dbget-bin/www_bget?roa:Pd630_LPD00243+roa:Pd630_LPD00605+roa:Pd630_LPD00692+roa:Pd630_LPD01189+roa:Pd630_LPD01724+roa:Pd630_LPD01777+roa:Pd630_LPD01906+roa:Pd630_LPD02292+roa:Pd630_LPD02467+roa:Pd630_LPD02755+roa:Pd630_LPD03584+roa:Pd630_LPD04346+roa:Pd630_LPD04501+roa:Pd630_LPD04796+roa:Pd630_LPD05455+roa:Pd630_LPD05582+roa:Pd630_LPD05762+roa:Pd630_LPD06041+roa:Pd630_LPD06744+roa:Pd630_LPD07266+roa:Pd630_LPD07268+roa:Pd630_LPD07367+roa:Pd630_LPD07706+roa:Pd630_LPD07839+roa:Pd630_LPD13043+roa:Pd630_LPD16138">
+    <entry id="57" name="roa:Pd630_LPD00243 roa:Pd630_LPD00605 roa:Pd630_LPD00692 roa:Pd630_LPD01189 roa:Pd630_LPD01724 roa:Pd630_LPD01777 roa:Pd630_LPD01906 roa:Pd630_LPD02292 roa:Pd630_LPD02467 roa:Pd630_LPD02755 roa:Pd630_LPD03584 roa:Pd630_LPD04346 roa:Pd630_LPD04501 roa:Pd630_LPD04796 roa:Pd630_LPD05455 roa:Pd630_LPD05582 roa:Pd630_LPD05762 roa:Pd630_LPD06041 roa:Pd630_LPD06744 roa:Pd630_LPD07266 roa:Pd630_LPD07268 roa:Pd630_LPD07706 roa:Pd630_LPD07839 roa:Pd630_LPD13043 roa:Pd630_LPD16138" type="gene" reaction="rn:R00238"
+        link="https://www.kegg.jp/dbget-bin/www_bget?roa:Pd630_LPD00243+roa:Pd630_LPD00605+roa:Pd630_LPD00692+roa:Pd630_LPD01189+roa:Pd630_LPD01724+roa:Pd630_LPD01777+roa:Pd630_LPD01906+roa:Pd630_LPD02292+roa:Pd630_LPD02467+roa:Pd630_LPD02755+roa:Pd630_LPD03584+roa:Pd630_LPD04346+roa:Pd630_LPD04501+roa:Pd630_LPD04796+roa:Pd630_LPD05455+roa:Pd630_LPD05582+roa:Pd630_LPD05762+roa:Pd630_LPD06041+roa:Pd630_LPD06744+roa:Pd630_LPD07266+roa:Pd630_LPD07268+roa:Pd630_LPD07706+roa:Pd630_LPD07839+roa:Pd630_LPD13043+roa:Pd630_LPD16138">
         <graphics name="Pd630_LPD00243..." fgcolor="#000000" bgcolor="#BFFFBF"
              type="rectangle" x="883" y="231" width="46" height="17"/>
     </entry>
