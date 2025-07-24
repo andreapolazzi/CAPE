@@ -1,6 +1,6 @@
 import os
-from .helpers.classes_functions import MetabolicGraph
-from .helpers.rp_classes import RP, RpGraph
+from .classes.classes_functions import MetabolicGraph
+from .classes.rp_classes import RP, RpGraph
 
 def main(start:str, end:str, inchi):
     """ Get 3 shortest paths """
@@ -19,6 +19,7 @@ def main(start:str, end:str, inchi):
     node_list = list(n.lower() for n in MetabolicGraph.mega.nodes)
 
     if start not in node_list:
+        print("start not in node_list")
         RP.rp_single_source(sink='/work/igem/iGEM/django_tool/bacman/algorithms/pathways/rp_data/biocyc_cmpd_rpcleaned.csv',
                             rules='/work/igem/retrorules_rr02_rp2_flat_forward.csv',
                             outdir='/work/igem/iGEM/django_tool/bacman/algorithms/pathways/rp_results',
