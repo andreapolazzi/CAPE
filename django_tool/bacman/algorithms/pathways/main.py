@@ -19,9 +19,17 @@ def main(start:str, end:str, inchi):
     node_list = list(n.lower() for n in MetabolicGraph.mega.nodes)
 
     if start not in node_list:
-        RP.rp_single_source()
-        start_pway_graph = MetabolicGraph.from_tsv(f'.tsv') # da compilare
+        RP.rp_single_source(sink='/work/igem/iGEM/django_tool/bacman/algorithms/pathways/rp_data/biocyc_cmpd_rpcleaned.csv',
+                            rules='/work/igem/retrorules_rr02_rp2_flat_forward.csv',
+                            outdir='/work/igem/iGEM/django_tool/bacman/algorithms/pathways/rp_results',
+                            name=start,
+                            inchi=inchi,
+                            steps=5,)
+        RpGraph.tsv_generator(file_path=f"/work/igem/iGEM/django_tool/bacman/algorithms/pathways/rp_results/{start}_scope.csv",
+                              outdir="/work/igem/iGEM/django_tool/bacman/algorithms/pathways/rp_results")
+        start_pway_graph = MetabolicGraph.from_tsv(f'/work/igem/iGEM/django_tool/bacman/algorithms/pathways/rp_results/rp_edges.tsv') # da compilare
         start_pway_graph.join2megaGraph()
+        
     if end not in node_list:
         # DEFINE HOW TO CALL RETROPATH IN THIS CASE
         end_pway_graph = MetabolicGraph.from_tsv(f'.tsv') # da compilare
