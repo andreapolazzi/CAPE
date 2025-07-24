@@ -1,6 +1,6 @@
 import os
-from classes_functions import MetabolicGraph
-from rp_classes import RP, RpGraph
+from .helpers.classes_functions import MetabolicGraph
+from .helpers.rp_classes import RP, RpGraph
 
 def main(start:str, end:str, inchi):
     """ Get 3 shortest paths """
