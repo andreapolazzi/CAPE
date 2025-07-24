@@ -1,165 +1,165 @@
-enzyme_name	EC	source	target	color
-4-galactosyl-N-acetylglucosaminide 3-alpha-L-fucosyltransferase	2.4.1.152	G00103	G00104	white
-4-galactosyl-N-acetylglucosaminide 3-alpha-L-fucosyltransferase	2.4.1.152	G00103	G10620	white
-4-galactosyl-N-acetylglucosaminide 3-alpha-L-fucosyltransferase	2.4.1.152	G00104	G00103	white
-4-galactosyl-N-acetylglucosaminide 3-alpha-L-fucosyltransferase	2.4.1.152	G00104	G10615	white
-4-galactosyl-N-acetylglucosaminide 3-alpha-L-fucosyltransferase	2.4.1.152	G10615	G00104	white
-4-galactosyl-N-acetylglucosaminide 3-alpha-L-fucosyltransferase	2.4.1.152	G10615	G10620	white
-4-galactosyl-N-acetylglucosaminide 3-alpha-L-fucosyltransferase	2.4.1.152	G10620	G00103	white
-4-galactosyl-N-acetylglucosaminide 3-alpha-L-fucosyltransferase	2.4.1.152	G10620	G10615	white
-D-ribitol-5-phosphate cytidylyltransferase	2.7.7.40	CDP-ribitol	CTP	white
-D-ribitol-5-phosphate cytidylyltransferase	2.7.7.40	CDP-ribitol	D-Ribitol 5-phosphate	white
-D-ribitol-5-phosphate cytidylyltransferase	2.7.7.40	CTP	CDP-ribitol	white
-D-ribitol-5-phosphate cytidylyltransferase	2.7.7.40	CTP	Diphosphate	white
-D-ribitol-5-phosphate cytidylyltransferase	2.7.7.40	D-Ribitol 5-phosphate	CDP-ribitol	white
-D-ribitol-5-phosphate cytidylyltransferase	2.7.7.40	D-Ribitol 5-phosphate	Diphosphate	white
-D-ribitol-5-phosphate cytidylyltransferase	2.7.7.40	Diphosphate	CTP	white
-D-ribitol-5-phosphate cytidylyltransferase	2.7.7.40	Diphosphate	D-Ribitol 5-phosphate	white
-N-acetyllactosaminide alpha-2,3-sialyltransferase (sialyltransferase 6)	2.4.3.6	G00037	G00047	white
-N-acetyllactosaminide alpha-2,3-sialyltransferase (sialyltransferase 6)	2.4.3.6	G00037	G10621	white
-N-acetyllactosaminide alpha-2,3-sialyltransferase (sialyltransferase 6)	2.4.3.6	G00047	G00037	white
-N-acetyllactosaminide alpha-2,3-sialyltransferase (sialyltransferase 6)	2.4.3.6	G00047	G10616	white
-N-acetyllactosaminide alpha-2,3-sialyltransferase (sialyltransferase 6)	2.4.3.6	G10616	G00047	white
-N-acetyllactosaminide alpha-2,3-sialyltransferase (sialyltransferase 6)	2.4.3.6	G10616	G10621	white
-N-acetyllactosaminide alpha-2,3-sialyltransferase (sialyltransferase 6)	2.4.3.6	G10621	G00037	white
-N-acetyllactosaminide alpha-2,3-sialyltransferase (sialyltransferase 6)	2.4.3.6	G10621	G10616	white
-alpha-dystroglycan beta1,4-xylosyltransferase	2.4.2.61	G10613	G10619	white
-alpha-dystroglycan beta1,4-xylosyltransferase	2.4.2.61	G10613	G13095	white
-alpha-dystroglycan beta1,4-xylosyltransferase	2.4.2.61	G10619	G10613	white
-alpha-dystroglycan beta1,4-xylosyltransferase	2.4.2.61	G10619	G13094	white
-alpha-dystroglycan beta1,4-xylosyltransferase	2.4.2.61	G13094	G10619	white
-alpha-dystroglycan beta1,4-xylosyltransferase	2.4.2.61	G13094	G13095	white
-alpha-dystroglycan beta1,4-xylosyltransferase	2.4.2.61	G13095	G10613	white
-alpha-dystroglycan beta1,4-xylosyltransferase	2.4.2.61	G13095	G13094	white
-beta-1,2-N-acetylglucosaminyltransferase	2.4.1.-	G10610	G10619	white
-beta-1,2-N-acetylglucosaminyltransferase	2.4.1.-	G10610	G13026	white
-beta-1,2-N-acetylglucosaminyltransferase	2.4.1.-	G10619	G10610	white
-beta-1,2-N-acetylglucosaminyltransferase	2.4.1.-	G10619	G13027	white
-beta-1,2-N-acetylglucosaminyltransferase	2.4.1.-	G13026	G10610	white
-beta-1,2-N-acetylglucosaminyltransferase	2.4.1.-	G13026	G13027	white
-beta-1,2-N-acetylglucosaminyltransferase	2.4.1.-	G13027	G10619	white
-beta-1,2-N-acetylglucosaminyltransferase	2.4.1.-	G13027	G13026	white
-beta-1,3-N-acetylgalactosaminyltransferase 2	2.4.1.313	G00025	G10619	white
-beta-1,3-N-acetylgalactosaminyltransferase 2	2.4.1.313	G00025	G13023	white
-beta-1,3-N-acetylgalactosaminyltransferase 2	2.4.1.313	G10611	G10619	white
-beta-1,3-N-acetylgalactosaminyltransferase 2	2.4.1.313	G10611	G13023	white
-beta-1,3-N-acetylgalactosaminyltransferase 2	2.4.1.313	G10619	G00025	white
-beta-1,3-N-acetylgalactosaminyltransferase 2	2.4.1.313	G10619	G10611	white
-beta-1,3-N-acetylgalactosaminyltransferase 2	2.4.1.313	G13023	G00025	white
-beta-1,3-N-acetylgalactosaminyltransferase 2	2.4.1.313	G13023	G10611	white
-beta-1,4-galactosyltransferase 1	2.4.1.22	D-Glucose	Lactose	white
-beta-1,4-galactosyltransferase 1	2.4.1.22	D-Glucose	UDP	white
-beta-1,4-galactosyltransferase 1	2.4.1.22	Lactose	D-Glucose	white
-beta-1,4-galactosyltransferase 1	2.4.1.22	Lactose	UDP-alpha-D-galactose	white
-beta-1,4-galactosyltransferase 1	2.4.1.22	UDP	D-Glucose	white
-beta-1,4-galactosyltransferase 1	2.4.1.22	UDP	UDP-alpha-D-galactose	white
-beta-1,4-galactosyltransferase 1	2.4.1.22	UDP-alpha-D-galactose	Lactose	white
-beta-1,4-galactosyltransferase 1	2.4.1.22	UDP-alpha-D-galactose	UDP	white
-beta-1,4-galactosyltransferase 2	2.4.1.22	D-Glucose	Lactose	white
-beta-1,4-galactosyltransferase 2	2.4.1.22	D-Glucose	UDP	white
-beta-1,4-galactosyltransferase 2	2.4.1.22	Lactose	D-Glucose	white
-beta-1,4-galactosyltransferase 2	2.4.1.22	Lactose	UDP-alpha-D-galactose	white
-beta-1,4-galactosyltransferase 2	2.4.1.22	UDP	D-Glucose	white
-beta-1,4-galactosyltransferase 2	2.4.1.22	UDP	UDP-alpha-D-galactose	white
-beta-1,4-galactosyltransferase 2	2.4.1.22	UDP-alpha-D-galactose	Lactose	white
-beta-1,4-galactosyltransferase 2	2.4.1.22	UDP-alpha-D-galactose	UDP	white
-beta-1,4-galactosyltransferase 3	2.4.1.90	G00036	G00050	white
-beta-1,4-galactosyltransferase 3	2.4.1.90	G00036	G10619	white
-beta-1,4-galactosyltransferase 3	2.4.1.90	G00050	G00036	white
-beta-1,4-galactosyltransferase 3	2.4.1.90	G00050	G10609	white
-beta-1,4-galactosyltransferase 3	2.4.1.90	G10609	G00050	white
-beta-1,4-galactosyltransferase 3	2.4.1.90	G10609	G10619	white
-beta-1,4-galactosyltransferase 3	2.4.1.90	G10619	G00036	white
-beta-1,4-galactosyltransferase 3	2.4.1.90	G10619	G10609	white
-beta-1,4-glucuronyltransferase 1	2.4.1.-	G10612	G10619	white
-beta-1,4-glucuronyltransferase 1	2.4.1.-	G10612	G13096	white
-beta-1,4-glucuronyltransferase 1	2.4.1.-	G10619	G10612	white
-beta-1,4-glucuronyltransferase 1	2.4.1.-	G10619	G13095	white
-beta-1,4-glucuronyltransferase 1	2.4.1.-	G13095	G10619	white
-beta-1,4-glucuronyltransferase 1	2.4.1.-	G13095	G13096	white
-beta-1,4-glucuronyltransferase 1	2.4.1.-	G13096	G10612	white
-beta-1,4-glucuronyltransferase 1	2.4.1.-	G13096	G13095	white
-carbohydrate 3-sulfotransferase 10	2.8.2.-	G10610	G10619	white
-carbohydrate 3-sulfotransferase 10	2.8.2.-	G10610	G13026	white
-carbohydrate 3-sulfotransferase 10	2.8.2.-	G10619	G10610	white
-carbohydrate 3-sulfotransferase 10	2.8.2.-	G10619	G13027	white
-carbohydrate 3-sulfotransferase 10	2.8.2.-	G13026	G10610	white
-carbohydrate 3-sulfotransferase 10	2.8.2.-	G13026	G13027	white
-carbohydrate 3-sulfotransferase 10	2.8.2.-	G13027	G10619	white
-carbohydrate 3-sulfotransferase 10	2.8.2.-	G13027	G13026	white
-dolichyl-phosphate-mannose-protein mannosyltransferase	2.4.1.109	G10617	G10622	green
-dolichyl-phosphate-mannose-protein mannosyltransferase	2.4.1.109	G10617	G13027	green
-dolichyl-phosphate-mannose-protein mannosyltransferase	2.4.1.109	[Protein]-L-serine	G10622	green
-dolichyl-phosphate-mannose-protein mannosyltransferase	2.4.1.109	[Protein]-L-serine	G13027	green
-fukutin	2.7.8.-	CDP-ribitol	G10621	white
-fukutin	2.7.8.-	CDP-ribitol	G13093	white
-fukutin	2.7.8.-	G10621	CDP-ribitol	white
-fukutin	2.7.8.-	G10621	G13092	white
-fukutin	2.7.8.-	G13092	G10621	white
-fukutin	2.7.8.-	G13092	G13093	white
-fukutin	2.7.8.-	G13093	CDP-ribitol	white
-fukutin	2.7.8.-	G13093	G13092	white
-fukutin-related protein	2.7.8.-	CDP-ribitol	G10621	white
-fukutin-related protein	2.7.8.-	CDP-ribitol	G13094	white
-fukutin-related protein	2.7.8.-	G10621	CDP-ribitol	white
-fukutin-related protein	2.7.8.-	G10621	G13093	white
-fukutin-related protein	2.7.8.-	G13093	G10621	white
-fukutin-related protein	2.7.8.-	G13093	G13094	white
-fukutin-related protein	2.7.8.-	G13094	CDP-ribitol	white
-fukutin-related protein	2.7.8.-	G13094	G13093	white
-galactoside alpha-1,3-fucosyltransferase 4	2.4.1.-	G00050	G00060	white
-galactoside alpha-1,3-fucosyltransferase 4	2.4.1.-	G00050	G10620	white
-galactoside alpha-1,3-fucosyltransferase 4	2.4.1.-	G00060	G00050	white
-galactoside alpha-1,3-fucosyltransferase 4	2.4.1.-	G00060	G10615	white
-galactoside alpha-1,3-fucosyltransferase 4	2.4.1.-	G10615	G00060	white
-galactoside alpha-1,3-fucosyltransferase 4	2.4.1.-	G10615	G10620	white
-galactoside alpha-1,3-fucosyltransferase 4	2.4.1.-	G10620	G00050	white
-galactoside alpha-1,3-fucosyltransferase 4	2.4.1.-	G10620	G10615	white
-galactosylgalactosylxylosylprotein 3-beta-glucuronosyltransferase 1	2.4.1.135	G10610	G10619	white
-galactosylgalactosylxylosylprotein 3-beta-glucuronosyltransferase 1	2.4.1.135	G10610	G13026	white
-galactosylgalactosylxylosylprotein 3-beta-glucuronosyltransferase 1	2.4.1.135	G10619	G10610	white
-galactosylgalactosylxylosylprotein 3-beta-glucuronosyltransferase 1	2.4.1.135	G10619	G13027	white
-galactosylgalactosylxylosylprotein 3-beta-glucuronosyltransferase 1	2.4.1.135	G13026	G10610	white
-galactosylgalactosylxylosylprotein 3-beta-glucuronosyltransferase 1	2.4.1.135	G13026	G13027	white
-galactosylgalactosylxylosylprotein 3-beta-glucuronosyltransferase 1	2.4.1.135	G13027	G10619	white
-galactosylgalactosylxylosylprotein 3-beta-glucuronosyltransferase 1	2.4.1.135	G13027	G13026	white
-galactosylgalactosylxylosylprotein 3-beta-glucuronosyltransferase 2	2.4.1.135	G10610	G10619	white
-galactosylgalactosylxylosylprotein 3-beta-glucuronosyltransferase 2	2.4.1.135	G10610	G13026	white
-galactosylgalactosylxylosylprotein 3-beta-glucuronosyltransferase 2	2.4.1.135	G10619	G10610	white
-galactosylgalactosylxylosylprotein 3-beta-glucuronosyltransferase 2	2.4.1.135	G10619	G13027	white
-galactosylgalactosylxylosylprotein 3-beta-glucuronosyltransferase 2	2.4.1.135	G13026	G10610	white
-galactosylgalactosylxylosylprotein 3-beta-glucuronosyltransferase 2	2.4.1.135	G13026	G13027	white
-galactosylgalactosylxylosylprotein 3-beta-glucuronosyltransferase 2	2.4.1.135	G13027	G10619	white
-galactosylgalactosylxylosylprotein 3-beta-glucuronosyltransferase 2	2.4.1.135	G13027	G13026	white
-glycoprotein-mannosyl O6-kinase	2.7.1.183	3-O-[N-Acetyl-beta-D-galactosaminyl-(1->3)-N-acetyl-beta-D-glucosaminyl-(1->4)-alpha-D-(6-phospho)mannosyl]-L-threonyl-[protein]	3-O-[N-Acetyl-beta-D-galactosaminyl-(1->3)-N-acetyl-beta-D-glucosaminyl-(1->4)-alpha-D-mannosyl]-L-threonyl-[protein]	white
-glycoprotein-mannosyl O6-kinase	2.7.1.183	3-O-[N-Acetyl-beta-D-galactosaminyl-(1->3)-N-acetyl-beta-D-glucosaminyl-(1->4)-alpha-D-(6-phospho)mannosyl]-L-threonyl-[protein]	ATP	white
-glycoprotein-mannosyl O6-kinase	2.7.1.183	3-O-[N-Acetyl-beta-D-galactosaminyl-(1->3)-N-acetyl-beta-D-glucosaminyl-(1->4)-alpha-D-mannosyl]-L-threonyl-[protein]	3-O-[N-Acetyl-beta-D-galactosaminyl-(1->3)-N-acetyl-beta-D-glucosaminyl-(1->4)-alpha-D-(6-phospho)mannosyl]-L-threonyl-[protein]	white
-glycoprotein-mannosyl O6-kinase	2.7.1.183	3-O-[N-Acetyl-beta-D-galactosaminyl-(1->3)-N-acetyl-beta-D-glucosaminyl-(1->4)-alpha-D-mannosyl]-L-threonyl-[protein]	ADP	white
-glycoprotein-mannosyl O6-kinase	2.7.1.183	ADP	3-O-[N-Acetyl-beta-D-galactosaminyl-(1->3)-N-acetyl-beta-D-glucosaminyl-(1->4)-alpha-D-mannosyl]-L-threonyl-[protein]	white
-glycoprotein-mannosyl O6-kinase	2.7.1.183	ADP	ATP	white
-glycoprotein-mannosyl O6-kinase	2.7.1.183	ATP	3-O-[N-Acetyl-beta-D-galactosaminyl-(1->3)-N-acetyl-beta-D-glucosaminyl-(1->4)-alpha-D-(6-phospho)mannosyl]-L-threonyl-[protein]	white
-glycoprotein-mannosyl O6-kinase	2.7.1.183	ATP	ADP	white
-glycosyltransferase-like protein LARGE	2.4.2.-	G10613	G10619	white
-glycosyltransferase-like protein LARGE	2.4.2.-	G10613	G13097	white
-glycosyltransferase-like protein LARGE	2.4.2.-	G10619	G10613	white
-glycosyltransferase-like protein LARGE	2.4.2.-	G10619	G13096	white
-glycosyltransferase-like protein LARGE	2.4.2.-	G13096	G10619	white
-glycosyltransferase-like protein LARGE	2.4.2.-	G13096	G13097	white
-glycosyltransferase-like protein LARGE	2.4.2.-	G13097	G10613	white
-glycosyltransferase-like protein LARGE	2.4.2.-	G13097	G13096	white
-mannosyl alpha-1,6-glycoprotein beta-1,6-N-acetyl-glucosaminyltransferase, isozyme B	2.4.1.-	G00020	G00021	white
-mannosyl alpha-1,6-glycoprotein beta-1,6-N-acetyl-glucosaminyltransferase, isozyme B	2.4.1.-	G00020	G10619	white
-mannosyl alpha-1,6-glycoprotein beta-1,6-N-acetyl-glucosaminyltransferase, isozyme B	2.4.1.-	G00021	G00020	white
-mannosyl alpha-1,6-glycoprotein beta-1,6-N-acetyl-glucosaminyltransferase, isozyme B	2.4.1.-	G00021	G10610	white
-mannosyl alpha-1,6-glycoprotein beta-1,6-N-acetyl-glucosaminyltransferase, isozyme B	2.4.1.-	G10610	G00021	white
-mannosyl alpha-1,6-glycoprotein beta-1,6-N-acetyl-glucosaminyltransferase, isozyme B	2.4.1.-	G10610	G10619	white
-mannosyl alpha-1,6-glycoprotein beta-1,6-N-acetyl-glucosaminyltransferase, isozyme B	2.4.1.-	G10619	G00020	white
-mannosyl alpha-1,6-glycoprotein beta-1,6-N-acetyl-glucosaminyltransferase, isozyme B	2.4.1.-	G10619	G10610	white
-protein O-mannose beta-1,4-N-acetylglucosaminyltransferase	2.4.1.312	3-O-(alpha-D-Mannosyl)-L-threonyl-[protein]	3-O-[N-Acetyl-beta-D-glucosaminyl-(1->4)-alpha-D-mannosyl]-L-threonyl-[protein]	white
-protein O-mannose beta-1,4-N-acetylglucosaminyltransferase	2.4.1.312	3-O-(alpha-D-Mannosyl)-L-threonyl-[protein]	UDP	white
-protein O-mannose beta-1,4-N-acetylglucosaminyltransferase	2.4.1.312	3-O-[N-Acetyl-beta-D-glucosaminyl-(1->4)-alpha-D-mannosyl]-L-threonyl-[protein]	3-O-(alpha-D-Mannosyl)-L-threonyl-[protein]	white
-protein O-mannose beta-1,4-N-acetylglucosaminyltransferase	2.4.1.312	3-O-[N-Acetyl-beta-D-glucosaminyl-(1->4)-alpha-D-mannosyl]-L-threonyl-[protein]	UDP-N-acetyl-alpha-D-glucosamine	white
-protein O-mannose beta-1,4-N-acetylglucosaminyltransferase	2.4.1.312	UDP	3-O-(alpha-D-Mannosyl)-L-threonyl-[protein]	white
-protein O-mannose beta-1,4-N-acetylglucosaminyltransferase	2.4.1.312	UDP	UDP-N-acetyl-alpha-D-glucosamine	white
-protein O-mannose beta-1,4-N-acetylglucosaminyltransferase	2.4.1.312	UDP-N-acetyl-alpha-D-glucosamine	3-O-[N-Acetyl-beta-D-glucosaminyl-(1->4)-alpha-D-mannosyl]-L-threonyl-[protein]	white
-protein O-mannose beta-1,4-N-acetylglucosaminyltransferase	2.4.1.312	UDP-N-acetyl-alpha-D-glucosamine	UDP	white
+enzyme_name	EC	source	target	reaction	color
+4-galactosyl-N-acetylglucosaminide 3-alpha-L-fucosyltransferase	2.4.1.152	G00103	G00104	R05904	white
+4-galactosyl-N-acetylglucosaminide 3-alpha-L-fucosyltransferase	2.4.1.152	G00103	G10620	R05904	white
+4-galactosyl-N-acetylglucosaminide 3-alpha-L-fucosyltransferase	2.4.1.152	G00104	G00103	R05904	white
+4-galactosyl-N-acetylglucosaminide 3-alpha-L-fucosyltransferase	2.4.1.152	G00104	G10615	R05904	white
+4-galactosyl-N-acetylglucosaminide 3-alpha-L-fucosyltransferase	2.4.1.152	G10615	G00104	R05904	white
+4-galactosyl-N-acetylglucosaminide 3-alpha-L-fucosyltransferase	2.4.1.152	G10615	G10620	R05904	white
+4-galactosyl-N-acetylglucosaminide 3-alpha-L-fucosyltransferase	2.4.1.152	G10620	G00103	R05904	white
+4-galactosyl-N-acetylglucosaminide 3-alpha-L-fucosyltransferase	2.4.1.152	G10620	G10615	R05904	white
+D-ribitol-5-phosphate cytidylyltransferase	2.7.7.40	CDP-ribitol	CTP	R02921	white
+D-ribitol-5-phosphate cytidylyltransferase	2.7.7.40	CDP-ribitol	D-Ribitol 5-phosphate	R02921	white
+D-ribitol-5-phosphate cytidylyltransferase	2.7.7.40	CTP	CDP-ribitol	R02921	white
+D-ribitol-5-phosphate cytidylyltransferase	2.7.7.40	CTP	Diphosphate	R02921	white
+D-ribitol-5-phosphate cytidylyltransferase	2.7.7.40	D-Ribitol 5-phosphate	CDP-ribitol	R02921	white
+D-ribitol-5-phosphate cytidylyltransferase	2.7.7.40	D-Ribitol 5-phosphate	Diphosphate	R02921	white
+D-ribitol-5-phosphate cytidylyltransferase	2.7.7.40	Diphosphate	CTP	R02921	white
+D-ribitol-5-phosphate cytidylyltransferase	2.7.7.40	Diphosphate	D-Ribitol 5-phosphate	R02921	white
+N-acetyllactosaminide alpha-2,3-sialyltransferase (sialyltransferase 6)	2.4.3.6	G00037	G00047	R06153	white
+N-acetyllactosaminide alpha-2,3-sialyltransferase (sialyltransferase 6)	2.4.3.6	G00037	G10621	R06153	white
+N-acetyllactosaminide alpha-2,3-sialyltransferase (sialyltransferase 6)	2.4.3.6	G00047	G00037	R06153	white
+N-acetyllactosaminide alpha-2,3-sialyltransferase (sialyltransferase 6)	2.4.3.6	G00047	G10616	R06153	white
+N-acetyllactosaminide alpha-2,3-sialyltransferase (sialyltransferase 6)	2.4.3.6	G10616	G00047	R06153	white
+N-acetyllactosaminide alpha-2,3-sialyltransferase (sialyltransferase 6)	2.4.3.6	G10616	G10621	R06153	white
+N-acetyllactosaminide alpha-2,3-sialyltransferase (sialyltransferase 6)	2.4.3.6	G10621	G00037	R06153	white
+N-acetyllactosaminide alpha-2,3-sialyltransferase (sialyltransferase 6)	2.4.3.6	G10621	G10616	R06153	white
+alpha-dystroglycan beta1,4-xylosyltransferase	2.4.2.61	G10613	G10619	R12244	white
+alpha-dystroglycan beta1,4-xylosyltransferase	2.4.2.61	G10613	G13095	R12244	white
+alpha-dystroglycan beta1,4-xylosyltransferase	2.4.2.61	G10619	G10613	R12244	white
+alpha-dystroglycan beta1,4-xylosyltransferase	2.4.2.61	G10619	G13094	R12244	white
+alpha-dystroglycan beta1,4-xylosyltransferase	2.4.2.61	G13094	G10619	R12244	white
+alpha-dystroglycan beta1,4-xylosyltransferase	2.4.2.61	G13094	G13095	R12244	white
+alpha-dystroglycan beta1,4-xylosyltransferase	2.4.2.61	G13095	G10613	R12244	white
+alpha-dystroglycan beta1,4-xylosyltransferase	2.4.2.61	G13095	G13094	R12244	white
+beta-1,2-N-acetylglucosaminyltransferase	2.4.1.-	G10610	G10619	R07619	white
+beta-1,2-N-acetylglucosaminyltransferase	2.4.1.-	G10610	G13026	R07619	white
+beta-1,2-N-acetylglucosaminyltransferase	2.4.1.-	G10619	G10610	R07619	white
+beta-1,2-N-acetylglucosaminyltransferase	2.4.1.-	G10619	G13027	R07619	white
+beta-1,2-N-acetylglucosaminyltransferase	2.4.1.-	G13026	G10610	R07619	white
+beta-1,2-N-acetylglucosaminyltransferase	2.4.1.-	G13026	G13027	R07619	white
+beta-1,2-N-acetylglucosaminyltransferase	2.4.1.-	G13027	G10619	R07619	white
+beta-1,2-N-acetylglucosaminyltransferase	2.4.1.-	G13027	G13026	R07619	white
+beta-1,3-N-acetylgalactosaminyltransferase 2	2.4.1.313	G00025	G10619	R07614	white
+beta-1,3-N-acetylgalactosaminyltransferase 2	2.4.1.313	G00025	G13023	R07614	white
+beta-1,3-N-acetylgalactosaminyltransferase 2	2.4.1.313	G10611	G10619	R07614	white
+beta-1,3-N-acetylgalactosaminyltransferase 2	2.4.1.313	G10611	G13023	R07614	white
+beta-1,3-N-acetylgalactosaminyltransferase 2	2.4.1.313	G10619	G00025	R07614	white
+beta-1,3-N-acetylgalactosaminyltransferase 2	2.4.1.313	G10619	G10611	R07614	white
+beta-1,3-N-acetylgalactosaminyltransferase 2	2.4.1.313	G13023	G00025	R07614	white
+beta-1,3-N-acetylgalactosaminyltransferase 2	2.4.1.313	G13023	G10611	R07614	white
+beta-1,4-galactosyltransferase 1	2.4.1.22	D-Glucose	Lactose	R00503	white
+beta-1,4-galactosyltransferase 1	2.4.1.22	D-Glucose	UDP	R00503	white
+beta-1,4-galactosyltransferase 1	2.4.1.22	Lactose	D-Glucose	R00503	white
+beta-1,4-galactosyltransferase 1	2.4.1.22	Lactose	UDP-alpha-D-galactose	R00503	white
+beta-1,4-galactosyltransferase 1	2.4.1.22	UDP	D-Glucose	R00503	white
+beta-1,4-galactosyltransferase 1	2.4.1.22	UDP	UDP-alpha-D-galactose	R00503	white
+beta-1,4-galactosyltransferase 1	2.4.1.22	UDP-alpha-D-galactose	Lactose	R00503	white
+beta-1,4-galactosyltransferase 1	2.4.1.22	UDP-alpha-D-galactose	UDP	R00503	white
+beta-1,4-galactosyltransferase 2	2.4.1.22	D-Glucose	Lactose	R00503	white
+beta-1,4-galactosyltransferase 2	2.4.1.22	D-Glucose	UDP	R00503	white
+beta-1,4-galactosyltransferase 2	2.4.1.22	Lactose	D-Glucose	R00503	white
+beta-1,4-galactosyltransferase 2	2.4.1.22	Lactose	UDP-alpha-D-galactose	R00503	white
+beta-1,4-galactosyltransferase 2	2.4.1.22	UDP	D-Glucose	R00503	white
+beta-1,4-galactosyltransferase 2	2.4.1.22	UDP	UDP-alpha-D-galactose	R00503	white
+beta-1,4-galactosyltransferase 2	2.4.1.22	UDP-alpha-D-galactose	Lactose	R00503	white
+beta-1,4-galactosyltransferase 2	2.4.1.22	UDP-alpha-D-galactose	UDP	R00503	white
+beta-1,4-galactosyltransferase 3	2.4.1.90	G00036	G00050	R05977	white
+beta-1,4-galactosyltransferase 3	2.4.1.90	G00036	G10619	R05977	white
+beta-1,4-galactosyltransferase 3	2.4.1.90	G00050	G00036	R05977	white
+beta-1,4-galactosyltransferase 3	2.4.1.90	G00050	G10609	R05977	white
+beta-1,4-galactosyltransferase 3	2.4.1.90	G10609	G00050	R05977	white
+beta-1,4-galactosyltransferase 3	2.4.1.90	G10609	G10619	R05977	white
+beta-1,4-galactosyltransferase 3	2.4.1.90	G10619	G00036	R05977	white
+beta-1,4-galactosyltransferase 3	2.4.1.90	G10619	G10609	R05977	white
+beta-1,4-glucuronyltransferase 1	2.4.1.-	G10612	G10619	R12296	white
+beta-1,4-glucuronyltransferase 1	2.4.1.-	G10612	G13096	R12296	white
+beta-1,4-glucuronyltransferase 1	2.4.1.-	G10619	G10612	R12296	white
+beta-1,4-glucuronyltransferase 1	2.4.1.-	G10619	G13095	R12296	white
+beta-1,4-glucuronyltransferase 1	2.4.1.-	G13095	G10619	R12296	white
+beta-1,4-glucuronyltransferase 1	2.4.1.-	G13095	G13096	R12296	white
+beta-1,4-glucuronyltransferase 1	2.4.1.-	G13096	G10612	R12296	white
+beta-1,4-glucuronyltransferase 1	2.4.1.-	G13096	G13095	R12296	white
+carbohydrate 3-sulfotransferase 10	2.8.2.-	G10610	G10619	R07619	white
+carbohydrate 3-sulfotransferase 10	2.8.2.-	G10610	G13026	R07619	white
+carbohydrate 3-sulfotransferase 10	2.8.2.-	G10619	G10610	R07619	white
+carbohydrate 3-sulfotransferase 10	2.8.2.-	G10619	G13027	R07619	white
+carbohydrate 3-sulfotransferase 10	2.8.2.-	G13026	G10610	R07619	white
+carbohydrate 3-sulfotransferase 10	2.8.2.-	G13026	G13027	R07619	white
+carbohydrate 3-sulfotransferase 10	2.8.2.-	G13027	G10619	R07619	white
+carbohydrate 3-sulfotransferase 10	2.8.2.-	G13027	G13026	R07619	white
+dolichyl-phosphate-mannose-protein mannosyltransferase	2.4.1.109	G10617	G10622	R07620	green
+dolichyl-phosphate-mannose-protein mannosyltransferase	2.4.1.109	G10617	G13027	R07620	green
+dolichyl-phosphate-mannose-protein mannosyltransferase	2.4.1.109	[Protein]-L-serine	G10622	R07620	green
+dolichyl-phosphate-mannose-protein mannosyltransferase	2.4.1.109	[Protein]-L-serine	G13027	R07620	green
+fukutin	2.7.8.-	CDP-ribitol	G10621	R12294	white
+fukutin	2.7.8.-	CDP-ribitol	G13093	R12294	white
+fukutin	2.7.8.-	G10621	CDP-ribitol	R12294	white
+fukutin	2.7.8.-	G10621	G13092	R12294	white
+fukutin	2.7.8.-	G13092	G10621	R12294	white
+fukutin	2.7.8.-	G13092	G13093	R12294	white
+fukutin	2.7.8.-	G13093	CDP-ribitol	R12294	white
+fukutin	2.7.8.-	G13093	G13092	R12294	white
+fukutin-related protein	2.7.8.-	CDP-ribitol	G10621	R12295	white
+fukutin-related protein	2.7.8.-	CDP-ribitol	G13094	R12295	white
+fukutin-related protein	2.7.8.-	G10621	CDP-ribitol	R12295	white
+fukutin-related protein	2.7.8.-	G10621	G13093	R12295	white
+fukutin-related protein	2.7.8.-	G13093	G10621	R12295	white
+fukutin-related protein	2.7.8.-	G13093	G13094	R12295	white
+fukutin-related protein	2.7.8.-	G13094	CDP-ribitol	R12295	white
+fukutin-related protein	2.7.8.-	G13094	G13093	R12295	white
+galactoside alpha-1,3-fucosyltransferase 4	2.4.1.-	G00050	G00060	R06025	white
+galactoside alpha-1,3-fucosyltransferase 4	2.4.1.-	G00050	G10620	R06025	white
+galactoside alpha-1,3-fucosyltransferase 4	2.4.1.-	G00060	G00050	R06025	white
+galactoside alpha-1,3-fucosyltransferase 4	2.4.1.-	G00060	G10615	R06025	white
+galactoside alpha-1,3-fucosyltransferase 4	2.4.1.-	G10615	G00060	R06025	white
+galactoside alpha-1,3-fucosyltransferase 4	2.4.1.-	G10615	G10620	R06025	white
+galactoside alpha-1,3-fucosyltransferase 4	2.4.1.-	G10620	G00050	R06025	white
+galactoside alpha-1,3-fucosyltransferase 4	2.4.1.-	G10620	G10615	R06025	white
+galactosylgalactosylxylosylprotein 3-beta-glucuronosyltransferase 1	2.4.1.135	G10610	G10619	R07619	white
+galactosylgalactosylxylosylprotein 3-beta-glucuronosyltransferase 1	2.4.1.135	G10610	G13026	R07619	white
+galactosylgalactosylxylosylprotein 3-beta-glucuronosyltransferase 1	2.4.1.135	G10619	G10610	R07619	white
+galactosylgalactosylxylosylprotein 3-beta-glucuronosyltransferase 1	2.4.1.135	G10619	G13027	R07619	white
+galactosylgalactosylxylosylprotein 3-beta-glucuronosyltransferase 1	2.4.1.135	G13026	G10610	R07619	white
+galactosylgalactosylxylosylprotein 3-beta-glucuronosyltransferase 1	2.4.1.135	G13026	G13027	R07619	white
+galactosylgalactosylxylosylprotein 3-beta-glucuronosyltransferase 1	2.4.1.135	G13027	G10619	R07619	white
+galactosylgalactosylxylosylprotein 3-beta-glucuronosyltransferase 1	2.4.1.135	G13027	G13026	R07619	white
+galactosylgalactosylxylosylprotein 3-beta-glucuronosyltransferase 2	2.4.1.135	G10610	G10619	R07619	white
+galactosylgalactosylxylosylprotein 3-beta-glucuronosyltransferase 2	2.4.1.135	G10610	G13026	R07619	white
+galactosylgalactosylxylosylprotein 3-beta-glucuronosyltransferase 2	2.4.1.135	G10619	G10610	R07619	white
+galactosylgalactosylxylosylprotein 3-beta-glucuronosyltransferase 2	2.4.1.135	G10619	G13027	R07619	white
+galactosylgalactosylxylosylprotein 3-beta-glucuronosyltransferase 2	2.4.1.135	G13026	G10610	R07619	white
+galactosylgalactosylxylosylprotein 3-beta-glucuronosyltransferase 2	2.4.1.135	G13026	G13027	R07619	white
+galactosylgalactosylxylosylprotein 3-beta-glucuronosyltransferase 2	2.4.1.135	G13027	G10619	R07619	white
+galactosylgalactosylxylosylprotein 3-beta-glucuronosyltransferase 2	2.4.1.135	G13027	G13026	R07619	white
+glycoprotein-mannosyl O6-kinase	2.7.1.183	3-O-[N-Acetyl-beta-D-galactosaminyl-(1->3)-N-acetyl-beta-D-glucosaminyl-(1->4)-alpha-D-(6-phospho)mannosyl]-L-threonyl-[protein]	3-O-[N-Acetyl-beta-D-galactosaminyl-(1->3)-N-acetyl-beta-D-glucosaminyl-(1->4)-alpha-D-mannosyl]-L-threonyl-[protein]	R11400	white
+glycoprotein-mannosyl O6-kinase	2.7.1.183	3-O-[N-Acetyl-beta-D-galactosaminyl-(1->3)-N-acetyl-beta-D-glucosaminyl-(1->4)-alpha-D-(6-phospho)mannosyl]-L-threonyl-[protein]	ATP	R11400	white
+glycoprotein-mannosyl O6-kinase	2.7.1.183	3-O-[N-Acetyl-beta-D-galactosaminyl-(1->3)-N-acetyl-beta-D-glucosaminyl-(1->4)-alpha-D-mannosyl]-L-threonyl-[protein]	3-O-[N-Acetyl-beta-D-galactosaminyl-(1->3)-N-acetyl-beta-D-glucosaminyl-(1->4)-alpha-D-(6-phospho)mannosyl]-L-threonyl-[protein]	R11400	white
+glycoprotein-mannosyl O6-kinase	2.7.1.183	3-O-[N-Acetyl-beta-D-galactosaminyl-(1->3)-N-acetyl-beta-D-glucosaminyl-(1->4)-alpha-D-mannosyl]-L-threonyl-[protein]	ADP	R11400	white
+glycoprotein-mannosyl O6-kinase	2.7.1.183	ADP	3-O-[N-Acetyl-beta-D-galactosaminyl-(1->3)-N-acetyl-beta-D-glucosaminyl-(1->4)-alpha-D-mannosyl]-L-threonyl-[protein]	R11400	white
+glycoprotein-mannosyl O6-kinase	2.7.1.183	ADP	ATP	R11400	white
+glycoprotein-mannosyl O6-kinase	2.7.1.183	ATP	3-O-[N-Acetyl-beta-D-galactosaminyl-(1->3)-N-acetyl-beta-D-glucosaminyl-(1->4)-alpha-D-(6-phospho)mannosyl]-L-threonyl-[protein]	R11400	white
+glycoprotein-mannosyl O6-kinase	2.7.1.183	ATP	ADP	R11400	white
+glycosyltransferase-like protein LARGE	2.4.2.-	G10613	G10619	R12297	white
+glycosyltransferase-like protein LARGE	2.4.2.-	G10613	G13097	R12297	white
+glycosyltransferase-like protein LARGE	2.4.2.-	G10619	G10613	R12297	white
+glycosyltransferase-like protein LARGE	2.4.2.-	G10619	G13096	R12297	white
+glycosyltransferase-like protein LARGE	2.4.2.-	G13096	G10619	R12297	white
+glycosyltransferase-like protein LARGE	2.4.2.-	G13096	G13097	R12297	white
+glycosyltransferase-like protein LARGE	2.4.2.-	G13097	G10613	R12297	white
+glycosyltransferase-like protein LARGE	2.4.2.-	G13097	G13096	R12297	white
+mannosyl alpha-1,6-glycoprotein beta-1,6-N-acetyl-glucosaminyltransferase, isozyme B	2.4.1.-	G00020	G00021	R05991	white
+mannosyl alpha-1,6-glycoprotein beta-1,6-N-acetyl-glucosaminyltransferase, isozyme B	2.4.1.-	G00020	G10619	R05991	white
+mannosyl alpha-1,6-glycoprotein beta-1,6-N-acetyl-glucosaminyltransferase, isozyme B	2.4.1.-	G00021	G00020	R05991	white
+mannosyl alpha-1,6-glycoprotein beta-1,6-N-acetyl-glucosaminyltransferase, isozyme B	2.4.1.-	G00021	G10610	R05991	white
+mannosyl alpha-1,6-glycoprotein beta-1,6-N-acetyl-glucosaminyltransferase, isozyme B	2.4.1.-	G10610	G00021	R05991	white
+mannosyl alpha-1,6-glycoprotein beta-1,6-N-acetyl-glucosaminyltransferase, isozyme B	2.4.1.-	G10610	G10619	R05991	white
+mannosyl alpha-1,6-glycoprotein beta-1,6-N-acetyl-glucosaminyltransferase, isozyme B	2.4.1.-	G10619	G00020	R05991	white
+mannosyl alpha-1,6-glycoprotein beta-1,6-N-acetyl-glucosaminyltransferase, isozyme B	2.4.1.-	G10619	G10610	R05991	white
+protein O-mannose beta-1,4-N-acetylglucosaminyltransferase	2.4.1.312	3-O-(alpha-D-Mannosyl)-L-threonyl-[protein]	3-O-[N-Acetyl-beta-D-glucosaminyl-(1->4)-alpha-D-mannosyl]-L-threonyl-[protein]	R10596	white
+protein O-mannose beta-1,4-N-acetylglucosaminyltransferase	2.4.1.312	3-O-(alpha-D-Mannosyl)-L-threonyl-[protein]	UDP	R10596	white
+protein O-mannose beta-1,4-N-acetylglucosaminyltransferase	2.4.1.312	3-O-[N-Acetyl-beta-D-glucosaminyl-(1->4)-alpha-D-mannosyl]-L-threonyl-[protein]	3-O-(alpha-D-Mannosyl)-L-threonyl-[protein]	R10596	white
+protein O-mannose beta-1,4-N-acetylglucosaminyltransferase	2.4.1.312	3-O-[N-Acetyl-beta-D-glucosaminyl-(1->4)-alpha-D-mannosyl]-L-threonyl-[protein]	UDP-N-acetyl-alpha-D-glucosamine	R10596	white
+protein O-mannose beta-1,4-N-acetylglucosaminyltransferase	2.4.1.312	UDP	3-O-(alpha-D-Mannosyl)-L-threonyl-[protein]	R10596	white
+protein O-mannose beta-1,4-N-acetylglucosaminyltransferase	2.4.1.312	UDP	UDP-N-acetyl-alpha-D-glucosamine	R10596	white
+protein O-mannose beta-1,4-N-acetylglucosaminyltransferase	2.4.1.312	UDP-N-acetyl-alpha-D-glucosamine	3-O-[N-Acetyl-beta-D-glucosaminyl-(1->4)-alpha-D-mannosyl]-L-threonyl-[protein]	R10596	white
+protein O-mannose beta-1,4-N-acetylglucosaminyltransferase	2.4.1.312	UDP-N-acetyl-alpha-D-glucosamine	UDP	R10596	white
