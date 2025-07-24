@@ -1,41 +1,38 @@
 {% extends "master.html" %}
 
-<style> {
+<style>
   .box {
       display: flex;
-      align-items: flex-start; /* Allinea la checkbox e il testo in alto */
+      align-items: flex-start;
       padding: 15px;
       border: 1px solid #ddd;
       border-radius: 5px;
       background-color: #f9f9f9;
       transition: background-color 0.3s ease;
-  }
-  
-  .box input[type="checkbox"] {
-      margin-right: 15px; /* Spazio tra la checkbox e il testo */
-      margin-top: 5px; /* Allinea meglio la checkbox con il testo se il testo ha padding */
-      width: 20px; /* Dimensione del pallino */
-      height: 20px; /* Dimensione del pallino */
+      margin-bottom: 10px;
       cursor: pointer;
+      position: relative;
   }
 
-  .box label {
-      display: flex; /* Permette al testo di wrappare */
-      cursor: pointer;
-      flex-grow: 1; /* Permette alla label di occupare lo spazio rimanente */
+  /* Nasconde la checkbox */
+  .box input[type="checkbox"] {
+      position: absolute;
+      opacity: 0;
+      pointer-events: none;
   }
-  
-  .box p {
-      margin: 0; /* Rimuovi il margine predefinito dal paragrafo */
-      line-height: 1.5;
+
+  .box .content {
+      flex-grow: 1;
+      padding: 5px;
+      border-radius: 5px;
   }
-  
-  /* Stile per il box quando selezionato */
-  .box.selected {
-      background-color: #e0f2f7; /* Un blu chiaro */
-      border-color: #a7d9ee;
+
+  /* Card evidenziata se checkbox è checked */
+  .box input[type="checkbox"]:checked + .content {
+      background-color: #e0f2f7;
+      border: 2px solid #a7d9ee;
   }
-  
+
   button {
       padding: 10px 20px;
       background-color: #007bff;
@@ -46,41 +43,55 @@
       font-size: 16px;
       margin-top: 10px;
   }
-  
+
   button:hover {
       background-color: #0056b3;
   }
-  
 </style>
 
 {% block title %}BACMAN- pathways{% endblock %}
 
 
 {% block content %}
-    <h2>Pathways found</h2>
-    <h3> Using annotated pathways and Retropath, our tool has been able to find the 3 best pathways that lead from the starting to the final compounds chosen as inputs </h3>
+<form method="POST" action="{% url 'aaa' %}">
+    {% csrf_token %}
 
-    <form method="POST" action="{% url 'aaa' %}">
-        {% csrf_token %}
+    <label class="box">
+        <input type="checkbox" name="selected_pathway" value="0">
+        <div class="content">{{ first_path }}</div>
+    </label>
 
-        <div class="selectable-cards">
-            <label class="box">
-                <input type="radio" name="selected_pathway" value="0" required>
-                <div class="content">{{ first_path }}</div>
-            </label>
+    <label class="box">
+        <input type="checkbox" name="selected_pathway" value="1">
+        <div class="content">{{ second_path }}</div>
+    </label>
 
-            <label class="box">
-                <input type="radio" name="selected_pathway" value="1">
-                <div class="content">{{ second_path }}</div>
-            </label>
+    <label class="box">
+        <input type="checkbox" name="selected_pathway" value="2">
+        <div class="content">{{ third_path }}</div>
+    </label>
 
-            <label class="box">
-                <input type="radio" name="selected_pathway" value="2">
-                <div class="content">{{ third_path }}</div>
-            </label>
-        </div>
-
-        <button type="submit">Confirm</button>
-    </form>
+    <button type="submit">Confirm</button>
+</form>
     
 {% endblock %}
+
+<script>
+  const boxes = document.querySelectorAll('.box');
+
+  boxes.forEach((box) => {
+      const checkbox = box.querySelector('input[type="checkbox"]');
+
+      box.addEventListener('click', () => {
+          if (checkbox.checked) {
+              checkbox.checked = false; // deseleziona se già selezionata
+          } else {
+              document.querySelectorAll('input[type="checkbox"][name="selected_pathway"]').forEach(cb => {
+                  cb.checked = false; // deseleziona tutte
+              });
+              checkbox.checked = true; // seleziona quella cliccata
+          }
+      });
+  });
+</script>
+
