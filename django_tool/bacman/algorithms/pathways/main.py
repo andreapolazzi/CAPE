@@ -26,6 +26,7 @@ def main(start:str, end:str, inchi):
                             name=start,
                             inchi=inchi,
                             steps=5,)
+        print("RetroPath prediction completed")
         RpGraph.tsv_generator(file_path=f'/work/igem/iGEM/django_tool/bacman/algorithms/pathways/rp_results/Methyl_tert-butyl_ether_scope.csv',
                               outdir='/work/igem/iGEM/django_tool/bacman/algorithms/pathways/Pathways/')
         start_pway_graph = MetabolicGraph.from_tsv('rp_edges.tsv')
