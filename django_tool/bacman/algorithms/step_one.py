@@ -1,6 +1,6 @@
 def primo(s1,s2):
     a=[s1,s2,s1+s2]
-    return a, ['ec1','ec2','ec3']
+    return a, [[1],[2],['1.2.1.61','4.1.1.77']]
 
 
 def is_curated(pollutant) -> bool:

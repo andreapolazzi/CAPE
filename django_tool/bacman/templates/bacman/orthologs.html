@@ -94,7 +94,7 @@
                 </tbody>
             </table>
         {% else %}
-            <p><i>No sequences found</i></p>
+            <p><i>No sequences found for EC {{ ec.ec_number }}</i></p>
         {% endif %}
             <hr>
     {% endfor %}
@@ -102,5 +102,5 @@
     <button type="submit">Continue</button>
 
   </form>
-
+</main>
 {% endblock %}

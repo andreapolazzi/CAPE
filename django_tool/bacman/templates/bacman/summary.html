@@ -10,12 +10,10 @@
 <main class="main-content">
   <h1>Summary of Your Selection</h1>
 
-  {% if selections %}
-    {% regroup selections by ec as ec_groups %}
-
-    {% for group in ec_groups %}
-      <h2>EC: {{ group.grouper }}</h2>
-      <table border="1">
+  {% if grouped_selections %}
+    {% for ec, rows in grouped_selections.items %}
+      <h2>EC: {{ ec }}</h2>
+      <table>
         <thead>
           <tr>
             <th>Organism</th>
@@ -25,20 +23,21 @@
           </tr>
         </thead>
         <tbody>
-          {% for item in group.list %}
+          {% for row in rows %}
             <tr>
-              <td>{{ item.organism }}</td>
-              <td>{{ item.header }}</td>
-              <td>{{ item.sequence }}</td>
-              <td>{{ item.length }}</td>
+              <td>{{ row.organism }}</td>
+              <td>{{ row.header }}</td>
+              <td>{{ row.sequence }}</td>
+              <td>{{ row.length }}</td>
             </tr>
           {% endfor %}
         </tbody>
       </table>
-      <br>
     {% endfor %}
 
-    <form method="POST" action="{% url 'final_step' %}">
+
+
+    <form method="POST" action="{% url 'confirm' %}">
       {% csrf_token %}
       <button type="submit">Conferma</button>
     </form>
