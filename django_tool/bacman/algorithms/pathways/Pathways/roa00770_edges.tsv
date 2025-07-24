@@ -1,254 +1,258 @@
-enzyme_name	EC	source	target	color
-2-dehydropantoate 2-reductase	1.1.1.169	(R)-Pantoate	2-Dehydropantoate	green
-2-dehydropantoate 2-reductase	1.1.1.169	(R)-Pantoate	H+	green
-2-dehydropantoate 2-reductase	1.1.1.169	(R)-Pantoate	NADPH	green
-2-dehydropantoate 2-reductase	1.1.1.169	2-Dehydropantoate	(R)-Pantoate	green
-2-dehydropantoate 2-reductase	1.1.1.169	2-Dehydropantoate	NADP+	green
-2-dehydropantoate 2-reductase	1.1.1.169	H+	(R)-Pantoate	green
-2-dehydropantoate 2-reductase	1.1.1.169	H+	NADP+	green
-2-dehydropantoate 2-reductase	1.1.1.169	NADP+	2-Dehydropantoate	green
-2-dehydropantoate 2-reductase	1.1.1.169	NADP+	H+	green
-2-dehydropantoate 2-reductase	1.1.1.169	NADP+	NADPH	green
-2-dehydropantoate 2-reductase	1.1.1.169	NADPH	(R)-Pantoate	green
-2-dehydropantoate 2-reductase	1.1.1.169	NADPH	NADP+	green
-3-methyl-2-oxobutanoate hydroxymethyltransferase	2.1.2.11	3-Methyl-2-oxobutanoic acid	2-Dehydropantoate	green
-3-methyl-2-oxobutanoate hydroxymethyltransferase	2.1.2.11	3-Methyl-2-oxobutanoic acid	Tetrahydrofolate	green
-3-methyl-2-oxobutanoate hydroxymethyltransferase	2.1.2.11	5,10-Methylenetetrahydrofolate	2-Dehydropantoate	green
-3-methyl-2-oxobutanoate hydroxymethyltransferase	2.1.2.11	5,10-Methylenetetrahydrofolate	Tetrahydrofolate	green
-3-methyl-2-oxobutanoate hydroxymethyltransferase	2.1.2.11	H2O	2-Dehydropantoate	green
-3-methyl-2-oxobutanoate hydroxymethyltransferase	2.1.2.11	H2O	Tetrahydrofolate	green
-4'-phosphopantetheinyl transferase	2.7.8.-	Acyl-carrier protein	Apo-[acyl-carrier protein]	white
-4'-phosphopantetheinyl transferase	2.7.8.-	Acyl-carrier protein	CoA	white
-4'-phosphopantetheinyl transferase	2.7.8.-	Adenosine 3',5'-bisphosphate	Apo-[acyl-carrier protein]	white
-4'-phosphopantetheinyl transferase	2.7.8.-	Adenosine 3',5'-bisphosphate	CoA	white
-4'-phosphopantetheinyl transferase	2.7.8.-	Apo-[acyl-carrier protein]	Acyl-carrier protein	white
-4'-phosphopantetheinyl transferase	2.7.8.-	Apo-[acyl-carrier protein]	Adenosine 3',5'-bisphosphate	white
-4'-phosphopantetheinyl transferase	2.7.8.-	CoA	Acyl-carrier protein	white
-4'-phosphopantetheinyl transferase	2.7.8.-	CoA	Adenosine 3',5'-bisphosphate	white
-4-phosphopantoate---beta-alanine ligase	6.3.2.36	(R)-4-Phosphopantoate	AMP	white
-4-phosphopantoate---beta-alanine ligase	6.3.2.36	(R)-4-Phosphopantoate	D-4'-Phosphopantothenate	white
-4-phosphopantoate---beta-alanine ligase	6.3.2.36	(R)-4-Phosphopantoate	Diphosphate	white
-4-phosphopantoate---beta-alanine ligase	6.3.2.36	AMP	(R)-4-Phosphopantoate	white
-4-phosphopantoate---beta-alanine ligase	6.3.2.36	AMP	ATP	white
-4-phosphopantoate---beta-alanine ligase	6.3.2.36	AMP	beta-Alanine	white
-4-phosphopantoate---beta-alanine ligase	6.3.2.36	ATP	AMP	white
-4-phosphopantoate---beta-alanine ligase	6.3.2.36	ATP	D-4'-Phosphopantothenate	white
-4-phosphopantoate---beta-alanine ligase	6.3.2.36	ATP	Diphosphate	white
-4-phosphopantoate---beta-alanine ligase	6.3.2.36	D-4'-Phosphopantothenate	(R)-4-Phosphopantoate	white
-4-phosphopantoate---beta-alanine ligase	6.3.2.36	D-4'-Phosphopantothenate	ATP	white
-4-phosphopantoate---beta-alanine ligase	6.3.2.36	D-4'-Phosphopantothenate	beta-Alanine	white
-4-phosphopantoate---beta-alanine ligase	6.3.2.36	Diphosphate	(R)-4-Phosphopantoate	white
-4-phosphopantoate---beta-alanine ligase	6.3.2.36	Diphosphate	ATP	white
-4-phosphopantoate---beta-alanine ligase	6.3.2.36	Diphosphate	beta-Alanine	white
-4-phosphopantoate---beta-alanine ligase	6.3.2.36	beta-Alanine	AMP	white
-4-phosphopantoate---beta-alanine ligase	6.3.2.36	beta-Alanine	D-4'-Phosphopantothenate	white
-4-phosphopantoate---beta-alanine ligase	6.3.2.36	beta-Alanine	Diphosphate	white
-GTP-dependent dephospho-CoA kinase	2.7.1.237	CoA	Dephospho-CoA	white
-GTP-dependent dephospho-CoA kinase	2.7.1.237	CoA	GTP	white
-GTP-dependent dephospho-CoA kinase	2.7.1.237	Dephospho-CoA	CoA	white
-GTP-dependent dephospho-CoA kinase	2.7.1.237	Dephospho-CoA	GDP	white
-GTP-dependent dephospho-CoA kinase	2.7.1.237	GDP	Dephospho-CoA	white
-GTP-dependent dephospho-CoA kinase	2.7.1.237	GDP	GTP	white
-GTP-dependent dephospho-CoA kinase	2.7.1.237	GTP	CoA	white
-GTP-dependent dephospho-CoA kinase	2.7.1.237	GTP	GDP	white
-acetolactate synthase I/II/III large subunit	2.2.1.6	(S)-2-Acetolactate	Pyruvate	green
-acetolactate synthase I/II/III large subunit	2.2.1.6	CO2	Pyruvate	green
-acetolactate synthase I/III small subunit	2.2.1.6	(S)-2-Acetolactate	Pyruvate	green
-acetolactate synthase I/III small subunit	2.2.1.6	CO2	Pyruvate	green
-acyl carrier protein phosphodiesterase	3.1.4.14	Acyl-carrier protein	Apo-[acyl-carrier protein]	white
-acyl carrier protein phosphodiesterase	3.1.4.14	Acyl-carrier protein	Pantetheine 4'-phosphate	white
-acyl carrier protein phosphodiesterase	3.1.4.14	Apo-[acyl-carrier protein]	Acyl-carrier protein	white
-acyl carrier protein phosphodiesterase	3.1.4.14	Apo-[acyl-carrier protein]	H2O	white
-acyl carrier protein phosphodiesterase	3.1.4.14	H2O	Apo-[acyl-carrier protein]	white
-acyl carrier protein phosphodiesterase	3.1.4.14	H2O	Pantetheine 4'-phosphate	white
-acyl carrier protein phosphodiesterase	3.1.4.14	Pantetheine 4'-phosphate	Acyl-carrier protein	white
-acyl carrier protein phosphodiesterase	3.1.4.14	Pantetheine 4'-phosphate	H2O	white
-aldehyde dehydrogenase (NAD+)	1.2.1.3	3-Aminopropanal	H+	green
-aldehyde dehydrogenase (NAD+)	1.2.1.3	3-Aminopropanal	NADH	green
-aldehyde dehydrogenase (NAD+)	1.2.1.3	3-Aminopropanal	beta-Alanine	green
-aldehyde dehydrogenase (NAD+)	1.2.1.3	H2O	H+	green
-aldehyde dehydrogenase (NAD+)	1.2.1.3	H2O	NADH	green
-aldehyde dehydrogenase (NAD+)	1.2.1.3	H2O	beta-Alanine	green
-aldehyde dehydrogenase (NAD+)	1.2.1.3	NAD+	H+	green
-aldehyde dehydrogenase (NAD+)	1.2.1.3	NAD+	NADH	green
-aldehyde dehydrogenase (NAD+)	1.2.1.3	NAD+	beta-Alanine	green
-aspartate 1-decarboxylase	4.1.1.11	L-Aspartate	CO2	green
-aspartate 1-decarboxylase	4.1.1.11	L-Aspartate	beta-Alanine	green
-beta-ureidopropionase / N-carbamoyl-L-amino-acid hydrolase	3.5.1.6	3-Ureidopropionate	Ammonia	green
-beta-ureidopropionase / N-carbamoyl-L-amino-acid hydrolase	3.5.1.6	3-Ureidopropionate	CO2	green
-beta-ureidopropionase / N-carbamoyl-L-amino-acid hydrolase	3.5.1.6	3-Ureidopropionate	beta-Alanine	green
-beta-ureidopropionase / N-carbamoyl-L-amino-acid hydrolase	3.5.1.6	H2O	Ammonia	green
-beta-ureidopropionase / N-carbamoyl-L-amino-acid hydrolase	3.5.1.6	H2O	CO2	green
-beta-ureidopropionase / N-carbamoyl-L-amino-acid hydrolase	3.5.1.6	H2O	beta-Alanine	green
-branched-chain amino acid aminotransferase	2.6.1.42	2-Oxoglutarate	3-Methyl-2-oxobutanoic acid	green
-branched-chain amino acid aminotransferase	2.6.1.42	2-Oxoglutarate	L-Glutamate	green
-branched-chain amino acid aminotransferase	2.6.1.42	3-Methyl-2-oxobutanoic acid	2-Oxoglutarate	green
-branched-chain amino acid aminotransferase	2.6.1.42	3-Methyl-2-oxobutanoic acid	L-Valine	green
-branched-chain amino acid aminotransferase	2.6.1.42	L-Glutamate	2-Oxoglutarate	green
-branched-chain amino acid aminotransferase	2.6.1.42	L-Glutamate	L-Valine	green
-branched-chain amino acid aminotransferase	2.6.1.42	L-Valine	3-Methyl-2-oxobutanoic acid	green
-branched-chain amino acid aminotransferase	2.6.1.42	L-Valine	L-Glutamate	green
-dephospho-CoA kinase	2.7.1.24	ATP	ADP	green
-dephospho-CoA kinase	2.7.1.24	ATP	CoA	green
-dephospho-CoA kinase	2.7.1.24	Dephospho-CoA	ADP	green
-dephospho-CoA kinase	2.7.1.24	Dephospho-CoA	CoA	green
-dihydropyrimidinase	3.5.2.2	3-Ureidopropionate	5,6-Dihydrouracil	white
-dihydropyrimidinase	3.5.2.2	3-Ureidopropionate	H2O	white
-dihydropyrimidinase	3.5.2.2	5,6-Dihydrouracil	3-Ureidopropionate	white
-dihydropyrimidinase	3.5.2.2	H2O	3-Ureidopropionate	white
-dihydropyrimidine dehydrogenase (NAD+) subunit PreA	1.3.1.1	5,6-Dihydrouracil	H+	white
-dihydropyrimidine dehydrogenase (NAD+) subunit PreA	1.3.1.1	5,6-Dihydrouracil	NADH	white
-dihydropyrimidine dehydrogenase (NAD+) subunit PreA	1.3.1.1	5,6-Dihydrouracil	Uracil	white
-dihydropyrimidine dehydrogenase (NAD+) subunit PreA	1.3.1.1	H+	5,6-Dihydrouracil	white
-dihydropyrimidine dehydrogenase (NAD+) subunit PreA	1.3.1.1	H+	NAD+	white
-dihydropyrimidine dehydrogenase (NAD+) subunit PreA	1.3.1.1	NAD+	H+	white
-dihydropyrimidine dehydrogenase (NAD+) subunit PreA	1.3.1.1	NAD+	NADH	white
-dihydropyrimidine dehydrogenase (NAD+) subunit PreA	1.3.1.1	NAD+	Uracil	white
-dihydropyrimidine dehydrogenase (NAD+) subunit PreA	1.3.1.1	NADH	5,6-Dihydrouracil	white
-dihydropyrimidine dehydrogenase (NAD+) subunit PreA	1.3.1.1	NADH	NAD+	white
-dihydropyrimidine dehydrogenase (NAD+) subunit PreA	1.3.1.1	Uracil	5,6-Dihydrouracil	white
-dihydropyrimidine dehydrogenase (NAD+) subunit PreA	1.3.1.1	Uracil	NAD+	white
-dihydropyrimidine dehydrogenase (NAD+) subunit PreT	1.3.1.1	5,6-Dihydrouracil	H+	white
-dihydropyrimidine dehydrogenase (NAD+) subunit PreT	1.3.1.1	5,6-Dihydrouracil	NADH	white
-dihydropyrimidine dehydrogenase (NAD+) subunit PreT	1.3.1.1	5,6-Dihydrouracil	Uracil	white
-dihydropyrimidine dehydrogenase (NAD+) subunit PreT	1.3.1.1	H+	5,6-Dihydrouracil	white
-dihydropyrimidine dehydrogenase (NAD+) subunit PreT	1.3.1.1	H+	NAD+	white
-dihydropyrimidine dehydrogenase (NAD+) subunit PreT	1.3.1.1	NAD+	H+	white
-dihydropyrimidine dehydrogenase (NAD+) subunit PreT	1.3.1.1	NAD+	NADH	white
-dihydropyrimidine dehydrogenase (NAD+) subunit PreT	1.3.1.1	NAD+	Uracil	white
-dihydropyrimidine dehydrogenase (NAD+) subunit PreT	1.3.1.1	NADH	5,6-Dihydrouracil	white
-dihydropyrimidine dehydrogenase (NAD+) subunit PreT	1.3.1.1	NADH	NAD+	white
-dihydropyrimidine dehydrogenase (NAD+) subunit PreT	1.3.1.1	Uracil	5,6-Dihydrouracil	white
-dihydropyrimidine dehydrogenase (NAD+) subunit PreT	1.3.1.1	Uracil	NAD+	white
-dihydropyrimidine dehydrogenase (NADP+)	1.3.1.2	5,6-Dihydrouracil	H+	white
-dihydropyrimidine dehydrogenase (NADP+)	1.3.1.2	5,6-Dihydrouracil	NADPH	white
-dihydropyrimidine dehydrogenase (NADP+)	1.3.1.2	5,6-Dihydrouracil	Uracil	white
-dihydropyrimidine dehydrogenase (NADP+)	1.3.1.2	H+	5,6-Dihydrouracil	white
-dihydropyrimidine dehydrogenase (NADP+)	1.3.1.2	H+	NADP+	white
-dihydropyrimidine dehydrogenase (NADP+)	1.3.1.2	NADP+	H+	white
-dihydropyrimidine dehydrogenase (NADP+)	1.3.1.2	NADP+	NADPH	white
-dihydropyrimidine dehydrogenase (NADP+)	1.3.1.2	NADP+	Uracil	white
-dihydropyrimidine dehydrogenase (NADP+)	1.3.1.2	NADPH	5,6-Dihydrouracil	white
-dihydropyrimidine dehydrogenase (NADP+)	1.3.1.2	NADPH	NADP+	white
-dihydropyrimidine dehydrogenase (NADP+)	1.3.1.2	Uracil	5,6-Dihydrouracil	white
-dihydropyrimidine dehydrogenase (NADP+)	1.3.1.2	Uracil	NADP+	white
-dihydroxy-acid dehydratase	4.2.1.9	(R)-2,3-Dihydroxy-3-methylbutanoate	3-Methyl-2-oxobutanoic acid	green
-dihydroxy-acid dehydratase	4.2.1.9	(R)-2,3-Dihydroxy-3-methylbutanoate	H2O	green
-holo-[acyl-carrier protein] synthase	2.7.8.7	Apo-[acyl-carrier protein]	Acyl-carrier protein	green
-holo-[acyl-carrier protein] synthase	2.7.8.7	Apo-[acyl-carrier protein]	Adenosine 3',5'-bisphosphate	green
-holo-[acyl-carrier protein] synthase	2.7.8.7	CoA	Acyl-carrier protein	green
-holo-[acyl-carrier protein] synthase	2.7.8.7	CoA	Adenosine 3',5'-bisphosphate	green
-ketol-acid reductoisomerase	1.1.1.86	(R)-2,3-Dihydroxy-3-methylbutanoate	(S)-2-Acetolactate	green
-ketol-acid reductoisomerase	1.1.1.86	(R)-2,3-Dihydroxy-3-methylbutanoate	H+	green
-ketol-acid reductoisomerase	1.1.1.86	(R)-2,3-Dihydroxy-3-methylbutanoate	NADPH	green
-ketol-acid reductoisomerase	1.1.1.86	NADP+	(S)-2-Acetolactate	green
-ketol-acid reductoisomerase	1.1.1.86	NADP+	H+	green
-ketol-acid reductoisomerase	1.1.1.86	NADP+	NADPH	green
-nucleoside triphosphate diphosphatase	3.6.1.9	AMP	Dephospho-CoA	green
-nucleoside triphosphate diphosphatase	3.6.1.9	AMP	H2O	green
-nucleoside triphosphate diphosphatase	3.6.1.9	Dephospho-CoA	AMP	green
-nucleoside triphosphate diphosphatase	3.6.1.9	Dephospho-CoA	Pantetheine 4'-phosphate	green
-nucleoside triphosphate diphosphatase	3.6.1.9	H2O	AMP	green
-nucleoside triphosphate diphosphatase	3.6.1.9	H2O	Pantetheine 4'-phosphate	green
-nucleoside triphosphate diphosphatase	3.6.1.9	Pantetheine 4'-phosphate	Dephospho-CoA	green
-nucleoside triphosphate diphosphatase	3.6.1.9	Pantetheine 4'-phosphate	H2O	green
-pantetheine hydrolase	3.5.1.92	Cysteamine	H2O	white
-pantetheine hydrolase	3.5.1.92	Cysteamine	Pantetheine	white
-pantetheine hydrolase	3.5.1.92	H2O	Cysteamine	white
-pantetheine hydrolase	3.5.1.92	H2O	Pantothenate	white
-pantetheine hydrolase	3.5.1.92	Pantetheine	Cysteamine	white
-pantetheine hydrolase	3.5.1.92	Pantetheine	Pantothenate	white
-pantetheine hydrolase	3.5.1.92	Pantothenate	H2O	white
-pantetheine hydrolase	3.5.1.92	Pantothenate	Pantetheine	white
-pantetheine-phosphate adenylyltransferase	2.7.7.3	ATP	Dephospho-CoA	green
-pantetheine-phosphate adenylyltransferase	2.7.7.3	ATP	Diphosphate	green
-pantetheine-phosphate adenylyltransferase	2.7.7.3	Dephospho-CoA	ATP	green
-pantetheine-phosphate adenylyltransferase	2.7.7.3	Dephospho-CoA	Pantetheine 4'-phosphate	green
-pantetheine-phosphate adenylyltransferase	2.7.7.3	Diphosphate	ATP	green
-pantetheine-phosphate adenylyltransferase	2.7.7.3	Diphosphate	Pantetheine 4'-phosphate	green
-pantetheine-phosphate adenylyltransferase	2.7.7.3	Pantetheine 4'-phosphate	Dephospho-CoA	green
-pantetheine-phosphate adenylyltransferase	2.7.7.3	Pantetheine 4'-phosphate	Diphosphate	green
-pantoate kinase	2.7.1.169	(R)-4-Phosphopantoate	(R)-Pantoate	white
-pantoate kinase	2.7.1.169	(R)-4-Phosphopantoate	ATP	white
-pantoate kinase	2.7.1.169	(R)-Pantoate	(R)-4-Phosphopantoate	white
-pantoate kinase	2.7.1.169	(R)-Pantoate	ADP	white
-pantoate kinase	2.7.1.169	ADP	(R)-Pantoate	white
-pantoate kinase	2.7.1.169	ADP	ATP	white
-pantoate kinase	2.7.1.169	ATP	(R)-4-Phosphopantoate	white
-pantoate kinase	2.7.1.169	ATP	ADP	white
-pantoate--beta-alanine ligase	6.3.2.1	(R)-Pantoate	AMP	green
-pantoate--beta-alanine ligase	6.3.2.1	(R)-Pantoate	Diphosphate	green
-pantoate--beta-alanine ligase	6.3.2.1	(R)-Pantoate	Pantothenate	green
-pantoate--beta-alanine ligase	6.3.2.1	ATP	AMP	green
-pantoate--beta-alanine ligase	6.3.2.1	ATP	Diphosphate	green
-pantoate--beta-alanine ligase	6.3.2.1	ATP	Pantothenate	green
-pantoate--beta-alanine ligase	6.3.2.1	beta-Alanine	AMP	green
-pantoate--beta-alanine ligase	6.3.2.1	beta-Alanine	Diphosphate	green
-pantoate--beta-alanine ligase	6.3.2.1	beta-Alanine	Pantothenate	green
-phosphopantothenate---cysteine ligase (ATP)	6.3.2.51	(R)-4'-Phosphopantothenoyl-L-cysteine	ATP	white
-phosphopantothenate---cysteine ligase (ATP)	6.3.2.51	(R)-4'-Phosphopantothenoyl-L-cysteine	D-4'-Phosphopantothenate	white
-phosphopantothenate---cysteine ligase (ATP)	6.3.2.51	(R)-4'-Phosphopantothenoyl-L-cysteine	L-Cysteine	white
-phosphopantothenate---cysteine ligase (ATP)	6.3.2.51	AMP	ATP	white
-phosphopantothenate---cysteine ligase (ATP)	6.3.2.51	AMP	D-4'-Phosphopantothenate	white
-phosphopantothenate---cysteine ligase (ATP)	6.3.2.51	AMP	L-Cysteine	white
-phosphopantothenate---cysteine ligase (ATP)	6.3.2.51	ATP	(R)-4'-Phosphopantothenoyl-L-cysteine	white
-phosphopantothenate---cysteine ligase (ATP)	6.3.2.51	ATP	AMP	white
-phosphopantothenate---cysteine ligase (ATP)	6.3.2.51	ATP	Diphosphate	white
-phosphopantothenate---cysteine ligase (ATP)	6.3.2.51	D-4'-Phosphopantothenate	(R)-4'-Phosphopantothenoyl-L-cysteine	white
-phosphopantothenate---cysteine ligase (ATP)	6.3.2.51	D-4'-Phosphopantothenate	AMP	white
-phosphopantothenate---cysteine ligase (ATP)	6.3.2.51	D-4'-Phosphopantothenate	Diphosphate	white
-phosphopantothenate---cysteine ligase (ATP)	6.3.2.51	Diphosphate	ATP	white
-phosphopantothenate---cysteine ligase (ATP)	6.3.2.51	Diphosphate	D-4'-Phosphopantothenate	white
-phosphopantothenate---cysteine ligase (ATP)	6.3.2.51	Diphosphate	L-Cysteine	white
-phosphopantothenate---cysteine ligase (ATP)	6.3.2.51	L-Cysteine	(R)-4'-Phosphopantothenoyl-L-cysteine	white
-phosphopantothenate---cysteine ligase (ATP)	6.3.2.51	L-Cysteine	AMP	white
-phosphopantothenate---cysteine ligase (ATP)	6.3.2.51	L-Cysteine	Diphosphate	white
-phosphopantothenoylcysteine decarboxylase / phosphopantothenate---cysteine ligase	4.1.1.36	(R)-4'-Phosphopantothenoyl-L-cysteine	CO2	green
-phosphopantothenoylcysteine decarboxylase / phosphopantothenate---cysteine ligase	4.1.1.36	(R)-4'-Phosphopantothenoyl-L-cysteine	Pantetheine 4'-phosphate	green
-phosphopantothenoylcysteine decarboxylase / phosphopantothenate---cysteine ligase	4.1.1.36	CTP	(R)-4'-Phosphopantothenoyl-L-cysteine	green
-phosphopantothenoylcysteine decarboxylase / phosphopantothenate---cysteine ligase	4.1.1.36	CTP	CMP	green
-phosphopantothenoylcysteine decarboxylase / phosphopantothenate---cysteine ligase	4.1.1.36	CTP	Diphosphate	green
-phosphopantothenoylcysteine decarboxylase / phosphopantothenate---cysteine ligase	4.1.1.36	D-4'-Phosphopantothenate	(R)-4'-Phosphopantothenoyl-L-cysteine	green
-phosphopantothenoylcysteine decarboxylase / phosphopantothenate---cysteine ligase	4.1.1.36	D-4'-Phosphopantothenate	CMP	green
-phosphopantothenoylcysteine decarboxylase / phosphopantothenate---cysteine ligase	4.1.1.36	D-4'-Phosphopantothenate	Diphosphate	green
-phosphopantothenoylcysteine decarboxylase / phosphopantothenate---cysteine ligase	4.1.1.36	L-Cysteine	(R)-4'-Phosphopantothenoyl-L-cysteine	green
-phosphopantothenoylcysteine decarboxylase / phosphopantothenate---cysteine ligase	4.1.1.36	L-Cysteine	CMP	green
-phosphopantothenoylcysteine decarboxylase / phosphopantothenate---cysteine ligase	4.1.1.36	L-Cysteine	Diphosphate	green
-polyamine oxidase	1.5.3.14	1,3-Diaminopropane	H2O	white
-polyamine oxidase	1.5.3.14	1,3-Diaminopropane	Oxygen	white
-polyamine oxidase	1.5.3.14	1,3-Diaminopropane	Spermidine	white
-polyamine oxidase	1.5.3.14	4-Aminobutyraldehyde	H2O	white
-polyamine oxidase	1.5.3.14	4-Aminobutyraldehyde	Oxygen	white
-polyamine oxidase	1.5.3.14	4-Aminobutyraldehyde	Spermidine	white
-polyamine oxidase	1.5.3.14	H2O	1,3-Diaminopropane	white
-polyamine oxidase	1.5.3.14	H2O	4-Aminobutyraldehyde	white
-polyamine oxidase	1.5.3.14	H2O	Hydrogen peroxide	white
-polyamine oxidase	1.5.3.14	Hydrogen peroxide	H2O	white
-polyamine oxidase	1.5.3.14	Hydrogen peroxide	Oxygen	white
-polyamine oxidase	1.5.3.14	Hydrogen peroxide	Spermidine	white
-polyamine oxidase	1.5.3.14	Oxygen	1,3-Diaminopropane	white
-polyamine oxidase	1.5.3.14	Oxygen	4-Aminobutyraldehyde	white
-polyamine oxidase	1.5.3.14	Oxygen	Hydrogen peroxide	white
-polyamine oxidase	1.5.3.14	Spermidine	1,3-Diaminopropane	white
-polyamine oxidase	1.5.3.14	Spermidine	4-Aminobutyraldehyde	white
-polyamine oxidase	1.5.3.14	Spermidine	Hydrogen peroxide	white
-type I pantothenate kinase	2.7.1.33	ATP	(R)-4'-Phosphopantothenoyl-L-cysteine	green
-type I pantothenate kinase	2.7.1.33	ATP	ADP	green
-type I pantothenate kinase	2.7.1.33	ATP	D-4'-Phosphopantothenate	green
-type I pantothenate kinase	2.7.1.33	ATP	Pantetheine 4'-phosphate	green
-type I pantothenate kinase	2.7.1.33	N-((R)-Pantothenoyl)-L-cysteine	(R)-4'-Phosphopantothenoyl-L-cysteine	green
-type I pantothenate kinase	2.7.1.33	N-((R)-Pantothenoyl)-L-cysteine	ADP	green
-type I pantothenate kinase	2.7.1.33	Pantetheine	ADP	green
-type I pantothenate kinase	2.7.1.33	Pantetheine	Pantetheine 4'-phosphate	green
-type I pantothenate kinase	2.7.1.33	Pantothenate	ADP	green
-type I pantothenate kinase	2.7.1.33	Pantothenate	D-4'-Phosphopantothenate	green
-type III pantothenate kinase	2.7.1.33	ATP	(R)-4'-Phosphopantothenoyl-L-cysteine	green
-type III pantothenate kinase	2.7.1.33	ATP	ADP	green
-type III pantothenate kinase	2.7.1.33	ATP	D-4'-Phosphopantothenate	green
-type III pantothenate kinase	2.7.1.33	ATP	Pantetheine 4'-phosphate	green
-type III pantothenate kinase	2.7.1.33	N-((R)-Pantothenoyl)-L-cysteine	(R)-4'-Phosphopantothenoyl-L-cysteine	green
-type III pantothenate kinase	2.7.1.33	N-((R)-Pantothenoyl)-L-cysteine	ADP	green
-type III pantothenate kinase	2.7.1.33	Pantetheine	ADP	green
-type III pantothenate kinase	2.7.1.33	Pantetheine	Pantetheine 4'-phosphate	green
-type III pantothenate kinase	2.7.1.33	Pantothenate	ADP	green
-type III pantothenate kinase	2.7.1.33	Pantothenate	D-4'-Phosphopantothenate	green
+enzyme_name	EC	source	target	reaction	color
+2-dehydropantoate 2-reductase	1.1.1.169	(R)-Pantoate	2-Dehydropantoate	R02472	green
+2-dehydropantoate 2-reductase	1.1.1.169	(R)-Pantoate	H+	R02472	green
+2-dehydropantoate 2-reductase	1.1.1.169	(R)-Pantoate	NADPH	R02472	green
+2-dehydropantoate 2-reductase	1.1.1.169	2-Dehydropantoate	(R)-Pantoate	R02472	green
+2-dehydropantoate 2-reductase	1.1.1.169	2-Dehydropantoate	NADP+	R02472	green
+2-dehydropantoate 2-reductase	1.1.1.169	H+	(R)-Pantoate	R02472	green
+2-dehydropantoate 2-reductase	1.1.1.169	H+	NADP+	R02472	green
+2-dehydropantoate 2-reductase	1.1.1.169	NADP+	2-Dehydropantoate	R02472	green
+2-dehydropantoate 2-reductase	1.1.1.169	NADP+	H+	R02472	green
+2-dehydropantoate 2-reductase	1.1.1.169	NADP+	NADPH	R02472	green
+2-dehydropantoate 2-reductase	1.1.1.169	NADPH	(R)-Pantoate	R02472	green
+2-dehydropantoate 2-reductase	1.1.1.169	NADPH	NADP+	R02472	green
+3-methyl-2-oxobutanoate hydroxymethyltransferase	2.1.2.11	3-Methyl-2-oxobutanoic acid	2-Dehydropantoate	R01226	green
+3-methyl-2-oxobutanoate hydroxymethyltransferase	2.1.2.11	3-Methyl-2-oxobutanoic acid	Tetrahydrofolate	R01226	green
+3-methyl-2-oxobutanoate hydroxymethyltransferase	2.1.2.11	5,10-Methylenetetrahydrofolate	2-Dehydropantoate	R01226	green
+3-methyl-2-oxobutanoate hydroxymethyltransferase	2.1.2.11	5,10-Methylenetetrahydrofolate	Tetrahydrofolate	R01226	green
+3-methyl-2-oxobutanoate hydroxymethyltransferase	2.1.2.11	H2O	2-Dehydropantoate	R01226	green
+3-methyl-2-oxobutanoate hydroxymethyltransferase	2.1.2.11	H2O	Tetrahydrofolate	R01226	green
+4'-phosphopantetheinyl transferase	2.7.8.-	Acyl-carrier protein	Apo-[acyl-carrier protein]	R01625	white
+4'-phosphopantetheinyl transferase	2.7.8.-	Acyl-carrier protein	CoA	R01625	white
+4'-phosphopantetheinyl transferase	2.7.8.-	Adenosine 3',5'-bisphosphate	Apo-[acyl-carrier protein]	R01625	white
+4'-phosphopantetheinyl transferase	2.7.8.-	Adenosine 3',5'-bisphosphate	CoA	R01625	white
+4'-phosphopantetheinyl transferase	2.7.8.-	Apo-[acyl-carrier protein]	Acyl-carrier protein	R01625	white
+4'-phosphopantetheinyl transferase	2.7.8.-	Apo-[acyl-carrier protein]	Adenosine 3',5'-bisphosphate	R01625	white
+4'-phosphopantetheinyl transferase	2.7.8.-	CoA	Acyl-carrier protein	R01625	white
+4'-phosphopantetheinyl transferase	2.7.8.-	CoA	Adenosine 3',5'-bisphosphate	R01625	white
+4-phosphopantoate---beta-alanine ligase	6.3.2.36	(R)-4-Phosphopantoate	AMP	R09379	white
+4-phosphopantoate---beta-alanine ligase	6.3.2.36	(R)-4-Phosphopantoate	D-4'-Phosphopantothenate	R09379	white
+4-phosphopantoate---beta-alanine ligase	6.3.2.36	(R)-4-Phosphopantoate	Diphosphate	R09379	white
+4-phosphopantoate---beta-alanine ligase	6.3.2.36	AMP	(R)-4-Phosphopantoate	R09379	white
+4-phosphopantoate---beta-alanine ligase	6.3.2.36	AMP	ATP	R09379	white
+4-phosphopantoate---beta-alanine ligase	6.3.2.36	AMP	beta-Alanine	R09379	white
+4-phosphopantoate---beta-alanine ligase	6.3.2.36	ATP	AMP	R09379	white
+4-phosphopantoate---beta-alanine ligase	6.3.2.36	ATP	D-4'-Phosphopantothenate	R09379	white
+4-phosphopantoate---beta-alanine ligase	6.3.2.36	ATP	Diphosphate	R09379	white
+4-phosphopantoate---beta-alanine ligase	6.3.2.36	D-4'-Phosphopantothenate	(R)-4-Phosphopantoate	R09379	white
+4-phosphopantoate---beta-alanine ligase	6.3.2.36	D-4'-Phosphopantothenate	ATP	R09379	white
+4-phosphopantoate---beta-alanine ligase	6.3.2.36	D-4'-Phosphopantothenate	beta-Alanine	R09379	white
+4-phosphopantoate---beta-alanine ligase	6.3.2.36	Diphosphate	(R)-4-Phosphopantoate	R09379	white
+4-phosphopantoate---beta-alanine ligase	6.3.2.36	Diphosphate	ATP	R09379	white
+4-phosphopantoate---beta-alanine ligase	6.3.2.36	Diphosphate	beta-Alanine	R09379	white
+4-phosphopantoate---beta-alanine ligase	6.3.2.36	beta-Alanine	AMP	R09379	white
+4-phosphopantoate---beta-alanine ligase	6.3.2.36	beta-Alanine	D-4'-Phosphopantothenate	R09379	white
+4-phosphopantoate---beta-alanine ligase	6.3.2.36	beta-Alanine	Diphosphate	R09379	white
+GTP-dependent dephospho-CoA kinase	2.7.1.237	CoA	Dephospho-CoA	R12608	white
+GTP-dependent dephospho-CoA kinase	2.7.1.237	CoA	GTP	R12608	white
+GTP-dependent dephospho-CoA kinase	2.7.1.237	Dephospho-CoA	CoA	R12608	white
+GTP-dependent dephospho-CoA kinase	2.7.1.237	Dephospho-CoA	GDP	R12608	white
+GTP-dependent dephospho-CoA kinase	2.7.1.237	GDP	Dephospho-CoA	R12608	white
+GTP-dependent dephospho-CoA kinase	2.7.1.237	GDP	GTP	R12608	white
+GTP-dependent dephospho-CoA kinase	2.7.1.237	GTP	CoA	R12608	white
+GTP-dependent dephospho-CoA kinase	2.7.1.237	GTP	GDP	R12608	white
+acetolactate synthase I/II/III large subunit	2.2.1.6	(S)-2-Acetolactate	Pyruvate	R00226	green
+acetolactate synthase I/II/III large subunit	2.2.1.6	CO2	Pyruvate	R00226	green
+acetolactate synthase I/III small subunit	2.2.1.6	(S)-2-Acetolactate	Pyruvate	R00226	green
+acetolactate synthase I/III small subunit	2.2.1.6	CO2	Pyruvate	R00226	green
+acyl carrier protein phosphodiesterase	3.1.4.14	Acyl-carrier protein	Apo-[acyl-carrier protein]	R01623	white
+acyl carrier protein phosphodiesterase	3.1.4.14	Acyl-carrier protein	Pantetheine 4'-phosphate	R01623	white
+acyl carrier protein phosphodiesterase	3.1.4.14	Apo-[acyl-carrier protein]	Acyl-carrier protein	R01623	white
+acyl carrier protein phosphodiesterase	3.1.4.14	Apo-[acyl-carrier protein]	H2O	R01623	white
+acyl carrier protein phosphodiesterase	3.1.4.14	H2O	Apo-[acyl-carrier protein]	R01623	white
+acyl carrier protein phosphodiesterase	3.1.4.14	H2O	Pantetheine 4'-phosphate	R01623	white
+acyl carrier protein phosphodiesterase	3.1.4.14	Pantetheine 4'-phosphate	Acyl-carrier protein	R01623	white
+acyl carrier protein phosphodiesterase	3.1.4.14	Pantetheine 4'-phosphate	H2O	R01623	white
+aldehyde dehydrogenase (NAD+)	1.2.1.3	3-Aminopropanal	H+	R00904	green
+aldehyde dehydrogenase (NAD+)	1.2.1.3	3-Aminopropanal	NADH	R00904	green
+aldehyde dehydrogenase (NAD+)	1.2.1.3	3-Aminopropanal	beta-Alanine	R00904	green
+aldehyde dehydrogenase (NAD+)	1.2.1.3	H2O	H+	R00904	green
+aldehyde dehydrogenase (NAD+)	1.2.1.3	H2O	NADH	R00904	green
+aldehyde dehydrogenase (NAD+)	1.2.1.3	H2O	beta-Alanine	R00904	green
+aldehyde dehydrogenase (NAD+)	1.2.1.3	NAD+	H+	R00904	green
+aldehyde dehydrogenase (NAD+)	1.2.1.3	NAD+	NADH	R00904	green
+aldehyde dehydrogenase (NAD+)	1.2.1.3	NAD+	beta-Alanine	R00904	green
+aspartate 1-decarboxylase	4.1.1.11	L-Aspartate	CO2	R00489	green
+aspartate 1-decarboxylase	4.1.1.11	L-Aspartate	beta-Alanine	R00489	green
+beta-ureidopropionase / N-carbamoyl-L-amino-acid hydrolase	3.5.1.6	3-Ureidopropionate	Ammonia	R00905	green
+beta-ureidopropionase / N-carbamoyl-L-amino-acid hydrolase	3.5.1.6	3-Ureidopropionate	CO2	R00905	green
+beta-ureidopropionase / N-carbamoyl-L-amino-acid hydrolase	3.5.1.6	3-Ureidopropionate	beta-Alanine	R00905	green
+beta-ureidopropionase / N-carbamoyl-L-amino-acid hydrolase	3.5.1.6	H2O	Ammonia	R00905	green
+beta-ureidopropionase / N-carbamoyl-L-amino-acid hydrolase	3.5.1.6	H2O	CO2	R00905	green
+beta-ureidopropionase / N-carbamoyl-L-amino-acid hydrolase	3.5.1.6	H2O	beta-Alanine	R00905	green
+branched-chain amino acid aminotransferase	2.6.1.42	2-Oxoglutarate	3-Methyl-2-oxobutanoic acid	R01214	green
+branched-chain amino acid aminotransferase	2.6.1.42	2-Oxoglutarate	L-Glutamate	R01214	green
+branched-chain amino acid aminotransferase	2.6.1.42	3-Methyl-2-oxobutanoic acid	2-Oxoglutarate	R01214	green
+branched-chain amino acid aminotransferase	2.6.1.42	3-Methyl-2-oxobutanoic acid	L-Valine	R01214	green
+branched-chain amino acid aminotransferase	2.6.1.42	L-Glutamate	2-Oxoglutarate	R01214	green
+branched-chain amino acid aminotransferase	2.6.1.42	L-Glutamate	L-Valine	R01214	green
+branched-chain amino acid aminotransferase	2.6.1.42	L-Valine	3-Methyl-2-oxobutanoic acid	R01214	green
+branched-chain amino acid aminotransferase	2.6.1.42	L-Valine	L-Glutamate	R01214	green
+dephospho-CoA kinase	2.7.1.24	ATP	ADP	R00130	green
+dephospho-CoA kinase	2.7.1.24	ATP	CoA	R00130	green
+dephospho-CoA kinase	2.7.1.24	Dephospho-CoA	ADP	R00130	green
+dephospho-CoA kinase	2.7.1.24	Dephospho-CoA	CoA	R00130	green
+dihydropyrimidinase	3.5.2.2	3-Ureidopropionate	5,6-Dihydrouracil	R02269	white
+dihydropyrimidinase	3.5.2.2	3-Ureidopropionate	H2O	R02269	white
+dihydropyrimidinase	3.5.2.2	5,6-Dihydrouracil	3-Ureidopropionate	R02269	white
+dihydropyrimidinase	3.5.2.2	H2O	3-Ureidopropionate	R02269	white
+dihydropyrimidine dehydrogenase (NAD+) subunit PreA	1.3.1.1	5,6-Dihydrouracil	H+	R00977	white
+dihydropyrimidine dehydrogenase (NAD+) subunit PreA	1.3.1.1	5,6-Dihydrouracil	NADH	R00977	white
+dihydropyrimidine dehydrogenase (NAD+) subunit PreA	1.3.1.1	5,6-Dihydrouracil	Uracil	R00977	white
+dihydropyrimidine dehydrogenase (NAD+) subunit PreA	1.3.1.1	H+	5,6-Dihydrouracil	R00977	white
+dihydropyrimidine dehydrogenase (NAD+) subunit PreA	1.3.1.1	H+	NAD+	R00977	white
+dihydropyrimidine dehydrogenase (NAD+) subunit PreA	1.3.1.1	NAD+	H+	R00977	white
+dihydropyrimidine dehydrogenase (NAD+) subunit PreA	1.3.1.1	NAD+	NADH	R00977	white
+dihydropyrimidine dehydrogenase (NAD+) subunit PreA	1.3.1.1	NAD+	Uracil	R00977	white
+dihydropyrimidine dehydrogenase (NAD+) subunit PreA	1.3.1.1	NADH	5,6-Dihydrouracil	R00977	white
+dihydropyrimidine dehydrogenase (NAD+) subunit PreA	1.3.1.1	NADH	NAD+	R00977	white
+dihydropyrimidine dehydrogenase (NAD+) subunit PreA	1.3.1.1	Uracil	5,6-Dihydrouracil	R00977	white
+dihydropyrimidine dehydrogenase (NAD+) subunit PreA	1.3.1.1	Uracil	NAD+	R00977	white
+dihydropyrimidine dehydrogenase (NAD+) subunit PreT	1.3.1.1	5,6-Dihydrouracil	H+	R00977	white
+dihydropyrimidine dehydrogenase (NAD+) subunit PreT	1.3.1.1	5,6-Dihydrouracil	NADH	R00977	white
+dihydropyrimidine dehydrogenase (NAD+) subunit PreT	1.3.1.1	5,6-Dihydrouracil	Uracil	R00977	white
+dihydropyrimidine dehydrogenase (NAD+) subunit PreT	1.3.1.1	H+	5,6-Dihydrouracil	R00977	white
+dihydropyrimidine dehydrogenase (NAD+) subunit PreT	1.3.1.1	H+	NAD+	R00977	white
+dihydropyrimidine dehydrogenase (NAD+) subunit PreT	1.3.1.1	NAD+	H+	R00977	white
+dihydropyrimidine dehydrogenase (NAD+) subunit PreT	1.3.1.1	NAD+	NADH	R00977	white
+dihydropyrimidine dehydrogenase (NAD+) subunit PreT	1.3.1.1	NAD+	Uracil	R00977	white
+dihydropyrimidine dehydrogenase (NAD+) subunit PreT	1.3.1.1	NADH	5,6-Dihydrouracil	R00977	white
+dihydropyrimidine dehydrogenase (NAD+) subunit PreT	1.3.1.1	NADH	NAD+	R00977	white
+dihydropyrimidine dehydrogenase (NAD+) subunit PreT	1.3.1.1	Uracil	5,6-Dihydrouracil	R00977	white
+dihydropyrimidine dehydrogenase (NAD+) subunit PreT	1.3.1.1	Uracil	NAD+	R00977	white
+dihydropyrimidine dehydrogenase (NADP+)	1.3.1.2	5,6-Dihydrouracil	H+	R00978	white
+dihydropyrimidine dehydrogenase (NADP+)	1.3.1.2	5,6-Dihydrouracil	NADPH	R00978	white
+dihydropyrimidine dehydrogenase (NADP+)	1.3.1.2	5,6-Dihydrouracil	Uracil	R00978	white
+dihydropyrimidine dehydrogenase (NADP+)	1.3.1.2	H+	5,6-Dihydrouracil	R00978	white
+dihydropyrimidine dehydrogenase (NADP+)	1.3.1.2	H+	NADP+	R00978	white
+dihydropyrimidine dehydrogenase (NADP+)	1.3.1.2	NADP+	H+	R00978	white
+dihydropyrimidine dehydrogenase (NADP+)	1.3.1.2	NADP+	NADPH	R00978	white
+dihydropyrimidine dehydrogenase (NADP+)	1.3.1.2	NADP+	Uracil	R00978	white
+dihydropyrimidine dehydrogenase (NADP+)	1.3.1.2	NADPH	5,6-Dihydrouracil	R00978	white
+dihydropyrimidine dehydrogenase (NADP+)	1.3.1.2	NADPH	NADP+	R00978	white
+dihydropyrimidine dehydrogenase (NADP+)	1.3.1.2	Uracil	5,6-Dihydrouracil	R00978	white
+dihydropyrimidine dehydrogenase (NADP+)	1.3.1.2	Uracil	NADP+	R00978	white
+dihydroxy-acid dehydratase	4.2.1.9	(R)-2,3-Dihydroxy-3-methylbutanoate	3-Methyl-2-oxobutanoic acid	R04441	green
+dihydroxy-acid dehydratase	4.2.1.9	(R)-2,3-Dihydroxy-3-methylbutanoate	H2O	R04441	green
+holo-[acyl-carrier protein] synthase	2.7.8.7	Apo-[acyl-carrier protein]	Acyl-carrier protein	R01625	green
+holo-[acyl-carrier protein] synthase	2.7.8.7	Apo-[acyl-carrier protein]	Adenosine 3',5'-bisphosphate	R01625	green
+holo-[acyl-carrier protein] synthase	2.7.8.7	CoA	Acyl-carrier protein	R01625	green
+holo-[acyl-carrier protein] synthase	2.7.8.7	CoA	Adenosine 3',5'-bisphosphate	R01625	green
+ketol-acid reductoisomerase	1.1.1.86	(R)-2,3-Dihydroxy-3-methylbutanoate	(S)-2-Acetolactate	R04439	green
+ketol-acid reductoisomerase	1.1.1.86	(R)-2,3-Dihydroxy-3-methylbutanoate	H+	R04439	green
+ketol-acid reductoisomerase	1.1.1.86	(R)-2,3-Dihydroxy-3-methylbutanoate	NADPH	R04439	green
+ketol-acid reductoisomerase	1.1.1.86	NADP+	(S)-2-Acetolactate	R04439	green
+ketol-acid reductoisomerase	1.1.1.86	NADP+	H+	R04439	green
+ketol-acid reductoisomerase	1.1.1.86	NADP+	NADPH	R04439	green
+nucleoside triphosphate diphosphatase	3.6.1.9	AMP	Dephospho-CoA	R03036	green
+nucleoside triphosphate diphosphatase	3.6.1.9	AMP	H2O	R03036	green
+nucleoside triphosphate diphosphatase	3.6.1.9	Dephospho-CoA	AMP	R03036	green
+nucleoside triphosphate diphosphatase	3.6.1.9	Dephospho-CoA	Pantetheine 4'-phosphate	R03036	green
+nucleoside triphosphate diphosphatase	3.6.1.9	H2O	AMP	R03036	green
+nucleoside triphosphate diphosphatase	3.6.1.9	H2O	Pantetheine 4'-phosphate	R03036	green
+nucleoside triphosphate diphosphatase	3.6.1.9	Pantetheine 4'-phosphate	Dephospho-CoA	R03036	green
+nucleoside triphosphate diphosphatase	3.6.1.9	Pantetheine 4'-phosphate	H2O	R03036	green
+pantetheine hydrolase	3.5.1.92	Cysteamine	H2O	R02973	white
+pantetheine hydrolase	3.5.1.92	Cysteamine	Pantetheine	R02973	white
+pantetheine hydrolase	3.5.1.92	H2O	Cysteamine	R02973	white
+pantetheine hydrolase	3.5.1.92	H2O	Pantothenate	R02973	white
+pantetheine hydrolase	3.5.1.92	Pantetheine	Cysteamine	R02973	white
+pantetheine hydrolase	3.5.1.92	Pantetheine	Pantothenate	R02973	white
+pantetheine hydrolase	3.5.1.92	Pantothenate	H2O	R02973	white
+pantetheine hydrolase	3.5.1.92	Pantothenate	Pantetheine	R02973	white
+pantetheine-phosphate adenylyltransferase	2.7.7.3	ATP	Dephospho-CoA	R03035	green
+pantetheine-phosphate adenylyltransferase	2.7.7.3	ATP	Diphosphate	R03035	green
+pantetheine-phosphate adenylyltransferase	2.7.7.3	Dephospho-CoA	ATP	R03035	green
+pantetheine-phosphate adenylyltransferase	2.7.7.3	Dephospho-CoA	Pantetheine 4'-phosphate	R03035	green
+pantetheine-phosphate adenylyltransferase	2.7.7.3	Diphosphate	ATP	R03035	green
+pantetheine-phosphate adenylyltransferase	2.7.7.3	Diphosphate	Pantetheine 4'-phosphate	R03035	green
+pantetheine-phosphate adenylyltransferase	2.7.7.3	Pantetheine 4'-phosphate	Dephospho-CoA	R03035	green
+pantetheine-phosphate adenylyltransferase	2.7.7.3	Pantetheine 4'-phosphate	Diphosphate	R03035	green
+pantoate kinase	2.7.1.169	(R)-4-Phosphopantoate	(R)-Pantoate	R09378	white
+pantoate kinase	2.7.1.169	(R)-4-Phosphopantoate	ATP	R09378	white
+pantoate kinase	2.7.1.169	(R)-Pantoate	(R)-4-Phosphopantoate	R09378	white
+pantoate kinase	2.7.1.169	(R)-Pantoate	ADP	R09378	white
+pantoate kinase	2.7.1.169	ADP	(R)-Pantoate	R09378	white
+pantoate kinase	2.7.1.169	ADP	ATP	R09378	white
+pantoate kinase	2.7.1.169	ATP	(R)-4-Phosphopantoate	R09378	white
+pantoate kinase	2.7.1.169	ATP	ADP	R09378	white
+pantoate--beta-alanine ligase	6.3.2.1	(R)-Pantoate	AMP	R02473	green
+pantoate--beta-alanine ligase	6.3.2.1	(R)-Pantoate	Diphosphate	R02473	green
+pantoate--beta-alanine ligase	6.3.2.1	(R)-Pantoate	Pantothenate	R02473	green
+pantoate--beta-alanine ligase	6.3.2.1	ATP	AMP	R02473	green
+pantoate--beta-alanine ligase	6.3.2.1	ATP	Diphosphate	R02473	green
+pantoate--beta-alanine ligase	6.3.2.1	ATP	Pantothenate	R02473	green
+pantoate--beta-alanine ligase	6.3.2.1	beta-Alanine	AMP	R02473	green
+pantoate--beta-alanine ligase	6.3.2.1	beta-Alanine	Diphosphate	R02473	green
+pantoate--beta-alanine ligase	6.3.2.1	beta-Alanine	Pantothenate	R02473	green
+phosphopantothenate---cysteine ligase (ATP)	6.3.2.51	(R)-4'-Phosphopantothenoyl-L-cysteine	ATP	R04230	white
+phosphopantothenate---cysteine ligase (ATP)	6.3.2.51	(R)-4'-Phosphopantothenoyl-L-cysteine	D-4'-Phosphopantothenate	R04230	white
+phosphopantothenate---cysteine ligase (ATP)	6.3.2.51	(R)-4'-Phosphopantothenoyl-L-cysteine	L-Cysteine	R04230	white
+phosphopantothenate---cysteine ligase (ATP)	6.3.2.51	AMP	ATP	R04230	white
+phosphopantothenate---cysteine ligase (ATP)	6.3.2.51	AMP	D-4'-Phosphopantothenate	R04230	white
+phosphopantothenate---cysteine ligase (ATP)	6.3.2.51	AMP	L-Cysteine	R04230	white
+phosphopantothenate---cysteine ligase (ATP)	6.3.2.51	ATP	(R)-4'-Phosphopantothenoyl-L-cysteine	R04230	white
+phosphopantothenate---cysteine ligase (ATP)	6.3.2.51	ATP	AMP	R04230	white
+phosphopantothenate---cysteine ligase (ATP)	6.3.2.51	ATP	Diphosphate	R04230	white
+phosphopantothenate---cysteine ligase (ATP)	6.3.2.51	D-4'-Phosphopantothenate	(R)-4'-Phosphopantothenoyl-L-cysteine	R04230	white
+phosphopantothenate---cysteine ligase (ATP)	6.3.2.51	D-4'-Phosphopantothenate	AMP	R04230	white
+phosphopantothenate---cysteine ligase (ATP)	6.3.2.51	D-4'-Phosphopantothenate	Diphosphate	R04230	white
+phosphopantothenate---cysteine ligase (ATP)	6.3.2.51	Diphosphate	ATP	R04230	white
+phosphopantothenate---cysteine ligase (ATP)	6.3.2.51	Diphosphate	D-4'-Phosphopantothenate	R04230	white
+phosphopantothenate---cysteine ligase (ATP)	6.3.2.51	Diphosphate	L-Cysteine	R04230	white
+phosphopantothenate---cysteine ligase (ATP)	6.3.2.51	L-Cysteine	(R)-4'-Phosphopantothenoyl-L-cysteine	R04230	white
+phosphopantothenate---cysteine ligase (ATP)	6.3.2.51	L-Cysteine	AMP	R04230	white
+phosphopantothenate---cysteine ligase (ATP)	6.3.2.51	L-Cysteine	Diphosphate	R04230	white
+phosphopantothenoylcysteine decarboxylase / phosphopantothenate---cysteine ligase	4.1.1.36	(R)-4'-Phosphopantothenoyl-L-cysteine	CO2	R03269	green
+phosphopantothenoylcysteine decarboxylase / phosphopantothenate---cysteine ligase	4.1.1.36	(R)-4'-Phosphopantothenoyl-L-cysteine	Pantetheine 4'-phosphate	R03269	green
+phosphopantothenoylcysteine decarboxylase / phosphopantothenate---cysteine ligase	4.1.1.36	CTP	(R)-4'-Phosphopantothenoyl-L-cysteine	R04231	green
+phosphopantothenoylcysteine decarboxylase / phosphopantothenate---cysteine ligase	4.1.1.36	CTP	CMP	R04231	green
+phosphopantothenoylcysteine decarboxylase / phosphopantothenate---cysteine ligase	4.1.1.36	CTP	Diphosphate	R04231	green
+phosphopantothenoylcysteine decarboxylase / phosphopantothenate---cysteine ligase	4.1.1.36	D-4'-Phosphopantothenate	(R)-4'-Phosphopantothenoyl-L-cysteine	R04231	green
+phosphopantothenoylcysteine decarboxylase / phosphopantothenate---cysteine ligase	4.1.1.36	D-4'-Phosphopantothenate	CMP	R04231	green
+phosphopantothenoylcysteine decarboxylase / phosphopantothenate---cysteine ligase	4.1.1.36	D-4'-Phosphopantothenate	Diphosphate	R04231	green
+phosphopantothenoylcysteine decarboxylase / phosphopantothenate---cysteine ligase	4.1.1.36	L-Cysteine	(R)-4'-Phosphopantothenoyl-L-cysteine	R04231	green
+phosphopantothenoylcysteine decarboxylase / phosphopantothenate---cysteine ligase	4.1.1.36	L-Cysteine	CMP	R04231	green
+phosphopantothenoylcysteine decarboxylase / phosphopantothenate---cysteine ligase	4.1.1.36	L-Cysteine	Diphosphate	R04231	green
+polyamine oxidase	1.5.3.14	1,3-Diaminopropane	H2O	R01914	white
+polyamine oxidase	1.5.3.14	1,3-Diaminopropane	Oxygen	R01914	white
+polyamine oxidase	1.5.3.14	1,3-Diaminopropane	Spermidine	R01914	white
+polyamine oxidase	1.5.3.14	4-Aminobutyraldehyde	H2O	R01914	white
+polyamine oxidase	1.5.3.14	4-Aminobutyraldehyde	Oxygen	R01914	white
+polyamine oxidase	1.5.3.14	4-Aminobutyraldehyde	Spermidine	R01914	white
+polyamine oxidase	1.5.3.14	H2O	1,3-Diaminopropane	R01914	white
+polyamine oxidase	1.5.3.14	H2O	4-Aminobutyraldehyde	R01914	white
+polyamine oxidase	1.5.3.14	H2O	Hydrogen peroxide	R01914	white
+polyamine oxidase	1.5.3.14	Hydrogen peroxide	H2O	R01914	white
+polyamine oxidase	1.5.3.14	Hydrogen peroxide	Oxygen	R01914	white
+polyamine oxidase	1.5.3.14	Hydrogen peroxide	Spermidine	R01914	white
+polyamine oxidase	1.5.3.14	Oxygen	1,3-Diaminopropane	R01914	white
+polyamine oxidase	1.5.3.14	Oxygen	4-Aminobutyraldehyde	R01914	white
+polyamine oxidase	1.5.3.14	Oxygen	Hydrogen peroxide	R01914	white
+polyamine oxidase	1.5.3.14	Spermidine	1,3-Diaminopropane	R01914	white
+polyamine oxidase	1.5.3.14	Spermidine	4-Aminobutyraldehyde	R01914	white
+polyamine oxidase	1.5.3.14	Spermidine	Hydrogen peroxide	R01914	white
+type I pantothenate kinase	2.7.1.33	ATP	(R)-4'-Phosphopantothenoyl-L-cysteine	R04391	green
+type I pantothenate kinase	2.7.1.33	ATP	ADP	R02971	green
+type I pantothenate kinase	2.7.1.33	ATP	ADP	R03018	green
+type I pantothenate kinase	2.7.1.33	ATP	ADP	R04391	green
+type I pantothenate kinase	2.7.1.33	ATP	D-4'-Phosphopantothenate	R03018	green
+type I pantothenate kinase	2.7.1.33	ATP	Pantetheine 4'-phosphate	R02971	green
+type I pantothenate kinase	2.7.1.33	N-((R)-Pantothenoyl)-L-cysteine	(R)-4'-Phosphopantothenoyl-L-cysteine	R04391	green
+type I pantothenate kinase	2.7.1.33	N-((R)-Pantothenoyl)-L-cysteine	ADP	R04391	green
+type I pantothenate kinase	2.7.1.33	Pantetheine	ADP	R02971	green
+type I pantothenate kinase	2.7.1.33	Pantetheine	Pantetheine 4'-phosphate	R02971	green
+type I pantothenate kinase	2.7.1.33	Pantothenate	ADP	R03018	green
+type I pantothenate kinase	2.7.1.33	Pantothenate	D-4'-Phosphopantothenate	R03018	green
+type III pantothenate kinase	2.7.1.33	ATP	(R)-4'-Phosphopantothenoyl-L-cysteine	R04391	green
+type III pantothenate kinase	2.7.1.33	ATP	ADP	R02971	green
+type III pantothenate kinase	2.7.1.33	ATP	ADP	R03018	green
+type III pantothenate kinase	2.7.1.33	ATP	ADP	R04391	green
+type III pantothenate kinase	2.7.1.33	ATP	D-4'-Phosphopantothenate	R03018	green
+type III pantothenate kinase	2.7.1.33	ATP	Pantetheine 4'-phosphate	R02971	green
+type III pantothenate kinase	2.7.1.33	N-((R)-Pantothenoyl)-L-cysteine	(R)-4'-Phosphopantothenoyl-L-cysteine	R04391	green
+type III pantothenate kinase	2.7.1.33	N-((R)-Pantothenoyl)-L-cysteine	ADP	R04391	green
+type III pantothenate kinase	2.7.1.33	Pantetheine	ADP	R02971	green
+type III pantothenate kinase	2.7.1.33	Pantetheine	Pantetheine 4'-phosphate	R02971	green
+type III pantothenate kinase	2.7.1.33	Pantothenate	ADP	R03018	green
+type III pantothenate kinase	2.7.1.33	Pantothenate	D-4'-Phosphopantothenate	R03018	green

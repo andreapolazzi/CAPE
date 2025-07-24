@@ -1,383 +1,427 @@
-enzyme_name	EC	source	target	color
-2-oxoadipate dehydrogenase E1 component	1.2.4.-	2-Oxoadipate	CO2	white
-2-oxoadipate dehydrogenase E1 component	1.2.4.-	2-Oxoadipate	Glutaryl-CoA	white
-2-oxoadipate dehydrogenase E1 component	1.2.4.-	2-Oxoadipate	H+	white
-2-oxoadipate dehydrogenase E1 component	1.2.4.-	2-Oxoadipate	NADH	white
-2-oxoadipate dehydrogenase E1 component	1.2.4.-	CO2	2-Oxoadipate	white
-2-oxoadipate dehydrogenase E1 component	1.2.4.-	CO2	CoA	white
-2-oxoadipate dehydrogenase E1 component	1.2.4.-	CO2	NAD+	white
-2-oxoadipate dehydrogenase E1 component	1.2.4.-	CoA	CO2	white
-2-oxoadipate dehydrogenase E1 component	1.2.4.-	CoA	Glutaryl-CoA	white
-2-oxoadipate dehydrogenase E1 component	1.2.4.-	CoA	H+	white
-2-oxoadipate dehydrogenase E1 component	1.2.4.-	CoA	NADH	white
-2-oxoadipate dehydrogenase E1 component	1.2.4.-	Glutaryl-CoA	2-Oxoadipate	white
-2-oxoadipate dehydrogenase E1 component	1.2.4.-	Glutaryl-CoA	CoA	white
-2-oxoadipate dehydrogenase E1 component	1.2.4.-	Glutaryl-CoA	NAD+	white
-2-oxoadipate dehydrogenase E1 component	1.2.4.-	H+	2-Oxoadipate	white
-2-oxoadipate dehydrogenase E1 component	1.2.4.-	H+	CoA	white
-2-oxoadipate dehydrogenase E1 component	1.2.4.-	H+	NAD+	white
-2-oxoadipate dehydrogenase E1 component	1.2.4.-	NAD+	CO2	white
-2-oxoadipate dehydrogenase E1 component	1.2.4.-	NAD+	Glutaryl-CoA	white
-2-oxoadipate dehydrogenase E1 component	1.2.4.-	NAD+	H+	white
-2-oxoadipate dehydrogenase E1 component	1.2.4.-	NAD+	NADH	white
-2-oxoadipate dehydrogenase E1 component	1.2.4.-	NADH	2-Oxoadipate	white
-2-oxoadipate dehydrogenase E1 component	1.2.4.-	NADH	CoA	white
-2-oxoadipate dehydrogenase E1 component	1.2.4.-	NADH	NAD+	white
-2-oxoglutarate dehydrogenase E2 component (dihydrolipoamide succinyltransferase)	2.3.1.61	2-Oxoadipate	CO2	white
-2-oxoglutarate dehydrogenase E2 component (dihydrolipoamide succinyltransferase)	2.3.1.61	2-Oxoadipate	Glutaryl-CoA	white
-2-oxoglutarate dehydrogenase E2 component (dihydrolipoamide succinyltransferase)	2.3.1.61	2-Oxoadipate	H+	white
-2-oxoglutarate dehydrogenase E2 component (dihydrolipoamide succinyltransferase)	2.3.1.61	2-Oxoadipate	NADH	white
-2-oxoglutarate dehydrogenase E2 component (dihydrolipoamide succinyltransferase)	2.3.1.61	CO2	2-Oxoadipate	white
-2-oxoglutarate dehydrogenase E2 component (dihydrolipoamide succinyltransferase)	2.3.1.61	CO2	CoA	white
-2-oxoglutarate dehydrogenase E2 component (dihydrolipoamide succinyltransferase)	2.3.1.61	CO2	NAD+	white
-2-oxoglutarate dehydrogenase E2 component (dihydrolipoamide succinyltransferase)	2.3.1.61	CoA	CO2	white
-2-oxoglutarate dehydrogenase E2 component (dihydrolipoamide succinyltransferase)	2.3.1.61	CoA	Glutaryl-CoA	white
-2-oxoglutarate dehydrogenase E2 component (dihydrolipoamide succinyltransferase)	2.3.1.61	CoA	H+	white
-2-oxoglutarate dehydrogenase E2 component (dihydrolipoamide succinyltransferase)	2.3.1.61	CoA	NADH	white
-2-oxoglutarate dehydrogenase E2 component (dihydrolipoamide succinyltransferase)	2.3.1.61	Glutaryl-CoA	2-Oxoadipate	white
-2-oxoglutarate dehydrogenase E2 component (dihydrolipoamide succinyltransferase)	2.3.1.61	Glutaryl-CoA	CoA	white
-2-oxoglutarate dehydrogenase E2 component (dihydrolipoamide succinyltransferase)	2.3.1.61	Glutaryl-CoA	NAD+	white
-2-oxoglutarate dehydrogenase E2 component (dihydrolipoamide succinyltransferase)	2.3.1.61	H+	2-Oxoadipate	white
-2-oxoglutarate dehydrogenase E2 component (dihydrolipoamide succinyltransferase)	2.3.1.61	H+	CoA	white
-2-oxoglutarate dehydrogenase E2 component (dihydrolipoamide succinyltransferase)	2.3.1.61	H+	NAD+	white
-2-oxoglutarate dehydrogenase E2 component (dihydrolipoamide succinyltransferase)	2.3.1.61	NAD+	CO2	white
-2-oxoglutarate dehydrogenase E2 component (dihydrolipoamide succinyltransferase)	2.3.1.61	NAD+	Glutaryl-CoA	white
-2-oxoglutarate dehydrogenase E2 component (dihydrolipoamide succinyltransferase)	2.3.1.61	NAD+	H+	white
-2-oxoglutarate dehydrogenase E2 component (dihydrolipoamide succinyltransferase)	2.3.1.61	NAD+	NADH	white
-2-oxoglutarate dehydrogenase E2 component (dihydrolipoamide succinyltransferase)	2.3.1.61	NADH	2-Oxoadipate	white
-2-oxoglutarate dehydrogenase E2 component (dihydrolipoamide succinyltransferase)	2.3.1.61	NADH	CoA	white
-2-oxoglutarate dehydrogenase E2 component (dihydrolipoamide succinyltransferase)	2.3.1.61	NADH	NAD+	white
-2-oxoisovalerate dehydrogenase E1 component	1.2.4.4	(S)-3-Methyl-2-oxopentanoic acid	2-Methyl-1-hydroxybutyl-ThPP	green
-2-oxoisovalerate dehydrogenase E1 component	1.2.4.4	(S)-3-Methyl-2-oxopentanoic acid	CO2	green
-2-oxoisovalerate dehydrogenase E1 component	1.2.4.4	2-Methyl-1-hydroxybutyl-ThPP	Thiamin diphosphate	green
-2-oxoisovalerate dehydrogenase E1 component	1.2.4.4	2-Methyl-1-hydroxybutyl-ThPP	[Dihydrolipoyllysine-residue (2-methylpropanoyl)transferase] S-(2-methylbutanoyl)dihydrolipoyllysine	green
-2-oxoisovalerate dehydrogenase E1 component	1.2.4.4	2-Methyl-1-hydroxypropyl-ThPP	Thiamin diphosphate	green
-2-oxoisovalerate dehydrogenase E1 component	1.2.4.4	2-Methyl-1-hydroxypropyl-ThPP	[Dihydrolipoyllysine-residue (2-methylpropanoyl)transferase] S-(2-methylpropanoyl)dihydrolipoyllysine	green
-2-oxoisovalerate dehydrogenase E1 component	1.2.4.4	3-Methyl-1-hydroxybutyl-ThPP	Thiamin diphosphate	green
-2-oxoisovalerate dehydrogenase E1 component	1.2.4.4	3-Methyl-1-hydroxybutyl-ThPP	[Dihydrolipoyllysine-residue (2-methylpropanoyl)transferase] S-(3-methylbutanoyl)dihydrolipoyllysine	green
-2-oxoisovalerate dehydrogenase E1 component	1.2.4.4	3-Methyl-2-oxobutanoic acid	2-Methyl-1-hydroxypropyl-ThPP	green
-2-oxoisovalerate dehydrogenase E1 component	1.2.4.4	3-Methyl-2-oxobutanoic acid	CO2	green
-2-oxoisovalerate dehydrogenase E1 component	1.2.4.4	4-Methyl-2-oxopentanoate	3-Methyl-1-hydroxybutyl-ThPP	green
-2-oxoisovalerate dehydrogenase E1 component	1.2.4.4	4-Methyl-2-oxopentanoate	CO2	green
-2-oxoisovalerate dehydrogenase E1 component	1.2.4.4	Enzyme N6-(lipoyl)lysine	Thiamin diphosphate	green
-2-oxoisovalerate dehydrogenase E1 component	1.2.4.4	Enzyme N6-(lipoyl)lysine	[Dihydrolipoyllysine-residue (2-methylpropanoyl)transferase] S-(2-methylbutanoyl)dihydrolipoyllysine	green
-2-oxoisovalerate dehydrogenase E1 component	1.2.4.4	Enzyme N6-(lipoyl)lysine	[Dihydrolipoyllysine-residue (2-methylpropanoyl)transferase] S-(2-methylpropanoyl)dihydrolipoyllysine	green
-2-oxoisovalerate dehydrogenase E1 component	1.2.4.4	Enzyme N6-(lipoyl)lysine	[Dihydrolipoyllysine-residue (2-methylpropanoyl)transferase] S-(3-methylbutanoyl)dihydrolipoyllysine	green
-2-oxoisovalerate dehydrogenase E1 component	1.2.4.4	Thiamin diphosphate	2-Methyl-1-hydroxybutyl-ThPP	green
-2-oxoisovalerate dehydrogenase E1 component	1.2.4.4	Thiamin diphosphate	2-Methyl-1-hydroxypropyl-ThPP	green
-2-oxoisovalerate dehydrogenase E1 component	1.2.4.4	Thiamin diphosphate	3-Methyl-1-hydroxybutyl-ThPP	green
-2-oxoisovalerate dehydrogenase E1 component	1.2.4.4	Thiamin diphosphate	CO2	green
-2-oxoisovalerate dehydrogenase E1 component subunit alpha	1.2.4.4	(S)-3-Methyl-2-oxopentanoic acid	2-Methyl-1-hydroxybutyl-ThPP	green
-2-oxoisovalerate dehydrogenase E1 component subunit alpha	1.2.4.4	(S)-3-Methyl-2-oxopentanoic acid	CO2	green
-2-oxoisovalerate dehydrogenase E1 component subunit alpha	1.2.4.4	2-Methyl-1-hydroxybutyl-ThPP	Thiamin diphosphate	green
-2-oxoisovalerate dehydrogenase E1 component subunit alpha	1.2.4.4	2-Methyl-1-hydroxybutyl-ThPP	[Dihydrolipoyllysine-residue (2-methylpropanoyl)transferase] S-(2-methylbutanoyl)dihydrolipoyllysine	green
-2-oxoisovalerate dehydrogenase E1 component subunit alpha	1.2.4.4	2-Methyl-1-hydroxypropyl-ThPP	Thiamin diphosphate	green
-2-oxoisovalerate dehydrogenase E1 component subunit alpha	1.2.4.4	2-Methyl-1-hydroxypropyl-ThPP	[Dihydrolipoyllysine-residue (2-methylpropanoyl)transferase] S-(2-methylpropanoyl)dihydrolipoyllysine	green
-2-oxoisovalerate dehydrogenase E1 component subunit alpha	1.2.4.4	3-Methyl-1-hydroxybutyl-ThPP	Thiamin diphosphate	green
-2-oxoisovalerate dehydrogenase E1 component subunit alpha	1.2.4.4	3-Methyl-1-hydroxybutyl-ThPP	[Dihydrolipoyllysine-residue (2-methylpropanoyl)transferase] S-(3-methylbutanoyl)dihydrolipoyllysine	green
-2-oxoisovalerate dehydrogenase E1 component subunit alpha	1.2.4.4	3-Methyl-2-oxobutanoic acid	2-Methyl-1-hydroxypropyl-ThPP	green
-2-oxoisovalerate dehydrogenase E1 component subunit alpha	1.2.4.4	3-Methyl-2-oxobutanoic acid	CO2	green
-2-oxoisovalerate dehydrogenase E1 component subunit alpha	1.2.4.4	4-Methyl-2-oxopentanoate	3-Methyl-1-hydroxybutyl-ThPP	green
-2-oxoisovalerate dehydrogenase E1 component subunit alpha	1.2.4.4	4-Methyl-2-oxopentanoate	CO2	green
-2-oxoisovalerate dehydrogenase E1 component subunit alpha	1.2.4.4	Enzyme N6-(lipoyl)lysine	Thiamin diphosphate	green
-2-oxoisovalerate dehydrogenase E1 component subunit alpha	1.2.4.4	Enzyme N6-(lipoyl)lysine	[Dihydrolipoyllysine-residue (2-methylpropanoyl)transferase] S-(2-methylbutanoyl)dihydrolipoyllysine	green
-2-oxoisovalerate dehydrogenase E1 component subunit alpha	1.2.4.4	Enzyme N6-(lipoyl)lysine	[Dihydrolipoyllysine-residue (2-methylpropanoyl)transferase] S-(2-methylpropanoyl)dihydrolipoyllysine	green
-2-oxoisovalerate dehydrogenase E1 component subunit alpha	1.2.4.4	Enzyme N6-(lipoyl)lysine	[Dihydrolipoyllysine-residue (2-methylpropanoyl)transferase] S-(3-methylbutanoyl)dihydrolipoyllysine	green
-2-oxoisovalerate dehydrogenase E1 component subunit alpha	1.2.4.4	Thiamin diphosphate	2-Methyl-1-hydroxybutyl-ThPP	green
-2-oxoisovalerate dehydrogenase E1 component subunit alpha	1.2.4.4	Thiamin diphosphate	2-Methyl-1-hydroxypropyl-ThPP	green
-2-oxoisovalerate dehydrogenase E1 component subunit alpha	1.2.4.4	Thiamin diphosphate	3-Methyl-1-hydroxybutyl-ThPP	green
-2-oxoisovalerate dehydrogenase E1 component subunit alpha	1.2.4.4	Thiamin diphosphate	CO2	green
-2-oxoisovalerate dehydrogenase E1 component subunit beta	1.2.4.4	(S)-3-Methyl-2-oxopentanoic acid	2-Methyl-1-hydroxybutyl-ThPP	green
-2-oxoisovalerate dehydrogenase E1 component subunit beta	1.2.4.4	(S)-3-Methyl-2-oxopentanoic acid	CO2	green
-2-oxoisovalerate dehydrogenase E1 component subunit beta	1.2.4.4	2-Methyl-1-hydroxybutyl-ThPP	Thiamin diphosphate	green
-2-oxoisovalerate dehydrogenase E1 component subunit beta	1.2.4.4	2-Methyl-1-hydroxybutyl-ThPP	[Dihydrolipoyllysine-residue (2-methylpropanoyl)transferase] S-(2-methylbutanoyl)dihydrolipoyllysine	green
-2-oxoisovalerate dehydrogenase E1 component subunit beta	1.2.4.4	2-Methyl-1-hydroxypropyl-ThPP	Thiamin diphosphate	green
-2-oxoisovalerate dehydrogenase E1 component subunit beta	1.2.4.4	2-Methyl-1-hydroxypropyl-ThPP	[Dihydrolipoyllysine-residue (2-methylpropanoyl)transferase] S-(2-methylpropanoyl)dihydrolipoyllysine	green
-2-oxoisovalerate dehydrogenase E1 component subunit beta	1.2.4.4	3-Methyl-1-hydroxybutyl-ThPP	Thiamin diphosphate	green
-2-oxoisovalerate dehydrogenase E1 component subunit beta	1.2.4.4	3-Methyl-1-hydroxybutyl-ThPP	[Dihydrolipoyllysine-residue (2-methylpropanoyl)transferase] S-(3-methylbutanoyl)dihydrolipoyllysine	green
-2-oxoisovalerate dehydrogenase E1 component subunit beta	1.2.4.4	3-Methyl-2-oxobutanoic acid	2-Methyl-1-hydroxypropyl-ThPP	green
-2-oxoisovalerate dehydrogenase E1 component subunit beta	1.2.4.4	3-Methyl-2-oxobutanoic acid	CO2	green
-2-oxoisovalerate dehydrogenase E1 component subunit beta	1.2.4.4	4-Methyl-2-oxopentanoate	3-Methyl-1-hydroxybutyl-ThPP	green
-2-oxoisovalerate dehydrogenase E1 component subunit beta	1.2.4.4	4-Methyl-2-oxopentanoate	CO2	green
-2-oxoisovalerate dehydrogenase E1 component subunit beta	1.2.4.4	Enzyme N6-(lipoyl)lysine	Thiamin diphosphate	green
-2-oxoisovalerate dehydrogenase E1 component subunit beta	1.2.4.4	Enzyme N6-(lipoyl)lysine	[Dihydrolipoyllysine-residue (2-methylpropanoyl)transferase] S-(2-methylbutanoyl)dihydrolipoyllysine	green
-2-oxoisovalerate dehydrogenase E1 component subunit beta	1.2.4.4	Enzyme N6-(lipoyl)lysine	[Dihydrolipoyllysine-residue (2-methylpropanoyl)transferase] S-(2-methylpropanoyl)dihydrolipoyllysine	green
-2-oxoisovalerate dehydrogenase E1 component subunit beta	1.2.4.4	Enzyme N6-(lipoyl)lysine	[Dihydrolipoyllysine-residue (2-methylpropanoyl)transferase] S-(3-methylbutanoyl)dihydrolipoyllysine	green
-2-oxoisovalerate dehydrogenase E1 component subunit beta	1.2.4.4	Thiamin diphosphate	2-Methyl-1-hydroxybutyl-ThPP	green
-2-oxoisovalerate dehydrogenase E1 component subunit beta	1.2.4.4	Thiamin diphosphate	2-Methyl-1-hydroxypropyl-ThPP	green
-2-oxoisovalerate dehydrogenase E1 component subunit beta	1.2.4.4	Thiamin diphosphate	3-Methyl-1-hydroxybutyl-ThPP	green
-2-oxoisovalerate dehydrogenase E1 component subunit beta	1.2.4.4	Thiamin diphosphate	CO2	green
-2-oxoisovalerate dehydrogenase E2 component (dihydrolipoyl transacylase)	2.3.1.168	(S)-2-Methylbutanoyl-CoA	CoA	green
-2-oxoisovalerate dehydrogenase E2 component (dihydrolipoyl transacylase)	2.3.1.168	(S)-2-Methylbutanoyl-CoA	[Dihydrolipoyllysine-residue (2-methylpropanoyl)transferase] S-(2-methylbutanoyl)dihydrolipoyllysine	green
-2-oxoisovalerate dehydrogenase E2 component (dihydrolipoyl transacylase)	2.3.1.168	2-Methylpropanoyl-CoA	CoA	green
-2-oxoisovalerate dehydrogenase E2 component (dihydrolipoyl transacylase)	2.3.1.168	2-Methylpropanoyl-CoA	[Dihydrolipoyllysine-residue (2-methylpropanoyl)transferase] S-(2-methylpropanoyl)dihydrolipoyllysine	green
-2-oxoisovalerate dehydrogenase E2 component (dihydrolipoyl transacylase)	2.3.1.168	3-Methylbutanoyl-CoA	CoA	green
-2-oxoisovalerate dehydrogenase E2 component (dihydrolipoyl transacylase)	2.3.1.168	3-Methylbutanoyl-CoA	[Dihydrolipoyllysine-residue (2-methylpropanoyl)transferase] S-(3-methylbutanoyl)dihydrolipoyllysine	green
-2-oxoisovalerate dehydrogenase E2 component (dihydrolipoyl transacylase)	2.3.1.168	Enzyme N6-(dihydrolipoyl)lysine	CoA	green
-2-oxoisovalerate dehydrogenase E2 component (dihydrolipoyl transacylase)	2.3.1.168	Enzyme N6-(dihydrolipoyl)lysine	[Dihydrolipoyllysine-residue (2-methylpropanoyl)transferase] S-(2-methylbutanoyl)dihydrolipoyllysine	green
-2-oxoisovalerate dehydrogenase E2 component (dihydrolipoyl transacylase)	2.3.1.168	Enzyme N6-(dihydrolipoyl)lysine	[Dihydrolipoyllysine-residue (2-methylpropanoyl)transferase] S-(2-methylpropanoyl)dihydrolipoyllysine	green
-2-oxoisovalerate dehydrogenase E2 component (dihydrolipoyl transacylase)	2.3.1.168	Enzyme N6-(dihydrolipoyl)lysine	[Dihydrolipoyllysine-residue (2-methylpropanoyl)transferase] S-(3-methylbutanoyl)dihydrolipoyllysine	green
-dihydrolipoyl dehydrogenase	1.8.1.4	Dihydrolipoylprotein	H+	green
-dihydrolipoyl dehydrogenase	1.8.1.4	Dihydrolipoylprotein	Lipoylprotein	green
-dihydrolipoyl dehydrogenase	1.8.1.4	Dihydrolipoylprotein	NADH	green
-dihydrolipoyl dehydrogenase	1.8.1.4	Enzyme N6-(dihydrolipoyl)lysine	Enzyme N6-(lipoyl)lysine	green
-dihydrolipoyl dehydrogenase	1.8.1.4	Enzyme N6-(dihydrolipoyl)lysine	H+	green
-dihydrolipoyl dehydrogenase	1.8.1.4	Enzyme N6-(dihydrolipoyl)lysine	NADH	green
-dihydrolipoyl dehydrogenase	1.8.1.4	Enzyme N6-(lipoyl)lysine	Enzyme N6-(dihydrolipoyl)lysine	green
-dihydrolipoyl dehydrogenase	1.8.1.4	Enzyme N6-(lipoyl)lysine	NAD+	green
-dihydrolipoyl dehydrogenase	1.8.1.4	H+	Dihydrolipoylprotein	green
-dihydrolipoyl dehydrogenase	1.8.1.4	H+	Enzyme N6-(dihydrolipoyl)lysine	green
-dihydrolipoyl dehydrogenase	1.8.1.4	H+	NAD+	green
-dihydrolipoyl dehydrogenase	1.8.1.4	Lipoylprotein	Dihydrolipoylprotein	green
-dihydrolipoyl dehydrogenase	1.8.1.4	Lipoylprotein	NAD+	green
-dihydrolipoyl dehydrogenase	1.8.1.4	NAD+	Enzyme N6-(lipoyl)lysine	green
-dihydrolipoyl dehydrogenase	1.8.1.4	NAD+	H+	green
-dihydrolipoyl dehydrogenase	1.8.1.4	NAD+	Lipoylprotein	green
-dihydrolipoyl dehydrogenase	1.8.1.4	NAD+	NADH	green
-dihydrolipoyl dehydrogenase	1.8.1.4	NADH	Dihydrolipoylprotein	green
-dihydrolipoyl dehydrogenase	1.8.1.4	NADH	Enzyme N6-(dihydrolipoyl)lysine	green
-dihydrolipoyl dehydrogenase	1.8.1.4	NADH	NAD+	green
-glycine cleavage system P protein (glycine dehydrogenase)	1.4.4.2	Glycine	CO2	green
-glycine cleavage system P protein (glycine dehydrogenase)	1.4.4.2	Glycine	[Protein]-S8-aminomethyldihydrolipoyllysine	green
-glycine cleavage system P protein (glycine dehydrogenase)	1.4.4.2	Lipoylprotein	CO2	green
-glycine cleavage system P protein (glycine dehydrogenase)	1.4.4.2	Lipoylprotein	[Protein]-S8-aminomethyldihydrolipoyllysine	green
-glycine cleavage system T protein (aminomethyltransferase)	2.1.2.10	5,10-Methylenetetrahydrofolate	Tetrahydrofolate	green
-glycine cleavage system T protein (aminomethyltransferase)	2.1.2.10	5,10-Methylenetetrahydrofolate	[Protein]-S8-aminomethyldihydrolipoyllysine	green
-glycine cleavage system T protein (aminomethyltransferase)	2.1.2.10	Ammonia	Tetrahydrofolate	green
-glycine cleavage system T protein (aminomethyltransferase)	2.1.2.10	Ammonia	[Protein]-S8-aminomethyldihydrolipoyllysine	green
-glycine cleavage system T protein (aminomethyltransferase)	2.1.2.10	Dihydrolipoylprotein	Tetrahydrofolate	green
-glycine cleavage system T protein (aminomethyltransferase)	2.1.2.10	Dihydrolipoylprotein	[Protein]-S8-aminomethyldihydrolipoyllysine	green
-glycine cleavage system T protein (aminomethyltransferase)	2.1.2.10	Tetrahydrofolate	5,10-Methylenetetrahydrofolate	green
-glycine cleavage system T protein (aminomethyltransferase)	2.1.2.10	Tetrahydrofolate	Ammonia	green
-glycine cleavage system T protein (aminomethyltransferase)	2.1.2.10	Tetrahydrofolate	Dihydrolipoylprotein	green
-glycine cleavage system T protein (aminomethyltransferase)	2.1.2.10	[Protein]-S8-aminomethyldihydrolipoyllysine	5,10-Methylenetetrahydrofolate	green
-glycine cleavage system T protein (aminomethyltransferase)	2.1.2.10	[Protein]-S8-aminomethyldihydrolipoyllysine	Ammonia	green
-glycine cleavage system T protein (aminomethyltransferase)	2.1.2.10	[Protein]-S8-aminomethyldihydrolipoyllysine	Dihydrolipoylprotein	green
-lipoate---protein ligase	6.3.1.20	(R)-Lipoate	Diphosphate	white
-lipoate---protein ligase	6.3.1.20	(R)-Lipoate	Lipoyl-AMP	white
-lipoate---protein ligase	6.3.1.20	ATP	Diphosphate	white
-lipoate---protein ligase	6.3.1.20	ATP	Lipoyl-AMP	white
-lipoate---protein ligase	6.3.1.20	Diphosphate	(R)-Lipoate	white
-lipoate---protein ligase	6.3.1.20	Diphosphate	ATP	white
-lipoate---protein ligase	6.3.1.20	Lipoyl-AMP	(R)-Lipoate	white
-lipoate---protein ligase	6.3.1.20	Lipoyl-AMP	ATP	white
-lipoyl amidotransferase	2.3.1.200	Enzyme N6-(lipoyl)lysine	Lipoyl-carrier protein E2	white
-lipoyl amidotransferase	2.3.1.200	Enzyme N6-(lipoyl)lysine	Lipoylprotein	white
-lipoyl amidotransferase	2.3.1.200	Glycine cleavage system H	Lipoyl-carrier protein E2	white
-lipoyl amidotransferase	2.3.1.200	Glycine cleavage system H	Lipoylprotein	white
-lipoyl amidotransferase	2.3.1.200	Lipoyl-carrier protein E2	Enzyme N6-(lipoyl)lysine	white
-lipoyl amidotransferase	2.3.1.200	Lipoyl-carrier protein E2	Glycine cleavage system H	white
-lipoyl amidotransferase	2.3.1.200	Lipoylprotein	Enzyme N6-(lipoyl)lysine	white
-lipoyl amidotransferase	2.3.1.200	Lipoylprotein	Glycine cleavage system H	white
-lipoyl synthase	2.8.1.8	5'-Deoxyadenosine	H+	white
-lipoyl synthase	2.8.1.8	5'-Deoxyadenosine	Reduced [2Fe-2S] ferredoxin	white
-lipoyl synthase	2.8.1.8	5'-Deoxyadenosine	S-Adenosyl-L-methionine	white
-lipoyl synthase	2.8.1.8	5'-Deoxyadenosine	[Fe-S] cluster scaffold protein carrying a [4Fe-4S]2+ cluster	white
-lipoyl synthase	2.8.1.8	5'-Deoxyadenosine	[Protein]-N6-(octanoyl)-L-lysine	white
-lipoyl synthase	2.8.1.8	Fe2+	H+	white
-lipoyl synthase	2.8.1.8	Fe2+	Reduced [2Fe-2S] ferredoxin	white
-lipoyl synthase	2.8.1.8	Fe2+	S-Adenosyl-L-methionine	white
-lipoyl synthase	2.8.1.8	Fe2+	[Fe-S] cluster scaffold protein carrying a [4Fe-4S]2+ cluster	white
-lipoyl synthase	2.8.1.8	Fe2+	[Protein]-N6-(octanoyl)-L-lysine	white
-lipoyl synthase	2.8.1.8	H+	5'-Deoxyadenosine	green
-lipoyl synthase	2.8.1.8	H+	5'-Deoxyadenosine	white
-lipoyl synthase	2.8.1.8	H+	Dihydrolipoylprotein	green
-lipoyl synthase	2.8.1.8	H+	Enzyme N6-(dihydrolipoyl)lysine	green
-lipoyl synthase	2.8.1.8	H+	Fe2+	green
-lipoyl synthase	2.8.1.8	H+	Fe2+	white
-lipoyl synthase	2.8.1.8	H+	Hydrogen sulfide	green
-lipoyl synthase	2.8.1.8	H+	Hydrogen sulfide	white
-lipoyl synthase	2.8.1.8	H+	L-Methionine	green
-lipoyl synthase	2.8.1.8	H+	L-Methionine	white
-lipoyl synthase	2.8.1.8	H+	Oxidized [2Fe-2S] ferredoxin	green
-lipoyl synthase	2.8.1.8	H+	Oxidized [2Fe-2S] ferredoxin	white
-lipoyl synthase	2.8.1.8	H+	[Fe-S] cluster scaffold protein	green
-lipoyl synthase	2.8.1.8	H+	[Fe-S] cluster scaffold protein	white
-lipoyl synthase	2.8.1.8	H+	[Protein]-N6-[(R)-dihydrolipoyl]-L-lysine	white
-lipoyl synthase	2.8.1.8	Hydrogen sulfide	H+	white
-lipoyl synthase	2.8.1.8	Hydrogen sulfide	Reduced [2Fe-2S] ferredoxin	white
-lipoyl synthase	2.8.1.8	Hydrogen sulfide	S-Adenosyl-L-methionine	white
-lipoyl synthase	2.8.1.8	Hydrogen sulfide	[Fe-S] cluster scaffold protein carrying a [4Fe-4S]2+ cluster	white
-lipoyl synthase	2.8.1.8	Hydrogen sulfide	[Protein]-N6-(octanoyl)-L-lysine	white
-lipoyl synthase	2.8.1.8	L-Methionine	H+	white
-lipoyl synthase	2.8.1.8	L-Methionine	Reduced [2Fe-2S] ferredoxin	white
-lipoyl synthase	2.8.1.8	L-Methionine	S-Adenosyl-L-methionine	white
-lipoyl synthase	2.8.1.8	L-Methionine	[Fe-S] cluster scaffold protein carrying a [4Fe-4S]2+ cluster	white
-lipoyl synthase	2.8.1.8	L-Methionine	[Protein]-N6-(octanoyl)-L-lysine	white
-lipoyl synthase	2.8.1.8	Oxidized [2Fe-2S] ferredoxin	H+	white
-lipoyl synthase	2.8.1.8	Oxidized [2Fe-2S] ferredoxin	Reduced [2Fe-2S] ferredoxin	white
-lipoyl synthase	2.8.1.8	Oxidized [2Fe-2S] ferredoxin	S-Adenosyl-L-methionine	white
-lipoyl synthase	2.8.1.8	Oxidized [2Fe-2S] ferredoxin	[Fe-S] cluster scaffold protein carrying a [4Fe-4S]2+ cluster	white
-lipoyl synthase	2.8.1.8	Oxidized [2Fe-2S] ferredoxin	[Protein]-N6-(octanoyl)-L-lysine	white
-lipoyl synthase	2.8.1.8	Reduced [2Fe-2S] ferredoxin	5'-Deoxyadenosine	green
-lipoyl synthase	2.8.1.8	Reduced [2Fe-2S] ferredoxin	5'-Deoxyadenosine	white
-lipoyl synthase	2.8.1.8	Reduced [2Fe-2S] ferredoxin	Dihydrolipoylprotein	green
-lipoyl synthase	2.8.1.8	Reduced [2Fe-2S] ferredoxin	Enzyme N6-(dihydrolipoyl)lysine	green
-lipoyl synthase	2.8.1.8	Reduced [2Fe-2S] ferredoxin	Fe2+	green
-lipoyl synthase	2.8.1.8	Reduced [2Fe-2S] ferredoxin	Fe2+	white
-lipoyl synthase	2.8.1.8	Reduced [2Fe-2S] ferredoxin	Hydrogen sulfide	green
-lipoyl synthase	2.8.1.8	Reduced [2Fe-2S] ferredoxin	Hydrogen sulfide	white
-lipoyl synthase	2.8.1.8	Reduced [2Fe-2S] ferredoxin	L-Methionine	green
-lipoyl synthase	2.8.1.8	Reduced [2Fe-2S] ferredoxin	L-Methionine	white
-lipoyl synthase	2.8.1.8	Reduced [2Fe-2S] ferredoxin	Oxidized [2Fe-2S] ferredoxin	green
-lipoyl synthase	2.8.1.8	Reduced [2Fe-2S] ferredoxin	Oxidized [2Fe-2S] ferredoxin	white
-lipoyl synthase	2.8.1.8	Reduced [2Fe-2S] ferredoxin	[Fe-S] cluster scaffold protein	green
-lipoyl synthase	2.8.1.8	Reduced [2Fe-2S] ferredoxin	[Fe-S] cluster scaffold protein	white
-lipoyl synthase	2.8.1.8	Reduced [2Fe-2S] ferredoxin	[Protein]-N6-[(R)-dihydrolipoyl]-L-lysine	white
-lipoyl synthase	2.8.1.8	S-Adenosyl-L-methionine	5'-Deoxyadenosine	green
-lipoyl synthase	2.8.1.8	S-Adenosyl-L-methionine	5'-Deoxyadenosine	white
-lipoyl synthase	2.8.1.8	S-Adenosyl-L-methionine	Dihydrolipoylprotein	green
-lipoyl synthase	2.8.1.8	S-Adenosyl-L-methionine	Enzyme N6-(dihydrolipoyl)lysine	green
-lipoyl synthase	2.8.1.8	S-Adenosyl-L-methionine	Fe2+	green
-lipoyl synthase	2.8.1.8	S-Adenosyl-L-methionine	Fe2+	white
-lipoyl synthase	2.8.1.8	S-Adenosyl-L-methionine	Hydrogen sulfide	green
-lipoyl synthase	2.8.1.8	S-Adenosyl-L-methionine	Hydrogen sulfide	white
-lipoyl synthase	2.8.1.8	S-Adenosyl-L-methionine	L-Methionine	green
-lipoyl synthase	2.8.1.8	S-Adenosyl-L-methionine	L-Methionine	white
-lipoyl synthase	2.8.1.8	S-Adenosyl-L-methionine	Oxidized [2Fe-2S] ferredoxin	green
-lipoyl synthase	2.8.1.8	S-Adenosyl-L-methionine	Oxidized [2Fe-2S] ferredoxin	white
-lipoyl synthase	2.8.1.8	S-Adenosyl-L-methionine	[Fe-S] cluster scaffold protein	green
-lipoyl synthase	2.8.1.8	S-Adenosyl-L-methionine	[Fe-S] cluster scaffold protein	white
-lipoyl synthase	2.8.1.8	S-Adenosyl-L-methionine	[Protein]-N6-[(R)-dihydrolipoyl]-L-lysine	white
-lipoyl synthase	2.8.1.8	[Fe-S] cluster scaffold protein	H+	white
-lipoyl synthase	2.8.1.8	[Fe-S] cluster scaffold protein	Reduced [2Fe-2S] ferredoxin	white
-lipoyl synthase	2.8.1.8	[Fe-S] cluster scaffold protein	S-Adenosyl-L-methionine	white
-lipoyl synthase	2.8.1.8	[Fe-S] cluster scaffold protein	[Fe-S] cluster scaffold protein carrying a [4Fe-4S]2+ cluster	white
-lipoyl synthase	2.8.1.8	[Fe-S] cluster scaffold protein	[Protein]-N6-(octanoyl)-L-lysine	white
-lipoyl synthase	2.8.1.8	[Fe-S] cluster scaffold protein carrying a [4Fe-4S]2+ cluster	5'-Deoxyadenosine	green
-lipoyl synthase	2.8.1.8	[Fe-S] cluster scaffold protein carrying a [4Fe-4S]2+ cluster	5'-Deoxyadenosine	white
-lipoyl synthase	2.8.1.8	[Fe-S] cluster scaffold protein carrying a [4Fe-4S]2+ cluster	Dihydrolipoylprotein	green
-lipoyl synthase	2.8.1.8	[Fe-S] cluster scaffold protein carrying a [4Fe-4S]2+ cluster	Enzyme N6-(dihydrolipoyl)lysine	green
-lipoyl synthase	2.8.1.8	[Fe-S] cluster scaffold protein carrying a [4Fe-4S]2+ cluster	Fe2+	green
-lipoyl synthase	2.8.1.8	[Fe-S] cluster scaffold protein carrying a [4Fe-4S]2+ cluster	Fe2+	white
-lipoyl synthase	2.8.1.8	[Fe-S] cluster scaffold protein carrying a [4Fe-4S]2+ cluster	Hydrogen sulfide	green
-lipoyl synthase	2.8.1.8	[Fe-S] cluster scaffold protein carrying a [4Fe-4S]2+ cluster	Hydrogen sulfide	white
-lipoyl synthase	2.8.1.8	[Fe-S] cluster scaffold protein carrying a [4Fe-4S]2+ cluster	L-Methionine	green
-lipoyl synthase	2.8.1.8	[Fe-S] cluster scaffold protein carrying a [4Fe-4S]2+ cluster	L-Methionine	white
-lipoyl synthase	2.8.1.8	[Fe-S] cluster scaffold protein carrying a [4Fe-4S]2+ cluster	Oxidized [2Fe-2S] ferredoxin	green
-lipoyl synthase	2.8.1.8	[Fe-S] cluster scaffold protein carrying a [4Fe-4S]2+ cluster	Oxidized [2Fe-2S] ferredoxin	white
-lipoyl synthase	2.8.1.8	[Fe-S] cluster scaffold protein carrying a [4Fe-4S]2+ cluster	[Fe-S] cluster scaffold protein	green
-lipoyl synthase	2.8.1.8	[Fe-S] cluster scaffold protein carrying a [4Fe-4S]2+ cluster	[Fe-S] cluster scaffold protein	white
-lipoyl synthase	2.8.1.8	[Fe-S] cluster scaffold protein carrying a [4Fe-4S]2+ cluster	[Protein]-N6-[(R)-dihydrolipoyl]-L-lysine	white
-lipoyl synthase	2.8.1.8	[Glycine cleavage system H]-N6-octanoyl-L-lysine	5'-Deoxyadenosine	green
-lipoyl synthase	2.8.1.8	[Glycine cleavage system H]-N6-octanoyl-L-lysine	Dihydrolipoylprotein	green
-lipoyl synthase	2.8.1.8	[Glycine cleavage system H]-N6-octanoyl-L-lysine	Fe2+	green
-lipoyl synthase	2.8.1.8	[Glycine cleavage system H]-N6-octanoyl-L-lysine	Hydrogen sulfide	green
-lipoyl synthase	2.8.1.8	[Glycine cleavage system H]-N6-octanoyl-L-lysine	L-Methionine	green
-lipoyl synthase	2.8.1.8	[Glycine cleavage system H]-N6-octanoyl-L-lysine	Oxidized [2Fe-2S] ferredoxin	green
-lipoyl synthase	2.8.1.8	[Glycine cleavage system H]-N6-octanoyl-L-lysine	[Fe-S] cluster scaffold protein	green
-lipoyl synthase	2.8.1.8	[Lipoyl-carrier protein E2]-N6-octanoyl-L-lysine	5'-Deoxyadenosine	green
-lipoyl synthase	2.8.1.8	[Lipoyl-carrier protein E2]-N6-octanoyl-L-lysine	Enzyme N6-(dihydrolipoyl)lysine	green
-lipoyl synthase	2.8.1.8	[Lipoyl-carrier protein E2]-N6-octanoyl-L-lysine	Fe2+	green
-lipoyl synthase	2.8.1.8	[Lipoyl-carrier protein E2]-N6-octanoyl-L-lysine	Hydrogen sulfide	green
-lipoyl synthase	2.8.1.8	[Lipoyl-carrier protein E2]-N6-octanoyl-L-lysine	L-Methionine	green
-lipoyl synthase	2.8.1.8	[Lipoyl-carrier protein E2]-N6-octanoyl-L-lysine	Oxidized [2Fe-2S] ferredoxin	green
-lipoyl synthase	2.8.1.8	[Lipoyl-carrier protein E2]-N6-octanoyl-L-lysine	[Fe-S] cluster scaffold protein	green
-lipoyl synthase	2.8.1.8	[Protein]-N6-(octanoyl)-L-lysine	5'-Deoxyadenosine	white
-lipoyl synthase	2.8.1.8	[Protein]-N6-(octanoyl)-L-lysine	Fe2+	white
-lipoyl synthase	2.8.1.8	[Protein]-N6-(octanoyl)-L-lysine	Hydrogen sulfide	white
-lipoyl synthase	2.8.1.8	[Protein]-N6-(octanoyl)-L-lysine	L-Methionine	white
-lipoyl synthase	2.8.1.8	[Protein]-N6-(octanoyl)-L-lysine	Oxidized [2Fe-2S] ferredoxin	white
-lipoyl synthase	2.8.1.8	[Protein]-N6-(octanoyl)-L-lysine	[Fe-S] cluster scaffold protein	white
-lipoyl synthase	2.8.1.8	[Protein]-N6-(octanoyl)-L-lysine	[Protein]-N6-[(R)-dihydrolipoyl]-L-lysine	white
-lipoyl synthase	2.8.1.8	[Protein]-N6-[(R)-dihydrolipoyl]-L-lysine	H+	white
-lipoyl synthase	2.8.1.8	[Protein]-N6-[(R)-dihydrolipoyl]-L-lysine	Reduced [2Fe-2S] ferredoxin	white
-lipoyl synthase	2.8.1.8	[Protein]-N6-[(R)-dihydrolipoyl]-L-lysine	S-Adenosyl-L-methionine	white
-lipoyl synthase	2.8.1.8	[Protein]-N6-[(R)-dihydrolipoyl]-L-lysine	[Fe-S] cluster scaffold protein carrying a [4Fe-4S]2+ cluster	white
-lipoyl synthase	2.8.1.8	[Protein]-N6-[(R)-dihydrolipoyl]-L-lysine	[Protein]-N6-(octanoyl)-L-lysine	white
-lipoyl(octanoyl) transferase	2.3.1.181	Acyl-carrier protein	Octanoyl-[acp]	white
-lipoyl(octanoyl) transferase	2.3.1.181	Acyl-carrier protein	[Lipoyl-carrier protein]-L-lysine	white
-lipoyl(octanoyl) transferase	2.3.1.181	Glycine cleavage system H	Acyl-carrier protein	green
-lipoyl(octanoyl) transferase	2.3.1.181	Glycine cleavage system H	[Glycine cleavage system H]-N6-octanoyl-L-lysine	green
-lipoyl(octanoyl) transferase	2.3.1.181	Lipoyl-carrier protein E2	Acyl-carrier protein	green
-lipoyl(octanoyl) transferase	2.3.1.181	Lipoyl-carrier protein E2	[Lipoyl-carrier protein E2]-N6-octanoyl-L-lysine	green
-lipoyl(octanoyl) transferase	2.3.1.181	Octanoyl-[acp]	Acyl-carrier protein	green
-lipoyl(octanoyl) transferase	2.3.1.181	Octanoyl-[acp]	Acyl-carrier protein	white
-lipoyl(octanoyl) transferase	2.3.1.181	Octanoyl-[acp]	[Glycine cleavage system H]-N6-octanoyl-L-lysine	green
-lipoyl(octanoyl) transferase	2.3.1.181	Octanoyl-[acp]	[Lipoyl-carrier protein E2]-N6-octanoyl-L-lysine	green
-lipoyl(octanoyl) transferase	2.3.1.181	Octanoyl-[acp]	[Protein]-N6-(octanoyl)-L-lysine	white
-lipoyl(octanoyl) transferase	2.3.1.181	[Lipoyl-carrier protein]-L-lysine	Acyl-carrier protein	white
-lipoyl(octanoyl) transferase	2.3.1.181	[Lipoyl-carrier protein]-L-lysine	[Protein]-N6-(octanoyl)-L-lysine	white
-lipoyl(octanoyl) transferase	2.3.1.181	[Protein]-N6-(octanoyl)-L-lysine	Octanoyl-[acp]	white
-lipoyl(octanoyl) transferase	2.3.1.181	[Protein]-N6-(octanoyl)-L-lysine	[Lipoyl-carrier protein]-L-lysine	white
-lipoyl(octanoyl) transferase 2	2.3.1.181	Acyl-carrier protein	Glycine cleavage system H	white
-lipoyl(octanoyl) transferase 2	2.3.1.181	Acyl-carrier protein	Octanoyl-[acp]	white
-lipoyl(octanoyl) transferase 2	2.3.1.181	Glycine cleavage system H	Acyl-carrier protein	white
-lipoyl(octanoyl) transferase 2	2.3.1.181	Glycine cleavage system H	[Glycine cleavage system H]-N6-octanoyl-L-lysine	white
-lipoyl(octanoyl) transferase 2	2.3.1.181	Octanoyl-[acp]	Acyl-carrier protein	white
-lipoyl(octanoyl) transferase 2	2.3.1.181	Octanoyl-[acp]	[Glycine cleavage system H]-N6-octanoyl-L-lysine	white
-lipoyl(octanoyl) transferase 2	2.3.1.181	[Glycine cleavage system H]-N6-octanoyl-L-lysine	Glycine cleavage system H	white
-lipoyl(octanoyl) transferase 2	2.3.1.181	[Glycine cleavage system H]-N6-octanoyl-L-lysine	Octanoyl-[acp]	white
-lipoyl-AMP:Nepsilon-lysine lipoyltransferase / lipoyl(octanoyl) transferase	2.3.1.181	Acyl-carrier protein	Lipoyl-carrier protein E2	white
-lipoyl-AMP:Nepsilon-lysine lipoyltransferase / lipoyl(octanoyl) transferase	2.3.1.181	Acyl-carrier protein	Octanoyl-[acp]	white
-lipoyl-AMP:Nepsilon-lysine lipoyltransferase / lipoyl(octanoyl) transferase	2.3.1.181	Lipoyl-carrier protein E2	Acyl-carrier protein	white
-lipoyl-AMP:Nepsilon-lysine lipoyltransferase / lipoyl(octanoyl) transferase	2.3.1.181	Lipoyl-carrier protein E2	[Lipoyl-carrier protein E2]-N6-octanoyl-L-lysine	white
-lipoyl-AMP:Nepsilon-lysine lipoyltransferase / lipoyl(octanoyl) transferase	2.3.1.181	Octanoyl-[acp]	Acyl-carrier protein	white
-lipoyl-AMP:Nepsilon-lysine lipoyltransferase / lipoyl(octanoyl) transferase	2.3.1.181	Octanoyl-[acp]	[Lipoyl-carrier protein E2]-N6-octanoyl-L-lysine	white
-lipoyl-AMP:Nepsilon-lysine lipoyltransferase / lipoyl(octanoyl) transferase	2.3.1.181	[Lipoyl-carrier protein E2]-N6-octanoyl-L-lysine	Lipoyl-carrier protein E2	white
-lipoyl-AMP:Nepsilon-lysine lipoyltransferase / lipoyl(octanoyl) transferase	2.3.1.181	[Lipoyl-carrier protein E2]-N6-octanoyl-L-lysine	Octanoyl-[acp]	white
-lipoyltransferase 1	2.3.1.204	AMP	Lipoyl-AMP	white
-lipoyltransferase 1	2.3.1.204	AMP	[Lipoyl-carrier protein]-L-lysine	white
-lipoyltransferase 1	2.3.1.204	Lipoyl-AMP	AMP	white
-lipoyltransferase 1	2.3.1.204	Lipoyl-AMP	Protein N6-(lipoyl)lysine	white
-lipoyltransferase 1	2.3.1.204	Protein N6-(lipoyl)lysine	Lipoyl-AMP	white
-lipoyltransferase 1	2.3.1.204	Protein N6-(lipoyl)lysine	[Lipoyl-carrier protein]-L-lysine	white
-lipoyltransferase 1	2.3.1.204	[Lipoyl-carrier protein]-L-lysine	AMP	white
-lipoyltransferase 1	2.3.1.204	[Lipoyl-carrier protein]-L-lysine	Protein N6-(lipoyl)lysine	white
-medium-chain acyl-CoA ligase / lipoate-activating enzyme	6.2.1.2	AMP	ATP	white
-medium-chain acyl-CoA ligase / lipoate-activating enzyme	6.2.1.2	AMP	Butanoic acid	white
-medium-chain acyl-CoA ligase / lipoate-activating enzyme	6.2.1.2	AMP	CoA	white
-medium-chain acyl-CoA ligase / lipoate-activating enzyme	6.2.1.2	ATP	AMP	white
-medium-chain acyl-CoA ligase / lipoate-activating enzyme	6.2.1.2	ATP	Butanoyl-CoA	white
-medium-chain acyl-CoA ligase / lipoate-activating enzyme	6.2.1.2	ATP	Diphosphate	white
-medium-chain acyl-CoA ligase / lipoate-activating enzyme	6.2.1.2	Butanoic acid	AMP	white
-medium-chain acyl-CoA ligase / lipoate-activating enzyme	6.2.1.2	Butanoic acid	Butanoyl-CoA	white
-medium-chain acyl-CoA ligase / lipoate-activating enzyme	6.2.1.2	Butanoic acid	Diphosphate	white
-medium-chain acyl-CoA ligase / lipoate-activating enzyme	6.2.1.2	Butanoyl-CoA	ATP	white
-medium-chain acyl-CoA ligase / lipoate-activating enzyme	6.2.1.2	Butanoyl-CoA	Butanoic acid	white
-medium-chain acyl-CoA ligase / lipoate-activating enzyme	6.2.1.2	Butanoyl-CoA	CoA	white
-medium-chain acyl-CoA ligase / lipoate-activating enzyme	6.2.1.2	CoA	AMP	white
-medium-chain acyl-CoA ligase / lipoate-activating enzyme	6.2.1.2	CoA	Butanoyl-CoA	white
-medium-chain acyl-CoA ligase / lipoate-activating enzyme	6.2.1.2	CoA	Diphosphate	white
-medium-chain acyl-CoA ligase / lipoate-activating enzyme	6.2.1.2	Diphosphate	ATP	white
-medium-chain acyl-CoA ligase / lipoate-activating enzyme	6.2.1.2	Diphosphate	Butanoic acid	white
-medium-chain acyl-CoA ligase / lipoate-activating enzyme	6.2.1.2	Diphosphate	CoA	white
-multifunctional 2-oxoglutarate metabolism enzyme	2.2.1.5	2-Oxoglutarate	3-Carboxy-1-hydroxypropyl-ThPP	green
-multifunctional 2-oxoglutarate metabolism enzyme	2.2.1.5	2-Oxoglutarate	CO2	green
-multifunctional 2-oxoglutarate metabolism enzyme	2.2.1.5	3-Carboxy-1-hydroxypropyl-ThPP	Thiamin diphosphate	green
-multifunctional 2-oxoglutarate metabolism enzyme	2.2.1.5	3-Carboxy-1-hydroxypropyl-ThPP	[Dihydrolipoyllysine-residue succinyltransferase] S-succinyldihydrolipoyllysine	green
-multifunctional 2-oxoglutarate metabolism enzyme	2.2.1.5	Enzyme N6-(dihydrolipoyl)lysine	CoA	green
-multifunctional 2-oxoglutarate metabolism enzyme	2.2.1.5	Enzyme N6-(dihydrolipoyl)lysine	[Dihydrolipoyllysine-residue succinyltransferase] S-succinyldihydrolipoyllysine	green
-multifunctional 2-oxoglutarate metabolism enzyme	2.2.1.5	Enzyme N6-(lipoyl)lysine	Thiamin diphosphate	green
-multifunctional 2-oxoglutarate metabolism enzyme	2.2.1.5	Enzyme N6-(lipoyl)lysine	[Dihydrolipoyllysine-residue succinyltransferase] S-succinyldihydrolipoyllysine	green
-multifunctional 2-oxoglutarate metabolism enzyme	2.2.1.5	Succinyl-CoA	CoA	green
-multifunctional 2-oxoglutarate metabolism enzyme	2.2.1.5	Succinyl-CoA	[Dihydrolipoyllysine-residue succinyltransferase] S-succinyldihydrolipoyllysine	green
-multifunctional 2-oxoglutarate metabolism enzyme	2.2.1.5	Thiamin diphosphate	3-Carboxy-1-hydroxypropyl-ThPP	green
-multifunctional 2-oxoglutarate metabolism enzyme	2.2.1.5	Thiamin diphosphate	CO2	green
-octanoyl-CoA:protein transferase	2.3.1.-	CoA	Lipoyl-carrier protein E2	white
-octanoyl-CoA:protein transferase	2.3.1.-	CoA	Octanoyl-CoA	white
-octanoyl-CoA:protein transferase	2.3.1.-	Lipoyl-carrier protein E2	CoA	white
-octanoyl-CoA:protein transferase	2.3.1.-	Lipoyl-carrier protein E2	[Lipoyl-carrier protein E2]-N6-octanoyl-L-lysine	white
-octanoyl-CoA:protein transferase	2.3.1.-	Octanoyl-CoA	CoA	white
-octanoyl-CoA:protein transferase	2.3.1.-	Octanoyl-CoA	[Lipoyl-carrier protein E2]-N6-octanoyl-L-lysine	white
-octanoyl-CoA:protein transferase	2.3.1.-	[Lipoyl-carrier protein E2]-N6-octanoyl-L-lysine	Lipoyl-carrier protein E2	white
-octanoyl-CoA:protein transferase	2.3.1.-	[Lipoyl-carrier protein E2]-N6-octanoyl-L-lysine	Octanoyl-CoA	white
-octanoyl-[GcvH]:protein N-octanoyltransferase	2.3.1.204	Dihydrolipoylprotein	Enzyme N6-(dihydrolipoyl)lysine	green
-octanoyl-[GcvH]:protein N-octanoyltransferase	2.3.1.204	Dihydrolipoylprotein	Glycine cleavage system H	green
-octanoyl-[GcvH]:protein N-octanoyltransferase	2.3.1.204	Lipoyl-carrier protein E2	Enzyme N6-(dihydrolipoyl)lysine	green
-octanoyl-[GcvH]:protein N-octanoyltransferase	2.3.1.204	Lipoyl-carrier protein E2	Glycine cleavage system H	green
-octanoyl-[GcvH]:protein N-octanoyltransferase	2.3.1.204	Lipoyl-carrier protein E2	[Lipoyl-carrier protein E2]-N6-octanoyl-L-lysine	green
-octanoyl-[GcvH]:protein N-octanoyltransferase	2.3.1.204	[Glycine cleavage system H]-N6-octanoyl-L-lysine	Glycine cleavage system H	green
-octanoyl-[GcvH]:protein N-octanoyltransferase	2.3.1.204	[Glycine cleavage system H]-N6-octanoyl-L-lysine	[Lipoyl-carrier protein E2]-N6-octanoyl-L-lysine	green
-pyruvate dehydrogenase E1 component	1.2.4.1	2-(alpha-Hydroxyethyl)thiamine diphosphate	Thiamin diphosphate	green
-pyruvate dehydrogenase E1 component	1.2.4.1	2-(alpha-Hydroxyethyl)thiamine diphosphate	[Dihydrolipoyllysine-residue acetyltransferase] S-acetyldihydrolipoyllysine	green
-pyruvate dehydrogenase E1 component	1.2.4.1	Enzyme N6-(lipoyl)lysine	Thiamin diphosphate	green
-pyruvate dehydrogenase E1 component	1.2.4.1	Enzyme N6-(lipoyl)lysine	[Dihydrolipoyllysine-residue acetyltransferase] S-acetyldihydrolipoyllysine	green
-pyruvate dehydrogenase E1 component	1.2.4.1	Pyruvate	2-(alpha-Hydroxyethyl)thiamine diphosphate	green
-pyruvate dehydrogenase E1 component	1.2.4.1	Pyruvate	CO2	green
-pyruvate dehydrogenase E1 component	1.2.4.1	Thiamin diphosphate	2-(alpha-Hydroxyethyl)thiamine diphosphate	green
-pyruvate dehydrogenase E1 component	1.2.4.1	Thiamin diphosphate	CO2	green
-pyruvate dehydrogenase E2 component (dihydrolipoyllysine-residue acetyltransferase)	2.3.1.12	Acetyl-CoA	CoA	green
-pyruvate dehydrogenase E2 component (dihydrolipoyllysine-residue acetyltransferase)	2.3.1.12	Acetyl-CoA	[Dihydrolipoyllysine-residue acetyltransferase] S-acetyldihydrolipoyllysine	green
-pyruvate dehydrogenase E2 component (dihydrolipoyllysine-residue acetyltransferase)	2.3.1.12	Enzyme N6-(dihydrolipoyl)lysine	CoA	green
-pyruvate dehydrogenase E2 component (dihydrolipoyllysine-residue acetyltransferase)	2.3.1.12	Enzyme N6-(dihydrolipoyl)lysine	[Dihydrolipoyllysine-residue acetyltransferase] S-acetyldihydrolipoyllysine	green
+enzyme_name	EC	source	target	reaction	color
+2-oxoadipate dehydrogenase E1 component	1.2.4.-	2-Oxoadipate	CO2	R01933	white
+2-oxoadipate dehydrogenase E1 component	1.2.4.-	2-Oxoadipate	Glutaryl-CoA	R01933	white
+2-oxoadipate dehydrogenase E1 component	1.2.4.-	2-Oxoadipate	H+	R01933	white
+2-oxoadipate dehydrogenase E1 component	1.2.4.-	2-Oxoadipate	NADH	R01933	white
+2-oxoadipate dehydrogenase E1 component	1.2.4.-	CO2	2-Oxoadipate	R01933	white
+2-oxoadipate dehydrogenase E1 component	1.2.4.-	CO2	CoA	R01933	white
+2-oxoadipate dehydrogenase E1 component	1.2.4.-	CO2	NAD+	R01933	white
+2-oxoadipate dehydrogenase E1 component	1.2.4.-	CoA	CO2	R01933	white
+2-oxoadipate dehydrogenase E1 component	1.2.4.-	CoA	Glutaryl-CoA	R01933	white
+2-oxoadipate dehydrogenase E1 component	1.2.4.-	CoA	H+	R01933	white
+2-oxoadipate dehydrogenase E1 component	1.2.4.-	CoA	NADH	R01933	white
+2-oxoadipate dehydrogenase E1 component	1.2.4.-	Glutaryl-CoA	2-Oxoadipate	R01933	white
+2-oxoadipate dehydrogenase E1 component	1.2.4.-	Glutaryl-CoA	CoA	R01933	white
+2-oxoadipate dehydrogenase E1 component	1.2.4.-	Glutaryl-CoA	NAD+	R01933	white
+2-oxoadipate dehydrogenase E1 component	1.2.4.-	H+	2-Oxoadipate	R01933	white
+2-oxoadipate dehydrogenase E1 component	1.2.4.-	H+	CoA	R01933	white
+2-oxoadipate dehydrogenase E1 component	1.2.4.-	H+	NAD+	R01933	white
+2-oxoadipate dehydrogenase E1 component	1.2.4.-	NAD+	CO2	R01933	white
+2-oxoadipate dehydrogenase E1 component	1.2.4.-	NAD+	Glutaryl-CoA	R01933	white
+2-oxoadipate dehydrogenase E1 component	1.2.4.-	NAD+	H+	R01933	white
+2-oxoadipate dehydrogenase E1 component	1.2.4.-	NAD+	NADH	R01933	white
+2-oxoadipate dehydrogenase E1 component	1.2.4.-	NADH	2-Oxoadipate	R01933	white
+2-oxoadipate dehydrogenase E1 component	1.2.4.-	NADH	CoA	R01933	white
+2-oxoadipate dehydrogenase E1 component	1.2.4.-	NADH	NAD+	R01933	white
+2-oxoglutarate dehydrogenase E2 component (dihydrolipoamide succinyltransferase)	2.3.1.61	2-Oxoadipate	CO2	R01933	white
+2-oxoglutarate dehydrogenase E2 component (dihydrolipoamide succinyltransferase)	2.3.1.61	2-Oxoadipate	Glutaryl-CoA	R01933	white
+2-oxoglutarate dehydrogenase E2 component (dihydrolipoamide succinyltransferase)	2.3.1.61	2-Oxoadipate	H+	R01933	white
+2-oxoglutarate dehydrogenase E2 component (dihydrolipoamide succinyltransferase)	2.3.1.61	2-Oxoadipate	NADH	R01933	white
+2-oxoglutarate dehydrogenase E2 component (dihydrolipoamide succinyltransferase)	2.3.1.61	CO2	2-Oxoadipate	R01933	white
+2-oxoglutarate dehydrogenase E2 component (dihydrolipoamide succinyltransferase)	2.3.1.61	CO2	CoA	R01933	white
+2-oxoglutarate dehydrogenase E2 component (dihydrolipoamide succinyltransferase)	2.3.1.61	CO2	NAD+	R01933	white
+2-oxoglutarate dehydrogenase E2 component (dihydrolipoamide succinyltransferase)	2.3.1.61	CoA	CO2	R01933	white
+2-oxoglutarate dehydrogenase E2 component (dihydrolipoamide succinyltransferase)	2.3.1.61	CoA	Glutaryl-CoA	R01933	white
+2-oxoglutarate dehydrogenase E2 component (dihydrolipoamide succinyltransferase)	2.3.1.61	CoA	H+	R01933	white
+2-oxoglutarate dehydrogenase E2 component (dihydrolipoamide succinyltransferase)	2.3.1.61	CoA	NADH	R01933	white
+2-oxoglutarate dehydrogenase E2 component (dihydrolipoamide succinyltransferase)	2.3.1.61	Glutaryl-CoA	2-Oxoadipate	R01933	white
+2-oxoglutarate dehydrogenase E2 component (dihydrolipoamide succinyltransferase)	2.3.1.61	Glutaryl-CoA	CoA	R01933	white
+2-oxoglutarate dehydrogenase E2 component (dihydrolipoamide succinyltransferase)	2.3.1.61	Glutaryl-CoA	NAD+	R01933	white
+2-oxoglutarate dehydrogenase E2 component (dihydrolipoamide succinyltransferase)	2.3.1.61	H+	2-Oxoadipate	R01933	white
+2-oxoglutarate dehydrogenase E2 component (dihydrolipoamide succinyltransferase)	2.3.1.61	H+	CoA	R01933	white
+2-oxoglutarate dehydrogenase E2 component (dihydrolipoamide succinyltransferase)	2.3.1.61	H+	NAD+	R01933	white
+2-oxoglutarate dehydrogenase E2 component (dihydrolipoamide succinyltransferase)	2.3.1.61	NAD+	CO2	R01933	white
+2-oxoglutarate dehydrogenase E2 component (dihydrolipoamide succinyltransferase)	2.3.1.61	NAD+	Glutaryl-CoA	R01933	white
+2-oxoglutarate dehydrogenase E2 component (dihydrolipoamide succinyltransferase)	2.3.1.61	NAD+	H+	R01933	white
+2-oxoglutarate dehydrogenase E2 component (dihydrolipoamide succinyltransferase)	2.3.1.61	NAD+	NADH	R01933	white
+2-oxoglutarate dehydrogenase E2 component (dihydrolipoamide succinyltransferase)	2.3.1.61	NADH	2-Oxoadipate	R01933	white
+2-oxoglutarate dehydrogenase E2 component (dihydrolipoamide succinyltransferase)	2.3.1.61	NADH	CoA	R01933	white
+2-oxoglutarate dehydrogenase E2 component (dihydrolipoamide succinyltransferase)	2.3.1.61	NADH	NAD+	R01933	white
+2-oxoisovalerate dehydrogenase E1 component	1.2.4.4	(S)-3-Methyl-2-oxopentanoic acid	2-Methyl-1-hydroxybutyl-ThPP	R07603	green
+2-oxoisovalerate dehydrogenase E1 component	1.2.4.4	(S)-3-Methyl-2-oxopentanoic acid	CO2	R07603	green
+2-oxoisovalerate dehydrogenase E1 component	1.2.4.4	2-Methyl-1-hydroxybutyl-ThPP	Thiamin diphosphate	R07604	green
+2-oxoisovalerate dehydrogenase E1 component	1.2.4.4	2-Methyl-1-hydroxybutyl-ThPP	[Dihydrolipoyllysine-residue (2-methylpropanoyl)transferase] S-(2-methylbutanoyl)dihydrolipoyllysine	R07604	green
+2-oxoisovalerate dehydrogenase E1 component	1.2.4.4	2-Methyl-1-hydroxypropyl-ThPP	Thiamin diphosphate	R07600	green
+2-oxoisovalerate dehydrogenase E1 component	1.2.4.4	2-Methyl-1-hydroxypropyl-ThPP	[Dihydrolipoyllysine-residue (2-methylpropanoyl)transferase] S-(2-methylpropanoyl)dihydrolipoyllysine	R07600	green
+2-oxoisovalerate dehydrogenase E1 component	1.2.4.4	3-Methyl-1-hydroxybutyl-ThPP	Thiamin diphosphate	R07602	green
+2-oxoisovalerate dehydrogenase E1 component	1.2.4.4	3-Methyl-1-hydroxybutyl-ThPP	[Dihydrolipoyllysine-residue (2-methylpropanoyl)transferase] S-(3-methylbutanoyl)dihydrolipoyllysine	R07602	green
+2-oxoisovalerate dehydrogenase E1 component	1.2.4.4	3-Methyl-2-oxobutanoic acid	2-Methyl-1-hydroxypropyl-ThPP	R07599	green
+2-oxoisovalerate dehydrogenase E1 component	1.2.4.4	3-Methyl-2-oxobutanoic acid	CO2	R07599	green
+2-oxoisovalerate dehydrogenase E1 component	1.2.4.4	4-Methyl-2-oxopentanoate	3-Methyl-1-hydroxybutyl-ThPP	R07601	green
+2-oxoisovalerate dehydrogenase E1 component	1.2.4.4	4-Methyl-2-oxopentanoate	CO2	R07601	green
+2-oxoisovalerate dehydrogenase E1 component	1.2.4.4	Enzyme N6-(lipoyl)lysine	Thiamin diphosphate	R07600	green
+2-oxoisovalerate dehydrogenase E1 component	1.2.4.4	Enzyme N6-(lipoyl)lysine	Thiamin diphosphate	R07602	green
+2-oxoisovalerate dehydrogenase E1 component	1.2.4.4	Enzyme N6-(lipoyl)lysine	Thiamin diphosphate	R07604	green
+2-oxoisovalerate dehydrogenase E1 component	1.2.4.4	Enzyme N6-(lipoyl)lysine	[Dihydrolipoyllysine-residue (2-methylpropanoyl)transferase] S-(2-methylbutanoyl)dihydrolipoyllysine	R07604	green
+2-oxoisovalerate dehydrogenase E1 component	1.2.4.4	Enzyme N6-(lipoyl)lysine	[Dihydrolipoyllysine-residue (2-methylpropanoyl)transferase] S-(2-methylpropanoyl)dihydrolipoyllysine	R07600	green
+2-oxoisovalerate dehydrogenase E1 component	1.2.4.4	Enzyme N6-(lipoyl)lysine	[Dihydrolipoyllysine-residue (2-methylpropanoyl)transferase] S-(3-methylbutanoyl)dihydrolipoyllysine	R07602	green
+2-oxoisovalerate dehydrogenase E1 component	1.2.4.4	Thiamin diphosphate	2-Methyl-1-hydroxybutyl-ThPP	R07603	green
+2-oxoisovalerate dehydrogenase E1 component	1.2.4.4	Thiamin diphosphate	2-Methyl-1-hydroxypropyl-ThPP	R07599	green
+2-oxoisovalerate dehydrogenase E1 component	1.2.4.4	Thiamin diphosphate	3-Methyl-1-hydroxybutyl-ThPP	R07601	green
+2-oxoisovalerate dehydrogenase E1 component	1.2.4.4	Thiamin diphosphate	CO2	R07599	green
+2-oxoisovalerate dehydrogenase E1 component	1.2.4.4	Thiamin diphosphate	CO2	R07601	green
+2-oxoisovalerate dehydrogenase E1 component	1.2.4.4	Thiamin diphosphate	CO2	R07603	green
+2-oxoisovalerate dehydrogenase E1 component subunit alpha	1.2.4.4	(S)-3-Methyl-2-oxopentanoic acid	2-Methyl-1-hydroxybutyl-ThPP	R07603	green
+2-oxoisovalerate dehydrogenase E1 component subunit alpha	1.2.4.4	(S)-3-Methyl-2-oxopentanoic acid	CO2	R07603	green
+2-oxoisovalerate dehydrogenase E1 component subunit alpha	1.2.4.4	2-Methyl-1-hydroxybutyl-ThPP	Thiamin diphosphate	R07604	green
+2-oxoisovalerate dehydrogenase E1 component subunit alpha	1.2.4.4	2-Methyl-1-hydroxybutyl-ThPP	[Dihydrolipoyllysine-residue (2-methylpropanoyl)transferase] S-(2-methylbutanoyl)dihydrolipoyllysine	R07604	green
+2-oxoisovalerate dehydrogenase E1 component subunit alpha	1.2.4.4	2-Methyl-1-hydroxypropyl-ThPP	Thiamin diphosphate	R07600	green
+2-oxoisovalerate dehydrogenase E1 component subunit alpha	1.2.4.4	2-Methyl-1-hydroxypropyl-ThPP	[Dihydrolipoyllysine-residue (2-methylpropanoyl)transferase] S-(2-methylpropanoyl)dihydrolipoyllysine	R07600	green
+2-oxoisovalerate dehydrogenase E1 component subunit alpha	1.2.4.4	3-Methyl-1-hydroxybutyl-ThPP	Thiamin diphosphate	R07602	green
+2-oxoisovalerate dehydrogenase E1 component subunit alpha	1.2.4.4	3-Methyl-1-hydroxybutyl-ThPP	[Dihydrolipoyllysine-residue (2-methylpropanoyl)transferase] S-(3-methylbutanoyl)dihydrolipoyllysine	R07602	green
+2-oxoisovalerate dehydrogenase E1 component subunit alpha	1.2.4.4	3-Methyl-2-oxobutanoic acid	2-Methyl-1-hydroxypropyl-ThPP	R07599	green
+2-oxoisovalerate dehydrogenase E1 component subunit alpha	1.2.4.4	3-Methyl-2-oxobutanoic acid	CO2	R07599	green
+2-oxoisovalerate dehydrogenase E1 component subunit alpha	1.2.4.4	4-Methyl-2-oxopentanoate	3-Methyl-1-hydroxybutyl-ThPP	R07601	green
+2-oxoisovalerate dehydrogenase E1 component subunit alpha	1.2.4.4	4-Methyl-2-oxopentanoate	CO2	R07601	green
+2-oxoisovalerate dehydrogenase E1 component subunit alpha	1.2.4.4	Enzyme N6-(lipoyl)lysine	Thiamin diphosphate	R07600	green
+2-oxoisovalerate dehydrogenase E1 component subunit alpha	1.2.4.4	Enzyme N6-(lipoyl)lysine	Thiamin diphosphate	R07602	green
+2-oxoisovalerate dehydrogenase E1 component subunit alpha	1.2.4.4	Enzyme N6-(lipoyl)lysine	Thiamin diphosphate	R07604	green
+2-oxoisovalerate dehydrogenase E1 component subunit alpha	1.2.4.4	Enzyme N6-(lipoyl)lysine	[Dihydrolipoyllysine-residue (2-methylpropanoyl)transferase] S-(2-methylbutanoyl)dihydrolipoyllysine	R07604	green
+2-oxoisovalerate dehydrogenase E1 component subunit alpha	1.2.4.4	Enzyme N6-(lipoyl)lysine	[Dihydrolipoyllysine-residue (2-methylpropanoyl)transferase] S-(2-methylpropanoyl)dihydrolipoyllysine	R07600	green
+2-oxoisovalerate dehydrogenase E1 component subunit alpha	1.2.4.4	Enzyme N6-(lipoyl)lysine	[Dihydrolipoyllysine-residue (2-methylpropanoyl)transferase] S-(3-methylbutanoyl)dihydrolipoyllysine	R07602	green
+2-oxoisovalerate dehydrogenase E1 component subunit alpha	1.2.4.4	Thiamin diphosphate	2-Methyl-1-hydroxybutyl-ThPP	R07603	green
+2-oxoisovalerate dehydrogenase E1 component subunit alpha	1.2.4.4	Thiamin diphosphate	2-Methyl-1-hydroxypropyl-ThPP	R07599	green
+2-oxoisovalerate dehydrogenase E1 component subunit alpha	1.2.4.4	Thiamin diphosphate	3-Methyl-1-hydroxybutyl-ThPP	R07601	green
+2-oxoisovalerate dehydrogenase E1 component subunit alpha	1.2.4.4	Thiamin diphosphate	CO2	R07599	green
+2-oxoisovalerate dehydrogenase E1 component subunit alpha	1.2.4.4	Thiamin diphosphate	CO2	R07601	green
+2-oxoisovalerate dehydrogenase E1 component subunit alpha	1.2.4.4	Thiamin diphosphate	CO2	R07603	green
+2-oxoisovalerate dehydrogenase E1 component subunit beta	1.2.4.4	(S)-3-Methyl-2-oxopentanoic acid	2-Methyl-1-hydroxybutyl-ThPP	R07603	green
+2-oxoisovalerate dehydrogenase E1 component subunit beta	1.2.4.4	(S)-3-Methyl-2-oxopentanoic acid	CO2	R07603	green
+2-oxoisovalerate dehydrogenase E1 component subunit beta	1.2.4.4	2-Methyl-1-hydroxybutyl-ThPP	Thiamin diphosphate	R07604	green
+2-oxoisovalerate dehydrogenase E1 component subunit beta	1.2.4.4	2-Methyl-1-hydroxybutyl-ThPP	[Dihydrolipoyllysine-residue (2-methylpropanoyl)transferase] S-(2-methylbutanoyl)dihydrolipoyllysine	R07604	green
+2-oxoisovalerate dehydrogenase E1 component subunit beta	1.2.4.4	2-Methyl-1-hydroxypropyl-ThPP	Thiamin diphosphate	R07600	green
+2-oxoisovalerate dehydrogenase E1 component subunit beta	1.2.4.4	2-Methyl-1-hydroxypropyl-ThPP	[Dihydrolipoyllysine-residue (2-methylpropanoyl)transferase] S-(2-methylpropanoyl)dihydrolipoyllysine	R07600	green
+2-oxoisovalerate dehydrogenase E1 component subunit beta	1.2.4.4	3-Methyl-1-hydroxybutyl-ThPP	Thiamin diphosphate	R07602	green
+2-oxoisovalerate dehydrogenase E1 component subunit beta	1.2.4.4	3-Methyl-1-hydroxybutyl-ThPP	[Dihydrolipoyllysine-residue (2-methylpropanoyl)transferase] S-(3-methylbutanoyl)dihydrolipoyllysine	R07602	green
+2-oxoisovalerate dehydrogenase E1 component subunit beta	1.2.4.4	3-Methyl-2-oxobutanoic acid	2-Methyl-1-hydroxypropyl-ThPP	R07599	green
+2-oxoisovalerate dehydrogenase E1 component subunit beta	1.2.4.4	3-Methyl-2-oxobutanoic acid	CO2	R07599	green
+2-oxoisovalerate dehydrogenase E1 component subunit beta	1.2.4.4	4-Methyl-2-oxopentanoate	3-Methyl-1-hydroxybutyl-ThPP	R07601	green
+2-oxoisovalerate dehydrogenase E1 component subunit beta	1.2.4.4	4-Methyl-2-oxopentanoate	CO2	R07601	green
+2-oxoisovalerate dehydrogenase E1 component subunit beta	1.2.4.4	Enzyme N6-(lipoyl)lysine	Thiamin diphosphate	R07600	green
+2-oxoisovalerate dehydrogenase E1 component subunit beta	1.2.4.4	Enzyme N6-(lipoyl)lysine	Thiamin diphosphate	R07602	green
+2-oxoisovalerate dehydrogenase E1 component subunit beta	1.2.4.4	Enzyme N6-(lipoyl)lysine	Thiamin diphosphate	R07604	green
+2-oxoisovalerate dehydrogenase E1 component subunit beta	1.2.4.4	Enzyme N6-(lipoyl)lysine	[Dihydrolipoyllysine-residue (2-methylpropanoyl)transferase] S-(2-methylbutanoyl)dihydrolipoyllysine	R07604	green
+2-oxoisovalerate dehydrogenase E1 component subunit beta	1.2.4.4	Enzyme N6-(lipoyl)lysine	[Dihydrolipoyllysine-residue (2-methylpropanoyl)transferase] S-(2-methylpropanoyl)dihydrolipoyllysine	R07600	green
+2-oxoisovalerate dehydrogenase E1 component subunit beta	1.2.4.4	Enzyme N6-(lipoyl)lysine	[Dihydrolipoyllysine-residue (2-methylpropanoyl)transferase] S-(3-methylbutanoyl)dihydrolipoyllysine	R07602	green
+2-oxoisovalerate dehydrogenase E1 component subunit beta	1.2.4.4	Thiamin diphosphate	2-Methyl-1-hydroxybutyl-ThPP	R07603	green
+2-oxoisovalerate dehydrogenase E1 component subunit beta	1.2.4.4	Thiamin diphosphate	2-Methyl-1-hydroxypropyl-ThPP	R07599	green
+2-oxoisovalerate dehydrogenase E1 component subunit beta	1.2.4.4	Thiamin diphosphate	3-Methyl-1-hydroxybutyl-ThPP	R07601	green
+2-oxoisovalerate dehydrogenase E1 component subunit beta	1.2.4.4	Thiamin diphosphate	CO2	R07599	green
+2-oxoisovalerate dehydrogenase E1 component subunit beta	1.2.4.4	Thiamin diphosphate	CO2	R07601	green
+2-oxoisovalerate dehydrogenase E1 component subunit beta	1.2.4.4	Thiamin diphosphate	CO2	R07603	green
+2-oxoisovalerate dehydrogenase E2 component (dihydrolipoyl transacylase)	2.3.1.168	(S)-2-Methylbutanoyl-CoA	CoA	R03174	green
+2-oxoisovalerate dehydrogenase E2 component (dihydrolipoyl transacylase)	2.3.1.168	(S)-2-Methylbutanoyl-CoA	[Dihydrolipoyllysine-residue (2-methylpropanoyl)transferase] S-(2-methylbutanoyl)dihydrolipoyllysine	R03174	green
+2-oxoisovalerate dehydrogenase E2 component (dihydrolipoyl transacylase)	2.3.1.168	2-Methylpropanoyl-CoA	CoA	R02662	green
+2-oxoisovalerate dehydrogenase E2 component (dihydrolipoyl transacylase)	2.3.1.168	2-Methylpropanoyl-CoA	[Dihydrolipoyllysine-residue (2-methylpropanoyl)transferase] S-(2-methylpropanoyl)dihydrolipoyllysine	R02662	green
+2-oxoisovalerate dehydrogenase E2 component (dihydrolipoyl transacylase)	2.3.1.168	3-Methylbutanoyl-CoA	CoA	R04097	green
+2-oxoisovalerate dehydrogenase E2 component (dihydrolipoyl transacylase)	2.3.1.168	3-Methylbutanoyl-CoA	[Dihydrolipoyllysine-residue (2-methylpropanoyl)transferase] S-(3-methylbutanoyl)dihydrolipoyllysine	R04097	green
+2-oxoisovalerate dehydrogenase E2 component (dihydrolipoyl transacylase)	2.3.1.168	Enzyme N6-(dihydrolipoyl)lysine	CoA	R02662	green
+2-oxoisovalerate dehydrogenase E2 component (dihydrolipoyl transacylase)	2.3.1.168	Enzyme N6-(dihydrolipoyl)lysine	CoA	R03174	green
+2-oxoisovalerate dehydrogenase E2 component (dihydrolipoyl transacylase)	2.3.1.168	Enzyme N6-(dihydrolipoyl)lysine	CoA	R04097	green
+2-oxoisovalerate dehydrogenase E2 component (dihydrolipoyl transacylase)	2.3.1.168	Enzyme N6-(dihydrolipoyl)lysine	[Dihydrolipoyllysine-residue (2-methylpropanoyl)transferase] S-(2-methylbutanoyl)dihydrolipoyllysine	R03174	green
+2-oxoisovalerate dehydrogenase E2 component (dihydrolipoyl transacylase)	2.3.1.168	Enzyme N6-(dihydrolipoyl)lysine	[Dihydrolipoyllysine-residue (2-methylpropanoyl)transferase] S-(2-methylpropanoyl)dihydrolipoyllysine	R02662	green
+2-oxoisovalerate dehydrogenase E2 component (dihydrolipoyl transacylase)	2.3.1.168	Enzyme N6-(dihydrolipoyl)lysine	[Dihydrolipoyllysine-residue (2-methylpropanoyl)transferase] S-(3-methylbutanoyl)dihydrolipoyllysine	R04097	green
+dihydrolipoyl dehydrogenase	1.8.1.4	Dihydrolipoylprotein	H+	R03815	green
+dihydrolipoyl dehydrogenase	1.8.1.4	Dihydrolipoylprotein	Lipoylprotein	R03815	green
+dihydrolipoyl dehydrogenase	1.8.1.4	Dihydrolipoylprotein	NADH	R03815	green
+dihydrolipoyl dehydrogenase	1.8.1.4	Enzyme N6-(dihydrolipoyl)lysine	Enzyme N6-(lipoyl)lysine	R07618	green
+dihydrolipoyl dehydrogenase	1.8.1.4	Enzyme N6-(dihydrolipoyl)lysine	H+	R07618	green
+dihydrolipoyl dehydrogenase	1.8.1.4	Enzyme N6-(dihydrolipoyl)lysine	NADH	R07618	green
+dihydrolipoyl dehydrogenase	1.8.1.4	Enzyme N6-(lipoyl)lysine	Enzyme N6-(dihydrolipoyl)lysine	R07618	green
+dihydrolipoyl dehydrogenase	1.8.1.4	Enzyme N6-(lipoyl)lysine	NAD+	R07618	green
+dihydrolipoyl dehydrogenase	1.8.1.4	H+	Dihydrolipoylprotein	R03815	green
+dihydrolipoyl dehydrogenase	1.8.1.4	H+	Enzyme N6-(dihydrolipoyl)lysine	R07618	green
+dihydrolipoyl dehydrogenase	1.8.1.4	H+	NAD+	R03815	green
+dihydrolipoyl dehydrogenase	1.8.1.4	H+	NAD+	R07618	green
+dihydrolipoyl dehydrogenase	1.8.1.4	Lipoylprotein	Dihydrolipoylprotein	R03815	green
+dihydrolipoyl dehydrogenase	1.8.1.4	Lipoylprotein	NAD+	R03815	green
+dihydrolipoyl dehydrogenase	1.8.1.4	NAD+	Enzyme N6-(lipoyl)lysine	R07618	green
+dihydrolipoyl dehydrogenase	1.8.1.4	NAD+	H+	R03815	green
+dihydrolipoyl dehydrogenase	1.8.1.4	NAD+	H+	R07618	green
+dihydrolipoyl dehydrogenase	1.8.1.4	NAD+	Lipoylprotein	R03815	green
+dihydrolipoyl dehydrogenase	1.8.1.4	NAD+	NADH	R03815	green
+dihydrolipoyl dehydrogenase	1.8.1.4	NAD+	NADH	R07618	green
+dihydrolipoyl dehydrogenase	1.8.1.4	NADH	Dihydrolipoylprotein	R03815	green
+dihydrolipoyl dehydrogenase	1.8.1.4	NADH	Enzyme N6-(dihydrolipoyl)lysine	R07618	green
+dihydrolipoyl dehydrogenase	1.8.1.4	NADH	NAD+	R03815	green
+dihydrolipoyl dehydrogenase	1.8.1.4	NADH	NAD+	R07618	green
+glycine cleavage system P protein (glycine dehydrogenase)	1.4.4.2	Glycine	CO2	R03425	green
+glycine cleavage system P protein (glycine dehydrogenase)	1.4.4.2	Glycine	[Protein]-S8-aminomethyldihydrolipoyllysine	R03425	green
+glycine cleavage system P protein (glycine dehydrogenase)	1.4.4.2	Lipoylprotein	CO2	R03425	green
+glycine cleavage system P protein (glycine dehydrogenase)	1.4.4.2	Lipoylprotein	[Protein]-S8-aminomethyldihydrolipoyllysine	R03425	green
+glycine cleavage system T protein (aminomethyltransferase)	2.1.2.10	5,10-Methylenetetrahydrofolate	Tetrahydrofolate	R04125	green
+glycine cleavage system T protein (aminomethyltransferase)	2.1.2.10	5,10-Methylenetetrahydrofolate	[Protein]-S8-aminomethyldihydrolipoyllysine	R04125	green
+glycine cleavage system T protein (aminomethyltransferase)	2.1.2.10	Ammonia	Tetrahydrofolate	R04125	green
+glycine cleavage system T protein (aminomethyltransferase)	2.1.2.10	Ammonia	[Protein]-S8-aminomethyldihydrolipoyllysine	R04125	green
+glycine cleavage system T protein (aminomethyltransferase)	2.1.2.10	Dihydrolipoylprotein	Tetrahydrofolate	R04125	green
+glycine cleavage system T protein (aminomethyltransferase)	2.1.2.10	Dihydrolipoylprotein	[Protein]-S8-aminomethyldihydrolipoyllysine	R04125	green
+glycine cleavage system T protein (aminomethyltransferase)	2.1.2.10	Tetrahydrofolate	5,10-Methylenetetrahydrofolate	R04125	green
+glycine cleavage system T protein (aminomethyltransferase)	2.1.2.10	Tetrahydrofolate	Ammonia	R04125	green
+glycine cleavage system T protein (aminomethyltransferase)	2.1.2.10	Tetrahydrofolate	Dihydrolipoylprotein	R04125	green
+glycine cleavage system T protein (aminomethyltransferase)	2.1.2.10	[Protein]-S8-aminomethyldihydrolipoyllysine	5,10-Methylenetetrahydrofolate	R04125	green
+glycine cleavage system T protein (aminomethyltransferase)	2.1.2.10	[Protein]-S8-aminomethyldihydrolipoyllysine	Ammonia	R04125	green
+glycine cleavage system T protein (aminomethyltransferase)	2.1.2.10	[Protein]-S8-aminomethyldihydrolipoyllysine	Dihydrolipoylprotein	R04125	green
+lipoate---protein ligase	6.3.1.20	(R)-Lipoate	Diphosphate	R07770	white
+lipoate---protein ligase	6.3.1.20	(R)-Lipoate	Lipoyl-AMP	R07770	white
+lipoate---protein ligase	6.3.1.20	ATP	Diphosphate	R07770	white
+lipoate---protein ligase	6.3.1.20	ATP	Lipoyl-AMP	R07770	white
+lipoate---protein ligase	6.3.1.20	Diphosphate	(R)-Lipoate	R07770	white
+lipoate---protein ligase	6.3.1.20	Diphosphate	ATP	R07770	white
+lipoate---protein ligase	6.3.1.20	Lipoyl-AMP	(R)-Lipoate	R07770	white
+lipoate---protein ligase	6.3.1.20	Lipoyl-AMP	ATP	R07770	white
+lipoyl amidotransferase	2.3.1.200	Enzyme N6-(lipoyl)lysine	Lipoyl-carrier protein E2	R12426	white
+lipoyl amidotransferase	2.3.1.200	Enzyme N6-(lipoyl)lysine	Lipoylprotein	R12426	white
+lipoyl amidotransferase	2.3.1.200	Glycine cleavage system H	Lipoyl-carrier protein E2	R12426	white
+lipoyl amidotransferase	2.3.1.200	Glycine cleavage system H	Lipoylprotein	R12426	white
+lipoyl amidotransferase	2.3.1.200	Lipoyl-carrier protein E2	Enzyme N6-(lipoyl)lysine	R12426	white
+lipoyl amidotransferase	2.3.1.200	Lipoyl-carrier protein E2	Glycine cleavage system H	R12426	white
+lipoyl amidotransferase	2.3.1.200	Lipoylprotein	Enzyme N6-(lipoyl)lysine	R12426	white
+lipoyl amidotransferase	2.3.1.200	Lipoylprotein	Glycine cleavage system H	R12426	white
+lipoyl synthase	2.8.1.8	5'-Deoxyadenosine	H+	R07767	white
+lipoyl synthase	2.8.1.8	5'-Deoxyadenosine	Reduced [2Fe-2S] ferredoxin	R07767	white
+lipoyl synthase	2.8.1.8	5'-Deoxyadenosine	S-Adenosyl-L-methionine	R07767	white
+lipoyl synthase	2.8.1.8	5'-Deoxyadenosine	[Fe-S] cluster scaffold protein carrying a [4Fe-4S]2+ cluster	R07767	white
+lipoyl synthase	2.8.1.8	5'-Deoxyadenosine	[Protein]-N6-(octanoyl)-L-lysine	R07767	white
+lipoyl synthase	2.8.1.8	Fe2+	H+	R07767	white
+lipoyl synthase	2.8.1.8	Fe2+	Reduced [2Fe-2S] ferredoxin	R07767	white
+lipoyl synthase	2.8.1.8	Fe2+	S-Adenosyl-L-methionine	R07767	white
+lipoyl synthase	2.8.1.8	Fe2+	[Fe-S] cluster scaffold protein carrying a [4Fe-4S]2+ cluster	R07767	white
+lipoyl synthase	2.8.1.8	Fe2+	[Protein]-N6-(octanoyl)-L-lysine	R07767	white
+lipoyl synthase	2.8.1.8	H+	5'-Deoxyadenosine	R07767	white
+lipoyl synthase	2.8.1.8	H+	5'-Deoxyadenosine	R12423	green
+lipoyl synthase	2.8.1.8	H+	5'-Deoxyadenosine	R12424	green
+lipoyl synthase	2.8.1.8	H+	Dihydrolipoylprotein	R12424	green
+lipoyl synthase	2.8.1.8	H+	Enzyme N6-(dihydrolipoyl)lysine	R12423	green
+lipoyl synthase	2.8.1.8	H+	Fe2+	R07767	white
+lipoyl synthase	2.8.1.8	H+	Fe2+	R12423	green
+lipoyl synthase	2.8.1.8	H+	Fe2+	R12424	green
+lipoyl synthase	2.8.1.8	H+	Hydrogen sulfide	R07767	white
+lipoyl synthase	2.8.1.8	H+	Hydrogen sulfide	R12423	green
+lipoyl synthase	2.8.1.8	H+	Hydrogen sulfide	R12424	green
+lipoyl synthase	2.8.1.8	H+	L-Methionine	R07767	white
+lipoyl synthase	2.8.1.8	H+	L-Methionine	R12423	green
+lipoyl synthase	2.8.1.8	H+	L-Methionine	R12424	green
+lipoyl synthase	2.8.1.8	H+	Oxidized [2Fe-2S] ferredoxin	R07767	white
+lipoyl synthase	2.8.1.8	H+	Oxidized [2Fe-2S] ferredoxin	R12423	green
+lipoyl synthase	2.8.1.8	H+	Oxidized [2Fe-2S] ferredoxin	R12424	green
+lipoyl synthase	2.8.1.8	H+	[Fe-S] cluster scaffold protein	R07767	white
+lipoyl synthase	2.8.1.8	H+	[Fe-S] cluster scaffold protein	R12423	green
+lipoyl synthase	2.8.1.8	H+	[Fe-S] cluster scaffold protein	R12424	green
+lipoyl synthase	2.8.1.8	H+	[Protein]-N6-[(R)-dihydrolipoyl]-L-lysine	R07767	white
+lipoyl synthase	2.8.1.8	Hydrogen sulfide	H+	R07767	white
+lipoyl synthase	2.8.1.8	Hydrogen sulfide	Reduced [2Fe-2S] ferredoxin	R07767	white
+lipoyl synthase	2.8.1.8	Hydrogen sulfide	S-Adenosyl-L-methionine	R07767	white
+lipoyl synthase	2.8.1.8	Hydrogen sulfide	[Fe-S] cluster scaffold protein carrying a [4Fe-4S]2+ cluster	R07767	white
+lipoyl synthase	2.8.1.8	Hydrogen sulfide	[Protein]-N6-(octanoyl)-L-lysine	R07767	white
+lipoyl synthase	2.8.1.8	L-Methionine	H+	R07767	white
+lipoyl synthase	2.8.1.8	L-Methionine	Reduced [2Fe-2S] ferredoxin	R07767	white
+lipoyl synthase	2.8.1.8	L-Methionine	S-Adenosyl-L-methionine	R07767	white
+lipoyl synthase	2.8.1.8	L-Methionine	[Fe-S] cluster scaffold protein carrying a [4Fe-4S]2+ cluster	R07767	white
+lipoyl synthase	2.8.1.8	L-Methionine	[Protein]-N6-(octanoyl)-L-lysine	R07767	white
+lipoyl synthase	2.8.1.8	Oxidized [2Fe-2S] ferredoxin	H+	R07767	white
+lipoyl synthase	2.8.1.8	Oxidized [2Fe-2S] ferredoxin	Reduced [2Fe-2S] ferredoxin	R07767	white
+lipoyl synthase	2.8.1.8	Oxidized [2Fe-2S] ferredoxin	S-Adenosyl-L-methionine	R07767	white
+lipoyl synthase	2.8.1.8	Oxidized [2Fe-2S] ferredoxin	[Fe-S] cluster scaffold protein carrying a [4Fe-4S]2+ cluster	R07767	white
+lipoyl synthase	2.8.1.8	Oxidized [2Fe-2S] ferredoxin	[Protein]-N6-(octanoyl)-L-lysine	R07767	white
+lipoyl synthase	2.8.1.8	Reduced [2Fe-2S] ferredoxin	5'-Deoxyadenosine	R07767	white
+lipoyl synthase	2.8.1.8	Reduced [2Fe-2S] ferredoxin	5'-Deoxyadenosine	R12423	green
+lipoyl synthase	2.8.1.8	Reduced [2Fe-2S] ferredoxin	5'-Deoxyadenosine	R12424	green
+lipoyl synthase	2.8.1.8	Reduced [2Fe-2S] ferredoxin	Dihydrolipoylprotein	R12424	green
+lipoyl synthase	2.8.1.8	Reduced [2Fe-2S] ferredoxin	Enzyme N6-(dihydrolipoyl)lysine	R12423	green
+lipoyl synthase	2.8.1.8	Reduced [2Fe-2S] ferredoxin	Fe2+	R07767	white
+lipoyl synthase	2.8.1.8	Reduced [2Fe-2S] ferredoxin	Fe2+	R12423	green
+lipoyl synthase	2.8.1.8	Reduced [2Fe-2S] ferredoxin	Fe2+	R12424	green
+lipoyl synthase	2.8.1.8	Reduced [2Fe-2S] ferredoxin	Hydrogen sulfide	R07767	white
+lipoyl synthase	2.8.1.8	Reduced [2Fe-2S] ferredoxin	Hydrogen sulfide	R12423	green
+lipoyl synthase	2.8.1.8	Reduced [2Fe-2S] ferredoxin	Hydrogen sulfide	R12424	green
+lipoyl synthase	2.8.1.8	Reduced [2Fe-2S] ferredoxin	L-Methionine	R07767	white
+lipoyl synthase	2.8.1.8	Reduced [2Fe-2S] ferredoxin	L-Methionine	R12423	green
+lipoyl synthase	2.8.1.8	Reduced [2Fe-2S] ferredoxin	L-Methionine	R12424	green
+lipoyl synthase	2.8.1.8	Reduced [2Fe-2S] ferredoxin	Oxidized [2Fe-2S] ferredoxin	R07767	white
+lipoyl synthase	2.8.1.8	Reduced [2Fe-2S] ferredoxin	Oxidized [2Fe-2S] ferredoxin	R12423	green
+lipoyl synthase	2.8.1.8	Reduced [2Fe-2S] ferredoxin	Oxidized [2Fe-2S] ferredoxin	R12424	green
+lipoyl synthase	2.8.1.8	Reduced [2Fe-2S] ferredoxin	[Fe-S] cluster scaffold protein	R07767	white
+lipoyl synthase	2.8.1.8	Reduced [2Fe-2S] ferredoxin	[Fe-S] cluster scaffold protein	R12423	green
+lipoyl synthase	2.8.1.8	Reduced [2Fe-2S] ferredoxin	[Fe-S] cluster scaffold protein	R12424	green
+lipoyl synthase	2.8.1.8	Reduced [2Fe-2S] ferredoxin	[Protein]-N6-[(R)-dihydrolipoyl]-L-lysine	R07767	white
+lipoyl synthase	2.8.1.8	S-Adenosyl-L-methionine	5'-Deoxyadenosine	R07767	white
+lipoyl synthase	2.8.1.8	S-Adenosyl-L-methionine	5'-Deoxyadenosine	R12423	green
+lipoyl synthase	2.8.1.8	S-Adenosyl-L-methionine	5'-Deoxyadenosine	R12424	green
+lipoyl synthase	2.8.1.8	S-Adenosyl-L-methionine	Dihydrolipoylprotein	R12424	green
+lipoyl synthase	2.8.1.8	S-Adenosyl-L-methionine	Enzyme N6-(dihydrolipoyl)lysine	R12423	green
+lipoyl synthase	2.8.1.8	S-Adenosyl-L-methionine	Fe2+	R07767	white
+lipoyl synthase	2.8.1.8	S-Adenosyl-L-methionine	Fe2+	R12423	green
+lipoyl synthase	2.8.1.8	S-Adenosyl-L-methionine	Fe2+	R12424	green
+lipoyl synthase	2.8.1.8	S-Adenosyl-L-methionine	Hydrogen sulfide	R07767	white
+lipoyl synthase	2.8.1.8	S-Adenosyl-L-methionine	Hydrogen sulfide	R12423	green
+lipoyl synthase	2.8.1.8	S-Adenosyl-L-methionine	Hydrogen sulfide	R12424	green
+lipoyl synthase	2.8.1.8	S-Adenosyl-L-methionine	L-Methionine	R07767	white
+lipoyl synthase	2.8.1.8	S-Adenosyl-L-methionine	L-Methionine	R12423	green
+lipoyl synthase	2.8.1.8	S-Adenosyl-L-methionine	L-Methionine	R12424	green
+lipoyl synthase	2.8.1.8	S-Adenosyl-L-methionine	Oxidized [2Fe-2S] ferredoxin	R07767	white
+lipoyl synthase	2.8.1.8	S-Adenosyl-L-methionine	Oxidized [2Fe-2S] ferredoxin	R12423	green
+lipoyl synthase	2.8.1.8	S-Adenosyl-L-methionine	Oxidized [2Fe-2S] ferredoxin	R12424	green
+lipoyl synthase	2.8.1.8	S-Adenosyl-L-methionine	[Fe-S] cluster scaffold protein	R07767	white
+lipoyl synthase	2.8.1.8	S-Adenosyl-L-methionine	[Fe-S] cluster scaffold protein	R12423	green
+lipoyl synthase	2.8.1.8	S-Adenosyl-L-methionine	[Fe-S] cluster scaffold protein	R12424	green
+lipoyl synthase	2.8.1.8	S-Adenosyl-L-methionine	[Protein]-N6-[(R)-dihydrolipoyl]-L-lysine	R07767	white
+lipoyl synthase	2.8.1.8	[Fe-S] cluster scaffold protein	H+	R07767	white
+lipoyl synthase	2.8.1.8	[Fe-S] cluster scaffold protein	Reduced [2Fe-2S] ferredoxin	R07767	white
+lipoyl synthase	2.8.1.8	[Fe-S] cluster scaffold protein	S-Adenosyl-L-methionine	R07767	white
+lipoyl synthase	2.8.1.8	[Fe-S] cluster scaffold protein	[Fe-S] cluster scaffold protein carrying a [4Fe-4S]2+ cluster	R07767	white
+lipoyl synthase	2.8.1.8	[Fe-S] cluster scaffold protein	[Protein]-N6-(octanoyl)-L-lysine	R07767	white
+lipoyl synthase	2.8.1.8	[Fe-S] cluster scaffold protein carrying a [4Fe-4S]2+ cluster	5'-Deoxyadenosine	R07767	white
+lipoyl synthase	2.8.1.8	[Fe-S] cluster scaffold protein carrying a [4Fe-4S]2+ cluster	5'-Deoxyadenosine	R12423	green
+lipoyl synthase	2.8.1.8	[Fe-S] cluster scaffold protein carrying a [4Fe-4S]2+ cluster	5'-Deoxyadenosine	R12424	green
+lipoyl synthase	2.8.1.8	[Fe-S] cluster scaffold protein carrying a [4Fe-4S]2+ cluster	Dihydrolipoylprotein	R12424	green
+lipoyl synthase	2.8.1.8	[Fe-S] cluster scaffold protein carrying a [4Fe-4S]2+ cluster	Enzyme N6-(dihydrolipoyl)lysine	R12423	green
+lipoyl synthase	2.8.1.8	[Fe-S] cluster scaffold protein carrying a [4Fe-4S]2+ cluster	Fe2+	R07767	white
+lipoyl synthase	2.8.1.8	[Fe-S] cluster scaffold protein carrying a [4Fe-4S]2+ cluster	Fe2+	R12423	green
+lipoyl synthase	2.8.1.8	[Fe-S] cluster scaffold protein carrying a [4Fe-4S]2+ cluster	Fe2+	R12424	green
+lipoyl synthase	2.8.1.8	[Fe-S] cluster scaffold protein carrying a [4Fe-4S]2+ cluster	Hydrogen sulfide	R07767	white
+lipoyl synthase	2.8.1.8	[Fe-S] cluster scaffold protein carrying a [4Fe-4S]2+ cluster	Hydrogen sulfide	R12423	green
+lipoyl synthase	2.8.1.8	[Fe-S] cluster scaffold protein carrying a [4Fe-4S]2+ cluster	Hydrogen sulfide	R12424	green
+lipoyl synthase	2.8.1.8	[Fe-S] cluster scaffold protein carrying a [4Fe-4S]2+ cluster	L-Methionine	R07767	white
+lipoyl synthase	2.8.1.8	[Fe-S] cluster scaffold protein carrying a [4Fe-4S]2+ cluster	L-Methionine	R12423	green
+lipoyl synthase	2.8.1.8	[Fe-S] cluster scaffold protein carrying a [4Fe-4S]2+ cluster	L-Methionine	R12424	green
+lipoyl synthase	2.8.1.8	[Fe-S] cluster scaffold protein carrying a [4Fe-4S]2+ cluster	Oxidized [2Fe-2S] ferredoxin	R07767	white
+lipoyl synthase	2.8.1.8	[Fe-S] cluster scaffold protein carrying a [4Fe-4S]2+ cluster	Oxidized [2Fe-2S] ferredoxin	R12423	green
+lipoyl synthase	2.8.1.8	[Fe-S] cluster scaffold protein carrying a [4Fe-4S]2+ cluster	Oxidized [2Fe-2S] ferredoxin	R12424	green
+lipoyl synthase	2.8.1.8	[Fe-S] cluster scaffold protein carrying a [4Fe-4S]2+ cluster	[Fe-S] cluster scaffold protein	R07767	white
+lipoyl synthase	2.8.1.8	[Fe-S] cluster scaffold protein carrying a [4Fe-4S]2+ cluster	[Fe-S] cluster scaffold protein	R12423	green
+lipoyl synthase	2.8.1.8	[Fe-S] cluster scaffold protein carrying a [4Fe-4S]2+ cluster	[Fe-S] cluster scaffold protein	R12424	green
+lipoyl synthase	2.8.1.8	[Fe-S] cluster scaffold protein carrying a [4Fe-4S]2+ cluster	[Protein]-N6-[(R)-dihydrolipoyl]-L-lysine	R07767	white
+lipoyl synthase	2.8.1.8	[Glycine cleavage system H]-N6-octanoyl-L-lysine	5'-Deoxyadenosine	R12424	green
+lipoyl synthase	2.8.1.8	[Glycine cleavage system H]-N6-octanoyl-L-lysine	Dihydrolipoylprotein	R12424	green
+lipoyl synthase	2.8.1.8	[Glycine cleavage system H]-N6-octanoyl-L-lysine	Fe2+	R12424	green
+lipoyl synthase	2.8.1.8	[Glycine cleavage system H]-N6-octanoyl-L-lysine	Hydrogen sulfide	R12424	green
+lipoyl synthase	2.8.1.8	[Glycine cleavage system H]-N6-octanoyl-L-lysine	L-Methionine	R12424	green
+lipoyl synthase	2.8.1.8	[Glycine cleavage system H]-N6-octanoyl-L-lysine	Oxidized [2Fe-2S] ferredoxin	R12424	green
+lipoyl synthase	2.8.1.8	[Glycine cleavage system H]-N6-octanoyl-L-lysine	[Fe-S] cluster scaffold protein	R12424	green
+lipoyl synthase	2.8.1.8	[Lipoyl-carrier protein E2]-N6-octanoyl-L-lysine	5'-Deoxyadenosine	R12423	green
+lipoyl synthase	2.8.1.8	[Lipoyl-carrier protein E2]-N6-octanoyl-L-lysine	Enzyme N6-(dihydrolipoyl)lysine	R12423	green
+lipoyl synthase	2.8.1.8	[Lipoyl-carrier protein E2]-N6-octanoyl-L-lysine	Fe2+	R12423	green
+lipoyl synthase	2.8.1.8	[Lipoyl-carrier protein E2]-N6-octanoyl-L-lysine	Hydrogen sulfide	R12423	green
+lipoyl synthase	2.8.1.8	[Lipoyl-carrier protein E2]-N6-octanoyl-L-lysine	L-Methionine	R12423	green
+lipoyl synthase	2.8.1.8	[Lipoyl-carrier protein E2]-N6-octanoyl-L-lysine	Oxidized [2Fe-2S] ferredoxin	R12423	green
+lipoyl synthase	2.8.1.8	[Lipoyl-carrier protein E2]-N6-octanoyl-L-lysine	[Fe-S] cluster scaffold protein	R12423	green
+lipoyl synthase	2.8.1.8	[Protein]-N6-(octanoyl)-L-lysine	5'-Deoxyadenosine	R07767	white
+lipoyl synthase	2.8.1.8	[Protein]-N6-(octanoyl)-L-lysine	Fe2+	R07767	white
+lipoyl synthase	2.8.1.8	[Protein]-N6-(octanoyl)-L-lysine	Hydrogen sulfide	R07767	white
+lipoyl synthase	2.8.1.8	[Protein]-N6-(octanoyl)-L-lysine	L-Methionine	R07767	white
+lipoyl synthase	2.8.1.8	[Protein]-N6-(octanoyl)-L-lysine	Oxidized [2Fe-2S] ferredoxin	R07767	white
+lipoyl synthase	2.8.1.8	[Protein]-N6-(octanoyl)-L-lysine	[Fe-S] cluster scaffold protein	R07767	white
+lipoyl synthase	2.8.1.8	[Protein]-N6-(octanoyl)-L-lysine	[Protein]-N6-[(R)-dihydrolipoyl]-L-lysine	R07767	white
+lipoyl synthase	2.8.1.8	[Protein]-N6-[(R)-dihydrolipoyl]-L-lysine	H+	R07767	white
+lipoyl synthase	2.8.1.8	[Protein]-N6-[(R)-dihydrolipoyl]-L-lysine	Reduced [2Fe-2S] ferredoxin	R07767	white
+lipoyl synthase	2.8.1.8	[Protein]-N6-[(R)-dihydrolipoyl]-L-lysine	S-Adenosyl-L-methionine	R07767	white
+lipoyl synthase	2.8.1.8	[Protein]-N6-[(R)-dihydrolipoyl]-L-lysine	[Fe-S] cluster scaffold protein carrying a [4Fe-4S]2+ cluster	R07767	white
+lipoyl synthase	2.8.1.8	[Protein]-N6-[(R)-dihydrolipoyl]-L-lysine	[Protein]-N6-(octanoyl)-L-lysine	R07767	white
+lipoyl(octanoyl) transferase	2.3.1.181	Acyl-carrier protein	Octanoyl-[acp]	R07766	white
+lipoyl(octanoyl) transferase	2.3.1.181	Acyl-carrier protein	[Lipoyl-carrier protein]-L-lysine	R07766	white
+lipoyl(octanoyl) transferase	2.3.1.181	Glycine cleavage system H	Acyl-carrier protein	R12428	green
+lipoyl(octanoyl) transferase	2.3.1.181	Glycine cleavage system H	[Glycine cleavage system H]-N6-octanoyl-L-lysine	R12428	green
+lipoyl(octanoyl) transferase	2.3.1.181	Lipoyl-carrier protein E2	Acyl-carrier protein	R12427	green
+lipoyl(octanoyl) transferase	2.3.1.181	Lipoyl-carrier protein E2	[Lipoyl-carrier protein E2]-N6-octanoyl-L-lysine	R12427	green
+lipoyl(octanoyl) transferase	2.3.1.181	Octanoyl-[acp]	Acyl-carrier protein	R07766	white
+lipoyl(octanoyl) transferase	2.3.1.181	Octanoyl-[acp]	Acyl-carrier protein	R12427	green
+lipoyl(octanoyl) transferase	2.3.1.181	Octanoyl-[acp]	Acyl-carrier protein	R12428	green
+lipoyl(octanoyl) transferase	2.3.1.181	Octanoyl-[acp]	[Glycine cleavage system H]-N6-octanoyl-L-lysine	R12428	green
+lipoyl(octanoyl) transferase	2.3.1.181	Octanoyl-[acp]	[Lipoyl-carrier protein E2]-N6-octanoyl-L-lysine	R12427	green
+lipoyl(octanoyl) transferase	2.3.1.181	Octanoyl-[acp]	[Protein]-N6-(octanoyl)-L-lysine	R07766	white
+lipoyl(octanoyl) transferase	2.3.1.181	[Lipoyl-carrier protein]-L-lysine	Acyl-carrier protein	R07766	white
+lipoyl(octanoyl) transferase	2.3.1.181	[Lipoyl-carrier protein]-L-lysine	[Protein]-N6-(octanoyl)-L-lysine	R07766	white
+lipoyl(octanoyl) transferase	2.3.1.181	[Protein]-N6-(octanoyl)-L-lysine	Octanoyl-[acp]	R07766	white
+lipoyl(octanoyl) transferase	2.3.1.181	[Protein]-N6-(octanoyl)-L-lysine	[Lipoyl-carrier protein]-L-lysine	R07766	white
+lipoyl(octanoyl) transferase 2	2.3.1.181	Acyl-carrier protein	Glycine cleavage system H	R12428	white
+lipoyl(octanoyl) transferase 2	2.3.1.181	Acyl-carrier protein	Octanoyl-[acp]	R12428	white
+lipoyl(octanoyl) transferase 2	2.3.1.181	Glycine cleavage system H	Acyl-carrier protein	R12428	white
+lipoyl(octanoyl) transferase 2	2.3.1.181	Glycine cleavage system H	[Glycine cleavage system H]-N6-octanoyl-L-lysine	R12428	white
+lipoyl(octanoyl) transferase 2	2.3.1.181	Octanoyl-[acp]	Acyl-carrier protein	R12428	white
+lipoyl(octanoyl) transferase 2	2.3.1.181	Octanoyl-[acp]	[Glycine cleavage system H]-N6-octanoyl-L-lysine	R12428	white
+lipoyl(octanoyl) transferase 2	2.3.1.181	[Glycine cleavage system H]-N6-octanoyl-L-lysine	Glycine cleavage system H	R12428	white
+lipoyl(octanoyl) transferase 2	2.3.1.181	[Glycine cleavage system H]-N6-octanoyl-L-lysine	Octanoyl-[acp]	R12428	white
+lipoyl-AMP:Nepsilon-lysine lipoyltransferase / lipoyl(octanoyl) transferase	2.3.1.181	Acyl-carrier protein	Lipoyl-carrier protein E2	R12427	white
+lipoyl-AMP:Nepsilon-lysine lipoyltransferase / lipoyl(octanoyl) transferase	2.3.1.181	Acyl-carrier protein	Octanoyl-[acp]	R12427	white
+lipoyl-AMP:Nepsilon-lysine lipoyltransferase / lipoyl(octanoyl) transferase	2.3.1.181	Lipoyl-carrier protein E2	Acyl-carrier protein	R12427	white
+lipoyl-AMP:Nepsilon-lysine lipoyltransferase / lipoyl(octanoyl) transferase	2.3.1.181	Lipoyl-carrier protein E2	[Lipoyl-carrier protein E2]-N6-octanoyl-L-lysine	R12427	white
+lipoyl-AMP:Nepsilon-lysine lipoyltransferase / lipoyl(octanoyl) transferase	2.3.1.181	Octanoyl-[acp]	Acyl-carrier protein	R12427	white
+lipoyl-AMP:Nepsilon-lysine lipoyltransferase / lipoyl(octanoyl) transferase	2.3.1.181	Octanoyl-[acp]	[Lipoyl-carrier protein E2]-N6-octanoyl-L-lysine	R12427	white
+lipoyl-AMP:Nepsilon-lysine lipoyltransferase / lipoyl(octanoyl) transferase	2.3.1.181	[Lipoyl-carrier protein E2]-N6-octanoyl-L-lysine	Lipoyl-carrier protein E2	R12427	white
+lipoyl-AMP:Nepsilon-lysine lipoyltransferase / lipoyl(octanoyl) transferase	2.3.1.181	[Lipoyl-carrier protein E2]-N6-octanoyl-L-lysine	Octanoyl-[acp]	R12427	white
+lipoyltransferase 1	2.3.1.204	AMP	Lipoyl-AMP	R07771	white
+lipoyltransferase 1	2.3.1.204	AMP	[Lipoyl-carrier protein]-L-lysine	R07771	white
+lipoyltransferase 1	2.3.1.204	Lipoyl-AMP	AMP	R07771	white
+lipoyltransferase 1	2.3.1.204	Lipoyl-AMP	Protein N6-(lipoyl)lysine	R07771	white
+lipoyltransferase 1	2.3.1.204	Protein N6-(lipoyl)lysine	Lipoyl-AMP	R07771	white
+lipoyltransferase 1	2.3.1.204	Protein N6-(lipoyl)lysine	[Lipoyl-carrier protein]-L-lysine	R07771	white
+lipoyltransferase 1	2.3.1.204	[Lipoyl-carrier protein]-L-lysine	AMP	R07771	white
+lipoyltransferase 1	2.3.1.204	[Lipoyl-carrier protein]-L-lysine	Protein N6-(lipoyl)lysine	R07771	white
+medium-chain acyl-CoA ligase / lipoate-activating enzyme	6.2.1.2	AMP	ATP	R01176	white
+medium-chain acyl-CoA ligase / lipoate-activating enzyme	6.2.1.2	AMP	Butanoic acid	R01176	white
+medium-chain acyl-CoA ligase / lipoate-activating enzyme	6.2.1.2	AMP	CoA	R01176	white
+medium-chain acyl-CoA ligase / lipoate-activating enzyme	6.2.1.2	ATP	AMP	R01176	white
+medium-chain acyl-CoA ligase / lipoate-activating enzyme	6.2.1.2	ATP	Butanoyl-CoA	R01176	white
+medium-chain acyl-CoA ligase / lipoate-activating enzyme	6.2.1.2	ATP	Diphosphate	R01176	white
+medium-chain acyl-CoA ligase / lipoate-activating enzyme	6.2.1.2	Butanoic acid	AMP	R01176	white
+medium-chain acyl-CoA ligase / lipoate-activating enzyme	6.2.1.2	Butanoic acid	Butanoyl-CoA	R01176	white
+medium-chain acyl-CoA ligase / lipoate-activating enzyme	6.2.1.2	Butanoic acid	Diphosphate	R01176	white
+medium-chain acyl-CoA ligase / lipoate-activating enzyme	6.2.1.2	Butanoyl-CoA	ATP	R01176	white
+medium-chain acyl-CoA ligase / lipoate-activating enzyme	6.2.1.2	Butanoyl-CoA	Butanoic acid	R01176	white
+medium-chain acyl-CoA ligase / lipoate-activating enzyme	6.2.1.2	Butanoyl-CoA	CoA	R01176	white
+medium-chain acyl-CoA ligase / lipoate-activating enzyme	6.2.1.2	CoA	AMP	R01176	white
+medium-chain acyl-CoA ligase / lipoate-activating enzyme	6.2.1.2	CoA	Butanoyl-CoA	R01176	white
+medium-chain acyl-CoA ligase / lipoate-activating enzyme	6.2.1.2	CoA	Diphosphate	R01176	white
+medium-chain acyl-CoA ligase / lipoate-activating enzyme	6.2.1.2	Diphosphate	ATP	R01176	white
+medium-chain acyl-CoA ligase / lipoate-activating enzyme	6.2.1.2	Diphosphate	Butanoic acid	R01176	white
+medium-chain acyl-CoA ligase / lipoate-activating enzyme	6.2.1.2	Diphosphate	CoA	R01176	white
+multifunctional 2-oxoglutarate metabolism enzyme	2.2.1.5	2-Oxoglutarate	3-Carboxy-1-hydroxypropyl-ThPP	R00621	green
+multifunctional 2-oxoglutarate metabolism enzyme	2.2.1.5	2-Oxoglutarate	CO2	R00621	green
+multifunctional 2-oxoglutarate metabolism enzyme	2.2.1.5	3-Carboxy-1-hydroxypropyl-ThPP	Thiamin diphosphate	R03316	green
+multifunctional 2-oxoglutarate metabolism enzyme	2.2.1.5	3-Carboxy-1-hydroxypropyl-ThPP	[Dihydrolipoyllysine-residue succinyltransferase] S-succinyldihydrolipoyllysine	R03316	green
+multifunctional 2-oxoglutarate metabolism enzyme	2.2.1.5	Enzyme N6-(dihydrolipoyl)lysine	CoA	R02570	green
+multifunctional 2-oxoglutarate metabolism enzyme	2.2.1.5	Enzyme N6-(dihydrolipoyl)lysine	[Dihydrolipoyllysine-residue succinyltransferase] S-succinyldihydrolipoyllysine	R02570	green
+multifunctional 2-oxoglutarate metabolism enzyme	2.2.1.5	Enzyme N6-(lipoyl)lysine	Thiamin diphosphate	R03316	green
+multifunctional 2-oxoglutarate metabolism enzyme	2.2.1.5	Enzyme N6-(lipoyl)lysine	[Dihydrolipoyllysine-residue succinyltransferase] S-succinyldihydrolipoyllysine	R03316	green
+multifunctional 2-oxoglutarate metabolism enzyme	2.2.1.5	Succinyl-CoA	CoA	R02570	green
+multifunctional 2-oxoglutarate metabolism enzyme	2.2.1.5	Succinyl-CoA	[Dihydrolipoyllysine-residue succinyltransferase] S-succinyldihydrolipoyllysine	R02570	green
+multifunctional 2-oxoglutarate metabolism enzyme	2.2.1.5	Thiamin diphosphate	3-Carboxy-1-hydroxypropyl-ThPP	R00621	green
+multifunctional 2-oxoglutarate metabolism enzyme	2.2.1.5	Thiamin diphosphate	CO2	R00621	green
+octanoyl-CoA:protein transferase	2.3.1.-	CoA	Lipoyl-carrier protein E2	R12431	white
+octanoyl-CoA:protein transferase	2.3.1.-	CoA	Octanoyl-CoA	R12431	white
+octanoyl-CoA:protein transferase	2.3.1.-	Lipoyl-carrier protein E2	CoA	R12431	white
+octanoyl-CoA:protein transferase	2.3.1.-	Lipoyl-carrier protein E2	[Lipoyl-carrier protein E2]-N6-octanoyl-L-lysine	R12431	white
+octanoyl-CoA:protein transferase	2.3.1.-	Octanoyl-CoA	CoA	R12431	white
+octanoyl-CoA:protein transferase	2.3.1.-	Octanoyl-CoA	[Lipoyl-carrier protein E2]-N6-octanoyl-L-lysine	R12431	white
+octanoyl-CoA:protein transferase	2.3.1.-	[Lipoyl-carrier protein E2]-N6-octanoyl-L-lysine	Lipoyl-carrier protein E2	R12431	white
+octanoyl-CoA:protein transferase	2.3.1.-	[Lipoyl-carrier protein E2]-N6-octanoyl-L-lysine	Octanoyl-CoA	R12431	white
+octanoyl-[GcvH]:protein N-octanoyltransferase	2.3.1.204	Dihydrolipoylprotein	Enzyme N6-(dihydrolipoyl)lysine	R12432	green
+octanoyl-[GcvH]:protein N-octanoyltransferase	2.3.1.204	Dihydrolipoylprotein	Glycine cleavage system H	R12432	green
+octanoyl-[GcvH]:protein N-octanoyltransferase	2.3.1.204	Lipoyl-carrier protein E2	Enzyme N6-(dihydrolipoyl)lysine	R12432	green
+octanoyl-[GcvH]:protein N-octanoyltransferase	2.3.1.204	Lipoyl-carrier protein E2	Glycine cleavage system H	R12425	green
+octanoyl-[GcvH]:protein N-octanoyltransferase	2.3.1.204	Lipoyl-carrier protein E2	Glycine cleavage system H	R12432	green
+octanoyl-[GcvH]:protein N-octanoyltransferase	2.3.1.204	Lipoyl-carrier protein E2	[Lipoyl-carrier protein E2]-N6-octanoyl-L-lysine	R12425	green
+octanoyl-[GcvH]:protein N-octanoyltransferase	2.3.1.204	[Glycine cleavage system H]-N6-octanoyl-L-lysine	Glycine cleavage system H	R12425	green
+octanoyl-[GcvH]:protein N-octanoyltransferase	2.3.1.204	[Glycine cleavage system H]-N6-octanoyl-L-lysine	[Lipoyl-carrier protein E2]-N6-octanoyl-L-lysine	R12425	green
+pyruvate dehydrogenase E1 component	1.2.4.1	2-(alpha-Hydroxyethyl)thiamine diphosphate	Thiamin diphosphate	R03270	green
+pyruvate dehydrogenase E1 component	1.2.4.1	2-(alpha-Hydroxyethyl)thiamine diphosphate	[Dihydrolipoyllysine-residue acetyltransferase] S-acetyldihydrolipoyllysine	R03270	green
+pyruvate dehydrogenase E1 component	1.2.4.1	Enzyme N6-(lipoyl)lysine	Thiamin diphosphate	R03270	green
+pyruvate dehydrogenase E1 component	1.2.4.1	Enzyme N6-(lipoyl)lysine	[Dihydrolipoyllysine-residue acetyltransferase] S-acetyldihydrolipoyllysine	R03270	green
+pyruvate dehydrogenase E1 component	1.2.4.1	Pyruvate	2-(alpha-Hydroxyethyl)thiamine diphosphate	R00014	green
+pyruvate dehydrogenase E1 component	1.2.4.1	Pyruvate	CO2	R00014	green
+pyruvate dehydrogenase E1 component	1.2.4.1	Thiamin diphosphate	2-(alpha-Hydroxyethyl)thiamine diphosphate	R00014	green
+pyruvate dehydrogenase E1 component	1.2.4.1	Thiamin diphosphate	CO2	R00014	green
+pyruvate dehydrogenase E2 component (dihydrolipoyllysine-residue acetyltransferase)	2.3.1.12	Acetyl-CoA	CoA	R02569	green
+pyruvate dehydrogenase E2 component (dihydrolipoyllysine-residue acetyltransferase)	2.3.1.12	Acetyl-CoA	[Dihydrolipoyllysine-residue acetyltransferase] S-acetyldihydrolipoyllysine	R02569	green
+pyruvate dehydrogenase E2 component (dihydrolipoyllysine-residue acetyltransferase)	2.3.1.12	Enzyme N6-(dihydrolipoyl)lysine	CoA	R02569	green
+pyruvate dehydrogenase E2 component (dihydrolipoyllysine-residue acetyltransferase)	2.3.1.12	Enzyme N6-(dihydrolipoyl)lysine	[Dihydrolipoyllysine-residue acetyltransferase] S-acetyldihydrolipoyllysine	R02569	green

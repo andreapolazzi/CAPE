@@ -1,346 +1,356 @@
-enzyme_name	EC	source	target	color
-2-oxoisovalerate/pyruvate ferredoxin oxidoreductase gamma subunit	1.2.7.7	Acetyl-CoA	CoA	white
-2-oxoisovalerate/pyruvate ferredoxin oxidoreductase gamma subunit	1.2.7.7	Acetyl-CoA	Oxidized ferredoxin	white
-2-oxoisovalerate/pyruvate ferredoxin oxidoreductase gamma subunit	1.2.7.7	Acetyl-CoA	Pyruvate	white
-2-oxoisovalerate/pyruvate ferredoxin oxidoreductase gamma subunit	1.2.7.7	CO2	CoA	white
-2-oxoisovalerate/pyruvate ferredoxin oxidoreductase gamma subunit	1.2.7.7	CO2	Oxidized ferredoxin	white
-2-oxoisovalerate/pyruvate ferredoxin oxidoreductase gamma subunit	1.2.7.7	CO2	Pyruvate	white
-2-oxoisovalerate/pyruvate ferredoxin oxidoreductase gamma subunit	1.2.7.7	CoA	Acetyl-CoA	white
-2-oxoisovalerate/pyruvate ferredoxin oxidoreductase gamma subunit	1.2.7.7	CoA	CO2	white
-2-oxoisovalerate/pyruvate ferredoxin oxidoreductase gamma subunit	1.2.7.7	CoA	H+	white
-2-oxoisovalerate/pyruvate ferredoxin oxidoreductase gamma subunit	1.2.7.7	CoA	Reduced ferredoxin	white
-2-oxoisovalerate/pyruvate ferredoxin oxidoreductase gamma subunit	1.2.7.7	H+	CoA	white
-2-oxoisovalerate/pyruvate ferredoxin oxidoreductase gamma subunit	1.2.7.7	H+	Oxidized ferredoxin	white
-2-oxoisovalerate/pyruvate ferredoxin oxidoreductase gamma subunit	1.2.7.7	H+	Pyruvate	white
-2-oxoisovalerate/pyruvate ferredoxin oxidoreductase gamma subunit	1.2.7.7	Oxidized ferredoxin	Acetyl-CoA	white
-2-oxoisovalerate/pyruvate ferredoxin oxidoreductase gamma subunit	1.2.7.7	Oxidized ferredoxin	CO2	white
-2-oxoisovalerate/pyruvate ferredoxin oxidoreductase gamma subunit	1.2.7.7	Oxidized ferredoxin	H+	white
-2-oxoisovalerate/pyruvate ferredoxin oxidoreductase gamma subunit	1.2.7.7	Oxidized ferredoxin	Reduced ferredoxin	white
-2-oxoisovalerate/pyruvate ferredoxin oxidoreductase gamma subunit	1.2.7.7	Pyruvate	Acetyl-CoA	white
-2-oxoisovalerate/pyruvate ferredoxin oxidoreductase gamma subunit	1.2.7.7	Pyruvate	CO2	white
-2-oxoisovalerate/pyruvate ferredoxin oxidoreductase gamma subunit	1.2.7.7	Pyruvate	H+	white
-2-oxoisovalerate/pyruvate ferredoxin oxidoreductase gamma subunit	1.2.7.7	Pyruvate	Reduced ferredoxin	white
-2-oxoisovalerate/pyruvate ferredoxin oxidoreductase gamma subunit	1.2.7.7	Reduced ferredoxin	CoA	white
-2-oxoisovalerate/pyruvate ferredoxin oxidoreductase gamma subunit	1.2.7.7	Reduced ferredoxin	Oxidized ferredoxin	white
-2-oxoisovalerate/pyruvate ferredoxin oxidoreductase gamma subunit	1.2.7.7	Reduced ferredoxin	Pyruvate	white
-4-methyl-5-nitrocatechol 5-monooxygenase	1.14.13.210	2-Hydroxy-5-methylquinone	4-Methyl-5-nitrocatechol	white
-4-methyl-5-nitrocatechol 5-monooxygenase	1.14.13.210	2-Hydroxy-5-methylquinone	H+	white
-4-methyl-5-nitrocatechol 5-monooxygenase	1.14.13.210	2-Hydroxy-5-methylquinone	NADPH	white
-4-methyl-5-nitrocatechol 5-monooxygenase	1.14.13.210	2-Hydroxy-5-methylquinone	Oxygen	white
-4-methyl-5-nitrocatechol 5-monooxygenase	1.14.13.210	4-Methyl-5-nitrocatechol	2-Hydroxy-5-methylquinone	white
-4-methyl-5-nitrocatechol 5-monooxygenase	1.14.13.210	4-Methyl-5-nitrocatechol	H2O	white
-4-methyl-5-nitrocatechol 5-monooxygenase	1.14.13.210	4-Methyl-5-nitrocatechol	NADP+	white
-4-methyl-5-nitrocatechol 5-monooxygenase	1.14.13.210	4-Methyl-5-nitrocatechol	Nitrite	white
-4-methyl-5-nitrocatechol 5-monooxygenase	1.14.13.210	H+	2-Hydroxy-5-methylquinone	white
-4-methyl-5-nitrocatechol 5-monooxygenase	1.14.13.210	H+	H2O	white
-4-methyl-5-nitrocatechol 5-monooxygenase	1.14.13.210	H+	NADP+	white
-4-methyl-5-nitrocatechol 5-monooxygenase	1.14.13.210	H+	Nitrite	white
-4-methyl-5-nitrocatechol 5-monooxygenase	1.14.13.210	H2O	4-Methyl-5-nitrocatechol	white
-4-methyl-5-nitrocatechol 5-monooxygenase	1.14.13.210	H2O	H+	white
-4-methyl-5-nitrocatechol 5-monooxygenase	1.14.13.210	H2O	NADPH	white
-4-methyl-5-nitrocatechol 5-monooxygenase	1.14.13.210	H2O	Oxygen	white
-4-methyl-5-nitrocatechol 5-monooxygenase	1.14.13.210	NADP+	4-Methyl-5-nitrocatechol	white
-4-methyl-5-nitrocatechol 5-monooxygenase	1.14.13.210	NADP+	H+	white
-4-methyl-5-nitrocatechol 5-monooxygenase	1.14.13.210	NADP+	NADPH	white
-4-methyl-5-nitrocatechol 5-monooxygenase	1.14.13.210	NADP+	Oxygen	white
-4-methyl-5-nitrocatechol 5-monooxygenase	1.14.13.210	NADPH	2-Hydroxy-5-methylquinone	white
-4-methyl-5-nitrocatechol 5-monooxygenase	1.14.13.210	NADPH	H2O	white
-4-methyl-5-nitrocatechol 5-monooxygenase	1.14.13.210	NADPH	NADP+	white
-4-methyl-5-nitrocatechol 5-monooxygenase	1.14.13.210	NADPH	Nitrite	white
-4-methyl-5-nitrocatechol 5-monooxygenase	1.14.13.210	Nitrite	4-Methyl-5-nitrocatechol	white
-4-methyl-5-nitrocatechol 5-monooxygenase	1.14.13.210	Nitrite	H+	white
-4-methyl-5-nitrocatechol 5-monooxygenase	1.14.13.210	Nitrite	NADPH	white
-4-methyl-5-nitrocatechol 5-monooxygenase	1.14.13.210	Nitrite	Oxygen	white
-4-methyl-5-nitrocatechol 5-monooxygenase	1.14.13.210	Oxygen	2-Hydroxy-5-methylquinone	white
-4-methyl-5-nitrocatechol 5-monooxygenase	1.14.13.210	Oxygen	H2O	white
-4-methyl-5-nitrocatechol 5-monooxygenase	1.14.13.210	Oxygen	NADP+	white
-4-methyl-5-nitrocatechol 5-monooxygenase	1.14.13.210	Oxygen	Nitrite	white
-N-ethylmaleimide reductase	1.-.-.-	H+	2-Hydroxylamino-4,6-dinitrotoluene	green
-N-ethylmaleimide reductase	1.-.-.-	H+	4-Hydroxylamino-2,6-dinitrotoluene	green
-N-ethylmaleimide reductase	1.-.-.-	H+	H2O	green
-N-ethylmaleimide reductase	1.-.-.-	H+	NAD+	green
-N-ethylmaleimide reductase	1.-.-.-	H+	NADP+	green
-N-ethylmaleimide reductase	1.-.-.-	NADH	2-Hydroxylamino-4,6-dinitrotoluene	green
-N-ethylmaleimide reductase	1.-.-.-	NADH	4-Hydroxylamino-2,6-dinitrotoluene	green
-N-ethylmaleimide reductase	1.-.-.-	NADH	H2O	green
-N-ethylmaleimide reductase	1.-.-.-	NADH	NAD+	green
-N-ethylmaleimide reductase	1.-.-.-	NADPH	4-Hydroxylamino-2,6-dinitrotoluene	green
-N-ethylmaleimide reductase	1.-.-.-	NADPH	H2O	green
-N-ethylmaleimide reductase	1.-.-.-	NADPH	NADP+	green
-N-ethylmaleimide reductase	1.-.-.-	Trinitrotoluene	2-Hydroxylamino-4,6-dinitrotoluene	green
-N-ethylmaleimide reductase	1.-.-.-	Trinitrotoluene	4-Hydroxylamino-2,6-dinitrotoluene	green
-N-ethylmaleimide reductase	1.-.-.-	Trinitrotoluene	H2O	green
-N-ethylmaleimide reductase	1.-.-.-	Trinitrotoluene	NAD+	green
-N-ethylmaleimide reductase	1.-.-.-	Trinitrotoluene	NADP+	green
-anaerobic carbon-monoxide dehydrogenase catalytic subunit	1.2.7.4	CO	CO2	white
-anaerobic carbon-monoxide dehydrogenase catalytic subunit	1.2.7.4	CO	H+	white
-anaerobic carbon-monoxide dehydrogenase catalytic subunit	1.2.7.4	CO	Reduced ferredoxin	white
-anaerobic carbon-monoxide dehydrogenase catalytic subunit	1.2.7.4	CO2	CO	white
-anaerobic carbon-monoxide dehydrogenase catalytic subunit	1.2.7.4	CO2	H2O	white
-anaerobic carbon-monoxide dehydrogenase catalytic subunit	1.2.7.4	CO2	Oxidized ferredoxin	white
-anaerobic carbon-monoxide dehydrogenase catalytic subunit	1.2.7.4	H+	CO	white
-anaerobic carbon-monoxide dehydrogenase catalytic subunit	1.2.7.4	H+	H2O	white
-anaerobic carbon-monoxide dehydrogenase catalytic subunit	1.2.7.4	H+	Oxidized ferredoxin	white
-anaerobic carbon-monoxide dehydrogenase catalytic subunit	1.2.7.4	H2O	CO2	white
-anaerobic carbon-monoxide dehydrogenase catalytic subunit	1.2.7.4	H2O	H+	white
-anaerobic carbon-monoxide dehydrogenase catalytic subunit	1.2.7.4	H2O	Reduced ferredoxin	white
-anaerobic carbon-monoxide dehydrogenase catalytic subunit	1.2.7.4	Oxidized ferredoxin	CO2	white
-anaerobic carbon-monoxide dehydrogenase catalytic subunit	1.2.7.4	Oxidized ferredoxin	H+	white
-anaerobic carbon-monoxide dehydrogenase catalytic subunit	1.2.7.4	Oxidized ferredoxin	Reduced ferredoxin	white
-anaerobic carbon-monoxide dehydrogenase catalytic subunit	1.2.7.4	Reduced ferredoxin	CO	white
-anaerobic carbon-monoxide dehydrogenase catalytic subunit	1.2.7.4	Reduced ferredoxin	H2O	white
-anaerobic carbon-monoxide dehydrogenase catalytic subunit	1.2.7.4	Reduced ferredoxin	Oxidized ferredoxin	white
-anaerobic carbon-monoxide dehydrogenase iron sulfur subunit	1.2.7.4	CO	CO2	white
-anaerobic carbon-monoxide dehydrogenase iron sulfur subunit	1.2.7.4	CO	H+	white
-anaerobic carbon-monoxide dehydrogenase iron sulfur subunit	1.2.7.4	CO	Reduced ferredoxin	white
-anaerobic carbon-monoxide dehydrogenase iron sulfur subunit	1.2.7.4	CO2	CO	white
-anaerobic carbon-monoxide dehydrogenase iron sulfur subunit	1.2.7.4	CO2	H2O	white
-anaerobic carbon-monoxide dehydrogenase iron sulfur subunit	1.2.7.4	CO2	Oxidized ferredoxin	white
-anaerobic carbon-monoxide dehydrogenase iron sulfur subunit	1.2.7.4	H+	CO	white
-anaerobic carbon-monoxide dehydrogenase iron sulfur subunit	1.2.7.4	H+	H2O	white
-anaerobic carbon-monoxide dehydrogenase iron sulfur subunit	1.2.7.4	H+	Oxidized ferredoxin	white
-anaerobic carbon-monoxide dehydrogenase iron sulfur subunit	1.2.7.4	H2O	CO2	white
-anaerobic carbon-monoxide dehydrogenase iron sulfur subunit	1.2.7.4	H2O	H+	white
-anaerobic carbon-monoxide dehydrogenase iron sulfur subunit	1.2.7.4	H2O	Reduced ferredoxin	white
-anaerobic carbon-monoxide dehydrogenase iron sulfur subunit	1.2.7.4	Oxidized ferredoxin	CO2	white
-anaerobic carbon-monoxide dehydrogenase iron sulfur subunit	1.2.7.4	Oxidized ferredoxin	H+	white
-anaerobic carbon-monoxide dehydrogenase iron sulfur subunit	1.2.7.4	Oxidized ferredoxin	Reduced ferredoxin	white
-anaerobic carbon-monoxide dehydrogenase iron sulfur subunit	1.2.7.4	Reduced ferredoxin	CO	white
-anaerobic carbon-monoxide dehydrogenase iron sulfur subunit	1.2.7.4	Reduced ferredoxin	H2O	white
-anaerobic carbon-monoxide dehydrogenase iron sulfur subunit	1.2.7.4	Reduced ferredoxin	Oxidized ferredoxin	white
-arylamine N-acetyltransferase	2.3.1.5	1,7-Dimethylxanthine	5-Acetylamino-6-formylamino-3-methyluracil	white
-arylamine N-acetyltransferase	2.3.1.5	5-Acetylamino-6-formylamino-3-methyluracil	1,7-Dimethylxanthine	white
-dissimilatory sulfite reductase alpha subunit	1.8.1.22	H+	H2O	white
-dissimilatory sulfite reductase alpha subunit	1.8.1.22	H+	HO-	white
-dissimilatory sulfite reductase alpha subunit	1.8.1.22	H+	NAD+	white
-dissimilatory sulfite reductase alpha subunit	1.8.1.22	H+	Trithionate	white
-dissimilatory sulfite reductase alpha subunit	1.8.1.22	H2O	H+	white
-dissimilatory sulfite reductase alpha subunit	1.8.1.22	H2O	HSO3-	white
-dissimilatory sulfite reductase alpha subunit	1.8.1.22	H2O	NADH	white
-dissimilatory sulfite reductase alpha subunit	1.8.1.22	HO-	H+	white
-dissimilatory sulfite reductase alpha subunit	1.8.1.22	HO-	HSO3-	white
-dissimilatory sulfite reductase alpha subunit	1.8.1.22	HO-	NADH	white
-dissimilatory sulfite reductase alpha subunit	1.8.1.22	HSO3-	H2O	white
-dissimilatory sulfite reductase alpha subunit	1.8.1.22	HSO3-	HO-	white
-dissimilatory sulfite reductase alpha subunit	1.8.1.22	HSO3-	NAD+	white
-dissimilatory sulfite reductase alpha subunit	1.8.1.22	HSO3-	Trithionate	white
-dissimilatory sulfite reductase alpha subunit	1.8.1.22	NAD+	H+	white
-dissimilatory sulfite reductase alpha subunit	1.8.1.22	NAD+	HSO3-	white
-dissimilatory sulfite reductase alpha subunit	1.8.1.22	NAD+	NADH	white
-dissimilatory sulfite reductase alpha subunit	1.8.1.22	NADH	H2O	white
-dissimilatory sulfite reductase alpha subunit	1.8.1.22	NADH	HO-	white
-dissimilatory sulfite reductase alpha subunit	1.8.1.22	NADH	NAD+	white
-dissimilatory sulfite reductase alpha subunit	1.8.1.22	NADH	Trithionate	white
-dissimilatory sulfite reductase alpha subunit	1.8.1.22	Trithionate	H+	white
-dissimilatory sulfite reductase alpha subunit	1.8.1.22	Trithionate	HSO3-	white
-dissimilatory sulfite reductase alpha subunit	1.8.1.22	Trithionate	NADH	white
-dissimilatory sulfite reductase beta subunit	1.8.1.22	H+	H2O	white
-dissimilatory sulfite reductase beta subunit	1.8.1.22	H+	HO-	white
-dissimilatory sulfite reductase beta subunit	1.8.1.22	H+	NAD+	white
-dissimilatory sulfite reductase beta subunit	1.8.1.22	H+	Trithionate	white
-dissimilatory sulfite reductase beta subunit	1.8.1.22	H2O	H+	white
-dissimilatory sulfite reductase beta subunit	1.8.1.22	H2O	HSO3-	white
-dissimilatory sulfite reductase beta subunit	1.8.1.22	H2O	NADH	white
-dissimilatory sulfite reductase beta subunit	1.8.1.22	HO-	H+	white
-dissimilatory sulfite reductase beta subunit	1.8.1.22	HO-	HSO3-	white
-dissimilatory sulfite reductase beta subunit	1.8.1.22	HO-	NADH	white
-dissimilatory sulfite reductase beta subunit	1.8.1.22	HSO3-	H2O	white
-dissimilatory sulfite reductase beta subunit	1.8.1.22	HSO3-	HO-	white
-dissimilatory sulfite reductase beta subunit	1.8.1.22	HSO3-	NAD+	white
-dissimilatory sulfite reductase beta subunit	1.8.1.22	HSO3-	Trithionate	white
-dissimilatory sulfite reductase beta subunit	1.8.1.22	NAD+	H+	white
-dissimilatory sulfite reductase beta subunit	1.8.1.22	NAD+	HSO3-	white
-dissimilatory sulfite reductase beta subunit	1.8.1.22	NAD+	NADH	white
-dissimilatory sulfite reductase beta subunit	1.8.1.22	NADH	H2O	white
-dissimilatory sulfite reductase beta subunit	1.8.1.22	NADH	HO-	white
-dissimilatory sulfite reductase beta subunit	1.8.1.22	NADH	NAD+	white
-dissimilatory sulfite reductase beta subunit	1.8.1.22	NADH	Trithionate	white
-dissimilatory sulfite reductase beta subunit	1.8.1.22	Trithionate	H+	white
-dissimilatory sulfite reductase beta subunit	1.8.1.22	Trithionate	HSO3-	white
-dissimilatory sulfite reductase beta subunit	1.8.1.22	Trithionate	NADH	white
-dissimilatory sulfite reductase flavoprotein subunit	1.8.1.22	H+	H2O	white
-dissimilatory sulfite reductase flavoprotein subunit	1.8.1.22	H+	HO-	white
-dissimilatory sulfite reductase flavoprotein subunit	1.8.1.22	H+	NAD+	white
-dissimilatory sulfite reductase flavoprotein subunit	1.8.1.22	H+	Trithionate	white
-dissimilatory sulfite reductase flavoprotein subunit	1.8.1.22	H2O	H+	white
-dissimilatory sulfite reductase flavoprotein subunit	1.8.1.22	H2O	HSO3-	white
-dissimilatory sulfite reductase flavoprotein subunit	1.8.1.22	H2O	NADH	white
-dissimilatory sulfite reductase flavoprotein subunit	1.8.1.22	HO-	H+	white
-dissimilatory sulfite reductase flavoprotein subunit	1.8.1.22	HO-	HSO3-	white
-dissimilatory sulfite reductase flavoprotein subunit	1.8.1.22	HO-	NADH	white
-dissimilatory sulfite reductase flavoprotein subunit	1.8.1.22	HSO3-	H2O	white
-dissimilatory sulfite reductase flavoprotein subunit	1.8.1.22	HSO3-	HO-	white
-dissimilatory sulfite reductase flavoprotein subunit	1.8.1.22	HSO3-	NAD+	white
-dissimilatory sulfite reductase flavoprotein subunit	1.8.1.22	HSO3-	Trithionate	white
-dissimilatory sulfite reductase flavoprotein subunit	1.8.1.22	NAD+	H+	white
-dissimilatory sulfite reductase flavoprotein subunit	1.8.1.22	NAD+	HSO3-	white
-dissimilatory sulfite reductase flavoprotein subunit	1.8.1.22	NAD+	NADH	white
-dissimilatory sulfite reductase flavoprotein subunit	1.8.1.22	NADH	H2O	white
-dissimilatory sulfite reductase flavoprotein subunit	1.8.1.22	NADH	HO-	white
-dissimilatory sulfite reductase flavoprotein subunit	1.8.1.22	NADH	NAD+	white
-dissimilatory sulfite reductase flavoprotein subunit	1.8.1.22	NADH	Trithionate	white
-dissimilatory sulfite reductase flavoprotein subunit	1.8.1.22	Trithionate	H+	white
-dissimilatory sulfite reductase flavoprotein subunit	1.8.1.22	Trithionate	HSO3-	white
-dissimilatory sulfite reductase flavoprotein subunit	1.8.1.22	Trithionate	NADH	white
-hydrogenase large subunit	1.12.99.6	2,4-Diamino-6-nitrotoluene	2,4-Diamino-6-hydroxylaminotoluene	green
-hydrogenase small subunit	1.12.99.6	2,4-Diamino-6-nitrotoluene	2,4-Diamino-6-hydroxylaminotoluene	green
-naphthalene 1,2-dioxygenase ferredoxin component	1.14.12.12	H+	NAD+	white
-naphthalene 1,2-dioxygenase ferredoxin component	1.14.12.12	H+	cis-1,2-Dihydronaphthalene-1,2-diol	white
-naphthalene 1,2-dioxygenase ferredoxin component	1.14.12.12	NAD+	H+	white
-naphthalene 1,2-dioxygenase ferredoxin component	1.14.12.12	NAD+	NADH	white
-naphthalene 1,2-dioxygenase ferredoxin component	1.14.12.12	NAD+	Naphthalene	white
-naphthalene 1,2-dioxygenase ferredoxin component	1.14.12.12	NAD+	Oxygen	white
-naphthalene 1,2-dioxygenase ferredoxin component	1.14.12.12	NADH	NAD+	white
-naphthalene 1,2-dioxygenase ferredoxin component	1.14.12.12	NADH	cis-1,2-Dihydronaphthalene-1,2-diol	white
-naphthalene 1,2-dioxygenase ferredoxin component	1.14.12.12	Naphthalene	NAD+	white
-naphthalene 1,2-dioxygenase ferredoxin component	1.14.12.12	Naphthalene	cis-1,2-Dihydronaphthalene-1,2-diol	white
-naphthalene 1,2-dioxygenase ferredoxin component	1.14.12.12	Oxygen	NAD+	white
-naphthalene 1,2-dioxygenase ferredoxin component	1.14.12.12	Oxygen	cis-1,2-Dihydronaphthalene-1,2-diol	white
-naphthalene 1,2-dioxygenase ferredoxin component	1.14.12.12	cis-1,2-Dihydronaphthalene-1,2-diol	H+	white
-naphthalene 1,2-dioxygenase ferredoxin component	1.14.12.12	cis-1,2-Dihydronaphthalene-1,2-diol	NADH	white
-naphthalene 1,2-dioxygenase ferredoxin component	1.14.12.12	cis-1,2-Dihydronaphthalene-1,2-diol	Naphthalene	white
-naphthalene 1,2-dioxygenase ferredoxin component	1.14.12.12	cis-1,2-Dihydronaphthalene-1,2-diol	Oxygen	white
-naphthalene 1,2-dioxygenase ferredoxin reductase component	1.18.1.7	H+	NAD+	white
-naphthalene 1,2-dioxygenase ferredoxin reductase component	1.18.1.7	H+	cis-1,2-Dihydronaphthalene-1,2-diol	white
-naphthalene 1,2-dioxygenase ferredoxin reductase component	1.18.1.7	NAD+	H+	white
-naphthalene 1,2-dioxygenase ferredoxin reductase component	1.18.1.7	NAD+	NADH	white
-naphthalene 1,2-dioxygenase ferredoxin reductase component	1.18.1.7	NAD+	Naphthalene	white
-naphthalene 1,2-dioxygenase ferredoxin reductase component	1.18.1.7	NAD+	Oxygen	white
-naphthalene 1,2-dioxygenase ferredoxin reductase component	1.18.1.7	NADH	NAD+	white
-naphthalene 1,2-dioxygenase ferredoxin reductase component	1.18.1.7	NADH	cis-1,2-Dihydronaphthalene-1,2-diol	white
-naphthalene 1,2-dioxygenase ferredoxin reductase component	1.18.1.7	Naphthalene	NAD+	white
-naphthalene 1,2-dioxygenase ferredoxin reductase component	1.18.1.7	Naphthalene	cis-1,2-Dihydronaphthalene-1,2-diol	white
-naphthalene 1,2-dioxygenase ferredoxin reductase component	1.18.1.7	Oxygen	NAD+	white
-naphthalene 1,2-dioxygenase ferredoxin reductase component	1.18.1.7	Oxygen	cis-1,2-Dihydronaphthalene-1,2-diol	white
-naphthalene 1,2-dioxygenase ferredoxin reductase component	1.18.1.7	cis-1,2-Dihydronaphthalene-1,2-diol	H+	white
-naphthalene 1,2-dioxygenase ferredoxin reductase component	1.18.1.7	cis-1,2-Dihydronaphthalene-1,2-diol	NADH	white
-naphthalene 1,2-dioxygenase ferredoxin reductase component	1.18.1.7	cis-1,2-Dihydronaphthalene-1,2-diol	Naphthalene	white
-naphthalene 1,2-dioxygenase ferredoxin reductase component	1.18.1.7	cis-1,2-Dihydronaphthalene-1,2-diol	Oxygen	white
-naphthalene 1,2-dioxygenase subunit alpha	1.14.12.12	H+	NAD+	white
-naphthalene 1,2-dioxygenase subunit alpha	1.14.12.12	H+	cis-1,2-Dihydronaphthalene-1,2-diol	white
-naphthalene 1,2-dioxygenase subunit alpha	1.14.12.12	NAD+	H+	white
-naphthalene 1,2-dioxygenase subunit alpha	1.14.12.12	NAD+	NADH	white
-naphthalene 1,2-dioxygenase subunit alpha	1.14.12.12	NAD+	Naphthalene	white
-naphthalene 1,2-dioxygenase subunit alpha	1.14.12.12	NAD+	Oxygen	white
-naphthalene 1,2-dioxygenase subunit alpha	1.14.12.12	NADH	NAD+	white
-naphthalene 1,2-dioxygenase subunit alpha	1.14.12.12	NADH	cis-1,2-Dihydronaphthalene-1,2-diol	white
-naphthalene 1,2-dioxygenase subunit alpha	1.14.12.12	Naphthalene	NAD+	white
-naphthalene 1,2-dioxygenase subunit alpha	1.14.12.12	Naphthalene	cis-1,2-Dihydronaphthalene-1,2-diol	white
-naphthalene 1,2-dioxygenase subunit alpha	1.14.12.12	Oxygen	NAD+	white
-naphthalene 1,2-dioxygenase subunit alpha	1.14.12.12	Oxygen	cis-1,2-Dihydronaphthalene-1,2-diol	white
-naphthalene 1,2-dioxygenase subunit alpha	1.14.12.12	cis-1,2-Dihydronaphthalene-1,2-diol	H+	white
-naphthalene 1,2-dioxygenase subunit alpha	1.14.12.12	cis-1,2-Dihydronaphthalene-1,2-diol	NADH	white
-naphthalene 1,2-dioxygenase subunit alpha	1.14.12.12	cis-1,2-Dihydronaphthalene-1,2-diol	Naphthalene	white
-naphthalene 1,2-dioxygenase subunit alpha	1.14.12.12	cis-1,2-Dihydronaphthalene-1,2-diol	Oxygen	white
-naphthalene 1,2-dioxygenase subunit beta	1.14.12.12	H+	NAD+	white
-naphthalene 1,2-dioxygenase subunit beta	1.14.12.12	H+	cis-1,2-Dihydronaphthalene-1,2-diol	white
-naphthalene 1,2-dioxygenase subunit beta	1.14.12.12	NAD+	H+	white
-naphthalene 1,2-dioxygenase subunit beta	1.14.12.12	NAD+	NADH	white
-naphthalene 1,2-dioxygenase subunit beta	1.14.12.12	NAD+	Naphthalene	white
-naphthalene 1,2-dioxygenase subunit beta	1.14.12.12	NAD+	Oxygen	white
-naphthalene 1,2-dioxygenase subunit beta	1.14.12.12	NADH	NAD+	white
-naphthalene 1,2-dioxygenase subunit beta	1.14.12.12	NADH	cis-1,2-Dihydronaphthalene-1,2-diol	white
-naphthalene 1,2-dioxygenase subunit beta	1.14.12.12	Naphthalene	NAD+	white
-naphthalene 1,2-dioxygenase subunit beta	1.14.12.12	Naphthalene	cis-1,2-Dihydronaphthalene-1,2-diol	white
-naphthalene 1,2-dioxygenase subunit beta	1.14.12.12	Oxygen	NAD+	white
-naphthalene 1,2-dioxygenase subunit beta	1.14.12.12	Oxygen	cis-1,2-Dihydronaphthalene-1,2-diol	white
-naphthalene 1,2-dioxygenase subunit beta	1.14.12.12	cis-1,2-Dihydronaphthalene-1,2-diol	H+	white
-naphthalene 1,2-dioxygenase subunit beta	1.14.12.12	cis-1,2-Dihydronaphthalene-1,2-diol	NADH	white
-naphthalene 1,2-dioxygenase subunit beta	1.14.12.12	cis-1,2-Dihydronaphthalene-1,2-diol	Naphthalene	white
-naphthalene 1,2-dioxygenase subunit beta	1.14.12.12	cis-1,2-Dihydronaphthalene-1,2-diol	Oxygen	white
-pyruvate ferredoxin oxidoreductase alpha subunit	1.2.7.1	Acetyl-CoA	CoA	white
-pyruvate ferredoxin oxidoreductase alpha subunit	1.2.7.1	Acetyl-CoA	Oxidized ferredoxin	white
-pyruvate ferredoxin oxidoreductase alpha subunit	1.2.7.1	Acetyl-CoA	Pyruvate	white
-pyruvate ferredoxin oxidoreductase alpha subunit	1.2.7.1	CO2	CoA	white
-pyruvate ferredoxin oxidoreductase alpha subunit	1.2.7.1	CO2	Oxidized ferredoxin	white
-pyruvate ferredoxin oxidoreductase alpha subunit	1.2.7.1	CO2	Pyruvate	white
-pyruvate ferredoxin oxidoreductase alpha subunit	1.2.7.1	CoA	Acetyl-CoA	white
-pyruvate ferredoxin oxidoreductase alpha subunit	1.2.7.1	CoA	CO2	white
-pyruvate ferredoxin oxidoreductase alpha subunit	1.2.7.1	CoA	H+	white
-pyruvate ferredoxin oxidoreductase alpha subunit	1.2.7.1	CoA	Reduced ferredoxin	white
-pyruvate ferredoxin oxidoreductase alpha subunit	1.2.7.1	H+	CoA	white
-pyruvate ferredoxin oxidoreductase alpha subunit	1.2.7.1	H+	Oxidized ferredoxin	white
-pyruvate ferredoxin oxidoreductase alpha subunit	1.2.7.1	H+	Pyruvate	white
-pyruvate ferredoxin oxidoreductase alpha subunit	1.2.7.1	Oxidized ferredoxin	Acetyl-CoA	white
-pyruvate ferredoxin oxidoreductase alpha subunit	1.2.7.1	Oxidized ferredoxin	CO2	white
-pyruvate ferredoxin oxidoreductase alpha subunit	1.2.7.1	Oxidized ferredoxin	H+	white
-pyruvate ferredoxin oxidoreductase alpha subunit	1.2.7.1	Oxidized ferredoxin	Reduced ferredoxin	white
-pyruvate ferredoxin oxidoreductase alpha subunit	1.2.7.1	Pyruvate	Acetyl-CoA	white
-pyruvate ferredoxin oxidoreductase alpha subunit	1.2.7.1	Pyruvate	CO2	white
-pyruvate ferredoxin oxidoreductase alpha subunit	1.2.7.1	Pyruvate	H+	white
-pyruvate ferredoxin oxidoreductase alpha subunit	1.2.7.1	Pyruvate	Reduced ferredoxin	white
-pyruvate ferredoxin oxidoreductase alpha subunit	1.2.7.1	Reduced ferredoxin	CoA	white
-pyruvate ferredoxin oxidoreductase alpha subunit	1.2.7.1	Reduced ferredoxin	Oxidized ferredoxin	white
-pyruvate ferredoxin oxidoreductase alpha subunit	1.2.7.1	Reduced ferredoxin	Pyruvate	white
-pyruvate ferredoxin oxidoreductase beta subunit	1.2.7.1	Acetyl-CoA	CoA	white
-pyruvate ferredoxin oxidoreductase beta subunit	1.2.7.1	Acetyl-CoA	Oxidized ferredoxin	white
-pyruvate ferredoxin oxidoreductase beta subunit	1.2.7.1	Acetyl-CoA	Pyruvate	white
-pyruvate ferredoxin oxidoreductase beta subunit	1.2.7.1	CO2	CoA	white
-pyruvate ferredoxin oxidoreductase beta subunit	1.2.7.1	CO2	Oxidized ferredoxin	white
-pyruvate ferredoxin oxidoreductase beta subunit	1.2.7.1	CO2	Pyruvate	white
-pyruvate ferredoxin oxidoreductase beta subunit	1.2.7.1	CoA	Acetyl-CoA	white
-pyruvate ferredoxin oxidoreductase beta subunit	1.2.7.1	CoA	CO2	white
-pyruvate ferredoxin oxidoreductase beta subunit	1.2.7.1	CoA	H+	white
-pyruvate ferredoxin oxidoreductase beta subunit	1.2.7.1	CoA	Reduced ferredoxin	white
-pyruvate ferredoxin oxidoreductase beta subunit	1.2.7.1	H+	CoA	white
-pyruvate ferredoxin oxidoreductase beta subunit	1.2.7.1	H+	Oxidized ferredoxin	white
-pyruvate ferredoxin oxidoreductase beta subunit	1.2.7.1	H+	Pyruvate	white
-pyruvate ferredoxin oxidoreductase beta subunit	1.2.7.1	Oxidized ferredoxin	Acetyl-CoA	white
-pyruvate ferredoxin oxidoreductase beta subunit	1.2.7.1	Oxidized ferredoxin	CO2	white
-pyruvate ferredoxin oxidoreductase beta subunit	1.2.7.1	Oxidized ferredoxin	H+	white
-pyruvate ferredoxin oxidoreductase beta subunit	1.2.7.1	Oxidized ferredoxin	Reduced ferredoxin	white
-pyruvate ferredoxin oxidoreductase beta subunit	1.2.7.1	Pyruvate	Acetyl-CoA	white
-pyruvate ferredoxin oxidoreductase beta subunit	1.2.7.1	Pyruvate	CO2	white
-pyruvate ferredoxin oxidoreductase beta subunit	1.2.7.1	Pyruvate	H+	white
-pyruvate ferredoxin oxidoreductase beta subunit	1.2.7.1	Pyruvate	Reduced ferredoxin	white
-pyruvate ferredoxin oxidoreductase beta subunit	1.2.7.1	Reduced ferredoxin	CoA	white
-pyruvate ferredoxin oxidoreductase beta subunit	1.2.7.1	Reduced ferredoxin	Oxidized ferredoxin	white
-pyruvate ferredoxin oxidoreductase beta subunit	1.2.7.1	Reduced ferredoxin	Pyruvate	white
-pyruvate ferredoxin oxidoreductase delta subunit	1.2.7.1	Acetyl-CoA	CoA	white
-pyruvate ferredoxin oxidoreductase delta subunit	1.2.7.1	Acetyl-CoA	Oxidized ferredoxin	white
-pyruvate ferredoxin oxidoreductase delta subunit	1.2.7.1	Acetyl-CoA	Pyruvate	white
-pyruvate ferredoxin oxidoreductase delta subunit	1.2.7.1	CO2	CoA	white
-pyruvate ferredoxin oxidoreductase delta subunit	1.2.7.1	CO2	Oxidized ferredoxin	white
-pyruvate ferredoxin oxidoreductase delta subunit	1.2.7.1	CO2	Pyruvate	white
-pyruvate ferredoxin oxidoreductase delta subunit	1.2.7.1	CoA	Acetyl-CoA	white
-pyruvate ferredoxin oxidoreductase delta subunit	1.2.7.1	CoA	CO2	white
-pyruvate ferredoxin oxidoreductase delta subunit	1.2.7.1	CoA	H+	white
-pyruvate ferredoxin oxidoreductase delta subunit	1.2.7.1	CoA	Reduced ferredoxin	white
-pyruvate ferredoxin oxidoreductase delta subunit	1.2.7.1	H+	CoA	white
-pyruvate ferredoxin oxidoreductase delta subunit	1.2.7.1	H+	Oxidized ferredoxin	white
-pyruvate ferredoxin oxidoreductase delta subunit	1.2.7.1	H+	Pyruvate	white
-pyruvate ferredoxin oxidoreductase delta subunit	1.2.7.1	Oxidized ferredoxin	Acetyl-CoA	white
-pyruvate ferredoxin oxidoreductase delta subunit	1.2.7.1	Oxidized ferredoxin	CO2	white
-pyruvate ferredoxin oxidoreductase delta subunit	1.2.7.1	Oxidized ferredoxin	H+	white
-pyruvate ferredoxin oxidoreductase delta subunit	1.2.7.1	Oxidized ferredoxin	Reduced ferredoxin	white
-pyruvate ferredoxin oxidoreductase delta subunit	1.2.7.1	Pyruvate	Acetyl-CoA	white
-pyruvate ferredoxin oxidoreductase delta subunit	1.2.7.1	Pyruvate	CO2	white
-pyruvate ferredoxin oxidoreductase delta subunit	1.2.7.1	Pyruvate	H+	white
-pyruvate ferredoxin oxidoreductase delta subunit	1.2.7.1	Pyruvate	Reduced ferredoxin	white
-pyruvate ferredoxin oxidoreductase delta subunit	1.2.7.1	Reduced ferredoxin	CoA	white
-pyruvate ferredoxin oxidoreductase delta subunit	1.2.7.1	Reduced ferredoxin	Oxidized ferredoxin	white
-pyruvate ferredoxin oxidoreductase delta subunit	1.2.7.1	Reduced ferredoxin	Pyruvate	white
-pyruvate ferredoxin oxidoreductase gamma subunit	1.2.7.1	Acetyl-CoA	CoA	white
-pyruvate ferredoxin oxidoreductase gamma subunit	1.2.7.1	Acetyl-CoA	Oxidized ferredoxin	white
-pyruvate ferredoxin oxidoreductase gamma subunit	1.2.7.1	Acetyl-CoA	Pyruvate	white
-pyruvate ferredoxin oxidoreductase gamma subunit	1.2.7.1	CO2	CoA	white
-pyruvate ferredoxin oxidoreductase gamma subunit	1.2.7.1	CO2	Oxidized ferredoxin	white
-pyruvate ferredoxin oxidoreductase gamma subunit	1.2.7.1	CO2	Pyruvate	white
-pyruvate ferredoxin oxidoreductase gamma subunit	1.2.7.1	CoA	Acetyl-CoA	white
-pyruvate ferredoxin oxidoreductase gamma subunit	1.2.7.1	CoA	CO2	white
-pyruvate ferredoxin oxidoreductase gamma subunit	1.2.7.1	CoA	H+	white
-pyruvate ferredoxin oxidoreductase gamma subunit	1.2.7.1	CoA	Reduced ferredoxin	white
-pyruvate ferredoxin oxidoreductase gamma subunit	1.2.7.1	H+	CoA	white
-pyruvate ferredoxin oxidoreductase gamma subunit	1.2.7.1	H+	Oxidized ferredoxin	white
-pyruvate ferredoxin oxidoreductase gamma subunit	1.2.7.1	H+	Pyruvate	white
-pyruvate ferredoxin oxidoreductase gamma subunit	1.2.7.1	Oxidized ferredoxin	Acetyl-CoA	white
-pyruvate ferredoxin oxidoreductase gamma subunit	1.2.7.1	Oxidized ferredoxin	CO2	white
-pyruvate ferredoxin oxidoreductase gamma subunit	1.2.7.1	Oxidized ferredoxin	H+	white
-pyruvate ferredoxin oxidoreductase gamma subunit	1.2.7.1	Oxidized ferredoxin	Reduced ferredoxin	white
-pyruvate ferredoxin oxidoreductase gamma subunit	1.2.7.1	Pyruvate	Acetyl-CoA	white
-pyruvate ferredoxin oxidoreductase gamma subunit	1.2.7.1	Pyruvate	CO2	white
-pyruvate ferredoxin oxidoreductase gamma subunit	1.2.7.1	Pyruvate	H+	white
-pyruvate ferredoxin oxidoreductase gamma subunit	1.2.7.1	Pyruvate	Reduced ferredoxin	white
-pyruvate ferredoxin oxidoreductase gamma subunit	1.2.7.1	Reduced ferredoxin	CoA	white
-pyruvate ferredoxin oxidoreductase gamma subunit	1.2.7.1	Reduced ferredoxin	Oxidized ferredoxin	white
-pyruvate ferredoxin oxidoreductase gamma subunit	1.2.7.1	Reduced ferredoxin	Pyruvate	white
+enzyme_name	EC	source	target	reaction	color
+2-oxoisovalerate/pyruvate ferredoxin oxidoreductase gamma subunit	1.2.7.7	Acetyl-CoA	CoA	R01196	white
+2-oxoisovalerate/pyruvate ferredoxin oxidoreductase gamma subunit	1.2.7.7	Acetyl-CoA	Oxidized ferredoxin	R01196	white
+2-oxoisovalerate/pyruvate ferredoxin oxidoreductase gamma subunit	1.2.7.7	Acetyl-CoA	Pyruvate	R01196	white
+2-oxoisovalerate/pyruvate ferredoxin oxidoreductase gamma subunit	1.2.7.7	CO2	CoA	R01196	white
+2-oxoisovalerate/pyruvate ferredoxin oxidoreductase gamma subunit	1.2.7.7	CO2	Oxidized ferredoxin	R01196	white
+2-oxoisovalerate/pyruvate ferredoxin oxidoreductase gamma subunit	1.2.7.7	CO2	Pyruvate	R01196	white
+2-oxoisovalerate/pyruvate ferredoxin oxidoreductase gamma subunit	1.2.7.7	CoA	Acetyl-CoA	R01196	white
+2-oxoisovalerate/pyruvate ferredoxin oxidoreductase gamma subunit	1.2.7.7	CoA	CO2	R01196	white
+2-oxoisovalerate/pyruvate ferredoxin oxidoreductase gamma subunit	1.2.7.7	CoA	H+	R01196	white
+2-oxoisovalerate/pyruvate ferredoxin oxidoreductase gamma subunit	1.2.7.7	CoA	Reduced ferredoxin	R01196	white
+2-oxoisovalerate/pyruvate ferredoxin oxidoreductase gamma subunit	1.2.7.7	H+	CoA	R01196	white
+2-oxoisovalerate/pyruvate ferredoxin oxidoreductase gamma subunit	1.2.7.7	H+	Oxidized ferredoxin	R01196	white
+2-oxoisovalerate/pyruvate ferredoxin oxidoreductase gamma subunit	1.2.7.7	H+	Pyruvate	R01196	white
+2-oxoisovalerate/pyruvate ferredoxin oxidoreductase gamma subunit	1.2.7.7	Oxidized ferredoxin	Acetyl-CoA	R01196	white
+2-oxoisovalerate/pyruvate ferredoxin oxidoreductase gamma subunit	1.2.7.7	Oxidized ferredoxin	CO2	R01196	white
+2-oxoisovalerate/pyruvate ferredoxin oxidoreductase gamma subunit	1.2.7.7	Oxidized ferredoxin	H+	R01196	white
+2-oxoisovalerate/pyruvate ferredoxin oxidoreductase gamma subunit	1.2.7.7	Oxidized ferredoxin	Reduced ferredoxin	R01196	white
+2-oxoisovalerate/pyruvate ferredoxin oxidoreductase gamma subunit	1.2.7.7	Pyruvate	Acetyl-CoA	R01196	white
+2-oxoisovalerate/pyruvate ferredoxin oxidoreductase gamma subunit	1.2.7.7	Pyruvate	CO2	R01196	white
+2-oxoisovalerate/pyruvate ferredoxin oxidoreductase gamma subunit	1.2.7.7	Pyruvate	H+	R01196	white
+2-oxoisovalerate/pyruvate ferredoxin oxidoreductase gamma subunit	1.2.7.7	Pyruvate	Reduced ferredoxin	R01196	white
+2-oxoisovalerate/pyruvate ferredoxin oxidoreductase gamma subunit	1.2.7.7	Reduced ferredoxin	CoA	R01196	white
+2-oxoisovalerate/pyruvate ferredoxin oxidoreductase gamma subunit	1.2.7.7	Reduced ferredoxin	Oxidized ferredoxin	R01196	white
+2-oxoisovalerate/pyruvate ferredoxin oxidoreductase gamma subunit	1.2.7.7	Reduced ferredoxin	Pyruvate	R01196	white
+4-methyl-5-nitrocatechol 5-monooxygenase	1.14.13.210	2-Hydroxy-5-methylquinone	4-Methyl-5-nitrocatechol	R09234	white
+4-methyl-5-nitrocatechol 5-monooxygenase	1.14.13.210	2-Hydroxy-5-methylquinone	H+	R09234	white
+4-methyl-5-nitrocatechol 5-monooxygenase	1.14.13.210	2-Hydroxy-5-methylquinone	NADPH	R09234	white
+4-methyl-5-nitrocatechol 5-monooxygenase	1.14.13.210	2-Hydroxy-5-methylquinone	Oxygen	R09234	white
+4-methyl-5-nitrocatechol 5-monooxygenase	1.14.13.210	4-Methyl-5-nitrocatechol	2-Hydroxy-5-methylquinone	R09234	white
+4-methyl-5-nitrocatechol 5-monooxygenase	1.14.13.210	4-Methyl-5-nitrocatechol	H2O	R09234	white
+4-methyl-5-nitrocatechol 5-monooxygenase	1.14.13.210	4-Methyl-5-nitrocatechol	NADP+	R09234	white
+4-methyl-5-nitrocatechol 5-monooxygenase	1.14.13.210	4-Methyl-5-nitrocatechol	Nitrite	R09234	white
+4-methyl-5-nitrocatechol 5-monooxygenase	1.14.13.210	H+	2-Hydroxy-5-methylquinone	R09234	white
+4-methyl-5-nitrocatechol 5-monooxygenase	1.14.13.210	H+	H2O	R09234	white
+4-methyl-5-nitrocatechol 5-monooxygenase	1.14.13.210	H+	NADP+	R09234	white
+4-methyl-5-nitrocatechol 5-monooxygenase	1.14.13.210	H+	Nitrite	R09234	white
+4-methyl-5-nitrocatechol 5-monooxygenase	1.14.13.210	H2O	4-Methyl-5-nitrocatechol	R09234	white
+4-methyl-5-nitrocatechol 5-monooxygenase	1.14.13.210	H2O	H+	R09234	white
+4-methyl-5-nitrocatechol 5-monooxygenase	1.14.13.210	H2O	NADPH	R09234	white
+4-methyl-5-nitrocatechol 5-monooxygenase	1.14.13.210	H2O	Oxygen	R09234	white
+4-methyl-5-nitrocatechol 5-monooxygenase	1.14.13.210	NADP+	4-Methyl-5-nitrocatechol	R09234	white
+4-methyl-5-nitrocatechol 5-monooxygenase	1.14.13.210	NADP+	H+	R09234	white
+4-methyl-5-nitrocatechol 5-monooxygenase	1.14.13.210	NADP+	NADPH	R09234	white
+4-methyl-5-nitrocatechol 5-monooxygenase	1.14.13.210	NADP+	Oxygen	R09234	white
+4-methyl-5-nitrocatechol 5-monooxygenase	1.14.13.210	NADPH	2-Hydroxy-5-methylquinone	R09234	white
+4-methyl-5-nitrocatechol 5-monooxygenase	1.14.13.210	NADPH	H2O	R09234	white
+4-methyl-5-nitrocatechol 5-monooxygenase	1.14.13.210	NADPH	NADP+	R09234	white
+4-methyl-5-nitrocatechol 5-monooxygenase	1.14.13.210	NADPH	Nitrite	R09234	white
+4-methyl-5-nitrocatechol 5-monooxygenase	1.14.13.210	Nitrite	4-Methyl-5-nitrocatechol	R09234	white
+4-methyl-5-nitrocatechol 5-monooxygenase	1.14.13.210	Nitrite	H+	R09234	white
+4-methyl-5-nitrocatechol 5-monooxygenase	1.14.13.210	Nitrite	NADPH	R09234	white
+4-methyl-5-nitrocatechol 5-monooxygenase	1.14.13.210	Nitrite	Oxygen	R09234	white
+4-methyl-5-nitrocatechol 5-monooxygenase	1.14.13.210	Oxygen	2-Hydroxy-5-methylquinone	R09234	white
+4-methyl-5-nitrocatechol 5-monooxygenase	1.14.13.210	Oxygen	H2O	R09234	white
+4-methyl-5-nitrocatechol 5-monooxygenase	1.14.13.210	Oxygen	NADP+	R09234	white
+4-methyl-5-nitrocatechol 5-monooxygenase	1.14.13.210	Oxygen	Nitrite	R09234	white
+N-ethylmaleimide reductase	1.-.-.-	H+	2-Hydroxylamino-4,6-dinitrotoluene	R08042	green
+N-ethylmaleimide reductase	1.-.-.-	H+	4-Hydroxylamino-2,6-dinitrotoluene	R08014	green
+N-ethylmaleimide reductase	1.-.-.-	H+	4-Hydroxylamino-2,6-dinitrotoluene	R08017	green
+N-ethylmaleimide reductase	1.-.-.-	H+	H2O	R08014	green
+N-ethylmaleimide reductase	1.-.-.-	H+	H2O	R08017	green
+N-ethylmaleimide reductase	1.-.-.-	H+	H2O	R08042	green
+N-ethylmaleimide reductase	1.-.-.-	H+	NAD+	R08017	green
+N-ethylmaleimide reductase	1.-.-.-	H+	NAD+	R08042	green
+N-ethylmaleimide reductase	1.-.-.-	H+	NADP+	R08014	green
+N-ethylmaleimide reductase	1.-.-.-	NADH	2-Hydroxylamino-4,6-dinitrotoluene	R08042	green
+N-ethylmaleimide reductase	1.-.-.-	NADH	4-Hydroxylamino-2,6-dinitrotoluene	R08017	green
+N-ethylmaleimide reductase	1.-.-.-	NADH	H2O	R08017	green
+N-ethylmaleimide reductase	1.-.-.-	NADH	H2O	R08042	green
+N-ethylmaleimide reductase	1.-.-.-	NADH	NAD+	R08017	green
+N-ethylmaleimide reductase	1.-.-.-	NADH	NAD+	R08042	green
+N-ethylmaleimide reductase	1.-.-.-	NADPH	4-Hydroxylamino-2,6-dinitrotoluene	R08014	green
+N-ethylmaleimide reductase	1.-.-.-	NADPH	H2O	R08014	green
+N-ethylmaleimide reductase	1.-.-.-	NADPH	NADP+	R08014	green
+N-ethylmaleimide reductase	1.-.-.-	Trinitrotoluene	2-Hydroxylamino-4,6-dinitrotoluene	R08042	green
+N-ethylmaleimide reductase	1.-.-.-	Trinitrotoluene	4-Hydroxylamino-2,6-dinitrotoluene	R08014	green
+N-ethylmaleimide reductase	1.-.-.-	Trinitrotoluene	4-Hydroxylamino-2,6-dinitrotoluene	R08017	green
+N-ethylmaleimide reductase	1.-.-.-	Trinitrotoluene	H2O	R08014	green
+N-ethylmaleimide reductase	1.-.-.-	Trinitrotoluene	H2O	R08017	green
+N-ethylmaleimide reductase	1.-.-.-	Trinitrotoluene	H2O	R08042	green
+N-ethylmaleimide reductase	1.-.-.-	Trinitrotoluene	NAD+	R08017	green
+N-ethylmaleimide reductase	1.-.-.-	Trinitrotoluene	NAD+	R08042	green
+N-ethylmaleimide reductase	1.-.-.-	Trinitrotoluene	NADP+	R08014	green
+anaerobic carbon-monoxide dehydrogenase catalytic subunit	1.2.7.4	CO	CO2	R07157	white
+anaerobic carbon-monoxide dehydrogenase catalytic subunit	1.2.7.4	CO	H+	R07157	white
+anaerobic carbon-monoxide dehydrogenase catalytic subunit	1.2.7.4	CO	Reduced ferredoxin	R07157	white
+anaerobic carbon-monoxide dehydrogenase catalytic subunit	1.2.7.4	CO2	CO	R07157	white
+anaerobic carbon-monoxide dehydrogenase catalytic subunit	1.2.7.4	CO2	H2O	R07157	white
+anaerobic carbon-monoxide dehydrogenase catalytic subunit	1.2.7.4	CO2	Oxidized ferredoxin	R07157	white
+anaerobic carbon-monoxide dehydrogenase catalytic subunit	1.2.7.4	H+	CO	R07157	white
+anaerobic carbon-monoxide dehydrogenase catalytic subunit	1.2.7.4	H+	H2O	R07157	white
+anaerobic carbon-monoxide dehydrogenase catalytic subunit	1.2.7.4	H+	Oxidized ferredoxin	R07157	white
+anaerobic carbon-monoxide dehydrogenase catalytic subunit	1.2.7.4	H2O	CO2	R07157	white
+anaerobic carbon-monoxide dehydrogenase catalytic subunit	1.2.7.4	H2O	H+	R07157	white
+anaerobic carbon-monoxide dehydrogenase catalytic subunit	1.2.7.4	H2O	Reduced ferredoxin	R07157	white
+anaerobic carbon-monoxide dehydrogenase catalytic subunit	1.2.7.4	Oxidized ferredoxin	CO2	R07157	white
+anaerobic carbon-monoxide dehydrogenase catalytic subunit	1.2.7.4	Oxidized ferredoxin	H+	R07157	white
+anaerobic carbon-monoxide dehydrogenase catalytic subunit	1.2.7.4	Oxidized ferredoxin	Reduced ferredoxin	R07157	white
+anaerobic carbon-monoxide dehydrogenase catalytic subunit	1.2.7.4	Reduced ferredoxin	CO	R07157	white
+anaerobic carbon-monoxide dehydrogenase catalytic subunit	1.2.7.4	Reduced ferredoxin	H2O	R07157	white
+anaerobic carbon-monoxide dehydrogenase catalytic subunit	1.2.7.4	Reduced ferredoxin	Oxidized ferredoxin	R07157	white
+anaerobic carbon-monoxide dehydrogenase iron sulfur subunit	1.2.7.4	CO	CO2	R07157	white
+anaerobic carbon-monoxide dehydrogenase iron sulfur subunit	1.2.7.4	CO	H+	R07157	white
+anaerobic carbon-monoxide dehydrogenase iron sulfur subunit	1.2.7.4	CO	Reduced ferredoxin	R07157	white
+anaerobic carbon-monoxide dehydrogenase iron sulfur subunit	1.2.7.4	CO2	CO	R07157	white
+anaerobic carbon-monoxide dehydrogenase iron sulfur subunit	1.2.7.4	CO2	H2O	R07157	white
+anaerobic carbon-monoxide dehydrogenase iron sulfur subunit	1.2.7.4	CO2	Oxidized ferredoxin	R07157	white
+anaerobic carbon-monoxide dehydrogenase iron sulfur subunit	1.2.7.4	H+	CO	R07157	white
+anaerobic carbon-monoxide dehydrogenase iron sulfur subunit	1.2.7.4	H+	H2O	R07157	white
+anaerobic carbon-monoxide dehydrogenase iron sulfur subunit	1.2.7.4	H+	Oxidized ferredoxin	R07157	white
+anaerobic carbon-monoxide dehydrogenase iron sulfur subunit	1.2.7.4	H2O	CO2	R07157	white
+anaerobic carbon-monoxide dehydrogenase iron sulfur subunit	1.2.7.4	H2O	H+	R07157	white
+anaerobic carbon-monoxide dehydrogenase iron sulfur subunit	1.2.7.4	H2O	Reduced ferredoxin	R07157	white
+anaerobic carbon-monoxide dehydrogenase iron sulfur subunit	1.2.7.4	Oxidized ferredoxin	CO2	R07157	white
+anaerobic carbon-monoxide dehydrogenase iron sulfur subunit	1.2.7.4	Oxidized ferredoxin	H+	R07157	white
+anaerobic carbon-monoxide dehydrogenase iron sulfur subunit	1.2.7.4	Oxidized ferredoxin	Reduced ferredoxin	R07157	white
+anaerobic carbon-monoxide dehydrogenase iron sulfur subunit	1.2.7.4	Reduced ferredoxin	CO	R07157	white
+anaerobic carbon-monoxide dehydrogenase iron sulfur subunit	1.2.7.4	Reduced ferredoxin	H2O	R07157	white
+anaerobic carbon-monoxide dehydrogenase iron sulfur subunit	1.2.7.4	Reduced ferredoxin	Oxidized ferredoxin	R07157	white
+arylamine N-acetyltransferase	2.3.1.5	1,7-Dimethylxanthine	5-Acetylamino-6-formylamino-3-methyluracil	R07940	white
+arylamine N-acetyltransferase	2.3.1.5	5-Acetylamino-6-formylamino-3-methyluracil	1,7-Dimethylxanthine	R07940	white
+dissimilatory sulfite reductase alpha subunit	1.8.1.22	H+	H2O	R00295	white
+dissimilatory sulfite reductase alpha subunit	1.8.1.22	H+	HO-	R00295	white
+dissimilatory sulfite reductase alpha subunit	1.8.1.22	H+	NAD+	R00295	white
+dissimilatory sulfite reductase alpha subunit	1.8.1.22	H+	Trithionate	R00295	white
+dissimilatory sulfite reductase alpha subunit	1.8.1.22	H2O	H+	R00295	white
+dissimilatory sulfite reductase alpha subunit	1.8.1.22	H2O	HSO3-	R00295	white
+dissimilatory sulfite reductase alpha subunit	1.8.1.22	H2O	NADH	R00295	white
+dissimilatory sulfite reductase alpha subunit	1.8.1.22	HO-	H+	R00295	white
+dissimilatory sulfite reductase alpha subunit	1.8.1.22	HO-	HSO3-	R00295	white
+dissimilatory sulfite reductase alpha subunit	1.8.1.22	HO-	NADH	R00295	white
+dissimilatory sulfite reductase alpha subunit	1.8.1.22	HSO3-	H2O	R00295	white
+dissimilatory sulfite reductase alpha subunit	1.8.1.22	HSO3-	HO-	R00295	white
+dissimilatory sulfite reductase alpha subunit	1.8.1.22	HSO3-	NAD+	R00295	white
+dissimilatory sulfite reductase alpha subunit	1.8.1.22	HSO3-	Trithionate	R00295	white
+dissimilatory sulfite reductase alpha subunit	1.8.1.22	NAD+	H+	R00295	white
+dissimilatory sulfite reductase alpha subunit	1.8.1.22	NAD+	HSO3-	R00295	white
+dissimilatory sulfite reductase alpha subunit	1.8.1.22	NAD+	NADH	R00295	white
+dissimilatory sulfite reductase alpha subunit	1.8.1.22	NADH	H2O	R00295	white
+dissimilatory sulfite reductase alpha subunit	1.8.1.22	NADH	HO-	R00295	white
+dissimilatory sulfite reductase alpha subunit	1.8.1.22	NADH	NAD+	R00295	white
+dissimilatory sulfite reductase alpha subunit	1.8.1.22	NADH	Trithionate	R00295	white
+dissimilatory sulfite reductase alpha subunit	1.8.1.22	Trithionate	H+	R00295	white
+dissimilatory sulfite reductase alpha subunit	1.8.1.22	Trithionate	HSO3-	R00295	white
+dissimilatory sulfite reductase alpha subunit	1.8.1.22	Trithionate	NADH	R00295	white
+dissimilatory sulfite reductase beta subunit	1.8.1.22	H+	H2O	R00295	white
+dissimilatory sulfite reductase beta subunit	1.8.1.22	H+	HO-	R00295	white
+dissimilatory sulfite reductase beta subunit	1.8.1.22	H+	NAD+	R00295	white
+dissimilatory sulfite reductase beta subunit	1.8.1.22	H+	Trithionate	R00295	white
+dissimilatory sulfite reductase beta subunit	1.8.1.22	H2O	H+	R00295	white
+dissimilatory sulfite reductase beta subunit	1.8.1.22	H2O	HSO3-	R00295	white
+dissimilatory sulfite reductase beta subunit	1.8.1.22	H2O	NADH	R00295	white
+dissimilatory sulfite reductase beta subunit	1.8.1.22	HO-	H+	R00295	white
+dissimilatory sulfite reductase beta subunit	1.8.1.22	HO-	HSO3-	R00295	white
+dissimilatory sulfite reductase beta subunit	1.8.1.22	HO-	NADH	R00295	white
+dissimilatory sulfite reductase beta subunit	1.8.1.22	HSO3-	H2O	R00295	white
+dissimilatory sulfite reductase beta subunit	1.8.1.22	HSO3-	HO-	R00295	white
+dissimilatory sulfite reductase beta subunit	1.8.1.22	HSO3-	NAD+	R00295	white
+dissimilatory sulfite reductase beta subunit	1.8.1.22	HSO3-	Trithionate	R00295	white
+dissimilatory sulfite reductase beta subunit	1.8.1.22	NAD+	H+	R00295	white
+dissimilatory sulfite reductase beta subunit	1.8.1.22	NAD+	HSO3-	R00295	white
+dissimilatory sulfite reductase beta subunit	1.8.1.22	NAD+	NADH	R00295	white
+dissimilatory sulfite reductase beta subunit	1.8.1.22	NADH	H2O	R00295	white
+dissimilatory sulfite reductase beta subunit	1.8.1.22	NADH	HO-	R00295	white
+dissimilatory sulfite reductase beta subunit	1.8.1.22	NADH	NAD+	R00295	white
+dissimilatory sulfite reductase beta subunit	1.8.1.22	NADH	Trithionate	R00295	white
+dissimilatory sulfite reductase beta subunit	1.8.1.22	Trithionate	H+	R00295	white
+dissimilatory sulfite reductase beta subunit	1.8.1.22	Trithionate	HSO3-	R00295	white
+dissimilatory sulfite reductase beta subunit	1.8.1.22	Trithionate	NADH	R00295	white
+dissimilatory sulfite reductase flavoprotein subunit	1.8.1.22	H+	H2O	R00295	white
+dissimilatory sulfite reductase flavoprotein subunit	1.8.1.22	H+	HO-	R00295	white
+dissimilatory sulfite reductase flavoprotein subunit	1.8.1.22	H+	NAD+	R00295	white
+dissimilatory sulfite reductase flavoprotein subunit	1.8.1.22	H+	Trithionate	R00295	white
+dissimilatory sulfite reductase flavoprotein subunit	1.8.1.22	H2O	H+	R00295	white
+dissimilatory sulfite reductase flavoprotein subunit	1.8.1.22	H2O	HSO3-	R00295	white
+dissimilatory sulfite reductase flavoprotein subunit	1.8.1.22	H2O	NADH	R00295	white
+dissimilatory sulfite reductase flavoprotein subunit	1.8.1.22	HO-	H+	R00295	white
+dissimilatory sulfite reductase flavoprotein subunit	1.8.1.22	HO-	HSO3-	R00295	white
+dissimilatory sulfite reductase flavoprotein subunit	1.8.1.22	HO-	NADH	R00295	white
+dissimilatory sulfite reductase flavoprotein subunit	1.8.1.22	HSO3-	H2O	R00295	white
+dissimilatory sulfite reductase flavoprotein subunit	1.8.1.22	HSO3-	HO-	R00295	white
+dissimilatory sulfite reductase flavoprotein subunit	1.8.1.22	HSO3-	NAD+	R00295	white
+dissimilatory sulfite reductase flavoprotein subunit	1.8.1.22	HSO3-	Trithionate	R00295	white
+dissimilatory sulfite reductase flavoprotein subunit	1.8.1.22	NAD+	H+	R00295	white
+dissimilatory sulfite reductase flavoprotein subunit	1.8.1.22	NAD+	HSO3-	R00295	white
+dissimilatory sulfite reductase flavoprotein subunit	1.8.1.22	NAD+	NADH	R00295	white
+dissimilatory sulfite reductase flavoprotein subunit	1.8.1.22	NADH	H2O	R00295	white
+dissimilatory sulfite reductase flavoprotein subunit	1.8.1.22	NADH	HO-	R00295	white
+dissimilatory sulfite reductase flavoprotein subunit	1.8.1.22	NADH	NAD+	R00295	white
+dissimilatory sulfite reductase flavoprotein subunit	1.8.1.22	NADH	Trithionate	R00295	white
+dissimilatory sulfite reductase flavoprotein subunit	1.8.1.22	Trithionate	H+	R00295	white
+dissimilatory sulfite reductase flavoprotein subunit	1.8.1.22	Trithionate	HSO3-	R00295	white
+dissimilatory sulfite reductase flavoprotein subunit	1.8.1.22	Trithionate	NADH	R00295	white
+hydrogenase large subunit	1.12.99.6	2,4-Diamino-6-nitrotoluene	2,4-Diamino-6-hydroxylaminotoluene	R08034	green
+hydrogenase small subunit	1.12.99.6	2,4-Diamino-6-nitrotoluene	2,4-Diamino-6-hydroxylaminotoluene	R08034	green
+naphthalene 1,2-dioxygenase ferredoxin component	1.14.12.12	H+	NAD+	R02968	white
+naphthalene 1,2-dioxygenase ferredoxin component	1.14.12.12	H+	cis-1,2-Dihydronaphthalene-1,2-diol	R02968	white
+naphthalene 1,2-dioxygenase ferredoxin component	1.14.12.12	NAD+	H+	R02968	white
+naphthalene 1,2-dioxygenase ferredoxin component	1.14.12.12	NAD+	NADH	R02968	white
+naphthalene 1,2-dioxygenase ferredoxin component	1.14.12.12	NAD+	Naphthalene	R02968	white
+naphthalene 1,2-dioxygenase ferredoxin component	1.14.12.12	NAD+	Oxygen	R02968	white
+naphthalene 1,2-dioxygenase ferredoxin component	1.14.12.12	NADH	NAD+	R02968	white
+naphthalene 1,2-dioxygenase ferredoxin component	1.14.12.12	NADH	cis-1,2-Dihydronaphthalene-1,2-diol	R02968	white
+naphthalene 1,2-dioxygenase ferredoxin component	1.14.12.12	Naphthalene	NAD+	R02968	white
+naphthalene 1,2-dioxygenase ferredoxin component	1.14.12.12	Naphthalene	cis-1,2-Dihydronaphthalene-1,2-diol	R02968	white
+naphthalene 1,2-dioxygenase ferredoxin component	1.14.12.12	Oxygen	NAD+	R02968	white
+naphthalene 1,2-dioxygenase ferredoxin component	1.14.12.12	Oxygen	cis-1,2-Dihydronaphthalene-1,2-diol	R02968	white
+naphthalene 1,2-dioxygenase ferredoxin component	1.14.12.12	cis-1,2-Dihydronaphthalene-1,2-diol	H+	R02968	white
+naphthalene 1,2-dioxygenase ferredoxin component	1.14.12.12	cis-1,2-Dihydronaphthalene-1,2-diol	NADH	R02968	white
+naphthalene 1,2-dioxygenase ferredoxin component	1.14.12.12	cis-1,2-Dihydronaphthalene-1,2-diol	Naphthalene	R02968	white
+naphthalene 1,2-dioxygenase ferredoxin component	1.14.12.12	cis-1,2-Dihydronaphthalene-1,2-diol	Oxygen	R02968	white
+naphthalene 1,2-dioxygenase ferredoxin reductase component	1.18.1.7	H+	NAD+	R02968	white
+naphthalene 1,2-dioxygenase ferredoxin reductase component	1.18.1.7	H+	cis-1,2-Dihydronaphthalene-1,2-diol	R02968	white
+naphthalene 1,2-dioxygenase ferredoxin reductase component	1.18.1.7	NAD+	H+	R02968	white
+naphthalene 1,2-dioxygenase ferredoxin reductase component	1.18.1.7	NAD+	NADH	R02968	white
+naphthalene 1,2-dioxygenase ferredoxin reductase component	1.18.1.7	NAD+	Naphthalene	R02968	white
+naphthalene 1,2-dioxygenase ferredoxin reductase component	1.18.1.7	NAD+	Oxygen	R02968	white
+naphthalene 1,2-dioxygenase ferredoxin reductase component	1.18.1.7	NADH	NAD+	R02968	white
+naphthalene 1,2-dioxygenase ferredoxin reductase component	1.18.1.7	NADH	cis-1,2-Dihydronaphthalene-1,2-diol	R02968	white
+naphthalene 1,2-dioxygenase ferredoxin reductase component	1.18.1.7	Naphthalene	NAD+	R02968	white
+naphthalene 1,2-dioxygenase ferredoxin reductase component	1.18.1.7	Naphthalene	cis-1,2-Dihydronaphthalene-1,2-diol	R02968	white
+naphthalene 1,2-dioxygenase ferredoxin reductase component	1.18.1.7	Oxygen	NAD+	R02968	white
+naphthalene 1,2-dioxygenase ferredoxin reductase component	1.18.1.7	Oxygen	cis-1,2-Dihydronaphthalene-1,2-diol	R02968	white
+naphthalene 1,2-dioxygenase ferredoxin reductase component	1.18.1.7	cis-1,2-Dihydronaphthalene-1,2-diol	H+	R02968	white
+naphthalene 1,2-dioxygenase ferredoxin reductase component	1.18.1.7	cis-1,2-Dihydronaphthalene-1,2-diol	NADH	R02968	white
+naphthalene 1,2-dioxygenase ferredoxin reductase component	1.18.1.7	cis-1,2-Dihydronaphthalene-1,2-diol	Naphthalene	R02968	white
+naphthalene 1,2-dioxygenase ferredoxin reductase component	1.18.1.7	cis-1,2-Dihydronaphthalene-1,2-diol	Oxygen	R02968	white
+naphthalene 1,2-dioxygenase subunit alpha	1.14.12.12	H+	NAD+	R02968	white
+naphthalene 1,2-dioxygenase subunit alpha	1.14.12.12	H+	cis-1,2-Dihydronaphthalene-1,2-diol	R02968	white
+naphthalene 1,2-dioxygenase subunit alpha	1.14.12.12	NAD+	H+	R02968	white
+naphthalene 1,2-dioxygenase subunit alpha	1.14.12.12	NAD+	NADH	R02968	white
+naphthalene 1,2-dioxygenase subunit alpha	1.14.12.12	NAD+	Naphthalene	R02968	white
+naphthalene 1,2-dioxygenase subunit alpha	1.14.12.12	NAD+	Oxygen	R02968	white
+naphthalene 1,2-dioxygenase subunit alpha	1.14.12.12	NADH	NAD+	R02968	white
+naphthalene 1,2-dioxygenase subunit alpha	1.14.12.12	NADH	cis-1,2-Dihydronaphthalene-1,2-diol	R02968	white
+naphthalene 1,2-dioxygenase subunit alpha	1.14.12.12	Naphthalene	NAD+	R02968	white
+naphthalene 1,2-dioxygenase subunit alpha	1.14.12.12	Naphthalene	cis-1,2-Dihydronaphthalene-1,2-diol	R02968	white
+naphthalene 1,2-dioxygenase subunit alpha	1.14.12.12	Oxygen	NAD+	R02968	white
+naphthalene 1,2-dioxygenase subunit alpha	1.14.12.12	Oxygen	cis-1,2-Dihydronaphthalene-1,2-diol	R02968	white
+naphthalene 1,2-dioxygenase subunit alpha	1.14.12.12	cis-1,2-Dihydronaphthalene-1,2-diol	H+	R02968	white
+naphthalene 1,2-dioxygenase subunit alpha	1.14.12.12	cis-1,2-Dihydronaphthalene-1,2-diol	NADH	R02968	white
+naphthalene 1,2-dioxygenase subunit alpha	1.14.12.12	cis-1,2-Dihydronaphthalene-1,2-diol	Naphthalene	R02968	white
+naphthalene 1,2-dioxygenase subunit alpha	1.14.12.12	cis-1,2-Dihydronaphthalene-1,2-diol	Oxygen	R02968	white
+naphthalene 1,2-dioxygenase subunit beta	1.14.12.12	H+	NAD+	R02968	white
+naphthalene 1,2-dioxygenase subunit beta	1.14.12.12	H+	cis-1,2-Dihydronaphthalene-1,2-diol	R02968	white
+naphthalene 1,2-dioxygenase subunit beta	1.14.12.12	NAD+	H+	R02968	white
+naphthalene 1,2-dioxygenase subunit beta	1.14.12.12	NAD+	NADH	R02968	white
+naphthalene 1,2-dioxygenase subunit beta	1.14.12.12	NAD+	Naphthalene	R02968	white
+naphthalene 1,2-dioxygenase subunit beta	1.14.12.12	NAD+	Oxygen	R02968	white
+naphthalene 1,2-dioxygenase subunit beta	1.14.12.12	NADH	NAD+	R02968	white
+naphthalene 1,2-dioxygenase subunit beta	1.14.12.12	NADH	cis-1,2-Dihydronaphthalene-1,2-diol	R02968	white
+naphthalene 1,2-dioxygenase subunit beta	1.14.12.12	Naphthalene	NAD+	R02968	white
+naphthalene 1,2-dioxygenase subunit beta	1.14.12.12	Naphthalene	cis-1,2-Dihydronaphthalene-1,2-diol	R02968	white
+naphthalene 1,2-dioxygenase subunit beta	1.14.12.12	Oxygen	NAD+	R02968	white
+naphthalene 1,2-dioxygenase subunit beta	1.14.12.12	Oxygen	cis-1,2-Dihydronaphthalene-1,2-diol	R02968	white
+naphthalene 1,2-dioxygenase subunit beta	1.14.12.12	cis-1,2-Dihydronaphthalene-1,2-diol	H+	R02968	white
+naphthalene 1,2-dioxygenase subunit beta	1.14.12.12	cis-1,2-Dihydronaphthalene-1,2-diol	NADH	R02968	white
+naphthalene 1,2-dioxygenase subunit beta	1.14.12.12	cis-1,2-Dihydronaphthalene-1,2-diol	Naphthalene	R02968	white
+naphthalene 1,2-dioxygenase subunit beta	1.14.12.12	cis-1,2-Dihydronaphthalene-1,2-diol	Oxygen	R02968	white
+pyruvate ferredoxin oxidoreductase alpha subunit	1.2.7.1	Acetyl-CoA	CoA	R01196	white
+pyruvate ferredoxin oxidoreductase alpha subunit	1.2.7.1	Acetyl-CoA	Oxidized ferredoxin	R01196	white
+pyruvate ferredoxin oxidoreductase alpha subunit	1.2.7.1	Acetyl-CoA	Pyruvate	R01196	white
+pyruvate ferredoxin oxidoreductase alpha subunit	1.2.7.1	CO2	CoA	R01196	white
+pyruvate ferredoxin oxidoreductase alpha subunit	1.2.7.1	CO2	Oxidized ferredoxin	R01196	white
+pyruvate ferredoxin oxidoreductase alpha subunit	1.2.7.1	CO2	Pyruvate	R01196	white
+pyruvate ferredoxin oxidoreductase alpha subunit	1.2.7.1	CoA	Acetyl-CoA	R01196	white
+pyruvate ferredoxin oxidoreductase alpha subunit	1.2.7.1	CoA	CO2	R01196	white
+pyruvate ferredoxin oxidoreductase alpha subunit	1.2.7.1	CoA	H+	R01196	white
+pyruvate ferredoxin oxidoreductase alpha subunit	1.2.7.1	CoA	Reduced ferredoxin	R01196	white
+pyruvate ferredoxin oxidoreductase alpha subunit	1.2.7.1	H+	CoA	R01196	white
+pyruvate ferredoxin oxidoreductase alpha subunit	1.2.7.1	H+	Oxidized ferredoxin	R01196	white
+pyruvate ferredoxin oxidoreductase alpha subunit	1.2.7.1	H+	Pyruvate	R01196	white
+pyruvate ferredoxin oxidoreductase alpha subunit	1.2.7.1	Oxidized ferredoxin	Acetyl-CoA	R01196	white
+pyruvate ferredoxin oxidoreductase alpha subunit	1.2.7.1	Oxidized ferredoxin	CO2	R01196	white
+pyruvate ferredoxin oxidoreductase alpha subunit	1.2.7.1	Oxidized ferredoxin	H+	R01196	white
+pyruvate ferredoxin oxidoreductase alpha subunit	1.2.7.1	Oxidized ferredoxin	Reduced ferredoxin	R01196	white
+pyruvate ferredoxin oxidoreductase alpha subunit	1.2.7.1	Pyruvate	Acetyl-CoA	R01196	white
+pyruvate ferredoxin oxidoreductase alpha subunit	1.2.7.1	Pyruvate	CO2	R01196	white
+pyruvate ferredoxin oxidoreductase alpha subunit	1.2.7.1	Pyruvate	H+	R01196	white
+pyruvate ferredoxin oxidoreductase alpha subunit	1.2.7.1	Pyruvate	Reduced ferredoxin	R01196	white
+pyruvate ferredoxin oxidoreductase alpha subunit	1.2.7.1	Reduced ferredoxin	CoA	R01196	white
+pyruvate ferredoxin oxidoreductase alpha subunit	1.2.7.1	Reduced ferredoxin	Oxidized ferredoxin	R01196	white
+pyruvate ferredoxin oxidoreductase alpha subunit	1.2.7.1	Reduced ferredoxin	Pyruvate	R01196	white
+pyruvate ferredoxin oxidoreductase beta subunit	1.2.7.1	Acetyl-CoA	CoA	R01196	white
+pyruvate ferredoxin oxidoreductase beta subunit	1.2.7.1	Acetyl-CoA	Oxidized ferredoxin	R01196	white
+pyruvate ferredoxin oxidoreductase beta subunit	1.2.7.1	Acetyl-CoA	Pyruvate	R01196	white
+pyruvate ferredoxin oxidoreductase beta subunit	1.2.7.1	CO2	CoA	R01196	white
+pyruvate ferredoxin oxidoreductase beta subunit	1.2.7.1	CO2	Oxidized ferredoxin	R01196	white
+pyruvate ferredoxin oxidoreductase beta subunit	1.2.7.1	CO2	Pyruvate	R01196	white
+pyruvate ferredoxin oxidoreductase beta subunit	1.2.7.1	CoA	Acetyl-CoA	R01196	white
+pyruvate ferredoxin oxidoreductase beta subunit	1.2.7.1	CoA	CO2	R01196	white
+pyruvate ferredoxin oxidoreductase beta subunit	1.2.7.1	CoA	H+	R01196	white
+pyruvate ferredoxin oxidoreductase beta subunit	1.2.7.1	CoA	Reduced ferredoxin	R01196	white
+pyruvate ferredoxin oxidoreductase beta subunit	1.2.7.1	H+	CoA	R01196	white
+pyruvate ferredoxin oxidoreductase beta subunit	1.2.7.1	H+	Oxidized ferredoxin	R01196	white
+pyruvate ferredoxin oxidoreductase beta subunit	1.2.7.1	H+	Pyruvate	R01196	white
+pyruvate ferredoxin oxidoreductase beta subunit	1.2.7.1	Oxidized ferredoxin	Acetyl-CoA	R01196	white
+pyruvate ferredoxin oxidoreductase beta subunit	1.2.7.1	Oxidized ferredoxin	CO2	R01196	white
+pyruvate ferredoxin oxidoreductase beta subunit	1.2.7.1	Oxidized ferredoxin	H+	R01196	white
+pyruvate ferredoxin oxidoreductase beta subunit	1.2.7.1	Oxidized ferredoxin	Reduced ferredoxin	R01196	white
+pyruvate ferredoxin oxidoreductase beta subunit	1.2.7.1	Pyruvate	Acetyl-CoA	R01196	white
+pyruvate ferredoxin oxidoreductase beta subunit	1.2.7.1	Pyruvate	CO2	R01196	white
+pyruvate ferredoxin oxidoreductase beta subunit	1.2.7.1	Pyruvate	H+	R01196	white
+pyruvate ferredoxin oxidoreductase beta subunit	1.2.7.1	Pyruvate	Reduced ferredoxin	R01196	white
+pyruvate ferredoxin oxidoreductase beta subunit	1.2.7.1	Reduced ferredoxin	CoA	R01196	white
+pyruvate ferredoxin oxidoreductase beta subunit	1.2.7.1	Reduced ferredoxin	Oxidized ferredoxin	R01196	white
+pyruvate ferredoxin oxidoreductase beta subunit	1.2.7.1	Reduced ferredoxin	Pyruvate	R01196	white
+pyruvate ferredoxin oxidoreductase delta subunit	1.2.7.1	Acetyl-CoA	CoA	R01196	white
+pyruvate ferredoxin oxidoreductase delta subunit	1.2.7.1	Acetyl-CoA	Oxidized ferredoxin	R01196	white
+pyruvate ferredoxin oxidoreductase delta subunit	1.2.7.1	Acetyl-CoA	Pyruvate	R01196	white
+pyruvate ferredoxin oxidoreductase delta subunit	1.2.7.1	CO2	CoA	R01196	white
+pyruvate ferredoxin oxidoreductase delta subunit	1.2.7.1	CO2	Oxidized ferredoxin	R01196	white
+pyruvate ferredoxin oxidoreductase delta subunit	1.2.7.1	CO2	Pyruvate	R01196	white
+pyruvate ferredoxin oxidoreductase delta subunit	1.2.7.1	CoA	Acetyl-CoA	R01196	white
+pyruvate ferredoxin oxidoreductase delta subunit	1.2.7.1	CoA	CO2	R01196	white
+pyruvate ferredoxin oxidoreductase delta subunit	1.2.7.1	CoA	H+	R01196	white
+pyruvate ferredoxin oxidoreductase delta subunit	1.2.7.1	CoA	Reduced ferredoxin	R01196	white
+pyruvate ferredoxin oxidoreductase delta subunit	1.2.7.1	H+	CoA	R01196	white
+pyruvate ferredoxin oxidoreductase delta subunit	1.2.7.1	H+	Oxidized ferredoxin	R01196	white
+pyruvate ferredoxin oxidoreductase delta subunit	1.2.7.1	H+	Pyruvate	R01196	white
+pyruvate ferredoxin oxidoreductase delta subunit	1.2.7.1	Oxidized ferredoxin	Acetyl-CoA	R01196	white
+pyruvate ferredoxin oxidoreductase delta subunit	1.2.7.1	Oxidized ferredoxin	CO2	R01196	white
+pyruvate ferredoxin oxidoreductase delta subunit	1.2.7.1	Oxidized ferredoxin	H+	R01196	white
+pyruvate ferredoxin oxidoreductase delta subunit	1.2.7.1	Oxidized ferredoxin	Reduced ferredoxin	R01196	white
+pyruvate ferredoxin oxidoreductase delta subunit	1.2.7.1	Pyruvate	Acetyl-CoA	R01196	white
+pyruvate ferredoxin oxidoreductase delta subunit	1.2.7.1	Pyruvate	CO2	R01196	white
+pyruvate ferredoxin oxidoreductase delta subunit	1.2.7.1	Pyruvate	H+	R01196	white
+pyruvate ferredoxin oxidoreductase delta subunit	1.2.7.1	Pyruvate	Reduced ferredoxin	R01196	white
+pyruvate ferredoxin oxidoreductase delta subunit	1.2.7.1	Reduced ferredoxin	CoA	R01196	white
+pyruvate ferredoxin oxidoreductase delta subunit	1.2.7.1	Reduced ferredoxin	Oxidized ferredoxin	R01196	white
+pyruvate ferredoxin oxidoreductase delta subunit	1.2.7.1	Reduced ferredoxin	Pyruvate	R01196	white
+pyruvate ferredoxin oxidoreductase gamma subunit	1.2.7.1	Acetyl-CoA	CoA	R01196	white
+pyruvate ferredoxin oxidoreductase gamma subunit	1.2.7.1	Acetyl-CoA	Oxidized ferredoxin	R01196	white
+pyruvate ferredoxin oxidoreductase gamma subunit	1.2.7.1	Acetyl-CoA	Pyruvate	R01196	white
+pyruvate ferredoxin oxidoreductase gamma subunit	1.2.7.1	CO2	CoA	R01196	white
+pyruvate ferredoxin oxidoreductase gamma subunit	1.2.7.1	CO2	Oxidized ferredoxin	R01196	white
+pyruvate ferredoxin oxidoreductase gamma subunit	1.2.7.1	CO2	Pyruvate	R01196	white
+pyruvate ferredoxin oxidoreductase gamma subunit	1.2.7.1	CoA	Acetyl-CoA	R01196	white
+pyruvate ferredoxin oxidoreductase gamma subunit	1.2.7.1	CoA	CO2	R01196	white
+pyruvate ferredoxin oxidoreductase gamma subunit	1.2.7.1	CoA	H+	R01196	white
+pyruvate ferredoxin oxidoreductase gamma subunit	1.2.7.1	CoA	Reduced ferredoxin	R01196	white
+pyruvate ferredoxin oxidoreductase gamma subunit	1.2.7.1	H+	CoA	R01196	white
+pyruvate ferredoxin oxidoreductase gamma subunit	1.2.7.1	H+	Oxidized ferredoxin	R01196	white
+pyruvate ferredoxin oxidoreductase gamma subunit	1.2.7.1	H+	Pyruvate	R01196	white
+pyruvate ferredoxin oxidoreductase gamma subunit	1.2.7.1	Oxidized ferredoxin	Acetyl-CoA	R01196	white
+pyruvate ferredoxin oxidoreductase gamma subunit	1.2.7.1	Oxidized ferredoxin	CO2	R01196	white
+pyruvate ferredoxin oxidoreductase gamma subunit	1.2.7.1	Oxidized ferredoxin	H+	R01196	white
+pyruvate ferredoxin oxidoreductase gamma subunit	1.2.7.1	Oxidized ferredoxin	Reduced ferredoxin	R01196	white
+pyruvate ferredoxin oxidoreductase gamma subunit	1.2.7.1	Pyruvate	Acetyl-CoA	R01196	white
+pyruvate ferredoxin oxidoreductase gamma subunit	1.2.7.1	Pyruvate	CO2	R01196	white
+pyruvate ferredoxin oxidoreductase gamma subunit	1.2.7.1	Pyruvate	H+	R01196	white
+pyruvate ferredoxin oxidoreductase gamma subunit	1.2.7.1	Pyruvate	Reduced ferredoxin	R01196	white
+pyruvate ferredoxin oxidoreductase gamma subunit	1.2.7.1	Reduced ferredoxin	CoA	R01196	white
+pyruvate ferredoxin oxidoreductase gamma subunit	1.2.7.1	Reduced ferredoxin	Oxidized ferredoxin	R01196	white
+pyruvate ferredoxin oxidoreductase gamma subunit	1.2.7.1	Reduced ferredoxin	Pyruvate	R01196	white

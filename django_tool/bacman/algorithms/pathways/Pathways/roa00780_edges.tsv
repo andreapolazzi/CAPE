@@ -1,237 +1,243 @@
-enzyme_name	EC	source	target	color
-3-hydroxyacyl-[acyl-carrier-protein] dehydratase	4.2.1.59	(3R)-3-Hydroxybutanoyl-[acyl-carrier protein]	But-2-enoyl-[acyl-carrier protein]	white
-3-hydroxyacyl-[acyl-carrier-protein] dehydratase	4.2.1.59	(3R)-3-Hydroxybutanoyl-[acyl-carrier protein]	H2O	white
-3-hydroxyacyl-[acyl-carrier-protein] dehydratase	4.2.1.59	But-2-enoyl-[acyl-carrier protein]	(3R)-3-Hydroxybutanoyl-[acyl-carrier protein]	white
-3-hydroxyacyl-[acyl-carrier-protein] dehydratase	4.2.1.59	H2O	(3R)-3-Hydroxybutanoyl-[acyl-carrier protein]	white
-3-oxoacyl-[acyl-carrier protein] reductase	1.1.1.100	3-Ketoglutaryl-[acp] methyl ester	3-Hydroxyglutaryl-[acp] methyl ester	green
-3-oxoacyl-[acyl-carrier protein] reductase	1.1.1.100	3-Ketoglutaryl-[acp] methyl ester	NADP+	green
-3-oxoacyl-[acyl-carrier protein] reductase	1.1.1.100	3-Ketopimeloyl-[acp] methyl ester	3-Hydroxypimeloyl-[acp] methyl ester	green
-3-oxoacyl-[acyl-carrier protein] reductase	1.1.1.100	3-Ketopimeloyl-[acp] methyl ester	NADP+	green
-3-oxoacyl-[acyl-carrier protein] reductase	1.1.1.100	H+	3-Hydroxyglutaryl-[acp] methyl ester	green
-3-oxoacyl-[acyl-carrier protein] reductase	1.1.1.100	H+	3-Hydroxypimeloyl-[acp] methyl ester	green
-3-oxoacyl-[acyl-carrier protein] reductase	1.1.1.100	H+	NADP+	green
-3-oxoacyl-[acyl-carrier protein] reductase	1.1.1.100	NADPH	3-Hydroxyglutaryl-[acp] methyl ester	green
-3-oxoacyl-[acyl-carrier protein] reductase	1.1.1.100	NADPH	3-Hydroxypimeloyl-[acp] methyl ester	green
-3-oxoacyl-[acyl-carrier protein] reductase	1.1.1.100	NADPH	NADP+	green
-3-oxoacyl-[acyl-carrier-protein] synthase I	2.3.1.41	3-Oxoacyl-[acyl-carrier protein]	Acyl-[acyl-carrier protein]	white
-3-oxoacyl-[acyl-carrier-protein] synthase I	2.3.1.41	3-Oxoacyl-[acyl-carrier protein]	Malonyl-[acyl-carrier protein]	white
-3-oxoacyl-[acyl-carrier-protein] synthase I	2.3.1.41	Acyl-[acyl-carrier protein]	3-Oxoacyl-[acyl-carrier protein]	white
-3-oxoacyl-[acyl-carrier-protein] synthase I	2.3.1.41	Acyl-[acyl-carrier protein]	Acyl-carrier protein	white
-3-oxoacyl-[acyl-carrier-protein] synthase I	2.3.1.41	Acyl-[acyl-carrier protein]	CO2	white
-3-oxoacyl-[acyl-carrier-protein] synthase I	2.3.1.41	Acyl-carrier protein	Acyl-[acyl-carrier protein]	white
-3-oxoacyl-[acyl-carrier-protein] synthase I	2.3.1.41	Acyl-carrier protein	Malonyl-[acyl-carrier protein]	white
-3-oxoacyl-[acyl-carrier-protein] synthase I	2.3.1.41	CO2	Acyl-[acyl-carrier protein]	white
-3-oxoacyl-[acyl-carrier-protein] synthase I	2.3.1.41	CO2	Malonyl-[acyl-carrier protein]	white
-3-oxoacyl-[acyl-carrier-protein] synthase I	2.3.1.41	Malonyl-[acyl-carrier protein]	3-Oxoacyl-[acyl-carrier protein]	white
-3-oxoacyl-[acyl-carrier-protein] synthase I	2.3.1.41	Malonyl-[acyl-carrier protein]	Acyl-carrier protein	white
-3-oxoacyl-[acyl-carrier-protein] synthase I	2.3.1.41	Malonyl-[acyl-carrier protein]	CO2	white
-3-oxoacyl-[acyl-carrier-protein] synthase II	2.3.1.179	3-Oxoacyl-[acyl-carrier protein]	Acyl-[acyl-carrier protein]	white
-3-oxoacyl-[acyl-carrier-protein] synthase II	2.3.1.179	3-Oxoacyl-[acyl-carrier protein]	Malonyl-[acyl-carrier protein]	white
-3-oxoacyl-[acyl-carrier-protein] synthase II	2.3.1.179	Acyl-[acyl-carrier protein]	3-Oxoacyl-[acyl-carrier protein]	white
-3-oxoacyl-[acyl-carrier-protein] synthase II	2.3.1.179	Acyl-[acyl-carrier protein]	Acyl-carrier protein	white
-3-oxoacyl-[acyl-carrier-protein] synthase II	2.3.1.179	Acyl-[acyl-carrier protein]	CO2	white
-3-oxoacyl-[acyl-carrier-protein] synthase II	2.3.1.179	Acyl-carrier protein	Acyl-[acyl-carrier protein]	white
-3-oxoacyl-[acyl-carrier-protein] synthase II	2.3.1.179	Acyl-carrier protein	Malonyl-[acyl-carrier protein]	white
-3-oxoacyl-[acyl-carrier-protein] synthase II	2.3.1.179	CO2	Acyl-[acyl-carrier protein]	white
-3-oxoacyl-[acyl-carrier-protein] synthase II	2.3.1.179	CO2	Malonyl-[acyl-carrier protein]	white
-3-oxoacyl-[acyl-carrier-protein] synthase II	2.3.1.179	Malonyl-[acyl-carrier protein]	3-Oxoacyl-[acyl-carrier protein]	white
-3-oxoacyl-[acyl-carrier-protein] synthase II	2.3.1.179	Malonyl-[acyl-carrier protein]	Acyl-carrier protein	white
-3-oxoacyl-[acyl-carrier-protein] synthase II	2.3.1.179	Malonyl-[acyl-carrier protein]	CO2	white
-6-carboxyhexanoate--CoA ligase	6.2.1.14	AMP	ATP	white
-6-carboxyhexanoate--CoA ligase	6.2.1.14	AMP	CoA	white
-6-carboxyhexanoate--CoA ligase	6.2.1.14	AMP	Pimelate	white
-6-carboxyhexanoate--CoA ligase	6.2.1.14	ATP	AMP	white
-6-carboxyhexanoate--CoA ligase	6.2.1.14	ATP	Diphosphate	white
-6-carboxyhexanoate--CoA ligase	6.2.1.14	ATP	Pimeloyl-CoA	white
-6-carboxyhexanoate--CoA ligase	6.2.1.14	CoA	AMP	white
-6-carboxyhexanoate--CoA ligase	6.2.1.14	CoA	Diphosphate	white
-6-carboxyhexanoate--CoA ligase	6.2.1.14	CoA	Pimeloyl-CoA	white
-6-carboxyhexanoate--CoA ligase	6.2.1.14	Diphosphate	ATP	white
-6-carboxyhexanoate--CoA ligase	6.2.1.14	Diphosphate	CoA	white
-6-carboxyhexanoate--CoA ligase	6.2.1.14	Diphosphate	Pimelate	white
-6-carboxyhexanoate--CoA ligase	6.2.1.14	Pimelate	AMP	white
-6-carboxyhexanoate--CoA ligase	6.2.1.14	Pimelate	Diphosphate	white
-6-carboxyhexanoate--CoA ligase	6.2.1.14	Pimelate	Pimeloyl-CoA	white
-6-carboxyhexanoate--CoA ligase	6.2.1.14	Pimeloyl-CoA	ATP	white
-6-carboxyhexanoate--CoA ligase	6.2.1.14	Pimeloyl-CoA	CoA	white
-6-carboxyhexanoate--CoA ligase	6.2.1.14	Pimeloyl-CoA	Pimelate	white
-8-amino-7-oxononanoate carboxylating dehydrogenase	2.6.1.121	8-Amino-7-(carboxyamino)nonanoate	8-Amino-7-oxononanoate	white
-8-amino-7-oxononanoate carboxylating dehydrogenase	2.6.1.121	8-Amino-7-(carboxyamino)nonanoate	CO2	white
-8-amino-7-oxononanoate carboxylating dehydrogenase	2.6.1.121	8-Amino-7-(carboxyamino)nonanoate	Protein lysine	white
-8-amino-7-oxononanoate carboxylating dehydrogenase	2.6.1.121	8-Amino-7-oxononanoate	8-Amino-7-(carboxyamino)nonanoate	white
-8-amino-7-oxononanoate carboxylating dehydrogenase	2.6.1.121	8-Amino-7-oxononanoate	[Protein]-(S)-2-amino-6-oxohexanoate	white
-8-amino-7-oxononanoate carboxylating dehydrogenase	2.6.1.121	CO2	8-Amino-7-(carboxyamino)nonanoate	white
-8-amino-7-oxononanoate carboxylating dehydrogenase	2.6.1.121	CO2	[Protein]-(S)-2-amino-6-oxohexanoate	white
-8-amino-7-oxononanoate carboxylating dehydrogenase	2.6.1.121	Protein lysine	8-Amino-7-(carboxyamino)nonanoate	white
-8-amino-7-oxononanoate carboxylating dehydrogenase	2.6.1.121	Protein lysine	[Protein]-(S)-2-amino-6-oxohexanoate	white
-8-amino-7-oxononanoate carboxylating dehydrogenase	2.6.1.121	[Protein]-(S)-2-amino-6-oxohexanoate	8-Amino-7-oxononanoate	white
-8-amino-7-oxononanoate carboxylating dehydrogenase	2.6.1.121	[Protein]-(S)-2-amino-6-oxohexanoate	CO2	white
-8-amino-7-oxononanoate carboxylating dehydrogenase	2.6.1.121	[Protein]-(S)-2-amino-6-oxohexanoate	Protein lysine	white
-8-amino-7-oxononanoate synthase	2.3.1.47	L-Alanine	8-Amino-7-oxononanoate	green
-8-amino-7-oxononanoate synthase	2.3.1.47	L-Alanine	Acyl-carrier protein	green
-8-amino-7-oxononanoate synthase	2.3.1.47	L-Alanine	CO2	green
-8-amino-7-oxononanoate synthase	2.3.1.47	L-Alanine	CoA	green
-8-amino-7-oxononanoate synthase	2.3.1.47	Pimeloyl-CoA	8-Amino-7-oxononanoate	green
-8-amino-7-oxononanoate synthase	2.3.1.47	Pimeloyl-CoA	CO2	green
-8-amino-7-oxononanoate synthase	2.3.1.47	Pimeloyl-CoA	CoA	green
-8-amino-7-oxononanoate synthase	2.3.1.47	Pimeloyl-[acyl-carrier protein]	8-Amino-7-oxononanoate	green
-8-amino-7-oxononanoate synthase	2.3.1.47	Pimeloyl-[acyl-carrier protein]	Acyl-carrier protein	green
-8-amino-7-oxononanoate synthase	2.3.1.47	Pimeloyl-[acyl-carrier protein]	CO2	green
-BirA family transcriptional regulator, biotin operon repressor / biotin---[acetyl-CoA-carboxylase] ligase	6.3.4.15	ATP	Biotinyl-5'-AMP	green
-BirA family transcriptional regulator, biotin operon repressor / biotin---[acetyl-CoA-carboxylase] ligase	6.3.4.15	ATP	Diphosphate	green
-BirA family transcriptional regulator, biotin operon repressor / biotin---[acetyl-CoA-carboxylase] ligase	6.3.4.15	Apo-[carboxylase]	AMP	green
-BirA family transcriptional regulator, biotin operon repressor / biotin---[acetyl-CoA-carboxylase] ligase	6.3.4.15	Apo-[carboxylase]	Holo-[carboxylase]	green
-BirA family transcriptional regulator, biotin operon repressor / biotin---[acetyl-CoA-carboxylase] ligase	6.3.4.15	Biotin	Biotinyl-5'-AMP	green
-BirA family transcriptional regulator, biotin operon repressor / biotin---[acetyl-CoA-carboxylase] ligase	6.3.4.15	Biotin	Diphosphate	green
-BirA family transcriptional regulator, biotin operon repressor / biotin---[acetyl-CoA-carboxylase] ligase	6.3.4.15	Biotinyl-5'-AMP	AMP	green
-BirA family transcriptional regulator, biotin operon repressor / biotin---[acetyl-CoA-carboxylase] ligase	6.3.4.15	Biotinyl-5'-AMP	Holo-[carboxylase]	green
-adenosylmethionine---8-amino-7-oxononanoate aminotransferase	2.6.1.62	8-Amino-7-oxononanoate	7,8-Diaminononanoate	green
-adenosylmethionine---8-amino-7-oxononanoate aminotransferase	2.6.1.62	8-Amino-7-oxononanoate	S-Adenosyl-4-methylthio-2-oxobutanoate	green
-adenosylmethionine---8-amino-7-oxononanoate aminotransferase	2.6.1.62	S-Adenosyl-L-methionine	7,8-Diaminononanoate	green
-adenosylmethionine---8-amino-7-oxononanoate aminotransferase	2.6.1.62	S-Adenosyl-L-methionine	S-Adenosyl-4-methylthio-2-oxobutanoate	green
-bifunctional dethiobiotin synthetase / spermidine---8-amino-7-oxononanoate transaminase	6.3.3.3	7,8-Diaminononanoate	ADP	white
-bifunctional dethiobiotin synthetase / spermidine---8-amino-7-oxononanoate transaminase	6.3.3.3	7,8-Diaminononanoate	Dethiobiotin	white
-bifunctional dethiobiotin synthetase / spermidine---8-amino-7-oxononanoate transaminase	6.3.3.3	7,8-Diaminononanoate	Orthophosphate	white
-bifunctional dethiobiotin synthetase / spermidine---8-amino-7-oxononanoate transaminase	6.3.3.3	ADP	7,8-Diaminononanoate	white
-bifunctional dethiobiotin synthetase / spermidine---8-amino-7-oxononanoate transaminase	6.3.3.3	ADP	ATP	white
-bifunctional dethiobiotin synthetase / spermidine---8-amino-7-oxononanoate transaminase	6.3.3.3	ADP	CO2	white
-bifunctional dethiobiotin synthetase / spermidine---8-amino-7-oxononanoate transaminase	6.3.3.3	ATP	ADP	white
-bifunctional dethiobiotin synthetase / spermidine---8-amino-7-oxononanoate transaminase	6.3.3.3	ATP	Dethiobiotin	white
-bifunctional dethiobiotin synthetase / spermidine---8-amino-7-oxononanoate transaminase	6.3.3.3	ATP	Orthophosphate	white
-bifunctional dethiobiotin synthetase / spermidine---8-amino-7-oxononanoate transaminase	6.3.3.3	CO2	ADP	white
-bifunctional dethiobiotin synthetase / spermidine---8-amino-7-oxononanoate transaminase	6.3.3.3	CO2	Dethiobiotin	white
-bifunctional dethiobiotin synthetase / spermidine---8-amino-7-oxononanoate transaminase	6.3.3.3	CO2	Orthophosphate	white
-bifunctional dethiobiotin synthetase / spermidine---8-amino-7-oxononanoate transaminase	6.3.3.3	Dethiobiotin	7,8-Diaminononanoate	white
-bifunctional dethiobiotin synthetase / spermidine---8-amino-7-oxononanoate transaminase	6.3.3.3	Dethiobiotin	ATP	white
-bifunctional dethiobiotin synthetase / spermidine---8-amino-7-oxononanoate transaminase	6.3.3.3	Dethiobiotin	CO2	white
-bifunctional dethiobiotin synthetase / spermidine---8-amino-7-oxononanoate transaminase	6.3.3.3	Orthophosphate	7,8-Diaminononanoate	white
-bifunctional dethiobiotin synthetase / spermidine---8-amino-7-oxononanoate transaminase	6.3.3.3	Orthophosphate	ATP	white
-bifunctional dethiobiotin synthetase / spermidine---8-amino-7-oxononanoate transaminase	6.3.3.3	Orthophosphate	CO2	white
-biotin synthase	2.8.1.6	Dethiobiotin	5'-Deoxyadenosine	green
-biotin synthase	2.8.1.6	Dethiobiotin	Biotin	green
-biotin synthase	2.8.1.6	Dethiobiotin	L-Methionine	green
-biotin synthase	2.8.1.6	H+	5'-Deoxyadenosine	green
-biotin synthase	2.8.1.6	H+	Biotin	green
-biotin synthase	2.8.1.6	H+	L-Methionine	green
-biotin synthase	2.8.1.6	S-Adenosyl-L-methionine	5'-Deoxyadenosine	green
-biotin synthase	2.8.1.6	S-Adenosyl-L-methionine	Biotin	green
-biotin synthase	2.8.1.6	S-Adenosyl-L-methionine	L-Methionine	green
-biotin synthase	2.8.1.6	Sulfur donor	5'-Deoxyadenosine	green
-biotin synthase	2.8.1.6	Sulfur donor	Biotin	green
-biotin synthase	2.8.1.6	Sulfur donor	L-Methionine	green
-biotin synthase	2.8.1.6	e-	5'-Deoxyadenosine	green
-biotin synthase	2.8.1.6	e-	Biotin	green
-biotin synthase	2.8.1.6	e-	L-Methionine	green
-biotin---protein ligase	6.3.4.9	ATP	Biotinyl-5'-AMP	white
-biotin---protein ligase	6.3.4.9	ATP	Diphosphate	white
-biotin---protein ligase	6.3.4.9	Biotin	Biotinyl-5'-AMP	white
-biotin---protein ligase	6.3.4.9	Biotin	Diphosphate	white
-biotin---protein ligase	6.3.4.9	Biotinyl-5'-AMP	ATP	white
-biotin---protein ligase	6.3.4.9	Biotinyl-5'-AMP	Biotin	white
-biotin---protein ligase	6.3.4.9	Diphosphate	ATP	white
-biotin---protein ligase	6.3.4.9	Diphosphate	Biotin	white
-biotin/methionine sulfoxide reductase	1.-.-.-	Biotin sulfoxide	Biotin	green
-biotin/methionine sulfoxide reductase	1.-.-.-	Biotin sulfoxide	H2O	green
-biotin/methionine sulfoxide reductase	1.-.-.-	Biotin sulfoxide	NADP+	green
-biotin/methionine sulfoxide reductase	1.-.-.-	H+	Biotin	green
-biotin/methionine sulfoxide reductase	1.-.-.-	H+	H2O	green
-biotin/methionine sulfoxide reductase	1.-.-.-	H+	NADP+	green
-biotin/methionine sulfoxide reductase	1.-.-.-	NADPH	Biotin	green
-biotin/methionine sulfoxide reductase	1.-.-.-	NADPH	H2O	green
-biotin/methionine sulfoxide reductase	1.-.-.-	NADPH	NADP+	green
-biotinidase	3.5.1.12	Biocytin	Biotin	white
-biotinidase	3.5.1.12	Biocytin	L-Lysine	white
-biotinidase	3.5.1.12	Biotin	Biocytin	white
-biotinidase	3.5.1.12	Biotin	H2O	white
-biotinidase	3.5.1.12	H2O	Biotin	white
-biotinidase	3.5.1.12	H2O	L-Lysine	white
-biotinidase	3.5.1.12	L-Lysine	Biocytin	white
-biotinidase	3.5.1.12	L-Lysine	H2O	white
-dethiobiotin synthetase	6.3.3.3	7,8-Diaminononanoate	ADP	white
-dethiobiotin synthetase	6.3.3.3	7,8-Diaminononanoate	Dethiobiotin	white
-dethiobiotin synthetase	6.3.3.3	7,8-Diaminononanoate	Orthophosphate	white
-dethiobiotin synthetase	6.3.3.3	ADP	7,8-Diaminononanoate	white
-dethiobiotin synthetase	6.3.3.3	ADP	ATP	white
-dethiobiotin synthetase	6.3.3.3	ADP	CO2	white
-dethiobiotin synthetase	6.3.3.3	ATP	ADP	white
-dethiobiotin synthetase	6.3.3.3	ATP	Dethiobiotin	white
-dethiobiotin synthetase	6.3.3.3	ATP	Orthophosphate	white
-dethiobiotin synthetase	6.3.3.3	CO2	ADP	white
-dethiobiotin synthetase	6.3.3.3	CO2	Dethiobiotin	white
-dethiobiotin synthetase	6.3.3.3	CO2	Orthophosphate	white
-dethiobiotin synthetase	6.3.3.3	Dethiobiotin	7,8-Diaminononanoate	white
-dethiobiotin synthetase	6.3.3.3	Dethiobiotin	ATP	white
-dethiobiotin synthetase	6.3.3.3	Dethiobiotin	CO2	white
-dethiobiotin synthetase	6.3.3.3	Orthophosphate	7,8-Diaminononanoate	white
-dethiobiotin synthetase	6.3.3.3	Orthophosphate	ATP	white
-dethiobiotin synthetase	6.3.3.3	Orthophosphate	CO2	white
-enoyl-[acyl-carrier protein] reductase I	1.3.1.9	Acyl-[acyl-carrier protein]	H+	white
-enoyl-[acyl-carrier protein] reductase I	1.3.1.9	Acyl-[acyl-carrier protein]	NADH	white
-enoyl-[acyl-carrier protein] reductase I	1.3.1.9	Acyl-[acyl-carrier protein]	trans-2,3-Dehydroacyl-[acyl-carrier protein]	white
-enoyl-[acyl-carrier protein] reductase I	1.3.1.9	H+	Acyl-[acyl-carrier protein]	white
-enoyl-[acyl-carrier protein] reductase I	1.3.1.9	H+	NAD+	white
-enoyl-[acyl-carrier protein] reductase I	1.3.1.9	NAD+	H+	white
-enoyl-[acyl-carrier protein] reductase I	1.3.1.9	NAD+	NADH	white
-enoyl-[acyl-carrier protein] reductase I	1.3.1.9	NAD+	trans-2,3-Dehydroacyl-[acyl-carrier protein]	white
-enoyl-[acyl-carrier protein] reductase I	1.3.1.9	NADH	Acyl-[acyl-carrier protein]	white
-enoyl-[acyl-carrier protein] reductase I	1.3.1.9	NADH	NAD+	white
-enoyl-[acyl-carrier protein] reductase I	1.3.1.9	trans-2,3-Dehydroacyl-[acyl-carrier protein]	Acyl-[acyl-carrier protein]	white
-enoyl-[acyl-carrier protein] reductase I	1.3.1.9	trans-2,3-Dehydroacyl-[acyl-carrier protein]	NAD+	white
-lysine---8-amino-7-oxononanoate aminotransferase	2.6.1.105	7,8-Diaminononanoate	8-Amino-7-oxononanoate	white
-lysine---8-amino-7-oxononanoate aminotransferase	2.6.1.105	7,8-Diaminononanoate	L-Lysine	white
-lysine---8-amino-7-oxononanoate aminotransferase	2.6.1.105	8-Amino-7-oxononanoate	7,8-Diaminononanoate	white
-lysine---8-amino-7-oxononanoate aminotransferase	2.6.1.105	8-Amino-7-oxononanoate	L-2-Aminoadipate 6-semialdehyde	white
-lysine---8-amino-7-oxononanoate aminotransferase	2.6.1.105	L-2-Aminoadipate 6-semialdehyde	8-Amino-7-oxononanoate	white
-lysine---8-amino-7-oxononanoate aminotransferase	2.6.1.105	L-2-Aminoadipate 6-semialdehyde	L-Lysine	white
-lysine---8-amino-7-oxononanoate aminotransferase	2.6.1.105	L-Lysine	7,8-Diaminononanoate	white
-lysine---8-amino-7-oxononanoate aminotransferase	2.6.1.105	L-Lysine	L-2-Aminoadipate 6-semialdehyde	white
-malonyl-CoA O-methyltransferase	2.1.1.197	Malonyl-[acp] methyl ester	Malonyl-[acyl-carrier protein]	white
-malonyl-CoA O-methyltransferase	2.1.1.197	Malonyl-[acp] methyl ester	S-Adenosyl-L-methionine	white
-malonyl-CoA O-methyltransferase	2.1.1.197	Malonyl-[acyl-carrier protein]	Malonyl-[acp] methyl ester	white
-malonyl-CoA O-methyltransferase	2.1.1.197	Malonyl-[acyl-carrier protein]	S-Adenosyl-L-homocysteine	white
-malonyl-CoA O-methyltransferase	2.1.1.197	S-Adenosyl-L-homocysteine	Malonyl-[acyl-carrier protein]	white
-malonyl-CoA O-methyltransferase	2.1.1.197	S-Adenosyl-L-homocysteine	S-Adenosyl-L-methionine	white
-malonyl-CoA O-methyltransferase	2.1.1.197	S-Adenosyl-L-methionine	Malonyl-[acp] methyl ester	white
-malonyl-CoA O-methyltransferase	2.1.1.197	S-Adenosyl-L-methionine	S-Adenosyl-L-homocysteine	white
-pimeloyl-[acyl-carrier protein] methyl ester esterase	3.1.1.85	H2O	Methanol	white
-pimeloyl-[acyl-carrier protein] methyl ester esterase	3.1.1.85	H2O	Pimeloyl-[acyl-carrier protein]	white
-pimeloyl-[acyl-carrier protein] methyl ester esterase	3.1.1.85	Methanol	H2O	white
-pimeloyl-[acyl-carrier protein] methyl ester esterase	3.1.1.85	Methanol	Pimeloyl-[acyl-carrier protein] methyl ester	white
-pimeloyl-[acyl-carrier protein] methyl ester esterase	3.1.1.85	Pimeloyl-[acyl-carrier protein]	H2O	white
-pimeloyl-[acyl-carrier protein] methyl ester esterase	3.1.1.85	Pimeloyl-[acyl-carrier protein]	Pimeloyl-[acyl-carrier protein] methyl ester	white
-pimeloyl-[acyl-carrier protein] methyl ester esterase	3.1.1.85	Pimeloyl-[acyl-carrier protein] methyl ester	Methanol	white
-pimeloyl-[acyl-carrier protein] methyl ester esterase	3.1.1.85	Pimeloyl-[acyl-carrier protein] methyl ester	Pimeloyl-[acyl-carrier protein]	white
-pimeloyl-[acyl-carrier protein] synthase	1.14.14.46	H2O	Long-chain acyl-[acyl-carrier protein]	white
-pimeloyl-[acyl-carrier protein] synthase	1.14.14.46	H2O	Oxygen	white
-pimeloyl-[acyl-carrier protein] synthase	1.14.14.46	H2O	Reduced flavodoxin	white
-pimeloyl-[acyl-carrier protein] synthase	1.14.14.46	Long-chain acyl-[acyl-carrier protein]	H2O	white
-pimeloyl-[acyl-carrier protein] synthase	1.14.14.46	Long-chain acyl-[acyl-carrier protein]	Oxidized flavodoxin	white
-pimeloyl-[acyl-carrier protein] synthase	1.14.14.46	Long-chain acyl-[acyl-carrier protein]	Pimeloyl-[acyl-carrier protein]	white
-pimeloyl-[acyl-carrier protein] synthase	1.14.14.46	Long-chain acyl-[acyl-carrier protein]	n-Alkanal	white
-pimeloyl-[acyl-carrier protein] synthase	1.14.14.46	Oxidized flavodoxin	Long-chain acyl-[acyl-carrier protein]	white
-pimeloyl-[acyl-carrier protein] synthase	1.14.14.46	Oxidized flavodoxin	Oxygen	white
-pimeloyl-[acyl-carrier protein] synthase	1.14.14.46	Oxidized flavodoxin	Reduced flavodoxin	white
-pimeloyl-[acyl-carrier protein] synthase	1.14.14.46	Oxygen	H2O	white
-pimeloyl-[acyl-carrier protein] synthase	1.14.14.46	Oxygen	Oxidized flavodoxin	white
-pimeloyl-[acyl-carrier protein] synthase	1.14.14.46	Oxygen	Pimeloyl-[acyl-carrier protein]	white
-pimeloyl-[acyl-carrier protein] synthase	1.14.14.46	Oxygen	n-Alkanal	white
-pimeloyl-[acyl-carrier protein] synthase	1.14.14.46	Pimeloyl-[acyl-carrier protein]	Long-chain acyl-[acyl-carrier protein]	white
-pimeloyl-[acyl-carrier protein] synthase	1.14.14.46	Pimeloyl-[acyl-carrier protein]	Oxygen	white
-pimeloyl-[acyl-carrier protein] synthase	1.14.14.46	Pimeloyl-[acyl-carrier protein]	Reduced flavodoxin	white
-pimeloyl-[acyl-carrier protein] synthase	1.14.14.46	Reduced flavodoxin	H2O	white
-pimeloyl-[acyl-carrier protein] synthase	1.14.14.46	Reduced flavodoxin	Oxidized flavodoxin	white
-pimeloyl-[acyl-carrier protein] synthase	1.14.14.46	Reduced flavodoxin	Pimeloyl-[acyl-carrier protein]	white
-pimeloyl-[acyl-carrier protein] synthase	1.14.14.46	Reduced flavodoxin	n-Alkanal	white
-pimeloyl-[acyl-carrier protein] synthase	1.14.14.46	n-Alkanal	Long-chain acyl-[acyl-carrier protein]	white
-pimeloyl-[acyl-carrier protein] synthase	1.14.14.46	n-Alkanal	Oxygen	white
-pimeloyl-[acyl-carrier protein] synthase	1.14.14.46	n-Alkanal	Reduced flavodoxin	white
-roa:Pd630_LPD12041		3-Ketoglutaryl-[acp] methyl ester	3-Hydroxyglutaryl-[acp] methyl ester	green
-roa:Pd630_LPD12041		3-Ketoglutaryl-[acp] methyl ester	NADP+	green
-roa:Pd630_LPD12041		3-Ketopimeloyl-[acp] methyl ester	3-Hydroxypimeloyl-[acp] methyl ester	green
-roa:Pd630_LPD12041		3-Ketopimeloyl-[acp] methyl ester	NADP+	green
-roa:Pd630_LPD12041		H+	3-Hydroxyglutaryl-[acp] methyl ester	green
-roa:Pd630_LPD12041		H+	3-Hydroxypimeloyl-[acp] methyl ester	green
-roa:Pd630_LPD12041		H+	NADP+	green
-roa:Pd630_LPD12041		NADPH	3-Hydroxyglutaryl-[acp] methyl ester	green
-roa:Pd630_LPD12041		NADPH	3-Hydroxypimeloyl-[acp] methyl ester	green
-roa:Pd630_LPD12041		NADPH	NADP+	green
+enzyme_name	EC	source	target	reaction	color
+3-hydroxyacyl-[acyl-carrier-protein] dehydratase	4.2.1.59	(3R)-3-Hydroxybutanoyl-[acyl-carrier protein]	But-2-enoyl-[acyl-carrier protein]	R04428	white
+3-hydroxyacyl-[acyl-carrier-protein] dehydratase	4.2.1.59	(3R)-3-Hydroxybutanoyl-[acyl-carrier protein]	H2O	R04428	white
+3-hydroxyacyl-[acyl-carrier-protein] dehydratase	4.2.1.59	But-2-enoyl-[acyl-carrier protein]	(3R)-3-Hydroxybutanoyl-[acyl-carrier protein]	R04428	white
+3-hydroxyacyl-[acyl-carrier-protein] dehydratase	4.2.1.59	H2O	(3R)-3-Hydroxybutanoyl-[acyl-carrier protein]	R04428	white
+3-oxoacyl-[acyl-carrier protein] reductase	1.1.1.100	3-Ketoglutaryl-[acp] methyl ester	3-Hydroxyglutaryl-[acp] methyl ester	R10116	green
+3-oxoacyl-[acyl-carrier protein] reductase	1.1.1.100	3-Ketoglutaryl-[acp] methyl ester	NADP+	R10116	green
+3-oxoacyl-[acyl-carrier protein] reductase	1.1.1.100	3-Ketopimeloyl-[acp] methyl ester	3-Hydroxypimeloyl-[acp] methyl ester	R10120	green
+3-oxoacyl-[acyl-carrier protein] reductase	1.1.1.100	3-Ketopimeloyl-[acp] methyl ester	NADP+	R10120	green
+3-oxoacyl-[acyl-carrier protein] reductase	1.1.1.100	H+	3-Hydroxyglutaryl-[acp] methyl ester	R10116	green
+3-oxoacyl-[acyl-carrier protein] reductase	1.1.1.100	H+	3-Hydroxypimeloyl-[acp] methyl ester	R10120	green
+3-oxoacyl-[acyl-carrier protein] reductase	1.1.1.100	H+	NADP+	R10116	green
+3-oxoacyl-[acyl-carrier protein] reductase	1.1.1.100	H+	NADP+	R10120	green
+3-oxoacyl-[acyl-carrier protein] reductase	1.1.1.100	NADPH	3-Hydroxyglutaryl-[acp] methyl ester	R10116	green
+3-oxoacyl-[acyl-carrier protein] reductase	1.1.1.100	NADPH	3-Hydroxypimeloyl-[acp] methyl ester	R10120	green
+3-oxoacyl-[acyl-carrier protein] reductase	1.1.1.100	NADPH	NADP+	R10116	green
+3-oxoacyl-[acyl-carrier protein] reductase	1.1.1.100	NADPH	NADP+	R10120	green
+3-oxoacyl-[acyl-carrier-protein] synthase I	2.3.1.41	3-Oxoacyl-[acyl-carrier protein]	Acyl-[acyl-carrier protein]	R02768	white
+3-oxoacyl-[acyl-carrier-protein] synthase I	2.3.1.41	3-Oxoacyl-[acyl-carrier protein]	Malonyl-[acyl-carrier protein]	R02768	white
+3-oxoacyl-[acyl-carrier-protein] synthase I	2.3.1.41	Acyl-[acyl-carrier protein]	3-Oxoacyl-[acyl-carrier protein]	R02768	white
+3-oxoacyl-[acyl-carrier-protein] synthase I	2.3.1.41	Acyl-[acyl-carrier protein]	Acyl-carrier protein	R02768	white
+3-oxoacyl-[acyl-carrier-protein] synthase I	2.3.1.41	Acyl-[acyl-carrier protein]	CO2	R02768	white
+3-oxoacyl-[acyl-carrier-protein] synthase I	2.3.1.41	Acyl-carrier protein	Acyl-[acyl-carrier protein]	R02768	white
+3-oxoacyl-[acyl-carrier-protein] synthase I	2.3.1.41	Acyl-carrier protein	Malonyl-[acyl-carrier protein]	R02768	white
+3-oxoacyl-[acyl-carrier-protein] synthase I	2.3.1.41	CO2	Acyl-[acyl-carrier protein]	R02768	white
+3-oxoacyl-[acyl-carrier-protein] synthase I	2.3.1.41	CO2	Malonyl-[acyl-carrier protein]	R02768	white
+3-oxoacyl-[acyl-carrier-protein] synthase I	2.3.1.41	Malonyl-[acyl-carrier protein]	3-Oxoacyl-[acyl-carrier protein]	R02768	white
+3-oxoacyl-[acyl-carrier-protein] synthase I	2.3.1.41	Malonyl-[acyl-carrier protein]	Acyl-carrier protein	R02768	white
+3-oxoacyl-[acyl-carrier-protein] synthase I	2.3.1.41	Malonyl-[acyl-carrier protein]	CO2	R02768	white
+3-oxoacyl-[acyl-carrier-protein] synthase II	2.3.1.179	3-Oxoacyl-[acyl-carrier protein]	Acyl-[acyl-carrier protein]	R02768	white
+3-oxoacyl-[acyl-carrier-protein] synthase II	2.3.1.179	3-Oxoacyl-[acyl-carrier protein]	Malonyl-[acyl-carrier protein]	R02768	white
+3-oxoacyl-[acyl-carrier-protein] synthase II	2.3.1.179	Acyl-[acyl-carrier protein]	3-Oxoacyl-[acyl-carrier protein]	R02768	white
+3-oxoacyl-[acyl-carrier-protein] synthase II	2.3.1.179	Acyl-[acyl-carrier protein]	Acyl-carrier protein	R02768	white
+3-oxoacyl-[acyl-carrier-protein] synthase II	2.3.1.179	Acyl-[acyl-carrier protein]	CO2	R02768	white
+3-oxoacyl-[acyl-carrier-protein] synthase II	2.3.1.179	Acyl-carrier protein	Acyl-[acyl-carrier protein]	R02768	white
+3-oxoacyl-[acyl-carrier-protein] synthase II	2.3.1.179	Acyl-carrier protein	Malonyl-[acyl-carrier protein]	R02768	white
+3-oxoacyl-[acyl-carrier-protein] synthase II	2.3.1.179	CO2	Acyl-[acyl-carrier protein]	R02768	white
+3-oxoacyl-[acyl-carrier-protein] synthase II	2.3.1.179	CO2	Malonyl-[acyl-carrier protein]	R02768	white
+3-oxoacyl-[acyl-carrier-protein] synthase II	2.3.1.179	Malonyl-[acyl-carrier protein]	3-Oxoacyl-[acyl-carrier protein]	R02768	white
+3-oxoacyl-[acyl-carrier-protein] synthase II	2.3.1.179	Malonyl-[acyl-carrier protein]	Acyl-carrier protein	R02768	white
+3-oxoacyl-[acyl-carrier-protein] synthase II	2.3.1.179	Malonyl-[acyl-carrier protein]	CO2	R02768	white
+6-carboxyhexanoate--CoA ligase	6.2.1.14	AMP	ATP	R03209	white
+6-carboxyhexanoate--CoA ligase	6.2.1.14	AMP	CoA	R03209	white
+6-carboxyhexanoate--CoA ligase	6.2.1.14	AMP	Pimelate	R03209	white
+6-carboxyhexanoate--CoA ligase	6.2.1.14	ATP	AMP	R03209	white
+6-carboxyhexanoate--CoA ligase	6.2.1.14	ATP	Diphosphate	R03209	white
+6-carboxyhexanoate--CoA ligase	6.2.1.14	ATP	Pimeloyl-CoA	R03209	white
+6-carboxyhexanoate--CoA ligase	6.2.1.14	CoA	AMP	R03209	white
+6-carboxyhexanoate--CoA ligase	6.2.1.14	CoA	Diphosphate	R03209	white
+6-carboxyhexanoate--CoA ligase	6.2.1.14	CoA	Pimeloyl-CoA	R03209	white
+6-carboxyhexanoate--CoA ligase	6.2.1.14	Diphosphate	ATP	R03209	white
+6-carboxyhexanoate--CoA ligase	6.2.1.14	Diphosphate	CoA	R03209	white
+6-carboxyhexanoate--CoA ligase	6.2.1.14	Diphosphate	Pimelate	R03209	white
+6-carboxyhexanoate--CoA ligase	6.2.1.14	Pimelate	AMP	R03209	white
+6-carboxyhexanoate--CoA ligase	6.2.1.14	Pimelate	Diphosphate	R03209	white
+6-carboxyhexanoate--CoA ligase	6.2.1.14	Pimelate	Pimeloyl-CoA	R03209	white
+6-carboxyhexanoate--CoA ligase	6.2.1.14	Pimeloyl-CoA	ATP	R03209	white
+6-carboxyhexanoate--CoA ligase	6.2.1.14	Pimeloyl-CoA	CoA	R03209	white
+6-carboxyhexanoate--CoA ligase	6.2.1.14	Pimeloyl-CoA	Pimelate	R03209	white
+8-amino-7-oxononanoate carboxylating dehydrogenase	2.6.1.121	8-Amino-7-(carboxyamino)nonanoate	8-Amino-7-oxononanoate	R12935	white
+8-amino-7-oxononanoate carboxylating dehydrogenase	2.6.1.121	8-Amino-7-(carboxyamino)nonanoate	CO2	R12935	white
+8-amino-7-oxononanoate carboxylating dehydrogenase	2.6.1.121	8-Amino-7-(carboxyamino)nonanoate	Protein lysine	R12935	white
+8-amino-7-oxononanoate carboxylating dehydrogenase	2.6.1.121	8-Amino-7-oxononanoate	8-Amino-7-(carboxyamino)nonanoate	R12935	white
+8-amino-7-oxononanoate carboxylating dehydrogenase	2.6.1.121	8-Amino-7-oxononanoate	[Protein]-(S)-2-amino-6-oxohexanoate	R12935	white
+8-amino-7-oxononanoate carboxylating dehydrogenase	2.6.1.121	CO2	8-Amino-7-(carboxyamino)nonanoate	R12935	white
+8-amino-7-oxononanoate carboxylating dehydrogenase	2.6.1.121	CO2	[Protein]-(S)-2-amino-6-oxohexanoate	R12935	white
+8-amino-7-oxononanoate carboxylating dehydrogenase	2.6.1.121	Protein lysine	8-Amino-7-(carboxyamino)nonanoate	R12935	white
+8-amino-7-oxononanoate carboxylating dehydrogenase	2.6.1.121	Protein lysine	[Protein]-(S)-2-amino-6-oxohexanoate	R12935	white
+8-amino-7-oxononanoate carboxylating dehydrogenase	2.6.1.121	[Protein]-(S)-2-amino-6-oxohexanoate	8-Amino-7-oxononanoate	R12935	white
+8-amino-7-oxononanoate carboxylating dehydrogenase	2.6.1.121	[Protein]-(S)-2-amino-6-oxohexanoate	CO2	R12935	white
+8-amino-7-oxononanoate carboxylating dehydrogenase	2.6.1.121	[Protein]-(S)-2-amino-6-oxohexanoate	Protein lysine	R12935	white
+8-amino-7-oxononanoate synthase	2.3.1.47	L-Alanine	8-Amino-7-oxononanoate	R03210	green
+8-amino-7-oxononanoate synthase	2.3.1.47	L-Alanine	8-Amino-7-oxononanoate	R10124	green
+8-amino-7-oxononanoate synthase	2.3.1.47	L-Alanine	Acyl-carrier protein	R10124	green
+8-amino-7-oxononanoate synthase	2.3.1.47	L-Alanine	CO2	R03210	green
+8-amino-7-oxononanoate synthase	2.3.1.47	L-Alanine	CO2	R10124	green
+8-amino-7-oxononanoate synthase	2.3.1.47	L-Alanine	CoA	R03210	green
+8-amino-7-oxononanoate synthase	2.3.1.47	Pimeloyl-CoA	8-Amino-7-oxononanoate	R03210	green
+8-amino-7-oxononanoate synthase	2.3.1.47	Pimeloyl-CoA	CO2	R03210	green
+8-amino-7-oxononanoate synthase	2.3.1.47	Pimeloyl-CoA	CoA	R03210	green
+8-amino-7-oxononanoate synthase	2.3.1.47	Pimeloyl-[acyl-carrier protein]	8-Amino-7-oxononanoate	R10124	green
+8-amino-7-oxononanoate synthase	2.3.1.47	Pimeloyl-[acyl-carrier protein]	Acyl-carrier protein	R10124	green
+8-amino-7-oxononanoate synthase	2.3.1.47	Pimeloyl-[acyl-carrier protein]	CO2	R10124	green
+BirA family transcriptional regulator, biotin operon repressor / biotin---[acetyl-CoA-carboxylase] ligase	6.3.4.15	ATP	Biotinyl-5'-AMP	R01074	green
+BirA family transcriptional regulator, biotin operon repressor / biotin---[acetyl-CoA-carboxylase] ligase	6.3.4.15	ATP	Diphosphate	R01074	green
+BirA family transcriptional regulator, biotin operon repressor / biotin---[acetyl-CoA-carboxylase] ligase	6.3.4.15	Apo-[carboxylase]	AMP	R05145	green
+BirA family transcriptional regulator, biotin operon repressor / biotin---[acetyl-CoA-carboxylase] ligase	6.3.4.15	Apo-[carboxylase]	Holo-[carboxylase]	R05145	green
+BirA family transcriptional regulator, biotin operon repressor / biotin---[acetyl-CoA-carboxylase] ligase	6.3.4.15	Biotin	Biotinyl-5'-AMP	R01074	green
+BirA family transcriptional regulator, biotin operon repressor / biotin---[acetyl-CoA-carboxylase] ligase	6.3.4.15	Biotin	Diphosphate	R01074	green
+BirA family transcriptional regulator, biotin operon repressor / biotin---[acetyl-CoA-carboxylase] ligase	6.3.4.15	Biotinyl-5'-AMP	AMP	R05145	green
+BirA family transcriptional regulator, biotin operon repressor / biotin---[acetyl-CoA-carboxylase] ligase	6.3.4.15	Biotinyl-5'-AMP	Holo-[carboxylase]	R05145	green
+adenosylmethionine---8-amino-7-oxononanoate aminotransferase	2.6.1.62	8-Amino-7-oxononanoate	7,8-Diaminononanoate	R03231	green
+adenosylmethionine---8-amino-7-oxononanoate aminotransferase	2.6.1.62	8-Amino-7-oxononanoate	S-Adenosyl-4-methylthio-2-oxobutanoate	R03231	green
+adenosylmethionine---8-amino-7-oxononanoate aminotransferase	2.6.1.62	S-Adenosyl-L-methionine	7,8-Diaminononanoate	R03231	green
+adenosylmethionine---8-amino-7-oxononanoate aminotransferase	2.6.1.62	S-Adenosyl-L-methionine	S-Adenosyl-4-methylthio-2-oxobutanoate	R03231	green
+bifunctional dethiobiotin synthetase / spermidine---8-amino-7-oxononanoate transaminase	6.3.3.3	7,8-Diaminononanoate	ADP	R03182	white
+bifunctional dethiobiotin synthetase / spermidine---8-amino-7-oxononanoate transaminase	6.3.3.3	7,8-Diaminononanoate	Dethiobiotin	R03182	white
+bifunctional dethiobiotin synthetase / spermidine---8-amino-7-oxononanoate transaminase	6.3.3.3	7,8-Diaminononanoate	Orthophosphate	R03182	white
+bifunctional dethiobiotin synthetase / spermidine---8-amino-7-oxononanoate transaminase	6.3.3.3	ADP	7,8-Diaminononanoate	R03182	white
+bifunctional dethiobiotin synthetase / spermidine---8-amino-7-oxononanoate transaminase	6.3.3.3	ADP	ATP	R03182	white
+bifunctional dethiobiotin synthetase / spermidine---8-amino-7-oxononanoate transaminase	6.3.3.3	ADP	CO2	R03182	white
+bifunctional dethiobiotin synthetase / spermidine---8-amino-7-oxononanoate transaminase	6.3.3.3	ATP	ADP	R03182	white
+bifunctional dethiobiotin synthetase / spermidine---8-amino-7-oxononanoate transaminase	6.3.3.3	ATP	Dethiobiotin	R03182	white
+bifunctional dethiobiotin synthetase / spermidine---8-amino-7-oxononanoate transaminase	6.3.3.3	ATP	Orthophosphate	R03182	white
+bifunctional dethiobiotin synthetase / spermidine---8-amino-7-oxononanoate transaminase	6.3.3.3	CO2	ADP	R03182	white
+bifunctional dethiobiotin synthetase / spermidine---8-amino-7-oxononanoate transaminase	6.3.3.3	CO2	Dethiobiotin	R03182	white
+bifunctional dethiobiotin synthetase / spermidine---8-amino-7-oxononanoate transaminase	6.3.3.3	CO2	Orthophosphate	R03182	white
+bifunctional dethiobiotin synthetase / spermidine---8-amino-7-oxononanoate transaminase	6.3.3.3	Dethiobiotin	7,8-Diaminononanoate	R03182	white
+bifunctional dethiobiotin synthetase / spermidine---8-amino-7-oxononanoate transaminase	6.3.3.3	Dethiobiotin	ATP	R03182	white
+bifunctional dethiobiotin synthetase / spermidine---8-amino-7-oxononanoate transaminase	6.3.3.3	Dethiobiotin	CO2	R03182	white
+bifunctional dethiobiotin synthetase / spermidine---8-amino-7-oxononanoate transaminase	6.3.3.3	Orthophosphate	7,8-Diaminononanoate	R03182	white
+bifunctional dethiobiotin synthetase / spermidine---8-amino-7-oxononanoate transaminase	6.3.3.3	Orthophosphate	ATP	R03182	white
+bifunctional dethiobiotin synthetase / spermidine---8-amino-7-oxononanoate transaminase	6.3.3.3	Orthophosphate	CO2	R03182	white
+biotin synthase	2.8.1.6	Dethiobiotin	5'-Deoxyadenosine	R01078	green
+biotin synthase	2.8.1.6	Dethiobiotin	Biotin	R01078	green
+biotin synthase	2.8.1.6	Dethiobiotin	L-Methionine	R01078	green
+biotin synthase	2.8.1.6	H+	5'-Deoxyadenosine	R01078	green
+biotin synthase	2.8.1.6	H+	Biotin	R01078	green
+biotin synthase	2.8.1.6	H+	L-Methionine	R01078	green
+biotin synthase	2.8.1.6	S-Adenosyl-L-methionine	5'-Deoxyadenosine	R01078	green
+biotin synthase	2.8.1.6	S-Adenosyl-L-methionine	Biotin	R01078	green
+biotin synthase	2.8.1.6	S-Adenosyl-L-methionine	L-Methionine	R01078	green
+biotin synthase	2.8.1.6	Sulfur donor	5'-Deoxyadenosine	R01078	green
+biotin synthase	2.8.1.6	Sulfur donor	Biotin	R01078	green
+biotin synthase	2.8.1.6	Sulfur donor	L-Methionine	R01078	green
+biotin synthase	2.8.1.6	e-	5'-Deoxyadenosine	R01078	green
+biotin synthase	2.8.1.6	e-	Biotin	R01078	green
+biotin synthase	2.8.1.6	e-	L-Methionine	R01078	green
+biotin---protein ligase	6.3.4.9	ATP	Biotinyl-5'-AMP	R01074	white
+biotin---protein ligase	6.3.4.9	ATP	Diphosphate	R01074	white
+biotin---protein ligase	6.3.4.9	Biotin	Biotinyl-5'-AMP	R01074	white
+biotin---protein ligase	6.3.4.9	Biotin	Diphosphate	R01074	white
+biotin---protein ligase	6.3.4.9	Biotinyl-5'-AMP	ATP	R01074	white
+biotin---protein ligase	6.3.4.9	Biotinyl-5'-AMP	Biotin	R01074	white
+biotin---protein ligase	6.3.4.9	Diphosphate	ATP	R01074	white
+biotin---protein ligase	6.3.4.9	Diphosphate	Biotin	R01074	white
+biotin/methionine sulfoxide reductase	1.-.-.-	Biotin sulfoxide	Biotin	R10127	green
+biotin/methionine sulfoxide reductase	1.-.-.-	Biotin sulfoxide	H2O	R10127	green
+biotin/methionine sulfoxide reductase	1.-.-.-	Biotin sulfoxide	NADP+	R10127	green
+biotin/methionine sulfoxide reductase	1.-.-.-	H+	Biotin	R10127	green
+biotin/methionine sulfoxide reductase	1.-.-.-	H+	H2O	R10127	green
+biotin/methionine sulfoxide reductase	1.-.-.-	H+	NADP+	R10127	green
+biotin/methionine sulfoxide reductase	1.-.-.-	NADPH	Biotin	R10127	green
+biotin/methionine sulfoxide reductase	1.-.-.-	NADPH	H2O	R10127	green
+biotin/methionine sulfoxide reductase	1.-.-.-	NADPH	NADP+	R10127	green
+biotinidase	3.5.1.12	Biocytin	Biotin	R01077	white
+biotinidase	3.5.1.12	Biocytin	L-Lysine	R01077	white
+biotinidase	3.5.1.12	Biotin	Biocytin	R01077	white
+biotinidase	3.5.1.12	Biotin	H2O	R01077	white
+biotinidase	3.5.1.12	H2O	Biotin	R01077	white
+biotinidase	3.5.1.12	H2O	L-Lysine	R01077	white
+biotinidase	3.5.1.12	L-Lysine	Biocytin	R01077	white
+biotinidase	3.5.1.12	L-Lysine	H2O	R01077	white
+dethiobiotin synthetase	6.3.3.3	7,8-Diaminononanoate	ADP	R03182	white
+dethiobiotin synthetase	6.3.3.3	7,8-Diaminononanoate	Dethiobiotin	R03182	white
+dethiobiotin synthetase	6.3.3.3	7,8-Diaminononanoate	Orthophosphate	R03182	white
+dethiobiotin synthetase	6.3.3.3	ADP	7,8-Diaminononanoate	R03182	white
+dethiobiotin synthetase	6.3.3.3	ADP	ATP	R03182	white
+dethiobiotin synthetase	6.3.3.3	ADP	CO2	R03182	white
+dethiobiotin synthetase	6.3.3.3	ATP	ADP	R03182	white
+dethiobiotin synthetase	6.3.3.3	ATP	Dethiobiotin	R03182	white
+dethiobiotin synthetase	6.3.3.3	ATP	Orthophosphate	R03182	white
+dethiobiotin synthetase	6.3.3.3	CO2	ADP	R03182	white
+dethiobiotin synthetase	6.3.3.3	CO2	Dethiobiotin	R03182	white
+dethiobiotin synthetase	6.3.3.3	CO2	Orthophosphate	R03182	white
+dethiobiotin synthetase	6.3.3.3	Dethiobiotin	7,8-Diaminononanoate	R03182	white
+dethiobiotin synthetase	6.3.3.3	Dethiobiotin	ATP	R03182	white
+dethiobiotin synthetase	6.3.3.3	Dethiobiotin	CO2	R03182	white
+dethiobiotin synthetase	6.3.3.3	Orthophosphate	7,8-Diaminononanoate	R03182	white
+dethiobiotin synthetase	6.3.3.3	Orthophosphate	ATP	R03182	white
+dethiobiotin synthetase	6.3.3.3	Orthophosphate	CO2	R03182	white
+enoyl-[acyl-carrier protein] reductase I	1.3.1.9	Acyl-[acyl-carrier protein]	H+	R01403	white
+enoyl-[acyl-carrier protein] reductase I	1.3.1.9	Acyl-[acyl-carrier protein]	NADH	R01403	white
+enoyl-[acyl-carrier protein] reductase I	1.3.1.9	Acyl-[acyl-carrier protein]	trans-2,3-Dehydroacyl-[acyl-carrier protein]	R01403	white
+enoyl-[acyl-carrier protein] reductase I	1.3.1.9	H+	Acyl-[acyl-carrier protein]	R01403	white
+enoyl-[acyl-carrier protein] reductase I	1.3.1.9	H+	NAD+	R01403	white
+enoyl-[acyl-carrier protein] reductase I	1.3.1.9	NAD+	H+	R01403	white
+enoyl-[acyl-carrier protein] reductase I	1.3.1.9	NAD+	NADH	R01403	white
+enoyl-[acyl-carrier protein] reductase I	1.3.1.9	NAD+	trans-2,3-Dehydroacyl-[acyl-carrier protein]	R01403	white
+enoyl-[acyl-carrier protein] reductase I	1.3.1.9	NADH	Acyl-[acyl-carrier protein]	R01403	white
+enoyl-[acyl-carrier protein] reductase I	1.3.1.9	NADH	NAD+	R01403	white
+enoyl-[acyl-carrier protein] reductase I	1.3.1.9	trans-2,3-Dehydroacyl-[acyl-carrier protein]	Acyl-[acyl-carrier protein]	R01403	white
+enoyl-[acyl-carrier protein] reductase I	1.3.1.9	trans-2,3-Dehydroacyl-[acyl-carrier protein]	NAD+	R01403	white
+lysine---8-amino-7-oxononanoate aminotransferase	2.6.1.105	7,8-Diaminononanoate	8-Amino-7-oxononanoate	R10699	white
+lysine---8-amino-7-oxononanoate aminotransferase	2.6.1.105	7,8-Diaminononanoate	L-Lysine	R10699	white
+lysine---8-amino-7-oxononanoate aminotransferase	2.6.1.105	8-Amino-7-oxononanoate	7,8-Diaminononanoate	R10699	white
+lysine---8-amino-7-oxononanoate aminotransferase	2.6.1.105	8-Amino-7-oxononanoate	L-2-Aminoadipate 6-semialdehyde	R10699	white
+lysine---8-amino-7-oxononanoate aminotransferase	2.6.1.105	L-2-Aminoadipate 6-semialdehyde	8-Amino-7-oxononanoate	R10699	white
+lysine---8-amino-7-oxononanoate aminotransferase	2.6.1.105	L-2-Aminoadipate 6-semialdehyde	L-Lysine	R10699	white
+lysine---8-amino-7-oxononanoate aminotransferase	2.6.1.105	L-Lysine	7,8-Diaminononanoate	R10699	white
+lysine---8-amino-7-oxononanoate aminotransferase	2.6.1.105	L-Lysine	L-2-Aminoadipate 6-semialdehyde	R10699	white
+malonyl-CoA O-methyltransferase	2.1.1.197	Malonyl-[acp] methyl ester	Malonyl-[acyl-carrier protein]	R09543	white
+malonyl-CoA O-methyltransferase	2.1.1.197	Malonyl-[acp] methyl ester	S-Adenosyl-L-methionine	R09543	white
+malonyl-CoA O-methyltransferase	2.1.1.197	Malonyl-[acyl-carrier protein]	Malonyl-[acp] methyl ester	R09543	white
+malonyl-CoA O-methyltransferase	2.1.1.197	Malonyl-[acyl-carrier protein]	S-Adenosyl-L-homocysteine	R09543	white
+malonyl-CoA O-methyltransferase	2.1.1.197	S-Adenosyl-L-homocysteine	Malonyl-[acyl-carrier protein]	R09543	white
+malonyl-CoA O-methyltransferase	2.1.1.197	S-Adenosyl-L-homocysteine	S-Adenosyl-L-methionine	R09543	white
+malonyl-CoA O-methyltransferase	2.1.1.197	S-Adenosyl-L-methionine	Malonyl-[acp] methyl ester	R09543	white
+malonyl-CoA O-methyltransferase	2.1.1.197	S-Adenosyl-L-methionine	S-Adenosyl-L-homocysteine	R09543	white
+pimeloyl-[acyl-carrier protein] methyl ester esterase	3.1.1.85	H2O	Methanol	R09725	white
+pimeloyl-[acyl-carrier protein] methyl ester esterase	3.1.1.85	H2O	Pimeloyl-[acyl-carrier protein]	R09725	white
+pimeloyl-[acyl-carrier protein] methyl ester esterase	3.1.1.85	Methanol	H2O	R09725	white
+pimeloyl-[acyl-carrier protein] methyl ester esterase	3.1.1.85	Methanol	Pimeloyl-[acyl-carrier protein] methyl ester	R09725	white
+pimeloyl-[acyl-carrier protein] methyl ester esterase	3.1.1.85	Pimeloyl-[acyl-carrier protein]	H2O	R09725	white
+pimeloyl-[acyl-carrier protein] methyl ester esterase	3.1.1.85	Pimeloyl-[acyl-carrier protein]	Pimeloyl-[acyl-carrier protein] methyl ester	R09725	white
+pimeloyl-[acyl-carrier protein] methyl ester esterase	3.1.1.85	Pimeloyl-[acyl-carrier protein] methyl ester	Methanol	R09725	white
+pimeloyl-[acyl-carrier protein] methyl ester esterase	3.1.1.85	Pimeloyl-[acyl-carrier protein] methyl ester	Pimeloyl-[acyl-carrier protein]	R09725	white
+pimeloyl-[acyl-carrier protein] synthase	1.14.14.46	H2O	Long-chain acyl-[acyl-carrier protein]	R10123	white
+pimeloyl-[acyl-carrier protein] synthase	1.14.14.46	H2O	Oxygen	R10123	white
+pimeloyl-[acyl-carrier protein] synthase	1.14.14.46	H2O	Reduced flavodoxin	R10123	white
+pimeloyl-[acyl-carrier protein] synthase	1.14.14.46	Long-chain acyl-[acyl-carrier protein]	H2O	R10123	white
+pimeloyl-[acyl-carrier protein] synthase	1.14.14.46	Long-chain acyl-[acyl-carrier protein]	Oxidized flavodoxin	R10123	white
+pimeloyl-[acyl-carrier protein] synthase	1.14.14.46	Long-chain acyl-[acyl-carrier protein]	Pimeloyl-[acyl-carrier protein]	R10123	white
+pimeloyl-[acyl-carrier protein] synthase	1.14.14.46	Long-chain acyl-[acyl-carrier protein]	n-Alkanal	R10123	white
+pimeloyl-[acyl-carrier protein] synthase	1.14.14.46	Oxidized flavodoxin	Long-chain acyl-[acyl-carrier protein]	R10123	white
+pimeloyl-[acyl-carrier protein] synthase	1.14.14.46	Oxidized flavodoxin	Oxygen	R10123	white
+pimeloyl-[acyl-carrier protein] synthase	1.14.14.46	Oxidized flavodoxin	Reduced flavodoxin	R10123	white
+pimeloyl-[acyl-carrier protein] synthase	1.14.14.46	Oxygen	H2O	R10123	white
+pimeloyl-[acyl-carrier protein] synthase	1.14.14.46	Oxygen	Oxidized flavodoxin	R10123	white
+pimeloyl-[acyl-carrier protein] synthase	1.14.14.46	Oxygen	Pimeloyl-[acyl-carrier protein]	R10123	white
+pimeloyl-[acyl-carrier protein] synthase	1.14.14.46	Oxygen	n-Alkanal	R10123	white
+pimeloyl-[acyl-carrier protein] synthase	1.14.14.46	Pimeloyl-[acyl-carrier protein]	Long-chain acyl-[acyl-carrier protein]	R10123	white
+pimeloyl-[acyl-carrier protein] synthase	1.14.14.46	Pimeloyl-[acyl-carrier protein]	Oxygen	R10123	white
+pimeloyl-[acyl-carrier protein] synthase	1.14.14.46	Pimeloyl-[acyl-carrier protein]	Reduced flavodoxin	R10123	white
+pimeloyl-[acyl-carrier protein] synthase	1.14.14.46	Reduced flavodoxin	H2O	R10123	white
+pimeloyl-[acyl-carrier protein] synthase	1.14.14.46	Reduced flavodoxin	Oxidized flavodoxin	R10123	white
+pimeloyl-[acyl-carrier protein] synthase	1.14.14.46	Reduced flavodoxin	Pimeloyl-[acyl-carrier protein]	R10123	white
+pimeloyl-[acyl-carrier protein] synthase	1.14.14.46	Reduced flavodoxin	n-Alkanal	R10123	white
+pimeloyl-[acyl-carrier protein] synthase	1.14.14.46	n-Alkanal	Long-chain acyl-[acyl-carrier protein]	R10123	white
+pimeloyl-[acyl-carrier protein] synthase	1.14.14.46	n-Alkanal	Oxygen	R10123	white
+pimeloyl-[acyl-carrier protein] synthase	1.14.14.46	n-Alkanal	Reduced flavodoxin	R10123	white
+roa:Pd630_LPD12041		3-Ketoglutaryl-[acp] methyl ester	3-Hydroxyglutaryl-[acp] methyl ester	R10116	green
+roa:Pd630_LPD12041		3-Ketoglutaryl-[acp] methyl ester	NADP+	R10116	green
+roa:Pd630_LPD12041		3-Ketopimeloyl-[acp] methyl ester	3-Hydroxypimeloyl-[acp] methyl ester	R10120	green
+roa:Pd630_LPD12041		3-Ketopimeloyl-[acp] methyl ester	NADP+	R10120	green
+roa:Pd630_LPD12041		H+	3-Hydroxyglutaryl-[acp] methyl ester	R10116	green
+roa:Pd630_LPD12041		H+	3-Hydroxypimeloyl-[acp] methyl ester	R10120	green
+roa:Pd630_LPD12041		H+	NADP+	R10116	green
+roa:Pd630_LPD12041		H+	NADP+	R10120	green
+roa:Pd630_LPD12041		NADPH	3-Hydroxyglutaryl-[acp] methyl ester	R10116	green
+roa:Pd630_LPD12041		NADPH	3-Hydroxypimeloyl-[acp] methyl ester	R10120	green
+roa:Pd630_LPD12041		NADPH	NADP+	R10116	green
+roa:Pd630_LPD12041		NADPH	NADP+	R10120	green
