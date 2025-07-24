@@ -1,7 +1,9 @@
 import os
 from classes_functions import MetabolicGraph
+from rp_classes import RP, RpGraph
 
-def get_3_shortest_paths(start:str,end:str):
+def main(start:str, end:str, inchi):
+    """ Get 3 shortest paths """
     # Check that Pathways folder exists or make one
     PATHWAY_FOLDER = 'Pathways'
     os.makedirs(PATHWAY_FOLDER, exist_ok=True)
@@ -15,12 +17,16 @@ def get_3_shortest_paths(start:str,end:str):
 
     # Connect start and/or end to central metabolites if they are not in the nodes
     node_list = list(n.lower() for n in MetabolicGraph.mega.nodes)
+
     if start not in node_list:
-        # Connenct start to central metabolites through RetroPath
-        pass
+        RP.rp_single_source()
+        start_pway_graph = MetabolicGraph.from_tsv(f'.tsv') # da compilare
+        start_pway_graph.join2megaGraph()
     if end not in node_list:
-        # Connenct end to central metabolites through RetroPath
-        pass
+        # DEFINE HOW TO CALL RETROPATH IN THIS CASE
+        end_pway_graph = MetabolicGraph.from_tsv(f'.tsv') # da compilare
+        end_pway_graph.join2megaGraph()
+
 
     # Find up to 3 shortest paths
     all_paths = MetabolicGraph.mega.shortest_paths(start, end)
@@ -33,9 +39,11 @@ def get_3_shortest_paths(start:str,end:str):
         # Connect end to metaboliti principali with RetroPath
 
         # Build graphs from RP results and join them to mega graph
+        # DEFINE HOW TO CALL RP IN THIS CASE
         start_pway_graph = MetabolicGraph.from_tsv(f'.tsv') # da compilare
-        end_pway_graph = MetabolicGraph.from_tsv(f'.tsv') # da compilare
         start_pway_graph.join2megaGraph()
+        # DEFINE HOW TO CALL RP IN THIS CASE
+        end_pway_graph = MetabolicGraph.from_tsv(f'.tsv') # da compilare
         end_pway_graph.join2megaGraph()
 
         # Retry finding the shortest path
@@ -46,11 +54,13 @@ def get_3_shortest_paths(start:str,end:str):
     # Return text for each candidate path
     WEIGHT_LABEL = {1: "(KEGG green edge)", 10: "(KEGG white edge)", 100: "(RetroPath)"}
     txt = []
+    non_green_ecs = []
 
     # Sort paths by total distance
     for idx, (dist, path_nodes, path_ecs, path_rxns) in enumerate(sorted(all_paths, key=lambda x: x[0]), start=1):
         header = f"Path #{idx} (total length: {round(dist)})"
         txt.append(header)
+        non_green_ecs.append([])
 
         for i in range(len(path_nodes) - 1):
             u, v = path_nodes[i], path_nodes[i+1]
@@ -63,8 +73,10 @@ def get_3_shortest_paths(start:str,end:str):
 
             w = chosen.weight if chosen else 1
             label = WEIGHT_LABEL.get(w, "")
+            if w != 1:
+                non_green_ecs[idx-1].append(ec)
 
             step = f"  {i+1}. {u.name} ---[{ec.replace(' ', ' or ')}]---> {v.name} {label}"
             txt[idx-1] += f"\n{step}"
 
-    return txt
+    return txt, non_green_ecs
