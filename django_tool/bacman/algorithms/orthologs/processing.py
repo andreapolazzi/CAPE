@@ -10,7 +10,7 @@ def extract_organism(header):
 
 def process_ec_number(ec_number):
         '''Process an EC number by fetching sequences and returning a DataFrame and metadata summary'''
-        from filters.remove_outliers import filter_by_length
+        from .filters.remove_outliers import filter_by_length
 
         orgs = ['Rhodococcus', 'Nocardiaceae', 'Mycobacteriales', 'Actinomycetes', 'Actinomycetota', 'Bacillati']
         for org in orgs:
