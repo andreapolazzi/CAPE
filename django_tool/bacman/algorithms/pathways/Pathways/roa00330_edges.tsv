@@ -1,1048 +1,1087 @@
-enzyme_name	EC	source	target	color
-1-piperideine-2-carboxylate/1-pyrroline-2-carboxylate reductase [NAD(P)H]	1.5.1.1	1-Pyrroline-2-carboxylate	L-Proline	white
-1-piperideine-2-carboxylate/1-pyrroline-2-carboxylate reductase [NAD(P)H]	1.5.1.1	1-Pyrroline-2-carboxylate	NAD+	white
-1-piperideine-2-carboxylate/1-pyrroline-2-carboxylate reductase [NAD(P)H]	1.5.1.1	H+	L-Proline	white
-1-piperideine-2-carboxylate/1-pyrroline-2-carboxylate reductase [NAD(P)H]	1.5.1.1	H+	NAD+	white
-1-piperideine-2-carboxylate/1-pyrroline-2-carboxylate reductase [NAD(P)H]	1.5.1.1	L-Proline	1-Pyrroline-2-carboxylate	white
-1-piperideine-2-carboxylate/1-pyrroline-2-carboxylate reductase [NAD(P)H]	1.5.1.1	L-Proline	H+	white
-1-piperideine-2-carboxylate/1-pyrroline-2-carboxylate reductase [NAD(P)H]	1.5.1.1	L-Proline	NADH	white
-1-piperideine-2-carboxylate/1-pyrroline-2-carboxylate reductase [NAD(P)H]	1.5.1.1	NAD+	1-Pyrroline-2-carboxylate	white
-1-piperideine-2-carboxylate/1-pyrroline-2-carboxylate reductase [NAD(P)H]	1.5.1.1	NAD+	H+	white
-1-piperideine-2-carboxylate/1-pyrroline-2-carboxylate reductase [NAD(P)H]	1.5.1.1	NAD+	NADH	white
-1-piperideine-2-carboxylate/1-pyrroline-2-carboxylate reductase [NAD(P)H]	1.5.1.1	NADH	L-Proline	white
-1-piperideine-2-carboxylate/1-pyrroline-2-carboxylate reductase [NAD(P)H]	1.5.1.1	NADH	NAD+	white
-1-pyrroline-2-carboxylate reductase [NAD(P)H]	1.5.1.49	1-Pyrroline-2-carboxylate	L-Proline	white
-1-pyrroline-2-carboxylate reductase [NAD(P)H]	1.5.1.49	1-Pyrroline-2-carboxylate	NAD+	white
-1-pyrroline-2-carboxylate reductase [NAD(P)H]	1.5.1.49	H+	L-Proline	white
-1-pyrroline-2-carboxylate reductase [NAD(P)H]	1.5.1.49	H+	NAD+	white
-1-pyrroline-2-carboxylate reductase [NAD(P)H]	1.5.1.49	L-Proline	1-Pyrroline-2-carboxylate	white
-1-pyrroline-2-carboxylate reductase [NAD(P)H]	1.5.1.49	L-Proline	H+	white
-1-pyrroline-2-carboxylate reductase [NAD(P)H]	1.5.1.49	L-Proline	NADH	white
-1-pyrroline-2-carboxylate reductase [NAD(P)H]	1.5.1.49	NAD+	1-Pyrroline-2-carboxylate	white
-1-pyrroline-2-carboxylate reductase [NAD(P)H]	1.5.1.49	NAD+	H+	white
-1-pyrroline-2-carboxylate reductase [NAD(P)H]	1.5.1.49	NAD+	NADH	white
-1-pyrroline-2-carboxylate reductase [NAD(P)H]	1.5.1.49	NADH	L-Proline	white
-1-pyrroline-2-carboxylate reductase [NAD(P)H]	1.5.1.49	NADH	NAD+	white
-1-pyrroline-5-carboxylate dehydrogenase	1.2.1.88	H+	H2O	green
-1-pyrroline-5-carboxylate dehydrogenase	1.2.1.88	H+	L-4-Hydroxyglutamate semialdehyde	green
-1-pyrroline-5-carboxylate dehydrogenase	1.2.1.88	H+	NAD+	green
-1-pyrroline-5-carboxylate dehydrogenase	1.2.1.88	H2O	H+	green
-1-pyrroline-5-carboxylate dehydrogenase	1.2.1.88	H2O	L-Glutamate	green
-1-pyrroline-5-carboxylate dehydrogenase	1.2.1.88	H2O	L-erythro-4-Hydroxyglutamate	green
-1-pyrroline-5-carboxylate dehydrogenase	1.2.1.88	H2O	NADH	green
-1-pyrroline-5-carboxylate dehydrogenase	1.2.1.88	H2O	NADPH	green
-1-pyrroline-5-carboxylate dehydrogenase	1.2.1.88	L-1-Pyrroline-3-hydroxy-5-carboxylate	H+	green
-1-pyrroline-5-carboxylate dehydrogenase	1.2.1.88	L-1-Pyrroline-3-hydroxy-5-carboxylate	L-erythro-4-Hydroxyglutamate	green
-1-pyrroline-5-carboxylate dehydrogenase	1.2.1.88	L-1-Pyrroline-3-hydroxy-5-carboxylate	NADH	green
-1-pyrroline-5-carboxylate dehydrogenase	1.2.1.88	L-1-Pyrroline-3-hydroxy-5-carboxylate	NADPH	green
-1-pyrroline-5-carboxylate dehydrogenase	1.2.1.88	L-Glutamate 5-semialdehyde	H+	green
-1-pyrroline-5-carboxylate dehydrogenase	1.2.1.88	L-Glutamate 5-semialdehyde	L-Glutamate	green
-1-pyrroline-5-carboxylate dehydrogenase	1.2.1.88	L-Glutamate 5-semialdehyde	NADH	green
-1-pyrroline-5-carboxylate dehydrogenase	1.2.1.88	L-Glutamate 5-semialdehyde	NADPH	green
-1-pyrroline-5-carboxylate dehydrogenase	1.2.1.88	L-erythro-4-Hydroxyglutamate	H2O	green
-1-pyrroline-5-carboxylate dehydrogenase	1.2.1.88	L-erythro-4-Hydroxyglutamate	L-4-Hydroxyglutamate semialdehyde	green
-1-pyrroline-5-carboxylate dehydrogenase	1.2.1.88	L-erythro-4-Hydroxyglutamate	NAD+	green
-1-pyrroline-5-carboxylate dehydrogenase	1.2.1.88	NAD+	H+	green
-1-pyrroline-5-carboxylate dehydrogenase	1.2.1.88	NAD+	L-Glutamate	green
-1-pyrroline-5-carboxylate dehydrogenase	1.2.1.88	NAD+	L-erythro-4-Hydroxyglutamate	green
-1-pyrroline-5-carboxylate dehydrogenase	1.2.1.88	NAD+	NADH	green
-1-pyrroline-5-carboxylate dehydrogenase	1.2.1.88	NADH	H2O	green
-1-pyrroline-5-carboxylate dehydrogenase	1.2.1.88	NADH	L-4-Hydroxyglutamate semialdehyde	green
-1-pyrroline-5-carboxylate dehydrogenase	1.2.1.88	NADH	NAD+	green
-1-pyrroline-5-carboxylate dehydrogenase	1.2.1.88	NADP+	H+	green
-1-pyrroline-5-carboxylate dehydrogenase	1.2.1.88	NADP+	L-Glutamate	green
-1-pyrroline-5-carboxylate dehydrogenase	1.2.1.88	NADP+	L-erythro-4-Hydroxyglutamate	green
-1-pyrroline-5-carboxylate dehydrogenase	1.2.1.88	NADP+	NADPH	green
-2,4-diaminopentanoate dehydrogenase	1.4.1.12	5-Aminopentanoate	D-Proline	white
-2,4-diaminopentanoate dehydrogenase	1.4.1.12	D-Proline	5-Aminopentanoate	white
-4-(gamma-glutamylamino)butanal dehydrogenase	1.2.1.99	H2O	4-(L-gamma-Glutamylamino)butanoate	green
-4-(gamma-glutamylamino)butanal dehydrogenase	1.2.1.99	H2O	H+	green
-4-(gamma-glutamylamino)butanal dehydrogenase	1.2.1.99	H2O	NADH	green
-4-(gamma-glutamylamino)butanal dehydrogenase	1.2.1.99	H2O	NADPH	green
-4-(gamma-glutamylamino)butanal dehydrogenase	1.2.1.99	NAD+	4-(L-gamma-Glutamylamino)butanoate	green
-4-(gamma-glutamylamino)butanal dehydrogenase	1.2.1.99	NAD+	H+	green
-4-(gamma-glutamylamino)butanal dehydrogenase	1.2.1.99	NAD+	NADH	green
-4-(gamma-glutamylamino)butanal dehydrogenase	1.2.1.99	NADP+	4-(L-gamma-Glutamylamino)butanoate	green
-4-(gamma-glutamylamino)butanal dehydrogenase	1.2.1.99	NADP+	H+	green
-4-(gamma-glutamylamino)butanal dehydrogenase	1.2.1.99	NADP+	NADPH	green
-4-(gamma-glutamylamino)butanal dehydrogenase	1.2.1.99	gamma-Glutamyl-gamma-aminobutyraldehyde	4-(L-gamma-Glutamylamino)butanoate	green
-4-(gamma-glutamylamino)butanal dehydrogenase	1.2.1.99	gamma-Glutamyl-gamma-aminobutyraldehyde	H+	green
-4-(gamma-glutamylamino)butanal dehydrogenase	1.2.1.99	gamma-Glutamyl-gamma-aminobutyraldehyde	NADH	green
-4-(gamma-glutamylamino)butanal dehydrogenase	1.2.1.99	gamma-Glutamyl-gamma-aminobutyraldehyde	NADPH	green
-4-guanidinobutyraldehyde dehydrogenase / NAD-dependent aldehyde dehydrogenase	1.2.1.54	4-Aminobutanoate	4-Aminobutyraldehyde	white
-4-guanidinobutyraldehyde dehydrogenase / NAD-dependent aldehyde dehydrogenase	1.2.1.54	4-Aminobutanoate	H2O	white
-4-guanidinobutyraldehyde dehydrogenase / NAD-dependent aldehyde dehydrogenase	1.2.1.54	4-Aminobutanoate	NAD+	white
-4-guanidinobutyraldehyde dehydrogenase / NAD-dependent aldehyde dehydrogenase	1.2.1.54	4-Aminobutyraldehyde	4-Aminobutanoate	white
-4-guanidinobutyraldehyde dehydrogenase / NAD-dependent aldehyde dehydrogenase	1.2.1.54	4-Aminobutyraldehyde	H+	white
-4-guanidinobutyraldehyde dehydrogenase / NAD-dependent aldehyde dehydrogenase	1.2.1.54	4-Aminobutyraldehyde	NADH	white
-4-guanidinobutyraldehyde dehydrogenase / NAD-dependent aldehyde dehydrogenase	1.2.1.54	H+	4-Aminobutyraldehyde	white
-4-guanidinobutyraldehyde dehydrogenase / NAD-dependent aldehyde dehydrogenase	1.2.1.54	H+	H2O	white
-4-guanidinobutyraldehyde dehydrogenase / NAD-dependent aldehyde dehydrogenase	1.2.1.54	H+	NAD+	white
-4-guanidinobutyraldehyde dehydrogenase / NAD-dependent aldehyde dehydrogenase	1.2.1.54	H2O	4-Aminobutanoate	white
-4-guanidinobutyraldehyde dehydrogenase / NAD-dependent aldehyde dehydrogenase	1.2.1.54	H2O	H+	white
-4-guanidinobutyraldehyde dehydrogenase / NAD-dependent aldehyde dehydrogenase	1.2.1.54	H2O	NADH	white
-4-guanidinobutyraldehyde dehydrogenase / NAD-dependent aldehyde dehydrogenase	1.2.1.54	NAD+	4-Aminobutanoate	white
-4-guanidinobutyraldehyde dehydrogenase / NAD-dependent aldehyde dehydrogenase	1.2.1.54	NAD+	H+	white
-4-guanidinobutyraldehyde dehydrogenase / NAD-dependent aldehyde dehydrogenase	1.2.1.54	NAD+	NADH	white
-4-guanidinobutyraldehyde dehydrogenase / NAD-dependent aldehyde dehydrogenase	1.2.1.54	NADH	4-Aminobutyraldehyde	white
-4-guanidinobutyraldehyde dehydrogenase / NAD-dependent aldehyde dehydrogenase	1.2.1.54	NADH	H2O	white
-4-guanidinobutyraldehyde dehydrogenase / NAD-dependent aldehyde dehydrogenase	1.2.1.54	NADH	NAD+	white
-4-hydroxy-2-oxoglutarate aldolase	4.1.3.16	4-Hydroxy-2-oxoglutarate	Glyoxylate	white
-4-hydroxy-2-oxoglutarate aldolase	4.1.3.16	4-Hydroxy-2-oxoglutarate	Pyruvate	white
-4-hydroxy-2-oxoglutarate aldolase	4.1.3.16	Glyoxylate	4-Hydroxy-2-oxoglutarate	white
-4-hydroxy-2-oxoglutarate aldolase	4.1.3.16	Pyruvate	4-Hydroxy-2-oxoglutarate	white
-5-guanidino-2-oxopentanoate decarboxylase	4.1.1.75	4-Guanidinobutanal	5-Guanidino-2-oxopentanoate	white
-5-guanidino-2-oxopentanoate decarboxylase	4.1.1.75	5-Guanidino-2-oxopentanoate	4-Guanidinobutanal	white
-5-guanidino-2-oxopentanoate decarboxylase	4.1.1.75	5-Guanidino-2-oxopentanoate	CO2	white
-5-guanidino-2-oxopentanoate decarboxylase	4.1.1.75	CO2	5-Guanidino-2-oxopentanoate	white
-D-alanine transaminase	2.6.1.21	2-Oxoglutarate	D-Glutamate	white
-D-alanine transaminase	2.6.1.21	2-Oxoglutarate	Pyruvate	white
-D-alanine transaminase	2.6.1.21	D-Alanine	D-Glutamate	white
-D-alanine transaminase	2.6.1.21	D-Alanine	Pyruvate	white
-D-alanine transaminase	2.6.1.21	D-Glutamate	2-Oxoglutarate	white
-D-alanine transaminase	2.6.1.21	D-Glutamate	D-Alanine	white
-D-alanine transaminase	2.6.1.21	Pyruvate	2-Oxoglutarate	white
-D-alanine transaminase	2.6.1.21	Pyruvate	D-Alanine	white
-D-amino-acid oxidase	1.4.3.3	Ammonia	Glycine	white
-D-amino-acid oxidase	1.4.3.3	Ammonia	H2O	white
-D-amino-acid oxidase	1.4.3.3	Ammonia	Oxygen	white
-D-amino-acid oxidase	1.4.3.3	Glycine	Ammonia	white
-D-amino-acid oxidase	1.4.3.3	Glycine	Glyoxylate	white
-D-amino-acid oxidase	1.4.3.3	Glycine	Hydrogen peroxide	white
-D-amino-acid oxidase	1.4.3.3	Glyoxylate	Glycine	white
-D-amino-acid oxidase	1.4.3.3	Glyoxylate	H2O	white
-D-amino-acid oxidase	1.4.3.3	Glyoxylate	Oxygen	white
-D-amino-acid oxidase	1.4.3.3	H2O	Ammonia	white
-D-amino-acid oxidase	1.4.3.3	H2O	Glyoxylate	white
-D-amino-acid oxidase	1.4.3.3	H2O	Hydrogen peroxide	white
-D-amino-acid oxidase	1.4.3.3	Hydrogen peroxide	Glycine	white
-D-amino-acid oxidase	1.4.3.3	Hydrogen peroxide	H2O	white
-D-amino-acid oxidase	1.4.3.3	Hydrogen peroxide	Oxygen	white
-D-amino-acid oxidase	1.4.3.3	Oxygen	Ammonia	white
-D-amino-acid oxidase	1.4.3.3	Oxygen	Glyoxylate	white
-D-amino-acid oxidase	1.4.3.3	Oxygen	Hydrogen peroxide	white
-D-nopaline dehydrogenase	1.5.1.19	2-Oxoglutarate	H2O	white
-D-nopaline dehydrogenase	1.5.1.19	2-Oxoglutarate	NADP+	white
-D-nopaline dehydrogenase	1.5.1.19	2-Oxoglutarate	Nopaline	white
-D-nopaline dehydrogenase	1.5.1.19	H+	H2O	white
-D-nopaline dehydrogenase	1.5.1.19	H+	NADP+	white
-D-nopaline dehydrogenase	1.5.1.19	H+	Nopaline	white
-D-nopaline dehydrogenase	1.5.1.19	H2O	2-Oxoglutarate	white
-D-nopaline dehydrogenase	1.5.1.19	H2O	H+	white
-D-nopaline dehydrogenase	1.5.1.19	H2O	L-Arginine	white
-D-nopaline dehydrogenase	1.5.1.19	H2O	NADPH	white
-D-nopaline dehydrogenase	1.5.1.19	L-Arginine	H2O	white
-D-nopaline dehydrogenase	1.5.1.19	L-Arginine	NADP+	white
-D-nopaline dehydrogenase	1.5.1.19	L-Arginine	Nopaline	white
-D-nopaline dehydrogenase	1.5.1.19	NADP+	2-Oxoglutarate	white
-D-nopaline dehydrogenase	1.5.1.19	NADP+	H+	white
-D-nopaline dehydrogenase	1.5.1.19	NADP+	L-Arginine	white
-D-nopaline dehydrogenase	1.5.1.19	NADP+	NADPH	white
-D-nopaline dehydrogenase	1.5.1.19	NADPH	H2O	white
-D-nopaline dehydrogenase	1.5.1.19	NADPH	NADP+	white
-D-nopaline dehydrogenase	1.5.1.19	NADPH	Nopaline	white
-D-nopaline dehydrogenase	1.5.1.19	Nopaline	2-Oxoglutarate	white
-D-nopaline dehydrogenase	1.5.1.19	Nopaline	H+	white
-D-nopaline dehydrogenase	1.5.1.19	Nopaline	L-Arginine	white
-D-nopaline dehydrogenase	1.5.1.19	Nopaline	NADPH	white
-D-octopine dehydrogenase	1.5.1.11	H+	H2O	white
-D-octopine dehydrogenase	1.5.1.11	H+	NAD+	white
-D-octopine dehydrogenase	1.5.1.11	H+	Octopine	white
-D-octopine dehydrogenase	1.5.1.11	H2O	H+	white
-D-octopine dehydrogenase	1.5.1.11	H2O	L-Arginine	white
-D-octopine dehydrogenase	1.5.1.11	H2O	NADH	white
-D-octopine dehydrogenase	1.5.1.11	H2O	Pyruvate	white
-D-octopine dehydrogenase	1.5.1.11	L-Arginine	H2O	white
-D-octopine dehydrogenase	1.5.1.11	L-Arginine	NAD+	white
-D-octopine dehydrogenase	1.5.1.11	L-Arginine	Octopine	white
-D-octopine dehydrogenase	1.5.1.11	NAD+	H+	white
-D-octopine dehydrogenase	1.5.1.11	NAD+	L-Arginine	white
-D-octopine dehydrogenase	1.5.1.11	NAD+	NADH	white
-D-octopine dehydrogenase	1.5.1.11	NAD+	Pyruvate	white
-D-octopine dehydrogenase	1.5.1.11	NADH	H2O	white
-D-octopine dehydrogenase	1.5.1.11	NADH	NAD+	white
-D-octopine dehydrogenase	1.5.1.11	NADH	Octopine	white
-D-octopine dehydrogenase	1.5.1.11	Octopine	H+	white
-D-octopine dehydrogenase	1.5.1.11	Octopine	L-Arginine	white
-D-octopine dehydrogenase	1.5.1.11	Octopine	NADH	white
-D-octopine dehydrogenase	1.5.1.11	Octopine	Pyruvate	white
-D-octopine dehydrogenase	1.5.1.11	Pyruvate	H2O	white
-D-octopine dehydrogenase	1.5.1.11	Pyruvate	NAD+	white
-D-octopine dehydrogenase	1.5.1.11	Pyruvate	Octopine	white
-D-proline dehydrogenase	1.5.99.13	1-Pyrroline-2-carboxylate	Acceptor	white
-D-proline dehydrogenase	1.5.99.13	1-Pyrroline-2-carboxylate	D-Proline	white
-D-proline dehydrogenase	1.5.99.13	Acceptor	1-Pyrroline-2-carboxylate	white
-D-proline dehydrogenase	1.5.99.13	Acceptor	Reduced acceptor	white
-D-proline dehydrogenase	1.5.99.13	D-Proline	1-Pyrroline-2-carboxylate	white
-D-proline dehydrogenase	1.5.99.13	D-Proline	Reduced acceptor	white
-D-proline dehydrogenase	1.5.99.13	Reduced acceptor	Acceptor	white
-D-proline dehydrogenase	1.5.99.13	Reduced acceptor	D-Proline	white
-D-proline reductase (dithiol) PrdA	1.21.4.1	5-Aminopentanoate	D-Proline	white
-D-proline reductase (dithiol) PrdA	1.21.4.1	D-Proline	5-Aminopentanoate	white
-D-proline reductase (dithiol) PrdB	1.21.4.1	5-Aminopentanoate	D-Proline	white
-D-proline reductase (dithiol) PrdB	1.21.4.1	D-Proline	5-Aminopentanoate	white
-L-arginine oxidase	1.4.3.25	5-Guanidino-2-oxopentanoate	H2O	white
-L-arginine oxidase	1.4.3.25	5-Guanidino-2-oxopentanoate	L-Arginine	white
-L-arginine oxidase	1.4.3.25	5-Guanidino-2-oxopentanoate	Oxygen	white
-L-arginine oxidase	1.4.3.25	Ammonia	H2O	white
-L-arginine oxidase	1.4.3.25	Ammonia	L-Arginine	white
-L-arginine oxidase	1.4.3.25	Ammonia	Oxygen	white
-L-arginine oxidase	1.4.3.25	H2O	5-Guanidino-2-oxopentanoate	white
-L-arginine oxidase	1.4.3.25	H2O	Ammonia	white
-L-arginine oxidase	1.4.3.25	H2O	Hydrogen peroxide	white
-L-arginine oxidase	1.4.3.25	Hydrogen peroxide	H2O	white
-L-arginine oxidase	1.4.3.25	Hydrogen peroxide	L-Arginine	white
-L-arginine oxidase	1.4.3.25	Hydrogen peroxide	Oxygen	white
-L-arginine oxidase	1.4.3.25	L-Arginine	5-Guanidino-2-oxopentanoate	white
-L-arginine oxidase	1.4.3.25	L-Arginine	Ammonia	white
-L-arginine oxidase	1.4.3.25	L-Arginine	Hydrogen peroxide	white
-L-arginine oxidase	1.4.3.25	Oxygen	5-Guanidino-2-oxopentanoate	white
-L-arginine oxidase	1.4.3.25	Oxygen	Ammonia	white
-L-arginine oxidase	1.4.3.25	Oxygen	Hydrogen peroxide	white
-L-glutamate-5-semialdehyde N-acetyltransferase	2.3.1.271	Acetyl-CoA	CoA	white
-L-glutamate-5-semialdehyde N-acetyltransferase	2.3.1.271	Acetyl-CoA	N-Acetyl-L-glutamate 5-semialdehyde	white
-L-glutamate-5-semialdehyde N-acetyltransferase	2.3.1.271	CoA	Acetyl-CoA	white
-L-glutamate-5-semialdehyde N-acetyltransferase	2.3.1.271	CoA	L-Glutamate 5-semialdehyde	white
-L-glutamate-5-semialdehyde N-acetyltransferase	2.3.1.271	L-Glutamate 5-semialdehyde	CoA	white
-L-glutamate-5-semialdehyde N-acetyltransferase	2.3.1.271	L-Glutamate 5-semialdehyde	N-Acetyl-L-glutamate 5-semialdehyde	white
-L-glutamate-5-semialdehyde N-acetyltransferase	2.3.1.271	N-Acetyl-L-glutamate 5-semialdehyde	Acetyl-CoA	white
-L-glutamate-5-semialdehyde N-acetyltransferase	2.3.1.271	N-Acetyl-L-glutamate 5-semialdehyde	L-Glutamate 5-semialdehyde	white
-N-carbamoylputrescine amidase	3.5.1.53	H2O	Ammonia	green
-N-carbamoylputrescine amidase	3.5.1.53	H2O	CO2	green
-N-carbamoylputrescine amidase	3.5.1.53	H2O	Putrescine	green
-N-carbamoylputrescine amidase	3.5.1.53	N-Carbamoylputrescine	Ammonia	green
-N-carbamoylputrescine amidase	3.5.1.53	N-Carbamoylputrescine	CO2	green
-N-carbamoylputrescine amidase	3.5.1.53	N-Carbamoylputrescine	Putrescine	green
-N-carbamoylsarcosine amidase	3.5.1.59	Ammonia	H2O	white
-N-carbamoylsarcosine amidase	3.5.1.59	Ammonia	N-Carbamoylsarcosine	white
-N-carbamoylsarcosine amidase	3.5.1.59	CO2	H2O	white
-N-carbamoylsarcosine amidase	3.5.1.59	CO2	N-Carbamoylsarcosine	white
-N-carbamoylsarcosine amidase	3.5.1.59	H2O	Ammonia	white
-N-carbamoylsarcosine amidase	3.5.1.59	H2O	CO2	white
-N-carbamoylsarcosine amidase	3.5.1.59	H2O	Sarcosine	white
-N-carbamoylsarcosine amidase	3.5.1.59	N-Carbamoylsarcosine	Ammonia	white
-N-carbamoylsarcosine amidase	3.5.1.59	N-Carbamoylsarcosine	CO2	white
-N-carbamoylsarcosine amidase	3.5.1.59	N-Carbamoylsarcosine	Sarcosine	white
-N-carbamoylsarcosine amidase	3.5.1.59	Sarcosine	H2O	white
-N-carbamoylsarcosine amidase	3.5.1.59	Sarcosine	N-Carbamoylsarcosine	white
-N-methylhydantoinase A	3.5.2.14	ADP	ATP	green
-N-methylhydantoinase A	3.5.2.14	ADP	H2O	green
-N-methylhydantoinase A	3.5.2.14	ADP	N-Methylhydantoin	green
-N-methylhydantoinase A	3.5.2.14	ATP	ADP	green
-N-methylhydantoinase A	3.5.2.14	ATP	N-Carbamoylsarcosine	green
-N-methylhydantoinase A	3.5.2.14	ATP	Orthophosphate	green
-N-methylhydantoinase A	3.5.2.14	H2O	ADP	green
-N-methylhydantoinase A	3.5.2.14	H2O	N-Carbamoylsarcosine	green
-N-methylhydantoinase A	3.5.2.14	H2O	Orthophosphate	green
-N-methylhydantoinase A	3.5.2.14	N-Carbamoylsarcosine	ATP	green
-N-methylhydantoinase A	3.5.2.14	N-Carbamoylsarcosine	H2O	green
-N-methylhydantoinase A	3.5.2.14	N-Carbamoylsarcosine	N-Methylhydantoin	green
-N-methylhydantoinase A	3.5.2.14	N-Methylhydantoin	ADP	green
-N-methylhydantoinase A	3.5.2.14	N-Methylhydantoin	N-Carbamoylsarcosine	green
-N-methylhydantoinase A	3.5.2.14	N-Methylhydantoin	Orthophosphate	green
-N-methylhydantoinase A	3.5.2.14	Orthophosphate	ATP	green
-N-methylhydantoinase A	3.5.2.14	Orthophosphate	H2O	green
-N-methylhydantoinase A	3.5.2.14	Orthophosphate	N-Methylhydantoin	green
-N-methylhydantoinase B	3.5.2.14	ADP	ATP	green
-N-methylhydantoinase B	3.5.2.14	ADP	H2O	green
-N-methylhydantoinase B	3.5.2.14	ADP	N-Methylhydantoin	green
-N-methylhydantoinase B	3.5.2.14	ATP	ADP	green
-N-methylhydantoinase B	3.5.2.14	ATP	N-Carbamoylsarcosine	green
-N-methylhydantoinase B	3.5.2.14	ATP	Orthophosphate	green
-N-methylhydantoinase B	3.5.2.14	H2O	ADP	green
-N-methylhydantoinase B	3.5.2.14	H2O	N-Carbamoylsarcosine	green
-N-methylhydantoinase B	3.5.2.14	H2O	Orthophosphate	green
-N-methylhydantoinase B	3.5.2.14	N-Carbamoylsarcosine	ATP	green
-N-methylhydantoinase B	3.5.2.14	N-Carbamoylsarcosine	H2O	green
-N-methylhydantoinase B	3.5.2.14	N-Carbamoylsarcosine	N-Methylhydantoin	green
-N-methylhydantoinase B	3.5.2.14	N-Methylhydantoin	ADP	green
-N-methylhydantoinase B	3.5.2.14	N-Methylhydantoin	N-Carbamoylsarcosine	green
-N-methylhydantoinase B	3.5.2.14	N-Methylhydantoin	Orthophosphate	green
-N-methylhydantoinase B	3.5.2.14	Orthophosphate	ATP	green
-N-methylhydantoinase B	3.5.2.14	Orthophosphate	H2O	green
-N-methylhydantoinase B	3.5.2.14	Orthophosphate	N-Methylhydantoin	green
-N1-aminopropylagmatine ureohydrolase	3.5.3.24	H2O	Spermidine	white
-N1-aminopropylagmatine ureohydrolase	3.5.3.24	H2O	Urea	white
-N1-aminopropylagmatine ureohydrolase	3.5.3.24	N1-(3-Aminopropyl)agmatine	Spermidine	white
-N1-aminopropylagmatine ureohydrolase	3.5.3.24	N1-(3-Aminopropyl)agmatine	Urea	white
-N1-aminopropylagmatine ureohydrolase	3.5.3.24	Spermidine	H2O	white
-N1-aminopropylagmatine ureohydrolase	3.5.3.24	Spermidine	N1-(3-Aminopropyl)agmatine	white
-N1-aminopropylagmatine ureohydrolase	3.5.3.24	Urea	H2O	white
-N1-aminopropylagmatine ureohydrolase	3.5.3.24	Urea	N1-(3-Aminopropyl)agmatine	white
-S-adenosylmethionine decarboxylase	4.1.1.50	CO2	H+	white
-S-adenosylmethionine decarboxylase	4.1.1.50	CO2	S-Adenosyl-L-methionine	white
-S-adenosylmethionine decarboxylase	4.1.1.50	H+	CO2	white
-S-adenosylmethionine decarboxylase	4.1.1.50	H+	S-Adenosylmethioninamine	white
-S-adenosylmethionine decarboxylase	4.1.1.50	S-Adenosyl-L-methionine	CO2	white
-S-adenosylmethionine decarboxylase	4.1.1.50	S-Adenosyl-L-methionine	S-Adenosylmethioninamine	white
-S-adenosylmethionine decarboxylase	4.1.1.50	S-Adenosylmethioninamine	H+	white
-S-adenosylmethionine decarboxylase	4.1.1.50	S-Adenosylmethioninamine	S-Adenosyl-L-methionine	white
-agmatinase	3.5.3.11	Agmatine	Putrescine	white
-agmatinase	3.5.3.11	Agmatine	Urea	white
-agmatinase	3.5.3.11	H2O	Putrescine	white
-agmatinase	3.5.3.11	H2O	Urea	white
-agmatinase	3.5.3.11	Putrescine	Agmatine	white
-agmatinase	3.5.3.11	Putrescine	H2O	white
-agmatinase	3.5.3.11	Urea	Agmatine	white
-agmatinase	3.5.3.11	Urea	H2O	white
-agmatine coumaroyltransferase	2.3.1.64	Agmatine	CoA	white
-agmatine coumaroyltransferase	2.3.1.64	Agmatine	p-Coumaroylagmatine	white
-agmatine coumaroyltransferase	2.3.1.64	CoA	Agmatine	white
-agmatine coumaroyltransferase	2.3.1.64	CoA	p-Coumaroyl-CoA	white
-agmatine coumaroyltransferase	2.3.1.64	p-Coumaroyl-CoA	CoA	white
-agmatine coumaroyltransferase	2.3.1.64	p-Coumaroyl-CoA	p-Coumaroylagmatine	white
-agmatine coumaroyltransferase	2.3.1.64	p-Coumaroylagmatine	Agmatine	white
-agmatine coumaroyltransferase	2.3.1.64	p-Coumaroylagmatine	p-Coumaroyl-CoA	white
-agmatine deiminase	3.5.3.12	Agmatine	Ammonia	green
-agmatine deiminase	3.5.3.12	Agmatine	N-Carbamoylputrescine	green
-agmatine deiminase	3.5.3.12	H2O	Ammonia	green
-agmatine deiminase	3.5.3.12	H2O	N-Carbamoylputrescine	green
-aldehyde dehydrogenase (NAD+)	1.2.1.3	4-Aminobutyraldehyde	4-Aminobutanoate	green
-aldehyde dehydrogenase (NAD+)	1.2.1.3	4-Aminobutyraldehyde	H+	green
-aldehyde dehydrogenase (NAD+)	1.2.1.3	4-Aminobutyraldehyde	NADH	green
-aldehyde dehydrogenase (NAD+)	1.2.1.3	4-Aminobutyraldehyde	NADPH	green
-aldehyde dehydrogenase (NAD+)	1.2.1.3	H2O	4-Acetamidobutanoate	green
-aldehyde dehydrogenase (NAD+)	1.2.1.3	H2O	4-Aminobutanoate	green
-aldehyde dehydrogenase (NAD+)	1.2.1.3	H2O	H+	green
-aldehyde dehydrogenase (NAD+)	1.2.1.3	H2O	NADH	green
-aldehyde dehydrogenase (NAD+)	1.2.1.3	H2O	NADPH	green
-aldehyde dehydrogenase (NAD+)	1.2.1.3	N4-Acetylaminobutanal	4-Acetamidobutanoate	green
-aldehyde dehydrogenase (NAD+)	1.2.1.3	N4-Acetylaminobutanal	H+	green
-aldehyde dehydrogenase (NAD+)	1.2.1.3	N4-Acetylaminobutanal	NADH	green
-aldehyde dehydrogenase (NAD+)	1.2.1.3	NAD+	4-Acetamidobutanoate	green
-aldehyde dehydrogenase (NAD+)	1.2.1.3	NAD+	4-Aminobutanoate	green
-aldehyde dehydrogenase (NAD+)	1.2.1.3	NAD+	H+	green
-aldehyde dehydrogenase (NAD+)	1.2.1.3	NAD+	NADH	green
-aldehyde dehydrogenase (NAD+)	1.2.1.3	NADP+	4-Aminobutanoate	green
-aldehyde dehydrogenase (NAD+)	1.2.1.3	NADP+	H+	green
-aldehyde dehydrogenase (NAD+)	1.2.1.3	NADP+	NADPH	green
-amidase	3.5.1.4	4-Guanidinobutanamide	4-Guanidinobutanoate	green
-amidase	3.5.1.4	4-Guanidinobutanamide	Ammonia	green
-amidase	3.5.1.4	H2O	4-Guanidinobutanoate	green
-amidase	3.5.1.4	H2O	Ammonia	green
-aminobutyraldehyde dehydrogenase	1.2.1.19	4-Aminobutyraldehyde	4-Aminobutanoate	green
-aminobutyraldehyde dehydrogenase	1.2.1.19	4-Aminobutyraldehyde	H+	green
-aminobutyraldehyde dehydrogenase	1.2.1.19	4-Aminobutyraldehyde	NADH	green
-aminobutyraldehyde dehydrogenase	1.2.1.19	H2O	4-Aminobutanoate	green
-aminobutyraldehyde dehydrogenase	1.2.1.19	H2O	H+	green
-aminobutyraldehyde dehydrogenase	1.2.1.19	H2O	NADH	green
-aminobutyraldehyde dehydrogenase	1.2.1.19	NAD+	4-Aminobutanoate	green
-aminobutyraldehyde dehydrogenase	1.2.1.19	NAD+	H+	green
-aminobutyraldehyde dehydrogenase	1.2.1.19	NAD+	NADH	green
-arginase	3.5.3.1	H2O	L-Ornithine	green
-arginase	3.5.3.1	H2O	Urea	green
-arginase	3.5.3.1	L-Arginine	L-Ornithine	green
-arginase	3.5.3.1	L-Arginine	Urea	green
-arginine N-succinyltransferase	2.3.1.109	CoA	L-Arginine	white
-arginine N-succinyltransferase	2.3.1.109	CoA	Succinyl-CoA	white
-arginine N-succinyltransferase	2.3.1.109	L-Arginine	CoA	white
-arginine N-succinyltransferase	2.3.1.109	L-Arginine	N2-Succinyl-L-arginine	white
-arginine N-succinyltransferase	2.3.1.109	N2-Succinyl-L-arginine	L-Arginine	white
-arginine N-succinyltransferase	2.3.1.109	N2-Succinyl-L-arginine	Succinyl-CoA	white
-arginine N-succinyltransferase	2.3.1.109	Succinyl-CoA	CoA	white
-arginine N-succinyltransferase	2.3.1.109	Succinyl-CoA	N2-Succinyl-L-arginine	white
-arginine decarboxylase	4.1.1.19	Agmatine	L-Arginine	white
-arginine decarboxylase	4.1.1.19	CO2	L-Arginine	white
-arginine decarboxylase	4.1.1.19	L-Arginine	Agmatine	white
-arginine decarboxylase	4.1.1.19	L-Arginine	CO2	white
-arginine dihydrolase	3.5.3.27	H2O	Ammonia	green
-arginine dihydrolase	3.5.3.27	H2O	CO2	green
-arginine dihydrolase	3.5.3.27	H2O	L-Ornithine	green
-arginine dihydrolase	3.5.3.27	L-Arginine	Ammonia	green
-arginine dihydrolase	3.5.3.27	L-Arginine	CO2	green
-arginine dihydrolase	3.5.3.27	L-Arginine	L-Ornithine	green
-arginine dihydrolase / ornithine cyclodeaminase	3.5.3.27	Ammonia	L-Ornithine	white
-arginine dihydrolase / ornithine cyclodeaminase	3.5.3.27	L-Ornithine	Ammonia	white
-arginine dihydrolase / ornithine cyclodeaminase	3.5.3.27	L-Ornithine	L-Proline	white
-arginine dihydrolase / ornithine cyclodeaminase	3.5.3.27	L-Proline	L-Ornithine	white
-arginine kinase	2.7.3.3	ADP	ATP	white
-arginine kinase	2.7.3.3	ADP	L-Arginine	white
-arginine kinase	2.7.3.3	ATP	ADP	white
-arginine kinase	2.7.3.3	ATP	L-Arginine phosphate	white
-arginine kinase	2.7.3.3	L-Arginine	ADP	white
-arginine kinase	2.7.3.3	L-Arginine	L-Arginine phosphate	white
-arginine kinase	2.7.3.3	L-Arginine phosphate	ATP	white
-arginine kinase	2.7.3.3	L-Arginine phosphate	L-Arginine	white
-arginine:pyruvate transaminase	2.6.1.84	5-Guanidino-2-oxopentanoate	L-Arginine	white
-arginine:pyruvate transaminase	2.6.1.84	5-Guanidino-2-oxopentanoate	Pyruvate	white
-arginine:pyruvate transaminase	2.6.1.84	L-Alanine	L-Arginine	white
-arginine:pyruvate transaminase	2.6.1.84	L-Alanine	Pyruvate	white
-arginine:pyruvate transaminase	2.6.1.84	L-Arginine	5-Guanidino-2-oxopentanoate	white
-arginine:pyruvate transaminase	2.6.1.84	L-Arginine	L-Alanine	white
-arginine:pyruvate transaminase	2.6.1.84	Pyruvate	5-Guanidino-2-oxopentanoate	white
-arginine:pyruvate transaminase	2.6.1.84	Pyruvate	L-Alanine	white
-aspartate aminotransferase	2.6.1.1	2-Oxoglutarate	(4R)-4-Hydroxy-2-oxoglutarate	green
-aspartate aminotransferase	2.6.1.1	2-Oxoglutarate	L-Glutamate	green
-aspartate aminotransferase	2.6.1.1	L-erythro-4-Hydroxyglutamate	(4R)-4-Hydroxy-2-oxoglutarate	green
-aspartate aminotransferase	2.6.1.1	L-erythro-4-Hydroxyglutamate	L-Glutamate	green
-beta-Ala-His dipeptidase	3.4.13.20	Carnosine	L-Histidine	white
-beta-Ala-His dipeptidase	3.4.13.20	Carnosine	beta-Alanine	white
-beta-Ala-His dipeptidase	3.4.13.20	H2O	L-Histidine	white
-beta-Ala-His dipeptidase	3.4.13.20	H2O	beta-Alanine	white
-beta-Ala-His dipeptidase	3.4.13.20	L-Histidine	Carnosine	white
-beta-Ala-His dipeptidase	3.4.13.20	L-Histidine	H2O	white
-beta-Ala-His dipeptidase	3.4.13.20	beta-Alanine	Carnosine	white
-beta-Ala-His dipeptidase	3.4.13.20	beta-Alanine	H2O	white
-carboxyaminopropylagmatine decarboxylase	4.1.1.127	CO2	N1-[(S)-3-amino-3-carboxypropyl]agmatine	white
-carboxyaminopropylagmatine decarboxylase	4.1.1.127	N1-(3-Aminopropyl)agmatine	N1-[(S)-3-amino-3-carboxypropyl]agmatine	white
-carboxyaminopropylagmatine decarboxylase	4.1.1.127	N1-[(S)-3-amino-3-carboxypropyl]agmatine	CO2	white
-carboxyaminopropylagmatine decarboxylase	4.1.1.127	N1-[(S)-3-amino-3-carboxypropyl]agmatine	N1-(3-Aminopropyl)agmatine	white
-carboxyaminopropylagmatine dehydrogenase	1.5.1.55	Agmatine	H2O	white
-carboxyaminopropylagmatine dehydrogenase	1.5.1.55	Agmatine	N1-[(S)-3-amino-3-carboxypropyl]agmatine	white
-carboxyaminopropylagmatine dehydrogenase	1.5.1.55	Agmatine	NADP+	white
-carboxyaminopropylagmatine dehydrogenase	1.5.1.55	H+	H2O	white
-carboxyaminopropylagmatine dehydrogenase	1.5.1.55	H+	N1-[(S)-3-amino-3-carboxypropyl]agmatine	white
-carboxyaminopropylagmatine dehydrogenase	1.5.1.55	H+	NADP+	white
-carboxyaminopropylagmatine dehydrogenase	1.5.1.55	H2O	Agmatine	white
-carboxyaminopropylagmatine dehydrogenase	1.5.1.55	H2O	H+	white
-carboxyaminopropylagmatine dehydrogenase	1.5.1.55	H2O	L-Aspartate 4-semialdehyde	white
-carboxyaminopropylagmatine dehydrogenase	1.5.1.55	H2O	NADPH	white
-carboxyaminopropylagmatine dehydrogenase	1.5.1.55	L-Aspartate 4-semialdehyde	H2O	white
-carboxyaminopropylagmatine dehydrogenase	1.5.1.55	L-Aspartate 4-semialdehyde	N1-[(S)-3-amino-3-carboxypropyl]agmatine	white
-carboxyaminopropylagmatine dehydrogenase	1.5.1.55	L-Aspartate 4-semialdehyde	NADP+	white
-carboxyaminopropylagmatine dehydrogenase	1.5.1.55	N1-[(S)-3-amino-3-carboxypropyl]agmatine	Agmatine	white
-carboxyaminopropylagmatine dehydrogenase	1.5.1.55	N1-[(S)-3-amino-3-carboxypropyl]agmatine	H+	white
-carboxyaminopropylagmatine dehydrogenase	1.5.1.55	N1-[(S)-3-amino-3-carboxypropyl]agmatine	L-Aspartate 4-semialdehyde	white
-carboxyaminopropylagmatine dehydrogenase	1.5.1.55	N1-[(S)-3-amino-3-carboxypropyl]agmatine	NADPH	white
-carboxyaminopropylagmatine dehydrogenase	1.5.1.55	NADP+	Agmatine	white
-carboxyaminopropylagmatine dehydrogenase	1.5.1.55	NADP+	H+	white
-carboxyaminopropylagmatine dehydrogenase	1.5.1.55	NADP+	L-Aspartate 4-semialdehyde	white
-carboxyaminopropylagmatine dehydrogenase	1.5.1.55	NADP+	NADPH	white
-carboxyaminopropylagmatine dehydrogenase	1.5.1.55	NADPH	H2O	white
-carboxyaminopropylagmatine dehydrogenase	1.5.1.55	NADPH	N1-[(S)-3-amino-3-carboxypropyl]agmatine	white
-carboxyaminopropylagmatine dehydrogenase	1.5.1.55	NADPH	NADP+	white
-carboxynorspermidine decarboxylase	4.1.1.96	CO2	Carboxyspermidine	white
-carboxynorspermidine decarboxylase	4.1.1.96	Carboxyspermidine	CO2	white
-carboxynorspermidine decarboxylase	4.1.1.96	Carboxyspermidine	Spermidine	white
-carboxynorspermidine decarboxylase	4.1.1.96	Spermidine	Carboxyspermidine	white
-carboxynorspermidine synthase	1.5.1.43	Carboxyspermidine	H+	white
-carboxynorspermidine synthase	1.5.1.43	Carboxyspermidine	L-Aspartate 4-semialdehyde	white
-carboxynorspermidine synthase	1.5.1.43	Carboxyspermidine	NADPH	white
-carboxynorspermidine synthase	1.5.1.43	Carboxyspermidine	Putrescine	white
-carboxynorspermidine synthase	1.5.1.43	H+	Carboxyspermidine	white
-carboxynorspermidine synthase	1.5.1.43	H+	H2O	white
-carboxynorspermidine synthase	1.5.1.43	H+	NADP+	white
-carboxynorspermidine synthase	1.5.1.43	H2O	H+	white
-carboxynorspermidine synthase	1.5.1.43	H2O	L-Aspartate 4-semialdehyde	white
-carboxynorspermidine synthase	1.5.1.43	H2O	NADPH	white
-carboxynorspermidine synthase	1.5.1.43	H2O	Putrescine	white
-carboxynorspermidine synthase	1.5.1.43	L-Aspartate 4-semialdehyde	Carboxyspermidine	white
-carboxynorspermidine synthase	1.5.1.43	L-Aspartate 4-semialdehyde	H2O	white
-carboxynorspermidine synthase	1.5.1.43	L-Aspartate 4-semialdehyde	NADP+	white
-carboxynorspermidine synthase	1.5.1.43	NADP+	H+	white
-carboxynorspermidine synthase	1.5.1.43	NADP+	L-Aspartate 4-semialdehyde	white
-carboxynorspermidine synthase	1.5.1.43	NADP+	NADPH	white
-carboxynorspermidine synthase	1.5.1.43	NADP+	Putrescine	white
-carboxynorspermidine synthase	1.5.1.43	NADPH	Carboxyspermidine	white
-carboxynorspermidine synthase	1.5.1.43	NADPH	H2O	white
-carboxynorspermidine synthase	1.5.1.43	NADPH	NADP+	white
-carboxynorspermidine synthase	1.5.1.43	Putrescine	Carboxyspermidine	white
-carboxynorspermidine synthase	1.5.1.43	Putrescine	H2O	white
-carboxynorspermidine synthase	1.5.1.43	Putrescine	NADP+	white
-carnosine synthase	6.3.2.11	ADP	ATP	white
-carnosine synthase	6.3.2.11	ADP	L-Lysine	white
-carnosine synthase	6.3.2.11	ADP	beta-Alanine	white
-carnosine synthase	6.3.2.11	ATP	ADP	white
-carnosine synthase	6.3.2.11	ATP	Orthophosphate	white
-carnosine synthase	6.3.2.11	ATP	beta-Alanyl-L-lysine	white
-carnosine synthase	6.3.2.11	L-Lysine	ADP	white
-carnosine synthase	6.3.2.11	L-Lysine	Orthophosphate	white
-carnosine synthase	6.3.2.11	L-Lysine	beta-Alanyl-L-lysine	white
-carnosine synthase	6.3.2.11	Orthophosphate	ATP	white
-carnosine synthase	6.3.2.11	Orthophosphate	L-Lysine	white
-carnosine synthase	6.3.2.11	Orthophosphate	beta-Alanine	white
-carnosine synthase	6.3.2.11	beta-Alanine	ADP	white
-carnosine synthase	6.3.2.11	beta-Alanine	Orthophosphate	white
-carnosine synthase	6.3.2.11	beta-Alanine	beta-Alanyl-L-lysine	white
-carnosine synthase	6.3.2.11	beta-Alanyl-L-lysine	ATP	white
-carnosine synthase	6.3.2.11	beta-Alanyl-L-lysine	L-Lysine	white
-carnosine synthase	6.3.2.11	beta-Alanyl-L-lysine	beta-Alanine	white
-cis-L-3-hydroxyproline dehydratase	4.2.1.171	cis-3-Hydroxy-L-proline	1-Pyrroline-2-carboxylate	green
-cis-L-3-hydroxyproline dehydratase	4.2.1.171	cis-3-Hydroxy-L-proline	H2O	green
-creatinase	3.5.3.3	Creatine	Sarcosine	green
-creatinase	3.5.3.3	Creatine	Urea	green
-creatinase	3.5.3.3	H2O	Sarcosine	green
-creatinase	3.5.3.3	H2O	Urea	green
-creatine kinase	2.7.3.2	ADP	ATP	white
-creatine kinase	2.7.3.2	ADP	Creatine	white
-creatine kinase	2.7.3.2	ATP	ADP	white
-creatine kinase	2.7.3.2	ATP	Phosphocreatine	white
-creatine kinase	2.7.3.2	Creatine	ADP	white
-creatine kinase	2.7.3.2	Creatine	Phosphocreatine	white
-creatine kinase	2.7.3.2	Phosphocreatine	ATP	white
-creatine kinase	2.7.3.2	Phosphocreatine	Creatine	white
-creatine kinase M-type	2.7.3.2	ADP	ATP	white
-creatine kinase M-type	2.7.3.2	ADP	Creatine	white
-creatine kinase M-type	2.7.3.2	ATP	ADP	white
-creatine kinase M-type	2.7.3.2	ATP	Phosphocreatine	white
-creatine kinase M-type	2.7.3.2	Creatine	ADP	white
-creatine kinase M-type	2.7.3.2	Creatine	Phosphocreatine	white
-creatine kinase M-type	2.7.3.2	Phosphocreatine	ATP	white
-creatine kinase M-type	2.7.3.2	Phosphocreatine	Creatine	white
-creatinine amidohydrolase	3.5.2.10	Creatine	Creatinine	white
-creatinine amidohydrolase	3.5.2.10	Creatine	H2O	white
-creatinine amidohydrolase	3.5.2.10	Creatinine	Creatine	white
-creatinine amidohydrolase	3.5.2.10	H2O	Creatine	white
-cytosine/creatinine deaminase	3.5.4.1	Creatinine	Ammonia	green
-cytosine/creatinine deaminase	3.5.4.1	Creatinine	N-Methylhydantoin	green
-cytosine/creatinine deaminase	3.5.4.1	H2O	Ammonia	green
-cytosine/creatinine deaminase	3.5.4.1	H2O	N-Methylhydantoin	green
-cytosolic nonspecific dipeptidase	3.4.13.18	Carnosine	L-Histidine	white
-cytosolic nonspecific dipeptidase	3.4.13.18	Carnosine	beta-Alanine	white
-cytosolic nonspecific dipeptidase	3.4.13.18	H2O	L-Histidine	white
-cytosolic nonspecific dipeptidase	3.4.13.18	H2O	beta-Alanine	white
-cytosolic nonspecific dipeptidase	3.4.13.18	L-Histidine	Carnosine	white
-cytosolic nonspecific dipeptidase	3.4.13.18	L-Histidine	H2O	white
-cytosolic nonspecific dipeptidase	3.4.13.18	beta-Alanine	Carnosine	white
-cytosolic nonspecific dipeptidase	3.4.13.18	beta-Alanine	H2O	white
-diamine N-acetyltransferase	2.3.1.57	Acetyl-CoA	CoA	white
-diamine N-acetyltransferase	2.3.1.57	Acetyl-CoA	N-Acetylputrescine	white
-diamine N-acetyltransferase	2.3.1.57	CoA	Acetyl-CoA	white
-diamine N-acetyltransferase	2.3.1.57	CoA	Putrescine	white
-diamine N-acetyltransferase	2.3.1.57	N-Acetylputrescine	Acetyl-CoA	white
-diamine N-acetyltransferase	2.3.1.57	N-Acetylputrescine	Putrescine	white
-diamine N-acetyltransferase	2.3.1.57	Putrescine	CoA	white
-diamine N-acetyltransferase	2.3.1.57	Putrescine	N-Acetylputrescine	white
-diamine oxidase	1.4.3.22	4-Aminobutyraldehyde	H2O	white
-diamine oxidase	1.4.3.22	4-Aminobutyraldehyde	Oxygen	white
-diamine oxidase	1.4.3.22	4-Aminobutyraldehyde	Putrescine	white
-diamine oxidase	1.4.3.22	Ammonia	H2O	white
-diamine oxidase	1.4.3.22	Ammonia	Oxygen	white
-diamine oxidase	1.4.3.22	Ammonia	Putrescine	white
-diamine oxidase	1.4.3.22	H2O	4-Aminobutyraldehyde	white
-diamine oxidase	1.4.3.22	H2O	Ammonia	white
-diamine oxidase	1.4.3.22	H2O	Hydrogen peroxide	white
-diamine oxidase	1.4.3.22	Hydrogen peroxide	H2O	white
-diamine oxidase	1.4.3.22	Hydrogen peroxide	Oxygen	white
-diamine oxidase	1.4.3.22	Hydrogen peroxide	Putrescine	white
-diamine oxidase	1.4.3.22	Oxygen	4-Aminobutyraldehyde	white
-diamine oxidase	1.4.3.22	Oxygen	Ammonia	white
-diamine oxidase	1.4.3.22	Oxygen	Hydrogen peroxide	white
-diamine oxidase	1.4.3.22	Putrescine	4-Aminobutyraldehyde	white
-diamine oxidase	1.4.3.22	Putrescine	Ammonia	white
-diamine oxidase	1.4.3.22	Putrescine	Hydrogen peroxide	white
-gamma-glutamyl-gamma-aminobutyrate hydrolase	3.5.1.94	4-(L-gamma-Glutamylamino)butanoate	4-Aminobutanoate	white
-gamma-glutamyl-gamma-aminobutyrate hydrolase	3.5.1.94	4-(L-gamma-Glutamylamino)butanoate	L-Glutamate	white
-gamma-glutamyl-gamma-aminobutyrate hydrolase	3.5.1.94	4-Aminobutanoate	4-(L-gamma-Glutamylamino)butanoate	white
-gamma-glutamyl-gamma-aminobutyrate hydrolase	3.5.1.94	4-Aminobutanoate	H2O	white
-gamma-glutamyl-gamma-aminobutyrate hydrolase	3.5.1.94	H2O	4-Aminobutanoate	white
-gamma-glutamyl-gamma-aminobutyrate hydrolase	3.5.1.94	H2O	L-Glutamate	white
-gamma-glutamyl-gamma-aminobutyrate hydrolase	3.5.1.94	L-Glutamate	4-(L-gamma-Glutamylamino)butanoate	white
-gamma-glutamyl-gamma-aminobutyrate hydrolase	3.5.1.94	L-Glutamate	H2O	white
-gamma-glutamylputrescine oxidase	1.4.3.-	H2O	Ammonia	green
-gamma-glutamylputrescine oxidase	1.4.3.-	H2O	Hydrogen peroxide	green
-gamma-glutamylputrescine oxidase	1.4.3.-	H2O	gamma-Glutamyl-gamma-aminobutyraldehyde	green
-gamma-glutamylputrescine oxidase	1.4.3.-	Oxygen	Ammonia	green
-gamma-glutamylputrescine oxidase	1.4.3.-	Oxygen	Hydrogen peroxide	green
-gamma-glutamylputrescine oxidase	1.4.3.-	Oxygen	gamma-Glutamyl-gamma-aminobutyraldehyde	green
-gamma-glutamylputrescine oxidase	1.4.3.-	gamma-L-Glutamylputrescine	Ammonia	green
-gamma-glutamylputrescine oxidase	1.4.3.-	gamma-L-Glutamylputrescine	Hydrogen peroxide	green
-gamma-glutamylputrescine oxidase	1.4.3.-	gamma-L-Glutamylputrescine	gamma-Glutamyl-gamma-aminobutyraldehyde	green
-gamma-glutamylputrescine synthase	6.3.1.11	ADP	ATP	white
-gamma-glutamylputrescine synthase	6.3.1.11	ADP	L-Glutamate	white
-gamma-glutamylputrescine synthase	6.3.1.11	ADP	Putrescine	white
-gamma-glutamylputrescine synthase	6.3.1.11	ATP	ADP	white
-gamma-glutamylputrescine synthase	6.3.1.11	ATP	Orthophosphate	white
-gamma-glutamylputrescine synthase	6.3.1.11	ATP	gamma-L-Glutamylputrescine	white
-gamma-glutamylputrescine synthase	6.3.1.11	L-Glutamate	ADP	white
-gamma-glutamylputrescine synthase	6.3.1.11	L-Glutamate	Orthophosphate	white
-gamma-glutamylputrescine synthase	6.3.1.11	L-Glutamate	gamma-L-Glutamylputrescine	white
-gamma-glutamylputrescine synthase	6.3.1.11	Orthophosphate	ATP	white
-gamma-glutamylputrescine synthase	6.3.1.11	Orthophosphate	L-Glutamate	white
-gamma-glutamylputrescine synthase	6.3.1.11	Orthophosphate	Putrescine	white
-gamma-glutamylputrescine synthase	6.3.1.11	Putrescine	ADP	white
-gamma-glutamylputrescine synthase	6.3.1.11	Putrescine	Orthophosphate	white
-gamma-glutamylputrescine synthase	6.3.1.11	Putrescine	gamma-L-Glutamylputrescine	white
-gamma-glutamylputrescine synthase	6.3.1.11	gamma-L-Glutamylputrescine	ATP	white
-gamma-glutamylputrescine synthase	6.3.1.11	gamma-L-Glutamylputrescine	L-Glutamate	white
-gamma-glutamylputrescine synthase	6.3.1.11	gamma-L-Glutamylputrescine	Putrescine	white
-glutamate 5-kinase	2.7.2.11	ATP	ADP	green
-glutamate 5-kinase	2.7.2.11	ATP	L-Glutamyl 5-phosphate	green
-glutamate 5-kinase	2.7.2.11	L-Glutamate	ADP	green
-glutamate 5-kinase	2.7.2.11	L-Glutamate	L-Glutamyl 5-phosphate	green
-glutamate-5-semialdehyde dehydrogenase	1.2.1.41	L-Glutamate 5-semialdehyde	H+	green
-glutamate-5-semialdehyde dehydrogenase	1.2.1.41	L-Glutamate 5-semialdehyde	L-Glutamyl 5-phosphate	green
-glutamate-5-semialdehyde dehydrogenase	1.2.1.41	L-Glutamate 5-semialdehyde	NADPH	green
-glutamate-5-semialdehyde dehydrogenase	1.2.1.41	NADP+	H+	green
-glutamate-5-semialdehyde dehydrogenase	1.2.1.41	NADP+	L-Glutamyl 5-phosphate	green
-glutamate-5-semialdehyde dehydrogenase	1.2.1.41	NADP+	NADPH	green
-glutamate-5-semialdehyde dehydrogenase	1.2.1.41	Orthophosphate	H+	green
-glutamate-5-semialdehyde dehydrogenase	1.2.1.41	Orthophosphate	L-Glutamyl 5-phosphate	green
-glutamate-5-semialdehyde dehydrogenase	1.2.1.41	Orthophosphate	NADPH	green
-glycine amidinotransferase	2.1.4.1	Glycine	Guanidinoacetate	white
-glycine amidinotransferase	2.1.4.1	Glycine	L-Ornithine	white
-glycine amidinotransferase	2.1.4.1	Guanidinoacetate	Glycine	white
-glycine amidinotransferase	2.1.4.1	Guanidinoacetate	L-Arginine	white
-glycine amidinotransferase	2.1.4.1	L-Arginine	Guanidinoacetate	white
-glycine amidinotransferase	2.1.4.1	L-Arginine	L-Ornithine	white
-glycine amidinotransferase	2.1.4.1	L-Ornithine	Glycine	white
-glycine amidinotransferase	2.1.4.1	L-Ornithine	L-Arginine	white
-guanidinoacetate N-methyltransferase	2.1.1.2	Creatine	Guanidinoacetate	white
-guanidinoacetate N-methyltransferase	2.1.1.2	Creatine	S-Adenosyl-L-methionine	white
-guanidinoacetate N-methyltransferase	2.1.1.2	Guanidinoacetate	Creatine	white
-guanidinoacetate N-methyltransferase	2.1.1.2	Guanidinoacetate	S-Adenosyl-L-homocysteine	white
-guanidinoacetate N-methyltransferase	2.1.1.2	S-Adenosyl-L-homocysteine	Guanidinoacetate	white
-guanidinoacetate N-methyltransferase	2.1.1.2	S-Adenosyl-L-homocysteine	S-Adenosyl-L-methionine	white
-guanidinoacetate N-methyltransferase	2.1.1.2	S-Adenosyl-L-methionine	Creatine	white
-guanidinoacetate N-methyltransferase	2.1.1.2	S-Adenosyl-L-methionine	S-Adenosyl-L-homocysteine	white
-guanidinobutyrase / D-arginase	3.5.3.7	4-Aminobutanoate	4-Guanidinobutanoate	green
-guanidinobutyrase / D-arginase	3.5.3.7	4-Aminobutanoate	H2O	green
-guanidinobutyrase / D-arginase	3.5.3.7	4-Guanidinobutanoate	4-Aminobutanoate	green
-guanidinobutyrase / D-arginase	3.5.3.7	4-Guanidinobutanoate	Urea	green
-guanidinobutyrase / D-arginase	3.5.3.7	H2O	4-Aminobutanoate	green
-guanidinobutyrase / D-arginase	3.5.3.7	H2O	Urea	green
-guanidinobutyrase / D-arginase	3.5.3.7	Urea	4-Guanidinobutanoate	green
-guanidinobutyrase / D-arginase	3.5.3.7	Urea	H2O	green
-hydroxyproline dehydrogenase	1.5.5.3	Hydroquinone	Hydroxyproline	white
-hydroxyproline dehydrogenase	1.5.5.3	Hydroquinone	Quinone	white
-hydroxyproline dehydrogenase	1.5.5.3	Hydroxyproline	Hydroquinone	white
-hydroxyproline dehydrogenase	1.5.5.3	Hydroxyproline	L-1-Pyrroline-3-hydroxy-5-carboxylate	white
-hydroxyproline dehydrogenase	1.5.5.3	L-1-Pyrroline-3-hydroxy-5-carboxylate	Hydroxyproline	white
-hydroxyproline dehydrogenase	1.5.5.3	L-1-Pyrroline-3-hydroxy-5-carboxylate	Quinone	white
-hydroxyproline dehydrogenase	1.5.5.3	Quinone	Hydroquinone	white
-hydroxyproline dehydrogenase	1.5.5.3	Quinone	L-1-Pyrroline-3-hydroxy-5-carboxylate	white
-monoamine oxidase	1.4.3.4	H2O	Ammonia	green
-monoamine oxidase	1.4.3.4	H2O	Hydrogen peroxide	green
-monoamine oxidase	1.4.3.4	H2O	N4-Acetylaminobutanal	green
-monoamine oxidase	1.4.3.4	N-Acetylputrescine	Ammonia	green
-monoamine oxidase	1.4.3.4	N-Acetylputrescine	Hydrogen peroxide	green
-monoamine oxidase	1.4.3.4	N-Acetylputrescine	N4-Acetylaminobutanal	green
-monoamine oxidase	1.4.3.4	Oxygen	Ammonia	green
-monoamine oxidase	1.4.3.4	Oxygen	Hydrogen peroxide	green
-monoamine oxidase	1.4.3.4	Oxygen	N4-Acetylaminobutanal	green
-nitric-oxide synthase, bacterial	1.14.14.47	L-Arginine	H2O	green
-nitric-oxide synthase, bacterial	1.14.14.47	L-Arginine	N(omega)-Hydroxyarginine	green
-nitric-oxide synthase, bacterial	1.14.14.47	L-Arginine	Oxidized flavodoxin	green
-nitric-oxide synthase, bacterial	1.14.14.47	N(omega)-Hydroxyarginine	H2O	green
-nitric-oxide synthase, bacterial	1.14.14.47	N(omega)-Hydroxyarginine	L-Citrulline	green
-nitric-oxide synthase, bacterial	1.14.14.47	N(omega)-Hydroxyarginine	Nitric oxide	green
-nitric-oxide synthase, bacterial	1.14.14.47	N(omega)-Hydroxyarginine	Oxidized flavodoxin	green
-nitric-oxide synthase, bacterial	1.14.14.47	Oxygen	H2O	green
-nitric-oxide synthase, bacterial	1.14.14.47	Oxygen	L-Citrulline	green
-nitric-oxide synthase, bacterial	1.14.14.47	Oxygen	N(omega)-Hydroxyarginine	green
-nitric-oxide synthase, bacterial	1.14.14.47	Oxygen	Nitric oxide	green
-nitric-oxide synthase, bacterial	1.14.14.47	Oxygen	Oxidized flavodoxin	green
-nitric-oxide synthase, bacterial	1.14.14.47	Reduced flavodoxin	H2O	green
-nitric-oxide synthase, bacterial	1.14.14.47	Reduced flavodoxin	L-Citrulline	green
-nitric-oxide synthase, bacterial	1.14.14.47	Reduced flavodoxin	N(omega)-Hydroxyarginine	green
-nitric-oxide synthase, bacterial	1.14.14.47	Reduced flavodoxin	Nitric oxide	green
-nitric-oxide synthase, bacterial	1.14.14.47	Reduced flavodoxin	Oxidized flavodoxin	green
-nitric-oxide synthase, brain	1.14.13.39	H+	H2O	white
-nitric-oxide synthase, brain	1.14.13.39	H+	L-Citrulline	white
-nitric-oxide synthase, brain	1.14.13.39	H+	NADP+	white
-nitric-oxide synthase, brain	1.14.13.39	H+	Nitric oxide	white
-nitric-oxide synthase, brain	1.14.13.39	H2O	H+	white
-nitric-oxide synthase, brain	1.14.13.39	H2O	N(omega)-Hydroxyarginine	white
-nitric-oxide synthase, brain	1.14.13.39	H2O	NADPH	white
-nitric-oxide synthase, brain	1.14.13.39	H2O	Oxygen	white
-nitric-oxide synthase, brain	1.14.13.39	L-Citrulline	H+	white
-nitric-oxide synthase, brain	1.14.13.39	L-Citrulline	N(omega)-Hydroxyarginine	white
-nitric-oxide synthase, brain	1.14.13.39	L-Citrulline	NADPH	white
-nitric-oxide synthase, brain	1.14.13.39	L-Citrulline	Oxygen	white
-nitric-oxide synthase, brain	1.14.13.39	N(omega)-Hydroxyarginine	H2O	white
-nitric-oxide synthase, brain	1.14.13.39	N(omega)-Hydroxyarginine	L-Citrulline	white
-nitric-oxide synthase, brain	1.14.13.39	N(omega)-Hydroxyarginine	NADP+	white
-nitric-oxide synthase, brain	1.14.13.39	N(omega)-Hydroxyarginine	Nitric oxide	white
-nitric-oxide synthase, brain	1.14.13.39	NADP+	H+	white
-nitric-oxide synthase, brain	1.14.13.39	NADP+	N(omega)-Hydroxyarginine	white
-nitric-oxide synthase, brain	1.14.13.39	NADP+	NADPH	white
-nitric-oxide synthase, brain	1.14.13.39	NADP+	Oxygen	white
-nitric-oxide synthase, brain	1.14.13.39	NADPH	H2O	white
-nitric-oxide synthase, brain	1.14.13.39	NADPH	L-Citrulline	white
-nitric-oxide synthase, brain	1.14.13.39	NADPH	NADP+	white
-nitric-oxide synthase, brain	1.14.13.39	NADPH	Nitric oxide	white
-nitric-oxide synthase, brain	1.14.13.39	Nitric oxide	H+	white
-nitric-oxide synthase, brain	1.14.13.39	Nitric oxide	N(omega)-Hydroxyarginine	white
-nitric-oxide synthase, brain	1.14.13.39	Nitric oxide	NADPH	white
-nitric-oxide synthase, brain	1.14.13.39	Nitric oxide	Oxygen	white
-nitric-oxide synthase, brain	1.14.13.39	Oxygen	H2O	white
-nitric-oxide synthase, brain	1.14.13.39	Oxygen	L-Citrulline	white
-nitric-oxide synthase, brain	1.14.13.39	Oxygen	NADP+	white
-nitric-oxide synthase, brain	1.14.13.39	Oxygen	Nitric oxide	white
-nitric-oxide synthase, endothelial	1.14.13.39	H+	H2O	white
-nitric-oxide synthase, endothelial	1.14.13.39	H+	L-Citrulline	white
-nitric-oxide synthase, endothelial	1.14.13.39	H+	NADP+	white
-nitric-oxide synthase, endothelial	1.14.13.39	H+	Nitric oxide	white
-nitric-oxide synthase, endothelial	1.14.13.39	H2O	H+	white
-nitric-oxide synthase, endothelial	1.14.13.39	H2O	N(omega)-Hydroxyarginine	white
-nitric-oxide synthase, endothelial	1.14.13.39	H2O	NADPH	white
-nitric-oxide synthase, endothelial	1.14.13.39	H2O	Oxygen	white
-nitric-oxide synthase, endothelial	1.14.13.39	L-Citrulline	H+	white
-nitric-oxide synthase, endothelial	1.14.13.39	L-Citrulline	N(omega)-Hydroxyarginine	white
-nitric-oxide synthase, endothelial	1.14.13.39	L-Citrulline	NADPH	white
-nitric-oxide synthase, endothelial	1.14.13.39	L-Citrulline	Oxygen	white
-nitric-oxide synthase, endothelial	1.14.13.39	N(omega)-Hydroxyarginine	H2O	white
-nitric-oxide synthase, endothelial	1.14.13.39	N(omega)-Hydroxyarginine	L-Citrulline	white
-nitric-oxide synthase, endothelial	1.14.13.39	N(omega)-Hydroxyarginine	NADP+	white
-nitric-oxide synthase, endothelial	1.14.13.39	N(omega)-Hydroxyarginine	Nitric oxide	white
-nitric-oxide synthase, endothelial	1.14.13.39	NADP+	H+	white
-nitric-oxide synthase, endothelial	1.14.13.39	NADP+	N(omega)-Hydroxyarginine	white
-nitric-oxide synthase, endothelial	1.14.13.39	NADP+	NADPH	white
-nitric-oxide synthase, endothelial	1.14.13.39	NADP+	Oxygen	white
-nitric-oxide synthase, endothelial	1.14.13.39	NADPH	H2O	white
-nitric-oxide synthase, endothelial	1.14.13.39	NADPH	L-Citrulline	white
-nitric-oxide synthase, endothelial	1.14.13.39	NADPH	NADP+	white
-nitric-oxide synthase, endothelial	1.14.13.39	NADPH	Nitric oxide	white
-nitric-oxide synthase, endothelial	1.14.13.39	Nitric oxide	H+	white
-nitric-oxide synthase, endothelial	1.14.13.39	Nitric oxide	N(omega)-Hydroxyarginine	white
-nitric-oxide synthase, endothelial	1.14.13.39	Nitric oxide	NADPH	white
-nitric-oxide synthase, endothelial	1.14.13.39	Nitric oxide	Oxygen	white
-nitric-oxide synthase, endothelial	1.14.13.39	Oxygen	H2O	white
-nitric-oxide synthase, endothelial	1.14.13.39	Oxygen	L-Citrulline	white
-nitric-oxide synthase, endothelial	1.14.13.39	Oxygen	NADP+	white
-nitric-oxide synthase, endothelial	1.14.13.39	Oxygen	Nitric oxide	white
-nitric-oxide synthase, inducible	1.14.13.39	H+	H2O	white
-nitric-oxide synthase, inducible	1.14.13.39	H+	L-Citrulline	white
-nitric-oxide synthase, inducible	1.14.13.39	H+	NADP+	white
-nitric-oxide synthase, inducible	1.14.13.39	H+	Nitric oxide	white
-nitric-oxide synthase, inducible	1.14.13.39	H2O	H+	white
-nitric-oxide synthase, inducible	1.14.13.39	H2O	N(omega)-Hydroxyarginine	white
-nitric-oxide synthase, inducible	1.14.13.39	H2O	NADPH	white
-nitric-oxide synthase, inducible	1.14.13.39	H2O	Oxygen	white
-nitric-oxide synthase, inducible	1.14.13.39	L-Citrulline	H+	white
-nitric-oxide synthase, inducible	1.14.13.39	L-Citrulline	N(omega)-Hydroxyarginine	white
-nitric-oxide synthase, inducible	1.14.13.39	L-Citrulline	NADPH	white
-nitric-oxide synthase, inducible	1.14.13.39	L-Citrulline	Oxygen	white
-nitric-oxide synthase, inducible	1.14.13.39	N(omega)-Hydroxyarginine	H2O	white
-nitric-oxide synthase, inducible	1.14.13.39	N(omega)-Hydroxyarginine	L-Citrulline	white
-nitric-oxide synthase, inducible	1.14.13.39	N(omega)-Hydroxyarginine	NADP+	white
-nitric-oxide synthase, inducible	1.14.13.39	N(omega)-Hydroxyarginine	Nitric oxide	white
-nitric-oxide synthase, inducible	1.14.13.39	NADP+	H+	white
-nitric-oxide synthase, inducible	1.14.13.39	NADP+	N(omega)-Hydroxyarginine	white
-nitric-oxide synthase, inducible	1.14.13.39	NADP+	NADPH	white
-nitric-oxide synthase, inducible	1.14.13.39	NADP+	Oxygen	white
-nitric-oxide synthase, inducible	1.14.13.39	NADPH	H2O	white
-nitric-oxide synthase, inducible	1.14.13.39	NADPH	L-Citrulline	white
-nitric-oxide synthase, inducible	1.14.13.39	NADPH	NADP+	white
-nitric-oxide synthase, inducible	1.14.13.39	NADPH	Nitric oxide	white
-nitric-oxide synthase, inducible	1.14.13.39	Nitric oxide	H+	white
-nitric-oxide synthase, inducible	1.14.13.39	Nitric oxide	N(omega)-Hydroxyarginine	white
-nitric-oxide synthase, inducible	1.14.13.39	Nitric oxide	NADPH	white
-nitric-oxide synthase, inducible	1.14.13.39	Nitric oxide	Oxygen	white
-nitric-oxide synthase, inducible	1.14.13.39	Oxygen	H2O	white
-nitric-oxide synthase, inducible	1.14.13.39	Oxygen	L-Citrulline	white
-nitric-oxide synthase, inducible	1.14.13.39	Oxygen	NADP+	white
-nitric-oxide synthase, inducible	1.14.13.39	Oxygen	Nitric oxide	white
-nitric-oxide synthase, plant	1.14.13.39	H+	H2O	white
-nitric-oxide synthase, plant	1.14.13.39	H+	L-Citrulline	white
-nitric-oxide synthase, plant	1.14.13.39	H+	NADP+	white
-nitric-oxide synthase, plant	1.14.13.39	H+	Nitric oxide	white
-nitric-oxide synthase, plant	1.14.13.39	H2O	H+	white
-nitric-oxide synthase, plant	1.14.13.39	H2O	N(omega)-Hydroxyarginine	white
-nitric-oxide synthase, plant	1.14.13.39	H2O	NADPH	white
-nitric-oxide synthase, plant	1.14.13.39	H2O	Oxygen	white
-nitric-oxide synthase, plant	1.14.13.39	L-Citrulline	H+	white
-nitric-oxide synthase, plant	1.14.13.39	L-Citrulline	N(omega)-Hydroxyarginine	white
-nitric-oxide synthase, plant	1.14.13.39	L-Citrulline	NADPH	white
-nitric-oxide synthase, plant	1.14.13.39	L-Citrulline	Oxygen	white
-nitric-oxide synthase, plant	1.14.13.39	N(omega)-Hydroxyarginine	H2O	white
-nitric-oxide synthase, plant	1.14.13.39	N(omega)-Hydroxyarginine	L-Citrulline	white
-nitric-oxide synthase, plant	1.14.13.39	N(omega)-Hydroxyarginine	NADP+	white
-nitric-oxide synthase, plant	1.14.13.39	N(omega)-Hydroxyarginine	Nitric oxide	white
-nitric-oxide synthase, plant	1.14.13.39	NADP+	H+	white
-nitric-oxide synthase, plant	1.14.13.39	NADP+	N(omega)-Hydroxyarginine	white
-nitric-oxide synthase, plant	1.14.13.39	NADP+	NADPH	white
-nitric-oxide synthase, plant	1.14.13.39	NADP+	Oxygen	white
-nitric-oxide synthase, plant	1.14.13.39	NADPH	H2O	white
-nitric-oxide synthase, plant	1.14.13.39	NADPH	L-Citrulline	white
-nitric-oxide synthase, plant	1.14.13.39	NADPH	NADP+	white
-nitric-oxide synthase, plant	1.14.13.39	NADPH	Nitric oxide	white
-nitric-oxide synthase, plant	1.14.13.39	Nitric oxide	H+	white
-nitric-oxide synthase, plant	1.14.13.39	Nitric oxide	N(omega)-Hydroxyarginine	white
-nitric-oxide synthase, plant	1.14.13.39	Nitric oxide	NADPH	white
-nitric-oxide synthase, plant	1.14.13.39	Nitric oxide	Oxygen	white
-nitric-oxide synthase, plant	1.14.13.39	Oxygen	H2O	white
-nitric-oxide synthase, plant	1.14.13.39	Oxygen	L-Citrulline	white
-nitric-oxide synthase, plant	1.14.13.39	Oxygen	NADP+	white
-nitric-oxide synthase, plant	1.14.13.39	Oxygen	Nitric oxide	white
-nopaline oxidase subunit A	4.1.3.16	2-Oxoglutarate	Acceptor	white
-nopaline oxidase subunit A	4.1.3.16	2-Oxoglutarate	H2O	white
-nopaline oxidase subunit A	4.1.3.16	2-Oxoglutarate	Nopaline	white
-nopaline oxidase subunit A	4.1.3.16	Acceptor	2-Oxoglutarate	white
-nopaline oxidase subunit A	4.1.3.16	Acceptor	L-Arginine	white
-nopaline oxidase subunit A	4.1.3.16	Acceptor	Reduced acceptor	white
-nopaline oxidase subunit A	4.1.3.16	H2O	2-Oxoglutarate	white
-nopaline oxidase subunit A	4.1.3.16	H2O	L-Arginine	white
-nopaline oxidase subunit A	4.1.3.16	H2O	Reduced acceptor	white
-nopaline oxidase subunit A	4.1.3.16	L-Arginine	Acceptor	white
-nopaline oxidase subunit A	4.1.3.16	L-Arginine	H2O	white
-nopaline oxidase subunit A	4.1.3.16	L-Arginine	Nopaline	white
-nopaline oxidase subunit A	4.1.3.16	Nopaline	2-Oxoglutarate	white
-nopaline oxidase subunit A	4.1.3.16	Nopaline	L-Arginine	white
-nopaline oxidase subunit A	4.1.3.16	Nopaline	Reduced acceptor	white
-nopaline oxidase subunit A	4.1.3.16	Reduced acceptor	Acceptor	white
-nopaline oxidase subunit A	4.1.3.16	Reduced acceptor	H2O	white
-nopaline oxidase subunit A	4.1.3.16	Reduced acceptor	Nopaline	white
-nopaline oxidase subunit B	4.1.3.16	2-Oxoglutarate	Acceptor	white
-nopaline oxidase subunit B	4.1.3.16	2-Oxoglutarate	H2O	white
-nopaline oxidase subunit B	4.1.3.16	2-Oxoglutarate	Nopaline	white
-nopaline oxidase subunit B	4.1.3.16	Acceptor	2-Oxoglutarate	white
-nopaline oxidase subunit B	4.1.3.16	Acceptor	L-Arginine	white
-nopaline oxidase subunit B	4.1.3.16	Acceptor	Reduced acceptor	white
-nopaline oxidase subunit B	4.1.3.16	H2O	2-Oxoglutarate	white
-nopaline oxidase subunit B	4.1.3.16	H2O	L-Arginine	white
-nopaline oxidase subunit B	4.1.3.16	H2O	Reduced acceptor	white
-nopaline oxidase subunit B	4.1.3.16	L-Arginine	Acceptor	white
-nopaline oxidase subunit B	4.1.3.16	L-Arginine	H2O	white
-nopaline oxidase subunit B	4.1.3.16	L-Arginine	Nopaline	white
-nopaline oxidase subunit B	4.1.3.16	Nopaline	2-Oxoglutarate	white
-nopaline oxidase subunit B	4.1.3.16	Nopaline	L-Arginine	white
-nopaline oxidase subunit B	4.1.3.16	Nopaline	Reduced acceptor	white
-nopaline oxidase subunit B	4.1.3.16	Reduced acceptor	Acceptor	white
-nopaline oxidase subunit B	4.1.3.16	Reduced acceptor	H2O	white
-nopaline oxidase subunit B	4.1.3.16	Reduced acceptor	Nopaline	white
-octopine oxidase subunit A	1.5.1.11	Acceptor	L-Arginine	white
-octopine oxidase subunit A	1.5.1.11	Acceptor	Pyruvate	white
-octopine oxidase subunit A	1.5.1.11	Acceptor	Reduced acceptor	white
-octopine oxidase subunit A	1.5.1.11	H2O	L-Arginine	white
-octopine oxidase subunit A	1.5.1.11	H2O	Pyruvate	white
-octopine oxidase subunit A	1.5.1.11	H2O	Reduced acceptor	white
-octopine oxidase subunit A	1.5.1.11	L-Arginine	Acceptor	white
-octopine oxidase subunit A	1.5.1.11	L-Arginine	H2O	white
-octopine oxidase subunit A	1.5.1.11	L-Arginine	Octopine	white
-octopine oxidase subunit A	1.5.1.11	Octopine	L-Arginine	white
-octopine oxidase subunit A	1.5.1.11	Octopine	Pyruvate	white
-octopine oxidase subunit A	1.5.1.11	Octopine	Reduced acceptor	white
-octopine oxidase subunit A	1.5.1.11	Pyruvate	Acceptor	white
-octopine oxidase subunit A	1.5.1.11	Pyruvate	H2O	white
-octopine oxidase subunit A	1.5.1.11	Pyruvate	Octopine	white
-octopine oxidase subunit A	1.5.1.11	Reduced acceptor	Acceptor	white
-octopine oxidase subunit A	1.5.1.11	Reduced acceptor	H2O	white
-octopine oxidase subunit A	1.5.1.11	Reduced acceptor	Octopine	white
-octopine oxidase subunit B	1.5.1.11	Acceptor	L-Arginine	white
-octopine oxidase subunit B	1.5.1.11	Acceptor	Pyruvate	white
-octopine oxidase subunit B	1.5.1.11	Acceptor	Reduced acceptor	white
-octopine oxidase subunit B	1.5.1.11	H2O	L-Arginine	white
-octopine oxidase subunit B	1.5.1.11	H2O	Pyruvate	white
-octopine oxidase subunit B	1.5.1.11	H2O	Reduced acceptor	white
-octopine oxidase subunit B	1.5.1.11	L-Arginine	Acceptor	white
-octopine oxidase subunit B	1.5.1.11	L-Arginine	H2O	white
-octopine oxidase subunit B	1.5.1.11	L-Arginine	Octopine	white
-octopine oxidase subunit B	1.5.1.11	Octopine	L-Arginine	white
-octopine oxidase subunit B	1.5.1.11	Octopine	Pyruvate	white
-octopine oxidase subunit B	1.5.1.11	Octopine	Reduced acceptor	white
-octopine oxidase subunit B	1.5.1.11	Pyruvate	Acceptor	white
-octopine oxidase subunit B	1.5.1.11	Pyruvate	H2O	white
-octopine oxidase subunit B	1.5.1.11	Pyruvate	Octopine	white
-octopine oxidase subunit B	1.5.1.11	Reduced acceptor	Acceptor	white
-octopine oxidase subunit B	1.5.1.11	Reduced acceptor	H2O	white
-octopine oxidase subunit B	1.5.1.11	Reduced acceptor	Octopine	white
-ornithine cyclodeaminase	4.3.1.12	Ammonia	L-Ornithine	white
-ornithine cyclodeaminase	4.3.1.12	L-Ornithine	Ammonia	white
-ornithine cyclodeaminase	4.3.1.12	L-Ornithine	L-Proline	white
-ornithine cyclodeaminase	4.3.1.12	L-Proline	L-Ornithine	white
-ornithine decarboxylase	4.1.1.17	CO2	L-Ornithine	white
-ornithine decarboxylase	4.1.1.17	L-Ornithine	CO2	white
-ornithine decarboxylase	4.1.1.17	L-Ornithine	Putrescine	white
-ornithine decarboxylase	4.1.1.17	Putrescine	L-Ornithine	white
-ornithine--oxo-acid transaminase	2.6.1.13	2-Oxoglutarate	L-Glutamate	green
-ornithine--oxo-acid transaminase	2.6.1.13	2-Oxoglutarate	L-Glutamate 5-semialdehyde	green
-ornithine--oxo-acid transaminase	2.6.1.13	L-Glutamate	2-Oxoglutarate	green
-ornithine--oxo-acid transaminase	2.6.1.13	L-Glutamate	L-Ornithine	green
-ornithine--oxo-acid transaminase	2.6.1.13	L-Glutamate 5-semialdehyde	2-Oxoglutarate	green
-ornithine--oxo-acid transaminase	2.6.1.13	L-Glutamate 5-semialdehyde	L-Ornithine	green
-ornithine--oxo-acid transaminase	2.6.1.13	L-Ornithine	L-Glutamate	green
-ornithine--oxo-acid transaminase	2.6.1.13	L-Ornithine	L-Glutamate 5-semialdehyde	green
-polyamine oxidase	1.5.3.14	1,3-Diaminopropane	H2O	white
-polyamine oxidase	1.5.3.14	1,3-Diaminopropane	Oxygen	white
-polyamine oxidase	1.5.3.14	1,3-Diaminopropane	Spermidine	white
-polyamine oxidase	1.5.3.14	4-Aminobutyraldehyde	H2O	white
-polyamine oxidase	1.5.3.14	4-Aminobutyraldehyde	Oxygen	white
-polyamine oxidase	1.5.3.14	4-Aminobutyraldehyde	Spermidine	white
-polyamine oxidase	1.5.3.14	H2O	1,3-Diaminopropane	white
-polyamine oxidase	1.5.3.14	H2O	4-Aminobutyraldehyde	white
-polyamine oxidase	1.5.3.14	H2O	Hydrogen peroxide	white
-polyamine oxidase	1.5.3.14	Hydrogen peroxide	H2O	white
-polyamine oxidase	1.5.3.14	Hydrogen peroxide	Oxygen	white
-polyamine oxidase	1.5.3.14	Hydrogen peroxide	Spermidine	white
-polyamine oxidase	1.5.3.14	Oxygen	1,3-Diaminopropane	white
-polyamine oxidase	1.5.3.14	Oxygen	4-Aminobutyraldehyde	white
-polyamine oxidase	1.5.3.14	Oxygen	Hydrogen peroxide	white
-polyamine oxidase	1.5.3.14	Spermidine	1,3-Diaminopropane	white
-polyamine oxidase	1.5.3.14	Spermidine	4-Aminobutyraldehyde	white
-polyamine oxidase	1.5.3.14	Spermidine	Hydrogen peroxide	white
-proline dehydrogenase	1.5.5.2	L-Proline	(S)-1-Pyrroline-5-carboxylate	green
-proline dehydrogenase	1.5.5.2	L-Proline	Hydroquinone	green
-proline dehydrogenase	1.5.5.2	Quinone	(S)-1-Pyrroline-5-carboxylate	green
-proline dehydrogenase	1.5.5.2	Quinone	Hydroquinone	green
-proline iminopeptidase	3.4.11.5	H2O	L-Proline	green
-proline iminopeptidase	3.4.11.5	H2O	Peptide	green
-proline iminopeptidase	3.4.11.5	Peptide	L-Proline	green
-proline iminopeptidase	3.4.11.5	Peptide	Peptide	green
-proline racemase	5.1.1.4	D-Proline	L-Proline	green
-proline racemase	5.1.1.4	L-Proline	D-Proline	green
-prolyl 4-hydroxylase	1.14.11.2	2-Oxoglutarate	CO2	white
-prolyl 4-hydroxylase	1.14.11.2	2-Oxoglutarate	Hydroxyproline	white
-prolyl 4-hydroxylase	1.14.11.2	2-Oxoglutarate	Succinate	white
-prolyl 4-hydroxylase	1.14.11.2	CO2	2-Oxoglutarate	white
-prolyl 4-hydroxylase	1.14.11.2	CO2	L-Proline	white
-prolyl 4-hydroxylase	1.14.11.2	CO2	Oxygen	white
-prolyl 4-hydroxylase	1.14.11.2	Hydroxyproline	2-Oxoglutarate	white
-prolyl 4-hydroxylase	1.14.11.2	Hydroxyproline	L-Proline	white
-prolyl 4-hydroxylase	1.14.11.2	Hydroxyproline	Oxygen	white
-prolyl 4-hydroxylase	1.14.11.2	L-Proline	CO2	white
-prolyl 4-hydroxylase	1.14.11.2	L-Proline	Hydroxyproline	white
-prolyl 4-hydroxylase	1.14.11.2	L-Proline	Succinate	white
-prolyl 4-hydroxylase	1.14.11.2	Oxygen	CO2	white
-prolyl 4-hydroxylase	1.14.11.2	Oxygen	Hydroxyproline	white
-prolyl 4-hydroxylase	1.14.11.2	Oxygen	Succinate	white
-prolyl 4-hydroxylase	1.14.11.2	Succinate	2-Oxoglutarate	white
-prolyl 4-hydroxylase	1.14.11.2	Succinate	L-Proline	white
-prolyl 4-hydroxylase	1.14.11.2	Succinate	Oxygen	white
-putrescine aminotransferase	2.6.1.82	2-Oxoglutarate	4-Aminobutyraldehyde	white
-putrescine aminotransferase	2.6.1.82	2-Oxoglutarate	L-Glutamate	white
-putrescine aminotransferase	2.6.1.82	4-Aminobutyraldehyde	2-Oxoglutarate	white
-putrescine aminotransferase	2.6.1.82	4-Aminobutyraldehyde	Putrescine	white
-putrescine aminotransferase	2.6.1.82	L-Glutamate	2-Oxoglutarate	white
-putrescine aminotransferase	2.6.1.82	L-Glutamate	Putrescine	white
-putrescine aminotransferase	2.6.1.82	Putrescine	4-Aminobutyraldehyde	white
-putrescine aminotransferase	2.6.1.82	Putrescine	L-Glutamate	white
-putrescine oxidase	1.4.3.10	4-Aminobutyraldehyde	H2O	green
-putrescine oxidase	1.4.3.10	4-Aminobutyraldehyde	Oxygen	green
-putrescine oxidase	1.4.3.10	4-Aminobutyraldehyde	Putrescine	green
-putrescine oxidase	1.4.3.10	Ammonia	H2O	green
-putrescine oxidase	1.4.3.10	Ammonia	Oxygen	green
-putrescine oxidase	1.4.3.10	Ammonia	Putrescine	green
-putrescine oxidase	1.4.3.10	H2O	4-Aminobutyraldehyde	green
-putrescine oxidase	1.4.3.10	H2O	Ammonia	green
-putrescine oxidase	1.4.3.10	H2O	Hydrogen peroxide	green
-putrescine oxidase	1.4.3.10	Hydrogen peroxide	H2O	green
-putrescine oxidase	1.4.3.10	Hydrogen peroxide	Oxygen	green
-putrescine oxidase	1.4.3.10	Hydrogen peroxide	Putrescine	green
-putrescine oxidase	1.4.3.10	Oxygen	4-Aminobutyraldehyde	green
-putrescine oxidase	1.4.3.10	Oxygen	Ammonia	green
-putrescine oxidase	1.4.3.10	Oxygen	Hydrogen peroxide	green
-putrescine oxidase	1.4.3.10	Putrescine	4-Aminobutyraldehyde	green
-putrescine oxidase	1.4.3.10	Putrescine	Ammonia	green
-putrescine oxidase	1.4.3.10	Putrescine	Hydrogen peroxide	green
-putrescine---pyruvate transaminase	2.6.1.113	Putrescine	4-Aminobutyraldehyde	green
-putrescine---pyruvate transaminase	2.6.1.113	Putrescine	L-Alanine	green
-putrescine---pyruvate transaminase	2.6.1.113	Pyruvate	4-Aminobutyraldehyde	green
-putrescine---pyruvate transaminase	2.6.1.113	Pyruvate	L-Alanine	green
-pyrroline-5-carboxylate reductase	1.5.1.2	Hydroxyproline	H+	green
-pyrroline-5-carboxylate reductase	1.5.1.2	Hydroxyproline	L-1-Pyrroline-3-hydroxy-5-carboxylate	green
-pyrroline-5-carboxylate reductase	1.5.1.2	Hydroxyproline	NADH	green
-pyrroline-5-carboxylate reductase	1.5.1.2	Hydroxyproline	NADPH	green
-pyrroline-5-carboxylate reductase	1.5.1.2	L-Proline	(S)-1-Pyrroline-5-carboxylate	green
-pyrroline-5-carboxylate reductase	1.5.1.2	L-Proline	H+	green
-pyrroline-5-carboxylate reductase	1.5.1.2	L-Proline	NADH	green
-pyrroline-5-carboxylate reductase	1.5.1.2	L-Proline	NADPH	green
-pyrroline-5-carboxylate reductase	1.5.1.2	NAD+	(S)-1-Pyrroline-5-carboxylate	green
-pyrroline-5-carboxylate reductase	1.5.1.2	NAD+	H+	green
-pyrroline-5-carboxylate reductase	1.5.1.2	NAD+	L-1-Pyrroline-3-hydroxy-5-carboxylate	green
-pyrroline-5-carboxylate reductase	1.5.1.2	NAD+	NADH	green
-pyrroline-5-carboxylate reductase	1.5.1.2	NADP+	(S)-1-Pyrroline-5-carboxylate	green
-pyrroline-5-carboxylate reductase	1.5.1.2	NADP+	H+	green
-pyrroline-5-carboxylate reductase	1.5.1.2	NADP+	L-1-Pyrroline-3-hydroxy-5-carboxylate	green
-pyrroline-5-carboxylate reductase	1.5.1.2	NADP+	NADPH	green
-roa:Pd630_LPD06190		H2O	Ammonia	green
-roa:Pd630_LPD06190		H2O	Hydrogen peroxide	green
-roa:Pd630_LPD06190		H2O	N4-Acetylaminobutanal	green
-roa:Pd630_LPD06190		N-Acetylputrescine	Ammonia	green
-roa:Pd630_LPD06190		N-Acetylputrescine	Hydrogen peroxide	green
-roa:Pd630_LPD06190		N-Acetylputrescine	N4-Acetylaminobutanal	green
-roa:Pd630_LPD06190		Oxygen	Ammonia	green
-roa:Pd630_LPD06190		Oxygen	Hydrogen peroxide	green
-roa:Pd630_LPD06190		Oxygen	N4-Acetylaminobutanal	green
-spermidine dehydrogenase	1.5.99.6	1,3-Diaminopropane	H2O	white
-spermidine dehydrogenase	1.5.99.6	1,3-Diaminopropane	Oxygen	white
-spermidine dehydrogenase	1.5.99.6	1,3-Diaminopropane	Spermidine	white
-spermidine dehydrogenase	1.5.99.6	4-Aminobutyraldehyde	H2O	white
-spermidine dehydrogenase	1.5.99.6	4-Aminobutyraldehyde	Oxygen	white
-spermidine dehydrogenase	1.5.99.6	4-Aminobutyraldehyde	Spermidine	white
-spermidine dehydrogenase	1.5.99.6	H2O	1,3-Diaminopropane	white
-spermidine dehydrogenase	1.5.99.6	H2O	4-Aminobutyraldehyde	white
-spermidine dehydrogenase	1.5.99.6	H2O	Hydrogen peroxide	white
-spermidine dehydrogenase	1.5.99.6	Hydrogen peroxide	H2O	white
-spermidine dehydrogenase	1.5.99.6	Hydrogen peroxide	Oxygen	white
-spermidine dehydrogenase	1.5.99.6	Hydrogen peroxide	Spermidine	white
-spermidine dehydrogenase	1.5.99.6	Oxygen	1,3-Diaminopropane	white
-spermidine dehydrogenase	1.5.99.6	Oxygen	4-Aminobutyraldehyde	white
-spermidine dehydrogenase	1.5.99.6	Oxygen	Hydrogen peroxide	white
-spermidine dehydrogenase	1.5.99.6	Spermidine	1,3-Diaminopropane	white
-spermidine dehydrogenase	1.5.99.6	Spermidine	4-Aminobutyraldehyde	white
-spermidine dehydrogenase	1.5.99.6	Spermidine	Hydrogen peroxide	white
-spermidine synthase	2.5.1.16	Putrescine	5'-Methylthioadenosine	green
-spermidine synthase	2.5.1.16	Putrescine	Spermidine	green
-spermidine synthase	2.5.1.16	S-Adenosylmethioninamine	5'-Methylthioadenosine	green
-spermidine synthase	2.5.1.16	S-Adenosylmethioninamine	Spermidine	green
-spermine oxidase	1.5.3.16	3-Aminopropanal	H2O	white
-spermine oxidase	1.5.3.16	3-Aminopropanal	Oxygen	white
-spermine oxidase	1.5.3.16	3-Aminopropanal	Spermine	white
-spermine oxidase	1.5.3.16	H2O	3-Aminopropanal	white
-spermine oxidase	1.5.3.16	H2O	Hydrogen peroxide	white
-spermine oxidase	1.5.3.16	H2O	Spermidine	white
-spermine oxidase	1.5.3.16	Hydrogen peroxide	H2O	white
-spermine oxidase	1.5.3.16	Hydrogen peroxide	Oxygen	white
-spermine oxidase	1.5.3.16	Hydrogen peroxide	Spermine	white
-spermine oxidase	1.5.3.16	Oxygen	3-Aminopropanal	white
-spermine oxidase	1.5.3.16	Oxygen	Hydrogen peroxide	white
-spermine oxidase	1.5.3.16	Oxygen	Spermidine	white
-spermine oxidase	1.5.3.16	Spermidine	H2O	white
-spermine oxidase	1.5.3.16	Spermidine	Oxygen	white
-spermine oxidase	1.5.3.16	Spermidine	Spermine	white
-spermine oxidase	1.5.3.16	Spermine	3-Aminopropanal	white
-spermine oxidase	1.5.3.16	Spermine	Hydrogen peroxide	white
-spermine oxidase	1.5.3.16	Spermine	Spermidine	white
-spermine synthase	2.5.1.22	5'-Methylthioadenosine	S-Adenosylmethioninamine	white
-spermine synthase	2.5.1.22	5'-Methylthioadenosine	Spermidine	white
-spermine synthase	2.5.1.22	S-Adenosylmethioninamine	5'-Methylthioadenosine	white
-spermine synthase	2.5.1.22	S-Adenosylmethioninamine	Spermine	white
-spermine synthase	2.5.1.22	Spermidine	5'-Methylthioadenosine	white
-spermine synthase	2.5.1.22	Spermidine	Spermine	white
-spermine synthase	2.5.1.22	Spermine	S-Adenosylmethioninamine	white
-spermine synthase	2.5.1.22	Spermine	Spermidine	white
-succinylarginine dihydrolase	3.5.3.23	Ammonia	H2O	white
-succinylarginine dihydrolase	3.5.3.23	Ammonia	N2-Succinyl-L-arginine	white
-succinylarginine dihydrolase	3.5.3.23	CO2	H2O	white
-succinylarginine dihydrolase	3.5.3.23	CO2	N2-Succinyl-L-arginine	white
-succinylarginine dihydrolase	3.5.3.23	H2O	Ammonia	white
-succinylarginine dihydrolase	3.5.3.23	H2O	CO2	white
-succinylarginine dihydrolase	3.5.3.23	H2O	N2-Succinyl-L-ornithine	white
-succinylarginine dihydrolase	3.5.3.23	N2-Succinyl-L-arginine	Ammonia	white
-succinylarginine dihydrolase	3.5.3.23	N2-Succinyl-L-arginine	CO2	white
-succinylarginine dihydrolase	3.5.3.23	N2-Succinyl-L-arginine	N2-Succinyl-L-ornithine	white
-succinylarginine dihydrolase	3.5.3.23	N2-Succinyl-L-ornithine	H2O	white
-succinylarginine dihydrolase	3.5.3.23	N2-Succinyl-L-ornithine	N2-Succinyl-L-arginine	white
-succinylglutamate desuccinylase	3.5.1.96	H2O	L-Glutamate	white
-succinylglutamate desuccinylase	3.5.1.96	H2O	Succinate	white
-succinylglutamate desuccinylase	3.5.1.96	L-Glutamate	H2O	white
-succinylglutamate desuccinylase	3.5.1.96	L-Glutamate	N-Succinyl-L-glutamate	white
-succinylglutamate desuccinylase	3.5.1.96	N-Succinyl-L-glutamate	L-Glutamate	white
-succinylglutamate desuccinylase	3.5.1.96	N-Succinyl-L-glutamate	Succinate	white
-succinylglutamate desuccinylase	3.5.1.96	Succinate	H2O	white
-succinylglutamate desuccinylase	3.5.1.96	Succinate	N-Succinyl-L-glutamate	white
-succinylglutamic semialdehyde dehydrogenase	1.2.1.71	H+	H2O	white
-succinylglutamic semialdehyde dehydrogenase	1.2.1.71	H+	N-Succinyl-L-glutamate 5-semialdehyde	white
-succinylglutamic semialdehyde dehydrogenase	1.2.1.71	H+	NAD+	white
-succinylglutamic semialdehyde dehydrogenase	1.2.1.71	H2O	H+	white
-succinylglutamic semialdehyde dehydrogenase	1.2.1.71	H2O	N-Succinyl-L-glutamate	white
-succinylglutamic semialdehyde dehydrogenase	1.2.1.71	H2O	NADH	white
-succinylglutamic semialdehyde dehydrogenase	1.2.1.71	N-Succinyl-L-glutamate	H2O	white
-succinylglutamic semialdehyde dehydrogenase	1.2.1.71	N-Succinyl-L-glutamate	N-Succinyl-L-glutamate 5-semialdehyde	white
-succinylglutamic semialdehyde dehydrogenase	1.2.1.71	N-Succinyl-L-glutamate	NAD+	white
-succinylglutamic semialdehyde dehydrogenase	1.2.1.71	N-Succinyl-L-glutamate 5-semialdehyde	H+	white
-succinylglutamic semialdehyde dehydrogenase	1.2.1.71	N-Succinyl-L-glutamate 5-semialdehyde	N-Succinyl-L-glutamate	white
-succinylglutamic semialdehyde dehydrogenase	1.2.1.71	N-Succinyl-L-glutamate 5-semialdehyde	NADH	white
-succinylglutamic semialdehyde dehydrogenase	1.2.1.71	NAD+	H+	white
-succinylglutamic semialdehyde dehydrogenase	1.2.1.71	NAD+	N-Succinyl-L-glutamate	white
-succinylglutamic semialdehyde dehydrogenase	1.2.1.71	NAD+	NADH	white
-succinylglutamic semialdehyde dehydrogenase	1.2.1.71	NADH	H2O	white
-succinylglutamic semialdehyde dehydrogenase	1.2.1.71	NADH	N-Succinyl-L-glutamate 5-semialdehyde	white
-succinylglutamic semialdehyde dehydrogenase	1.2.1.71	NADH	NAD+	white
-succinylornithine aminotransferase	2.6.1.81	2-Oxoglutarate	L-Glutamate	white
-succinylornithine aminotransferase	2.6.1.81	2-Oxoglutarate	N-Succinyl-L-glutamate 5-semialdehyde	white
-succinylornithine aminotransferase	2.6.1.81	L-Glutamate	2-Oxoglutarate	white
-succinylornithine aminotransferase	2.6.1.81	L-Glutamate	N2-Succinyl-L-ornithine	white
-succinylornithine aminotransferase	2.6.1.81	N-Succinyl-L-glutamate 5-semialdehyde	2-Oxoglutarate	white
-succinylornithine aminotransferase	2.6.1.81	N-Succinyl-L-glutamate 5-semialdehyde	N2-Succinyl-L-ornithine	white
-succinylornithine aminotransferase	2.6.1.81	N2-Succinyl-L-ornithine	L-Glutamate	white
-succinylornithine aminotransferase	2.6.1.81	N2-Succinyl-L-ornithine	N-Succinyl-L-glutamate 5-semialdehyde	white
-trans-4-hydroxy-L-proline dehydratase	4.2.1.172	(S)-1-Pyrroline-5-carboxylate	Hydroxyproline	white
-trans-4-hydroxy-L-proline dehydratase	4.2.1.172	H2O	Hydroxyproline	white
-trans-4-hydroxy-L-proline dehydratase	4.2.1.172	Hydroxyproline	(S)-1-Pyrroline-5-carboxylate	white
-trans-4-hydroxy-L-proline dehydratase	4.2.1.172	Hydroxyproline	H2O	white
-trans-L-3-hydroxyproline dehydratase	4.2.1.77	1-Pyrroline-2-carboxylate	trans-3-Hydroxy-L-proline	white
-trans-L-3-hydroxyproline dehydratase	4.2.1.77	H2O	trans-3-Hydroxy-L-proline	white
-trans-L-3-hydroxyproline dehydratase	4.2.1.77	trans-3-Hydroxy-L-proline	1-Pyrroline-2-carboxylate	white
-trans-L-3-hydroxyproline dehydratase	4.2.1.77	trans-3-Hydroxy-L-proline	H2O	white
+enzyme_name	EC	source	target	reaction	color
+1-piperideine-2-carboxylate/1-pyrroline-2-carboxylate reductase [NAD(P)H]	1.5.1.1	1-Pyrroline-2-carboxylate	L-Proline	R01246	white
+1-piperideine-2-carboxylate/1-pyrroline-2-carboxylate reductase [NAD(P)H]	1.5.1.1	1-Pyrroline-2-carboxylate	NAD+	R01246	white
+1-piperideine-2-carboxylate/1-pyrroline-2-carboxylate reductase [NAD(P)H]	1.5.1.1	H+	L-Proline	R01246	white
+1-piperideine-2-carboxylate/1-pyrroline-2-carboxylate reductase [NAD(P)H]	1.5.1.1	H+	NAD+	R01246	white
+1-piperideine-2-carboxylate/1-pyrroline-2-carboxylate reductase [NAD(P)H]	1.5.1.1	L-Proline	1-Pyrroline-2-carboxylate	R01246	white
+1-piperideine-2-carboxylate/1-pyrroline-2-carboxylate reductase [NAD(P)H]	1.5.1.1	L-Proline	H+	R01246	white
+1-piperideine-2-carboxylate/1-pyrroline-2-carboxylate reductase [NAD(P)H]	1.5.1.1	L-Proline	NADH	R01246	white
+1-piperideine-2-carboxylate/1-pyrroline-2-carboxylate reductase [NAD(P)H]	1.5.1.1	NAD+	1-Pyrroline-2-carboxylate	R01246	white
+1-piperideine-2-carboxylate/1-pyrroline-2-carboxylate reductase [NAD(P)H]	1.5.1.1	NAD+	H+	R01246	white
+1-piperideine-2-carboxylate/1-pyrroline-2-carboxylate reductase [NAD(P)H]	1.5.1.1	NAD+	NADH	R01246	white
+1-piperideine-2-carboxylate/1-pyrroline-2-carboxylate reductase [NAD(P)H]	1.5.1.1	NADH	L-Proline	R01246	white
+1-piperideine-2-carboxylate/1-pyrroline-2-carboxylate reductase [NAD(P)H]	1.5.1.1	NADH	NAD+	R01246	white
+1-pyrroline-2-carboxylate reductase [NAD(P)H]	1.5.1.49	1-Pyrroline-2-carboxylate	L-Proline	R01246	white
+1-pyrroline-2-carboxylate reductase [NAD(P)H]	1.5.1.49	1-Pyrroline-2-carboxylate	NAD+	R01246	white
+1-pyrroline-2-carboxylate reductase [NAD(P)H]	1.5.1.49	H+	L-Proline	R01246	white
+1-pyrroline-2-carboxylate reductase [NAD(P)H]	1.5.1.49	H+	NAD+	R01246	white
+1-pyrroline-2-carboxylate reductase [NAD(P)H]	1.5.1.49	L-Proline	1-Pyrroline-2-carboxylate	R01246	white
+1-pyrroline-2-carboxylate reductase [NAD(P)H]	1.5.1.49	L-Proline	H+	R01246	white
+1-pyrroline-2-carboxylate reductase [NAD(P)H]	1.5.1.49	L-Proline	NADH	R01246	white
+1-pyrroline-2-carboxylate reductase [NAD(P)H]	1.5.1.49	NAD+	1-Pyrroline-2-carboxylate	R01246	white
+1-pyrroline-2-carboxylate reductase [NAD(P)H]	1.5.1.49	NAD+	H+	R01246	white
+1-pyrroline-2-carboxylate reductase [NAD(P)H]	1.5.1.49	NAD+	NADH	R01246	white
+1-pyrroline-2-carboxylate reductase [NAD(P)H]	1.5.1.49	NADH	L-Proline	R01246	white
+1-pyrroline-2-carboxylate reductase [NAD(P)H]	1.5.1.49	NADH	NAD+	R01246	white
+1-pyrroline-5-carboxylate dehydrogenase	1.2.1.88	H+	H2O	R05051	green
+1-pyrroline-5-carboxylate dehydrogenase	1.2.1.88	H+	L-4-Hydroxyglutamate semialdehyde	R05051	green
+1-pyrroline-5-carboxylate dehydrogenase	1.2.1.88	H+	NAD+	R05051	green
+1-pyrroline-5-carboxylate dehydrogenase	1.2.1.88	H2O	H+	R00245	green
+1-pyrroline-5-carboxylate dehydrogenase	1.2.1.88	H2O	H+	R04444	green
+1-pyrroline-5-carboxylate dehydrogenase	1.2.1.88	H2O	H+	R04445	green
+1-pyrroline-5-carboxylate dehydrogenase	1.2.1.88	H2O	H+	R13148	green
+1-pyrroline-5-carboxylate dehydrogenase	1.2.1.88	H2O	L-Glutamate	R00245	green
+1-pyrroline-5-carboxylate dehydrogenase	1.2.1.88	H2O	L-Glutamate	R13148	green
+1-pyrroline-5-carboxylate dehydrogenase	1.2.1.88	H2O	L-erythro-4-Hydroxyglutamate	R04444	green
+1-pyrroline-5-carboxylate dehydrogenase	1.2.1.88	H2O	L-erythro-4-Hydroxyglutamate	R04445	green
+1-pyrroline-5-carboxylate dehydrogenase	1.2.1.88	H2O	NADH	R00245	green
+1-pyrroline-5-carboxylate dehydrogenase	1.2.1.88	H2O	NADH	R04444	green
+1-pyrroline-5-carboxylate dehydrogenase	1.2.1.88	H2O	NADPH	R04445	green
+1-pyrroline-5-carboxylate dehydrogenase	1.2.1.88	H2O	NADPH	R13148	green
+1-pyrroline-5-carboxylate dehydrogenase	1.2.1.88	L-1-Pyrroline-3-hydroxy-5-carboxylate	H+	R04444	green
+1-pyrroline-5-carboxylate dehydrogenase	1.2.1.88	L-1-Pyrroline-3-hydroxy-5-carboxylate	H+	R04445	green
+1-pyrroline-5-carboxylate dehydrogenase	1.2.1.88	L-1-Pyrroline-3-hydroxy-5-carboxylate	L-erythro-4-Hydroxyglutamate	R04444	green
+1-pyrroline-5-carboxylate dehydrogenase	1.2.1.88	L-1-Pyrroline-3-hydroxy-5-carboxylate	L-erythro-4-Hydroxyglutamate	R04445	green
+1-pyrroline-5-carboxylate dehydrogenase	1.2.1.88	L-1-Pyrroline-3-hydroxy-5-carboxylate	NADH	R04444	green
+1-pyrroline-5-carboxylate dehydrogenase	1.2.1.88	L-1-Pyrroline-3-hydroxy-5-carboxylate	NADPH	R04445	green
+1-pyrroline-5-carboxylate dehydrogenase	1.2.1.88	L-Glutamate 5-semialdehyde	H+	R00245	green
+1-pyrroline-5-carboxylate dehydrogenase	1.2.1.88	L-Glutamate 5-semialdehyde	H+	R13148	green
+1-pyrroline-5-carboxylate dehydrogenase	1.2.1.88	L-Glutamate 5-semialdehyde	L-Glutamate	R00245	green
+1-pyrroline-5-carboxylate dehydrogenase	1.2.1.88	L-Glutamate 5-semialdehyde	L-Glutamate	R13148	green
+1-pyrroline-5-carboxylate dehydrogenase	1.2.1.88	L-Glutamate 5-semialdehyde	NADH	R00245	green
+1-pyrroline-5-carboxylate dehydrogenase	1.2.1.88	L-Glutamate 5-semialdehyde	NADPH	R13148	green
+1-pyrroline-5-carboxylate dehydrogenase	1.2.1.88	L-erythro-4-Hydroxyglutamate	H2O	R05051	green
+1-pyrroline-5-carboxylate dehydrogenase	1.2.1.88	L-erythro-4-Hydroxyglutamate	L-4-Hydroxyglutamate semialdehyde	R05051	green
+1-pyrroline-5-carboxylate dehydrogenase	1.2.1.88	L-erythro-4-Hydroxyglutamate	NAD+	R05051	green
+1-pyrroline-5-carboxylate dehydrogenase	1.2.1.88	NAD+	H+	R00245	green
+1-pyrroline-5-carboxylate dehydrogenase	1.2.1.88	NAD+	H+	R04444	green
+1-pyrroline-5-carboxylate dehydrogenase	1.2.1.88	NAD+	L-Glutamate	R00245	green
+1-pyrroline-5-carboxylate dehydrogenase	1.2.1.88	NAD+	L-erythro-4-Hydroxyglutamate	R04444	green
+1-pyrroline-5-carboxylate dehydrogenase	1.2.1.88	NAD+	NADH	R00245	green
+1-pyrroline-5-carboxylate dehydrogenase	1.2.1.88	NAD+	NADH	R04444	green
+1-pyrroline-5-carboxylate dehydrogenase	1.2.1.88	NADH	H2O	R05051	green
+1-pyrroline-5-carboxylate dehydrogenase	1.2.1.88	NADH	L-4-Hydroxyglutamate semialdehyde	R05051	green
+1-pyrroline-5-carboxylate dehydrogenase	1.2.1.88	NADH	NAD+	R05051	green
+1-pyrroline-5-carboxylate dehydrogenase	1.2.1.88	NADP+	H+	R04445	green
+1-pyrroline-5-carboxylate dehydrogenase	1.2.1.88	NADP+	H+	R13148	green
+1-pyrroline-5-carboxylate dehydrogenase	1.2.1.88	NADP+	L-Glutamate	R13148	green
+1-pyrroline-5-carboxylate dehydrogenase	1.2.1.88	NADP+	L-erythro-4-Hydroxyglutamate	R04445	green
+1-pyrroline-5-carboxylate dehydrogenase	1.2.1.88	NADP+	NADPH	R04445	green
+1-pyrroline-5-carboxylate dehydrogenase	1.2.1.88	NADP+	NADPH	R13148	green
+2,4-diaminopentanoate dehydrogenase	1.4.1.12	5-Aminopentanoate	D-Proline	R02825	white
+2,4-diaminopentanoate dehydrogenase	1.4.1.12	D-Proline	5-Aminopentanoate	R02825	white
+4-(gamma-glutamylamino)butanal dehydrogenase	1.2.1.99	H2O	4-(L-gamma-Glutamylamino)butanoate	R07417	green
+4-(gamma-glutamylamino)butanal dehydrogenase	1.2.1.99	H2O	4-(L-gamma-Glutamylamino)butanoate	R07418	green
+4-(gamma-glutamylamino)butanal dehydrogenase	1.2.1.99	H2O	H+	R07417	green
+4-(gamma-glutamylamino)butanal dehydrogenase	1.2.1.99	H2O	H+	R07418	green
+4-(gamma-glutamylamino)butanal dehydrogenase	1.2.1.99	H2O	NADH	R07417	green
+4-(gamma-glutamylamino)butanal dehydrogenase	1.2.1.99	H2O	NADPH	R07418	green
+4-(gamma-glutamylamino)butanal dehydrogenase	1.2.1.99	NAD+	4-(L-gamma-Glutamylamino)butanoate	R07417	green
+4-(gamma-glutamylamino)butanal dehydrogenase	1.2.1.99	NAD+	H+	R07417	green
+4-(gamma-glutamylamino)butanal dehydrogenase	1.2.1.99	NAD+	NADH	R07417	green
+4-(gamma-glutamylamino)butanal dehydrogenase	1.2.1.99	NADP+	4-(L-gamma-Glutamylamino)butanoate	R07418	green
+4-(gamma-glutamylamino)butanal dehydrogenase	1.2.1.99	NADP+	H+	R07418	green
+4-(gamma-glutamylamino)butanal dehydrogenase	1.2.1.99	NADP+	NADPH	R07418	green
+4-(gamma-glutamylamino)butanal dehydrogenase	1.2.1.99	gamma-Glutamyl-gamma-aminobutyraldehyde	4-(L-gamma-Glutamylamino)butanoate	R07417	green
+4-(gamma-glutamylamino)butanal dehydrogenase	1.2.1.99	gamma-Glutamyl-gamma-aminobutyraldehyde	4-(L-gamma-Glutamylamino)butanoate	R07418	green
+4-(gamma-glutamylamino)butanal dehydrogenase	1.2.1.99	gamma-Glutamyl-gamma-aminobutyraldehyde	H+	R07417	green
+4-(gamma-glutamylamino)butanal dehydrogenase	1.2.1.99	gamma-Glutamyl-gamma-aminobutyraldehyde	H+	R07418	green
+4-(gamma-glutamylamino)butanal dehydrogenase	1.2.1.99	gamma-Glutamyl-gamma-aminobutyraldehyde	NADH	R07417	green
+4-(gamma-glutamylamino)butanal dehydrogenase	1.2.1.99	gamma-Glutamyl-gamma-aminobutyraldehyde	NADPH	R07418	green
+4-guanidinobutyraldehyde dehydrogenase / NAD-dependent aldehyde dehydrogenase	1.2.1.54	4-Aminobutanoate	4-Aminobutyraldehyde	R02549	white
+4-guanidinobutyraldehyde dehydrogenase / NAD-dependent aldehyde dehydrogenase	1.2.1.54	4-Aminobutanoate	H2O	R02549	white
+4-guanidinobutyraldehyde dehydrogenase / NAD-dependent aldehyde dehydrogenase	1.2.1.54	4-Aminobutanoate	NAD+	R02549	white
+4-guanidinobutyraldehyde dehydrogenase / NAD-dependent aldehyde dehydrogenase	1.2.1.54	4-Aminobutyraldehyde	4-Aminobutanoate	R02549	white
+4-guanidinobutyraldehyde dehydrogenase / NAD-dependent aldehyde dehydrogenase	1.2.1.54	4-Aminobutyraldehyde	H+	R02549	white
+4-guanidinobutyraldehyde dehydrogenase / NAD-dependent aldehyde dehydrogenase	1.2.1.54	4-Aminobutyraldehyde	NADH	R02549	white
+4-guanidinobutyraldehyde dehydrogenase / NAD-dependent aldehyde dehydrogenase	1.2.1.54	H+	4-Aminobutyraldehyde	R02549	white
+4-guanidinobutyraldehyde dehydrogenase / NAD-dependent aldehyde dehydrogenase	1.2.1.54	H+	H2O	R02549	white
+4-guanidinobutyraldehyde dehydrogenase / NAD-dependent aldehyde dehydrogenase	1.2.1.54	H+	NAD+	R02549	white
+4-guanidinobutyraldehyde dehydrogenase / NAD-dependent aldehyde dehydrogenase	1.2.1.54	H2O	4-Aminobutanoate	R02549	white
+4-guanidinobutyraldehyde dehydrogenase / NAD-dependent aldehyde dehydrogenase	1.2.1.54	H2O	H+	R02549	white
+4-guanidinobutyraldehyde dehydrogenase / NAD-dependent aldehyde dehydrogenase	1.2.1.54	H2O	NADH	R02549	white
+4-guanidinobutyraldehyde dehydrogenase / NAD-dependent aldehyde dehydrogenase	1.2.1.54	NAD+	4-Aminobutanoate	R02549	white
+4-guanidinobutyraldehyde dehydrogenase / NAD-dependent aldehyde dehydrogenase	1.2.1.54	NAD+	H+	R02549	white
+4-guanidinobutyraldehyde dehydrogenase / NAD-dependent aldehyde dehydrogenase	1.2.1.54	NAD+	NADH	R02549	white
+4-guanidinobutyraldehyde dehydrogenase / NAD-dependent aldehyde dehydrogenase	1.2.1.54	NADH	4-Aminobutyraldehyde	R02549	white
+4-guanidinobutyraldehyde dehydrogenase / NAD-dependent aldehyde dehydrogenase	1.2.1.54	NADH	H2O	R02549	white
+4-guanidinobutyraldehyde dehydrogenase / NAD-dependent aldehyde dehydrogenase	1.2.1.54	NADH	NAD+	R02549	white
+4-hydroxy-2-oxoglutarate aldolase	4.1.3.16	4-Hydroxy-2-oxoglutarate	Glyoxylate	R00470	white
+4-hydroxy-2-oxoglutarate aldolase	4.1.3.16	4-Hydroxy-2-oxoglutarate	Pyruvate	R00470	white
+4-hydroxy-2-oxoglutarate aldolase	4.1.3.16	Glyoxylate	4-Hydroxy-2-oxoglutarate	R00470	white
+4-hydroxy-2-oxoglutarate aldolase	4.1.3.16	Pyruvate	4-Hydroxy-2-oxoglutarate	R00470	white
+5-guanidino-2-oxopentanoate decarboxylase	4.1.1.75	4-Guanidinobutanal	5-Guanidino-2-oxopentanoate	R03178	white
+5-guanidino-2-oxopentanoate decarboxylase	4.1.1.75	5-Guanidino-2-oxopentanoate	4-Guanidinobutanal	R03178	white
+5-guanidino-2-oxopentanoate decarboxylase	4.1.1.75	5-Guanidino-2-oxopentanoate	CO2	R03178	white
+5-guanidino-2-oxopentanoate decarboxylase	4.1.1.75	CO2	5-Guanidino-2-oxopentanoate	R03178	white
+D-alanine transaminase	2.6.1.21	2-Oxoglutarate	D-Glutamate	R01148	white
+D-alanine transaminase	2.6.1.21	2-Oxoglutarate	Pyruvate	R01148	white
+D-alanine transaminase	2.6.1.21	D-Alanine	D-Glutamate	R01148	white
+D-alanine transaminase	2.6.1.21	D-Alanine	Pyruvate	R01148	white
+D-alanine transaminase	2.6.1.21	D-Glutamate	2-Oxoglutarate	R01148	white
+D-alanine transaminase	2.6.1.21	D-Glutamate	D-Alanine	R01148	white
+D-alanine transaminase	2.6.1.21	Pyruvate	2-Oxoglutarate	R01148	white
+D-alanine transaminase	2.6.1.21	Pyruvate	D-Alanine	R01148	white
+D-amino-acid oxidase	1.4.3.3	Ammonia	Glycine	R00366	white
+D-amino-acid oxidase	1.4.3.3	Ammonia	H2O	R00366	white
+D-amino-acid oxidase	1.4.3.3	Ammonia	Oxygen	R00366	white
+D-amino-acid oxidase	1.4.3.3	Glycine	Ammonia	R00366	white
+D-amino-acid oxidase	1.4.3.3	Glycine	Glyoxylate	R00366	white
+D-amino-acid oxidase	1.4.3.3	Glycine	Hydrogen peroxide	R00366	white
+D-amino-acid oxidase	1.4.3.3	Glyoxylate	Glycine	R00366	white
+D-amino-acid oxidase	1.4.3.3	Glyoxylate	H2O	R00366	white
+D-amino-acid oxidase	1.4.3.3	Glyoxylate	Oxygen	R00366	white
+D-amino-acid oxidase	1.4.3.3	H2O	Ammonia	R00366	white
+D-amino-acid oxidase	1.4.3.3	H2O	Glyoxylate	R00366	white
+D-amino-acid oxidase	1.4.3.3	H2O	Hydrogen peroxide	R00366	white
+D-amino-acid oxidase	1.4.3.3	Hydrogen peroxide	Glycine	R00366	white
+D-amino-acid oxidase	1.4.3.3	Hydrogen peroxide	H2O	R00366	white
+D-amino-acid oxidase	1.4.3.3	Hydrogen peroxide	Oxygen	R00366	white
+D-amino-acid oxidase	1.4.3.3	Oxygen	Ammonia	R00366	white
+D-amino-acid oxidase	1.4.3.3	Oxygen	Glyoxylate	R00366	white
+D-amino-acid oxidase	1.4.3.3	Oxygen	Hydrogen peroxide	R00366	white
+D-nopaline dehydrogenase	1.5.1.19	2-Oxoglutarate	H2O	R00563	white
+D-nopaline dehydrogenase	1.5.1.19	2-Oxoglutarate	NADP+	R00563	white
+D-nopaline dehydrogenase	1.5.1.19	2-Oxoglutarate	Nopaline	R00563	white
+D-nopaline dehydrogenase	1.5.1.19	H+	H2O	R00563	white
+D-nopaline dehydrogenase	1.5.1.19	H+	NADP+	R00563	white
+D-nopaline dehydrogenase	1.5.1.19	H+	Nopaline	R00563	white
+D-nopaline dehydrogenase	1.5.1.19	H2O	2-Oxoglutarate	R00563	white
+D-nopaline dehydrogenase	1.5.1.19	H2O	H+	R00563	white
+D-nopaline dehydrogenase	1.5.1.19	H2O	L-Arginine	R00563	white
+D-nopaline dehydrogenase	1.5.1.19	H2O	NADPH	R00563	white
+D-nopaline dehydrogenase	1.5.1.19	L-Arginine	H2O	R00563	white
+D-nopaline dehydrogenase	1.5.1.19	L-Arginine	NADP+	R00563	white
+D-nopaline dehydrogenase	1.5.1.19	L-Arginine	Nopaline	R00563	white
+D-nopaline dehydrogenase	1.5.1.19	NADP+	2-Oxoglutarate	R00563	white
+D-nopaline dehydrogenase	1.5.1.19	NADP+	H+	R00563	white
+D-nopaline dehydrogenase	1.5.1.19	NADP+	L-Arginine	R00563	white
+D-nopaline dehydrogenase	1.5.1.19	NADP+	NADPH	R00563	white
+D-nopaline dehydrogenase	1.5.1.19	NADPH	H2O	R00563	white
+D-nopaline dehydrogenase	1.5.1.19	NADPH	NADP+	R00563	white
+D-nopaline dehydrogenase	1.5.1.19	NADPH	Nopaline	R00563	white
+D-nopaline dehydrogenase	1.5.1.19	Nopaline	2-Oxoglutarate	R00563	white
+D-nopaline dehydrogenase	1.5.1.19	Nopaline	H+	R00563	white
+D-nopaline dehydrogenase	1.5.1.19	Nopaline	L-Arginine	R00563	white
+D-nopaline dehydrogenase	1.5.1.19	Nopaline	NADPH	R00563	white
+D-octopine dehydrogenase	1.5.1.11	H+	H2O	R00562	white
+D-octopine dehydrogenase	1.5.1.11	H+	NAD+	R00562	white
+D-octopine dehydrogenase	1.5.1.11	H+	Octopine	R00562	white
+D-octopine dehydrogenase	1.5.1.11	H2O	H+	R00562	white
+D-octopine dehydrogenase	1.5.1.11	H2O	L-Arginine	R00562	white
+D-octopine dehydrogenase	1.5.1.11	H2O	NADH	R00562	white
+D-octopine dehydrogenase	1.5.1.11	H2O	Pyruvate	R00562	white
+D-octopine dehydrogenase	1.5.1.11	L-Arginine	H2O	R00562	white
+D-octopine dehydrogenase	1.5.1.11	L-Arginine	NAD+	R00562	white
+D-octopine dehydrogenase	1.5.1.11	L-Arginine	Octopine	R00562	white
+D-octopine dehydrogenase	1.5.1.11	NAD+	H+	R00562	white
+D-octopine dehydrogenase	1.5.1.11	NAD+	L-Arginine	R00562	white
+D-octopine dehydrogenase	1.5.1.11	NAD+	NADH	R00562	white
+D-octopine dehydrogenase	1.5.1.11	NAD+	Pyruvate	R00562	white
+D-octopine dehydrogenase	1.5.1.11	NADH	H2O	R00562	white
+D-octopine dehydrogenase	1.5.1.11	NADH	NAD+	R00562	white
+D-octopine dehydrogenase	1.5.1.11	NADH	Octopine	R00562	white
+D-octopine dehydrogenase	1.5.1.11	Octopine	H+	R00562	white
+D-octopine dehydrogenase	1.5.1.11	Octopine	L-Arginine	R00562	white
+D-octopine dehydrogenase	1.5.1.11	Octopine	NADH	R00562	white
+D-octopine dehydrogenase	1.5.1.11	Octopine	Pyruvate	R00562	white
+D-octopine dehydrogenase	1.5.1.11	Pyruvate	H2O	R00562	white
+D-octopine dehydrogenase	1.5.1.11	Pyruvate	NAD+	R00562	white
+D-octopine dehydrogenase	1.5.1.11	Pyruvate	Octopine	R00562	white
+D-proline dehydrogenase	1.5.99.13	1-Pyrroline-2-carboxylate	Acceptor	R09496	white
+D-proline dehydrogenase	1.5.99.13	1-Pyrroline-2-carboxylate	D-Proline	R09496	white
+D-proline dehydrogenase	1.5.99.13	Acceptor	1-Pyrroline-2-carboxylate	R09496	white
+D-proline dehydrogenase	1.5.99.13	Acceptor	Reduced acceptor	R09496	white
+D-proline dehydrogenase	1.5.99.13	D-Proline	1-Pyrroline-2-carboxylate	R09496	white
+D-proline dehydrogenase	1.5.99.13	D-Proline	Reduced acceptor	R09496	white
+D-proline dehydrogenase	1.5.99.13	Reduced acceptor	Acceptor	R09496	white
+D-proline dehydrogenase	1.5.99.13	Reduced acceptor	D-Proline	R09496	white
+D-proline reductase (dithiol) PrdA	1.21.4.1	5-Aminopentanoate	D-Proline	R02825	white
+D-proline reductase (dithiol) PrdA	1.21.4.1	D-Proline	5-Aminopentanoate	R02825	white
+D-proline reductase (dithiol) PrdB	1.21.4.1	5-Aminopentanoate	D-Proline	R02825	white
+D-proline reductase (dithiol) PrdB	1.21.4.1	D-Proline	5-Aminopentanoate	R02825	white
+L-arginine oxidase	1.4.3.25	5-Guanidino-2-oxopentanoate	H2O	R11604	white
+L-arginine oxidase	1.4.3.25	5-Guanidino-2-oxopentanoate	L-Arginine	R11604	white
+L-arginine oxidase	1.4.3.25	5-Guanidino-2-oxopentanoate	Oxygen	R11604	white
+L-arginine oxidase	1.4.3.25	Ammonia	H2O	R11604	white
+L-arginine oxidase	1.4.3.25	Ammonia	L-Arginine	R11604	white
+L-arginine oxidase	1.4.3.25	Ammonia	Oxygen	R11604	white
+L-arginine oxidase	1.4.3.25	H2O	5-Guanidino-2-oxopentanoate	R11604	white
+L-arginine oxidase	1.4.3.25	H2O	Ammonia	R11604	white
+L-arginine oxidase	1.4.3.25	H2O	Hydrogen peroxide	R11604	white
+L-arginine oxidase	1.4.3.25	Hydrogen peroxide	H2O	R11604	white
+L-arginine oxidase	1.4.3.25	Hydrogen peroxide	L-Arginine	R11604	white
+L-arginine oxidase	1.4.3.25	Hydrogen peroxide	Oxygen	R11604	white
+L-arginine oxidase	1.4.3.25	L-Arginine	5-Guanidino-2-oxopentanoate	R11604	white
+L-arginine oxidase	1.4.3.25	L-Arginine	Ammonia	R11604	white
+L-arginine oxidase	1.4.3.25	L-Arginine	Hydrogen peroxide	R11604	white
+L-arginine oxidase	1.4.3.25	Oxygen	5-Guanidino-2-oxopentanoate	R11604	white
+L-arginine oxidase	1.4.3.25	Oxygen	Ammonia	R11604	white
+L-arginine oxidase	1.4.3.25	Oxygen	Hydrogen peroxide	R11604	white
+L-glutamate-5-semialdehyde N-acetyltransferase	2.3.1.271	Acetyl-CoA	CoA	R12085	white
+L-glutamate-5-semialdehyde N-acetyltransferase	2.3.1.271	Acetyl-CoA	N-Acetyl-L-glutamate 5-semialdehyde	R12085	white
+L-glutamate-5-semialdehyde N-acetyltransferase	2.3.1.271	CoA	Acetyl-CoA	R12085	white
+L-glutamate-5-semialdehyde N-acetyltransferase	2.3.1.271	CoA	L-Glutamate 5-semialdehyde	R12085	white
+L-glutamate-5-semialdehyde N-acetyltransferase	2.3.1.271	L-Glutamate 5-semialdehyde	CoA	R12085	white
+L-glutamate-5-semialdehyde N-acetyltransferase	2.3.1.271	L-Glutamate 5-semialdehyde	N-Acetyl-L-glutamate 5-semialdehyde	R12085	white
+L-glutamate-5-semialdehyde N-acetyltransferase	2.3.1.271	N-Acetyl-L-glutamate 5-semialdehyde	Acetyl-CoA	R12085	white
+L-glutamate-5-semialdehyde N-acetyltransferase	2.3.1.271	N-Acetyl-L-glutamate 5-semialdehyde	L-Glutamate 5-semialdehyde	R12085	white
+N-carbamoylputrescine amidase	3.5.1.53	H2O	Ammonia	R01152	green
+N-carbamoylputrescine amidase	3.5.1.53	H2O	CO2	R01152	green
+N-carbamoylputrescine amidase	3.5.1.53	H2O	Putrescine	R01152	green
+N-carbamoylputrescine amidase	3.5.1.53	N-Carbamoylputrescine	Ammonia	R01152	green
+N-carbamoylputrescine amidase	3.5.1.53	N-Carbamoylputrescine	CO2	R01152	green
+N-carbamoylputrescine amidase	3.5.1.53	N-Carbamoylputrescine	Putrescine	R01152	green
+N-carbamoylsarcosine amidase	3.5.1.59	Ammonia	H2O	R01563	white
+N-carbamoylsarcosine amidase	3.5.1.59	Ammonia	N-Carbamoylsarcosine	R01563	white
+N-carbamoylsarcosine amidase	3.5.1.59	CO2	H2O	R01563	white
+N-carbamoylsarcosine amidase	3.5.1.59	CO2	N-Carbamoylsarcosine	R01563	white
+N-carbamoylsarcosine amidase	3.5.1.59	H2O	Ammonia	R01563	white
+N-carbamoylsarcosine amidase	3.5.1.59	H2O	CO2	R01563	white
+N-carbamoylsarcosine amidase	3.5.1.59	H2O	Sarcosine	R01563	white
+N-carbamoylsarcosine amidase	3.5.1.59	N-Carbamoylsarcosine	Ammonia	R01563	white
+N-carbamoylsarcosine amidase	3.5.1.59	N-Carbamoylsarcosine	CO2	R01563	white
+N-carbamoylsarcosine amidase	3.5.1.59	N-Carbamoylsarcosine	Sarcosine	R01563	white
+N-carbamoylsarcosine amidase	3.5.1.59	Sarcosine	H2O	R01563	white
+N-carbamoylsarcosine amidase	3.5.1.59	Sarcosine	N-Carbamoylsarcosine	R01563	white
+N-methylhydantoinase A	3.5.2.14	ADP	ATP	R03187	green
+N-methylhydantoinase A	3.5.2.14	ADP	H2O	R03187	green
+N-methylhydantoinase A	3.5.2.14	ADP	N-Methylhydantoin	R03187	green
+N-methylhydantoinase A	3.5.2.14	ATP	ADP	R03187	green
+N-methylhydantoinase A	3.5.2.14	ATP	N-Carbamoylsarcosine	R03187	green
+N-methylhydantoinase A	3.5.2.14	ATP	Orthophosphate	R03187	green
+N-methylhydantoinase A	3.5.2.14	H2O	ADP	R03187	green
+N-methylhydantoinase A	3.5.2.14	H2O	N-Carbamoylsarcosine	R03187	green
+N-methylhydantoinase A	3.5.2.14	H2O	Orthophosphate	R03187	green
+N-methylhydantoinase A	3.5.2.14	N-Carbamoylsarcosine	ATP	R03187	green
+N-methylhydantoinase A	3.5.2.14	N-Carbamoylsarcosine	H2O	R03187	green
+N-methylhydantoinase A	3.5.2.14	N-Carbamoylsarcosine	N-Methylhydantoin	R03187	green
+N-methylhydantoinase A	3.5.2.14	N-Methylhydantoin	ADP	R03187	green
+N-methylhydantoinase A	3.5.2.14	N-Methylhydantoin	N-Carbamoylsarcosine	R03187	green
+N-methylhydantoinase A	3.5.2.14	N-Methylhydantoin	Orthophosphate	R03187	green
+N-methylhydantoinase A	3.5.2.14	Orthophosphate	ATP	R03187	green
+N-methylhydantoinase A	3.5.2.14	Orthophosphate	H2O	R03187	green
+N-methylhydantoinase A	3.5.2.14	Orthophosphate	N-Methylhydantoin	R03187	green
+N-methylhydantoinase B	3.5.2.14	ADP	ATP	R03187	green
+N-methylhydantoinase B	3.5.2.14	ADP	H2O	R03187	green
+N-methylhydantoinase B	3.5.2.14	ADP	N-Methylhydantoin	R03187	green
+N-methylhydantoinase B	3.5.2.14	ATP	ADP	R03187	green
+N-methylhydantoinase B	3.5.2.14	ATP	N-Carbamoylsarcosine	R03187	green
+N-methylhydantoinase B	3.5.2.14	ATP	Orthophosphate	R03187	green
+N-methylhydantoinase B	3.5.2.14	H2O	ADP	R03187	green
+N-methylhydantoinase B	3.5.2.14	H2O	N-Carbamoylsarcosine	R03187	green
+N-methylhydantoinase B	3.5.2.14	H2O	Orthophosphate	R03187	green
+N-methylhydantoinase B	3.5.2.14	N-Carbamoylsarcosine	ATP	R03187	green
+N-methylhydantoinase B	3.5.2.14	N-Carbamoylsarcosine	H2O	R03187	green
+N-methylhydantoinase B	3.5.2.14	N-Carbamoylsarcosine	N-Methylhydantoin	R03187	green
+N-methylhydantoinase B	3.5.2.14	N-Methylhydantoin	ADP	R03187	green
+N-methylhydantoinase B	3.5.2.14	N-Methylhydantoin	N-Carbamoylsarcosine	R03187	green
+N-methylhydantoinase B	3.5.2.14	N-Methylhydantoin	Orthophosphate	R03187	green
+N-methylhydantoinase B	3.5.2.14	Orthophosphate	ATP	R03187	green
+N-methylhydantoinase B	3.5.2.14	Orthophosphate	H2O	R03187	green
+N-methylhydantoinase B	3.5.2.14	Orthophosphate	N-Methylhydantoin	R03187	green
+N1-aminopropylagmatine ureohydrolase	3.5.3.24	H2O	Spermidine	R10347	white
+N1-aminopropylagmatine ureohydrolase	3.5.3.24	H2O	Urea	R10347	white
+N1-aminopropylagmatine ureohydrolase	3.5.3.24	N1-(3-Aminopropyl)agmatine	Spermidine	R10347	white
+N1-aminopropylagmatine ureohydrolase	3.5.3.24	N1-(3-Aminopropyl)agmatine	Urea	R10347	white
+N1-aminopropylagmatine ureohydrolase	3.5.3.24	Spermidine	H2O	R10347	white
+N1-aminopropylagmatine ureohydrolase	3.5.3.24	Spermidine	N1-(3-Aminopropyl)agmatine	R10347	white
+N1-aminopropylagmatine ureohydrolase	3.5.3.24	Urea	H2O	R10347	white
+N1-aminopropylagmatine ureohydrolase	3.5.3.24	Urea	N1-(3-Aminopropyl)agmatine	R10347	white
+S-adenosylmethionine decarboxylase	4.1.1.50	CO2	H+	R00178	white
+S-adenosylmethionine decarboxylase	4.1.1.50	CO2	S-Adenosyl-L-methionine	R00178	white
+S-adenosylmethionine decarboxylase	4.1.1.50	H+	CO2	R00178	white
+S-adenosylmethionine decarboxylase	4.1.1.50	H+	S-Adenosylmethioninamine	R00178	white
+S-adenosylmethionine decarboxylase	4.1.1.50	S-Adenosyl-L-methionine	CO2	R00178	white
+S-adenosylmethionine decarboxylase	4.1.1.50	S-Adenosyl-L-methionine	S-Adenosylmethioninamine	R00178	white
+S-adenosylmethionine decarboxylase	4.1.1.50	S-Adenosylmethioninamine	H+	R00178	white
+S-adenosylmethionine decarboxylase	4.1.1.50	S-Adenosylmethioninamine	S-Adenosyl-L-methionine	R00178	white
+agmatinase	3.5.3.11	Agmatine	Putrescine	R01157	white
+agmatinase	3.5.3.11	Agmatine	Urea	R01157	white
+agmatinase	3.5.3.11	H2O	Putrescine	R01157	white
+agmatinase	3.5.3.11	H2O	Urea	R01157	white
+agmatinase	3.5.3.11	Putrescine	Agmatine	R01157	white
+agmatinase	3.5.3.11	Putrescine	H2O	R01157	white
+agmatinase	3.5.3.11	Urea	Agmatine	R01157	white
+agmatinase	3.5.3.11	Urea	H2O	R01157	white
+agmatine coumaroyltransferase	2.3.1.64	Agmatine	CoA	R01617	white
+agmatine coumaroyltransferase	2.3.1.64	Agmatine	p-Coumaroylagmatine	R01617	white
+agmatine coumaroyltransferase	2.3.1.64	CoA	Agmatine	R01617	white
+agmatine coumaroyltransferase	2.3.1.64	CoA	p-Coumaroyl-CoA	R01617	white
+agmatine coumaroyltransferase	2.3.1.64	p-Coumaroyl-CoA	CoA	R01617	white
+agmatine coumaroyltransferase	2.3.1.64	p-Coumaroyl-CoA	p-Coumaroylagmatine	R01617	white
+agmatine coumaroyltransferase	2.3.1.64	p-Coumaroylagmatine	Agmatine	R01617	white
+agmatine coumaroyltransferase	2.3.1.64	p-Coumaroylagmatine	p-Coumaroyl-CoA	R01617	white
+agmatine deiminase	3.5.3.12	Agmatine	Ammonia	R01416	green
+agmatine deiminase	3.5.3.12	Agmatine	N-Carbamoylputrescine	R01416	green
+agmatine deiminase	3.5.3.12	H2O	Ammonia	R01416	green
+agmatine deiminase	3.5.3.12	H2O	N-Carbamoylputrescine	R01416	green
+aldehyde dehydrogenase (NAD+)	1.2.1.3	4-Aminobutyraldehyde	4-Aminobutanoate	R01986	green
+aldehyde dehydrogenase (NAD+)	1.2.1.3	4-Aminobutyraldehyde	4-Aminobutanoate	R02549	green
+aldehyde dehydrogenase (NAD+)	1.2.1.3	4-Aminobutyraldehyde	H+	R01986	green
+aldehyde dehydrogenase (NAD+)	1.2.1.3	4-Aminobutyraldehyde	H+	R02549	green
+aldehyde dehydrogenase (NAD+)	1.2.1.3	4-Aminobutyraldehyde	NADH	R02549	green
+aldehyde dehydrogenase (NAD+)	1.2.1.3	4-Aminobutyraldehyde	NADPH	R01986	green
+aldehyde dehydrogenase (NAD+)	1.2.1.3	H2O	4-Acetamidobutanoate	R05050	green
+aldehyde dehydrogenase (NAD+)	1.2.1.3	H2O	4-Aminobutanoate	R01986	green
+aldehyde dehydrogenase (NAD+)	1.2.1.3	H2O	4-Aminobutanoate	R02549	green
+aldehyde dehydrogenase (NAD+)	1.2.1.3	H2O	H+	R01986	green
+aldehyde dehydrogenase (NAD+)	1.2.1.3	H2O	H+	R02549	green
+aldehyde dehydrogenase (NAD+)	1.2.1.3	H2O	H+	R05050	green
+aldehyde dehydrogenase (NAD+)	1.2.1.3	H2O	NADH	R02549	green
+aldehyde dehydrogenase (NAD+)	1.2.1.3	H2O	NADH	R05050	green
+aldehyde dehydrogenase (NAD+)	1.2.1.3	H2O	NADPH	R01986	green
+aldehyde dehydrogenase (NAD+)	1.2.1.3	N4-Acetylaminobutanal	4-Acetamidobutanoate	R05050	green
+aldehyde dehydrogenase (NAD+)	1.2.1.3	N4-Acetylaminobutanal	H+	R05050	green
+aldehyde dehydrogenase (NAD+)	1.2.1.3	N4-Acetylaminobutanal	NADH	R05050	green
+aldehyde dehydrogenase (NAD+)	1.2.1.3	NAD+	4-Acetamidobutanoate	R05050	green
+aldehyde dehydrogenase (NAD+)	1.2.1.3	NAD+	4-Aminobutanoate	R02549	green
+aldehyde dehydrogenase (NAD+)	1.2.1.3	NAD+	H+	R02549	green
+aldehyde dehydrogenase (NAD+)	1.2.1.3	NAD+	H+	R05050	green
+aldehyde dehydrogenase (NAD+)	1.2.1.3	NAD+	NADH	R02549	green
+aldehyde dehydrogenase (NAD+)	1.2.1.3	NAD+	NADH	R05050	green
+aldehyde dehydrogenase (NAD+)	1.2.1.3	NADP+	4-Aminobutanoate	R01986	green
+aldehyde dehydrogenase (NAD+)	1.2.1.3	NADP+	H+	R01986	green
+aldehyde dehydrogenase (NAD+)	1.2.1.3	NADP+	NADPH	R01986	green
+amidase	3.5.1.4	4-Guanidinobutanamide	4-Guanidinobutanoate	R03180	green
+amidase	3.5.1.4	4-Guanidinobutanamide	Ammonia	R03180	green
+amidase	3.5.1.4	H2O	4-Guanidinobutanoate	R03180	green
+amidase	3.5.1.4	H2O	Ammonia	R03180	green
+aminobutyraldehyde dehydrogenase	1.2.1.19	4-Aminobutyraldehyde	4-Aminobutanoate	R02549	green
+aminobutyraldehyde dehydrogenase	1.2.1.19	4-Aminobutyraldehyde	H+	R02549	green
+aminobutyraldehyde dehydrogenase	1.2.1.19	4-Aminobutyraldehyde	NADH	R02549	green
+aminobutyraldehyde dehydrogenase	1.2.1.19	H2O	4-Aminobutanoate	R02549	green
+aminobutyraldehyde dehydrogenase	1.2.1.19	H2O	H+	R02549	green
+aminobutyraldehyde dehydrogenase	1.2.1.19	H2O	NADH	R02549	green
+aminobutyraldehyde dehydrogenase	1.2.1.19	NAD+	4-Aminobutanoate	R02549	green
+aminobutyraldehyde dehydrogenase	1.2.1.19	NAD+	H+	R02549	green
+aminobutyraldehyde dehydrogenase	1.2.1.19	NAD+	NADH	R02549	green
+arginase	3.5.3.1	H2O	L-Ornithine	R00551	green
+arginase	3.5.3.1	H2O	Urea	R00551	green
+arginase	3.5.3.1	L-Arginine	L-Ornithine	R00551	green
+arginase	3.5.3.1	L-Arginine	Urea	R00551	green
+arginine N-succinyltransferase	2.3.1.109	CoA	L-Arginine	R00832	white
+arginine N-succinyltransferase	2.3.1.109	CoA	Succinyl-CoA	R00832	white
+arginine N-succinyltransferase	2.3.1.109	L-Arginine	CoA	R00832	white
+arginine N-succinyltransferase	2.3.1.109	L-Arginine	N2-Succinyl-L-arginine	R00832	white
+arginine N-succinyltransferase	2.3.1.109	N2-Succinyl-L-arginine	L-Arginine	R00832	white
+arginine N-succinyltransferase	2.3.1.109	N2-Succinyl-L-arginine	Succinyl-CoA	R00832	white
+arginine N-succinyltransferase	2.3.1.109	Succinyl-CoA	CoA	R00832	white
+arginine N-succinyltransferase	2.3.1.109	Succinyl-CoA	N2-Succinyl-L-arginine	R00832	white
+arginine decarboxylase	4.1.1.19	Agmatine	L-Arginine	R00566	white
+arginine decarboxylase	4.1.1.19	CO2	L-Arginine	R00566	white
+arginine decarboxylase	4.1.1.19	L-Arginine	Agmatine	R00566	white
+arginine decarboxylase	4.1.1.19	L-Arginine	CO2	R00566	white
+arginine dihydrolase	3.5.3.27	H2O	Ammonia	R13308	green
+arginine dihydrolase	3.5.3.27	H2O	CO2	R13308	green
+arginine dihydrolase	3.5.3.27	H2O	L-Ornithine	R13308	green
+arginine dihydrolase	3.5.3.27	L-Arginine	Ammonia	R13308	green
+arginine dihydrolase	3.5.3.27	L-Arginine	CO2	R13308	green
+arginine dihydrolase	3.5.3.27	L-Arginine	L-Ornithine	R13308	green
+arginine dihydrolase / ornithine cyclodeaminase	3.5.3.27	Ammonia	L-Ornithine	R00671	white
+arginine dihydrolase / ornithine cyclodeaminase	3.5.3.27	L-Ornithine	Ammonia	R00671	white
+arginine dihydrolase / ornithine cyclodeaminase	3.5.3.27	L-Ornithine	L-Proline	R00671	white
+arginine dihydrolase / ornithine cyclodeaminase	3.5.3.27	L-Proline	L-Ornithine	R00671	white
+arginine kinase	2.7.3.3	ADP	ATP	R00554	white
+arginine kinase	2.7.3.3	ADP	L-Arginine	R00554	white
+arginine kinase	2.7.3.3	ATP	ADP	R00554	white
+arginine kinase	2.7.3.3	ATP	L-Arginine phosphate	R00554	white
+arginine kinase	2.7.3.3	L-Arginine	ADP	R00554	white
+arginine kinase	2.7.3.3	L-Arginine	L-Arginine phosphate	R00554	white
+arginine kinase	2.7.3.3	L-Arginine phosphate	ATP	R00554	white
+arginine kinase	2.7.3.3	L-Arginine phosphate	L-Arginine	R00554	white
+arginine:pyruvate transaminase	2.6.1.84	5-Guanidino-2-oxopentanoate	L-Arginine	R08197	white
+arginine:pyruvate transaminase	2.6.1.84	5-Guanidino-2-oxopentanoate	Pyruvate	R08197	white
+arginine:pyruvate transaminase	2.6.1.84	L-Alanine	L-Arginine	R08197	white
+arginine:pyruvate transaminase	2.6.1.84	L-Alanine	Pyruvate	R08197	white
+arginine:pyruvate transaminase	2.6.1.84	L-Arginine	5-Guanidino-2-oxopentanoate	R08197	white
+arginine:pyruvate transaminase	2.6.1.84	L-Arginine	L-Alanine	R08197	white
+arginine:pyruvate transaminase	2.6.1.84	Pyruvate	5-Guanidino-2-oxopentanoate	R08197	white
+arginine:pyruvate transaminase	2.6.1.84	Pyruvate	L-Alanine	R08197	white
+aspartate aminotransferase	2.6.1.1	2-Oxoglutarate	(4R)-4-Hydroxy-2-oxoglutarate	R05052	green
+aspartate aminotransferase	2.6.1.1	2-Oxoglutarate	L-Glutamate	R05052	green
+aspartate aminotransferase	2.6.1.1	L-erythro-4-Hydroxyglutamate	(4R)-4-Hydroxy-2-oxoglutarate	R05052	green
+aspartate aminotransferase	2.6.1.1	L-erythro-4-Hydroxyglutamate	L-Glutamate	R05052	green
+beta-Ala-His dipeptidase	3.4.13.20	Carnosine	L-Histidine	R01166	white
+beta-Ala-His dipeptidase	3.4.13.20	Carnosine	beta-Alanine	R01166	white
+beta-Ala-His dipeptidase	3.4.13.20	H2O	L-Histidine	R01166	white
+beta-Ala-His dipeptidase	3.4.13.20	H2O	beta-Alanine	R01166	white
+beta-Ala-His dipeptidase	3.4.13.20	L-Histidine	Carnosine	R01166	white
+beta-Ala-His dipeptidase	3.4.13.20	L-Histidine	H2O	R01166	white
+beta-Ala-His dipeptidase	3.4.13.20	beta-Alanine	Carnosine	R01166	white
+beta-Ala-His dipeptidase	3.4.13.20	beta-Alanine	H2O	R01166	white
+carboxyaminopropylagmatine decarboxylase	4.1.1.127	CO2	N1-[(S)-3-amino-3-carboxypropyl]agmatine	R13284	white
+carboxyaminopropylagmatine decarboxylase	4.1.1.127	N1-(3-Aminopropyl)agmatine	N1-[(S)-3-amino-3-carboxypropyl]agmatine	R13284	white
+carboxyaminopropylagmatine decarboxylase	4.1.1.127	N1-[(S)-3-amino-3-carboxypropyl]agmatine	CO2	R13284	white
+carboxyaminopropylagmatine decarboxylase	4.1.1.127	N1-[(S)-3-amino-3-carboxypropyl]agmatine	N1-(3-Aminopropyl)agmatine	R13284	white
+carboxyaminopropylagmatine dehydrogenase	1.5.1.55	Agmatine	H2O	R13291	white
+carboxyaminopropylagmatine dehydrogenase	1.5.1.55	Agmatine	N1-[(S)-3-amino-3-carboxypropyl]agmatine	R13291	white
+carboxyaminopropylagmatine dehydrogenase	1.5.1.55	Agmatine	NADP+	R13291	white
+carboxyaminopropylagmatine dehydrogenase	1.5.1.55	H+	H2O	R13291	white
+carboxyaminopropylagmatine dehydrogenase	1.5.1.55	H+	N1-[(S)-3-amino-3-carboxypropyl]agmatine	R13291	white
+carboxyaminopropylagmatine dehydrogenase	1.5.1.55	H+	NADP+	R13291	white
+carboxyaminopropylagmatine dehydrogenase	1.5.1.55	H2O	Agmatine	R13291	white
+carboxyaminopropylagmatine dehydrogenase	1.5.1.55	H2O	H+	R13291	white
+carboxyaminopropylagmatine dehydrogenase	1.5.1.55	H2O	L-Aspartate 4-semialdehyde	R13291	white
+carboxyaminopropylagmatine dehydrogenase	1.5.1.55	H2O	NADPH	R13291	white
+carboxyaminopropylagmatine dehydrogenase	1.5.1.55	L-Aspartate 4-semialdehyde	H2O	R13291	white
+carboxyaminopropylagmatine dehydrogenase	1.5.1.55	L-Aspartate 4-semialdehyde	N1-[(S)-3-amino-3-carboxypropyl]agmatine	R13291	white
+carboxyaminopropylagmatine dehydrogenase	1.5.1.55	L-Aspartate 4-semialdehyde	NADP+	R13291	white
+carboxyaminopropylagmatine dehydrogenase	1.5.1.55	N1-[(S)-3-amino-3-carboxypropyl]agmatine	Agmatine	R13291	white
+carboxyaminopropylagmatine dehydrogenase	1.5.1.55	N1-[(S)-3-amino-3-carboxypropyl]agmatine	H+	R13291	white
+carboxyaminopropylagmatine dehydrogenase	1.5.1.55	N1-[(S)-3-amino-3-carboxypropyl]agmatine	L-Aspartate 4-semialdehyde	R13291	white
+carboxyaminopropylagmatine dehydrogenase	1.5.1.55	N1-[(S)-3-amino-3-carboxypropyl]agmatine	NADPH	R13291	white
+carboxyaminopropylagmatine dehydrogenase	1.5.1.55	NADP+	Agmatine	R13291	white
+carboxyaminopropylagmatine dehydrogenase	1.5.1.55	NADP+	H+	R13291	white
+carboxyaminopropylagmatine dehydrogenase	1.5.1.55	NADP+	L-Aspartate 4-semialdehyde	R13291	white
+carboxyaminopropylagmatine dehydrogenase	1.5.1.55	NADP+	NADPH	R13291	white
+carboxyaminopropylagmatine dehydrogenase	1.5.1.55	NADPH	H2O	R13291	white
+carboxyaminopropylagmatine dehydrogenase	1.5.1.55	NADPH	N1-[(S)-3-amino-3-carboxypropyl]agmatine	R13291	white
+carboxyaminopropylagmatine dehydrogenase	1.5.1.55	NADPH	NADP+	R13291	white
+carboxynorspermidine decarboxylase	4.1.1.96	CO2	Carboxyspermidine	R09081	white
+carboxynorspermidine decarboxylase	4.1.1.96	Carboxyspermidine	CO2	R09081	white
+carboxynorspermidine decarboxylase	4.1.1.96	Carboxyspermidine	Spermidine	R09081	white
+carboxynorspermidine decarboxylase	4.1.1.96	Spermidine	Carboxyspermidine	R09081	white
+carboxynorspermidine synthase	1.5.1.43	Carboxyspermidine	H+	R09079	white
+carboxynorspermidine synthase	1.5.1.43	Carboxyspermidine	L-Aspartate 4-semialdehyde	R09079	white
+carboxynorspermidine synthase	1.5.1.43	Carboxyspermidine	NADPH	R09079	white
+carboxynorspermidine synthase	1.5.1.43	Carboxyspermidine	Putrescine	R09079	white
+carboxynorspermidine synthase	1.5.1.43	H+	Carboxyspermidine	R09079	white
+carboxynorspermidine synthase	1.5.1.43	H+	H2O	R09079	white
+carboxynorspermidine synthase	1.5.1.43	H+	NADP+	R09079	white
+carboxynorspermidine synthase	1.5.1.43	H2O	H+	R09079	white
+carboxynorspermidine synthase	1.5.1.43	H2O	L-Aspartate 4-semialdehyde	R09079	white
+carboxynorspermidine synthase	1.5.1.43	H2O	NADPH	R09079	white
+carboxynorspermidine synthase	1.5.1.43	H2O	Putrescine	R09079	white
+carboxynorspermidine synthase	1.5.1.43	L-Aspartate 4-semialdehyde	Carboxyspermidine	R09079	white
+carboxynorspermidine synthase	1.5.1.43	L-Aspartate 4-semialdehyde	H2O	R09079	white
+carboxynorspermidine synthase	1.5.1.43	L-Aspartate 4-semialdehyde	NADP+	R09079	white
+carboxynorspermidine synthase	1.5.1.43	NADP+	H+	R09079	white
+carboxynorspermidine synthase	1.5.1.43	NADP+	L-Aspartate 4-semialdehyde	R09079	white
+carboxynorspermidine synthase	1.5.1.43	NADP+	NADPH	R09079	white
+carboxynorspermidine synthase	1.5.1.43	NADP+	Putrescine	R09079	white
+carboxynorspermidine synthase	1.5.1.43	NADPH	Carboxyspermidine	R09079	white
+carboxynorspermidine synthase	1.5.1.43	NADPH	H2O	R09079	white
+carboxynorspermidine synthase	1.5.1.43	NADPH	NADP+	R09079	white
+carboxynorspermidine synthase	1.5.1.43	Putrescine	Carboxyspermidine	R09079	white
+carboxynorspermidine synthase	1.5.1.43	Putrescine	H2O	R09079	white
+carboxynorspermidine synthase	1.5.1.43	Putrescine	NADP+	R09079	white
+carnosine synthase	6.3.2.11	ADP	ATP	R00910	white
+carnosine synthase	6.3.2.11	ADP	L-Lysine	R00910	white
+carnosine synthase	6.3.2.11	ADP	beta-Alanine	R00910	white
+carnosine synthase	6.3.2.11	ATP	ADP	R00910	white
+carnosine synthase	6.3.2.11	ATP	Orthophosphate	R00910	white
+carnosine synthase	6.3.2.11	ATP	beta-Alanyl-L-lysine	R00910	white
+carnosine synthase	6.3.2.11	L-Lysine	ADP	R00910	white
+carnosine synthase	6.3.2.11	L-Lysine	Orthophosphate	R00910	white
+carnosine synthase	6.3.2.11	L-Lysine	beta-Alanyl-L-lysine	R00910	white
+carnosine synthase	6.3.2.11	Orthophosphate	ATP	R00910	white
+carnosine synthase	6.3.2.11	Orthophosphate	L-Lysine	R00910	white
+carnosine synthase	6.3.2.11	Orthophosphate	beta-Alanine	R00910	white
+carnosine synthase	6.3.2.11	beta-Alanine	ADP	R00910	white
+carnosine synthase	6.3.2.11	beta-Alanine	Orthophosphate	R00910	white
+carnosine synthase	6.3.2.11	beta-Alanine	beta-Alanyl-L-lysine	R00910	white
+carnosine synthase	6.3.2.11	beta-Alanyl-L-lysine	ATP	R00910	white
+carnosine synthase	6.3.2.11	beta-Alanyl-L-lysine	L-Lysine	R00910	white
+carnosine synthase	6.3.2.11	beta-Alanyl-L-lysine	beta-Alanine	R00910	white
+cis-L-3-hydroxyproline dehydratase	4.2.1.171	cis-3-Hydroxy-L-proline	1-Pyrroline-2-carboxylate	R11625	green
+cis-L-3-hydroxyproline dehydratase	4.2.1.171	cis-3-Hydroxy-L-proline	H2O	R11625	green
+creatinase	3.5.3.3	Creatine	Sarcosine	R01566	green
+creatinase	3.5.3.3	Creatine	Urea	R01566	green
+creatinase	3.5.3.3	H2O	Sarcosine	R01566	green
+creatinase	3.5.3.3	H2O	Urea	R01566	green
+creatine kinase	2.7.3.2	ADP	ATP	R01881	white
+creatine kinase	2.7.3.2	ADP	Creatine	R01881	white
+creatine kinase	2.7.3.2	ATP	ADP	R01881	white
+creatine kinase	2.7.3.2	ATP	Phosphocreatine	R01881	white
+creatine kinase	2.7.3.2	Creatine	ADP	R01881	white
+creatine kinase	2.7.3.2	Creatine	Phosphocreatine	R01881	white
+creatine kinase	2.7.3.2	Phosphocreatine	ATP	R01881	white
+creatine kinase	2.7.3.2	Phosphocreatine	Creatine	R01881	white
+creatine kinase M-type	2.7.3.2	ADP	ATP	R01881	white
+creatine kinase M-type	2.7.3.2	ADP	Creatine	R01881	white
+creatine kinase M-type	2.7.3.2	ATP	ADP	R01881	white
+creatine kinase M-type	2.7.3.2	ATP	Phosphocreatine	R01881	white
+creatine kinase M-type	2.7.3.2	Creatine	ADP	R01881	white
+creatine kinase M-type	2.7.3.2	Creatine	Phosphocreatine	R01881	white
+creatine kinase M-type	2.7.3.2	Phosphocreatine	ATP	R01881	white
+creatine kinase M-type	2.7.3.2	Phosphocreatine	Creatine	R01881	white
+creatinine amidohydrolase	3.5.2.10	Creatine	Creatinine	R01884	white
+creatinine amidohydrolase	3.5.2.10	Creatine	H2O	R01884	white
+creatinine amidohydrolase	3.5.2.10	Creatinine	Creatine	R01884	white
+creatinine amidohydrolase	3.5.2.10	H2O	Creatine	R01884	white
+cytosine/creatinine deaminase	3.5.4.1	Creatinine	Ammonia	R02922	green
+cytosine/creatinine deaminase	3.5.4.1	Creatinine	N-Methylhydantoin	R02922	green
+cytosine/creatinine deaminase	3.5.4.1	H2O	Ammonia	R02922	green
+cytosine/creatinine deaminase	3.5.4.1	H2O	N-Methylhydantoin	R02922	green
+cytosolic nonspecific dipeptidase	3.4.13.18	Carnosine	L-Histidine	R01166	white
+cytosolic nonspecific dipeptidase	3.4.13.18	Carnosine	beta-Alanine	R01166	white
+cytosolic nonspecific dipeptidase	3.4.13.18	H2O	L-Histidine	R01166	white
+cytosolic nonspecific dipeptidase	3.4.13.18	H2O	beta-Alanine	R01166	white
+cytosolic nonspecific dipeptidase	3.4.13.18	L-Histidine	Carnosine	R01166	white
+cytosolic nonspecific dipeptidase	3.4.13.18	L-Histidine	H2O	R01166	white
+cytosolic nonspecific dipeptidase	3.4.13.18	beta-Alanine	Carnosine	R01166	white
+cytosolic nonspecific dipeptidase	3.4.13.18	beta-Alanine	H2O	R01166	white
+diamine N-acetyltransferase	2.3.1.57	Acetyl-CoA	CoA	R01154	white
+diamine N-acetyltransferase	2.3.1.57	Acetyl-CoA	N-Acetylputrescine	R01154	white
+diamine N-acetyltransferase	2.3.1.57	CoA	Acetyl-CoA	R01154	white
+diamine N-acetyltransferase	2.3.1.57	CoA	Putrescine	R01154	white
+diamine N-acetyltransferase	2.3.1.57	N-Acetylputrescine	Acetyl-CoA	R01154	white
+diamine N-acetyltransferase	2.3.1.57	N-Acetylputrescine	Putrescine	R01154	white
+diamine N-acetyltransferase	2.3.1.57	Putrescine	CoA	R01154	white
+diamine N-acetyltransferase	2.3.1.57	Putrescine	N-Acetylputrescine	R01154	white
+diamine oxidase	1.4.3.22	4-Aminobutyraldehyde	H2O	R01151	white
+diamine oxidase	1.4.3.22	4-Aminobutyraldehyde	Oxygen	R01151	white
+diamine oxidase	1.4.3.22	4-Aminobutyraldehyde	Putrescine	R01151	white
+diamine oxidase	1.4.3.22	Ammonia	H2O	R01151	white
+diamine oxidase	1.4.3.22	Ammonia	Oxygen	R01151	white
+diamine oxidase	1.4.3.22	Ammonia	Putrescine	R01151	white
+diamine oxidase	1.4.3.22	H2O	4-Aminobutyraldehyde	R01151	white
+diamine oxidase	1.4.3.22	H2O	Ammonia	R01151	white
+diamine oxidase	1.4.3.22	H2O	Hydrogen peroxide	R01151	white
+diamine oxidase	1.4.3.22	Hydrogen peroxide	H2O	R01151	white
+diamine oxidase	1.4.3.22	Hydrogen peroxide	Oxygen	R01151	white
+diamine oxidase	1.4.3.22	Hydrogen peroxide	Putrescine	R01151	white
+diamine oxidase	1.4.3.22	Oxygen	4-Aminobutyraldehyde	R01151	white
+diamine oxidase	1.4.3.22	Oxygen	Ammonia	R01151	white
+diamine oxidase	1.4.3.22	Oxygen	Hydrogen peroxide	R01151	white
+diamine oxidase	1.4.3.22	Putrescine	4-Aminobutyraldehyde	R01151	white
+diamine oxidase	1.4.3.22	Putrescine	Ammonia	R01151	white
+diamine oxidase	1.4.3.22	Putrescine	Hydrogen peroxide	R01151	white
+gamma-glutamyl-gamma-aminobutyrate hydrolase	3.5.1.94	4-(L-gamma-Glutamylamino)butanoate	4-Aminobutanoate	R07419	white
+gamma-glutamyl-gamma-aminobutyrate hydrolase	3.5.1.94	4-(L-gamma-Glutamylamino)butanoate	L-Glutamate	R07419	white
+gamma-glutamyl-gamma-aminobutyrate hydrolase	3.5.1.94	4-Aminobutanoate	4-(L-gamma-Glutamylamino)butanoate	R07419	white
+gamma-glutamyl-gamma-aminobutyrate hydrolase	3.5.1.94	4-Aminobutanoate	H2O	R07419	white
+gamma-glutamyl-gamma-aminobutyrate hydrolase	3.5.1.94	H2O	4-Aminobutanoate	R07419	white
+gamma-glutamyl-gamma-aminobutyrate hydrolase	3.5.1.94	H2O	L-Glutamate	R07419	white
+gamma-glutamyl-gamma-aminobutyrate hydrolase	3.5.1.94	L-Glutamate	4-(L-gamma-Glutamylamino)butanoate	R07419	white
+gamma-glutamyl-gamma-aminobutyrate hydrolase	3.5.1.94	L-Glutamate	H2O	R07419	white
+gamma-glutamylputrescine oxidase	1.4.3.-	H2O	Ammonia	R07415	green
+gamma-glutamylputrescine oxidase	1.4.3.-	H2O	Hydrogen peroxide	R07415	green
+gamma-glutamylputrescine oxidase	1.4.3.-	H2O	gamma-Glutamyl-gamma-aminobutyraldehyde	R07415	green
+gamma-glutamylputrescine oxidase	1.4.3.-	Oxygen	Ammonia	R07415	green
+gamma-glutamylputrescine oxidase	1.4.3.-	Oxygen	Hydrogen peroxide	R07415	green
+gamma-glutamylputrescine oxidase	1.4.3.-	Oxygen	gamma-Glutamyl-gamma-aminobutyraldehyde	R07415	green
+gamma-glutamylputrescine oxidase	1.4.3.-	gamma-L-Glutamylputrescine	Ammonia	R07415	green
+gamma-glutamylputrescine oxidase	1.4.3.-	gamma-L-Glutamylputrescine	Hydrogen peroxide	R07415	green
+gamma-glutamylputrescine oxidase	1.4.3.-	gamma-L-Glutamylputrescine	gamma-Glutamyl-gamma-aminobutyraldehyde	R07415	green
+gamma-glutamylputrescine synthase	6.3.1.11	ADP	ATP	R07414	white
+gamma-glutamylputrescine synthase	6.3.1.11	ADP	L-Glutamate	R07414	white
+gamma-glutamylputrescine synthase	6.3.1.11	ADP	Putrescine	R07414	white
+gamma-glutamylputrescine synthase	6.3.1.11	ATP	ADP	R07414	white
+gamma-glutamylputrescine synthase	6.3.1.11	ATP	Orthophosphate	R07414	white
+gamma-glutamylputrescine synthase	6.3.1.11	ATP	gamma-L-Glutamylputrescine	R07414	white
+gamma-glutamylputrescine synthase	6.3.1.11	L-Glutamate	ADP	R07414	white
+gamma-glutamylputrescine synthase	6.3.1.11	L-Glutamate	Orthophosphate	R07414	white
+gamma-glutamylputrescine synthase	6.3.1.11	L-Glutamate	gamma-L-Glutamylputrescine	R07414	white
+gamma-glutamylputrescine synthase	6.3.1.11	Orthophosphate	ATP	R07414	white
+gamma-glutamylputrescine synthase	6.3.1.11	Orthophosphate	L-Glutamate	R07414	white
+gamma-glutamylputrescine synthase	6.3.1.11	Orthophosphate	Putrescine	R07414	white
+gamma-glutamylputrescine synthase	6.3.1.11	Putrescine	ADP	R07414	white
+gamma-glutamylputrescine synthase	6.3.1.11	Putrescine	Orthophosphate	R07414	white
+gamma-glutamylputrescine synthase	6.3.1.11	Putrescine	gamma-L-Glutamylputrescine	R07414	white
+gamma-glutamylputrescine synthase	6.3.1.11	gamma-L-Glutamylputrescine	ATP	R07414	white
+gamma-glutamylputrescine synthase	6.3.1.11	gamma-L-Glutamylputrescine	L-Glutamate	R07414	white
+gamma-glutamylputrescine synthase	6.3.1.11	gamma-L-Glutamylputrescine	Putrescine	R07414	white
+glutamate 5-kinase	2.7.2.11	ATP	ADP	R00239	green
+glutamate 5-kinase	2.7.2.11	ATP	L-Glutamyl 5-phosphate	R00239	green
+glutamate 5-kinase	2.7.2.11	L-Glutamate	ADP	R00239	green
+glutamate 5-kinase	2.7.2.11	L-Glutamate	L-Glutamyl 5-phosphate	R00239	green
+glutamate-5-semialdehyde dehydrogenase	1.2.1.41	L-Glutamate 5-semialdehyde	H+	R03313	green
+glutamate-5-semialdehyde dehydrogenase	1.2.1.41	L-Glutamate 5-semialdehyde	L-Glutamyl 5-phosphate	R03313	green
+glutamate-5-semialdehyde dehydrogenase	1.2.1.41	L-Glutamate 5-semialdehyde	NADPH	R03313	green
+glutamate-5-semialdehyde dehydrogenase	1.2.1.41	NADP+	H+	R03313	green
+glutamate-5-semialdehyde dehydrogenase	1.2.1.41	NADP+	L-Glutamyl 5-phosphate	R03313	green
+glutamate-5-semialdehyde dehydrogenase	1.2.1.41	NADP+	NADPH	R03313	green
+glutamate-5-semialdehyde dehydrogenase	1.2.1.41	Orthophosphate	H+	R03313	green
+glutamate-5-semialdehyde dehydrogenase	1.2.1.41	Orthophosphate	L-Glutamyl 5-phosphate	R03313	green
+glutamate-5-semialdehyde dehydrogenase	1.2.1.41	Orthophosphate	NADPH	R03313	green
+glycine amidinotransferase	2.1.4.1	Glycine	Guanidinoacetate	R00565	white
+glycine amidinotransferase	2.1.4.1	Glycine	L-Ornithine	R00565	white
+glycine amidinotransferase	2.1.4.1	Guanidinoacetate	Glycine	R00565	white
+glycine amidinotransferase	2.1.4.1	Guanidinoacetate	L-Arginine	R00565	white
+glycine amidinotransferase	2.1.4.1	L-Arginine	Guanidinoacetate	R00565	white
+glycine amidinotransferase	2.1.4.1	L-Arginine	L-Ornithine	R00565	white
+glycine amidinotransferase	2.1.4.1	L-Ornithine	Glycine	R00565	white
+glycine amidinotransferase	2.1.4.1	L-Ornithine	L-Arginine	R00565	white
+guanidinoacetate N-methyltransferase	2.1.1.2	Creatine	Guanidinoacetate	R01883	white
+guanidinoacetate N-methyltransferase	2.1.1.2	Creatine	S-Adenosyl-L-methionine	R01883	white
+guanidinoacetate N-methyltransferase	2.1.1.2	Guanidinoacetate	Creatine	R01883	white
+guanidinoacetate N-methyltransferase	2.1.1.2	Guanidinoacetate	S-Adenosyl-L-homocysteine	R01883	white
+guanidinoacetate N-methyltransferase	2.1.1.2	S-Adenosyl-L-homocysteine	Guanidinoacetate	R01883	white
+guanidinoacetate N-methyltransferase	2.1.1.2	S-Adenosyl-L-homocysteine	S-Adenosyl-L-methionine	R01883	white
+guanidinoacetate N-methyltransferase	2.1.1.2	S-Adenosyl-L-methionine	Creatine	R01883	white
+guanidinoacetate N-methyltransferase	2.1.1.2	S-Adenosyl-L-methionine	S-Adenosyl-L-homocysteine	R01883	white
+guanidinobutyrase / D-arginase	3.5.3.7	4-Aminobutanoate	4-Guanidinobutanoate	R01990	green
+guanidinobutyrase / D-arginase	3.5.3.7	4-Aminobutanoate	H2O	R01990	green
+guanidinobutyrase / D-arginase	3.5.3.7	4-Guanidinobutanoate	4-Aminobutanoate	R01990	green
+guanidinobutyrase / D-arginase	3.5.3.7	4-Guanidinobutanoate	Urea	R01990	green
+guanidinobutyrase / D-arginase	3.5.3.7	H2O	4-Aminobutanoate	R01990	green
+guanidinobutyrase / D-arginase	3.5.3.7	H2O	Urea	R01990	green
+guanidinobutyrase / D-arginase	3.5.3.7	Urea	4-Guanidinobutanoate	R01990	green
+guanidinobutyrase / D-arginase	3.5.3.7	Urea	H2O	R01990	green
+hydroxyproline dehydrogenase	1.5.5.3	Hydroquinone	Hydroxyproline	R03295	white
+hydroxyproline dehydrogenase	1.5.5.3	Hydroquinone	Quinone	R03295	white
+hydroxyproline dehydrogenase	1.5.5.3	Hydroxyproline	Hydroquinone	R03295	white
+hydroxyproline dehydrogenase	1.5.5.3	Hydroxyproline	L-1-Pyrroline-3-hydroxy-5-carboxylate	R03295	white
+hydroxyproline dehydrogenase	1.5.5.3	L-1-Pyrroline-3-hydroxy-5-carboxylate	Hydroxyproline	R03295	white
+hydroxyproline dehydrogenase	1.5.5.3	L-1-Pyrroline-3-hydroxy-5-carboxylate	Quinone	R03295	white
+hydroxyproline dehydrogenase	1.5.5.3	Quinone	Hydroquinone	R03295	white
+hydroxyproline dehydrogenase	1.5.5.3	Quinone	L-1-Pyrroline-3-hydroxy-5-carboxylate	R03295	white
+monoamine oxidase	1.4.3.4	H2O	Ammonia	R04025	green
+monoamine oxidase	1.4.3.4	H2O	Hydrogen peroxide	R04025	green
+monoamine oxidase	1.4.3.4	H2O	N4-Acetylaminobutanal	R04025	green
+monoamine oxidase	1.4.3.4	N-Acetylputrescine	Ammonia	R04025	green
+monoamine oxidase	1.4.3.4	N-Acetylputrescine	Hydrogen peroxide	R04025	green
+monoamine oxidase	1.4.3.4	N-Acetylputrescine	N4-Acetylaminobutanal	R04025	green
+monoamine oxidase	1.4.3.4	Oxygen	Ammonia	R04025	green
+monoamine oxidase	1.4.3.4	Oxygen	Hydrogen peroxide	R04025	green
+monoamine oxidase	1.4.3.4	Oxygen	N4-Acetylaminobutanal	R04025	green
+nitric-oxide synthase, bacterial	1.14.14.47	L-Arginine	H2O	R11712	green
+nitric-oxide synthase, bacterial	1.14.14.47	L-Arginine	N(omega)-Hydroxyarginine	R11712	green
+nitric-oxide synthase, bacterial	1.14.14.47	L-Arginine	Oxidized flavodoxin	R11712	green
+nitric-oxide synthase, bacterial	1.14.14.47	N(omega)-Hydroxyarginine	H2O	R11713	green
+nitric-oxide synthase, bacterial	1.14.14.47	N(omega)-Hydroxyarginine	L-Citrulline	R11713	green
+nitric-oxide synthase, bacterial	1.14.14.47	N(omega)-Hydroxyarginine	Nitric oxide	R11713	green
+nitric-oxide synthase, bacterial	1.14.14.47	N(omega)-Hydroxyarginine	Oxidized flavodoxin	R11713	green
+nitric-oxide synthase, bacterial	1.14.14.47	Oxygen	H2O	R11712	green
+nitric-oxide synthase, bacterial	1.14.14.47	Oxygen	H2O	R11713	green
+nitric-oxide synthase, bacterial	1.14.14.47	Oxygen	L-Citrulline	R11713	green
+nitric-oxide synthase, bacterial	1.14.14.47	Oxygen	N(omega)-Hydroxyarginine	R11712	green
+nitric-oxide synthase, bacterial	1.14.14.47	Oxygen	Nitric oxide	R11713	green
+nitric-oxide synthase, bacterial	1.14.14.47	Oxygen	Oxidized flavodoxin	R11712	green
+nitric-oxide synthase, bacterial	1.14.14.47	Oxygen	Oxidized flavodoxin	R11713	green
+nitric-oxide synthase, bacterial	1.14.14.47	Reduced flavodoxin	H2O	R11712	green
+nitric-oxide synthase, bacterial	1.14.14.47	Reduced flavodoxin	H2O	R11713	green
+nitric-oxide synthase, bacterial	1.14.14.47	Reduced flavodoxin	L-Citrulline	R11713	green
+nitric-oxide synthase, bacterial	1.14.14.47	Reduced flavodoxin	N(omega)-Hydroxyarginine	R11712	green
+nitric-oxide synthase, bacterial	1.14.14.47	Reduced flavodoxin	Nitric oxide	R11713	green
+nitric-oxide synthase, bacterial	1.14.14.47	Reduced flavodoxin	Oxidized flavodoxin	R11712	green
+nitric-oxide synthase, bacterial	1.14.14.47	Reduced flavodoxin	Oxidized flavodoxin	R11713	green
+nitric-oxide synthase, brain	1.14.13.39	H+	H2O	R00111	white
+nitric-oxide synthase, brain	1.14.13.39	H+	L-Citrulline	R00111	white
+nitric-oxide synthase, brain	1.14.13.39	H+	NADP+	R00111	white
+nitric-oxide synthase, brain	1.14.13.39	H+	Nitric oxide	R00111	white
+nitric-oxide synthase, brain	1.14.13.39	H2O	H+	R00111	white
+nitric-oxide synthase, brain	1.14.13.39	H2O	N(omega)-Hydroxyarginine	R00111	white
+nitric-oxide synthase, brain	1.14.13.39	H2O	NADPH	R00111	white
+nitric-oxide synthase, brain	1.14.13.39	H2O	Oxygen	R00111	white
+nitric-oxide synthase, brain	1.14.13.39	L-Citrulline	H+	R00111	white
+nitric-oxide synthase, brain	1.14.13.39	L-Citrulline	N(omega)-Hydroxyarginine	R00111	white
+nitric-oxide synthase, brain	1.14.13.39	L-Citrulline	NADPH	R00111	white
+nitric-oxide synthase, brain	1.14.13.39	L-Citrulline	Oxygen	R00111	white
+nitric-oxide synthase, brain	1.14.13.39	N(omega)-Hydroxyarginine	H2O	R00111	white
+nitric-oxide synthase, brain	1.14.13.39	N(omega)-Hydroxyarginine	L-Citrulline	R00111	white
+nitric-oxide synthase, brain	1.14.13.39	N(omega)-Hydroxyarginine	NADP+	R00111	white
+nitric-oxide synthase, brain	1.14.13.39	N(omega)-Hydroxyarginine	Nitric oxide	R00111	white
+nitric-oxide synthase, brain	1.14.13.39	NADP+	H+	R00111	white
+nitric-oxide synthase, brain	1.14.13.39	NADP+	N(omega)-Hydroxyarginine	R00111	white
+nitric-oxide synthase, brain	1.14.13.39	NADP+	NADPH	R00111	white
+nitric-oxide synthase, brain	1.14.13.39	NADP+	Oxygen	R00111	white
+nitric-oxide synthase, brain	1.14.13.39	NADPH	H2O	R00111	white
+nitric-oxide synthase, brain	1.14.13.39	NADPH	L-Citrulline	R00111	white
+nitric-oxide synthase, brain	1.14.13.39	NADPH	NADP+	R00111	white
+nitric-oxide synthase, brain	1.14.13.39	NADPH	Nitric oxide	R00111	white
+nitric-oxide synthase, brain	1.14.13.39	Nitric oxide	H+	R00111	white
+nitric-oxide synthase, brain	1.14.13.39	Nitric oxide	N(omega)-Hydroxyarginine	R00111	white
+nitric-oxide synthase, brain	1.14.13.39	Nitric oxide	NADPH	R00111	white
+nitric-oxide synthase, brain	1.14.13.39	Nitric oxide	Oxygen	R00111	white
+nitric-oxide synthase, brain	1.14.13.39	Oxygen	H2O	R00111	white
+nitric-oxide synthase, brain	1.14.13.39	Oxygen	L-Citrulline	R00111	white
+nitric-oxide synthase, brain	1.14.13.39	Oxygen	NADP+	R00111	white
+nitric-oxide synthase, brain	1.14.13.39	Oxygen	Nitric oxide	R00111	white
+nitric-oxide synthase, endothelial	1.14.13.39	H+	H2O	R00111	white
+nitric-oxide synthase, endothelial	1.14.13.39	H+	L-Citrulline	R00111	white
+nitric-oxide synthase, endothelial	1.14.13.39	H+	NADP+	R00111	white
+nitric-oxide synthase, endothelial	1.14.13.39	H+	Nitric oxide	R00111	white
+nitric-oxide synthase, endothelial	1.14.13.39	H2O	H+	R00111	white
+nitric-oxide synthase, endothelial	1.14.13.39	H2O	N(omega)-Hydroxyarginine	R00111	white
+nitric-oxide synthase, endothelial	1.14.13.39	H2O	NADPH	R00111	white
+nitric-oxide synthase, endothelial	1.14.13.39	H2O	Oxygen	R00111	white
+nitric-oxide synthase, endothelial	1.14.13.39	L-Citrulline	H+	R00111	white
+nitric-oxide synthase, endothelial	1.14.13.39	L-Citrulline	N(omega)-Hydroxyarginine	R00111	white
+nitric-oxide synthase, endothelial	1.14.13.39	L-Citrulline	NADPH	R00111	white
+nitric-oxide synthase, endothelial	1.14.13.39	L-Citrulline	Oxygen	R00111	white
+nitric-oxide synthase, endothelial	1.14.13.39	N(omega)-Hydroxyarginine	H2O	R00111	white
+nitric-oxide synthase, endothelial	1.14.13.39	N(omega)-Hydroxyarginine	L-Citrulline	R00111	white
+nitric-oxide synthase, endothelial	1.14.13.39	N(omega)-Hydroxyarginine	NADP+	R00111	white
+nitric-oxide synthase, endothelial	1.14.13.39	N(omega)-Hydroxyarginine	Nitric oxide	R00111	white
+nitric-oxide synthase, endothelial	1.14.13.39	NADP+	H+	R00111	white
+nitric-oxide synthase, endothelial	1.14.13.39	NADP+	N(omega)-Hydroxyarginine	R00111	white
+nitric-oxide synthase, endothelial	1.14.13.39	NADP+	NADPH	R00111	white
+nitric-oxide synthase, endothelial	1.14.13.39	NADP+	Oxygen	R00111	white
+nitric-oxide synthase, endothelial	1.14.13.39	NADPH	H2O	R00111	white
+nitric-oxide synthase, endothelial	1.14.13.39	NADPH	L-Citrulline	R00111	white
+nitric-oxide synthase, endothelial	1.14.13.39	NADPH	NADP+	R00111	white
+nitric-oxide synthase, endothelial	1.14.13.39	NADPH	Nitric oxide	R00111	white
+nitric-oxide synthase, endothelial	1.14.13.39	Nitric oxide	H+	R00111	white
+nitric-oxide synthase, endothelial	1.14.13.39	Nitric oxide	N(omega)-Hydroxyarginine	R00111	white
+nitric-oxide synthase, endothelial	1.14.13.39	Nitric oxide	NADPH	R00111	white
+nitric-oxide synthase, endothelial	1.14.13.39	Nitric oxide	Oxygen	R00111	white
+nitric-oxide synthase, endothelial	1.14.13.39	Oxygen	H2O	R00111	white
+nitric-oxide synthase, endothelial	1.14.13.39	Oxygen	L-Citrulline	R00111	white
+nitric-oxide synthase, endothelial	1.14.13.39	Oxygen	NADP+	R00111	white
+nitric-oxide synthase, endothelial	1.14.13.39	Oxygen	Nitric oxide	R00111	white
+nitric-oxide synthase, inducible	1.14.13.39	H+	H2O	R00111	white
+nitric-oxide synthase, inducible	1.14.13.39	H+	L-Citrulline	R00111	white
+nitric-oxide synthase, inducible	1.14.13.39	H+	NADP+	R00111	white
+nitric-oxide synthase, inducible	1.14.13.39	H+	Nitric oxide	R00111	white
+nitric-oxide synthase, inducible	1.14.13.39	H2O	H+	R00111	white
+nitric-oxide synthase, inducible	1.14.13.39	H2O	N(omega)-Hydroxyarginine	R00111	white
+nitric-oxide synthase, inducible	1.14.13.39	H2O	NADPH	R00111	white
+nitric-oxide synthase, inducible	1.14.13.39	H2O	Oxygen	R00111	white
+nitric-oxide synthase, inducible	1.14.13.39	L-Citrulline	H+	R00111	white
+nitric-oxide synthase, inducible	1.14.13.39	L-Citrulline	N(omega)-Hydroxyarginine	R00111	white
+nitric-oxide synthase, inducible	1.14.13.39	L-Citrulline	NADPH	R00111	white
+nitric-oxide synthase, inducible	1.14.13.39	L-Citrulline	Oxygen	R00111	white
+nitric-oxide synthase, inducible	1.14.13.39	N(omega)-Hydroxyarginine	H2O	R00111	white
+nitric-oxide synthase, inducible	1.14.13.39	N(omega)-Hydroxyarginine	L-Citrulline	R00111	white
+nitric-oxide synthase, inducible	1.14.13.39	N(omega)-Hydroxyarginine	NADP+	R00111	white
+nitric-oxide synthase, inducible	1.14.13.39	N(omega)-Hydroxyarginine	Nitric oxide	R00111	white
+nitric-oxide synthase, inducible	1.14.13.39	NADP+	H+	R00111	white
+nitric-oxide synthase, inducible	1.14.13.39	NADP+	N(omega)-Hydroxyarginine	R00111	white
+nitric-oxide synthase, inducible	1.14.13.39	NADP+	NADPH	R00111	white
+nitric-oxide synthase, inducible	1.14.13.39	NADP+	Oxygen	R00111	white
+nitric-oxide synthase, inducible	1.14.13.39	NADPH	H2O	R00111	white
+nitric-oxide synthase, inducible	1.14.13.39	NADPH	L-Citrulline	R00111	white
+nitric-oxide synthase, inducible	1.14.13.39	NADPH	NADP+	R00111	white
+nitric-oxide synthase, inducible	1.14.13.39	NADPH	Nitric oxide	R00111	white
+nitric-oxide synthase, inducible	1.14.13.39	Nitric oxide	H+	R00111	white
+nitric-oxide synthase, inducible	1.14.13.39	Nitric oxide	N(omega)-Hydroxyarginine	R00111	white
+nitric-oxide synthase, inducible	1.14.13.39	Nitric oxide	NADPH	R00111	white
+nitric-oxide synthase, inducible	1.14.13.39	Nitric oxide	Oxygen	R00111	white
+nitric-oxide synthase, inducible	1.14.13.39	Oxygen	H2O	R00111	white
+nitric-oxide synthase, inducible	1.14.13.39	Oxygen	L-Citrulline	R00111	white
+nitric-oxide synthase, inducible	1.14.13.39	Oxygen	NADP+	R00111	white
+nitric-oxide synthase, inducible	1.14.13.39	Oxygen	Nitric oxide	R00111	white
+nitric-oxide synthase, plant	1.14.13.39	H+	H2O	R00111	white
+nitric-oxide synthase, plant	1.14.13.39	H+	L-Citrulline	R00111	white
+nitric-oxide synthase, plant	1.14.13.39	H+	NADP+	R00111	white
+nitric-oxide synthase, plant	1.14.13.39	H+	Nitric oxide	R00111	white
+nitric-oxide synthase, plant	1.14.13.39	H2O	H+	R00111	white
+nitric-oxide synthase, plant	1.14.13.39	H2O	N(omega)-Hydroxyarginine	R00111	white
+nitric-oxide synthase, plant	1.14.13.39	H2O	NADPH	R00111	white
+nitric-oxide synthase, plant	1.14.13.39	H2O	Oxygen	R00111	white
+nitric-oxide synthase, plant	1.14.13.39	L-Citrulline	H+	R00111	white
+nitric-oxide synthase, plant	1.14.13.39	L-Citrulline	N(omega)-Hydroxyarginine	R00111	white
+nitric-oxide synthase, plant	1.14.13.39	L-Citrulline	NADPH	R00111	white
+nitric-oxide synthase, plant	1.14.13.39	L-Citrulline	Oxygen	R00111	white
+nitric-oxide synthase, plant	1.14.13.39	N(omega)-Hydroxyarginine	H2O	R00111	white
+nitric-oxide synthase, plant	1.14.13.39	N(omega)-Hydroxyarginine	L-Citrulline	R00111	white
+nitric-oxide synthase, plant	1.14.13.39	N(omega)-Hydroxyarginine	NADP+	R00111	white
+nitric-oxide synthase, plant	1.14.13.39	N(omega)-Hydroxyarginine	Nitric oxide	R00111	white
+nitric-oxide synthase, plant	1.14.13.39	NADP+	H+	R00111	white
+nitric-oxide synthase, plant	1.14.13.39	NADP+	N(omega)-Hydroxyarginine	R00111	white
+nitric-oxide synthase, plant	1.14.13.39	NADP+	NADPH	R00111	white
+nitric-oxide synthase, plant	1.14.13.39	NADP+	Oxygen	R00111	white
+nitric-oxide synthase, plant	1.14.13.39	NADPH	H2O	R00111	white
+nitric-oxide synthase, plant	1.14.13.39	NADPH	L-Citrulline	R00111	white
+nitric-oxide synthase, plant	1.14.13.39	NADPH	NADP+	R00111	white
+nitric-oxide synthase, plant	1.14.13.39	NADPH	Nitric oxide	R00111	white
+nitric-oxide synthase, plant	1.14.13.39	Nitric oxide	H+	R00111	white
+nitric-oxide synthase, plant	1.14.13.39	Nitric oxide	N(omega)-Hydroxyarginine	R00111	white
+nitric-oxide synthase, plant	1.14.13.39	Nitric oxide	NADPH	R00111	white
+nitric-oxide synthase, plant	1.14.13.39	Nitric oxide	Oxygen	R00111	white
+nitric-oxide synthase, plant	1.14.13.39	Oxygen	H2O	R00111	white
+nitric-oxide synthase, plant	1.14.13.39	Oxygen	L-Citrulline	R00111	white
+nitric-oxide synthase, plant	1.14.13.39	Oxygen	NADP+	R00111	white
+nitric-oxide synthase, plant	1.14.13.39	Oxygen	Nitric oxide	R00111	white
+nopaline oxidase subunit A	4.1.3.16	2-Oxoglutarate	Acceptor	R12706	white
+nopaline oxidase subunit A	4.1.3.16	2-Oxoglutarate	H2O	R12706	white
+nopaline oxidase subunit A	4.1.3.16	2-Oxoglutarate	Nopaline	R12706	white
+nopaline oxidase subunit A	4.1.3.16	Acceptor	2-Oxoglutarate	R12706	white
+nopaline oxidase subunit A	4.1.3.16	Acceptor	L-Arginine	R12706	white
+nopaline oxidase subunit A	4.1.3.16	Acceptor	Reduced acceptor	R12706	white
+nopaline oxidase subunit A	4.1.3.16	H2O	2-Oxoglutarate	R12706	white
+nopaline oxidase subunit A	4.1.3.16	H2O	L-Arginine	R12706	white
+nopaline oxidase subunit A	4.1.3.16	H2O	Reduced acceptor	R12706	white
+nopaline oxidase subunit A	4.1.3.16	L-Arginine	Acceptor	R12706	white
+nopaline oxidase subunit A	4.1.3.16	L-Arginine	H2O	R12706	white
+nopaline oxidase subunit A	4.1.3.16	L-Arginine	Nopaline	R12706	white
+nopaline oxidase subunit A	4.1.3.16	Nopaline	2-Oxoglutarate	R12706	white
+nopaline oxidase subunit A	4.1.3.16	Nopaline	L-Arginine	R12706	white
+nopaline oxidase subunit A	4.1.3.16	Nopaline	Reduced acceptor	R12706	white
+nopaline oxidase subunit A	4.1.3.16	Reduced acceptor	Acceptor	R12706	white
+nopaline oxidase subunit A	4.1.3.16	Reduced acceptor	H2O	R12706	white
+nopaline oxidase subunit A	4.1.3.16	Reduced acceptor	Nopaline	R12706	white
+nopaline oxidase subunit B	4.1.3.16	2-Oxoglutarate	Acceptor	R12706	white
+nopaline oxidase subunit B	4.1.3.16	2-Oxoglutarate	H2O	R12706	white
+nopaline oxidase subunit B	4.1.3.16	2-Oxoglutarate	Nopaline	R12706	white
+nopaline oxidase subunit B	4.1.3.16	Acceptor	2-Oxoglutarate	R12706	white
+nopaline oxidase subunit B	4.1.3.16	Acceptor	L-Arginine	R12706	white
+nopaline oxidase subunit B	4.1.3.16	Acceptor	Reduced acceptor	R12706	white
+nopaline oxidase subunit B	4.1.3.16	H2O	2-Oxoglutarate	R12706	white
+nopaline oxidase subunit B	4.1.3.16	H2O	L-Arginine	R12706	white
+nopaline oxidase subunit B	4.1.3.16	H2O	Reduced acceptor	R12706	white
+nopaline oxidase subunit B	4.1.3.16	L-Arginine	Acceptor	R12706	white
+nopaline oxidase subunit B	4.1.3.16	L-Arginine	H2O	R12706	white
+nopaline oxidase subunit B	4.1.3.16	L-Arginine	Nopaline	R12706	white
+nopaline oxidase subunit B	4.1.3.16	Nopaline	2-Oxoglutarate	R12706	white
+nopaline oxidase subunit B	4.1.3.16	Nopaline	L-Arginine	R12706	white
+nopaline oxidase subunit B	4.1.3.16	Nopaline	Reduced acceptor	R12706	white
+nopaline oxidase subunit B	4.1.3.16	Reduced acceptor	Acceptor	R12706	white
+nopaline oxidase subunit B	4.1.3.16	Reduced acceptor	H2O	R12706	white
+nopaline oxidase subunit B	4.1.3.16	Reduced acceptor	Nopaline	R12706	white
+octopine oxidase subunit A	1.5.1.11	Acceptor	L-Arginine	R12707	white
+octopine oxidase subunit A	1.5.1.11	Acceptor	Pyruvate	R12707	white
+octopine oxidase subunit A	1.5.1.11	Acceptor	Reduced acceptor	R12707	white
+octopine oxidase subunit A	1.5.1.11	H2O	L-Arginine	R12707	white
+octopine oxidase subunit A	1.5.1.11	H2O	Pyruvate	R12707	white
+octopine oxidase subunit A	1.5.1.11	H2O	Reduced acceptor	R12707	white
+octopine oxidase subunit A	1.5.1.11	L-Arginine	Acceptor	R12707	white
+octopine oxidase subunit A	1.5.1.11	L-Arginine	H2O	R12707	white
+octopine oxidase subunit A	1.5.1.11	L-Arginine	Octopine	R12707	white
+octopine oxidase subunit A	1.5.1.11	Octopine	L-Arginine	R12707	white
+octopine oxidase subunit A	1.5.1.11	Octopine	Pyruvate	R12707	white
+octopine oxidase subunit A	1.5.1.11	Octopine	Reduced acceptor	R12707	white
+octopine oxidase subunit A	1.5.1.11	Pyruvate	Acceptor	R12707	white
+octopine oxidase subunit A	1.5.1.11	Pyruvate	H2O	R12707	white
+octopine oxidase subunit A	1.5.1.11	Pyruvate	Octopine	R12707	white
+octopine oxidase subunit A	1.5.1.11	Reduced acceptor	Acceptor	R12707	white
+octopine oxidase subunit A	1.5.1.11	Reduced acceptor	H2O	R12707	white
+octopine oxidase subunit A	1.5.1.11	Reduced acceptor	Octopine	R12707	white
+octopine oxidase subunit B	1.5.1.11	Acceptor	L-Arginine	R12707	white
+octopine oxidase subunit B	1.5.1.11	Acceptor	Pyruvate	R12707	white
+octopine oxidase subunit B	1.5.1.11	Acceptor	Reduced acceptor	R12707	white
+octopine oxidase subunit B	1.5.1.11	H2O	L-Arginine	R12707	white
+octopine oxidase subunit B	1.5.1.11	H2O	Pyruvate	R12707	white
+octopine oxidase subunit B	1.5.1.11	H2O	Reduced acceptor	R12707	white
+octopine oxidase subunit B	1.5.1.11	L-Arginine	Acceptor	R12707	white
+octopine oxidase subunit B	1.5.1.11	L-Arginine	H2O	R12707	white
+octopine oxidase subunit B	1.5.1.11	L-Arginine	Octopine	R12707	white
+octopine oxidase subunit B	1.5.1.11	Octopine	L-Arginine	R12707	white
+octopine oxidase subunit B	1.5.1.11	Octopine	Pyruvate	R12707	white
+octopine oxidase subunit B	1.5.1.11	Octopine	Reduced acceptor	R12707	white
+octopine oxidase subunit B	1.5.1.11	Pyruvate	Acceptor	R12707	white
+octopine oxidase subunit B	1.5.1.11	Pyruvate	H2O	R12707	white
+octopine oxidase subunit B	1.5.1.11	Pyruvate	Octopine	R12707	white
+octopine oxidase subunit B	1.5.1.11	Reduced acceptor	Acceptor	R12707	white
+octopine oxidase subunit B	1.5.1.11	Reduced acceptor	H2O	R12707	white
+octopine oxidase subunit B	1.5.1.11	Reduced acceptor	Octopine	R12707	white
+ornithine cyclodeaminase	4.3.1.12	Ammonia	L-Ornithine	R00671	white
+ornithine cyclodeaminase	4.3.1.12	L-Ornithine	Ammonia	R00671	white
+ornithine cyclodeaminase	4.3.1.12	L-Ornithine	L-Proline	R00671	white
+ornithine cyclodeaminase	4.3.1.12	L-Proline	L-Ornithine	R00671	white
+ornithine decarboxylase	4.1.1.17	CO2	L-Ornithine	R00670	white
+ornithine decarboxylase	4.1.1.17	L-Ornithine	CO2	R00670	white
+ornithine decarboxylase	4.1.1.17	L-Ornithine	Putrescine	R00670	white
+ornithine decarboxylase	4.1.1.17	Putrescine	L-Ornithine	R00670	white
+ornithine--oxo-acid transaminase	2.6.1.13	2-Oxoglutarate	L-Glutamate	R00667	green
+ornithine--oxo-acid transaminase	2.6.1.13	2-Oxoglutarate	L-Glutamate 5-semialdehyde	R00667	green
+ornithine--oxo-acid transaminase	2.6.1.13	L-Glutamate	2-Oxoglutarate	R00667	green
+ornithine--oxo-acid transaminase	2.6.1.13	L-Glutamate	L-Ornithine	R00667	green
+ornithine--oxo-acid transaminase	2.6.1.13	L-Glutamate 5-semialdehyde	2-Oxoglutarate	R00667	green
+ornithine--oxo-acid transaminase	2.6.1.13	L-Glutamate 5-semialdehyde	L-Ornithine	R00667	green
+ornithine--oxo-acid transaminase	2.6.1.13	L-Ornithine	L-Glutamate	R00667	green
+ornithine--oxo-acid transaminase	2.6.1.13	L-Ornithine	L-Glutamate 5-semialdehyde	R00667	green
+polyamine oxidase	1.5.3.14	1,3-Diaminopropane	H2O	R01914	white
+polyamine oxidase	1.5.3.14	1,3-Diaminopropane	Oxygen	R01914	white
+polyamine oxidase	1.5.3.14	1,3-Diaminopropane	Spermidine	R01914	white
+polyamine oxidase	1.5.3.14	4-Aminobutyraldehyde	H2O	R01914	white
+polyamine oxidase	1.5.3.14	4-Aminobutyraldehyde	Oxygen	R01914	white
+polyamine oxidase	1.5.3.14	4-Aminobutyraldehyde	Spermidine	R01914	white
+polyamine oxidase	1.5.3.14	H2O	1,3-Diaminopropane	R01914	white
+polyamine oxidase	1.5.3.14	H2O	4-Aminobutyraldehyde	R01914	white
+polyamine oxidase	1.5.3.14	H2O	Hydrogen peroxide	R01914	white
+polyamine oxidase	1.5.3.14	Hydrogen peroxide	H2O	R01914	white
+polyamine oxidase	1.5.3.14	Hydrogen peroxide	Oxygen	R01914	white
+polyamine oxidase	1.5.3.14	Hydrogen peroxide	Spermidine	R01914	white
+polyamine oxidase	1.5.3.14	Oxygen	1,3-Diaminopropane	R01914	white
+polyamine oxidase	1.5.3.14	Oxygen	4-Aminobutyraldehyde	R01914	white
+polyamine oxidase	1.5.3.14	Oxygen	Hydrogen peroxide	R01914	white
+polyamine oxidase	1.5.3.14	Spermidine	1,3-Diaminopropane	R01914	white
+polyamine oxidase	1.5.3.14	Spermidine	4-Aminobutyraldehyde	R01914	white
+polyamine oxidase	1.5.3.14	Spermidine	Hydrogen peroxide	R01914	white
+proline dehydrogenase	1.5.5.2	L-Proline	(S)-1-Pyrroline-5-carboxylate	R01253	green
+proline dehydrogenase	1.5.5.2	L-Proline	Hydroquinone	R01253	green
+proline dehydrogenase	1.5.5.2	Quinone	(S)-1-Pyrroline-5-carboxylate	R01253	green
+proline dehydrogenase	1.5.5.2	Quinone	Hydroquinone	R01253	green
+proline iminopeptidase	3.4.11.5	H2O	L-Proline	R00135	green
+proline iminopeptidase	3.4.11.5	H2O	Peptide	R00135	green
+proline iminopeptidase	3.4.11.5	Peptide	L-Proline	R00135	green
+proline iminopeptidase	3.4.11.5	Peptide	Peptide	R00135	green
+proline racemase	5.1.1.4	D-Proline	L-Proline	R01255	green
+proline racemase	5.1.1.4	L-Proline	D-Proline	R01255	green
+prolyl 4-hydroxylase	1.14.11.2	2-Oxoglutarate	CO2	R01252	white
+prolyl 4-hydroxylase	1.14.11.2	2-Oxoglutarate	Hydroxyproline	R01252	white
+prolyl 4-hydroxylase	1.14.11.2	2-Oxoglutarate	Succinate	R01252	white
+prolyl 4-hydroxylase	1.14.11.2	CO2	2-Oxoglutarate	R01252	white
+prolyl 4-hydroxylase	1.14.11.2	CO2	L-Proline	R01252	white
+prolyl 4-hydroxylase	1.14.11.2	CO2	Oxygen	R01252	white
+prolyl 4-hydroxylase	1.14.11.2	Hydroxyproline	2-Oxoglutarate	R01252	white
+prolyl 4-hydroxylase	1.14.11.2	Hydroxyproline	L-Proline	R01252	white
+prolyl 4-hydroxylase	1.14.11.2	Hydroxyproline	Oxygen	R01252	white
+prolyl 4-hydroxylase	1.14.11.2	L-Proline	CO2	R01252	white
+prolyl 4-hydroxylase	1.14.11.2	L-Proline	Hydroxyproline	R01252	white
+prolyl 4-hydroxylase	1.14.11.2	L-Proline	Succinate	R01252	white
+prolyl 4-hydroxylase	1.14.11.2	Oxygen	CO2	R01252	white
+prolyl 4-hydroxylase	1.14.11.2	Oxygen	Hydroxyproline	R01252	white
+prolyl 4-hydroxylase	1.14.11.2	Oxygen	Succinate	R01252	white
+prolyl 4-hydroxylase	1.14.11.2	Succinate	2-Oxoglutarate	R01252	white
+prolyl 4-hydroxylase	1.14.11.2	Succinate	L-Proline	R01252	white
+prolyl 4-hydroxylase	1.14.11.2	Succinate	Oxygen	R01252	white
+putrescine aminotransferase	2.6.1.82	2-Oxoglutarate	4-Aminobutyraldehyde	R01155	white
+putrescine aminotransferase	2.6.1.82	2-Oxoglutarate	L-Glutamate	R01155	white
+putrescine aminotransferase	2.6.1.82	4-Aminobutyraldehyde	2-Oxoglutarate	R01155	white
+putrescine aminotransferase	2.6.1.82	4-Aminobutyraldehyde	Putrescine	R01155	white
+putrescine aminotransferase	2.6.1.82	L-Glutamate	2-Oxoglutarate	R01155	white
+putrescine aminotransferase	2.6.1.82	L-Glutamate	Putrescine	R01155	white
+putrescine aminotransferase	2.6.1.82	Putrescine	4-Aminobutyraldehyde	R01155	white
+putrescine aminotransferase	2.6.1.82	Putrescine	L-Glutamate	R01155	white
+putrescine oxidase	1.4.3.10	4-Aminobutyraldehyde	H2O	R01151	green
+putrescine oxidase	1.4.3.10	4-Aminobutyraldehyde	Oxygen	R01151	green
+putrescine oxidase	1.4.3.10	4-Aminobutyraldehyde	Putrescine	R01151	green
+putrescine oxidase	1.4.3.10	Ammonia	H2O	R01151	green
+putrescine oxidase	1.4.3.10	Ammonia	Oxygen	R01151	green
+putrescine oxidase	1.4.3.10	Ammonia	Putrescine	R01151	green
+putrescine oxidase	1.4.3.10	H2O	4-Aminobutyraldehyde	R01151	green
+putrescine oxidase	1.4.3.10	H2O	Ammonia	R01151	green
+putrescine oxidase	1.4.3.10	H2O	Hydrogen peroxide	R01151	green
+putrescine oxidase	1.4.3.10	Hydrogen peroxide	H2O	R01151	green
+putrescine oxidase	1.4.3.10	Hydrogen peroxide	Oxygen	R01151	green
+putrescine oxidase	1.4.3.10	Hydrogen peroxide	Putrescine	R01151	green
+putrescine oxidase	1.4.3.10	Oxygen	4-Aminobutyraldehyde	R01151	green
+putrescine oxidase	1.4.3.10	Oxygen	Ammonia	R01151	green
+putrescine oxidase	1.4.3.10	Oxygen	Hydrogen peroxide	R01151	green
+putrescine oxidase	1.4.3.10	Putrescine	4-Aminobutyraldehyde	R01151	green
+putrescine oxidase	1.4.3.10	Putrescine	Ammonia	R01151	green
+putrescine oxidase	1.4.3.10	Putrescine	Hydrogen peroxide	R01151	green
+putrescine---pyruvate transaminase	2.6.1.113	Putrescine	4-Aminobutyraldehyde	R08714	green
+putrescine---pyruvate transaminase	2.6.1.113	Putrescine	L-Alanine	R08714	green
+putrescine---pyruvate transaminase	2.6.1.113	Pyruvate	4-Aminobutyraldehyde	R08714	green
+putrescine---pyruvate transaminase	2.6.1.113	Pyruvate	L-Alanine	R08714	green
+pyrroline-5-carboxylate reductase	1.5.1.2	Hydroxyproline	H+	R03291	green
+pyrroline-5-carboxylate reductase	1.5.1.2	Hydroxyproline	H+	R03293	green
+pyrroline-5-carboxylate reductase	1.5.1.2	Hydroxyproline	L-1-Pyrroline-3-hydroxy-5-carboxylate	R03291	green
+pyrroline-5-carboxylate reductase	1.5.1.2	Hydroxyproline	L-1-Pyrroline-3-hydroxy-5-carboxylate	R03293	green
+pyrroline-5-carboxylate reductase	1.5.1.2	Hydroxyproline	NADH	R03291	green
+pyrroline-5-carboxylate reductase	1.5.1.2	Hydroxyproline	NADPH	R03293	green
+pyrroline-5-carboxylate reductase	1.5.1.2	L-Proline	(S)-1-Pyrroline-5-carboxylate	R01248	green
+pyrroline-5-carboxylate reductase	1.5.1.2	L-Proline	(S)-1-Pyrroline-5-carboxylate	R01251	green
+pyrroline-5-carboxylate reductase	1.5.1.2	L-Proline	H+	R01248	green
+pyrroline-5-carboxylate reductase	1.5.1.2	L-Proline	H+	R01251	green
+pyrroline-5-carboxylate reductase	1.5.1.2	L-Proline	NADH	R01248	green
+pyrroline-5-carboxylate reductase	1.5.1.2	L-Proline	NADPH	R01251	green
+pyrroline-5-carboxylate reductase	1.5.1.2	NAD+	(S)-1-Pyrroline-5-carboxylate	R01248	green
+pyrroline-5-carboxylate reductase	1.5.1.2	NAD+	H+	R01248	green
+pyrroline-5-carboxylate reductase	1.5.1.2	NAD+	H+	R03291	green
+pyrroline-5-carboxylate reductase	1.5.1.2	NAD+	L-1-Pyrroline-3-hydroxy-5-carboxylate	R03291	green
+pyrroline-5-carboxylate reductase	1.5.1.2	NAD+	NADH	R01248	green
+pyrroline-5-carboxylate reductase	1.5.1.2	NAD+	NADH	R03291	green
+pyrroline-5-carboxylate reductase	1.5.1.2	NADP+	(S)-1-Pyrroline-5-carboxylate	R01251	green
+pyrroline-5-carboxylate reductase	1.5.1.2	NADP+	H+	R01251	green
+pyrroline-5-carboxylate reductase	1.5.1.2	NADP+	H+	R03293	green
+pyrroline-5-carboxylate reductase	1.5.1.2	NADP+	L-1-Pyrroline-3-hydroxy-5-carboxylate	R03293	green
+pyrroline-5-carboxylate reductase	1.5.1.2	NADP+	NADPH	R01251	green
+pyrroline-5-carboxylate reductase	1.5.1.2	NADP+	NADPH	R03293	green
+roa:Pd630_LPD06190		H2O	Ammonia	R04025	green
+roa:Pd630_LPD06190		H2O	Hydrogen peroxide	R04025	green
+roa:Pd630_LPD06190		H2O	N4-Acetylaminobutanal	R04025	green
+roa:Pd630_LPD06190		N-Acetylputrescine	Ammonia	R04025	green
+roa:Pd630_LPD06190		N-Acetylputrescine	Hydrogen peroxide	R04025	green
+roa:Pd630_LPD06190		N-Acetylputrescine	N4-Acetylaminobutanal	R04025	green
+roa:Pd630_LPD06190		Oxygen	Ammonia	R04025	green
+roa:Pd630_LPD06190		Oxygen	Hydrogen peroxide	R04025	green
+roa:Pd630_LPD06190		Oxygen	N4-Acetylaminobutanal	R04025	green
+spermidine dehydrogenase	1.5.99.6	1,3-Diaminopropane	H2O	R01914	white
+spermidine dehydrogenase	1.5.99.6	1,3-Diaminopropane	Oxygen	R01914	white
+spermidine dehydrogenase	1.5.99.6	1,3-Diaminopropane	Spermidine	R01914	white
+spermidine dehydrogenase	1.5.99.6	4-Aminobutyraldehyde	H2O	R01914	white
+spermidine dehydrogenase	1.5.99.6	4-Aminobutyraldehyde	Oxygen	R01914	white
+spermidine dehydrogenase	1.5.99.6	4-Aminobutyraldehyde	Spermidine	R01914	white
+spermidine dehydrogenase	1.5.99.6	H2O	1,3-Diaminopropane	R01914	white
+spermidine dehydrogenase	1.5.99.6	H2O	4-Aminobutyraldehyde	R01914	white
+spermidine dehydrogenase	1.5.99.6	H2O	Hydrogen peroxide	R01914	white
+spermidine dehydrogenase	1.5.99.6	Hydrogen peroxide	H2O	R01914	white
+spermidine dehydrogenase	1.5.99.6	Hydrogen peroxide	Oxygen	R01914	white
+spermidine dehydrogenase	1.5.99.6	Hydrogen peroxide	Spermidine	R01914	white
+spermidine dehydrogenase	1.5.99.6	Oxygen	1,3-Diaminopropane	R01914	white
+spermidine dehydrogenase	1.5.99.6	Oxygen	4-Aminobutyraldehyde	R01914	white
+spermidine dehydrogenase	1.5.99.6	Oxygen	Hydrogen peroxide	R01914	white
+spermidine dehydrogenase	1.5.99.6	Spermidine	1,3-Diaminopropane	R01914	white
+spermidine dehydrogenase	1.5.99.6	Spermidine	4-Aminobutyraldehyde	R01914	white
+spermidine dehydrogenase	1.5.99.6	Spermidine	Hydrogen peroxide	R01914	white
+spermidine synthase	2.5.1.16	Putrescine	5'-Methylthioadenosine	R01920	green
+spermidine synthase	2.5.1.16	Putrescine	Spermidine	R01920	green
+spermidine synthase	2.5.1.16	S-Adenosylmethioninamine	5'-Methylthioadenosine	R01920	green
+spermidine synthase	2.5.1.16	S-Adenosylmethioninamine	Spermidine	R01920	green
+spermine oxidase	1.5.3.16	3-Aminopropanal	H2O	R09076	white
+spermine oxidase	1.5.3.16	3-Aminopropanal	Oxygen	R09076	white
+spermine oxidase	1.5.3.16	3-Aminopropanal	Spermine	R09076	white
+spermine oxidase	1.5.3.16	H2O	3-Aminopropanal	R09076	white
+spermine oxidase	1.5.3.16	H2O	Hydrogen peroxide	R09076	white
+spermine oxidase	1.5.3.16	H2O	Spermidine	R09076	white
+spermine oxidase	1.5.3.16	Hydrogen peroxide	H2O	R09076	white
+spermine oxidase	1.5.3.16	Hydrogen peroxide	Oxygen	R09076	white
+spermine oxidase	1.5.3.16	Hydrogen peroxide	Spermine	R09076	white
+spermine oxidase	1.5.3.16	Oxygen	3-Aminopropanal	R09076	white
+spermine oxidase	1.5.3.16	Oxygen	Hydrogen peroxide	R09076	white
+spermine oxidase	1.5.3.16	Oxygen	Spermidine	R09076	white
+spermine oxidase	1.5.3.16	Spermidine	H2O	R09076	white
+spermine oxidase	1.5.3.16	Spermidine	Oxygen	R09076	white
+spermine oxidase	1.5.3.16	Spermidine	Spermine	R09076	white
+spermine oxidase	1.5.3.16	Spermine	3-Aminopropanal	R09076	white
+spermine oxidase	1.5.3.16	Spermine	Hydrogen peroxide	R09076	white
+spermine oxidase	1.5.3.16	Spermine	Spermidine	R09076	white
+spermine synthase	2.5.1.22	5'-Methylthioadenosine	S-Adenosylmethioninamine	R02869	white
+spermine synthase	2.5.1.22	5'-Methylthioadenosine	Spermidine	R02869	white
+spermine synthase	2.5.1.22	S-Adenosylmethioninamine	5'-Methylthioadenosine	R02869	white
+spermine synthase	2.5.1.22	S-Adenosylmethioninamine	Spermine	R02869	white
+spermine synthase	2.5.1.22	Spermidine	5'-Methylthioadenosine	R02869	white
+spermine synthase	2.5.1.22	Spermidine	Spermine	R02869	white
+spermine synthase	2.5.1.22	Spermine	S-Adenosylmethioninamine	R02869	white
+spermine synthase	2.5.1.22	Spermine	Spermidine	R02869	white
+succinylarginine dihydrolase	3.5.3.23	Ammonia	H2O	R04189	white
+succinylarginine dihydrolase	3.5.3.23	Ammonia	N2-Succinyl-L-arginine	R04189	white
+succinylarginine dihydrolase	3.5.3.23	CO2	H2O	R04189	white
+succinylarginine dihydrolase	3.5.3.23	CO2	N2-Succinyl-L-arginine	R04189	white
+succinylarginine dihydrolase	3.5.3.23	H2O	Ammonia	R04189	white
+succinylarginine dihydrolase	3.5.3.23	H2O	CO2	R04189	white
+succinylarginine dihydrolase	3.5.3.23	H2O	N2-Succinyl-L-ornithine	R04189	white
+succinylarginine dihydrolase	3.5.3.23	N2-Succinyl-L-arginine	Ammonia	R04189	white
+succinylarginine dihydrolase	3.5.3.23	N2-Succinyl-L-arginine	CO2	R04189	white
+succinylarginine dihydrolase	3.5.3.23	N2-Succinyl-L-arginine	N2-Succinyl-L-ornithine	R04189	white
+succinylarginine dihydrolase	3.5.3.23	N2-Succinyl-L-ornithine	H2O	R04189	white
+succinylarginine dihydrolase	3.5.3.23	N2-Succinyl-L-ornithine	N2-Succinyl-L-arginine	R04189	white
+succinylglutamate desuccinylase	3.5.1.96	H2O	L-Glutamate	R00411	white
+succinylglutamate desuccinylase	3.5.1.96	H2O	Succinate	R00411	white
+succinylglutamate desuccinylase	3.5.1.96	L-Glutamate	H2O	R00411	white
+succinylglutamate desuccinylase	3.5.1.96	L-Glutamate	N-Succinyl-L-glutamate	R00411	white
+succinylglutamate desuccinylase	3.5.1.96	N-Succinyl-L-glutamate	L-Glutamate	R00411	white
+succinylglutamate desuccinylase	3.5.1.96	N-Succinyl-L-glutamate	Succinate	R00411	white
+succinylglutamate desuccinylase	3.5.1.96	Succinate	H2O	R00411	white
+succinylglutamate desuccinylase	3.5.1.96	Succinate	N-Succinyl-L-glutamate	R00411	white
+succinylglutamic semialdehyde dehydrogenase	1.2.1.71	H+	H2O	R05049	white
+succinylglutamic semialdehyde dehydrogenase	1.2.1.71	H+	N-Succinyl-L-glutamate 5-semialdehyde	R05049	white
+succinylglutamic semialdehyde dehydrogenase	1.2.1.71	H+	NAD+	R05049	white
+succinylglutamic semialdehyde dehydrogenase	1.2.1.71	H2O	H+	R05049	white
+succinylglutamic semialdehyde dehydrogenase	1.2.1.71	H2O	N-Succinyl-L-glutamate	R05049	white
+succinylglutamic semialdehyde dehydrogenase	1.2.1.71	H2O	NADH	R05049	white
+succinylglutamic semialdehyde dehydrogenase	1.2.1.71	N-Succinyl-L-glutamate	H2O	R05049	white
+succinylglutamic semialdehyde dehydrogenase	1.2.1.71	N-Succinyl-L-glutamate	N-Succinyl-L-glutamate 5-semialdehyde	R05049	white
+succinylglutamic semialdehyde dehydrogenase	1.2.1.71	N-Succinyl-L-glutamate	NAD+	R05049	white
+succinylglutamic semialdehyde dehydrogenase	1.2.1.71	N-Succinyl-L-glutamate 5-semialdehyde	H+	R05049	white
+succinylglutamic semialdehyde dehydrogenase	1.2.1.71	N-Succinyl-L-glutamate 5-semialdehyde	N-Succinyl-L-glutamate	R05049	white
+succinylglutamic semialdehyde dehydrogenase	1.2.1.71	N-Succinyl-L-glutamate 5-semialdehyde	NADH	R05049	white
+succinylglutamic semialdehyde dehydrogenase	1.2.1.71	NAD+	H+	R05049	white
+succinylglutamic semialdehyde dehydrogenase	1.2.1.71	NAD+	N-Succinyl-L-glutamate	R05049	white
+succinylglutamic semialdehyde dehydrogenase	1.2.1.71	NAD+	NADH	R05049	white
+succinylglutamic semialdehyde dehydrogenase	1.2.1.71	NADH	H2O	R05049	white
+succinylglutamic semialdehyde dehydrogenase	1.2.1.71	NADH	N-Succinyl-L-glutamate 5-semialdehyde	R05049	white
+succinylglutamic semialdehyde dehydrogenase	1.2.1.71	NADH	NAD+	R05049	white
+succinylornithine aminotransferase	2.6.1.81	2-Oxoglutarate	L-Glutamate	R04217	white
+succinylornithine aminotransferase	2.6.1.81	2-Oxoglutarate	N-Succinyl-L-glutamate 5-semialdehyde	R04217	white
+succinylornithine aminotransferase	2.6.1.81	L-Glutamate	2-Oxoglutarate	R04217	white
+succinylornithine aminotransferase	2.6.1.81	L-Glutamate	N2-Succinyl-L-ornithine	R04217	white
+succinylornithine aminotransferase	2.6.1.81	N-Succinyl-L-glutamate 5-semialdehyde	2-Oxoglutarate	R04217	white
+succinylornithine aminotransferase	2.6.1.81	N-Succinyl-L-glutamate 5-semialdehyde	N2-Succinyl-L-ornithine	R04217	white
+succinylornithine aminotransferase	2.6.1.81	N2-Succinyl-L-ornithine	L-Glutamate	R04217	white
+succinylornithine aminotransferase	2.6.1.81	N2-Succinyl-L-ornithine	N-Succinyl-L-glutamate 5-semialdehyde	R04217	white
+trans-4-hydroxy-L-proline dehydratase	4.2.1.172	(S)-1-Pyrroline-5-carboxylate	Hydroxyproline	R11819	white
+trans-4-hydroxy-L-proline dehydratase	4.2.1.172	H2O	Hydroxyproline	R11819	white
+trans-4-hydroxy-L-proline dehydratase	4.2.1.172	Hydroxyproline	(S)-1-Pyrroline-5-carboxylate	R11819	white
+trans-4-hydroxy-L-proline dehydratase	4.2.1.172	Hydroxyproline	H2O	R11819	white
+trans-L-3-hydroxyproline dehydratase	4.2.1.77	1-Pyrroline-2-carboxylate	trans-3-Hydroxy-L-proline	R04374	white
+trans-L-3-hydroxyproline dehydratase	4.2.1.77	H2O	trans-3-Hydroxy-L-proline	R04374	white
+trans-L-3-hydroxyproline dehydratase	4.2.1.77	trans-3-Hydroxy-L-proline	1-Pyrroline-2-carboxylate	R04374	white
+trans-L-3-hydroxyproline dehydratase	4.2.1.77	trans-3-Hydroxy-L-proline	H2O	R04374	white

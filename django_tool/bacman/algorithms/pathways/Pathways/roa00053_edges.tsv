@@ -1,418 +1,420 @@
-enzyme_name	EC	source	target	color
-2,5-dioxopentanoate dehydrogenase	1.2.1.26	2,5-Dioxopentanoate	2-Oxoglutarate	green
-2,5-dioxopentanoate dehydrogenase	1.2.1.26	2,5-Dioxopentanoate	H+	green
-2,5-dioxopentanoate dehydrogenase	1.2.1.26	2,5-Dioxopentanoate	NADPH	green
-2,5-dioxopentanoate dehydrogenase	1.2.1.26	2-Oxoglutarate	2,5-Dioxopentanoate	green
-2,5-dioxopentanoate dehydrogenase	1.2.1.26	2-Oxoglutarate	H2O	green
-2,5-dioxopentanoate dehydrogenase	1.2.1.26	2-Oxoglutarate	NADP+	green
-2,5-dioxopentanoate dehydrogenase	1.2.1.26	H+	2,5-Dioxopentanoate	green
-2,5-dioxopentanoate dehydrogenase	1.2.1.26	H+	H2O	green
-2,5-dioxopentanoate dehydrogenase	1.2.1.26	H+	NADP+	green
-2,5-dioxopentanoate dehydrogenase	1.2.1.26	H2O	2-Oxoglutarate	green
-2,5-dioxopentanoate dehydrogenase	1.2.1.26	H2O	H+	green
-2,5-dioxopentanoate dehydrogenase	1.2.1.26	H2O	NADPH	green
-2,5-dioxopentanoate dehydrogenase	1.2.1.26	NADP+	2-Oxoglutarate	green
-2,5-dioxopentanoate dehydrogenase	1.2.1.26	NADP+	H+	green
-2,5-dioxopentanoate dehydrogenase	1.2.1.26	NADP+	NADPH	green
-2,5-dioxopentanoate dehydrogenase	1.2.1.26	NADPH	2,5-Dioxopentanoate	green
-2,5-dioxopentanoate dehydrogenase	1.2.1.26	NADPH	H2O	green
-2,5-dioxopentanoate dehydrogenase	1.2.1.26	NADPH	NADP+	green
-2-dehydro-3-deoxy-D-arabinonate dehydratase	4.2.1.141	2,5-Dioxopentanoate	2-Dehydro-3-deoxy-D-xylonate	white
-2-dehydro-3-deoxy-D-arabinonate dehydratase	4.2.1.141	2-Dehydro-3-deoxy-D-xylonate	2,5-Dioxopentanoate	white
-2-dehydro-3-deoxy-D-arabinonate dehydratase	4.2.1.141	2-Dehydro-3-deoxy-D-xylonate	H2O	white
-2-dehydro-3-deoxy-D-arabinonate dehydratase	4.2.1.141	H2O	2-Dehydro-3-deoxy-D-xylonate	white
-2-dehydro-3-deoxyglucarate aldolase	4.1.2.20	2-Hydroxy-3-oxopropanoate	5-Dehydro-4-deoxy-D-glucarate	white
-2-dehydro-3-deoxyglucarate aldolase	4.1.2.20	5-Dehydro-4-deoxy-D-glucarate	2-Hydroxy-3-oxopropanoate	white
-2-dehydro-3-deoxyglucarate aldolase	4.1.2.20	5-Dehydro-4-deoxy-D-glucarate	Pyruvate	white
-2-dehydro-3-deoxyglucarate aldolase	4.1.2.20	Pyruvate	5-Dehydro-4-deoxy-D-glucarate	white
-2-keto-3-deoxy-L-arabinonate dehydratase	4.2.1.43	2,5-Dioxopentanoate	2-Dehydro-3-deoxy-L-arabinonate	white
-2-keto-3-deoxy-L-arabinonate dehydratase	4.2.1.43	2-Dehydro-3-deoxy-L-arabinonate	2,5-Dioxopentanoate	white
-2-keto-3-deoxy-L-arabinonate dehydratase	4.2.1.43	2-Dehydro-3-deoxy-L-arabinonate	H2O	white
-2-keto-3-deoxy-L-arabinonate dehydratase	4.2.1.43	H2O	2-Dehydro-3-deoxy-L-arabinonate	white
-3-dehydro-L-gulonate 2-dehydrogenase	1.1.1.130	(4R,5S)-4,5,6-Trihydroxy-2,3-dioxohexanoate	3-Dehydro-L-gulonate	white
-3-dehydro-L-gulonate 2-dehydrogenase	1.1.1.130	(4R,5S)-4,5,6-Trihydroxy-2,3-dioxohexanoate	NAD+	white
-3-dehydro-L-gulonate 2-dehydrogenase	1.1.1.130	3-Dehydro-L-gulonate	(4R,5S)-4,5,6-Trihydroxy-2,3-dioxohexanoate	white
-3-dehydro-L-gulonate 2-dehydrogenase	1.1.1.130	3-Dehydro-L-gulonate	H+	white
-3-dehydro-L-gulonate 2-dehydrogenase	1.1.1.130	3-Dehydro-L-gulonate	NADH	white
-3-dehydro-L-gulonate 2-dehydrogenase	1.1.1.130	H+	3-Dehydro-L-gulonate	white
-3-dehydro-L-gulonate 2-dehydrogenase	1.1.1.130	H+	NAD+	white
-3-dehydro-L-gulonate 2-dehydrogenase	1.1.1.130	NAD+	(4R,5S)-4,5,6-Trihydroxy-2,3-dioxohexanoate	white
-3-dehydro-L-gulonate 2-dehydrogenase	1.1.1.130	NAD+	H+	white
-3-dehydro-L-gulonate 2-dehydrogenase	1.1.1.130	NAD+	NADH	white
-3-dehydro-L-gulonate 2-dehydrogenase	1.1.1.130	NADH	3-Dehydro-L-gulonate	white
-3-dehydro-L-gulonate 2-dehydrogenase	1.1.1.130	NADH	NAD+	white
-3-dehydro-L-gulonate-6-phosphate decarboxylase	4.1.1.85	3-Dehydro-L-gulonate 6-phosphate	CO2	white
-3-dehydro-L-gulonate-6-phosphate decarboxylase	4.1.1.85	3-Dehydro-L-gulonate 6-phosphate	L-Xylulose 5-phosphate	white
-3-dehydro-L-gulonate-6-phosphate decarboxylase	4.1.1.85	CO2	3-Dehydro-L-gulonate 6-phosphate	white
-3-dehydro-L-gulonate-6-phosphate decarboxylase	4.1.1.85	CO2	H+	white
-3-dehydro-L-gulonate-6-phosphate decarboxylase	4.1.1.85	H+	CO2	white
-3-dehydro-L-gulonate-6-phosphate decarboxylase	4.1.1.85	H+	L-Xylulose 5-phosphate	white
-3-dehydro-L-gulonate-6-phosphate decarboxylase	4.1.1.85	L-Xylulose 5-phosphate	3-Dehydro-L-gulonate 6-phosphate	white
-3-dehydro-L-gulonate-6-phosphate decarboxylase	4.1.1.85	L-Xylulose 5-phosphate	H+	white
-5-dehydro-4-deoxyglucarate dehydratase	4.2.1.41	2,5-Dioxopentanoate	5-Dehydro-4-deoxy-D-glucarate	green
-5-dehydro-4-deoxyglucarate dehydratase	4.2.1.41	5-Dehydro-4-deoxy-D-glucarate	2,5-Dioxopentanoate	green
-5-dehydro-4-deoxyglucarate dehydratase	4.2.1.41	5-Dehydro-4-deoxy-D-glucarate	CO2	green
-5-dehydro-4-deoxyglucarate dehydratase	4.2.1.41	5-Dehydro-4-deoxy-D-glucarate	H2O	green
-5-dehydro-4-deoxyglucarate dehydratase	4.2.1.41	CO2	5-Dehydro-4-deoxy-D-glucarate	green
-5-dehydro-4-deoxyglucarate dehydratase	4.2.1.41	H2O	5-Dehydro-4-deoxy-D-glucarate	green
-D-arabinonate dehydratase	4.2.1.5	2-Dehydro-3-deoxy-D-xylonate	D-Arabinonate	white
-D-arabinonate dehydratase	4.2.1.5	D-Arabinonate	2-Dehydro-3-deoxy-D-xylonate	white
-D-arabinonate dehydratase	4.2.1.5	D-Arabinonate	H2O	white
-D-arabinonate dehydratase	4.2.1.5	H2O	D-Arabinonate	white
-D-arabinono-1,4-lactone oxidase	1.1.3.37	D-Arabinono-1,4-lactone	Dehydro-D-arabinono-1,4-lactone	white
-D-arabinono-1,4-lactone oxidase	1.1.3.37	D-Arabinono-1,4-lactone	Hydrogen peroxide	white
-D-arabinono-1,4-lactone oxidase	1.1.3.37	Dehydro-D-arabinono-1,4-lactone	D-Arabinono-1,4-lactone	white
-D-arabinono-1,4-lactone oxidase	1.1.3.37	Dehydro-D-arabinono-1,4-lactone	Oxygen	white
-D-arabinono-1,4-lactone oxidase	1.1.3.37	Hydrogen peroxide	D-Arabinono-1,4-lactone	white
-D-arabinono-1,4-lactone oxidase	1.1.3.37	Hydrogen peroxide	Oxygen	white
-D-arabinono-1,4-lactone oxidase	1.1.3.37	Oxygen	Dehydro-D-arabinono-1,4-lactone	white
-D-arabinono-1,4-lactone oxidase	1.1.3.37	Oxygen	Hydrogen peroxide	white
-D-arabinose 1-dehydrogenase	1.1.1.116	D-Arabinono-1,4-lactone	D-Arabinose	white
-D-arabinose 1-dehydrogenase	1.1.1.116	D-Arabinono-1,4-lactone	NAD+	white
-D-arabinose 1-dehydrogenase	1.1.1.116	D-Arabinose	D-Arabinono-1,4-lactone	white
-D-arabinose 1-dehydrogenase	1.1.1.116	D-Arabinose	H+	white
-D-arabinose 1-dehydrogenase	1.1.1.116	D-Arabinose	NADH	white
-D-arabinose 1-dehydrogenase	1.1.1.116	H+	D-Arabinose	white
-D-arabinose 1-dehydrogenase	1.1.1.116	H+	NAD+	white
-D-arabinose 1-dehydrogenase	1.1.1.116	NAD+	D-Arabinono-1,4-lactone	white
-D-arabinose 1-dehydrogenase	1.1.1.116	NAD+	H+	white
-D-arabinose 1-dehydrogenase	1.1.1.116	NAD+	NADH	white
-D-arabinose 1-dehydrogenase	1.1.1.116	NADH	D-Arabinose	white
-D-arabinose 1-dehydrogenase	1.1.1.116	NADH	NAD+	white
-D-arabinose 1-dehydrogenase (NADP+)	1.1.1.427	D-Arabinono-1,4-lactone	D-Arabinose	white
-D-arabinose 1-dehydrogenase (NADP+)	1.1.1.427	D-Arabinono-1,4-lactone	NADP+	white
-D-arabinose 1-dehydrogenase (NADP+)	1.1.1.427	D-Arabinose	D-Arabinono-1,4-lactone	white
-D-arabinose 1-dehydrogenase (NADP+)	1.1.1.427	D-Arabinose	H+	white
-D-arabinose 1-dehydrogenase (NADP+)	1.1.1.427	D-Arabinose	NADPH	white
-D-arabinose 1-dehydrogenase (NADP+)	1.1.1.427	H+	D-Arabinose	white
-D-arabinose 1-dehydrogenase (NADP+)	1.1.1.427	H+	NADP+	white
-D-arabinose 1-dehydrogenase (NADP+)	1.1.1.427	NADP+	D-Arabinono-1,4-lactone	white
-D-arabinose 1-dehydrogenase (NADP+)	1.1.1.427	NADP+	H+	white
-D-arabinose 1-dehydrogenase (NADP+)	1.1.1.427	NADP+	NADPH	white
-D-arabinose 1-dehydrogenase (NADP+)	1.1.1.427	NADPH	D-Arabinose	white
-D-arabinose 1-dehydrogenase (NADP+)	1.1.1.427	NADPH	NADP+	white
-D-galactarolactone cycloisomerase	5.5.1.27	5-Dehydro-4-deoxy-D-glucarate	D-Galactaro-1,4-lactone	white
-D-galactarolactone cycloisomerase	5.5.1.27	D-Galactaro-1,4-lactone	5-Dehydro-4-deoxy-D-glucarate	white
-D-galactarolactone isomerase	5.4.1.4	D-Galactaro-1,4-lactone	D-Galactaro-1,5-lactone	white
-D-galactarolactone isomerase	5.4.1.4	D-Galactaro-1,5-lactone	D-Galactaro-1,4-lactone	white
-D-galacturonate reductase	1.1.1.-	D-Galacturonate	L-Galactonate	white
-D-galacturonate reductase	1.1.1.-	D-Galacturonate	NADP+	white
-D-galacturonate reductase	1.1.1.-	H+	L-Galactonate	white
-D-galacturonate reductase	1.1.1.-	H+	NADP+	white
-D-galacturonate reductase	1.1.1.-	L-Galactonate	D-Galacturonate	white
-D-galacturonate reductase	1.1.1.-	L-Galactonate	H+	white
-D-galacturonate reductase	1.1.1.-	L-Galactonate	NADPH	white
-D-galacturonate reductase	1.1.1.-	NADP+	D-Galacturonate	white
-D-galacturonate reductase	1.1.1.-	NADP+	H+	white
-D-galacturonate reductase	1.1.1.-	NADP+	NADPH	white
-D-galacturonate reductase	1.1.1.-	NADPH	L-Galactonate	white
-D-galacturonate reductase	1.1.1.-	NADPH	NADP+	white
-D-threo-aldose 1-dehydrogenase	1.1.1.122	L-Galactose	H+	green
-D-threo-aldose 1-dehydrogenase	1.1.1.122	L-Galactose	L-Galactono-1,4-lactone	green
-D-threo-aldose 1-dehydrogenase	1.1.1.122	L-Galactose	NADH	green
-D-threo-aldose 1-dehydrogenase	1.1.1.122	NAD+	H+	green
-D-threo-aldose 1-dehydrogenase	1.1.1.122	NAD+	L-Galactono-1,4-lactone	green
-D-threo-aldose 1-dehydrogenase	1.1.1.122	NAD+	NADH	green
-D-xylono/L-arabinono-1,4-lactonase	3.1.1.68	D-Xylonate	D-Xylono-1,4-lactone	white
-D-xylono/L-arabinono-1,4-lactonase	3.1.1.68	D-Xylonate	H2O	white
-D-xylono/L-arabinono-1,4-lactonase	3.1.1.68	D-Xylono-1,4-lactone	D-Xylonate	white
-D-xylono/L-arabinono-1,4-lactonase	3.1.1.68	H2O	D-Xylonate	white
-GDP-D-mannose 3', 5'-epimerase	5.1.3.18	GDP-L-galactose	GDP-mannose	white
-GDP-D-mannose 3', 5'-epimerase	5.1.3.18	GDP-mannose	GDP-L-galactose	white
-GDP-L-galactose phosphorylase	2.7.7.69	D-Mannose 1-phosphate	GDP-mannose	white
-GDP-L-galactose phosphorylase	2.7.7.69	D-Mannose 1-phosphate	beta-L-Galactose 1-phosphate	white
-GDP-L-galactose phosphorylase	2.7.7.69	GDP-L-galactose	GDP-mannose	white
-GDP-L-galactose phosphorylase	2.7.7.69	GDP-L-galactose	beta-L-Galactose 1-phosphate	white
-GDP-L-galactose phosphorylase	2.7.7.69	GDP-mannose	D-Mannose 1-phosphate	white
-GDP-L-galactose phosphorylase	2.7.7.69	GDP-mannose	GDP-L-galactose	white
-GDP-L-galactose phosphorylase	2.7.7.69	beta-L-Galactose 1-phosphate	D-Mannose 1-phosphate	white
-GDP-L-galactose phosphorylase	2.7.7.69	beta-L-Galactose 1-phosphate	GDP-L-galactose	white
-L-arabinonolactonase	3.1.1.15	H2O	L-Arabinonate	white
-L-arabinonolactonase	3.1.1.15	L-Arabinonate	H2O	white
-L-arabinonolactonase	3.1.1.15	L-Arabinonate	L-Arabinono-1,4-lactone	white
-L-arabinonolactonase	3.1.1.15	L-Arabinono-1,4-lactone	L-Arabinonate	white
-L-arabinose 1-dehydrogenase	1.1.1.376	H+	L-Arabinose	white
-L-arabinose 1-dehydrogenase	1.1.1.376	H+	NAD+	white
-L-arabinose 1-dehydrogenase	1.1.1.376	L-Arabinono-1,4-lactone	L-Arabinose	white
-L-arabinose 1-dehydrogenase	1.1.1.376	L-Arabinono-1,4-lactone	NAD+	white
-L-arabinose 1-dehydrogenase	1.1.1.376	L-Arabinose	H+	white
-L-arabinose 1-dehydrogenase	1.1.1.376	L-Arabinose	L-Arabinono-1,4-lactone	white
-L-arabinose 1-dehydrogenase	1.1.1.376	L-Arabinose	NADH	white
-L-arabinose 1-dehydrogenase	1.1.1.376	NAD+	H+	white
-L-arabinose 1-dehydrogenase	1.1.1.376	NAD+	L-Arabinono-1,4-lactone	white
-L-arabinose 1-dehydrogenase	1.1.1.376	NAD+	NADH	white
-L-arabinose 1-dehydrogenase	1.1.1.376	NADH	L-Arabinose	white
-L-arabinose 1-dehydrogenase	1.1.1.376	NADH	NAD+	white
-L-arabinose 1-dehydrogenase [NAD(P)+]	1.1.1.376	H+	L-Arabinose	white
-L-arabinose 1-dehydrogenase [NAD(P)+]	1.1.1.376	H+	NAD+	white
-L-arabinose 1-dehydrogenase [NAD(P)+]	1.1.1.376	L-Arabinono-1,4-lactone	L-Arabinose	white
-L-arabinose 1-dehydrogenase [NAD(P)+]	1.1.1.376	L-Arabinono-1,4-lactone	NAD+	white
-L-arabinose 1-dehydrogenase [NAD(P)+]	1.1.1.376	L-Arabinose	H+	white
-L-arabinose 1-dehydrogenase [NAD(P)+]	1.1.1.376	L-Arabinose	L-Arabinono-1,4-lactone	white
-L-arabinose 1-dehydrogenase [NAD(P)+]	1.1.1.376	L-Arabinose	NADH	white
-L-arabinose 1-dehydrogenase [NAD(P)+]	1.1.1.376	NAD+	H+	white
-L-arabinose 1-dehydrogenase [NAD(P)+]	1.1.1.376	NAD+	L-Arabinono-1,4-lactone	white
-L-arabinose 1-dehydrogenase [NAD(P)+]	1.1.1.376	NAD+	NADH	white
-L-arabinose 1-dehydrogenase [NAD(P)+]	1.1.1.376	NADH	L-Arabinose	white
-L-arabinose 1-dehydrogenase [NAD(P)+]	1.1.1.376	NADH	NAD+	white
-L-arabonate dehydrase	4.2.1.25	2-Dehydro-3-deoxy-L-arabinonate	L-Arabinonate	white
-L-arabonate dehydrase	4.2.1.25	H2O	L-Arabinonate	white
-L-arabonate dehydrase	4.2.1.25	L-Arabinonate	2-Dehydro-3-deoxy-L-arabinonate	white
-L-arabonate dehydrase	4.2.1.25	L-Arabinonate	H2O	white
-L-ascorbate 6-phosphate lactonase	3.1.1.-	3-Dehydro-L-gulonate 6-phosphate	H2O	white
-L-ascorbate 6-phosphate lactonase	3.1.1.-	3-Dehydro-L-gulonate 6-phosphate	L-Ascorbate 6-phosphate	white
-L-ascorbate 6-phosphate lactonase	3.1.1.-	H2O	3-Dehydro-L-gulonate 6-phosphate	white
-L-ascorbate 6-phosphate lactonase	3.1.1.-	L-Ascorbate 6-phosphate	3-Dehydro-L-gulonate 6-phosphate	white
-L-ascorbate oxidase	1.10.3.3	Ascorbate	Dehydroascorbate	white
-L-ascorbate oxidase	1.10.3.3	Ascorbate	H2O	white
-L-ascorbate oxidase	1.10.3.3	Dehydroascorbate	Ascorbate	white
-L-ascorbate oxidase	1.10.3.3	Dehydroascorbate	Oxygen	white
-L-ascorbate oxidase	1.10.3.3	H2O	Ascorbate	white
-L-ascorbate oxidase	1.10.3.3	H2O	Oxygen	white
-L-ascorbate oxidase	1.10.3.3	Oxygen	Dehydroascorbate	white
-L-ascorbate oxidase	1.10.3.3	Oxygen	H2O	white
-L-ascorbate peroxidase	1.11.1.11	Ascorbate	Dehydroascorbate	white
-L-ascorbate peroxidase	1.11.1.11	Ascorbate	H2O	white
-L-ascorbate peroxidase	1.11.1.11	Dehydroascorbate	Ascorbate	white
-L-ascorbate peroxidase	1.11.1.11	Dehydroascorbate	Hydrogen peroxide	white
-L-ascorbate peroxidase	1.11.1.11	H2O	Ascorbate	white
-L-ascorbate peroxidase	1.11.1.11	H2O	Hydrogen peroxide	white
-L-ascorbate peroxidase	1.11.1.11	Hydrogen peroxide	Dehydroascorbate	white
-L-ascorbate peroxidase	1.11.1.11	Hydrogen peroxide	H2O	white
-L-galactonate 5-dehydrogenase	1.1.1.414	D-Tagaturonate	L-Galactonate	white
-L-galactonate 5-dehydrogenase	1.1.1.414	D-Tagaturonate	NAD+	white
-L-galactonate 5-dehydrogenase	1.1.1.414	H+	L-Galactonate	white
-L-galactonate 5-dehydrogenase	1.1.1.414	H+	NAD+	white
-L-galactonate 5-dehydrogenase	1.1.1.414	L-Galactonate	D-Tagaturonate	white
-L-galactonate 5-dehydrogenase	1.1.1.414	L-Galactonate	H+	white
-L-galactonate 5-dehydrogenase	1.1.1.414	L-Galactonate	NADH	white
-L-galactonate 5-dehydrogenase	1.1.1.414	NAD+	D-Tagaturonate	white
-L-galactonate 5-dehydrogenase	1.1.1.414	NAD+	H+	white
-L-galactonate 5-dehydrogenase	1.1.1.414	NAD+	NADH	white
-L-galactonate 5-dehydrogenase	1.1.1.414	NADH	L-Galactonate	white
-L-galactonate 5-dehydrogenase	1.1.1.414	NADH	NAD+	white
-L-galactono-1,4-lactone dehydrogenase	1.3.2.3	Ascorbate	Ferricytochrome c	white
-L-galactono-1,4-lactone dehydrogenase	1.3.2.3	Ascorbate	L-Galactono-1,4-lactone	white
-L-galactono-1,4-lactone dehydrogenase	1.3.2.3	Ferricytochrome c	Ascorbate	white
-L-galactono-1,4-lactone dehydrogenase	1.3.2.3	Ferricytochrome c	Ferrocytochrome c	white
-L-galactono-1,4-lactone dehydrogenase	1.3.2.3	Ferricytochrome c	H+	white
-L-galactono-1,4-lactone dehydrogenase	1.3.2.3	Ferrocytochrome c	Ferricytochrome c	white
-L-galactono-1,4-lactone dehydrogenase	1.3.2.3	Ferrocytochrome c	L-Galactono-1,4-lactone	white
-L-galactono-1,4-lactone dehydrogenase	1.3.2.3	H+	Ferricytochrome c	white
-L-galactono-1,4-lactone dehydrogenase	1.3.2.3	H+	L-Galactono-1,4-lactone	white
-L-galactono-1,4-lactone dehydrogenase	1.3.2.3	L-Galactono-1,4-lactone	Ascorbate	white
-L-galactono-1,4-lactone dehydrogenase	1.3.2.3	L-Galactono-1,4-lactone	Ferrocytochrome c	white
-L-galactono-1,4-lactone dehydrogenase	1.3.2.3	L-Galactono-1,4-lactone	H+	white
-L-galactono-1,5-lactonase	3.1.1.-	H2O	L-Galactonate	white
-L-galactono-1,5-lactonase	3.1.1.-	L-Galactonate	H2O	white
-L-galactono-1,5-lactonase	3.1.1.-	L-Galactonate	L-Galactono-1,5-lactone	white
-L-galactono-1,5-lactonase	3.1.1.-	L-Galactono-1,5-lactone	L-Galactonate	white
-L-galactose dehydrogenase	1.1.1.316	H+	L-Galactose	white
-L-galactose dehydrogenase	1.1.1.316	H+	NAD+	white
-L-galactose dehydrogenase	1.1.1.316	L-Galactono-1,4-lactone	L-Galactose	white
-L-galactose dehydrogenase	1.1.1.316	L-Galactono-1,4-lactone	NAD+	white
-L-galactose dehydrogenase	1.1.1.316	L-Galactose	H+	white
-L-galactose dehydrogenase	1.1.1.316	L-Galactose	L-Galactono-1,4-lactone	white
-L-galactose dehydrogenase	1.1.1.316	L-Galactose	NADH	white
-L-galactose dehydrogenase	1.1.1.316	NAD+	H+	white
-L-galactose dehydrogenase	1.1.1.316	NAD+	L-Galactono-1,4-lactone	white
-L-galactose dehydrogenase	1.1.1.316	NAD+	NADH	white
-L-galactose dehydrogenase	1.1.1.316	NADH	L-Galactose	white
-L-galactose dehydrogenase	1.1.1.316	NADH	NAD+	white
-L-gulonolactone oxidase	1.1.3.8	Hydrogen peroxide	L-Gulono-1,4-lactone	white
-L-gulonolactone oxidase	1.1.3.8	Hydrogen peroxide	Oxygen	white
-L-gulonolactone oxidase	1.1.3.8	L-Gulono-1,4-lactone	Hydrogen peroxide	white
-L-gulonolactone oxidase	1.1.3.8	L-Gulono-1,4-lactone	L-xylo-Hexulonolactone	white
-L-gulonolactone oxidase	1.1.3.8	L-xylo-Hexulonolactone	L-Gulono-1,4-lactone	white
-L-gulonolactone oxidase	1.1.3.8	L-xylo-Hexulonolactone	Oxygen	white
-L-gulonolactone oxidase	1.1.3.8	Oxygen	Hydrogen peroxide	white
-L-gulonolactone oxidase	1.1.3.8	Oxygen	L-xylo-Hexulonolactone	white
-L-lyxonate dehydratase	4.2.1.176	2-Dehydro-3-deoxy-L-arabinonate	L-Lyxonate	white
-L-lyxonate dehydratase	4.2.1.176	H2O	L-Lyxonate	white
-L-lyxonate dehydratase	4.2.1.176	L-Lyxonate	2-Dehydro-3-deoxy-L-arabinonate	white
-L-lyxonate dehydratase	4.2.1.176	L-Lyxonate	H2O	white
-L-ribulose-5-phosphate 3-epimerase	5.1.3.22	L-Ribulose 5-phosphate	L-Xylulose 5-phosphate	white
-L-ribulose-5-phosphate 3-epimerase	5.1.3.22	L-Xylulose 5-phosphate	L-Ribulose 5-phosphate	white
-L-ribulose-5-phosphate 4-epimerase	5.1.3.4	D-Xylulose 5-phosphate	L-Ribulose 5-phosphate	white
-L-ribulose-5-phosphate 4-epimerase	5.1.3.4	L-Ribulose 5-phosphate	D-Xylulose 5-phosphate	white
-L-talarate/galactarate dehydratase	4.2.1.156	5-Dehydro-4-deoxy-D-glucarate	D-Galactarate	white
-L-talarate/galactarate dehydratase	4.2.1.156	D-Galactarate	5-Dehydro-4-deoxy-D-glucarate	white
-L-talarate/galactarate dehydratase	4.2.1.156	D-Galactarate	H2O	white
-L-talarate/galactarate dehydratase	4.2.1.156	H2O	D-Galactarate	white
-L-xylulokinase	2.7.1.53	ADP	ATP	white
-L-xylulokinase	2.7.1.53	ADP	L-Xylulose	white
-L-xylulokinase	2.7.1.53	ATP	ADP	white
-L-xylulokinase	2.7.1.53	ATP	L-Xylulose 5-phosphate	white
-L-xylulokinase	2.7.1.53	L-Xylulose	ADP	white
-L-xylulokinase	2.7.1.53	L-Xylulose	L-Xylulose 5-phosphate	white
-L-xylulokinase	2.7.1.53	L-Xylulose 5-phosphate	ATP	white
-L-xylulokinase	2.7.1.53	L-Xylulose 5-phosphate	L-Xylulose	white
-UDP-glucuronate 4-epimerase	5.1.3.6	UDP-D-galacturonate	UDP-glucuronate	white
-UDP-glucuronate 4-epimerase	5.1.3.6	UDP-glucuronate	UDP-D-galacturonate	white
-UDP-sugar pyrophosphorylase	2.7.7.64	D-Glucose 1-phosphate	Diphosphate	white
-UDP-sugar pyrophosphorylase	2.7.7.64	D-Glucose 1-phosphate	UDP-glucose	white
-UDP-sugar pyrophosphorylase	2.7.7.64	Diphosphate	D-Glucose 1-phosphate	white
-UDP-sugar pyrophosphorylase	2.7.7.64	Diphosphate	UTP	white
-UDP-sugar pyrophosphorylase	2.7.7.64	UDP-glucose	D-Glucose 1-phosphate	white
-UDP-sugar pyrophosphorylase	2.7.7.64	UDP-glucose	UTP	white
-UDP-sugar pyrophosphorylase	2.7.7.64	UTP	Diphosphate	white
-UDP-sugar pyrophosphorylase	2.7.7.64	UTP	UDP-glucose	white
-UDPglucose 6-dehydrogenase	1.1.1.22	H2O	H+	green
-UDPglucose 6-dehydrogenase	1.1.1.22	H2O	NADH	green
-UDPglucose 6-dehydrogenase	1.1.1.22	H2O	UDP-glucuronate	green
-UDPglucose 6-dehydrogenase	1.1.1.22	NAD+	H+	green
-UDPglucose 6-dehydrogenase	1.1.1.22	NAD+	NADH	green
-UDPglucose 6-dehydrogenase	1.1.1.22	NAD+	UDP-glucuronate	green
-UDPglucose 6-dehydrogenase	1.1.1.22	UDP-glucose	H+	green
-UDPglucose 6-dehydrogenase	1.1.1.22	UDP-glucose	NADH	green
-UDPglucose 6-dehydrogenase	1.1.1.22	UDP-glucose	UDP-glucuronate	green
-alcohol dehydrogenase (NADP+)	1.1.1.2	Acetaldehyde	Ethanol	white
-alcohol dehydrogenase (NADP+)	1.1.1.2	Acetaldehyde	NADP+	white
-alcohol dehydrogenase (NADP+)	1.1.1.2	Ethanol	Acetaldehyde	white
-alcohol dehydrogenase (NADP+)	1.1.1.2	Ethanol	H+	white
-alcohol dehydrogenase (NADP+)	1.1.1.2	Ethanol	NADPH	white
-alcohol dehydrogenase (NADP+)	1.1.1.2	H+	Ethanol	white
-alcohol dehydrogenase (NADP+)	1.1.1.2	H+	NADP+	white
-alcohol dehydrogenase (NADP+)	1.1.1.2	NADP+	Acetaldehyde	white
-alcohol dehydrogenase (NADP+)	1.1.1.2	NADP+	H+	white
-alcohol dehydrogenase (NADP+)	1.1.1.2	NADP+	NADPH	white
-alcohol dehydrogenase (NADP+)	1.1.1.2	NADPH	Ethanol	white
-alcohol dehydrogenase (NADP+)	1.1.1.2	NADPH	NADP+	white
-aldehyde dehydrogenase (NAD+)	1.2.1.3	D-Glucarate	D-Glucuronolactone	green
-aldehyde dehydrogenase (NAD+)	1.2.1.3	D-Glucarate	H2O	green
-aldehyde dehydrogenase (NAD+)	1.2.1.3	D-Glucarate	NAD+	green
-aldehyde dehydrogenase (NAD+)	1.2.1.3	D-Glucuronolactone	D-Glucarate	green
-aldehyde dehydrogenase (NAD+)	1.2.1.3	D-Glucuronolactone	H+	green
-aldehyde dehydrogenase (NAD+)	1.2.1.3	D-Glucuronolactone	NADH	green
-aldehyde dehydrogenase (NAD+)	1.2.1.3	H+	D-Glucuronolactone	green
-aldehyde dehydrogenase (NAD+)	1.2.1.3	H+	H2O	green
-aldehyde dehydrogenase (NAD+)	1.2.1.3	H+	NAD+	green
-aldehyde dehydrogenase (NAD+)	1.2.1.3	H2O	D-Glucarate	green
-aldehyde dehydrogenase (NAD+)	1.2.1.3	H2O	H+	green
-aldehyde dehydrogenase (NAD+)	1.2.1.3	H2O	NADH	green
-aldehyde dehydrogenase (NAD+)	1.2.1.3	NAD+	D-Glucarate	green
-aldehyde dehydrogenase (NAD+)	1.2.1.3	NAD+	H+	green
-aldehyde dehydrogenase (NAD+)	1.2.1.3	NAD+	NADH	green
-aldehyde dehydrogenase (NAD+)	1.2.1.3	NADH	D-Glucuronolactone	green
-aldehyde dehydrogenase (NAD+)	1.2.1.3	NADH	H2O	green
-aldehyde dehydrogenase (NAD+)	1.2.1.3	NADH	NAD+	green
-ascorbate PTS system EIIA or EIIAB component	2.7.1.194	Ascorbate	L-Ascorbate 6-phosphate	white
-ascorbate PTS system EIIA or EIIAB component	2.7.1.194	Ascorbate	Protein histidine	white
-ascorbate PTS system EIIA or EIIAB component	2.7.1.194	L-Ascorbate 6-phosphate	Ascorbate	white
-ascorbate PTS system EIIA or EIIAB component	2.7.1.194	L-Ascorbate 6-phosphate	Protein N(pi)-phospho-L-histidine	white
-ascorbate PTS system EIIA or EIIAB component	2.7.1.194	Protein N(pi)-phospho-L-histidine	L-Ascorbate 6-phosphate	white
-ascorbate PTS system EIIA or EIIAB component	2.7.1.194	Protein N(pi)-phospho-L-histidine	Protein histidine	white
-ascorbate PTS system EIIA or EIIAB component	2.7.1.194	Protein histidine	Ascorbate	white
-ascorbate PTS system EIIA or EIIAB component	2.7.1.194	Protein histidine	Protein N(pi)-phospho-L-histidine	white
-ascorbate PTS system EIIB component	2.7.1.194	Ascorbate	L-Ascorbate 6-phosphate	white
-ascorbate PTS system EIIB component	2.7.1.194	Ascorbate	Protein histidine	white
-ascorbate PTS system EIIB component	2.7.1.194	L-Ascorbate 6-phosphate	Ascorbate	white
-ascorbate PTS system EIIB component	2.7.1.194	L-Ascorbate 6-phosphate	Protein N(pi)-phospho-L-histidine	white
-ascorbate PTS system EIIB component	2.7.1.194	Protein N(pi)-phospho-L-histidine	L-Ascorbate 6-phosphate	white
-ascorbate PTS system EIIB component	2.7.1.194	Protein N(pi)-phospho-L-histidine	Protein histidine	white
-ascorbate PTS system EIIB component	2.7.1.194	Protein histidine	Ascorbate	white
-ascorbate PTS system EIIB component	2.7.1.194	Protein histidine	Protein N(pi)-phospho-L-histidine	white
-ascorbate PTS system EIIC component	2.7.1.194	Ascorbate	L-Ascorbate 6-phosphate	white
-ascorbate PTS system EIIC component	2.7.1.194	Ascorbate	Protein histidine	white
-ascorbate PTS system EIIC component	2.7.1.194	L-Ascorbate 6-phosphate	Ascorbate	white
-ascorbate PTS system EIIC component	2.7.1.194	L-Ascorbate 6-phosphate	Protein N(pi)-phospho-L-histidine	white
-ascorbate PTS system EIIC component	2.7.1.194	Protein N(pi)-phospho-L-histidine	L-Ascorbate 6-phosphate	white
-ascorbate PTS system EIIC component	2.7.1.194	Protein N(pi)-phospho-L-histidine	Protein histidine	white
-ascorbate PTS system EIIC component	2.7.1.194	Protein histidine	Ascorbate	white
-ascorbate PTS system EIIC component	2.7.1.194	Protein histidine	Protein N(pi)-phospho-L-histidine	white
-beta-glucuronidase	3.2.1.31	Alcohol	H2O	white
-beta-glucuronidase	3.2.1.31	Alcohol	beta-D-Glucuronoside	white
-beta-glucuronidase	3.2.1.31	D-Glucuronate	H2O	white
-beta-glucuronidase	3.2.1.31	D-Glucuronate	beta-D-Glucuronoside	white
-beta-glucuronidase	3.2.1.31	H2O	Alcohol	white
-beta-glucuronidase	3.2.1.31	H2O	D-Glucuronate	white
-beta-glucuronidase	3.2.1.31	beta-D-Glucuronoside	Alcohol	white
-beta-glucuronidase	3.2.1.31	beta-D-Glucuronoside	D-Glucuronate	white
-galactarate dehydratase	4.2.1.42	5-Dehydro-4-deoxy-D-glucarate	D-Galactarate	white
-galactarate dehydratase	4.2.1.42	D-Galactarate	5-Dehydro-4-deoxy-D-glucarate	white
-galactarate dehydratase	4.2.1.42	D-Galactarate	H2O	white
-galactarate dehydratase	4.2.1.42	H2O	D-Galactarate	white
-glucarate dehydratase	4.2.1.40	2-Dehydro-3-deoxy-D-glucarate	D-Glucarate	green
-glucarate dehydratase	4.2.1.40	5-Dehydro-4-deoxy-D-glucarate	D-Glucarate	green
-glucarate dehydratase	4.2.1.40	D-Glucarate	2-Dehydro-3-deoxy-D-glucarate	green
-glucarate dehydratase	4.2.1.40	D-Glucarate	5-Dehydro-4-deoxy-D-glucarate	green
-glucarate dehydratase	4.2.1.40	D-Glucarate	H2O	green
-glucarate dehydratase	4.2.1.40	H2O	D-Glucarate	green
-gluconolactonase	3.1.1.17	H2O	L-Gulonate	green
-gluconolactonase	3.1.1.17	L-Gulonate	H2O	green
-gluconolactonase	3.1.1.17	L-Gulonate	L-Gulono-1,4-lactone	green
-gluconolactonase	3.1.1.17	L-Gulono-1,4-lactone	L-Gulonate	green
-glucuronokinase	2.7.1.43	ADP	ATP	white
-glucuronokinase	2.7.1.43	ADP	D-Glucuronate	white
-glucuronokinase	2.7.1.43	ATP	ADP	white
-glucuronokinase	2.7.1.43	ATP	D-Glucuronate 1-phosphate	white
-glucuronokinase	2.7.1.43	D-Glucuronate	ADP	white
-glucuronokinase	2.7.1.43	D-Glucuronate	D-Glucuronate 1-phosphate	white
-glucuronokinase	2.7.1.43	D-Glucuronate 1-phosphate	ATP	white
-glucuronokinase	2.7.1.43	D-Glucuronate 1-phosphate	D-Glucuronate	white
-glucuronosyltransferase	2.4.1.17	ROH	UDP	white
-glucuronosyltransferase	2.4.1.17	ROH	beta-D-Glucuronoside	white
-glucuronosyltransferase	2.4.1.17	UDP	ROH	white
-glucuronosyltransferase	2.4.1.17	UDP	UDP-glucuronate	white
-glucuronosyltransferase	2.4.1.17	UDP-glucuronate	UDP	white
-glucuronosyltransferase	2.4.1.17	UDP-glucuronate	beta-D-Glucuronoside	white
-glucuronosyltransferase	2.4.1.17	beta-D-Glucuronoside	ROH	white
-glucuronosyltransferase	2.4.1.17	beta-D-Glucuronoside	UDP-glucuronate	white
-glutathione dehydrogenase/transferase	1.8.5.1	Ascorbate	Dehydroascorbate	white
-glutathione dehydrogenase/transferase	1.8.5.1	Ascorbate	Glutathione	white
-glutathione dehydrogenase/transferase	1.8.5.1	Dehydroascorbate	Ascorbate	white
-glutathione dehydrogenase/transferase	1.8.5.1	Dehydroascorbate	Glutathione disulfide	white
-glutathione dehydrogenase/transferase	1.8.5.1	Glutathione	Ascorbate	white
-glutathione dehydrogenase/transferase	1.8.5.1	Glutathione	Glutathione disulfide	white
-glutathione dehydrogenase/transferase	1.8.5.1	Glutathione disulfide	Dehydroascorbate	white
-glutathione dehydrogenase/transferase	1.8.5.1	Glutathione disulfide	Glutathione	white
-inositol oxygenase	1.13.99.1	D-Glucuronate	Oxygen	white
-inositol oxygenase	1.13.99.1	D-Glucuronate	myo-Inositol	white
-inositol oxygenase	1.13.99.1	H2O	Oxygen	white
-inositol oxygenase	1.13.99.1	H2O	myo-Inositol	white
-inositol oxygenase	1.13.99.1	Oxygen	D-Glucuronate	white
-inositol oxygenase	1.13.99.1	Oxygen	H2O	white
-inositol oxygenase	1.13.99.1	myo-Inositol	D-Glucuronate	white
-inositol oxygenase	1.13.99.1	myo-Inositol	H2O	white
-inositol-phosphate phosphatase / L-galactose 1-phosphate phosphatase	3.1.3.25	H2O	Orthophosphate	white
-inositol-phosphate phosphatase / L-galactose 1-phosphate phosphatase	3.1.3.25	H2O	myo-Inositol	white
-inositol-phosphate phosphatase / L-galactose 1-phosphate phosphatase	3.1.3.25	Inositol 1-phosphate	Orthophosphate	white
-inositol-phosphate phosphatase / L-galactose 1-phosphate phosphatase	3.1.3.25	Inositol 1-phosphate	myo-Inositol	white
-inositol-phosphate phosphatase / L-galactose 1-phosphate phosphatase	3.1.3.25	Orthophosphate	H2O	white
-inositol-phosphate phosphatase / L-galactose 1-phosphate phosphatase	3.1.3.25	Orthophosphate	Inositol 1-phosphate	white
-inositol-phosphate phosphatase / L-galactose 1-phosphate phosphatase	3.1.3.25	myo-Inositol	H2O	white
-inositol-phosphate phosphatase / L-galactose 1-phosphate phosphatase	3.1.3.25	myo-Inositol	Inositol 1-phosphate	white
-inositol-phosphate phosphatase / L-galactose 1-phosphate phosphatase / histidinol-phosphatase	3.1.3.25	H2O	Orthophosphate	white
-inositol-phosphate phosphatase / L-galactose 1-phosphate phosphatase / histidinol-phosphatase	3.1.3.25	H2O	myo-Inositol	white
-inositol-phosphate phosphatase / L-galactose 1-phosphate phosphatase / histidinol-phosphatase	3.1.3.25	Inositol 1-phosphate	Orthophosphate	white
-inositol-phosphate phosphatase / L-galactose 1-phosphate phosphatase / histidinol-phosphatase	3.1.3.25	Inositol 1-phosphate	myo-Inositol	white
-inositol-phosphate phosphatase / L-galactose 1-phosphate phosphatase / histidinol-phosphatase	3.1.3.25	Orthophosphate	H2O	white
-inositol-phosphate phosphatase / L-galactose 1-phosphate phosphatase / histidinol-phosphatase	3.1.3.25	Orthophosphate	Inositol 1-phosphate	white
-inositol-phosphate phosphatase / L-galactose 1-phosphate phosphatase / histidinol-phosphatase	3.1.3.25	myo-Inositol	H2O	white
-inositol-phosphate phosphatase / L-galactose 1-phosphate phosphatase / histidinol-phosphatase	3.1.3.25	myo-Inositol	Inositol 1-phosphate	white
-klotho	3.2.1.31	Alcohol	H2O	white
-klotho	3.2.1.31	Alcohol	beta-D-Glucuronoside	white
-klotho	3.2.1.31	D-Glucuronate	H2O	white
-klotho	3.2.1.31	D-Glucuronate	beta-D-Glucuronoside	white
-klotho	3.2.1.31	H2O	Alcohol	white
-klotho	3.2.1.31	H2O	D-Glucuronate	white
-klotho	3.2.1.31	beta-D-Glucuronoside	Alcohol	white
-klotho	3.2.1.31	beta-D-Glucuronoside	D-Glucuronate	white
-monodehydroascorbate reductase (NADH)	1.6.5.4	Ascorbate	H+	white
-monodehydroascorbate reductase (NADH)	1.6.5.4	Ascorbate	Monodehydroascorbate	white
-monodehydroascorbate reductase (NADH)	1.6.5.4	Ascorbate	NADH	white
-monodehydroascorbate reductase (NADH)	1.6.5.4	H+	Ascorbate	white
-monodehydroascorbate reductase (NADH)	1.6.5.4	H+	NAD+	white
-monodehydroascorbate reductase (NADH)	1.6.5.4	Monodehydroascorbate	Ascorbate	white
-monodehydroascorbate reductase (NADH)	1.6.5.4	Monodehydroascorbate	NAD+	white
-monodehydroascorbate reductase (NADH)	1.6.5.4	NAD+	H+	white
-monodehydroascorbate reductase (NADH)	1.6.5.4	NAD+	Monodehydroascorbate	white
-monodehydroascorbate reductase (NADH)	1.6.5.4	NAD+	NADH	white
-monodehydroascorbate reductase (NADH)	1.6.5.4	NADH	Ascorbate	white
-monodehydroascorbate reductase (NADH)	1.6.5.4	NADH	NAD+	white
-uronate dehydrogenase	1.1.1.203	D-Galacturonate	D-Galactaro-1,5-lactone	green
-uronate dehydrogenase	1.1.1.203	D-Galacturonate	H+	green
-uronate dehydrogenase	1.1.1.203	D-Galacturonate	NADH	green
-uronate dehydrogenase	1.1.1.203	NAD+	D-Galactaro-1,5-lactone	green
-uronate dehydrogenase	1.1.1.203	NAD+	H+	green
-uronate dehydrogenase	1.1.1.203	NAD+	NADH	green
+enzyme_name	EC	source	target	reaction	color
+2,5-dioxopentanoate dehydrogenase	1.2.1.26	2,5-Dioxopentanoate	2-Oxoglutarate	R00264	green
+2,5-dioxopentanoate dehydrogenase	1.2.1.26	2,5-Dioxopentanoate	H+	R00264	green
+2,5-dioxopentanoate dehydrogenase	1.2.1.26	2,5-Dioxopentanoate	NADPH	R00264	green
+2,5-dioxopentanoate dehydrogenase	1.2.1.26	2-Oxoglutarate	2,5-Dioxopentanoate	R00264	green
+2,5-dioxopentanoate dehydrogenase	1.2.1.26	2-Oxoglutarate	H2O	R00264	green
+2,5-dioxopentanoate dehydrogenase	1.2.1.26	2-Oxoglutarate	NADP+	R00264	green
+2,5-dioxopentanoate dehydrogenase	1.2.1.26	H+	2,5-Dioxopentanoate	R00264	green
+2,5-dioxopentanoate dehydrogenase	1.2.1.26	H+	H2O	R00264	green
+2,5-dioxopentanoate dehydrogenase	1.2.1.26	H+	NADP+	R00264	green
+2,5-dioxopentanoate dehydrogenase	1.2.1.26	H2O	2-Oxoglutarate	R00264	green
+2,5-dioxopentanoate dehydrogenase	1.2.1.26	H2O	H+	R00264	green
+2,5-dioxopentanoate dehydrogenase	1.2.1.26	H2O	NADPH	R00264	green
+2,5-dioxopentanoate dehydrogenase	1.2.1.26	NADP+	2-Oxoglutarate	R00264	green
+2,5-dioxopentanoate dehydrogenase	1.2.1.26	NADP+	H+	R00264	green
+2,5-dioxopentanoate dehydrogenase	1.2.1.26	NADP+	NADPH	R00264	green
+2,5-dioxopentanoate dehydrogenase	1.2.1.26	NADPH	2,5-Dioxopentanoate	R00264	green
+2,5-dioxopentanoate dehydrogenase	1.2.1.26	NADPH	H2O	R00264	green
+2,5-dioxopentanoate dehydrogenase	1.2.1.26	NADPH	NADP+	R00264	green
+2-dehydro-3-deoxy-D-arabinonate dehydratase	4.2.1.141	2,5-Dioxopentanoate	2-Dehydro-3-deoxy-D-xylonate	R09186	white
+2-dehydro-3-deoxy-D-arabinonate dehydratase	4.2.1.141	2-Dehydro-3-deoxy-D-xylonate	2,5-Dioxopentanoate	R09186	white
+2-dehydro-3-deoxy-D-arabinonate dehydratase	4.2.1.141	2-Dehydro-3-deoxy-D-xylonate	H2O	R09186	white
+2-dehydro-3-deoxy-D-arabinonate dehydratase	4.2.1.141	H2O	2-Dehydro-3-deoxy-D-xylonate	R09186	white
+2-dehydro-3-deoxyglucarate aldolase	4.1.2.20	2-Hydroxy-3-oxopropanoate	5-Dehydro-4-deoxy-D-glucarate	R02754	white
+2-dehydro-3-deoxyglucarate aldolase	4.1.2.20	5-Dehydro-4-deoxy-D-glucarate	2-Hydroxy-3-oxopropanoate	R02754	white
+2-dehydro-3-deoxyglucarate aldolase	4.1.2.20	5-Dehydro-4-deoxy-D-glucarate	Pyruvate	R02754	white
+2-dehydro-3-deoxyglucarate aldolase	4.1.2.20	Pyruvate	5-Dehydro-4-deoxy-D-glucarate	R02754	white
+2-keto-3-deoxy-L-arabinonate dehydratase	4.2.1.43	2,5-Dioxopentanoate	2-Dehydro-3-deoxy-L-arabinonate	R02278	white
+2-keto-3-deoxy-L-arabinonate dehydratase	4.2.1.43	2-Dehydro-3-deoxy-L-arabinonate	2,5-Dioxopentanoate	R02278	white
+2-keto-3-deoxy-L-arabinonate dehydratase	4.2.1.43	2-Dehydro-3-deoxy-L-arabinonate	H2O	R02278	white
+2-keto-3-deoxy-L-arabinonate dehydratase	4.2.1.43	H2O	2-Dehydro-3-deoxy-L-arabinonate	R02278	white
+3-dehydro-L-gulonate 2-dehydrogenase	1.1.1.130	(4R,5S)-4,5,6-Trihydroxy-2,3-dioxohexanoate	3-Dehydro-L-gulonate	R02637	white
+3-dehydro-L-gulonate 2-dehydrogenase	1.1.1.130	(4R,5S)-4,5,6-Trihydroxy-2,3-dioxohexanoate	NAD+	R02637	white
+3-dehydro-L-gulonate 2-dehydrogenase	1.1.1.130	3-Dehydro-L-gulonate	(4R,5S)-4,5,6-Trihydroxy-2,3-dioxohexanoate	R02637	white
+3-dehydro-L-gulonate 2-dehydrogenase	1.1.1.130	3-Dehydro-L-gulonate	H+	R02637	white
+3-dehydro-L-gulonate 2-dehydrogenase	1.1.1.130	3-Dehydro-L-gulonate	NADH	R02637	white
+3-dehydro-L-gulonate 2-dehydrogenase	1.1.1.130	H+	3-Dehydro-L-gulonate	R02637	white
+3-dehydro-L-gulonate 2-dehydrogenase	1.1.1.130	H+	NAD+	R02637	white
+3-dehydro-L-gulonate 2-dehydrogenase	1.1.1.130	NAD+	(4R,5S)-4,5,6-Trihydroxy-2,3-dioxohexanoate	R02637	white
+3-dehydro-L-gulonate 2-dehydrogenase	1.1.1.130	NAD+	H+	R02637	white
+3-dehydro-L-gulonate 2-dehydrogenase	1.1.1.130	NAD+	NADH	R02637	white
+3-dehydro-L-gulonate 2-dehydrogenase	1.1.1.130	NADH	3-Dehydro-L-gulonate	R02637	white
+3-dehydro-L-gulonate 2-dehydrogenase	1.1.1.130	NADH	NAD+	R02637	white
+3-dehydro-L-gulonate-6-phosphate decarboxylase	4.1.1.85	3-Dehydro-L-gulonate 6-phosphate	CO2	R07125	white
+3-dehydro-L-gulonate-6-phosphate decarboxylase	4.1.1.85	3-Dehydro-L-gulonate 6-phosphate	L-Xylulose 5-phosphate	R07125	white
+3-dehydro-L-gulonate-6-phosphate decarboxylase	4.1.1.85	CO2	3-Dehydro-L-gulonate 6-phosphate	R07125	white
+3-dehydro-L-gulonate-6-phosphate decarboxylase	4.1.1.85	CO2	H+	R07125	white
+3-dehydro-L-gulonate-6-phosphate decarboxylase	4.1.1.85	H+	CO2	R07125	white
+3-dehydro-L-gulonate-6-phosphate decarboxylase	4.1.1.85	H+	L-Xylulose 5-phosphate	R07125	white
+3-dehydro-L-gulonate-6-phosphate decarboxylase	4.1.1.85	L-Xylulose 5-phosphate	3-Dehydro-L-gulonate 6-phosphate	R07125	white
+3-dehydro-L-gulonate-6-phosphate decarboxylase	4.1.1.85	L-Xylulose 5-phosphate	H+	R07125	white
+5-dehydro-4-deoxyglucarate dehydratase	4.2.1.41	2,5-Dioxopentanoate	5-Dehydro-4-deoxy-D-glucarate	R02279	green
+5-dehydro-4-deoxyglucarate dehydratase	4.2.1.41	5-Dehydro-4-deoxy-D-glucarate	2,5-Dioxopentanoate	R02279	green
+5-dehydro-4-deoxyglucarate dehydratase	4.2.1.41	5-Dehydro-4-deoxy-D-glucarate	CO2	R02279	green
+5-dehydro-4-deoxyglucarate dehydratase	4.2.1.41	5-Dehydro-4-deoxy-D-glucarate	H2O	R02279	green
+5-dehydro-4-deoxyglucarate dehydratase	4.2.1.41	CO2	5-Dehydro-4-deoxy-D-glucarate	R02279	green
+5-dehydro-4-deoxyglucarate dehydratase	4.2.1.41	H2O	5-Dehydro-4-deoxy-D-glucarate	R02279	green
+D-arabinonate dehydratase	4.2.1.5	2-Dehydro-3-deoxy-D-xylonate	D-Arabinonate	R03032	white
+D-arabinonate dehydratase	4.2.1.5	D-Arabinonate	2-Dehydro-3-deoxy-D-xylonate	R03032	white
+D-arabinonate dehydratase	4.2.1.5	D-Arabinonate	H2O	R03032	white
+D-arabinonate dehydratase	4.2.1.5	H2O	D-Arabinonate	R03032	white
+D-arabinono-1,4-lactone oxidase	1.1.3.37	D-Arabinono-1,4-lactone	Dehydro-D-arabinono-1,4-lactone	R02715	white
+D-arabinono-1,4-lactone oxidase	1.1.3.37	D-Arabinono-1,4-lactone	Hydrogen peroxide	R02715	white
+D-arabinono-1,4-lactone oxidase	1.1.3.37	Dehydro-D-arabinono-1,4-lactone	D-Arabinono-1,4-lactone	R02715	white
+D-arabinono-1,4-lactone oxidase	1.1.3.37	Dehydro-D-arabinono-1,4-lactone	Oxygen	R02715	white
+D-arabinono-1,4-lactone oxidase	1.1.3.37	Hydrogen peroxide	D-Arabinono-1,4-lactone	R02715	white
+D-arabinono-1,4-lactone oxidase	1.1.3.37	Hydrogen peroxide	Oxygen	R02715	white
+D-arabinono-1,4-lactone oxidase	1.1.3.37	Oxygen	Dehydro-D-arabinono-1,4-lactone	R02715	white
+D-arabinono-1,4-lactone oxidase	1.1.3.37	Oxygen	Hydrogen peroxide	R02715	white
+D-arabinose 1-dehydrogenase	1.1.1.116	D-Arabinono-1,4-lactone	D-Arabinose	R01574	white
+D-arabinose 1-dehydrogenase	1.1.1.116	D-Arabinono-1,4-lactone	NAD+	R01574	white
+D-arabinose 1-dehydrogenase	1.1.1.116	D-Arabinose	D-Arabinono-1,4-lactone	R01574	white
+D-arabinose 1-dehydrogenase	1.1.1.116	D-Arabinose	H+	R01574	white
+D-arabinose 1-dehydrogenase	1.1.1.116	D-Arabinose	NADH	R01574	white
+D-arabinose 1-dehydrogenase	1.1.1.116	H+	D-Arabinose	R01574	white
+D-arabinose 1-dehydrogenase	1.1.1.116	H+	NAD+	R01574	white
+D-arabinose 1-dehydrogenase	1.1.1.116	NAD+	D-Arabinono-1,4-lactone	R01574	white
+D-arabinose 1-dehydrogenase	1.1.1.116	NAD+	H+	R01574	white
+D-arabinose 1-dehydrogenase	1.1.1.116	NAD+	NADH	R01574	white
+D-arabinose 1-dehydrogenase	1.1.1.116	NADH	D-Arabinose	R01574	white
+D-arabinose 1-dehydrogenase	1.1.1.116	NADH	NAD+	R01574	white
+D-arabinose 1-dehydrogenase (NADP+)	1.1.1.427	D-Arabinono-1,4-lactone	D-Arabinose	R01575	white
+D-arabinose 1-dehydrogenase (NADP+)	1.1.1.427	D-Arabinono-1,4-lactone	NADP+	R01575	white
+D-arabinose 1-dehydrogenase (NADP+)	1.1.1.427	D-Arabinose	D-Arabinono-1,4-lactone	R01575	white
+D-arabinose 1-dehydrogenase (NADP+)	1.1.1.427	D-Arabinose	H+	R01575	white
+D-arabinose 1-dehydrogenase (NADP+)	1.1.1.427	D-Arabinose	NADPH	R01575	white
+D-arabinose 1-dehydrogenase (NADP+)	1.1.1.427	H+	D-Arabinose	R01575	white
+D-arabinose 1-dehydrogenase (NADP+)	1.1.1.427	H+	NADP+	R01575	white
+D-arabinose 1-dehydrogenase (NADP+)	1.1.1.427	NADP+	D-Arabinono-1,4-lactone	R01575	white
+D-arabinose 1-dehydrogenase (NADP+)	1.1.1.427	NADP+	H+	R01575	white
+D-arabinose 1-dehydrogenase (NADP+)	1.1.1.427	NADP+	NADPH	R01575	white
+D-arabinose 1-dehydrogenase (NADP+)	1.1.1.427	NADPH	D-Arabinose	R01575	white
+D-arabinose 1-dehydrogenase (NADP+)	1.1.1.427	NADPH	NADP+	R01575	white
+D-galactarolactone cycloisomerase	5.5.1.27	5-Dehydro-4-deoxy-D-glucarate	D-Galactaro-1,4-lactone	R10847	white
+D-galactarolactone cycloisomerase	5.5.1.27	D-Galactaro-1,4-lactone	5-Dehydro-4-deoxy-D-glucarate	R10847	white
+D-galactarolactone isomerase	5.4.1.4	D-Galactaro-1,4-lactone	D-Galactaro-1,5-lactone	R10846	white
+D-galactarolactone isomerase	5.4.1.4	D-Galactaro-1,5-lactone	D-Galactaro-1,4-lactone	R10846	white
+D-galacturonate reductase	1.1.1.-	D-Galacturonate	L-Galactonate	R07676	white
+D-galacturonate reductase	1.1.1.-	D-Galacturonate	NADP+	R07676	white
+D-galacturonate reductase	1.1.1.-	H+	L-Galactonate	R07676	white
+D-galacturonate reductase	1.1.1.-	H+	NADP+	R07676	white
+D-galacturonate reductase	1.1.1.-	L-Galactonate	D-Galacturonate	R07676	white
+D-galacturonate reductase	1.1.1.-	L-Galactonate	H+	R07676	white
+D-galacturonate reductase	1.1.1.-	L-Galactonate	NADPH	R07676	white
+D-galacturonate reductase	1.1.1.-	NADP+	D-Galacturonate	R07676	white
+D-galacturonate reductase	1.1.1.-	NADP+	H+	R07676	white
+D-galacturonate reductase	1.1.1.-	NADP+	NADPH	R07676	white
+D-galacturonate reductase	1.1.1.-	NADPH	L-Galactonate	R07676	white
+D-galacturonate reductase	1.1.1.-	NADPH	NADP+	R07676	white
+D-threo-aldose 1-dehydrogenase	1.1.1.122	L-Galactose	H+	R07675	green
+D-threo-aldose 1-dehydrogenase	1.1.1.122	L-Galactose	L-Galactono-1,4-lactone	R07675	green
+D-threo-aldose 1-dehydrogenase	1.1.1.122	L-Galactose	NADH	R07675	green
+D-threo-aldose 1-dehydrogenase	1.1.1.122	NAD+	H+	R07675	green
+D-threo-aldose 1-dehydrogenase	1.1.1.122	NAD+	L-Galactono-1,4-lactone	R07675	green
+D-threo-aldose 1-dehydrogenase	1.1.1.122	NAD+	NADH	R07675	green
+D-xylono/L-arabinono-1,4-lactonase	3.1.1.68	D-Xylonate	D-Xylono-1,4-lactone	R02428	white
+D-xylono/L-arabinono-1,4-lactonase	3.1.1.68	D-Xylonate	H2O	R02428	white
+D-xylono/L-arabinono-1,4-lactonase	3.1.1.68	D-Xylono-1,4-lactone	D-Xylonate	R02428	white
+D-xylono/L-arabinono-1,4-lactonase	3.1.1.68	H2O	D-Xylonate	R02428	white
+GDP-D-mannose 3', 5'-epimerase	5.1.3.18	GDP-L-galactose	GDP-mannose	R00889	white
+GDP-D-mannose 3', 5'-epimerase	5.1.3.18	GDP-mannose	GDP-L-galactose	R00889	white
+GDP-L-galactose phosphorylase	2.7.7.69	D-Mannose 1-phosphate	GDP-mannose	R07678	white
+GDP-L-galactose phosphorylase	2.7.7.69	D-Mannose 1-phosphate	beta-L-Galactose 1-phosphate	R07678	white
+GDP-L-galactose phosphorylase	2.7.7.69	GDP-L-galactose	GDP-mannose	R07678	white
+GDP-L-galactose phosphorylase	2.7.7.69	GDP-L-galactose	beta-L-Galactose 1-phosphate	R07678	white
+GDP-L-galactose phosphorylase	2.7.7.69	GDP-mannose	D-Mannose 1-phosphate	R07678	white
+GDP-L-galactose phosphorylase	2.7.7.69	GDP-mannose	GDP-L-galactose	R07678	white
+GDP-L-galactose phosphorylase	2.7.7.69	beta-L-Galactose 1-phosphate	D-Mannose 1-phosphate	R07678	white
+GDP-L-galactose phosphorylase	2.7.7.69	beta-L-Galactose 1-phosphate	GDP-L-galactose	R07678	white
+L-arabinonolactonase	3.1.1.15	H2O	L-Arabinonate	R02526	white
+L-arabinonolactonase	3.1.1.15	L-Arabinonate	H2O	R02526	white
+L-arabinonolactonase	3.1.1.15	L-Arabinonate	L-Arabinono-1,4-lactone	R02526	white
+L-arabinonolactonase	3.1.1.15	L-Arabinono-1,4-lactone	L-Arabinonate	R02526	white
+L-arabinose 1-dehydrogenase	1.1.1.376	H+	L-Arabinose	R01757	white
+L-arabinose 1-dehydrogenase	1.1.1.376	H+	NAD+	R01757	white
+L-arabinose 1-dehydrogenase	1.1.1.376	L-Arabinono-1,4-lactone	L-Arabinose	R01757	white
+L-arabinose 1-dehydrogenase	1.1.1.376	L-Arabinono-1,4-lactone	NAD+	R01757	white
+L-arabinose 1-dehydrogenase	1.1.1.376	L-Arabinose	H+	R01757	white
+L-arabinose 1-dehydrogenase	1.1.1.376	L-Arabinose	L-Arabinono-1,4-lactone	R01757	white
+L-arabinose 1-dehydrogenase	1.1.1.376	L-Arabinose	NADH	R01757	white
+L-arabinose 1-dehydrogenase	1.1.1.376	NAD+	H+	R01757	white
+L-arabinose 1-dehydrogenase	1.1.1.376	NAD+	L-Arabinono-1,4-lactone	R01757	white
+L-arabinose 1-dehydrogenase	1.1.1.376	NAD+	NADH	R01757	white
+L-arabinose 1-dehydrogenase	1.1.1.376	NADH	L-Arabinose	R01757	white
+L-arabinose 1-dehydrogenase	1.1.1.376	NADH	NAD+	R01757	white
+L-arabinose 1-dehydrogenase [NAD(P)+]	1.1.1.376	H+	L-Arabinose	R01757	white
+L-arabinose 1-dehydrogenase [NAD(P)+]	1.1.1.376	H+	NAD+	R01757	white
+L-arabinose 1-dehydrogenase [NAD(P)+]	1.1.1.376	L-Arabinono-1,4-lactone	L-Arabinose	R01757	white
+L-arabinose 1-dehydrogenase [NAD(P)+]	1.1.1.376	L-Arabinono-1,4-lactone	NAD+	R01757	white
+L-arabinose 1-dehydrogenase [NAD(P)+]	1.1.1.376	L-Arabinose	H+	R01757	white
+L-arabinose 1-dehydrogenase [NAD(P)+]	1.1.1.376	L-Arabinose	L-Arabinono-1,4-lactone	R01757	white
+L-arabinose 1-dehydrogenase [NAD(P)+]	1.1.1.376	L-Arabinose	NADH	R01757	white
+L-arabinose 1-dehydrogenase [NAD(P)+]	1.1.1.376	NAD+	H+	R01757	white
+L-arabinose 1-dehydrogenase [NAD(P)+]	1.1.1.376	NAD+	L-Arabinono-1,4-lactone	R01757	white
+L-arabinose 1-dehydrogenase [NAD(P)+]	1.1.1.376	NAD+	NADH	R01757	white
+L-arabinose 1-dehydrogenase [NAD(P)+]	1.1.1.376	NADH	L-Arabinose	R01757	white
+L-arabinose 1-dehydrogenase [NAD(P)+]	1.1.1.376	NADH	NAD+	R01757	white
+L-arabonate dehydrase	4.2.1.25	2-Dehydro-3-deoxy-L-arabinonate	L-Arabinonate	R02522	white
+L-arabonate dehydrase	4.2.1.25	H2O	L-Arabinonate	R02522	white
+L-arabonate dehydrase	4.2.1.25	L-Arabinonate	2-Dehydro-3-deoxy-L-arabinonate	R02522	white
+L-arabonate dehydrase	4.2.1.25	L-Arabinonate	H2O	R02522	white
+L-ascorbate 6-phosphate lactonase	3.1.1.-	3-Dehydro-L-gulonate 6-phosphate	H2O	R07677	white
+L-ascorbate 6-phosphate lactonase	3.1.1.-	3-Dehydro-L-gulonate 6-phosphate	L-Ascorbate 6-phosphate	R07677	white
+L-ascorbate 6-phosphate lactonase	3.1.1.-	H2O	3-Dehydro-L-gulonate 6-phosphate	R07677	white
+L-ascorbate 6-phosphate lactonase	3.1.1.-	L-Ascorbate 6-phosphate	3-Dehydro-L-gulonate 6-phosphate	R07677	white
+L-ascorbate oxidase	1.10.3.3	Ascorbate	Dehydroascorbate	R00068	white
+L-ascorbate oxidase	1.10.3.3	Ascorbate	H2O	R00068	white
+L-ascorbate oxidase	1.10.3.3	Dehydroascorbate	Ascorbate	R00068	white
+L-ascorbate oxidase	1.10.3.3	Dehydroascorbate	Oxygen	R00068	white
+L-ascorbate oxidase	1.10.3.3	H2O	Ascorbate	R00068	white
+L-ascorbate oxidase	1.10.3.3	H2O	Oxygen	R00068	white
+L-ascorbate oxidase	1.10.3.3	Oxygen	Dehydroascorbate	R00068	white
+L-ascorbate oxidase	1.10.3.3	Oxygen	H2O	R00068	white
+L-ascorbate peroxidase	1.11.1.11	Ascorbate	Dehydroascorbate	R00644	white
+L-ascorbate peroxidase	1.11.1.11	Ascorbate	H2O	R00644	white
+L-ascorbate peroxidase	1.11.1.11	Dehydroascorbate	Ascorbate	R00644	white
+L-ascorbate peroxidase	1.11.1.11	Dehydroascorbate	Hydrogen peroxide	R00644	white
+L-ascorbate peroxidase	1.11.1.11	H2O	Ascorbate	R00644	white
+L-ascorbate peroxidase	1.11.1.11	H2O	Hydrogen peroxide	R00644	white
+L-ascorbate peroxidase	1.11.1.11	Hydrogen peroxide	Dehydroascorbate	R00644	white
+L-ascorbate peroxidase	1.11.1.11	Hydrogen peroxide	H2O	R00644	white
+L-galactonate 5-dehydrogenase	1.1.1.414	D-Tagaturonate	L-Galactonate	R12146	white
+L-galactonate 5-dehydrogenase	1.1.1.414	D-Tagaturonate	NAD+	R12146	white
+L-galactonate 5-dehydrogenase	1.1.1.414	H+	L-Galactonate	R12146	white
+L-galactonate 5-dehydrogenase	1.1.1.414	H+	NAD+	R12146	white
+L-galactonate 5-dehydrogenase	1.1.1.414	L-Galactonate	D-Tagaturonate	R12146	white
+L-galactonate 5-dehydrogenase	1.1.1.414	L-Galactonate	H+	R12146	white
+L-galactonate 5-dehydrogenase	1.1.1.414	L-Galactonate	NADH	R12146	white
+L-galactonate 5-dehydrogenase	1.1.1.414	NAD+	D-Tagaturonate	R12146	white
+L-galactonate 5-dehydrogenase	1.1.1.414	NAD+	H+	R12146	white
+L-galactonate 5-dehydrogenase	1.1.1.414	NAD+	NADH	R12146	white
+L-galactonate 5-dehydrogenase	1.1.1.414	NADH	L-Galactonate	R12146	white
+L-galactonate 5-dehydrogenase	1.1.1.414	NADH	NAD+	R12146	white
+L-galactono-1,4-lactone dehydrogenase	1.3.2.3	Ascorbate	Ferricytochrome c	R00640	white
+L-galactono-1,4-lactone dehydrogenase	1.3.2.3	Ascorbate	L-Galactono-1,4-lactone	R00640	white
+L-galactono-1,4-lactone dehydrogenase	1.3.2.3	Ferricytochrome c	Ascorbate	R00640	white
+L-galactono-1,4-lactone dehydrogenase	1.3.2.3	Ferricytochrome c	Ferrocytochrome c	R00640	white
+L-galactono-1,4-lactone dehydrogenase	1.3.2.3	Ferricytochrome c	H+	R00640	white
+L-galactono-1,4-lactone dehydrogenase	1.3.2.3	Ferrocytochrome c	Ferricytochrome c	R00640	white
+L-galactono-1,4-lactone dehydrogenase	1.3.2.3	Ferrocytochrome c	L-Galactono-1,4-lactone	R00640	white
+L-galactono-1,4-lactone dehydrogenase	1.3.2.3	H+	Ferricytochrome c	R00640	white
+L-galactono-1,4-lactone dehydrogenase	1.3.2.3	H+	L-Galactono-1,4-lactone	R00640	white
+L-galactono-1,4-lactone dehydrogenase	1.3.2.3	L-Galactono-1,4-lactone	Ascorbate	R00640	white
+L-galactono-1,4-lactone dehydrogenase	1.3.2.3	L-Galactono-1,4-lactone	Ferrocytochrome c	R00640	white
+L-galactono-1,4-lactone dehydrogenase	1.3.2.3	L-Galactono-1,4-lactone	H+	R00640	white
+L-galactono-1,5-lactonase	3.1.1.-	H2O	L-Galactonate	R12155	white
+L-galactono-1,5-lactonase	3.1.1.-	L-Galactonate	H2O	R12155	white
+L-galactono-1,5-lactonase	3.1.1.-	L-Galactonate	L-Galactono-1,5-lactone	R12155	white
+L-galactono-1,5-lactonase	3.1.1.-	L-Galactono-1,5-lactone	L-Galactonate	R12155	white
+L-galactose dehydrogenase	1.1.1.316	H+	L-Galactose	R07675	white
+L-galactose dehydrogenase	1.1.1.316	H+	NAD+	R07675	white
+L-galactose dehydrogenase	1.1.1.316	L-Galactono-1,4-lactone	L-Galactose	R07675	white
+L-galactose dehydrogenase	1.1.1.316	L-Galactono-1,4-lactone	NAD+	R07675	white
+L-galactose dehydrogenase	1.1.1.316	L-Galactose	H+	R07675	white
+L-galactose dehydrogenase	1.1.1.316	L-Galactose	L-Galactono-1,4-lactone	R07675	white
+L-galactose dehydrogenase	1.1.1.316	L-Galactose	NADH	R07675	white
+L-galactose dehydrogenase	1.1.1.316	NAD+	H+	R07675	white
+L-galactose dehydrogenase	1.1.1.316	NAD+	L-Galactono-1,4-lactone	R07675	white
+L-galactose dehydrogenase	1.1.1.316	NAD+	NADH	R07675	white
+L-galactose dehydrogenase	1.1.1.316	NADH	L-Galactose	R07675	white
+L-galactose dehydrogenase	1.1.1.316	NADH	NAD+	R07675	white
+L-gulonolactone oxidase	1.1.3.8	Hydrogen peroxide	L-Gulono-1,4-lactone	R03184	white
+L-gulonolactone oxidase	1.1.3.8	Hydrogen peroxide	Oxygen	R03184	white
+L-gulonolactone oxidase	1.1.3.8	L-Gulono-1,4-lactone	Hydrogen peroxide	R03184	white
+L-gulonolactone oxidase	1.1.3.8	L-Gulono-1,4-lactone	L-xylo-Hexulonolactone	R03184	white
+L-gulonolactone oxidase	1.1.3.8	L-xylo-Hexulonolactone	L-Gulono-1,4-lactone	R03184	white
+L-gulonolactone oxidase	1.1.3.8	L-xylo-Hexulonolactone	Oxygen	R03184	white
+L-gulonolactone oxidase	1.1.3.8	Oxygen	Hydrogen peroxide	R03184	white
+L-gulonolactone oxidase	1.1.3.8	Oxygen	L-xylo-Hexulonolactone	R03184	white
+L-lyxonate dehydratase	4.2.1.176	2-Dehydro-3-deoxy-L-arabinonate	L-Lyxonate	R12761	white
+L-lyxonate dehydratase	4.2.1.176	H2O	L-Lyxonate	R12761	white
+L-lyxonate dehydratase	4.2.1.176	L-Lyxonate	2-Dehydro-3-deoxy-L-arabinonate	R12761	white
+L-lyxonate dehydratase	4.2.1.176	L-Lyxonate	H2O	R12761	white
+L-ribulose-5-phosphate 3-epimerase	5.1.3.22	L-Ribulose 5-phosphate	L-Xylulose 5-phosphate	R03244	white
+L-ribulose-5-phosphate 3-epimerase	5.1.3.22	L-Xylulose 5-phosphate	L-Ribulose 5-phosphate	R03244	white
+L-ribulose-5-phosphate 4-epimerase	5.1.3.4	D-Xylulose 5-phosphate	L-Ribulose 5-phosphate	R05850	white
+L-ribulose-5-phosphate 4-epimerase	5.1.3.4	L-Ribulose 5-phosphate	D-Xylulose 5-phosphate	R05850	white
+L-talarate/galactarate dehydratase	4.2.1.156	5-Dehydro-4-deoxy-D-glucarate	D-Galactarate	R05608	white
+L-talarate/galactarate dehydratase	4.2.1.156	D-Galactarate	5-Dehydro-4-deoxy-D-glucarate	R05608	white
+L-talarate/galactarate dehydratase	4.2.1.156	D-Galactarate	H2O	R05608	white
+L-talarate/galactarate dehydratase	4.2.1.156	H2O	D-Galactarate	R05608	white
+L-xylulokinase	2.7.1.53	ADP	ATP	R01901	white
+L-xylulokinase	2.7.1.53	ADP	L-Xylulose	R01901	white
+L-xylulokinase	2.7.1.53	ATP	ADP	R01901	white
+L-xylulokinase	2.7.1.53	ATP	L-Xylulose 5-phosphate	R01901	white
+L-xylulokinase	2.7.1.53	L-Xylulose	ADP	R01901	white
+L-xylulokinase	2.7.1.53	L-Xylulose	L-Xylulose 5-phosphate	R01901	white
+L-xylulokinase	2.7.1.53	L-Xylulose 5-phosphate	ATP	R01901	white
+L-xylulokinase	2.7.1.53	L-Xylulose 5-phosphate	L-Xylulose	R01901	white
+UDP-glucuronate 4-epimerase	5.1.3.6	UDP-D-galacturonate	UDP-glucuronate	R01385	white
+UDP-glucuronate 4-epimerase	5.1.3.6	UDP-glucuronate	UDP-D-galacturonate	R01385	white
+UDP-sugar pyrophosphorylase	2.7.7.64	D-Glucose 1-phosphate	Diphosphate	R00289	white
+UDP-sugar pyrophosphorylase	2.7.7.64	D-Glucose 1-phosphate	UDP-glucose	R00289	white
+UDP-sugar pyrophosphorylase	2.7.7.64	Diphosphate	D-Glucose 1-phosphate	R00289	white
+UDP-sugar pyrophosphorylase	2.7.7.64	Diphosphate	UTP	R00289	white
+UDP-sugar pyrophosphorylase	2.7.7.64	UDP-glucose	D-Glucose 1-phosphate	R00289	white
+UDP-sugar pyrophosphorylase	2.7.7.64	UDP-glucose	UTP	R00289	white
+UDP-sugar pyrophosphorylase	2.7.7.64	UTP	Diphosphate	R00289	white
+UDP-sugar pyrophosphorylase	2.7.7.64	UTP	UDP-glucose	R00289	white
+UDPglucose 6-dehydrogenase	1.1.1.22	H2O	H+	R00286	green
+UDPglucose 6-dehydrogenase	1.1.1.22	H2O	NADH	R00286	green
+UDPglucose 6-dehydrogenase	1.1.1.22	H2O	UDP-glucuronate	R00286	green
+UDPglucose 6-dehydrogenase	1.1.1.22	NAD+	H+	R00286	green
+UDPglucose 6-dehydrogenase	1.1.1.22	NAD+	NADH	R00286	green
+UDPglucose 6-dehydrogenase	1.1.1.22	NAD+	UDP-glucuronate	R00286	green
+UDPglucose 6-dehydrogenase	1.1.1.22	UDP-glucose	H+	R00286	green
+UDPglucose 6-dehydrogenase	1.1.1.22	UDP-glucose	NADH	R00286	green
+UDPglucose 6-dehydrogenase	1.1.1.22	UDP-glucose	UDP-glucuronate	R00286	green
+alcohol dehydrogenase (NADP+)	1.1.1.2	Acetaldehyde	Ethanol	R00746	white
+alcohol dehydrogenase (NADP+)	1.1.1.2	Acetaldehyde	NADP+	R00746	white
+alcohol dehydrogenase (NADP+)	1.1.1.2	Ethanol	Acetaldehyde	R00746	white
+alcohol dehydrogenase (NADP+)	1.1.1.2	Ethanol	H+	R00746	white
+alcohol dehydrogenase (NADP+)	1.1.1.2	Ethanol	NADPH	R00746	white
+alcohol dehydrogenase (NADP+)	1.1.1.2	H+	Ethanol	R00746	white
+alcohol dehydrogenase (NADP+)	1.1.1.2	H+	NADP+	R00746	white
+alcohol dehydrogenase (NADP+)	1.1.1.2	NADP+	Acetaldehyde	R00746	white
+alcohol dehydrogenase (NADP+)	1.1.1.2	NADP+	H+	R00746	white
+alcohol dehydrogenase (NADP+)	1.1.1.2	NADP+	NADPH	R00746	white
+alcohol dehydrogenase (NADP+)	1.1.1.2	NADPH	Ethanol	R00746	white
+alcohol dehydrogenase (NADP+)	1.1.1.2	NADPH	NADP+	R00746	white
+aldehyde dehydrogenase (NAD+)	1.2.1.3	D-Glucarate	D-Glucuronolactone	R02957	green
+aldehyde dehydrogenase (NAD+)	1.2.1.3	D-Glucarate	H2O	R02957	green
+aldehyde dehydrogenase (NAD+)	1.2.1.3	D-Glucarate	NAD+	R02957	green
+aldehyde dehydrogenase (NAD+)	1.2.1.3	D-Glucuronolactone	D-Glucarate	R02957	green
+aldehyde dehydrogenase (NAD+)	1.2.1.3	D-Glucuronolactone	H+	R02957	green
+aldehyde dehydrogenase (NAD+)	1.2.1.3	D-Glucuronolactone	NADH	R02957	green
+aldehyde dehydrogenase (NAD+)	1.2.1.3	H+	D-Glucuronolactone	R02957	green
+aldehyde dehydrogenase (NAD+)	1.2.1.3	H+	H2O	R02957	green
+aldehyde dehydrogenase (NAD+)	1.2.1.3	H+	NAD+	R02957	green
+aldehyde dehydrogenase (NAD+)	1.2.1.3	H2O	D-Glucarate	R02957	green
+aldehyde dehydrogenase (NAD+)	1.2.1.3	H2O	H+	R02957	green
+aldehyde dehydrogenase (NAD+)	1.2.1.3	H2O	NADH	R02957	green
+aldehyde dehydrogenase (NAD+)	1.2.1.3	NAD+	D-Glucarate	R02957	green
+aldehyde dehydrogenase (NAD+)	1.2.1.3	NAD+	H+	R02957	green
+aldehyde dehydrogenase (NAD+)	1.2.1.3	NAD+	NADH	R02957	green
+aldehyde dehydrogenase (NAD+)	1.2.1.3	NADH	D-Glucuronolactone	R02957	green
+aldehyde dehydrogenase (NAD+)	1.2.1.3	NADH	H2O	R02957	green
+aldehyde dehydrogenase (NAD+)	1.2.1.3	NADH	NAD+	R02957	green
+ascorbate PTS system EIIA or EIIAB component	2.7.1.194	Ascorbate	L-Ascorbate 6-phosphate	R07671	white
+ascorbate PTS system EIIA or EIIAB component	2.7.1.194	Ascorbate	Protein histidine	R07671	white
+ascorbate PTS system EIIA or EIIAB component	2.7.1.194	L-Ascorbate 6-phosphate	Ascorbate	R07671	white
+ascorbate PTS system EIIA or EIIAB component	2.7.1.194	L-Ascorbate 6-phosphate	Protein N(pi)-phospho-L-histidine	R07671	white
+ascorbate PTS system EIIA or EIIAB component	2.7.1.194	Protein N(pi)-phospho-L-histidine	L-Ascorbate 6-phosphate	R07671	white
+ascorbate PTS system EIIA or EIIAB component	2.7.1.194	Protein N(pi)-phospho-L-histidine	Protein histidine	R07671	white
+ascorbate PTS system EIIA or EIIAB component	2.7.1.194	Protein histidine	Ascorbate	R07671	white
+ascorbate PTS system EIIA or EIIAB component	2.7.1.194	Protein histidine	Protein N(pi)-phospho-L-histidine	R07671	white
+ascorbate PTS system EIIB component	2.7.1.194	Ascorbate	L-Ascorbate 6-phosphate	R07671	white
+ascorbate PTS system EIIB component	2.7.1.194	Ascorbate	Protein histidine	R07671	white
+ascorbate PTS system EIIB component	2.7.1.194	L-Ascorbate 6-phosphate	Ascorbate	R07671	white
+ascorbate PTS system EIIB component	2.7.1.194	L-Ascorbate 6-phosphate	Protein N(pi)-phospho-L-histidine	R07671	white
+ascorbate PTS system EIIB component	2.7.1.194	Protein N(pi)-phospho-L-histidine	L-Ascorbate 6-phosphate	R07671	white
+ascorbate PTS system EIIB component	2.7.1.194	Protein N(pi)-phospho-L-histidine	Protein histidine	R07671	white
+ascorbate PTS system EIIB component	2.7.1.194	Protein histidine	Ascorbate	R07671	white
+ascorbate PTS system EIIB component	2.7.1.194	Protein histidine	Protein N(pi)-phospho-L-histidine	R07671	white
+ascorbate PTS system EIIC component	2.7.1.194	Ascorbate	L-Ascorbate 6-phosphate	R07671	white
+ascorbate PTS system EIIC component	2.7.1.194	Ascorbate	Protein histidine	R07671	white
+ascorbate PTS system EIIC component	2.7.1.194	L-Ascorbate 6-phosphate	Ascorbate	R07671	white
+ascorbate PTS system EIIC component	2.7.1.194	L-Ascorbate 6-phosphate	Protein N(pi)-phospho-L-histidine	R07671	white
+ascorbate PTS system EIIC component	2.7.1.194	Protein N(pi)-phospho-L-histidine	L-Ascorbate 6-phosphate	R07671	white
+ascorbate PTS system EIIC component	2.7.1.194	Protein N(pi)-phospho-L-histidine	Protein histidine	R07671	white
+ascorbate PTS system EIIC component	2.7.1.194	Protein histidine	Ascorbate	R07671	white
+ascorbate PTS system EIIC component	2.7.1.194	Protein histidine	Protein N(pi)-phospho-L-histidine	R07671	white
+beta-glucuronidase	3.2.1.31	Alcohol	H2O	R01478	white
+beta-glucuronidase	3.2.1.31	Alcohol	beta-D-Glucuronoside	R01478	white
+beta-glucuronidase	3.2.1.31	D-Glucuronate	H2O	R01478	white
+beta-glucuronidase	3.2.1.31	D-Glucuronate	beta-D-Glucuronoside	R01478	white
+beta-glucuronidase	3.2.1.31	H2O	Alcohol	R01478	white
+beta-glucuronidase	3.2.1.31	H2O	D-Glucuronate	R01478	white
+beta-glucuronidase	3.2.1.31	beta-D-Glucuronoside	Alcohol	R01478	white
+beta-glucuronidase	3.2.1.31	beta-D-Glucuronoside	D-Glucuronate	R01478	white
+galactarate dehydratase	4.2.1.42	5-Dehydro-4-deoxy-D-glucarate	D-Galactarate	R05608	white
+galactarate dehydratase	4.2.1.42	D-Galactarate	5-Dehydro-4-deoxy-D-glucarate	R05608	white
+galactarate dehydratase	4.2.1.42	D-Galactarate	H2O	R05608	white
+galactarate dehydratase	4.2.1.42	H2O	D-Galactarate	R05608	white
+glucarate dehydratase	4.2.1.40	2-Dehydro-3-deoxy-D-glucarate	D-Glucarate	R08056	green
+glucarate dehydratase	4.2.1.40	5-Dehydro-4-deoxy-D-glucarate	D-Glucarate	R02752	green
+glucarate dehydratase	4.2.1.40	D-Glucarate	2-Dehydro-3-deoxy-D-glucarate	R08056	green
+glucarate dehydratase	4.2.1.40	D-Glucarate	5-Dehydro-4-deoxy-D-glucarate	R02752	green
+glucarate dehydratase	4.2.1.40	D-Glucarate	H2O	R02752	green
+glucarate dehydratase	4.2.1.40	D-Glucarate	H2O	R08056	green
+glucarate dehydratase	4.2.1.40	H2O	D-Glucarate	R02752	green
+glucarate dehydratase	4.2.1.40	H2O	D-Glucarate	R08056	green
+gluconolactonase	3.1.1.17	H2O	L-Gulonate	R02933	green
+gluconolactonase	3.1.1.17	L-Gulonate	H2O	R02933	green
+gluconolactonase	3.1.1.17	L-Gulonate	L-Gulono-1,4-lactone	R02933	green
+gluconolactonase	3.1.1.17	L-Gulono-1,4-lactone	L-Gulonate	R02933	green
+glucuronokinase	2.7.1.43	ADP	ATP	R01476	white
+glucuronokinase	2.7.1.43	ADP	D-Glucuronate	R01476	white
+glucuronokinase	2.7.1.43	ATP	ADP	R01476	white
+glucuronokinase	2.7.1.43	ATP	D-Glucuronate 1-phosphate	R01476	white
+glucuronokinase	2.7.1.43	D-Glucuronate	ADP	R01476	white
+glucuronokinase	2.7.1.43	D-Glucuronate	D-Glucuronate 1-phosphate	R01476	white
+glucuronokinase	2.7.1.43	D-Glucuronate 1-phosphate	ATP	R01476	white
+glucuronokinase	2.7.1.43	D-Glucuronate 1-phosphate	D-Glucuronate	R01476	white
+glucuronosyltransferase	2.4.1.17	ROH	UDP	R01383	white
+glucuronosyltransferase	2.4.1.17	ROH	beta-D-Glucuronoside	R01383	white
+glucuronosyltransferase	2.4.1.17	UDP	ROH	R01383	white
+glucuronosyltransferase	2.4.1.17	UDP	UDP-glucuronate	R01383	white
+glucuronosyltransferase	2.4.1.17	UDP-glucuronate	UDP	R01383	white
+glucuronosyltransferase	2.4.1.17	UDP-glucuronate	beta-D-Glucuronoside	R01383	white
+glucuronosyltransferase	2.4.1.17	beta-D-Glucuronoside	ROH	R01383	white
+glucuronosyltransferase	2.4.1.17	beta-D-Glucuronoside	UDP-glucuronate	R01383	white
+glutathione dehydrogenase/transferase	1.8.5.1	Ascorbate	Dehydroascorbate	R01108	white
+glutathione dehydrogenase/transferase	1.8.5.1	Ascorbate	Glutathione	R01108	white
+glutathione dehydrogenase/transferase	1.8.5.1	Dehydroascorbate	Ascorbate	R01108	white
+glutathione dehydrogenase/transferase	1.8.5.1	Dehydroascorbate	Glutathione disulfide	R01108	white
+glutathione dehydrogenase/transferase	1.8.5.1	Glutathione	Ascorbate	R01108	white
+glutathione dehydrogenase/transferase	1.8.5.1	Glutathione	Glutathione disulfide	R01108	white
+glutathione dehydrogenase/transferase	1.8.5.1	Glutathione disulfide	Dehydroascorbate	R01108	white
+glutathione dehydrogenase/transferase	1.8.5.1	Glutathione disulfide	Glutathione	R01108	white
+inositol oxygenase	1.13.99.1	D-Glucuronate	Oxygen	R01184	white
+inositol oxygenase	1.13.99.1	D-Glucuronate	myo-Inositol	R01184	white
+inositol oxygenase	1.13.99.1	H2O	Oxygen	R01184	white
+inositol oxygenase	1.13.99.1	H2O	myo-Inositol	R01184	white
+inositol oxygenase	1.13.99.1	Oxygen	D-Glucuronate	R01184	white
+inositol oxygenase	1.13.99.1	Oxygen	H2O	R01184	white
+inositol oxygenase	1.13.99.1	myo-Inositol	D-Glucuronate	R01184	white
+inositol oxygenase	1.13.99.1	myo-Inositol	H2O	R01184	white
+inositol-phosphate phosphatase / L-galactose 1-phosphate phosphatase	3.1.3.25	H2O	Orthophosphate	R01185	white
+inositol-phosphate phosphatase / L-galactose 1-phosphate phosphatase	3.1.3.25	H2O	myo-Inositol	R01185	white
+inositol-phosphate phosphatase / L-galactose 1-phosphate phosphatase	3.1.3.25	Inositol 1-phosphate	Orthophosphate	R01185	white
+inositol-phosphate phosphatase / L-galactose 1-phosphate phosphatase	3.1.3.25	Inositol 1-phosphate	myo-Inositol	R01185	white
+inositol-phosphate phosphatase / L-galactose 1-phosphate phosphatase	3.1.3.25	Orthophosphate	H2O	R01185	white
+inositol-phosphate phosphatase / L-galactose 1-phosphate phosphatase	3.1.3.25	Orthophosphate	Inositol 1-phosphate	R01185	white
+inositol-phosphate phosphatase / L-galactose 1-phosphate phosphatase	3.1.3.25	myo-Inositol	H2O	R01185	white
+inositol-phosphate phosphatase / L-galactose 1-phosphate phosphatase	3.1.3.25	myo-Inositol	Inositol 1-phosphate	R01185	white
+inositol-phosphate phosphatase / L-galactose 1-phosphate phosphatase / histidinol-phosphatase	3.1.3.25	H2O	Orthophosphate	R01185	white
+inositol-phosphate phosphatase / L-galactose 1-phosphate phosphatase / histidinol-phosphatase	3.1.3.25	H2O	myo-Inositol	R01185	white
+inositol-phosphate phosphatase / L-galactose 1-phosphate phosphatase / histidinol-phosphatase	3.1.3.25	Inositol 1-phosphate	Orthophosphate	R01185	white
+inositol-phosphate phosphatase / L-galactose 1-phosphate phosphatase / histidinol-phosphatase	3.1.3.25	Inositol 1-phosphate	myo-Inositol	R01185	white
+inositol-phosphate phosphatase / L-galactose 1-phosphate phosphatase / histidinol-phosphatase	3.1.3.25	Orthophosphate	H2O	R01185	white
+inositol-phosphate phosphatase / L-galactose 1-phosphate phosphatase / histidinol-phosphatase	3.1.3.25	Orthophosphate	Inositol 1-phosphate	R01185	white
+inositol-phosphate phosphatase / L-galactose 1-phosphate phosphatase / histidinol-phosphatase	3.1.3.25	myo-Inositol	H2O	R01185	white
+inositol-phosphate phosphatase / L-galactose 1-phosphate phosphatase / histidinol-phosphatase	3.1.3.25	myo-Inositol	Inositol 1-phosphate	R01185	white
+klotho	3.2.1.31	Alcohol	H2O	R01478	white
+klotho	3.2.1.31	Alcohol	beta-D-Glucuronoside	R01478	white
+klotho	3.2.1.31	D-Glucuronate	H2O	R01478	white
+klotho	3.2.1.31	D-Glucuronate	beta-D-Glucuronoside	R01478	white
+klotho	3.2.1.31	H2O	Alcohol	R01478	white
+klotho	3.2.1.31	H2O	D-Glucuronate	R01478	white
+klotho	3.2.1.31	beta-D-Glucuronoside	Alcohol	R01478	white
+klotho	3.2.1.31	beta-D-Glucuronoside	D-Glucuronate	R01478	white
+monodehydroascorbate reductase (NADH)	1.6.5.4	Ascorbate	H+	R00095	white
+monodehydroascorbate reductase (NADH)	1.6.5.4	Ascorbate	Monodehydroascorbate	R00095	white
+monodehydroascorbate reductase (NADH)	1.6.5.4	Ascorbate	NADH	R00095	white
+monodehydroascorbate reductase (NADH)	1.6.5.4	H+	Ascorbate	R00095	white
+monodehydroascorbate reductase (NADH)	1.6.5.4	H+	NAD+	R00095	white
+monodehydroascorbate reductase (NADH)	1.6.5.4	Monodehydroascorbate	Ascorbate	R00095	white
+monodehydroascorbate reductase (NADH)	1.6.5.4	Monodehydroascorbate	NAD+	R00095	white
+monodehydroascorbate reductase (NADH)	1.6.5.4	NAD+	H+	R00095	white
+monodehydroascorbate reductase (NADH)	1.6.5.4	NAD+	Monodehydroascorbate	R00095	white
+monodehydroascorbate reductase (NADH)	1.6.5.4	NAD+	NADH	R00095	white
+monodehydroascorbate reductase (NADH)	1.6.5.4	NADH	Ascorbate	R00095	white
+monodehydroascorbate reductase (NADH)	1.6.5.4	NADH	NAD+	R00095	white
+uronate dehydrogenase	1.1.1.203	D-Galacturonate	D-Galactaro-1,5-lactone	R10841	green
+uronate dehydrogenase	1.1.1.203	D-Galacturonate	H+	R10841	green
+uronate dehydrogenase	1.1.1.203	D-Galacturonate	NADH	R10841	green
+uronate dehydrogenase	1.1.1.203	NAD+	D-Galactaro-1,5-lactone	R10841	green
+uronate dehydrogenase	1.1.1.203	NAD+	H+	R10841	green
+uronate dehydrogenase	1.1.1.203	NAD+	NADH	R10841	green

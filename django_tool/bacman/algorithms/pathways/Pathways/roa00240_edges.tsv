@@ -1,790 +1,828 @@
-enzyme_name	EC	source	target	color
-(d)CTP diphosphatase	3.6.1.65	CMP	CTP	white
-(d)CTP diphosphatase	3.6.1.65	CMP	H2O	white
-(d)CTP diphosphatase	3.6.1.65	CTP	CMP	white
-(d)CTP diphosphatase	3.6.1.65	CTP	Diphosphate	white
-(d)CTP diphosphatase	3.6.1.65	Diphosphate	CTP	white
-(d)CTP diphosphatase	3.6.1.65	Diphosphate	H2O	white
-(d)CTP diphosphatase	3.6.1.65	H2O	CMP	white
-(d)CTP diphosphatase	3.6.1.65	H2O	Diphosphate	white
-2',3'-cyclic-nucleotide 2'-phosphodiesterase	3.1.4.16	2',3'-Cyclic AMP	3'-AMP	white
-2',3'-cyclic-nucleotide 2'-phosphodiesterase	3.1.4.16	3'-AMP	2',3'-Cyclic AMP	white
-2',3'-cyclic-nucleotide 2'-phosphodiesterase	3.1.4.16	3'-AMP	H2O	white
-2',3'-cyclic-nucleotide 2'-phosphodiesterase	3.1.4.16	H2O	3'-AMP	white
-2',3'-cyclic-nucleotide 2'-phosphodiesterase / 3'-nucleotidase	3.1.4.16	3'-AMP	Adenosine	white
-2',3'-cyclic-nucleotide 2'-phosphodiesterase / 3'-nucleotidase	3.1.4.16	3'-AMP	Orthophosphate	white
-2',3'-cyclic-nucleotide 2'-phosphodiesterase / 3'-nucleotidase	3.1.4.16	Adenosine	3'-AMP	white
-2',3'-cyclic-nucleotide 2'-phosphodiesterase / 3'-nucleotidase	3.1.4.16	Adenosine	H2O	white
-2',3'-cyclic-nucleotide 2'-phosphodiesterase / 3'-nucleotidase	3.1.4.16	H2O	Adenosine	white
-2',3'-cyclic-nucleotide 2'-phosphodiesterase / 3'-nucleotidase	3.1.4.16	H2O	Orthophosphate	white
-2',3'-cyclic-nucleotide 2'-phosphodiesterase / 3'-nucleotidase	3.1.4.16	Orthophosphate	3'-AMP	white
-2',3'-cyclic-nucleotide 2'-phosphodiesterase / 3'-nucleotidase	3.1.4.16	Orthophosphate	H2O	white
-2',3'-cyclic-nucleotide 2'-phosphodiesterase / 3'-nucleotidase / 5'-nucleotidase	3.1.4.16	AMP	Adenosine	white
-2',3'-cyclic-nucleotide 2'-phosphodiesterase / 3'-nucleotidase / 5'-nucleotidase	3.1.4.16	AMP	Orthophosphate	white
-2',3'-cyclic-nucleotide 2'-phosphodiesterase / 3'-nucleotidase / 5'-nucleotidase	3.1.4.16	Adenosine	AMP	white
-2',3'-cyclic-nucleotide 2'-phosphodiesterase / 3'-nucleotidase / 5'-nucleotidase	3.1.4.16	Adenosine	H2O	white
-2',3'-cyclic-nucleotide 2'-phosphodiesterase / 3'-nucleotidase / 5'-nucleotidase	3.1.4.16	H2O	Adenosine	white
-2',3'-cyclic-nucleotide 2'-phosphodiesterase / 3'-nucleotidase / 5'-nucleotidase	3.1.4.16	H2O	Orthophosphate	white
-2',3'-cyclic-nucleotide 2'-phosphodiesterase / 3'-nucleotidase / 5'-nucleotidase	3.1.4.16	Orthophosphate	AMP	white
-2',3'-cyclic-nucleotide 2'-phosphodiesterase / 3'-nucleotidase / 5'-nucleotidase	3.1.4.16	Orthophosphate	H2O	white
-2',3'-cyclic-nucleotide 2'-phosphodiesterase / phosphoenolpyruvate phosphatase	3.1.4.16	2',3'-Cyclic AMP	3'-AMP	white
-2',3'-cyclic-nucleotide 2'-phosphodiesterase / phosphoenolpyruvate phosphatase	3.1.4.16	3'-AMP	2',3'-Cyclic AMP	white
-2',3'-cyclic-nucleotide 2'-phosphodiesterase / phosphoenolpyruvate phosphatase	3.1.4.16	3'-AMP	H2O	white
-2',3'-cyclic-nucleotide 2'-phosphodiesterase / phosphoenolpyruvate phosphatase	3.1.4.16	H2O	3'-AMP	white
-3-hydroxy acid dehydrogenase / malonic semialdehyde reductase	1.1.1.381	3-Hydroxypropanoate	3-Oxopropanoate	white
-3-hydroxy acid dehydrogenase / malonic semialdehyde reductase	1.1.1.381	3-Hydroxypropanoate	H+	white
-3-hydroxy acid dehydrogenase / malonic semialdehyde reductase	1.1.1.381	3-Hydroxypropanoate	NADPH	white
-3-hydroxy acid dehydrogenase / malonic semialdehyde reductase	1.1.1.381	3-Oxopropanoate	3-Hydroxypropanoate	white
-3-hydroxy acid dehydrogenase / malonic semialdehyde reductase	1.1.1.381	3-Oxopropanoate	NADP+	white
-3-hydroxy acid dehydrogenase / malonic semialdehyde reductase	1.1.1.381	H+	3-Hydroxypropanoate	white
-3-hydroxy acid dehydrogenase / malonic semialdehyde reductase	1.1.1.381	H+	NADP+	white
-3-hydroxy acid dehydrogenase / malonic semialdehyde reductase	1.1.1.381	NADP+	3-Oxopropanoate	white
-3-hydroxy acid dehydrogenase / malonic semialdehyde reductase	1.1.1.381	NADP+	H+	white
-3-hydroxy acid dehydrogenase / malonic semialdehyde reductase	1.1.1.381	NADP+	NADPH	white
-3-hydroxy acid dehydrogenase / malonic semialdehyde reductase	1.1.1.381	NADPH	3-Hydroxypropanoate	white
-3-hydroxy acid dehydrogenase / malonic semialdehyde reductase	1.1.1.381	NADPH	NADP+	white
-3-hydroxypropanoate dehydrogenase	1.1.1.-	3-Hydroxypropanoate	3-Oxopropanoate	white
-3-hydroxypropanoate dehydrogenase	1.1.1.-	3-Hydroxypropanoate	H+	white
-3-hydroxypropanoate dehydrogenase	1.1.1.-	3-Hydroxypropanoate	NADPH	white
-3-hydroxypropanoate dehydrogenase	1.1.1.-	3-Oxopropanoate	3-Hydroxypropanoate	white
-3-hydroxypropanoate dehydrogenase	1.1.1.-	3-Oxopropanoate	NADP+	white
-3-hydroxypropanoate dehydrogenase	1.1.1.-	H+	3-Hydroxypropanoate	white
-3-hydroxypropanoate dehydrogenase	1.1.1.-	H+	NADP+	white
-3-hydroxypropanoate dehydrogenase	1.1.1.-	NADP+	3-Oxopropanoate	white
-3-hydroxypropanoate dehydrogenase	1.1.1.-	NADP+	H+	white
-3-hydroxypropanoate dehydrogenase	1.1.1.-	NADP+	NADPH	white
-3-hydroxypropanoate dehydrogenase	1.1.1.-	NADPH	3-Hydroxypropanoate	white
-3-hydroxypropanoate dehydrogenase	1.1.1.-	NADPH	NADP+	white
-5'-deoxynucleotidase	3.1.3.89	H2O	Orthophosphate	white
-5'-deoxynucleotidase	3.1.3.89	H2O	Thymidine	white
-5'-deoxynucleotidase	3.1.3.89	Orthophosphate	H2O	white
-5'-deoxynucleotidase	3.1.3.89	Orthophosphate	dTMP	white
-5'-deoxynucleotidase	3.1.3.89	Thymidine	H2O	white
-5'-deoxynucleotidase	3.1.3.89	Thymidine	dTMP	white
-5'-deoxynucleotidase	3.1.3.89	dTMP	Orthophosphate	white
-5'-deoxynucleotidase	3.1.3.89	dTMP	Thymidine	white
-5'-nucleotidase	3.1.3.5	AMP	Adenosine	white
-5'-nucleotidase	3.1.3.5	AMP	Orthophosphate	white
-5'-nucleotidase	3.1.3.5	Adenosine	AMP	white
-5'-nucleotidase	3.1.3.5	Adenosine	H2O	white
-5'-nucleotidase	3.1.3.5	CMP	Cytidine	green
-5'-nucleotidase	3.1.3.5	CMP	Orthophosphate	green
-5'-nucleotidase	3.1.3.5	H2O	Adenosine	white
-5'-nucleotidase	3.1.3.5	H2O	Cytidine	green
-5'-nucleotidase	3.1.3.5	H2O	Deoxycytidine	green
-5'-nucleotidase	3.1.3.5	H2O	Deoxyuridine	green
-5'-nucleotidase	3.1.3.5	H2O	Orthophosphate	green
-5'-nucleotidase	3.1.3.5	H2O	Orthophosphate	white
-5'-nucleotidase	3.1.3.5	H2O	Thymidine	green
-5'-nucleotidase	3.1.3.5	H2O	Uridine	green
-5'-nucleotidase	3.1.3.5	Orthophosphate	AMP	white
-5'-nucleotidase	3.1.3.5	Orthophosphate	H2O	white
-5'-nucleotidase	3.1.3.5	UMP	Orthophosphate	green
-5'-nucleotidase	3.1.3.5	UMP	Uridine	green
-5'-nucleotidase	3.1.3.5	dCMP	Deoxycytidine	green
-5'-nucleotidase	3.1.3.5	dCMP	Orthophosphate	green
-5'-nucleotidase	3.1.3.5	dTMP	Orthophosphate	green
-5'-nucleotidase	3.1.3.5	dTMP	Thymidine	green
-5'-nucleotidase	3.1.3.5	dUMP	Deoxyuridine	green
-5'-nucleotidase	3.1.3.5	dUMP	Orthophosphate	green
-5'/3'-nucleotidase	3.1.3.5	AMP	Adenosine	white
-5'/3'-nucleotidase	3.1.3.5	AMP	Orthophosphate	white
-5'/3'-nucleotidase	3.1.3.5	Adenosine	AMP	white
-5'/3'-nucleotidase	3.1.3.5	Adenosine	H2O	white
-5'/3'-nucleotidase	3.1.3.5	H2O	Adenosine	white
-5'/3'-nucleotidase	3.1.3.5	H2O	Orthophosphate	white
-5'/3'-nucleotidase	3.1.3.5	Orthophosphate	AMP	white
-5'/3'-nucleotidase	3.1.3.5	Orthophosphate	H2O	white
-7-methylguanosine nucleotidase	3.1.3.91	CMP	Cytidine	white
-7-methylguanosine nucleotidase	3.1.3.91	CMP	Orthophosphate	white
-7-methylguanosine nucleotidase	3.1.3.91	Cytidine	CMP	white
-7-methylguanosine nucleotidase	3.1.3.91	Cytidine	H2O	white
-7-methylguanosine nucleotidase	3.1.3.91	H2O	Cytidine	white
-7-methylguanosine nucleotidase	3.1.3.91	H2O	Orthophosphate	white
-7-methylguanosine nucleotidase	3.1.3.91	Orthophosphate	CMP	white
-7-methylguanosine nucleotidase	3.1.3.91	Orthophosphate	H2O	white
-AMP phosphorylase	2.4.2.57	AMP	Adenine	white
-AMP phosphorylase	2.4.2.57	AMP	D-Ribose 1,5-bisphosphate	white
-AMP phosphorylase	2.4.2.57	Adenine	AMP	white
-AMP phosphorylase	2.4.2.57	Adenine	Orthophosphate	white
-AMP phosphorylase	2.4.2.57	D-Ribose 1,5-bisphosphate	AMP	white
-AMP phosphorylase	2.4.2.57	D-Ribose 1,5-bisphosphate	Orthophosphate	white
-AMP phosphorylase	2.4.2.57	Orthophosphate	Adenine	white
-AMP phosphorylase	2.4.2.57	Orthophosphate	D-Ribose 1,5-bisphosphate	white
-CMP/dCMP kinase	2.7.4.25	ADP	ATP	green
-CMP/dCMP kinase	2.7.4.25	ADP	CMP	green
-CMP/dCMP kinase	2.7.4.25	ADP	dCMP	green
-CMP/dCMP kinase	2.7.4.25	ATP	ADP	green
-CMP/dCMP kinase	2.7.4.25	ATP	CDP	green
-CMP/dCMP kinase	2.7.4.25	ATP	dCDP	green
-CMP/dCMP kinase	2.7.4.25	CDP	ATP	green
-CMP/dCMP kinase	2.7.4.25	CDP	CMP	green
-CMP/dCMP kinase	2.7.4.25	CMP	ADP	green
-CMP/dCMP kinase	2.7.4.25	CMP	CDP	green
-CMP/dCMP kinase	2.7.4.25	dCDP	ATP	green
-CMP/dCMP kinase	2.7.4.25	dCDP	dCMP	green
-CMP/dCMP kinase	2.7.4.25	dCMP	ADP	green
-CMP/dCMP kinase	2.7.4.25	dCMP	dCDP	green
-CTP synthase	6.3.4.2	ATP	ADP	green
-CTP synthase	6.3.4.2	ATP	CTP	green
-CTP synthase	6.3.4.2	ATP	L-Glutamate	green
-CTP synthase	6.3.4.2	ATP	Orthophosphate	green
-CTP synthase	6.3.4.2	Ammonia	ADP	green
-CTP synthase	6.3.4.2	Ammonia	CTP	green
-CTP synthase	6.3.4.2	Ammonia	Orthophosphate	green
-CTP synthase	6.3.4.2	H2O	ADP	green
-CTP synthase	6.3.4.2	H2O	CTP	green
-CTP synthase	6.3.4.2	H2O	L-Glutamate	green
-CTP synthase	6.3.4.2	H2O	Orthophosphate	green
-CTP synthase	6.3.4.2	L-Glutamine	ADP	green
-CTP synthase	6.3.4.2	L-Glutamine	CTP	green
-CTP synthase	6.3.4.2	L-Glutamine	L-Glutamate	green
-CTP synthase	6.3.4.2	L-Glutamine	Orthophosphate	green
-CTP synthase	6.3.4.2	UTP	ADP	green
-CTP synthase	6.3.4.2	UTP	CTP	green
-CTP synthase	6.3.4.2	UTP	L-Glutamate	green
-CTP synthase	6.3.4.2	UTP	Orthophosphate	green
-Straboviridae T-even-induced deoxynucleotide kinase	2.7.4.12	2'-Deoxy-5-hydroxymethylcytidine-5'-diphosphate	5-Hydroxymethyldeoxycytidylate	white
-Straboviridae T-even-induced deoxynucleotide kinase	2.7.4.12	2'-Deoxy-5-hydroxymethylcytidine-5'-diphosphate	ATP	white
-Straboviridae T-even-induced deoxynucleotide kinase	2.7.4.12	5-Hydroxymethyldeoxycytidylate	2'-Deoxy-5-hydroxymethylcytidine-5'-diphosphate	white
-Straboviridae T-even-induced deoxynucleotide kinase	2.7.4.12	5-Hydroxymethyldeoxycytidylate	ADP	white
-Straboviridae T-even-induced deoxynucleotide kinase	2.7.4.12	ADP	5-Hydroxymethyldeoxycytidylate	white
-Straboviridae T-even-induced deoxynucleotide kinase	2.7.4.12	ADP	ATP	white
-Straboviridae T-even-induced deoxynucleotide kinase	2.7.4.12	ATP	2'-Deoxy-5-hydroxymethylcytidine-5'-diphosphate	white
-Straboviridae T-even-induced deoxynucleotide kinase	2.7.4.12	ATP	ADP	white
-Straboviridae dCMP hydroxymethylase	2.1.2.8	5,10-Methylenetetrahydrofolate	5-Hydroxymethyldeoxycytidylate	white
-Straboviridae dCMP hydroxymethylase	2.1.2.8	5,10-Methylenetetrahydrofolate	Tetrahydrofolate	white
-Straboviridae dCMP hydroxymethylase	2.1.2.8	5-Hydroxymethyldeoxycytidylate	5,10-Methylenetetrahydrofolate	white
-Straboviridae dCMP hydroxymethylase	2.1.2.8	5-Hydroxymethyldeoxycytidylate	H2O	white
-Straboviridae dCMP hydroxymethylase	2.1.2.8	5-Hydroxymethyldeoxycytidylate	dCMP	white
-Straboviridae dCMP hydroxymethylase	2.1.2.8	H2O	5-Hydroxymethyldeoxycytidylate	white
-Straboviridae dCMP hydroxymethylase	2.1.2.8	H2O	Tetrahydrofolate	white
-Straboviridae dCMP hydroxymethylase	2.1.2.8	Tetrahydrofolate	5,10-Methylenetetrahydrofolate	white
-Straboviridae dCMP hydroxymethylase	2.1.2.8	Tetrahydrofolate	H2O	white
-Straboviridae dCMP hydroxymethylase	2.1.2.8	Tetrahydrofolate	dCMP	white
-Straboviridae dCMP hydroxymethylase	2.1.2.8	dCMP	5-Hydroxymethyldeoxycytidylate	white
-Straboviridae dCMP hydroxymethylase	2.1.2.8	dCMP	Tetrahydrofolate	white
-UMP-CMP kinase	2.7.4.14	ADP	ATP	white
-UMP-CMP kinase	2.7.4.14	ADP	UMP	white
-UMP-CMP kinase	2.7.4.14	ATP	ADP	white
-UMP-CMP kinase	2.7.4.14	ATP	UDP	white
-UMP-CMP kinase	2.7.4.14	UDP	ATP	white
-UMP-CMP kinase	2.7.4.14	UDP	UMP	white
-UMP-CMP kinase	2.7.4.14	UMP	ADP	white
-UMP-CMP kinase	2.7.4.14	UMP	UDP	white
-UMP-CMP kinase 2, mitochondrial	2.7.4.14	ADP	ATP	white
-UMP-CMP kinase 2, mitochondrial	2.7.4.14	ADP	UMP	white
-UMP-CMP kinase 2, mitochondrial	2.7.4.14	ATP	ADP	white
-UMP-CMP kinase 2, mitochondrial	2.7.4.14	ATP	UDP	white
-UMP-CMP kinase 2, mitochondrial	2.7.4.14	UDP	ATP	white
-UMP-CMP kinase 2, mitochondrial	2.7.4.14	UDP	UMP	white
-UMP-CMP kinase 2, mitochondrial	2.7.4.14	UMP	ADP	white
-UMP-CMP kinase 2, mitochondrial	2.7.4.14	UMP	UDP	white
-aminoacrylate hydrolase	3.5.1.-	3-Oxopropanoate	Aminoacrylate	white
-aminoacrylate hydrolase	3.5.1.-	3-Oxopropanoate	H2O	white
-aminoacrylate hydrolase	3.5.1.-	Aminoacrylate	3-Oxopropanoate	white
-aminoacrylate hydrolase	3.5.1.-	Aminoacrylate	Ammonia	white
-aminoacrylate hydrolase	3.5.1.-	Ammonia	Aminoacrylate	white
-aminoacrylate hydrolase	3.5.1.-	Ammonia	H2O	white
-aminoacrylate hydrolase	3.5.1.-	H2O	3-Oxopropanoate	white
-aminoacrylate hydrolase	3.5.1.-	H2O	Ammonia	white
-aminoacrylate peracid reductase	1.1.1.381	(Z)-3-Peroxyaminoacrylate	Aminoacrylate	white
-aminoacrylate peracid reductase	1.1.1.381	Aminoacrylate	(Z)-3-Peroxyaminoacrylate	white
-apyrase	3.6.1.5	ADP	ATP	white
-apyrase	3.6.1.5	ADP	H2O	white
-apyrase	3.6.1.5	ATP	ADP	white
-apyrase	3.6.1.5	ATP	Orthophosphate	white
-apyrase	3.6.1.5	H2O	ADP	white
-apyrase	3.6.1.5	H2O	Orthophosphate	white
-apyrase	3.6.1.5	Orthophosphate	ATP	white
-apyrase	3.6.1.5	Orthophosphate	H2O	white
-aspartate carbamoyltransferase catalytic subunit	2.1.3.2	Carbamoyl phosphate	N-Carbamoyl-L-aspartate	green
-aspartate carbamoyltransferase catalytic subunit	2.1.3.2	Carbamoyl phosphate	Orthophosphate	green
-aspartate carbamoyltransferase catalytic subunit	2.1.3.2	L-Aspartate	N-Carbamoyl-L-aspartate	green
-aspartate carbamoyltransferase catalytic subunit	2.1.3.2	L-Aspartate	Orthophosphate	green
-barbiturase	3.5.2.1	3-Oxo-3-ureidoisobutyrate	5-Methylbarbiturate	green
-barbiturase	3.5.2.1	3-Oxo-3-ureidoisobutyrate	H2O	green
-barbiturase	3.5.2.1	3-Oxo-3-ureidopropanoate	Barbiturate	green
-barbiturase	3.5.2.1	3-Oxo-3-ureidopropanoate	H2O	green
-barbiturase	3.5.2.1	5-Methylbarbiturate	3-Oxo-3-ureidoisobutyrate	green
-barbiturase	3.5.2.1	Barbiturate	3-Oxo-3-ureidopropanoate	green
-barbiturase	3.5.2.1	H2O	3-Oxo-3-ureidoisobutyrate	green
-barbiturase	3.5.2.1	H2O	3-Oxo-3-ureidopropanoate	green
-beta-ureidopropionase / N-carbamoyl-L-amino-acid hydrolase	3.5.1.6	(R)-3-Ureidoisobutyrate	(R)-3-Amino-2-methylpropanoate	green
-beta-ureidopropionase / N-carbamoyl-L-amino-acid hydrolase	3.5.1.6	(R)-3-Ureidoisobutyrate	Ammonia	green
-beta-ureidopropionase / N-carbamoyl-L-amino-acid hydrolase	3.5.1.6	(R)-3-Ureidoisobutyrate	CO2	green
-beta-ureidopropionase / N-carbamoyl-L-amino-acid hydrolase	3.5.1.6	3-Ureidopropionate	Ammonia	green
-beta-ureidopropionase / N-carbamoyl-L-amino-acid hydrolase	3.5.1.6	3-Ureidopropionate	CO2	green
-beta-ureidopropionase / N-carbamoyl-L-amino-acid hydrolase	3.5.1.6	3-Ureidopropionate	beta-Alanine	green
-beta-ureidopropionase / N-carbamoyl-L-amino-acid hydrolase	3.5.1.6	H2O	(R)-3-Amino-2-methylpropanoate	green
-beta-ureidopropionase / N-carbamoyl-L-amino-acid hydrolase	3.5.1.6	H2O	Ammonia	green
-beta-ureidopropionase / N-carbamoyl-L-amino-acid hydrolase	3.5.1.6	H2O	CO2	green
-beta-ureidopropionase / N-carbamoyl-L-amino-acid hydrolase	3.5.1.6	H2O	beta-Alanine	green
-bis(5'-nucleosidyl)-tetraphosphatase	3.6.1.17	AMP	H2O	white
-bis(5'-nucleosidyl)-tetraphosphatase	3.6.1.17	AMP	P1,P4-Bis(5'-adenosyl)tetraphosphate	white
-bis(5'-nucleosidyl)-tetraphosphatase	3.6.1.17	ATP	H2O	white
-bis(5'-nucleosidyl)-tetraphosphatase	3.6.1.17	ATP	P1,P4-Bis(5'-adenosyl)tetraphosphate	white
-bis(5'-nucleosidyl)-tetraphosphatase	3.6.1.17	H2O	AMP	white
-bis(5'-nucleosidyl)-tetraphosphatase	3.6.1.17	H2O	ATP	white
-bis(5'-nucleosidyl)-tetraphosphatase	3.6.1.17	P1,P4-Bis(5'-adenosyl)tetraphosphate	AMP	white
-bis(5'-nucleosidyl)-tetraphosphatase	3.6.1.17	P1,P4-Bis(5'-adenosyl)tetraphosphate	ATP	white
-carbamoyl-phosphate synthase large subunit	6.3.5.5	ATP	ADP	green
-carbamoyl-phosphate synthase large subunit	6.3.5.5	ATP	Carbamoyl phosphate	green
-carbamoyl-phosphate synthase large subunit	6.3.5.5	ATP	L-Glutamate	green
-carbamoyl-phosphate synthase large subunit	6.3.5.5	ATP	Orthophosphate	green
-carbamoyl-phosphate synthase large subunit	6.3.5.5	H2O	ADP	green
-carbamoyl-phosphate synthase large subunit	6.3.5.5	H2O	Carbamoyl phosphate	green
-carbamoyl-phosphate synthase large subunit	6.3.5.5	H2O	L-Glutamate	green
-carbamoyl-phosphate synthase large subunit	6.3.5.5	H2O	Orthophosphate	green
-carbamoyl-phosphate synthase large subunit	6.3.5.5	HCO3-	ADP	green
-carbamoyl-phosphate synthase large subunit	6.3.5.5	HCO3-	Carbamoyl phosphate	green
-carbamoyl-phosphate synthase large subunit	6.3.5.5	HCO3-	L-Glutamate	green
-carbamoyl-phosphate synthase large subunit	6.3.5.5	HCO3-	Orthophosphate	green
-carbamoyl-phosphate synthase large subunit	6.3.5.5	L-Glutamine	ADP	green
-carbamoyl-phosphate synthase large subunit	6.3.5.5	L-Glutamine	Carbamoyl phosphate	green
-carbamoyl-phosphate synthase large subunit	6.3.5.5	L-Glutamine	L-Glutamate	green
-carbamoyl-phosphate synthase large subunit	6.3.5.5	L-Glutamine	Orthophosphate	green
-carbamoyl-phosphate synthase small subunit	6.3.5.5	ATP	ADP	green
-carbamoyl-phosphate synthase small subunit	6.3.5.5	ATP	Carbamoyl phosphate	green
-carbamoyl-phosphate synthase small subunit	6.3.5.5	ATP	L-Glutamate	green
-carbamoyl-phosphate synthase small subunit	6.3.5.5	ATP	Orthophosphate	green
-carbamoyl-phosphate synthase small subunit	6.3.5.5	H2O	ADP	green
-carbamoyl-phosphate synthase small subunit	6.3.5.5	H2O	Carbamoyl phosphate	green
-carbamoyl-phosphate synthase small subunit	6.3.5.5	H2O	L-Glutamate	green
-carbamoyl-phosphate synthase small subunit	6.3.5.5	H2O	Orthophosphate	green
-carbamoyl-phosphate synthase small subunit	6.3.5.5	HCO3-	ADP	green
-carbamoyl-phosphate synthase small subunit	6.3.5.5	HCO3-	Carbamoyl phosphate	green
-carbamoyl-phosphate synthase small subunit	6.3.5.5	HCO3-	L-Glutamate	green
-carbamoyl-phosphate synthase small subunit	6.3.5.5	HCO3-	Orthophosphate	green
-carbamoyl-phosphate synthase small subunit	6.3.5.5	L-Glutamine	ADP	green
-carbamoyl-phosphate synthase small subunit	6.3.5.5	L-Glutamine	Carbamoyl phosphate	green
-carbamoyl-phosphate synthase small subunit	6.3.5.5	L-Glutamine	L-Glutamate	green
-carbamoyl-phosphate synthase small subunit	6.3.5.5	L-Glutamine	Orthophosphate	green
-cytidine deaminase	3.5.4.5	Cytidine	Ammonia	green
-cytidine deaminase	3.5.4.5	Cytidine	Uridine	green
-cytidine deaminase	3.5.4.5	Deoxycytidine	Ammonia	green
-cytidine deaminase	3.5.4.5	Deoxycytidine	Deoxyuridine	green
-cytidine deaminase	3.5.4.5	H2O	Ammonia	green
-cytidine deaminase	3.5.4.5	H2O	Deoxyuridine	green
-cytidine deaminase	3.5.4.5	H2O	Uridine	green
-cytidine kinase	2.7.1.213	ADP	ATP	white
-cytidine kinase	2.7.1.213	ADP	Cytidine	white
-cytidine kinase	2.7.1.213	ATP	ADP	white
-cytidine kinase	2.7.1.213	ATP	CMP	white
-cytidine kinase	2.7.1.213	CMP	ATP	white
-cytidine kinase	2.7.1.213	CMP	Cytidine	white
-cytidine kinase	2.7.1.213	Cytidine	ADP	white
-cytidine kinase	2.7.1.213	Cytidine	CMP	white
-cytidylate cyclase	4.6.1.6	3',5'-Cyclic CMP	CTP	white
-cytidylate cyclase	4.6.1.6	CTP	3',5'-Cyclic CMP	white
-cytidylate cyclase	4.6.1.6	CTP	Diphosphate	white
-cytidylate cyclase	4.6.1.6	Diphosphate	CTP	white
-cytosine/creatinine deaminase	3.5.4.1	5-Methylcytosine	Ammonia	green
-cytosine/creatinine deaminase	3.5.4.1	5-Methylcytosine	Thymine	green
-cytosine/creatinine deaminase	3.5.4.1	Cytosine	Ammonia	green
-cytosine/creatinine deaminase	3.5.4.1	Cytosine	Uracil	green
-cytosine/creatinine deaminase	3.5.4.1	H2O	Ammonia	green
-cytosine/creatinine deaminase	3.5.4.1	H2O	Thymine	green
-cytosine/creatinine deaminase	3.5.4.1	H2O	Uracil	green
-dCMP deaminase	3.5.4.12	Ammonia	H2O	white
-dCMP deaminase	3.5.4.12	Ammonia	dCMP	white
-dCMP deaminase	3.5.4.12	H2O	Ammonia	white
-dCMP deaminase	3.5.4.12	H2O	dUMP	white
-dCMP deaminase	3.5.4.12	dCMP	Ammonia	white
-dCMP deaminase	3.5.4.12	dCMP	dUMP	white
-dCMP deaminase	3.5.4.12	dUMP	H2O	white
-dCMP deaminase	3.5.4.12	dUMP	dCMP	white
-dCTP deaminase	3.5.4.13	H2O	Ammonia	green
-dCTP deaminase	3.5.4.13	H2O	dUTP	green
-dCTP deaminase	3.5.4.13	dCTP	Ammonia	green
-dCTP deaminase	3.5.4.13	dCTP	dUTP	green
-dCTP deaminase (dUMP-forming)	3.5.4.30	Ammonia	H2O	white
-dCTP deaminase (dUMP-forming)	3.5.4.30	Ammonia	dCTP	white
-dCTP deaminase (dUMP-forming)	3.5.4.30	Diphosphate	H2O	white
-dCTP deaminase (dUMP-forming)	3.5.4.30	Diphosphate	dCTP	white
-dCTP deaminase (dUMP-forming)	3.5.4.30	H2O	Ammonia	white
-dCTP deaminase (dUMP-forming)	3.5.4.30	H2O	Diphosphate	white
-dCTP deaminase (dUMP-forming)	3.5.4.30	H2O	dUMP	white
-dCTP deaminase (dUMP-forming)	3.5.4.30	dCTP	Ammonia	white
-dCTP deaminase (dUMP-forming)	3.5.4.30	dCTP	Diphosphate	white
-dCTP deaminase (dUMP-forming)	3.5.4.30	dCTP	dUMP	white
-dCTP deaminase (dUMP-forming)	3.5.4.30	dUMP	H2O	white
-dCTP deaminase (dUMP-forming)	3.5.4.30	dUMP	dCTP	white
-dCTP diphosphatase	3.6.1.12	H2O	Orthophosphate	white
-dCTP diphosphatase	3.6.1.12	H2O	dCMP	white
-dCTP diphosphatase	3.6.1.12	Orthophosphate	H2O	white
-dCTP diphosphatase	3.6.1.12	Orthophosphate	dCDP	white
-dCTP diphosphatase	3.6.1.12	dCDP	Orthophosphate	white
-dCTP diphosphatase	3.6.1.12	dCDP	dCMP	white
-dCTP diphosphatase	3.6.1.12	dCMP	H2O	white
-dCTP diphosphatase	3.6.1.12	dCMP	dCDP	white
-dTMP kinase	2.7.4.9	ATP	ADP	green
-dTMP kinase	2.7.4.9	ATP	dTDP	green
-dTMP kinase	2.7.4.9	ATP	dUDP	green
-dTMP kinase	2.7.4.9	dTMP	ADP	green
-dTMP kinase	2.7.4.9	dTMP	dTDP	green
-dTMP kinase	2.7.4.9	dUMP	ADP	green
-dTMP kinase	2.7.4.9	dUMP	dUDP	green
-dUTP diphosphatase	3.6.1.23	H2O	Diphosphate	green
-dUTP diphosphatase	3.6.1.23	H2O	dUMP	green
-dUTP diphosphatase	3.6.1.23	dUTP	Diphosphate	green
-dUTP diphosphatase	3.6.1.23	dUTP	dUMP	green
-deoxyadenosine/deoxycytidine kinase	2.7.1.76	ADP	ATP	white
-deoxyadenosine/deoxycytidine kinase	2.7.1.76	ADP	Deoxycytidine	white
-deoxyadenosine/deoxycytidine kinase	2.7.1.76	ATP	ADP	white
-deoxyadenosine/deoxycytidine kinase	2.7.1.76	ATP	dCMP	white
-deoxyadenosine/deoxycytidine kinase	2.7.1.76	Deoxycytidine	ADP	white
-deoxyadenosine/deoxycytidine kinase	2.7.1.76	Deoxycytidine	dCMP	white
-deoxyadenosine/deoxycytidine kinase	2.7.1.76	dCMP	ATP	white
-deoxyadenosine/deoxycytidine kinase	2.7.1.76	dCMP	Deoxycytidine	white
-deoxycitidine/deoxyadenosine/deoxyguanosine kinase	2.7.1.74	ADP	ATP	white
-deoxycitidine/deoxyadenosine/deoxyguanosine kinase	2.7.1.74	ADP	Deoxycytidine	white
-deoxycitidine/deoxyadenosine/deoxyguanosine kinase	2.7.1.74	ATP	ADP	white
-deoxycitidine/deoxyadenosine/deoxyguanosine kinase	2.7.1.74	ATP	dCMP	white
-deoxycitidine/deoxyadenosine/deoxyguanosine kinase	2.7.1.74	Deoxycytidine	ADP	white
-deoxycitidine/deoxyadenosine/deoxyguanosine kinase	2.7.1.74	Deoxycytidine	dCMP	white
-deoxycitidine/deoxyadenosine/deoxyguanosine kinase	2.7.1.74	dCMP	ATP	white
-deoxycitidine/deoxyadenosine/deoxyguanosine kinase	2.7.1.74	dCMP	Deoxycytidine	white
-deoxynucleoside kinase	2.7.1.145	ADP	ATP	white
-deoxynucleoside kinase	2.7.1.145	ADP	Thymidine	white
-deoxynucleoside kinase	2.7.1.145	ATP	ADP	white
-deoxynucleoside kinase	2.7.1.145	ATP	dTMP	white
-deoxynucleoside kinase	2.7.1.145	Thymidine	ADP	white
-deoxynucleoside kinase	2.7.1.145	Thymidine	dTMP	white
-deoxynucleoside kinase	2.7.1.145	dTMP	ATP	white
-deoxynucleoside kinase	2.7.1.145	dTMP	Thymidine	white
-dihydroorotase	3.5.2.3	(S)-Dihydroorotate	N-Carbamoyl-L-aspartate	green
-dihydroorotase	3.5.2.3	H2O	N-Carbamoyl-L-aspartate	green
-dihydroorotase	3.5.2.3	N-Carbamoyl-L-aspartate	(S)-Dihydroorotate	green
-dihydroorotase	3.5.2.3	N-Carbamoyl-L-aspartate	H2O	green
-dihydroorotate dehydrogenase	1.3.5.2	(S)-Dihydroorotate	Hydroquinone	green
-dihydroorotate dehydrogenase	1.3.5.2	(S)-Dihydroorotate	Orotate	green
-dihydroorotate dehydrogenase	1.3.5.2	Hydroquinone	(S)-Dihydroorotate	green
-dihydroorotate dehydrogenase	1.3.5.2	Hydroquinone	Quinone	green
-dihydroorotate dehydrogenase	1.3.5.2	Orotate	(S)-Dihydroorotate	green
-dihydroorotate dehydrogenase	1.3.5.2	Orotate	Quinone	green
-dihydroorotate dehydrogenase	1.3.5.2	Quinone	Hydroquinone	green
-dihydroorotate dehydrogenase	1.3.5.2	Quinone	Orotate	green
-dihydroorotate dehydrogenase (NAD+) catalytic subunit	1.3.1.14	(S)-Dihydroorotate	H+	white
-dihydroorotate dehydrogenase (NAD+) catalytic subunit	1.3.1.14	(S)-Dihydroorotate	NADH	white
-dihydroorotate dehydrogenase (NAD+) catalytic subunit	1.3.1.14	(S)-Dihydroorotate	Orotate	white
-dihydroorotate dehydrogenase (NAD+) catalytic subunit	1.3.1.14	H+	(S)-Dihydroorotate	white
-dihydroorotate dehydrogenase (NAD+) catalytic subunit	1.3.1.14	H+	NAD+	white
-dihydroorotate dehydrogenase (NAD+) catalytic subunit	1.3.1.14	NAD+	H+	white
-dihydroorotate dehydrogenase (NAD+) catalytic subunit	1.3.1.14	NAD+	NADH	white
-dihydroorotate dehydrogenase (NAD+) catalytic subunit	1.3.1.14	NAD+	Orotate	white
-dihydroorotate dehydrogenase (NAD+) catalytic subunit	1.3.1.14	NADH	(S)-Dihydroorotate	white
-dihydroorotate dehydrogenase (NAD+) catalytic subunit	1.3.1.14	NADH	NAD+	white
-dihydroorotate dehydrogenase (NAD+) catalytic subunit	1.3.1.14	Orotate	(S)-Dihydroorotate	white
-dihydroorotate dehydrogenase (NAD+) catalytic subunit	1.3.1.14	Orotate	NAD+	white
-dihydroorotate dehydrogenase (fumarate)	1.3.98.1	(S)-Dihydroorotate	Orotate	white
-dihydroorotate dehydrogenase (fumarate)	1.3.98.1	(S)-Dihydroorotate	Succinate	white
-dihydroorotate dehydrogenase (fumarate)	1.3.98.1	Fumarate	Orotate	white
-dihydroorotate dehydrogenase (fumarate)	1.3.98.1	Fumarate	Succinate	white
-dihydroorotate dehydrogenase (fumarate)	1.3.98.1	Orotate	(S)-Dihydroorotate	white
-dihydroorotate dehydrogenase (fumarate)	1.3.98.1	Orotate	Fumarate	white
-dihydroorotate dehydrogenase (fumarate)	1.3.98.1	Succinate	(S)-Dihydroorotate	white
-dihydroorotate dehydrogenase (fumarate)	1.3.98.1	Succinate	Fumarate	white
-dihydroorotate dehydrogenase electron transfer subunit	1.3.1.14	(S)-Dihydroorotate	H+	white
-dihydroorotate dehydrogenase electron transfer subunit	1.3.1.14	(S)-Dihydroorotate	NADH	white
-dihydroorotate dehydrogenase electron transfer subunit	1.3.1.14	(S)-Dihydroorotate	Orotate	white
-dihydroorotate dehydrogenase electron transfer subunit	1.3.1.14	H+	(S)-Dihydroorotate	white
-dihydroorotate dehydrogenase electron transfer subunit	1.3.1.14	H+	NAD+	white
-dihydroorotate dehydrogenase electron transfer subunit	1.3.1.14	NAD+	H+	white
-dihydroorotate dehydrogenase electron transfer subunit	1.3.1.14	NAD+	NADH	white
-dihydroorotate dehydrogenase electron transfer subunit	1.3.1.14	NAD+	Orotate	white
-dihydroorotate dehydrogenase electron transfer subunit	1.3.1.14	NADH	(S)-Dihydroorotate	white
-dihydroorotate dehydrogenase electron transfer subunit	1.3.1.14	NADH	NAD+	white
-dihydroorotate dehydrogenase electron transfer subunit	1.3.1.14	Orotate	(S)-Dihydroorotate	white
-dihydroorotate dehydrogenase electron transfer subunit	1.3.1.14	Orotate	NAD+	white
-dihydropyrimidinase	3.5.2.2	3-Ureidopropionate	5,6-Dihydrouracil	white
-dihydropyrimidinase	3.5.2.2	3-Ureidopropionate	H2O	white
-dihydropyrimidinase	3.5.2.2	5,6-Dihydrouracil	3-Ureidopropionate	white
-dihydropyrimidinase	3.5.2.2	H2O	3-Ureidopropionate	white
-dihydropyrimidine dehydrogenase (NAD+) subunit PreA	1.3.1.1	5,6-Dihydrouracil	H+	white
-dihydropyrimidine dehydrogenase (NAD+) subunit PreA	1.3.1.1	5,6-Dihydrouracil	NADH	white
-dihydropyrimidine dehydrogenase (NAD+) subunit PreA	1.3.1.1	5,6-Dihydrouracil	Uracil	white
-dihydropyrimidine dehydrogenase (NAD+) subunit PreA	1.3.1.1	H+	5,6-Dihydrouracil	white
-dihydropyrimidine dehydrogenase (NAD+) subunit PreA	1.3.1.1	H+	NAD+	white
-dihydropyrimidine dehydrogenase (NAD+) subunit PreA	1.3.1.1	NAD+	H+	white
-dihydropyrimidine dehydrogenase (NAD+) subunit PreA	1.3.1.1	NAD+	NADH	white
-dihydropyrimidine dehydrogenase (NAD+) subunit PreA	1.3.1.1	NAD+	Uracil	white
-dihydropyrimidine dehydrogenase (NAD+) subunit PreA	1.3.1.1	NADH	5,6-Dihydrouracil	white
-dihydropyrimidine dehydrogenase (NAD+) subunit PreA	1.3.1.1	NADH	NAD+	white
-dihydropyrimidine dehydrogenase (NAD+) subunit PreA	1.3.1.1	Uracil	5,6-Dihydrouracil	white
-dihydropyrimidine dehydrogenase (NAD+) subunit PreA	1.3.1.1	Uracil	NAD+	white
-dihydropyrimidine dehydrogenase (NAD+) subunit PreT	1.3.1.1	5,6-Dihydrouracil	H+	white
-dihydropyrimidine dehydrogenase (NAD+) subunit PreT	1.3.1.1	5,6-Dihydrouracil	NADH	white
-dihydropyrimidine dehydrogenase (NAD+) subunit PreT	1.3.1.1	5,6-Dihydrouracil	Uracil	white
-dihydropyrimidine dehydrogenase (NAD+) subunit PreT	1.3.1.1	H+	5,6-Dihydrouracil	white
-dihydropyrimidine dehydrogenase (NAD+) subunit PreT	1.3.1.1	H+	NAD+	white
-dihydropyrimidine dehydrogenase (NAD+) subunit PreT	1.3.1.1	NAD+	H+	white
-dihydropyrimidine dehydrogenase (NAD+) subunit PreT	1.3.1.1	NAD+	NADH	white
-dihydropyrimidine dehydrogenase (NAD+) subunit PreT	1.3.1.1	NAD+	Uracil	white
-dihydropyrimidine dehydrogenase (NAD+) subunit PreT	1.3.1.1	NADH	5,6-Dihydrouracil	white
-dihydropyrimidine dehydrogenase (NAD+) subunit PreT	1.3.1.1	NADH	NAD+	white
-dihydropyrimidine dehydrogenase (NAD+) subunit PreT	1.3.1.1	Uracil	5,6-Dihydrouracil	white
-dihydropyrimidine dehydrogenase (NAD+) subunit PreT	1.3.1.1	Uracil	NAD+	white
-dihydropyrimidine dehydrogenase (NADP+)	1.3.1.2	5,6-Dihydrouracil	H+	white
-dihydropyrimidine dehydrogenase (NADP+)	1.3.1.2	5,6-Dihydrouracil	NADPH	white
-dihydropyrimidine dehydrogenase (NADP+)	1.3.1.2	5,6-Dihydrouracil	Uracil	white
-dihydropyrimidine dehydrogenase (NADP+)	1.3.1.2	H+	5,6-Dihydrouracil	white
-dihydropyrimidine dehydrogenase (NADP+)	1.3.1.2	H+	NADP+	white
-dihydropyrimidine dehydrogenase (NADP+)	1.3.1.2	NADP+	H+	white
-dihydropyrimidine dehydrogenase (NADP+)	1.3.1.2	NADP+	NADPH	white
-dihydropyrimidine dehydrogenase (NADP+)	1.3.1.2	NADP+	Uracil	white
-dihydropyrimidine dehydrogenase (NADP+)	1.3.1.2	NADPH	5,6-Dihydrouracil	white
-dihydropyrimidine dehydrogenase (NADP+)	1.3.1.2	NADPH	NADP+	white
-dihydropyrimidine dehydrogenase (NADP+)	1.3.1.2	Uracil	5,6-Dihydrouracil	white
-dihydropyrimidine dehydrogenase (NADP+)	1.3.1.2	Uracil	NADP+	white
-ectonucleoside triphosphate diphosphohydrolase 4	3.6.1.6	H2O	Orthophosphate	white
-ectonucleoside triphosphate diphosphohydrolase 4	3.6.1.6	H2O	UMP	white
-ectonucleoside triphosphate diphosphohydrolase 4	3.6.1.6	Orthophosphate	H2O	white
-ectonucleoside triphosphate diphosphohydrolase 4	3.6.1.6	Orthophosphate	UDP	white
-ectonucleoside triphosphate diphosphohydrolase 4	3.6.1.6	UDP	Orthophosphate	white
-ectonucleoside triphosphate diphosphohydrolase 4	3.6.1.6	UDP	UMP	white
-ectonucleoside triphosphate diphosphohydrolase 4	3.6.1.6	UMP	H2O	white
-ectonucleoside triphosphate diphosphohydrolase 4	3.6.1.6	UMP	UDP	white
-ectonucleoside triphosphate diphosphohydrolase 5/6	3.6.1.6	H2O	Orthophosphate	white
-ectonucleoside triphosphate diphosphohydrolase 5/6	3.6.1.6	H2O	UMP	white
-ectonucleoside triphosphate diphosphohydrolase 5/6	3.6.1.6	Orthophosphate	H2O	white
-ectonucleoside triphosphate diphosphohydrolase 5/6	3.6.1.6	Orthophosphate	UDP	white
-ectonucleoside triphosphate diphosphohydrolase 5/6	3.6.1.6	UDP	Orthophosphate	white
-ectonucleoside triphosphate diphosphohydrolase 5/6	3.6.1.6	UDP	UMP	white
-ectonucleoside triphosphate diphosphohydrolase 5/6	3.6.1.6	UMP	H2O	white
-ectonucleoside triphosphate diphosphohydrolase 5/6	3.6.1.6	UMP	UDP	white
-flavin reductase	1.5.1.-	Oxygen	(Z)-3-Ureidoacrylate peracid	green
-flavin reductase	1.5.1.-	Oxygen	FMN	green
-flavin reductase	1.5.1.-	Reduced FMN	(Z)-3-Ureidoacrylate peracid	green
-flavin reductase	1.5.1.-	Reduced FMN	FMN	green
-flavin reductase	1.5.1.-	Uracil	(Z)-3-Ureidoacrylate peracid	green
-flavin reductase	1.5.1.-	Uracil	FMN	green
-golgi apyrase	3.6.1.5	ADP	ATP	white
-golgi apyrase	3.6.1.5	ADP	H2O	white
-golgi apyrase	3.6.1.5	ATP	ADP	white
-golgi apyrase	3.6.1.5	ATP	Orthophosphate	white
-golgi apyrase	3.6.1.5	H2O	ADP	white
-golgi apyrase	3.6.1.5	H2O	Orthophosphate	white
-golgi apyrase	3.6.1.5	Orthophosphate	ATP	white
-golgi apyrase	3.6.1.5	Orthophosphate	H2O	white
-inosine/uridine nucleosidase	3.2.2.2	D-Ribose	H2O	white
-inosine/uridine nucleosidase	3.2.2.2	D-Ribose	Uridine	white
-inosine/uridine nucleosidase	3.2.2.2	H2O	D-Ribose	white
-inosine/uridine nucleosidase	3.2.2.2	H2O	Uracil	white
-inosine/uridine nucleosidase	3.2.2.2	Uracil	H2O	white
-inosine/uridine nucleosidase	3.2.2.2	Uracil	Uridine	white
-inosine/uridine nucleosidase	3.2.2.2	Uridine	D-Ribose	white
-inosine/uridine nucleosidase	3.2.2.2	Uridine	Uracil	white
-non-specific riboncleoside hydrolase	3.2.2.-	D-Ribose	H2O	white
-non-specific riboncleoside hydrolase	3.2.2.-	D-Ribose	Uridine	white
-non-specific riboncleoside hydrolase	3.2.2.-	H2O	D-Ribose	white
-non-specific riboncleoside hydrolase	3.2.2.-	H2O	Uracil	white
-non-specific riboncleoside hydrolase	3.2.2.-	Uracil	H2O	white
-non-specific riboncleoside hydrolase	3.2.2.-	Uracil	Uridine	white
-non-specific riboncleoside hydrolase	3.2.2.-	Uridine	D-Ribose	white
-non-specific riboncleoside hydrolase	3.2.2.-	Uridine	Uracil	white
-nucleoside kinase	2.7.1.73	ADP	ATP	white
-nucleoside kinase	2.7.1.73	ADP	Cytidine	white
-nucleoside kinase	2.7.1.73	ATP	ADP	white
-nucleoside kinase	2.7.1.73	ATP	CMP	white
-nucleoside kinase	2.7.1.73	CMP	ATP	white
-nucleoside kinase	2.7.1.73	CMP	Cytidine	white
-nucleoside kinase	2.7.1.73	Cytidine	ADP	white
-nucleoside kinase	2.7.1.73	Cytidine	CMP	white
-nucleoside triphosphate diphosphatase	3.6.1.9	CTP	CMP	green
-nucleoside triphosphate diphosphatase	3.6.1.9	CTP	Diphosphate	green
-nucleoside triphosphate diphosphatase	3.6.1.9	H2O	CMP	green
-nucleoside triphosphate diphosphatase	3.6.1.9	H2O	Diphosphate	green
-nucleoside triphosphate diphosphatase	3.6.1.9	H2O	UMP	green
-nucleoside triphosphate diphosphatase	3.6.1.9	H2O	dTMP	green
-nucleoside triphosphate diphosphatase	3.6.1.9	UTP	Diphosphate	green
-nucleoside triphosphate diphosphatase	3.6.1.9	UTP	UMP	green
-nucleoside triphosphate diphosphatase	3.6.1.9	dTTP	Diphosphate	green
-nucleoside triphosphate diphosphatase	3.6.1.9	dTTP	dTMP	green
-nucleoside triphosphate pyrophosphatase	3.6.1.-	CTP	CMP	green
-nucleoside triphosphate pyrophosphatase	3.6.1.-	CTP	Diphosphate	green
-nucleoside triphosphate pyrophosphatase	3.6.1.-	H2O	CMP	green
-nucleoside triphosphate pyrophosphatase	3.6.1.-	H2O	Diphosphate	green
-nucleoside triphosphate pyrophosphatase	3.6.1.-	H2O	UMP	green
-nucleoside triphosphate pyrophosphatase	3.6.1.-	H2O	dTMP	green
-nucleoside triphosphate pyrophosphatase	3.6.1.-	UTP	Diphosphate	green
-nucleoside triphosphate pyrophosphatase	3.6.1.-	UTP	UMP	green
-nucleoside triphosphate pyrophosphatase	3.6.1.-	dTTP	Diphosphate	green
-nucleoside triphosphate pyrophosphatase	3.6.1.-	dTTP	dTMP	green
-nucleoside-diphosphate kinase	2.7.4.6	2'-Deoxy-5-hydroxymethylcytidine-5'-diphosphate	2'-Deoxy-5-hydroxymethylcytidine-5'-triphosphate	green
-nucleoside-diphosphate kinase	2.7.4.6	2'-Deoxy-5-hydroxymethylcytidine-5'-diphosphate	ADP	green
-nucleoside-diphosphate kinase	2.7.4.6	ADP	ATP	green
-nucleoside-diphosphate kinase	2.7.4.6	ADP	CDP	green
-nucleoside-diphosphate kinase	2.7.4.6	ADP	UDP	green
-nucleoside-diphosphate kinase	2.7.4.6	ADP	dCDP	green
-nucleoside-diphosphate kinase	2.7.4.6	ADP	dTDP	green
-nucleoside-diphosphate kinase	2.7.4.6	ADP	dUDP	green
-nucleoside-diphosphate kinase	2.7.4.6	ATP	2'-Deoxy-5-hydroxymethylcytidine-5'-triphosphate	green
-nucleoside-diphosphate kinase	2.7.4.6	ATP	ADP	green
-nucleoside-diphosphate kinase	2.7.4.6	ATP	CTP	green
-nucleoside-diphosphate kinase	2.7.4.6	ATP	UTP	green
-nucleoside-diphosphate kinase	2.7.4.6	ATP	dCTP	green
-nucleoside-diphosphate kinase	2.7.4.6	ATP	dTTP	green
-nucleoside-diphosphate kinase	2.7.4.6	ATP	dUTP	green
-nucleoside-diphosphate kinase	2.7.4.6	CDP	ADP	green
-nucleoside-diphosphate kinase	2.7.4.6	CDP	CTP	green
-nucleoside-diphosphate kinase	2.7.4.6	CTP	ATP	green
-nucleoside-diphosphate kinase	2.7.4.6	CTP	CDP	green
-nucleoside-diphosphate kinase	2.7.4.6	UDP	ADP	green
-nucleoside-diphosphate kinase	2.7.4.6	UDP	UTP	green
-nucleoside-diphosphate kinase	2.7.4.6	UTP	ATP	green
-nucleoside-diphosphate kinase	2.7.4.6	UTP	UDP	green
-nucleoside-diphosphate kinase	2.7.4.6	dCDP	ADP	green
-nucleoside-diphosphate kinase	2.7.4.6	dCDP	dCTP	green
-nucleoside-diphosphate kinase	2.7.4.6	dCTP	ATP	green
-nucleoside-diphosphate kinase	2.7.4.6	dCTP	dCDP	green
-nucleoside-diphosphate kinase	2.7.4.6	dTDP	ADP	green
-nucleoside-diphosphate kinase	2.7.4.6	dTDP	dTTP	green
-nucleoside-diphosphate kinase	2.7.4.6	dTTP	ATP	green
-nucleoside-diphosphate kinase	2.7.4.6	dTTP	dTDP	green
-nucleoside-diphosphate kinase	2.7.4.6	dUDP	ADP	green
-nucleoside-diphosphate kinase	2.7.4.6	dUDP	dUTP	green
-nucleoside-diphosphate kinase	2.7.4.6	dUTP	ATP	green
-nucleoside-diphosphate kinase	2.7.4.6	dUTP	dUDP	green
-orotate phosphoribosyltransferase	2.4.2.10	5-Phospho-alpha-D-ribose 1-diphosphate	Diphosphate	green
-orotate phosphoribosyltransferase	2.4.2.10	5-Phospho-alpha-D-ribose 1-diphosphate	Orotidine 5'-phosphate	green
-orotate phosphoribosyltransferase	2.4.2.10	Diphosphate	5-Phospho-alpha-D-ribose 1-diphosphate	green
-orotate phosphoribosyltransferase	2.4.2.10	Diphosphate	Orotate	green
-orotate phosphoribosyltransferase	2.4.2.10	Orotate	Diphosphate	green
-orotate phosphoribosyltransferase	2.4.2.10	Orotate	Orotidine 5'-phosphate	green
-orotate phosphoribosyltransferase	2.4.2.10	Orotidine 5'-phosphate	5-Phospho-alpha-D-ribose 1-diphosphate	green
-orotate phosphoribosyltransferase	2.4.2.10	Orotidine 5'-phosphate	Orotate	green
-orotidine-5'-phosphate decarboxylase	4.1.1.23	Orotidine 5'-phosphate	CO2	green
-orotidine-5'-phosphate decarboxylase	4.1.1.23	Orotidine 5'-phosphate	UMP	green
-pseudouridine kinase	2.7.1.83	ADP	ATP	white
-pseudouridine kinase	2.7.1.83	ADP	Pseudouridine	white
-pseudouridine kinase	2.7.1.83	ATP	ADP	white
-pseudouridine kinase	2.7.1.83	ATP	Pseudouridine 5'-phosphate	white
-pseudouridine kinase	2.7.1.83	Pseudouridine	ADP	white
-pseudouridine kinase	2.7.1.83	Pseudouridine	Pseudouridine 5'-phosphate	white
-pseudouridine kinase	2.7.1.83	Pseudouridine 5'-phosphate	ATP	white
-pseudouridine kinase	2.7.1.83	Pseudouridine 5'-phosphate	Pseudouridine	white
-pseudouridylate synthase	4.2.1.70	D-Ribose 5-phosphate	H2O	white
-pseudouridylate synthase	4.2.1.70	D-Ribose 5-phosphate	Pseudouridine 5'-phosphate	white
-pseudouridylate synthase	4.2.1.70	H2O	D-Ribose 5-phosphate	white
-pseudouridylate synthase	4.2.1.70	H2O	Uracil	white
-pseudouridylate synthase	4.2.1.70	Pseudouridine 5'-phosphate	D-Ribose 5-phosphate	white
-pseudouridylate synthase	4.2.1.70	Pseudouridine 5'-phosphate	Uracil	white
-pseudouridylate synthase	4.2.1.70	Uracil	H2O	white
-pseudouridylate synthase	4.2.1.70	Uracil	Pseudouridine 5'-phosphate	white
-pseudouridylate synthase / pseudouridine kinase	4.2.1.70	D-Ribose 5-phosphate	H2O	white
-pseudouridylate synthase / pseudouridine kinase	4.2.1.70	D-Ribose 5-phosphate	Pseudouridine 5'-phosphate	white
-pseudouridylate synthase / pseudouridine kinase	4.2.1.70	H2O	D-Ribose 5-phosphate	white
-pseudouridylate synthase / pseudouridine kinase	4.2.1.70	H2O	Uracil	white
-pseudouridylate synthase / pseudouridine kinase	4.2.1.70	Pseudouridine 5'-phosphate	D-Ribose 5-phosphate	white
-pseudouridylate synthase / pseudouridine kinase	4.2.1.70	Pseudouridine 5'-phosphate	Uracil	white
-pseudouridylate synthase / pseudouridine kinase	4.2.1.70	Uracil	H2O	white
-pseudouridylate synthase / pseudouridine kinase	4.2.1.70	Uracil	Pseudouridine 5'-phosphate	white
-purine/pyrimidine-nucleoside phosphorylase	2.4.2.1	Adenine	Adenosine	white
-purine/pyrimidine-nucleoside phosphorylase	2.4.2.1	Adenine	Orthophosphate	white
-purine/pyrimidine-nucleoside phosphorylase	2.4.2.1	Adenosine	Adenine	white
-purine/pyrimidine-nucleoside phosphorylase	2.4.2.1	Adenosine	alpha-D-Ribose 1-phosphate	white
-purine/pyrimidine-nucleoside phosphorylase	2.4.2.1	Orthophosphate	Adenine	white
-purine/pyrimidine-nucleoside phosphorylase	2.4.2.1	Orthophosphate	alpha-D-Ribose 1-phosphate	white
-purine/pyrimidine-nucleoside phosphorylase	2.4.2.1	alpha-D-Ribose 1-phosphate	Adenosine	white
-purine/pyrimidine-nucleoside phosphorylase	2.4.2.1	alpha-D-Ribose 1-phosphate	Orthophosphate	white
-pyrimidine 5'-nucleotidase	3.1.3.-	CMP	Cytidine	white
-pyrimidine 5'-nucleotidase	3.1.3.-	CMP	Orthophosphate	white
-pyrimidine 5'-nucleotidase	3.1.3.-	Cytidine	CMP	white
-pyrimidine 5'-nucleotidase	3.1.3.-	Cytidine	H2O	white
-pyrimidine 5'-nucleotidase	3.1.3.-	H2O	Cytidine	white
-pyrimidine 5'-nucleotidase	3.1.3.-	H2O	Orthophosphate	white
-pyrimidine 5'-nucleotidase	3.1.3.-	Orthophosphate	CMP	white
-pyrimidine 5'-nucleotidase	3.1.3.-	Orthophosphate	H2O	white
-pyrimidine operon attenuation protein / uracil phosphoribosyltransferase	2.4.2.9	Diphosphate	5-Phospho-alpha-D-ribose 1-diphosphate	green
-pyrimidine operon attenuation protein / uracil phosphoribosyltransferase	2.4.2.9	Diphosphate	Uracil	green
-pyrimidine operon attenuation protein / uracil phosphoribosyltransferase	2.4.2.9	UMP	5-Phospho-alpha-D-ribose 1-diphosphate	green
-pyrimidine operon attenuation protein / uracil phosphoribosyltransferase	2.4.2.9	UMP	Uracil	green
-pyrimidine-nucleoside phosphorylase	2.4.2.2	2-Deoxy-D-ribose 1-phosphate	Orthophosphate	white
-pyrimidine-nucleoside phosphorylase	2.4.2.2	2-Deoxy-D-ribose 1-phosphate	Thymidine	white
-pyrimidine-nucleoside phosphorylase	2.4.2.2	Orthophosphate	2-Deoxy-D-ribose 1-phosphate	white
-pyrimidine-nucleoside phosphorylase	2.4.2.2	Orthophosphate	Thymine	white
-pyrimidine-nucleoside phosphorylase	2.4.2.2	Thymidine	2-Deoxy-D-ribose 1-phosphate	white
-pyrimidine-nucleoside phosphorylase	2.4.2.2	Thymidine	Thymine	white
-pyrimidine-nucleoside phosphorylase	2.4.2.2	Thymine	Orthophosphate	white
-pyrimidine-nucleoside phosphorylase	2.4.2.2	Thymine	Thymidine	white
-pyrimidine-specific ribonucleoside hydrolase	3.2.2.-	D-Ribose	H2O	white
-pyrimidine-specific ribonucleoside hydrolase	3.2.2.-	D-Ribose	Uridine	white
-pyrimidine-specific ribonucleoside hydrolase	3.2.2.-	H2O	D-Ribose	white
-pyrimidine-specific ribonucleoside hydrolase	3.2.2.-	H2O	Uracil	white
-pyrimidine-specific ribonucleoside hydrolase	3.2.2.-	Uracil	H2O	white
-pyrimidine-specific ribonucleoside hydrolase	3.2.2.-	Uracil	Uridine	white
-pyrimidine-specific ribonucleoside hydrolase	3.2.2.-	Uridine	D-Ribose	white
-pyrimidine-specific ribonucleoside hydrolase	3.2.2.-	Uridine	Uracil	white
-pyrimidine/purine-5'-nucleotide nucleosidase	3.2.2.10	AMP	Adenine	white
-pyrimidine/purine-5'-nucleotide nucleosidase	3.2.2.10	AMP	D-Ribose 5-phosphate	white
-pyrimidine/purine-5'-nucleotide nucleosidase	3.2.2.10	Adenine	AMP	white
-pyrimidine/purine-5'-nucleotide nucleosidase	3.2.2.10	Adenine	H2O	white
-pyrimidine/purine-5'-nucleotide nucleosidase	3.2.2.10	D-Ribose 5-phosphate	AMP	white
-pyrimidine/purine-5'-nucleotide nucleosidase	3.2.2.10	D-Ribose 5-phosphate	H2O	white
-pyrimidine/purine-5'-nucleotide nucleosidase	3.2.2.10	H2O	Adenine	white
-pyrimidine/purine-5'-nucleotide nucleosidase	3.2.2.10	H2O	D-Ribose 5-phosphate	white
-ribonucleoside-diphosphate reductase alpha chain	1.17.4.1	H2O	CDP	green
-ribonucleoside-diphosphate reductase alpha chain	1.17.4.1	H2O	Thioredoxin	green
-ribonucleoside-diphosphate reductase alpha chain	1.17.4.1	H2O	UDP	green
-ribonucleoside-diphosphate reductase alpha chain	1.17.4.1	Thioredoxin disulfide	CDP	green
-ribonucleoside-diphosphate reductase alpha chain	1.17.4.1	Thioredoxin disulfide	Thioredoxin	green
-ribonucleoside-diphosphate reductase alpha chain	1.17.4.1	Thioredoxin disulfide	UDP	green
-ribonucleoside-diphosphate reductase alpha chain	1.17.4.1	dCDP	CDP	green
-ribonucleoside-diphosphate reductase alpha chain	1.17.4.1	dCDP	Thioredoxin	green
-ribonucleoside-diphosphate reductase alpha chain	1.17.4.1	dUDP	Thioredoxin	green
-ribonucleoside-diphosphate reductase alpha chain	1.17.4.1	dUDP	UDP	green
-ribonucleoside-diphosphate reductase beta chain	1.17.4.1	H2O	CDP	green
-ribonucleoside-diphosphate reductase beta chain	1.17.4.1	H2O	Thioredoxin	green
-ribonucleoside-diphosphate reductase beta chain	1.17.4.1	H2O	UDP	green
-ribonucleoside-diphosphate reductase beta chain	1.17.4.1	Thioredoxin disulfide	CDP	green
-ribonucleoside-diphosphate reductase beta chain	1.17.4.1	Thioredoxin disulfide	Thioredoxin	green
-ribonucleoside-diphosphate reductase beta chain	1.17.4.1	Thioredoxin disulfide	UDP	green
-ribonucleoside-diphosphate reductase beta chain	1.17.4.1	dCDP	CDP	green
-ribonucleoside-diphosphate reductase beta chain	1.17.4.1	dCDP	Thioredoxin	green
-ribonucleoside-diphosphate reductase beta chain	1.17.4.1	dUDP	Thioredoxin	green
-ribonucleoside-diphosphate reductase beta chain	1.17.4.1	dUDP	UDP	green
-ribonucleoside-triphosphate reductase (formate)	1.1.98.6	CO2	Formate	white
-ribonucleoside-triphosphate reductase (formate)	1.1.98.6	CO2	GTP	white
-ribonucleoside-triphosphate reductase (formate)	1.1.98.6	Formate	CO2	white
-ribonucleoside-triphosphate reductase (formate)	1.1.98.6	Formate	H2O	white
-ribonucleoside-triphosphate reductase (formate)	1.1.98.6	Formate	dGTP	white
-ribonucleoside-triphosphate reductase (formate)	1.1.98.6	GTP	CO2	white
-ribonucleoside-triphosphate reductase (formate)	1.1.98.6	GTP	H2O	white
-ribonucleoside-triphosphate reductase (formate)	1.1.98.6	GTP	dGTP	white
-ribonucleoside-triphosphate reductase (formate)	1.1.98.6	H2O	Formate	white
-ribonucleoside-triphosphate reductase (formate)	1.1.98.6	H2O	GTP	white
-ribonucleoside-triphosphate reductase (formate)	1.1.98.6	dGTP	Formate	white
-ribonucleoside-triphosphate reductase (formate)	1.1.98.6	dGTP	GTP	white
-ribonucleoside-triphosphate reductase (thioredoxin)	1.17.4.2	ATP	H2O	white
-ribonucleoside-triphosphate reductase (thioredoxin)	1.17.4.2	ATP	Thioredoxin disulfide	white
-ribonucleoside-triphosphate reductase (thioredoxin)	1.17.4.2	ATP	dATP	white
-ribonucleoside-triphosphate reductase (thioredoxin)	1.17.4.2	H2O	ATP	white
-ribonucleoside-triphosphate reductase (thioredoxin)	1.17.4.2	H2O	Thioredoxin	white
-ribonucleoside-triphosphate reductase (thioredoxin)	1.17.4.2	Thioredoxin	H2O	white
-ribonucleoside-triphosphate reductase (thioredoxin)	1.17.4.2	Thioredoxin	Thioredoxin disulfide	white
-ribonucleoside-triphosphate reductase (thioredoxin)	1.17.4.2	Thioredoxin	dATP	white
-ribonucleoside-triphosphate reductase (thioredoxin)	1.17.4.2	Thioredoxin disulfide	ATP	white
-ribonucleoside-triphosphate reductase (thioredoxin)	1.17.4.2	Thioredoxin disulfide	Thioredoxin	white
-ribonucleoside-triphosphate reductase (thioredoxin)	1.17.4.2	dATP	ATP	white
-ribonucleoside-triphosphate reductase (thioredoxin)	1.17.4.2	dATP	Thioredoxin	white
-ribonucleotide reductase, class II	1.17.4.2	ATP	H2O	white
-ribonucleotide reductase, class II	1.17.4.2	ATP	Thioredoxin disulfide	white
-ribonucleotide reductase, class II	1.17.4.2	ATP	dATP	white
-ribonucleotide reductase, class II	1.17.4.2	H2O	ATP	white
-ribonucleotide reductase, class II	1.17.4.2	H2O	Thioredoxin	white
-ribonucleotide reductase, class II	1.17.4.2	Thioredoxin	H2O	white
-ribonucleotide reductase, class II	1.17.4.2	Thioredoxin	Thioredoxin disulfide	white
-ribonucleotide reductase, class II	1.17.4.2	Thioredoxin	dATP	white
-ribonucleotide reductase, class II	1.17.4.2	Thioredoxin disulfide	ATP	white
-ribonucleotide reductase, class II	1.17.4.2	Thioredoxin disulfide	Thioredoxin	white
-ribonucleotide reductase, class II	1.17.4.2	dATP	ATP	white
-ribonucleotide reductase, class II	1.17.4.2	dATP	Thioredoxin	white
-ribosylpyrimidine nucleosidase	3.2.2.8	D-Ribose	H2O	white
-ribosylpyrimidine nucleosidase	3.2.2.8	D-Ribose	Uridine	white
-ribosylpyrimidine nucleosidase	3.2.2.8	H2O	D-Ribose	white
-ribosylpyrimidine nucleosidase	3.2.2.8	H2O	Uracil	white
-ribosylpyrimidine nucleosidase	3.2.2.8	Uracil	H2O	white
-ribosylpyrimidine nucleosidase	3.2.2.8	Uracil	Uridine	white
-ribosylpyrimidine nucleosidase	3.2.2.8	Uridine	D-Ribose	white
-ribosylpyrimidine nucleosidase	3.2.2.8	Uridine	Uracil	white
-soluble calcium-activated nucleotidase 1	3.6.1.6	H2O	Orthophosphate	white
-soluble calcium-activated nucleotidase 1	3.6.1.6	H2O	UMP	white
-soluble calcium-activated nucleotidase 1	3.6.1.6	Orthophosphate	H2O	white
-soluble calcium-activated nucleotidase 1	3.6.1.6	Orthophosphate	UDP	white
-soluble calcium-activated nucleotidase 1	3.6.1.6	UDP	Orthophosphate	white
-soluble calcium-activated nucleotidase 1	3.6.1.6	UDP	UMP	white
-soluble calcium-activated nucleotidase 1	3.6.1.6	UMP	H2O	white
-soluble calcium-activated nucleotidase 1	3.6.1.6	UMP	UDP	white
-thymidine kinase	2.7.1.21	ADP	ATP	white
-thymidine kinase	2.7.1.21	ADP	Thymidine	white
-thymidine kinase	2.7.1.21	ATP	ADP	white
-thymidine kinase	2.7.1.21	ATP	dTMP	white
-thymidine kinase	2.7.1.21	Thymidine	ADP	white
-thymidine kinase	2.7.1.21	Thymidine	dTMP	white
-thymidine kinase	2.7.1.21	dTMP	ATP	white
-thymidine kinase	2.7.1.21	dTMP	Thymidine	white
-thymidine phosphorylase	2.4.2.4	2-Deoxy-D-ribose 1-phosphate	Deoxyuridine	green
-thymidine phosphorylase	2.4.2.4	2-Deoxy-D-ribose 1-phosphate	Orthophosphate	green
-thymidine phosphorylase	2.4.2.4	2-Deoxy-D-ribose 1-phosphate	Thymidine	green
-thymidine phosphorylase	2.4.2.4	Deoxyuridine	2-Deoxy-D-ribose 1-phosphate	green
-thymidine phosphorylase	2.4.2.4	Deoxyuridine	Uracil	green
-thymidine phosphorylase	2.4.2.4	Orthophosphate	2-Deoxy-D-ribose 1-phosphate	green
-thymidine phosphorylase	2.4.2.4	Orthophosphate	Thymine	green
-thymidine phosphorylase	2.4.2.4	Orthophosphate	Uracil	green
-thymidine phosphorylase	2.4.2.4	Thymidine	2-Deoxy-D-ribose 1-phosphate	green
-thymidine phosphorylase	2.4.2.4	Thymidine	Thymine	green
-thymidine phosphorylase	2.4.2.4	Thymine	Orthophosphate	green
-thymidine phosphorylase	2.4.2.4	Thymine	Thymidine	green
-thymidine phosphorylase	2.4.2.4	Uracil	Deoxyuridine	green
-thymidine phosphorylase	2.4.2.4	Uracil	Orthophosphate	green
-thymidylate synthase	2.1.1.45	5,10-Methylenetetrahydrofolate	Dihydrofolate	green
-thymidylate synthase	2.1.1.45	5,10-Methylenetetrahydrofolate	dTMP	green
-thymidylate synthase	2.1.1.45	dUMP	Dihydrofolate	green
-thymidylate synthase	2.1.1.45	dUMP	dTMP	green
-thymidylate synthase (FAD)	2.1.1.148	5,10-Methylenetetrahydrofolate	NADP+	green
-thymidylate synthase (FAD)	2.1.1.148	5,10-Methylenetetrahydrofolate	Tetrahydrofolate	green
-thymidylate synthase (FAD)	2.1.1.148	5,10-Methylenetetrahydrofolate	dTMP	green
-thymidylate synthase (FAD)	2.1.1.148	H+	NADP+	green
-thymidylate synthase (FAD)	2.1.1.148	H+	Tetrahydrofolate	green
-thymidylate synthase (FAD)	2.1.1.148	H+	dTMP	green
-thymidylate synthase (FAD)	2.1.1.148	NADPH	NADP+	green
-thymidylate synthase (FAD)	2.1.1.148	NADPH	Tetrahydrofolate	green
-thymidylate synthase (FAD)	2.1.1.148	NADPH	dTMP	green
-thymidylate synthase (FAD)	2.1.1.148	dUMP	NADP+	green
-thymidylate synthase (FAD)	2.1.1.148	dUMP	Tetrahydrofolate	green
-thymidylate synthase (FAD)	2.1.1.148	dUMP	dTMP	green
-uracil phosphoribosyltransferase	2.4.2.9	Diphosphate	5-Phospho-alpha-D-ribose 1-diphosphate	green
-uracil phosphoribosyltransferase	2.4.2.9	Diphosphate	Uracil	green
-uracil phosphoribosyltransferase	2.4.2.9	UMP	5-Phospho-alpha-D-ribose 1-diphosphate	green
-uracil phosphoribosyltransferase	2.4.2.9	UMP	Uracil	green
-ureidoacrylate peracid hydrolase	3.5.1.110	(Z)-3-Ureidoacrylate peracid	(Z)-3-Peroxyaminoacrylate	green
-ureidoacrylate peracid hydrolase	3.5.1.110	(Z)-3-Ureidoacrylate peracid	Carbamate	green
-ureidoacrylate peracid hydrolase	3.5.1.110	H2O	(Z)-3-Peroxyaminoacrylate	green
-ureidoacrylate peracid hydrolase	3.5.1.110	H2O	Aminoacrylate	green
-ureidoacrylate peracid hydrolase	3.5.1.110	H2O	Carbamate	green
-ureidoacrylate peracid hydrolase	3.5.1.110	Ureidoacrylate	Aminoacrylate	green
-ureidoacrylate peracid hydrolase	3.5.1.110	Ureidoacrylate	Carbamate	green
-ureidomalonase	3.5.1.95	3-Oxo-3-ureidoisobutyrate	Methylmalonate	green
-ureidomalonase	3.5.1.95	3-Oxo-3-ureidoisobutyrate	Urea	green
-ureidomalonase	3.5.1.95	3-Oxo-3-ureidopropanoate	Malonate	green
-ureidomalonase	3.5.1.95	3-Oxo-3-ureidopropanoate	Urea	green
-ureidomalonase	3.5.1.95	H2O	Malonate	green
-ureidomalonase	3.5.1.95	H2O	Methylmalonate	green
-ureidomalonase	3.5.1.95	H2O	Urea	green
-uridine kinase	2.7.1.48	ADP	ATP	white
-uridine kinase	2.7.1.48	ADP	Cytidine	white
-uridine kinase	2.7.1.48	ATP	ADP	white
-uridine kinase	2.7.1.48	ATP	CMP	white
-uridine kinase	2.7.1.48	CMP	ATP	white
-uridine kinase	2.7.1.48	CMP	Cytidine	white
-uridine kinase	2.7.1.48	Cytidine	ADP	white
-uridine kinase	2.7.1.48	Cytidine	CMP	white
-uridine nucleosidase	3.2.2.3	D-Ribose	H2O	white
-uridine nucleosidase	3.2.2.3	D-Ribose	Uridine	white
-uridine nucleosidase	3.2.2.3	H2O	D-Ribose	white
-uridine nucleosidase	3.2.2.3	H2O	Uracil	white
-uridine nucleosidase	3.2.2.3	Uracil	H2O	white
-uridine nucleosidase	3.2.2.3	Uracil	Uridine	white
-uridine nucleosidase	3.2.2.3	Uridine	D-Ribose	white
-uridine nucleosidase	3.2.2.3	Uridine	Uracil	white
-uridine phosphorylase	2.4.2.3	Orthophosphate	Uracil	white
-uridine phosphorylase	2.4.2.3	Orthophosphate	alpha-D-Ribose 1-phosphate	white
-uridine phosphorylase	2.4.2.3	Uracil	Orthophosphate	white
-uridine phosphorylase	2.4.2.3	Uracil	Uridine	white
-uridine phosphorylase	2.4.2.3	Uridine	Uracil	white
-uridine phosphorylase	2.4.2.3	Uridine	alpha-D-Ribose 1-phosphate	white
-uridine phosphorylase	2.4.2.3	alpha-D-Ribose 1-phosphate	Orthophosphate	white
-uridine phosphorylase	2.4.2.3	alpha-D-Ribose 1-phosphate	Uridine	white
-uridylate cyclase	4.6.1.26	3',5'-Cyclic UMP	UTP	white
-uridylate cyclase	4.6.1.26	Diphosphate	UTP	white
-uridylate cyclase	4.6.1.26	UTP	3',5'-Cyclic UMP	white
-uridylate cyclase	4.6.1.26	UTP	Diphosphate	white
-uridylate kinase	2.7.4.22	ADP	ATP	green
-uridylate kinase	2.7.4.22	ADP	UMP	green
-uridylate kinase	2.7.4.22	ATP	ADP	green
-uridylate kinase	2.7.4.22	ATP	UDP	green
-uridylate kinase	2.7.4.22	UDP	ATP	green
-uridylate kinase	2.7.4.22	UDP	UMP	green
-uridylate kinase	2.7.4.22	UMP	ADP	green
-uridylate kinase	2.7.4.22	UMP	UDP	green
+enzyme_name	EC	source	target	reaction	color
+(d)CTP diphosphatase	3.6.1.65	CMP	CTP	R00515	white
+(d)CTP diphosphatase	3.6.1.65	CMP	H2O	R00515	white
+(d)CTP diphosphatase	3.6.1.65	CTP	CMP	R00515	white
+(d)CTP diphosphatase	3.6.1.65	CTP	Diphosphate	R00515	white
+(d)CTP diphosphatase	3.6.1.65	Diphosphate	CTP	R00515	white
+(d)CTP diphosphatase	3.6.1.65	Diphosphate	H2O	R00515	white
+(d)CTP diphosphatase	3.6.1.65	H2O	CMP	R00515	white
+(d)CTP diphosphatase	3.6.1.65	H2O	Diphosphate	R00515	white
+2',3'-cyclic-nucleotide 2'-phosphodiesterase	3.1.4.16	2',3'-Cyclic AMP	3'-AMP	R03537	white
+2',3'-cyclic-nucleotide 2'-phosphodiesterase	3.1.4.16	3'-AMP	2',3'-Cyclic AMP	R03537	white
+2',3'-cyclic-nucleotide 2'-phosphodiesterase	3.1.4.16	3'-AMP	H2O	R03537	white
+2',3'-cyclic-nucleotide 2'-phosphodiesterase	3.1.4.16	H2O	3'-AMP	R03537	white
+2',3'-cyclic-nucleotide 2'-phosphodiesterase / 3'-nucleotidase	3.1.4.16	3'-AMP	Adenosine	R01562	white
+2',3'-cyclic-nucleotide 2'-phosphodiesterase / 3'-nucleotidase	3.1.4.16	3'-AMP	Orthophosphate	R01562	white
+2',3'-cyclic-nucleotide 2'-phosphodiesterase / 3'-nucleotidase	3.1.4.16	Adenosine	3'-AMP	R01562	white
+2',3'-cyclic-nucleotide 2'-phosphodiesterase / 3'-nucleotidase	3.1.4.16	Adenosine	H2O	R01562	white
+2',3'-cyclic-nucleotide 2'-phosphodiesterase / 3'-nucleotidase	3.1.4.16	H2O	Adenosine	R01562	white
+2',3'-cyclic-nucleotide 2'-phosphodiesterase / 3'-nucleotidase	3.1.4.16	H2O	Orthophosphate	R01562	white
+2',3'-cyclic-nucleotide 2'-phosphodiesterase / 3'-nucleotidase	3.1.4.16	Orthophosphate	3'-AMP	R01562	white
+2',3'-cyclic-nucleotide 2'-phosphodiesterase / 3'-nucleotidase	3.1.4.16	Orthophosphate	H2O	R01562	white
+2',3'-cyclic-nucleotide 2'-phosphodiesterase / 3'-nucleotidase / 5'-nucleotidase	3.1.4.16	AMP	Adenosine	R00183	white
+2',3'-cyclic-nucleotide 2'-phosphodiesterase / 3'-nucleotidase / 5'-nucleotidase	3.1.4.16	AMP	Orthophosphate	R00183	white
+2',3'-cyclic-nucleotide 2'-phosphodiesterase / 3'-nucleotidase / 5'-nucleotidase	3.1.4.16	Adenosine	AMP	R00183	white
+2',3'-cyclic-nucleotide 2'-phosphodiesterase / 3'-nucleotidase / 5'-nucleotidase	3.1.4.16	Adenosine	H2O	R00183	white
+2',3'-cyclic-nucleotide 2'-phosphodiesterase / 3'-nucleotidase / 5'-nucleotidase	3.1.4.16	H2O	Adenosine	R00183	white
+2',3'-cyclic-nucleotide 2'-phosphodiesterase / 3'-nucleotidase / 5'-nucleotidase	3.1.4.16	H2O	Orthophosphate	R00183	white
+2',3'-cyclic-nucleotide 2'-phosphodiesterase / 3'-nucleotidase / 5'-nucleotidase	3.1.4.16	Orthophosphate	AMP	R00183	white
+2',3'-cyclic-nucleotide 2'-phosphodiesterase / 3'-nucleotidase / 5'-nucleotidase	3.1.4.16	Orthophosphate	H2O	R00183	white
+2',3'-cyclic-nucleotide 2'-phosphodiesterase / phosphoenolpyruvate phosphatase	3.1.4.16	2',3'-Cyclic AMP	3'-AMP	R03537	white
+2',3'-cyclic-nucleotide 2'-phosphodiesterase / phosphoenolpyruvate phosphatase	3.1.4.16	3'-AMP	2',3'-Cyclic AMP	R03537	white
+2',3'-cyclic-nucleotide 2'-phosphodiesterase / phosphoenolpyruvate phosphatase	3.1.4.16	3'-AMP	H2O	R03537	white
+2',3'-cyclic-nucleotide 2'-phosphodiesterase / phosphoenolpyruvate phosphatase	3.1.4.16	H2O	3'-AMP	R03537	white
+3-hydroxy acid dehydrogenase / malonic semialdehyde reductase	1.1.1.381	3-Hydroxypropanoate	3-Oxopropanoate	R09289	white
+3-hydroxy acid dehydrogenase / malonic semialdehyde reductase	1.1.1.381	3-Hydroxypropanoate	H+	R09289	white
+3-hydroxy acid dehydrogenase / malonic semialdehyde reductase	1.1.1.381	3-Hydroxypropanoate	NADPH	R09289	white
+3-hydroxy acid dehydrogenase / malonic semialdehyde reductase	1.1.1.381	3-Oxopropanoate	3-Hydroxypropanoate	R09289	white
+3-hydroxy acid dehydrogenase / malonic semialdehyde reductase	1.1.1.381	3-Oxopropanoate	NADP+	R09289	white
+3-hydroxy acid dehydrogenase / malonic semialdehyde reductase	1.1.1.381	H+	3-Hydroxypropanoate	R09289	white
+3-hydroxy acid dehydrogenase / malonic semialdehyde reductase	1.1.1.381	H+	NADP+	R09289	white
+3-hydroxy acid dehydrogenase / malonic semialdehyde reductase	1.1.1.381	NADP+	3-Oxopropanoate	R09289	white
+3-hydroxy acid dehydrogenase / malonic semialdehyde reductase	1.1.1.381	NADP+	H+	R09289	white
+3-hydroxy acid dehydrogenase / malonic semialdehyde reductase	1.1.1.381	NADP+	NADPH	R09289	white
+3-hydroxy acid dehydrogenase / malonic semialdehyde reductase	1.1.1.381	NADPH	3-Hydroxypropanoate	R09289	white
+3-hydroxy acid dehydrogenase / malonic semialdehyde reductase	1.1.1.381	NADPH	NADP+	R09289	white
+3-hydroxypropanoate dehydrogenase	1.1.1.-	3-Hydroxypropanoate	3-Oxopropanoate	R09289	white
+3-hydroxypropanoate dehydrogenase	1.1.1.-	3-Hydroxypropanoate	H+	R09289	white
+3-hydroxypropanoate dehydrogenase	1.1.1.-	3-Hydroxypropanoate	NADPH	R09289	white
+3-hydroxypropanoate dehydrogenase	1.1.1.-	3-Oxopropanoate	3-Hydroxypropanoate	R09289	white
+3-hydroxypropanoate dehydrogenase	1.1.1.-	3-Oxopropanoate	NADP+	R09289	white
+3-hydroxypropanoate dehydrogenase	1.1.1.-	H+	3-Hydroxypropanoate	R09289	white
+3-hydroxypropanoate dehydrogenase	1.1.1.-	H+	NADP+	R09289	white
+3-hydroxypropanoate dehydrogenase	1.1.1.-	NADP+	3-Oxopropanoate	R09289	white
+3-hydroxypropanoate dehydrogenase	1.1.1.-	NADP+	H+	R09289	white
+3-hydroxypropanoate dehydrogenase	1.1.1.-	NADP+	NADPH	R09289	white
+3-hydroxypropanoate dehydrogenase	1.1.1.-	NADPH	3-Hydroxypropanoate	R09289	white
+3-hydroxypropanoate dehydrogenase	1.1.1.-	NADPH	NADP+	R09289	white
+5'-deoxynucleotidase	3.1.3.89	H2O	Orthophosphate	R01569	white
+5'-deoxynucleotidase	3.1.3.89	H2O	Thymidine	R01569	white
+5'-deoxynucleotidase	3.1.3.89	Orthophosphate	H2O	R01569	white
+5'-deoxynucleotidase	3.1.3.89	Orthophosphate	dTMP	R01569	white
+5'-deoxynucleotidase	3.1.3.89	Thymidine	H2O	R01569	white
+5'-deoxynucleotidase	3.1.3.89	Thymidine	dTMP	R01569	white
+5'-deoxynucleotidase	3.1.3.89	dTMP	Orthophosphate	R01569	white
+5'-deoxynucleotidase	3.1.3.89	dTMP	Thymidine	R01569	white
+5'-nucleotidase	3.1.3.5	AMP	Adenosine	R00183	white
+5'-nucleotidase	3.1.3.5	AMP	Orthophosphate	R00183	white
+5'-nucleotidase	3.1.3.5	Adenosine	AMP	R00183	white
+5'-nucleotidase	3.1.3.5	Adenosine	H2O	R00183	white
+5'-nucleotidase	3.1.3.5	CMP	Cytidine	R00511	green
+5'-nucleotidase	3.1.3.5	CMP	Orthophosphate	R00511	green
+5'-nucleotidase	3.1.3.5	H2O	Adenosine	R00183	white
+5'-nucleotidase	3.1.3.5	H2O	Cytidine	R00511	green
+5'-nucleotidase	3.1.3.5	H2O	Deoxycytidine	R01664	green
+5'-nucleotidase	3.1.3.5	H2O	Deoxyuridine	R02102	green
+5'-nucleotidase	3.1.3.5	H2O	Orthophosphate	R00183	white
+5'-nucleotidase	3.1.3.5	H2O	Orthophosphate	R00511	green
+5'-nucleotidase	3.1.3.5	H2O	Orthophosphate	R00963	green
+5'-nucleotidase	3.1.3.5	H2O	Orthophosphate	R01569	green
+5'-nucleotidase	3.1.3.5	H2O	Orthophosphate	R01664	green
+5'-nucleotidase	3.1.3.5	H2O	Orthophosphate	R02102	green
+5'-nucleotidase	3.1.3.5	H2O	Thymidine	R01569	green
+5'-nucleotidase	3.1.3.5	H2O	Uridine	R00963	green
+5'-nucleotidase	3.1.3.5	Orthophosphate	AMP	R00183	white
+5'-nucleotidase	3.1.3.5	Orthophosphate	H2O	R00183	white
+5'-nucleotidase	3.1.3.5	UMP	Orthophosphate	R00963	green
+5'-nucleotidase	3.1.3.5	UMP	Uridine	R00963	green
+5'-nucleotidase	3.1.3.5	dCMP	Deoxycytidine	R01664	green
+5'-nucleotidase	3.1.3.5	dCMP	Orthophosphate	R01664	green
+5'-nucleotidase	3.1.3.5	dTMP	Orthophosphate	R01569	green
+5'-nucleotidase	3.1.3.5	dTMP	Thymidine	R01569	green
+5'-nucleotidase	3.1.3.5	dUMP	Deoxyuridine	R02102	green
+5'-nucleotidase	3.1.3.5	dUMP	Orthophosphate	R02102	green
+5'/3'-nucleotidase	3.1.3.5	AMP	Adenosine	R00183	white
+5'/3'-nucleotidase	3.1.3.5	AMP	Orthophosphate	R00183	white
+5'/3'-nucleotidase	3.1.3.5	Adenosine	AMP	R00183	white
+5'/3'-nucleotidase	3.1.3.5	Adenosine	H2O	R00183	white
+5'/3'-nucleotidase	3.1.3.5	H2O	Adenosine	R00183	white
+5'/3'-nucleotidase	3.1.3.5	H2O	Orthophosphate	R00183	white
+5'/3'-nucleotidase	3.1.3.5	Orthophosphate	AMP	R00183	white
+5'/3'-nucleotidase	3.1.3.5	Orthophosphate	H2O	R00183	white
+7-methylguanosine nucleotidase	3.1.3.91	CMP	Cytidine	R00511	white
+7-methylguanosine nucleotidase	3.1.3.91	CMP	Orthophosphate	R00511	white
+7-methylguanosine nucleotidase	3.1.3.91	Cytidine	CMP	R00511	white
+7-methylguanosine nucleotidase	3.1.3.91	Cytidine	H2O	R00511	white
+7-methylguanosine nucleotidase	3.1.3.91	H2O	Cytidine	R00511	white
+7-methylguanosine nucleotidase	3.1.3.91	H2O	Orthophosphate	R00511	white
+7-methylguanosine nucleotidase	3.1.3.91	Orthophosphate	CMP	R00511	white
+7-methylguanosine nucleotidase	3.1.3.91	Orthophosphate	H2O	R00511	white
+AMP phosphorylase	2.4.2.57	AMP	Adenine	R10836	white
+AMP phosphorylase	2.4.2.57	AMP	D-Ribose 1,5-bisphosphate	R10836	white
+AMP phosphorylase	2.4.2.57	Adenine	AMP	R10836	white
+AMP phosphorylase	2.4.2.57	Adenine	Orthophosphate	R10836	white
+AMP phosphorylase	2.4.2.57	D-Ribose 1,5-bisphosphate	AMP	R10836	white
+AMP phosphorylase	2.4.2.57	D-Ribose 1,5-bisphosphate	Orthophosphate	R10836	white
+AMP phosphorylase	2.4.2.57	Orthophosphate	Adenine	R10836	white
+AMP phosphorylase	2.4.2.57	Orthophosphate	D-Ribose 1,5-bisphosphate	R10836	white
+CMP/dCMP kinase	2.7.4.25	ADP	ATP	R00512	green
+CMP/dCMP kinase	2.7.4.25	ADP	ATP	R01665	green
+CMP/dCMP kinase	2.7.4.25	ADP	CMP	R00512	green
+CMP/dCMP kinase	2.7.4.25	ADP	dCMP	R01665	green
+CMP/dCMP kinase	2.7.4.25	ATP	ADP	R00512	green
+CMP/dCMP kinase	2.7.4.25	ATP	ADP	R01665	green
+CMP/dCMP kinase	2.7.4.25	ATP	CDP	R00512	green
+CMP/dCMP kinase	2.7.4.25	ATP	dCDP	R01665	green
+CMP/dCMP kinase	2.7.4.25	CDP	ATP	R00512	green
+CMP/dCMP kinase	2.7.4.25	CDP	CMP	R00512	green
+CMP/dCMP kinase	2.7.4.25	CMP	ADP	R00512	green
+CMP/dCMP kinase	2.7.4.25	CMP	CDP	R00512	green
+CMP/dCMP kinase	2.7.4.25	dCDP	ATP	R01665	green
+CMP/dCMP kinase	2.7.4.25	dCDP	dCMP	R01665	green
+CMP/dCMP kinase	2.7.4.25	dCMP	ADP	R01665	green
+CMP/dCMP kinase	2.7.4.25	dCMP	dCDP	R01665	green
+CTP synthase	6.3.4.2	ATP	ADP	R00571	green
+CTP synthase	6.3.4.2	ATP	ADP	R00573	green
+CTP synthase	6.3.4.2	ATP	CTP	R00571	green
+CTP synthase	6.3.4.2	ATP	CTP	R00573	green
+CTP synthase	6.3.4.2	ATP	L-Glutamate	R00573	green
+CTP synthase	6.3.4.2	ATP	Orthophosphate	R00571	green
+CTP synthase	6.3.4.2	ATP	Orthophosphate	R00573	green
+CTP synthase	6.3.4.2	Ammonia	ADP	R00571	green
+CTP synthase	6.3.4.2	Ammonia	CTP	R00571	green
+CTP synthase	6.3.4.2	Ammonia	Orthophosphate	R00571	green
+CTP synthase	6.3.4.2	H2O	ADP	R00573	green
+CTP synthase	6.3.4.2	H2O	CTP	R00573	green
+CTP synthase	6.3.4.2	H2O	L-Glutamate	R00573	green
+CTP synthase	6.3.4.2	H2O	Orthophosphate	R00573	green
+CTP synthase	6.3.4.2	L-Glutamine	ADP	R00573	green
+CTP synthase	6.3.4.2	L-Glutamine	CTP	R00573	green
+CTP synthase	6.3.4.2	L-Glutamine	L-Glutamate	R00573	green
+CTP synthase	6.3.4.2	L-Glutamine	Orthophosphate	R00573	green
+CTP synthase	6.3.4.2	UTP	ADP	R00571	green
+CTP synthase	6.3.4.2	UTP	ADP	R00573	green
+CTP synthase	6.3.4.2	UTP	CTP	R00571	green
+CTP synthase	6.3.4.2	UTP	CTP	R00573	green
+CTP synthase	6.3.4.2	UTP	L-Glutamate	R00573	green
+CTP synthase	6.3.4.2	UTP	Orthophosphate	R00571	green
+CTP synthase	6.3.4.2	UTP	Orthophosphate	R00573	green
+Straboviridae T-even-induced deoxynucleotide kinase	2.7.4.12	2'-Deoxy-5-hydroxymethylcytidine-5'-diphosphate	5-Hydroxymethyldeoxycytidylate	R00140	white
+Straboviridae T-even-induced deoxynucleotide kinase	2.7.4.12	2'-Deoxy-5-hydroxymethylcytidine-5'-diphosphate	ATP	R00140	white
+Straboviridae T-even-induced deoxynucleotide kinase	2.7.4.12	5-Hydroxymethyldeoxycytidylate	2'-Deoxy-5-hydroxymethylcytidine-5'-diphosphate	R00140	white
+Straboviridae T-even-induced deoxynucleotide kinase	2.7.4.12	5-Hydroxymethyldeoxycytidylate	ADP	R00140	white
+Straboviridae T-even-induced deoxynucleotide kinase	2.7.4.12	ADP	5-Hydroxymethyldeoxycytidylate	R00140	white
+Straboviridae T-even-induced deoxynucleotide kinase	2.7.4.12	ADP	ATP	R00140	white
+Straboviridae T-even-induced deoxynucleotide kinase	2.7.4.12	ATP	2'-Deoxy-5-hydroxymethylcytidine-5'-diphosphate	R00140	white
+Straboviridae T-even-induced deoxynucleotide kinase	2.7.4.12	ATP	ADP	R00140	white
+Straboviridae dCMP hydroxymethylase	2.1.2.8	5,10-Methylenetetrahydrofolate	5-Hydroxymethyldeoxycytidylate	R01669	white
+Straboviridae dCMP hydroxymethylase	2.1.2.8	5,10-Methylenetetrahydrofolate	Tetrahydrofolate	R01669	white
+Straboviridae dCMP hydroxymethylase	2.1.2.8	5-Hydroxymethyldeoxycytidylate	5,10-Methylenetetrahydrofolate	R01669	white
+Straboviridae dCMP hydroxymethylase	2.1.2.8	5-Hydroxymethyldeoxycytidylate	H2O	R01669	white
+Straboviridae dCMP hydroxymethylase	2.1.2.8	5-Hydroxymethyldeoxycytidylate	dCMP	R01669	white
+Straboviridae dCMP hydroxymethylase	2.1.2.8	H2O	5-Hydroxymethyldeoxycytidylate	R01669	white
+Straboviridae dCMP hydroxymethylase	2.1.2.8	H2O	Tetrahydrofolate	R01669	white
+Straboviridae dCMP hydroxymethylase	2.1.2.8	Tetrahydrofolate	5,10-Methylenetetrahydrofolate	R01669	white
+Straboviridae dCMP hydroxymethylase	2.1.2.8	Tetrahydrofolate	H2O	R01669	white
+Straboviridae dCMP hydroxymethylase	2.1.2.8	Tetrahydrofolate	dCMP	R01669	white
+Straboviridae dCMP hydroxymethylase	2.1.2.8	dCMP	5-Hydroxymethyldeoxycytidylate	R01669	white
+Straboviridae dCMP hydroxymethylase	2.1.2.8	dCMP	Tetrahydrofolate	R01669	white
+UMP-CMP kinase	2.7.4.14	ADP	ATP	R00158	white
+UMP-CMP kinase	2.7.4.14	ADP	UMP	R00158	white
+UMP-CMP kinase	2.7.4.14	ATP	ADP	R00158	white
+UMP-CMP kinase	2.7.4.14	ATP	UDP	R00158	white
+UMP-CMP kinase	2.7.4.14	UDP	ATP	R00158	white
+UMP-CMP kinase	2.7.4.14	UDP	UMP	R00158	white
+UMP-CMP kinase	2.7.4.14	UMP	ADP	R00158	white
+UMP-CMP kinase	2.7.4.14	UMP	UDP	R00158	white
+UMP-CMP kinase 2, mitochondrial	2.7.4.14	ADP	ATP	R00158	white
+UMP-CMP kinase 2, mitochondrial	2.7.4.14	ADP	UMP	R00158	white
+UMP-CMP kinase 2, mitochondrial	2.7.4.14	ATP	ADP	R00158	white
+UMP-CMP kinase 2, mitochondrial	2.7.4.14	ATP	UDP	R00158	white
+UMP-CMP kinase 2, mitochondrial	2.7.4.14	UDP	ATP	R00158	white
+UMP-CMP kinase 2, mitochondrial	2.7.4.14	UDP	UMP	R00158	white
+UMP-CMP kinase 2, mitochondrial	2.7.4.14	UMP	ADP	R00158	white
+UMP-CMP kinase 2, mitochondrial	2.7.4.14	UMP	UDP	R00158	white
+aminoacrylate hydrolase	3.5.1.-	3-Oxopropanoate	Aminoacrylate	R09983	white
+aminoacrylate hydrolase	3.5.1.-	3-Oxopropanoate	H2O	R09983	white
+aminoacrylate hydrolase	3.5.1.-	Aminoacrylate	3-Oxopropanoate	R09983	white
+aminoacrylate hydrolase	3.5.1.-	Aminoacrylate	Ammonia	R09983	white
+aminoacrylate hydrolase	3.5.1.-	Ammonia	Aminoacrylate	R09983	white
+aminoacrylate hydrolase	3.5.1.-	Ammonia	H2O	R09983	white
+aminoacrylate hydrolase	3.5.1.-	H2O	3-Oxopropanoate	R09983	white
+aminoacrylate hydrolase	3.5.1.-	H2O	Ammonia	R09983	white
+aminoacrylate peracid reductase	1.1.1.381	(Z)-3-Peroxyaminoacrylate	Aminoacrylate	R09982	white
+aminoacrylate peracid reductase	1.1.1.381	Aminoacrylate	(Z)-3-Peroxyaminoacrylate	R09982	white
+apyrase	3.6.1.5	ADP	ATP	R00086	white
+apyrase	3.6.1.5	ADP	H2O	R00086	white
+apyrase	3.6.1.5	ATP	ADP	R00086	white
+apyrase	3.6.1.5	ATP	Orthophosphate	R00086	white
+apyrase	3.6.1.5	H2O	ADP	R00086	white
+apyrase	3.6.1.5	H2O	Orthophosphate	R00086	white
+apyrase	3.6.1.5	Orthophosphate	ATP	R00086	white
+apyrase	3.6.1.5	Orthophosphate	H2O	R00086	white
+aspartate carbamoyltransferase catalytic subunit	2.1.3.2	Carbamoyl phosphate	N-Carbamoyl-L-aspartate	R01397	green
+aspartate carbamoyltransferase catalytic subunit	2.1.3.2	Carbamoyl phosphate	Orthophosphate	R01397	green
+aspartate carbamoyltransferase catalytic subunit	2.1.3.2	L-Aspartate	N-Carbamoyl-L-aspartate	R01397	green
+aspartate carbamoyltransferase catalytic subunit	2.1.3.2	L-Aspartate	Orthophosphate	R01397	green
+barbiturase	3.5.2.1	3-Oxo-3-ureidoisobutyrate	5-Methylbarbiturate	R10777	green
+barbiturase	3.5.2.1	3-Oxo-3-ureidoisobutyrate	H2O	R10777	green
+barbiturase	3.5.2.1	3-Oxo-3-ureidopropanoate	Barbiturate	R02139	green
+barbiturase	3.5.2.1	3-Oxo-3-ureidopropanoate	H2O	R02139	green
+barbiturase	3.5.2.1	5-Methylbarbiturate	3-Oxo-3-ureidoisobutyrate	R10777	green
+barbiturase	3.5.2.1	Barbiturate	3-Oxo-3-ureidopropanoate	R02139	green
+barbiturase	3.5.2.1	H2O	3-Oxo-3-ureidoisobutyrate	R10777	green
+barbiturase	3.5.2.1	H2O	3-Oxo-3-ureidopropanoate	R02139	green
+beta-ureidopropionase / N-carbamoyl-L-amino-acid hydrolase	3.5.1.6	(R)-3-Ureidoisobutyrate	(R)-3-Amino-2-methylpropanoate	R04666	green
+beta-ureidopropionase / N-carbamoyl-L-amino-acid hydrolase	3.5.1.6	(R)-3-Ureidoisobutyrate	Ammonia	R04666	green
+beta-ureidopropionase / N-carbamoyl-L-amino-acid hydrolase	3.5.1.6	(R)-3-Ureidoisobutyrate	CO2	R04666	green
+beta-ureidopropionase / N-carbamoyl-L-amino-acid hydrolase	3.5.1.6	3-Ureidopropionate	Ammonia	R00905	green
+beta-ureidopropionase / N-carbamoyl-L-amino-acid hydrolase	3.5.1.6	3-Ureidopropionate	CO2	R00905	green
+beta-ureidopropionase / N-carbamoyl-L-amino-acid hydrolase	3.5.1.6	3-Ureidopropionate	beta-Alanine	R00905	green
+beta-ureidopropionase / N-carbamoyl-L-amino-acid hydrolase	3.5.1.6	H2O	(R)-3-Amino-2-methylpropanoate	R04666	green
+beta-ureidopropionase / N-carbamoyl-L-amino-acid hydrolase	3.5.1.6	H2O	Ammonia	R00905	green
+beta-ureidopropionase / N-carbamoyl-L-amino-acid hydrolase	3.5.1.6	H2O	Ammonia	R04666	green
+beta-ureidopropionase / N-carbamoyl-L-amino-acid hydrolase	3.5.1.6	H2O	CO2	R00905	green
+beta-ureidopropionase / N-carbamoyl-L-amino-acid hydrolase	3.5.1.6	H2O	CO2	R04666	green
+beta-ureidopropionase / N-carbamoyl-L-amino-acid hydrolase	3.5.1.6	H2O	beta-Alanine	R00905	green
+bis(5'-nucleosidyl)-tetraphosphatase	3.6.1.17	AMP	H2O	R00184	white
+bis(5'-nucleosidyl)-tetraphosphatase	3.6.1.17	AMP	P1,P4-Bis(5'-adenosyl)tetraphosphate	R00184	white
+bis(5'-nucleosidyl)-tetraphosphatase	3.6.1.17	ATP	H2O	R00184	white
+bis(5'-nucleosidyl)-tetraphosphatase	3.6.1.17	ATP	P1,P4-Bis(5'-adenosyl)tetraphosphate	R00184	white
+bis(5'-nucleosidyl)-tetraphosphatase	3.6.1.17	H2O	AMP	R00184	white
+bis(5'-nucleosidyl)-tetraphosphatase	3.6.1.17	H2O	ATP	R00184	white
+bis(5'-nucleosidyl)-tetraphosphatase	3.6.1.17	P1,P4-Bis(5'-adenosyl)tetraphosphate	AMP	R00184	white
+bis(5'-nucleosidyl)-tetraphosphatase	3.6.1.17	P1,P4-Bis(5'-adenosyl)tetraphosphate	ATP	R00184	white
+carbamoyl-phosphate synthase large subunit	6.3.5.5	ATP	ADP	R00575	green
+carbamoyl-phosphate synthase large subunit	6.3.5.5	ATP	Carbamoyl phosphate	R00575	green
+carbamoyl-phosphate synthase large subunit	6.3.5.5	ATP	L-Glutamate	R00575	green
+carbamoyl-phosphate synthase large subunit	6.3.5.5	ATP	Orthophosphate	R00575	green
+carbamoyl-phosphate synthase large subunit	6.3.5.5	H2O	ADP	R00575	green
+carbamoyl-phosphate synthase large subunit	6.3.5.5	H2O	Carbamoyl phosphate	R00575	green
+carbamoyl-phosphate synthase large subunit	6.3.5.5	H2O	L-Glutamate	R00575	green
+carbamoyl-phosphate synthase large subunit	6.3.5.5	H2O	Orthophosphate	R00575	green
+carbamoyl-phosphate synthase large subunit	6.3.5.5	HCO3-	ADP	R00575	green
+carbamoyl-phosphate synthase large subunit	6.3.5.5	HCO3-	Carbamoyl phosphate	R00575	green
+carbamoyl-phosphate synthase large subunit	6.3.5.5	HCO3-	L-Glutamate	R00575	green
+carbamoyl-phosphate synthase large subunit	6.3.5.5	HCO3-	Orthophosphate	R00575	green
+carbamoyl-phosphate synthase large subunit	6.3.5.5	L-Glutamine	ADP	R00575	green
+carbamoyl-phosphate synthase large subunit	6.3.5.5	L-Glutamine	Carbamoyl phosphate	R00575	green
+carbamoyl-phosphate synthase large subunit	6.3.5.5	L-Glutamine	L-Glutamate	R00575	green
+carbamoyl-phosphate synthase large subunit	6.3.5.5	L-Glutamine	Orthophosphate	R00575	green
+carbamoyl-phosphate synthase small subunit	6.3.5.5	ATP	ADP	R00575	green
+carbamoyl-phosphate synthase small subunit	6.3.5.5	ATP	Carbamoyl phosphate	R00575	green
+carbamoyl-phosphate synthase small subunit	6.3.5.5	ATP	L-Glutamate	R00575	green
+carbamoyl-phosphate synthase small subunit	6.3.5.5	ATP	Orthophosphate	R00575	green
+carbamoyl-phosphate synthase small subunit	6.3.5.5	H2O	ADP	R00575	green
+carbamoyl-phosphate synthase small subunit	6.3.5.5	H2O	Carbamoyl phosphate	R00575	green
+carbamoyl-phosphate synthase small subunit	6.3.5.5	H2O	L-Glutamate	R00575	green
+carbamoyl-phosphate synthase small subunit	6.3.5.5	H2O	Orthophosphate	R00575	green
+carbamoyl-phosphate synthase small subunit	6.3.5.5	HCO3-	ADP	R00575	green
+carbamoyl-phosphate synthase small subunit	6.3.5.5	HCO3-	Carbamoyl phosphate	R00575	green
+carbamoyl-phosphate synthase small subunit	6.3.5.5	HCO3-	L-Glutamate	R00575	green
+carbamoyl-phosphate synthase small subunit	6.3.5.5	HCO3-	Orthophosphate	R00575	green
+carbamoyl-phosphate synthase small subunit	6.3.5.5	L-Glutamine	ADP	R00575	green
+carbamoyl-phosphate synthase small subunit	6.3.5.5	L-Glutamine	Carbamoyl phosphate	R00575	green
+carbamoyl-phosphate synthase small subunit	6.3.5.5	L-Glutamine	L-Glutamate	R00575	green
+carbamoyl-phosphate synthase small subunit	6.3.5.5	L-Glutamine	Orthophosphate	R00575	green
+cytidine deaminase	3.5.4.5	Cytidine	Ammonia	R01878	green
+cytidine deaminase	3.5.4.5	Cytidine	Uridine	R01878	green
+cytidine deaminase	3.5.4.5	Deoxycytidine	Ammonia	R02485	green
+cytidine deaminase	3.5.4.5	Deoxycytidine	Deoxyuridine	R02485	green
+cytidine deaminase	3.5.4.5	H2O	Ammonia	R01878	green
+cytidine deaminase	3.5.4.5	H2O	Ammonia	R02485	green
+cytidine deaminase	3.5.4.5	H2O	Deoxyuridine	R02485	green
+cytidine deaminase	3.5.4.5	H2O	Uridine	R01878	green
+cytidine kinase	2.7.1.213	ADP	ATP	R00513	white
+cytidine kinase	2.7.1.213	ADP	Cytidine	R00513	white
+cytidine kinase	2.7.1.213	ATP	ADP	R00513	white
+cytidine kinase	2.7.1.213	ATP	CMP	R00513	white
+cytidine kinase	2.7.1.213	CMP	ATP	R00513	white
+cytidine kinase	2.7.1.213	CMP	Cytidine	R00513	white
+cytidine kinase	2.7.1.213	Cytidine	ADP	R00513	white
+cytidine kinase	2.7.1.213	Cytidine	CMP	R00513	white
+cytidylate cyclase	4.6.1.6	3',5'-Cyclic CMP	CTP	R00574	white
+cytidylate cyclase	4.6.1.6	CTP	3',5'-Cyclic CMP	R00574	white
+cytidylate cyclase	4.6.1.6	CTP	Diphosphate	R00574	white
+cytidylate cyclase	4.6.1.6	Diphosphate	CTP	R00574	white
+cytosine/creatinine deaminase	3.5.4.1	5-Methylcytosine	Ammonia	R01411	green
+cytosine/creatinine deaminase	3.5.4.1	5-Methylcytosine	Thymine	R01411	green
+cytosine/creatinine deaminase	3.5.4.1	Cytosine	Ammonia	R00974	green
+cytosine/creatinine deaminase	3.5.4.1	Cytosine	Uracil	R00974	green
+cytosine/creatinine deaminase	3.5.4.1	H2O	Ammonia	R00974	green
+cytosine/creatinine deaminase	3.5.4.1	H2O	Ammonia	R01411	green
+cytosine/creatinine deaminase	3.5.4.1	H2O	Thymine	R01411	green
+cytosine/creatinine deaminase	3.5.4.1	H2O	Uracil	R00974	green
+dCMP deaminase	3.5.4.12	Ammonia	H2O	R01663	white
+dCMP deaminase	3.5.4.12	Ammonia	dCMP	R01663	white
+dCMP deaminase	3.5.4.12	H2O	Ammonia	R01663	white
+dCMP deaminase	3.5.4.12	H2O	dUMP	R01663	white
+dCMP deaminase	3.5.4.12	dCMP	Ammonia	R01663	white
+dCMP deaminase	3.5.4.12	dCMP	dUMP	R01663	white
+dCMP deaminase	3.5.4.12	dUMP	H2O	R01663	white
+dCMP deaminase	3.5.4.12	dUMP	dCMP	R01663	white
+dCTP deaminase	3.5.4.13	H2O	Ammonia	R02325	green
+dCTP deaminase	3.5.4.13	H2O	dUTP	R02325	green
+dCTP deaminase	3.5.4.13	dCTP	Ammonia	R02325	green
+dCTP deaminase	3.5.4.13	dCTP	dUTP	R02325	green
+dCTP deaminase (dUMP-forming)	3.5.4.30	Ammonia	H2O	R07307	white
+dCTP deaminase (dUMP-forming)	3.5.4.30	Ammonia	dCTP	R07307	white
+dCTP deaminase (dUMP-forming)	3.5.4.30	Diphosphate	H2O	R07307	white
+dCTP deaminase (dUMP-forming)	3.5.4.30	Diphosphate	dCTP	R07307	white
+dCTP deaminase (dUMP-forming)	3.5.4.30	H2O	Ammonia	R07307	white
+dCTP deaminase (dUMP-forming)	3.5.4.30	H2O	Diphosphate	R07307	white
+dCTP deaminase (dUMP-forming)	3.5.4.30	H2O	dUMP	R07307	white
+dCTP deaminase (dUMP-forming)	3.5.4.30	dCTP	Ammonia	R07307	white
+dCTP deaminase (dUMP-forming)	3.5.4.30	dCTP	Diphosphate	R07307	white
+dCTP deaminase (dUMP-forming)	3.5.4.30	dCTP	dUMP	R07307	white
+dCTP deaminase (dUMP-forming)	3.5.4.30	dUMP	H2O	R07307	white
+dCTP deaminase (dUMP-forming)	3.5.4.30	dUMP	dCTP	R07307	white
+dCTP diphosphatase	3.6.1.12	H2O	Orthophosphate	R01667	white
+dCTP diphosphatase	3.6.1.12	H2O	dCMP	R01667	white
+dCTP diphosphatase	3.6.1.12	Orthophosphate	H2O	R01667	white
+dCTP diphosphatase	3.6.1.12	Orthophosphate	dCDP	R01667	white
+dCTP diphosphatase	3.6.1.12	dCDP	Orthophosphate	R01667	white
+dCTP diphosphatase	3.6.1.12	dCDP	dCMP	R01667	white
+dCTP diphosphatase	3.6.1.12	dCMP	H2O	R01667	white
+dCTP diphosphatase	3.6.1.12	dCMP	dCDP	R01667	white
+dTMP kinase	2.7.4.9	ATP	ADP	R02094	green
+dTMP kinase	2.7.4.9	ATP	ADP	R02098	green
+dTMP kinase	2.7.4.9	ATP	dTDP	R02094	green
+dTMP kinase	2.7.4.9	ATP	dUDP	R02098	green
+dTMP kinase	2.7.4.9	dTMP	ADP	R02094	green
+dTMP kinase	2.7.4.9	dTMP	dTDP	R02094	green
+dTMP kinase	2.7.4.9	dUMP	ADP	R02098	green
+dTMP kinase	2.7.4.9	dUMP	dUDP	R02098	green
+dUTP diphosphatase	3.6.1.23	H2O	Diphosphate	R02100	green
+dUTP diphosphatase	3.6.1.23	H2O	dUMP	R02100	green
+dUTP diphosphatase	3.6.1.23	dUTP	Diphosphate	R02100	green
+dUTP diphosphatase	3.6.1.23	dUTP	dUMP	R02100	green
+deoxyadenosine/deoxycytidine kinase	2.7.1.76	ADP	ATP	R01666	white
+deoxyadenosine/deoxycytidine kinase	2.7.1.76	ADP	Deoxycytidine	R01666	white
+deoxyadenosine/deoxycytidine kinase	2.7.1.76	ATP	ADP	R01666	white
+deoxyadenosine/deoxycytidine kinase	2.7.1.76	ATP	dCMP	R01666	white
+deoxyadenosine/deoxycytidine kinase	2.7.1.76	Deoxycytidine	ADP	R01666	white
+deoxyadenosine/deoxycytidine kinase	2.7.1.76	Deoxycytidine	dCMP	R01666	white
+deoxyadenosine/deoxycytidine kinase	2.7.1.76	dCMP	ATP	R01666	white
+deoxyadenosine/deoxycytidine kinase	2.7.1.76	dCMP	Deoxycytidine	R01666	white
+deoxycitidine/deoxyadenosine/deoxyguanosine kinase	2.7.1.74	ADP	ATP	R01666	white
+deoxycitidine/deoxyadenosine/deoxyguanosine kinase	2.7.1.74	ADP	Deoxycytidine	R01666	white
+deoxycitidine/deoxyadenosine/deoxyguanosine kinase	2.7.1.74	ATP	ADP	R01666	white
+deoxycitidine/deoxyadenosine/deoxyguanosine kinase	2.7.1.74	ATP	dCMP	R01666	white
+deoxycitidine/deoxyadenosine/deoxyguanosine kinase	2.7.1.74	Deoxycytidine	ADP	R01666	white
+deoxycitidine/deoxyadenosine/deoxyguanosine kinase	2.7.1.74	Deoxycytidine	dCMP	R01666	white
+deoxycitidine/deoxyadenosine/deoxyguanosine kinase	2.7.1.74	dCMP	ATP	R01666	white
+deoxycitidine/deoxyadenosine/deoxyguanosine kinase	2.7.1.74	dCMP	Deoxycytidine	R01666	white
+deoxynucleoside kinase	2.7.1.145	ADP	ATP	R01567	white
+deoxynucleoside kinase	2.7.1.145	ADP	Thymidine	R01567	white
+deoxynucleoside kinase	2.7.1.145	ATP	ADP	R01567	white
+deoxynucleoside kinase	2.7.1.145	ATP	dTMP	R01567	white
+deoxynucleoside kinase	2.7.1.145	Thymidine	ADP	R01567	white
+deoxynucleoside kinase	2.7.1.145	Thymidine	dTMP	R01567	white
+deoxynucleoside kinase	2.7.1.145	dTMP	ATP	R01567	white
+deoxynucleoside kinase	2.7.1.145	dTMP	Thymidine	R01567	white
+dihydroorotase	3.5.2.3	(S)-Dihydroorotate	N-Carbamoyl-L-aspartate	R01993	green
+dihydroorotase	3.5.2.3	H2O	N-Carbamoyl-L-aspartate	R01993	green
+dihydroorotase	3.5.2.3	N-Carbamoyl-L-aspartate	(S)-Dihydroorotate	R01993	green
+dihydroorotase	3.5.2.3	N-Carbamoyl-L-aspartate	H2O	R01993	green
+dihydroorotate dehydrogenase	1.3.5.2	(S)-Dihydroorotate	Hydroquinone	R01868	green
+dihydroorotate dehydrogenase	1.3.5.2	(S)-Dihydroorotate	Orotate	R01868	green
+dihydroorotate dehydrogenase	1.3.5.2	Hydroquinone	(S)-Dihydroorotate	R01868	green
+dihydroorotate dehydrogenase	1.3.5.2	Hydroquinone	Quinone	R01868	green
+dihydroorotate dehydrogenase	1.3.5.2	Orotate	(S)-Dihydroorotate	R01868	green
+dihydroorotate dehydrogenase	1.3.5.2	Orotate	Quinone	R01868	green
+dihydroorotate dehydrogenase	1.3.5.2	Quinone	Hydroquinone	R01868	green
+dihydroorotate dehydrogenase	1.3.5.2	Quinone	Orotate	R01868	green
+dihydroorotate dehydrogenase (NAD+) catalytic subunit	1.3.1.14	(S)-Dihydroorotate	H+	R01869	white
+dihydroorotate dehydrogenase (NAD+) catalytic subunit	1.3.1.14	(S)-Dihydroorotate	NADH	R01869	white
+dihydroorotate dehydrogenase (NAD+) catalytic subunit	1.3.1.14	(S)-Dihydroorotate	Orotate	R01869	white
+dihydroorotate dehydrogenase (NAD+) catalytic subunit	1.3.1.14	H+	(S)-Dihydroorotate	R01869	white
+dihydroorotate dehydrogenase (NAD+) catalytic subunit	1.3.1.14	H+	NAD+	R01869	white
+dihydroorotate dehydrogenase (NAD+) catalytic subunit	1.3.1.14	NAD+	H+	R01869	white
+dihydroorotate dehydrogenase (NAD+) catalytic subunit	1.3.1.14	NAD+	NADH	R01869	white
+dihydroorotate dehydrogenase (NAD+) catalytic subunit	1.3.1.14	NAD+	Orotate	R01869	white
+dihydroorotate dehydrogenase (NAD+) catalytic subunit	1.3.1.14	NADH	(S)-Dihydroorotate	R01869	white
+dihydroorotate dehydrogenase (NAD+) catalytic subunit	1.3.1.14	NADH	NAD+	R01869	white
+dihydroorotate dehydrogenase (NAD+) catalytic subunit	1.3.1.14	Orotate	(S)-Dihydroorotate	R01869	white
+dihydroorotate dehydrogenase (NAD+) catalytic subunit	1.3.1.14	Orotate	NAD+	R01869	white
+dihydroorotate dehydrogenase (fumarate)	1.3.98.1	(S)-Dihydroorotate	Orotate	R01867	white
+dihydroorotate dehydrogenase (fumarate)	1.3.98.1	(S)-Dihydroorotate	Succinate	R01867	white
+dihydroorotate dehydrogenase (fumarate)	1.3.98.1	Fumarate	Orotate	R01867	white
+dihydroorotate dehydrogenase (fumarate)	1.3.98.1	Fumarate	Succinate	R01867	white
+dihydroorotate dehydrogenase (fumarate)	1.3.98.1	Orotate	(S)-Dihydroorotate	R01867	white
+dihydroorotate dehydrogenase (fumarate)	1.3.98.1	Orotate	Fumarate	R01867	white
+dihydroorotate dehydrogenase (fumarate)	1.3.98.1	Succinate	(S)-Dihydroorotate	R01867	white
+dihydroorotate dehydrogenase (fumarate)	1.3.98.1	Succinate	Fumarate	R01867	white
+dihydroorotate dehydrogenase electron transfer subunit	1.3.1.14	(S)-Dihydroorotate	H+	R01869	white
+dihydroorotate dehydrogenase electron transfer subunit	1.3.1.14	(S)-Dihydroorotate	NADH	R01869	white
+dihydroorotate dehydrogenase electron transfer subunit	1.3.1.14	(S)-Dihydroorotate	Orotate	R01869	white
+dihydroorotate dehydrogenase electron transfer subunit	1.3.1.14	H+	(S)-Dihydroorotate	R01869	white
+dihydroorotate dehydrogenase electron transfer subunit	1.3.1.14	H+	NAD+	R01869	white
+dihydroorotate dehydrogenase electron transfer subunit	1.3.1.14	NAD+	H+	R01869	white
+dihydroorotate dehydrogenase electron transfer subunit	1.3.1.14	NAD+	NADH	R01869	white
+dihydroorotate dehydrogenase electron transfer subunit	1.3.1.14	NAD+	Orotate	R01869	white
+dihydroorotate dehydrogenase electron transfer subunit	1.3.1.14	NADH	(S)-Dihydroorotate	R01869	white
+dihydroorotate dehydrogenase electron transfer subunit	1.3.1.14	NADH	NAD+	R01869	white
+dihydroorotate dehydrogenase electron transfer subunit	1.3.1.14	Orotate	(S)-Dihydroorotate	R01869	white
+dihydroorotate dehydrogenase electron transfer subunit	1.3.1.14	Orotate	NAD+	R01869	white
+dihydropyrimidinase	3.5.2.2	3-Ureidopropionate	5,6-Dihydrouracil	R02269	white
+dihydropyrimidinase	3.5.2.2	3-Ureidopropionate	H2O	R02269	white
+dihydropyrimidinase	3.5.2.2	5,6-Dihydrouracil	3-Ureidopropionate	R02269	white
+dihydropyrimidinase	3.5.2.2	H2O	3-Ureidopropionate	R02269	white
+dihydropyrimidine dehydrogenase (NAD+) subunit PreA	1.3.1.1	5,6-Dihydrouracil	H+	R00977	white
+dihydropyrimidine dehydrogenase (NAD+) subunit PreA	1.3.1.1	5,6-Dihydrouracil	NADH	R00977	white
+dihydropyrimidine dehydrogenase (NAD+) subunit PreA	1.3.1.1	5,6-Dihydrouracil	Uracil	R00977	white
+dihydropyrimidine dehydrogenase (NAD+) subunit PreA	1.3.1.1	H+	5,6-Dihydrouracil	R00977	white
+dihydropyrimidine dehydrogenase (NAD+) subunit PreA	1.3.1.1	H+	NAD+	R00977	white
+dihydropyrimidine dehydrogenase (NAD+) subunit PreA	1.3.1.1	NAD+	H+	R00977	white
+dihydropyrimidine dehydrogenase (NAD+) subunit PreA	1.3.1.1	NAD+	NADH	R00977	white
+dihydropyrimidine dehydrogenase (NAD+) subunit PreA	1.3.1.1	NAD+	Uracil	R00977	white
+dihydropyrimidine dehydrogenase (NAD+) subunit PreA	1.3.1.1	NADH	5,6-Dihydrouracil	R00977	white
+dihydropyrimidine dehydrogenase (NAD+) subunit PreA	1.3.1.1	NADH	NAD+	R00977	white
+dihydropyrimidine dehydrogenase (NAD+) subunit PreA	1.3.1.1	Uracil	5,6-Dihydrouracil	R00977	white
+dihydropyrimidine dehydrogenase (NAD+) subunit PreA	1.3.1.1	Uracil	NAD+	R00977	white
+dihydropyrimidine dehydrogenase (NAD+) subunit PreT	1.3.1.1	5,6-Dihydrouracil	H+	R00977	white
+dihydropyrimidine dehydrogenase (NAD+) subunit PreT	1.3.1.1	5,6-Dihydrouracil	NADH	R00977	white
+dihydropyrimidine dehydrogenase (NAD+) subunit PreT	1.3.1.1	5,6-Dihydrouracil	Uracil	R00977	white
+dihydropyrimidine dehydrogenase (NAD+) subunit PreT	1.3.1.1	H+	5,6-Dihydrouracil	R00977	white
+dihydropyrimidine dehydrogenase (NAD+) subunit PreT	1.3.1.1	H+	NAD+	R00977	white
+dihydropyrimidine dehydrogenase (NAD+) subunit PreT	1.3.1.1	NAD+	H+	R00977	white
+dihydropyrimidine dehydrogenase (NAD+) subunit PreT	1.3.1.1	NAD+	NADH	R00977	white
+dihydropyrimidine dehydrogenase (NAD+) subunit PreT	1.3.1.1	NAD+	Uracil	R00977	white
+dihydropyrimidine dehydrogenase (NAD+) subunit PreT	1.3.1.1	NADH	5,6-Dihydrouracil	R00977	white
+dihydropyrimidine dehydrogenase (NAD+) subunit PreT	1.3.1.1	NADH	NAD+	R00977	white
+dihydropyrimidine dehydrogenase (NAD+) subunit PreT	1.3.1.1	Uracil	5,6-Dihydrouracil	R00977	white
+dihydropyrimidine dehydrogenase (NAD+) subunit PreT	1.3.1.1	Uracil	NAD+	R00977	white
+dihydropyrimidine dehydrogenase (NADP+)	1.3.1.2	5,6-Dihydrouracil	H+	R00978	white
+dihydropyrimidine dehydrogenase (NADP+)	1.3.1.2	5,6-Dihydrouracil	NADPH	R00978	white
+dihydropyrimidine dehydrogenase (NADP+)	1.3.1.2	5,6-Dihydrouracil	Uracil	R00978	white
+dihydropyrimidine dehydrogenase (NADP+)	1.3.1.2	H+	5,6-Dihydrouracil	R00978	white
+dihydropyrimidine dehydrogenase (NADP+)	1.3.1.2	H+	NADP+	R00978	white
+dihydropyrimidine dehydrogenase (NADP+)	1.3.1.2	NADP+	H+	R00978	white
+dihydropyrimidine dehydrogenase (NADP+)	1.3.1.2	NADP+	NADPH	R00978	white
+dihydropyrimidine dehydrogenase (NADP+)	1.3.1.2	NADP+	Uracil	R00978	white
+dihydropyrimidine dehydrogenase (NADP+)	1.3.1.2	NADPH	5,6-Dihydrouracil	R00978	white
+dihydropyrimidine dehydrogenase (NADP+)	1.3.1.2	NADPH	NADP+	R00978	white
+dihydropyrimidine dehydrogenase (NADP+)	1.3.1.2	Uracil	5,6-Dihydrouracil	R00978	white
+dihydropyrimidine dehydrogenase (NADP+)	1.3.1.2	Uracil	NADP+	R00978	white
+ectonucleoside triphosphate diphosphohydrolase 4	3.6.1.6	H2O	Orthophosphate	R00155	white
+ectonucleoside triphosphate diphosphohydrolase 4	3.6.1.6	H2O	UMP	R00155	white
+ectonucleoside triphosphate diphosphohydrolase 4	3.6.1.6	Orthophosphate	H2O	R00155	white
+ectonucleoside triphosphate diphosphohydrolase 4	3.6.1.6	Orthophosphate	UDP	R00155	white
+ectonucleoside triphosphate diphosphohydrolase 4	3.6.1.6	UDP	Orthophosphate	R00155	white
+ectonucleoside triphosphate diphosphohydrolase 4	3.6.1.6	UDP	UMP	R00155	white
+ectonucleoside triphosphate diphosphohydrolase 4	3.6.1.6	UMP	H2O	R00155	white
+ectonucleoside triphosphate diphosphohydrolase 4	3.6.1.6	UMP	UDP	R00155	white
+ectonucleoside triphosphate diphosphohydrolase 5/6	3.6.1.6	H2O	Orthophosphate	R00155	white
+ectonucleoside triphosphate diphosphohydrolase 5/6	3.6.1.6	H2O	UMP	R00155	white
+ectonucleoside triphosphate diphosphohydrolase 5/6	3.6.1.6	Orthophosphate	H2O	R00155	white
+ectonucleoside triphosphate diphosphohydrolase 5/6	3.6.1.6	Orthophosphate	UDP	R00155	white
+ectonucleoside triphosphate diphosphohydrolase 5/6	3.6.1.6	UDP	Orthophosphate	R00155	white
+ectonucleoside triphosphate diphosphohydrolase 5/6	3.6.1.6	UDP	UMP	R00155	white
+ectonucleoside triphosphate diphosphohydrolase 5/6	3.6.1.6	UMP	H2O	R00155	white
+ectonucleoside triphosphate diphosphohydrolase 5/6	3.6.1.6	UMP	UDP	R00155	white
+flavin reductase	1.5.1.-	Oxygen	(Z)-3-Ureidoacrylate peracid	R09936	green
+flavin reductase	1.5.1.-	Oxygen	FMN	R09936	green
+flavin reductase	1.5.1.-	Reduced FMN	(Z)-3-Ureidoacrylate peracid	R09936	green
+flavin reductase	1.5.1.-	Reduced FMN	FMN	R09936	green
+flavin reductase	1.5.1.-	Uracil	(Z)-3-Ureidoacrylate peracid	R09936	green
+flavin reductase	1.5.1.-	Uracil	FMN	R09936	green
+golgi apyrase	3.6.1.5	ADP	ATP	R00086	white
+golgi apyrase	3.6.1.5	ADP	H2O	R00086	white
+golgi apyrase	3.6.1.5	ATP	ADP	R00086	white
+golgi apyrase	3.6.1.5	ATP	Orthophosphate	R00086	white
+golgi apyrase	3.6.1.5	H2O	ADP	R00086	white
+golgi apyrase	3.6.1.5	H2O	Orthophosphate	R00086	white
+golgi apyrase	3.6.1.5	Orthophosphate	ATP	R00086	white
+golgi apyrase	3.6.1.5	Orthophosphate	H2O	R00086	white
+inosine/uridine nucleosidase	3.2.2.2	D-Ribose	H2O	R01080	white
+inosine/uridine nucleosidase	3.2.2.2	D-Ribose	Uridine	R01080	white
+inosine/uridine nucleosidase	3.2.2.2	H2O	D-Ribose	R01080	white
+inosine/uridine nucleosidase	3.2.2.2	H2O	Uracil	R01080	white
+inosine/uridine nucleosidase	3.2.2.2	Uracil	H2O	R01080	white
+inosine/uridine nucleosidase	3.2.2.2	Uracil	Uridine	R01080	white
+inosine/uridine nucleosidase	3.2.2.2	Uridine	D-Ribose	R01080	white
+inosine/uridine nucleosidase	3.2.2.2	Uridine	Uracil	R01080	white
+non-specific riboncleoside hydrolase	3.2.2.-	D-Ribose	H2O	R01080	white
+non-specific riboncleoside hydrolase	3.2.2.-	D-Ribose	Uridine	R01080	white
+non-specific riboncleoside hydrolase	3.2.2.-	H2O	D-Ribose	R01080	white
+non-specific riboncleoside hydrolase	3.2.2.-	H2O	Uracil	R01080	white
+non-specific riboncleoside hydrolase	3.2.2.-	Uracil	H2O	R01080	white
+non-specific riboncleoside hydrolase	3.2.2.-	Uracil	Uridine	R01080	white
+non-specific riboncleoside hydrolase	3.2.2.-	Uridine	D-Ribose	R01080	white
+non-specific riboncleoside hydrolase	3.2.2.-	Uridine	Uracil	R01080	white
+nucleoside kinase	2.7.1.73	ADP	ATP	R00513	white
+nucleoside kinase	2.7.1.73	ADP	Cytidine	R00513	white
+nucleoside kinase	2.7.1.73	ATP	ADP	R00513	white
+nucleoside kinase	2.7.1.73	ATP	CMP	R00513	white
+nucleoside kinase	2.7.1.73	CMP	ATP	R00513	white
+nucleoside kinase	2.7.1.73	CMP	Cytidine	R00513	white
+nucleoside kinase	2.7.1.73	Cytidine	ADP	R00513	white
+nucleoside kinase	2.7.1.73	Cytidine	CMP	R00513	white
+nucleoside triphosphate diphosphatase	3.6.1.9	CTP	CMP	R00515	green
+nucleoside triphosphate diphosphatase	3.6.1.9	CTP	Diphosphate	R00515	green
+nucleoside triphosphate diphosphatase	3.6.1.9	H2O	CMP	R00515	green
+nucleoside triphosphate diphosphatase	3.6.1.9	H2O	Diphosphate	R00515	green
+nucleoside triphosphate diphosphatase	3.6.1.9	H2O	Diphosphate	R00662	green
+nucleoside triphosphate diphosphatase	3.6.1.9	H2O	Diphosphate	R11323	green
+nucleoside triphosphate diphosphatase	3.6.1.9	H2O	UMP	R00662	green
+nucleoside triphosphate diphosphatase	3.6.1.9	H2O	dTMP	R11323	green
+nucleoside triphosphate diphosphatase	3.6.1.9	UTP	Diphosphate	R00662	green
+nucleoside triphosphate diphosphatase	3.6.1.9	UTP	UMP	R00662	green
+nucleoside triphosphate diphosphatase	3.6.1.9	dTTP	Diphosphate	R11323	green
+nucleoside triphosphate diphosphatase	3.6.1.9	dTTP	dTMP	R11323	green
+nucleoside triphosphate pyrophosphatase	3.6.1.-	CTP	CMP	R00515	green
+nucleoside triphosphate pyrophosphatase	3.6.1.-	CTP	Diphosphate	R00515	green
+nucleoside triphosphate pyrophosphatase	3.6.1.-	H2O	CMP	R00515	green
+nucleoside triphosphate pyrophosphatase	3.6.1.-	H2O	Diphosphate	R00515	green
+nucleoside triphosphate pyrophosphatase	3.6.1.-	H2O	Diphosphate	R00662	green
+nucleoside triphosphate pyrophosphatase	3.6.1.-	H2O	Diphosphate	R11323	green
+nucleoside triphosphate pyrophosphatase	3.6.1.-	H2O	UMP	R00662	green
+nucleoside triphosphate pyrophosphatase	3.6.1.-	H2O	dTMP	R11323	green
+nucleoside triphosphate pyrophosphatase	3.6.1.-	UTP	Diphosphate	R00662	green
+nucleoside triphosphate pyrophosphatase	3.6.1.-	UTP	UMP	R00662	green
+nucleoside triphosphate pyrophosphatase	3.6.1.-	dTTP	Diphosphate	R11323	green
+nucleoside triphosphate pyrophosphatase	3.6.1.-	dTTP	dTMP	R11323	green
+nucleoside-diphosphate kinase	2.7.4.6	2'-Deoxy-5-hydroxymethylcytidine-5'-diphosphate	2'-Deoxy-5-hydroxymethylcytidine-5'-triphosphate	R00139	green
+nucleoside-diphosphate kinase	2.7.4.6	2'-Deoxy-5-hydroxymethylcytidine-5'-diphosphate	ADP	R00139	green
+nucleoside-diphosphate kinase	2.7.4.6	ADP	ATP	R00156	green
+nucleoside-diphosphate kinase	2.7.4.6	ADP	ATP	R00570	green
+nucleoside-diphosphate kinase	2.7.4.6	ADP	ATP	R02093	green
+nucleoside-diphosphate kinase	2.7.4.6	ADP	ATP	R02326	green
+nucleoside-diphosphate kinase	2.7.4.6	ADP	ATP	R02331	green
+nucleoside-diphosphate kinase	2.7.4.6	ADP	CDP	R00570	green
+nucleoside-diphosphate kinase	2.7.4.6	ADP	UDP	R00156	green
+nucleoside-diphosphate kinase	2.7.4.6	ADP	dCDP	R02326	green
+nucleoside-diphosphate kinase	2.7.4.6	ADP	dTDP	R02093	green
+nucleoside-diphosphate kinase	2.7.4.6	ADP	dUDP	R02331	green
+nucleoside-diphosphate kinase	2.7.4.6	ATP	2'-Deoxy-5-hydroxymethylcytidine-5'-triphosphate	R00139	green
+nucleoside-diphosphate kinase	2.7.4.6	ATP	ADP	R00139	green
+nucleoside-diphosphate kinase	2.7.4.6	ATP	ADP	R00156	green
+nucleoside-diphosphate kinase	2.7.4.6	ATP	ADP	R00570	green
+nucleoside-diphosphate kinase	2.7.4.6	ATP	ADP	R02093	green
+nucleoside-diphosphate kinase	2.7.4.6	ATP	ADP	R02326	green
+nucleoside-diphosphate kinase	2.7.4.6	ATP	ADP	R02331	green
+nucleoside-diphosphate kinase	2.7.4.6	ATP	CTP	R00570	green
+nucleoside-diphosphate kinase	2.7.4.6	ATP	UTP	R00156	green
+nucleoside-diphosphate kinase	2.7.4.6	ATP	dCTP	R02326	green
+nucleoside-diphosphate kinase	2.7.4.6	ATP	dTTP	R02093	green
+nucleoside-diphosphate kinase	2.7.4.6	ATP	dUTP	R02331	green
+nucleoside-diphosphate kinase	2.7.4.6	CDP	ADP	R00570	green
+nucleoside-diphosphate kinase	2.7.4.6	CDP	CTP	R00570	green
+nucleoside-diphosphate kinase	2.7.4.6	CTP	ATP	R00570	green
+nucleoside-diphosphate kinase	2.7.4.6	CTP	CDP	R00570	green
+nucleoside-diphosphate kinase	2.7.4.6	UDP	ADP	R00156	green
+nucleoside-diphosphate kinase	2.7.4.6	UDP	UTP	R00156	green
+nucleoside-diphosphate kinase	2.7.4.6	UTP	ATP	R00156	green
+nucleoside-diphosphate kinase	2.7.4.6	UTP	UDP	R00156	green
+nucleoside-diphosphate kinase	2.7.4.6	dCDP	ADP	R02326	green
+nucleoside-diphosphate kinase	2.7.4.6	dCDP	dCTP	R02326	green
+nucleoside-diphosphate kinase	2.7.4.6	dCTP	ATP	R02326	green
+nucleoside-diphosphate kinase	2.7.4.6	dCTP	dCDP	R02326	green
+nucleoside-diphosphate kinase	2.7.4.6	dTDP	ADP	R02093	green
+nucleoside-diphosphate kinase	2.7.4.6	dTDP	dTTP	R02093	green
+nucleoside-diphosphate kinase	2.7.4.6	dTTP	ATP	R02093	green
+nucleoside-diphosphate kinase	2.7.4.6	dTTP	dTDP	R02093	green
+nucleoside-diphosphate kinase	2.7.4.6	dUDP	ADP	R02331	green
+nucleoside-diphosphate kinase	2.7.4.6	dUDP	dUTP	R02331	green
+nucleoside-diphosphate kinase	2.7.4.6	dUTP	ATP	R02331	green
+nucleoside-diphosphate kinase	2.7.4.6	dUTP	dUDP	R02331	green
+orotate phosphoribosyltransferase	2.4.2.10	5-Phospho-alpha-D-ribose 1-diphosphate	Diphosphate	R01870	green
+orotate phosphoribosyltransferase	2.4.2.10	5-Phospho-alpha-D-ribose 1-diphosphate	Orotidine 5'-phosphate	R01870	green
+orotate phosphoribosyltransferase	2.4.2.10	Diphosphate	5-Phospho-alpha-D-ribose 1-diphosphate	R01870	green
+orotate phosphoribosyltransferase	2.4.2.10	Diphosphate	Orotate	R01870	green
+orotate phosphoribosyltransferase	2.4.2.10	Orotate	Diphosphate	R01870	green
+orotate phosphoribosyltransferase	2.4.2.10	Orotate	Orotidine 5'-phosphate	R01870	green
+orotate phosphoribosyltransferase	2.4.2.10	Orotidine 5'-phosphate	5-Phospho-alpha-D-ribose 1-diphosphate	R01870	green
+orotate phosphoribosyltransferase	2.4.2.10	Orotidine 5'-phosphate	Orotate	R01870	green
+orotidine-5'-phosphate decarboxylase	4.1.1.23	Orotidine 5'-phosphate	CO2	R00965	green
+orotidine-5'-phosphate decarboxylase	4.1.1.23	Orotidine 5'-phosphate	UMP	R00965	green
+pseudouridine kinase	2.7.1.83	ADP	ATP	R03315	white
+pseudouridine kinase	2.7.1.83	ADP	Pseudouridine	R03315	white
+pseudouridine kinase	2.7.1.83	ATP	ADP	R03315	white
+pseudouridine kinase	2.7.1.83	ATP	Pseudouridine 5'-phosphate	R03315	white
+pseudouridine kinase	2.7.1.83	Pseudouridine	ADP	R03315	white
+pseudouridine kinase	2.7.1.83	Pseudouridine	Pseudouridine 5'-phosphate	R03315	white
+pseudouridine kinase	2.7.1.83	Pseudouridine 5'-phosphate	ATP	R03315	white
+pseudouridine kinase	2.7.1.83	Pseudouridine 5'-phosphate	Pseudouridine	R03315	white
+pseudouridylate synthase	4.2.1.70	D-Ribose 5-phosphate	H2O	R01055	white
+pseudouridylate synthase	4.2.1.70	D-Ribose 5-phosphate	Pseudouridine 5'-phosphate	R01055	white
+pseudouridylate synthase	4.2.1.70	H2O	D-Ribose 5-phosphate	R01055	white
+pseudouridylate synthase	4.2.1.70	H2O	Uracil	R01055	white
+pseudouridylate synthase	4.2.1.70	Pseudouridine 5'-phosphate	D-Ribose 5-phosphate	R01055	white
+pseudouridylate synthase	4.2.1.70	Pseudouridine 5'-phosphate	Uracil	R01055	white
+pseudouridylate synthase	4.2.1.70	Uracil	H2O	R01055	white
+pseudouridylate synthase	4.2.1.70	Uracil	Pseudouridine 5'-phosphate	R01055	white
+pseudouridylate synthase / pseudouridine kinase	4.2.1.70	D-Ribose 5-phosphate	H2O	R01055	white
+pseudouridylate synthase / pseudouridine kinase	4.2.1.70	D-Ribose 5-phosphate	Pseudouridine 5'-phosphate	R01055	white
+pseudouridylate synthase / pseudouridine kinase	4.2.1.70	H2O	D-Ribose 5-phosphate	R01055	white
+pseudouridylate synthase / pseudouridine kinase	4.2.1.70	H2O	Uracil	R01055	white
+pseudouridylate synthase / pseudouridine kinase	4.2.1.70	Pseudouridine 5'-phosphate	D-Ribose 5-phosphate	R01055	white
+pseudouridylate synthase / pseudouridine kinase	4.2.1.70	Pseudouridine 5'-phosphate	Uracil	R01055	white
+pseudouridylate synthase / pseudouridine kinase	4.2.1.70	Uracil	H2O	R01055	white
+pseudouridylate synthase / pseudouridine kinase	4.2.1.70	Uracil	Pseudouridine 5'-phosphate	R01055	white
+purine/pyrimidine-nucleoside phosphorylase	2.4.2.1	Adenine	Adenosine	R01561	white
+purine/pyrimidine-nucleoside phosphorylase	2.4.2.1	Adenine	Orthophosphate	R01561	white
+purine/pyrimidine-nucleoside phosphorylase	2.4.2.1	Adenosine	Adenine	R01561	white
+purine/pyrimidine-nucleoside phosphorylase	2.4.2.1	Adenosine	alpha-D-Ribose 1-phosphate	R01561	white
+purine/pyrimidine-nucleoside phosphorylase	2.4.2.1	Orthophosphate	Adenine	R01561	white
+purine/pyrimidine-nucleoside phosphorylase	2.4.2.1	Orthophosphate	alpha-D-Ribose 1-phosphate	R01561	white
+purine/pyrimidine-nucleoside phosphorylase	2.4.2.1	alpha-D-Ribose 1-phosphate	Adenosine	R01561	white
+purine/pyrimidine-nucleoside phosphorylase	2.4.2.1	alpha-D-Ribose 1-phosphate	Orthophosphate	R01561	white
+pyrimidine 5'-nucleotidase	3.1.3.-	CMP	Cytidine	R00511	white
+pyrimidine 5'-nucleotidase	3.1.3.-	CMP	Orthophosphate	R00511	white
+pyrimidine 5'-nucleotidase	3.1.3.-	Cytidine	CMP	R00511	white
+pyrimidine 5'-nucleotidase	3.1.3.-	Cytidine	H2O	R00511	white
+pyrimidine 5'-nucleotidase	3.1.3.-	H2O	Cytidine	R00511	white
+pyrimidine 5'-nucleotidase	3.1.3.-	H2O	Orthophosphate	R00511	white
+pyrimidine 5'-nucleotidase	3.1.3.-	Orthophosphate	CMP	R00511	white
+pyrimidine 5'-nucleotidase	3.1.3.-	Orthophosphate	H2O	R00511	white
+pyrimidine operon attenuation protein / uracil phosphoribosyltransferase	2.4.2.9	Diphosphate	5-Phospho-alpha-D-ribose 1-diphosphate	R00966	green
+pyrimidine operon attenuation protein / uracil phosphoribosyltransferase	2.4.2.9	Diphosphate	Uracil	R00966	green
+pyrimidine operon attenuation protein / uracil phosphoribosyltransferase	2.4.2.9	UMP	5-Phospho-alpha-D-ribose 1-diphosphate	R00966	green
+pyrimidine operon attenuation protein / uracil phosphoribosyltransferase	2.4.2.9	UMP	Uracil	R00966	green
+pyrimidine-nucleoside phosphorylase	2.4.2.2	2-Deoxy-D-ribose 1-phosphate	Orthophosphate	R01570	white
+pyrimidine-nucleoside phosphorylase	2.4.2.2	2-Deoxy-D-ribose 1-phosphate	Thymidine	R01570	white
+pyrimidine-nucleoside phosphorylase	2.4.2.2	Orthophosphate	2-Deoxy-D-ribose 1-phosphate	R01570	white
+pyrimidine-nucleoside phosphorylase	2.4.2.2	Orthophosphate	Thymine	R01570	white
+pyrimidine-nucleoside phosphorylase	2.4.2.2	Thymidine	2-Deoxy-D-ribose 1-phosphate	R01570	white
+pyrimidine-nucleoside phosphorylase	2.4.2.2	Thymidine	Thymine	R01570	white
+pyrimidine-nucleoside phosphorylase	2.4.2.2	Thymine	Orthophosphate	R01570	white
+pyrimidine-nucleoside phosphorylase	2.4.2.2	Thymine	Thymidine	R01570	white
+pyrimidine-specific ribonucleoside hydrolase	3.2.2.-	D-Ribose	H2O	R01080	white
+pyrimidine-specific ribonucleoside hydrolase	3.2.2.-	D-Ribose	Uridine	R01080	white
+pyrimidine-specific ribonucleoside hydrolase	3.2.2.-	H2O	D-Ribose	R01080	white
+pyrimidine-specific ribonucleoside hydrolase	3.2.2.-	H2O	Uracil	R01080	white
+pyrimidine-specific ribonucleoside hydrolase	3.2.2.-	Uracil	H2O	R01080	white
+pyrimidine-specific ribonucleoside hydrolase	3.2.2.-	Uracil	Uridine	R01080	white
+pyrimidine-specific ribonucleoside hydrolase	3.2.2.-	Uridine	D-Ribose	R01080	white
+pyrimidine-specific ribonucleoside hydrolase	3.2.2.-	Uridine	Uracil	R01080	white
+pyrimidine/purine-5'-nucleotide nucleosidase	3.2.2.10	AMP	Adenine	R00182	white
+pyrimidine/purine-5'-nucleotide nucleosidase	3.2.2.10	AMP	D-Ribose 5-phosphate	R00182	white
+pyrimidine/purine-5'-nucleotide nucleosidase	3.2.2.10	Adenine	AMP	R00182	white
+pyrimidine/purine-5'-nucleotide nucleosidase	3.2.2.10	Adenine	H2O	R00182	white
+pyrimidine/purine-5'-nucleotide nucleosidase	3.2.2.10	D-Ribose 5-phosphate	AMP	R00182	white
+pyrimidine/purine-5'-nucleotide nucleosidase	3.2.2.10	D-Ribose 5-phosphate	H2O	R00182	white
+pyrimidine/purine-5'-nucleotide nucleosidase	3.2.2.10	H2O	Adenine	R00182	white
+pyrimidine/purine-5'-nucleotide nucleosidase	3.2.2.10	H2O	D-Ribose 5-phosphate	R00182	white
+ribonucleoside-diphosphate reductase alpha chain	1.17.4.1	H2O	CDP	R02024	green
+ribonucleoside-diphosphate reductase alpha chain	1.17.4.1	H2O	Thioredoxin	R02018	green
+ribonucleoside-diphosphate reductase alpha chain	1.17.4.1	H2O	Thioredoxin	R02024	green
+ribonucleoside-diphosphate reductase alpha chain	1.17.4.1	H2O	UDP	R02018	green
+ribonucleoside-diphosphate reductase alpha chain	1.17.4.1	Thioredoxin disulfide	CDP	R02024	green
+ribonucleoside-diphosphate reductase alpha chain	1.17.4.1	Thioredoxin disulfide	Thioredoxin	R02018	green
+ribonucleoside-diphosphate reductase alpha chain	1.17.4.1	Thioredoxin disulfide	Thioredoxin	R02024	green
+ribonucleoside-diphosphate reductase alpha chain	1.17.4.1	Thioredoxin disulfide	UDP	R02018	green
+ribonucleoside-diphosphate reductase alpha chain	1.17.4.1	dCDP	CDP	R02024	green
+ribonucleoside-diphosphate reductase alpha chain	1.17.4.1	dCDP	Thioredoxin	R02024	green
+ribonucleoside-diphosphate reductase alpha chain	1.17.4.1	dUDP	Thioredoxin	R02018	green
+ribonucleoside-diphosphate reductase alpha chain	1.17.4.1	dUDP	UDP	R02018	green
+ribonucleoside-diphosphate reductase beta chain	1.17.4.1	H2O	CDP	R02024	green
+ribonucleoside-diphosphate reductase beta chain	1.17.4.1	H2O	Thioredoxin	R02018	green
+ribonucleoside-diphosphate reductase beta chain	1.17.4.1	H2O	Thioredoxin	R02024	green
+ribonucleoside-diphosphate reductase beta chain	1.17.4.1	H2O	UDP	R02018	green
+ribonucleoside-diphosphate reductase beta chain	1.17.4.1	Thioredoxin disulfide	CDP	R02024	green
+ribonucleoside-diphosphate reductase beta chain	1.17.4.1	Thioredoxin disulfide	Thioredoxin	R02018	green
+ribonucleoside-diphosphate reductase beta chain	1.17.4.1	Thioredoxin disulfide	Thioredoxin	R02024	green
+ribonucleoside-diphosphate reductase beta chain	1.17.4.1	Thioredoxin disulfide	UDP	R02018	green
+ribonucleoside-diphosphate reductase beta chain	1.17.4.1	dCDP	CDP	R02024	green
+ribonucleoside-diphosphate reductase beta chain	1.17.4.1	dCDP	Thioredoxin	R02024	green
+ribonucleoside-diphosphate reductase beta chain	1.17.4.1	dUDP	Thioredoxin	R02018	green
+ribonucleoside-diphosphate reductase beta chain	1.17.4.1	dUDP	UDP	R02018	green
+ribonucleoside-triphosphate reductase (formate)	1.1.98.6	CO2	Formate	R11633	white
+ribonucleoside-triphosphate reductase (formate)	1.1.98.6	CO2	GTP	R11633	white
+ribonucleoside-triphosphate reductase (formate)	1.1.98.6	Formate	CO2	R11633	white
+ribonucleoside-triphosphate reductase (formate)	1.1.98.6	Formate	H2O	R11633	white
+ribonucleoside-triphosphate reductase (formate)	1.1.98.6	Formate	dGTP	R11633	white
+ribonucleoside-triphosphate reductase (formate)	1.1.98.6	GTP	CO2	R11633	white
+ribonucleoside-triphosphate reductase (formate)	1.1.98.6	GTP	H2O	R11633	white
+ribonucleoside-triphosphate reductase (formate)	1.1.98.6	GTP	dGTP	R11633	white
+ribonucleoside-triphosphate reductase (formate)	1.1.98.6	H2O	Formate	R11633	white
+ribonucleoside-triphosphate reductase (formate)	1.1.98.6	H2O	GTP	R11633	white
+ribonucleoside-triphosphate reductase (formate)	1.1.98.6	dGTP	Formate	R11633	white
+ribonucleoside-triphosphate reductase (formate)	1.1.98.6	dGTP	GTP	R11633	white
+ribonucleoside-triphosphate reductase (thioredoxin)	1.17.4.2	ATP	H2O	R02014	white
+ribonucleoside-triphosphate reductase (thioredoxin)	1.17.4.2	ATP	Thioredoxin disulfide	R02014	white
+ribonucleoside-triphosphate reductase (thioredoxin)	1.17.4.2	ATP	dATP	R02014	white
+ribonucleoside-triphosphate reductase (thioredoxin)	1.17.4.2	H2O	ATP	R02014	white
+ribonucleoside-triphosphate reductase (thioredoxin)	1.17.4.2	H2O	Thioredoxin	R02014	white
+ribonucleoside-triphosphate reductase (thioredoxin)	1.17.4.2	Thioredoxin	H2O	R02014	white
+ribonucleoside-triphosphate reductase (thioredoxin)	1.17.4.2	Thioredoxin	Thioredoxin disulfide	R02014	white
+ribonucleoside-triphosphate reductase (thioredoxin)	1.17.4.2	Thioredoxin	dATP	R02014	white
+ribonucleoside-triphosphate reductase (thioredoxin)	1.17.4.2	Thioredoxin disulfide	ATP	R02014	white
+ribonucleoside-triphosphate reductase (thioredoxin)	1.17.4.2	Thioredoxin disulfide	Thioredoxin	R02014	white
+ribonucleoside-triphosphate reductase (thioredoxin)	1.17.4.2	dATP	ATP	R02014	white
+ribonucleoside-triphosphate reductase (thioredoxin)	1.17.4.2	dATP	Thioredoxin	R02014	white
+ribonucleotide reductase, class II	1.17.4.2	ATP	H2O	R02014	white
+ribonucleotide reductase, class II	1.17.4.2	ATP	Thioredoxin disulfide	R02014	white
+ribonucleotide reductase, class II	1.17.4.2	ATP	dATP	R02014	white
+ribonucleotide reductase, class II	1.17.4.2	H2O	ATP	R02014	white
+ribonucleotide reductase, class II	1.17.4.2	H2O	Thioredoxin	R02014	white
+ribonucleotide reductase, class II	1.17.4.2	Thioredoxin	H2O	R02014	white
+ribonucleotide reductase, class II	1.17.4.2	Thioredoxin	Thioredoxin disulfide	R02014	white
+ribonucleotide reductase, class II	1.17.4.2	Thioredoxin	dATP	R02014	white
+ribonucleotide reductase, class II	1.17.4.2	Thioredoxin disulfide	ATP	R02014	white
+ribonucleotide reductase, class II	1.17.4.2	Thioredoxin disulfide	Thioredoxin	R02014	white
+ribonucleotide reductase, class II	1.17.4.2	dATP	ATP	R02014	white
+ribonucleotide reductase, class II	1.17.4.2	dATP	Thioredoxin	R02014	white
+ribosylpyrimidine nucleosidase	3.2.2.8	D-Ribose	H2O	R01080	white
+ribosylpyrimidine nucleosidase	3.2.2.8	D-Ribose	Uridine	R01080	white
+ribosylpyrimidine nucleosidase	3.2.2.8	H2O	D-Ribose	R01080	white
+ribosylpyrimidine nucleosidase	3.2.2.8	H2O	Uracil	R01080	white
+ribosylpyrimidine nucleosidase	3.2.2.8	Uracil	H2O	R01080	white
+ribosylpyrimidine nucleosidase	3.2.2.8	Uracil	Uridine	R01080	white
+ribosylpyrimidine nucleosidase	3.2.2.8	Uridine	D-Ribose	R01080	white
+ribosylpyrimidine nucleosidase	3.2.2.8	Uridine	Uracil	R01080	white
+soluble calcium-activated nucleotidase 1	3.6.1.6	H2O	Orthophosphate	R00155	white
+soluble calcium-activated nucleotidase 1	3.6.1.6	H2O	UMP	R00155	white
+soluble calcium-activated nucleotidase 1	3.6.1.6	Orthophosphate	H2O	R00155	white
+soluble calcium-activated nucleotidase 1	3.6.1.6	Orthophosphate	UDP	R00155	white
+soluble calcium-activated nucleotidase 1	3.6.1.6	UDP	Orthophosphate	R00155	white
+soluble calcium-activated nucleotidase 1	3.6.1.6	UDP	UMP	R00155	white
+soluble calcium-activated nucleotidase 1	3.6.1.6	UMP	H2O	R00155	white
+soluble calcium-activated nucleotidase 1	3.6.1.6	UMP	UDP	R00155	white
+thymidine kinase	2.7.1.21	ADP	ATP	R01567	white
+thymidine kinase	2.7.1.21	ADP	Thymidine	R01567	white
+thymidine kinase	2.7.1.21	ATP	ADP	R01567	white
+thymidine kinase	2.7.1.21	ATP	dTMP	R01567	white
+thymidine kinase	2.7.1.21	Thymidine	ADP	R01567	white
+thymidine kinase	2.7.1.21	Thymidine	dTMP	R01567	white
+thymidine kinase	2.7.1.21	dTMP	ATP	R01567	white
+thymidine kinase	2.7.1.21	dTMP	Thymidine	R01567	white
+thymidine phosphorylase	2.4.2.4	2-Deoxy-D-ribose 1-phosphate	Deoxyuridine	R02484	green
+thymidine phosphorylase	2.4.2.4	2-Deoxy-D-ribose 1-phosphate	Orthophosphate	R01570	green
+thymidine phosphorylase	2.4.2.4	2-Deoxy-D-ribose 1-phosphate	Orthophosphate	R02484	green
+thymidine phosphorylase	2.4.2.4	2-Deoxy-D-ribose 1-phosphate	Thymidine	R01570	green
+thymidine phosphorylase	2.4.2.4	Deoxyuridine	2-Deoxy-D-ribose 1-phosphate	R02484	green
+thymidine phosphorylase	2.4.2.4	Deoxyuridine	Uracil	R02484	green
+thymidine phosphorylase	2.4.2.4	Orthophosphate	2-Deoxy-D-ribose 1-phosphate	R01570	green
+thymidine phosphorylase	2.4.2.4	Orthophosphate	2-Deoxy-D-ribose 1-phosphate	R02484	green
+thymidine phosphorylase	2.4.2.4	Orthophosphate	Thymine	R01570	green
+thymidine phosphorylase	2.4.2.4	Orthophosphate	Uracil	R02484	green
+thymidine phosphorylase	2.4.2.4	Thymidine	2-Deoxy-D-ribose 1-phosphate	R01570	green
+thymidine phosphorylase	2.4.2.4	Thymidine	Thymine	R01570	green
+thymidine phosphorylase	2.4.2.4	Thymine	Orthophosphate	R01570	green
+thymidine phosphorylase	2.4.2.4	Thymine	Thymidine	R01570	green
+thymidine phosphorylase	2.4.2.4	Uracil	Deoxyuridine	R02484	green
+thymidine phosphorylase	2.4.2.4	Uracil	Orthophosphate	R02484	green
+thymidylate synthase	2.1.1.45	5,10-Methylenetetrahydrofolate	Dihydrofolate	R02101	green
+thymidylate synthase	2.1.1.45	5,10-Methylenetetrahydrofolate	dTMP	R02101	green
+thymidylate synthase	2.1.1.45	dUMP	Dihydrofolate	R02101	green
+thymidylate synthase	2.1.1.45	dUMP	dTMP	R02101	green
+thymidylate synthase (FAD)	2.1.1.148	5,10-Methylenetetrahydrofolate	NADP+	R06613	green
+thymidylate synthase (FAD)	2.1.1.148	5,10-Methylenetetrahydrofolate	Tetrahydrofolate	R06613	green
+thymidylate synthase (FAD)	2.1.1.148	5,10-Methylenetetrahydrofolate	dTMP	R06613	green
+thymidylate synthase (FAD)	2.1.1.148	H+	NADP+	R06613	green
+thymidylate synthase (FAD)	2.1.1.148	H+	Tetrahydrofolate	R06613	green
+thymidylate synthase (FAD)	2.1.1.148	H+	dTMP	R06613	green
+thymidylate synthase (FAD)	2.1.1.148	NADPH	NADP+	R06613	green
+thymidylate synthase (FAD)	2.1.1.148	NADPH	Tetrahydrofolate	R06613	green
+thymidylate synthase (FAD)	2.1.1.148	NADPH	dTMP	R06613	green
+thymidylate synthase (FAD)	2.1.1.148	dUMP	NADP+	R06613	green
+thymidylate synthase (FAD)	2.1.1.148	dUMP	Tetrahydrofolate	R06613	green
+thymidylate synthase (FAD)	2.1.1.148	dUMP	dTMP	R06613	green
+uracil phosphoribosyltransferase	2.4.2.9	Diphosphate	5-Phospho-alpha-D-ribose 1-diphosphate	R00966	green
+uracil phosphoribosyltransferase	2.4.2.9	Diphosphate	Uracil	R00966	green
+uracil phosphoribosyltransferase	2.4.2.9	UMP	5-Phospho-alpha-D-ribose 1-diphosphate	R00966	green
+uracil phosphoribosyltransferase	2.4.2.9	UMP	Uracil	R00966	green
+ureidoacrylate peracid hydrolase	3.5.1.110	(Z)-3-Ureidoacrylate peracid	(Z)-3-Peroxyaminoacrylate	R09947	green
+ureidoacrylate peracid hydrolase	3.5.1.110	(Z)-3-Ureidoacrylate peracid	Carbamate	R09947	green
+ureidoacrylate peracid hydrolase	3.5.1.110	H2O	(Z)-3-Peroxyaminoacrylate	R09947	green
+ureidoacrylate peracid hydrolase	3.5.1.110	H2O	Aminoacrylate	R09980	green
+ureidoacrylate peracid hydrolase	3.5.1.110	H2O	Carbamate	R09947	green
+ureidoacrylate peracid hydrolase	3.5.1.110	H2O	Carbamate	R09980	green
+ureidoacrylate peracid hydrolase	3.5.1.110	Ureidoacrylate	Aminoacrylate	R09980	green
+ureidoacrylate peracid hydrolase	3.5.1.110	Ureidoacrylate	Carbamate	R09980	green
+ureidomalonase	3.5.1.95	3-Oxo-3-ureidoisobutyrate	Methylmalonate	R10778	green
+ureidomalonase	3.5.1.95	3-Oxo-3-ureidoisobutyrate	Urea	R10778	green
+ureidomalonase	3.5.1.95	3-Oxo-3-ureidopropanoate	Malonate	R07629	green
+ureidomalonase	3.5.1.95	3-Oxo-3-ureidopropanoate	Urea	R07629	green
+ureidomalonase	3.5.1.95	H2O	Malonate	R07629	green
+ureidomalonase	3.5.1.95	H2O	Methylmalonate	R10778	green
+ureidomalonase	3.5.1.95	H2O	Urea	R07629	green
+ureidomalonase	3.5.1.95	H2O	Urea	R10778	green
+uridine kinase	2.7.1.48	ADP	ATP	R00513	white
+uridine kinase	2.7.1.48	ADP	Cytidine	R00513	white
+uridine kinase	2.7.1.48	ATP	ADP	R00513	white
+uridine kinase	2.7.1.48	ATP	CMP	R00513	white
+uridine kinase	2.7.1.48	CMP	ATP	R00513	white
+uridine kinase	2.7.1.48	CMP	Cytidine	R00513	white
+uridine kinase	2.7.1.48	Cytidine	ADP	R00513	white
+uridine kinase	2.7.1.48	Cytidine	CMP	R00513	white
+uridine nucleosidase	3.2.2.3	D-Ribose	H2O	R01080	white
+uridine nucleosidase	3.2.2.3	D-Ribose	Uridine	R01080	white
+uridine nucleosidase	3.2.2.3	H2O	D-Ribose	R01080	white
+uridine nucleosidase	3.2.2.3	H2O	Uracil	R01080	white
+uridine nucleosidase	3.2.2.3	Uracil	H2O	R01080	white
+uridine nucleosidase	3.2.2.3	Uracil	Uridine	R01080	white
+uridine nucleosidase	3.2.2.3	Uridine	D-Ribose	R01080	white
+uridine nucleosidase	3.2.2.3	Uridine	Uracil	R01080	white
+uridine phosphorylase	2.4.2.3	Orthophosphate	Uracil	R01876	white
+uridine phosphorylase	2.4.2.3	Orthophosphate	alpha-D-Ribose 1-phosphate	R01876	white
+uridine phosphorylase	2.4.2.3	Uracil	Orthophosphate	R01876	white
+uridine phosphorylase	2.4.2.3	Uracil	Uridine	R01876	white
+uridine phosphorylase	2.4.2.3	Uridine	Uracil	R01876	white
+uridine phosphorylase	2.4.2.3	Uridine	alpha-D-Ribose 1-phosphate	R01876	white
+uridine phosphorylase	2.4.2.3	alpha-D-Ribose 1-phosphate	Orthophosphate	R01876	white
+uridine phosphorylase	2.4.2.3	alpha-D-Ribose 1-phosphate	Uridine	R01876	white
+uridylate cyclase	4.6.1.26	3',5'-Cyclic UMP	UTP	R12998	white
+uridylate cyclase	4.6.1.26	Diphosphate	UTP	R12998	white
+uridylate cyclase	4.6.1.26	UTP	3',5'-Cyclic UMP	R12998	white
+uridylate cyclase	4.6.1.26	UTP	Diphosphate	R12998	white
+uridylate kinase	2.7.4.22	ADP	ATP	R00158	green
+uridylate kinase	2.7.4.22	ADP	UMP	R00158	green
+uridylate kinase	2.7.4.22	ATP	ADP	R00158	green
+uridylate kinase	2.7.4.22	ATP	UDP	R00158	green
+uridylate kinase	2.7.4.22	UDP	ATP	R00158	green
+uridylate kinase	2.7.4.22	UDP	UMP	R00158	green
+uridylate kinase	2.7.4.22	UMP	ADP	R00158	green
+uridylate kinase	2.7.4.22	UMP	UDP	R00158	green

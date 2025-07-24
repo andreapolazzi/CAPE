@@ -1,549 +1,562 @@
-enzyme_name	EC	source	target	color
-N-acetyl-gamma-glutamyl-phosphate reductase	1.2.1.38	N-Acetyl-L-glutamate 5-semialdehyde	H+	green
-N-acetyl-gamma-glutamyl-phosphate reductase	1.2.1.38	N-Acetyl-L-glutamate 5-semialdehyde	N-Acetyl-L-glutamate 5-phosphate	green
-N-acetyl-gamma-glutamyl-phosphate reductase	1.2.1.38	N-Acetyl-L-glutamate 5-semialdehyde	NADPH	green
-N-acetyl-gamma-glutamyl-phosphate reductase	1.2.1.38	NADP+	H+	green
-N-acetyl-gamma-glutamyl-phosphate reductase	1.2.1.38	NADP+	N-Acetyl-L-glutamate 5-phosphate	green
-N-acetyl-gamma-glutamyl-phosphate reductase	1.2.1.38	NADP+	NADPH	green
-N-acetyl-gamma-glutamyl-phosphate reductase	1.2.1.38	Orthophosphate	H+	green
-N-acetyl-gamma-glutamyl-phosphate reductase	1.2.1.38	Orthophosphate	N-Acetyl-L-glutamate 5-phosphate	green
-N-acetyl-gamma-glutamyl-phosphate reductase	1.2.1.38	Orthophosphate	NADPH	green
-N-acetylglutamate synthase	2.3.1.1	Acetyl-CoA	CoA	green
-N-acetylglutamate synthase	2.3.1.1	Acetyl-CoA	N-Acetyl-L-glutamate	green
-N-acetylglutamate synthase	2.3.1.1	L-Glutamate	CoA	green
-N-acetylglutamate synthase	2.3.1.1	L-Glutamate	N-Acetyl-L-glutamate	green
-N-acetylornithine carbamoyltransferase	2.1.3.9	Carbamoyl phosphate	N-Acetyl-L-citrulline	white
-N-acetylornithine carbamoyltransferase	2.1.3.9	Carbamoyl phosphate	Orthophosphate	white
-N-acetylornithine carbamoyltransferase	2.1.3.9	N-Acetyl-L-citrulline	Carbamoyl phosphate	white
-N-acetylornithine carbamoyltransferase	2.1.3.9	N-Acetyl-L-citrulline	N-Acetylornithine	white
-N-acetylornithine carbamoyltransferase	2.1.3.9	N-Acetylornithine	N-Acetyl-L-citrulline	white
-N-acetylornithine carbamoyltransferase	2.1.3.9	N-Acetylornithine	Orthophosphate	white
-N-acetylornithine carbamoyltransferase	2.1.3.9	Orthophosphate	Carbamoyl phosphate	white
-N-acetylornithine carbamoyltransferase	2.1.3.9	Orthophosphate	N-Acetylornithine	white
-[amino group carrier protein]-6-phospho-L-2-aminoadipate/5-phospho-L-glutamate reductase	1.2.1.103	H+	LysW-gamma-L-alpha-aminoadipate 6-semialdehyde	white
-[amino group carrier protein]-6-phospho-L-2-aminoadipate/5-phospho-L-glutamate reductase	1.2.1.103	H+	NADP+	white
-[amino group carrier protein]-6-phospho-L-2-aminoadipate/5-phospho-L-glutamate reductase	1.2.1.103	H+	Orthophosphate	white
-[amino group carrier protein]-6-phospho-L-2-aminoadipate/5-phospho-L-glutamate reductase	1.2.1.103	LysW-gamma-L-alpha-aminoadipate 6-semialdehyde	H+	white
-[amino group carrier protein]-6-phospho-L-2-aminoadipate/5-phospho-L-glutamate reductase	1.2.1.103	LysW-gamma-L-alpha-aminoadipate 6-semialdehyde	LysW-gamma-L-alpha-aminoadipyl 6-phosphate	white
-[amino group carrier protein]-6-phospho-L-2-aminoadipate/5-phospho-L-glutamate reductase	1.2.1.103	LysW-gamma-L-alpha-aminoadipate 6-semialdehyde	NADPH	white
-[amino group carrier protein]-6-phospho-L-2-aminoadipate/5-phospho-L-glutamate reductase	1.2.1.103	LysW-gamma-L-alpha-aminoadipyl 6-phosphate	LysW-gamma-L-alpha-aminoadipate 6-semialdehyde	white
-[amino group carrier protein]-6-phospho-L-2-aminoadipate/5-phospho-L-glutamate reductase	1.2.1.103	LysW-gamma-L-alpha-aminoadipyl 6-phosphate	NADP+	white
-[amino group carrier protein]-6-phospho-L-2-aminoadipate/5-phospho-L-glutamate reductase	1.2.1.103	LysW-gamma-L-alpha-aminoadipyl 6-phosphate	Orthophosphate	white
-[amino group carrier protein]-6-phospho-L-2-aminoadipate/5-phospho-L-glutamate reductase	1.2.1.103	NADP+	H+	white
-[amino group carrier protein]-6-phospho-L-2-aminoadipate/5-phospho-L-glutamate reductase	1.2.1.103	NADP+	LysW-gamma-L-alpha-aminoadipyl 6-phosphate	white
-[amino group carrier protein]-6-phospho-L-2-aminoadipate/5-phospho-L-glutamate reductase	1.2.1.103	NADP+	NADPH	white
-[amino group carrier protein]-6-phospho-L-2-aminoadipate/5-phospho-L-glutamate reductase	1.2.1.103	NADPH	LysW-gamma-L-alpha-aminoadipate 6-semialdehyde	white
-[amino group carrier protein]-6-phospho-L-2-aminoadipate/5-phospho-L-glutamate reductase	1.2.1.103	NADPH	NADP+	white
-[amino group carrier protein]-6-phospho-L-2-aminoadipate/5-phospho-L-glutamate reductase	1.2.1.103	NADPH	Orthophosphate	white
-[amino group carrier protein]-6-phospho-L-2-aminoadipate/5-phospho-L-glutamate reductase	1.2.1.103	Orthophosphate	H+	white
-[amino group carrier protein]-6-phospho-L-2-aminoadipate/5-phospho-L-glutamate reductase	1.2.1.103	Orthophosphate	LysW-gamma-L-alpha-aminoadipyl 6-phosphate	white
-[amino group carrier protein]-6-phospho-L-2-aminoadipate/5-phospho-L-glutamate reductase	1.2.1.103	Orthophosphate	NADPH	white
-[amino group carrier protein]-L-2-aminoadipate/L-glutamate 6-kinase	2.7.2.17	ADP	ATP	white
-[amino group carrier protein]-L-2-aminoadipate/L-glutamate 6-kinase	2.7.2.17	ADP	LysW-gamma-L-alpha-aminoadipate	white
-[amino group carrier protein]-L-2-aminoadipate/L-glutamate 6-kinase	2.7.2.17	ATP	ADP	white
-[amino group carrier protein]-L-2-aminoadipate/L-glutamate 6-kinase	2.7.2.17	ATP	LysW-gamma-L-alpha-aminoadipyl 6-phosphate	white
-[amino group carrier protein]-L-2-aminoadipate/L-glutamate 6-kinase	2.7.2.17	LysW-gamma-L-alpha-aminoadipate	ADP	white
-[amino group carrier protein]-L-2-aminoadipate/L-glutamate 6-kinase	2.7.2.17	LysW-gamma-L-alpha-aminoadipate	LysW-gamma-L-alpha-aminoadipyl 6-phosphate	white
-[amino group carrier protein]-L-2-aminoadipate/L-glutamate 6-kinase	2.7.2.17	LysW-gamma-L-alpha-aminoadipyl 6-phosphate	ATP	white
-[amino group carrier protein]-L-2-aminoadipate/L-glutamate 6-kinase	2.7.2.17	LysW-gamma-L-alpha-aminoadipyl 6-phosphate	LysW-gamma-L-alpha-aminoadipate	white
-[amino group carrier protein]-lysine/ornithine hydrolase	3.5.1.130	H2O	L-Lysine	white
-[amino group carrier protein]-lysine/ornithine hydrolase	3.5.1.130	H2O	alpha-Aminoadipate carrier protein LysW	white
-[amino group carrier protein]-lysine/ornithine hydrolase	3.5.1.130	L-Lysine	H2O	white
-[amino group carrier protein]-lysine/ornithine hydrolase	3.5.1.130	L-Lysine	LysW-gamma-L-lysine	white
-[amino group carrier protein]-lysine/ornithine hydrolase	3.5.1.130	LysW-gamma-L-lysine	L-Lysine	white
-[amino group carrier protein]-lysine/ornithine hydrolase	3.5.1.130	LysW-gamma-L-lysine	alpha-Aminoadipate carrier protein LysW	white
-[amino group carrier protein]-lysine/ornithine hydrolase	3.5.1.130	alpha-Aminoadipate carrier protein LysW	H2O	white
-[amino group carrier protein]-lysine/ornithine hydrolase	3.5.1.130	alpha-Aminoadipate carrier protein LysW	LysW-gamma-L-lysine	white
-[amino-group carrier protein]-gamma-(L-lysyl/L-ornithyl)-L-glutamate aminotransferase	2.6.1.118	2-Oxoglutarate	L-Glutamate	white
-[amino-group carrier protein]-gamma-(L-lysyl/L-ornithyl)-L-glutamate aminotransferase	2.6.1.118	2-Oxoglutarate	LysW-gamma-L-alpha-aminoadipate 6-semialdehyde	white
-[amino-group carrier protein]-gamma-(L-lysyl/L-ornithyl)-L-glutamate aminotransferase	2.6.1.118	L-Glutamate	2-Oxoglutarate	white
-[amino-group carrier protein]-gamma-(L-lysyl/L-ornithyl)-L-glutamate aminotransferase	2.6.1.118	L-Glutamate	LysW-gamma-L-lysine	white
-[amino-group carrier protein]-gamma-(L-lysyl/L-ornithyl)-L-glutamate aminotransferase	2.6.1.118	LysW-gamma-L-alpha-aminoadipate 6-semialdehyde	2-Oxoglutarate	white
-[amino-group carrier protein]-gamma-(L-lysyl/L-ornithyl)-L-glutamate aminotransferase	2.6.1.118	LysW-gamma-L-alpha-aminoadipate 6-semialdehyde	LysW-gamma-L-lysine	white
-[amino-group carrier protein]-gamma-(L-lysyl/L-ornithyl)-L-glutamate aminotransferase	2.6.1.118	LysW-gamma-L-lysine	L-Glutamate	white
-[amino-group carrier protein]-gamma-(L-lysyl/L-ornithyl)-L-glutamate aminotransferase	2.6.1.118	LysW-gamma-L-lysine	LysW-gamma-L-alpha-aminoadipate 6-semialdehyde	white
-acetylglutamate kinase	2.7.2.8	ATP	ADP	green
-acetylglutamate kinase	2.7.2.8	ATP	N-Acetyl-L-glutamate 5-phosphate	green
-acetylglutamate kinase	2.7.2.8	N-Acetyl-L-glutamate	ADP	green
-acetylglutamate kinase	2.7.2.8	N-Acetyl-L-glutamate	N-Acetyl-L-glutamate 5-phosphate	green
-acetylornithine deacetylase	3.5.1.16	Acetate	H2O	white
-acetylornithine deacetylase	3.5.1.16	Acetate	N-Acetylornithine	white
-acetylornithine deacetylase	3.5.1.16	H2O	Acetate	white
-acetylornithine deacetylase	3.5.1.16	H2O	L-Ornithine	white
-acetylornithine deacetylase	3.5.1.16	L-Ornithine	H2O	white
-acetylornithine deacetylase	3.5.1.16	L-Ornithine	N-Acetylornithine	white
-acetylornithine deacetylase	3.5.1.16	N-Acetylornithine	Acetate	white
-acetylornithine deacetylase	3.5.1.16	N-Acetylornithine	L-Ornithine	white
-acetylornithine/N-succinyldiaminopimelate aminotransferase	2.6.1.11	2-Oxoglutarate	L-Glutamate	green
-acetylornithine/N-succinyldiaminopimelate aminotransferase	2.6.1.11	2-Oxoglutarate	N-Acetyl-L-glutamate 5-semialdehyde	green
-acetylornithine/N-succinyldiaminopimelate aminotransferase	2.6.1.11	N-Acetylornithine	L-Glutamate	green
-acetylornithine/N-succinyldiaminopimelate aminotransferase	2.6.1.11	N-Acetylornithine	N-Acetyl-L-glutamate 5-semialdehyde	green
-alanine-synthesizing transaminase	2.6.1.66	2-Oxoglutarate	L-Glutamate	green
-alanine-synthesizing transaminase	2.6.1.66	2-Oxoglutarate	Pyruvate	green
-alanine-synthesizing transaminase	2.6.1.66	L-Alanine	L-Glutamate	green
-alanine-synthesizing transaminase	2.6.1.66	L-Alanine	Pyruvate	green
-allophanate hydrolase	3.5.1.54	H2O	Ammonia	green
-allophanate hydrolase	3.5.1.54	H2O	CO2	green
-allophanate hydrolase	3.5.1.54	Urea-1-carboxylate	Ammonia	green
-allophanate hydrolase	3.5.1.54	Urea-1-carboxylate	CO2	green
-alpha-aminoadipate-LysW ligase/glutamate-LysW ligase	6.3.2.43	ADP	ATP	white
-alpha-aminoadipate-LysW ligase/glutamate-LysW ligase	6.3.2.43	ADP	L-2-Aminoadipate	white
-alpha-aminoadipate-LysW ligase/glutamate-LysW ligase	6.3.2.43	ADP	alpha-Aminoadipate carrier protein LysW	white
-alpha-aminoadipate-LysW ligase/glutamate-LysW ligase	6.3.2.43	ATP	ADP	white
-alpha-aminoadipate-LysW ligase/glutamate-LysW ligase	6.3.2.43	ATP	LysW-gamma-L-alpha-aminoadipate	white
-alpha-aminoadipate-LysW ligase/glutamate-LysW ligase	6.3.2.43	ATP	Orthophosphate	white
-alpha-aminoadipate-LysW ligase/glutamate-LysW ligase	6.3.2.43	L-2-Aminoadipate	ADP	white
-alpha-aminoadipate-LysW ligase/glutamate-LysW ligase	6.3.2.43	L-2-Aminoadipate	LysW-gamma-L-alpha-aminoadipate	white
-alpha-aminoadipate-LysW ligase/glutamate-LysW ligase	6.3.2.43	L-2-Aminoadipate	Orthophosphate	white
-alpha-aminoadipate-LysW ligase/glutamate-LysW ligase	6.3.2.43	LysW-gamma-L-alpha-aminoadipate	ATP	white
-alpha-aminoadipate-LysW ligase/glutamate-LysW ligase	6.3.2.43	LysW-gamma-L-alpha-aminoadipate	L-2-Aminoadipate	white
-alpha-aminoadipate-LysW ligase/glutamate-LysW ligase	6.3.2.43	LysW-gamma-L-alpha-aminoadipate	alpha-Aminoadipate carrier protein LysW	white
-alpha-aminoadipate-LysW ligase/glutamate-LysW ligase	6.3.2.43	Orthophosphate	ATP	white
-alpha-aminoadipate-LysW ligase/glutamate-LysW ligase	6.3.2.43	Orthophosphate	L-2-Aminoadipate	white
-alpha-aminoadipate-LysW ligase/glutamate-LysW ligase	6.3.2.43	Orthophosphate	alpha-Aminoadipate carrier protein LysW	white
-alpha-aminoadipate-LysW ligase/glutamate-LysW ligase	6.3.2.43	alpha-Aminoadipate carrier protein LysW	ADP	white
-alpha-aminoadipate-LysW ligase/glutamate-LysW ligase	6.3.2.43	alpha-Aminoadipate carrier protein LysW	LysW-gamma-L-alpha-aminoadipate	white
-alpha-aminoadipate-LysW ligase/glutamate-LysW ligase	6.3.2.43	alpha-Aminoadipate carrier protein LysW	Orthophosphate	white
-amino-acid N-acetyltransferase	2.3.1.1	Acetyl-CoA	CoA	green
-amino-acid N-acetyltransferase	2.3.1.1	Acetyl-CoA	N-Acetyl-L-glutamate	green
-amino-acid N-acetyltransferase	2.3.1.1	L-Glutamate	CoA	green
-amino-acid N-acetyltransferase	2.3.1.1	L-Glutamate	N-Acetyl-L-glutamate	green
-aminoacylase	3.5.1.14	Acetate	H2O	white
-aminoacylase	3.5.1.14	Acetate	N-Acetylornithine	white
-aminoacylase	3.5.1.14	H2O	Acetate	white
-aminoacylase	3.5.1.14	H2O	L-Ornithine	white
-aminoacylase	3.5.1.14	L-Ornithine	H2O	white
-aminoacylase	3.5.1.14	L-Ornithine	N-Acetylornithine	white
-aminoacylase	3.5.1.14	N-Acetylornithine	Acetate	white
-aminoacylase	3.5.1.14	N-Acetylornithine	L-Ornithine	white
-arginase	3.5.3.1	H2O	L-Ornithine	green
-arginase	3.5.3.1	H2O	Urea	green
-arginase	3.5.3.1	L-Arginine	L-Ornithine	green
-arginase	3.5.3.1	L-Arginine	Urea	green
-arginine deiminase	3.5.3.6	Ammonia	H2O	green
-arginine deiminase	3.5.3.6	Ammonia	L-Arginine	green
-arginine deiminase	3.5.3.6	H2O	Ammonia	green
-arginine deiminase	3.5.3.6	H2O	L-Citrulline	green
-arginine deiminase	3.5.3.6	L-Arginine	Ammonia	green
-arginine deiminase	3.5.3.6	L-Arginine	L-Citrulline	green
-arginine deiminase	3.5.3.6	L-Citrulline	H2O	green
-arginine deiminase	3.5.3.6	L-Citrulline	L-Arginine	green
-arginine dihydrolase	3.5.3.27	H2O	Ammonia	green
-arginine dihydrolase	3.5.3.27	H2O	CO2	green
-arginine dihydrolase	3.5.3.27	H2O	L-Ornithine	green
-arginine dihydrolase	3.5.3.27	L-Arginine	Ammonia	green
-arginine dihydrolase	3.5.3.27	L-Arginine	CO2	green
-arginine dihydrolase	3.5.3.27	L-Arginine	L-Ornithine	green
-argininosuccinate lyase	4.3.2.1	N-(L-Arginino)succinate	Fumarate	green
-argininosuccinate lyase	4.3.2.1	N-(L-Arginino)succinate	L-Arginine	green
-argininosuccinate synthase	6.3.4.5	ATP	AMP	green
-argininosuccinate synthase	6.3.4.5	ATP	Diphosphate	green
-argininosuccinate synthase	6.3.4.5	ATP	N-(L-Arginino)succinate	green
-argininosuccinate synthase	6.3.4.5	L-Aspartate	AMP	green
-argininosuccinate synthase	6.3.4.5	L-Aspartate	Diphosphate	green
-argininosuccinate synthase	6.3.4.5	L-Aspartate	N-(L-Arginino)succinate	green
-argininosuccinate synthase	6.3.4.5	L-Citrulline	AMP	green
-argininosuccinate synthase	6.3.4.5	L-Citrulline	Diphosphate	green
-argininosuccinate synthase	6.3.4.5	L-Citrulline	N-(L-Arginino)succinate	green
-aspartate aminotransferase	2.6.1.1	2-Oxoglutarate	L-Glutamate	green
-aspartate aminotransferase	2.6.1.1	2-Oxoglutarate	Oxaloacetate	green
-aspartate aminotransferase	2.6.1.1	L-Aspartate	L-Glutamate	green
-aspartate aminotransferase	2.6.1.1	L-Aspartate	Oxaloacetate	green
-carbamate kinase	2.7.2.2	ADP	ATP	white
-carbamate kinase	2.7.2.2	ADP	Ammonia	white
-carbamate kinase	2.7.2.2	ADP	HCO3-	white
-carbamate kinase	2.7.2.2	ATP	ADP	white
-carbamate kinase	2.7.2.2	ATP	Carbamoyl phosphate	white
-carbamate kinase	2.7.2.2	ATP	H2O	white
-carbamate kinase	2.7.2.2	Ammonia	ADP	white
-carbamate kinase	2.7.2.2	Ammonia	Carbamoyl phosphate	white
-carbamate kinase	2.7.2.2	Ammonia	H2O	white
-carbamate kinase	2.7.2.2	Carbamoyl phosphate	ATP	white
-carbamate kinase	2.7.2.2	Carbamoyl phosphate	Ammonia	white
-carbamate kinase	2.7.2.2	Carbamoyl phosphate	HCO3-	white
-carbamate kinase	2.7.2.2	H2O	ATP	white
-carbamate kinase	2.7.2.2	H2O	Ammonia	white
-carbamate kinase	2.7.2.2	H2O	HCO3-	white
-carbamate kinase	2.7.2.2	HCO3-	ADP	white
-carbamate kinase	2.7.2.2	HCO3-	Carbamoyl phosphate	white
-carbamate kinase	2.7.2.2	HCO3-	H2O	white
-carbamoyl-phosphate synthase (ammonia)	6.3.4.16	ADP	ATP	white
-carbamoyl-phosphate synthase (ammonia)	6.3.4.16	ADP	Ammonia	white
-carbamoyl-phosphate synthase (ammonia)	6.3.4.16	ADP	CO2	white
-carbamoyl-phosphate synthase (ammonia)	6.3.4.16	ADP	H2O	white
-carbamoyl-phosphate synthase (ammonia)	6.3.4.16	ATP	ADP	white
-carbamoyl-phosphate synthase (ammonia)	6.3.4.16	ATP	Carbamoyl phosphate	white
-carbamoyl-phosphate synthase (ammonia)	6.3.4.16	ATP	Orthophosphate	white
-carbamoyl-phosphate synthase (ammonia)	6.3.4.16	Ammonia	ADP	white
-carbamoyl-phosphate synthase (ammonia)	6.3.4.16	Ammonia	Carbamoyl phosphate	white
-carbamoyl-phosphate synthase (ammonia)	6.3.4.16	Ammonia	Orthophosphate	white
-carbamoyl-phosphate synthase (ammonia)	6.3.4.16	CO2	ADP	white
-carbamoyl-phosphate synthase (ammonia)	6.3.4.16	CO2	Carbamoyl phosphate	white
-carbamoyl-phosphate synthase (ammonia)	6.3.4.16	CO2	Orthophosphate	white
-carbamoyl-phosphate synthase (ammonia)	6.3.4.16	Carbamoyl phosphate	ATP	white
-carbamoyl-phosphate synthase (ammonia)	6.3.4.16	Carbamoyl phosphate	Ammonia	white
-carbamoyl-phosphate synthase (ammonia)	6.3.4.16	Carbamoyl phosphate	CO2	white
-carbamoyl-phosphate synthase (ammonia)	6.3.4.16	Carbamoyl phosphate	H2O	white
-carbamoyl-phosphate synthase (ammonia)	6.3.4.16	H2O	ADP	white
-carbamoyl-phosphate synthase (ammonia)	6.3.4.16	H2O	Carbamoyl phosphate	white
-carbamoyl-phosphate synthase (ammonia)	6.3.4.16	H2O	Orthophosphate	white
-carbamoyl-phosphate synthase (ammonia)	6.3.4.16	Orthophosphate	ATP	white
-carbamoyl-phosphate synthase (ammonia)	6.3.4.16	Orthophosphate	Ammonia	white
-carbamoyl-phosphate synthase (ammonia)	6.3.4.16	Orthophosphate	CO2	white
-carbamoyl-phosphate synthase (ammonia)	6.3.4.16	Orthophosphate	H2O	white
-carbamoyl-phosphate synthase large subunit	6.3.5.5	ATP	ADP	green
-carbamoyl-phosphate synthase large subunit	6.3.5.5	ATP	Carbamoyl phosphate	green
-carbamoyl-phosphate synthase large subunit	6.3.5.5	ATP	L-Glutamate	green
-carbamoyl-phosphate synthase large subunit	6.3.5.5	ATP	Orthophosphate	green
-carbamoyl-phosphate synthase large subunit	6.3.5.5	H2O	ADP	green
-carbamoyl-phosphate synthase large subunit	6.3.5.5	H2O	Carbamoyl phosphate	green
-carbamoyl-phosphate synthase large subunit	6.3.5.5	H2O	L-Glutamate	green
-carbamoyl-phosphate synthase large subunit	6.3.5.5	H2O	Orthophosphate	green
-carbamoyl-phosphate synthase large subunit	6.3.5.5	HCO3-	ADP	green
-carbamoyl-phosphate synthase large subunit	6.3.5.5	HCO3-	Carbamoyl phosphate	green
-carbamoyl-phosphate synthase large subunit	6.3.5.5	HCO3-	L-Glutamate	green
-carbamoyl-phosphate synthase large subunit	6.3.5.5	HCO3-	Orthophosphate	green
-carbamoyl-phosphate synthase large subunit	6.3.5.5	L-Glutamine	ADP	green
-carbamoyl-phosphate synthase large subunit	6.3.5.5	L-Glutamine	Carbamoyl phosphate	green
-carbamoyl-phosphate synthase large subunit	6.3.5.5	L-Glutamine	L-Glutamate	green
-carbamoyl-phosphate synthase large subunit	6.3.5.5	L-Glutamine	Orthophosphate	green
-carbamoyl-phosphate synthase small subunit	6.3.5.5	ATP	ADP	green
-carbamoyl-phosphate synthase small subunit	6.3.5.5	ATP	Carbamoyl phosphate	green
-carbamoyl-phosphate synthase small subunit	6.3.5.5	ATP	L-Glutamate	green
-carbamoyl-phosphate synthase small subunit	6.3.5.5	ATP	Orthophosphate	green
-carbamoyl-phosphate synthase small subunit	6.3.5.5	H2O	ADP	green
-carbamoyl-phosphate synthase small subunit	6.3.5.5	H2O	Carbamoyl phosphate	green
-carbamoyl-phosphate synthase small subunit	6.3.5.5	H2O	L-Glutamate	green
-carbamoyl-phosphate synthase small subunit	6.3.5.5	H2O	Orthophosphate	green
-carbamoyl-phosphate synthase small subunit	6.3.5.5	HCO3-	ADP	green
-carbamoyl-phosphate synthase small subunit	6.3.5.5	HCO3-	Carbamoyl phosphate	green
-carbamoyl-phosphate synthase small subunit	6.3.5.5	HCO3-	L-Glutamate	green
-carbamoyl-phosphate synthase small subunit	6.3.5.5	HCO3-	Orthophosphate	green
-carbamoyl-phosphate synthase small subunit	6.3.5.5	L-Glutamine	ADP	green
-carbamoyl-phosphate synthase small subunit	6.3.5.5	L-Glutamine	Carbamoyl phosphate	green
-carbamoyl-phosphate synthase small subunit	6.3.5.5	L-Glutamine	L-Glutamate	green
-carbamoyl-phosphate synthase small subunit	6.3.5.5	L-Glutamine	Orthophosphate	green
-glutamate N-acetyltransferase / amino-acid N-acetyltransferase	2.3.1.35	Acetyl-CoA	CoA	green
-glutamate N-acetyltransferase / amino-acid N-acetyltransferase	2.3.1.35	Acetyl-CoA	N-Acetyl-L-glutamate	green
-glutamate N-acetyltransferase / amino-acid N-acetyltransferase	2.3.1.35	L-Glutamate	CoA	green
-glutamate N-acetyltransferase / amino-acid N-acetyltransferase	2.3.1.35	L-Glutamate	L-Ornithine	green
-glutamate N-acetyltransferase / amino-acid N-acetyltransferase	2.3.1.35	L-Glutamate	N-Acetyl-L-glutamate	green
-glutamate N-acetyltransferase / amino-acid N-acetyltransferase	2.3.1.35	L-Ornithine	L-Glutamate	green
-glutamate N-acetyltransferase / amino-acid N-acetyltransferase	2.3.1.35	L-Ornithine	N-Acetylornithine	green
-glutamate N-acetyltransferase / amino-acid N-acetyltransferase	2.3.1.35	N-Acetyl-L-glutamate	L-Glutamate	green
-glutamate N-acetyltransferase / amino-acid N-acetyltransferase	2.3.1.35	N-Acetyl-L-glutamate	N-Acetylornithine	green
-glutamate N-acetyltransferase / amino-acid N-acetyltransferase	2.3.1.35	N-Acetylornithine	L-Ornithine	green
-glutamate N-acetyltransferase / amino-acid N-acetyltransferase	2.3.1.35	N-Acetylornithine	N-Acetyl-L-glutamate	green
-glutamate dehydrogenase	1.4.1.2	2-Oxoglutarate	H2O	green
-glutamate dehydrogenase	1.4.1.2	2-Oxoglutarate	L-Glutamate	green
-glutamate dehydrogenase	1.4.1.2	2-Oxoglutarate	NAD+	green
-glutamate dehydrogenase	1.4.1.2	Ammonia	H2O	green
-glutamate dehydrogenase	1.4.1.2	Ammonia	L-Glutamate	green
-glutamate dehydrogenase	1.4.1.2	Ammonia	NAD+	green
-glutamate dehydrogenase	1.4.1.2	H+	H2O	green
-glutamate dehydrogenase	1.4.1.2	H+	L-Glutamate	green
-glutamate dehydrogenase	1.4.1.2	H+	NAD+	green
-glutamate dehydrogenase	1.4.1.2	H2O	2-Oxoglutarate	green
-glutamate dehydrogenase	1.4.1.2	H2O	Ammonia	green
-glutamate dehydrogenase	1.4.1.2	H2O	H+	green
-glutamate dehydrogenase	1.4.1.2	H2O	NADH	green
-glutamate dehydrogenase	1.4.1.2	L-Glutamate	2-Oxoglutarate	green
-glutamate dehydrogenase	1.4.1.2	L-Glutamate	Ammonia	green
-glutamate dehydrogenase	1.4.1.2	L-Glutamate	H+	green
-glutamate dehydrogenase	1.4.1.2	L-Glutamate	NADH	green
-glutamate dehydrogenase	1.4.1.2	NAD+	2-Oxoglutarate	green
-glutamate dehydrogenase	1.4.1.2	NAD+	Ammonia	green
-glutamate dehydrogenase	1.4.1.2	NAD+	H+	green
-glutamate dehydrogenase	1.4.1.2	NAD+	NADH	green
-glutamate dehydrogenase	1.4.1.2	NADH	H2O	green
-glutamate dehydrogenase	1.4.1.2	NADH	L-Glutamate	green
-glutamate dehydrogenase	1.4.1.2	NADH	NAD+	green
-glutamate dehydrogenase (NAD(P)+)	1.4.1.3	2-Oxoglutarate	H2O	green
-glutamate dehydrogenase (NAD(P)+)	1.4.1.3	2-Oxoglutarate	L-Glutamate	green
-glutamate dehydrogenase (NAD(P)+)	1.4.1.3	2-Oxoglutarate	NAD+	green
-glutamate dehydrogenase (NAD(P)+)	1.4.1.3	2-Oxoglutarate	NADP+	green
-glutamate dehydrogenase (NAD(P)+)	1.4.1.3	Ammonia	H2O	green
-glutamate dehydrogenase (NAD(P)+)	1.4.1.3	Ammonia	L-Glutamate	green
-glutamate dehydrogenase (NAD(P)+)	1.4.1.3	Ammonia	NAD+	green
-glutamate dehydrogenase (NAD(P)+)	1.4.1.3	Ammonia	NADP+	green
-glutamate dehydrogenase (NAD(P)+)	1.4.1.3	H+	H2O	green
-glutamate dehydrogenase (NAD(P)+)	1.4.1.3	H+	L-Glutamate	green
-glutamate dehydrogenase (NAD(P)+)	1.4.1.3	H+	NAD+	green
-glutamate dehydrogenase (NAD(P)+)	1.4.1.3	H+	NADP+	green
-glutamate dehydrogenase (NAD(P)+)	1.4.1.3	H2O	2-Oxoglutarate	green
-glutamate dehydrogenase (NAD(P)+)	1.4.1.3	H2O	Ammonia	green
-glutamate dehydrogenase (NAD(P)+)	1.4.1.3	H2O	H+	green
-glutamate dehydrogenase (NAD(P)+)	1.4.1.3	H2O	NADH	green
-glutamate dehydrogenase (NAD(P)+)	1.4.1.3	H2O	NADPH	green
-glutamate dehydrogenase (NAD(P)+)	1.4.1.3	L-Glutamate	2-Oxoglutarate	green
-glutamate dehydrogenase (NAD(P)+)	1.4.1.3	L-Glutamate	Ammonia	green
-glutamate dehydrogenase (NAD(P)+)	1.4.1.3	L-Glutamate	H+	green
-glutamate dehydrogenase (NAD(P)+)	1.4.1.3	L-Glutamate	NADH	green
-glutamate dehydrogenase (NAD(P)+)	1.4.1.3	L-Glutamate	NADPH	green
-glutamate dehydrogenase (NAD(P)+)	1.4.1.3	NAD+	2-Oxoglutarate	green
-glutamate dehydrogenase (NAD(P)+)	1.4.1.3	NAD+	Ammonia	green
-glutamate dehydrogenase (NAD(P)+)	1.4.1.3	NAD+	H+	green
-glutamate dehydrogenase (NAD(P)+)	1.4.1.3	NAD+	NADH	green
-glutamate dehydrogenase (NAD(P)+)	1.4.1.3	NADH	H2O	green
-glutamate dehydrogenase (NAD(P)+)	1.4.1.3	NADH	L-Glutamate	green
-glutamate dehydrogenase (NAD(P)+)	1.4.1.3	NADH	NAD+	green
-glutamate dehydrogenase (NAD(P)+)	1.4.1.3	NADP+	2-Oxoglutarate	green
-glutamate dehydrogenase (NAD(P)+)	1.4.1.3	NADP+	Ammonia	green
-glutamate dehydrogenase (NAD(P)+)	1.4.1.3	NADP+	H+	green
-glutamate dehydrogenase (NAD(P)+)	1.4.1.3	NADP+	NADPH	green
-glutamate dehydrogenase (NAD(P)+)	1.4.1.3	NADPH	H2O	green
-glutamate dehydrogenase (NAD(P)+)	1.4.1.3	NADPH	L-Glutamate	green
-glutamate dehydrogenase (NAD(P)+)	1.4.1.3	NADPH	NADP+	green
-glutamate dehydrogenase (NADP+)	1.4.1.4	2-Oxoglutarate	H2O	green
-glutamate dehydrogenase (NADP+)	1.4.1.4	2-Oxoglutarate	L-Glutamate	green
-glutamate dehydrogenase (NADP+)	1.4.1.4	2-Oxoglutarate	NADP+	green
-glutamate dehydrogenase (NADP+)	1.4.1.4	Ammonia	H2O	green
-glutamate dehydrogenase (NADP+)	1.4.1.4	Ammonia	L-Glutamate	green
-glutamate dehydrogenase (NADP+)	1.4.1.4	Ammonia	NADP+	green
-glutamate dehydrogenase (NADP+)	1.4.1.4	H+	H2O	green
-glutamate dehydrogenase (NADP+)	1.4.1.4	H+	L-Glutamate	green
-glutamate dehydrogenase (NADP+)	1.4.1.4	H+	NADP+	green
-glutamate dehydrogenase (NADP+)	1.4.1.4	H2O	2-Oxoglutarate	green
-glutamate dehydrogenase (NADP+)	1.4.1.4	H2O	Ammonia	green
-glutamate dehydrogenase (NADP+)	1.4.1.4	H2O	H+	green
-glutamate dehydrogenase (NADP+)	1.4.1.4	H2O	NADPH	green
-glutamate dehydrogenase (NADP+)	1.4.1.4	L-Glutamate	2-Oxoglutarate	green
-glutamate dehydrogenase (NADP+)	1.4.1.4	L-Glutamate	Ammonia	green
-glutamate dehydrogenase (NADP+)	1.4.1.4	L-Glutamate	H+	green
-glutamate dehydrogenase (NADP+)	1.4.1.4	L-Glutamate	NADPH	green
-glutamate dehydrogenase (NADP+)	1.4.1.4	NADP+	2-Oxoglutarate	green
-glutamate dehydrogenase (NADP+)	1.4.1.4	NADP+	Ammonia	green
-glutamate dehydrogenase (NADP+)	1.4.1.4	NADP+	H+	green
-glutamate dehydrogenase (NADP+)	1.4.1.4	NADP+	NADPH	green
-glutamate dehydrogenase (NADP+)	1.4.1.4	NADPH	H2O	green
-glutamate dehydrogenase (NADP+)	1.4.1.4	NADPH	L-Glutamate	green
-glutamate dehydrogenase (NADP+)	1.4.1.4	NADPH	NADP+	green
-glutamate---[amino group carrier protein] ligase	6.3.2.60	ADP	ATP	white
-glutamate---[amino group carrier protein] ligase	6.3.2.60	ADP	L-Glutamate	white
-glutamate---[amino group carrier protein] ligase	6.3.2.60	ADP	alpha-Aminoadipate carrier protein LysW	white
-glutamate---[amino group carrier protein] ligase	6.3.2.60	ATP	ADP	white
-glutamate---[amino group carrier protein] ligase	6.3.2.60	ATP	LysW-L-glutamate	white
-glutamate---[amino group carrier protein] ligase	6.3.2.60	ATP	Orthophosphate	white
-glutamate---[amino group carrier protein] ligase	6.3.2.60	L-Glutamate	ADP	white
-glutamate---[amino group carrier protein] ligase	6.3.2.60	L-Glutamate	LysW-L-glutamate	white
-glutamate---[amino group carrier protein] ligase	6.3.2.60	L-Glutamate	Orthophosphate	white
-glutamate---[amino group carrier protein] ligase	6.3.2.60	LysW-L-glutamate	ATP	white
-glutamate---[amino group carrier protein] ligase	6.3.2.60	LysW-L-glutamate	L-Glutamate	white
-glutamate---[amino group carrier protein] ligase	6.3.2.60	LysW-L-glutamate	alpha-Aminoadipate carrier protein LysW	white
-glutamate---[amino group carrier protein] ligase	6.3.2.60	Orthophosphate	ATP	white
-glutamate---[amino group carrier protein] ligase	6.3.2.60	Orthophosphate	L-Glutamate	white
-glutamate---[amino group carrier protein] ligase	6.3.2.60	Orthophosphate	alpha-Aminoadipate carrier protein LysW	white
-glutamate---[amino group carrier protein] ligase	6.3.2.60	alpha-Aminoadipate carrier protein LysW	ADP	white
-glutamate---[amino group carrier protein] ligase	6.3.2.60	alpha-Aminoadipate carrier protein LysW	LysW-L-glutamate	white
-glutamate---[amino group carrier protein] ligase	6.3.2.60	alpha-Aminoadipate carrier protein LysW	Orthophosphate	white
-glutamin-(asparagin-)ase	3.5.1.38	Ammonia	H2O	white
-glutamin-(asparagin-)ase	3.5.1.38	Ammonia	L-Glutamine	white
-glutamin-(asparagin-)ase	3.5.1.38	H2O	Ammonia	white
-glutamin-(asparagin-)ase	3.5.1.38	H2O	L-Glutamate	white
-glutamin-(asparagin-)ase	3.5.1.38	L-Glutamate	H2O	white
-glutamin-(asparagin-)ase	3.5.1.38	L-Glutamate	L-Glutamine	white
-glutamin-(asparagin-)ase	3.5.1.38	L-Glutamine	Ammonia	white
-glutamin-(asparagin-)ase	3.5.1.38	L-Glutamine	L-Glutamate	white
-glutaminase	3.5.1.2	H2O	Ammonia	green
-glutaminase	3.5.1.2	H2O	L-Glutamate	green
-glutaminase	3.5.1.2	L-Glutamine	Ammonia	green
-glutaminase	3.5.1.2	L-Glutamine	L-Glutamate	green
-glutamine synthetase	6.3.1.2	ATP	ADP	green
-glutamine synthetase	6.3.1.2	ATP	L-Glutamine	green
-glutamine synthetase	6.3.1.2	ATP	Orthophosphate	green
-glutamine synthetase	6.3.1.2	Ammonia	ADP	green
-glutamine synthetase	6.3.1.2	Ammonia	L-Glutamine	green
-glutamine synthetase	6.3.1.2	Ammonia	Orthophosphate	green
-glutamine synthetase	6.3.1.2	L-Glutamate	ADP	green
-glutamine synthetase	6.3.1.2	L-Glutamate	L-Glutamine	green
-glutamine synthetase	6.3.1.2	L-Glutamate	Orthophosphate	green
-nitric-oxide synthase, bacterial	1.14.14.47	H2O	L-Arginine	green
-nitric-oxide synthase, bacterial	1.14.14.47	H2O	Oxygen	green
-nitric-oxide synthase, bacterial	1.14.14.47	H2O	Reduced flavodoxin	green
-nitric-oxide synthase, bacterial	1.14.14.47	L-Arginine	H2O	green
-nitric-oxide synthase, bacterial	1.14.14.47	L-Arginine	L-Citrulline	green
-nitric-oxide synthase, bacterial	1.14.14.47	L-Arginine	Nitric oxide	green
-nitric-oxide synthase, bacterial	1.14.14.47	L-Arginine	Oxidized flavodoxin	green
-nitric-oxide synthase, bacterial	1.14.14.47	L-Citrulline	L-Arginine	green
-nitric-oxide synthase, bacterial	1.14.14.47	L-Citrulline	Oxygen	green
-nitric-oxide synthase, bacterial	1.14.14.47	L-Citrulline	Reduced flavodoxin	green
-nitric-oxide synthase, bacterial	1.14.14.47	Nitric oxide	L-Arginine	green
-nitric-oxide synthase, bacterial	1.14.14.47	Nitric oxide	Oxygen	green
-nitric-oxide synthase, bacterial	1.14.14.47	Nitric oxide	Reduced flavodoxin	green
-nitric-oxide synthase, bacterial	1.14.14.47	Oxidized flavodoxin	L-Arginine	green
-nitric-oxide synthase, bacterial	1.14.14.47	Oxidized flavodoxin	Oxygen	green
-nitric-oxide synthase, bacterial	1.14.14.47	Oxidized flavodoxin	Reduced flavodoxin	green
-nitric-oxide synthase, bacterial	1.14.14.47	Oxygen	H2O	green
-nitric-oxide synthase, bacterial	1.14.14.47	Oxygen	L-Citrulline	green
-nitric-oxide synthase, bacterial	1.14.14.47	Oxygen	Nitric oxide	green
-nitric-oxide synthase, bacterial	1.14.14.47	Oxygen	Oxidized flavodoxin	green
-nitric-oxide synthase, bacterial	1.14.14.47	Reduced flavodoxin	H2O	green
-nitric-oxide synthase, bacterial	1.14.14.47	Reduced flavodoxin	L-Citrulline	green
-nitric-oxide synthase, bacterial	1.14.14.47	Reduced flavodoxin	Nitric oxide	green
-nitric-oxide synthase, bacterial	1.14.14.47	Reduced flavodoxin	Oxidized flavodoxin	green
-nitric-oxide synthase, brain	1.14.13.39	H+	H2O	white
-nitric-oxide synthase, brain	1.14.13.39	H+	L-Citrulline	white
-nitric-oxide synthase, brain	1.14.13.39	H+	NADP+	white
-nitric-oxide synthase, brain	1.14.13.39	H+	Nitric oxide	white
-nitric-oxide synthase, brain	1.14.13.39	H2O	H+	white
-nitric-oxide synthase, brain	1.14.13.39	H2O	N(omega)-Hydroxyarginine	white
-nitric-oxide synthase, brain	1.14.13.39	H2O	NADPH	white
-nitric-oxide synthase, brain	1.14.13.39	H2O	Oxygen	white
-nitric-oxide synthase, brain	1.14.13.39	L-Citrulline	H+	white
-nitric-oxide synthase, brain	1.14.13.39	L-Citrulline	N(omega)-Hydroxyarginine	white
-nitric-oxide synthase, brain	1.14.13.39	L-Citrulline	NADPH	white
-nitric-oxide synthase, brain	1.14.13.39	L-Citrulline	Oxygen	white
-nitric-oxide synthase, brain	1.14.13.39	N(omega)-Hydroxyarginine	H2O	white
-nitric-oxide synthase, brain	1.14.13.39	N(omega)-Hydroxyarginine	L-Citrulline	white
-nitric-oxide synthase, brain	1.14.13.39	N(omega)-Hydroxyarginine	NADP+	white
-nitric-oxide synthase, brain	1.14.13.39	N(omega)-Hydroxyarginine	Nitric oxide	white
-nitric-oxide synthase, brain	1.14.13.39	NADP+	H+	white
-nitric-oxide synthase, brain	1.14.13.39	NADP+	N(omega)-Hydroxyarginine	white
-nitric-oxide synthase, brain	1.14.13.39	NADP+	NADPH	white
-nitric-oxide synthase, brain	1.14.13.39	NADP+	Oxygen	white
-nitric-oxide synthase, brain	1.14.13.39	NADPH	H2O	white
-nitric-oxide synthase, brain	1.14.13.39	NADPH	L-Citrulline	white
-nitric-oxide synthase, brain	1.14.13.39	NADPH	NADP+	white
-nitric-oxide synthase, brain	1.14.13.39	NADPH	Nitric oxide	white
-nitric-oxide synthase, brain	1.14.13.39	Nitric oxide	H+	white
-nitric-oxide synthase, brain	1.14.13.39	Nitric oxide	N(omega)-Hydroxyarginine	white
-nitric-oxide synthase, brain	1.14.13.39	Nitric oxide	NADPH	white
-nitric-oxide synthase, brain	1.14.13.39	Nitric oxide	Oxygen	white
-nitric-oxide synthase, brain	1.14.13.39	Oxygen	H2O	white
-nitric-oxide synthase, brain	1.14.13.39	Oxygen	L-Citrulline	white
-nitric-oxide synthase, brain	1.14.13.39	Oxygen	NADP+	white
-nitric-oxide synthase, brain	1.14.13.39	Oxygen	Nitric oxide	white
-nitric-oxide synthase, endothelial	1.14.13.39	H+	H2O	white
-nitric-oxide synthase, endothelial	1.14.13.39	H+	L-Citrulline	white
-nitric-oxide synthase, endothelial	1.14.13.39	H+	NADP+	white
-nitric-oxide synthase, endothelial	1.14.13.39	H+	Nitric oxide	white
-nitric-oxide synthase, endothelial	1.14.13.39	H2O	H+	white
-nitric-oxide synthase, endothelial	1.14.13.39	H2O	N(omega)-Hydroxyarginine	white
-nitric-oxide synthase, endothelial	1.14.13.39	H2O	NADPH	white
-nitric-oxide synthase, endothelial	1.14.13.39	H2O	Oxygen	white
-nitric-oxide synthase, endothelial	1.14.13.39	L-Citrulline	H+	white
-nitric-oxide synthase, endothelial	1.14.13.39	L-Citrulline	N(omega)-Hydroxyarginine	white
-nitric-oxide synthase, endothelial	1.14.13.39	L-Citrulline	NADPH	white
-nitric-oxide synthase, endothelial	1.14.13.39	L-Citrulline	Oxygen	white
-nitric-oxide synthase, endothelial	1.14.13.39	N(omega)-Hydroxyarginine	H2O	white
-nitric-oxide synthase, endothelial	1.14.13.39	N(omega)-Hydroxyarginine	L-Citrulline	white
-nitric-oxide synthase, endothelial	1.14.13.39	N(omega)-Hydroxyarginine	NADP+	white
-nitric-oxide synthase, endothelial	1.14.13.39	N(omega)-Hydroxyarginine	Nitric oxide	white
-nitric-oxide synthase, endothelial	1.14.13.39	NADP+	H+	white
-nitric-oxide synthase, endothelial	1.14.13.39	NADP+	N(omega)-Hydroxyarginine	white
-nitric-oxide synthase, endothelial	1.14.13.39	NADP+	NADPH	white
-nitric-oxide synthase, endothelial	1.14.13.39	NADP+	Oxygen	white
-nitric-oxide synthase, endothelial	1.14.13.39	NADPH	H2O	white
-nitric-oxide synthase, endothelial	1.14.13.39	NADPH	L-Citrulline	white
-nitric-oxide synthase, endothelial	1.14.13.39	NADPH	NADP+	white
-nitric-oxide synthase, endothelial	1.14.13.39	NADPH	Nitric oxide	white
-nitric-oxide synthase, endothelial	1.14.13.39	Nitric oxide	H+	white
-nitric-oxide synthase, endothelial	1.14.13.39	Nitric oxide	N(omega)-Hydroxyarginine	white
-nitric-oxide synthase, endothelial	1.14.13.39	Nitric oxide	NADPH	white
-nitric-oxide synthase, endothelial	1.14.13.39	Nitric oxide	Oxygen	white
-nitric-oxide synthase, endothelial	1.14.13.39	Oxygen	H2O	white
-nitric-oxide synthase, endothelial	1.14.13.39	Oxygen	L-Citrulline	white
-nitric-oxide synthase, endothelial	1.14.13.39	Oxygen	NADP+	white
-nitric-oxide synthase, endothelial	1.14.13.39	Oxygen	Nitric oxide	white
-nitric-oxide synthase, inducible	1.14.13.39	H+	H2O	white
-nitric-oxide synthase, inducible	1.14.13.39	H+	L-Citrulline	white
-nitric-oxide synthase, inducible	1.14.13.39	H+	NADP+	white
-nitric-oxide synthase, inducible	1.14.13.39	H+	Nitric oxide	white
-nitric-oxide synthase, inducible	1.14.13.39	H2O	H+	white
-nitric-oxide synthase, inducible	1.14.13.39	H2O	N(omega)-Hydroxyarginine	white
-nitric-oxide synthase, inducible	1.14.13.39	H2O	NADPH	white
-nitric-oxide synthase, inducible	1.14.13.39	H2O	Oxygen	white
-nitric-oxide synthase, inducible	1.14.13.39	L-Citrulline	H+	white
-nitric-oxide synthase, inducible	1.14.13.39	L-Citrulline	N(omega)-Hydroxyarginine	white
-nitric-oxide synthase, inducible	1.14.13.39	L-Citrulline	NADPH	white
-nitric-oxide synthase, inducible	1.14.13.39	L-Citrulline	Oxygen	white
-nitric-oxide synthase, inducible	1.14.13.39	N(omega)-Hydroxyarginine	H2O	white
-nitric-oxide synthase, inducible	1.14.13.39	N(omega)-Hydroxyarginine	L-Citrulline	white
-nitric-oxide synthase, inducible	1.14.13.39	N(omega)-Hydroxyarginine	NADP+	white
-nitric-oxide synthase, inducible	1.14.13.39	N(omega)-Hydroxyarginine	Nitric oxide	white
-nitric-oxide synthase, inducible	1.14.13.39	NADP+	H+	white
-nitric-oxide synthase, inducible	1.14.13.39	NADP+	N(omega)-Hydroxyarginine	white
-nitric-oxide synthase, inducible	1.14.13.39	NADP+	NADPH	white
-nitric-oxide synthase, inducible	1.14.13.39	NADP+	Oxygen	white
-nitric-oxide synthase, inducible	1.14.13.39	NADPH	H2O	white
-nitric-oxide synthase, inducible	1.14.13.39	NADPH	L-Citrulline	white
-nitric-oxide synthase, inducible	1.14.13.39	NADPH	NADP+	white
-nitric-oxide synthase, inducible	1.14.13.39	NADPH	Nitric oxide	white
-nitric-oxide synthase, inducible	1.14.13.39	Nitric oxide	H+	white
-nitric-oxide synthase, inducible	1.14.13.39	Nitric oxide	N(omega)-Hydroxyarginine	white
-nitric-oxide synthase, inducible	1.14.13.39	Nitric oxide	NADPH	white
-nitric-oxide synthase, inducible	1.14.13.39	Nitric oxide	Oxygen	white
-nitric-oxide synthase, inducible	1.14.13.39	Oxygen	H2O	white
-nitric-oxide synthase, inducible	1.14.13.39	Oxygen	L-Citrulline	white
-nitric-oxide synthase, inducible	1.14.13.39	Oxygen	NADP+	white
-nitric-oxide synthase, inducible	1.14.13.39	Oxygen	Nitric oxide	white
-nitric-oxide synthase, plant	1.14.13.39	H+	H2O	white
-nitric-oxide synthase, plant	1.14.13.39	H+	L-Citrulline	white
-nitric-oxide synthase, plant	1.14.13.39	H+	NADP+	white
-nitric-oxide synthase, plant	1.14.13.39	H+	Nitric oxide	white
-nitric-oxide synthase, plant	1.14.13.39	H2O	H+	white
-nitric-oxide synthase, plant	1.14.13.39	H2O	N(omega)-Hydroxyarginine	white
-nitric-oxide synthase, plant	1.14.13.39	H2O	NADPH	white
-nitric-oxide synthase, plant	1.14.13.39	H2O	Oxygen	white
-nitric-oxide synthase, plant	1.14.13.39	L-Citrulline	H+	white
-nitric-oxide synthase, plant	1.14.13.39	L-Citrulline	N(omega)-Hydroxyarginine	white
-nitric-oxide synthase, plant	1.14.13.39	L-Citrulline	NADPH	white
-nitric-oxide synthase, plant	1.14.13.39	L-Citrulline	Oxygen	white
-nitric-oxide synthase, plant	1.14.13.39	N(omega)-Hydroxyarginine	H2O	white
-nitric-oxide synthase, plant	1.14.13.39	N(omega)-Hydroxyarginine	L-Citrulline	white
-nitric-oxide synthase, plant	1.14.13.39	N(omega)-Hydroxyarginine	NADP+	white
-nitric-oxide synthase, plant	1.14.13.39	N(omega)-Hydroxyarginine	Nitric oxide	white
-nitric-oxide synthase, plant	1.14.13.39	NADP+	H+	white
-nitric-oxide synthase, plant	1.14.13.39	NADP+	N(omega)-Hydroxyarginine	white
-nitric-oxide synthase, plant	1.14.13.39	NADP+	NADPH	white
-nitric-oxide synthase, plant	1.14.13.39	NADP+	Oxygen	white
-nitric-oxide synthase, plant	1.14.13.39	NADPH	H2O	white
-nitric-oxide synthase, plant	1.14.13.39	NADPH	L-Citrulline	white
-nitric-oxide synthase, plant	1.14.13.39	NADPH	NADP+	white
-nitric-oxide synthase, plant	1.14.13.39	NADPH	Nitric oxide	white
-nitric-oxide synthase, plant	1.14.13.39	Nitric oxide	H+	white
-nitric-oxide synthase, plant	1.14.13.39	Nitric oxide	N(omega)-Hydroxyarginine	white
-nitric-oxide synthase, plant	1.14.13.39	Nitric oxide	NADPH	white
-nitric-oxide synthase, plant	1.14.13.39	Nitric oxide	Oxygen	white
-nitric-oxide synthase, plant	1.14.13.39	Oxygen	H2O	white
-nitric-oxide synthase, plant	1.14.13.39	Oxygen	L-Citrulline	white
-nitric-oxide synthase, plant	1.14.13.39	Oxygen	NADP+	white
-nitric-oxide synthase, plant	1.14.13.39	Oxygen	Nitric oxide	white
-ornithine carbamoyltransferase	2.1.3.3	Carbamoyl phosphate	L-Citrulline	green
-ornithine carbamoyltransferase	2.1.3.3	Carbamoyl phosphate	Orthophosphate	green
-ornithine carbamoyltransferase	2.1.3.3	L-Ornithine	L-Citrulline	green
-ornithine carbamoyltransferase	2.1.3.3	L-Ornithine	Orthophosphate	green
-phosphoribosylformylglycinamidine synthase subunit PurQ / glutaminase	6.3.5.3	H2O	Ammonia	green
-phosphoribosylformylglycinamidine synthase subunit PurQ / glutaminase	6.3.5.3	H2O	L-Glutamate	green
-phosphoribosylformylglycinamidine synthase subunit PurQ / glutaminase	6.3.5.3	L-Glutamine	Ammonia	green
-phosphoribosylformylglycinamidine synthase subunit PurQ / glutaminase	6.3.5.3	L-Glutamine	L-Glutamate	green
-urea carboxylase	6.3.4.6	ADP	ATP	green
-urea carboxylase	6.3.4.6	ADP	HCO3-	green
-urea carboxylase	6.3.4.6	ADP	Urea	green
-urea carboxylase	6.3.4.6	ATP	ADP	green
-urea carboxylase	6.3.4.6	ATP	Orthophosphate	green
-urea carboxylase	6.3.4.6	ATP	Urea-1-carboxylate	green
-urea carboxylase	6.3.4.6	HCO3-	ADP	green
-urea carboxylase	6.3.4.6	HCO3-	Orthophosphate	green
-urea carboxylase	6.3.4.6	HCO3-	Urea-1-carboxylate	green
-urea carboxylase	6.3.4.6	Orthophosphate	ATP	green
-urea carboxylase	6.3.4.6	Orthophosphate	HCO3-	green
-urea carboxylase	6.3.4.6	Orthophosphate	Urea	green
-urea carboxylase	6.3.4.6	Urea	ADP	green
-urea carboxylase	6.3.4.6	Urea	Orthophosphate	green
-urea carboxylase	6.3.4.6	Urea	Urea-1-carboxylate	green
-urea carboxylase	6.3.4.6	Urea-1-carboxylate	ATP	green
-urea carboxylase	6.3.4.6	Urea-1-carboxylate	HCO3-	green
-urea carboxylase	6.3.4.6	Urea-1-carboxylate	Urea	green
-urease subunit alpha	3.5.1.5	H2O	Ammonia	green
-urease subunit alpha	3.5.1.5	H2O	HCO3-	green
-urease subunit alpha	3.5.1.5	Urea	Ammonia	green
-urease subunit alpha	3.5.1.5	Urea	HCO3-	green
-urease subunit beta	3.5.1.5	H2O	Ammonia	green
-urease subunit beta	3.5.1.5	H2O	HCO3-	green
-urease subunit beta	3.5.1.5	Urea	Ammonia	green
-urease subunit beta	3.5.1.5	Urea	HCO3-	green
-urease subunit gamma	3.5.1.5	H2O	Ammonia	green
-urease subunit gamma	3.5.1.5	H2O	HCO3-	green
-urease subunit gamma	3.5.1.5	Urea	Ammonia	green
-urease subunit gamma	3.5.1.5	Urea	HCO3-	green
+enzyme_name	EC	source	target	reaction	color
+N-acetyl-gamma-glutamyl-phosphate reductase	1.2.1.38	N-Acetyl-L-glutamate 5-semialdehyde	H+	R03443	green
+N-acetyl-gamma-glutamyl-phosphate reductase	1.2.1.38	N-Acetyl-L-glutamate 5-semialdehyde	N-Acetyl-L-glutamate 5-phosphate	R03443	green
+N-acetyl-gamma-glutamyl-phosphate reductase	1.2.1.38	N-Acetyl-L-glutamate 5-semialdehyde	NADPH	R03443	green
+N-acetyl-gamma-glutamyl-phosphate reductase	1.2.1.38	NADP+	H+	R03443	green
+N-acetyl-gamma-glutamyl-phosphate reductase	1.2.1.38	NADP+	N-Acetyl-L-glutamate 5-phosphate	R03443	green
+N-acetyl-gamma-glutamyl-phosphate reductase	1.2.1.38	NADP+	NADPH	R03443	green
+N-acetyl-gamma-glutamyl-phosphate reductase	1.2.1.38	Orthophosphate	H+	R03443	green
+N-acetyl-gamma-glutamyl-phosphate reductase	1.2.1.38	Orthophosphate	N-Acetyl-L-glutamate 5-phosphate	R03443	green
+N-acetyl-gamma-glutamyl-phosphate reductase	1.2.1.38	Orthophosphate	NADPH	R03443	green
+N-acetylglutamate synthase	2.3.1.1	Acetyl-CoA	CoA	R00259	green
+N-acetylglutamate synthase	2.3.1.1	Acetyl-CoA	N-Acetyl-L-glutamate	R00259	green
+N-acetylglutamate synthase	2.3.1.1	L-Glutamate	CoA	R00259	green
+N-acetylglutamate synthase	2.3.1.1	L-Glutamate	N-Acetyl-L-glutamate	R00259	green
+N-acetylornithine carbamoyltransferase	2.1.3.9	Carbamoyl phosphate	N-Acetyl-L-citrulline	R07245	white
+N-acetylornithine carbamoyltransferase	2.1.3.9	Carbamoyl phosphate	Orthophosphate	R07245	white
+N-acetylornithine carbamoyltransferase	2.1.3.9	N-Acetyl-L-citrulline	Carbamoyl phosphate	R07245	white
+N-acetylornithine carbamoyltransferase	2.1.3.9	N-Acetyl-L-citrulline	N-Acetylornithine	R07245	white
+N-acetylornithine carbamoyltransferase	2.1.3.9	N-Acetylornithine	N-Acetyl-L-citrulline	R07245	white
+N-acetylornithine carbamoyltransferase	2.1.3.9	N-Acetylornithine	Orthophosphate	R07245	white
+N-acetylornithine carbamoyltransferase	2.1.3.9	Orthophosphate	Carbamoyl phosphate	R07245	white
+N-acetylornithine carbamoyltransferase	2.1.3.9	Orthophosphate	N-Acetylornithine	R07245	white
+[amino group carrier protein]-6-phospho-L-2-aminoadipate/5-phospho-L-glutamate reductase	1.2.1.103	H+	LysW-gamma-L-alpha-aminoadipate 6-semialdehyde	R09777	white
+[amino group carrier protein]-6-phospho-L-2-aminoadipate/5-phospho-L-glutamate reductase	1.2.1.103	H+	NADP+	R09777	white
+[amino group carrier protein]-6-phospho-L-2-aminoadipate/5-phospho-L-glutamate reductase	1.2.1.103	H+	Orthophosphate	R09777	white
+[amino group carrier protein]-6-phospho-L-2-aminoadipate/5-phospho-L-glutamate reductase	1.2.1.103	LysW-gamma-L-alpha-aminoadipate 6-semialdehyde	H+	R09777	white
+[amino group carrier protein]-6-phospho-L-2-aminoadipate/5-phospho-L-glutamate reductase	1.2.1.103	LysW-gamma-L-alpha-aminoadipate 6-semialdehyde	LysW-gamma-L-alpha-aminoadipyl 6-phosphate	R09777	white
+[amino group carrier protein]-6-phospho-L-2-aminoadipate/5-phospho-L-glutamate reductase	1.2.1.103	LysW-gamma-L-alpha-aminoadipate 6-semialdehyde	NADPH	R09777	white
+[amino group carrier protein]-6-phospho-L-2-aminoadipate/5-phospho-L-glutamate reductase	1.2.1.103	LysW-gamma-L-alpha-aminoadipyl 6-phosphate	LysW-gamma-L-alpha-aminoadipate 6-semialdehyde	R09777	white
+[amino group carrier protein]-6-phospho-L-2-aminoadipate/5-phospho-L-glutamate reductase	1.2.1.103	LysW-gamma-L-alpha-aminoadipyl 6-phosphate	NADP+	R09777	white
+[amino group carrier protein]-6-phospho-L-2-aminoadipate/5-phospho-L-glutamate reductase	1.2.1.103	LysW-gamma-L-alpha-aminoadipyl 6-phosphate	Orthophosphate	R09777	white
+[amino group carrier protein]-6-phospho-L-2-aminoadipate/5-phospho-L-glutamate reductase	1.2.1.103	NADP+	H+	R09777	white
+[amino group carrier protein]-6-phospho-L-2-aminoadipate/5-phospho-L-glutamate reductase	1.2.1.103	NADP+	LysW-gamma-L-alpha-aminoadipyl 6-phosphate	R09777	white
+[amino group carrier protein]-6-phospho-L-2-aminoadipate/5-phospho-L-glutamate reductase	1.2.1.103	NADP+	NADPH	R09777	white
+[amino group carrier protein]-6-phospho-L-2-aminoadipate/5-phospho-L-glutamate reductase	1.2.1.103	NADPH	LysW-gamma-L-alpha-aminoadipate 6-semialdehyde	R09777	white
+[amino group carrier protein]-6-phospho-L-2-aminoadipate/5-phospho-L-glutamate reductase	1.2.1.103	NADPH	NADP+	R09777	white
+[amino group carrier protein]-6-phospho-L-2-aminoadipate/5-phospho-L-glutamate reductase	1.2.1.103	NADPH	Orthophosphate	R09777	white
+[amino group carrier protein]-6-phospho-L-2-aminoadipate/5-phospho-L-glutamate reductase	1.2.1.103	Orthophosphate	H+	R09777	white
+[amino group carrier protein]-6-phospho-L-2-aminoadipate/5-phospho-L-glutamate reductase	1.2.1.103	Orthophosphate	LysW-gamma-L-alpha-aminoadipyl 6-phosphate	R09777	white
+[amino group carrier protein]-6-phospho-L-2-aminoadipate/5-phospho-L-glutamate reductase	1.2.1.103	Orthophosphate	NADPH	R09777	white
+[amino group carrier protein]-L-2-aminoadipate/L-glutamate 6-kinase	2.7.2.17	ADP	ATP	R09776	white
+[amino group carrier protein]-L-2-aminoadipate/L-glutamate 6-kinase	2.7.2.17	ADP	LysW-gamma-L-alpha-aminoadipate	R09776	white
+[amino group carrier protein]-L-2-aminoadipate/L-glutamate 6-kinase	2.7.2.17	ATP	ADP	R09776	white
+[amino group carrier protein]-L-2-aminoadipate/L-glutamate 6-kinase	2.7.2.17	ATP	LysW-gamma-L-alpha-aminoadipyl 6-phosphate	R09776	white
+[amino group carrier protein]-L-2-aminoadipate/L-glutamate 6-kinase	2.7.2.17	LysW-gamma-L-alpha-aminoadipate	ADP	R09776	white
+[amino group carrier protein]-L-2-aminoadipate/L-glutamate 6-kinase	2.7.2.17	LysW-gamma-L-alpha-aminoadipate	LysW-gamma-L-alpha-aminoadipyl 6-phosphate	R09776	white
+[amino group carrier protein]-L-2-aminoadipate/L-glutamate 6-kinase	2.7.2.17	LysW-gamma-L-alpha-aminoadipyl 6-phosphate	ATP	R09776	white
+[amino group carrier protein]-L-2-aminoadipate/L-glutamate 6-kinase	2.7.2.17	LysW-gamma-L-alpha-aminoadipyl 6-phosphate	LysW-gamma-L-alpha-aminoadipate	R09776	white
+[amino group carrier protein]-lysine/ornithine hydrolase	3.5.1.130	H2O	L-Lysine	R09779	white
+[amino group carrier protein]-lysine/ornithine hydrolase	3.5.1.130	H2O	alpha-Aminoadipate carrier protein LysW	R09779	white
+[amino group carrier protein]-lysine/ornithine hydrolase	3.5.1.130	L-Lysine	H2O	R09779	white
+[amino group carrier protein]-lysine/ornithine hydrolase	3.5.1.130	L-Lysine	LysW-gamma-L-lysine	R09779	white
+[amino group carrier protein]-lysine/ornithine hydrolase	3.5.1.130	LysW-gamma-L-lysine	L-Lysine	R09779	white
+[amino group carrier protein]-lysine/ornithine hydrolase	3.5.1.130	LysW-gamma-L-lysine	alpha-Aminoadipate carrier protein LysW	R09779	white
+[amino group carrier protein]-lysine/ornithine hydrolase	3.5.1.130	alpha-Aminoadipate carrier protein LysW	H2O	R09779	white
+[amino group carrier protein]-lysine/ornithine hydrolase	3.5.1.130	alpha-Aminoadipate carrier protein LysW	LysW-gamma-L-lysine	R09779	white
+[amino-group carrier protein]-gamma-(L-lysyl/L-ornithyl)-L-glutamate aminotransferase	2.6.1.118	2-Oxoglutarate	L-Glutamate	R09778	white
+[amino-group carrier protein]-gamma-(L-lysyl/L-ornithyl)-L-glutamate aminotransferase	2.6.1.118	2-Oxoglutarate	LysW-gamma-L-alpha-aminoadipate 6-semialdehyde	R09778	white
+[amino-group carrier protein]-gamma-(L-lysyl/L-ornithyl)-L-glutamate aminotransferase	2.6.1.118	L-Glutamate	2-Oxoglutarate	R09778	white
+[amino-group carrier protein]-gamma-(L-lysyl/L-ornithyl)-L-glutamate aminotransferase	2.6.1.118	L-Glutamate	LysW-gamma-L-lysine	R09778	white
+[amino-group carrier protein]-gamma-(L-lysyl/L-ornithyl)-L-glutamate aminotransferase	2.6.1.118	LysW-gamma-L-alpha-aminoadipate 6-semialdehyde	2-Oxoglutarate	R09778	white
+[amino-group carrier protein]-gamma-(L-lysyl/L-ornithyl)-L-glutamate aminotransferase	2.6.1.118	LysW-gamma-L-alpha-aminoadipate 6-semialdehyde	LysW-gamma-L-lysine	R09778	white
+[amino-group carrier protein]-gamma-(L-lysyl/L-ornithyl)-L-glutamate aminotransferase	2.6.1.118	LysW-gamma-L-lysine	L-Glutamate	R09778	white
+[amino-group carrier protein]-gamma-(L-lysyl/L-ornithyl)-L-glutamate aminotransferase	2.6.1.118	LysW-gamma-L-lysine	LysW-gamma-L-alpha-aminoadipate 6-semialdehyde	R09778	white
+acetylglutamate kinase	2.7.2.8	ATP	ADP	R02649	green
+acetylglutamate kinase	2.7.2.8	ATP	N-Acetyl-L-glutamate 5-phosphate	R02649	green
+acetylglutamate kinase	2.7.2.8	N-Acetyl-L-glutamate	ADP	R02649	green
+acetylglutamate kinase	2.7.2.8	N-Acetyl-L-glutamate	N-Acetyl-L-glutamate 5-phosphate	R02649	green
+acetylornithine deacetylase	3.5.1.16	Acetate	H2O	R00669	white
+acetylornithine deacetylase	3.5.1.16	Acetate	N-Acetylornithine	R00669	white
+acetylornithine deacetylase	3.5.1.16	H2O	Acetate	R00669	white
+acetylornithine deacetylase	3.5.1.16	H2O	L-Ornithine	R00669	white
+acetylornithine deacetylase	3.5.1.16	L-Ornithine	H2O	R00669	white
+acetylornithine deacetylase	3.5.1.16	L-Ornithine	N-Acetylornithine	R00669	white
+acetylornithine deacetylase	3.5.1.16	N-Acetylornithine	Acetate	R00669	white
+acetylornithine deacetylase	3.5.1.16	N-Acetylornithine	L-Ornithine	R00669	white
+acetylornithine/N-succinyldiaminopimelate aminotransferase	2.6.1.11	2-Oxoglutarate	L-Glutamate	R02283	green
+acetylornithine/N-succinyldiaminopimelate aminotransferase	2.6.1.11	2-Oxoglutarate	N-Acetyl-L-glutamate 5-semialdehyde	R02283	green
+acetylornithine/N-succinyldiaminopimelate aminotransferase	2.6.1.11	N-Acetylornithine	L-Glutamate	R02283	green
+acetylornithine/N-succinyldiaminopimelate aminotransferase	2.6.1.11	N-Acetylornithine	N-Acetyl-L-glutamate 5-semialdehyde	R02283	green
+alanine-synthesizing transaminase	2.6.1.66	2-Oxoglutarate	L-Glutamate	R00258	green
+alanine-synthesizing transaminase	2.6.1.66	2-Oxoglutarate	Pyruvate	R00258	green
+alanine-synthesizing transaminase	2.6.1.66	L-Alanine	L-Glutamate	R00258	green
+alanine-synthesizing transaminase	2.6.1.66	L-Alanine	Pyruvate	R00258	green
+allophanate hydrolase	3.5.1.54	H2O	Ammonia	R00005	green
+allophanate hydrolase	3.5.1.54	H2O	CO2	R00005	green
+allophanate hydrolase	3.5.1.54	Urea-1-carboxylate	Ammonia	R00005	green
+allophanate hydrolase	3.5.1.54	Urea-1-carboxylate	CO2	R00005	green
+alpha-aminoadipate-LysW ligase/glutamate-LysW ligase	6.3.2.43	ADP	ATP	R09775	white
+alpha-aminoadipate-LysW ligase/glutamate-LysW ligase	6.3.2.43	ADP	L-2-Aminoadipate	R09775	white
+alpha-aminoadipate-LysW ligase/glutamate-LysW ligase	6.3.2.43	ADP	alpha-Aminoadipate carrier protein LysW	R09775	white
+alpha-aminoadipate-LysW ligase/glutamate-LysW ligase	6.3.2.43	ATP	ADP	R09775	white
+alpha-aminoadipate-LysW ligase/glutamate-LysW ligase	6.3.2.43	ATP	LysW-gamma-L-alpha-aminoadipate	R09775	white
+alpha-aminoadipate-LysW ligase/glutamate-LysW ligase	6.3.2.43	ATP	Orthophosphate	R09775	white
+alpha-aminoadipate-LysW ligase/glutamate-LysW ligase	6.3.2.43	L-2-Aminoadipate	ADP	R09775	white
+alpha-aminoadipate-LysW ligase/glutamate-LysW ligase	6.3.2.43	L-2-Aminoadipate	LysW-gamma-L-alpha-aminoadipate	R09775	white
+alpha-aminoadipate-LysW ligase/glutamate-LysW ligase	6.3.2.43	L-2-Aminoadipate	Orthophosphate	R09775	white
+alpha-aminoadipate-LysW ligase/glutamate-LysW ligase	6.3.2.43	LysW-gamma-L-alpha-aminoadipate	ATP	R09775	white
+alpha-aminoadipate-LysW ligase/glutamate-LysW ligase	6.3.2.43	LysW-gamma-L-alpha-aminoadipate	L-2-Aminoadipate	R09775	white
+alpha-aminoadipate-LysW ligase/glutamate-LysW ligase	6.3.2.43	LysW-gamma-L-alpha-aminoadipate	alpha-Aminoadipate carrier protein LysW	R09775	white
+alpha-aminoadipate-LysW ligase/glutamate-LysW ligase	6.3.2.43	Orthophosphate	ATP	R09775	white
+alpha-aminoadipate-LysW ligase/glutamate-LysW ligase	6.3.2.43	Orthophosphate	L-2-Aminoadipate	R09775	white
+alpha-aminoadipate-LysW ligase/glutamate-LysW ligase	6.3.2.43	Orthophosphate	alpha-Aminoadipate carrier protein LysW	R09775	white
+alpha-aminoadipate-LysW ligase/glutamate-LysW ligase	6.3.2.43	alpha-Aminoadipate carrier protein LysW	ADP	R09775	white
+alpha-aminoadipate-LysW ligase/glutamate-LysW ligase	6.3.2.43	alpha-Aminoadipate carrier protein LysW	LysW-gamma-L-alpha-aminoadipate	R09775	white
+alpha-aminoadipate-LysW ligase/glutamate-LysW ligase	6.3.2.43	alpha-Aminoadipate carrier protein LysW	Orthophosphate	R09775	white
+amino-acid N-acetyltransferase	2.3.1.1	Acetyl-CoA	CoA	R00259	green
+amino-acid N-acetyltransferase	2.3.1.1	Acetyl-CoA	N-Acetyl-L-glutamate	R00259	green
+amino-acid N-acetyltransferase	2.3.1.1	L-Glutamate	CoA	R00259	green
+amino-acid N-acetyltransferase	2.3.1.1	L-Glutamate	N-Acetyl-L-glutamate	R00259	green
+aminoacylase	3.5.1.14	Acetate	H2O	R00669	white
+aminoacylase	3.5.1.14	Acetate	N-Acetylornithine	R00669	white
+aminoacylase	3.5.1.14	H2O	Acetate	R00669	white
+aminoacylase	3.5.1.14	H2O	L-Ornithine	R00669	white
+aminoacylase	3.5.1.14	L-Ornithine	H2O	R00669	white
+aminoacylase	3.5.1.14	L-Ornithine	N-Acetylornithine	R00669	white
+aminoacylase	3.5.1.14	N-Acetylornithine	Acetate	R00669	white
+aminoacylase	3.5.1.14	N-Acetylornithine	L-Ornithine	R00669	white
+arginase	3.5.3.1	H2O	L-Ornithine	R00551	green
+arginase	3.5.3.1	H2O	Urea	R00551	green
+arginase	3.5.3.1	L-Arginine	L-Ornithine	R00551	green
+arginase	3.5.3.1	L-Arginine	Urea	R00551	green
+arginine deiminase	3.5.3.6	Ammonia	H2O	R00552	green
+arginine deiminase	3.5.3.6	Ammonia	L-Arginine	R00552	green
+arginine deiminase	3.5.3.6	H2O	Ammonia	R00552	green
+arginine deiminase	3.5.3.6	H2O	L-Citrulline	R00552	green
+arginine deiminase	3.5.3.6	L-Arginine	Ammonia	R00552	green
+arginine deiminase	3.5.3.6	L-Arginine	L-Citrulline	R00552	green
+arginine deiminase	3.5.3.6	L-Citrulline	H2O	R00552	green
+arginine deiminase	3.5.3.6	L-Citrulline	L-Arginine	R00552	green
+arginine dihydrolase	3.5.3.27	H2O	Ammonia	R13308	green
+arginine dihydrolase	3.5.3.27	H2O	CO2	R13308	green
+arginine dihydrolase	3.5.3.27	H2O	L-Ornithine	R13308	green
+arginine dihydrolase	3.5.3.27	L-Arginine	Ammonia	R13308	green
+arginine dihydrolase	3.5.3.27	L-Arginine	CO2	R13308	green
+arginine dihydrolase	3.5.3.27	L-Arginine	L-Ornithine	R13308	green
+argininosuccinate lyase	4.3.2.1	N-(L-Arginino)succinate	Fumarate	R01086	green
+argininosuccinate lyase	4.3.2.1	N-(L-Arginino)succinate	L-Arginine	R01086	green
+argininosuccinate synthase	6.3.4.5	ATP	AMP	R01954	green
+argininosuccinate synthase	6.3.4.5	ATP	Diphosphate	R01954	green
+argininosuccinate synthase	6.3.4.5	ATP	N-(L-Arginino)succinate	R01954	green
+argininosuccinate synthase	6.3.4.5	L-Aspartate	AMP	R01954	green
+argininosuccinate synthase	6.3.4.5	L-Aspartate	Diphosphate	R01954	green
+argininosuccinate synthase	6.3.4.5	L-Aspartate	N-(L-Arginino)succinate	R01954	green
+argininosuccinate synthase	6.3.4.5	L-Citrulline	AMP	R01954	green
+argininosuccinate synthase	6.3.4.5	L-Citrulline	Diphosphate	R01954	green
+argininosuccinate synthase	6.3.4.5	L-Citrulline	N-(L-Arginino)succinate	R01954	green
+aspartate aminotransferase	2.6.1.1	2-Oxoglutarate	L-Glutamate	R00355	green
+aspartate aminotransferase	2.6.1.1	2-Oxoglutarate	Oxaloacetate	R00355	green
+aspartate aminotransferase	2.6.1.1	L-Aspartate	L-Glutamate	R00355	green
+aspartate aminotransferase	2.6.1.1	L-Aspartate	Oxaloacetate	R00355	green
+carbamate kinase	2.7.2.2	ADP	ATP	R00150	white
+carbamate kinase	2.7.2.2	ADP	Ammonia	R00150	white
+carbamate kinase	2.7.2.2	ADP	HCO3-	R00150	white
+carbamate kinase	2.7.2.2	ATP	ADP	R00150	white
+carbamate kinase	2.7.2.2	ATP	Carbamoyl phosphate	R00150	white
+carbamate kinase	2.7.2.2	ATP	H2O	R00150	white
+carbamate kinase	2.7.2.2	Ammonia	ADP	R00150	white
+carbamate kinase	2.7.2.2	Ammonia	Carbamoyl phosphate	R00150	white
+carbamate kinase	2.7.2.2	Ammonia	H2O	R00150	white
+carbamate kinase	2.7.2.2	Carbamoyl phosphate	ATP	R00150	white
+carbamate kinase	2.7.2.2	Carbamoyl phosphate	Ammonia	R00150	white
+carbamate kinase	2.7.2.2	Carbamoyl phosphate	HCO3-	R00150	white
+carbamate kinase	2.7.2.2	H2O	ATP	R00150	white
+carbamate kinase	2.7.2.2	H2O	Ammonia	R00150	white
+carbamate kinase	2.7.2.2	H2O	HCO3-	R00150	white
+carbamate kinase	2.7.2.2	HCO3-	ADP	R00150	white
+carbamate kinase	2.7.2.2	HCO3-	Carbamoyl phosphate	R00150	white
+carbamate kinase	2.7.2.2	HCO3-	H2O	R00150	white
+carbamoyl-phosphate synthase (ammonia)	6.3.4.16	ADP	ATP	R00149	white
+carbamoyl-phosphate synthase (ammonia)	6.3.4.16	ADP	Ammonia	R00149	white
+carbamoyl-phosphate synthase (ammonia)	6.3.4.16	ADP	CO2	R00149	white
+carbamoyl-phosphate synthase (ammonia)	6.3.4.16	ADP	H2O	R00149	white
+carbamoyl-phosphate synthase (ammonia)	6.3.4.16	ATP	ADP	R00149	white
+carbamoyl-phosphate synthase (ammonia)	6.3.4.16	ATP	Carbamoyl phosphate	R00149	white
+carbamoyl-phosphate synthase (ammonia)	6.3.4.16	ATP	Orthophosphate	R00149	white
+carbamoyl-phosphate synthase (ammonia)	6.3.4.16	Ammonia	ADP	R00149	white
+carbamoyl-phosphate synthase (ammonia)	6.3.4.16	Ammonia	Carbamoyl phosphate	R00149	white
+carbamoyl-phosphate synthase (ammonia)	6.3.4.16	Ammonia	Orthophosphate	R00149	white
+carbamoyl-phosphate synthase (ammonia)	6.3.4.16	CO2	ADP	R00149	white
+carbamoyl-phosphate synthase (ammonia)	6.3.4.16	CO2	Carbamoyl phosphate	R00149	white
+carbamoyl-phosphate synthase (ammonia)	6.3.4.16	CO2	Orthophosphate	R00149	white
+carbamoyl-phosphate synthase (ammonia)	6.3.4.16	Carbamoyl phosphate	ATP	R00149	white
+carbamoyl-phosphate synthase (ammonia)	6.3.4.16	Carbamoyl phosphate	Ammonia	R00149	white
+carbamoyl-phosphate synthase (ammonia)	6.3.4.16	Carbamoyl phosphate	CO2	R00149	white
+carbamoyl-phosphate synthase (ammonia)	6.3.4.16	Carbamoyl phosphate	H2O	R00149	white
+carbamoyl-phosphate synthase (ammonia)	6.3.4.16	H2O	ADP	R00149	white
+carbamoyl-phosphate synthase (ammonia)	6.3.4.16	H2O	Carbamoyl phosphate	R00149	white
+carbamoyl-phosphate synthase (ammonia)	6.3.4.16	H2O	Orthophosphate	R00149	white
+carbamoyl-phosphate synthase (ammonia)	6.3.4.16	Orthophosphate	ATP	R00149	white
+carbamoyl-phosphate synthase (ammonia)	6.3.4.16	Orthophosphate	Ammonia	R00149	white
+carbamoyl-phosphate synthase (ammonia)	6.3.4.16	Orthophosphate	CO2	R00149	white
+carbamoyl-phosphate synthase (ammonia)	6.3.4.16	Orthophosphate	H2O	R00149	white
+carbamoyl-phosphate synthase large subunit	6.3.5.5	ATP	ADP	R00575	green
+carbamoyl-phosphate synthase large subunit	6.3.5.5	ATP	Carbamoyl phosphate	R00575	green
+carbamoyl-phosphate synthase large subunit	6.3.5.5	ATP	L-Glutamate	R00575	green
+carbamoyl-phosphate synthase large subunit	6.3.5.5	ATP	Orthophosphate	R00575	green
+carbamoyl-phosphate synthase large subunit	6.3.5.5	H2O	ADP	R00575	green
+carbamoyl-phosphate synthase large subunit	6.3.5.5	H2O	Carbamoyl phosphate	R00575	green
+carbamoyl-phosphate synthase large subunit	6.3.5.5	H2O	L-Glutamate	R00575	green
+carbamoyl-phosphate synthase large subunit	6.3.5.5	H2O	Orthophosphate	R00575	green
+carbamoyl-phosphate synthase large subunit	6.3.5.5	HCO3-	ADP	R00575	green
+carbamoyl-phosphate synthase large subunit	6.3.5.5	HCO3-	Carbamoyl phosphate	R00575	green
+carbamoyl-phosphate synthase large subunit	6.3.5.5	HCO3-	L-Glutamate	R00575	green
+carbamoyl-phosphate synthase large subunit	6.3.5.5	HCO3-	Orthophosphate	R00575	green
+carbamoyl-phosphate synthase large subunit	6.3.5.5	L-Glutamine	ADP	R00575	green
+carbamoyl-phosphate synthase large subunit	6.3.5.5	L-Glutamine	Carbamoyl phosphate	R00575	green
+carbamoyl-phosphate synthase large subunit	6.3.5.5	L-Glutamine	L-Glutamate	R00575	green
+carbamoyl-phosphate synthase large subunit	6.3.5.5	L-Glutamine	Orthophosphate	R00575	green
+carbamoyl-phosphate synthase small subunit	6.3.5.5	ATP	ADP	R00575	green
+carbamoyl-phosphate synthase small subunit	6.3.5.5	ATP	Carbamoyl phosphate	R00575	green
+carbamoyl-phosphate synthase small subunit	6.3.5.5	ATP	L-Glutamate	R00575	green
+carbamoyl-phosphate synthase small subunit	6.3.5.5	ATP	Orthophosphate	R00575	green
+carbamoyl-phosphate synthase small subunit	6.3.5.5	H2O	ADP	R00575	green
+carbamoyl-phosphate synthase small subunit	6.3.5.5	H2O	Carbamoyl phosphate	R00575	green
+carbamoyl-phosphate synthase small subunit	6.3.5.5	H2O	L-Glutamate	R00575	green
+carbamoyl-phosphate synthase small subunit	6.3.5.5	H2O	Orthophosphate	R00575	green
+carbamoyl-phosphate synthase small subunit	6.3.5.5	HCO3-	ADP	R00575	green
+carbamoyl-phosphate synthase small subunit	6.3.5.5	HCO3-	Carbamoyl phosphate	R00575	green
+carbamoyl-phosphate synthase small subunit	6.3.5.5	HCO3-	L-Glutamate	R00575	green
+carbamoyl-phosphate synthase small subunit	6.3.5.5	HCO3-	Orthophosphate	R00575	green
+carbamoyl-phosphate synthase small subunit	6.3.5.5	L-Glutamine	ADP	R00575	green
+carbamoyl-phosphate synthase small subunit	6.3.5.5	L-Glutamine	Carbamoyl phosphate	R00575	green
+carbamoyl-phosphate synthase small subunit	6.3.5.5	L-Glutamine	L-Glutamate	R00575	green
+carbamoyl-phosphate synthase small subunit	6.3.5.5	L-Glutamine	Orthophosphate	R00575	green
+glutamate N-acetyltransferase / amino-acid N-acetyltransferase	2.3.1.35	Acetyl-CoA	CoA	R00259	green
+glutamate N-acetyltransferase / amino-acid N-acetyltransferase	2.3.1.35	Acetyl-CoA	N-Acetyl-L-glutamate	R00259	green
+glutamate N-acetyltransferase / amino-acid N-acetyltransferase	2.3.1.35	L-Glutamate	CoA	R00259	green
+glutamate N-acetyltransferase / amino-acid N-acetyltransferase	2.3.1.35	L-Glutamate	L-Ornithine	R02282	green
+glutamate N-acetyltransferase / amino-acid N-acetyltransferase	2.3.1.35	L-Glutamate	N-Acetyl-L-glutamate	R00259	green
+glutamate N-acetyltransferase / amino-acid N-acetyltransferase	2.3.1.35	L-Glutamate	N-Acetyl-L-glutamate	R02282	green
+glutamate N-acetyltransferase / amino-acid N-acetyltransferase	2.3.1.35	L-Ornithine	L-Glutamate	R02282	green
+glutamate N-acetyltransferase / amino-acid N-acetyltransferase	2.3.1.35	L-Ornithine	N-Acetylornithine	R02282	green
+glutamate N-acetyltransferase / amino-acid N-acetyltransferase	2.3.1.35	N-Acetyl-L-glutamate	L-Glutamate	R02282	green
+glutamate N-acetyltransferase / amino-acid N-acetyltransferase	2.3.1.35	N-Acetyl-L-glutamate	N-Acetylornithine	R02282	green
+glutamate N-acetyltransferase / amino-acid N-acetyltransferase	2.3.1.35	N-Acetylornithine	L-Ornithine	R02282	green
+glutamate N-acetyltransferase / amino-acid N-acetyltransferase	2.3.1.35	N-Acetylornithine	N-Acetyl-L-glutamate	R02282	green
+glutamate dehydrogenase	1.4.1.2	2-Oxoglutarate	H2O	R00243	green
+glutamate dehydrogenase	1.4.1.2	2-Oxoglutarate	L-Glutamate	R00243	green
+glutamate dehydrogenase	1.4.1.2	2-Oxoglutarate	NAD+	R00243	green
+glutamate dehydrogenase	1.4.1.2	Ammonia	H2O	R00243	green
+glutamate dehydrogenase	1.4.1.2	Ammonia	L-Glutamate	R00243	green
+glutamate dehydrogenase	1.4.1.2	Ammonia	NAD+	R00243	green
+glutamate dehydrogenase	1.4.1.2	H+	H2O	R00243	green
+glutamate dehydrogenase	1.4.1.2	H+	L-Glutamate	R00243	green
+glutamate dehydrogenase	1.4.1.2	H+	NAD+	R00243	green
+glutamate dehydrogenase	1.4.1.2	H2O	2-Oxoglutarate	R00243	green
+glutamate dehydrogenase	1.4.1.2	H2O	Ammonia	R00243	green
+glutamate dehydrogenase	1.4.1.2	H2O	H+	R00243	green
+glutamate dehydrogenase	1.4.1.2	H2O	NADH	R00243	green
+glutamate dehydrogenase	1.4.1.2	L-Glutamate	2-Oxoglutarate	R00243	green
+glutamate dehydrogenase	1.4.1.2	L-Glutamate	Ammonia	R00243	green
+glutamate dehydrogenase	1.4.1.2	L-Glutamate	H+	R00243	green
+glutamate dehydrogenase	1.4.1.2	L-Glutamate	NADH	R00243	green
+glutamate dehydrogenase	1.4.1.2	NAD+	2-Oxoglutarate	R00243	green
+glutamate dehydrogenase	1.4.1.2	NAD+	Ammonia	R00243	green
+glutamate dehydrogenase	1.4.1.2	NAD+	H+	R00243	green
+glutamate dehydrogenase	1.4.1.2	NAD+	NADH	R00243	green
+glutamate dehydrogenase	1.4.1.2	NADH	H2O	R00243	green
+glutamate dehydrogenase	1.4.1.2	NADH	L-Glutamate	R00243	green
+glutamate dehydrogenase	1.4.1.2	NADH	NAD+	R00243	green
+glutamate dehydrogenase (NAD(P)+)	1.4.1.3	2-Oxoglutarate	H2O	R00243	green
+glutamate dehydrogenase (NAD(P)+)	1.4.1.3	2-Oxoglutarate	H2O	R00248	green
+glutamate dehydrogenase (NAD(P)+)	1.4.1.3	2-Oxoglutarate	L-Glutamate	R00243	green
+glutamate dehydrogenase (NAD(P)+)	1.4.1.3	2-Oxoglutarate	L-Glutamate	R00248	green
+glutamate dehydrogenase (NAD(P)+)	1.4.1.3	2-Oxoglutarate	NAD+	R00243	green
+glutamate dehydrogenase (NAD(P)+)	1.4.1.3	2-Oxoglutarate	NADP+	R00248	green
+glutamate dehydrogenase (NAD(P)+)	1.4.1.3	Ammonia	H2O	R00243	green
+glutamate dehydrogenase (NAD(P)+)	1.4.1.3	Ammonia	H2O	R00248	green
+glutamate dehydrogenase (NAD(P)+)	1.4.1.3	Ammonia	L-Glutamate	R00243	green
+glutamate dehydrogenase (NAD(P)+)	1.4.1.3	Ammonia	L-Glutamate	R00248	green
+glutamate dehydrogenase (NAD(P)+)	1.4.1.3	Ammonia	NAD+	R00243	green
+glutamate dehydrogenase (NAD(P)+)	1.4.1.3	Ammonia	NADP+	R00248	green
+glutamate dehydrogenase (NAD(P)+)	1.4.1.3	H+	H2O	R00243	green
+glutamate dehydrogenase (NAD(P)+)	1.4.1.3	H+	H2O	R00248	green
+glutamate dehydrogenase (NAD(P)+)	1.4.1.3	H+	L-Glutamate	R00243	green
+glutamate dehydrogenase (NAD(P)+)	1.4.1.3	H+	L-Glutamate	R00248	green
+glutamate dehydrogenase (NAD(P)+)	1.4.1.3	H+	NAD+	R00243	green
+glutamate dehydrogenase (NAD(P)+)	1.4.1.3	H+	NADP+	R00248	green
+glutamate dehydrogenase (NAD(P)+)	1.4.1.3	H2O	2-Oxoglutarate	R00243	green
+glutamate dehydrogenase (NAD(P)+)	1.4.1.3	H2O	2-Oxoglutarate	R00248	green
+glutamate dehydrogenase (NAD(P)+)	1.4.1.3	H2O	Ammonia	R00243	green
+glutamate dehydrogenase (NAD(P)+)	1.4.1.3	H2O	Ammonia	R00248	green
+glutamate dehydrogenase (NAD(P)+)	1.4.1.3	H2O	H+	R00243	green
+glutamate dehydrogenase (NAD(P)+)	1.4.1.3	H2O	H+	R00248	green
+glutamate dehydrogenase (NAD(P)+)	1.4.1.3	H2O	NADH	R00243	green
+glutamate dehydrogenase (NAD(P)+)	1.4.1.3	H2O	NADPH	R00248	green
+glutamate dehydrogenase (NAD(P)+)	1.4.1.3	L-Glutamate	2-Oxoglutarate	R00243	green
+glutamate dehydrogenase (NAD(P)+)	1.4.1.3	L-Glutamate	2-Oxoglutarate	R00248	green
+glutamate dehydrogenase (NAD(P)+)	1.4.1.3	L-Glutamate	Ammonia	R00243	green
+glutamate dehydrogenase (NAD(P)+)	1.4.1.3	L-Glutamate	Ammonia	R00248	green
+glutamate dehydrogenase (NAD(P)+)	1.4.1.3	L-Glutamate	H+	R00243	green
+glutamate dehydrogenase (NAD(P)+)	1.4.1.3	L-Glutamate	H+	R00248	green
+glutamate dehydrogenase (NAD(P)+)	1.4.1.3	L-Glutamate	NADH	R00243	green
+glutamate dehydrogenase (NAD(P)+)	1.4.1.3	L-Glutamate	NADPH	R00248	green
+glutamate dehydrogenase (NAD(P)+)	1.4.1.3	NAD+	2-Oxoglutarate	R00243	green
+glutamate dehydrogenase (NAD(P)+)	1.4.1.3	NAD+	Ammonia	R00243	green
+glutamate dehydrogenase (NAD(P)+)	1.4.1.3	NAD+	H+	R00243	green
+glutamate dehydrogenase (NAD(P)+)	1.4.1.3	NAD+	NADH	R00243	green
+glutamate dehydrogenase (NAD(P)+)	1.4.1.3	NADH	H2O	R00243	green
+glutamate dehydrogenase (NAD(P)+)	1.4.1.3	NADH	L-Glutamate	R00243	green
+glutamate dehydrogenase (NAD(P)+)	1.4.1.3	NADH	NAD+	R00243	green
+glutamate dehydrogenase (NAD(P)+)	1.4.1.3	NADP+	2-Oxoglutarate	R00248	green
+glutamate dehydrogenase (NAD(P)+)	1.4.1.3	NADP+	Ammonia	R00248	green
+glutamate dehydrogenase (NAD(P)+)	1.4.1.3	NADP+	H+	R00248	green
+glutamate dehydrogenase (NAD(P)+)	1.4.1.3	NADP+	NADPH	R00248	green
+glutamate dehydrogenase (NAD(P)+)	1.4.1.3	NADPH	H2O	R00248	green
+glutamate dehydrogenase (NAD(P)+)	1.4.1.3	NADPH	L-Glutamate	R00248	green
+glutamate dehydrogenase (NAD(P)+)	1.4.1.3	NADPH	NADP+	R00248	green
+glutamate dehydrogenase (NADP+)	1.4.1.4	2-Oxoglutarate	H2O	R00248	green
+glutamate dehydrogenase (NADP+)	1.4.1.4	2-Oxoglutarate	L-Glutamate	R00248	green
+glutamate dehydrogenase (NADP+)	1.4.1.4	2-Oxoglutarate	NADP+	R00248	green
+glutamate dehydrogenase (NADP+)	1.4.1.4	Ammonia	H2O	R00248	green
+glutamate dehydrogenase (NADP+)	1.4.1.4	Ammonia	L-Glutamate	R00248	green
+glutamate dehydrogenase (NADP+)	1.4.1.4	Ammonia	NADP+	R00248	green
+glutamate dehydrogenase (NADP+)	1.4.1.4	H+	H2O	R00248	green
+glutamate dehydrogenase (NADP+)	1.4.1.4	H+	L-Glutamate	R00248	green
+glutamate dehydrogenase (NADP+)	1.4.1.4	H+	NADP+	R00248	green
+glutamate dehydrogenase (NADP+)	1.4.1.4	H2O	2-Oxoglutarate	R00248	green
+glutamate dehydrogenase (NADP+)	1.4.1.4	H2O	Ammonia	R00248	green
+glutamate dehydrogenase (NADP+)	1.4.1.4	H2O	H+	R00248	green
+glutamate dehydrogenase (NADP+)	1.4.1.4	H2O	NADPH	R00248	green
+glutamate dehydrogenase (NADP+)	1.4.1.4	L-Glutamate	2-Oxoglutarate	R00248	green
+glutamate dehydrogenase (NADP+)	1.4.1.4	L-Glutamate	Ammonia	R00248	green
+glutamate dehydrogenase (NADP+)	1.4.1.4	L-Glutamate	H+	R00248	green
+glutamate dehydrogenase (NADP+)	1.4.1.4	L-Glutamate	NADPH	R00248	green
+glutamate dehydrogenase (NADP+)	1.4.1.4	NADP+	2-Oxoglutarate	R00248	green
+glutamate dehydrogenase (NADP+)	1.4.1.4	NADP+	Ammonia	R00248	green
+glutamate dehydrogenase (NADP+)	1.4.1.4	NADP+	H+	R00248	green
+glutamate dehydrogenase (NADP+)	1.4.1.4	NADP+	NADPH	R00248	green
+glutamate dehydrogenase (NADP+)	1.4.1.4	NADPH	H2O	R00248	green
+glutamate dehydrogenase (NADP+)	1.4.1.4	NADPH	L-Glutamate	R00248	green
+glutamate dehydrogenase (NADP+)	1.4.1.4	NADPH	NADP+	R00248	green
+glutamate---[amino group carrier protein] ligase	6.3.2.60	ADP	ATP	R10929	white
+glutamate---[amino group carrier protein] ligase	6.3.2.60	ADP	L-Glutamate	R10929	white
+glutamate---[amino group carrier protein] ligase	6.3.2.60	ADP	alpha-Aminoadipate carrier protein LysW	R10929	white
+glutamate---[amino group carrier protein] ligase	6.3.2.60	ATP	ADP	R10929	white
+glutamate---[amino group carrier protein] ligase	6.3.2.60	ATP	LysW-L-glutamate	R10929	white
+glutamate---[amino group carrier protein] ligase	6.3.2.60	ATP	Orthophosphate	R10929	white
+glutamate---[amino group carrier protein] ligase	6.3.2.60	L-Glutamate	ADP	R10929	white
+glutamate---[amino group carrier protein] ligase	6.3.2.60	L-Glutamate	LysW-L-glutamate	R10929	white
+glutamate---[amino group carrier protein] ligase	6.3.2.60	L-Glutamate	Orthophosphate	R10929	white
+glutamate---[amino group carrier protein] ligase	6.3.2.60	LysW-L-glutamate	ATP	R10929	white
+glutamate---[amino group carrier protein] ligase	6.3.2.60	LysW-L-glutamate	L-Glutamate	R10929	white
+glutamate---[amino group carrier protein] ligase	6.3.2.60	LysW-L-glutamate	alpha-Aminoadipate carrier protein LysW	R10929	white
+glutamate---[amino group carrier protein] ligase	6.3.2.60	Orthophosphate	ATP	R10929	white
+glutamate---[amino group carrier protein] ligase	6.3.2.60	Orthophosphate	L-Glutamate	R10929	white
+glutamate---[amino group carrier protein] ligase	6.3.2.60	Orthophosphate	alpha-Aminoadipate carrier protein LysW	R10929	white
+glutamate---[amino group carrier protein] ligase	6.3.2.60	alpha-Aminoadipate carrier protein LysW	ADP	R10929	white
+glutamate---[amino group carrier protein] ligase	6.3.2.60	alpha-Aminoadipate carrier protein LysW	LysW-L-glutamate	R10929	white
+glutamate---[amino group carrier protein] ligase	6.3.2.60	alpha-Aminoadipate carrier protein LysW	Orthophosphate	R10929	white
+glutamin-(asparagin-)ase	3.5.1.38	Ammonia	H2O	R00256	white
+glutamin-(asparagin-)ase	3.5.1.38	Ammonia	L-Glutamine	R00256	white
+glutamin-(asparagin-)ase	3.5.1.38	H2O	Ammonia	R00256	white
+glutamin-(asparagin-)ase	3.5.1.38	H2O	L-Glutamate	R00256	white
+glutamin-(asparagin-)ase	3.5.1.38	L-Glutamate	H2O	R00256	white
+glutamin-(asparagin-)ase	3.5.1.38	L-Glutamate	L-Glutamine	R00256	white
+glutamin-(asparagin-)ase	3.5.1.38	L-Glutamine	Ammonia	R00256	white
+glutamin-(asparagin-)ase	3.5.1.38	L-Glutamine	L-Glutamate	R00256	white
+glutaminase	3.5.1.2	H2O	Ammonia	R00256	green
+glutaminase	3.5.1.2	H2O	L-Glutamate	R00256	green
+glutaminase	3.5.1.2	L-Glutamine	Ammonia	R00256	green
+glutaminase	3.5.1.2	L-Glutamine	L-Glutamate	R00256	green
+glutamine synthetase	6.3.1.2	ATP	ADP	R00253	green
+glutamine synthetase	6.3.1.2	ATP	L-Glutamine	R00253	green
+glutamine synthetase	6.3.1.2	ATP	Orthophosphate	R00253	green
+glutamine synthetase	6.3.1.2	Ammonia	ADP	R00253	green
+glutamine synthetase	6.3.1.2	Ammonia	L-Glutamine	R00253	green
+glutamine synthetase	6.3.1.2	Ammonia	Orthophosphate	R00253	green
+glutamine synthetase	6.3.1.2	L-Glutamate	ADP	R00253	green
+glutamine synthetase	6.3.1.2	L-Glutamate	L-Glutamine	R00253	green
+glutamine synthetase	6.3.1.2	L-Glutamate	Orthophosphate	R00253	green
+nitric-oxide synthase, bacterial	1.14.14.47	H2O	L-Arginine	R11711	green
+nitric-oxide synthase, bacterial	1.14.14.47	H2O	Oxygen	R11711	green
+nitric-oxide synthase, bacterial	1.14.14.47	H2O	Reduced flavodoxin	R11711	green
+nitric-oxide synthase, bacterial	1.14.14.47	L-Arginine	H2O	R11711	green
+nitric-oxide synthase, bacterial	1.14.14.47	L-Arginine	L-Citrulline	R11711	green
+nitric-oxide synthase, bacterial	1.14.14.47	L-Arginine	Nitric oxide	R11711	green
+nitric-oxide synthase, bacterial	1.14.14.47	L-Arginine	Oxidized flavodoxin	R11711	green
+nitric-oxide synthase, bacterial	1.14.14.47	L-Citrulline	L-Arginine	R11711	green
+nitric-oxide synthase, bacterial	1.14.14.47	L-Citrulline	Oxygen	R11711	green
+nitric-oxide synthase, bacterial	1.14.14.47	L-Citrulline	Reduced flavodoxin	R11711	green
+nitric-oxide synthase, bacterial	1.14.14.47	Nitric oxide	L-Arginine	R11711	green
+nitric-oxide synthase, bacterial	1.14.14.47	Nitric oxide	Oxygen	R11711	green
+nitric-oxide synthase, bacterial	1.14.14.47	Nitric oxide	Reduced flavodoxin	R11711	green
+nitric-oxide synthase, bacterial	1.14.14.47	Oxidized flavodoxin	L-Arginine	R11711	green
+nitric-oxide synthase, bacterial	1.14.14.47	Oxidized flavodoxin	Oxygen	R11711	green
+nitric-oxide synthase, bacterial	1.14.14.47	Oxidized flavodoxin	Reduced flavodoxin	R11711	green
+nitric-oxide synthase, bacterial	1.14.14.47	Oxygen	H2O	R11711	green
+nitric-oxide synthase, bacterial	1.14.14.47	Oxygen	L-Citrulline	R11711	green
+nitric-oxide synthase, bacterial	1.14.14.47	Oxygen	Nitric oxide	R11711	green
+nitric-oxide synthase, bacterial	1.14.14.47	Oxygen	Oxidized flavodoxin	R11711	green
+nitric-oxide synthase, bacterial	1.14.14.47	Reduced flavodoxin	H2O	R11711	green
+nitric-oxide synthase, bacterial	1.14.14.47	Reduced flavodoxin	L-Citrulline	R11711	green
+nitric-oxide synthase, bacterial	1.14.14.47	Reduced flavodoxin	Nitric oxide	R11711	green
+nitric-oxide synthase, bacterial	1.14.14.47	Reduced flavodoxin	Oxidized flavodoxin	R11711	green
+nitric-oxide synthase, brain	1.14.13.39	H+	H2O	R00111	white
+nitric-oxide synthase, brain	1.14.13.39	H+	L-Citrulline	R00111	white
+nitric-oxide synthase, brain	1.14.13.39	H+	NADP+	R00111	white
+nitric-oxide synthase, brain	1.14.13.39	H+	Nitric oxide	R00111	white
+nitric-oxide synthase, brain	1.14.13.39	H2O	H+	R00111	white
+nitric-oxide synthase, brain	1.14.13.39	H2O	N(omega)-Hydroxyarginine	R00111	white
+nitric-oxide synthase, brain	1.14.13.39	H2O	NADPH	R00111	white
+nitric-oxide synthase, brain	1.14.13.39	H2O	Oxygen	R00111	white
+nitric-oxide synthase, brain	1.14.13.39	L-Citrulline	H+	R00111	white
+nitric-oxide synthase, brain	1.14.13.39	L-Citrulline	N(omega)-Hydroxyarginine	R00111	white
+nitric-oxide synthase, brain	1.14.13.39	L-Citrulline	NADPH	R00111	white
+nitric-oxide synthase, brain	1.14.13.39	L-Citrulline	Oxygen	R00111	white
+nitric-oxide synthase, brain	1.14.13.39	N(omega)-Hydroxyarginine	H2O	R00111	white
+nitric-oxide synthase, brain	1.14.13.39	N(omega)-Hydroxyarginine	L-Citrulline	R00111	white
+nitric-oxide synthase, brain	1.14.13.39	N(omega)-Hydroxyarginine	NADP+	R00111	white
+nitric-oxide synthase, brain	1.14.13.39	N(omega)-Hydroxyarginine	Nitric oxide	R00111	white
+nitric-oxide synthase, brain	1.14.13.39	NADP+	H+	R00111	white
+nitric-oxide synthase, brain	1.14.13.39	NADP+	N(omega)-Hydroxyarginine	R00111	white
+nitric-oxide synthase, brain	1.14.13.39	NADP+	NADPH	R00111	white
+nitric-oxide synthase, brain	1.14.13.39	NADP+	Oxygen	R00111	white
+nitric-oxide synthase, brain	1.14.13.39	NADPH	H2O	R00111	white
+nitric-oxide synthase, brain	1.14.13.39	NADPH	L-Citrulline	R00111	white
+nitric-oxide synthase, brain	1.14.13.39	NADPH	NADP+	R00111	white
+nitric-oxide synthase, brain	1.14.13.39	NADPH	Nitric oxide	R00111	white
+nitric-oxide synthase, brain	1.14.13.39	Nitric oxide	H+	R00111	white
+nitric-oxide synthase, brain	1.14.13.39	Nitric oxide	N(omega)-Hydroxyarginine	R00111	white
+nitric-oxide synthase, brain	1.14.13.39	Nitric oxide	NADPH	R00111	white
+nitric-oxide synthase, brain	1.14.13.39	Nitric oxide	Oxygen	R00111	white
+nitric-oxide synthase, brain	1.14.13.39	Oxygen	H2O	R00111	white
+nitric-oxide synthase, brain	1.14.13.39	Oxygen	L-Citrulline	R00111	white
+nitric-oxide synthase, brain	1.14.13.39	Oxygen	NADP+	R00111	white
+nitric-oxide synthase, brain	1.14.13.39	Oxygen	Nitric oxide	R00111	white
+nitric-oxide synthase, endothelial	1.14.13.39	H+	H2O	R00111	white
+nitric-oxide synthase, endothelial	1.14.13.39	H+	L-Citrulline	R00111	white
+nitric-oxide synthase, endothelial	1.14.13.39	H+	NADP+	R00111	white
+nitric-oxide synthase, endothelial	1.14.13.39	H+	Nitric oxide	R00111	white
+nitric-oxide synthase, endothelial	1.14.13.39	H2O	H+	R00111	white
+nitric-oxide synthase, endothelial	1.14.13.39	H2O	N(omega)-Hydroxyarginine	R00111	white
+nitric-oxide synthase, endothelial	1.14.13.39	H2O	NADPH	R00111	white
+nitric-oxide synthase, endothelial	1.14.13.39	H2O	Oxygen	R00111	white
+nitric-oxide synthase, endothelial	1.14.13.39	L-Citrulline	H+	R00111	white
+nitric-oxide synthase, endothelial	1.14.13.39	L-Citrulline	N(omega)-Hydroxyarginine	R00111	white
+nitric-oxide synthase, endothelial	1.14.13.39	L-Citrulline	NADPH	R00111	white
+nitric-oxide synthase, endothelial	1.14.13.39	L-Citrulline	Oxygen	R00111	white
+nitric-oxide synthase, endothelial	1.14.13.39	N(omega)-Hydroxyarginine	H2O	R00111	white
+nitric-oxide synthase, endothelial	1.14.13.39	N(omega)-Hydroxyarginine	L-Citrulline	R00111	white
+nitric-oxide synthase, endothelial	1.14.13.39	N(omega)-Hydroxyarginine	NADP+	R00111	white
+nitric-oxide synthase, endothelial	1.14.13.39	N(omega)-Hydroxyarginine	Nitric oxide	R00111	white
+nitric-oxide synthase, endothelial	1.14.13.39	NADP+	H+	R00111	white
+nitric-oxide synthase, endothelial	1.14.13.39	NADP+	N(omega)-Hydroxyarginine	R00111	white
+nitric-oxide synthase, endothelial	1.14.13.39	NADP+	NADPH	R00111	white
+nitric-oxide synthase, endothelial	1.14.13.39	NADP+	Oxygen	R00111	white
+nitric-oxide synthase, endothelial	1.14.13.39	NADPH	H2O	R00111	white
+nitric-oxide synthase, endothelial	1.14.13.39	NADPH	L-Citrulline	R00111	white
+nitric-oxide synthase, endothelial	1.14.13.39	NADPH	NADP+	R00111	white
+nitric-oxide synthase, endothelial	1.14.13.39	NADPH	Nitric oxide	R00111	white
+nitric-oxide synthase, endothelial	1.14.13.39	Nitric oxide	H+	R00111	white
+nitric-oxide synthase, endothelial	1.14.13.39	Nitric oxide	N(omega)-Hydroxyarginine	R00111	white
+nitric-oxide synthase, endothelial	1.14.13.39	Nitric oxide	NADPH	R00111	white
+nitric-oxide synthase, endothelial	1.14.13.39	Nitric oxide	Oxygen	R00111	white
+nitric-oxide synthase, endothelial	1.14.13.39	Oxygen	H2O	R00111	white
+nitric-oxide synthase, endothelial	1.14.13.39	Oxygen	L-Citrulline	R00111	white
+nitric-oxide synthase, endothelial	1.14.13.39	Oxygen	NADP+	R00111	white
+nitric-oxide synthase, endothelial	1.14.13.39	Oxygen	Nitric oxide	R00111	white
+nitric-oxide synthase, inducible	1.14.13.39	H+	H2O	R00111	white
+nitric-oxide synthase, inducible	1.14.13.39	H+	L-Citrulline	R00111	white
+nitric-oxide synthase, inducible	1.14.13.39	H+	NADP+	R00111	white
+nitric-oxide synthase, inducible	1.14.13.39	H+	Nitric oxide	R00111	white
+nitric-oxide synthase, inducible	1.14.13.39	H2O	H+	R00111	white
+nitric-oxide synthase, inducible	1.14.13.39	H2O	N(omega)-Hydroxyarginine	R00111	white
+nitric-oxide synthase, inducible	1.14.13.39	H2O	NADPH	R00111	white
+nitric-oxide synthase, inducible	1.14.13.39	H2O	Oxygen	R00111	white
+nitric-oxide synthase, inducible	1.14.13.39	L-Citrulline	H+	R00111	white
+nitric-oxide synthase, inducible	1.14.13.39	L-Citrulline	N(omega)-Hydroxyarginine	R00111	white
+nitric-oxide synthase, inducible	1.14.13.39	L-Citrulline	NADPH	R00111	white
+nitric-oxide synthase, inducible	1.14.13.39	L-Citrulline	Oxygen	R00111	white
+nitric-oxide synthase, inducible	1.14.13.39	N(omega)-Hydroxyarginine	H2O	R00111	white
+nitric-oxide synthase, inducible	1.14.13.39	N(omega)-Hydroxyarginine	L-Citrulline	R00111	white
+nitric-oxide synthase, inducible	1.14.13.39	N(omega)-Hydroxyarginine	NADP+	R00111	white
+nitric-oxide synthase, inducible	1.14.13.39	N(omega)-Hydroxyarginine	Nitric oxide	R00111	white
+nitric-oxide synthase, inducible	1.14.13.39	NADP+	H+	R00111	white
+nitric-oxide synthase, inducible	1.14.13.39	NADP+	N(omega)-Hydroxyarginine	R00111	white
+nitric-oxide synthase, inducible	1.14.13.39	NADP+	NADPH	R00111	white
+nitric-oxide synthase, inducible	1.14.13.39	NADP+	Oxygen	R00111	white
+nitric-oxide synthase, inducible	1.14.13.39	NADPH	H2O	R00111	white
+nitric-oxide synthase, inducible	1.14.13.39	NADPH	L-Citrulline	R00111	white
+nitric-oxide synthase, inducible	1.14.13.39	NADPH	NADP+	R00111	white
+nitric-oxide synthase, inducible	1.14.13.39	NADPH	Nitric oxide	R00111	white
+nitric-oxide synthase, inducible	1.14.13.39	Nitric oxide	H+	R00111	white
+nitric-oxide synthase, inducible	1.14.13.39	Nitric oxide	N(omega)-Hydroxyarginine	R00111	white
+nitric-oxide synthase, inducible	1.14.13.39	Nitric oxide	NADPH	R00111	white
+nitric-oxide synthase, inducible	1.14.13.39	Nitric oxide	Oxygen	R00111	white
+nitric-oxide synthase, inducible	1.14.13.39	Oxygen	H2O	R00111	white
+nitric-oxide synthase, inducible	1.14.13.39	Oxygen	L-Citrulline	R00111	white
+nitric-oxide synthase, inducible	1.14.13.39	Oxygen	NADP+	R00111	white
+nitric-oxide synthase, inducible	1.14.13.39	Oxygen	Nitric oxide	R00111	white
+nitric-oxide synthase, plant	1.14.13.39	H+	H2O	R00111	white
+nitric-oxide synthase, plant	1.14.13.39	H+	L-Citrulline	R00111	white
+nitric-oxide synthase, plant	1.14.13.39	H+	NADP+	R00111	white
+nitric-oxide synthase, plant	1.14.13.39	H+	Nitric oxide	R00111	white
+nitric-oxide synthase, plant	1.14.13.39	H2O	H+	R00111	white
+nitric-oxide synthase, plant	1.14.13.39	H2O	N(omega)-Hydroxyarginine	R00111	white
+nitric-oxide synthase, plant	1.14.13.39	H2O	NADPH	R00111	white
+nitric-oxide synthase, plant	1.14.13.39	H2O	Oxygen	R00111	white
+nitric-oxide synthase, plant	1.14.13.39	L-Citrulline	H+	R00111	white
+nitric-oxide synthase, plant	1.14.13.39	L-Citrulline	N(omega)-Hydroxyarginine	R00111	white
+nitric-oxide synthase, plant	1.14.13.39	L-Citrulline	NADPH	R00111	white
+nitric-oxide synthase, plant	1.14.13.39	L-Citrulline	Oxygen	R00111	white
+nitric-oxide synthase, plant	1.14.13.39	N(omega)-Hydroxyarginine	H2O	R00111	white
+nitric-oxide synthase, plant	1.14.13.39	N(omega)-Hydroxyarginine	L-Citrulline	R00111	white
+nitric-oxide synthase, plant	1.14.13.39	N(omega)-Hydroxyarginine	NADP+	R00111	white
+nitric-oxide synthase, plant	1.14.13.39	N(omega)-Hydroxyarginine	Nitric oxide	R00111	white
+nitric-oxide synthase, plant	1.14.13.39	NADP+	H+	R00111	white
+nitric-oxide synthase, plant	1.14.13.39	NADP+	N(omega)-Hydroxyarginine	R00111	white
+nitric-oxide synthase, plant	1.14.13.39	NADP+	NADPH	R00111	white
+nitric-oxide synthase, plant	1.14.13.39	NADP+	Oxygen	R00111	white
+nitric-oxide synthase, plant	1.14.13.39	NADPH	H2O	R00111	white
+nitric-oxide synthase, plant	1.14.13.39	NADPH	L-Citrulline	R00111	white
+nitric-oxide synthase, plant	1.14.13.39	NADPH	NADP+	R00111	white
+nitric-oxide synthase, plant	1.14.13.39	NADPH	Nitric oxide	R00111	white
+nitric-oxide synthase, plant	1.14.13.39	Nitric oxide	H+	R00111	white
+nitric-oxide synthase, plant	1.14.13.39	Nitric oxide	N(omega)-Hydroxyarginine	R00111	white
+nitric-oxide synthase, plant	1.14.13.39	Nitric oxide	NADPH	R00111	white
+nitric-oxide synthase, plant	1.14.13.39	Nitric oxide	Oxygen	R00111	white
+nitric-oxide synthase, plant	1.14.13.39	Oxygen	H2O	R00111	white
+nitric-oxide synthase, plant	1.14.13.39	Oxygen	L-Citrulline	R00111	white
+nitric-oxide synthase, plant	1.14.13.39	Oxygen	NADP+	R00111	white
+nitric-oxide synthase, plant	1.14.13.39	Oxygen	Nitric oxide	R00111	white
+ornithine carbamoyltransferase	2.1.3.3	Carbamoyl phosphate	L-Citrulline	R01398	green
+ornithine carbamoyltransferase	2.1.3.3	Carbamoyl phosphate	Orthophosphate	R01398	green
+ornithine carbamoyltransferase	2.1.3.3	L-Ornithine	L-Citrulline	R01398	green
+ornithine carbamoyltransferase	2.1.3.3	L-Ornithine	Orthophosphate	R01398	green
+phosphoribosylformylglycinamidine synthase subunit PurQ / glutaminase	6.3.5.3	H2O	Ammonia	R00256	green
+phosphoribosylformylglycinamidine synthase subunit PurQ / glutaminase	6.3.5.3	H2O	L-Glutamate	R00256	green
+phosphoribosylformylglycinamidine synthase subunit PurQ / glutaminase	6.3.5.3	L-Glutamine	Ammonia	R00256	green
+phosphoribosylformylglycinamidine synthase subunit PurQ / glutaminase	6.3.5.3	L-Glutamine	L-Glutamate	R00256	green
+urea carboxylase	6.3.4.6	ADP	ATP	R00774	green
+urea carboxylase	6.3.4.6	ADP	HCO3-	R00774	green
+urea carboxylase	6.3.4.6	ADP	Urea	R00774	green
+urea carboxylase	6.3.4.6	ATP	ADP	R00774	green
+urea carboxylase	6.3.4.6	ATP	Orthophosphate	R00774	green
+urea carboxylase	6.3.4.6	ATP	Urea-1-carboxylate	R00774	green
+urea carboxylase	6.3.4.6	HCO3-	ADP	R00774	green
+urea carboxylase	6.3.4.6	HCO3-	Orthophosphate	R00774	green
+urea carboxylase	6.3.4.6	HCO3-	Urea-1-carboxylate	R00774	green
+urea carboxylase	6.3.4.6	Orthophosphate	ATP	R00774	green
+urea carboxylase	6.3.4.6	Orthophosphate	HCO3-	R00774	green
+urea carboxylase	6.3.4.6	Orthophosphate	Urea	R00774	green
+urea carboxylase	6.3.4.6	Urea	ADP	R00774	green
+urea carboxylase	6.3.4.6	Urea	Orthophosphate	R00774	green
+urea carboxylase	6.3.4.6	Urea	Urea-1-carboxylate	R00774	green
+urea carboxylase	6.3.4.6	Urea-1-carboxylate	ATP	R00774	green
+urea carboxylase	6.3.4.6	Urea-1-carboxylate	HCO3-	R00774	green
+urea carboxylase	6.3.4.6	Urea-1-carboxylate	Urea	R00774	green
+urease subunit alpha	3.5.1.5	H2O	Ammonia	R13420	green
+urease subunit alpha	3.5.1.5	H2O	HCO3-	R13420	green
+urease subunit alpha	3.5.1.5	Urea	Ammonia	R13420	green
+urease subunit alpha	3.5.1.5	Urea	HCO3-	R13420	green
+urease subunit beta	3.5.1.5	H2O	Ammonia	R13420	green
+urease subunit beta	3.5.1.5	H2O	HCO3-	R13420	green
+urease subunit beta	3.5.1.5	Urea	Ammonia	R13420	green
+urease subunit beta	3.5.1.5	Urea	HCO3-	R13420	green
+urease subunit gamma	3.5.1.5	H2O	Ammonia	R13420	green
+urease subunit gamma	3.5.1.5	H2O	HCO3-	R13420	green
+urease subunit gamma	3.5.1.5	Urea	Ammonia	R13420	green
+urease subunit gamma	3.5.1.5	Urea	HCO3-	R13420	green

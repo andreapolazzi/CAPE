@@ -4,8 +4,8 @@ name	inchi
 2,3,4,5-Tetrahydrodipicolinate	InChI=1S/C7H9NO4/c9-6(10)4-2-1-3-5(8-4)7(11)12/h4H,1-3H2,(H,9,10)(H,11,12)/t4-/m0/s1
 3-(4-Hydroxyphenyl)pyruvate	InChI=1S/C9H8O4/c10-7-3-1-6(2-4-7)5-8(11)9(12)13/h1-4,10H,5H2,(H,12,13)/p-1
 3alpha-Hydroxy-3-aminoacylmonobactamic acid	
-4-Hydroxyphenylglyoxylate	InChI=1S/C8H6O4/c9-6-3-1-5(2-4-6)7(10)8(11)12/h1-4,9H,(H,11,12)/p-1
-4-Phospho-L-aspartate	InChI=1S/C4H8NO7P/c5-2(4(7)8)1-3(6)12-13(9,10)11/h2H,1,5H2,(H,7,8)(H2,9,10,11)/p-3/t2-/m0/s1
+4-Hydroxyphenylglyoxylate	InChI=1S/C8H6O4/c9-6-3-1-5(2-4-6)7(10)8(11)12/h1-4,9H,(H,11,12)
+4-Phospho-L-aspartate	InChI=1S/C4H8NO7P/c5-2(4(7)8)1-3(6)12-13(9,10)11/h2H,1,5H2,(H,7,8)(H2,9,10,11)/t2-/m0/s1
 Adenylyl sulfate	InChI=1S/C10H14N5O10PS/c11-8-5-9(13-2-12-8)15(3-14-5)10-7(17)6(16)4(24-10)1-23-26(18,19)25-27(20,21)22/h2-4,6-7,10,16-17H,1H2,(H,18,19)(H2,11,12,13)(H,20,21,22)/t4-,6-,7-,10-/m1/s1
 C20911	InChI=1S/C10H13NO8/c1-4(12)11-6(9(16)17)3-2-5(8(14)15)7(13)10(18)19/h5-6H,2-3H2,1H3,(H,11,12)(H,14,15)(H,16,17)(H,18,19)/t5?,6-/m0/s1
 C20912	InChI=1S/C10H16N2O7/c1-4(13)12-6(9(16)17)3-2-5(8(14)15)7(11)10(18)19/h5-7H,2-3,11H2,1H3,(H,12,13)(H,14,15)(H,16,17)(H,18,19)/t5?,6-,7?/m0/s1

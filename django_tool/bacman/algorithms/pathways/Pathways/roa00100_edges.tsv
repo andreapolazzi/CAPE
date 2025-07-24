@@ -1,459 +1,471 @@
-enzyme_name	EC	source	target	color
-17beta-estradiol 17-dehydrogenase / 3beta-hydroxysteroid 3-dehydrogenase	1.1.1.62	Estradiol-17beta	Estrone	white
-17beta-estradiol 17-dehydrogenase / 3beta-hydroxysteroid 3-dehydrogenase	1.1.1.62	Estradiol-17beta	H+	white
-17beta-estradiol 17-dehydrogenase / 3beta-hydroxysteroid 3-dehydrogenase	1.1.1.62	Estradiol-17beta	NADH	white
-17beta-estradiol 17-dehydrogenase / 3beta-hydroxysteroid 3-dehydrogenase	1.1.1.62	Estrone	Estradiol-17beta	white
-17beta-estradiol 17-dehydrogenase / 3beta-hydroxysteroid 3-dehydrogenase	1.1.1.62	Estrone	NAD+	white
-17beta-estradiol 17-dehydrogenase / 3beta-hydroxysteroid 3-dehydrogenase	1.1.1.62	H+	Estradiol-17beta	white
-17beta-estradiol 17-dehydrogenase / 3beta-hydroxysteroid 3-dehydrogenase	1.1.1.62	H+	NAD+	white
-17beta-estradiol 17-dehydrogenase / 3beta-hydroxysteroid 3-dehydrogenase	1.1.1.62	NAD+	Estrone	white
-17beta-estradiol 17-dehydrogenase / 3beta-hydroxysteroid 3-dehydrogenase	1.1.1.62	NAD+	H+	white
-17beta-estradiol 17-dehydrogenase / 3beta-hydroxysteroid 3-dehydrogenase	1.1.1.62	NAD+	NADH	white
-17beta-estradiol 17-dehydrogenase / 3beta-hydroxysteroid 3-dehydrogenase	1.1.1.62	NADH	Estradiol-17beta	white
-17beta-estradiol 17-dehydrogenase / 3beta-hydroxysteroid 3-dehydrogenase	1.1.1.62	NADH	NAD+	white
-24-methylenesterol C-methyltransferase	2.1.1.143	24-Ethylidenelophenol	24-Methylenelophenol	white
-24-methylenesterol C-methyltransferase	2.1.1.143	24-Ethylidenelophenol	S-Adenosyl-L-methionine	white
-24-methylenesterol C-methyltransferase	2.1.1.143	24-Methylenelophenol	24-Ethylidenelophenol	white
-24-methylenesterol C-methyltransferase	2.1.1.143	24-Methylenelophenol	S-Adenosyl-L-homocysteine	white
-24-methylenesterol C-methyltransferase	2.1.1.143	S-Adenosyl-L-homocysteine	24-Methylenelophenol	white
-24-methylenesterol C-methyltransferase	2.1.1.143	S-Adenosyl-L-homocysteine	S-Adenosyl-L-methionine	white
-24-methylenesterol C-methyltransferase	2.1.1.143	S-Adenosyl-L-methionine	24-Ethylidenelophenol	white
-24-methylenesterol C-methyltransferase	2.1.1.143	S-Adenosyl-L-methionine	S-Adenosyl-L-homocysteine	white
-3-keto steroid reductase	1.1.1.270	3-Keto-4-methylzymosterol	4alpha-Methylzymosterol	white
-3-keto steroid reductase	1.1.1.270	3-Keto-4-methylzymosterol	NADP+	white
-3-keto steroid reductase	1.1.1.270	4alpha-Methylzymosterol	3-Keto-4-methylzymosterol	white
-3-keto steroid reductase	1.1.1.270	4alpha-Methylzymosterol	H+	white
-3-keto steroid reductase	1.1.1.270	4alpha-Methylzymosterol	NADPH	white
-3-keto steroid reductase	1.1.1.270	H+	4alpha-Methylzymosterol	white
-3-keto steroid reductase	1.1.1.270	H+	NADP+	white
-3-keto steroid reductase	1.1.1.270	NADP+	3-Keto-4-methylzymosterol	white
-3-keto steroid reductase	1.1.1.270	NADP+	H+	white
-3-keto steroid reductase	1.1.1.270	NADP+	NADPH	white
-3-keto steroid reductase	1.1.1.270	NADPH	4alpha-Methylzymosterol	white
-3-keto steroid reductase	1.1.1.270	NADPH	NADP+	white
-7-dehydrocholesterol reductase	1.3.1.21	7-Dehydrocholesterol	Cholesterol	white
-7-dehydrocholesterol reductase	1.3.1.21	7-Dehydrocholesterol	NAD+	white
-7-dehydrocholesterol reductase	1.3.1.21	Cholesterol	7-Dehydrocholesterol	white
-7-dehydrocholesterol reductase	1.3.1.21	Cholesterol	H+	white
-7-dehydrocholesterol reductase	1.3.1.21	Cholesterol	NADH	white
-7-dehydrocholesterol reductase	1.3.1.21	H+	Cholesterol	white
-7-dehydrocholesterol reductase	1.3.1.21	H+	NAD+	white
-7-dehydrocholesterol reductase	1.3.1.21	NAD+	7-Dehydrocholesterol	white
-7-dehydrocholesterol reductase	1.3.1.21	NAD+	H+	white
-7-dehydrocholesterol reductase	1.3.1.21	NAD+	NADH	white
-7-dehydrocholesterol reductase	1.3.1.21	NADH	Cholesterol	white
-7-dehydrocholesterol reductase	1.3.1.21	NADH	NAD+	white
-C-8 sterol isomerase	5.-.-.-	Episterol	Fecosterol	white
-C-8 sterol isomerase	5.-.-.-	Fecosterol	Episterol	white
-Delta14-sterol reductase	1.3.1.70	14-Demethyllanosterol	4,4-Dimethyl-5alpha-cholesta-8,14,24-trien-3beta-ol	white
-Delta14-sterol reductase	1.3.1.70	14-Demethyllanosterol	H+	white
-Delta14-sterol reductase	1.3.1.70	14-Demethyllanosterol	NADPH	white
-Delta14-sterol reductase	1.3.1.70	4,4-Dimethyl-5alpha-cholesta-8,14,24-trien-3beta-ol	14-Demethyllanosterol	white
-Delta14-sterol reductase	1.3.1.70	4,4-Dimethyl-5alpha-cholesta-8,14,24-trien-3beta-ol	NADP+	white
-Delta14-sterol reductase	1.3.1.70	H+	14-Demethyllanosterol	white
-Delta14-sterol reductase	1.3.1.70	H+	NADP+	white
-Delta14-sterol reductase	1.3.1.70	NADP+	4,4-Dimethyl-5alpha-cholesta-8,14,24-trien-3beta-ol	white
-Delta14-sterol reductase	1.3.1.70	NADP+	H+	white
-Delta14-sterol reductase	1.3.1.70	NADP+	NADPH	white
-Delta14-sterol reductase	1.3.1.70	NADPH	14-Demethyllanosterol	white
-Delta14-sterol reductase	1.3.1.70	NADPH	NADP+	white
-Delta14-sterol reductase (lamin-B receptor)	1.3.1.70	14-Demethyllanosterol	4,4-Dimethyl-5alpha-cholesta-8,14,24-trien-3beta-ol	white
-Delta14-sterol reductase (lamin-B receptor)	1.3.1.70	14-Demethyllanosterol	H+	white
-Delta14-sterol reductase (lamin-B receptor)	1.3.1.70	14-Demethyllanosterol	NADPH	white
-Delta14-sterol reductase (lamin-B receptor)	1.3.1.70	4,4-Dimethyl-5alpha-cholesta-8,14,24-trien-3beta-ol	14-Demethyllanosterol	white
-Delta14-sterol reductase (lamin-B receptor)	1.3.1.70	4,4-Dimethyl-5alpha-cholesta-8,14,24-trien-3beta-ol	NADP+	white
-Delta14-sterol reductase (lamin-B receptor)	1.3.1.70	H+	14-Demethyllanosterol	white
-Delta14-sterol reductase (lamin-B receptor)	1.3.1.70	H+	NADP+	white
-Delta14-sterol reductase (lamin-B receptor)	1.3.1.70	NADP+	4,4-Dimethyl-5alpha-cholesta-8,14,24-trien-3beta-ol	white
-Delta14-sterol reductase (lamin-B receptor)	1.3.1.70	NADP+	H+	white
-Delta14-sterol reductase (lamin-B receptor)	1.3.1.70	NADP+	NADPH	white
-Delta14-sterol reductase (lamin-B receptor)	1.3.1.70	NADPH	14-Demethyllanosterol	white
-Delta14-sterol reductase (lamin-B receptor)	1.3.1.70	NADPH	NADP+	white
-Delta24(24(1))-sterol reductase	1.3.1.71	Ergosta-5,7,22,24(28)-tetraen-3beta-ol	Ergosterol	white
-Delta24(24(1))-sterol reductase	1.3.1.71	Ergosta-5,7,22,24(28)-tetraen-3beta-ol	NADP+	white
-Delta24(24(1))-sterol reductase	1.3.1.71	Ergosterol	Ergosta-5,7,22,24(28)-tetraen-3beta-ol	white
-Delta24(24(1))-sterol reductase	1.3.1.71	Ergosterol	H+	white
-Delta24(24(1))-sterol reductase	1.3.1.71	Ergosterol	NADPH	white
-Delta24(24(1))-sterol reductase	1.3.1.71	H+	Ergosterol	white
-Delta24(24(1))-sterol reductase	1.3.1.71	H+	NADP+	white
-Delta24(24(1))-sterol reductase	1.3.1.71	NADP+	Ergosta-5,7,22,24(28)-tetraen-3beta-ol	white
-Delta24(24(1))-sterol reductase	1.3.1.71	NADP+	H+	white
-Delta24(24(1))-sterol reductase	1.3.1.71	NADP+	NADPH	white
-Delta24(24(1))-sterol reductase	1.3.1.71	NADPH	Ergosterol	white
-Delta24(24(1))-sterol reductase	1.3.1.71	NADPH	NADP+	white
-Delta24-sterol reductase	1.3.1.72	Cholesterol	Desmosterol	white
-Delta24-sterol reductase	1.3.1.72	Cholesterol	H+	white
-Delta24-sterol reductase	1.3.1.72	Cholesterol	NADPH	white
-Delta24-sterol reductase	1.3.1.72	Desmosterol	Cholesterol	white
-Delta24-sterol reductase	1.3.1.72	Desmosterol	NADP+	white
-Delta24-sterol reductase	1.3.1.72	H+	Cholesterol	white
-Delta24-sterol reductase	1.3.1.72	H+	NADP+	white
-Delta24-sterol reductase	1.3.1.72	NADP+	Desmosterol	white
-Delta24-sterol reductase	1.3.1.72	NADP+	H+	white
-Delta24-sterol reductase	1.3.1.72	NADP+	NADPH	white
-Delta24-sterol reductase	1.3.1.72	NADPH	Cholesterol	white
-Delta24-sterol reductase	1.3.1.72	NADPH	NADP+	white
-Delta7-sterol 5-desaturase	1.14.19.20	7-Dehydrocholesterol	Ferrocytochrome b5	white
-Delta7-sterol 5-desaturase	1.14.19.20	7-Dehydrocholesterol	H+	white
-Delta7-sterol 5-desaturase	1.14.19.20	7-Dehydrocholesterol	Lathosterol	white
-Delta7-sterol 5-desaturase	1.14.19.20	7-Dehydrocholesterol	Oxygen	white
-Delta7-sterol 5-desaturase	1.14.19.20	Ferricytochrome b5	Ferrocytochrome b5	white
-Delta7-sterol 5-desaturase	1.14.19.20	Ferricytochrome b5	H+	white
-Delta7-sterol 5-desaturase	1.14.19.20	Ferricytochrome b5	Lathosterol	white
-Delta7-sterol 5-desaturase	1.14.19.20	Ferricytochrome b5	Oxygen	white
-Delta7-sterol 5-desaturase	1.14.19.20	Ferrocytochrome b5	7-Dehydrocholesterol	white
-Delta7-sterol 5-desaturase	1.14.19.20	Ferrocytochrome b5	Ferricytochrome b5	white
-Delta7-sterol 5-desaturase	1.14.19.20	Ferrocytochrome b5	H2O	white
-Delta7-sterol 5-desaturase	1.14.19.20	H+	7-Dehydrocholesterol	white
-Delta7-sterol 5-desaturase	1.14.19.20	H+	Ferricytochrome b5	white
-Delta7-sterol 5-desaturase	1.14.19.20	H+	H2O	white
-Delta7-sterol 5-desaturase	1.14.19.20	H2O	Ferrocytochrome b5	white
-Delta7-sterol 5-desaturase	1.14.19.20	H2O	H+	white
-Delta7-sterol 5-desaturase	1.14.19.20	H2O	Lathosterol	white
-Delta7-sterol 5-desaturase	1.14.19.20	H2O	Oxygen	white
-Delta7-sterol 5-desaturase	1.14.19.20	Lathosterol	7-Dehydrocholesterol	white
-Delta7-sterol 5-desaturase	1.14.19.20	Lathosterol	Ferricytochrome b5	white
-Delta7-sterol 5-desaturase	1.14.19.20	Lathosterol	H2O	white
-Delta7-sterol 5-desaturase	1.14.19.20	Oxygen	7-Dehydrocholesterol	white
-Delta7-sterol 5-desaturase	1.14.19.20	Oxygen	Ferricytochrome b5	white
-Delta7-sterol 5-desaturase	1.14.19.20	Oxygen	H2O	white
-TAG lipase / steryl ester hydrolase / phospholipase A2 / LPA acyltransferase	3.1.1.3	1-Acyl-sn-glycero-3-phosphocholine	H2O	white
-TAG lipase / steryl ester hydrolase / phospholipase A2 / LPA acyltransferase	3.1.1.3	1-Acyl-sn-glycero-3-phosphocholine	Phosphatidylcholine	white
-TAG lipase / steryl ester hydrolase / phospholipase A2 / LPA acyltransferase	3.1.1.3	Fatty acid	H2O	white
-TAG lipase / steryl ester hydrolase / phospholipase A2 / LPA acyltransferase	3.1.1.3	Fatty acid	Phosphatidylcholine	white
-TAG lipase / steryl ester hydrolase / phospholipase A2 / LPA acyltransferase	3.1.1.3	H2O	1-Acyl-sn-glycero-3-phosphocholine	white
-TAG lipase / steryl ester hydrolase / phospholipase A2 / LPA acyltransferase	3.1.1.3	H2O	Fatty acid	white
-TAG lipase / steryl ester hydrolase / phospholipase A2 / LPA acyltransferase	3.1.1.3	Phosphatidylcholine	1-Acyl-sn-glycero-3-phosphocholine	white
-TAG lipase / steryl ester hydrolase / phospholipase A2 / LPA acyltransferase	3.1.1.3	Phosphatidylcholine	Fatty acid	white
-alternative squalene epoxidase	1.14.19.-	(S)-2,3-Epoxysqualene	Ferrocytochrome b5	white
-alternative squalene epoxidase	1.14.19.-	(S)-2,3-Epoxysqualene	H+	white
-alternative squalene epoxidase	1.14.19.-	(S)-2,3-Epoxysqualene	Oxygen	white
-alternative squalene epoxidase	1.14.19.-	(S)-2,3-Epoxysqualene	Squalene	white
-alternative squalene epoxidase	1.14.19.-	Ferricytochrome b5	Ferrocytochrome b5	white
-alternative squalene epoxidase	1.14.19.-	Ferricytochrome b5	H+	white
-alternative squalene epoxidase	1.14.19.-	Ferricytochrome b5	Oxygen	white
-alternative squalene epoxidase	1.14.19.-	Ferricytochrome b5	Squalene	white
-alternative squalene epoxidase	1.14.19.-	Ferrocytochrome b5	(S)-2,3-Epoxysqualene	white
-alternative squalene epoxidase	1.14.19.-	Ferrocytochrome b5	Ferricytochrome b5	white
-alternative squalene epoxidase	1.14.19.-	Ferrocytochrome b5	H2O	white
-alternative squalene epoxidase	1.14.19.-	H+	(S)-2,3-Epoxysqualene	white
-alternative squalene epoxidase	1.14.19.-	H+	Ferricytochrome b5	white
-alternative squalene epoxidase	1.14.19.-	H+	H2O	white
-alternative squalene epoxidase	1.14.19.-	H2O	Ferrocytochrome b5	white
-alternative squalene epoxidase	1.14.19.-	H2O	H+	white
-alternative squalene epoxidase	1.14.19.-	H2O	Oxygen	white
-alternative squalene epoxidase	1.14.19.-	H2O	Squalene	white
-alternative squalene epoxidase	1.14.19.-	Oxygen	(S)-2,3-Epoxysqualene	white
-alternative squalene epoxidase	1.14.19.-	Oxygen	Ferricytochrome b5	white
-alternative squalene epoxidase	1.14.19.-	Oxygen	H2O	white
-alternative squalene epoxidase	1.14.19.-	Squalene	(S)-2,3-Epoxysqualene	white
-alternative squalene epoxidase	1.14.19.-	Squalene	Ferricytochrome b5	white
-alternative squalene epoxidase	1.14.19.-	Squalene	H2O	white
-bile salt-stimulated lipase	3.1.1.3	Cholesterol	Cholesterol ester	white
-bile salt-stimulated lipase	3.1.1.3	Cholesterol	H2O	white
-bile salt-stimulated lipase	3.1.1.3	Cholesterol ester	Cholesterol	white
-bile salt-stimulated lipase	3.1.1.3	Cholesterol ester	Fatty acid	white
-bile salt-stimulated lipase	3.1.1.3	Fatty acid	Cholesterol ester	white
-bile salt-stimulated lipase	3.1.1.3	Fatty acid	H2O	white
-bile salt-stimulated lipase	3.1.1.3	H2O	Cholesterol	white
-bile salt-stimulated lipase	3.1.1.3	H2O	Fatty acid	white
-calcidiol 1-monooxygenase (25-hydroxyvitamin D3 1alpha-hydroxylase)	1.14.15.18	Calcidiol	Calcitriol	white
-calcidiol 1-monooxygenase (25-hydroxyvitamin D3 1alpha-hydroxylase)	1.14.15.18	Calcidiol	H2O	white
-calcidiol 1-monooxygenase (25-hydroxyvitamin D3 1alpha-hydroxylase)	1.14.15.18	Calcidiol	Oxidized adrenal ferredoxin	white
-calcidiol 1-monooxygenase (25-hydroxyvitamin D3 1alpha-hydroxylase)	1.14.15.18	Calcitriol	Calcidiol	white
-calcidiol 1-monooxygenase (25-hydroxyvitamin D3 1alpha-hydroxylase)	1.14.15.18	Calcitriol	H+	white
-calcidiol 1-monooxygenase (25-hydroxyvitamin D3 1alpha-hydroxylase)	1.14.15.18	Calcitriol	Oxygen	white
-calcidiol 1-monooxygenase (25-hydroxyvitamin D3 1alpha-hydroxylase)	1.14.15.18	Calcitriol	Reduced adrenal ferredoxin	white
-calcidiol 1-monooxygenase (25-hydroxyvitamin D3 1alpha-hydroxylase)	1.14.15.18	H+	Calcitriol	white
-calcidiol 1-monooxygenase (25-hydroxyvitamin D3 1alpha-hydroxylase)	1.14.15.18	H+	H2O	white
-calcidiol 1-monooxygenase (25-hydroxyvitamin D3 1alpha-hydroxylase)	1.14.15.18	H+	Oxidized adrenal ferredoxin	white
-calcidiol 1-monooxygenase (25-hydroxyvitamin D3 1alpha-hydroxylase)	1.14.15.18	H2O	Calcidiol	white
-calcidiol 1-monooxygenase (25-hydroxyvitamin D3 1alpha-hydroxylase)	1.14.15.18	H2O	H+	white
-calcidiol 1-monooxygenase (25-hydroxyvitamin D3 1alpha-hydroxylase)	1.14.15.18	H2O	Oxygen	white
-calcidiol 1-monooxygenase (25-hydroxyvitamin D3 1alpha-hydroxylase)	1.14.15.18	H2O	Reduced adrenal ferredoxin	white
-calcidiol 1-monooxygenase (25-hydroxyvitamin D3 1alpha-hydroxylase)	1.14.15.18	Oxidized adrenal ferredoxin	Calcidiol	white
-calcidiol 1-monooxygenase (25-hydroxyvitamin D3 1alpha-hydroxylase)	1.14.15.18	Oxidized adrenal ferredoxin	H+	white
-calcidiol 1-monooxygenase (25-hydroxyvitamin D3 1alpha-hydroxylase)	1.14.15.18	Oxidized adrenal ferredoxin	Oxygen	white
-calcidiol 1-monooxygenase (25-hydroxyvitamin D3 1alpha-hydroxylase)	1.14.15.18	Oxidized adrenal ferredoxin	Reduced adrenal ferredoxin	white
-calcidiol 1-monooxygenase (25-hydroxyvitamin D3 1alpha-hydroxylase)	1.14.15.18	Oxygen	Calcitriol	white
-calcidiol 1-monooxygenase (25-hydroxyvitamin D3 1alpha-hydroxylase)	1.14.15.18	Oxygen	H2O	white
-calcidiol 1-monooxygenase (25-hydroxyvitamin D3 1alpha-hydroxylase)	1.14.15.18	Oxygen	Oxidized adrenal ferredoxin	white
-calcidiol 1-monooxygenase (25-hydroxyvitamin D3 1alpha-hydroxylase)	1.14.15.18	Reduced adrenal ferredoxin	Calcitriol	white
-calcidiol 1-monooxygenase (25-hydroxyvitamin D3 1alpha-hydroxylase)	1.14.15.18	Reduced adrenal ferredoxin	H2O	white
-calcidiol 1-monooxygenase (25-hydroxyvitamin D3 1alpha-hydroxylase)	1.14.15.18	Reduced adrenal ferredoxin	Oxidized adrenal ferredoxin	white
-cholestenol Delta-isomerase	5.3.3.5	5alpha-Cholest-8-en-3beta-ol	Lathosterol	white
-cholestenol Delta-isomerase	5.3.3.5	Lathosterol	5alpha-Cholest-8-en-3beta-ol	white
-cycloartenol synthase	5.4.99.8	(S)-2,3-Epoxysqualene	Cycloartenol	white
-cycloartenol synthase	5.4.99.8	Cycloartenol	(S)-2,3-Epoxysqualene	white
-cycloeucalenol cycloisomerase	5.5.1.9	Cycloeucalenol	Obtusifoliol	white
-cycloeucalenol cycloisomerase	5.5.1.9	Obtusifoliol	Cycloeucalenol	white
-farnesyl-diphosphate farnesyltransferase	2.5.1.21	Diphosphate	trans,trans-Farnesyl diphosphate	white
-farnesyl-diphosphate farnesyltransferase	2.5.1.21	Presqualene diphosphate	trans,trans-Farnesyl diphosphate	white
-farnesyl-diphosphate farnesyltransferase	2.5.1.21	trans,trans-Farnesyl diphosphate	Diphosphate	white
-farnesyl-diphosphate farnesyltransferase	2.5.1.21	trans,trans-Farnesyl diphosphate	Presqualene diphosphate	white
-lanosterol synthase	5.4.99.7	(S)-2,3-Epoxysqualene	Lanosterol	white
-lanosterol synthase	5.4.99.7	Lanosterol	(S)-2,3-Epoxysqualene	white
-lysosomal acid lipase/cholesteryl ester hydrolase	3.1.1.13	Cholesterol	Cholesterol ester	white
-lysosomal acid lipase/cholesteryl ester hydrolase	3.1.1.13	Cholesterol	H2O	white
-lysosomal acid lipase/cholesteryl ester hydrolase	3.1.1.13	Cholesterol ester	Cholesterol	white
-lysosomal acid lipase/cholesteryl ester hydrolase	3.1.1.13	Cholesterol ester	Fatty acid	white
-lysosomal acid lipase/cholesteryl ester hydrolase	3.1.1.13	Fatty acid	Cholesterol ester	white
-lysosomal acid lipase/cholesteryl ester hydrolase	3.1.1.13	Fatty acid	H2O	white
-lysosomal acid lipase/cholesteryl ester hydrolase	3.1.1.13	H2O	Cholesterol	white
-lysosomal acid lipase/cholesteryl ester hydrolase	3.1.1.13	H2O	Fatty acid	white
-methylsterol monooxygenase	1.14.18.9	14-Demethyllanosterol	4alpha-Methylzymosterol-4-carboxylate	white
-methylsterol monooxygenase	1.14.18.9	14-Demethyllanosterol	Ferricytochrome b5	white
-methylsterol monooxygenase	1.14.18.9	14-Demethyllanosterol	H2O	white
-methylsterol monooxygenase	1.14.18.9	4alpha-Methylzymosterol-4-carboxylate	14-Demethyllanosterol	white
-methylsterol monooxygenase	1.14.18.9	4alpha-Methylzymosterol-4-carboxylate	Ferrocytochrome b5	white
-methylsterol monooxygenase	1.14.18.9	4alpha-Methylzymosterol-4-carboxylate	H+	white
-methylsterol monooxygenase	1.14.18.9	4alpha-Methylzymosterol-4-carboxylate	Oxygen	white
-methylsterol monooxygenase	1.14.18.9	Ferricytochrome b5	14-Demethyllanosterol	white
-methylsterol monooxygenase	1.14.18.9	Ferricytochrome b5	Ferrocytochrome b5	white
-methylsterol monooxygenase	1.14.18.9	Ferricytochrome b5	H+	white
-methylsterol monooxygenase	1.14.18.9	Ferricytochrome b5	Oxygen	white
-methylsterol monooxygenase	1.14.18.9	Ferrocytochrome b5	4alpha-Methylzymosterol-4-carboxylate	white
-methylsterol monooxygenase	1.14.18.9	Ferrocytochrome b5	Ferricytochrome b5	white
-methylsterol monooxygenase	1.14.18.9	Ferrocytochrome b5	H2O	white
-methylsterol monooxygenase	1.14.18.9	H+	4alpha-Methylzymosterol-4-carboxylate	white
-methylsterol monooxygenase	1.14.18.9	H+	Ferricytochrome b5	white
-methylsterol monooxygenase	1.14.18.9	H+	H2O	white
-methylsterol monooxygenase	1.14.18.9	H2O	14-Demethyllanosterol	white
-methylsterol monooxygenase	1.14.18.9	H2O	Ferrocytochrome b5	white
-methylsterol monooxygenase	1.14.18.9	H2O	H+	white
-methylsterol monooxygenase	1.14.18.9	H2O	Oxygen	white
-methylsterol monooxygenase	1.14.18.9	Oxygen	4alpha-Methylzymosterol-4-carboxylate	white
-methylsterol monooxygenase	1.14.18.9	Oxygen	Ferricytochrome b5	white
-methylsterol monooxygenase	1.14.18.9	Oxygen	H2O	white
-plant 3beta-hydroxysteroid-4alpha-carboxylate 3-dehydrogenase	1.1.1.418	3beta-Hydroxy-4beta,14alpha-dimethyl-9beta,19-cyclo-5alpha-ergost-24(24(1))-en-4alpha-carboxylate	CO2	white
-plant 3beta-hydroxysteroid-4alpha-carboxylate 3-dehydrogenase	1.1.1.418	3beta-Hydroxy-4beta,14alpha-dimethyl-9beta,19-cyclo-5alpha-ergost-24(24(1))-en-4alpha-carboxylate	Cycloeucalenone	white
-plant 3beta-hydroxysteroid-4alpha-carboxylate 3-dehydrogenase	1.1.1.418	3beta-Hydroxy-4beta,14alpha-dimethyl-9beta,19-cyclo-5alpha-ergost-24(24(1))-en-4alpha-carboxylate	H+	white
-plant 3beta-hydroxysteroid-4alpha-carboxylate 3-dehydrogenase	1.1.1.418	3beta-Hydroxy-4beta,14alpha-dimethyl-9beta,19-cyclo-5alpha-ergost-24(24(1))-en-4alpha-carboxylate	NADH	white
-plant 3beta-hydroxysteroid-4alpha-carboxylate 3-dehydrogenase	1.1.1.418	CO2	3beta-Hydroxy-4beta,14alpha-dimethyl-9beta,19-cyclo-5alpha-ergost-24(24(1))-en-4alpha-carboxylate	white
-plant 3beta-hydroxysteroid-4alpha-carboxylate 3-dehydrogenase	1.1.1.418	CO2	NAD+	white
-plant 3beta-hydroxysteroid-4alpha-carboxylate 3-dehydrogenase	1.1.1.418	Cycloeucalenone	3beta-Hydroxy-4beta,14alpha-dimethyl-9beta,19-cyclo-5alpha-ergost-24(24(1))-en-4alpha-carboxylate	white
-plant 3beta-hydroxysteroid-4alpha-carboxylate 3-dehydrogenase	1.1.1.418	Cycloeucalenone	NAD+	white
-plant 3beta-hydroxysteroid-4alpha-carboxylate 3-dehydrogenase	1.1.1.418	H+	3beta-Hydroxy-4beta,14alpha-dimethyl-9beta,19-cyclo-5alpha-ergost-24(24(1))-en-4alpha-carboxylate	white
-plant 3beta-hydroxysteroid-4alpha-carboxylate 3-dehydrogenase	1.1.1.418	H+	NAD+	white
-plant 3beta-hydroxysteroid-4alpha-carboxylate 3-dehydrogenase	1.1.1.418	NAD+	CO2	white
-plant 3beta-hydroxysteroid-4alpha-carboxylate 3-dehydrogenase	1.1.1.418	NAD+	Cycloeucalenone	white
-plant 3beta-hydroxysteroid-4alpha-carboxylate 3-dehydrogenase	1.1.1.418	NAD+	H+	white
-plant 3beta-hydroxysteroid-4alpha-carboxylate 3-dehydrogenase	1.1.1.418	NAD+	NADH	white
-plant 3beta-hydroxysteroid-4alpha-carboxylate 3-dehydrogenase	1.1.1.418	NADH	3beta-Hydroxy-4beta,14alpha-dimethyl-9beta,19-cyclo-5alpha-ergost-24(24(1))-en-4alpha-carboxylate	white
-plant 3beta-hydroxysteroid-4alpha-carboxylate 3-dehydrogenase	1.1.1.418	NADH	NAD+	white
-plant 4,4-dimethylsterol C-4alpha-methyl-monooxygenase	1.14.18.10	24-Methylidenecycloartanol	3beta-Hydroxy-4beta,14alpha-dimethyl-9beta,19-cyclo-5alpha-ergost-24(24(1))-en-4alpha-carboxylate	white
-plant 4,4-dimethylsterol C-4alpha-methyl-monooxygenase	1.14.18.10	24-Methylidenecycloartanol	Ferricytochrome b5	white
-plant 4,4-dimethylsterol C-4alpha-methyl-monooxygenase	1.14.18.10	24-Methylidenecycloartanol	H2O	white
-plant 4,4-dimethylsterol C-4alpha-methyl-monooxygenase	1.14.18.10	3beta-Hydroxy-4beta,14alpha-dimethyl-9beta,19-cyclo-5alpha-ergost-24(24(1))-en-4alpha-carboxylate	24-Methylidenecycloartanol	white
-plant 4,4-dimethylsterol C-4alpha-methyl-monooxygenase	1.14.18.10	3beta-Hydroxy-4beta,14alpha-dimethyl-9beta,19-cyclo-5alpha-ergost-24(24(1))-en-4alpha-carboxylate	Ferrocytochrome b5	white
-plant 4,4-dimethylsterol C-4alpha-methyl-monooxygenase	1.14.18.10	3beta-Hydroxy-4beta,14alpha-dimethyl-9beta,19-cyclo-5alpha-ergost-24(24(1))-en-4alpha-carboxylate	H+	white
-plant 4,4-dimethylsterol C-4alpha-methyl-monooxygenase	1.14.18.10	3beta-Hydroxy-4beta,14alpha-dimethyl-9beta,19-cyclo-5alpha-ergost-24(24(1))-en-4alpha-carboxylate	Oxygen	white
-plant 4,4-dimethylsterol C-4alpha-methyl-monooxygenase	1.14.18.10	Ferricytochrome b5	24-Methylidenecycloartanol	white
-plant 4,4-dimethylsterol C-4alpha-methyl-monooxygenase	1.14.18.10	Ferricytochrome b5	Ferrocytochrome b5	white
-plant 4,4-dimethylsterol C-4alpha-methyl-monooxygenase	1.14.18.10	Ferricytochrome b5	H+	white
-plant 4,4-dimethylsterol C-4alpha-methyl-monooxygenase	1.14.18.10	Ferricytochrome b5	Oxygen	white
-plant 4,4-dimethylsterol C-4alpha-methyl-monooxygenase	1.14.18.10	Ferrocytochrome b5	3beta-Hydroxy-4beta,14alpha-dimethyl-9beta,19-cyclo-5alpha-ergost-24(24(1))-en-4alpha-carboxylate	white
-plant 4,4-dimethylsterol C-4alpha-methyl-monooxygenase	1.14.18.10	Ferrocytochrome b5	Ferricytochrome b5	white
-plant 4,4-dimethylsterol C-4alpha-methyl-monooxygenase	1.14.18.10	Ferrocytochrome b5	H2O	white
-plant 4,4-dimethylsterol C-4alpha-methyl-monooxygenase	1.14.18.10	H+	3beta-Hydroxy-4beta,14alpha-dimethyl-9beta,19-cyclo-5alpha-ergost-24(24(1))-en-4alpha-carboxylate	white
-plant 4,4-dimethylsterol C-4alpha-methyl-monooxygenase	1.14.18.10	H+	Ferricytochrome b5	white
-plant 4,4-dimethylsterol C-4alpha-methyl-monooxygenase	1.14.18.10	H+	H2O	white
-plant 4,4-dimethylsterol C-4alpha-methyl-monooxygenase	1.14.18.10	H2O	24-Methylidenecycloartanol	white
-plant 4,4-dimethylsterol C-4alpha-methyl-monooxygenase	1.14.18.10	H2O	Ferrocytochrome b5	white
-plant 4,4-dimethylsterol C-4alpha-methyl-monooxygenase	1.14.18.10	H2O	H+	white
-plant 4,4-dimethylsterol C-4alpha-methyl-monooxygenase	1.14.18.10	H2O	Oxygen	white
-plant 4,4-dimethylsterol C-4alpha-methyl-monooxygenase	1.14.18.10	Oxygen	3beta-Hydroxy-4beta,14alpha-dimethyl-9beta,19-cyclo-5alpha-ergost-24(24(1))-en-4alpha-carboxylate	white
-plant 4,4-dimethylsterol C-4alpha-methyl-monooxygenase	1.14.18.10	Oxygen	Ferricytochrome b5	white
-plant 4,4-dimethylsterol C-4alpha-methyl-monooxygenase	1.14.18.10	Oxygen	H2O	white
-plant 4alpha-monomethylsterol monooxygenase	1.14.18.11	24-Methylenelophenol	3beta-Hydroxyergosta-7,24(24(1))-dien-4alpha-carboxylate	white
-plant 4alpha-monomethylsterol monooxygenase	1.14.18.11	24-Methylenelophenol	Ferricytochrome b5	white
-plant 4alpha-monomethylsterol monooxygenase	1.14.18.11	24-Methylenelophenol	H2O	white
-plant 4alpha-monomethylsterol monooxygenase	1.14.18.11	3beta-Hydroxyergosta-7,24(24(1))-dien-4alpha-carboxylate	24-Methylenelophenol	white
-plant 4alpha-monomethylsterol monooxygenase	1.14.18.11	3beta-Hydroxyergosta-7,24(24(1))-dien-4alpha-carboxylate	Ferrocytochrome b5	white
-plant 4alpha-monomethylsterol monooxygenase	1.14.18.11	3beta-Hydroxyergosta-7,24(24(1))-dien-4alpha-carboxylate	H+	white
-plant 4alpha-monomethylsterol monooxygenase	1.14.18.11	3beta-Hydroxyergosta-7,24(24(1))-dien-4alpha-carboxylate	Oxygen	white
-plant 4alpha-monomethylsterol monooxygenase	1.14.18.11	Ferricytochrome b5	24-Methylenelophenol	white
-plant 4alpha-monomethylsterol monooxygenase	1.14.18.11	Ferricytochrome b5	Ferrocytochrome b5	white
-plant 4alpha-monomethylsterol monooxygenase	1.14.18.11	Ferricytochrome b5	H+	white
-plant 4alpha-monomethylsterol monooxygenase	1.14.18.11	Ferricytochrome b5	Oxygen	white
-plant 4alpha-monomethylsterol monooxygenase	1.14.18.11	Ferrocytochrome b5	3beta-Hydroxyergosta-7,24(24(1))-dien-4alpha-carboxylate	white
-plant 4alpha-monomethylsterol monooxygenase	1.14.18.11	Ferrocytochrome b5	Ferricytochrome b5	white
-plant 4alpha-monomethylsterol monooxygenase	1.14.18.11	Ferrocytochrome b5	H2O	white
-plant 4alpha-monomethylsterol monooxygenase	1.14.18.11	H+	3beta-Hydroxyergosta-7,24(24(1))-dien-4alpha-carboxylate	white
-plant 4alpha-monomethylsterol monooxygenase	1.14.18.11	H+	Ferricytochrome b5	white
-plant 4alpha-monomethylsterol monooxygenase	1.14.18.11	H+	H2O	white
-plant 4alpha-monomethylsterol monooxygenase	1.14.18.11	H2O	24-Methylenelophenol	white
-plant 4alpha-monomethylsterol monooxygenase	1.14.18.11	H2O	Ferrocytochrome b5	white
-plant 4alpha-monomethylsterol monooxygenase	1.14.18.11	H2O	H+	white
-plant 4alpha-monomethylsterol monooxygenase	1.14.18.11	H2O	Oxygen	white
-plant 4alpha-monomethylsterol monooxygenase	1.14.18.11	Oxygen	3beta-Hydroxyergosta-7,24(24(1))-dien-4alpha-carboxylate	white
-plant 4alpha-monomethylsterol monooxygenase	1.14.18.11	Oxygen	Ferricytochrome b5	white
-plant 4alpha-monomethylsterol monooxygenase	1.14.18.11	Oxygen	H2O	white
-squalene monooxygenase	1.14.14.17	(S)-2,3-Epoxysqualene	Oxygen	white
-squalene monooxygenase	1.14.14.17	(S)-2,3-Epoxysqualene	Squalene	white
-squalene monooxygenase	1.14.14.17	(S)-2,3-Epoxysqualene	[Reduced NADPH---hemoprotein reductase]	white
-squalene monooxygenase	1.14.14.17	H2O	Oxygen	white
-squalene monooxygenase	1.14.14.17	H2O	Squalene	white
-squalene monooxygenase	1.14.14.17	H2O	[Reduced NADPH---hemoprotein reductase]	white
-squalene monooxygenase	1.14.14.17	Oxygen	(S)-2,3-Epoxysqualene	white
-squalene monooxygenase	1.14.14.17	Oxygen	H2O	white
-squalene monooxygenase	1.14.14.17	Oxygen	[Oxidized NADPH---hemoprotein reductase]	white
-squalene monooxygenase	1.14.14.17	Squalene	(S)-2,3-Epoxysqualene	white
-squalene monooxygenase	1.14.14.17	Squalene	H2O	white
-squalene monooxygenase	1.14.14.17	Squalene	[Oxidized NADPH---hemoprotein reductase]	white
-squalene monooxygenase	1.14.14.17	[Oxidized NADPH---hemoprotein reductase]	Oxygen	white
-squalene monooxygenase	1.14.14.17	[Oxidized NADPH---hemoprotein reductase]	Squalene	white
-squalene monooxygenase	1.14.14.17	[Oxidized NADPH---hemoprotein reductase]	[Reduced NADPH---hemoprotein reductase]	white
-squalene monooxygenase	1.14.14.17	[Reduced NADPH---hemoprotein reductase]	(S)-2,3-Epoxysqualene	white
-squalene monooxygenase	1.14.14.17	[Reduced NADPH---hemoprotein reductase]	H2O	white
-squalene monooxygenase	1.14.14.17	[Reduced NADPH---hemoprotein reductase]	[Oxidized NADPH---hemoprotein reductase]	white
-sterol 14alpha-demethylase	1.14.14.154	H+	4,4-Dimethyl-5alpha-cholesta-8,14,24-trien-3beta-ol	green
-sterol 14alpha-demethylase	1.14.14.154	H+	Formate	green
-sterol 14alpha-demethylase	1.14.14.154	H+	H2O	green
-sterol 14alpha-demethylase	1.14.14.154	H+	Oxidized ferredoxin	green
-sterol 14alpha-demethylase	1.14.14.154	Lanosterol	4,4-Dimethyl-5alpha-cholesta-8,14,24-trien-3beta-ol	green
-sterol 14alpha-demethylase	1.14.14.154	Lanosterol	Formate	green
-sterol 14alpha-demethylase	1.14.14.154	Lanosterol	H2O	green
-sterol 14alpha-demethylase	1.14.14.154	Lanosterol	Oxidized ferredoxin	green
-sterol 14alpha-demethylase	1.14.14.154	Lanosterol	[Oxidized NADPH---hemoprotein reductase]	green
-sterol 14alpha-demethylase	1.14.14.154	Obtusifoliol	4alpha-Methyl-5alpha-ergosta-8,14,24(28)-trien-3beta-ol	green
-sterol 14alpha-demethylase	1.14.14.154	Obtusifoliol	Formate	green
-sterol 14alpha-demethylase	1.14.14.154	Obtusifoliol	H2O	green
-sterol 14alpha-demethylase	1.14.14.154	Obtusifoliol	[Oxidized NADPH---hemoprotein reductase]	green
-sterol 14alpha-demethylase	1.14.14.154	Oxygen	4,4-Dimethyl-5alpha-cholesta-8,14,24-trien-3beta-ol	green
-sterol 14alpha-demethylase	1.14.14.154	Oxygen	4alpha-Methyl-5alpha-ergosta-8,14,24(28)-trien-3beta-ol	green
-sterol 14alpha-demethylase	1.14.14.154	Oxygen	Formate	green
-sterol 14alpha-demethylase	1.14.14.154	Oxygen	H2O	green
-sterol 14alpha-demethylase	1.14.14.154	Oxygen	Oxidized ferredoxin	green
-sterol 14alpha-demethylase	1.14.14.154	Oxygen	[Oxidized NADPH---hemoprotein reductase]	green
-sterol 14alpha-demethylase	1.14.14.154	Reduced ferredoxin	4,4-Dimethyl-5alpha-cholesta-8,14,24-trien-3beta-ol	green
-sterol 14alpha-demethylase	1.14.14.154	Reduced ferredoxin	Formate	green
-sterol 14alpha-demethylase	1.14.14.154	Reduced ferredoxin	H2O	green
-sterol 14alpha-demethylase	1.14.14.154	Reduced ferredoxin	Oxidized ferredoxin	green
-sterol 14alpha-demethylase	1.14.14.154	[Reduced NADPH---hemoprotein reductase]	4,4-Dimethyl-5alpha-cholesta-8,14,24-trien-3beta-ol	green
-sterol 14alpha-demethylase	1.14.14.154	[Reduced NADPH---hemoprotein reductase]	4alpha-Methyl-5alpha-ergosta-8,14,24(28)-trien-3beta-ol	green
-sterol 14alpha-demethylase	1.14.14.154	[Reduced NADPH---hemoprotein reductase]	Formate	green
-sterol 14alpha-demethylase	1.14.14.154	[Reduced NADPH---hemoprotein reductase]	H2O	green
-sterol 14alpha-demethylase	1.14.14.154	[Reduced NADPH---hemoprotein reductase]	[Oxidized NADPH---hemoprotein reductase]	green
-sterol 22-desaturase	1.14.19.41	5-Dehydroepisterol	Ergosta-5,7,22,24(28)-tetraen-3beta-ol	white
-sterol 22-desaturase	1.14.19.41	5-Dehydroepisterol	H2O	white
-sterol 22-desaturase	1.14.19.41	5-Dehydroepisterol	NADP+	white
-sterol 22-desaturase	1.14.19.41	Ergosta-5,7,22,24(28)-tetraen-3beta-ol	5-Dehydroepisterol	white
-sterol 22-desaturase	1.14.19.41	Ergosta-5,7,22,24(28)-tetraen-3beta-ol	H+	white
-sterol 22-desaturase	1.14.19.41	Ergosta-5,7,22,24(28)-tetraen-3beta-ol	NADPH	white
-sterol 22-desaturase	1.14.19.41	Ergosta-5,7,22,24(28)-tetraen-3beta-ol	Oxygen	white
-sterol 22-desaturase	1.14.19.41	H+	Ergosta-5,7,22,24(28)-tetraen-3beta-ol	white
-sterol 22-desaturase	1.14.19.41	H+	H2O	white
-sterol 22-desaturase	1.14.19.41	H+	NADP+	white
-sterol 22-desaturase	1.14.19.41	H2O	5-Dehydroepisterol	white
-sterol 22-desaturase	1.14.19.41	H2O	H+	white
-sterol 22-desaturase	1.14.19.41	H2O	NADPH	white
-sterol 22-desaturase	1.14.19.41	H2O	Oxygen	white
-sterol 22-desaturase	1.14.19.41	NADP+	5-Dehydroepisterol	white
-sterol 22-desaturase	1.14.19.41	NADP+	H+	white
-sterol 22-desaturase	1.14.19.41	NADP+	NADPH	white
-sterol 22-desaturase	1.14.19.41	NADP+	Oxygen	white
-sterol 22-desaturase	1.14.19.41	NADPH	Ergosta-5,7,22,24(28)-tetraen-3beta-ol	white
-sterol 22-desaturase	1.14.19.41	NADPH	H2O	white
-sterol 22-desaturase	1.14.19.41	NADPH	NADP+	white
-sterol 22-desaturase	1.14.19.41	Oxygen	Ergosta-5,7,22,24(28)-tetraen-3beta-ol	white
-sterol 22-desaturase	1.14.19.41	Oxygen	H2O	white
-sterol 22-desaturase	1.14.19.41	Oxygen	NADP+	white
-sterol 24-C-methyltransferase	2.1.1.41	Fecosterol	S-Adenosyl-L-methionine	white
-sterol 24-C-methyltransferase	2.1.1.41	Fecosterol	Zymosterol	white
-sterol 24-C-methyltransferase	2.1.1.41	S-Adenosyl-L-homocysteine	S-Adenosyl-L-methionine	white
-sterol 24-C-methyltransferase	2.1.1.41	S-Adenosyl-L-homocysteine	Zymosterol	white
-sterol 24-C-methyltransferase	2.1.1.41	S-Adenosyl-L-methionine	Fecosterol	white
-sterol 24-C-methyltransferase	2.1.1.41	S-Adenosyl-L-methionine	S-Adenosyl-L-homocysteine	white
-sterol 24-C-methyltransferase	2.1.1.41	Zymosterol	Fecosterol	white
-sterol 24-C-methyltransferase	2.1.1.41	Zymosterol	S-Adenosyl-L-homocysteine	white
-sterol O-acyltransferase	2.3.1.26	Acyl-CoA	Cholesterol ester	white
-sterol O-acyltransferase	2.3.1.26	Acyl-CoA	CoA	white
-sterol O-acyltransferase	2.3.1.26	Cholesterol	Cholesterol ester	white
-sterol O-acyltransferase	2.3.1.26	Cholesterol	CoA	white
-sterol O-acyltransferase	2.3.1.26	Cholesterol ester	Acyl-CoA	white
-sterol O-acyltransferase	2.3.1.26	Cholesterol ester	Cholesterol	white
-sterol O-acyltransferase	2.3.1.26	CoA	Acyl-CoA	white
-sterol O-acyltransferase	2.3.1.26	CoA	Cholesterol	white
-sterol-4alpha-carboxylate 3-dehydrogenase (decarboxylating)	1.1.1.170	3-Keto-4-methylzymosterol	4alpha-Methylzymosterol-4-carboxylate	white
-sterol-4alpha-carboxylate 3-dehydrogenase (decarboxylating)	1.1.1.170	3-Keto-4-methylzymosterol	NADP+	white
-sterol-4alpha-carboxylate 3-dehydrogenase (decarboxylating)	1.1.1.170	4alpha-Methylzymosterol-4-carboxylate	3-Keto-4-methylzymosterol	white
-sterol-4alpha-carboxylate 3-dehydrogenase (decarboxylating)	1.1.1.170	4alpha-Methylzymosterol-4-carboxylate	CO2	white
-sterol-4alpha-carboxylate 3-dehydrogenase (decarboxylating)	1.1.1.170	4alpha-Methylzymosterol-4-carboxylate	H+	white
-sterol-4alpha-carboxylate 3-dehydrogenase (decarboxylating)	1.1.1.170	4alpha-Methylzymosterol-4-carboxylate	NADPH	white
-sterol-4alpha-carboxylate 3-dehydrogenase (decarboxylating)	1.1.1.170	CO2	4alpha-Methylzymosterol-4-carboxylate	white
-sterol-4alpha-carboxylate 3-dehydrogenase (decarboxylating)	1.1.1.170	CO2	NADP+	white
-sterol-4alpha-carboxylate 3-dehydrogenase (decarboxylating)	1.1.1.170	H+	4alpha-Methylzymosterol-4-carboxylate	white
-sterol-4alpha-carboxylate 3-dehydrogenase (decarboxylating)	1.1.1.170	H+	NADP+	white
-sterol-4alpha-carboxylate 3-dehydrogenase (decarboxylating)	1.1.1.170	NADP+	3-Keto-4-methylzymosterol	white
-sterol-4alpha-carboxylate 3-dehydrogenase (decarboxylating)	1.1.1.170	NADP+	CO2	white
-sterol-4alpha-carboxylate 3-dehydrogenase (decarboxylating)	1.1.1.170	NADP+	H+	white
-sterol-4alpha-carboxylate 3-dehydrogenase (decarboxylating)	1.1.1.170	NADP+	NADPH	white
-sterol-4alpha-carboxylate 3-dehydrogenase (decarboxylating)	1.1.1.170	NADPH	4alpha-Methylzymosterol-4-carboxylate	white
-sterol-4alpha-carboxylate 3-dehydrogenase (decarboxylating)	1.1.1.170	NADPH	NADP+	white
-vitamin D 1,25-hydroxylase	1.14.15.22	Calcidiol	H+	white
-vitamin D 1,25-hydroxylase	1.14.15.22	Calcidiol	Oxygen	white
-vitamin D 1,25-hydroxylase	1.14.15.22	Calcidiol	Reduced ferredoxin	white
-vitamin D 1,25-hydroxylase	1.14.15.22	Calcidiol	Vitamin D3	white
-vitamin D 1,25-hydroxylase	1.14.15.22	H+	Calcidiol	white
-vitamin D 1,25-hydroxylase	1.14.15.22	H+	H2O	white
-vitamin D 1,25-hydroxylase	1.14.15.22	H+	Oxidized ferredoxin	white
-vitamin D 1,25-hydroxylase	1.14.15.22	H2O	H+	white
-vitamin D 1,25-hydroxylase	1.14.15.22	H2O	Oxygen	white
-vitamin D 1,25-hydroxylase	1.14.15.22	H2O	Reduced ferredoxin	white
-vitamin D 1,25-hydroxylase	1.14.15.22	H2O	Vitamin D3	white
-vitamin D 1,25-hydroxylase	1.14.15.22	Oxidized ferredoxin	H+	white
-vitamin D 1,25-hydroxylase	1.14.15.22	Oxidized ferredoxin	Oxygen	white
-vitamin D 1,25-hydroxylase	1.14.15.22	Oxidized ferredoxin	Reduced ferredoxin	white
-vitamin D 1,25-hydroxylase	1.14.15.22	Oxidized ferredoxin	Vitamin D3	white
-vitamin D 1,25-hydroxylase	1.14.15.22	Oxygen	Calcidiol	white
-vitamin D 1,25-hydroxylase	1.14.15.22	Oxygen	H2O	white
-vitamin D 1,25-hydroxylase	1.14.15.22	Oxygen	Oxidized ferredoxin	white
-vitamin D 1,25-hydroxylase	1.14.15.22	Reduced ferredoxin	Calcidiol	white
-vitamin D 1,25-hydroxylase	1.14.15.22	Reduced ferredoxin	H2O	white
-vitamin D 1,25-hydroxylase	1.14.15.22	Reduced ferredoxin	Oxidized ferredoxin	white
-vitamin D 1,25-hydroxylase	1.14.15.22	Vitamin D3	Calcidiol	white
-vitamin D 1,25-hydroxylase	1.14.15.22	Vitamin D3	H2O	white
-vitamin D 1,25-hydroxylase	1.14.15.22	Vitamin D3	Oxidized ferredoxin	white
-vitamin D 25-hydroxylase	1.14.14.24	Calcidiol	Oxygen	white
-vitamin D 25-hydroxylase	1.14.14.24	Calcidiol	Vitamin D3	white
-vitamin D 25-hydroxylase	1.14.14.24	Calcidiol	[Reduced NADPH---hemoprotein reductase]	white
-vitamin D 25-hydroxylase	1.14.14.24	H2O	Oxygen	white
-vitamin D 25-hydroxylase	1.14.14.24	H2O	Vitamin D3	white
-vitamin D 25-hydroxylase	1.14.14.24	H2O	[Reduced NADPH---hemoprotein reductase]	white
-vitamin D 25-hydroxylase	1.14.14.24	Oxygen	Calcidiol	white
-vitamin D 25-hydroxylase	1.14.14.24	Oxygen	H2O	white
-vitamin D 25-hydroxylase	1.14.14.24	Oxygen	[Oxidized NADPH---hemoprotein reductase]	white
-vitamin D 25-hydroxylase	1.14.14.24	Vitamin D3	Calcidiol	white
-vitamin D 25-hydroxylase	1.14.14.24	Vitamin D3	H2O	white
-vitamin D 25-hydroxylase	1.14.14.24	Vitamin D3	[Oxidized NADPH---hemoprotein reductase]	white
-vitamin D 25-hydroxylase	1.14.14.24	[Oxidized NADPH---hemoprotein reductase]	Oxygen	white
-vitamin D 25-hydroxylase	1.14.14.24	[Oxidized NADPH---hemoprotein reductase]	Vitamin D3	white
-vitamin D 25-hydroxylase	1.14.14.24	[Oxidized NADPH---hemoprotein reductase]	[Reduced NADPH---hemoprotein reductase]	white
-vitamin D 25-hydroxylase	1.14.14.24	[Reduced NADPH---hemoprotein reductase]	Calcidiol	white
-vitamin D 25-hydroxylase	1.14.14.24	[Reduced NADPH---hemoprotein reductase]	H2O	white
-vitamin D 25-hydroxylase	1.14.14.24	[Reduced NADPH---hemoprotein reductase]	[Oxidized NADPH---hemoprotein reductase]	white
-vitamin D3 24-hydroxylase	1.14.15.16	Calcitetrol	Calcitriol	white
-vitamin D3 24-hydroxylase	1.14.15.16	Calcitetrol	H+	white
-vitamin D3 24-hydroxylase	1.14.15.16	Calcitetrol	Oxygen	white
-vitamin D3 24-hydroxylase	1.14.15.16	Calcitetrol	Reduced adrenal ferredoxin	white
-vitamin D3 24-hydroxylase	1.14.15.16	Calcitriol	Calcitetrol	white
-vitamin D3 24-hydroxylase	1.14.15.16	Calcitriol	H2O	white
-vitamin D3 24-hydroxylase	1.14.15.16	Calcitriol	Oxidized adrenal ferredoxin	white
-vitamin D3 24-hydroxylase	1.14.15.16	H+	Calcitetrol	white
-vitamin D3 24-hydroxylase	1.14.15.16	H+	H2O	white
-vitamin D3 24-hydroxylase	1.14.15.16	H+	Oxidized adrenal ferredoxin	white
-vitamin D3 24-hydroxylase	1.14.15.16	H2O	Calcitriol	white
-vitamin D3 24-hydroxylase	1.14.15.16	H2O	H+	white
-vitamin D3 24-hydroxylase	1.14.15.16	H2O	Oxygen	white
-vitamin D3 24-hydroxylase	1.14.15.16	H2O	Reduced adrenal ferredoxin	white
-vitamin D3 24-hydroxylase	1.14.15.16	Oxidized adrenal ferredoxin	Calcitriol	white
-vitamin D3 24-hydroxylase	1.14.15.16	Oxidized adrenal ferredoxin	H+	white
-vitamin D3 24-hydroxylase	1.14.15.16	Oxidized adrenal ferredoxin	Oxygen	white
-vitamin D3 24-hydroxylase	1.14.15.16	Oxidized adrenal ferredoxin	Reduced adrenal ferredoxin	white
-vitamin D3 24-hydroxylase	1.14.15.16	Oxygen	Calcitetrol	white
-vitamin D3 24-hydroxylase	1.14.15.16	Oxygen	H2O	white
-vitamin D3 24-hydroxylase	1.14.15.16	Oxygen	Oxidized adrenal ferredoxin	white
-vitamin D3 24-hydroxylase	1.14.15.16	Reduced adrenal ferredoxin	Calcitetrol	white
-vitamin D3 24-hydroxylase	1.14.15.16	Reduced adrenal ferredoxin	H2O	white
-vitamin D3 24-hydroxylase	1.14.15.16	Reduced adrenal ferredoxin	Oxidized adrenal ferredoxin	white
+enzyme_name	EC	source	target	reaction	color
+17beta-estradiol 17-dehydrogenase / 3beta-hydroxysteroid 3-dehydrogenase	1.1.1.62	Estradiol-17beta	Estrone	R02352	white
+17beta-estradiol 17-dehydrogenase / 3beta-hydroxysteroid 3-dehydrogenase	1.1.1.62	Estradiol-17beta	H+	R02352	white
+17beta-estradiol 17-dehydrogenase / 3beta-hydroxysteroid 3-dehydrogenase	1.1.1.62	Estradiol-17beta	NADH	R02352	white
+17beta-estradiol 17-dehydrogenase / 3beta-hydroxysteroid 3-dehydrogenase	1.1.1.62	Estrone	Estradiol-17beta	R02352	white
+17beta-estradiol 17-dehydrogenase / 3beta-hydroxysteroid 3-dehydrogenase	1.1.1.62	Estrone	NAD+	R02352	white
+17beta-estradiol 17-dehydrogenase / 3beta-hydroxysteroid 3-dehydrogenase	1.1.1.62	H+	Estradiol-17beta	R02352	white
+17beta-estradiol 17-dehydrogenase / 3beta-hydroxysteroid 3-dehydrogenase	1.1.1.62	H+	NAD+	R02352	white
+17beta-estradiol 17-dehydrogenase / 3beta-hydroxysteroid 3-dehydrogenase	1.1.1.62	NAD+	Estrone	R02352	white
+17beta-estradiol 17-dehydrogenase / 3beta-hydroxysteroid 3-dehydrogenase	1.1.1.62	NAD+	H+	R02352	white
+17beta-estradiol 17-dehydrogenase / 3beta-hydroxysteroid 3-dehydrogenase	1.1.1.62	NAD+	NADH	R02352	white
+17beta-estradiol 17-dehydrogenase / 3beta-hydroxysteroid 3-dehydrogenase	1.1.1.62	NADH	Estradiol-17beta	R02352	white
+17beta-estradiol 17-dehydrogenase / 3beta-hydroxysteroid 3-dehydrogenase	1.1.1.62	NADH	NAD+	R02352	white
+24-methylenesterol C-methyltransferase	2.1.1.143	24-Ethylidenelophenol	24-Methylenelophenol	R05776	white
+24-methylenesterol C-methyltransferase	2.1.1.143	24-Ethylidenelophenol	S-Adenosyl-L-methionine	R05776	white
+24-methylenesterol C-methyltransferase	2.1.1.143	24-Methylenelophenol	24-Ethylidenelophenol	R05776	white
+24-methylenesterol C-methyltransferase	2.1.1.143	24-Methylenelophenol	S-Adenosyl-L-homocysteine	R05776	white
+24-methylenesterol C-methyltransferase	2.1.1.143	S-Adenosyl-L-homocysteine	24-Methylenelophenol	R05776	white
+24-methylenesterol C-methyltransferase	2.1.1.143	S-Adenosyl-L-homocysteine	S-Adenosyl-L-methionine	R05776	white
+24-methylenesterol C-methyltransferase	2.1.1.143	S-Adenosyl-L-methionine	24-Ethylidenelophenol	R05776	white
+24-methylenesterol C-methyltransferase	2.1.1.143	S-Adenosyl-L-methionine	S-Adenosyl-L-homocysteine	R05776	white
+3-keto steroid reductase	1.1.1.270	3-Keto-4-methylzymosterol	4alpha-Methylzymosterol	R07495	white
+3-keto steroid reductase	1.1.1.270	3-Keto-4-methylzymosterol	NADP+	R07495	white
+3-keto steroid reductase	1.1.1.270	4alpha-Methylzymosterol	3-Keto-4-methylzymosterol	R07495	white
+3-keto steroid reductase	1.1.1.270	4alpha-Methylzymosterol	H+	R07495	white
+3-keto steroid reductase	1.1.1.270	4alpha-Methylzymosterol	NADPH	R07495	white
+3-keto steroid reductase	1.1.1.270	H+	4alpha-Methylzymosterol	R07495	white
+3-keto steroid reductase	1.1.1.270	H+	NADP+	R07495	white
+3-keto steroid reductase	1.1.1.270	NADP+	3-Keto-4-methylzymosterol	R07495	white
+3-keto steroid reductase	1.1.1.270	NADP+	H+	R07495	white
+3-keto steroid reductase	1.1.1.270	NADP+	NADPH	R07495	white
+3-keto steroid reductase	1.1.1.270	NADPH	4alpha-Methylzymosterol	R07495	white
+3-keto steroid reductase	1.1.1.270	NADPH	NADP+	R07495	white
+7-dehydrocholesterol reductase	1.3.1.21	7-Dehydrocholesterol	Cholesterol	R01451	white
+7-dehydrocholesterol reductase	1.3.1.21	7-Dehydrocholesterol	NAD+	R01451	white
+7-dehydrocholesterol reductase	1.3.1.21	Cholesterol	7-Dehydrocholesterol	R01451	white
+7-dehydrocholesterol reductase	1.3.1.21	Cholesterol	H+	R01451	white
+7-dehydrocholesterol reductase	1.3.1.21	Cholesterol	NADH	R01451	white
+7-dehydrocholesterol reductase	1.3.1.21	H+	Cholesterol	R01451	white
+7-dehydrocholesterol reductase	1.3.1.21	H+	NAD+	R01451	white
+7-dehydrocholesterol reductase	1.3.1.21	NAD+	7-Dehydrocholesterol	R01451	white
+7-dehydrocholesterol reductase	1.3.1.21	NAD+	H+	R01451	white
+7-dehydrocholesterol reductase	1.3.1.21	NAD+	NADH	R01451	white
+7-dehydrocholesterol reductase	1.3.1.21	NADH	Cholesterol	R01451	white
+7-dehydrocholesterol reductase	1.3.1.21	NADH	NAD+	R01451	white
+C-8 sterol isomerase	5.-.-.-	Episterol	Fecosterol	R07497	white
+C-8 sterol isomerase	5.-.-.-	Fecosterol	Episterol	R07497	white
+Delta14-sterol reductase	1.3.1.70	14-Demethyllanosterol	4,4-Dimethyl-5alpha-cholesta-8,14,24-trien-3beta-ol	R05639	white
+Delta14-sterol reductase	1.3.1.70	14-Demethyllanosterol	H+	R05639	white
+Delta14-sterol reductase	1.3.1.70	14-Demethyllanosterol	NADPH	R05639	white
+Delta14-sterol reductase	1.3.1.70	4,4-Dimethyl-5alpha-cholesta-8,14,24-trien-3beta-ol	14-Demethyllanosterol	R05639	white
+Delta14-sterol reductase	1.3.1.70	4,4-Dimethyl-5alpha-cholesta-8,14,24-trien-3beta-ol	NADP+	R05639	white
+Delta14-sterol reductase	1.3.1.70	H+	14-Demethyllanosterol	R05639	white
+Delta14-sterol reductase	1.3.1.70	H+	NADP+	R05639	white
+Delta14-sterol reductase	1.3.1.70	NADP+	4,4-Dimethyl-5alpha-cholesta-8,14,24-trien-3beta-ol	R05639	white
+Delta14-sterol reductase	1.3.1.70	NADP+	H+	R05639	white
+Delta14-sterol reductase	1.3.1.70	NADP+	NADPH	R05639	white
+Delta14-sterol reductase	1.3.1.70	NADPH	14-Demethyllanosterol	R05639	white
+Delta14-sterol reductase	1.3.1.70	NADPH	NADP+	R05639	white
+Delta14-sterol reductase (lamin-B receptor)	1.3.1.70	14-Demethyllanosterol	4,4-Dimethyl-5alpha-cholesta-8,14,24-trien-3beta-ol	R05639	white
+Delta14-sterol reductase (lamin-B receptor)	1.3.1.70	14-Demethyllanosterol	H+	R05639	white
+Delta14-sterol reductase (lamin-B receptor)	1.3.1.70	14-Demethyllanosterol	NADPH	R05639	white
+Delta14-sterol reductase (lamin-B receptor)	1.3.1.70	4,4-Dimethyl-5alpha-cholesta-8,14,24-trien-3beta-ol	14-Demethyllanosterol	R05639	white
+Delta14-sterol reductase (lamin-B receptor)	1.3.1.70	4,4-Dimethyl-5alpha-cholesta-8,14,24-trien-3beta-ol	NADP+	R05639	white
+Delta14-sterol reductase (lamin-B receptor)	1.3.1.70	H+	14-Demethyllanosterol	R05639	white
+Delta14-sterol reductase (lamin-B receptor)	1.3.1.70	H+	NADP+	R05639	white
+Delta14-sterol reductase (lamin-B receptor)	1.3.1.70	NADP+	4,4-Dimethyl-5alpha-cholesta-8,14,24-trien-3beta-ol	R05639	white
+Delta14-sterol reductase (lamin-B receptor)	1.3.1.70	NADP+	H+	R05639	white
+Delta14-sterol reductase (lamin-B receptor)	1.3.1.70	NADP+	NADPH	R05639	white
+Delta14-sterol reductase (lamin-B receptor)	1.3.1.70	NADPH	14-Demethyllanosterol	R05639	white
+Delta14-sterol reductase (lamin-B receptor)	1.3.1.70	NADPH	NADP+	R05639	white
+Delta24(24(1))-sterol reductase	1.3.1.71	Ergosta-5,7,22,24(28)-tetraen-3beta-ol	Ergosterol	R05641	white
+Delta24(24(1))-sterol reductase	1.3.1.71	Ergosta-5,7,22,24(28)-tetraen-3beta-ol	NADP+	R05641	white
+Delta24(24(1))-sterol reductase	1.3.1.71	Ergosterol	Ergosta-5,7,22,24(28)-tetraen-3beta-ol	R05641	white
+Delta24(24(1))-sterol reductase	1.3.1.71	Ergosterol	H+	R05641	white
+Delta24(24(1))-sterol reductase	1.3.1.71	Ergosterol	NADPH	R05641	white
+Delta24(24(1))-sterol reductase	1.3.1.71	H+	Ergosterol	R05641	white
+Delta24(24(1))-sterol reductase	1.3.1.71	H+	NADP+	R05641	white
+Delta24(24(1))-sterol reductase	1.3.1.71	NADP+	Ergosta-5,7,22,24(28)-tetraen-3beta-ol	R05641	white
+Delta24(24(1))-sterol reductase	1.3.1.71	NADP+	H+	R05641	white
+Delta24(24(1))-sterol reductase	1.3.1.71	NADP+	NADPH	R05641	white
+Delta24(24(1))-sterol reductase	1.3.1.71	NADPH	Ergosterol	R05641	white
+Delta24(24(1))-sterol reductase	1.3.1.71	NADPH	NADP+	R05641	white
+Delta24-sterol reductase	1.3.1.72	Cholesterol	Desmosterol	R01457	white
+Delta24-sterol reductase	1.3.1.72	Cholesterol	H+	R01457	white
+Delta24-sterol reductase	1.3.1.72	Cholesterol	NADPH	R01457	white
+Delta24-sterol reductase	1.3.1.72	Desmosterol	Cholesterol	R01457	white
+Delta24-sterol reductase	1.3.1.72	Desmosterol	NADP+	R01457	white
+Delta24-sterol reductase	1.3.1.72	H+	Cholesterol	R01457	white
+Delta24-sterol reductase	1.3.1.72	H+	NADP+	R01457	white
+Delta24-sterol reductase	1.3.1.72	NADP+	Desmosterol	R01457	white
+Delta24-sterol reductase	1.3.1.72	NADP+	H+	R01457	white
+Delta24-sterol reductase	1.3.1.72	NADP+	NADPH	R01457	white
+Delta24-sterol reductase	1.3.1.72	NADPH	Cholesterol	R01457	white
+Delta24-sterol reductase	1.3.1.72	NADPH	NADP+	R01457	white
+Delta7-sterol 5-desaturase	1.14.19.20	7-Dehydrocholesterol	Ferrocytochrome b5	R07215	white
+Delta7-sterol 5-desaturase	1.14.19.20	7-Dehydrocholesterol	H+	R07215	white
+Delta7-sterol 5-desaturase	1.14.19.20	7-Dehydrocholesterol	Lathosterol	R07215	white
+Delta7-sterol 5-desaturase	1.14.19.20	7-Dehydrocholesterol	Oxygen	R07215	white
+Delta7-sterol 5-desaturase	1.14.19.20	Ferricytochrome b5	Ferrocytochrome b5	R07215	white
+Delta7-sterol 5-desaturase	1.14.19.20	Ferricytochrome b5	H+	R07215	white
+Delta7-sterol 5-desaturase	1.14.19.20	Ferricytochrome b5	Lathosterol	R07215	white
+Delta7-sterol 5-desaturase	1.14.19.20	Ferricytochrome b5	Oxygen	R07215	white
+Delta7-sterol 5-desaturase	1.14.19.20	Ferrocytochrome b5	7-Dehydrocholesterol	R07215	white
+Delta7-sterol 5-desaturase	1.14.19.20	Ferrocytochrome b5	Ferricytochrome b5	R07215	white
+Delta7-sterol 5-desaturase	1.14.19.20	Ferrocytochrome b5	H2O	R07215	white
+Delta7-sterol 5-desaturase	1.14.19.20	H+	7-Dehydrocholesterol	R07215	white
+Delta7-sterol 5-desaturase	1.14.19.20	H+	Ferricytochrome b5	R07215	white
+Delta7-sterol 5-desaturase	1.14.19.20	H+	H2O	R07215	white
+Delta7-sterol 5-desaturase	1.14.19.20	H2O	Ferrocytochrome b5	R07215	white
+Delta7-sterol 5-desaturase	1.14.19.20	H2O	H+	R07215	white
+Delta7-sterol 5-desaturase	1.14.19.20	H2O	Lathosterol	R07215	white
+Delta7-sterol 5-desaturase	1.14.19.20	H2O	Oxygen	R07215	white
+Delta7-sterol 5-desaturase	1.14.19.20	Lathosterol	7-Dehydrocholesterol	R07215	white
+Delta7-sterol 5-desaturase	1.14.19.20	Lathosterol	Ferricytochrome b5	R07215	white
+Delta7-sterol 5-desaturase	1.14.19.20	Lathosterol	H2O	R07215	white
+Delta7-sterol 5-desaturase	1.14.19.20	Oxygen	7-Dehydrocholesterol	R07215	white
+Delta7-sterol 5-desaturase	1.14.19.20	Oxygen	Ferricytochrome b5	R07215	white
+Delta7-sterol 5-desaturase	1.14.19.20	Oxygen	H2O	R07215	white
+TAG lipase / steryl ester hydrolase / phospholipase A2 / LPA acyltransferase	3.1.1.3	1-Acyl-sn-glycero-3-phosphocholine	H2O	R01315	white
+TAG lipase / steryl ester hydrolase / phospholipase A2 / LPA acyltransferase	3.1.1.3	1-Acyl-sn-glycero-3-phosphocholine	Phosphatidylcholine	R01315	white
+TAG lipase / steryl ester hydrolase / phospholipase A2 / LPA acyltransferase	3.1.1.3	Fatty acid	H2O	R01315	white
+TAG lipase / steryl ester hydrolase / phospholipase A2 / LPA acyltransferase	3.1.1.3	Fatty acid	Phosphatidylcholine	R01315	white
+TAG lipase / steryl ester hydrolase / phospholipase A2 / LPA acyltransferase	3.1.1.3	H2O	1-Acyl-sn-glycero-3-phosphocholine	R01315	white
+TAG lipase / steryl ester hydrolase / phospholipase A2 / LPA acyltransferase	3.1.1.3	H2O	Fatty acid	R01315	white
+TAG lipase / steryl ester hydrolase / phospholipase A2 / LPA acyltransferase	3.1.1.3	Phosphatidylcholine	1-Acyl-sn-glycero-3-phosphocholine	R01315	white
+TAG lipase / steryl ester hydrolase / phospholipase A2 / LPA acyltransferase	3.1.1.3	Phosphatidylcholine	Fatty acid	R01315	white
+alternative squalene epoxidase	1.14.19.-	(S)-2,3-Epoxysqualene	Ferrocytochrome b5	R12355	white
+alternative squalene epoxidase	1.14.19.-	(S)-2,3-Epoxysqualene	H+	R12355	white
+alternative squalene epoxidase	1.14.19.-	(S)-2,3-Epoxysqualene	Oxygen	R12355	white
+alternative squalene epoxidase	1.14.19.-	(S)-2,3-Epoxysqualene	Squalene	R12355	white
+alternative squalene epoxidase	1.14.19.-	Ferricytochrome b5	Ferrocytochrome b5	R12355	white
+alternative squalene epoxidase	1.14.19.-	Ferricytochrome b5	H+	R12355	white
+alternative squalene epoxidase	1.14.19.-	Ferricytochrome b5	Oxygen	R12355	white
+alternative squalene epoxidase	1.14.19.-	Ferricytochrome b5	Squalene	R12355	white
+alternative squalene epoxidase	1.14.19.-	Ferrocytochrome b5	(S)-2,3-Epoxysqualene	R12355	white
+alternative squalene epoxidase	1.14.19.-	Ferrocytochrome b5	Ferricytochrome b5	R12355	white
+alternative squalene epoxidase	1.14.19.-	Ferrocytochrome b5	H2O	R12355	white
+alternative squalene epoxidase	1.14.19.-	H+	(S)-2,3-Epoxysqualene	R12355	white
+alternative squalene epoxidase	1.14.19.-	H+	Ferricytochrome b5	R12355	white
+alternative squalene epoxidase	1.14.19.-	H+	H2O	R12355	white
+alternative squalene epoxidase	1.14.19.-	H2O	Ferrocytochrome b5	R12355	white
+alternative squalene epoxidase	1.14.19.-	H2O	H+	R12355	white
+alternative squalene epoxidase	1.14.19.-	H2O	Oxygen	R12355	white
+alternative squalene epoxidase	1.14.19.-	H2O	Squalene	R12355	white
+alternative squalene epoxidase	1.14.19.-	Oxygen	(S)-2,3-Epoxysqualene	R12355	white
+alternative squalene epoxidase	1.14.19.-	Oxygen	Ferricytochrome b5	R12355	white
+alternative squalene epoxidase	1.14.19.-	Oxygen	H2O	R12355	white
+alternative squalene epoxidase	1.14.19.-	Squalene	(S)-2,3-Epoxysqualene	R12355	white
+alternative squalene epoxidase	1.14.19.-	Squalene	Ferricytochrome b5	R12355	white
+alternative squalene epoxidase	1.14.19.-	Squalene	H2O	R12355	white
+bile salt-stimulated lipase	3.1.1.3	Cholesterol	Cholesterol ester	R01462	white
+bile salt-stimulated lipase	3.1.1.3	Cholesterol	H2O	R01462	white
+bile salt-stimulated lipase	3.1.1.3	Cholesterol ester	Cholesterol	R01462	white
+bile salt-stimulated lipase	3.1.1.3	Cholesterol ester	Fatty acid	R01462	white
+bile salt-stimulated lipase	3.1.1.3	Fatty acid	Cholesterol ester	R01462	white
+bile salt-stimulated lipase	3.1.1.3	Fatty acid	H2O	R01462	white
+bile salt-stimulated lipase	3.1.1.3	H2O	Cholesterol	R01462	white
+bile salt-stimulated lipase	3.1.1.3	H2O	Fatty acid	R01462	white
+calcidiol 1-monooxygenase (25-hydroxyvitamin D3 1alpha-hydroxylase)	1.14.15.18	Calcidiol	Calcitriol	R03610	white
+calcidiol 1-monooxygenase (25-hydroxyvitamin D3 1alpha-hydroxylase)	1.14.15.18	Calcidiol	H2O	R03610	white
+calcidiol 1-monooxygenase (25-hydroxyvitamin D3 1alpha-hydroxylase)	1.14.15.18	Calcidiol	Oxidized adrenal ferredoxin	R03610	white
+calcidiol 1-monooxygenase (25-hydroxyvitamin D3 1alpha-hydroxylase)	1.14.15.18	Calcitriol	Calcidiol	R03610	white
+calcidiol 1-monooxygenase (25-hydroxyvitamin D3 1alpha-hydroxylase)	1.14.15.18	Calcitriol	H+	R03610	white
+calcidiol 1-monooxygenase (25-hydroxyvitamin D3 1alpha-hydroxylase)	1.14.15.18	Calcitriol	Oxygen	R03610	white
+calcidiol 1-monooxygenase (25-hydroxyvitamin D3 1alpha-hydroxylase)	1.14.15.18	Calcitriol	Reduced adrenal ferredoxin	R03610	white
+calcidiol 1-monooxygenase (25-hydroxyvitamin D3 1alpha-hydroxylase)	1.14.15.18	H+	Calcitriol	R03610	white
+calcidiol 1-monooxygenase (25-hydroxyvitamin D3 1alpha-hydroxylase)	1.14.15.18	H+	H2O	R03610	white
+calcidiol 1-monooxygenase (25-hydroxyvitamin D3 1alpha-hydroxylase)	1.14.15.18	H+	Oxidized adrenal ferredoxin	R03610	white
+calcidiol 1-monooxygenase (25-hydroxyvitamin D3 1alpha-hydroxylase)	1.14.15.18	H2O	Calcidiol	R03610	white
+calcidiol 1-monooxygenase (25-hydroxyvitamin D3 1alpha-hydroxylase)	1.14.15.18	H2O	H+	R03610	white
+calcidiol 1-monooxygenase (25-hydroxyvitamin D3 1alpha-hydroxylase)	1.14.15.18	H2O	Oxygen	R03610	white
+calcidiol 1-monooxygenase (25-hydroxyvitamin D3 1alpha-hydroxylase)	1.14.15.18	H2O	Reduced adrenal ferredoxin	R03610	white
+calcidiol 1-monooxygenase (25-hydroxyvitamin D3 1alpha-hydroxylase)	1.14.15.18	Oxidized adrenal ferredoxin	Calcidiol	R03610	white
+calcidiol 1-monooxygenase (25-hydroxyvitamin D3 1alpha-hydroxylase)	1.14.15.18	Oxidized adrenal ferredoxin	H+	R03610	white
+calcidiol 1-monooxygenase (25-hydroxyvitamin D3 1alpha-hydroxylase)	1.14.15.18	Oxidized adrenal ferredoxin	Oxygen	R03610	white
+calcidiol 1-monooxygenase (25-hydroxyvitamin D3 1alpha-hydroxylase)	1.14.15.18	Oxidized adrenal ferredoxin	Reduced adrenal ferredoxin	R03610	white
+calcidiol 1-monooxygenase (25-hydroxyvitamin D3 1alpha-hydroxylase)	1.14.15.18	Oxygen	Calcitriol	R03610	white
+calcidiol 1-monooxygenase (25-hydroxyvitamin D3 1alpha-hydroxylase)	1.14.15.18	Oxygen	H2O	R03610	white
+calcidiol 1-monooxygenase (25-hydroxyvitamin D3 1alpha-hydroxylase)	1.14.15.18	Oxygen	Oxidized adrenal ferredoxin	R03610	white
+calcidiol 1-monooxygenase (25-hydroxyvitamin D3 1alpha-hydroxylase)	1.14.15.18	Reduced adrenal ferredoxin	Calcitriol	R03610	white
+calcidiol 1-monooxygenase (25-hydroxyvitamin D3 1alpha-hydroxylase)	1.14.15.18	Reduced adrenal ferredoxin	H2O	R03610	white
+calcidiol 1-monooxygenase (25-hydroxyvitamin D3 1alpha-hydroxylase)	1.14.15.18	Reduced adrenal ferredoxin	Oxidized adrenal ferredoxin	R03610	white
+cholestenol Delta-isomerase	5.3.3.5	5alpha-Cholest-8-en-3beta-ol	Lathosterol	R03353	white
+cholestenol Delta-isomerase	5.3.3.5	Lathosterol	5alpha-Cholest-8-en-3beta-ol	R03353	white
+cycloartenol synthase	5.4.99.8	(S)-2,3-Epoxysqualene	Cycloartenol	R03200	white
+cycloartenol synthase	5.4.99.8	Cycloartenol	(S)-2,3-Epoxysqualene	R03200	white
+cycloeucalenol cycloisomerase	5.5.1.9	Cycloeucalenol	Obtusifoliol	R03775	white
+cycloeucalenol cycloisomerase	5.5.1.9	Obtusifoliol	Cycloeucalenol	R03775	white
+farnesyl-diphosphate farnesyltransferase	2.5.1.21	Diphosphate	trans,trans-Farnesyl diphosphate	R00702	white
+farnesyl-diphosphate farnesyltransferase	2.5.1.21	Presqualene diphosphate	trans,trans-Farnesyl diphosphate	R00702	white
+farnesyl-diphosphate farnesyltransferase	2.5.1.21	trans,trans-Farnesyl diphosphate	Diphosphate	R00702	white
+farnesyl-diphosphate farnesyltransferase	2.5.1.21	trans,trans-Farnesyl diphosphate	Presqualene diphosphate	R00702	white
+lanosterol synthase	5.4.99.7	(S)-2,3-Epoxysqualene	Lanosterol	R03199	white
+lanosterol synthase	5.4.99.7	Lanosterol	(S)-2,3-Epoxysqualene	R03199	white
+lysosomal acid lipase/cholesteryl ester hydrolase	3.1.1.13	Cholesterol	Cholesterol ester	R01462	white
+lysosomal acid lipase/cholesteryl ester hydrolase	3.1.1.13	Cholesterol	H2O	R01462	white
+lysosomal acid lipase/cholesteryl ester hydrolase	3.1.1.13	Cholesterol ester	Cholesterol	R01462	white
+lysosomal acid lipase/cholesteryl ester hydrolase	3.1.1.13	Cholesterol ester	Fatty acid	R01462	white
+lysosomal acid lipase/cholesteryl ester hydrolase	3.1.1.13	Fatty acid	Cholesterol ester	R01462	white
+lysosomal acid lipase/cholesteryl ester hydrolase	3.1.1.13	Fatty acid	H2O	R01462	white
+lysosomal acid lipase/cholesteryl ester hydrolase	3.1.1.13	H2O	Cholesterol	R01462	white
+lysosomal acid lipase/cholesteryl ester hydrolase	3.1.1.13	H2O	Fatty acid	R01462	white
+methylsterol monooxygenase	1.14.18.9	14-Demethyllanosterol	4alpha-Methylzymosterol-4-carboxylate	R07509	white
+methylsterol monooxygenase	1.14.18.9	14-Demethyllanosterol	Ferricytochrome b5	R07509	white
+methylsterol monooxygenase	1.14.18.9	14-Demethyllanosterol	H2O	R07509	white
+methylsterol monooxygenase	1.14.18.9	4alpha-Methylzymosterol-4-carboxylate	14-Demethyllanosterol	R07509	white
+methylsterol monooxygenase	1.14.18.9	4alpha-Methylzymosterol-4-carboxylate	Ferrocytochrome b5	R07509	white
+methylsterol monooxygenase	1.14.18.9	4alpha-Methylzymosterol-4-carboxylate	H+	R07509	white
+methylsterol monooxygenase	1.14.18.9	4alpha-Methylzymosterol-4-carboxylate	Oxygen	R07509	white
+methylsterol monooxygenase	1.14.18.9	Ferricytochrome b5	14-Demethyllanosterol	R07509	white
+methylsterol monooxygenase	1.14.18.9	Ferricytochrome b5	Ferrocytochrome b5	R07509	white
+methylsterol monooxygenase	1.14.18.9	Ferricytochrome b5	H+	R07509	white
+methylsterol monooxygenase	1.14.18.9	Ferricytochrome b5	Oxygen	R07509	white
+methylsterol monooxygenase	1.14.18.9	Ferrocytochrome b5	4alpha-Methylzymosterol-4-carboxylate	R07509	white
+methylsterol monooxygenase	1.14.18.9	Ferrocytochrome b5	Ferricytochrome b5	R07509	white
+methylsterol monooxygenase	1.14.18.9	Ferrocytochrome b5	H2O	R07509	white
+methylsterol monooxygenase	1.14.18.9	H+	4alpha-Methylzymosterol-4-carboxylate	R07509	white
+methylsterol monooxygenase	1.14.18.9	H+	Ferricytochrome b5	R07509	white
+methylsterol monooxygenase	1.14.18.9	H+	H2O	R07509	white
+methylsterol monooxygenase	1.14.18.9	H2O	14-Demethyllanosterol	R07509	white
+methylsterol monooxygenase	1.14.18.9	H2O	Ferrocytochrome b5	R07509	white
+methylsterol monooxygenase	1.14.18.9	H2O	H+	R07509	white
+methylsterol monooxygenase	1.14.18.9	H2O	Oxygen	R07509	white
+methylsterol monooxygenase	1.14.18.9	Oxygen	4alpha-Methylzymosterol-4-carboxylate	R07509	white
+methylsterol monooxygenase	1.14.18.9	Oxygen	Ferricytochrome b5	R07509	white
+methylsterol monooxygenase	1.14.18.9	Oxygen	H2O	R07509	white
+plant 3beta-hydroxysteroid-4alpha-carboxylate 3-dehydrogenase	1.1.1.418	3beta-Hydroxy-4beta,14alpha-dimethyl-9beta,19-cyclo-5alpha-ergost-24(24(1))-en-4alpha-carboxylate	CO2	R12371	white
+plant 3beta-hydroxysteroid-4alpha-carboxylate 3-dehydrogenase	1.1.1.418	3beta-Hydroxy-4beta,14alpha-dimethyl-9beta,19-cyclo-5alpha-ergost-24(24(1))-en-4alpha-carboxylate	Cycloeucalenone	R12371	white
+plant 3beta-hydroxysteroid-4alpha-carboxylate 3-dehydrogenase	1.1.1.418	3beta-Hydroxy-4beta,14alpha-dimethyl-9beta,19-cyclo-5alpha-ergost-24(24(1))-en-4alpha-carboxylate	H+	R12371	white
+plant 3beta-hydroxysteroid-4alpha-carboxylate 3-dehydrogenase	1.1.1.418	3beta-Hydroxy-4beta,14alpha-dimethyl-9beta,19-cyclo-5alpha-ergost-24(24(1))-en-4alpha-carboxylate	NADH	R12371	white
+plant 3beta-hydroxysteroid-4alpha-carboxylate 3-dehydrogenase	1.1.1.418	CO2	3beta-Hydroxy-4beta,14alpha-dimethyl-9beta,19-cyclo-5alpha-ergost-24(24(1))-en-4alpha-carboxylate	R12371	white
+plant 3beta-hydroxysteroid-4alpha-carboxylate 3-dehydrogenase	1.1.1.418	CO2	NAD+	R12371	white
+plant 3beta-hydroxysteroid-4alpha-carboxylate 3-dehydrogenase	1.1.1.418	Cycloeucalenone	3beta-Hydroxy-4beta,14alpha-dimethyl-9beta,19-cyclo-5alpha-ergost-24(24(1))-en-4alpha-carboxylate	R12371	white
+plant 3beta-hydroxysteroid-4alpha-carboxylate 3-dehydrogenase	1.1.1.418	Cycloeucalenone	NAD+	R12371	white
+plant 3beta-hydroxysteroid-4alpha-carboxylate 3-dehydrogenase	1.1.1.418	H+	3beta-Hydroxy-4beta,14alpha-dimethyl-9beta,19-cyclo-5alpha-ergost-24(24(1))-en-4alpha-carboxylate	R12371	white
+plant 3beta-hydroxysteroid-4alpha-carboxylate 3-dehydrogenase	1.1.1.418	H+	NAD+	R12371	white
+plant 3beta-hydroxysteroid-4alpha-carboxylate 3-dehydrogenase	1.1.1.418	NAD+	CO2	R12371	white
+plant 3beta-hydroxysteroid-4alpha-carboxylate 3-dehydrogenase	1.1.1.418	NAD+	Cycloeucalenone	R12371	white
+plant 3beta-hydroxysteroid-4alpha-carboxylate 3-dehydrogenase	1.1.1.418	NAD+	H+	R12371	white
+plant 3beta-hydroxysteroid-4alpha-carboxylate 3-dehydrogenase	1.1.1.418	NAD+	NADH	R12371	white
+plant 3beta-hydroxysteroid-4alpha-carboxylate 3-dehydrogenase	1.1.1.418	NADH	3beta-Hydroxy-4beta,14alpha-dimethyl-9beta,19-cyclo-5alpha-ergost-24(24(1))-en-4alpha-carboxylate	R12371	white
+plant 3beta-hydroxysteroid-4alpha-carboxylate 3-dehydrogenase	1.1.1.418	NADH	NAD+	R12371	white
+plant 4,4-dimethylsterol C-4alpha-methyl-monooxygenase	1.14.18.10	24-Methylidenecycloartanol	3beta-Hydroxy-4beta,14alpha-dimethyl-9beta,19-cyclo-5alpha-ergost-24(24(1))-en-4alpha-carboxylate	R12377	white
+plant 4,4-dimethylsterol C-4alpha-methyl-monooxygenase	1.14.18.10	24-Methylidenecycloartanol	Ferricytochrome b5	R12377	white
+plant 4,4-dimethylsterol C-4alpha-methyl-monooxygenase	1.14.18.10	24-Methylidenecycloartanol	H2O	R12377	white
+plant 4,4-dimethylsterol C-4alpha-methyl-monooxygenase	1.14.18.10	3beta-Hydroxy-4beta,14alpha-dimethyl-9beta,19-cyclo-5alpha-ergost-24(24(1))-en-4alpha-carboxylate	24-Methylidenecycloartanol	R12377	white
+plant 4,4-dimethylsterol C-4alpha-methyl-monooxygenase	1.14.18.10	3beta-Hydroxy-4beta,14alpha-dimethyl-9beta,19-cyclo-5alpha-ergost-24(24(1))-en-4alpha-carboxylate	Ferrocytochrome b5	R12377	white
+plant 4,4-dimethylsterol C-4alpha-methyl-monooxygenase	1.14.18.10	3beta-Hydroxy-4beta,14alpha-dimethyl-9beta,19-cyclo-5alpha-ergost-24(24(1))-en-4alpha-carboxylate	H+	R12377	white
+plant 4,4-dimethylsterol C-4alpha-methyl-monooxygenase	1.14.18.10	3beta-Hydroxy-4beta,14alpha-dimethyl-9beta,19-cyclo-5alpha-ergost-24(24(1))-en-4alpha-carboxylate	Oxygen	R12377	white
+plant 4,4-dimethylsterol C-4alpha-methyl-monooxygenase	1.14.18.10	Ferricytochrome b5	24-Methylidenecycloartanol	R12377	white
+plant 4,4-dimethylsterol C-4alpha-methyl-monooxygenase	1.14.18.10	Ferricytochrome b5	Ferrocytochrome b5	R12377	white
+plant 4,4-dimethylsterol C-4alpha-methyl-monooxygenase	1.14.18.10	Ferricytochrome b5	H+	R12377	white
+plant 4,4-dimethylsterol C-4alpha-methyl-monooxygenase	1.14.18.10	Ferricytochrome b5	Oxygen	R12377	white
+plant 4,4-dimethylsterol C-4alpha-methyl-monooxygenase	1.14.18.10	Ferrocytochrome b5	3beta-Hydroxy-4beta,14alpha-dimethyl-9beta,19-cyclo-5alpha-ergost-24(24(1))-en-4alpha-carboxylate	R12377	white
+plant 4,4-dimethylsterol C-4alpha-methyl-monooxygenase	1.14.18.10	Ferrocytochrome b5	Ferricytochrome b5	R12377	white
+plant 4,4-dimethylsterol C-4alpha-methyl-monooxygenase	1.14.18.10	Ferrocytochrome b5	H2O	R12377	white
+plant 4,4-dimethylsterol C-4alpha-methyl-monooxygenase	1.14.18.10	H+	3beta-Hydroxy-4beta,14alpha-dimethyl-9beta,19-cyclo-5alpha-ergost-24(24(1))-en-4alpha-carboxylate	R12377	white
+plant 4,4-dimethylsterol C-4alpha-methyl-monooxygenase	1.14.18.10	H+	Ferricytochrome b5	R12377	white
+plant 4,4-dimethylsterol C-4alpha-methyl-monooxygenase	1.14.18.10	H+	H2O	R12377	white
+plant 4,4-dimethylsterol C-4alpha-methyl-monooxygenase	1.14.18.10	H2O	24-Methylidenecycloartanol	R12377	white
+plant 4,4-dimethylsterol C-4alpha-methyl-monooxygenase	1.14.18.10	H2O	Ferrocytochrome b5	R12377	white
+plant 4,4-dimethylsterol C-4alpha-methyl-monooxygenase	1.14.18.10	H2O	H+	R12377	white
+plant 4,4-dimethylsterol C-4alpha-methyl-monooxygenase	1.14.18.10	H2O	Oxygen	R12377	white
+plant 4,4-dimethylsterol C-4alpha-methyl-monooxygenase	1.14.18.10	Oxygen	3beta-Hydroxy-4beta,14alpha-dimethyl-9beta,19-cyclo-5alpha-ergost-24(24(1))-en-4alpha-carboxylate	R12377	white
+plant 4,4-dimethylsterol C-4alpha-methyl-monooxygenase	1.14.18.10	Oxygen	Ferricytochrome b5	R12377	white
+plant 4,4-dimethylsterol C-4alpha-methyl-monooxygenase	1.14.18.10	Oxygen	H2O	R12377	white
+plant 4alpha-monomethylsterol monooxygenase	1.14.18.11	24-Methylenelophenol	3beta-Hydroxyergosta-7,24(24(1))-dien-4alpha-carboxylate	R12378	white
+plant 4alpha-monomethylsterol monooxygenase	1.14.18.11	24-Methylenelophenol	Ferricytochrome b5	R12378	white
+plant 4alpha-monomethylsterol monooxygenase	1.14.18.11	24-Methylenelophenol	H2O	R12378	white
+plant 4alpha-monomethylsterol monooxygenase	1.14.18.11	3beta-Hydroxyergosta-7,24(24(1))-dien-4alpha-carboxylate	24-Methylenelophenol	R12378	white
+plant 4alpha-monomethylsterol monooxygenase	1.14.18.11	3beta-Hydroxyergosta-7,24(24(1))-dien-4alpha-carboxylate	Ferrocytochrome b5	R12378	white
+plant 4alpha-monomethylsterol monooxygenase	1.14.18.11	3beta-Hydroxyergosta-7,24(24(1))-dien-4alpha-carboxylate	H+	R12378	white
+plant 4alpha-monomethylsterol monooxygenase	1.14.18.11	3beta-Hydroxyergosta-7,24(24(1))-dien-4alpha-carboxylate	Oxygen	R12378	white
+plant 4alpha-monomethylsterol monooxygenase	1.14.18.11	Ferricytochrome b5	24-Methylenelophenol	R12378	white
+plant 4alpha-monomethylsterol monooxygenase	1.14.18.11	Ferricytochrome b5	Ferrocytochrome b5	R12378	white
+plant 4alpha-monomethylsterol monooxygenase	1.14.18.11	Ferricytochrome b5	H+	R12378	white
+plant 4alpha-monomethylsterol monooxygenase	1.14.18.11	Ferricytochrome b5	Oxygen	R12378	white
+plant 4alpha-monomethylsterol monooxygenase	1.14.18.11	Ferrocytochrome b5	3beta-Hydroxyergosta-7,24(24(1))-dien-4alpha-carboxylate	R12378	white
+plant 4alpha-monomethylsterol monooxygenase	1.14.18.11	Ferrocytochrome b5	Ferricytochrome b5	R12378	white
+plant 4alpha-monomethylsterol monooxygenase	1.14.18.11	Ferrocytochrome b5	H2O	R12378	white
+plant 4alpha-monomethylsterol monooxygenase	1.14.18.11	H+	3beta-Hydroxyergosta-7,24(24(1))-dien-4alpha-carboxylate	R12378	white
+plant 4alpha-monomethylsterol monooxygenase	1.14.18.11	H+	Ferricytochrome b5	R12378	white
+plant 4alpha-monomethylsterol monooxygenase	1.14.18.11	H+	H2O	R12378	white
+plant 4alpha-monomethylsterol monooxygenase	1.14.18.11	H2O	24-Methylenelophenol	R12378	white
+plant 4alpha-monomethylsterol monooxygenase	1.14.18.11	H2O	Ferrocytochrome b5	R12378	white
+plant 4alpha-monomethylsterol monooxygenase	1.14.18.11	H2O	H+	R12378	white
+plant 4alpha-monomethylsterol monooxygenase	1.14.18.11	H2O	Oxygen	R12378	white
+plant 4alpha-monomethylsterol monooxygenase	1.14.18.11	Oxygen	3beta-Hydroxyergosta-7,24(24(1))-dien-4alpha-carboxylate	R12378	white
+plant 4alpha-monomethylsterol monooxygenase	1.14.18.11	Oxygen	Ferricytochrome b5	R12378	white
+plant 4alpha-monomethylsterol monooxygenase	1.14.18.11	Oxygen	H2O	R12378	white
+squalene monooxygenase	1.14.14.17	(S)-2,3-Epoxysqualene	Oxygen	R02874	white
+squalene monooxygenase	1.14.14.17	(S)-2,3-Epoxysqualene	Squalene	R02874	white
+squalene monooxygenase	1.14.14.17	(S)-2,3-Epoxysqualene	[Reduced NADPH---hemoprotein reductase]	R02874	white
+squalene monooxygenase	1.14.14.17	H2O	Oxygen	R02874	white
+squalene monooxygenase	1.14.14.17	H2O	Squalene	R02874	white
+squalene monooxygenase	1.14.14.17	H2O	[Reduced NADPH---hemoprotein reductase]	R02874	white
+squalene monooxygenase	1.14.14.17	Oxygen	(S)-2,3-Epoxysqualene	R02874	white
+squalene monooxygenase	1.14.14.17	Oxygen	H2O	R02874	white
+squalene monooxygenase	1.14.14.17	Oxygen	[Oxidized NADPH---hemoprotein reductase]	R02874	white
+squalene monooxygenase	1.14.14.17	Squalene	(S)-2,3-Epoxysqualene	R02874	white
+squalene monooxygenase	1.14.14.17	Squalene	H2O	R02874	white
+squalene monooxygenase	1.14.14.17	Squalene	[Oxidized NADPH---hemoprotein reductase]	R02874	white
+squalene monooxygenase	1.14.14.17	[Oxidized NADPH---hemoprotein reductase]	Oxygen	R02874	white
+squalene monooxygenase	1.14.14.17	[Oxidized NADPH---hemoprotein reductase]	Squalene	R02874	white
+squalene monooxygenase	1.14.14.17	[Oxidized NADPH---hemoprotein reductase]	[Reduced NADPH---hemoprotein reductase]	R02874	white
+squalene monooxygenase	1.14.14.17	[Reduced NADPH---hemoprotein reductase]	(S)-2,3-Epoxysqualene	R02874	white
+squalene monooxygenase	1.14.14.17	[Reduced NADPH---hemoprotein reductase]	H2O	R02874	white
+squalene monooxygenase	1.14.14.17	[Reduced NADPH---hemoprotein reductase]	[Oxidized NADPH---hemoprotein reductase]	R02874	white
+sterol 14alpha-demethylase	1.14.14.154	H+	4,4-Dimethyl-5alpha-cholesta-8,14,24-trien-3beta-ol	R12323	green
+sterol 14alpha-demethylase	1.14.14.154	H+	Formate	R12323	green
+sterol 14alpha-demethylase	1.14.14.154	H+	H2O	R12323	green
+sterol 14alpha-demethylase	1.14.14.154	H+	Oxidized ferredoxin	R12323	green
+sterol 14alpha-demethylase	1.14.14.154	Lanosterol	4,4-Dimethyl-5alpha-cholesta-8,14,24-trien-3beta-ol	R05640	green
+sterol 14alpha-demethylase	1.14.14.154	Lanosterol	4,4-Dimethyl-5alpha-cholesta-8,14,24-trien-3beta-ol	R12323	green
+sterol 14alpha-demethylase	1.14.14.154	Lanosterol	Formate	R05640	green
+sterol 14alpha-demethylase	1.14.14.154	Lanosterol	Formate	R12323	green
+sterol 14alpha-demethylase	1.14.14.154	Lanosterol	H2O	R05640	green
+sterol 14alpha-demethylase	1.14.14.154	Lanosterol	H2O	R12323	green
+sterol 14alpha-demethylase	1.14.14.154	Lanosterol	Oxidized ferredoxin	R12323	green
+sterol 14alpha-demethylase	1.14.14.154	Lanosterol	[Oxidized NADPH---hemoprotein reductase]	R05640	green
+sterol 14alpha-demethylase	1.14.14.154	Obtusifoliol	4alpha-Methyl-5alpha-ergosta-8,14,24(28)-trien-3beta-ol	R05731	green
+sterol 14alpha-demethylase	1.14.14.154	Obtusifoliol	Formate	R05731	green
+sterol 14alpha-demethylase	1.14.14.154	Obtusifoliol	H2O	R05731	green
+sterol 14alpha-demethylase	1.14.14.154	Obtusifoliol	[Oxidized NADPH---hemoprotein reductase]	R05731	green
+sterol 14alpha-demethylase	1.14.14.154	Oxygen	4,4-Dimethyl-5alpha-cholesta-8,14,24-trien-3beta-ol	R05640	green
+sterol 14alpha-demethylase	1.14.14.154	Oxygen	4,4-Dimethyl-5alpha-cholesta-8,14,24-trien-3beta-ol	R12323	green
+sterol 14alpha-demethylase	1.14.14.154	Oxygen	4alpha-Methyl-5alpha-ergosta-8,14,24(28)-trien-3beta-ol	R05731	green
+sterol 14alpha-demethylase	1.14.14.154	Oxygen	Formate	R05640	green
+sterol 14alpha-demethylase	1.14.14.154	Oxygen	Formate	R05731	green
+sterol 14alpha-demethylase	1.14.14.154	Oxygen	Formate	R12323	green
+sterol 14alpha-demethylase	1.14.14.154	Oxygen	H2O	R05640	green
+sterol 14alpha-demethylase	1.14.14.154	Oxygen	H2O	R05731	green
+sterol 14alpha-demethylase	1.14.14.154	Oxygen	H2O	R12323	green
+sterol 14alpha-demethylase	1.14.14.154	Oxygen	Oxidized ferredoxin	R12323	green
+sterol 14alpha-demethylase	1.14.14.154	Oxygen	[Oxidized NADPH---hemoprotein reductase]	R05640	green
+sterol 14alpha-demethylase	1.14.14.154	Oxygen	[Oxidized NADPH---hemoprotein reductase]	R05731	green
+sterol 14alpha-demethylase	1.14.14.154	Reduced ferredoxin	4,4-Dimethyl-5alpha-cholesta-8,14,24-trien-3beta-ol	R12323	green
+sterol 14alpha-demethylase	1.14.14.154	Reduced ferredoxin	Formate	R12323	green
+sterol 14alpha-demethylase	1.14.14.154	Reduced ferredoxin	H2O	R12323	green
+sterol 14alpha-demethylase	1.14.14.154	Reduced ferredoxin	Oxidized ferredoxin	R12323	green
+sterol 14alpha-demethylase	1.14.14.154	[Reduced NADPH---hemoprotein reductase]	4,4-Dimethyl-5alpha-cholesta-8,14,24-trien-3beta-ol	R05640	green
+sterol 14alpha-demethylase	1.14.14.154	[Reduced NADPH---hemoprotein reductase]	4alpha-Methyl-5alpha-ergosta-8,14,24(28)-trien-3beta-ol	R05731	green
+sterol 14alpha-demethylase	1.14.14.154	[Reduced NADPH---hemoprotein reductase]	Formate	R05640	green
+sterol 14alpha-demethylase	1.14.14.154	[Reduced NADPH---hemoprotein reductase]	Formate	R05731	green
+sterol 14alpha-demethylase	1.14.14.154	[Reduced NADPH---hemoprotein reductase]	H2O	R05640	green
+sterol 14alpha-demethylase	1.14.14.154	[Reduced NADPH---hemoprotein reductase]	H2O	R05731	green
+sterol 14alpha-demethylase	1.14.14.154	[Reduced NADPH---hemoprotein reductase]	[Oxidized NADPH---hemoprotein reductase]	R05640	green
+sterol 14alpha-demethylase	1.14.14.154	[Reduced NADPH---hemoprotein reductase]	[Oxidized NADPH---hemoprotein reductase]	R05731	green
+sterol 22-desaturase	1.14.19.41	5-Dehydroepisterol	Ergosta-5,7,22,24(28)-tetraen-3beta-ol	R07506	white
+sterol 22-desaturase	1.14.19.41	5-Dehydroepisterol	H2O	R07506	white
+sterol 22-desaturase	1.14.19.41	5-Dehydroepisterol	NADP+	R07506	white
+sterol 22-desaturase	1.14.19.41	Ergosta-5,7,22,24(28)-tetraen-3beta-ol	5-Dehydroepisterol	R07506	white
+sterol 22-desaturase	1.14.19.41	Ergosta-5,7,22,24(28)-tetraen-3beta-ol	H+	R07506	white
+sterol 22-desaturase	1.14.19.41	Ergosta-5,7,22,24(28)-tetraen-3beta-ol	NADPH	R07506	white
+sterol 22-desaturase	1.14.19.41	Ergosta-5,7,22,24(28)-tetraen-3beta-ol	Oxygen	R07506	white
+sterol 22-desaturase	1.14.19.41	H+	Ergosta-5,7,22,24(28)-tetraen-3beta-ol	R07506	white
+sterol 22-desaturase	1.14.19.41	H+	H2O	R07506	white
+sterol 22-desaturase	1.14.19.41	H+	NADP+	R07506	white
+sterol 22-desaturase	1.14.19.41	H2O	5-Dehydroepisterol	R07506	white
+sterol 22-desaturase	1.14.19.41	H2O	H+	R07506	white
+sterol 22-desaturase	1.14.19.41	H2O	NADPH	R07506	white
+sterol 22-desaturase	1.14.19.41	H2O	Oxygen	R07506	white
+sterol 22-desaturase	1.14.19.41	NADP+	5-Dehydroepisterol	R07506	white
+sterol 22-desaturase	1.14.19.41	NADP+	H+	R07506	white
+sterol 22-desaturase	1.14.19.41	NADP+	NADPH	R07506	white
+sterol 22-desaturase	1.14.19.41	NADP+	Oxygen	R07506	white
+sterol 22-desaturase	1.14.19.41	NADPH	Ergosta-5,7,22,24(28)-tetraen-3beta-ol	R07506	white
+sterol 22-desaturase	1.14.19.41	NADPH	H2O	R07506	white
+sterol 22-desaturase	1.14.19.41	NADPH	NADP+	R07506	white
+sterol 22-desaturase	1.14.19.41	Oxygen	Ergosta-5,7,22,24(28)-tetraen-3beta-ol	R07506	white
+sterol 22-desaturase	1.14.19.41	Oxygen	H2O	R07506	white
+sterol 22-desaturase	1.14.19.41	Oxygen	NADP+	R07506	white
+sterol 24-C-methyltransferase	2.1.1.41	Fecosterol	S-Adenosyl-L-methionine	R04427	white
+sterol 24-C-methyltransferase	2.1.1.41	Fecosterol	Zymosterol	R04427	white
+sterol 24-C-methyltransferase	2.1.1.41	S-Adenosyl-L-homocysteine	S-Adenosyl-L-methionine	R04427	white
+sterol 24-C-methyltransferase	2.1.1.41	S-Adenosyl-L-homocysteine	Zymosterol	R04427	white
+sterol 24-C-methyltransferase	2.1.1.41	S-Adenosyl-L-methionine	Fecosterol	R04427	white
+sterol 24-C-methyltransferase	2.1.1.41	S-Adenosyl-L-methionine	S-Adenosyl-L-homocysteine	R04427	white
+sterol 24-C-methyltransferase	2.1.1.41	Zymosterol	Fecosterol	R04427	white
+sterol 24-C-methyltransferase	2.1.1.41	Zymosterol	S-Adenosyl-L-homocysteine	R04427	white
+sterol O-acyltransferase	2.3.1.26	Acyl-CoA	Cholesterol ester	R01461	white
+sterol O-acyltransferase	2.3.1.26	Acyl-CoA	CoA	R01461	white
+sterol O-acyltransferase	2.3.1.26	Cholesterol	Cholesterol ester	R01461	white
+sterol O-acyltransferase	2.3.1.26	Cholesterol	CoA	R01461	white
+sterol O-acyltransferase	2.3.1.26	Cholesterol ester	Acyl-CoA	R01461	white
+sterol O-acyltransferase	2.3.1.26	Cholesterol ester	Cholesterol	R01461	white
+sterol O-acyltransferase	2.3.1.26	CoA	Acyl-CoA	R01461	white
+sterol O-acyltransferase	2.3.1.26	CoA	Cholesterol	R01461	white
+sterol-4alpha-carboxylate 3-dehydrogenase (decarboxylating)	1.1.1.170	3-Keto-4-methylzymosterol	4alpha-Methylzymosterol-4-carboxylate	R07494	white
+sterol-4alpha-carboxylate 3-dehydrogenase (decarboxylating)	1.1.1.170	3-Keto-4-methylzymosterol	NADP+	R07494	white
+sterol-4alpha-carboxylate 3-dehydrogenase (decarboxylating)	1.1.1.170	4alpha-Methylzymosterol-4-carboxylate	3-Keto-4-methylzymosterol	R07494	white
+sterol-4alpha-carboxylate 3-dehydrogenase (decarboxylating)	1.1.1.170	4alpha-Methylzymosterol-4-carboxylate	CO2	R07494	white
+sterol-4alpha-carboxylate 3-dehydrogenase (decarboxylating)	1.1.1.170	4alpha-Methylzymosterol-4-carboxylate	H+	R07494	white
+sterol-4alpha-carboxylate 3-dehydrogenase (decarboxylating)	1.1.1.170	4alpha-Methylzymosterol-4-carboxylate	NADPH	R07494	white
+sterol-4alpha-carboxylate 3-dehydrogenase (decarboxylating)	1.1.1.170	CO2	4alpha-Methylzymosterol-4-carboxylate	R07494	white
+sterol-4alpha-carboxylate 3-dehydrogenase (decarboxylating)	1.1.1.170	CO2	NADP+	R07494	white
+sterol-4alpha-carboxylate 3-dehydrogenase (decarboxylating)	1.1.1.170	H+	4alpha-Methylzymosterol-4-carboxylate	R07494	white
+sterol-4alpha-carboxylate 3-dehydrogenase (decarboxylating)	1.1.1.170	H+	NADP+	R07494	white
+sterol-4alpha-carboxylate 3-dehydrogenase (decarboxylating)	1.1.1.170	NADP+	3-Keto-4-methylzymosterol	R07494	white
+sterol-4alpha-carboxylate 3-dehydrogenase (decarboxylating)	1.1.1.170	NADP+	CO2	R07494	white
+sterol-4alpha-carboxylate 3-dehydrogenase (decarboxylating)	1.1.1.170	NADP+	H+	R07494	white
+sterol-4alpha-carboxylate 3-dehydrogenase (decarboxylating)	1.1.1.170	NADP+	NADPH	R07494	white
+sterol-4alpha-carboxylate 3-dehydrogenase (decarboxylating)	1.1.1.170	NADPH	4alpha-Methylzymosterol-4-carboxylate	R07494	white
+sterol-4alpha-carboxylate 3-dehydrogenase (decarboxylating)	1.1.1.170	NADPH	NADP+	R07494	white
+vitamin D 1,25-hydroxylase	1.14.15.22	Calcidiol	H+	R11458	white
+vitamin D 1,25-hydroxylase	1.14.15.22	Calcidiol	Oxygen	R11458	white
+vitamin D 1,25-hydroxylase	1.14.15.22	Calcidiol	Reduced ferredoxin	R11458	white
+vitamin D 1,25-hydroxylase	1.14.15.22	Calcidiol	Vitamin D3	R11458	white
+vitamin D 1,25-hydroxylase	1.14.15.22	H+	Calcidiol	R11458	white
+vitamin D 1,25-hydroxylase	1.14.15.22	H+	H2O	R11458	white
+vitamin D 1,25-hydroxylase	1.14.15.22	H+	Oxidized ferredoxin	R11458	white
+vitamin D 1,25-hydroxylase	1.14.15.22	H2O	H+	R11458	white
+vitamin D 1,25-hydroxylase	1.14.15.22	H2O	Oxygen	R11458	white
+vitamin D 1,25-hydroxylase	1.14.15.22	H2O	Reduced ferredoxin	R11458	white
+vitamin D 1,25-hydroxylase	1.14.15.22	H2O	Vitamin D3	R11458	white
+vitamin D 1,25-hydroxylase	1.14.15.22	Oxidized ferredoxin	H+	R11458	white
+vitamin D 1,25-hydroxylase	1.14.15.22	Oxidized ferredoxin	Oxygen	R11458	white
+vitamin D 1,25-hydroxylase	1.14.15.22	Oxidized ferredoxin	Reduced ferredoxin	R11458	white
+vitamin D 1,25-hydroxylase	1.14.15.22	Oxidized ferredoxin	Vitamin D3	R11458	white
+vitamin D 1,25-hydroxylase	1.14.15.22	Oxygen	Calcidiol	R11458	white
+vitamin D 1,25-hydroxylase	1.14.15.22	Oxygen	H2O	R11458	white
+vitamin D 1,25-hydroxylase	1.14.15.22	Oxygen	Oxidized ferredoxin	R11458	white
+vitamin D 1,25-hydroxylase	1.14.15.22	Reduced ferredoxin	Calcidiol	R11458	white
+vitamin D 1,25-hydroxylase	1.14.15.22	Reduced ferredoxin	H2O	R11458	white
+vitamin D 1,25-hydroxylase	1.14.15.22	Reduced ferredoxin	Oxidized ferredoxin	R11458	white
+vitamin D 1,25-hydroxylase	1.14.15.22	Vitamin D3	Calcidiol	R11458	white
+vitamin D 1,25-hydroxylase	1.14.15.22	Vitamin D3	H2O	R11458	white
+vitamin D 1,25-hydroxylase	1.14.15.22	Vitamin D3	Oxidized ferredoxin	R11458	white
+vitamin D 25-hydroxylase	1.14.14.24	Calcidiol	Oxygen	R03611	white
+vitamin D 25-hydroxylase	1.14.14.24	Calcidiol	Vitamin D3	R03611	white
+vitamin D 25-hydroxylase	1.14.14.24	Calcidiol	[Reduced NADPH---hemoprotein reductase]	R03611	white
+vitamin D 25-hydroxylase	1.14.14.24	H2O	Oxygen	R03611	white
+vitamin D 25-hydroxylase	1.14.14.24	H2O	Vitamin D3	R03611	white
+vitamin D 25-hydroxylase	1.14.14.24	H2O	[Reduced NADPH---hemoprotein reductase]	R03611	white
+vitamin D 25-hydroxylase	1.14.14.24	Oxygen	Calcidiol	R03611	white
+vitamin D 25-hydroxylase	1.14.14.24	Oxygen	H2O	R03611	white
+vitamin D 25-hydroxylase	1.14.14.24	Oxygen	[Oxidized NADPH---hemoprotein reductase]	R03611	white
+vitamin D 25-hydroxylase	1.14.14.24	Vitamin D3	Calcidiol	R03611	white
+vitamin D 25-hydroxylase	1.14.14.24	Vitamin D3	H2O	R03611	white
+vitamin D 25-hydroxylase	1.14.14.24	Vitamin D3	[Oxidized NADPH---hemoprotein reductase]	R03611	white
+vitamin D 25-hydroxylase	1.14.14.24	[Oxidized NADPH---hemoprotein reductase]	Oxygen	R03611	white
+vitamin D 25-hydroxylase	1.14.14.24	[Oxidized NADPH---hemoprotein reductase]	Vitamin D3	R03611	white
+vitamin D 25-hydroxylase	1.14.14.24	[Oxidized NADPH---hemoprotein reductase]	[Reduced NADPH---hemoprotein reductase]	R03611	white
+vitamin D 25-hydroxylase	1.14.14.24	[Reduced NADPH---hemoprotein reductase]	Calcidiol	R03611	white
+vitamin D 25-hydroxylase	1.14.14.24	[Reduced NADPH---hemoprotein reductase]	H2O	R03611	white
+vitamin D 25-hydroxylase	1.14.14.24	[Reduced NADPH---hemoprotein reductase]	[Oxidized NADPH---hemoprotein reductase]	R03611	white
+vitamin D3 24-hydroxylase	1.14.15.16	Calcitetrol	Calcitriol	R09515	white
+vitamin D3 24-hydroxylase	1.14.15.16	Calcitetrol	H+	R09515	white
+vitamin D3 24-hydroxylase	1.14.15.16	Calcitetrol	Oxygen	R09515	white
+vitamin D3 24-hydroxylase	1.14.15.16	Calcitetrol	Reduced adrenal ferredoxin	R09515	white
+vitamin D3 24-hydroxylase	1.14.15.16	Calcitriol	Calcitetrol	R09515	white
+vitamin D3 24-hydroxylase	1.14.15.16	Calcitriol	H2O	R09515	white
+vitamin D3 24-hydroxylase	1.14.15.16	Calcitriol	Oxidized adrenal ferredoxin	R09515	white
+vitamin D3 24-hydroxylase	1.14.15.16	H+	Calcitetrol	R09515	white
+vitamin D3 24-hydroxylase	1.14.15.16	H+	H2O	R09515	white
+vitamin D3 24-hydroxylase	1.14.15.16	H+	Oxidized adrenal ferredoxin	R09515	white
+vitamin D3 24-hydroxylase	1.14.15.16	H2O	Calcitriol	R09515	white
+vitamin D3 24-hydroxylase	1.14.15.16	H2O	H+	R09515	white
+vitamin D3 24-hydroxylase	1.14.15.16	H2O	Oxygen	R09515	white
+vitamin D3 24-hydroxylase	1.14.15.16	H2O	Reduced adrenal ferredoxin	R09515	white
+vitamin D3 24-hydroxylase	1.14.15.16	Oxidized adrenal ferredoxin	Calcitriol	R09515	white
+vitamin D3 24-hydroxylase	1.14.15.16	Oxidized adrenal ferredoxin	H+	R09515	white
+vitamin D3 24-hydroxylase	1.14.15.16	Oxidized adrenal ferredoxin	Oxygen	R09515	white
+vitamin D3 24-hydroxylase	1.14.15.16	Oxidized adrenal ferredoxin	Reduced adrenal ferredoxin	R09515	white
+vitamin D3 24-hydroxylase	1.14.15.16	Oxygen	Calcitetrol	R09515	white
+vitamin D3 24-hydroxylase	1.14.15.16	Oxygen	H2O	R09515	white
+vitamin D3 24-hydroxylase	1.14.15.16	Oxygen	Oxidized adrenal ferredoxin	R09515	white
+vitamin D3 24-hydroxylase	1.14.15.16	Reduced adrenal ferredoxin	Calcitetrol	R09515	white
+vitamin D3 24-hydroxylase	1.14.15.16	Reduced adrenal ferredoxin	H2O	R09515	white
+vitamin D3 24-hydroxylase	1.14.15.16	Reduced adrenal ferredoxin	Oxidized adrenal ferredoxin	R09515	white

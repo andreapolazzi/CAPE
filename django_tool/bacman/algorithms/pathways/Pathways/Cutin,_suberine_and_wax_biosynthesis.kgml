@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <!DOCTYPE pathway SYSTEM "https://www.kegg.jp/kegg/xml/KGML_v0.7.2_.dtd">
-<!-- Creation date: Mar 6, 2025 16:55:32 +0900 (GMT+9) -->
+<!-- Creation date: Jul 2, 2025 14:35:54 +0900 (GMT+9) -->
 <pathway name="path:roa00073" org="roa" number="00073"
          title="Cutin, suberine and wax biosynthesis"
          image="https://www.kegg.jp/kegg/pathway/roa/roa00073.png"
@@ -210,9 +210,9 @@
         <graphics name="C00609" fgcolor="#000000" bgcolor="#FFFFFF"
              type="circle" x="282" y="1210" width="8" height="8"/>
     </entry>
-    <entry id="264" name="cpd:C00226" type="compound"
-        link="https://www.kegg.jp/dbget-bin/www_bget?C00226">
-        <graphics name="C00226" fgcolor="#000000" bgcolor="#FFFFFF"
+    <entry id="264" name="cpd:C00339" type="compound"
+        link="https://www.kegg.jp/dbget-bin/www_bget?C00339">
+        <graphics name="C00339" fgcolor="#000000" bgcolor="#FFFFFF"
              type="circle" x="285" y="1276" width="8" height="8"/>
     </entry>
     <entry id="265" name="cpd:C01629" type="compound"
@@ -230,10 +230,10 @@
         <graphics name="C01371" fgcolor="#000000" bgcolor="#FFFFFF"
              type="circle" x="392" y="1210" width="8" height="8"/>
     </entry>
-    <entry id="274" name="roa:Pd630_LPD02872" type="gene" reaction="rn:R09470"
+    <entry id="274" name="roa:Pd630_LPD02872" type="gene" reaction="rn:R10104"
         link="https://www.kegg.jp/dbget-bin/www_bget?roa:Pd630_LPD02872">
         <graphics name="Pd630_LPD02872" fgcolor="#000000" bgcolor="#BFFFBF"
-             type="rectangle" x="220" y="1277" width="46" height="17"/>
+             type="rectangle" x="220" y="1266" width="46" height="17"/>
     </entry>
     <entry id="275" name="roa:Pd630_LPD01972 roa:Pd630_LPD02252 roa:Pd630_LPD02996 roa:Pd630_LPD03480 roa:Pd630_LPD03602 roa:Pd630_LPD03605 roa:Pd630_LPD04039 roa:Pd630_LPD04040 roa:Pd630_LPD04049 roa:Pd630_LPD04096 roa:Pd630_LPD04661 roa:Pd630_LPD05741 roa:Pd630_LPD07203" type="gene" reaction="rn:R13459"
         link="https://www.kegg.jp/dbget-bin/www_bget?roa:Pd630_LPD01972+roa:Pd630_LPD02252+roa:Pd630_LPD02996+roa:Pd630_LPD03480+roa:Pd630_LPD03602+roa:Pd630_LPD03605+roa:Pd630_LPD04039+roa:Pd630_LPD04040+roa:Pd630_LPD04049+roa:Pd630_LPD04096+roa:Pd630_LPD04661+roa:Pd630_LPD05741+roa:Pd630_LPD07203">
@@ -330,6 +330,11 @@
         <graphics name="K15406..." fgcolor="#000000" bgcolor="#FFFFFF"
              type="rectangle" x="375" y="1343" width="46" height="17"/>
     </entry>
+    <entry id="413" name="ko:K28384" type="ortholog" reaction="rn:R13539"
+        link="https://www.kegg.jp/dbget-bin/www_bget?K28384">
+        <graphics name="K28384" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="rectangle" x="220" y="1287" width="46" height="17"/>
+    </entry>
     <relation entry1="246" entry2="391" type="maplink">
         <subtype name="compound" value="18"/>
     </relation>
@@ -359,11 +364,11 @@
     </relation>
     <reaction id="275" name="rn:R13459" type="irreversible">
         <substrate id="279" name="cpd:C02843"/>
-        <substrate id="264" name="cpd:C00226"/>
+        <substrate id="264" name="cpd:C00339"/>
         <product id="265" name="cpd:C01629"/>
     </reaction>
-    <reaction id="274" name="rn:R09470" type="irreversible">
+    <reaction id="274" name="rn:R10104" type="irreversible">
         <substrate id="279" name="cpd:C02843"/>
-        <product id="264" name="cpd:C00226"/>
+        <product id="264" name="cpd:C00339"/>
     </reaction>
 </pathway>

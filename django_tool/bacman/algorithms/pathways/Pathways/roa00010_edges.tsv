@@ -1,688 +1,695 @@
-enzyme_name	EC	source	target	color
-2,3-bisphosphoglycerate-dependent phosphoglycerate mutase	5.4.2.11	2-Phospho-D-glycerate	3-Phospho-D-glycerate	green
-2,3-bisphosphoglycerate-dependent phosphoglycerate mutase	5.4.2.11	3-Phospho-D-glycerate	2-Phospho-D-glycerate	green
-2,3-bisphosphoglycerate-independent phosphoglycerate mutase	5.4.2.12	2-Phospho-D-glycerate	3-Phospho-D-glycerate	white
-2,3-bisphosphoglycerate-independent phosphoglycerate mutase	5.4.2.12	3-Phospho-D-glycerate	2-Phospho-D-glycerate	white
-2-oxoglutarate/2-oxoacid ferredoxin oxidoreductase subunit alpha	1.2.7.3	Acetyl-CoA	CoA	green
-2-oxoglutarate/2-oxoacid ferredoxin oxidoreductase subunit alpha	1.2.7.3	Acetyl-CoA	Oxidized ferredoxin	green
-2-oxoglutarate/2-oxoacid ferredoxin oxidoreductase subunit alpha	1.2.7.3	Acetyl-CoA	Pyruvate	green
-2-oxoglutarate/2-oxoacid ferredoxin oxidoreductase subunit alpha	1.2.7.3	CO2	CoA	green
-2-oxoglutarate/2-oxoacid ferredoxin oxidoreductase subunit alpha	1.2.7.3	CO2	Oxidized ferredoxin	green
-2-oxoglutarate/2-oxoacid ferredoxin oxidoreductase subunit alpha	1.2.7.3	CO2	Pyruvate	green
-2-oxoglutarate/2-oxoacid ferredoxin oxidoreductase subunit alpha	1.2.7.3	H+	CoA	green
-2-oxoglutarate/2-oxoacid ferredoxin oxidoreductase subunit alpha	1.2.7.3	H+	Oxidized ferredoxin	green
-2-oxoglutarate/2-oxoacid ferredoxin oxidoreductase subunit alpha	1.2.7.3	H+	Pyruvate	green
-2-oxoglutarate/2-oxoacid ferredoxin oxidoreductase subunit alpha	1.2.7.3	Reduced ferredoxin	CoA	green
-2-oxoglutarate/2-oxoacid ferredoxin oxidoreductase subunit alpha	1.2.7.3	Reduced ferredoxin	Oxidized ferredoxin	green
-2-oxoglutarate/2-oxoacid ferredoxin oxidoreductase subunit alpha	1.2.7.3	Reduced ferredoxin	Pyruvate	green
-2-oxoglutarate/2-oxoacid ferredoxin oxidoreductase subunit beta	1.2.7.3	Acetyl-CoA	CoA	green
-2-oxoglutarate/2-oxoacid ferredoxin oxidoreductase subunit beta	1.2.7.3	Acetyl-CoA	Oxidized ferredoxin	green
-2-oxoglutarate/2-oxoacid ferredoxin oxidoreductase subunit beta	1.2.7.3	Acetyl-CoA	Pyruvate	green
-2-oxoglutarate/2-oxoacid ferredoxin oxidoreductase subunit beta	1.2.7.3	CO2	CoA	green
-2-oxoglutarate/2-oxoacid ferredoxin oxidoreductase subunit beta	1.2.7.3	CO2	Oxidized ferredoxin	green
-2-oxoglutarate/2-oxoacid ferredoxin oxidoreductase subunit beta	1.2.7.3	CO2	Pyruvate	green
-2-oxoglutarate/2-oxoacid ferredoxin oxidoreductase subunit beta	1.2.7.3	H+	CoA	green
-2-oxoglutarate/2-oxoacid ferredoxin oxidoreductase subunit beta	1.2.7.3	H+	Oxidized ferredoxin	green
-2-oxoglutarate/2-oxoacid ferredoxin oxidoreductase subunit beta	1.2.7.3	H+	Pyruvate	green
-2-oxoglutarate/2-oxoacid ferredoxin oxidoreductase subunit beta	1.2.7.3	Reduced ferredoxin	CoA	green
-2-oxoglutarate/2-oxoacid ferredoxin oxidoreductase subunit beta	1.2.7.3	Reduced ferredoxin	Oxidized ferredoxin	green
-2-oxoglutarate/2-oxoacid ferredoxin oxidoreductase subunit beta	1.2.7.3	Reduced ferredoxin	Pyruvate	green
-2-oxoisovalerate/pyruvate ferredoxin oxidoreductase gamma subunit	1.2.7.7	Acetyl-CoA	CoA	white
-2-oxoisovalerate/pyruvate ferredoxin oxidoreductase gamma subunit	1.2.7.7	Acetyl-CoA	Oxidized ferredoxin	white
-2-oxoisovalerate/pyruvate ferredoxin oxidoreductase gamma subunit	1.2.7.7	Acetyl-CoA	Pyruvate	white
-2-oxoisovalerate/pyruvate ferredoxin oxidoreductase gamma subunit	1.2.7.7	CO2	CoA	white
-2-oxoisovalerate/pyruvate ferredoxin oxidoreductase gamma subunit	1.2.7.7	CO2	Oxidized ferredoxin	white
-2-oxoisovalerate/pyruvate ferredoxin oxidoreductase gamma subunit	1.2.7.7	CO2	Pyruvate	white
-2-oxoisovalerate/pyruvate ferredoxin oxidoreductase gamma subunit	1.2.7.7	CoA	Acetyl-CoA	white
-2-oxoisovalerate/pyruvate ferredoxin oxidoreductase gamma subunit	1.2.7.7	CoA	CO2	white
-2-oxoisovalerate/pyruvate ferredoxin oxidoreductase gamma subunit	1.2.7.7	CoA	H+	white
-2-oxoisovalerate/pyruvate ferredoxin oxidoreductase gamma subunit	1.2.7.7	CoA	Reduced ferredoxin	white
-2-oxoisovalerate/pyruvate ferredoxin oxidoreductase gamma subunit	1.2.7.7	H+	CoA	white
-2-oxoisovalerate/pyruvate ferredoxin oxidoreductase gamma subunit	1.2.7.7	H+	Oxidized ferredoxin	white
-2-oxoisovalerate/pyruvate ferredoxin oxidoreductase gamma subunit	1.2.7.7	H+	Pyruvate	white
-2-oxoisovalerate/pyruvate ferredoxin oxidoreductase gamma subunit	1.2.7.7	Oxidized ferredoxin	Acetyl-CoA	white
-2-oxoisovalerate/pyruvate ferredoxin oxidoreductase gamma subunit	1.2.7.7	Oxidized ferredoxin	CO2	white
-2-oxoisovalerate/pyruvate ferredoxin oxidoreductase gamma subunit	1.2.7.7	Oxidized ferredoxin	H+	white
-2-oxoisovalerate/pyruvate ferredoxin oxidoreductase gamma subunit	1.2.7.7	Oxidized ferredoxin	Reduced ferredoxin	white
-2-oxoisovalerate/pyruvate ferredoxin oxidoreductase gamma subunit	1.2.7.7	Pyruvate	Acetyl-CoA	white
-2-oxoisovalerate/pyruvate ferredoxin oxidoreductase gamma subunit	1.2.7.7	Pyruvate	CO2	white
-2-oxoisovalerate/pyruvate ferredoxin oxidoreductase gamma subunit	1.2.7.7	Pyruvate	H+	white
-2-oxoisovalerate/pyruvate ferredoxin oxidoreductase gamma subunit	1.2.7.7	Pyruvate	Reduced ferredoxin	white
-2-oxoisovalerate/pyruvate ferredoxin oxidoreductase gamma subunit	1.2.7.7	Reduced ferredoxin	CoA	white
-2-oxoisovalerate/pyruvate ferredoxin oxidoreductase gamma subunit	1.2.7.7	Reduced ferredoxin	Oxidized ferredoxin	white
-2-oxoisovalerate/pyruvate ferredoxin oxidoreductase gamma subunit	1.2.7.7	Reduced ferredoxin	Pyruvate	white
-6-phospho-beta-glucosidase	3.2.1.86	6-Phospho-beta-D-glucosyl-(1,4)-D-glucose	D-Glucose	white
-6-phospho-beta-glucosidase	3.2.1.86	6-Phospho-beta-D-glucosyl-(1,4)-D-glucose	D-Glucose 6-phosphate	white
-6-phospho-beta-glucosidase	3.2.1.86	D-Glucose	6-Phospho-beta-D-glucosyl-(1,4)-D-glucose	white
-6-phospho-beta-glucosidase	3.2.1.86	D-Glucose	H2O	white
-6-phospho-beta-glucosidase	3.2.1.86	D-Glucose 6-phosphate	6-Phospho-beta-D-glucosyl-(1,4)-D-glucose	white
-6-phospho-beta-glucosidase	3.2.1.86	D-Glucose 6-phosphate	H2O	white
-6-phospho-beta-glucosidase	3.2.1.86	H2O	D-Glucose	white
-6-phospho-beta-glucosidase	3.2.1.86	H2O	D-Glucose 6-phosphate	white
-ADP-dependent glucokinase	2.7.1.147	ADP	AMP	white
-ADP-dependent glucokinase	2.7.1.147	ADP	D-Glucose 6-phosphate	white
-ADP-dependent glucokinase	2.7.1.147	AMP	ADP	white
-ADP-dependent glucokinase	2.7.1.147	AMP	D-Glucose	white
-ADP-dependent glucokinase	2.7.1.147	D-Glucose	AMP	white
-ADP-dependent glucokinase	2.7.1.147	D-Glucose	D-Glucose 6-phosphate	white
-ADP-dependent glucokinase	2.7.1.147	D-Glucose 6-phosphate	ADP	white
-ADP-dependent glucokinase	2.7.1.147	D-Glucose 6-phosphate	D-Glucose	white
-ADP-dependent phosphofructokinase/glucokinase	2.7.1.146	ADP	AMP	white
-ADP-dependent phosphofructokinase/glucokinase	2.7.1.146	ADP	D-Fructose 1,6-bisphosphate	white
-ADP-dependent phosphofructokinase/glucokinase	2.7.1.146	AMP	ADP	white
-ADP-dependent phosphofructokinase/glucokinase	2.7.1.146	AMP	D-Fructose 6-phosphate	white
-ADP-dependent phosphofructokinase/glucokinase	2.7.1.146	D-Fructose 1,6-bisphosphate	ADP	white
-ADP-dependent phosphofructokinase/glucokinase	2.7.1.146	D-Fructose 1,6-bisphosphate	D-Fructose 6-phosphate	white
-ADP-dependent phosphofructokinase/glucokinase	2.7.1.146	D-Fructose 6-phosphate	AMP	white
-ADP-dependent phosphofructokinase/glucokinase	2.7.1.146	D-Fructose 6-phosphate	D-Fructose 1,6-bisphosphate	white
-ATP-dependent phosphofructokinase / diphosphate-dependent phosphofructokinase	2.7.1.11	ATP	ADP	green
-ATP-dependent phosphofructokinase / diphosphate-dependent phosphofructokinase	2.7.1.11	ATP	D-Fructose 1,6-bisphosphate	green
-ATP-dependent phosphofructokinase / diphosphate-dependent phosphofructokinase	2.7.1.11	D-Fructose 1,6-bisphosphate	D-Fructose 6-phosphate	green
-ATP-dependent phosphofructokinase / diphosphate-dependent phosphofructokinase	2.7.1.11	D-Fructose 1,6-bisphosphate	Diphosphate	green
-ATP-dependent phosphofructokinase / diphosphate-dependent phosphofructokinase	2.7.1.11	D-Fructose 6-phosphate	ADP	green
-ATP-dependent phosphofructokinase / diphosphate-dependent phosphofructokinase	2.7.1.11	D-Fructose 6-phosphate	D-Fructose 1,6-bisphosphate	green
-ATP-dependent phosphofructokinase / diphosphate-dependent phosphofructokinase	2.7.1.11	D-Fructose 6-phosphate	Orthophosphate	green
-ATP-dependent phosphofructokinase / diphosphate-dependent phosphofructokinase	2.7.1.11	Diphosphate	D-Fructose 1,6-bisphosphate	green
-ATP-dependent phosphofructokinase / diphosphate-dependent phosphofructokinase	2.7.1.11	Diphosphate	Orthophosphate	green
-ATP-dependent phosphofructokinase / diphosphate-dependent phosphofructokinase	2.7.1.11	Orthophosphate	D-Fructose 6-phosphate	green
-ATP-dependent phosphofructokinase / diphosphate-dependent phosphofructokinase	2.7.1.11	Orthophosphate	Diphosphate	green
-L-lactate dehydrogenase	1.1.1.27	(S)-Lactate	H+	white
-L-lactate dehydrogenase	1.1.1.27	(S)-Lactate	NADH	white
-L-lactate dehydrogenase	1.1.1.27	(S)-Lactate	Pyruvate	white
-L-lactate dehydrogenase	1.1.1.27	H+	(S)-Lactate	white
-L-lactate dehydrogenase	1.1.1.27	H+	NAD+	white
-L-lactate dehydrogenase	1.1.1.27	NAD+	H+	white
-L-lactate dehydrogenase	1.1.1.27	NAD+	NADH	white
-L-lactate dehydrogenase	1.1.1.27	NAD+	Pyruvate	white
-L-lactate dehydrogenase	1.1.1.27	NADH	(S)-Lactate	white
-L-lactate dehydrogenase	1.1.1.27	NADH	NAD+	white
-L-lactate dehydrogenase	1.1.1.27	Pyruvate	(S)-Lactate	white
-L-lactate dehydrogenase	1.1.1.27	Pyruvate	NAD+	white
-S-(hydroxymethyl)glutathione dehydrogenase / alcohol dehydrogenase	1.1.1.284	Acetaldehyde	Ethanol	green
-S-(hydroxymethyl)glutathione dehydrogenase / alcohol dehydrogenase	1.1.1.284	Acetaldehyde	NAD+	green
-S-(hydroxymethyl)glutathione dehydrogenase / alcohol dehydrogenase	1.1.1.284	Ethanol	Acetaldehyde	green
-S-(hydroxymethyl)glutathione dehydrogenase / alcohol dehydrogenase	1.1.1.284	Ethanol	H+	green
-S-(hydroxymethyl)glutathione dehydrogenase / alcohol dehydrogenase	1.1.1.284	Ethanol	NADH	green
-S-(hydroxymethyl)glutathione dehydrogenase / alcohol dehydrogenase	1.1.1.284	H+	Ethanol	green
-S-(hydroxymethyl)glutathione dehydrogenase / alcohol dehydrogenase	1.1.1.284	H+	NAD+	green
-S-(hydroxymethyl)glutathione dehydrogenase / alcohol dehydrogenase	1.1.1.284	NAD+	Acetaldehyde	green
-S-(hydroxymethyl)glutathione dehydrogenase / alcohol dehydrogenase	1.1.1.284	NAD+	H+	green
-S-(hydroxymethyl)glutathione dehydrogenase / alcohol dehydrogenase	1.1.1.284	NAD+	NADH	green
-S-(hydroxymethyl)glutathione dehydrogenase / alcohol dehydrogenase	1.1.1.284	NADH	Ethanol	green
-S-(hydroxymethyl)glutathione dehydrogenase / alcohol dehydrogenase	1.1.1.284	NADH	NAD+	green
-acetate---CoA ligase (ADP-forming)	6.2.1.13	ATP	ADP	green
-acetate---CoA ligase (ADP-forming)	6.2.1.13	ATP	Acetyl-CoA	green
-acetate---CoA ligase (ADP-forming)	6.2.1.13	ATP	Orthophosphate	green
-acetate---CoA ligase (ADP-forming)	6.2.1.13	Acetate	ADP	green
-acetate---CoA ligase (ADP-forming)	6.2.1.13	Acetate	Acetyl-CoA	green
-acetate---CoA ligase (ADP-forming)	6.2.1.13	Acetate	Orthophosphate	green
-acetate---CoA ligase (ADP-forming)	6.2.1.13	CoA	ADP	green
-acetate---CoA ligase (ADP-forming)	6.2.1.13	CoA	Acetyl-CoA	green
-acetate---CoA ligase (ADP-forming)	6.2.1.13	CoA	Orthophosphate	green
-acetyl-CoA synthetase	6.2.1.1	ATP	AMP	green
-acetyl-CoA synthetase	6.2.1.1	ATP	Acetyl-CoA	green
-acetyl-CoA synthetase	6.2.1.1	ATP	Diphosphate	green
-acetyl-CoA synthetase	6.2.1.1	Acetate	AMP	green
-acetyl-CoA synthetase	6.2.1.1	Acetate	Acetyl-CoA	green
-acetyl-CoA synthetase	6.2.1.1	Acetate	Diphosphate	green
-acetyl-CoA synthetase	6.2.1.1	CoA	AMP	green
-acetyl-CoA synthetase	6.2.1.1	CoA	Acetyl-CoA	green
-acetyl-CoA synthetase	6.2.1.1	CoA	Diphosphate	green
-alcohol dehydrogenase	1.1.1.1	Acetaldehyde	Ethanol	green
-alcohol dehydrogenase	1.1.1.1	Acetaldehyde	NAD+	green
-alcohol dehydrogenase	1.1.1.1	Aldehyde	NAD+	white
-alcohol dehydrogenase	1.1.1.1	Aldehyde	Primary alcohol	white
-alcohol dehydrogenase	1.1.1.1	Ethanol	Acetaldehyde	green
-alcohol dehydrogenase	1.1.1.1	Ethanol	H+	green
-alcohol dehydrogenase	1.1.1.1	Ethanol	NADH	green
-alcohol dehydrogenase	1.1.1.1	H+	Ethanol	green
-alcohol dehydrogenase	1.1.1.1	H+	NAD+	green
-alcohol dehydrogenase	1.1.1.1	H+	NAD+	white
-alcohol dehydrogenase	1.1.1.1	H+	Primary alcohol	white
-alcohol dehydrogenase	1.1.1.1	NAD+	Acetaldehyde	green
-alcohol dehydrogenase	1.1.1.1	NAD+	Aldehyde	white
-alcohol dehydrogenase	1.1.1.1	NAD+	H+	green
-alcohol dehydrogenase	1.1.1.1	NAD+	H+	white
-alcohol dehydrogenase	1.1.1.1	NAD+	NADH	green
-alcohol dehydrogenase	1.1.1.1	NAD+	NADH	white
-alcohol dehydrogenase	1.1.1.1	NADH	Ethanol	green
-alcohol dehydrogenase	1.1.1.1	NADH	NAD+	green
-alcohol dehydrogenase	1.1.1.1	NADH	NAD+	white
-alcohol dehydrogenase	1.1.1.1	NADH	Primary alcohol	white
-alcohol dehydrogenase	1.1.1.1	Primary alcohol	Aldehyde	white
-alcohol dehydrogenase	1.1.1.1	Primary alcohol	H+	white
-alcohol dehydrogenase	1.1.1.1	Primary alcohol	NADH	white
-alcohol dehydrogenase (NADP+)	1.1.1.2	Acetaldehyde	Ethanol	green
-alcohol dehydrogenase (NADP+)	1.1.1.2	Acetaldehyde	NADP+	green
-alcohol dehydrogenase (NADP+)	1.1.1.2	Ethanol	Acetaldehyde	green
-alcohol dehydrogenase (NADP+)	1.1.1.2	Ethanol	H+	green
-alcohol dehydrogenase (NADP+)	1.1.1.2	Ethanol	NADPH	green
-alcohol dehydrogenase (NADP+)	1.1.1.2	H+	Ethanol	green
-alcohol dehydrogenase (NADP+)	1.1.1.2	H+	NADP+	green
-alcohol dehydrogenase (NADP+)	1.1.1.2	NADP+	Acetaldehyde	green
-alcohol dehydrogenase (NADP+)	1.1.1.2	NADP+	H+	green
-alcohol dehydrogenase (NADP+)	1.1.1.2	NADP+	NADPH	green
-alcohol dehydrogenase (NADP+)	1.1.1.2	NADPH	Ethanol	green
-alcohol dehydrogenase (NADP+)	1.1.1.2	NADPH	NADP+	green
-alcohol dehydrogenase (cytochrome c)	1.1.2.8	2-Propyn-1-ol	2-Propynal	white
-alcohol dehydrogenase (cytochrome c)	1.1.2.8	2-Propyn-1-ol	Ferrocytochrome c	white
-alcohol dehydrogenase (cytochrome c)	1.1.2.8	2-Propyn-1-ol	H+	white
-alcohol dehydrogenase (cytochrome c)	1.1.2.8	2-Propynal	2-Propyn-1-ol	white
-alcohol dehydrogenase (cytochrome c)	1.1.2.8	2-Propynal	Ferricytochrome c	white
-alcohol dehydrogenase (cytochrome c)	1.1.2.8	Ferricytochrome c	2-Propynal	white
-alcohol dehydrogenase (cytochrome c)	1.1.2.8	Ferricytochrome c	Ferrocytochrome c	white
-alcohol dehydrogenase (cytochrome c)	1.1.2.8	Ferricytochrome c	H+	white
-alcohol dehydrogenase (cytochrome c)	1.1.2.8	Ferrocytochrome c	2-Propyn-1-ol	white
-alcohol dehydrogenase (cytochrome c)	1.1.2.8	Ferrocytochrome c	Ferricytochrome c	white
-alcohol dehydrogenase (cytochrome c)	1.1.2.8	H+	2-Propyn-1-ol	white
-alcohol dehydrogenase (cytochrome c)	1.1.2.8	H+	Ferricytochrome c	white
-alcohol dehydrogenase (quinone), cytochrome c subunit	1.1.5.5	Acetaldehyde	Ethanol	white
-alcohol dehydrogenase (quinone), cytochrome c subunit	1.1.5.5	Acetaldehyde	Ubiquinone	white
-alcohol dehydrogenase (quinone), cytochrome c subunit	1.1.5.5	Ethanol	Acetaldehyde	white
-alcohol dehydrogenase (quinone), cytochrome c subunit	1.1.5.5	Ethanol	Ubiquinol	white
-alcohol dehydrogenase (quinone), cytochrome c subunit	1.1.5.5	Ubiquinol	Ethanol	white
-alcohol dehydrogenase (quinone), cytochrome c subunit	1.1.5.5	Ubiquinol	Ubiquinone	white
-alcohol dehydrogenase (quinone), cytochrome c subunit	1.1.5.5	Ubiquinone	Acetaldehyde	white
-alcohol dehydrogenase (quinone), cytochrome c subunit	1.1.5.5	Ubiquinone	Ubiquinol	white
-alcohol dehydrogenase (quinone), dehydrogenase subunit	1.1.5.5	Acetaldehyde	Ethanol	white
-alcohol dehydrogenase (quinone), dehydrogenase subunit	1.1.5.5	Acetaldehyde	Ubiquinone	white
-alcohol dehydrogenase (quinone), dehydrogenase subunit	1.1.5.5	Ethanol	Acetaldehyde	white
-alcohol dehydrogenase (quinone), dehydrogenase subunit	1.1.5.5	Ethanol	Ubiquinol	white
-alcohol dehydrogenase (quinone), dehydrogenase subunit	1.1.5.5	Ubiquinol	Ethanol	white
-alcohol dehydrogenase (quinone), dehydrogenase subunit	1.1.5.5	Ubiquinol	Ubiquinone	white
-alcohol dehydrogenase (quinone), dehydrogenase subunit	1.1.5.5	Ubiquinone	Acetaldehyde	white
-alcohol dehydrogenase (quinone), dehydrogenase subunit	1.1.5.5	Ubiquinone	Ubiquinol	white
-alcohol dehydrogenase, propanol-preferring	1.1.1.1	Acetaldehyde	Ethanol	green
-alcohol dehydrogenase, propanol-preferring	1.1.1.1	Acetaldehyde	NAD+	green
-alcohol dehydrogenase, propanol-preferring	1.1.1.1	Ethanol	Acetaldehyde	green
-alcohol dehydrogenase, propanol-preferring	1.1.1.1	Ethanol	H+	green
-alcohol dehydrogenase, propanol-preferring	1.1.1.1	Ethanol	NADH	green
-alcohol dehydrogenase, propanol-preferring	1.1.1.1	H+	Ethanol	green
-alcohol dehydrogenase, propanol-preferring	1.1.1.1	H+	NAD+	green
-alcohol dehydrogenase, propanol-preferring	1.1.1.1	NAD+	Acetaldehyde	green
-alcohol dehydrogenase, propanol-preferring	1.1.1.1	NAD+	H+	green
-alcohol dehydrogenase, propanol-preferring	1.1.1.1	NAD+	NADH	green
-alcohol dehydrogenase, propanol-preferring	1.1.1.1	NADH	Ethanol	green
-alcohol dehydrogenase, propanol-preferring	1.1.1.1	NADH	NAD+	green
-aldehyde dehydrogenase	1.2.1.-	Acetaldehyde	Acetate	green
-aldehyde dehydrogenase	1.2.1.-	Acetaldehyde	H+	green
-aldehyde dehydrogenase	1.2.1.-	Acetaldehyde	NADPH	green
-aldehyde dehydrogenase	1.2.1.-	Acetate	Acetaldehyde	green
-aldehyde dehydrogenase	1.2.1.-	Acetate	H2O	green
-aldehyde dehydrogenase	1.2.1.-	Acetate	NADP+	green
-aldehyde dehydrogenase	1.2.1.-	H+	Acetaldehyde	green
-aldehyde dehydrogenase	1.2.1.-	H+	H2O	green
-aldehyde dehydrogenase	1.2.1.-	H+	NADP+	green
-aldehyde dehydrogenase	1.2.1.-	H2O	Acetate	green
-aldehyde dehydrogenase	1.2.1.-	H2O	H+	green
-aldehyde dehydrogenase	1.2.1.-	H2O	NADPH	green
-aldehyde dehydrogenase	1.2.1.-	NADP+	Acetate	green
-aldehyde dehydrogenase	1.2.1.-	NADP+	H+	green
-aldehyde dehydrogenase	1.2.1.-	NADP+	NADPH	green
-aldehyde dehydrogenase	1.2.1.-	NADPH	Acetaldehyde	green
-aldehyde dehydrogenase	1.2.1.-	NADPH	H2O	green
-aldehyde dehydrogenase	1.2.1.-	NADPH	NADP+	green
-aldehyde dehydrogenase (NAD(P)+)	1.2.1.5	Acetaldehyde	Acetate	green
-aldehyde dehydrogenase (NAD(P)+)	1.2.1.5	Acetaldehyde	H+	green
-aldehyde dehydrogenase (NAD(P)+)	1.2.1.5	Acetaldehyde	NADPH	green
-aldehyde dehydrogenase (NAD(P)+)	1.2.1.5	Acetate	Acetaldehyde	green
-aldehyde dehydrogenase (NAD(P)+)	1.2.1.5	Acetate	H2O	green
-aldehyde dehydrogenase (NAD(P)+)	1.2.1.5	Acetate	NADP+	green
-aldehyde dehydrogenase (NAD(P)+)	1.2.1.5	H+	Acetaldehyde	green
-aldehyde dehydrogenase (NAD(P)+)	1.2.1.5	H+	H2O	green
-aldehyde dehydrogenase (NAD(P)+)	1.2.1.5	H+	NADP+	green
-aldehyde dehydrogenase (NAD(P)+)	1.2.1.5	H2O	Acetate	green
-aldehyde dehydrogenase (NAD(P)+)	1.2.1.5	H2O	H+	green
-aldehyde dehydrogenase (NAD(P)+)	1.2.1.5	H2O	NADPH	green
-aldehyde dehydrogenase (NAD(P)+)	1.2.1.5	NADP+	Acetate	green
-aldehyde dehydrogenase (NAD(P)+)	1.2.1.5	NADP+	H+	green
-aldehyde dehydrogenase (NAD(P)+)	1.2.1.5	NADP+	NADPH	green
-aldehyde dehydrogenase (NAD(P)+)	1.2.1.5	NADPH	Acetaldehyde	green
-aldehyde dehydrogenase (NAD(P)+)	1.2.1.5	NADPH	H2O	green
-aldehyde dehydrogenase (NAD(P)+)	1.2.1.5	NADPH	NADP+	green
-aldehyde dehydrogenase (NAD+)	1.2.1.3	Acetaldehyde	Acetate	green
-aldehyde dehydrogenase (NAD+)	1.2.1.3	Acetaldehyde	H+	green
-aldehyde dehydrogenase (NAD+)	1.2.1.3	Acetaldehyde	NADH	green
-aldehyde dehydrogenase (NAD+)	1.2.1.3	Acetate	Acetaldehyde	green
-aldehyde dehydrogenase (NAD+)	1.2.1.3	Acetate	H2O	green
-aldehyde dehydrogenase (NAD+)	1.2.1.3	Acetate	NAD+	green
-aldehyde dehydrogenase (NAD+)	1.2.1.3	H+	Acetaldehyde	green
-aldehyde dehydrogenase (NAD+)	1.2.1.3	H+	H2O	green
-aldehyde dehydrogenase (NAD+)	1.2.1.3	H+	NAD+	green
-aldehyde dehydrogenase (NAD+)	1.2.1.3	H2O	Acetate	green
-aldehyde dehydrogenase (NAD+)	1.2.1.3	H2O	H+	green
-aldehyde dehydrogenase (NAD+)	1.2.1.3	H2O	NADH	green
-aldehyde dehydrogenase (NAD+)	1.2.1.3	NAD+	Acetate	green
-aldehyde dehydrogenase (NAD+)	1.2.1.3	NAD+	H+	green
-aldehyde dehydrogenase (NAD+)	1.2.1.3	NAD+	NADH	green
-aldehyde dehydrogenase (NAD+)	1.2.1.3	NADH	Acetaldehyde	green
-aldehyde dehydrogenase (NAD+)	1.2.1.3	NADH	H2O	green
-aldehyde dehydrogenase (NAD+)	1.2.1.3	NADH	NAD+	green
-aldose 1-epimerase	5.1.3.3	alpha-D-Glucose	beta-D-Glucose	green
-aldose 1-epimerase	5.1.3.3	beta-D-Glucose	alpha-D-Glucose	green
-bisphosphoglycerate/phosphoglycerate mutase	5.4.2.4	2,3-Bisphospho-D-glycerate	3-Phospho-D-glycerate	white
-bisphosphoglycerate/phosphoglycerate mutase	5.4.2.4	2,3-Bisphospho-D-glycerate	Protein N(tau)-phospho-L-histidine	white
-bisphosphoglycerate/phosphoglycerate mutase	5.4.2.4	3-Phospho-D-glycerate	2,3-Bisphospho-D-glycerate	white
-bisphosphoglycerate/phosphoglycerate mutase	5.4.2.4	3-Phospho-D-glycerate	Protein histidine	white
-bisphosphoglycerate/phosphoglycerate mutase	5.4.2.4	Protein N(tau)-phospho-L-histidine	2,3-Bisphospho-D-glycerate	white
-bisphosphoglycerate/phosphoglycerate mutase	5.4.2.4	Protein N(tau)-phospho-L-histidine	Protein histidine	white
-bisphosphoglycerate/phosphoglycerate mutase	5.4.2.4	Protein histidine	3-Phospho-D-glycerate	white
-bisphosphoglycerate/phosphoglycerate mutase	5.4.2.4	Protein histidine	Protein N(tau)-phospho-L-histidine	white
-dihydrolipoyl dehydrogenase	1.8.1.4	Enzyme N6-(dihydrolipoyl)lysine	Enzyme N6-(lipoyl)lysine	green
-dihydrolipoyl dehydrogenase	1.8.1.4	Enzyme N6-(dihydrolipoyl)lysine	H+	green
-dihydrolipoyl dehydrogenase	1.8.1.4	Enzyme N6-(dihydrolipoyl)lysine	NADH	green
-dihydrolipoyl dehydrogenase	1.8.1.4	Enzyme N6-(lipoyl)lysine	Enzyme N6-(dihydrolipoyl)lysine	green
-dihydrolipoyl dehydrogenase	1.8.1.4	Enzyme N6-(lipoyl)lysine	NAD+	green
-dihydrolipoyl dehydrogenase	1.8.1.4	H+	Enzyme N6-(dihydrolipoyl)lysine	green
-dihydrolipoyl dehydrogenase	1.8.1.4	H+	NAD+	green
-dihydrolipoyl dehydrogenase	1.8.1.4	NAD+	Enzyme N6-(lipoyl)lysine	green
-dihydrolipoyl dehydrogenase	1.8.1.4	NAD+	H+	green
-dihydrolipoyl dehydrogenase	1.8.1.4	NAD+	NADH	green
-dihydrolipoyl dehydrogenase	1.8.1.4	NADH	Enzyme N6-(dihydrolipoyl)lysine	green
-dihydrolipoyl dehydrogenase	1.8.1.4	NADH	NAD+	green
-enolase 1/2/3	4.2.1.11	2-Phospho-D-glycerate	H2O	green
-enolase 1/2/3	4.2.1.11	2-Phospho-D-glycerate	Phosphoenolpyruvate	green
-enolase 1/2/3	4.2.1.11	H2O	2-Phospho-D-glycerate	green
-enolase 1/2/3	4.2.1.11	Phosphoenolpyruvate	2-Phospho-D-glycerate	green
-fructose-1,6-bisphosphatase II	3.1.3.11	D-Fructose 1,6-bisphosphate	D-Fructose 6-phosphate	green
-fructose-1,6-bisphosphatase II	3.1.3.11	D-Fructose 1,6-bisphosphate	Orthophosphate	green
-fructose-1,6-bisphosphatase II	3.1.3.11	H2O	D-Fructose 6-phosphate	green
-fructose-1,6-bisphosphatase II	3.1.3.11	H2O	Orthophosphate	green
-fructose-bisphosphate aldolase, class II	4.1.2.13	D-Fructose 1,6-bisphosphate	D-Glyceraldehyde 3-phosphate	green
-fructose-bisphosphate aldolase, class II	4.1.2.13	D-Fructose 1,6-bisphosphate	Glycerone phosphate	green
-fructose-bisphosphate aldolase, class II	4.1.2.13	D-Glyceraldehyde 3-phosphate	D-Fructose 1,6-bisphosphate	green
-fructose-bisphosphate aldolase, class II	4.1.2.13	Glycerone phosphate	D-Fructose 1,6-bisphosphate	green
-glucokinase	2.7.1.2	ATP	ADP	green
-glucokinase	2.7.1.2	ATP	alpha-D-Glucose 6-phosphate	green
-glucokinase	2.7.1.2	ATP	beta-D-Glucose 6-phosphate	green
-glucokinase	2.7.1.2	alpha-D-Glucose	ADP	green
-glucokinase	2.7.1.2	alpha-D-Glucose	alpha-D-Glucose 6-phosphate	green
-glucokinase	2.7.1.2	beta-D-Glucose	ADP	green
-glucokinase	2.7.1.2	beta-D-Glucose	beta-D-Glucose 6-phosphate	green
-glucose-1-phosphatase	3.1.3.10	D-Glucose 1-phosphate	Orthophosphate	white
-glucose-1-phosphatase	3.1.3.10	D-Glucose 1-phosphate	alpha-D-Glucose	white
-glucose-1-phosphatase	3.1.3.10	H2O	Orthophosphate	white
-glucose-1-phosphatase	3.1.3.10	H2O	alpha-D-Glucose	white
-glucose-1-phosphatase	3.1.3.10	Orthophosphate	D-Glucose 1-phosphate	white
-glucose-1-phosphatase	3.1.3.10	Orthophosphate	H2O	white
-glucose-1-phosphatase	3.1.3.10	alpha-D-Glucose	D-Glucose 1-phosphate	white
-glucose-1-phosphatase	3.1.3.10	alpha-D-Glucose	H2O	white
-glucose-6-phosphatase	3.1.3.9	D-Glucose	D-Glucose 6-phosphate	white
-glucose-6-phosphatase	3.1.3.9	D-Glucose	H2O	white
-glucose-6-phosphatase	3.1.3.9	D-Glucose 6-phosphate	D-Glucose	white
-glucose-6-phosphatase	3.1.3.9	D-Glucose 6-phosphate	Orthophosphate	white
-glucose-6-phosphatase	3.1.3.9	H2O	D-Glucose	white
-glucose-6-phosphatase	3.1.3.9	H2O	Orthophosphate	white
-glucose-6-phosphatase	3.1.3.9	Orthophosphate	D-Glucose 6-phosphate	white
-glucose-6-phosphatase	3.1.3.9	Orthophosphate	H2O	white
-glucose-6-phosphate 1-epimerase	5.1.3.15	alpha-D-Glucose 6-phosphate	beta-D-Glucose 6-phosphate	white
-glucose-6-phosphate 1-epimerase	5.1.3.15	beta-D-Glucose 6-phosphate	alpha-D-Glucose 6-phosphate	white
-glucose-6-phosphate isomerase	5.3.1.9	D-Fructose 6-phosphate	alpha-D-Glucose 6-phosphate	green
-glucose-6-phosphate isomerase	5.3.1.9	alpha-D-Glucose 6-phosphate	D-Fructose 6-phosphate	green
-glucose-6-phosphate isomerase	5.3.1.9	alpha-D-Glucose 6-phosphate	beta-D-Glucose 6-phosphate	green
-glucose-6-phosphate isomerase	5.3.1.9	beta-D-Glucose 6-phosphate	alpha-D-Glucose 6-phosphate	green
-glyceraldehyde 3-phosphate dehydrogenase (phosphorylating)	1.2.1.12	3-Phospho-D-glyceroyl phosphate	D-Glyceraldehyde 3-phosphate	green
-glyceraldehyde 3-phosphate dehydrogenase (phosphorylating)	1.2.1.12	3-Phospho-D-glyceroyl phosphate	NAD+	green
-glyceraldehyde 3-phosphate dehydrogenase (phosphorylating)	1.2.1.12	3-Phospho-D-glyceroyl phosphate	Orthophosphate	green
-glyceraldehyde 3-phosphate dehydrogenase (phosphorylating)	1.2.1.12	D-Glyceraldehyde 3-phosphate	3-Phospho-D-glyceroyl phosphate	green
-glyceraldehyde 3-phosphate dehydrogenase (phosphorylating)	1.2.1.12	D-Glyceraldehyde 3-phosphate	H+	green
-glyceraldehyde 3-phosphate dehydrogenase (phosphorylating)	1.2.1.12	D-Glyceraldehyde 3-phosphate	NADH	green
-glyceraldehyde 3-phosphate dehydrogenase (phosphorylating)	1.2.1.12	H+	D-Glyceraldehyde 3-phosphate	green
-glyceraldehyde 3-phosphate dehydrogenase (phosphorylating)	1.2.1.12	H+	NAD+	green
-glyceraldehyde 3-phosphate dehydrogenase (phosphorylating)	1.2.1.12	H+	Orthophosphate	green
-glyceraldehyde 3-phosphate dehydrogenase (phosphorylating)	1.2.1.12	NAD+	3-Phospho-D-glyceroyl phosphate	green
-glyceraldehyde 3-phosphate dehydrogenase (phosphorylating)	1.2.1.12	NAD+	H+	green
-glyceraldehyde 3-phosphate dehydrogenase (phosphorylating)	1.2.1.12	NAD+	NADH	green
-glyceraldehyde 3-phosphate dehydrogenase (phosphorylating)	1.2.1.12	NADH	D-Glyceraldehyde 3-phosphate	green
-glyceraldehyde 3-phosphate dehydrogenase (phosphorylating)	1.2.1.12	NADH	NAD+	green
-glyceraldehyde 3-phosphate dehydrogenase (phosphorylating)	1.2.1.12	NADH	Orthophosphate	green
-glyceraldehyde 3-phosphate dehydrogenase (phosphorylating)	1.2.1.12	Orthophosphate	3-Phospho-D-glyceroyl phosphate	green
-glyceraldehyde 3-phosphate dehydrogenase (phosphorylating)	1.2.1.12	Orthophosphate	H+	green
-glyceraldehyde 3-phosphate dehydrogenase (phosphorylating)	1.2.1.12	Orthophosphate	NADH	green
-glyceraldehyde-3-phosphate dehydrogenase (NAD(P)+) (phosphorylating)	1.2.1.59	3-Phospho-D-glyceroyl phosphate	D-Glyceraldehyde 3-phosphate	white
-glyceraldehyde-3-phosphate dehydrogenase (NAD(P)+) (phosphorylating)	1.2.1.59	3-Phospho-D-glyceroyl phosphate	NAD+	white
-glyceraldehyde-3-phosphate dehydrogenase (NAD(P)+) (phosphorylating)	1.2.1.59	3-Phospho-D-glyceroyl phosphate	Orthophosphate	white
-glyceraldehyde-3-phosphate dehydrogenase (NAD(P)+) (phosphorylating)	1.2.1.59	D-Glyceraldehyde 3-phosphate	3-Phospho-D-glyceroyl phosphate	white
-glyceraldehyde-3-phosphate dehydrogenase (NAD(P)+) (phosphorylating)	1.2.1.59	D-Glyceraldehyde 3-phosphate	H+	white
-glyceraldehyde-3-phosphate dehydrogenase (NAD(P)+) (phosphorylating)	1.2.1.59	D-Glyceraldehyde 3-phosphate	NADH	white
-glyceraldehyde-3-phosphate dehydrogenase (NAD(P)+) (phosphorylating)	1.2.1.59	H+	D-Glyceraldehyde 3-phosphate	white
-glyceraldehyde-3-phosphate dehydrogenase (NAD(P)+) (phosphorylating)	1.2.1.59	H+	NAD+	white
-glyceraldehyde-3-phosphate dehydrogenase (NAD(P)+) (phosphorylating)	1.2.1.59	H+	Orthophosphate	white
-glyceraldehyde-3-phosphate dehydrogenase (NAD(P)+) (phosphorylating)	1.2.1.59	NAD+	3-Phospho-D-glyceroyl phosphate	white
-glyceraldehyde-3-phosphate dehydrogenase (NAD(P)+) (phosphorylating)	1.2.1.59	NAD+	H+	white
-glyceraldehyde-3-phosphate dehydrogenase (NAD(P)+) (phosphorylating)	1.2.1.59	NAD+	NADH	white
-glyceraldehyde-3-phosphate dehydrogenase (NAD(P)+) (phosphorylating)	1.2.1.59	NADH	D-Glyceraldehyde 3-phosphate	white
-glyceraldehyde-3-phosphate dehydrogenase (NAD(P)+) (phosphorylating)	1.2.1.59	NADH	NAD+	white
-glyceraldehyde-3-phosphate dehydrogenase (NAD(P)+) (phosphorylating)	1.2.1.59	NADH	Orthophosphate	white
-glyceraldehyde-3-phosphate dehydrogenase (NAD(P)+) (phosphorylating)	1.2.1.59	Orthophosphate	3-Phospho-D-glyceroyl phosphate	white
-glyceraldehyde-3-phosphate dehydrogenase (NAD(P)+) (phosphorylating)	1.2.1.59	Orthophosphate	H+	white
-glyceraldehyde-3-phosphate dehydrogenase (NAD(P)+) (phosphorylating)	1.2.1.59	Orthophosphate	NADH	white
-glyceraldehyde-3-phosphate dehydrogenase (NADP+)	1.2.1.9	3-Phospho-D-glycerate	D-Glyceraldehyde 3-phosphate	white
-glyceraldehyde-3-phosphate dehydrogenase (NADP+)	1.2.1.9	3-Phospho-D-glycerate	H2O	white
-glyceraldehyde-3-phosphate dehydrogenase (NADP+)	1.2.1.9	3-Phospho-D-glycerate	NADP+	white
-glyceraldehyde-3-phosphate dehydrogenase (NADP+)	1.2.1.9	D-Glyceraldehyde 3-phosphate	3-Phospho-D-glycerate	white
-glyceraldehyde-3-phosphate dehydrogenase (NADP+)	1.2.1.9	D-Glyceraldehyde 3-phosphate	H+	white
-glyceraldehyde-3-phosphate dehydrogenase (NADP+)	1.2.1.9	D-Glyceraldehyde 3-phosphate	NADPH	white
-glyceraldehyde-3-phosphate dehydrogenase (NADP+)	1.2.1.9	H+	D-Glyceraldehyde 3-phosphate	white
-glyceraldehyde-3-phosphate dehydrogenase (NADP+)	1.2.1.9	H+	H2O	white
-glyceraldehyde-3-phosphate dehydrogenase (NADP+)	1.2.1.9	H+	NADP+	white
-glyceraldehyde-3-phosphate dehydrogenase (NADP+)	1.2.1.9	H2O	3-Phospho-D-glycerate	white
-glyceraldehyde-3-phosphate dehydrogenase (NADP+)	1.2.1.9	H2O	H+	white
-glyceraldehyde-3-phosphate dehydrogenase (NADP+)	1.2.1.9	H2O	NADPH	white
-glyceraldehyde-3-phosphate dehydrogenase (NADP+)	1.2.1.9	NADP+	3-Phospho-D-glycerate	white
-glyceraldehyde-3-phosphate dehydrogenase (NADP+)	1.2.1.9	NADP+	H+	white
-glyceraldehyde-3-phosphate dehydrogenase (NADP+)	1.2.1.9	NADP+	NADPH	white
-glyceraldehyde-3-phosphate dehydrogenase (NADP+)	1.2.1.9	NADPH	D-Glyceraldehyde 3-phosphate	white
-glyceraldehyde-3-phosphate dehydrogenase (NADP+)	1.2.1.9	NADPH	H2O	white
-glyceraldehyde-3-phosphate dehydrogenase (NADP+)	1.2.1.9	NADPH	NADP+	white
-glyceraldehyde-3-phosphate dehydrogenase (ferredoxin)	1.2.7.6	3-Phospho-D-glycerate	D-Glyceraldehyde 3-phosphate	white
-glyceraldehyde-3-phosphate dehydrogenase (ferredoxin)	1.2.7.6	3-Phospho-D-glycerate	H2O	white
-glyceraldehyde-3-phosphate dehydrogenase (ferredoxin)	1.2.7.6	3-Phospho-D-glycerate	Oxidized ferredoxin	white
-glyceraldehyde-3-phosphate dehydrogenase (ferredoxin)	1.2.7.6	D-Glyceraldehyde 3-phosphate	3-Phospho-D-glycerate	white
-glyceraldehyde-3-phosphate dehydrogenase (ferredoxin)	1.2.7.6	D-Glyceraldehyde 3-phosphate	H+	white
-glyceraldehyde-3-phosphate dehydrogenase (ferredoxin)	1.2.7.6	D-Glyceraldehyde 3-phosphate	Reduced ferredoxin	white
-glyceraldehyde-3-phosphate dehydrogenase (ferredoxin)	1.2.7.6	H+	D-Glyceraldehyde 3-phosphate	white
-glyceraldehyde-3-phosphate dehydrogenase (ferredoxin)	1.2.7.6	H+	H2O	white
-glyceraldehyde-3-phosphate dehydrogenase (ferredoxin)	1.2.7.6	H+	Oxidized ferredoxin	white
-glyceraldehyde-3-phosphate dehydrogenase (ferredoxin)	1.2.7.6	H2O	3-Phospho-D-glycerate	white
-glyceraldehyde-3-phosphate dehydrogenase (ferredoxin)	1.2.7.6	H2O	H+	white
-glyceraldehyde-3-phosphate dehydrogenase (ferredoxin)	1.2.7.6	H2O	Reduced ferredoxin	white
-glyceraldehyde-3-phosphate dehydrogenase (ferredoxin)	1.2.7.6	Oxidized ferredoxin	3-Phospho-D-glycerate	white
-glyceraldehyde-3-phosphate dehydrogenase (ferredoxin)	1.2.7.6	Oxidized ferredoxin	H+	white
-glyceraldehyde-3-phosphate dehydrogenase (ferredoxin)	1.2.7.6	Oxidized ferredoxin	Reduced ferredoxin	white
-glyceraldehyde-3-phosphate dehydrogenase (ferredoxin)	1.2.7.6	Reduced ferredoxin	D-Glyceraldehyde 3-phosphate	white
-glyceraldehyde-3-phosphate dehydrogenase (ferredoxin)	1.2.7.6	Reduced ferredoxin	H2O	white
-glyceraldehyde-3-phosphate dehydrogenase (ferredoxin)	1.2.7.6	Reduced ferredoxin	Oxidized ferredoxin	white
-glyceraldehyde-3-phosphate dehydrogenase [NAD(P)+]	1.2.1.90	3-Phospho-D-glycerate	D-Glyceraldehyde 3-phosphate	white
-glyceraldehyde-3-phosphate dehydrogenase [NAD(P)+]	1.2.1.90	3-Phospho-D-glycerate	H2O	white
-glyceraldehyde-3-phosphate dehydrogenase [NAD(P)+]	1.2.1.90	3-Phospho-D-glycerate	NADP+	white
-glyceraldehyde-3-phosphate dehydrogenase [NAD(P)+]	1.2.1.90	D-Glyceraldehyde 3-phosphate	3-Phospho-D-glycerate	white
-glyceraldehyde-3-phosphate dehydrogenase [NAD(P)+]	1.2.1.90	D-Glyceraldehyde 3-phosphate	H+	white
-glyceraldehyde-3-phosphate dehydrogenase [NAD(P)+]	1.2.1.90	D-Glyceraldehyde 3-phosphate	NADPH	white
-glyceraldehyde-3-phosphate dehydrogenase [NAD(P)+]	1.2.1.90	H+	D-Glyceraldehyde 3-phosphate	white
-glyceraldehyde-3-phosphate dehydrogenase [NAD(P)+]	1.2.1.90	H+	H2O	white
-glyceraldehyde-3-phosphate dehydrogenase [NAD(P)+]	1.2.1.90	H+	NADP+	white
-glyceraldehyde-3-phosphate dehydrogenase [NAD(P)+]	1.2.1.90	H2O	3-Phospho-D-glycerate	white
-glyceraldehyde-3-phosphate dehydrogenase [NAD(P)+]	1.2.1.90	H2O	H+	white
-glyceraldehyde-3-phosphate dehydrogenase [NAD(P)+]	1.2.1.90	H2O	NADPH	white
-glyceraldehyde-3-phosphate dehydrogenase [NAD(P)+]	1.2.1.90	NADP+	3-Phospho-D-glycerate	white
-glyceraldehyde-3-phosphate dehydrogenase [NAD(P)+]	1.2.1.90	NADP+	H+	white
-glyceraldehyde-3-phosphate dehydrogenase [NAD(P)+]	1.2.1.90	NADP+	NADPH	white
-glyceraldehyde-3-phosphate dehydrogenase [NAD(P)+]	1.2.1.90	NADPH	D-Glyceraldehyde 3-phosphate	white
-glyceraldehyde-3-phosphate dehydrogenase [NAD(P)+]	1.2.1.90	NADPH	H2O	white
-glyceraldehyde-3-phosphate dehydrogenase [NAD(P)+]	1.2.1.90	NADPH	NADP+	white
-hexokinase	2.7.1.1	ADP	ATP	white
-hexokinase	2.7.1.1	ADP	D-Glucose	white
-hexokinase	2.7.1.1	ATP	ADP	white
-hexokinase	2.7.1.1	ATP	D-Glucose 6-phosphate	white
-hexokinase	2.7.1.1	D-Glucose	ADP	white
-hexokinase	2.7.1.1	D-Glucose	D-Glucose 6-phosphate	white
-hexokinase	2.7.1.1	D-Glucose 6-phosphate	ATP	white
-hexokinase	2.7.1.1	D-Glucose 6-phosphate	D-Glucose	white
-methanol dehydrogenase (cytochrome c) subunit 1	1.1.2.7	Ferricytochrome cL	Ferrocytochrome cL	white
-methanol dehydrogenase (cytochrome c) subunit 1	1.1.2.7	Ferricytochrome cL	Formaldehyde	white
-methanol dehydrogenase (cytochrome c) subunit 1	1.1.2.7	Ferricytochrome cL	H+	white
-methanol dehydrogenase (cytochrome c) subunit 1	1.1.2.7	Ferrocytochrome cL	Ferricytochrome cL	white
-methanol dehydrogenase (cytochrome c) subunit 1	1.1.2.7	Ferrocytochrome cL	Methanol	white
-methanol dehydrogenase (cytochrome c) subunit 1	1.1.2.7	Formaldehyde	Ferricytochrome cL	white
-methanol dehydrogenase (cytochrome c) subunit 1	1.1.2.7	Formaldehyde	Methanol	white
-methanol dehydrogenase (cytochrome c) subunit 1	1.1.2.7	H+	Ferricytochrome cL	white
-methanol dehydrogenase (cytochrome c) subunit 1	1.1.2.7	H+	Methanol	white
-methanol dehydrogenase (cytochrome c) subunit 1	1.1.2.7	Methanol	Ferrocytochrome cL	white
-methanol dehydrogenase (cytochrome c) subunit 1	1.1.2.7	Methanol	Formaldehyde	white
-methanol dehydrogenase (cytochrome c) subunit 1	1.1.2.7	Methanol	H+	white
-methanol dehydrogenase (cytochrome c) subunit 2	1.1.2.7	Ferricytochrome cL	Ferrocytochrome cL	white
-methanol dehydrogenase (cytochrome c) subunit 2	1.1.2.7	Ferricytochrome cL	Formaldehyde	white
-methanol dehydrogenase (cytochrome c) subunit 2	1.1.2.7	Ferricytochrome cL	H+	white
-methanol dehydrogenase (cytochrome c) subunit 2	1.1.2.7	Ferrocytochrome cL	Ferricytochrome cL	white
-methanol dehydrogenase (cytochrome c) subunit 2	1.1.2.7	Ferrocytochrome cL	Methanol	white
-methanol dehydrogenase (cytochrome c) subunit 2	1.1.2.7	Formaldehyde	Ferricytochrome cL	white
-methanol dehydrogenase (cytochrome c) subunit 2	1.1.2.7	Formaldehyde	Methanol	white
-methanol dehydrogenase (cytochrome c) subunit 2	1.1.2.7	H+	Ferricytochrome cL	white
-methanol dehydrogenase (cytochrome c) subunit 2	1.1.2.7	H+	Methanol	white
-methanol dehydrogenase (cytochrome c) subunit 2	1.1.2.7	Methanol	Ferrocytochrome cL	white
-methanol dehydrogenase (cytochrome c) subunit 2	1.1.2.7	Methanol	Formaldehyde	white
-methanol dehydrogenase (cytochrome c) subunit 2	1.1.2.7	Methanol	H+	white
-multiple inositol-polyphosphate phosphatase / 2,3-bisphosphoglycerate 3-phosphatase	3.1.3.62	1D-myo-Inositol 1,3,4,5-tetrakisphosphate	D-myo-Inositol 1,4,5-trisphosphate	white
-multiple inositol-polyphosphate phosphatase / 2,3-bisphosphoglycerate 3-phosphatase	3.1.3.62	1D-myo-Inositol 1,3,4,5-tetrakisphosphate	Orthophosphate	white
-multiple inositol-polyphosphate phosphatase / 2,3-bisphosphoglycerate 3-phosphatase	3.1.3.62	D-myo-Inositol 1,4,5-trisphosphate	1D-myo-Inositol 1,3,4,5-tetrakisphosphate	white
-multiple inositol-polyphosphate phosphatase / 2,3-bisphosphoglycerate 3-phosphatase	3.1.3.62	D-myo-Inositol 1,4,5-trisphosphate	H2O	white
-multiple inositol-polyphosphate phosphatase / 2,3-bisphosphoglycerate 3-phosphatase	3.1.3.62	H2O	D-myo-Inositol 1,4,5-trisphosphate	white
-multiple inositol-polyphosphate phosphatase / 2,3-bisphosphoglycerate 3-phosphatase	3.1.3.62	H2O	Orthophosphate	white
-multiple inositol-polyphosphate phosphatase / 2,3-bisphosphoglycerate 3-phosphatase	3.1.3.62	Orthophosphate	1D-myo-Inositol 1,3,4,5-tetrakisphosphate	white
-multiple inositol-polyphosphate phosphatase / 2,3-bisphosphoglycerate 3-phosphatase	3.1.3.62	Orthophosphate	H2O	white
-phosphoenolpyruvate carboxykinase (ATP)	4.1.1.49	ADP	ATP	white
-phosphoenolpyruvate carboxykinase (ATP)	4.1.1.49	ADP	Oxaloacetate	white
-phosphoenolpyruvate carboxykinase (ATP)	4.1.1.49	ATP	ADP	white
-phosphoenolpyruvate carboxykinase (ATP)	4.1.1.49	ATP	CO2	white
-phosphoenolpyruvate carboxykinase (ATP)	4.1.1.49	ATP	Phosphoenolpyruvate	white
-phosphoenolpyruvate carboxykinase (ATP)	4.1.1.49	CO2	ATP	white
-phosphoenolpyruvate carboxykinase (ATP)	4.1.1.49	CO2	Oxaloacetate	white
-phosphoenolpyruvate carboxykinase (ATP)	4.1.1.49	Oxaloacetate	ADP	white
-phosphoenolpyruvate carboxykinase (ATP)	4.1.1.49	Oxaloacetate	CO2	white
-phosphoenolpyruvate carboxykinase (ATP)	4.1.1.49	Oxaloacetate	Phosphoenolpyruvate	white
-phosphoenolpyruvate carboxykinase (ATP)	4.1.1.49	Phosphoenolpyruvate	ATP	white
-phosphoenolpyruvate carboxykinase (ATP)	4.1.1.49	Phosphoenolpyruvate	Oxaloacetate	white
-phosphoenolpyruvate carboxykinase (GTP)	4.1.1.32	GTP	CO2	green
-phosphoenolpyruvate carboxykinase (GTP)	4.1.1.32	GTP	GDP	green
-phosphoenolpyruvate carboxykinase (GTP)	4.1.1.32	GTP	Phosphoenolpyruvate	green
-phosphoenolpyruvate carboxykinase (GTP)	4.1.1.32	ITP	CO2	green
-phosphoenolpyruvate carboxykinase (GTP)	4.1.1.32	ITP	IDP	green
-phosphoenolpyruvate carboxykinase (GTP)	4.1.1.32	ITP	Phosphoenolpyruvate	green
-phosphoenolpyruvate carboxykinase (GTP)	4.1.1.32	Oxaloacetate	CO2	green
-phosphoenolpyruvate carboxykinase (GTP)	4.1.1.32	Oxaloacetate	GDP	green
-phosphoenolpyruvate carboxykinase (GTP)	4.1.1.32	Oxaloacetate	IDP	green
-phosphoenolpyruvate carboxykinase (GTP)	4.1.1.32	Oxaloacetate	Phosphoenolpyruvate	green
-phosphoglucomutase	5.4.2.2	D-Glucose 1-phosphate	alpha-D-Glucose 6-phosphate	green
-phosphoglucomutase	5.4.2.2	alpha-D-Glucose 6-phosphate	D-Glucose 1-phosphate	green
-phosphoglycerate kinase	2.7.2.3	3-Phospho-D-glycerate	3-Phospho-D-glyceroyl phosphate	green
-phosphoglycerate kinase	2.7.2.3	3-Phospho-D-glycerate	ADP	green
-phosphoglycerate kinase	2.7.2.3	3-Phospho-D-glyceroyl phosphate	3-Phospho-D-glycerate	green
-phosphoglycerate kinase	2.7.2.3	3-Phospho-D-glyceroyl phosphate	ATP	green
-phosphoglycerate kinase	2.7.2.3	ADP	3-Phospho-D-glycerate	green
-phosphoglycerate kinase	2.7.2.3	ADP	ATP	green
-phosphoglycerate kinase	2.7.2.3	ATP	3-Phospho-D-glyceroyl phosphate	green
-phosphoglycerate kinase	2.7.2.3	ATP	ADP	green
-polyphosphate glucokinase	2.7.1.63	Polyphosphate	Polyphosphate	green
-polyphosphate glucokinase	2.7.1.63	Polyphosphate	alpha-D-Glucose 6-phosphate	green
-polyphosphate glucokinase	2.7.1.63	Polyphosphate	beta-D-Glucose 6-phosphate	green
-polyphosphate glucokinase	2.7.1.63	alpha-D-Glucose	Polyphosphate	green
-polyphosphate glucokinase	2.7.1.63	alpha-D-Glucose	alpha-D-Glucose 6-phosphate	green
-polyphosphate glucokinase	2.7.1.63	beta-D-Glucose	Polyphosphate	green
-polyphosphate glucokinase	2.7.1.63	beta-D-Glucose	beta-D-Glucose 6-phosphate	green
-pyruvate decarboxylase	4.1.1.1	2-(alpha-Hydroxyethyl)thiamine diphosphate	Pyruvate	white
-pyruvate decarboxylase	4.1.1.1	2-(alpha-Hydroxyethyl)thiamine diphosphate	Thiamin diphosphate	white
-pyruvate decarboxylase	4.1.1.1	CO2	Pyruvate	white
-pyruvate decarboxylase	4.1.1.1	CO2	Thiamin diphosphate	white
-pyruvate decarboxylase	4.1.1.1	Pyruvate	2-(alpha-Hydroxyethyl)thiamine diphosphate	white
-pyruvate decarboxylase	4.1.1.1	Pyruvate	CO2	white
-pyruvate decarboxylase	4.1.1.1	Thiamin diphosphate	2-(alpha-Hydroxyethyl)thiamine diphosphate	white
-pyruvate decarboxylase	4.1.1.1	Thiamin diphosphate	CO2	white
-pyruvate dehydrogenase E1 component	1.2.4.1	2-(alpha-Hydroxyethyl)thiamine diphosphate	Thiamin diphosphate	green
-pyruvate dehydrogenase E1 component	1.2.4.1	2-(alpha-Hydroxyethyl)thiamine diphosphate	[Dihydrolipoyllysine-residue acetyltransferase] S-acetyldihydrolipoyllysine	green
-pyruvate dehydrogenase E1 component	1.2.4.1	Enzyme N6-(lipoyl)lysine	Thiamin diphosphate	green
-pyruvate dehydrogenase E1 component	1.2.4.1	Enzyme N6-(lipoyl)lysine	[Dihydrolipoyllysine-residue acetyltransferase] S-acetyldihydrolipoyllysine	green
-pyruvate dehydrogenase E1 component	1.2.4.1	Pyruvate	2-(alpha-Hydroxyethyl)thiamine diphosphate	green
-pyruvate dehydrogenase E1 component	1.2.4.1	Pyruvate	CO2	green
-pyruvate dehydrogenase E1 component	1.2.4.1	Thiamin diphosphate	2-(alpha-Hydroxyethyl)thiamine diphosphate	green
-pyruvate dehydrogenase E1 component	1.2.4.1	Thiamin diphosphate	CO2	green
-pyruvate dehydrogenase E2 component (dihydrolipoyllysine-residue acetyltransferase)	2.3.1.12	Acetyl-CoA	CoA	green
-pyruvate dehydrogenase E2 component (dihydrolipoyllysine-residue acetyltransferase)	2.3.1.12	Acetyl-CoA	[Dihydrolipoyllysine-residue acetyltransferase] S-acetyldihydrolipoyllysine	green
-pyruvate dehydrogenase E2 component (dihydrolipoyllysine-residue acetyltransferase)	2.3.1.12	CoA	Acetyl-CoA	green
-pyruvate dehydrogenase E2 component (dihydrolipoyllysine-residue acetyltransferase)	2.3.1.12	CoA	Enzyme N6-(dihydrolipoyl)lysine	green
-pyruvate dehydrogenase E2 component (dihydrolipoyllysine-residue acetyltransferase)	2.3.1.12	Enzyme N6-(dihydrolipoyl)lysine	CoA	green
-pyruvate dehydrogenase E2 component (dihydrolipoyllysine-residue acetyltransferase)	2.3.1.12	Enzyme N6-(dihydrolipoyl)lysine	[Dihydrolipoyllysine-residue acetyltransferase] S-acetyldihydrolipoyllysine	green
-pyruvate dehydrogenase E2 component (dihydrolipoyllysine-residue acetyltransferase)	2.3.1.12	[Dihydrolipoyllysine-residue acetyltransferase] S-acetyldihydrolipoyllysine	Acetyl-CoA	green
-pyruvate dehydrogenase E2 component (dihydrolipoyllysine-residue acetyltransferase)	2.3.1.12	[Dihydrolipoyllysine-residue acetyltransferase] S-acetyldihydrolipoyllysine	Enzyme N6-(dihydrolipoyl)lysine	green
-pyruvate ferredoxin oxidoreductase alpha subunit	1.2.7.1	Acetyl-CoA	CoA	white
-pyruvate ferredoxin oxidoreductase alpha subunit	1.2.7.1	Acetyl-CoA	Oxidized ferredoxin	white
-pyruvate ferredoxin oxidoreductase alpha subunit	1.2.7.1	Acetyl-CoA	Pyruvate	white
-pyruvate ferredoxin oxidoreductase alpha subunit	1.2.7.1	CO2	CoA	white
-pyruvate ferredoxin oxidoreductase alpha subunit	1.2.7.1	CO2	Oxidized ferredoxin	white
-pyruvate ferredoxin oxidoreductase alpha subunit	1.2.7.1	CO2	Pyruvate	white
-pyruvate ferredoxin oxidoreductase alpha subunit	1.2.7.1	CoA	Acetyl-CoA	white
-pyruvate ferredoxin oxidoreductase alpha subunit	1.2.7.1	CoA	CO2	white
-pyruvate ferredoxin oxidoreductase alpha subunit	1.2.7.1	CoA	H+	white
-pyruvate ferredoxin oxidoreductase alpha subunit	1.2.7.1	CoA	Reduced ferredoxin	white
-pyruvate ferredoxin oxidoreductase alpha subunit	1.2.7.1	H+	CoA	white
-pyruvate ferredoxin oxidoreductase alpha subunit	1.2.7.1	H+	Oxidized ferredoxin	white
-pyruvate ferredoxin oxidoreductase alpha subunit	1.2.7.1	H+	Pyruvate	white
-pyruvate ferredoxin oxidoreductase alpha subunit	1.2.7.1	Oxidized ferredoxin	Acetyl-CoA	white
-pyruvate ferredoxin oxidoreductase alpha subunit	1.2.7.1	Oxidized ferredoxin	CO2	white
-pyruvate ferredoxin oxidoreductase alpha subunit	1.2.7.1	Oxidized ferredoxin	H+	white
-pyruvate ferredoxin oxidoreductase alpha subunit	1.2.7.1	Oxidized ferredoxin	Reduced ferredoxin	white
-pyruvate ferredoxin oxidoreductase alpha subunit	1.2.7.1	Pyruvate	Acetyl-CoA	white
-pyruvate ferredoxin oxidoreductase alpha subunit	1.2.7.1	Pyruvate	CO2	white
-pyruvate ferredoxin oxidoreductase alpha subunit	1.2.7.1	Pyruvate	H+	white
-pyruvate ferredoxin oxidoreductase alpha subunit	1.2.7.1	Pyruvate	Reduced ferredoxin	white
-pyruvate ferredoxin oxidoreductase alpha subunit	1.2.7.1	Reduced ferredoxin	CoA	white
-pyruvate ferredoxin oxidoreductase alpha subunit	1.2.7.1	Reduced ferredoxin	Oxidized ferredoxin	white
-pyruvate ferredoxin oxidoreductase alpha subunit	1.2.7.1	Reduced ferredoxin	Pyruvate	white
-pyruvate ferredoxin oxidoreductase beta subunit	1.2.7.1	Acetyl-CoA	CoA	white
-pyruvate ferredoxin oxidoreductase beta subunit	1.2.7.1	Acetyl-CoA	Oxidized ferredoxin	white
-pyruvate ferredoxin oxidoreductase beta subunit	1.2.7.1	Acetyl-CoA	Pyruvate	white
-pyruvate ferredoxin oxidoreductase beta subunit	1.2.7.1	CO2	CoA	white
-pyruvate ferredoxin oxidoreductase beta subunit	1.2.7.1	CO2	Oxidized ferredoxin	white
-pyruvate ferredoxin oxidoreductase beta subunit	1.2.7.1	CO2	Pyruvate	white
-pyruvate ferredoxin oxidoreductase beta subunit	1.2.7.1	CoA	Acetyl-CoA	white
-pyruvate ferredoxin oxidoreductase beta subunit	1.2.7.1	CoA	CO2	white
-pyruvate ferredoxin oxidoreductase beta subunit	1.2.7.1	CoA	H+	white
-pyruvate ferredoxin oxidoreductase beta subunit	1.2.7.1	CoA	Reduced ferredoxin	white
-pyruvate ferredoxin oxidoreductase beta subunit	1.2.7.1	H+	CoA	white
-pyruvate ferredoxin oxidoreductase beta subunit	1.2.7.1	H+	Oxidized ferredoxin	white
-pyruvate ferredoxin oxidoreductase beta subunit	1.2.7.1	H+	Pyruvate	white
-pyruvate ferredoxin oxidoreductase beta subunit	1.2.7.1	Oxidized ferredoxin	Acetyl-CoA	white
-pyruvate ferredoxin oxidoreductase beta subunit	1.2.7.1	Oxidized ferredoxin	CO2	white
-pyruvate ferredoxin oxidoreductase beta subunit	1.2.7.1	Oxidized ferredoxin	H+	white
-pyruvate ferredoxin oxidoreductase beta subunit	1.2.7.1	Oxidized ferredoxin	Reduced ferredoxin	white
-pyruvate ferredoxin oxidoreductase beta subunit	1.2.7.1	Pyruvate	Acetyl-CoA	white
-pyruvate ferredoxin oxidoreductase beta subunit	1.2.7.1	Pyruvate	CO2	white
-pyruvate ferredoxin oxidoreductase beta subunit	1.2.7.1	Pyruvate	H+	white
-pyruvate ferredoxin oxidoreductase beta subunit	1.2.7.1	Pyruvate	Reduced ferredoxin	white
-pyruvate ferredoxin oxidoreductase beta subunit	1.2.7.1	Reduced ferredoxin	CoA	white
-pyruvate ferredoxin oxidoreductase beta subunit	1.2.7.1	Reduced ferredoxin	Oxidized ferredoxin	white
-pyruvate ferredoxin oxidoreductase beta subunit	1.2.7.1	Reduced ferredoxin	Pyruvate	white
-pyruvate ferredoxin oxidoreductase delta subunit	1.2.7.1	Acetyl-CoA	CoA	white
-pyruvate ferredoxin oxidoreductase delta subunit	1.2.7.1	Acetyl-CoA	Oxidized ferredoxin	white
-pyruvate ferredoxin oxidoreductase delta subunit	1.2.7.1	Acetyl-CoA	Pyruvate	white
-pyruvate ferredoxin oxidoreductase delta subunit	1.2.7.1	CO2	CoA	white
-pyruvate ferredoxin oxidoreductase delta subunit	1.2.7.1	CO2	Oxidized ferredoxin	white
-pyruvate ferredoxin oxidoreductase delta subunit	1.2.7.1	CO2	Pyruvate	white
-pyruvate ferredoxin oxidoreductase delta subunit	1.2.7.1	CoA	Acetyl-CoA	white
-pyruvate ferredoxin oxidoreductase delta subunit	1.2.7.1	CoA	CO2	white
-pyruvate ferredoxin oxidoreductase delta subunit	1.2.7.1	CoA	H+	white
-pyruvate ferredoxin oxidoreductase delta subunit	1.2.7.1	CoA	Reduced ferredoxin	white
-pyruvate ferredoxin oxidoreductase delta subunit	1.2.7.1	H+	CoA	white
-pyruvate ferredoxin oxidoreductase delta subunit	1.2.7.1	H+	Oxidized ferredoxin	white
-pyruvate ferredoxin oxidoreductase delta subunit	1.2.7.1	H+	Pyruvate	white
-pyruvate ferredoxin oxidoreductase delta subunit	1.2.7.1	Oxidized ferredoxin	Acetyl-CoA	white
-pyruvate ferredoxin oxidoreductase delta subunit	1.2.7.1	Oxidized ferredoxin	CO2	white
-pyruvate ferredoxin oxidoreductase delta subunit	1.2.7.1	Oxidized ferredoxin	H+	white
-pyruvate ferredoxin oxidoreductase delta subunit	1.2.7.1	Oxidized ferredoxin	Reduced ferredoxin	white
-pyruvate ferredoxin oxidoreductase delta subunit	1.2.7.1	Pyruvate	Acetyl-CoA	white
-pyruvate ferredoxin oxidoreductase delta subunit	1.2.7.1	Pyruvate	CO2	white
-pyruvate ferredoxin oxidoreductase delta subunit	1.2.7.1	Pyruvate	H+	white
-pyruvate ferredoxin oxidoreductase delta subunit	1.2.7.1	Pyruvate	Reduced ferredoxin	white
-pyruvate ferredoxin oxidoreductase delta subunit	1.2.7.1	Reduced ferredoxin	CoA	white
-pyruvate ferredoxin oxidoreductase delta subunit	1.2.7.1	Reduced ferredoxin	Oxidized ferredoxin	white
-pyruvate ferredoxin oxidoreductase delta subunit	1.2.7.1	Reduced ferredoxin	Pyruvate	white
-pyruvate ferredoxin oxidoreductase gamma subunit	1.2.7.1	Acetyl-CoA	CoA	white
-pyruvate ferredoxin oxidoreductase gamma subunit	1.2.7.1	Acetyl-CoA	Oxidized ferredoxin	white
-pyruvate ferredoxin oxidoreductase gamma subunit	1.2.7.1	Acetyl-CoA	Pyruvate	white
-pyruvate ferredoxin oxidoreductase gamma subunit	1.2.7.1	CO2	CoA	white
-pyruvate ferredoxin oxidoreductase gamma subunit	1.2.7.1	CO2	Oxidized ferredoxin	white
-pyruvate ferredoxin oxidoreductase gamma subunit	1.2.7.1	CO2	Pyruvate	white
-pyruvate ferredoxin oxidoreductase gamma subunit	1.2.7.1	CoA	Acetyl-CoA	white
-pyruvate ferredoxin oxidoreductase gamma subunit	1.2.7.1	CoA	CO2	white
-pyruvate ferredoxin oxidoreductase gamma subunit	1.2.7.1	CoA	H+	white
-pyruvate ferredoxin oxidoreductase gamma subunit	1.2.7.1	CoA	Reduced ferredoxin	white
-pyruvate ferredoxin oxidoreductase gamma subunit	1.2.7.1	H+	CoA	white
-pyruvate ferredoxin oxidoreductase gamma subunit	1.2.7.1	H+	Oxidized ferredoxin	white
-pyruvate ferredoxin oxidoreductase gamma subunit	1.2.7.1	H+	Pyruvate	white
-pyruvate ferredoxin oxidoreductase gamma subunit	1.2.7.1	Oxidized ferredoxin	Acetyl-CoA	white
-pyruvate ferredoxin oxidoreductase gamma subunit	1.2.7.1	Oxidized ferredoxin	CO2	white
-pyruvate ferredoxin oxidoreductase gamma subunit	1.2.7.1	Oxidized ferredoxin	H+	white
-pyruvate ferredoxin oxidoreductase gamma subunit	1.2.7.1	Oxidized ferredoxin	Reduced ferredoxin	white
-pyruvate ferredoxin oxidoreductase gamma subunit	1.2.7.1	Pyruvate	Acetyl-CoA	white
-pyruvate ferredoxin oxidoreductase gamma subunit	1.2.7.1	Pyruvate	CO2	white
-pyruvate ferredoxin oxidoreductase gamma subunit	1.2.7.1	Pyruvate	H+	white
-pyruvate ferredoxin oxidoreductase gamma subunit	1.2.7.1	Pyruvate	Reduced ferredoxin	white
-pyruvate ferredoxin oxidoreductase gamma subunit	1.2.7.1	Reduced ferredoxin	CoA	white
-pyruvate ferredoxin oxidoreductase gamma subunit	1.2.7.1	Reduced ferredoxin	Oxidized ferredoxin	white
-pyruvate ferredoxin oxidoreductase gamma subunit	1.2.7.1	Reduced ferredoxin	Pyruvate	white
-pyruvate kinase	2.7.1.40	ATP	ADP	green
-pyruvate kinase	2.7.1.40	ATP	Phosphoenolpyruvate	green
-pyruvate kinase	2.7.1.40	Pyruvate	ADP	green
-pyruvate kinase	2.7.1.40	Pyruvate	Phosphoenolpyruvate	green
-pyruvate, orthophosphate dikinase	2.7.9.1	AMP	ATP	white
-pyruvate, orthophosphate dikinase	2.7.9.1	AMP	Orthophosphate	white
-pyruvate, orthophosphate dikinase	2.7.9.1	AMP	Pyruvate	white
-pyruvate, orthophosphate dikinase	2.7.9.1	ATP	AMP	white
-pyruvate, orthophosphate dikinase	2.7.9.1	ATP	Diphosphate	white
-pyruvate, orthophosphate dikinase	2.7.9.1	ATP	Phosphoenolpyruvate	white
-pyruvate, orthophosphate dikinase	2.7.9.1	Diphosphate	ATP	white
-pyruvate, orthophosphate dikinase	2.7.9.1	Diphosphate	Orthophosphate	white
-pyruvate, orthophosphate dikinase	2.7.9.1	Diphosphate	Pyruvate	white
-pyruvate, orthophosphate dikinase	2.7.9.1	Orthophosphate	AMP	white
-pyruvate, orthophosphate dikinase	2.7.9.1	Orthophosphate	Diphosphate	white
-pyruvate, orthophosphate dikinase	2.7.9.1	Orthophosphate	Phosphoenolpyruvate	white
-pyruvate, orthophosphate dikinase	2.7.9.1	Phosphoenolpyruvate	ATP	white
-pyruvate, orthophosphate dikinase	2.7.9.1	Phosphoenolpyruvate	Orthophosphate	white
-pyruvate, orthophosphate dikinase	2.7.9.1	Phosphoenolpyruvate	Pyruvate	white
-pyruvate, orthophosphate dikinase	2.7.9.1	Pyruvate	AMP	white
-pyruvate, orthophosphate dikinase	2.7.9.1	Pyruvate	Diphosphate	white
-pyruvate, orthophosphate dikinase	2.7.9.1	Pyruvate	Phosphoenolpyruvate	white
-pyruvate, water dikinase	2.7.9.2	AMP	ATP	green
-pyruvate, water dikinase	2.7.9.2	AMP	H2O	green
-pyruvate, water dikinase	2.7.9.2	AMP	Pyruvate	green
-pyruvate, water dikinase	2.7.9.2	ATP	AMP	green
-pyruvate, water dikinase	2.7.9.2	ATP	Orthophosphate	green
-pyruvate, water dikinase	2.7.9.2	ATP	Phosphoenolpyruvate	green
-pyruvate, water dikinase	2.7.9.2	H2O	AMP	green
-pyruvate, water dikinase	2.7.9.2	H2O	Orthophosphate	green
-pyruvate, water dikinase	2.7.9.2	H2O	Phosphoenolpyruvate	green
-pyruvate, water dikinase	2.7.9.2	Orthophosphate	ATP	green
-pyruvate, water dikinase	2.7.9.2	Orthophosphate	H2O	green
-pyruvate, water dikinase	2.7.9.2	Orthophosphate	Pyruvate	green
-pyruvate, water dikinase	2.7.9.2	Phosphoenolpyruvate	ATP	green
-pyruvate, water dikinase	2.7.9.2	Phosphoenolpyruvate	H2O	green
-pyruvate, water dikinase	2.7.9.2	Phosphoenolpyruvate	Pyruvate	green
-pyruvate, water dikinase	2.7.9.2	Pyruvate	AMP	green
-pyruvate, water dikinase	2.7.9.2	Pyruvate	Orthophosphate	green
-pyruvate, water dikinase	2.7.9.2	Pyruvate	Phosphoenolpyruvate	green
-pyruvate-ferredoxin/flavodoxin oxidoreductase	1.2.7.1	Acetyl-CoA	CoA	white
-pyruvate-ferredoxin/flavodoxin oxidoreductase	1.2.7.1	Acetyl-CoA	Oxidized ferredoxin	white
-pyruvate-ferredoxin/flavodoxin oxidoreductase	1.2.7.1	Acetyl-CoA	Pyruvate	white
-pyruvate-ferredoxin/flavodoxin oxidoreductase	1.2.7.1	CO2	CoA	white
-pyruvate-ferredoxin/flavodoxin oxidoreductase	1.2.7.1	CO2	Oxidized ferredoxin	white
-pyruvate-ferredoxin/flavodoxin oxidoreductase	1.2.7.1	CO2	Pyruvate	white
-pyruvate-ferredoxin/flavodoxin oxidoreductase	1.2.7.1	CoA	Acetyl-CoA	white
-pyruvate-ferredoxin/flavodoxin oxidoreductase	1.2.7.1	CoA	CO2	white
-pyruvate-ferredoxin/flavodoxin oxidoreductase	1.2.7.1	CoA	H+	white
-pyruvate-ferredoxin/flavodoxin oxidoreductase	1.2.7.1	CoA	Reduced ferredoxin	white
-pyruvate-ferredoxin/flavodoxin oxidoreductase	1.2.7.1	H+	CoA	white
-pyruvate-ferredoxin/flavodoxin oxidoreductase	1.2.7.1	H+	Oxidized ferredoxin	white
-pyruvate-ferredoxin/flavodoxin oxidoreductase	1.2.7.1	H+	Pyruvate	white
-pyruvate-ferredoxin/flavodoxin oxidoreductase	1.2.7.1	Oxidized ferredoxin	Acetyl-CoA	white
-pyruvate-ferredoxin/flavodoxin oxidoreductase	1.2.7.1	Oxidized ferredoxin	CO2	white
-pyruvate-ferredoxin/flavodoxin oxidoreductase	1.2.7.1	Oxidized ferredoxin	H+	white
-pyruvate-ferredoxin/flavodoxin oxidoreductase	1.2.7.1	Oxidized ferredoxin	Reduced ferredoxin	white
-pyruvate-ferredoxin/flavodoxin oxidoreductase	1.2.7.1	Pyruvate	Acetyl-CoA	white
-pyruvate-ferredoxin/flavodoxin oxidoreductase	1.2.7.1	Pyruvate	CO2	white
-pyruvate-ferredoxin/flavodoxin oxidoreductase	1.2.7.1	Pyruvate	H+	white
-pyruvate-ferredoxin/flavodoxin oxidoreductase	1.2.7.1	Pyruvate	Reduced ferredoxin	white
-pyruvate-ferredoxin/flavodoxin oxidoreductase	1.2.7.1	Reduced ferredoxin	CoA	white
-pyruvate-ferredoxin/flavodoxin oxidoreductase	1.2.7.1	Reduced ferredoxin	Oxidized ferredoxin	white
-pyruvate-ferredoxin/flavodoxin oxidoreductase	1.2.7.1	Reduced ferredoxin	Pyruvate	white
-sugar PTS system EIIA component	2.7.1.-	Arbutin	Arbutin 6-phosphate	green
-sugar PTS system EIIA component	2.7.1.-	Arbutin	Protein histidine	green
-sugar PTS system EIIA component	2.7.1.-	D-Glucose	Protein histidine	green
-sugar PTS system EIIA component	2.7.1.-	D-Glucose	alpha-D-Glucose 6-phosphate	green
-sugar PTS system EIIA component	2.7.1.-	Protein N(pi)-phospho-L-histidine	Arbutin 6-phosphate	green
-sugar PTS system EIIA component	2.7.1.-	Protein N(pi)-phospho-L-histidine	Protein histidine	green
-sugar PTS system EIIA component	2.7.1.-	Protein N(pi)-phospho-L-histidine	Salicin 6-phosphate	green
-sugar PTS system EIIA component	2.7.1.-	Protein N(pi)-phospho-L-histidine	alpha-D-Glucose 6-phosphate	green
-sugar PTS system EIIA component	2.7.1.-	Salicin	Protein histidine	green
-sugar PTS system EIIA component	2.7.1.-	Salicin	Salicin 6-phosphate	green
-triosephosphate isomerase (TIM)	5.3.1.1	D-Glyceraldehyde 3-phosphate	Glycerone phosphate	green
-triosephosphate isomerase (TIM)	5.3.1.1	Glycerone phosphate	D-Glyceraldehyde 3-phosphate	green
+enzyme_name	EC	source	target	reaction	color
+2,3-bisphosphoglycerate-dependent phosphoglycerate mutase	5.4.2.11	2-Phospho-D-glycerate	3-Phospho-D-glycerate	R01518	green
+2,3-bisphosphoglycerate-dependent phosphoglycerate mutase	5.4.2.11	3-Phospho-D-glycerate	2-Phospho-D-glycerate	R01518	green
+2,3-bisphosphoglycerate-independent phosphoglycerate mutase	5.4.2.12	2-Phospho-D-glycerate	3-Phospho-D-glycerate	R01518	white
+2,3-bisphosphoglycerate-independent phosphoglycerate mutase	5.4.2.12	3-Phospho-D-glycerate	2-Phospho-D-glycerate	R01518	white
+2-oxoglutarate/2-oxoacid ferredoxin oxidoreductase subunit alpha	1.2.7.3	Acetyl-CoA	CoA	R01196	green
+2-oxoglutarate/2-oxoacid ferredoxin oxidoreductase subunit alpha	1.2.7.3	Acetyl-CoA	Oxidized ferredoxin	R01196	green
+2-oxoglutarate/2-oxoacid ferredoxin oxidoreductase subunit alpha	1.2.7.3	Acetyl-CoA	Pyruvate	R01196	green
+2-oxoglutarate/2-oxoacid ferredoxin oxidoreductase subunit alpha	1.2.7.3	CO2	CoA	R01196	green
+2-oxoglutarate/2-oxoacid ferredoxin oxidoreductase subunit alpha	1.2.7.3	CO2	Oxidized ferredoxin	R01196	green
+2-oxoglutarate/2-oxoacid ferredoxin oxidoreductase subunit alpha	1.2.7.3	CO2	Pyruvate	R01196	green
+2-oxoglutarate/2-oxoacid ferredoxin oxidoreductase subunit alpha	1.2.7.3	H+	CoA	R01196	green
+2-oxoglutarate/2-oxoacid ferredoxin oxidoreductase subunit alpha	1.2.7.3	H+	Oxidized ferredoxin	R01196	green
+2-oxoglutarate/2-oxoacid ferredoxin oxidoreductase subunit alpha	1.2.7.3	H+	Pyruvate	R01196	green
+2-oxoglutarate/2-oxoacid ferredoxin oxidoreductase subunit alpha	1.2.7.3	Reduced ferredoxin	CoA	R01196	green
+2-oxoglutarate/2-oxoacid ferredoxin oxidoreductase subunit alpha	1.2.7.3	Reduced ferredoxin	Oxidized ferredoxin	R01196	green
+2-oxoglutarate/2-oxoacid ferredoxin oxidoreductase subunit alpha	1.2.7.3	Reduced ferredoxin	Pyruvate	R01196	green
+2-oxoglutarate/2-oxoacid ferredoxin oxidoreductase subunit beta	1.2.7.3	Acetyl-CoA	CoA	R01196	green
+2-oxoglutarate/2-oxoacid ferredoxin oxidoreductase subunit beta	1.2.7.3	Acetyl-CoA	Oxidized ferredoxin	R01196	green
+2-oxoglutarate/2-oxoacid ferredoxin oxidoreductase subunit beta	1.2.7.3	Acetyl-CoA	Pyruvate	R01196	green
+2-oxoglutarate/2-oxoacid ferredoxin oxidoreductase subunit beta	1.2.7.3	CO2	CoA	R01196	green
+2-oxoglutarate/2-oxoacid ferredoxin oxidoreductase subunit beta	1.2.7.3	CO2	Oxidized ferredoxin	R01196	green
+2-oxoglutarate/2-oxoacid ferredoxin oxidoreductase subunit beta	1.2.7.3	CO2	Pyruvate	R01196	green
+2-oxoglutarate/2-oxoacid ferredoxin oxidoreductase subunit beta	1.2.7.3	H+	CoA	R01196	green
+2-oxoglutarate/2-oxoacid ferredoxin oxidoreductase subunit beta	1.2.7.3	H+	Oxidized ferredoxin	R01196	green
+2-oxoglutarate/2-oxoacid ferredoxin oxidoreductase subunit beta	1.2.7.3	H+	Pyruvate	R01196	green
+2-oxoglutarate/2-oxoacid ferredoxin oxidoreductase subunit beta	1.2.7.3	Reduced ferredoxin	CoA	R01196	green
+2-oxoglutarate/2-oxoacid ferredoxin oxidoreductase subunit beta	1.2.7.3	Reduced ferredoxin	Oxidized ferredoxin	R01196	green
+2-oxoglutarate/2-oxoacid ferredoxin oxidoreductase subunit beta	1.2.7.3	Reduced ferredoxin	Pyruvate	R01196	green
+2-oxoisovalerate/pyruvate ferredoxin oxidoreductase gamma subunit	1.2.7.7	Acetyl-CoA	CoA	R01196	white
+2-oxoisovalerate/pyruvate ferredoxin oxidoreductase gamma subunit	1.2.7.7	Acetyl-CoA	Oxidized ferredoxin	R01196	white
+2-oxoisovalerate/pyruvate ferredoxin oxidoreductase gamma subunit	1.2.7.7	Acetyl-CoA	Pyruvate	R01196	white
+2-oxoisovalerate/pyruvate ferredoxin oxidoreductase gamma subunit	1.2.7.7	CO2	CoA	R01196	white
+2-oxoisovalerate/pyruvate ferredoxin oxidoreductase gamma subunit	1.2.7.7	CO2	Oxidized ferredoxin	R01196	white
+2-oxoisovalerate/pyruvate ferredoxin oxidoreductase gamma subunit	1.2.7.7	CO2	Pyruvate	R01196	white
+2-oxoisovalerate/pyruvate ferredoxin oxidoreductase gamma subunit	1.2.7.7	CoA	Acetyl-CoA	R01196	white
+2-oxoisovalerate/pyruvate ferredoxin oxidoreductase gamma subunit	1.2.7.7	CoA	CO2	R01196	white
+2-oxoisovalerate/pyruvate ferredoxin oxidoreductase gamma subunit	1.2.7.7	CoA	H+	R01196	white
+2-oxoisovalerate/pyruvate ferredoxin oxidoreductase gamma subunit	1.2.7.7	CoA	Reduced ferredoxin	R01196	white
+2-oxoisovalerate/pyruvate ferredoxin oxidoreductase gamma subunit	1.2.7.7	H+	CoA	R01196	white
+2-oxoisovalerate/pyruvate ferredoxin oxidoreductase gamma subunit	1.2.7.7	H+	Oxidized ferredoxin	R01196	white
+2-oxoisovalerate/pyruvate ferredoxin oxidoreductase gamma subunit	1.2.7.7	H+	Pyruvate	R01196	white
+2-oxoisovalerate/pyruvate ferredoxin oxidoreductase gamma subunit	1.2.7.7	Oxidized ferredoxin	Acetyl-CoA	R01196	white
+2-oxoisovalerate/pyruvate ferredoxin oxidoreductase gamma subunit	1.2.7.7	Oxidized ferredoxin	CO2	R01196	white
+2-oxoisovalerate/pyruvate ferredoxin oxidoreductase gamma subunit	1.2.7.7	Oxidized ferredoxin	H+	R01196	white
+2-oxoisovalerate/pyruvate ferredoxin oxidoreductase gamma subunit	1.2.7.7	Oxidized ferredoxin	Reduced ferredoxin	R01196	white
+2-oxoisovalerate/pyruvate ferredoxin oxidoreductase gamma subunit	1.2.7.7	Pyruvate	Acetyl-CoA	R01196	white
+2-oxoisovalerate/pyruvate ferredoxin oxidoreductase gamma subunit	1.2.7.7	Pyruvate	CO2	R01196	white
+2-oxoisovalerate/pyruvate ferredoxin oxidoreductase gamma subunit	1.2.7.7	Pyruvate	H+	R01196	white
+2-oxoisovalerate/pyruvate ferredoxin oxidoreductase gamma subunit	1.2.7.7	Pyruvate	Reduced ferredoxin	R01196	white
+2-oxoisovalerate/pyruvate ferredoxin oxidoreductase gamma subunit	1.2.7.7	Reduced ferredoxin	CoA	R01196	white
+2-oxoisovalerate/pyruvate ferredoxin oxidoreductase gamma subunit	1.2.7.7	Reduced ferredoxin	Oxidized ferredoxin	R01196	white
+2-oxoisovalerate/pyruvate ferredoxin oxidoreductase gamma subunit	1.2.7.7	Reduced ferredoxin	Pyruvate	R01196	white
+6-phospho-beta-glucosidase	3.2.1.86	6-Phospho-beta-D-glucosyl-(1,4)-D-glucose	D-Glucose	R00839	white
+6-phospho-beta-glucosidase	3.2.1.86	6-Phospho-beta-D-glucosyl-(1,4)-D-glucose	D-Glucose 6-phosphate	R00839	white
+6-phospho-beta-glucosidase	3.2.1.86	D-Glucose	6-Phospho-beta-D-glucosyl-(1,4)-D-glucose	R00839	white
+6-phospho-beta-glucosidase	3.2.1.86	D-Glucose	H2O	R00839	white
+6-phospho-beta-glucosidase	3.2.1.86	D-Glucose 6-phosphate	6-Phospho-beta-D-glucosyl-(1,4)-D-glucose	R00839	white
+6-phospho-beta-glucosidase	3.2.1.86	D-Glucose 6-phosphate	H2O	R00839	white
+6-phospho-beta-glucosidase	3.2.1.86	H2O	D-Glucose	R00839	white
+6-phospho-beta-glucosidase	3.2.1.86	H2O	D-Glucose 6-phosphate	R00839	white
+ADP-dependent glucokinase	2.7.1.147	ADP	AMP	R05804	white
+ADP-dependent glucokinase	2.7.1.147	ADP	D-Glucose 6-phosphate	R05804	white
+ADP-dependent glucokinase	2.7.1.147	AMP	ADP	R05804	white
+ADP-dependent glucokinase	2.7.1.147	AMP	D-Glucose	R05804	white
+ADP-dependent glucokinase	2.7.1.147	D-Glucose	AMP	R05804	white
+ADP-dependent glucokinase	2.7.1.147	D-Glucose	D-Glucose 6-phosphate	R05804	white
+ADP-dependent glucokinase	2.7.1.147	D-Glucose 6-phosphate	ADP	R05804	white
+ADP-dependent glucokinase	2.7.1.147	D-Glucose 6-phosphate	D-Glucose	R05804	white
+ADP-dependent phosphofructokinase/glucokinase	2.7.1.146	ADP	AMP	R05805	white
+ADP-dependent phosphofructokinase/glucokinase	2.7.1.146	ADP	D-Fructose 1,6-bisphosphate	R05805	white
+ADP-dependent phosphofructokinase/glucokinase	2.7.1.146	AMP	ADP	R05805	white
+ADP-dependent phosphofructokinase/glucokinase	2.7.1.146	AMP	D-Fructose 6-phosphate	R05805	white
+ADP-dependent phosphofructokinase/glucokinase	2.7.1.146	D-Fructose 1,6-bisphosphate	ADP	R05805	white
+ADP-dependent phosphofructokinase/glucokinase	2.7.1.146	D-Fructose 1,6-bisphosphate	D-Fructose 6-phosphate	R05805	white
+ADP-dependent phosphofructokinase/glucokinase	2.7.1.146	D-Fructose 6-phosphate	AMP	R05805	white
+ADP-dependent phosphofructokinase/glucokinase	2.7.1.146	D-Fructose 6-phosphate	D-Fructose 1,6-bisphosphate	R05805	white
+ATP-dependent phosphofructokinase / diphosphate-dependent phosphofructokinase	2.7.1.11	ATP	ADP	R00756	green
+ATP-dependent phosphofructokinase / diphosphate-dependent phosphofructokinase	2.7.1.11	ATP	D-Fructose 1,6-bisphosphate	R00756	green
+ATP-dependent phosphofructokinase / diphosphate-dependent phosphofructokinase	2.7.1.11	D-Fructose 1,6-bisphosphate	D-Fructose 6-phosphate	R00764	green
+ATP-dependent phosphofructokinase / diphosphate-dependent phosphofructokinase	2.7.1.11	D-Fructose 1,6-bisphosphate	Diphosphate	R00764	green
+ATP-dependent phosphofructokinase / diphosphate-dependent phosphofructokinase	2.7.1.11	D-Fructose 6-phosphate	ADP	R00756	green
+ATP-dependent phosphofructokinase / diphosphate-dependent phosphofructokinase	2.7.1.11	D-Fructose 6-phosphate	D-Fructose 1,6-bisphosphate	R00756	green
+ATP-dependent phosphofructokinase / diphosphate-dependent phosphofructokinase	2.7.1.11	D-Fructose 6-phosphate	D-Fructose 1,6-bisphosphate	R00764	green
+ATP-dependent phosphofructokinase / diphosphate-dependent phosphofructokinase	2.7.1.11	D-Fructose 6-phosphate	Orthophosphate	R00764	green
+ATP-dependent phosphofructokinase / diphosphate-dependent phosphofructokinase	2.7.1.11	Diphosphate	D-Fructose 1,6-bisphosphate	R00764	green
+ATP-dependent phosphofructokinase / diphosphate-dependent phosphofructokinase	2.7.1.11	Diphosphate	Orthophosphate	R00764	green
+ATP-dependent phosphofructokinase / diphosphate-dependent phosphofructokinase	2.7.1.11	Orthophosphate	D-Fructose 6-phosphate	R00764	green
+ATP-dependent phosphofructokinase / diphosphate-dependent phosphofructokinase	2.7.1.11	Orthophosphate	Diphosphate	R00764	green
+L-lactate dehydrogenase	1.1.1.27	(S)-Lactate	H+	R00703	white
+L-lactate dehydrogenase	1.1.1.27	(S)-Lactate	NADH	R00703	white
+L-lactate dehydrogenase	1.1.1.27	(S)-Lactate	Pyruvate	R00703	white
+L-lactate dehydrogenase	1.1.1.27	H+	(S)-Lactate	R00703	white
+L-lactate dehydrogenase	1.1.1.27	H+	NAD+	R00703	white
+L-lactate dehydrogenase	1.1.1.27	NAD+	H+	R00703	white
+L-lactate dehydrogenase	1.1.1.27	NAD+	NADH	R00703	white
+L-lactate dehydrogenase	1.1.1.27	NAD+	Pyruvate	R00703	white
+L-lactate dehydrogenase	1.1.1.27	NADH	(S)-Lactate	R00703	white
+L-lactate dehydrogenase	1.1.1.27	NADH	NAD+	R00703	white
+L-lactate dehydrogenase	1.1.1.27	Pyruvate	(S)-Lactate	R00703	white
+L-lactate dehydrogenase	1.1.1.27	Pyruvate	NAD+	R00703	white
+S-(hydroxymethyl)glutathione dehydrogenase / alcohol dehydrogenase	1.1.1.284	Acetaldehyde	Ethanol	R00754	green
+S-(hydroxymethyl)glutathione dehydrogenase / alcohol dehydrogenase	1.1.1.284	Acetaldehyde	NAD+	R00754	green
+S-(hydroxymethyl)glutathione dehydrogenase / alcohol dehydrogenase	1.1.1.284	Ethanol	Acetaldehyde	R00754	green
+S-(hydroxymethyl)glutathione dehydrogenase / alcohol dehydrogenase	1.1.1.284	Ethanol	H+	R00754	green
+S-(hydroxymethyl)glutathione dehydrogenase / alcohol dehydrogenase	1.1.1.284	Ethanol	NADH	R00754	green
+S-(hydroxymethyl)glutathione dehydrogenase / alcohol dehydrogenase	1.1.1.284	H+	Ethanol	R00754	green
+S-(hydroxymethyl)glutathione dehydrogenase / alcohol dehydrogenase	1.1.1.284	H+	NAD+	R00754	green
+S-(hydroxymethyl)glutathione dehydrogenase / alcohol dehydrogenase	1.1.1.284	NAD+	Acetaldehyde	R00754	green
+S-(hydroxymethyl)glutathione dehydrogenase / alcohol dehydrogenase	1.1.1.284	NAD+	H+	R00754	green
+S-(hydroxymethyl)glutathione dehydrogenase / alcohol dehydrogenase	1.1.1.284	NAD+	NADH	R00754	green
+S-(hydroxymethyl)glutathione dehydrogenase / alcohol dehydrogenase	1.1.1.284	NADH	Ethanol	R00754	green
+S-(hydroxymethyl)glutathione dehydrogenase / alcohol dehydrogenase	1.1.1.284	NADH	NAD+	R00754	green
+acetate---CoA ligase (ADP-forming)	6.2.1.13	ATP	ADP	R00229	green
+acetate---CoA ligase (ADP-forming)	6.2.1.13	ATP	Acetyl-CoA	R00229	green
+acetate---CoA ligase (ADP-forming)	6.2.1.13	ATP	Orthophosphate	R00229	green
+acetate---CoA ligase (ADP-forming)	6.2.1.13	Acetate	ADP	R00229	green
+acetate---CoA ligase (ADP-forming)	6.2.1.13	Acetate	Acetyl-CoA	R00229	green
+acetate---CoA ligase (ADP-forming)	6.2.1.13	Acetate	Orthophosphate	R00229	green
+acetate---CoA ligase (ADP-forming)	6.2.1.13	CoA	ADP	R00229	green
+acetate---CoA ligase (ADP-forming)	6.2.1.13	CoA	Acetyl-CoA	R00229	green
+acetate---CoA ligase (ADP-forming)	6.2.1.13	CoA	Orthophosphate	R00229	green
+acetyl-CoA synthetase	6.2.1.1	ATP	AMP	R00235	green
+acetyl-CoA synthetase	6.2.1.1	ATP	Acetyl-CoA	R00235	green
+acetyl-CoA synthetase	6.2.1.1	ATP	Diphosphate	R00235	green
+acetyl-CoA synthetase	6.2.1.1	Acetate	AMP	R00235	green
+acetyl-CoA synthetase	6.2.1.1	Acetate	Acetyl-CoA	R00235	green
+acetyl-CoA synthetase	6.2.1.1	Acetate	Diphosphate	R00235	green
+acetyl-CoA synthetase	6.2.1.1	CoA	AMP	R00235	green
+acetyl-CoA synthetase	6.2.1.1	CoA	Acetyl-CoA	R00235	green
+acetyl-CoA synthetase	6.2.1.1	CoA	Diphosphate	R00235	green
+alcohol dehydrogenase	1.1.1.1	Acetaldehyde	Ethanol	R00754	green
+alcohol dehydrogenase	1.1.1.1	Acetaldehyde	NAD+	R00754	green
+alcohol dehydrogenase	1.1.1.1	Aldehyde	NAD+	R00623	white
+alcohol dehydrogenase	1.1.1.1	Aldehyde	Primary alcohol	R00623	white
+alcohol dehydrogenase	1.1.1.1	Ethanol	Acetaldehyde	R00754	green
+alcohol dehydrogenase	1.1.1.1	Ethanol	H+	R00754	green
+alcohol dehydrogenase	1.1.1.1	Ethanol	NADH	R00754	green
+alcohol dehydrogenase	1.1.1.1	H+	Ethanol	R00754	green
+alcohol dehydrogenase	1.1.1.1	H+	NAD+	R00623	white
+alcohol dehydrogenase	1.1.1.1	H+	NAD+	R00754	green
+alcohol dehydrogenase	1.1.1.1	H+	Primary alcohol	R00623	white
+alcohol dehydrogenase	1.1.1.1	NAD+	Acetaldehyde	R00754	green
+alcohol dehydrogenase	1.1.1.1	NAD+	Aldehyde	R00623	white
+alcohol dehydrogenase	1.1.1.1	NAD+	H+	R00623	white
+alcohol dehydrogenase	1.1.1.1	NAD+	H+	R00754	green
+alcohol dehydrogenase	1.1.1.1	NAD+	NADH	R00623	white
+alcohol dehydrogenase	1.1.1.1	NAD+	NADH	R00754	green
+alcohol dehydrogenase	1.1.1.1	NADH	Ethanol	R00754	green
+alcohol dehydrogenase	1.1.1.1	NADH	NAD+	R00623	white
+alcohol dehydrogenase	1.1.1.1	NADH	NAD+	R00754	green
+alcohol dehydrogenase	1.1.1.1	NADH	Primary alcohol	R00623	white
+alcohol dehydrogenase	1.1.1.1	Primary alcohol	Aldehyde	R00623	white
+alcohol dehydrogenase	1.1.1.1	Primary alcohol	H+	R00623	white
+alcohol dehydrogenase	1.1.1.1	Primary alcohol	NADH	R00623	white
+alcohol dehydrogenase (NADP+)	1.1.1.2	Acetaldehyde	Ethanol	R00746	green
+alcohol dehydrogenase (NADP+)	1.1.1.2	Acetaldehyde	NADP+	R00746	green
+alcohol dehydrogenase (NADP+)	1.1.1.2	Ethanol	Acetaldehyde	R00746	green
+alcohol dehydrogenase (NADP+)	1.1.1.2	Ethanol	H+	R00746	green
+alcohol dehydrogenase (NADP+)	1.1.1.2	Ethanol	NADPH	R00746	green
+alcohol dehydrogenase (NADP+)	1.1.1.2	H+	Ethanol	R00746	green
+alcohol dehydrogenase (NADP+)	1.1.1.2	H+	NADP+	R00746	green
+alcohol dehydrogenase (NADP+)	1.1.1.2	NADP+	Acetaldehyde	R00746	green
+alcohol dehydrogenase (NADP+)	1.1.1.2	NADP+	H+	R00746	green
+alcohol dehydrogenase (NADP+)	1.1.1.2	NADP+	NADPH	R00746	green
+alcohol dehydrogenase (NADP+)	1.1.1.2	NADPH	Ethanol	R00746	green
+alcohol dehydrogenase (NADP+)	1.1.1.2	NADPH	NADP+	R00746	green
+alcohol dehydrogenase (cytochrome c)	1.1.2.8	2-Propyn-1-ol	2-Propynal	R05062	white
+alcohol dehydrogenase (cytochrome c)	1.1.2.8	2-Propyn-1-ol	Ferrocytochrome c	R05062	white
+alcohol dehydrogenase (cytochrome c)	1.1.2.8	2-Propyn-1-ol	H+	R05062	white
+alcohol dehydrogenase (cytochrome c)	1.1.2.8	2-Propynal	2-Propyn-1-ol	R05062	white
+alcohol dehydrogenase (cytochrome c)	1.1.2.8	2-Propynal	Ferricytochrome c	R05062	white
+alcohol dehydrogenase (cytochrome c)	1.1.2.8	Ferricytochrome c	2-Propynal	R05062	white
+alcohol dehydrogenase (cytochrome c)	1.1.2.8	Ferricytochrome c	Ferrocytochrome c	R05062	white
+alcohol dehydrogenase (cytochrome c)	1.1.2.8	Ferricytochrome c	H+	R05062	white
+alcohol dehydrogenase (cytochrome c)	1.1.2.8	Ferrocytochrome c	2-Propyn-1-ol	R05062	white
+alcohol dehydrogenase (cytochrome c)	1.1.2.8	Ferrocytochrome c	Ferricytochrome c	R05062	white
+alcohol dehydrogenase (cytochrome c)	1.1.2.8	H+	2-Propyn-1-ol	R05062	white
+alcohol dehydrogenase (cytochrome c)	1.1.2.8	H+	Ferricytochrome c	R05062	white
+alcohol dehydrogenase (quinone), cytochrome c subunit	1.1.5.5	Acetaldehyde	Ethanol	R09479	white
+alcohol dehydrogenase (quinone), cytochrome c subunit	1.1.5.5	Acetaldehyde	Ubiquinone	R09479	white
+alcohol dehydrogenase (quinone), cytochrome c subunit	1.1.5.5	Ethanol	Acetaldehyde	R09479	white
+alcohol dehydrogenase (quinone), cytochrome c subunit	1.1.5.5	Ethanol	Ubiquinol	R09479	white
+alcohol dehydrogenase (quinone), cytochrome c subunit	1.1.5.5	Ubiquinol	Ethanol	R09479	white
+alcohol dehydrogenase (quinone), cytochrome c subunit	1.1.5.5	Ubiquinol	Ubiquinone	R09479	white
+alcohol dehydrogenase (quinone), cytochrome c subunit	1.1.5.5	Ubiquinone	Acetaldehyde	R09479	white
+alcohol dehydrogenase (quinone), cytochrome c subunit	1.1.5.5	Ubiquinone	Ubiquinol	R09479	white
+alcohol dehydrogenase (quinone), dehydrogenase subunit	1.1.5.5	Acetaldehyde	Ethanol	R09479	white
+alcohol dehydrogenase (quinone), dehydrogenase subunit	1.1.5.5	Acetaldehyde	Ubiquinone	R09479	white
+alcohol dehydrogenase (quinone), dehydrogenase subunit	1.1.5.5	Ethanol	Acetaldehyde	R09479	white
+alcohol dehydrogenase (quinone), dehydrogenase subunit	1.1.5.5	Ethanol	Ubiquinol	R09479	white
+alcohol dehydrogenase (quinone), dehydrogenase subunit	1.1.5.5	Ubiquinol	Ethanol	R09479	white
+alcohol dehydrogenase (quinone), dehydrogenase subunit	1.1.5.5	Ubiquinol	Ubiquinone	R09479	white
+alcohol dehydrogenase (quinone), dehydrogenase subunit	1.1.5.5	Ubiquinone	Acetaldehyde	R09479	white
+alcohol dehydrogenase (quinone), dehydrogenase subunit	1.1.5.5	Ubiquinone	Ubiquinol	R09479	white
+alcohol dehydrogenase, propanol-preferring	1.1.1.1	Acetaldehyde	Ethanol	R00754	green
+alcohol dehydrogenase, propanol-preferring	1.1.1.1	Acetaldehyde	NAD+	R00754	green
+alcohol dehydrogenase, propanol-preferring	1.1.1.1	Ethanol	Acetaldehyde	R00754	green
+alcohol dehydrogenase, propanol-preferring	1.1.1.1	Ethanol	H+	R00754	green
+alcohol dehydrogenase, propanol-preferring	1.1.1.1	Ethanol	NADH	R00754	green
+alcohol dehydrogenase, propanol-preferring	1.1.1.1	H+	Ethanol	R00754	green
+alcohol dehydrogenase, propanol-preferring	1.1.1.1	H+	NAD+	R00754	green
+alcohol dehydrogenase, propanol-preferring	1.1.1.1	NAD+	Acetaldehyde	R00754	green
+alcohol dehydrogenase, propanol-preferring	1.1.1.1	NAD+	H+	R00754	green
+alcohol dehydrogenase, propanol-preferring	1.1.1.1	NAD+	NADH	R00754	green
+alcohol dehydrogenase, propanol-preferring	1.1.1.1	NADH	Ethanol	R00754	green
+alcohol dehydrogenase, propanol-preferring	1.1.1.1	NADH	NAD+	R00754	green
+aldehyde dehydrogenase	1.2.1.-	Acetaldehyde	Acetate	R00711	green
+aldehyde dehydrogenase	1.2.1.-	Acetaldehyde	H+	R00711	green
+aldehyde dehydrogenase	1.2.1.-	Acetaldehyde	NADPH	R00711	green
+aldehyde dehydrogenase	1.2.1.-	Acetate	Acetaldehyde	R00711	green
+aldehyde dehydrogenase	1.2.1.-	Acetate	H2O	R00711	green
+aldehyde dehydrogenase	1.2.1.-	Acetate	NADP+	R00711	green
+aldehyde dehydrogenase	1.2.1.-	H+	Acetaldehyde	R00711	green
+aldehyde dehydrogenase	1.2.1.-	H+	H2O	R00711	green
+aldehyde dehydrogenase	1.2.1.-	H+	NADP+	R00711	green
+aldehyde dehydrogenase	1.2.1.-	H2O	Acetate	R00711	green
+aldehyde dehydrogenase	1.2.1.-	H2O	H+	R00711	green
+aldehyde dehydrogenase	1.2.1.-	H2O	NADPH	R00711	green
+aldehyde dehydrogenase	1.2.1.-	NADP+	Acetate	R00711	green
+aldehyde dehydrogenase	1.2.1.-	NADP+	H+	R00711	green
+aldehyde dehydrogenase	1.2.1.-	NADP+	NADPH	R00711	green
+aldehyde dehydrogenase	1.2.1.-	NADPH	Acetaldehyde	R00711	green
+aldehyde dehydrogenase	1.2.1.-	NADPH	H2O	R00711	green
+aldehyde dehydrogenase	1.2.1.-	NADPH	NADP+	R00711	green
+aldehyde dehydrogenase (NAD(P)+)	1.2.1.5	Acetaldehyde	Acetate	R00711	green
+aldehyde dehydrogenase (NAD(P)+)	1.2.1.5	Acetaldehyde	H+	R00711	green
+aldehyde dehydrogenase (NAD(P)+)	1.2.1.5	Acetaldehyde	NADPH	R00711	green
+aldehyde dehydrogenase (NAD(P)+)	1.2.1.5	Acetate	Acetaldehyde	R00711	green
+aldehyde dehydrogenase (NAD(P)+)	1.2.1.5	Acetate	H2O	R00711	green
+aldehyde dehydrogenase (NAD(P)+)	1.2.1.5	Acetate	NADP+	R00711	green
+aldehyde dehydrogenase (NAD(P)+)	1.2.1.5	H+	Acetaldehyde	R00711	green
+aldehyde dehydrogenase (NAD(P)+)	1.2.1.5	H+	H2O	R00711	green
+aldehyde dehydrogenase (NAD(P)+)	1.2.1.5	H+	NADP+	R00711	green
+aldehyde dehydrogenase (NAD(P)+)	1.2.1.5	H2O	Acetate	R00711	green
+aldehyde dehydrogenase (NAD(P)+)	1.2.1.5	H2O	H+	R00711	green
+aldehyde dehydrogenase (NAD(P)+)	1.2.1.5	H2O	NADPH	R00711	green
+aldehyde dehydrogenase (NAD(P)+)	1.2.1.5	NADP+	Acetate	R00711	green
+aldehyde dehydrogenase (NAD(P)+)	1.2.1.5	NADP+	H+	R00711	green
+aldehyde dehydrogenase (NAD(P)+)	1.2.1.5	NADP+	NADPH	R00711	green
+aldehyde dehydrogenase (NAD(P)+)	1.2.1.5	NADPH	Acetaldehyde	R00711	green
+aldehyde dehydrogenase (NAD(P)+)	1.2.1.5	NADPH	H2O	R00711	green
+aldehyde dehydrogenase (NAD(P)+)	1.2.1.5	NADPH	NADP+	R00711	green
+aldehyde dehydrogenase (NAD+)	1.2.1.3	Acetaldehyde	Acetate	R00710	green
+aldehyde dehydrogenase (NAD+)	1.2.1.3	Acetaldehyde	H+	R00710	green
+aldehyde dehydrogenase (NAD+)	1.2.1.3	Acetaldehyde	NADH	R00710	green
+aldehyde dehydrogenase (NAD+)	1.2.1.3	Acetate	Acetaldehyde	R00710	green
+aldehyde dehydrogenase (NAD+)	1.2.1.3	Acetate	H2O	R00710	green
+aldehyde dehydrogenase (NAD+)	1.2.1.3	Acetate	NAD+	R00710	green
+aldehyde dehydrogenase (NAD+)	1.2.1.3	H+	Acetaldehyde	R00710	green
+aldehyde dehydrogenase (NAD+)	1.2.1.3	H+	H2O	R00710	green
+aldehyde dehydrogenase (NAD+)	1.2.1.3	H+	NAD+	R00710	green
+aldehyde dehydrogenase (NAD+)	1.2.1.3	H2O	Acetate	R00710	green
+aldehyde dehydrogenase (NAD+)	1.2.1.3	H2O	H+	R00710	green
+aldehyde dehydrogenase (NAD+)	1.2.1.3	H2O	NADH	R00710	green
+aldehyde dehydrogenase (NAD+)	1.2.1.3	NAD+	Acetate	R00710	green
+aldehyde dehydrogenase (NAD+)	1.2.1.3	NAD+	H+	R00710	green
+aldehyde dehydrogenase (NAD+)	1.2.1.3	NAD+	NADH	R00710	green
+aldehyde dehydrogenase (NAD+)	1.2.1.3	NADH	Acetaldehyde	R00710	green
+aldehyde dehydrogenase (NAD+)	1.2.1.3	NADH	H2O	R00710	green
+aldehyde dehydrogenase (NAD+)	1.2.1.3	NADH	NAD+	R00710	green
+aldose 1-epimerase	5.1.3.3	alpha-D-Glucose	beta-D-Glucose	R01602	green
+aldose 1-epimerase	5.1.3.3	beta-D-Glucose	alpha-D-Glucose	R01602	green
+bisphosphoglycerate/phosphoglycerate mutase	5.4.2.4	2,3-Bisphospho-D-glycerate	3-Phospho-D-glycerate	R01516	white
+bisphosphoglycerate/phosphoglycerate mutase	5.4.2.4	2,3-Bisphospho-D-glycerate	Protein N(tau)-phospho-L-histidine	R01516	white
+bisphosphoglycerate/phosphoglycerate mutase	5.4.2.4	3-Phospho-D-glycerate	2,3-Bisphospho-D-glycerate	R01516	white
+bisphosphoglycerate/phosphoglycerate mutase	5.4.2.4	3-Phospho-D-glycerate	Protein histidine	R01516	white
+bisphosphoglycerate/phosphoglycerate mutase	5.4.2.4	Protein N(tau)-phospho-L-histidine	2,3-Bisphospho-D-glycerate	R01516	white
+bisphosphoglycerate/phosphoglycerate mutase	5.4.2.4	Protein N(tau)-phospho-L-histidine	Protein histidine	R01516	white
+bisphosphoglycerate/phosphoglycerate mutase	5.4.2.4	Protein histidine	3-Phospho-D-glycerate	R01516	white
+bisphosphoglycerate/phosphoglycerate mutase	5.4.2.4	Protein histidine	Protein N(tau)-phospho-L-histidine	R01516	white
+dihydrolipoyl dehydrogenase	1.8.1.4	Enzyme N6-(dihydrolipoyl)lysine	Enzyme N6-(lipoyl)lysine	R07618	green
+dihydrolipoyl dehydrogenase	1.8.1.4	Enzyme N6-(dihydrolipoyl)lysine	H+	R07618	green
+dihydrolipoyl dehydrogenase	1.8.1.4	Enzyme N6-(dihydrolipoyl)lysine	NADH	R07618	green
+dihydrolipoyl dehydrogenase	1.8.1.4	Enzyme N6-(lipoyl)lysine	Enzyme N6-(dihydrolipoyl)lysine	R07618	green
+dihydrolipoyl dehydrogenase	1.8.1.4	Enzyme N6-(lipoyl)lysine	NAD+	R07618	green
+dihydrolipoyl dehydrogenase	1.8.1.4	H+	Enzyme N6-(dihydrolipoyl)lysine	R07618	green
+dihydrolipoyl dehydrogenase	1.8.1.4	H+	NAD+	R07618	green
+dihydrolipoyl dehydrogenase	1.8.1.4	NAD+	Enzyme N6-(lipoyl)lysine	R07618	green
+dihydrolipoyl dehydrogenase	1.8.1.4	NAD+	H+	R07618	green
+dihydrolipoyl dehydrogenase	1.8.1.4	NAD+	NADH	R07618	green
+dihydrolipoyl dehydrogenase	1.8.1.4	NADH	Enzyme N6-(dihydrolipoyl)lysine	R07618	green
+dihydrolipoyl dehydrogenase	1.8.1.4	NADH	NAD+	R07618	green
+enolase 1/2/3	4.2.1.11	2-Phospho-D-glycerate	H2O	R00658	green
+enolase 1/2/3	4.2.1.11	2-Phospho-D-glycerate	Phosphoenolpyruvate	R00658	green
+enolase 1/2/3	4.2.1.11	H2O	2-Phospho-D-glycerate	R00658	green
+enolase 1/2/3	4.2.1.11	Phosphoenolpyruvate	2-Phospho-D-glycerate	R00658	green
+fructose-1,6-bisphosphatase II	3.1.3.11	D-Fructose 1,6-bisphosphate	D-Fructose 6-phosphate	R00762	green
+fructose-1,6-bisphosphatase II	3.1.3.11	D-Fructose 1,6-bisphosphate	Orthophosphate	R00762	green
+fructose-1,6-bisphosphatase II	3.1.3.11	H2O	D-Fructose 6-phosphate	R00762	green
+fructose-1,6-bisphosphatase II	3.1.3.11	H2O	Orthophosphate	R00762	green
+fructose-bisphosphate aldolase, class II	4.1.2.13	D-Fructose 1,6-bisphosphate	D-Glyceraldehyde 3-phosphate	R01068	green
+fructose-bisphosphate aldolase, class II	4.1.2.13	D-Fructose 1,6-bisphosphate	Glycerone phosphate	R01068	green
+fructose-bisphosphate aldolase, class II	4.1.2.13	D-Glyceraldehyde 3-phosphate	D-Fructose 1,6-bisphosphate	R01068	green
+fructose-bisphosphate aldolase, class II	4.1.2.13	Glycerone phosphate	D-Fructose 1,6-bisphosphate	R01068	green
+glucokinase	2.7.1.2	ATP	ADP	R01600	green
+glucokinase	2.7.1.2	ATP	ADP	R01786	green
+glucokinase	2.7.1.2	ATP	alpha-D-Glucose 6-phosphate	R01786	green
+glucokinase	2.7.1.2	ATP	beta-D-Glucose 6-phosphate	R01600	green
+glucokinase	2.7.1.2	alpha-D-Glucose	ADP	R01786	green
+glucokinase	2.7.1.2	alpha-D-Glucose	alpha-D-Glucose 6-phosphate	R01786	green
+glucokinase	2.7.1.2	beta-D-Glucose	ADP	R01600	green
+glucokinase	2.7.1.2	beta-D-Glucose	beta-D-Glucose 6-phosphate	R01600	green
+glucose-1-phosphatase	3.1.3.10	D-Glucose 1-phosphate	Orthophosphate	R00947	white
+glucose-1-phosphatase	3.1.3.10	D-Glucose 1-phosphate	alpha-D-Glucose	R00947	white
+glucose-1-phosphatase	3.1.3.10	H2O	Orthophosphate	R00947	white
+glucose-1-phosphatase	3.1.3.10	H2O	alpha-D-Glucose	R00947	white
+glucose-1-phosphatase	3.1.3.10	Orthophosphate	D-Glucose 1-phosphate	R00947	white
+glucose-1-phosphatase	3.1.3.10	Orthophosphate	H2O	R00947	white
+glucose-1-phosphatase	3.1.3.10	alpha-D-Glucose	D-Glucose 1-phosphate	R00947	white
+glucose-1-phosphatase	3.1.3.10	alpha-D-Glucose	H2O	R00947	white
+glucose-6-phosphatase	3.1.3.9	D-Glucose	D-Glucose 6-phosphate	R00303	white
+glucose-6-phosphatase	3.1.3.9	D-Glucose	H2O	R00303	white
+glucose-6-phosphatase	3.1.3.9	D-Glucose 6-phosphate	D-Glucose	R00303	white
+glucose-6-phosphatase	3.1.3.9	D-Glucose 6-phosphate	Orthophosphate	R00303	white
+glucose-6-phosphatase	3.1.3.9	H2O	D-Glucose	R00303	white
+glucose-6-phosphatase	3.1.3.9	H2O	Orthophosphate	R00303	white
+glucose-6-phosphatase	3.1.3.9	Orthophosphate	D-Glucose 6-phosphate	R00303	white
+glucose-6-phosphatase	3.1.3.9	Orthophosphate	H2O	R00303	white
+glucose-6-phosphate 1-epimerase	5.1.3.15	alpha-D-Glucose 6-phosphate	beta-D-Glucose 6-phosphate	R02739	white
+glucose-6-phosphate 1-epimerase	5.1.3.15	beta-D-Glucose 6-phosphate	alpha-D-Glucose 6-phosphate	R02739	white
+glucose-6-phosphate isomerase	5.3.1.9	D-Fructose 6-phosphate	alpha-D-Glucose 6-phosphate	R13199	green
+glucose-6-phosphate isomerase	5.3.1.9	alpha-D-Glucose 6-phosphate	D-Fructose 6-phosphate	R13199	green
+glucose-6-phosphate isomerase	5.3.1.9	alpha-D-Glucose 6-phosphate	beta-D-Glucose 6-phosphate	R02739	green
+glucose-6-phosphate isomerase	5.3.1.9	beta-D-Glucose 6-phosphate	alpha-D-Glucose 6-phosphate	R02739	green
+glyceraldehyde 3-phosphate dehydrogenase (phosphorylating)	1.2.1.12	3-Phospho-D-glyceroyl phosphate	D-Glyceraldehyde 3-phosphate	R01061	green
+glyceraldehyde 3-phosphate dehydrogenase (phosphorylating)	1.2.1.12	3-Phospho-D-glyceroyl phosphate	NAD+	R01061	green
+glyceraldehyde 3-phosphate dehydrogenase (phosphorylating)	1.2.1.12	3-Phospho-D-glyceroyl phosphate	Orthophosphate	R01061	green
+glyceraldehyde 3-phosphate dehydrogenase (phosphorylating)	1.2.1.12	D-Glyceraldehyde 3-phosphate	3-Phospho-D-glyceroyl phosphate	R01061	green
+glyceraldehyde 3-phosphate dehydrogenase (phosphorylating)	1.2.1.12	D-Glyceraldehyde 3-phosphate	H+	R01061	green
+glyceraldehyde 3-phosphate dehydrogenase (phosphorylating)	1.2.1.12	D-Glyceraldehyde 3-phosphate	NADH	R01061	green
+glyceraldehyde 3-phosphate dehydrogenase (phosphorylating)	1.2.1.12	H+	D-Glyceraldehyde 3-phosphate	R01061	green
+glyceraldehyde 3-phosphate dehydrogenase (phosphorylating)	1.2.1.12	H+	NAD+	R01061	green
+glyceraldehyde 3-phosphate dehydrogenase (phosphorylating)	1.2.1.12	H+	Orthophosphate	R01061	green
+glyceraldehyde 3-phosphate dehydrogenase (phosphorylating)	1.2.1.12	NAD+	3-Phospho-D-glyceroyl phosphate	R01061	green
+glyceraldehyde 3-phosphate dehydrogenase (phosphorylating)	1.2.1.12	NAD+	H+	R01061	green
+glyceraldehyde 3-phosphate dehydrogenase (phosphorylating)	1.2.1.12	NAD+	NADH	R01061	green
+glyceraldehyde 3-phosphate dehydrogenase (phosphorylating)	1.2.1.12	NADH	D-Glyceraldehyde 3-phosphate	R01061	green
+glyceraldehyde 3-phosphate dehydrogenase (phosphorylating)	1.2.1.12	NADH	NAD+	R01061	green
+glyceraldehyde 3-phosphate dehydrogenase (phosphorylating)	1.2.1.12	NADH	Orthophosphate	R01061	green
+glyceraldehyde 3-phosphate dehydrogenase (phosphorylating)	1.2.1.12	Orthophosphate	3-Phospho-D-glyceroyl phosphate	R01061	green
+glyceraldehyde 3-phosphate dehydrogenase (phosphorylating)	1.2.1.12	Orthophosphate	H+	R01061	green
+glyceraldehyde 3-phosphate dehydrogenase (phosphorylating)	1.2.1.12	Orthophosphate	NADH	R01061	green
+glyceraldehyde-3-phosphate dehydrogenase (NAD(P)+) (phosphorylating)	1.2.1.59	3-Phospho-D-glyceroyl phosphate	D-Glyceraldehyde 3-phosphate	R01061	white
+glyceraldehyde-3-phosphate dehydrogenase (NAD(P)+) (phosphorylating)	1.2.1.59	3-Phospho-D-glyceroyl phosphate	NAD+	R01061	white
+glyceraldehyde-3-phosphate dehydrogenase (NAD(P)+) (phosphorylating)	1.2.1.59	3-Phospho-D-glyceroyl phosphate	Orthophosphate	R01061	white
+glyceraldehyde-3-phosphate dehydrogenase (NAD(P)+) (phosphorylating)	1.2.1.59	D-Glyceraldehyde 3-phosphate	3-Phospho-D-glyceroyl phosphate	R01061	white
+glyceraldehyde-3-phosphate dehydrogenase (NAD(P)+) (phosphorylating)	1.2.1.59	D-Glyceraldehyde 3-phosphate	H+	R01061	white
+glyceraldehyde-3-phosphate dehydrogenase (NAD(P)+) (phosphorylating)	1.2.1.59	D-Glyceraldehyde 3-phosphate	NADH	R01061	white
+glyceraldehyde-3-phosphate dehydrogenase (NAD(P)+) (phosphorylating)	1.2.1.59	H+	D-Glyceraldehyde 3-phosphate	R01061	white
+glyceraldehyde-3-phosphate dehydrogenase (NAD(P)+) (phosphorylating)	1.2.1.59	H+	NAD+	R01061	white
+glyceraldehyde-3-phosphate dehydrogenase (NAD(P)+) (phosphorylating)	1.2.1.59	H+	Orthophosphate	R01061	white
+glyceraldehyde-3-phosphate dehydrogenase (NAD(P)+) (phosphorylating)	1.2.1.59	NAD+	3-Phospho-D-glyceroyl phosphate	R01061	white
+glyceraldehyde-3-phosphate dehydrogenase (NAD(P)+) (phosphorylating)	1.2.1.59	NAD+	H+	R01061	white
+glyceraldehyde-3-phosphate dehydrogenase (NAD(P)+) (phosphorylating)	1.2.1.59	NAD+	NADH	R01061	white
+glyceraldehyde-3-phosphate dehydrogenase (NAD(P)+) (phosphorylating)	1.2.1.59	NADH	D-Glyceraldehyde 3-phosphate	R01061	white
+glyceraldehyde-3-phosphate dehydrogenase (NAD(P)+) (phosphorylating)	1.2.1.59	NADH	NAD+	R01061	white
+glyceraldehyde-3-phosphate dehydrogenase (NAD(P)+) (phosphorylating)	1.2.1.59	NADH	Orthophosphate	R01061	white
+glyceraldehyde-3-phosphate dehydrogenase (NAD(P)+) (phosphorylating)	1.2.1.59	Orthophosphate	3-Phospho-D-glyceroyl phosphate	R01061	white
+glyceraldehyde-3-phosphate dehydrogenase (NAD(P)+) (phosphorylating)	1.2.1.59	Orthophosphate	H+	R01061	white
+glyceraldehyde-3-phosphate dehydrogenase (NAD(P)+) (phosphorylating)	1.2.1.59	Orthophosphate	NADH	R01061	white
+glyceraldehyde-3-phosphate dehydrogenase (NADP+)	1.2.1.9	3-Phospho-D-glycerate	D-Glyceraldehyde 3-phosphate	R01058	white
+glyceraldehyde-3-phosphate dehydrogenase (NADP+)	1.2.1.9	3-Phospho-D-glycerate	H2O	R01058	white
+glyceraldehyde-3-phosphate dehydrogenase (NADP+)	1.2.1.9	3-Phospho-D-glycerate	NADP+	R01058	white
+glyceraldehyde-3-phosphate dehydrogenase (NADP+)	1.2.1.9	D-Glyceraldehyde 3-phosphate	3-Phospho-D-glycerate	R01058	white
+glyceraldehyde-3-phosphate dehydrogenase (NADP+)	1.2.1.9	D-Glyceraldehyde 3-phosphate	H+	R01058	white
+glyceraldehyde-3-phosphate dehydrogenase (NADP+)	1.2.1.9	D-Glyceraldehyde 3-phosphate	NADPH	R01058	white
+glyceraldehyde-3-phosphate dehydrogenase (NADP+)	1.2.1.9	H+	D-Glyceraldehyde 3-phosphate	R01058	white
+glyceraldehyde-3-phosphate dehydrogenase (NADP+)	1.2.1.9	H+	H2O	R01058	white
+glyceraldehyde-3-phosphate dehydrogenase (NADP+)	1.2.1.9	H+	NADP+	R01058	white
+glyceraldehyde-3-phosphate dehydrogenase (NADP+)	1.2.1.9	H2O	3-Phospho-D-glycerate	R01058	white
+glyceraldehyde-3-phosphate dehydrogenase (NADP+)	1.2.1.9	H2O	H+	R01058	white
+glyceraldehyde-3-phosphate dehydrogenase (NADP+)	1.2.1.9	H2O	NADPH	R01058	white
+glyceraldehyde-3-phosphate dehydrogenase (NADP+)	1.2.1.9	NADP+	3-Phospho-D-glycerate	R01058	white
+glyceraldehyde-3-phosphate dehydrogenase (NADP+)	1.2.1.9	NADP+	H+	R01058	white
+glyceraldehyde-3-phosphate dehydrogenase (NADP+)	1.2.1.9	NADP+	NADPH	R01058	white
+glyceraldehyde-3-phosphate dehydrogenase (NADP+)	1.2.1.9	NADPH	D-Glyceraldehyde 3-phosphate	R01058	white
+glyceraldehyde-3-phosphate dehydrogenase (NADP+)	1.2.1.9	NADPH	H2O	R01058	white
+glyceraldehyde-3-phosphate dehydrogenase (NADP+)	1.2.1.9	NADPH	NADP+	R01058	white
+glyceraldehyde-3-phosphate dehydrogenase (ferredoxin)	1.2.7.6	3-Phospho-D-glycerate	D-Glyceraldehyde 3-phosphate	R07159	white
+glyceraldehyde-3-phosphate dehydrogenase (ferredoxin)	1.2.7.6	3-Phospho-D-glycerate	H2O	R07159	white
+glyceraldehyde-3-phosphate dehydrogenase (ferredoxin)	1.2.7.6	3-Phospho-D-glycerate	Oxidized ferredoxin	R07159	white
+glyceraldehyde-3-phosphate dehydrogenase (ferredoxin)	1.2.7.6	D-Glyceraldehyde 3-phosphate	3-Phospho-D-glycerate	R07159	white
+glyceraldehyde-3-phosphate dehydrogenase (ferredoxin)	1.2.7.6	D-Glyceraldehyde 3-phosphate	H+	R07159	white
+glyceraldehyde-3-phosphate dehydrogenase (ferredoxin)	1.2.7.6	D-Glyceraldehyde 3-phosphate	Reduced ferredoxin	R07159	white
+glyceraldehyde-3-phosphate dehydrogenase (ferredoxin)	1.2.7.6	H+	D-Glyceraldehyde 3-phosphate	R07159	white
+glyceraldehyde-3-phosphate dehydrogenase (ferredoxin)	1.2.7.6	H+	H2O	R07159	white
+glyceraldehyde-3-phosphate dehydrogenase (ferredoxin)	1.2.7.6	H+	Oxidized ferredoxin	R07159	white
+glyceraldehyde-3-phosphate dehydrogenase (ferredoxin)	1.2.7.6	H2O	3-Phospho-D-glycerate	R07159	white
+glyceraldehyde-3-phosphate dehydrogenase (ferredoxin)	1.2.7.6	H2O	H+	R07159	white
+glyceraldehyde-3-phosphate dehydrogenase (ferredoxin)	1.2.7.6	H2O	Reduced ferredoxin	R07159	white
+glyceraldehyde-3-phosphate dehydrogenase (ferredoxin)	1.2.7.6	Oxidized ferredoxin	3-Phospho-D-glycerate	R07159	white
+glyceraldehyde-3-phosphate dehydrogenase (ferredoxin)	1.2.7.6	Oxidized ferredoxin	H+	R07159	white
+glyceraldehyde-3-phosphate dehydrogenase (ferredoxin)	1.2.7.6	Oxidized ferredoxin	Reduced ferredoxin	R07159	white
+glyceraldehyde-3-phosphate dehydrogenase (ferredoxin)	1.2.7.6	Reduced ferredoxin	D-Glyceraldehyde 3-phosphate	R07159	white
+glyceraldehyde-3-phosphate dehydrogenase (ferredoxin)	1.2.7.6	Reduced ferredoxin	H2O	R07159	white
+glyceraldehyde-3-phosphate dehydrogenase (ferredoxin)	1.2.7.6	Reduced ferredoxin	Oxidized ferredoxin	R07159	white
+glyceraldehyde-3-phosphate dehydrogenase [NAD(P)+]	1.2.1.90	3-Phospho-D-glycerate	D-Glyceraldehyde 3-phosphate	R01058	white
+glyceraldehyde-3-phosphate dehydrogenase [NAD(P)+]	1.2.1.90	3-Phospho-D-glycerate	H2O	R01058	white
+glyceraldehyde-3-phosphate dehydrogenase [NAD(P)+]	1.2.1.90	3-Phospho-D-glycerate	NADP+	R01058	white
+glyceraldehyde-3-phosphate dehydrogenase [NAD(P)+]	1.2.1.90	D-Glyceraldehyde 3-phosphate	3-Phospho-D-glycerate	R01058	white
+glyceraldehyde-3-phosphate dehydrogenase [NAD(P)+]	1.2.1.90	D-Glyceraldehyde 3-phosphate	H+	R01058	white
+glyceraldehyde-3-phosphate dehydrogenase [NAD(P)+]	1.2.1.90	D-Glyceraldehyde 3-phosphate	NADPH	R01058	white
+glyceraldehyde-3-phosphate dehydrogenase [NAD(P)+]	1.2.1.90	H+	D-Glyceraldehyde 3-phosphate	R01058	white
+glyceraldehyde-3-phosphate dehydrogenase [NAD(P)+]	1.2.1.90	H+	H2O	R01058	white
+glyceraldehyde-3-phosphate dehydrogenase [NAD(P)+]	1.2.1.90	H+	NADP+	R01058	white
+glyceraldehyde-3-phosphate dehydrogenase [NAD(P)+]	1.2.1.90	H2O	3-Phospho-D-glycerate	R01058	white
+glyceraldehyde-3-phosphate dehydrogenase [NAD(P)+]	1.2.1.90	H2O	H+	R01058	white
+glyceraldehyde-3-phosphate dehydrogenase [NAD(P)+]	1.2.1.90	H2O	NADPH	R01058	white
+glyceraldehyde-3-phosphate dehydrogenase [NAD(P)+]	1.2.1.90	NADP+	3-Phospho-D-glycerate	R01058	white
+glyceraldehyde-3-phosphate dehydrogenase [NAD(P)+]	1.2.1.90	NADP+	H+	R01058	white
+glyceraldehyde-3-phosphate dehydrogenase [NAD(P)+]	1.2.1.90	NADP+	NADPH	R01058	white
+glyceraldehyde-3-phosphate dehydrogenase [NAD(P)+]	1.2.1.90	NADPH	D-Glyceraldehyde 3-phosphate	R01058	white
+glyceraldehyde-3-phosphate dehydrogenase [NAD(P)+]	1.2.1.90	NADPH	H2O	R01058	white
+glyceraldehyde-3-phosphate dehydrogenase [NAD(P)+]	1.2.1.90	NADPH	NADP+	R01058	white
+hexokinase	2.7.1.1	ADP	ATP	R00299	white
+hexokinase	2.7.1.1	ADP	D-Glucose	R00299	white
+hexokinase	2.7.1.1	ATP	ADP	R00299	white
+hexokinase	2.7.1.1	ATP	D-Glucose 6-phosphate	R00299	white
+hexokinase	2.7.1.1	D-Glucose	ADP	R00299	white
+hexokinase	2.7.1.1	D-Glucose	D-Glucose 6-phosphate	R00299	white
+hexokinase	2.7.1.1	D-Glucose 6-phosphate	ATP	R00299	white
+hexokinase	2.7.1.1	D-Glucose 6-phosphate	D-Glucose	R00299	white
+methanol dehydrogenase (cytochrome c) subunit 1	1.1.2.7	Ferricytochrome cL	Ferrocytochrome cL	R01146	white
+methanol dehydrogenase (cytochrome c) subunit 1	1.1.2.7	Ferricytochrome cL	Formaldehyde	R01146	white
+methanol dehydrogenase (cytochrome c) subunit 1	1.1.2.7	Ferricytochrome cL	H+	R01146	white
+methanol dehydrogenase (cytochrome c) subunit 1	1.1.2.7	Ferrocytochrome cL	Ferricytochrome cL	R01146	white
+methanol dehydrogenase (cytochrome c) subunit 1	1.1.2.7	Ferrocytochrome cL	Methanol	R01146	white
+methanol dehydrogenase (cytochrome c) subunit 1	1.1.2.7	Formaldehyde	Ferricytochrome cL	R01146	white
+methanol dehydrogenase (cytochrome c) subunit 1	1.1.2.7	Formaldehyde	Methanol	R01146	white
+methanol dehydrogenase (cytochrome c) subunit 1	1.1.2.7	H+	Ferricytochrome cL	R01146	white
+methanol dehydrogenase (cytochrome c) subunit 1	1.1.2.7	H+	Methanol	R01146	white
+methanol dehydrogenase (cytochrome c) subunit 1	1.1.2.7	Methanol	Ferrocytochrome cL	R01146	white
+methanol dehydrogenase (cytochrome c) subunit 1	1.1.2.7	Methanol	Formaldehyde	R01146	white
+methanol dehydrogenase (cytochrome c) subunit 1	1.1.2.7	Methanol	H+	R01146	white
+methanol dehydrogenase (cytochrome c) subunit 2	1.1.2.7	Ferricytochrome cL	Ferrocytochrome cL	R01146	white
+methanol dehydrogenase (cytochrome c) subunit 2	1.1.2.7	Ferricytochrome cL	Formaldehyde	R01146	white
+methanol dehydrogenase (cytochrome c) subunit 2	1.1.2.7	Ferricytochrome cL	H+	R01146	white
+methanol dehydrogenase (cytochrome c) subunit 2	1.1.2.7	Ferrocytochrome cL	Ferricytochrome cL	R01146	white
+methanol dehydrogenase (cytochrome c) subunit 2	1.1.2.7	Ferrocytochrome cL	Methanol	R01146	white
+methanol dehydrogenase (cytochrome c) subunit 2	1.1.2.7	Formaldehyde	Ferricytochrome cL	R01146	white
+methanol dehydrogenase (cytochrome c) subunit 2	1.1.2.7	Formaldehyde	Methanol	R01146	white
+methanol dehydrogenase (cytochrome c) subunit 2	1.1.2.7	H+	Ferricytochrome cL	R01146	white
+methanol dehydrogenase (cytochrome c) subunit 2	1.1.2.7	H+	Methanol	R01146	white
+methanol dehydrogenase (cytochrome c) subunit 2	1.1.2.7	Methanol	Ferrocytochrome cL	R01146	white
+methanol dehydrogenase (cytochrome c) subunit 2	1.1.2.7	Methanol	Formaldehyde	R01146	white
+methanol dehydrogenase (cytochrome c) subunit 2	1.1.2.7	Methanol	H+	R01146	white
+multiple inositol-polyphosphate phosphatase / 2,3-bisphosphoglycerate 3-phosphatase	3.1.3.62	1D-myo-Inositol 1,3,4,5-tetrakisphosphate	D-myo-Inositol 1,4,5-trisphosphate	R03434	white
+multiple inositol-polyphosphate phosphatase / 2,3-bisphosphoglycerate 3-phosphatase	3.1.3.62	1D-myo-Inositol 1,3,4,5-tetrakisphosphate	Orthophosphate	R03434	white
+multiple inositol-polyphosphate phosphatase / 2,3-bisphosphoglycerate 3-phosphatase	3.1.3.62	D-myo-Inositol 1,4,5-trisphosphate	1D-myo-Inositol 1,3,4,5-tetrakisphosphate	R03434	white
+multiple inositol-polyphosphate phosphatase / 2,3-bisphosphoglycerate 3-phosphatase	3.1.3.62	D-myo-Inositol 1,4,5-trisphosphate	H2O	R03434	white
+multiple inositol-polyphosphate phosphatase / 2,3-bisphosphoglycerate 3-phosphatase	3.1.3.62	H2O	D-myo-Inositol 1,4,5-trisphosphate	R03434	white
+multiple inositol-polyphosphate phosphatase / 2,3-bisphosphoglycerate 3-phosphatase	3.1.3.62	H2O	Orthophosphate	R03434	white
+multiple inositol-polyphosphate phosphatase / 2,3-bisphosphoglycerate 3-phosphatase	3.1.3.62	Orthophosphate	1D-myo-Inositol 1,3,4,5-tetrakisphosphate	R03434	white
+multiple inositol-polyphosphate phosphatase / 2,3-bisphosphoglycerate 3-phosphatase	3.1.3.62	Orthophosphate	H2O	R03434	white
+phosphoenolpyruvate carboxykinase (ATP)	4.1.1.49	ADP	ATP	R00341	white
+phosphoenolpyruvate carboxykinase (ATP)	4.1.1.49	ADP	Oxaloacetate	R00341	white
+phosphoenolpyruvate carboxykinase (ATP)	4.1.1.49	ATP	ADP	R00341	white
+phosphoenolpyruvate carboxykinase (ATP)	4.1.1.49	ATP	CO2	R00341	white
+phosphoenolpyruvate carboxykinase (ATP)	4.1.1.49	ATP	Phosphoenolpyruvate	R00341	white
+phosphoenolpyruvate carboxykinase (ATP)	4.1.1.49	CO2	ATP	R00341	white
+phosphoenolpyruvate carboxykinase (ATP)	4.1.1.49	CO2	Oxaloacetate	R00341	white
+phosphoenolpyruvate carboxykinase (ATP)	4.1.1.49	Oxaloacetate	ADP	R00341	white
+phosphoenolpyruvate carboxykinase (ATP)	4.1.1.49	Oxaloacetate	CO2	R00341	white
+phosphoenolpyruvate carboxykinase (ATP)	4.1.1.49	Oxaloacetate	Phosphoenolpyruvate	R00341	white
+phosphoenolpyruvate carboxykinase (ATP)	4.1.1.49	Phosphoenolpyruvate	ATP	R00341	white
+phosphoenolpyruvate carboxykinase (ATP)	4.1.1.49	Phosphoenolpyruvate	Oxaloacetate	R00341	white
+phosphoenolpyruvate carboxykinase (GTP)	4.1.1.32	GTP	CO2	R00431	green
+phosphoenolpyruvate carboxykinase (GTP)	4.1.1.32	GTP	GDP	R00431	green
+phosphoenolpyruvate carboxykinase (GTP)	4.1.1.32	GTP	Phosphoenolpyruvate	R00431	green
+phosphoenolpyruvate carboxykinase (GTP)	4.1.1.32	ITP	CO2	R00726	green
+phosphoenolpyruvate carboxykinase (GTP)	4.1.1.32	ITP	IDP	R00726	green
+phosphoenolpyruvate carboxykinase (GTP)	4.1.1.32	ITP	Phosphoenolpyruvate	R00726	green
+phosphoenolpyruvate carboxykinase (GTP)	4.1.1.32	Oxaloacetate	CO2	R00431	green
+phosphoenolpyruvate carboxykinase (GTP)	4.1.1.32	Oxaloacetate	CO2	R00726	green
+phosphoenolpyruvate carboxykinase (GTP)	4.1.1.32	Oxaloacetate	GDP	R00431	green
+phosphoenolpyruvate carboxykinase (GTP)	4.1.1.32	Oxaloacetate	IDP	R00726	green
+phosphoenolpyruvate carboxykinase (GTP)	4.1.1.32	Oxaloacetate	Phosphoenolpyruvate	R00431	green
+phosphoenolpyruvate carboxykinase (GTP)	4.1.1.32	Oxaloacetate	Phosphoenolpyruvate	R00726	green
+phosphoglucomutase	5.4.2.2	D-Glucose 1-phosphate	alpha-D-Glucose 6-phosphate	R00959	green
+phosphoglucomutase	5.4.2.2	alpha-D-Glucose 6-phosphate	D-Glucose 1-phosphate	R00959	green
+phosphoglycerate kinase	2.7.2.3	3-Phospho-D-glycerate	3-Phospho-D-glyceroyl phosphate	R01512	green
+phosphoglycerate kinase	2.7.2.3	3-Phospho-D-glycerate	ADP	R01512	green
+phosphoglycerate kinase	2.7.2.3	3-Phospho-D-glyceroyl phosphate	3-Phospho-D-glycerate	R01512	green
+phosphoglycerate kinase	2.7.2.3	3-Phospho-D-glyceroyl phosphate	ATP	R01512	green
+phosphoglycerate kinase	2.7.2.3	ADP	3-Phospho-D-glycerate	R01512	green
+phosphoglycerate kinase	2.7.2.3	ADP	ATP	R01512	green
+phosphoglycerate kinase	2.7.2.3	ATP	3-Phospho-D-glyceroyl phosphate	R01512	green
+phosphoglycerate kinase	2.7.2.3	ATP	ADP	R01512	green
+polyphosphate glucokinase	2.7.1.63	Polyphosphate	Polyphosphate	R02187	green
+polyphosphate glucokinase	2.7.1.63	Polyphosphate	Polyphosphate	R02189	green
+polyphosphate glucokinase	2.7.1.63	Polyphosphate	alpha-D-Glucose 6-phosphate	R02189	green
+polyphosphate glucokinase	2.7.1.63	Polyphosphate	beta-D-Glucose 6-phosphate	R02187	green
+polyphosphate glucokinase	2.7.1.63	alpha-D-Glucose	Polyphosphate	R02189	green
+polyphosphate glucokinase	2.7.1.63	alpha-D-Glucose	alpha-D-Glucose 6-phosphate	R02189	green
+polyphosphate glucokinase	2.7.1.63	beta-D-Glucose	Polyphosphate	R02187	green
+polyphosphate glucokinase	2.7.1.63	beta-D-Glucose	beta-D-Glucose 6-phosphate	R02187	green
+pyruvate decarboxylase	4.1.1.1	2-(alpha-Hydroxyethyl)thiamine diphosphate	Pyruvate	R00014	white
+pyruvate decarboxylase	4.1.1.1	2-(alpha-Hydroxyethyl)thiamine diphosphate	Thiamin diphosphate	R00014	white
+pyruvate decarboxylase	4.1.1.1	CO2	Pyruvate	R00014	white
+pyruvate decarboxylase	4.1.1.1	CO2	Thiamin diphosphate	R00014	white
+pyruvate decarboxylase	4.1.1.1	Pyruvate	2-(alpha-Hydroxyethyl)thiamine diphosphate	R00014	white
+pyruvate decarboxylase	4.1.1.1	Pyruvate	CO2	R00014	white
+pyruvate decarboxylase	4.1.1.1	Thiamin diphosphate	2-(alpha-Hydroxyethyl)thiamine diphosphate	R00014	white
+pyruvate decarboxylase	4.1.1.1	Thiamin diphosphate	CO2	R00014	white
+pyruvate dehydrogenase E1 component	1.2.4.1	2-(alpha-Hydroxyethyl)thiamine diphosphate	Thiamin diphosphate	R03270	green
+pyruvate dehydrogenase E1 component	1.2.4.1	2-(alpha-Hydroxyethyl)thiamine diphosphate	[Dihydrolipoyllysine-residue acetyltransferase] S-acetyldihydrolipoyllysine	R03270	green
+pyruvate dehydrogenase E1 component	1.2.4.1	Enzyme N6-(lipoyl)lysine	Thiamin diphosphate	R03270	green
+pyruvate dehydrogenase E1 component	1.2.4.1	Enzyme N6-(lipoyl)lysine	[Dihydrolipoyllysine-residue acetyltransferase] S-acetyldihydrolipoyllysine	R03270	green
+pyruvate dehydrogenase E1 component	1.2.4.1	Pyruvate	2-(alpha-Hydroxyethyl)thiamine diphosphate	R00014	green
+pyruvate dehydrogenase E1 component	1.2.4.1	Pyruvate	CO2	R00014	green
+pyruvate dehydrogenase E1 component	1.2.4.1	Thiamin diphosphate	2-(alpha-Hydroxyethyl)thiamine diphosphate	R00014	green
+pyruvate dehydrogenase E1 component	1.2.4.1	Thiamin diphosphate	CO2	R00014	green
+pyruvate dehydrogenase E2 component (dihydrolipoyllysine-residue acetyltransferase)	2.3.1.12	Acetyl-CoA	CoA	R02569	green
+pyruvate dehydrogenase E2 component (dihydrolipoyllysine-residue acetyltransferase)	2.3.1.12	Acetyl-CoA	[Dihydrolipoyllysine-residue acetyltransferase] S-acetyldihydrolipoyllysine	R02569	green
+pyruvate dehydrogenase E2 component (dihydrolipoyllysine-residue acetyltransferase)	2.3.1.12	CoA	Acetyl-CoA	R02569	green
+pyruvate dehydrogenase E2 component (dihydrolipoyllysine-residue acetyltransferase)	2.3.1.12	CoA	Enzyme N6-(dihydrolipoyl)lysine	R02569	green
+pyruvate dehydrogenase E2 component (dihydrolipoyllysine-residue acetyltransferase)	2.3.1.12	Enzyme N6-(dihydrolipoyl)lysine	CoA	R02569	green
+pyruvate dehydrogenase E2 component (dihydrolipoyllysine-residue acetyltransferase)	2.3.1.12	Enzyme N6-(dihydrolipoyl)lysine	[Dihydrolipoyllysine-residue acetyltransferase] S-acetyldihydrolipoyllysine	R02569	green
+pyruvate dehydrogenase E2 component (dihydrolipoyllysine-residue acetyltransferase)	2.3.1.12	[Dihydrolipoyllysine-residue acetyltransferase] S-acetyldihydrolipoyllysine	Acetyl-CoA	R02569	green
+pyruvate dehydrogenase E2 component (dihydrolipoyllysine-residue acetyltransferase)	2.3.1.12	[Dihydrolipoyllysine-residue acetyltransferase] S-acetyldihydrolipoyllysine	Enzyme N6-(dihydrolipoyl)lysine	R02569	green
+pyruvate ferredoxin oxidoreductase alpha subunit	1.2.7.1	Acetyl-CoA	CoA	R01196	white
+pyruvate ferredoxin oxidoreductase alpha subunit	1.2.7.1	Acetyl-CoA	Oxidized ferredoxin	R01196	white
+pyruvate ferredoxin oxidoreductase alpha subunit	1.2.7.1	Acetyl-CoA	Pyruvate	R01196	white
+pyruvate ferredoxin oxidoreductase alpha subunit	1.2.7.1	CO2	CoA	R01196	white
+pyruvate ferredoxin oxidoreductase alpha subunit	1.2.7.1	CO2	Oxidized ferredoxin	R01196	white
+pyruvate ferredoxin oxidoreductase alpha subunit	1.2.7.1	CO2	Pyruvate	R01196	white
+pyruvate ferredoxin oxidoreductase alpha subunit	1.2.7.1	CoA	Acetyl-CoA	R01196	white
+pyruvate ferredoxin oxidoreductase alpha subunit	1.2.7.1	CoA	CO2	R01196	white
+pyruvate ferredoxin oxidoreductase alpha subunit	1.2.7.1	CoA	H+	R01196	white
+pyruvate ferredoxin oxidoreductase alpha subunit	1.2.7.1	CoA	Reduced ferredoxin	R01196	white
+pyruvate ferredoxin oxidoreductase alpha subunit	1.2.7.1	H+	CoA	R01196	white
+pyruvate ferredoxin oxidoreductase alpha subunit	1.2.7.1	H+	Oxidized ferredoxin	R01196	white
+pyruvate ferredoxin oxidoreductase alpha subunit	1.2.7.1	H+	Pyruvate	R01196	white
+pyruvate ferredoxin oxidoreductase alpha subunit	1.2.7.1	Oxidized ferredoxin	Acetyl-CoA	R01196	white
+pyruvate ferredoxin oxidoreductase alpha subunit	1.2.7.1	Oxidized ferredoxin	CO2	R01196	white
+pyruvate ferredoxin oxidoreductase alpha subunit	1.2.7.1	Oxidized ferredoxin	H+	R01196	white
+pyruvate ferredoxin oxidoreductase alpha subunit	1.2.7.1	Oxidized ferredoxin	Reduced ferredoxin	R01196	white
+pyruvate ferredoxin oxidoreductase alpha subunit	1.2.7.1	Pyruvate	Acetyl-CoA	R01196	white
+pyruvate ferredoxin oxidoreductase alpha subunit	1.2.7.1	Pyruvate	CO2	R01196	white
+pyruvate ferredoxin oxidoreductase alpha subunit	1.2.7.1	Pyruvate	H+	R01196	white
+pyruvate ferredoxin oxidoreductase alpha subunit	1.2.7.1	Pyruvate	Reduced ferredoxin	R01196	white
+pyruvate ferredoxin oxidoreductase alpha subunit	1.2.7.1	Reduced ferredoxin	CoA	R01196	white
+pyruvate ferredoxin oxidoreductase alpha subunit	1.2.7.1	Reduced ferredoxin	Oxidized ferredoxin	R01196	white
+pyruvate ferredoxin oxidoreductase alpha subunit	1.2.7.1	Reduced ferredoxin	Pyruvate	R01196	white
+pyruvate ferredoxin oxidoreductase beta subunit	1.2.7.1	Acetyl-CoA	CoA	R01196	white
+pyruvate ferredoxin oxidoreductase beta subunit	1.2.7.1	Acetyl-CoA	Oxidized ferredoxin	R01196	white
+pyruvate ferredoxin oxidoreductase beta subunit	1.2.7.1	Acetyl-CoA	Pyruvate	R01196	white
+pyruvate ferredoxin oxidoreductase beta subunit	1.2.7.1	CO2	CoA	R01196	white
+pyruvate ferredoxin oxidoreductase beta subunit	1.2.7.1	CO2	Oxidized ferredoxin	R01196	white
+pyruvate ferredoxin oxidoreductase beta subunit	1.2.7.1	CO2	Pyruvate	R01196	white
+pyruvate ferredoxin oxidoreductase beta subunit	1.2.7.1	CoA	Acetyl-CoA	R01196	white
+pyruvate ferredoxin oxidoreductase beta subunit	1.2.7.1	CoA	CO2	R01196	white
+pyruvate ferredoxin oxidoreductase beta subunit	1.2.7.1	CoA	H+	R01196	white
+pyruvate ferredoxin oxidoreductase beta subunit	1.2.7.1	CoA	Reduced ferredoxin	R01196	white
+pyruvate ferredoxin oxidoreductase beta subunit	1.2.7.1	H+	CoA	R01196	white
+pyruvate ferredoxin oxidoreductase beta subunit	1.2.7.1	H+	Oxidized ferredoxin	R01196	white
+pyruvate ferredoxin oxidoreductase beta subunit	1.2.7.1	H+	Pyruvate	R01196	white
+pyruvate ferredoxin oxidoreductase beta subunit	1.2.7.1	Oxidized ferredoxin	Acetyl-CoA	R01196	white
+pyruvate ferredoxin oxidoreductase beta subunit	1.2.7.1	Oxidized ferredoxin	CO2	R01196	white
+pyruvate ferredoxin oxidoreductase beta subunit	1.2.7.1	Oxidized ferredoxin	H+	R01196	white
+pyruvate ferredoxin oxidoreductase beta subunit	1.2.7.1	Oxidized ferredoxin	Reduced ferredoxin	R01196	white
+pyruvate ferredoxin oxidoreductase beta subunit	1.2.7.1	Pyruvate	Acetyl-CoA	R01196	white
+pyruvate ferredoxin oxidoreductase beta subunit	1.2.7.1	Pyruvate	CO2	R01196	white
+pyruvate ferredoxin oxidoreductase beta subunit	1.2.7.1	Pyruvate	H+	R01196	white
+pyruvate ferredoxin oxidoreductase beta subunit	1.2.7.1	Pyruvate	Reduced ferredoxin	R01196	white
+pyruvate ferredoxin oxidoreductase beta subunit	1.2.7.1	Reduced ferredoxin	CoA	R01196	white
+pyruvate ferredoxin oxidoreductase beta subunit	1.2.7.1	Reduced ferredoxin	Oxidized ferredoxin	R01196	white
+pyruvate ferredoxin oxidoreductase beta subunit	1.2.7.1	Reduced ferredoxin	Pyruvate	R01196	white
+pyruvate ferredoxin oxidoreductase delta subunit	1.2.7.1	Acetyl-CoA	CoA	R01196	white
+pyruvate ferredoxin oxidoreductase delta subunit	1.2.7.1	Acetyl-CoA	Oxidized ferredoxin	R01196	white
+pyruvate ferredoxin oxidoreductase delta subunit	1.2.7.1	Acetyl-CoA	Pyruvate	R01196	white
+pyruvate ferredoxin oxidoreductase delta subunit	1.2.7.1	CO2	CoA	R01196	white
+pyruvate ferredoxin oxidoreductase delta subunit	1.2.7.1	CO2	Oxidized ferredoxin	R01196	white
+pyruvate ferredoxin oxidoreductase delta subunit	1.2.7.1	CO2	Pyruvate	R01196	white
+pyruvate ferredoxin oxidoreductase delta subunit	1.2.7.1	CoA	Acetyl-CoA	R01196	white
+pyruvate ferredoxin oxidoreductase delta subunit	1.2.7.1	CoA	CO2	R01196	white
+pyruvate ferredoxin oxidoreductase delta subunit	1.2.7.1	CoA	H+	R01196	white
+pyruvate ferredoxin oxidoreductase delta subunit	1.2.7.1	CoA	Reduced ferredoxin	R01196	white
+pyruvate ferredoxin oxidoreductase delta subunit	1.2.7.1	H+	CoA	R01196	white
+pyruvate ferredoxin oxidoreductase delta subunit	1.2.7.1	H+	Oxidized ferredoxin	R01196	white
+pyruvate ferredoxin oxidoreductase delta subunit	1.2.7.1	H+	Pyruvate	R01196	white
+pyruvate ferredoxin oxidoreductase delta subunit	1.2.7.1	Oxidized ferredoxin	Acetyl-CoA	R01196	white
+pyruvate ferredoxin oxidoreductase delta subunit	1.2.7.1	Oxidized ferredoxin	CO2	R01196	white
+pyruvate ferredoxin oxidoreductase delta subunit	1.2.7.1	Oxidized ferredoxin	H+	R01196	white
+pyruvate ferredoxin oxidoreductase delta subunit	1.2.7.1	Oxidized ferredoxin	Reduced ferredoxin	R01196	white
+pyruvate ferredoxin oxidoreductase delta subunit	1.2.7.1	Pyruvate	Acetyl-CoA	R01196	white
+pyruvate ferredoxin oxidoreductase delta subunit	1.2.7.1	Pyruvate	CO2	R01196	white
+pyruvate ferredoxin oxidoreductase delta subunit	1.2.7.1	Pyruvate	H+	R01196	white
+pyruvate ferredoxin oxidoreductase delta subunit	1.2.7.1	Pyruvate	Reduced ferredoxin	R01196	white
+pyruvate ferredoxin oxidoreductase delta subunit	1.2.7.1	Reduced ferredoxin	CoA	R01196	white
+pyruvate ferredoxin oxidoreductase delta subunit	1.2.7.1	Reduced ferredoxin	Oxidized ferredoxin	R01196	white
+pyruvate ferredoxin oxidoreductase delta subunit	1.2.7.1	Reduced ferredoxin	Pyruvate	R01196	white
+pyruvate ferredoxin oxidoreductase gamma subunit	1.2.7.1	Acetyl-CoA	CoA	R01196	white
+pyruvate ferredoxin oxidoreductase gamma subunit	1.2.7.1	Acetyl-CoA	Oxidized ferredoxin	R01196	white
+pyruvate ferredoxin oxidoreductase gamma subunit	1.2.7.1	Acetyl-CoA	Pyruvate	R01196	white
+pyruvate ferredoxin oxidoreductase gamma subunit	1.2.7.1	CO2	CoA	R01196	white
+pyruvate ferredoxin oxidoreductase gamma subunit	1.2.7.1	CO2	Oxidized ferredoxin	R01196	white
+pyruvate ferredoxin oxidoreductase gamma subunit	1.2.7.1	CO2	Pyruvate	R01196	white
+pyruvate ferredoxin oxidoreductase gamma subunit	1.2.7.1	CoA	Acetyl-CoA	R01196	white
+pyruvate ferredoxin oxidoreductase gamma subunit	1.2.7.1	CoA	CO2	R01196	white
+pyruvate ferredoxin oxidoreductase gamma subunit	1.2.7.1	CoA	H+	R01196	white
+pyruvate ferredoxin oxidoreductase gamma subunit	1.2.7.1	CoA	Reduced ferredoxin	R01196	white
+pyruvate ferredoxin oxidoreductase gamma subunit	1.2.7.1	H+	CoA	R01196	white
+pyruvate ferredoxin oxidoreductase gamma subunit	1.2.7.1	H+	Oxidized ferredoxin	R01196	white
+pyruvate ferredoxin oxidoreductase gamma subunit	1.2.7.1	H+	Pyruvate	R01196	white
+pyruvate ferredoxin oxidoreductase gamma subunit	1.2.7.1	Oxidized ferredoxin	Acetyl-CoA	R01196	white
+pyruvate ferredoxin oxidoreductase gamma subunit	1.2.7.1	Oxidized ferredoxin	CO2	R01196	white
+pyruvate ferredoxin oxidoreductase gamma subunit	1.2.7.1	Oxidized ferredoxin	H+	R01196	white
+pyruvate ferredoxin oxidoreductase gamma subunit	1.2.7.1	Oxidized ferredoxin	Reduced ferredoxin	R01196	white
+pyruvate ferredoxin oxidoreductase gamma subunit	1.2.7.1	Pyruvate	Acetyl-CoA	R01196	white
+pyruvate ferredoxin oxidoreductase gamma subunit	1.2.7.1	Pyruvate	CO2	R01196	white
+pyruvate ferredoxin oxidoreductase gamma subunit	1.2.7.1	Pyruvate	H+	R01196	white
+pyruvate ferredoxin oxidoreductase gamma subunit	1.2.7.1	Pyruvate	Reduced ferredoxin	R01196	white
+pyruvate ferredoxin oxidoreductase gamma subunit	1.2.7.1	Reduced ferredoxin	CoA	R01196	white
+pyruvate ferredoxin oxidoreductase gamma subunit	1.2.7.1	Reduced ferredoxin	Oxidized ferredoxin	R01196	white
+pyruvate ferredoxin oxidoreductase gamma subunit	1.2.7.1	Reduced ferredoxin	Pyruvate	R01196	white
+pyruvate kinase	2.7.1.40	ATP	ADP	R00200	green
+pyruvate kinase	2.7.1.40	ATP	Phosphoenolpyruvate	R00200	green
+pyruvate kinase	2.7.1.40	Pyruvate	ADP	R00200	green
+pyruvate kinase	2.7.1.40	Pyruvate	Phosphoenolpyruvate	R00200	green
+pyruvate, orthophosphate dikinase	2.7.9.1	AMP	ATP	R00206	white
+pyruvate, orthophosphate dikinase	2.7.9.1	AMP	Orthophosphate	R00206	white
+pyruvate, orthophosphate dikinase	2.7.9.1	AMP	Pyruvate	R00206	white
+pyruvate, orthophosphate dikinase	2.7.9.1	ATP	AMP	R00206	white
+pyruvate, orthophosphate dikinase	2.7.9.1	ATP	Diphosphate	R00206	white
+pyruvate, orthophosphate dikinase	2.7.9.1	ATP	Phosphoenolpyruvate	R00206	white
+pyruvate, orthophosphate dikinase	2.7.9.1	Diphosphate	ATP	R00206	white
+pyruvate, orthophosphate dikinase	2.7.9.1	Diphosphate	Orthophosphate	R00206	white
+pyruvate, orthophosphate dikinase	2.7.9.1	Diphosphate	Pyruvate	R00206	white
+pyruvate, orthophosphate dikinase	2.7.9.1	Orthophosphate	AMP	R00206	white
+pyruvate, orthophosphate dikinase	2.7.9.1	Orthophosphate	Diphosphate	R00206	white
+pyruvate, orthophosphate dikinase	2.7.9.1	Orthophosphate	Phosphoenolpyruvate	R00206	white
+pyruvate, orthophosphate dikinase	2.7.9.1	Phosphoenolpyruvate	ATP	R00206	white
+pyruvate, orthophosphate dikinase	2.7.9.1	Phosphoenolpyruvate	Orthophosphate	R00206	white
+pyruvate, orthophosphate dikinase	2.7.9.1	Phosphoenolpyruvate	Pyruvate	R00206	white
+pyruvate, orthophosphate dikinase	2.7.9.1	Pyruvate	AMP	R00206	white
+pyruvate, orthophosphate dikinase	2.7.9.1	Pyruvate	Diphosphate	R00206	white
+pyruvate, orthophosphate dikinase	2.7.9.1	Pyruvate	Phosphoenolpyruvate	R00206	white
+pyruvate, water dikinase	2.7.9.2	AMP	ATP	R00199	green
+pyruvate, water dikinase	2.7.9.2	AMP	H2O	R00199	green
+pyruvate, water dikinase	2.7.9.2	AMP	Pyruvate	R00199	green
+pyruvate, water dikinase	2.7.9.2	ATP	AMP	R00199	green
+pyruvate, water dikinase	2.7.9.2	ATP	Orthophosphate	R00199	green
+pyruvate, water dikinase	2.7.9.2	ATP	Phosphoenolpyruvate	R00199	green
+pyruvate, water dikinase	2.7.9.2	H2O	AMP	R00199	green
+pyruvate, water dikinase	2.7.9.2	H2O	Orthophosphate	R00199	green
+pyruvate, water dikinase	2.7.9.2	H2O	Phosphoenolpyruvate	R00199	green
+pyruvate, water dikinase	2.7.9.2	Orthophosphate	ATP	R00199	green
+pyruvate, water dikinase	2.7.9.2	Orthophosphate	H2O	R00199	green
+pyruvate, water dikinase	2.7.9.2	Orthophosphate	Pyruvate	R00199	green
+pyruvate, water dikinase	2.7.9.2	Phosphoenolpyruvate	ATP	R00199	green
+pyruvate, water dikinase	2.7.9.2	Phosphoenolpyruvate	H2O	R00199	green
+pyruvate, water dikinase	2.7.9.2	Phosphoenolpyruvate	Pyruvate	R00199	green
+pyruvate, water dikinase	2.7.9.2	Pyruvate	AMP	R00199	green
+pyruvate, water dikinase	2.7.9.2	Pyruvate	Orthophosphate	R00199	green
+pyruvate, water dikinase	2.7.9.2	Pyruvate	Phosphoenolpyruvate	R00199	green
+pyruvate-ferredoxin/flavodoxin oxidoreductase	1.2.7.1	Acetyl-CoA	CoA	R01196	white
+pyruvate-ferredoxin/flavodoxin oxidoreductase	1.2.7.1	Acetyl-CoA	Oxidized ferredoxin	R01196	white
+pyruvate-ferredoxin/flavodoxin oxidoreductase	1.2.7.1	Acetyl-CoA	Pyruvate	R01196	white
+pyruvate-ferredoxin/flavodoxin oxidoreductase	1.2.7.1	CO2	CoA	R01196	white
+pyruvate-ferredoxin/flavodoxin oxidoreductase	1.2.7.1	CO2	Oxidized ferredoxin	R01196	white
+pyruvate-ferredoxin/flavodoxin oxidoreductase	1.2.7.1	CO2	Pyruvate	R01196	white
+pyruvate-ferredoxin/flavodoxin oxidoreductase	1.2.7.1	CoA	Acetyl-CoA	R01196	white
+pyruvate-ferredoxin/flavodoxin oxidoreductase	1.2.7.1	CoA	CO2	R01196	white
+pyruvate-ferredoxin/flavodoxin oxidoreductase	1.2.7.1	CoA	H+	R01196	white
+pyruvate-ferredoxin/flavodoxin oxidoreductase	1.2.7.1	CoA	Reduced ferredoxin	R01196	white
+pyruvate-ferredoxin/flavodoxin oxidoreductase	1.2.7.1	H+	CoA	R01196	white
+pyruvate-ferredoxin/flavodoxin oxidoreductase	1.2.7.1	H+	Oxidized ferredoxin	R01196	white
+pyruvate-ferredoxin/flavodoxin oxidoreductase	1.2.7.1	H+	Pyruvate	R01196	white
+pyruvate-ferredoxin/flavodoxin oxidoreductase	1.2.7.1	Oxidized ferredoxin	Acetyl-CoA	R01196	white
+pyruvate-ferredoxin/flavodoxin oxidoreductase	1.2.7.1	Oxidized ferredoxin	CO2	R01196	white
+pyruvate-ferredoxin/flavodoxin oxidoreductase	1.2.7.1	Oxidized ferredoxin	H+	R01196	white
+pyruvate-ferredoxin/flavodoxin oxidoreductase	1.2.7.1	Oxidized ferredoxin	Reduced ferredoxin	R01196	white
+pyruvate-ferredoxin/flavodoxin oxidoreductase	1.2.7.1	Pyruvate	Acetyl-CoA	R01196	white
+pyruvate-ferredoxin/flavodoxin oxidoreductase	1.2.7.1	Pyruvate	CO2	R01196	white
+pyruvate-ferredoxin/flavodoxin oxidoreductase	1.2.7.1	Pyruvate	H+	R01196	white
+pyruvate-ferredoxin/flavodoxin oxidoreductase	1.2.7.1	Pyruvate	Reduced ferredoxin	R01196	white
+pyruvate-ferredoxin/flavodoxin oxidoreductase	1.2.7.1	Reduced ferredoxin	CoA	R01196	white
+pyruvate-ferredoxin/flavodoxin oxidoreductase	1.2.7.1	Reduced ferredoxin	Oxidized ferredoxin	R01196	white
+pyruvate-ferredoxin/flavodoxin oxidoreductase	1.2.7.1	Reduced ferredoxin	Pyruvate	R01196	white
+sugar PTS system EIIA component	2.7.1.-	Arbutin	Arbutin 6-phosphate	R05132	green
+sugar PTS system EIIA component	2.7.1.-	Arbutin	Protein histidine	R05132	green
+sugar PTS system EIIA component	2.7.1.-	D-Glucose	Protein histidine	R02738	green
+sugar PTS system EIIA component	2.7.1.-	D-Glucose	alpha-D-Glucose 6-phosphate	R02738	green
+sugar PTS system EIIA component	2.7.1.-	Protein N(pi)-phospho-L-histidine	Arbutin 6-phosphate	R05132	green
+sugar PTS system EIIA component	2.7.1.-	Protein N(pi)-phospho-L-histidine	Protein histidine	R02738	green
+sugar PTS system EIIA component	2.7.1.-	Protein N(pi)-phospho-L-histidine	Protein histidine	R04394	green
+sugar PTS system EIIA component	2.7.1.-	Protein N(pi)-phospho-L-histidine	Protein histidine	R05132	green
+sugar PTS system EIIA component	2.7.1.-	Protein N(pi)-phospho-L-histidine	Salicin 6-phosphate	R04394	green
+sugar PTS system EIIA component	2.7.1.-	Protein N(pi)-phospho-L-histidine	alpha-D-Glucose 6-phosphate	R02738	green
+sugar PTS system EIIA component	2.7.1.-	Salicin	Protein histidine	R04394	green
+sugar PTS system EIIA component	2.7.1.-	Salicin	Salicin 6-phosphate	R04394	green
+triosephosphate isomerase (TIM)	5.3.1.1	D-Glyceraldehyde 3-phosphate	Glycerone phosphate	R01015	green
+triosephosphate isomerase (TIM)	5.3.1.1	Glycerone phosphate	D-Glyceraldehyde 3-phosphate	R01015	green
