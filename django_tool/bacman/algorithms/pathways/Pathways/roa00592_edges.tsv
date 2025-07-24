@@ -1,217 +1,221 @@
-enzyme_name	EC	source	target	color
-(Z)-3-hexen-1-ol acetyltransferase	2.3.1.195	(3Z)-Hex-3-en-1-yl acetate	3-Hexenol	white
-(Z)-3-hexen-1-ol acetyltransferase	2.3.1.195	(3Z)-Hex-3-en-1-yl acetate	Acetyl-CoA	white
-(Z)-3-hexen-1-ol acetyltransferase	2.3.1.195	3-Hexenol	(3Z)-Hex-3-en-1-yl acetate	white
-(Z)-3-hexen-1-ol acetyltransferase	2.3.1.195	3-Hexenol	CoA	white
-(Z)-3-hexen-1-ol acetyltransferase	2.3.1.195	Acetyl-CoA	(3Z)-Hex-3-en-1-yl acetate	white
-(Z)-3-hexen-1-ol acetyltransferase	2.3.1.195	Acetyl-CoA	CoA	white
-(Z)-3-hexen-1-ol acetyltransferase	2.3.1.195	CoA	3-Hexenol	white
-(Z)-3-hexen-1-ol acetyltransferase	2.3.1.195	CoA	Acetyl-CoA	white
-12-oxophytodienoic acid reductase	1.3.1.42	(9S,13S,15Z)-12-Oxo-10,11-dihydrophyto-15-enoate	(9S,13S,15Z)-12-Oxophyto-10,15-dienoate	white
-12-oxophytodienoic acid reductase	1.3.1.42	(9S,13S,15Z)-12-Oxo-10,11-dihydrophyto-15-enoate	H+	white
-12-oxophytodienoic acid reductase	1.3.1.42	(9S,13S,15Z)-12-Oxo-10,11-dihydrophyto-15-enoate	NADPH	white
-12-oxophytodienoic acid reductase	1.3.1.42	(9S,13S,15Z)-12-Oxophyto-10,15-dienoate	(9S,13S,15Z)-12-Oxo-10,11-dihydrophyto-15-enoate	white
-12-oxophytodienoic acid reductase	1.3.1.42	(9S,13S,15Z)-12-Oxophyto-10,15-dienoate	NADP+	white
-12-oxophytodienoic acid reductase	1.3.1.42	H+	(9S,13S,15Z)-12-Oxo-10,11-dihydrophyto-15-enoate	white
-12-oxophytodienoic acid reductase	1.3.1.42	H+	NADP+	white
-12-oxophytodienoic acid reductase	1.3.1.42	NADP+	(9S,13S,15Z)-12-Oxophyto-10,15-dienoate	white
-12-oxophytodienoic acid reductase	1.3.1.42	NADP+	H+	white
-12-oxophytodienoic acid reductase	1.3.1.42	NADP+	NADPH	white
-12-oxophytodienoic acid reductase	1.3.1.42	NADPH	(9S,13S,15Z)-12-Oxo-10,11-dihydrophyto-15-enoate	white
-12-oxophytodienoic acid reductase	1.3.1.42	NADPH	NADP+	white
-HRAS-like suppressor 3	3.1.1.32	1-Acyl-sn-glycero-3-phosphocholine	H2O	white
-HRAS-like suppressor 3	3.1.1.32	1-Acyl-sn-glycero-3-phosphocholine	Phosphatidylcholine	white
-HRAS-like suppressor 3	3.1.1.32	Fatty acid	H2O	white
-HRAS-like suppressor 3	3.1.1.32	Fatty acid	Phosphatidylcholine	white
-HRAS-like suppressor 3	3.1.1.32	H2O	1-Acyl-sn-glycero-3-phosphocholine	white
-HRAS-like suppressor 3	3.1.1.32	H2O	Fatty acid	white
-HRAS-like suppressor 3	3.1.1.32	Phosphatidylcholine	1-Acyl-sn-glycero-3-phosphocholine	white
-HRAS-like suppressor 3	3.1.1.32	Phosphatidylcholine	Fatty acid	white
-OPC-8:0 CoA ligase 1	6.2.1.-	(9S,13S,15Z)-12-Oxo-10,11-dihydrophyto-15-enoate	AMP	white
-OPC-8:0 CoA ligase 1	6.2.1.-	(9S,13S,15Z)-12-Oxo-10,11-dihydrophyto-15-enoate	Diphosphate	white
-OPC-8:0 CoA ligase 1	6.2.1.-	(9S,13S,15Z)-12-Oxo-10,11-dihydrophyto-15-enoate	OPC8-CoA	white
-OPC-8:0 CoA ligase 1	6.2.1.-	AMP	(9S,13S,15Z)-12-Oxo-10,11-dihydrophyto-15-enoate	white
-OPC-8:0 CoA ligase 1	6.2.1.-	AMP	ATP	white
-OPC-8:0 CoA ligase 1	6.2.1.-	AMP	CoA	white
-OPC-8:0 CoA ligase 1	6.2.1.-	ATP	AMP	white
-OPC-8:0 CoA ligase 1	6.2.1.-	ATP	Diphosphate	white
-OPC-8:0 CoA ligase 1	6.2.1.-	ATP	OPC8-CoA	white
-OPC-8:0 CoA ligase 1	6.2.1.-	CoA	AMP	white
-OPC-8:0 CoA ligase 1	6.2.1.-	CoA	Diphosphate	white
-OPC-8:0 CoA ligase 1	6.2.1.-	CoA	OPC8-CoA	white
-OPC-8:0 CoA ligase 1	6.2.1.-	Diphosphate	(9S,13S,15Z)-12-Oxo-10,11-dihydrophyto-15-enoate	white
-OPC-8:0 CoA ligase 1	6.2.1.-	Diphosphate	ATP	white
-OPC-8:0 CoA ligase 1	6.2.1.-	Diphosphate	CoA	white
-OPC-8:0 CoA ligase 1	6.2.1.-	OPC8-CoA	(9S,13S,15Z)-12-Oxo-10,11-dihydrophyto-15-enoate	white
-OPC-8:0 CoA ligase 1	6.2.1.-	OPC8-CoA	ATP	white
-OPC-8:0 CoA ligase 1	6.2.1.-	OPC8-CoA	CoA	white
-TAG lipase / steryl ester hydrolase / phospholipase A2 / LPA acyltransferase	3.1.1.3	1-Acyl-sn-glycero-3-phosphocholine	H2O	white
-TAG lipase / steryl ester hydrolase / phospholipase A2 / LPA acyltransferase	3.1.1.3	1-Acyl-sn-glycero-3-phosphocholine	Phosphatidylcholine	white
-TAG lipase / steryl ester hydrolase / phospholipase A2 / LPA acyltransferase	3.1.1.3	Fatty acid	H2O	white
-TAG lipase / steryl ester hydrolase / phospholipase A2 / LPA acyltransferase	3.1.1.3	Fatty acid	Phosphatidylcholine	white
-TAG lipase / steryl ester hydrolase / phospholipase A2 / LPA acyltransferase	3.1.1.3	H2O	1-Acyl-sn-glycero-3-phosphocholine	white
-TAG lipase / steryl ester hydrolase / phospholipase A2 / LPA acyltransferase	3.1.1.3	H2O	Fatty acid	white
-TAG lipase / steryl ester hydrolase / phospholipase A2 / LPA acyltransferase	3.1.1.3	Phosphatidylcholine	1-Acyl-sn-glycero-3-phosphocholine	white
-TAG lipase / steryl ester hydrolase / phospholipase A2 / LPA acyltransferase	3.1.1.3	Phosphatidylcholine	Fatty acid	white
-acetyl-CoA acyltransferase	2.3.1.16	(+)-7-Isojasmonic acid CoA	3-Oxo-OPC4-CoA	green
-acetyl-CoA acyltransferase	2.3.1.16	(+)-7-Isojasmonic acid CoA	CoA	green
-acetyl-CoA acyltransferase	2.3.1.16	Acetyl-CoA	3-Oxo-OPC4-CoA	green
-acetyl-CoA acyltransferase	2.3.1.16	Acetyl-CoA	3-Oxo-OPC6-CoA	green
-acetyl-CoA acyltransferase	2.3.1.16	Acetyl-CoA	3-Oxo-OPC8-CoA	green
-acetyl-CoA acyltransferase	2.3.1.16	Acetyl-CoA	CoA	green
-acetyl-CoA acyltransferase	2.3.1.16	OPC4-CoA	3-Oxo-OPC6-CoA	green
-acetyl-CoA acyltransferase	2.3.1.16	OPC4-CoA	CoA	green
-acetyl-CoA acyltransferase	2.3.1.16	OPC6-CoA	3-Oxo-OPC8-CoA	green
-acetyl-CoA acyltransferase	2.3.1.16	OPC6-CoA	CoA	green
-acyl-CoA 6-desaturase (Delta-6 desaturase)	1.14.19.3	Ferricytochrome b5	Ferrocytochrome b5	white
-acyl-CoA 6-desaturase (Delta-6 desaturase)	1.14.19.3	Ferricytochrome b5	H+	white
-acyl-CoA 6-desaturase (Delta-6 desaturase)	1.14.19.3	Ferricytochrome b5	Linoleoyl-CoA	white
-acyl-CoA 6-desaturase (Delta-6 desaturase)	1.14.19.3	Ferricytochrome b5	Oxygen	white
-acyl-CoA 6-desaturase (Delta-6 desaturase)	1.14.19.3	Ferrocytochrome b5	Ferricytochrome b5	white
-acyl-CoA 6-desaturase (Delta-6 desaturase)	1.14.19.3	Ferrocytochrome b5	H2O	white
-acyl-CoA 6-desaturase (Delta-6 desaturase)	1.14.19.3	Ferrocytochrome b5	gamma-Linolenoyl-CoA	white
-acyl-CoA 6-desaturase (Delta-6 desaturase)	1.14.19.3	H+	Ferricytochrome b5	white
-acyl-CoA 6-desaturase (Delta-6 desaturase)	1.14.19.3	H+	H2O	white
-acyl-CoA 6-desaturase (Delta-6 desaturase)	1.14.19.3	H+	gamma-Linolenoyl-CoA	white
-acyl-CoA 6-desaturase (Delta-6 desaturase)	1.14.19.3	H2O	Ferrocytochrome b5	white
-acyl-CoA 6-desaturase (Delta-6 desaturase)	1.14.19.3	H2O	H+	white
-acyl-CoA 6-desaturase (Delta-6 desaturase)	1.14.19.3	H2O	Linoleoyl-CoA	white
-acyl-CoA 6-desaturase (Delta-6 desaturase)	1.14.19.3	H2O	Oxygen	white
-acyl-CoA 6-desaturase (Delta-6 desaturase)	1.14.19.3	Linoleoyl-CoA	Ferricytochrome b5	white
-acyl-CoA 6-desaturase (Delta-6 desaturase)	1.14.19.3	Linoleoyl-CoA	H2O	white
-acyl-CoA 6-desaturase (Delta-6 desaturase)	1.14.19.3	Linoleoyl-CoA	gamma-Linolenoyl-CoA	white
-acyl-CoA 6-desaturase (Delta-6 desaturase)	1.14.19.3	Oxygen	Ferricytochrome b5	white
-acyl-CoA 6-desaturase (Delta-6 desaturase)	1.14.19.3	Oxygen	H2O	white
-acyl-CoA 6-desaturase (Delta-6 desaturase)	1.14.19.3	Oxygen	gamma-Linolenoyl-CoA	white
-acyl-CoA 6-desaturase (Delta-6 desaturase)	1.14.19.3	gamma-Linolenoyl-CoA	Ferrocytochrome b5	white
-acyl-CoA 6-desaturase (Delta-6 desaturase)	1.14.19.3	gamma-Linolenoyl-CoA	H+	white
-acyl-CoA 6-desaturase (Delta-6 desaturase)	1.14.19.3	gamma-Linolenoyl-CoA	Linoleoyl-CoA	white
-acyl-CoA 6-desaturase (Delta-6 desaturase)	1.14.19.3	gamma-Linolenoyl-CoA	Oxygen	white
-acyl-CoA oxidase	1.3.3.6	FAD	FADH2	green
-acyl-CoA oxidase	1.3.3.6	FAD	trans-2-Enoyl-OPC4-CoA	green
-acyl-CoA oxidase	1.3.3.6	FAD	trans-2-Enoyl-OPC6-CoA	green
-acyl-CoA oxidase	1.3.3.6	FAD	trans-2-Enoyl-OPC8-CoA	green
-acyl-CoA oxidase	1.3.3.6	OPC4-CoA	FADH2	green
-acyl-CoA oxidase	1.3.3.6	OPC4-CoA	trans-2-Enoyl-OPC4-CoA	green
-acyl-CoA oxidase	1.3.3.6	OPC6-CoA	FADH2	green
-acyl-CoA oxidase	1.3.3.6	OPC6-CoA	trans-2-Enoyl-OPC6-CoA	green
-acyl-CoA oxidase	1.3.3.6	OPC8-CoA	FADH2	green
-acyl-CoA oxidase	1.3.3.6	OPC8-CoA	trans-2-Enoyl-OPC8-CoA	green
-alcohol dehydrogenase class-P	1.1.1.1	Aldehyde	NAD+	white
-alcohol dehydrogenase class-P	1.1.1.1	Aldehyde	Primary alcohol	white
-alcohol dehydrogenase class-P	1.1.1.1	H+	NAD+	white
-alcohol dehydrogenase class-P	1.1.1.1	H+	Primary alcohol	white
-alcohol dehydrogenase class-P	1.1.1.1	NAD+	Aldehyde	white
-alcohol dehydrogenase class-P	1.1.1.1	NAD+	H+	white
-alcohol dehydrogenase class-P	1.1.1.1	NAD+	NADH	white
-alcohol dehydrogenase class-P	1.1.1.1	NADH	NAD+	white
-alcohol dehydrogenase class-P	1.1.1.1	NADH	Primary alcohol	white
-alcohol dehydrogenase class-P	1.1.1.1	Primary alcohol	Aldehyde	white
-alcohol dehydrogenase class-P	1.1.1.1	Primary alcohol	H+	white
-alcohol dehydrogenase class-P	1.1.1.1	Primary alcohol	NADH	white
-allene oxide cyclase	5.3.99.6	(9S,13S,15Z)-12-Oxophyto-10,15-dienoate	(9Z,15Z)-(13S)-12,13-Epoxyoctadeca-9,11,15-trienoic acid	white
-allene oxide cyclase	5.3.99.6	(9Z,15Z)-(13S)-12,13-Epoxyoctadeca-9,11,15-trienoic acid	(9S,13S,15Z)-12-Oxophyto-10,15-dienoate	white
-cGAMP-activated phospholipase	3.1.1.32	2-Acyl-sn-glycero-3-phosphocholine	H2O	white
-cGAMP-activated phospholipase	3.1.1.32	2-Acyl-sn-glycero-3-phosphocholine	Phosphatidylcholine	white
-cGAMP-activated phospholipase	3.1.1.32	Fatty acid	H2O	white
-cGAMP-activated phospholipase	3.1.1.32	Fatty acid	Phosphatidylcholine	white
-cGAMP-activated phospholipase	3.1.1.32	H2O	2-Acyl-sn-glycero-3-phosphocholine	white
-cGAMP-activated phospholipase	3.1.1.32	H2O	Fatty acid	white
-cGAMP-activated phospholipase	3.1.1.32	Phosphatidylcholine	2-Acyl-sn-glycero-3-phosphocholine	white
-cGAMP-activated phospholipase	3.1.1.32	Phosphatidylcholine	Fatty acid	white
-calcium-independent phospholipase A2	3.1.1.4	1-Acyl-sn-glycero-3-phosphocholine	H2O	white
-calcium-independent phospholipase A2	3.1.1.4	1-Acyl-sn-glycero-3-phosphocholine	Phosphatidylcholine	white
-calcium-independent phospholipase A2	3.1.1.4	Fatty acid	H2O	white
-calcium-independent phospholipase A2	3.1.1.4	Fatty acid	Phosphatidylcholine	white
-calcium-independent phospholipase A2	3.1.1.4	H2O	1-Acyl-sn-glycero-3-phosphocholine	white
-calcium-independent phospholipase A2	3.1.1.4	H2O	Fatty acid	white
-calcium-independent phospholipase A2	3.1.1.4	Phosphatidylcholine	1-Acyl-sn-glycero-3-phosphocholine	white
-calcium-independent phospholipase A2	3.1.1.4	Phosphatidylcholine	Fatty acid	white
-chloroplastic oxoene reductase	1.3.1.-	9-Hydroxy-12-oxo-10(E),15(Z)-octadecadienoic acid	9-Hydroxy-12-oxo-15(Z)-octadecenoic acid	white
-chloroplastic oxoene reductase	1.3.1.-	9-Hydroxy-12-oxo-10(E),15(Z)-octadecadienoic acid	NADP+	white
-chloroplastic oxoene reductase	1.3.1.-	9-Hydroxy-12-oxo-15(Z)-octadecenoic acid	9-Hydroxy-12-oxo-10(E),15(Z)-octadecadienoic acid	white
-chloroplastic oxoene reductase	1.3.1.-	9-Hydroxy-12-oxo-15(Z)-octadecenoic acid	H+	white
-chloroplastic oxoene reductase	1.3.1.-	9-Hydroxy-12-oxo-15(Z)-octadecenoic acid	NADPH	white
-chloroplastic oxoene reductase	1.3.1.-	H+	9-Hydroxy-12-oxo-15(Z)-octadecenoic acid	white
-chloroplastic oxoene reductase	1.3.1.-	H+	NADP+	white
-chloroplastic oxoene reductase	1.3.1.-	NADP+	9-Hydroxy-12-oxo-10(E),15(Z)-octadecadienoic acid	white
-chloroplastic oxoene reductase	1.3.1.-	NADP+	H+	white
-chloroplastic oxoene reductase	1.3.1.-	NADP+	NADPH	white
-chloroplastic oxoene reductase	1.3.1.-	NADPH	9-Hydroxy-12-oxo-15(Z)-octadecenoic acid	white
-chloroplastic oxoene reductase	1.3.1.-	NADPH	NADP+	white
-cytosolic phospholipase A2	3.1.1.4	1-Acyl-sn-glycero-3-phosphocholine	H2O	white
-cytosolic phospholipase A2	3.1.1.4	1-Acyl-sn-glycero-3-phosphocholine	Phosphatidylcholine	white
-cytosolic phospholipase A2	3.1.1.4	Fatty acid	H2O	white
-cytosolic phospholipase A2	3.1.1.4	Fatty acid	Phosphatidylcholine	white
-cytosolic phospholipase A2	3.1.1.4	H2O	1-Acyl-sn-glycero-3-phosphocholine	white
-cytosolic phospholipase A2	3.1.1.4	H2O	Fatty acid	white
-cytosolic phospholipase A2	3.1.1.4	Phosphatidylcholine	1-Acyl-sn-glycero-3-phosphocholine	white
-cytosolic phospholipase A2	3.1.1.4	Phosphatidylcholine	Fatty acid	white
-enoyl-CoA hydratase/3-hydroxyacyl-CoA dehydrogenase	4.2.1.17	(S)-3-Hydroxybutanoyl-CoA	Acetoacetyl-CoA	white
-enoyl-CoA hydratase/3-hydroxyacyl-CoA dehydrogenase	4.2.1.17	(S)-3-Hydroxybutanoyl-CoA	H+	white
-enoyl-CoA hydratase/3-hydroxyacyl-CoA dehydrogenase	4.2.1.17	(S)-3-Hydroxybutanoyl-CoA	NADH	white
-enoyl-CoA hydratase/3-hydroxyacyl-CoA dehydrogenase	4.2.1.17	Acetoacetyl-CoA	(S)-3-Hydroxybutanoyl-CoA	white
-enoyl-CoA hydratase/3-hydroxyacyl-CoA dehydrogenase	4.2.1.17	Acetoacetyl-CoA	NAD+	white
-enoyl-CoA hydratase/3-hydroxyacyl-CoA dehydrogenase	4.2.1.17	H+	(S)-3-Hydroxybutanoyl-CoA	white
-enoyl-CoA hydratase/3-hydroxyacyl-CoA dehydrogenase	4.2.1.17	H+	NAD+	white
-enoyl-CoA hydratase/3-hydroxyacyl-CoA dehydrogenase	4.2.1.17	NAD+	Acetoacetyl-CoA	white
-enoyl-CoA hydratase/3-hydroxyacyl-CoA dehydrogenase	4.2.1.17	NAD+	H+	white
-enoyl-CoA hydratase/3-hydroxyacyl-CoA dehydrogenase	4.2.1.17	NAD+	NADH	white
-enoyl-CoA hydratase/3-hydroxyacyl-CoA dehydrogenase	4.2.1.17	NADH	(S)-3-Hydroxybutanoyl-CoA	white
-enoyl-CoA hydratase/3-hydroxyacyl-CoA dehydrogenase	4.2.1.17	NADH	NAD+	white
-fatty acid alpha-dioxygenase	1.13.11.92	(9Z,12Z,15Z)-Octadecatrienoic acid	2(R)-HPOT	white
-fatty acid alpha-dioxygenase	1.13.11.92	2(R)-HPOT	(9Z,12Z,15Z)-Octadecatrienoic acid	white
-fatty acid alpha-dioxygenase	1.13.11.92	2(R)-HPOT	Oxygen	white
-fatty acid alpha-dioxygenase	1.13.11.92	Oxygen	2(R)-HPOT	white
-hydroperoxide dehydratase	4.2.1.92	(9Z,15Z)-(13S)-12,13-Epoxyoctadeca-9,11,15-trienoic acid	13(S)-HPOT	white
-hydroperoxide dehydratase	4.2.1.92	13(S)-HPOT	(9Z,15Z)-(13S)-12,13-Epoxyoctadeca-9,11,15-trienoic acid	white
-hydroperoxide dehydratase	4.2.1.92	13(S)-HPOT	H2O	white
-hydroperoxide dehydratase	4.2.1.92	H2O	13(S)-HPOT	white
-hydroperoxide lyase	4.1.2.-	3,6-Nonadienal	9(S)-HPOT	white
-hydroperoxide lyase	4.1.2.-	9(S)-HPOT	3,6-Nonadienal	white
-hydroperoxide lyase	4.1.2.-	9(S)-HPOT	9-Oxononanoic acid	white
-hydroperoxide lyase	4.1.2.-	9-Oxononanoic acid	9(S)-HPOT	white
-jasmonate O-methyltransferase	2.1.1.141	(-)-Jasmonic acid	Methyl jasmonate	white
-jasmonate O-methyltransferase	2.1.1.141	(-)-Jasmonic acid	S-Adenosyl-L-homocysteine	white
-jasmonate O-methyltransferase	2.1.1.141	Methyl jasmonate	(-)-Jasmonic acid	white
-jasmonate O-methyltransferase	2.1.1.141	Methyl jasmonate	S-Adenosyl-L-methionine	white
-jasmonate O-methyltransferase	2.1.1.141	S-Adenosyl-L-homocysteine	(-)-Jasmonic acid	white
-jasmonate O-methyltransferase	2.1.1.141	S-Adenosyl-L-homocysteine	S-Adenosyl-L-methionine	white
-jasmonate O-methyltransferase	2.1.1.141	S-Adenosyl-L-methionine	Methyl jasmonate	white
-jasmonate O-methyltransferase	2.1.1.141	S-Adenosyl-L-methionine	S-Adenosyl-L-homocysteine	white
-lipoxygenase	1.13.11.12	(9Z,11E)-(13S)-13-Hydroperoxyoctadeca-9,11-dienoic acid	Linoleate	white
-lipoxygenase	1.13.11.12	(9Z,11E)-(13S)-13-Hydroperoxyoctadeca-9,11-dienoic acid	Oxygen	white
-lipoxygenase	1.13.11.12	Linoleate	(9Z,11E)-(13S)-13-Hydroperoxyoctadeca-9,11-dienoic acid	white
-lipoxygenase	1.13.11.12	Oxygen	(9Z,11E)-(13S)-13-Hydroperoxyoctadeca-9,11-dienoic acid	white
-phospholipase A1	3.1.1.32	2-Acyl-sn-glycero-3-phosphocholine	H2O	white
-phospholipase A1	3.1.1.32	2-Acyl-sn-glycero-3-phosphocholine	Phosphatidylcholine	white
-phospholipase A1	3.1.1.32	Fatty acid	H2O	white
-phospholipase A1	3.1.1.32	Fatty acid	Phosphatidylcholine	white
-phospholipase A1	3.1.1.32	H2O	2-Acyl-sn-glycero-3-phosphocholine	white
-phospholipase A1	3.1.1.32	H2O	Fatty acid	white
-phospholipase A1	3.1.1.32	Phosphatidylcholine	2-Acyl-sn-glycero-3-phosphocholine	white
-phospholipase A1	3.1.1.32	Phosphatidylcholine	Fatty acid	white
-phospholipase A1/A2	3.1.1.32	1-Acyl-sn-glycero-3-phosphocholine	H2O	white
-phospholipase A1/A2	3.1.1.32	1-Acyl-sn-glycero-3-phosphocholine	Phosphatidylcholine	white
-phospholipase A1/A2	3.1.1.32	Fatty acid	H2O	white
-phospholipase A1/A2	3.1.1.32	Fatty acid	Phosphatidylcholine	white
-phospholipase A1/A2	3.1.1.32	H2O	1-Acyl-sn-glycero-3-phosphocholine	white
-phospholipase A1/A2	3.1.1.32	H2O	Fatty acid	white
-phospholipase A1/A2	3.1.1.32	Phosphatidylcholine	1-Acyl-sn-glycero-3-phosphocholine	white
-phospholipase A1/A2	3.1.1.32	Phosphatidylcholine	Fatty acid	white
-phospholipase B1, membrane-associated	3.1.1.4	1-Acyl-sn-glycero-3-phosphocholine	H2O	white
-phospholipase B1, membrane-associated	3.1.1.4	1-Acyl-sn-glycero-3-phosphocholine	Phosphatidylcholine	white
-phospholipase B1, membrane-associated	3.1.1.4	Fatty acid	H2O	white
-phospholipase B1, membrane-associated	3.1.1.4	Fatty acid	Phosphatidylcholine	white
-phospholipase B1, membrane-associated	3.1.1.4	H2O	1-Acyl-sn-glycero-3-phosphocholine	white
-phospholipase B1, membrane-associated	3.1.1.4	H2O	Fatty acid	white
-phospholipase B1, membrane-associated	3.1.1.4	Phosphatidylcholine	1-Acyl-sn-glycero-3-phosphocholine	white
-phospholipase B1, membrane-associated	3.1.1.4	Phosphatidylcholine	Fatty acid	white
-secretory phospholipase A2	3.1.1.4	1-Acyl-sn-glycero-3-phosphocholine	H2O	white
-secretory phospholipase A2	3.1.1.4	1-Acyl-sn-glycero-3-phosphocholine	Phosphatidylcholine	white
-secretory phospholipase A2	3.1.1.4	Fatty acid	H2O	white
-secretory phospholipase A2	3.1.1.4	Fatty acid	Phosphatidylcholine	white
-secretory phospholipase A2	3.1.1.4	H2O	1-Acyl-sn-glycero-3-phosphocholine	white
-secretory phospholipase A2	3.1.1.4	H2O	Fatty acid	white
-secretory phospholipase A2	3.1.1.4	Phosphatidylcholine	1-Acyl-sn-glycero-3-phosphocholine	white
-secretory phospholipase A2	3.1.1.4	Phosphatidylcholine	Fatty acid	white
+enzyme_name	EC	source	target	reaction	color
+(Z)-3-hexen-1-ol acetyltransferase	2.3.1.195	(3Z)-Hex-3-en-1-yl acetate	3-Hexenol	R09631	white
+(Z)-3-hexen-1-ol acetyltransferase	2.3.1.195	(3Z)-Hex-3-en-1-yl acetate	Acetyl-CoA	R09631	white
+(Z)-3-hexen-1-ol acetyltransferase	2.3.1.195	3-Hexenol	(3Z)-Hex-3-en-1-yl acetate	R09631	white
+(Z)-3-hexen-1-ol acetyltransferase	2.3.1.195	3-Hexenol	CoA	R09631	white
+(Z)-3-hexen-1-ol acetyltransferase	2.3.1.195	Acetyl-CoA	(3Z)-Hex-3-en-1-yl acetate	R09631	white
+(Z)-3-hexen-1-ol acetyltransferase	2.3.1.195	Acetyl-CoA	CoA	R09631	white
+(Z)-3-hexen-1-ol acetyltransferase	2.3.1.195	CoA	3-Hexenol	R09631	white
+(Z)-3-hexen-1-ol acetyltransferase	2.3.1.195	CoA	Acetyl-CoA	R09631	white
+12-oxophytodienoic acid reductase	1.3.1.42	(9S,13S,15Z)-12-Oxo-10,11-dihydrophyto-15-enoate	(9S,13S,15Z)-12-Oxophyto-10,15-dienoate	R03401	white
+12-oxophytodienoic acid reductase	1.3.1.42	(9S,13S,15Z)-12-Oxo-10,11-dihydrophyto-15-enoate	H+	R03401	white
+12-oxophytodienoic acid reductase	1.3.1.42	(9S,13S,15Z)-12-Oxo-10,11-dihydrophyto-15-enoate	NADPH	R03401	white
+12-oxophytodienoic acid reductase	1.3.1.42	(9S,13S,15Z)-12-Oxophyto-10,15-dienoate	(9S,13S,15Z)-12-Oxo-10,11-dihydrophyto-15-enoate	R03401	white
+12-oxophytodienoic acid reductase	1.3.1.42	(9S,13S,15Z)-12-Oxophyto-10,15-dienoate	NADP+	R03401	white
+12-oxophytodienoic acid reductase	1.3.1.42	H+	(9S,13S,15Z)-12-Oxo-10,11-dihydrophyto-15-enoate	R03401	white
+12-oxophytodienoic acid reductase	1.3.1.42	H+	NADP+	R03401	white
+12-oxophytodienoic acid reductase	1.3.1.42	NADP+	(9S,13S,15Z)-12-Oxophyto-10,15-dienoate	R03401	white
+12-oxophytodienoic acid reductase	1.3.1.42	NADP+	H+	R03401	white
+12-oxophytodienoic acid reductase	1.3.1.42	NADP+	NADPH	R03401	white
+12-oxophytodienoic acid reductase	1.3.1.42	NADPH	(9S,13S,15Z)-12-Oxo-10,11-dihydrophyto-15-enoate	R03401	white
+12-oxophytodienoic acid reductase	1.3.1.42	NADPH	NADP+	R03401	white
+HRAS-like suppressor 3	3.1.1.32	1-Acyl-sn-glycero-3-phosphocholine	H2O	R01315	white
+HRAS-like suppressor 3	3.1.1.32	1-Acyl-sn-glycero-3-phosphocholine	Phosphatidylcholine	R01315	white
+HRAS-like suppressor 3	3.1.1.32	Fatty acid	H2O	R01315	white
+HRAS-like suppressor 3	3.1.1.32	Fatty acid	Phosphatidylcholine	R01315	white
+HRAS-like suppressor 3	3.1.1.32	H2O	1-Acyl-sn-glycero-3-phosphocholine	R01315	white
+HRAS-like suppressor 3	3.1.1.32	H2O	Fatty acid	R01315	white
+HRAS-like suppressor 3	3.1.1.32	Phosphatidylcholine	1-Acyl-sn-glycero-3-phosphocholine	R01315	white
+HRAS-like suppressor 3	3.1.1.32	Phosphatidylcholine	Fatty acid	R01315	white
+OPC-8:0 CoA ligase 1	6.2.1.-	(9S,13S,15Z)-12-Oxo-10,11-dihydrophyto-15-enoate	AMP	R07887	white
+OPC-8:0 CoA ligase 1	6.2.1.-	(9S,13S,15Z)-12-Oxo-10,11-dihydrophyto-15-enoate	Diphosphate	R07887	white
+OPC-8:0 CoA ligase 1	6.2.1.-	(9S,13S,15Z)-12-Oxo-10,11-dihydrophyto-15-enoate	OPC8-CoA	R07887	white
+OPC-8:0 CoA ligase 1	6.2.1.-	AMP	(9S,13S,15Z)-12-Oxo-10,11-dihydrophyto-15-enoate	R07887	white
+OPC-8:0 CoA ligase 1	6.2.1.-	AMP	ATP	R07887	white
+OPC-8:0 CoA ligase 1	6.2.1.-	AMP	CoA	R07887	white
+OPC-8:0 CoA ligase 1	6.2.1.-	ATP	AMP	R07887	white
+OPC-8:0 CoA ligase 1	6.2.1.-	ATP	Diphosphate	R07887	white
+OPC-8:0 CoA ligase 1	6.2.1.-	ATP	OPC8-CoA	R07887	white
+OPC-8:0 CoA ligase 1	6.2.1.-	CoA	AMP	R07887	white
+OPC-8:0 CoA ligase 1	6.2.1.-	CoA	Diphosphate	R07887	white
+OPC-8:0 CoA ligase 1	6.2.1.-	CoA	OPC8-CoA	R07887	white
+OPC-8:0 CoA ligase 1	6.2.1.-	Diphosphate	(9S,13S,15Z)-12-Oxo-10,11-dihydrophyto-15-enoate	R07887	white
+OPC-8:0 CoA ligase 1	6.2.1.-	Diphosphate	ATP	R07887	white
+OPC-8:0 CoA ligase 1	6.2.1.-	Diphosphate	CoA	R07887	white
+OPC-8:0 CoA ligase 1	6.2.1.-	OPC8-CoA	(9S,13S,15Z)-12-Oxo-10,11-dihydrophyto-15-enoate	R07887	white
+OPC-8:0 CoA ligase 1	6.2.1.-	OPC8-CoA	ATP	R07887	white
+OPC-8:0 CoA ligase 1	6.2.1.-	OPC8-CoA	CoA	R07887	white
+TAG lipase / steryl ester hydrolase / phospholipase A2 / LPA acyltransferase	3.1.1.3	1-Acyl-sn-glycero-3-phosphocholine	H2O	R01315	white
+TAG lipase / steryl ester hydrolase / phospholipase A2 / LPA acyltransferase	3.1.1.3	1-Acyl-sn-glycero-3-phosphocholine	Phosphatidylcholine	R01315	white
+TAG lipase / steryl ester hydrolase / phospholipase A2 / LPA acyltransferase	3.1.1.3	Fatty acid	H2O	R01315	white
+TAG lipase / steryl ester hydrolase / phospholipase A2 / LPA acyltransferase	3.1.1.3	Fatty acid	Phosphatidylcholine	R01315	white
+TAG lipase / steryl ester hydrolase / phospholipase A2 / LPA acyltransferase	3.1.1.3	H2O	1-Acyl-sn-glycero-3-phosphocholine	R01315	white
+TAG lipase / steryl ester hydrolase / phospholipase A2 / LPA acyltransferase	3.1.1.3	H2O	Fatty acid	R01315	white
+TAG lipase / steryl ester hydrolase / phospholipase A2 / LPA acyltransferase	3.1.1.3	Phosphatidylcholine	1-Acyl-sn-glycero-3-phosphocholine	R01315	white
+TAG lipase / steryl ester hydrolase / phospholipase A2 / LPA acyltransferase	3.1.1.3	Phosphatidylcholine	Fatty acid	R01315	white
+acetyl-CoA acyltransferase	2.3.1.16	(+)-7-Isojasmonic acid CoA	3-Oxo-OPC4-CoA	R07899	green
+acetyl-CoA acyltransferase	2.3.1.16	(+)-7-Isojasmonic acid CoA	CoA	R07899	green
+acetyl-CoA acyltransferase	2.3.1.16	Acetyl-CoA	3-Oxo-OPC4-CoA	R07899	green
+acetyl-CoA acyltransferase	2.3.1.16	Acetyl-CoA	3-Oxo-OPC6-CoA	R07895	green
+acetyl-CoA acyltransferase	2.3.1.16	Acetyl-CoA	3-Oxo-OPC8-CoA	R07891	green
+acetyl-CoA acyltransferase	2.3.1.16	Acetyl-CoA	CoA	R07891	green
+acetyl-CoA acyltransferase	2.3.1.16	Acetyl-CoA	CoA	R07895	green
+acetyl-CoA acyltransferase	2.3.1.16	Acetyl-CoA	CoA	R07899	green
+acetyl-CoA acyltransferase	2.3.1.16	OPC4-CoA	3-Oxo-OPC6-CoA	R07895	green
+acetyl-CoA acyltransferase	2.3.1.16	OPC4-CoA	CoA	R07895	green
+acetyl-CoA acyltransferase	2.3.1.16	OPC6-CoA	3-Oxo-OPC8-CoA	R07891	green
+acetyl-CoA acyltransferase	2.3.1.16	OPC6-CoA	CoA	R07891	green
+acyl-CoA 6-desaturase (Delta-6 desaturase)	1.14.19.3	Ferricytochrome b5	Ferrocytochrome b5	R03814	white
+acyl-CoA 6-desaturase (Delta-6 desaturase)	1.14.19.3	Ferricytochrome b5	H+	R03814	white
+acyl-CoA 6-desaturase (Delta-6 desaturase)	1.14.19.3	Ferricytochrome b5	Linoleoyl-CoA	R03814	white
+acyl-CoA 6-desaturase (Delta-6 desaturase)	1.14.19.3	Ferricytochrome b5	Oxygen	R03814	white
+acyl-CoA 6-desaturase (Delta-6 desaturase)	1.14.19.3	Ferrocytochrome b5	Ferricytochrome b5	R03814	white
+acyl-CoA 6-desaturase (Delta-6 desaturase)	1.14.19.3	Ferrocytochrome b5	H2O	R03814	white
+acyl-CoA 6-desaturase (Delta-6 desaturase)	1.14.19.3	Ferrocytochrome b5	gamma-Linolenoyl-CoA	R03814	white
+acyl-CoA 6-desaturase (Delta-6 desaturase)	1.14.19.3	H+	Ferricytochrome b5	R03814	white
+acyl-CoA 6-desaturase (Delta-6 desaturase)	1.14.19.3	H+	H2O	R03814	white
+acyl-CoA 6-desaturase (Delta-6 desaturase)	1.14.19.3	H+	gamma-Linolenoyl-CoA	R03814	white
+acyl-CoA 6-desaturase (Delta-6 desaturase)	1.14.19.3	H2O	Ferrocytochrome b5	R03814	white
+acyl-CoA 6-desaturase (Delta-6 desaturase)	1.14.19.3	H2O	H+	R03814	white
+acyl-CoA 6-desaturase (Delta-6 desaturase)	1.14.19.3	H2O	Linoleoyl-CoA	R03814	white
+acyl-CoA 6-desaturase (Delta-6 desaturase)	1.14.19.3	H2O	Oxygen	R03814	white
+acyl-CoA 6-desaturase (Delta-6 desaturase)	1.14.19.3	Linoleoyl-CoA	Ferricytochrome b5	R03814	white
+acyl-CoA 6-desaturase (Delta-6 desaturase)	1.14.19.3	Linoleoyl-CoA	H2O	R03814	white
+acyl-CoA 6-desaturase (Delta-6 desaturase)	1.14.19.3	Linoleoyl-CoA	gamma-Linolenoyl-CoA	R03814	white
+acyl-CoA 6-desaturase (Delta-6 desaturase)	1.14.19.3	Oxygen	Ferricytochrome b5	R03814	white
+acyl-CoA 6-desaturase (Delta-6 desaturase)	1.14.19.3	Oxygen	H2O	R03814	white
+acyl-CoA 6-desaturase (Delta-6 desaturase)	1.14.19.3	Oxygen	gamma-Linolenoyl-CoA	R03814	white
+acyl-CoA 6-desaturase (Delta-6 desaturase)	1.14.19.3	gamma-Linolenoyl-CoA	Ferrocytochrome b5	R03814	white
+acyl-CoA 6-desaturase (Delta-6 desaturase)	1.14.19.3	gamma-Linolenoyl-CoA	H+	R03814	white
+acyl-CoA 6-desaturase (Delta-6 desaturase)	1.14.19.3	gamma-Linolenoyl-CoA	Linoleoyl-CoA	R03814	white
+acyl-CoA 6-desaturase (Delta-6 desaturase)	1.14.19.3	gamma-Linolenoyl-CoA	Oxygen	R03814	white
+acyl-CoA oxidase	1.3.3.6	FAD	FADH2	R07888	green
+acyl-CoA oxidase	1.3.3.6	FAD	FADH2	R07892	green
+acyl-CoA oxidase	1.3.3.6	FAD	FADH2	R07896	green
+acyl-CoA oxidase	1.3.3.6	FAD	trans-2-Enoyl-OPC4-CoA	R07896	green
+acyl-CoA oxidase	1.3.3.6	FAD	trans-2-Enoyl-OPC6-CoA	R07892	green
+acyl-CoA oxidase	1.3.3.6	FAD	trans-2-Enoyl-OPC8-CoA	R07888	green
+acyl-CoA oxidase	1.3.3.6	OPC4-CoA	FADH2	R07896	green
+acyl-CoA oxidase	1.3.3.6	OPC4-CoA	trans-2-Enoyl-OPC4-CoA	R07896	green
+acyl-CoA oxidase	1.3.3.6	OPC6-CoA	FADH2	R07892	green
+acyl-CoA oxidase	1.3.3.6	OPC6-CoA	trans-2-Enoyl-OPC6-CoA	R07892	green
+acyl-CoA oxidase	1.3.3.6	OPC8-CoA	FADH2	R07888	green
+acyl-CoA oxidase	1.3.3.6	OPC8-CoA	trans-2-Enoyl-OPC8-CoA	R07888	green
+alcohol dehydrogenase class-P	1.1.1.1	Aldehyde	NAD+	R00623	white
+alcohol dehydrogenase class-P	1.1.1.1	Aldehyde	Primary alcohol	R00623	white
+alcohol dehydrogenase class-P	1.1.1.1	H+	NAD+	R00623	white
+alcohol dehydrogenase class-P	1.1.1.1	H+	Primary alcohol	R00623	white
+alcohol dehydrogenase class-P	1.1.1.1	NAD+	Aldehyde	R00623	white
+alcohol dehydrogenase class-P	1.1.1.1	NAD+	H+	R00623	white
+alcohol dehydrogenase class-P	1.1.1.1	NAD+	NADH	R00623	white
+alcohol dehydrogenase class-P	1.1.1.1	NADH	NAD+	R00623	white
+alcohol dehydrogenase class-P	1.1.1.1	NADH	Primary alcohol	R00623	white
+alcohol dehydrogenase class-P	1.1.1.1	Primary alcohol	Aldehyde	R00623	white
+alcohol dehydrogenase class-P	1.1.1.1	Primary alcohol	H+	R00623	white
+alcohol dehydrogenase class-P	1.1.1.1	Primary alcohol	NADH	R00623	white
+allene oxide cyclase	5.3.99.6	(9S,13S,15Z)-12-Oxophyto-10,15-dienoate	(9Z,15Z)-(13S)-12,13-Epoxyoctadeca-9,11,15-trienoic acid	R03402	white
+allene oxide cyclase	5.3.99.6	(9Z,15Z)-(13S)-12,13-Epoxyoctadeca-9,11,15-trienoic acid	(9S,13S,15Z)-12-Oxophyto-10,15-dienoate	R03402	white
+cGAMP-activated phospholipase	3.1.1.32	2-Acyl-sn-glycero-3-phosphocholine	H2O	R01316	white
+cGAMP-activated phospholipase	3.1.1.32	2-Acyl-sn-glycero-3-phosphocholine	Phosphatidylcholine	R01316	white
+cGAMP-activated phospholipase	3.1.1.32	Fatty acid	H2O	R01316	white
+cGAMP-activated phospholipase	3.1.1.32	Fatty acid	Phosphatidylcholine	R01316	white
+cGAMP-activated phospholipase	3.1.1.32	H2O	2-Acyl-sn-glycero-3-phosphocholine	R01316	white
+cGAMP-activated phospholipase	3.1.1.32	H2O	Fatty acid	R01316	white
+cGAMP-activated phospholipase	3.1.1.32	Phosphatidylcholine	2-Acyl-sn-glycero-3-phosphocholine	R01316	white
+cGAMP-activated phospholipase	3.1.1.32	Phosphatidylcholine	Fatty acid	R01316	white
+calcium-independent phospholipase A2	3.1.1.4	1-Acyl-sn-glycero-3-phosphocholine	H2O	R01315	white
+calcium-independent phospholipase A2	3.1.1.4	1-Acyl-sn-glycero-3-phosphocholine	Phosphatidylcholine	R01315	white
+calcium-independent phospholipase A2	3.1.1.4	Fatty acid	H2O	R01315	white
+calcium-independent phospholipase A2	3.1.1.4	Fatty acid	Phosphatidylcholine	R01315	white
+calcium-independent phospholipase A2	3.1.1.4	H2O	1-Acyl-sn-glycero-3-phosphocholine	R01315	white
+calcium-independent phospholipase A2	3.1.1.4	H2O	Fatty acid	R01315	white
+calcium-independent phospholipase A2	3.1.1.4	Phosphatidylcholine	1-Acyl-sn-glycero-3-phosphocholine	R01315	white
+calcium-independent phospholipase A2	3.1.1.4	Phosphatidylcholine	Fatty acid	R01315	white
+chloroplastic oxoene reductase	1.3.1.-	9-Hydroxy-12-oxo-10(E),15(Z)-octadecadienoic acid	9-Hydroxy-12-oxo-15(Z)-octadecenoic acid	R12141	white
+chloroplastic oxoene reductase	1.3.1.-	9-Hydroxy-12-oxo-10(E),15(Z)-octadecadienoic acid	NADP+	R12141	white
+chloroplastic oxoene reductase	1.3.1.-	9-Hydroxy-12-oxo-15(Z)-octadecenoic acid	9-Hydroxy-12-oxo-10(E),15(Z)-octadecadienoic acid	R12141	white
+chloroplastic oxoene reductase	1.3.1.-	9-Hydroxy-12-oxo-15(Z)-octadecenoic acid	H+	R12141	white
+chloroplastic oxoene reductase	1.3.1.-	9-Hydroxy-12-oxo-15(Z)-octadecenoic acid	NADPH	R12141	white
+chloroplastic oxoene reductase	1.3.1.-	H+	9-Hydroxy-12-oxo-15(Z)-octadecenoic acid	R12141	white
+chloroplastic oxoene reductase	1.3.1.-	H+	NADP+	R12141	white
+chloroplastic oxoene reductase	1.3.1.-	NADP+	9-Hydroxy-12-oxo-10(E),15(Z)-octadecadienoic acid	R12141	white
+chloroplastic oxoene reductase	1.3.1.-	NADP+	H+	R12141	white
+chloroplastic oxoene reductase	1.3.1.-	NADP+	NADPH	R12141	white
+chloroplastic oxoene reductase	1.3.1.-	NADPH	9-Hydroxy-12-oxo-15(Z)-octadecenoic acid	R12141	white
+chloroplastic oxoene reductase	1.3.1.-	NADPH	NADP+	R12141	white
+cytosolic phospholipase A2	3.1.1.4	1-Acyl-sn-glycero-3-phosphocholine	H2O	R01315	white
+cytosolic phospholipase A2	3.1.1.4	1-Acyl-sn-glycero-3-phosphocholine	Phosphatidylcholine	R01315	white
+cytosolic phospholipase A2	3.1.1.4	Fatty acid	H2O	R01315	white
+cytosolic phospholipase A2	3.1.1.4	Fatty acid	Phosphatidylcholine	R01315	white
+cytosolic phospholipase A2	3.1.1.4	H2O	1-Acyl-sn-glycero-3-phosphocholine	R01315	white
+cytosolic phospholipase A2	3.1.1.4	H2O	Fatty acid	R01315	white
+cytosolic phospholipase A2	3.1.1.4	Phosphatidylcholine	1-Acyl-sn-glycero-3-phosphocholine	R01315	white
+cytosolic phospholipase A2	3.1.1.4	Phosphatidylcholine	Fatty acid	R01315	white
+enoyl-CoA hydratase/3-hydroxyacyl-CoA dehydrogenase	4.2.1.17	(S)-3-Hydroxybutanoyl-CoA	Acetoacetyl-CoA	R01975	white
+enoyl-CoA hydratase/3-hydroxyacyl-CoA dehydrogenase	4.2.1.17	(S)-3-Hydroxybutanoyl-CoA	H+	R01975	white
+enoyl-CoA hydratase/3-hydroxyacyl-CoA dehydrogenase	4.2.1.17	(S)-3-Hydroxybutanoyl-CoA	NADH	R01975	white
+enoyl-CoA hydratase/3-hydroxyacyl-CoA dehydrogenase	4.2.1.17	Acetoacetyl-CoA	(S)-3-Hydroxybutanoyl-CoA	R01975	white
+enoyl-CoA hydratase/3-hydroxyacyl-CoA dehydrogenase	4.2.1.17	Acetoacetyl-CoA	NAD+	R01975	white
+enoyl-CoA hydratase/3-hydroxyacyl-CoA dehydrogenase	4.2.1.17	H+	(S)-3-Hydroxybutanoyl-CoA	R01975	white
+enoyl-CoA hydratase/3-hydroxyacyl-CoA dehydrogenase	4.2.1.17	H+	NAD+	R01975	white
+enoyl-CoA hydratase/3-hydroxyacyl-CoA dehydrogenase	4.2.1.17	NAD+	Acetoacetyl-CoA	R01975	white
+enoyl-CoA hydratase/3-hydroxyacyl-CoA dehydrogenase	4.2.1.17	NAD+	H+	R01975	white
+enoyl-CoA hydratase/3-hydroxyacyl-CoA dehydrogenase	4.2.1.17	NAD+	NADH	R01975	white
+enoyl-CoA hydratase/3-hydroxyacyl-CoA dehydrogenase	4.2.1.17	NADH	(S)-3-Hydroxybutanoyl-CoA	R01975	white
+enoyl-CoA hydratase/3-hydroxyacyl-CoA dehydrogenase	4.2.1.17	NADH	NAD+	R01975	white
+fatty acid alpha-dioxygenase	1.13.11.92	(9Z,12Z,15Z)-Octadecatrienoic acid	2(R)-HPOT	R12775	white
+fatty acid alpha-dioxygenase	1.13.11.92	2(R)-HPOT	(9Z,12Z,15Z)-Octadecatrienoic acid	R12775	white
+fatty acid alpha-dioxygenase	1.13.11.92	2(R)-HPOT	Oxygen	R12775	white
+fatty acid alpha-dioxygenase	1.13.11.92	Oxygen	2(R)-HPOT	R12775	white
+hydroperoxide dehydratase	4.2.1.92	(9Z,15Z)-(13S)-12,13-Epoxyoctadeca-9,11,15-trienoic acid	13(S)-HPOT	R07863	white
+hydroperoxide dehydratase	4.2.1.92	13(S)-HPOT	(9Z,15Z)-(13S)-12,13-Epoxyoctadeca-9,11,15-trienoic acid	R07863	white
+hydroperoxide dehydratase	4.2.1.92	13(S)-HPOT	H2O	R07863	white
+hydroperoxide dehydratase	4.2.1.92	H2O	13(S)-HPOT	R07863	white
+hydroperoxide lyase	4.1.2.-	3,6-Nonadienal	9(S)-HPOT	R07868	white
+hydroperoxide lyase	4.1.2.-	9(S)-HPOT	3,6-Nonadienal	R07868	white
+hydroperoxide lyase	4.1.2.-	9(S)-HPOT	9-Oxononanoic acid	R07868	white
+hydroperoxide lyase	4.1.2.-	9-Oxononanoic acid	9(S)-HPOT	R07868	white
+jasmonate O-methyltransferase	2.1.1.141	(-)-Jasmonic acid	Methyl jasmonate	R05759	white
+jasmonate O-methyltransferase	2.1.1.141	(-)-Jasmonic acid	S-Adenosyl-L-homocysteine	R05759	white
+jasmonate O-methyltransferase	2.1.1.141	Methyl jasmonate	(-)-Jasmonic acid	R05759	white
+jasmonate O-methyltransferase	2.1.1.141	Methyl jasmonate	S-Adenosyl-L-methionine	R05759	white
+jasmonate O-methyltransferase	2.1.1.141	S-Adenosyl-L-homocysteine	(-)-Jasmonic acid	R05759	white
+jasmonate O-methyltransferase	2.1.1.141	S-Adenosyl-L-homocysteine	S-Adenosyl-L-methionine	R05759	white
+jasmonate O-methyltransferase	2.1.1.141	S-Adenosyl-L-methionine	Methyl jasmonate	R05759	white
+jasmonate O-methyltransferase	2.1.1.141	S-Adenosyl-L-methionine	S-Adenosyl-L-homocysteine	R05759	white
+lipoxygenase	1.13.11.12	(9Z,11E)-(13S)-13-Hydroperoxyoctadeca-9,11-dienoic acid	Linoleate	R03626	white
+lipoxygenase	1.13.11.12	(9Z,11E)-(13S)-13-Hydroperoxyoctadeca-9,11-dienoic acid	Oxygen	R03626	white
+lipoxygenase	1.13.11.12	Linoleate	(9Z,11E)-(13S)-13-Hydroperoxyoctadeca-9,11-dienoic acid	R03626	white
+lipoxygenase	1.13.11.12	Oxygen	(9Z,11E)-(13S)-13-Hydroperoxyoctadeca-9,11-dienoic acid	R03626	white
+phospholipase A1	3.1.1.32	2-Acyl-sn-glycero-3-phosphocholine	H2O	R01316	white
+phospholipase A1	3.1.1.32	2-Acyl-sn-glycero-3-phosphocholine	Phosphatidylcholine	R01316	white
+phospholipase A1	3.1.1.32	Fatty acid	H2O	R01316	white
+phospholipase A1	3.1.1.32	Fatty acid	Phosphatidylcholine	R01316	white
+phospholipase A1	3.1.1.32	H2O	2-Acyl-sn-glycero-3-phosphocholine	R01316	white
+phospholipase A1	3.1.1.32	H2O	Fatty acid	R01316	white
+phospholipase A1	3.1.1.32	Phosphatidylcholine	2-Acyl-sn-glycero-3-phosphocholine	R01316	white
+phospholipase A1	3.1.1.32	Phosphatidylcholine	Fatty acid	R01316	white
+phospholipase A1/A2	3.1.1.32	1-Acyl-sn-glycero-3-phosphocholine	H2O	R01315	white
+phospholipase A1/A2	3.1.1.32	1-Acyl-sn-glycero-3-phosphocholine	Phosphatidylcholine	R01315	white
+phospholipase A1/A2	3.1.1.32	Fatty acid	H2O	R01315	white
+phospholipase A1/A2	3.1.1.32	Fatty acid	Phosphatidylcholine	R01315	white
+phospholipase A1/A2	3.1.1.32	H2O	1-Acyl-sn-glycero-3-phosphocholine	R01315	white
+phospholipase A1/A2	3.1.1.32	H2O	Fatty acid	R01315	white
+phospholipase A1/A2	3.1.1.32	Phosphatidylcholine	1-Acyl-sn-glycero-3-phosphocholine	R01315	white
+phospholipase A1/A2	3.1.1.32	Phosphatidylcholine	Fatty acid	R01315	white
+phospholipase B1, membrane-associated	3.1.1.4	1-Acyl-sn-glycero-3-phosphocholine	H2O	R01315	white
+phospholipase B1, membrane-associated	3.1.1.4	1-Acyl-sn-glycero-3-phosphocholine	Phosphatidylcholine	R01315	white
+phospholipase B1, membrane-associated	3.1.1.4	Fatty acid	H2O	R01315	white
+phospholipase B1, membrane-associated	3.1.1.4	Fatty acid	Phosphatidylcholine	R01315	white
+phospholipase B1, membrane-associated	3.1.1.4	H2O	1-Acyl-sn-glycero-3-phosphocholine	R01315	white
+phospholipase B1, membrane-associated	3.1.1.4	H2O	Fatty acid	R01315	white
+phospholipase B1, membrane-associated	3.1.1.4	Phosphatidylcholine	1-Acyl-sn-glycero-3-phosphocholine	R01315	white
+phospholipase B1, membrane-associated	3.1.1.4	Phosphatidylcholine	Fatty acid	R01315	white
+secretory phospholipase A2	3.1.1.4	1-Acyl-sn-glycero-3-phosphocholine	H2O	R01315	white
+secretory phospholipase A2	3.1.1.4	1-Acyl-sn-glycero-3-phosphocholine	Phosphatidylcholine	R01315	white
+secretory phospholipase A2	3.1.1.4	Fatty acid	H2O	R01315	white
+secretory phospholipase A2	3.1.1.4	Fatty acid	Phosphatidylcholine	R01315	white
+secretory phospholipase A2	3.1.1.4	H2O	1-Acyl-sn-glycero-3-phosphocholine	R01315	white
+secretory phospholipase A2	3.1.1.4	H2O	Fatty acid	R01315	white
+secretory phospholipase A2	3.1.1.4	Phosphatidylcholine	1-Acyl-sn-glycero-3-phosphocholine	R01315	white
+secretory phospholipase A2	3.1.1.4	Phosphatidylcholine	Fatty acid	R01315	white

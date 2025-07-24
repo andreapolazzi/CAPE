@@ -1,434 +1,483 @@
-enzyme_name	EC	source	target	color
-2,3-dihydroxy-2,3-dihydro-p-cumate dehydrogenase	1.3.1.58	2,3-Dihydroxy-p-cumate	NAD+	white
-2,3-dihydroxy-2,3-dihydro-p-cumate dehydrogenase	1.3.1.58	2,3-Dihydroxy-p-cumate	cis-2,3-Dihydroxy-2,3-dihydro-p-cumate	white
-2,3-dihydroxy-2,3-dihydro-p-cumate dehydrogenase	1.3.1.58	H+	NAD+	white
-2,3-dihydroxy-2,3-dihydro-p-cumate dehydrogenase	1.3.1.58	H+	cis-2,3-Dihydroxy-2,3-dihydro-p-cumate	white
-2,3-dihydroxy-2,3-dihydro-p-cumate dehydrogenase	1.3.1.58	NAD+	2,3-Dihydroxy-p-cumate	white
-2,3-dihydroxy-2,3-dihydro-p-cumate dehydrogenase	1.3.1.58	NAD+	H+	white
-2,3-dihydroxy-2,3-dihydro-p-cumate dehydrogenase	1.3.1.58	NAD+	NADH	white
-2,3-dihydroxy-2,3-dihydro-p-cumate dehydrogenase	1.3.1.58	NADH	NAD+	white
-2,3-dihydroxy-2,3-dihydro-p-cumate dehydrogenase	1.3.1.58	NADH	cis-2,3-Dihydroxy-2,3-dihydro-p-cumate	white
-2,3-dihydroxy-2,3-dihydro-p-cumate dehydrogenase	1.3.1.58	cis-2,3-Dihydroxy-2,3-dihydro-p-cumate	2,3-Dihydroxy-p-cumate	white
-2,3-dihydroxy-2,3-dihydro-p-cumate dehydrogenase	1.3.1.58	cis-2,3-Dihydroxy-2,3-dihydro-p-cumate	H+	white
-2,3-dihydroxy-2,3-dihydro-p-cumate dehydrogenase	1.3.1.58	cis-2,3-Dihydroxy-2,3-dihydro-p-cumate	NADH	white
-2,3-dihydroxy-p-cumate/2,3-dihydroxybenzoate 3,4-dioxygenase	1.13.11.-	2,3-Dihydroxybenzoate	3-Carboxy-2-hydroxymuconate semialdehyde	white
-2,3-dihydroxy-p-cumate/2,3-dihydroxybenzoate 3,4-dioxygenase	1.13.11.-	3-Carboxy-2-hydroxymuconate semialdehyde	2,3-Dihydroxybenzoate	white
-2,3-dihydroxy-p-cumate/2,3-dihydroxybenzoate 3,4-dioxygenase	1.13.11.-	3-Carboxy-2-hydroxymuconate semialdehyde	Oxygen	white
-2,3-dihydroxy-p-cumate/2,3-dihydroxybenzoate 3,4-dioxygenase	1.13.11.-	Oxygen	3-Carboxy-2-hydroxymuconate semialdehyde	white
-2-hydroxy-6-oxohepta-2,4-dienoate hydrolase	3.7.1.25	2-Hydroxy-2,4-pentadienoate	2-Hydroxy-6-keto-2,4-heptadienoate	white
-2-hydroxy-6-oxohepta-2,4-dienoate hydrolase	3.7.1.25	2-Hydroxy-2,4-pentadienoate	H2O	white
-2-hydroxy-6-oxohepta-2,4-dienoate hydrolase	3.7.1.25	2-Hydroxy-6-keto-2,4-heptadienoate	2-Hydroxy-2,4-pentadienoate	white
-2-hydroxy-6-oxohepta-2,4-dienoate hydrolase	3.7.1.25	2-Hydroxy-6-keto-2,4-heptadienoate	Acetate	white
-2-hydroxy-6-oxohepta-2,4-dienoate hydrolase	3.7.1.25	Acetate	2-Hydroxy-6-keto-2,4-heptadienoate	white
-2-hydroxy-6-oxohepta-2,4-dienoate hydrolase	3.7.1.25	Acetate	H2O	white
-2-hydroxy-6-oxohepta-2,4-dienoate hydrolase	3.7.1.25	H2O	2-Hydroxy-2,4-pentadienoate	white
-2-hydroxy-6-oxohepta-2,4-dienoate hydrolase	3.7.1.25	H2O	Acetate	white
-2-hydroxymuconate-semialdehyde hydrolase	3.7.1.9	2-Hydroxy-5-methyl-cis,cis-muconic semialdehyde	2-Hydroxy-cis-hex-2,4-dienoate	green
-2-hydroxymuconate-semialdehyde hydrolase	3.7.1.9	2-Hydroxy-5-methyl-cis,cis-muconic semialdehyde	Formate	green
-2-hydroxymuconate-semialdehyde hydrolase	3.7.1.9	H2O	2-Hydroxy-cis-hex-2,4-dienoate	green
-2-hydroxymuconate-semialdehyde hydrolase	3.7.1.9	H2O	Formate	green
-2-keto-4-pentenoate hydratase	4.2.1.80	2-Hydroxy-2,4-pentadienoate	4-Hydroxy-2-oxopentanoate	green
-2-keto-4-pentenoate hydratase	4.2.1.80	H2O	4-Hydroxy-2-oxopentanoate	green
-2-oxo-3-hexenedioate decarboxylase	4.1.1.77	2-Hydroxy-2,4-pentadienoate	gamma-Oxalocrotonate	white
-2-oxo-3-hexenedioate decarboxylase	4.1.1.77	CO2	gamma-Oxalocrotonate	white
-2-oxo-3-hexenedioate decarboxylase	4.1.1.77	gamma-Oxalocrotonate	2-Hydroxy-2,4-pentadienoate	white
-2-oxo-3-hexenedioate decarboxylase	4.1.1.77	gamma-Oxalocrotonate	CO2	white
-2-oxopent-4-enoate/cis-2-oxohex-4-enoate hydratase	4.2.1.80	2-Hydroxy-2,4-pentadienoate	4-Hydroxy-2-oxopentanoate	white
-2-oxopent-4-enoate/cis-2-oxohex-4-enoate hydratase	4.2.1.80	4-Hydroxy-2-oxopentanoate	2-Hydroxy-2,4-pentadienoate	white
-2-oxopent-4-enoate/cis-2-oxohex-4-enoate hydratase	4.2.1.80	4-Hydroxy-2-oxopentanoate	H2O	white
-2-oxopent-4-enoate/cis-2-oxohex-4-enoate hydratase	4.2.1.80	H2O	4-Hydroxy-2-oxopentanoate	white
-3-methylcatechol 2,3-dioxygenase	1.13.11.-	2,3-Dihydroxytoluene	2-Hydroxy-6-keto-2,4-heptadienoate	white
-3-methylcatechol 2,3-dioxygenase	1.13.11.-	2-Hydroxy-6-keto-2,4-heptadienoate	2,3-Dihydroxytoluene	white
-3-methylcatechol 2,3-dioxygenase	1.13.11.-	2-Hydroxy-6-keto-2,4-heptadienoate	Oxygen	white
-3-methylcatechol 2,3-dioxygenase	1.13.11.-	Oxygen	2-Hydroxy-6-keto-2,4-heptadienoate	white
-4-hydroxy 2-oxovalerate aldolase	4.1.3.39	Acetaldehyde	4-Hydroxy-2-oxopentanoate	green
-4-hydroxy 2-oxovalerate aldolase	4.1.3.39	Pyruvate	4-Hydroxy-2-oxopentanoate	green
-4-hydroxy-2-oxovalerate/4-hydroxy-2-oxohexanoate aldolase	4.1.3.39	4-Hydroxy-2-oxopentanoate	Acetaldehyde	white
-4-hydroxy-2-oxovalerate/4-hydroxy-2-oxohexanoate aldolase	4.1.3.39	4-Hydroxy-2-oxopentanoate	Pyruvate	white
-4-hydroxy-2-oxovalerate/4-hydroxy-2-oxohexanoate aldolase	4.1.3.39	Acetaldehyde	4-Hydroxy-2-oxopentanoate	white
-4-hydroxy-2-oxovalerate/4-hydroxy-2-oxohexanoate aldolase	4.1.3.39	Pyruvate	4-Hydroxy-2-oxopentanoate	white
-4-oxalocrotonate tautomerase	5.3.2.6	2-Hydroxy-5-methyl-cis,cis-muconate	2-Oxo-5-methyl-cis-muconate	green
-HCOMODA/2-hydroxy-3-carboxy-muconic semialdehyde decarboxylase	4.1.1.-	2-Hydroxymuconate semialdehyde	3-Carboxy-2-hydroxymuconate semialdehyde	white
-HCOMODA/2-hydroxy-3-carboxy-muconic semialdehyde decarboxylase	4.1.1.-	3-Carboxy-2-hydroxymuconate semialdehyde	2-Hydroxymuconate semialdehyde	white
-HCOMODA/2-hydroxy-3-carboxy-muconic semialdehyde decarboxylase	4.1.1.-	3-Carboxy-2-hydroxymuconate semialdehyde	CO2	white
-HCOMODA/2-hydroxy-3-carboxy-muconic semialdehyde decarboxylase	4.1.1.-	CO2	3-Carboxy-2-hydroxymuconate semialdehyde	white
-HOMODA hydrolase	3.7.1.-	2-Hydroxy-2,4-pentadienoate	2-Hydroxy-6-oxo-7-methylocta-2,4-dienoate	white
-HOMODA hydrolase	3.7.1.-	2-Hydroxy-2,4-pentadienoate	H2O	white
-HOMODA hydrolase	3.7.1.-	2-Hydroxy-6-oxo-7-methylocta-2,4-dienoate	2-Hydroxy-2,4-pentadienoate	white
-HOMODA hydrolase	3.7.1.-	2-Hydroxy-6-oxo-7-methylocta-2,4-dienoate	2-Methylpropanoate	white
-HOMODA hydrolase	3.7.1.-	2-Methylpropanoate	2-Hydroxy-6-oxo-7-methylocta-2,4-dienoate	white
-HOMODA hydrolase	3.7.1.-	2-Methylpropanoate	H2O	white
-HOMODA hydrolase	3.7.1.-	H2O	2-Hydroxy-2,4-pentadienoate	white
-HOMODA hydrolase	3.7.1.-	H2O	2-Methylpropanoate	white
-acetaldehyde dehydrogenase	1.2.1.10	Acetaldehyde	Acetyl-CoA	green
-acetaldehyde dehydrogenase	1.2.1.10	Acetaldehyde	H+	green
-acetaldehyde dehydrogenase	1.2.1.10	Acetaldehyde	NADH	green
-acetaldehyde dehydrogenase	1.2.1.10	Acetyl-CoA	Acetaldehyde	green
-acetaldehyde dehydrogenase	1.2.1.10	Acetyl-CoA	CoA	green
-acetaldehyde dehydrogenase	1.2.1.10	Acetyl-CoA	NAD+	green
-acetaldehyde dehydrogenase	1.2.1.10	CoA	Acetyl-CoA	green
-acetaldehyde dehydrogenase	1.2.1.10	CoA	H+	green
-acetaldehyde dehydrogenase	1.2.1.10	CoA	NADH	green
-acetaldehyde dehydrogenase	1.2.1.10	H+	Acetaldehyde	green
-acetaldehyde dehydrogenase	1.2.1.10	H+	CoA	green
-acetaldehyde dehydrogenase	1.2.1.10	H+	NAD+	green
-acetaldehyde dehydrogenase	1.2.1.10	NAD+	Acetyl-CoA	green
-acetaldehyde dehydrogenase	1.2.1.10	NAD+	H+	green
-acetaldehyde dehydrogenase	1.2.1.10	NAD+	NADH	green
-acetaldehyde dehydrogenase	1.2.1.10	NADH	Acetaldehyde	green
-acetaldehyde dehydrogenase	1.2.1.10	NADH	CoA	green
-acetaldehyde dehydrogenase	1.2.1.10	NADH	NAD+	green
-acetaldehyde/propanal dehydrogenase	1.2.1.10	Acetaldehyde	Acetyl-CoA	white
-acetaldehyde/propanal dehydrogenase	1.2.1.10	Acetaldehyde	H+	white
-acetaldehyde/propanal dehydrogenase	1.2.1.10	Acetaldehyde	NADH	white
-acetaldehyde/propanal dehydrogenase	1.2.1.10	Acetyl-CoA	Acetaldehyde	white
-acetaldehyde/propanal dehydrogenase	1.2.1.10	Acetyl-CoA	CoA	white
-acetaldehyde/propanal dehydrogenase	1.2.1.10	Acetyl-CoA	NAD+	white
-acetaldehyde/propanal dehydrogenase	1.2.1.10	CoA	Acetyl-CoA	white
-acetaldehyde/propanal dehydrogenase	1.2.1.10	CoA	H+	white
-acetaldehyde/propanal dehydrogenase	1.2.1.10	CoA	NADH	white
-acetaldehyde/propanal dehydrogenase	1.2.1.10	H+	Acetaldehyde	white
-acetaldehyde/propanal dehydrogenase	1.2.1.10	H+	CoA	white
-acetaldehyde/propanal dehydrogenase	1.2.1.10	H+	NAD+	white
-acetaldehyde/propanal dehydrogenase	1.2.1.10	NAD+	Acetyl-CoA	white
-acetaldehyde/propanal dehydrogenase	1.2.1.10	NAD+	H+	white
-acetaldehyde/propanal dehydrogenase	1.2.1.10	NAD+	NADH	white
-acetaldehyde/propanal dehydrogenase	1.2.1.10	NADH	Acetaldehyde	white
-acetaldehyde/propanal dehydrogenase	1.2.1.10	NADH	CoA	white
-acetaldehyde/propanal dehydrogenase	1.2.1.10	NADH	NAD+	white
-aminomuconate-semialdehyde/2-hydroxymuconate-6-semialdehyde dehydrogenase	1.2.1.32	2-Hydroxymuconate	2-Hydroxymuconate semialdehyde	white
-aminomuconate-semialdehyde/2-hydroxymuconate-6-semialdehyde dehydrogenase	1.2.1.32	2-Hydroxymuconate	H2O	white
-aminomuconate-semialdehyde/2-hydroxymuconate-6-semialdehyde dehydrogenase	1.2.1.32	2-Hydroxymuconate	NAD+	white
-aminomuconate-semialdehyde/2-hydroxymuconate-6-semialdehyde dehydrogenase	1.2.1.32	2-Hydroxymuconate semialdehyde	2-Hydroxymuconate	white
-aminomuconate-semialdehyde/2-hydroxymuconate-6-semialdehyde dehydrogenase	1.2.1.32	2-Hydroxymuconate semialdehyde	H+	white
-aminomuconate-semialdehyde/2-hydroxymuconate-6-semialdehyde dehydrogenase	1.2.1.32	2-Hydroxymuconate semialdehyde	NADH	white
-aminomuconate-semialdehyde/2-hydroxymuconate-6-semialdehyde dehydrogenase	1.2.1.32	H+	2-Hydroxymuconate semialdehyde	white
-aminomuconate-semialdehyde/2-hydroxymuconate-6-semialdehyde dehydrogenase	1.2.1.32	H+	H2O	white
-aminomuconate-semialdehyde/2-hydroxymuconate-6-semialdehyde dehydrogenase	1.2.1.32	H+	NAD+	white
-aminomuconate-semialdehyde/2-hydroxymuconate-6-semialdehyde dehydrogenase	1.2.1.32	H2O	2-Hydroxymuconate	white
-aminomuconate-semialdehyde/2-hydroxymuconate-6-semialdehyde dehydrogenase	1.2.1.32	H2O	H+	white
-aminomuconate-semialdehyde/2-hydroxymuconate-6-semialdehyde dehydrogenase	1.2.1.32	H2O	NADH	white
-aminomuconate-semialdehyde/2-hydroxymuconate-6-semialdehyde dehydrogenase	1.2.1.32	NAD+	2-Hydroxymuconate	white
-aminomuconate-semialdehyde/2-hydroxymuconate-6-semialdehyde dehydrogenase	1.2.1.32	NAD+	H+	white
-aminomuconate-semialdehyde/2-hydroxymuconate-6-semialdehyde dehydrogenase	1.2.1.32	NAD+	NADH	white
-aminomuconate-semialdehyde/2-hydroxymuconate-6-semialdehyde dehydrogenase	1.2.1.32	NADH	2-Hydroxymuconate semialdehyde	white
-aminomuconate-semialdehyde/2-hydroxymuconate-6-semialdehyde dehydrogenase	1.2.1.32	NADH	H2O	white
-aminomuconate-semialdehyde/2-hydroxymuconate-6-semialdehyde dehydrogenase	1.2.1.32	NADH	NAD+	white
-aryl-alcohol dehydrogenase	1.1.1.90	2-Methylbenzyl alcohol	2-Methylbenzaldehyde	green
-aryl-alcohol dehydrogenase	1.1.1.90	2-Methylbenzyl alcohol	H+	green
-aryl-alcohol dehydrogenase	1.1.1.90	2-Methylbenzyl alcohol	NADH	green
-aryl-alcohol dehydrogenase	1.1.1.90	3-Methylbenzyl alcohol	3-Methylbenzaldehyde	green
-aryl-alcohol dehydrogenase	1.1.1.90	3-Methylbenzyl alcohol	H+	green
-aryl-alcohol dehydrogenase	1.1.1.90	3-Methylbenzyl alcohol	NADH	green
-aryl-alcohol dehydrogenase	1.1.1.90	4-Methylbenzyl alcohol	H+	green
-aryl-alcohol dehydrogenase	1.1.1.90	4-Methylbenzyl alcohol	NADH	green
-aryl-alcohol dehydrogenase	1.1.1.90	4-Methylbenzyl alcohol	p-Tolualdehyde	green
-aryl-alcohol dehydrogenase	1.1.1.90	NAD+	2-Methylbenzaldehyde	green
-aryl-alcohol dehydrogenase	1.1.1.90	NAD+	3-Methylbenzaldehyde	green
-aryl-alcohol dehydrogenase	1.1.1.90	NAD+	H+	green
-aryl-alcohol dehydrogenase	1.1.1.90	NAD+	NADH	green
-aryl-alcohol dehydrogenase	1.1.1.90	NAD+	p-Tolualdehyde	green
-benzaldehyde dehydrogenase (NAD)	1.2.1.28	2-Methylbenzaldehyde	H+	green
-benzaldehyde dehydrogenase (NAD)	1.2.1.28	2-Methylbenzaldehyde	NADPH	green
-benzaldehyde dehydrogenase (NAD)	1.2.1.28	2-Methylbenzaldehyde	o-Toluate	green
-benzaldehyde dehydrogenase (NAD)	1.2.1.28	3-Methylbenzaldehyde	H+	green
-benzaldehyde dehydrogenase (NAD)	1.2.1.28	3-Methylbenzaldehyde	NADPH	green
-benzaldehyde dehydrogenase (NAD)	1.2.1.28	3-Methylbenzaldehyde	m-Methylbenzoate	green
-benzaldehyde dehydrogenase (NAD)	1.2.1.28	H2O	H+	green
-benzaldehyde dehydrogenase (NAD)	1.2.1.28	H2O	NADPH	green
-benzaldehyde dehydrogenase (NAD)	1.2.1.28	H2O	Toluate	green
-benzaldehyde dehydrogenase (NAD)	1.2.1.28	H2O	m-Methylbenzoate	green
-benzaldehyde dehydrogenase (NAD)	1.2.1.28	H2O	o-Toluate	green
-benzaldehyde dehydrogenase (NAD)	1.2.1.28	NADP+	H+	green
-benzaldehyde dehydrogenase (NAD)	1.2.1.28	NADP+	NADPH	green
-benzaldehyde dehydrogenase (NAD)	1.2.1.28	NADP+	Toluate	green
-benzaldehyde dehydrogenase (NAD)	1.2.1.28	NADP+	m-Methylbenzoate	green
-benzaldehyde dehydrogenase (NAD)	1.2.1.28	NADP+	o-Toluate	green
-benzaldehyde dehydrogenase (NAD)	1.2.1.28	p-Tolualdehyde	H+	green
-benzaldehyde dehydrogenase (NAD)	1.2.1.28	p-Tolualdehyde	NADPH	green
-benzaldehyde dehydrogenase (NAD)	1.2.1.28	p-Tolualdehyde	Toluate	green
-benzoate/toluate 1,2-dioxygenase reductase component	1.18.1.-	H+	1,2-Dihydroxy-6-methylcyclohexa-3,5-dienecarboxylate	green
-benzoate/toluate 1,2-dioxygenase reductase component	1.18.1.-	H+	1,6-Dihydroxy-5-methylcyclohexa-2,4-dienecarboxylate	green
-benzoate/toluate 1,2-dioxygenase reductase component	1.18.1.-	H+	NAD+	green
-benzoate/toluate 1,2-dioxygenase reductase component	1.18.1.-	H+	NADP+	green
-benzoate/toluate 1,2-dioxygenase reductase component	1.18.1.-	H+	cis-1,2-Dihydroxy-4-methylcyclohexa-3,5-diene-1-carboxylate	green
-benzoate/toluate 1,2-dioxygenase reductase component	1.18.1.-	NADH	1,2-Dihydroxy-6-methylcyclohexa-3,5-dienecarboxylate	green
-benzoate/toluate 1,2-dioxygenase reductase component	1.18.1.-	NADH	1,6-Dihydroxy-5-methylcyclohexa-2,4-dienecarboxylate	green
-benzoate/toluate 1,2-dioxygenase reductase component	1.18.1.-	NADH	NAD+	green
-benzoate/toluate 1,2-dioxygenase reductase component	1.18.1.-	NADH	cis-1,2-Dihydroxy-4-methylcyclohexa-3,5-diene-1-carboxylate	green
-benzoate/toluate 1,2-dioxygenase reductase component	1.18.1.-	NADPH	NADP+	green
-benzoate/toluate 1,2-dioxygenase reductase component	1.18.1.-	NADPH	cis-1,2-Dihydroxy-4-methylcyclohexa-3,5-diene-1-carboxylate	green
-benzoate/toluate 1,2-dioxygenase reductase component	1.18.1.-	Oxygen	1,2-Dihydroxy-6-methylcyclohexa-3,5-dienecarboxylate	green
-benzoate/toluate 1,2-dioxygenase reductase component	1.18.1.-	Oxygen	1,6-Dihydroxy-5-methylcyclohexa-2,4-dienecarboxylate	green
-benzoate/toluate 1,2-dioxygenase reductase component	1.18.1.-	Oxygen	NAD+	green
-benzoate/toluate 1,2-dioxygenase reductase component	1.18.1.-	Oxygen	NADP+	green
-benzoate/toluate 1,2-dioxygenase reductase component	1.18.1.-	Oxygen	cis-1,2-Dihydroxy-4-methylcyclohexa-3,5-diene-1-carboxylate	green
-benzoate/toluate 1,2-dioxygenase reductase component	1.18.1.-	Toluate	NAD+	green
-benzoate/toluate 1,2-dioxygenase reductase component	1.18.1.-	Toluate	NADP+	green
-benzoate/toluate 1,2-dioxygenase reductase component	1.18.1.-	Toluate	cis-1,2-Dihydroxy-4-methylcyclohexa-3,5-diene-1-carboxylate	green
-benzoate/toluate 1,2-dioxygenase reductase component	1.18.1.-	m-Methylbenzoate	1,6-Dihydroxy-5-methylcyclohexa-2,4-dienecarboxylate	green
-benzoate/toluate 1,2-dioxygenase reductase component	1.18.1.-	m-Methylbenzoate	NAD+	green
-benzoate/toluate 1,2-dioxygenase reductase component	1.18.1.-	o-Toluate	1,2-Dihydroxy-6-methylcyclohexa-3,5-dienecarboxylate	green
-benzoate/toluate 1,2-dioxygenase reductase component	1.18.1.-	o-Toluate	NAD+	green
-benzoate/toluate 1,2-dioxygenase subunit alpha	1.14.12.10	H+	1,2-Dihydroxy-6-methylcyclohexa-3,5-dienecarboxylate	green
-benzoate/toluate 1,2-dioxygenase subunit alpha	1.14.12.10	H+	1,6-Dihydroxy-5-methylcyclohexa-2,4-dienecarboxylate	green
-benzoate/toluate 1,2-dioxygenase subunit alpha	1.14.12.10	H+	NAD+	green
-benzoate/toluate 1,2-dioxygenase subunit alpha	1.14.12.10	H+	NADP+	green
-benzoate/toluate 1,2-dioxygenase subunit alpha	1.14.12.10	H+	cis-1,2-Dihydroxy-4-methylcyclohexa-3,5-diene-1-carboxylate	green
-benzoate/toluate 1,2-dioxygenase subunit alpha	1.14.12.10	NADH	1,2-Dihydroxy-6-methylcyclohexa-3,5-dienecarboxylate	green
-benzoate/toluate 1,2-dioxygenase subunit alpha	1.14.12.10	NADH	1,6-Dihydroxy-5-methylcyclohexa-2,4-dienecarboxylate	green
-benzoate/toluate 1,2-dioxygenase subunit alpha	1.14.12.10	NADH	NAD+	green
-benzoate/toluate 1,2-dioxygenase subunit alpha	1.14.12.10	NADH	cis-1,2-Dihydroxy-4-methylcyclohexa-3,5-diene-1-carboxylate	green
-benzoate/toluate 1,2-dioxygenase subunit alpha	1.14.12.10	NADPH	NADP+	green
-benzoate/toluate 1,2-dioxygenase subunit alpha	1.14.12.10	NADPH	cis-1,2-Dihydroxy-4-methylcyclohexa-3,5-diene-1-carboxylate	green
-benzoate/toluate 1,2-dioxygenase subunit alpha	1.14.12.10	Oxygen	1,2-Dihydroxy-6-methylcyclohexa-3,5-dienecarboxylate	green
-benzoate/toluate 1,2-dioxygenase subunit alpha	1.14.12.10	Oxygen	1,6-Dihydroxy-5-methylcyclohexa-2,4-dienecarboxylate	green
-benzoate/toluate 1,2-dioxygenase subunit alpha	1.14.12.10	Oxygen	NAD+	green
-benzoate/toluate 1,2-dioxygenase subunit alpha	1.14.12.10	Oxygen	NADP+	green
-benzoate/toluate 1,2-dioxygenase subunit alpha	1.14.12.10	Oxygen	cis-1,2-Dihydroxy-4-methylcyclohexa-3,5-diene-1-carboxylate	green
-benzoate/toluate 1,2-dioxygenase subunit alpha	1.14.12.10	Toluate	NAD+	green
-benzoate/toluate 1,2-dioxygenase subunit alpha	1.14.12.10	Toluate	NADP+	green
-benzoate/toluate 1,2-dioxygenase subunit alpha	1.14.12.10	Toluate	cis-1,2-Dihydroxy-4-methylcyclohexa-3,5-diene-1-carboxylate	green
-benzoate/toluate 1,2-dioxygenase subunit alpha	1.14.12.10	m-Methylbenzoate	1,6-Dihydroxy-5-methylcyclohexa-2,4-dienecarboxylate	green
-benzoate/toluate 1,2-dioxygenase subunit alpha	1.14.12.10	m-Methylbenzoate	NAD+	green
-benzoate/toluate 1,2-dioxygenase subunit alpha	1.14.12.10	o-Toluate	1,2-Dihydroxy-6-methylcyclohexa-3,5-dienecarboxylate	green
-benzoate/toluate 1,2-dioxygenase subunit alpha	1.14.12.10	o-Toluate	NAD+	green
-benzoate/toluate 1,2-dioxygenase subunit beta	1.14.12.10	H+	1,2-Dihydroxy-6-methylcyclohexa-3,5-dienecarboxylate	green
-benzoate/toluate 1,2-dioxygenase subunit beta	1.14.12.10	H+	1,6-Dihydroxy-5-methylcyclohexa-2,4-dienecarboxylate	green
-benzoate/toluate 1,2-dioxygenase subunit beta	1.14.12.10	H+	NAD+	green
-benzoate/toluate 1,2-dioxygenase subunit beta	1.14.12.10	H+	NADP+	green
-benzoate/toluate 1,2-dioxygenase subunit beta	1.14.12.10	H+	cis-1,2-Dihydroxy-4-methylcyclohexa-3,5-diene-1-carboxylate	green
-benzoate/toluate 1,2-dioxygenase subunit beta	1.14.12.10	NADH	1,2-Dihydroxy-6-methylcyclohexa-3,5-dienecarboxylate	green
-benzoate/toluate 1,2-dioxygenase subunit beta	1.14.12.10	NADH	1,6-Dihydroxy-5-methylcyclohexa-2,4-dienecarboxylate	green
-benzoate/toluate 1,2-dioxygenase subunit beta	1.14.12.10	NADH	NAD+	green
-benzoate/toluate 1,2-dioxygenase subunit beta	1.14.12.10	NADH	cis-1,2-Dihydroxy-4-methylcyclohexa-3,5-diene-1-carboxylate	green
-benzoate/toluate 1,2-dioxygenase subunit beta	1.14.12.10	NADPH	NADP+	green
-benzoate/toluate 1,2-dioxygenase subunit beta	1.14.12.10	NADPH	cis-1,2-Dihydroxy-4-methylcyclohexa-3,5-diene-1-carboxylate	green
-benzoate/toluate 1,2-dioxygenase subunit beta	1.14.12.10	Oxygen	1,2-Dihydroxy-6-methylcyclohexa-3,5-dienecarboxylate	green
-benzoate/toluate 1,2-dioxygenase subunit beta	1.14.12.10	Oxygen	1,6-Dihydroxy-5-methylcyclohexa-2,4-dienecarboxylate	green
-benzoate/toluate 1,2-dioxygenase subunit beta	1.14.12.10	Oxygen	NAD+	green
-benzoate/toluate 1,2-dioxygenase subunit beta	1.14.12.10	Oxygen	NADP+	green
-benzoate/toluate 1,2-dioxygenase subunit beta	1.14.12.10	Oxygen	cis-1,2-Dihydroxy-4-methylcyclohexa-3,5-diene-1-carboxylate	green
-benzoate/toluate 1,2-dioxygenase subunit beta	1.14.12.10	Toluate	NAD+	green
-benzoate/toluate 1,2-dioxygenase subunit beta	1.14.12.10	Toluate	NADP+	green
-benzoate/toluate 1,2-dioxygenase subunit beta	1.14.12.10	Toluate	cis-1,2-Dihydroxy-4-methylcyclohexa-3,5-diene-1-carboxylate	green
-benzoate/toluate 1,2-dioxygenase subunit beta	1.14.12.10	m-Methylbenzoate	1,6-Dihydroxy-5-methylcyclohexa-2,4-dienecarboxylate	green
-benzoate/toluate 1,2-dioxygenase subunit beta	1.14.12.10	m-Methylbenzoate	NAD+	green
-benzoate/toluate 1,2-dioxygenase subunit beta	1.14.12.10	o-Toluate	1,2-Dihydroxy-6-methylcyclohexa-3,5-dienecarboxylate	green
-benzoate/toluate 1,2-dioxygenase subunit beta	1.14.12.10	o-Toluate	NAD+	green
-catechol 2,3-dioxygenase	1.13.11.2	2-Hydroxymuconate semialdehyde	Catechol	white
-catechol 2,3-dioxygenase	1.13.11.2	2-Hydroxymuconate semialdehyde	Oxygen	white
-catechol 2,3-dioxygenase	1.13.11.2	Catechol	2-Hydroxymuconate semialdehyde	white
-catechol 2,3-dioxygenase	1.13.11.2	Oxygen	2-Hydroxymuconate semialdehyde	white
-dihydroxycyclohexadiene carboxylate dehydrogenase	1.3.1.25	1,2-Dihydroxy-6-methylcyclohexa-3,5-dienecarboxylate	2,3-Dihydroxytoluene	green
-dihydroxycyclohexadiene carboxylate dehydrogenase	1.3.1.25	1,2-Dihydroxy-6-methylcyclohexa-3,5-dienecarboxylate	CO2	green
-dihydroxycyclohexadiene carboxylate dehydrogenase	1.3.1.25	1,2-Dihydroxy-6-methylcyclohexa-3,5-dienecarboxylate	H+	green
-dihydroxycyclohexadiene carboxylate dehydrogenase	1.3.1.25	1,2-Dihydroxy-6-methylcyclohexa-3,5-dienecarboxylate	NADH	green
-dihydroxycyclohexadiene carboxylate dehydrogenase	1.3.1.25	1,6-Dihydroxy-5-methylcyclohexa-2,4-dienecarboxylate	2,3-Dihydroxytoluene	green
-dihydroxycyclohexadiene carboxylate dehydrogenase	1.3.1.25	1,6-Dihydroxy-5-methylcyclohexa-2,4-dienecarboxylate	CO2	green
-dihydroxycyclohexadiene carboxylate dehydrogenase	1.3.1.25	1,6-Dihydroxy-5-methylcyclohexa-2,4-dienecarboxylate	H+	green
-dihydroxycyclohexadiene carboxylate dehydrogenase	1.3.1.25	1,6-Dihydroxy-5-methylcyclohexa-2,4-dienecarboxylate	NADH	green
-dihydroxycyclohexadiene carboxylate dehydrogenase	1.3.1.25	NAD+	2,3-Dihydroxytoluene	green
-dihydroxycyclohexadiene carboxylate dehydrogenase	1.3.1.25	NAD+	4-Methylcatechol	green
-dihydroxycyclohexadiene carboxylate dehydrogenase	1.3.1.25	NAD+	CO2	green
-dihydroxycyclohexadiene carboxylate dehydrogenase	1.3.1.25	NAD+	H+	green
-dihydroxycyclohexadiene carboxylate dehydrogenase	1.3.1.25	NAD+	NADH	green
-dihydroxycyclohexadiene carboxylate dehydrogenase	1.3.1.25	NADP+	4-Methylcatechol	green
-dihydroxycyclohexadiene carboxylate dehydrogenase	1.3.1.25	NADP+	CO2	green
-dihydroxycyclohexadiene carboxylate dehydrogenase	1.3.1.25	NADP+	H+	green
-dihydroxycyclohexadiene carboxylate dehydrogenase	1.3.1.25	NADP+	NADPH	green
-dihydroxycyclohexadiene carboxylate dehydrogenase	1.3.1.25	cis-1,2-Dihydroxy-4-methylcyclohexa-3,5-diene-1-carboxylate	4-Methylcatechol	green
-dihydroxycyclohexadiene carboxylate dehydrogenase	1.3.1.25	cis-1,2-Dihydroxy-4-methylcyclohexa-3,5-diene-1-carboxylate	CO2	green
-dihydroxycyclohexadiene carboxylate dehydrogenase	1.3.1.25	cis-1,2-Dihydroxy-4-methylcyclohexa-3,5-diene-1-carboxylate	H+	green
-dihydroxycyclohexadiene carboxylate dehydrogenase	1.3.1.25	cis-1,2-Dihydroxy-4-methylcyclohexa-3,5-diene-1-carboxylate	NADH	green
-dihydroxycyclohexadiene carboxylate dehydrogenase	1.3.1.25	cis-1,2-Dihydroxy-4-methylcyclohexa-3,5-diene-1-carboxylate	NADPH	green
-p-cumate 2,3-dioxygenase ferredoxin component	1.14.12.25	H+	NAD+	white
-p-cumate 2,3-dioxygenase ferredoxin component	1.14.12.25	H+	cis-2,3-Dihydroxy-2,3-dihydro-p-cumate	white
-p-cumate 2,3-dioxygenase ferredoxin component	1.14.12.25	NAD+	H+	white
-p-cumate 2,3-dioxygenase ferredoxin component	1.14.12.25	NAD+	NADH	white
-p-cumate 2,3-dioxygenase ferredoxin component	1.14.12.25	NAD+	Oxygen	white
-p-cumate 2,3-dioxygenase ferredoxin component	1.14.12.25	NAD+	p-Cumate	white
-p-cumate 2,3-dioxygenase ferredoxin component	1.14.12.25	NADH	NAD+	white
-p-cumate 2,3-dioxygenase ferredoxin component	1.14.12.25	NADH	cis-2,3-Dihydroxy-2,3-dihydro-p-cumate	white
-p-cumate 2,3-dioxygenase ferredoxin component	1.14.12.25	Oxygen	NAD+	white
-p-cumate 2,3-dioxygenase ferredoxin component	1.14.12.25	Oxygen	cis-2,3-Dihydroxy-2,3-dihydro-p-cumate	white
-p-cumate 2,3-dioxygenase ferredoxin component	1.14.12.25	cis-2,3-Dihydroxy-2,3-dihydro-p-cumate	H+	white
-p-cumate 2,3-dioxygenase ferredoxin component	1.14.12.25	cis-2,3-Dihydroxy-2,3-dihydro-p-cumate	NADH	white
-p-cumate 2,3-dioxygenase ferredoxin component	1.14.12.25	cis-2,3-Dihydroxy-2,3-dihydro-p-cumate	Oxygen	white
-p-cumate 2,3-dioxygenase ferredoxin component	1.14.12.25	cis-2,3-Dihydroxy-2,3-dihydro-p-cumate	p-Cumate	white
-p-cumate 2,3-dioxygenase ferredoxin component	1.14.12.25	p-Cumate	NAD+	white
-p-cumate 2,3-dioxygenase ferredoxin component	1.14.12.25	p-Cumate	cis-2,3-Dihydroxy-2,3-dihydro-p-cumate	white
-p-cumate 2,3-dioxygenase ferredoxin reductase component	1.18.1.3	H+	NAD+	white
-p-cumate 2,3-dioxygenase ferredoxin reductase component	1.18.1.3	H+	cis-2,3-Dihydroxy-2,3-dihydro-p-cumate	white
-p-cumate 2,3-dioxygenase ferredoxin reductase component	1.18.1.3	NAD+	H+	white
-p-cumate 2,3-dioxygenase ferredoxin reductase component	1.18.1.3	NAD+	NADH	white
-p-cumate 2,3-dioxygenase ferredoxin reductase component	1.18.1.3	NAD+	Oxygen	white
-p-cumate 2,3-dioxygenase ferredoxin reductase component	1.18.1.3	NAD+	p-Cumate	white
-p-cumate 2,3-dioxygenase ferredoxin reductase component	1.18.1.3	NADH	NAD+	white
-p-cumate 2,3-dioxygenase ferredoxin reductase component	1.18.1.3	NADH	cis-2,3-Dihydroxy-2,3-dihydro-p-cumate	white
-p-cumate 2,3-dioxygenase ferredoxin reductase component	1.18.1.3	Oxygen	NAD+	white
-p-cumate 2,3-dioxygenase ferredoxin reductase component	1.18.1.3	Oxygen	cis-2,3-Dihydroxy-2,3-dihydro-p-cumate	white
-p-cumate 2,3-dioxygenase ferredoxin reductase component	1.18.1.3	cis-2,3-Dihydroxy-2,3-dihydro-p-cumate	H+	white
-p-cumate 2,3-dioxygenase ferredoxin reductase component	1.18.1.3	cis-2,3-Dihydroxy-2,3-dihydro-p-cumate	NADH	white
-p-cumate 2,3-dioxygenase ferredoxin reductase component	1.18.1.3	cis-2,3-Dihydroxy-2,3-dihydro-p-cumate	Oxygen	white
-p-cumate 2,3-dioxygenase ferredoxin reductase component	1.18.1.3	cis-2,3-Dihydroxy-2,3-dihydro-p-cumate	p-Cumate	white
-p-cumate 2,3-dioxygenase ferredoxin reductase component	1.18.1.3	p-Cumate	NAD+	white
-p-cumate 2,3-dioxygenase ferredoxin reductase component	1.18.1.3	p-Cumate	cis-2,3-Dihydroxy-2,3-dihydro-p-cumate	white
-p-cumate 2,3-dioxygenase subunit alpha	1.14.12.25	H+	NAD+	white
-p-cumate 2,3-dioxygenase subunit alpha	1.14.12.25	H+	cis-2,3-Dihydroxy-2,3-dihydro-p-cumate	white
-p-cumate 2,3-dioxygenase subunit alpha	1.14.12.25	NAD+	H+	white
-p-cumate 2,3-dioxygenase subunit alpha	1.14.12.25	NAD+	NADH	white
-p-cumate 2,3-dioxygenase subunit alpha	1.14.12.25	NAD+	Oxygen	white
-p-cumate 2,3-dioxygenase subunit alpha	1.14.12.25	NAD+	p-Cumate	white
-p-cumate 2,3-dioxygenase subunit alpha	1.14.12.25	NADH	NAD+	white
-p-cumate 2,3-dioxygenase subunit alpha	1.14.12.25	NADH	cis-2,3-Dihydroxy-2,3-dihydro-p-cumate	white
-p-cumate 2,3-dioxygenase subunit alpha	1.14.12.25	Oxygen	NAD+	white
-p-cumate 2,3-dioxygenase subunit alpha	1.14.12.25	Oxygen	cis-2,3-Dihydroxy-2,3-dihydro-p-cumate	white
-p-cumate 2,3-dioxygenase subunit alpha	1.14.12.25	cis-2,3-Dihydroxy-2,3-dihydro-p-cumate	H+	white
-p-cumate 2,3-dioxygenase subunit alpha	1.14.12.25	cis-2,3-Dihydroxy-2,3-dihydro-p-cumate	NADH	white
-p-cumate 2,3-dioxygenase subunit alpha	1.14.12.25	cis-2,3-Dihydroxy-2,3-dihydro-p-cumate	Oxygen	white
-p-cumate 2,3-dioxygenase subunit alpha	1.14.12.25	cis-2,3-Dihydroxy-2,3-dihydro-p-cumate	p-Cumate	white
-p-cumate 2,3-dioxygenase subunit alpha	1.14.12.25	p-Cumate	NAD+	white
-p-cumate 2,3-dioxygenase subunit alpha	1.14.12.25	p-Cumate	cis-2,3-Dihydroxy-2,3-dihydro-p-cumate	white
-p-cumate 2,3-dioxygenase subunit beta	1.14.12.25	H+	NAD+	white
-p-cumate 2,3-dioxygenase subunit beta	1.14.12.25	H+	cis-2,3-Dihydroxy-2,3-dihydro-p-cumate	white
-p-cumate 2,3-dioxygenase subunit beta	1.14.12.25	NAD+	H+	white
-p-cumate 2,3-dioxygenase subunit beta	1.14.12.25	NAD+	NADH	white
-p-cumate 2,3-dioxygenase subunit beta	1.14.12.25	NAD+	Oxygen	white
-p-cumate 2,3-dioxygenase subunit beta	1.14.12.25	NAD+	p-Cumate	white
-p-cumate 2,3-dioxygenase subunit beta	1.14.12.25	NADH	NAD+	white
-p-cumate 2,3-dioxygenase subunit beta	1.14.12.25	NADH	cis-2,3-Dihydroxy-2,3-dihydro-p-cumate	white
-p-cumate 2,3-dioxygenase subunit beta	1.14.12.25	Oxygen	NAD+	white
-p-cumate 2,3-dioxygenase subunit beta	1.14.12.25	Oxygen	cis-2,3-Dihydroxy-2,3-dihydro-p-cumate	white
-p-cumate 2,3-dioxygenase subunit beta	1.14.12.25	cis-2,3-Dihydroxy-2,3-dihydro-p-cumate	H+	white
-p-cumate 2,3-dioxygenase subunit beta	1.14.12.25	cis-2,3-Dihydroxy-2,3-dihydro-p-cumate	NADH	white
-p-cumate 2,3-dioxygenase subunit beta	1.14.12.25	cis-2,3-Dihydroxy-2,3-dihydro-p-cumate	Oxygen	white
-p-cumate 2,3-dioxygenase subunit beta	1.14.12.25	cis-2,3-Dihydroxy-2,3-dihydro-p-cumate	p-Cumate	white
-p-cumate 2,3-dioxygenase subunit beta	1.14.12.25	p-Cumate	NAD+	white
-p-cumate 2,3-dioxygenase subunit beta	1.14.12.25	p-Cumate	cis-2,3-Dihydroxy-2,3-dihydro-p-cumate	white
-p-cumic alcohol dehydrogenase	1.3.1.58	4-Isopropylbenzaldehyde	NAD+	white
-p-cumic alcohol dehydrogenase	1.3.1.58	4-Isopropylbenzaldehyde	p-Cumic alcohol	white
-p-cumic alcohol dehydrogenase	1.3.1.58	H+	NAD+	white
-p-cumic alcohol dehydrogenase	1.3.1.58	H+	p-Cumic alcohol	white
-p-cumic alcohol dehydrogenase	1.3.1.58	NAD+	4-Isopropylbenzaldehyde	white
-p-cumic alcohol dehydrogenase	1.3.1.58	NAD+	H+	white
-p-cumic alcohol dehydrogenase	1.3.1.58	NAD+	NADH	white
-p-cumic alcohol dehydrogenase	1.3.1.58	NADH	NAD+	white
-p-cumic alcohol dehydrogenase	1.3.1.58	NADH	p-Cumic alcohol	white
-p-cumic alcohol dehydrogenase	1.3.1.58	p-Cumic alcohol	4-Isopropylbenzaldehyde	white
-p-cumic alcohol dehydrogenase	1.3.1.58	p-Cumic alcohol	H+	white
-p-cumic alcohol dehydrogenase	1.3.1.58	p-Cumic alcohol	NADH	white
-p-cumic aldehyde dehydrogenase	1.18.1.3	4-Isopropylbenzaldehyde	H+	white
-p-cumic aldehyde dehydrogenase	1.18.1.3	4-Isopropylbenzaldehyde	NADH	white
-p-cumic aldehyde dehydrogenase	1.18.1.3	4-Isopropylbenzaldehyde	p-Cumate	white
-p-cumic aldehyde dehydrogenase	1.18.1.3	H+	4-Isopropylbenzaldehyde	white
-p-cumic aldehyde dehydrogenase	1.18.1.3	H+	H2O	white
-p-cumic aldehyde dehydrogenase	1.18.1.3	H+	NAD+	white
-p-cumic aldehyde dehydrogenase	1.18.1.3	H2O	H+	white
-p-cumic aldehyde dehydrogenase	1.18.1.3	H2O	NADH	white
-p-cumic aldehyde dehydrogenase	1.18.1.3	H2O	p-Cumate	white
-p-cumic aldehyde dehydrogenase	1.18.1.3	NAD+	H+	white
-p-cumic aldehyde dehydrogenase	1.18.1.3	NAD+	NADH	white
-p-cumic aldehyde dehydrogenase	1.18.1.3	NAD+	p-Cumate	white
-p-cumic aldehyde dehydrogenase	1.18.1.3	NADH	4-Isopropylbenzaldehyde	white
-p-cumic aldehyde dehydrogenase	1.18.1.3	NADH	H2O	white
-p-cumic aldehyde dehydrogenase	1.18.1.3	NADH	NAD+	white
-p-cumic aldehyde dehydrogenase	1.18.1.3	p-Cumate	4-Isopropylbenzaldehyde	white
-p-cumic aldehyde dehydrogenase	1.18.1.3	p-Cumate	H2O	white
-p-cumic aldehyde dehydrogenase	1.18.1.3	p-Cumate	NAD+	white
-p-cymene methyl-monooxygenase	1.14.15.25	H+	H2O	white
-p-cymene methyl-monooxygenase	1.14.15.25	H+	Oxidized ferredoxin	white
-p-cymene methyl-monooxygenase	1.14.15.25	H+	p-Cumic alcohol	white
-p-cymene methyl-monooxygenase	1.14.15.25	H2O	H+	white
-p-cymene methyl-monooxygenase	1.14.15.25	H2O	Oxygen	white
-p-cymene methyl-monooxygenase	1.14.15.25	H2O	Reduced ferredoxin	white
-p-cymene methyl-monooxygenase	1.14.15.25	H2O	p-Cymene	white
-p-cymene methyl-monooxygenase	1.14.15.25	Oxidized ferredoxin	H+	white
-p-cymene methyl-monooxygenase	1.14.15.25	Oxidized ferredoxin	Oxygen	white
-p-cymene methyl-monooxygenase	1.14.15.25	Oxidized ferredoxin	Reduced ferredoxin	white
-p-cymene methyl-monooxygenase	1.14.15.25	Oxidized ferredoxin	p-Cymene	white
-p-cymene methyl-monooxygenase	1.14.15.25	Oxygen	H2O	white
-p-cymene methyl-monooxygenase	1.14.15.25	Oxygen	Oxidized ferredoxin	white
-p-cymene methyl-monooxygenase	1.14.15.25	Oxygen	p-Cumic alcohol	white
-p-cymene methyl-monooxygenase	1.14.15.25	Reduced ferredoxin	H2O	white
-p-cymene methyl-monooxygenase	1.14.15.25	Reduced ferredoxin	Oxidized ferredoxin	white
-p-cymene methyl-monooxygenase	1.14.15.25	Reduced ferredoxin	p-Cumic alcohol	white
-p-cymene methyl-monooxygenase	1.14.15.25	p-Cumic alcohol	H+	white
-p-cymene methyl-monooxygenase	1.14.15.25	p-Cumic alcohol	Oxygen	white
-p-cymene methyl-monooxygenase	1.14.15.25	p-Cumic alcohol	Reduced ferredoxin	white
-p-cymene methyl-monooxygenase	1.14.15.25	p-Cumic alcohol	p-Cymene	white
-p-cymene methyl-monooxygenase	1.14.15.25	p-Cymene	H2O	white
-p-cymene methyl-monooxygenase	1.14.15.25	p-Cymene	Oxidized ferredoxin	white
-p-cymene methyl-monooxygenase	1.14.15.25	p-Cymene	p-Cumic alcohol	white
-p-cymene methyl-monooxygenase electron transfer component	1.18.1.3	H+	H2O	white
-p-cymene methyl-monooxygenase electron transfer component	1.18.1.3	H+	Oxidized ferredoxin	white
-p-cymene methyl-monooxygenase electron transfer component	1.18.1.3	H+	p-Cumic alcohol	white
-p-cymene methyl-monooxygenase electron transfer component	1.18.1.3	H2O	H+	white
-p-cymene methyl-monooxygenase electron transfer component	1.18.1.3	H2O	Oxygen	white
-p-cymene methyl-monooxygenase electron transfer component	1.18.1.3	H2O	Reduced ferredoxin	white
-p-cymene methyl-monooxygenase electron transfer component	1.18.1.3	H2O	p-Cymene	white
-p-cymene methyl-monooxygenase electron transfer component	1.18.1.3	Oxidized ferredoxin	H+	white
-p-cymene methyl-monooxygenase electron transfer component	1.18.1.3	Oxidized ferredoxin	Oxygen	white
-p-cymene methyl-monooxygenase electron transfer component	1.18.1.3	Oxidized ferredoxin	Reduced ferredoxin	white
-p-cymene methyl-monooxygenase electron transfer component	1.18.1.3	Oxidized ferredoxin	p-Cymene	white
-p-cymene methyl-monooxygenase electron transfer component	1.18.1.3	Oxygen	H2O	white
-p-cymene methyl-monooxygenase electron transfer component	1.18.1.3	Oxygen	Oxidized ferredoxin	white
-p-cymene methyl-monooxygenase electron transfer component	1.18.1.3	Oxygen	p-Cumic alcohol	white
-p-cymene methyl-monooxygenase electron transfer component	1.18.1.3	Reduced ferredoxin	H2O	white
-p-cymene methyl-monooxygenase electron transfer component	1.18.1.3	Reduced ferredoxin	Oxidized ferredoxin	white
-p-cymene methyl-monooxygenase electron transfer component	1.18.1.3	Reduced ferredoxin	p-Cumic alcohol	white
-p-cymene methyl-monooxygenase electron transfer component	1.18.1.3	p-Cumic alcohol	H+	white
-p-cymene methyl-monooxygenase electron transfer component	1.18.1.3	p-Cumic alcohol	Oxygen	white
-p-cymene methyl-monooxygenase electron transfer component	1.18.1.3	p-Cumic alcohol	Reduced ferredoxin	white
-p-cymene methyl-monooxygenase electron transfer component	1.18.1.3	p-Cumic alcohol	p-Cymene	white
-p-cymene methyl-monooxygenase electron transfer component	1.18.1.3	p-Cymene	H2O	white
-p-cymene methyl-monooxygenase electron transfer component	1.18.1.3	p-Cymene	Oxidized ferredoxin	white
-p-cymene methyl-monooxygenase electron transfer component	1.18.1.3	p-Cymene	p-Cumic alcohol	white
-toluene methyl-monooxygenase	1.14.15.26	Benzyl alcohol	H+	white
-toluene methyl-monooxygenase	1.14.15.26	Benzyl alcohol	Oxygen	white
-toluene methyl-monooxygenase	1.14.15.26	Benzyl alcohol	Reduced ferredoxin	white
-toluene methyl-monooxygenase	1.14.15.26	Benzyl alcohol	Toluene	white
-toluene methyl-monooxygenase	1.14.15.26	H+	Benzyl alcohol	white
-toluene methyl-monooxygenase	1.14.15.26	H+	H2O	white
-toluene methyl-monooxygenase	1.14.15.26	H+	Oxidized ferredoxin	white
-toluene methyl-monooxygenase	1.14.15.26	H2O	H+	white
-toluene methyl-monooxygenase	1.14.15.26	H2O	Oxygen	white
-toluene methyl-monooxygenase	1.14.15.26	H2O	Reduced ferredoxin	white
-toluene methyl-monooxygenase	1.14.15.26	H2O	Toluene	white
-toluene methyl-monooxygenase	1.14.15.26	Oxidized ferredoxin	H+	white
-toluene methyl-monooxygenase	1.14.15.26	Oxidized ferredoxin	Oxygen	white
-toluene methyl-monooxygenase	1.14.15.26	Oxidized ferredoxin	Reduced ferredoxin	white
-toluene methyl-monooxygenase	1.14.15.26	Oxidized ferredoxin	Toluene	white
-toluene methyl-monooxygenase	1.14.15.26	Oxygen	Benzyl alcohol	white
-toluene methyl-monooxygenase	1.14.15.26	Oxygen	H2O	white
-toluene methyl-monooxygenase	1.14.15.26	Oxygen	Oxidized ferredoxin	white
-toluene methyl-monooxygenase	1.14.15.26	Reduced ferredoxin	Benzyl alcohol	white
-toluene methyl-monooxygenase	1.14.15.26	Reduced ferredoxin	H2O	white
-toluene methyl-monooxygenase	1.14.15.26	Reduced ferredoxin	Oxidized ferredoxin	white
-toluene methyl-monooxygenase	1.14.15.26	Toluene	Benzyl alcohol	white
-toluene methyl-monooxygenase	1.14.15.26	Toluene	H2O	white
-toluene methyl-monooxygenase	1.14.15.26	Toluene	Oxidized ferredoxin	white
-toluene methyl-monooxygenase electron transfer component	1.18.1.3	Benzyl alcohol	H+	white
-toluene methyl-monooxygenase electron transfer component	1.18.1.3	Benzyl alcohol	Oxygen	white
-toluene methyl-monooxygenase electron transfer component	1.18.1.3	Benzyl alcohol	Reduced ferredoxin	white
-toluene methyl-monooxygenase electron transfer component	1.18.1.3	Benzyl alcohol	Toluene	white
-toluene methyl-monooxygenase electron transfer component	1.18.1.3	H+	Benzyl alcohol	white
-toluene methyl-monooxygenase electron transfer component	1.18.1.3	H+	H2O	white
-toluene methyl-monooxygenase electron transfer component	1.18.1.3	H+	Oxidized ferredoxin	white
-toluene methyl-monooxygenase electron transfer component	1.18.1.3	H2O	H+	white
-toluene methyl-monooxygenase electron transfer component	1.18.1.3	H2O	Oxygen	white
-toluene methyl-monooxygenase electron transfer component	1.18.1.3	H2O	Reduced ferredoxin	white
-toluene methyl-monooxygenase electron transfer component	1.18.1.3	H2O	Toluene	white
-toluene methyl-monooxygenase electron transfer component	1.18.1.3	Oxidized ferredoxin	H+	white
-toluene methyl-monooxygenase electron transfer component	1.18.1.3	Oxidized ferredoxin	Oxygen	white
-toluene methyl-monooxygenase electron transfer component	1.18.1.3	Oxidized ferredoxin	Reduced ferredoxin	white
-toluene methyl-monooxygenase electron transfer component	1.18.1.3	Oxidized ferredoxin	Toluene	white
-toluene methyl-monooxygenase electron transfer component	1.18.1.3	Oxygen	Benzyl alcohol	white
-toluene methyl-monooxygenase electron transfer component	1.18.1.3	Oxygen	H2O	white
-toluene methyl-monooxygenase electron transfer component	1.18.1.3	Oxygen	Oxidized ferredoxin	white
-toluene methyl-monooxygenase electron transfer component	1.18.1.3	Reduced ferredoxin	Benzyl alcohol	white
-toluene methyl-monooxygenase electron transfer component	1.18.1.3	Reduced ferredoxin	H2O	white
-toluene methyl-monooxygenase electron transfer component	1.18.1.3	Reduced ferredoxin	Oxidized ferredoxin	white
-toluene methyl-monooxygenase electron transfer component	1.18.1.3	Toluene	Benzyl alcohol	white
-toluene methyl-monooxygenase electron transfer component	1.18.1.3	Toluene	H2O	white
-toluene methyl-monooxygenase electron transfer component	1.18.1.3	Toluene	Oxidized ferredoxin	white
+enzyme_name	EC	source	target	reaction	color
+2,3-dihydroxy-2,3-dihydro-p-cumate dehydrogenase	1.3.1.58	2,3-Dihydroxy-p-cumate	NAD+	R05240	white
+2,3-dihydroxy-2,3-dihydro-p-cumate dehydrogenase	1.3.1.58	2,3-Dihydroxy-p-cumate	cis-2,3-Dihydroxy-2,3-dihydro-p-cumate	R05240	white
+2,3-dihydroxy-2,3-dihydro-p-cumate dehydrogenase	1.3.1.58	H+	NAD+	R05240	white
+2,3-dihydroxy-2,3-dihydro-p-cumate dehydrogenase	1.3.1.58	H+	cis-2,3-Dihydroxy-2,3-dihydro-p-cumate	R05240	white
+2,3-dihydroxy-2,3-dihydro-p-cumate dehydrogenase	1.3.1.58	NAD+	2,3-Dihydroxy-p-cumate	R05240	white
+2,3-dihydroxy-2,3-dihydro-p-cumate dehydrogenase	1.3.1.58	NAD+	H+	R05240	white
+2,3-dihydroxy-2,3-dihydro-p-cumate dehydrogenase	1.3.1.58	NAD+	NADH	R05240	white
+2,3-dihydroxy-2,3-dihydro-p-cumate dehydrogenase	1.3.1.58	NADH	NAD+	R05240	white
+2,3-dihydroxy-2,3-dihydro-p-cumate dehydrogenase	1.3.1.58	NADH	cis-2,3-Dihydroxy-2,3-dihydro-p-cumate	R05240	white
+2,3-dihydroxy-2,3-dihydro-p-cumate dehydrogenase	1.3.1.58	cis-2,3-Dihydroxy-2,3-dihydro-p-cumate	2,3-Dihydroxy-p-cumate	R05240	white
+2,3-dihydroxy-2,3-dihydro-p-cumate dehydrogenase	1.3.1.58	cis-2,3-Dihydroxy-2,3-dihydro-p-cumate	H+	R05240	white
+2,3-dihydroxy-2,3-dihydro-p-cumate dehydrogenase	1.3.1.58	cis-2,3-Dihydroxy-2,3-dihydro-p-cumate	NADH	R05240	white
+2,3-dihydroxy-p-cumate/2,3-dihydroxybenzoate 3,4-dioxygenase	1.13.11.-	2,3-Dihydroxybenzoate	3-Carboxy-2-hydroxymuconate semialdehyde	R01507	white
+2,3-dihydroxy-p-cumate/2,3-dihydroxybenzoate 3,4-dioxygenase	1.13.11.-	3-Carboxy-2-hydroxymuconate semialdehyde	2,3-Dihydroxybenzoate	R01507	white
+2,3-dihydroxy-p-cumate/2,3-dihydroxybenzoate 3,4-dioxygenase	1.13.11.-	3-Carboxy-2-hydroxymuconate semialdehyde	Oxygen	R01507	white
+2,3-dihydroxy-p-cumate/2,3-dihydroxybenzoate 3,4-dioxygenase	1.13.11.-	Oxygen	3-Carboxy-2-hydroxymuconate semialdehyde	R01507	white
+2-hydroxy-6-oxohepta-2,4-dienoate hydrolase	3.7.1.25	2-Hydroxy-2,4-pentadienoate	2-Hydroxy-6-keto-2,4-heptadienoate	R05138	white
+2-hydroxy-6-oxohepta-2,4-dienoate hydrolase	3.7.1.25	2-Hydroxy-2,4-pentadienoate	H2O	R05138	white
+2-hydroxy-6-oxohepta-2,4-dienoate hydrolase	3.7.1.25	2-Hydroxy-6-keto-2,4-heptadienoate	2-Hydroxy-2,4-pentadienoate	R05138	white
+2-hydroxy-6-oxohepta-2,4-dienoate hydrolase	3.7.1.25	2-Hydroxy-6-keto-2,4-heptadienoate	Acetate	R05138	white
+2-hydroxy-6-oxohepta-2,4-dienoate hydrolase	3.7.1.25	Acetate	2-Hydroxy-6-keto-2,4-heptadienoate	R05138	white
+2-hydroxy-6-oxohepta-2,4-dienoate hydrolase	3.7.1.25	Acetate	H2O	R05138	white
+2-hydroxy-6-oxohepta-2,4-dienoate hydrolase	3.7.1.25	H2O	2-Hydroxy-2,4-pentadienoate	R05138	white
+2-hydroxy-6-oxohepta-2,4-dienoate hydrolase	3.7.1.25	H2O	Acetate	R05138	white
+2-hydroxymuconate-semialdehyde hydrolase	3.7.1.9	2-Hydroxy-5-methyl-cis,cis-muconic semialdehyde	2-Hydroxy-cis-hex-2,4-dienoate	R05865	green
+2-hydroxymuconate-semialdehyde hydrolase	3.7.1.9	2-Hydroxy-5-methyl-cis,cis-muconic semialdehyde	Formate	R05865	green
+2-hydroxymuconate-semialdehyde hydrolase	3.7.1.9	H2O	2-Hydroxy-cis-hex-2,4-dienoate	R05865	green
+2-hydroxymuconate-semialdehyde hydrolase	3.7.1.9	H2O	Formate	R05865	green
+2-keto-4-pentenoate hydratase	4.2.1.80	2-Hydroxy-2,4-pentadienoate	4-Hydroxy-2-oxopentanoate	R02601	green
+2-keto-4-pentenoate hydratase	4.2.1.80	H2O	4-Hydroxy-2-oxopentanoate	R02601	green
+2-oxo-3-hexenedioate decarboxylase	4.1.1.77	2-Hydroxy-2,4-pentadienoate	gamma-Oxalocrotonate	R02602	white
+2-oxo-3-hexenedioate decarboxylase	4.1.1.77	CO2	gamma-Oxalocrotonate	R02602	white
+2-oxo-3-hexenedioate decarboxylase	4.1.1.77	gamma-Oxalocrotonate	2-Hydroxy-2,4-pentadienoate	R02602	white
+2-oxo-3-hexenedioate decarboxylase	4.1.1.77	gamma-Oxalocrotonate	CO2	R02602	white
+2-oxopent-4-enoate/cis-2-oxohex-4-enoate hydratase	4.2.1.80	2-Hydroxy-2,4-pentadienoate	4-Hydroxy-2-oxopentanoate	R02601	white
+2-oxopent-4-enoate/cis-2-oxohex-4-enoate hydratase	4.2.1.80	4-Hydroxy-2-oxopentanoate	2-Hydroxy-2,4-pentadienoate	R02601	white
+2-oxopent-4-enoate/cis-2-oxohex-4-enoate hydratase	4.2.1.80	4-Hydroxy-2-oxopentanoate	H2O	R02601	white
+2-oxopent-4-enoate/cis-2-oxohex-4-enoate hydratase	4.2.1.80	H2O	4-Hydroxy-2-oxopentanoate	R02601	white
+3-methylcatechol 2,3-dioxygenase	1.13.11.-	2,3-Dihydroxytoluene	2-Hydroxy-6-keto-2,4-heptadienoate	R04089	white
+3-methylcatechol 2,3-dioxygenase	1.13.11.-	2-Hydroxy-6-keto-2,4-heptadienoate	2,3-Dihydroxytoluene	R04089	white
+3-methylcatechol 2,3-dioxygenase	1.13.11.-	2-Hydroxy-6-keto-2,4-heptadienoate	Oxygen	R04089	white
+3-methylcatechol 2,3-dioxygenase	1.13.11.-	Oxygen	2-Hydroxy-6-keto-2,4-heptadienoate	R04089	white
+4-hydroxy 2-oxovalerate aldolase	4.1.3.39	Acetaldehyde	4-Hydroxy-2-oxopentanoate	R00750	green
+4-hydroxy 2-oxovalerate aldolase	4.1.3.39	Pyruvate	4-Hydroxy-2-oxopentanoate	R00750	green
+4-hydroxy-2-oxovalerate/4-hydroxy-2-oxohexanoate aldolase	4.1.3.39	4-Hydroxy-2-oxopentanoate	Acetaldehyde	R00750	white
+4-hydroxy-2-oxovalerate/4-hydroxy-2-oxohexanoate aldolase	4.1.3.39	4-Hydroxy-2-oxopentanoate	Pyruvate	R00750	white
+4-hydroxy-2-oxovalerate/4-hydroxy-2-oxohexanoate aldolase	4.1.3.39	Acetaldehyde	4-Hydroxy-2-oxopentanoate	R00750	white
+4-hydroxy-2-oxovalerate/4-hydroxy-2-oxohexanoate aldolase	4.1.3.39	Pyruvate	4-Hydroxy-2-oxopentanoate	R00750	white
+4-oxalocrotonate tautomerase	5.3.2.6	2-Hydroxy-5-methyl-cis,cis-muconate	2-Oxo-5-methyl-cis-muconate	R05389	green
+HCOMODA/2-hydroxy-3-carboxy-muconic semialdehyde decarboxylase	4.1.1.-	2-Hydroxymuconate semialdehyde	3-Carboxy-2-hydroxymuconate semialdehyde	R02763	white
+HCOMODA/2-hydroxy-3-carboxy-muconic semialdehyde decarboxylase	4.1.1.-	3-Carboxy-2-hydroxymuconate semialdehyde	2-Hydroxymuconate semialdehyde	R02763	white
+HCOMODA/2-hydroxy-3-carboxy-muconic semialdehyde decarboxylase	4.1.1.-	3-Carboxy-2-hydroxymuconate semialdehyde	CO2	R02763	white
+HCOMODA/2-hydroxy-3-carboxy-muconic semialdehyde decarboxylase	4.1.1.-	CO2	3-Carboxy-2-hydroxymuconate semialdehyde	R02763	white
+HOMODA hydrolase	3.7.1.-	2-Hydroxy-2,4-pentadienoate	2-Hydroxy-6-oxo-7-methylocta-2,4-dienoate	R05364	white
+HOMODA hydrolase	3.7.1.-	2-Hydroxy-2,4-pentadienoate	H2O	R05364	white
+HOMODA hydrolase	3.7.1.-	2-Hydroxy-6-oxo-7-methylocta-2,4-dienoate	2-Hydroxy-2,4-pentadienoate	R05364	white
+HOMODA hydrolase	3.7.1.-	2-Hydroxy-6-oxo-7-methylocta-2,4-dienoate	2-Methylpropanoate	R05364	white
+HOMODA hydrolase	3.7.1.-	2-Methylpropanoate	2-Hydroxy-6-oxo-7-methylocta-2,4-dienoate	R05364	white
+HOMODA hydrolase	3.7.1.-	2-Methylpropanoate	H2O	R05364	white
+HOMODA hydrolase	3.7.1.-	H2O	2-Hydroxy-2,4-pentadienoate	R05364	white
+HOMODA hydrolase	3.7.1.-	H2O	2-Methylpropanoate	R05364	white
+acetaldehyde dehydrogenase	1.2.1.10	Acetaldehyde	Acetyl-CoA	R00228	green
+acetaldehyde dehydrogenase	1.2.1.10	Acetaldehyde	H+	R00228	green
+acetaldehyde dehydrogenase	1.2.1.10	Acetaldehyde	NADH	R00228	green
+acetaldehyde dehydrogenase	1.2.1.10	Acetyl-CoA	Acetaldehyde	R00228	green
+acetaldehyde dehydrogenase	1.2.1.10	Acetyl-CoA	CoA	R00228	green
+acetaldehyde dehydrogenase	1.2.1.10	Acetyl-CoA	NAD+	R00228	green
+acetaldehyde dehydrogenase	1.2.1.10	CoA	Acetyl-CoA	R00228	green
+acetaldehyde dehydrogenase	1.2.1.10	CoA	H+	R00228	green
+acetaldehyde dehydrogenase	1.2.1.10	CoA	NADH	R00228	green
+acetaldehyde dehydrogenase	1.2.1.10	H+	Acetaldehyde	R00228	green
+acetaldehyde dehydrogenase	1.2.1.10	H+	CoA	R00228	green
+acetaldehyde dehydrogenase	1.2.1.10	H+	NAD+	R00228	green
+acetaldehyde dehydrogenase	1.2.1.10	NAD+	Acetyl-CoA	R00228	green
+acetaldehyde dehydrogenase	1.2.1.10	NAD+	H+	R00228	green
+acetaldehyde dehydrogenase	1.2.1.10	NAD+	NADH	R00228	green
+acetaldehyde dehydrogenase	1.2.1.10	NADH	Acetaldehyde	R00228	green
+acetaldehyde dehydrogenase	1.2.1.10	NADH	CoA	R00228	green
+acetaldehyde dehydrogenase	1.2.1.10	NADH	NAD+	R00228	green
+acetaldehyde/propanal dehydrogenase	1.2.1.10	Acetaldehyde	Acetyl-CoA	R00228	white
+acetaldehyde/propanal dehydrogenase	1.2.1.10	Acetaldehyde	H+	R00228	white
+acetaldehyde/propanal dehydrogenase	1.2.1.10	Acetaldehyde	NADH	R00228	white
+acetaldehyde/propanal dehydrogenase	1.2.1.10	Acetyl-CoA	Acetaldehyde	R00228	white
+acetaldehyde/propanal dehydrogenase	1.2.1.10	Acetyl-CoA	CoA	R00228	white
+acetaldehyde/propanal dehydrogenase	1.2.1.10	Acetyl-CoA	NAD+	R00228	white
+acetaldehyde/propanal dehydrogenase	1.2.1.10	CoA	Acetyl-CoA	R00228	white
+acetaldehyde/propanal dehydrogenase	1.2.1.10	CoA	H+	R00228	white
+acetaldehyde/propanal dehydrogenase	1.2.1.10	CoA	NADH	R00228	white
+acetaldehyde/propanal dehydrogenase	1.2.1.10	H+	Acetaldehyde	R00228	white
+acetaldehyde/propanal dehydrogenase	1.2.1.10	H+	CoA	R00228	white
+acetaldehyde/propanal dehydrogenase	1.2.1.10	H+	NAD+	R00228	white
+acetaldehyde/propanal dehydrogenase	1.2.1.10	NAD+	Acetyl-CoA	R00228	white
+acetaldehyde/propanal dehydrogenase	1.2.1.10	NAD+	H+	R00228	white
+acetaldehyde/propanal dehydrogenase	1.2.1.10	NAD+	NADH	R00228	white
+acetaldehyde/propanal dehydrogenase	1.2.1.10	NADH	Acetaldehyde	R00228	white
+acetaldehyde/propanal dehydrogenase	1.2.1.10	NADH	CoA	R00228	white
+acetaldehyde/propanal dehydrogenase	1.2.1.10	NADH	NAD+	R00228	white
+aminomuconate-semialdehyde/2-hydroxymuconate-6-semialdehyde dehydrogenase	1.2.1.32	2-Hydroxymuconate	2-Hydroxymuconate semialdehyde	R02762	white
+aminomuconate-semialdehyde/2-hydroxymuconate-6-semialdehyde dehydrogenase	1.2.1.32	2-Hydroxymuconate	H2O	R02762	white
+aminomuconate-semialdehyde/2-hydroxymuconate-6-semialdehyde dehydrogenase	1.2.1.32	2-Hydroxymuconate	NAD+	R02762	white
+aminomuconate-semialdehyde/2-hydroxymuconate-6-semialdehyde dehydrogenase	1.2.1.32	2-Hydroxymuconate semialdehyde	2-Hydroxymuconate	R02762	white
+aminomuconate-semialdehyde/2-hydroxymuconate-6-semialdehyde dehydrogenase	1.2.1.32	2-Hydroxymuconate semialdehyde	H+	R02762	white
+aminomuconate-semialdehyde/2-hydroxymuconate-6-semialdehyde dehydrogenase	1.2.1.32	2-Hydroxymuconate semialdehyde	NADH	R02762	white
+aminomuconate-semialdehyde/2-hydroxymuconate-6-semialdehyde dehydrogenase	1.2.1.32	H+	2-Hydroxymuconate semialdehyde	R02762	white
+aminomuconate-semialdehyde/2-hydroxymuconate-6-semialdehyde dehydrogenase	1.2.1.32	H+	H2O	R02762	white
+aminomuconate-semialdehyde/2-hydroxymuconate-6-semialdehyde dehydrogenase	1.2.1.32	H+	NAD+	R02762	white
+aminomuconate-semialdehyde/2-hydroxymuconate-6-semialdehyde dehydrogenase	1.2.1.32	H2O	2-Hydroxymuconate	R02762	white
+aminomuconate-semialdehyde/2-hydroxymuconate-6-semialdehyde dehydrogenase	1.2.1.32	H2O	H+	R02762	white
+aminomuconate-semialdehyde/2-hydroxymuconate-6-semialdehyde dehydrogenase	1.2.1.32	H2O	NADH	R02762	white
+aminomuconate-semialdehyde/2-hydroxymuconate-6-semialdehyde dehydrogenase	1.2.1.32	NAD+	2-Hydroxymuconate	R02762	white
+aminomuconate-semialdehyde/2-hydroxymuconate-6-semialdehyde dehydrogenase	1.2.1.32	NAD+	H+	R02762	white
+aminomuconate-semialdehyde/2-hydroxymuconate-6-semialdehyde dehydrogenase	1.2.1.32	NAD+	NADH	R02762	white
+aminomuconate-semialdehyde/2-hydroxymuconate-6-semialdehyde dehydrogenase	1.2.1.32	NADH	2-Hydroxymuconate semialdehyde	R02762	white
+aminomuconate-semialdehyde/2-hydroxymuconate-6-semialdehyde dehydrogenase	1.2.1.32	NADH	H2O	R02762	white
+aminomuconate-semialdehyde/2-hydroxymuconate-6-semialdehyde dehydrogenase	1.2.1.32	NADH	NAD+	R02762	white
+aryl-alcohol dehydrogenase	1.1.1.90	2-Methylbenzyl alcohol	2-Methylbenzaldehyde	R05348	green
+aryl-alcohol dehydrogenase	1.1.1.90	2-Methylbenzyl alcohol	H+	R05348	green
+aryl-alcohol dehydrogenase	1.1.1.90	2-Methylbenzyl alcohol	NADH	R05348	green
+aryl-alcohol dehydrogenase	1.1.1.90	3-Methylbenzyl alcohol	3-Methylbenzaldehyde	R05347	green
+aryl-alcohol dehydrogenase	1.1.1.90	3-Methylbenzyl alcohol	H+	R05347	green
+aryl-alcohol dehydrogenase	1.1.1.90	3-Methylbenzyl alcohol	NADH	R05347	green
+aryl-alcohol dehydrogenase	1.1.1.90	4-Methylbenzyl alcohol	H+	R05282	green
+aryl-alcohol dehydrogenase	1.1.1.90	4-Methylbenzyl alcohol	NADH	R05282	green
+aryl-alcohol dehydrogenase	1.1.1.90	4-Methylbenzyl alcohol	p-Tolualdehyde	R05282	green
+aryl-alcohol dehydrogenase	1.1.1.90	NAD+	2-Methylbenzaldehyde	R05348	green
+aryl-alcohol dehydrogenase	1.1.1.90	NAD+	3-Methylbenzaldehyde	R05347	green
+aryl-alcohol dehydrogenase	1.1.1.90	NAD+	H+	R05282	green
+aryl-alcohol dehydrogenase	1.1.1.90	NAD+	H+	R05347	green
+aryl-alcohol dehydrogenase	1.1.1.90	NAD+	H+	R05348	green
+aryl-alcohol dehydrogenase	1.1.1.90	NAD+	NADH	R05282	green
+aryl-alcohol dehydrogenase	1.1.1.90	NAD+	NADH	R05347	green
+aryl-alcohol dehydrogenase	1.1.1.90	NAD+	NADH	R05348	green
+aryl-alcohol dehydrogenase	1.1.1.90	NAD+	p-Tolualdehyde	R05282	green
+benzaldehyde dehydrogenase (NAD)	1.2.1.28	2-Methylbenzaldehyde	H+	R05663	green
+benzaldehyde dehydrogenase (NAD)	1.2.1.28	2-Methylbenzaldehyde	NADPH	R05663	green
+benzaldehyde dehydrogenase (NAD)	1.2.1.28	2-Methylbenzaldehyde	o-Toluate	R05663	green
+benzaldehyde dehydrogenase (NAD)	1.2.1.28	3-Methylbenzaldehyde	H+	R05664	green
+benzaldehyde dehydrogenase (NAD)	1.2.1.28	3-Methylbenzaldehyde	NADPH	R05664	green
+benzaldehyde dehydrogenase (NAD)	1.2.1.28	3-Methylbenzaldehyde	m-Methylbenzoate	R05664	green
+benzaldehyde dehydrogenase (NAD)	1.2.1.28	H2O	H+	R05289	green
+benzaldehyde dehydrogenase (NAD)	1.2.1.28	H2O	H+	R05663	green
+benzaldehyde dehydrogenase (NAD)	1.2.1.28	H2O	H+	R05664	green
+benzaldehyde dehydrogenase (NAD)	1.2.1.28	H2O	NADPH	R05289	green
+benzaldehyde dehydrogenase (NAD)	1.2.1.28	H2O	NADPH	R05663	green
+benzaldehyde dehydrogenase (NAD)	1.2.1.28	H2O	NADPH	R05664	green
+benzaldehyde dehydrogenase (NAD)	1.2.1.28	H2O	Toluate	R05289	green
+benzaldehyde dehydrogenase (NAD)	1.2.1.28	H2O	m-Methylbenzoate	R05664	green
+benzaldehyde dehydrogenase (NAD)	1.2.1.28	H2O	o-Toluate	R05663	green
+benzaldehyde dehydrogenase (NAD)	1.2.1.28	NADP+	H+	R05289	green
+benzaldehyde dehydrogenase (NAD)	1.2.1.28	NADP+	H+	R05663	green
+benzaldehyde dehydrogenase (NAD)	1.2.1.28	NADP+	H+	R05664	green
+benzaldehyde dehydrogenase (NAD)	1.2.1.28	NADP+	NADPH	R05289	green
+benzaldehyde dehydrogenase (NAD)	1.2.1.28	NADP+	NADPH	R05663	green
+benzaldehyde dehydrogenase (NAD)	1.2.1.28	NADP+	NADPH	R05664	green
+benzaldehyde dehydrogenase (NAD)	1.2.1.28	NADP+	Toluate	R05289	green
+benzaldehyde dehydrogenase (NAD)	1.2.1.28	NADP+	m-Methylbenzoate	R05664	green
+benzaldehyde dehydrogenase (NAD)	1.2.1.28	NADP+	o-Toluate	R05663	green
+benzaldehyde dehydrogenase (NAD)	1.2.1.28	p-Tolualdehyde	H+	R05289	green
+benzaldehyde dehydrogenase (NAD)	1.2.1.28	p-Tolualdehyde	NADPH	R05289	green
+benzaldehyde dehydrogenase (NAD)	1.2.1.28	p-Tolualdehyde	Toluate	R05289	green
+benzoate/toluate 1,2-dioxygenase reductase component	1.18.1.-	H+	1,2-Dihydroxy-6-methylcyclohexa-3,5-dienecarboxylate	R05428	green
+benzoate/toluate 1,2-dioxygenase reductase component	1.18.1.-	H+	1,6-Dihydroxy-5-methylcyclohexa-2,4-dienecarboxylate	R05665	green
+benzoate/toluate 1,2-dioxygenase reductase component	1.18.1.-	H+	NAD+	R05290	green
+benzoate/toluate 1,2-dioxygenase reductase component	1.18.1.-	H+	NAD+	R05428	green
+benzoate/toluate 1,2-dioxygenase reductase component	1.18.1.-	H+	NAD+	R05665	green
+benzoate/toluate 1,2-dioxygenase reductase component	1.18.1.-	H+	NADP+	R05291	green
+benzoate/toluate 1,2-dioxygenase reductase component	1.18.1.-	H+	cis-1,2-Dihydroxy-4-methylcyclohexa-3,5-diene-1-carboxylate	R05290	green
+benzoate/toluate 1,2-dioxygenase reductase component	1.18.1.-	H+	cis-1,2-Dihydroxy-4-methylcyclohexa-3,5-diene-1-carboxylate	R05291	green
+benzoate/toluate 1,2-dioxygenase reductase component	1.18.1.-	NADH	1,2-Dihydroxy-6-methylcyclohexa-3,5-dienecarboxylate	R05428	green
+benzoate/toluate 1,2-dioxygenase reductase component	1.18.1.-	NADH	1,6-Dihydroxy-5-methylcyclohexa-2,4-dienecarboxylate	R05665	green
+benzoate/toluate 1,2-dioxygenase reductase component	1.18.1.-	NADH	NAD+	R05290	green
+benzoate/toluate 1,2-dioxygenase reductase component	1.18.1.-	NADH	NAD+	R05428	green
+benzoate/toluate 1,2-dioxygenase reductase component	1.18.1.-	NADH	NAD+	R05665	green
+benzoate/toluate 1,2-dioxygenase reductase component	1.18.1.-	NADH	cis-1,2-Dihydroxy-4-methylcyclohexa-3,5-diene-1-carboxylate	R05290	green
+benzoate/toluate 1,2-dioxygenase reductase component	1.18.1.-	NADPH	NADP+	R05291	green
+benzoate/toluate 1,2-dioxygenase reductase component	1.18.1.-	NADPH	cis-1,2-Dihydroxy-4-methylcyclohexa-3,5-diene-1-carboxylate	R05291	green
+benzoate/toluate 1,2-dioxygenase reductase component	1.18.1.-	Oxygen	1,2-Dihydroxy-6-methylcyclohexa-3,5-dienecarboxylate	R05428	green
+benzoate/toluate 1,2-dioxygenase reductase component	1.18.1.-	Oxygen	1,6-Dihydroxy-5-methylcyclohexa-2,4-dienecarboxylate	R05665	green
+benzoate/toluate 1,2-dioxygenase reductase component	1.18.1.-	Oxygen	NAD+	R05290	green
+benzoate/toluate 1,2-dioxygenase reductase component	1.18.1.-	Oxygen	NAD+	R05428	green
+benzoate/toluate 1,2-dioxygenase reductase component	1.18.1.-	Oxygen	NAD+	R05665	green
+benzoate/toluate 1,2-dioxygenase reductase component	1.18.1.-	Oxygen	NADP+	R05291	green
+benzoate/toluate 1,2-dioxygenase reductase component	1.18.1.-	Oxygen	cis-1,2-Dihydroxy-4-methylcyclohexa-3,5-diene-1-carboxylate	R05290	green
+benzoate/toluate 1,2-dioxygenase reductase component	1.18.1.-	Oxygen	cis-1,2-Dihydroxy-4-methylcyclohexa-3,5-diene-1-carboxylate	R05291	green
+benzoate/toluate 1,2-dioxygenase reductase component	1.18.1.-	Toluate	NAD+	R05290	green
+benzoate/toluate 1,2-dioxygenase reductase component	1.18.1.-	Toluate	NADP+	R05291	green
+benzoate/toluate 1,2-dioxygenase reductase component	1.18.1.-	Toluate	cis-1,2-Dihydroxy-4-methylcyclohexa-3,5-diene-1-carboxylate	R05290	green
+benzoate/toluate 1,2-dioxygenase reductase component	1.18.1.-	Toluate	cis-1,2-Dihydroxy-4-methylcyclohexa-3,5-diene-1-carboxylate	R05291	green
+benzoate/toluate 1,2-dioxygenase reductase component	1.18.1.-	m-Methylbenzoate	1,6-Dihydroxy-5-methylcyclohexa-2,4-dienecarboxylate	R05665	green
+benzoate/toluate 1,2-dioxygenase reductase component	1.18.1.-	m-Methylbenzoate	NAD+	R05665	green
+benzoate/toluate 1,2-dioxygenase reductase component	1.18.1.-	o-Toluate	1,2-Dihydroxy-6-methylcyclohexa-3,5-dienecarboxylate	R05428	green
+benzoate/toluate 1,2-dioxygenase reductase component	1.18.1.-	o-Toluate	NAD+	R05428	green
+benzoate/toluate 1,2-dioxygenase subunit alpha	1.14.12.10	H+	1,2-Dihydroxy-6-methylcyclohexa-3,5-dienecarboxylate	R05428	green
+benzoate/toluate 1,2-dioxygenase subunit alpha	1.14.12.10	H+	1,6-Dihydroxy-5-methylcyclohexa-2,4-dienecarboxylate	R05665	green
+benzoate/toluate 1,2-dioxygenase subunit alpha	1.14.12.10	H+	NAD+	R05290	green
+benzoate/toluate 1,2-dioxygenase subunit alpha	1.14.12.10	H+	NAD+	R05428	green
+benzoate/toluate 1,2-dioxygenase subunit alpha	1.14.12.10	H+	NAD+	R05665	green
+benzoate/toluate 1,2-dioxygenase subunit alpha	1.14.12.10	H+	NADP+	R05291	green
+benzoate/toluate 1,2-dioxygenase subunit alpha	1.14.12.10	H+	cis-1,2-Dihydroxy-4-methylcyclohexa-3,5-diene-1-carboxylate	R05290	green
+benzoate/toluate 1,2-dioxygenase subunit alpha	1.14.12.10	H+	cis-1,2-Dihydroxy-4-methylcyclohexa-3,5-diene-1-carboxylate	R05291	green
+benzoate/toluate 1,2-dioxygenase subunit alpha	1.14.12.10	NADH	1,2-Dihydroxy-6-methylcyclohexa-3,5-dienecarboxylate	R05428	green
+benzoate/toluate 1,2-dioxygenase subunit alpha	1.14.12.10	NADH	1,6-Dihydroxy-5-methylcyclohexa-2,4-dienecarboxylate	R05665	green
+benzoate/toluate 1,2-dioxygenase subunit alpha	1.14.12.10	NADH	NAD+	R05290	green
+benzoate/toluate 1,2-dioxygenase subunit alpha	1.14.12.10	NADH	NAD+	R05428	green
+benzoate/toluate 1,2-dioxygenase subunit alpha	1.14.12.10	NADH	NAD+	R05665	green
+benzoate/toluate 1,2-dioxygenase subunit alpha	1.14.12.10	NADH	cis-1,2-Dihydroxy-4-methylcyclohexa-3,5-diene-1-carboxylate	R05290	green
+benzoate/toluate 1,2-dioxygenase subunit alpha	1.14.12.10	NADPH	NADP+	R05291	green
+benzoate/toluate 1,2-dioxygenase subunit alpha	1.14.12.10	NADPH	cis-1,2-Dihydroxy-4-methylcyclohexa-3,5-diene-1-carboxylate	R05291	green
+benzoate/toluate 1,2-dioxygenase subunit alpha	1.14.12.10	Oxygen	1,2-Dihydroxy-6-methylcyclohexa-3,5-dienecarboxylate	R05428	green
+benzoate/toluate 1,2-dioxygenase subunit alpha	1.14.12.10	Oxygen	1,6-Dihydroxy-5-methylcyclohexa-2,4-dienecarboxylate	R05665	green
+benzoate/toluate 1,2-dioxygenase subunit alpha	1.14.12.10	Oxygen	NAD+	R05290	green
+benzoate/toluate 1,2-dioxygenase subunit alpha	1.14.12.10	Oxygen	NAD+	R05428	green
+benzoate/toluate 1,2-dioxygenase subunit alpha	1.14.12.10	Oxygen	NAD+	R05665	green
+benzoate/toluate 1,2-dioxygenase subunit alpha	1.14.12.10	Oxygen	NADP+	R05291	green
+benzoate/toluate 1,2-dioxygenase subunit alpha	1.14.12.10	Oxygen	cis-1,2-Dihydroxy-4-methylcyclohexa-3,5-diene-1-carboxylate	R05290	green
+benzoate/toluate 1,2-dioxygenase subunit alpha	1.14.12.10	Oxygen	cis-1,2-Dihydroxy-4-methylcyclohexa-3,5-diene-1-carboxylate	R05291	green
+benzoate/toluate 1,2-dioxygenase subunit alpha	1.14.12.10	Toluate	NAD+	R05290	green
+benzoate/toluate 1,2-dioxygenase subunit alpha	1.14.12.10	Toluate	NADP+	R05291	green
+benzoate/toluate 1,2-dioxygenase subunit alpha	1.14.12.10	Toluate	cis-1,2-Dihydroxy-4-methylcyclohexa-3,5-diene-1-carboxylate	R05290	green
+benzoate/toluate 1,2-dioxygenase subunit alpha	1.14.12.10	Toluate	cis-1,2-Dihydroxy-4-methylcyclohexa-3,5-diene-1-carboxylate	R05291	green
+benzoate/toluate 1,2-dioxygenase subunit alpha	1.14.12.10	m-Methylbenzoate	1,6-Dihydroxy-5-methylcyclohexa-2,4-dienecarboxylate	R05665	green
+benzoate/toluate 1,2-dioxygenase subunit alpha	1.14.12.10	m-Methylbenzoate	NAD+	R05665	green
+benzoate/toluate 1,2-dioxygenase subunit alpha	1.14.12.10	o-Toluate	1,2-Dihydroxy-6-methylcyclohexa-3,5-dienecarboxylate	R05428	green
+benzoate/toluate 1,2-dioxygenase subunit alpha	1.14.12.10	o-Toluate	NAD+	R05428	green
+benzoate/toluate 1,2-dioxygenase subunit beta	1.14.12.10	H+	1,2-Dihydroxy-6-methylcyclohexa-3,5-dienecarboxylate	R05428	green
+benzoate/toluate 1,2-dioxygenase subunit beta	1.14.12.10	H+	1,6-Dihydroxy-5-methylcyclohexa-2,4-dienecarboxylate	R05665	green
+benzoate/toluate 1,2-dioxygenase subunit beta	1.14.12.10	H+	NAD+	R05290	green
+benzoate/toluate 1,2-dioxygenase subunit beta	1.14.12.10	H+	NAD+	R05428	green
+benzoate/toluate 1,2-dioxygenase subunit beta	1.14.12.10	H+	NAD+	R05665	green
+benzoate/toluate 1,2-dioxygenase subunit beta	1.14.12.10	H+	NADP+	R05291	green
+benzoate/toluate 1,2-dioxygenase subunit beta	1.14.12.10	H+	cis-1,2-Dihydroxy-4-methylcyclohexa-3,5-diene-1-carboxylate	R05290	green
+benzoate/toluate 1,2-dioxygenase subunit beta	1.14.12.10	H+	cis-1,2-Dihydroxy-4-methylcyclohexa-3,5-diene-1-carboxylate	R05291	green
+benzoate/toluate 1,2-dioxygenase subunit beta	1.14.12.10	NADH	1,2-Dihydroxy-6-methylcyclohexa-3,5-dienecarboxylate	R05428	green
+benzoate/toluate 1,2-dioxygenase subunit beta	1.14.12.10	NADH	1,6-Dihydroxy-5-methylcyclohexa-2,4-dienecarboxylate	R05665	green
+benzoate/toluate 1,2-dioxygenase subunit beta	1.14.12.10	NADH	NAD+	R05290	green
+benzoate/toluate 1,2-dioxygenase subunit beta	1.14.12.10	NADH	NAD+	R05428	green
+benzoate/toluate 1,2-dioxygenase subunit beta	1.14.12.10	NADH	NAD+	R05665	green
+benzoate/toluate 1,2-dioxygenase subunit beta	1.14.12.10	NADH	cis-1,2-Dihydroxy-4-methylcyclohexa-3,5-diene-1-carboxylate	R05290	green
+benzoate/toluate 1,2-dioxygenase subunit beta	1.14.12.10	NADPH	NADP+	R05291	green
+benzoate/toluate 1,2-dioxygenase subunit beta	1.14.12.10	NADPH	cis-1,2-Dihydroxy-4-methylcyclohexa-3,5-diene-1-carboxylate	R05291	green
+benzoate/toluate 1,2-dioxygenase subunit beta	1.14.12.10	Oxygen	1,2-Dihydroxy-6-methylcyclohexa-3,5-dienecarboxylate	R05428	green
+benzoate/toluate 1,2-dioxygenase subunit beta	1.14.12.10	Oxygen	1,6-Dihydroxy-5-methylcyclohexa-2,4-dienecarboxylate	R05665	green
+benzoate/toluate 1,2-dioxygenase subunit beta	1.14.12.10	Oxygen	NAD+	R05290	green
+benzoate/toluate 1,2-dioxygenase subunit beta	1.14.12.10	Oxygen	NAD+	R05428	green
+benzoate/toluate 1,2-dioxygenase subunit beta	1.14.12.10	Oxygen	NAD+	R05665	green
+benzoate/toluate 1,2-dioxygenase subunit beta	1.14.12.10	Oxygen	NADP+	R05291	green
+benzoate/toluate 1,2-dioxygenase subunit beta	1.14.12.10	Oxygen	cis-1,2-Dihydroxy-4-methylcyclohexa-3,5-diene-1-carboxylate	R05290	green
+benzoate/toluate 1,2-dioxygenase subunit beta	1.14.12.10	Oxygen	cis-1,2-Dihydroxy-4-methylcyclohexa-3,5-diene-1-carboxylate	R05291	green
+benzoate/toluate 1,2-dioxygenase subunit beta	1.14.12.10	Toluate	NAD+	R05290	green
+benzoate/toluate 1,2-dioxygenase subunit beta	1.14.12.10	Toluate	NADP+	R05291	green
+benzoate/toluate 1,2-dioxygenase subunit beta	1.14.12.10	Toluate	cis-1,2-Dihydroxy-4-methylcyclohexa-3,5-diene-1-carboxylate	R05290	green
+benzoate/toluate 1,2-dioxygenase subunit beta	1.14.12.10	Toluate	cis-1,2-Dihydroxy-4-methylcyclohexa-3,5-diene-1-carboxylate	R05291	green
+benzoate/toluate 1,2-dioxygenase subunit beta	1.14.12.10	m-Methylbenzoate	1,6-Dihydroxy-5-methylcyclohexa-2,4-dienecarboxylate	R05665	green
+benzoate/toluate 1,2-dioxygenase subunit beta	1.14.12.10	m-Methylbenzoate	NAD+	R05665	green
+benzoate/toluate 1,2-dioxygenase subunit beta	1.14.12.10	o-Toluate	1,2-Dihydroxy-6-methylcyclohexa-3,5-dienecarboxylate	R05428	green
+benzoate/toluate 1,2-dioxygenase subunit beta	1.14.12.10	o-Toluate	NAD+	R05428	green
+catechol 2,3-dioxygenase	1.13.11.2	2-Hydroxymuconate semialdehyde	Catechol	R00816	white
+catechol 2,3-dioxygenase	1.13.11.2	2-Hydroxymuconate semialdehyde	Oxygen	R00816	white
+catechol 2,3-dioxygenase	1.13.11.2	Catechol	2-Hydroxymuconate semialdehyde	R00816	white
+catechol 2,3-dioxygenase	1.13.11.2	Oxygen	2-Hydroxymuconate semialdehyde	R00816	white
+dihydroxycyclohexadiene carboxylate dehydrogenase	1.3.1.25	1,2-Dihydroxy-6-methylcyclohexa-3,5-dienecarboxylate	2,3-Dihydroxytoluene	R05314	green
+dihydroxycyclohexadiene carboxylate dehydrogenase	1.3.1.25	1,2-Dihydroxy-6-methylcyclohexa-3,5-dienecarboxylate	CO2	R05314	green
+dihydroxycyclohexadiene carboxylate dehydrogenase	1.3.1.25	1,2-Dihydroxy-6-methylcyclohexa-3,5-dienecarboxylate	H+	R05314	green
+dihydroxycyclohexadiene carboxylate dehydrogenase	1.3.1.25	1,2-Dihydroxy-6-methylcyclohexa-3,5-dienecarboxylate	NADH	R05314	green
+dihydroxycyclohexadiene carboxylate dehydrogenase	1.3.1.25	1,6-Dihydroxy-5-methylcyclohexa-2,4-dienecarboxylate	2,3-Dihydroxytoluene	R05309	green
+dihydroxycyclohexadiene carboxylate dehydrogenase	1.3.1.25	1,6-Dihydroxy-5-methylcyclohexa-2,4-dienecarboxylate	CO2	R05309	green
+dihydroxycyclohexadiene carboxylate dehydrogenase	1.3.1.25	1,6-Dihydroxy-5-methylcyclohexa-2,4-dienecarboxylate	H+	R05309	green
+dihydroxycyclohexadiene carboxylate dehydrogenase	1.3.1.25	1,6-Dihydroxy-5-methylcyclohexa-2,4-dienecarboxylate	NADH	R05309	green
+dihydroxycyclohexadiene carboxylate dehydrogenase	1.3.1.25	NAD+	2,3-Dihydroxytoluene	R05309	green
+dihydroxycyclohexadiene carboxylate dehydrogenase	1.3.1.25	NAD+	2,3-Dihydroxytoluene	R05314	green
+dihydroxycyclohexadiene carboxylate dehydrogenase	1.3.1.25	NAD+	4-Methylcatechol	R05292	green
+dihydroxycyclohexadiene carboxylate dehydrogenase	1.3.1.25	NAD+	CO2	R05292	green
+dihydroxycyclohexadiene carboxylate dehydrogenase	1.3.1.25	NAD+	CO2	R05309	green
+dihydroxycyclohexadiene carboxylate dehydrogenase	1.3.1.25	NAD+	CO2	R05314	green
+dihydroxycyclohexadiene carboxylate dehydrogenase	1.3.1.25	NAD+	H+	R05292	green
+dihydroxycyclohexadiene carboxylate dehydrogenase	1.3.1.25	NAD+	H+	R05309	green
+dihydroxycyclohexadiene carboxylate dehydrogenase	1.3.1.25	NAD+	H+	R05314	green
+dihydroxycyclohexadiene carboxylate dehydrogenase	1.3.1.25	NAD+	NADH	R05292	green
+dihydroxycyclohexadiene carboxylate dehydrogenase	1.3.1.25	NAD+	NADH	R05309	green
+dihydroxycyclohexadiene carboxylate dehydrogenase	1.3.1.25	NAD+	NADH	R05314	green
+dihydroxycyclohexadiene carboxylate dehydrogenase	1.3.1.25	NADP+	4-Methylcatechol	R05293	green
+dihydroxycyclohexadiene carboxylate dehydrogenase	1.3.1.25	NADP+	CO2	R05293	green
+dihydroxycyclohexadiene carboxylate dehydrogenase	1.3.1.25	NADP+	H+	R05293	green
+dihydroxycyclohexadiene carboxylate dehydrogenase	1.3.1.25	NADP+	NADPH	R05293	green
+dihydroxycyclohexadiene carboxylate dehydrogenase	1.3.1.25	cis-1,2-Dihydroxy-4-methylcyclohexa-3,5-diene-1-carboxylate	4-Methylcatechol	R05292	green
+dihydroxycyclohexadiene carboxylate dehydrogenase	1.3.1.25	cis-1,2-Dihydroxy-4-methylcyclohexa-3,5-diene-1-carboxylate	4-Methylcatechol	R05293	green
+dihydroxycyclohexadiene carboxylate dehydrogenase	1.3.1.25	cis-1,2-Dihydroxy-4-methylcyclohexa-3,5-diene-1-carboxylate	CO2	R05292	green
+dihydroxycyclohexadiene carboxylate dehydrogenase	1.3.1.25	cis-1,2-Dihydroxy-4-methylcyclohexa-3,5-diene-1-carboxylate	CO2	R05293	green
+dihydroxycyclohexadiene carboxylate dehydrogenase	1.3.1.25	cis-1,2-Dihydroxy-4-methylcyclohexa-3,5-diene-1-carboxylate	H+	R05292	green
+dihydroxycyclohexadiene carboxylate dehydrogenase	1.3.1.25	cis-1,2-Dihydroxy-4-methylcyclohexa-3,5-diene-1-carboxylate	H+	R05293	green
+dihydroxycyclohexadiene carboxylate dehydrogenase	1.3.1.25	cis-1,2-Dihydroxy-4-methylcyclohexa-3,5-diene-1-carboxylate	NADH	R05292	green
+dihydroxycyclohexadiene carboxylate dehydrogenase	1.3.1.25	cis-1,2-Dihydroxy-4-methylcyclohexa-3,5-diene-1-carboxylate	NADPH	R05293	green
+p-cumate 2,3-dioxygenase ferredoxin component	1.14.12.25	H+	NAD+	R05247	white
+p-cumate 2,3-dioxygenase ferredoxin component	1.14.12.25	H+	cis-2,3-Dihydroxy-2,3-dihydro-p-cumate	R05247	white
+p-cumate 2,3-dioxygenase ferredoxin component	1.14.12.25	NAD+	H+	R05247	white
+p-cumate 2,3-dioxygenase ferredoxin component	1.14.12.25	NAD+	NADH	R05247	white
+p-cumate 2,3-dioxygenase ferredoxin component	1.14.12.25	NAD+	Oxygen	R05247	white
+p-cumate 2,3-dioxygenase ferredoxin component	1.14.12.25	NAD+	p-Cumate	R05247	white
+p-cumate 2,3-dioxygenase ferredoxin component	1.14.12.25	NADH	NAD+	R05247	white
+p-cumate 2,3-dioxygenase ferredoxin component	1.14.12.25	NADH	cis-2,3-Dihydroxy-2,3-dihydro-p-cumate	R05247	white
+p-cumate 2,3-dioxygenase ferredoxin component	1.14.12.25	Oxygen	NAD+	R05247	white
+p-cumate 2,3-dioxygenase ferredoxin component	1.14.12.25	Oxygen	cis-2,3-Dihydroxy-2,3-dihydro-p-cumate	R05247	white
+p-cumate 2,3-dioxygenase ferredoxin component	1.14.12.25	cis-2,3-Dihydroxy-2,3-dihydro-p-cumate	H+	R05247	white
+p-cumate 2,3-dioxygenase ferredoxin component	1.14.12.25	cis-2,3-Dihydroxy-2,3-dihydro-p-cumate	NADH	R05247	white
+p-cumate 2,3-dioxygenase ferredoxin component	1.14.12.25	cis-2,3-Dihydroxy-2,3-dihydro-p-cumate	Oxygen	R05247	white
+p-cumate 2,3-dioxygenase ferredoxin component	1.14.12.25	cis-2,3-Dihydroxy-2,3-dihydro-p-cumate	p-Cumate	R05247	white
+p-cumate 2,3-dioxygenase ferredoxin component	1.14.12.25	p-Cumate	NAD+	R05247	white
+p-cumate 2,3-dioxygenase ferredoxin component	1.14.12.25	p-Cumate	cis-2,3-Dihydroxy-2,3-dihydro-p-cumate	R05247	white
+p-cumate 2,3-dioxygenase ferredoxin reductase component	1.18.1.3	H+	NAD+	R05247	white
+p-cumate 2,3-dioxygenase ferredoxin reductase component	1.18.1.3	H+	cis-2,3-Dihydroxy-2,3-dihydro-p-cumate	R05247	white
+p-cumate 2,3-dioxygenase ferredoxin reductase component	1.18.1.3	NAD+	H+	R05247	white
+p-cumate 2,3-dioxygenase ferredoxin reductase component	1.18.1.3	NAD+	NADH	R05247	white
+p-cumate 2,3-dioxygenase ferredoxin reductase component	1.18.1.3	NAD+	Oxygen	R05247	white
+p-cumate 2,3-dioxygenase ferredoxin reductase component	1.18.1.3	NAD+	p-Cumate	R05247	white
+p-cumate 2,3-dioxygenase ferredoxin reductase component	1.18.1.3	NADH	NAD+	R05247	white
+p-cumate 2,3-dioxygenase ferredoxin reductase component	1.18.1.3	NADH	cis-2,3-Dihydroxy-2,3-dihydro-p-cumate	R05247	white
+p-cumate 2,3-dioxygenase ferredoxin reductase component	1.18.1.3	Oxygen	NAD+	R05247	white
+p-cumate 2,3-dioxygenase ferredoxin reductase component	1.18.1.3	Oxygen	cis-2,3-Dihydroxy-2,3-dihydro-p-cumate	R05247	white
+p-cumate 2,3-dioxygenase ferredoxin reductase component	1.18.1.3	cis-2,3-Dihydroxy-2,3-dihydro-p-cumate	H+	R05247	white
+p-cumate 2,3-dioxygenase ferredoxin reductase component	1.18.1.3	cis-2,3-Dihydroxy-2,3-dihydro-p-cumate	NADH	R05247	white
+p-cumate 2,3-dioxygenase ferredoxin reductase component	1.18.1.3	cis-2,3-Dihydroxy-2,3-dihydro-p-cumate	Oxygen	R05247	white
+p-cumate 2,3-dioxygenase ferredoxin reductase component	1.18.1.3	cis-2,3-Dihydroxy-2,3-dihydro-p-cumate	p-Cumate	R05247	white
+p-cumate 2,3-dioxygenase ferredoxin reductase component	1.18.1.3	p-Cumate	NAD+	R05247	white
+p-cumate 2,3-dioxygenase ferredoxin reductase component	1.18.1.3	p-Cumate	cis-2,3-Dihydroxy-2,3-dihydro-p-cumate	R05247	white
+p-cumate 2,3-dioxygenase subunit alpha	1.14.12.25	H+	NAD+	R05247	white
+p-cumate 2,3-dioxygenase subunit alpha	1.14.12.25	H+	cis-2,3-Dihydroxy-2,3-dihydro-p-cumate	R05247	white
+p-cumate 2,3-dioxygenase subunit alpha	1.14.12.25	NAD+	H+	R05247	white
+p-cumate 2,3-dioxygenase subunit alpha	1.14.12.25	NAD+	NADH	R05247	white
+p-cumate 2,3-dioxygenase subunit alpha	1.14.12.25	NAD+	Oxygen	R05247	white
+p-cumate 2,3-dioxygenase subunit alpha	1.14.12.25	NAD+	p-Cumate	R05247	white
+p-cumate 2,3-dioxygenase subunit alpha	1.14.12.25	NADH	NAD+	R05247	white
+p-cumate 2,3-dioxygenase subunit alpha	1.14.12.25	NADH	cis-2,3-Dihydroxy-2,3-dihydro-p-cumate	R05247	white
+p-cumate 2,3-dioxygenase subunit alpha	1.14.12.25	Oxygen	NAD+	R05247	white
+p-cumate 2,3-dioxygenase subunit alpha	1.14.12.25	Oxygen	cis-2,3-Dihydroxy-2,3-dihydro-p-cumate	R05247	white
+p-cumate 2,3-dioxygenase subunit alpha	1.14.12.25	cis-2,3-Dihydroxy-2,3-dihydro-p-cumate	H+	R05247	white
+p-cumate 2,3-dioxygenase subunit alpha	1.14.12.25	cis-2,3-Dihydroxy-2,3-dihydro-p-cumate	NADH	R05247	white
+p-cumate 2,3-dioxygenase subunit alpha	1.14.12.25	cis-2,3-Dihydroxy-2,3-dihydro-p-cumate	Oxygen	R05247	white
+p-cumate 2,3-dioxygenase subunit alpha	1.14.12.25	cis-2,3-Dihydroxy-2,3-dihydro-p-cumate	p-Cumate	R05247	white
+p-cumate 2,3-dioxygenase subunit alpha	1.14.12.25	p-Cumate	NAD+	R05247	white
+p-cumate 2,3-dioxygenase subunit alpha	1.14.12.25	p-Cumate	cis-2,3-Dihydroxy-2,3-dihydro-p-cumate	R05247	white
+p-cumate 2,3-dioxygenase subunit beta	1.14.12.25	H+	NAD+	R05247	white
+p-cumate 2,3-dioxygenase subunit beta	1.14.12.25	H+	cis-2,3-Dihydroxy-2,3-dihydro-p-cumate	R05247	white
+p-cumate 2,3-dioxygenase subunit beta	1.14.12.25	NAD+	H+	R05247	white
+p-cumate 2,3-dioxygenase subunit beta	1.14.12.25	NAD+	NADH	R05247	white
+p-cumate 2,3-dioxygenase subunit beta	1.14.12.25	NAD+	Oxygen	R05247	white
+p-cumate 2,3-dioxygenase subunit beta	1.14.12.25	NAD+	p-Cumate	R05247	white
+p-cumate 2,3-dioxygenase subunit beta	1.14.12.25	NADH	NAD+	R05247	white
+p-cumate 2,3-dioxygenase subunit beta	1.14.12.25	NADH	cis-2,3-Dihydroxy-2,3-dihydro-p-cumate	R05247	white
+p-cumate 2,3-dioxygenase subunit beta	1.14.12.25	Oxygen	NAD+	R05247	white
+p-cumate 2,3-dioxygenase subunit beta	1.14.12.25	Oxygen	cis-2,3-Dihydroxy-2,3-dihydro-p-cumate	R05247	white
+p-cumate 2,3-dioxygenase subunit beta	1.14.12.25	cis-2,3-Dihydroxy-2,3-dihydro-p-cumate	H+	R05247	white
+p-cumate 2,3-dioxygenase subunit beta	1.14.12.25	cis-2,3-Dihydroxy-2,3-dihydro-p-cumate	NADH	R05247	white
+p-cumate 2,3-dioxygenase subunit beta	1.14.12.25	cis-2,3-Dihydroxy-2,3-dihydro-p-cumate	Oxygen	R05247	white
+p-cumate 2,3-dioxygenase subunit beta	1.14.12.25	cis-2,3-Dihydroxy-2,3-dihydro-p-cumate	p-Cumate	R05247	white
+p-cumate 2,3-dioxygenase subunit beta	1.14.12.25	p-Cumate	NAD+	R05247	white
+p-cumate 2,3-dioxygenase subunit beta	1.14.12.25	p-Cumate	cis-2,3-Dihydroxy-2,3-dihydro-p-cumate	R05247	white
+p-cumic alcohol dehydrogenase	1.3.1.58	4-Isopropylbenzaldehyde	NAD+	R05232	white
+p-cumic alcohol dehydrogenase	1.3.1.58	4-Isopropylbenzaldehyde	p-Cumic alcohol	R05232	white
+p-cumic alcohol dehydrogenase	1.3.1.58	H+	NAD+	R05232	white
+p-cumic alcohol dehydrogenase	1.3.1.58	H+	p-Cumic alcohol	R05232	white
+p-cumic alcohol dehydrogenase	1.3.1.58	NAD+	4-Isopropylbenzaldehyde	R05232	white
+p-cumic alcohol dehydrogenase	1.3.1.58	NAD+	H+	R05232	white
+p-cumic alcohol dehydrogenase	1.3.1.58	NAD+	NADH	R05232	white
+p-cumic alcohol dehydrogenase	1.3.1.58	NADH	NAD+	R05232	white
+p-cumic alcohol dehydrogenase	1.3.1.58	NADH	p-Cumic alcohol	R05232	white
+p-cumic alcohol dehydrogenase	1.3.1.58	p-Cumic alcohol	4-Isopropylbenzaldehyde	R05232	white
+p-cumic alcohol dehydrogenase	1.3.1.58	p-Cumic alcohol	H+	R05232	white
+p-cumic alcohol dehydrogenase	1.3.1.58	p-Cumic alcohol	NADH	R05232	white
+p-cumic aldehyde dehydrogenase	1.18.1.3	4-Isopropylbenzaldehyde	H+	R05235	white
+p-cumic aldehyde dehydrogenase	1.18.1.3	4-Isopropylbenzaldehyde	NADH	R05235	white
+p-cumic aldehyde dehydrogenase	1.18.1.3	4-Isopropylbenzaldehyde	p-Cumate	R05235	white
+p-cumic aldehyde dehydrogenase	1.18.1.3	H+	4-Isopropylbenzaldehyde	R05235	white
+p-cumic aldehyde dehydrogenase	1.18.1.3	H+	H2O	R05235	white
+p-cumic aldehyde dehydrogenase	1.18.1.3	H+	NAD+	R05235	white
+p-cumic aldehyde dehydrogenase	1.18.1.3	H2O	H+	R05235	white
+p-cumic aldehyde dehydrogenase	1.18.1.3	H2O	NADH	R05235	white
+p-cumic aldehyde dehydrogenase	1.18.1.3	H2O	p-Cumate	R05235	white
+p-cumic aldehyde dehydrogenase	1.18.1.3	NAD+	H+	R05235	white
+p-cumic aldehyde dehydrogenase	1.18.1.3	NAD+	NADH	R05235	white
+p-cumic aldehyde dehydrogenase	1.18.1.3	NAD+	p-Cumate	R05235	white
+p-cumic aldehyde dehydrogenase	1.18.1.3	NADH	4-Isopropylbenzaldehyde	R05235	white
+p-cumic aldehyde dehydrogenase	1.18.1.3	NADH	H2O	R05235	white
+p-cumic aldehyde dehydrogenase	1.18.1.3	NADH	NAD+	R05235	white
+p-cumic aldehyde dehydrogenase	1.18.1.3	p-Cumate	4-Isopropylbenzaldehyde	R05235	white
+p-cumic aldehyde dehydrogenase	1.18.1.3	p-Cumate	H2O	R05235	white
+p-cumic aldehyde dehydrogenase	1.18.1.3	p-Cumate	NAD+	R05235	white
+p-cymene methyl-monooxygenase	1.14.15.25	H+	H2O	R05266	white
+p-cymene methyl-monooxygenase	1.14.15.25	H+	Oxidized ferredoxin	R05266	white
+p-cymene methyl-monooxygenase	1.14.15.25	H+	p-Cumic alcohol	R05266	white
+p-cymene methyl-monooxygenase	1.14.15.25	H2O	H+	R05266	white
+p-cymene methyl-monooxygenase	1.14.15.25	H2O	Oxygen	R05266	white
+p-cymene methyl-monooxygenase	1.14.15.25	H2O	Reduced ferredoxin	R05266	white
+p-cymene methyl-monooxygenase	1.14.15.25	H2O	p-Cymene	R05266	white
+p-cymene methyl-monooxygenase	1.14.15.25	Oxidized ferredoxin	H+	R05266	white
+p-cymene methyl-monooxygenase	1.14.15.25	Oxidized ferredoxin	Oxygen	R05266	white
+p-cymene methyl-monooxygenase	1.14.15.25	Oxidized ferredoxin	Reduced ferredoxin	R05266	white
+p-cymene methyl-monooxygenase	1.14.15.25	Oxidized ferredoxin	p-Cymene	R05266	white
+p-cymene methyl-monooxygenase	1.14.15.25	Oxygen	H2O	R05266	white
+p-cymene methyl-monooxygenase	1.14.15.25	Oxygen	Oxidized ferredoxin	R05266	white
+p-cymene methyl-monooxygenase	1.14.15.25	Oxygen	p-Cumic alcohol	R05266	white
+p-cymene methyl-monooxygenase	1.14.15.25	Reduced ferredoxin	H2O	R05266	white
+p-cymene methyl-monooxygenase	1.14.15.25	Reduced ferredoxin	Oxidized ferredoxin	R05266	white
+p-cymene methyl-monooxygenase	1.14.15.25	Reduced ferredoxin	p-Cumic alcohol	R05266	white
+p-cymene methyl-monooxygenase	1.14.15.25	p-Cumic alcohol	H+	R05266	white
+p-cymene methyl-monooxygenase	1.14.15.25	p-Cumic alcohol	Oxygen	R05266	white
+p-cymene methyl-monooxygenase	1.14.15.25	p-Cumic alcohol	Reduced ferredoxin	R05266	white
+p-cymene methyl-monooxygenase	1.14.15.25	p-Cumic alcohol	p-Cymene	R05266	white
+p-cymene methyl-monooxygenase	1.14.15.25	p-Cymene	H2O	R05266	white
+p-cymene methyl-monooxygenase	1.14.15.25	p-Cymene	Oxidized ferredoxin	R05266	white
+p-cymene methyl-monooxygenase	1.14.15.25	p-Cymene	p-Cumic alcohol	R05266	white
+p-cymene methyl-monooxygenase electron transfer component	1.18.1.3	H+	H2O	R05266	white
+p-cymene methyl-monooxygenase electron transfer component	1.18.1.3	H+	Oxidized ferredoxin	R05266	white
+p-cymene methyl-monooxygenase electron transfer component	1.18.1.3	H+	p-Cumic alcohol	R05266	white
+p-cymene methyl-monooxygenase electron transfer component	1.18.1.3	H2O	H+	R05266	white
+p-cymene methyl-monooxygenase electron transfer component	1.18.1.3	H2O	Oxygen	R05266	white
+p-cymene methyl-monooxygenase electron transfer component	1.18.1.3	H2O	Reduced ferredoxin	R05266	white
+p-cymene methyl-monooxygenase electron transfer component	1.18.1.3	H2O	p-Cymene	R05266	white
+p-cymene methyl-monooxygenase electron transfer component	1.18.1.3	Oxidized ferredoxin	H+	R05266	white
+p-cymene methyl-monooxygenase electron transfer component	1.18.1.3	Oxidized ferredoxin	Oxygen	R05266	white
+p-cymene methyl-monooxygenase electron transfer component	1.18.1.3	Oxidized ferredoxin	Reduced ferredoxin	R05266	white
+p-cymene methyl-monooxygenase electron transfer component	1.18.1.3	Oxidized ferredoxin	p-Cymene	R05266	white
+p-cymene methyl-monooxygenase electron transfer component	1.18.1.3	Oxygen	H2O	R05266	white
+p-cymene methyl-monooxygenase electron transfer component	1.18.1.3	Oxygen	Oxidized ferredoxin	R05266	white
+p-cymene methyl-monooxygenase electron transfer component	1.18.1.3	Oxygen	p-Cumic alcohol	R05266	white
+p-cymene methyl-monooxygenase electron transfer component	1.18.1.3	Reduced ferredoxin	H2O	R05266	white
+p-cymene methyl-monooxygenase electron transfer component	1.18.1.3	Reduced ferredoxin	Oxidized ferredoxin	R05266	white
+p-cymene methyl-monooxygenase electron transfer component	1.18.1.3	Reduced ferredoxin	p-Cumic alcohol	R05266	white
+p-cymene methyl-monooxygenase electron transfer component	1.18.1.3	p-Cumic alcohol	H+	R05266	white
+p-cymene methyl-monooxygenase electron transfer component	1.18.1.3	p-Cumic alcohol	Oxygen	R05266	white
+p-cymene methyl-monooxygenase electron transfer component	1.18.1.3	p-Cumic alcohol	Reduced ferredoxin	R05266	white
+p-cymene methyl-monooxygenase electron transfer component	1.18.1.3	p-Cumic alcohol	p-Cymene	R05266	white
+p-cymene methyl-monooxygenase electron transfer component	1.18.1.3	p-Cymene	H2O	R05266	white
+p-cymene methyl-monooxygenase electron transfer component	1.18.1.3	p-Cymene	Oxidized ferredoxin	R05266	white
+p-cymene methyl-monooxygenase electron transfer component	1.18.1.3	p-Cymene	p-Cumic alcohol	R05266	white
+toluene methyl-monooxygenase	1.14.15.26	Benzyl alcohol	H+	R02550	white
+toluene methyl-monooxygenase	1.14.15.26	Benzyl alcohol	Oxygen	R02550	white
+toluene methyl-monooxygenase	1.14.15.26	Benzyl alcohol	Reduced ferredoxin	R02550	white
+toluene methyl-monooxygenase	1.14.15.26	Benzyl alcohol	Toluene	R02550	white
+toluene methyl-monooxygenase	1.14.15.26	H+	Benzyl alcohol	R02550	white
+toluene methyl-monooxygenase	1.14.15.26	H+	H2O	R02550	white
+toluene methyl-monooxygenase	1.14.15.26	H+	Oxidized ferredoxin	R02550	white
+toluene methyl-monooxygenase	1.14.15.26	H2O	H+	R02550	white
+toluene methyl-monooxygenase	1.14.15.26	H2O	Oxygen	R02550	white
+toluene methyl-monooxygenase	1.14.15.26	H2O	Reduced ferredoxin	R02550	white
+toluene methyl-monooxygenase	1.14.15.26	H2O	Toluene	R02550	white
+toluene methyl-monooxygenase	1.14.15.26	Oxidized ferredoxin	H+	R02550	white
+toluene methyl-monooxygenase	1.14.15.26	Oxidized ferredoxin	Oxygen	R02550	white
+toluene methyl-monooxygenase	1.14.15.26	Oxidized ferredoxin	Reduced ferredoxin	R02550	white
+toluene methyl-monooxygenase	1.14.15.26	Oxidized ferredoxin	Toluene	R02550	white
+toluene methyl-monooxygenase	1.14.15.26	Oxygen	Benzyl alcohol	R02550	white
+toluene methyl-monooxygenase	1.14.15.26	Oxygen	H2O	R02550	white
+toluene methyl-monooxygenase	1.14.15.26	Oxygen	Oxidized ferredoxin	R02550	white
+toluene methyl-monooxygenase	1.14.15.26	Reduced ferredoxin	Benzyl alcohol	R02550	white
+toluene methyl-monooxygenase	1.14.15.26	Reduced ferredoxin	H2O	R02550	white
+toluene methyl-monooxygenase	1.14.15.26	Reduced ferredoxin	Oxidized ferredoxin	R02550	white
+toluene methyl-monooxygenase	1.14.15.26	Toluene	Benzyl alcohol	R02550	white
+toluene methyl-monooxygenase	1.14.15.26	Toluene	H2O	R02550	white
+toluene methyl-monooxygenase	1.14.15.26	Toluene	Oxidized ferredoxin	R02550	white
+toluene methyl-monooxygenase electron transfer component	1.18.1.3	Benzyl alcohol	H+	R02550	white
+toluene methyl-monooxygenase electron transfer component	1.18.1.3	Benzyl alcohol	Oxygen	R02550	white
+toluene methyl-monooxygenase electron transfer component	1.18.1.3	Benzyl alcohol	Reduced ferredoxin	R02550	white
+toluene methyl-monooxygenase electron transfer component	1.18.1.3	Benzyl alcohol	Toluene	R02550	white
+toluene methyl-monooxygenase electron transfer component	1.18.1.3	H+	Benzyl alcohol	R02550	white
+toluene methyl-monooxygenase electron transfer component	1.18.1.3	H+	H2O	R02550	white
+toluene methyl-monooxygenase electron transfer component	1.18.1.3	H+	Oxidized ferredoxin	R02550	white
+toluene methyl-monooxygenase electron transfer component	1.18.1.3	H2O	H+	R02550	white
+toluene methyl-monooxygenase electron transfer component	1.18.1.3	H2O	Oxygen	R02550	white
+toluene methyl-monooxygenase electron transfer component	1.18.1.3	H2O	Reduced ferredoxin	R02550	white
+toluene methyl-monooxygenase electron transfer component	1.18.1.3	H2O	Toluene	R02550	white
+toluene methyl-monooxygenase electron transfer component	1.18.1.3	Oxidized ferredoxin	H+	R02550	white
+toluene methyl-monooxygenase electron transfer component	1.18.1.3	Oxidized ferredoxin	Oxygen	R02550	white
+toluene methyl-monooxygenase electron transfer component	1.18.1.3	Oxidized ferredoxin	Reduced ferredoxin	R02550	white
+toluene methyl-monooxygenase electron transfer component	1.18.1.3	Oxidized ferredoxin	Toluene	R02550	white
+toluene methyl-monooxygenase electron transfer component	1.18.1.3	Oxygen	Benzyl alcohol	R02550	white
+toluene methyl-monooxygenase electron transfer component	1.18.1.3	Oxygen	H2O	R02550	white
+toluene methyl-monooxygenase electron transfer component	1.18.1.3	Oxygen	Oxidized ferredoxin	R02550	white
+toluene methyl-monooxygenase electron transfer component	1.18.1.3	Reduced ferredoxin	Benzyl alcohol	R02550	white
+toluene methyl-monooxygenase electron transfer component	1.18.1.3	Reduced ferredoxin	H2O	R02550	white
+toluene methyl-monooxygenase electron transfer component	1.18.1.3	Reduced ferredoxin	Oxidized ferredoxin	R02550	white
+toluene methyl-monooxygenase electron transfer component	1.18.1.3	Toluene	Benzyl alcohol	R02550	white
+toluene methyl-monooxygenase electron transfer component	1.18.1.3	Toluene	H2O	R02550	white
+toluene methyl-monooxygenase electron transfer component	1.18.1.3	Toluene	Oxidized ferredoxin	R02550	white

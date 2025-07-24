@@ -1,36 +1,37 @@
-enzyme_name	EC	source	target	color
-D-galactosaminyltransferase	2.4.2.-	G10619	G13121	white
-D-galactosaminyltransferase	2.4.2.-	G10619	G13125	white
-D-galactosaminyltransferase	2.4.2.-	G13121	G10619	white
-D-galactosaminyltransferase	2.4.2.-	G13121	G13122	white
-D-galactosaminyltransferase	2.4.2.-	G13122	G13121	white
-D-galactosaminyltransferase	2.4.2.-	G13122	G13125	white
-D-galactosaminyltransferase	2.4.2.-	G13125	G10619	white
-D-galactosaminyltransferase	2.4.2.-	G13125	G13122	white
-N-acetylglucosaminyl-diphospho-decaprenol L-rhamnosyltransferase	2.4.1.289	G13118	G13119	green
-N-acetylglucosaminyl-diphospho-decaprenol L-rhamnosyltransferase	2.4.1.289	G13118	dTDP	green
-N-acetylglucosaminyl-diphospho-decaprenol L-rhamnosyltransferase	2.4.1.289	dTDP-L-rhamnose	G13119	green
-N-acetylglucosaminyl-diphospho-decaprenol L-rhamnosyltransferase	2.4.1.289	dTDP-L-rhamnose	dTDP	green
-UDP-GlcNAc:undecaprenyl-phosphate/decaprenyl-phosphate GlcNAc-1-phosphate transferase	2.7.8.33	Decaprenol phosphate	G13118	green
-UDP-GlcNAc:undecaprenyl-phosphate/decaprenyl-phosphate GlcNAc-1-phosphate transferase	2.7.8.33	Decaprenol phosphate	UMP	green
-UDP-GlcNAc:undecaprenyl-phosphate/decaprenyl-phosphate GlcNAc-1-phosphate transferase	2.7.8.33	G10610	G13118	green
-UDP-GlcNAc:undecaprenyl-phosphate/decaprenyl-phosphate GlcNAc-1-phosphate transferase	2.7.8.33	G10610	UMP	green
-diacylglycerol O-acyltransferase / trehalose O-mycolyltransferase / mycolyltransferase Ag85	2.3.1.20	AGP	alpha,alpha-Trehalose	green
-diacylglycerol O-acyltransferase / trehalose O-mycolyltransferase / mycolyltransferase Ag85	2.3.1.20	AGP	mAGP	green
-diacylglycerol O-acyltransferase / trehalose O-mycolyltransferase / mycolyltransferase Ag85	2.3.1.20	Trehalose monomycolate	alpha,alpha-Trehalose	green
-diacylglycerol O-acyltransferase / trehalose O-mycolyltransferase / mycolyltransferase Ag85	2.3.1.20	Trehalose monomycolate	mAGP	green
-galactofuranosylgalactofuranosylrhamnosyl-N-acetylglucosaminyl-diphospho-decaprenol beta-1,5/1,6-galactofuranosyltransferase	2.4.1.288	G13121	G10619	green
-galactofuranosylgalactofuranosylrhamnosyl-N-acetylglucosaminyl-diphospho-decaprenol beta-1,5/1,6-galactofuranosyltransferase	2.4.1.288	G13121	G13122	green
-galactofuranosylgalactofuranosylrhamnosyl-N-acetylglucosaminyl-diphospho-decaprenol beta-1,5/1,6-galactofuranosyltransferase	2.4.1.288	G13125	G10619	green
-galactofuranosylgalactofuranosylrhamnosyl-N-acetylglucosaminyl-diphospho-decaprenol beta-1,5/1,6-galactofuranosyltransferase	2.4.1.288	G13125	G13122	green
-rhamnopyranosyl-N-acetylglucosaminyl-diphospho-decaprenol beta-1,3/1,4-galactofuranosyltransferase	2.4.1.287	G13119	G10619	green
-rhamnopyranosyl-N-acetylglucosaminyl-diphospho-decaprenol beta-1,3/1,4-galactofuranosyltransferase	2.4.1.287	G13119	G13120	green
-rhamnopyranosyl-N-acetylglucosaminyl-diphospho-decaprenol beta-1,3/1,4-galactofuranosyltransferase	2.4.1.287	G13120	G10619	green
-rhamnopyranosyl-N-acetylglucosaminyl-diphospho-decaprenol beta-1,3/1,4-galactofuranosyltransferase	2.4.1.287	G13120	G13121	green
-rhamnopyranosyl-N-acetylglucosaminyl-diphospho-decaprenol beta-1,3/1,4-galactofuranosyltransferase	2.4.1.287	G13125	G10619	green
-rhamnopyranosyl-N-acetylglucosaminyl-diphospho-decaprenol beta-1,3/1,4-galactofuranosyltransferase	2.4.1.287	G13125	G13120	green
-rhamnopyranosyl-N-acetylglucosaminyl-diphospho-decaprenol beta-1,3/1,4-galactofuranosyltransferase	2.4.1.287	G13125	G13121	green
-roa:Pd630_LPD02096		AGP	alpha,alpha-Trehalose	green
-roa:Pd630_LPD02096		AGP	mAGP	green
-roa:Pd630_LPD02096		Trehalose monomycolate	alpha,alpha-Trehalose	green
-roa:Pd630_LPD02096		Trehalose monomycolate	mAGP	green
+enzyme_name	EC	source	target	reaction	color
+D-galactosaminyltransferase	2.4.2.-	G10619	G13121	R12080	white
+D-galactosaminyltransferase	2.4.2.-	G10619	G13125	R12080	white
+D-galactosaminyltransferase	2.4.2.-	G13121	G10619	R12080	white
+D-galactosaminyltransferase	2.4.2.-	G13121	G13122	R12080	white
+D-galactosaminyltransferase	2.4.2.-	G13122	G13121	R12080	white
+D-galactosaminyltransferase	2.4.2.-	G13122	G13125	R12080	white
+D-galactosaminyltransferase	2.4.2.-	G13125	G10619	R12080	white
+D-galactosaminyltransferase	2.4.2.-	G13125	G13122	R12080	white
+N-acetylglucosaminyl-diphospho-decaprenol L-rhamnosyltransferase	2.4.1.289	G13118	G13119	R12077	green
+N-acetylglucosaminyl-diphospho-decaprenol L-rhamnosyltransferase	2.4.1.289	G13118	dTDP	R12077	green
+N-acetylglucosaminyl-diphospho-decaprenol L-rhamnosyltransferase	2.4.1.289	dTDP-L-rhamnose	G13119	R12077	green
+N-acetylglucosaminyl-diphospho-decaprenol L-rhamnosyltransferase	2.4.1.289	dTDP-L-rhamnose	dTDP	R12077	green
+UDP-GlcNAc:undecaprenyl-phosphate/decaprenyl-phosphate GlcNAc-1-phosphate transferase	2.7.8.33	Decaprenol phosphate	G13118	R12075	green
+UDP-GlcNAc:undecaprenyl-phosphate/decaprenyl-phosphate GlcNAc-1-phosphate transferase	2.7.8.33	Decaprenol phosphate	UMP	R12075	green
+UDP-GlcNAc:undecaprenyl-phosphate/decaprenyl-phosphate GlcNAc-1-phosphate transferase	2.7.8.33	G10610	G13118	R12075	green
+UDP-GlcNAc:undecaprenyl-phosphate/decaprenyl-phosphate GlcNAc-1-phosphate transferase	2.7.8.33	G10610	UMP	R12075	green
+diacylglycerol O-acyltransferase / trehalose O-mycolyltransferase / mycolyltransferase Ag85	2.3.1.20	AGP	alpha,alpha-Trehalose	R13278	green
+diacylglycerol O-acyltransferase / trehalose O-mycolyltransferase / mycolyltransferase Ag85	2.3.1.20	AGP	mAGP	R13278	green
+diacylglycerol O-acyltransferase / trehalose O-mycolyltransferase / mycolyltransferase Ag85	2.3.1.20	Trehalose monomycolate	alpha,alpha-Trehalose	R13278	green
+diacylglycerol O-acyltransferase / trehalose O-mycolyltransferase / mycolyltransferase Ag85	2.3.1.20	Trehalose monomycolate	mAGP	R13278	green
+galactofuranosylgalactofuranosylrhamnosyl-N-acetylglucosaminyl-diphospho-decaprenol beta-1,5/1,6-galactofuranosyltransferase	2.4.1.288	G13121	G10619	R12080	green
+galactofuranosylgalactofuranosylrhamnosyl-N-acetylglucosaminyl-diphospho-decaprenol beta-1,5/1,6-galactofuranosyltransferase	2.4.1.288	G13121	G13122	R12080	green
+galactofuranosylgalactofuranosylrhamnosyl-N-acetylglucosaminyl-diphospho-decaprenol beta-1,5/1,6-galactofuranosyltransferase	2.4.1.288	G13125	G10619	R12080	green
+galactofuranosylgalactofuranosylrhamnosyl-N-acetylglucosaminyl-diphospho-decaprenol beta-1,5/1,6-galactofuranosyltransferase	2.4.1.288	G13125	G13122	R12080	green
+rhamnopyranosyl-N-acetylglucosaminyl-diphospho-decaprenol beta-1,3/1,4-galactofuranosyltransferase	2.4.1.287	G13119	G10619	R12078	green
+rhamnopyranosyl-N-acetylglucosaminyl-diphospho-decaprenol beta-1,3/1,4-galactofuranosyltransferase	2.4.1.287	G13119	G13120	R12078	green
+rhamnopyranosyl-N-acetylglucosaminyl-diphospho-decaprenol beta-1,3/1,4-galactofuranosyltransferase	2.4.1.287	G13120	G10619	R12079	green
+rhamnopyranosyl-N-acetylglucosaminyl-diphospho-decaprenol beta-1,3/1,4-galactofuranosyltransferase	2.4.1.287	G13120	G13121	R12079	green
+rhamnopyranosyl-N-acetylglucosaminyl-diphospho-decaprenol beta-1,3/1,4-galactofuranosyltransferase	2.4.1.287	G13125	G10619	R12078	green
+rhamnopyranosyl-N-acetylglucosaminyl-diphospho-decaprenol beta-1,3/1,4-galactofuranosyltransferase	2.4.1.287	G13125	G10619	R12079	green
+rhamnopyranosyl-N-acetylglucosaminyl-diphospho-decaprenol beta-1,3/1,4-galactofuranosyltransferase	2.4.1.287	G13125	G13120	R12078	green
+rhamnopyranosyl-N-acetylglucosaminyl-diphospho-decaprenol beta-1,3/1,4-galactofuranosyltransferase	2.4.1.287	G13125	G13121	R12079	green
+roa:Pd630_LPD02096		AGP	alpha,alpha-Trehalose	R13278	green
+roa:Pd630_LPD02096		AGP	mAGP	R13278	green
+roa:Pd630_LPD02096		Trehalose monomycolate	alpha,alpha-Trehalose	R13278	green
+roa:Pd630_LPD02096		Trehalose monomycolate	mAGP	R13278	green

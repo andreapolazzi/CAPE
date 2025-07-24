@@ -1,217 +1,220 @@
-enzyme_name	EC	source	target	color
-5-methyltetrahydrofolate--homocysteine methyltransferase	2.1.1.13	5-Methyltetrahydropteroyltri-L-glutamate	L-Selenomethionine	green
-5-methyltetrahydrofolate--homocysteine methyltransferase	2.1.1.13	5-Methyltetrahydropteroyltri-L-glutamate	Tetrahydropteroyltri-L-glutamate	green
-5-methyltetrahydrofolate--homocysteine methyltransferase	2.1.1.13	Selenohomocysteine	L-Selenomethionine	green
-5-methyltetrahydrofolate--homocysteine methyltransferase	2.1.1.13	Selenohomocysteine	Tetrahydropteroyltri-L-glutamate	green
-5-methyltetrahydropteroyltriglutamate--homocysteine methyltransferase	2.1.1.14	5-Methyltetrahydropteroyltri-L-glutamate	L-Selenomethionine	green
-5-methyltetrahydropteroyltriglutamate--homocysteine methyltransferase	2.1.1.14	5-Methyltetrahydropteroyltri-L-glutamate	Tetrahydropteroyltri-L-glutamate	green
-5-methyltetrahydropteroyltriglutamate--homocysteine methyltransferase	2.1.1.14	Selenohomocysteine	L-Selenomethionine	green
-5-methyltetrahydropteroyltriglutamate--homocysteine methyltransferase	2.1.1.14	Selenohomocysteine	Tetrahydropteroyltri-L-glutamate	green
-L-seryl-tRNA(Ser) seleniumtransferase	2.9.1.1	L-Selenocysteinyl-tRNA(Sec)	L-Seryl-tRNA(Sec)	white
-L-seryl-tRNA(Ser) seleniumtransferase	2.9.1.1	L-Selenocysteinyl-tRNA(Sec)	Selenophosphoric acid	white
-L-seryl-tRNA(Ser) seleniumtransferase	2.9.1.1	L-Seryl-tRNA(Sec)	L-Selenocysteinyl-tRNA(Sec)	white
-L-seryl-tRNA(Ser) seleniumtransferase	2.9.1.1	L-Seryl-tRNA(Sec)	Orthophosphate	white
-L-seryl-tRNA(Ser) seleniumtransferase	2.9.1.1	Orthophosphate	L-Seryl-tRNA(Sec)	white
-L-seryl-tRNA(Ser) seleniumtransferase	2.9.1.1	Orthophosphate	Selenophosphoric acid	white
-L-seryl-tRNA(Ser) seleniumtransferase	2.9.1.1	Selenophosphoric acid	L-Selenocysteinyl-tRNA(Sec)	white
-L-seryl-tRNA(Ser) seleniumtransferase	2.9.1.1	Selenophosphoric acid	Orthophosphate	white
-O-phospho-L-seryl-tRNASec:L-selenocysteinyl-tRNA synthase	2.9.1.2	H2O	L-Selenocysteinyl-tRNA(Sec)	white
-O-phospho-L-seryl-tRNASec:L-selenocysteinyl-tRNA synthase	2.9.1.2	H2O	Orthophosphate	white
-O-phospho-L-seryl-tRNASec:L-selenocysteinyl-tRNA synthase	2.9.1.2	L-Selenocysteinyl-tRNA(Sec)	H2O	white
-O-phospho-L-seryl-tRNASec:L-selenocysteinyl-tRNA synthase	2.9.1.2	L-Selenocysteinyl-tRNA(Sec)	O-Phosphoseryl-tRNA(Sec)	white
-O-phospho-L-seryl-tRNASec:L-selenocysteinyl-tRNA synthase	2.9.1.2	L-Selenocysteinyl-tRNA(Sec)	Selenophosphoric acid	white
-O-phospho-L-seryl-tRNASec:L-selenocysteinyl-tRNA synthase	2.9.1.2	O-Phosphoseryl-tRNA(Sec)	L-Selenocysteinyl-tRNA(Sec)	white
-O-phospho-L-seryl-tRNASec:L-selenocysteinyl-tRNA synthase	2.9.1.2	O-Phosphoseryl-tRNA(Sec)	Orthophosphate	white
-O-phospho-L-seryl-tRNASec:L-selenocysteinyl-tRNA synthase	2.9.1.2	Orthophosphate	H2O	white
-O-phospho-L-seryl-tRNASec:L-selenocysteinyl-tRNA synthase	2.9.1.2	Orthophosphate	O-Phosphoseryl-tRNA(Sec)	white
-O-phospho-L-seryl-tRNASec:L-selenocysteinyl-tRNA synthase	2.9.1.2	Orthophosphate	Selenophosphoric acid	white
-O-phospho-L-seryl-tRNASec:L-selenocysteinyl-tRNA synthase	2.9.1.2	Selenophosphoric acid	L-Selenocysteinyl-tRNA(Sec)	white
-O-phospho-L-seryl-tRNASec:L-selenocysteinyl-tRNA synthase	2.9.1.2	Selenophosphoric acid	Orthophosphate	white
-O-phosphoseryl-tRNA(Sec) kinase	2.7.1.164	ADP	ATP	white
-O-phosphoseryl-tRNA(Sec) kinase	2.7.1.164	ADP	L-Seryl-tRNA(Sec)	white
-O-phosphoseryl-tRNA(Sec) kinase	2.7.1.164	ATP	ADP	white
-O-phosphoseryl-tRNA(Sec) kinase	2.7.1.164	ATP	O-Phosphoseryl-tRNA(Sec)	white
-O-phosphoseryl-tRNA(Sec) kinase	2.7.1.164	L-Seryl-tRNA(Sec)	ADP	white
-O-phosphoseryl-tRNA(Sec) kinase	2.7.1.164	L-Seryl-tRNA(Sec)	O-Phosphoseryl-tRNA(Sec)	white
-O-phosphoseryl-tRNA(Sec) kinase	2.7.1.164	O-Phosphoseryl-tRNA(Sec)	ATP	white
-O-phosphoseryl-tRNA(Sec) kinase	2.7.1.164	O-Phosphoseryl-tRNA(Sec)	L-Seryl-tRNA(Sec)	white
-bifunctional enzyme CysN/CysC	2.7.7.4	ATP	Adenylylselenate	green
-bifunctional enzyme CysN/CysC	2.7.7.4	ATP	Diphosphate	green
-bifunctional enzyme CysN/CysC	2.7.7.4	Selenate	Adenylylselenate	green
-bifunctional enzyme CysN/CysC	2.7.7.4	Selenate	Diphosphate	green
-cystathionine gamma-lyase	4.4.1.1	H2O	2-Oxobutanoate	green
-cystathionine gamma-lyase	4.4.1.1	H2O	Ammonia	green
-cystathionine gamma-lyase	4.4.1.1	H2O	Methaneselenol	green
-cystathionine gamma-lyase	4.4.1.1	H2O	Pyruvate	green
-cystathionine gamma-lyase	4.4.1.1	L-Selenomethionine	2-Oxobutanoate	green
-cystathionine gamma-lyase	4.4.1.1	L-Selenomethionine	Ammonia	green
-cystathionine gamma-lyase	4.4.1.1	L-Selenomethionine	Methaneselenol	green
-cystathionine gamma-lyase	4.4.1.1	Se-Methyl-L-selenocysteine	Ammonia	green
-cystathionine gamma-lyase	4.4.1.1	Se-Methyl-L-selenocysteine	Methaneselenol	green
-cystathionine gamma-lyase	4.4.1.1	Se-Methyl-L-selenocysteine	Pyruvate	green
-cystathionine gamma-synthase	2.5.1.48	L-Selenocysteine	L-Selenocystathionine	green
-cystathionine gamma-synthase	2.5.1.48	L-Selenocysteine	Orthophosphate	green
-cystathionine gamma-synthase	2.5.1.48	L-Selenocysteine	Succinate	green
-cystathionine gamma-synthase	2.5.1.48	O-Phosphorylhomoserine	L-Selenocystathionine	green
-cystathionine gamma-synthase	2.5.1.48	O-Phosphorylhomoserine	Orthophosphate	green
-cystathionine gamma-synthase	2.5.1.48	O-Succinyl-L-homoserine	L-Selenocystathionine	green
-cystathionine gamma-synthase	2.5.1.48	O-Succinyl-L-homoserine	Succinate	green
-cysteine desulfurase / selenocysteine lyase	2.8.1.7	L-Selenocysteine	Acceptor	green
-cysteine desulfurase / selenocysteine lyase	2.8.1.7	L-Selenocysteine	Hydrogen selenide	green
-cysteine desulfurase / selenocysteine lyase	2.8.1.7	L-Selenocysteine	L-Alanine	green
-cysteine desulfurase / selenocysteine lyase	2.8.1.7	Reduced acceptor	Acceptor	green
-cysteine desulfurase / selenocysteine lyase	2.8.1.7	Reduced acceptor	Hydrogen selenide	green
-cysteine desulfurase / selenocysteine lyase	2.8.1.7	Reduced acceptor	L-Alanine	green
-cysteine-S-conjugate beta-lyase	4.4.1.13	H2O	Ammonia	green
-cysteine-S-conjugate beta-lyase	4.4.1.13	H2O	Pyruvate	green
-cysteine-S-conjugate beta-lyase	4.4.1.13	H2O	Selenohomocysteine	green
-cysteine-S-conjugate beta-lyase	4.4.1.13	L-Selenocystathionine	Ammonia	green
-cysteine-S-conjugate beta-lyase	4.4.1.13	L-Selenocystathionine	Pyruvate	green
-cysteine-S-conjugate beta-lyase	4.4.1.13	L-Selenocystathionine	Selenohomocysteine	green
-kynurenine---oxoglutarate transaminase / cysteine-S-conjugate beta-lyase / glutamine---phenylpyruvate transaminase	2.6.1.7	Ammonia	H2O	white
-kynurenine---oxoglutarate transaminase / cysteine-S-conjugate beta-lyase / glutamine---phenylpyruvate transaminase	2.6.1.7	Ammonia	L-Cysteine	white
-kynurenine---oxoglutarate transaminase / cysteine-S-conjugate beta-lyase / glutamine---phenylpyruvate transaminase	2.6.1.7	H2O	Ammonia	white
-kynurenine---oxoglutarate transaminase / cysteine-S-conjugate beta-lyase / glutamine---phenylpyruvate transaminase	2.6.1.7	H2O	Hydrogen sulfide	white
-kynurenine---oxoglutarate transaminase / cysteine-S-conjugate beta-lyase / glutamine---phenylpyruvate transaminase	2.6.1.7	H2O	Pyruvate	white
-kynurenine---oxoglutarate transaminase / cysteine-S-conjugate beta-lyase / glutamine---phenylpyruvate transaminase	2.6.1.7	Hydrogen sulfide	H2O	white
-kynurenine---oxoglutarate transaminase / cysteine-S-conjugate beta-lyase / glutamine---phenylpyruvate transaminase	2.6.1.7	Hydrogen sulfide	L-Cysteine	white
-kynurenine---oxoglutarate transaminase / cysteine-S-conjugate beta-lyase / glutamine---phenylpyruvate transaminase	2.6.1.7	L-Cysteine	Ammonia	white
-kynurenine---oxoglutarate transaminase / cysteine-S-conjugate beta-lyase / glutamine---phenylpyruvate transaminase	2.6.1.7	L-Cysteine	Hydrogen sulfide	white
-kynurenine---oxoglutarate transaminase / cysteine-S-conjugate beta-lyase / glutamine---phenylpyruvate transaminase	2.6.1.7	L-Cysteine	Pyruvate	white
-kynurenine---oxoglutarate transaminase / cysteine-S-conjugate beta-lyase / glutamine---phenylpyruvate transaminase	2.6.1.7	Pyruvate	H2O	white
-kynurenine---oxoglutarate transaminase / cysteine-S-conjugate beta-lyase / glutamine---phenylpyruvate transaminase	2.6.1.7	Pyruvate	L-Cysteine	white
-methionine S-methyltransferase	2.1.1.12	L-Selenomethionine	S-Adenosyl-L-homocysteine	white
-methionine S-methyltransferase	2.1.1.12	L-Selenomethionine	Se-Methylselenomethionine	white
-methionine S-methyltransferase	2.1.1.12	S-Adenosyl-L-homocysteine	L-Selenomethionine	white
-methionine S-methyltransferase	2.1.1.12	S-Adenosyl-L-homocysteine	S-Adenosyl-L-methionine	white
-methionine S-methyltransferase	2.1.1.12	S-Adenosyl-L-methionine	S-Adenosyl-L-homocysteine	white
-methionine S-methyltransferase	2.1.1.12	S-Adenosyl-L-methionine	Se-Methylselenomethionine	white
-methionine S-methyltransferase	2.1.1.12	Se-Methylselenomethionine	L-Selenomethionine	white
-methionine S-methyltransferase	2.1.1.12	Se-Methylselenomethionine	S-Adenosyl-L-methionine	white
-methionine-gamma-lyase	4.4.1.11	2-Oxobutanoate	H2O	white
-methionine-gamma-lyase	4.4.1.11	2-Oxobutanoate	L-Methionine	white
-methionine-gamma-lyase	4.4.1.11	Ammonia	H2O	white
-methionine-gamma-lyase	4.4.1.11	Ammonia	L-Methionine	white
-methionine-gamma-lyase	4.4.1.11	H2O	2-Oxobutanoate	white
-methionine-gamma-lyase	4.4.1.11	H2O	Ammonia	white
-methionine-gamma-lyase	4.4.1.11	H2O	Methanethiol	white
-methionine-gamma-lyase	4.4.1.11	L-Methionine	2-Oxobutanoate	white
-methionine-gamma-lyase	4.4.1.11	L-Methionine	Ammonia	white
-methionine-gamma-lyase	4.4.1.11	L-Methionine	Methanethiol	white
-methionine-gamma-lyase	4.4.1.11	Methanethiol	H2O	white
-methionine-gamma-lyase	4.4.1.11	Methanethiol	L-Methionine	white
-methionyl-tRNA synthetase	6.1.1.10	ATP	AMP	green
-methionyl-tRNA synthetase	6.1.1.10	ATP	Diphosphate	green
-methionyl-tRNA synthetase	6.1.1.10	ATP	Selenomethionyl-tRNA(Met)	green
-methionyl-tRNA synthetase	6.1.1.10	L-Selenomethionine	AMP	green
-methionyl-tRNA synthetase	6.1.1.10	L-Selenomethionine	Diphosphate	green
-methionyl-tRNA synthetase	6.1.1.10	L-Selenomethionine	Selenomethionyl-tRNA(Met)	green
-methionyl-tRNA synthetase	6.1.1.10	tRNA(Met)	AMP	green
-methionyl-tRNA synthetase	6.1.1.10	tRNA(Met)	Diphosphate	green
-methionyl-tRNA synthetase	6.1.1.10	tRNA(Met)	Selenomethionyl-tRNA(Met)	green
-methyltransferase	2.1.1.49	N-Methyltryptamine	S-Adenosyl-L-methionine	white
-methyltransferase	2.1.1.49	N-Methyltryptamine	Tryptamine	white
-methyltransferase	2.1.1.49	S-Adenosyl-L-homocysteine	S-Adenosyl-L-methionine	white
-methyltransferase	2.1.1.49	S-Adenosyl-L-homocysteine	Tryptamine	white
-methyltransferase	2.1.1.49	S-Adenosyl-L-methionine	N-Methyltryptamine	white
-methyltransferase	2.1.1.49	S-Adenosyl-L-methionine	S-Adenosyl-L-homocysteine	white
-methyltransferase	2.1.1.49	Tryptamine	N-Methyltryptamine	white
-methyltransferase	2.1.1.49	Tryptamine	S-Adenosyl-L-homocysteine	white
-putative selenate reductase molybdopterin-binding subunit	6.1.1.10	Ferricytochrome c	Ferrocytochrome c	green
-putative selenate reductase molybdopterin-binding subunit	6.1.1.10	Ferricytochrome c	Selenate	green
-putative selenate reductase molybdopterin-binding subunit	6.1.1.10	H2O	Ferrocytochrome c	green
-putative selenate reductase molybdopterin-binding subunit	6.1.1.10	H2O	Selenate	green
-putative selenate reductase molybdopterin-binding subunit	6.1.1.10	Selenite	Ferrocytochrome c	green
-putative selenate reductase molybdopterin-binding subunit	6.1.1.10	Selenite	Selenate	green
-selenate reductase (quinol) subunit A	1.97.1.14	H+	Hydroquinone	white
-selenate reductase (quinol) subunit A	1.97.1.14	H+	Selenate	white
-selenate reductase (quinol) subunit A	1.97.1.14	H2O	Hydroquinone	white
-selenate reductase (quinol) subunit A	1.97.1.14	H2O	Selenate	white
-selenate reductase (quinol) subunit A	1.97.1.14	Hydroquinone	H+	white
-selenate reductase (quinol) subunit A	1.97.1.14	Hydroquinone	H2O	white
-selenate reductase (quinol) subunit A	1.97.1.14	Hydroquinone	Selenite	white
-selenate reductase (quinol) subunit A	1.97.1.14	Hydroquinone	p-Benzoquinone	white
-selenate reductase (quinol) subunit A	1.97.1.14	Selenate	H+	white
-selenate reductase (quinol) subunit A	1.97.1.14	Selenate	H2O	white
-selenate reductase (quinol) subunit A	1.97.1.14	Selenate	Selenite	white
-selenate reductase (quinol) subunit A	1.97.1.14	Selenate	p-Benzoquinone	white
-selenate reductase (quinol) subunit A	1.97.1.14	Selenite	Hydroquinone	white
-selenate reductase (quinol) subunit A	1.97.1.14	Selenite	Selenate	white
-selenate reductase (quinol) subunit A	1.97.1.14	p-Benzoquinone	Hydroquinone	white
-selenate reductase (quinol) subunit A	1.97.1.14	p-Benzoquinone	Selenate	white
-selenate reductase (quinol) subunit B	1.97.1.14	H+	Hydroquinone	white
-selenate reductase (quinol) subunit B	1.97.1.14	H+	Selenate	white
-selenate reductase (quinol) subunit B	1.97.1.14	H2O	Hydroquinone	white
-selenate reductase (quinol) subunit B	1.97.1.14	H2O	Selenate	white
-selenate reductase (quinol) subunit B	1.97.1.14	Hydroquinone	H+	white
-selenate reductase (quinol) subunit B	1.97.1.14	Hydroquinone	H2O	white
-selenate reductase (quinol) subunit B	1.97.1.14	Hydroquinone	Selenite	white
-selenate reductase (quinol) subunit B	1.97.1.14	Hydroquinone	p-Benzoquinone	white
-selenate reductase (quinol) subunit B	1.97.1.14	Selenate	H+	white
-selenate reductase (quinol) subunit B	1.97.1.14	Selenate	H2O	white
-selenate reductase (quinol) subunit B	1.97.1.14	Selenate	Selenite	white
-selenate reductase (quinol) subunit B	1.97.1.14	Selenate	p-Benzoquinone	white
-selenate reductase (quinol) subunit B	1.97.1.14	Selenite	Hydroquinone	white
-selenate reductase (quinol) subunit B	1.97.1.14	Selenite	Selenate	white
-selenate reductase (quinol) subunit B	1.97.1.14	p-Benzoquinone	Hydroquinone	white
-selenate reductase (quinol) subunit B	1.97.1.14	p-Benzoquinone	Selenate	white
-selenate reductase (quinol) subunit C	1.97.1.14	H+	Hydroquinone	white
-selenate reductase (quinol) subunit C	1.97.1.14	H+	Selenate	white
-selenate reductase (quinol) subunit C	1.97.1.14	H2O	Hydroquinone	white
-selenate reductase (quinol) subunit C	1.97.1.14	H2O	Selenate	white
-selenate reductase (quinol) subunit C	1.97.1.14	Hydroquinone	H+	white
-selenate reductase (quinol) subunit C	1.97.1.14	Hydroquinone	H2O	white
-selenate reductase (quinol) subunit C	1.97.1.14	Hydroquinone	Selenite	white
-selenate reductase (quinol) subunit C	1.97.1.14	Hydroquinone	p-Benzoquinone	white
-selenate reductase (quinol) subunit C	1.97.1.14	Selenate	H+	white
-selenate reductase (quinol) subunit C	1.97.1.14	Selenate	H2O	white
-selenate reductase (quinol) subunit C	1.97.1.14	Selenate	Selenite	white
-selenate reductase (quinol) subunit C	1.97.1.14	Selenate	p-Benzoquinone	white
-selenate reductase (quinol) subunit C	1.97.1.14	Selenite	Hydroquinone	white
-selenate reductase (quinol) subunit C	1.97.1.14	Selenite	Selenate	white
-selenate reductase (quinol) subunit C	1.97.1.14	p-Benzoquinone	Hydroquinone	white
-selenate reductase (quinol) subunit C	1.97.1.14	p-Benzoquinone	Selenate	white
-selenide, water dikinase	2.7.9.3	AMP	ATP	white
-selenide, water dikinase	2.7.9.3	AMP	H2O	white
-selenide, water dikinase	2.7.9.3	AMP	Hydrogen selenide	white
-selenide, water dikinase	2.7.9.3	ATP	AMP	white
-selenide, water dikinase	2.7.9.3	ATP	Orthophosphate	white
-selenide, water dikinase	2.7.9.3	ATP	Selenophosphoric acid	white
-selenide, water dikinase	2.7.9.3	H2O	AMP	white
-selenide, water dikinase	2.7.9.3	H2O	Orthophosphate	white
-selenide, water dikinase	2.7.9.3	H2O	Selenophosphoric acid	white
-selenide, water dikinase	2.7.9.3	Hydrogen selenide	AMP	white
-selenide, water dikinase	2.7.9.3	Hydrogen selenide	Orthophosphate	white
-selenide, water dikinase	2.7.9.3	Hydrogen selenide	Selenophosphoric acid	white
-selenide, water dikinase	2.7.9.3	Orthophosphate	ATP	white
-selenide, water dikinase	2.7.9.3	Orthophosphate	H2O	white
-selenide, water dikinase	2.7.9.3	Orthophosphate	Hydrogen selenide	white
-selenide, water dikinase	2.7.9.3	Selenophosphoric acid	ATP	white
-selenide, water dikinase	2.7.9.3	Selenophosphoric acid	H2O	white
-selenide, water dikinase	2.7.9.3	Selenophosphoric acid	Hydrogen selenide	white
-sulfate adenylyltransferase subunit 1	2.7.7.4	ATP	Adenylylselenate	green
-sulfate adenylyltransferase subunit 1	2.7.7.4	ATP	Diphosphate	green
-sulfate adenylyltransferase subunit 1	2.7.7.4	Selenate	Adenylylselenate	green
-sulfate adenylyltransferase subunit 1	2.7.7.4	Selenate	Diphosphate	green
-sulfate adenylyltransferase subunit 2	2.7.7.4	ATP	Adenylylselenate	green
-sulfate adenylyltransferase subunit 2	2.7.7.4	ATP	Diphosphate	green
-sulfate adenylyltransferase subunit 2	2.7.7.4	Selenate	Adenylylselenate	green
-sulfate adenylyltransferase subunit 2	2.7.7.4	Selenate	Diphosphate	green
-thioredoxin reductase (NADPH)	1.8.1.9	H+	H2O	green
-thioredoxin reductase (NADPH)	1.8.1.9	H+	Methaneselenol	green
-thioredoxin reductase (NADPH)	1.8.1.9	H+	NADP+	green
-thioredoxin reductase (NADPH)	1.8.1.9	H2O	H+	green
-thioredoxin reductase (NADPH)	1.8.1.9	H2O	NADPH	green
-thioredoxin reductase (NADPH)	1.8.1.9	H2O	Selenite	green
-thioredoxin reductase (NADPH)	1.8.1.9	Hydrogen selenide	H+	green
-thioredoxin reductase (NADPH)	1.8.1.9	Hydrogen selenide	NADPH	green
-thioredoxin reductase (NADPH)	1.8.1.9	Hydrogen selenide	Selenite	green
-thioredoxin reductase (NADPH)	1.8.1.9	Methylselenic acid	H2O	green
-thioredoxin reductase (NADPH)	1.8.1.9	Methylselenic acid	Methaneselenol	green
-thioredoxin reductase (NADPH)	1.8.1.9	Methylselenic acid	NADP+	green
-thioredoxin reductase (NADPH)	1.8.1.9	NADP+	H+	green
-thioredoxin reductase (NADPH)	1.8.1.9	NADP+	NADPH	green
-thioredoxin reductase (NADPH)	1.8.1.9	NADP+	Selenite	green
-thioredoxin reductase (NADPH)	1.8.1.9	NADPH	H2O	green
-thioredoxin reductase (NADPH)	1.8.1.9	NADPH	Methaneselenol	green
-thioredoxin reductase (NADPH)	1.8.1.9	NADPH	NADP+	green
+enzyme_name	EC	source	target	reaction	color
+5-methyltetrahydrofolate--homocysteine methyltransferase	2.1.1.13	5-Methyltetrahydropteroyltri-L-glutamate	L-Selenomethionine	R09365	green
+5-methyltetrahydrofolate--homocysteine methyltransferase	2.1.1.13	5-Methyltetrahydropteroyltri-L-glutamate	Tetrahydropteroyltri-L-glutamate	R09365	green
+5-methyltetrahydrofolate--homocysteine methyltransferase	2.1.1.13	Selenohomocysteine	L-Selenomethionine	R09365	green
+5-methyltetrahydrofolate--homocysteine methyltransferase	2.1.1.13	Selenohomocysteine	Tetrahydropteroyltri-L-glutamate	R09365	green
+5-methyltetrahydropteroyltriglutamate--homocysteine methyltransferase	2.1.1.14	5-Methyltetrahydropteroyltri-L-glutamate	L-Selenomethionine	R09365	green
+5-methyltetrahydropteroyltriglutamate--homocysteine methyltransferase	2.1.1.14	5-Methyltetrahydropteroyltri-L-glutamate	Tetrahydropteroyltri-L-glutamate	R09365	green
+5-methyltetrahydropteroyltriglutamate--homocysteine methyltransferase	2.1.1.14	Selenohomocysteine	L-Selenomethionine	R09365	green
+5-methyltetrahydropteroyltriglutamate--homocysteine methyltransferase	2.1.1.14	Selenohomocysteine	Tetrahydropteroyltri-L-glutamate	R09365	green
+L-seryl-tRNA(Ser) seleniumtransferase	2.9.1.1	L-Selenocysteinyl-tRNA(Sec)	L-Seryl-tRNA(Sec)	R08219	white
+L-seryl-tRNA(Ser) seleniumtransferase	2.9.1.1	L-Selenocysteinyl-tRNA(Sec)	Selenophosphoric acid	R08219	white
+L-seryl-tRNA(Ser) seleniumtransferase	2.9.1.1	L-Seryl-tRNA(Sec)	L-Selenocysteinyl-tRNA(Sec)	R08219	white
+L-seryl-tRNA(Ser) seleniumtransferase	2.9.1.1	L-Seryl-tRNA(Sec)	Orthophosphate	R08219	white
+L-seryl-tRNA(Ser) seleniumtransferase	2.9.1.1	Orthophosphate	L-Seryl-tRNA(Sec)	R08219	white
+L-seryl-tRNA(Ser) seleniumtransferase	2.9.1.1	Orthophosphate	Selenophosphoric acid	R08219	white
+L-seryl-tRNA(Ser) seleniumtransferase	2.9.1.1	Selenophosphoric acid	L-Selenocysteinyl-tRNA(Sec)	R08219	white
+L-seryl-tRNA(Ser) seleniumtransferase	2.9.1.1	Selenophosphoric acid	Orthophosphate	R08219	white
+O-phospho-L-seryl-tRNASec:L-selenocysteinyl-tRNA synthase	2.9.1.2	H2O	L-Selenocysteinyl-tRNA(Sec)	R08224	white
+O-phospho-L-seryl-tRNASec:L-selenocysteinyl-tRNA synthase	2.9.1.2	H2O	Orthophosphate	R08224	white
+O-phospho-L-seryl-tRNASec:L-selenocysteinyl-tRNA synthase	2.9.1.2	L-Selenocysteinyl-tRNA(Sec)	H2O	R08224	white
+O-phospho-L-seryl-tRNASec:L-selenocysteinyl-tRNA synthase	2.9.1.2	L-Selenocysteinyl-tRNA(Sec)	O-Phosphoseryl-tRNA(Sec)	R08224	white
+O-phospho-L-seryl-tRNASec:L-selenocysteinyl-tRNA synthase	2.9.1.2	L-Selenocysteinyl-tRNA(Sec)	Selenophosphoric acid	R08224	white
+O-phospho-L-seryl-tRNASec:L-selenocysteinyl-tRNA synthase	2.9.1.2	O-Phosphoseryl-tRNA(Sec)	L-Selenocysteinyl-tRNA(Sec)	R08224	white
+O-phospho-L-seryl-tRNASec:L-selenocysteinyl-tRNA synthase	2.9.1.2	O-Phosphoseryl-tRNA(Sec)	Orthophosphate	R08224	white
+O-phospho-L-seryl-tRNASec:L-selenocysteinyl-tRNA synthase	2.9.1.2	Orthophosphate	H2O	R08224	white
+O-phospho-L-seryl-tRNASec:L-selenocysteinyl-tRNA synthase	2.9.1.2	Orthophosphate	O-Phosphoseryl-tRNA(Sec)	R08224	white
+O-phospho-L-seryl-tRNASec:L-selenocysteinyl-tRNA synthase	2.9.1.2	Orthophosphate	Selenophosphoric acid	R08224	white
+O-phospho-L-seryl-tRNASec:L-selenocysteinyl-tRNA synthase	2.9.1.2	Selenophosphoric acid	L-Selenocysteinyl-tRNA(Sec)	R08224	white
+O-phospho-L-seryl-tRNASec:L-selenocysteinyl-tRNA synthase	2.9.1.2	Selenophosphoric acid	Orthophosphate	R08224	white
+O-phosphoseryl-tRNA(Sec) kinase	2.7.1.164	ADP	ATP	R08223	white
+O-phosphoseryl-tRNA(Sec) kinase	2.7.1.164	ADP	L-Seryl-tRNA(Sec)	R08223	white
+O-phosphoseryl-tRNA(Sec) kinase	2.7.1.164	ATP	ADP	R08223	white
+O-phosphoseryl-tRNA(Sec) kinase	2.7.1.164	ATP	O-Phosphoseryl-tRNA(Sec)	R08223	white
+O-phosphoseryl-tRNA(Sec) kinase	2.7.1.164	L-Seryl-tRNA(Sec)	ADP	R08223	white
+O-phosphoseryl-tRNA(Sec) kinase	2.7.1.164	L-Seryl-tRNA(Sec)	O-Phosphoseryl-tRNA(Sec)	R08223	white
+O-phosphoseryl-tRNA(Sec) kinase	2.7.1.164	O-Phosphoseryl-tRNA(Sec)	ATP	R08223	white
+O-phosphoseryl-tRNA(Sec) kinase	2.7.1.164	O-Phosphoseryl-tRNA(Sec)	L-Seryl-tRNA(Sec)	R08223	white
+bifunctional enzyme CysN/CysC	2.7.7.4	ATP	Adenylylselenate	R04929	green
+bifunctional enzyme CysN/CysC	2.7.7.4	ATP	Diphosphate	R04929	green
+bifunctional enzyme CysN/CysC	2.7.7.4	Selenate	Adenylylselenate	R04929	green
+bifunctional enzyme CysN/CysC	2.7.7.4	Selenate	Diphosphate	R04929	green
+cystathionine gamma-lyase	4.4.1.1	H2O	2-Oxobutanoate	R04770	green
+cystathionine gamma-lyase	4.4.1.1	H2O	Ammonia	R04770	green
+cystathionine gamma-lyase	4.4.1.1	H2O	Ammonia	R09366	green
+cystathionine gamma-lyase	4.4.1.1	H2O	Methaneselenol	R04770	green
+cystathionine gamma-lyase	4.4.1.1	H2O	Methaneselenol	R09366	green
+cystathionine gamma-lyase	4.4.1.1	H2O	Pyruvate	R09366	green
+cystathionine gamma-lyase	4.4.1.1	L-Selenomethionine	2-Oxobutanoate	R04770	green
+cystathionine gamma-lyase	4.4.1.1	L-Selenomethionine	Ammonia	R04770	green
+cystathionine gamma-lyase	4.4.1.1	L-Selenomethionine	Methaneselenol	R04770	green
+cystathionine gamma-lyase	4.4.1.1	Se-Methyl-L-selenocysteine	Ammonia	R09366	green
+cystathionine gamma-lyase	4.4.1.1	Se-Methyl-L-selenocysteine	Methaneselenol	R09366	green
+cystathionine gamma-lyase	4.4.1.1	Se-Methyl-L-selenocysteine	Pyruvate	R09366	green
+cystathionine gamma-synthase	2.5.1.48	L-Selenocysteine	L-Selenocystathionine	R04944	green
+cystathionine gamma-synthase	2.5.1.48	L-Selenocysteine	L-Selenocystathionine	R04946	green
+cystathionine gamma-synthase	2.5.1.48	L-Selenocysteine	Orthophosphate	R04944	green
+cystathionine gamma-synthase	2.5.1.48	L-Selenocysteine	Succinate	R04946	green
+cystathionine gamma-synthase	2.5.1.48	O-Phosphorylhomoserine	L-Selenocystathionine	R04944	green
+cystathionine gamma-synthase	2.5.1.48	O-Phosphorylhomoserine	Orthophosphate	R04944	green
+cystathionine gamma-synthase	2.5.1.48	O-Succinyl-L-homoserine	L-Selenocystathionine	R04946	green
+cystathionine gamma-synthase	2.5.1.48	O-Succinyl-L-homoserine	Succinate	R04946	green
+cysteine desulfurase / selenocysteine lyase	2.8.1.7	L-Selenocysteine	Acceptor	R03599	green
+cysteine desulfurase / selenocysteine lyase	2.8.1.7	L-Selenocysteine	Hydrogen selenide	R03599	green
+cysteine desulfurase / selenocysteine lyase	2.8.1.7	L-Selenocysteine	L-Alanine	R03599	green
+cysteine desulfurase / selenocysteine lyase	2.8.1.7	Reduced acceptor	Acceptor	R03599	green
+cysteine desulfurase / selenocysteine lyase	2.8.1.7	Reduced acceptor	Hydrogen selenide	R03599	green
+cysteine desulfurase / selenocysteine lyase	2.8.1.7	Reduced acceptor	L-Alanine	R03599	green
+cysteine-S-conjugate beta-lyase	4.4.1.13	H2O	Ammonia	R04941	green
+cysteine-S-conjugate beta-lyase	4.4.1.13	H2O	Pyruvate	R04941	green
+cysteine-S-conjugate beta-lyase	4.4.1.13	H2O	Selenohomocysteine	R04941	green
+cysteine-S-conjugate beta-lyase	4.4.1.13	L-Selenocystathionine	Ammonia	R04941	green
+cysteine-S-conjugate beta-lyase	4.4.1.13	L-Selenocystathionine	Pyruvate	R04941	green
+cysteine-S-conjugate beta-lyase	4.4.1.13	L-Selenocystathionine	Selenohomocysteine	R04941	green
+kynurenine---oxoglutarate transaminase / cysteine-S-conjugate beta-lyase / glutamine---phenylpyruvate transaminase	2.6.1.7	Ammonia	H2O	R00782	white
+kynurenine---oxoglutarate transaminase / cysteine-S-conjugate beta-lyase / glutamine---phenylpyruvate transaminase	2.6.1.7	Ammonia	L-Cysteine	R00782	white
+kynurenine---oxoglutarate transaminase / cysteine-S-conjugate beta-lyase / glutamine---phenylpyruvate transaminase	2.6.1.7	H2O	Ammonia	R00782	white
+kynurenine---oxoglutarate transaminase / cysteine-S-conjugate beta-lyase / glutamine---phenylpyruvate transaminase	2.6.1.7	H2O	Hydrogen sulfide	R00782	white
+kynurenine---oxoglutarate transaminase / cysteine-S-conjugate beta-lyase / glutamine---phenylpyruvate transaminase	2.6.1.7	H2O	Pyruvate	R00782	white
+kynurenine---oxoglutarate transaminase / cysteine-S-conjugate beta-lyase / glutamine---phenylpyruvate transaminase	2.6.1.7	Hydrogen sulfide	H2O	R00782	white
+kynurenine---oxoglutarate transaminase / cysteine-S-conjugate beta-lyase / glutamine---phenylpyruvate transaminase	2.6.1.7	Hydrogen sulfide	L-Cysteine	R00782	white
+kynurenine---oxoglutarate transaminase / cysteine-S-conjugate beta-lyase / glutamine---phenylpyruvate transaminase	2.6.1.7	L-Cysteine	Ammonia	R00782	white
+kynurenine---oxoglutarate transaminase / cysteine-S-conjugate beta-lyase / glutamine---phenylpyruvate transaminase	2.6.1.7	L-Cysteine	Hydrogen sulfide	R00782	white
+kynurenine---oxoglutarate transaminase / cysteine-S-conjugate beta-lyase / glutamine---phenylpyruvate transaminase	2.6.1.7	L-Cysteine	Pyruvate	R00782	white
+kynurenine---oxoglutarate transaminase / cysteine-S-conjugate beta-lyase / glutamine---phenylpyruvate transaminase	2.6.1.7	Pyruvate	H2O	R00782	white
+kynurenine---oxoglutarate transaminase / cysteine-S-conjugate beta-lyase / glutamine---phenylpyruvate transaminase	2.6.1.7	Pyruvate	L-Cysteine	R00782	white
+methionine S-methyltransferase	2.1.1.12	L-Selenomethionine	S-Adenosyl-L-homocysteine	R04772	white
+methionine S-methyltransferase	2.1.1.12	L-Selenomethionine	Se-Methylselenomethionine	R04772	white
+methionine S-methyltransferase	2.1.1.12	S-Adenosyl-L-homocysteine	L-Selenomethionine	R04772	white
+methionine S-methyltransferase	2.1.1.12	S-Adenosyl-L-homocysteine	S-Adenosyl-L-methionine	R04772	white
+methionine S-methyltransferase	2.1.1.12	S-Adenosyl-L-methionine	S-Adenosyl-L-homocysteine	R04772	white
+methionine S-methyltransferase	2.1.1.12	S-Adenosyl-L-methionine	Se-Methylselenomethionine	R04772	white
+methionine S-methyltransferase	2.1.1.12	Se-Methylselenomethionine	L-Selenomethionine	R04772	white
+methionine S-methyltransferase	2.1.1.12	Se-Methylselenomethionine	S-Adenosyl-L-methionine	R04772	white
+methionine-gamma-lyase	4.4.1.11	2-Oxobutanoate	H2O	R00654	white
+methionine-gamma-lyase	4.4.1.11	2-Oxobutanoate	L-Methionine	R00654	white
+methionine-gamma-lyase	4.4.1.11	Ammonia	H2O	R00654	white
+methionine-gamma-lyase	4.4.1.11	Ammonia	L-Methionine	R00654	white
+methionine-gamma-lyase	4.4.1.11	H2O	2-Oxobutanoate	R00654	white
+methionine-gamma-lyase	4.4.1.11	H2O	Ammonia	R00654	white
+methionine-gamma-lyase	4.4.1.11	H2O	Methanethiol	R00654	white
+methionine-gamma-lyase	4.4.1.11	L-Methionine	2-Oxobutanoate	R00654	white
+methionine-gamma-lyase	4.4.1.11	L-Methionine	Ammonia	R00654	white
+methionine-gamma-lyase	4.4.1.11	L-Methionine	Methanethiol	R00654	white
+methionine-gamma-lyase	4.4.1.11	Methanethiol	H2O	R00654	white
+methionine-gamma-lyase	4.4.1.11	Methanethiol	L-Methionine	R00654	white
+methionyl-tRNA synthetase	6.1.1.10	ATP	AMP	R04773	green
+methionyl-tRNA synthetase	6.1.1.10	ATP	Diphosphate	R04773	green
+methionyl-tRNA synthetase	6.1.1.10	ATP	Selenomethionyl-tRNA(Met)	R04773	green
+methionyl-tRNA synthetase	6.1.1.10	L-Selenomethionine	AMP	R04773	green
+methionyl-tRNA synthetase	6.1.1.10	L-Selenomethionine	Diphosphate	R04773	green
+methionyl-tRNA synthetase	6.1.1.10	L-Selenomethionine	Selenomethionyl-tRNA(Met)	R04773	green
+methionyl-tRNA synthetase	6.1.1.10	tRNA(Met)	AMP	R04773	green
+methionyl-tRNA synthetase	6.1.1.10	tRNA(Met)	Diphosphate	R04773	green
+methionyl-tRNA synthetase	6.1.1.10	tRNA(Met)	Selenomethionyl-tRNA(Met)	R04773	green
+methyltransferase	2.1.1.49	N-Methyltryptamine	S-Adenosyl-L-methionine	R02174	white
+methyltransferase	2.1.1.49	N-Methyltryptamine	Tryptamine	R02174	white
+methyltransferase	2.1.1.49	S-Adenosyl-L-homocysteine	S-Adenosyl-L-methionine	R02174	white
+methyltransferase	2.1.1.49	S-Adenosyl-L-homocysteine	Tryptamine	R02174	white
+methyltransferase	2.1.1.49	S-Adenosyl-L-methionine	N-Methyltryptamine	R02174	white
+methyltransferase	2.1.1.49	S-Adenosyl-L-methionine	S-Adenosyl-L-homocysteine	R02174	white
+methyltransferase	2.1.1.49	Tryptamine	N-Methyltryptamine	R02174	white
+methyltransferase	2.1.1.49	Tryptamine	S-Adenosyl-L-homocysteine	R02174	white
+putative selenate reductase molybdopterin-binding subunit	6.1.1.10	Ferricytochrome c	Ferrocytochrome c	R07229	green
+putative selenate reductase molybdopterin-binding subunit	6.1.1.10	Ferricytochrome c	Selenate	R07229	green
+putative selenate reductase molybdopterin-binding subunit	6.1.1.10	H2O	Ferrocytochrome c	R07229	green
+putative selenate reductase molybdopterin-binding subunit	6.1.1.10	H2O	Selenate	R07229	green
+putative selenate reductase molybdopterin-binding subunit	6.1.1.10	Selenite	Ferrocytochrome c	R07229	green
+putative selenate reductase molybdopterin-binding subunit	6.1.1.10	Selenite	Selenate	R07229	green
+selenate reductase (quinol) subunit A	1.97.1.14	H+	Hydroquinone	R13388	white
+selenate reductase (quinol) subunit A	1.97.1.14	H+	Selenate	R13388	white
+selenate reductase (quinol) subunit A	1.97.1.14	H2O	Hydroquinone	R13388	white
+selenate reductase (quinol) subunit A	1.97.1.14	H2O	Selenate	R13388	white
+selenate reductase (quinol) subunit A	1.97.1.14	Hydroquinone	H+	R13388	white
+selenate reductase (quinol) subunit A	1.97.1.14	Hydroquinone	H2O	R13388	white
+selenate reductase (quinol) subunit A	1.97.1.14	Hydroquinone	Selenite	R13388	white
+selenate reductase (quinol) subunit A	1.97.1.14	Hydroquinone	p-Benzoquinone	R13388	white
+selenate reductase (quinol) subunit A	1.97.1.14	Selenate	H+	R13388	white
+selenate reductase (quinol) subunit A	1.97.1.14	Selenate	H2O	R13388	white
+selenate reductase (quinol) subunit A	1.97.1.14	Selenate	Selenite	R13388	white
+selenate reductase (quinol) subunit A	1.97.1.14	Selenate	p-Benzoquinone	R13388	white
+selenate reductase (quinol) subunit A	1.97.1.14	Selenite	Hydroquinone	R13388	white
+selenate reductase (quinol) subunit A	1.97.1.14	Selenite	Selenate	R13388	white
+selenate reductase (quinol) subunit A	1.97.1.14	p-Benzoquinone	Hydroquinone	R13388	white
+selenate reductase (quinol) subunit A	1.97.1.14	p-Benzoquinone	Selenate	R13388	white
+selenate reductase (quinol) subunit B	1.97.1.14	H+	Hydroquinone	R13388	white
+selenate reductase (quinol) subunit B	1.97.1.14	H+	Selenate	R13388	white
+selenate reductase (quinol) subunit B	1.97.1.14	H2O	Hydroquinone	R13388	white
+selenate reductase (quinol) subunit B	1.97.1.14	H2O	Selenate	R13388	white
+selenate reductase (quinol) subunit B	1.97.1.14	Hydroquinone	H+	R13388	white
+selenate reductase (quinol) subunit B	1.97.1.14	Hydroquinone	H2O	R13388	white
+selenate reductase (quinol) subunit B	1.97.1.14	Hydroquinone	Selenite	R13388	white
+selenate reductase (quinol) subunit B	1.97.1.14	Hydroquinone	p-Benzoquinone	R13388	white
+selenate reductase (quinol) subunit B	1.97.1.14	Selenate	H+	R13388	white
+selenate reductase (quinol) subunit B	1.97.1.14	Selenate	H2O	R13388	white
+selenate reductase (quinol) subunit B	1.97.1.14	Selenate	Selenite	R13388	white
+selenate reductase (quinol) subunit B	1.97.1.14	Selenate	p-Benzoquinone	R13388	white
+selenate reductase (quinol) subunit B	1.97.1.14	Selenite	Hydroquinone	R13388	white
+selenate reductase (quinol) subunit B	1.97.1.14	Selenite	Selenate	R13388	white
+selenate reductase (quinol) subunit B	1.97.1.14	p-Benzoquinone	Hydroquinone	R13388	white
+selenate reductase (quinol) subunit B	1.97.1.14	p-Benzoquinone	Selenate	R13388	white
+selenate reductase (quinol) subunit C	1.97.1.14	H+	Hydroquinone	R13388	white
+selenate reductase (quinol) subunit C	1.97.1.14	H+	Selenate	R13388	white
+selenate reductase (quinol) subunit C	1.97.1.14	H2O	Hydroquinone	R13388	white
+selenate reductase (quinol) subunit C	1.97.1.14	H2O	Selenate	R13388	white
+selenate reductase (quinol) subunit C	1.97.1.14	Hydroquinone	H+	R13388	white
+selenate reductase (quinol) subunit C	1.97.1.14	Hydroquinone	H2O	R13388	white
+selenate reductase (quinol) subunit C	1.97.1.14	Hydroquinone	Selenite	R13388	white
+selenate reductase (quinol) subunit C	1.97.1.14	Hydroquinone	p-Benzoquinone	R13388	white
+selenate reductase (quinol) subunit C	1.97.1.14	Selenate	H+	R13388	white
+selenate reductase (quinol) subunit C	1.97.1.14	Selenate	H2O	R13388	white
+selenate reductase (quinol) subunit C	1.97.1.14	Selenate	Selenite	R13388	white
+selenate reductase (quinol) subunit C	1.97.1.14	Selenate	p-Benzoquinone	R13388	white
+selenate reductase (quinol) subunit C	1.97.1.14	Selenite	Hydroquinone	R13388	white
+selenate reductase (quinol) subunit C	1.97.1.14	Selenite	Selenate	R13388	white
+selenate reductase (quinol) subunit C	1.97.1.14	p-Benzoquinone	Hydroquinone	R13388	white
+selenate reductase (quinol) subunit C	1.97.1.14	p-Benzoquinone	Selenate	R13388	white
+selenide, water dikinase	2.7.9.3	AMP	ATP	R03595	white
+selenide, water dikinase	2.7.9.3	AMP	H2O	R03595	white
+selenide, water dikinase	2.7.9.3	AMP	Hydrogen selenide	R03595	white
+selenide, water dikinase	2.7.9.3	ATP	AMP	R03595	white
+selenide, water dikinase	2.7.9.3	ATP	Orthophosphate	R03595	white
+selenide, water dikinase	2.7.9.3	ATP	Selenophosphoric acid	R03595	white
+selenide, water dikinase	2.7.9.3	H2O	AMP	R03595	white
+selenide, water dikinase	2.7.9.3	H2O	Orthophosphate	R03595	white
+selenide, water dikinase	2.7.9.3	H2O	Selenophosphoric acid	R03595	white
+selenide, water dikinase	2.7.9.3	Hydrogen selenide	AMP	R03595	white
+selenide, water dikinase	2.7.9.3	Hydrogen selenide	Orthophosphate	R03595	white
+selenide, water dikinase	2.7.9.3	Hydrogen selenide	Selenophosphoric acid	R03595	white
+selenide, water dikinase	2.7.9.3	Orthophosphate	ATP	R03595	white
+selenide, water dikinase	2.7.9.3	Orthophosphate	H2O	R03595	white
+selenide, water dikinase	2.7.9.3	Orthophosphate	Hydrogen selenide	R03595	white
+selenide, water dikinase	2.7.9.3	Selenophosphoric acid	ATP	R03595	white
+selenide, water dikinase	2.7.9.3	Selenophosphoric acid	H2O	R03595	white
+selenide, water dikinase	2.7.9.3	Selenophosphoric acid	Hydrogen selenide	R03595	white
+sulfate adenylyltransferase subunit 1	2.7.7.4	ATP	Adenylylselenate	R04929	green
+sulfate adenylyltransferase subunit 1	2.7.7.4	ATP	Diphosphate	R04929	green
+sulfate adenylyltransferase subunit 1	2.7.7.4	Selenate	Adenylylselenate	R04929	green
+sulfate adenylyltransferase subunit 1	2.7.7.4	Selenate	Diphosphate	R04929	green
+sulfate adenylyltransferase subunit 2	2.7.7.4	ATP	Adenylylselenate	R04929	green
+sulfate adenylyltransferase subunit 2	2.7.7.4	ATP	Diphosphate	R04929	green
+sulfate adenylyltransferase subunit 2	2.7.7.4	Selenate	Adenylylselenate	R04929	green
+sulfate adenylyltransferase subunit 2	2.7.7.4	Selenate	Diphosphate	R04929	green
+thioredoxin reductase (NADPH)	1.8.1.9	H+	H2O	R09372	green
+thioredoxin reductase (NADPH)	1.8.1.9	H+	Methaneselenol	R09372	green
+thioredoxin reductase (NADPH)	1.8.1.9	H+	NADP+	R09372	green
+thioredoxin reductase (NADPH)	1.8.1.9	H2O	H+	R03596	green
+thioredoxin reductase (NADPH)	1.8.1.9	H2O	NADPH	R03596	green
+thioredoxin reductase (NADPH)	1.8.1.9	H2O	Selenite	R03596	green
+thioredoxin reductase (NADPH)	1.8.1.9	Hydrogen selenide	H+	R03596	green
+thioredoxin reductase (NADPH)	1.8.1.9	Hydrogen selenide	NADPH	R03596	green
+thioredoxin reductase (NADPH)	1.8.1.9	Hydrogen selenide	Selenite	R03596	green
+thioredoxin reductase (NADPH)	1.8.1.9	Methylselenic acid	H2O	R09372	green
+thioredoxin reductase (NADPH)	1.8.1.9	Methylselenic acid	Methaneselenol	R09372	green
+thioredoxin reductase (NADPH)	1.8.1.9	Methylselenic acid	NADP+	R09372	green
+thioredoxin reductase (NADPH)	1.8.1.9	NADP+	H+	R03596	green
+thioredoxin reductase (NADPH)	1.8.1.9	NADP+	NADPH	R03596	green
+thioredoxin reductase (NADPH)	1.8.1.9	NADP+	Selenite	R03596	green
+thioredoxin reductase (NADPH)	1.8.1.9	NADPH	H2O	R09372	green
+thioredoxin reductase (NADPH)	1.8.1.9	NADPH	Methaneselenol	R09372	green
+thioredoxin reductase (NADPH)	1.8.1.9	NADPH	NADP+	R09372	green

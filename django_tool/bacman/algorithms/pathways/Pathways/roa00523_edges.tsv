@@ -1,410 +1,410 @@
-enzyme_name	EC	source	target	color
-3,5-epimerase/4-reductase	5.1.3.-	UDP-4-dehydro-6-deoxy-D-glucose	UDP-4-keto-rhamnose	white
-3,5-epimerase/4-reductase	5.1.3.-	UDP-4-keto-rhamnose	UDP-4-dehydro-6-deoxy-D-glucose	white
-3-O-methyltransferase	2.1.1.-	S-Adenosyl-L-homocysteine	S-Adenosyl-L-methionine	white
-3-O-methyltransferase	2.1.1.-	S-Adenosyl-L-homocysteine	dTDP-4-oxo-2,6-dideoxy-L-mannose	white
-3-O-methyltransferase	2.1.1.-	S-Adenosyl-L-methionine	S-Adenosyl-L-homocysteine	white
-3-O-methyltransferase	2.1.1.-	S-Adenosyl-L-methionine	dTDP-3-O-methyl-4-oxo-2,6-dideoxy-L-mannose	white
-3-O-methyltransferase	2.1.1.-	dTDP-3-O-methyl-4-oxo-2,6-dideoxy-L-mannose	S-Adenosyl-L-methionine	white
-3-O-methyltransferase	2.1.1.-	dTDP-3-O-methyl-4-oxo-2,6-dideoxy-L-mannose	dTDP-4-oxo-2,6-dideoxy-L-mannose	white
-3-O-methyltransferase	2.1.1.-	dTDP-4-oxo-2,6-dideoxy-L-mannose	S-Adenosyl-L-homocysteine	white
-3-O-methyltransferase	2.1.1.-	dTDP-4-oxo-2,6-dideoxy-L-mannose	dTDP-3-O-methyl-4-oxo-2,6-dideoxy-L-mannose	white
-4-ketoreductase	2.1.1.-	H+	NADP+	white
-4-ketoreductase	2.1.1.-	H+	dTDP-L-olivose	white
-4-ketoreductase	2.1.1.-	NADP+	H+	white
-4-ketoreductase	2.1.1.-	NADP+	NADPH	white
-4-ketoreductase	2.1.1.-	NADP+	dTDP-4-oxo-2,6-dideoxy-L-mannose	white
-4-ketoreductase	2.1.1.-	NADPH	NADP+	white
-4-ketoreductase	2.1.1.-	NADPH	dTDP-L-olivose	white
-4-ketoreductase	2.1.1.-	dTDP-4-oxo-2,6-dideoxy-L-mannose	NADP+	white
-4-ketoreductase	2.1.1.-	dTDP-4-oxo-2,6-dideoxy-L-mannose	dTDP-L-olivose	white
-4-ketoreductase	2.1.1.-	dTDP-L-olivose	H+	white
-4-ketoreductase	2.1.1.-	dTDP-L-olivose	NADPH	white
-4-ketoreductase	2.1.1.-	dTDP-L-olivose	dTDP-4-oxo-2,6-dideoxy-L-mannose	white
-5-epimerase	5.1.3.-	dTDP-4-oxo-2,6-dideoxy-D-allose	dTDP-4-oxo-2,6-dideoxy-L-mannose	white
-5-epimerase	5.1.3.-	dTDP-4-oxo-2,6-dideoxy-L-mannose	dTDP-4-oxo-2,6-dideoxy-D-allose	white
-C-S lyase	2.1.1.-	dTDP-4-deoxy-4-thio-alpha-D-digitoxose	dTDP-4-oxo-2,6-dideoxy-D-allose	white
-C-S lyase	2.1.1.-	dTDP-4-oxo-2,6-dideoxy-D-allose	dTDP-4-deoxy-4-thio-alpha-D-digitoxose	white
-C-methyltransferase	2.1.1.-	S-Adenosyl-L-homocysteine	S-Adenosyl-L-methionine	white
-C-methyltransferase	2.1.1.-	S-Adenosyl-L-homocysteine	dTDP-4-oxo-6-deoxy-D-allose	white
-C-methyltransferase	2.1.1.-	S-Adenosyl-L-methionine	S-Adenosyl-L-homocysteine	white
-C-methyltransferase	2.1.1.-	S-Adenosyl-L-methionine	dTDP-4-oxo-5-C-methyl-L-rhamnose	white
-C-methyltransferase	2.1.1.-	dTDP-4-oxo-5-C-methyl-L-rhamnose	S-Adenosyl-L-methionine	white
-C-methyltransferase	2.1.1.-	dTDP-4-oxo-5-C-methyl-L-rhamnose	dTDP-4-oxo-6-deoxy-D-allose	white
-C-methyltransferase	2.1.1.-	dTDP-4-oxo-6-deoxy-D-allose	S-Adenosyl-L-homocysteine	white
-C-methyltransferase	2.1.1.-	dTDP-4-oxo-6-deoxy-D-allose	dTDP-4-oxo-5-C-methyl-L-rhamnose	white
-N,N-dimethyltransferase	5.1.3.-	dTDP-2,6-dideoxy-D-kanosamine	dTDP-D-angolosamine	white
-N,N-dimethyltransferase	5.1.3.-	dTDP-D-angolosamine	dTDP-2,6-dideoxy-D-kanosamine	white
-N-methyltransferase	2.1.1.-	dTDP-4-amino-4,6-dideoxy-5-C-methyl-D-allose	dTDP-4-dimethylamino-4,6-dideoxy-5-C-methyl-D-allose	white
-N-methyltransferase	2.1.1.-	dTDP-4-dimethylamino-4,6-dideoxy-5-C-methyl-D-allose	dTDP-4-amino-4,6-dideoxy-5-C-methyl-D-allose	white
-NDP-4-keto-2,6-dideoxyhexose 3-C-methyltransferase	2.1.1.-	S-Adenosyl-L-homocysteine	S-Adenosyl-L-methionine	white
-NDP-4-keto-2,6-dideoxyhexose 3-C-methyltransferase	2.1.1.-	S-Adenosyl-L-homocysteine	dTDP-4-oxo-2,6-dideoxy-D-allose	white
-NDP-4-keto-2,6-dideoxyhexose 3-C-methyltransferase	2.1.1.-	S-Adenosyl-L-methionine	S-Adenosyl-L-homocysteine	white
-NDP-4-keto-2,6-dideoxyhexose 3-C-methyltransferase	2.1.1.-	S-Adenosyl-L-methionine	dTDP-3-methyl-4-oxo-2,6-dideoxy-D-glucose	white
-NDP-4-keto-2,6-dideoxyhexose 3-C-methyltransferase	2.1.1.-	dTDP-3-methyl-4-oxo-2,6-dideoxy-D-glucose	S-Adenosyl-L-methionine	white
-NDP-4-keto-2,6-dideoxyhexose 3-C-methyltransferase	2.1.1.-	dTDP-3-methyl-4-oxo-2,6-dideoxy-D-glucose	dTDP-4-oxo-2,6-dideoxy-D-allose	white
-NDP-4-keto-2,6-dideoxyhexose 3-C-methyltransferase	2.1.1.-	dTDP-4-oxo-2,6-dideoxy-D-allose	S-Adenosyl-L-homocysteine	white
-NDP-4-keto-2,6-dideoxyhexose 3-C-methyltransferase	2.1.1.-	dTDP-4-oxo-2,6-dideoxy-D-allose	dTDP-3-methyl-4-oxo-2,6-dideoxy-D-glucose	white
-NDP-hexose 5-epimerase	5.1.3.-	dTDP-3-methyl-4-oxo-2,6-dideoxy-D-glucose	dTDP-3-methyl-4-oxo-2,6-dideoxy-L-allose	white
-NDP-hexose 5-epimerase	5.1.3.-	dTDP-3-methyl-4-oxo-2,6-dideoxy-L-allose	dTDP-3-methyl-4-oxo-2,6-dideoxy-D-glucose	white
-NDP-hexose C3-ketoreductase / dTDP-4-oxo-2-deoxy-alpha-D-pentos-2-ene 2,3-reductase	1.1.1.-	H+	NADP+	white
-NDP-hexose C3-ketoreductase / dTDP-4-oxo-2-deoxy-alpha-D-pentos-2-ene 2,3-reductase	1.1.1.-	H+	dTDP-4-oxo-2,6-dideoxy-D-allose	white
-NDP-hexose C3-ketoreductase / dTDP-4-oxo-2-deoxy-alpha-D-pentos-2-ene 2,3-reductase	1.1.1.-	NADP+	H+	white
-NDP-hexose C3-ketoreductase / dTDP-4-oxo-2-deoxy-alpha-D-pentos-2-ene 2,3-reductase	1.1.1.-	NADP+	NADPH	white
-NDP-hexose C3-ketoreductase / dTDP-4-oxo-2-deoxy-alpha-D-pentos-2-ene 2,3-reductase	1.1.1.-	NADP+	dTDP-3,4-dioxo-2,6-dideoxy-D-glucose	white
-NDP-hexose C3-ketoreductase / dTDP-4-oxo-2-deoxy-alpha-D-pentos-2-ene 2,3-reductase	1.1.1.-	NADPH	NADP+	white
-NDP-hexose C3-ketoreductase / dTDP-4-oxo-2-deoxy-alpha-D-pentos-2-ene 2,3-reductase	1.1.1.-	NADPH	dTDP-4-oxo-2,6-dideoxy-D-allose	white
-NDP-hexose C3-ketoreductase / dTDP-4-oxo-2-deoxy-alpha-D-pentos-2-ene 2,3-reductase	1.1.1.-	dTDP-3,4-dioxo-2,6-dideoxy-D-glucose	NADP+	white
-NDP-hexose C3-ketoreductase / dTDP-4-oxo-2-deoxy-alpha-D-pentos-2-ene 2,3-reductase	1.1.1.-	dTDP-3,4-dioxo-2,6-dideoxy-D-glucose	dTDP-4-oxo-2,6-dideoxy-D-allose	white
-NDP-hexose C3-ketoreductase / dTDP-4-oxo-2-deoxy-alpha-D-pentos-2-ene 2,3-reductase	1.1.1.-	dTDP-4-oxo-2,6-dideoxy-D-allose	H+	white
-NDP-hexose C3-ketoreductase / dTDP-4-oxo-2-deoxy-alpha-D-pentos-2-ene 2,3-reductase	1.1.1.-	dTDP-4-oxo-2,6-dideoxy-D-allose	NADPH	white
-NDP-hexose C3-ketoreductase / dTDP-4-oxo-2-deoxy-alpha-D-pentos-2-ene 2,3-reductase	1.1.1.-	dTDP-4-oxo-2,6-dideoxy-D-allose	dTDP-3,4-dioxo-2,6-dideoxy-D-glucose	white
-TDP-4-oxo-6-deoxy-alpha-D-glucose-3,4-oxoisomerase	5.3.2.4	dTDP-3-oxo-6-deoxy-D-glucose	dTDP-4-oxo-6-deoxy-D-glucose	white
-TDP-4-oxo-6-deoxy-alpha-D-glucose-3,4-oxoisomerase	5.3.2.4	dTDP-4-oxo-6-deoxy-D-glucose	dTDP-3-oxo-6-deoxy-D-glucose	white
-aminosugar N-oxygenase	1.14.15.-	H2O	Oxygen	white
-aminosugar N-oxygenase	1.14.15.-	H2O	Reduced ferredoxin	white
-aminosugar N-oxygenase	1.14.15.-	H2O	dTDP-4-amino-4,6-dideoxy-D-glucose	white
-aminosugar N-oxygenase	1.14.15.-	Oxidized ferredoxin	Oxygen	white
-aminosugar N-oxygenase	1.14.15.-	Oxidized ferredoxin	Reduced ferredoxin	white
-aminosugar N-oxygenase	1.14.15.-	Oxidized ferredoxin	dTDP-4-amino-4,6-dideoxy-D-glucose	white
-aminosugar N-oxygenase	1.14.15.-	Oxygen	H2O	white
-aminosugar N-oxygenase	1.14.15.-	Oxygen	Oxidized ferredoxin	white
-aminosugar N-oxygenase	1.14.15.-	Oxygen	dTDP-4-hydroxyamino-4,6-dideoxy-alpha-D-glucose	white
-aminosugar N-oxygenase	1.14.15.-	Reduced ferredoxin	H2O	white
-aminosugar N-oxygenase	1.14.15.-	Reduced ferredoxin	Oxidized ferredoxin	white
-aminosugar N-oxygenase	1.14.15.-	Reduced ferredoxin	dTDP-4-hydroxyamino-4,6-dideoxy-alpha-D-glucose	white
-aminosugar N-oxygenase	1.14.15.-	dTDP-4-amino-4,6-dideoxy-D-glucose	H2O	white
-aminosugar N-oxygenase	1.14.15.-	dTDP-4-amino-4,6-dideoxy-D-glucose	Oxidized ferredoxin	white
-aminosugar N-oxygenase	1.14.15.-	dTDP-4-amino-4,6-dideoxy-D-glucose	dTDP-4-hydroxyamino-4,6-dideoxy-alpha-D-glucose	white
-aminosugar N-oxygenase	1.14.15.-	dTDP-4-hydroxyamino-4,6-dideoxy-alpha-D-glucose	Oxygen	white
-aminosugar N-oxygenase	1.14.15.-	dTDP-4-hydroxyamino-4,6-dideoxy-alpha-D-glucose	Reduced ferredoxin	white
-aminosugar N-oxygenase	1.14.15.-	dTDP-4-hydroxyamino-4,6-dideoxy-alpha-D-glucose	dTDP-4-amino-4,6-dideoxy-D-glucose	white
-aminotransferase	2.6.1.-	2-Oxoglutarate	L-Glutamate	white
-aminotransferase	2.6.1.-	2-Oxoglutarate	N-Acetyl-L-2-amino-6-oxopimelate	white
-aminotransferase	2.6.1.-	L-Glutamate	2-Oxoglutarate	white
-aminotransferase	2.6.1.-	L-Glutamate	N6-Acetyl-LL-2,6-diaminoheptanedioate	white
-aminotransferase	2.6.1.-	N-Acetyl-L-2-amino-6-oxopimelate	2-Oxoglutarate	white
-aminotransferase	2.6.1.-	N-Acetyl-L-2-amino-6-oxopimelate	N6-Acetyl-LL-2,6-diaminoheptanedioate	white
-aminotransferase	2.6.1.-	N6-Acetyl-LL-2,6-diaminoheptanedioate	L-Glutamate	white
-aminotransferase	2.6.1.-	N6-Acetyl-LL-2,6-diaminoheptanedioate	N-Acetyl-L-2-amino-6-oxopimelate	white
-dTDP-3,4-didehydro-2,6-dideoxy-alpha-D-glucose 3-reductase	1.1.1.384	H+	NADP+	white
-dTDP-3,4-didehydro-2,6-dideoxy-alpha-D-glucose 3-reductase	1.1.1.384	H+	dTDP-4-oxo-2,6-dideoxy-D-glucose	white
-dTDP-3,4-didehydro-2,6-dideoxy-alpha-D-glucose 3-reductase	1.1.1.384	NADP+	H+	white
-dTDP-3,4-didehydro-2,6-dideoxy-alpha-D-glucose 3-reductase	1.1.1.384	NADP+	NADPH	white
-dTDP-3,4-didehydro-2,6-dideoxy-alpha-D-glucose 3-reductase	1.1.1.384	NADP+	dTDP-3,4-dioxo-2,6-dideoxy-D-glucose	white
-dTDP-3,4-didehydro-2,6-dideoxy-alpha-D-glucose 3-reductase	1.1.1.384	NADPH	NADP+	white
-dTDP-3,4-didehydro-2,6-dideoxy-alpha-D-glucose 3-reductase	1.1.1.384	NADPH	dTDP-4-oxo-2,6-dideoxy-D-glucose	white
-dTDP-3,4-didehydro-2,6-dideoxy-alpha-D-glucose 3-reductase	1.1.1.384	dTDP-3,4-dioxo-2,6-dideoxy-D-glucose	NADP+	white
-dTDP-3,4-didehydro-2,6-dideoxy-alpha-D-glucose 3-reductase	1.1.1.384	dTDP-3,4-dioxo-2,6-dideoxy-D-glucose	dTDP-4-oxo-2,6-dideoxy-D-glucose	white
-dTDP-3,4-didehydro-2,6-dideoxy-alpha-D-glucose 3-reductase	1.1.1.384	dTDP-4-oxo-2,6-dideoxy-D-glucose	H+	white
-dTDP-3,4-didehydro-2,6-dideoxy-alpha-D-glucose 3-reductase	1.1.1.384	dTDP-4-oxo-2,6-dideoxy-D-glucose	NADPH	white
-dTDP-3,4-didehydro-2,6-dideoxy-alpha-D-glucose 3-reductase	1.1.1.384	dTDP-4-oxo-2,6-dideoxy-D-glucose	dTDP-3,4-dioxo-2,6-dideoxy-D-glucose	white
-dTDP-3-amino-2,3,6-trideoxy-4-keto-D-glucose/dTDP-3-amino-3,4,6-trideoxy-alpha-D-glucopyranose N,N-dimethyltransferase	2.1.1.-	S-Adenosyl-L-homocysteine	S-Adenosyl-L-methionine	white
-dTDP-3-amino-2,3,6-trideoxy-4-keto-D-glucose/dTDP-3-amino-3,4,6-trideoxy-alpha-D-glucopyranose N,N-dimethyltransferase	2.1.1.-	S-Adenosyl-L-homocysteine	dTDP-3-amino-3,4,6-trideoxy-D-glucose	white
-dTDP-3-amino-2,3,6-trideoxy-4-keto-D-glucose/dTDP-3-amino-3,4,6-trideoxy-alpha-D-glucopyranose N,N-dimethyltransferase	2.1.1.-	S-Adenosyl-L-methionine	S-Adenosyl-L-homocysteine	white
-dTDP-3-amino-2,3,6-trideoxy-4-keto-D-glucose/dTDP-3-amino-3,4,6-trideoxy-alpha-D-glucopyranose N,N-dimethyltransferase	2.1.1.-	S-Adenosyl-L-methionine	dTDP-D-desosamine	white
-dTDP-3-amino-2,3,6-trideoxy-4-keto-D-glucose/dTDP-3-amino-3,4,6-trideoxy-alpha-D-glucopyranose N,N-dimethyltransferase	2.1.1.-	dTDP-3-amino-3,4,6-trideoxy-D-glucose	S-Adenosyl-L-homocysteine	white
-dTDP-3-amino-2,3,6-trideoxy-4-keto-D-glucose/dTDP-3-amino-3,4,6-trideoxy-alpha-D-glucopyranose N,N-dimethyltransferase	2.1.1.-	dTDP-3-amino-3,4,6-trideoxy-D-glucose	dTDP-D-desosamine	white
-dTDP-3-amino-2,3,6-trideoxy-4-keto-D-glucose/dTDP-3-amino-3,4,6-trideoxy-alpha-D-glucopyranose N,N-dimethyltransferase	2.1.1.-	dTDP-D-desosamine	S-Adenosyl-L-methionine	white
-dTDP-3-amino-2,3,6-trideoxy-4-keto-D-glucose/dTDP-3-amino-3,4,6-trideoxy-alpha-D-glucopyranose N,N-dimethyltransferase	2.1.1.-	dTDP-D-desosamine	dTDP-3-amino-3,4,6-trideoxy-D-glucose	white
-dTDP-3-amino-2,3,6-trideoxy-4-keto-D-glucose/dTDP-3-amino-3,4,6-trideoxy-alpha-D-glucose/dTDP-2,6-dideoxy-D-kanosamine transaminase	2.6.1.-	2-Oxoglutarate	L-Glutamate	white
-dTDP-3-amino-2,3,6-trideoxy-4-keto-D-glucose/dTDP-3-amino-3,4,6-trideoxy-alpha-D-glucose/dTDP-2,6-dideoxy-D-kanosamine transaminase	2.6.1.-	2-Oxoglutarate	dTDP-3-oxo-4,6-dideoxy-D-glucose	white
-dTDP-3-amino-2,3,6-trideoxy-4-keto-D-glucose/dTDP-3-amino-3,4,6-trideoxy-alpha-D-glucose/dTDP-2,6-dideoxy-D-kanosamine transaminase	2.6.1.-	L-Glutamate	2-Oxoglutarate	white
-dTDP-3-amino-2,3,6-trideoxy-4-keto-D-glucose/dTDP-3-amino-3,4,6-trideoxy-alpha-D-glucose/dTDP-2,6-dideoxy-D-kanosamine transaminase	2.6.1.-	L-Glutamate	dTDP-3-amino-3,4,6-trideoxy-D-glucose	white
-dTDP-3-amino-2,3,6-trideoxy-4-keto-D-glucose/dTDP-3-amino-3,4,6-trideoxy-alpha-D-glucose/dTDP-2,6-dideoxy-D-kanosamine transaminase	2.6.1.-	dTDP-3-amino-3,4,6-trideoxy-D-glucose	L-Glutamate	white
-dTDP-3-amino-2,3,6-trideoxy-4-keto-D-glucose/dTDP-3-amino-3,4,6-trideoxy-alpha-D-glucose/dTDP-2,6-dideoxy-D-kanosamine transaminase	2.6.1.-	dTDP-3-amino-3,4,6-trideoxy-D-glucose	dTDP-3-oxo-4,6-dideoxy-D-glucose	white
-dTDP-3-amino-2,3,6-trideoxy-4-keto-D-glucose/dTDP-3-amino-3,4,6-trideoxy-alpha-D-glucose/dTDP-2,6-dideoxy-D-kanosamine transaminase	2.6.1.-	dTDP-3-oxo-4,6-dideoxy-D-glucose	2-Oxoglutarate	white
-dTDP-3-amino-2,3,6-trideoxy-4-keto-D-glucose/dTDP-3-amino-3,4,6-trideoxy-alpha-D-glucose/dTDP-2,6-dideoxy-D-kanosamine transaminase	2.6.1.-	dTDP-3-oxo-4,6-dideoxy-D-glucose	dTDP-3-amino-3,4,6-trideoxy-D-glucose	white
-dTDP-3-amino-3,4,6-trideoxy-alpha-D-glucopyranose N,N-dimethyltransferase	2.1.1.234	S-Adenosyl-L-homocysteine	S-Adenosyl-L-methionine	white
-dTDP-3-amino-3,4,6-trideoxy-alpha-D-glucopyranose N,N-dimethyltransferase	2.1.1.234	S-Adenosyl-L-homocysteine	dTDP-3-amino-3,4,6-trideoxy-D-glucose	white
-dTDP-3-amino-3,4,6-trideoxy-alpha-D-glucopyranose N,N-dimethyltransferase	2.1.1.234	S-Adenosyl-L-methionine	S-Adenosyl-L-homocysteine	white
-dTDP-3-amino-3,4,6-trideoxy-alpha-D-glucopyranose N,N-dimethyltransferase	2.1.1.234	S-Adenosyl-L-methionine	dTDP-D-desosamine	white
-dTDP-3-amino-3,4,6-trideoxy-alpha-D-glucopyranose N,N-dimethyltransferase	2.1.1.234	dTDP-3-amino-3,4,6-trideoxy-D-glucose	S-Adenosyl-L-homocysteine	white
-dTDP-3-amino-3,4,6-trideoxy-alpha-D-glucopyranose N,N-dimethyltransferase	2.1.1.234	dTDP-3-amino-3,4,6-trideoxy-D-glucose	dTDP-D-desosamine	white
-dTDP-3-amino-3,4,6-trideoxy-alpha-D-glucopyranose N,N-dimethyltransferase	2.1.1.234	dTDP-D-desosamine	S-Adenosyl-L-methionine	white
-dTDP-3-amino-3,4,6-trideoxy-alpha-D-glucopyranose N,N-dimethyltransferase	2.1.1.234	dTDP-D-desosamine	dTDP-3-amino-3,4,6-trideoxy-D-glucose	white
-dTDP-3-amino-3,4,6-trideoxy-alpha-D-glucose transaminase	2.6.1.106	2-Oxoglutarate	L-Glutamate	white
-dTDP-3-amino-3,4,6-trideoxy-alpha-D-glucose transaminase	2.6.1.106	2-Oxoglutarate	dTDP-3-oxo-4,6-dideoxy-D-glucose	white
-dTDP-3-amino-3,4,6-trideoxy-alpha-D-glucose transaminase	2.6.1.106	L-Glutamate	2-Oxoglutarate	white
-dTDP-3-amino-3,4,6-trideoxy-alpha-D-glucose transaminase	2.6.1.106	L-Glutamate	dTDP-3-amino-3,4,6-trideoxy-D-glucose	white
-dTDP-3-amino-3,4,6-trideoxy-alpha-D-glucose transaminase	2.6.1.106	dTDP-3-amino-3,4,6-trideoxy-D-glucose	L-Glutamate	white
-dTDP-3-amino-3,4,6-trideoxy-alpha-D-glucose transaminase	2.6.1.106	dTDP-3-amino-3,4,6-trideoxy-D-glucose	dTDP-3-oxo-4,6-dideoxy-D-glucose	white
-dTDP-3-amino-3,4,6-trideoxy-alpha-D-glucose transaminase	2.6.1.106	dTDP-3-oxo-4,6-dideoxy-D-glucose	2-Oxoglutarate	white
-dTDP-3-amino-3,4,6-trideoxy-alpha-D-glucose transaminase	2.6.1.106	dTDP-3-oxo-4,6-dideoxy-D-glucose	dTDP-3-amino-3,4,6-trideoxy-D-glucose	white
-dTDP-3-amino-3,6-dideoxy-alpha-D-galactopyranose 3-N-acetyltransferase	2.3.1.197	Acetyl-CoA	CoA	white
-dTDP-3-amino-3,6-dideoxy-alpha-D-galactopyranose 3-N-acetyltransferase	2.3.1.197	Acetyl-CoA	dTDP-3-acetamido-3,6-dideoxy-alpha-D-galactopyranose	white
-dTDP-3-amino-3,6-dideoxy-alpha-D-galactopyranose 3-N-acetyltransferase	2.3.1.197	CoA	Acetyl-CoA	white
-dTDP-3-amino-3,6-dideoxy-alpha-D-galactopyranose 3-N-acetyltransferase	2.3.1.197	CoA	dTDP-3-amino-3,6-dideoxy-alpha-D-galactopyranose	white
-dTDP-3-amino-3,6-dideoxy-alpha-D-galactopyranose 3-N-acetyltransferase	2.3.1.197	dTDP-3-acetamido-3,6-dideoxy-alpha-D-galactopyranose	Acetyl-CoA	white
-dTDP-3-amino-3,6-dideoxy-alpha-D-galactopyranose 3-N-acetyltransferase	2.3.1.197	dTDP-3-acetamido-3,6-dideoxy-alpha-D-galactopyranose	dTDP-3-amino-3,6-dideoxy-alpha-D-galactopyranose	white
-dTDP-3-amino-3,6-dideoxy-alpha-D-galactopyranose 3-N-acetyltransferase	2.3.1.197	dTDP-3-amino-3,6-dideoxy-alpha-D-galactopyranose	CoA	white
-dTDP-3-amino-3,6-dideoxy-alpha-D-galactopyranose 3-N-acetyltransferase	2.3.1.197	dTDP-3-amino-3,6-dideoxy-alpha-D-galactopyranose	dTDP-3-acetamido-3,6-dideoxy-alpha-D-galactopyranose	white
-dTDP-3-amino-3,6-dideoxy-alpha-D-galactopyranose N,N-dimethyltransferase	2.1.1.236	S-Adenosyl-L-homocysteine	S-Adenosyl-L-methionine	white
-dTDP-3-amino-3,6-dideoxy-alpha-D-galactopyranose N,N-dimethyltransferase	2.1.1.236	S-Adenosyl-L-homocysteine	dTDP-3-amino-3,6-dideoxy-alpha-D-galactopyranose	white
-dTDP-3-amino-3,6-dideoxy-alpha-D-galactopyranose N,N-dimethyltransferase	2.1.1.236	S-Adenosyl-L-methionine	S-Adenosyl-L-homocysteine	white
-dTDP-3-amino-3,6-dideoxy-alpha-D-galactopyranose N,N-dimethyltransferase	2.1.1.236	S-Adenosyl-L-methionine	dTDP-3-dimethylamino-3,6-dideoxy-alpha-D-galactopyranose	white
-dTDP-3-amino-3,6-dideoxy-alpha-D-galactopyranose N,N-dimethyltransferase	2.1.1.236	dTDP-3-amino-3,6-dideoxy-alpha-D-galactopyranose	S-Adenosyl-L-homocysteine	white
-dTDP-3-amino-3,6-dideoxy-alpha-D-galactopyranose N,N-dimethyltransferase	2.1.1.236	dTDP-3-amino-3,6-dideoxy-alpha-D-galactopyranose	dTDP-3-dimethylamino-3,6-dideoxy-alpha-D-galactopyranose	white
-dTDP-3-amino-3,6-dideoxy-alpha-D-galactopyranose N,N-dimethyltransferase	2.1.1.236	dTDP-3-dimethylamino-3,6-dideoxy-alpha-D-galactopyranose	S-Adenosyl-L-methionine	white
-dTDP-3-amino-3,6-dideoxy-alpha-D-galactopyranose N,N-dimethyltransferase	2.1.1.236	dTDP-3-dimethylamino-3,6-dideoxy-alpha-D-galactopyranose	dTDP-3-amino-3,6-dideoxy-alpha-D-galactopyranose	white
-dTDP-3-amino-3,6-dideoxy-alpha-D-galactopyranose transaminase	2.6.1.90	2-Oxoglutarate	L-Glutamate	white
-dTDP-3-amino-3,6-dideoxy-alpha-D-galactopyranose transaminase	2.6.1.90	2-Oxoglutarate	dTDP-3-dehydro-6-deoxy-alpha-D-galactopyranose	white
-dTDP-3-amino-3,6-dideoxy-alpha-D-galactopyranose transaminase	2.6.1.90	L-Glutamate	2-Oxoglutarate	white
-dTDP-3-amino-3,6-dideoxy-alpha-D-galactopyranose transaminase	2.6.1.90	L-Glutamate	dTDP-3-amino-3,6-dideoxy-alpha-D-galactopyranose	white
-dTDP-3-amino-3,6-dideoxy-alpha-D-galactopyranose transaminase	2.6.1.90	dTDP-3-amino-3,6-dideoxy-alpha-D-galactopyranose	L-Glutamate	white
-dTDP-3-amino-3,6-dideoxy-alpha-D-galactopyranose transaminase	2.6.1.90	dTDP-3-amino-3,6-dideoxy-alpha-D-galactopyranose	dTDP-3-dehydro-6-deoxy-alpha-D-galactopyranose	white
-dTDP-3-amino-3,6-dideoxy-alpha-D-galactopyranose transaminase	2.6.1.90	dTDP-3-dehydro-6-deoxy-alpha-D-galactopyranose	2-Oxoglutarate	white
-dTDP-3-amino-3,6-dideoxy-alpha-D-galactopyranose transaminase	2.6.1.90	dTDP-3-dehydro-6-deoxy-alpha-D-galactopyranose	dTDP-3-amino-3,6-dideoxy-alpha-D-galactopyranose	white
-dTDP-3-amino-3,6-dideoxy-alpha-D-glucopyranose N,N-dimethyltransferase	2.1.1.235	H+	S-Adenosyl-L-methionine	white
-dTDP-3-amino-3,6-dideoxy-alpha-D-glucopyranose N,N-dimethyltransferase	2.1.1.235	H+	dTDP-3-amino-3,6-dideoxy-D-glucose	white
-dTDP-3-amino-3,6-dideoxy-alpha-D-glucopyranose N,N-dimethyltransferase	2.1.1.235	S-Adenosyl-L-homocysteine	S-Adenosyl-L-methionine	white
-dTDP-3-amino-3,6-dideoxy-alpha-D-glucopyranose N,N-dimethyltransferase	2.1.1.235	S-Adenosyl-L-homocysteine	dTDP-3-amino-3,6-dideoxy-D-glucose	white
-dTDP-3-amino-3,6-dideoxy-alpha-D-glucopyranose N,N-dimethyltransferase	2.1.1.235	S-Adenosyl-L-methionine	H+	white
-dTDP-3-amino-3,6-dideoxy-alpha-D-glucopyranose N,N-dimethyltransferase	2.1.1.235	S-Adenosyl-L-methionine	S-Adenosyl-L-homocysteine	white
-dTDP-3-amino-3,6-dideoxy-alpha-D-glucopyranose N,N-dimethyltransferase	2.1.1.235	S-Adenosyl-L-methionine	dTDP-D-mycaminose	white
-dTDP-3-amino-3,6-dideoxy-alpha-D-glucopyranose N,N-dimethyltransferase	2.1.1.235	dTDP-3-amino-3,6-dideoxy-D-glucose	H+	white
-dTDP-3-amino-3,6-dideoxy-alpha-D-glucopyranose N,N-dimethyltransferase	2.1.1.235	dTDP-3-amino-3,6-dideoxy-D-glucose	S-Adenosyl-L-homocysteine	white
-dTDP-3-amino-3,6-dideoxy-alpha-D-glucopyranose N,N-dimethyltransferase	2.1.1.235	dTDP-3-amino-3,6-dideoxy-D-glucose	dTDP-D-mycaminose	white
-dTDP-3-amino-3,6-dideoxy-alpha-D-glucopyranose N,N-dimethyltransferase	2.1.1.235	dTDP-D-mycaminose	S-Adenosyl-L-methionine	white
-dTDP-3-amino-3,6-dideoxy-alpha-D-glucopyranose N,N-dimethyltransferase	2.1.1.235	dTDP-D-mycaminose	dTDP-3-amino-3,6-dideoxy-D-glucose	white
-dTDP-3-amino-3,6-dideoxy-alpha-D-glucopyranose transaminase	2.6.1.89	2-Oxoglutarate	L-Glutamate	white
-dTDP-3-amino-3,6-dideoxy-alpha-D-glucopyranose transaminase	2.6.1.89	2-Oxoglutarate	dTDP-3-oxo-6-deoxy-D-glucose	white
-dTDP-3-amino-3,6-dideoxy-alpha-D-glucopyranose transaminase	2.6.1.89	L-Glutamate	2-Oxoglutarate	white
-dTDP-3-amino-3,6-dideoxy-alpha-D-glucopyranose transaminase	2.6.1.89	L-Glutamate	dTDP-3-amino-3,6-dideoxy-D-glucose	white
-dTDP-3-amino-3,6-dideoxy-alpha-D-glucopyranose transaminase	2.6.1.89	dTDP-3-amino-3,6-dideoxy-D-glucose	L-Glutamate	white
-dTDP-3-amino-3,6-dideoxy-alpha-D-glucopyranose transaminase	2.6.1.89	dTDP-3-amino-3,6-dideoxy-D-glucose	dTDP-3-oxo-6-deoxy-D-glucose	white
-dTDP-3-amino-3,6-dideoxy-alpha-D-glucopyranose transaminase	2.6.1.89	dTDP-3-oxo-6-deoxy-D-glucose	2-Oxoglutarate	white
-dTDP-3-amino-3,6-dideoxy-alpha-D-glucopyranose transaminase	2.6.1.89	dTDP-3-oxo-6-deoxy-D-glucose	dTDP-3-amino-3,6-dideoxy-D-glucose	white
-dTDP-4-amino-2,3,4,6-tetradeoxy-D-glucose N,N-dimethyltransferase	2.1.1.324	S-Adenosyl-L-homocysteine	S-Adenosyl-L-methionine	white
-dTDP-4-amino-2,3,4,6-tetradeoxy-D-glucose N,N-dimethyltransferase	2.1.1.324	S-Adenosyl-L-homocysteine	dTDP-4-amino-2,3,4,6-tetradeoxy-D-glucose	white
-dTDP-4-amino-2,3,4,6-tetradeoxy-D-glucose N,N-dimethyltransferase	2.1.1.324	S-Adenosyl-L-methionine	S-Adenosyl-L-homocysteine	white
-dTDP-4-amino-2,3,4,6-tetradeoxy-D-glucose N,N-dimethyltransferase	2.1.1.324	S-Adenosyl-L-methionine	dTDP-D-forosamine	white
-dTDP-4-amino-2,3,4,6-tetradeoxy-D-glucose N,N-dimethyltransferase	2.1.1.324	dTDP-4-amino-2,3,4,6-tetradeoxy-D-glucose	S-Adenosyl-L-homocysteine	white
-dTDP-4-amino-2,3,4,6-tetradeoxy-D-glucose N,N-dimethyltransferase	2.1.1.324	dTDP-4-amino-2,3,4,6-tetradeoxy-D-glucose	dTDP-D-forosamine	white
-dTDP-4-amino-2,3,4,6-tetradeoxy-D-glucose N,N-dimethyltransferase	2.1.1.324	dTDP-D-forosamine	S-Adenosyl-L-methionine	white
-dTDP-4-amino-2,3,4,6-tetradeoxy-D-glucose N,N-dimethyltransferase	2.1.1.324	dTDP-D-forosamine	dTDP-4-amino-2,3,4,6-tetradeoxy-D-glucose	white
-dTDP-4-amino-2,4-dideoxy-beta-L-xylose N-methyltransferase	2.1.1.-	S-Adenosyl-L-homocysteine	S-Adenosyl-L-methionine	white
-dTDP-4-amino-2,4-dideoxy-beta-L-xylose N-methyltransferase	2.1.1.-	S-Adenosyl-L-homocysteine	dTDP-4-amino-2,4-dideoxy-beta-L-xylose	white
-dTDP-4-amino-2,4-dideoxy-beta-L-xylose N-methyltransferase	2.1.1.-	S-Adenosyl-L-methionine	S-Adenosyl-L-homocysteine	white
-dTDP-4-amino-2,4-dideoxy-beta-L-xylose N-methyltransferase	2.1.1.-	S-Adenosyl-L-methionine	dTDP-4-methylamino-2,4-dideoxy-beta-L-xylose	white
-dTDP-4-amino-2,4-dideoxy-beta-L-xylose N-methyltransferase	2.1.1.-	dTDP-4-amino-2,4-dideoxy-beta-L-xylose	S-Adenosyl-L-homocysteine	white
-dTDP-4-amino-2,4-dideoxy-beta-L-xylose N-methyltransferase	2.1.1.-	dTDP-4-amino-2,4-dideoxy-beta-L-xylose	dTDP-4-methylamino-2,4-dideoxy-beta-L-xylose	white
-dTDP-4-amino-2,4-dideoxy-beta-L-xylose N-methyltransferase	2.1.1.-	dTDP-4-methylamino-2,4-dideoxy-beta-L-xylose	S-Adenosyl-L-methionine	white
-dTDP-4-amino-2,4-dideoxy-beta-L-xylose N-methyltransferase	2.1.1.-	dTDP-4-methylamino-2,4-dideoxy-beta-L-xylose	dTDP-4-amino-2,4-dideoxy-beta-L-xylose	white
-dTDP-4-amino-4,6-dideoxy-D-glucose ammonia-lyase	4.3.1.30	5'-Deoxyadenosine	Reduced acceptor	white
-dTDP-4-amino-4,6-dideoxy-D-glucose ammonia-lyase	4.3.1.30	5'-Deoxyadenosine	S-Adenosyl-L-methionine	white
-dTDP-4-amino-4,6-dideoxy-D-glucose ammonia-lyase	4.3.1.30	5'-Deoxyadenosine	dTDP-4-amino-4,6-dideoxy-D-glucose	white
-dTDP-4-amino-4,6-dideoxy-D-glucose ammonia-lyase	4.3.1.30	Acceptor	Reduced acceptor	white
-dTDP-4-amino-4,6-dideoxy-D-glucose ammonia-lyase	4.3.1.30	Acceptor	S-Adenosyl-L-methionine	white
-dTDP-4-amino-4,6-dideoxy-D-glucose ammonia-lyase	4.3.1.30	Acceptor	dTDP-4-amino-4,6-dideoxy-D-glucose	white
-dTDP-4-amino-4,6-dideoxy-D-glucose ammonia-lyase	4.3.1.30	Ammonia	Reduced acceptor	white
-dTDP-4-amino-4,6-dideoxy-D-glucose ammonia-lyase	4.3.1.30	Ammonia	S-Adenosyl-L-methionine	white
-dTDP-4-amino-4,6-dideoxy-D-glucose ammonia-lyase	4.3.1.30	Ammonia	dTDP-4-amino-4,6-dideoxy-D-glucose	white
-dTDP-4-amino-4,6-dideoxy-D-glucose ammonia-lyase	4.3.1.30	L-Methionine	Reduced acceptor	white
-dTDP-4-amino-4,6-dideoxy-D-glucose ammonia-lyase	4.3.1.30	L-Methionine	S-Adenosyl-L-methionine	white
-dTDP-4-amino-4,6-dideoxy-D-glucose ammonia-lyase	4.3.1.30	L-Methionine	dTDP-4-amino-4,6-dideoxy-D-glucose	white
-dTDP-4-amino-4,6-dideoxy-D-glucose ammonia-lyase	4.3.1.30	Reduced acceptor	5'-Deoxyadenosine	white
-dTDP-4-amino-4,6-dideoxy-D-glucose ammonia-lyase	4.3.1.30	Reduced acceptor	Acceptor	white
-dTDP-4-amino-4,6-dideoxy-D-glucose ammonia-lyase	4.3.1.30	Reduced acceptor	Ammonia	white
-dTDP-4-amino-4,6-dideoxy-D-glucose ammonia-lyase	4.3.1.30	Reduced acceptor	L-Methionine	white
-dTDP-4-amino-4,6-dideoxy-D-glucose ammonia-lyase	4.3.1.30	Reduced acceptor	dTDP-3-oxo-4,6-dideoxy-D-glucose	white
-dTDP-4-amino-4,6-dideoxy-D-glucose ammonia-lyase	4.3.1.30	S-Adenosyl-L-methionine	5'-Deoxyadenosine	white
-dTDP-4-amino-4,6-dideoxy-D-glucose ammonia-lyase	4.3.1.30	S-Adenosyl-L-methionine	Acceptor	white
-dTDP-4-amino-4,6-dideoxy-D-glucose ammonia-lyase	4.3.1.30	S-Adenosyl-L-methionine	Ammonia	white
-dTDP-4-amino-4,6-dideoxy-D-glucose ammonia-lyase	4.3.1.30	S-Adenosyl-L-methionine	L-Methionine	white
-dTDP-4-amino-4,6-dideoxy-D-glucose ammonia-lyase	4.3.1.30	S-Adenosyl-L-methionine	dTDP-3-oxo-4,6-dideoxy-D-glucose	white
-dTDP-4-amino-4,6-dideoxy-D-glucose ammonia-lyase	4.3.1.30	dTDP-3-oxo-4,6-dideoxy-D-glucose	Reduced acceptor	white
-dTDP-4-amino-4,6-dideoxy-D-glucose ammonia-lyase	4.3.1.30	dTDP-3-oxo-4,6-dideoxy-D-glucose	S-Adenosyl-L-methionine	white
-dTDP-4-amino-4,6-dideoxy-D-glucose ammonia-lyase	4.3.1.30	dTDP-3-oxo-4,6-dideoxy-D-glucose	dTDP-4-amino-4,6-dideoxy-D-glucose	white
-dTDP-4-amino-4,6-dideoxy-D-glucose ammonia-lyase	4.3.1.30	dTDP-4-amino-4,6-dideoxy-D-glucose	5'-Deoxyadenosine	white
-dTDP-4-amino-4,6-dideoxy-D-glucose ammonia-lyase	4.3.1.30	dTDP-4-amino-4,6-dideoxy-D-glucose	Acceptor	white
-dTDP-4-amino-4,6-dideoxy-D-glucose ammonia-lyase	4.3.1.30	dTDP-4-amino-4,6-dideoxy-D-glucose	Ammonia	white
-dTDP-4-amino-4,6-dideoxy-D-glucose ammonia-lyase	4.3.1.30	dTDP-4-amino-4,6-dideoxy-D-glucose	L-Methionine	white
-dTDP-4-amino-4,6-dideoxy-D-glucose ammonia-lyase	4.3.1.30	dTDP-4-amino-4,6-dideoxy-D-glucose	dTDP-3-oxo-4,6-dideoxy-D-glucose	white
-dTDP-4-amino-4,6-dideoxy-D-glucose transaminase	2.6.1.33	2-Oxoglutarate	L-Glutamate	white
-dTDP-4-amino-4,6-dideoxy-D-glucose transaminase	2.6.1.33	2-Oxoglutarate	dTDP-4-oxo-6-deoxy-D-glucose	white
-dTDP-4-amino-4,6-dideoxy-D-glucose transaminase	2.6.1.33	L-Glutamate	2-Oxoglutarate	white
-dTDP-4-amino-4,6-dideoxy-D-glucose transaminase	2.6.1.33	L-Glutamate	dTDP-4-amino-4,6-dideoxy-D-glucose	white
-dTDP-4-amino-4,6-dideoxy-D-glucose transaminase	2.6.1.33	dTDP-4-amino-4,6-dideoxy-D-glucose	L-Glutamate	white
-dTDP-4-amino-4,6-dideoxy-D-glucose transaminase	2.6.1.33	dTDP-4-amino-4,6-dideoxy-D-glucose	dTDP-4-oxo-6-deoxy-D-glucose	white
-dTDP-4-amino-4,6-dideoxy-D-glucose transaminase	2.6.1.33	dTDP-4-oxo-6-deoxy-D-glucose	2-Oxoglutarate	white
-dTDP-4-amino-4,6-dideoxy-D-glucose transaminase	2.6.1.33	dTDP-4-oxo-6-deoxy-D-glucose	dTDP-4-amino-4,6-dideoxy-D-glucose	white
-dTDP-4-amino-4,6-dideoxy-D-glucose/dTDP-4-amino-2,4-dideoxy-beta-L-xylose transaminase	2.6.1.33	2-Oxoglutarate	L-Glutamate	white
-dTDP-4-amino-4,6-dideoxy-D-glucose/dTDP-4-amino-2,4-dideoxy-beta-L-xylose transaminase	2.6.1.33	2-Oxoglutarate	dTDP-4-oxo-6-deoxy-D-glucose	white
-dTDP-4-amino-4,6-dideoxy-D-glucose/dTDP-4-amino-2,4-dideoxy-beta-L-xylose transaminase	2.6.1.33	L-Glutamate	2-Oxoglutarate	white
-dTDP-4-amino-4,6-dideoxy-D-glucose/dTDP-4-amino-2,4-dideoxy-beta-L-xylose transaminase	2.6.1.33	L-Glutamate	dTDP-4-amino-4,6-dideoxy-D-glucose	white
-dTDP-4-amino-4,6-dideoxy-D-glucose/dTDP-4-amino-2,4-dideoxy-beta-L-xylose transaminase	2.6.1.33	dTDP-4-amino-4,6-dideoxy-D-glucose	L-Glutamate	white
-dTDP-4-amino-4,6-dideoxy-D-glucose/dTDP-4-amino-2,4-dideoxy-beta-L-xylose transaminase	2.6.1.33	dTDP-4-amino-4,6-dideoxy-D-glucose	dTDP-4-oxo-6-deoxy-D-glucose	white
-dTDP-4-amino-4,6-dideoxy-D-glucose/dTDP-4-amino-2,4-dideoxy-beta-L-xylose transaminase	2.6.1.33	dTDP-4-oxo-6-deoxy-D-glucose	2-Oxoglutarate	white
-dTDP-4-amino-4,6-dideoxy-D-glucose/dTDP-4-amino-2,4-dideoxy-beta-L-xylose transaminase	2.6.1.33	dTDP-4-oxo-6-deoxy-D-glucose	dTDP-4-amino-4,6-dideoxy-D-glucose	white
-dTDP-4-dehydro-2,3,6-trideoxy-D-glucose 4-aminotransferase	2.6.1.110	2-Oxoglutarate	L-Glutamate	white
-dTDP-4-dehydro-2,3,6-trideoxy-D-glucose 4-aminotransferase	2.6.1.110	2-Oxoglutarate	dTDP-4-oxo-2,3,6-trideoxy-D-glucose	white
-dTDP-4-dehydro-2,3,6-trideoxy-D-glucose 4-aminotransferase	2.6.1.110	L-Glutamate	2-Oxoglutarate	white
-dTDP-4-dehydro-2,3,6-trideoxy-D-glucose 4-aminotransferase	2.6.1.110	L-Glutamate	dTDP-4-amino-2,3,4,6-tetradeoxy-D-glucose	white
-dTDP-4-dehydro-2,3,6-trideoxy-D-glucose 4-aminotransferase	2.6.1.110	dTDP-4-amino-2,3,4,6-tetradeoxy-D-glucose	L-Glutamate	white
-dTDP-4-dehydro-2,3,6-trideoxy-D-glucose 4-aminotransferase	2.6.1.110	dTDP-4-amino-2,3,4,6-tetradeoxy-D-glucose	dTDP-4-oxo-2,3,6-trideoxy-D-glucose	white
-dTDP-4-dehydro-2,3,6-trideoxy-D-glucose 4-aminotransferase	2.6.1.110	dTDP-4-oxo-2,3,6-trideoxy-D-glucose	2-Oxoglutarate	white
-dTDP-4-dehydro-2,3,6-trideoxy-D-glucose 4-aminotransferase	2.6.1.110	dTDP-4-oxo-2,3,6-trideoxy-D-glucose	dTDP-4-amino-2,3,4,6-tetradeoxy-D-glucose	white
-dTDP-4-dehydro-2,6-dideoxy-D-glucose 3-dehydratase	4.2.1.164	H+	H2O	white
-dTDP-4-dehydro-2,6-dideoxy-D-glucose 3-dehydratase	4.2.1.164	H+	Oxidized ferredoxin	white
-dTDP-4-dehydro-2,6-dideoxy-D-glucose 3-dehydratase	4.2.1.164	H+	dTDP-4-oxo-2,3,6-trideoxy-D-glucose	white
-dTDP-4-dehydro-2,6-dideoxy-D-glucose 3-dehydratase	4.2.1.164	H2O	H+	white
-dTDP-4-dehydro-2,6-dideoxy-D-glucose 3-dehydratase	4.2.1.164	H2O	Reduced ferredoxin	white
-dTDP-4-dehydro-2,6-dideoxy-D-glucose 3-dehydratase	4.2.1.164	H2O	dTDP-4-oxo-2,6-dideoxy-D-glucose	white
-dTDP-4-dehydro-2,6-dideoxy-D-glucose 3-dehydratase	4.2.1.164	Oxidized ferredoxin	H+	white
-dTDP-4-dehydro-2,6-dideoxy-D-glucose 3-dehydratase	4.2.1.164	Oxidized ferredoxin	Reduced ferredoxin	white
-dTDP-4-dehydro-2,6-dideoxy-D-glucose 3-dehydratase	4.2.1.164	Oxidized ferredoxin	dTDP-4-oxo-2,6-dideoxy-D-glucose	white
-dTDP-4-dehydro-2,6-dideoxy-D-glucose 3-dehydratase	4.2.1.164	Reduced ferredoxin	H2O	white
-dTDP-4-dehydro-2,6-dideoxy-D-glucose 3-dehydratase	4.2.1.164	Reduced ferredoxin	Oxidized ferredoxin	white
-dTDP-4-dehydro-2,6-dideoxy-D-glucose 3-dehydratase	4.2.1.164	Reduced ferredoxin	dTDP-4-oxo-2,3,6-trideoxy-D-glucose	white
-dTDP-4-dehydro-2,6-dideoxy-D-glucose 3-dehydratase	4.2.1.164	dTDP-4-oxo-2,3,6-trideoxy-D-glucose	H+	white
-dTDP-4-dehydro-2,6-dideoxy-D-glucose 3-dehydratase	4.2.1.164	dTDP-4-oxo-2,3,6-trideoxy-D-glucose	Reduced ferredoxin	white
-dTDP-4-dehydro-2,6-dideoxy-D-glucose 3-dehydratase	4.2.1.164	dTDP-4-oxo-2,3,6-trideoxy-D-glucose	dTDP-4-oxo-2,6-dideoxy-D-glucose	white
-dTDP-4-dehydro-2,6-dideoxy-D-glucose 3-dehydratase	4.2.1.164	dTDP-4-oxo-2,6-dideoxy-D-glucose	H2O	white
-dTDP-4-dehydro-2,6-dideoxy-D-glucose 3-dehydratase	4.2.1.164	dTDP-4-oxo-2,6-dideoxy-D-glucose	Oxidized ferredoxin	white
-dTDP-4-dehydro-2,6-dideoxy-D-glucose 3-dehydratase	4.2.1.164	dTDP-4-oxo-2,6-dideoxy-D-glucose	dTDP-4-oxo-2,3,6-trideoxy-D-glucose	white
-dTDP-4-dehydro-6-deoxy-D-glucose 3-epimerase	5.1.3.27	dTDP-4-oxo-6-deoxy-D-allose	dTDP-4-oxo-6-deoxy-D-glucose	white
-dTDP-4-dehydro-6-deoxy-D-glucose 3-epimerase	5.1.3.27	dTDP-4-oxo-6-deoxy-D-glucose	dTDP-4-oxo-6-deoxy-D-allose	white
-dTDP-4-dehydro-6-deoxy-alpha-D-glucopyranose 2,3-dehydratase	4.2.1.159	H2O	dTDP-4-oxo-6-deoxy-D-glucose	white
-dTDP-4-dehydro-6-deoxy-alpha-D-glucopyranose 2,3-dehydratase	4.2.1.159	dTDP-3,4-dioxo-2,6-dideoxy-D-glucose	dTDP-4-oxo-6-deoxy-D-glucose	white
-dTDP-4-dehydro-6-deoxy-alpha-D-glucopyranose 2,3-dehydratase	4.2.1.159	dTDP-4-oxo-6-deoxy-D-glucose	H2O	white
-dTDP-4-dehydro-6-deoxy-alpha-D-glucopyranose 2,3-dehydratase	4.2.1.159	dTDP-4-oxo-6-deoxy-D-glucose	dTDP-3,4-dioxo-2,6-dideoxy-D-glucose	white
-dTDP-4-dehydro-6-deoxy-alpha-D-gulose 4-ketoreductase	1.1.1.364	H+	NAD+	white
-dTDP-4-dehydro-6-deoxy-alpha-D-gulose 4-ketoreductase	1.1.1.364	H+	dTDP-6-deoxy-D-allose	white
-dTDP-4-dehydro-6-deoxy-alpha-D-gulose 4-ketoreductase	1.1.1.364	NAD+	H+	white
-dTDP-4-dehydro-6-deoxy-alpha-D-gulose 4-ketoreductase	1.1.1.364	NAD+	NADH	white
-dTDP-4-dehydro-6-deoxy-alpha-D-gulose 4-ketoreductase	1.1.1.364	NAD+	dTDP-4-oxo-6-deoxy-D-allose	white
-dTDP-4-dehydro-6-deoxy-alpha-D-gulose 4-ketoreductase	1.1.1.364	NADH	NAD+	white
-dTDP-4-dehydro-6-deoxy-alpha-D-gulose 4-ketoreductase	1.1.1.364	NADH	dTDP-6-deoxy-D-allose	white
-dTDP-4-dehydro-6-deoxy-alpha-D-gulose 4-ketoreductase	1.1.1.364	dTDP-4-oxo-6-deoxy-D-allose	NAD+	white
-dTDP-4-dehydro-6-deoxy-alpha-D-gulose 4-ketoreductase	1.1.1.364	dTDP-4-oxo-6-deoxy-D-allose	dTDP-6-deoxy-D-allose	white
-dTDP-4-dehydro-6-deoxy-alpha-D-gulose 4-ketoreductase	1.1.1.364	dTDP-6-deoxy-D-allose	H+	white
-dTDP-4-dehydro-6-deoxy-alpha-D-gulose 4-ketoreductase	1.1.1.364	dTDP-6-deoxy-D-allose	NADH	white
-dTDP-4-dehydro-6-deoxy-alpha-D-gulose 4-ketoreductase	1.1.1.364	dTDP-6-deoxy-D-allose	dTDP-4-oxo-6-deoxy-D-allose	white
-dTDP-4-dehydro-6-deoxyglucose reductase	1.1.1.266	H+	NADP+	white
-dTDP-4-dehydro-6-deoxyglucose reductase	1.1.1.266	H+	dTDP-D-fucose	white
-dTDP-4-dehydro-6-deoxyglucose reductase	1.1.1.266	NADP+	H+	white
-dTDP-4-dehydro-6-deoxyglucose reductase	1.1.1.266	NADP+	NADPH	white
-dTDP-4-dehydro-6-deoxyglucose reductase	1.1.1.266	NADP+	dTDP-4-oxo-6-deoxy-D-glucose	white
-dTDP-4-dehydro-6-deoxyglucose reductase	1.1.1.266	NADPH	NADP+	white
-dTDP-4-dehydro-6-deoxyglucose reductase	1.1.1.266	NADPH	dTDP-D-fucose	white
-dTDP-4-dehydro-6-deoxyglucose reductase	1.1.1.266	dTDP-4-oxo-6-deoxy-D-glucose	NADP+	white
-dTDP-4-dehydro-6-deoxyglucose reductase	1.1.1.266	dTDP-4-oxo-6-deoxy-D-glucose	dTDP-D-fucose	white
-dTDP-4-dehydro-6-deoxyglucose reductase	1.1.1.266	dTDP-D-fucose	H+	white
-dTDP-4-dehydro-6-deoxyglucose reductase	1.1.1.266	dTDP-D-fucose	NADPH	white
-dTDP-4-dehydro-6-deoxyglucose reductase	1.1.1.266	dTDP-D-fucose	dTDP-4-oxo-6-deoxy-D-glucose	white
-dTDP-4-dehydrorhamnose 3,5-epimerase	5.1.3.13	dTDP-4-oxo-6-deoxy-D-glucose	dTDP-4-dehydro-beta-L-rhamnose	green
-dTDP-4-dehydrorhamnose reductase	1.1.1.133	NADP+	H+	green
-dTDP-4-dehydrorhamnose reductase	1.1.1.133	NADP+	NADPH	green
-dTDP-4-dehydrorhamnose reductase	1.1.1.133	NADP+	dTDP-4-dehydro-beta-L-rhamnose	green
-dTDP-4-dehydrorhamnose reductase	1.1.1.133	dTDP-L-rhamnose	H+	green
-dTDP-4-dehydrorhamnose reductase	1.1.1.133	dTDP-L-rhamnose	NADPH	green
-dTDP-4-dehydrorhamnose reductase	1.1.1.133	dTDP-L-rhamnose	dTDP-4-dehydro-beta-L-rhamnose	green
-dTDP-4-keto-6-deoxy-L-hexose 4-reductase	1.1.1.-	H+	NADP+	white
-dTDP-4-keto-6-deoxy-L-hexose 4-reductase	1.1.1.-	H+	dTDP-L-mycarose	white
-dTDP-4-keto-6-deoxy-L-hexose 4-reductase	1.1.1.-	NADP+	H+	white
-dTDP-4-keto-6-deoxy-L-hexose 4-reductase	1.1.1.-	NADP+	NADPH	white
-dTDP-4-keto-6-deoxy-L-hexose 4-reductase	1.1.1.-	NADP+	dTDP-3-methyl-4-oxo-2,6-dideoxy-L-allose	white
-dTDP-4-keto-6-deoxy-L-hexose 4-reductase	1.1.1.-	NADPH	NADP+	white
-dTDP-4-keto-6-deoxy-L-hexose 4-reductase	1.1.1.-	NADPH	dTDP-L-mycarose	white
-dTDP-4-keto-6-deoxy-L-hexose 4-reductase	1.1.1.-	dTDP-3-methyl-4-oxo-2,6-dideoxy-L-allose	NADP+	white
-dTDP-4-keto-6-deoxy-L-hexose 4-reductase	1.1.1.-	dTDP-3-methyl-4-oxo-2,6-dideoxy-L-allose	dTDP-L-mycarose	white
-dTDP-4-keto-6-deoxy-L-hexose 4-reductase	1.1.1.-	dTDP-L-mycarose	H+	white
-dTDP-4-keto-6-deoxy-L-hexose 4-reductase	1.1.1.-	dTDP-L-mycarose	NADPH	white
-dTDP-4-keto-6-deoxy-L-hexose 4-reductase	1.1.1.-	dTDP-L-mycarose	dTDP-3-methyl-4-oxo-2,6-dideoxy-L-allose	white
-dTDP-4-keto-6-deoxyhexose 4-ketoreductase	5.1.3.-	dTDP-3-N,N-dimethylamino-4-oxo-2,3,6-trideoxy-L-allose	dTDP-L-megosamine	white
-dTDP-4-keto-6-deoxyhexose 4-ketoreductase	5.1.3.-	dTDP-L-megosamine	dTDP-3-N,N-dimethylamino-4-oxo-2,3,6-trideoxy-L-allose	white
-dTDP-4-keto-6-deoxyhexose reductase	1.1.1.-	H+	NAD+	white
-dTDP-4-keto-6-deoxyhexose reductase	1.1.1.-	H+	dTDP-5-dimethyl-L-lyxose	white
-dTDP-4-keto-6-deoxyhexose reductase	1.1.1.-	NAD+	H+	white
-dTDP-4-keto-6-deoxyhexose reductase	1.1.1.-	NAD+	NADH	white
-dTDP-4-keto-6-deoxyhexose reductase	1.1.1.-	NAD+	dTDP-4-oxo-5-C-methyl-L-rhamnose	white
-dTDP-4-keto-6-deoxyhexose reductase	1.1.1.-	NADH	NAD+	white
-dTDP-4-keto-6-deoxyhexose reductase	1.1.1.-	NADH	dTDP-5-dimethyl-L-lyxose	white
-dTDP-4-keto-6-deoxyhexose reductase	1.1.1.-	dTDP-4-oxo-5-C-methyl-L-rhamnose	NAD+	white
-dTDP-4-keto-6-deoxyhexose reductase	1.1.1.-	dTDP-4-oxo-5-C-methyl-L-rhamnose	dTDP-5-dimethyl-L-lyxose	white
-dTDP-4-keto-6-deoxyhexose reductase	1.1.1.-	dTDP-5-dimethyl-L-lyxose	H+	white
-dTDP-4-keto-6-deoxyhexose reductase	1.1.1.-	dTDP-5-dimethyl-L-lyxose	NADH	white
-dTDP-4-keto-6-deoxyhexose reductase	1.1.1.-	dTDP-5-dimethyl-L-lyxose	dTDP-4-oxo-5-C-methyl-L-rhamnose	white
-dTDP-4-oxo-2,6-dideoxy-D-glucose 3,5-epimerase	5.1.3.-	dTDP-4-oxo-2,6-dideoxy-D-glucose	dTDP-4-oxo-2,6-dideoxy-L-mannose	white
-dTDP-4-oxo-2,6-dideoxy-D-glucose 3,5-epimerase	5.1.3.-	dTDP-4-oxo-2,6-dideoxy-L-mannose	dTDP-4-oxo-2,6-dideoxy-D-glucose	white
-dTDP-4-oxo-alpha-D-xylose 2,3-dehydratase	4.2.1.-	H2O	dTDP-4-oxo-alpha-D-xylose	white
-dTDP-4-oxo-alpha-D-xylose 2,3-dehydratase	4.2.1.-	dTDP-4-oxo-2-deoxy-alpha-D-pentos-2-ene	dTDP-4-oxo-alpha-D-xylose	white
-dTDP-4-oxo-alpha-D-xylose 2,3-dehydratase	4.2.1.-	dTDP-4-oxo-alpha-D-xylose	H2O	white
-dTDP-4-oxo-alpha-D-xylose 2,3-dehydratase	4.2.1.-	dTDP-4-oxo-alpha-D-xylose	dTDP-4-oxo-2-deoxy-alpha-D-pentos-2-ene	white
-dTDP-6-deoxy-L-talose 4-dehydrogenase (NAD+)	1.1.1.339	H+	NAD+	white
-dTDP-6-deoxy-L-talose 4-dehydrogenase (NAD+)	1.1.1.339	H+	dTDP-6-deoxy-beta-L-talose	white
-dTDP-6-deoxy-L-talose 4-dehydrogenase (NAD+)	1.1.1.339	NAD+	H+	white
-dTDP-6-deoxy-L-talose 4-dehydrogenase (NAD+)	1.1.1.339	NAD+	NADH	white
-dTDP-6-deoxy-L-talose 4-dehydrogenase (NAD+)	1.1.1.339	NAD+	dTDP-4-dehydro-beta-L-rhamnose	white
-dTDP-6-deoxy-L-talose 4-dehydrogenase (NAD+)	1.1.1.339	NADH	NAD+	white
-dTDP-6-deoxy-L-talose 4-dehydrogenase (NAD+)	1.1.1.339	NADH	dTDP-6-deoxy-beta-L-talose	white
-dTDP-6-deoxy-L-talose 4-dehydrogenase (NAD+)	1.1.1.339	dTDP-4-dehydro-beta-L-rhamnose	NAD+	white
-dTDP-6-deoxy-L-talose 4-dehydrogenase (NAD+)	1.1.1.339	dTDP-4-dehydro-beta-L-rhamnose	dTDP-6-deoxy-beta-L-talose	white
-dTDP-6-deoxy-L-talose 4-dehydrogenase (NAD+)	1.1.1.339	dTDP-6-deoxy-beta-L-talose	H+	white
-dTDP-6-deoxy-L-talose 4-dehydrogenase (NAD+)	1.1.1.339	dTDP-6-deoxy-beta-L-talose	NADH	white
-dTDP-6-deoxy-L-talose 4-dehydrogenase (NAD+)	1.1.1.339	dTDP-6-deoxy-beta-L-talose	dTDP-4-dehydro-beta-L-rhamnose	white
-dTDP-6-deoxy-L-talose 4-dehydrogenase [NAD(P)+]	1.1.1.344	H+	NADP+	white
-dTDP-6-deoxy-L-talose 4-dehydrogenase [NAD(P)+]	1.1.1.344	H+	dTDP-6-deoxy-beta-L-talose	white
-dTDP-6-deoxy-L-talose 4-dehydrogenase [NAD(P)+]	1.1.1.344	NADP+	H+	white
-dTDP-6-deoxy-L-talose 4-dehydrogenase [NAD(P)+]	1.1.1.344	NADP+	NADPH	white
-dTDP-6-deoxy-L-talose 4-dehydrogenase [NAD(P)+]	1.1.1.344	NADP+	dTDP-4-dehydro-beta-L-rhamnose	white
-dTDP-6-deoxy-L-talose 4-dehydrogenase [NAD(P)+]	1.1.1.344	NADPH	NADP+	white
-dTDP-6-deoxy-L-talose 4-dehydrogenase [NAD(P)+]	1.1.1.344	NADPH	dTDP-6-deoxy-beta-L-talose	white
-dTDP-6-deoxy-L-talose 4-dehydrogenase [NAD(P)+]	1.1.1.344	dTDP-4-dehydro-beta-L-rhamnose	NADP+	white
-dTDP-6-deoxy-L-talose 4-dehydrogenase [NAD(P)+]	1.1.1.344	dTDP-4-dehydro-beta-L-rhamnose	dTDP-6-deoxy-beta-L-talose	white
-dTDP-6-deoxy-L-talose 4-dehydrogenase [NAD(P)+]	1.1.1.344	dTDP-6-deoxy-beta-L-talose	H+	white
-dTDP-6-deoxy-L-talose 4-dehydrogenase [NAD(P)+]	1.1.1.344	dTDP-6-deoxy-beta-L-talose	NADPH	white
-dTDP-6-deoxy-L-talose 4-dehydrogenase [NAD(P)+]	1.1.1.344	dTDP-6-deoxy-beta-L-talose	dTDP-4-dehydro-beta-L-rhamnose	white
-dTDP-L-rhamnose 4-epimerase	5.1.3.25	dTDP-6-deoxy-beta-L-talose	dTDP-L-rhamnose	green
-dTDP-L-rhamnose 4-epimerase	5.1.3.25	dTDP-L-rhamnose	dTDP-6-deoxy-beta-L-talose	green
-dTDP-alpha-D-glucose dehydrogenase	1.1.1.-	H+	H2O	white
-dTDP-alpha-D-glucose dehydrogenase	1.1.1.-	H+	NAD+	white
-dTDP-alpha-D-glucose dehydrogenase	1.1.1.-	H+	dTDP-glucose	white
-dTDP-alpha-D-glucose dehydrogenase	1.1.1.-	H2O	H+	white
-dTDP-alpha-D-glucose dehydrogenase	1.1.1.-	H2O	NADH	white
-dTDP-alpha-D-glucose dehydrogenase	1.1.1.-	H2O	dTDP-D-glucuronate	white
-dTDP-alpha-D-glucose dehydrogenase	1.1.1.-	NAD+	H+	white
-dTDP-alpha-D-glucose dehydrogenase	1.1.1.-	NAD+	NADH	white
-dTDP-alpha-D-glucose dehydrogenase	1.1.1.-	NAD+	dTDP-D-glucuronate	white
-dTDP-alpha-D-glucose dehydrogenase	1.1.1.-	NADH	H2O	white
-dTDP-alpha-D-glucose dehydrogenase	1.1.1.-	NADH	NAD+	white
-dTDP-alpha-D-glucose dehydrogenase	1.1.1.-	NADH	dTDP-glucose	white
-dTDP-alpha-D-glucose dehydrogenase	1.1.1.-	dTDP-D-glucuronate	H2O	white
-dTDP-alpha-D-glucose dehydrogenase	1.1.1.-	dTDP-D-glucuronate	NAD+	white
-dTDP-alpha-D-glucose dehydrogenase	1.1.1.-	dTDP-D-glucuronate	dTDP-glucose	white
-dTDP-alpha-D-glucose dehydrogenase	1.1.1.-	dTDP-glucose	H+	white
-dTDP-alpha-D-glucose dehydrogenase	1.1.1.-	dTDP-glucose	NADH	white
-dTDP-alpha-D-glucose dehydrogenase	1.1.1.-	dTDP-glucose	dTDP-D-glucuronate	white
-dTDP-alpha-D-glucuronic acid decarboxylase	1.1.1.-	CO2	NAD+	white
-dTDP-alpha-D-glucuronic acid decarboxylase	1.1.1.-	CO2	dTDP-D-glucuronate	white
-dTDP-alpha-D-glucuronic acid decarboxylase	1.1.1.-	H+	NAD+	white
-dTDP-alpha-D-glucuronic acid decarboxylase	1.1.1.-	H+	dTDP-D-glucuronate	white
-dTDP-alpha-D-glucuronic acid decarboxylase	1.1.1.-	NAD+	CO2	white
-dTDP-alpha-D-glucuronic acid decarboxylase	1.1.1.-	NAD+	H+	white
-dTDP-alpha-D-glucuronic acid decarboxylase	1.1.1.-	NAD+	NADH	white
-dTDP-alpha-D-glucuronic acid decarboxylase	1.1.1.-	NAD+	dTDP-4-oxo-alpha-D-xylose	white
-dTDP-alpha-D-glucuronic acid decarboxylase	1.1.1.-	NADH	NAD+	white
-dTDP-alpha-D-glucuronic acid decarboxylase	1.1.1.-	NADH	dTDP-D-glucuronate	white
-dTDP-alpha-D-glucuronic acid decarboxylase	1.1.1.-	dTDP-4-oxo-alpha-D-xylose	NAD+	white
-dTDP-alpha-D-glucuronic acid decarboxylase	1.1.1.-	dTDP-4-oxo-alpha-D-xylose	dTDP-D-glucuronate	white
-dTDP-alpha-D-glucuronic acid decarboxylase	1.1.1.-	dTDP-D-glucuronate	CO2	white
-dTDP-alpha-D-glucuronic acid decarboxylase	1.1.1.-	dTDP-D-glucuronate	H+	white
-dTDP-alpha-D-glucuronic acid decarboxylase	1.1.1.-	dTDP-D-glucuronate	NADH	white
-dTDP-alpha-D-glucuronic acid decarboxylase	1.1.1.-	dTDP-D-glucuronate	dTDP-4-oxo-alpha-D-xylose	white
-dTDP-fucopyranose mutase	5.4.99.59	dTDP-D-fucose	dTDP-alpha-D-fucofuranose	white
-dTDP-fucopyranose mutase	5.4.99.59	dTDP-alpha-D-fucofuranose	dTDP-D-fucose	white
-dTDP-glucose 4,6-dehydratase	4.2.1.46	dTDP-glucose	H2O	green
-dTDP-glucose 4,6-dehydratase	4.2.1.46	dTDP-glucose	dTDP-4-oxo-6-deoxy-D-glucose	green
-dTDP-rhamnose C3-O-methyltransferase	2.1.1.-	S-Adenosyl-L-homocysteine	S-Adenosyl-L-methionine	white
-dTDP-rhamnose C3-O-methyltransferase	2.1.1.-	S-Adenosyl-L-homocysteine	dTDP-L-rhamnose	white
-dTDP-rhamnose C3-O-methyltransferase	2.1.1.-	S-Adenosyl-L-methionine	S-Adenosyl-L-homocysteine	white
-dTDP-rhamnose C3-O-methyltransferase	2.1.1.-	S-Adenosyl-L-methionine	dTDP-3-O-methyl-beta-L-rhamnose	white
-dTDP-rhamnose C3-O-methyltransferase	2.1.1.-	dTDP-3-O-methyl-beta-L-rhamnose	S-Adenosyl-L-methionine	white
-dTDP-rhamnose C3-O-methyltransferase	2.1.1.-	dTDP-3-O-methyl-beta-L-rhamnose	dTDP-L-rhamnose	white
-dTDP-rhamnose C3-O-methyltransferase	2.1.1.-	dTDP-L-rhamnose	S-Adenosyl-L-homocysteine	white
-dTDP-rhamnose C3-O-methyltransferase	2.1.1.-	dTDP-L-rhamnose	dTDP-3-O-methyl-beta-L-rhamnose	white
-glucose-1-phosphate thymidylyltransferase	2.7.7.24	D-Glucose 1-phosphate	Diphosphate	green
-glucose-1-phosphate thymidylyltransferase	2.7.7.24	D-Glucose 1-phosphate	dTDP-glucose	green
-glucose-1-phosphate thymidylyltransferase	2.7.7.24	dTTP	Diphosphate	green
-glucose-1-phosphate thymidylyltransferase	2.7.7.24	dTTP	dTDP-glucose	green
+enzyme_name	EC	source	target	reaction	color
+3,5-epimerase/4-reductase	5.1.3.-	UDP-4-dehydro-6-deoxy-D-glucose	UDP-4-keto-rhamnose	R08704	white
+3,5-epimerase/4-reductase	5.1.3.-	UDP-4-keto-rhamnose	UDP-4-dehydro-6-deoxy-D-glucose	R08704	white
+3-O-methyltransferase	2.1.1.-	S-Adenosyl-L-homocysteine	S-Adenosyl-L-methionine	R11041	white
+3-O-methyltransferase	2.1.1.-	S-Adenosyl-L-homocysteine	dTDP-4-oxo-2,6-dideoxy-L-mannose	R11041	white
+3-O-methyltransferase	2.1.1.-	S-Adenosyl-L-methionine	S-Adenosyl-L-homocysteine	R11041	white
+3-O-methyltransferase	2.1.1.-	S-Adenosyl-L-methionine	dTDP-3-O-methyl-4-oxo-2,6-dideoxy-L-mannose	R11041	white
+3-O-methyltransferase	2.1.1.-	dTDP-3-O-methyl-4-oxo-2,6-dideoxy-L-mannose	S-Adenosyl-L-methionine	R11041	white
+3-O-methyltransferase	2.1.1.-	dTDP-3-O-methyl-4-oxo-2,6-dideoxy-L-mannose	dTDP-4-oxo-2,6-dideoxy-L-mannose	R11041	white
+3-O-methyltransferase	2.1.1.-	dTDP-4-oxo-2,6-dideoxy-L-mannose	S-Adenosyl-L-homocysteine	R11041	white
+3-O-methyltransferase	2.1.1.-	dTDP-4-oxo-2,6-dideoxy-L-mannose	dTDP-3-O-methyl-4-oxo-2,6-dideoxy-L-mannose	R11041	white
+4-ketoreductase	2.1.1.-	H+	NADP+	R06434	white
+4-ketoreductase	2.1.1.-	H+	dTDP-L-olivose	R06434	white
+4-ketoreductase	2.1.1.-	NADP+	H+	R06434	white
+4-ketoreductase	2.1.1.-	NADP+	NADPH	R06434	white
+4-ketoreductase	2.1.1.-	NADP+	dTDP-4-oxo-2,6-dideoxy-L-mannose	R06434	white
+4-ketoreductase	2.1.1.-	NADPH	NADP+	R06434	white
+4-ketoreductase	2.1.1.-	NADPH	dTDP-L-olivose	R06434	white
+4-ketoreductase	2.1.1.-	dTDP-4-oxo-2,6-dideoxy-L-mannose	NADP+	R06434	white
+4-ketoreductase	2.1.1.-	dTDP-4-oxo-2,6-dideoxy-L-mannose	dTDP-L-olivose	R06434	white
+4-ketoreductase	2.1.1.-	dTDP-L-olivose	H+	R06434	white
+4-ketoreductase	2.1.1.-	dTDP-L-olivose	NADPH	R06434	white
+4-ketoreductase	2.1.1.-	dTDP-L-olivose	dTDP-4-oxo-2,6-dideoxy-L-mannose	R06434	white
+5-epimerase	5.1.3.-	dTDP-4-oxo-2,6-dideoxy-D-allose	dTDP-4-oxo-2,6-dideoxy-L-mannose	R06433	white
+5-epimerase	5.1.3.-	dTDP-4-oxo-2,6-dideoxy-L-mannose	dTDP-4-oxo-2,6-dideoxy-D-allose	R06433	white
+C-S lyase	2.1.1.-	dTDP-4-deoxy-4-thio-alpha-D-digitoxose	dTDP-4-oxo-2,6-dideoxy-D-allose	R11470	white
+C-S lyase	2.1.1.-	dTDP-4-oxo-2,6-dideoxy-D-allose	dTDP-4-deoxy-4-thio-alpha-D-digitoxose	R11470	white
+C-methyltransferase	2.1.1.-	S-Adenosyl-L-homocysteine	S-Adenosyl-L-methionine	R11020	white
+C-methyltransferase	2.1.1.-	S-Adenosyl-L-homocysteine	dTDP-4-oxo-6-deoxy-D-allose	R11020	white
+C-methyltransferase	2.1.1.-	S-Adenosyl-L-methionine	S-Adenosyl-L-homocysteine	R11020	white
+C-methyltransferase	2.1.1.-	S-Adenosyl-L-methionine	dTDP-4-oxo-5-C-methyl-L-rhamnose	R11020	white
+C-methyltransferase	2.1.1.-	dTDP-4-oxo-5-C-methyl-L-rhamnose	S-Adenosyl-L-methionine	R11020	white
+C-methyltransferase	2.1.1.-	dTDP-4-oxo-5-C-methyl-L-rhamnose	dTDP-4-oxo-6-deoxy-D-allose	R11020	white
+C-methyltransferase	2.1.1.-	dTDP-4-oxo-6-deoxy-D-allose	S-Adenosyl-L-homocysteine	R11020	white
+C-methyltransferase	2.1.1.-	dTDP-4-oxo-6-deoxy-D-allose	dTDP-4-oxo-5-C-methyl-L-rhamnose	R11020	white
+N,N-dimethyltransferase	5.1.3.-	dTDP-2,6-dideoxy-D-kanosamine	dTDP-D-angolosamine	R08929	white
+N,N-dimethyltransferase	5.1.3.-	dTDP-D-angolosamine	dTDP-2,6-dideoxy-D-kanosamine	R08929	white
+N-methyltransferase	2.1.1.-	dTDP-4-amino-4,6-dideoxy-5-C-methyl-D-allose	dTDP-4-dimethylamino-4,6-dideoxy-5-C-methyl-D-allose	R11465	white
+N-methyltransferase	2.1.1.-	dTDP-4-dimethylamino-4,6-dideoxy-5-C-methyl-D-allose	dTDP-4-amino-4,6-dideoxy-5-C-methyl-D-allose	R11465	white
+NDP-4-keto-2,6-dideoxyhexose 3-C-methyltransferase	2.1.1.-	S-Adenosyl-L-homocysteine	S-Adenosyl-L-methionine	R08933	white
+NDP-4-keto-2,6-dideoxyhexose 3-C-methyltransferase	2.1.1.-	S-Adenosyl-L-homocysteine	dTDP-4-oxo-2,6-dideoxy-D-allose	R08933	white
+NDP-4-keto-2,6-dideoxyhexose 3-C-methyltransferase	2.1.1.-	S-Adenosyl-L-methionine	S-Adenosyl-L-homocysteine	R08933	white
+NDP-4-keto-2,6-dideoxyhexose 3-C-methyltransferase	2.1.1.-	S-Adenosyl-L-methionine	dTDP-3-methyl-4-oxo-2,6-dideoxy-D-glucose	R08933	white
+NDP-4-keto-2,6-dideoxyhexose 3-C-methyltransferase	2.1.1.-	dTDP-3-methyl-4-oxo-2,6-dideoxy-D-glucose	S-Adenosyl-L-methionine	R08933	white
+NDP-4-keto-2,6-dideoxyhexose 3-C-methyltransferase	2.1.1.-	dTDP-3-methyl-4-oxo-2,6-dideoxy-D-glucose	dTDP-4-oxo-2,6-dideoxy-D-allose	R08933	white
+NDP-4-keto-2,6-dideoxyhexose 3-C-methyltransferase	2.1.1.-	dTDP-4-oxo-2,6-dideoxy-D-allose	S-Adenosyl-L-homocysteine	R08933	white
+NDP-4-keto-2,6-dideoxyhexose 3-C-methyltransferase	2.1.1.-	dTDP-4-oxo-2,6-dideoxy-D-allose	dTDP-3-methyl-4-oxo-2,6-dideoxy-D-glucose	R08933	white
+NDP-hexose 5-epimerase	5.1.3.-	dTDP-3-methyl-4-oxo-2,6-dideoxy-D-glucose	dTDP-3-methyl-4-oxo-2,6-dideoxy-L-allose	R08934	white
+NDP-hexose 5-epimerase	5.1.3.-	dTDP-3-methyl-4-oxo-2,6-dideoxy-L-allose	dTDP-3-methyl-4-oxo-2,6-dideoxy-D-glucose	R08934	white
+NDP-hexose C3-ketoreductase / dTDP-4-oxo-2-deoxy-alpha-D-pentos-2-ene 2,3-reductase	1.1.1.-	H+	NADP+	R11051	white
+NDP-hexose C3-ketoreductase / dTDP-4-oxo-2-deoxy-alpha-D-pentos-2-ene 2,3-reductase	1.1.1.-	H+	dTDP-4-oxo-2,6-dideoxy-D-allose	R11051	white
+NDP-hexose C3-ketoreductase / dTDP-4-oxo-2-deoxy-alpha-D-pentos-2-ene 2,3-reductase	1.1.1.-	NADP+	H+	R11051	white
+NDP-hexose C3-ketoreductase / dTDP-4-oxo-2-deoxy-alpha-D-pentos-2-ene 2,3-reductase	1.1.1.-	NADP+	NADPH	R11051	white
+NDP-hexose C3-ketoreductase / dTDP-4-oxo-2-deoxy-alpha-D-pentos-2-ene 2,3-reductase	1.1.1.-	NADP+	dTDP-3,4-dioxo-2,6-dideoxy-D-glucose	R11051	white
+NDP-hexose C3-ketoreductase / dTDP-4-oxo-2-deoxy-alpha-D-pentos-2-ene 2,3-reductase	1.1.1.-	NADPH	NADP+	R11051	white
+NDP-hexose C3-ketoreductase / dTDP-4-oxo-2-deoxy-alpha-D-pentos-2-ene 2,3-reductase	1.1.1.-	NADPH	dTDP-4-oxo-2,6-dideoxy-D-allose	R11051	white
+NDP-hexose C3-ketoreductase / dTDP-4-oxo-2-deoxy-alpha-D-pentos-2-ene 2,3-reductase	1.1.1.-	dTDP-3,4-dioxo-2,6-dideoxy-D-glucose	NADP+	R11051	white
+NDP-hexose C3-ketoreductase / dTDP-4-oxo-2-deoxy-alpha-D-pentos-2-ene 2,3-reductase	1.1.1.-	dTDP-3,4-dioxo-2,6-dideoxy-D-glucose	dTDP-4-oxo-2,6-dideoxy-D-allose	R11051	white
+NDP-hexose C3-ketoreductase / dTDP-4-oxo-2-deoxy-alpha-D-pentos-2-ene 2,3-reductase	1.1.1.-	dTDP-4-oxo-2,6-dideoxy-D-allose	H+	R11051	white
+NDP-hexose C3-ketoreductase / dTDP-4-oxo-2-deoxy-alpha-D-pentos-2-ene 2,3-reductase	1.1.1.-	dTDP-4-oxo-2,6-dideoxy-D-allose	NADPH	R11051	white
+NDP-hexose C3-ketoreductase / dTDP-4-oxo-2-deoxy-alpha-D-pentos-2-ene 2,3-reductase	1.1.1.-	dTDP-4-oxo-2,6-dideoxy-D-allose	dTDP-3,4-dioxo-2,6-dideoxy-D-glucose	R11051	white
+TDP-4-oxo-6-deoxy-alpha-D-glucose-3,4-oxoisomerase	5.3.2.4	dTDP-3-oxo-6-deoxy-D-glucose	dTDP-4-oxo-6-deoxy-D-glucose	R06424	white
+TDP-4-oxo-6-deoxy-alpha-D-glucose-3,4-oxoisomerase	5.3.2.4	dTDP-4-oxo-6-deoxy-D-glucose	dTDP-3-oxo-6-deoxy-D-glucose	R06424	white
+aminosugar N-oxygenase	1.14.15.-	H2O	Oxygen	R11468	white
+aminosugar N-oxygenase	1.14.15.-	H2O	Reduced ferredoxin	R11468	white
+aminosugar N-oxygenase	1.14.15.-	H2O	dTDP-4-amino-4,6-dideoxy-D-glucose	R11468	white
+aminosugar N-oxygenase	1.14.15.-	Oxidized ferredoxin	Oxygen	R11468	white
+aminosugar N-oxygenase	1.14.15.-	Oxidized ferredoxin	Reduced ferredoxin	R11468	white
+aminosugar N-oxygenase	1.14.15.-	Oxidized ferredoxin	dTDP-4-amino-4,6-dideoxy-D-glucose	R11468	white
+aminosugar N-oxygenase	1.14.15.-	Oxygen	H2O	R11468	white
+aminosugar N-oxygenase	1.14.15.-	Oxygen	Oxidized ferredoxin	R11468	white
+aminosugar N-oxygenase	1.14.15.-	Oxygen	dTDP-4-hydroxyamino-4,6-dideoxy-alpha-D-glucose	R11468	white
+aminosugar N-oxygenase	1.14.15.-	Reduced ferredoxin	H2O	R11468	white
+aminosugar N-oxygenase	1.14.15.-	Reduced ferredoxin	Oxidized ferredoxin	R11468	white
+aminosugar N-oxygenase	1.14.15.-	Reduced ferredoxin	dTDP-4-hydroxyamino-4,6-dideoxy-alpha-D-glucose	R11468	white
+aminosugar N-oxygenase	1.14.15.-	dTDP-4-amino-4,6-dideoxy-D-glucose	H2O	R11468	white
+aminosugar N-oxygenase	1.14.15.-	dTDP-4-amino-4,6-dideoxy-D-glucose	Oxidized ferredoxin	R11468	white
+aminosugar N-oxygenase	1.14.15.-	dTDP-4-amino-4,6-dideoxy-D-glucose	dTDP-4-hydroxyamino-4,6-dideoxy-alpha-D-glucose	R11468	white
+aminosugar N-oxygenase	1.14.15.-	dTDP-4-hydroxyamino-4,6-dideoxy-alpha-D-glucose	Oxygen	R11468	white
+aminosugar N-oxygenase	1.14.15.-	dTDP-4-hydroxyamino-4,6-dideoxy-alpha-D-glucose	Reduced ferredoxin	R11468	white
+aminosugar N-oxygenase	1.14.15.-	dTDP-4-hydroxyamino-4,6-dideoxy-alpha-D-glucose	dTDP-4-amino-4,6-dideoxy-D-glucose	R11468	white
+aminotransferase	2.6.1.-	2-Oxoglutarate	L-Glutamate	R04467	white
+aminotransferase	2.6.1.-	2-Oxoglutarate	N-Acetyl-L-2-amino-6-oxopimelate	R04467	white
+aminotransferase	2.6.1.-	L-Glutamate	2-Oxoglutarate	R04467	white
+aminotransferase	2.6.1.-	L-Glutamate	N6-Acetyl-LL-2,6-diaminoheptanedioate	R04467	white
+aminotransferase	2.6.1.-	N-Acetyl-L-2-amino-6-oxopimelate	2-Oxoglutarate	R04467	white
+aminotransferase	2.6.1.-	N-Acetyl-L-2-amino-6-oxopimelate	N6-Acetyl-LL-2,6-diaminoheptanedioate	R04467	white
+aminotransferase	2.6.1.-	N6-Acetyl-LL-2,6-diaminoheptanedioate	L-Glutamate	R04467	white
+aminotransferase	2.6.1.-	N6-Acetyl-LL-2,6-diaminoheptanedioate	N-Acetyl-L-2-amino-6-oxopimelate	R04467	white
+dTDP-3,4-didehydro-2,6-dideoxy-alpha-D-glucose 3-reductase	1.1.1.384	H+	NADP+	R05526	white
+dTDP-3,4-didehydro-2,6-dideoxy-alpha-D-glucose 3-reductase	1.1.1.384	H+	dTDP-4-oxo-2,6-dideoxy-D-glucose	R05526	white
+dTDP-3,4-didehydro-2,6-dideoxy-alpha-D-glucose 3-reductase	1.1.1.384	NADP+	H+	R05526	white
+dTDP-3,4-didehydro-2,6-dideoxy-alpha-D-glucose 3-reductase	1.1.1.384	NADP+	NADPH	R05526	white
+dTDP-3,4-didehydro-2,6-dideoxy-alpha-D-glucose 3-reductase	1.1.1.384	NADP+	dTDP-3,4-dioxo-2,6-dideoxy-D-glucose	R05526	white
+dTDP-3,4-didehydro-2,6-dideoxy-alpha-D-glucose 3-reductase	1.1.1.384	NADPH	NADP+	R05526	white
+dTDP-3,4-didehydro-2,6-dideoxy-alpha-D-glucose 3-reductase	1.1.1.384	NADPH	dTDP-4-oxo-2,6-dideoxy-D-glucose	R05526	white
+dTDP-3,4-didehydro-2,6-dideoxy-alpha-D-glucose 3-reductase	1.1.1.384	dTDP-3,4-dioxo-2,6-dideoxy-D-glucose	NADP+	R05526	white
+dTDP-3,4-didehydro-2,6-dideoxy-alpha-D-glucose 3-reductase	1.1.1.384	dTDP-3,4-dioxo-2,6-dideoxy-D-glucose	dTDP-4-oxo-2,6-dideoxy-D-glucose	R05526	white
+dTDP-3,4-didehydro-2,6-dideoxy-alpha-D-glucose 3-reductase	1.1.1.384	dTDP-4-oxo-2,6-dideoxy-D-glucose	H+	R05526	white
+dTDP-3,4-didehydro-2,6-dideoxy-alpha-D-glucose 3-reductase	1.1.1.384	dTDP-4-oxo-2,6-dideoxy-D-glucose	NADPH	R05526	white
+dTDP-3,4-didehydro-2,6-dideoxy-alpha-D-glucose 3-reductase	1.1.1.384	dTDP-4-oxo-2,6-dideoxy-D-glucose	dTDP-3,4-dioxo-2,6-dideoxy-D-glucose	R05526	white
+dTDP-3-amino-2,3,6-trideoxy-4-keto-D-glucose/dTDP-3-amino-3,4,6-trideoxy-alpha-D-glucopyranose N,N-dimethyltransferase	2.1.1.-	S-Adenosyl-L-homocysteine	S-Adenosyl-L-methionine	R06427	white
+dTDP-3-amino-2,3,6-trideoxy-4-keto-D-glucose/dTDP-3-amino-3,4,6-trideoxy-alpha-D-glucopyranose N,N-dimethyltransferase	2.1.1.-	S-Adenosyl-L-homocysteine	dTDP-3-amino-3,4,6-trideoxy-D-glucose	R06427	white
+dTDP-3-amino-2,3,6-trideoxy-4-keto-D-glucose/dTDP-3-amino-3,4,6-trideoxy-alpha-D-glucopyranose N,N-dimethyltransferase	2.1.1.-	S-Adenosyl-L-methionine	S-Adenosyl-L-homocysteine	R06427	white
+dTDP-3-amino-2,3,6-trideoxy-4-keto-D-glucose/dTDP-3-amino-3,4,6-trideoxy-alpha-D-glucopyranose N,N-dimethyltransferase	2.1.1.-	S-Adenosyl-L-methionine	dTDP-D-desosamine	R06427	white
+dTDP-3-amino-2,3,6-trideoxy-4-keto-D-glucose/dTDP-3-amino-3,4,6-trideoxy-alpha-D-glucopyranose N,N-dimethyltransferase	2.1.1.-	dTDP-3-amino-3,4,6-trideoxy-D-glucose	S-Adenosyl-L-homocysteine	R06427	white
+dTDP-3-amino-2,3,6-trideoxy-4-keto-D-glucose/dTDP-3-amino-3,4,6-trideoxy-alpha-D-glucopyranose N,N-dimethyltransferase	2.1.1.-	dTDP-3-amino-3,4,6-trideoxy-D-glucose	dTDP-D-desosamine	R06427	white
+dTDP-3-amino-2,3,6-trideoxy-4-keto-D-glucose/dTDP-3-amino-3,4,6-trideoxy-alpha-D-glucopyranose N,N-dimethyltransferase	2.1.1.-	dTDP-D-desosamine	S-Adenosyl-L-methionine	R06427	white
+dTDP-3-amino-2,3,6-trideoxy-4-keto-D-glucose/dTDP-3-amino-3,4,6-trideoxy-alpha-D-glucopyranose N,N-dimethyltransferase	2.1.1.-	dTDP-D-desosamine	dTDP-3-amino-3,4,6-trideoxy-D-glucose	R06427	white
+dTDP-3-amino-2,3,6-trideoxy-4-keto-D-glucose/dTDP-3-amino-3,4,6-trideoxy-alpha-D-glucose/dTDP-2,6-dideoxy-D-kanosamine transaminase	2.6.1.-	2-Oxoglutarate	L-Glutamate	R06426	white
+dTDP-3-amino-2,3,6-trideoxy-4-keto-D-glucose/dTDP-3-amino-3,4,6-trideoxy-alpha-D-glucose/dTDP-2,6-dideoxy-D-kanosamine transaminase	2.6.1.-	2-Oxoglutarate	dTDP-3-oxo-4,6-dideoxy-D-glucose	R06426	white
+dTDP-3-amino-2,3,6-trideoxy-4-keto-D-glucose/dTDP-3-amino-3,4,6-trideoxy-alpha-D-glucose/dTDP-2,6-dideoxy-D-kanosamine transaminase	2.6.1.-	L-Glutamate	2-Oxoglutarate	R06426	white
+dTDP-3-amino-2,3,6-trideoxy-4-keto-D-glucose/dTDP-3-amino-3,4,6-trideoxy-alpha-D-glucose/dTDP-2,6-dideoxy-D-kanosamine transaminase	2.6.1.-	L-Glutamate	dTDP-3-amino-3,4,6-trideoxy-D-glucose	R06426	white
+dTDP-3-amino-2,3,6-trideoxy-4-keto-D-glucose/dTDP-3-amino-3,4,6-trideoxy-alpha-D-glucose/dTDP-2,6-dideoxy-D-kanosamine transaminase	2.6.1.-	dTDP-3-amino-3,4,6-trideoxy-D-glucose	L-Glutamate	R06426	white
+dTDP-3-amino-2,3,6-trideoxy-4-keto-D-glucose/dTDP-3-amino-3,4,6-trideoxy-alpha-D-glucose/dTDP-2,6-dideoxy-D-kanosamine transaminase	2.6.1.-	dTDP-3-amino-3,4,6-trideoxy-D-glucose	dTDP-3-oxo-4,6-dideoxy-D-glucose	R06426	white
+dTDP-3-amino-2,3,6-trideoxy-4-keto-D-glucose/dTDP-3-amino-3,4,6-trideoxy-alpha-D-glucose/dTDP-2,6-dideoxy-D-kanosamine transaminase	2.6.1.-	dTDP-3-oxo-4,6-dideoxy-D-glucose	2-Oxoglutarate	R06426	white
+dTDP-3-amino-2,3,6-trideoxy-4-keto-D-glucose/dTDP-3-amino-3,4,6-trideoxy-alpha-D-glucose/dTDP-2,6-dideoxy-D-kanosamine transaminase	2.6.1.-	dTDP-3-oxo-4,6-dideoxy-D-glucose	dTDP-3-amino-3,4,6-trideoxy-D-glucose	R06426	white
+dTDP-3-amino-3,4,6-trideoxy-alpha-D-glucopyranose N,N-dimethyltransferase	2.1.1.234	S-Adenosyl-L-homocysteine	S-Adenosyl-L-methionine	R06427	white
+dTDP-3-amino-3,4,6-trideoxy-alpha-D-glucopyranose N,N-dimethyltransferase	2.1.1.234	S-Adenosyl-L-homocysteine	dTDP-3-amino-3,4,6-trideoxy-D-glucose	R06427	white
+dTDP-3-amino-3,4,6-trideoxy-alpha-D-glucopyranose N,N-dimethyltransferase	2.1.1.234	S-Adenosyl-L-methionine	S-Adenosyl-L-homocysteine	R06427	white
+dTDP-3-amino-3,4,6-trideoxy-alpha-D-glucopyranose N,N-dimethyltransferase	2.1.1.234	S-Adenosyl-L-methionine	dTDP-D-desosamine	R06427	white
+dTDP-3-amino-3,4,6-trideoxy-alpha-D-glucopyranose N,N-dimethyltransferase	2.1.1.234	dTDP-3-amino-3,4,6-trideoxy-D-glucose	S-Adenosyl-L-homocysteine	R06427	white
+dTDP-3-amino-3,4,6-trideoxy-alpha-D-glucopyranose N,N-dimethyltransferase	2.1.1.234	dTDP-3-amino-3,4,6-trideoxy-D-glucose	dTDP-D-desosamine	R06427	white
+dTDP-3-amino-3,4,6-trideoxy-alpha-D-glucopyranose N,N-dimethyltransferase	2.1.1.234	dTDP-D-desosamine	S-Adenosyl-L-methionine	R06427	white
+dTDP-3-amino-3,4,6-trideoxy-alpha-D-glucopyranose N,N-dimethyltransferase	2.1.1.234	dTDP-D-desosamine	dTDP-3-amino-3,4,6-trideoxy-D-glucose	R06427	white
+dTDP-3-amino-3,4,6-trideoxy-alpha-D-glucose transaminase	2.6.1.106	2-Oxoglutarate	L-Glutamate	R06426	white
+dTDP-3-amino-3,4,6-trideoxy-alpha-D-glucose transaminase	2.6.1.106	2-Oxoglutarate	dTDP-3-oxo-4,6-dideoxy-D-glucose	R06426	white
+dTDP-3-amino-3,4,6-trideoxy-alpha-D-glucose transaminase	2.6.1.106	L-Glutamate	2-Oxoglutarate	R06426	white
+dTDP-3-amino-3,4,6-trideoxy-alpha-D-glucose transaminase	2.6.1.106	L-Glutamate	dTDP-3-amino-3,4,6-trideoxy-D-glucose	R06426	white
+dTDP-3-amino-3,4,6-trideoxy-alpha-D-glucose transaminase	2.6.1.106	dTDP-3-amino-3,4,6-trideoxy-D-glucose	L-Glutamate	R06426	white
+dTDP-3-amino-3,4,6-trideoxy-alpha-D-glucose transaminase	2.6.1.106	dTDP-3-amino-3,4,6-trideoxy-D-glucose	dTDP-3-oxo-4,6-dideoxy-D-glucose	R06426	white
+dTDP-3-amino-3,4,6-trideoxy-alpha-D-glucose transaminase	2.6.1.106	dTDP-3-oxo-4,6-dideoxy-D-glucose	2-Oxoglutarate	R06426	white
+dTDP-3-amino-3,4,6-trideoxy-alpha-D-glucose transaminase	2.6.1.106	dTDP-3-oxo-4,6-dideoxy-D-glucose	dTDP-3-amino-3,4,6-trideoxy-D-glucose	R06426	white
+dTDP-3-amino-3,6-dideoxy-alpha-D-galactopyranose 3-N-acetyltransferase	2.3.1.197	Acetyl-CoA	CoA	R09873	white
+dTDP-3-amino-3,6-dideoxy-alpha-D-galactopyranose 3-N-acetyltransferase	2.3.1.197	Acetyl-CoA	dTDP-3-acetamido-3,6-dideoxy-alpha-D-galactopyranose	R09873	white
+dTDP-3-amino-3,6-dideoxy-alpha-D-galactopyranose 3-N-acetyltransferase	2.3.1.197	CoA	Acetyl-CoA	R09873	white
+dTDP-3-amino-3,6-dideoxy-alpha-D-galactopyranose 3-N-acetyltransferase	2.3.1.197	CoA	dTDP-3-amino-3,6-dideoxy-alpha-D-galactopyranose	R09873	white
+dTDP-3-amino-3,6-dideoxy-alpha-D-galactopyranose 3-N-acetyltransferase	2.3.1.197	dTDP-3-acetamido-3,6-dideoxy-alpha-D-galactopyranose	Acetyl-CoA	R09873	white
+dTDP-3-amino-3,6-dideoxy-alpha-D-galactopyranose 3-N-acetyltransferase	2.3.1.197	dTDP-3-acetamido-3,6-dideoxy-alpha-D-galactopyranose	dTDP-3-amino-3,6-dideoxy-alpha-D-galactopyranose	R09873	white
+dTDP-3-amino-3,6-dideoxy-alpha-D-galactopyranose 3-N-acetyltransferase	2.3.1.197	dTDP-3-amino-3,6-dideoxy-alpha-D-galactopyranose	CoA	R09873	white
+dTDP-3-amino-3,6-dideoxy-alpha-D-galactopyranose 3-N-acetyltransferase	2.3.1.197	dTDP-3-amino-3,6-dideoxy-alpha-D-galactopyranose	dTDP-3-acetamido-3,6-dideoxy-alpha-D-galactopyranose	R09873	white
+dTDP-3-amino-3,6-dideoxy-alpha-D-galactopyranose N,N-dimethyltransferase	2.1.1.236	S-Adenosyl-L-homocysteine	S-Adenosyl-L-methionine	R09821	white
+dTDP-3-amino-3,6-dideoxy-alpha-D-galactopyranose N,N-dimethyltransferase	2.1.1.236	S-Adenosyl-L-homocysteine	dTDP-3-amino-3,6-dideoxy-alpha-D-galactopyranose	R09821	white
+dTDP-3-amino-3,6-dideoxy-alpha-D-galactopyranose N,N-dimethyltransferase	2.1.1.236	S-Adenosyl-L-methionine	S-Adenosyl-L-homocysteine	R09821	white
+dTDP-3-amino-3,6-dideoxy-alpha-D-galactopyranose N,N-dimethyltransferase	2.1.1.236	S-Adenosyl-L-methionine	dTDP-3-dimethylamino-3,6-dideoxy-alpha-D-galactopyranose	R09821	white
+dTDP-3-amino-3,6-dideoxy-alpha-D-galactopyranose N,N-dimethyltransferase	2.1.1.236	dTDP-3-amino-3,6-dideoxy-alpha-D-galactopyranose	S-Adenosyl-L-homocysteine	R09821	white
+dTDP-3-amino-3,6-dideoxy-alpha-D-galactopyranose N,N-dimethyltransferase	2.1.1.236	dTDP-3-amino-3,6-dideoxy-alpha-D-galactopyranose	dTDP-3-dimethylamino-3,6-dideoxy-alpha-D-galactopyranose	R09821	white
+dTDP-3-amino-3,6-dideoxy-alpha-D-galactopyranose N,N-dimethyltransferase	2.1.1.236	dTDP-3-dimethylamino-3,6-dideoxy-alpha-D-galactopyranose	S-Adenosyl-L-methionine	R09821	white
+dTDP-3-amino-3,6-dideoxy-alpha-D-galactopyranose N,N-dimethyltransferase	2.1.1.236	dTDP-3-dimethylamino-3,6-dideoxy-alpha-D-galactopyranose	dTDP-3-amino-3,6-dideoxy-alpha-D-galactopyranose	R09821	white
+dTDP-3-amino-3,6-dideoxy-alpha-D-galactopyranose transaminase	2.6.1.90	2-Oxoglutarate	L-Glutamate	R09824	white
+dTDP-3-amino-3,6-dideoxy-alpha-D-galactopyranose transaminase	2.6.1.90	2-Oxoglutarate	dTDP-3-dehydro-6-deoxy-alpha-D-galactopyranose	R09824	white
+dTDP-3-amino-3,6-dideoxy-alpha-D-galactopyranose transaminase	2.6.1.90	L-Glutamate	2-Oxoglutarate	R09824	white
+dTDP-3-amino-3,6-dideoxy-alpha-D-galactopyranose transaminase	2.6.1.90	L-Glutamate	dTDP-3-amino-3,6-dideoxy-alpha-D-galactopyranose	R09824	white
+dTDP-3-amino-3,6-dideoxy-alpha-D-galactopyranose transaminase	2.6.1.90	dTDP-3-amino-3,6-dideoxy-alpha-D-galactopyranose	L-Glutamate	R09824	white
+dTDP-3-amino-3,6-dideoxy-alpha-D-galactopyranose transaminase	2.6.1.90	dTDP-3-amino-3,6-dideoxy-alpha-D-galactopyranose	dTDP-3-dehydro-6-deoxy-alpha-D-galactopyranose	R09824	white
+dTDP-3-amino-3,6-dideoxy-alpha-D-galactopyranose transaminase	2.6.1.90	dTDP-3-dehydro-6-deoxy-alpha-D-galactopyranose	2-Oxoglutarate	R09824	white
+dTDP-3-amino-3,6-dideoxy-alpha-D-galactopyranose transaminase	2.6.1.90	dTDP-3-dehydro-6-deoxy-alpha-D-galactopyranose	dTDP-3-amino-3,6-dideoxy-alpha-D-galactopyranose	R09824	white
+dTDP-3-amino-3,6-dideoxy-alpha-D-glucopyranose N,N-dimethyltransferase	2.1.1.235	H+	S-Adenosyl-L-methionine	R06439	white
+dTDP-3-amino-3,6-dideoxy-alpha-D-glucopyranose N,N-dimethyltransferase	2.1.1.235	H+	dTDP-3-amino-3,6-dideoxy-D-glucose	R06439	white
+dTDP-3-amino-3,6-dideoxy-alpha-D-glucopyranose N,N-dimethyltransferase	2.1.1.235	S-Adenosyl-L-homocysteine	S-Adenosyl-L-methionine	R06439	white
+dTDP-3-amino-3,6-dideoxy-alpha-D-glucopyranose N,N-dimethyltransferase	2.1.1.235	S-Adenosyl-L-homocysteine	dTDP-3-amino-3,6-dideoxy-D-glucose	R06439	white
+dTDP-3-amino-3,6-dideoxy-alpha-D-glucopyranose N,N-dimethyltransferase	2.1.1.235	S-Adenosyl-L-methionine	H+	R06439	white
+dTDP-3-amino-3,6-dideoxy-alpha-D-glucopyranose N,N-dimethyltransferase	2.1.1.235	S-Adenosyl-L-methionine	S-Adenosyl-L-homocysteine	R06439	white
+dTDP-3-amino-3,6-dideoxy-alpha-D-glucopyranose N,N-dimethyltransferase	2.1.1.235	S-Adenosyl-L-methionine	dTDP-D-mycaminose	R06439	white
+dTDP-3-amino-3,6-dideoxy-alpha-D-glucopyranose N,N-dimethyltransferase	2.1.1.235	dTDP-3-amino-3,6-dideoxy-D-glucose	H+	R06439	white
+dTDP-3-amino-3,6-dideoxy-alpha-D-glucopyranose N,N-dimethyltransferase	2.1.1.235	dTDP-3-amino-3,6-dideoxy-D-glucose	S-Adenosyl-L-homocysteine	R06439	white
+dTDP-3-amino-3,6-dideoxy-alpha-D-glucopyranose N,N-dimethyltransferase	2.1.1.235	dTDP-3-amino-3,6-dideoxy-D-glucose	dTDP-D-mycaminose	R06439	white
+dTDP-3-amino-3,6-dideoxy-alpha-D-glucopyranose N,N-dimethyltransferase	2.1.1.235	dTDP-D-mycaminose	S-Adenosyl-L-methionine	R06439	white
+dTDP-3-amino-3,6-dideoxy-alpha-D-glucopyranose N,N-dimethyltransferase	2.1.1.235	dTDP-D-mycaminose	dTDP-3-amino-3,6-dideoxy-D-glucose	R06439	white
+dTDP-3-amino-3,6-dideoxy-alpha-D-glucopyranose transaminase	2.6.1.89	2-Oxoglutarate	L-Glutamate	R06423	white
+dTDP-3-amino-3,6-dideoxy-alpha-D-glucopyranose transaminase	2.6.1.89	2-Oxoglutarate	dTDP-3-oxo-6-deoxy-D-glucose	R06423	white
+dTDP-3-amino-3,6-dideoxy-alpha-D-glucopyranose transaminase	2.6.1.89	L-Glutamate	2-Oxoglutarate	R06423	white
+dTDP-3-amino-3,6-dideoxy-alpha-D-glucopyranose transaminase	2.6.1.89	L-Glutamate	dTDP-3-amino-3,6-dideoxy-D-glucose	R06423	white
+dTDP-3-amino-3,6-dideoxy-alpha-D-glucopyranose transaminase	2.6.1.89	dTDP-3-amino-3,6-dideoxy-D-glucose	L-Glutamate	R06423	white
+dTDP-3-amino-3,6-dideoxy-alpha-D-glucopyranose transaminase	2.6.1.89	dTDP-3-amino-3,6-dideoxy-D-glucose	dTDP-3-oxo-6-deoxy-D-glucose	R06423	white
+dTDP-3-amino-3,6-dideoxy-alpha-D-glucopyranose transaminase	2.6.1.89	dTDP-3-oxo-6-deoxy-D-glucose	2-Oxoglutarate	R06423	white
+dTDP-3-amino-3,6-dideoxy-alpha-D-glucopyranose transaminase	2.6.1.89	dTDP-3-oxo-6-deoxy-D-glucose	dTDP-3-amino-3,6-dideoxy-D-glucose	R06423	white
+dTDP-4-amino-2,3,4,6-tetradeoxy-D-glucose N,N-dimethyltransferase	2.1.1.324	S-Adenosyl-L-homocysteine	S-Adenosyl-L-methionine	R08932	white
+dTDP-4-amino-2,3,4,6-tetradeoxy-D-glucose N,N-dimethyltransferase	2.1.1.324	S-Adenosyl-L-homocysteine	dTDP-4-amino-2,3,4,6-tetradeoxy-D-glucose	R08932	white
+dTDP-4-amino-2,3,4,6-tetradeoxy-D-glucose N,N-dimethyltransferase	2.1.1.324	S-Adenosyl-L-methionine	S-Adenosyl-L-homocysteine	R08932	white
+dTDP-4-amino-2,3,4,6-tetradeoxy-D-glucose N,N-dimethyltransferase	2.1.1.324	S-Adenosyl-L-methionine	dTDP-D-forosamine	R08932	white
+dTDP-4-amino-2,3,4,6-tetradeoxy-D-glucose N,N-dimethyltransferase	2.1.1.324	dTDP-4-amino-2,3,4,6-tetradeoxy-D-glucose	S-Adenosyl-L-homocysteine	R08932	white
+dTDP-4-amino-2,3,4,6-tetradeoxy-D-glucose N,N-dimethyltransferase	2.1.1.324	dTDP-4-amino-2,3,4,6-tetradeoxy-D-glucose	dTDP-D-forosamine	R08932	white
+dTDP-4-amino-2,3,4,6-tetradeoxy-D-glucose N,N-dimethyltransferase	2.1.1.324	dTDP-D-forosamine	S-Adenosyl-L-methionine	R08932	white
+dTDP-4-amino-2,3,4,6-tetradeoxy-D-glucose N,N-dimethyltransferase	2.1.1.324	dTDP-D-forosamine	dTDP-4-amino-2,3,4,6-tetradeoxy-D-glucose	R08932	white
+dTDP-4-amino-2,4-dideoxy-beta-L-xylose N-methyltransferase	2.1.1.-	S-Adenosyl-L-homocysteine	S-Adenosyl-L-methionine	R11476	white
+dTDP-4-amino-2,4-dideoxy-beta-L-xylose N-methyltransferase	2.1.1.-	S-Adenosyl-L-homocysteine	dTDP-4-amino-2,4-dideoxy-beta-L-xylose	R11476	white
+dTDP-4-amino-2,4-dideoxy-beta-L-xylose N-methyltransferase	2.1.1.-	S-Adenosyl-L-methionine	S-Adenosyl-L-homocysteine	R11476	white
+dTDP-4-amino-2,4-dideoxy-beta-L-xylose N-methyltransferase	2.1.1.-	S-Adenosyl-L-methionine	dTDP-4-methylamino-2,4-dideoxy-beta-L-xylose	R11476	white
+dTDP-4-amino-2,4-dideoxy-beta-L-xylose N-methyltransferase	2.1.1.-	dTDP-4-amino-2,4-dideoxy-beta-L-xylose	S-Adenosyl-L-homocysteine	R11476	white
+dTDP-4-amino-2,4-dideoxy-beta-L-xylose N-methyltransferase	2.1.1.-	dTDP-4-amino-2,4-dideoxy-beta-L-xylose	dTDP-4-methylamino-2,4-dideoxy-beta-L-xylose	R11476	white
+dTDP-4-amino-2,4-dideoxy-beta-L-xylose N-methyltransferase	2.1.1.-	dTDP-4-methylamino-2,4-dideoxy-beta-L-xylose	S-Adenosyl-L-methionine	R11476	white
+dTDP-4-amino-2,4-dideoxy-beta-L-xylose N-methyltransferase	2.1.1.-	dTDP-4-methylamino-2,4-dideoxy-beta-L-xylose	dTDP-4-amino-2,4-dideoxy-beta-L-xylose	R11476	white
+dTDP-4-amino-4,6-dideoxy-D-glucose ammonia-lyase	4.3.1.30	5'-Deoxyadenosine	Reduced acceptor	R08583	white
+dTDP-4-amino-4,6-dideoxy-D-glucose ammonia-lyase	4.3.1.30	5'-Deoxyadenosine	S-Adenosyl-L-methionine	R08583	white
+dTDP-4-amino-4,6-dideoxy-D-glucose ammonia-lyase	4.3.1.30	5'-Deoxyadenosine	dTDP-4-amino-4,6-dideoxy-D-glucose	R08583	white
+dTDP-4-amino-4,6-dideoxy-D-glucose ammonia-lyase	4.3.1.30	Acceptor	Reduced acceptor	R08583	white
+dTDP-4-amino-4,6-dideoxy-D-glucose ammonia-lyase	4.3.1.30	Acceptor	S-Adenosyl-L-methionine	R08583	white
+dTDP-4-amino-4,6-dideoxy-D-glucose ammonia-lyase	4.3.1.30	Acceptor	dTDP-4-amino-4,6-dideoxy-D-glucose	R08583	white
+dTDP-4-amino-4,6-dideoxy-D-glucose ammonia-lyase	4.3.1.30	Ammonia	Reduced acceptor	R08583	white
+dTDP-4-amino-4,6-dideoxy-D-glucose ammonia-lyase	4.3.1.30	Ammonia	S-Adenosyl-L-methionine	R08583	white
+dTDP-4-amino-4,6-dideoxy-D-glucose ammonia-lyase	4.3.1.30	Ammonia	dTDP-4-amino-4,6-dideoxy-D-glucose	R08583	white
+dTDP-4-amino-4,6-dideoxy-D-glucose ammonia-lyase	4.3.1.30	L-Methionine	Reduced acceptor	R08583	white
+dTDP-4-amino-4,6-dideoxy-D-glucose ammonia-lyase	4.3.1.30	L-Methionine	S-Adenosyl-L-methionine	R08583	white
+dTDP-4-amino-4,6-dideoxy-D-glucose ammonia-lyase	4.3.1.30	L-Methionine	dTDP-4-amino-4,6-dideoxy-D-glucose	R08583	white
+dTDP-4-amino-4,6-dideoxy-D-glucose ammonia-lyase	4.3.1.30	Reduced acceptor	5'-Deoxyadenosine	R08583	white
+dTDP-4-amino-4,6-dideoxy-D-glucose ammonia-lyase	4.3.1.30	Reduced acceptor	Acceptor	R08583	white
+dTDP-4-amino-4,6-dideoxy-D-glucose ammonia-lyase	4.3.1.30	Reduced acceptor	Ammonia	R08583	white
+dTDP-4-amino-4,6-dideoxy-D-glucose ammonia-lyase	4.3.1.30	Reduced acceptor	L-Methionine	R08583	white
+dTDP-4-amino-4,6-dideoxy-D-glucose ammonia-lyase	4.3.1.30	Reduced acceptor	dTDP-3-oxo-4,6-dideoxy-D-glucose	R08583	white
+dTDP-4-amino-4,6-dideoxy-D-glucose ammonia-lyase	4.3.1.30	S-Adenosyl-L-methionine	5'-Deoxyadenosine	R08583	white
+dTDP-4-amino-4,6-dideoxy-D-glucose ammonia-lyase	4.3.1.30	S-Adenosyl-L-methionine	Acceptor	R08583	white
+dTDP-4-amino-4,6-dideoxy-D-glucose ammonia-lyase	4.3.1.30	S-Adenosyl-L-methionine	Ammonia	R08583	white
+dTDP-4-amino-4,6-dideoxy-D-glucose ammonia-lyase	4.3.1.30	S-Adenosyl-L-methionine	L-Methionine	R08583	white
+dTDP-4-amino-4,6-dideoxy-D-glucose ammonia-lyase	4.3.1.30	S-Adenosyl-L-methionine	dTDP-3-oxo-4,6-dideoxy-D-glucose	R08583	white
+dTDP-4-amino-4,6-dideoxy-D-glucose ammonia-lyase	4.3.1.30	dTDP-3-oxo-4,6-dideoxy-D-glucose	Reduced acceptor	R08583	white
+dTDP-4-amino-4,6-dideoxy-D-glucose ammonia-lyase	4.3.1.30	dTDP-3-oxo-4,6-dideoxy-D-glucose	S-Adenosyl-L-methionine	R08583	white
+dTDP-4-amino-4,6-dideoxy-D-glucose ammonia-lyase	4.3.1.30	dTDP-3-oxo-4,6-dideoxy-D-glucose	dTDP-4-amino-4,6-dideoxy-D-glucose	R08583	white
+dTDP-4-amino-4,6-dideoxy-D-glucose ammonia-lyase	4.3.1.30	dTDP-4-amino-4,6-dideoxy-D-glucose	5'-Deoxyadenosine	R08583	white
+dTDP-4-amino-4,6-dideoxy-D-glucose ammonia-lyase	4.3.1.30	dTDP-4-amino-4,6-dideoxy-D-glucose	Acceptor	R08583	white
+dTDP-4-amino-4,6-dideoxy-D-glucose ammonia-lyase	4.3.1.30	dTDP-4-amino-4,6-dideoxy-D-glucose	Ammonia	R08583	white
+dTDP-4-amino-4,6-dideoxy-D-glucose ammonia-lyase	4.3.1.30	dTDP-4-amino-4,6-dideoxy-D-glucose	L-Methionine	R08583	white
+dTDP-4-amino-4,6-dideoxy-D-glucose ammonia-lyase	4.3.1.30	dTDP-4-amino-4,6-dideoxy-D-glucose	dTDP-3-oxo-4,6-dideoxy-D-glucose	R08583	white
+dTDP-4-amino-4,6-dideoxy-D-glucose transaminase	2.6.1.33	2-Oxoglutarate	L-Glutamate	R02773	white
+dTDP-4-amino-4,6-dideoxy-D-glucose transaminase	2.6.1.33	2-Oxoglutarate	dTDP-4-oxo-6-deoxy-D-glucose	R02773	white
+dTDP-4-amino-4,6-dideoxy-D-glucose transaminase	2.6.1.33	L-Glutamate	2-Oxoglutarate	R02773	white
+dTDP-4-amino-4,6-dideoxy-D-glucose transaminase	2.6.1.33	L-Glutamate	dTDP-4-amino-4,6-dideoxy-D-glucose	R02773	white
+dTDP-4-amino-4,6-dideoxy-D-glucose transaminase	2.6.1.33	dTDP-4-amino-4,6-dideoxy-D-glucose	L-Glutamate	R02773	white
+dTDP-4-amino-4,6-dideoxy-D-glucose transaminase	2.6.1.33	dTDP-4-amino-4,6-dideoxy-D-glucose	dTDP-4-oxo-6-deoxy-D-glucose	R02773	white
+dTDP-4-amino-4,6-dideoxy-D-glucose transaminase	2.6.1.33	dTDP-4-oxo-6-deoxy-D-glucose	2-Oxoglutarate	R02773	white
+dTDP-4-amino-4,6-dideoxy-D-glucose transaminase	2.6.1.33	dTDP-4-oxo-6-deoxy-D-glucose	dTDP-4-amino-4,6-dideoxy-D-glucose	R02773	white
+dTDP-4-amino-4,6-dideoxy-D-glucose/dTDP-4-amino-2,4-dideoxy-beta-L-xylose transaminase	2.6.1.33	2-Oxoglutarate	L-Glutamate	R02773	white
+dTDP-4-amino-4,6-dideoxy-D-glucose/dTDP-4-amino-2,4-dideoxy-beta-L-xylose transaminase	2.6.1.33	2-Oxoglutarate	dTDP-4-oxo-6-deoxy-D-glucose	R02773	white
+dTDP-4-amino-4,6-dideoxy-D-glucose/dTDP-4-amino-2,4-dideoxy-beta-L-xylose transaminase	2.6.1.33	L-Glutamate	2-Oxoglutarate	R02773	white
+dTDP-4-amino-4,6-dideoxy-D-glucose/dTDP-4-amino-2,4-dideoxy-beta-L-xylose transaminase	2.6.1.33	L-Glutamate	dTDP-4-amino-4,6-dideoxy-D-glucose	R02773	white
+dTDP-4-amino-4,6-dideoxy-D-glucose/dTDP-4-amino-2,4-dideoxy-beta-L-xylose transaminase	2.6.1.33	dTDP-4-amino-4,6-dideoxy-D-glucose	L-Glutamate	R02773	white
+dTDP-4-amino-4,6-dideoxy-D-glucose/dTDP-4-amino-2,4-dideoxy-beta-L-xylose transaminase	2.6.1.33	dTDP-4-amino-4,6-dideoxy-D-glucose	dTDP-4-oxo-6-deoxy-D-glucose	R02773	white
+dTDP-4-amino-4,6-dideoxy-D-glucose/dTDP-4-amino-2,4-dideoxy-beta-L-xylose transaminase	2.6.1.33	dTDP-4-oxo-6-deoxy-D-glucose	2-Oxoglutarate	R02773	white
+dTDP-4-amino-4,6-dideoxy-D-glucose/dTDP-4-amino-2,4-dideoxy-beta-L-xylose transaminase	2.6.1.33	dTDP-4-oxo-6-deoxy-D-glucose	dTDP-4-amino-4,6-dideoxy-D-glucose	R02773	white
+dTDP-4-dehydro-2,3,6-trideoxy-D-glucose 4-aminotransferase	2.6.1.110	2-Oxoglutarate	L-Glutamate	R08931	white
+dTDP-4-dehydro-2,3,6-trideoxy-D-glucose 4-aminotransferase	2.6.1.110	2-Oxoglutarate	dTDP-4-oxo-2,3,6-trideoxy-D-glucose	R08931	white
+dTDP-4-dehydro-2,3,6-trideoxy-D-glucose 4-aminotransferase	2.6.1.110	L-Glutamate	2-Oxoglutarate	R08931	white
+dTDP-4-dehydro-2,3,6-trideoxy-D-glucose 4-aminotransferase	2.6.1.110	L-Glutamate	dTDP-4-amino-2,3,4,6-tetradeoxy-D-glucose	R08931	white
+dTDP-4-dehydro-2,3,6-trideoxy-D-glucose 4-aminotransferase	2.6.1.110	dTDP-4-amino-2,3,4,6-tetradeoxy-D-glucose	L-Glutamate	R08931	white
+dTDP-4-dehydro-2,3,6-trideoxy-D-glucose 4-aminotransferase	2.6.1.110	dTDP-4-amino-2,3,4,6-tetradeoxy-D-glucose	dTDP-4-oxo-2,3,6-trideoxy-D-glucose	R08931	white
+dTDP-4-dehydro-2,3,6-trideoxy-D-glucose 4-aminotransferase	2.6.1.110	dTDP-4-oxo-2,3,6-trideoxy-D-glucose	2-Oxoglutarate	R08931	white
+dTDP-4-dehydro-2,3,6-trideoxy-D-glucose 4-aminotransferase	2.6.1.110	dTDP-4-oxo-2,3,6-trideoxy-D-glucose	dTDP-4-amino-2,3,4,6-tetradeoxy-D-glucose	R08931	white
+dTDP-4-dehydro-2,6-dideoxy-D-glucose 3-dehydratase	4.2.1.164	H+	H2O	R08930	white
+dTDP-4-dehydro-2,6-dideoxy-D-glucose 3-dehydratase	4.2.1.164	H+	Oxidized ferredoxin	R08930	white
+dTDP-4-dehydro-2,6-dideoxy-D-glucose 3-dehydratase	4.2.1.164	H+	dTDP-4-oxo-2,3,6-trideoxy-D-glucose	R08930	white
+dTDP-4-dehydro-2,6-dideoxy-D-glucose 3-dehydratase	4.2.1.164	H2O	H+	R08930	white
+dTDP-4-dehydro-2,6-dideoxy-D-glucose 3-dehydratase	4.2.1.164	H2O	Reduced ferredoxin	R08930	white
+dTDP-4-dehydro-2,6-dideoxy-D-glucose 3-dehydratase	4.2.1.164	H2O	dTDP-4-oxo-2,6-dideoxy-D-glucose	R08930	white
+dTDP-4-dehydro-2,6-dideoxy-D-glucose 3-dehydratase	4.2.1.164	Oxidized ferredoxin	H+	R08930	white
+dTDP-4-dehydro-2,6-dideoxy-D-glucose 3-dehydratase	4.2.1.164	Oxidized ferredoxin	Reduced ferredoxin	R08930	white
+dTDP-4-dehydro-2,6-dideoxy-D-glucose 3-dehydratase	4.2.1.164	Oxidized ferredoxin	dTDP-4-oxo-2,6-dideoxy-D-glucose	R08930	white
+dTDP-4-dehydro-2,6-dideoxy-D-glucose 3-dehydratase	4.2.1.164	Reduced ferredoxin	H2O	R08930	white
+dTDP-4-dehydro-2,6-dideoxy-D-glucose 3-dehydratase	4.2.1.164	Reduced ferredoxin	Oxidized ferredoxin	R08930	white
+dTDP-4-dehydro-2,6-dideoxy-D-glucose 3-dehydratase	4.2.1.164	Reduced ferredoxin	dTDP-4-oxo-2,3,6-trideoxy-D-glucose	R08930	white
+dTDP-4-dehydro-2,6-dideoxy-D-glucose 3-dehydratase	4.2.1.164	dTDP-4-oxo-2,3,6-trideoxy-D-glucose	H+	R08930	white
+dTDP-4-dehydro-2,6-dideoxy-D-glucose 3-dehydratase	4.2.1.164	dTDP-4-oxo-2,3,6-trideoxy-D-glucose	Reduced ferredoxin	R08930	white
+dTDP-4-dehydro-2,6-dideoxy-D-glucose 3-dehydratase	4.2.1.164	dTDP-4-oxo-2,3,6-trideoxy-D-glucose	dTDP-4-oxo-2,6-dideoxy-D-glucose	R08930	white
+dTDP-4-dehydro-2,6-dideoxy-D-glucose 3-dehydratase	4.2.1.164	dTDP-4-oxo-2,6-dideoxy-D-glucose	H2O	R08930	white
+dTDP-4-dehydro-2,6-dideoxy-D-glucose 3-dehydratase	4.2.1.164	dTDP-4-oxo-2,6-dideoxy-D-glucose	Oxidized ferredoxin	R08930	white
+dTDP-4-dehydro-2,6-dideoxy-D-glucose 3-dehydratase	4.2.1.164	dTDP-4-oxo-2,6-dideoxy-D-glucose	dTDP-4-oxo-2,3,6-trideoxy-D-glucose	R08930	white
+dTDP-4-dehydro-6-deoxy-D-glucose 3-epimerase	5.1.3.27	dTDP-4-oxo-6-deoxy-D-allose	dTDP-4-oxo-6-deoxy-D-glucose	R06437	white
+dTDP-4-dehydro-6-deoxy-D-glucose 3-epimerase	5.1.3.27	dTDP-4-oxo-6-deoxy-D-glucose	dTDP-4-oxo-6-deoxy-D-allose	R06437	white
+dTDP-4-dehydro-6-deoxy-alpha-D-glucopyranose 2,3-dehydratase	4.2.1.159	H2O	dTDP-4-oxo-6-deoxy-D-glucose	R05518	white
+dTDP-4-dehydro-6-deoxy-alpha-D-glucopyranose 2,3-dehydratase	4.2.1.159	dTDP-3,4-dioxo-2,6-dideoxy-D-glucose	dTDP-4-oxo-6-deoxy-D-glucose	R05518	white
+dTDP-4-dehydro-6-deoxy-alpha-D-glucopyranose 2,3-dehydratase	4.2.1.159	dTDP-4-oxo-6-deoxy-D-glucose	H2O	R05518	white
+dTDP-4-dehydro-6-deoxy-alpha-D-glucopyranose 2,3-dehydratase	4.2.1.159	dTDP-4-oxo-6-deoxy-D-glucose	dTDP-3,4-dioxo-2,6-dideoxy-D-glucose	R05518	white
+dTDP-4-dehydro-6-deoxy-alpha-D-gulose 4-ketoreductase	1.1.1.364	H+	NAD+	R06438	white
+dTDP-4-dehydro-6-deoxy-alpha-D-gulose 4-ketoreductase	1.1.1.364	H+	dTDP-6-deoxy-D-allose	R06438	white
+dTDP-4-dehydro-6-deoxy-alpha-D-gulose 4-ketoreductase	1.1.1.364	NAD+	H+	R06438	white
+dTDP-4-dehydro-6-deoxy-alpha-D-gulose 4-ketoreductase	1.1.1.364	NAD+	NADH	R06438	white
+dTDP-4-dehydro-6-deoxy-alpha-D-gulose 4-ketoreductase	1.1.1.364	NAD+	dTDP-4-oxo-6-deoxy-D-allose	R06438	white
+dTDP-4-dehydro-6-deoxy-alpha-D-gulose 4-ketoreductase	1.1.1.364	NADH	NAD+	R06438	white
+dTDP-4-dehydro-6-deoxy-alpha-D-gulose 4-ketoreductase	1.1.1.364	NADH	dTDP-6-deoxy-D-allose	R06438	white
+dTDP-4-dehydro-6-deoxy-alpha-D-gulose 4-ketoreductase	1.1.1.364	dTDP-4-oxo-6-deoxy-D-allose	NAD+	R06438	white
+dTDP-4-dehydro-6-deoxy-alpha-D-gulose 4-ketoreductase	1.1.1.364	dTDP-4-oxo-6-deoxy-D-allose	dTDP-6-deoxy-D-allose	R06438	white
+dTDP-4-dehydro-6-deoxy-alpha-D-gulose 4-ketoreductase	1.1.1.364	dTDP-6-deoxy-D-allose	H+	R06438	white
+dTDP-4-dehydro-6-deoxy-alpha-D-gulose 4-ketoreductase	1.1.1.364	dTDP-6-deoxy-D-allose	NADH	R06438	white
+dTDP-4-dehydro-6-deoxy-alpha-D-gulose 4-ketoreductase	1.1.1.364	dTDP-6-deoxy-D-allose	dTDP-4-oxo-6-deoxy-D-allose	R06438	white
+dTDP-4-dehydro-6-deoxyglucose reductase	1.1.1.266	H+	NADP+	R05687	white
+dTDP-4-dehydro-6-deoxyglucose reductase	1.1.1.266	H+	dTDP-D-fucose	R05687	white
+dTDP-4-dehydro-6-deoxyglucose reductase	1.1.1.266	NADP+	H+	R05687	white
+dTDP-4-dehydro-6-deoxyglucose reductase	1.1.1.266	NADP+	NADPH	R05687	white
+dTDP-4-dehydro-6-deoxyglucose reductase	1.1.1.266	NADP+	dTDP-4-oxo-6-deoxy-D-glucose	R05687	white
+dTDP-4-dehydro-6-deoxyglucose reductase	1.1.1.266	NADPH	NADP+	R05687	white
+dTDP-4-dehydro-6-deoxyglucose reductase	1.1.1.266	NADPH	dTDP-D-fucose	R05687	white
+dTDP-4-dehydro-6-deoxyglucose reductase	1.1.1.266	dTDP-4-oxo-6-deoxy-D-glucose	NADP+	R05687	white
+dTDP-4-dehydro-6-deoxyglucose reductase	1.1.1.266	dTDP-4-oxo-6-deoxy-D-glucose	dTDP-D-fucose	R05687	white
+dTDP-4-dehydro-6-deoxyglucose reductase	1.1.1.266	dTDP-D-fucose	H+	R05687	white
+dTDP-4-dehydro-6-deoxyglucose reductase	1.1.1.266	dTDP-D-fucose	NADPH	R05687	white
+dTDP-4-dehydro-6-deoxyglucose reductase	1.1.1.266	dTDP-D-fucose	dTDP-4-oxo-6-deoxy-D-glucose	R05687	white
+dTDP-4-dehydrorhamnose 3,5-epimerase	5.1.3.13	dTDP-4-oxo-6-deoxy-D-glucose	dTDP-4-dehydro-beta-L-rhamnose	R06514	green
+dTDP-4-dehydrorhamnose reductase	1.1.1.133	NADP+	H+	R02777	green
+dTDP-4-dehydrorhamnose reductase	1.1.1.133	NADP+	NADPH	R02777	green
+dTDP-4-dehydrorhamnose reductase	1.1.1.133	NADP+	dTDP-4-dehydro-beta-L-rhamnose	R02777	green
+dTDP-4-dehydrorhamnose reductase	1.1.1.133	dTDP-L-rhamnose	H+	R02777	green
+dTDP-4-dehydrorhamnose reductase	1.1.1.133	dTDP-L-rhamnose	NADPH	R02777	green
+dTDP-4-dehydrorhamnose reductase	1.1.1.133	dTDP-L-rhamnose	dTDP-4-dehydro-beta-L-rhamnose	R02777	green
+dTDP-4-keto-6-deoxy-L-hexose 4-reductase	1.1.1.-	H+	NADP+	R06436	white
+dTDP-4-keto-6-deoxy-L-hexose 4-reductase	1.1.1.-	H+	dTDP-L-mycarose	R06436	white
+dTDP-4-keto-6-deoxy-L-hexose 4-reductase	1.1.1.-	NADP+	H+	R06436	white
+dTDP-4-keto-6-deoxy-L-hexose 4-reductase	1.1.1.-	NADP+	NADPH	R06436	white
+dTDP-4-keto-6-deoxy-L-hexose 4-reductase	1.1.1.-	NADP+	dTDP-3-methyl-4-oxo-2,6-dideoxy-L-allose	R06436	white
+dTDP-4-keto-6-deoxy-L-hexose 4-reductase	1.1.1.-	NADPH	NADP+	R06436	white
+dTDP-4-keto-6-deoxy-L-hexose 4-reductase	1.1.1.-	NADPH	dTDP-L-mycarose	R06436	white
+dTDP-4-keto-6-deoxy-L-hexose 4-reductase	1.1.1.-	dTDP-3-methyl-4-oxo-2,6-dideoxy-L-allose	NADP+	R06436	white
+dTDP-4-keto-6-deoxy-L-hexose 4-reductase	1.1.1.-	dTDP-3-methyl-4-oxo-2,6-dideoxy-L-allose	dTDP-L-mycarose	R06436	white
+dTDP-4-keto-6-deoxy-L-hexose 4-reductase	1.1.1.-	dTDP-L-mycarose	H+	R06436	white
+dTDP-4-keto-6-deoxy-L-hexose 4-reductase	1.1.1.-	dTDP-L-mycarose	NADPH	R06436	white
+dTDP-4-keto-6-deoxy-L-hexose 4-reductase	1.1.1.-	dTDP-L-mycarose	dTDP-3-methyl-4-oxo-2,6-dideoxy-L-allose	R06436	white
+dTDP-4-keto-6-deoxyhexose 4-ketoreductase	5.1.3.-	dTDP-3-N,N-dimethylamino-4-oxo-2,3,6-trideoxy-L-allose	dTDP-L-megosamine	R11047	white
+dTDP-4-keto-6-deoxyhexose 4-ketoreductase	5.1.3.-	dTDP-L-megosamine	dTDP-3-N,N-dimethylamino-4-oxo-2,3,6-trideoxy-L-allose	R11047	white
+dTDP-4-keto-6-deoxyhexose reductase	1.1.1.-	H+	NAD+	R10459	white
+dTDP-4-keto-6-deoxyhexose reductase	1.1.1.-	H+	dTDP-5-dimethyl-L-lyxose	R10459	white
+dTDP-4-keto-6-deoxyhexose reductase	1.1.1.-	NAD+	H+	R10459	white
+dTDP-4-keto-6-deoxyhexose reductase	1.1.1.-	NAD+	NADH	R10459	white
+dTDP-4-keto-6-deoxyhexose reductase	1.1.1.-	NAD+	dTDP-4-oxo-5-C-methyl-L-rhamnose	R10459	white
+dTDP-4-keto-6-deoxyhexose reductase	1.1.1.-	NADH	NAD+	R10459	white
+dTDP-4-keto-6-deoxyhexose reductase	1.1.1.-	NADH	dTDP-5-dimethyl-L-lyxose	R10459	white
+dTDP-4-keto-6-deoxyhexose reductase	1.1.1.-	dTDP-4-oxo-5-C-methyl-L-rhamnose	NAD+	R10459	white
+dTDP-4-keto-6-deoxyhexose reductase	1.1.1.-	dTDP-4-oxo-5-C-methyl-L-rhamnose	dTDP-5-dimethyl-L-lyxose	R10459	white
+dTDP-4-keto-6-deoxyhexose reductase	1.1.1.-	dTDP-5-dimethyl-L-lyxose	H+	R10459	white
+dTDP-4-keto-6-deoxyhexose reductase	1.1.1.-	dTDP-5-dimethyl-L-lyxose	NADH	R10459	white
+dTDP-4-keto-6-deoxyhexose reductase	1.1.1.-	dTDP-5-dimethyl-L-lyxose	dTDP-4-oxo-5-C-methyl-L-rhamnose	R10459	white
+dTDP-4-oxo-2,6-dideoxy-D-glucose 3,5-epimerase	5.1.3.-	dTDP-4-oxo-2,6-dideoxy-D-glucose	dTDP-4-oxo-2,6-dideoxy-L-mannose	R08597	white
+dTDP-4-oxo-2,6-dideoxy-D-glucose 3,5-epimerase	5.1.3.-	dTDP-4-oxo-2,6-dideoxy-L-mannose	dTDP-4-oxo-2,6-dideoxy-D-glucose	R08597	white
+dTDP-4-oxo-alpha-D-xylose 2,3-dehydratase	4.2.1.-	H2O	dTDP-4-oxo-alpha-D-xylose	R11473	white
+dTDP-4-oxo-alpha-D-xylose 2,3-dehydratase	4.2.1.-	dTDP-4-oxo-2-deoxy-alpha-D-pentos-2-ene	dTDP-4-oxo-alpha-D-xylose	R11473	white
+dTDP-4-oxo-alpha-D-xylose 2,3-dehydratase	4.2.1.-	dTDP-4-oxo-alpha-D-xylose	H2O	R11473	white
+dTDP-4-oxo-alpha-D-xylose 2,3-dehydratase	4.2.1.-	dTDP-4-oxo-alpha-D-xylose	dTDP-4-oxo-2-deoxy-alpha-D-pentos-2-ene	R11473	white
+dTDP-6-deoxy-L-talose 4-dehydrogenase (NAD+)	1.1.1.339	H+	NAD+	R10190	white
+dTDP-6-deoxy-L-talose 4-dehydrogenase (NAD+)	1.1.1.339	H+	dTDP-6-deoxy-beta-L-talose	R10190	white
+dTDP-6-deoxy-L-talose 4-dehydrogenase (NAD+)	1.1.1.339	NAD+	H+	R10190	white
+dTDP-6-deoxy-L-talose 4-dehydrogenase (NAD+)	1.1.1.339	NAD+	NADH	R10190	white
+dTDP-6-deoxy-L-talose 4-dehydrogenase (NAD+)	1.1.1.339	NAD+	dTDP-4-dehydro-beta-L-rhamnose	R10190	white
+dTDP-6-deoxy-L-talose 4-dehydrogenase (NAD+)	1.1.1.339	NADH	NAD+	R10190	white
+dTDP-6-deoxy-L-talose 4-dehydrogenase (NAD+)	1.1.1.339	NADH	dTDP-6-deoxy-beta-L-talose	R10190	white
+dTDP-6-deoxy-L-talose 4-dehydrogenase (NAD+)	1.1.1.339	dTDP-4-dehydro-beta-L-rhamnose	NAD+	R10190	white
+dTDP-6-deoxy-L-talose 4-dehydrogenase (NAD+)	1.1.1.339	dTDP-4-dehydro-beta-L-rhamnose	dTDP-6-deoxy-beta-L-talose	R10190	white
+dTDP-6-deoxy-L-talose 4-dehydrogenase (NAD+)	1.1.1.339	dTDP-6-deoxy-beta-L-talose	H+	R10190	white
+dTDP-6-deoxy-L-talose 4-dehydrogenase (NAD+)	1.1.1.339	dTDP-6-deoxy-beta-L-talose	NADH	R10190	white
+dTDP-6-deoxy-L-talose 4-dehydrogenase (NAD+)	1.1.1.339	dTDP-6-deoxy-beta-L-talose	dTDP-4-dehydro-beta-L-rhamnose	R10190	white
+dTDP-6-deoxy-L-talose 4-dehydrogenase [NAD(P)+]	1.1.1.344	H+	NADP+	R02776	white
+dTDP-6-deoxy-L-talose 4-dehydrogenase [NAD(P)+]	1.1.1.344	H+	dTDP-6-deoxy-beta-L-talose	R02776	white
+dTDP-6-deoxy-L-talose 4-dehydrogenase [NAD(P)+]	1.1.1.344	NADP+	H+	R02776	white
+dTDP-6-deoxy-L-talose 4-dehydrogenase [NAD(P)+]	1.1.1.344	NADP+	NADPH	R02776	white
+dTDP-6-deoxy-L-talose 4-dehydrogenase [NAD(P)+]	1.1.1.344	NADP+	dTDP-4-dehydro-beta-L-rhamnose	R02776	white
+dTDP-6-deoxy-L-talose 4-dehydrogenase [NAD(P)+]	1.1.1.344	NADPH	NADP+	R02776	white
+dTDP-6-deoxy-L-talose 4-dehydrogenase [NAD(P)+]	1.1.1.344	NADPH	dTDP-6-deoxy-beta-L-talose	R02776	white
+dTDP-6-deoxy-L-talose 4-dehydrogenase [NAD(P)+]	1.1.1.344	dTDP-4-dehydro-beta-L-rhamnose	NADP+	R02776	white
+dTDP-6-deoxy-L-talose 4-dehydrogenase [NAD(P)+]	1.1.1.344	dTDP-4-dehydro-beta-L-rhamnose	dTDP-6-deoxy-beta-L-talose	R02776	white
+dTDP-6-deoxy-L-talose 4-dehydrogenase [NAD(P)+]	1.1.1.344	dTDP-6-deoxy-beta-L-talose	H+	R02776	white
+dTDP-6-deoxy-L-talose 4-dehydrogenase [NAD(P)+]	1.1.1.344	dTDP-6-deoxy-beta-L-talose	NADPH	R02776	white
+dTDP-6-deoxy-L-talose 4-dehydrogenase [NAD(P)+]	1.1.1.344	dTDP-6-deoxy-beta-L-talose	dTDP-4-dehydro-beta-L-rhamnose	R02776	white
+dTDP-L-rhamnose 4-epimerase	5.1.3.25	dTDP-6-deoxy-beta-L-talose	dTDP-L-rhamnose	R10279	green
+dTDP-L-rhamnose 4-epimerase	5.1.3.25	dTDP-L-rhamnose	dTDP-6-deoxy-beta-L-talose	R10279	green
+dTDP-alpha-D-glucose dehydrogenase	1.1.1.-	H+	H2O	R11471	white
+dTDP-alpha-D-glucose dehydrogenase	1.1.1.-	H+	NAD+	R11471	white
+dTDP-alpha-D-glucose dehydrogenase	1.1.1.-	H+	dTDP-glucose	R11471	white
+dTDP-alpha-D-glucose dehydrogenase	1.1.1.-	H2O	H+	R11471	white
+dTDP-alpha-D-glucose dehydrogenase	1.1.1.-	H2O	NADH	R11471	white
+dTDP-alpha-D-glucose dehydrogenase	1.1.1.-	H2O	dTDP-D-glucuronate	R11471	white
+dTDP-alpha-D-glucose dehydrogenase	1.1.1.-	NAD+	H+	R11471	white
+dTDP-alpha-D-glucose dehydrogenase	1.1.1.-	NAD+	NADH	R11471	white
+dTDP-alpha-D-glucose dehydrogenase	1.1.1.-	NAD+	dTDP-D-glucuronate	R11471	white
+dTDP-alpha-D-glucose dehydrogenase	1.1.1.-	NADH	H2O	R11471	white
+dTDP-alpha-D-glucose dehydrogenase	1.1.1.-	NADH	NAD+	R11471	white
+dTDP-alpha-D-glucose dehydrogenase	1.1.1.-	NADH	dTDP-glucose	R11471	white
+dTDP-alpha-D-glucose dehydrogenase	1.1.1.-	dTDP-D-glucuronate	H2O	R11471	white
+dTDP-alpha-D-glucose dehydrogenase	1.1.1.-	dTDP-D-glucuronate	NAD+	R11471	white
+dTDP-alpha-D-glucose dehydrogenase	1.1.1.-	dTDP-D-glucuronate	dTDP-glucose	R11471	white
+dTDP-alpha-D-glucose dehydrogenase	1.1.1.-	dTDP-glucose	H+	R11471	white
+dTDP-alpha-D-glucose dehydrogenase	1.1.1.-	dTDP-glucose	NADH	R11471	white
+dTDP-alpha-D-glucose dehydrogenase	1.1.1.-	dTDP-glucose	dTDP-D-glucuronate	R11471	white
+dTDP-alpha-D-glucuronic acid decarboxylase	1.1.1.-	CO2	NAD+	R11472	white
+dTDP-alpha-D-glucuronic acid decarboxylase	1.1.1.-	CO2	dTDP-D-glucuronate	R11472	white
+dTDP-alpha-D-glucuronic acid decarboxylase	1.1.1.-	H+	NAD+	R11472	white
+dTDP-alpha-D-glucuronic acid decarboxylase	1.1.1.-	H+	dTDP-D-glucuronate	R11472	white
+dTDP-alpha-D-glucuronic acid decarboxylase	1.1.1.-	NAD+	CO2	R11472	white
+dTDP-alpha-D-glucuronic acid decarboxylase	1.1.1.-	NAD+	H+	R11472	white
+dTDP-alpha-D-glucuronic acid decarboxylase	1.1.1.-	NAD+	NADH	R11472	white
+dTDP-alpha-D-glucuronic acid decarboxylase	1.1.1.-	NAD+	dTDP-4-oxo-alpha-D-xylose	R11472	white
+dTDP-alpha-D-glucuronic acid decarboxylase	1.1.1.-	NADH	NAD+	R11472	white
+dTDP-alpha-D-glucuronic acid decarboxylase	1.1.1.-	NADH	dTDP-D-glucuronate	R11472	white
+dTDP-alpha-D-glucuronic acid decarboxylase	1.1.1.-	dTDP-4-oxo-alpha-D-xylose	NAD+	R11472	white
+dTDP-alpha-D-glucuronic acid decarboxylase	1.1.1.-	dTDP-4-oxo-alpha-D-xylose	dTDP-D-glucuronate	R11472	white
+dTDP-alpha-D-glucuronic acid decarboxylase	1.1.1.-	dTDP-D-glucuronate	CO2	R11472	white
+dTDP-alpha-D-glucuronic acid decarboxylase	1.1.1.-	dTDP-D-glucuronate	H+	R11472	white
+dTDP-alpha-D-glucuronic acid decarboxylase	1.1.1.-	dTDP-D-glucuronate	NADH	R11472	white
+dTDP-alpha-D-glucuronic acid decarboxylase	1.1.1.-	dTDP-D-glucuronate	dTDP-4-oxo-alpha-D-xylose	R11472	white
+dTDP-fucopyranose mutase	5.4.99.59	dTDP-D-fucose	dTDP-alpha-D-fucofuranose	R10536	white
+dTDP-fucopyranose mutase	5.4.99.59	dTDP-alpha-D-fucofuranose	dTDP-D-fucose	R10536	white
+dTDP-glucose 4,6-dehydratase	4.2.1.46	dTDP-glucose	H2O	R06513	green
+dTDP-glucose 4,6-dehydratase	4.2.1.46	dTDP-glucose	dTDP-4-oxo-6-deoxy-D-glucose	R06513	green
+dTDP-rhamnose C3-O-methyltransferase	2.1.1.-	S-Adenosyl-L-homocysteine	S-Adenosyl-L-methionine	R11469	white
+dTDP-rhamnose C3-O-methyltransferase	2.1.1.-	S-Adenosyl-L-homocysteine	dTDP-L-rhamnose	R11469	white
+dTDP-rhamnose C3-O-methyltransferase	2.1.1.-	S-Adenosyl-L-methionine	S-Adenosyl-L-homocysteine	R11469	white
+dTDP-rhamnose C3-O-methyltransferase	2.1.1.-	S-Adenosyl-L-methionine	dTDP-3-O-methyl-beta-L-rhamnose	R11469	white
+dTDP-rhamnose C3-O-methyltransferase	2.1.1.-	dTDP-3-O-methyl-beta-L-rhamnose	S-Adenosyl-L-methionine	R11469	white
+dTDP-rhamnose C3-O-methyltransferase	2.1.1.-	dTDP-3-O-methyl-beta-L-rhamnose	dTDP-L-rhamnose	R11469	white
+dTDP-rhamnose C3-O-methyltransferase	2.1.1.-	dTDP-L-rhamnose	S-Adenosyl-L-homocysteine	R11469	white
+dTDP-rhamnose C3-O-methyltransferase	2.1.1.-	dTDP-L-rhamnose	dTDP-3-O-methyl-beta-L-rhamnose	R11469	white
+glucose-1-phosphate thymidylyltransferase	2.7.7.24	D-Glucose 1-phosphate	Diphosphate	R02328	green
+glucose-1-phosphate thymidylyltransferase	2.7.7.24	D-Glucose 1-phosphate	dTDP-glucose	R02328	green
+glucose-1-phosphate thymidylyltransferase	2.7.7.24	dTTP	Diphosphate	R02328	green
+glucose-1-phosphate thymidylyltransferase	2.7.7.24	dTTP	dTDP-glucose	R02328	green
