@@ -155,8 +155,12 @@ def get_gene_info(gene_ref: str) -> tuple[str, list[str], list[str]]:
 
 
 def get_compound_inchi(name: str) -> str:
+    if name in inchi_cache:
+        return inchi_cache[name]
+
     enc = urllib.parse.quote(name)
     base = "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound"
+
     # 1. Exact PubChem lookup
     for endpoint in (
         f"{base}/name/{enc}/property/StandardInChI/TXT",
@@ -174,6 +178,7 @@ def get_compound_inchi(name: str) -> str:
                 return inchi
         except Exception:
             continue
+
     # 2. OPSIN
     try:
         r = requests.get(f"https://opsin.ch.cam.ac.uk/opsin/{enc}.inchi", timeout=8)
@@ -184,6 +189,7 @@ def get_compound_inchi(name: str) -> str:
                 return inchi
     except Exception:
         pass
+
     # 3. PubChem fuzzy lookup
     try:
         txt = requests.get(f"{base}/name/{enc}/cids/TXT", timeout=8).text
@@ -195,7 +201,8 @@ def get_compound_inchi(name: str) -> str:
             for entry in info.get('InformationList', {}).get('Information', []):
                 if any(''.join(ch for ch in s.lower() if ch.isalnum()) == tgt
                        for s in entry.get('Synonym', [])):
-                    cid = entry['CID']; break
+                    cid = entry['CID']
+                    break
         if cid:
             r2 = requests.get(f"{base}/cid/{cid}/property/StandardInChI/TXT", timeout=8)
             r2.raise_for_status()
@@ -205,6 +212,29 @@ def get_compound_inchi(name: str) -> str:
                 return inchi
     except Exception:
         pass
+
+    # 4. KEGG fallback
+    try:
+        kegg_url = f"http://rest.kegg.jp/find/compound/{enc}"
+        response = requests.get(kegg_url, timeout=8)
+        if response.ok:
+            lines = response.text.splitlines()
+            for line in lines:
+                if "\t" in line:
+                    kegg_id = line.split("\t")[0]
+                    compound_url = f"http://rest.kegg.jp/get/{kegg_id}"
+                    compound_data = requests.get(compound_url, timeout=8).text
+                    for entry in compound_data.splitlines():
+                        if entry.startswith("///"):
+                            break
+                        if entry.strip().startswith("InChI="):
+                            inchi = standardize(entry.strip())
+                            if inchi:
+                                inchi_cache[name] = inchi
+                                return inchi
+    except Exception:
+        pass
+
     return ""
 
 
@@ -258,7 +288,7 @@ def parse_kgml_to_tsv(kgml_file: str):
             cid = info['name'].split(':',1)[1]
             compounds[eid] = get_compound_name(cid)
 
-    triples: set[tuple[str,str,str,str,str]] = set()
+    edge_col_values: set[tuple[str,str,str,str,str,str]] = set()
 
     # 4) GREEN edges: genes from KGML reactions
     for eid, info in entries.items():
@@ -273,9 +303,10 @@ def parse_kgml_to_tsv(kgml_file: str):
                 rev = (reaction_map.get(code) == 'reversible')
                 for s in subs:
                     for p in prods:
-                        triples.add((enz_name, ec, get_compound_name(s), get_compound_name(p), 'green'))
+                        # include `code` in the tuple
+                        edge_col_values.add((enz_name, ec, get_compound_name(s), get_compound_name(p), code, 'green'))
                         if rev:
-                            triples.add((enz_name, ec, get_compound_name(p), get_compound_name(s), 'green'))
+                            edge_col_values.add((enz_name, ec, get_compound_name(p), get_compound_name(s), code, 'green'))
 
     # 5) WHITE edges: orthologs from KEGG Reaction definition
     for eid, info in entries.items():
@@ -290,9 +321,9 @@ def parse_kgml_to_tsv(kgml_file: str):
                         rev = is_reversible_in_kegg(code)
                         for s in subs:
                             for p in prods:
-                                triples.add((enz, ec, get_compound_name(s), get_compound_name(p), 'white'))
+                                edge_col_values.add((enz, ec, get_compound_name(s), get_compound_name(p), code, 'white'))
                                 if rev:
-                                    triples.add((enz, ec, get_compound_name(p), get_compound_name(s), 'white'))
+                                    edge_col_values.add((enz, ec, get_compound_name(p), get_compound_name(s), code, 'white'))
 
     # 6) Write nodes.tsv
     with open(nodes_f, 'w', newline='', encoding='utf-8') as f:
@@ -301,9 +332,10 @@ def parse_kgml_to_tsv(kgml_file: str):
         for nm in sorted(set(compounds.values())):
             w.writerow([nm, get_compound_inchi(nm)])
 
-    # 7) Write edges.tsv
+    # 7) Write edges.tsv – update header and writerow:
     with open(edges_f, 'w', newline='', encoding='utf-8') as f:
         w = csv.writer(f, delimiter='\t')
-        w.writerow(['enzyme_name','EC','source','target','color'])
-        for en, ec, s, p, color in sorted(triples):
-            w.writerow([en, ec, s, p, color])
+        # add 'reaction' before 'color'
+        w.writerow(['enzyme_name', 'EC', 'source', 'target', 'reaction', 'color'])
+        for en, ec, s, p, rxn, color in sorted(edge_col_values):
+            w.writerow([en, ec, s, p, rxn, color])
