@@ -1,623 +1,407 @@
-enzyme_name	EC	source	target	color
-4-amino-4-deoxy-L-arabinose transferase	2.4.2.43	2,3,2'3'-Tetrakis(3-hydroxytetradecanoyl)-D-glucosaminyl-1,6-beta-D-glucosamine 1,4'-bisphosphate	Lipid IIA	white
-4-amino-4-deoxy-L-arabinose transferase	2.4.2.43	2,3,2'3'-Tetrakis(3-hydroxytetradecanoyl)-D-glucosaminyl-1,6-beta-D-glucosamine 1,4'-bisphosphate	di-trans,poly-cis-Undecaprenyl phosphate	white
-4-amino-4-deoxy-L-arabinose transferase	2.4.2.43	Lipid IIA	2,3,2'3'-Tetrakis(3-hydroxytetradecanoyl)-D-glucosaminyl-1,6-beta-D-glucosamine 1,4'-bisphosphate	white
-4-amino-4-deoxy-L-arabinose transferase	2.4.2.43	Lipid IIA	Undecaprenyl phosphate alpha-L-Ara4N	white
-4-amino-4-deoxy-L-arabinose transferase	2.4.2.43	Undecaprenyl phosphate alpha-L-Ara4N	Lipid IIA	white
-4-amino-4-deoxy-L-arabinose transferase	2.4.2.43	Undecaprenyl phosphate alpha-L-Ara4N	di-trans,poly-cis-Undecaprenyl phosphate	white
-4-amino-4-deoxy-L-arabinose transferase	2.4.2.43	di-trans,poly-cis-Undecaprenyl phosphate	2,3,2'3'-Tetrakis(3-hydroxytetradecanoyl)-D-glucosaminyl-1,6-beta-D-glucosamine 1,4'-bisphosphate	white
-4-amino-4-deoxy-L-arabinose transferase	2.4.2.43	di-trans,poly-cis-Undecaprenyl phosphate	Undecaprenyl phosphate alpha-L-Ara4N	white
-AraC family transcriptional regulator, mar-sox-rob regulon activator	1.8.4.15	AMP	ATP	white
-AraC family transcriptional regulator, mar-sox-rob regulon activator	1.8.4.15	AMP	D-Alanine	white
-AraC family transcriptional regulator, mar-sox-rob regulon activator	1.8.4.15	AMP	G13185	white
-AraC family transcriptional regulator, mar-sox-rob regulon activator	1.8.4.15	ATP	AMP	white
-AraC family transcriptional regulator, mar-sox-rob regulon activator	1.8.4.15	ATP	Diphosphate	white
-AraC family transcriptional regulator, mar-sox-rob regulon activator	1.8.4.15	ATP	G13186	white
-AraC family transcriptional regulator, mar-sox-rob regulon activator	1.8.4.15	D-Alanine	AMP	white
-AraC family transcriptional regulator, mar-sox-rob regulon activator	1.8.4.15	D-Alanine	Diphosphate	white
-AraC family transcriptional regulator, mar-sox-rob regulon activator	1.8.4.15	D-Alanine	G13186	white
-AraC family transcriptional regulator, mar-sox-rob regulon activator	1.8.4.15	Diphosphate	ATP	white
-AraC family transcriptional regulator, mar-sox-rob regulon activator	1.8.4.15	Diphosphate	D-Alanine	white
-AraC family transcriptional regulator, mar-sox-rob regulon activator	1.8.4.15	Diphosphate	G13185	white
-AraC family transcriptional regulator, mar-sox-rob regulon activator	1.8.4.15	G13185	AMP	white
-AraC family transcriptional regulator, mar-sox-rob regulon activator	1.8.4.15	G13185	Diphosphate	white
-AraC family transcriptional regulator, mar-sox-rob regulon activator	1.8.4.15	G13185	G13186	white
-AraC family transcriptional regulator, mar-sox-rob regulon activator	1.8.4.15	G13186	ATP	white
-AraC family transcriptional regulator, mar-sox-rob regulon activator	1.8.4.15	G13186	D-Alanine	white
-AraC family transcriptional regulator, mar-sox-rob regulon activator	1.8.4.15	G13186	G13185	white
-D-alanine transfer protein	6.1.1.13	AMP	ATP	white
-D-alanine transfer protein	6.1.1.13	AMP	D-Alanine	white
-D-alanine transfer protein	6.1.1.13	AMP	G13185	white
-D-alanine transfer protein	6.1.1.13	ATP	AMP	white
-D-alanine transfer protein	6.1.1.13	ATP	Diphosphate	white
-D-alanine transfer protein	6.1.1.13	ATP	G13186	white
-D-alanine transfer protein	6.1.1.13	D-Alanine	AMP	white
-D-alanine transfer protein	6.1.1.13	D-Alanine	Diphosphate	white
-D-alanine transfer protein	6.1.1.13	D-Alanine	G13186	white
-D-alanine transfer protein	6.1.1.13	Diphosphate	ATP	white
-D-alanine transfer protein	6.1.1.13	Diphosphate	D-Alanine	white
-D-alanine transfer protein	6.1.1.13	Diphosphate	G13185	white
-D-alanine transfer protein	6.1.1.13	G13185	AMP	white
-D-alanine transfer protein	6.1.1.13	G13185	Diphosphate	white
-D-alanine transfer protein	6.1.1.13	G13185	G13186	white
-D-alanine transfer protein	6.1.1.13	G13186	ATP	white
-D-alanine transfer protein	6.1.1.13	G13186	D-Alanine	white
-D-alanine transfer protein	6.1.1.13	G13186	G13185	white
-D-alanine--poly(phosphoribitol) ligase subunit 1	6.1.1.13	AMP	ATP	white
-D-alanine--poly(phosphoribitol) ligase subunit 1	6.1.1.13	AMP	D-Alanine	white
-D-alanine--poly(phosphoribitol) ligase subunit 1	6.1.1.13	AMP	Poly(ribitol phosphate)	white
-D-alanine--poly(phosphoribitol) ligase subunit 1	6.1.1.13	ATP	AMP	white
-D-alanine--poly(phosphoribitol) ligase subunit 1	6.1.1.13	ATP	Diphosphate	white
-D-alanine--poly(phosphoribitol) ligase subunit 1	6.1.1.13	ATP	O-D-Alanyl-poly(ribitol phosphate)	white
-D-alanine--poly(phosphoribitol) ligase subunit 1	6.1.1.13	D-Alanine	AMP	white
-D-alanine--poly(phosphoribitol) ligase subunit 1	6.1.1.13	D-Alanine	Diphosphate	white
-D-alanine--poly(phosphoribitol) ligase subunit 1	6.1.1.13	D-Alanine	O-D-Alanyl-poly(ribitol phosphate)	white
-D-alanine--poly(phosphoribitol) ligase subunit 1	6.1.1.13	Diphosphate	ATP	white
-D-alanine--poly(phosphoribitol) ligase subunit 1	6.1.1.13	Diphosphate	D-Alanine	white
-D-alanine--poly(phosphoribitol) ligase subunit 1	6.1.1.13	Diphosphate	Poly(ribitol phosphate)	white
-D-alanine--poly(phosphoribitol) ligase subunit 1	6.1.1.13	O-D-Alanyl-poly(ribitol phosphate)	ATP	white
-D-alanine--poly(phosphoribitol) ligase subunit 1	6.1.1.13	O-D-Alanyl-poly(ribitol phosphate)	D-Alanine	white
-D-alanine--poly(phosphoribitol) ligase subunit 1	6.1.1.13	O-D-Alanyl-poly(ribitol phosphate)	Poly(ribitol phosphate)	white
-D-alanine--poly(phosphoribitol) ligase subunit 1	6.1.1.13	Poly(ribitol phosphate)	AMP	white
-D-alanine--poly(phosphoribitol) ligase subunit 1	6.1.1.13	Poly(ribitol phosphate)	Diphosphate	white
-D-alanine--poly(phosphoribitol) ligase subunit 1	6.1.1.13	Poly(ribitol phosphate)	O-D-Alanyl-poly(ribitol phosphate)	white
-D-alanine--poly(phosphoribitol) ligase subunit 2	6.1.1.13	AMP	ATP	white
-D-alanine--poly(phosphoribitol) ligase subunit 2	6.1.1.13	AMP	D-Alanine	white
-D-alanine--poly(phosphoribitol) ligase subunit 2	6.1.1.13	AMP	Poly(ribitol phosphate)	white
-D-alanine--poly(phosphoribitol) ligase subunit 2	6.1.1.13	ATP	AMP	white
-D-alanine--poly(phosphoribitol) ligase subunit 2	6.1.1.13	ATP	Diphosphate	white
-D-alanine--poly(phosphoribitol) ligase subunit 2	6.1.1.13	ATP	O-D-Alanyl-poly(ribitol phosphate)	white
-D-alanine--poly(phosphoribitol) ligase subunit 2	6.1.1.13	D-Alanine	AMP	white
-D-alanine--poly(phosphoribitol) ligase subunit 2	6.1.1.13	D-Alanine	Diphosphate	white
-D-alanine--poly(phosphoribitol) ligase subunit 2	6.1.1.13	D-Alanine	O-D-Alanyl-poly(ribitol phosphate)	white
-D-alanine--poly(phosphoribitol) ligase subunit 2	6.1.1.13	Diphosphate	ATP	white
-D-alanine--poly(phosphoribitol) ligase subunit 2	6.1.1.13	Diphosphate	D-Alanine	white
-D-alanine--poly(phosphoribitol) ligase subunit 2	6.1.1.13	Diphosphate	Poly(ribitol phosphate)	white
-D-alanine--poly(phosphoribitol) ligase subunit 2	6.1.1.13	O-D-Alanyl-poly(ribitol phosphate)	ATP	white
-D-alanine--poly(phosphoribitol) ligase subunit 2	6.1.1.13	O-D-Alanyl-poly(ribitol phosphate)	D-Alanine	white
-D-alanine--poly(phosphoribitol) ligase subunit 2	6.1.1.13	O-D-Alanyl-poly(ribitol phosphate)	Poly(ribitol phosphate)	white
-D-alanine--poly(phosphoribitol) ligase subunit 2	6.1.1.13	Poly(ribitol phosphate)	AMP	white
-D-alanine--poly(phosphoribitol) ligase subunit 2	6.1.1.13	Poly(ribitol phosphate)	Diphosphate	white
-D-alanine--poly(phosphoribitol) ligase subunit 2	6.1.1.13	Poly(ribitol phosphate)	O-D-Alanyl-poly(ribitol phosphate)	white
-KDO II ethanolaminephosphotransferase	2.7.8.42	1,2-Diacyl-sn-glycerol	KDO2-lipid A	white
-KDO II ethanolaminephosphotransferase	2.7.8.42	1,2-Diacyl-sn-glycerol	Phosphatidylethanolamine	white
-KDO II ethanolaminephosphotransferase	2.7.8.42	KDO2-lipid A	1,2-Diacyl-sn-glycerol	white
-KDO II ethanolaminephosphotransferase	2.7.8.42	KDO2-lipid A	PEtN-KDO2-lipid A	white
-KDO II ethanolaminephosphotransferase	2.7.8.42	PEtN-KDO2-lipid A	KDO2-lipid A	white
-KDO II ethanolaminephosphotransferase	2.7.8.42	PEtN-KDO2-lipid A	Phosphatidylethanolamine	white
-KDO II ethanolaminephosphotransferase	2.7.8.42	Phosphatidylethanolamine	1,2-Diacyl-sn-glycerol	white
-KDO II ethanolaminephosphotransferase	2.7.8.42	Phosphatidylethanolamine	PEtN-KDO2-lipid A	white
-L,D-transpeptidase YcfS	1.8.4.15	AMP	ATP	white
-L,D-transpeptidase YcfS	1.8.4.15	AMP	D-Alanine	white
-L,D-transpeptidase YcfS	1.8.4.15	AMP	G13185	white
-L,D-transpeptidase YcfS	1.8.4.15	ATP	AMP	white
-L,D-transpeptidase YcfS	1.8.4.15	ATP	Diphosphate	white
-L,D-transpeptidase YcfS	1.8.4.15	ATP	G13186	white
-L,D-transpeptidase YcfS	1.8.4.15	D-Alanine	AMP	white
-L,D-transpeptidase YcfS	1.8.4.15	D-Alanine	Diphosphate	white
-L,D-transpeptidase YcfS	1.8.4.15	D-Alanine	G13186	white
-L,D-transpeptidase YcfS	1.8.4.15	Diphosphate	ATP	white
-L,D-transpeptidase YcfS	1.8.4.15	Diphosphate	D-Alanine	white
-L,D-transpeptidase YcfS	1.8.4.15	Diphosphate	G13185	white
-L,D-transpeptidase YcfS	1.8.4.15	G13185	AMP	white
-L,D-transpeptidase YcfS	1.8.4.15	G13185	Diphosphate	white
-L,D-transpeptidase YcfS	1.8.4.15	G13185	G13186	white
-L,D-transpeptidase YcfS	1.8.4.15	G13186	ATP	white
-L,D-transpeptidase YcfS	1.8.4.15	G13186	D-Alanine	white
-L,D-transpeptidase YcfS	1.8.4.15	G13186	G13185	white
-UDP-4-amino-4-deoxy-L-arabinose formyltransferase / UDP-glucuronic acid dehydrogenase (UDP-4-keto-hexauronic acid decarboxylating)	2.1.2.13	CO2	NAD+	white
-UDP-4-amino-4-deoxy-L-arabinose formyltransferase / UDP-glucuronic acid dehydrogenase (UDP-4-keto-hexauronic acid decarboxylating)	2.1.2.13	CO2	UDP-glucuronate	white
-UDP-4-amino-4-deoxy-L-arabinose formyltransferase / UDP-glucuronic acid dehydrogenase (UDP-4-keto-hexauronic acid decarboxylating)	2.1.2.13	H+	NAD+	white
-UDP-4-amino-4-deoxy-L-arabinose formyltransferase / UDP-glucuronic acid dehydrogenase (UDP-4-keto-hexauronic acid decarboxylating)	2.1.2.13	H+	UDP-glucuronate	white
-UDP-4-amino-4-deoxy-L-arabinose formyltransferase / UDP-glucuronic acid dehydrogenase (UDP-4-keto-hexauronic acid decarboxylating)	2.1.2.13	NAD+	CO2	white
-UDP-4-amino-4-deoxy-L-arabinose formyltransferase / UDP-glucuronic acid dehydrogenase (UDP-4-keto-hexauronic acid decarboxylating)	2.1.2.13	NAD+	H+	white
-UDP-4-amino-4-deoxy-L-arabinose formyltransferase / UDP-glucuronic acid dehydrogenase (UDP-4-keto-hexauronic acid decarboxylating)	2.1.2.13	NAD+	NADH	white
-UDP-4-amino-4-deoxy-L-arabinose formyltransferase / UDP-glucuronic acid dehydrogenase (UDP-4-keto-hexauronic acid decarboxylating)	2.1.2.13	NAD+	UDP-L-Ara4O	white
-UDP-4-amino-4-deoxy-L-arabinose formyltransferase / UDP-glucuronic acid dehydrogenase (UDP-4-keto-hexauronic acid decarboxylating)	2.1.2.13	NADH	NAD+	white
-UDP-4-amino-4-deoxy-L-arabinose formyltransferase / UDP-glucuronic acid dehydrogenase (UDP-4-keto-hexauronic acid decarboxylating)	2.1.2.13	NADH	UDP-glucuronate	white
-UDP-4-amino-4-deoxy-L-arabinose formyltransferase / UDP-glucuronic acid dehydrogenase (UDP-4-keto-hexauronic acid decarboxylating)	2.1.2.13	UDP-L-Ara4O	NAD+	white
-UDP-4-amino-4-deoxy-L-arabinose formyltransferase / UDP-glucuronic acid dehydrogenase (UDP-4-keto-hexauronic acid decarboxylating)	2.1.2.13	UDP-L-Ara4O	UDP-glucuronate	white
-UDP-4-amino-4-deoxy-L-arabinose formyltransferase / UDP-glucuronic acid dehydrogenase (UDP-4-keto-hexauronic acid decarboxylating)	2.1.2.13	UDP-glucuronate	CO2	white
-UDP-4-amino-4-deoxy-L-arabinose formyltransferase / UDP-glucuronic acid dehydrogenase (UDP-4-keto-hexauronic acid decarboxylating)	2.1.2.13	UDP-glucuronate	H+	white
-UDP-4-amino-4-deoxy-L-arabinose formyltransferase / UDP-glucuronic acid dehydrogenase (UDP-4-keto-hexauronic acid decarboxylating)	2.1.2.13	UDP-glucuronate	NADH	white
-UDP-4-amino-4-deoxy-L-arabinose formyltransferase / UDP-glucuronic acid dehydrogenase (UDP-4-keto-hexauronic acid decarboxylating)	2.1.2.13	UDP-glucuronate	UDP-L-Ara4O	white
-UDP-4-amino-4-deoxy-L-arabinose-oxoglutarate aminotransferase	2.6.1.87	2-Oxoglutarate	L-Glutamate	white
-UDP-4-amino-4-deoxy-L-arabinose-oxoglutarate aminotransferase	2.6.1.87	2-Oxoglutarate	UDP-L-Ara4O	white
-UDP-4-amino-4-deoxy-L-arabinose-oxoglutarate aminotransferase	2.6.1.87	L-Glutamate	2-Oxoglutarate	white
-UDP-4-amino-4-deoxy-L-arabinose-oxoglutarate aminotransferase	2.6.1.87	L-Glutamate	UDP-L-Ara4N	white
-UDP-4-amino-4-deoxy-L-arabinose-oxoglutarate aminotransferase	2.6.1.87	UDP-L-Ara4N	L-Glutamate	white
-UDP-4-amino-4-deoxy-L-arabinose-oxoglutarate aminotransferase	2.6.1.87	UDP-L-Ara4N	UDP-L-Ara4O	white
-UDP-4-amino-4-deoxy-L-arabinose-oxoglutarate aminotransferase	2.6.1.87	UDP-L-Ara4O	2-Oxoglutarate	white
-UDP-4-amino-4-deoxy-L-arabinose-oxoglutarate aminotransferase	2.6.1.87	UDP-L-Ara4O	UDP-L-Ara4N	white
-aureolysin	3.4.24.29	AMP	ATP	white
-aureolysin	3.4.24.29	AMP	D-Alanine	white
-aureolysin	3.4.24.29	AMP	G13185	white
-aureolysin	3.4.24.29	ATP	AMP	white
-aureolysin	3.4.24.29	ATP	Diphosphate	white
-aureolysin	3.4.24.29	ATP	G13186	white
-aureolysin	3.4.24.29	D-Alanine	AMP	white
-aureolysin	3.4.24.29	D-Alanine	Diphosphate	white
-aureolysin	3.4.24.29	D-Alanine	G13186	white
-aureolysin	3.4.24.29	Diphosphate	ATP	white
-aureolysin	3.4.24.29	Diphosphate	D-Alanine	white
-aureolysin	3.4.24.29	Diphosphate	G13185	white
-aureolysin	3.4.24.29	G13185	AMP	white
-aureolysin	3.4.24.29	G13185	Diphosphate	white
-aureolysin	3.4.24.29	G13185	G13186	white
-aureolysin	3.4.24.29	G13186	ATP	white
-aureolysin	3.4.24.29	G13186	D-Alanine	white
-aureolysin	3.4.24.29	G13186	G13185	white
-cationic antimicrobial peptide transport system ATP-binding protein	2.7.13.3	2-Acyl-sn-glycero-3-phosphocholine	Hexa-acyl lipid A in lipopolysaccharide	white
-cationic antimicrobial peptide transport system ATP-binding protein	2.7.13.3	2-Acyl-sn-glycero-3-phosphocholine	Palmitoylphosphatidylcholine	white
-cationic antimicrobial peptide transport system ATP-binding protein	2.7.13.3	Hepta-acyl lipid A in lipopolysaccharide	Hexa-acyl lipid A in lipopolysaccharide	white
-cationic antimicrobial peptide transport system ATP-binding protein	2.7.13.3	Hepta-acyl lipid A in lipopolysaccharide	Palmitoylphosphatidylcholine	white
-cationic antimicrobial peptide transport system ATP-binding protein	2.7.13.3	Hexa-acyl lipid A in lipopolysaccharide	2-Acyl-sn-glycero-3-phosphocholine	white
-cationic antimicrobial peptide transport system ATP-binding protein	2.7.13.3	Hexa-acyl lipid A in lipopolysaccharide	Hepta-acyl lipid A in lipopolysaccharide	white
-cationic antimicrobial peptide transport system ATP-binding protein	2.7.13.3	Palmitoylphosphatidylcholine	2-Acyl-sn-glycero-3-phosphocholine	white
-cationic antimicrobial peptide transport system ATP-binding protein	2.7.13.3	Palmitoylphosphatidylcholine	Hepta-acyl lipid A in lipopolysaccharide	white
-cationic antimicrobial peptide transport system permease protein	2.7.13.3	2-Acyl-sn-glycero-3-phosphocholine	Hexa-acyl lipid A in lipopolysaccharide	white
-cationic antimicrobial peptide transport system permease protein	2.7.13.3	2-Acyl-sn-glycero-3-phosphocholine	Palmitoylphosphatidylcholine	white
-cationic antimicrobial peptide transport system permease protein	2.7.13.3	Hepta-acyl lipid A in lipopolysaccharide	Hexa-acyl lipid A in lipopolysaccharide	white
-cationic antimicrobial peptide transport system permease protein	2.7.13.3	Hepta-acyl lipid A in lipopolysaccharide	Palmitoylphosphatidylcholine	white
-cationic antimicrobial peptide transport system permease protein	2.7.13.3	Hexa-acyl lipid A in lipopolysaccharide	2-Acyl-sn-glycero-3-phosphocholine	white
-cationic antimicrobial peptide transport system permease protein	2.7.13.3	Hexa-acyl lipid A in lipopolysaccharide	Hepta-acyl lipid A in lipopolysaccharide	white
-cationic antimicrobial peptide transport system permease protein	2.7.13.3	Palmitoylphosphatidylcholine	2-Acyl-sn-glycero-3-phosphocholine	white
-cationic antimicrobial peptide transport system permease protein	2.7.13.3	Palmitoylphosphatidylcholine	Hepta-acyl lipid A in lipopolysaccharide	white
-cationic peptide transport system ATP-binding protein	1.8.4.15	AMP	ATP	white
-cationic peptide transport system ATP-binding protein	1.8.4.15	AMP	D-Alanine	white
-cationic peptide transport system ATP-binding protein	1.8.4.15	AMP	G13185	white
-cationic peptide transport system ATP-binding protein	1.8.4.15	ATP	AMP	white
-cationic peptide transport system ATP-binding protein	1.8.4.15	ATP	Diphosphate	white
-cationic peptide transport system ATP-binding protein	1.8.4.15	ATP	G13186	white
-cationic peptide transport system ATP-binding protein	1.8.4.15	D-Alanine	AMP	white
-cationic peptide transport system ATP-binding protein	1.8.4.15	D-Alanine	Diphosphate	white
-cationic peptide transport system ATP-binding protein	1.8.4.15	D-Alanine	G13186	white
-cationic peptide transport system ATP-binding protein	1.8.4.15	Diphosphate	ATP	white
-cationic peptide transport system ATP-binding protein	1.8.4.15	Diphosphate	D-Alanine	white
-cationic peptide transport system ATP-binding protein	1.8.4.15	Diphosphate	G13185	white
-cationic peptide transport system ATP-binding protein	1.8.4.15	G13185	AMP	white
-cationic peptide transport system ATP-binding protein	1.8.4.15	G13185	Diphosphate	white
-cationic peptide transport system ATP-binding protein	1.8.4.15	G13185	G13186	white
-cationic peptide transport system ATP-binding protein	1.8.4.15	G13186	ATP	white
-cationic peptide transport system ATP-binding protein	1.8.4.15	G13186	D-Alanine	white
-cationic peptide transport system ATP-binding protein	1.8.4.15	G13186	G13185	white
-cationic peptide transport system permease protein	1.8.4.15	AMP	ATP	white
-cationic peptide transport system permease protein	1.8.4.15	AMP	D-Alanine	white
-cationic peptide transport system permease protein	1.8.4.15	AMP	G13185	white
-cationic peptide transport system permease protein	1.8.4.15	ATP	AMP	white
-cationic peptide transport system permease protein	1.8.4.15	ATP	Diphosphate	white
-cationic peptide transport system permease protein	1.8.4.15	ATP	G13186	white
-cationic peptide transport system permease protein	1.8.4.15	D-Alanine	AMP	white
-cationic peptide transport system permease protein	1.8.4.15	D-Alanine	Diphosphate	white
-cationic peptide transport system permease protein	1.8.4.15	D-Alanine	G13186	white
-cationic peptide transport system permease protein	1.8.4.15	Diphosphate	ATP	white
-cationic peptide transport system permease protein	1.8.4.15	Diphosphate	D-Alanine	white
-cationic peptide transport system permease protein	1.8.4.15	Diphosphate	G13185	white
-cationic peptide transport system permease protein	1.8.4.15	G13185	AMP	white
-cationic peptide transport system permease protein	1.8.4.15	G13185	Diphosphate	white
-cationic peptide transport system permease protein	1.8.4.15	G13185	G13186	white
-cationic peptide transport system permease protein	1.8.4.15	G13186	ATP	white
-cationic peptide transport system permease protein	1.8.4.15	G13186	D-Alanine	white
-cationic peptide transport system permease protein	1.8.4.15	G13186	G13185	white
-cationic peptide transport system substrate-binding protein	1.8.4.15	AMP	ATP	white
-cationic peptide transport system substrate-binding protein	1.8.4.15	AMP	D-Alanine	white
-cationic peptide transport system substrate-binding protein	1.8.4.15	AMP	G13185	white
-cationic peptide transport system substrate-binding protein	1.8.4.15	ATP	AMP	white
-cationic peptide transport system substrate-binding protein	1.8.4.15	ATP	Diphosphate	white
-cationic peptide transport system substrate-binding protein	1.8.4.15	ATP	G13186	white
-cationic peptide transport system substrate-binding protein	1.8.4.15	D-Alanine	AMP	white
-cationic peptide transport system substrate-binding protein	1.8.4.15	D-Alanine	Diphosphate	white
-cationic peptide transport system substrate-binding protein	1.8.4.15	D-Alanine	G13186	white
-cationic peptide transport system substrate-binding protein	1.8.4.15	Diphosphate	ATP	white
-cationic peptide transport system substrate-binding protein	1.8.4.15	Diphosphate	D-Alanine	white
-cationic peptide transport system substrate-binding protein	1.8.4.15	Diphosphate	G13185	white
-cationic peptide transport system substrate-binding protein	1.8.4.15	G13185	AMP	white
-cationic peptide transport system substrate-binding protein	1.8.4.15	G13185	Diphosphate	white
-cationic peptide transport system substrate-binding protein	1.8.4.15	G13185	G13186	white
-cationic peptide transport system substrate-binding protein	1.8.4.15	G13186	ATP	white
-cationic peptide transport system substrate-binding protein	1.8.4.15	G13186	D-Alanine	white
-cationic peptide transport system substrate-binding protein	1.8.4.15	G13186	G13185	white
-copper homeostasis protein (lipoprotein)	2.3.2.3	AMP	ATP	white
-copper homeostasis protein (lipoprotein)	2.3.2.3	AMP	D-Alanine	white
-copper homeostasis protein (lipoprotein)	2.3.2.3	AMP	G13185	white
-copper homeostasis protein (lipoprotein)	2.3.2.3	ATP	AMP	white
-copper homeostasis protein (lipoprotein)	2.3.2.3	ATP	Diphosphate	white
-copper homeostasis protein (lipoprotein)	2.3.2.3	ATP	G13186	white
-copper homeostasis protein (lipoprotein)	2.3.2.3	D-Alanine	AMP	white
-copper homeostasis protein (lipoprotein)	2.3.2.3	D-Alanine	Diphosphate	white
-copper homeostasis protein (lipoprotein)	2.3.2.3	D-Alanine	G13186	white
-copper homeostasis protein (lipoprotein)	2.3.2.3	Diphosphate	ATP	white
-copper homeostasis protein (lipoprotein)	2.3.2.3	Diphosphate	D-Alanine	white
-copper homeostasis protein (lipoprotein)	2.3.2.3	Diphosphate	G13185	white
-copper homeostasis protein (lipoprotein)	2.3.2.3	G13185	AMP	white
-copper homeostasis protein (lipoprotein)	2.3.2.3	G13185	Diphosphate	white
-copper homeostasis protein (lipoprotein)	2.3.2.3	G13185	G13186	white
-copper homeostasis protein (lipoprotein)	2.3.2.3	G13186	ATP	white
-copper homeostasis protein (lipoprotein)	2.3.2.3	G13186	D-Alanine	white
-copper homeostasis protein (lipoprotein)	2.3.2.3	G13186	G13185	white
-gingipain R	3.4.22.37	AMP	ATP	white
-gingipain R	3.4.22.37	AMP	D-Alanine	white
-gingipain R	3.4.22.37	AMP	G13185	white
-gingipain R	3.4.22.37	ATP	AMP	white
-gingipain R	3.4.22.37	ATP	Diphosphate	white
-gingipain R	3.4.22.37	ATP	G13186	white
-gingipain R	3.4.22.37	D-Alanine	AMP	white
-gingipain R	3.4.22.37	D-Alanine	Diphosphate	white
-gingipain R	3.4.22.37	D-Alanine	G13186	white
-gingipain R	3.4.22.37	Diphosphate	ATP	white
-gingipain R	3.4.22.37	Diphosphate	D-Alanine	white
-gingipain R	3.4.22.37	Diphosphate	G13185	white
-gingipain R	3.4.22.37	G13185	AMP	white
-gingipain R	3.4.22.37	G13185	Diphosphate	white
-gingipain R	3.4.22.37	G13185	G13186	white
-gingipain R	3.4.22.37	G13186	ATP	white
-gingipain R	3.4.22.37	G13186	D-Alanine	white
-gingipain R	3.4.22.37	G13186	G13185	white
-inhibitor of complement-mediated lysis	3.4.21.-	AMP	ATP	white
-inhibitor of complement-mediated lysis	3.4.21.-	AMP	D-Alanine	white
-inhibitor of complement-mediated lysis	3.4.21.-	AMP	G13185	white
-inhibitor of complement-mediated lysis	3.4.21.-	ATP	AMP	white
-inhibitor of complement-mediated lysis	3.4.21.-	ATP	Diphosphate	white
-inhibitor of complement-mediated lysis	3.4.21.-	ATP	G13186	white
-inhibitor of complement-mediated lysis	3.4.21.-	D-Alanine	AMP	white
-inhibitor of complement-mediated lysis	3.4.21.-	D-Alanine	Diphosphate	white
-inhibitor of complement-mediated lysis	3.4.21.-	D-Alanine	G13186	white
-inhibitor of complement-mediated lysis	3.4.21.-	Diphosphate	ATP	white
-inhibitor of complement-mediated lysis	3.4.21.-	Diphosphate	D-Alanine	white
-inhibitor of complement-mediated lysis	3.4.21.-	Diphosphate	G13185	white
-inhibitor of complement-mediated lysis	3.4.21.-	G13185	AMP	white
-inhibitor of complement-mediated lysis	3.4.21.-	G13185	Diphosphate	white
-inhibitor of complement-mediated lysis	3.4.21.-	G13185	G13186	white
-inhibitor of complement-mediated lysis	3.4.21.-	G13186	ATP	white
-inhibitor of complement-mediated lysis	3.4.21.-	G13186	D-Alanine	white
-inhibitor of complement-mediated lysis	3.4.21.-	G13186	G13185	white
-lipid A ethanolaminephosphotransferase	2.7.8.43	Diacylglycerol	KDO2-lipid A	white
-lipid A ethanolaminephosphotransferase	2.7.8.43	Diacylglycerol	Phosphatidylethanolamine	white
-lipid A ethanolaminephosphotransferase	2.7.8.43	KDO2-lipid A	Diacylglycerol	white
-lipid A ethanolaminephosphotransferase	2.7.8.43	KDO2-lipid A	KDO2-lipid A 1-(2-aminoethyl diphosphate)	white
-lipid A ethanolaminephosphotransferase	2.7.8.43	KDO2-lipid A 1-(2-aminoethyl diphosphate)	KDO2-lipid A	white
-lipid A ethanolaminephosphotransferase	2.7.8.43	KDO2-lipid A 1-(2-aminoethyl diphosphate)	Phosphatidylethanolamine	white
-lipid A ethanolaminephosphotransferase	2.7.8.43	Phosphatidylethanolamine	Diacylglycerol	white
-lipid A ethanolaminephosphotransferase	2.7.8.43	Phosphatidylethanolamine	KDO2-lipid A 1-(2-aminoethyl diphosphate)	white
-lipid IVA palmitoyltransferase	2.3.1.251	2-Acyl-sn-glycero-3-phosphocholine	Hexa-acyl lipid A in lipopolysaccharide	white
-lipid IVA palmitoyltransferase	2.3.1.251	2-Acyl-sn-glycero-3-phosphocholine	Palmitoylphosphatidylcholine	white
-lipid IVA palmitoyltransferase	2.3.1.251	Hepta-acyl lipid A in lipopolysaccharide	Hexa-acyl lipid A in lipopolysaccharide	white
-lipid IVA palmitoyltransferase	2.3.1.251	Hepta-acyl lipid A in lipopolysaccharide	Palmitoylphosphatidylcholine	white
-lipid IVA palmitoyltransferase	2.3.1.251	Hexa-acyl lipid A in lipopolysaccharide	2-Acyl-sn-glycero-3-phosphocholine	white
-lipid IVA palmitoyltransferase	2.3.1.251	Hexa-acyl lipid A in lipopolysaccharide	Hepta-acyl lipid A in lipopolysaccharide	white
-lipid IVA palmitoyltransferase	2.3.1.251	Palmitoylphosphatidylcholine	2-Acyl-sn-glycero-3-phosphocholine	white
-lipid IVA palmitoyltransferase	2.3.1.251	Palmitoylphosphatidylcholine	Hepta-acyl lipid A in lipopolysaccharide	white
-membrane fusion protein, multidrug efflux system	3.5.2.6	H2O	Penicilloic acid	white
-membrane fusion protein, multidrug efflux system	3.5.2.6	Penicillin	Penicilloic acid	white
-membrane fusion protein, multidrug efflux system	3.5.2.6	Penicilloic acid	H2O	white
-membrane fusion protein, multidrug efflux system	3.5.2.6	Penicilloic acid	Penicillin	white
-membrane protein involved in D-alanine export	6.1.1.13	AMP	ATP	white
-membrane protein involved in D-alanine export	6.1.1.13	AMP	D-Alanine	white
-membrane protein involved in D-alanine export	6.1.1.13	AMP	G13185	white
-membrane protein involved in D-alanine export	6.1.1.13	ATP	AMP	white
-membrane protein involved in D-alanine export	6.1.1.13	ATP	Diphosphate	white
-membrane protein involved in D-alanine export	6.1.1.13	ATP	G13186	white
-membrane protein involved in D-alanine export	6.1.1.13	D-Alanine	AMP	white
-membrane protein involved in D-alanine export	6.1.1.13	D-Alanine	Diphosphate	white
-membrane protein involved in D-alanine export	6.1.1.13	D-Alanine	G13186	white
-membrane protein involved in D-alanine export	6.1.1.13	Diphosphate	ATP	white
-membrane protein involved in D-alanine export	6.1.1.13	Diphosphate	D-Alanine	white
-membrane protein involved in D-alanine export	6.1.1.13	Diphosphate	G13185	white
-membrane protein involved in D-alanine export	6.1.1.13	G13185	AMP	white
-membrane protein involved in D-alanine export	6.1.1.13	G13185	Diphosphate	white
-membrane protein involved in D-alanine export	6.1.1.13	G13185	G13186	white
-membrane protein involved in D-alanine export	6.1.1.13	G13186	ATP	white
-membrane protein involved in D-alanine export	6.1.1.13	G13186	D-Alanine	white
-membrane protein involved in D-alanine export	6.1.1.13	G13186	G13185	white
-multidrug efflux pump	3.5.2.6	H2O	Penicilloic acid	white
-multidrug efflux pump	3.5.2.6	Penicillin	Penicilloic acid	white
-multidrug efflux pump	3.5.2.6	Penicilloic acid	H2O	white
-multidrug efflux pump	3.5.2.6	Penicilloic acid	Penicillin	white
-outer membrane protease E	3.4.21.-	AMP	ATP	white
-outer membrane protease E	3.4.21.-	AMP	D-Alanine	white
-outer membrane protease E	3.4.21.-	AMP	G13185	white
-outer membrane protease E	3.4.21.-	ATP	AMP	white
-outer membrane protease E	3.4.21.-	ATP	Diphosphate	white
-outer membrane protease E	3.4.21.-	ATP	G13186	white
-outer membrane protease E	3.4.21.-	D-Alanine	AMP	white
-outer membrane protease E	3.4.21.-	D-Alanine	Diphosphate	white
-outer membrane protease E	3.4.21.-	D-Alanine	G13186	white
-outer membrane protease E	3.4.21.-	Diphosphate	ATP	white
-outer membrane protease E	3.4.21.-	Diphosphate	D-Alanine	white
-outer membrane protease E	3.4.21.-	Diphosphate	G13185	white
-outer membrane protease E	3.4.21.-	G13185	AMP	white
-outer membrane protease E	3.4.21.-	G13185	Diphosphate	white
-outer membrane protease E	3.4.21.-	G13185	G13186	white
-outer membrane protease E	3.4.21.-	G13186	ATP	white
-outer membrane protease E	3.4.21.-	G13186	D-Alanine	white
-outer membrane protease E	3.4.21.-	G13186	G13185	white
-outer membrane protein	3.4.16.4	H2O	Penicilloic acid	white
-outer membrane protein	3.4.16.4	Penicillin	Penicilloic acid	white
-outer membrane protein	3.4.16.4	Penicilloic acid	H2O	white
-outer membrane protein	3.4.16.4	Penicilloic acid	Penicillin	white
-phosphatidylglycerol lysyltransferase	2.3.2.3	AMP	ATP	white
-phosphatidylglycerol lysyltransferase	2.3.2.3	AMP	D-Alanine	white
-phosphatidylglycerol lysyltransferase	2.3.2.3	AMP	G13185	white
-phosphatidylglycerol lysyltransferase	2.3.2.3	ATP	AMP	white
-phosphatidylglycerol lysyltransferase	2.3.2.3	ATP	Diphosphate	white
-phosphatidylglycerol lysyltransferase	2.3.2.3	ATP	G13186	white
-phosphatidylglycerol lysyltransferase	2.3.2.3	D-Alanine	AMP	white
-phosphatidylglycerol lysyltransferase	2.3.2.3	D-Alanine	Diphosphate	white
-phosphatidylglycerol lysyltransferase	2.3.2.3	D-Alanine	G13186	white
-phosphatidylglycerol lysyltransferase	2.3.2.3	Diphosphate	ATP	white
-phosphatidylglycerol lysyltransferase	2.3.2.3	Diphosphate	D-Alanine	white
-phosphatidylglycerol lysyltransferase	2.3.2.3	Diphosphate	G13185	white
-phosphatidylglycerol lysyltransferase	2.3.2.3	G13185	AMP	white
-phosphatidylglycerol lysyltransferase	2.3.2.3	G13185	Diphosphate	white
-phosphatidylglycerol lysyltransferase	2.3.2.3	G13185	G13186	white
-phosphatidylglycerol lysyltransferase	2.3.2.3	G13186	ATP	white
-phosphatidylglycerol lysyltransferase	2.3.2.3	G13186	D-Alanine	white
-phosphatidylglycerol lysyltransferase	2.3.2.3	G13186	G13185	white
-predicted membrane protein	1.8.4.15	AMP	ATP	white
-predicted membrane protein	1.8.4.15	AMP	D-Alanine	white
-predicted membrane protein	1.8.4.15	AMP	G13185	white
-predicted membrane protein	1.8.4.15	ATP	AMP	white
-predicted membrane protein	1.8.4.15	ATP	Diphosphate	white
-predicted membrane protein	1.8.4.15	ATP	G13186	white
-predicted membrane protein	1.8.4.15	D-Alanine	AMP	white
-predicted membrane protein	1.8.4.15	D-Alanine	Diphosphate	white
-predicted membrane protein	1.8.4.15	D-Alanine	G13186	white
-predicted membrane protein	1.8.4.15	Diphosphate	ATP	white
-predicted membrane protein	1.8.4.15	Diphosphate	D-Alanine	white
-predicted membrane protein	1.8.4.15	Diphosphate	G13185	white
-predicted membrane protein	1.8.4.15	G13185	AMP	white
-predicted membrane protein	1.8.4.15	G13185	Diphosphate	white
-predicted membrane protein	1.8.4.15	G13185	G13186	white
-predicted membrane protein	1.8.4.15	G13186	ATP	white
-predicted membrane protein	1.8.4.15	G13186	D-Alanine	white
-predicted membrane protein	1.8.4.15	G13186	G13185	white
-protein dithiol oxidoreductase (disulfide-forming)	1.8.4.15	AMP	ATP	white
-protein dithiol oxidoreductase (disulfide-forming)	1.8.4.15	AMP	D-Alanine	white
-protein dithiol oxidoreductase (disulfide-forming)	1.8.4.15	AMP	G13185	white
-protein dithiol oxidoreductase (disulfide-forming)	1.8.4.15	ATP	AMP	white
-protein dithiol oxidoreductase (disulfide-forming)	1.8.4.15	ATP	Diphosphate	white
-protein dithiol oxidoreductase (disulfide-forming)	1.8.4.15	ATP	G13186	white
-protein dithiol oxidoreductase (disulfide-forming)	1.8.4.15	D-Alanine	AMP	white
-protein dithiol oxidoreductase (disulfide-forming)	1.8.4.15	D-Alanine	Diphosphate	white
-protein dithiol oxidoreductase (disulfide-forming)	1.8.4.15	D-Alanine	G13186	white
-protein dithiol oxidoreductase (disulfide-forming)	1.8.4.15	Diphosphate	ATP	white
-protein dithiol oxidoreductase (disulfide-forming)	1.8.4.15	Diphosphate	D-Alanine	white
-protein dithiol oxidoreductase (disulfide-forming)	1.8.4.15	Diphosphate	G13185	white
-protein dithiol oxidoreductase (disulfide-forming)	1.8.4.15	G13185	AMP	white
-protein dithiol oxidoreductase (disulfide-forming)	1.8.4.15	G13185	Diphosphate	white
-protein dithiol oxidoreductase (disulfide-forming)	1.8.4.15	G13185	G13186	white
-protein dithiol oxidoreductase (disulfide-forming)	1.8.4.15	G13186	ATP	white
-protein dithiol oxidoreductase (disulfide-forming)	1.8.4.15	G13186	D-Alanine	white
-protein dithiol oxidoreductase (disulfide-forming)	1.8.4.15	G13186	G13185	white
-pseudolysin	3.4.24.26	AMP	ATP	white
-pseudolysin	3.4.24.26	AMP	D-Alanine	white
-pseudolysin	3.4.24.26	AMP	G13185	white
-pseudolysin	3.4.24.26	ATP	AMP	white
-pseudolysin	3.4.24.26	ATP	Diphosphate	white
-pseudolysin	3.4.24.26	ATP	G13186	white
-pseudolysin	3.4.24.26	D-Alanine	AMP	white
-pseudolysin	3.4.24.26	D-Alanine	Diphosphate	white
-pseudolysin	3.4.24.26	D-Alanine	G13186	white
-pseudolysin	3.4.24.26	Diphosphate	ATP	white
-pseudolysin	3.4.24.26	Diphosphate	D-Alanine	white
-pseudolysin	3.4.24.26	Diphosphate	G13185	white
-pseudolysin	3.4.24.26	G13185	AMP	white
-pseudolysin	3.4.24.26	G13185	Diphosphate	white
-pseudolysin	3.4.24.26	G13185	G13186	white
-pseudolysin	3.4.24.26	G13186	ATP	white
-pseudolysin	3.4.24.26	G13186	D-Alanine	white
-pseudolysin	3.4.24.26	G13186	G13185	white
-serralysin	3.4.24.40	AMP	ATP	white
-serralysin	3.4.24.40	AMP	D-Alanine	white
-serralysin	3.4.24.40	AMP	G13185	white
-serralysin	3.4.24.40	ATP	AMP	white
-serralysin	3.4.24.40	ATP	Diphosphate	white
-serralysin	3.4.24.40	ATP	G13186	white
-serralysin	3.4.24.40	D-Alanine	AMP	white
-serralysin	3.4.24.40	D-Alanine	Diphosphate	white
-serralysin	3.4.24.40	D-Alanine	G13186	white
-serralysin	3.4.24.40	Diphosphate	ATP	white
-serralysin	3.4.24.40	Diphosphate	D-Alanine	white
-serralysin	3.4.24.40	Diphosphate	G13185	white
-serralysin	3.4.24.40	G13185	AMP	white
-serralysin	3.4.24.40	G13185	Diphosphate	white
-serralysin	3.4.24.40	G13185	G13186	white
-serralysin	3.4.24.40	G13186	ATP	white
-serralysin	3.4.24.40	G13186	D-Alanine	white
-serralysin	3.4.24.40	G13186	G13185	white
-signal transduction protein PmrD	3.4.22.37	AMP	ATP	white
-signal transduction protein PmrD	3.4.22.37	AMP	D-Alanine	white
-signal transduction protein PmrD	3.4.22.37	AMP	G13185	white
-signal transduction protein PmrD	3.4.22.37	ATP	AMP	white
-signal transduction protein PmrD	3.4.22.37	ATP	Diphosphate	white
-signal transduction protein PmrD	3.4.22.37	ATP	G13186	white
-signal transduction protein PmrD	3.4.22.37	D-Alanine	AMP	white
-signal transduction protein PmrD	3.4.22.37	D-Alanine	Diphosphate	white
-signal transduction protein PmrD	3.4.22.37	D-Alanine	G13186	white
-signal transduction protein PmrD	3.4.22.37	Diphosphate	ATP	white
-signal transduction protein PmrD	3.4.22.37	Diphosphate	D-Alanine	white
-signal transduction protein PmrD	3.4.22.37	Diphosphate	G13185	white
-signal transduction protein PmrD	3.4.22.37	G13185	AMP	white
-signal transduction protein PmrD	3.4.22.37	G13185	Diphosphate	white
-signal transduction protein PmrD	3.4.22.37	G13185	G13186	white
-signal transduction protein PmrD	3.4.22.37	G13186	ATP	white
-signal transduction protein PmrD	3.4.22.37	G13186	D-Alanine	white
-signal transduction protein PmrD	3.4.22.37	G13186	G13185	white
-small regulatory RNA MgrR	3.4.22.37	AMP	ATP	white
-small regulatory RNA MgrR	3.4.22.37	AMP	D-Alanine	white
-small regulatory RNA MgrR	3.4.22.37	AMP	G13185	white
-small regulatory RNA MgrR	3.4.22.37	ATP	AMP	white
-small regulatory RNA MgrR	3.4.22.37	ATP	Diphosphate	white
-small regulatory RNA MgrR	3.4.22.37	ATP	G13186	white
-small regulatory RNA MgrR	3.4.22.37	D-Alanine	AMP	white
-small regulatory RNA MgrR	3.4.22.37	D-Alanine	Diphosphate	white
-small regulatory RNA MgrR	3.4.22.37	D-Alanine	G13186	white
-small regulatory RNA MgrR	3.4.22.37	Diphosphate	ATP	white
-small regulatory RNA MgrR	3.4.22.37	Diphosphate	D-Alanine	white
-small regulatory RNA MgrR	3.4.22.37	Diphosphate	G13185	white
-small regulatory RNA MgrR	3.4.22.37	G13185	AMP	white
-small regulatory RNA MgrR	3.4.22.37	G13185	Diphosphate	white
-small regulatory RNA MgrR	3.4.22.37	G13185	G13186	white
-small regulatory RNA MgrR	3.4.22.37	G13186	ATP	white
-small regulatory RNA MgrR	3.4.22.37	G13186	D-Alanine	white
-small regulatory RNA MgrR	3.4.22.37	G13186	G13185	white
-staphylokinase	3.4.21.-	AMP	ATP	white
-staphylokinase	3.4.21.-	AMP	D-Alanine	white
-staphylokinase	3.4.21.-	AMP	G13185	white
-staphylokinase	3.4.21.-	ATP	AMP	white
-staphylokinase	3.4.21.-	ATP	Diphosphate	white
-staphylokinase	3.4.21.-	ATP	G13186	white
-staphylokinase	3.4.21.-	D-Alanine	AMP	white
-staphylokinase	3.4.21.-	D-Alanine	Diphosphate	white
-staphylokinase	3.4.21.-	D-Alanine	G13186	white
-staphylokinase	3.4.21.-	Diphosphate	ATP	white
-staphylokinase	3.4.21.-	Diphosphate	D-Alanine	white
-staphylokinase	3.4.21.-	Diphosphate	G13185	white
-staphylokinase	3.4.21.-	G13185	AMP	white
-staphylokinase	3.4.21.-	G13185	Diphosphate	white
-staphylokinase	3.4.21.-	G13185	G13186	white
-staphylokinase	3.4.21.-	G13186	ATP	white
-staphylokinase	3.4.21.-	G13186	D-Alanine	white
-staphylokinase	3.4.21.-	G13186	G13185	white
-streptopain	3.4.22.10	AMP	ATP	white
-streptopain	3.4.22.10	AMP	D-Alanine	white
-streptopain	3.4.22.10	AMP	G13185	white
-streptopain	3.4.22.10	ATP	AMP	white
-streptopain	3.4.22.10	ATP	Diphosphate	white
-streptopain	3.4.22.10	ATP	G13186	white
-streptopain	3.4.22.10	D-Alanine	AMP	white
-streptopain	3.4.22.10	D-Alanine	Diphosphate	white
-streptopain	3.4.22.10	D-Alanine	G13186	white
-streptopain	3.4.22.10	Diphosphate	ATP	white
-streptopain	3.4.22.10	Diphosphate	D-Alanine	white
-streptopain	3.4.22.10	Diphosphate	G13185	white
-streptopain	3.4.22.10	G13185	AMP	white
-streptopain	3.4.22.10	G13185	Diphosphate	white
-streptopain	3.4.22.10	G13185	G13186	white
-streptopain	3.4.22.10	G13186	ATP	white
-streptopain	3.4.22.10	G13186	D-Alanine	white
-streptopain	3.4.22.10	G13186	G13185	white
-two-component system, OmpR family, response regulator BasR	2.7.13.3	(3R)-3-Hydroxytetradecanoyl-[acyl-carrier protein]	Acyl-carrier protein	white
-two-component system, OmpR family, response regulator BasR	2.7.13.3	(3R)-3-Hydroxytetradecanoyl-[acyl-carrier protein]	UDP-3-O-(3-hydroxytetradecanoyl)-N-acetylglucosamine	white
-two-component system, OmpR family, response regulator BasR	2.7.13.3	Acyl-carrier protein	(3R)-3-Hydroxytetradecanoyl-[acyl-carrier protein]	white
-two-component system, OmpR family, response regulator BasR	2.7.13.3	Acyl-carrier protein	UDP-N-acetyl-alpha-D-glucosamine	white
-two-component system, OmpR family, response regulator BasR	2.7.13.3	UDP-3-O-(3-hydroxytetradecanoyl)-N-acetylglucosamine	(3R)-3-Hydroxytetradecanoyl-[acyl-carrier protein]	white
-two-component system, OmpR family, response regulator BasR	2.7.13.3	UDP-3-O-(3-hydroxytetradecanoyl)-N-acetylglucosamine	UDP-N-acetyl-alpha-D-glucosamine	white
-two-component system, OmpR family, response regulator BasR	2.7.13.3	UDP-N-acetyl-alpha-D-glucosamine	Acyl-carrier protein	white
-two-component system, OmpR family, response regulator BasR	2.7.13.3	UDP-N-acetyl-alpha-D-glucosamine	UDP-3-O-(3-hydroxytetradecanoyl)-N-acetylglucosamine	white
-two-component system, OmpR family, response regulator CpxR	2.7.13.3	AMP	ATP	white
-two-component system, OmpR family, response regulator CpxR	2.7.13.3	AMP	D-Alanine	white
-two-component system, OmpR family, response regulator CpxR	2.7.13.3	AMP	G13185	white
-two-component system, OmpR family, response regulator CpxR	2.7.13.3	ATP	AMP	white
-two-component system, OmpR family, response regulator CpxR	2.7.13.3	ATP	Diphosphate	white
-two-component system, OmpR family, response regulator CpxR	2.7.13.3	ATP	G13186	white
-two-component system, OmpR family, response regulator CpxR	2.7.13.3	D-Alanine	AMP	white
-two-component system, OmpR family, response regulator CpxR	2.7.13.3	D-Alanine	Diphosphate	white
-two-component system, OmpR family, response regulator CpxR	2.7.13.3	D-Alanine	G13186	white
-two-component system, OmpR family, response regulator CpxR	2.7.13.3	Diphosphate	ATP	white
-two-component system, OmpR family, response regulator CpxR	2.7.13.3	Diphosphate	D-Alanine	white
-two-component system, OmpR family, response regulator CpxR	2.7.13.3	Diphosphate	G13185	white
-two-component system, OmpR family, response regulator CpxR	2.7.13.3	G13185	AMP	white
-two-component system, OmpR family, response regulator CpxR	2.7.13.3	G13185	Diphosphate	white
-two-component system, OmpR family, response regulator CpxR	2.7.13.3	G13185	G13186	white
-two-component system, OmpR family, response regulator CpxR	2.7.13.3	G13186	ATP	white
-two-component system, OmpR family, response regulator CpxR	2.7.13.3	G13186	D-Alanine	white
-two-component system, OmpR family, response regulator CpxR	2.7.13.3	G13186	G13185	white
-two-component system, OmpR family, response regulator ParR	7.6.2.2	H2O	Penicilloic acid	white
-two-component system, OmpR family, response regulator ParR	7.6.2.2	Penicillin	Penicilloic acid	white
-two-component system, OmpR family, response regulator ParR	7.6.2.2	Penicilloic acid	H2O	white
-two-component system, OmpR family, response regulator ParR	7.6.2.2	Penicilloic acid	Penicillin	white
-two-component system, OmpR family, response regulator PhoP	2.7.13.3	Diacylglycerol	KDO2-lipid A	white
-two-component system, OmpR family, response regulator PhoP	2.7.13.3	Diacylglycerol	Phosphatidylethanolamine	white
-two-component system, OmpR family, response regulator PhoP	2.7.13.3	KDO2-lipid A	Diacylglycerol	white
-two-component system, OmpR family, response regulator PhoP	2.7.13.3	KDO2-lipid A	KDO2-lipid A 1-(2-aminoethyl diphosphate)	white
-two-component system, OmpR family, response regulator PhoP	2.7.13.3	KDO2-lipid A 1-(2-aminoethyl diphosphate)	KDO2-lipid A	white
-two-component system, OmpR family, response regulator PhoP	2.7.13.3	KDO2-lipid A 1-(2-aminoethyl diphosphate)	Phosphatidylethanolamine	white
-two-component system, OmpR family, response regulator PhoP	2.7.13.3	Phosphatidylethanolamine	Diacylglycerol	white
-two-component system, OmpR family, response regulator PhoP	2.7.13.3	Phosphatidylethanolamine	KDO2-lipid A 1-(2-aminoethyl diphosphate)	white
-two-component system, OmpR family, response regulator protein GraR	2.7.13.3	2-Acyl-sn-glycero-3-phosphocholine	Hexa-acyl lipid A in lipopolysaccharide	white
-two-component system, OmpR family, response regulator protein GraR	2.7.13.3	2-Acyl-sn-glycero-3-phosphocholine	Palmitoylphosphatidylcholine	white
-two-component system, OmpR family, response regulator protein GraR	2.7.13.3	Hepta-acyl lipid A in lipopolysaccharide	Hexa-acyl lipid A in lipopolysaccharide	white
-two-component system, OmpR family, response regulator protein GraR	2.7.13.3	Hepta-acyl lipid A in lipopolysaccharide	Palmitoylphosphatidylcholine	white
-two-component system, OmpR family, response regulator protein GraR	2.7.13.3	Hexa-acyl lipid A in lipopolysaccharide	2-Acyl-sn-glycero-3-phosphocholine	white
-two-component system, OmpR family, response regulator protein GraR	2.7.13.3	Hexa-acyl lipid A in lipopolysaccharide	Hepta-acyl lipid A in lipopolysaccharide	white
-two-component system, OmpR family, response regulator protein GraR	2.7.13.3	Palmitoylphosphatidylcholine	2-Acyl-sn-glycero-3-phosphocholine	white
-two-component system, OmpR family, response regulator protein GraR	2.7.13.3	Palmitoylphosphatidylcholine	Hepta-acyl lipid A in lipopolysaccharide	white
-two-component system, OmpR family, sensor histidine kinase BasS	2.7.13.3	(3R)-3-Hydroxytetradecanoyl-[acyl-carrier protein]	Acyl-carrier protein	white
-two-component system, OmpR family, sensor histidine kinase BasS	2.7.13.3	(3R)-3-Hydroxytetradecanoyl-[acyl-carrier protein]	UDP-3-O-(3-hydroxytetradecanoyl)-N-acetylglucosamine	white
-two-component system, OmpR family, sensor histidine kinase BasS	2.7.13.3	Acyl-carrier protein	(3R)-3-Hydroxytetradecanoyl-[acyl-carrier protein]	white
-two-component system, OmpR family, sensor histidine kinase BasS	2.7.13.3	Acyl-carrier protein	UDP-N-acetyl-alpha-D-glucosamine	white
-two-component system, OmpR family, sensor histidine kinase BasS	2.7.13.3	UDP-3-O-(3-hydroxytetradecanoyl)-N-acetylglucosamine	(3R)-3-Hydroxytetradecanoyl-[acyl-carrier protein]	white
-two-component system, OmpR family, sensor histidine kinase BasS	2.7.13.3	UDP-3-O-(3-hydroxytetradecanoyl)-N-acetylglucosamine	UDP-N-acetyl-alpha-D-glucosamine	white
-two-component system, OmpR family, sensor histidine kinase BasS	2.7.13.3	UDP-N-acetyl-alpha-D-glucosamine	Acyl-carrier protein	white
-two-component system, OmpR family, sensor histidine kinase BasS	2.7.13.3	UDP-N-acetyl-alpha-D-glucosamine	UDP-3-O-(3-hydroxytetradecanoyl)-N-acetylglucosamine	white
-two-component system, OmpR family, sensor histidine kinase CpxA	2.7.13.3	AMP	ATP	white
-two-component system, OmpR family, sensor histidine kinase CpxA	2.7.13.3	AMP	D-Alanine	white
-two-component system, OmpR family, sensor histidine kinase CpxA	2.7.13.3	AMP	G13185	white
-two-component system, OmpR family, sensor histidine kinase CpxA	2.7.13.3	ATP	AMP	white
-two-component system, OmpR family, sensor histidine kinase CpxA	2.7.13.3	ATP	Diphosphate	white
-two-component system, OmpR family, sensor histidine kinase CpxA	2.7.13.3	ATP	G13186	white
-two-component system, OmpR family, sensor histidine kinase CpxA	2.7.13.3	D-Alanine	AMP	white
-two-component system, OmpR family, sensor histidine kinase CpxA	2.7.13.3	D-Alanine	Diphosphate	white
-two-component system, OmpR family, sensor histidine kinase CpxA	2.7.13.3	D-Alanine	G13186	white
-two-component system, OmpR family, sensor histidine kinase CpxA	2.7.13.3	Diphosphate	ATP	white
-two-component system, OmpR family, sensor histidine kinase CpxA	2.7.13.3	Diphosphate	D-Alanine	white
-two-component system, OmpR family, sensor histidine kinase CpxA	2.7.13.3	Diphosphate	G13185	white
-two-component system, OmpR family, sensor histidine kinase CpxA	2.7.13.3	G13185	AMP	white
-two-component system, OmpR family, sensor histidine kinase CpxA	2.7.13.3	G13185	Diphosphate	white
-two-component system, OmpR family, sensor histidine kinase CpxA	2.7.13.3	G13185	G13186	white
-two-component system, OmpR family, sensor histidine kinase CpxA	2.7.13.3	G13186	ATP	white
-two-component system, OmpR family, sensor histidine kinase CpxA	2.7.13.3	G13186	D-Alanine	white
-two-component system, OmpR family, sensor histidine kinase CpxA	2.7.13.3	G13186	G13185	white
-two-component system, OmpR family, sensor histidine kinase GraS	2.7.13.3	2-Acyl-sn-glycero-3-phosphocholine	Hexa-acyl lipid A in lipopolysaccharide	white
-two-component system, OmpR family, sensor histidine kinase GraS	2.7.13.3	2-Acyl-sn-glycero-3-phosphocholine	Palmitoylphosphatidylcholine	white
-two-component system, OmpR family, sensor histidine kinase GraS	2.7.13.3	Hepta-acyl lipid A in lipopolysaccharide	Hexa-acyl lipid A in lipopolysaccharide	white
-two-component system, OmpR family, sensor histidine kinase GraS	2.7.13.3	Hepta-acyl lipid A in lipopolysaccharide	Palmitoylphosphatidylcholine	white
-two-component system, OmpR family, sensor histidine kinase GraS	2.7.13.3	Hexa-acyl lipid A in lipopolysaccharide	2-Acyl-sn-glycero-3-phosphocholine	white
-two-component system, OmpR family, sensor histidine kinase GraS	2.7.13.3	Hexa-acyl lipid A in lipopolysaccharide	Hepta-acyl lipid A in lipopolysaccharide	white
-two-component system, OmpR family, sensor histidine kinase GraS	2.7.13.3	Palmitoylphosphatidylcholine	2-Acyl-sn-glycero-3-phosphocholine	white
-two-component system, OmpR family, sensor histidine kinase GraS	2.7.13.3	Palmitoylphosphatidylcholine	Hepta-acyl lipid A in lipopolysaccharide	white
-two-component system, OmpR family, sensor histidine kinase PhoQ	2.7.13.3	Diacylglycerol	KDO2-lipid A	white
-two-component system, OmpR family, sensor histidine kinase PhoQ	2.7.13.3	Diacylglycerol	Phosphatidylethanolamine	white
-two-component system, OmpR family, sensor histidine kinase PhoQ	2.7.13.3	KDO2-lipid A	Diacylglycerol	white
-two-component system, OmpR family, sensor histidine kinase PhoQ	2.7.13.3	KDO2-lipid A	KDO2-lipid A 1-(2-aminoethyl diphosphate)	white
-two-component system, OmpR family, sensor histidine kinase PhoQ	2.7.13.3	KDO2-lipid A 1-(2-aminoethyl diphosphate)	KDO2-lipid A	white
-two-component system, OmpR family, sensor histidine kinase PhoQ	2.7.13.3	KDO2-lipid A 1-(2-aminoethyl diphosphate)	Phosphatidylethanolamine	white
-two-component system, OmpR family, sensor histidine kinase PhoQ	2.7.13.3	Phosphatidylethanolamine	Diacylglycerol	white
-two-component system, OmpR family, sensor histidine kinase PhoQ	2.7.13.3	Phosphatidylethanolamine	KDO2-lipid A 1-(2-aminoethyl diphosphate)	white
-two-component system, OmpR family, sensor kinase ParS	2.7.13.3	H2O	Penicilloic acid	white
-two-component system, OmpR family, sensor kinase ParS	2.7.13.3	Penicillin	Penicilloic acid	white
-two-component system, OmpR family, sensor kinase ParS	2.7.13.3	Penicilloic acid	H2O	white
-two-component system, OmpR family, sensor kinase ParS	2.7.13.3	Penicilloic acid	Penicillin	white
-undecaprenyl phosphate-alpha-L-ara4FN deformylase	3.5.1.-	Formate	H2O	white
-undecaprenyl phosphate-alpha-L-ara4FN deformylase	3.5.1.-	Formate	Undecaprenyl phosphate alpha-L-Ara4FN	white
-undecaprenyl phosphate-alpha-L-ara4FN deformylase	3.5.1.-	H2O	Formate	white
-undecaprenyl phosphate-alpha-L-ara4FN deformylase	3.5.1.-	H2O	Undecaprenyl phosphate alpha-L-Ara4N	white
-undecaprenyl phosphate-alpha-L-ara4FN deformylase	3.5.1.-	Undecaprenyl phosphate alpha-L-Ara4FN	Formate	white
-undecaprenyl phosphate-alpha-L-ara4FN deformylase	3.5.1.-	Undecaprenyl phosphate alpha-L-Ara4FN	Undecaprenyl phosphate alpha-L-Ara4N	white
-undecaprenyl phosphate-alpha-L-ara4FN deformylase	3.5.1.-	Undecaprenyl phosphate alpha-L-Ara4N	H2O	white
-undecaprenyl phosphate-alpha-L-ara4FN deformylase	3.5.1.-	Undecaprenyl phosphate alpha-L-Ara4N	Undecaprenyl phosphate alpha-L-Ara4FN	white
-undecaprenyl phosphate-alpha-L-ara4N flippase subunit ArnE	3.5.1.-	Formate	H2O	white
-undecaprenyl phosphate-alpha-L-ara4N flippase subunit ArnE	3.5.1.-	Formate	Undecaprenyl phosphate alpha-L-Ara4FN	white
-undecaprenyl phosphate-alpha-L-ara4N flippase subunit ArnE	3.5.1.-	H2O	Formate	white
-undecaprenyl phosphate-alpha-L-ara4N flippase subunit ArnE	3.5.1.-	H2O	Undecaprenyl phosphate alpha-L-Ara4N	white
-undecaprenyl phosphate-alpha-L-ara4N flippase subunit ArnE	3.5.1.-	Undecaprenyl phosphate alpha-L-Ara4FN	Formate	white
-undecaprenyl phosphate-alpha-L-ara4N flippase subunit ArnE	3.5.1.-	Undecaprenyl phosphate alpha-L-Ara4FN	Undecaprenyl phosphate alpha-L-Ara4N	white
-undecaprenyl phosphate-alpha-L-ara4N flippase subunit ArnE	3.5.1.-	Undecaprenyl phosphate alpha-L-Ara4N	H2O	white
-undecaprenyl phosphate-alpha-L-ara4N flippase subunit ArnE	3.5.1.-	Undecaprenyl phosphate alpha-L-Ara4N	Undecaprenyl phosphate alpha-L-Ara4FN	white
-undecaprenyl phosphate-alpha-L-ara4N flippase subunit ArnF	3.5.1.-	Formate	H2O	white
-undecaprenyl phosphate-alpha-L-ara4N flippase subunit ArnF	3.5.1.-	Formate	Undecaprenyl phosphate alpha-L-Ara4FN	white
-undecaprenyl phosphate-alpha-L-ara4N flippase subunit ArnF	3.5.1.-	H2O	Formate	white
-undecaprenyl phosphate-alpha-L-ara4N flippase subunit ArnF	3.5.1.-	H2O	Undecaprenyl phosphate alpha-L-Ara4N	white
-undecaprenyl phosphate-alpha-L-ara4N flippase subunit ArnF	3.5.1.-	Undecaprenyl phosphate alpha-L-Ara4FN	Formate	white
-undecaprenyl phosphate-alpha-L-ara4N flippase subunit ArnF	3.5.1.-	Undecaprenyl phosphate alpha-L-Ara4FN	Undecaprenyl phosphate alpha-L-Ara4N	white
-undecaprenyl phosphate-alpha-L-ara4N flippase subunit ArnF	3.5.1.-	Undecaprenyl phosphate alpha-L-Ara4N	H2O	white
-undecaprenyl phosphate-alpha-L-ara4N flippase subunit ArnF	3.5.1.-	Undecaprenyl phosphate alpha-L-Ara4N	Undecaprenyl phosphate alpha-L-Ara4FN	white
-undecaprenyl-phosphate 4-deoxy-4-formamido-L-arabinose transferase	2.4.2.53	UDP	UDP-L-Ara4FN	white
-undecaprenyl-phosphate 4-deoxy-4-formamido-L-arabinose transferase	2.4.2.53	UDP	di-trans,poly-cis-Undecaprenyl phosphate	white
-undecaprenyl-phosphate 4-deoxy-4-formamido-L-arabinose transferase	2.4.2.53	UDP-L-Ara4FN	UDP	white
-undecaprenyl-phosphate 4-deoxy-4-formamido-L-arabinose transferase	2.4.2.53	UDP-L-Ara4FN	Undecaprenyl phosphate alpha-L-Ara4FN	white
-undecaprenyl-phosphate 4-deoxy-4-formamido-L-arabinose transferase	2.4.2.53	Undecaprenyl phosphate alpha-L-Ara4FN	UDP-L-Ara4FN	white
-undecaprenyl-phosphate 4-deoxy-4-formamido-L-arabinose transferase	2.4.2.53	Undecaprenyl phosphate alpha-L-Ara4FN	di-trans,poly-cis-Undecaprenyl phosphate	white
-undecaprenyl-phosphate 4-deoxy-4-formamido-L-arabinose transferase	2.4.2.53	di-trans,poly-cis-Undecaprenyl phosphate	UDP	white
-undecaprenyl-phosphate 4-deoxy-4-formamido-L-arabinose transferase	2.4.2.53	di-trans,poly-cis-Undecaprenyl phosphate	Undecaprenyl phosphate alpha-L-Ara4FN	white
+enzyme_name	EC	source	target	reaction	color
+4-amino-4-deoxy-L-arabinose transferase	2.4.2.43	2,3,2'3'-Tetrakis(3-hydroxytetradecanoyl)-D-glucosaminyl-1,6-beta-D-glucosamine 1,4'-bisphosphate	Lipid IIA	R09773	white
+4-amino-4-deoxy-L-arabinose transferase	2.4.2.43	2,3,2'3'-Tetrakis(3-hydroxytetradecanoyl)-D-glucosaminyl-1,6-beta-D-glucosamine 1,4'-bisphosphate	di-trans,poly-cis-Undecaprenyl phosphate	R09773	white
+4-amino-4-deoxy-L-arabinose transferase	2.4.2.43	Lipid IIA	2,3,2'3'-Tetrakis(3-hydroxytetradecanoyl)-D-glucosaminyl-1,6-beta-D-glucosamine 1,4'-bisphosphate	R09773	white
+4-amino-4-deoxy-L-arabinose transferase	2.4.2.43	Lipid IIA	Undecaprenyl phosphate alpha-L-Ara4N	R09773	white
+4-amino-4-deoxy-L-arabinose transferase	2.4.2.43	Undecaprenyl phosphate alpha-L-Ara4N	Lipid IIA	R09773	white
+4-amino-4-deoxy-L-arabinose transferase	2.4.2.43	Undecaprenyl phosphate alpha-L-Ara4N	di-trans,poly-cis-Undecaprenyl phosphate	R09773	white
+4-amino-4-deoxy-L-arabinose transferase	2.4.2.43	di-trans,poly-cis-Undecaprenyl phosphate	2,3,2'3'-Tetrakis(3-hydroxytetradecanoyl)-D-glucosaminyl-1,6-beta-D-glucosamine 1,4'-bisphosphate	R09773	white
+4-amino-4-deoxy-L-arabinose transferase	2.4.2.43	di-trans,poly-cis-Undecaprenyl phosphate	Undecaprenyl phosphate alpha-L-Ara4N	R09773	white
+AraC family transcriptional regulator, mar-sox-rob regulon activator	1.8.4.15	2-Acyl-sn-glycero-3-phosphocholine	Hexa-acyl lipid A in lipopolysaccharide	R11223	white
+AraC family transcriptional regulator, mar-sox-rob regulon activator	1.8.4.15	2-Acyl-sn-glycero-3-phosphocholine	Palmitoylphosphatidylcholine	R11223	white
+AraC family transcriptional regulator, mar-sox-rob regulon activator	1.8.4.15	Hepta-acyl lipid A in lipopolysaccharide	Hexa-acyl lipid A in lipopolysaccharide	R11223	white
+AraC family transcriptional regulator, mar-sox-rob regulon activator	1.8.4.15	Hepta-acyl lipid A in lipopolysaccharide	Palmitoylphosphatidylcholine	R11223	white
+AraC family transcriptional regulator, mar-sox-rob regulon activator	1.8.4.15	Hexa-acyl lipid A in lipopolysaccharide	2-Acyl-sn-glycero-3-phosphocholine	R11223	white
+AraC family transcriptional regulator, mar-sox-rob regulon activator	1.8.4.15	Hexa-acyl lipid A in lipopolysaccharide	Hepta-acyl lipid A in lipopolysaccharide	R11223	white
+AraC family transcriptional regulator, mar-sox-rob regulon activator	1.8.4.15	Palmitoylphosphatidylcholine	2-Acyl-sn-glycero-3-phosphocholine	R11223	white
+AraC family transcriptional regulator, mar-sox-rob regulon activator	1.8.4.15	Palmitoylphosphatidylcholine	Hepta-acyl lipid A in lipopolysaccharide	R11223	white
+D-alanine transfer protein	2.4.1.70	AMP	ATP	R12812	white
+D-alanine transfer protein	2.4.1.70	AMP	D-Alanine	R12812	white
+D-alanine transfer protein	2.4.1.70	AMP	G13185	R12812	white
+D-alanine transfer protein	2.4.1.70	ATP	AMP	R12812	white
+D-alanine transfer protein	2.4.1.70	ATP	Diphosphate	R12812	white
+D-alanine transfer protein	2.4.1.70	ATP	G13186	R12812	white
+D-alanine transfer protein	2.4.1.70	D-Alanine	AMP	R12812	white
+D-alanine transfer protein	2.4.1.70	D-Alanine	Diphosphate	R12812	white
+D-alanine transfer protein	2.4.1.70	D-Alanine	G13186	R12812	white
+D-alanine transfer protein	2.4.1.70	Diphosphate	ATP	R12812	white
+D-alanine transfer protein	2.4.1.70	Diphosphate	D-Alanine	R12812	white
+D-alanine transfer protein	2.4.1.70	Diphosphate	G13185	R12812	white
+D-alanine transfer protein	2.4.1.70	G13185	AMP	R12812	white
+D-alanine transfer protein	2.4.1.70	G13185	Diphosphate	R12812	white
+D-alanine transfer protein	2.4.1.70	G13185	G13186	R12812	white
+D-alanine transfer protein	2.4.1.70	G13186	ATP	R12812	white
+D-alanine transfer protein	2.4.1.70	G13186	D-Alanine	R12812	white
+D-alanine transfer protein	2.4.1.70	G13186	G13185	R12812	white
+D-alanine--poly(phosphoribitol) ligase subunit 1	6.1.1.13	AMP	ATP	R02718	white
+D-alanine--poly(phosphoribitol) ligase subunit 1	6.1.1.13	AMP	D-Alanine	R02718	white
+D-alanine--poly(phosphoribitol) ligase subunit 1	6.1.1.13	AMP	Poly(ribitol phosphate)	R02718	white
+D-alanine--poly(phosphoribitol) ligase subunit 1	6.1.1.13	ATP	AMP	R02718	white
+D-alanine--poly(phosphoribitol) ligase subunit 1	6.1.1.13	ATP	Diphosphate	R02718	white
+D-alanine--poly(phosphoribitol) ligase subunit 1	6.1.1.13	ATP	O-D-Alanyl-poly(ribitol phosphate)	R02718	white
+D-alanine--poly(phosphoribitol) ligase subunit 1	6.1.1.13	D-Alanine	AMP	R02718	white
+D-alanine--poly(phosphoribitol) ligase subunit 1	6.1.1.13	D-Alanine	Diphosphate	R02718	white
+D-alanine--poly(phosphoribitol) ligase subunit 1	6.1.1.13	D-Alanine	O-D-Alanyl-poly(ribitol phosphate)	R02718	white
+D-alanine--poly(phosphoribitol) ligase subunit 1	6.1.1.13	Diphosphate	ATP	R02718	white
+D-alanine--poly(phosphoribitol) ligase subunit 1	6.1.1.13	Diphosphate	D-Alanine	R02718	white
+D-alanine--poly(phosphoribitol) ligase subunit 1	6.1.1.13	Diphosphate	Poly(ribitol phosphate)	R02718	white
+D-alanine--poly(phosphoribitol) ligase subunit 1	6.1.1.13	O-D-Alanyl-poly(ribitol phosphate)	ATP	R02718	white
+D-alanine--poly(phosphoribitol) ligase subunit 1	6.1.1.13	O-D-Alanyl-poly(ribitol phosphate)	D-Alanine	R02718	white
+D-alanine--poly(phosphoribitol) ligase subunit 1	6.1.1.13	O-D-Alanyl-poly(ribitol phosphate)	Poly(ribitol phosphate)	R02718	white
+D-alanine--poly(phosphoribitol) ligase subunit 1	6.1.1.13	Poly(ribitol phosphate)	AMP	R02718	white
+D-alanine--poly(phosphoribitol) ligase subunit 1	6.1.1.13	Poly(ribitol phosphate)	Diphosphate	R02718	white
+D-alanine--poly(phosphoribitol) ligase subunit 1	6.1.1.13	Poly(ribitol phosphate)	O-D-Alanyl-poly(ribitol phosphate)	R02718	white
+D-alanine--poly(phosphoribitol) ligase subunit 2	6.1.1.13	AMP	ATP	R02718	white
+D-alanine--poly(phosphoribitol) ligase subunit 2	6.1.1.13	AMP	D-Alanine	R02718	white
+D-alanine--poly(phosphoribitol) ligase subunit 2	6.1.1.13	AMP	Poly(ribitol phosphate)	R02718	white
+D-alanine--poly(phosphoribitol) ligase subunit 2	6.1.1.13	ATP	AMP	R02718	white
+D-alanine--poly(phosphoribitol) ligase subunit 2	6.1.1.13	ATP	Diphosphate	R02718	white
+D-alanine--poly(phosphoribitol) ligase subunit 2	6.1.1.13	ATP	O-D-Alanyl-poly(ribitol phosphate)	R02718	white
+D-alanine--poly(phosphoribitol) ligase subunit 2	6.1.1.13	D-Alanine	AMP	R02718	white
+D-alanine--poly(phosphoribitol) ligase subunit 2	6.1.1.13	D-Alanine	Diphosphate	R02718	white
+D-alanine--poly(phosphoribitol) ligase subunit 2	6.1.1.13	D-Alanine	O-D-Alanyl-poly(ribitol phosphate)	R02718	white
+D-alanine--poly(phosphoribitol) ligase subunit 2	6.1.1.13	Diphosphate	ATP	R02718	white
+D-alanine--poly(phosphoribitol) ligase subunit 2	6.1.1.13	Diphosphate	D-Alanine	R02718	white
+D-alanine--poly(phosphoribitol) ligase subunit 2	6.1.1.13	Diphosphate	Poly(ribitol phosphate)	R02718	white
+D-alanine--poly(phosphoribitol) ligase subunit 2	6.1.1.13	O-D-Alanyl-poly(ribitol phosphate)	ATP	R02718	white
+D-alanine--poly(phosphoribitol) ligase subunit 2	6.1.1.13	O-D-Alanyl-poly(ribitol phosphate)	D-Alanine	R02718	white
+D-alanine--poly(phosphoribitol) ligase subunit 2	6.1.1.13	O-D-Alanyl-poly(ribitol phosphate)	Poly(ribitol phosphate)	R02718	white
+D-alanine--poly(phosphoribitol) ligase subunit 2	6.1.1.13	Poly(ribitol phosphate)	AMP	R02718	white
+D-alanine--poly(phosphoribitol) ligase subunit 2	6.1.1.13	Poly(ribitol phosphate)	Diphosphate	R02718	white
+D-alanine--poly(phosphoribitol) ligase subunit 2	6.1.1.13	Poly(ribitol phosphate)	O-D-Alanyl-poly(ribitol phosphate)	R02718	white
+KDO II ethanolaminephosphotransferase	2.7.8.42	1,2-Diacyl-sn-glycerol	KDO2-lipid A	R11204	white
+KDO II ethanolaminephosphotransferase	2.7.8.42	1,2-Diacyl-sn-glycerol	Phosphatidylethanolamine	R11204	white
+KDO II ethanolaminephosphotransferase	2.7.8.42	KDO2-lipid A	1,2-Diacyl-sn-glycerol	R11204	white
+KDO II ethanolaminephosphotransferase	2.7.8.42	KDO2-lipid A	PEtN-KDO2-lipid A	R11204	white
+KDO II ethanolaminephosphotransferase	2.7.8.42	PEtN-KDO2-lipid A	KDO2-lipid A	R11204	white
+KDO II ethanolaminephosphotransferase	2.7.8.42	PEtN-KDO2-lipid A	Phosphatidylethanolamine	R11204	white
+KDO II ethanolaminephosphotransferase	2.7.8.42	Phosphatidylethanolamine	1,2-Diacyl-sn-glycerol	R11204	white
+KDO II ethanolaminephosphotransferase	2.7.8.42	Phosphatidylethanolamine	PEtN-KDO2-lipid A	R11204	white
+L,D-transpeptidase YcfS	1.8.4.15	2-Acyl-sn-glycero-3-phosphocholine	Hexa-acyl lipid A in lipopolysaccharide	R11223	white
+L,D-transpeptidase YcfS	1.8.4.15	2-Acyl-sn-glycero-3-phosphocholine	Palmitoylphosphatidylcholine	R11223	white
+L,D-transpeptidase YcfS	1.8.4.15	Hepta-acyl lipid A in lipopolysaccharide	Hexa-acyl lipid A in lipopolysaccharide	R11223	white
+L,D-transpeptidase YcfS	1.8.4.15	Hepta-acyl lipid A in lipopolysaccharide	Palmitoylphosphatidylcholine	R11223	white
+L,D-transpeptidase YcfS	1.8.4.15	Hexa-acyl lipid A in lipopolysaccharide	2-Acyl-sn-glycero-3-phosphocholine	R11223	white
+L,D-transpeptidase YcfS	1.8.4.15	Hexa-acyl lipid A in lipopolysaccharide	Hepta-acyl lipid A in lipopolysaccharide	R11223	white
+L,D-transpeptidase YcfS	1.8.4.15	Palmitoylphosphatidylcholine	2-Acyl-sn-glycero-3-phosphocholine	R11223	white
+L,D-transpeptidase YcfS	1.8.4.15	Palmitoylphosphatidylcholine	Hepta-acyl lipid A in lipopolysaccharide	R11223	white
+UDP-4-amino-4-deoxy-L-arabinose formyltransferase / UDP-glucuronic acid dehydrogenase (UDP-4-keto-hexauronic acid decarboxylating)	2.1.2.13	CO2	NAD+	R07658	white
+UDP-4-amino-4-deoxy-L-arabinose formyltransferase / UDP-glucuronic acid dehydrogenase (UDP-4-keto-hexauronic acid decarboxylating)	2.1.2.13	CO2	UDP-glucuronate	R07658	white
+UDP-4-amino-4-deoxy-L-arabinose formyltransferase / UDP-glucuronic acid dehydrogenase (UDP-4-keto-hexauronic acid decarboxylating)	2.1.2.13	H+	NAD+	R07658	white
+UDP-4-amino-4-deoxy-L-arabinose formyltransferase / UDP-glucuronic acid dehydrogenase (UDP-4-keto-hexauronic acid decarboxylating)	2.1.2.13	H+	UDP-glucuronate	R07658	white
+UDP-4-amino-4-deoxy-L-arabinose formyltransferase / UDP-glucuronic acid dehydrogenase (UDP-4-keto-hexauronic acid decarboxylating)	2.1.2.13	NAD+	CO2	R07658	white
+UDP-4-amino-4-deoxy-L-arabinose formyltransferase / UDP-glucuronic acid dehydrogenase (UDP-4-keto-hexauronic acid decarboxylating)	2.1.2.13	NAD+	H+	R07658	white
+UDP-4-amino-4-deoxy-L-arabinose formyltransferase / UDP-glucuronic acid dehydrogenase (UDP-4-keto-hexauronic acid decarboxylating)	2.1.2.13	NAD+	NADH	R07658	white
+UDP-4-amino-4-deoxy-L-arabinose formyltransferase / UDP-glucuronic acid dehydrogenase (UDP-4-keto-hexauronic acid decarboxylating)	2.1.2.13	NAD+	UDP-L-Ara4O	R07658	white
+UDP-4-amino-4-deoxy-L-arabinose formyltransferase / UDP-glucuronic acid dehydrogenase (UDP-4-keto-hexauronic acid decarboxylating)	2.1.2.13	NADH	NAD+	R07658	white
+UDP-4-amino-4-deoxy-L-arabinose formyltransferase / UDP-glucuronic acid dehydrogenase (UDP-4-keto-hexauronic acid decarboxylating)	2.1.2.13	NADH	UDP-glucuronate	R07658	white
+UDP-4-amino-4-deoxy-L-arabinose formyltransferase / UDP-glucuronic acid dehydrogenase (UDP-4-keto-hexauronic acid decarboxylating)	2.1.2.13	UDP-L-Ara4O	NAD+	R07658	white
+UDP-4-amino-4-deoxy-L-arabinose formyltransferase / UDP-glucuronic acid dehydrogenase (UDP-4-keto-hexauronic acid decarboxylating)	2.1.2.13	UDP-L-Ara4O	UDP-glucuronate	R07658	white
+UDP-4-amino-4-deoxy-L-arabinose formyltransferase / UDP-glucuronic acid dehydrogenase (UDP-4-keto-hexauronic acid decarboxylating)	2.1.2.13	UDP-glucuronate	CO2	R07658	white
+UDP-4-amino-4-deoxy-L-arabinose formyltransferase / UDP-glucuronic acid dehydrogenase (UDP-4-keto-hexauronic acid decarboxylating)	2.1.2.13	UDP-glucuronate	H+	R07658	white
+UDP-4-amino-4-deoxy-L-arabinose formyltransferase / UDP-glucuronic acid dehydrogenase (UDP-4-keto-hexauronic acid decarboxylating)	2.1.2.13	UDP-glucuronate	NADH	R07658	white
+UDP-4-amino-4-deoxy-L-arabinose formyltransferase / UDP-glucuronic acid dehydrogenase (UDP-4-keto-hexauronic acid decarboxylating)	2.1.2.13	UDP-glucuronate	UDP-L-Ara4O	R07658	white
+UDP-4-amino-4-deoxy-L-arabinose-oxoglutarate aminotransferase	1.1.1.426	UDP-2-acetamido-4-amino-2,4,6-trideoxy-D-galactose	UDP-2-acetamido-4-dehydro-2,6-dideoxyglucose	R13087	white
+UDP-4-amino-4-deoxy-L-arabinose-oxoglutarate aminotransferase	1.1.1.426	UDP-2-acetamido-4-dehydro-2,6-dideoxyglucose	UDP-2-acetamido-4-amino-2,4,6-trideoxy-D-galactose	R13087	white
+aureolysin	3.4.24.29	2-Acyl-sn-glycero-3-phosphocholine	Hexa-acyl lipid A in lipopolysaccharide	R11223	white
+aureolysin	3.4.24.29	2-Acyl-sn-glycero-3-phosphocholine	Palmitoylphosphatidylcholine	R11223	white
+aureolysin	3.4.24.29	Hepta-acyl lipid A in lipopolysaccharide	Hexa-acyl lipid A in lipopolysaccharide	R11223	white
+aureolysin	3.4.24.29	Hepta-acyl lipid A in lipopolysaccharide	Palmitoylphosphatidylcholine	R11223	white
+aureolysin	3.4.24.29	Hexa-acyl lipid A in lipopolysaccharide	2-Acyl-sn-glycero-3-phosphocholine	R11223	white
+aureolysin	3.4.24.29	Hexa-acyl lipid A in lipopolysaccharide	Hepta-acyl lipid A in lipopolysaccharide	R11223	white
+aureolysin	3.4.24.29	Palmitoylphosphatidylcholine	2-Acyl-sn-glycero-3-phosphocholine	R11223	white
+aureolysin	3.4.24.29	Palmitoylphosphatidylcholine	Hepta-acyl lipid A in lipopolysaccharide	R11223	white
+cationic antimicrobial peptide transport system ATP-binding protein	2.7.13.3	2-Acyl-sn-glycero-3-phosphocholine	Hexa-acyl lipid A in lipopolysaccharide	R11223	white
+cationic antimicrobial peptide transport system ATP-binding protein	2.7.13.3	2-Acyl-sn-glycero-3-phosphocholine	Palmitoylphosphatidylcholine	R11223	white
+cationic antimicrobial peptide transport system ATP-binding protein	2.7.13.3	Hepta-acyl lipid A in lipopolysaccharide	Hexa-acyl lipid A in lipopolysaccharide	R11223	white
+cationic antimicrobial peptide transport system ATP-binding protein	2.7.13.3	Hepta-acyl lipid A in lipopolysaccharide	Palmitoylphosphatidylcholine	R11223	white
+cationic antimicrobial peptide transport system ATP-binding protein	2.7.13.3	Hexa-acyl lipid A in lipopolysaccharide	2-Acyl-sn-glycero-3-phosphocholine	R11223	white
+cationic antimicrobial peptide transport system ATP-binding protein	2.7.13.3	Hexa-acyl lipid A in lipopolysaccharide	Hepta-acyl lipid A in lipopolysaccharide	R11223	white
+cationic antimicrobial peptide transport system ATP-binding protein	2.7.13.3	Palmitoylphosphatidylcholine	2-Acyl-sn-glycero-3-phosphocholine	R11223	white
+cationic antimicrobial peptide transport system ATP-binding protein	2.7.13.3	Palmitoylphosphatidylcholine	Hepta-acyl lipid A in lipopolysaccharide	R11223	white
+cationic antimicrobial peptide transport system permease protein	2.7.13.3	2-Acyl-sn-glycero-3-phosphocholine	Hexa-acyl lipid A in lipopolysaccharide	R11223	white
+cationic antimicrobial peptide transport system permease protein	2.7.13.3	2-Acyl-sn-glycero-3-phosphocholine	Palmitoylphosphatidylcholine	R11223	white
+cationic antimicrobial peptide transport system permease protein	2.7.13.3	Hepta-acyl lipid A in lipopolysaccharide	Hexa-acyl lipid A in lipopolysaccharide	R11223	white
+cationic antimicrobial peptide transport system permease protein	2.7.13.3	Hepta-acyl lipid A in lipopolysaccharide	Palmitoylphosphatidylcholine	R11223	white
+cationic antimicrobial peptide transport system permease protein	2.7.13.3	Hexa-acyl lipid A in lipopolysaccharide	2-Acyl-sn-glycero-3-phosphocholine	R11223	white
+cationic antimicrobial peptide transport system permease protein	2.7.13.3	Hexa-acyl lipid A in lipopolysaccharide	Hepta-acyl lipid A in lipopolysaccharide	R11223	white
+cationic antimicrobial peptide transport system permease protein	2.7.13.3	Palmitoylphosphatidylcholine	2-Acyl-sn-glycero-3-phosphocholine	R11223	white
+cationic antimicrobial peptide transport system permease protein	2.7.13.3	Palmitoylphosphatidylcholine	Hepta-acyl lipid A in lipopolysaccharide	R11223	white
+cationic peptide transport system ATP-binding protein	1.8.4.15	2-Acyl-sn-glycero-3-phosphocholine	Hexa-acyl lipid A in lipopolysaccharide	R11223	white
+cationic peptide transport system ATP-binding protein	1.8.4.15	2-Acyl-sn-glycero-3-phosphocholine	Palmitoylphosphatidylcholine	R11223	white
+cationic peptide transport system ATP-binding protein	1.8.4.15	Hepta-acyl lipid A in lipopolysaccharide	Hexa-acyl lipid A in lipopolysaccharide	R11223	white
+cationic peptide transport system ATP-binding protein	1.8.4.15	Hepta-acyl lipid A in lipopolysaccharide	Palmitoylphosphatidylcholine	R11223	white
+cationic peptide transport system ATP-binding protein	1.8.4.15	Hexa-acyl lipid A in lipopolysaccharide	2-Acyl-sn-glycero-3-phosphocholine	R11223	white
+cationic peptide transport system ATP-binding protein	1.8.4.15	Hexa-acyl lipid A in lipopolysaccharide	Hepta-acyl lipid A in lipopolysaccharide	R11223	white
+cationic peptide transport system ATP-binding protein	1.8.4.15	Palmitoylphosphatidylcholine	2-Acyl-sn-glycero-3-phosphocholine	R11223	white
+cationic peptide transport system ATP-binding protein	1.8.4.15	Palmitoylphosphatidylcholine	Hepta-acyl lipid A in lipopolysaccharide	R11223	white
+cationic peptide transport system permease protein	1.8.4.15	2-Acyl-sn-glycero-3-phosphocholine	Hexa-acyl lipid A in lipopolysaccharide	R11223	white
+cationic peptide transport system permease protein	1.8.4.15	2-Acyl-sn-glycero-3-phosphocholine	Palmitoylphosphatidylcholine	R11223	white
+cationic peptide transport system permease protein	1.8.4.15	Hepta-acyl lipid A in lipopolysaccharide	Hexa-acyl lipid A in lipopolysaccharide	R11223	white
+cationic peptide transport system permease protein	1.8.4.15	Hepta-acyl lipid A in lipopolysaccharide	Palmitoylphosphatidylcholine	R11223	white
+cationic peptide transport system permease protein	1.8.4.15	Hexa-acyl lipid A in lipopolysaccharide	2-Acyl-sn-glycero-3-phosphocholine	R11223	white
+cationic peptide transport system permease protein	1.8.4.15	Hexa-acyl lipid A in lipopolysaccharide	Hepta-acyl lipid A in lipopolysaccharide	R11223	white
+cationic peptide transport system permease protein	1.8.4.15	Palmitoylphosphatidylcholine	2-Acyl-sn-glycero-3-phosphocholine	R11223	white
+cationic peptide transport system permease protein	1.8.4.15	Palmitoylphosphatidylcholine	Hepta-acyl lipid A in lipopolysaccharide	R11223	white
+cationic peptide transport system substrate-binding protein	1.8.4.15	2-Acyl-sn-glycero-3-phosphocholine	Hexa-acyl lipid A in lipopolysaccharide	R11223	white
+cationic peptide transport system substrate-binding protein	1.8.4.15	2-Acyl-sn-glycero-3-phosphocholine	Palmitoylphosphatidylcholine	R11223	white
+cationic peptide transport system substrate-binding protein	1.8.4.15	Hepta-acyl lipid A in lipopolysaccharide	Hexa-acyl lipid A in lipopolysaccharide	R11223	white
+cationic peptide transport system substrate-binding protein	1.8.4.15	Hepta-acyl lipid A in lipopolysaccharide	Palmitoylphosphatidylcholine	R11223	white
+cationic peptide transport system substrate-binding protein	1.8.4.15	Hexa-acyl lipid A in lipopolysaccharide	2-Acyl-sn-glycero-3-phosphocholine	R11223	white
+cationic peptide transport system substrate-binding protein	1.8.4.15	Hexa-acyl lipid A in lipopolysaccharide	Hepta-acyl lipid A in lipopolysaccharide	R11223	white
+cationic peptide transport system substrate-binding protein	1.8.4.15	Palmitoylphosphatidylcholine	2-Acyl-sn-glycero-3-phosphocholine	R11223	white
+cationic peptide transport system substrate-binding protein	1.8.4.15	Palmitoylphosphatidylcholine	Hepta-acyl lipid A in lipopolysaccharide	R11223	white
+copper homeostasis protein (lipoprotein)	2.3.2.3	2-Acyl-sn-glycero-3-phosphocholine	Hexa-acyl lipid A in lipopolysaccharide	R11223	white
+copper homeostasis protein (lipoprotein)	2.3.2.3	2-Acyl-sn-glycero-3-phosphocholine	Palmitoylphosphatidylcholine	R11223	white
+copper homeostasis protein (lipoprotein)	2.3.2.3	Hepta-acyl lipid A in lipopolysaccharide	Hexa-acyl lipid A in lipopolysaccharide	R11223	white
+copper homeostasis protein (lipoprotein)	2.3.2.3	Hepta-acyl lipid A in lipopolysaccharide	Palmitoylphosphatidylcholine	R11223	white
+copper homeostasis protein (lipoprotein)	2.3.2.3	Hexa-acyl lipid A in lipopolysaccharide	2-Acyl-sn-glycero-3-phosphocholine	R11223	white
+copper homeostasis protein (lipoprotein)	2.3.2.3	Hexa-acyl lipid A in lipopolysaccharide	Hepta-acyl lipid A in lipopolysaccharide	R11223	white
+copper homeostasis protein (lipoprotein)	2.3.2.3	Palmitoylphosphatidylcholine	2-Acyl-sn-glycero-3-phosphocholine	R11223	white
+copper homeostasis protein (lipoprotein)	2.3.2.3	Palmitoylphosphatidylcholine	Hepta-acyl lipid A in lipopolysaccharide	R11223	white
+gingipain R	3.4.22.37	2-Acyl-sn-glycero-3-phosphocholine	Hexa-acyl lipid A in lipopolysaccharide	R11223	white
+gingipain R	3.4.22.37	2-Acyl-sn-glycero-3-phosphocholine	Palmitoylphosphatidylcholine	R11223	white
+gingipain R	3.4.22.37	Hepta-acyl lipid A in lipopolysaccharide	Hexa-acyl lipid A in lipopolysaccharide	R11223	white
+gingipain R	3.4.22.37	Hepta-acyl lipid A in lipopolysaccharide	Palmitoylphosphatidylcholine	R11223	white
+gingipain R	3.4.22.37	Hexa-acyl lipid A in lipopolysaccharide	2-Acyl-sn-glycero-3-phosphocholine	R11223	white
+gingipain R	3.4.22.37	Hexa-acyl lipid A in lipopolysaccharide	Hepta-acyl lipid A in lipopolysaccharide	R11223	white
+gingipain R	3.4.22.37	Palmitoylphosphatidylcholine	2-Acyl-sn-glycero-3-phosphocholine	R11223	white
+gingipain R	3.4.22.37	Palmitoylphosphatidylcholine	Hepta-acyl lipid A in lipopolysaccharide	R11223	white
+inhibitor of complement-mediated lysis	3.4.21.-	2-Acyl-sn-glycero-3-phosphocholine	Hexa-acyl lipid A in lipopolysaccharide	R11223	white
+inhibitor of complement-mediated lysis	3.4.21.-	2-Acyl-sn-glycero-3-phosphocholine	Palmitoylphosphatidylcholine	R11223	white
+inhibitor of complement-mediated lysis	3.4.21.-	Hepta-acyl lipid A in lipopolysaccharide	Hexa-acyl lipid A in lipopolysaccharide	R11223	white
+inhibitor of complement-mediated lysis	3.4.21.-	Hepta-acyl lipid A in lipopolysaccharide	Palmitoylphosphatidylcholine	R11223	white
+inhibitor of complement-mediated lysis	3.4.21.-	Hexa-acyl lipid A in lipopolysaccharide	2-Acyl-sn-glycero-3-phosphocholine	R11223	white
+inhibitor of complement-mediated lysis	3.4.21.-	Hexa-acyl lipid A in lipopolysaccharide	Hepta-acyl lipid A in lipopolysaccharide	R11223	white
+inhibitor of complement-mediated lysis	3.4.21.-	Palmitoylphosphatidylcholine	2-Acyl-sn-glycero-3-phosphocholine	R11223	white
+inhibitor of complement-mediated lysis	3.4.21.-	Palmitoylphosphatidylcholine	Hepta-acyl lipid A in lipopolysaccharide	R11223	white
+lipid A ethanolaminephosphotransferase	2.7.8.43	Diacylglycerol	KDO2-lipid A	R11555	white
+lipid A ethanolaminephosphotransferase	2.7.8.43	Diacylglycerol	Phosphatidylethanolamine	R11555	white
+lipid A ethanolaminephosphotransferase	2.7.8.43	KDO2-lipid A	Diacylglycerol	R11555	white
+lipid A ethanolaminephosphotransferase	2.7.8.43	KDO2-lipid A	KDO2-lipid A 1-(2-aminoethyl diphosphate)	R11555	white
+lipid A ethanolaminephosphotransferase	2.7.8.43	KDO2-lipid A 1-(2-aminoethyl diphosphate)	KDO2-lipid A	R11555	white
+lipid A ethanolaminephosphotransferase	2.7.8.43	KDO2-lipid A 1-(2-aminoethyl diphosphate)	Phosphatidylethanolamine	R11555	white
+lipid A ethanolaminephosphotransferase	2.7.8.43	Phosphatidylethanolamine	Diacylglycerol	R11555	white
+lipid A ethanolaminephosphotransferase	2.7.8.43	Phosphatidylethanolamine	KDO2-lipid A 1-(2-aminoethyl diphosphate)	R11555	white
+lipid IVA palmitoyltransferase	2.3.1.251	2-Acyl-sn-glycero-3-phosphocholine	Hexa-acyl lipid A in lipopolysaccharide	R11223	white
+lipid IVA palmitoyltransferase	2.3.1.251	2-Acyl-sn-glycero-3-phosphocholine	Palmitoylphosphatidylcholine	R11223	white
+lipid IVA palmitoyltransferase	2.3.1.251	Hepta-acyl lipid A in lipopolysaccharide	Hexa-acyl lipid A in lipopolysaccharide	R11223	white
+lipid IVA palmitoyltransferase	2.3.1.251	Hepta-acyl lipid A in lipopolysaccharide	Palmitoylphosphatidylcholine	R11223	white
+lipid IVA palmitoyltransferase	2.3.1.251	Hexa-acyl lipid A in lipopolysaccharide	2-Acyl-sn-glycero-3-phosphocholine	R11223	white
+lipid IVA palmitoyltransferase	2.3.1.251	Hexa-acyl lipid A in lipopolysaccharide	Hepta-acyl lipid A in lipopolysaccharide	R11223	white
+lipid IVA palmitoyltransferase	2.3.1.251	Palmitoylphosphatidylcholine	2-Acyl-sn-glycero-3-phosphocholine	R11223	white
+lipid IVA palmitoyltransferase	2.3.1.251	Palmitoylphosphatidylcholine	Hepta-acyl lipid A in lipopolysaccharide	R11223	white
+membrane fusion protein, multidrug efflux system	3.5.2.6	H2O	Penicilloic acid	R06363	white
+membrane fusion protein, multidrug efflux system	3.5.2.6	Penicillin	Penicilloic acid	R06363	white
+membrane fusion protein, multidrug efflux system	3.5.2.6	Penicilloic acid	H2O	R06363	white
+membrane fusion protein, multidrug efflux system	3.5.2.6	Penicilloic acid	Penicillin	R06363	white
+membrane protein involved in D-alanine export	2.4.1.70	AMP	ATP	R12812	white
+membrane protein involved in D-alanine export	2.4.1.70	AMP	D-Alanine	R12812	white
+membrane protein involved in D-alanine export	2.4.1.70	AMP	G13185	R12812	white
+membrane protein involved in D-alanine export	2.4.1.70	ATP	AMP	R12812	white
+membrane protein involved in D-alanine export	2.4.1.70	ATP	Diphosphate	R12812	white
+membrane protein involved in D-alanine export	2.4.1.70	ATP	G13186	R12812	white
+membrane protein involved in D-alanine export	2.4.1.70	D-Alanine	AMP	R12812	white
+membrane protein involved in D-alanine export	2.4.1.70	D-Alanine	Diphosphate	R12812	white
+membrane protein involved in D-alanine export	2.4.1.70	D-Alanine	G13186	R12812	white
+membrane protein involved in D-alanine export	2.4.1.70	Diphosphate	ATP	R12812	white
+membrane protein involved in D-alanine export	2.4.1.70	Diphosphate	D-Alanine	R12812	white
+membrane protein involved in D-alanine export	2.4.1.70	Diphosphate	G13185	R12812	white
+membrane protein involved in D-alanine export	2.4.1.70	G13185	AMP	R12812	white
+membrane protein involved in D-alanine export	2.4.1.70	G13185	Diphosphate	R12812	white
+membrane protein involved in D-alanine export	2.4.1.70	G13185	G13186	R12812	white
+membrane protein involved in D-alanine export	2.4.1.70	G13186	ATP	R12812	white
+membrane protein involved in D-alanine export	2.4.1.70	G13186	D-Alanine	R12812	white
+membrane protein involved in D-alanine export	2.4.1.70	G13186	G13185	R12812	white
+multidrug efflux pump	3.5.2.6	H2O	Penicilloic acid	R06363	white
+multidrug efflux pump	3.5.2.6	Penicillin	Penicilloic acid	R06363	white
+multidrug efflux pump	3.5.2.6	Penicilloic acid	H2O	R06363	white
+multidrug efflux pump	3.5.2.6	Penicilloic acid	Penicillin	R06363	white
+outer membrane protease E	3.4.21.-	2-Acyl-sn-glycero-3-phosphocholine	Hexa-acyl lipid A in lipopolysaccharide	R11223	white
+outer membrane protease E	3.4.21.-	2-Acyl-sn-glycero-3-phosphocholine	Palmitoylphosphatidylcholine	R11223	white
+outer membrane protease E	3.4.21.-	Hepta-acyl lipid A in lipopolysaccharide	Hexa-acyl lipid A in lipopolysaccharide	R11223	white
+outer membrane protease E	3.4.21.-	Hepta-acyl lipid A in lipopolysaccharide	Palmitoylphosphatidylcholine	R11223	white
+outer membrane protease E	3.4.21.-	Hexa-acyl lipid A in lipopolysaccharide	2-Acyl-sn-glycero-3-phosphocholine	R11223	white
+outer membrane protease E	3.4.21.-	Hexa-acyl lipid A in lipopolysaccharide	Hepta-acyl lipid A in lipopolysaccharide	R11223	white
+outer membrane protease E	3.4.21.-	Palmitoylphosphatidylcholine	2-Acyl-sn-glycero-3-phosphocholine	R11223	white
+outer membrane protease E	3.4.21.-	Palmitoylphosphatidylcholine	Hepta-acyl lipid A in lipopolysaccharide	R11223	white
+outer membrane protein	3.4.16.4	H2O	Penicilloic acid	R06363	white
+outer membrane protein	3.4.16.4	Penicillin	Penicilloic acid	R06363	white
+outer membrane protein	3.4.16.4	Penicilloic acid	H2O	R06363	white
+outer membrane protein	3.4.16.4	Penicilloic acid	Penicillin	R06363	white
+phosphatidylglycerol lysyltransferase	2.3.2.3	2-Acyl-sn-glycero-3-phosphocholine	Hexa-acyl lipid A in lipopolysaccharide	R11223	white
+phosphatidylglycerol lysyltransferase	2.3.2.3	2-Acyl-sn-glycero-3-phosphocholine	Palmitoylphosphatidylcholine	R11223	white
+phosphatidylglycerol lysyltransferase	2.3.2.3	Hepta-acyl lipid A in lipopolysaccharide	Hexa-acyl lipid A in lipopolysaccharide	R11223	white
+phosphatidylglycerol lysyltransferase	2.3.2.3	Hepta-acyl lipid A in lipopolysaccharide	Palmitoylphosphatidylcholine	R11223	white
+phosphatidylglycerol lysyltransferase	2.3.2.3	Hexa-acyl lipid A in lipopolysaccharide	2-Acyl-sn-glycero-3-phosphocholine	R11223	white
+phosphatidylglycerol lysyltransferase	2.3.2.3	Hexa-acyl lipid A in lipopolysaccharide	Hepta-acyl lipid A in lipopolysaccharide	R11223	white
+phosphatidylglycerol lysyltransferase	2.3.2.3	Palmitoylphosphatidylcholine	2-Acyl-sn-glycero-3-phosphocholine	R11223	white
+phosphatidylglycerol lysyltransferase	2.3.2.3	Palmitoylphosphatidylcholine	Hepta-acyl lipid A in lipopolysaccharide	R11223	white
+predicted membrane protein	1.8.4.15	2-Acyl-sn-glycero-3-phosphocholine	Hexa-acyl lipid A in lipopolysaccharide	R11223	white
+predicted membrane protein	1.8.4.15	2-Acyl-sn-glycero-3-phosphocholine	Palmitoylphosphatidylcholine	R11223	white
+predicted membrane protein	1.8.4.15	Hepta-acyl lipid A in lipopolysaccharide	Hexa-acyl lipid A in lipopolysaccharide	R11223	white
+predicted membrane protein	1.8.4.15	Hepta-acyl lipid A in lipopolysaccharide	Palmitoylphosphatidylcholine	R11223	white
+predicted membrane protein	1.8.4.15	Hexa-acyl lipid A in lipopolysaccharide	2-Acyl-sn-glycero-3-phosphocholine	R11223	white
+predicted membrane protein	1.8.4.15	Hexa-acyl lipid A in lipopolysaccharide	Hepta-acyl lipid A in lipopolysaccharide	R11223	white
+predicted membrane protein	1.8.4.15	Palmitoylphosphatidylcholine	2-Acyl-sn-glycero-3-phosphocholine	R11223	white
+predicted membrane protein	1.8.4.15	Palmitoylphosphatidylcholine	Hepta-acyl lipid A in lipopolysaccharide	R11223	white
+protein dithiol oxidoreductase (disulfide-forming)	1.8.4.15	2-Acyl-sn-glycero-3-phosphocholine	Hexa-acyl lipid A in lipopolysaccharide	R11223	white
+protein dithiol oxidoreductase (disulfide-forming)	1.8.4.15	2-Acyl-sn-glycero-3-phosphocholine	Palmitoylphosphatidylcholine	R11223	white
+protein dithiol oxidoreductase (disulfide-forming)	1.8.4.15	Hepta-acyl lipid A in lipopolysaccharide	Hexa-acyl lipid A in lipopolysaccharide	R11223	white
+protein dithiol oxidoreductase (disulfide-forming)	1.8.4.15	Hepta-acyl lipid A in lipopolysaccharide	Palmitoylphosphatidylcholine	R11223	white
+protein dithiol oxidoreductase (disulfide-forming)	1.8.4.15	Hexa-acyl lipid A in lipopolysaccharide	2-Acyl-sn-glycero-3-phosphocholine	R11223	white
+protein dithiol oxidoreductase (disulfide-forming)	1.8.4.15	Hexa-acyl lipid A in lipopolysaccharide	Hepta-acyl lipid A in lipopolysaccharide	R11223	white
+protein dithiol oxidoreductase (disulfide-forming)	1.8.4.15	Palmitoylphosphatidylcholine	2-Acyl-sn-glycero-3-phosphocholine	R11223	white
+protein dithiol oxidoreductase (disulfide-forming)	1.8.4.15	Palmitoylphosphatidylcholine	Hepta-acyl lipid A in lipopolysaccharide	R11223	white
+pseudolysin	3.4.24.26	2-Acyl-sn-glycero-3-phosphocholine	Hexa-acyl lipid A in lipopolysaccharide	R11223	white
+pseudolysin	3.4.24.26	2-Acyl-sn-glycero-3-phosphocholine	Palmitoylphosphatidylcholine	R11223	white
+pseudolysin	3.4.24.26	Hepta-acyl lipid A in lipopolysaccharide	Hexa-acyl lipid A in lipopolysaccharide	R11223	white
+pseudolysin	3.4.24.26	Hepta-acyl lipid A in lipopolysaccharide	Palmitoylphosphatidylcholine	R11223	white
+pseudolysin	3.4.24.26	Hexa-acyl lipid A in lipopolysaccharide	2-Acyl-sn-glycero-3-phosphocholine	R11223	white
+pseudolysin	3.4.24.26	Hexa-acyl lipid A in lipopolysaccharide	Hepta-acyl lipid A in lipopolysaccharide	R11223	white
+pseudolysin	3.4.24.26	Palmitoylphosphatidylcholine	2-Acyl-sn-glycero-3-phosphocholine	R11223	white
+pseudolysin	3.4.24.26	Palmitoylphosphatidylcholine	Hepta-acyl lipid A in lipopolysaccharide	R11223	white
+serralysin	3.4.24.40	2-Acyl-sn-glycero-3-phosphocholine	Hexa-acyl lipid A in lipopolysaccharide	R11223	white
+serralysin	3.4.24.40	2-Acyl-sn-glycero-3-phosphocholine	Palmitoylphosphatidylcholine	R11223	white
+serralysin	3.4.24.40	Hepta-acyl lipid A in lipopolysaccharide	Hexa-acyl lipid A in lipopolysaccharide	R11223	white
+serralysin	3.4.24.40	Hepta-acyl lipid A in lipopolysaccharide	Palmitoylphosphatidylcholine	R11223	white
+serralysin	3.4.24.40	Hexa-acyl lipid A in lipopolysaccharide	2-Acyl-sn-glycero-3-phosphocholine	R11223	white
+serralysin	3.4.24.40	Hexa-acyl lipid A in lipopolysaccharide	Hepta-acyl lipid A in lipopolysaccharide	R11223	white
+serralysin	3.4.24.40	Palmitoylphosphatidylcholine	2-Acyl-sn-glycero-3-phosphocholine	R11223	white
+serralysin	3.4.24.40	Palmitoylphosphatidylcholine	Hepta-acyl lipid A in lipopolysaccharide	R11223	white
+signal transduction protein PmrD	3.4.22.37	2-Acyl-sn-glycero-3-phosphocholine	Hexa-acyl lipid A in lipopolysaccharide	R11223	white
+signal transduction protein PmrD	3.4.22.37	2-Acyl-sn-glycero-3-phosphocholine	Palmitoylphosphatidylcholine	R11223	white
+signal transduction protein PmrD	3.4.22.37	Hepta-acyl lipid A in lipopolysaccharide	Hexa-acyl lipid A in lipopolysaccharide	R11223	white
+signal transduction protein PmrD	3.4.22.37	Hepta-acyl lipid A in lipopolysaccharide	Palmitoylphosphatidylcholine	R11223	white
+signal transduction protein PmrD	3.4.22.37	Hexa-acyl lipid A in lipopolysaccharide	2-Acyl-sn-glycero-3-phosphocholine	R11223	white
+signal transduction protein PmrD	3.4.22.37	Hexa-acyl lipid A in lipopolysaccharide	Hepta-acyl lipid A in lipopolysaccharide	R11223	white
+signal transduction protein PmrD	3.4.22.37	Palmitoylphosphatidylcholine	2-Acyl-sn-glycero-3-phosphocholine	R11223	white
+signal transduction protein PmrD	3.4.22.37	Palmitoylphosphatidylcholine	Hepta-acyl lipid A in lipopolysaccharide	R11223	white
+small regulatory RNA MgrR	3.4.22.37	2-Acyl-sn-glycero-3-phosphocholine	Hexa-acyl lipid A in lipopolysaccharide	R11223	white
+small regulatory RNA MgrR	3.4.22.37	2-Acyl-sn-glycero-3-phosphocholine	Palmitoylphosphatidylcholine	R11223	white
+small regulatory RNA MgrR	3.4.22.37	Hepta-acyl lipid A in lipopolysaccharide	Hexa-acyl lipid A in lipopolysaccharide	R11223	white
+small regulatory RNA MgrR	3.4.22.37	Hepta-acyl lipid A in lipopolysaccharide	Palmitoylphosphatidylcholine	R11223	white
+small regulatory RNA MgrR	3.4.22.37	Hexa-acyl lipid A in lipopolysaccharide	2-Acyl-sn-glycero-3-phosphocholine	R11223	white
+small regulatory RNA MgrR	3.4.22.37	Hexa-acyl lipid A in lipopolysaccharide	Hepta-acyl lipid A in lipopolysaccharide	R11223	white
+small regulatory RNA MgrR	3.4.22.37	Palmitoylphosphatidylcholine	2-Acyl-sn-glycero-3-phosphocholine	R11223	white
+small regulatory RNA MgrR	3.4.22.37	Palmitoylphosphatidylcholine	Hepta-acyl lipid A in lipopolysaccharide	R11223	white
+staphylokinase	3.4.21.-	2-Acyl-sn-glycero-3-phosphocholine	Hexa-acyl lipid A in lipopolysaccharide	R11223	white
+staphylokinase	3.4.21.-	2-Acyl-sn-glycero-3-phosphocholine	Palmitoylphosphatidylcholine	R11223	white
+staphylokinase	3.4.21.-	Hepta-acyl lipid A in lipopolysaccharide	Hexa-acyl lipid A in lipopolysaccharide	R11223	white
+staphylokinase	3.4.21.-	Hepta-acyl lipid A in lipopolysaccharide	Palmitoylphosphatidylcholine	R11223	white
+staphylokinase	3.4.21.-	Hexa-acyl lipid A in lipopolysaccharide	2-Acyl-sn-glycero-3-phosphocholine	R11223	white
+staphylokinase	3.4.21.-	Hexa-acyl lipid A in lipopolysaccharide	Hepta-acyl lipid A in lipopolysaccharide	R11223	white
+staphylokinase	3.4.21.-	Palmitoylphosphatidylcholine	2-Acyl-sn-glycero-3-phosphocholine	R11223	white
+staphylokinase	3.4.21.-	Palmitoylphosphatidylcholine	Hepta-acyl lipid A in lipopolysaccharide	R11223	white
+streptopain	3.4.22.10	2-Acyl-sn-glycero-3-phosphocholine	Hexa-acyl lipid A in lipopolysaccharide	R11223	white
+streptopain	3.4.22.10	2-Acyl-sn-glycero-3-phosphocholine	Palmitoylphosphatidylcholine	R11223	white
+streptopain	3.4.22.10	Hepta-acyl lipid A in lipopolysaccharide	Hexa-acyl lipid A in lipopolysaccharide	R11223	white
+streptopain	3.4.22.10	Hepta-acyl lipid A in lipopolysaccharide	Palmitoylphosphatidylcholine	R11223	white
+streptopain	3.4.22.10	Hexa-acyl lipid A in lipopolysaccharide	2-Acyl-sn-glycero-3-phosphocholine	R11223	white
+streptopain	3.4.22.10	Hexa-acyl lipid A in lipopolysaccharide	Hepta-acyl lipid A in lipopolysaccharide	R11223	white
+streptopain	3.4.22.10	Palmitoylphosphatidylcholine	2-Acyl-sn-glycero-3-phosphocholine	R11223	white
+streptopain	3.4.22.10	Palmitoylphosphatidylcholine	Hepta-acyl lipid A in lipopolysaccharide	R11223	white
+two-component system, OmpR family, response regulator BasR	2.7.13.3	H2O	L-Alanine	R04112	white
+two-component system, OmpR family, response regulator BasR	2.7.13.3	H2O	N-Acetylmuramate	R04112	white
+two-component system, OmpR family, response regulator BasR	2.7.13.3	L-Alanine	H2O	R04112	white
+two-component system, OmpR family, response regulator BasR	2.7.13.3	L-Alanine	N-Acetylmuramoyl-Ala	R04112	white
+two-component system, OmpR family, response regulator BasR	2.7.13.3	N-Acetylmuramate	H2O	R04112	white
+two-component system, OmpR family, response regulator BasR	2.7.13.3	N-Acetylmuramate	N-Acetylmuramoyl-Ala	R04112	white
+two-component system, OmpR family, response regulator BasR	2.7.13.3	N-Acetylmuramoyl-Ala	L-Alanine	R04112	white
+two-component system, OmpR family, response regulator BasR	2.7.13.3	N-Acetylmuramoyl-Ala	N-Acetylmuramate	R04112	white
+two-component system, OmpR family, response regulator CpxR	2.7.13.3	2-Acyl-sn-glycero-3-phosphocholine	Hexa-acyl lipid A in lipopolysaccharide	R11223	white
+two-component system, OmpR family, response regulator CpxR	2.7.13.3	2-Acyl-sn-glycero-3-phosphocholine	Palmitoylphosphatidylcholine	R11223	white
+two-component system, OmpR family, response regulator CpxR	2.7.13.3	Hepta-acyl lipid A in lipopolysaccharide	Hexa-acyl lipid A in lipopolysaccharide	R11223	white
+two-component system, OmpR family, response regulator CpxR	2.7.13.3	Hepta-acyl lipid A in lipopolysaccharide	Palmitoylphosphatidylcholine	R11223	white
+two-component system, OmpR family, response regulator CpxR	2.7.13.3	Hexa-acyl lipid A in lipopolysaccharide	2-Acyl-sn-glycero-3-phosphocholine	R11223	white
+two-component system, OmpR family, response regulator CpxR	2.7.13.3	Hexa-acyl lipid A in lipopolysaccharide	Hepta-acyl lipid A in lipopolysaccharide	R11223	white
+two-component system, OmpR family, response regulator CpxR	2.7.13.3	Palmitoylphosphatidylcholine	2-Acyl-sn-glycero-3-phosphocholine	R11223	white
+two-component system, OmpR family, response regulator CpxR	2.7.13.3	Palmitoylphosphatidylcholine	Hepta-acyl lipid A in lipopolysaccharide	R11223	white
+two-component system, OmpR family, response regulator ParR	7.6.2.2	H2O	Penicilloic acid	R06363	white
+two-component system, OmpR family, response regulator ParR	7.6.2.2	Penicillin	Penicilloic acid	R06363	white
+two-component system, OmpR family, response regulator ParR	7.6.2.2	Penicilloic acid	H2O	R06363	white
+two-component system, OmpR family, response regulator ParR	7.6.2.2	Penicilloic acid	Penicillin	R06363	white
+two-component system, OmpR family, response regulator PhoP	2.7.13.3	2,3,2'3'-Tetrakis(3-hydroxytetradecanoyl)-D-glucosaminyl-1,6-beta-D-glucosamine 1,4'-bisphosphate	Lipid IIA	R09773	white
+two-component system, OmpR family, response regulator PhoP	2.7.13.3	2,3,2'3'-Tetrakis(3-hydroxytetradecanoyl)-D-glucosaminyl-1,6-beta-D-glucosamine 1,4'-bisphosphate	di-trans,poly-cis-Undecaprenyl phosphate	R09773	white
+two-component system, OmpR family, response regulator PhoP	2.7.13.3	Lipid IIA	2,3,2'3'-Tetrakis(3-hydroxytetradecanoyl)-D-glucosaminyl-1,6-beta-D-glucosamine 1,4'-bisphosphate	R09773	white
+two-component system, OmpR family, response regulator PhoP	2.7.13.3	Lipid IIA	Undecaprenyl phosphate alpha-L-Ara4N	R09773	white
+two-component system, OmpR family, response regulator PhoP	2.7.13.3	Undecaprenyl phosphate alpha-L-Ara4N	Lipid IIA	R09773	white
+two-component system, OmpR family, response regulator PhoP	2.7.13.3	Undecaprenyl phosphate alpha-L-Ara4N	di-trans,poly-cis-Undecaprenyl phosphate	R09773	white
+two-component system, OmpR family, response regulator PhoP	2.7.13.3	di-trans,poly-cis-Undecaprenyl phosphate	2,3,2'3'-Tetrakis(3-hydroxytetradecanoyl)-D-glucosaminyl-1,6-beta-D-glucosamine 1,4'-bisphosphate	R09773	white
+two-component system, OmpR family, response regulator PhoP	2.7.13.3	di-trans,poly-cis-Undecaprenyl phosphate	Undecaprenyl phosphate alpha-L-Ara4N	R09773	white
+two-component system, OmpR family, response regulator protein GraR	2.7.13.3	2-Acyl-sn-glycero-3-phosphocholine	Hexa-acyl lipid A in lipopolysaccharide	R11223	white
+two-component system, OmpR family, response regulator protein GraR	2.7.13.3	2-Acyl-sn-glycero-3-phosphocholine	Palmitoylphosphatidylcholine	R11223	white
+two-component system, OmpR family, response regulator protein GraR	2.7.13.3	Hepta-acyl lipid A in lipopolysaccharide	Hexa-acyl lipid A in lipopolysaccharide	R11223	white
+two-component system, OmpR family, response regulator protein GraR	2.7.13.3	Hepta-acyl lipid A in lipopolysaccharide	Palmitoylphosphatidylcholine	R11223	white
+two-component system, OmpR family, response regulator protein GraR	2.7.13.3	Hexa-acyl lipid A in lipopolysaccharide	2-Acyl-sn-glycero-3-phosphocholine	R11223	white
+two-component system, OmpR family, response regulator protein GraR	2.7.13.3	Hexa-acyl lipid A in lipopolysaccharide	Hepta-acyl lipid A in lipopolysaccharide	R11223	white
+two-component system, OmpR family, response regulator protein GraR	2.7.13.3	Palmitoylphosphatidylcholine	2-Acyl-sn-glycero-3-phosphocholine	R11223	white
+two-component system, OmpR family, response regulator protein GraR	2.7.13.3	Palmitoylphosphatidylcholine	Hepta-acyl lipid A in lipopolysaccharide	R11223	white
+two-component system, OmpR family, sensor histidine kinase BasS	2.7.13.3	H2O	L-Alanine	R04112	white
+two-component system, OmpR family, sensor histidine kinase BasS	2.7.13.3	H2O	N-Acetylmuramate	R04112	white
+two-component system, OmpR family, sensor histidine kinase BasS	2.7.13.3	L-Alanine	H2O	R04112	white
+two-component system, OmpR family, sensor histidine kinase BasS	2.7.13.3	L-Alanine	N-Acetylmuramoyl-Ala	R04112	white
+two-component system, OmpR family, sensor histidine kinase BasS	2.7.13.3	N-Acetylmuramate	H2O	R04112	white
+two-component system, OmpR family, sensor histidine kinase BasS	2.7.13.3	N-Acetylmuramate	N-Acetylmuramoyl-Ala	R04112	white
+two-component system, OmpR family, sensor histidine kinase BasS	2.7.13.3	N-Acetylmuramoyl-Ala	L-Alanine	R04112	white
+two-component system, OmpR family, sensor histidine kinase BasS	2.7.13.3	N-Acetylmuramoyl-Ala	N-Acetylmuramate	R04112	white
+two-component system, OmpR family, sensor histidine kinase CpxA	2.7.13.3	2-Acyl-sn-glycero-3-phosphocholine	Hexa-acyl lipid A in lipopolysaccharide	R11223	white
+two-component system, OmpR family, sensor histidine kinase CpxA	2.7.13.3	2-Acyl-sn-glycero-3-phosphocholine	Palmitoylphosphatidylcholine	R11223	white
+two-component system, OmpR family, sensor histidine kinase CpxA	2.7.13.3	Hepta-acyl lipid A in lipopolysaccharide	Hexa-acyl lipid A in lipopolysaccharide	R11223	white
+two-component system, OmpR family, sensor histidine kinase CpxA	2.7.13.3	Hepta-acyl lipid A in lipopolysaccharide	Palmitoylphosphatidylcholine	R11223	white
+two-component system, OmpR family, sensor histidine kinase CpxA	2.7.13.3	Hexa-acyl lipid A in lipopolysaccharide	2-Acyl-sn-glycero-3-phosphocholine	R11223	white
+two-component system, OmpR family, sensor histidine kinase CpxA	2.7.13.3	Hexa-acyl lipid A in lipopolysaccharide	Hepta-acyl lipid A in lipopolysaccharide	R11223	white
+two-component system, OmpR family, sensor histidine kinase CpxA	2.7.13.3	Palmitoylphosphatidylcholine	2-Acyl-sn-glycero-3-phosphocholine	R11223	white
+two-component system, OmpR family, sensor histidine kinase CpxA	2.7.13.3	Palmitoylphosphatidylcholine	Hepta-acyl lipid A in lipopolysaccharide	R11223	white
+two-component system, OmpR family, sensor histidine kinase GraS	2.7.13.3	2-Acyl-sn-glycero-3-phosphocholine	Hexa-acyl lipid A in lipopolysaccharide	R11223	white
+two-component system, OmpR family, sensor histidine kinase GraS	2.7.13.3	2-Acyl-sn-glycero-3-phosphocholine	Palmitoylphosphatidylcholine	R11223	white
+two-component system, OmpR family, sensor histidine kinase GraS	2.7.13.3	Hepta-acyl lipid A in lipopolysaccharide	Hexa-acyl lipid A in lipopolysaccharide	R11223	white
+two-component system, OmpR family, sensor histidine kinase GraS	2.7.13.3	Hepta-acyl lipid A in lipopolysaccharide	Palmitoylphosphatidylcholine	R11223	white
+two-component system, OmpR family, sensor histidine kinase GraS	2.7.13.3	Hexa-acyl lipid A in lipopolysaccharide	2-Acyl-sn-glycero-3-phosphocholine	R11223	white
+two-component system, OmpR family, sensor histidine kinase GraS	2.7.13.3	Hexa-acyl lipid A in lipopolysaccharide	Hepta-acyl lipid A in lipopolysaccharide	R11223	white
+two-component system, OmpR family, sensor histidine kinase GraS	2.7.13.3	Palmitoylphosphatidylcholine	2-Acyl-sn-glycero-3-phosphocholine	R11223	white
+two-component system, OmpR family, sensor histidine kinase GraS	2.7.13.3	Palmitoylphosphatidylcholine	Hepta-acyl lipid A in lipopolysaccharide	R11223	white
+two-component system, OmpR family, sensor histidine kinase PhoQ	2.7.13.3	2,3,2'3'-Tetrakis(3-hydroxytetradecanoyl)-D-glucosaminyl-1,6-beta-D-glucosamine 1,4'-bisphosphate	Lipid IIA	R09773	white
+two-component system, OmpR family, sensor histidine kinase PhoQ	2.7.13.3	2,3,2'3'-Tetrakis(3-hydroxytetradecanoyl)-D-glucosaminyl-1,6-beta-D-glucosamine 1,4'-bisphosphate	di-trans,poly-cis-Undecaprenyl phosphate	R09773	white
+two-component system, OmpR family, sensor histidine kinase PhoQ	2.7.13.3	Lipid IIA	2,3,2'3'-Tetrakis(3-hydroxytetradecanoyl)-D-glucosaminyl-1,6-beta-D-glucosamine 1,4'-bisphosphate	R09773	white
+two-component system, OmpR family, sensor histidine kinase PhoQ	2.7.13.3	Lipid IIA	Undecaprenyl phosphate alpha-L-Ara4N	R09773	white
+two-component system, OmpR family, sensor histidine kinase PhoQ	2.7.13.3	Undecaprenyl phosphate alpha-L-Ara4N	Lipid IIA	R09773	white
+two-component system, OmpR family, sensor histidine kinase PhoQ	2.7.13.3	Undecaprenyl phosphate alpha-L-Ara4N	di-trans,poly-cis-Undecaprenyl phosphate	R09773	white
+two-component system, OmpR family, sensor histidine kinase PhoQ	2.7.13.3	di-trans,poly-cis-Undecaprenyl phosphate	2,3,2'3'-Tetrakis(3-hydroxytetradecanoyl)-D-glucosaminyl-1,6-beta-D-glucosamine 1,4'-bisphosphate	R09773	white
+two-component system, OmpR family, sensor histidine kinase PhoQ	2.7.13.3	di-trans,poly-cis-Undecaprenyl phosphate	Undecaprenyl phosphate alpha-L-Ara4N	R09773	white
+two-component system, OmpR family, sensor kinase ParS	2.7.13.3	H2O	Penicilloic acid	R06363	white
+two-component system, OmpR family, sensor kinase ParS	2.7.13.3	Penicillin	Penicilloic acid	R06363	white
+two-component system, OmpR family, sensor kinase ParS	2.7.13.3	Penicilloic acid	H2O	R06363	white
+two-component system, OmpR family, sensor kinase ParS	2.7.13.3	Penicilloic acid	Penicillin	R06363	white
+undecaprenyl phosphate-alpha-L-ara4FN deformylase	3.5.1.-	Formate	H2O	R07662	white
+undecaprenyl phosphate-alpha-L-ara4FN deformylase	3.5.1.-	Formate	Undecaprenyl phosphate alpha-L-Ara4FN	R07662	white
+undecaprenyl phosphate-alpha-L-ara4FN deformylase	3.5.1.-	H2O	Formate	R07662	white
+undecaprenyl phosphate-alpha-L-ara4FN deformylase	3.5.1.-	H2O	Undecaprenyl phosphate alpha-L-Ara4N	R07662	white
+undecaprenyl phosphate-alpha-L-ara4FN deformylase	3.5.1.-	Undecaprenyl phosphate alpha-L-Ara4FN	Formate	R07662	white
+undecaprenyl phosphate-alpha-L-ara4FN deformylase	3.5.1.-	Undecaprenyl phosphate alpha-L-Ara4FN	Undecaprenyl phosphate alpha-L-Ara4N	R07662	white
+undecaprenyl phosphate-alpha-L-ara4FN deformylase	3.5.1.-	Undecaprenyl phosphate alpha-L-Ara4N	H2O	R07662	white
+undecaprenyl phosphate-alpha-L-ara4FN deformylase	3.5.1.-	Undecaprenyl phosphate alpha-L-Ara4N	Undecaprenyl phosphate alpha-L-Ara4FN	R07662	white
+undecaprenyl phosphate-alpha-L-ara4N flippase subunit ArnE	2.7.13.3	2,3,2'3'-Tetrakis(3-hydroxytetradecanoyl)-D-glucosaminyl-1,6-beta-D-glucosamine 1,4'-bisphosphate	Lipid IIA	R09773	white
+undecaprenyl phosphate-alpha-L-ara4N flippase subunit ArnE	2.7.13.3	2,3,2'3'-Tetrakis(3-hydroxytetradecanoyl)-D-glucosaminyl-1,6-beta-D-glucosamine 1,4'-bisphosphate	di-trans,poly-cis-Undecaprenyl phosphate	R09773	white
+undecaprenyl phosphate-alpha-L-ara4N flippase subunit ArnE	2.7.13.3	Lipid IIA	2,3,2'3'-Tetrakis(3-hydroxytetradecanoyl)-D-glucosaminyl-1,6-beta-D-glucosamine 1,4'-bisphosphate	R09773	white
+undecaprenyl phosphate-alpha-L-ara4N flippase subunit ArnE	2.7.13.3	Lipid IIA	Undecaprenyl phosphate alpha-L-Ara4N	R09773	white
+undecaprenyl phosphate-alpha-L-ara4N flippase subunit ArnE	2.7.13.3	Undecaprenyl phosphate alpha-L-Ara4N	Lipid IIA	R09773	white
+undecaprenyl phosphate-alpha-L-ara4N flippase subunit ArnE	2.7.13.3	Undecaprenyl phosphate alpha-L-Ara4N	di-trans,poly-cis-Undecaprenyl phosphate	R09773	white
+undecaprenyl phosphate-alpha-L-ara4N flippase subunit ArnE	2.7.13.3	di-trans,poly-cis-Undecaprenyl phosphate	2,3,2'3'-Tetrakis(3-hydroxytetradecanoyl)-D-glucosaminyl-1,6-beta-D-glucosamine 1,4'-bisphosphate	R09773	white
+undecaprenyl phosphate-alpha-L-ara4N flippase subunit ArnE	2.7.13.3	di-trans,poly-cis-Undecaprenyl phosphate	Undecaprenyl phosphate alpha-L-Ara4N	R09773	white
+undecaprenyl phosphate-alpha-L-ara4N flippase subunit ArnF	2.7.13.3	2,3,2'3'-Tetrakis(3-hydroxytetradecanoyl)-D-glucosaminyl-1,6-beta-D-glucosamine 1,4'-bisphosphate	Lipid IIA	R09773	white
+undecaprenyl phosphate-alpha-L-ara4N flippase subunit ArnF	2.7.13.3	2,3,2'3'-Tetrakis(3-hydroxytetradecanoyl)-D-glucosaminyl-1,6-beta-D-glucosamine 1,4'-bisphosphate	di-trans,poly-cis-Undecaprenyl phosphate	R09773	white
+undecaprenyl phosphate-alpha-L-ara4N flippase subunit ArnF	2.7.13.3	Lipid IIA	2,3,2'3'-Tetrakis(3-hydroxytetradecanoyl)-D-glucosaminyl-1,6-beta-D-glucosamine 1,4'-bisphosphate	R09773	white
+undecaprenyl phosphate-alpha-L-ara4N flippase subunit ArnF	2.7.13.3	Lipid IIA	Undecaprenyl phosphate alpha-L-Ara4N	R09773	white
+undecaprenyl phosphate-alpha-L-ara4N flippase subunit ArnF	2.7.13.3	Undecaprenyl phosphate alpha-L-Ara4N	Lipid IIA	R09773	white
+undecaprenyl phosphate-alpha-L-ara4N flippase subunit ArnF	2.7.13.3	Undecaprenyl phosphate alpha-L-Ara4N	di-trans,poly-cis-Undecaprenyl phosphate	R09773	white
+undecaprenyl phosphate-alpha-L-ara4N flippase subunit ArnF	2.7.13.3	di-trans,poly-cis-Undecaprenyl phosphate	2,3,2'3'-Tetrakis(3-hydroxytetradecanoyl)-D-glucosaminyl-1,6-beta-D-glucosamine 1,4'-bisphosphate	R09773	white
+undecaprenyl phosphate-alpha-L-ara4N flippase subunit ArnF	2.7.13.3	di-trans,poly-cis-Undecaprenyl phosphate	Undecaprenyl phosphate alpha-L-Ara4N	R09773	white
+undecaprenyl-phosphate 4-deoxy-4-formamido-L-arabinose transferase	2.4.2.53	UDP	UDP-L-Ara4FN	R07661	white
+undecaprenyl-phosphate 4-deoxy-4-formamido-L-arabinose transferase	2.4.2.53	UDP	di-trans,poly-cis-Undecaprenyl phosphate	R07661	white
+undecaprenyl-phosphate 4-deoxy-4-formamido-L-arabinose transferase	2.4.2.53	UDP-L-Ara4FN	UDP	R07661	white
+undecaprenyl-phosphate 4-deoxy-4-formamido-L-arabinose transferase	2.4.2.53	UDP-L-Ara4FN	Undecaprenyl phosphate alpha-L-Ara4FN	R07661	white
+undecaprenyl-phosphate 4-deoxy-4-formamido-L-arabinose transferase	2.4.2.53	Undecaprenyl phosphate alpha-L-Ara4FN	UDP-L-Ara4FN	R07661	white
+undecaprenyl-phosphate 4-deoxy-4-formamido-L-arabinose transferase	2.4.2.53	Undecaprenyl phosphate alpha-L-Ara4FN	di-trans,poly-cis-Undecaprenyl phosphate	R07661	white
+undecaprenyl-phosphate 4-deoxy-4-formamido-L-arabinose transferase	2.4.2.53	di-trans,poly-cis-Undecaprenyl phosphate	UDP	R07661	white
+undecaprenyl-phosphate 4-deoxy-4-formamido-L-arabinose transferase	2.4.2.53	di-trans,poly-cis-Undecaprenyl phosphate	Undecaprenyl phosphate alpha-L-Ara4FN	R07661	white

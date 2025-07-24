@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <!DOCTYPE pathway SYSTEM "https://www.kegg.jp/kegg/xml/KGML_v0.7.2_.dtd">
-<!-- Creation date: May 1, 2025 16:00:28 +0900 (GMT+9) -->
+<!-- Creation date: Jul 10, 2025 18:07:47 +0900 (GMT+9) -->
 <pathway name="path:roa01250" org="roa" number="01250"
          title="Biosynthesis of nucleotide sugars"
          image="https://www.kegg.jp/kegg/pathway/roa/roa01250.png"
@@ -30,9 +30,9 @@
         <graphics name="C06240" fgcolor="#000000" bgcolor="#FFFFFF"
              type="circle" x="564" y="1271" width="8" height="8"/>
     </entry>
-    <entry id="12" name="ko:K24336 ko:K15894" type="ortholog" reaction="rn:R09697"
-        link="https://www.kegg.jp/dbget-bin/www_bget?K24336+K15894">
-        <graphics name="K24336..." fgcolor="#000000" bgcolor="#FFFFFF"
+    <entry id="12" name="ko:K15894 ko:K24336" type="ortholog" reaction="rn:R09697"
+        link="https://www.kegg.jp/dbget-bin/www_bget?K15894+K24336">
+        <graphics name="K15894..." fgcolor="#000000" bgcolor="#FFFFFF"
              type="line" coords="474,1189,474,1065,474,1065,474,1063,475,1062,475,1060,476,1059,477,1058,478,1057,480,1057,481,1056,483,1056,483,1056,987,1056"/>
     </entry>
     <entry id="13" name="ko:K24258" type="ortholog" reaction="rn:R10676"
@@ -60,9 +60,9 @@
         <graphics name="C04613" fgcolor="#000000" bgcolor="#FFFFFF"
              type="circle" x="994" y="1132" width="8" height="8"/>
     </entry>
-    <entry id="24" name="ko:K24300 ko:K15912 ko:K24301" type="ortholog" reaction="rn:R10266"
-        link="https://www.kegg.jp/dbget-bin/www_bget?K24300+K15912+K24301">
-        <graphics name="K24300..." fgcolor="#000000" bgcolor="#FFFFFF"
+    <entry id="24" name="ko:K15912 ko:K24300 ko:K24336 ko:K28372" type="ortholog" reaction="rn:R10266"
+        link="https://www.kegg.jp/dbget-bin/www_bget?K15912+K24300+K24336+K28372">
+        <graphics name="K15912..." fgcolor="#000000" bgcolor="#FFFFFF"
              type="line" coords="477,1190,477,1141,477,1141,477,1139,478,1138,478,1136,479,1135,480,1134,481,1133,483,1133,484,1132,486,1132,486,1132,987,1132"/>
     </entry>
     <entry id="26" name="cpd:C22261" type="compound"
@@ -84,26 +84,6 @@
         link="https://www.kegg.jp/dbget-bin/www_bget?C22262">
         <graphics name="C22262" fgcolor="#000000" bgcolor="#FFFFFF"
              type="circle" x="1087" y="1234" width="8" height="8"/>
-    </entry>
-    <entry id="32" name="ko:K24252" type="ortholog" reaction="rn:R12604"
-        link="https://www.kegg.jp/dbget-bin/www_bget?K24252">
-        <graphics name="K24252" fgcolor="#000000" bgcolor="#FFFFFF"
-             type="line" coords="1087,1011,1087,995,1087,995,1087,993,1088,992,1088,990,1089,989,1091,988,1092,987,1093,987,1095,986,1096,986,1096,986,1173,986"/>
-    </entry>
-    <entry id="33" name="cpd:C22259" type="compound"
-        link="https://www.kegg.jp/dbget-bin/www_bget?C22259">
-        <graphics name="C22259" fgcolor="#000000" bgcolor="#FFFFFF"
-             type="circle" x="1180" y="986" width="8" height="8"/>
-    </entry>
-    <entry id="34" name="ko:K24256" type="ortholog" reaction="rn:R12551"
-        link="https://www.kegg.jp/dbget-bin/www_bget?K24256">
-        <graphics name="K24256" fgcolor="#000000" bgcolor="#FFFFFF"
-             type="line" coords="1186,986,1266,986"/>
-    </entry>
-    <entry id="36" name="cpd:C22260" type="compound"
-        link="https://www.kegg.jp/dbget-bin/www_bget?C22260">
-        <graphics name="C22260" fgcolor="#000000" bgcolor="#FFFFFF"
-             type="circle" x="1273" y="986" width="8" height="8"/>
     </entry>
     <entry id="38" name="ko:K15895" type="ortholog" reaction="rn:R09825"
         link="https://www.kegg.jp/dbget-bin/www_bget?K15895">
@@ -185,8 +165,8 @@
         <graphics name="C00645" fgcolor="#000000" bgcolor="#FFFFFF"
              type="circle" x="564" y="1196" width="8" height="8"/>
     </entry>
-    <entry id="62" name="ko:K15910 ko:K24302" type="ortholog" reaction="rn:R04529"
-        link="https://www.kegg.jp/dbget-bin/www_bget?K15910+K24302">
+    <entry id="62" name="ko:K15910 ko:K24280" type="ortholog" reaction="rn:R04529"
+        link="https://www.kegg.jp/dbget-bin/www_bget?K15910+K24280">
         <graphics name="K15910..." fgcolor="#000000" bgcolor="#FFFFFF"
              type="line" coords="1000,1131,1080,1131"/>
     </entry>
@@ -245,9 +225,9 @@
         <graphics name="C04573" fgcolor="#000000" bgcolor="#FFFFFF"
              type="circle" x="564" y="1315" width="8" height="8"/>
     </entry>
-    <entry id="98" name="roa:Pd630_LPD06020" type="gene" reaction="rn:R10140"
-        link="https://www.kegg.jp/dbget-bin/www_bget?roa:Pd630_LPD06020">
-        <graphics name="Pd630_LPD06020" fgcolor="#66CC66" bgcolor="#FFFFFF"
+    <entry id="98" name="ko:K13016 ko:K13020" type="ortholog" reaction="rn:R10140"
+        link="https://www.kegg.jp/dbget-bin/www_bget?K13016+K13020">
+        <graphics name="K13016..." fgcolor="#000000" bgcolor="#FFFFFF"
              type="line" coords="570,1315,650,1315"/>
     </entry>
     <entry id="100" name="cpd:C20395" type="compound"
@@ -510,9 +490,9 @@
         <graphics name="C06018" fgcolor="#000000" bgcolor="#FFFFFF"
              type="circle" x="1273" y="835" width="8" height="8"/>
     </entry>
-    <entry id="257" name="ko:K19068 ko:K24252" type="ortholog" reaction="rn:R12553"
-        link="https://www.kegg.jp/dbget-bin/www_bget?K19068+K24252">
-        <graphics name="K19068..." fgcolor="#000000" bgcolor="#FFFFFF"
+    <entry id="257" name="ko:K19068" type="ortholog" reaction="rn:R12553"
+        link="https://www.kegg.jp/dbget-bin/www_bget?K19068">
+        <graphics name="K19068" fgcolor="#000000" bgcolor="#FFFFFF"
              type="line" coords="994,1049,994,1027,994,1027,994,1025,995,1024,995,1022,996,1021,997,1020,998,1019,1000,1019,1001,1018,1003,1018,1003,1018,1080,1018"/>
     </entry>
     <entry id="258" name="cpd:C19823" type="compound"
@@ -945,9 +925,9 @@
         <graphics name="K24304" fgcolor="#000000" bgcolor="#FFFFFF"
              type="line" coords="1186,1170,1266,1170"/>
     </entry>
-    <entry id="365" name="ko:K24305" type="ortholog" reaction="rn:R12559"
-        link="https://www.kegg.jp/dbget-bin/www_bget?K24305">
-        <graphics name="K24305" fgcolor="#000000" bgcolor="#FFFFFF"
+    <entry id="365" name="ko:K24283" type="ortholog" reaction="rn:R12559"
+        link="https://www.kegg.jp/dbget-bin/www_bget?K24283">
+        <graphics name="K24283" fgcolor="#000000" bgcolor="#FFFFFF"
              type="line" coords="1279,1170,1359,1170"/>
     </entry>
     <entry id="366" name="ko:K24306" type="ortholog" reaction="rn:R12567"
@@ -1288,17 +1268,17 @@
     <entry id="442" name="ko:K15913" type="ortholog" reaction="rn:R10099"
         link="https://www.kegg.jp/dbget-bin/www_bget?K15913">
         <graphics name="K15913" fgcolor="#000000" bgcolor="#FFFFFF"
-             type="line" coords="1094,1132,1266,1132"/>
+             type="line" coords="1093,1132,1173,1132"/>
     </entry>
     <entry id="443" name="cpd:C20357" type="compound"
         link="https://www.kegg.jp/dbget-bin/www_bget?C20357">
         <graphics name="C20357" fgcolor="#000000" bgcolor="#FFFFFF"
-             type="circle" x="1273" y="1132" width="8" height="8"/>
+             type="circle" x="1180" y="1132" width="8" height="8"/>
     </entry>
     <entry id="444" name="ko:K18429" type="ortholog" reaction="rn:R10187"
         link="https://www.kegg.jp/dbget-bin/www_bget?K18429">
         <graphics name="K18429" fgcolor="#000000" bgcolor="#FFFFFF"
-             type="line" coords="1279,1132,1359,1132"/>
+             type="line" coords="1186,1132,1359,1132"/>
     </entry>
     <entry id="445" name="cpd:C20424" type="compound"
         link="https://www.kegg.jp/dbget-bin/www_bget?C20424">
@@ -2190,10 +2170,6 @@
     <reaction id="316" name="rn:R00885" type="irreversible">
         <substrate id="229" name="cpd:C00636"/>
         <product id="231" name="cpd:C00096"/>
-    </reaction>
-    <reaction id="98" name="rn:R10140" type="irreversible">
-        <substrate id="97" name="cpd:C04573"/>
-        <product id="100" name="cpd:C20395"/>
     </reaction>
     <reaction id="340" name="rn:R00418" type="reversible">
         <substrate id="266" name="cpd:C00043"/>
