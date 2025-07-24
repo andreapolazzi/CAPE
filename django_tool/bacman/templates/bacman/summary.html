@@ -6,6 +6,46 @@
 
 {% block content %}
 
-<h1> ciao </h1>
 
-{% endblock %} 
+<main class="main-content">
+  <h1>Summary of Your Selection</h1>
+
+  {% if selections %}
+    {% regroup selections by ec as ec_groups %}
+
+    {% for group in ec_groups %}
+      <h2>EC: {{ group.grouper }}</h2>
+      <table border="1">
+        <thead>
+          <tr>
+            <th>Organism</th>
+            <th>Header</th>
+            <th>Sequence</th>
+            <th>Length</th>
+          </tr>
+        </thead>
+        <tbody>
+          {% for item in group.list %}
+            <tr>
+              <td>{{ item.organism }}</td>
+              <td>{{ item.header }}</td>
+              <td>{{ item.sequence }}</td>
+              <td>{{ item.length }}</td>
+            </tr>
+          {% endfor %}
+        </tbody>
+      </table>
+      <br>
+    {% endfor %}
+
+    <form method="POST" action="{% url 'final_step' %}">
+      {% csrf_token %}
+      <button type="submit">Conferma</button>
+    </form>
+
+  {% else %}
+    <p>Nessuna selezione trovata.</p>
+  {% endif %}
+</main>
+
+{% endblock %}
