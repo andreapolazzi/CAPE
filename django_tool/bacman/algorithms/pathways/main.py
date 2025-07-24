@@ -5,7 +5,7 @@ from .classes.rp_classes import RP, RpGraph
 def main(start:str, end:str, inchi):
     """ Get 3 shortest paths """
     # Check that Pathways folder exists or make one
-    PATHWAY_FOLDER = 'Pathways'
+    PATHWAY_FOLDER = '/work/igem/iGEM/django_tool/bacman/algorithms/pathways/Pathways'
     os.makedirs(PATHWAY_FOLDER, exist_ok=True)
     # Load all tsv files to networks
     for fname in os.listdir(PATHWAY_FOLDER):
@@ -17,6 +17,7 @@ def main(start:str, end:str, inchi):
 
     # Connect start and/or end to central metabolites if they are not in the nodes
     node_list = list(n.lower() for n in MetabolicGraph.mega.nodes)
+    print(node_list)
 
     if start not in node_list:
         print("start not in node_list")
@@ -98,4 +99,4 @@ def main(start:str, end:str, inchi):
 
 
 if __name__ == '__main__':
-    main(start="Methyl tert-butyl ether", end="d-glucose", inchi="InChI=1S/C5H12O/c1-5(2,3)6-4/h1-4H3")
+    main(start="citrate", end="isocitrate", inchi="InChI=1S/C5H12O/c1-5(2,3)6-4/h1-4H3")
