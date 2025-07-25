@@ -3,7 +3,7 @@ import json     #mi serve per salvare EC che non printo a schermo
 
 from collections import defaultdict
 
-from .algorithms.pathways.main import main
+#from .algorithms.pathways.main import main
 from .algorithms.orthologs.processing import process_ec_list
 
 from .algorithms.step_one import primo
