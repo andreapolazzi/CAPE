@@ -5,8 +5,8 @@ from .classes.rp_classes import RP, RpGraph
 def main(start:str, end:str, inchi):
     """ Get 3 shortest paths """
     # Check that Pathways folder exists or make one
-    # PATHWAY_FOLDER = '/work/igem/iGEM/django_tool/bacman/algorithms/pathways/Pathways'
-    PATHWAY_FOLDER = './bacman/algorithms/pathways/Pathways'  # to run in local
+    PATHWAY_FOLDER = '/work/igem/iGEM/django_tool/bacman/algorithms/pathways/Pathways'
+    #PATHWAY_FOLDER = './bacman/algorithms/pathways/Pathways'  # to run in local
     os.makedirs(PATHWAY_FOLDER, exist_ok=True)
     # Load all tsv files to networks
     for fname in os.listdir(PATHWAY_FOLDER):
@@ -22,17 +22,17 @@ def main(start:str, end:str, inchi):
 
     if start not in node_list:
         print("start not in node_list")
-        """
-        RP.rp_single_source(sink='/work/igem/iGEM/django_tool/bacman/algorithms/pathways/rp_data/biocyc_cmpd_rpcleaned.csv',
+        
+        RP.rp_single_source(sink='/work/igem/iGEM/django_tool/bacman/algorithms/pathways/rp_data/kegg_rp.csv',
                             rules='/work/igem/retrorules_rr02_rp2_flat_forward.csv',
                             outdir='/work/igem/iGEM/django_tool/bacman/algorithms/pathways/rp_results',
                             name=start,
                             inchi=inchi,
-                            steps=5,)
+                            steps=7,)
         print("RetroPath prediction completed")
         RpGraph.tsv_generator(file_path=f'/work/igem/iGEM/django_tool/bacman/algorithms/pathways/rp_results/Methyl_tert-butyl_ether_scope.csv',
                               outdir='/work/igem/iGEM/django_tool/bacman/algorithms/pathways/Pathways/')
-        """
+        
         print("Generating a graph from RetroPath output")
         start_pway_graph = MetabolicGraph.from_tsv('rp_edges.tsv')
         start_pway_graph.join2megaGraph()
@@ -46,7 +46,8 @@ def main(start:str, end:str, inchi):
 
 
     # Find up to 3 shortest paths
-    all_paths = MetabolicGraph.mega.shortest_paths(start, end)
+    #all_paths = MetabolicGraph.mega.shortest_paths(start, end)
+    all_paths = MetabolicGraph.mega.shortest_paths("InChI=1S/C5H12O/c1-5(2,3)6-4/h1-4H3", end)
 
     # Fallback to RetroPath if path can't be found (not yet fully implemented)
     if not all_paths:
@@ -100,5 +101,6 @@ def main(start:str, end:str, inchi):
 
 
 if __name__ == '__main__':
-    txt, non_green_ecs = main(start="terephthalate", end="succinyl-coa", inchi="InChI=1S/C5H12O/c1-5(2,3)6-4/h1-4H3")
+    txt, non_green_ecs = main(start="Methyl tert-butyl ether", end="acetyl-coa", inchi="InChI=1S/C5H12O/c1-5(2,3)6-4/h1-4H3")
+    #txt, non_green_ecs = main(start="terephthalate", end="succinyl-coa", inchi="InChI=1S/C5H12O/c1-5(2,3)6-4/h1-4H3")
     print(txt)
