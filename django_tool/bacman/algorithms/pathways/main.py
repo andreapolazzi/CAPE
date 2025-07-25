@@ -17,7 +17,7 @@ def main(start:str, end:str, inchi):
 
     # Connect start and/or end to central metabolites if they are not in the nodes
     node_list = list(n.lower() for n in MetabolicGraph.mega.nodes)
-    print(node_list)
+    #print(node_list)
 
     if start not in node_list:
         print("start not in node_list")
@@ -99,5 +99,5 @@ def main(start:str, end:str, inchi):
 
 
 if __name__ == '__main__':
-    txt, non_green_ecs = main(start="citrate", end="isocitrate", inchi="InChI=1S/C5H12O/c1-5(2,3)6-4/h1-4H3")
+    txt, non_green_ecs = main(start="terephthalate", end="succinyl-coa", inchi="InChI=1S/C5H12O/c1-5(2,3)6-4/h1-4H3")
     print(txt)
