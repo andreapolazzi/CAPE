@@ -53,22 +53,25 @@
 
 
 {% block content %}
+<h1>Recontruction of pathways</h1>
+<h2>Best 3 pathways found from {{ pollutant }} to {{ sink }}</h2>
+
 <form method="POST" action="{% url 'orthologs' %}">
     {% csrf_token %}
 
     <label class="box">
         <input type="checkbox" name="selected_pathway" value="0">
-        <div class="content">{{ first_path }}</div>
+        <div class="content">{{ first_path|safe }}</div>
     </label>
 
     <label class="box">
         <input type="checkbox" name="selected_pathway" value="1">
-        <div class="content">{{ second_path }}</div>
+        <div class="content">{{ second_path|safe }}</div>
     </label>
 
     <label class="box">
         <input type="checkbox" name="selected_pathway" value="2">
-        <div class="content">{{ third_path }}</div>
+        <div class="content">{{ third_path|safe }}</div>
     </label>
 
     <button type="submit">Confirm</button>

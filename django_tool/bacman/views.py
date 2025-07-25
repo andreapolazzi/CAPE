@@ -6,8 +6,6 @@ from collections import defaultdict
 from .algorithms.pathways.main import main
 from .algorithms.orthologs.processing import process_ec_list
 
-from .algorithms.step_one import primo
-
 #HOMEPAGE
 def homepage(request):
     return render(request, 'bacman/bacman-webpage.html')
@@ -20,11 +18,14 @@ def pathways(request):
         final = request.POST.get("final")
         inchi = request.POST.get("inchi")
 
-    paths, ec = main(pollutant, final, inchi)
-    #paths, ec = primo(pollutant, final)
+    paths_old, ec = main(pollutant, final, inchi)
     request.session['ec_list'] = json.dumps(ec)
 
-    return render(request, 'bacman/pathways.html', { 'first_path': paths[0], 'second_path': paths[1], 'third_path': paths[2]})
+    paths = []
+    for item in paths_old:
+        paths.append(item.replace('\n', '<br>'))
+
+    return render(request, 'bacman/pathways.html', { 'first_path': paths[0], 'second_path': paths[1], 'third_path': paths[2], 'pollutant': pollutant, 'sink':final})
 
 
 #ORTHOLOGS PAGE: fasta files of all orthologs are presented, user chooses
