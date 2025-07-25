@@ -125,7 +125,8 @@ class MetabolicGraph:
         graph = cls()
         graph.org = tsv_file[:3]
         graph.pathway = tsv_file[3:]
-        with open(f"/work/igem/iGEM/django_tool/bacman/algorithms/pathways/Pathways/{tsv_file}", 'r', newline='', encoding='utf-8') as f:
+        #with open(f"/work/igem/iGEM/django_tool/bacman/algorithms/pathways/Pathways/{tsv_file}", 'r', newline='', encoding='utf-8') as f:
+        with open(f"./django_tool/bacman/algorithms/pathways/Pathways/{tsv_file}", 'r', newline='', encoding='utf-8') as f: # to run in local
             reader = csv.DictReader(f, delimiter='\t')
             for row in reader:
                 enz = row['enzyme_name']
