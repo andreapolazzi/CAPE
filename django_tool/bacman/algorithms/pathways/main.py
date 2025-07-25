@@ -6,7 +6,7 @@ def main(start:str, end:str, inchi):
     """ Get 3 shortest paths """
     # Check that Pathways folder exists or make one
     # PATHWAY_FOLDER = '/work/igem/iGEM/django_tool/bacman/algorithms/pathways/Pathways'
-    PATHWAY_FOLDER = './django_tool/bacman/algorithms/pathways/Pathways'  # to run in local
+    PATHWAY_FOLDER = './bacman/algorithms/pathways/Pathways'  # to run in local
     os.makedirs(PATHWAY_FOLDER, exist_ok=True)
     # Load all tsv files to networks
     for fname in os.listdir(PATHWAY_FOLDER):
