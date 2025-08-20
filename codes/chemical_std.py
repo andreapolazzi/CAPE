@@ -6,7 +6,7 @@ def standardize(inchi_str,
                 standardize=True,
                 neutralize=True, 
                 strip_stereo=False, 
-                canonicalize_tautomers=False):
+                canonicalize_tautomers=True):
     """
     Standardize molecule to KEGG-like representation.
     """
