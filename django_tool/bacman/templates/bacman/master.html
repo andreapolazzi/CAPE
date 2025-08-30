@@ -17,7 +17,7 @@
             --text-dark: #333;
             --text-light: #666;
             --white: #ffffff;
-            --gradient-bg: linear-gradient(135deg, #6077dc 0%, #653c8e 100%);
+            --gradient-bg: linear-gradient(135deg, #3f4e92 0%, #2d1d4b 100%);
             --shadow-light: 0 2px 10px rgba(0,0,0,0.1);
             --shadow-medium: 0 5px 20px rgba(0,0,0,0.15);
             --border-radius: 12px;
@@ -43,6 +43,7 @@
             position: relative;
             overflow: hidden;
             box-shadow: var(--shadow-medium);
+            background: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1000"><polygon fill="rgba(255,255,255,0.05)" points="0,0 1000,300 1000,1000 0,700"/></svg>');
         }
 
         header::before {
@@ -141,7 +142,7 @@
         .lines span {
             width: 25px;
             height: 3px;
-            background-color: #374151;
+            background-color: var(--white);
             margin: 3px 0;
             transition: 0.3s;
             border-radius: 3px;
@@ -150,7 +151,7 @@
         /* Banner Section */
         .banner-section {
             background: var(--gradient-bg);
-            color: white;
+            color: var(--white);
             padding: 80px 0;
             text-align: center;
             position: relative;
@@ -164,7 +165,6 @@
             left: 0;
             right: 0;
             bottom: 0;
-            background: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1000"><polygon fill="rgba(255,255,255,0.05)" points="0,0 1000,300 1000,1000 0,700"/></svg>');
         }
 
         .banner-content {
@@ -588,13 +588,14 @@
                 <img src="{% static 'bacman/images/cape_logo.png' %}" alt="Logo">
                 <div class="logo-text">CAPE</div>
             </div>
+
+            <nav>
+                <div class="nav-menu">
+                    <a href="{% url 'homepage' %}"><i class="fas fa-home"></i> Home</a>
+                    <a href="{% url 'help' %}"><i class="fas fa-question-circle"></i> Help</a>
+                </div>
+            </nav>
         </div>
-        <nav>
-            <div class="nav-menu">
-                <a href="{% url 'homepage' %}"><i class="fas fa-home"></i> Home</a>
-                <a href="{% url 'help' %}"><i class="fas fa-question-circle"></i> Help</a>
-            </div>
-        </nav>
 
         <!-- Lines menu per mobile -->
         <div class="lines" id="lines">
