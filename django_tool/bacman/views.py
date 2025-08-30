@@ -8,7 +8,7 @@ from .algorithms.orthologs.processing import process_ec_list
 
 #HOMEPAGE
 def homepage(request):
-    return render(request, 'bacman/bacman-webpage.html')
+    return render(request, 'bacman/HomeCAPE.html')
 
 
 #PATHWAYS PAGE: the 3 best pathways are presented, user can choose one
@@ -78,8 +78,5 @@ def confirm(request):
     return render(request, 'bacman/confirm.html')
 
 
-def contact(request):
-    return render(request, 'bacman/contactBacman.html')
-
 def help(request):
-    return render(request, 'bacman/helpBacman.html')
+    return render(request, 'bacman/HelpCAPE.html')
