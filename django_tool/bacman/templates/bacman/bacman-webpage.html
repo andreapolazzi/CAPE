@@ -1,27 +1,67 @@
 {% extends "master.html" %}
 
-{% block title %}BACMAN{% endblock %}
+{% block title %}CAPE{% endblock %}
 
+{% block banner %}
+<div class="banner-section">
+    <div class="banner-content">
+        <h1 class="banner-title">CAPE Tool</h1>
+        <p class="banner-subtitle">Computational Assistant for Pathways Engineering</p>
+    </div>
+</div>
+{% endblock %}
 
 {% block content %}
 <main class="main-content">
     <section class="tool-section">
-        <h2>Tool</h2>
+        <h2>Start Analysis</h2>
         <div class="tool-controls">
             <form method="POST" action="{% url 'pathways' %}">
                 {% csrf_token %}
+                <label class="input-label" for="sequence-input">Enter Input Parameters</label>
                 <input type="text" name="pollutant" class="input-field" placeholder="Insert starting pollutant to be degraded" required>
                 <input type="text" name="final" class="input-field" placeholder="Insert final compound" required>
                 <input type="text" name="inchi" class="input-field" placeholder="Insert inchi" required>
                 <button type="submit" class="create-btn">Submit</button>
             </form>
         </div>
+
+        <div class="loading" id="loading">
+            <div class="spinner"></div>
+            <p>Processing your sequence...</p>
+        </div>
     </section>
 
-    <section class="info-section">
-        <h2>What's CAPE tool?</h2>
-        <p>È uno strumento interattivo e facile da usare che permette agli utenti di identificare i geni più adatti da introdurre nel ceppo in base all'inquinante che si desidera degradare. Saranno previsti percorsi metabolici per composti poco conosciuti ma con una struttura chimica ben definita; tali percorsi saranno mappati su quelli già noti, fornendo indicazioni sugli enzimi mancanti.</p>
-        <p>Verranno proposte diverse opzioni per ciascuno di essi, ordinate in base alla compatibilità con l'organismo chassis</p>
-    </section>
+    <div class="features-grid">
+        <div class="feature-card">
+            <div class="feature-icon">
+                <i class="fas fa-dna"></i>
+            </div>
+            <h3 class="feature-title">Task1 </h3>
+            <p class="feature-description">...</p>
+        </div>
+        <div class="feature-card">
+            <div class="feature-icon">
+                <i class="fas fa-chart-line"></i>
+            </div>
+            <h3 class="feature-title">Task2</h3>
+            <p class="feature-description">...</p>
+        </div>
+    </div>
+
+    <div class="info-section" id="about">
+        <h2>About Our Platform</h2>
+        <p>...</p>
+        <p>-..</p>
+        <p>...</p>
+    </div>
 </main>
 {% endblock %}
+
+
+
+
+
+
+
+
