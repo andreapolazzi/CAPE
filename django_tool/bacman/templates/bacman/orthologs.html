@@ -13,159 +13,6 @@
 {% endblock %}
 
 {% block content %}
-    <!-- Description Section -->
-    <div class="description-section">
-        <h2>Orthologs Analysis Results</h2>
-        <p>
-            <strong>C'E' DA CAMBIARLA</strong> The system has identified the most probable degradation pathways for <strong>{{ pollutant }}</strong> 
-            leading to <strong>{{ sink }}</strong>. These pathways represent potential biochemical routes 
-            that could be engineered or optimized for environmental remediation purposes.
-        </p>
-        <p>
-            Please review the three best pathways found below and select the one you wish to proceed with 
-            for ortholog analysis. Each pathway shows the enzymatic steps and intermediate compounds involved 
-            in the transformation process. You can find a legend that ...
-        </p>
-    </div>
-
-    <!--Filters section-->
-    <div class="controls-section">
-        <div class="filter-controls">
-            <select id="length-filter" class="filter-select">
-                <option value="">All Lengths</option>
-                <option value="short">Short (&lt; 200 aa)</option>
-                <option value="medium">Medium (200-500 aa)</option>
-                <option value="long">Long (&gt; 500 aa)</option>
-            </select>
-        </div>
-    </div>
-
-    <!-- Enzyme grid-->
-    <form method="POST" action="{% url 'summary' %}" id="enzyme-form">
-        {% csrf_token %}
-
-        <div class="enzyme-grid" id="enzyme-container">
-            {% for ec in results %}
-                <div class="enzyme-card" data-ec="{{ ec.ec_number }}">
-                    <div class="enzyme-header">
-                        <div class="ec-info">
-                            <h3 class="ec-number">EC {{ ec.ec_number }}</h3>
-                            <div class="ec-badge">
-                                {% if ec.data %}
-                                    {{ ec.data|length }} sequence{{ ec.data|length|pluralize }}
-                                {% else %}
-                                    No sequences
-                                {% endif %}
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="enzyme-summary">
-                        <p>{{ ec.summary|default:"No summary available for this enzyme code." }}</p>
-                    </div>
-
-                    {% if ec.data %}
-                        <div class="sequences-container">
-                            <div class="table-wrapper">
-                                <table class="sequences-table">
-                                    <thead>
-                                        <tr>
-                                            <th class="checkbox-col">
-                                                <input type="checkbox" class="ec-master-checkbox" data-ec="{{ ec.ec_number }}" onchange="toggleECCheckboxes(this)">
-                                            </th>
-                                            <th>Organism</th>
-                                            <th>Header</th>
-                                            <th class="sequence-col">Sequence Preview</th>
-                                            <th class="length-col">Length</th>
-                                            <th class="actions-col">Actions</th>
-                                        </tr>
-                                    </thead>
-                                    <tbody>
-                                        {% for row in ec.data %}
-                                            <tr class="sequence-row" data-organism="{{ row.organism|lower }}" data-header="{{ row.header|lower }}" data-length="{{ row.length }}">
-                                                <td class="checkbox-col">
-                                                    <input type="checkbox"
-                                                           name="selections"
-                                                           value="{{ ec.ec_number }}||{{ row.organism }}||{{ row.header }}||{{ row.sequence }}||{{ row.length }}"
-                                                           class="sequence-checkbox"
-                                                           data-ec="{{ ec.ec_number }}"
-                                                           onchange="updateSelectionCount()">
-                                                </td>
-                                                <td class="organism-col">
-                                                    <span class="organism-name">{{ row.organism }}</span>
-                                                </td>
-                                                <td class="header-col">
-                                                    <span class="header-text" title="{{ row.header }}">
-                                                         {{ row.header|truncatechars:50 }}
-                                                    </span>
-                                                </td>
-                                                <td class="sequence-col">
-                                                    <div class="sequence-preview">
-                                                        <span class="sequence-text">{{ row.sequence|truncatechars:30 }}</span>
-                                                        <button type="button" class="view-sequence-btn" onclick="showSequence('{{ row.sequence|escapejs }}', '{{ row.header|escapejs }}')">
-                                                             View Full
-                                                        </button>
-                                                    </div>
-                                                </td>
-                                                <td class="length-col">
-                                                    <span class="length-badge {% if row.length < 200 %}short{% elif row.length > 500 %}long{% else %}medium{% endif %}">
-                                                         {{ row.length }} aa
-                                                    </span>
-                                                </td>
-                                                <td class="actions-col">
-                                                    <button type="button" class="action-btn" onclick="showSequenceDetails('{{ ec.ec_number }}', '{{ row.organism|escapejs }}', '{{ row.header|escapejs }}')">
-                                                         Details
-                                                    </button>
-                                                </td>
-                                            </tr>
-                                        {% endfor %}
-                                    </tbody>
-                                </table>
-                            </div>
-                        </div>
-                    {% else %}
-                        <div class="no-sequences">
-                            <div class="no-sequences-icon">🔬</div>
-                            <p>No sequences found for EC {{ ec.ec_number }}</p>
-                            <small>This enzyme code may not have available sequence data in our database.</small>
-                        </div>
-                    {% endif %}
-                </div>
-            {% endfor %}
-        </div>
-
-        <!-- Submit Section -->
-        <div class="submit-section">
-            <div class="submit-info">
-                <p>Selected <span id="final-count">0</span> sequences for analysis</p>
-            </div>
-            <button type="submit" class="submit-btn" id="continue-btn" disabled>
-                <span>Continue Analysis</span>
-                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
-                    <path d="M5 12h14M12 5l7 7-7 7"/>
-                </svg>
-            </button>
-        </div>
-    </form>
-</div>
-
-<!-- Sequence Modal -->
-<div id="sequence-modal" class="modal">
-    <div class="modal-content">
-        <div class="modal-header">
-            <h3 id="modal-title">Sequence Details</h3>
-            <button type="button" class="modal-close" onclick="closeModal()">&times;</button>
-        </div>
-        <div class="modal-body">
-            <textarea id="modal-sequence" readonly></textarea>
-        </div>
-        <div class="modal-footer">
-            <button type="button" class="modal-btn secondary" onclick="copySequence()">Copy Sequence</button>
-            <button type="button" class="modal-btn" onclick="closeModal()">Close</button>
-        </div>
-    </div>
-</div>
-
 <style>
     /* Description Section */
     .description-section {
@@ -623,20 +470,33 @@ document.addEventListener('DOMContentLoaded', function() {
 });
 
 // Selection functions
+function toggleECCheckboxes(masterCheckbox) {
+    const ecNumber = masterCheckbox.dataset.ec;
+    const checkboxes = document.querySelectorAll(`input[data-ec="${ecNumber}"][name="selections"]`);
+
+    checkboxes.forEach(cb => {
+        // Only select/deselect visible checkboxes
+        if (cb.closest('.sequence-row').style.display !== 'none') {
+            cb.checked = masterCheckbox.checked;
+        }
+    });
+
+    updateSelectionCount();
+}
+
 function updateSelectionCount() {
-    // Count the number of selected radio buttons
-    const checkedRadios = document.querySelectorAll('input[type="radio"]:checked');
-    selectedCount = checkedRadios.length;
+    const checkedBoxes = document.querySelectorAll('input[name="selections"]:checked');
+    selectedCount = checkedBoxes.length;
 
     document.getElementById('final-count').textContent = selectedCount;
 
     const submitBtn = document.getElementById('continue-btn');
     submitBtn.disabled = selectedCount === 0;
-    
+
     // Update row highlighting
     document.querySelectorAll('.sequence-row').forEach(row => {
-        const radio = row.querySelector('input[type="radio"]');
-        if (radio && radio.checked) {
+        const checkbox = row.querySelector('input[name="selections"]');
+        if (checkbox && checkbox.checked) {
             row.classList.add('selected');
         } else {
             row.classList.remove('selected');
@@ -652,12 +512,12 @@ function initializeFilters() {
 
 function applyFilters() {
     const lengthFilter = document.getElementById('length-filter').value;
-    
+
     document.querySelectorAll('.sequence-row').forEach(row => {
         const length = parseInt(row.dataset.length);
-        
+
         let showRow = true;
-        
+
         // Length filter
         if (lengthFilter) {
             switch(lengthFilter) {
@@ -672,10 +532,10 @@ function applyFilters() {
                     break;
             }
         }
-        
+
         row.style.display = showRow ? '' : 'none';
     });
-    
+
     // After filtering, update the count and master checkboxes
     updateSelectionCount();
     updateECMasterCheckboxes();
@@ -715,7 +575,7 @@ function copySequence() {
     const textarea = document.getElementById('modal-sequence');
     textarea.select();
     document.execCommand('copy');
-    
+
     const btn = event.target;
     const originalText = btn.textContent;
     btn.textContent = 'Copied!';
@@ -734,3 +594,604 @@ window.addEventListener('click', function(event) {
 </script>
 
 {% endblock %}
+
+
+{% block content %}
+    <!-- Description Section -->
+    <div class="description-section">
+        <h2>Orthologs Analysis Results</h2>
+        <p>
+            <strong>C'E' DA CAMBIARLA</strong> The system has identified the most probable degradation pathways for <strong>{{ pollutant }}</strong> 
+            leading to <strong>{{ sink }}</strong>. These pathways represent potential biochemical routes 
+            that could be engineered or optimized for environmental remediation purposes.
+        </p>
+        <p>
+            Please review the three best pathways found below and select the one you wish to proceed with 
+            for ortholog analysis. Each pathway shows the enzymatic steps and intermediate compounds involved 
+            in the transformation process. You can find a legend that ...
+        </p>
+    </div>
+
+    <!--Filters section-->
+    <div class="controls-section">
+        <div class="filter-controls">
+            <select id="length-filter" class="filter-select">
+                <option value="">All Lengths</option>
+                <option value="short">Short (&lt; 200 aa)</option>
+                <option value="medium">Medium (200-500 aa)</option>
+                <option value="long">Long (&gt; 500 aa)</option>
+            </select>
+        </div>
+    </div>
+
+    <!-- Enzyme Form -->
+    <form method="POST" action="{% url 'summary' %}" id="enzyme-form">
+        {% csrf_token %}
+
+        <div class="enzyme-grid" id="enzyme-container">
+            {% for ec in results %}
+                <div class="enzyme-card" data-ec="{{ ec.ec_number }}">
+                    <div class="enzyme-header">
+                        <div class="ec-info">
+                            <h3 class="ec-number">EC {{ ec.ec_number }}</h3>
+                            <div class="ec-badge">
+                                {% if ec.data %}
+                                    {{ ec.data|length }} sequence{{ ec.data|length|pluralize }}
+                                {% else %}
+                                    No sequences
+                                {% endif %}
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="enzyme-summary">
+                        <p>{{ ec.summary|default:"No summary available for this enzyme code." }}</p>
+                    </div>
+
+                    {% if ec.data %}
+                        <div class="sequences-container">
+                            <div class="table-wrapper">
+                                <table class="sequences-table">
+                                    <thead>
+                                        <tr>
+                                            <th class="checkbox-col">
+                                                <input type="checkbox" class="ec-master-checkbox" data-ec="{{ ec.ec_number }}" onchange="toggleECCheckboxes(this)">
+                                            </th>
+                                            <th>Organism</th>
+                                            <th>Header</th>
+                                            <th class="sequence-col">Sequence Preview</th>
+                                            <th class="length-col">Length</th>
+                                            <th class="actions-col">Actions</th>
+                                        </tr>
+                                    </thead>
+                                    <tbody>
+                                        {% for row in ec.data %}
+                                            <tr class="sequence-row" data-organism="{{ row.organism|lower }}" data-header="{{ row.header|lower }}" data-length="{{ row.length }}">
+                                                <td class="checkbox-col">
+                                                    <input type="checkbox"
+                                                           name="selections"
+                                                           value="{{ ec.ec_number }}||{{ row.organism }}||{{ row.header }}||{{ row.sequence }}||{{ row.length }}"
+                                                           class="sequence-checkbox"
+                                                           data-ec="{{ ec.ec_number }}"
+                                                           onchange="updateSelectionCount()">
+                                                </td>
+                                                <td class="organism-col">
+                                                    <span class="organism-name">{{ row.organism }}</span>
+                                                </td>
+                                                <td class="header-col">
+                                                    <span class="header-text" title="{{ row.header }}">
+                                                         {{ row.header|truncatechars:50 }}
+                                                    </span>
+                                                </td>
+                                                <td class="sequence-col">
+                                                    <div class="sequence-preview">
+                                                        <span class="sequence-text">{{ row.sequence|truncatechars:30 }}</span>
+                                                        <button type="button" class="view-sequence-btn" onclick="showSequence('{{ row.sequence|escapejs }}', '{{ row.header|escapejs }}')">
+                                                             View Full
+                                                        </button>
+                                                    </div>
+                                                </td>
+                                                <td class="length-col">
+                                                    <span class="length-badge {% if row.length < 200 %}short{% elif row.length > 500 %}long{% else %}medium{% endif %}">
+                                                         {{ row.length }} aa
+                                                    </span>
+                                                </td>
+                                                <td class="actions-col">
+                                                    <button type="button" class="action-btn" onclick="showSequenceDetails('{{ ec.ec_number }}', '{{ row.organism|escapejs }}', '{{ row.header|escapejs }}')">
+                                                         Details
+                                                    </button>
+                                                </td>
+                                            </tr>
+                                        {% endfor %}
+                                    </tbody>
+                                </table>
+                            </div>
+                        </div>
+                    {% else %}
+                        <div class="no-sequences">
+                            <div class="no-sequences-icon">🔬</div>
+                            <p>No sequences found for EC {{ ec.ec_number }}</p>
+                            <small>This enzyme code may not have available sequence data in our database.</small>
+                        </div>
+                    {% endif %}
+                </div>
+            {% endfor %}
+        </div>
+
+        <!-- Submit Section -->
+        <div class="submit-section">
+            <div class="submit-info">
+                <p>Selected <span id="final-count">0</span> sequences for analysis</p>
+            </div>
+            <button type="submit" class="submit-btn" id="continue-btn" disabled>
+                <span>Continue Analysis</span>
+                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                    <path d="M5 12h14M12 5l7 7-7 7"/>
+                </svg>
+            </button>
+        </div>
+    </form>
+
+<!-- Sequence Modal -->
+<div id="sequence-modal" class="modal">
+    <div class="modal-content">
+        <div class="modal-header">
+            <h3 id="modal-title">Sequence Details</h3>
+            <button type="button" class="modal-close" onclick="closeModal()">&times;</button>
+        </div>
+        <div class="modal-body">
+            <textarea id="modal-sequence" readonly></textarea>
+        </div>
+        <div class="modal-footer">
+            <button type="button" class="modal-btn secondary" onclick="copySequence()">Copy Sequence</button>
+            <button type="button" class="modal-btn" onclick="closeModal()">Close</button>
+        </div>
+    </div>
+</div>
+
+<style>
+    /* Description Section */
+    .description-section {
+        background: linear-gradient(135deg, #f2f7ff, var(--light-purple));
+        border-left: 4px solid var(--primary-purple);
+        padding: 30px;
+        margin: 15px;
+        margin-bottom: 50px;
+        border-radius: 8px;
+        position: relative;
+    }
+
+    .description-section::before {
+        content: '\f05a';
+        font-family: 'Font Awesome 6 Free';
+        font-weight: 900;
+        position: absolute;
+        top: 30px;
+        left: -15px;
+        background: var(--primary-purple);
+        color: var(--white);
+        width: 30px;
+        height: 30px;
+        border-radius: 50%;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        font-size: 14px;
+    }
+
+    .description-section h2 {
+        color: var(--primary-purple);
+        margin-bottom: 16px;
+        font-size: 1.5em;
+    }
+
+    .description p {
+        color: var(--text-dark);
+        line-height: 1.7;
+        font-size: 1.1rem;
+        margin: 0;
+    }
+
+    /* Controls Section */
+    .controls-section {
+        display: flex;
+        justify-content: flex-end;
+        align-items: center;
+        margin-bottom: 30px;
+        padding: 20px;
+        background: #f8f9fa;
+        border-radius: 12px;
+    }
+
+    .filter-controls {
+        display: flex;
+        gap: 10px;
+    }
+
+    .filter-select {
+        padding: 8px 12px;
+        border: 2px solid #dee2e6;
+        border-radius: 6px;
+        font-size: 0.9rem;
+        transition: border-color 0.3s ease;
+    }
+
+    .filter-select:focus {
+        outline: none;
+        border-color: var(--primary-purple);
+    }
+
+    /* Enzyme Grid */
+    .enzyme-grid {
+        display: flex;
+        flex-direction: column;
+        gap: 25px;
+    }
+
+    .enzyme-card {
+        background: white;
+        border-radius: 12px;
+        box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+        overflow: hidden;
+        transition: all 0.3s ease;
+    }
+
+    .enzyme-card:hover {
+        box-shadow: 0 8px 25px rgba(0,0,0,0.15);
+        transform: translateY(-2px);
+    }
+
+    .enzyme-header {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        padding: 20px;
+        background: linear-gradient(135deg, #f8f9fa 0%, #e9ecef 100%);
+        border-bottom: 1px solid #dee2e6;
+    }
+
+    .ec-info {
+        display: flex;
+        align-items: center;
+        gap: 15px;
+    }
+
+    .ec-number {
+        margin: 0;
+        color: #2c3e50;
+        font-size: 1.4rem;
+    }
+
+    .ec-badge {
+        background: var(--gradient-bg);
+        color: white;
+        padding: 4px 12px;
+        border-radius: 20px;
+        font-size: 0.8rem;
+        font-weight: 500;
+    }
+
+    .enzyme-summary {
+        padding: 15px 20px;
+        border-bottom: 1px solid #dee2e6;
+        background: #fafafa;
+    }
+
+    .enzyme-summary p {
+        margin: 0;
+        color: #495057;
+        line-height: 1.5;
+    }
+
+    /* Sequences Container */
+    .sequences-container {
+        padding: 20px;
+    }
+
+    .table-wrapper {
+        overflow-x: auto;
+        border-radius: 8px;
+        border: 1px solid #dee2e6;
+    }
+
+    .sequences-table {
+        width: 100%;
+        border-collapse: collapse;
+        font-size: 0.9rem;
+    }
+
+    .sequences-table th {
+        background: #f8f9fa;
+        padding: 12px 8px;
+        text-align: left;
+        font-weight: 600;
+        color: #495057;
+        border-bottom: 2px solid #dee2e6;
+        position: sticky;
+        top: 0;
+    }
+
+    .sequences-table td {
+        padding: 12px 8px;
+        border-bottom: 1px solid #dee2e6;
+        vertical-align: middle;
+    }
+
+    .sequence-row:hover {
+        background: #f8f9fa;
+    }
+
+    .sequence-row.selected {
+        background: #e3f2fd;
+    }
+
+    /* Column Specific Styles */
+    .checkbox-col {
+        width: 40px;
+        text-align: center;
+    }
+
+    .organism-col {
+        min-width: 120px;
+    }
+
+    .organism-name {
+        font-weight: 500;
+        color: #2c3e50;
+    }
+
+    .header-col {
+        min-width: 200px;
+    }
+
+    .header-text {
+        display: block;
+        color: #495057;
+    }
+
+    .sequence-col {
+        min-width: 200px;
+    }
+
+    .sequence-preview {
+        display: flex;
+        align-items: center;
+        gap: 10px;
+    }
+
+    .sequence-text {
+        font-family: 'Courier New', monospace;
+        background: #f1f3f4;
+        padding: 2px 6px;
+        border-radius: 4px;
+        font-size: 0.8rem;
+    }
+
+    .view-sequence-btn {
+        background: #17a2b8;
+        color: white;
+        border: none;
+        padding: 4px 8px;
+        border-radius: 4px;
+        font-size: 0.75rem;
+        cursor: pointer;
+        transition: background 0.3s ease;
+    }
+
+    .view-sequence-btn:hover {
+        background: #138496;
+    }
+
+    .length-col {
+        width: 100px;
+        text-align: center;
+    }
+
+    .length-badge {
+        padding: 4px 8px;
+        border-radius: 12px;
+        font-size: 0.75rem;
+        font-weight: 500;
+    }
+
+    .length-badge.short {
+        background: #d4edda;
+        color: #155724;
+    }
+
+    .length-badge.medium {
+        background: #fff3cd;
+        color: #856404;
+    }
+
+    .length-badge.long {
+        background: #f8d7da;
+        color: #721c24;
+    }
+
+    .actions-col {
+        width: 80px;
+        text-align: center;
+    }
+
+    .action-btn {
+        background: #6c757d;
+        color: white;
+        border: none;
+        padding: 4px 8px;
+        border-radius: 4px;
+        font-size: 0.75rem;
+        cursor: pointer;
+        transition: background 0.3s ease;
+    }
+
+    .action-btn:hover {
+        background: #545b62;
+    }
+
+    /* No Sequences */
+    .no-sequences {
+        padding: 40px 20px;
+        text-align: center;
+        color: #6c757d;
+    }
+
+    .no-sequences-icon {
+        font-size: 3rem;
+        margin-bottom: 15px;
+        opacity: 0.6;
+    }
+
+    /* Submit Section */
+    .submit-section {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        margin-top: 40px;
+        padding: 25px;
+        background: linear-gradient(135deg, #f8f9fa 0%, #e9ecef 100%);
+        border-radius: 12px;
+    }
+
+    .submit-info p {
+        margin: 0;
+        font-size: 1.1rem;
+        color: #495057;
+        font-weight: 500;
+    }
+
+    .submit-btn {
+        display: flex;
+        align-items: center;
+        gap: 10px;
+        padding: 12px 24px;
+        background: var(--gradient-bg);
+        color: white;
+        border: none;
+        border-radius: 8px;
+        font-size: 1.1rem;
+        font-weight: 600;
+        cursor: pointer;
+        transition: all 0.3s ease;
+        box-shadow: 0 2px 8px rgba(0,123,255,0.3);
+    }
+
+    .submit-btn:not(:disabled):hover {
+        background: var(--gradient-bg);
+        transform: translateY(-2px);
+        box-shadow: 0 4px 16px rgba(0,123,255,0.4);
+    }
+
+    .submit-btn:disabled {
+        opacity: 0.5;
+        cursor: not-allowed;
+        transform: none;
+    }
+
+    /* Modal Styles */
+    .modal {
+        display: none;
+        position: fixed;
+        z-index: 1000;
+        left: 0;
+        top: 0;
+        width: 100%;
+        height: 100%;
+        background: rgba(0,0,0,0.5);
+    }
+
+    .modal-content {
+        background: white;
+        margin: 5% auto;
+        width: 80%;
+        max-width: 800px;
+        border-radius: 12px;
+        box-shadow: 0 8px 32px rgba(0,0,0,0.3);
+    }
+
+    .modal-header {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        padding: 20px;
+        border-bottom: 1px solid #dee2e6;
+    }
+
+    .modal-header h3 {
+        margin: 0;
+        color: #2c3e50;
+    }
+
+    .modal-close {
+        background: none;
+        border: none;
+        font-size: 24px;
+        cursor: pointer;
+        color: #6c757d;
+    }
+
+    .modal-body {
+        padding: 20px;
+    }
+
+    .modal-body textarea {
+        width: 100%;
+        height: 300px;
+        border: 1px solid #dee2e6;
+        border-radius: 6px;
+        padding: 10px;
+        font-family: 'Courier New', monospace;
+        font-size: 0.9rem;
+        resize: vertical;
+    }
+
+    .modal-footer {
+        display: flex;
+        justify-content: flex-end;
+        gap: 10px;
+        padding: 20px;
+        border-top: 1px solid #dee2e6;
+    }
+
+    .modal-btn {
+        padding: 8px 16px;
+        border: none;
+        border-radius: 6px;
+        cursor: pointer;
+        font-size: 0.9rem;
+    }
+
+    .modal-btn {
+        background: var(--primary-purple);
+        color: white;
+    }
+
+    .modal-btn.secondary {
+        background: #6c757d;
+        color: white;
+    }
+
+    /* Responsive Design */
+    @media (max-width: 768px) {
+        .content-wrapper {
+            padding: 15px;
+        }
+
+        .controls-section {
+            flex-direction: column;
+            align-items: stretch;
+        }
+
+        .submit-section {
+            flex-direction: column;
+            gap: 15px;
+            text-align: center;
+        }
+    }
+
+    /* Hidden elements */
+    .hidden {
+        display: none !important;
+    }
+</style>
+
