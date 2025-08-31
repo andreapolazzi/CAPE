@@ -2,7 +2,7 @@ import os
 from .classes.classes_functions import MetabolicGraph
 from .classes.rp_classes import RP, RpGraph
 
-def main(start:str, end:str, inchi):
+def main(start:str, end:str, inchi_start, inchi_end):
     """ Get 3 shortest paths """
     # Check that Pathways folder exists or make one
     #PATHWAY_FOLDER = '/work/igem/iGEM/django_tool/bacman/algorithms/pathways/Pathways'
