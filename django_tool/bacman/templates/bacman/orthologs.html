@@ -70,7 +70,9 @@
                                 <table class="sequences-table">
                                     <thead>
                                         <tr>
-                                            <th class="radio-col">Select</th>
+                                            <th class="checkbox-col">
+                                                <input type="checkbox" class="ec-master-checkbox" data-ec="{{ ec.ec_number }}" onchange="toggleECCheckboxes(this)">
+                                            </th>
                                             <th>Organism</th>
                                             <th>Header</th>
                                             <th class="sequence-col">Sequence Preview</th>
@@ -81,11 +83,12 @@
                                     <tbody>
                                         {% for row in ec.data %}
                                             <tr class="sequence-row" data-organism="{{ row.organism|lower }}" data-header="{{ row.header|lower }}" data-length="{{ row.length }}">
-                                                <td class="radio-col">
-                                                    <input type="radio" 
-                                                           name="selections-{{ ec.ec_number }}"
-                                                           value="{{ row.header }}"
-                                                           class="sequence-radio"
+                                                <td class="checkbox-col">
+                                                    <input type="checkbox"
+                                                           name="selections"
+                                                           value="{{ ec.ec_number }}||{{ row.organism }}||{{ row.header }}||{{ row.sequence }}||{{ row.length }}"
+                                                           class="sequence-checkbox"
+                                                           data-ec="{{ ec.ec_number }}"
                                                            onchange="updateSelectionCount()">
                                                 </td>
                                                 <td class="organism-col">
@@ -340,7 +343,7 @@
     }
 
     /* Column Specific Styles */
-    .radio-col {
+    .checkbox-col {
         width: 40px;
         text-align: center;
     }
@@ -673,8 +676,24 @@ function applyFilters() {
         row.style.display = showRow ? '' : 'none';
     });
     
-    // After filtering, update the count
+    // After filtering, update the count and master checkboxes
     updateSelectionCount();
+    updateECMasterCheckboxes();
+}
+
+function updateECMasterCheckboxes() {
+    const masterCheckboxes = document.querySelectorAll('.ec-master-checkbox');
+
+    masterCheckboxes.forEach(masterCb => {
+        const ecNumber = masterCb.dataset.ec;
+        const relatedCheckboxes = document.querySelectorAll(`input[data-ec="${ecNumber}"][name="selections"]`);
+        const visibleCheckboxes = Array.from(relatedCheckboxes).filter(cb =>
+            cb.closest('.sequence-row').style.display !== 'none'
+        );
+        const checkedVisible = visibleCheckboxes.filter(cb => cb.checked);
+
+        masterCb.checked = visibleCheckboxes.length > 0 && checkedVisible.length === visibleCheckboxes.length;
+    });
 }
 
 // Modal functions
