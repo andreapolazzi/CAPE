@@ -13,590 +13,6 @@
 {% endblock %}
 
 {% block content %}
-<style>
-    /* Description Section */
-    .description-section {
-        background: linear-gradient(135deg, #f2f7ff, var(--light-purple));
-        border-left: 4px solid var(--primary-purple);
-        padding: 30px;
-        margin: 15px;
-        margin-bottom: 50px;
-        border-radius: 8px;
-        position: relative;
-    }
-
-    .description-section::before {
-        content: '\f05a';
-        font-family: 'Font Awesome 6 Free';
-        font-weight: 900;
-        position: absolute;
-        top: 30px;
-        left: -15px;
-        background: var(--primary-purple);
-        color: var(--white);
-        width: 30px;
-        height: 30px;
-        border-radius: 50%;
-        display: flex;
-        align-items: center;
-        justify-content: center;
-        font-size: 14px;
-    }
-
-    .description-section h2 {
-        color: var(--primary-purple);
-        margin-bottom: 16px;
-        font-size: 1.5em;
-    }
-
-    .description p {
-        color: var(--text-dark);
-        line-height: 1.7;
-        font-size: 1.1rem;
-        margin: 0;
-    }
-
-    /* Controls Section  */
-    .controls-section {
-        display: flex;
-        justify-content: flex-end;
-        align-items: center;
-        margin-bottom: 30px;
-        padding: 20px;
-        background: #f8f9fa;
-        border-radius: 12px;
-    }
-
-    .filter-controls {
-        display: flex;
-        gap: 10px;
-    }
-
-    .filter-select {
-        padding: 8px 12px;
-        border: 2px solid #dee2e6;
-        border-radius: 6px;
-        font-size: 0.9rem;
-        transition: border-color 0.3s ease;
-    }
-
-    .filter-select:focus {
-        outline: none;
-        border-color: #007bff;
-    }
-
-    /* Enzyme Grid */
-    .enzyme-grid {
-        display: flex;
-        flex-direction: column;
-        gap: 25px;
-    }
-
-    .enzyme-card {
-        background: white;
-        border-radius: 12px;
-        box-shadow: 0 4px 12px rgba(0,0,0,0.1);
-        overflow: hidden;
-        transition: all 0.3s ease;
-    }
-
-    .enzyme-card:hover {
-        box-shadow: 0 8px 25px rgba(0,0,0,0.15);
-        transform: translateY(-2px);
-    }
-
-    .enzyme-header {
-        display: flex;
-        justify-content: space-between;
-        align-items: center;
-        padding: 20px;
-        background: linear-gradient(135deg, #f8f9fa 0%, #e9ecef 100%);
-        border-bottom: 1px solid #dee2e6;
-    }
-
-    .ec-info {
-        display: flex;
-        align-items: center;
-        gap: 15px;
-    }
-
-    .ec-number {
-        margin: 0;
-        color: #2c3e50;
-        font-size: 1.4rem;
-    }
-
-    .ec-badge {
-        background: var(--primary-purple);
-        color: white;
-        padding: 4px 12px;
-        border-radius: 20px;
-        font-size: 0.8rem;
-        font-weight: 500;
-    }
-
-    .enzyme-summary {
-        padding: 15px 20px;
-        border-bottom: 1px solid #dee2e6;
-        background: #fafafa;
-    }
-
-    .enzyme-summary p {
-        margin: 0;
-        color: #495057;
-        line-height: 1.5;
-    }
-
-    /* Sequences Container */
-    .sequences-container {
-        padding: 20px;
-    }
-
-    .table-wrapper {
-        overflow-x: auto;
-        border-radius: 8px;
-        border: 1px solid #dee2e6;
-    }
-
-    .sequences-table {
-        width: 100%;
-        border-collapse: collapse;
-        font-size: 0.9rem;
-    }
-
-    .sequences-table th {
-        background: #f8f9fa;
-        padding: 12px 8px;
-        text-align: left;
-        font-weight: 600;
-        color: #495057;
-        border-bottom: 2px solid #dee2e6;
-        position: sticky;
-        top: 0;
-    }
-
-    .sequences-table td {
-        padding: 12px 8px;
-        border-bottom: 1px solid #dee2e6;
-        vertical-align: middle;
-    }
-
-    .sequence-row:hover {
-        background: #f8f9fa;
-    }
-
-    .sequence-row.selected {
-        background: #e3f2fd;
-    }
-
-    /* Column Specific Styles */
-    .checkbox-col {
-        width: 40px;
-        text-align: center;
-    }
-
-    .organism-col {
-        min-width: 120px;
-    }
-
-    .organism-name {
-        font-weight: 500;
-        color: #2c3e50;
-    }
-
-    .header-col {
-        min-width: 200px;
-    }
-
-    .header-text {
-        display: block;
-        color: #495057;
-    }
-
-    .sequence-col {
-        min-width: 200px;
-    }
-
-    .sequence-preview {
-        display: flex;
-        align-items: center;
-        gap: 10px;
-    }
-
-    .sequence-text {
-        font-family: 'Courier New', monospace;
-        background: #f1f3f4;
-        padding: 2px 6px;
-        border-radius: 4px;
-        font-size: 0.8rem;
-    }
-
-    .view-sequence-btn {
-        background: var(--light-purple);
-        color: white;
-        border: none;
-        padding: 4px 8px;
-        border-radius: 4px;
-        font-size: 0.75rem;
-        cursor: pointer;
-        transition: background 0.3s ease;
-    }
-
-    .view-sequence-btn:hover {
-        background: var(--primary-purple);
-    }
-
-    .length-col {
-        width: 100px;
-        text-align: center;
-    }
-
-    .length-badge {
-        padding: 4px 8px;
-        border-radius: 12px;
-        font-size: 0.75rem;
-        font-weight: 500;
-    }
-
-    .length-badge.short {
-        background: #d4edda;
-        color: #155724;
-    }
-
-    .length-badge.medium {
-        background: #fff3cd;
-        color: #856404;
-    }
-
-    .length-badge.long {
-        background: #f8d7da;
-        color: #721c24;
-    }
-
-    .actions-col {
-        width: 80px;
-        text-align: center;
-    }
-
-    .action-btn {
-        background: #6c757d;
-        color: white;
-        border: none;
-        padding: 4px 8px;
-        border-radius: 4px;
-        font-size: 0.75rem;
-        cursor: pointer;
-        transition: background 0.3s ease;
-    }
-
-    .action-btn:hover {
-        background: #545b62;
-    }
-
-    /* No Sequences */
-    .no-sequences {
-        padding: 40px 20px;
-        text-align: center;
-        color: #6c757d;
-    }
-
-    .no-sequences-icon {
-        font-size: 3rem;
-        margin-bottom: 15px;
-        opacity: 0.6;
-    }
-
-    /* Submit Section */
-    .submit-section {
-        display: flex;
-        justify-content: space-between;
-        align-items: center;
-        margin-top: 40px;
-        padding: 25px;
-        background: linear-gradient(135deg, #f8f9fa 0%, #e9ecef 100%);
-        border-radius: 12px;
-    }
-
-    .submit-info p {
-        margin: 0;
-        font-size: 1.1rem;
-        color: #495057;
-        font-weight: 500;
-    }
-
-    .submit-btn {
-        display: flex;
-        align-items: center;
-        gap: 10px;
-        padding: 12px 24px;
-        background: var(--gradient-bg);
-        color: white;
-        border: none;
-        border-radius: 8px;
-        font-size: 1.1rem;
-        font-weight: 600;
-        cursor: pointer;
-        transition: all 0.3s ease;
-        box-shadow: 0 2px 8px rgba(0,123,255,0.3);
-    }
-
-    .submit-btn:not(:disabled):hover {
-        background: var(--gradient-bg);
-        transform: translateY(-2px);
-        box-shadow: 0 4px 16px rgba(0,123,255,0.4);
-    }
-
-    .submit-btn:disabled {
-        opacity: 0.5;
-        cursor: not-allowed;
-        transform: none;
-    }
-
-    /* Modal Styles */
-    .modal {
-        display: none;
-        position: fixed;
-        z-index: 1000;
-        left: 0;
-        top: 0;
-        width: 100%;
-        height: 100%;
-        background: rgba(0,0,0,0.5);
-    }
-
-    .modal-content {
-        background: white;
-        margin: 5% auto;
-        width: 80%;
-        max-width: 800px;
-        border-radius: 12px;
-        box-shadow: 0 8px 32px rgba(0,0,0,0.3);
-    }
-
-    .modal-header {
-        display: flex;
-        justify-content: space-between;
-        align-items: center;
-        padding: 20px;
-        border-bottom: 1px solid #dee2e6;
-    }
-
-    .modal-header h3 {
-        margin: 0;
-        color: #2c3e50;
-    }
-
-    .modal-close {
-        background: none;
-        border: none;
-        font-size: 24px;
-        cursor: pointer;
-        color: #6c757d;
-    }
-
-    .modal-body {
-        padding: 20px;
-    }
-
-    .modal-body textarea {
-        width: 100%;
-        height: 300px;
-        border: 1px solid #dee2e6;
-        border-radius: 6px;
-        padding: 10px;
-        font-family: 'Courier New', monospace;
-        font-size: 0.9rem;
-        resize: vertical;
-    }
-
-    .modal-footer {
-        display: flex;
-        justify-content: flex-end;
-        gap: 10px;
-        padding: 20px;
-        border-top: 1px solid #dee2e6;
-    }
-
-    .modal-btn {
-        padding: 8px 16px;
-        border: none;
-        border-radius: 6px;
-        cursor: pointer;
-        font-size: 0.9rem;
-    }
-
-    .modal-btn {
-        background: #007bff;
-        color: white;
-    }
-
-    .modal-btn.secondary {
-        background: #6c757d;
-        color: white;
-    }
-
-    /* Responsive Design */
-    @media (max-width: 768px) {
-        .content-wrapper {
-            padding: 15px;
-        }
-
-        .controls-section {
-            flex-direction: column;
-            align-items: stretch;
-        }
-
-        .submit-section {
-            flex-direction: column;
-            gap: 15px;
-            text-align: center;
-        }
-    }
-
-    /* Hidden elements */
-    .hidden {
-        display: none !important;
-    }
-</style>
-
-<script>
-// Global variables
-let selectedCount = 0;
-
-// Initialize page
-document.addEventListener('DOMContentLoaded', function() {
-    updateSelectionCount();
-    initializeFilters();
-});
-
-// Selection functions
-function toggleECCheckboxes(masterCheckbox) {
-    const ecNumber = masterCheckbox.dataset.ec;
-    const checkboxes = document.querySelectorAll(`input[data-ec="${ecNumber}"][name="selections"]`);
-
-    checkboxes.forEach(cb => {
-        // Only select/deselect visible checkboxes
-        if (cb.closest('.sequence-row').style.display !== 'none') {
-            cb.checked = masterCheckbox.checked;
-        }
-    });
-
-    updateSelectionCount();
-}
-
-function updateSelectionCount() {
-    const checkedBoxes = document.querySelectorAll('input[name="selections"]:checked');
-    selectedCount = checkedBoxes.length;
-
-    document.getElementById('final-count').textContent = selectedCount;
-
-    const submitBtn = document.getElementById('continue-btn');
-    submitBtn.disabled = selectedCount === 0;
-
-    // Update row highlighting
-    document.querySelectorAll('.sequence-row').forEach(row => {
-        const checkbox = row.querySelector('input[name="selections"]');
-        if (checkbox && checkbox.checked) {
-            row.classList.add('selected');
-        } else {
-            row.classList.remove('selected');
-        }
-    });
-}
-
-// Filter functions
-function initializeFilters() {
-    const lengthFilter = document.getElementById('length-filter');
-    lengthFilter.addEventListener('change', applyFilters);
-}
-
-function applyFilters() {
-    const lengthFilter = document.getElementById('length-filter').value;
-
-    document.querySelectorAll('.sequence-row').forEach(row => {
-        const length = parseInt(row.dataset.length);
-
-        let showRow = true;
-
-        // Length filter
-        if (lengthFilter) {
-            switch(lengthFilter) {
-                case 'short':
-                    if (length >= 200) showRow = false;
-                    break;
-                case 'medium':
-                    if (length < 200 || length > 500) showRow = false;
-                    break;
-                case 'long':
-                    if (length <= 500) showRow = false;
-                    break;
-            }
-        }
-
-        row.style.display = showRow ? '' : 'none';
-    });
-
-    // After filtering, update the count and master checkboxes
-    updateSelectionCount();
-    updateECMasterCheckboxes();
-}
-
-function updateECMasterCheckboxes() {
-    const masterCheckboxes = document.querySelectorAll('.ec-master-checkbox');
-
-    masterCheckboxes.forEach(masterCb => {
-        const ecNumber = masterCb.dataset.ec;
-        const relatedCheckboxes = document.querySelectorAll(`input[data-ec="${ecNumber}"][name="selections"]`);
-        const visibleCheckboxes = Array.from(relatedCheckboxes).filter(cb =>
-            cb.closest('.sequence-row').style.display !== 'none'
-        );
-        const checkedVisible = visibleCheckboxes.filter(cb => cb.checked);
-
-        masterCb.checked = visibleCheckboxes.length > 0 && checkedVisible.length === visibleCheckboxes.length;
-    });
-}
-
-// Modal functions
-function showSequence(sequence, header) {
-    document.getElementById('modal-title').textContent = header;
-    document.getElementById('modal-sequence').value = sequence;
-    document.getElementById('sequence-modal').style.display = 'block';
-}
-
-function showSequenceDetails(ecNumber, organism, header) {
-    alert(`Details for:\nEC: ${ecNumber}\nOrganism: ${organism}\nHeader: ${header}`);
-}
-
-function closeModal() {
-    document.getElementById('sequence-modal').style.display = 'none';
-}
-
-function copySequence() {
-    const textarea = document.getElementById('modal-sequence');
-    textarea.select();
-    document.execCommand('copy');
-
-    const btn = event.target;
-    const originalText = btn.textContent;
-    btn.textContent = 'Copied!';
-    setTimeout(() => {
-        btn.textContent = originalText;
-    }, 2000);
-}
-
-// Close modal when clicking outside
-window.addEventListener('click', function(event) {
-    const modal = document.getElementById('sequence-modal');
-    if (event.target === modal) {
-        closeModal();
-    }
-});
-</script>
-
-{% endblock %}
-
-
-{% block content %}
     <!-- Description Section -->
     <div class="description-section">
         <h2>Orthologs Analysis Results</h2>
@@ -1195,3 +611,138 @@ window.addEventListener('click', function(event) {
     }
 </style>
 
+<script>
+// Global variables
+let selectedCount = 0;
+
+// Initialize page
+document.addEventListener('DOMContentLoaded', function() {
+    updateSelectionCount();
+    initializeFilters();
+});
+
+// Selection functions
+function toggleECCheckboxes(masterCheckbox) {
+    const ecNumber = masterCheckbox.dataset.ec;
+    const checkboxes = document.querySelectorAll(`input[data-ec="${ecNumber}"][name="selections"]`);
+
+    checkboxes.forEach(cb => {
+        // Only select/deselect visible checkboxes
+        if (cb.closest('.sequence-row').style.display !== 'none') {
+            cb.checked = masterCheckbox.checked;
+        }
+    });
+
+    updateSelectionCount();
+}
+
+function updateSelectionCount() {
+    const checkedBoxes = document.querySelectorAll('input[name="selections"]:checked');
+    selectedCount = checkedBoxes.length;
+
+    document.getElementById('final-count').textContent = selectedCount;
+
+    const submitBtn = document.getElementById('continue-btn');
+    submitBtn.disabled = selectedCount === 0;
+
+    // Update row highlighting
+    document.querySelectorAll('.sequence-row').forEach(row => {
+        const checkbox = row.querySelector('input[name="selections"]');
+        if (checkbox && checkbox.checked) {
+            row.classList.add('selected');
+        } else {
+            row.classList.remove('selected');
+        }
+    });
+}
+
+// Filter functions
+function initializeFilters() {
+    const lengthFilter = document.getElementById('length-filter');
+    lengthFilter.addEventListener('change', applyFilters);
+}
+
+function applyFilters() {
+    const lengthFilter = document.getElementById('length-filter').value;
+
+    document.querySelectorAll('.sequence-row').forEach(row => {
+        const length = parseInt(row.dataset.length);
+
+        let showRow = true;
+
+        // Length filter
+        if (lengthFilter) {
+            switch(lengthFilter) {
+                case 'short':
+                    if (length >= 200) showRow = false;
+                    break;
+                case 'medium':
+                    if (length < 200 || length > 500) showRow = false;
+                    break;
+                case 'long':
+                    if (length <= 500) showRow = false;
+                    break;
+            }
+        }
+
+        row.style.display = showRow ? '' : 'none';
+    });
+
+    // After filtering, update the count and master checkboxes
+    updateSelectionCount();
+    updateECMasterCheckboxes();
+}
+
+function updateECMasterCheckboxes() {
+    const masterCheckboxes = document.querySelectorAll('.ec-master-checkbox');
+
+    masterCheckboxes.forEach(masterCb => {
+        const ecNumber = masterCb.dataset.ec;
+        const relatedCheckboxes = document.querySelectorAll(`input[data-ec="${ecNumber}"][name="selections"]`);
+        const visibleCheckboxes = Array.from(relatedCheckboxes).filter(cb =>
+            cb.closest('.sequence-row').style.display !== 'none'
+        );
+        const checkedVisible = visibleCheckboxes.filter(cb => cb.checked);
+
+        masterCb.checked = visibleCheckboxes.length > 0 && checkedVisible.length === visibleCheckboxes.length;
+    });
+}
+
+// Modal functions
+function showSequence(sequence, header) {
+    document.getElementById('modal-title').textContent = header;
+    document.getElementById('modal-sequence').value = sequence;
+    document.getElementById('sequence-modal').style.display = 'block';
+}
+
+function showSequenceDetails(ecNumber, organism, header) {
+    alert(`Details for:\nEC: ${ecNumber}\nOrganism: ${organism}\nHeader: ${header}`);
+}
+
+function closeModal() {
+    document.getElementById('sequence-modal').style.display = 'none';
+}
+
+function copySequence() {
+    const textarea = document.getElementById('modal-sequence');
+    textarea.select();
+    document.execCommand('copy');
+
+    const btn = event.target;
+    const originalText = btn.textContent;
+    btn.textContent = 'Copied!';
+    setTimeout(() => {
+        btn.textContent = originalText;
+    }, 2000);
+}
+
+// Close modal when clicking outside
+window.addEventListener('click', function(event) {
+    const modal = document.getElementById('sequence-modal');
+    if (event.target === modal) {
+        closeModal();
+    }
+});
+</script>
+
+{% endblock %}
