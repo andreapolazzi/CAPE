@@ -7,6 +7,7 @@ from multiprocessing import Pool
 import functools
 
 import pandas as pd
+import csv
 
 # Classes for chemical standardization
 
@@ -21,6 +22,8 @@ class Std():
         """
         Standardize molecule to KEGG-like representation.
         """
+        RDLogger.DisableLog('rdApp.*')  # Disable RDKit warnings
+
         # Load molecule from InChI
         mol = Chem.MolFromInchi(inchi_str)
         if mol is None:
@@ -68,8 +71,11 @@ class Std():
             results = pool.map(standardize_func, inchi_list)
         return results
     
+    
+class RpStd(Std):
+
     @staticmethod
-    def clean_rpout(rpout_std):
+    def _clean_rp_std(rpout_std_path):
         """
         Cleans Retropath results after standardization
         For each group of 'Substrate InChI' and 'Product InChI', retains all rows with the lowest 'Score'
@@ -77,10 +83,10 @@ class Std():
         Cleaning after standardization allows to retain better quality data than before standardization
 
         Parameters:
-            rpout_std: path to standardized retropath output
+            rpout_std_path: path to standardized retropath output
         """
 
-        df = pd.read_csv(rpout_std)
+        df = pd.read_csv(rpout_std_path)
 
         df = df.dropna()
         
@@ -105,4 +111,59 @@ class Std():
             #Retained {len(retained_df)} rows, discarded {len(discarded_df)} rows")
         #print(retained_df, '\n', discarded_df)
 
-        return retained_df, discarded_df
+        # return retained_df, discarded_df
+        return retained_df
+    
+    @staticmethod
+    def rp_std(rp_res_path, rp_std_path):
+        df = pd.read_csv(rp_res_path)
+
+        #start_time = time.time()
+        df['std_inchikey_substrate'] = Std.standardize_parallel(df['Substrate InChI'].tolist(), n_processes=32)
+        df['std_inchikey_product'] = Std.standardize_parallel(df['Product InChI'].tolist(), n_processes=32)
+        #end_time = time.time()
+        df.to_csv(rp_std_path, index=False, quoting=csv.QUOTE_ALL)
+        #print(f"Standardization completed in {end_time - start_time:.2f} seconds")
+
+    @staticmethod
+    def main(rp_res_path, rp_std_path):
+                
+        RpStd.rp_std(rp_res_path, rp_std_path)
+        
+        df = pd.read_csv(rp_std_path)
+        #print(len(df), "rows processed")
+
+        # Clean the results after standardization
+        #ret_df, dis_df = clean_rpout(df)
+        ret_df = RpStd._clean_rp_std(df)
+
+        #return ret_df
+        ret_df.to_csv(rp_std_path, index=False, quoting=csv.QUOTE_ALL)
+
+
+class KeggStd(Std):
+    
+    @staticmethod
+    def main(kegg_edges_path, kegg_std_path):
+        """
+        Standardizes KEGG edges
+        Parameters:
+            kegg_edges_path: path to KEGG edges file (tsv)
+            kegg_std_path: path to save standardized KEGG edges (csv)
+        """
+    
+        #df = pd.read_csv('/work/igem/standardization/roa_inchi_edges.tsv', sep="\t")
+        df = pd.read_csv(kegg_edges_path, sep="\t")
+        
+        df.dropna(subset=['source_inchi', 'target_inchi'], inplace=True)
+        # TODO: avoid having to dropna
+
+        #start_time = time.time()
+        df['std_inchikey_substrate'] = Std.standardize_parallel(df['source_inchi'].tolist(), n_processes=64)
+        df['std_inchikey_product'] = Std.standardize_parallel(df['target_inchi'].tolist(), n_processes=64)
+        #end_time = time.time()
+        #df.to_csv('/work/igem/standardization/roa_std_edges.csv', index=False, quoting=csv.QUOTE_ALL)
+        df.to_csv(kegg_std_path, index=False, quoting=csv.QUOTE_ALL)
+        #print(df)
+        #print(df.isna().sum())
+        #print(f"Standardization completed in {end_time - start_time:.2f} seconds")
