@@ -1,6 +1,5 @@
 from django.shortcuts import render
-import json     #mi serve per salvare EC che non printo a schermo
-
+import json
 from collections import defaultdict
 
 from .algorithms.pathways.main import main
