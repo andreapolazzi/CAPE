@@ -33,16 +33,16 @@
     <h3>Legend</h3>
     <div class="legend-content">
         <div class="legend-item">
-            <div class="legend-symbol pathway-rank">1st</div>
-            <span>Highest confidence pathway based on thermodynamic feasibility</span>
+            <div class="legend-symbol" style="background-color: #21b57c;"></div>
+            <span>KEGG annotated edges</span>
         </div>
         <div class="legend-item">
-            <div class="legend-symbol pathway-rank">2nd</div>
-            <span>Second most probable pathway with good enzymatic coverage</span>
+            <div class="legend-symbol" style="background-color: #f2c94c;"></div>
+            <span>KEGG non-annotated pathways</span>
         </div>
         <div class="legend-item">
-            <div class="legend-symbol pathway-rank">3rd</div>
-            <span>Alternative pathway with potential for optimization</span>
+            <div class="legend-symbol" style="background-color: #f2784c;"></div>
+            <span>RetroPath Predicted pathways</span>
         </div>
         <div class="legend-item">
             <div class="legend-symbol selected-indicator"></div>
@@ -141,7 +141,8 @@
         border: 1px solid #dee2e6;
         border-radius: 8px;
         padding: 20px;
-        margin-bottom: 30px;
+        margin: 15px;
+        margin-bottom: 50px;
         box-shadow: 0 2px 4px rgba(0,0,0,0.1);
     }
 
@@ -176,11 +177,6 @@
         font-size: 12px;
     }
 
-    .pathway-rank {
-        background: var(--gradient-bg);
-        color: white;
-    }
-
     .selected-indicator {
         background: linear-gradient(135deg, var(--light-purple), #cce7f0);
         border: 2px solid var(--primary-purple);
@@ -190,8 +186,9 @@
     .pathway-container {
         display: flex;
         flex-direction: column;
+        margin: 15px;
+        margin-bottom: 50px;
         gap: 20px;
-        margin-bottom: 30px;
     }
 
     /* Enhanced Box Styling */
