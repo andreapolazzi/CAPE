@@ -1,4 +1,65 @@
-{% extends "master.html" %}
+{% extends 'master.html' %}
+
+{% load static %}
+
+{% block title %}CAPE - Pathways {% endblock %}
+
+{% block banner %} 
+<div class="banner-section">
+    <div class="banner-content">
+        <h1 class="banner-title">1. Pathways found for: {{ pollutant }} to {{ sink }}</h1>
+    </div>
+</div>
+{% endblock %}
+
+{% block content %}
+
+
+<main class="main-content">
+  <h1>Enzyme Code Research Database</h1>
+   
+  <form method="POST" action="{% url 'summary' %}">
+    {% csrf_token %}
+
+    {% for ec in results %}
+        <h3>EC: {{ ec.ec_number }}</h3>
+        <p>{{ ec.summary }}</p>
+
+        {% if ec.data %}
+            <table>
+                <thead>
+                    <tr>
+                        <th>Select</th>
+                        <th>Organism</th>
+                        <th>Header</th>
+                        <th>Sequence</th>
+                        <th>Length</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    {% for row in ec.data %}
+                        <tr>
+                            <td>
+                                <input type="checkbox" name="selections" value="{{ ec.ec_number }}||{{ row.organism }}||{{ row.header }}||{{ row.sequence }}||{{ row.length }}">
+                            </td>
+                            <td>{{ row.organism }}</td>
+                            <td>{{ row.header }}</td>
+                            <td>{{ row.sequence }}</td>
+                            <td>{{ row.length }}</td>
+                        </tr>
+                    {% endfor %}
+                </tbody>
+            </table>
+        {% else %}
+            <p><i>No sequences found for EC {{ ec.ec_number }}</i></p>
+        {% endif %}
+            <hr>
+    {% endfor %}
+
+    <button type="submit">Continue</button>
+
+  </form>
+</main>
 
 <style>
     .ec-box {
@@ -54,53 +115,4 @@
         background-color: #0056b3;
     }
 </style>
-
-{% block title %}BACMAN-Orthologs {% endblock %}
-
-{% block content %}
-<main class="main-content">
-  <h1>Enzyme Code Research Database</h1>
-   
-  <form method="POST" action="{% url 'summary' %}">
-    {% csrf_token %}
-
-    {% for ec in results %}
-        <h3>EC: {{ ec.ec_number }}</h3>
-        <p>{{ ec.summary }}</p>
-
-        {% if ec.data %}
-            <table>
-                <thead>
-                    <tr>
-                        <th>Select</th>
-                        <th>Organism</th>
-                        <th>Header</th>
-                        <th>Sequence</th>
-                        <th>Length</th>
-                    </tr>
-                </thead>
-                <tbody>
-                    {% for row in ec.data %}
-                        <tr>
-                            <td>
-                                <input type="checkbox" name="selections" value="{{ ec.ec_number }}||{{ row.organism }}||{{ row.header }}||{{ row.sequence }}||{{ row.length }}">
-                            </td>
-                            <td>{{ row.organism }}</td>
-                            <td>{{ row.header }}</td>
-                            <td>{{ row.sequence }}</td>
-                            <td>{{ row.length }}</td>
-                        </tr>
-                    {% endfor %}
-                </tbody>
-            </table>
-        {% else %}
-            <p><i>No sequences found for EC {{ ec.ec_number }}</i></p>
-        {% endif %}
-            <hr>
-    {% endfor %}
-
-    <button type="submit">Continue</button>
-
-  </form>
-</main>
 {% endblock %}
