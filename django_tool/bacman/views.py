@@ -23,7 +23,8 @@ def pathways(request):
     request.session['ec_list'] = json.dumps(ec)
 
     color_map = {"KEGG green edge": "#21b57c",
-                 "KEGG white edge": "#d6cb2d",}
+                 "KEGG white edge": "#d6cb2d",
+                 "RP predicted edge": "#f2784c"}
     
     paths = []
     
