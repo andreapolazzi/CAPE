@@ -24,7 +24,7 @@ def process_ec_number(ec_number):
                 break
         else:
             return {
-                'summary': f"No sequences found for EC {ec_number}",
+                'summary': None,
                 'data': pd.DataFrame(columns=['organism', 'header', 'sequence', 'length'])
             }
 
