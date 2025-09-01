@@ -46,13 +46,13 @@
                         {% if ec.data %}
                             <div class="per-ec-controls">
                                 <div class="filter-controls">
-                                    <label for="length-filter-{{ ec.ec_number }}">Filter:</label>
+                                    <label for="length-filter-{{ ec.ec_number }}">Filter by length:</label>
                                     <select id="length-filter-{{ ec.ec_number }}" class="filter-select per-ec-filter">
-                                        <option value="">All</option>
-                                        <option value="short">Short</option>
-                                        <option value="medium">Medium</option>
-                                        <option value="long">Long</option>
-                                        <option value="custom">Custom</option>
+                                        <option value="">All Lengths</option>
+                                        <option value="short">Short (&lt; 200 aa)</option>
+                                        <option value="medium">Medium (200-500 aa)</option>
+                                        <option value="long">Long (&gt; 500 aa)</option>
+                                        <option value="custom">Custom Range</option>
                                     </select>
                                 </div>
                                 <div class="custom-length-controls hidden" id="custom-length-{{ ec.ec_number }}">
