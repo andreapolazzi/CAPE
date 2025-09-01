@@ -41,6 +41,28 @@
                                 {% endif %}
                             </div>
                         </div>
+                        
+                        <!-- Per-EC Filter Controls -->
+                        {% if ec.data %}
+                            <div class="per-ec-controls">
+                                <div class="filter-controls">
+                                    <label for="length-filter-{{ ec.ec_number }}">Filter:</label>
+                                    <select id="length-filter-{{ ec.ec_number }}" class="filter-select per-ec-filter">
+                                        <option value="">All</option>
+                                        <option value="short">Short</option>
+                                        <option value="medium">Medium</option>
+                                        <option value="long">Long</option>
+                                        <option value="custom">Custom</option>
+                                    </select>
+                                </div>
+                                <div class="custom-length-controls hidden" id="custom-length-{{ ec.ec_number }}">
+                                    <input type="number" placeholder="Min" class="min-length-input">
+                                    <input type="number" placeholder="Max" class="max-length-input">
+                                    <button type="button" class="apply-custom-btn">Go</button>
+                                </div>
+                            </div>
+                        {% endif %}
+
                     </div>
 
                     {% if ec.summary %}
@@ -56,25 +78,6 @@
                     {% endif %}
 
                     {% if ec.data %}
-                        <!-- Filter section-->
-                        <div class="controls-section per-ec-controls">
-                            <div class="filter-controls">
-                                <label for="length-filter-{{ ec.ec_number }}">Filter by Length:</label>
-                                <select id="length-filter-{{ ec.ec_number }}" class="filter-select per-ec-filter">
-                                    <option value="">All Lengths</option>
-                                    <option value="short">Short (&lt; 200 aa)</option>
-                                    <option value="medium">Medium (200-500 aa)</option>
-                                    <option value="long">Long (&gt; 500 aa)</option>
-                                    <option value="custom">Custom Range</option>
-                                </select>
-                            </div>
-                            <div class="custom-length-controls hidden" id="custom-length-{{ ec.ec_number }}">
-                                <input type="number" placeholder="Min" class="min-length-input">
-                                <input type="number" placeholder="Max" class="max-length-input">
-                                <button type="button" class="apply-custom-btn">Apply</button>
-                            </div>
-                        </div>
-
                         <div class="sequences-container">
                             <div class="table-wrapper">
                                 <table class="sequences-table">
