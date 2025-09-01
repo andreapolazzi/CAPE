@@ -63,18 +63,6 @@
         {% endfor %}
       </div>
 
-      <div class="submit-section">
-        <form method="POST" action="{% url 'confirm' %}" class="confirm-form">
-          {% csrf_token %}
-          <button type="submit" class="submit-btn">
-            <span>Confirm my choices</span>
-            <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
-              <path d="M5 12h14M12 5l7 7-7 7"/>
-            </svg>
-          </button>
-        </form>
-      </div>
-
     {% else %}
 
       <div class="no-sequences">
@@ -82,6 +70,18 @@
         <p>Nessuna selezione trovata.</p>
       </div>
     {% endif %}
+
+    <div class="submit-section">
+      <form method="POST" action="{% url 'confirm' %}" class="confirm-form">
+        {% csrf_token %}
+        <button type="submit" class="submit-btn">
+          <span>Confirm my choices</span>
+          <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+            <path d="M5 12h14M12 5l7 7-7 7"/>
+          </svg>
+        </button>
+      </form>
+    </div>
   </main>
 
 <style>
