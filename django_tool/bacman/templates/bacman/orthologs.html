@@ -23,18 +23,6 @@
         </p>
     </div>
 
-    <!--Filters section-->
-    <div class="controls-section">
-        <div class="filter-controls">
-            <select id="length-filter" class="filter-select">
-                <option value="">All Lengths</option>
-                <option value="short">Short (&lt; 200 aa)</option>
-                <option value="medium">Medium (200-500 aa)</option>
-                <option value="long">Long (&gt; 500 aa)</option>
-            </select>
-        </div>
-    </div>
-
     <!-- Enzyme Form -->
     <form method="POST" action="{% url 'summary' %}" id="enzyme-form">
         {% csrf_token %}
@@ -68,6 +56,25 @@
                     {% endif %}
 
                     {% if ec.data %}
+                        <!-- Filter section-->
+                        <div class="controls-section per-ec-controls">
+                            <div class="filter-controls">
+                                <label for="length-filter-{{ ec.ec_number }}">Filter by Length:</label>
+                                <select id="length-filter-{{ ec.ec_number }}" class="filter-select per-ec-filter">
+                                    <option value="">All Lengths</option>
+                                    <option value="short">Short (&lt; 200 aa)</option>
+                                    <option value="medium">Medium (200-500 aa)</option>
+                                    <option value="long">Long (&gt; 500 aa)</option>
+                                    <option value="custom">Custom Range</option>
+                                </select>
+                            </div>
+                            <div class="custom-length-controls hidden" id="custom-length-{{ ec.ec_number }}">
+                                <input type="number" placeholder="Min" class="min-length-input">
+                                <input type="number" placeholder="Max" class="max-length-input">
+                                <button type="button" class="apply-custom-btn">Apply</button>
+                            </div>
+                        </div>
+
                         <div class="sequences-container">
                             <div class="table-wrapper">
                                 <table class="sequences-table">
@@ -214,6 +221,27 @@
         padding: 20px;
         background: #f8f9fa;
         border-radius: 12px;
+    }
+
+    .per-ec-controls {
+        justify-content: flex-start;
+        padding: 10px 20px 0;
+        margin-bottom: 0;
+    }
+
+    .custom-length-controls {
+        display: flex;
+        gap: 5px;
+        align-items: center;
+    }
+
+    .custom-length-controls input {
+        width: 60px;
+    }
+
+    .custom-length-controls button {
+        padding: 5px 10px;
+        font-size: 0.8em;
     }
 
     .filter-controls {
@@ -653,39 +681,61 @@ function updateSelectionCount() {
     });
 }
 
-// Filter functions
-function initializeFilters() {
-    const lengthFilter = document.getElementById('length-filter');
-    lengthFilter.addEventListener('change', applyFilters);
-}
-
-function applyFilters() {
-    const lengthFilter = document.getElementById('length-filter').value;
-
-    document.querySelectorAll('.sequence-row').forEach(row => {
-        const length = parseInt(row.dataset.length);
-
-        let showRow = true;
-
-        // Length filter
-        if (lengthFilter) {
-            switch(lengthFilter) {
-                case 'short':
-                    if (length >= 200) showRow = false;
-                    break;
-                case 'medium':
-                    if (length < 200 || length > 500) showRow = false;
-                    break;
-                case 'long':
-                    if (length <= 500) showRow = false;
-                    break;
-            }
+// Filter functions per-EC
+function initializePerECFilters() {
+    const enzymeCards = document.querySelectorAll('.enzyme-card');
+    enzymeCards.forEach(card => {
+        const selectElement = card.querySelector('.per-ec-filter');
+        const applyBtn = card.querySelector('.apply-custom-btn');
+        
+        if (selectElement) {
+            selectElement.addEventListener('change', (event) => {
+                const customControls = card.querySelector('.custom-length-controls');
+                if (event.target.value === 'custom') {
+                    customControls.classList.remove('hidden');
+                } else {
+                    customControls.classList.add('hidden');
+                    applyPerECFilter(card);
+                }
+            });
         }
 
+        if (applyBtn) {
+            applyBtn.addEventListener('click', () => {
+                applyPerECFilter(card);
+            });
+        }
+    });
+}
+
+function applyPerECFilter(cardElement) {
+    const selectFilter = cardElement.querySelector('.per-ec-filter').value;
+    const minInput = cardElement.querySelector('.min-length-input');
+    const maxInput = cardElement.querySelector('.max-length-input');
+    
+    const minLength = minInput ? parseInt(minInput.value) : null;
+    const maxLength = maxInput ? parseInt(maxInput.value) : null;
+    
+    const sequenceRows = cardElement.querySelectorAll('.sequence-row');
+    
+    sequenceRows.forEach(row => {
+        const length = parseInt(row.dataset.length);
+        let showRow = true;
+        
+        if (selectFilter) {
+            if (selectFilter === 'short' && length >= 200) showRow = false;
+            if (selectFilter === 'medium' && (length < 200 || length > 500)) showRow = false;
+            if (selectFilter === 'long' && length <= 500) showRow = false;
+            
+            if (selectFilter === 'custom') {
+                if (minLength !== null && length < minLength) showRow = false;
+                if (maxLength !== null && length > maxLength) showRow = false;
+            }
+        }
+        
         row.style.display = showRow ? '' : 'none';
     });
-
-    // After filtering, update the count and master checkboxes
+    
     updateSelectionCount();
     updateECMasterCheckboxes();
 }
