@@ -60,9 +60,17 @@
                         </div>
                     </div>
 
-                    <div class="enzyme-summary">
-                        <p>{{ ec.summary }}</p>
-                    </div>
+                    {% if ec.summary %}
+                        <div class="enzyme-summary">
+                            <p>{{ ec.summary }}</p>
+                        </div>
+                    {% else %}
+                        <div class="no-sequences">
+                            <div class="no-sequences-icon">🔬</div>
+                            <p>No sequences found for EC {{ ec.ec_number }}</p>
+                            <small>This enzyme code may not have available sequence data in our database.</small>
+                        </div>
+                    {% endif %}
 
                     {% if ec.data %}
                         <div class="sequences-container">
@@ -123,13 +131,6 @@
                                 </table>
                             </div>
                         </div>
-                    {% else %}
-                        <div class="no-sequences">
-                            <div class="no-sequences-icon">🔬</div>
-                            <p>No sequences found for EC {{ ec.ec_number }}</p>
-                            <small>This enzyme code may not have available sequence data in our database.</small>
-                        </div>
-                    {% endif %}
                 </div>
             {% endfor %}
         </div>
