@@ -2,49 +2,340 @@
 
 {% load static %}
 
-{% block title %}BACMAN - Summary{% endblock %}
+{% block title %}CAPE - Confirm choice{% endblock %}
 
 {% block content %}
-
-
-<main class="main-content">
-  <h1>Summary of Your Selection</h1>
+  <div class="summary-header">
+    <h1>Summary of Your Selection</h1>
+    <p>Please review your selected sequences. Click "Continue" to proceed with the analysis of these orthologs.</p>
+  </div>
 
   {% if grouped_selections %}
-    {% for ec, rows in grouped_selections.items %}
-      <h2>EC: {{ ec }}</h2>
-      <table>
-        <thead>
-          <tr>
-            <th>Organism</th>
-            <th>Header</th>
-            <th>Sequence</th>
-            <th>Length</th>
-          </tr>
-        </thead>
-        <tbody>
-          {% for row in rows %}
-            <tr>
-              <td>{{ row.organism }}</td>
-              <td>{{ row.header }}</td>
-              <td>{{ row.sequence }}</td>
-              <td>{{ row.length }}</td>
-            </tr>
-          {% endfor %}
-        </tbody>
-      </table>
-    {% endfor %}
+    <div class="enzyme-grid">
+      {% for ec, rows in grouped_selections.items %}
+        <div class="enzyme-card">
+          <div class="enzyme-header">
+            <div class="ec-info">
+              <h3 class="ec-number">EC: {{ ec }}</h3>
+              <div class="ec-badge">
+                {{ rows|length }} sequence{{ rows|length|pluralize }}
+              </div>
+            </div>
+          </div>
+          <div class="sequences-container">
+            <div class="table-wrapper">
+              <table class="sequences-table">
+                <thead>
+                  <tr>
+                    <th>Organism</th>
+                    <th>Header</th>
+                    <th>Sequence</th>
+                    <th class="length-col">Length</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  {% for row in rows %}
+                    <tr class="sequence-row">
+                      <td class="organism-col">
+                        <span class="organism-name">{{ row.organism }}</span>
+                      </td>
+                      <td class="header-col">
+                        <span class="header-text" title="{{ row.header }}">
+                             {{ row.header|truncatechars:50 }}
+                        </span>
+                      </td>
+                      <td class="sequence-col">
+                          <span class="sequence-text">{{ row.sequence|truncatechars:30 }}</span>
+                      </td>
+                      <td class="length-col">
+                        <span class="length-badge {% if row.length < 200 %}short{% elif row.length > 500 %}long{% else %}medium{% endif %}">
+                             {{ row.length }} aa
+                        </span>
+                      </td>
+                    </tr>
+                  {% endfor %}
+                </tbody>
+              </table>
+            </div>
+          </div>
+        </div>
+      {% endfor %}
+    </div>
 
-
-
-    <form method="POST" action="{% url 'confirm' %}">
-      {% csrf_token %}
-      <button type="submit">Conferma</button>
-    </form>
+    <div class="submit-section">
+      <div class="submit-info">
+        <p>You have selected a total of <span id="final-count">{{ total_selections }}</span> sequences.</p>
+      </div>
+      <form method="POST" action="{% url 'confirm' %}" class="confirm-form">
+        {% csrf_token %}
+        <button type="submit" class="submit-btn">
+          <span>Confirm my choices</span>
+          <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+            <path d="M5 12h14M12 5l7 7-7 7"/>
+          </svg>
+        </button>
+      </form>
+    </div>
 
   {% else %}
-    <p>Nessuna selezione trovata.</p>
+
+    <div class="no-sequences">
+      <div class="no-sequences-icon">📋</div>
+      <p>Nessuna selezione trovata.</p>
+    </div>
   {% endif %}
-</main>
+
+
+<style>
+    :root {
+        --primary-purple: #6a0dad;
+        --light-purple: #e5d3ff;
+        --text-dark: #343a40;
+        --gradient-bg: linear-gradient(45deg, #8a2be2, #9400d3);
+        --white: #fff;
+    }
+
+    body {
+        font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+        background-color: #f4f7f9;
+        color: var(--text-dark);
+    }
+
+    /* Main Content */
+    .main-content {
+        padding: 40px 20px;
+        background-color: #f0fff0; /* Sfondo verdino */
+        min-height: calc(100vh - 100px);
+    }
+
+    .summary-header {
+        text-align: center;
+        margin-bottom: 40px;
+        padding: 20px;
+        background: linear-gradient(135deg, #e9f5e9, #d4edda);
+        border-radius: 12px;
+        border-left: 4px solid #4CAF50;
+    }
+
+    .summary-header h1 {
+        color: #2e8b57;
+        margin-bottom: 10px;
+    }
+
+    .summary-header p {
+        color: #4CAF50;
+        font-size: 1.1rem;
+    }
+
+    /* Enzyme Grid */
+    .enzyme-grid {
+        display: flex;
+        flex-direction: column;
+        gap: 25px;
+    }
+
+    .enzyme-card {
+        background: white;
+        border-radius: 12px;
+        box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+        overflow: hidden;
+        transition: all 0.3s ease;
+    }
+
+    .enzyme-header {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        padding: 20px;
+        background: linear-gradient(135deg, #f8f9fa 0%, #e9ecef 100%);
+        border-bottom: 1px solid #dee2e6;
+    }
+
+    .ec-info {
+        display: flex;
+        align-items: center;
+        gap: 15px;
+    }
+
+    .ec-number {
+        margin: 0;
+        color: #2c3e50;
+        font-size: 1.4rem;
+    }
+
+    .ec-badge {
+        background: var(--gradient-bg);
+        color: white;
+        padding: 4px 12px;
+        border-radius: 20px;
+        font-size: 0.8rem;
+        font-weight: 500;
+    }
+
+    /* Sequences Container */
+    .sequences-container {
+        padding: 20px;
+    }
+
+    .table-wrapper {
+        overflow-x: auto;
+        border-radius: 8px;
+        border: 1px solid #dee2e6;
+    }
+
+    .sequences-table {
+        width: 100%;
+        border-collapse: collapse;
+        font-size: 0.9rem;
+    }
+
+    .sequences-table th {
+        background: #f8f9fa;
+        padding: 12px 8px;
+        text-align: left;
+        font-weight: 600;
+        color: #495057;
+        border-bottom: 2px solid #dee2e6;
+    }
+
+    .sequences-table td {
+        padding: 12px 8px;
+        border-bottom: 1px solid #dee2e6;
+        vertical-align: middle;
+    }
+
+    .sequence-row:last-child td {
+        border-bottom: none;
+    }
+
+    /* Column Specific Styles */
+    .organism-col {
+        min-width: 120px;
+    }
+
+    .organism-name {
+        font-weight: 500;
+        color: #2c3e50;
+    }
+
+    .header-col {
+        min-width: 200px;
+    }
+
+    .header-text {
+        display: block;
+        color: #495057;
+    }
+
+    .sequence-col {
+        min-width: 200px;
+    }
+
+    .sequence-text {
+        font-family: 'Courier New', monospace;
+        background: #f1f3f4;
+        padding: 2px 6px;
+        border-radius: 4px;
+        font-size: 0.8rem;
+    }
+
+    .length-col {
+        width: 100px;
+        text-align: center;
+    }
+
+    .length-badge {
+        padding: 4px 8px;
+        border-radius: 12px;
+        font-size: 0.75rem;
+        font-weight: 500;
+    }
+
+    .length-badge.short {
+        background: #d4edda;
+        color: #155724;
+    }
+
+    .length-badge.medium {
+        background: #fff3cd;
+        color: #856404;
+    }
+
+    .length-badge.long {
+        background: #f8d7da;
+        color: #721c24;
+    }
+
+    /* Submit Section */
+    .submit-section {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        margin-top: 40px;
+        padding: 25px;
+        background: linear-gradient(135deg, #f8f9fa 0%, #e9ecef 100%);
+        border-radius: 12px;
+    }
+
+    .submit-info p {
+        margin: 0;
+        font-size: 1.1rem;
+        color: #495057;
+        font-weight: 500;
+    }
+    
+    .confirm-form {
+        margin: 0;
+    }
+
+    .submit-btn {
+        display: flex;
+        align-items: center;
+        gap: 10px;
+        padding: 12px 24px;
+        background: var(--gradient-bg);
+        color: white;
+        border: none;
+        border-radius: 8px;
+        font-size: 1.1rem;
+        font-weight: 600;
+        cursor: pointer;
+        transition: all 0.3s ease;
+        box-shadow: 0 2px 8px rgba(0,123,255,0.3);
+    }
+
+    .submit-btn:hover {
+        background: var(--gradient-bg);
+        transform: translateY(-2px);
+        box-shadow: 0 4px 16px rgba(0,123,255,0.4);
+    }
+
+    /* No Sequences */
+    .no-sequences {
+        padding: 60px 20px;
+        text-align: center;
+        color: #6c757d;
+        background: white;
+        border-radius: 12px;
+        box-shadow: 0 4px 12px rgba(0,0,0,0.05);
+    }
+
+    .no-sequences-icon {
+        font-size: 3rem;
+        margin-bottom: 15px;
+        opacity: 0.6;
+    }
+
+</style>
+
+<script>
+    document.addEventListener('DOMContentLoaded', function() {
+        // Funzione per contare il numero totale di selezioni, se necessario.
+        // Assumo che `total_selections` sia già passato dal backend Django
+        // Se non lo è, puoi calcolarlo così:
+        // const totalSequences = document.querySelectorAll('.sequence-row').length;
+        // document.getElementById('final-count').textContent = totalSequences;
+    });
+</script>
 
 {% endblock %}
