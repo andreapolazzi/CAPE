@@ -13,7 +13,7 @@
 {% endblock %}
 
 {% block content %}
-  <div style="background-color: 40px;">
+  <main class="main-content">
     <div class="summary-header">
       <h1>Summary of Your Selection</h1>
       <p>Please review your selected sequences. Click "Continue" to proceed with the analysis of these orthologs.</p>
@@ -90,10 +90,16 @@
         <p>Nessuna selezione trovata.</p>
       </div>
     {% endif %}
-
-  </div>
+  </main>
 
 <style>
+    /* Main Content for this page is greenish */
+    .main-content {
+        padding: 50px;
+        background-color: #f0fff0;
+        min-height: calc(100vh - 100px);
+    }
+
     .summary-header {
         text-align: center;
         margin-bottom: 40px;
