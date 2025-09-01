@@ -13,83 +13,85 @@
 {% endblock %}
 
 {% block content %}
-  <div class="summary-header">
-    <h1>Summary of Your Selection</h1>
-    <p>Please review your selected sequences. Click "Continue" to proceed with the analysis of these orthologs.</p>
-  </div>
+  <div style="background-color: 40px;">
+    <div class="summary-header">
+      <h1>Summary of Your Selection</h1>
+      <p>Please review your selected sequences. Click "Continue" to proceed with the analysis of these orthologs.</p>
+    </div>
 
-  {% if grouped_selections %}
-    <div class="enzyme-grid">
-      {% for ec, rows in grouped_selections.items %}
-        <div class="enzyme-card">
-          <div class="enzyme-header">
-            <div class="ec-info">
-              <h3 class="ec-number">EC: {{ ec }}</h3>
-              <div class="ec-badge">
-                {{ rows|length }} sequence{{ rows|length|pluralize }} chosen
+    {% if grouped_selections %}
+      <div class="enzyme-grid">
+        {% for ec, rows in grouped_selections.items %}
+          <div class="enzyme-card">
+            <div class="enzyme-header">
+              <div class="ec-info">
+                <h3 class="ec-number">EC: {{ ec }}</h3>
+                <div class="ec-badge">
+                  {{ rows|length }} sequence{{ rows|length|pluralize }} chosen
+                </div>
+              </div>
+            </div>
+            <div class="sequences-container">
+              <div class="table-wrapper">
+                <table class="sequences-table">
+                  <thead>
+                    <tr>
+                      <th>Organism</th>
+                      <th>Header</th>
+                      <th>Sequence</th>
+                      <th class="length-col">Length</th>
+                    </tr>
+                  </thead>
+                  <tbody>
+                    {% for row in rows %}
+                      <tr class="sequence-row">
+                        <td class="organism-col">
+                          <span class="organism-name">{{ row.organism }}</span>
+                        </td>
+                        <td class="header-col">
+                          <span class="header-text" title="{{ row.header }}">
+                              {{ row.header|truncatechars:50 }}
+                          </span>
+                        </td>
+                        <td class="sequence-col">
+                            <span class="sequence-text">{{ row.sequence|truncatechars:30 }}</span>
+                        </td>
+                        <td class="length-col">
+                          <span class="length-badge">
+                              {{ row.length }} aa
+                          </span>
+                        </td>
+                      </tr>
+                    {% endfor %}
+                  </tbody>
+                </table>
               </div>
             </div>
           </div>
-          <div class="sequences-container">
-            <div class="table-wrapper">
-              <table class="sequences-table">
-                <thead>
-                  <tr>
-                    <th>Organism</th>
-                    <th>Header</th>
-                    <th>Sequence</th>
-                    <th class="length-col">Length</th>
-                  </tr>
-                </thead>
-                <tbody>
-                  {% for row in rows %}
-                    <tr class="sequence-row">
-                      <td class="organism-col">
-                        <span class="organism-name">{{ row.organism }}</span>
-                      </td>
-                      <td class="header-col">
-                        <span class="header-text" title="{{ row.header }}">
-                             {{ row.header|truncatechars:50 }}
-                        </span>
-                      </td>
-                      <td class="sequence-col">
-                          <span class="sequence-text">{{ row.sequence|truncatechars:30 }}</span>
-                      </td>
-                      <td class="length-col">
-                        <span class="length-badge">
-                             {{ row.length }} aa
-                        </span>
-                      </td>
-                    </tr>
-                  {% endfor %}
-                </tbody>
-              </table>
-            </div>
-          </div>
-        </div>
-      {% endfor %}
-    </div>
+        {% endfor %}
+      </div>
 
-    <div class="submit-section">
-      <form method="POST" action="{% url 'confirm' %}" class="confirm-form">
-        {% csrf_token %}
-        <button type="submit" class="submit-btn">
-          <span>Confirm my choices</span>
-          <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
-            <path d="M5 12h14M12 5l7 7-7 7"/>
-          </svg>
-        </button>
-      </form>
-    </div>
+      <div class="submit-section">
+        <form method="POST" action="{% url 'confirm' %}" class="confirm-form">
+          {% csrf_token %}
+          <button type="submit" class="submit-btn">
+            <span>Confirm my choices</span>
+            <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+              <path d="M5 12h14M12 5l7 7-7 7"/>
+            </svg>
+          </button>
+        </form>
+      </div>
 
-  {% else %}
+    {% else %}
 
-    <div class="no-sequences">
-      <div class="no-sequences-icon">📋</div>
-      <p>Nessuna selezione trovata.</p>
-    </div>
-  {% endif %}
+      <div class="no-sequences">
+        <div class="no-sequences-icon">📋</div>
+        <p>Nessuna selezione trovata.</p>
+      </div>
+    {% endif %}
 
+  </div>
 
 <style>
     .summary-header {
