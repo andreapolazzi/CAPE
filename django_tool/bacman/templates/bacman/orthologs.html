@@ -227,9 +227,9 @@
     }
 
     .per-ec-controls {
-        justify-content: flex-start;
-        padding: 10px 20px 0;
-        margin-bottom: 0;
+        display: flex;
+        align-items: center;
+        gap: 10px;
     }
 
     .custom-length-controls {
@@ -646,7 +646,7 @@ let selectedCount = 0;
 // Initialize page
 document.addEventListener('DOMContentLoaded', function() {
     updateSelectionCount();
-    initializeFilters();
+    initializePerECFilters(); // Correzione: chiamata della funzione corretta
 });
 
 // Selection functions
