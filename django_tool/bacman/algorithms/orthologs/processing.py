@@ -1,6 +1,11 @@
-from .filters.ncbi_filtering import fetch_protein_ids, fetch_sequences, parse_fasta
+from filters.ncbi_filtering import fetch_protein_ids, fetch_sequences, parse_fasta
 import pandas as pd
 import regex as re
+
+def is_suspect_header(header):
+    """Check if a header contains keywords indicating low confidence annotations."""
+    lower = header.lower()
+    return any(keyword in lower for keyword in ['hypothetical', 'fragment', 'partial', 'putative', 'probable'])   #can be extended
 
 def extract_organism(header):
     match = re.search(r'\[(.*?)\]', header)
@@ -10,7 +15,6 @@ def extract_organism(header):
 
 def process_ec_number(ec_number):
         '''Process an EC number by fetching sequences and returning a DataFrame and metadata summary'''
-        from .filters.remove_outliers import filter_by_length
 
         orgs = ['Rhodococcus', 'Nocardiaceae', 'Mycobacteriales', 'Actinomycetes', 'Actinomycetota', 'Bacillati']
         for org in orgs:
@@ -30,10 +34,14 @@ def process_ec_number(ec_number):
 
         fasta = fetch_sequences(protein_ids)
         parsed_sequences = parse_fasta(fasta)
-        filtered_sequences = filter_by_length(parsed_sequences)
+        for header, seq in parsed_sequences.items():
+            if not is_suspect_header(header):
+                parsed_sequences[header] = seq
+            else:
+                print(f"Removed suspect header: {header}")
 
         records = []
-        for header, sequence in filtered_sequences.items():
+        for header, sequence in parsed_sequences.items():
             records.append({
                 'organism': extract_organism(header),
                 'header': header[:header.find('[')] if '[' in header else header,
@@ -57,13 +65,13 @@ def process_ec_list(ec_list):
     return results
 
 if __name__ == '__main__':
-    test_ecs = ["4.1.1.77", "1.2.1.61"]
+    test_ecs = ["1.14.12.15", "3.1.1.1"]
     results = process_ec_list(test_ecs)
 
     print()
     for result in results:
         print(f"EC: {result['ec_number']}")
         print(f"Summary: {result['summary']}")
-        print("First 3 entries:")
+        print()
         print(result['data'])
         print("-" * 40)
