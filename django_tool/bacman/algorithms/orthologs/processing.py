@@ -65,5 +65,5 @@ if __name__ == '__main__':
         print(f"EC: {result['ec_number']}")
         print(f"Summary: {result['summary']}")
         print("First 3 entries:")
-        print(result['data'].head(3))
+        print(result['data'])
         print("-" * 40)
