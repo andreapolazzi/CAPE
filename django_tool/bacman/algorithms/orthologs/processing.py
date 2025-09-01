@@ -1,4 +1,4 @@
-from .filters.ncbi_filtering import fetch_protein_ids, fetch_sequences, parse_fasta    #non so se il punto ci va o meno
+from ncbi_filtering import fetch_protein_ids, fetch_sequences, parse_fasta    #non so se il punto ci va o meno
 import pandas as pd
 import regex as re
 
