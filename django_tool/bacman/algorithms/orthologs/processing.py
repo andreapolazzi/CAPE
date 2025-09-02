@@ -8,13 +8,14 @@ def is_suspect_header(header):
     return any(keyword in lower for keyword in ['hypothetical', 'fragment', 'partial', 'putative', 'probable'])   #can be extended
 
 def extract_organism(header):
+    """Extract the organism name from a FASTA header."""
     match = re.search(r'\[(.*?)\]', header)
     if match:
         return match.group(1)
     return None
 
 def process_ec_number(ec_number):
-        '''Process an EC number by fetching sequences and returning a DataFrame and metadata summary'''
+        '''Process an EC number by fetching sequences and returning a DataFrame and metadata summary.'''
 
         orgs = ['Rhodococcus', 'Nocardiaceae', 'Mycobacteriales', 'Actinomycetes', 'Actinomycetota', 'Bacillati']
         for org in orgs:
@@ -34,19 +35,24 @@ def process_ec_number(ec_number):
 
         fasta = fetch_sequences(protein_ids)
         parsed_sequences = parse_fasta(fasta)
+
+        # Remove suspect headers
         for header, seq in parsed_sequences.items():
             if not is_suspect_header(header):
                 parsed_sequences[header] = seq
             else:
                 print(f"Removed suspect header: {header}")
 
+        # Convert to DataFrame
         records = []
         for header, sequence in parsed_sequences.items():
+            accession_version = re.split(r'\s+', header, maxsplit=1)[0]
             records.append({
                 'organism': extract_organism(header),
                 'header': header[:header.find('[')] if '[' in header else header,
                 'sequence': sequence,
-                'length': len(sequence)
+                'length': len(sequence),
+                'ncbi_url': f"https://www.ncbi.nlm.nih.gov/protein/{accession_version}"
             })
 
         df = pd.DataFrame(records)
@@ -56,7 +62,7 @@ def process_ec_number(ec_number):
         }
 
 def process_ec_list(ec_list):
-    '''Process a list of EC numbers and return results for each'''
+    '''Process a list of EC numbers and return results for each.'''
     results = []
     for ec in ec_list:
         result = process_ec_number(ec)
