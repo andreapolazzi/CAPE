@@ -77,8 +77,7 @@ def main(start:str, end:str, inchi_start, inchi_end):
 
     # Sort paths by total distance
     for idx, (dist, path_nodes, path_ecs, path_rxns) in enumerate(sorted(all_paths, key=lambda x: x[0]), start=1):
-        header = f"Path #{idx} (total length: {round(dist)})"
-        txt.append(header)
+        txt.append('')
         non_green_ecs.append([])
 
         for i in range(len(path_nodes) - 1):
@@ -104,4 +103,5 @@ def main(start:str, end:str, inchi_start, inchi_end):
 if __name__ == '__main__':
     #txt, non_green_ecs = main(start="Methyl tert-butyl ether", end="acetyl-coa", inchi="InChI=1S/C5H12O/c1-5(2,3)6-4/h1-4H3")
     txt, non_green_ecs = main(start="terephthalate", end="succinyl-coa", inchi="InChI=1S/C5H12O/c1-5(2,3)6-4/h1-4H3")
+
     print(txt)
