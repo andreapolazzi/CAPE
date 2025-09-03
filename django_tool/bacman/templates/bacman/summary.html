@@ -11,65 +11,67 @@
       <p>Please review your selected sequences. Click "Confirm my choice" to proceed with the creation of the plasmid.</p>
     </div>
 
-    {% if grouped_selections %}
-      <div class="enzyme-grid">
-        {% for ec, rows in grouped_selections.items %}
-          <div class="enzyme-card">
-            <div class="enzyme-header">
-              <div class="ec-info">
-                <h3 class="ec-number">EC: {{ ec }}</h3>
-                <div class="ec-badge">
-                  {{ rows|length }} sequence{{ rows|length|pluralize }} chosen
+    {% for ec in results %}
+      {% if grouped_selections %}
+        <div class="enzyme-grid">
+          {% for ec, rows in grouped_selections.items %}
+            <div class="enzyme-card">
+              <div class="enzyme-header">
+                <div class="ec-info">
+                  <h3 class="ec-number">EC: {{ ec }}</h3>
+                  <div class="ec-badge">
+                    {{ rows|length }} sequence{{ rows|length|pluralize }} chosen
+                  </div>
+                </div>
+              </div>
+              <div class="sequences-container">
+                <div class="table-wrapper">
+                  <table class="sequences-table">
+                    <thead>
+                      <tr>
+                        <th>Organism</th>
+                        <th>Header</th>
+                        <th>Sequence</th>
+                        <th class="length-col">Length</th>
+                      </tr>
+                    </thead>
+                    <tbody>
+                      {% for row in rows %}
+                        <tr class="sequence-row">
+                          <td class="organism-col">
+                            <span class="organism-name">{{ row.organism }}</span>
+                          </td>
+                          <td class="header-col">
+                            <span class="header-text" title="{{ row.header }}">
+                                {{ row.header|truncatechars:50 }}
+                            </span>
+                          </td>
+                          <td class="sequence-col">
+                              <span class="sequence-text">{{ row.sequence|truncatechars:30 }}</span>
+                          </td>
+                          <td class="length-col">
+                            <span class="length-badge">
+                                {{ row.length }} aa
+                            </span>
+                          </td>
+                        </tr>
+                      {% endfor %}
+                    </tbody>
+                  </table>
                 </div>
               </div>
             </div>
-            <div class="sequences-container">
-              <div class="table-wrapper">
-                <table class="sequences-table">
-                  <thead>
-                    <tr>
-                      <th>Organism</th>
-                      <th>Header</th>
-                      <th>Sequence</th>
-                      <th class="length-col">Length</th>
-                    </tr>
-                  </thead>
-                  <tbody>
-                    {% for row in rows %}
-                      <tr class="sequence-row">
-                        <td class="organism-col">
-                          <span class="organism-name">{{ row.organism }}</span>
-                        </td>
-                        <td class="header-col">
-                          <span class="header-text" title="{{ row.header }}">
-                              {{ row.header|truncatechars:50 }}
-                          </span>
-                        </td>
-                        <td class="sequence-col">
-                            <span class="sequence-text">{{ row.sequence|truncatechars:30 }}</span>
-                        </td>
-                        <td class="length-col">
-                          <span class="length-badge">
-                              {{ row.length }} aa
-                          </span>
-                        </td>
-                      </tr>
-                    {% endfor %}
-                  </tbody>
-                </table>
-              </div>
-            </div>
-          </div>
-        {% endfor %}
-      </div>
+          {% endfor %}
+        </div>
 
-    {% else %}
+      {% else %}
+        <div class="no-sequences">
+          <div class="no-sequences-icon">📋</div>
+          <p>Nessuna selezione trovata.</p>
+        </div>
 
-      <div class="no-sequences">
-        <div class="no-sequences-icon">📋</div>
-        <p>Nessuna selezione trovata.</p>
-      </div>
-    {% endif %}
+      {% endif %}
+    {% endfor %}
 
     <div class="submit-section">
       <form method="POST" action="{% url 'confirm' %}" class="confirm-form">
