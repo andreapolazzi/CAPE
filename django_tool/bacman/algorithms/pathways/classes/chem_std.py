@@ -23,8 +23,45 @@ class Std():
         """
         Standardize molecule to KEGG-like representation.
         """
+        
         if inchi_str is None or pd.isna(inchi_str):
             return None
+
+        try:
+            mol = Chem.MolFromInchi(inchi_str)
+            if mol is None:
+                raise ValueError("MolFromInchi failed")
+
+            if standardize:
+                normalizer = rdMolStandardize.Normalizer()
+                mol = normalizer.normalize(mol)
+
+            if neutralize:
+                uncharger = rdMolStandardize.Uncharger()
+                mol = uncharger.uncharge(mol)
+
+            if canonicalize_tautomers:
+                enumerator = rdMolStandardize.TautomerEnumerator()
+                mol = enumerator.Canonicalize(mol)
+
+            if strip_stereo:
+                Chem.RemoveStereochemistry(mol)
+
+            Chem.SanitizeMol(mol)
+
+            std_inchi = inchi.MolToInchi(mol)
+            std_inchikey = inchi.InchiToInchiKey(std_inchi)
+
+            return std_inchikey
+
+        except Exception as e:
+            return None
+        
+        """ old version
+        RDLogger.DisableLog('rdApp.*')  # Disable RDKit warnings
+
+        if inchi_str is None or pd.isna(inchi_str):
+            return np.nan
 
         # Load molecule from InChI
         mol = Chem.MolFromInchi(inchi_str)
@@ -33,20 +70,12 @@ class Std():
         
         #0. Standardize to avoid invalid groups
         if standardize:
-            try:
-                mol = rdMolStandardize.Normalize(mol)
-            except Exception as e:
-                #print(f"Normalization failed for InChI: {inchi_str}\n{e}")
-                pass
+            mol = rdMolStandardize.Normalize(mol)
         
         # 1. Neutralize charges if requested
         if neutralize:
-            try:
-                mol = rdMolStandardize.Uncharger().uncharge(mol)  
-                #mol = uncharger.uncharge(mol)
-            except Exception as e:
-                #print(f"Uncharging failed for InChI: {inchi_str}\n{e}")
-                pass
+            mol = rdMolStandardize.Uncharger().uncharge(mol)  
+            #mol = uncharger.uncharge(mol)
         
         # 2. Canonicalize tautomers
         if canonicalize_tautomers:
@@ -59,27 +88,20 @@ class Std():
                     Chem.SanitizeMol(mol)
                     mol = rdMolStandardize.TautomerEnumerator().Canonicalize(mol)
                 except Exception as inner_e:
-                    #print(f"Canonicalization failed for InChI: {inchi_str}\n{inner_e}")
-                    #return None
-                    pass
+                    #(f"Canonicalization failed for InChI: {inchi_str}\n{inner_e}")
+                    return None
         
         # 3. Strip stereochemistry if requested
         if strip_stereo:
-            try:
-                Chem.RemoveStereochemistry(mol)
-            except Exception as e:
-                #print(f"Removing stereochemistry failed for InChI: {inchi_str}\n{e}")
-                pass
+            Chem.RemoveStereochemistry(mol)
         
         # 4. Get standardized InChI and InChIKey
-        try:
-            std_inchi = inchi.MolToInchi(mol)
-            std_inchikey = inchi.InchiToInchiKey(std_inchi)
-            #return {"inchi": std_inchi, "inchikey": std_inchikey, "mol": mol}
-            return std_inchikey
-        except Exception as e:
-            #print(f"Generating InChI/InChIKey failed for InChI: {inchi_str}\n{e}")
-            return None
+        std_inchi = inchi.MolToInchi(mol)
+        std_inchikey = inchi.InchiToInchiKey(std_inchi)
+        
+        #return {"inchi": std_inchi, "inchikey": std_inchikey, "mol": mol}
+        return std_inchikey
+        """
     
     @staticmethod
     def standardize_parallel(inchi_list, n_processes=32):
