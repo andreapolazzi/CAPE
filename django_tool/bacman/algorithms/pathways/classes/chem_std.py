@@ -54,7 +54,8 @@ class Std():
                     mol = rdMolStandardize.TautomerEnumerator().Canonicalize(mol)
                 except Exception as inner_e:
                     #(f"Canonicalization failed for InChI: {inchi_str}\n{inner_e}")
-                    return None
+                    #return None
+                    pass
         
         # 3. Strip stereochemistry if requested
         if strip_stereo:
