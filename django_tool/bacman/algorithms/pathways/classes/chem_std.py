@@ -7,6 +7,7 @@ from multiprocessing import Pool
 import functools
 
 import pandas as pd
+import numpy as np
 import csv
 
 # Classes for chemical standardization
@@ -23,6 +24,9 @@ class Std():
         Standardize molecule to KEGG-like representation.
         """
         RDLogger.DisableLog('rdApp.*')  # Disable RDKit warnings
+
+        if inchi_str is None or pd.isna(inchi_str):
+            return np.nan
 
         # Load molecule from InChI
         mol = Chem.MolFromInchi(inchi_str)
