@@ -119,7 +119,7 @@ if __name__ == "__main__":
     import argparse
     p = argparse.ArgumentParser(description="Run SelenzymeRF and print top rows.")
     p.add_argument("--smarts", required=True, help="Reaction SMARTS/SMIRKS")
-    p.add_argument("--repo-root", default="/work/igem/selenzyme2023")
+    p.add_argument("--repo-root", default=".")
     p.add_argument("--datadir", default=None)
     p.add_argument("--outdir", default=None)
     p.add_argument("--host", type=int, default=None)
