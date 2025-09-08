@@ -92,7 +92,15 @@ def summary(request):
                 "length": length,
             })
 
-        return render(request, 'bacman/summary.html', {'grouped_selections': dict(parsed_data)})
+        all_ec = json.loads(request.session.get('orthologs', '[]'))
+
+        summary_ordered = []
+        for item in all_ec:
+            ec_num = item.get('ec_number')
+            rows = parsed_data.get(ec_num, [])
+            summary_ordered.append({'ec_number': ec_num, 'rows': rows})
+
+        return render(request, 'bacman/summary.html', {'summary_ordered': summary_ordered})
 
 def confirm(request):
     return render(request, 'bacman/confirm.html')
