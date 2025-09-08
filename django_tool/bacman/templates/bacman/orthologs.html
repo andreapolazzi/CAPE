@@ -126,9 +126,14 @@
                                                     </span>
                                                 </td>
                                                 <td class="actions-col">
-                                                    <button type="button" class="action-btn" onclick="showSequenceDetails('{{ ec.ec_number }}', '{{ row.organism|escapejs }}', '{{ row.header|escapejs }}')">
-                                                         Details
-                                                    </button>
+                                                    <div class="action-buttons">
+                                                        <button type="button" class="action-btn" onclick="showSequenceDetails('{{ ec.ec_number }}', '{{ row.organism|escapejs }}', '{{ row.header|escapejs }}')">
+                                                             Details
+                                                        </button>
+                                                        <button type="button" class="ncbi-btn" onclick="window.open('{{ row.ncbi_url }}', '_blank')" title="View on NCBI Protein">
+                                                             NCBI
+                                                        </button>
+                                                    </div>
                                                 </td>
                                             </tr>
                                         {% endfor %}
@@ -458,6 +463,13 @@
         text-align: center;
     }
 
+    .action-buttons {
+        display: flex;
+        flex-direction: column;
+        gap: 6px;
+        align-items: center;
+    }
+
     .action-btn {
         background: #6c757d;
         color: white;
@@ -471,6 +483,23 @@
 
     .action-btn:hover {
         background: #545b62;
+    }
+
+    .ncbi-btn {
+        background: #ff6b00;
+        color: white;
+        border: none;
+        padding: 4px 8px;
+        border-radius: 4px;
+        font-size: 0.75rem;
+        cursor: pointer;
+        transition: all 0.3s ease;
+        font-weight: 500;
+    }
+
+    .ncbi-btn:hover {
+        background: #e6850c;
+        box-shadow: 0 2px 6px rgba(255, 149, 0, 0.3);
     }
 
     /* No Sequences */
