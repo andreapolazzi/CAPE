@@ -11,7 +11,7 @@
       <p>Please review your selected sequences. Click "Confirm my choice" to proceed with the creation of the plasmid.</p>
     </div>
 
-    {% for ec in results %}
+    
       {% if grouped_selections %}
         <div class="enzyme-grid">
           {% for ec, rows in grouped_selections.items %}
@@ -71,7 +71,7 @@
         </div>
 
       {% endif %}
-    {% endfor %}
+    
 
     <div class="submit-section">
       <form method="POST" action="{% url 'confirm' %}" class="confirm-form">
