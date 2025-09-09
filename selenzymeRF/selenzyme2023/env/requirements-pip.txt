@@ -6,6 +6,4 @@ transformers==4.38.2
 tokenizers==0.15.2
 sentencepiece==0.2.0
 # PyTorch CPU wheels (need special index, installed in setup script)
-torch==2.3.1+cpu
-torchvision==0.18.1+cpu
-torchaudio==2.3.1+cpu
+torch==2.6.0
