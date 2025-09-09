@@ -2,7 +2,7 @@
 #!/usr/bin/env bash
 set -euo pipefail
 
-ENV_NAME=${1:-selenzymeRF}
+ENV_NAME=${1:-selenzymeRF_temp}
 YML=${2:-env/environment.yml}
 
 # Create or update the env
@@ -20,10 +20,10 @@ OS="$(uname -s || echo Unknown)"
 if [[ "$OS" == "Linux" ]]; then
   # Linux: use the CPU wheel index (fast, no CUDA)
   pip install --index-url https://download.pytorch.org/whl/cpu \
-    torch==2.3.1 torchvision==0.18.1 torchaudio==2.3.1
+    torch==2.6.0
 elif [[ "$OS" == "Darwin" ]]; then
   # macOS: regular PyPI works for CPU wheels
-  pip install torch==2.3.1 torchvision==0.18.1 torchaudio==2.3.1
+  pip install torch==2.6.0
 else
   echo "Detected $OS. If this is Windows, please use WSL2 + Ubuntu and re-run."
   exit 1

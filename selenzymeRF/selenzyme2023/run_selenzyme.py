@@ -106,7 +106,7 @@ if __name__ == "__main__":
     p.add_argument("--repo-root", default=".")
     p.add_argument("--datadir", default=None)
     p.add_argument("--outdir", default=None)
-    p.add_argument("--host", type=int, default=None)
+    p.add_argument("--host", type=int, default='37919')
     p.add_argument("--top", type=int, default=50)
     p.add_argument("--outfile", default="selenzyme_results.csv")
 
