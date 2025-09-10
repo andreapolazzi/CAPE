@@ -21,7 +21,8 @@ conda activate selenzymeRF
 You need to decompress the necessary data to run SelenzymeRF:
 
 ```bash
-unzip compressed_data/data_2023.zip -d gitcode2023/selenzyPro/data/
+unzip compressed_data/data_2023.zip -d gitcode2023/selenzyPro/data/data_2023/
+unzip compressed_data/seqs.zip -d gitcode2023/selenzyPro/data/data_2023/
 ```
 
 ---
