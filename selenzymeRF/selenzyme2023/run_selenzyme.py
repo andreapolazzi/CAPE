@@ -100,22 +100,47 @@ def run_selenzyme(
 
 if __name__ == "__main__":
     # Minimal CLI usage:
-    import argparse
-    p = argparse.ArgumentParser(description="Run SelenzymeRF and print top rows.")
-    p.add_argument("--smarts", required=True, help="Reaction SMARTS/SMIRKS")
-    p.add_argument("--repo-root", default=".")
-    p.add_argument("--datadir", default=None)
-    p.add_argument("--outdir", default=None)
-    p.add_argument("--host", type=int, default='37919')
-    p.add_argument("--top", type=int, default=50)
-    p.add_argument("--outfile", default="selenzyme_results.csv")
+    # import argparse
+    # p = argparse.ArgumentParser(description="Run SelenzymeRF and print top rows.")
+    # p.add_argument("--smarts", required=True, help="Reaction SMARTS/SMIRKS")
+    # p.add_argument("--repo-root", default=Path(__file__).resolve().parent,
+    #                help="Path to the repo root (default: this script's directory)")
+    # p.add_argument("--datadir", default=None)
+    # p.add_argument("--outdir", default=None)
+    # p.add_argument("--host", type=int, default=37919)
+    # p.add_argument("--top", type=int, default=50)
+    # p.add_argument("--outfile", default="selenzyme_results.csv")
 
-    # MSA is disabled by default; allow explicit enable/disable
-    g = p.add_mutually_exclusive_group()
-    g.add_argument("--msa", dest="nomsa", action="store_false", help="Enable MSA (default: disabled)")
-    g.add_argument("--no-msa", dest="nomsa", action="store_true", help="Disable MSA (default)")
-    p.set_defaults(nomsa=True)
-    args = p.parse_args()
+    # # MSA is disabled by default; allow explicit enable/disable
+    # g = p.add_mutually_exclusive_group()
+    # g.add_argument("--msa", dest="nomsa", action="store_false", help="Enable MSA (default: disabled)")
+    # g.add_argument("--no-msa", dest="nomsa", action="store_true", help="Disable MSA (default)")
+    # p.set_defaults(nomsa=True)
+    # args = p.parse_args()
+
+    # df = run_selenzyme(
+    #     smarts=args.smarts,
+    #     repo_root=args.repo_root,
+    #     datadir=args.datadir,
+    #     outdir=args.outdir,
+    #     host_taxid=args.host,
+    #     top_n=args.top,
+    #     nomsa=args.nomsa,
+    #     outfile=args.outfile
+    # )
+
+    # For quick testing, hardcode parameters here:
+    class Args:
+        smarts = "[H]Oc1c([H])c(OC([H])([H])[H])c([H])c([H])c1C(=O)c1c([H])c([H])c([H])c([H])c1[H]>>[H]OC(=O)c1c([H])c([H])c(C(=O)c2c([H])c([H])c(OC([H])([H])[H])c([H])c2O[H])c([H])c1[H].[H]O[H]"
+        repo_root = str(Path(__file__).resolve().parent)
+        datadir = None
+        outdir = None
+        host = 37919
+        top = 50
+        nomsa = True
+        outfile = "selenzyme_results.csv"
+
+    args = Args()
 
     df = run_selenzyme(
         smarts=args.smarts,
@@ -127,6 +152,7 @@ if __name__ == "__main__":
         nomsa=args.nomsa,
         outfile=args.outfile
     )
+
     # Report the expected CSV path
     from pathlib import Path as _P
     _repo = _P(args.repo_root).resolve()
