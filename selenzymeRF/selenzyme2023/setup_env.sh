@@ -2,7 +2,7 @@
 #!/usr/bin/env bash
 set -euo pipefail
 
-ENV_NAME=${1:-selenzymeRF_temp}
+ENV_NAME=${1:-selenzymeRF}
 YML=${2:-env/environment.yml}
 
 # Create or update the env
