@@ -11,13 +11,22 @@ Then, execute the setup script:
 
 ```bash
 bash setup_env.sh
-```
 
-conda activate selenzyme
+conda activate selenzymeRF
+```
+---
+
+## 2. Decompress data
+
+You need to decompress the necessary data to run SelenzymeRF:
+
+```bash
+unzip compressed_data/data_2023.zip -d gitcode2023/selenzyPro/data/
+```
 
 ---
 
-## 2. Run from CLI
+## 3. Run from CLI
 
 You can run the tool via the provided script:
 
@@ -43,7 +52,7 @@ python run_selenzyme.py \
 
 ---
 
-## 3. Output
+## 4. Output
 
 The script will:
 - Print the top rows of the results to the console
@@ -60,7 +69,7 @@ Example:
 
 ---
 
-## 4. Use as Python library
+## 5. Use as Python library
 
 You can also call the function directly in your own code:
 
