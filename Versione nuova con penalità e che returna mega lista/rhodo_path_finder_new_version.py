@@ -47,10 +47,10 @@ def main(start: str, end: str, inchi_start=None, inchi_end=None):
                 need_retropath = True
             else:
                 # Yay paths found, return the results
-                return paths
+                return paths,info_dict
         else:
             # Yay paths found, return the results
-            return paths
+            return paths,info_dict
 
     if need_retropath :
         # Fallback to RetroPath
@@ -75,7 +75,7 @@ def main(start: str, end: str, inchi_start=None, inchi_end=None):
                 return False
             else:
                 # Yay paths found, return the results
-                return paths
+                return paths,info_dict
         else:
             # RetroPath failed or returned no solution
             return False
