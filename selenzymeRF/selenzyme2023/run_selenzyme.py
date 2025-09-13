@@ -81,6 +81,16 @@ def run_selenzyme(
         timeout=timeout
     )
 
+    # Check for errors
+    if proc.returncode != 0:
+        raise RuntimeError(f"SelenzymeRF failed (code {proc.returncode}):\n"
+                           f"CMD: {' '.join(cmd)}\n"
+                           f"STDOUT: {proc.stdout}\n"
+                           f"STDERR: {proc.stderr}")
+    # print(proc.stdout)  # Uncomment for debugging
+    # print(proc.stderr)  # Uncomment for debugging
+    # print(f"[OK] SelenzymeRF finished, looking for CSV in {outdir}")
+
     # Figure out which CSV to read
     csv_path = outdir / outfile
     if not csv_path.exists():
