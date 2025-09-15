@@ -125,7 +125,7 @@ if __name__ == "__main__":
         test_multi,
         repo_root=_DEF_REPO_REL,
         host_taxid=37919,
-        include=["Description", "Organism Source", "Tax. distance", "EC Number", "Consv. Score", "Rxn Sim.", "Combined score"],
+        include=["Description", "Organism Source", "Tax. distance", "Rxn. ID", "Rxn. ID - additional", "EC Number", "Uniprot protein evidence", "Consv. Score", "Rxn Sim.", "Combined score"],
     )
 
     for smarts, df in res.items():
