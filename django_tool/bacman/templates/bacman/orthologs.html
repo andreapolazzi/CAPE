@@ -1,3 +1,4 @@
+
 {% extends 'master.html' %}
 
 {% load static %}
@@ -19,7 +20,7 @@
         <p>
             The orthologs page presents a list of enzyme sequences derived from the previously selected metabolic pathway for <strong>{{pollutant}}</strong> to <strong>{{sink}}</strong>. 
             For each enzyme, it displays orthologs from organisms taxonomically close to <strong>Rhodococcus opacus PD630</strong>. You can refine the search results 
-            using sequence length filters and <strong>select multiple sequences </strong> per EC code for subsequent creation of the plasmid sequence.
+            using sequence length filters, sort by different criteria, and <strong>select multiple sequences </strong> per EC code for subsequent creation of the plasmid sequence.
         </p>
     </div>
 
@@ -42,7 +43,7 @@
                             </div>
                         </div>
                         
-                        <!-- Per-EC Filter Controls -->
+                        <!-- Per-EC Filter and Sort Controls -->
                         {% if ec.data %}
                             <div class="per-ec-controls">
                                 <div class="filter-controls">
@@ -53,6 +54,15 @@
                                         <option value="medium">(200-500 aa)</option>
                                         <option value="long">(&gt; 500 aa)</option>
                                         <option value="custom">Custom Range</option>
+                                    </select>
+                                </div>
+                                <div class="sort-controls">
+                                    <label for="sort-select-{{ ec.ec_number }}">Sort by:</label>
+                                    <select id="sort-select-{{ ec.ec_number }}" class="sort-select per-ec-sort">
+                                        <option value="">Default Order</option>
+                                        <option value="length-asc">Length (Ascending)</option>
+                                        <option value="length-desc">Length (Descending)</option>
+                                        <option value="organism-freq">Organism Frequency</option>
                                     </select>
                                 </div>
                                 <div class="custom-length-controls hidden" id="custom-length-{{ ec.ec_number }}">
@@ -95,7 +105,7 @@
                                     </thead>
                                     <tbody>
                                         {% for row in ec.data %}
-                                            <tr class="sequence-row" data-organism="{{ row.organism|lower }}" data-header="{{ row.header|lower }}" data-length="{{ row.length }}">
+                                            <tr class="sequence-row" data-organism="{{ row.organism|lower }}" data-header="{{ row.header|lower }}" data-length="{{ row.length }}" data-original-index="{{ forloop.counter0 }}">
                                                 <td class="checkbox-col">
                                                     <input type="checkbox"
                                                            name="selections"
@@ -234,7 +244,8 @@
     .per-ec-controls {
         display: flex;
         align-items: center;
-        gap: 10px;
+        gap: 15px;
+        flex-wrap: wrap;
     }
 
     .custom-length-controls {
@@ -252,22 +263,39 @@
         font-size: 0.8em;
     }
 
-    .filter-controls {
+    .filter-controls, .sort-controls {
         display: flex;
-        gap: 10px;
+        gap: 8px;
+        align-items: center;
     }
 
-    .filter-select {
+    .filter-controls label, .sort-controls label {
+        font-size: 0.9rem;
+        color: #495057;
+        font-weight: 500;
+        white-space: nowrap;
+    }
+
+    .filter-select, .sort-select {
         padding: 8px 12px;
         border: 2px solid #dee2e6;
         border-radius: 6px;
         font-size: 0.9rem;
         transition: border-color 0.3s ease;
+        min-width: 140px;
     }
 
-    .filter-select:focus {
+    .filter-select:focus, .sort-select:focus {
         outline: none;
         border-color: var(--primary-purple);
+    }
+
+    .sort-select {
+        border-color: #28a745;
+    }
+
+    .sort-select:focus {
+        border-color: #20c997;
     }
 
     /* Enzyme Grid */
@@ -645,6 +673,18 @@
     }
 
     /* Responsive Design */
+    @media (max-width: 992px) {
+        .per-ec-controls {
+            flex-direction: column;
+            align-items: stretch;
+            gap: 10px;
+        }
+
+        .filter-controls, .sort-controls {
+            justify-content: space-between;
+        }
+    }
+
     @media (max-width: 768px) {
         .content-wrapper {
             padding: 15px;
@@ -660,6 +700,12 @@
             gap: 15px;
             text-align: center;
         }
+
+        .enzyme-header {
+            flex-direction: column;
+            align-items: stretch;
+            gap: 15px;
+        }
     }
 
     /* Hidden elements */
@@ -671,12 +717,35 @@
 <script>
 // Global variables
 let selectedCount = 0;
+let organismFrequencyCache = new Map(); // Cache per le frequenze degli organismi
 
 // Initialize page
 document.addEventListener('DOMContentLoaded', function() {
     updateSelectionCount();
-    initializePerECFilters(); // Correzione: chiamata della funzione corretta
+    initializePerECFilters();
+    initializePerECSorting();
+    calculateOrganismFrequencies(); // Calcola le frequenze all'inizio
 });
+
+// Calculate organism frequencies for each EC
+function calculateOrganismFrequencies() {
+    const enzymeCards = document.querySelectorAll('.enzyme-card');
+    
+    enzymeCards.forEach(card => {
+        const ecNumber = card.dataset.ec;
+        const rows = card.querySelectorAll('.sequence-row');
+        const organismCounts = new Map();
+        
+        // Conta le occorrenze di ogni organismo
+        rows.forEach(row => {
+            const organism = row.querySelector('.organism-name').textContent.trim();
+            organismCounts.set(organism, (organismCounts.get(organism) || 0) + 1);
+        });
+        
+        // Salva nel cache
+        organismFrequencyCache.set(ecNumber, organismCounts);
+    });
+}
 
 // Selection functions
 function toggleECCheckboxes(masterCheckbox) {
@@ -738,6 +807,81 @@ function initializePerECFilters() {
             });
         }
     });
+}
+
+// Sort functions per-EC
+function initializePerECSorting() {
+    const enzymeCards = document.querySelectorAll('.enzyme-card');
+    enzymeCards.forEach(card => {
+        const sortElement = card.querySelector('.per-ec-sort');
+        
+        if (sortElement) {
+            sortElement.addEventListener('change', (event) => {
+                applyPerECSort(card, event.target.value);
+            });
+        }
+    });
+}
+
+function applyPerECSort(cardElement, sortType) {
+    if (!sortType) return;
+    
+    const tbody = cardElement.querySelector('.sequences-table tbody');
+    const rows = Array.from(tbody.querySelectorAll('.sequence-row'));
+    const ecNumber = cardElement.dataset.ec;
+    
+    let sortedRows;
+    
+    switch (sortType) {
+        case 'length-asc':
+            sortedRows = rows.sort((a, b) => {
+                const lengthA = parseInt(a.dataset.length);
+                const lengthB = parseInt(b.dataset.length);
+                return lengthA - lengthB;
+            });
+            break;
+            
+        case 'length-desc':
+            sortedRows = rows.sort((a, b) => {
+                const lengthA = parseInt(a.dataset.length);
+                const lengthB = parseInt(b.dataset.length);
+                return lengthB - lengthA;
+            });
+            break;
+            
+        case 'organism-freq':
+            const organismCounts = organismFrequencyCache.get(ecNumber);
+            sortedRows = rows.sort((a, b) => {
+                const organismA = a.querySelector('.organism-name').textContent.trim();
+                const organismB = b.querySelector('.organism-name').textContent.trim();
+                const freqA = organismCounts.get(organismA) || 0;
+                const freqB = organismCounts.get(organismB) || 0;
+                
+                // Prima ordina per frequenza (decrescente), poi per nome organismo (crescente) per consistenza
+                if (freqA !== freqB) {
+                    return freqB - freqA;
+                }
+                return organismA.localeCompare(organismB);
+            });
+            break;
+            
+        default:
+            // Ordine originale basato sull'indice
+            sortedRows = rows.sort((a, b) => {
+                const indexA = parseInt(a.dataset.originalIndex);
+                const indexB = parseInt(b.dataset.originalIndex);
+                return indexA - indexB;
+            });
+    }
+    
+    // Rimuovi tutte le righe esistenti
+    rows.forEach(row => row.remove());
+    
+    // Aggiungi le righe ordinate
+    sortedRows.forEach(row => tbody.appendChild(row));
+    
+    // Riapplica il filtro se attivo
+    applyPerECFilter(cardElement);
 }
 
 function applyPerECFilter(cardElement) {
