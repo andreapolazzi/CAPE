@@ -1,6 +1,3 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-
 """
 Back-translate protein FASTA to codon-optimized DNA for Rhodococcus opacus PD630.
 
@@ -10,14 +7,14 @@ Features
 - Clean FASTA parser/writer; preserves headers
 - Extensible for other hosts by swapping the CODON_FREQ table
 
-Codon usage source: Kazusa codon usage database for 'species=37919' (R. opacus) – per-thousand frequencies.
+Codon usage source: Kazusa codon usage database for 'species=37919' (R. opacus) - per-thousand frequencies.
 See: https://www.kazusa.or.jp/codon/cgi-bin/showcodon.cgi?species=37919
 """
 
 import argparse
 import random
 import sys
-from typing import Dict, List, Tuple, Iterable
+from typing import Dict, List, Tuple, Iterable, Optional
 
 # -------------------------
 # Kazusa per-thousand frequencies for R. opacus (species=37919), RNA->DNA (U->T).
@@ -71,161 +68,220 @@ CODON_TO_AA: Dict[str, str] = {
     "GGT":"G","GGC":"G","GGA":"G","GGG":"G",
 }
 
-def invert_code(codon_to_aa: Dict[str, str]) -> Dict[str, List[str]]:
-    aa_to_codons: Dict[str, List[str]] = {}
-    for codon, aa in codon_to_aa.items():
-        aa_to_codons.setdefault(aa, []).append(codon)
-    return aa_to_codons
+# Create reverse mapping (amino acid -> codons)
+AA_TO_CODONS = {}
+for codon, aa in CODON_TO_AA.items():
+    AA_TO_CODONS.setdefault(aa, []).append(codon)
 
-AA_TO_CODONS = invert_code(CODON_TO_AA)
+# Assembly presets: recognition sequences to forbid (sense; reverse complements will be auto-blocked)
+ASSEMBLY_PRESETS: Dict[str, List[str]] = {
+    # Type IIS Golden Gate (common core used in many kits)
+    # BsaI: GGTCTC, SapI: GCTCTTC
+    "golden_gate": ["GGTCTC", "GCTCTTC"],
+    # BioBrick RFC10 illegal sites
+    # EcoRI: GAATTC, XbaI: TCTAGA, SpeI: ACTAGT, PstI: CTGCAG, NotI: GCGGCCGC
+    "biobrick": ["GAATTC", "TCTAGA", "ACTAGT", "CTGCAG", "GCGGCCGC"],
+    # No preset (user provides custom via --forbid)
+    "none": [],
+}
 
-# Default forbidden sites (Golden Gate workhorses). Add more via CLI.
-DEFAULT_FORBIDDEN = ["GGTCTC", "CGTCTC", "GAAGAC"]  # BsaI, BsmBI, BbsI recognition sites (sense)
-# We'll automatically also block reverse complements.
+# Default restriction sites (kept for backward compatibility if user does not specify --assembly)
+DEFAULT_FORBIDDEN = ["GGTCTC", "GCTCTTC"]  # BsaI, SapI (Golden Gate core)
 
-def revcomp(seq: str) -> str:
-    comp = str.maketrans("ACGTacgt", "TGCAtgca")
-    return seq.translate(comp)[::-1]
 
-def all_blocked_sites(sites: Iterable[str]) -> List[str]:
-    s = []
-    for site in sites:
-        site = site.upper()
-        s.append(site)
-        s.append(revcomp(site))
-    # Deduplicate while preserving order
-    out, seen = [], set()
-    for x in s:
-        if x not in seen:
-            out.append(x); seen.add(x)
-    return out
+def reverse_complement(seq: str) -> str:
+    """Return reverse complement of DNA sequence."""
+    complement = {"A": "T", "T": "A", "G": "C", "C": "G"}
+    return "".join(complement[base] for base in reversed(seq.upper()))
 
-def parse_fasta(fp) -> Iterable[Tuple[str, str]]:
-    header, seq_chunks = None, []
-    for line in fp:
-        line = line.strip()
-        if not line:
-            continue
-        if line.startswith(">"):
-            if header is not None:
-                yield header, "".join(seq_chunks)
-            header = line[1:].strip()
-            seq_chunks = []
-        else:
-            seq_chunks.append(line.replace(" ", "").upper())
-    if header is not None:
-        yield header, "".join(seq_chunks)
 
-def wrap(seq: str, width: int = 70) -> str:
+def get_blocked_sites(forbidden_sites: List[str]) -> List[str]:
+    """Get list of sites to avoid including reverse complements; deduplicate preserving order."""
+    seen = set()
+    blocked: List[str] = []
+    for site in forbidden_sites:
+        s = site.upper()
+        rc = reverse_complement(s)
+        for x in (s, rc):
+            if x not in seen:
+                blocked.append(x)
+                seen.add(x)
+    return blocked
+
+
+def parse_fasta(filepath: str) -> List[Tuple[str, str]]:
+    """Parse FASTA file and return list of (header, sequence) tuples."""
+    entries = []
+    with open(filepath) as f:
+        header, sequence = None, []
+        
+        for line in f:
+            line = line.strip()
+            if not line:
+                continue
+                
+            if line.startswith(">"):
+                if header:
+                    entries.append((header, "".join(sequence)))
+                header = line[1:]
+                sequence = []
+            else:
+                sequence.append(line.replace(" ", "").upper())
+        
+        if header:
+            entries.append((header, "".join(sequence)))
+    
+    return entries
+
+
+def format_fasta_sequence(seq: str, width: int = 70) -> str:
+    """Format sequence with line breaks."""
     return "\n".join(seq[i:i+width] for i in range(0, len(seq), width))
 
-def choose_codon_list(aa: str, mode: str, rng: random.Random) -> List[str]:
-    """Return codons for aa sorted by preference (or a randomized weighted single choice)."""
-    codons = AA_TO_CODONS.get(aa)
-    if not codons:
-        raise ValueError(f"Unsupported amino acid symbol: {aa!r}")
-    # Use embedded frequencies (fallback to small epsilon if missing)
-    items = [(c, CODON_FREQ_PD630.get(c, 0.0001)) for c in codons]
+
+def choose_best_codons(aa: str, mode: str, rng: random.Random) -> List[str]:
+    """Return codons for amino acid ordered by preference."""
+    if aa not in AA_TO_CODONS:
+        raise ValueError(f"Unknown amino acid: {aa}")
+    
+    codons = AA_TO_CODONS[aa]
+    codon_weights = [(codon, CODON_FREQ_PD630.get(codon, 0.0001)) for codon in codons]
+    
     if mode == "max":
-        # Highest-frequency first
-        return [c for c, _ in sorted(items, key=lambda x: x[1], reverse=True)]
+        # Sort by frequency (highest first)
+        return [codon for codon, _ in sorted(codon_weights, key=lambda x: x[1], reverse=True)]
+    
     elif mode == "weighted":
-        # Weighted random choice -> but we still return a preference list where the first is sampled
-        codon_names, weights = zip(*items)
-        total = sum(weights)
-        probs = [w/total if total > 0 else 1.0/len(weights) for w in weights]
-        # sample a top codon; then put remaining in descending order to use as fallbacks
-        chosen = rng.choices(codon_names, weights=probs, k=1)[0]
-        rest = [c for c, _ in sorted(items, key=lambda x: x[1], reverse=True) if c != chosen]
-        return [chosen] + rest
+        # Random weighted choice, then sort rest by frequency
+        codons_list, weights = zip(*codon_weights)
+        total_weight = sum(weights)
+        probabilities = [w / total_weight for w in weights]
+        
+        chosen = rng.choices(codons_list, weights=probabilities)[0]
+        remaining = [codon for codon, _ in sorted(codon_weights, key=lambda x: x[1], reverse=True) 
+                    if codon != chosen]
+        
+        return [chosen] + remaining
+    
     else:
-        raise ValueError("mode must be 'max' or 'weighted'")
+        raise ValueError("Mode must be 'max' or 'weighted'")
 
-def would_create_forbidden(new_seq_tail: str, blocked_sites: List[str]) -> bool:
-    s = new_seq_tail.upper()
-    for site in blocked_sites:
-        if site in s:
-            return True
-    return False
 
-def backtranslate(protein: str, mode: str, rng: random.Random, forbidden_sites: List[str]) -> str:
+def creates_forbidden_site(dna_sequence: str, blocked_sites: List[str]) -> bool:
+    """Check if sequence contains any forbidden restriction sites."""
+    seq = dna_sequence.upper()
+    return any(site in seq for site in blocked_sites)
+
+
+def backtranslate_protein(protein: str, mode: str, rng: random.Random, 
+                         forbidden_sites: List[str]) -> str:
     """
-    Greedy builder: at each AA, try codons in preference order; skip any that
-    would introduce a forbidden site in the *current* sequence (scan last 100 nt window).
+    Convert protein sequence to DNA using codon optimization.
+    Avoids creating forbidden restriction sites.
     """
-    blocked = all_blocked_sites(forbidden_sites)
-    dna: List[str] = []
-    # If trailing '*' present, keep as explicit STOP at the end (choose most common stop)
-    stop_pref = choose_codon_list("*", mode="max", rng=rng)  # use deterministic for stop
-    # Expect only one AA '*' mapping
-    # (Kazusa stop usage in PD630: TGA more frequent than TAA/TAG)
-
-    prot = protein.strip().upper()
-    if "*" in prot[:-1]:
-        raise ValueError("Internal stop '*' found before the end of the protein sequence.")
-
-    for i, aa in enumerate(prot):
+    blocked_sites = get_blocked_sites(forbidden_sites)
+    dna_parts = []
+    
+    # Clean protein sequence
+    protein = protein.strip().upper()
+    
+    # Check for internal stop codons
+    if "*" in protein[:-1]:
+        raise ValueError("Internal stop codon '*' found in protein sequence")
+    
+    for i, aa in enumerate(protein):
         if aa == "*":
-            # End: append a STOP using the most frequent among TGA/TAA/TAG (already ordered)
-            for codon in stop_pref:
-                candidate = "".join(dna) + codon
-                tail = candidate[-100:]
-                if not would_create_forbidden(tail, blocked):
-                    dna.append(codon)
-                    break
-            else:
-                # If all stops conflict, just use the top stop anyway
-                dna.append(stop_pref[0])
-            continue
-
-        # Try preferred codons for this AA
-        tried = choose_codon_list(aa, mode, rng)
-        placed = False
-        for codon in tried:
-            candidate = "".join(dna) + codon
-            tail = candidate[-100:]
-            if not would_create_forbidden(tail, blocked):
-                dna.append(codon)
-                placed = True
+            # Use most frequent stop codon
+            preferred_codons = choose_best_codons("*", "max", rng)
+        else:
+            preferred_codons = choose_best_codons(aa, mode, rng)
+        
+        # Try each codon until we find one that doesn't create forbidden sites
+        codon_placed = False
+        for codon in preferred_codons:
+            test_sequence = "".join(dna_parts) + codon
+            # Check last 100 nucleotides for restriction sites
+            check_region = test_sequence[-100:]
+            
+            if not creates_forbidden_site(check_region, blocked_sites):
+                dna_parts.append(codon)
+                codon_placed = True
                 break
-        if not placed:
-            # Last-resort: place the top codon even if it makes a site; user can resolve later
-            dna.append(tried[0])
+        
+        # If no codon works, use the most preferred one anyway
+        if not codon_placed:
+            dna_parts.append(preferred_codons[0])
+    
+    return "".join(dna_parts)
 
-    return "".join(dna)
+
+def write_fasta(entries: List[Tuple[str, str]], output_file: str):
+    """Write sequences to FASTA file."""
+    with open(output_file, "w") as f:
+        for header, sequence in entries:
+            f.write(f">{header}\n")
+            f.write(format_fasta_sequence(sequence) + "\n")
+
 
 def main():
-    ap = argparse.ArgumentParser(
-        description="Back-translate protein FASTA to PD630-codon-optimized DNA with optional restriction-site exclusion."
+    parser = argparse.ArgumentParser(
+        description="Back-translate protein FASTA to PD630-codon-optimized DNA"
     )
-    ap.add_argument("-i", "--input", required=True, help="Protein FASTA file")
-    ap.add_argument("-o", "--output", required=True, help="Output DNA FASTA file")
-    ap.add_argument("--mode", choices=["max", "weighted"], default="max",
-                    help="Codon selection: 'max' (most frequent) or 'weighted' (sampled by frequency). Default: max.")
-    ap.add_argument("--seed", type=int, default=1, help="Random seed (for weighted mode).")
-    ap.add_argument("--forbid", nargs="*", default=DEFAULT_FORBIDDEN,
-                    help="Recognition sequences to forbid internally (e.g. GGTCTC CGTCTC GAAGAC). "
-                         "Reverse complements are automatically forbidden too.")
-    args = ap.parse_args()
+    parser.add_argument("-i", "--input", required=True, 
+                       help="Input protein FASTA file")
+    parser.add_argument("-o", "--output", required=True, 
+                       help="Output DNA FASTA file")
+    parser.add_argument("--mode", choices=["max", "weighted"], default="max",
+                       help="Codon selection mode (default: max)")
+    parser.add_argument("--seed", type=int, default=1, 
+                       help="Random seed for weighted mode (default: 1)")
+    parser.add_argument("--forbid", nargs="*", default=DEFAULT_FORBIDDEN,
+                       help="Restriction sites to avoid (default: Golden Gate sites)")
+    parser.add_argument(
+        "--assembly",
+        choices=list(ASSEMBLY_PRESETS.keys()),
+        nargs="+",
+        default=["golden_gate"],
+        help=(
+            "Assembly preset(s) to apply for illegal site exclusion. "
+            "Options: golden_gate (BsaI,SapI), biobrick (EcoRI,XbaI,SpeI,PstI,NotI), none. "
+            "You can pass multiple, e.g. --assembly golden_gate biobrick"
+        ),
+    )
+    
+    args = parser.parse_args()
+    
+    try:
+        # Set random seed
+        rng = random.Random(args.seed)
+        
+        # Compute forbidden sites from assembly preset(s) and user-provided additions
+        preset_sites: List[str] = []
+        for preset in (args.assembly or []):
+            preset_sites.extend(ASSEMBLY_PRESETS.get(preset, []))
+        # Backward-compatibility: if user provided --forbid, merge them
+        extra_sites = args.forbid or []
+        combined_sites = preset_sites + list(extra_sites)
+        
+        # Parse input
+        protein_entries = parse_fasta(args.input)
+        print(f"Processing {len(protein_entries)} protein sequences...")
+        
+        # Back-translate each protein
+        dna_entries = []
+        for header, protein_seq in protein_entries:
+            print(f"Back-translating: {header}")
+            dna_seq = backtranslate_protein(protein_seq, args.mode, rng, combined_sites)
+            dna_entries.append((header, dna_seq))
+        
+        # Write output
+        write_fasta(dna_entries, args.output)
+        print(f"DNA sequences written to: {args.output}")
+        
+    except Exception as e:
+        print(f"Error: {e}", file=sys.stderr)
+        sys.exit(1)
 
-    rng = random.Random(args.seed)
-
-    with open(args.input) as fp:
-        entries = list(parse_fasta(fp))
-
-    out_lines = []
-    for header, prot in entries:
-        # Strip terminal stop if absent; allow adding one by including '*' in the protein
-        dna = backtranslate(prot, mode=args.mode, rng=rng, forbidden_sites=args.forbid)
-        out_lines.append(f">{header}")
-        out_lines.append(wrap(dna))
-
-    with open(args.output, "w") as out:
-        out.write("\n".join(out_lines) + "\n")
 
 if __name__ == "__main__":
-    try:
-        main()
-    except Exception as e:
-        sys.stderr.write(f"[ERROR] {e}\n")
-        sys.exit(1)
+    main()
