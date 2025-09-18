@@ -27,3 +27,15 @@ python manage.py runserver
 ```bash
 conda deactivate
 ```
+
+
+"""
+Enhanced progressive penalty with stronger transformation influence
+    
+    Args:
+        retrorules_score: 0-4 (0=best, 4=worst)
+        transformation_distance: 0-1 (Tanimoto distance)
+    
+    Returns:
+        Combined penalty score
+"""
