@@ -1,10 +1,10 @@
 import os
 
-from classes_functions import *
+from .classes.classes_functions import *
 import pandas as pd
 
 def main(start: str, end: str, inchi_start=None, inchi_end=None):
-    PATHWAY_FOLDER = 'Pathways'
+    PATHWAY_FOLDER = os.path.join(os.path.dirname(__file__), 'Pathways')
     os.makedirs(PATHWAY_FOLDER, exist_ok=True)
 
 
@@ -15,12 +15,12 @@ def main(start: str, end: str, inchi_start=None, inchi_end=None):
 
 
     if not os.listdir(PATHWAY_FOLDER):
-        raise('Warning: the Pathways folder is missing or empty.'
+        raise FileNotFoundError('Warning: the Pathways folder is missing or empty.'
             'Download pathways before attempting to find shortest paths.')
 
     G_full, G_simple, name_to_ik, ik_to_name, info_dict = build_graphs_with_filters(PATHWAY_FOLDER, degree_alpha=degree_alpha, freq_alpha=freq_alpha)
-    print(info_dict['citrate'])
-    print(info_dict['4.2.1.3'])
+    #print(info_dict['citrate'])
+    #print(info_dict['4.2.1.3'])
     # Normalize keys for prompt (because name_to_ik already uses normalized names in builder)
     start = start.strip().lower()
     end = end.strip().lower()
@@ -80,4 +80,4 @@ def main(start: str, end: str, inchi_start=None, inchi_end=None):
             # RetroPath failed or returned no solution
             return False
 
-print(main('citrate','isocitrate'))
+#print(main('citrate','isocitrate'))
