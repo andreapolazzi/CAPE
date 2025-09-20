@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <!DOCTYPE pathway SYSTEM "https://www.kegg.jp/kegg/xml/KGML_v0.7.2_.dtd">
-<!-- Creation date: Jun 25, 2025 17:20:51 +0900 (GMT+9) -->
+<!-- Creation date: Jun 30, 2025 13:26:51 +0900 (GMT+9) -->
 <pathway name="path:roa00541" org="roa" number="00541"
          title="Biosynthesis of various nucleotide sugars"
          image="https://www.kegg.jp/kegg/pathway/roa/roa00541.png"
@@ -350,9 +350,9 @@
         <graphics name="C04573" fgcolor="#000000" bgcolor="#FFFFFF"
              type="circle" x="390" y="220" width="8" height="8"/>
     </entry>
-    <entry id="99" name="roa:Pd630_LPD06020" type="gene" reaction="rn:R10140"
-        link="https://www.kegg.jp/dbget-bin/www_bget?roa:Pd630_LPD06020">
-        <graphics name="Pd630_LPD06020" fgcolor="#000000" bgcolor="#BFFFBF"
+    <entry id="99" name="ko:K13016 ko:K13020" type="ortholog" reaction="rn:R10140"
+        link="https://www.kegg.jp/dbget-bin/www_bget?K13016+K13020">
+        <graphics name="K13016..." fgcolor="#000000" bgcolor="#FFFFFF"
              type="rectangle" x="444" y="221" width="46" height="17"/>
     </entry>
     <entry id="100" name="cpd:C20395" type="compound"
@@ -1312,10 +1312,6 @@
     <relation entry1="326" entry2="7" type="maplink">
         <subtype name="compound" value="5"/>
     </relation>
-    <reaction id="99" name="rn:R10140" type="irreversible">
-        <substrate id="97" name="cpd:C04573"/>
-        <product id="100" name="cpd:C20395"/>
-    </reaction>
     <reaction id="7" name="rn:R00416" type="irreversible">
         <substrate id="5" name="cpd:C04501"/>
         <product id="266" name="cpd:C00043"/>
