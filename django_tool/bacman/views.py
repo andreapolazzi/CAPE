@@ -47,6 +47,9 @@ def pathways(request):
 
     return render(request, 'bacman/pathways.html', { 'first_path': paths[0], 'second_path': paths[1], 'third_path': paths[2], 'pollutant': pollutant, 'sink':final})
 
+#EC CHOICE PAGE: user can customize ec
+def ec_choice(request):
+    return render(request, 'bacman/ec_choice.html' )
 
 #ORTHOLOGS PAGE: fasta files of all orthologs are presented, user chooses
 def orthologs(request):
@@ -76,7 +79,7 @@ def orthologs(request):
 
         return render(request, 'bacman/orthologs.html', { 'results': cleaned_result })
 
-
+#SUMMARY PAGE: to confirm sequences chosen
 def summary(request):
     if request.method == "POST":
         selections = request.POST.getlist('selections')
@@ -102,9 +105,17 @@ def summary(request):
 
         return render(request, 'bacman/summary.html', {'summary_ordered': summary_ordered})
 
-def confirm(request):
-    return render(request, 'bacman/confirm.html')
+#CODON OPTIMIZATION: choose max/weight and restriction
+def codon_optimization(request):
+    return render(request, 'bacman/codon_optimization.html')
 
+#PLASMID: build the plasmid
+def plasmid(request):
+    return render(request, 'bacman/plasmid.html')
+
+#RESULTS: final results, plasmid completed, final file
+def results(request):
+    return render(request, 'bacman/results.html')
 
 def help(request):
     return render(request, 'bacman/HelpCAPE.html')
