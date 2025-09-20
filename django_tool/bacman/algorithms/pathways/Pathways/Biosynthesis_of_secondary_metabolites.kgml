@@ -10995,11 +10995,6 @@
         <graphics name="K01681..." fgcolor="#E0E0E0" bgcolor="#FFFFFF"
              type="line" coords="1635,1190,1653,1199,1653,1199,1655,1200,1658,1202,1661,1204,1664,1206,1667,1208,1670,1210,1673,1212,1676,1214,1678,1215,1678,1215,1686,1223,1686,1223,1688,1225,1691,1227,1693,1229,1696,1231,1699,1234,1701,1236,1704,1239,1706,1241,1708,1243,1708,1243,1720,1258"/>
     </entry>
-    <entry id="2031" name="ko:K00014 ko:K13832 ko:K13830 ko:K05358 ko:K05887" type="ortholog" reaction="rn:R02413 rn:R02415 rn:R06847"
-        link="https://www.kegg.jp/dbget-bin/www_bget?K00014+K13832+K13830+K05358+K05887">
-        <graphics name="K00014..." fgcolor="#E0E0E0" bgcolor="#FFFFFF"
-             type="line" coords="1895,837,1843,837"/>
-    </entry>
     <entry id="2024" name="ko:K11782" type="ortholog" reaction="rn:R10666"
         link="https://www.kegg.jp/dbget-bin/www_bget?K11782">
         <graphics name="K11782" fgcolor="#E0E0E0" bgcolor="#FFFFFF"
@@ -20286,6 +20281,11 @@
         <graphics name="Pd630_LPD05486..." fgcolor="#FFCC66" bgcolor="#FFFFFF"
              type="line" coords="1845,837,1771,837"/>
     </entry>
+    <entry id="2031" name="roa:Pd630_LPD05703" type="gene" reaction="rn:R02413 rn:R02415 rn:R06847"
+        link="https://www.kegg.jp/dbget-bin/www_bget?roa:Pd630_LPD05703">
+        <graphics name="Pd630_LPD05703" fgcolor="#FFCC66" bgcolor="#FFFFFF"
+             type="line" coords="1895,837,1843,837"/>
+    </entry>
     <entry id="2032" name="roa:Pd630_LPD03884" type="gene" reaction="rn:R02412"
         link="https://www.kegg.jp/dbget-bin/www_bget?roa:Pd630_LPD03884">
         <graphics name="Pd630_LPD03884" fgcolor="#FFCC66" bgcolor="#FFFFFF"
@@ -23211,6 +23211,10 @@
     <reaction id="895" name="rn:R00086 rn:R00331" type="reversible">
         <substrate id="1321" name="cpd:C00008"/>
         <product id="1322" name="cpd:C00002"/>
+    </reaction>
+    <reaction id="2031" name="rn:R02413 rn:R02415 rn:R06847" type="reversible">
+        <substrate id="2036" name="cpd:C00493"/>
+        <product id="2035" name="cpd:C02637"/>
     </reaction>
     <reaction id="543" name="rn:R00667" type="reversible">
         <substrate id="1032" name="cpd:C00077"/>
