@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>EC Choice</title>
+</head>
+<body>
+    <h1>EC Selection for Pathway</h1>
+    <h2>{{ pollutant }} → {{ sink }}</h2>
+
+    <form method="POST" action="{% url 'orthologs' %}">
+        {% csrf_token %}
+
+        {% for step in steps %}
+        <div>
+            <h3>Step {{ step.step_number|add:1 }}: {{ step.start_compound }} → {{ step.end_compound }}</h3>
+            
+            <h4>Available EC numbers:</h4>
+            {% for ec in step.ecs %}
+            <label>
+                <input type="radio" name="selected_ec_{{ step.step_number }}" value="{{ ec.ec_number }}" 
+                       {% if forloop.first %}checked{% endif %}>
+                {{ ec.ec_number }}
+            </label><br>
+            {% endfor %}
+            
+            <h4>Or enter manually:</h4>
+            <label>
+                <input type="radio" name="selected_ec_{{ step.step_number }}" value="manual">
+                Manual:
+                <input type="text" name="manual_ec_{{ step.step_number }}" placeholder="Enter EC number">
+            </label><br>
+            
+            <hr>
+        </div>
+        {% endfor %}
+
+        <button type="submit">Process Selected ECs</button>
+    </form>
+</body>
+</html>
