@@ -158,12 +158,7 @@ class SelenzymeRFClient:
         except (json.JSONDecodeError, KeyError, TypeError) as e:
             raise ValueError(f"Error parsing enzyme data: {e}")
     
-    def search_enzymes(self, smarts: str, **kwargs) -> pd.DataFrame:
-        
-
-        api_response = self.query_enzymes(smarts, **kwargs)
-        return self.parse_enzyme_results(api_response)
-
+    
     def search_enzymes(self, smarts: str, **kwargs) -> pd.DataFrame:
         """
         Main method to search for enzymes
