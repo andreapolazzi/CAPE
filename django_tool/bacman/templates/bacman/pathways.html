@@ -41,7 +41,7 @@
             <span>KEGG non-annotated edges</span>
         </div>
         <div class="legend-item">
-            <div class="legend-symbol" style="background-color: #f2784c;"></div>
+            <div class="legend-symbol" style="background-color: #d75e31;"></div>
             <span>RetroPath Predicted edges</span>
         </div>
         <div class="legend-item">
@@ -53,33 +53,19 @@
 
 <h2 style="margin-left: 15px;">Best 3 pathways found from {{ pollutant }} to {{ sink }}</h2>
 
-<form method="POST" action="{% url 'orthologs' %}">
+<form method="POST" action="{% url 'ec_choice' %}">
     {% csrf_token %}
 
     <div class="pathway-container">
-        <label class="box" data-rank="1st">
-            <input type="checkbox" name="selected_pathway" value="0">
+        {% for index, path in pathways %}
+        <label class="box" data-rank="{{ index|add:1 }}">
+            <input type="checkbox" name="selected_pathway" value="{{ index }}">
             <div class="pathway-header">
-                <span class="pathway-badge">Pathway 1 </span>
+                <span class="pathway-badge">Pathway {{ index|add:1 }} </span>
             </div>
-            <div class="content">{{ first_path|safe }}</div>
+            <div class="content">{{ path }}</div>
         </label>
-
-        <label class="box" data-rank="2nd">
-            <input type="checkbox" name="selected_pathway" value="1">
-            <div class="pathway-header">
-                <span class="pathway-badge ">Pathway 2 </span>
-            </div>
-            <div class="content">{{ second_path|safe }}</div>
-        </label>
-
-        <label class="box" data-rank="3rd">
-            <input type="checkbox" name="selected_pathway" value="2">
-            <div class="pathway-header">
-                <span class="pathway-badge ">Pathway 3 </span>
-            </div>
-            <div class="content">{{ third_path|safe }}</div>
-        </label>
+        {% endfor %}
     </div>
 
     <div class="action-section">

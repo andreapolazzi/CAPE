@@ -1,109 +1,83 @@
 import os
-from .classes.classes_functions import MetabolicGraph
-from .classes.rp_classes import RP, RpGraph
 
-def main(start:str, end:str, inchi_start, inchi_end):
-    """ Get 3 shortest paths """
-    # Check that Pathways folder exists or make one
-    #PATHWAY_FOLDER = '/work/igem/iGEM/django_tool/bacman/algorithms/pathways/Pathways'
-    PATHWAY_FOLDER = './bacman/algorithms/pathways/Pathways'  # to run in local
+from .classes.classes_functions import *
+import pandas as pd
+
+def main(start: str, end: str, inchi_start=None, inchi_end=None):
+    PATHWAY_FOLDER = os.path.join(os.path.dirname(__file__), 'Pathways')
     os.makedirs(PATHWAY_FOLDER, exist_ok=True)
-    # Load all tsv files to networks
-    for fname in os.listdir(PATHWAY_FOLDER):
-        if not fname.endswith('_edges.tsv'):
-            continue
-        MetabolicGraph.from_tsv(fname)
-    # Create mega network
-    MetabolicGraph.mega = MetabolicGraph.megaGraph()
-
-    # Connect start and/or end to central metabolites if they are not in the nodes
-    node_list = list(n.lower() for n in MetabolicGraph.mega.nodes)
-    #print(node_list)
-
-    if start not in node_list:
-        print("start not in node_list")
-        """
-        RP.rp_single_source(sink='/work/igem/iGEM/django_tool/bacman/algorithms/pathways/rp_data/kegg_rp.csv',
-                            rules='/work/igem/retrorules_rr02_rp2_flat_forward.csv',
-                            outdir='/work/igem/iGEM/django_tool/bacman/algorithms/pathways/rp_results',
-                            name=start,
-                            inchi=inchi,
-                            steps=7,)
-        print("RetroPath prediction completed")
-        RpGraph.tsv_generator(file_path=f'/work/igem/iGEM/django_tool/bacman/algorithms/pathways/rp_results/Methyl_tert-butyl_ether_scope.csv',
-                              outdir='/work/igem/iGEM/django_tool/bacman/algorithms/pathways/Pathways/')
-        """
-        print("Generating a graph from RetroPath output")
-        start_pway_graph = MetabolicGraph.from_tsv('rp_edges.tsv')
-        start_pway_graph.join2megaGraph()
-        print("Merged the two graphs")
-
-    if end not in node_list:
-        print("end not in nodes")
-        # DEFINE HOW TO CALL RETROPATH IN THIS CASE
-        # end_pway_graph = MetabolicGraph.from_tsv(f'.tsv') # da compilare
-        # end_pway_graph.join2megaGraph()
 
 
-    # Find up to 3 shortest paths
-    all_paths = MetabolicGraph.mega.shortest_paths(start, end)
-    #print("Finding paths")
-    #all_paths = MetabolicGraph.mega.shortest_paths(inchi, end)
-
-    # Fallback to RetroPath if path can't be found (not yet fully implemented)
-    if not all_paths:
-
-        # Connect start to metaboliti principali with RetroPath
-        
-        # Connect end to metaboliti principali with RetroPath
-
-        # Build graphs from RP results and join them to mega graph
-        # DEFINE HOW TO CALL RP IN THIS CASE
-        start_pway_graph = MetabolicGraph.from_tsv(f'.tsv') # da compilare
-        start_pway_graph.join2megaGraph()
-        # DEFINE HOW TO CALL RP IN THIS CASE
-        end_pway_graph = MetabolicGraph.from_tsv(f'.tsv') # da compilare
-        end_pway_graph.join2megaGraph()
-
-        # Retry finding the shortest path
-        all_paths = MetabolicGraph.mega.shortest_paths(start, end)
-        if not all_paths:
-            return "RetroPath 2.0 couldn't find a path."
-
-    # Return text for each candidate path
-    WEIGHT_LABEL = {1: "(KEGG green edge)", 10: "(KEGG white edge)", 100: "(RetroPath)"}
-    txt = []
-    non_green_ecs = []
-
-    # Sort paths by total distance
-    for idx, (dist, path_nodes, path_ecs, path_rxns) in enumerate(sorted(all_paths, key=lambda x: x[0]), start=1):
-        txt.append([])
-        non_green_ecs.append([])
-
-        for i in range(len(path_nodes) - 1):
-            u, v = path_nodes[i], path_nodes[i+1]
-            ec = path_ecs[i]
-
-            # Find the actual edge object
-            chosen = next((e for e in u.outgoing if v in e.products and (e.ec == ec or e.name == ec)), None)
-            if not chosen:
-                chosen = next((e for e in u.outgoing if v in e.products), None)
-
-            w = chosen.weight if chosen else 1
-            label = WEIGHT_LABEL.get(w, "")
-            if w != 1:
-                non_green_ecs[idx-1].append(ec)
-
-            step = f"  {i+1}. {u.name} ---[{ec.replace(' ', ' or ')}]---> {v.name} {label}"
-            txt[idx-1].append(step)
-        txt[idx-1] = "\n".join(txt[idx-1])
-
-    return txt, non_green_ecs
+    # Parameters
+    degree_alpha = 2.5  # penalty strength for high-degree nodes
+    freq_alpha = 2.5    # penalty strength for frequently-occurring compounds
+    MAX_PATHS = 3
 
 
-if __name__ == '__main__':
-    #txt, non_green_ecs = main(start="Methyl tert-butyl ether", end="acetyl-coa", inchi="InChI=1S/C5H12O/c1-5(2,3)6-4/h1-4H3")
-    txt, non_green_ecs = main(start="terephthalate", end="succinyl-coa", inchi="InChI=1S/C5H12O/c1-5(2,3)6-4/h1-4H3")
+    if not os.listdir(PATHWAY_FOLDER):
+        raise FileNotFoundError('Warning: the Pathways folder is missing or empty.'
+            'Download pathways before attempting to find shortest paths.')
 
-    print(txt)
+    G_full, G_simple, name_to_ik, ik_to_name, info_dict = build_graphs_with_filters(PATHWAY_FOLDER, degree_alpha=degree_alpha, freq_alpha=freq_alpha)
+    #print(info_dict['citrate'])
+    #print(info_dict['4.2.1.3'])
+    # Normalize keys for prompt (because name_to_ik already uses normalized names in builder)
+    start = start.strip().lower()
+    end = end.strip().lower()
 
+    start_ik = resolve_name_to_inchi(start, name_to_ik)
+    end_ik = resolve_name_to_inchi(end, name_to_ik)
+
+    # 1) Check if start or end is missing in G_simple / G_full
+    need_retropath = False
+    for g in [G_simple, G_full]:
+        if start_ik not in g.nodes or end_ik not in g.nodes:
+            need_retropath = True
+            break
+
+    if not need_retropath:
+        # Try searching G_simple first
+        paths = k_shortest_paths(G_simple, start_ik, end_ik, ik_to_name, name_to_ik, K=MAX_PATHS)
+
+        # Fallback to G_full if nothing found
+        if not paths:
+            # No paths found in filtered network. Trying full network...
+            paths = k_shortest_paths(G_full, start_ik, end_ik, ik_to_name, name_to_ik, K=MAX_PATHS)
+            if not paths:
+                need_retropath = True
+            else:
+                # Yay paths found, return the results
+                return paths,info_dict
+        else:
+            # Yay paths found, return the results
+            return paths,info_dict
+
+    if need_retropath :
+        # Fallback to RetroPath
+        outdir = "retropath_output/"
+        rules_file = "rules.csv"
+        returncode, stdout, stderr = rp_single_source(sink=end_ik, rules=rules_file, outdir=outdir, name=start, inchi=start_ik, steps=3, structures=100, dmin=6, dmax=16, timeout=60)
+
+        if returncode == 0:
+            # Load Retropath edges
+            rp_edges_file = outdir + "rp_edges.tsv"
+            rp_df = pd.read_csv(rp_edges_file, sep="\t")
+            
+            # Add edges to G_simple (or to a new graph copy)
+            for _, row in rp_df.iterrows():
+                G_simple.add_edge(row['std_inchikey_substrate'], row['std_inchikey_product'], enzyme=row['EC number'])
+            
+            # Re-run path search
+            paths = k_shortest_paths(G_simple, start_ik, end_ik, ik_to_name, name_to_ik, K=MAX_PATHS)
+
+            if not paths:
+                # Still no paths found, even after successfully adding Retropath edges
+                return False
+            else:
+                # Yay paths found, return the results
+                return paths,info_dict
+        else:
+            # RetroPath failed or returned no solution
+            return False
+
+#print(main('citrate','isocitrate'))
