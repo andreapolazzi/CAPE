@@ -52,7 +52,7 @@ class SelenzymeRFClient:
             smarts: SMARTS pattern representing the chemical reaction
             targets: Maximum number of enzyme results to return (default: 50)
             host: Target host organism for phylogenetic distance calculation (default: '37919' for Rhodococcus opacus)
-            noMSA: If True, skip multiple sequence alignment generation
+            noMSA: If True, skip multiple sequence alignment generation (default: False)
             timeout: Request timeout in seconds
             
         Returns:
@@ -75,6 +75,8 @@ class SelenzymeRFClient:
             
         if noMSA:
             payload['noMSA'] = True
+        else:
+            payload['noMSA'] = False
         
         try:
             print(f"Querying SelenzymeRF API with SMARTS: {smarts}")
@@ -112,99 +114,82 @@ class SelenzymeRFClient:
         Parse the API response into a structured DataFrame.
         
         Args:
-            api_response: Raw response from the SelenzymeRF API
-            
+            api_response: Dictionary containing the API response
+
         Returns:
-            pandas.DataFrame with enzyme information
+            DataFrame with individual enzyme entries as rows and attributes as columns
+
+        Raises:
+            ValueError: If the response format is invalid or parsing fails
+        
         """
         
-        if api_response['data'] is None:
+        if api_response.get('data') is None:
             print("No enzyme data found in response")
             return pd.DataFrame()
         
         try:
-            # Parse the data field which contains JSON string
-            if isinstance(api_response['data'], str):
-                enzyme_data = json.loads(api_response['data'])
-            else:
-                enzyme_data = api_response['data']
+            # Parse the JSON string
+            enzyme_data = json.loads(api_response['data'])
             
-            # Check if we have enzyme sequence IDs
-            if 'Seq. ID' not in enzyme_data or len(enzyme_data['Seq. ID']) == 0:
-                print("No enzyme sequences found")
+            if 'Seq. ID' not in enzyme_data:
+                print("No sequence IDs found")
                 return pd.DataFrame()
             
-            # Extract enzyme information into rows
-            results = []
-            seq_ids = enzyme_data['Seq. ID']
+            # Get all entry indices (they're string numbers)
+            entry_indices = set(enzyme_data['Seq. ID'].keys())
             
-            # Available columns based on Selenzyme API
-            columns = ['Score', 'Seq. ID', 'Description', 'Organism Source', 'Tax. distance', 'EC Number', 'Uniprot protein evidence', 'Consv. Score', 'Combined score']
-            
-            for seq_id in sorted(seq_ids.keys(), key=lambda x: int(x)):
-                row = {'Seq. ID': seq_ids[seq_id]}
+            # Build rows dynamically
+            rows = []
+            for idx in sorted(entry_indices, key=int):  # Sort numerically
+                row = {}
                 
-                # Add other available information
-                for col in columns[1:]:  # Skip 'Seq. ID' as it's already added
-                    if col in enzyme_data and seq_id in enzyme_data[col]:
-                        row[col] = enzyme_data[col][seq_id]
+                # Extract data for each column
+                for col_name, col_data in enzyme_data.items():
+                    if idx in col_data and col_data[idx] is not None:
+                        row[col_name] = col_data[idx]
                     else:
-                        row[col] = 'N/A'
+                        row[col_name] = None  # Keep nulls as None instead of 'N/A'
                 
-                results.append(row)
+                rows.append(row)
             
-            return pd.DataFrame(results)
+            return pd.DataFrame(rows)
             
         except (json.JSONDecodeError, KeyError, TypeError) as e:
             raise ValueError(f"Error parsing enzyme data: {e}")
     
-    def search_enzymes_from_smarts(self, 
-                                  smarts: str, 
-                                  targets: int = 50,
-                                  host: Optional[str] = None,
-                                  noMSA: bool = False,
-                                  output_file: Optional[str] = None) -> pd.DataFrame:
+    
+    def search_enzymes(self, smarts: str, **kwargs) -> pd.DataFrame:
         """
-        Complete workflow: query enzymes and return results as DataFrame.
+        Main method to search for enzymes
         
         Args:
-            smarts: SMARTS pattern for the reaction
-            targets: Maximum number of enzyme results to return
-            host: Target host organism for phylogenetic distance calculation
-            noMSA: Skip multiple sequence alignment generation
-            output_file: Optional file path to save results as CSV
-            
-        Returns:
-            DataFrame with enzyme suggestions
-        """
-        
-        print(f"Starting enzyme search for SMARTS pattern: {smarts}")
-        if host:
-            print(f"Using host organism: {host}")
-        
-        # Query the API
-        api_response = self.query_enzymes(
-            smarts=smarts,
-            targets=targets,
-            host=host,
-            noMSA=noMSA
-        )
-        
-        # Parse results
-        results_df = self.parse_enzyme_results(api_response)
-        
-        if len(results_df) > 0:
-            print(f"Found {len(results_df)} enzyme suggestions")
-            
-            # Save to file if requested
-            if output_file:
-                results_df.to_csv(output_file, index=False)
-                print(f"Results saved to: {output_file}")
-        else:
-            print("No enzyme suggestions found for this SMARTS pattern")
-        
-        return results_df
+            smarts: SMARTS pattern representing the chemical reaction
+            targets: Maximum number of enzyme results to return (default: 50)
+            host: Target host organism for phylogenetic distance calculation (default: '37919' for Rhodococcus opacus)
+            noMSA: If True, skip multiple sequence alignment generation (default: False)
+            timeout: Request timeout in seconds
 
+        Returns:
+            DataFrame with individual enzyme entries as rows and attributes as columns
+
+        Raises:
+            requests.RequestException: If the API request fails
+            ValueError: If the response format is invalid or parsing fails
+        """
+
+        # Add output file handling
+        output_file = kwargs.pop('output_file', None)  # Remove from kwargs
+        
+        api_response = self.query_enzymes(smarts, **kwargs)
+        df = self.parse_enzyme_results(api_response)
+        
+        # Save to file if requested
+        if output_file and len(df) > 0:
+            df.to_csv(output_file, index=False)
+            print(f"Results saved to: {output_file}")
+        
+        return df
 
 def main():
     """
@@ -248,6 +233,7 @@ Examples:
     
     parser.add_argument(
         '--no-msa',
+        default=False,
         action='store_true',
         help='Skip multiple sequence alignment generation'
     )
@@ -272,7 +258,7 @@ Examples:
         client = SelenzymeRFClient(base_url=args.url)
         
         # Perform search
-        results = client.search_enzymes_from_smarts(
+        results = client.search_enzymes(
             smarts=args.smarts,
             targets=args.targets,
             host=args.host,
@@ -294,55 +280,6 @@ Examples:
     except Exception as e:
         print(f"Error: {e}", file=sys.stderr)
         sys.exit(1)
-
-
-# Example usage functions
-def example_usage():
-    """
-    Example usage of the SelenzymeRF API client.
-    """
-    
-    # Initialize client
-    client = SelenzymeRFClient()
-    
-    # Example SMARTS patterns for different types of reactions
-    examples = [
-        # Alcohol oxidation to aldehyde
-        "[CH3:1][CH2:2][OH:3]>>[CH3:1][CHO:2]",
-        
-        # Ester hydrolysis
-        "[CH3:1][CO:2][O:3][CH3:4]>>[CH3:1][COOH:2].[OH2:3]",
-        
-        # Aromatic hydroxylation
-        "c1ccccc1>>c1ccc(O)cc1",
-        
-        # Decarboxylation
-        "[CH3:1][COOH:2]>>[CH3:1]"
-    ]
-    
-    for smarts in examples:
-        print(f"\n{'='*60}")
-        print(f"Searching enzymes for: {smarts}")
-        print('='*60)
-        
-        try:
-            results = client.search_enzymes_from_smarts(
-                smarts,
-                targets=50,
-                host="37919"  # Example host organism
-            )
-            
-            if len(results) > 0:
-                print(f"Found {len(results)} enzymes:")
-                print(results.head().to_string(index=False))
-            else:
-                print("No enzymes found for this reaction")
-                
-        except Exception as e:
-            print(f"Error processing {smarts}: {e}")
-        
-        # Small delay between requests to be respectful to the API
-        time.sleep(1)
 
 
 if __name__ == "__main__":
