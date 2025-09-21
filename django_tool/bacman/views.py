@@ -1,10 +1,16 @@
 from django.shortcuts import render
+from django.utils.safestring import mark_safe
 import json
 from collections import defaultdict
 import re
 
 from .algorithms.pathways.main import main
 from .algorithms.orthologs.processing import process_ec_list
+
+
+COLOR_MAP = {'green': '#21b57c',
+             'white': '#f2c94c',
+             'RetroPath': '#f2784c'}
 
 #HOMEPAGE
 def homepage(request):
@@ -16,40 +22,58 @@ def pathways(request):
     if request.method == "POST":
         pollutant = request.POST.get("pollutant")
         p_inchi = request.POST.get("p_inchi")
-        final = request.POST.get("final")
+        sink = request.POST.get("sink")
         f_inchi = request.POST.get("f_inchi")
 
-    paths_old, ec = main(pollutant, final, p_inchi, f_inchi)
-    request.session['ec_list'] = json.dumps(ec)
+        pathways, db = main(pollutant, sink, p_inchi, f_inchi)
 
-    color_map = {"KEGG green edge": "#21b57c",
-                 "KEGG white edge": "#d6cb2d",
-                 "RP predicted edge": "#f2784c"}
-    
-    paths = []
-    
-    for item in paths_old:
-        x = ''
-        for line in item.split("\n"):
-            def color_edge(match):
-                line_color = "#000000"
-                for key, color in color_map.items():
-                    if key in line:
-                        line_color = color
-                return f'<span style="color:{line_color}">{match.group(0)}</span>'
-            
-            cleaned_line = re.sub(r'\([^)]*\)', '', line)
-            colored_line = re.sub(r'\[.*?\]', color_edge, cleaned_line)
-
-            x += colored_line + '<br>'
+        request.session['pathways'] = pathways
+        request.session['database'] = db
+        request.session['pollutant'] = pollutant
+        request.session['sink'] = sink
         
-        paths.append(x)
+        color_map = COLOR_MAP
+        
+        path_text = []
+        for path in pathways:
+            score, steps = path[0], path[1]
+            
+            summary = f'SCORE: {score:.2f}<br>'
+            
+            for i, step in enumerate(steps, 1):
+                start_compound, end_compound = step[0], step[2]
+                enzyme_ec, enzyme_color = step[1][0][0], step[1][0][1]
 
-    return render(request, 'bacman/pathways.html', { 'first_path': paths[0], 'second_path': paths[1], 'third_path': paths[2], 'pollutant': pollutant, 'sink':final})
+                coloring = color_map.get(enzyme_color, '#333333')
+                colored_enzyme = f'<span style = "color:{coloring}"> {enzyme_ec} </span>'
+                
+                summary += f"{i}. {start_compound} → {colored_enzyme} → {end_compound}<br>"
+                
+            path_text.append(mark_safe(summary))
+        
+        context = {'pathways': enumerate(path_text),
+                'pollutant': pollutant,
+                'sink': sink}
+
+        return render(request, 'bacman/pathways.html', context )
 
 #EC CHOICE PAGE: user can customize ec
 def ec_choice(request):
-    return render(request, 'bacman/ec_choice.html' )
+    if request.method == 'POST':
+        selected_index = int(request.POST.get('selected_pathway'))
+
+        pathways = request.session.get('pathways')
+        db = request.session.get('db')
+        pollutant = request.session.get('pollutant')
+        sink = request.session.get('sink')
+
+        selected_pathway = pathways[selected_index]
+        steps = selected_pathway[1]
+
+        color_map = COLOR_MAP
+
+
+        return render(request, 'bacman/ec_choice.html' )
 
 #ORTHOLOGS PAGE: fasta files of all orthologs are presented, user chooses
 def orthologs(request):
