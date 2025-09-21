@@ -1,90 +1,90 @@
-enzyme_name	EC	source	target	reaction	color
-1-carboxybiuret hydrolase	3.5.1.131	1-Carboxybiuret	Ammonia	R12333	white
-1-carboxybiuret hydrolase	3.5.1.131	1-Carboxybiuret	Urea-1,3-dicarboxylate	R12333	white
-1-carboxybiuret hydrolase	3.5.1.131	Ammonia	1-Carboxybiuret	R12333	white
-1-carboxybiuret hydrolase	3.5.1.131	Ammonia	H2O	R12333	white
-1-carboxybiuret hydrolase	3.5.1.131	H2O	Ammonia	R12333	white
-1-carboxybiuret hydrolase	3.5.1.131	H2O	Urea-1,3-dicarboxylate	R12333	white
-1-carboxybiuret hydrolase	3.5.1.131	Urea-1,3-dicarboxylate	1-Carboxybiuret	R12333	white
-1-carboxybiuret hydrolase	3.5.1.131	Urea-1,3-dicarboxylate	H2O	R12333	white
-N-isopropylammelide isopropylaminohydrolase	3.5.4.42	Cyanuric acid	H2O	R05560	white
-N-isopropylammelide isopropylaminohydrolase	3.5.4.42	Cyanuric acid	N-Isopropylammelide	R05560	white
-N-isopropylammelide isopropylaminohydrolase	3.5.4.42	H2O	Cyanuric acid	R05560	white
-N-isopropylammelide isopropylaminohydrolase	3.5.4.42	H2O	Isopropylamine	R05560	white
-N-isopropylammelide isopropylaminohydrolase	3.5.4.42	Isopropylamine	H2O	R05560	white
-N-isopropylammelide isopropylaminohydrolase	3.5.4.42	Isopropylamine	N-Isopropylammelide	R05560	white
-N-isopropylammelide isopropylaminohydrolase	3.5.4.42	N-Isopropylammelide	Cyanuric acid	R05560	white
-N-isopropylammelide isopropylaminohydrolase	3.5.4.42	N-Isopropylammelide	Isopropylamine	R05560	white
-allophanate hydrolase	3.5.1.54	H2O	Ammonia	R00005	green
-allophanate hydrolase	3.5.1.54	H2O	CO2	R00005	green
-allophanate hydrolase	3.5.1.54	Urea-1-carboxylate	Ammonia	R00005	green
-allophanate hydrolase	3.5.1.54	Urea-1-carboxylate	CO2	R00005	green
-atrazine chlorohydrolase	3.8.1.8	Atrazine	Hydrochloric acid	R05558	white
-atrazine chlorohydrolase	3.8.1.8	Atrazine	Hydroxyatrazine	R05558	white
-atrazine chlorohydrolase	3.8.1.8	H2O	Hydrochloric acid	R05558	white
-atrazine chlorohydrolase	3.8.1.8	H2O	Hydroxyatrazine	R05558	white
-atrazine chlorohydrolase	3.8.1.8	Hydrochloric acid	Atrazine	R05558	white
-atrazine chlorohydrolase	3.8.1.8	Hydrochloric acid	H2O	R05558	white
-atrazine chlorohydrolase	3.8.1.8	Hydroxyatrazine	Atrazine	R05558	white
-atrazine chlorohydrolase	3.8.1.8	Hydroxyatrazine	H2O	R05558	white
-cyanamide hydratase	4.2.1.69	Cyanamide	Urea	R00778	white
-cyanamide hydratase	4.2.1.69	H2O	Urea	R00778	white
-cyanamide hydratase	4.2.1.69	Urea	Cyanamide	R00778	white
-cyanamide hydratase	4.2.1.69	Urea	H2O	R00778	white
-cyanuric acid amidohydrolase	3.5.2.15	1-Carboxybiuret	Cyanuric acid	R12332	white
-cyanuric acid amidohydrolase	3.5.2.15	1-Carboxybiuret	H2O	R12332	white
-cyanuric acid amidohydrolase	3.5.2.15	Cyanuric acid	1-Carboxybiuret	R12332	white
-cyanuric acid amidohydrolase	3.5.2.15	H2O	1-Carboxybiuret	R12332	white
-hydroxydechloroatrazine ethylaminohydrolase	3.5.4.43	Ethylamine	H2O	R05559	white
-hydroxydechloroatrazine ethylaminohydrolase	3.5.4.43	Ethylamine	Hydroxyatrazine	R05559	white
-hydroxydechloroatrazine ethylaminohydrolase	3.5.4.43	H2O	Ethylamine	R05559	white
-hydroxydechloroatrazine ethylaminohydrolase	3.5.4.43	H2O	N-Isopropylammelide	R05559	white
-hydroxydechloroatrazine ethylaminohydrolase	3.5.4.43	Hydroxyatrazine	Ethylamine	R05559	white
-hydroxydechloroatrazine ethylaminohydrolase	3.5.4.43	Hydroxyatrazine	N-Isopropylammelide	R05559	white
-hydroxydechloroatrazine ethylaminohydrolase	3.5.4.43	N-Isopropylammelide	H2O	R05559	white
-hydroxydechloroatrazine ethylaminohydrolase	3.5.4.43	N-Isopropylammelide	Hydroxyatrazine	R05559	white
-melamine deaminase	3.5.4.45	Ammeline	H2O	R06968	white
-melamine deaminase	3.5.4.45	Ammeline	Melamine	R06968	white
-melamine deaminase	3.5.4.45	Ammonia	H2O	R06968	white
-melamine deaminase	3.5.4.45	Ammonia	Melamine	R06968	white
-melamine deaminase	3.5.4.45	H2O	Ammeline	R06968	white
-melamine deaminase	3.5.4.45	H2O	Ammonia	R06968	white
-melamine deaminase	3.5.4.45	Melamine	Ammeline	R06968	white
-melamine deaminase	3.5.4.45	Melamine	Ammonia	R06968	white
-roa:Pd630_LPD12025		Biuret	Ammonia	R05563	green
-roa:Pd630_LPD12025		Biuret	Urea-1-carboxylate	R05563	green
-roa:Pd630_LPD12025		H2O	Ammonia	R05563	green
-roa:Pd630_LPD12025		H2O	Urea-1-carboxylate	R05563	green
-roa:Pd630_LPD12034		Biuret	Ammonia	R05563	green
-roa:Pd630_LPD12034		Biuret	Urea-1-carboxylate	R05563	green
-roa:Pd630_LPD12034		H2O	Ammonia	R05563	green
-roa:Pd630_LPD12034		H2O	Urea-1-carboxylate	R05563	green
-roa:Pd630_LPD12066		Biuret	Ammonia	R05563	green
-roa:Pd630_LPD12066		Biuret	Urea-1-carboxylate	R05563	green
-roa:Pd630_LPD12066		H2O	Ammonia	R05563	green
-roa:Pd630_LPD12066		H2O	Urea-1-carboxylate	R05563	green
-roa:Pd630_LPD12071		Biuret	Ammonia	R05563	green
-roa:Pd630_LPD12071		Biuret	Urea-1-carboxylate	R05563	green
-roa:Pd630_LPD12071		H2O	Ammonia	R05563	green
-roa:Pd630_LPD12071		H2O	Urea-1-carboxylate	R05563	green
-urea carboxylase	6.3.4.6	ATP	ADP	R00774	green
-urea carboxylase	6.3.4.6	ATP	Orthophosphate	R00774	green
-urea carboxylase	6.3.4.6	ATP	Urea-1-carboxylate	R00774	green
-urea carboxylase	6.3.4.6	HCO3-	ADP	R00774	green
-urea carboxylase	6.3.4.6	HCO3-	Orthophosphate	R00774	green
-urea carboxylase	6.3.4.6	HCO3-	Urea-1-carboxylate	R00774	green
-urea carboxylase	6.3.4.6	Urea	ADP	R00774	green
-urea carboxylase	6.3.4.6	Urea	Orthophosphate	R00774	green
-urea carboxylase	6.3.4.6	Urea	Urea-1-carboxylate	R00774	green
-urease subunit alpha	3.5.1.5	H2O	Ammonia	R13420	green
-urease subunit alpha	3.5.1.5	H2O	HCO3-	R13420	green
-urease subunit alpha	3.5.1.5	Urea	Ammonia	R13420	green
-urease subunit alpha	3.5.1.5	Urea	HCO3-	R13420	green
-urease subunit beta	3.5.1.5	H2O	Ammonia	R13420	green
-urease subunit beta	3.5.1.5	H2O	HCO3-	R13420	green
-urease subunit beta	3.5.1.5	Urea	Ammonia	R13420	green
-urease subunit beta	3.5.1.5	Urea	HCO3-	R13420	green
-urease subunit gamma	3.5.1.5	H2O	Ammonia	R13420	green
-urease subunit gamma	3.5.1.5	H2O	HCO3-	R13420	green
-urease subunit gamma	3.5.1.5	Urea	Ammonia	R13420	green
-urease subunit gamma	3.5.1.5	Urea	HCO3-	R13420	green
+enzyme_name	EC	source_inchi	source_inchi_key	target_inchi	target_inchi_key	source_name	target_name	reaction	color	source_mol_weight	target_mol_weight
+1-carboxybiuret hydrolase	3.5.1.131	InChI=1S/C3H4N2O5/c6-1(4-2(7)8)5-3(9)10/h(H,7,8)(H,9,10)(H2,4,5,6)	OBMKNHGTYMWONF-UHFFFAOYSA-N	InChI=1S/C3H5N3O4/c4-1(7)5-2(8)6-3(9)10/h(H,9,10)(H4,4,5,6,7,8)	HAKPEUOAOGGSPC-UHFFFAOYSA-N	Urea-1,3-dicarboxylate	1-Carboxybiuret	R12333	white	148.07	147.09
+1-carboxybiuret hydrolase	3.5.1.131	InChI=1S/C3H4N2O5/c6-1(4-2(7)8)5-3(9)10/h(H,7,8)(H,9,10)(H2,4,5,6)	OBMKNHGTYMWONF-UHFFFAOYSA-N	InChI=1S/H2O/h1H2	XLYOFNOQVPJJNP-UHFFFAOYSA-N	Urea-1,3-dicarboxylate	H2O	R12333	white	148.07	18.015
+1-carboxybiuret hydrolase	3.5.1.131	InChI=1S/C3H5N3O4/c4-1(7)5-2(8)6-3(9)10/h(H,9,10)(H4,4,5,6,7,8)	HAKPEUOAOGGSPC-UHFFFAOYSA-N	InChI=1S/C3H4N2O5/c6-1(4-2(7)8)5-3(9)10/h(H,7,8)(H,9,10)(H2,4,5,6)	OBMKNHGTYMWONF-UHFFFAOYSA-N	1-Carboxybiuret	Urea-1,3-dicarboxylate	R12333	white	147.09	148.07
+1-carboxybiuret hydrolase	3.5.1.131	InChI=1S/C3H5N3O4/c4-1(7)5-2(8)6-3(9)10/h(H,9,10)(H4,4,5,6,7,8)	HAKPEUOAOGGSPC-UHFFFAOYSA-N	InChI=1S/H3N/h1H3	QGZKDVFQNNGYKY-UHFFFAOYSA-N	1-Carboxybiuret	Ammonia	R12333	white	147.09	17.031
+1-carboxybiuret hydrolase	3.5.1.131	InChI=1S/H2O/h1H2	XLYOFNOQVPJJNP-UHFFFAOYSA-N	InChI=1S/C3H4N2O5/c6-1(4-2(7)8)5-3(9)10/h(H,7,8)(H,9,10)(H2,4,5,6)	OBMKNHGTYMWONF-UHFFFAOYSA-N	H2O	Urea-1,3-dicarboxylate	R12333	white	18.015	148.07
+1-carboxybiuret hydrolase	3.5.1.131	InChI=1S/H2O/h1H2	XLYOFNOQVPJJNP-UHFFFAOYSA-N	InChI=1S/H3N/h1H3	QGZKDVFQNNGYKY-UHFFFAOYSA-N	H2O	Ammonia	R12333	white	18.015	17.031
+1-carboxybiuret hydrolase	3.5.1.131	InChI=1S/H3N/h1H3	QGZKDVFQNNGYKY-UHFFFAOYSA-N	InChI=1S/C3H5N3O4/c4-1(7)5-2(8)6-3(9)10/h(H,9,10)(H4,4,5,6,7,8)	HAKPEUOAOGGSPC-UHFFFAOYSA-N	Ammonia	1-Carboxybiuret	R12333	white	17.031	147.09
+1-carboxybiuret hydrolase	3.5.1.131	InChI=1S/H3N/h1H3	QGZKDVFQNNGYKY-UHFFFAOYSA-N	InChI=1S/H2O/h1H2	XLYOFNOQVPJJNP-UHFFFAOYSA-N	Ammonia	H2O	R12333	white	17.031	18.015
+N-isopropylammelide isopropylaminohydrolase	3.5.4.42	InChI=1S/C3H3N3O3/c7-1-4-2(8)6-3(9)5-1/h(H3,4,5,6,7,8,9)	ZFSLODLOARCGLH-UHFFFAOYSA-N	InChI=1S/C6H10N4O2/c1-3(2)7-4-8-5(11)10-6(12)9-4/h3H,1-2H3,(H3,7,8,9,10,11,12)	DBFMBHXVWIURSV-UHFFFAOYSA-N	Cyanuric acid	N-Isopropylammelide	R05560	white	129.07	170.17
+N-isopropylammelide isopropylaminohydrolase	3.5.4.42	InChI=1S/C3H3N3O3/c7-1-4-2(8)6-3(9)5-1/h(H3,4,5,6,7,8,9)	ZFSLODLOARCGLH-UHFFFAOYSA-N	InChI=1S/H2O/h1H2	XLYOFNOQVPJJNP-UHFFFAOYSA-N	Cyanuric acid	H2O	R05560	white	129.07	18.015
+N-isopropylammelide isopropylaminohydrolase	3.5.4.42	InChI=1S/C3H9N/c1-3(2)4/h3H,4H2,1-2H3	JJWLVOIRVHMVIS-UHFFFAOYSA-N	InChI=1S/C6H10N4O2/c1-3(2)7-4-8-5(11)10-6(12)9-4/h3H,1-2H3,(H3,7,8,9,10,11,12)	DBFMBHXVWIURSV-UHFFFAOYSA-N	Isopropylamine	N-Isopropylammelide	R05560	white	59.11	170.17
+N-isopropylammelide isopropylaminohydrolase	3.5.4.42	InChI=1S/C3H9N/c1-3(2)4/h3H,4H2,1-2H3	JJWLVOIRVHMVIS-UHFFFAOYSA-N	InChI=1S/H2O/h1H2	XLYOFNOQVPJJNP-UHFFFAOYSA-N	Isopropylamine	H2O	R05560	white	59.11	18.015
+N-isopropylammelide isopropylaminohydrolase	3.5.4.42	InChI=1S/C6H10N4O2/c1-3(2)7-4-8-5(11)10-6(12)9-4/h3H,1-2H3,(H3,7,8,9,10,11,12)	DBFMBHXVWIURSV-UHFFFAOYSA-N	InChI=1S/C3H3N3O3/c7-1-4-2(8)6-3(9)5-1/h(H3,4,5,6,7,8,9)	ZFSLODLOARCGLH-UHFFFAOYSA-N	N-Isopropylammelide	Cyanuric acid	R05560	white	170.17	129.07
+N-isopropylammelide isopropylaminohydrolase	3.5.4.42	InChI=1S/C6H10N4O2/c1-3(2)7-4-8-5(11)10-6(12)9-4/h3H,1-2H3,(H3,7,8,9,10,11,12)	DBFMBHXVWIURSV-UHFFFAOYSA-N	InChI=1S/C3H9N/c1-3(2)4/h3H,4H2,1-2H3	JJWLVOIRVHMVIS-UHFFFAOYSA-N	N-Isopropylammelide	Isopropylamine	R05560	white	170.17	59.11
+N-isopropylammelide isopropylaminohydrolase	3.5.4.42	InChI=1S/H2O/h1H2	XLYOFNOQVPJJNP-UHFFFAOYSA-N	InChI=1S/C3H3N3O3/c7-1-4-2(8)6-3(9)5-1/h(H3,4,5,6,7,8,9)	ZFSLODLOARCGLH-UHFFFAOYSA-N	H2O	Cyanuric acid	R05560	white	18.015	129.07
+N-isopropylammelide isopropylaminohydrolase	3.5.4.42	InChI=1S/H2O/h1H2	XLYOFNOQVPJJNP-UHFFFAOYSA-N	InChI=1S/C3H9N/c1-3(2)4/h3H,4H2,1-2H3	JJWLVOIRVHMVIS-UHFFFAOYSA-N	H2O	Isopropylamine	R05560	white	18.015	59.11
+allophanate hydrolase	3.5.1.54	InChI=1S/C2H4N2O3/c3-1(5)4-2(6)7/h(H,6,7)(H3,3,4,5)	AVWRKZWQTYIKIY-UHFFFAOYSA-N	InChI=1S/CO2/c2-1-3	CURLTUGMZLYLDI-UHFFFAOYSA-N	Urea-1-carboxylate	CO2	R00005	green	104.07	44.009
+allophanate hydrolase	3.5.1.54	InChI=1S/C2H4N2O3/c3-1(5)4-2(6)7/h(H,6,7)(H3,3,4,5)	AVWRKZWQTYIKIY-UHFFFAOYSA-N	InChI=1S/H3N/h1H3	QGZKDVFQNNGYKY-UHFFFAOYSA-N	Urea-1-carboxylate	Ammonia	R00005	green	104.07	17.031
+allophanate hydrolase	3.5.1.54	InChI=1S/H2O/h1H2	XLYOFNOQVPJJNP-UHFFFAOYSA-N	InChI=1S/CO2/c2-1-3	CURLTUGMZLYLDI-UHFFFAOYSA-N	H2O	CO2	R00005	green	18.015	44.009
+allophanate hydrolase	3.5.1.54	InChI=1S/H2O/h1H2	XLYOFNOQVPJJNP-UHFFFAOYSA-N	InChI=1S/H3N/h1H3	QGZKDVFQNNGYKY-UHFFFAOYSA-N	H2O	Ammonia	R00005	green	18.015	17.031
+atrazine chlorohydrolase	3.8.1.8	InChI=1S/C8H14ClN5/c1-4-10-7-12-6(9)13-8(14-7)11-5(2)3/h5H,4H2,1-3H3,(H2,10,11,12,13,14)	MXWJVTOOROXGIU-UHFFFAOYSA-N	InChI=1S/C8H15N5O/c1-4-9-6-11-7(10-5(2)3)13-8(14)12-6/h5H,4H2,1-3H3,(H3,9,10,11,12,13,14)	NFMIMWNQWAWNDW-UHFFFAOYSA-N	Atrazine	Hydroxyatrazine	R05558	white	215.68	197.24
+atrazine chlorohydrolase	3.8.1.8	InChI=1S/C8H14ClN5/c1-4-10-7-12-6(9)13-8(14-7)11-5(2)3/h5H,4H2,1-3H3,(H2,10,11,12,13,14)	MXWJVTOOROXGIU-UHFFFAOYSA-N	InChI=1S/ClH/h1H	VEXZGXHMUGYJMC-UHFFFAOYSA-N	Atrazine	Hydrochloric acid	R05558	white	215.68	36.46
+atrazine chlorohydrolase	3.8.1.8	InChI=1S/C8H15N5O/c1-4-9-6-11-7(10-5(2)3)13-8(14)12-6/h5H,4H2,1-3H3,(H3,9,10,11,12,13,14)	NFMIMWNQWAWNDW-UHFFFAOYSA-N	InChI=1S/C8H14ClN5/c1-4-10-7-12-6(9)13-8(14-7)11-5(2)3/h5H,4H2,1-3H3,(H2,10,11,12,13,14)	MXWJVTOOROXGIU-UHFFFAOYSA-N	Hydroxyatrazine	Atrazine	R05558	white	197.24	215.68
+atrazine chlorohydrolase	3.8.1.8	InChI=1S/C8H15N5O/c1-4-9-6-11-7(10-5(2)3)13-8(14)12-6/h5H,4H2,1-3H3,(H3,9,10,11,12,13,14)	NFMIMWNQWAWNDW-UHFFFAOYSA-N	InChI=1S/H2O/h1H2	XLYOFNOQVPJJNP-UHFFFAOYSA-N	Hydroxyatrazine	H2O	R05558	white	197.24	18.015
+atrazine chlorohydrolase	3.8.1.8	InChI=1S/ClH/h1H	VEXZGXHMUGYJMC-UHFFFAOYSA-N	InChI=1S/C8H14ClN5/c1-4-10-7-12-6(9)13-8(14-7)11-5(2)3/h5H,4H2,1-3H3,(H2,10,11,12,13,14)	MXWJVTOOROXGIU-UHFFFAOYSA-N	Hydrochloric acid	Atrazine	R05558	white	36.46	215.68
+atrazine chlorohydrolase	3.8.1.8	InChI=1S/ClH/h1H	VEXZGXHMUGYJMC-UHFFFAOYSA-N	InChI=1S/H2O/h1H2	XLYOFNOQVPJJNP-UHFFFAOYSA-N	Hydrochloric acid	H2O	R05558	white	36.46	18.015
+atrazine chlorohydrolase	3.8.1.8	InChI=1S/H2O/h1H2	XLYOFNOQVPJJNP-UHFFFAOYSA-N	InChI=1S/C8H15N5O/c1-4-9-6-11-7(10-5(2)3)13-8(14)12-6/h5H,4H2,1-3H3,(H3,9,10,11,12,13,14)	NFMIMWNQWAWNDW-UHFFFAOYSA-N	H2O	Hydroxyatrazine	R05558	white	18.015	197.24
+atrazine chlorohydrolase	3.8.1.8	InChI=1S/H2O/h1H2	XLYOFNOQVPJJNP-UHFFFAOYSA-N	InChI=1S/ClH/h1H	VEXZGXHMUGYJMC-UHFFFAOYSA-N	H2O	Hydrochloric acid	R05558	white	18.015	36.46
+cyanamide hydratase	4.2.1.69	InChI=1S/CH2N2/c2-1-3/h2H2	XZMCDFZZKTWFGF-UHFFFAOYSA-N	InChI=1S/CH4N2O/c2-1(3)4/h(H4,2,3,4)	XSQUKJJJFZCRTK-UHFFFAOYSA-N	Cyanamide	Urea	R00778	white	42.04	60.056
+cyanamide hydratase	4.2.1.69	InChI=1S/CH4N2O/c2-1(3)4/h(H4,2,3,4)	XSQUKJJJFZCRTK-UHFFFAOYSA-N	InChI=1S/CH2N2/c2-1-3/h2H2	XZMCDFZZKTWFGF-UHFFFAOYSA-N	Urea	Cyanamide	R00778	white	60.056	42.04
+cyanamide hydratase	4.2.1.69	InChI=1S/CH4N2O/c2-1(3)4/h(H4,2,3,4)	XSQUKJJJFZCRTK-UHFFFAOYSA-N	InChI=1S/H2O/h1H2	XLYOFNOQVPJJNP-UHFFFAOYSA-N	Urea	H2O	R00778	white	60.056	18.015
+cyanamide hydratase	4.2.1.69	InChI=1S/H2O/h1H2	XLYOFNOQVPJJNP-UHFFFAOYSA-N	InChI=1S/CH4N2O/c2-1(3)4/h(H4,2,3,4)	XSQUKJJJFZCRTK-UHFFFAOYSA-N	H2O	Urea	R00778	white	18.015	60.056
+cyanuric acid amidohydrolase	3.5.2.15	InChI=1S/C3H3N3O3/c7-1-4-2(8)6-3(9)5-1/h(H3,4,5,6,7,8,9)	ZFSLODLOARCGLH-UHFFFAOYSA-N	InChI=1S/C3H5N3O4/c4-1(7)5-2(8)6-3(9)10/h(H,9,10)(H4,4,5,6,7,8)	HAKPEUOAOGGSPC-UHFFFAOYSA-N	Cyanuric acid	1-Carboxybiuret	R12332	white	129.07	147.09
+cyanuric acid amidohydrolase	3.5.2.15	InChI=1S/C3H5N3O4/c4-1(7)5-2(8)6-3(9)10/h(H,9,10)(H4,4,5,6,7,8)	HAKPEUOAOGGSPC-UHFFFAOYSA-N	InChI=1S/C3H3N3O3/c7-1-4-2(8)6-3(9)5-1/h(H3,4,5,6,7,8,9)	ZFSLODLOARCGLH-UHFFFAOYSA-N	1-Carboxybiuret	Cyanuric acid	R12332	white	147.09	129.07
+cyanuric acid amidohydrolase	3.5.2.15	InChI=1S/C3H5N3O4/c4-1(7)5-2(8)6-3(9)10/h(H,9,10)(H4,4,5,6,7,8)	HAKPEUOAOGGSPC-UHFFFAOYSA-N	InChI=1S/H2O/h1H2	XLYOFNOQVPJJNP-UHFFFAOYSA-N	1-Carboxybiuret	H2O	R12332	white	147.09	18.015
+cyanuric acid amidohydrolase	3.5.2.15	InChI=1S/H2O/h1H2	XLYOFNOQVPJJNP-UHFFFAOYSA-N	InChI=1S/C3H5N3O4/c4-1(7)5-2(8)6-3(9)10/h(H,9,10)(H4,4,5,6,7,8)	HAKPEUOAOGGSPC-UHFFFAOYSA-N	H2O	1-Carboxybiuret	R12332	white	18.015	147.09
+hydroxydechloroatrazine ethylaminohydrolase	3.5.4.43	InChI=1S/C2H7N/c1-2-3/h2-3H2,1H3	QUSNBJAOOMFDIB-UHFFFAOYSA-N	InChI=1S/C8H15N5O/c1-4-9-6-11-7(10-5(2)3)13-8(14)12-6/h5H,4H2,1-3H3,(H3,9,10,11,12,13,14)	NFMIMWNQWAWNDW-UHFFFAOYSA-N	Ethylamine	Hydroxyatrazine	R05559	white	45.08	197.24
+hydroxydechloroatrazine ethylaminohydrolase	3.5.4.43	InChI=1S/C2H7N/c1-2-3/h2-3H2,1H3	QUSNBJAOOMFDIB-UHFFFAOYSA-N	InChI=1S/H2O/h1H2	XLYOFNOQVPJJNP-UHFFFAOYSA-N	Ethylamine	H2O	R05559	white	45.08	18.015
+hydroxydechloroatrazine ethylaminohydrolase	3.5.4.43	InChI=1S/C6H10N4O2/c1-3(2)7-4-8-5(11)10-6(12)9-4/h3H,1-2H3,(H3,7,8,9,10,11,12)	DBFMBHXVWIURSV-UHFFFAOYSA-N	InChI=1S/C8H15N5O/c1-4-9-6-11-7(10-5(2)3)13-8(14)12-6/h5H,4H2,1-3H3,(H3,9,10,11,12,13,14)	NFMIMWNQWAWNDW-UHFFFAOYSA-N	N-Isopropylammelide	Hydroxyatrazine	R05559	white	170.17	197.24
+hydroxydechloroatrazine ethylaminohydrolase	3.5.4.43	InChI=1S/C6H10N4O2/c1-3(2)7-4-8-5(11)10-6(12)9-4/h3H,1-2H3,(H3,7,8,9,10,11,12)	DBFMBHXVWIURSV-UHFFFAOYSA-N	InChI=1S/H2O/h1H2	XLYOFNOQVPJJNP-UHFFFAOYSA-N	N-Isopropylammelide	H2O	R05559	white	170.17	18.015
+hydroxydechloroatrazine ethylaminohydrolase	3.5.4.43	InChI=1S/C8H15N5O/c1-4-9-6-11-7(10-5(2)3)13-8(14)12-6/h5H,4H2,1-3H3,(H3,9,10,11,12,13,14)	NFMIMWNQWAWNDW-UHFFFAOYSA-N	InChI=1S/C2H7N/c1-2-3/h2-3H2,1H3	QUSNBJAOOMFDIB-UHFFFAOYSA-N	Hydroxyatrazine	Ethylamine	R05559	white	197.24	45.08
+hydroxydechloroatrazine ethylaminohydrolase	3.5.4.43	InChI=1S/C8H15N5O/c1-4-9-6-11-7(10-5(2)3)13-8(14)12-6/h5H,4H2,1-3H3,(H3,9,10,11,12,13,14)	NFMIMWNQWAWNDW-UHFFFAOYSA-N	InChI=1S/C6H10N4O2/c1-3(2)7-4-8-5(11)10-6(12)9-4/h3H,1-2H3,(H3,7,8,9,10,11,12)	DBFMBHXVWIURSV-UHFFFAOYSA-N	Hydroxyatrazine	N-Isopropylammelide	R05559	white	197.24	170.17
+hydroxydechloroatrazine ethylaminohydrolase	3.5.4.43	InChI=1S/H2O/h1H2	XLYOFNOQVPJJNP-UHFFFAOYSA-N	InChI=1S/C2H7N/c1-2-3/h2-3H2,1H3	QUSNBJAOOMFDIB-UHFFFAOYSA-N	H2O	Ethylamine	R05559	white	18.015	45.08
+hydroxydechloroatrazine ethylaminohydrolase	3.5.4.43	InChI=1S/H2O/h1H2	XLYOFNOQVPJJNP-UHFFFAOYSA-N	InChI=1S/C6H10N4O2/c1-3(2)7-4-8-5(11)10-6(12)9-4/h3H,1-2H3,(H3,7,8,9,10,11,12)	DBFMBHXVWIURSV-UHFFFAOYSA-N	H2O	N-Isopropylammelide	R05559	white	18.015	170.17
+melamine deaminase	3.5.4.45	InChI=1S/C3H5N5O/c4-1-6-2(5)8-3(9)7-1/h(H5,4,5,6,7,8,9)	MASBWURJQFFLOO-UHFFFAOYSA-N	InChI=1S/C3H6N6/c4-1-7-2(5)9-3(6)8-1/h(H6,4,5,6,7,8,9)	JDSHMPZPIAZGSV-UHFFFAOYSA-N	Ammeline	Melamine	R06968	white	127.11	126.12
+melamine deaminase	3.5.4.45	InChI=1S/C3H5N5O/c4-1-6-2(5)8-3(9)7-1/h(H5,4,5,6,7,8,9)	MASBWURJQFFLOO-UHFFFAOYSA-N	InChI=1S/H2O/h1H2	XLYOFNOQVPJJNP-UHFFFAOYSA-N	Ammeline	H2O	R06968	white	127.11	18.015
+melamine deaminase	3.5.4.45	InChI=1S/C3H6N6/c4-1-7-2(5)9-3(6)8-1/h(H6,4,5,6,7,8,9)	JDSHMPZPIAZGSV-UHFFFAOYSA-N	InChI=1S/C3H5N5O/c4-1-6-2(5)8-3(9)7-1/h(H5,4,5,6,7,8,9)	MASBWURJQFFLOO-UHFFFAOYSA-N	Melamine	Ammeline	R06968	white	126.12	127.11
+melamine deaminase	3.5.4.45	InChI=1S/C3H6N6/c4-1-7-2(5)9-3(6)8-1/h(H6,4,5,6,7,8,9)	JDSHMPZPIAZGSV-UHFFFAOYSA-N	InChI=1S/H3N/h1H3	QGZKDVFQNNGYKY-UHFFFAOYSA-N	Melamine	Ammonia	R06968	white	126.12	17.031
+melamine deaminase	3.5.4.45	InChI=1S/H2O/h1H2	XLYOFNOQVPJJNP-UHFFFAOYSA-N	InChI=1S/C3H5N5O/c4-1-6-2(5)8-3(9)7-1/h(H5,4,5,6,7,8,9)	MASBWURJQFFLOO-UHFFFAOYSA-N	H2O	Ammeline	R06968	white	18.015	127.11
+melamine deaminase	3.5.4.45	InChI=1S/H2O/h1H2	XLYOFNOQVPJJNP-UHFFFAOYSA-N	InChI=1S/H3N/h1H3	QGZKDVFQNNGYKY-UHFFFAOYSA-N	H2O	Ammonia	R06968	white	18.015	17.031
+melamine deaminase	3.5.4.45	InChI=1S/H3N/h1H3	QGZKDVFQNNGYKY-UHFFFAOYSA-N	InChI=1S/C3H6N6/c4-1-7-2(5)9-3(6)8-1/h(H6,4,5,6,7,8,9)	JDSHMPZPIAZGSV-UHFFFAOYSA-N	Ammonia	Melamine	R06968	white	17.031	126.12
+melamine deaminase	3.5.4.45	InChI=1S/H3N/h1H3	QGZKDVFQNNGYKY-UHFFFAOYSA-N	InChI=1S/H2O/h1H2	XLYOFNOQVPJJNP-UHFFFAOYSA-N	Ammonia	H2O	R06968	white	17.031	18.015
+roa:Pd630_LPD12025		InChI=1S/C2H5N3O2/c3-1(6)5-2(4)7/h(H5,3,4,5,6,7)	OHJMTUPIZMNBFR-UHFFFAOYSA-N	InChI=1S/C2H4N2O3/c3-1(5)4-2(6)7/h(H,6,7)(H3,3,4,5)	AVWRKZWQTYIKIY-UHFFFAOYSA-N	Biuret	Urea-1-carboxylate	R05563	green	103.08	104.07
+roa:Pd630_LPD12025		InChI=1S/C2H5N3O2/c3-1(6)5-2(4)7/h(H5,3,4,5,6,7)	OHJMTUPIZMNBFR-UHFFFAOYSA-N	InChI=1S/H3N/h1H3	QGZKDVFQNNGYKY-UHFFFAOYSA-N	Biuret	Ammonia	R05563	green	103.08	17.031
+roa:Pd630_LPD12025		InChI=1S/H2O/h1H2	XLYOFNOQVPJJNP-UHFFFAOYSA-N	InChI=1S/C2H4N2O3/c3-1(5)4-2(6)7/h(H,6,7)(H3,3,4,5)	AVWRKZWQTYIKIY-UHFFFAOYSA-N	H2O	Urea-1-carboxylate	R05563	green	18.015	104.07
+roa:Pd630_LPD12025		InChI=1S/H2O/h1H2	XLYOFNOQVPJJNP-UHFFFAOYSA-N	InChI=1S/H3N/h1H3	QGZKDVFQNNGYKY-UHFFFAOYSA-N	H2O	Ammonia	R05563	green	18.015	17.031
+roa:Pd630_LPD12034		InChI=1S/C2H5N3O2/c3-1(6)5-2(4)7/h(H5,3,4,5,6,7)	OHJMTUPIZMNBFR-UHFFFAOYSA-N	InChI=1S/C2H4N2O3/c3-1(5)4-2(6)7/h(H,6,7)(H3,3,4,5)	AVWRKZWQTYIKIY-UHFFFAOYSA-N	Biuret	Urea-1-carboxylate	R05563	green	103.08	104.07
+roa:Pd630_LPD12034		InChI=1S/C2H5N3O2/c3-1(6)5-2(4)7/h(H5,3,4,5,6,7)	OHJMTUPIZMNBFR-UHFFFAOYSA-N	InChI=1S/H3N/h1H3	QGZKDVFQNNGYKY-UHFFFAOYSA-N	Biuret	Ammonia	R05563	green	103.08	17.031
+roa:Pd630_LPD12034		InChI=1S/H2O/h1H2	XLYOFNOQVPJJNP-UHFFFAOYSA-N	InChI=1S/C2H4N2O3/c3-1(5)4-2(6)7/h(H,6,7)(H3,3,4,5)	AVWRKZWQTYIKIY-UHFFFAOYSA-N	H2O	Urea-1-carboxylate	R05563	green	18.015	104.07
+roa:Pd630_LPD12034		InChI=1S/H2O/h1H2	XLYOFNOQVPJJNP-UHFFFAOYSA-N	InChI=1S/H3N/h1H3	QGZKDVFQNNGYKY-UHFFFAOYSA-N	H2O	Ammonia	R05563	green	18.015	17.031
+roa:Pd630_LPD12066		InChI=1S/C2H5N3O2/c3-1(6)5-2(4)7/h(H5,3,4,5,6,7)	OHJMTUPIZMNBFR-UHFFFAOYSA-N	InChI=1S/C2H4N2O3/c3-1(5)4-2(6)7/h(H,6,7)(H3,3,4,5)	AVWRKZWQTYIKIY-UHFFFAOYSA-N	Biuret	Urea-1-carboxylate	R05563	green	103.08	104.07
+roa:Pd630_LPD12066		InChI=1S/C2H5N3O2/c3-1(6)5-2(4)7/h(H5,3,4,5,6,7)	OHJMTUPIZMNBFR-UHFFFAOYSA-N	InChI=1S/H3N/h1H3	QGZKDVFQNNGYKY-UHFFFAOYSA-N	Biuret	Ammonia	R05563	green	103.08	17.031
+roa:Pd630_LPD12066		InChI=1S/H2O/h1H2	XLYOFNOQVPJJNP-UHFFFAOYSA-N	InChI=1S/C2H4N2O3/c3-1(5)4-2(6)7/h(H,6,7)(H3,3,4,5)	AVWRKZWQTYIKIY-UHFFFAOYSA-N	H2O	Urea-1-carboxylate	R05563	green	18.015	104.07
+roa:Pd630_LPD12066		InChI=1S/H2O/h1H2	XLYOFNOQVPJJNP-UHFFFAOYSA-N	InChI=1S/H3N/h1H3	QGZKDVFQNNGYKY-UHFFFAOYSA-N	H2O	Ammonia	R05563	green	18.015	17.031
+roa:Pd630_LPD12071		InChI=1S/C2H5N3O2/c3-1(6)5-2(4)7/h(H5,3,4,5,6,7)	OHJMTUPIZMNBFR-UHFFFAOYSA-N	InChI=1S/C2H4N2O3/c3-1(5)4-2(6)7/h(H,6,7)(H3,3,4,5)	AVWRKZWQTYIKIY-UHFFFAOYSA-N	Biuret	Urea-1-carboxylate	R05563	green	103.08	104.07
+roa:Pd630_LPD12071		InChI=1S/C2H5N3O2/c3-1(6)5-2(4)7/h(H5,3,4,5,6,7)	OHJMTUPIZMNBFR-UHFFFAOYSA-N	InChI=1S/H3N/h1H3	QGZKDVFQNNGYKY-UHFFFAOYSA-N	Biuret	Ammonia	R05563	green	103.08	17.031
+roa:Pd630_LPD12071		InChI=1S/H2O/h1H2	XLYOFNOQVPJJNP-UHFFFAOYSA-N	InChI=1S/C2H4N2O3/c3-1(5)4-2(6)7/h(H,6,7)(H3,3,4,5)	AVWRKZWQTYIKIY-UHFFFAOYSA-N	H2O	Urea-1-carboxylate	R05563	green	18.015	104.07
+roa:Pd630_LPD12071		InChI=1S/H2O/h1H2	XLYOFNOQVPJJNP-UHFFFAOYSA-N	InChI=1S/H3N/h1H3	QGZKDVFQNNGYKY-UHFFFAOYSA-N	H2O	Ammonia	R05563	green	18.015	17.031
+urea carboxylase	6.3.4.6	InChI=1S/C10H16N5O13P3/c11-8-5-9(13-2-12-8)15(3-14-5)10-7(17)6(16)4(26-10)1-25-30(21,22)28-31(23,24)27-29(18,19)20/h2-4,6-7,10,16-17H,1H2,(H,21,22)(H,23,24)(H2,11,12,13)(H2,18,19,20)/t4-,6-,7-,10-/m1/s1	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	InChI=1S/C10H15N5O10P2/c11-8-5-9(13-2-12-8)15(3-14-5)10-7(17)6(16)4(24-10)1-23-27(21,22)25-26(18,19)20/h2-4,6-7,10,16-17H,1H2,(H,21,22)(H2,11,12,13)(H2,18,19,20)/t4-,6-,7-,10-/m1/s1	XTWYTFMLZFPYCI-KQYNXXCUSA-N	ATP	ADP	R00774	green	507.18	427.2
+urea carboxylase	6.3.4.6	InChI=1S/C10H16N5O13P3/c11-8-5-9(13-2-12-8)15(3-14-5)10-7(17)6(16)4(26-10)1-25-30(21,22)28-31(23,24)27-29(18,19)20/h2-4,6-7,10,16-17H,1H2,(H,21,22)(H,23,24)(H2,11,12,13)(H2,18,19,20)/t4-,6-,7-,10-/m1/s1	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	InChI=1S/C2H4N2O3/c3-1(5)4-2(6)7/h(H,6,7)(H3,3,4,5)	AVWRKZWQTYIKIY-UHFFFAOYSA-N	ATP	Urea-1-carboxylate	R00774	green	507.18	104.07
+urea carboxylase	6.3.4.6	InChI=1S/C10H16N5O13P3/c11-8-5-9(13-2-12-8)15(3-14-5)10-7(17)6(16)4(26-10)1-25-30(21,22)28-31(23,24)27-29(18,19)20/h2-4,6-7,10,16-17H,1H2,(H,21,22)(H,23,24)(H2,11,12,13)(H2,18,19,20)/t4-,6-,7-,10-/m1/s1	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	InChI=1S/H3O4P/c1-5(2,3)4/h(H3,1,2,3,4)	NBIIXXVUZAFLBC-UHFFFAOYSA-N	ATP	Orthophosphate	R00774	green	507.18	97.995
+urea carboxylase	6.3.4.6	InChI=1S/CH2O3/c2-1(3)4/h(H2,2,3,4)/p-1	BVKZGUZCCUSVTD-UHFFFAOYSA-M	InChI=1S/C10H15N5O10P2/c11-8-5-9(13-2-12-8)15(3-14-5)10-7(17)6(16)4(24-10)1-23-27(21,22)25-26(18,19)20/h2-4,6-7,10,16-17H,1H2,(H,21,22)(H2,11,12,13)(H2,18,19,20)/t4-,6-,7-,10-/m1/s1	XTWYTFMLZFPYCI-KQYNXXCUSA-N	HCO3-	ADP	R00774	green	61.017	427.2
+urea carboxylase	6.3.4.6	InChI=1S/CH2O3/c2-1(3)4/h(H2,2,3,4)/p-1	BVKZGUZCCUSVTD-UHFFFAOYSA-M	InChI=1S/C2H4N2O3/c3-1(5)4-2(6)7/h(H,6,7)(H3,3,4,5)	AVWRKZWQTYIKIY-UHFFFAOYSA-N	HCO3-	Urea-1-carboxylate	R00774	green	61.017	104.07
+urea carboxylase	6.3.4.6	InChI=1S/CH2O3/c2-1(3)4/h(H2,2,3,4)/p-1	BVKZGUZCCUSVTD-UHFFFAOYSA-M	InChI=1S/H3O4P/c1-5(2,3)4/h(H3,1,2,3,4)	NBIIXXVUZAFLBC-UHFFFAOYSA-N	HCO3-	Orthophosphate	R00774	green	61.017	97.995
+urea carboxylase	6.3.4.6	InChI=1S/CH4N2O/c2-1(3)4/h(H4,2,3,4)	XSQUKJJJFZCRTK-UHFFFAOYSA-N	InChI=1S/C10H15N5O10P2/c11-8-5-9(13-2-12-8)15(3-14-5)10-7(17)6(16)4(24-10)1-23-27(21,22)25-26(18,19)20/h2-4,6-7,10,16-17H,1H2,(H,21,22)(H2,11,12,13)(H2,18,19,20)/t4-,6-,7-,10-/m1/s1	XTWYTFMLZFPYCI-KQYNXXCUSA-N	Urea	ADP	R00774	green	60.056	427.2
+urea carboxylase	6.3.4.6	InChI=1S/CH4N2O/c2-1(3)4/h(H4,2,3,4)	XSQUKJJJFZCRTK-UHFFFAOYSA-N	InChI=1S/C2H4N2O3/c3-1(5)4-2(6)7/h(H,6,7)(H3,3,4,5)	AVWRKZWQTYIKIY-UHFFFAOYSA-N	Urea	Urea-1-carboxylate	R00774	green	60.056	104.07
+urea carboxylase	6.3.4.6	InChI=1S/CH4N2O/c2-1(3)4/h(H4,2,3,4)	XSQUKJJJFZCRTK-UHFFFAOYSA-N	InChI=1S/H3O4P/c1-5(2,3)4/h(H3,1,2,3,4)	NBIIXXVUZAFLBC-UHFFFAOYSA-N	Urea	Orthophosphate	R00774	green	60.056	97.995
+urease subunit alpha	3.5.1.5	InChI=1S/CH4N2O/c2-1(3)4/h(H4,2,3,4)	XSQUKJJJFZCRTK-UHFFFAOYSA-N	InChI=1S/CH2O3/c2-1(3)4/h(H2,2,3,4)/p-1	BVKZGUZCCUSVTD-UHFFFAOYSA-M	Urea	HCO3-	R13420	green	60.056	61.017
+urease subunit alpha	3.5.1.5	InChI=1S/CH4N2O/c2-1(3)4/h(H4,2,3,4)	XSQUKJJJFZCRTK-UHFFFAOYSA-N	InChI=1S/H3N/h1H3	QGZKDVFQNNGYKY-UHFFFAOYSA-N	Urea	Ammonia	R13420	green	60.056	17.031
+urease subunit alpha	3.5.1.5	InChI=1S/H2O/h1H2	XLYOFNOQVPJJNP-UHFFFAOYSA-N	InChI=1S/CH2O3/c2-1(3)4/h(H2,2,3,4)/p-1	BVKZGUZCCUSVTD-UHFFFAOYSA-M	H2O	HCO3-	R13420	green	18.015	61.017
+urease subunit alpha	3.5.1.5	InChI=1S/H2O/h1H2	XLYOFNOQVPJJNP-UHFFFAOYSA-N	InChI=1S/H3N/h1H3	QGZKDVFQNNGYKY-UHFFFAOYSA-N	H2O	Ammonia	R13420	green	18.015	17.031
+urease subunit beta	3.5.1.5	InChI=1S/CH4N2O/c2-1(3)4/h(H4,2,3,4)	XSQUKJJJFZCRTK-UHFFFAOYSA-N	InChI=1S/CH2O3/c2-1(3)4/h(H2,2,3,4)/p-1	BVKZGUZCCUSVTD-UHFFFAOYSA-M	Urea	HCO3-	R13420	green	60.056	61.017
+urease subunit beta	3.5.1.5	InChI=1S/CH4N2O/c2-1(3)4/h(H4,2,3,4)	XSQUKJJJFZCRTK-UHFFFAOYSA-N	InChI=1S/H3N/h1H3	QGZKDVFQNNGYKY-UHFFFAOYSA-N	Urea	Ammonia	R13420	green	60.056	17.031
+urease subunit beta	3.5.1.5	InChI=1S/H2O/h1H2	XLYOFNOQVPJJNP-UHFFFAOYSA-N	InChI=1S/CH2O3/c2-1(3)4/h(H2,2,3,4)/p-1	BVKZGUZCCUSVTD-UHFFFAOYSA-M	H2O	HCO3-	R13420	green	18.015	61.017
+urease subunit beta	3.5.1.5	InChI=1S/H2O/h1H2	XLYOFNOQVPJJNP-UHFFFAOYSA-N	InChI=1S/H3N/h1H3	QGZKDVFQNNGYKY-UHFFFAOYSA-N	H2O	Ammonia	R13420	green	18.015	17.031
+urease subunit gamma	3.5.1.5	InChI=1S/CH4N2O/c2-1(3)4/h(H4,2,3,4)	XSQUKJJJFZCRTK-UHFFFAOYSA-N	InChI=1S/CH2O3/c2-1(3)4/h(H2,2,3,4)/p-1	BVKZGUZCCUSVTD-UHFFFAOYSA-M	Urea	HCO3-	R13420	green	60.056	61.017
+urease subunit gamma	3.5.1.5	InChI=1S/CH4N2O/c2-1(3)4/h(H4,2,3,4)	XSQUKJJJFZCRTK-UHFFFAOYSA-N	InChI=1S/H3N/h1H3	QGZKDVFQNNGYKY-UHFFFAOYSA-N	Urea	Ammonia	R13420	green	60.056	17.031
+urease subunit gamma	3.5.1.5	InChI=1S/H2O/h1H2	XLYOFNOQVPJJNP-UHFFFAOYSA-N	InChI=1S/CH2O3/c2-1(3)4/h(H2,2,3,4)/p-1	BVKZGUZCCUSVTD-UHFFFAOYSA-M	H2O	HCO3-	R13420	green	18.015	61.017
+urease subunit gamma	3.5.1.5	InChI=1S/H2O/h1H2	XLYOFNOQVPJJNP-UHFFFAOYSA-N	InChI=1S/H3N/h1H3	QGZKDVFQNNGYKY-UHFFFAOYSA-N	H2O	Ammonia	R13420	green	18.015	17.031

@@ -1,12 +1,15 @@
 from django.urls import path
 from . import views
 
-#Define a list of url patterns
+'''List of url patterns'''
 urlpatterns = [
     path('', views.homepage, name='homepage'),
-    path('help', views.help, name='help'),
     path('pathways', views.pathways, name='pathways'),
+    path('ec_choice', views.ec_choice, name='ec_choice'),
     path('orthologs', views.orthologs, name='orthologs'),
     path('summary', views.summary, name='summary'),
-    path('confirm', views.confirm, name='confirm')
+    path('codon_optimization', views.codon_optimization, name='codon_optimization'),
+    path('plasmid', views.plasmid, name='plasmid'),
+    path('results', views.results, name='results'),
+    path('help', views.help, name='help'),
 ]
