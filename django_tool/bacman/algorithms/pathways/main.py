@@ -7,6 +7,11 @@ def main(start: str, end: str, inchi_start=None, inchi_end=None):
     PATHWAY_FOLDER = os.path.join(os.path.dirname(__file__), 'Pathways')
     os.makedirs(PATHWAY_FOLDER, exist_ok=True)
 
+    print(start)
+    print(end)
+
+    if not start or not end:
+        raise ValueError("Start and end compounds are required")
 
     # Parameters
     degree_alpha = 2.5  # penalty strength for high-degree nodes

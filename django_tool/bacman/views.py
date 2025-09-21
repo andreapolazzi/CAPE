@@ -25,6 +25,8 @@ def pathways(request):
         sink = request.POST.get("sink")
         f_inchi = request.POST.get("f_inchi")
 
+        #print(pollutant, p_inchi, sink, f_inchi)
+
         pathways, db = main(pollutant, sink, p_inchi, f_inchi)
 
         request.session['pathways'] = pathways
@@ -32,19 +34,17 @@ def pathways(request):
         request.session['pollutant'] = pollutant
         request.session['sink'] = sink
         
-        color_map = COLOR_MAP
-        
         path_text = []
         for path in pathways:
-            score, steps = path[0], path[1]
+            weight, steps = path[0], path[1]
             
-            summary = f'SCORE: {score:.2f}<br>'
+            summary = f'WEIGHT: {weight:.2f}<br>'
             
             for i, step in enumerate(steps, 1):
                 start_compound, end_compound = step[0], step[2]
                 enzyme_ec, enzyme_color = step[1][0][0], step[1][0][1]
 
-                coloring = color_map.get(enzyme_color, '#333333')
+                coloring = COLOR_MAP.get(enzyme_color, '#333333')
                 colored_enzyme = f'<span style = "color:{coloring}"> {enzyme_ec} </span>'
                 
                 summary += f"{i}. {start_compound} → {colored_enzyme} → {end_compound}<br>"
@@ -63,17 +63,48 @@ def ec_choice(request):
         selected_index = int(request.POST.get('selected_pathway'))
 
         pathways = request.session.get('pathways')
-        db = request.session.get('db')
+        db = request.session.get('database')
         pollutant = request.session.get('pollutant')
         sink = request.session.get('sink')
 
         selected_pathway = pathways[selected_index]
         steps = selected_pathway[1]
 
-        color_map = COLOR_MAP
+        detailed_steps = []
+        for i, step in enumerate(steps):
+            start_compound, end_compound = step[0], step[2]
 
+            available_ecs = []
+            for ec in step[1]:
+                enzyme_id, enzyme_color = ec[0], ec[1]
+                enzyme_info = db.get(enzyme_id, {})
 
-        return render(request, 'bacman/ec_choice.html' )
+                coloring = COLOR_MAP.get(enzyme_color, '#333333')
+
+                available_ecs.append({'ec_number': enzyme_id,
+                                      'color': enzyme_color,
+                                      'enzyme_name': enzyme_info.get('enzyme', 'Unknown enzyme'),
+                                      'reactions': enzyme_info.get('reactions', []),
+                                      'coloring': coloring})
+            
+            start_info = db.get(start_compound.lower(), {})
+            end_info = db.get(end_compound.lower(), {})
+
+            detailed_steps.append({'step_number': i,
+                                   'start_compound': start_compound,
+                                   'end_compound': end_compound,
+                                   's_info': start_info,
+                                   'e_info': end_info,
+                                   'ecs': available_ecs,})
+            
+        request.session['selected_steps'] = detailed_steps
+
+        context = {'steps': detailed_steps,
+                   'pollutant': pollutant,
+                   'sink': sink,
+                   }
+
+        return render(request, 'bacman/ec_choice.html', context)
 
 #ORTHOLOGS PAGE: fasta files of all orthologs are presented, user chooses
 def orthologs(request):
