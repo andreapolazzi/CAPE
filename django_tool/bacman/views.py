@@ -95,25 +95,47 @@ def ec_choice(request):
                                    'end_compound': end_compound,
                                    's_info': start_info,
                                    'e_info': end_info,
-                                   'ecs': available_ecs,})
+                                   'ecs': available_ecs})
             
         request.session['selected_steps'] = detailed_steps
 
         context = {'steps': detailed_steps,
                    'pollutant': pollutant,
-                   'sink': sink,
-                   }
+                   'sink': sink}
 
         return render(request, 'bacman/ec_choice.html', context)
 
 #ORTHOLOGS PAGE: fasta files of all orthologs are presented, user chooses
 def orthologs(request):
     if request.method == "POST":
-        selected_index = int(request.POST.get("selected_pathway"))
-        ec = json.loads(request.session.get('ec_list', '[]'))
-        selected_ec = ec[selected_index]
+        detailed_steps = request.session.get('selected_steps')
+        pollutant = request.session.get('pollutant')
+        sink = request.session.get('sink')
 
-        raw_result = process_ec_list(selected_ec)
+        non_green_ecs = []
+
+        for step in detailed_steps:
+            step_n = step['step_number']
+
+            selected_key = f'selected_ec_{step_n}'
+            selected_value = request.POST.get(selected_key, '').strip()
+
+            if selected_value:
+                if selected_value == 'manual':
+                    manual_key = f'manual_ec_{step_n}'
+                    manual_ec = request.POST.get(manual_key, '').strip()
+
+                    if manual_ec:
+                        non_green_ecs.append(manual_ec)
+                
+                else:
+                    matching_ec = next((ec for ec in step['ecs'] if ec['ec_number'] == selected_value), None)
+
+                    if matching_ec and matching_ec['color'] != 'green':
+                         non_green_ecs.append(selected_value)
+                                       
+        
+        raw_result = process_ec_list(non_green_ecs)
 
         cleaned_result = []
         for item in raw_result:
@@ -121,36 +143,38 @@ def orthologs(request):
             summary = item.get('summary')
             data = item.get('data')
 
-            if hasattr(data, "to_dict"):
-                data = data.to_dict(orient='records')
+            if hasattr(data, 'to_dict'):
+                data = data.to_dict(orient = 'records')
 
-            cleaned_result.append({
-                "ec_number": ec_number,
-                "summary": summary,
-                "data": data,
-            })
+            cleaned_result.append({'ec_number': ec_number,
+                                   'summary': summary,
+                                   'data': data})
+            
+        context = {'pollutant': pollutant,
+                   'sink': sink,
+                   'results': cleaned_result,
+                   'ecs': non_green_ecs}
+        
+        request.session['orthologs'] = cleaned_result
 
-        request.session['orthologs'] = json.dumps(cleaned_result)
-
-        return render(request, 'bacman/orthologs.html', { 'results': cleaned_result })
+        return render(request, 'bacman/orthologs.html', context)
 
 #SUMMARY PAGE: to confirm sequences chosen
 def summary(request):
     if request.method == "POST":
         selections = request.POST.getlist('selections')
+        all_ec = request.session.get('orthologs', [])
+
         parsed_data = defaultdict(list)
+        
 
         for line in selections:
-            ec_number, organism, header, sequence, length = line.split("||")
-            parsed_data[ec_number].append({
-                "ec": ec_number,
-                "organism": organism,
-                "header": header,
-                "sequence": sequence,
-                "length": length,
-            })
-
-        all_ec = json.loads(request.session.get('orthologs', '[]'))
+            ec_number, organism, header, sequence, length = line.split('||')
+            parsed_data[ec_number].append({'ec': ec_number,
+                                           'organism': organism,
+                                           'header': header,
+                                           'sequence': sequence,
+                                           'length': length})
 
         summary_ordered = []
         for item in all_ec:
@@ -158,7 +182,9 @@ def summary(request):
             rows = parsed_data.get(ec_num, [])
             summary_ordered.append({'ec_number': ec_num, 'rows': rows})
 
-        return render(request, 'bacman/summary.html', {'summary_ordered': summary_ordered})
+        context = {'summary_ordered': summary_ordered}
+
+        return render(request, 'bacman/summary.html', context)
 
 #CODON OPTIMIZATION: choose max/weight and restriction
 def codon_optimization(request):
