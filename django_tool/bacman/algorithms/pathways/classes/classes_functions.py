@@ -1,27 +1,36 @@
-import os,csv,math,subprocess,sys
+import os,csv,subprocess
 from itertools import islice
 import networkx as nx
 import pubchempy as pcp
-from colorama import init, Fore, Style
+from rdkit import DataStructs
+from rdkit import Chem
+from rdkit.Chem import rdFingerprintGenerator
+morgan_gen = rdFingerprintGenerator.GetMorganGenerator(radius=2)
+from rdkit import RDLogger
+RDLogger.DisableLog('rdApp.*')
 
 
-# Cofactors / small molecules
-cofactors = {
-    "h2o", "co2", "o2", "h+", "pi", "ppi",
-    "atp", "adp", "amp", "gtp", "gdp", "gmp", "utp", "udp", "ump",
-    "nad+", "nadh", "nadp+", "nadph", "fad", "fadh2", "fmn", "fmnh2",
-    "coa", "coenzyme a", "sam", "s-adenosyl-l-methionine", "thf", "tetrahydrofolate",
-    "nad", "nadp", "nadh2", "fe2+", "fe3+", "h2o2", "nh3", "hco3-",
-    "orthophosphate", "inorganic phosphate", "pi", "diphosphate", "pyrophosphate"
-}
+def chem_distance(substrate_id, product_id, format="inchi"):
+    if format == "smiles":
+        mol1 = Chem.MolFromSmiles(substrate_id)
+        mol2 = Chem.MolFromSmiles(product_id)
+    else:  # default InChI
+        mol1 = Chem.MolFromInchi(substrate_id)
+        mol2 = Chem.MolFromInchi(product_id)
+    
+    if mol1 is None or mol2 is None:
+        return None  # Invalid SMILES/InChI
 
-# Central metabolites
-central_metabolites = {
-    "glucose", "pyruvate", "phosphoenolpyruvate", "acetyl-coa",
-    "succinate", "oxaloacetate", "glyceraldehyde 3-phosphate",
-    "fructose-6-phosphate", "dihydroxyacetone phosphate", "phosphoenolpyruvate",
-    "d-glyceraldehyde 3-phosphate", "d-glyceraldehyde-3-phosphate",
-}
+    # Generate Morgan fingerprints
+    fp1 = morgan_gen.GetFingerprint(mol1)
+    fp2 = morgan_gen.GetFingerprint(mol2)
+    
+    # Calculate similarity
+    similarity = DataStructs.TanimotoSimilarity(fp1, fp2)
+    
+    # Return transformation significance (1 - similarity)
+    return 1 - similarity  # Higher = more chemical change
+
 
 # Map color labels to base numeric weights and viceversa
 COLOR_BASE_WEIGHT = {"green": 1.0, "white": 10.0, "RetroPath": 100.0}
@@ -33,47 +42,14 @@ def _normalize_name(s: str) -> str:
     return s.strip().lower() if s and isinstance(s, str) else ""
 
 
-def build_graphs_with_filters(pathway_folder: str,
-                              degree_alpha: float = 2.5,
-                              freq_alpha: float = 2.5):
+def build_graphs_with_filters(pathway_folder: str):
     """
-    Parse *_edges.tsv files and build two graphs:
-      - G_full: connect every reagent -> every product (keeps cofactors in edge metadata)
-      - G_simple: simplified connectivity ignoring trivial cofactors (reduces shortcuts)
-
-    Returns (G_full, G_simple, name_to_ik, ik_to_name, info_dict).
-
-    Parameters:
-      - cofactors: iterable of names (strings) to treat as trivial cofactors (default DEFAULT_COFACTORS)
-      - extra_central_metabolites: iterable of names to treat as central metabolites (gets penalized)
-      - degree_alpha / freq_alpha: coefficients controlling penalty strength for degree/frequency
+    Parse *_edges.tsv files and build a graph G with networkx
+    Returns (G, name_to_ik, ik_to_name, info_dict).
     """
-    # Setup cofactor / central metabolite sets
 
-    cofactors_set = set(_normalize_name(x) for x in cofactors)
-    central_set = set(_normalize_name(x) for x in central_metabolites)
-
-    # substrings to avoid or penalize strongly (common culprits for weird shortcuts)
-    avoid_name_substrings = [
-        "strictosidine", "isoipecoside", "puromycin", "alkaloid", "glycoside",
-        "ribityl", "lumazine", "flavin", "riboflavin", "ribitol",
-        "prpp", "phosphoribosyl", "udp-", "utp-", "dtdp-", "tdp-", "nucleotide", "nucleoside",
-        "ribose", "ribulose",
-        "-diphospho-", "-pyrophosphate", "-5'-phosphate", "-3'-phosphate",
-        "isopren", "terpen", "glycosyl",
-        "anthranilate", "diphosphate", "indole"
-    ]
-
-    # EC prefixes to penalize (not banned, just discouraged)
-    ec_penalty_prefixes = {
-        "2.1.1.": 50.0,   # O-/N-methyltransferases
-        "2.8.": 30.0,     # sulfur transferases
-        "3.2.1.": 40.0,   # glycosidases
-    }
-
-    # Graphs to return
-    G_full = nx.MultiDiGraph()
-    G_simple = nx.MultiDiGraph()
+    # Graph
+    G = nx.MultiDiGraph()
 
     # Dictionaries for conversion between name and inchikey
     name_to_ik = {}
@@ -83,6 +59,8 @@ def build_graphs_with_filters(pathway_folder: str,
     # compound_name: [inchikey, other info that i will add later]
     # EC: [reaction_id, other info that i will add later]
     info_dict = {}
+
+    ### Read tsv files and create networkx graph and fill the dictionaries ###
     
     # Read tsv files and group rows by reaction id
     reactions_store = {}
@@ -113,6 +91,8 @@ def build_graphs_with_filters(pathway_folder: str,
         for path, r in rows:
             s_ik = (r.get("source_inchi_key") or "").strip()
             t_ik = (r.get("target_inchi_key") or "").strip()
+            s_i = (r.get("source_inchi") or "").strip()
+            t_i = (r.get("target_inchi") or "").strip()
             s_name = (r.get("source_name") or "").strip()
             t_name = (r.get("target_name") or "").strip()
             try:
@@ -134,6 +114,7 @@ def build_graphs_with_filters(pathway_folder: str,
                 s_norm = _normalize_name(s_name)
                 info_dict.setdefault(_normalize_name(s_norm), {}).update({
                     "inchikey": info_dict.get(s_norm, {}).get("inchikeys", s_ik),
+                    "inchi": info_dict.get(s_norm, {}).get("inchis", s_i),
                     "mass": s_mass,
                     "reactions": list(set(info_dict.get(s_norm, {}).get("reactions", []) + [rid]))
                 })
@@ -141,6 +122,7 @@ def build_graphs_with_filters(pathway_folder: str,
                 t_norm = _normalize_name(t_name)
                 info_dict.setdefault(_normalize_name(t_norm), {}).update({
                     "inchikey": info_dict.get(t_norm, {}).get("inchikeys", t_ik),
+                    "inchi": info_dict.get(t_norm, {}).get("inchis", t_i),
                     "mass": t_mass,
                     "reactions": list(set(info_dict.get(t_norm, {}).get("reactions", []) + [rid]))
                 })
@@ -153,13 +135,11 @@ def build_graphs_with_filters(pathway_folder: str,
             })
 
         combined = {**reagents, **products}
-        for ik, meta in combined.items():
-            name = meta.get("name") or ""
-            mass = meta.get("mass")
-            if not G_full.has_node(ik):
-                G_full.add_node(ik, name=name, mass=mass)
-            if not G_simple.has_node(ik):
-                G_simple.add_node(ik, name=name, mass=mass)
+        for ik, v in combined.items():
+            name = v.get("name") or ""
+            mass = v.get("mass")
+            if not G.has_node(ik):
+                G.add_node(ik, name=name, mass=mass)
             if name:
                 n = _normalize_name(name)
                 if n and n not in name_to_ik:
@@ -169,134 +149,120 @@ def build_graphs_with_filters(pathway_folder: str,
         # Identify cofactors
         reagent_list = [(ik, reagents[ik]["name"]) for ik in reagents]
         product_list = [(ik, products[ik]["name"]) for ik in products]
-        reag_names = {_normalize_name(n or ""): ik for ik, n in reagent_list}
-        prod_names = {_normalize_name(n or ""): ik for ik, n in product_list}
 
-        cofactors_in_rxn = set()
-        for n, ik in list(reag_names.items()) + list(prod_names.items()):
-            if n in cofactors_set:
-                cofactors_in_rxn.add(ik)
-
-        # G_full edges
+        # G edges
         for s_ik, _ in reagent_list:
             for t_ik, _ in product_list:
-                meta = {
-                    "reaction_id": rid,
-                    "enzyme": enzyme,
-                    "ec": ec,
-                    "color": color,
-                    "base_weight": base_w,
-                    "cofactors": sorted(list(cofactors_in_rxn))
-                }
-                G_full.add_edge(s_ik, t_ik, reactions=[meta], base_weight=base_w, color=color, weight=base_w)
+                G.add_edge(s_ik, t_ik, reaction=rid, ec=ec, color=color, base_weight=base_w, weight=base_w)
 
-        # G_simple edges (exclude cofactors)
-        main_reag = [ik for ik in reag_names.values() if ik not in cofactors_in_rxn]
-        main_prod = [ik for ik in prod_names.values() if ik not in cofactors_in_rxn]
-        if not main_reag or not main_prod:
-            main_reag = [ik for ik in reag_names.values()]
-            main_prod = [ik for ik in prod_names.values()]
+    ### Weight Penalties ###
 
-        for s_ik in main_reag:
-            for t_ik in main_prod:
-                meta = {
-                    "reaction_id": rid,
-                    "enzyme": enzyme,
-                    "ec": ec,
-                    "color": color,
-                    "base_weight": base_w,
-                    "cofactors": sorted(list(cofactors_in_rxn))
-                }
-                G_simple.add_edge(s_ik, t_ik, reactions=[meta], base_weight=base_w, color=color, weight=base_w)
+    # Compute chemical distance penalties
 
-    # Compute degree/frequency penalties for G_simple
-    freq = {n: G_simple.in_degree(n) + G_simple.out_degree(n) for n in G_simple.nodes()}
-    max_freq = max(freq.values()) if freq else 1
-    max_deg = max(dict(G_simple.degree()).values()) if G_simple.number_of_nodes() else 1
+    blacklist = [
+    # Energy carriers
+    "atp", "adp", "amp", "gtp", "gdp", "gmp", "utp", "udp", "ump",
+    "ctp", "cdp", "cmp", "ppi", "pi", "inorganic phosphate", "orthophosphate", "diphosphate", "reduced fmn",
+    # Electron carriers
+    "nad+", "nadh", "nadp+", "nadph", "fad", "fadh2", "fmn", "fmnh2","electron-transferring flavoprotein",
+    "reduced acceptor", "acceptor", "[reduced nadph---hemoprotein reductase]", "[oxidized nadph---hemoprotein reductase]",
+    "reduced ferredoxin", "oxidized ferredoxin", "ferredoxin",
+    # Coenzymes and group carriers
+    "coenzyme a", "coa", "acetyl-coa", "s-adenosylmethionine", "sam", "thf", "tetrahydrofolate",
+    "biotin", "lipoic acid", "pyridoxal phosphate", "plp", "tpp", "thiamine pyrophosphate", "acyl-carrier protein",
+    # Gases and small byproducts
+    "co2", "carbon dioxide", "h2o", "water", "nh3", "h+", "o2", "oxygen", "h2o2", "ch4", "formate", "formaldehyde",
+    # Sugars and nucleotides in transfer reactions
+    "udp-glucose", "cdp-choline", "cmp-neu5ac", "prpp", "ribose-5-phosphate", "dump", "dtmp",
+    # Miscellaneous
+    "glutathione", "gsh", "gssg", "carnitine", "creatine", "phosphocreatine",
+    "ubiquinone", "ubiquinol", "cytochrome c", "ferricytochrome c", "fe2+", "fe3+",
+    ]
 
-    for u, v, key, data in G_simple.edges(keys=True, data=True):
+    # Lookup table for chem distances
+    chem_cache = {}
+
+    for u, v, key, data in G.edges(keys=True, data=True):
         base = float(data.get("base_weight", data.get("weight", 100.0)))
-        deg_u, deg_v = G_simple.degree(u), G_simple.degree(v)
-        deg_pen = (math.log1p(deg_u) + math.log1p(deg_v)) / (2 * math.log1p(max_deg)) if max_deg > 0 else 0.0
-        freq_pen = (freq.get(u,0)/max_freq + freq.get(v,0)/max_freq)/2.0
-        central_pen = ((1 if _normalize_name(G_simple.nodes[u].get("name","")) in central_set else 0)
-                       + (1 if _normalize_name(G_simple.nodes[v].get("name","")) in central_set else 0))/2.0
-        multiplier = 1.0 + degree_alpha*deg_pen + freq_alpha*freq_pen + 3.0*central_pen
-        base_weighted = base * multiplier
+        u_name = ik_to_name[u].lower()
+        v_name = ik_to_name[v].lower()
+        if u_name in blacklist or v_name in blacklist:
+            data['weight'] = 1e6
+            continue
+        key_uv = tuple(sorted((u_name, v_name)))
+        if key_uv in chem_cache:
+            c_dist = chem_cache[key_uv]
+        else:
+            u_inchi = info_dict[u_name]['inchi']
+            v_inchi = info_dict[v_name]['inchi']
+            c_dist = chem_distance(u_inchi, v_inchi)
+            chem_cache[key_uv] = c_dist
+        data['weight'] = base + (c_dist ** 4) * 1000
 
-        extra_penalty = 0.0
-        low_u = _normalize_name(G_simple.nodes[u].get("name","") or "")
-        low_v = _normalize_name(G_simple.nodes[v].get("name","") or "")
-        if any(sub in low_u for sub in avoid_name_substrings): extra_penalty += 150.0
-        if any(sub in low_v for sub in avoid_name_substrings): extra_penalty += 150.0
-
-        ec0 = (data.get("reactions")[0].get("ec","").strip() if data.get("reactions") else "")
-        for pref, p in ec_penalty_prefixes.items():
-            if ec0.startswith(pref):
-                extra_penalty += p
-                break
-
-        # Mass penalty
-        u_mass_val = float(G_simple.nodes[u].get("mass") or 0.0)
-        v_mass_val = float(G_simple.nodes[v].get("mass") or 0.0)
-        if u_mass_val>1.0 and v_mass_val>0:
-            ratio = v_mass_val / u_mass_val
-            if ratio < 0.8:
-                extra_penalty += (1.0 - ratio) * 120.0
-            elif ratio > 1.5:
-                extra_penalty += (ratio - 1.0) * 80.0
-
-        # Rarity penalty
-        rarity_penalty = 0.0
-        if deg_u < 2: rarity_penalty += 20*(2-deg_u)
-        if deg_v < 2: rarity_penalty += 20*(2-deg_v)
-        if freq.get(u,0)<2: rarity_penalty += 15*(2-freq.get(u,0))
-        if freq.get(v,0)<2: rarity_penalty += 15*(2-freq.get(v,0))
-        if 0<u_mass_val<50 or u_mass_val>1000: rarity_penalty += 10
-        if 0<v_mass_val<50 or v_mass_val>1000: rarity_penalty += 10
-        extra_penalty += rarity_penalty
-
-        final_weight = base_weighted + extra_penalty
-        data['weight'] = final_weight
-
-    # Ensure G_full edges have weight set
-    for u,v,key,data in G_full.edges(keys=True,data=True):
-        if "weight" not in data:
-            data["weight"] = float(data.get("base_weight",100.0))
-        data.setdefault("color", data.get("color",""))
-        data.setdefault("reactions", data.get("reactions",[]))
-
-    return G_full, G_simple, name_to_ik, ik_to_name, info_dict
+    return G, name_to_ik, ik_to_name, info_dict
 
 
 def multigraph_to_digraph(Multi_G: nx.MultiDiGraph) -> nx.DiGraph:
     """
-    Convert a MultiDiGraph to a DiGraph by keeping the minimum weight edge between nodes
-    and aggregating all reactions into a list.
+    Convert a MultiDiGraph to a DiGraph while preserving useful metadata:
+    - weight (minimum of multi-edges)
+    - base_weight (minimum base_weight)
+    - ecs (list of ECs / enzyme identifiers)
+    - reactions (list of reaction ids)
+    - colors (list of color strings from edges)
     """
     Di_G = nx.DiGraph()
     for u, v, data in Multi_G.edges(data=True):
+        # Gather fields from multi-edge
+        weight = float(data.get('weight', data.get('base_weight', 100.0)))
+        base = float(data.get('base_weight', data.get('weight', weight)))
+        # Support several possible keys used in different parts of pipeline
+        ec = data.get('ec') or data.get('EC') or data.get('enzyme') or ""
+        reaction = data.get('reaction') or data.get('reactions') or []
+        if isinstance(reaction, str):
+            reaction = [reaction] if reaction else []
+        color = data.get('color')
+
         if Di_G.has_edge(u, v):
-            # Keep minimum weight
-            Di_G[u][v]['weight'] = min(Di_G[u][v]['weight'], data.get('weight', 100.0))
-            # Aggregate reactions
-            Di_G[u][v]['reactions'].extend(data.get('reactions', []))
+            # keep minimal numeric weight
+            Di_G[u][v]['weight'] = min(Di_G[u][v].get('weight', float('inf')), weight)
+            # aggregate reactions
+            Di_G[u][v].setdefault('reactions', [])
+            for r in reaction:
+                if r and r not in Di_G[u][v]['reactions']:
+                    Di_G[u][v]['reactions'].append(r)
+            # aggregate ecs
+            Di_G[u][v].setdefault('ecs', [])
+            if ec and ec not in Di_G[u][v]['ecs']:
+                Di_G[u][v]['ecs'].append(ec)
+            # keep minimal base_weight
+            Di_G[u][v]['base_weight'] = min(Di_G[u][v].get('base_weight', base), base)
+            # aggregate colors
+            Di_G[u][v].setdefault('colors', [])
+            if color and color not in Di_G[u][v]['colors']:
+                Di_G[u][v]['colors'].append(color)
         else:
-            Di_G.add_edge(u, v, weight=data.get('weight', 100.0), reactions=list(data.get('reactions', [])))
-    # Copy node attributes
+            Di_G.add_edge(
+                u, v,
+                weight=weight,
+                base_weight=base,
+                ecs=[ec] if ec else [],
+                reactions=list(reaction),
+                colors=[color] if color else []
+            )
+
+    # copy node attributes
     for n, attrs in Multi_G.nodes(data=True):
         Di_G.add_node(n, **attrs)
     return Di_G
 
 
-def k_shortest_paths(G: nx.DiGraph, start_inchikey: str, goal_inchikey: str, ik_to_name:dict, name_to_ik:dict, K=3, weight="weight"):
+def k_shortest_paths(G: nx.DiGraph, start_inchikey: str, goal_inchikey: str, ik_to_name: dict, K: int = 3):
     """
-    It returns a list of up to K paths, sorted by total weight (smallest first).
-    Each element is a tuple: (total_weight:float, path_steps:list).
-    Each step in the path is a list: [compound1:str, ec_tuples:list, compound2:str],
-    where ec_tuples is a list of tuples (EC:str, color:str, reaction_id:str),
-    which represents all enzymatic reactions connecting the two compounds.
-    If any green edges exist, only the green ones are included; otherwise, all ECs are included (yellow and red).
+    Returns up to K paths sorted by total weight.
+    Each step is [compound_from, ec_tuples, compound_to]
+    where ec_tuples is a list of (EC_str, color_str).
+    Uses base_weight to decide color (so penalized 'weight' does not change color).
     """
     G = multigraph_to_digraph(G)
 
@@ -304,45 +270,42 @@ def k_shortest_paths(G: nx.DiGraph, start_inchikey: str, goal_inchikey: str, ik_
         return []
 
     try:
-        path_generator = nx.shortest_simple_paths(G, start_inchikey, goal_inchikey, weight=None)
+        # Use weighted shortest_simple_paths by weight
+        path_generator = nx.shortest_simple_paths(G, start_inchikey, goal_inchikey, weight='weight')
     except nx.NetworkXNoPath:
-        # No path exists between nodes"
         return []
-    except Exception as e:
-        # Path generator failed
+    except Exception:
         return []
 
     results = []
-    for path in islice(path_generator, K): # For each path
+    for path in islice(path_generator, K):
         total_w = 0.0
         path_steps = []
-        for u, v in zip(path, path[1:]): # For each step in the current path
-            ec_tuples = [] # [(EC, color, reaction_id), ...] # info on all ECs for a given step
+        for u, v in zip(path, path[1:]):
             edge_data = G.get_edge_data(u, v, default={})
-            edge_weights = []
-            if edge_data:  # only if edge exists
-                w = edge_data.get("weight", edge_data.get("base_weight", 100.0))
-                edge_weights.append(w)
-                reactions = edge_data.get("reactions", [])
-                for rxn in reactions:
-                    ec_tuples.append((rxn.get("ec") or rxn.get("enzyme") or "",
-                    WEIGHT_COLOR_BASE.get(rxn.get("base_weight", 100.0), "red"),
-                    rxn.get("reaction_id") or ""))
+            # Use the actual numeric weight for path cost (already computed in DiGraph)
+            w = float(edge_data.get('weight', edge_data.get('base_weight', 100.0)))
+            total_w += w
 
-            # For calculating the weight of the step, consider the lightest edge
-            if edge_weights:
-                total_w += min(edge_weights)
+            # Determine color from base_weight (not the penalized 'weight')
+            base = float(edge_data.get('base_weight', edge_data.get('weight', 100.0)))
+            color_name = WEIGHT_COLOR_BASE.get(base, "red")
 
-            # For each step, keep only green edges if present
+            ecs = edge_data.get('ecs', []) or []
+
+            if not ecs:
+                ec_tuples = [("", color_name)]
+            else:
+                ec_tuples = [(ec, color_name) for ec in ecs]
+
+            # If any green entries exist, keep only the green ones
             greens = [t for t in ec_tuples if t[1] == "green"]
             if greens:
                 ec_tuples = greens
 
-            # Add this step to the path
-            path_steps.append([ik_to_name[u], ec_tuples, ik_to_name[v]])
+            path_steps.append([ik_to_name.get(u, u), ec_tuples, ik_to_name.get(v, v)])
         results.append((total_w, path_steps))
 
-    # Sort by total weight so that shorter / lighter paths are first
     results.sort(key=lambda x: x[0])
     return results
 
@@ -366,11 +329,11 @@ def resolve_name_to_inchi(name, name_to_ik):
     # Try PubChem
     ik = get_inchi_from_name(name)
     if ik:
-        print(f"'{name}' not in network, resolved to InChI via PubChem.")
+        # Name not in network, resolved to InChI via PubChem
         return ik
     else:
-        print(Fore.RED + f"Cannot resolve '{name}' to an InChI. Cannot run RetroPath." + Style.RESET_ALL)
-        sys.exit(1)
+        # Cannot resolve the name to an InChI and thus cannot run RetroPath
+        return False
 
 
 def rp_single_source(sink: str, rules: str, outdir: str, name: str, inchi: str, steps=3, structures=100, dmin=6, dmax=16, timeout=60):
