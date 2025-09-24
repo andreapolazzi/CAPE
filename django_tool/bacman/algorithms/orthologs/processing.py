@@ -17,7 +17,7 @@ def extract_organism(header):
 def process_ec_number(ec_number):
         '''Process an EC number by fetching sequences and returning a DataFrame and metadata summary.'''
 
-        orgs = ['Rhodococcus', 'Nocardiaceae', 'Mycobacteriales', 'Actinomycetes', 'Actinomycetota', 'Bacillati']
+        orgs = ['Rhodococcus', 'Nocardiaceae', 'Mycobacteriales', 'Actinomycetes', 'Actinomycetota', 'Bacillati', 'Bacteria']
         for org in orgs:
             protein_ids = fetch_protein_ids(ec_number, org, reviewed=True)
             if protein_ids:
