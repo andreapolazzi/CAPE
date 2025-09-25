@@ -75,10 +75,10 @@ for codon, aa in CODON_TO_AA.items():
 
 # Assembly presets: recognition sequences to forbid (sense; reverse complements will be auto-blocked)
 ASSEMBLY_PRESETS: Dict[str, List[str]] = {
-    # Type IIS Golden Gate (common core used in many kits)
+    # Type IIS Golden Gate
     # BsaI: GGTCTC, SapI: GCTCTTC
     "golden_gate": ["GGTCTC", "GCTCTTC"],
-    # BioBrick RFC10 illegal sites
+    # BioBrick RFC10
     # EcoRI: GAATTC, XbaI: TCTAGA, SpeI: ACTAGT, PstI: CTGCAG, NotI: GCGGCCGC
     "biobrick": ["GAATTC", "TCTAGA", "ACTAGT", "CTGCAG", "GCGGCCGC"],
     # No preset (user provides custom via --forbid)
@@ -90,13 +90,27 @@ DEFAULT_FORBIDDEN = ["GGTCTC", "GCTCTTC"]  # BsaI, SapI (Golden Gate core)
 
 
 def reverse_complement(seq: str) -> str:
-    """Return reverse complement of DNA sequence."""
+    """
+    Return reverse complement of DNA sequence.
+    
+    Args:
+        seq: Input DNA sequence (string)
+    Returns:
+        Reverse complement sequence (string)
+    """
     complement = {"A": "T", "T": "A", "G": "C", "C": "G"}
     return "".join(complement[base] for base in reversed(seq.upper()))
 
 
 def get_blocked_sites(forbidden_sites: List[str]) -> List[str]:
-    """Get list of sites to avoid including reverse complements; deduplicate preserving order."""
+    """
+    Get list of sites to avoid including reverse complements; deduplicate preserving order.
+    
+    Args:
+        forbidden_sites: List of restriction sites (strings)
+    Returns:
+        List of unique sites and their reverse complements (strings)
+    """
     seen = set()
     blocked: List[str] = []
     for site in forbidden_sites:
@@ -110,7 +124,14 @@ def get_blocked_sites(forbidden_sites: List[str]) -> List[str]:
 
 
 def parse_fasta(filepath: str) -> List[Tuple[str, str]]:
-    """Parse FASTA file and return list of (header, sequence) tuples."""
+    """
+    Parse FASTA file and return list of (header, sequence) tuples.
+    
+    Args:
+        filepath: Path to FASTA file
+    Returns:
+        List of (header, sequence) tuples
+    """
     entries = []
     with open(filepath) as f:
         header, sequence = None, []
@@ -135,12 +156,31 @@ def parse_fasta(filepath: str) -> List[Tuple[str, str]]:
 
 
 def format_fasta_sequence(seq: str, width: int = 70) -> str:
-    """Format sequence with line breaks."""
+    """
+    Format sequence with line breaks.
+    
+    Args:
+        seq: Input sequence (string)
+        width: Line width (default: 70)
+    Returns:
+        Formatted sequence with line breaks (string)
+    """
     return "\n".join(seq[i:i+width] for i in range(0, len(seq), width))
 
 
 def choose_best_codons(aa: str, mode: str, rng: random.Random) -> List[str]:
-    """Return codons for amino acid ordered by preference."""
+    """
+    Return codons for amino acid ordered by preference.
+    
+    Args:
+        aa: Amino acid (single-letter code; '*' for stop)
+        mode: "max" for deterministic max-frequency, "weighted" for stochastic weighted choice
+        rng: Random number generator instance
+    Returns:
+        List of codons ordered by preference
+    Raises:
+        ValueError: If amino acid is unknown or mode is invalid
+    """
     if aa not in AA_TO_CODONS:
         raise ValueError(f"Unknown amino acid: {aa}")
     
@@ -168,7 +208,17 @@ def choose_best_codons(aa: str, mode: str, rng: random.Random) -> List[str]:
 
 
 def creates_forbidden_site(dna_sequence: str, blocked_sites: List[str]) -> bool:
-    """Check if sequence contains any forbidden restriction sites."""
+    """
+    Check if sequence contains any forbidden restriction sites.
+    
+    Args:
+        dna_sequence: DNA sequence to check (string)
+        blocked_sites: List of forbidden sites (strings)
+    Returns:
+        True if any forbidden site is found, False otherwise
+    Raises:
+        ValueError: If dna_sequence contains invalid characters
+    """
     seq = dna_sequence.upper()
     return any(site in seq for site in blocked_sites)
 
@@ -178,6 +228,17 @@ def backtranslate_protein(protein: str, mode: str, rng: random.Random,
     """
     Convert protein sequence to DNA using codon optimization.
     Avoids creating forbidden restriction sites.
+
+    Args:
+        protein: Protein sequence (string; single-letter amino acids, '*' for stop)
+        mode: "max" for deterministic max-frequency, "weighted" for stochastic weighted choice
+        rng: Random number generator instance
+        forbidden_sites: List of restriction sites to avoid (strings)
+    Returns:
+        Back-translated DNA sequence (string)
+    Raises:
+        ValueError: If internal stop codons are found or invalid amino acids are present
+        RuntimeError: If no valid codon can be placed
     """
     blocked_sites = get_blocked_sites(forbidden_sites)
     dna_parts = []
@@ -208,15 +269,24 @@ def backtranslate_protein(protein: str, mode: str, rng: random.Random,
                 codon_placed = True
                 break
         
-        # If no codon works, use the most preferred one anyway
         if not codon_placed:
-            dna_parts.append(preferred_codons[0])
+            raise RuntimeError(f"No valid codon could be placed for amino acid '{aa}' at position {i+1}. All synonyms create forbidden sites.")
     
     return "".join(dna_parts)
 
 
 def write_fasta(entries: List[Tuple[str, str]], output_file: str):
-    """Write sequences to FASTA file."""
+    """
+    Write sequences to FASTA file.
+    
+    Args:
+        entries: List of (header, sequence) tuples
+        output_file: Path to output FASTA file
+    Returns:
+        None
+    Raises:
+        IOError: If file cannot be written
+    """
     with open(output_file, "w") as f:
         for header, sequence in entries:
             f.write(f">{header}\n")
@@ -241,7 +311,7 @@ def main():
         "--assembly",
         choices=list(ASSEMBLY_PRESETS.keys()),
         nargs="+",
-        default=["golden_gate"],
+        default=["none"],
         help=(
             "Assembly preset(s) to apply for illegal site exclusion. "
             "Options: golden_gate (BsaI,SapI), biobrick (EcoRI,XbaI,SpeI,PstI,NotI), none. "
