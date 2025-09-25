@@ -241,7 +241,11 @@ class RpOutput():
 
     @staticmethod
     def tsv_generator(results_path, outdir):
-        """ Generates edges tsv compatible with kegg edges """
+        """ Generates edges tsv compatible with kegg edges 
+        Args:
+            results_path (str): Path to the retropath results.csv file
+            outdir (str): Directory to save the output TSV files - should end with a '/'
+        """
         
         df = RpOutput.load_res(results_path)
 

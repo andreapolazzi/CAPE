@@ -107,12 +107,38 @@ class Std():
         """
     
     @staticmethod
-    def standardize_parallel(inchi_list, n_processes=32):
+    def standardize_parallel(inchi_list, n_processes=2):
         """Parallelize standardization using multiprocessing"""
         standardize_func = functools.partial(Std.standardize)
         with Pool(processes=n_processes) as pool:
             results = pool.map(standardize_func, inchi_list)
         return results
+    
+    @staticmethod
+    def std(tsv_edges_path):
+        df = pd.read_csv(tsv_edges_path, sep="\t")
+
+        #start_time = time.time()
+        df['source_inchi_key'] = Std.standardize_parallel(df['source_inchi'].tolist(), n_processes=2)
+        df['target_inchi_key'] = Std.standardize_parallel(df['target_inchi'].tolist(), n_processes=2)
+        #end_time = time.time()
+        #print(f"Standardization completed in {end_time - start_time:.2f} seconds")
+        return df
+    
+    @staticmethod
+    def main(tsv_edges_path, edges_std_path):
+        """
+        Args:
+            rp_res_path: path to retropath output (tsv)
+                the path must end with a .tsv -> example: /path/to/rp_output.tsv
+            rp_std_path: path to save standardized retropath output (tsv)
+                the path must end with a .tsv -> example: /path/to/rp_std_output.tsv
+        """
+        df = Std.std(tsv_edges_path)
+
+        df.dropna(inplace=True)
+
+        df.to_csv(edges_std_path, sep='\t', index=False, quoting=csv.QUOTE_ALL)
     
     
 class RpStd(Std):
@@ -156,32 +182,30 @@ class RpStd(Std):
 
         # return retained_df, discarded_df
         return retained_df
-    
-    @staticmethod
-    def rp_std(rp_res_path, rp_std_path):
-        df = pd.read_csv(rp_res_path)
-
-        #start_time = time.time()
-        df['std_inchikey_substrate'] = Std.standardize_parallel(df['Substrate InChI'].tolist(), n_processes=32)
-        df['std_inchikey_product'] = Std.standardize_parallel(df['Product InChI'].tolist(), n_processes=32)
-        #end_time = time.time()
-        df.to_csv(rp_std_path, index=False, quoting=csv.QUOTE_ALL)
-        #print(f"Standardization completed in {end_time - start_time:.2f} seconds")
 
     @staticmethod
-    def main(rp_res_path, rp_std_path):
-                
-        RpStd.rp_std(rp_res_path, rp_std_path)
+    def main(rp_res_path, rp_std_path, keep_best=False):
+        """
+        Args:
+            rp_res_path: path to retropath output (tsv)
+                the path must end with a .tsv -> example: /path/to/rp_output.tsv
+            rp_std_path: path to save standardized retropath output (tsv)
+                the path must end with a .tsv -> example: /path/to/rp_std_output.tsv
+        """
+        df = Std.std(rp_res_path)
         
-        df = pd.read_csv(rp_std_path)
-        #print(len(df), "rows processed")
+        if keep_best:
+            work_df = pd.read_csv(rp_std_path)
+            #print(len(df), "rows processed")
 
-        # Clean the results after standardization
-        #ret_df, dis_df = clean_rpout(df)
-        ret_df = RpStd._clean_rp_std(df)
+            # Clean the results after standardization
+            #ret_df, dis_df = clean_rpout(df)
+            ret_df = RpStd._clean_rp_std(work_df)
+            df = ret_df.copy(deep=True)
 
         #return ret_df
-        ret_df.to_csv(rp_std_path, index=False, quoting=csv.QUOTE_ALL)
+        df.dropna(inplace=True)
+        df.to_csv(rp_std_path, sep='\t', index=False, quoting=csv.QUOTE_ALL)
 
 
 class KeggStd(Std):
@@ -206,7 +230,7 @@ class KeggStd(Std):
         df['std_inchikey_product'] = Std.standardize_parallel(df['target_inchi'].tolist(), n_processes=64)
         #end_time = time.time()
         #df.to_csv('/work/igem/standardization/roa_std_edges.csv', index=False, quoting=csv.QUOTE_ALL)
-        df.to_csv(kegg_std_path, index=False, quoting=csv.QUOTE_ALL)
+        df.to_csv(kegg_std_path, sep='\t', index=False, quoting=csv.QUOTE_ALL)
         #print(df)
         #print(df.isna().sum())
         #print(f"Standardization completed in {end_time - start_time:.2f} seconds")
@@ -294,7 +318,7 @@ class Penalty():
             return None
         
     @staticmethod
-    def transf_penalty(rp_score, distance_penalty, mw_penalty, kegg_penalty=2):
+    def transf_penalty(rp_score, distance_penalty, mw_penalty):
         """
         Penalty Assembler
         
@@ -310,7 +334,7 @@ class Penalty():
             Combined penalty score (weight to be used as edge weight)
         """
         if distance_penalty is not None and mw_penalty is not None:
-            penalty = rp_score + distance_penalty + mw_penalty + kegg_penalty
+            penalty = rp_score + distance_penalty + mw_penalty
             return penalty
         else:
             return None
@@ -330,6 +354,6 @@ class Penalty():
         std_df["mw_change"] = std_df.apply(lambda row: Penalty.mw_change(Penalty.get_mw(row["source_inchi"]), Penalty.get_mw(row["target_inchi"])), axis=1)
 
         weighted_df = std_df.copy(deep=True)
-        weighted_df["weight"] = weighted_df.apply(lambda row: Penalty.transf_penalty(row["Score"], row["dist_penalty"], row["mw_change"], kegg_penalty=2), axis=1)
+        weighted_df["weight"] = weighted_df.apply(lambda row: Penalty.transf_penalty(row["RPscore"], row["dist_penalty"], row["mw_change"]), axis=1)
         
         return weighted_df
