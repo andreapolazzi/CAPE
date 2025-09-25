@@ -250,4 +250,4 @@ class RpOutput():
         df = RpOutput.load_res(results_path)
 
         RpOutput.edges_to_tsv(df, outdir)
-        print("Edges saved to TSV file.")
+        #print("Edges saved to TSV file.")

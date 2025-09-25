@@ -115,18 +115,20 @@ class Std():
         return results
     
     @staticmethod
-    def std(tsv_edges_path):
+    def std(tsv_edges_path, n_processes=2):
         df = pd.read_csv(tsv_edges_path, sep="\t")
 
         #start_time = time.time()
-        df['source_inchi_key'] = Std.standardize_parallel(df['source_inchi'].tolist(), n_processes=2)
-        df['target_inchi_key'] = Std.standardize_parallel(df['target_inchi'].tolist(), n_processes=2)
+        df['source_inchi_key'] = Std.standardize_parallel(df['source_inchi'].tolist(), 
+                                                          n_processes=n_processes)
+        df['target_inchi_key'] = Std.standardize_parallel(df['target_inchi'].tolist(), 
+                                                          n_processes=n_processes)
         #end_time = time.time()
         #print(f"Standardization completed in {end_time - start_time:.2f} seconds")
         return df
     
     @staticmethod
-    def main(tsv_edges_path, edges_std_path):
+    def main(tsv_edges_path, edges_std_path, processes=2, silent=True):
         """
         Args:
             rp_res_path: path to retropath output (tsv)
@@ -134,7 +136,10 @@ class Std():
             rp_std_path: path to save standardized retropath output (tsv)
                 the path must end with a .tsv -> example: /path/to/rp_std_output.tsv
         """
-        df = Std.std(tsv_edges_path)
+        if silent:
+            RDLogger.DisableLog('rdApp.*')  # Disable RDKit warnings
+
+        df = Std.std(tsv_edges_path, n_processes=processes)
 
         df.dropna(inplace=True)
 
@@ -340,20 +345,25 @@ class Penalty():
             return None
         
     @staticmethod
-    def main(std_df):
+    def main(std_path, weighted_path):
         """
         Generates the weighted dataframe needed for the weighted graph
 
         Args:
-            std_df: dataframe from KEGG or RetroPath
+            std_path: path to standardized edges tsv file
+            weighted_path: path to save the weighted edges tsv file
         Returns:
             weighted_df: dataframe with weights
         """
+        std_df = pd.read_csv(std_path, sep="\t")
+
         std_df["distance"] = std_df.apply(lambda row: Penalty.transf_distance(row["source_inchi"], row["target_inchi"]), axis=1)
         std_df["dist_penalty"] = std_df.apply(lambda row: Penalty.dist_penalty(row["distance"]), axis=1)
         std_df["mw_change"] = std_df.apply(lambda row: Penalty.mw_change(Penalty.get_mw(row["source_inchi"]), Penalty.get_mw(row["target_inchi"])), axis=1)
 
         weighted_df = std_df.copy(deep=True)
         weighted_df["weight"] = weighted_df.apply(lambda row: Penalty.transf_penalty(row["RPscore"], row["dist_penalty"], row["mw_change"]), axis=1)
-        
+        weighted_df["weight"].fillna(20, inplace=True)  # TODO: think more about this
+
+        weighted_df.to_csv(weighted_path, sep="\t", index=False, quoting=csv.QUOTE_ALL)
         return weighted_df
