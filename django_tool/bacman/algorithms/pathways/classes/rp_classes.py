@@ -14,7 +14,10 @@ class RP():
     def rp_source_file_noenv(sink: str, rules:str, outdir:str,
                        source: str,
                        steps=3, structures=100, dmin=6, dmax=16, timeout=60):
-        """ Launches retropath2 using a source file configuration """
+        """
+        Launches retropath2 using a source file configuration
+        # TODO: clean directory before running
+        """
         command = [
             "python", "-m", "retropath2_wrapper",
             sink,
@@ -48,7 +51,10 @@ class RP():
     def rp_single_source_noenv(sink: str, rules:str, outdir:str, 
                          name: str, inchi: str,
                        steps=3, structures=100, dmin=6, dmax=16, timeout=60):
-        """ Launches retropath2 using source name and InChI """
+        """
+        Launches retropath2 using source name and InChI
+        # TODO: clean directory before running
+        """
         command = [
             "python", "-m", "retropath2_wrapper",
             sink,
@@ -86,6 +92,7 @@ class RP():
                     source: str,
                     steps=3, structures=100, dmin=6, dmax=16, timeout=60):
         """ 
+        # TODO: clean directory before running
         Launches retropath2 using a source file configuration inside retropath_env 
 
         Return codes:
@@ -119,6 +126,7 @@ class RP():
                         name: str, inchi: str,
                         steps=3, structures=100, dmin=6, dmax=16, timeout=60):
         """ 
+        # TODO: clean directory before running
         Launches retropath2 using source name and InChI inside retropath_env 
         
         Return codes:
@@ -149,7 +157,7 @@ class RP():
             return 99, "", str(e)
 
 
-class RpGraph():
+class RpOutput():
 
     @staticmethod
     def load_res(file_path):
@@ -178,8 +186,8 @@ class RpGraph():
         Queries pubchem to get names.
         """
 
-        df['Substrate Name'] = df['Substrate InChI'].apply(RpGraph.get_name)
-        df['Product Name'] = df['Product InChI'].apply(RpGraph.get_name)
+        df['Substrate Name'] = df['Substrate InChI'].apply(RpOutput.get_name)
+        df['Product Name'] = df['Product InChI'].apply(RpOutput.get_name)
         
         return df
     
@@ -192,7 +200,7 @@ class RpGraph():
 
         all_compounds = pd.concat([unique_substrates, unique_products]).unique()
         all_compounds = pd.DataFrame({'inchi': all_compounds})
-        all_compounds['name'] = all_compounds['inchi'].apply(RpGraph.get_name)
+        all_compounds['name'] = all_compounds['inchi'].apply(RpOutput.get_name)
         all_compounds = all_compounds[['name', 'inchi']]
 
         all_compounds.to_csv(outdir+'rp_nodes.tsv', sep='\t', index=False, header=True)
@@ -213,27 +221,29 @@ class RpGraph():
         
     @staticmethod
     def edges_to_tsv(df, outdir):
-        """ Save the edges (reactions) to a TSV file. """
+        """ Save the edges (reactions) to a TSV file with kegg configuration. """
         df['EC number'] = df['EC number'].apply(lambda x: x.strip('[]'))
-        #print(df['EC number'])
-        edges_df = df[['EC number', 'Substrate InChI', 'Product InChI', 'Transformation ID']]
-        #print(edges_df)
-        edges_df['enzyme_name'] = edges_df['EC number'].apply(lambda x: x if x == 'NOEC' else RpGraph.ec_to_name(x))
-        edges_df['color'] = 'yellow'
-        edges_df = edges_df.rename(columns={'EC number': 'EC', 'Substrate InChI': 'source', 'Product InChI': 'target', 'Transformation ID': 'reaction'})
-        edges_df = edges_df[['enzyme_name', 'EC', 'source', 'target', 'color', 'reaction']]
-        edges_df.to_csv(outdir+'rp_edges.tsv', sep='\t', index=False, header=True)
+        df['enzyme_name'] = df['EC number'].apply(lambda x: x if x == 'NOEC' else 'Unknown')
+        df['source_name'] = 'Unknown'
+        df['target_name'] = 'Unknown'
+        df['color'] = 'RetroPath'
+        df['RPscore'] = df['Score'] + 2  # adding RP penalty for later weighting
+        df = df.rename(columns={
+            'EC number': 'EC', 
+            'Substrate InChI': 'source_inchi', 
+            'Product InChI': 'target_inchi', 
+            'Substrate SMILES': 'source_smiles',
+            'Product SMILES': 'target_smiles',
+            'Transformation ID': 'reaction'})
+        df.to_csv(outdir+'rp_edges.tsv', sep='\t', index=False, header=True)
         #print(edges_df)
 
 
     @staticmethod
-    def tsv_generator(file_path, outdir):
-        """ Generates nodes and edges tsv (2 separate files) """
+    def tsv_generator(results_path, outdir):
+        """ Generates edges tsv compatible with kegg edges """
         
-        df = RpGraph.load_res(file_path)      
+        df = RpOutput.load_res(results_path)
 
-        RpGraph.nodes_to_tsv(df, outdir)
-        print("Nodes saved to TSV file.")
-
-        RpGraph.edges_to_tsv(df, outdir)
+        RpOutput.edges_to_tsv(df, outdir)
         print("Edges saved to TSV file.")
