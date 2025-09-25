@@ -2,6 +2,9 @@ from rdkit import Chem
 from rdkit.Chem.MolStandardize import rdMolStandardize
 from rdkit.Chem import inchi
 from rdkit import RDLogger
+from rdkit.Chem import AllChem
+from rdkit import DataStructs
+from rdkit.Chem import Descriptors
 
 from multiprocessing import Pool
 import functools
@@ -207,3 +210,126 @@ class KeggStd(Std):
         #print(df)
         #print(df.isna().sum())
         #print(f"Standardization completed in {end_time - start_time:.2f} seconds")
+
+
+
+class Penalty():
+
+    @staticmethod
+    def transf_distance(substrate_id, product_id, format="inchi"):
+
+        if format == "smiles":
+            mol1 = Chem.MolFromSmiles(substrate_id)
+            mol2 = Chem.MolFromSmiles(product_id)
+        else:  # default InChI
+            mol1 = Chem.MolFromInchi(substrate_id)
+            mol2 = Chem.MolFromInchi(product_id)
+        
+        if mol1 is None or mol2 is None:
+            return None  # Invalid SMILES/InChI
+
+        try:
+            # Generate Morgan fingerprints
+            fp1 = AllChem.GetMorganFingerprint(mol1, 2)  # radius=2
+            fp2 = AllChem.GetMorganFingerprint(mol2, 2)
+            
+            # Calculate similarity
+            similarity = DataStructs.TanimotoSimilarity(fp1, fp2)
+            
+            # Return transformation significance (1 - similarity)
+            return 1 - similarity  # Higher = more chemical change
+        except:
+            return None  # Error in processing
+    
+    @staticmethod
+    def dist_penalty(distance):
+        if distance is not None:
+            if distance <= 0.70:
+                # Main pathway
+                penalty = distance * 2.0
+                #penalty += 1.4
+            elif distance < 0.80:
+                # Still main pathway - some doubts
+                penalty = 0.60 * 2.0 + (distance - 0.60) * 5.0
+            else:
+                # Cofactors or byproducts
+                penalty = 0.60 * 2.0 + 0.20 * 5.0 + (distance - 0.80) * 12.0  # max add 4.6
+        
+            return penalty
+        else:
+            return None
+        
+    @staticmethod
+    def get_mw(identifier, format="inchi"):
+        try:
+            if format == "smiles":
+                mol = Chem.MolFromSmiles(identifier)
+            else:  # default InChI
+                mol = Chem.MolFromInchi(identifier)
+            if mol is not None:
+                return Descriptors.MolWt(mol)
+            else:
+                return None
+        except:
+            return None
+    
+    @staticmethod
+    def mw_change(substrate_mw, product_mw):
+        """
+        Molecular Weight based penalty
+        """
+        if substrate_mw is not None and product_mw is not None and substrate_mw > 0:
+            mw_change = substrate_mw - product_mw  # Positive = loss, Negative = gain
+            percent_change = abs(mw_change) / substrate_mw * 100
+            
+            if mw_change >= 0:  # MW LOSS
+                # Exponential curve: gentle rise then steep
+                penalty = 3.0 * (1 - np.exp(-percent_change / 40))
+                return min(penalty, 3.0)
+            else:  # MW GAIN - more aggressive penalty
+                # Steeper exponential for gains
+                penalty = 3.0 * (1 - np.exp(-percent_change / 25))
+                return min(penalty, 3.0)
+        else:
+            return None
+        
+    @staticmethod
+    def transf_penalty(rp_score, distance_penalty, mw_penalty, kegg_penalty=2):
+        """
+        Penalty Assembler
+        
+        Args:
+            rp_score: RetroPath reaction score -> 0-4 (0=best, 4=worst)
+                Use 0 for KEGG reactions
+            distance_penalty: adjusted Tanimoto distance -> 0-4.6 (0=identical, 4.6=completely different)
+            mw_penalty: molecular weight change -> 0-3 (0=no change, 3=huge mw change)
+            kegg_penalty: penalty for non-KEGG reactions -> default 2
+                Use 0 for KEGG reactions
+        
+        Returns:
+            Combined penalty score (weight to be used as edge weight)
+        """
+        if distance_penalty is not None and mw_penalty is not None:
+            penalty = rp_score + distance_penalty + mw_penalty + kegg_penalty
+            return penalty
+        else:
+            return None
+        
+    @staticmethod
+    def main(std_df):
+        """
+        Generates the weighted dataframe needed for the weighted graph
+
+        Args:
+            std_df: dataframe from KEGG or RetroPath
+        Returns:
+            weighted_df: dataframe with weights
+        """
+        std_df["distance"] = std_df.apply(lambda row: Penalty.transf_distance(row["source_inchi"], row["target_inchi"]), axis=1)
+        std_df["dist_penalty"] = std_df.apply(lambda row: Penalty.dist_penalty(row["distance"]), axis=1)
+        std_df["mw_change"] = std_df.apply(lambda row: Penalty.mw_change(Penalty.get_mw(row["source_inchi"]), Penalty.get_mw(row["target_inchi"])), axis=1)
+
+        weighted_df = std_df.copy(deep=True)
+        weighted_df["weight"] = weighted_df.apply(lambda row: Penalty.transf_penalty(row["Score"], row["dist_penalty"], row["mw_change"], kegg_penalty=2), axis=1)
+        
+        return weighted_df
