@@ -20,7 +20,7 @@ import json
 import pandas as pd
 import argparse
 import sys
-from typing import Dict, List, Optional, Any
+from typing import Dict, Optional, Any
 import time
 
 
