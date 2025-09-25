@@ -1,21 +1,43 @@
 from .ncbi_filtering import fetch_protein_ids, fetch_sequences, parse_fasta    #non so se il punto ci va o meno
 import pandas as pd
 import regex as re
+from typing import List
 
-def is_suspect_header(header):
-    """Check if a header contains keywords indicating low confidence annotations."""
+def is_suspect_header(header: str) -> bool:
+    """
+    Check if a header contains keywords indicating low confidence annotations.
+    
+    Args:
+        header: FASTA header string
+    Returns:
+        True if the header is suspect, False otherwise
+    """
     lower = header.lower()
     return any(keyword in lower for keyword in ['hypothetical', 'fragment', 'partial', 'putative', 'probable'])   #can be extended
 
-def extract_organism(header):
-    """Extract the organism name from a FASTA header."""
+def extract_organism(header: str) -> str:
+    """
+    Extract the organism name from a FASTA header (mainly from RefSeq entries).
+    
+    Args:
+        header: FASTA header string
+    Returns:
+        Organism name if found, else None
+    """
     match = re.search(r'\[(.*?)\]', header)
     if match:
         return match.group(1)
     return None
 
-def process_ec_number(ec_number):
-        '''Process an EC number by fetching sequences and returning a DataFrame and metadata summary.'''
+def process_ec_number(ec_number: str) -> dict:
+        '''
+        Process an EC number by fetching sequences and returning a DataFrame and metadata summary.
+        
+        Args:
+            ec_number: Enzyme Commission number as a string
+        Returns:
+            Dictionary with 'summary' and 'data' (DataFrame)
+        '''
 
         orgs = ['Rhodococcus', 'Nocardiaceae', 'Mycobacteriales', 'Actinomycetes', 'Actinomycetota', 'Bacillati', 'Bacteria']
         for org in orgs:
@@ -61,8 +83,15 @@ def process_ec_number(ec_number):
             'data': df
         }
 
-def process_ec_list(ec_list):
-    '''Process a list of EC numbers and return results for each.'''
+def process_ec_list(ec_list: List[str]) -> List[dict]:
+    '''
+    Process a list of EC numbers and return results for each.
+    
+    Args:
+        ec_list: List of EC numbers as strings
+    Returns:
+        List of dictionaries with 'ec_number', 'summary', and 'data' (DataFrame)
+    '''
     results = []
     for ec in ec_list:
         result = process_ec_number(ec)

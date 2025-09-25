@@ -1,8 +1,19 @@
 import requests
 from xml.etree import ElementTree
+from typing import List
 
-def fetch_protein_ids(ec_number, organism, batch_size=100, reviewed=False):
-    '''Fetch all protein IDs from NCBI based on EC number and organism, optionally filtering for Swiss-Prot'''
+def fetch_protein_ids(ec_number: str, organism: str, batch_size=100, reviewed=False) -> list:
+    '''
+    Fetch all protein IDs from NCBI based on EC number and organism, optionally filtering for Swiss-Prot
+
+    Args:
+        ec_number: Enzyme Commission number associated with the protein
+        organism: Organism taxonomic ID (as found in https://www.ncbi.nlm.nih.gov/taxonomy)
+        batch_size: Number of IDs to fetch per request (default: 100)
+        reviewed: If True, only fetch reviewed (Swiss-Prot) entries (default: False)
+    Returns:
+        List of protein IDs
+    '''
     all_ids = []
     start = 0
 
@@ -43,8 +54,16 @@ def fetch_protein_ids(ec_number, organism, batch_size=100, reviewed=False):
 
     return all_ids
 
-def fetch_sequences(ids, chunk_size=150):
-    '''Fetch protein sequences in FASTA format for a list of IDs, in chunks'''
+def fetch_sequences(ids: List[str], chunk_size: int = 150) -> str:
+    '''
+    Fetch protein sequences in FASTA format for a list of IDs, in chunks
+    
+    Args:
+        ids: List of protein IDs
+        chunk_size: Number of IDs to fetch per request (default: 150)
+    Returns:
+        Concatenated FASTA formatted string of all sequences
+    '''
     fasta_all = ''
     for i in range(0, len(ids), chunk_size):
         chunk = ids[i:i+chunk_size]
@@ -59,8 +78,15 @@ def fetch_sequences(ids, chunk_size=150):
         fasta_all += r.text
     return fasta_all
 
-def parse_fasta(fasta_text):
-    '''Parse FASTA formatted text into a dictionary'''
+def parse_fasta(fasta_text: str) -> dict:
+    '''
+    Parse FASTA formatted text into a dictionary
+    
+    Args:
+        fasta_text: FASTA formatted string
+    Returns:
+        Dictionary mapping headers to sequences
+    '''
     sequences = {}
     header = None
     seq_lines = []
