@@ -9,7 +9,7 @@ and returns a dictionary mapping each SMARTS to its results DataFrame.
 import time
 from typing import List, Dict, Optional
 import pandas as pd
-from api_selenzyme import SelenzymeRFClient
+from .api_selenzyme import SelenzymeRFClient
 
 def process_smarts(
     smarts: str,
