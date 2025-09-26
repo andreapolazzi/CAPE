@@ -363,7 +363,8 @@ class Penalty():
 
         weighted_df = std_df.copy(deep=True)
         weighted_df["weight"] = weighted_df.apply(lambda row: Penalty.transf_penalty(row["RPscore"], row["dist_penalty"], row["mw_change"]), axis=1)
-        weighted_df["weight"].fillna(20, inplace=True)  # TODO: think more about this
+        #weighted_df["weight"].fillna(20, inplace=True)  # TODO: think more about this
+        weighted_df["weight"] = weighted_df["weight"].fillna(20)  # TODO: think more about this
 
         weighted_df.to_csv(weighted_path, sep="\t", index=False, quoting=csv.QUOTE_ALL)
         return weighted_df

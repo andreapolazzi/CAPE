@@ -4,6 +4,10 @@ from rp_classes import *
 
 print("=== RETROPATH PIPELINE EXAMPLE ===")
 
+print("Generating retropath results...")
+RP.django_call(name="Methyl_tert_butyl_ether", 
+			   inchi="InChI=1S/C5H12O/c1-5(2,3)6-4/h1-4H3")
+
 print("Generating the tsv file from RetroPath results...")
 RpOutput.tsv_generator(results_path="/work/igem/iGEM/django_tool/bacman/algorithms/pathways/rp_results/results.csv",
 					   outdir="/work/igem/iGEM/django_tool/bacman/algorithms/pathways/rp_results/")

@@ -166,11 +166,19 @@ class RP():
 
     def django_call(name: str, inchi: str,
                     sink="./django_tool/bacman/algorithms/pathways/data/gsm_gapfilled_sink.csv", 
-                    rules="", outdir="",
+                    rules="./django_tool/bacman/algorithms/pathways/data/retrorules_rr02_rp2_flat_forward.csv", 
+                    outdir="./django_tool/bacman/algorithms/pathways/rp_results/",
                     steps=5, structures=100, dmin=6, dmax=16, timeout=60):
-        """ Utility to call retropath from django"""
+        """ 
+        Utility to call retropath from django 
+        WARNING: this will delete all the content of outdir
+        """
         RP.clean_results(outdir)
-        code = RP.rp_single_source()
+        code = RP.rp_single_source(sink=sink, rules=rules, outdir=outdir,
+                                   name=name, inchi=inchi,
+                                   steps=steps, structures=structures,
+                                   dmin=dmin, dmax=dmax, timeout=timeout)
+        return code
 
 
 class RpOutput():
