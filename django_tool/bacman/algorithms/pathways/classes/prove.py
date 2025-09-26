@@ -9,18 +9,18 @@ RP.django_call(name="Methyl_tert_butyl_ether",
 			   inchi="InChI=1S/C5H12O/c1-5(2,3)6-4/h1-4H3")
 
 print("Generating the tsv file from RetroPath results...")
-RpOutput.tsv_generator(results_path="/work/igem/iGEM/django_tool/bacman/algorithms/pathways/rp_results/results.csv",
-					   outdir="/work/igem/iGEM/django_tool/bacman/algorithms/pathways/rp_results/")
+RpOutput.tsv_generator(results_path="./django_tool/bacman/algorithms/pathways/rp_results/results.csv",
+					   outdir="./django_tool/bacman/algorithms/pathways/rp_results/")
 
 print("Standardizing the edges...")
 # EXPECTS A SINGLE UNIQUE KEGG FILE FOR THE EDGES
-Std.main(tsv_edges_path="/work/igem/iGEM/django_tool/bacman/algorithms/pathways/rp_results/rp_edges.tsv",
-		 edges_std_path="/work/igem/iGEM/django_tool/bacman/algorithms/pathways/rp_results/rp_std_edges.tsv",
+Std.main(tsv_edges_path="./django_tool/bacman/algorithms/pathways/rp_results/rp_edges.tsv",
+		 edges_std_path="./django_tool/bacman/algorithms/pathways/rp_results/rp_std_edges.tsv",
 		 processes=64)
 
 print("Adding weights to the edges...")
-Penalty.main(std_path="/work/igem/iGEM/django_tool/bacman/algorithms/pathways/rp_results/rp_std_edges.tsv",
-			 weighted_path="/work/igem/iGEM/django_tool/bacman/algorithms/pathways/rp_results/rp_weighted_edges.tsv")
+Penalty.main(std_path="./django_tool/bacman/algorithms/pathways/rp_results/rp_std_edges.tsv",
+			 weighted_path="./django_tool/bacman/algorithms/pathways/rp_results/rp_weighted_edges.tsv")
 
 # -----------------------------------
 
