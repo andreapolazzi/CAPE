@@ -220,10 +220,12 @@ def creates_forbidden_site(dna_sequence: str, blocked_sites: List[str]) -> bool:
         ValueError: If dna_sequence contains invalid characters
     """
     seq = dna_sequence.upper()
+    if any(base not in "ACGT" for base in seq):
+        raise ValueError("DNA sequence contains invalid characters (only A,C,G,T allowed)")
     return any(site in seq for site in blocked_sites)
 
 
-def backtranslate_protein(protein: str, mode: str, seed: int, 
+def backtranslate_protein(protein: str, mode: str, rng: random.Random, 
                          forbidden_sites: List[str]) -> str:
     """
     Convert protein sequence to DNA using codon optimization.
@@ -232,7 +234,7 @@ def backtranslate_protein(protein: str, mode: str, seed: int,
     Args:
         protein: Protein sequence (string; single-letter amino acids, '*' for stop)
         mode: "max" for deterministic max-frequency, "weighted" for stochastic weighted choice
-        seed: int for random seed (used in weighted mode)
+        rng: Random number generator instance
         forbidden_sites: List of restriction sites to avoid (strings)
     Returns:
         Back-translated DNA sequence (string)
@@ -240,7 +242,6 @@ def backtranslate_protein(protein: str, mode: str, seed: int,
         ValueError: If internal stop codons are found or invalid amino acids are present
         RuntimeError: If no valid codon can be placed
     """
-    rng = random.Random(seed)
 
     blocked_sites = get_blocked_sites(forbidden_sites)
     dna_parts = []
@@ -324,6 +325,7 @@ def main():
     args = parser.parse_args()
     
     try:
+        rng = random.Random(args.seed)
 
         # Compute forbidden sites from assembly preset(s) and user-provided additions
         preset_sites: List[str] = []
@@ -341,7 +343,7 @@ def main():
         dna_entries = []
         for header, protein_seq in protein_entries:
             print(f"Back-translating: {header}")
-            dna_seq = backtranslate_protein(protein_seq, args.mode, args.seed, combined_sites)
+            dna_seq = backtranslate_protein(protein_seq, args.mode, rng, combined_sites)
             dna_entries.append((header, dna_seq))
         
         # Write output
