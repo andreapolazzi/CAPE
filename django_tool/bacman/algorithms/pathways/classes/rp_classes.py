@@ -4,6 +4,8 @@ from pubchempy import get_compounds
 import requests
 import os
 import shutil
+import os
+from pathlib import Path
 
 class RP():
 
@@ -270,8 +272,21 @@ class RpOutput():
             results_path (str): Path to the retropath results.csv file
             outdir (str): Directory to save the output TSV files - should end with a '/'
         """
+
+        results_dir = Path(results_path).parent  # Get the directory containing results.csv
+        scope_files = list(results_dir.glob("*scope.csv"))  # Look for any file ending with "scope.csv" in the results directory
         
-        df = RpOutput.load_res(results_path)
+        if scope_files:
+            # Use the first scope file found
+            # TODO: add logic to handle multiple matches using source name
+            results = scope_files[0]
+            #print(f"Found scope file: {file_to_process}. Using this instead of results.csv")
+        else:
+            # Fall back to the original results.csv file
+            results = results_path
+            #print("No scope file found. Using results.csv")
+        
+        df = RpOutput.load_res(str(results))
 
         RpOutput.edges_to_tsv(df, outdir)
         #print("Edges saved to TSV file.")
