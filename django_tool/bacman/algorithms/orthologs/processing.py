@@ -36,7 +36,7 @@ def process_ec_number(ec_number: str) -> dict:
         Args:
             ec_number: Enzyme Commission number as a string
         Returns:
-            Dictionary with 'summary' and 'data' (DataFrame)
+            Dictionary with 'summary', 'data' (DataFrame) and 'hidden_data' (DataFrame of suspect entries)
         '''
 
         orgs = ['Rhodococcus', 'Nocardiaceae', 'Mycobacteriales', 'Actinomycetes', 'Actinomycetota', 'Bacillati', 'Bacteria']
@@ -107,7 +107,7 @@ def process_ec_list(ec_list: List[str]) -> List[dict]:
     Args:
         ec_list: List of EC numbers as strings
     Returns:
-        List of dictionaries with 'ec_number', 'summary', and 'data' (DataFrame)
+        List of dictionaries with 'ec_number', 'summary', 'data' (DataFrame) and 'hidden_data' (DataFrame of suspect entries)
     '''
     results = []
     for ec in ec_list:
