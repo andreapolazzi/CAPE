@@ -1,4 +1,4 @@
-from .ncbiprot_api import fetch_protein_ids, fetch_sequences, parse_fasta    #non so se il punto ci va o meno
+from .ncbiprot_api import fetch_protein_ids, fetch_sequences, parse_fasta
 import pandas as pd
 import regex as re
 from typing import List
@@ -58,15 +58,20 @@ def process_ec_number(ec_number: str) -> dict:
         fasta = fetch_sequences(protein_ids)
         parsed_sequences = parse_fasta(fasta)
 
+        hidden_sequences = {}
+
         # Remove suspect headers
         for header, seq in parsed_sequences.items():
             if not is_suspect_header(header):
-                parsed_sequences[header] = seq
+                continue
             else:
-                print(f"Removed suspect header: {header}")
+                hidden_sequences[header] = seq
+                del parsed_sequences[header]
+                print(f"Hidden suspect entry: {header}")
 
         # Convert to DataFrame
         records = []
+        hidden = []
         for header, sequence in parsed_sequences.items():
             accession_version = re.split(r'\s+', header, maxsplit=1)[0]
             records.append({
@@ -77,10 +82,22 @@ def process_ec_number(ec_number: str) -> dict:
                 'ncbi_url': f"https://www.ncbi.nlm.nih.gov/protein/{accession_version}"
             })
 
+        for header, sequence in hidden_sequences.items():
+            accession_version = re.split(r'\s+', header, maxsplit=1)[0]
+            hidden.append({
+                'organism': extract_organism(header),
+                'header': header[:header.find('[')] if '[' in header else header,
+                'sequence': sequence,
+                'length': len(sequence),
+                'ncbi_url': f"https://www.ncbi.nlm.nih.gov/protein/{accession_version}"
+            })
+
         df = pd.DataFrame(records)
+        df_hidden = pd.DataFrame(hidden)
         return {
             'summary': tax_level,
-            'data': df
+            'data': df,
+            'hidden_data': df_hidden if not df_hidden.empty else None
         }
 
 def process_ec_list(ec_list: List[str]) -> List[dict]:
