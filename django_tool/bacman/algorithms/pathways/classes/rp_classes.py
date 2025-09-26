@@ -2,6 +2,8 @@ import subprocess
 import pandas as pd
 from pubchempy import get_compounds
 import requests
+import os
+import shutil
 
 class RP():
 
@@ -124,7 +126,7 @@ class RP():
     @staticmethod
     def rp_single_source(sink: str, rules: str, outdir: str,
                         name: str, inchi: str,
-                        steps=3, structures=100, dmin=6, dmax=16, timeout=60):
+                        steps=5, structures=100, dmin=6, dmax=16, timeout=60):
         """ 
         # TODO: clean directory before running
         Launches retropath2 using source name and InChI inside retropath_env 
@@ -155,6 +157,20 @@ class RP():
             return result.returncode, result.stdout, result.stderr
         except Exception as e:
             return 99, "", str(e)
+        
+    def clean_results(outdir: str):
+        """ Cleans the output directory before running retropath """
+        if os.path.exists(outdir):
+            shutil.rmtree(outdir)
+        os.makedirs(outdir, exist_ok=True)
+
+    def django_call(name: str, inchi: str,
+                    sink="./django_tool/bacman/algorithms/pathways/data/gsm_gapfilled_sink.csv", 
+                    rules="", outdir="",
+                    steps=5, structures=100, dmin=6, dmax=16, timeout=60):
+        """ Utility to call retropath from django"""
+        RP.clean_results(outdir)
+        code = RP.rp_single_source()
 
 
 class RpOutput():
