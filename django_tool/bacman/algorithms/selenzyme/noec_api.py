@@ -21,7 +21,7 @@ from typing import List, Dict, Optional, Union
 import pandas as pd
 from pathlib import Path
 
-from api_selenzyme import SelenzymeRFClient
+from .api_selenzyme import SelenzymeRFClient
 
 def query_smarts(
     smarts: Union[str, List[str]],
