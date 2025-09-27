@@ -209,26 +209,34 @@ def choose_best_codons(aa: str, mode: str, rng: random.Random) -> List[str]:
         raise ValueError("Mode must be 'max' or 'weighted'")
 
 
-def creates_forbidden_site(dna_sequence: str, blocked_sites: List[str]) -> bool:
+def creates_forbidden_site(new_codon: str, dna_sequence: str, blocked_sites: List[str]) -> bool:
     """
     Check if sequence contains any forbidden restriction sites.
     
     Args:
+        new_codon: newly added codon (string)
         dna_sequence: DNA sequence to check (string)
         blocked_sites: List of forbidden sites (strings)
     Returns:
         True if any forbidden site is found, False otherwise
-    Raises:
-        ValueError: If dna_sequence contains invalid characters
     """
-    seq = dna_sequence.upper()
-    if any(base not in "ACGT" for base in seq):
-        raise ValueError("DNA sequence contains invalid characters (only A,C,G,T allowed)")
-    return any(site in seq for site in blocked_sites)
+    if not blocked_sites:
+        return False
+    
+    # Find the longest restriction site to determine check window
+    max_site_len = max(len(site) for site in blocked_sites)
+
+    if len(dna_sequence) == 0:
+        test_region = new_codon
+    else:
+        overlap_start = max(0, len(dna_sequence) - (max_site_len - 1))
+        test_region = dna_sequence[overlap_start:] + new_codon
+
+    return any(site in test_region for site in blocked_sites)
 
 
-def backtranslate_protein(protein: str, mode: str, rng: random.Random = random.Random(1), 
-                         forbidden_sites: List[str] = []) -> str:
+def backtranslate_protein(protein: str, mode: str, rng: random.Random = None, 
+                         forbidden_sites: List[str] = None) -> str:
     """
     Convert protein sequence to DNA using codon optimization.
     Avoids creating forbidden restriction sites.
@@ -244,6 +252,10 @@ def backtranslate_protein(protein: str, mode: str, rng: random.Random = random.R
         ValueError: If internal stop codons are found or invalid amino acids are present
         RuntimeError: If no valid codon can be placed
     """
+    if rng is None:
+        rng = random.Random(1)
+    if forbidden_sites is None:
+        forbidden_sites = DEFAULT_FORBIDDEN.copy()
 
     blocked_sites = get_blocked_sites(forbidden_sites)
     dna_parts = []
@@ -270,19 +282,15 @@ def backtranslate_protein(protein: str, mode: str, rng: random.Random = random.R
         
         # Try each codon until we find one that doesn't create forbidden sites
         codon_placed = False
+        test_sequence = "".join(dna_parts)
         for codon in preferred_codons:
-            test_sequence = "".join(dna_parts) + codon
-            # Check last 100 nucleotides for restriction sites
-            check_region = test_sequence[-100:]
-            
-            if not creates_forbidden_site(check_region, blocked_sites):
+            if not creates_forbidden_site(codon, test_sequence, blocked_sites):
                 dna_parts.append(codon)
                 codon_placed = True
                 break
-        
         if not codon_placed:
             raise RuntimeError(f"No valid codon could be placed for amino acid '{aa}' at position {i+1}. All synonyms create forbidden sites.")
-    
+            
     return "".join(dna_parts)
 
 
