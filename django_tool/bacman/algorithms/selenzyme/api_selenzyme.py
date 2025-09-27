@@ -18,10 +18,7 @@ Author: Generated script for SelenzymeRF API usage
 import requests
 import json
 import pandas as pd
-import argparse
-import sys
 from typing import Dict, Optional, Any
-import time
 
 
 class SelenzymeRFClient:
@@ -177,110 +174,12 @@ class SelenzymeRFClient:
             requests.RequestException: If the API request fails
             ValueError: If the response format is invalid or parsing fails
         """
-
-        # Add output file handling
-        output_file = kwargs.pop('output_file', None)  # Remove from kwargs
         
         api_response = self.query_enzymes(smarts, **kwargs)
         df = self.parse_enzyme_results(api_response)
         
-        # Save to file if requested
-        if output_file and len(df) > 0:
-            df.to_csv(output_file, index=False)
-            print(f"Results saved to: {output_file}")
-        
         return df
-
-def main():
-    """
-    Command line interface for the SelenzymeRF API client.
-    """
-    
-    parser = argparse.ArgumentParser(
-        description='Query SelenzymeRF API for enzyme suggestions from SMARTS patterns',
-        formatter_class=argparse.RawDescriptionHelpFormatter,
-        epilog="""
-Examples:
-  python selenzymerf_client.py "[CH3:1][CH2:2][OH:3]>>[CH3:1][CH2:2][O:3]"
-  python selenzymerf_client.py "CC(=O)O>>CCO" --output results.csv
-  python selenzymerf_client.py "c1ccccc1O>>c1ccccc1" --max-results 20
-        """
-    )
-    
-    parser.add_argument(
-        'smarts',
-        help='SMARTS pattern representing the chemical reaction'
-    )
-    
-    parser.add_argument(
-        '--output', '-o',
-        help='Output CSV file to save results'
-    )
-    
-    parser.add_argument(
-        '--targets', '-t',
-        type=int,
-        default=50,
-        help='Maximum number of enzyme results to return (default: 50)'
-    )
-    
-    parser.add_argument(
-        '--host',
-        type=str,
-        default='37919',
-        help='Target host organism taxonomical ID (default for Rhodococcus opacus: "37919")'
-    )
-    
-    parser.add_argument(
-        '--no-msa',
-        default=False,
-        action='store_true',
-        help='Skip multiple sequence alignment generation'
-    )
-    
-    parser.add_argument(
-        '--timeout',
-        type=int,
-        default=30,
-        help='Request timeout in seconds (default: 30)'
-    )
-    
-    parser.add_argument(
-        '--url',
-        default="http://selenzymerf.synbiochem.co.uk",
-        help='SelenzymeRF API base URL (default: http://selenzymerf.synbiochem.co.uk)'
-    )
-    
-    args = parser.parse_args()
-    
-    try:
-        # Initialize client
-        client = SelenzymeRFClient(base_url=args.url)
-        
-        # Perform search
-        results = client.search_enzymes(
-            smarts=args.smarts,
-            targets=args.targets,
-            host=args.host,
-            noMSA=args.no_msa,
-            output_file=args.output
-        )
-        
-        # Display results
-        if len(results) > 0:
-            print("\nTop enzyme suggestions:")
-            print("=" * 80)
-            print(results.head(10).to_string(index=False))
-            
-            if len(results) > 10:
-                print(f"\n... and {len(results) - 10} more results")
-                if args.output:
-                    print(f"Full results saved to: {args.output}")
-        
-    except Exception as e:
-        print(f"Error: {e}", file=sys.stderr)
-        sys.exit(1)
 
 
 if __name__ == "__main__":
-    main()
+    pass
