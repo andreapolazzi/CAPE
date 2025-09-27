@@ -197,7 +197,9 @@ def choose_best_codons(aa: str, mode: str, rng: random.Random) -> List[str]:
         total_weight = sum(weights)
         probabilities = [w / total_weight for w in weights]
         
+        # Choose one codon based on weights
         chosen = rng.choices(codons_list, weights=probabilities)[0]
+        # Sort remaining codons based on frequency
         remaining = [codon for codon, _ in sorted(codon_weights, key=lambda x: x[1], reverse=True) 
                     if codon != chosen]
         
@@ -225,8 +227,8 @@ def creates_forbidden_site(dna_sequence: str, blocked_sites: List[str]) -> bool:
     return any(site in seq for site in blocked_sites)
 
 
-def backtranslate_protein(protein: str, mode: str, rng: random.Random, 
-                         forbidden_sites: List[str]) -> str:
+def backtranslate_protein(protein: str, mode: str, rng: random.Random = random.Random(1), 
+                         forbidden_sites: List[str] = []) -> str:
     """
     Convert protein sequence to DNA using codon optimization.
     Avoids creating forbidden restriction sites.
@@ -253,11 +255,17 @@ def backtranslate_protein(protein: str, mode: str, rng: random.Random,
     if "*" in protein[:-1]:
         raise ValueError("Internal stop codon '*' found in protein sequence")
     
+    # Check presence of stop codon at end
+    if protein[-1] != "*":
+        protein += "*"
+    
+    # Back-translate each amino acid
     for i, aa in enumerate(protein):
         if aa == "*":
             # Use most frequent stop codon
             preferred_codons = choose_best_codons("*", "max", rng)
         else:
+            # Get preferred codons for amino acid
             preferred_codons = choose_best_codons(aa, mode, rng)
         
         # Try each codon until we find one that doesn't create forbidden sites
