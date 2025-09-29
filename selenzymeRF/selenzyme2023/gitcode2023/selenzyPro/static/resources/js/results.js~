@@ -1,7 +1,0 @@
-
-// Main jQuery call
-$(document)
-		.ready(
-				function() {
-				}
-		);
