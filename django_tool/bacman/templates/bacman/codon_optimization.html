@@ -21,9 +21,9 @@
     <div>
         <label>Select restriction sites (can select multiple):</label><br>
         <input type="checkbox" name="restriction_sites" value="GGTCTC,GCTCTTC"
-            {% if 'GGTCTC,GCTCTTC' in restriction_options %}checked{% endif %}>Golden gate: GGTCTC - GCTCTTC<br>
+            {% if 'GGTCTC,GCTCTTC' in restriction_options %}checked{% endif %}>Type IIS Golden Gate -> BsaI: GGTCTC, SapI: GCTCTTC<br>
         <input type="checkbox" name="restriction_sites" value="GAATTC,TCTAGA,ACTAGT,CTGCAG,GCGGCCGC"
-            {% if 'GAATTC,TCTAGA,ACTAGT,CTGCAG,GCGGCCGC' in restriction_options %}checked{% endif %}>Biobrick: GAATTC - TCTAGA - ACTAGT - CTGCAG - GCGGCCGC<br>
+            {% if 'GAATTC,TCTAGA,ACTAGT,CTGCAG,GCGGCCGC' in restriction_options %}checked{% endif %}>Biobrick RFC10 -> EcoRI: GAATTC, XbaI: TCTAGA, SpeI: ACTAGT, PstI: CTGCAG, NotI: GCGGCCGC<br>
     </div>
 
     <div>

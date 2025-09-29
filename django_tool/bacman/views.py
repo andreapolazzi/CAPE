@@ -1,91 +1,155 @@
+# Standard library
+import random
+from collections import defaultdict
+
+# Django
+from django.http import HttpResponse
 from django.shortcuts import render
 from django.utils.safestring import mark_safe
-from django.http import HttpResponse
-from collections import defaultdict
-import random
 
+# Local algorithms
 from .algorithms.pathways.main import main
 from .algorithms.orthologs.processing import process_ec_list
 from .algorithms.codon_opt.backtranslate_pd630 import backtranslate_protein
 
-
+# Color map needed to paint ec numbers to identify their origin
 COLOR_MAP = {'green': '#21b57c',
              'white': '#f2c94c',
              'RetroPath': '#f2784c'}
 
-#HOMEPAGE
+
 def homepage(request):
+    """
+    Render the homepage of the application.
+
+    Supported method: GET (default browser request)
+
+    Output:
+        HttpResponse rendering the HomeCAPE.html
+    """
+
     return render(request, 'bacman/HomeCAPE.html')
 
 
-#PATHWAYS PAGE: the 3 best pathways are presented, user can choose one
 def pathways(request):
+    """
+    Display the best n metabolic pathways from pollutant to compound.
+    Calls the algorithm 'main' and formats results for visualization.
+    
+    Supported method: POST
+
+    Input parameters - via POST:
+        pollutant (str): starting compound to degrade
+        sink (str): final compound to reach
+        p_inchi (str): InChi code of the pollutant
+        f_inchi (str): InChi code of the sink compound
+        num (int): number of pathways to return
+
+    Session Data - write:
+        pathways: raw pathways data
+        database: dictionary containing information about compounds and enzymes
+        pollutant: starting compound to degrade
+        sink: final compound to reach
+
+    Output - HttpResponse rendering the template pathways_html:
+        context:
+            pathways: formatted pathways ready to be displayed
+            pollutant: starting compound to degrade
+            sink: final compound to reach
+    """
+
     if request.method == "POST":
+        
+        # Retrieve data from the submitted form
         pollutant = request.POST.get("pollutant")
         p_inchi = request.POST.get("p_inchi")
         sink = request.POST.get("sink")
         f_inchi = request.POST.get("f_inchi")
         num = request.POST.get("number")
 
-        #print(pollutant, p_inchi, sink, f_inchi)
-
+        # Compute pathways and the database using the function 'main'
         pathways, db = main(pollutant, sink, p_inchi, f_inchi)
 
+        # Save the data in session
         request.session['pathways'] = pathways
         request.session['database'] = db
         request.session['pollutant'] = pollutant
         request.session['sink'] = sink
         
+        # Build HTML representation of each pathway in the form:
         path_text = []
-        for path in pathways:
-            weight, steps = path[0], path[1]
-            
+        for weight, steps in pathways:
             summary = f'WEIGHT: {weight:.2f}<br>'
             
             for i, step in enumerate(steps, 1):
                 start_compound, end_compound = step[0], step[2]
                 enzyme_ec, enzyme_color = step[1][0][0], step[1][0][1]
 
+                # Map enzyme color
                 coloring = COLOR_MAP.get(enzyme_color, '#333333')
-                colored_enzyme = f'<span style = "color:{coloring}"> {enzyme_ec} </span>'
+                colored_enzyme = f'<span style="color:{coloring}">{enzyme_ec}</span>'
                 
+                # Construct the step line
                 summary += f"{i}. {start_compound} → {colored_enzyme} → {end_compound}<br>"
                 
             path_text.append(mark_safe(summary))
         
+        # Prepare context for the template
         context = {'pathways': enumerate(path_text),
-                'pollutant': pollutant,
-                'sink': sink}
+                   'pollutant': pollutant,
+                   'sink': sink}
 
+        # Render the template with the data 'context'
         return render(request, 'bacman/pathways.html', context )
 
-#EC CHOICE PAGE: user can customize ec
+
 def ec_choice(request):
+    """
+    Display the EC choice page where the user can customize EC assignments
+    for each step of the selected metabolic pathway.
+    
+    Supported method: POST
+    
+    Input parameters - via POST:
+        selected_pathway (int): index of the pathway chosen by the user
+        
+    Session data - read:
+        pathways: raw pathways data
+        database: dictionary containing information about compounds and enzymes
+        pollutant: starting compound to degrade
+        sink: final compound to reach
+
+    Session data - write:
+        selected_steps: detailed information about each step, including compounds,
+                        EC numbers, enzyme info, and coloring
+    
+    Output - HttpResponse rendering the template ec_choice.html:
+        context:
+            steps: list of steps with detailed compound/enzyme information
+            pollutant: starting compound to degrade
+            sink: final compound to reach
+    """
     if request.method == 'POST':
+
+        # Retrieve the selected pathway index from the form
         selected_index = int(request.POST.get('selected_pathway'))
 
+        # Load data from session
         pathways = request.session.get('pathways')
         db = request.session.get('database')
         pollutant = request.session.get('pollutant')
         sink = request.session.get('sink')
 
+        # Extract the selected pathway and its steps
         selected_pathway = pathways[selected_index]
         steps = selected_pathway[1]
 
-        '''
-        noec_steps = []
-        for i, step in enumerate(steps):
-            first_ec = step[1][0][0] if step[1] else None
-            if first_ec == 'noec':
-                noec_steps.append([first_ec, i]) #da capire cosa mi passa samu
-        '''
-
-        
 
         detailed_steps = []
         for i, step in enumerate(steps):
             start_compound, end_compound = step[0], step[2]
 
+            # Collect all possible EC number for this step
             available_ecs = []
             for ec in step[1]:
                 enzyme_id, enzyme_color = ec[0], ec[1]
@@ -99,22 +163,27 @@ def ec_choice(request):
                                       'reactions': enzyme_info.get('reactions', []),
                                       'coloring': coloring})
             
+            # Retrieve additional info for start and end compounds
             start_info = db.get(start_compound.lower(), {})
             end_info = db.get(end_compound.lower(), {})
 
+            # Build the detailed step representation
             detailed_steps.append({'step_number': i,
                                    'start_compound': start_compound,
                                    'end_compound': end_compound,
                                    's_info': start_info,
                                    'e_info': end_info,
                                    'ecs': available_ecs})
-            
+
+        # Save detailed steps in session   
         request.session['selected_steps'] = detailed_steps
 
+        # Prepare context for rendering the template
         context = {'steps': detailed_steps,
                    'pollutant': pollutant,
                    'sink': sink}
 
+        # Render the template with the data 'context'
         return render(request, 'bacman/ec_choice.html', context)
 
 #ORTHOLOGS PAGE: fasta files of all orthologs are presented, user chooses
