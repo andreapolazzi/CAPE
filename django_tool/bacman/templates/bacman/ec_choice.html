@@ -1,9 +1,8 @@
-<!DOCTYPE html>
-<html>
-<head>
-    <title>EC Choice</title>
-</head>
-<body>
+{% extends "master.html" %}
+
+{% block title %}EC choice{% endblock %}
+
+{% block content %}
     <h1>EC Selection for Pathway</h1>
     <h2>{{ pollutant }} → {{ sink }}</h2>
 
@@ -36,5 +35,5 @@
 
         <button type="submit">Process Selected ECs</button>
     </form>
-</body>
-</html>
+
+{% endblock %}
