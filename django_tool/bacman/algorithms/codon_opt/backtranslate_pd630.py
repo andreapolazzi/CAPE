@@ -195,9 +195,6 @@ def choose_best_codons(aa: str, mode: str, rng: random.Random) -> List[str]:
         # Stochastic weighted choice: shuffle and sort by random weighted value
         codon_list, weights = zip(*codon_weights)
 
-        print(f"      [weighted mode] Starting pool: {list(codon_list)}")
-        print(f"      [weighted mode] Weights: {list(weights)}")
-
         # Sample all codons in random order weighted by frequency
         result = []
         available = list(codon_list)
@@ -206,9 +203,6 @@ def choose_best_codons(aa: str, mode: str, rng: random.Random) -> List[str]:
         while available:
             total = sum(available_weights)
             probabilities = [w / total for w in available_weights]
-
-            print(f"      [weighted mode] Available: {available}")
-            print(f"      [weighted mode] Probabilities: {probabilities}")
 
             # Choose one codon based on weights
             chosen_idx = rng.choices(range(len(available)), weights=probabilities)[0]
@@ -280,29 +274,96 @@ def backtranslate_protein(protein: str, mode: str, rng: random.Random = None,
     if protein[-1] != "*":
         protein += "*"
     
-    # Back-translate each amino acid
-    for i, aa in enumerate(protein):
-        if aa == "*":
-            # Use most frequent stop codon
-            preferred_codons = choose_best_codons("*", mode, rng)
+    # Track stats
+    total_retries = 0
+    total_backtracks = 0
+    max_retries_for_position = 0
+
+    # Stack-based backtracking: store (position, codon_choices, current_index)
+    stack: List[List] = []
+    position = 0
+    while position < len(protein):
+        aa = protein[position]
+
+        # Get codon choices for this position (or from stack if backtracking)
+        if position < len(stack):
+            _, codon_choices, last_choice_idx = stack[position]
+            start_idx = last_choice_idx + 1 # Try next codon
         else:
-            # Get preferred codons for amino acid
-            preferred_codons = choose_best_codons(aa, mode, rng)
-        
-        # Try each codon until we find one that doesn't create forbidden sites
-        codon_placed = False
-        test_sequence = "".join(dna_parts)
-        for codon in preferred_codons:
-            if not creates_forbidden_site(codon, test_sequence, blocked_sites):
-                dna_parts.append(codon)
-                codon_placed = True
-                break
+            # New position, get codon choices
+            if aa == "*":
+                codon_choices = choose_best_codons("*", mode, rng)
             else:
-                print(f"      [warning] Codon {codon} for amino acid '{aa}' at position {i+1} creates forbidden site; trying next.")
-        if not codon_placed:
-            raise RuntimeError(f"No valid codon could be placed for amino acid '{aa}' at position {i+1}. All synonyms create forbidden sites.")
+                codon_choices = choose_best_codons(aa, mode, rng)
+            start_idx = 0
+            stack.append([position, codon_choices, -1]) # -1 means none chosen yet
+
+        # Try to place a codon
+        codon_placed = False
+        current_dna = "".join([stack[i][1][stack[i][2]] for i in range(position)])
+
+        for choice_idx in range(start_idx, len(codon_choices)):
+            codon = codon_choices[choice_idx]
             
-    return "".join(dna_parts)
+            if not creates_forbidden_site(codon, current_dna, blocked_sites):
+                # Success! Place this codon
+                stack[position][2] = choice_idx  # Update choice index
+                codon_placed = True
+                
+                if choice_idx > 0:
+                    #print(f"    Position {position+1} ({aa}): used codon attempt {choice_idx+1}/{len(codon_choices)}: {codon}")
+                    total_retries += choice_idx
+                    max_retries_for_position = max(max_retries_for_position, choice_idx)
+                
+                position += 1
+                break
+        
+        if not codon_placed:
+            # No valid codon found - need to backtrack
+            if position == 0:
+                raise RuntimeError(
+                    f"Cannot place any codon for first amino acid '{aa}'. "
+                    f"All synonymous codons create forbidden sites. "
+                    f"Try relaxing restriction site constraints."
+                )
+            
+            # Calculate how far back we can go
+            backtrack_distance = min(position, max_backtrack)
+            backtrack_to = position - backtrack_distance
+            
+            #print(f"    ⚠ Position {position+1} ({aa}): all {len(codon_choices)} codons blocked, backtracking {backtrack_distance} positions to {backtrack_to+1}")
+            total_backtracks += 1
+            
+            # Remove positions we're backtracking from
+            stack = stack[:backtrack_to + 1]
+            position = backtrack_to
+            
+            # Check if we've exhausted all options at the backtrack position
+            if position >= 0 and stack[position][2] >= len(stack[position][1]) - 1:
+                # All options exhausted at backtrack position too - need to backtrack further
+                #print(f"    ⚠ Position {position+1} also exhausted, continuing backtrack...")
+                continue
+    
+    # Build final sequence
+    final_dna = "".join([stack[i][1][stack[i][2]] for i in range(len(protein))])
+    
+    gc_content = (final_dna.count('G') + final_dna.count('C')) / len(final_dna) * 100
+    
+    # print(f"  ✓ Translation complete:")
+    # print(f"    - DNA length: {len(final_dna)} bp ({len(final_dna)//3} codons)")
+    # print(f"    - GC content: {gc_content:.1f}%")
+    # print(f"    - Total codon retries: {total_retries}")
+    # print(f"    - Total backtracks: {total_backtracks}")
+    # print(f"    - Max retries at single position: {max_retries_for_position}")
+    
+    # Verify no forbidden sites in final sequence
+    found_sites = [site for site in blocked_sites if site in final_dna]
+    #if found_sites:
+        #print(f"  ⚠ WARNING: Found forbidden sites in final sequence: {found_sites}")
+    #else:
+        #print(f"  ✓ No forbidden restriction sites found")
+    
+    return final_dna
 
 
 def write_fasta(entries: List[Tuple[str, str]], output_file: str):
@@ -337,6 +398,8 @@ def main():
                        help="Random seed for weighted mode (default: 1)")
     parser.add_argument("--forbid", nargs="*", default=DEFAULT_FORBIDDEN,
                        help="Restriction sites to avoid (default: Golden Gate sites)")
+    parser.add_argument("--max-backtrack", type=int, default=10,
+                   help="Maximum positions to backtrack when stuck (default: 10)")
     parser.add_argument(
         "--assembly",
         choices=list(ASSEMBLY_PRESETS.keys()),
@@ -370,7 +433,7 @@ def main():
         dna_entries = []
         for header, protein_seq in protein_entries:
             print(f"Back-translating: {header}")
-            dna_seq = backtranslate_protein(protein_seq, args.mode, rng, combined_sites)
+            dna_seq = backtranslate_protein(protein_seq, args.mode, rng, combined_sites, args.max_backtrack)
             dna_entries.append((header, dna_seq))
         
         # Write output
