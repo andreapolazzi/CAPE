@@ -10,17 +10,46 @@ from pathlib import Path
 class RP():
 
     
-    CONDA_INIT = "source /work/igem/anaconda3/etc/profile.d/conda.sh"
-    ENV_NAME = "retropath_env"
+    CONDA_INIT = "source /work/igem/anaconda3/etc/profile.d/conda.sh"  # Adjust this path to your conda installation
+    ENV_NAME = "retropath_env"  # Name of the conda environment with retropath installed
 
 
     @staticmethod
     def rp_source_file_noenv(sink: str, rules:str, outdir:str,
                        source: str,
-                       steps=3, structures=100, dmin=6, dmax=16, timeout=60):
+                       steps=3, structures=100, dmin=6, dmax=16, timeout=60) -> tuple:
         """
-        Launches retropath2 using a source file configuration
-        # TODO: clean directory before running
+        Launches retropath2 using source file
+        Requires a retropath conda environment activated prior its call
+
+        Args:
+            For more info on RetroPath parameters, see their documentation
+            sink: path to sink file
+            rules: path to rules file
+            outdir: path to the folder where to save results
+            source: path to the source file. Must contain:
+                name of the source compound (no need to be precise)
+                inchi: inchi code of the source compound (needs to be exact). Must start with "InChI="
+            steps: max iterations RetroPath is allowed to compute
+            structures: max number of structures kept after each iteration
+            dmin: min diameter for the reaction rules
+            dmax: max diameter for the reaction rules
+            timeout: max time RetroPath is allowed to run, in minutes
+        
+        Returns:
+            result.returncode: return code
+            result.stdout: captured retropath text output
+            result.stderr: exception raised or failed RetroPath call
+        
+        Return codes:
+            0: No error
+            1: File is not found
+            2: Running the RetroPath2.0 Knime program produced an OSError
+            3: InChI is malformated
+            10: Source has been found in the sink (warning)
+            11: No solution is found (warning)
+            99: unexpected error (not defined in retropath module)
+        
         """
         command = [
             "python", "-m", "retropath2_wrapper",
@@ -36,9 +65,6 @@ class RP():
         ]
 
         try:
-            # Print command for debugging
-            # print("Executing command:", ' '.join(command))
-            
             result = subprocess.run(
                 command,
                 capture_output=True,
@@ -46,18 +72,45 @@ class RP():
                 check=False  # Don't raise exception on non-zero return code
             )
             return result.returncode, result.stdout, result.stderr
-            #return result.returncode
-            
         except Exception as e:
             return 99, "", str(e)
         
     @staticmethod
     def rp_single_source_noenv(sink: str, rules:str, outdir:str, 
                          name: str, inchi: str,
-                       steps=3, structures=100, dmin=6, dmax=16, timeout=60):
+                       steps=3, structures=100, dmin=6, dmax=16, timeout=60) -> tuple:
         """
         Launches retropath2 using source name and InChI
-        # TODO: clean directory before running
+        Requires a retropath conda environment to be activated prior its call
+
+        Args:
+            For more info on RetroPath parameters, see their documentation
+            sink: path to sink file
+            rules: path to rules file
+            outdir: path to the folder where to save results
+            name: name of the source compound (no need to be precise)
+            inchi: inchi code of the source compound (needs to be exact)
+                    Must start with "InChI="
+            steps: max iterations RetroPath is allowed to compute
+            structures: max number of structures kept after each iteration
+            dmin: min diameter for the reaction rules
+            dmax: max diameter for the reaction rules
+            timeout: max time RetroPath is allowed to run, in minutes
+        
+        Returns:
+            result.returncode: return code
+            result.stdout: captured retropath text output
+            result.stderr: exception raised or failed RetroPath call
+        
+        Return codes:
+            0: No error
+            1: File is not found
+            2: Running the RetroPath2.0 Knime program produced an OSError
+            3: InChI is malformated
+            10: Source has been found in the sink (warning)
+            11: No solution is found (warning)
+            99: unexpected error (not defined in retropath module)
+        
         """
         command = [
             "python", "-m", "retropath2_wrapper",
@@ -74,19 +127,14 @@ class RP():
         ]
     
         try:
-            # Print command for debugging
-            # print("Executing command:", ' '.join(command))
-            
-            # Run the command using subprocess.run
+            # Run the command
             result = subprocess.run(
                 command,
                 capture_output=True,
                 text=True,
                 check=False  # Don't raise exception on non-zero return code
             )
-            
             return result.returncode, result.stdout, result.stderr
-            
         except Exception as e:
             return 99, "", str(e)
         
@@ -94,11 +142,30 @@ class RP():
     @staticmethod
     def rp_source_file(sink: str, rules: str, outdir: str,
                     source: str,
-                    steps=3, structures=100, dmin=6, dmax=16, timeout=60):
+                    steps=3, structures=100, dmin=6, dmax=16, timeout=60) -> tuple:
         """ 
-        # TODO: clean directory before running
-        Launches retropath2 using a source file configuration inside retropath_env 
+        Launches retropath2 using source file
+        Requires a retropath conda environment available to be activated
 
+        Args:
+            For more info on RetroPath parameters, see their documentation
+            sink: path to sink file
+            rules: path to rules file
+            outdir: path to the folder where to save results
+            source: path to the source file. Must contain:
+                name of the source compound (no need to be precise)
+                inchi: inchi code of the source compound (needs to be exact). Must start with "InChI="
+            steps: max iterations RetroPath is allowed to compute
+            structures: max number of structures kept after each iteration
+            dmin: min diameter for the reaction rules
+            dmax: max diameter for the reaction rules
+            timeout: max time RetroPath is allowed to run, in minutes
+        
+        Returns:
+            result.returncode: return code
+            result.stdout: captured retropath text output
+            result.stderr: exception raised or failed RetroPath call
+        
         Return codes:
             0: No error
             1: File is not found
@@ -107,6 +174,7 @@ class RP():
             10: Source has been found in the sink (warning)
             11: No solution is found (warning)
             99: unexpected error (not defined in retropath module)
+        
         """
         command = f"""
         {RP.CONDA_INIT} && conda activate {RP.ENV_NAME} && \
@@ -128,10 +196,29 @@ class RP():
     @staticmethod
     def rp_single_source(sink: str, rules: str, outdir: str,
                         name: str, inchi: str,
-                        steps=5, structures=100, dmin=6, dmax=16, timeout=60):
+                        steps=5, structures=100, dmin=6, dmax=16, timeout=60) -> tuple:
         """ 
-        # TODO: clean directory before running
-        Launches retropath2 using source name and InChI inside retropath_env 
+        Launches retropath2 using source name and InChI
+        Requires a retropath conda environment available to be activated
+
+        Args:
+            For more info on RetroPath parameters, see their documentation
+            sink: path to sink file
+            rules: path to rules file
+            outdir: path to the folder where to save results
+            name: name of the source compound (no need to be precise)
+            inchi: inchi code of the source compound (needs to be exact)
+                    Must start with "InChI="
+            steps: max iterations RetroPath is allowed to compute
+            structures: max number of structures kept after each iteration
+            dmin: min diameter for the reaction rules
+            dmax: max diameter for the reaction rules
+            timeout: max time RetroPath is allowed to run, in minutes
+        
+        Returns:
+            result.returncode: return code
+            result.stdout: captured retropath text output
+            result.stderr: exception raised or failed RetroPath call
         
         Return codes:
             0: No error
@@ -170,10 +257,28 @@ class RP():
                     sink="./django_tool/bacman/algorithms/pathways/data/gsm_gapfilled_sink.csv", 
                     rules="./django_tool/bacman/algorithms/pathways/data/retrorules_rr02_rp2_flat_forward.csv", 
                     outdir="./django_tool/bacman/algorithms/pathways/rp_results/",
-                    steps=5, structures=100, dmin=6, dmax=16, timeout=60):
+                    steps=5, structures=100, dmin=6, dmax=16, timeout=60) -> tuple:
         """ 
-        Utility to call retropath from django 
-        WARNING: this will delete all the content of outdir
+        Utility to call retropath from django
+        Acts a main for retropath execution with single source
+
+        !! WARNING: this will delete all the content of outdir !!
+
+        Args:
+            name: name of the source compound (no need to be precise)
+            inchi: inchi code of the source compound (needs to be exact)
+                    Must start with "InChI="
+            sink: path to sink file
+            rules: path to rules file
+            outdir: path to the folder where to save results
+            steps: max iterations RetroPath is allowed to compute
+            structures: max number of structures kept after each iteration
+            dmin: min diameter for the reaction rules
+            dmax: max diameter for the reaction rules
+            timeout: max time RetroPath is allowed to run, in minutes
+        
+        Returns:
+            code: return codes from retropath execution
         """
         RP.clean_results(outdir)
         code = RP.rp_single_source(sink=sink, rules=rules, outdir=outdir,
@@ -186,13 +291,28 @@ class RP():
 class RpOutput():
 
     @staticmethod
-    def load_res(file_path):
-        """ Load the results from a CSV file into a pandas DataFrame. """
+    def load_res(file_path) -> pd.DataFrame:
+        """ 
+        Load the results from a CSV file into a pandas DataFrame.
+        
+        Args:
+            file_path (str): Path to the CSV file.
+        Returns:
+            pd.DataFrame: DataFrame containing the CSV data.
+        """
         return pd.read_csv(file_path)
     
     @staticmethod
-    def get_name(inchi):
-        """ Get the name of a compound from its InChI """
+    def get_name(inchi: str) -> str:
+        """ 
+        Get the name of a compound from its InChI
+        Queries pubchem to get names.
+
+        Args:
+            inchi (str): InChI string of the compound.
+        Returns:
+            str: Name of the compound or 'Unknown' if not found.
+        """
         if inchi == 'InChI=1S':
             return 'H+'
         compounds = get_compounds(inchi, 'inchi')
@@ -206,21 +326,30 @@ class RpOutput():
         return 'Unknown'
     
     @staticmethod
-    def add_names(df):
+    def add_names(df: pd.DataFrame) -> pd.DataFrame:
         """
         Add 'Substrate Name' and 'Product Name' columns to the DataFrame based on InChI.
         Queries pubchem to get names.
-        """
 
+        Args:
+            df (pd.DataFrame): DataFrame containing 'Substrate InChI' and 'Product InChI' columns.
+        Returns:
+            pd.DataFrame: DataFrame with added name columns.
+        """
         df['Substrate Name'] = df['Substrate InChI'].apply(RpOutput.get_name)
         df['Product Name'] = df['Product InChI'].apply(RpOutput.get_name)
-        
         return df
     
     @staticmethod
-    def nodes_to_tsv(df, outdir):
-        """ Save the unique substrate and product names to a TSV file """
-        
+    def nodes_to_tsv(df: pd.DataFrame, outdir: str):
+        """
+        Saves the unique substrate and product names to a TSV file
+        Args:
+            df (pd.DataFrame): DataFrame containing 'Substrate InChI' and 'Product InChI' columns.
+            outdir (str): Directory to save the output TSV file - should end with a '/'
+        Returns:
+            None
+        """
         unique_substrates = pd.Series(df['Substrate InChI'].unique())
         unique_products = pd.Series(df['Product InChI'].unique())
 
@@ -232,8 +361,15 @@ class RpOutput():
         all_compounds.to_csv(outdir+'rp_nodes.tsv', sep='\t', index=False, header=True)
 
     @staticmethod
-    def ec_to_name(ec: str):
-        """ Convert EC number (format "x.x.x.x", not "EC:x.x.x.x") to a human-readable name. """
+    def ec_to_name(ec: str) -> str:
+        """
+        Converts EC number (format "x.x.x.x", not "EC:x.x.x.x") to a human-readable name.
+        Queries KEGG to get enzyme names.
+        Args:
+            ec (str): EC number in the format "x.x.x.x"
+        Returns:
+            str: Name of the enzyme or 'Unknown' if not found.
+        """
         try:
             response = requests.get(f'https://rest.kegg.jp/get/ec:{ec}')
             if response.status_code == 200:
@@ -246,8 +382,15 @@ class RpOutput():
             return 'Unknown'
         
     @staticmethod
-    def edges_to_tsv(df, outdir):
-        """ Save the edges (reactions) to a TSV file with kegg configuration. """
+    def edges_to_tsv(df: pd.DataFrame, outdir: str):
+        """
+        Saves the edges (reactions) to a TSV file with kegg-like configuration.
+        Args:
+            df (pd.DataFrame): DataFrame containing the retropath results.
+            outdir (str): Directory to save the output TSV file - should end with a '/'
+        Returns:
+            None
+        """
         df['EC number'] = df['EC number'].apply(lambda x: x.strip('[]'))
         df['enzyme_name'] = df['EC number'].apply(lambda x: x if x == 'NOEC' else 'Unknown')
         df['source_name'] = 'Unknown'
@@ -262,15 +405,17 @@ class RpOutput():
             'Product SMILES': 'target_smiles',
             'Transformation ID': 'reaction'})
         df.to_csv(outdir+'rp_edges.tsv', sep='\t', index=False, header=True)
-        #print(edges_df)
 
 
     @staticmethod
-    def tsv_generator(results_path, outdir):
-        """ Generates edges tsv compatible with kegg edges 
+    def tsv_generator(results_path: str, outdir:str):
+        """ 
+        Generates edges tsv compatible with kegg edges 
         Args:
             results_path (str): Path to the retropath results.csv file
             outdir (str): Directory to save the output TSV files - should end with a '/'
+        Returns:
+            None
         """
 
         results_dir = Path(results_path).parent  # Get the directory containing results.csv
@@ -280,13 +425,9 @@ class RpOutput():
             # Use the first scope file found
             # TODO: add logic to handle multiple matches using source name
             results = scope_files[0]
-            #print(f"Found scope file: {file_to_process}. Using this instead of results.csv")
         else:
             # Fall back to the original results.csv file
             results = results_path
-            #print("No scope file found. Using results.csv")
-        
-        df = RpOutput.load_res(str(results))
 
+        df = RpOutput.load_res(str(results))
         RpOutput.edges_to_tsv(df, outdir)
-        #print("Edges saved to TSV file.")
