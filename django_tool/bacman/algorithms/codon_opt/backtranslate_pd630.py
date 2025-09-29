@@ -192,18 +192,33 @@ def choose_best_codons(aa: str, mode: str, rng: random.Random) -> List[str]:
         return [codon for codon, _ in sorted(codon_weights, key=lambda x: x[1], reverse=True)]
     
     elif mode == "weighted":
-        # Random weighted choice, then sort rest by frequency
-        codons_list, weights = zip(*codon_weights)
-        total_weight = sum(weights)
-        probabilities = [w / total_weight for w in weights]
-        
-        # Choose one codon based on weights
-        chosen = rng.choices(codons_list, weights=probabilities)[0]
-        # Sort remaining codons based on frequency
-        remaining = [codon for codon, _ in sorted(codon_weights, key=lambda x: x[1], reverse=True) 
-                    if codon != chosen]
-        
-        return [chosen] + remaining
+        # Stochastic weighted choice: shuffle and sort by random weighted value
+        codon_list, weights = zip(*codon_weights)
+
+        print(f"      [weighted mode] Starting pool: {list(codon_list)}")
+        print(f"      [weighted mode] Weights: {list(weights)}")
+
+        # Sample all codons in random order weighted by frequency
+        result = []
+        available = list(codon_list)
+        available_weights = list(weights)
+
+        while available:
+            total = sum(available_weights)
+            probabilities = [w / total for w in available_weights]
+
+            print(f"      [weighted mode] Available: {available}")
+            print(f"      [weighted mode] Probabilities: {probabilities}")
+
+            # Choose one codon based on weights
+            chosen_idx = rng.choices(range(len(available)), weights=probabilities)[0]
+            result.append(available[chosen_idx])
+
+            # Remove chosen codon from available list
+            available.pop(chosen_idx)
+            available_weights.pop(chosen_idx)
+
+        return result
     
     else:
         raise ValueError("Mode must be 'max' or 'weighted'")
@@ -223,20 +238,13 @@ def creates_forbidden_site(new_codon: str, dna_sequence: str, blocked_sites: Lis
     if not blocked_sites:
         return False
     
-    # Find the longest restriction site to determine check window
-    max_site_len = max(len(site) for site in blocked_sites)
+    test_sequence = dna_sequence + new_codon
 
-    if len(dna_sequence) == 0:
-        test_region = new_codon
-    else:
-        overlap_start = max(0, len(dna_sequence) - (max_site_len - 1))
-        test_region = dna_sequence[overlap_start:] + new_codon
-
-    return any(site in test_region for site in blocked_sites)
+    return any(site in test_sequence for site in blocked_sites)
 
 
 def backtranslate_protein(protein: str, mode: str, rng: random.Random = None, 
-                         forbidden_sites: List[str] = None) -> str:
+                         forbidden_sites: List[str] = None, max_backtrack: int = 10) -> str:
     """
     Convert protein sequence to DNA using codon optimization.
     Avoids creating forbidden restriction sites.
@@ -246,6 +254,7 @@ def backtranslate_protein(protein: str, mode: str, rng: random.Random = None,
         mode: "max" for deterministic max-frequency, "weighted" for stochastic weighted choice
         rng: Random number generator instance
         forbidden_sites: List of restriction sites to avoid (strings)
+        max_backtrack: Maximum backtracking attempts per amino acid (default: 10)
     Returns:
         Back-translated DNA sequence (string)
     Raises:
@@ -275,7 +284,7 @@ def backtranslate_protein(protein: str, mode: str, rng: random.Random = None,
     for i, aa in enumerate(protein):
         if aa == "*":
             # Use most frequent stop codon
-            preferred_codons = choose_best_codons("*", "max", rng)
+            preferred_codons = choose_best_codons("*", mode, rng)
         else:
             # Get preferred codons for amino acid
             preferred_codons = choose_best_codons(aa, mode, rng)
@@ -288,6 +297,8 @@ def backtranslate_protein(protein: str, mode: str, rng: random.Random = None,
                 dna_parts.append(codon)
                 codon_placed = True
                 break
+            else:
+                print(f"      [warning] Codon {codon} for amino acid '{aa}' at position {i+1} creates forbidden site; trying next.")
         if not codon_placed:
             raise RuntimeError(f"No valid codon could be placed for amino acid '{aa}' at position {i+1}. All synonyms create forbidden sites.")
             
