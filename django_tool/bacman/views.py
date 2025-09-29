@@ -1,11 +1,12 @@
 from django.shortcuts import render
 from django.utils.safestring import mark_safe
-import json
+from django.http import HttpResponse
 from collections import defaultdict
-import re
+import random
 
 from .algorithms.pathways.main import main
 from .algorithms.orthologs.processing import process_ec_list
+from .algorithms.codon_opt.backtranslate_pd630 import backtranslate_protein
 
 
 COLOR_MAP = {'green': '#21b57c',
@@ -24,6 +25,7 @@ def pathways(request):
         p_inchi = request.POST.get("p_inchi")
         sink = request.POST.get("sink")
         f_inchi = request.POST.get("f_inchi")
+        num = request.POST.get("number")
 
         #print(pollutant, p_inchi, sink, f_inchi)
 
@@ -69,6 +71,16 @@ def ec_choice(request):
 
         selected_pathway = pathways[selected_index]
         steps = selected_pathway[1]
+
+        '''
+        noec_steps = []
+        for i, step in enumerate(steps):
+            first_ec = step[1][0][0] if step[1] else None
+            if first_ec == 'noec':
+                noec_steps.append([first_ec, i]) #da capire cosa mi passa samu
+        '''
+
+        
 
         detailed_steps = []
         for i, step in enumerate(steps):
@@ -142,13 +154,18 @@ def orthologs(request):
             ec_number = item.get('ec_number')
             summary = item.get('summary')
             data = item.get('data')
+            hidden = item.get('hidden_data')
 
             if hasattr(data, 'to_dict'):
                 data = data.to_dict(orient = 'records')
 
+            if hasattr(hidden, 'to_dict'):
+                hidden = hidden.to_dict(orient = 'records')
+
             cleaned_result.append({'ec_number': ec_number,
                                    'summary': summary,
-                                   'data': data})
+                                   'data': data,
+                                   'hidden': hidden})
             
         context = {'pollutant': pollutant,
                    'sink': sink,
@@ -182,13 +199,74 @@ def summary(request):
             rows = parsed_data.get(ec_num, [])
             summary_ordered.append({'ec_number': ec_num, 'rows': rows})
 
+        selected_sequences = []
+        for ec in summary_ordered:
+            selected_sequences.extend(ec['rows'])
+        request.session['selected_sequences'] = selected_sequences
+
         context = {'summary_ordered': summary_ordered}
 
         return render(request, 'bacman/summary.html', context)
 
 #CODON OPTIMIZATION: choose max/weight and restriction
 def codon_optimization(request):
-    return render(request, 'bacman/codon_optimization.html')
+    fasta_output = None
+    optimization_method = ''
+    final_restriction_sites = []
+    
+    if request.method == 'POST':
+        # Recupero dei parametri dall'utente
+        optimization_method = request.POST.get('optimization_method')
+        restriction_sites = request.POST.getlist('restriction_sites')
+        custom_sites = request.POST.get('custom_restriction_site', '').strip()
+        seed = request.POST.get('seed')
+
+        rng = random.Random(seed)
+
+        final_restriction_sites = []
+        
+        for site in restriction_sites:
+            if ',' in site:
+                final_restriction_sites.extend([s.strip() for s in site.split(',') if s.strip()])
+            else:
+                final_restriction_sites.append(site.strip())
+
+        if custom_sites:
+            custom_sites_list = [site.strip() for site in custom_sites.split(',') if site.strip()]
+            final_restriction_sites.extend(custom_sites_list)
+
+        
+        # Recupero delle sequenze selezionate dalla sessione o POST
+        selected_sequences = request.session.get('selected_sequences', [])
+        
+        fasta_lines = []
+        for seq_info in selected_sequences:
+            seq = backtranslate_protein(seq_info['sequence'], optimization_method,  rng, final_restriction_sites)
+            header = f">{seq_info['ec']}|{seq_info['organism']}|{seq_info['header']}"
+            fasta_lines.append(header)
+            for i in range(0, len(seq), 60):
+                    fasta_lines.append(seq[i:i+60])
+        
+        fasta_output = "\n".join(fasta_lines)
+        request.session['fasta_output'] = fasta_output
+    
+    context = {'fasta_output': fasta_output,
+               'method': optimization_method,
+               'restriction_sites': final_restriction_sites}
+    
+    return render(request, 'codon_optimization.html', context)
+
+#To download fasta   
+def download_fasta(request):
+    fasta_output = request.session.get('fasta_output')
+
+    if not fasta_output:
+        return HttpResponse("No FASTA available. Please run codon optimization first.")
+
+    response = HttpResponse(fasta_output, content_type='text/plain')
+    response['Content-Disposition'] = 'attachment; filename="optimized_sequences.fasta"'
+    return response
+
 
 #PLASMID: build the plasmid
 def plasmid(request):

@@ -50,7 +50,7 @@
         {% else %}
           <div class="no-sequences">
             <div class="no-sequences-icon">📋</div>
-            <p>Nessuna sequenza selezionata per EC {{ ec.ec_number }}.</p>
+            <p>No sequences selected for EC {{ ec.ec_number }}.</p>
           </div>
         {% endif %}
       </div>
@@ -58,7 +58,7 @@
 
 
     <div class="submit-section">
-      <form method="POST" action="{% url 'codon_optimization' %}" class="confirm-form">
+      <form method="GET" action="{% url 'codon_optimization' %}" class="confirm-form">
         {% csrf_token %}
         <button type="submit" class="submit-btn">
           <span>Confirm my choices</span>

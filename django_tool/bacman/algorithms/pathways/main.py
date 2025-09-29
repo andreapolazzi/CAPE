@@ -1,10 +1,10 @@
 import os
 
-from classes_functions import *
+from .classes.classes_functions import *
 import pandas as pd
 
-def main(start: str, end: str, inchi_start=None, inchi_end=None):
-    PATHWAY_FOLDER = 'Pathways'
+def main(start: str, end: str, inchi_start=None, inchi_end=None,):
+    PATHWAY_FOLDER = os.path.join(os.path.dirname(__file__), 'Pathways')
     os.makedirs(PATHWAY_FOLDER, exist_ok=True)
 
     MAX_PATHS = 3
