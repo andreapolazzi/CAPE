@@ -1,12 +1,45 @@
 {% extends "master.html" %}
 
-{% load static %}
-
-{% block title %}BACMAN - Summary{% endblock %}
+{% block title %}Codon Optimization{% endblock %}
 
 {% block content %}
+<h1>Codon Optimization</h1>
 
+<form method="POST">
+    {% csrf_token %}
 
-<h1>PLASMID COMING SOON...</h1>
+    <div>
+        <label for="optimization_method">Choose optimization method:</label>
+        <select name="optimization_method" id="optimization_method" required>
+            <option value="">--Select--</option>
+            <option value="max" {% if method == 'max' %}selected{% endif %}>Max</option>
+            <option value="weighted" {% if method == 'weighted' %}selected{% endif %}>Weighted</option>
+            <input type="text" name="seed" placeholder="Insert seed">
+        </select>
+    </div>
+
+    <div>
+        <label>Select restriction sites (can select multiple):</label><br>
+        <input type="checkbox" name="restriction_sites" value="GGTCTC,GCTCTTC"
+            {% if 'GGTCTC,GCTCTTC' in restriction_options %}checked{% endif %}>Golden gate: GGTCTC - GCTCTTC<br>
+        <input type="checkbox" name="restriction_sites" value="GAATTC,TCTAGA,ACTAGT,CTGCAG,GCGGCCGC"
+            {% if 'GAATTC,TCTAGA,ACTAGT,CTGCAG,GCGGCCGC' in restriction_options %}checked{% endif %}>Biobrick: GAATTC - TCTAGA - ACTAGT - CTGCAG - GCGGCCGC<br>
+    </div>
+
+    <div>
+        <label for="custom_restriction_site">Or enter custom restriction site(s) (comma-separated):</label><br>
+        <input type="text" name="custom_restriction_site" id="custom_restriction_site"
+            value="">
+    </div>
+
+    <button type="submit">Optimize</button>
+</form>
+
+{% if fasta_output %}
+    <h2>Optimized FASTA</h2>
+    <h3>Method: {{ method }}  -  Restriction sites: {{ restriction_sites }}</h3>
+    <pre style="background:#f4f4f4; padding:10px; border:1px solid #ccc; overflow:auto;">{{ fasta_output }}</pre>
+    <a href="{% url 'download_fasta' %}" class="btn">Download FASTA</a>
+{% endif %}
 
 {% endblock %}
