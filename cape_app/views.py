@@ -1,3 +1,12 @@
+"""
+Views for the 'cape_app' application.
+
+This module contains all view functions responsible for handling HTTP requests,
+processing data, and rendering templates for the application. Each function
+corresponds to a page or action within the CAPE workflow, from pathway computation
+to codon optimization and results.
+"""
+
 # Standard library
 import random
 from collections import defaultdict
@@ -28,6 +37,7 @@ def homepage(request):
         HttpResponse rendering the HomeCAPE.html
     """
 
+    # Render the template
     return render(request, 'cape/HomeCAPE.html')
 
 
@@ -94,7 +104,7 @@ def pathways(request):
                 
             path_text.append(mark_safe(summary))
         
-        # Prepare context for the template
+        # Prepare context for rendering the template
         context = {'pathways': enumerate(path_text),
                    'pollutant': pollutant,
                    'sink': sink}
@@ -129,6 +139,7 @@ def ec_choice(request):
             pollutant: starting compound to degrade
             sink: final compound to reach
     """
+
     if request.method == 'POST':
 
         # Retrieve the selected pathway index from the form
@@ -186,15 +197,45 @@ def ec_choice(request):
         # Render the template with the data 'context'
         return render(request, 'cape/ec_choice.html', context)
 
-#ORTHOLOGS PAGE: fasta files of all orthologs are presented, user chooses
+
 def orthologs(request):
+    """
+    Process orthologs for selected EC numbers and display results.
+    ECs not already marked as 'green' are analyzed to provide available ortholog sequences.
+
+    Supported method: POST
+
+    Input parameters - via POST:
+        selected_ec_<step_number> (str): EC number chosen for each step
+        manual_ec_<step_number> (str, optional): manually entered EC number if "manual" option selected
+
+    Session data - read:
+        selected_steps: list of detailed steps with compounds and ECs
+        pollutant: starting compound to degrade
+        sink: final compound to reach
+
+    Session data - write:
+        orthologs: list of ortholog search results for selected ECs, including summary, sequence data, and hidden metadata
+
+    Output - HttpResponse rendering the template orthologs.html:
+        context:
+            pollutant: starting compound to degrade
+            sink: final compound to reach
+            results: cleaned list of ortholog search results
+            ecs: list of non-green ECs
+    """
+
     if request.method == "POST":
+
+        # Retrieve detailed steps and context from session
         detailed_steps = request.session.get('selected_steps')
         pollutant = request.session.get('pollutant')
         sink = request.session.get('sink')
 
+        # List to collect EC numbers that require ortholog search
         non_green_ecs = []
 
+        # Iterate through all steps to collect selected EC numbers
         for step in detailed_steps:
             step_n = step['step_number']
 
@@ -203,6 +244,7 @@ def orthologs(request):
 
             if selected_value:
                 if selected_value == 'manual':
+                    # User provided a manual EC number
                     manual_key = f'manual_ec_{step_n}'
                     manual_ec = request.POST.get(manual_key, '').strip()
 
@@ -210,14 +252,17 @@ def orthologs(request):
                         non_green_ecs.append(manual_ec)
                 
                 else:
+                    # Check the selected EC in the step details
                     matching_ec = next((ec for ec in step['ecs'] if ec['ec_number'] == selected_value), None)
 
+                     # Append EC number only if not already marked as 'green'
                     if matching_ec and matching_ec['color'] != 'green':
                          non_green_ecs.append(selected_value)
                                        
-        
+        # Run the ortholog search algorithm
         raw_result = process_ec_list(non_green_ecs)
 
+        # Clean results and prepare them for rendering
         cleaned_result = []
         for item in raw_result:
             ec_number = item.get('ec_number')
@@ -225,6 +270,7 @@ def orthologs(request):
             data = item.get('data')
             hidden = item.get('hidden_data')
 
+            # Convert pandas DataFrames to plain dictionaries (if present)
             if hasattr(data, 'to_dict'):
                 data = data.to_dict(orient = 'records')
 
@@ -235,26 +281,53 @@ def orthologs(request):
                                    'summary': summary,
                                    'data': data,
                                    'hidden': hidden})
-            
+
+        # Prepare context for rendering the template    
         context = {'pollutant': pollutant,
                    'sink': sink,
                    'results': cleaned_result,
                    'ecs': non_green_ecs}
         
+        # Save ortholog results in session
         request.session['orthologs'] = cleaned_result
 
+        # Render the template with the data 'context'
         return render(request, 'cape/orthologs.html', context)
 
-#SUMMARY PAGE: to confirm sequences chosen
+
 def summary(request):
+    """
+    Display a summary of the selected ortholog sequences for each EC number.
+    Collects user selections and stores them in the session for downstream processing.
+
+    Supported method: POST
+
+    Input parameters - via POST:
+        selections (list of str): each selection in the format "ec_number||organism||header||sequence||length"
+
+    Session data - read:
+        orthologs: list of ortholog search results from previous step
+
+    Session data - write:
+        selected_sequences: list of dictionaries with detailed sequence information
+
+    Output - HttpResponse rendering the template summary.html:
+        context:
+            summary_ordered: list of EC numbers with corresponding selected sequences
+    """
+
     if request.method == "POST":
+
+        # Retrieve the list of selected sequences submitted by the user
         selections = request.POST.getlist('selections')
+
+        # Load all orthologs from session
         all_ec = request.session.get('orthologs', [])
 
+        # Parse selections into structured dictionaries grouped by EC number
         parsed_data = defaultdict(list)
-        
-
         for line in selections:
+            # Each selection is expected in the format: ec_number||organism||header||sequence||length
             ec_number, organism, header, sequence, length = line.split('||')
             parsed_data[ec_number].append({'ec': ec_number,
                                            'organism': organism,
@@ -262,82 +335,141 @@ def summary(request):
                                            'sequence': sequence,
                                            'length': length})
 
+        # Order summary according to orthologs previously computed
         summary_ordered = []
         for item in all_ec:
             ec_num = item.get('ec_number')
             rows = parsed_data.get(ec_num, [])
             summary_ordered.append({'ec_number': ec_num, 'rows': rows})
 
+        # Flatten selected sequences for use in downstream steps
         selected_sequences = []
         for ec in summary_ordered:
             selected_sequences.extend(ec['rows'])
+
+        # Save selected sequences in session for later steps
         request.session['selected_sequences'] = selected_sequences
 
+        # Prepare context for rendering the template 
         context = {'summary_ordered': summary_ordered}
 
+        # Render the template with the data 'context'
         return render(request, 'cape/summary.html', context)
 
-#CODON OPTIMIZATION: choose max/weight and restriction
+
 def codon_optimization(request):
+    """
+    Perform codon optimization for the selected protein sequences.
+    Allows the user to choose an optimization method, provide restriction sites, and optionally specify a random seed for reproducibility.
+
+    Supported method: POST
+
+    Input parameters - via POST:
+        optimization_method (str): method to use for codon optimization
+        restriction_sites (list of str): predefined restriction sites to avoid
+        custom_restriction_site (str, optional): custom restriction sites, comma-separated
+        seed (int, optional): random seed for codon selection
+
+    Session data - read:
+        selected_sequences: list of dictionaries containing protein sequences and metadata
+
+    Session data - write:
+        fasta_output: codon-optimized sequences in FASTA format
+
+    Output - HttpResponse rendering the template codon_optimization.html:
+        context:
+            fasta_output: optimized sequences in FASTA format
+            method: chosen optimization method
+            restriction_sites: final list of restriction sites used
+    """
+
     fasta_output = None
     optimization_method = ''
     final_restriction_sites = []
     
     if request.method == 'POST':
-        # Recupero dei parametri dall'utente
+
+        # Retrieve user parameters from POST
         optimization_method = request.POST.get('optimization_method')
         restriction_sites = request.POST.getlist('restriction_sites')
         custom_sites = request.POST.get('custom_restriction_site', '').strip()
         seed = request.POST.get('seed')
 
+        # Initialize random number generator for reproducibility
         rng = random.Random(seed)
 
+        # Build the final list of restriction sites
         final_restriction_sites = []
-        
         for site in restriction_sites:
+            # Split comma-separated entries into individual sites
             if ',' in site:
                 final_restriction_sites.extend([s.strip() for s in site.split(',') if s.strip()])
             else:
                 final_restriction_sites.append(site.strip())
 
+        # Add any custom restriction sites provided by the user
         if custom_sites:
             custom_sites_list = [site.strip() for site in custom_sites.split(',') if site.strip()]
             final_restriction_sites.extend(custom_sites_list)
 
-        
-        # Recupero delle sequenze selezionate dalla sessione o POST
+        # Retrieve the selected protein sequences from session
         selected_sequences = request.session.get('selected_sequences', [])
         
         fasta_lines = []
         for seq_info in selected_sequences:
+            # Optimize the protein sequence into a DNA sequence
             seq = backtranslate_protein(seq_info['sequence'], optimization_method,  rng, final_restriction_sites)
+            
+            # Construct FASTA header using EC number, organism, and original header
             header = f">{seq_info['ec']}|{seq_info['organism']}|{seq_info['header']}"
             fasta_lines.append(header)
+
+            # Split sequence into lines of max 60 characters (FASTA standard)
             for i in range(0, len(seq), 60):
                     fasta_lines.append(seq[i:i+60])
         
+        # Join all lines into a single FASTA string
         fasta_output = "\n".join(fasta_lines)
+
+        # Save the optimized sequences in session for downstream use
         request.session['fasta_output'] = fasta_output
     
+    # Prepare context for rendering the template
     context = {'fasta_output': fasta_output,
                'method': optimization_method,
                'restriction_sites': final_restriction_sites}
     
+    # Render the template with the data 'context'
     return render(request, 'codon_optimization.html', context)
 
-#To download fasta   
+  
 def download_fasta(request):
+    """
+    Allow the user to download the codon-optimized sequences as a FASTA file.
+
+    Supported method: GET (or POST)
+
+    Session data - read:
+        fasta_output: codon-optimized sequences in FASTA format
+
+    Output - HttpResponse:
+        - If FASTA is available: a downloadable file named 'my_sequences.fasta'
+        - If FASTA is not available: a plain text message indicating the user should run codon optimization first
+    """
+
+    # Retrieve the FASTA output from session
     fasta_output = request.session.get('fasta_output')
 
+    # If no FASTA is available, inform the user
     if not fasta_output:
         return HttpResponse("No FASTA available. Please run codon optimization first.")
 
+    # Return FASTA as a downloadable file
     response = HttpResponse(fasta_output, content_type='text/plain')
-    response['Content-Disposition'] = 'attachment; filename="optimized_sequences.fasta"'
+    response['Content-Disposition'] = 'attachment; filename="my_sequences.fasta"'
     return response
 
 
-#RESULTS: final results, plasmid completed, final file
 def results(request):
     return render(request, 'cape/results.html')
 
