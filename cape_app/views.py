@@ -28,7 +28,7 @@ def homepage(request):
         HttpResponse rendering the HomeCAPE.html
     """
 
-    return render(request, 'cape_app/templates/cape/HomeCAPE.html')
+    return render(request, 'cape/HomeCAPE.html')
 
 
 def pathways(request):
@@ -100,7 +100,7 @@ def pathways(request):
                    'sink': sink}
 
         # Render the template with the data 'context'
-        return render(request, 'cape_app/templates/cape/pathways.html', context )
+        return render(request, 'cape/pathways.html', context )
 
 
 def ec_choice(request):
@@ -184,7 +184,7 @@ def ec_choice(request):
                    'sink': sink}
 
         # Render the template with the data 'context'
-        return render(request, 'cape_app/templates/cape/ec_choice.html', context)
+        return render(request, 'cape/ec_choice.html', context)
 
 #ORTHOLOGS PAGE: fasta files of all orthologs are presented, user chooses
 def orthologs(request):
@@ -243,7 +243,7 @@ def orthologs(request):
         
         request.session['orthologs'] = cleaned_result
 
-        return render(request, 'cape_app/templates/cape/orthologs.html', context)
+        return render(request, 'cape/orthologs.html', context)
 
 #SUMMARY PAGE: to confirm sequences chosen
 def summary(request):
@@ -275,7 +275,7 @@ def summary(request):
 
         context = {'summary_ordered': summary_ordered}
 
-        return render(request, 'cape_app/templates/cape/summary.html', context)
+        return render(request, 'cape/summary.html', context)
 
 #CODON OPTIMIZATION: choose max/weight and restriction
 def codon_optimization(request):
@@ -339,11 +339,11 @@ def download_fasta(request):
 
 #PLASMID: build the plasmid
 def plasmid(request):
-    return render(request, 'cape_app/templates/cape/plasmid.html')
+    return render(request, 'cape/plasmid.html')
 
 #RESULTS: final results, plasmid completed, final file
 def results(request):
-    return render(request, 'cape_app/templates/cape/results.html')
+    return render(request, 'cape/results.html')
 
 def help(request):
-    return render(request, 'cape_app/templates/cape/HelpCAPE.html')
+    return render(request, 'cape/HelpCAPE.html')
