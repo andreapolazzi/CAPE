@@ -337,10 +337,6 @@ def download_fasta(request):
     return response
 
 
-#PLASMID: build the plasmid
-def plasmid(request):
-    return render(request, 'cape/plasmid.html')
-
 #RESULTS: final results, plasmid completed, final file
 def results(request):
     return render(request, 'cape/results.html')

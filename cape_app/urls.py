@@ -14,7 +14,6 @@ urlpatterns = [
     path('codon_optimization', views.codon_optimization, name='codon_optimization'),
     path('download_fasta', views.download_fasta, name='download_fasta'),
     
-    path('plasmid', views.plasmid, name='plasmid'),
     path('results', views.results, name='results'),
     path('help', views.help, name='help'),
 ]
