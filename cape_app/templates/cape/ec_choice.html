@@ -2,38 +2,531 @@
 
 {% block title %}EC choice{% endblock %}
 
-{% block content %}
-    <h1>EC Selection for Pathway</h1>
-    <h2>{{ pollutant }} → {{ sink }}</h2>
+{% block banner %}
+<div class="banner-section">
+    <div class="banner-content">
+        <h1 class="banner-title">Enzyme Selection for Pathway</h1>
+    </div>
+</div>
+{% endblock %}
 
-    <form method="POST" action="{% url 'orthologs' %}">
+{% block content %}
+    <!-- Description Section -->
+    <div class="description-section">
+        <h2>Pathway: {{ pollutant }} → {{ sink }}</h2>
+        <p>
+            Select the appropriate <strong>EC (Enzyme Commission) numbers</strong> for each step in the metabolic pathway. 
+            You can choose from the suggested EC numbers based on the pathway analysis, or manually enter a custom EC number 
+            if you have specific enzyme requirements. Each step represents a biochemical transformation in the pathway.
+        </p>
+    </div>
+
+    <!-- EC Selection Form -->
+    <form method="POST" action="{% url 'orthologs' %}" id="ec-selection-form">
         {% csrf_token %}
 
-        {% for step in steps %}
-        <div>
-            <h3>Step {{ step.step_number|add:1 }}: {{ step.start_compound }} → {{ step.end_compound }}</h3>
-            
-            <h4>Available EC numbers:</h4>
-            {% for ec in step.ecs %}
-            <label>
-                <input type="radio" name="selected_ec_{{ step.step_number }}" value="{{ ec.ec_number }}" 
-                       {% if forloop.first %}checked{% endif %}>
-                {{ ec.ec_number }}
-            </label><br>
-            {% endfor %}
-            
-            <h4>Or enter manually:</h4>
-            <label>
-                <input type="radio" name="selected_ec_{{ step.step_number }}" value="manual">
-                Manual:
-                <input type="text" name="manual_ec_{{ step.step_number }}" placeholder="Enter EC number">
-            </label><br>
-            
-            <hr>
-        </div>
-        {% endfor %}
+        <div class="steps-container">
+            {% for step in steps %}
+            <div class="step-card">
+                <div class="step-header">
+                    <div class="step-number-badge">Step {{ step.step_number|add:1 }}</div>
+                    <div class="step-reaction">
+                        <span class="compound start-compound">{{ step.start_compound }}</span>
+                        <svg class="reaction-arrow" width="40" height="20" viewBox="0 0 40 20" fill="none">
+                            <path d="M5 10h25M25 5l5 5-5 5" stroke="currentColor" stroke-width="2"/>
+                        </svg>
+                        <span class="compound end-compound">{{ step.end_compound }}</span>
+                    </div>
+                </div>
 
-        <button type="submit">Process Selected ECs</button>
+                <div class="step-body">
+                    <div class="ec-options-section">
+                        <h4 class="section-title">Available EC Numbers</h4>
+                        <div class="ec-options-grid">
+                            {% for ec in step.ecs %}
+                            <label class="ec-option">
+                                <input type="radio" 
+                                       name="selected_ec_{{ step.step_number }}" 
+                                       value="{{ ec.ec_number }}" 
+                                       class="ec-radio"
+                                       {% if forloop.first %}checked{% endif %}
+                                       onchange="updateStepSelection({{ step.step_number }})">
+                                <span class="ec-label">
+                                    <span class="ec-number-text">{{ ec.ec_number }}</span>
+                                    {% if ec.name %}
+                                    <span class="ec-name">{{ ec.name }}</span>
+                                    {% endif %}
+                                </span>
+                                <span class="checkmark"></span>
+                            </label>
+                            {% endfor %}
+                        </div>
+                    </div>
+
+                    <div class="manual-entry-section">
+                        <h4 class="section-title">Manual Entry</h4>
+                        <label class="manual-option">
+                            <input type="radio" 
+                                   name="selected_ec_{{ step.step_number }}" 
+                                   value="manual"
+                                   class="ec-radio manual-radio"
+                                   onchange="updateStepSelection({{ step.step_number }})">
+                            <span class="manual-label">Enter custom EC number</span>
+                            <input type="text" 
+                                   name="manual_ec_{{ step.step_number }}" 
+                                   class="manual-input"
+                                   placeholder="e.g., 1.2.3.4"
+                                   onfocus="selectManualRadio({{ step.step_number }})"
+                                   pattern="[0-9]+\.[0-9]+\.[0-9]+\.[0-9]+"
+                                   title="EC number format: x.x.x.x">
+                        </label>
+                    </div>
+                </div>
+            </div>
+            {% endfor %}
+        </div>
+
+        <!-- Submit Section -->
+        <div class="submit-section">
+            <div class="submit-info">
+                <p>Ready to process <span id="step-count">{{ steps|length }}</span> pathway step{{ steps|length|pluralize }}</p>
+            </div>
+            <button type="submit" class="submit-btn">
+                <span>Continue to Orthologs</span>
+                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                    <path d="M5 12h14M12 5l7 7-7 7"/>
+                </svg>
+            </button>
+        </div>
     </form>
 
+<style>
+    :root {
+        --primary-purple: #6a1b9a;
+        --light-purple: #f3e5f5;
+        --text-dark: #2c3e50;
+        --white: #ffffff;
+        --gradient-bg: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    }
+
+    .description-section {
+        background: linear-gradient(135deg, #f2f7ff, var(--light-purple));
+        border-left: 4px solid var(--primary-purple);
+        padding: 30px;
+        margin: 15px;
+        margin-bottom: 50px;
+        border-radius: 8px;
+        position: relative;
+    }
+
+    .description-section::before {
+        content: '\f05a';
+        font-family: 'Font Awesome 6 Free';
+        font-weight: 900;
+        position: absolute;
+        top: 30px;
+        left: -15px;
+        background: var(--primary-purple);
+        color: var(--white);
+        width: 30px;
+        height: 30px;
+        border-radius: 50%;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        font-size: 14px;
+    }
+
+    .description-section h2 {
+        color: var(--primary-purple);
+        margin-bottom: 16px;
+        font-size: 1.5em;
+    }
+
+    .description-section p {
+        color: var(--text-dark);
+        line-height: 1.7;
+        font-size: 1.1rem;
+        margin: 0;
+    }
+
+    /* Steps Container */
+    .steps-container {
+        display: flex;
+        flex-direction: column;
+        gap: 25px;
+        margin-bottom: 40px;
+    }
+
+    /* Step Card */
+    .step-card {
+        background: white;
+        border-radius: 12px;
+        box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+        overflow: hidden;
+        transition: all 0.3s ease;
+    }
+
+    .step-card:hover {
+        box-shadow: 0 8px 25px rgba(0,0,0,0.15);
+        transform: translateY(-2px);
+    }
+
+    /* Step Header */
+    .step-header {
+        display: flex;
+        align-items: center;
+        gap: 20px;
+        padding: 20px;
+        background: linear-gradient(135deg, #f8f9fa 0%, #e9ecef 100%);
+        border-bottom: 1px solid #dee2e6;
+    }
+
+    .step-number-badge {
+        background: var(--gradient-bg);
+        color: white;
+        padding: 8px 16px;
+        border-radius: 20px;
+        font-weight: 600;
+        font-size: 0.9rem;
+        white-space: nowrap;
+    }
+
+    .step-reaction {
+        display: flex;
+        align-items: center;
+        gap: 15px;
+        flex: 1;
+    }
+
+    .compound {
+        font-weight: 600;
+        color: #2c3e50;
+        padding: 6px 12px;
+        border-radius: 6px;
+        font-size: 1.1rem;
+    }
+
+    .start-compound {
+        background: #e3f2fd;
+        color: #1565c0;
+    }
+
+    .end-compound {
+        background: #f3e5f5;
+        color: #6a1b9a;
+    }
+
+    .reaction-arrow {
+        color: var(--primary-purple);
+        flex-shrink: 0;
+    }
+
+    /* Step Body */
+    .step-body {
+        padding: 25px;
+    }
+
+    .section-title {
+        color: #495057;
+        font-size: 1rem;
+        font-weight: 600;
+        margin-bottom: 15px;
+        padding-bottom: 8px;
+        border-bottom: 2px solid #e9ecef;
+    }
+
+    /* EC Options Section */
+    .ec-options-section {
+        margin-bottom: 25px;
+    }
+
+    .ec-options-grid {
+        display: grid;
+        grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+        gap: 12px;
+    }
+
+    .ec-option {
+        display: flex;
+        align-items: center;
+        padding: 15px;
+        border: 2px solid #dee2e6;
+        border-radius: 8px;
+        cursor: pointer;
+        transition: all 0.3s ease;
+        position: relative;
+        background: white;
+    }
+
+    .ec-option:hover {
+        border-color: var(--primary-purple);
+        background: #f8f9fa;
+    }
+
+    .ec-option input[type="radio"] {
+        position: absolute;
+        opacity: 0;
+        cursor: pointer;
+    }
+
+    .ec-option input[type="radio"]:checked ~ .ec-label {
+        color: var(--primary-purple);
+    }
+
+    .ec-option input[type="radio"]:checked ~ .checkmark {
+        background: var(--primary-purple);
+        border-color: var(--primary-purple);
+    }
+
+    .ec-option input[type="radio"]:checked ~ .checkmark::after {
+        display: block;
+    }
+
+    .ec-label {
+        display: flex;
+        flex-direction: column;
+        gap: 4px;
+        flex: 1;
+        padding-left: 35px;
+    }
+
+    .ec-number-text {
+        font-weight: 600;
+        font-size: 1.05rem;
+        color: #2c3e50;
+    }
+
+    .ec-name {
+        font-size: 0.85rem;
+        color: #6c757d;
+        font-style: italic;
+    }
+
+    .checkmark {
+        position: absolute;
+        left: 15px;
+        height: 20px;
+        width: 20px;
+        background-color: white;
+        border: 2px solid #dee2e6;
+        border-radius: 50%;
+        transition: all 0.3s ease;
+    }
+
+    .checkmark::after {
+        content: "";
+        position: absolute;
+        display: none;
+        left: 6px;
+        top: 3px;
+        width: 4px;
+        height: 8px;
+        border: solid white;
+        border-width: 0 2px 2px 0;
+        transform: rotate(45deg);
+    }
+
+    /* Manual Entry Section */
+    .manual-entry-section {
+        padding-top: 20px;
+        border-top: 1px solid #e9ecef;
+    }
+
+    .manual-option {
+        display: flex;
+        align-items: center;
+        gap: 15px;
+        padding: 15px;
+        border: 2px dashed #dee2e6;
+        border-radius: 8px;
+        cursor: pointer;
+        transition: all 0.3s ease;
+    }
+
+    .manual-option:hover {
+        border-color: var(--primary-purple);
+        background: #f8f9fa;
+    }
+
+    .manual-option input[type="radio"] {
+        width: 20px;
+        height: 20px;
+        cursor: pointer;
+        accent-color: var(--primary-purple);
+    }
+
+    .manual-label {
+        font-weight: 500;
+        color: #495057;
+    }
+
+    .manual-input {
+        flex: 1;
+        padding: 10px 15px;
+        border: 2px solid #dee2e6;
+        border-radius: 6px;
+        font-size: 1rem;
+        transition: all 0.3s ease;
+    }
+
+    .manual-input:focus {
+        outline: none;
+        border-color: var(--primary-purple);
+        box-shadow: 0 0 0 3px rgba(106, 27, 154, 0.1);
+    }
+
+    .manual-input::placeholder {
+        color: #adb5bd;
+    }
+
+    /* Submit Section */
+    .submit-section {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        padding: 25px;
+        background: linear-gradient(135deg, #f8f9fa 0%, #e9ecef 100%);
+        border-radius: 12px;
+        margin: 0 15px 30px;
+    }
+
+    .submit-info p {
+        margin: 0;
+        font-size: 1.1rem;
+        color: #495057;
+        font-weight: 500;
+    }
+
+    #step-count {
+        color: var(--primary-purple);
+        font-weight: 700;
+    }
+
+    .submit-btn {
+        display: flex;
+        align-items: center;
+        gap: 10px;
+        padding: 12px 24px;
+        background: var(--gradient-bg);
+        color: white;
+        border: none;
+        border-radius: 8px;
+        font-size: 1.1rem;
+        font-weight: 600;
+        cursor: pointer;
+        transition: all 0.3s ease;
+        box-shadow: 0 2px 8px rgba(0,123,255,0.3);
+    }
+
+    .submit-btn:hover {
+        transform: translateY(-2px);
+        box-shadow: 0 4px 16px rgba(0,123,255,0.4);
+    }
+
+    /* Responsive Design */
+    @media (max-width: 768px) {
+        .step-header {
+            flex-direction: column;
+            align-items: stretch;
+            gap: 15px;
+        }
+
+        .step-reaction {
+            flex-direction: column;
+            gap: 10px;
+        }
+
+        .reaction-arrow {
+            transform: rotate(90deg);
+        }
+
+        .ec-options-grid {
+            grid-template-columns: 1fr;
+        }
+
+        .submit-section {
+            flex-direction: column;
+            gap: 15px;
+            text-align: center;
+        }
+
+        .manual-option {
+            flex-direction: column;
+            align-items: stretch;
+        }
+    }
+</style>
+
+<script>
+// Update step selection state
+function updateStepSelection(stepNumber) {
+    const checkedRadio = document.querySelector(`input[name="selected_ec_${stepNumber}"]:checked`);
+    if (!checkedRadio) return;
+    
+    const card = checkedRadio.closest('.step-card');
+    
+    // Add visual feedback
+    card.style.borderLeft = '4px solid var(--primary-purple)';
+    setTimeout(() => {
+        card.style.borderLeft = '';
+    }, 300);
+}
+
+// Select manual radio when input is focused
+function selectManualRadio(stepNumber) {
+    const manualRadio = document.querySelector('input[name="selected_ec_' + stepNumber + '"][value="manual"]');
+    if (manualRadio) {
+        manualRadio.checked = true;
+        updateStepSelection(stepNumber);
+    }
+}
+
+// Form validation
+document.getElementById('ec-selection-form').addEventListener('submit', function(e) {
+    const stepCards = document.querySelectorAll('.step-card');
+    let isValid = true;
+    
+    stepCards.forEach((card, index) => {
+        const manualRadio = card.querySelector('.manual-radio');
+        const manualInput = card.querySelector('.manual-input');
+        
+        if (manualRadio && manualRadio.checked) {
+            const value = manualInput.value.trim();
+            if (!value) {
+                e.preventDefault();
+                isValid = false;
+                manualInput.style.borderColor = '#dc3545';
+                manualInput.focus();
+                alert(`Please enter an EC number for Step ${index + 1} or select from available options.`);
+                return;
+            }
+            
+            // Validate EC number format
+            const ecPattern = /^[0-9]+\.[0-9]+\.[0-9]+\.[0-9]+$/;
+            if (!ecPattern.test(value)) {
+                e.preventDefault();
+                isValid = false;
+                manualInput.style.borderColor = '#dc3545';
+                manualInput.focus();
+                alert(`Invalid EC number format for Step ${index + 1}. Use format: x.x.x.x (e.g., 1.2.3.4)`);
+                return;
+            }
+        }
+        
+        // Reset border color on valid input
+        if (manualInput) {
+            manualInput.style.borderColor = '#dee2e6';
+        }
+    });
+    
+    return isValid;
+});
+
+// Initialize page
+document.addEventListener('DOMContentLoaded', function() {
+    console.log('EC Selection page loaded');
+    console.log(`Total steps: ${document.querySelectorAll('.step-card').length}`);
+});
+</script>
 {% endblock %}
