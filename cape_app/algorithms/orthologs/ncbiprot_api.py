@@ -33,7 +33,7 @@ def fetch_protein_ids(ec_number: str, organism: str, batch_size=100, reviewed=Fa
     tree = ElementTree.fromstring(r.text)
     total_count = int(tree.findtext('.//Count'))
     if reviewed:
-        print(f"Total reviwed proteins found for {ec_number} in {organism}: {total_count}")
+        print(f"Total reviewed proteins found for {ec_number} in {organism}: {total_count}")
     else:
         print(f"Total non-reviwed proteins found for {ec_number} in {organism}: {total_count}")
 
