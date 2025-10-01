@@ -1,4 +1,7 @@
-from .ncbiprot_api import fetch_protein_ids, fetch_sequences, parse_fasta
+try:
+    from .ncbiprot_api import fetch_protein_ids, fetch_sequences, parse_fasta
+except ImportError:
+    from ncbiprot_api import fetch_protein_ids, fetch_sequences, parse_fasta
 import pandas as pd
 import regex as re
 from typing import List, Union
