@@ -157,10 +157,10 @@ def build_graph_from_tsv(G:nx.MultiDiGraph=nx.MultiDiGraph(), method:str="KEGG")
     # Read tsv files and group rows by reaction id
     reactions_store = {}
     if method=="KEGG":
-        pathway_folder = "Pathways"
+        pathway_folder = "./cape_app/algorithms/pathways/data/Pathways"
         file_end = "_edges.tsv"
     else: # RetroPath
-        pathway_folder = "rp_results"
+        pathway_folder = "./cape_app/algorithms/pathways/rp_results"
         file_end = "rp_edges.tsv"
     for fname in os.listdir(pathway_folder):
         if not fname.endswith(file_end):
