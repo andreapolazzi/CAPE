@@ -1,13 +1,14 @@
 import os,csv,subprocess
 from itertools import islice
 import networkx as nx
-import pubchempy as pcp
 from rdkit import DataStructs
 from rdkit import Chem
 from rdkit.Chem import rdFingerprintGenerator
 morgan_gen = rdFingerprintGenerator.GetMorganGenerator(radius=2)
 from rdkit import RDLogger
 RDLogger.DisableLog('rdApp.*')
+from chem_utils import *
+from rp_classes import *
 
 
 def chem_distance(substrate_id, product_id, format="inchi"):
@@ -33,24 +34,139 @@ def chem_distance(substrate_id, product_id, format="inchi"):
 
 
 # Map color labels to base numeric weights and viceversa
-COLOR_BASE_WEIGHT = {"green": 1.0, "white": 10.0, "RetroPath": 100.0}
-WEIGHT_COLOR_BASE = {1.0: "green", 10.0: "white", 100.0: "RetroPath"}
+COLOR_BASE_WEIGHT = {"green": 2.0, "white": 4.0, "RetroPath": 16.0}
+WEIGHT_COLOR_BASE = {2.0: "green", 4.0: "white", 16.0: "RetroPath"}
 
 
 def _normalize_name(s: str) -> str:
     """Return a stable lowercase normalized string for name matching/lookup."""
     return s.strip().lower() if s and isinstance(s, str) else ""
 
-
-def build_graphs_with_filters(pathway_folder: str):
+def rp_single_source(sink: str, rules: str, outdir: str, name: str, inchi: str, steps=3, structures=100, dmin=6, dmax=16, timeout=60):
+    """Launches retropath2 using source name and InChI inside retropath_env 
+    Return codes:
+        0: No error
+        1: File is not found
+        2: Running the RetroPath2.0 Knime program produced an OSError
+        3: InChI is malformated
+        10: Source has been found in the sink (warning)
+        11: No solution is found (warning)
+        99: unexpected error (not defined in retropath module)"""
+    command = f"""
+    source /work/igem/anaconda3/etc/profile.d/conda.sh && conda activate retropath_env && \
+    python -m retropath2_wrapper {sink} {rules} {outdir} \
+    --source_name "{name}" \
+    --source_inchi "{inchi}" \
+    --max_steps {steps} \
+    --topx {structures} \
+    --dmin {dmin} \
+    --dmax {dmax} \
+    --msc_timeout {timeout}
     """
-    Parse *_edges.tsv files and build a graph G with networkx
+    try:
+        result = subprocess.run(command, shell=True, executable="/bin/bash",
+                                capture_output=True, text=True, check=False)
+        return result.returncode, result.stdout, result.stderr
+    except Exception as e:
+        return 99, "", str(e)
+
+
+# questa la ho lasciata come prima perchè non ho capito bene da dove prendere la rp_score
+def add_weight_penalties(G:nx.MultiDiGraph, info_dict:dict, ik_to_name:dict):
+    blacklist = [
+        # Energy carriers / Electron carriers
+        "ZKHQWZAMYRWXGA-KQYNXXCUSA-N", # ATP
+        "XTWYTFMLZFPYCI-KQYNXXCUSA-N", # ADP
+        "UDMBCSSLTHHNCD-KQYNXXCUSA-N", # AMP
+        "XKMLYUALXHKNFT-UUOKFMHZSA-N", # GTP
+        "QGWNDRXFNXRZMB-UUOKFMHZSA-N", # GDP
+        "RQFCJASXJCIDSX-UUOKFMHZSA-N", # GMP
+        "PGAVKCOVUIYSFO-XVFCMESISA-N", # UTP
+        "XCCTYIAWTASOJW-XVFCMESISA-N", # UDP
+        "DJJCXFVJDGTHFX-XVFCMESISA-N", # UMP
+        "PCDQPRRSZKQHHS-XVFCMESISA-N", # CTP
+        "ZWIADYZPOWUWEW-XVFCMESISA-N", # CDP
+        "IERHLVCPSMICTF-XVFCMESISA-N", # CMP
+        "NBIIXXVUZAFLBC-UHFFFAOYSA-N", # Orthophosphate
+        "XPPKVPWEQAFLFU-UHFFFAOYSA-N", # Diphosphate
+        "UNXRWKVEANCORM-UHFFFAOYSA-N", # Polyphosphate
+        "YTNIXZGTHTVJBW-SCRDCRAPSA-N", # Reduced FMN
+        "BAWFJGJZGIEFAR-NNYOXOHSSA-O", # NAD+
+        "BOPGDPNILDQYTO-NNYOXOHSSA-N", # NADH
+        "XJLXINKUBYWONI-NNYOXOHSSA-O", # NADP+
+        "ACFIXJIJDZMPPO-NNYOXOHSSA-N", # NADPH
+        "VWWQXMAJTJZDQX-UYBVJOGSSA-N", # FAD
+        "YPZRHBJKEMOYQH-UYBVJOGSSA-N", # FADH2
+        "FVTCRASFADXXNN-SCRDCRAPSA-N", # FMN
+        # Coenzymes and group carriers
+        "RGJOEKWQDUBAIZ-IBOSZNHHSA-N", # CoA, Coenzyme A
+        "ZSLZBFCDCINBPY-KMYLAXNMSA-N", # Acetyl-CoA
+        "MSTNYGQPCMXVAQ-PXYINDEMSA-N", # Tetrahydrofolate
+        "YBJHBAHKTGYVGT-ZKWXMUAHSA-N", # Biotin
+        "NGVDGCNFYWLIFO-UHFFFAOYSA-N", # Pyridoxal phosphate
+        "AYEKOFBPNLCAJY-UHFFFAOYSA-O", # Thiamine Diphosphate
+        # Gases and small byproducts
+        "CURLTUGMZLYLDI-UHFFFAOYSA-N", # CO2, Carbon Dioxide
+        "XLYOFNOQVPJJNP-UHFFFAOYSA-N", # H2O, Water
+        "QGZKDVFQNNGYKY-UHFFFAOYSA-N", # NH3, Ammonia
+        "GPRLSGONYQIRFK-UHFFFAOYSA-N", # H+, Hydrogen
+        "MYMOFIZGZYHOMD-UHFFFAOYSA-N", # O2, Oxygen
+        "XCCTYIAWTASOJW-XVFCMESISA-N", # H2O2, Hydrogen Peroxide
+        "VNWKTOKETHGBQD-UHFFFAOYSA-N", # Methane, CH4
+        "BDAGIHXWWSANSR-UHFFFAOYSA-N", # Formate
+        "WSFSSNUMVMOOMR-UHFFFAOYSA-N", # Formaldehyde
+        # Sugars and nucleotides in transfer reactions
+        "HSCJRCZFDFQWRP-JZMIEXBBSA-N", # UDP-Glucose
+        "RZZPDXZPRHQOCG-OJAKKHQRSA-N", # CDP-Choline
+        "JSRLJPSBLDHEIO-SHYZEUOFSA-N", # dUMP
+        "GYOZYWVXFNDGLU-XLPZGREQSA-N", # dTMP
+        # Miscellaneous
+        "RWSXRVCMGQZWBV-UHFFFAOYSA-N", # Glutathione
+        "PHIQHXFUZVPYII-UHFFFAOYSA-O", # Carnitine
+        "CVSVTCORWBXHQV-UHFFFAOYSA-N", # Creatine
+        "DRBBFCLWYRJSJZ-UHFFFAOYSA-N", # Phosphocreatine
+        "CRADQHJNYKKORV-UHFFFAOYSA-N", # Ubiquinone
+        "RJUKAZDREBHPDA-UHFFFAOYSA-N", # Ubiquinol
+        "GAOZTHIDHYLHMS-UHFFFAOYSA-N", # Ferricytochrome b5
+        "LJZLHDYZFURWEE-UHFFFAOYSA-N", # Ferricytochrome cL
+    ]
+
+    # Lookup table for chemical distances
+    dist_cache = {}
+
+    for u, v, key, data in G.edges(keys=True, data=True):
+        base = float(data.get("base_weight", data.get("weight", 16.0)))
+        u_name = ik_to_name[u].lower()
+        v_name = ik_to_name[v].lower()
+        if u in blacklist or v in blacklist:
+            data['weight'] = 1e6
+            continue
+        key_uv = tuple(sorted((u_name, v_name)))
+        if key_uv in dist_cache:
+            dist = dist_cache[key_uv]
+        else:
+            u_inchi = info_dict[u_name]['inchi']
+            v_inchi = info_dict[v_name]['inchi']
+            dist = Penalty.transf_distance(u_inchi, v_inchi)
+            dist_cache[key_uv] = dist
+            d_penalty = Penalty.dist_penalty(dist)
+            s_mw,t_mw = data['source_mol_weight'],data['target_mol_weight']
+            if s_mw != 0.0 and t_mw != 0.0:
+                mw_penalty = Penalty.mw_change(s_mw,t_mw)
+            else:
+                mw_penalty = 0 # if we don't know the weight idk if we should put a higher difference or 0 ???
+        rp_score = data['rp_score']
+        final_penalty = Penalty.transf_penalty(rp_score,d_penalty,mw_penalty)
+        data['weight'] = final_penalty
+    return G
+
+
+def build_graph_from_tsv(G:nx.MultiDiGraph=nx.MultiDiGraph(), method:str="KEGG"):
+    """
+    Parse *_edges.tsv files or RetroPath results and build a graph G with networkx or add edges to an existing graph
     Returns (G, name_to_ik, ik_to_name, info_dict).
     """
-
-    # Graph
-    G = nx.MultiDiGraph()
-
+    
     # Dictionaries for conversion between name and inchikey
     name_to_ik = {}
     ik_to_name = {}
@@ -64,8 +180,14 @@ def build_graphs_with_filters(pathway_folder: str):
     
     # Read tsv files and group rows by reaction id
     reactions_store = {}
+    if method=="KEGG":
+        pathway_folder = "Pathways"
+        file_end = "_edges.tsv"
+    else: # RetroPath
+        pathway_folder = "rp_results"
+        file_end = "rp_edges.tsv"
     for fname in os.listdir(pathway_folder):
-        if not fname.endswith("_edges.tsv"):
+        if not fname.endswith(file_end):
             continue
         filepath = os.path.join(pathway_folder, fname)
         try:
@@ -84,7 +206,7 @@ def build_graphs_with_filters(pathway_folder: str):
         enzyme = (first.get("enzyme_name") or "").strip()
         ec = (first.get("EC") or "").strip()
         color = (first.get("color") or "").strip().lower()
-        base_w = float(COLOR_BASE_WEIGHT.get(color, COLOR_BASE_WEIGHT.get("", 100.0)))
+        base_w = float(COLOR_BASE_WEIGHT.get(color, COLOR_BASE_WEIGHT.get("", 16.0)))
 
         reagents = {}
         products = {}
@@ -96,34 +218,38 @@ def build_graphs_with_filters(pathway_folder: str):
             s_name = (r.get("source_name") or "").strip()
             t_name = (r.get("target_name") or "").strip()
             try:
-                s_mass = float(r.get("source_mol_weight") or 0.0)
+                s_mw = float(r.get("source_mol_weight") or 0.0)
             except Exception:
-                s_mass = None
+                s_mw = 0.0
             try:
-                t_mass = float(r.get("target_mol_weight") or 0.0)
+                t_mw = float(r.get("target_mol_weight") or 0.0)
             except Exception:
-                t_mass = None
+                t_mw = 0.0
+            try:
+                rp_score = float((r.get("RP_score") or 0.0).strip())
+            except Exception:
+                rp_score = 0.0
 
             if s_ik:
-                reagents.setdefault(s_ik, {"name": s_name or "", "mass": s_mass})
+                reagents.setdefault(s_ik, {"name": s_name or "", "mol_weight": s_mw})
             if t_ik:
-                products.setdefault(t_ik, {"name": t_name or "", "mass": t_mass})
+                products.setdefault(t_ik, {"name": t_name or "", "mol_weight": t_mw})
 
             # Store compound info for info_dict
             if s_name and s_ik:
                 s_norm = _normalize_name(s_name)
                 info_dict.setdefault(_normalize_name(s_norm), {}).update({
-                    "inchikey": info_dict.get(s_norm, {}).get("inchikeys", s_ik),
-                    "inchi": info_dict.get(s_norm, {}).get("inchis", s_i),
-                    "mass": s_mass,
+                    "inchikey": info_dict.get(s_norm, {}).get("inchikey", s_ik),
+                    "inchi": info_dict.get(s_norm, {}).get("inchi", s_i),
+                    "mol_weight": s_mw,
                     "reactions": list(set(info_dict.get(s_norm, {}).get("reactions", []) + [rid]))
                 })
             if t_name and t_ik:
                 t_norm = _normalize_name(t_name)
                 info_dict.setdefault(_normalize_name(t_norm), {}).update({
-                    "inchikey": info_dict.get(t_norm, {}).get("inchikeys", t_ik),
-                    "inchi": info_dict.get(t_norm, {}).get("inchis", t_i),
-                    "mass": t_mass,
+                    "inchikey": info_dict.get(t_norm, {}).get("inchikey", t_ik),
+                    "inchi": info_dict.get(t_norm, {}).get("inchi", t_i),
+                    "mol_weight": t_mw,
                     "reactions": list(set(info_dict.get(t_norm, {}).get("reactions", []) + [rid]))
                 })
 
@@ -137,9 +263,9 @@ def build_graphs_with_filters(pathway_folder: str):
         combined = {**reagents, **products}
         for ik, v in combined.items():
             name = v.get("name") or ""
-            mass = v.get("mass")
+            mol_weight = v.get("mol_weight")
             if not G.has_node(ik):
-                G.add_node(ik, name=name, mass=mass)
+                G.add_node(ik, name=name, mol_weight=mol_weight)
             if name:
                 n = _normalize_name(name)
                 if n and n not in name_to_ik:
@@ -153,53 +279,23 @@ def build_graphs_with_filters(pathway_folder: str):
         # G edges
         for s_ik, _ in reagent_list:
             for t_ik, _ in product_list:
-                G.add_edge(s_ik, t_ik, reaction=rid, ec=ec, color=color, base_weight=base_w, weight=base_w)
+                G.add_edge(s_ik, t_ik, reaction=rid, ec=ec, color=color, source_mol_weight=s_mw, target_mol_weight=t_mw, base_weight=base_w, weight=base_w, rp_score=rp_score)
 
-    ### Weight Penalties ###
+    return add_weight_penalties(G, info_dict, ik_to_name), name_to_ik, ik_to_name, info_dict
 
-    # Compute chemical distance penalties
 
-    blacklist = [
-    # Energy carriers
-    "atp", "adp", "amp", "gtp", "gdp", "gmp", "utp", "udp", "ump",
-    "ctp", "cdp", "cmp", "ppi", "pi", "inorganic phosphate", "orthophosphate", "diphosphate", "reduced fmn",
-    # Electron carriers
-    "nad+", "nadh", "nadp+", "nadph", "fad", "fadh2", "fmn", "fmnh2","electron-transferring flavoprotein",
-    "reduced acceptor", "acceptor", "[reduced nadph---hemoprotein reductase]", "[oxidized nadph---hemoprotein reductase]",
-    "reduced ferredoxin", "oxidized ferredoxin", "ferredoxin",
-    # Coenzymes and group carriers
-    "coenzyme a", "coa", "acetyl-coa", "s-adenosylmethionine", "sam", "thf", "tetrahydrofolate",
-    "biotin", "lipoic acid", "pyridoxal phosphate", "plp", "tpp", "thiamine pyrophosphate", "acyl-carrier protein",
-    # Gases and small byproducts
-    "co2", "carbon dioxide", "h2o", "water", "nh3", "h+", "o2", "oxygen", "h2o2", "ch4", "formate", "formaldehyde",
-    # Sugars and nucleotides in transfer reactions
-    "udp-glucose", "cdp-choline", "cmp-neu5ac", "prpp", "ribose-5-phosphate", "dump", "dtmp",
-    # Miscellaneous
-    "glutathione", "gsh", "gssg", "carnitine", "creatine", "phosphocreatine",
-    "ubiquinone", "ubiquinol", "cytochrome c", "ferricytochrome c", "fe2+", "fe3+",
-    ]
+def try_retropath(c_inchi, c_name):
+	RP.django_call(name=c_name, inchi=c_inchi, steps=7)
+	RpOutput.tsv_generator(results_path="./cape_app/algorithms/pathways/rp_results/results.csv",
+						outdir="./cape_app/algorithms/pathways/rp_results/")
+	# EXPECTS A SINGLE UNIQUE KEGG FILE FOR THE EDGES what does this mean? i thought this was for RP ?
+	Std.main(tsv_edges_path="./cape_app/algorithms/pathways/rp_results/rp_edges.tsv",
+			edges_std_path="./cape_app/algorithms/pathways/rp_results/rp_std_edges.tsv",
+			processes=64)
 
-    # Lookup table for chem distances
-    chem_cache = {}
-
-    for u, v, key, data in G.edges(keys=True, data=True):
-        base = float(data.get("base_weight", data.get("weight", 100.0)))
-        u_name = ik_to_name[u].lower()
-        v_name = ik_to_name[v].lower()
-        if u_name in blacklist or v_name in blacklist:
-            data['weight'] = 1e6
-            continue
-        key_uv = tuple(sorted((u_name, v_name)))
-        if key_uv in chem_cache:
-            c_dist = chem_cache[key_uv]
-        else:
-            u_inchi = info_dict[u_name]['inchi']
-            v_inchi = info_dict[v_name]['inchi']
-            c_dist = chem_distance(u_inchi, v_inchi)
-            chem_cache[key_uv] = c_dist
-        data['weight'] = base + (c_dist ** 4) * 1000
-
-    return G, name_to_ik, ik_to_name, info_dict
+	# Add weights to tsv, will use this when we are 100% sure of the way we calculate the penalty, but for now I will compute it from scratch without storing it in a col in the tsv
+	#Penalty.main(std_path="./cape_app/algorithms/pathways/rp_results/rp_std_edges.tsv",
+	#			weighted_path="./cape_app/algorithms/pathways/rp_results/rp_weighted_edges.tsv")
 
 
 def multigraph_to_digraph(Multi_G: nx.MultiDiGraph) -> nx.DiGraph:
@@ -214,7 +310,7 @@ def multigraph_to_digraph(Multi_G: nx.MultiDiGraph) -> nx.DiGraph:
     Di_G = nx.DiGraph()
     for u, v, data in Multi_G.edges(data=True):
         # Gather fields from multi-edge
-        weight = float(data.get('weight', data.get('base_weight', 100.0)))
+        weight = float(data.get('weight', data.get('base_weight', 16.0)))
         base = float(data.get('base_weight', data.get('weight', weight)))
         # Support several possible keys used in different parts of pipeline
         ec = data.get('ec') or data.get('EC') or data.get('enzyme') or ""
@@ -284,11 +380,11 @@ def k_shortest_paths(G: nx.DiGraph, start_inchikey: str, goal_inchikey: str, ik_
         for u, v in zip(path, path[1:]):
             edge_data = G.get_edge_data(u, v, default={})
             # Use the actual numeric weight for path cost (already computed in DiGraph)
-            w = float(edge_data.get('weight', edge_data.get('base_weight', 100.0)))
+            w = float(edge_data.get('weight', edge_data.get('base_weight', 16.0)))
             total_w += w
 
             # Determine color from base_weight (not the penalized 'weight')
-            base = float(edge_data.get('base_weight', edge_data.get('weight', 100.0)))
+            base = float(edge_data.get('base_weight', edge_data.get('weight', 16.0)))
             color_name = WEIGHT_COLOR_BASE.get(base, "red")
 
             ecs = edge_data.get('ecs', []) or []
@@ -309,57 +405,5 @@ def k_shortest_paths(G: nx.DiGraph, start_inchikey: str, goal_inchikey: str, ik_
     results.sort(key=lambda x: x[0])
     return results
 
-
-def get_inchi_from_name(name: str):
-    try:
-        compounds = pcp.get_compounds(name, 'name')
-        if compounds:
-            return compounds[0].inchi
-        else:
-            return None
-    except:
-        return None
-
-
-def resolve_name_to_inchi(name, name_to_ik):
-    """Try network first, then PubChem if not found"""
-    ik = name_to_ik.get(name)
-    if ik:
-        return ik
-    # Try PubChem
-    ik = get_inchi_from_name(name)
-    if ik:
-        # Name not in network, resolved to InChI via PubChem
-        return ik
-    else:
-        # Cannot resolve the name to an InChI and thus cannot run RetroPath
-        return False
-
-
-def rp_single_source(sink: str, rules: str, outdir: str, name: str, inchi: str, steps=3, structures=100, dmin=6, dmax=16, timeout=60):
-    """Launches retropath2 using source name and InChI inside retropath_env 
-    Return codes:
-        0: No error
-        1: File is not found
-        2: Running the RetroPath2.0 Knime program produced an OSError
-        3: InChI is malformated
-        10: Source has been found in the sink (warning)
-        11: No solution is found (warning)
-        99: unexpected error (not defined in retropath module)"""
-    command = f"""
-    source /work/igem/anaconda3/etc/profile.d/conda.sh && conda activate retropath_env && \
-    python -m retropath2_wrapper {sink} {rules} {outdir} \
-    --source_name "{name}" \
-    --source_inchi "{inchi}" \
-    --max_steps {steps} \
-    --topx {structures} \
-    --dmin {dmin} \
-    --dmax {dmax} \
-    --msc_timeout {timeout}
-    """
-    try:
-        result = subprocess.run(command, shell=True, executable="/bin/bash",
-                                capture_output=True, text=True, check=False)
-        return result.returncode, result.stdout, result.stderr
-    except Exception as e:
-        return 99, "", str(e)
+def get_name_from_inchi(inchi: str):
+    pass
