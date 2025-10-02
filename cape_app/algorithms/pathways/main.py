@@ -30,11 +30,18 @@ def main(start_inchi: str, end_inchi: str, start_name:str='', end_name:str=''):
     try:
         if end_ik not in G.nodes:
             raise Exception("Warning: CAPE uses RetroPath only to connect the pollutant to Rhodococcus opacus PD630's central metabolites, but it does not connect the goal compound to them.")
+        
         RP.django_call(name=start_name, inchi=start_inchi, steps=7)
-	    RpOutput.tsv_generator(results_path="./cape_app/algorithms/pathways/rp_results/results.csv", outdir="./cape_app/algorithms/pathways/rp_results/")
-	    Std.main(tsv_edges_path="./cape_app/algorithms/pathways/rp_results/rp_edges.tsv", edges_std_path="./cape_app/algorithms/pathways/rp_results/rp_std_edges.tsv", processes=64)
+        RpOutput.tsv_generator(results_path="./cape_app/algorithms/pathways/rp_results/results.csv", 
+                               outdir="./cape_app/algorithms/pathways/rp_results/")
+        Std.main(tsv_edges_path="./cape_app/algorithms/pathways/rp_results/rp_edges.tsv", 
+                 edges_std_path="./cape_app/algorithms/pathways/rp_results/rp_std_edges.tsv", 
+                 processes=64)
+        Penalty.main(std_path="./cape_app/algorithms/pathways/rp_results/rp_std_edges.tsv", 
+                     weighted_path="./cape_app/algorithms/pathways/rp_results/rp_weighted_edges.tsv")
         # Add new edges to G and update dictionaries with new info
-        G, name_to_ik, ik_to_name, info_dict = build_graph_from_tsv(G,method="RetroPath")
+        G, name_to_ik, ik_to_name, info_dict = build_graph_from_tsv(G,method="RetroPath", 
+                                                                    outdir="./cape_app/algorithms/pathways/rp_results/")
         # Re-run path search
         paths = k_shortest_paths(G, start_ik, end_ik, ik_to_name, name_to_ik, K=MAX_PATHS)
         if not paths:
