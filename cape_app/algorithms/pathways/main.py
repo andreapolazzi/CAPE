@@ -1,8 +1,8 @@
 import os
 import pandas as pd
-from .chem_utils import *
-from .classes_functions import *
-
+from ./classes/chem_utils import *
+from ./classes/classes_functions import *
+from ./classes/rp_classes import *
 
 def main(start_inchi: str, end_inchi: str, start_name:str='', end_name:str=''):
     PATHWAY_FOLDER = 'Pathways'
@@ -28,7 +28,11 @@ def main(start_inchi: str, end_inchi: str, start_name:str='', end_name:str=''):
 
     # RetroPath fallback
     try:
-        try_retropath(c_inchi=start_ik,c_name='')
+        if end_ik not in G.nodes:
+            raise Exception("Warning: CAPE uses RetroPath only to connect the pollutant to Rhodococcus opacus PD630's central metabolites, but it does not connect the goal compound to them.")
+        RP.django_call(name=start_name, inchi=start_inchi, steps=7)
+	    RpOutput.tsv_generator(results_path="./cape_app/algorithms/pathways/rp_results/results.csv", outdir="./cape_app/algorithms/pathways/rp_results/")
+	    Std.main(tsv_edges_path="./cape_app/algorithms/pathways/rp_results/rp_edges.tsv", edges_std_path="./cape_app/algorithms/pathways/rp_results/rp_std_edges.tsv", processes=64)
         # Add new edges to G and update dictionaries with new info
         G, name_to_ik, ik_to_name, info_dict = build_graph_from_tsv(G,method="RetroPath")
         # Re-run path search
@@ -40,3 +44,4 @@ def main(start_inchi: str, end_inchi: str, start_name:str='', end_name:str=''):
     except: # RetroPath failed
         print('retropath failed')
         return False
+
