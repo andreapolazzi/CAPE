@@ -254,8 +254,8 @@ class RP():
         os.makedirs(outdir, exist_ok=True)
 
     def django_call(name: str, inchi: str,
-                    sink="./django_tool/bacman/algorithms/pathways/data/gsm_gapfilled_sink.csv", 
-                    rules="./django_tool/bacman/algorithms/pathways/data/retrorules_rr02_rp2_flat_forward.csv", 
+                    sink="./cape_app/algorithms/pathways/data/gsm_gapfilled_sink.csv",
+                    rules="./cape_app/algorithms/pathways/data/retrorules_rr02_rp2_flat_forward.csv", 
                     outdir="./django_tool/bacman/algorithms/pathways/rp_results/",
                     steps=5, structures=100, dmin=6, dmax=16, timeout=60) -> tuple:
         """ 
