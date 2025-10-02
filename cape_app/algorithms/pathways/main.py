@@ -1,11 +1,11 @@
 import os
 import pandas as pd
-from ./classes/chem_utils import *
-from ./classes/classes_functions import *
-from ./classes/rp_classes import *
+from .classes.chem_utils import *
+from .classes.classes_functions import *
+from .classes.rp_classes import *
 
 def main(start_inchi: str, end_inchi: str, start_name:str='', end_name:str=''):
-    PATHWAY_FOLDER = 'Pathways'
+    PATHWAY_FOLDER = './cape_app/algorithms/pathways/data/Pathways'
     os.makedirs(PATHWAY_FOLDER, exist_ok=True)
 
     MAX_PATHS = 3
@@ -31,18 +31,25 @@ def main(start_inchi: str, end_inchi: str, start_name:str='', end_name:str=''):
         if end_ik not in G.nodes:
             raise Exception("Warning: CAPE uses RetroPath only to connect the pollutant to Rhodococcus opacus PD630's central metabolites, but it does not connect the goal compound to them.")
         
+        print('trying to call retropath')
         RP.django_call(name=start_name, inchi=start_inchi, steps=7)
+        print("generating tsv from retropath results")
         RpOutput.tsv_generator(results_path="./cape_app/algorithms/pathways/rp_results/results.csv", 
                                outdir="./cape_app/algorithms/pathways/rp_results/")
+        print("standardizing retropath edges")
         Std.main(tsv_edges_path="./cape_app/algorithms/pathways/rp_results/rp_edges.tsv", 
                  edges_std_path="./cape_app/algorithms/pathways/rp_results/rp_std_edges.tsv", 
                  processes=64)
+        print("adding weights to retropath edges")
         Penalty.main(std_path="./cape_app/algorithms/pathways/rp_results/rp_std_edges.tsv", 
                      weighted_path="./cape_app/algorithms/pathways/rp_results/rp_weighted_edges.tsv")
+        
         # Add new edges to G and update dictionaries with new info
+        print("trying to add retropath edges to graph")
         G, name_to_ik, ik_to_name, info_dict = build_graph_from_tsv(G,method="RetroPath", 
                                                                     outdir="./cape_app/algorithms/pathways/rp_results/")
         # Re-run path search
+        print("re-running path search")
         paths = k_shortest_paths(G, start_ik, end_ik, ik_to_name, name_to_ik, K=MAX_PATHS)
         if not paths:
             return False # Still no paths found, even after successfully adding Retropath edges
