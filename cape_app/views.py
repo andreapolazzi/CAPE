@@ -19,7 +19,7 @@ from django.utils.safestring import mark_safe
 # Local algorithms
 from .algorithms.pathways.main import main
 from .algorithms.orthologs.processing import process_ec_list
-from .algorithms.codon_opt.backtranslate_pd630 import backtranslate_protein
+from .algorithms.codon_opt.backtranslate_pd630 import backtranslate_protein, write_fasta
 
 # Color map needed to paint ec numbers to identify their origin
 COLOR_MAP = {'green': '#21b57c',
@@ -415,21 +415,17 @@ def codon_optimization(request):
         # Retrieve the selected protein sequences from session
         selected_sequences = request.session.get('selected_sequences', [])
         
-        fasta_lines = []
+        fasta_entries = []
         for seq_info in selected_sequences:
             # Optimize the protein sequence into a DNA sequence
             seq = backtranslate_protein(seq_info['sequence'], optimization_method,  rng, final_restriction_sites)
-            
-            # Construct FASTA header using EC number, organism, and original header
             header = f">{seq_info['ec']}|{seq_info['organism']}|{seq_info['header']}"
-            fasta_lines.append(header)
 
-            # Split sequence into lines of max 60 characters (FASTA standard)
-            for i in range(0, len(seq), 60):
-                    fasta_lines.append(seq[i:i+60])
-        
-        # Join all lines into a single FASTA string
-        fasta_output = "\n".join(fasta_lines)
+            fasta_entries.append((header, seq))
+
+        write_fasta(fasta_entries, 'pipeline_results/opt_genes_pd630.fasta')
+
+        fasta_output = open('pipeline_results/opt_genes_pd630.fasta').read()
 
         # Save the optimized sequences in session for downstream use
         request.session['fasta_output'] = fasta_output
@@ -466,7 +462,7 @@ def download_fasta(request):
 
     # Return FASTA as a downloadable file
     response = HttpResponse(fasta_output, content_type='text/plain')
-    response['Content-Disposition'] = 'attachment; filename="my_sequences.fasta"'
+    response['Content-Disposition'] = 'attachment; filename="genes_pd630.fasta"'
     return response
 
 
