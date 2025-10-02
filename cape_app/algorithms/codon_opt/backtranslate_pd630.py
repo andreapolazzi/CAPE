@@ -347,7 +347,7 @@ def backtranslate_protein(protein: str, mode: str, rng: random.Random = None,
     # Build final sequence
     final_dna = "".join([stack[i][1][stack[i][2]] for i in range(len(protein))])
     
-    gc_content = (final_dna.count('G') + final_dna.count('C')) / len(final_dna) * 100
+    #gc_content = (final_dna.count('G') + final_dna.count('C')) / len(final_dna) * 100
     
     # print(f"  ✓ Translation complete:")
     # print(f"    - DNA length: {len(final_dna)} bp ({len(final_dna)//3} codons)")
@@ -357,7 +357,7 @@ def backtranslate_protein(protein: str, mode: str, rng: random.Random = None,
     # print(f"    - Max retries at single position: {max_retries_for_position}")
     
     # Verify no forbidden sites in final sequence
-    found_sites = [site for site in blocked_sites if site in final_dna]
+    #found_sites = [site for site in blocked_sites if site in final_dna]
     #if found_sites:
         #print(f"  ⚠ WARNING: Found forbidden sites in final sequence: {found_sites}")
     #else:
