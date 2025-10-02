@@ -3,34 +3,10 @@ from itertools import islice
 import networkx as nx
 from rdkit import DataStructs
 from rdkit import Chem
-from rdkit.Chem import rdFingerprintGenerator
-morgan_gen = rdFingerprintGenerator.GetMorganGenerator(radius=2)
 from rdkit import RDLogger
 RDLogger.DisableLog('rdApp.*')
-from chem_utils import *
-from rp_classes import *
-
-
-def chem_distance(substrate_id, product_id, format="inchi"):
-    if format == "smiles":
-        mol1 = Chem.MolFromSmiles(substrate_id)
-        mol2 = Chem.MolFromSmiles(product_id)
-    else:  # default InChI
-        mol1 = Chem.MolFromInchi(substrate_id)
-        mol2 = Chem.MolFromInchi(product_id)
-    
-    if mol1 is None or mol2 is None:
-        return None  # Invalid SMILES/InChI
-
-    # Generate Morgan fingerprints
-    fp1 = morgan_gen.GetFingerprint(mol1)
-    fp2 = morgan_gen.GetFingerprint(mol2)
-    
-    # Calculate similarity
-    similarity = DataStructs.TanimotoSimilarity(fp1, fp2)
-    
-    # Return transformation significance (1 - similarity)
-    return 1 - similarity  # Higher = more chemical change
+from .chem_utils import *
+from .rp_classes import *
 
 
 # Map color labels to base numeric weights and viceversa
@@ -284,20 +260,6 @@ def build_graph_from_tsv(G:nx.MultiDiGraph=nx.MultiDiGraph(), method:str="KEGG")
     return add_weight_penalties(G, info_dict, ik_to_name), name_to_ik, ik_to_name, info_dict
 
 
-def try_retropath(c_inchi, c_name):
-	RP.django_call(name=c_name, inchi=c_inchi, steps=7)
-	RpOutput.tsv_generator(results_path="./cape_app/algorithms/pathways/rp_results/results.csv",
-						outdir="./cape_app/algorithms/pathways/rp_results/")
-	# EXPECTS A SINGLE UNIQUE KEGG FILE FOR THE EDGES what does this mean? i thought this was for RP ?
-	Std.main(tsv_edges_path="./cape_app/algorithms/pathways/rp_results/rp_edges.tsv",
-			edges_std_path="./cape_app/algorithms/pathways/rp_results/rp_std_edges.tsv",
-			processes=64)
-
-	# Add weights to tsv, will use this when we are 100% sure of the way we calculate the penalty, but for now I will compute it from scratch without storing it in a col in the tsv
-	#Penalty.main(std_path="./cape_app/algorithms/pathways/rp_results/rp_std_edges.tsv",
-	#			weighted_path="./cape_app/algorithms/pathways/rp_results/rp_weighted_edges.tsv")
-
-
 def multigraph_to_digraph(Multi_G: nx.MultiDiGraph) -> nx.DiGraph:
     """
     Convert a MultiDiGraph to a DiGraph while preserving useful metadata:
@@ -404,6 +366,3 @@ def k_shortest_paths(G: nx.DiGraph, start_inchikey: str, goal_inchikey: str, ik_
 
     results.sort(key=lambda x: x[0])
     return results
-
-def get_name_from_inchi(inchi: str):
-    pass
