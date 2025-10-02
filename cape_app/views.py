@@ -78,7 +78,7 @@ def pathways(request):
         num = request.POST.get("number")
 
         # Compute pathways and the database using the function 'main'
-        pathways, db = main(pollutant, sink, p_inchi, f_inchi)
+        pathways, db = main(p_inchi, f_inchi, pollutant, sink)
 
         # Save the data in session
         request.session['pathways'] = pathways
