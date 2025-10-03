@@ -1,45 +1,586 @@
 {% extends "master.html" %}
 
-{% block title %}Codon Optimization{% endblock %}
+{% block title %}CAPE - Codon Optimization{% endblock %}
+
+{% block banner %}
+<div class="banner-section">
+    <div class="banner-content">
+        <h1 class="banner-title">3. Codon Optimization</h1>
+    </div>
+</div>
+{% endblock %}
 
 {% block content %}
-<h1>Codon Optimization</h1>
-
-<form method="POST">
-    {% csrf_token %}
-
-    <div>
-        <label for="optimization_method">Choose optimization method:</label>
-        <select name="optimization_method" id="optimization_method" required>
-            <option value="">--Select--</option>
-            <option value="max" {% if method == 'max' %}selected{% endif %}>Max</option>
-            <option value="weighted" {% if method == 'weighted' %}selected{% endif %}>Weighted</option>
-            <input type="text" name="seed" placeholder="Insert seed">
-        </select>
+    <!-- Description Section -->
+    <div class="description-section">
+        <h2>Optimize Codon Usage</h2>
+        <p>
+            Codon optimization improves gene expression by replacing synonymous codons with those preferred by 
+            <strong>Rhodococcus opacus PD630</strong>. Select an optimization method, specify restriction sites to avoid, 
+            and generate optimized sequences ready for synthesis and cloning.
+        </p>
     </div>
 
-    <div>
-        <label>Select restriction sites (can select multiple):</label><br>
-        <input type="checkbox" name="restriction_sites" value="GGTCTC,GCTCTTC"
-            {% if 'GGTCTC,GCTCTTC' in restriction_options %}checked{% endif %}>Type IIS Golden Gate -> BsaI: GGTCTC, SapI: GCTCTTC<br>
-        <input type="checkbox" name="restriction_sites" value="GAATTC,TCTAGA,ACTAGT,CTGCAG,GCGGCCGC"
-            {% if 'GAATTC,TCTAGA,ACTAGT,CTGCAG,GCGGCCGC' in restriction_options %}checked{% endif %}>Biobrick RFC10 -> EcoRI: GAATTC, XbaI: TCTAGA, SpeI: ACTAGT, PstI: CTGCAG, NotI: GCGGCCGC<br>
+    <!-- Optimization Form -->
+    <form method="POST" id="optimization-form">
+        {% csrf_token %}
+
+        <div class="form-grid">
+            <!-- Optimization Method Card -->
+            <div class="form-card">
+                <div class="card-header">
+                    <h3 class="card-title">Optimization Method</h3>
+                    <div class="card-badge">Required</div>
+                </div>
+                
+                <div class="card-body">
+                    <div class="form-group">
+                        <label for="optimization_method">Choose optimization strategy</label>
+                        <select name="optimization_method" id="optimization_method" class="form-select" required>
+                            <option value="">-- Select Method --</option>
+                            <option value="max" {% if method == 'max' %}selected{% endif %}>
+                                Max - Use most frequent codon
+                            </option>
+                            <option value="weighted" {% if method == 'weighted' %}selected{% endif %}>
+                                Weighted - Balance codon usage
+                            </option>
+                        </select>
+                        <small class="form-hint">
+                            <strong>Max:</strong> Maximizes expression using only the most frequent codons. 
+                            <strong>Weighted:</strong> More balanced, mimics natural distribution.
+                        </small>
+                    </div>
+
+                    <div class="form-group">
+                        <label for="seed">Random Seed (optional)</label>
+                        <input type="text" 
+                               name="seed" 
+                               id="seed" 
+                               class="form-input"
+                               placeholder="e.g., 42">
+                        <small class="form-hint">Set a seed for reproducible optimization results</small>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Restriction Sites Card -->
+            <div class="form-card">
+                <div class="card-header">
+                    <h3 class="card-title">Restriction Sites to Avoid</h3>
+                    <div class="card-badge optional">Optional</div>
+                </div>
+
+                <div class="card-body">
+                    <p class="section-description">
+                        Select predefined restriction site sets or enter custom sites. The optimizer will avoid these sequences in the final output.
+                    </p>
+
+                    <div class="checkbox-group">
+                        <label class="checkbox-option">
+                            <input type="checkbox" 
+                                   name="restriction_sites" 
+                                   value="GGTCTC,GCTCTTC"
+                                   {% if 'GGTCTC,GCTCTTC' in restriction_options %}checked{% endif %}>
+                            <span class="checkbox-content">
+                                <strong>Type IIS Golden Gate</strong>
+                                <span class="restriction-sites">BsaI: GGTCTC, SapI: GCTCTTC</span>
+                            </span>
+                        </label>
+
+                        <label class="checkbox-option">
+                            <input type="checkbox" 
+                                   name="restriction_sites" 
+                                   value="GAATTC,TCTAGA,ACTAGT,CTGCAG,GCGGCCGC"
+                                   {% if 'GAATTC,TCTAGA,ACTAGT,CTGCAG,GCGGCCGC' in restriction_options %}checked{% endif %}>
+                            <span class="checkbox-content">
+                                <strong>BioBrick RFC10</strong>
+                                <span class="restriction-sites">EcoRI: GAATTC, XbaI: TCTAGA, SpeI: ACTAGT, PstI: CTGCAG, NotI: GCGGCCGC</span>
+                            </span>
+                        </label>
+                    </div>
+
+                    <div class="form-group">
+                        <label for="custom_restriction_site">Custom restriction sites</label>
+                        <input type="text" 
+                               name="custom_restriction_site" 
+                               id="custom_restriction_site" 
+                               class="form-input"
+                               placeholder="e.g., GAATTC,AAGCTT,GGATCC"
+                               value="">
+                        <small class="form-hint">Enter multiple sites separated by commas</small>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Submit Section -->
+        <div class="submit-section">
+            <div class="submit-info">
+                <p>Ready to optimize sequences</p>
+            </div>
+            <button type="submit" class="submit-btn">
+                <span>Optimize Sequences</span>
+                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                    <path d="M5 12h14M12 5l7 7-7 7"/>
+                </svg>
+            </button>
+        </div>
+    </form>
+
+    <!-- Results Section -->
+    {% if fasta_output %}
+    <div class="results-container">
+        <div class="results-header">
+            <h2>Optimization Results</h2>
+            <div class="results-meta">
+                <span class="meta-item">
+                    <strong>Method:</strong> {{ method }}
+                </span>
+                <span class="meta-item">
+                    <strong>Restriction sites:</strong> {{ restriction_sites }}
+                </span>
+            </div>
+        </div>
+
+        <div class="fasta-card">
+            <div class="fasta-card-header">
+                <h3>Optimized FASTA Sequences</h3>
+                <button type="button" class="copy-btn" onclick="copyFasta()">Copy to Clipboard</button>
+            </div>
+            <div class="fasta-body">
+                <pre id="fasta-output">{{ fasta_output }}</pre>
+            </div>
+        </div>
+
+        <div class="download-section">
+            <a href="{% url 'download_fasta' %}" class="download-btn">
+                <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                    <path d="M21 15v4a2 2 0 01-2 2H5a2 2 0 01-2-2v-4"/>
+                    <polyline points="7 10 12 15 17 10"/>
+                    <line x1="12" y1="15" x2="12" y2="3"/>
+                </svg>
+                <span>Download FASTA File</span>
+            </a>
+        </div>
     </div>
+    {% endif %}
 
-    <div>
-        <label for="custom_restriction_site">Or enter custom restriction site(s) (comma-separated):</label><br>
-        <input type="text" name="custom_restriction_site" id="custom_restriction_site"
-            value="">
-    </div>
+<style>
+    /* Description Section - matching orthologs.html */
+    .description-section {
+        background: linear-gradient(135deg, #f2f7ff, var(--light-purple));
+        border-left: 4px solid var(--primary-purple);
+        padding: 30px;
+        margin: 15px;
+        margin-bottom: 50px;
+        border-radius: 8px;
+        position: relative;
+    }
 
-    <button type="submit">Optimize</button>
-</form>
+    .description-section::before {
+        content: '\f05a';
+        font-family: 'Font Awesome 6 Free';
+        font-weight: 900;
+        position: absolute;
+        top: 30px;
+        left: -15px;
+        background: var(--primary-purple);
+        color: var(--white);
+        width: 30px;
+        height: 30px;
+        border-radius: 50%;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        font-size: 14px;
+    }
 
-{% if fasta_output %}
-    <h2>Optimized FASTA</h2>
-    <h3>Method: {{ method }}  -  Restriction sites: {{ restriction_sites }}</h3>
-    <pre style="background:#f4f4f4; padding:10px; border:1px solid #ccc; overflow:auto;">{{ fasta_output }}</pre>
-    <a href="{% url 'download_fasta' %}" class="btn">Download FASTA</a>
-{% endif %}
+    .description-section h2 {
+        color: var(--primary-purple);
+        margin-bottom: 16px;
+        font-size: 1.5em;
+    }
+
+    .description-section p {
+        color: var(--text-dark);
+        line-height: 1.7;
+        font-size: 1.1rem;
+        margin: 0;
+    }
+
+    /* Form Grid */
+    .form-grid {
+        display: flex;
+        flex-direction: column;
+        gap: 25px;
+        margin: 0 15px 30px;
+    }
+
+    /* Form Card - matching enzyme-card style */
+    .form-card {
+        background: white;
+        border-radius: 12px;
+        box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+        overflow: hidden;
+        transition: all 0.3s ease;
+    }
+
+    .form-card:hover {
+        box-shadow: 0 8px 25px rgba(0,0,0,0.15);
+        transform: translateY(-2px);
+    }
+
+    .card-header {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        padding: 20px;
+        background: linear-gradient(135deg, #f8f9fa 0%, #e9ecef 100%);
+        border-bottom: 1px solid #dee2e6;
+    }
+
+    .card-title {
+        margin: 0;
+        color: #2c3e50;
+        font-size: 1.4rem;
+    }
+
+    .card-badge {
+        background: var(--gradient-bg);
+        color: white;
+        padding: 4px 12px;
+        border-radius: 20px;
+        font-size: 0.8rem;
+        font-weight: 500;
+    }
+
+    .card-badge.optional {
+        background: #6c757d;
+    }
+
+    .card-body {
+        padding: 25px;
+    }
+
+    .section-description {
+        color: #495057;
+        line-height: 1.5;
+        margin-bottom: 20px;
+    }
+
+    /* Form Groups */
+    .form-group {
+        margin-bottom: 20px;
+    }
+
+    .form-group:last-child {
+        margin-bottom: 0;
+    }
+
+    .form-group label {
+        display: block;
+        font-weight: 500;
+        color: #495057;
+        margin-bottom: 8px;
+        font-size: 0.95rem;
+    }
+
+    .form-select,
+    .form-input {
+        width: 100%;
+        padding: 10px 15px;
+        border: 2px solid #dee2e6;
+        border-radius: 6px;
+        font-size: 1rem;
+        transition: border-color 0.3s ease;
+    }
+
+    .form-select:focus,
+    .form-input:focus {
+        outline: none;
+        border-color: var(--primary-purple);
+    }
+
+    .form-hint {
+        display: block;
+        color: #6c757d;
+        font-size: 0.85rem;
+        margin-top: 6px;
+        line-height: 1.4;
+    }
+
+    /* Checkbox Group */
+    .checkbox-group {
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        gap: 15px;
+        margin-bottom: 20px;
+    }
+
+    .checkbox-option {
+        display: flex;
+        align-items: flex-start;
+        gap: 12px;
+        padding: 15px;
+        background: #f8f9fa;
+        border: 2px solid #dee2e6;
+        border-radius: 8px;
+        cursor: pointer;
+        transition: all 0.3s ease;
+    }
+
+    .checkbox-option:hover {
+        border-color: var(--primary-purple);
+        background: white;
+    }
+
+    .checkbox-option input[type="checkbox"] {
+        margin-top: 3px;
+        width: 18px;
+        height: 18px;
+        cursor: pointer;
+        accent-color: var(--primary-purple);
+    }
+
+    .checkbox-content {
+        display: flex;
+        flex-direction: column;
+        gap: 4px;
+        flex: 1;
+    }
+
+    .checkbox-content strong {
+        color: #2c3e50;
+        font-size: 1rem;
+    }
+
+    .restriction-sites {
+        color: #6c757d;
+        font-size: 0.85rem;
+        font-family: 'Courier New', monospace;
+    }
+
+    /* Submit Section - matching orthologs style */
+    .submit-section {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        margin: 0 15px 40px;
+        padding: 25px;
+        background: linear-gradient(135deg, #f8f9fa 0%, #e9ecef 100%);
+        border-radius: 12px;
+    }
+
+    .submit-info p {
+        margin: 0;
+        font-size: 1.1rem;
+        color: #495057;
+        font-weight: 500;
+    }
+
+    .submit-btn {
+        display: flex;
+        align-items: center;
+        gap: 10px;
+        padding: 12px 24px;
+        background: var(--gradient-bg);
+        color: white;
+        border: none;
+        border-radius: 8px;
+        font-size: 1.1rem;
+        font-weight: 600;
+        cursor: pointer;
+        transition: all 0.3s ease;
+        box-shadow: 0 2px 8px rgba(0,123,255,0.3);
+    }
+
+    .submit-btn:hover {
+        transform: translateY(-2px);
+        box-shadow: 0 4px 16px rgba(0,123,255,0.4);
+    }
+
+    /* Results Container */
+    .results-container {
+        margin: 40px 15px;
+        animation: fadeIn 0.5s ease;
+    }
+
+    @keyframes fadeIn {
+        from { opacity: 0; transform: translateY(20px); }
+        to { opacity: 1; transform: translateY(0); }
+    }
+
+    .results-header {
+        margin-bottom: 25px;
+    }
+
+    .results-header h2 {
+        color: var(--primary-purple);
+        font-size: 1.8rem;
+        margin-bottom: 15px;
+    }
+
+    .results-meta {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 20px;
+    }
+
+    .meta-item {
+        color: #495057;
+        font-size: 0.95rem;
+    }
+
+    .meta-item strong {
+        color: #2c3e50;
+    }
+
+    /* FASTA Card - matching enzyme-card style */
+    .fasta-card {
+        background: white;
+        border-radius: 12px;
+        box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+        overflow: hidden;
+        margin-bottom: 25px;
+        transition: all 0.3s ease;
+    }
+
+    .fasta-card:hover {
+        box-shadow: 0 8px 25px rgba(0,0,0,0.15);
+    }
+
+    .fasta-card-header {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        padding: 20px;
+        background: linear-gradient(135deg, #f8f9fa 0%, #e9ecef 100%);
+        border-bottom: 1px solid #dee2e6;
+    }
+
+    .fasta-card-header h3 {
+        margin: 0;
+        color: #2c3e50;
+        font-size: 1.3rem;
+    }
+
+    .copy-btn {
+        padding: 8px 16px;
+        background: #6c757d;
+        color: white;
+        border: none;
+        border-radius: 6px;
+        font-size: 0.9rem;
+        cursor: pointer;
+        transition: all 0.3s ease;
+    }
+
+    .copy-btn:hover {
+        background: #545b62;
+    }
+
+    .fasta-body {
+        padding: 20px;
+        background: #fafafa;
+    }
+
+    #fasta-output {
+        margin: 0;
+        padding: 15px;
+        background: #f8f9fa;
+        border: 1px solid #dee2e6;
+        border-radius: 6px;
+        font-family: 'Courier New', monospace;
+        font-size: 0.9rem;
+        line-height: 1.6;
+        color: #2c3e50;
+        max-height: 400px;
+        overflow: auto;
+        white-space: pre-wrap;
+        word-wrap: break-word;
+    }
+
+    /* Download Section */
+    .download-section {
+        display: flex;
+        justify-content: center;
+    }
+
+    .download-btn {
+        display: flex;
+        align-items: center;
+        gap: 10px;
+        padding: 12px 30px;
+        background: #28a745;
+        color: white;
+        border-radius: 8px;
+        text-decoration: none;
+        font-weight: 600;
+        font-size: 1.05rem;
+        transition: all 0.3s ease;
+        box-shadow: 0 2px 8px rgba(40, 167, 69, 0.3);
+    }
+
+    .download-btn:hover {
+        background: #218838;
+        transform: translateY(-2px);
+        box-shadow: 0 4px 16px rgba(40, 167, 69, 0.4);
+    }
+
+    /* Responsive Design */
+    @media (max-width: 768px) {
+        .card-header {
+            flex-direction: column;
+            align-items: flex-start;
+            gap: 10px;
+        }
+
+        .checkbox-group {
+            grid-template-columns: 1fr;
+        }
+
+        .fasta-card-header {
+            flex-direction: column;
+            align-items: stretch;
+            gap: 12px;
+        }
+
+        .submit-section {
+            flex-direction: column;
+            gap: 15px;
+            text-align: center;
+        }
+
+        .results-meta {
+            flex-direction: column;
+            gap: 10px;
+        }
+    }
+</style>
+
+<script>
+function copyFasta() {
+    var fastaText = document.getElementById('fasta-output').textContent;
+    var tempTextarea = document.createElement('textarea');
+    tempTextarea.value = fastaText;
+    document.body.appendChild(tempTextarea);
+    tempTextarea.select();
+    document.execCommand('copy');
+    document.body.removeChild(tempTextarea);
+
+    var btn = event.target;
+    var originalText = btn.textContent;
+    btn.textContent = 'Copied!';
+    
+    setTimeout(function() {
+        btn.textContent = originalText;
+    }, 2000);
+}
+
+document.addEventListener('DOMContentLoaded', function() {
+    console.log('Codon Optimization page loaded');
+});
+</script>
 
 {% endblock %}
+
