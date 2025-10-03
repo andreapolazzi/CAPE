@@ -85,7 +85,7 @@ blacklist = [
     "YPZRHBJKEMOYQH-UYBVJOGSSA-N", # FADH2
     "FVTCRASFADXXNN-SCRDCRAPSA-N", # FMN
     # Coenzymes and group carriers
-    "RGJOEKWQDUBAIZ-IBOSZNHHSA-N", # CoA, Coenzyme A
+    "RGJOEKWQDUBAIZ-DRCCLKDXSA-N", # CoA, Coenzyme A
     "ZSLZBFCDCINBPY-KMYLAXNMSA-N", # Acetyl-CoA
     "MSTNYGQPCMXVAQ-PXYINDEMSA-N", # Tetrahydrofolate
     "YBJHBAHKTGYVGT-ZKWXMUAHSA-N", # Biotin
@@ -191,3 +191,4 @@ def add_weights(pathway_folder: str):
 if __name__ == "__main__":
 
     add_weights("./Pathways")
+
