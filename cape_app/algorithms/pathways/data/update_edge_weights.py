@@ -117,7 +117,7 @@ blacklist = [
     "LJZLHDYZFURWEE-UHFFFAOYSA-N", # Ferricytochrome cL
 ]
 
-def add_edge_weights(pathway_folder: str):
+def add_weights(pathway_folder: str):
     dist_cache = {}
     for file_name in os.listdir(pathway_folder):
         if not file_name.endswith("_edges.tsv"):
@@ -130,8 +130,8 @@ def add_edge_weights(pathway_folder: str):
             
             reader = csv.DictReader(f_in, delimiter="\t")
             fieldnames = reader.fieldnames.copy()
-            if "edge_weight" not in fieldnames:
-                fieldnames.append("edge_weight")
+            if "weight" not in fieldnames:
+                fieldnames.append("weight")
             writer = csv.DictWriter(f_out, fieldnames=fieldnames, delimiter="\t")
             writer.writeheader()
             
@@ -141,7 +141,7 @@ def add_edge_weights(pathway_folder: str):
                 row.get("target_inchi_key") in blacklist or \
                 row.get("source_mol_weight") == '999999.0' or \
                 row.get("target_mol_weight") == '999999.0':
-                    row["edge_weight"] = 999999
+                    row["weight"] = 999999
                     writer.writerow(row)
                     continue
                 
@@ -177,11 +177,11 @@ def add_edge_weights(pathway_folder: str):
                 col = row.get("color")
                 penalty = transf_penalty(rp_score, d_penalty, mw_pen)
                 if col == "green":
-                    row["edge_weight"] = penalty
+                    row["weight"] = penalty
                 elif col == "white":
-                    row["edge_weight"] = penalty*2
+                    row["weight"] = penalty*2
                 else:
-                    row["edge_weight"] = penalty*3
+                    row["weight"] = penalty*3
                 writer.writerow(row)
 
         # Replace original file
@@ -189,4 +189,5 @@ def add_edge_weights(pathway_folder: str):
 
 
 if __name__ == "__main__":
-    add_edge_weights("./Pathways")
+
+    add_weights("./Pathways")
