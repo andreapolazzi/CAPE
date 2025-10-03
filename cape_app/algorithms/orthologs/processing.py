@@ -229,7 +229,7 @@ Examples:
                 print(result['data'].head(min(5, len(result['data']))))
             else:
                 print("No sequences found.")
-            if args.include_hidden and result.get('hidden_data') is not None:
+            if result.get('hidden_data') is not None:
                 print("\nHidden Sequences:")
                 print(result['hidden_data'].head(min(5, len(result['hidden_data']))))
 
