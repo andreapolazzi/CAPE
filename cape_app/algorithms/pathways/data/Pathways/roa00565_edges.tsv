@@ -1,4 +1,4 @@
-enzyme_name	EC	source_inchi	source_inchi_key	target_inchi	target_inchi_key	source_name	target_name	reaction	color	source_mol_weight	target_mol_weight	RP_score	edge_weight
+enzyme_name	EC	source_inchi	source_inchi_key	target_inchi	target_inchi_key	source_name	target_name	reaction	color	source_mol_weight	target_mol_weight	RP_score	weight
 1-acylglycerone phosphate reductase	1.1.1.101					1-Acyl-sn-glycerol 3-phosphate	Acylglycerone phosphate	R02756	white	999999.0	999999.0	0	999999
 1-acylglycerone phosphate reductase	1.1.1.101					Acylglycerone phosphate	1-Acyl-sn-glycerol 3-phosphate	R02756	white	999999.0	999999.0	0	999999
 1-acylglycerone phosphate reductase	1.1.1.101			InChI=1S/C21H28N7O17P3/c22-17-12-19(25-7-24-17)28(8-26-12)21-16(44-46(33,34)35)14(30)11(43-21)6-41-48(38,39)45-47(36,37)40-5-10-13(29)15(31)20(42-10)27-3-1-2-9(4-27)18(23)32/h1-4,7-8,10-11,13-16,20-21,29-31H,5-6H2,(H7-,22,23,24,25,32,33,34,35,36,37,38,39)/p+1/t10-,11-,13-,14-,15-,16-,20-,21-/m1/s1	XJLXINKUBYWONI-NNYOXOHSSA-O	Acylglycerone phosphate	NADP+	R02756	white	999999.0	744.4170000000005	0	999999

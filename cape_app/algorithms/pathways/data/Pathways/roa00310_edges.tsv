@@ -1,4 +1,4 @@
-enzyme_name	EC	source_inchi	source_inchi_key	target_inchi	target_inchi_key	source_name	target_name	reaction	color	source_mol_weight	target_mol_weight	RP_score	edge_weight
+enzyme_name	EC	source_inchi	source_inchi_key	target_inchi	target_inchi_key	source_name	target_name	reaction	color	source_mol_weight	target_mol_weight	RP_score	weight
 (R)-2-hydroxyglutarate dehydrogenase	1.1.-.-	InChI=1S/C5H6O5/c6-3(5(9)10)1-2-4(7)8/h1-2H2,(H,7,8)(H,9,10)	KPGXRSRHYNQIFN-UHFFFAOYSA-N	InChI=1S/C5H8O5/c6-3(5(9)10)1-2-4(7)8/h3,6H,1-2H2,(H,7,8)(H,9,10)/t3-/m1/s1	HWXBTNAVRSUOJR-UHFFFAOYSA-N	2-Oxoglutarate	(R)-2-Hydroxyglutarate	R13036	white	146.09799999999998	148.11399999999998	0	0.14418547562557502
 (R)-2-hydroxyglutarate dehydrogenase	1.1.-.-	InChI=1S/C5H8O5/c6-3(5(9)10)1-2-4(7)8/h3,6H,1-2H2,(H,7,8)(H,9,10)/t3-/m1/s1	HWXBTNAVRSUOJR-UHFFFAOYSA-N	InChI=1S/C5H6O5/c6-3(5(9)10)1-2-4(7)8/h1-2H2,(H,7,8)(H,9,10)	KPGXRSRHYNQIFN-UHFFFAOYSA-N	(R)-2-Hydroxyglutarate	2-Oxoglutarate	R13036	white	148.11399999999998	146.09799999999998	0	0.05596321502518139
 (S)-2-hydroxyglutarate dehydrogenase	1.1.5.13					Hydroquinone	Quinone	R12217	white	999999.0	999999.0	0	999999

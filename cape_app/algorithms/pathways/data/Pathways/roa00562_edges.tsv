@@ -1,4 +1,4 @@
-enzyme_name	EC	source_inchi	source_inchi_key	target_inchi	target_inchi_key	source_name	target_name	reaction	color	source_mol_weight	target_mol_weight	RP_score	edge_weight
+enzyme_name	EC	source_inchi	source_inchi_key	target_inchi	target_inchi_key	source_name	target_name	reaction	color	source_mol_weight	target_mol_weight	RP_score	weight
 1-phosphatidylinositol phosphodiesterase	4.6.1.13					1,2-Diacyl-sn-glycerol	1-Phosphatidyl-D-myo-inositol	R03332	white	999999.0	999999.0	0	999999
 1-phosphatidylinositol phosphodiesterase	4.6.1.13					1-Phosphatidyl-D-myo-inositol	1,2-Diacyl-sn-glycerol	R03332	white	999999.0	999999.0	0	999999
 1-phosphatidylinositol phosphodiesterase	4.6.1.13			InChI=1S/C6H13O9P/c7-1-2(8)4(10)6(5(11)3(1)9)15-16(12,13)14/h1-11H,(H2,12,13,14)/t1-,2-,3+,4-,5-,6-/m1/s1	INAPMGSXUVUWAF-UOTPTPDRSA-N	1-Phosphatidyl-D-myo-inositol	Inositol 1-phosphate	R03332	white	999999.0	260.135	0	999999

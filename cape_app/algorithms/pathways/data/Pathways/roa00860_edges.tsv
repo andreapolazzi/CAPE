@@ -1,4 +1,4 @@
-enzyme_name	EC	source_inchi	source_inchi_key	target_inchi	target_inchi_key	source_name	target_name	reaction	color	source_mol_weight	target_mol_weight	RP_score	edge_weight
+enzyme_name	EC	source_inchi	source_inchi_key	target_inchi	target_inchi_key	source_name	target_name	reaction	color	source_mol_weight	target_mol_weight	RP_score	weight
 15,16-dihydrobiliverdin:ferredoxin oxidoreductase	1.3.7.2					Oxidized ferredoxin	Reduced ferredoxin	R05818	white	999999.0	999999.0	0	999999
 15,16-dihydrobiliverdin:ferredoxin oxidoreductase	1.3.7.2					Reduced ferredoxin	Oxidized ferredoxin	R05818	white	999999.0	999999.0	0	999999
 15,16-dihydrobiliverdin:ferredoxin oxidoreductase	1.3.7.2			InChI=1S/C33H34N4O6/c1-7-20-19(6)32(42)37-27(20)14-25-18(5)23(10-12-31(40)41)29(35-25)15-28-22(9-11-30(38)39)17(4)24(34-28)13-26-16(3)21(8-2)33(43)36-26/h7-8,13-15,35H,1-2,9-12H2,3-6H3,(H,36,43)(H,37,42)(H,38,39)(H,40,41)/b26-13-,27-14-,28-15-	PHDYQKJVCGRFFH-UHFFFAOYSA-N	Oxidized ferredoxin	Biliverdin	R05818	white	999999.0	582.6570000000005	0	999999

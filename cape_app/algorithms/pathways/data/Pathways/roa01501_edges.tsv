@@ -1,4 +1,4 @@
-enzyme_name	EC	source_inchi	source_inchi_key	target_inchi	target_inchi_key	source_name	target_name	reaction	color	source_mol_weight	target_mol_weight	RP_score	edge_weight
+enzyme_name	EC	source_inchi	source_inchi_key	target_inchi	target_inchi_key	source_name	target_name	reaction	color	source_mol_weight	target_mol_weight	RP_score	weight
 ATP-binding cassette, subfamily B, bacterial AbcA/BmrA	7.6.2.2					Penicillin	Penicilloic acid	R06363	white	999999.0	999999.0	0	999999
 ATP-binding cassette, subfamily B, bacterial AbcA/BmrA	7.6.2.2					Penicilloic acid	Penicillin	R06363	white	999999.0	999999.0	0	999999
 ATP-binding cassette, subfamily B, bacterial AbcA/BmrA	7.6.2.2			InChI=1S/H2O/h1H2	XLYOFNOQVPJJNP-UHFFFAOYSA-N	Penicilloic acid	H2O	R06363	white	999999.0	18.015	0	999999

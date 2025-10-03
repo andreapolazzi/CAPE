@@ -1,4 +1,4 @@
-enzyme_name	EC	source_inchi	source_inchi_key	target_inchi	target_inchi_key	source_name	target_name	reaction	color	source_mol_weight	target_mol_weight	RP_score	edge_weight
+enzyme_name	EC	source_inchi	source_inchi_key	target_inchi	target_inchi_key	source_name	target_name	reaction	color	source_mol_weight	target_mol_weight	RP_score	weight
 (+)-abscisic acid 8'-hydroxylase	1.14.14.137					[Oxidized NADPH---hemoprotein reductase]	[Reduced NADPH---hemoprotein reductase]	R07202	white	999999.0	999999.0	0	999999
 (+)-abscisic acid 8'-hydroxylase	1.14.14.137					[Reduced NADPH---hemoprotein reductase]	[Oxidized NADPH---hemoprotein reductase]	R07202	white	999999.0	999999.0	0	999999
 (+)-abscisic acid 8'-hydroxylase	1.14.14.137			InChI=1S/C15H20O4/c1-10(7-13(17)18)5-6-15(19)11(2)8-12(16)9-14(15,3)4/h5-8,19H,9H2,1-4H3,(H,17,18)/b6-5+,10-7-/t15-/m1/s1	JLIDBLDQVAYHNE-YKALOCIXSA-N	[Oxidized NADPH---hemoprotein reductase]	Abscisate	R07202	white	999999.0	264.3209999999999	0	999999

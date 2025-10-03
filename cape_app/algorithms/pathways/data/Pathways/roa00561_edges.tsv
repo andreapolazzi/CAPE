@@ -1,4 +1,4 @@
-enzyme_name	EC	source_inchi	source_inchi_key	target_inchi	target_inchi_key	source_name	target_name	reaction	color	source_mol_weight	target_mol_weight	RP_score	edge_weight
+enzyme_name	EC	source_inchi	source_inchi_key	target_inchi	target_inchi_key	source_name	target_name	reaction	color	source_mol_weight	target_mol_weight	RP_score	weight
 1,2-diacylglycerol 3-alpha-glucosyltransferase	2.4.1.337					1,2-Diacyl-3-alpha-D-glucosyl-sn-glycerol	1,2-Diacyl-sn-glycerol	R10850	white	999999.0	999999.0	0	999999
 1,2-diacylglycerol 3-alpha-glucosyltransferase	2.4.1.337					1,2-Diacyl-sn-glycerol	1,2-Diacyl-3-alpha-D-glucosyl-sn-glycerol	R10850	white	999999.0	999999.0	0	999999
 1,2-diacylglycerol 3-alpha-glucosyltransferase	2.4.1.337			InChI=1S/C15H24N2O17P2/c18-3-5-8(20)10(22)12(24)14(32-5)33-36(28,29)34-35(26,27)30-4-6-9(21)11(23)13(31-6)17-2-1-7(19)16-15(17)25/h1-2,5-6,8-14,18,20-24H,3-4H2,(H,26,27)(H,28,29)(H,16,19,25)/t5-,6-,8-,9-,10+,11-,12-,13-,14-/m1/s1	HSCJRCZFDFQWRP-JZMIEXBBSA-N	1,2-Diacyl-3-alpha-D-glucosyl-sn-glycerol	UDP-glucose	R10850	white	999999.0	566.3020000000002	0	999999
