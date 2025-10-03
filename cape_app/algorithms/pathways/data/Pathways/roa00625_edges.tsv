@@ -1,4 +1,4 @@
-enzyme_name	EC	source_inchi	source_inchi_key	target_inchi	target_inchi_key	source_name	target_name	reaction	color	source_mol_weight	target_mol_weight	RP_score	edge_weight
+enzyme_name	EC	source_inchi	source_inchi_key	target_inchi	target_inchi_key	source_name	target_name	reaction	color	source_mol_weight	target_mol_weight	RP_score	weight
 2-haloacid dehalogenase	3.8.1.2	InChI=1S/C2H3ClO2/c3-1-2(4)5/h1H2,(H,4,5)	FOCAUTSVDIKZOP-UHFFFAOYSA-N	InChI=1S/C2H4O3/c3-1-2(4)5/h3H,1H2,(H,4,5)	AEMRFAOFKBGASW-UHFFFAOYSA-N	Chloroacetic acid	Glycolate	R05287	green	94.497	76.051	0	3.727798286702939
 2-haloacid dehalogenase	3.8.1.2	InChI=1S/C2H3ClO2/c3-1-2(4)5/h1H2,(H,4,5)	FOCAUTSVDIKZOP-UHFFFAOYSA-N	InChI=1S/ClH/h1H	VEXZGXHMUGYJMC-UHFFFAOYSA-N	Chloroacetic acid	Hydrochloric acid	R05287	green	94.497	36.461000000000006	0	15.391062478226889
 2-haloacid dehalogenase	3.8.1.2	InChI=1S/H2O/h1H2	XLYOFNOQVPJJNP-UHFFFAOYSA-N	InChI=1S/C2H4O3/c3-1-2(4)5/h3H,1H2,(H,4,5)	AEMRFAOFKBGASW-UHFFFAOYSA-N	H2O	Glycolate	R05287	green	18.015	76.051	0	999999

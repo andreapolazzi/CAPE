@@ -1,4 +1,4 @@
-enzyme_name	EC	source_inchi	source_inchi_key	target_inchi	target_inchi_key	source_name	target_name	reaction	color	source_mol_weight	target_mol_weight	RP_score	edge_weight
+enzyme_name	EC	source_inchi	source_inchi_key	target_inchi	target_inchi_key	source_name	target_name	reaction	color	source_mol_weight	target_mol_weight	RP_score	weight
 F420-dependent hydroxymycolic acid dehydrogenase	1.1.98.-					Mycolic acid	Trehalose dimycolate	R13279	white	999999.0	999999.0	0	999999
 F420-dependent hydroxymycolic acid dehydrogenase	1.1.98.-					Trehalose dimycolate	Mycolic acid	R13279	white	999999.0	999999.0	0	999999
 F420-dependent hydroxymycolic acid dehydrogenase	1.1.98.-					Trehalose dimycolate	Trehalose monomycolate	R13279	white	999999.0	999999.0	0	999999

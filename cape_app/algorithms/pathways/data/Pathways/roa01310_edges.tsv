@@ -1,4 +1,4 @@
-enzyme_name	EC	source_inchi	source_inchi_key	target_inchi	target_inchi_key	source_name	target_name	reaction	color	source_mol_weight	target_mol_weight	RP_score	edge_weight
+enzyme_name	EC	source_inchi	source_inchi_key	target_inchi	target_inchi_key	source_name	target_name	reaction	color	source_mol_weight	target_mol_weight	RP_score	weight
 assimilatory nitrate reductase catalytic subunit	1.7.99.-					Acceptor	Reduced acceptor	R00798	white	999999.0	999999.0	0	999999
 assimilatory nitrate reductase catalytic subunit	1.7.99.-					Reduced acceptor	Acceptor	R00798	white	999999.0	999999.0	0	999999
 assimilatory nitrate reductase catalytic subunit	1.7.99.-			InChI=1S/H2O/h1H2	XLYOFNOQVPJJNP-UHFFFAOYSA-N	Reduced acceptor	H2O	R00798	white	999999.0	18.015	0	999999

@@ -1,4 +1,4 @@
-enzyme_name	EC	source_inchi	source_inchi_key	target_inchi	target_inchi_key	source_name	target_name	reaction	color	source_mol_weight	target_mol_weight	RP_score	edge_weight
+enzyme_name	EC	source_inchi	source_inchi_key	target_inchi	target_inchi_key	source_name	target_name	reaction	color	source_mol_weight	target_mol_weight	RP_score	weight
 adenylyltransferase and sulfurtransferase	2.7.7.80					Adenylyl-[sulfur-carrier protein]	Sulfur-carrier protein	R07459	white	999999.0	999999.0	0	999999
 adenylyltransferase and sulfurtransferase	2.7.7.80					Sulfur-carrier protein	Adenylyl-[sulfur-carrier protein]	R07459	white	999999.0	999999.0	0	999999
 adenylyltransferase and sulfurtransferase	2.7.7.80			InChI=1S/C10H16N5O13P3/c11-8-5-9(13-2-12-8)15(3-14-5)10-7(17)6(16)4(26-10)1-25-30(21,22)28-31(23,24)27-29(18,19)20/h2-4,6-7,10,16-17H,1H2,(H,21,22)(H,23,24)(H2,11,12,13)(H2,18,19,20)/t4-,6-,7-,10-/m1/s1	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	Adenylyl-[sulfur-carrier protein]	ATP	R07459	white	999999.0	507.1820000000001	0	999999

@@ -1,4 +1,4 @@
-enzyme_name	EC	source_inchi	source_inchi_key	target_inchi	target_inchi_key	source_name	target_name	reaction	color	source_mol_weight	target_mol_weight	RP_score	edge_weight
+enzyme_name	EC	source_inchi	source_inchi_key	target_inchi	target_inchi_key	source_name	target_name	reaction	color	source_mol_weight	target_mol_weight	RP_score	weight
 (R)-2-aza-beta-tyrosine adenylation enzyme	6.2.1.-					(R)-2-Aza-beta-tyrosyl-[pcp]	Peptidyl-carrier protein	R11392	white	999999.0	999999.0	0	999999
 (R)-2-aza-beta-tyrosine adenylation enzyme	6.2.1.-					Peptidyl-carrier protein	(R)-2-Aza-beta-tyrosyl-[pcp]	R11392	white	999999.0	999999.0	0	999999
 (R)-2-aza-beta-tyrosine adenylation enzyme	6.2.1.-			InChI=1S/C10H14N5O7P/c11-8-5-9(13-2-12-8)15(3-14-5)10-7(17)6(16)4(22-10)1-21-23(18,19)20/h2-4,6-7,10,16-17H,1H2,(H2,11,12,13)(H2,18,19,20)/t4-,6-,7-,10-/m1/s1	UDMBCSSLTHHNCD-KQYNXXCUSA-N	Peptidyl-carrier protein	AMP	R11392	white	999999.0	347.22400000000005	0	999999

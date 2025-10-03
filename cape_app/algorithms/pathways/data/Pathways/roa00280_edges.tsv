@@ -1,4 +1,4 @@
-enzyme_name	EC	source_inchi	source_inchi_key	target_inchi	target_inchi_key	source_name	target_name	reaction	color	source_mol_weight	target_mol_weight	RP_score	edge_weight
+enzyme_name	EC	source_inchi	source_inchi_key	target_inchi	target_inchi_key	source_name	target_name	reaction	color	source_mol_weight	target_mol_weight	RP_score	weight
 2-oxoisovalerate dehydrogenase E1 component	1.2.4.4					Enzyme N6-(lipoyl)lysine	[Dihydrolipoyllysine-residue (2-methylpropanoyl)transferase] S-(2-methylbutanoyl)dihydrolipoyllysine	R07604	green	999999.0	999999.0	0	999999
 2-oxoisovalerate dehydrogenase E1 component	1.2.4.4					Enzyme N6-(lipoyl)lysine	[Dihydrolipoyllysine-residue (2-methylpropanoyl)transferase] S-(2-methylpropanoyl)dihydrolipoyllysine	R07600	green	999999.0	999999.0	0	999999
 2-oxoisovalerate dehydrogenase E1 component	1.2.4.4					Enzyme N6-(lipoyl)lysine	[Dihydrolipoyllysine-residue (2-methylpropanoyl)transferase] S-(3-methylbutanoyl)dihydrolipoyllysine	R07602	green	999999.0	999999.0	0	999999

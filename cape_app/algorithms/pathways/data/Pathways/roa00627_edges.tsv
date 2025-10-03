@@ -1,4 +1,4 @@
-enzyme_name	EC	source_inchi	source_inchi_key	target_inchi	target_inchi_key	source_name	target_name	reaction	color	source_mol_weight	target_mol_weight	RP_score	edge_weight
+enzyme_name	EC	source_inchi	source_inchi_key	target_inchi	target_inchi_key	source_name	target_name	reaction	color	source_mol_weight	target_mol_weight	RP_score	weight
 (S)-mandelate dehydrogenase	1.1.99.31					Acceptor	Reduced acceptor	R04160	white	999999.0	999999.0	0	999999
 (S)-mandelate dehydrogenase	1.1.99.31					Reduced acceptor	Acceptor	R04160	white	999999.0	999999.0	0	999999
 (S)-mandelate dehydrogenase	1.1.99.31			InChI=1S/C8H6O4/c9-6-3-1-5(2-4-6)7(10)8(11)12/h1-4,9H,(H,11,12)	KXFJZKUFXHWWAJ-UHFFFAOYSA-N	Acceptor	4-Hydroxyphenylglyoxylate	R04160	white	999999.0	166.13199999999998	0	999999

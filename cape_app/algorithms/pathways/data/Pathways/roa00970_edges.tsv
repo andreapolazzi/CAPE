@@ -1,4 +1,4 @@
-enzyme_name	EC	source_inchi	source_inchi_key	target_inchi	target_inchi_key	source_name	target_name	reaction	color	source_mol_weight	target_mol_weight	RP_score	edge_weight
+enzyme_name	EC	source_inchi	source_inchi_key	target_inchi	target_inchi_key	source_name	target_name	reaction	color	source_mol_weight	target_mol_weight	RP_score	weight
 L-seryl-tRNA(Ser) seleniumtransferase	2.9.1.1					L-Selenocysteinyl-tRNA(Sec)	L-Seryl-tRNA(Sec)	R08219	white	999999.0	999999.0	0	999999
 L-seryl-tRNA(Ser) seleniumtransferase	2.9.1.1					L-Seryl-tRNA(Sec)	L-Selenocysteinyl-tRNA(Sec)	R08219	white	999999.0	999999.0	0	999999
 L-seryl-tRNA(Ser) seleniumtransferase	2.9.1.1			InChI=1S/H3O3PSe/c1-4(2,3)5/h(H3,1,2,3,5)	JRPHGDYSKGJTKZ-UHFFFAOYSA-N	L-Selenocysteinyl-tRNA(Sec)	Selenophosphoric acid	R08219	white	999999.0	160.95499999999998	0	999999

@@ -1,4 +1,4 @@
-enzyme_name	EC	source_inchi	source_inchi_key	target_inchi	target_inchi_key	source_name	target_name	reaction	color	source_mol_weight	target_mol_weight	RP_score	edge_weight
+enzyme_name	EC	source_inchi	source_inchi_key	target_inchi	target_inchi_key	source_name	target_name	reaction	color	source_mol_weight	target_mol_weight	RP_score	weight
 3-hydroxyacyl-[acyl-carrier-protein] dehydratase	4.2.1.59					(3R)-3-Hydroxybutanoyl-[acyl-carrier protein]	But-2-enoyl-[acyl-carrier protein]	R04428	white	999999.0	999999.0	0	999999
 3-hydroxyacyl-[acyl-carrier-protein] dehydratase	4.2.1.59					But-2-enoyl-[acyl-carrier protein]	(3R)-3-Hydroxybutanoyl-[acyl-carrier protein]	R04428	white	999999.0	999999.0	0	999999
 3-hydroxyacyl-[acyl-carrier-protein] dehydratase	4.2.1.59			InChI=1S/H2O/h1H2	XLYOFNOQVPJJNP-UHFFFAOYSA-N	(3R)-3-Hydroxybutanoyl-[acyl-carrier protein]	H2O	R04428	white	999999.0	18.015	0	999999

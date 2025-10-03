@@ -1,4 +1,4 @@
-enzyme_name	EC	source_inchi	source_inchi_key	target_inchi	target_inchi_key	source_name	target_name	reaction	color	source_mol_weight	target_mol_weight	RP_score	edge_weight
+enzyme_name	EC	source_inchi	source_inchi_key	target_inchi	target_inchi_key	source_name	target_name	reaction	color	source_mol_weight	target_mol_weight	RP_score	weight
 D-amino-acid oxidase	1.4.3.3	InChI=1S/C2H2O3/c3-1-2(4)5/h1H,(H,4,5)	HHLFWLYXYJOTON-UHFFFAOYSA-N	InChI=1S/C2H5NO2/c3-1-2(4)5/h1,3H2,(H,4,5)	DHMQDGOQFOQNFH-UHFFFAOYSA-N	Glyoxylate	Glycine	R00366	white	74.035	75.067	0	0.14705256198389147
 D-amino-acid oxidase	1.4.3.3	InChI=1S/C2H2O3/c3-1-2(4)5/h1H,(H,4,5)	HHLFWLYXYJOTON-UHFFFAOYSA-N	InChI=1S/H2O/h1H2	XLYOFNOQVPJJNP-UHFFFAOYSA-N	Glyoxylate	H2O	R00366	white	74.035	18.015	0	999999
 D-amino-acid oxidase	1.4.3.3	InChI=1S/C2H2O3/c3-1-2(4)5/h1H,(H,4,5)	HHLFWLYXYJOTON-UHFFFAOYSA-N	InChI=1S/O2/c1-2	MYMOFIZGZYHOMD-UHFFFAOYSA-N	Glyoxylate	Oxygen	R00366	white	74.035	31.998	0	999999
