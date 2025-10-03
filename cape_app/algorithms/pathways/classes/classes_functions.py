@@ -79,11 +79,11 @@ def multigraph_to_digraph(Multi_G: nx.MultiDiGraph) -> nx.DiGraph:
     """
     Di_G = nx.DiGraph()
     for u, v, data in Multi_G.edges(data=True):
-        edge_weight = float(data.get('edge_weight', 1.0))
+        weight = float(data.get('weight', 1.0))
         if Di_G.has_edge(u, v):
-            Di_G[u][v]['edge_weight'] = min(Di_G[u][v]['edge_weight'], edge_weight)
+            Di_G[u][v]['weight'] = min(Di_G[u][v]['weight'], weight)
         else:
-            Di_G.add_edge(u, v, edge_weight=edge_weight)
+            Di_G.add_edge(u, v, weight=weight)
     # Copy node attributes
     for n, attrs in Multi_G.nodes(data=True):
         Di_G.add_node(n, **attrs)
@@ -103,7 +103,7 @@ def k_shortest_paths(G: nx.MultiDiGraph, start_inchikey: str, goal_inchikey: str
         return []
 
     try:
-        path_generator = nx.shortest_simple_paths(Di_G, start_inchikey, goal_inchikey, weight="edge_weight")
+        path_generator = nx.shortest_simple_paths(Di_G, start_inchikey, goal_inchikey, weight="weight")
     except (nx.NetworkXNoPath, Exception):
         return []
 
@@ -114,7 +114,7 @@ def k_shortest_paths(G: nx.MultiDiGraph, start_inchikey: str, goal_inchikey: str
 
         for u, v in zip(path, path[1:]):
             # Weight is calculated from DiGraph (lightest edge)
-            w = Di_G[u][v]["edge_weight"]
+            w = Di_G[u][v]["weight"]
             total_w += w
 
             # Collect all parallel edges in the original MultiDiGraph
@@ -153,3 +153,4 @@ def k_shortest_paths(G: nx.MultiDiGraph, start_inchikey: str, goal_inchikey: str
 
     results.sort(key=lambda x: x[0])
     return results
+
