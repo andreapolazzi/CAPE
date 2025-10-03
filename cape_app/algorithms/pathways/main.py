@@ -10,11 +10,13 @@ def main(start_inchi: str, end_inchi: str, start_name:str='', end_name:str=''):
 
     MAX_PATHS = 3
 
-    if not os.listdir(PATHWAY_FOLDER):
+    script_dir = os.path.dirname(os.path.abspath(__file__))
+    pathway_folder = os.path.join(script_dir, "../data/Pathways")
+    if not os.listdir(pathway_folder):
         raise('Warning: the Pathways folder is missing or empty.'
             'Download pathways before attempting to find shortest paths.')
 
-    G, name_to_ik, ik_to_name, info_dict = build_graph_from_tsv(method="KEGG")
+    G = build_graph_from_tsv(method="KEGG")
 
     # Normalize inchis and standardize them to inchikeys
     start_ik = Std.standardize(start_inchi.strip())
@@ -22,9 +24,10 @@ def main(start_inchi: str, end_inchi: str, start_name:str='', end_name:str=''):
 
     # Check if start or end is missing in G
     if start_ik in G.nodes and end_ik in G.nodes:
-        paths = k_shortest_paths(G, start_ik, end_ik, ik_to_name, K=MAX_PATHS)
+        print("trying kegg")
+        paths = k_shortest_paths(G, start_ik, end_ik, K=MAX_PATHS)
         if paths: # Paths found, return the results
-            return paths,info_dict
+            return paths
 
     # RetroPath fallback
     try:
@@ -46,7 +49,7 @@ def main(start_inchi: str, end_inchi: str, start_name:str='', end_name:str=''):
         
         # Add new edges to G and update dictionaries with new info
         print("trying to add retropath edges to graph")
-        G, name_to_ik, ik_to_name, info_dict = build_graph_from_tsv(G,method="RetroPath", 
+        G, name_to_ik, ik_to_name = build_graph_from_tsv(G,method="RetroPath", 
                                                                     outdir="./cape_app/algorithms/pathways/rp_results/")
         # Re-run path search
         print("re-running path search")
@@ -54,8 +57,7 @@ def main(start_inchi: str, end_inchi: str, start_name:str='', end_name:str=''):
         if not paths:
             return False # Still no paths found, even after successfully adding Retropath edges
         else: # Paths found, return the results
-            return paths,info_dict
+            return paths
     except: # RetroPath failed
         print('retropath failed')
         return False
-
