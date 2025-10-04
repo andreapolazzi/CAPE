@@ -20,6 +20,7 @@ from django.utils.safestring import mark_safe
 from .algorithms.pathways.main import main
 from .algorithms.orthologs.processing import process_ec_list
 from .algorithms.codon_opt.backtranslate_pd630 import backtranslate_protein, write_fasta
+from .algorithms.selenzyme.noec_api import query_smarts
 
 # Color map needed to paint ec numbers to identify their origin
 COLOR_MAP = {'green': '#21b57c',
@@ -152,44 +153,53 @@ def ec_choice(request):
 
         # Load data from session
         pathways = request.session.get('pathways')
-        db = request.session.get('database')
         pollutant = request.session.get('pollutant')
         sink = request.session.get('sink')
 
         # Extract the selected pathway and its steps
-        selected_pathway = pathways[selected_index]
-        steps = selected_pathway[1]
-
+        _, steps = pathways[selected_index]
 
         detailed_steps = []
         for i, step in enumerate(steps):
-            start_compound, end_compound = step[0], step[2]
+            start_compound, enzyme_list, end_compound = step
 
             # Collect all possible EC number for this step
             available_ecs = []
-            for ec in step[1]:
-                enzyme_id, enzyme_color = ec[0], ec[1]
-                enzyme_info = db.get(enzyme_id, {})
+            step_type = None
 
-                coloring = COLOR_MAP.get(enzyme_color, '#333333')
+            for enzyme in enzyme_list:
+                enzyme_ec = enzyme.get('EC')
+                enzyme_color = enzyme.get('color')
+                enzyme_info = {k: v for k, v in enzyme.items() if k not in ["EC", "color"]}
 
-                available_ecs.append({'ec_number': enzyme_id,
-                                      'color': enzyme_color,
-                                      'enzyme_name': enzyme_info.get('enzyme', 'Unknown enzyme'),
-                                      'reactions': enzyme_info.get('reactions', []),
-                                      'coloring': coloring})
+                # Map enzyme color
+                coloring = COLOR_MAP.get(enzyme_color, "#333333")
+                colored_ec = mark_safe(f"<span style='color:{coloring}'>{enzyme_ec}</span>")
+
+                enzyme_entry = {'colored_ec': colored_ec,
+                                'color': enzyme_color,
+                                **enzyme_info}
+                
+                if enzyme_ec == 'noec' and 'smarts' in enzyme_info:
+                    data = query_smarts(enzyme_info['smarts'])
+                    enzyme_entry['data'] = data
+                    enzyme_entry['ec_selenzyme'] = data['EC Number'].dropna().unique().tolist()
+                    step_type = 'selenzyme'
+
+                available_ecs.append(enzyme_entry)
             
-            # Retrieve additional info for start and end compounds
-            start_info = db.get(start_compound.lower(), {})
-            end_info = db.get(end_compound.lower(), {})
-
+            if step_type is None:
+                if len(enzyme_list) == 1 and available_ecs[0]['color'] == 'green':
+                    step_type = 'green'
+                else:
+                    step_type = 'choice'
+            
             # Build the detailed step representation
             detailed_steps.append({'step_number': i,
                                    'start_compound': start_compound,
                                    'end_compound': end_compound,
-                                   's_info': start_info,
-                                   'e_info': end_info,
-                                   'ecs': available_ecs})
+                                   'ecs': available_ecs,
+                                   'step_type': step_type})
 
         # Save detailed steps in session   
         request.session['selected_steps'] = detailed_steps
