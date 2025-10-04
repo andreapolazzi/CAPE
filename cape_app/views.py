@@ -178,6 +178,7 @@ def ec_choice(request):
 
                 enzyme_entry = {'colored_ec': colored_ec,
                                 'color': enzyme_color,
+                                'EC': enzyme_ec,
                                 **enzyme_info}
                 
                 if enzyme_ec == 'noec' and 'smarts' in enzyme_info:
