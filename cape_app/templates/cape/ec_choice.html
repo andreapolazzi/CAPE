@@ -16,8 +16,7 @@
         <h2>Pathway: {{ pollutant }} → {{ sink }}</h2>
         <p>
             Select the appropriate <strong>EC (Enzyme Commission) numbers</strong> for each step in the metabolic pathway. 
-            You can choose from the suggested EC numbers based on the pathway analysis, or manually enter a custom EC number 
-            if you have specific enzyme requirements. Each step represents a biochemical transformation in the pathway.
+            Some steps have predetermined enzymes (green), while others require your selection from available options or from SMARTS-based predictions.
         </p>
     </div>
 
@@ -27,7 +26,7 @@
 
         <div class="steps-container">
             {% for step in steps %}
-            <div class="step-card">
+            <div class="step-card" data-step-type="{{ step.step_type }}">
                 <div class="step-header">
                     <div class="step-number-badge">Step {{ step.step_number|add:1 }}</div>
                     <div class="step-reaction">
@@ -37,50 +36,173 @@
                         </svg>
                         <span class="compound end-compound">{{ step.end_compound }}</span>
                     </div>
+                    {% if step.step_type == 'green' %}
+                    <div class="step-type-badge green-badge">
+                        <svg width="16" height="16" viewBox="0 0 24 24" fill="currentColor">
+                            <path d="M9 16.17L4.83 12l-1.42 1.41L9 19 21 7l-1.41-1.41z"/>
+                        </svg>
+                        Confirmed
+                    </div>
+                    {% elif step.step_type == 'selenzyme' %}
+                    <div class="step-type-badge selenzyme-badge">
+                        <svg width="16" height="16" viewBox="0 0 24 24" fill="currentColor">
+                            <path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm-2 15l-5-5 1.41-1.41L10 14.17l7.59-7.59L19 8l-9 9z"/>
+                        </svg>
+                        SMARTS Prediction
+                    </div>
+                    {% endif %}
                 </div>
 
                 <div class="step-body">
-                    <div class="ec-options-section">
-                        <h4 class="section-title">Available EC Numbers</h4>
-                        <div class="ec-options-grid">
-                            {% for ec in step.ecs %}
-                            <label class="ec-option">
+                    {% if step.step_type == 'green' %}
+                        <!-- GREEN STEP: Display confirmed EC only -->
+                        <div class="green-step-section">
+                            <div class="confirmed-ec-card">
+                                <div class="confirmed-icon">
+                                    <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                                        <path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"></path>
+                                        <polyline points="22 4 12 14.01 9 11.01"></polyline>
+                                    </svg>
+                                </div>
+                                <div class="confirmed-details">
+                                    <div class="confirmed-label">Confirmed Enzyme</div>
+                                    <div class="confirmed-ec">{{ step.ecs.0.colored_ec|safe }}</div>
+                                    {% if step.ecs.0.name %}
+                                    <div class="confirmed-name">{{ step.ecs.0.name }}</div>
+                                    {% endif %}
+                                </div>
+                            </div>
+                            <input type="hidden" name="selected_ec_{{ step.step_number }}" value="{{ step.ecs.0.EC }}">
+                        </div>
+
+                    {% elif step.step_type == 'selenzyme' %}
+                        <!-- SELENZYME STEP: Display SMARTS data table and EC selection -->
+                        <div class="selenzyme-step-section">
+                            <div class="smarts-info-box">
+                                <h4 class="section-title">
+                                    <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                                        <path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"></path>
+                                        <polyline points="14 2 14 8 20 8"></polyline>
+                                    </svg>
+                                    SMARTS Pattern Analysis
+                                </h4>
+                                {% for ec_entry in step.ecs %}
+                                    {% if ec_entry.data %}
+                                    <div class="smarts-table-wrapper">
+                                        <table class="smarts-data-table">
+                                            <thead>
+                                                <tr>
+                                                    <th>EC Number</th>
+                                                    <th>Enzyme Name</th>
+                                                    <th>Organism</th>
+                                                    <th>Score</th>
+                                                </tr>
+                                            </thead>
+                                            <tbody>
+                                                {% for row in ec_entry.data.itertuples %}
+                                                <tr>
+                                                    <td class="ec-cell">{{ row.EC_Number|default:"-" }}</td>
+                                                    <td>{{ row.Enzyme_Name|default:"-" }}</td>
+                                                    <td>{{ row.Organism|default:"-" }}</td>
+                                                    <td class="score-cell">{{ row.Score|default:"-" }}</td>
+                                                </tr>
+                                                {% endfor %}
+                                            </tbody>
+                                        </table>
+                                    </div>
+                                    {% endif %}
+                                {% endfor %}
+                            </div>
+
+                            <div class="ec-selection-section">
+                                <h4 class="section-title">Select Predicted EC Number</h4>
+                                <div class="ec-options-grid">
+                                    {% for ec_entry in step.ecs %}
+                                        {% if ec_entry.ec_selenzyme %}
+                                            {% for ec_num in ec_entry.ec_selenzyme %}
+                                            <label class="ec-option">
+                                                <input type="radio" 
+                                                       name="selected_ec_{{ step.step_number }}" 
+                                                       value="{{ ec_num }}" 
+                                                       class="ec-radio"
+                                                       {% if forloop.first %}checked{% endif %}
+                                                       onchange="updateStepSelection({{ step.step_number }})">
+                                                <span class="ec-label">
+                                                    <span class="ec-number-text">{{ ec_num }}</span>
+                                                    <span class="ec-source-badge">From SMARTS</span>
+                                                </span>
+                                                <span class="checkmark"></span>
+                                            </label>
+                                            {% endfor %}
+                                        {% endif %}
+                                    {% endfor %}
+                                </div>
+                            </div>
+
+                            <div class="manual-entry-section">
+                                <h4 class="section-title">Manual Entry</h4>
+                                <label class="manual-option">
+                                    <input type="radio" 
+                                           name="selected_ec_{{ step.step_number }}" 
+                                           value="manual"
+                                           class="ec-radio manual-radio"
+                                           onchange="updateStepSelection({{ step.step_number }})">
+                                    <span class="manual-label">Enter custom EC number</span>
+                                    <input type="text" 
+                                           name="manual_ec_{{ step.step_number }}" 
+                                           class="manual-input"
+                                           placeholder="e.g., 1.2.3.4"
+                                           onfocus="selectManualRadio({{ step.step_number }})"
+                                           pattern="[0-9]+\.[0-9]+\.[0-9]+\.[0-9]+"
+                                           title="EC number format: x.x.x.x">
+                                </label>
+                            </div>
+                        </div>
+
+                    {% else %}
+                        <!-- CHOICE STEP: Standard selection interface -->
+                        <div class="ec-options-section">
+                            <h4 class="section-title">Available EC Numbers</h4>
+                            <div class="ec-options-grid">
+                                {% for ec in step.ecs %}
+                                <label class="ec-option">
+                                    <input type="radio" 
+                                           name="selected_ec_{{ step.step_number }}" 
+                                           value="{{ ec.EC }}" 
+                                           class="ec-radio"
+                                           {% if forloop.first %}checked{% endif %}
+                                           onchange="updateStepSelection({{ step.step_number }})">
+                                    <span class="ec-label">
+                                        <span class="ec-number-text">{{ ec.colored_ec|safe }}</span>
+                                        {% if ec.name %}
+                                        <span class="ec-name">{{ ec.name }}</span>
+                                        {% endif %}
+                                    </span>
+                                    <span class="checkmark"></span>
+                                </label>
+                                {% endfor %}
+                            </div>
+                        </div>
+
+                        <div class="manual-entry-section">
+                            <h4 class="section-title">Manual Entry</h4>
+                            <label class="manual-option">
                                 <input type="radio" 
                                        name="selected_ec_{{ step.step_number }}" 
-                                       value="{{ ec.ec_number }}" 
-                                       class="ec-radio"
-                                       {% if forloop.first %}checked{% endif %}
+                                       value="manual"
+                                       class="ec-radio manual-radio"
                                        onchange="updateStepSelection({{ step.step_number }})">
-                                <span class="ec-label">
-                                    <span class="ec-number-text">{{ ec.ec_number }}</span>
-                                    {% if ec.name %}
-                                    <span class="ec-name">{{ ec.name }}</span>
-                                    {% endif %}
-                                </span>
-                                <span class="checkmark"></span>
+                                <span class="manual-label">Enter custom EC number</span>
+                                <input type="text" 
+                                       name="manual_ec_{{ step.step_number }}" 
+                                       class="manual-input"
+                                       placeholder="e.g., 1.2.3.4"
+                                       onfocus="selectManualRadio({{ step.step_number }})"
+                                       pattern="[0-9]+\.[0-9]+\.[0-9]+\.[0-9]+"
+                                       title="EC number format: x.x.x.x">
                             </label>
-                            {% endfor %}
                         </div>
-                    </div>
-
-                    <div class="manual-entry-section">
-                        <h4 class="section-title">Manual Entry</h4>
-                        <label class="manual-option">
-                            <input type="radio" 
-                                   name="selected_ec_{{ step.step_number }}" 
-                                   value="manual"
-                                   class="ec-radio manual-radio"
-                                   onchange="updateStepSelection({{ step.step_number }})">
-                            <span class="manual-label">Enter custom EC number</span>
-                            <input type="text" 
-                                   name="manual_ec_{{ step.step_number }}" 
-                                   class="manual-input"
-                                   placeholder="e.g., 1.2.3.4"
-                                   onfocus="selectManualRadio({{ step.step_number }})"
-                                   pattern="[0-9]+\.[0-9]+\.[0-9]+\.[0-9]+"
-                                   title="EC number format: x.x.x.x">
-                        </label>
-                    </div>
+                    {% endif %}
                 </div>
             </div>
             {% endfor %}
@@ -101,7 +223,6 @@
     </form>
 
 <style>
-
     .description-section {
         background: linear-gradient(135deg, #f2f7ff, var(--light-purple));
         border-left: 4px solid var(--primary-purple);
@@ -165,6 +286,14 @@
         transform: translateY(-2px);
     }
 
+    .step-card[data-step-type="green"] {
+        border-left: 4px solid #28a745;
+    }
+
+    .step-card[data-step-type="selenzyme"] {
+        border-left: 4px solid #17a2b8;
+    }
+
     /* Step Header */
     .step-header {
         display: flex;
@@ -173,6 +302,7 @@
         padding: 5px;
         background: linear-gradient(135deg, #f8f9fa 0%, #e9ecef 100%);
         border-bottom: 1px solid #dee2e6;
+        flex-wrap: wrap;
     }
 
     .step-number-badge {
@@ -183,6 +313,27 @@
         font-weight: 600;
         font-size: 0.9rem;
         white-space: nowrap;
+    }
+
+    .step-type-badge {
+        display: flex;
+        align-items: center;
+        gap: 6px;
+        padding: 5px 12px;
+        border-radius: 15px;
+        font-size: 0.85rem;
+        font-weight: 600;
+        white-space: nowrap;
+    }
+
+    .green-badge {
+        background: #d4edda;
+        color: #155724;
+    }
+
+    .selenzyme-badge {
+        background: #d1ecf1;
+        color: #0c5460;
     }
 
     .step-reaction {
@@ -227,10 +378,143 @@
         margin-bottom: 15px;
         padding-bottom: 6px;
         border-bottom: 2px solid #e9ecef;
+        display: flex;
+        align-items: center;
+        gap: 8px;
+    }
+
+    /* GREEN STEP STYLES */
+    .green-step-section {
+        padding: 10px;
+    }
+
+    .confirmed-ec-card {
+        display: flex;
+        align-items: center;
+        gap: 20px;
+        padding: 20px;
+        background: linear-gradient(135deg, #d4edda 0%, #c3e6cb 100%);
+        border: 2px solid #28a745;
+        border-radius: 12px;
+    }
+
+    .confirmed-icon {
+        flex-shrink: 0;
+        width: 50px;
+        height: 50px;
+        background: #28a745;
+        border-radius: 50%;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        color: white;
+    }
+
+    .confirmed-details {
+        flex: 1;
+    }
+
+    .confirmed-label {
+        font-size: 0.85rem;
+        color: #155724;
+        font-weight: 600;
+        text-transform: uppercase;
+        letter-spacing: 0.5px;
+        margin-bottom: 5px;
+    }
+
+    .confirmed-ec {
+        font-size: 1.4rem;
+        font-weight: 700;
+        color: #155724;
+        margin-bottom: 5px;
+    }
+
+    .confirmed-name {
+        font-size: 0.95rem;
+        color: #155724;
+        font-style: italic;
+    }
+
+    /* SELENZYME STEP STYLES */
+    .selenzyme-step-section {
+        display: flex;
+        flex-direction: column;
+        gap: 25px;
+    }
+
+    .smarts-info-box {
+        background: #f8f9fa;
+        border-radius: 8px;
+        padding: 15px;
+        border: 1px solid #dee2e6;
+    }
+
+    .smarts-table-wrapper {
+        overflow-x: auto;
+        margin-top: 15px;
+    }
+
+    .smarts-data-table {
+        width: 100%;
+        border-collapse: collapse;
+        background: white;
+        border-radius: 8px;
+        overflow: hidden;
+        box-shadow: 0 2px 8px rgba(0,0,0,0.05);
+    }
+
+    .smarts-data-table thead {
+        background: linear-gradient(135deg, #17a2b8 0%, #138496 100%);
+        color: white;
+    }
+
+    .smarts-data-table th {
+        padding: 12px;
+        text-align: left;
+        font-weight: 600;
+        font-size: 0.9rem;
+        text-transform: uppercase;
+        letter-spacing: 0.5px;
+    }
+
+    .smarts-data-table td {
+        padding: 12px;
+        border-bottom: 1px solid #dee2e6;
+        font-size: 0.95rem;
+    }
+
+    .smarts-data-table tbody tr:hover {
+        background: #f8f9fa;
+    }
+
+    .smarts-data-table tbody tr:last-child td {
+        border-bottom: none;
+    }
+
+    .ec-cell {
+        font-weight: 600;
+        color: #17a2b8;
+    }
+
+    .score-cell {
+        font-weight: 600;
+        color: #28a745;
+    }
+
+    .ec-source-badge {
+        display: inline-block;
+        background: #d1ecf1;
+        color: #0c5460;
+        padding: 2px 8px;
+        border-radius: 10px;
+        font-size: 0.75rem;
+        font-weight: 600;
+        margin-left: 8px;
     }
 
     /* EC Options Section */
-    .ec-options-section {
+    .ec-options-section, .ec-selection-section {
         margin-bottom: 25px;
     }
 
@@ -448,6 +732,20 @@
             flex-direction: column;
             align-items: stretch;
         }
+
+        .confirmed-ec-card {
+            flex-direction: column;
+            text-align: center;
+        }
+
+        .smarts-table-wrapper {
+            font-size: 0.85rem;
+        }
+
+        .smarts-data-table th,
+        .smarts-data-table td {
+            padding: 8px;
+        }
     }
 </style>
 
@@ -462,7 +760,14 @@ function updateStepSelection(stepNumber) {
     // Add visual feedback
     card.style.borderLeft = '4px solid var(--primary-purple)';
     setTimeout(() => {
-        card.style.borderLeft = '';
+        const stepType = card.getAttribute('data-step-type');
+        if (stepType === 'green') {
+            card.style.borderLeft = '4px solid #28a745';
+        } else if (stepType === 'selenzyme') {
+            card.style.borderLeft = '4px solid #17a2b8';
+        } else {
+            card.style.borderLeft = '';
+        }
     }, 300);
 }
 
@@ -481,6 +786,13 @@ document.getElementById('ec-selection-form').addEventListener('submit', function
     let isValid = true;
     
     stepCards.forEach((card, index) => {
+        const stepType = card.getAttribute('data-step-type');
+        
+        // Skip validation for green steps (they have hidden inputs)
+        if (stepType === 'green') {
+            return;
+        }
+        
         const manualRadio = card.querySelector('.manual-radio');
         const manualInput = card.querySelector('.manual-input');
         
@@ -520,6 +832,12 @@ document.getElementById('ec-selection-form').addEventListener('submit', function
 document.addEventListener('DOMContentLoaded', function() {
     console.log('EC Selection page loaded');
     console.log(`Total steps: ${document.querySelectorAll('.step-card').length}`);
+    
+    // Log step types for debugging
+    document.querySelectorAll('.step-card').forEach((card, index) => {
+        const stepType = card.getAttribute('data-step-type');
+        console.log(`Step ${index + 1}: ${stepType}`);
+    });
 });
 </script>
 {% endblock %}
