@@ -58,12 +58,6 @@
                         <!-- GREEN STEP: Display confirmed EC only -->
                         <div class="green-step-section">
                             <div class="confirmed-ec-card">
-                                <div class="confirmed-icon">
-                                    <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
-                                        <path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"></path>
-                                        <polyline points="22 4 12 14.01 9 11.01"></polyline>
-                                    </svg>
-                                </div>
                                 <div class="confirmed-details">
                                     <div class="confirmed-ec">{{ step.ecs.0.colored_ec|safe }}</div>
                                     {% if step.ecs.0.name %}
@@ -388,18 +382,6 @@
         align-items: center;
         gap: 20px;
         border-radius: 12px;
-    }
-
-    .confirmed-icon {
-        flex-shrink: 0;
-        width: 20px;
-        height: 20px;
-        background: #28a745;
-        border-radius: 50%;
-        display: flex;
-        align-items: center;
-        justify-content: center;
-        color: white;
     }
 
     .confirmed-details {
