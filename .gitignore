@@ -8,4 +8,4 @@ __pycache__/
 *__pycache__/
 *.DS_Store
 *.sqlite3
-django_tool/bacman/algorithms/codon_opt/fastas/
+*rp_results/

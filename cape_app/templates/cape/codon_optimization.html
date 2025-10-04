@@ -52,12 +52,12 @@
                     </div>
 
                     <div class="form-group">
-                        <label for="seed">Random Seed (optional)</label>
+                        <label for="seed">Random Seed (optional - used only for weighted method)</label>
                         <input type="text" 
                                name="seed" 
                                id="seed" 
                                class="form-input"
-                               placeholder="e.g., 42">
+                               placeholder="Default = 1">
                         <small class="form-hint">Set a seed for reproducible optimization results</small>
                     </div>
                 </div>
@@ -82,7 +82,7 @@
                                    value="GGTCTC,GCTCTTC"
                                    {% if 'GGTCTC,GCTCTTC' in restriction_options %}checked{% endif %}>
                             <span class="checkbox-content">
-                                <strong>Type IIS Golden Gate</strong>
+                                <strong>Type IIS RFC1000</strong>
                                 <span class="restriction-sites">BsaI: GGTCTC, SapI: GCTCTTC</span>
                             </span>
                         </label>

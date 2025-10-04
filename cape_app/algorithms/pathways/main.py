@@ -5,14 +5,14 @@ from .classes.classes_functions import *
 from .classes.rp_classes import *
 
 def main(start_inchi: str, end_inchi: str, start_name:str='', end_name:str=''):
-    PATHWAY_FOLDER = './cape_app/algorithms/pathways/data/Pathways'
+    script_dir = os.path.dirname(os.path.abspath(__file__))
+
+    PATHWAY_FOLDER = os.path.join(script_dir, 'data', 'Pathways')
     os.makedirs(PATHWAY_FOLDER, exist_ok=True)
 
     MAX_PATHS = 3
 
-    script_dir = os.path.dirname(os.path.abspath(__file__))
-    pathway_folder = os.path.join(script_dir, "../data/Pathways")
-    if not os.listdir(pathway_folder):
+    if not os.listdir(PATHWAY_FOLDER):
         raise('Warning: the Pathways folder is missing or empty.'
             'Download pathways before attempting to find shortest paths.')
 
