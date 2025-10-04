@@ -24,7 +24,8 @@ from .algorithms.codon_opt.backtranslate_pd630 import backtranslate_protein, wri
 # Color map needed to paint ec numbers to identify their origin
 COLOR_MAP = {'green': '#21b57c',
              'white': '#f2c94c',
-             'RetroPath': '#f2784c'}
+             'RetroPath': '#f2784c',
+             'noec': '#c726b9'}
 
 
 def homepage(request):
@@ -75,14 +76,12 @@ def pathways(request):
         p_inchi = request.POST.get("p_inchi")
         sink = request.POST.get("sink")
         f_inchi = request.POST.get("f_inchi")
-        num = request.POST.get("number")
 
-        # Compute pathways and the database using the function 'main'
-        pathways, db = main(p_inchi, f_inchi, pollutant, sink)
-
+        # Compute pathways using the function 'main'
+        pathways = main(p_inchi, f_inchi, pollutant, sink)
+        
         # Save the data in session
         request.session['pathways'] = pathways
-        request.session['database'] = db
         request.session['pollutant'] = pollutant
         request.session['sink'] = sink
         
@@ -93,10 +92,16 @@ def pathways(request):
             
             for i, step in enumerate(steps, 1):
                 start_compound, end_compound = step[0], step[2]
-                enzyme_ec, enzyme_color = step[1][0][0], step[1][0][1]
-
+                
+                default_enzyme = step[1][0] if step[1] else {}
+                enzyme_ec = default_enzyme.get('EC')
+                
                 # Map enzyme color
-                coloring = COLOR_MAP.get(enzyme_color, '#333333')
+                if enzyme_ec == 'noec':
+                    coloring = COLOR_MAP['noec']
+                else:
+                    coloring = COLOR_MAP.get(default_enzyme.get('color'), '#333333')
+                
                 colored_enzyme = f'<span style="color:{coloring}">{enzyme_ec}</span>'
                 
                 # Construct the step line
@@ -258,7 +263,7 @@ def orthologs(request):
                      # Append EC number only if not already marked as 'green'
                     if matching_ec and matching_ec['color'] != 'green':
                          non_green_ecs.append(selected_value)
-                                       
+
         # Run the ortholog search algorithm
         raw_result = process_ec_list(non_green_ecs)
 
