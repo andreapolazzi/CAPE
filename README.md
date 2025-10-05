@@ -50,18 +50,12 @@ If you want to just use the features of the tool without the web-based implement
 Each module can be used independently from one another, and they can be streamlined by the user as desired.
 See the documentation relative to each module's CLI below.
 
-### Basic Usage
-
-```bash
-python cape.py --input substrate.smi --host rhodococcus
-```
-
 ## Modules
 
 | Step | Description | Link |
 |------|--------------|------|
 | 1️. Pathway Prediction | Predicts viable metabolic routes from a starting compound to a desired product. | [Docs →](docs/pathway_prediction.md) |
-| 2️. Enzyme Selection | Retrieves enzyme candidates from databases (MetaNetX, Brenda, EXpasy) to aid identifying missing EC . | [Docs →](docs/enzyme_selection.md) |
+| 2️. Enzyme Selection | Retrieves enzyme candidates from databases (MetaNetX, Brenda, EXpasy) to aid identifying missing EC. | [Docs →](docs/enzyme_selection.md) |
 | 3️. Protein Retrieval | Retrieves and exports protein sequences in FASTA format. | [Docs →](docs/protein_retrieval.md) |
 | 4️. Codon Optimization | Adapts coding sequences for the selected chassis organism. | [Docs →](docs/codon_optimization.md) |
 
