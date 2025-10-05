@@ -3,7 +3,7 @@ Back-translate protein FASTA to codon-optimized DNA for Rhodococcus opacus PD630
 
 Features
 - Deterministic (max-frequency) or stochastic (frequency-weighted) codon choice
-- Avoid internal restriction sites (e.g., Golden Gate: BsaI/BsmBI/BbsI) on either strand
+- Avoid internal restriction sites (e.g., TypeIIS RFC1000: BsaI/BsmBI/BbsI) on either strand
 - Clean FASTA parser/writer; preserves headers
 - Extensible for other hosts by swapping the CODON_FREQ table
 
@@ -75,9 +75,9 @@ for codon, aa in CODON_TO_AA.items():
 
 # Assembly presets: recognition sequences to forbid (sense; reverse complements will be auto-blocked)
 ASSEMBLY_PRESETS: Dict[str, List[str]] = {
-    # Type IIS Golden Gate
+    # Type IIS RFC1000
     # BsaI: GGTCTC, SapI: GCTCTTC
-    "golden_gate": ["GGTCTC", "GCTCTTC"],
+    "typeIIS": ["GGTCTC", "GCTCTTC"],
     # BioBrick RFC10
     # EcoRI: GAATTC, XbaI: TCTAGA, SpeI: ACTAGT, PstI: CTGCAG, NotI: GCGGCCGC
     "biobrick": ["GAATTC", "TCTAGA", "ACTAGT", "CTGCAG", "GCGGCCGC"],
@@ -86,7 +86,7 @@ ASSEMBLY_PRESETS: Dict[str, List[str]] = {
 }
 
 # Default restriction sites (kept for backward compatibility if user does not specify --assembly)
-DEFAULT_FORBIDDEN = ["GGTCTC", "GCTCTTC"]  # BsaI, SapI (Golden Gate core)
+DEFAULT_FORBIDDEN = ["GGTCTC", "GCTCTTC"]  # BsaI, SapI (RFC1000 core)
 
 
 def reverse_complement(seq: str) -> str:
@@ -397,7 +397,7 @@ def main():
     parser.add_argument("--seed", type=int, default=1, 
                        help="Random seed for weighted mode (default: 1)")
     parser.add_argument("--forbid", nargs="*", default=DEFAULT_FORBIDDEN,
-                       help="Restriction sites to avoid (default: Golden Gate sites)")
+                       help="Restriction sites to avoid (default: Type IIS RFC1000 sites)")
     parser.add_argument("--max-backtrack", type=int, default=10,
                    help="Maximum positions to backtrack when stuck (default: 10)")
     parser.add_argument(
@@ -407,8 +407,8 @@ def main():
         default=["none"],
         help=(
             "Assembly preset(s) to apply for illegal site exclusion. "
-            "Options: golden_gate (BsaI,SapI), biobrick (EcoRI,XbaI,SpeI,PstI,NotI), none. "
-            "You can pass multiple, e.g. --assembly golden_gate biobrick"
+            "Options: typeIIS (BsaI,SapI), biobrick (EcoRI,XbaI,SpeI,PstI,NotI), none. "
+            "You can pass multiple, e.g. --assembly typeIIS biobrick"
         ),
     )
     
