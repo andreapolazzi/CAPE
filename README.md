@@ -18,26 +18,26 @@ To run a local host of the web app, you must have both [Django](https://docs.dja
 
 Then, on a Linux-like terminal:
 
-Clone the GitHub repository
+- Clone the GitHub repository
 
 ```bash
 git clone https://github.com/andreapolazzi/CAPE.git
 ```
 
-Create the conda environment (inside the repository)
+- Create the conda environment (inside the repository)
 
 ```bash
 cd CAPE
 conda env create -f environment.yml
 ```
 
-Activate the environment
+- Activate the environment
 
 ```bash
 conda activate cape
 ```
 
-Run the server
+- Run the server
 
 ```bash
 python manage.py runserver
@@ -55,8 +55,6 @@ See the documentation relative to each module below.
 ```bash
 python cape.py --input substrate.smi --host rhodococcus
 ```
-
-See the [Quickstart Guide →](docs/quickstart.md)
 
 ## Modules
 
