@@ -56,7 +56,6 @@ python cape_app/algorithms/selenzyme/noec_api.py \
 ### Customisation Tips
 
 - **Base URL overrides**: point `--api-url` to an alternate SelenzymeRF deployment or a local cache.
-- **Alignment control**: expose the `noMSA` toggle (currently fixed to `True`) through CLI flags if alignment outputs become necessary.
 - **Retry strategy**: wrap `query_smarts` with backoff logic or swap to a persistent `requests.Session` for large-scale batch jobs.
 
 [← Back to Home](../README.md)
