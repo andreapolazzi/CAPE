@@ -163,7 +163,6 @@ Examples:
   %(prog)s 1.14.12.15 3.1.1.1                  # Process multiple EC numbers
   %(prog)s --file ec_numbers.txt                # Process EC numbers from file
   %(prog)s 1.14.12.15 --outdir results/        # Save to CSV files
-  %(prog)s 1.14.12.15 --json results.json      # Save to JSON file
   %(prog)s 1.14.12.15 --include-hidden         # Include suspect sequences in output
         """
     )
