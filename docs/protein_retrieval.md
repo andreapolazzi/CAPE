@@ -21,4 +21,4 @@ python -m cape.protein_retrieval --input enzymes.csv --output proteins.fasta
 - Uses NCBI Entrez API for sequence retrieval.
 - Returns all matching entries for user curation.
 
-[← Back to Home](../README2.md)
+[← Back to Home](../README.md)
