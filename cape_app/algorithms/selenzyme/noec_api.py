@@ -70,7 +70,7 @@ def query_smarts(
                 smarts=smarts_pattern,
                 targets=targets,
                 host=host,
-                noMSA=True,
+                noMSA=False,
                 timeout=timeout
             )
             results[smarts_pattern] = df
