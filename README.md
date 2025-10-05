@@ -45,7 +45,7 @@ python manage.py runserver
 
 You can access the web tool by navigating to <http://127.0.0.1:8000/>.
 
-## Installation
+### Installation
 
 If you want to just use the features of the tool without the web-based implementation, follow the instruction as above (Django is not required in this case).
 
@@ -60,6 +60,11 @@ See the documentation relative to each module's CLI below.
 | 2️. Enzyme Selection | Retrieves enzyme candidates from databases (MetaNetX, Brenda, EXpasy) to aid identifying missing EC. | [Docs →](docs/enzyme_selection.md) |
 | 3️. Protein Retrieval | Retrieves and exports protein sequences in FASTA format. | [Docs →](docs/protein_retrieval.md) |
 | 4️. Codon Optimization | Adapts coding sequences for the selected chassis organism. | [Docs →](docs/codon_optimization.md) |
+
+As indicated in the documentation files, the scripts can be found under cape_app/algorithms.
+The rest of the files and directories under cape_app/ are standard Django files, or either templates or images needed for the web implementation.
+
+CAPE_project/ is the standard project folder created for Django usage.
 
 ## Pipeline Overview
 
