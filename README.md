@@ -43,6 +43,8 @@ conda activate cape
 python manage.py runserver
 ```
 
+You can access the web tool by navigating to <http://127.0.0.1:8000/>.
+
 ## Installation
 
 If you want to just use the features of the tool without the web-based implementation, follow the instruction as above (Django is not required in this case).

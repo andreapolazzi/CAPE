@@ -29,4 +29,4 @@ python -m cape.enzyme_selection --input pathway.csv --output enzymes.csv
 |----|---------|-----------|--------|
 | 1.1.1.1 | Alcohol dehydrogenase | *E. coli* | 0.91 |
 
-[← Back to Home](../README2.md)
+[← Back to Home](../README.md)
