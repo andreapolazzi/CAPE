@@ -25,8 +25,8 @@ python -m cape.enzyme_selection --input pathway.csv --output enzymes.csv
 
 ## Example Output
 
-| EC | Enzyme | Organism | Score | FASTA |
-|----|---------|-----------|--------|--------|
-| 1.1.1.1 | Alcohol dehydrogenase | *E. coli* | 0.91 | [Download](#) |
+| EC | Enzyme | Organism | Score |
+|----|---------|-----------|--------|
+| 1.1.1.1 | Alcohol dehydrogenase | *E. coli* | 0.91 |
 
 [← Back to Home](../README2.md)
