@@ -56,15 +56,14 @@ See the documentation relative to each module's CLI below.
 
 | Step | Description | Link |
 |------|--------------|------|
-| 1️. Pathway Prediction | Predicts viable metabolic routes from a starting compound to a desired product. | [Docs →](docs/pathway_prediction.md) |
-| 2️. Enzyme Selection | Retrieves enzyme candidates from databases (MetaNetX, Brenda, EXpasy) to aid identifying missing EC. | [Docs →](docs/enzyme_selection.md) |
-| 3️. Protein Retrieval | Retrieves and exports protein sequences in FASTA format. | [Docs →](docs/protein_retrieval.md) |
-| 4️. Codon Optimization | Adapts coding sequences for the selected chassis organism. | [Docs →](docs/codon_optimization.md) |
+| **1️. Pathway Prediction** | Predicts viable metabolic routes from a starting compound to a desired product. | [Docs →](docs/pathway_prediction.md) |
+| **2️. Enzyme Selection** | Retrieves enzyme candidates from databases (MetaNetX, Brenda, EXpasy) to aid identifying missing EC. | [Docs →](docs/enzyme_selection.md) |
+| **3️. Protein Retrieval** | Retrieves and exports protein sequences in FASTA format. | [Docs →](docs/protein_retrieval.md) |
+| **4️. Codon Optimization** | Adapts coding sequences for the selected chassis organism. | [Docs →](docs/codon_optimization.md) |
 
-As indicated in the documentation files, the scripts can be found under cape_app/algorithms.
-The rest of the files and directories under cape_app/ are standard Django files, or either templates or images needed for the web implementation.
+As indicated in the documentation files, the scripts can be found under `cape_app/algorithms`.
 
-CAPE_project/ is the standard project folder created for Django usage.
+In the `export/` folder you can find the **HERO parts** and the **_pLoxship_** files, displayed and downloadable in the final export section (for the web tool).
 
 ## Pipeline Overview
 
