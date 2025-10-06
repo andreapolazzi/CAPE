@@ -6,9 +6,15 @@
 
 {% block content %}
   <main class="main-content">
-    <div class="summary-header">
-      <h1>Your Selection</h1>
-      <p>Please review your selected sequences. Click "Confirm my choice" to proceed with the creation of the plasmid.</p>
+    <div class="description-section">
+      <h2>Review Your Selection</h2>
+      <p>
+        Please review your selected sequences. When ready, click <strong>"Confirm my choice"</strong> to proceed with the codon optimization of the protein sequences for
+        <strong>Rhodococcus opacus PD630</strong>.
+      </p>
+      <p>
+        Verify that each EC number includes the desired protein entries and adjust your selection in the previous step if any refinements are needed before moving forward.
+      </p>
     </div>
 
     {% for ec in summary_ordered %}
@@ -78,22 +84,46 @@
         min-height: calc(100vh - 100px);
     }
 
-    .summary-header {
-        text-align: center;
-        margin-bottom: 40px;
-        padding: 20px;
-        background: linear-gradient(135deg, #e9f5e9, #d4edda);
-        border-radius: 12px;
+    .description-section {
+        background: linear-gradient(135deg, #f2f7ff, var(--light-purple));
+        border-left: 4px solid var(--primary-purple);
+        padding: 30px;
+        margin: 15px;
+        margin-bottom: 50px;
+        border-radius: 8px;
+        position: relative;
     }
 
-    .summary-header h1 {
-        color: #2e8b57;
-        margin-bottom: 10px;
+    .description-section::before {
+        content: '\\f05a';
+        font-family: 'Font Awesome 6 Free';
+        font-weight: 900;
+        position: absolute;
+        top: 30px;
+        left: -15px;
+        background: var(--primary-purple);
+        color: var(--white);
+        width: 30px;
+        height: 30px;
+        border-radius: 50%;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        font-size: 14px;
     }
 
-    .summary-header p {
-        color: #4CAF50;
-        font-size: 1.1rem;
+    .description-section h2 {
+        color: var(--primary-purple);
+        margin-bottom: 16px;
+        font-size: 1.5em;
+        text-align: left;
+    }
+
+    .description-section p {
+        color: var(--text-dark);
+        line-height: 1.5;
+        font-size: 0.9rem;
+        margin-top: 15px;
     }
 
     /* Enzyme Grid */
