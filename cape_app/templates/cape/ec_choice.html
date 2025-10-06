@@ -19,17 +19,17 @@
             Some steps have predetermined enzymes, while others require you to choose from predicted candidates.
         </p>
         <div class="color-legend">
-            <div class="legend-row"><span class="legend-square legend-green"></span><span>annotated to be already present in Rhodococcus opacus PD630</span></div>
+            <div class="legend-row"><span class="legend-square legend-green"></span><span>annotated to be already present in <em>Rhodococcus opacus</em> PD630</span></div>
             <div class="legend-row"><span class="legend-square legend-yellow"></span><span>not present in PD630 but found in other organisms</span></div>
             <div class="legend-row"><span class="legend-square legend-orange"></span><span>predicted by RetroPath2.0</span></div>
             <div class="legend-row"><span class="legend-square legend-purple"></span><span>predicted, but no EC associated</span></div>
         </div>
         <p>
-            For reactions without an assigned EC number, the corresponding SMARTS representation is used to perform a similarity search in the SelenzymeRF database via an API call.
+            For reactions without an assigned EC number, the corresponding SMARTS representation is used to perform a similarity search in the <strong>SelenzymeRF</strong> database via an API call.
             The results are returned as a table displaying information on candidate proteins that are likely to catalyze the desired reaction. Based on this information, you can
             select a suitable representative enzyme to assign the corresponding EC number.
         </p>
-        <p>Otherwise, you can enter a custom EC number of your choice.</p>
+        <p>Otherwise, you can enter a <strong>custom EC number</strong> of your choice.</p>
     </div>
 
     <!-- EC Selection Form -->
@@ -538,9 +538,11 @@
         border: 2px solid #dee2e6;
         border-radius: 8px;
         cursor: pointer;
-        transition: all 0.3s ease;
+        transition: background 0.3s ease, border-color 0.3s ease; /* avoid animating size or position */
         position: relative;
         background: white;
+        box-sizing: border-box;
+        will-change: background, border-color; /* hint for smoothness */
     }
 
     .ec-option:hover {
@@ -589,21 +591,26 @@
 
     .checkmark {
         position: absolute;
-        left: 15px;
-        height: 20px;
-        width: 20px;
+        left: 10px;
+        top: 50%;
+        transform: translateY(-50%);
+        height: 16px;
+        width: 16px;
         background-color: white;
         border: 2px solid #dee2e6;
         border-radius: 50%;
         transition: all 0.3s ease;
+    }
+    .checkmark {
+        flex-shrink: 0;
     }
 
     .checkmark::after {
         content: "";
         position: absolute;
         display: none;
-        left: 6px;
-        top: 3px;
+        left: 3px;
+        top: 0px;
         width: 4px;
         height: 8px;
         border: solid white;
