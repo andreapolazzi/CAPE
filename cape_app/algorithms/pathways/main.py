@@ -37,20 +37,20 @@ def main(start_inchi: str, end_inchi: str, start_name:str='', end_name:str=''):
         print('trying to call retropath')
         RP.django_call(name=start_name, inchi=start_inchi, steps=7)
         print("generating tsv from retropath results")
-        RpOutput.tsv_generator(results_path="./cape_app/algorithms/pathways/rp_results/results.csv", 
-                               outdir="./cape_app/algorithms/pathways/rp_results/")
+        RpOutput.tsv_generator(results_path="./cape_app/pipeline_results/rp_results/results.csv", 
+                               outdir="./cape_app/pipeline_results/rp_results/")
         print("standardizing retropath edges")
-        Std.main(tsv_edges_path="./cape_app/algorithms/pathways/rp_results/rp_edges.tsv", 
-                 edges_std_path="./cape_app/algorithms/pathways/rp_results/rp_std_edges.tsv", 
+        Std.main(tsv_edges_path="./cape_app/pipeline_results/rp_results/rp_edges.tsv", 
+                 edges_std_path="./cape_app/pipeline_results/rp_results/rp_std_edges.tsv", 
                  processes=64)
         print("adding weights to retropath edges")
-        Penalty.main(std_path="./cape_app/algorithms/pathways/rp_results/rp_std_edges.tsv", 
-                     weighted_path="./cape_app/algorithms/pathways/rp_results/rp_weighted_edges.tsv")
+        Penalty.main(std_path="./cape_app/pipeline_results/rp_results/rp_std_edges.tsv", 
+                     weighted_path="./cape_app/pipeline_results/rp_results/rp_weighted_edges.tsv")
         
         # Add new edges to G and update dictionaries with new info
         print("trying to add retropath edges to graph")
-        G, name_to_ik, ik_to_name = build_graph_from_tsv(G,method="RetroPath", 
-                                                                    outdir="./cape_app/algorithms/pathways/rp_results/")
+        G, name_to_ik, ik_to_name = build_graph_from_tsv(G,method="RetroPath",
+                                                         outdir="./cape_app/pipeline_results/rp_results/")
         # Re-run path search
         print("re-running path search")
         paths = k_shortest_paths(G, start_ik, end_ik, ik_to_name, name_to_ik, K=MAX_PATHS)
