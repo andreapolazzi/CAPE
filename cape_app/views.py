@@ -26,7 +26,7 @@ from .algorithms.selenzyme.noec_api import query_smarts
 COLOR_MAP = {'green': '#21b57c',
              'white': '#f2c94c',
              'RetroPath': '#f2784c',
-             'noec': '#c726b9'}
+             'NOEC': '#c726b9'}
 
 
 def homepage(request):
@@ -108,7 +108,7 @@ def pathways(request):
                 enzyme_ec = default_enzyme.get('EC')
                 
                 # Map enzyme color
-                if enzyme_ec == 'noec':
+                if enzyme_ec == 'NOEC':
                     coloring = COLOR_MAP['noec']
                 else:
                     coloring = COLOR_MAP.get(default_enzyme.get('color'), '#333333')
@@ -192,7 +192,7 @@ def ec_choice(request):
                                 'EC': enzyme_ec,
                                 **enzyme_info}
                 
-                if enzyme_ec == 'noec' and 'smarts' in enzyme_info:
+                if enzyme_ec == 'NOEC' and 'smarts' in enzyme_info:
                     data = query_smarts(enzyme_info['smarts'])
                     enzyme_entry['data'] = data
                     enzyme_entry['ec_selenzyme'] = data['EC Number'].dropna().unique().tolist()
@@ -264,27 +264,29 @@ def orthologs(request):
 
         # Iterate through all steps to collect selected EC numbers
         for step in detailed_steps:
-            step_n = step['step_number']
-
-            selected_key = f'selected_ec_{step_n}'
-            selected_value = request.POST.get(selected_key, '').strip()
+            step_number = step['step_number']
+            selected_value = request.POST.get(f'selected_ec_{step_number}', '').strip()
 
             if selected_value:
-                if selected_value == 'manual':
-                    # User provided a manual EC number
-                    manual_key = f'manual_ec_{step_n}'
-                    manual_ec = request.POST.get(manual_key, '').strip()
 
+                # User provided a manual EC number
+                if selected_value == 'manual':
+                    manual_ec = request.POST.get(f'manual_ec_{step_number}', '').strip()
                     if manual_ec:
                         non_green_ecs.append(manual_ec)
                 
                 else:
-                    # Check the selected EC in the step details
-                    matching_ec = next((ec for ec in step['ecs'] if ec['ec_number'] == selected_value), None)
+                    matching_ec = None
+                    for ec_entry in step['ecs']:
+                        if ec_entry.get('EC') == selected_value:
+                            matching_ec = ec_entry
 
-                     # Append EC number only if not already marked as 'green'
-                    if matching_ec and matching_ec['color'] != 'green':
-                         non_green_ecs.append(selected_value)
+                        if 'ec_selenzyme' in ec_entry and selected_value in ec_entry['ec_selenzyme']:
+                            matching_ec = ec_entry
+                    
+                    # Append EC number only if not already marked as 'green'
+                    if matching_ec and matching_ec.get('color') != 'green':
+                        non_green_ecs.append(selected_value)
 
         # Run the ortholog search algorithm
         raw_result = process_ec_list(non_green_ecs)
