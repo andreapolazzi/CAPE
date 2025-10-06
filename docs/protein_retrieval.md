@@ -52,7 +52,6 @@ python cape_app/algorithms/orthologs/processing.py \
 - `--file` / `-f`: point to a file of EC numbers (one per line) to avoid long CLI invocations.
 - `--outdir` / `-o`: directory in which to save CSV results; if omitted, results print to stdout only.
 - `--include-hidden`: instructs the exporter to write suspect entries alongside the curated set.
-- `batch_size` / `chunk_size`: tunable fetch sizes exposed via `ncbiprot_api.fetch_protein_ids` and `fetch_sequences` should you call the functions directly.
 
 ### Customisation Tips
 

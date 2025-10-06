@@ -47,7 +47,7 @@ python cape_app/algorithms/codon_opt/backtranslate_pd630.py \
 
 - ``--input``/``--output``: required paths to the .faa source and .fna sink.
 - ``--mode``: ``max`` (default) or ``weighted`` stochastic sampling; pairing with ``--seed`` ensures reproducibility.
-- ``--assembly``: optional preset(s) for common cloning standards (``golden_gate``, ``biobrick``); defaults to ``none``.
+- ``--assembly``: optional preset(s) for common cloning standards (``typeIIS``, ``biobrick``); defaults to ``none``.
 - ``--forbid``: extra motifs to avoid beyond the presets; accepts multiple space-separated sequences.
 - ``--max-backtrack``: limits how many prior residues can be revisited when searching for a legal codon.
 
