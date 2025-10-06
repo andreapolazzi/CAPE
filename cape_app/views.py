@@ -55,7 +55,7 @@ def pathways(request):
         sink (str): final compound to reach
         p_inchi (str): InChi code of the pollutant
         f_inchi (str): InChi code of the sink compound
-        num (int): number of pathways to return
+        max_paths (int): number of pathways to return
 
     Session Data - write:
         pathways: raw pathways data
@@ -78,13 +78,23 @@ def pathways(request):
         sink = request.POST.get("sink")
         f_inchi = request.POST.get("f_inchi")
 
+        # Determine how many pathways the user asked for, default to 3 on invalid input
+        max_paths_raw = request.POST.get("max_paths")
+        try:
+            max_paths = int(max_paths_raw)
+            if max_paths <= 0:
+                raise ValueError
+        except (TypeError, ValueError):
+            max_paths = 3
+
         # Compute pathways using the function 'main'
-        pathways = main(p_inchi, f_inchi, pollutant, sink)
+        pathways = main(p_inchi, f_inchi, pollutant, sink, max_paths)
         
         # Save the data in session
         request.session['pathways'] = pathways
         request.session['pollutant'] = pollutant
         request.session['sink'] = sink
+        request.session['requested_paths'] = max_paths
         
         # Build HTML representation of each pathway in the form:
         path_text = []
@@ -113,7 +123,8 @@ def pathways(request):
         # Prepare context for rendering the template
         context = {'pathways': enumerate(path_text),
                    'pollutant': pollutant,
-                   'sink': sink}
+                   'sink': sink,
+                   'requested_paths': max_paths}
 
         # Render the template with the data 'context'
         return render(request, 'cape/pathways.html', context )
