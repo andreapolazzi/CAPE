@@ -109,7 +109,7 @@ def pathways(request):
                 
                 # Map enzyme color
                 if enzyme_ec == 'NOEC':
-                    coloring = COLOR_MAP['noec']
+                    coloring = COLOR_MAP['NOEC']
                 else:
                     coloring = COLOR_MAP.get(default_enzyme.get('color'), '#333333')
                 
