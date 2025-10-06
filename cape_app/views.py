@@ -453,9 +453,9 @@ def codon_optimization(request):
 
             fasta_entries.append((header, seq))
 
-        write_fasta(fasta_entries, './cape_app/pipeline_results/opt_genes_pd630.fasta')
+        write_fasta(fasta_entries, './cape_app/pipeline_results/codon_opt_results/opt_genes_pd630.fna')
 
-        fasta_output = open('.cape_app/pipeline_results/opt_genes_pd630.fasta').read()
+        fasta_output = open('.cape_app/pipeline_results/codon_opt_results/opt_genes_pd630.fna').read()
 
         # Save the optimized sequences in session for downstream use
         request.session['fasta_output'] = fasta_output
