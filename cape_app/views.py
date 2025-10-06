@@ -455,7 +455,9 @@ def codon_optimization(request):
 
         write_fasta(fasta_entries, './cape_app/pipeline_results/codon_opt_results/opt_genes_pd630.fna')
 
-        fasta_output = open('.cape_app/pipeline_results/codon_opt_results/opt_genes_pd630.fna').read()
+        fasta_output = open('./cape_app/pipeline_results/codon_opt_results/opt_genes_pd630.fna').read()
+
+        fasta_output.close()
 
         # Save the optimized sequences in session for downstream use
         request.session['fasta_output'] = fasta_output
@@ -476,10 +478,10 @@ def download_fasta(request):
     Supported method: GET (or POST)
 
     Session data - read:
-        fasta_output: codon-optimized sequences in FASTA format
+        fasta_output: codon-optimized sequences in FASTA (.fna) format
 
     Output - HttpResponse:
-        - If FASTA is available: a downloadable file named 'my_sequences.fasta'
+        - If FASTA is available: a downloadable file named 'opt_genes_pd630.fna'
         - If FASTA is not available: a plain text message indicating the user should run codon optimization first
     """
 
@@ -492,7 +494,7 @@ def download_fasta(request):
 
     # Return FASTA as a downloadable file
     response = HttpResponse(fasta_output, content_type='text/plain')
-    response['Content-Disposition'] = 'attachment; filename="genes_pd630.fasta"'
+    response['Content-Disposition'] = 'attachment; filename="opt_genes_pd630.fna"'
     return response
 
 
