@@ -54,23 +54,55 @@ def try_float(x):
             return x
 
 
-def build_graph_from_tsv(G:nx.MultiDiGraph=nx.MultiDiGraph(), method:str="KEGG", rp_outdir:str="../rp_results"):
+def build_graph_from_tsv(G:nx.MultiDiGraph=nx.MultiDiGraph(), 
+                         method:str="KEGG", 
+                         rp_outdir:str="./cape_app/pipeline_results/rp_results"):
     """
     Takes a nx MultiDiGraph G (or creates a new empty one) and adds edges from the KEGG tsv files or form the RP results (depending on the method param).
     Returns G
     """
-    script_dir = os.path.dirname(os.path.abspath(__file__))
-    pathway_folder = os.path.join(script_dir, "../data/Pathways")
-    for filename in (f for f in os.listdir(pathway_folder) if f.endswith("_edges.tsv")):
-        with open(os.path.join(script_dir, "../data/Pathways/")+filename, newline="") as f:
-            reader = csv.DictReader(f, delimiter="\t")
-            for row in reader:
-                source = row["source_inchi_key"]
-                target = row["target_inchi_key"]
-                # Define attributes (all except inchikeys) (they might be floats or strings)
-                attrs = {k: try_float(v) for k, v in row.items() if k not in ("source_inchi_key", "target_inchi_key")}
-                G.add_edge(source, target, **attrs) # add edge, nodes will be added automatically
-    return G
+    # script_dir = os.path.dirname(os.path.abspath(__file__))
+    # pathway_folder = os.path.join(script_dir, "../data/Pathways")
+    # for filename in (f for f in os.listdir(pathway_folder) if f.endswith("_edges.tsv")):
+    #     with open(os.path.join(script_dir, "../data/Pathways/")+filename, newline="") as f:
+    #         reader = csv.DictReader(f, delimiter="\t")
+    #         for row in reader:
+    #             source = row["source_inchi_key"]
+    #             target = row["target_inchi_key"]
+    #             # Define attributes (all except inchikeys) (they might be floats or strings)
+    #             attrs = {k: try_float(v) for k, v in row.items() if k not in ("source_inchi_key", "target_inchi_key")}
+    #             G.add_edge(source, target, **attrs) # add edge, nodes will be added automatically
+    # return G
+    #script_dir = os.path.dirname(os.path.abspath(__file__))
+    #pathway_folder = os.path.join(script_dir, "../data/Pathways")
+    if method=="KEGG":
+        pathway_folder = "./cape_app/algorithms/pathways/data/Pathways/"
+        for filename in (f for f in os.listdir(pathway_folder) if f.endswith("_edges.tsv")):
+            with open(pathway_folder + filename, newline="") as f:
+                reader = csv.DictReader(f, delimiter="\t")
+                for row in reader:
+                    source = row["source_inchi_key"]
+                    target = row["target_inchi_key"]
+                    # Define attributes (all except inchikeys) (they might be floats or strings)
+                    attrs = {k: try_float(v) for k, v in row.items() if k not in ("source_inchi_key", "target_inchi_key")}
+                    G.add_edge(source, target, **attrs) # add edge, nodes will be added automatically
+        return G
+    elif method=="RetroPath":
+        pathway_folder = rp_outdir
+        for filename in (f for f in os.listdir(pathway_folder) if f.endswith("weighted_edges.tsv")):
+            print("adding edges from "+pathway_folder + filename)
+            with open(pathway_folder + filename, newline="") as f:
+                print("opened file")
+                reader = csv.DictReader(f, delimiter="\t")
+                for row in reader:
+                    source = row["source_inchi_key"]
+                    target = row["target_inchi_key"]
+                    # Define attributes (all except inchikeys) (they might be floats or strings)
+                    attrs = {k: try_float(v) for k, v in row.items() if k not in ("source_inchi_key", "target_inchi_key")}
+                    G.add_edge(source, target, **attrs) # add edge, nodes will be added automatically
+                    print("added edge from "+source+" to "+target)
+        return G
+    
 
 
 def multigraph_to_digraph(Multi_G: nx.MultiDiGraph) -> nx.DiGraph:

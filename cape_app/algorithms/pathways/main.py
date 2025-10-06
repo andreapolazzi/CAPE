@@ -33,7 +33,12 @@ def main(start_inchi: str, end_inchi: str, start_name:str='', end_name:str='', m
     # RetroPath fallback
     try:
         if end_ik not in G.nodes:
-            raise Exception("Warning: CAPE uses RetroPath only to connect the pollutant to Rhodococcus opacus PD630's central metabolites, but it does not connect the goal compound to them.")
+            print(("Warning: CAPE uses RetroPath only to connect the pollutant " \
+            "to Rhodococcus opacus PD630's central metabolites, but it " \
+            "does not connect the goal compound to them."))
+            raise Exception("Warning: CAPE uses RetroPath only to connect the pollutant " \
+            "to Rhodococcus opacus PD630's central metabolites, but it " \
+            "does not connect the goal compound to them.")
         
         print('trying to call retropath')
         RP.django_call(name=start_name, inchi=start_inchi, steps=7)
@@ -50,11 +55,11 @@ def main(start_inchi: str, end_inchi: str, start_name:str='', end_name:str='', m
         
         # Add new edges to G and update dictionaries with new info
         print("trying to add retropath edges to graph")
-        G, name_to_ik, ik_to_name = build_graph_from_tsv(G,method="RetroPath",
-                                                         outdir="./cape_app/pipeline_results/rp_results/")
+        G = build_graph_from_tsv(G, method="RetroPath",
+                                 rp_outdir="./cape_app/pipeline_results/rp_results/")
         # Re-run path search
         print("re-running path search")
-        paths = k_shortest_paths(G, start_ik, end_ik, ik_to_name, name_to_ik, K=max_paths)
+        paths = k_shortest_paths(G, start_ik, end_ik, K=max_paths)
         if not paths:
             return False # Still no paths found, even after successfully adding Retropath edges
         else: # Paths found, return the results
