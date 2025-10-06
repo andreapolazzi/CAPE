@@ -4,13 +4,14 @@ from .classes.chem_utils import *
 from .classes.classes_functions import *
 from .classes.rp_classes import *
 
-def main(start_inchi: str, end_inchi: str, start_name:str='', end_name:str=''):
+def main(start_inchi: str, end_inchi: str, start_name:str='', end_name:str='', max_paths: int = 3):
     script_dir = os.path.dirname(os.path.abspath(__file__))
 
     PATHWAY_FOLDER = os.path.join(script_dir, 'data', 'Pathways')
     os.makedirs(PATHWAY_FOLDER, exist_ok=True)
 
-    MAX_PATHS = 3
+    if max_paths <= 0:
+        max_paths = 3
 
     if not os.listdir(PATHWAY_FOLDER):
         raise('Warning: the Pathways folder is missing or empty.'
@@ -25,7 +26,7 @@ def main(start_inchi: str, end_inchi: str, start_name:str='', end_name:str=''):
     # Check if start or end is missing in G
     if start_ik in G.nodes and end_ik in G.nodes:
         print("trying kegg")
-        paths = k_shortest_paths(G, start_ik, end_ik, K=MAX_PATHS)
+        paths = k_shortest_paths(G, start_ik, end_ik, K=max_paths)
         if paths: # Paths found, return the results
             return paths
 
@@ -53,7 +54,7 @@ def main(start_inchi: str, end_inchi: str, start_name:str='', end_name:str=''):
                                                          outdir="./cape_app/pipeline_results/rp_results/")
         # Re-run path search
         print("re-running path search")
-        paths = k_shortest_paths(G, start_ik, end_ik, ik_to_name, name_to_ik, K=MAX_PATHS)
+        paths = k_shortest_paths(G, start_ik, end_ik, ik_to_name, name_to_ik, K=max_paths)
         if not paths:
             return False # Still no paths found, even after successfully adding Retropath edges
         else: # Paths found, return the results

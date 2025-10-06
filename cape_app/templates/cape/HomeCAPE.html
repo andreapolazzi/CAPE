@@ -23,6 +23,7 @@
                 <input type="text" name="p_inchi" class="input-field" placeholder="Insert InChI of pollutant" required>
                 <input type="text" name="sink" class="input-field" placeholder="Insert final compound" required>
                 <input type="text" name="f_inchi" class="input-field" placeholder="Insert InChI of the final compound" required>
+                <input type="number" name="max_paths" class="input-field" placeholder="Number of pathways (default 3)" min="1">
                 <button type="submit" class="create-btn">Submit</button>
             </form>
             
@@ -53,7 +54,6 @@
     </div>
 </main>
 {% endblock %}
-
 
 
 
