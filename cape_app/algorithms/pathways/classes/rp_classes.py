@@ -432,8 +432,10 @@ class RpOutput():
         """
         df['EC number'] = df['EC number'].apply(lambda x: x.strip('[]'))
         df['enzyme_name'] = df['EC number'].apply(lambda x: x if x == 'NOEC' else 'Unknown')
-        df['source_name'] = 'Unknown'
-        df['target_name'] = 'Unknown'
+        #df['source_name'] = 'Unknown'
+        df['source_name'] = df['Substrate InChI']
+        #df['target_name'] = 'Unknown'
+        df['target_name'] = df['Product InChI']
         df['color'] = 'RetroPath'
         df['RPscore'] = df['Score'] + 2  # adding RP penalty for later weighting
 
