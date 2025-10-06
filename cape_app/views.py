@@ -448,13 +448,13 @@ def codon_optimization(request):
         for seq_info in selected_sequences:
             # Optimize the protein sequence into a DNA sequence
             seq = backtranslate_protein(seq_info['sequence'], optimization_method,  rng, final_restriction_sites)
-            header = f">{seq_info['ec']}|{seq_info['organism']}|{seq_info['header']}"
+            header = f"{seq_info['ec']}|{seq_info['organism']}|{seq_info['header']}"
 
             fasta_entries.append((header, seq))
 
-        write_fasta(fasta_entries, 'pipeline_results/opt_genes_pd630.fasta')
+        write_fasta(fasta_entries, './cape_app/pipeline_results/opt_genes_pd630.fasta')
 
-        fasta_output = open('pipeline_results/opt_genes_pd630.fasta').read()
+        fasta_output = open('.cape_app/pipeline_results/opt_genes_pd630.fasta').read()
 
         # Save the optimized sequences in session for downstream use
         request.session['fasta_output'] = fasta_output
