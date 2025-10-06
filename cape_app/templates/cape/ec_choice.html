@@ -15,9 +15,21 @@
     <div class="description-section">
         <h2>Pathway: {{ pollutant }} → {{ sink }}</h2>
         <p>
-            Select the appropriate <strong>EC (Enzyme Commission) numbers</strong> for each step in the metabolic pathway. 
-            Some steps have predetermined enzymes (green), while others require your selection from available options or from SMARTS-based predictions.
+            Select the EC number you consider best describing the reaction for each step in the metabolic pathway.
+            Some steps have predetermined enzymes, while others require you to choose from predicted candidates.
         </p>
+        <div class="color-legend">
+            <div class="legend-row"><span class="legend-square legend-green"></span><span>annotated to be already present in Rhodococcus opacus PD630</span></div>
+            <div class="legend-row"><span class="legend-square legend-yellow"></span><span>not present in PD630 but found in other organisms</span></div>
+            <div class="legend-row"><span class="legend-square legend-orange"></span><span>predicted by RetroPath2.0</span></div>
+            <div class="legend-row"><span class="legend-square legend-purple"></span><span>predicted, but no EC associated</span></div>
+        </div>
+        <p>
+            For reactions without an assigned EC number, the corresponding SMARTS representation is used to perform a similarity search in the SelenzymeRF database via an API call.
+            The results are returned as a table displaying information on candidate proteins that are likely to catalyze the desired reaction. Based on this information, you can
+            select a suitable representative enzyme to assign the corresponding EC number.
+        </p>
+        <p>Otherwise, you can enter a custom EC number of your choice.</p>
     </div>
 
     <!-- EC Selection Form -->
@@ -252,10 +264,40 @@
 
     .description-section p {
         color: var(--text-dark);
-        line-height: 1.7;
-        font-size: 1.1rem;
-        margin: 0;
+        line-height: 1.5;
+        font-size: 0.9rem;
+        margin-top: 15px;
     }
+
+    .description-section p:last-of-type {
+        margin-bottom: 0;
+    }
+
+    .color-legend {
+        display: grid;
+        gap: 8px;
+        margin-top: 15px;
+    }
+
+    .legend-row {
+        display: flex;
+        align-items: center;
+        gap: 10px;
+        color: var(--text-dark);
+        font-size: 0.9rem;
+    }
+
+    .legend-square {
+        width: 16px;
+        height: 16px;
+        border-radius: 3px;
+        display: inline-block;
+    }
+
+    .legend-green { background-color: #21b57c; }
+    .legend-yellow { background-color: #f2c94c; }
+    .legend-orange { background-color: #f2784c; }
+    .legend-purple { background-color: #c726b9; }
 
     /* Steps Container */
     .steps-container {
