@@ -371,8 +371,19 @@
 
     .table-wrapper {
         overflow-x: auto;
+        overflow-y: auto; /* enable vertical scroll */
+        max-height: 400px; /* limit table height */
         border-radius: 8px;
         border: 1px solid #dee2e6;
+        position: relative;
+    }
+
+    /* Keep header sticky when scrolling vertically */
+    .sequences-table thead th {
+        position: sticky;
+        top: 0;
+        background: #f8f9fa;
+        z-index: 2;
     }
 
     .sequences-table {
