@@ -76,9 +76,9 @@ class RP():
             return 99, "", str(e)
         
     @staticmethod
-    def rp_single_source_noenv(sink: str, rules:str, outdir:str, 
-                         name: str, inchi: str,
-                       steps=3, structures=100, dmin=6, dmax=16, timeout=60) -> tuple:
+    def rp_single_source_noenv(sink: str, rules:str, outdir:str,
+                               name: str, inchi: str,
+                               steps=3, structures=100, dmin=6, dmax=16, timeout=60) -> tuple:
         """
         Launches retropath2 using source name and InChI
         Requires a retropath conda environment to be activated prior its call
@@ -256,7 +256,8 @@ class RP():
     def django_call(name: str, inchi: str,
                     sink="./cape_app/algorithms/pathways/data/gsm_gapfilled_sink.csv",
                     rules="./cape_app/algorithms/pathways/data/retrorules_rr02_rp2_flat_forward.csv", 
-                    outdir="./cape_app/algorithms/pathways/rp_results/",
+                    #outdir="./cape_app/algorithms/pathways/rp_results/",
+                    outdir="./cape_app/pipeline_results/rp_results",
                     steps=5, structures=100, dmin=6, dmax=16, timeout=60) -> tuple:
         """ 
         Utility to call retropath from django
@@ -281,11 +282,11 @@ class RP():
             code: return codes from retropath execution
         """
         RP.clean_results(outdir)
-        code = RP.rp_single_source(sink=sink, rules=rules, outdir=outdir,
+        codes = RP.rp_single_source_noenv(sink=sink, rules=rules, outdir=outdir,
                                    name=name, inchi=inchi,
                                    steps=steps, structures=structures,
                                    dmin=dmin, dmax=dmax, timeout=timeout)
-        return code
+        return codes
 
 
 class RpOutput():
