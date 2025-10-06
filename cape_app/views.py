@@ -62,6 +62,7 @@ def pathways(request):
         database: dictionary containing information about compounds and enzymes
         pollutant: starting compound to degrade
         sink: final compound to reach
+        requested_paths: number of pathways the user asked for
 
     Output - HttpResponse rendering the template pathways_html:
         context:
