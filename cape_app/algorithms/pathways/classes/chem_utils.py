@@ -333,15 +333,45 @@ class Penalty():
         Returns:
             weighted_df: dataframe with weights
         """
-        std_df = pd.read_csv(std_path, sep="\t")
+        # std_df = pd.read_csv(std_path, sep="\t")
 
-        std_df["distance"] = std_df.apply(lambda row: Penalty.transf_distance(row["source_inchi"], row["target_inchi"]), axis=1)
-        std_df["dist_penalty"] = std_df.apply(lambda row: Penalty.dist_penalty(row["distance"]), axis=1)
-        std_df["mw_change"] = std_df.apply(lambda row: Penalty.mw_change(Penalty.get_mw(row["source_inchi"]), Penalty.get_mw(row["target_inchi"])), axis=1)
+        # std_df["distance"] = std_df.apply(lambda row: Penalty.transf_distance(row["source_inchi"], row["target_inchi"]), axis=1)
+        # std_df["dist_penalty"] = std_df.apply(lambda row: Penalty.dist_penalty(row["distance"]), axis=1)
+        # std_df["mw_change"] = std_df.apply(lambda row: Penalty.mw_change(Penalty.get_mw(row["source_inchi"]), Penalty.get_mw(row["target_inchi"])), axis=1)
+
+        # weighted_df = std_df.copy(deep=True)
+        # weighted_df["weight"] = weighted_df.apply(lambda row: Penalty.transf_penalty(row["RPscore"], row["dist_penalty"], row["mw_change"]), axis=1)
+        # weighted_df["weight"] = weighted_df["weight"].fillna(20)  # TODO: think more about this
+
+        # weighted_df.to_csv(weighted_path, sep="\t", index=False, quoting=csv.QUOTE_ALL)
+        # return weighted_df
+        std_df = pd.read_csv(std_path, sep="\t")
+        invalid_df = pd.read_csv("./cape_app/algorithms/pathways/data/invalid_nodes.tsv", sep="\t")
+        invalid_iks = set(invalid_df['std_inchikey'].tolist())
+
+        # Create mask for invalid rows
+        is_invalid = std_df['source_inchi_key'].isin(invalid_iks) | std_df['target_inchi_key'].isin(invalid_iks)
+        valid_mask = ~is_invalid
+        
+        # Only compute distances and penalties for valid rows
+        std_df.loc[valid_mask, "distance"] = std_df[valid_mask].apply(
+            lambda row: Penalty.transf_distance(row["source_inchi"], row["target_inchi"]), axis=1
+        )
+        std_df.loc[valid_mask, "dist_penalty"] = std_df[valid_mask].apply(
+            lambda row: Penalty.dist_penalty(row["distance"]), axis=1
+        )
+        std_df.loc[valid_mask, "mw_change"] = std_df[valid_mask].apply(
+            lambda row: Penalty.mw_change(Penalty.get_mw(row["source_inchi"]), Penalty.get_mw(row["target_inchi"])), axis=1
+        )
 
         weighted_df = std_df.copy(deep=True)
-        weighted_df["weight"] = weighted_df.apply(lambda row: Penalty.transf_penalty(row["RPscore"], row["dist_penalty"], row["mw_change"]), axis=1)
-        weighted_df["weight"] = weighted_df["weight"].fillna(20)  # TODO: think more about this
+        weighted_df.loc[is_invalid, "weight"] = 1000000  # Assign high weight to invalid rows
+        # Calculate normal weight for valid rows
+        weighted_df.loc[valid_mask, "weight"] = weighted_df[valid_mask].apply(
+            lambda row: Penalty.transf_penalty(row["RPscore"], row["dist_penalty"], row["mw_change"]), axis=1
+        )
+        
+        weighted_df["weight"] = weighted_df["weight"].fillna(20)
 
         weighted_df.to_csv(weighted_path, sep="\t", index=False, quoting=csv.QUOTE_ALL)
         return weighted_df

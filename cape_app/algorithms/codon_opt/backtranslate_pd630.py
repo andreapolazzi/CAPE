@@ -15,6 +15,8 @@ import argparse
 import random
 import sys
 from typing import Dict, List, Tuple, Iterable, Optional
+from pathlib import Path
+import os
 
 # -------------------------
 # Kazusa per-thousand frequencies for R. opacus (species=37919), RNA->DNA (U->T).
@@ -378,6 +380,8 @@ def write_fasta(entries: List[Tuple[str, str]], output_file: str):
     Raises:
         IOError: If file cannot be written
     """
+    parent_directory = output_file.parent
+    os.makedirs(parent_directory, exist_ok=True)
     with open(output_file, "w") as f:
         for header, sequence in entries:
             f.write(f">{header}\n")
