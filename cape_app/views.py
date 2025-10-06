@@ -180,7 +180,7 @@ def ec_choice(request):
             step_type = None
 
             for enzyme in enzyme_list:
-                enzyme_ec = enzyme.get('EC')
+                enzyme_ec = enzyme.get('EC', '').strip().upper()
                 enzyme_color = enzyme.get('color')
                 enzyme_info = {k: v for k, v in enzyme.items() if k not in ["EC", "color"]}
 
@@ -193,8 +193,8 @@ def ec_choice(request):
                                 'EC': enzyme_ec,
                                 **enzyme_info}
                 
-                if enzyme_ec == 'NOEC' and 'smarts' in enzyme_info:
-                    data = query_smarts(enzyme_info['smarts'])
+                if enzyme_ec == 'NOEC' and 'Reaction SMILES' in enzyme_info:
+                    data = query_smarts(enzyme_info['Reaction SMILES'])
                     enzyme_entry['data'] = data
                     enzyme_entry['ec_selenzyme'] = data['EC Number'].dropna().unique().tolist()
                     step_type = 'selenzyme'
