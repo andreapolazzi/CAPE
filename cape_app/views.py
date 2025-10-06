@@ -79,9 +79,9 @@ def pathways(request):
         f_inchi = request.POST.get("f_inchi")
 
         # Determine how many pathways the user asked for, default to 3 on invalid input
-        max_paths_raw = request.POST.get("max_paths")
+        n = request.POST.get("max_paths")
         try:
-            max_paths = int(max_paths_raw)
+            max_paths = int(n)
             if max_paths <= 0:
                 raise ValueError
         except (TypeError, ValueError):

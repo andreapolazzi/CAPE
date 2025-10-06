@@ -22,7 +22,7 @@
         engineered, or optimized for a variety of synthetic biology applications.
     </p>
     <p>
-        Please review the {{n}} best pathways found below and select the one you wish to proceed with for ortholog analysis. 
+        Please review the {{requested_paths}} best pathways found below and select the one you wish to proceed with for ortholog analysis. 
         Each pathway shows the enzymatic steps and intermediate compounds involved in the transformation process. 
         You can find a legend that explains the color code of the pathway's edges. 
     </p>
@@ -51,7 +51,7 @@
     </div>
 </div>
 
-<h2 style="margin-left: 15px;">Best 3 pathways found from {{ pollutant }} to {{ sink }}</h2>
+<h2 style="margin-left: 15px;">Best {{requested_paths}} pathways found from {{ pollutant }} to {{ sink }}</h2>
 
 <form method="POST" action="{% url 'ec_choice' %}">
     {% csrf_token %}
