@@ -15,9 +15,28 @@
     <div class="description-section">
         <h2>Optimize Codon Usage</h2>
         <p>
-            Codon optimization improves gene expression by replacing synonymous codons with those preferred by 
-            <strong>Rhodococcus opacus PD630</strong>. Select an optimization method, specify restriction sites to avoid, 
-            and generate optimized sequences ready for synthesis and cloning.
+            In this step, CAPE adapts all protein-coding sequences to the codon preferences of Rhodococcus opacus PD630 to enhance 
+            transcription efficiency, translation accuracy, and overall protein yield. </p>
+        <p>
+            Codon optimization is performed using the <a href="https://www.kazusa.or.jp/codon/cgi-bin/showcodon.cgi?species=37919">codon usage table for R. opacus</a>, with two selectable modes:
+            <ul>
+                <li><strong>Max mode</strong> — a deterministic approach that replaces each amino acid with the most frequently used codon in R. opacus.</li>
+                <li><strong>Weighted mode</strong> — a probabilistic method that samples codons according to their natural usage frequencies. This mode
+                accepts a random seed to ensure reproducibility across runs.</li>
+            </ul> </p>
+        <p>
+            Additionally, CAPE includes a <strong>restriction site screening</strong> module, which detects and removes sites incompatible with downstream 
+            cloning and assembly standards. Users can enable this option and select from predefined or custom restriction site lists.
+            Available presets include:
+            <ul>
+                <li><strong>Type IIS RFC1000</strong> — removes <em>BsaI</em> and <em>SapI</em> sites.</li>
+                <li><strong>BioBrick RFC10</strong> — removes <em>EcoRI, XbaI, SpeI, PstI,</em> and <em>NotI</em> sites.</li>
+            </ul>
+        </p>
+
+        <p>
+            You can also specify custom restriction sites by entering their recognition sequences, separated by commas:
+            e.g., GAATTC,AAGCTT,GGATCC.
         </p>
     </div>
 
@@ -203,9 +222,9 @@
 
     .description-section p {
         color: var(--text-dark);
-        line-height: 1.7;
-        font-size: 1.1rem;
-        margin: 0;
+        line-height: 1.5;
+        font-size: 0.9rem;
+        margin-top: 10px;
     }
 
     /* Form Grid */
