@@ -50,16 +50,6 @@
                         <!-- Per-EC Filter and Sort Controls -->
                         {% if ec.data %}
                             <div class="per-ec-controls">
-                                <div class="filter-controls">
-                                    <label for="length-filter-{{ ec.ec_number }}">Filter by length:</label>
-                                    <select id="length-filter-{{ ec.ec_number }}" class="filter-select per-ec-filter">
-                                        <option value="">All Lengths</option>
-                                        <option value="short">(&lt; 200 aa)</option>
-                                        <option value="medium">(200-500 aa)</option>
-                                        <option value="long">(&gt; 500 aa)</option>
-                                        <option value="custom">Custom Range</option>
-                                    </select>
-                                </div>
                                 <div class="sort-controls">
                                     <label for="sort-select-{{ ec.ec_number }}">Sort by:</label>
                                     <select id="sort-select-{{ ec.ec_number }}" class="sort-select per-ec-sort">
@@ -67,6 +57,16 @@
                                         <option value="length-asc">Length (Ascending)</option>
                                         <option value="length-desc">Length (Descending)</option>
                                         <option value="organism-freq">Organism Frequency</option>
+                                    </select>
+                                </div>
+                                <div class="filter-controls">
+                                    <label for="filter-select-{{ ec.ec_number }}">Filter by Length:</label>
+                                    <select id="filter-select-{{ ec.ec_number }}" class="filter-select per-ec-filter">
+                                        <option value="">All</option>
+                                        <option value="short">Short (&lt; 200 aa)</option>
+                                        <option value="medium">Medium (200-500 aa)</option>
+                                        <option value="long">Long (&gt; 500 aa)</option>
+                                        <option value="custom">Custom Range</option>
                                     </select>
                                 </div>
                                 <div class="custom-length-controls hidden" id="custom-length-{{ ec.ec_number }}">
