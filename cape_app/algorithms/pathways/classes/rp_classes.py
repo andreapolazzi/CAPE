@@ -381,6 +381,44 @@ class RpOutput():
             return 'Unknown'
         except:
             return 'Unknown'
+    
+    def split_ec_column(df: pd.DataFrame, ec_column_name: str):
+        """
+        Split rows with multiple EC numbers (comma-separated) into separate rows.
+        
+        Args::
+            df: pandas DataFrame
+            ec_column_name: name of the column containing EC numbers
+        
+        Returns:
+            DataFrame with split rows
+        """
+        new_rows = []
+        
+        for idx, row in df.iterrows():
+            ec_value = row[ec_column_name]
+            
+            # Check if EC value is null or doesn't contain comma
+            if pd.isna(ec_value) or ',' not in str(ec_value):
+                new_rows.append(row)
+            else:
+                # Convert to string and handle brackets if present
+                ec_string = str(ec_value).strip()
+                
+                # Remove brackets if present (e.g., "[EC1, EC2]" -> "EC1, EC2")
+                if ec_string.startswith('[') and ec_string.endswith(']'):
+                    ec_string = ec_string[1:-1]
+                
+                # Split by comma and strip whitespace
+                ec_numbers = [ec.strip() for ec in ec_string.split(',')]
+                
+                # Create a new row for each EC number
+                for ec in ec_numbers:
+                    new_row = row.copy()
+                    new_row[ec_column_name] = ec
+                    new_rows.append(new_row)
+        
+        return pd.DataFrame(new_rows).reset_index(drop=True)
         
     @staticmethod
     def edges_to_tsv(df: pd.DataFrame, outdir: str):
@@ -398,6 +436,7 @@ class RpOutput():
         df['target_name'] = 'Unknown'
         df['color'] = 'RetroPath'
         df['RPscore'] = df['Score'] + 2  # adding RP penalty for later weighting
+
         df = df.rename(columns={
             'EC number': 'EC', 
             'Substrate InChI': 'source_inchi', 
@@ -405,6 +444,9 @@ class RpOutput():
             'Substrate SMILES': 'source_smiles',
             'Product SMILES': 'target_smiles',
             'Transformation ID': 'reaction'})
+        
+        df = RpOutput.split_ec_column(df, "EC")
+        
         df.to_csv(outdir+'rp_edges.tsv', sep='\t', index=False, header=True)
 
 
