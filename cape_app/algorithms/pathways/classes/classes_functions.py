@@ -18,34 +18,6 @@ def _normalize_name(s: str) -> str:
     """Return a stable lowercase normalized string for name matching/lookup."""
     return s.strip().lower() if s and isinstance(s, str) else ""
 
-def rp_single_source(sink: str, rules: str, outdir: str, name: str, inchi: str, steps=3, structures=100, dmin=6, dmax=16, timeout=60):
-    """Launches retropath2 using source name and InChI inside retropath_env 
-    Return codes:
-        0: No error
-        1: File is not found
-        2: Running the RetroPath2.0 Knime program produced an OSError
-        3: InChI is malformated
-        10: Source has been found in the sink (warning)
-        11: No solution is found (warning)
-        99: unexpected error (not defined in retropath module)"""
-    command = f"""
-    source /work/igem/anaconda3/etc/profile.d/conda.sh && conda activate retropath_env && \
-    python -m retropath2_wrapper {sink} {rules} {outdir} \
-    --source_name "{name}" \
-    --source_inchi "{inchi}" \
-    --max_steps {steps} \
-    --topx {structures} \
-    --dmin {dmin} \
-    --dmax {dmax} \
-    --msc_timeout {timeout}
-    """
-    try:
-        result = subprocess.run(command, shell=True, executable="/bin/bash",
-                                capture_output=True, text=True, check=False)
-        return result.returncode, result.stdout, result.stderr
-    except Exception as e:
-        return 99, "", str(e)
-
 
 def try_float(x):
         try:
@@ -61,47 +33,23 @@ def build_graph_from_tsv(G:nx.MultiDiGraph=nx.MultiDiGraph(),
     Takes a nx MultiDiGraph G (or creates a new empty one) and adds edges from the KEGG tsv files or form the RP results (depending on the method param).
     Returns G
     """
-    # script_dir = os.path.dirname(os.path.abspath(__file__))
-    # pathway_folder = os.path.join(script_dir, "../data/Pathways")
-    # for filename in (f for f in os.listdir(pathway_folder) if f.endswith("_edges.tsv")):
-    #     with open(os.path.join(script_dir, "../data/Pathways/")+filename, newline="") as f:
-    #         reader = csv.DictReader(f, delimiter="\t")
-    #         for row in reader:
-    #             source = row["source_inchi_key"]
-    #             target = row["target_inchi_key"]
-    #             # Define attributes (all except inchikeys) (they might be floats or strings)
-    #             attrs = {k: try_float(v) for k, v in row.items() if k not in ("source_inchi_key", "target_inchi_key")}
-    #             G.add_edge(source, target, **attrs) # add edge, nodes will be added automatically
-    # return G
-    #script_dir = os.path.dirname(os.path.abspath(__file__))
-    #pathway_folder = os.path.join(script_dir, "../data/Pathways")
     if method=="KEGG":
         pathway_folder = "./cape_app/algorithms/pathways/data/Pathways/"
-        for filename in (f for f in os.listdir(pathway_folder) if f.endswith("_edges.tsv")):
-            with open(pathway_folder + filename, newline="") as f:
-                reader = csv.DictReader(f, delimiter="\t")
-                for row in reader:
-                    source = row["source_inchi_key"]
-                    target = row["target_inchi_key"]
-                    # Define attributes (all except inchikeys) (they might be floats or strings)
-                    attrs = {k: try_float(v) for k, v in row.items() if k not in ("source_inchi_key", "target_inchi_key")}
-                    G.add_edge(source, target, **attrs) # add edge, nodes will be added automatically
-        return G
+        suffix = "_edges.tsv"
     elif method=="RetroPath":
         pathway_folder = rp_outdir
-        for filename in (f for f in os.listdir(pathway_folder) if f.endswith("weighted_edges.tsv")):
-            print("adding edges from "+pathway_folder + filename)
-            with open(pathway_folder + filename, newline="") as f:
-                print("opened file")
-                reader = csv.DictReader(f, delimiter="\t")
-                for row in reader:
-                    source = row["source_inchi_key"]
-                    target = row["target_inchi_key"]
-                    # Define attributes (all except inchikeys) (they might be floats or strings)
-                    attrs = {k: try_float(v) for k, v in row.items() if k not in ("source_inchi_key", "target_inchi_key")}
-                    G.add_edge(source, target, **attrs) # add edge, nodes will be added automatically
-                    print("added edge from "+source+" to "+target)
-        return G
+        suffix = "weighted_edges.tsv"
+    for filename in (f for f in os.listdir(pathway_folder) if f.endswith(suffix)):
+        with open(pathway_folder + filename, newline="") as f:
+            reader = csv.DictReader(f, delimiter="\t")
+            for row in reader:
+                source = row["source_inchi_key"]
+                target = row["target_inchi_key"]
+                # Define attributes (all except inchikeys) (they might be floats or strings)
+                attrs = {k: try_float(v) for k, v in row.items() if k not in ("source_inchi_key", "target_inchi_key")}
+                G.add_edge(source, target, **attrs) # add edge, nodes will be added automatically
+    return G
+        
     
 
 

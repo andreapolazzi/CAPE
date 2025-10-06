@@ -41,6 +41,8 @@ def main(start_inchi: str, end_inchi: str, start_name:str='', end_name:str='', m
             "does not connect the goal compound to them.")
         
         print('trying to call retropath')
+        # TODO: adjust with input outdir
+        os.makedirs("./cape_app/pipeline_results/rp_results/", exist_ok=True)
         RP.django_call(name=start_name, inchi=start_inchi, steps=7)
         print("generating tsv from retropath results")
         RpOutput.tsv_generator(results_path="./cape_app/pipeline_results/rp_results/results.csv", 
