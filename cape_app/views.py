@@ -202,10 +202,12 @@ def ec_choice(request):
                 available_ecs.append(enzyme_entry)
             
             if step_type is None:
-                if len(enzyme_list) == 1 and available_ecs[0]['color'] == 'green':
+                if available_ecs[0]['color'] == 'green':
                     step_type = 'green'
+                    available_ecs = [available_ecs[0]]
                 else:
                     step_type = 'choice'
+
             
             # Build the detailed step representation
             detailed_steps.append({'step_number': i,
@@ -377,8 +379,19 @@ def summary(request):
         for ec in summary_ordered:
             selected_sequences.extend(ec['rows'])
 
+        fasta_entries = []
+        for seq in selected_sequences:
+            header = f">{seq['ec']}|{seq['organism']}|{seq['header']}"
+            sequence = seq['sequence']
+            wrapped_sequence = "\n".join(sequence[i:i+60] for i in range(0, len(sequence), 60))
+            fasta_entry = f"{header}\n{wrapped_sequence}\n"
+            fasta_entries.append(fasta_entry)
+
+        fasta_output = "\n".join(fasta_entries)
+
         # Save selected sequences in session for later steps
         request.session['selected_sequences'] = selected_sequences
+        request.session['faa_output'] = fasta_output
 
         # Prepare context for rendering the template 
         context = {'summary_ordered': summary_ordered}
@@ -482,9 +495,14 @@ def download_fasta(request):
         - If FASTA is available: a downloadable file named 'opt_genes_pd630.fna'
         - If FASTA is not available: a plain text message indicating the user should run codon optimization first
     """
+    file_type = request.GET.get('type', 'dna')
 
-    # Retrieve the FASTA output from session
-    fasta_output = request.session.get('fasta_output')
+    if file_type == 'protein':
+        fasta_output = request.session.get('faa_output')
+        filename = "selected_proteins.faa"
+    else:
+        fasta_output = request.session.get('fasta_output')
+        filename = "opt_genes_pd630.fna"
 
     # If no FASTA is available, inform the user
     if not fasta_output:
@@ -492,7 +510,7 @@ def download_fasta(request):
 
     # Return FASTA as a downloadable file
     response = HttpResponse(fasta_output, content_type='text/plain')
-    response['Content-Disposition'] = 'attachment; filename="opt_genes_pd630.fna"'
+    response['Content-Disposition'] = f'attachment; filename="{filename}"'
     return response
 
 
