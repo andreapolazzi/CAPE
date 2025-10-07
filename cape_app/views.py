@@ -498,6 +498,8 @@ def codon_optimization(request):
         for seq_info in selected_sequences:
             # Optimize the protein sequence into a DNA sequence
             seq = backtranslate_protein(seq_info['sequence'], optimization_method,  rng, final_restriction_sites)
+            if seq is None:
+                return HttpResponse(f"Error: Could not optimize sequence for EC {seq_info['ec']}. Try changing the optimization method or restriction sites.", status=400)
             header = f"{seq_info['ec']}|{seq_info['organism']}|{seq_info['header']}"
 
             fasta_entries.append((header, seq))
