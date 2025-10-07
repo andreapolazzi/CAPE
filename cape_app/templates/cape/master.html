@@ -52,8 +52,23 @@
             left: 0;
             right: 0;
             bottom: 0;
+            background-image: url("{% static 'cape/images/network.webp' %}");
+            background-size: cover;
+            background-position: center;
+            background-repeat: no-repeat;
+            opacity: 0.2;
             pointer-events: none;
-            background: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1000"><polygon fill="rgba(255,255,255,0.05)" points="0,0 1000,300 1000,1000 0,700"/></svg>');
+        }
+
+        header::after {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 0;
+            right: 0;
+            bottom: 0;
+            background: linear-gradient(135deg, rgba(63, 78, 146, 0.85) 0%, rgba(45, 29, 75, 0.85) 100%);
+            pointer-events: none;
         }
 
         .header-content {
@@ -165,6 +180,23 @@
             left: 0;
             right: 0;
             bottom: 0;
+            background-image: url("{% static 'cape/images/network.webp' %}");
+            background-size: cover;
+            background-position: center;
+            background-repeat: no-repeat;
+            opacity: 0.15;
+            pointer-events: none;
+        }
+
+        .banner-section::after {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 0;
+            right: 0;
+            bottom: 0;
+            background: linear-gradient(135deg, rgba(63, 78, 146, 0.85) 0%, rgba(45, 29, 75, 0.85) 100%);
+            pointer-events: none;
         }
 
         .banner-content {
@@ -580,6 +612,108 @@
         .notification.show {
             transform: translateX(0);
         }
+
+        /* Global Loading Overlay */
+        .global-loading-overlay {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background: rgba(0, 0, 0, 0.85);
+            backdrop-filter: blur(10px);
+            z-index: 99999;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            transition: opacity 0.3s ease;
+        }
+
+        .global-loading-overlay.hidden {
+            display: none;
+        }
+
+        .loading-container {
+            text-align: center;
+            max-width: 500px;
+            padding: 40px;
+            background: white;
+            border-radius: 20px;
+            box-shadow: 0 20px 60px rgba(0, 0, 0, 0.3);
+            animation: fadeInScale 0.3s ease;
+        }
+
+        @keyframes fadeInScale {
+            from {
+                opacity: 0;
+                transform: scale(0.9);
+            }
+            to {
+                opacity: 1;
+                transform: scale(1);
+            }
+        }
+
+        /* Gear Loader Animation */
+        .gear-loader {
+            width: 100px;
+            height: 100px;
+            margin: 0 auto 30px;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+
+        .gear-loader i {
+            font-size: 80px;
+            color: var(--primary-purple, #6f42c1);
+            animation: spin-gear 2s linear infinite;
+        }
+
+        @keyframes spin-gear {
+            0% { 
+                transform: rotate(0deg);
+            }
+            100% { 
+                transform: rotate(360deg);
+            }
+        }
+
+        /* Loading Text */
+        .loading-title {
+            color: #2c3e50;
+            font-size: 1.8rem;
+            margin-bottom: 10px;
+            font-weight: 600;
+        }
+
+        .loading-message {
+            color: #7f8c8d;
+            font-size: 1rem;
+            margin-bottom: 0;
+            line-height: 1.5;
+        }
+
+        /* Responsive */
+        @media (max-width: 600px) {
+            .loading-container {
+                margin: 20px;
+                padding: 30px 20px;
+            }
+            
+            .loading-title {
+                font-size: 1.4rem;
+            }
+            
+            .gear-loader {
+                width: 80px;
+                height: 80px;
+            }
+            
+            .gear-loader i {
+                font-size: 60px;
+            }
+        }
     </style>
 </head>
 
@@ -649,6 +783,17 @@
 
     <div class="notification" id="notification"></div>
 
+    <!-- Global Loading Overlay -->
+    <div id="global-loading-overlay" class="global-loading-overlay hidden">
+        <div class="loading-container">
+            <div class="gear-loader">
+                <i class="fas fa-cog"></i>
+            </div>
+            <h2 class="loading-title">Processing</h2>
+            <p class="loading-message">Please wait while we process your request...</p>
+        </div>
+    </div>
+
     <script>
         // Smooth scrolling for navigation links
         document.querySelectorAll('a[href^="#"]').forEach(anchor => {
@@ -665,11 +810,14 @@
         });
         
         // Add enter key support for input field
-        document.getElementById('sequence-input').addEventListener('keypress', function(e) {
-            if (e.key === 'Enter') {
-                processSequence();
-            }
-        });
+        const sequenceInput = document.getElementById('sequence-input');
+        if (sequenceInput) {
+            sequenceInput.addEventListener('keypress', function(e) {
+                if (e.key === 'Enter') {
+                    processSequence();
+                }
+            });
+        }
         
         // Header scroll effect
         window.addEventListener('scroll', function() {
@@ -682,242 +830,125 @@
                 nav.style.boxShadow = 'none';
             }
         });
-    </script>
 
-    <!-- Global Loading Overlay - Add before </body> -->
-    <div id="global-loading-overlay" class="global-loading-overlay hidden">
-        <div class="loading-container">
-            <div class="gear-loader">
-                <i class="fas fa-cog"></i>
-            </div>
-            <h2 class="loading-title">Processing</h2>
-            <p class="loading-message">Please wait while we process your request...</p>
-        </div>
-    </div>
-
-    <style>
-    /* Global Loading Overlay */
-    .global-loading-overlay {
-        position: fixed;
-        top: 0;
-        left: 0;
-        width: 100%;
-        height: 100%;
-        background: rgba(0, 0, 0, 0.85);
-        backdrop-filter: blur(10px);
-        z-index: 99999;
-        display: flex;
-        justify-content: center;
-        align-items: center;
-        transition: opacity 0.3s ease;
-    }
-
-    .global-loading-overlay.hidden {
-        display: none;
-    }
-
-    .loading-container {
-        text-align: center;
-        max-width: 500px;
-        padding: 40px;
-        background: white;
-        border-radius: 20px;
-        box-shadow: 0 20px 60px rgba(0, 0, 0, 0.3);
-        animation: fadeInScale 0.3s ease;
-    }
-
-    @keyframes fadeInScale {
-        from {
-            opacity: 0;
-            transform: scale(0.9);
-        }
-        to {
-            opacity: 1;
-            transform: scale(1);
-        }
-    }
-
-    /* Gear Loader Animation */
-    .gear-loader {
-        width: 100px;
-        height: 100px;
-        margin: 0 auto 30px;
-        display: flex;
-        justify-content: center;
-        align-items: center;
-    }
-
-    .gear-loader i {
-        font-size: 80px;
-        color: var(--primary-purple, #6f42c1);
-        animation: spin-gear 2s linear infinite;
-    }
-
-    @keyframes spin-gear {
-        0% { 
-            transform: rotate(0deg);
-        }
-        100% { 
-            transform: rotate(360deg);
-        }
-    }
-
-    /* Loading Text */
-    .loading-title {
-        color: #2c3e50;
-        font-size: 1.8rem;
-        margin-bottom: 10px;
-        font-weight: 600;
-    }
-
-    .loading-message {
-        color: #7f8c8d;
-        font-size: 1rem;
-        margin-bottom: 0;
-        line-height: 1.5;
-    }
-
-    /* Responsive */
-    @media (max-width: 600px) {
-        .loading-container {
-            margin: 20px;
-            padding: 30px 20px;
-        }
-        
-        .loading-title {
-            font-size: 1.4rem;
-        }
-        
-        .gear-loader {
-            width: 80px;
-            height: 80px;
-        }
-        
-        .gear-loader i {
-            font-size: 60px;
-        }
-    }
-    </style>
-
-    <script>
-    // Global Loading Overlay Manager
-    (function() {
-        'use strict';
-        
-        const GlobalLoader = {
-            overlay: null,
+        // Global Loading Overlay Manager
+        (function() {
+            'use strict';
             
-            init() {
-                this.overlay = document.getElementById('global-loading-overlay');
+            const GlobalLoader = {
+                overlay: null,
                 
-                // Show loader on any form submission
-                this.setupFormListeners();
-                
-                // Show loader on navigation (links)
-                this.setupLinkListeners();
-                
-                // Hide loader when page fully loads
-                this.hideOnPageLoad();
-            },
-            
-            show() {
-                if (this.overlay) {
-                    this.overlay.classList.remove('hidden');
-                }
-            },
-            
-            hide() {
-                if (this.overlay) {
-                    this.overlay.classList.add('hidden');
-                }
-            },
-            
-            setupFormListeners() {
-                // Listen to all form submissions
-                document.addEventListener('submit', (e) => {
-                    const form = e.target;
+                init() {
+                    this.overlay = document.getElementById('global-loading-overlay');
                     
-                    // Don't show loader for forms with data-no-loader attribute
-                    if (form.hasAttribute('data-no-loader')) {
-                        return;
+                    // Show loader on any form submission
+                    this.setupFormListeners();
+                    
+                    // Show loader on navigation (links)
+                    this.setupLinkListeners();
+                    
+                    // Hide loader when page fully loads
+                    this.hideOnPageLoad();
+                },
+                
+                show() {
+                    if (this.overlay) {
+                        this.overlay.classList.remove('hidden');
                     }
-                    
-                    // Show loader
-                    this.show();
-                });
-            },
-            
-            setupLinkListeners() {
-                // Listen to navigation clicks
-                document.addEventListener('click', (e) => {
-                    const link = e.target.closest('a');
-                    
-                    if (!link) return;
-                    
-                    // Don't show for:
-                    // - Links with data-no-loader attribute
-                    // - External links
-                    // - Anchor links (#)
-                    // - JavaScript links (javascript:)
-                    // - Links that open in new tab
-                    // - Download links
-                    const href = link.getAttribute('href');
-                    
-                    if (!href || 
-                        href === '#' || 
-                        href.startsWith('javascript:') ||
-                        link.hasAttribute('data-no-loader') ||
-                        link.hasAttribute('download') ||
-                        link.target === '_blank' ||
-                        link.hostname !== window.location.hostname) {
-                        return;
-                    }
-                    
-                    // Show loader for internal navigation
-                    this.show();
-                });
-            },
-            
-            hideOnPageLoad() {
-                // Hide loader when page is fully loaded
-                window.addEventListener('load', () => {
-                    this.hide();
-                });
+                },
                 
-                // Also hide on DOMContentLoaded as backup
-                if (document.readyState === 'loading') {
-                    document.addEventListener('DOMContentLoaded', () => {
-                        setTimeout(() => this.hide(), 100);
+                hide() {
+                    if (this.overlay) {
+                        this.overlay.classList.add('hidden');
+                    }
+                },
+                
+                setupFormListeners() {
+                    // Listen to all form submissions
+                    document.addEventListener('submit', (e) => {
+                        const form = e.target;
+                        
+                        // Don't show loader for forms with data-no-loader attribute
+                        if (form.hasAttribute('data-no-loader')) {
+                            return;
+                        }
+                        
+                        // Show loader
+                        this.show();
                     });
-                } else {
-                    this.hide();
-                }
+                },
                 
-                // CRITICAL: Handle browser back/forward navigation
-                window.addEventListener('pageshow', (event) => {
-                    // If page is loaded from cache (back/forward button)
-                    if (event.persisted) {
+                setupLinkListeners() {
+                    // Listen to navigation clicks
+                    document.addEventListener('click', (e) => {
+                        const link = e.target.closest('a');
+                        
+                        if (!link) return;
+                        
+                        // Don't show for:
+                        // - Links with data-no-loader attribute
+                        // - External links
+                        // - Anchor links (#)
+                        // - JavaScript links (javascript:)
+                        // - Links that open in new tab
+                        // - Download links
+                        const href = link.getAttribute('href');
+                        
+                        if (!href || 
+                            href === '#' || 
+                            href.startsWith('javascript:') ||
+                            link.hasAttribute('data-no-loader') ||
+                            link.hasAttribute('download') ||
+                            link.target === '_blank' ||
+                            link.hostname !== window.location.hostname) {
+                            return;
+                        }
+                        
+                        // Show loader for internal navigation
+                        this.show();
+                    });
+                },
+                
+                hideOnPageLoad() {
+                    // Hide loader when page is fully loaded
+                    window.addEventListener('load', () => {
+                        this.hide();
+                    });
+                    
+                    // Also hide on DOMContentLoaded as backup
+                    if (document.readyState === 'loading') {
+                        document.addEventListener('DOMContentLoaded', () => {
+                            setTimeout(() => this.hide(), 100);
+                        });
+                    } else {
                         this.hide();
                     }
-                });
-                
-                // Additional fallback for browser navigation
-                window.addEventListener('popstate', () => {
-                    this.hide();
-                });
+                    
+                    // CRITICAL: Handle browser back/forward navigation
+                    window.addEventListener('pageshow', (event) => {
+                        // If page is loaded from cache (back/forward button)
+                        if (event.persisted) {
+                            this.hide();
+                        }
+                    });
+                    
+                    // Additional fallback for browser navigation
+                    window.addEventListener('popstate', () => {
+                        this.hide();
+                    });
+                }
+            };
+            
+            // Initialize when DOM is ready
+            if (document.readyState === 'loading') {
+                document.addEventListener('DOMContentLoaded', () => GlobalLoader.init());
+            } else {
+                GlobalLoader.init();
             }
-        };
-        
-        // Initialize when DOM is ready
-        if (document.readyState === 'loading') {
-            document.addEventListener('DOMContentLoaded', () => GlobalLoader.init());
-        } else {
-            GlobalLoader.init();
-        }
-        
-        // Make it globally accessible if needed
-        window.GlobalLoader = GlobalLoader;
-    })();
+            
+            // Make it globally accessible if needed
+            window.GlobalLoader = GlobalLoader;
+        })();
     </script>
 </body>
 </html>
