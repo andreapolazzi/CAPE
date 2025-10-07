@@ -44,7 +44,7 @@
                   {% for row in ec.rows %}
                     <tr class="sequence-row">
                       <td class="organism-col"><span class="organism-name">{{ row.organism }}</span></td>
-                      <td class="header-col"><span class="header-text" title="{{ row.header }}">{{ row.header|truncatechars:50 }}</span></td>
+                      <td class="header-col"><span class="header-text" title="{{ row.header }}">{{ row.header|truncatechars:70 }}</span></td>
                       <td class="sequence-col"><span class="sequence-text">{{ row.sequence|truncatechars:30 }}</span></td>
                       <td class="length-col"><span class="length-badge">{{ row.length }} aa</span></td>
                     </tr>

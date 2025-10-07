@@ -175,13 +175,14 @@ def ec_choice(request):
         _, steps = pathways[selected_index]
 
         detailed_steps = []
+        non_green = len(steps)
         for i, step in enumerate(steps):
             start_compound, enzyme_list, end_compound = step
 
             # Collect all possible EC number for this step
             available_ecs = []
             step_type = None
-
+            
             for enzyme in enzyme_list:
                 enzyme_ec = enzyme.get('EC', '').strip().upper()
                 enzyme_color = enzyme.get('color')
@@ -214,11 +215,14 @@ def ec_choice(request):
                 else:
                     enzyme_entry['has_data'] = False
 
+
                 available_ecs.append(enzyme_entry)
+            
             
             if step_type is None and available_ecs:
                 if available_ecs[0]['color'] == 'green':
                     step_type = 'green'
+                    non_green -= 1
                     available_ecs = [available_ecs[0]]
                 else:
                     step_type = 'choice'
@@ -237,8 +241,9 @@ def ec_choice(request):
         # Prepare context for rendering the template
         context = {'steps': detailed_steps,
                    'pollutant': pollutant,
-                   'sink': sink}
-
+                   'sink': sink,
+                   'non_green': non_green}
+        
         # Render the template with the data 'context'
         return render(request, 'cape/ec_choice.html', context)
 
