@@ -202,17 +202,17 @@ def ec_choice(request):
                 
                 if enzyme_ec == 'NOEC' and 'Reaction SMILES' in enzyme_info:
                     smarts = str(enzyme_info['Reaction SMILES'])
-                    print(smarts)
-
                     out = query_smarts(smarts)
                     data = out[smarts]
-                    print(data.columns.tolist())
 
                     enzyme_entry['data'] = data
+                    enzyme_entry['has_data'] = not data.empty
                     
                     enzyme_entry['ec_selenzyme'] = data['EC Number'].dropna().unique().tolist()
-                    print("Selenzyme ECs:", enzyme_entry['ec_selenzyme'])
+
                     step_type = 'selenzyme'
+                else:
+                    enzyme_entry['has_data'] = False
 
                 available_ecs.append(enzyme_entry)
             
