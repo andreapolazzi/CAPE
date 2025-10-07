@@ -114,7 +114,7 @@ def k_shortest_paths(G: nx.MultiDiGraph, start_inchikey: str, goal_inchikey: str
                         "enzyme": enzyme,
                         "color": color,
                         "reactions": [],
-                        "reaction_SMILES" : reaction_smiles
+                        "Reaction SMILES" : reaction_smiles
                     }
                 if reaction:
                     ec_dicts_map[ec]["reactions"].append(reaction)
