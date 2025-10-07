@@ -35,7 +35,7 @@ urlpatterns = [
     path('download_fasta', views.download_fasta, name='download_fasta'),
 
     # Results page: additional results view
-    path('results', views.results, name='results'),
+    path('export', views.export, name='export'),
 
     # Help page: provide user guidance and documentation
     path('help', views.help, name='help'),
