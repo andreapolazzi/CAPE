@@ -79,8 +79,8 @@ def pathways(request):
         sink = request.POST.get("sink")
         f_inchi = request.POST.get("f_inchi")
 
-        if not (p_inchi.startswith("InChi=") and f_inchi.startswith("InChi=")):
-            return HttpResponse("Error: InChi are requested in the form 'InChi=...", status=400)
+        if not (p_inchi.startswith("InChI=") and f_inchi.startswith("InChI=")):
+            return HttpResponse("Error: InChI are requested in the form 'InChI=...", status=400)
 
         # Determine how many pathways the user asked for, default to 3 on invalid input
         n = request.POST.get("max_paths")
