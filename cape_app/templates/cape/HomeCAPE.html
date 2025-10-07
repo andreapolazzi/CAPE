@@ -16,7 +16,7 @@
     <section class="tool-section">
         <h2>Start Analysis</h2>
         <div class="tool-controls">
-            <form method="POST" action="{% url 'pathways' %}">
+            <form method="POST" action="{% url 'pathways' %}" enctype="multipart/form-data">
                 {% csrf_token %}
                 <label class="input-label" for="sequence-input">Enter Input Parameters</label>
                 <input type="text" name="pollutant" class="input-field" placeholder="Insert starting pollutant to be degraded" required>

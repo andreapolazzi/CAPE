@@ -4,7 +4,12 @@ from .classes.chem_utils import *
 from .classes.classes_functions import *
 from .classes.rp_classes import *
 
-def main(start_inchi: str, end_inchi: str, start_name:str='', end_name:str='', max_paths: int = 3):
+def main(start_inchi: str, end_inchi: str, start_name:str='', end_name:str='', max_paths: int = 3,
+         outdir="./cape_app/pipeline_results/rp_results/",
+         max_steps=5, max_structures=100, min_diameter=6, max_diameter=16, timeout=60,
+         sink_file="./cape_app/algorithms/pathways/data/gsm_gapfilled_sink.csv",
+         rules_file="./cape_app/algorithms/pathways/data/retrorules_rr02_rp2_flat_forward.csv"):
+    
     script_dir = os.path.dirname(os.path.abspath(__file__))
 
     PATHWAY_FOLDER = os.path.join(script_dir, 'data', 'Pathways')
@@ -42,8 +47,11 @@ def main(start_inchi: str, end_inchi: str, start_name:str='', end_name:str='', m
         
         print('trying to call retropath')
         # TODO: adjust with input outdir
-        os.makedirs("./cape_app/pipeline_results/rp_results/", exist_ok=True)
-        RP.django_call(name=start_name, inchi=start_inchi, steps=7)
+        os.makedirs(outdir, exist_ok=True)
+        RP.django_call(name=start_name, inchi=start_inchi, steps=max_steps,
+                       sink=sink_file, rules=rules_file,
+                       structures=max_structures, dmin=min_diameter, dmax=max_diameter,
+                       outdir=outdir, timeout=timeout)
         print("generating tsv from retropath results")
         RpOutput.tsv_generator(results_path="./cape_app/pipeline_results/rp_results/results.csv", 
                                outdir="./cape_app/pipeline_results/rp_results/")

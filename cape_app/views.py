@@ -12,6 +12,7 @@ import random
 from collections import defaultdict
 import os
 import glob
+import shutil
 
 
 # Django
@@ -96,9 +97,46 @@ def pathways(request):
                 raise ValueError
         except (TypeError, ValueError):
             max_paths = 3
+        
+        outdir = request.POST.get("outdir", "./cape_app/pipeline_results/rp_results/")
+        if os.path.exists(outdir):
+            shutil.rmtree(outdir)
+        os.makedirs(outdir, exist_ok=True)
+
+        max_steps = int(request.POST.get("max_steps", 5))
+        max_structures = int(request.POST.get("max_structures", 100))
+        min_diameter = int(request.POST.get("min_diameter", 6))
+        max_diameter = int(request.POST.get("max_diameter", 16))
+        timeout = int(request.POST.get("timeout", 60))
+
+        os.makedirs(outdir, exist_ok=True)
+        default_sink = "./cape_app/algorithms/pathways/data/gsm_gapfilled_sink.csv"
+        default_rules = "./cape_app/algorithms/pathways/data/retrorules_rr02_rp2_flat_forward.csv"
+
+        sink_file = request.FILES.get("sink_file")
+        if sink_file:
+            sink_path = os.path.join(outdir, "sink.csv")
+            print("sink path", sink_path)
+            with open(sink_path, 'wb+') as destination:
+                for chunk in sink_file.chunks():
+                    destination.write(chunk)
+        else:
+            sink_path = default_sink  # Use default file if no file was uploaded
+        rules_file = request.FILES.get("rules_file")
+        if rules_file:
+            rules_path = os.path.join(outdir, "rules.csv")
+            print("rules path", rules_path)
+            with open(rules_path, 'wb+') as destination:
+                for chunk in rules_file.chunks():
+                    destination.write(chunk)
+        else:
+            rules_path = default_rules  # Use default file if no file was uploaded
 
         # Compute pathways using the function 'main'
-        pathways = main(p_inchi, f_inchi, pollutant, sink, max_paths)
+        pathways = main(start_inchi=p_inchi, end_inchi=f_inchi, start_name=pollutant, end_name=sink, 
+                        max_paths=max_paths, outdir=outdir, max_steps=max_steps, max_structures=max_structures,
+                        min_diameter=min_diameter, max_diameter=max_diameter, timeout=timeout,
+                        sink_file=sink_path, rules_file=rules_path)
         
         # Save the data in session
         request.session['pathways'] = pathways
