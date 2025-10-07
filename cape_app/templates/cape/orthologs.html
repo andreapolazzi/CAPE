@@ -807,14 +807,14 @@
 <script>
 // Global variables
 let selectedCount = 0;
-let organismFrequencyCache = new Map(); // Cache per le frequenze degli organismi
+let organismFrequencyCache = new Map();
 
 // Initialize page
 document.addEventListener('DOMContentLoaded', function() {
     updateSelectionCount();
     initializePerECFilters();
     initializePerECSorting();
-    calculateOrganismFrequencies(); // Calcola le frequenze all'inizio
+    calculateOrganismFrequencies();
 });
 
 // Calculate organism frequencies for each EC
@@ -826,13 +826,13 @@ function calculateOrganismFrequencies() {
         const rows = card.querySelectorAll('.sequence-row');
         const organismCounts = new Map();
         
-        // Conta le occorrenze di ogni organismo
+        // Count frequencies
         rows.forEach(row => {
             const organism = row.querySelector('.organism-name').textContent.trim();
             organismCounts.set(organism, (organismCounts.get(organism) || 0) + 1);
         });
         
-        // Salva nel cache
+        // Save to cache
         organismFrequencyCache.set(ecNumber, organismCounts);
     });
 }
