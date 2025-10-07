@@ -77,3 +77,61 @@ def main(start_inchi: str, end_inchi: str, start_name:str='', end_name:str='', m
     except: # RetroPath failed
         print('retropath failed')
         return False
+
+if __name__ == "__main__":
+    import argparse
+    import pandas as pd
+    import os
+
+    parser = argparse.ArgumentParser(
+        description="CAPE Pathway Prediction CLI — run pathway search and RetroPath integration"
+    )
+
+    parser.add_argument("--start_inchi", required=True, help="Starting compound InChI string")
+    parser.add_argument("--end_inchi", required=True, help="Target compound InChI string")
+    parser.add_argument("--start_name", default='', help="Name of the starting compound (optional)")
+    parser.add_argument("--end_name", default='', help="Name of the target compound (optional)")
+    parser.add_argument("--max_paths", type=int, default=3, help="Maximum number of paths to return")
+    parser.add_argument("--max_steps", type=int, default=5, help="Maximum number of RetroPath steps")
+    parser.add_argument("--max_structures", type=int, default=100, help="Maximum number of intermediate structures")
+    parser.add_argument("--min_diameter", type=int, default=6, help="Minimum reaction diameter for RetroPath rules")
+    parser.add_argument("--max_diameter", type=int, default=16, help="Maximum reaction diameter for RetroPath rules")
+    parser.add_argument("--timeout", type=int, default=60, help="Timeout (minutes) for RetroPath")
+    parser.add_argument("--outdir", default="./cape_app/pipeline_results/rp_results/",
+                        help="Output directory for pathway results")
+    parser.add_argument("--sink_file", default="./cape_app/algorithms/pathways/data/gsm_gapfilled_sink.csv",
+                        help="Path to sink file for RetroPath")
+    parser.add_argument("--rules_file", default="./cape_app/algorithms/pathways/data/retrorules_rr02_rp2_flat_forward.csv",
+                        help="Path to RetroRules file for RetroPath")
+
+    args = parser.parse_args()
+
+    os.makedirs(args.outdir, exist_ok=True)
+
+    print("🔍 Running CAPE pathway analysis...")
+    result = main(
+        start_inchi=args.start_inchi,
+        end_inchi=args.end_inchi,
+        start_name=args.start_name,
+        end_name=args.end_name,
+        max_paths=args.max_paths,
+        outdir=args.outdir,
+        max_steps=args.max_steps,
+        max_structures=args.max_structures,
+        min_diameter=args.min_diameter,
+        max_diameter=args.max_diameter,
+        timeout=args.timeout,
+        sink_file=args.sink_file,
+        rules_file=args.rules_file,
+    )
+
+    if not result:
+        print("❌ No valid pathways found.")
+    else:
+        output_path = os.path.join(args.outdir, "pathways.csv")
+        try:
+            df = pd.DataFrame(result)
+            df.to_csv(output_path, index=False)
+            print(f"✅ Pathways saved to {output_path}")
+        except Exception as e:
+            print(f"⚠️ Could not save pathways to CSV: {e}")
