@@ -79,6 +79,9 @@ def pathways(request):
         sink = request.POST.get("sink")
         f_inchi = request.POST.get("f_inchi")
 
+        if not (p_inchi.startswith("InChi=") and f_inchi.startswith("InChi=")):
+            return HttpResponse("Error: InChi are requested in the form 'InChi=...", status=400)
+
         # Determine how many pathways the user asked for, default to 3 on invalid input
         n = request.POST.get("max_paths")
         try:
@@ -201,7 +204,7 @@ def ec_choice(request):
 
                 available_ecs.append(enzyme_entry)
             
-            if step_type is None:
+            if step_type is None and available_ecs:
                 if available_ecs[0]['color'] == 'green':
                     step_type = 'green'
                     available_ecs = [available_ecs[0]]
@@ -452,7 +455,12 @@ def codon_optimization(request):
 
         # Add any custom restriction sites provided by the user
         if custom_sites:
-            custom_sites_list = [site.strip() for site in custom_sites.split(',') if site.strip()]
+            custom_sites_list = [site.strip().upper() for site in custom_sites.split(',') if site.strip()]
+            
+            for site in custom_sites_list:
+                if not all(c in 'ACGT' for c in site):
+                    return HttpResponse(f"Error: Invalid restriction site '{site}'. Must contain only A,C,G,T characters.", status=400)
+    
             final_restriction_sites.extend(custom_sites_list)
 
         # Retrieve the selected protein sequences from session
@@ -468,7 +476,8 @@ def codon_optimization(request):
 
         write_fasta(fasta_entries, './cape_app/pipeline_results/codon_opt_results/opt_genes_pd630.fna')
 
-        fasta_output = open('./cape_app/pipeline_results/codon_opt_results/opt_genes_pd630.fna').read()
+        with open('./cape_app/pipeline_results/codon_opt_results/opt_genes_pd630.fna', 'r') as f:
+            fasta_output = f.read()
 
         # Save the optimized sequences in session for downstream use
         request.session['fasta_output'] = fasta_output
