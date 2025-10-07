@@ -157,6 +157,59 @@
                         </div>
                     {% endif %}
                 </div>
+
+                {% if ec.hidden %}
+                <div class="hidden-section">
+                    <button type="button" class="toggle-hidden-btn" onclick="toggleHidden('{{ ec.ec_number }}')">
+                        Show Hidden Sequences ▾
+                    </button>
+
+                    <div id="hidden-table-{{ ec.ec_number }}" class="hidden-table hidden">
+                        <div class="table-wrapper">
+                            <table class="sequences-table">
+                                <thead>
+                                    <tr>
+                                        <th>Organism</th>
+                                        <th>Header</th>
+                                        <th class="sequence-col">Sequence Preview</th>
+                                        <th class="length-col">Length</th>
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                {% for row in ec.hidden %}
+                                <tr class="sequence-row">
+                                    <td class="organism-col">
+                                        <span class="organism-name">{{ row.organism }}</span>
+                                    </td>
+                                    <td class="header-col">
+                                        <span class="header-text" title="{{ row.header }}">
+                                            {{ row.header|truncatechars:50 }}
+                                        </span>
+                                    </td>
+                                    <td class="sequence-col">
+                                        <div class="sequence-preview">
+                                            <span class="sequence-text">{{ row.sequence|truncatechars:30 }}</span>
+                                            <button type="button" class="view-sequence-btn"
+                                                    onclick="showSequence('{{ row.sequence|escapejs }}', '{{ row.header|escapejs }}')">
+                                                View Full
+                                            </button>
+                                        </div>
+                                    </td>
+                                    <td class="length-col">
+                                        <span class="length-badge {% if row.length < 200 %}short{% elif row.length > 500 %}long{% else %}medium{% endif %}">
+                                            {{ row.length }} aa
+                                        </span>
+                                    </td>
+                                </tr>
+                                {% endfor %}
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+            </div>
+            {% endif %}
+
+
             {% endfor %}
         </div>
 
@@ -727,6 +780,28 @@
     .hidden {
         display: none !important;
     }
+
+    .toggle-hidden-btn {
+        margin: 10px 20px;
+        background: #6f42c1;
+        color: white;
+        border: none;
+        padding: 6px 14px;
+        border-radius: 6px;
+        cursor: pointer;
+        font-size: 0.85rem;
+        transition: background 0.3s ease;
+    }
+
+    .toggle-hidden-btn:hover {
+        background: #59359c;
+    }
+
+    .hidden-section {
+        margin-top: 10px;
+        margin-bottom: 10px;
+    }
+
 </style>
 
 <script>
@@ -981,6 +1056,19 @@ window.addEventListener('click', function(event) {
         closeModal();
     }
 });
+
+function toggleHidden(ecNumber) {
+    const table = document.getElementById(`hidden-table-${ecNumber}`);
+    const btn = event.target;
+    if (table.classList.contains('hidden')) {
+        table.classList.remove('hidden');
+        btn.textContent = 'Hide Hidden Sequences ▴';
+    } else {
+        table.classList.add('hidden');
+        btn.textContent = 'Show Hidden Sequences ▾';
+    }
+}
+
 </script>
 
 {% endblock %}
