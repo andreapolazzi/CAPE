@@ -258,7 +258,8 @@ class RP():
                     rules="./cape_app/algorithms/pathways/data/retrorules_rr02_rp2_flat_forward.csv", 
                     #outdir="./cape_app/algorithms/pathways/rp_results/",
                     outdir="./cape_app/pipeline_results/rp_results",
-                    steps=5, structures=100, dmin=6, dmax=16, timeout=60) -> tuple:
+                    steps=5, structures=100, dmin=6, dmax=16, timeout=60,
+                    clear=False) -> tuple:
         """ 
         Utility to call retropath from django
         Acts a main for retropath execution with single source
@@ -277,11 +278,13 @@ class RP():
             dmin: min diameter for the reaction rules
             dmax: max diameter for the reaction rules
             timeout: max time RetroPath is allowed to run, in minutes
+            clear: if True, cleans the outdir before running retropath
         
         Returns:
             code: return codes from retropath execution
         """
-        #RP.clean_results(outdir)
+        if clear:
+            RP.clean_results(outdir)
         codes = RP.rp_single_source_noenv(sink=sink, rules=rules, outdir=outdir,
                                    name=name, inchi=inchi,
                                    steps=steps, structures=structures,

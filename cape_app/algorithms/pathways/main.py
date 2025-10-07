@@ -8,7 +8,8 @@ def main(start_inchi: str, end_inchi: str, start_name:str='', end_name:str='', m
          outdir="./cape_app/pipeline_results/rp_results/",
          max_steps=5, max_structures=100, min_diameter=6, max_diameter=16, timeout=60,
          sink_file="./cape_app/algorithms/pathways/data/gsm_gapfilled_sink.csv",
-         rules_file="./cape_app/algorithms/pathways/data/retrorules_rr02_rp2_flat_forward.csv"):
+         rules_file="./cape_app/algorithms/pathways/data/retrorules_rr02_rp2_flat_forward.csv",
+         clear_outdir=False) -> list:
     
     script_dir = os.path.dirname(os.path.abspath(__file__))
 
@@ -51,22 +52,29 @@ def main(start_inchi: str, end_inchi: str, start_name:str='', end_name:str='', m
         RP.django_call(name=start_name, inchi=start_inchi, steps=max_steps,
                        sink=sink_file, rules=rules_file,
                        structures=max_structures, dmin=min_diameter, dmax=max_diameter,
-                       outdir=outdir, timeout=timeout)
+                       outdir=outdir, timeout=timeout, clear=clear_outdir)
         print("generating tsv from retropath results")
-        RpOutput.tsv_generator(results_path="./cape_app/pipeline_results/rp_results/results.csv", 
-                               outdir="./cape_app/pipeline_results/rp_results/")
+        #RpOutput.tsv_generator(results_path="./cape_app/pipeline_results/rp_results/results.csv", 
+        #                       outdir="./cape_app/pipeline_results/rp_results/")
+        RpOutput.tsv_generator(results_path=os.path.join(outdir, "results.csv"), 
+                       outdir=outdir)
         print("standardizing retropath edges")
-        Std.main(tsv_edges_path="./cape_app/pipeline_results/rp_results/rp_edges.tsv", 
-                 edges_std_path="./cape_app/pipeline_results/rp_results/rp_std_edges.tsv", 
-                 processes=64)
+        #Std.main(tsv_edges_path="./cape_app/pipeline_results/rp_results/rp_edges.tsv", 
+        #         edges_std_path="./cape_app/pipeline_results/rp_results/rp_std_edges.tsv", 
+        #         processes=64)
+        Std.main(tsv_edges_path=os.path.join(outdir, "rp_edges.tsv"), 
+                 edges_std_path=os.path.join(outdir, "rp_std_edges.tsv"), 
+                 processes=2)
         print("adding weights to retropath edges")
-        Penalty.main(std_path="./cape_app/pipeline_results/rp_results/rp_std_edges.tsv", 
-                     weighted_path="./cape_app/pipeline_results/rp_results/rp_weighted_edges.tsv")
+        #Penalty.main(std_path="./cape_app/pipeline_results/rp_results/rp_std_edges.tsv", 
+        #             weighted_path="./cape_app/pipeline_results/rp_results/rp_weighted_edges.tsv")
+        Penalty.main(std_path=os.path.join(outdir, "rp_std_edges.tsv"), 
+                     weighted_path=os.path.join(outdir, "rp_weighted_edges.tsv"))
         
         # Add new edges to G and update dictionaries with new info
         print("trying to add retropath edges to graph")
         G = build_graph_from_tsv(G, method="RetroPath",
-                                 rp_outdir="./cape_app/pipeline_results/rp_results/")
+                                 rp_outdir=outdir)
         # Re-run path search
         print("re-running path search")
         paths = k_shortest_paths(G, start_ik, end_ik, K=max_paths)
