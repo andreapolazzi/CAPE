@@ -583,20 +583,6 @@ def get_hero_parts(request):
             for fasta_file in sorted(glob.glob(os.path.join(prom_path, '*.fasta'))):
                 with open(fasta_file, 'r') as f:
                     hero_parts.append(f.read())
-
-        # Read from primers folder
-        primers_path = os.path.join(settings.BASE_DIR, 'export', 'primers')
-        if os.path.exists(primers_path):
-            for fasta_file in sorted(glob.glob(os.path.join(primers_path, '*.fasta'))):
-                with open(fasta_file, 'r') as f:
-                    hero_parts.append(f.read())
-
-        # Read from reporter_gene folder
-        reporter_path = os.path.join(settings.BASE_DIR, 'export', 'reporter_gene')
-        if os.path.exists(reporter_path):
-            for fasta_file in sorted(glob.glob(os.path.join(reporter_path, '*.fasta'))):
-                with open(fasta_file, 'r') as f:
-                    hero_parts.append(f.read())
         
         content = '\n\n'.join(hero_parts)
         return JsonResponse({'success': True, 'content': content})
@@ -647,20 +633,6 @@ def download_hero_parts(request):
         prom_path = os.path.join(settings.BASE_DIR, 'export', 'constitutive_prom')
         if os.path.exists(prom_path):
             for fasta_file in sorted(glob.glob(os.path.join(prom_path, '*.fasta'))):
-                with open(fasta_file, 'r') as f:
-                    hero_parts.append(f.read())
-
-        # Read from primers folder
-        primers_path = os.path.join(settings.BASE_DIR, 'export', 'primers')
-        if os.path.exists(primers_path):
-            for fasta_file in sorted(glob.glob(os.path.join(primers_path, '*.fasta'))):
-                with open(fasta_file, 'r') as f:
-                    hero_parts.append(f.read())
-
-        # Read from reporter_gene folder
-        reporter_path = os.path.join(settings.BASE_DIR, 'export', 'reporter_gene')
-        if os.path.exists(reporter_path):
-            for fasta_file in sorted(glob.glob(os.path.join(reporter_path, '*.fasta'))):
                 with open(fasta_file, 'r') as f:
                     hero_parts.append(f.read())
         
