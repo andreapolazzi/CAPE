@@ -526,3 +526,5 @@ def download_fasta(request):
 def export(request):
     return render(request, 'cape/export.html')
 
+def help(request):
+    return render(request, 'cape/HelpCAPE.html')
