@@ -24,6 +24,38 @@
                 <input type="text" name="sink" class="input-field" placeholder="Insert final compound" required>
                 <input type="text" name="f_inchi" class="input-field" placeholder="Insert InChI of the final compound" required>
                 <input type="number" name="max_paths" class="input-field" placeholder="Number of pathways (default 3)" min="1">
+
+                <p class="input-label">RetroPath2.0 Mandatory settings</p>
+                <p>Please fill them in even if RetroPath2.0 would not be used, as they will be eventually ignored</p>
+                <label for="sink_file" class="input-field" style="display: inline-block; cursor: pointer; text-align: center;">
+                    Choose Sink csv file
+                </label>
+                <input type="file" id="sink_file" name="sink_file" style="display: none;" accept=".csv">
+                <label for="rules_file" class="input-field" style="display: inline-block; cursor: pointer; text-align: center;">
+                    Choose Rules csv file
+                </label>
+                <input type="file" id="rules_file" name="rules_file" style="display: none;" accept=".csv">
+
+                <p class="input-label">Advanced Options</p>
+                <p>
+                    All these options are advanced options to customize RetroPath2.0 prediction. Do not modify
+                    unless you understand well the meaning of each parameter
+                </p><br>
+                <p>Specify the output directory (default: ./cape_app/pipeline_results/rp_results/)</p>
+                <p><b>Warning</b>: the content of the RetroPath2.0 output directory will be deleted</p>
+                <input type="text" name="outdir" class="input-field" value="./cape_app/pipeline_results/rp_results/" required>
+                <p>Max number of RetroPath2.0 path steps (default 5)</p>
+                <input type="number" name="max_steps" class="input-field" value="5" min="1" required>
+                <p>Max structures considered at each RetroPath2.0 iteration (default 100)</p>
+                <input type="number" name="max_structures" class="input-field" value="100" min="1" required>
+                <p>Min diameter for a reaction rule to be considered (default 6)</p>
+                <input type="number" name="min_diameter" class="input-field" value="6" min="1" required>
+                <p>Max diameter for a reaction rule to be considered (default 16)</p>
+                <input type="number" name="max_diameter" class="input-field" value="16" max="16" required>
+                <p>Time limit in minutes for RetroPath2.0 execution (default 60)</p>
+                <input type="number" name="timeout" class="input-field" value="60" min="10" required>
+                
+
                 <button type="submit" class="create-btn">Submit</button>
             </form>
             
