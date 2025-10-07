@@ -323,11 +323,7 @@ def backtranslate_protein(protein: str, mode: str, rng: random.Random = None,
         if not codon_placed:
             # No valid codon found - need to backtrack
             if position == 0:
-                raise RuntimeError(
-                    f"Cannot place any codon for first amino acid '{aa}'. "
-                    f"All synonymous codons create forbidden sites. "
-                    f"Try relaxing restriction site constraints."
-                )
+                return None  # Cannot backtrack further
             
             # Calculate how far back we can go
             backtrack_distance = min(position, max_backtrack)
