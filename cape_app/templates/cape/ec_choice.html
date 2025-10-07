@@ -92,7 +92,7 @@
                                     SMARTS Pattern Analysis
                                 </h4>
                                 {% for ec_entry in step.ecs %}
-                                    {% if ec_entry.data %}
+                                    {% if ec_entry.has_data %}
                                     <div class="smarts-table-wrapper">
                                         <table class="smarts-data-table">
                                             <thead>
@@ -130,8 +130,7 @@
                                                        name="selected_ec_{{ step.step_number }}" 
                                                        value="{{ ec_num }}" 
                                                        class="ec-radio"
-                                                       {% if forloop.first %}checked{% endif %}
-                                                       onchange="updateStepSelection({{ step.step_number }})">
+                                                       {% if forloop.first %}checked{% endif %}>
                                                 <span class="ec-label">
                                                     <span class="ec-number-text">{{ ec_num }}</span>
                                                     <span class="ec-source-badge">From SMARTS</span>
@@ -150,14 +149,12 @@
                                     <input type="radio" 
                                            name="selected_ec_{{ step.step_number }}" 
                                            value="manual"
-                                           class="ec-radio manual-radio"
-                                           onchange="updateStepSelection({{ step.step_number }})">
+                                           class="ec-radio manual-radio">
                                     <span class="manual-label">Enter custom EC number</span>
                                     <input type="text" 
                                            name="manual_ec_{{ step.step_number }}" 
                                            class="manual-input"
                                            placeholder="e.g., 1.2.3.4"
-                                           onfocus="selectManualRadio({{ step.step_number }})"
                                            pattern="[0-9]+\.[0-9]+\.[0-9]+\.[0-9]+"
                                            title="EC number format: x.x.x.x">
                                 </label>
@@ -175,8 +172,7 @@
                                            name="selected_ec_{{ step.step_number }}" 
                                            value="{{ ec.EC }}" 
                                            class="ec-radio"
-                                           {% if forloop.first %}checked{% endif %}
-                                           onchange="updateStepSelection({{ step.step_number }})">
+                                           {% if forloop.first %}checked{% endif %}>
                                     <span class="ec-label">
                                         <span class="ec-number-text">{{ ec.colored_ec|safe }}</span>
                                         {% if ec.name %}
@@ -195,14 +191,12 @@
                                 <input type="radio" 
                                        name="selected_ec_{{ step.step_number }}" 
                                        value="manual"
-                                       class="ec-radio manual-radio"
-                                       onchange="updateStepSelection({{ step.step_number }})">
+                                       class="ec-radio manual-radio">
                                 <span class="manual-label">Enter custom EC number</span>
                                 <input type="text" 
                                        name="manual_ec_{{ step.step_number }}" 
                                        class="manual-input"
                                        placeholder="e.g., 1.2.3.4"
-                                       onfocus="selectManualRadio({{ step.step_number }})"
                                        pattern="[0-9]+\.[0-9]+\.[0-9]+\.[0-9]+"
                                        title="EC number format: x.x.x.x">
                             </label>
@@ -852,6 +846,18 @@ document.addEventListener('DOMContentLoaded', function() {
         const stepType = card.getAttribute('data-step-type');
         console.log(`Step ${index + 1}: ${stepType}`);
     });
+});
+
+// Attach radio change events
+document.querySelectorAll('.ec-radio').forEach(radio => {
+    const stepNumber = radio.name.match(/\d+/)[0];
+    radio.addEventListener('change', () => updateStepSelection(stepNumber));
+});
+
+// Attach manual input focus events
+document.querySelectorAll('.manual-input').forEach(input => {
+    const stepNumber = input.name.match(/\d+/)[0];
+    input.addEventListener('focus', () => selectManualRadio(stepNumber));
 });
 </script>
 {% endblock %}
