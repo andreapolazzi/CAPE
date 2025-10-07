@@ -235,6 +235,11 @@ def ec_choice(request):
                                    'ecs': available_ecs,
                                    'step_type': step_type})
 
+        for step in detailed_steps:
+            for enzyme_entry in step['ecs']:
+                if hasattr(enzyme_entry.get('data'), 'to_dict'):
+                    enzyme_entry['data'] = enzyme_entry['data'].to_dict(orient='records')
+
         # Save detailed steps in session   
         request.session['selected_steps'] = detailed_steps
 
