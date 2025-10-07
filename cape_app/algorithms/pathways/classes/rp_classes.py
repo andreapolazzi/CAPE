@@ -281,7 +281,7 @@ class RP():
         Returns:
             code: return codes from retropath execution
         """
-        RP.clean_results(outdir)
+        #RP.clean_results(outdir)
         codes = RP.rp_single_source_noenv(sink=sink, rules=rules, outdir=outdir,
                                    name=name, inchi=inchi,
                                    steps=steps, structures=structures,
