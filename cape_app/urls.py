@@ -39,4 +39,12 @@ urlpatterns = [
 
     # Help page: provide user guidance and documentation
     path('help', views.help, name='help'),
+
+    # API endpoints for dynamic file loading
+    path('api/get-optimized-sequences/', views.get_optimized_sequences, name='get_optimized_sequences'),
+    path('api/get-hero-parts/', views.get_hero_parts, name='get_hero_parts'),
+    path('api/get-backbone/', views.get_backbone, name='get_backbone'),
+    path('api/download-optimized-sequences/', views.download_optimized_sequences, name='download_optimized_sequences'),
+    path('api/download-hero-parts/', views.download_hero_parts, name='download_hero_parts'),
+    path('api/download-backbone/', views.download_backbone, name='download_backbone'),
 ]

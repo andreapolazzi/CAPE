@@ -10,11 +10,17 @@ to codon optimization and results.
 # Standard library
 import random
 from collections import defaultdict
+import os
+import glob
+
 
 # Django
 from django.http import HttpResponse
 from django.shortcuts import render
 from django.utils.safestring import mark_safe
+from django.http import JsonResponse, FileResponse, HttpResponse
+from django.views.decorators.http import require_http_methods
+from django.conf import settings
 
 # Local algorithms
 from .algorithms.pathways.main import main
@@ -544,7 +550,112 @@ def download_fasta(request):
     response['Content-Disposition'] = f'attachment; filename="{filename}"'
     return response
 
+@require_http_methods(["GET"])
+def get_optimized_sequences(request):
+    """Read and return the optimized sequences"""
+    try:
+        opt_file = os.path.join(settings.BASE_DIR, 'cape_app', 'pipeline_results', 'codon_opt_results', 'opt_genes_pd630.fna')
+        if os.path.exists(opt_file):
+            with open(opt_file, 'r') as f:
+                content = f.read()
+            return JsonResponse({'success': True, 'content': content})
+        else:
+            return JsonResponse({'success': False, 'error': 'Optimized sequences file not found'}, status=404)
+    except Exception as e:
+        return JsonResponse({'success': False, 'error': str(e)}, status=500)
 
+@require_http_methods(["GET"])
+def get_hero_parts(request):
+    """Read and return all HERO toolkit parts"""
+    try:
+        hero_parts = []
+        
+        # Read from rhodo_toolkit folder
+        rhodo_path = os.path.join(settings.BASE_DIR, 'export', 'rhodo_toolkit')
+        if os.path.exists(rhodo_path):
+            for fasta_file in sorted(glob.glob(os.path.join(rhodo_path, '*.fasta'))):
+                with open(fasta_file, 'r') as f:
+                    hero_parts.append(f.read())
+        
+        # Read from constitutive_prom folder
+        prom_path = os.path.join(settings.BASE_DIR, 'export', 'constitutive_prom')
+        if os.path.exists(prom_path):
+            for fasta_file in sorted(glob.glob(os.path.join(prom_path, '*.fasta'))):
+                with open(fasta_file, 'r') as f:
+                    hero_parts.append(f.read())
+        
+        content = '\n\n'.join(hero_parts)
+        return JsonResponse({'success': True, 'content': content})
+    except Exception as e:
+        return JsonResponse({'success': False, 'error': str(e)}, status=500)
+
+@require_http_methods(["GET"])
+def get_backbone(request):
+    """Read and return the pLoxship backbone sequence"""
+    try:
+        backbone_file = os.path.join(settings.BASE_DIR, 'export', 'composite_part', 'pLoxship.fa')
+        if os.path.exists(backbone_file):
+            with open(backbone_file, 'r') as f:
+                content = f.read()
+            return JsonResponse({'success': True, 'content': content})
+        else:
+            return JsonResponse({'success': False, 'error': 'Backbone file not found'}, status=404)
+    except Exception as e:
+        return JsonResponse({'success': False, 'error': str(e)}, status=500)
+
+@require_http_methods(["GET"])
+def download_optimized_sequences(request):
+    """Download the optimized sequences file"""
+    try:
+        opt_file = os.path.join(settings.BASE_DIR, 'cape_app', 'pipeline_results', 'codon_opt_results', 'opt_genes_pd630.fna')
+        if os.path.exists(opt_file):
+            response = FileResponse(open(opt_file, 'rb'), as_attachment=True, filename='opt_genes_pd630.fna')
+            return response
+        else:
+            return JsonResponse({'error': 'File not found'}, status=404)
+    except Exception as e:
+        return JsonResponse({'error': str(e)}, status=500)
+
+@require_http_methods(["GET"])
+def download_hero_parts(request):
+    """Download HERO toolkit parts as a single file"""
+    try:
+        hero_parts = []
+        
+        # Read from rhodo_toolkit folder
+        rhodo_path = os.path.join(settings.BASE_DIR, 'export', 'rhodo_toolkit')
+        if os.path.exists(rhodo_path):
+            for fasta_file in sorted(glob.glob(os.path.join(rhodo_path, '*.fasta'))):
+                with open(fasta_file, 'r') as f:
+                    hero_parts.append(f.read())
+        
+        # Read from constitutive_prom folder
+        prom_path = os.path.join(settings.BASE_DIR, 'export', 'constitutive_prom')
+        if os.path.exists(prom_path):
+            for fasta_file in sorted(glob.glob(os.path.join(prom_path, '*.fasta'))):
+                with open(fasta_file, 'r') as f:
+                    hero_parts.append(f.read())
+        
+        content = '\n\n'.join(hero_parts)
+        response = HttpResponse(content, content_type='text/plain')
+        response['Content-Disposition'] = 'attachment; filename="HERO_toolkit_parts.fna"'
+        return response
+    except Exception as e:
+        return JsonResponse({'error': str(e)}, status=500)
+
+@require_http_methods(["GET"])
+def download_backbone(request):
+    """Download the pLoxship backbone"""
+    try:
+        backbone_file = os.path.join(settings.BASE_DIR, 'export', 'composite_part', 'pLoxship.fa')
+        if os.path.exists(backbone_file):
+            response = FileResponse(open(backbone_file, 'rb'), as_attachment=True, filename='pLoxship_backbone.fa')
+            return response
+        else:
+            return JsonResponse({'error': 'File not found'}, status=404)
+    except Exception as e:
+        return JsonResponse({'error': str(e)}, status=500)
+    
 def export(request):
     return render(request, 'cape/export.html')
 
