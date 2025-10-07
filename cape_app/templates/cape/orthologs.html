@@ -165,49 +165,73 @@
                     </button>
 
                     <div id="hidden-table-{{ ec.ec_number }}" class="hidden-table hidden">
-                        <div class="table-wrapper">
-                            <table class="sequences-table">
-                                <thead>
-                                    <tr>
-                                        <th>Organism</th>
-                                        <th>Header</th>
-                                        <th class="sequence-col">Sequence Preview</th>
-                                        <th class="length-col">Length</th>
+                        <div class="sequences-container">
+                            <div class="table-wrapper">
+                                <table class="sequences-table">
+                                    <thead>
+                                        <tr>
+                                            <th class="checkbox-col">
+                                                <input type="checkbox" class="ec-master-checkbox" data-ec="{{ ec.ec_number }}-hidden" onchange="toggleECCheckboxes(this)">
+                                            </th>
+                                            <th>Organism</th>
+                                            <th>Header</th>
+                                            <th class="sequence-col">Sequence Preview</th>
+                                            <th class="length-col">Length</th>
+                                            <th class="actions-col">Actions</th>
+                                        </tr>
+                                    </thead>
+                                    <tbody>
+                                    {% for row in ec.hidden %}
+                                    <tr class="sequence-row" data-organism="{{ row.organism|lower }}" data-header="{{ row.header|lower }}" data-length="{{ row.length }}" data-original-index="{{ forloop.counter0 }}">
+                                        <td class="checkbox-col">
+                                            <input type="checkbox"
+                                                name="selections"
+                                                value="{{ ec.ec_number }}||{{ row.organism }}||{{ row.header }}||{{ row.sequence }}||{{ row.length }}"
+                                                class="sequence-checkbox"
+                                                data-ec="{{ ec.ec_number }}-hidden"
+                                                onchange="updateSelectionCount()">
+                                        </td>
+                                        <td class="organism-col">
+                                            <span class="organism-name">{{ row.organism }}</span>
+                                        </td>
+                                        <td class="header-col">
+                                            <span class="header-text" title="{{ row.header }}">
+                                                {{ row.header|truncatechars:50 }}
+                                            </span>
+                                        </td>
+                                        <td class="sequence-col">
+                                            <div class="sequence-preview">
+                                                <span class="sequence-text">{{ row.sequence|truncatechars:30 }}</span>
+                                                <button type="button" class="view-sequence-btn"
+                                                        onclick="showSequence('{{ row.sequence|escapejs }}', '{{ row.header|escapejs }}')">
+                                                    View Full
+                                                </button>
+                                            </div>
+                                        </td>
+                                        <td class="length-col">
+                                            <span class="length-badge {% if row.length < 200 %}short{% elif row.length > 500 %}long{% else %}medium{% endif %}">
+                                                {{ row.length }} aa
+                                            </span>
+                                        </td>
+                                        <td class="actions-col">
+                                            <div class="action-buttons">
+                                                <button type="button" class="action-btn" onclick="showSequenceDetails('{{ ec.ec_number }}', '{{ row.organism|escapejs }}', '{{ row.header|escapejs }}')">
+                                                    Details
+                                                </button>
+                                                <button type="button" class="ncbi-btn" onclick="window.open('{{ row.ncbi_url }}', '_blank')" title="View on NCBI Protein">
+                                                    NCBI
+                                                </button>
+                                            </div>
+                                        </td>
                                     </tr>
-                                </thead>
-                                <tbody>
-                                {% for row in ec.hidden %}
-                                <tr class="sequence-row">
-                                    <td class="organism-col">
-                                        <span class="organism-name">{{ row.organism }}</span>
-                                    </td>
-                                    <td class="header-col">
-                                        <span class="header-text" title="{{ row.header }}">
-                                            {{ row.header|truncatechars:50 }}
-                                        </span>
-                                    </td>
-                                    <td class="sequence-col">
-                                        <div class="sequence-preview">
-                                            <span class="sequence-text">{{ row.sequence|truncatechars:30 }}</span>
-                                            <button type="button" class="view-sequence-btn"
-                                                    onclick="showSequence('{{ row.sequence|escapejs }}', '{{ row.header|escapejs }}')">
-                                                View Full
-                                            </button>
-                                        </div>
-                                    </td>
-                                    <td class="length-col">
-                                        <span class="length-badge {% if row.length < 200 %}short{% elif row.length > 500 %}long{% else %}medium{% endif %}">
-                                            {{ row.length }} aa
-                                        </span>
-                                    </td>
-                                </tr>
-                                {% endfor %}
-                            </tbody>
-                        </table>
+                                    {% endfor %}
+                                    </tbody>
+                                </table>
+                            </div>
+                        </div>
                     </div>
                 </div>
-            </div>
-            {% endif %}
+                {% endif %}
 
 
             {% endfor %}
