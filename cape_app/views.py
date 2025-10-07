@@ -105,6 +105,9 @@ def pathways(request):
         request.session['pollutant'] = pollutant
         request.session['sink'] = sink
         request.session['requested_paths'] = max_paths
+
+        if not pathways:
+            return HttpResponse("No pathways found. Try different compounds or check InChI codes.", status=404)
         
         # Build HTML representation of each pathway in the form:
         path_text = []
