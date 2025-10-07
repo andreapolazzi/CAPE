@@ -350,7 +350,7 @@ class Penalty():
             return None
         
     @staticmethod
-    def main(std_path: str, weighted_path: str) -> pd.DataFrame:
+    def main(std_path: str, weighted_path: str, write=True) -> pd.DataFrame:
         """
         Generates the weighted dataframe needed for the weighted graph
 
@@ -421,5 +421,6 @@ class Penalty():
         )
         weighted_df["weight"] = weighted_df["weight"].fillna(50)
 
-        weighted_df.to_csv(weighted_path, sep="\t", index=False, quoting=csv.QUOTE_ALL)
+        if write:
+            weighted_df.to_csv(weighted_path, sep="\t", index=False, quoting=csv.QUOTE_ALL)
         return weighted_df

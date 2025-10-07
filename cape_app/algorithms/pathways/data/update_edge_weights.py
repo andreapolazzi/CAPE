@@ -1,8 +1,12 @@
-import os
+import os, sys
 import csv
 from rdkit import Chem
 from rdkit.Chem import AllChem, DataStructs,rdFingerprintGenerator
 import numpy as np
+import pandas as pd
+
+sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+from classes.chem_utils import Penalty
 
 
 def transf_distance(substrate_id: str, product_id: str, format="inchi") -> float:
@@ -188,7 +192,26 @@ def add_weights(pathway_folder: str):
         os.replace(temp_file, file_path)
 
 
+
+def weight_update_v2(pathway_folder: str = "./cape_app/algorithms/pathways/data/Pathways"):
+    for file_name in os.listdir(pathway_folder):
+        if file_name.endswith("_edges.tsv"):
+            print("Processing: ", file_name)
+            file_path = os.path.join(pathway_folder, file_name)
+            df = pd.read_csv(file_path, sep="\t")
+            df = df.dropna(subset=["source_inchi", "target_inchi", "source_inchi_key", "target_inchi_key"])
+            df = df.drop(columns=["my_column", "source_mol_weight", "target_mol_weight", "RP_score", "weight"], errors="ignore")
+            df.to_csv(file_path, sep="\t", index=False)
+
+            weighted_df = Penalty.main(std_path=file_path,
+                                       weighted_path=file_path,
+                                       write=False)
+
+            weighted_df.to_csv(file_path, sep="\t", index=False)
+
+
 if __name__ == "__main__":
 
-    add_weights("./Pathways")
+    #add_weights("./Pathways")
+    weight_update_v2()
 
