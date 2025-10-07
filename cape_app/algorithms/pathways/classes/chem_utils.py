@@ -236,19 +236,28 @@ class Penalty():
         Args:
             distance: distance from transf_distance() (0-1)
         Returns:
-            penalty: adjusted distance (0-4.6)
+            penalty: 3 for highly probable cofactors or currency metabolites
         """
+        # if distance is not None:
+        #     if distance <= 0.70:
+        #         # Main pathway
+        #         penalty = distance * 2.0
+        #     elif distance < 0.80:
+        #         # Still main pathway - some doubts
+        #         penalty = 0.60 * 2.0 + (distance - 0.60) * 5.0
+        #     else:
+        #         # Cofactors or byproducts
+        #         penalty = 0.60 * 2.0 + 0.20 * 5.0 + (distance - 0.80) * 12.0  # max add 4.6
+
+        #     return penalty
+        # else:
+        #     return None
         if distance is not None:
-            if distance <= 0.70:
-                # Main pathway
-                penalty = distance * 2.0
-            elif distance < 0.80:
-                # Still main pathway - some doubts
-                penalty = 0.60 * 2.0 + (distance - 0.60) * 5.0
+            if distance < 0.99:
+                penalty = 0
             else:
                 # Cofactors or byproducts
-                penalty = 0.60 * 2.0 + 0.20 * 5.0 + (distance - 0.80) * 12.0  # max add 4.6
-
+                penalty = (distance - 0.99) * 300
             return penalty
         else:
             return None
@@ -299,25 +308,43 @@ class Penalty():
                 return min(penalty, 3.0)
         else:
             return None
+    
+    @staticmethod
+    def base_penalty(color: str) -> float:
+        """
+        Adds penalty to favor:
+            green kegg edges (annotated in PD630), over
+            white kegg edges (not annotated in PD630), over
+            RetroPath edges (predicted reactions)
+        Args:
+            color: "green", "white", "RetroPath"
+        Returns:
+            penalty: 0 for green, 2 for white, 4 for RetroPath
+        """
+        if color == "green":
+            return 0.0
+        elif color == "white":
+            return 2.0
+        elif color == "RetroPath":
+            return 4.0
+        else:
+            return 10  # default for unknown colors
         
     @staticmethod
-    def transf_penalty(rp_score: float, distance_penalty: float, mw_penalty: float) -> float:
+    def transf_penalty(base_penalty: float, distance_penalty: float, mw_penalty: float) -> float:
         """
         Penalty Assembler
         
         Args:
-            rp_score: RetroPath reaction score -> 0-4 (0=best, 4=worst)
-                Use 0 for KEGG reactions
+            base_penalty: discrimnant for kegg/retropath edges
             distance_penalty: adjusted Tanimoto distance -> 0-4.6 (0=identical, 4.6=completely different)
             mw_penalty: molecular weight change -> 0-3 (0=no change, 3=huge mw change)
-            kegg_penalty: penalty for non-KEGG reactions -> default 2
-                Use 0 for KEGG reactions
         
         Returns:
             Combined penalty score (weight to be used as edge weight)
         """
         if distance_penalty is not None and mw_penalty is not None:
-            penalty = rp_score + distance_penalty + mw_penalty
+            penalty = base_penalty + distance_penalty + mw_penalty
             return penalty
         else:
             return None
@@ -333,20 +360,39 @@ class Penalty():
         Returns:
             weighted_df: dataframe with weights
         """
+        
         # std_df = pd.read_csv(std_path, sep="\t")
+        # invalid_df = pd.read_csv("./cape_app/algorithms/pathways/data/invalid_nodes.tsv", sep="\t")
+        # invalid_iks = set(invalid_df['std_inchikey'].tolist())
 
-        # std_df["distance"] = std_df.apply(lambda row: Penalty.transf_distance(row["source_inchi"], row["target_inchi"]), axis=1)
-        # std_df["dist_penalty"] = std_df.apply(lambda row: Penalty.dist_penalty(row["distance"]), axis=1)
-        # std_df["mw_change"] = std_df.apply(lambda row: Penalty.mw_change(Penalty.get_mw(row["source_inchi"]), Penalty.get_mw(row["target_inchi"])), axis=1)
+        # Create mask for invalid rows
+        # is_invalid = std_df['source_inchi_key'].isin(invalid_iks) | std_df['target_inchi_key'].isin(invalid_iks)
+        # valid_mask = ~is_invalid
+        
+        # # Only compute distances and penalties for valid rows
+        # std_df.loc[valid_mask, "distance"] = std_df[valid_mask].apply(
+        #     lambda row: Penalty.transf_distance(row["source_inchi"], row["target_inchi"]), axis=1
+        # )
+        # std_df.loc[valid_mask, "dist_penalty"] = std_df[valid_mask].apply(
+        #     lambda row: Penalty.dist_penalty(row["distance"]), axis=1
+        # )
+        # std_df.loc[valid_mask, "mw_change"] = std_df[valid_mask].apply(
+        #     lambda row: Penalty.mw_change(Penalty.get_mw(row["source_inchi"]), Penalty.get_mw(row["target_inchi"])), axis=1
+        # )
 
         # weighted_df = std_df.copy(deep=True)
-        # weighted_df["weight"] = weighted_df.apply(lambda row: Penalty.transf_penalty(row["RPscore"], row["dist_penalty"], row["mw_change"]), axis=1)
-        # weighted_df["weight"] = weighted_df["weight"].fillna(20)  # TODO: think more about this
+        # weighted_df.loc[is_invalid, "weight"] = 1000000  # Assign high weight to invalid rows
+        # # Calculate normal weight for valid rows
+        # weighted_df.loc[valid_mask, "weight"] = weighted_df[valid_mask].apply(
+        #     lambda row: Penalty.transf_penalty(row["RPscore"], row["dist_penalty"], row["mw_change"]), axis=1
+        # )
+        # weighted_df["weight"] = weighted_df["weight"].fillna(20)
 
         # weighted_df.to_csv(weighted_path, sep="\t", index=False, quoting=csv.QUOTE_ALL)
         # return weighted_df
+
         std_df = pd.read_csv(std_path, sep="\t")
-        invalid_df = pd.read_csv("./cape_app/algorithms/pathways/data/invalid_nodes.tsv", sep="\t")
+        invalid_df = pd.read_csv("/work/igem/iGEM/cape_app/algorithms/pathways/data/invalid_nodes.tsv", sep="\t")
         invalid_iks = set(invalid_df['std_inchikey'].tolist())
 
         # Create mask for invalid rows
@@ -363,14 +409,17 @@ class Penalty():
         std_df.loc[valid_mask, "mw_change"] = std_df[valid_mask].apply(
             lambda row: Penalty.mw_change(Penalty.get_mw(row["source_inchi"]), Penalty.get_mw(row["target_inchi"])), axis=1
         )
-
+        std_df.loc[valid_mask, "base_penalty"] = std_df[valid_mask].apply(
+            lambda row: Penalty.base_penalty(row["color"]), axis=1
+        )
+        
         weighted_df = std_df.copy(deep=True)
         weighted_df.loc[is_invalid, "weight"] = 1000000  # Assign high weight to invalid rows
         # Calculate normal weight for valid rows
         weighted_df.loc[valid_mask, "weight"] = weighted_df[valid_mask].apply(
-            lambda row: Penalty.transf_penalty(row["RPscore"], row["dist_penalty"], row["mw_change"]), axis=1
+            lambda row: Penalty.transf_penalty(row["base_penalty"], row["dist_penalty"], row["mw_change"]), axis=1
         )
-        weighted_df["weight"] = weighted_df["weight"].fillna(20)
+        weighted_df["weight"] = weighted_df["weight"].fillna(50)
 
         weighted_df.to_csv(weighted_path, sep="\t", index=False, quoting=csv.QUOTE_ALL)
         return weighted_df

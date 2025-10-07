@@ -437,7 +437,7 @@ class RpOutput():
         #df['target_name'] = 'Unknown'
         df['target_name'] = df['Product InChI']
         df['color'] = 'RetroPath'
-        df['RPscore'] = df['Score'] + 2  # adding RP penalty for later weighting
+        #df['RPscore'] = df['Score'] + 2  # adding RP penalty for later weighting
 
         df = df.rename(columns={
             'EC number': 'EC', 
