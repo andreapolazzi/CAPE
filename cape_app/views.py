@@ -186,11 +186,14 @@ def ec_choice(request):
                 enzyme_ec = enzyme.get('EC', '').strip().upper()
                 enzyme_color = enzyme.get('color')
                 enzyme_info = {k: v for k, v in enzyme.items() if k not in ["EC", "color"]}
-                print("\nEnzyme info: ", enzyme_info)
 
                 # Map enzyme color
-                coloring = COLOR_MAP.get(enzyme_color, "#333333")
-                colored_ec = mark_safe(f"<span style='color:{coloring}'>{enzyme_ec}</span>")
+                if enzyme_ec == 'NOEC':
+                    coloring = COLOR_MAP['NOEC']
+                else:
+                    coloring = COLOR_MAP.get(enzyme_color, '#333333')
+
+                colored_ec = f'<span style="color:{coloring}">{enzyme_ec}</span>'
 
                 enzyme_entry = {'colored_ec': colored_ec,
                                 'color': enzyme_color,
@@ -198,12 +201,14 @@ def ec_choice(request):
                                 **enzyme_info}
                 
                 if enzyme_ec == 'NOEC' and 'Reaction SMILES' in enzyme_info:
-                    out = query_smarts(enzyme_info['Reaction SMILES'])
-                    print("out type:", type(out))
-                    data = out[enzyme_info['Reaction SMILES']]
+                    smarts = str(enzyme_info['Reaction SMILES'])
+                    print(smarts)
+
+                    out = query_smarts(smarts)
+                    data = out[smarts]
+                    print(data.columns.tolist())
 
                     enzyme_entry['data'] = data
-                    print("Data from Selenzyme:", data.columns.tolist())
                     
                     enzyme_entry['ec_selenzyme'] = data['EC Number'].dropna().unique().tolist()
                     print("Selenzyme ECs:", enzyme_entry['ec_selenzyme'])
