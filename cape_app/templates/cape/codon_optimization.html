@@ -190,6 +190,15 @@
             </a>
         </div>
     </div>
+
+    <div class="next-section">
+        <form method="post" action="{% url 'export' %}">
+            {% csrf_token %}
+            <button type="submit" class="next-btn">
+                Go to export page
+            </button>
+        </form>
+    </div>
     {% endif %}
 
 <style>

@@ -62,6 +62,16 @@
       </div>
     {% endfor %}
 
+    <div class="download-section">
+      <a href="{% url 'download_fasta' %}?type=protein" class="download-btn">
+        <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+            <path d="M21 15v4a2 2 0 01-2 2H5a2 2 0 01-2-2v-4"/>
+            <polyline points="7 10 12 15 17 10"/>
+            <line x1="12" y1="15" x2="12" y2="3"/>
+        </svg>
+        <span>Download Protein FASTA (.faa)</span>
+      </a>
+    </div>
 
     <div class="submit-section">
       <form method="GET" action="{% url 'codon_optimization' %}" class="confirm-form">
@@ -74,6 +84,8 @@
         </button>
       </form>
     </div>
+
+    
   </main>
 
 <style>
@@ -304,6 +316,33 @@
         font-size: 3rem;
         margin-bottom: 15px;
         opacity: 0.6;
+    }
+
+     /* Download Section */
+    .download-section {
+        display: flex;
+        justify-content: center;
+    }
+
+    .download-btn {
+        display: flex;
+        align-items: center;
+        gap: 10px;
+        padding: 12px 30px;
+        background: #28a745;
+        color: white;
+        border-radius: 8px;
+        text-decoration: none;
+        font-weight: 600;
+        font-size: 1.05rem;
+        transition: all 0.3s ease;
+        box-shadow: 0 2px 8px rgba(40, 167, 69, 0.3);
+    }
+
+    .download-btn:hover {
+        background: #218838;
+        transform: translateY(-2px);
+        box-shadow: 0 4px 16px rgba(40, 167, 69, 0.4);
     }
 
 </style>
