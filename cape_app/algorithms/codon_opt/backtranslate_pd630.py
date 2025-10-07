@@ -380,6 +380,7 @@ def write_fasta(entries: List[Tuple[str, str]], output_file: str):
     Raises:
         IOError: If file cannot be written
     """
+    output_file = Path(output_file)
     parent_directory = output_file.parent
     os.makedirs(parent_directory, exist_ok=True)
     with open(output_file, "w") as f:
