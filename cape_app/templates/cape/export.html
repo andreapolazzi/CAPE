@@ -30,56 +30,13 @@
 
     <!-- Results Section -->
     <div class="results-container">
-        <div class="results-header">
-            <h2>Optimization Summary</h2>
-            <div class="results-meta">
-                <span class="meta-item"><strong>Pathway:</strong> Phenol → Acetyl-CoA</span>
-                <span class="meta-item"><strong>Organism:</strong> Rhodococcus opacus PD630</span>
-                <span class="meta-item"><strong>Sequences optimized:</strong> 5</span>
-            </div>
-        </div>
-
         <div class="fasta-card">
             <div class="fasta-card-header">
                 <h3>Optimized Enzyme Sequences (.fna)</h3>
                 <button type="button" class="copy-btn" onclick="copyFasta()">Copy to Clipboard</button>
             </div>
             <div class="fasta-body">
-                <pre id="fasta-output">>PhenolHydroxylase_RopacusPD630_optimized
-ATGACCGAACTGAAAGCGCTGGAAACCCTGGTGAAAGTGACCGCGGCGGGCACCGGCAC
-CACCGTGTGCGGCATCGAAGGCACCGGCCTGACCATGGGCGAAGTGCGCACCCTGGTGG
-TGTGCCCGGCGACCGCGAAACTGACCGGCGAAGTGCTGCGCGGCATCGAAGTGACCAAA
-GAACTGGCGGGCACCATCGCGATCCACGGCATCGGCACCGGCATGCCGGAACTGATCGG
-CGCGGTGACCAAAGCGACCCTGGGCCTGCTGCGCGCGGTGCTGGAAGAAATCGGCAAAG
-AACTGGTGACCGCGGCGACCAAAGCGGGCATCGAAATCACCGGCGGCAAACTGACCCTG
-GGCGTGACCGAAGGCACCGTGCGCATCATCAAAGCGGGCACCGCGCGCGGCCTGGTGAC
-CGGCACCGGCATCGAAGGCACCAAACTGGAAGTGACCGCGGCGGGCACCGGCATCACCG
-
->CatecholDioxygenase_RopacusPD630_optimized
-ATGACCGAACTGAAAGCGCTGGAAACCCTGGTGAAAGTGACCGCGGCGGGCACCGGCAC
-CACCGTGTGCGGCATCGAAGGCACCGGCCTGACCATGGGCGAAGTGCGCACCCTGGTGG
-TGTGCCCGGCGACCGCGAAACTGACCGGCGAAGTGCTGCGCGGCATCGAAGTGACCAAA
-GAACTGGCGGGCACCATCGCGATCCACGGCATCGGCACCGGCATGCCGGAACTGATCGG
-CGCGGTGACCAAAGCGACCCTGGGCCTGCTGCGCGCGGTGCTGGAAGAAATCGGCAAAG
-AACTGGTGACCGCGGCGACCAAAGCGGGCATCGAAATCACCGGCGGCAAACTGACCCTG
-
->MuconolactonaseIsomerase_RopacusPD630_optimized
-ATGACCGAACTGAAAGCGCTGGAAACCCTGGTGAAAGTGACCGCGGCGGGCACCGGCAC
-CACCGTGTGCGGCATCGAAGGCACCGGCCTGACCATGGGCGAAGTGCGCACCCTGGTGG
-TGTGCCCGGCGACCGCGAAACTGACCGGCGAAGTGCTGCGCGGCATCGAAGTGACCAAA
-GAACTGGCGGGCACCATCGCGATCCACGGCATCGGCACCGGCATGCCGGAACTGATCGG
-
->BetaKetoadipatePathway_RopacusPD630_optimized
-ATGACCGAACTGAAAGCGCTGGAAACCCTGGTGAAAGTGACCGCGGCGGGCACCGGCAC
-CACCGTGTGCGGCATCGAAGGCACCGGCCTGACCATGGGCGAAGTGCGCACCCTGGTGG
-TGTGCCCGGCGACCGCGAAACTGACCGGCGAAGTGCTGCGCGGCATCGAAGTGACCAAA
-
->AcetylCoASynthetase_RopacusPD630_optimized
-ATGACCGAACTGAAAGCGCTGGAAACCCTGGTGAAAGTGACCGCGGCGGGCACCGGCAC
-CACCGTGTGCGGCATCGAAGGCACCGGCCTGACCATGGGCGAAGTGCGCACCCTGGTGG
-TGTGCCCGGCGACCGCGAAACTGACCGGCGAAGTGCTGCGCGGCATCGAAGTGACCAAA
-GAACTGGCGGGCACCATCGCGATCCACGGCATCGGCACCGGCATGCCGGAACTGATCGG
-CGCGGTGACCAAAGCGACCCTGGGCCTGCTGCGCGCGGTGCTGGAAGAAATCGGCAAAG</pre>
+                <pre id="fasta-output">Loading sequences...</pre>
             </div>
         </div>
 
@@ -90,7 +47,7 @@ CGCGGTGACCAAAGCGACCCTGGGCCTGCTGCGCGCGGTGCTGGAAGAAATCGGCAAAG</pre>
                     <polyline points="7 10 12 15 17 10"/>
                     <line x1="12" y1="15" x2="12" y2="3"/>
                 </svg>
-                <span>Download Final .fna File</span>
+                <span>Download Optimized Sequences (.fna)</span>
             </button>
         </div>
 
@@ -145,7 +102,7 @@ CGCGGTGACCAAAGCGACCCTGGGCCTGCTGCGCGCGGTGCTGGAAGAAATCGGCAAAG</pre>
     </div>
 
 <style>
-    /* Description Section - matching codon optimization style */
+    /* Description Section */
     .description-section {
         background: linear-gradient(135deg, #f2f7ff, var(--light-purple));
         border-left: 4px solid var(--primary-purple);
@@ -208,32 +165,7 @@ CGCGGTGACCAAAGCGACCCTGGGCCTGCTGCGCGCGGTGCTGGAAGAAATCGGCAAAG</pre>
         to { opacity: 1; transform: translateY(0); }
     }
 
-    .results-header {
-        margin-bottom: 25px;
-    }
-
-    .results-header h2 {
-        color: var(--primary-purple);
-        font-size: 1.8rem;
-        margin-bottom: 15px;
-    }
-
-    .results-meta {
-        display: flex;
-        flex-wrap: wrap;
-        gap: 20px;
-    }
-
-    .meta-item {
-        color: #495057;
-        font-size: 0.95rem;
-    }
-
-    .meta-item strong {
-        color: #2c3e50;
-    }
-
-    /* FASTA Card - matching codon optimization style */
+    /* FASTA Card */
     .fasta-card {
         background: white;
         border-radius: 12px;
@@ -298,7 +230,7 @@ CGCGGTGACCAAAGCGACCCTGGGCCTGCTGCGCGCGGTGCTGGAAGAAATCGGCAAAG</pre>
         word-wrap: break-word;
     }
 
-    /* Download Section - matching codon optimization style */
+    /* Download Section */
     .download-section {
         display: flex;
         justify-content: center;
@@ -436,11 +368,6 @@ CGCGGTGACCAAAGCGACCCTGGGCCTGCTGCGCGCGGTGCTGGAAGAAATCGGCAAAG</pre>
 
     /* Responsive Design */
     @media (max-width: 768px) {
-        .results-meta {
-            flex-direction: column;
-            gap: 10px;
-        }
-
         .fasta-card-header {
             flex-direction: column;
             align-items: stretch;
@@ -481,13 +408,6 @@ CGCGGTGACCAAAGCGACCCTGGGCCTGCTGCGCGCGGTGCTGGAAGAAATCGGCAAAG</pre>
             if (data.success) {
                 optimizedSequences = data.content;
                 document.getElementById('fasta-output').textContent = optimizedSequences;
-                
-                // Count sequences
-                const seqCount = (optimizedSequences.match(/^>/gm) || []).length;
-                const metaItem = document.querySelector('.results-meta .meta-item:last-child');
-                if (metaItem) {
-                    metaItem.innerHTML = `<strong>Sequences optimized:</strong> ${seqCount}`;
-                }
             } else {
                 console.error('Error loading sequences:', data.error);
                 document.getElementById('fasta-output').textContent = 'Error loading sequences. Please run codon optimization first.';
@@ -547,18 +467,42 @@ CGCGGTGACCAAAGCGACCCTGGGCCTGCTGCGCGCGGTGCTGGAAGAAATCGGCAAAG</pre>
     }
 
     function downloadFasta() {
-        // Use the API endpoint for downloading
-        window.location.href = '/api/download-optimized-sequences/';
+        // Create blob and download directly with fixed filename
+        const blob = new Blob([optimizedSequences], { type: 'text/plain' });
+        const url = window.URL.createObjectURL(blob);
+        const a = document.createElement('a');
+        a.href = url;
+        a.download = 'optimized_sequences.fna';
+        document.body.appendChild(a);
+        a.click();
+        document.body.removeChild(a);
+        window.URL.revokeObjectURL(url);
     }
 
     function downloadHeroParts() {
-        // Use the API endpoint for downloading
-        window.location.href = '/api/download-hero-parts/';
+        // Create blob and download directly with fixed filename
+        const blob = new Blob([heroPartsData], { type: 'text/plain' });
+        const url = window.URL.createObjectURL(blob);
+        const a = document.createElement('a');
+        a.href = url;
+        a.download = 'HERO_toolkit_parts.fna';
+        document.body.appendChild(a);
+        a.click();
+        document.body.removeChild(a);
+        window.URL.revokeObjectURL(url);
     }
 
     function downloadBackbone() {
-        // Use the API endpoint for downloading
-        window.location.href = '/api/download-backbone/';
+        // Create blob and download directly with fixed filename
+        const blob = new Blob([backboneData], { type: 'text/plain' });
+        const url = window.URL.createObjectURL(blob);
+        const a = document.createElement('a');
+        a.href = url;
+        a.download = 'pLoxship_backbone.fa';
+        document.body.appendChild(a);
+        a.click();
+        document.body.removeChild(a);
+        window.URL.revokeObjectURL(url);
     }
 
     function viewHeroParts() {
