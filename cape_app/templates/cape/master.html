@@ -42,7 +42,6 @@
             color: white;
             position: relative;
             overflow: hidden;
-            box-shadow: var(--shadow-medium);
         }
 
         header::before {
@@ -528,7 +527,6 @@
                 top: 100%;
                 left: 0;
                 width: 100%;
-                background-color: #fff;
                 flex-direction: column;
                 padding: 1rem 2rem;
                 box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
@@ -819,17 +817,7 @@
             });
         }
         
-        // Header scroll effect
-        window.addEventListener('scroll', function() {
-            const nav = document.querySelector('nav');
-            if (window.scrollY > 100) {
-                nav.style.background = 'rgba(45, 29, 75, 0.98)';
-                nav.style.boxShadow = '0 2px 20px rgba(0,0,0,0.2)';
-            } else {
-                nav.style.background = 'rgba(45, 29, 75, 0.95)';
-                nav.style.boxShadow = 'none';
-            }
-        });
+
 
         // Global Loading Overlay Manager
         (function() {
