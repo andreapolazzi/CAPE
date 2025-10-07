@@ -460,6 +460,74 @@ CGCGGTGACCAAAGCGACCCTGGGCCTGCTGCGCGCGGTGCTGGAAGAAATCGGCAAAG</pre>
 </style>
 
 <script>
+    // Store loaded data globally
+    let optimizedSequences = '';
+    let heroPartsData = '';
+    let backboneData = '';
+
+    // Load all data when page loads
+    document.addEventListener('DOMContentLoaded', async function() {
+        console.log('Final Export page loaded');
+        await loadOptimizedSequences();
+        await loadHeroParts();
+        await loadBackbone();
+    });
+
+    async function loadOptimizedSequences() {
+        try {
+            const response = await fetch('/api/get-optimized-sequences/');
+            const data = await response.json();
+            
+            if (data.success) {
+                optimizedSequences = data.content;
+                document.getElementById('fasta-output').textContent = optimizedSequences;
+                
+                // Count sequences
+                const seqCount = (optimizedSequences.match(/^>/gm) || []).length;
+                const metaItem = document.querySelector('.results-meta .meta-item:last-child');
+                if (metaItem) {
+                    metaItem.innerHTML = `<strong>Sequences optimized:</strong> ${seqCount}`;
+                }
+            } else {
+                console.error('Error loading sequences:', data.error);
+                document.getElementById('fasta-output').textContent = 'Error loading sequences. Please run codon optimization first.';
+            }
+        } catch (error) {
+            console.error('Error fetching sequences:', error);
+            document.getElementById('fasta-output').textContent = 'Error loading sequences. Please try again.';
+        }
+    }
+
+    async function loadHeroParts() {
+        try {
+            const response = await fetch('/api/get-hero-parts/');
+            const data = await response.json();
+            
+            if (data.success) {
+                heroPartsData = data.content;
+            } else {
+                console.error('Error loading HERO parts:', data.error);
+            }
+        } catch (error) {
+            console.error('Error fetching HERO parts:', error);
+        }
+    }
+
+    async function loadBackbone() {
+        try {
+            const response = await fetch('/api/get-backbone/');
+            const data = await response.json();
+            
+            if (data.success) {
+                backboneData = data.content;
+            } else {
+                console.error('Error loading backbone:', data.error);
+            }
+        } catch (error) {
+            console.error('Error fetching backbone:', error);
+        }
+    }
+
     function copyFasta() {
         const fastaText = document.getElementById('fasta-output').textContent;
         const tempTextarea = document.createElement('textarea');
@@ -479,98 +547,34 @@ CGCGGTGACCAAAGCGACCCTGGGCCTGCTGCGCGCGGTGCTGGAAGAAATCGGCAAAG</pre>
     }
 
     function downloadFasta() {
-        const fastaText = document.getElementById('fasta-output').textContent;
-        const blob = new Blob([fastaText], { type: 'text/plain' });
-        const url = window.URL.createObjectURL(blob);
-        const a = document.createElement('a');
-        a.href = url;
-        a.download = 'optimized_sequences_phenol_pathway.fna';
-        document.body.appendChild(a);
-        a.click();
-        document.body.removeChild(a);
-        window.URL.revokeObjectURL(url);
+        // Use the API endpoint for downloading
+        window.location.href = '/api/download-optimized-sequences/';
     }
 
     function downloadHeroParts() {
-        const heroPartsData = `>BBa_K5495000_Promoter_PnitA
-TTGACAATTAATCATCGGCTCGTATAATGTGTGGAATTGTGAGCGGATAACAATTTCACACAGGAAACAGCTATG
-
->BBa_K5495001_RBS_Strong
-AAGGAGGTGATATAATG
-
->BBa_K5495002_RBS_Medium
-AAGGAGGAAATAATG
-
->BBa_K5495003_RBS_Weak
-AGGAGGATAATG
-
->BBa_K5495004_Terminator_T7
-CTAGCATAACCCCTTGGGGCCTCTAAACGGGTCTTGAGGGGTTTTTTG`;
-        
-        const blob = new Blob([heroPartsData], { type: 'text/plain' });
-        const url = window.URL.createObjectURL(blob);
-        const a = document.createElement('a');
-        a.href = url;
-        a.download = 'HERO_toolkit_parts.fna';
-        document.body.appendChild(a);
-        a.click();
-        document.body.removeChild(a);
-        window.URL.revokeObjectURL(url);
+        // Use the API endpoint for downloading
+        window.location.href = '/api/download-hero-parts/';
     }
 
     function downloadBackbone() {
-        const backboneData = `>pLoxship_backbone_Rhodococcus_opacus_PD630
-ATGCTAGCTACGTAGCTAGCTAGCTAGCTAGCTAGCTAGCTAGCTAGCTAGCTAGCTAG
-CTAGCTAGCTAGCTAGCTAGCTAGCTAGCTAGCTAGCTAGCTAGCTAGCTAGCTAGCTA
-GCTAGCTAGCTAGCTAGCTAGCTAGCTAGCTAGCTAGCTAGCTAGCTAGCTAGCTAGCT
-AGCTAGCTAGCTAGCTAGCTAGCTAGCTAGCTAGCTAGCTAGCTAGCTAGCTAGCTAGC
-TAGCTAGCTAGCTAGCTAGCTAGCTAGCTAGCTAGCTAGCTAGCTAGCTAGCTAGCTAG
-CTAGCTAGCTAGCTAGCTAGCTAGCTAGCTAGCTAGCTAGCTAGCTAGCTAGCTAGCTA
-GCTAGCTAGCTAGCTAGCTAGCTAGCTAGCTAGCTAGCTAGCTAGCTAGCTAGCTAGCT
-AGCTAGCTAGCTAGCTAGCTAGCTAGCTAGCTAGCTAGCTAGCTAGCTAGCTAGCTAGC`;
-        
-        const blob = new Blob([backboneData], { type: 'text/plain' });
-        const url = window.URL.createObjectURL(blob);
-        const a = document.createElement('a');
-        a.href = url;
-        a.download = 'pLoxship_backbone.fna';
-        document.body.appendChild(a);
-        a.click();
-        document.body.removeChild(a);
-        window.URL.revokeObjectURL(url);
+        // Use the API endpoint for downloading
+        window.location.href = '/api/download-backbone/';
     }
 
     function viewHeroParts() {
-        const heroPartsData = `>BBa_K5495000_Promoter_PnitA
-TTGACAATTAATCATCGGCTCGTATAATGTGTGGAATTGTGAGCGGATAACAATTTCACACAGGAAACAGCTATG
-
->BBa_K5495001_RBS_Strong
-AAGGAGGTGATATAATG
-
->BBa_K5495002_RBS_Medium
-AAGGAGGAAATAATG
-
->BBa_K5495003_RBS_Weak
-AGGAGGATAATG
-
->BBa_K5495004_Terminator_T7
-CTAGCATAACCCCTTGGGGCCTCTAAACGGGTCTTGAGGGGTTTTTTG`;
-        
-        showModal('HERO Toolkit Parts', heroPartsData);
+        if (heroPartsData) {
+            showModal('HERO Toolkit Parts', heroPartsData);
+        } else {
+            alert('HERO toolkit parts are not available. Please check if the files exist.');
+        }
     }
 
     function viewBackbone() {
-        const backboneData = `>pLoxship_backbone_Rhodococcus_opacus_PD630
-ATGCTAGCTACGTAGCTAGCTAGCTAGCTAGCTAGCTAGCTAGCTAGCTAGCTAGCTAG
-CTAGCTAGCTAGCTAGCTAGCTAGCTAGCTAGCTAGCTAGCTAGCTAGCTAGCTAGCTA
-GCTAGCTAGCTAGCTAGCTAGCTAGCTAGCTAGCTAGCTAGCTAGCTAGCTAGCTAGCT
-AGCTAGCTAGCTAGCTAGCTAGCTAGCTAGCTAGCTAGCTAGCTAGCTAGCTAGCTAGC
-TAGCTAGCTAGCTAGCTAGCTAGCTAGCTAGCTAGCTAGCTAGCTAGCTAGCTAGCTAG
-CTAGCTAGCTAGCTAGCTAGCTAGCTAGCTAGCTAGCTAGCTAGCTAGCTAGCTAGCTA
-GCTAGCTAGCTAGCTAGCTAGCTAGCTAGCTAGCTAGCTAGCTAGCTAGCTAGCTAGCT
-AGCTAGCTAGCTAGCTAGCTAGCTAGCTAGCTAGCTAGCTAGCTAGCTAGCTAGCTAGC`;
-        
-        showModal('pLoxship Backbone Sequence', backboneData);
+        if (backboneData) {
+            showModal('pLoxship Backbone Sequence', backboneData);
+        } else {
+            alert('Backbone sequence is not available. Please check if the file exists.');
+        }
     }
 
     function showModal(title, sequence) {
@@ -589,10 +593,6 @@ AGCTAGCTAGCTAGCTAGCTAGCTAGCTAGCTAGCTAGCTAGCTAGCTAGCTAGCTAGC`;
             closeModal();
         }
     }
-
-    document.addEventListener('DOMContentLoaded', function() {
-        console.log('Final Export page loaded');
-    });
 </script>
 
 {% endblock %}
