@@ -331,7 +331,7 @@ class Penalty():
             return 10  # default for unknown colors
         
     @staticmethod
-    def transf_penalty(base_penalty: float, distance_penalty: float, mw_penalty: float) -> float:
+    def transf_penalty(base_penalty: float, distance_penalty: float, mw_penalty: float, rp_score: float) -> float:
         """
         Penalty Assembler
         
@@ -339,12 +339,13 @@ class Penalty():
             base_penalty: discrimnant for kegg/retropath edges
             distance_penalty: adjusted Tanimoto distance -> 0-4.6 (0=identical, 4.6=completely different)
             mw_penalty: molecular weight change -> 0-3 (0=no change, 3=huge mw change)
+            rp_score: Retropath score -> 0-4 (0=best, 4=worst)
         
         Returns:
             Combined penalty score (weight to be used as edge weight)
         """
         if distance_penalty is not None and mw_penalty is not None:
-            penalty = base_penalty + distance_penalty + mw_penalty
+            penalty = base_penalty + distance_penalty + mw_penalty + rp_score
             return penalty
         else:
             return None
@@ -417,7 +418,8 @@ class Penalty():
         weighted_df.loc[is_invalid, "weight"] = 1000000  # Assign high weight to invalid rows
         # Calculate normal weight for valid rows
         weighted_df.loc[valid_mask, "weight"] = weighted_df[valid_mask].apply(
-            lambda row: Penalty.transf_penalty(row["base_penalty"], row["dist_penalty"], row["mw_change"]), axis=1
+            lambda row: Penalty.transf_penalty(row["base_penalty"], row["dist_penalty"], 
+                                               row["mw_change"], row.get("Score", 0)), axis=1
         )
         weighted_df["weight"] = weighted_df["weight"].fillna(50)
 
