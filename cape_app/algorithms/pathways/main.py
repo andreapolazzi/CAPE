@@ -1,8 +1,5 @@
 import os
 import pandas as pd
-from .classes.chem_utils import *
-from .classes.classes_functions import *
-from .classes.rp_classes import *
 
 def main(start_inchi: str, end_inchi: str, start_name:str='', end_name:str='', max_paths: int = 3,
          outdir="./cape_app/pipeline_results/rp_results/",
@@ -10,7 +7,16 @@ def main(start_inchi: str, end_inchi: str, start_name:str='', end_name:str='', m
          sink_file="./cape_app/algorithms/pathways/data/gsm_gapfilled_sink.csv",
          rules_file="./cape_app/algorithms/pathways/data/retrorules_rr02_rp2_flat_forward.csv",
          clear_outdir=False) -> list:
-    
+     
+    try:
+        from .classes.chem_utils import Std, Penalty
+        from .classes.classes_functions import build_graph_from_tsv, k_shortest_paths
+        from .classes.rp_classes import RP, RpOutput
+    except ImportError:
+        from cape_app.algorithms.pathways.classes.chem_utils import Std, Penalty
+        from cape_app.algorithms.pathways.classes.classes_functions import build_graph_from_tsv, k_shortest_paths
+        from cape_app.algorithms.pathways.classes.rp_classes import RP, RpOutput
+
     script_dir = os.path.dirname(os.path.abspath(__file__))
 
     PATHWAY_FOLDER = os.path.join(script_dir, 'data', 'Pathways')
@@ -89,7 +95,11 @@ def main(start_inchi: str, end_inchi: str, start_name:str='', end_name:str='', m
 if __name__ == "__main__":
     import argparse
     import pandas as pd
-    import os
+    import sys
+
+    cwd = os.getcwd()
+    if cwd not in sys.path:
+        sys.path.insert(0, cwd)
 
     parser = argparse.ArgumentParser(
         description="CAPE Pathway Prediction CLI — run pathway search and RetroPath integration"
@@ -106,7 +116,7 @@ if __name__ == "__main__":
     parser.add_argument("--max_diameter", type=int, default=16, help="Maximum reaction diameter for RetroPath rules")
     parser.add_argument("--timeout", type=int, default=60, help="Timeout (minutes) for RetroPath")
     parser.add_argument("--outdir", default="./cape_app/pipeline_results/rp_results/",
-                        help="Output directory for pathway results")
+                        help="Output directory for pathway results. WARNING: All contents of this directory will be deleted before running.")
     parser.add_argument("--sink_file", default="./cape_app/algorithms/pathways/data/gsm_gapfilled_sink.csv",
                         help="Path to sink file for RetroPath")
     parser.add_argument("--rules_file", default="./cape_app/algorithms/pathways/data/retrorules_rr02_rp2_flat_forward.csv",
@@ -131,6 +141,7 @@ if __name__ == "__main__":
         timeout=args.timeout,
         sink_file=args.sink_file,
         rules_file=args.rules_file,
+        clear_outdir=True  # Always True when called from CLI
     )
 
     if not result:
@@ -138,8 +149,37 @@ if __name__ == "__main__":
     else:
         output_path = os.path.join(args.outdir, "pathways.csv")
         try:
-            df = pd.DataFrame(result)
+            # result is a list of tuples: [(weight, path_steps), ...]
+            rows = []
+            for pathway_num, (weight, path_steps) in enumerate(result, start=1):
+                # Create a row for each step in the pathway
+                for step_num, step in enumerate(path_steps, start=1):
+                    source_name = step[0]
+                    target_name = step[2]
+                    ec_dicts = step[1]
+                    
+                    # Extract EC information
+                    ec_numbers = [ec_dict.get('EC', '') for ec_dict in ec_dicts]
+                    enzymes = [ec_dict.get('enzyme', '') for ec_dict in ec_dicts]
+                    colors = [ec_dict.get('color', '') for ec_dict in ec_dicts]
+                    reactions = [', '.join(ec_dict.get('reactions', [])) for ec_dict in ec_dicts]
+                    
+                    rows.append({
+                        'pathway_id': pathway_num,
+                        'pathway_weight': weight,
+                        'step_number': step_num,
+                        'total_steps': len(path_steps),
+                        'source_compound': source_name,
+                        'target_compound': target_name,
+                        'EC_numbers': '; '.join(ec_numbers),
+                        'enzymes': '; '.join(enzymes),
+                        'enzyme_colors': '; '.join(colors),
+                        'reactions': '; '.join(reactions)
+                    })
+            
+            df = pd.DataFrame(rows)
             df.to_csv(output_path, index=False)
             print(f"✅ Pathways saved to {output_path}")
+            print(f"   Found {len(result)} pathway(s) with {len(rows)} total steps")
         except Exception as e:
             print(f"⚠️ Could not save pathways to CSV: {e}")
