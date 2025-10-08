@@ -9,6 +9,7 @@ to codon optimization and results.
 
 # Standard library
 import random
+import pandas as pd
 from collections import defaultdict
 import os
 import glob
@@ -257,7 +258,21 @@ def ec_choice(request):
                     enzyme_entry['data'] = data
                     enzyme_entry['has_data'] = not data.empty
                     
-                    enzyme_entry['ec_selenzyme'] = data['EC Number'].dropna().unique().tolist()
+                    # Get unique EC numbers and split any that contain semicolons or commas
+                    ec_numbers = data['EC Number'].dropna().unique().tolist()
+                    split_ec_numbers = []
+                    for ec in ec_numbers:
+                        ec_str = str(ec).strip()
+                        # Split by semicolon or comma
+                        if ';' in ec_str:
+                            split_ec_numbers.extend([e.strip() for e in ec_str.split(';') if e.strip()])
+                        elif ',' in ec_str:
+                            split_ec_numbers.extend([e.strip() for e in ec_str.split(',') if e.strip()])
+                        else:
+                            split_ec_numbers.append(ec_str)
+                    
+                    # Remove duplicates while preserving order
+                    enzyme_entry['ec_selenzyme'] = list(dict.fromkeys(split_ec_numbers))
 
                     step_type = 'selenzyme'
                 else:
@@ -283,10 +298,60 @@ def ec_choice(request):
                                    'ecs': available_ecs,
                                    'step_type': step_type})
 
+        def split_ec_column(df: pd.DataFrame, ec_column_name: str):
+            """
+            Split rows with multiple EC numbers (semicolon or comma-separated) into separate rows.
+            
+            Args:
+                df: pandas DataFrame
+                ec_column_name: name of the column containing EC numbers
+            
+            Returns:
+                DataFrame with split rows
+            """
+            new_rows = []
+            
+            for idx, row in df.iterrows():
+                ec_value = row[ec_column_name]
+                
+                # Check if EC value is null or doesn't contain separators
+                if pd.isna(ec_value) or (';' not in str(ec_value) and ',' not in str(ec_value)):
+                    new_rows.append(row)
+                else:
+                    # Convert to string and handle brackets if present
+                    ec_string = str(ec_value).strip()
+                    
+                    # Remove brackets if present (e.g., "[EC1, EC2]" -> "EC1, EC2")
+                    if ec_string.startswith('[') and ec_string.endswith(']'):
+                        ec_string = ec_string[1:-1]
+                    
+                    # Split by semicolon first, then comma, and strip whitespace
+                    # Prioritize semicolon as separator
+                    if ';' in ec_string:
+                        ec_numbers = [ec.strip() for ec in ec_string.split(';')]
+                    else:
+                        ec_numbers = [ec.strip() for ec in ec_string.split(',')]
+                    
+                    # Create a new row for each EC number
+                    for ec in ec_numbers:
+                        if ec:  # Skip empty strings
+                            new_row = row.copy()
+                            new_row[ec_column_name] = ec
+                            new_rows.append(new_row)
+            
+            return pd.DataFrame(new_rows).reset_index(drop=True)
+
         for step in detailed_steps:
             for enzyme_entry in step['ecs']:
-                if hasattr(enzyme_entry.get('data'), 'to_dict'):
-                    enzyme_entry['data'] = enzyme_entry['data'].to_dict(orient='records')
+                if 'data' in enzyme_entry and hasattr(enzyme_entry.get('data'), 'to_dict'):
+                    df = enzyme_entry['data']
+                    
+                    df = split_ec_column(df, 'EC Number')
+                    
+                    df.columns = df.columns.str.replace(' ', '_').str.replace('.', '')
+                    
+                    enzyme_entry['data'] = df.to_dict('records')
+                    enzyme_entry['has_data'] = len(enzyme_entry['data']) > 0
 
         # Save detailed steps in session   
         request.session['selected_steps'] = detailed_steps
@@ -299,7 +364,6 @@ def ec_choice(request):
         
         # Render the template with the data 'context'
         return render(request, 'cape/ec_choice.html', context)
-
 
 def orthologs(request):
     """

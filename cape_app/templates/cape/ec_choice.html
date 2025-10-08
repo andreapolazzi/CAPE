@@ -93,27 +93,45 @@
                                 </h4>
                                 {% for ec_entry in step.ecs %}
                                     {% if ec_entry.has_data %}
-                                    <div class="smarts-table-wrapper">
-                                        <table class="smarts-data-table">
-                                            <thead>
-                                                <tr>
-                                                    <th>EC Number</th>
-                                                    <th>Enzyme Name</th>
-                                                    <th>Organism</th>
-                                                    <th>Score</th>
-                                                </tr>
-                                            </thead>
-                                            <tbody>
-                                                {% for row in ec_entry.data.itertuples %}
-                                                <tr>
-                                                    <td class="ec-cell">{{ row.EC_Number|default:"-" }}</td>
-                                                    <td>{{ row.Enzyme_Name|default:"-" }}</td>
-                                                    <td>{{ row.Organism|default:"-" }}</td>
-                                                    <td class="score-cell">{{ row.Score|default:"-" }}</td>
-                                                </tr>
-                                                {% endfor %}
-                                            </tbody>
-                                        </table>
+                                    <div class="smarts-table-container">
+                                        <div class="smarts-table-wrapper">
+                                            <table class="smarts-data-table">
+                                                <thead>
+                                                    <tr>
+                                                        <th>Seq. ID</th>
+                                                        <th>Organism Source</th>
+                                                        <th>Description</th>
+                                                        <th>Tax. Distance</th>
+                                                        <th>Rxn. ID</th>
+                                                        <th>EC Number</th>
+                                                        <th>Uniprot Evidence</th>
+                                                        <th>Score</th>
+                                                    </tr>
+                                                </thead>
+                                                <tbody>
+                                                    {% if ec_entry.data %}
+                                                        {% for row in ec_entry.data %}
+                                                        <tr>
+                                                            <td class="seqid-cell">{{ row.Seq_ID|default:"-" }}</td>
+                                                            <td class="organism-cell">{{ row.Organism_Source|default:"-" }}</td>
+                                                            <td class="description-cell" title="{{ row.Description }}">{{ row.Description|default:"-"|truncatewords:8 }}</td>
+                                                            <td class="tax-cell">{{ row.Tax_distance|default:"-" }}</td>
+                                                            <td class="rxn-cell">{{ row.Rxn_ID|default:"-" }}</td>
+                                                            <td class="ec-cell">{{ row.EC_Number|default:"-" }}</td>
+                                                            <td class="evidence-cell">{{ row.Uniprot_protein_evidence|default:"-" }}</td>
+                                                            <td class="score-cell">{{ row.Score|default:"-"|floatformat:3 }}</td>
+                                                        </tr>
+                                                        {% endfor %}
+                                                    {% else %}
+                                                        <tr>
+                                                            <td colspan="8" style="text-align: center; padding: 20px; color: #6c757d;">
+                                                                No data available
+                                                            </td>
+                                                        </tr>
+                                                    {% endif %}
+                                                </tbody>
+                                            </table>
+                                        </div>
                                     </div>
                                     {% endif %}
                                 {% endfor %}
@@ -451,38 +469,55 @@
         border: 1px solid #dee2e6;
     }
 
+    /* Embedded scrollable table container */
+    .smarts-table-container {
+        max-height: 400px;
+        overflow-y: auto;
+        border-radius: 8px;
+        border: 1px solid #dee2e6;
+        margin-top: 15px;
+        background: white;
+    }
+
     .smarts-table-wrapper {
         overflow-x: auto;
-        margin-top: 15px;
+        position: relative;
     }
 
     .smarts-data-table {
         width: 100%;
+        min-width: 1000px;
         border-collapse: collapse;
         background: white;
-        border-radius: 8px;
-        overflow: hidden;
-        box-shadow: 0 2px 8px rgba(0,0,0,0.05);
     }
 
     .smarts-data-table thead {
         background: linear-gradient(135deg, #17a2b8 0%, #138496 100%);
         color: white;
+        position: sticky;
+        top: 0;
+        z-index: 10;
     }
 
     .smarts-data-table th {
-        padding: 12px;
+        padding: 12px 10px;
         text-align: left;
         font-weight: 600;
-        font-size: 0.9rem;
+        font-size: 0.85rem;
         text-transform: uppercase;
         letter-spacing: 0.5px;
+        white-space: nowrap;
+        border-right: 1px solid rgba(255, 255, 255, 0.2);
+    }
+
+    .smarts-data-table th:last-child {
+        border-right: none;
     }
 
     .smarts-data-table td {
-        padding: 12px;
+        padding: 10px;
         border-bottom: 1px solid #dee2e6;
-        font-size: 0.95rem;
+        font-size: 0.9rem;
     }
 
     .smarts-data-table tbody tr:hover {
@@ -493,25 +528,98 @@
         border-bottom: none;
     }
 
+    /* Specific column styles */
+    .seqid-cell {
+        font-family: 'Courier New', monospace;
+        font-weight: 600;
+        color: #495057;
+        white-space: nowrap;
+    }
+
+    .organism-cell {
+        max-width: 200px;
+        overflow: hidden;
+        text-overflow: ellipsis;
+        white-space: nowrap;
+        font-style: italic;
+    }
+
+    .description-cell {
+        max-width: 250px;
+        overflow: hidden;
+        text-overflow: ellipsis;
+        white-space: nowrap;
+        cursor: help;
+    }
+
+    .tax-cell {
+        text-align: center;
+        font-weight: 600;
+        color: #6c757d;
+    }
+
+    .rxn-cell {
+        font-family: 'Courier New', monospace;
+        font-size: 0.85rem;
+        white-space: nowrap;
+    }
+
     .ec-cell {
         font-weight: 600;
         color: #17a2b8;
+        white-space: nowrap;
+    }
+
+    .evidence-cell {
+        text-align: center;
+        font-size: 0.85rem;
+        color: #495057;
     }
 
     .score-cell {
-        font-weight: 600;
+        font-weight: 700;
         color: #28a745;
+        text-align: right;
+        font-family: 'Courier New', monospace;
     }
 
-    .ec-source-badge {
-        display: inline-block;
-        background: #d1ecf1;
-        color: #0c5460;
-        padding: 2px 8px;
-        border-radius: 10px;
-        font-size: 0.75rem;
-        font-weight: 600;
-        margin-left: 8px;
+    /* Custom scrollbar for the table container */
+    .smarts-table-container::-webkit-scrollbar {
+        width: 8px;
+        height: 8px;
+    }
+
+    .smarts-table-container::-webkit-scrollbar-track {
+        background: #f1f1f1;
+        border-radius: 4px;
+    }
+
+    .smarts-table-container::-webkit-scrollbar-thumb {
+        background: #888;
+        border-radius: 4px;
+    }
+
+    .smarts-table-container::-webkit-scrollbar-thumb:hover {
+        background: #555;
+    }
+
+    .smarts-table-wrapper::-webkit-scrollbar {
+        width: 8px;
+        height: 8px;
+    }
+
+    .smarts-table-wrapper::-webkit-scrollbar-track {
+        background: #f1f1f1;
+        border-radius: 4px;
+    }
+
+    .smarts-table-wrapper::-webkit-scrollbar-thumb {
+        background: #888;
+        border-radius: 4px;
+    }
+
+    .smarts-table-wrapper::-webkit-scrollbar-thumb:hover {
+        background: #555;
     }
 
     /* EC Options Section */
