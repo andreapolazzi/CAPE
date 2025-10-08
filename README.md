@@ -31,6 +31,18 @@ cd CAPE
 conda env create -f environment.yml
 ```
 
+- Unzip necessary files
+```bash
+gunzip -k cape_app/algorithms/pathways/data/retrorules_rr02_rp2_flat_forward.csv.gz
+tar -xzf cape_app/algorithms/pathways/data/Pathways.tar.gz -C cape_app/algorithms/pathways/data/
+```
+
+- Install RetroPath2.0
+```bash
+conda install -c conda-forge -n cape retropath2_wrapper
+```
+Disclaimer: as of 08/10/2025, there is a bug in KNIME download attempt by RetroPath2.0 at its first download. Authors are working to fix the problem, but we cannot guarantee this to work.
+
 - Activate the environment
 
 ```bash
