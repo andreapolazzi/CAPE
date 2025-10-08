@@ -16,7 +16,7 @@
     <section class="tool-section">
         <h2>Start Analysis</h2>
         <div class="tool-controls">
-            <form method="POST" action="{% url 'pathways' %}">
+            <form method="POST" action="{% url 'pathways' %}" enctype="multipart/form-data">
                 {% csrf_token %}
                 <label class="input-label" for="sequence-input">Enter Input Parameters</label>
                 <input type="text" name="pollutant" class="input-field" placeholder="Insert starting pollutant to be degraded" required>
@@ -28,11 +28,11 @@
                 <p class="input-label">RetroPath2.0 Mandatory settings</p>
                 <p>Please fill them in even if RetroPath2.0 would not be used, as they will be eventually ignored</p>
                 <label for="sink_file" class="input-field" style="display: inline-block; cursor: pointer; text-align: center;">
-                    Choose Sink csv file
+                    <span id="sink_file_label">Choose Sink csv file</span>
                 </label>
                 <input type="file" id="sink_file" name="sink_file" style="display: none;" accept=".csv">
                 <label for="rules_file" class="input-field" style="display: inline-block; cursor: pointer; text-align: center;">
-                    Choose Rules csv file
+                    <span id="rules_file_label">Choose Rules csv file</span>
                 </label>
                 <input type="file" id="rules_file" name="rules_file" style="display: none;" accept=".csv">
 
@@ -60,9 +60,57 @@
             </form>
             
         </div>
+
+        <h2>Our suggested files</h2>
+
+        <h3>Reaction Rules</h3>
+        <a href="{% url 'download_rules' %}" download>
+            retrorules_rr02_rp2_flat_forward.csv
+        </a><br>
+        <h3>Sink Files</h3>
+        <a href="{% url 'download_gsm_sink' %}" download>
+            gsm_gapfilled_sink.csv
+        </a><br>
+        <p>
+            A sink obtained by <i>Rhodococcus opacus</i> PD630 Genome Scale Model, 
+            with dead-end metabolites being removed. It is the most suitable sink for most applications.
+        </p>
+        <a href="{% url 'download_biocyc_sink' %}" download>
+            biocyc_cmpd_rpcleaned.csv
+        </a><br>
+        <p>
+            A sink obtained by quering BioCyc for <i>R. opacus</i> metabolites (PD630 was not available). 
+            It is useful for increasing the possibility of merging RetroPath2.0 output with the KEGG network. 
+            Even though in most cases it would not be relevant, it is worth noting that not all compounds 
+            here are guaranteed to be actually present in PD630, 
+            and some compounds in PD630 might not be present in the sink.
+        </p>
+        <a href="{% url 'download_kegg_sink' %}" download>
+            kegg_rp.csv
+        </a><br>
+        <p>
+            A sink obtained by considering all compounds in our KEGG network, including those of "white" edges 
+            and therefore not present in <i>R. opacus</i> PD630. When no other solution can be found with other types of sink, 
+            this one can offer a way to dramatically increase the chance to merge the networks, 
+            as reaching a sink compound here intrinsically means to merge the graphs.
+        </p><br>
     </section>
 
 </main>
+
+
+<script>
+document.getElementById('sink_file').addEventListener('change', function(e) {
+    const fileName = e.target.files[0] ? e.target.files[0].name : 'Choose Sink csv file';
+    document.getElementById('sink_file_label').textContent = fileName;
+});
+
+document.getElementById('rules_file').addEventListener('change', function(e) {
+    const fileName = e.target.files[0] ? e.target.files[0].name : 'Choose Rules csv file';
+    document.getElementById('rules_file_label').textContent = fileName;
+});
+</script>
+
 {% endblock %}
 
 

@@ -704,3 +704,37 @@ def export(request):
 
 def help(request):
     return render(request, 'cape/HelpCAPE.html')
+
+
+
+@require_http_methods(["GET"])
+def download_rules(request):
+    """Download retrorules file"""
+    file_path = './cape_app/algorithms/pathways/data/retrorules_rr02_rp2_flat_forward.csv'
+    if os.path.exists(file_path):
+        return FileResponse(open(file_path, 'rb'), as_attachment=True, filename='retrorules_rr02_rp2_flat_forward.csv')
+    return HttpResponse('File not found', status=404)
+
+@require_http_methods(["GET"])
+def download_gsm_sink(request):
+    """Download GSM sink file"""
+    file_path = './cape_app/algorithms/pathways/data/gsm_gapfilled_sink.csv'
+    if os.path.exists(file_path):
+        return FileResponse(open(file_path, 'rb'), as_attachment=True, filename='gsm_gapfilled_sink.csv')
+    return HttpResponse('File not found', status=404)
+
+@require_http_methods(["GET"])
+def download_biocyc_sink(request):
+    """Download BioCyc sink file"""
+    file_path = './cape_app/algorithms/pathways/data/biocyc_cmpd_rpcleaned.csv'
+    if os.path.exists(file_path):
+        return FileResponse(open(file_path, 'rb'), as_attachment=True, filename='biocyc_cmpd_rpcleaned.csv')
+    return HttpResponse('File not found', status=404)
+
+@require_http_methods(["GET"])
+def download_kegg_sink(request):
+    """Download KEGG sink file"""
+    file_path = './cape_app/algorithms/pathways/data/kegg_rp.csv'
+    if os.path.exists(file_path):
+        return FileResponse(open(file_path, 'rb'), as_attachment=True, filename='kegg_rp.csv')
+    return HttpResponse('File not found', status=404)

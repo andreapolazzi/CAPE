@@ -15,6 +15,10 @@ from . import views
 urlpatterns = [
     # Homepage of the application
     path('', views.homepage, name='homepage'),
+	path('download/rules/', views.download_rules, name='download_rules'),
+    path('download/gsm-sink/', views.download_gsm_sink, name='download_gsm_sink'),
+    path('download/biocyc-sink/', views.download_biocyc_sink, name='download_biocyc_sink'),
+    path('download/kegg-sink/', views.download_kegg_sink, name='download_kegg_sink'),
 
     # Pathways analysis page: compute and display metabolic pathways
     path('pathways', views.pathways, name='pathways'),
