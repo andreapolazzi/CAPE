@@ -58,7 +58,8 @@ python -m cape_app.algorithms.pathways.main   --start_inchi "InChI=1S/C8H10O/c1-
 
 ### Key Arguments
 
-- `--start_inchi`, `--end_inchi`: required; define the endpoints of the metabolic search.
+- `--start_inchi`, `--end_inchi`: required; define the endpoints of the metabolic search. Our internal standardization pipeline protonates all molecules and collapses tautomers, in order to reduce the possibilities of not finding compounds in KEGG network and to allow the integration of RetroPath2.0 nodes. However, this might fail sometimes, and user is advised to try different InChI codes for the same molecule if nodes are not found in KEGG network.
+  - example: pyruvate (InChI=1S/C3H4O3/c1-2(4)3(5)6/h1H3,(H,5,6)/p-1) might not be recognised as part of KEGG network, while pyruvic acid (InChI=1S/C3H4O3/c1-2(4)3(5)6/h1H3,(H,5,6)) might be.
 - `--max_paths`: maximum number of shortest paths to return (default 3). Minimum 1.
 - `--max_steps`: maximum RetroPath iteration depth (default 5). After 4 or 5 steps, memory and time usage increase exponentially. Minimum 1.
 - `--max_structures`: maximum number of structures generated per step (default 100).
