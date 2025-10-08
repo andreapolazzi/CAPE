@@ -19,8 +19,8 @@
             <form method="POST" action="{% url 'pathways' %}" enctype="multipart/form-data">
                 {% csrf_token %}
                 <label class="input-label" for="sequence-input">Enter Input Parameters</label>
-                <input type="text" name="pollutant" class="input-field" placeholder="Insert starting pollutant to be degraded" required>
-                <input type="text" name="p_inchi" class="input-field" placeholder="Insert InChI of pollutant" required>
+                <input type="text" name="pollutant" class="input-field" placeholder="Insert starting compound to be degraded" required>
+                <input type="text" name="p_inchi" class="input-field" placeholder="Insert InChI of starting compound" required>
                 <input type="text" name="sink" class="input-field" placeholder="Insert final compound" required>
                 <input type="text" name="f_inchi" class="input-field" placeholder="Insert InChI of the final compound" required>
                 <input type="number" name="max_paths" class="input-field" placeholder="Number of pathways (default 3)" min="1">
