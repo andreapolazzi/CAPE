@@ -60,20 +60,15 @@ def main(start_inchi: str, end_inchi: str, start_name:str='', end_name:str='', m
                        structures=max_structures, dmin=min_diameter, dmax=max_diameter,
                        outdir=outdir, timeout=timeout, clear=clear_outdir)
         print("generating tsv from retropath results")
-        #RpOutput.tsv_generator(results_path="./cape_app/pipeline_results/rp_results/results.csv", 
-        #                       outdir="./cape_app/pipeline_results/rp_results/")
         RpOutput.tsv_generator(results_path=os.path.join(outdir, "results.csv"), 
                        outdir=outdir)
+        
         print("standardizing retropath edges")
-        #Std.main(tsv_edges_path="./cape_app/pipeline_results/rp_results/rp_edges.tsv", 
-        #         edges_std_path="./cape_app/pipeline_results/rp_results/rp_std_edges.tsv", 
-        #         processes=64)
         Std.main(tsv_edges_path=os.path.join(outdir, "rp_edges.tsv"), 
                  edges_std_path=os.path.join(outdir, "rp_std_edges.tsv"), 
                  processes=2)
+        
         print("adding weights to retropath edges")
-        #Penalty.main(std_path="./cape_app/pipeline_results/rp_results/rp_std_edges.tsv", 
-        #             weighted_path="./cape_app/pipeline_results/rp_results/rp_weighted_edges.tsv")
         Penalty.main(std_path=os.path.join(outdir, "rp_std_edges.tsv"), 
                      weighted_path=os.path.join(outdir, "rp_weighted_edges.tsv"))
         
