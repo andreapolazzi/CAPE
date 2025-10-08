@@ -23,6 +23,7 @@ Then, on a Linux-like terminal:
 ```bash
 git clone https://github.com/andreapolazzi/CAPE.git
 ```
+All commands to use this repository are intended to be run from `CAPE/` and directories must be relative to `CAPE/`.
 
 - Create the conda environment (inside the repository)
 
