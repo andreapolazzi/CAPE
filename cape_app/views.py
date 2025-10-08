@@ -108,6 +108,7 @@ def pathways(request):
         min_diameter = int(request.POST.get("min_diameter", 6))
         max_diameter = int(request.POST.get("max_diameter", 16))
         timeout = int(request.POST.get("timeout", 60))
+        nprocesses = int(request.POST.get("nprocesses", 2))
 
         os.makedirs(outdir, exist_ok=True)
         default_sink = "./cape_app/algorithms/pathways/data/gsm_gapfilled_sink.csv"
@@ -136,7 +137,7 @@ def pathways(request):
         pathways = main(start_inchi=p_inchi, end_inchi=f_inchi, start_name=pollutant, end_name=sink, 
                         max_paths=max_paths, outdir=outdir, max_steps=max_steps, max_structures=max_structures,
                         min_diameter=min_diameter, max_diameter=max_diameter, timeout=timeout,
-                        sink_file=sink_path, rules_file=rules_path)
+                        sink_file=sink_path, rules_file=rules_path, nprocesses=nprocesses)
         
         # Save the data in session
         request.session['pathways'] = pathways

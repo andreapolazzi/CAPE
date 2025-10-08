@@ -6,7 +6,7 @@ def main(start_inchi: str, end_inchi: str, start_name:str='', end_name:str='', m
          max_steps=5, max_structures=100, min_diameter=6, max_diameter=16, timeout=60,
          sink_file="./cape_app/algorithms/pathways/data/gsm_gapfilled_sink.csv",
          rules_file="./cape_app/algorithms/pathways/data/retrorules_rr02_rp2_flat_forward.csv",
-         clear_outdir=False) -> list:
+         nprocesses=2, clear_outdir=False) -> list:
      
     try:
         from .classes.chem_utils import Std, Penalty
@@ -66,7 +66,7 @@ def main(start_inchi: str, end_inchi: str, start_name:str='', end_name:str='', m
         print("standardizing retropath edges")
         Std.main(tsv_edges_path=os.path.join(outdir, "rp_edges.tsv"), 
                  edges_std_path=os.path.join(outdir, "rp_std_edges.tsv"), 
-                 processes=2)
+                 processes=nprocesses)
         
         print("adding weights to retropath edges")
         Penalty.main(std_path=os.path.join(outdir, "rp_std_edges.tsv"), 
