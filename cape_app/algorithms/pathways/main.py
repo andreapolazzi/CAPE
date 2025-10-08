@@ -10,11 +10,11 @@ def main(start_inchi: str, end_inchi: str, start_name:str='', end_name:str='', m
      
     try:
         from .classes.chem_utils import Std, Penalty
-        from .classes.classes_functions import build_graph_from_tsv, k_shortest_paths
+        from .classes.graph_functions import build_graph_from_tsv, k_shortest_paths
         from .classes.rp_classes import RP, RpOutput
     except ImportError:
         from cape_app.algorithms.pathways.classes.chem_utils import Std, Penalty
-        from cape_app.algorithms.pathways.classes.classes_functions import build_graph_from_tsv, k_shortest_paths
+        from cape_app.algorithms.pathways.classes.graph_functions import build_graph_from_tsv, k_shortest_paths
         from cape_app.algorithms.pathways.classes.rp_classes import RP, RpOutput
 
     script_dir = os.path.dirname(os.path.abspath(__file__))
@@ -182,4 +182,5 @@ if __name__ == "__main__":
             print(f"✅ Pathways saved to {output_path}")
             print(f"   Found {len(result)} pathway(s) with {len(rows)} total steps")
         except Exception as e:
+
             print(f"⚠️ Could not save pathways to CSV: {e}")
