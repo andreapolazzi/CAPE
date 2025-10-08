@@ -6,7 +6,7 @@ The pathway prediction logic resides in:
 Helper classes:
 
 - `cape_app/algorithms/pathways/classes/chem_utils.py`
-- `cape_app/algorithms/pathways/classes/classes_functions.py`
+- `cape_app/algorithms/pathways/classes/graph_functions.py`
 - `cape_app/algorithms/pathways/classes/rp_classes.py`
 
 This module identifies plausible metabolic routes between a **source** and a **target compound**, integrating both curated KEGG reactions and *de novo* routes generated via **RetroPath2.0**.  
