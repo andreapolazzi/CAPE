@@ -158,6 +158,56 @@
                     {% endif %}
                 </div>
 
+                <!-- Manual Entry Section for this EC -->
+                <div class="manual-entry-section">
+                    <button type="button" class="toggle-manual-btn" onclick="toggleManualEntry('{{ ec.ec_number }}')">
+                        <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                            <path d="M12 5v14M5 12h14"/>
+                        </svg>
+                        Add Custom Sequence for EC {{ ec.ec_number }}
+                    </button>
+                    
+                    <div id="manual-form-{{ ec.ec_number }}" class="manual-form-container hidden">
+                        <div class="manual-form">
+                            <div class="form-row">
+                                <div class="form-group">
+                                    <label for="manual-organism-{{ ec.ec_number }}">Organism Name</label>
+                                    <input type="text" 
+                                           id="manual-organism-{{ ec.ec_number }}" 
+                                           class="form-input" 
+                                           placeholder="e.g., Escherichia coli">
+                                </div>
+                                <div class="form-group">
+                                    <label for="manual-header-{{ ec.ec_number }}">Sequence Header</label>
+                                    <input type="text" 
+                                           id="manual-header-{{ ec.ec_number }}" 
+                                           class="form-input" 
+                                           placeholder="e.g., putative dehydrogenase">
+                                </div>
+                            </div>
+                            <div class="form-group">
+                                <label for="manual-sequence-{{ ec.ec_number }}">Protein Sequence</label>
+                                <textarea id="manual-sequence-{{ ec.ec_number }}" 
+                                          class="form-textarea" 
+                                          rows="4" 
+                                          placeholder="Enter protein sequence (e.g., MTKL...)"></textarea>
+                                <small class="form-hint">Only standard amino acid letters (A-Z). Spaces and line breaks will be removed.</small>
+                            </div>
+                            <div class="form-actions">
+                                <button type="button" class="add-manual-btn" onclick="addManualSequenceForEC('{{ ec.ec_number }}')">
+                                    <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                                        <path d="M20 6L9 17l-5-5"/>
+                                    </svg>
+                                    Add Sequence
+                                </button>
+                                <button type="button" class="cancel-manual-btn" onclick="toggleManualEntry('{{ ec.ec_number }}')">
+                                    Cancel
+                                </button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
                 {% if ec.hidden %}
                 <div class="hidden-section">
                     <button type="button" class="toggle-hidden-btn" onclick="toggleHidden('{{ ec.ec_number }}')">
@@ -826,6 +876,152 @@
         margin-bottom: 10px;
     }
 
+    /* Manual Entry Section per EC */
+    .manual-entry-section {
+        padding: 15px 20px 20px;
+        border-top: 2px dashed #dee2e6;
+        background: #fafbfc;
+    }
+
+    .toggle-manual-btn {
+        display: flex;
+        align-items: center;
+        gap: 8px;
+        padding: 10px 16px;
+        background: linear-gradient(135deg, var(--primary-purple), var(--secondary-purple));
+        color: white;
+        border: none;
+        border-radius: 6px;
+        font-size: 0.9rem;
+        font-weight: 500;
+        cursor: pointer;
+        transition: all 0.3s ease;
+        width: 100%;
+        justify-content: center;
+    }
+
+    .toggle-manual-btn:hover {
+        transform: translateY(-1px);
+        box-shadow: 0 4px 12px rgba(106, 27, 154, 0.3);
+    }
+
+    .manual-form-container {
+        margin-top: 15px;
+        padding: 20px;
+        background: white;
+        border-radius: 8px;
+        border: 2px solid var(--primary-purple);
+    }
+
+    .manual-form-container.hidden {
+        display: none;
+    }
+
+    .manual-form {
+        display: flex;
+        flex-direction: column;
+        gap: 15px;
+    }
+
+    .form-row {
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        gap: 15px;
+    }
+
+    .form-group {
+        display: flex;
+        flex-direction: column;
+        gap: 6px;
+    }
+
+    .form-group label {
+        font-weight: 600;
+        color: #495057;
+        font-size: 0.9rem;
+    }
+
+    .form-input, .form-textarea {
+        padding: 8px 12px;
+        border: 2px solid #dee2e6;
+        border-radius: 6px;
+        font-size: 0.9rem;
+        transition: all 0.3s ease;
+    }
+
+    .form-textarea {
+        font-family: 'Courier New', monospace;
+        resize: vertical;
+    }
+
+    .form-input:focus, .form-textarea:focus {
+        outline: none;
+        border-color: var(--primary-purple);
+        box-shadow: 0 0 0 3px rgba(106, 27, 154, 0.1);
+    }
+
+    .form-hint {
+        color: #6c757d;
+        font-size: 0.8rem;
+        font-style: italic;
+    }
+
+    .form-actions {
+        display: flex;
+        gap: 10px;
+        justify-content: flex-end;
+    }
+
+    .add-manual-btn {
+        display: flex;
+        align-items: center;
+        gap: 6px;
+        padding: 8px 16px;
+        background: #28a745;
+        color: white;
+        border: none;
+        border-radius: 6px;
+        font-size: 0.9rem;
+        font-weight: 500;
+        cursor: pointer;
+        transition: all 0.3s ease;
+    }
+
+    .add-manual-btn:hover {
+        background: #218838;
+        transform: translateY(-1px);
+    }
+
+    .cancel-manual-btn {
+        padding: 8px 16px;
+        background: #6c757d;
+        color: white;
+        border: none;
+        border-radius: 6px;
+        font-size: 0.9rem;
+        cursor: pointer;
+        transition: all 0.3s ease;
+    }
+
+    .cancel-manual-btn:hover {
+        background: #5a6268;
+    }
+
+    /* Responsive */
+    @media (max-width: 768px) {
+        .form-row {
+            grid-template-columns: 1fr;
+        }
+        
+        .form-actions {
+            flex-direction: column;
+        }
+        
+        .add-manual-btn, .cancel-manual-btn {
+            width: 100%;
+        }
+    }
+
 </style>
 
 <script>
@@ -1092,6 +1288,85 @@ function toggleHidden(ecNumber) {
         btn.textContent = 'Show Hidden Sequences ▾';
     }
 }
+
+// Toggle manual entry form for specific EC
+function toggleManualEntry(ecNumber) {
+    const formContainer = document.getElementById(`manual-form-${ecNumber}`);
+    formContainer.classList.toggle('hidden');
+}
+
+// Add manual sequence for specific EC
+function addManualSequenceForEC(ecNumber) {
+    const organismInput = document.getElementById(`manual-organism-${ecNumber}`);
+    const headerInput = document.getElementById(`manual-header-${ecNumber}`);
+    const sequenceInput = document.getElementById(`manual-sequence-${ecNumber}`);
+    
+    // Get and validate inputs
+    const organism = organismInput.value.trim();
+    const header = headerInput.value.trim();
+    let sequence = sequenceInput.value.trim().toUpperCase().replace(/[\s\n\r]/g, '');
+    
+    // Validation
+    if (!organism) {
+        alert('Please enter an organism name');
+        organismInput.focus();
+        return;
+    }
+    
+    if (!header) {
+        alert('Please enter a sequence header/description');
+        headerInput.focus();
+        return;
+    }
+    
+    if (!sequence) {
+        alert('Please enter a protein sequence');
+        sequenceInput.focus();
+        return;
+    }
+    
+    // Validate sequence (only amino acid letters)
+    const validAminoAcids = /^[ACDEFGHIKLMNPQRSTVWY]+$/;
+    if (!validAminoAcids.test(sequence)) {
+        alert('Invalid protein sequence. Only standard amino acid letters (A-Z) are allowed.');
+        sequenceInput.focus();
+        return;
+    }
+    
+    const length = sequence.length;
+    
+    // Create hidden checkbox with manual sequence data
+    const checkbox = document.createElement('input');
+    checkbox.type = 'checkbox';
+    checkbox.name = 'selections';
+    checkbox.value = `${ecNumber}||${organism}||${header}||${sequence}||${length}`;
+    checkbox.checked = true;
+    checkbox.style.display = 'none';
+    checkbox.dataset.manual = 'true';
+    checkbox.dataset.ec = ecNumber;
+    
+    // Add to form
+    document.getElementById('enzyme-form').appendChild(checkbox);
+    
+    // Update count
+    updateSelectionCount();
+    
+    // Show confirmation and hide form
+    const btn = event.target;
+    const originalHTML = btn.innerHTML;
+    btn.innerHTML = '<svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M20 6L9 17l-5-5"/></svg> Added!';
+    
+    setTimeout(() => {
+        btn.innerHTML = originalHTML;
+        toggleManualEntry(ecNumber);
+        
+        // Clear form
+        organismInput.value = '';
+        headerInput.value = '';
+        sequenceInput.value = '';
+    }, 1500);
+}
+
 
 </script>
 
