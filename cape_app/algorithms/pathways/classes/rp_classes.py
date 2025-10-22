@@ -11,7 +11,7 @@ class RP():
 
     
     CONDA_INIT = "source /work/igem/anaconda3/etc/profile.d/conda.sh"  # Adjust this path to your conda installation
-    ENV_NAME = "retropath_env"  # Name of the conda environment with retropath installed
+    ENV_NAME = "cape"  # Name of the conda environment with retropath installed
 
 
     @staticmethod
@@ -264,7 +264,7 @@ class RP():
         Utility to call retropath from django
         Acts a main for retropath execution with single source
 
-        !! WARNING: this will delete all the content of outdir !!
+        !! WARNING: this will delete all the content of outdir when called from django or CL !!
 
         Args:
             name: name of the source compound (no need to be precise)

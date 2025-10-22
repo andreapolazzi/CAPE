@@ -197,8 +197,6 @@ Examples:
     # Get EC numbers
     if args.file:
         ec_numbers = read_ec_list_from_file(args.file)
-        if not args.quiet:
-            print(f"Read {len(ec_numbers)} EC numbers from {args.file}")
     else:
         ec_numbers = args.ec_numbers
     

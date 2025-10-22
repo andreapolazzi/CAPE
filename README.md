@@ -33,15 +33,18 @@ conda env create -f environment.yml
 ```
 
 - Unzip necessary files
+
 ```bash
 gunzip -k cape_app/algorithms/pathways/data/retrorules_rr02_rp2_flat_forward.csv.gz
 tar -xzf cape_app/algorithms/pathways/data/Pathways.tar.gz -C cape_app/algorithms/pathways/data/
 ```
 
 - Install RetroPath2.0
+
 ```bash
 conda install -c conda-forge -n cape retropath2_wrapper
 ```
+
 Disclaimer: as of 08/10/2025, there is a bug in KNIME download attempt by RetroPath2.0 at its first download. Authors are working to fix the problem, but we cannot guarantee this to work.
 
 - Activate the environment
@@ -56,6 +59,15 @@ conda activate cape
 python manage.py runserver
 ```
 
+In case this message is displayed:
+
+```plaintext
+You have 18 unapplied migration(s). Your project may not work properly until you apply the migrations for app(s): admin, auth, contenttypes, sessions.
+Run 'python manage.py migrate' to apply them.
+```
+
+After quitting the server with `Ctrl+C`, run `python manage.py migrate` as suggested.
+
 You can access the web tool by navigating to <http://127.0.0.1:8000/>.
 
 ### Installation
@@ -69,10 +81,10 @@ See the documentation relative to each module's CLI below.
 
 | Step | Description | Link |
 |------|--------------|------|
-| **1️. Pathway Prediction** | Predicts viable metabolic routes from a starting compound to a desired product. | [Docs →](docs/pathway_prediction.md) |
-| **2️. Enzyme Selection** | Retrieves enzyme candidates from databases (MetaNetX, Brenda, EXpasy) to aid identifying missing EC. | [Docs →](docs/enzyme_selection.md) |
-| **3️. Protein Retrieval** | Retrieves and exports protein sequences in FASTA format. | [Docs →](docs/protein_retrieval.md) |
-| **4️. Codon Optimization** | Adapts coding sequences for the selected chassis organism. | [Docs →](docs/codon_optimization.md) |
+| **1. Pathway Prediction** | Predicts viable metabolic routes from a starting compound to a desired product. | [Docs](docs/pathway_prediction.md) |
+| **2. Enzyme Selection** | Retrieves enzyme candidates from databases (MetaNetX, Brenda, EXpasy) to aid identifying missing EC. | [Docs](docs/enzyme_selection.md) |
+| **3. Protein Retrieval** | Retrieves and exports protein sequences in FASTA format. | [Docs](docs/protein_retrieval.md) |
+| **4. Codon Optimization** | Adapts coding sequences for the selected chassis organism. | [Docs](docs/codon_optimization.md) |
 
 As indicated in the documentation files, the scripts can be found under `cape_app/algorithms`.
 
@@ -81,3 +93,11 @@ In the `export/` folder you can find the **HERO parts** and the **_pLoxship_** f
 ## Pipeline Overview
 
 ![Pipeline Diagram](docs/pipeline_diagram.svg)
+
+## Authors
+
+- Samuele Biguzzi
+- Andrea Polazzi
+- Greta Roccoberton
+- Alice Scazzieri
+- Irene Stridori

@@ -362,7 +362,7 @@ class Penalty():
             weighted_df: dataframe with weights
         """
         std_df = pd.read_csv(std_path, sep="\t")
-        invalid_df = pd.read_csv("/work/igem/iGEM/cape_app/algorithms/pathways/data/invalid_nodes.tsv", sep="\t")
+        invalid_df = pd.read_csv("./cape_app/algorithms/pathways/data/invalid_nodes.tsv", sep="\t")
         invalid_iks = set(invalid_df['std_inchikey'].tolist())
 
         # Create mask for invalid rows

@@ -15,4 +15,4 @@ dependencies:
   - matplotlib=3.5.2
   - pip
   - pip:
-      - pubchempy=1.0.4
+      - pubchempy==1.0.4

@@ -36,13 +36,13 @@ The module can be invoked from the command line through its built-in CLI.
 
 ```bash
 # Run a standard pathway search using KEGG + RetroPath integration
-python -m cape_app.algorithms.pathways.main   --start_inchi "InChI=1S/C6H6/c1-2-4-6-5-3-1/h1-6H"   --end_inchi "InChI=1S/C2H4O/c1-2-3/h2H,1H3"
+python cape_app/algorithms/pathways/main.py   --start_inchi "InChI=1S/C6H6/c1-2-4-6-5-3-1/h1-6H"   --end_inchi "InChI=1S/C2H4O/c1-2-3/h2H,1H3"
 
 # Specify a custom output folder and save the results as CSV
-python -m cape_app.algorithms.pathways.main   --start_inchi "InChI=1S/C7H8/c1-2-4-6-7-5-3-1/h1-7H"   --end_inchi "InChI=1S/C2H6O/c1-2-3/h3H,2H2,1H3"   --outdir results/pathway_search
+python cape_app/algorithms/pathways/main.py   --start_inchi "InChI=1S/C7H8/c1-2-4-6-7-5-3-1/h1-7H"   --end_inchi "InChI=1S/C2H6O/c1-2-3/h3H,2H2,1H3"   --outdir results/pathway_search
 
 # Tune RetroPath parameters for deeper exploration
-python -m cape_app.algorithms.pathways.main   --start_inchi "InChI=1S/C8H10O/c1-9-8-6-4-2-3-5-7-8/h2-7H,1H3"   --end_inchi "InChI=1S/C4H6O2/c1-3(5)4(2)6/h1H,2H3"   --max_paths 5   --max_steps 7   --max_structures 150   --min_diameter 8   --max_diameter 8
+python cape_app/algorithms/pathways/main.py   --start_inchi "InChI=1S/C8H10O/c1-9-8-6-4-2-3-5-7-8/h2-7H,1H3"   --end_inchi "InChI=1S/C4H6O2/c1-3(5)4(2)6/h1H,2H3"   --max_paths 5   --max_steps 7   --max_structures 150   --min_diameter 8   --max_diameter 8
 ```
 
 ---
