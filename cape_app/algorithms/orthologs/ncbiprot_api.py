@@ -75,6 +75,7 @@ def fetch_sequences(ids: List[str], chunk_size: int = 150) -> str:
             'rettype': 'fasta',
             'retmode': 'text'
         }
+        time.sleep(0.34)  # To respect NCBI's rate limit of 3 requests per second
         r = requests.get('https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi', params=params)
         r.raise_for_status()
         fasta_all += r.text
