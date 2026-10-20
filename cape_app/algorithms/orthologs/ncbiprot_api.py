@@ -1,6 +1,7 @@
 import requests
 from xml.etree import ElementTree
 from typing import List
+import time
 
 def fetch_protein_ids(ec_number: str, organism: str, batch_size=100, reviewed=False) -> list:
     '''
@@ -45,6 +46,7 @@ def fetch_protein_ids(ec_number: str, organism: str, batch_size=100, reviewed=Fa
             'retstart': start,
             'retmax': batch_size
         }
+        time.sleep(0.34)  # To respect NCBI's rate limit of 3 requests per second
         r = requests.get('https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi', params=params)
         r.raise_for_status()
         tree = ElementTree.fromstring(r.text)
