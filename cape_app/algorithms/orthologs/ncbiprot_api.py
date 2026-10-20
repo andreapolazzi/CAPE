@@ -29,6 +29,7 @@ def fetch_protein_ids(ec_number: str, organism: str, batch_size=100, reviewed=Fa
         'retmode': 'xml',
         'retmax': 0
     }
+    time.sleep(0.34)  # To respect NCBI's rate limit of 3 requests per second
     r = requests.get('https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi', params=count_params)
     r.raise_for_status()
     tree = ElementTree.fromstring(r.text)
